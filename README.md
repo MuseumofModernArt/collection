@@ -30,4 +30,4 @@ Whenever you transform, translate or otherwise modify the dataset, you must make
 
 
 
-The writers of these guidelines thank the [Tate](http://www.tate.org.uk/), [Cooper-Hewitt](http://www.cooperhewitt.org/); and [Europeana](http://www.europeana.eu/).
+The writers of these guidelines thank the [Tate](http://www.tate.org.uk/), [Cooper-Hewitt](http://www.cooperhewitt.org/), and [Europeana](http://www.europeana.eu/).
