@@ -21,7 +21,7 @@ We plan to update the dataset with new and revised information on a regular basi
 If you have identified errors or have extra information to share, please contact us at [collection@moma.org](mailto:collection@moma.org). 
 
 ### Give attribution to MoMA
-MoMA requests that you actively acknowledge and give attribution to MoMA wherever possible. If you use the dataset for a publication, please cite it using the digital object identifier [![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.20209.svg)](http://dx.doi.org/10.5281/zenodo.20209). Attribution supports efforts to release other data. It also reduces the amount of “orphaned data,” helping retain links to authoritative sources. 
+MoMA requests that you actively acknowledge and give attribution to MoMA wherever possible. If you use the dataset for a publication, please cite it using the digital object identifier [![DOI](https://zenodo.org/badge/15218/MuseumofModernArt/collection.svg)](https://zenodo.org/badge/latestdoi/15218/MuseumofModernArt/collection). Attribution supports efforts to release other data. It also reduces the amount of “orphaned data,” helping retain links to authoritative sources. 
 
 ### Do not misrepresent the dataset
 Do not mislead others or misrepresent the dataset or its source. You must not use MoMA’s trademarks or otherwise claim or imply that MoMA endorses you or your use of the dataset. 
