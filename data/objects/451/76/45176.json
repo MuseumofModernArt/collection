@@ -5,8 +5,7 @@
   "Artist": "Robert Adams", 
   "URL": "http://www.moma.org/collection/works/45176", 
   "CuratorApproved": "Y", 
-  "Title": "Newly Occupied Tract Houses, Colorado Springs, Colorado", 
-  "DateAcquired": "1970-03-04", 
+  "CreditLine": "Purchase", 
   "Date": "1968", 
   "ArtistID": 66, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "58.1970", 
-  "ArtistBio": "American, born 1937", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, born 1937)", 
+  "DateAcquired": "1970-03-04", 
+  "\ufeffTitle": "Newly Occupied Tract Houses, Colorado Springs, Colorado", 
   "ObjectID": "45176"
 }

@@ -5,8 +5,7 @@
   "Artist": "Ellsworth Kelly", 
   "URL": "http://www.moma.org/collection/works/68796", 
   "CuratorApproved": "Y", 
-  "Title": "Red Curve", 
-  "DateAcquired": "1990-10-23", 
+  "CreditLine": "Gift of the artist in memory of Monroe Wheeler", 
   "Date": "1987-88", 
   "ArtistID": 3048, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "420.1990", 
-  "ArtistBio": "American, born 1923", 
-  "CreditLine": "Gift of the artist in memory of Monroe Wheeler", 
+  "ArtistBio": "(American, born 1923)", 
+  "DateAcquired": "1990-10-23", 
+  "\ufeffTitle": "Red Curve", 
   "ObjectID": "68796"
 }

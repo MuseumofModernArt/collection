@@ -1,12 +1,11 @@
 {
   "Medium": "Lithograph", 
-  "Dimensions": "composition  16 5/16 x 12 9/16\" (41.4 x 31.9 cm)  sheet  19 9/16 x 14 3/4\" (49 x 37.5 cm)", 
+  "Dimensions": "composition  16 5/16 x 12 9/16\" (41.4 x 31.9 cm)\r\nsheet  19 9/16 x 14 3/4\" (49 x 37.5 cm)", 
   "Classification": "Print", 
   "Artist": "Jan Matulka", 
   "URL": "http://www.moma.org/collection/works/62822", 
   "CuratorApproved": "Y", 
-  "Title": "New York", 
-  "DateAcquired": "1975-05-09", 
+  "CreditLine": "John B. Turner Fund", 
   "Date": "(1924)", 
   "ArtistID": 3848, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "140.1975", 
-  "ArtistBio": "American, 1890\u20131972", 
-  "CreditLine": "John B. Turner Fund", 
+  "ArtistBio": "(American, 1890\u20131972)", 
+  "DateAcquired": "1975-05-09", 
+  "\ufeffTitle": "New York", 
   "ObjectID": "62822"
 }

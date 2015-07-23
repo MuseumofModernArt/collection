@@ -5,8 +5,7 @@
   "Artist": "Jan Lenica", 
   "URL": "http://www.moma.org/collection/works/7203", 
   "CuratorApproved": "Y", 
-  "Title": "Wozzeck", 
-  "DateAcquired": "1987-11-18", 
+  "CreditLine": "Gift of the designer", 
   "Date": "1964", 
   "ArtistID": 3480, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "485.1987", 
-  "ArtistBio": "Polish, 1928\u20132001", 
-  "CreditLine": "Gift of the designer", 
+  "ArtistBio": "(Polish, 1928\u20132001)", 
+  "DateAcquired": "1987-11-18", 
+  "\ufeffTitle": "Wozzeck (Poster for Warsaw production of the 1914-22 opera by Alban Berg)", 
   "ObjectID": "7203"
 }

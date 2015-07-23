@@ -5,8 +5,7 @@
   "Artist": "Pablo Picasso", 
   "URL": "http://www.moma.org/collection/works/35077", 
   "CuratorApproved": "Y", 
-  "Title": "Two Dancers", 
-  "DateAcquired": "1963-03-12", 
+  "CreditLine": "The John S. Newberry Collection", 
   "Date": "(Summer) 1919", 
   "ArtistID": 4609, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "178.1963", 
-  "ArtistBio": "Spanish, 1881\u20131973", 
-  "CreditLine": "The John S. Newberry Collection", 
+  "ArtistBio": "(Spanish, 1881\u20131973)", 
+  "DateAcquired": "1963-03-12", 
+  "\ufeffTitle": "Two Dancers", 
   "ObjectID": "35077"
 }

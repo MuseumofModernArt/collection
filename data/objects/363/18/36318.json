@@ -5,8 +5,7 @@
   "Artist": "Giuseppe Penone", 
   "URL": "http://www.moma.org/collection/works/36318", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled (No. 4)", 
-  "DateAcquired": "1983-03-15", 
+  "CreditLine": "Gift of the artist", 
   "Date": "(1981)", 
   "ArtistID": 4550, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "325.1983", 
-  "ArtistBio": "Italian, born 1947", 
-  "CreditLine": "Gift of the artist", 
+  "ArtistBio": "(Italian, born 1947)", 
+  "DateAcquired": "1983-03-15", 
+  "\ufeffTitle": "Untitled (No. 4)", 
   "ObjectID": "36318"
 }

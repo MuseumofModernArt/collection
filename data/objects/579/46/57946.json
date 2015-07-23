@@ -5,8 +5,7 @@
   "Artist": "Aleksandr Rodchenko", 
   "URL": "http://www.moma.org/collection/works/57946", 
   "CuratorApproved": "Y", 
-  "Title": "Gathering for a Demonstration", 
-  "DateAcquired": "2001-04-12", 
+  "CreditLine": "Gift of the Rodchenko Family", 
   "Date": "1932", 
   "ArtistID": 4975, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "1227.2001", 
-  "ArtistBio": "Russian, 1891\u20131956", 
-  "CreditLine": "Gift of the Rodchenko Family", 
+  "ArtistBio": "(Russian, 1891\u20131956)", 
+  "DateAcquired": "2001-04-12", 
+  "\ufeffTitle": "Gathering for a Demonstration", 
   "ObjectID": "57946"
 }

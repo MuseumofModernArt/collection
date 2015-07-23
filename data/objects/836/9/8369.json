@@ -5,8 +5,7 @@
   "Artist": "Hector Guimard", 
   "URL": "http://www.moma.org/collection/works/8369", 
   "CuratorApproved": "Y", 
-  "Title": "Le Castel B\u00e9ranger", 
-  "DateAcquired": "1965-11-09", 
+  "CreditLine": "Gift of Lillian Nassau", 
   "Date": "1900", 
   "ArtistID": 2407, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "919.1965", 
-  "ArtistBio": "French, 1867\u20131942", 
-  "CreditLine": "Gift of Lillian Nassau", 
+  "ArtistBio": "(French, 1867\u20131942)", 
+  "DateAcquired": "1965-11-09", 
+  "\ufeffTitle": "Le Castel B\u00e9ranger (Poster for an Exposition at Salon du Figaro, Paris)", 
   "ObjectID": "8369"
 }

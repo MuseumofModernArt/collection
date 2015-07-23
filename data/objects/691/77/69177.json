@@ -1,12 +1,11 @@
 {
   "Medium": "Etching, with chine coll\u00e9 addition", 
-  "Dimensions": "plate  23 3/8 x 19 11/16\" (59.4 x 50 cm)  sheet  30 3/4 x 25 3/4\" (78.1 x 65.4 cm)", 
+  "Dimensions": "plate  23 3/8 x 19 11/16\" (59.4 x 50 cm)\r\nsheet  30 3/4 x 25 3/4\" (78.1 x 65.4 cm)", 
   "Classification": "Print", 
   "Artist": "Robert Motherwell", 
   "URL": "http://www.moma.org/collection/works/69177", 
   "CuratorApproved": "Y", 
-  "Title": "The Wave", 
-  "DateAcquired": "1978-05-22", 
+  "CreditLine": "Gift of the artist and Brooke Alexander, Inc.", 
   "Date": "(1978)", 
   "ArtistID": 4126, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "441.1978", 
-  "ArtistBio": "American, 1915\u20131991", 
-  "CreditLine": "Gift of the artist and Brooke Alexander, Inc.", 
+  "ArtistBio": "(American, 1915\u20131991)", 
+  "DateAcquired": "1978-05-22", 
+  "\ufeffTitle": "The Wave", 
   "ObjectID": "69177"
 }

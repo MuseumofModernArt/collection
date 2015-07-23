@@ -5,8 +5,7 @@
   "Artist": "Tod Papageorge", 
   "URL": "http://www.moma.org/collection/works/45362", 
   "CuratorApproved": "Y", 
-  "Title": "Central Park", 
-  "DateAcquired": "1976-02-24", 
+  "CreditLine": "Joseph G. Mayer Fund", 
   "Date": "1975", 
   "ArtistID": 4490, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "64.1976", 
-  "ArtistBio": "American, born 1940", 
-  "CreditLine": "Joseph G. Mayer Fund", 
+  "ArtistBio": "(American, born 1940)", 
+  "DateAcquired": "1976-02-24", 
+  "\ufeffTitle": "Central Park", 
   "ObjectID": "45362"
 }

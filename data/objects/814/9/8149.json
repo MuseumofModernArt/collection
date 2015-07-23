@@ -5,8 +5,7 @@
   "Artist": "Johannes Molzahn", 
   "URL": "http://www.moma.org/collection/works/8149", 
   "CuratorApproved": "Y", 
-  "Title": "Prof. Johannes Molzahn", 
-  "DateAcquired": "1999-12-10", 
+  "CreditLine": "Jan Tschichold Collection, Gift of Philip Johnson", 
   "Date": "c. 1929", 
   "ArtistID": 4054, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "790.1999", 
-  "ArtistBio": "German, 1892\u20131965", 
-  "CreditLine": "Jan Tschichold Collection, Gift of Philip Johnson", 
+  "ArtistBio": "(German, 1892\u20131965)", 
+  "DateAcquired": "1999-12-10", 
+  "\ufeffTitle": "Prof. Johannes Molzahn", 
   "ObjectID": "8149"
 }

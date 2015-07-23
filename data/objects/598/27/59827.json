@@ -1,12 +1,11 @@
 {
   "Medium": "Portfolio of fifty-three lithographs", 
-  "Dimensions": "Composition and sheet (each approx): 3 9/16 x 26 3/4\" (9 x 67.9 cm)  ", 
+  "Dimensions": "Composition and sheet (each approx): 3 9/16 x 26 3/4\" (9 x 67.9 cm)\r\n", 
   "Classification": "Print", 
   "Artist": "Juan Hidalgo", 
   "URL": "http://www.moma.org/collection/works/59827", 
   "CuratorApproved": "Y", 
-  "Title": "Color Guard Etcetera (Etceteras Abanderados)", 
-  "DateAcquired": "1993-01-18", 
+  "CreditLine": "Purchase", 
   "Date": "1991", 
   "ArtistID": 6972, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "10.1993.1-53", 
-  "ArtistBio": "Spanish, born 1927", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(Spanish, born 1927)", 
+  "DateAcquired": "1993-01-18", 
+  "\ufeffTitle": "Color Guard Etcetera (Etceteras Abanderados)", 
   "ObjectID": "59827"
 }

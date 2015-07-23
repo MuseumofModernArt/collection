@@ -1,12 +1,11 @@
 {
   "Medium": "10 screenprints and 1 supplementary screenprint", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Illustrated Book", 
   "Artist": "Michael Craig-Martin", 
   "URL": "http://www.moma.org/collection/works/13331", 
   "CuratorApproved": "Y", 
-  "Title": "Book", 
-  "DateAcquired": "1997-05-28", 
+  "CreditLine": "Mary Ellen Meehan Fund", 
   "Date": "1997", 
   "ArtistID": 1288, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "200.1997.1-11", 
-  "ArtistBio": "British, born 1941", 
-  "CreditLine": "Mary Ellen Meehan Fund", 
+  "ArtistBio": "(British, born 1941)", 
+  "DateAcquired": "1997-05-28", 
+  "\ufeffTitle": "Book", 
   "ObjectID": "13331"
 }

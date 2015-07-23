@@ -5,8 +5,7 @@
   "Artist": "Robert Mangold", 
   "URL": "http://www.moma.org/collection/works/59712", 
   "CuratorApproved": "Y", 
-  "Title": "Seven Aquatints", 
-  "DateAcquired": "1974-01-10", 
+  "CreditLine": "John B. Turner Fund", 
   "Date": "1973 (published 1974)", 
   "ArtistID": 3723, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "7.1974.1-7", 
-  "ArtistBio": "American, born 1937", 
-  "CreditLine": "John B. Turner Fund", 
+  "ArtistBio": "(American, born 1937)", 
+  "DateAcquired": "1974-01-10", 
+  "\ufeffTitle": "Seven Aquatints", 
   "ObjectID": "59712"
 }

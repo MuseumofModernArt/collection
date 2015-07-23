@@ -5,8 +5,7 @@
   "Artist": "Eug\u00e8ne Atget", 
   "URL": "http://www.moma.org/collection/works/46683", 
   "CuratorApproved": "Y", 
-  "Title": "Au Coq Hardi, 18 Quai de la Megisserie", 
-  "DateAcquired": "1950-04-24", 
+  "CreditLine": "Given anonymously", 
   "Date": "1902", 
   "ArtistID": 229, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "126.1950", 
-  "ArtistBio": "French, 1857\u20131927", 
-  "CreditLine": "Given anonymously", 
+  "ArtistBio": "(French, 1857\u20131927)", 
+  "DateAcquired": "1950-04-24", 
+  "\ufeffTitle": "Au Coq Hardi, 18 Quai de la Megisserie", 
   "ObjectID": "46683"
 }

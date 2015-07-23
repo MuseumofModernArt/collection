@@ -5,8 +5,7 @@
   "Artist": "Reagan Louie", 
   "URL": "http://www.moma.org/collection/works/53322", 
   "CuratorApproved": "Y", 
-  "Title": "Guilin", 
-  "DateAcquired": "1988-12-15", 
+  "CreditLine": "Gift of the photographer", 
   "Date": "1987", 
   "ArtistID": 3606, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "434.1988.x1-x2", 
-  "ArtistBio": "American, born 1951", 
-  "CreditLine": "Gift of the photographer", 
+  "ArtistBio": "(American, born 1951)", 
+  "DateAcquired": "1988-12-15", 
+  "\ufeffTitle": "Guilin", 
   "ObjectID": "53322"
 }

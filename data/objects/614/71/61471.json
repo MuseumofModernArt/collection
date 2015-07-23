@@ -5,8 +5,7 @@
   "Artist": "David Alfaro Siqueiros", 
   "URL": "http://www.moma.org/collection/works/61471", 
   "CuratorApproved": "Y", 
-  "Title": "Mois\u00e9s S\u00e1enz", 
-  "DateAcquired": "1943-05-12", 
+  "CreditLine": "Inter-American Fund", 
   "Date": "1931", 
   "ArtistID": 5454, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "78.1943", 
-  "ArtistBio": "Mexican, 1896\u20131974", 
-  "CreditLine": "Inter-American Fund", 
+  "ArtistBio": "(Mexican, 1896\u20131974)", 
+  "DateAcquired": "1943-05-12", 
+  "\ufeffTitle": "Mois\u00e9s S\u00e1enz", 
   "ObjectID": "61471"
 }

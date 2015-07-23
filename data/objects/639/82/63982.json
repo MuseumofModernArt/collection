@@ -1,12 +1,11 @@
 {
   "Medium": "Woodcut", 
-  "Dimensions": "Composition: 36 3/8 x 32 1/16\" (92.4 x 81.4 cm)  Sheet: 41 9/16 x 36 1/2\" (105.5 x 92.7 cm)", 
+  "Dimensions": "Composition: 36 3/8 x 32 1/16\" (92.4 x 81.4 cm)\r\nSheet: 41 9/16 x 36 1/2\" (105.5 x 92.7 cm)", 
   "Classification": "Print", 
   "Artist": "Gregory Amenoff", 
   "URL": "http://www.moma.org/collection/works/63982", 
   "CuratorApproved": "Y", 
-  "Title": "In the Fifth Season", 
-  "DateAcquired": "1984-05-23", 
+  "CreditLine": "Dorothy Braude Edinburg Fund", 
   "Date": "1983", 
   "ArtistID": 145, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "184.1984", 
-  "ArtistBio": "American, born 1948", 
-  "CreditLine": "Dorothy Braude Edinburg Fund", 
+  "ArtistBio": "(American, born 1948)", 
+  "DateAcquired": "1984-05-23", 
+  "\ufeffTitle": "In the Fifth Season", 
   "ObjectID": "63982"
 }

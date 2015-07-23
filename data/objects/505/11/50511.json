@@ -5,8 +5,7 @@
   "Artist": "Berenice Abbott", 
   "URL": "http://www.moma.org/collection/works/50511", 
   "CuratorApproved": "Y", 
-  "Title": "Old Cafe, Lafayette Hotel", 
-  "DateAcquired": "1974-06-04", 
+  "CreditLine": "Given anonymously", 
   "Date": "1949", 
   "ArtistID": 41, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "312.1974", 
-  "ArtistBio": "American, 1898\u20131991", 
-  "CreditLine": "Given anonymously", 
+  "ArtistBio": "(American, 1898\u20131991)", 
+  "DateAcquired": "1974-06-04", 
+  "\ufeffTitle": "Old Cafe, Lafayette Hotel", 
   "ObjectID": "50511"
 }

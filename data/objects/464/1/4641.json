@@ -5,8 +5,7 @@
   "Artist": "James Prestini", 
   "URL": "http://www.moma.org/collection/works/4641", 
   "CuratorApproved": "Y", 
-  "Title": "Bowl (no. 332X)", 
-  "DateAcquired": "1968-10-07", 
+  "CreditLine": "Gift of the designer", 
   "Date": "c. 1945", 
   "ArtistID": 4729, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "1254.1968", 
-  "ArtistBio": "American, born Italy. 1908\u20131993", 
-  "CreditLine": "Gift of the designer", 
+  "ArtistBio": "(American, born Italy. 1908\u20131993)", 
+  "DateAcquired": "1968-10-07", 
+  "\ufeffTitle": "Bowl (no. 332X)", 
   "ObjectID": "4641"
 }

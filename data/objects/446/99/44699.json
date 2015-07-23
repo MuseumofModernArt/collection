@@ -5,8 +5,7 @@
   "Artist": "\u00c9douard Boubat", 
   "URL": "http://www.moma.org/collection/works/44699", 
   "CuratorApproved": "Y", 
-  "Title": "Moscow", 
-  "DateAcquired": "1966-01-11", 
+  "CreditLine": "Gift of the photographer", 
   "Date": "July 1963", 
   "ArtistID": 698, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "46.1966", 
-  "ArtistBio": "French, 1923\u20131999", 
-  "CreditLine": "Gift of the photographer", 
+  "ArtistBio": "(French, 1923\u20131999)", 
+  "DateAcquired": "1966-01-11", 
+  "\ufeffTitle": "Moscow", 
   "ObjectID": "44699"
 }

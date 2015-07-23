@@ -5,8 +5,7 @@
   "Artist": "Jean Dubuffet", 
   "URL": "http://www.moma.org/collection/works/38572", 
   "CuratorApproved": "Y", 
-  "Title": "Two Automobiles: Ford, Citroen", 
-  "DateAcquired": "1968-10-10", 
+  "CreditLine": "Gift of the artist, in honor of Mr. and Mrs. Ralph F. Colin", 
   "Date": "June 18, 1961", 
   "ArtistID": 1633, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "1323.1968", 
-  "ArtistBio": "French, 1901\u20131985", 
-  "CreditLine": "Gift of the artist, in honor of Mr. and Mrs. Ralph F. Colin", 
+  "ArtistBio": "(French, 1901\u20131985)", 
+  "DateAcquired": "1968-10-10", 
+  "\ufeffTitle": "Two Automobiles: Ford, Citroen", 
   "ObjectID": "38572"
 }

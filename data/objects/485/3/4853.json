@@ -5,8 +5,7 @@
   "Artist": "Karl Gerstner", 
   "URL": "http://www.moma.org/collection/works/4853", 
   "CuratorApproved": "Y", 
-  "Title": "Auch Du bist Liberal", 
-  "DateAcquired": "1960-04-06", 
+  "CreditLine": "Gift of the designer", 
   "Date": "1959", 
   "ArtistID": 2136, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "50.1960", 
-  "ArtistBio": "Swiss, born 1930", 
-  "CreditLine": "Gift of the designer", 
+  "ArtistBio": "(Swiss, born 1930)", 
+  "DateAcquired": "1960-04-06", 
+  "\ufeffTitle": "Auch Du bist Liberal", 
   "ObjectID": "4853"
 }

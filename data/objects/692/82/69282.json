@@ -5,8 +5,7 @@
   "Artist": "Alton Pickens", 
   "URL": "http://www.moma.org/collection/works/69282", 
   "CuratorApproved": "Y", 
-  "Title": "Saturn and Family", 
-  "DateAcquired": "1953-06-22", 
+  "CreditLine": "Purchase", 
   "Date": "1953", 
   "ArtistID": 4613, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "447.1953", 
-  "ArtistBio": "American, 1917\u20131991", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, 1917\u20131991)", 
+  "DateAcquired": "1953-06-22", 
+  "\ufeffTitle": "Saturn and Family", 
   "ObjectID": "69282"
 }

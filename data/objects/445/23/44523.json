@@ -5,8 +5,7 @@
   "Artist": "Charles Sheeler", 
   "URL": "http://www.moma.org/collection/works/44523", 
   "CuratorApproved": "Y", 
-  "Title": "Wheels", 
-  "DateAcquired": "1943-02-17", 
+  "CreditLine": "Anonymous gift", 
   "Date": "1939", 
   "ArtistID": 5383, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "41.1943", 
-  "ArtistBio": "American, 1883\u20131965", 
-  "CreditLine": "Anonymous gift", 
+  "ArtistBio": "(American, 1883\u20131965)", 
+  "DateAcquired": "1943-02-17", 
+  "\ufeffTitle": "Wheels", 
   "ObjectID": "44523"
 }

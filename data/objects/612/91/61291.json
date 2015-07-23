@@ -5,8 +5,7 @@
   "Artist": "Jos\u00e9 Luis Cuevas", 
   "URL": "http://www.moma.org/collection/works/61291", 
   "CuratorApproved": "Y", 
-  "Title": "Woman", 
-  "DateAcquired": "1956-03-19", 
+  "CreditLine": "Inter-American Fund", 
   "Date": "1948", 
   "ArtistID": 1325, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "73.1956", 
-  "ArtistBio": "Mexican, born 1934", 
-  "CreditLine": "Inter-American Fund", 
+  "ArtistBio": "(Mexican, born 1934)", 
+  "DateAcquired": "1956-03-19", 
+  "\ufeffTitle": "Woman", 
   "ObjectID": "61291"
 }

@@ -1,12 +1,11 @@
 {
   "Medium": "Lithograph", 
-  "Dimensions": "irreg. composition  53 1/2 x 39 3/4\" (135.9 x 100.9 cm)  sheet  56 1/8 x 41 1/16\" (142 x 104.3 cm)", 
+  "Dimensions": "irreg. composition  53 1/2 x 39 3/4\" (135.9 x 100.9 cm)\r\nsheet  56 1/8 x 41 1/16\" (142 x 104.3 cm)", 
   "Classification": "Print", 
   "Artist": "Jasper Johns", 
   "URL": "http://www.moma.org/collection/works/68087", 
   "CuratorApproved": "Y", 
-  "Title": "Periscope II", 
-  "DateAcquired": "1987-10-20", 
+  "CreditLine": "President's Fund Purchase, 1987, Donald B. Marron, President", 
   "Date": "1979", 
   "ArtistID": 2923, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "378.1987", 
-  "ArtistBio": "American, born 1930", 
-  "CreditLine": "President's Fund Purchase, 1987, Donald B. Marron, President", 
+  "ArtistBio": "(American, born 1930)", 
+  "DateAcquired": "1987-10-20", 
+  "\ufeffTitle": "Periscope II", 
   "ObjectID": "68087"
 }

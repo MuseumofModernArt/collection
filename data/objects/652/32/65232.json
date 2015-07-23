@@ -5,8 +5,7 @@
   "Artist": "Romare Bearden", 
   "URL": "http://www.moma.org/collection/works/65232", 
   "CuratorApproved": "Y", 
-  "Title": "The Train", 
-  "DateAcquired": "1975-10-07", 
+  "CreditLine": "Purchase", 
   "Date": "1975", 
   "ArtistID": 412, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "250.1975", 
-  "ArtistBio": "American, 1911\u20131988", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, 1911\u20131988)", 
+  "DateAcquired": "1975-10-07", 
+  "\ufeffTitle": "The Train", 
   "ObjectID": "65232"
 }

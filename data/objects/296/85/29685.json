@@ -5,8 +5,7 @@
   "Artist": "Pablo Picasso", 
   "URL": "http://www.moma.org/collection/works/29685", 
   "CuratorApproved": "Y", 
-  "Title": "In-text plate (page 77) from Le Chant des Morts", 
-  "DateAcquired": "1964-10-06", 
+  "CreditLine": "The Louis E. Stern Collection", 
   "Date": "1945-48, published 1948", 
   "ArtistID": 4609, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "990.1964.76", 
-  "ArtistBio": "Spanish, 1881\u20131973", 
-  "CreditLine": "The Louis E. Stern Collection", 
+  "ArtistBio": "(Spanish, 1881\u20131973)", 
+  "DateAcquired": "1964-10-06", 
+  "\ufeffTitle": "In-text plate (page 77) from the illustrated book Le Chant des Morts", 
   "ObjectID": "29685"
 }

@@ -5,8 +5,7 @@
   "Artist": "Jan Lenica", 
   "URL": "http://www.moma.org/collection/works/8314", 
   "CuratorApproved": "Y", 
-  "Title": "Czerwone I Czarne", 
-  "DateAcquired": "1979-05-30", 
+  "CreditLine": "Anonymous gift", 
   "Date": "1958", 
   "ArtistID": 3480, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "879.1979", 
-  "ArtistBio": "Polish, 1928\u20132001", 
-  "CreditLine": "Anonymous gift", 
+  "ArtistBio": "(Polish, 1928\u20132001)", 
+  "DateAcquired": "1979-05-30", 
+  "\ufeffTitle": "Czerwone I Czarne", 
   "ObjectID": "8314"
 }

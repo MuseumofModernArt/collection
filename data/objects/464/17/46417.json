@@ -5,8 +5,7 @@
   "Artist": "Unknown photographer", 
   "URL": "http://www.moma.org/collection/works/46417", 
   "CuratorApproved": "Y", 
-  "Title": "Flood of the Seine, Avenue Ledru-Rollin, Paris", 
-  "DateAcquired": "1988-03-10", 
+  "CreditLine": "Gift of Paul F. Walter", 
   "Date": "1910", 
   "ArtistID": 6028, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "110.1988", 
-  "ArtistBio": "NULL", 
-  "CreditLine": "Gift of Paul F. Walter", 
+  "ArtistBio": "", 
+  "DateAcquired": "1988-03-10", 
+  "\ufeffTitle": "Flood of the Seine, Avenue Ledru-Rollin, Paris", 
   "ObjectID": "46417"
 }

@@ -5,8 +5,7 @@
   "Artist": "Otto Natzler", 
   "URL": "http://www.moma.org/collection/works/4107", 
   "CuratorApproved": "Y", 
-  "Title": "Monolith Wall Vase", 
-  "DateAcquired": "1981-12-10", 
+  "CreditLine": "Joy E. Feinberg Purchase Fund. \"Given with the deepest thanks by Joy E. Feinberg of Berkeley, California\"", 
   "Date": "1980", 
   "ArtistID": 4241, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "567.1981", 
-  "ArtistBio": "American, born Austria. 1908\u20132007", 
-  "CreditLine": "Joy E. Feinberg Purchase Fund. \"Given with the deepest thanks by Joy E. Feinberg of Berkeley, California\"", 
+  "ArtistBio": "(American, born Austria. 1908\u20132007)", 
+  "DateAcquired": "1981-12-10", 
+  "\ufeffTitle": "Monolith Wall Vase", 
   "ObjectID": "4107"
 }

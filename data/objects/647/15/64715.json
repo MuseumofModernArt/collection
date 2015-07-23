@@ -5,8 +5,7 @@
   "Artist": "Jasper Johns", 
   "URL": "http://www.moma.org/collection/works/64715", 
   "CuratorApproved": "Y", 
-  "Title": "Voice 2", 
-  "DateAcquired": "1983-01-18", 
+  "CreditLine": "Gift of Celeste Bartos", 
   "Date": "1982", 
   "ArtistID": 2923, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "224.1983", 
-  "ArtistBio": "American, born 1930", 
-  "CreditLine": "Gift of Celeste Bartos", 
+  "ArtistBio": "(American, born 1930)", 
+  "DateAcquired": "1983-01-18", 
+  "\ufeffTitle": "Voice 2", 
   "ObjectID": "64715"
 }

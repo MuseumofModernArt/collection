@@ -5,8 +5,7 @@
   "Artist": "Armin Hofmann", 
   "URL": "http://www.moma.org/collection/works/8777", 
   "CuratorApproved": "Y", 
-  "Title": "Aus den Sammlungen des Gewerbe-Museums Basel", 
-  "DateAcquired": "2000-12-11", 
+  "CreditLine": "Gift of the designer", 
   "Date": "1964", 
   "ArtistID": 2697, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "1479.2000", 
-  "ArtistBio": "Swiss, born 1920", 
-  "CreditLine": "Gift of the designer", 
+  "ArtistBio": "(Swiss, born 1920)", 
+  "DateAcquired": "2000-12-11", 
+  "\ufeffTitle": "Aus den Sammlungen des Gewerbe-Museums Basel", 
   "ObjectID": "8777"
 }

@@ -5,8 +5,7 @@
   "Artist": "Lynn Davis", 
   "URL": "http://www.moma.org/collection/works/44251", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1974-01-29", 
+  "CreditLine": "Purchase", 
   "Date": "1973", 
   "ArtistID": 1409, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "30.1974", 
-  "ArtistBio": "American, born 1944", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, born 1944)", 
+  "DateAcquired": "1974-01-29", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "44251"
 }

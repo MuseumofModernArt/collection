@@ -1,12 +1,11 @@
 {
   "Medium": "Illustrated Book of 3 etchings", 
-  "Dimensions": "page  5 1/2 x 7 1/2\" (13 x 19 cm)  Prints:  various dimensions.", 
+  "Dimensions": "page  5 1/2 x 7 1/2\" (13 x 19 cm)\r\nPrints:  various dimensions.", 
   "Classification": "Illustrated Book", 
   "Artist": "Gregory Masurovsky", 
   "URL": "http://www.moma.org/collection/works/10589", 
   "CuratorApproved": "Y", 
-  "Title": "Ange de la Baie", 
-  "DateAcquired": "1993-01-18", 
+  "CreditLine": "Gift of the artist", 
   "Date": "(1992)", 
   "ArtistID": 3825, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "36.1993.1-3", 
-  "ArtistBio": "American, 1929\u20132009", 
-  "CreditLine": "Gift of the artist", 
+  "ArtistBio": "(American, 1929\u20132009)", 
+  "DateAcquired": "1993-01-18", 
+  "\ufeffTitle": "Ange de la Baie", 
   "ObjectID": "10589"
 }

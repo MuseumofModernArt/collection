@@ -5,8 +5,7 @@
   "Artist": "Ed E. Langbein", 
   "URL": "http://www.moma.org/collection/works/2237", 
   "CuratorApproved": "Y", 
-  "Title": "Bowl", 
-  "DateAcquired": "1948-03-17", 
+  "CreditLine": "Gift of the manufacturer", 
   "Date": "1936-1947", 
   "ArtistID": 3372, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "127.1948", 
-  "ArtistBio": "American", 
-  "CreditLine": "Gift of the manufacturer", 
+  "ArtistBio": "(American)", 
+  "DateAcquired": "1948-03-17", 
+  "\ufeffTitle": "Bowl", 
   "ObjectID": "2237"
 }

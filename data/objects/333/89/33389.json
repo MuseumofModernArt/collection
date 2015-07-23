@@ -5,8 +5,7 @@
   "Artist": "Sonia Delaunay-Terk", 
   "URL": "http://www.moma.org/collection/works/33389", 
   "CuratorApproved": "Y", 
-  "Title": "Pajamas for Tristan Tzara", 
-  "DateAcquired": "1978-04-04", 
+  "CreditLine": "The Joan and Lester Avnet Collection", 
   "Date": "1923", 
   "ArtistID": 1480, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "30.1978", 
-  "ArtistBio": "French, born Ukraine. 1885\u20131979", 
-  "CreditLine": "The Joan and Lester Avnet Collection", 
+  "ArtistBio": "(French, born Ukraine. 1885\u20131979)", 
+  "DateAcquired": "1978-04-04", 
+  "\ufeffTitle": "Pajamas for Tristan Tzara", 
   "ObjectID": "33389"
 }

@@ -5,8 +5,7 @@
   "Artist": "Walter Seifert", 
   "URL": "http://www.moma.org/collection/works/8406", 
   "CuratorApproved": "Y", 
-  "Title": "M\u00e4ntel immer von Rudnicki", 
-  "DateAcquired": "1999-12-10", 
+  "CreditLine": "Jan Tschichold Collection, Gift of Philip Johnson", 
   "Date": "1932", 
   "ArtistID": 8236, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "937.1999", 
-  "ArtistBio": "German", 
-  "CreditLine": "Jan Tschichold Collection, Gift of Philip Johnson", 
+  "ArtistBio": "(German)", 
+  "DateAcquired": "1999-12-10", 
+  "\ufeffTitle": "M\u00e4ntel immer von Rudnicki", 
   "ObjectID": "8406"
 }

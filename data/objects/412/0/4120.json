@@ -5,8 +5,7 @@
   "Artist": "Ludwig Mies van der Rohe", 
   "URL": "http://www.moma.org/collection/works/4120", 
   "CuratorApproved": "Y", 
-  "Title": "MR Side Chair", 
-  "DateAcquired": "1963-11-12", 
+  "CreditLine": "Gift of Philip Johnson", 
   "Date": "1927", 
   "ArtistID": 7166, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "575.1963", 
-  "ArtistBio": "American, born Germany. 1886\u20131969", 
-  "CreditLine": "Gift of Philip Johnson", 
+  "ArtistBio": "(American, born Germany. 1886\u20131969)", 
+  "DateAcquired": "1963-11-12", 
+  "\ufeffTitle": "MR Side Chair", 
   "ObjectID": "4120"
 }

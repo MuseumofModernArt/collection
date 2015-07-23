@@ -5,8 +5,7 @@
   "Artist": "Ezra Stoller", 
   "URL": "http://www.moma.org/collection/works/5560", 
   "CuratorApproved": "Y", 
-  "Title": "Japanese House in the Garden of The Museum of Modern Art", 
-  "DateAcquired": "1955-06-16", 
+  "CreditLine": "Gift of the Publications Department", 
   "Date": "1955", 
   "ArtistID": 5674, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "181.1955", 
-  "ArtistBio": "American, 1915\u20132004", 
-  "CreditLine": "Gift of the Publications Department", 
+  "ArtistBio": "(American, 1915\u20132004)", 
+  "DateAcquired": "1955-06-16", 
+  "\ufeffTitle": "Japanese House in the Garden of The Museum of Modern Art", 
   "ObjectID": "5560"
 }

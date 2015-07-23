@@ -5,8 +5,7 @@
   "Artist": "Lee Bontecou", 
   "URL": "http://www.moma.org/collection/works/66852", 
   "CuratorApproved": "Y", 
-  "Title": "Thirteenth Stone", 
-  "DateAcquired": "1971-03-30", 
+  "CreditLine": "Gift of Celeste Bartos", 
   "Date": "1966-70", 
   "ArtistID": 670, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "318.1971", 
-  "ArtistBio": "American, born 1931", 
-  "CreditLine": "Gift of Celeste Bartos", 
+  "ArtistBio": "(American, born 1931)", 
+  "DateAcquired": "1971-03-30", 
+  "\ufeffTitle": "Thirteenth Stone", 
   "ObjectID": "66852"
 }

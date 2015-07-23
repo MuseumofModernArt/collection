@@ -5,8 +5,7 @@
   "Artist": "Corning Glass Works", 
   "URL": "http://www.moma.org/collection/works/2351", 
   "CuratorApproved": "Y", 
-  "Title": "Covered Petri Dish", 
-  "DateAcquired": "1947-06-17", 
+  "CreditLine": "Purchase", 
   "Date": "Before 1946", 
   "ArtistID": 1249, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "167.1947.a-b", 
-  "ArtistBio": "American, est. 1851", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, est. 1851)", 
+  "DateAcquired": "1947-06-17", 
+  "\ufeffTitle": "Covered Petri Dish", 
   "ObjectID": "2351"
 }

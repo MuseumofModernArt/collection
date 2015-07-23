@@ -5,8 +5,7 @@
   "Artist": "F\u00e9lix Vallotton", 
   "URL": "http://www.moma.org/collection/works/64144", 
   "CuratorApproved": "Y", 
-  "Title": "Laziness (La Paresse)", 
-  "DateAcquired": "1954-04-06", 
+  "CreditLine": "Larry Aldrich Fund", 
   "Date": "1896", 
   "ArtistID": 6064, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "193.1954", 
-  "ArtistBio": "French, 1865\u20131925", 
-  "CreditLine": "Larry Aldrich Fund", 
+  "ArtistBio": "(French, 1865\u20131925)", 
+  "DateAcquired": "1954-04-06", 
+  "\ufeffTitle": "Laziness (La Paresse)", 
   "ObjectID": "64144"
 }

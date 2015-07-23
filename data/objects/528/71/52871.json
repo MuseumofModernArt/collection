@@ -5,8 +5,7 @@
   "Artist": "Eva Watson-Sch\u00fctze", 
   "URL": "http://www.moma.org/collection/works/52871", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1977-10-13", 
+  "CreditLine": "Purchase", 
   "Date": "c. 1912", 
   "ArtistID": 6267, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "410.1977", 
-  "ArtistBio": "American, 1867\u20131935", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, 1867\u20131935)", 
+  "DateAcquired": "1977-10-13", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "52871"
 }

@@ -1,12 +1,11 @@
 {
   "Medium": "Lithograph", 
-  "Dimensions": "irreg composition  26 1/2 x 22 3/16\" (67.3 x 56.3 cm)  irreg sheet  38 3/8 x 29 1/8\" (97.5 x 74 cm)", 
+  "Dimensions": "irreg composition  26 1/2 x 22 3/16\" (67.3 x 56.3 cm)\r\nirreg sheet  38 3/8 x 29 1/8\" (97.5 x 74 cm)", 
   "Classification": "Print", 
   "Artist": "Jasper Johns", 
   "URL": "http://www.moma.org/collection/works/64937", 
   "CuratorApproved": "Y", 
-  "Title": "Souvenir I", 
-  "DateAcquired": "1972-05-08", 
+  "CreditLine": "John B. Turner Fund", 
   "Date": "1972", 
   "ArtistID": 2923, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "236.1972", 
-  "ArtistBio": "American, born 1930", 
-  "CreditLine": "John B. Turner Fund", 
+  "ArtistBio": "(American, born 1930)", 
+  "DateAcquired": "1972-05-08", 
+  "\ufeffTitle": "Souvenir I", 
   "ObjectID": "64937"
 }

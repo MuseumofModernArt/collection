@@ -5,8 +5,7 @@
   "Artist": "Aleksandr Rodchenko", 
   "URL": "http://www.moma.org/collection/works/51064", 
   "CuratorApproved": "Y", 
-  "Title": "Park of Culture and Rest", 
-  "DateAcquired": "1997-06-12", 
+  "CreditLine": "Gift of the Rodchenko family", 
   "Date": "1929-32", 
   "ArtistID": 4975, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "334.1997", 
-  "ArtistBio": "Russian, 1891\u20131956", 
-  "CreditLine": "Gift of the Rodchenko family", 
+  "ArtistBio": "(Russian, 1891\u20131956)", 
+  "DateAcquired": "1997-06-12", 
+  "\ufeffTitle": "Park of Culture and Rest", 
   "ObjectID": "51064"
 }

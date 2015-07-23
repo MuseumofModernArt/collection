@@ -5,8 +5,7 @@
   "Artist": "William Clift", 
   "URL": "http://www.moma.org/collection/works/55634", 
   "CuratorApproved": "Y", 
-  "Title": "The Enchanted Mesa, New Mexico", 
-  "DateAcquired": "1976-12-08", 
+  "CreditLine": "Purchase", 
   "Date": "1975", 
   "ArtistID": 1152, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "620.1976", 
-  "ArtistBio": "American, born 1944", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, born 1944)", 
+  "DateAcquired": "1976-12-08", 
+  "\ufeffTitle": "The Enchanted Mesa, New Mexico", 
   "ObjectID": "55634"
 }

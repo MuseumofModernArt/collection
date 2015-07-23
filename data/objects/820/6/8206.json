@@ -5,8 +5,7 @@
   "Artist": "Koichi Sato", 
   "URL": "http://www.moma.org/collection/works/8206", 
   "CuratorApproved": "Y", 
-  "Title": "New Music Media, New Magic Media", 
-  "DateAcquired": "1983-11-30", 
+  "CreditLine": "Gift of the designer", 
   "Date": "1974", 
   "ArtistID": 5173, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "819.1983", 
-  "ArtistBio": "Japanese, born 1944", 
-  "CreditLine": "Gift of the designer", 
+  "ArtistBio": "(Japanese, born 1944)", 
+  "DateAcquired": "1983-11-30", 
+  "\ufeffTitle": "New Music Media, New Magic Media", 
   "ObjectID": "8206"
 }

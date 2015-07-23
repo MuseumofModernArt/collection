@@ -5,8 +5,7 @@
   "Artist": "William Eggleston", 
   "URL": "http://www.moma.org/collection/works/44731", 
   "CuratorApproved": "Y", 
-  "Title": "Huntsville, Alabama", 
-  "DateAcquired": "1976-02-24", 
+  "CreditLine": "Joseph G. Mayer Fund", 
   "Date": "c. 1969-70", 
   "ArtistID": 1690, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "47.1976", 
-  "ArtistBio": "American, born 1939", 
-  "CreditLine": "Joseph G. Mayer Fund", 
+  "ArtistBio": "(American, born 1939)", 
+  "DateAcquired": "1976-02-24", 
+  "\ufeffTitle": "Huntsville, Alabama", 
   "ObjectID": "44731"
 }

@@ -5,8 +5,7 @@
   "Artist": "Tetsoro Oya", 
   "URL": "http://www.moma.org/collection/works/4163", 
   "CuratorApproved": "Y", 
-  "Title": "Weathermatic-A Camera", 
-  "DateAcquired": "1980-10-30", 
+  "CreditLine": "Gift of the manufacturer", 
   "Date": "1978", 
   "ArtistID": 4457, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "645.1980", 
-  "ArtistBio": "Japanese", 
-  "CreditLine": "Gift of the manufacturer", 
+  "ArtistBio": "(Japanese)", 
+  "DateAcquired": "1980-10-30", 
+  "\ufeffTitle": "Weathermatic-A Camera", 
   "ObjectID": "4163"
 }

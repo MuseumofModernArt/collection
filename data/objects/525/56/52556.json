@@ -5,8 +5,7 @@
   "Artist": "J. Thomas Zetterstrom", 
   "URL": "http://www.moma.org/collection/works/52556", 
   "CuratorApproved": "Y", 
-  "Title": "Wreck", 
-  "DateAcquired": "1978-05-11", 
+  "CreditLine": "Joseph G. Mayer Fund", 
   "Date": "1974", 
   "ArtistID": 6565, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "397.1978", 
-  "ArtistBio": "American, born 1945", 
-  "CreditLine": "Joseph G. Mayer Fund", 
+  "ArtistBio": "(American, born 1945)", 
+  "DateAcquired": "1978-05-11", 
+  "\ufeffTitle": "Wreck", 
   "ObjectID": "52556"
 }

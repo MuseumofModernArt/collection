@@ -1,12 +1,11 @@
 {
   "Medium": "Lithograph", 
-  "Dimensions": "composition  20 1/4 x 30\" (51.4 x 76.3 cm)  sheet  22 1/2 x 30\" (57.2 x 76.3 cm)", 
+  "Dimensions": "composition  20 1/4 x 30\" (51.4 x 76.3 cm)\r\nsheet  22 1/2 x 30\" (57.2 x 76.3 cm)", 
   "Classification": "Print", 
   "Artist": "James Rosenquist", 
   "URL": "http://www.moma.org/collection/works/66525", 
   "CuratorApproved": "Y", 
-  "Title": "Cold Light", 
-  "DateAcquired": "1972-10-05", 
+  "CreditLine": "Gift of Monroe Wheeler", 
   "Date": "(May 7-October 12) 1971", 
   "ArtistID": 5021, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "305.1972", 
-  "ArtistBio": "American, born 1933", 
-  "CreditLine": "Gift of Monroe Wheeler", 
+  "ArtistBio": "(American, born 1933)", 
+  "DateAcquired": "1972-10-05", 
+  "\ufeffTitle": "Cold Light", 
   "ObjectID": "66525"
 }

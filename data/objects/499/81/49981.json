@@ -5,8 +5,7 @@
   "Artist": "Andreas Gursky", 
   "URL": "http://www.moma.org/collection/works/49981", 
   "CuratorApproved": "Y", 
-  "Title": "New Year's Day Swimmers", 
-  "DateAcquired": "1996-06-13", 
+  "CreditLine": "Gift of Werner and Elaine Dannheisser", 
   "Date": "1988", 
   "ArtistID": 7806, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "285.1996", 
-  "ArtistBio": "German, born 1955", 
-  "CreditLine": "Gift of Werner and Elaine Dannheisser", 
+  "ArtistBio": "(German, born 1955)", 
+  "DateAcquired": "1996-06-13", 
+  "\ufeffTitle": "New Year's Day Swimmers", 
   "ObjectID": "49981"
 }

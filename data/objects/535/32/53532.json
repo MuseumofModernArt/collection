@@ -5,8 +5,7 @@
   "Artist": "Joel Sternfeld", 
   "URL": "http://www.moma.org/collection/works/53532", 
   "CuratorApproved": "Y", 
-  "Title": "Florence, Oregon", 
-  "DateAcquired": "1980-05-21", 
+  "CreditLine": "Gift of the photographer", 
   "Date": "June 18, 1979", 
   "ArtistID": 5656, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "450.1980", 
-  "ArtistBio": "American, born 1944", 
-  "CreditLine": "Gift of the photographer", 
+  "ArtistBio": "(American, born 1944)", 
+  "DateAcquired": "1980-05-21", 
+  "\ufeffTitle": "Florence, Oregon", 
   "ObjectID": "53532"
 }

@@ -5,8 +5,7 @@
   "Artist": "Allan Kaprow", 
   "URL": "http://www.moma.org/collection/works/66897", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled (Calling)", 
-  "DateAcquired": "1986-10-15", 
+  "CreditLine": "John B. Turner Fund", 
   "Date": "(1965)", 
   "ArtistID": 2997, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "321.1986", 
-  "ArtistBio": "American, 1927\u20132006", 
-  "CreditLine": "John B. Turner Fund", 
+  "ArtistBio": "(American, 1927\u20132006)", 
+  "DateAcquired": "1986-10-15", 
+  "\ufeffTitle": "Untitled (Calling)", 
   "ObjectID": "66897"
 }

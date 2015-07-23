@@ -5,8 +5,7 @@
   "Artist": "Stephen Shore", 
   "URL": "http://www.moma.org/collection/works/46497", 
   "CuratorApproved": "Y", 
-  "Title": "Meeting Street, Charleston, South Carolina", 
-  "DateAcquired": "1977-03-10", 
+  "CreditLine": "Gift of the John R. Jakobson Foundation, Inc.", 
   "Date": "1975", 
   "ArtistID": 5409, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "117.1977", 
-  "ArtistBio": "American, born 1947", 
-  "CreditLine": "Gift of the John R. Jakobson Foundation, Inc.", 
+  "ArtistBio": "(American, born 1947)", 
+  "DateAcquired": "1977-03-10", 
+  "\ufeffTitle": "Meeting Street, Charleston, South Carolina", 
   "ObjectID": "46497"
 }

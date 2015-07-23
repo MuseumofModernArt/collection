@@ -5,8 +5,7 @@
   "Artist": "Glenn Grohe", 
   "URL": "http://www.moma.org/collection/works/5187", 
   "CuratorApproved": "Y", 
-  "Title": "He's Watching You", 
-  "DateAcquired": "1968-03-07", 
+  "CreditLine": "Gift of the Office for Emergency Management", 
   "Date": "1942", 
   "ArtistID": 2355, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "137.1968", 
-  "ArtistBio": "American, 1912\u20131956", 
-  "CreditLine": "Gift of the Office for Emergency Management", 
+  "ArtistBio": "(American, 1912\u20131956)", 
+  "DateAcquired": "1968-03-07", 
+  "\ufeffTitle": "He's Watching You", 
   "ObjectID": "5187"
 }

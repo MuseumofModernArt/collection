@@ -5,8 +5,7 @@
   "Artist": "Naomi Savage", 
   "URL": "http://www.moma.org/collection/works/58935", 
   "CuratorApproved": "Y", 
-  "Title": "Mask", 
-  "DateAcquired": "1967-12-13", 
+  "CreditLine": "Joseph G. Mayer Foundation Inc. Fund", 
   "Date": "1965", 
   "ArtistID": 5183, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "2625.1967", 
-  "ArtistBio": "American, 1927\u20132005", 
-  "CreditLine": "Joseph G. Mayer Foundation Inc. Fund", 
+  "ArtistBio": "(American, 1927\u20132005)", 
+  "DateAcquired": "1967-12-13", 
+  "\ufeffTitle": "Mask", 
   "ObjectID": "58935"
 }

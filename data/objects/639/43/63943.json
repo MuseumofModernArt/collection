@@ -5,8 +5,7 @@
   "Artist": "Saul Steinberg", 
   "URL": "http://www.moma.org/collection/works/63943", 
   "CuratorApproved": "Y", 
-  "Title": "The Museum", 
-  "DateAcquired": "1973-05-07", 
+  "CreditLine": "Gift of Celeste Bartos", 
   "Date": "1972", 
   "ArtistID": 5627, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "183.1973", 
-  "ArtistBio": "American, born Romania. 1914\u20131999", 
-  "CreditLine": "Gift of Celeste Bartos", 
+  "ArtistBio": "(American, born Romania. 1914\u20131999)", 
+  "DateAcquired": "1973-05-07", 
+  "\ufeffTitle": "The Museum", 
   "ObjectID": "63943"
 }

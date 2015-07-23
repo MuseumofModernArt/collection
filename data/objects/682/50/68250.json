@@ -5,8 +5,7 @@
   "Artist": "David Rose", 
   "URL": "http://www.moma.org/collection/works/68250", 
   "CuratorApproved": "Y", 
-  "Title": "Equilateral II", 
-  "DateAcquired": "1973-10-24", 
+  "CreditLine": "Purchase", 
   "Date": "1971", 
   "ArtistID": 5018, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "386.1973", 
-  "ArtistBio": "Australian, born 1936", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(Australian, born 1936)", 
+  "DateAcquired": "1973-10-24", 
+  "\ufeffTitle": "Equilateral II", 
   "ObjectID": "68250"
 }

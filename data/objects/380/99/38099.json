@@ -5,8 +5,7 @@
   "Artist": "Aleksandr Archipenko", 
   "URL": "http://www.moma.org/collection/works/38099", 
   "CuratorApproved": "Y", 
-  "Title": "Figure in Movement", 
-  "DateAcquired": "1969-10-28", 
+  "CreditLine": "Gift of Perls Galleries", 
   "Date": "1913", 
   "ArtistID": 209, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "806.1969", 
-  "ArtistBio": "American, 1887\u20131964", 
-  "CreditLine": "Gift of Perls Galleries", 
+  "ArtistBio": "(American, 1887\u20131964)", 
+  "DateAcquired": "1969-10-28", 
+  "\ufeffTitle": "Figure in Movement", 
   "ObjectID": "38099"
 }

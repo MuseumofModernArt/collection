@@ -5,8 +5,7 @@
   "Artist": "Emil Nolde", 
   "URL": "http://www.moma.org/collection/works/62132", 
   "CuratorApproved": "Y", 
-  "Title": "Man in a Top Hat I", 
-  "DateAcquired": "1956-03-19", 
+  "CreditLine": "Gift of Mrs. Donald B. Straus", 
   "Date": "(1911)", 
   "ArtistID": 4327, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "118.1956", 
-  "ArtistBio": "German, 1867\u20131956", 
-  "CreditLine": "Gift of Mrs. Donald B. Straus", 
+  "ArtistBio": "(German, 1867\u20131956)", 
+  "DateAcquired": "1956-03-19", 
+  "\ufeffTitle": "Man in a Top Hat I (Mann im Zylinder I)", 
   "ObjectID": "62132"
 }

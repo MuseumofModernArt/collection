@@ -5,8 +5,7 @@
   "Artist": "Stephen Antonakos", 
   "URL": "http://www.moma.org/collection/works/38097", 
   "CuratorApproved": "Y", 
-  "Title": "Neon for 57th Street", 
-  "DateAcquired": "1969-10-28", 
+  "CreditLine": "Larry Aldrich Foundation Fund", 
   "Date": "1967", 
   "ArtistID": 196, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "805.1969", 
-  "ArtistBio": "American, 1926\u20132013", 
-  "CreditLine": "Larry Aldrich Foundation Fund", 
+  "ArtistBio": "(American, 1926\u20132013)", 
+  "DateAcquired": "1969-10-28", 
+  "\ufeffTitle": "Neon for 57th Street", 
   "ObjectID": "38097"
 }

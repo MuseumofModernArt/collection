@@ -5,8 +5,7 @@
   "Artist": "Gunnar Cyr\u00e9n", 
   "URL": "http://www.moma.org/collection/works/3381", 
   "CuratorApproved": "Y", 
-  "Title": "Vase", 
-  "DateAcquired": "1961-11-08", 
+  "CreditLine": "Philip Johnson Fund", 
   "Date": "1960", 
   "ArtistID": 1346, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "351.1961", 
-  "ArtistBio": "Swedish, born 1931", 
-  "CreditLine": "Philip Johnson Fund", 
+  "ArtistBio": "(Swedish, born 1931)", 
+  "DateAcquired": "1961-11-08", 
+  "\ufeffTitle": "Vase", 
   "ObjectID": "3381"
 }

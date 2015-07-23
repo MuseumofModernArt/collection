@@ -1,12 +1,11 @@
 {
   "Medium": "Etching and aquatint", 
-  "Dimensions": "plate  17 7/8 x 23 13/16\" (45.4 x 60.5 cm)  sheet  27 x 31 3/4\" (68.6 x 80.6 cm)", 
+  "Dimensions": "plate  17 7/8 x 23 13/16\" (45.4 x 60.5 cm)\r\nsheet  27 x 31 3/4\" (68.6 x 80.6 cm)", 
   "Classification": "Print", 
   "Artist": "Robert Motherwell", 
   "URL": "http://www.moma.org/collection/works/65368", 
   "CuratorApproved": "Y", 
-  "Title": "Signs on Copper", 
-  "DateAcquired": "1982-10-26", 
+  "CreditLine": "Gift of the artist", 
   "Date": "(1981)", 
   "ArtistID": 4126, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "256.1982", 
-  "ArtistBio": "American, 1915\u20131991", 
-  "CreditLine": "Gift of the artist", 
+  "ArtistBio": "(American, 1915\u20131991)", 
+  "DateAcquired": "1982-10-26", 
+  "\ufeffTitle": "Signs on Copper", 
   "ObjectID": "65368"
 }

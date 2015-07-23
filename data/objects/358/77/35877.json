@@ -5,8 +5,7 @@
   "Artist": "Johannes Baader", 
   "URL": "http://www.moma.org/collection/works/35877", 
   "CuratorApproved": "Y", 
-  "Title": "The Author of the Book \"Fourteen Letters of Christ\" in His Home", 
-  "DateAcquired": "1937-12-03", 
+  "CreditLine": "Purchase", 
   "Date": "(1920)", 
   "ArtistID": 262, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "275.1937", 
-  "ArtistBio": "German, 1875\u20131955", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(German, 1875\u20131955)", 
+  "DateAcquired": "1937-12-03", 
+  "\ufeffTitle": "The Author of the Book \"Fourteen Letters of Christ\" in His Home", 
   "ObjectID": "35877"
 }

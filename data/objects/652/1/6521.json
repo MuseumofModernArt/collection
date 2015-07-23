@@ -5,8 +5,7 @@
   "Artist": "Johan Thorn Prikker", 
   "URL": "http://www.moma.org/collection/works/6521", 
   "CuratorApproved": "Y", 
-  "Title": "Holl\u00e4ndische Kunstausstellung", 
-  "DateAcquired": "1984-10-30", 
+  "CreditLine": "Gift of The Lauder Foundation, Leonard and Evelyn Lauder Fund", 
   "Date": "1903", 
   "ArtistID": 4738, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "361.1984", 
-  "ArtistBio": "Dutch, 1932\u20131968", 
-  "CreditLine": "Gift of The Lauder Foundation, Leonard and Evelyn Lauder Fund", 
+  "ArtistBio": "(Dutch, 1932\u20131968)", 
+  "DateAcquired": "1984-10-30", 
+  "\ufeffTitle": "Holl\u00e4ndische Kunstausstellung", 
   "ObjectID": "6521"
 }

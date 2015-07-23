@@ -5,8 +5,7 @@
   "Artist": "Barbara Morgan", 
   "URL": "http://www.moma.org/collection/works/56575", 
   "CuratorApproved": "Y", 
-  "Title": "Doug and Toad", 
-  "DateAcquired": "1978-12-14", 
+  "CreditLine": "Gift of the photographer", 
   "Date": "1942", 
   "ArtistID": 4089, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "822.1978", 
-  "ArtistBio": "American, 1900\u20131992", 
-  "CreditLine": "Gift of the photographer", 
+  "ArtistBio": "(American, 1900\u20131992)", 
+  "DateAcquired": "1978-12-14", 
+  "\ufeffTitle": "Doug and Toad", 
   "ObjectID": "56575"
 }

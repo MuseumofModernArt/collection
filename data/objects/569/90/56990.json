@@ -5,8 +5,7 @@
   "Artist": "Robert Adams", 
   "URL": "http://www.moma.org/collection/works/56990", 
   "CuratorApproved": "Y", 
-  "Title": "Colorado Springs, Colorado", 
-  "DateAcquired": "1996-12-10", 
+  "CreditLine": "Gift of Jeffrey Fraenkel and Frish Brandt", 
   "Date": "1969", 
   "ArtistID": 66, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "857.1996", 
-  "ArtistBio": "American, born 1937", 
-  "CreditLine": "Gift of Jeffrey Fraenkel and Frish Brandt", 
+  "ArtistBio": "(American, born 1937)", 
+  "DateAcquired": "1996-12-10", 
+  "\ufeffTitle": "Colorado Springs, Colorado", 
   "ObjectID": "56990"
 }

@@ -5,8 +5,7 @@
   "Artist": "Henri Matisse", 
   "URL": "http://www.moma.org/collection/works/65294", 
   "CuratorApproved": "Y", 
-  "Title": "Figure from the Left of \"Three Figures\" (Personnage de gauche de la \"Trois figures\")", 
-  "DateAcquired": "1955-10-10", 
+  "CreditLine": "Abby Aldrich Rockefeller Fund", 
   "Date": "(1930)", 
   "ArtistID": 3832, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "253.1955", 
-  "ArtistBio": "French, 1869\u20131954", 
-  "CreditLine": "Abby Aldrich Rockefeller Fund", 
+  "ArtistBio": "(French, 1869\u20131954)", 
+  "DateAcquired": "1955-10-10", 
+  "\ufeffTitle": "Figure from the Left of \"Three Figures\" (Personnage de gauche de la \"Trois figures\")", 
   "ObjectID": "65294"
 }

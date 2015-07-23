@@ -5,8 +5,7 @@
   "Artist": "Wilhelm Friedrich B\u00fcrger", 
   "URL": "http://www.moma.org/collection/works/8745", 
   "CuratorApproved": "Y", 
-  "Title": "Engadiner Spirenen St. Moritz", 
-  "DateAcquired": "2000-12-11", 
+  "CreditLine": "Gift of the designer", 
   "Date": "1914", 
   "ArtistID": 8391, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "1446.2000", 
-  "ArtistBio": "Swiss, 1882\u20131964", 
-  "CreditLine": "Gift of the designer", 
+  "ArtistBio": "(Swiss, 1882\u20131964)", 
+  "DateAcquired": "2000-12-11", 
+  "\ufeffTitle": "Engadiner Spirenen St. Moritz", 
   "ObjectID": "8745"
 }

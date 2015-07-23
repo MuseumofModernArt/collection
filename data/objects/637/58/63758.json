@@ -1,12 +1,11 @@
 {
   "Medium": "Etching", 
-  "Dimensions": "composition  31 5/8 x 22 3/8\" (80.3 x 56.9 cm)  sheet  31 5/8 x 22 3/8\" (80 x 56.9 cm)", 
+  "Dimensions": "composition  31 5/8 x 22 3/8\" (80.3 x 56.9 cm)\r\nsheet  31 5/8 x 22 3/8\" (80 x 56.9 cm)", 
   "Classification": "Print", 
   "Artist": "Rosemarie Trockel", 
   "URL": "http://www.moma.org/collection/works/63758", 
   "CuratorApproved": "Y", 
-  "Title": "ARTIST 2000 from the portfolio ART", 
-  "DateAcquired": "2000-03-02", 
+  "CreditLine": "Acquired through the generosity of Edward and Evanne Gargiulo", 
   "Date": "1999", 
   "ArtistID": 5933, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "178.2000", 
-  "ArtistBio": "German, born 1952", 
-  "CreditLine": "Acquired through the generosity of Edward and Evanne Gargiulo", 
+  "ArtistBio": "(German, born 1952)", 
+  "DateAcquired": "2000-03-02", 
+  "\ufeffTitle": "Artist 2000 from the portfolio Art", 
   "ObjectID": "63758"
 }

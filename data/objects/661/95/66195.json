@@ -1,12 +1,11 @@
 {
   "Medium": "Screenprint", 
-  "Dimensions": "composition  42 7/8 x 21 1/2\" (108.9 x 54.7 cm)  sheet  46 1/16 x 24 3/4\" (117 x 62.8 cm)", 
+  "Dimensions": "composition  42 7/8 x 21 1/2\" (108.9 x 54.7 cm)\r\nsheet  46 1/16 x 24 3/4\" (117 x 62.8 cm)", 
   "Classification": "Print", 
   "Artist": "Roy Lichtenstein", 
   "URL": "http://www.moma.org/collection/works/66195", 
   "CuratorApproved": "Y", 
-  "Title": "Salute to Aviation", 
-  "DateAcquired": "1969-04-16", 
+  "CreditLine": "John B. Turner Fund", 
   "Date": "1968", 
   "ArtistID": 3542, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "291.1969", 
-  "ArtistBio": "American, 1923\u20131997", 
-  "CreditLine": "John B. Turner Fund", 
+  "ArtistBio": "(American, 1923\u20131997)", 
+  "DateAcquired": "1969-04-16", 
+  "\ufeffTitle": "Salute to Aviation", 
   "ObjectID": "66195"
 }

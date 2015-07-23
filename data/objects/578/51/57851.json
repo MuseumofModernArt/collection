@@ -5,8 +5,7 @@
   "Artist": "Philip-Lorca diCorcia", 
   "URL": "http://www.moma.org/collection/works/57851", 
   "CuratorApproved": "Y", 
-  "Title": "David Theodore Lane; 27 years old; Tuscon, Arizona; $30", 
-  "DateAcquired": "2001-04-12", 
+  "CreditLine": "Gift of Carol and Arthur Goldberg", 
   "Date": "1990-92", 
   "ArtistID": 7027, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "1195.2001.x1-x2", 
-  "ArtistBio": "American, born 1951", 
-  "CreditLine": "Gift of Carol and Arthur Goldberg", 
+  "ArtistBio": "(American, born 1951)", 
+  "DateAcquired": "2001-04-12", 
+  "\ufeffTitle": "David Theodore Lane; 27 years old; Tuscon, Arizona; $30", 
   "ObjectID": "57851"
 }

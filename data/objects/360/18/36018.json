@@ -5,8 +5,7 @@
   "Artist": "Franti\u0161ek Kupka", 
   "URL": "http://www.moma.org/collection/works/36018", 
   "CuratorApproved": "Y", 
-  "Title": "Prometheus", 
-  "DateAcquired": "1978-04-04", 
+  "CreditLine": "Gift in honor of Myron Orlofsky", 
   "Date": "(1909)", 
   "ArtistID": 3302, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "288.1978", 
-  "ArtistBio": "Czech, 1871\u20131957", 
-  "CreditLine": "Gift in honor of Myron Orlofsky", 
+  "ArtistBio": "(Czech, 1871\u20131957)", 
+  "DateAcquired": "1978-04-04", 
+  "\ufeffTitle": "Prometheus", 
   "ObjectID": "36018"
 }

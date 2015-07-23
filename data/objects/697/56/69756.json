@@ -5,8 +5,7 @@
   "Artist": "Pierre Alechinsky", 
   "URL": "http://www.moma.org/collection/works/69756", 
   "CuratorApproved": "Y", 
-  "Title": "Grass-Snake", 
-  "DateAcquired": "1963-10-08", 
+  "CreditLine": "Gift of John Lefebre", 
   "Date": "(1962)", 
   "ArtistID": 107, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "476.1963", 
-  "ArtistBio": "Belgian, born 1927", 
-  "CreditLine": "Gift of John Lefebre", 
+  "ArtistBio": "(Belgian, born 1927)", 
+  "DateAcquired": "1963-10-08", 
+  "\ufeffTitle": "Grass-Snake", 
   "ObjectID": "69756"
 }

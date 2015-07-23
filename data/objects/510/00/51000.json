@@ -5,8 +5,7 @@
   "Artist": "Diane Arbus", 
   "URL": "http://www.moma.org/collection/works/51000", 
   "CuratorApproved": "Y", 
-  "Title": "Woman on a Park Bench on a Sunny Day, New York City", 
-  "DateAcquired": "1972-11-21", 
+  "CreditLine": "Celeste Bartos Fund", 
   "Date": "1969", 
   "ArtistID": 208, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "332.1972", 
-  "ArtistBio": "American, 1923\u20131971", 
-  "CreditLine": "Celeste Bartos Fund", 
+  "ArtistBio": "(American, 1923\u20131971)", 
+  "DateAcquired": "1972-11-21", 
+  "\ufeffTitle": "Woman on a Park Bench on a Sunny Day, New York City", 
   "ObjectID": "51000"
 }

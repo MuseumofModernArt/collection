@@ -5,8 +5,7 @@
   "Artist": "Owen F. Maclaren", 
   "URL": "http://www.moma.org/collection/works/3955", 
   "CuratorApproved": "Y", 
-  "Title": "Baby Stroller", 
-  "DateAcquired": "1970-11-05", 
+  "CreditLine": "Gift of the designer", 
   "Date": "1966", 
   "ArtistID": 3672, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "472.1970.1-2", 
-  "ArtistBio": "British, 1906\u20131978", 
-  "CreditLine": "Gift of the designer", 
+  "ArtistBio": "(British, 1906\u20131978)", 
+  "DateAcquired": "1970-11-05", 
+  "\ufeffTitle": "Baby Stroller", 
   "ObjectID": "3955"
 }

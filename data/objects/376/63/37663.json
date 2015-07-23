@@ -5,8 +5,7 @@
   "Artist": "Roberto Matta", 
   "URL": "http://www.moma.org/collection/works/37663", 
   "CuratorApproved": "Y", 
-  "Title": "Fiery Landscape", 
-  "DateAcquired": "1967-10-18", 
+  "CreditLine": "The Sidney and Harriet Janis Collection", 
   "Date": "(1940)", 
   "ArtistID": 3842, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "632.1967", 
-  "ArtistBio": "Chilean, 1911\u20132002", 
-  "CreditLine": "The Sidney and Harriet Janis Collection", 
+  "ArtistBio": "(Chilean, 1911\u20132002)", 
+  "DateAcquired": "1967-10-18", 
+  "\ufeffTitle": "Fiery Landscape", 
   "ObjectID": "37663"
 }

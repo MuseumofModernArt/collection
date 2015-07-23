@@ -5,8 +5,7 @@
   "Artist": "Tom Phillips", 
   "URL": "http://www.moma.org/collection/works/64236", 
   "CuratorApproved": "Y", 
-  "Title": "Beckett", 
-  "DateAcquired": "1986-05-20", 
+  "CreditLine": "William K. Simpson Fund", 
   "Date": "(1984)", 
   "ArtistID": 4603, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "197.1986", 
-  "ArtistBio": "British, born 1937", 
-  "CreditLine": "William K. Simpson Fund", 
+  "ArtistBio": "(British, born 1937)", 
+  "DateAcquired": "1986-05-20", 
+  "\ufeffTitle": "Beckett", 
   "ObjectID": "64236"
 }

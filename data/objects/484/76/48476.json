@@ -5,8 +5,7 @@
   "Artist": "Imogen Cunningham", 
   "URL": "http://www.moma.org/collection/works/48476", 
   "CuratorApproved": "Y", 
-  "Title": "Cala Leaves", 
-  "DateAcquired": "1989-10-12", 
+  "CreditLine": "Gift of Paul F. Walter", 
   "Date": "1932", 
   "ArtistID": 1332, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "206.1989", 
-  "ArtistBio": "American, 1883\u20131976", 
-  "CreditLine": "Gift of Paul F. Walter", 
+  "ArtistBio": "(American, 1883\u20131976)", 
+  "DateAcquired": "1989-10-12", 
+  "\ufeffTitle": "Cala Leaves", 
   "ObjectID": "48476"
 }

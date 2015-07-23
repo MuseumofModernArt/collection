@@ -5,8 +5,7 @@
   "Artist": "Robert Adams", 
   "URL": "http://www.moma.org/collection/works/56944", 
   "CuratorApproved": "Y", 
-  "Title": "The Pawnee Grasslands", 
-  "DateAcquired": "1996-12-10", 
+  "CreditLine": "Gift of Arthur M. Bullowa", 
   "Date": "1973", 
   "ArtistID": 66, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "848.1996", 
-  "ArtistBio": "American, born 1937", 
-  "CreditLine": "Gift of Arthur M. Bullowa", 
+  "ArtistBio": "(American, born 1937)", 
+  "DateAcquired": "1996-12-10", 
+  "\ufeffTitle": "The Pawnee Grasslands", 
   "ObjectID": "56944"
 }

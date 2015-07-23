@@ -5,8 +5,7 @@
   "Artist": "\u00c9mile Bernard", 
   "URL": "http://www.moma.org/collection/works/60281", 
   "CuratorApproved": "Y", 
-  "Title": "The Artist's Daughter", 
-  "DateAcquired": "1961-01-10", 
+  "CreditLine": "Gift of Michael Benisovich", 
   "Date": "1933", 
   "ArtistID": 511, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "23.1961", 
-  "ArtistBio": "French, 1868\u20131941", 
-  "CreditLine": "Gift of Michael Benisovich", 
+  "ArtistBio": "(French, 1868\u20131941)", 
+  "DateAcquired": "1961-01-10", 
+  "\ufeffTitle": "The Artist's Daughter", 
   "ObjectID": "60281"
 }

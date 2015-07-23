@@ -1,12 +1,11 @@
 {
   "Medium": "Screenprint", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "Valerio Adami", 
   "URL": "http://www.moma.org/collection/works/64740", 
   "CuratorApproved": "Y", 
-  "Title": "Odalisque", 
-  "DateAcquired": "1992-05-20", 
+  "CreditLine": "Gift of Mark and Donna Meents", 
   "Date": "1982", 
   "ArtistID": 59, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "225.1992", 
-  "ArtistBio": "Italian, born 1935", 
-  "CreditLine": "Gift of Mark and Donna Meents", 
+  "ArtistBio": "(Italian, born 1935)", 
+  "DateAcquired": "1992-05-20", 
+  "\ufeffTitle": "Odalisque", 
   "ObjectID": "64740"
 }

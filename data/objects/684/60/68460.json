@@ -1,12 +1,11 @@
 {
   "Medium": "Lithograph", 
-  "Dimensions": "irreg. composition  40 1/4 x 31 5/16\" (102.2 x 79.5 cm)  irreg. sheet  41 7/16 x 31 15/16\" (105 x 81.1 cm)", 
+  "Dimensions": "irreg. composition  40 1/4 x 31 5/16\" (102.2 x 79.5 cm)\r\nirreg. sheet  41 7/16 x 31 15/16\" (105 x 81.1 cm)", 
   "Classification": "Print", 
   "Artist": "Robert Rauschenberg", 
   "URL": "http://www.moma.org/collection/works/68460", 
   "CuratorApproved": "Y", 
-  "Title": "Yardarm from the series Rookery Mounds", 
-  "DateAcquired": "1987-10-20", 
+  "CreditLine": "John B. Turner Fund", 
   "Date": "1979", 
   "ArtistID": 4823, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "400.1987", 
-  "ArtistBio": "American, 1925\u20132008", 
-  "CreditLine": "John B. Turner Fund", 
+  "ArtistBio": "(American, 1925\u20132008)", 
+  "DateAcquired": "1987-10-20", 
+  "\ufeffTitle": "Yardarm from the series Rookery Mounds", 
   "ObjectID": "68460"
 }

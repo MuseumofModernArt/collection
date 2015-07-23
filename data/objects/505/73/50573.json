@@ -5,8 +5,7 @@
   "Artist": "William Clift", 
   "URL": "http://www.moma.org/collection/works/50573", 
   "CuratorApproved": "Y", 
-  "Title": "Landscape from La Bahada Mesa, New Mexico", 
-  "DateAcquired": "1975-10-23", 
+  "CreditLine": "Gift of the photographer", 
   "Date": "1973", 
   "ArtistID": 1152, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "315.1975", 
-  "ArtistBio": "American, born 1944", 
-  "CreditLine": "Gift of the photographer", 
+  "ArtistBio": "(American, born 1944)", 
+  "DateAcquired": "1975-10-23", 
+  "\ufeffTitle": "Landscape from La Bahada Mesa, New Mexico", 
   "ObjectID": "50573"
 }

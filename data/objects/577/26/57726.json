@@ -5,8 +5,7 @@
   "Artist": "Lee Friedlander", 
   "URL": "http://www.moma.org/collection/works/57726", 
   "CuratorApproved": "Y", 
-  "Title": "Spirit of the American Doughboy. Saint Albans, Vermont", 
-  "DateAcquired": "2000-10-12", 
+  "CreditLine": "Purchase", 
   "Date": "1975", 
   "ArtistID": 2002, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "1148.2000", 
-  "ArtistBio": "American, born 1934", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, born 1934)", 
+  "DateAcquired": "2000-10-12", 
+  "\ufeffTitle": "Spirit of the American Doughboy. Saint Albans, Vermont", 
   "ObjectID": "57726"
 }

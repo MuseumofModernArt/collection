@@ -5,8 +5,7 @@
   "Artist": "Nicos Zographos", 
   "URL": "http://www.moma.org/collection/works/4574", 
   "CuratorApproved": "Y", 
-  "Title": "Zographos Side Chair", 
-  "DateAcquired": "1969-12-01", 
+  "CreditLine": "Gift of the manufacturer", 
   "Date": "1966", 
   "ArtistID": 6578, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "1115.1969", 
-  "ArtistBio": "American, born 1931", 
-  "CreditLine": "Gift of the manufacturer", 
+  "ArtistBio": "(American, born 1931)", 
+  "DateAcquired": "1969-12-01", 
+  "\ufeffTitle": "Zographos Side Chair", 
   "ObjectID": "4574"
 }

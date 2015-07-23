@@ -1,12 +1,11 @@
 {
   "Medium": "Illustrated book with 29 woodcuts", 
-  "Dimensions": "Page (irreg.):  15 x 11 1/4\" (38 x 28.5 cm)  Prints: various dimensions.", 
+  "Dimensions": "Page (irreg.):  15 x 11 1/4\" (38 x 28.5 cm)\r\nPrints: various dimensions.", 
   "Classification": "Illustrated Book", 
   "Artist": "Jim Dine", 
   "URL": "http://www.moma.org/collection/works/14126", 
   "CuratorApproved": "Y", 
-  "Title": "The Apocalypse: The Revelation of Saint John the Divine", 
-  "DateAcquired": "1983-01-18", 
+  "CreditLine": "Purchase", 
   "Date": "1982", 
   "ArtistID": 1547, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "239.1983.1-29", 
-  "ArtistBio": "American, born 1935", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, born 1935)", 
+  "DateAcquired": "1983-01-18", 
+  "\ufeffTitle": "The Apocalypse: The Revelation of Saint John the Divine", 
   "ObjectID": "14126"
 }

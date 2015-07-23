@@ -5,8 +5,7 @@
   "Artist": "Jennifer Morla", 
   "URL": "http://www.moma.org/collection/works/5326", 
   "CuratorApproved": "Y", 
-  "Title": "Capp Street Project: Jim Campbell, Marie Navarre", 
-  "DateAcquired": "1996-04-09", 
+  "CreditLine": "Gift of the designer", 
   "Date": "1995", 
   "ArtistID": 7518, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "153.1996", 
-  "ArtistBio": "American, born 1955", 
-  "CreditLine": "Gift of the designer", 
+  "ArtistBio": "(American, born 1955)", 
+  "DateAcquired": "1996-04-09", 
+  "\ufeffTitle": "Capp Street Project: Jim Campbell, Marie Navarre", 
   "ObjectID": "5326"
 }

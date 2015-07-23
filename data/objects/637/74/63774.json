@@ -5,8 +5,7 @@
   "Artist": "Elizabeth Murray", 
   "URL": "http://www.moma.org/collection/works/63774", 
   "CuratorApproved": "Y", 
-  "Title": "Cracking Cup", 
-  "DateAcquired": "1999-05-20", 
+  "CreditLine": "Gift of Emily Fisher Landau", 
   "Date": "1998", 
   "ArtistID": 4185, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "178.1999", 
-  "ArtistBio": "American, 1940\u20132007", 
-  "CreditLine": "Gift of Emily Fisher Landau", 
+  "ArtistBio": "(American, 1940\u20132007)", 
+  "DateAcquired": "1999-05-20", 
+  "\ufeffTitle": "Cracking Cup", 
   "ObjectID": "63774"
 }

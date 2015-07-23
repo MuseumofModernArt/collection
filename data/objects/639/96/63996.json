@@ -1,12 +1,11 @@
 {
   "Medium": "Set of two lithographs", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "Claudio Bravo", 
   "URL": "http://www.moma.org/collection/works/63996", 
   "CuratorApproved": "Y", 
-  "Title": "Fur Coat Front and Back", 
-  "DateAcquired": "1977-05-03", 
+  "CreditLine": "Latin American Fund", 
   "Date": "1976", 
   "ArtistID": 753, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "185.1977.a-b", 
-  "ArtistBio": "Chilean, 1936\u20132011", 
-  "CreditLine": "Latin American Fund", 
+  "ArtistBio": "(Chilean, 1936\u20132011)", 
+  "DateAcquired": "1977-05-03", 
+  "\ufeffTitle": "Fur Coat Front and Back", 
   "ObjectID": "63996"
 }

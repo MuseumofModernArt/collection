@@ -5,8 +5,7 @@
   "Artist": "Grapus", 
   "URL": "http://www.moma.org/collection/works/6626", 
   "CuratorApproved": "Y", 
-  "Title": "Raymond Loewy dessine la Studebaker", 
-  "DateAcquired": "1988-11-22", 
+  "CreditLine": "Gift of the designers", 
   "Date": "1987", 
   "ArtistID": 2297, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "411.1988", 
-  "ArtistBio": "French, 1970\u20131991", 
-  "CreditLine": "Gift of the designers", 
+  "ArtistBio": "(French, 1970\u20131991)", 
+  "DateAcquired": "1988-11-22", 
+  "\ufeffTitle": "Raymond Loewy dessine la Studebaker", 
   "ObjectID": "6626"
 }

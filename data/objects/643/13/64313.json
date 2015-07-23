@@ -1,12 +1,11 @@
 {
   "Medium": "Lithograph", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "Fred Williams", 
   "URL": "http://www.moma.org/collection/works/64313", 
   "CuratorApproved": "Y", 
-  "Title": "Murray River", 
-  "DateAcquired": "1977-05-03", 
+  "CreditLine": "Gift of Lily Auchincloss", 
   "Date": "1975", 
   "ArtistID": 6378, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "200.1977", 
-  "ArtistBio": "Australian, 1927\u20131982", 
-  "CreditLine": "Gift of Lily Auchincloss", 
+  "ArtistBio": "(Australian, 1927\u20131982)", 
+  "DateAcquired": "1977-05-03", 
+  "\ufeffTitle": "Murray River", 
   "ObjectID": "64313"
 }

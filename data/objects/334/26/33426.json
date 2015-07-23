@@ -5,8 +5,7 @@
   "Artist": "Charles Despiau", 
   "URL": "http://www.moma.org/collection/works/33426", 
   "CuratorApproved": "Y", 
-  "Title": "Seated Nude", 
-  "DateAcquired": "1932-12-16", 
+  "CreditLine": "Gift of Mrs. Saidie A. May", 
   "Date": "n.d.", 
   "ArtistID": 1511, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "35.1932", 
-  "ArtistBio": "French, 1874\u20131946", 
-  "CreditLine": "Gift of Mrs. Saidie A. May", 
+  "ArtistBio": "(French, 1874\u20131946)", 
+  "DateAcquired": "1932-12-16", 
+  "\ufeffTitle": "Seated Nude", 
   "ObjectID": "33426"
 }

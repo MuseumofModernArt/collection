@@ -1,12 +1,11 @@
 {
   "Medium": "Lithograph", 
-  "Dimensions": "composition  39 x 7 1/2\" (99 x 19 cm)  sheet  39 x 7 1/2\" (99 x 19 cm)", 
+  "Dimensions": "composition  39 x 7 1/2\" (99 x 19 cm)\r\nsheet  39 x 7 1/2\" (99 x 19 cm)", 
   "Classification": "Print", 
   "Artist": "Sarah Sze", 
   "URL": "http://www.moma.org/collection/works/61284", 
   "CuratorApproved": "Y", 
-  "Title": "FARSITE", 
-  "DateAcquired": "1999-03-04", 
+  "CreditLine": "John B. Turner Fund", 
   "Date": "(1998)", 
   "ArtistID": 7962, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "72.1999", 
-  "ArtistBio": "American, born 1969", 
-  "CreditLine": "John B. Turner Fund", 
+  "ArtistBio": "(American, born 1969)", 
+  "DateAcquired": "1999-03-04", 
+  "\ufeffTitle": "Farsite", 
   "ObjectID": "61284"
 }

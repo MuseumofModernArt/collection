@@ -1,12 +1,11 @@
 {
   "Medium": "Illustrated book with 20 lithographs (9 with screenprint and 2 with relief stamping)", 
-  "Dimensions": "page  13 3/4 x 19 11/16\" (35 x 50 cm)  Prints:  various dimensions.", 
+  "Dimensions": "page  13 3/4 x 19 11/16\" (35 x 50 cm)\r\nPrints:  various dimensions.", 
   "Classification": "Illustrated Book", 
   "Artist": "Marco Gastini", 
   "URL": "http://www.moma.org/collection/works/17336", 
   "CuratorApproved": "Y", 
-  "Title": "Pantomima", 
-  "DateAcquired": "1978-05-22", 
+  "CreditLine": "Dorothy B. and Joseph M. Edinburg Fund", 
   "Date": "1977", 
   "ArtistID": 2091, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "453.1978.1-20", 
-  "ArtistBio": "Italian, born 1938", 
-  "CreditLine": "Dorothy B. and Joseph M. Edinburg Fund", 
+  "ArtistBio": "(Italian, born 1938)", 
+  "DateAcquired": "1978-05-22", 
+  "\ufeffTitle": "Pantomima", 
   "ObjectID": "17336"
 }

@@ -5,8 +5,7 @@
   "Artist": "Louise Bourgeois", 
   "URL": "http://www.moma.org/collection/works/62638", 
   "CuratorApproved": "Y", 
-  "Title": "La Maison D'Arcueil, only state", 
-  "DateAcquired": "1990-05-02", 
+  "CreditLine": "Gift of the artist", 
   "Date": "1947", 
   "ArtistID": 710, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "136.1990", 
-  "ArtistBio": "American, born France. 1911\u20132010", 
-  "CreditLine": "Gift of the artist", 
+  "ArtistBio": "(American, born France. 1911\u20132010)", 
+  "DateAcquired": "1990-05-02", 
+  "\ufeffTitle": "La Maison D'Arcueil", 
   "ObjectID": "62638"
 }

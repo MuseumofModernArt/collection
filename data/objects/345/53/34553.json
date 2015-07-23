@@ -5,8 +5,7 @@
   "Artist": "Stanislav Kolibal", 
   "URL": "http://www.moma.org/collection/works/34553", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1976-03-23", 
+  "CreditLine": "Given anonymously", 
   "Date": "(1975)", 
   "ArtistID": 3200, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "132.1976", 
-  "ArtistBio": "Czech, born 1925", 
-  "CreditLine": "Given anonymously", 
+  "ArtistBio": "(Czech, born 1925)", 
+  "DateAcquired": "1976-03-23", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "34553"
 }

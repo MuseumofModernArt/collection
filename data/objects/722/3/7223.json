@@ -5,8 +5,7 @@
   "Artist": "Ferdinand Hodler", 
   "URL": "http://www.moma.org/collection/works/7223", 
   "CuratorApproved": "Y", 
-  "Title": "Kunsthaus Z\u00fcrich, Ferdinand Hodler, 14.Juni bis 5. August 1917", 
-  "DateAcquired": "1951-05-24", 
+  "CreditLine": "Gift of the Swiss Government", 
   "Date": "1917", 
   "ArtistID": 2681, 
   "Keywords": [
@@ -20,7 +19,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "490.1951", 
-  "ArtistBio": "Swiss, 1853\u20131918", 
-  "CreditLine": "Gift of the Swiss Government", 
+  "ArtistBio": "(Swiss, 1853\u20131918)", 
+  "DateAcquired": "1951-05-24", 
+  "\ufeffTitle": "Kunsthaus Z\u00fcrich, Ferdinand Hodler, 14.Juni bis 5. August 1917", 
   "ObjectID": "7223"
 }

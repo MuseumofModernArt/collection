@@ -5,8 +5,7 @@
   "Artist": "AT&T Bell Laboratories, Murray Hill, NJ", 
   "URL": "http://www.moma.org/collection/works/4273", 
   "CuratorApproved": "Y", 
-  "Title": "Diagram of Microprocessor (CRISP)", 
-  "DateAcquired": "1990-10-24", 
+  "CreditLine": "Gift of AT&T Bell Laboratories", 
   "Date": "1986", 
   "Keywords": [
     "online art collection", 
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "510.1990.1", 
-  "ArtistBio": "American, established 1925", 
-  "CreditLine": "Gift of AT&T Bell Laboratories", 
+  "ArtistBio": "(American, established 1925)", 
+  "DateAcquired": "1990-10-24", 
+  "\ufeffTitle": "Diagram of Microprocessor (CRISP)", 
   "ObjectID": "4273"
 }

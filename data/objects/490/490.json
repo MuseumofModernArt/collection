@@ -5,8 +5,7 @@
   "Artist": "Ricardo Bofill", 
   "URL": "http://www.moma.org/collection/works/490", 
   "CuratorApproved": "Y", 
-  "Title": "Antigone: La Place du Nombre d'Or  Montpellier, France  Elevation", 
-  "DateAcquired": "1985-11-18", 
+  "CreditLine": "Gift of Ricardo Bofill Taller de Arquitectura", 
   "Date": "c. 1978-84", 
   "ArtistID": 632, 
   "Keywords": [
@@ -21,7 +20,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "389.1985", 
-  "ArtistBio": "Spanish, born 1939", 
-  "CreditLine": "Gift of Ricardo Bofill Taller de Arquitectura", 
+  "ArtistBio": "(Spanish, born 1939)", 
+  "DateAcquired": "1985-11-18", 
+  "\ufeffTitle": "Antigone: La Place du Nombre d'Or, Montpellier, France, Elevation", 
   "ObjectID": "490"
 }

@@ -1,12 +1,11 @@
 {
   "Medium": "Cut-and-pasted cardboard with oil, gouache, and pencil on paperboard", 
-  "Dimensions": "16 1/8 x 11 3/8\" (41.1 x 28.9 cm)  ", 
+  "Dimensions": "16 1/8 x 11 3/8\" (41.1 x 28.9 cm)\r\n", 
   "Classification": "Drawing", 
   "Artist": "Max Ernst", 
   "URL": "http://www.moma.org/collection/works/36573", 
   "CuratorApproved": "Y", 
-  "Title": "Sun and Forest", 
-  "DateAcquired": "1984-11-29", 
+  "CreditLine": "Gift of Lily Auchincloss and the Lillie P. Bliss Bequest (by exchange)", 
   "Date": "1931", 
   "ArtistID": 1752, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "377.1984", 
-  "ArtistBio": "French, born Germany. 1891\u20131976", 
-  "CreditLine": "Gift of Lily Auchincloss and the Lillie P. Bliss Bequest (by exchange)", 
+  "ArtistBio": "(French, born Germany. 1891\u20131976)", 
+  "DateAcquired": "1984-11-29", 
+  "\ufeffTitle": "Sun and Forest", 
   "ObjectID": "36573"
 }

@@ -5,8 +5,7 @@
   "Artist": "Unknown Designer", 
   "URL": "http://www.moma.org/collection/works/2086", 
   "CuratorApproved": "Y", 
-  "Title": "Bottle Opener", 
-  "DateAcquired": "1946-05-07", 
+  "CreditLine": "Gift of Edgar Kaufmann, Jr.", 
   "Date": "1946", 
   "ArtistID": 6011, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "96.1946", 
-  "ArtistBio": "Nationality unknown", 
-  "CreditLine": "Gift of Edgar Kaufmann, Jr.", 
+  "ArtistBio": "(Nationality unknown)", 
+  "DateAcquired": "1946-05-07", 
+  "\ufeffTitle": "Bottle Opener", 
   "ObjectID": "2086"
 }

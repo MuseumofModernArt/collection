@@ -5,8 +5,7 @@
   "Artist": "Unknown Graphic Artist", 
   "URL": "http://www.moma.org/collection/works/5165", 
   "CuratorApproved": "Y", 
-  "Title": "BOOK \"THE YOUTH OF MAYAKOVSKY\" by V. Kamensky", 
-  "DateAcquired": "1992-01-15", 
+  "CreditLine": "Chermayeff and Geisman Associates Fund, Department Purchase", 
   "Date": "1931", 
   "ArtistID": 6032, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "130.1992", 
-  "ArtistBio": "American, 1895\u20131946", 
-  "CreditLine": "Chermayeff and Geisman Associates Fund, Department Purchase", 
+  "ArtistBio": "(American, 1895\u20131946)", 
+  "DateAcquired": "1992-01-15", 
+  "\ufeffTitle": "BOOK \"THE YOUTH OF MAYAKOVSKY\" by V. Kamensky", 
   "ObjectID": "5165"
 }

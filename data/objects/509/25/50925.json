@@ -5,8 +5,7 @@
   "Artist": "Alfred Stieglitz", 
   "URL": "http://www.moma.org/collection/works/50925", 
   "CuratorApproved": "Y", 
-  "Title": "Georgia O'Keeffe", 
-  "DateAcquired": "1942-12-29", 
+  "CreditLine": "Given anonymously", 
   "Date": "1932", 
   "ArtistID": 5664, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "329.1942", 
-  "ArtistBio": "American, 1864\u20131946", 
-  "CreditLine": "Given anonymously", 
+  "ArtistBio": "(American, 1864\u20131946)", 
+  "DateAcquired": "1942-12-29", 
+  "\ufeffTitle": "Georgia O'Keeffe", 
   "ObjectID": "50925"
 }

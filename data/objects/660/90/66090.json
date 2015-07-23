@@ -5,8 +5,7 @@
   "Artist": "Charles Despiau", 
   "URL": "http://www.moma.org/collection/works/66090", 
   "CuratorApproved": "Y", 
-  "Title": "Reclining Nude", 
-  "DateAcquired": "1940-04-05", 
+  "CreditLine": "Gift of Abby Aldrich Rockefeller", 
   "Date": "1889", 
   "ArtistID": 1511, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "288.1940", 
-  "ArtistBio": "French, 1874\u20131946", 
-  "CreditLine": "Gift of Abby Aldrich Rockefeller", 
+  "ArtistBio": "(French, 1874\u20131946)", 
+  "DateAcquired": "1940-04-05", 
+  "\ufeffTitle": "Reclining Nude", 
   "ObjectID": "66090"
 }

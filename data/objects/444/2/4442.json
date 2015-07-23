@@ -5,8 +5,7 @@
   "Artist": "Tony Esposito", 
   "URL": "http://www.moma.org/collection/works/4442", 
   "CuratorApproved": "Y", 
-  "Title": "Goalie Mask", 
-  "DateAcquired": "1983-11-30", 
+  "CreditLine": "Greta Daniel Fund", 
   "Date": "c. 1969", 
   "ArtistID": 7170, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "746.1983", 
-  "ArtistBio": "Canadian, born 1943", 
-  "CreditLine": "Greta Daniel Fund", 
+  "ArtistBio": "(Canadian, born 1943)", 
+  "DateAcquired": "1983-11-30", 
+  "\ufeffTitle": "Goalie Mask", 
   "ObjectID": "4442"
 }

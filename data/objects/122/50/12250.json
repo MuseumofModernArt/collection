@@ -1,12 +1,11 @@
 {
   "Medium": "Illustrated Book with 2 etchings and 8 collagraphs", 
-  "Dimensions": "irreg page  12 15/16 x 10 1/4\" (33 x 26 cm)  Prints:  various dimensions.", 
+  "Dimensions": "irreg page  12 15/16 x 10 1/4\" (33 x 26 cm)\r\nPrints:  various dimensions.", 
   "Classification": "Illustrated Book", 
   "Artist": "Pablo Palazuelo", 
   "URL": "http://www.moma.org/collection/works/12250", 
   "CuratorApproved": "Y", 
-  "Title": "Ardicia", 
-  "DateAcquired": "1992-01-22", 
+  "CreditLine": "Purchase", 
   "Date": "(1978)", 
   "ArtistID": 6645, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "157.1992.A-B", 
-  "ArtistBio": "Spanish, born 1916", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(Spanish, born 1916)", 
+  "DateAcquired": "1992-01-22", 
+  "\ufeffTitle": "Ardicia", 
   "ObjectID": "12250"
 }

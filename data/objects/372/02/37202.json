@@ -5,8 +5,7 @@
   "Artist": "Ellsworth Kelly", 
   "URL": "http://www.moma.org/collection/works/37202", 
   "CuratorApproved": "Y", 
-  "Title": "Spectrum Colors Arranged by Chance II", 
-  "DateAcquired": "1997-10-23", 
+  "CreditLine": "Purchased with funds provided by Jo Carole and Ronald S. Lauder", 
   "Date": "1951", 
   "ArtistID": 3048, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "500.1997", 
-  "ArtistBio": "American, born 1923", 
-  "CreditLine": "Purchased with funds provided by Jo Carole and Ronald S. Lauder", 
+  "ArtistBio": "(American, born 1923)", 
+  "DateAcquired": "1997-10-23", 
+  "\ufeffTitle": "Spectrum Colors Arranged by Chance II", 
   "ObjectID": "37202"
 }

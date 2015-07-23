@@ -5,8 +5,7 @@
   "Artist": "Emmet Gowin", 
   "URL": "http://www.moma.org/collection/works/46796", 
   "CuratorApproved": "Y", 
-  "Title": "Edith and Elijah, Danville", 
-  "DateAcquired": "1972-03-07", 
+  "CreditLine": "Anonymous Fund", 
   "Date": "1969", 
   "ArtistID": 2273, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "137.1972", 
-  "ArtistBio": "American, born 1941", 
-  "CreditLine": "Anonymous Fund", 
+  "ArtistBio": "(American, born 1941)", 
+  "DateAcquired": "1972-03-07", 
+  "\ufeffTitle": "Edith and Elijah, Danville", 
   "ObjectID": "46796"
 }

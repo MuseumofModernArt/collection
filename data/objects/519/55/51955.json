@@ -5,8 +5,7 @@
   "Artist": "Bruce Horowitz", 
   "URL": "http://www.moma.org/collection/works/51955", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1983-03-24", 
+  "CreditLine": "Gift of the photographer", 
   "Date": "1982", 
   "ArtistID": 2729, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "370.1983", 
-  "ArtistBio": "American, born 1949", 
-  "CreditLine": "Gift of the photographer", 
+  "ArtistBio": "(American, born 1949)", 
+  "DateAcquired": "1983-03-24", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "51955"
 }

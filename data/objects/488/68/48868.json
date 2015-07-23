@@ -5,8 +5,7 @@
   "Artist": "William Wegman", 
   "URL": "http://www.moma.org/collection/works/48868", 
   "CuratorApproved": "Y", 
-  "Title": "Crow/Duck", 
-  "DateAcquired": "1994-03-10", 
+  "CreditLine": "The Family of Man Fund", 
   "Date": "1970", 
   "ArtistID": 6281, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "219.1994", 
-  "ArtistBio": "American, born 1943", 
-  "CreditLine": "The Family of Man Fund", 
+  "ArtistBio": "(American, born 1943)", 
+  "DateAcquired": "1994-03-10", 
+  "\ufeffTitle": "Crow/Duck", 
   "ObjectID": "48868"
 }

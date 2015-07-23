@@ -5,8 +5,7 @@
   "Artist": "Reynolds G. Dennis", 
   "URL": "http://www.moma.org/collection/works/2250", 
   "CuratorApproved": "Y", 
-  "Title": "Beaker: Simplicity", 
-  "DateAcquired": "1952-05-20", 
+  "CreditLine": "Gift of the manufacturer", 
   "Date": "1951", 
   "ArtistID": 1494, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "130.1952", 
-  "ArtistBio": "American", 
-  "CreditLine": "Gift of the manufacturer", 
+  "ArtistBio": "(American)", 
+  "DateAcquired": "1952-05-20", 
+  "\ufeffTitle": "Beaker: Simplicity", 
   "ObjectID": "2250"
 }

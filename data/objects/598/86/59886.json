@@ -5,8 +5,7 @@
   "Artist": "Karl Schmidt-Rottluff", 
   "URL": "http://www.moma.org/collection/works/59886", 
   "CuratorApproved": "Y", 
-  "Title": "Mother", 
-  "DateAcquired": "1945-01-03", 
+  "CreditLine": "Purchase Fund", 
   "Date": "(1916), published 1919", 
   "ArtistID": 5242, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "12.1945", 
-  "ArtistBio": "German, 1884\u20131976", 
-  "CreditLine": "Purchase Fund", 
+  "ArtistBio": "(German, 1884\u20131976)", 
+  "DateAcquired": "1945-01-03", 
+  "\ufeffTitle": "Mother (Mutter)  from the portfolio Ten Woodcuts by Schmidt-Rottluff (Zehn Holzschnitte von Schmidt-Rottluff)", 
   "ObjectID": "59886"
 }

@@ -5,8 +5,7 @@
   "Artist": "Carlo Scarpa", 
   "URL": "http://www.moma.org/collection/works/2052", 
   "CuratorApproved": "Y", 
-  "Title": "Ashtray", 
-  "DateAcquired": "1946-05-07", 
+  "CreditLine": "Gift of Edgar Kaufmann, Jr.", 
   "Date": "1935", 
   "ArtistID": 5197, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "84.1946", 
-  "ArtistBio": "Italian, 1906\u20131978", 
-  "CreditLine": "Gift of Edgar Kaufmann, Jr.", 
+  "ArtistBio": "(Italian, 1906\u20131978)", 
+  "DateAcquired": "1946-05-07", 
+  "\ufeffTitle": "Ashtray", 
   "ObjectID": "2052"
 }

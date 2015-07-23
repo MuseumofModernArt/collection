@@ -5,8 +5,7 @@
   "Artist": "Ben Shahn", 
   "URL": "http://www.moma.org/collection/works/67520", 
   "CuratorApproved": "Y", 
-  "Title": "Boy on Tricycle", 
-  "DateAcquired": "1949-09-29", 
+  "CreditLine": "Gift of Charles Alan", 
   "Date": "(1947)", 
   "ArtistID": 5366, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "353.1949", 
-  "ArtistBio": "American, born Lithuania. 1898\u20131969", 
-  "CreditLine": "Gift of Charles Alan", 
+  "ArtistBio": "(American, born Lithuania. 1898\u20131969)", 
+  "DateAcquired": "1949-09-29", 
+  "\ufeffTitle": "Boy on Tricycle", 
   "ObjectID": "67520"
 }

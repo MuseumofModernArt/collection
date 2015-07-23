@@ -5,8 +5,7 @@
   "Artist": "Cindy Sherman", 
   "URL": "http://www.moma.org/collection/works/46055", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled #96", 
-  "DateAcquired": "1982-03-11", 
+  "CreditLine": "Gift of Carl D. Lobell", 
   "Date": "1981", 
   "ArtistID": 5392, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "90.1982.x1-x3", 
-  "ArtistBio": "American, born 1954", 
-  "CreditLine": "Gift of Carl D. Lobell", 
+  "ArtistBio": "(American, born 1954)", 
+  "DateAcquired": "1982-03-11", 
+  "\ufeffTitle": "Untitled #96", 
   "ObjectID": "46055"
 }

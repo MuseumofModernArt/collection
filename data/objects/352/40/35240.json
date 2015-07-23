@@ -5,8 +5,7 @@
   "Artist": "Kurt Schwitters", 
   "URL": "http://www.moma.org/collection/works/35240", 
   "CuratorApproved": "Y", 
-  "Title": "Merz 2005. Constantinople", 
-  "DateAcquired": "1953-04-07", 
+  "CreditLine": "Katherine S. Dreier Bequest", 
   "Date": "1924", 
   "ArtistID": 5293, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "199.1953", 
-  "ArtistBio": "German, 1887\u20131948", 
-  "CreditLine": "Katherine S. Dreier Bequest", 
+  "ArtistBio": "(German, 1887\u20131948)", 
+  "DateAcquired": "1953-04-07", 
+  "\ufeffTitle": "Merz 2005. Constantinople", 
   "ObjectID": "35240"
 }

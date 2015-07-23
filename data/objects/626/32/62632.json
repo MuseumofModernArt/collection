@@ -5,8 +5,7 @@
   "Artist": "Emilio Ortiz", 
   "URL": "http://www.moma.org/collection/works/62632", 
   "CuratorApproved": "Y", 
-  "Title": "People in the Rain (Personajes bajo la lluvia)", 
-  "DateAcquired": "1970-03-05", 
+  "CreditLine": "Inter-American Fund", 
   "Date": "(1969)", 
   "ArtistID": 4433, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "136.1970", 
-  "ArtistBio": "Mexican", 
-  "CreditLine": "Inter-American Fund", 
+  "ArtistBio": "(Mexican)", 
+  "DateAcquired": "1970-03-05", 
+  "\ufeffTitle": "People in the Rain (Personajes bajo la lluvia)", 
   "ObjectID": "62632"
 }

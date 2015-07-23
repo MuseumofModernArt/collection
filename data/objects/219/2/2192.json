@@ -5,8 +5,7 @@
   "Artist": "Frederick Kiesler", 
   "URL": "http://www.moma.org/collection/works/2192", 
   "CuratorApproved": "Y", 
-  "Title": "Multi-use Chair", 
-  "DateAcquired": "1948-03-17", 
+  "CreditLine": "Edgar Kaufmann, Jr. Purchase Fund", 
   "Date": "1942", 
   "ArtistID": 3091, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "118.1948", 
-  "ArtistBio": "American, born Austria-Hungary. 1890\u20131965", 
-  "CreditLine": "Edgar Kaufmann, Jr. Purchase Fund", 
+  "ArtistBio": "(American, born Austria-Hungary. 1890\u20131965)", 
+  "DateAcquired": "1948-03-17", 
+  "\ufeffTitle": "Multi-use Chair", 
   "ObjectID": "2192"
 }

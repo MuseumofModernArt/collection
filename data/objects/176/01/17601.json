@@ -1,12 +1,11 @@
 {
   "Medium": "Illustrated book with 63 etchings", 
-  "Dimensions": "page  9 1/16 x 9 1/16\" (23 x 23 cm)  Prints: various dimensions.", 
+  "Dimensions": "page  9 1/16 x 9 1/16\" (23 x 23 cm)\r\nPrints: various dimensions.", 
   "Classification": "Illustrated Book", 
   "Artist": "Sol LeWitt", 
   "URL": "http://www.moma.org/collection/works/17601", 
   "CuratorApproved": "Y", 
-  "Title": "Six geometric figures and all their combinations, Volume I", 
-  "DateAcquired": "1983-01-18", 
+  "CreditLine": "Gift of Allen Skolnick", 
   "Date": "1980", 
   "ArtistID": 3528, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "469.1982.1-63", 
-  "ArtistBio": "American, 1928\u20132007", 
-  "CreditLine": "Gift of Allen Skolnick", 
+  "ArtistBio": "(American, 1928\u20132007)", 
+  "DateAcquired": "1983-01-18", 
+  "\ufeffTitle": "Six geometric figures and all their combinations, Volume I", 
   "ObjectID": "17601"
 }

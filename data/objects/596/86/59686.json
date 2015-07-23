@@ -1,12 +1,11 @@
 {
   "Medium": "Etching", 
-  "Dimensions": "plate  10 1/8 x 6 5/8\" (25.7 x 16.8 cm)  sheet  17 3/8 x 13 1/4\" (44 x 33.6 cm)", 
+  "Dimensions": "plate  10 1/8 x 6 5/8\" (25.7 x 16.8 cm)\r\nsheet  17 3/8 x 13 1/4\" (44 x 33.6 cm)", 
   "Classification": "Print", 
   "Artist": "Oscar Dom\u00ednguez", 
   "URL": "http://www.moma.org/collection/works/59686", 
   "CuratorApproved": "Y", 
-  "Title": "Woman with Bicycle", 
-  "DateAcquired": "1985-01-30", 
+  "CreditLine": "Purchase", 
   "Date": "1935", 
   "ArtistID": 1579, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "6.1985", 
-  "ArtistBio": "French, born Spain. 1906\u20131957", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(French, born Spain. 1906\u20131957)", 
+  "DateAcquired": "1985-01-30", 
+  "\ufeffTitle": "Woman with Bicycle", 
   "ObjectID": "59686"
 }

@@ -1,12 +1,11 @@
 {
   "Medium": "Etching, aquatint, and drypoint", 
-  "Dimensions": "plate  35 7/16 x 44 3/4\" (90 x 113.6 cm)  sheet  42 1/8 x 52 3/8\" (107 x 133 cm)", 
+  "Dimensions": "plate  35 7/16 x 44 3/4\" (90 x 113.6 cm)\r\nsheet  42 1/8 x 52 3/8\" (107 x 133 cm)", 
   "Classification": "Print", 
   "Artist": "Pat Steir", 
   "URL": "http://www.moma.org/collection/works/69793", 
   "CuratorApproved": "Y", 
-  "Title": "The Wave - From the Sea - After Leonardo, Hokusai, & Courbet", 
-  "DateAcquired": "1987-01-15", 
+  "CreditLine": "Gift of Karen McCready", 
   "Date": "1985", 
   "ArtistID": 5637, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "479.1986", 
-  "ArtistBio": "American, born 1940", 
-  "CreditLine": "Gift of Karen McCready", 
+  "ArtistBio": "(American, born 1940)", 
+  "DateAcquired": "1987-01-15", 
+  "\ufeffTitle": "The Wave - From the Sea - After Leonardo, Hokusai, & Courbet", 
   "ObjectID": "69793"
 }

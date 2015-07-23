@@ -5,8 +5,7 @@
   "Artist": "Captain Cecil W. Stoughton", 
   "URL": "http://www.moma.org/collection/works/58703", 
   "CuratorApproved": "Y", 
-  "Title": "The New President", 
-  "DateAcquired": "2001-06-14", 
+  "CreditLine": "The New York Times Collection", 
   "Date": "November 22, 1963", 
   "ArtistID": 8624, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "2110.2001", 
-  "ArtistBio": "American, 1920\u20132008", 
-  "CreditLine": "The New York Times Collection", 
+  "ArtistBio": "(American, 1920\u20132008)", 
+  "DateAcquired": "2001-06-14", 
+  "\ufeffTitle": "\"The New President\"", 
   "ObjectID": "58703"
 }

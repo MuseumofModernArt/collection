@@ -5,8 +5,7 @@
   "Artist": "Balthus (Baltusz Klossowski de Rola)", 
   "URL": "http://www.moma.org/collection/works/35652", 
   "CuratorApproved": "Y", 
-  "Title": "Study for The Room", 
-  "DateAcquired": "1978-04-04", 
+  "CreditLine": "The John S. Newberry Collection (by exchange)", 
   "Date": "1949", 
   "ArtistID": 317, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "256.1978", 
-  "ArtistBio": "French, 1908\u20132001", 
-  "CreditLine": "The John S. Newberry Collection (by exchange)", 
+  "ArtistBio": "(French, 1908\u20132001)", 
+  "DateAcquired": "1978-04-04", 
+  "\ufeffTitle": "Study for The Room", 
   "ObjectID": "35652"
 }

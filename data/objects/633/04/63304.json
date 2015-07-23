@@ -1,12 +1,11 @@
 {
   "Medium": "Series of four woodcuts", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "Robert Mangold", 
   "URL": "http://www.moma.org/collection/works/63304", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1994-01-25", 
+  "CreditLine": "Gift of Brooke and Carolyn Alexander", 
   "Date": "(1989)", 
   "ArtistID": 3723, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "160.1994.1-4", 
-  "ArtistBio": "American, born 1937", 
-  "CreditLine": "Gift of Brooke and Carolyn Alexander", 
+  "ArtistBio": "(American, born 1937)", 
+  "DateAcquired": "1994-01-25", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "63304"
 }

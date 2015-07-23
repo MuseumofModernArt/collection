@@ -5,8 +5,7 @@
   "Artist": "Albert Herter", 
   "URL": "http://www.moma.org/collection/works/8916", 
   "CuratorApproved": "Y", 
-  "Title": "In The Name of Mercy, Give!", 
-  "DateAcquired": "1940-04-05", 
+  "CreditLine": "Gift of Abby Aldrich Rockefeller", 
   "Date": "1917", 
   "ArtistID": 2621, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "1594.1940", 
-  "ArtistBio": "American, 1871\u20131950", 
-  "CreditLine": "Gift of Abby Aldrich Rockefeller", 
+  "ArtistBio": "(American, 1871\u20131950)", 
+  "DateAcquired": "1940-04-05", 
+  "\ufeffTitle": "In The Name of Mercy, Give!", 
   "ObjectID": "8916"
 }

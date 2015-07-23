@@ -1,12 +1,11 @@
 {
   "Medium": "Lithograph", 
-  "Dimensions": "composition  9 3/8 x 13 9/16\" (23.8 x 34.5 cm)  sheet  11 1/4 x 15 1/2\" (28 x 39.4 cm)", 
+  "Dimensions": "composition  9 3/8 x 13 9/16\" (23.8 x 34.5 cm)\r\nsheet  11 1/4 x 15 1/2\" (28 x 39.4 cm)", 
   "Classification": "Print", 
   "Artist": "Thomas Hart Benton", 
   "URL": "http://www.moma.org/collection/works/59595", 
   "CuratorApproved": "Y", 
-  "Title": "Spring Tryout", 
-  "DateAcquired": "1988-01-19", 
+  "CreditLine": "Gift of W. J. Cole", 
   "Date": "(1943)", 
   "ArtistID": 483, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "2.1988", 
-  "ArtistBio": "American, 1889\u20131975", 
-  "CreditLine": "Gift of W. J. Cole", 
+  "ArtistBio": "(American, 1889\u20131975)", 
+  "DateAcquired": "1988-01-19", 
+  "\ufeffTitle": "Spring Tryout", 
   "ObjectID": "59595"
 }

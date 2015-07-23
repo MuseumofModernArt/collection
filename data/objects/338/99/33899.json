@@ -5,8 +5,7 @@
   "Artist": "Richard Hunt", 
   "URL": "http://www.moma.org/collection/works/33899", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1971-03-30", 
+  "CreditLine": "Eugene and Clare Thaw Fund", 
   "Date": "1964", 
   "ArtistID": 2769, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "98.1971", 
-  "ArtistBio": "American, born 1935", 
-  "CreditLine": "Eugene and Clare Thaw Fund", 
+  "ArtistBio": "(American, born 1935)", 
+  "DateAcquired": "1971-03-30", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "33899"
 }

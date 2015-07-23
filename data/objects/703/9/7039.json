@@ -5,8 +5,7 @@
   "Artist": "Franciszek Starowieyski", 
   "URL": "http://www.moma.org/collection/works/7039", 
   "CuratorApproved": "Y", 
-  "Title": "Starowieyski Posters, The Museum of Modern Art", 
-  "DateAcquired": "1985-11-18", 
+  "CreditLine": "Purchase", 
   "Date": "1985", 
   "ArtistID": 5607, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "450.1985", 
-  "ArtistBio": "Polish, 1930\u20132009", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(Polish, 1930\u20132009)", 
+  "DateAcquired": "1985-11-18", 
+  "\ufeffTitle": "Starowieyski Posters, The Museum of Modern Art", 
   "ObjectID": "7039"
 }

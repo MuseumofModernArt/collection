@@ -5,8 +5,7 @@
   "Artist": "Ralph Steiner", 
   "URL": "http://www.moma.org/collection/works/55779", 
   "CuratorApproved": "Y", 
-  "Title": "Ham and Eggs. Advertisement for The Delineator", 
-  "DateAcquired": "1970-10-27", 
+  "CreditLine": "Gift of the photographer", 
   "Date": "1929", 
   "ArtistID": 5631, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "642.1970", 
-  "ArtistBio": "American, 1899\u20131986", 
-  "CreditLine": "Gift of the photographer", 
+  "ArtistBio": "(American, 1899\u20131986)", 
+  "DateAcquired": "1970-10-27", 
+  "\ufeffTitle": "Ham and Eggs. Advertisement for The Delineator", 
   "ObjectID": "55779"
 }

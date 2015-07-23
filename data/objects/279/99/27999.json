@@ -5,8 +5,7 @@
   "Artist": "\u00c9douard Manet", 
   "URL": "http://www.moma.org/collection/works/27999", 
   "CuratorApproved": "Y", 
-  "Title": "The Flying Raven (ex libris) from The Raven (Le Corbeau)", 
-  "DateAcquired": "1964-10-06", 
+  "CreditLine": "The Louis E. Stern Collection", 
   "Date": "1875", 
   "ArtistID": 3721, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "910.1964.6", 
-  "ArtistBio": "French, 1832\u20131883", 
-  "CreditLine": "The Louis E. Stern Collection", 
+  "ArtistBio": "(French, 1832\u20131883)", 
+  "DateAcquired": "1964-10-06", 
+  "\ufeffTitle": "The Flying Raven (ex libris) from The Raven ( Le Corbeau )", 
   "ObjectID": "27999"
 }

@@ -5,8 +5,7 @@
   "Artist": "Max Beckmann", 
   "URL": "http://www.moma.org/collection/works/60923", 
   "CuratorApproved": "Y", 
-  "Title": "Embrace", 
-  "DateAcquired": "1955-04-06", 
+  "CreditLine": "Abby Aldrich Rockefeller Fund (by exchange)", 
   "Date": "(1922)", 
   "ArtistID": 429, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "50.1955", 
-  "ArtistBio": "German, 1884\u20131950", 
-  "CreditLine": "Abby Aldrich Rockefeller Fund (by exchange)", 
+  "ArtistBio": "(German, 1884\u20131950)", 
+  "DateAcquired": "1955-04-06", 
+  "\ufeffTitle": "Embrace (Umarmung)", 
   "ObjectID": "60923"
 }

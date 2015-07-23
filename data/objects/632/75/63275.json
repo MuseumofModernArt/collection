@@ -1,12 +1,11 @@
 {
   "Medium": "Soft ground etching and aquatint with gouache additions", 
-  "Dimensions": "irreg. composition  22 7/16 x 30\" (57 x 76.3 cm)  sheet  22 7/16 x 30\" (57 x 76.3 cm)", 
+  "Dimensions": "irreg. composition  22 7/16 x 30\" (57 x 76.3 cm)\r\nsheet  22 7/16 x 30\" (57 x 76.3 cm)", 
   "Classification": "Print", 
   "Artist": "Howard Hodgkin", 
   "URL": "http://www.moma.org/collection/works/63275", 
   "CuratorApproved": "Y", 
-  "Title": "After Lunch", 
-  "DateAcquired": "1981-05-06", 
+  "CreditLine": "Purchase", 
   "Date": "1980", 
   "ArtistID": 2679, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "159.1981", 
-  "ArtistBio": "British, born 1932", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(British, born 1932)", 
+  "DateAcquired": "1981-05-06", 
+  "\ufeffTitle": "After Lunch", 
   "ObjectID": "63275"
 }

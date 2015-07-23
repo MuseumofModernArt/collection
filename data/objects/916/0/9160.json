@@ -1,12 +1,11 @@
 {
   "Medium": "Illustrated book with two transfer lithographs", 
-  "Dimensions": "page  9 1/8 x 7 3/8\" (23 x 18.8 cm)  Prints:  various dimensions.", 
+  "Dimensions": "page  9 1/8 x 7 3/8\" (23 x 18.8 cm)\r\nPrints:  various dimensions.", 
   "Classification": "Illustrated Book", 
-  "Artist": "Various Artists", 
+  "Artist": "Various Artists, Olga Rozanova, Kazimir Malevich", 
   "URL": "http://www.moma.org/collection/works/9160", 
   "CuratorApproved": "Y", 
-  "Title": "Slovo Kak Takavoe (The Word as Such)", 
-  "DateAcquired": "1974-01-10", 
+  "CreditLine": "Purchase", 
   "Date": "(St. Petersburg, 1913)", 
   "ArtistID": 6104, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "13.1974.1-2", 
-  "ArtistBio": "Various", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(Various) (Russian, 1886\u20131918) (Russian, born Ukraine. 1878\u20131935)", 
+  "DateAcquired": "1974-01-10", 
+  "\ufeffTitle": "Slovo Kak Takavoe (The Word as Such)", 
   "ObjectID": "9160"
 }

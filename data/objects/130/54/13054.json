@@ -1,12 +1,11 @@
 {
   "Medium": "Illustrated book with 19 lithographs (including box cover, title page, and texts with borders)", 
-  "Dimensions": "page  40 15/16 x 27 3/8\" (104 x 69.5 cm)  Prints:  various dimensions.", 
+  "Dimensions": "page  40 15/16 x 27 3/8\" (104 x 69.5 cm)\r\nPrints:  various dimensions.", 
   "Classification": "Illustrated Book", 
-  "Artist": "Alexander Liberman", 
+  "Artist": "Alexander Liberman, Andrei Voznesensky", 
   "URL": "http://www.moma.org/collection/works/13054", 
   "CuratorApproved": "Y", 
-  "Title": "Nostalgia for the Present", 
-  "DateAcquired": "1981-05-06", 
+  "CreditLine": "Gift of Celeste Bartos", 
   "Date": "(1979).  (Prints executed 1977-1979).", 
   "ArtistID": 3537, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "183.1981.1-19", 
-  "ArtistBio": "American, born Russia. 1912\u20131999", 
-  "CreditLine": "Gift of Celeste Bartos", 
+  "ArtistBio": "(American, born Russia. 1912\u20131999) (Russian, born 1933)", 
+  "DateAcquired": "1981-05-06", 
+  "\ufeffTitle": "Nostalgia for the Present", 
   "ObjectID": "13054"
 }

@@ -5,8 +5,7 @@
   "Artist": "Robert Indiana", 
   "URL": "http://www.moma.org/collection/works/7001", 
   "CuratorApproved": "Y", 
-  "Title": "Indiana 3, Philadelphia, San Antonio, Indianapolis", 
-  "DateAcquired": "1976-10-22", 
+  "CreditLine": "Peter Stone Collection of Posters by Artists", 
   "Date": "1968", 
   "ArtistID": 2812, 
   "Keywords": [
@@ -20,7 +19,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "446.1976", 
-  "ArtistBio": "American, born 1928", 
-  "CreditLine": "Peter Stone Collection of Posters by Artists", 
+  "ArtistBio": "(American, born 1928)", 
+  "DateAcquired": "1976-10-22", 
+  "\ufeffTitle": "Indiana 3, Philadelphia, San Antonio, Indianapolis", 
   "ObjectID": "7001"
 }

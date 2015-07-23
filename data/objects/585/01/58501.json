@@ -5,8 +5,7 @@
   "Artist": "Minor White", 
   "URL": "http://www.moma.org/collection/works/58501", 
   "CuratorApproved": "Y", 
-  "Title": "Rochester", 
-  "DateAcquired": "1968-05-01", 
+  "CreditLine": "Gift of David H. McAlpin", 
   "Date": "1954", 
   "ArtistID": 6342, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "1918.1968", 
-  "ArtistBio": "American, 1908\u20131976", 
-  "CreditLine": "Gift of David H. McAlpin", 
+  "ArtistBio": "(American, 1908\u20131976)", 
+  "DateAcquired": "1968-05-01", 
+  "\ufeffTitle": "Rochester", 
   "ObjectID": "58501"
 }

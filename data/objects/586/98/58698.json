@@ -5,8 +5,7 @@
   "Artist": "Ernie Sisto/The New York Times", 
   "URL": "http://www.moma.org/collection/works/58698", 
   "CuratorApproved": "Y", 
-  "Title": "World Series: Yankees vs. Dodgers (Gilliam slides into second)", 
-  "DateAcquired": "2001-06-14", 
+  "CreditLine": "The New York Times Collection", 
   "Date": "September 28, 1955", 
   "ArtistID": 8620, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "2105.2001", 
-  "ArtistBio": "American, 1904\u20131989", 
-  "CreditLine": "The New York Times Collection", 
+  "ArtistBio": "(American, 1904\u20131989)", 
+  "DateAcquired": "2001-06-14", 
+  "\ufeffTitle": "World Series: Yankees vs. Dodgers (Gilliam slides into second)", 
   "ObjectID": "58698"
 }

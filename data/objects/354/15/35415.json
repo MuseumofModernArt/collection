@@ -1,12 +1,11 @@
 {
   "Medium": "White ink on black paper mounted on pink paper", 
-  "Dimensions": "15 7/8 x 11 7/8\" (40.3 x 30.2 cm)  ", 
+  "Dimensions": "15 7/8 x 11 7/8\" (40.3 x 30.2 cm)\r\n", 
   "Classification": "Drawing", 
   "Artist": "Hans Bellmer", 
   "URL": "http://www.moma.org/collection/works/35415", 
   "CuratorApproved": "Y", 
-  "Title": "The Palace of King Ubu", 
-  "DateAcquired": "1937-12-03", 
+  "CreditLine": "Purchase", 
   "Date": "1936", 
   "ArtistID": 452, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "230.1937", 
-  "ArtistBio": "German, 1902\u20131975", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(German, 1902\u20131975)", 
+  "DateAcquired": "1937-12-03", 
+  "\ufeffTitle": "The Palace of King Ubu", 
   "ObjectID": "35415"
 }

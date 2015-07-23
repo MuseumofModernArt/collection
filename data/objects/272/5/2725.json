@@ -5,8 +5,7 @@
   "Artist": "Olof Backman", 
   "URL": "http://www.moma.org/collection/works/2725", 
   "CuratorApproved": "Y", 
-  "Title": "Veneer Saw Model No. 314", 
-  "DateAcquired": "1958-12-04", 
+  "CreditLine": "Phyllis B. Lambert Fund", 
   "Date": "1950", 
   "ArtistID": 270, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "216.1958", 
-  "ArtistBio": "Swedish, born 1899", 
-  "CreditLine": "Phyllis B. Lambert Fund", 
+  "ArtistBio": "(Swedish, born 1899)", 
+  "DateAcquired": "1958-12-04", 
+  "\ufeffTitle": "Veneer Saw Model No. 314", 
   "ObjectID": "2725"
 }

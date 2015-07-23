@@ -5,8 +5,7 @@
   "Artist": "Marcin Stajewski", 
   "URL": "http://www.moma.org/collection/works/6702", 
   "CuratorApproved": "Y", 
-  "Title": "Kopciuch", 
-  "DateAcquired": "1982-10-27", 
+  "CreditLine": "Gift of the artist", 
   "Date": "1980", 
   "ArtistID": 5592, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "423.1982", 
-  "ArtistBio": "Polish, born 1938", 
-  "CreditLine": "Gift of the artist", 
+  "ArtistBio": "(Polish, born 1938)", 
+  "DateAcquired": "1982-10-27", 
+  "\ufeffTitle": "Kopciuch", 
   "ObjectID": "6702"
 }

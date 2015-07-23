@@ -5,8 +5,7 @@
   "Artist": "Adolph Gottlieb", 
   "URL": "http://www.moma.org/collection/works/69408", 
   "CuratorApproved": "Y", 
-  "Title": "Apparition", 
-  "DateAcquired": "1989-01-18", 
+  "CreditLine": "The Associates Fund", 
   "Date": "1945", 
   "ArtistID": 2268, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "456.1988", 
-  "ArtistBio": "American, 1903\u20131974", 
-  "CreditLine": "The Associates Fund", 
+  "ArtistBio": "(American, 1903\u20131974)", 
+  "DateAcquired": "1989-01-18", 
+  "\ufeffTitle": "Apparition", 
   "ObjectID": "69408"
 }

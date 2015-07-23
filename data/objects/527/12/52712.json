@@ -5,8 +5,7 @@
   "Artist": "Emmet Gowin", 
   "URL": "http://www.moma.org/collection/works/52712", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1992-10-15", 
+  "CreditLine": "Anonymous gift", 
   "Date": "1976", 
   "ArtistID": 2273, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "404.1992", 
-  "ArtistBio": "American, born 1941", 
-  "CreditLine": "Anonymous gift", 
+  "ArtistBio": "(American, born 1941)", 
+  "DateAcquired": "1992-10-15", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "52712"
 }

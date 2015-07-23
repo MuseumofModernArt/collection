@@ -5,8 +5,7 @@
   "Artist": "Art Chantry", 
   "URL": "http://www.moma.org/collection/works/5315", 
   "CuratorApproved": "Y", 
-  "Title": "Poster for the Play \"Propaganda\"", 
-  "DateAcquired": "1995-05-09", 
+  "CreditLine": "Gift of the designer", 
   "Date": "1988", 
   "ArtistID": 7456, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "152.1995", 
-  "ArtistBio": "American, born 1954", 
-  "CreditLine": "Gift of the designer", 
+  "ArtistBio": "(American, born 1954)", 
+  "DateAcquired": "1995-05-09", 
+  "\ufeffTitle": "Poster for the Play \"Propaganda\"", 
   "ObjectID": "5315"
 }

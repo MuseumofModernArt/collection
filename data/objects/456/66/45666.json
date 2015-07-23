@@ -5,8 +5,7 @@
   "Artist": "Ralph Steiner", 
   "URL": "http://www.moma.org/collection/works/45666", 
   "CuratorApproved": "Y", 
-  "Title": "Always Camel Cigarettes", 
-  "DateAcquired": "1975-02-12", 
+  "CreditLine": "Gift of Willard Van Dyke", 
   "Date": "1922", 
   "ArtistID": 5631, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "73.1975", 
-  "ArtistBio": "American, 1899\u20131986", 
-  "CreditLine": "Gift of Willard Van Dyke", 
+  "ArtistBio": "(American, 1899\u20131986)", 
+  "DateAcquired": "1975-02-12", 
+  "\ufeffTitle": "\"Always Camel\" Cigarettes", 
   "ObjectID": "45666"
 }

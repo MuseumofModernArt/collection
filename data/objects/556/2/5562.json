@@ -5,8 +5,7 @@
   "Artist": "Unknown Artist", 
   "URL": "http://www.moma.org/collection/works/5562", 
   "CuratorApproved": "Y", 
-  "Title": "Die Meister des Bauhauses", 
-  "DateAcquired": "1968-03-07", 
+  "CreditLine": "Gift of Philip Johnson", 
   "Date": "c. 1920-40", 
   "ArtistID": 6026, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "181.1968", 
-  "ArtistBio": "Nationality Unknown", 
-  "CreditLine": "Gift of Philip Johnson", 
+  "ArtistBio": "(Nationality Unknown)", 
+  "DateAcquired": "1968-03-07", 
+  "\ufeffTitle": "Die Meister des Bauhauses", 
   "ObjectID": "5562"
 }

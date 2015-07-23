@@ -5,8 +5,7 @@
   "Artist": "Dan Weiner", 
   "URL": "http://www.moma.org/collection/works/48111", 
   "CuratorApproved": "Y", 
-  "Title": "Exercise Class, Park Forest", 
-  "DateAcquired": "1989-06-08", 
+  "CreditLine": "Gift of Sandra Weiner", 
   "Date": "1953", 
   "ArtistID": 6287, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "191.1989", 
-  "ArtistBio": "American, 1919\u20131959", 
-  "CreditLine": "Gift of Sandra Weiner", 
+  "ArtistBio": "(American, 1919\u20131959)", 
+  "DateAcquired": "1989-06-08", 
+  "\ufeffTitle": "Exercise Class, Park Forest", 
   "ObjectID": "48111"
 }

@@ -1,12 +1,11 @@
 {
   "Medium": "Illustrated Book with 8 aquatints", 
-  "Dimensions": "page 11 15/16 x 9 13/16\" (30 x 25 cm)  Prints:  various dimensions.", 
+  "Dimensions": "page 11 15/16 x 9 13/16\" (30 x 25 cm)\r\nPrints:  various dimensions.", 
   "Classification": "Illustrated Book", 
   "Artist": "Sean Scully", 
   "URL": "http://www.moma.org/collection/works/10646", 
   "CuratorApproved": "Y", 
-  "Title": "Heart of Darkness", 
-  "DateAcquired": "1993-01-18", 
+  "CreditLine": "John B. Turner Fund", 
   "Date": "1992", 
   "ArtistID": 5305, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "38.1993.1-8", 
-  "ArtistBio": "American, born Ireland 1945", 
-  "CreditLine": "John B. Turner Fund", 
+  "ArtistBio": "(American, born Ireland 1945)", 
+  "DateAcquired": "1993-01-18", 
+  "\ufeffTitle": "Heart of Darkness", 
   "ObjectID": "10646"
 }

@@ -5,8 +5,7 @@
   "Artist": "Jules Ch\u00e9ret", 
   "URL": "http://www.moma.org/collection/works/5142", 
   "CuratorApproved": "Y", 
-  "Title": "Les Girard", 
-  "DateAcquired": "1968-03-07", 
+  "CreditLine": "Acquired by exchange", 
   "Date": "1879", 
   "ArtistID": 1089, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "122.1968", 
-  "ArtistBio": "French, 1836\u20131932", 
-  "CreditLine": "Acquired by exchange", 
+  "ArtistBio": "(French, 1836\u20131932)", 
+  "DateAcquired": "1968-03-07", 
+  "\ufeffTitle": "Les Girard", 
   "ObjectID": "5142"
 }

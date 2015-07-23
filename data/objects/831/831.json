@@ -5,8 +5,7 @@
   "Artist": "Max Peintner", 
   "URL": "http://www.moma.org/collection/works/831", 
   "CuratorApproved": "Y", 
-  "Title": "Take-Off, project   Perspective", 
-  "DateAcquired": "2000-10-31", 
+  "CreditLine": "Gift of The Howard Gilman Foundation", 
   "Date": "1974", 
   "ArtistID": 8115, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "1220.2000", 
-  "ArtistBio": "Austrian, born 1937", 
-  "CreditLine": "Gift of The Howard Gilman Foundation", 
+  "ArtistBio": "(Austrian, born 1937)", 
+  "DateAcquired": "2000-10-31", 
+  "\ufeffTitle": "Take-Off, project , Perspective", 
   "ObjectID": "831"
 }

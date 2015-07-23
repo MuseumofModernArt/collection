@@ -1,12 +1,11 @@
 {
-  "Medium": "Six plates from a portfolio of twelve prints, six lithographs (including two transferred from woodcuts), four drypoints, and two woodcuts    ", 
-  "Dimensions": "NULL", 
+  "Medium": "Six plates from a portfolio of twelve prints, six lithographs (including two transferred from woodcuts), four drypoints, and two woodcuts\r\n\r\n", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "Vasily Kandinsky", 
   "URL": "http://www.moma.org/collection/works/68432", 
   "CuratorApproved": "Y", 
-  "Title": "Small Worlds", 
-  "DateAcquired": "1941-03-20", 
+  "CreditLine": "Purchase", 
   "Date": "1922", 
   "ArtistID": 2981, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "399.1941.1-6", 
-  "ArtistBio": "French, born Russia. 1866\u20131944", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(French, born Russia. 1866\u20131944)", 
+  "DateAcquired": "1941-03-20", 
+  "\ufeffTitle": "Small Worlds (Kleine Welten)", 
   "ObjectID": "68432"
 }

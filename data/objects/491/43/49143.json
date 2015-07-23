@@ -5,8 +5,7 @@
   "Artist": "Unknown photographer", 
   "URL": "http://www.moma.org/collection/works/49143", 
   "CuratorApproved": "Y", 
-  "Title": "Tunnel de Bonvoyage", 
-  "DateAcquired": "1986-05-22", 
+  "CreditLine": "Purchase", 
   "Date": "1866-69", 
   "ArtistID": 6028, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "227.1986", 
-  "ArtistBio": "NULL", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "", 
+  "DateAcquired": "1986-05-22", 
+  "\ufeffTitle": "Tunnel de Bonvoyage", 
   "ObjectID": "49143"
 }

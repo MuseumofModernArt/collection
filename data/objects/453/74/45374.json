@@ -5,8 +5,7 @@
   "Artist": "Sheron Rupp", 
   "URL": "http://www.moma.org/collection/works/45374", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled (Belt Creek, Montana)", 
-  "DateAcquired": "1997-03-06", 
+  "CreditLine": "E.T. Harmax Foundation Fund", 
   "Date": "1996", 
   "ArtistID": 5083, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "64.1997.x1-x2", 
-  "ArtistBio": "American, born 1943", 
-  "CreditLine": "E.T. Harmax Foundation Fund", 
+  "ArtistBio": "(American, born 1943)", 
+  "DateAcquired": "1997-03-06", 
+  "\ufeffTitle": "Untitled (Belt Creek, Montana)", 
   "ObjectID": "45374"
 }

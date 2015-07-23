@@ -5,8 +5,7 @@
   "Artist": "Mel Bochner", 
   "URL": "http://www.moma.org/collection/works/33605", 
   "CuratorApproved": "Y", 
-  "Title": "Counting (#2) (Rocks)", 
-  "DateAcquired": "1987-04-03", 
+  "CreditLine": "Gift of Pierre Apraxine", 
   "Date": "(1969)", 
   "ArtistID": 625, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "68.1987", 
-  "ArtistBio": "American, born 1940", 
-  "CreditLine": "Gift of Pierre Apraxine", 
+  "ArtistBio": "(American, born 1940)", 
+  "DateAcquired": "1987-04-03", 
+  "\ufeffTitle": "Counting (#2) (Rocks)", 
   "ObjectID": "33605"
 }

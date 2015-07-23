@@ -5,8 +5,7 @@
   "Artist": "Diego Rivera", 
   "URL": "http://www.moma.org/collection/works/38699", 
   "CuratorApproved": "Y", 
-  "Title": "Dead Horse", 
-  "DateAcquired": "1968-12-11", 
+  "CreditLine": "Inter-American Fund", 
   "Date": "1906", 
   "ArtistID": 4942, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "1586.1968", 
-  "ArtistBio": "Mexican, 1886\u20131957", 
-  "CreditLine": "Inter-American Fund", 
+  "ArtistBio": "(Mexican, 1886\u20131957)", 
+  "DateAcquired": "1968-12-11", 
+  "\ufeffTitle": "Dead Horse", 
   "ObjectID": "38699"
 }

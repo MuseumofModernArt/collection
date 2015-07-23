@@ -5,8 +5,7 @@
   "Artist": "Tom Dixon", 
   "URL": "http://www.moma.org/collection/works/3857", 
   "CuratorApproved": "Y", 
-  "Title": "S Chair", 
-  "DateAcquired": "1997-10-17", 
+  "CreditLine": "Gift of the manufacturer", 
   "Date": "1991", 
   "ArtistID": 7938, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "457.1997", 
-  "ArtistBio": "British, born 1959", 
-  "CreditLine": "Gift of the manufacturer", 
+  "ArtistBio": "(British, born 1959)", 
+  "DateAcquired": "1997-10-17", 
+  "\ufeffTitle": "S Chair", 
   "ObjectID": "3857"
 }

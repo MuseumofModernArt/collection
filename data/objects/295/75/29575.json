@@ -5,8 +5,7 @@
   "Artist": "Pablo Picasso", 
   "URL": "http://www.moma.org/collection/works/29575", 
   "CuratorApproved": "Y", 
-  "Title": "WOMAN DRAWING (plate, folio 20) from VINGT PO\u00c8MES", 
-  "DateAcquired": "1964-10-06", 
+  "CreditLine": "The Louis E. Stern Collection", 
   "Date": "(Print executed 1947)", 
   "ArtistID": 4609, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "988.1964.8", 
-  "ArtistBio": "Spanish, 1881\u20131973", 
-  "CreditLine": "The Louis E. Stern Collection", 
+  "ArtistBio": "(Spanish, 1881\u20131973)", 
+  "DateAcquired": "1964-10-06", 
+  "\ufeffTitle": "Woman Drawing (plate, folio 20) from the illustrated book Vingt po\u00ebmes", 
   "ObjectID": "29575"
 }

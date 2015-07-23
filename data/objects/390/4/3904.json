@@ -5,8 +5,7 @@
   "Artist": "Louis Comfort Tiffany", 
   "URL": "http://www.moma.org/collection/works/3904", 
   "CuratorApproved": "Y", 
-  "Title": "Vase", 
-  "DateAcquired": "1956-10-25", 
+  "CreditLine": "Purchase", 
   "Date": "1909", 
   "ArtistID": 5876, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "464.1956", 
-  "ArtistBio": "American, 1848\u20131933", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, 1848\u20131933)", 
+  "DateAcquired": "1956-10-25", 
+  "\ufeffTitle": "Vase", 
   "ObjectID": "3904"
 }

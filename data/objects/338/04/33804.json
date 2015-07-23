@@ -5,8 +5,7 @@
   "Artist": "Raymond Pettibon", 
   "URL": "http://www.moma.org/collection/works/33804", 
   "CuratorApproved": "Y", 
-  "Title": "No Title (Learning to talk)", 
-  "DateAcquired": "1997-01-16", 
+  "CreditLine": "Gift of the Friends of Contemporary Drawing", 
   "Date": "1989", 
   "ArtistID": 7500, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "88.1996.7", 
-  "ArtistBio": "American, born 1957", 
-  "CreditLine": "Gift of the Friends of Contemporary Drawing", 
+  "ArtistBio": "(American, born 1957)", 
+  "DateAcquired": "1997-01-16", 
+  "\ufeffTitle": "No Title (Learning to talk)", 
   "ObjectID": "33804"
 }

@@ -5,8 +5,7 @@
   "Artist": "Lyonel Feininger", 
   "URL": "http://www.moma.org/collection/works/35494", 
   "CuratorApproved": "Y", 
-  "Title": "Uprising", 
-  "DateAcquired": "1976-06-02", 
+  "CreditLine": "Gift in memory of Reverend Laurence Feininger", 
   "Date": "1909", 
   "ArtistID": 1832, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "244.1976", 
-  "ArtistBio": "American, 1871\u20131956", 
-  "CreditLine": "Gift in memory of Reverend Laurence Feininger", 
+  "ArtistBio": "(American, 1871\u20131956)", 
+  "DateAcquired": "1976-06-02", 
+  "\ufeffTitle": "Uprising (Aufruhr)", 
   "ObjectID": "35494"
 }

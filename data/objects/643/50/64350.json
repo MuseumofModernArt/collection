@@ -1,12 +1,11 @@
 {
   "Medium": "Lithograph on Indian newspaper with thread additions", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "Lesley Dill", 
   "URL": "http://www.moma.org/collection/works/64350", 
   "CuratorApproved": "Y", 
-  "Title": "Poem Dress, \"The Soul Selects Her Own Society\"", 
-  "DateAcquired": "1997-05-28", 
+  "CreditLine": "Gift of Landfall Press", 
   "Date": "1993", 
   "ArtistID": 6903, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "203.1997", 
-  "ArtistBio": "American, born 1949", 
-  "CreditLine": "Gift of Landfall Press", 
+  "ArtistBio": "(American, born 1949)", 
+  "DateAcquired": "1997-05-28", 
+  "\ufeffTitle": "Poem Dress, \"The Soul Selects Her Own Society\"", 
   "ObjectID": "64350"
 }

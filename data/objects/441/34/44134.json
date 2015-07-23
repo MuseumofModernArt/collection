@@ -5,8 +5,7 @@
   "Artist": "Pierre Betz", 
   "URL": "http://www.moma.org/collection/works/44134", 
   "CuratorApproved": "Y", 
-  "Title": "Mooring Rope", 
-  "DateAcquired": "1941-01-16", 
+  "CreditLine": "Gift of the photographer", 
   "Date": "c. 1930", 
   "ArtistID": 538, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "25.1941", 
-  "ArtistBio": "French, 1899\u20131969", 
-  "CreditLine": "Gift of the photographer", 
+  "ArtistBio": "(French, 1899\u20131969)", 
+  "DateAcquired": "1941-01-16", 
+  "\ufeffTitle": "Mooring Rope", 
   "ObjectID": "44134"
 }

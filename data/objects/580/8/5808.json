@@ -5,8 +5,7 @@
   "Artist": "unknown", 
   "URL": "http://www.moma.org/collection/works/5808", 
   "CuratorApproved": "Y", 
-  "Title": "Homenaje a Madrid", 
-  "DateAcquired": "1937-12-03", 
+  "CreditLine": "Purchase", 
   "Date": "1937", 
   "Keywords": [
     "online art collection", 
@@ -16,7 +15,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "243.1937", 
-  "ArtistBio": "NULL", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "", 
+  "DateAcquired": "1937-12-03", 
+  "\ufeffTitle": "Homenaje a Madrid", 
   "ObjectID": "5808"
 }

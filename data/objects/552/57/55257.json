@@ -5,8 +5,7 @@
   "Artist": "David Goldblatt", 
   "URL": "http://www.moma.org/collection/works/55257", 
   "CuratorApproved": "Y", 
-  "Title": "Tourist Information Centre, Phuthaditjhaba, Qwa Qwa", 
-  "DateAcquired": "1998-10-15", 
+  "CreditLine": "Purchase", 
   "Date": "21 May 1990", 
   "ArtistID": 2214, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "571.1998", 
-  "ArtistBio": "South African, born 1930", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(South African, born 1930)", 
+  "DateAcquired": "1998-10-15", 
+  "\ufeffTitle": "Tourist Information Centre, Phuthaditjhaba, Qwa Qwa", 
   "ObjectID": "55257"
 }

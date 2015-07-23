@@ -5,8 +5,7 @@
   "Artist": "Art Bevacqua", 
   "URL": "http://www.moma.org/collection/works/5118", 
   "CuratorApproved": "Y", 
-  "Title": "The American Dream", 
-  "DateAcquired": "1968-03-07", 
+  "CreditLine": "Gift of Joseph H. Heil", 
   "Date": "1967", 
   "ArtistID": 541, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "113.1968", 
-  "ArtistBio": "Nationality unknown", 
-  "CreditLine": "Gift of Joseph H. Heil", 
+  "ArtistBio": "(Nationality unknown)", 
+  "DateAcquired": "1968-03-07", 
+  "\ufeffTitle": "The American Dream", 
   "ObjectID": "5118"
 }

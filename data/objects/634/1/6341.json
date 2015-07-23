@@ -5,8 +5,7 @@
   "Artist": "Giovanni Pintori", 
   "URL": "http://www.moma.org/collection/works/6341", 
   "CuratorApproved": "Y", 
-  "Title": "Olivetti Lexikon 80", 
-  "DateAcquired": "1953-04-07", 
+  "CreditLine": "Gift of the Olivetti Corporation", 
   "Date": "c. 1950", 
   "ArtistID": 4629, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "336.1953", 
-  "ArtistBio": "Italian, 1912\u20131999", 
-  "CreditLine": "Gift of the Olivetti Corporation", 
+  "ArtistBio": "(Italian, 1912\u20131999)", 
+  "DateAcquired": "1953-04-07", 
+  "\ufeffTitle": "Olivetti Lexikon 80", 
   "ObjectID": "6341"
 }

@@ -1,12 +1,11 @@
 {
   "Medium": "Lithograph", 
-  "Dimensions": "irreg. composition  11 5/16 x 9 3/4\" (28.8 x 24.7 cm)  sheet  20 1/16 x 15 3/8\" (51 x 39.1 cm)", 
+  "Dimensions": "irreg. composition  11 5/16 x 9 3/4\" (28.8 x 24.7 cm)\r\nsheet  20 1/16 x 15 3/8\" (51 x 39.1 cm)", 
   "Classification": "Print", 
   "Artist": "Lovis Corinth", 
   "URL": "http://www.moma.org/collection/works/67484", 
   "CuratorApproved": "Y", 
-  "Title": "Letter L", 
-  "DateAcquired": "1956-10-25", 
+  "CreditLine": "Gift of J.B. Neumann", 
   "Date": "(1916, published 1917)", 
   "ArtistID": 1243, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "351.1956", 
-  "ArtistBio": "German, 1858\u20131925", 
-  "CreditLine": "Gift of J.B. Neumann", 
+  "ArtistBio": "(German, 1858\u20131925)", 
+  "DateAcquired": "1956-10-25", 
+  "\ufeffTitle": "Letter L (Buchstabe L) from the illustrated book in portfolio form The ABCs (Das ABC)", 
   "ObjectID": "67484"
 }

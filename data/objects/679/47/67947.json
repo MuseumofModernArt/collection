@@ -5,8 +5,7 @@
   "Artist": "Giorgio Morandi", 
   "URL": "http://www.moma.org/collection/works/67947", 
   "CuratorApproved": "Y", 
-  "Title": "Landscape at Grizzana (Paesaggio di Grizzana)", 
-  "DateAcquired": "1956-10-25", 
+  "CreditLine": "Given anonymously", 
   "Date": "1932", 
   "ArtistID": 4079, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "371.1956", 
-  "ArtistBio": "Italian, 1890\u20131964", 
-  "CreditLine": "Given anonymously", 
+  "ArtistBio": "(Italian, 1890\u20131964)", 
+  "DateAcquired": "1956-10-25", 
+  "\ufeffTitle": "Landscape at Grizzana (Paesaggio di Grizzana)", 
   "ObjectID": "67947"
 }

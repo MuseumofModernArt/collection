@@ -5,8 +5,7 @@
   "Artist": "Wojciech Zamecznik", 
   "URL": "http://www.moma.org/collection/works/5028", 
   "CuratorApproved": "Y", 
-  "Title": "Klamstwo Judyty", 
-  "DateAcquired": "1961-02-07", 
+  "CreditLine": "Given anonymously", 
   "Date": "1956", 
   "ArtistID": 6539, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "91.1961", 
-  "ArtistBio": "Polish, 1923\u20131967", 
-  "CreditLine": "Given anonymously", 
+  "ArtistBio": "(Polish, 1923\u20131967)", 
+  "DateAcquired": "1961-02-07", 
+  "\ufeffTitle": "Klamstwo Judyty", 
   "ObjectID": "5028"
 }

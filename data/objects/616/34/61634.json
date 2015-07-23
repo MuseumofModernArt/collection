@@ -1,12 +1,11 @@
 {
   "Medium": "Artist's book", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Illustrated Book", 
-  "Artist": "Ian Hamilton Finlay", 
+  "Artist": "Ian Hamilton Finlay, Kathleen Lindsley", 
   "URL": "http://www.moma.org/collection/works/61634", 
   "CuratorApproved": "Y", 
-  "Title": "4 Baskets", 
-  "DateAcquired": "1997-03-06", 
+  "CreditLine": "Walter Bareiss Fund", 
   "Date": "1990", 
   "ArtistID": 1878, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "87.1997", 
-  "ArtistBio": "British, 1925\u20132006", 
-  "CreditLine": "Walter Bareiss Fund", 
+  "ArtistBio": "(British, 1925\u20132006)", 
+  "DateAcquired": "1997-03-06", 
+  "\ufeffTitle": "4 Baskets", 
   "ObjectID": "61634"
 }

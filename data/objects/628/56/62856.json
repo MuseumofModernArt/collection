@@ -1,12 +1,11 @@
 {
   "Medium": "Photoetching and aquatint", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "Robert Rauschenberg", 
   "URL": "http://www.moma.org/collection/works/62856", 
   "CuratorApproved": "Y", 
-  "Title": "Morocco", 
-  "DateAcquired": "1989-05-30", 
+  "CreditLine": "Gift of Emily Fisher Landau", 
   "Date": "1989", 
   "ArtistID": 4823, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "141.1989", 
-  "ArtistBio": "American, 1925\u20132008", 
-  "CreditLine": "Gift of Emily Fisher Landau", 
+  "ArtistBio": "(American, 1925\u20132008)", 
+  "DateAcquired": "1989-05-30", 
+  "\ufeffTitle": "Morocco", 
   "ObjectID": "62856"
 }

@@ -5,8 +5,7 @@
   "Artist": "Unknown photographer", 
   "URL": "http://www.moma.org/collection/works/48361", 
   "CuratorApproved": "Y", 
-  "Title": "Coronado Beach, California", 
-  "DateAcquired": "1991-06-20", 
+  "CreditLine": "Lois and Bruce Zenkel Fund", 
   "Date": "c. 1930", 
   "ArtistID": 6028, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "200.1991", 
-  "ArtistBio": "NULL", 
-  "CreditLine": "Lois and Bruce Zenkel Fund", 
+  "ArtistBio": "", 
+  "DateAcquired": "1991-06-20", 
+  "\ufeffTitle": "Coronado Beach, California", 
   "ObjectID": "48361"
 }

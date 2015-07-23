@@ -5,8 +5,7 @@
   "Artist": "Tod Papageorge", 
   "URL": "http://www.moma.org/collection/works/48529", 
   "CuratorApproved": "Y", 
-  "Title": "Hermosa Beach, California", 
-  "DateAcquired": "1979-05-10", 
+  "CreditLine": "Purchase", 
   "Date": "August 1978", 
   "ArtistID": 4490, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "208.1979", 
-  "ArtistBio": "American, born 1940", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, born 1940)", 
+  "DateAcquired": "1979-05-10", 
+  "\ufeffTitle": "Hermosa Beach, California", 
   "ObjectID": "48529"
 }

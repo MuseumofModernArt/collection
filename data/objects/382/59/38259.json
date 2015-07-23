@@ -1,12 +1,11 @@
 {
   "Medium": "Gouache, charcoal, and ink on paper", 
-  "Dimensions": "20 3/4 x 27 3/4\" (52.7 x 70.5 cm)  ", 
+  "Dimensions": "20 3/4 x 27 3/4\" (52.7 x 70.5 cm)\r\n", 
   "Classification": "Drawing", 
   "Artist": "Aleksandr Vesnin", 
   "URL": "http://www.moma.org/collection/works/38259", 
   "CuratorApproved": "Y", 
-  "Title": "Proposal for a Monument to the Third International", 
-  "DateAcquired": "1979-05-07", 
+  "CreditLine": "Acquired through the Mrs. Harry Lynde Bradley and the Katherine S. Dreier Bequests", 
   "Date": "1921", 
   "ArtistID": 6139, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "917.1979", 
-  "ArtistBio": "Russian, 1883\u20131959", 
-  "CreditLine": "Acquired through the Mrs. Harry Lynde Bradley and the Katherine S. Dreier Bequests", 
+  "ArtistBio": "(Russian, 1883\u20131959)", 
+  "DateAcquired": "1979-05-07", 
+  "\ufeffTitle": "Proposal for a Monument to the Third International", 
   "ObjectID": "38259"
 }

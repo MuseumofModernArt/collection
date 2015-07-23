@@ -5,8 +5,7 @@
   "Artist": "Henri Matisse", 
   "URL": "http://www.moma.org/collection/works/60656", 
   "CuratorApproved": "Y", 
-  "Title": "Black Eyes (Les yeux noirs)", 
-  "DateAcquired": "NULL", 
+  "CreditLine": "Gift of Mrs. Saidie A. May", 
   "Date": "(1913)", 
   "ArtistID": 3832, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "39.1932", 
-  "ArtistBio": "French, 1869\u20131954", 
-  "CreditLine": "Gift of Mrs. Saidie A. May", 
+  "ArtistBio": "(French, 1869\u20131954)", 
+  "DateAcquired": "", 
+  "\ufeffTitle": "Black Eyes (Les yeux noirs)", 
   "ObjectID": "60656"
 }

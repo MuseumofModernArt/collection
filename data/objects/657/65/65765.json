@@ -1,12 +1,11 @@
 {
   "Medium": "Lithograph", 
-  "Dimensions": "composition and sheet: 12 5/16 x 9 5/8\" (31.3 x 24.4 cm)  ", 
+  "Dimensions": "composition and sheet: 12 5/16 x 9 5/8\" (31.3 x 24.4 cm)\r\n", 
   "Classification": "Print", 
   "Artist": "Marino Marini", 
   "URL": "http://www.moma.org/collection/works/65765", 
   "CuratorApproved": "Y", 
-  "Title": "Horses and Standing Rider", 
-  "DateAcquired": "1952-11-07", 
+  "CreditLine": "Gift of Mrs. Bertha M. Slattery", 
   "Date": "(1951)", 
   "ArtistID": 3772, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "274.1952", 
-  "ArtistBio": "Italian, 1901\u20131980", 
-  "CreditLine": "Gift of Mrs. Bertha M. Slattery", 
+  "ArtistBio": "(Italian, 1901\u20131980)", 
+  "DateAcquired": "1952-11-07", 
+  "\ufeffTitle": "Horses and Standing Rider", 
   "ObjectID": "65765"
 }

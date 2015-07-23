@@ -5,8 +5,7 @@
   "Artist": "Tadanori Yokoo", 
   "URL": "http://www.moma.org/collection/works/7445", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled(graphic image)", 
-  "DateAcquired": "1983-05-17", 
+  "CreditLine": "Gift of National Museum of Modern Art, Kyoto", 
   "Date": "1974", 
   "ArtistID": 6502, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "535.1983", 
-  "ArtistBio": "Japanese, born 1936", 
-  "CreditLine": "Gift of National Museum of Modern Art, Kyoto", 
+  "ArtistBio": "(Japanese, born 1936)", 
+  "DateAcquired": "1983-05-17", 
+  "\ufeffTitle": "Untitled(graphic image)", 
   "ObjectID": "7445"
 }

@@ -1,12 +1,11 @@
 {
-  "Medium": ".a: graphite, ink and color ink on paper  .b: graphite, charcoal and color ink on paper  .c: graphite, ink and color ink, and crayon on paper  .d: graphite, ink and color ink on paper  .e: graphtie, ink and color ink on paper  .f: graphite, ink and color ink on paper  .g: graphite, ink and color ink, and crayon on paper  .h: crayon, graphite, and color ink on paper   .i: graphite, crayon, ink and color ink on paper", 
+  "Medium": ".a: graphite, ink and color ink on paper\r\n.b: graphite, charcoal and color ink on paper\r\n.c: graphite, ink and color ink, and crayon on paper\r\n.d: graphite, ink and color ink on paper\r\n.e: graphtie, ink and color ink on paper\r\n.f: graphite, ink and color ink on paper\r\n.g: graphite, ink and color ink, and crayon on paper\r\n.h: crayon, graphite, and color ink on paper \r\n.i: graphite, crayon, ink and color ink on paper", 
   "Dimensions": "Each: 13 x 5\" (33 x 12.7 cm)", 
   "Classification": "A&D Architectural Drawing", 
   "Artist": "Cedric Price", 
   "URL": "http://www.moma.org/collection/works/889", 
   "CuratorApproved": "Y", 
-  "Title": "Generator Project, White Oak, Florida  Trees natural and man-made; site totems", 
-  "DateAcquired": "NULL", 
+  "CreditLine": "Gift of The Howard Gilman Foundation", 
   "Date": "1978-80", 
   "ArtistID": 7986, 
   "Keywords": [
@@ -20,7 +19,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "1273.2000.a-i", 
-  "ArtistBio": "British, 1934\u20132003", 
-  "CreditLine": "Gift of The Howard Gilman Foundation", 
+  "ArtistBio": "(British, 1934\u20132003)", 
+  "DateAcquired": "", 
+  "\ufeffTitle": "Generator Project, White Oak, Florida, Trees natural and man-made; site totems", 
   "ObjectID": "889"
 }

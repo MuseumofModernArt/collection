@@ -5,9 +5,8 @@
   "Artist": "Marcel Gromaire", 
   "URL": "http://www.moma.org/collection/works/66801", 
   "CuratorApproved": "Y", 
-  "Title": "Cow Boy de Cin\u00e9ma", 
-  "DateAcquired": "1940-04-05", 
-  "Date": "NULL", 
+  "CreditLine": "Gift of Abby Aldrich Rockefeller", 
+  "Date": "", 
   "ArtistID": 2356, 
   "Keywords": [
     "online art collection", 
@@ -16,7 +15,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "317.1940", 
-  "ArtistBio": "French, 1892\u20131971", 
-  "CreditLine": "Gift of Abby Aldrich Rockefeller", 
+  "ArtistBio": "(French, 1892\u20131971)", 
+  "DateAcquired": "1940-04-05", 
+  "\ufeffTitle": "Cow Boy de Cin\u00e9ma", 
   "ObjectID": "66801"
 }

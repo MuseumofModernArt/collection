@@ -5,8 +5,7 @@
   "Artist": "Minor White", 
   "URL": "http://www.moma.org/collection/works/47096", 
   "CuratorApproved": "Y", 
-  "Title": "Black Sun", 
-  "DateAcquired": "1967-03-07", 
+  "CreditLine": "Gift of Shirley Burden", 
   "Date": "1955", 
   "ArtistID": 6342, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "163.1967", 
-  "ArtistBio": "American, 1908\u20131976", 
-  "CreditLine": "Gift of Shirley Burden", 
+  "ArtistBio": "(American, 1908\u20131976)", 
+  "DateAcquired": "1967-03-07", 
+  "\ufeffTitle": "Black Sun", 
   "ObjectID": "47096"
 }

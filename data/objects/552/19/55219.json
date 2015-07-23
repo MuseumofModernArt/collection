@@ -5,8 +5,7 @@
   "Artist": "Judy Dater", 
   "URL": "http://www.moma.org/collection/works/55219", 
   "CuratorApproved": "Y", 
-  "Title": "Joyce Goldstein in Her Kitchen", 
-  "DateAcquired": "1971-11-10", 
+  "CreditLine": "Purchase", 
   "Date": "1969", 
   "ArtistID": 1392, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "568.1971", 
-  "ArtistBio": "American, born 1941", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, born 1941)", 
+  "DateAcquired": "1971-11-10", 
+  "\ufeffTitle": "Joyce Goldstein in Her Kitchen", 
   "ObjectID": "55219"
 }

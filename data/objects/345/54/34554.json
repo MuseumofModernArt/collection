@@ -5,8 +5,7 @@
   "Artist": "Ludwig Meidner", 
   "URL": "http://www.moma.org/collection/works/34554", 
   "CuratorApproved": "Y", 
-  "Title": "O Moon Above So Clear!", 
-  "DateAcquired": "1978-04-04", 
+  "CreditLine": "The Joan and Lester Avnet Collection", 
   "Date": "1912", 
   "ArtistID": 3909, 
   "Keywords": [
@@ -16,7 +15,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "132.1978", 
-  "ArtistBio": "German, 1884\u20131966", 
-  "CreditLine": "The Joan and Lester Avnet Collection", 
+  "ArtistBio": "(German, 1884\u20131966)", 
+  "DateAcquired": "1978-04-04", 
+  "\ufeffTitle": "O Moon Above So Clear!", 
   "ObjectID": "34554"
 }

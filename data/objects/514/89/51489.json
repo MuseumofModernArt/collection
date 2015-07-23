@@ -5,8 +5,7 @@
   "Artist": "Charles Marville", 
   "URL": "http://www.moma.org/collection/works/51489", 
   "CuratorApproved": "Y", 
-  "Title": "Rue du Cygne, Rue Mondatour", 
-  "DateAcquired": "1994-06-09", 
+  "CreditLine": "Horace W. Goldsmith Fund through Robert B. Menschel", 
   "Date": "c. 1865", 
   "ArtistID": 3810, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "350.1994", 
-  "ArtistBio": "French, 1816\u20131879", 
-  "CreditLine": "Horace W. Goldsmith Fund through Robert B. Menschel", 
+  "ArtistBio": "(French, 1816\u20131879)", 
+  "DateAcquired": "1994-06-09", 
+  "\ufeffTitle": "Rue du Cygne, Rue Mondatour", 
   "ObjectID": "51489"
 }

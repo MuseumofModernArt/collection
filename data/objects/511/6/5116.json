@@ -5,8 +5,7 @@
   "Artist": "Wim Brusse", 
   "URL": "http://www.moma.org/collection/works/5116", 
   "CuratorApproved": "Y", 
-  "Title": "Helpt China's Kinderen", 
-  "DateAcquired": "1944-05-02", 
+  "CreditLine": "Given Anonymously", 
   "Date": "Unknown", 
   "ArtistID": 835, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "113.1944", 
-  "ArtistBio": "Dutch, 1910\u20131978", 
-  "CreditLine": "Given Anonymously", 
+  "ArtistBio": "(Dutch, 1910\u20131978)", 
+  "DateAcquired": "1944-05-02", 
+  "\ufeffTitle": "Helpt China's Kinderen", 
   "ObjectID": "5116"
 }

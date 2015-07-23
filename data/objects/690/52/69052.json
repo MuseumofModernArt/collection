@@ -5,8 +5,7 @@
   "Artist": "Gotthard Graubner", 
   "URL": "http://www.moma.org/collection/works/69052", 
   "CuratorApproved": "Y", 
-  "Title": "6 Aquatints", 
-  "DateAcquired": "1980-04-23", 
+  "CreditLine": "Purchase", 
   "Date": "1976", 
   "ArtistID": 2303, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "433.1980.1-6", 
-  "ArtistBio": "German, born 1930", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(German, born 1930)", 
+  "DateAcquired": "1980-04-23", 
+  "\ufeffTitle": "6 Aquatints", 
   "ObjectID": "69052"
 }

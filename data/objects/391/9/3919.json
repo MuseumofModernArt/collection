@@ -5,8 +5,7 @@
   "Artist": "Marko Turk", 
   "URL": "http://www.moma.org/collection/works/3919", 
   "CuratorApproved": "Y", 
-  "Title": "Microphone (model MD8-C)", 
-  "DateAcquired": "1964-05-12", 
+  "CreditLine": "Gift of the designer", 
   "Date": "1962", 
   "ArtistID": 5974, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "466.1964", 
-  "ArtistBio": "Slovenian (former Yugoslavia), 1920\u20131999", 
-  "CreditLine": "Gift of the designer", 
+  "ArtistBio": "(Slovenian (former Yugoslavia), 1920\u20131999)", 
+  "DateAcquired": "1964-05-12", 
+  "\ufeffTitle": "Microphone (model MD8-C)", 
   "ObjectID": "3919"
 }

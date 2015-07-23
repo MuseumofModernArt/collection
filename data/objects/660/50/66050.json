@@ -5,8 +5,7 @@
   "Artist": "Richard Smith", 
   "URL": "http://www.moma.org/collection/works/66050", 
   "CuratorApproved": "Y", 
-  "Title": "Diary", 
-  "DateAcquired": "1975-10-07", 
+  "CreditLine": "Junior Council Fund", 
   "Date": "1975", 
   "ArtistID": 5493, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "286.1975.a-h", 
-  "ArtistBio": "British, born 1931", 
-  "CreditLine": "Junior Council Fund", 
+  "ArtistBio": "(British, born 1931)", 
+  "DateAcquired": "1975-10-07", 
+  "\ufeffTitle": "Diary", 
   "ObjectID": "66050"
 }

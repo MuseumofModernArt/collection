@@ -5,8 +5,7 @@
   "Artist": "Unknown photographer", 
   "URL": "http://www.moma.org/collection/works/45941", 
   "CuratorApproved": "Y", 
-  "Title": "Paris", 
-  "DateAcquired": "1995-03-09", 
+  "CreditLine": "Acquired through the generosity of Pierre N. Leval", 
   "Date": "c. 1910", 
   "ArtistID": 7022, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "85.1995", 
-  "ArtistBio": "NULL", 
-  "CreditLine": "Acquired through the generosity of Pierre N. Leval", 
+  "ArtistBio": "", 
+  "DateAcquired": "1995-03-09", 
+  "\ufeffTitle": "Paris", 
   "ObjectID": "45941"
 }

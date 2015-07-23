@@ -5,8 +5,7 @@
   "Artist": "Manuel \u00c1lvarez Bravo", 
   "URL": "http://www.moma.org/collection/works/50029", 
   "CuratorApproved": "Y", 
-  "Title": "Recent Grave", 
-  "DateAcquired": "1993-10-14", 
+  "CreditLine": "Richard E. and Christie Calder Salomon Fund and Purchase", 
   "Date": "1933", 
   "ArtistID": 135, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "289.1993", 
-  "ArtistBio": "Mexican, 1902\u20132002", 
-  "CreditLine": "Richard E. and Christie Calder Salomon Fund and Purchase", 
+  "ArtistBio": "(Mexican, 1902\u20132002)", 
+  "DateAcquired": "1993-10-14", 
+  "\ufeffTitle": "Recent Grave", 
   "ObjectID": "50029"
 }

@@ -5,8 +5,7 @@
   "Artist": "Harry Callahan", 
   "URL": "http://www.moma.org/collection/works/54531", 
   "CuratorApproved": "Y", 
-  "Title": "Highland Park, Michigan", 
-  "DateAcquired": "1999-12-09", 
+  "CreditLine": "Gift of Robert and Joyce Menschel", 
   "Date": "1941", 
   "ArtistID": 924, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "508.1999.a-c", 
-  "ArtistBio": "American, 1912\u20131999", 
-  "CreditLine": "Gift of Robert and Joyce Menschel", 
+  "ArtistBio": "(American, 1912\u20131999)", 
+  "DateAcquired": "1999-12-09", 
+  "\ufeffTitle": "Highland Park, Michigan", 
   "ObjectID": "54531"
 }

@@ -5,8 +5,7 @@
   "Artist": "August Sander", 
   "URL": "http://www.moma.org/collection/works/58217", 
   "CuratorApproved": "Y", 
-  "Title": "Member of Parliament, Democrat", 
-  "DateAcquired": "1968-11-06", 
+  "CreditLine": "Gift of the photographer", 
   "Date": "1927", 
   "ArtistID": 5145, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "1494.1968", 
-  "ArtistBio": "German, 1876\u20131964", 
-  "CreditLine": "Gift of the photographer", 
+  "ArtistBio": "(German, 1876\u20131964)", 
+  "DateAcquired": "1968-11-06", 
+  "\ufeffTitle": "Member of Parliament, Democrat", 
   "ObjectID": "58217"
 }

@@ -1,12 +1,11 @@
 {
   "Medium": "Lithograph and screenprint", 
-  "Dimensions": "irreg. composition  34 x 46 5/8\" (86.4 x 118.5 cm)  sheet  28 1/8 x 48 3/4\" (71 x 123.9 cm)", 
+  "Dimensions": "irreg. composition  34 x 46 5/8\" (86.4 x 118.5 cm)\r\nsheet  28 1/8 x 48 3/4\" (71 x 123.9 cm)", 
   "Classification": "Print", 
   "Artist": "Bruce Nauman", 
   "URL": "http://www.moma.org/collection/works/68362", 
   "CuratorApproved": "Y", 
-  "Title": "Clear Vision", 
-  "DateAcquired": "1987-10-20", 
+  "CreditLine": "President's Fund Purchase, 1987, Donald B. Marron, President", 
   "Date": "1973", 
   "ArtistID": 4243, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "393.1987", 
-  "ArtistBio": "American, born 1941", 
-  "CreditLine": "President's Fund Purchase, 1987, Donald B. Marron, President", 
+  "ArtistBio": "(American, born 1941)", 
+  "DateAcquired": "1987-10-20", 
+  "\ufeffTitle": "Clear Vision", 
   "ObjectID": "68362"
 }

@@ -5,8 +5,7 @@
   "Artist": "Lasar Segall", 
   "URL": "http://www.moma.org/collection/works/19515", 
   "CuratorApproved": "Y", 
-  "Title": "Women of the Mangue from the portfolio Mangue", 
-  "DateAcquired": "1949-09-29", 
+  "CreditLine": "Purchase", 
   "Date": "1941 (published 1943)", 
   "ArtistID": 5317, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "607.1949.4", 
-  "ArtistBio": "Brazilian, born Russia, 1891\u20131957", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(Brazilian, born Russia, 1891\u20131957)", 
+  "DateAcquired": "1949-09-29", 
+  "\ufeffTitle": "Women of the Mangue (Mulheres do Mangue) from the portfolio Mangue", 
   "ObjectID": "19515"
 }

@@ -5,8 +5,7 @@
   "Artist": "Ernst Barlach", 
   "URL": "http://www.moma.org/collection/works/32975", 
   "CuratorApproved": "Y", 
-  "Title": "The Hornblower", 
-  "DateAcquired": "1939-01-06", 
+  "CreditLine": "Gift of Erich Cohn", 
   "Date": "1927", 
   "ArtistID": 335, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "2.1939", 
-  "ArtistBio": "German, 1870\u20131938", 
-  "CreditLine": "Gift of Erich Cohn", 
+  "ArtistBio": "(German, 1870\u20131938)", 
+  "DateAcquired": "1939-01-06", 
+  "\ufeffTitle": "The Hornblower (Der Hornbl\u00e4ser)", 
   "ObjectID": "32975"
 }

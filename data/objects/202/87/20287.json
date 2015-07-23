@@ -5,8 +5,7 @@
   "Artist": "Max Beckmann", 
   "URL": "http://www.moma.org/collection/works/20287", 
   "CuratorApproved": "Y", 
-  "Title": "Drinking Song (plate 1) from Stadtnacht (City Night)", 
-  "DateAcquired": "1964-10-06", 
+  "CreditLine": "The Louis E. Stern Collection", 
   "Date": "1921", 
   "ArtistID": 429, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "674.1964.2", 
-  "ArtistBio": "German, 1884\u20131950", 
-  "CreditLine": "The Louis E. Stern Collection", 
+  "ArtistBio": "(German, 1884\u20131950)", 
+  "DateAcquired": "1964-10-06", 
+  "\ufeffTitle": "Drinking Song (Trinklied) (plate 1) from Stadtnacht (City Night)", 
   "ObjectID": "20287"
 }

@@ -5,8 +5,7 @@
   "Artist": "Almir Mavignier", 
   "URL": "http://www.moma.org/collection/works/6389", 
   "CuratorApproved": "Y", 
-  "Title": "Getulio, Kleine Galerie", 
-  "DateAcquired": "1967-04-11", 
+  "CreditLine": "Gift of the artist", 
   "Date": "1962", 
   "ArtistID": 3858, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "342.1967", 
-  "ArtistBio": "Brazilian, born 1925", 
-  "CreditLine": "Gift of the artist", 
+  "ArtistBio": "(Brazilian, born 1925)", 
+  "DateAcquired": "1967-04-11", 
+  "\ufeffTitle": "Getulio, Kleine Galerie", 
   "ObjectID": "6389"
 }

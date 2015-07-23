@@ -5,8 +5,7 @@
   "Artist": "Jim Dine", 
   "URL": "http://www.moma.org/collection/works/7282", 
   "CuratorApproved": "Y", 
-  "Title": "City Center, Gilbert & Sullivan", 
-  "DateAcquired": "1978-09-27", 
+  "CreditLine": "Gift of the artist", 
   "Date": "1968", 
   "ArtistID": 1547, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "500.1978", 
-  "ArtistBio": "American, born 1935", 
-  "CreditLine": "Gift of the artist", 
+  "ArtistBio": "(American, born 1935)", 
+  "DateAcquired": "1978-09-27", 
+  "\ufeffTitle": "City Center, Gilbert & Sullivan", 
   "ObjectID": "7282"
 }

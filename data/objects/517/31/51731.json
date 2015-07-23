@@ -5,8 +5,7 @@
   "Artist": "John G. Bullock", 
   "URL": "http://www.moma.org/collection/works/51731", 
   "CuratorApproved": "Y", 
-  "Title": "John Fishing on Bank of Stream", 
-  "DateAcquired": "1972-11-21", 
+  "CreditLine": "Gift of the John Emlen Bullock Estate", 
   "Date": "1897", 
   "ArtistID": 860, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "360.1972", 
-  "ArtistBio": "American, 1854\u20131939", 
-  "CreditLine": "Gift of the John Emlen Bullock Estate", 
+  "ArtistBio": "(American, 1854\u20131939)", 
+  "DateAcquired": "1972-11-21", 
+  "\ufeffTitle": "John Fishing on Bank of Stream", 
   "ObjectID": "51731"
 }

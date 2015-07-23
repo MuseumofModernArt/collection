@@ -5,8 +5,7 @@
   "Artist": "Rudolf Grossmann", 
   "URL": "http://www.moma.org/collection/works/9041", 
   "CuratorApproved": "Y", 
-  "Title": "The Boxers (plate 7) from the illustrated book Deutsche Graphiker der Gegenwart (German Printmakers of Our Time)", 
-  "DateAcquired": "NULL", 
+  "CreditLine": "Purchase", 
   "Date": "1920", 
   "ArtistID": 2372, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "2.1942.5", 
-  "ArtistBio": "German, 1882\u20131941", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(German, 1882\u20131941)", 
+  "DateAcquired": "", 
+  "\ufeffTitle": "The Boxers (Die Boxer) (plate 7) from the illustrated book Deutsche Graphiker der Gegenwart (German Printmakers of Our Time)", 
   "ObjectID": "9041"
 }

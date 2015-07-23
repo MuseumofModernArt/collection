@@ -5,8 +5,7 @@
   "Artist": "Lyonel Feininger", 
   "URL": "http://www.moma.org/collection/works/37203", 
   "CuratorApproved": "Y", 
-  "Title": "Dawn", 
-  "DateAcquired": "1941-06-10", 
+  "CreditLine": "Purchase", 
   "Date": "1938", 
   "ArtistID": 1832, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "501.1941", 
-  "ArtistBio": "American, 1871\u20131956", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, 1871\u20131956)", 
+  "DateAcquired": "1941-06-10", 
+  "\ufeffTitle": "Dawn", 
   "ObjectID": "37203"
 }

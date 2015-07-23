@@ -5,8 +5,7 @@
   "Artist": "Berenice Abbott", 
   "URL": "http://www.moma.org/collection/works/45046", 
   "CuratorApproved": "Y", 
-  "Title": "Jacob Heymann Butcher Shop, New York City", 
-  "DateAcquired": "1988-03-10", 
+  "CreditLine": "Gift of Ronald A. Kurtz", 
   "Date": "1938", 
   "ArtistID": 41, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "53.1988", 
-  "ArtistBio": "American, 1898\u20131991", 
-  "CreditLine": "Gift of Ronald A. Kurtz", 
+  "ArtistBio": "(American, 1898\u20131991)", 
+  "DateAcquired": "1988-03-10", 
+  "\ufeffTitle": "Jacob Heymann Butcher Shop, New York City", 
   "ObjectID": "45046"
 }

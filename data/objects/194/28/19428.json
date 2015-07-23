@@ -1,12 +1,11 @@
 {
   "Medium": "Etching", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Illustrated Book", 
   "Artist": "Henry Moore", 
   "URL": "http://www.moma.org/collection/works/19428", 
   "CuratorApproved": "Y", 
-  "Title": "Elephant Skull, plate XVI from Elephant Skull", 
-  "DateAcquired": "1994-11-08", 
+  "CreditLine": "Nina and Gordon Bunshaft Bequest", 
   "Date": "1970", 
   "ArtistID": 4071, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "597.1994", 
-  "ArtistBio": "British, 1898\u20131986", 
-  "CreditLine": "Nina and Gordon Bunshaft Bequest", 
+  "ArtistBio": "(British, 1898\u20131986)", 
+  "DateAcquired": "1994-11-08", 
+  "\ufeffTitle": "Elephant Skull, plate XVI from Elephant Skull", 
   "ObjectID": "19428"
 }

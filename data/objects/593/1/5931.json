@@ -5,8 +5,7 @@
   "Artist": "Jan Sawka", 
   "URL": "http://www.moma.org/collection/works/5931", 
   "CuratorApproved": "Y", 
-  "Title": "Laureaci VII Miedzynarodowego Biennale Plakatu", 
-  "DateAcquired": "1998-04-22", 
+  "CreditLine": "Gift of Susan Hornik", 
   "Date": "1979", 
   "ArtistID": 5189, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "264.1998", 
-  "ArtistBio": "Polish, 1946\u20132012", 
-  "CreditLine": "Gift of Susan Hornik", 
+  "ArtistBio": "(Polish, 1946\u20132012)", 
+  "DateAcquired": "1998-04-22", 
+  "\ufeffTitle": "Laureaci VII Miedzynarodowego Biennale Plakatu", 
   "ObjectID": "5931"
 }

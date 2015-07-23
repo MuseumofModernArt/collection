@@ -5,8 +5,7 @@
   "Artist": "Andy Warhol", 
   "URL": "http://www.moma.org/collection/works/5849", 
   "CuratorApproved": "Y", 
-  "Title": "Bank by Andy Warhol. Gaudy Savings by RCA Color Scanner. Pretty as a Pigture, Huh?", 
-  "DateAcquired": "1987-05-27", 
+  "CreditLine": "Poster Fund", 
   "Date": "1968", 
   "ArtistID": 6246, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "250.1987", 
-  "ArtistBio": "American, 1928\u20131987", 
-  "CreditLine": "Poster Fund", 
+  "ArtistBio": "(American, 1928\u20131987)", 
+  "DateAcquired": "1987-05-27", 
+  "\ufeffTitle": "Bank by Andy Warhol. Gaudy Savings by RCA Color Scanner. Pretty as a Pigture, Huh?", 
   "ObjectID": "5849"
 }

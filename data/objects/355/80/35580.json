@@ -5,8 +5,7 @@
   "Artist": "Jake Berthot", 
   "URL": "http://www.moma.org/collection/works/35580", 
   "CuratorApproved": "Y", 
-  "Title": "For Adorno #4", 
-  "DateAcquired": "1990-05-08", 
+  "CreditLine": "Purchase", 
   "Date": "(1989)", 
   "ArtistID": 529, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "248.1990.4", 
-  "ArtistBio": "American, born 1939", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, born 1939)", 
+  "DateAcquired": "1990-05-08", 
+  "\ufeffTitle": "For Adorno #4", 
   "ObjectID": "35580"
 }

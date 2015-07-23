@@ -5,8 +5,7 @@
   "Artist": "Roman Cieslewicz", 
   "URL": "http://www.moma.org/collection/works/7198", 
   "CuratorApproved": "Y", 
-  "Title": "Kafka Proces (Kafka's Trial)", 
-  "DateAcquired": "1970-11-05", 
+  "CreditLine": "Gift of the designer", 
   "Date": "1964", 
   "ArtistID": 1125, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "484.1970", 
-  "ArtistBio": "French, born Poland. 1930\u20131996", 
-  "CreditLine": "Gift of the designer", 
+  "ArtistBio": "(French, born Poland. 1930\u20131996)", 
+  "DateAcquired": "1970-11-05", 
+  "\ufeffTitle": "Kafka Proces (Kafka's Trial) (Poster for a Warsaw dramatization based on Franz Kafka's novel)", 
   "ObjectID": "7198"
 }

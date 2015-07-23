@@ -5,8 +5,7 @@
   "Artist": "Willi Baumeister", 
   "URL": "http://www.moma.org/collection/works/7349", 
   "CuratorApproved": "Y", 
-  "Title": "Werkbundausstellung die Wohnung", 
-  "DateAcquired": "1999-12-10", 
+  "CreditLine": "Jan Tschichold Collection, Gift of Philip Johnson", 
   "Date": "before 1927", 
   "ArtistID": 392, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "515.1999", 
-  "ArtistBio": "German, 1889\u20131955", 
-  "CreditLine": "Jan Tschichold Collection, Gift of Philip Johnson", 
+  "ArtistBio": "(German, 1889\u20131955)", 
+  "DateAcquired": "1999-12-10", 
+  "\ufeffTitle": "Werkbundausstellung die Wohnung", 
   "ObjectID": "7349"
 }

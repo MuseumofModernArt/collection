@@ -5,8 +5,7 @@
   "Artist": "Max Beckmann", 
   "URL": "http://www.moma.org/collection/works/66393", 
   "CuratorApproved": "Y", 
-  "Title": "Playing Children, Broad Format from Faces", 
-  "DateAcquired": "1951-05-24", 
+  "CreditLine": "Purchase", 
   "Date": "(1918, published 1919)", 
   "ArtistID": 429, 
   "Keywords": [
@@ -20,7 +19,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "299.1951", 
-  "ArtistBio": "German, 1884\u20131950", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(German, 1884\u20131950)", 
+  "DateAcquired": "1951-05-24", 
+  "\ufeffTitle": "Playing Children, Broad Format (Spielende Kinder, Breitformat) from Faces (Gesichter)", 
   "ObjectID": "66393"
 }

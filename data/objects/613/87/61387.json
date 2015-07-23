@@ -5,8 +5,7 @@
   "Artist": "Philip Pearlstein", 
   "URL": "http://www.moma.org/collection/works/61387", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1968-02-05", 
+  "CreditLine": "Gift of Miss Doris Meltzer", 
   "Date": "1967", 
   "ArtistID": 4529, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "62.1968", 
-  "ArtistBio": "American, born 1924", 
-  "CreditLine": "Gift of Miss Doris Meltzer", 
+  "ArtistBio": "(American, born 1924)", 
+  "DateAcquired": "1968-02-05", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "61387"
 }

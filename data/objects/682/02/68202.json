@@ -1,12 +1,11 @@
 {
   "Medium": "Lithograph", 
-  "Dimensions": "composition  26 7/16 x 29\" (67.1 x 73.7 cm)  sheet  26 7/16 x 29\" (67 x 73.7 cm)", 
+  "Dimensions": "composition  26 7/16 x 29\" (67.1 x 73.7 cm)\r\nsheet  26 7/16 x 29\" (67 x 73.7 cm)", 
   "Classification": "Print", 
   "Artist": "Roy Lichtenstein", 
   "URL": "http://www.moma.org/collection/works/68202", 
   "CuratorApproved": "Y", 
-  "Title": "A Bright Night from the Surrealist Series", 
-  "DateAcquired": "1987-10-20", 
+  "CreditLine": "John B. Turner Fund", 
   "Date": "1978", 
   "ArtistID": 3542, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "384.1987", 
-  "ArtistBio": "American, 1923\u20131997", 
-  "CreditLine": "John B. Turner Fund", 
+  "ArtistBio": "(American, 1923\u20131997)", 
+  "DateAcquired": "1987-10-20", 
+  "\ufeffTitle": "A Bright Night from the Surrealist Series", 
   "ObjectID": "68202"
 }

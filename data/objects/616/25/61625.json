@@ -5,8 +5,7 @@
   "Artist": "Will Barnet", 
   "URL": "http://www.moma.org/collection/works/61625", 
   "CuratorApproved": "Y", 
-  "Title": "Enfant", 
-  "DateAcquired": "1952-05-20", 
+  "CreditLine": "Purchase", 
   "Date": "1951", 
   "ArtistID": 342, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "87.1952", 
-  "ArtistBio": "American, 1911\u20132012", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, 1911\u20132012)", 
+  "DateAcquired": "1952-05-20", 
+  "\ufeffTitle": "Enfant", 
   "ObjectID": "61625"
 }

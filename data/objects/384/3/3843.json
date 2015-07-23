@@ -5,8 +5,7 @@
   "Artist": "Robert Oberheim", 
   "URL": "http://www.moma.org/collection/works/3843", 
   "CuratorApproved": "Y", 
-  "Title": "Nizo 80 Movie Camera", 
-  "DateAcquired": "1970-11-05", 
+  "CreditLine": "Gift of Braun North America", 
   "Date": "1968", 
   "ArtistID": 4365, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "456.1970", 
-  "ArtistBio": "German, born 1938", 
-  "CreditLine": "Gift of Braun North America", 
+  "ArtistBio": "(German, born 1938)", 
+  "DateAcquired": "1970-11-05", 
+  "\ufeffTitle": "Nizo 80 Movie Camera", 
   "ObjectID": "3843"
 }

@@ -5,8 +5,7 @@
   "Artist": "Carol", 
   "URL": "http://www.moma.org/collection/works/7892", 
   "CuratorApproved": "Y", 
-  "Title": "Che, Grupo Teatro Escambray", 
-  "DateAcquired": "1980-10-30", 
+  "CreditLine": "Gift of the International Council and Library - Latin American Archive of the Museum of Modern Art", 
   "Date": "1978", 
   "ArtistID": 983, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "672.1980", 
-  "ArtistBio": "Cuban", 
-  "CreditLine": "Gift of the International Council and Library - Latin American Archive of the Museum of Modern Art", 
+  "ArtistBio": "(Cuban)", 
+  "DateAcquired": "1980-10-30", 
+  "\ufeffTitle": "Che, Grupo Teatro Escambray", 
   "ObjectID": "7892"
 }

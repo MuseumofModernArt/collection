@@ -5,8 +5,7 @@
   "Artist": "Sven Lukin", 
   "URL": "http://www.moma.org/collection/works/6266", 
   "CuratorApproved": "Y", 
-  "Title": "Sven Lukin", 
-  "DateAcquired": "1966-05-10", 
+  "CreditLine": "Gift of the Pace Gallery", 
   "Date": "1966", 
   "ArtistID": 3631, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "325.1966", 
-  "ArtistBio": "American, born Latvia 1934", 
-  "CreditLine": "Gift of the Pace Gallery", 
+  "ArtistBio": "(American, born Latvia 1934)", 
+  "DateAcquired": "1966-05-10", 
+  "\ufeffTitle": "Sven Lukin", 
   "ObjectID": "6266"
 }

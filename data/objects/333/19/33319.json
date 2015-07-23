@@ -5,8 +5,7 @@
   "Artist": "Andrea Cascella", 
   "URL": "http://www.moma.org/collection/works/33319", 
   "CuratorApproved": "Y", 
-  "Title": "Studies for a Sculpture", 
-  "DateAcquired": "1978-04-04", 
+  "CreditLine": "The Joan and Lester Avnet Collection", 
   "Date": "1964", 
   "ArtistID": 1007, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "23.1978", 
-  "ArtistBio": "Italian, 1920\u20131990", 
-  "CreditLine": "The Joan and Lester Avnet Collection", 
+  "ArtistBio": "(Italian, 1920\u20131990)", 
+  "DateAcquired": "1978-04-04", 
+  "\ufeffTitle": "Studies for a Sculpture", 
   "ObjectID": "33319"
 }

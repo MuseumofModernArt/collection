@@ -1,12 +1,11 @@
 {
-  "Medium": ".1: Copper  .2: Chrome-plated metal", 
+  "Medium": ".1: Copper\r\n.2: Chrome-plated metal", 
   "Dimensions": "Each: diam. 18 1/4\" (46.4 cm)", 
   "Classification": "A&D Design", 
   "Artist": "Walter Von Nessen", 
   "URL": "http://www.moma.org/collection/works/3063", 
   "CuratorApproved": "Y", 
-  "Title": "Serving Trays", 
-  "DateAcquired": "1934-04-01", 
+  "CreditLine": "Gift of the manufacturer", 
   "Date": "1928", 
   "ArtistID": 4268, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "251.1934.1-2", 
-  "ArtistBio": "American, 1889\u20131943", 
-  "CreditLine": "Gift of the manufacturer", 
+  "ArtistBio": "(American, 1889\u20131943)", 
+  "DateAcquired": "1934-04-01", 
+  "\ufeffTitle": "Serving Trays", 
   "ObjectID": "3063"
 }

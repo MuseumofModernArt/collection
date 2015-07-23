@@ -5,8 +5,7 @@
   "Artist": "Henri de Toulouse-Lautrec", 
   "URL": "http://www.moma.org/collection/works/63416", 
   "CuratorApproved": "Y", 
-  "Title": "Irish American Bar, Rue Royale", 
-  "DateAcquired": "1946-07-11", 
+  "CreditLine": "Gift of Abby Aldrich Rockefeller", 
   "Date": "1895", 
   "ArtistID": 5910, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "166.1946", 
-  "ArtistBio": "French, 1864\u20131901", 
-  "CreditLine": "Gift of Abby Aldrich Rockefeller", 
+  "ArtistBio": "(French, 1864\u20131901)", 
+  "DateAcquired": "1946-07-11", 
+  "\ufeffTitle": "Irish American Bar, Rue Royale", 
   "ObjectID": "63416"
 }

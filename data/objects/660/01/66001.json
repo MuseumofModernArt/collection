@@ -5,8 +5,7 @@
   "Artist": "Emil Nolde", 
   "URL": "http://www.moma.org/collection/works/66001", 
   "CuratorApproved": "Y", 
-  "Title": "Candle Dancers", 
-  "DateAcquired": "1952-11-07", 
+  "CreditLine": "Larry Aldrich Fund", 
   "Date": "(1917)", 
   "ArtistID": 4327, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "284.1952", 
-  "ArtistBio": "German, 1867\u20131956", 
-  "CreditLine": "Larry Aldrich Fund", 
+  "ArtistBio": "(German, 1867\u20131956)", 
+  "DateAcquired": "1952-11-07", 
+  "\ufeffTitle": "Candle Dancers (Kerzent\u00e4nzerinnen)", 
   "ObjectID": "66001"
 }

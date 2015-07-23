@@ -1,12 +1,11 @@
 {
   "Medium": "Woodcut", 
-  "Dimensions": "irreg. composition  9 13/16 x 8 1/4\" (24.9 x 21 cm)  sheet  11 13/16 x 9 1/16\" (30 x 23 cm)", 
+  "Dimensions": "irreg. composition  9 13/16 x 8 1/4\" (24.9 x 21 cm)\r\nsheet  11 13/16 x 9 1/16\" (30 x 23 cm)", 
   "Classification": "Print", 
   "Artist": "Felix Droese", 
   "URL": "http://www.moma.org/collection/works/67408", 
   "CuratorApproved": "Y", 
-  "Title": "Bell", 
-  "DateAcquired": "1987-10-20", 
+  "CreditLine": "Miles O. Epstein Fund", 
   "Date": "1982", 
   "ArtistID": 1620, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "347.1987", 
-  "ArtistBio": "German, born 1950", 
-  "CreditLine": "Miles O. Epstein Fund", 
+  "ArtistBio": "(German, born 1950)", 
+  "DateAcquired": "1987-10-20", 
+  "\ufeffTitle": "Bell (Glocke)", 
   "ObjectID": "67408"
 }

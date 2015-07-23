@@ -5,8 +5,7 @@
   "Artist": "William Henry Fox Talbot", 
   "URL": "http://www.moma.org/collection/works/45275", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1974-01-29", 
+  "CreditLine": "Gift of the International Museum of Photography at George Eastman House", 
   "Date": "c. 1852", 
   "ArtistID": 5791, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "61.1974", 
-  "ArtistBio": "British, 1800\u20131877", 
-  "CreditLine": "Gift of the International Museum of Photography at George Eastman House", 
+  "ArtistBio": "(British, 1800\u20131877)", 
+  "DateAcquired": "1974-01-29", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "45275"
 }

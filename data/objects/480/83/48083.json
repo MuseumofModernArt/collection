@@ -5,8 +5,7 @@
   "Artist": "Melissa Shook", 
   "URL": "http://www.moma.org/collection/works/48083", 
   "CuratorApproved": "Y", 
-  "Title": "January 2, 1973", 
-  "DateAcquired": "1974-04-02", 
+  "CreditLine": "John Parkinson III Fund", 
   "Date": "1973", 
   "ArtistID": 5407, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "190.1974", 
-  "ArtistBio": "American, born 1939", 
-  "CreditLine": "John Parkinson III Fund", 
+  "ArtistBio": "(American, born 1939)", 
+  "DateAcquired": "1974-04-02", 
+  "\ufeffTitle": "January 2, 1973", 
   "ObjectID": "48083"
 }

@@ -5,8 +5,7 @@
   "Artist": "Boris Bu\u0107an", 
   "URL": "http://www.moma.org/collection/works/6573", 
   "CuratorApproved": "Y", 
-  "Title": "Ilija Smoljenovic", 
-  "DateAcquired": "1982-10-27", 
+  "CreditLine": "Gift of the artist", 
   "Date": "1976", 
   "ArtistID": 840, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "403.1982.a-b", 
-  "ArtistBio": "Croatian, born Yugoslavia, 1947", 
-  "CreditLine": "Gift of the artist", 
+  "ArtistBio": "(Croatian, born Yugoslavia, 1947)", 
+  "DateAcquired": "1982-10-27", 
+  "\ufeffTitle": "Ilija Smoljenovic", 
   "ObjectID": "6573"
 }

@@ -5,8 +5,7 @@
   "Artist": "Walker Evans", 
   "URL": "http://www.moma.org/collection/works/52361", 
   "CuratorApproved": "Y", 
-  "Title": "Robert and Mary Frank", 
-  "DateAcquired": "1980-03-13", 
+  "CreditLine": "Gift of Mr. and Mrs. Richard Benson", 
   "Date": "c. 1958", 
   "ArtistID": 1777, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "389.1980", 
-  "ArtistBio": "American, 1903\u20131975", 
-  "CreditLine": "Gift of Mr. and Mrs. Richard Benson", 
+  "ArtistBio": "(American, 1903\u20131975)", 
+  "DateAcquired": "1980-03-13", 
+  "\ufeffTitle": "Robert and Mary Frank", 
   "ObjectID": "52361"
 }

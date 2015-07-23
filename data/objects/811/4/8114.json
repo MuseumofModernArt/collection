@@ -5,8 +5,7 @@
   "Artist": "Milton Glaser", 
   "URL": "http://www.moma.org/collection/works/8114", 
   "CuratorApproved": "Y", 
-  "Title": "Albert", 
-  "DateAcquired": "1983-11-30", 
+  "CreditLine": "Gift of the designer", 
   "Date": "1976", 
   "ArtistID": 2188, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "775.1983", 
-  "ArtistBio": "American, born 1929", 
-  "CreditLine": "Gift of the designer", 
+  "ArtistBio": "(American, born 1929)", 
+  "DateAcquired": "1983-11-30", 
+  "\ufeffTitle": "Albert", 
   "ObjectID": "8114"
 }

@@ -5,8 +5,7 @@
   "Artist": "Olga Rozanova", 
   "URL": "http://www.moma.org/collection/works/10871", 
   "CuratorApproved": "Y", 
-  "Title": "Zaumnaia gniga", 
-  "DateAcquired": "2001-01-24", 
+  "CreditLine": "Gift of The Judith Rothschild Foundation", 
   "Date": "1915", 
   "ArtistID": 5066, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "65.2001.1-21", 
-  "ArtistBio": "Russian, 1886\u20131918", 
-  "CreditLine": "Gift of The Judith Rothschild Foundation", 
+  "ArtistBio": "(Russian, 1886\u20131918)", 
+  "DateAcquired": "2001-01-24", 
+  "\ufeffTitle": "Zaumnaia gniga", 
   "ObjectID": "10871"
 }

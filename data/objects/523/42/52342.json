@@ -5,8 +5,7 @@
   "Artist": "Daido Moriyama", 
   "URL": "http://www.moma.org/collection/works/52342", 
   "CuratorApproved": "Y", 
-  "Title": "Soldiers, Hamamatsu", 
-  "DateAcquired": "1977-10-13", 
+  "CreditLine": "Gift of the photographer", 
   "Date": "1968", 
   "ArtistID": 4099, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "388.1977", 
-  "ArtistBio": "Japanese, born 1938", 
-  "CreditLine": "Gift of the photographer", 
+  "ArtistBio": "(Japanese, born 1938)", 
+  "DateAcquired": "1977-10-13", 
+  "\ufeffTitle": "Soldiers, Hamamatsu", 
   "ObjectID": "52342"
 }

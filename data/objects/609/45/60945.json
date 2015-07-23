@@ -5,8 +5,7 @@
   "Artist": "Max Beckmann", 
   "URL": "http://www.moma.org/collection/works/60945", 
   "CuratorApproved": "Y", 
-  "Title": "Morgue", 
-  "DateAcquired": "1956-03-19", 
+  "CreditLine": "Gift of Abby Aldrich Rockefeller (by exchange)", 
   "Date": "(1922, published 1924)", 
   "ArtistID": 429, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "51.1956", 
-  "ArtistBio": "German, 1884\u20131950", 
-  "CreditLine": "Gift of Abby Aldrich Rockefeller (by exchange)", 
+  "ArtistBio": "(German, 1884\u20131950)", 
+  "DateAcquired": "1956-03-19", 
+  "\ufeffTitle": "Morgue (Totenhaus)", 
   "ObjectID": "60945"
 }

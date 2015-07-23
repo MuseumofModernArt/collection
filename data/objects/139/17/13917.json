@@ -5,8 +5,7 @@
   "Artist": "El Lissitzky", 
   "URL": "http://www.moma.org/collection/works/13917", 
   "CuratorApproved": "Y", 
-  "Title": "Veshch, no. 1-2", 
-  "DateAcquired": "2001-01-24", 
+  "CreditLine": "Gift of The Judith Rothschild Foundation", 
   "Date": "1922", 
   "ArtistID": 3569, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "219.2001.A", 
-  "ArtistBio": "Russian, 1890\u20131941", 
-  "CreditLine": "Gift of The Judith Rothschild Foundation", 
+  "ArtistBio": "(Russian, 1890\u20131941)", 
+  "DateAcquired": "2001-01-24", 
+  "\ufeffTitle": "Veshch, no. 1-2", 
   "ObjectID": "13917"
 }

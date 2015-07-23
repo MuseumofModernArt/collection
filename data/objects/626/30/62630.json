@@ -5,8 +5,7 @@
   "Artist": "Marcel Duchamp", 
   "URL": "http://www.moma.org/collection/works/62630", 
   "CuratorApproved": "Y", 
-  "Title": "Poster after Self-Portrait in Profile", 
-  "DateAcquired": "1960-05-26", 
+  "CreditLine": "Gift of Lang Charities, Inc.", 
   "Date": "1959", 
   "ArtistID": 1634, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "136.1960", 
-  "ArtistBio": "American, born France. 1887\u20131968", 
-  "CreditLine": "Gift of Lang Charities, Inc.", 
+  "ArtistBio": "(American, born France. 1887\u20131968)", 
+  "DateAcquired": "1960-05-26", 
+  "\ufeffTitle": "Poster after Self-Portrait in Profile", 
   "ObjectID": "62630"
 }

@@ -5,8 +5,7 @@
   "Artist": "Karl Koepping", 
   "URL": "http://www.moma.org/collection/works/4669", 
   "CuratorApproved": "Y", 
-  "Title": "Liqueur Glass", 
-  "DateAcquired": "2001-04-30", 
+  "CreditLine": "Given anonymously", 
   "Date": "c. 1900", 
   "ArtistID": 3186, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "1306.2001", 
-  "ArtistBio": "German, 1848\u20131914", 
-  "CreditLine": "Given anonymously", 
+  "ArtistBio": "(German, 1848\u20131914)", 
+  "DateAcquired": "2001-04-30", 
+  "\ufeffTitle": "Liqueur Glass", 
   "ObjectID": "4669"
 }

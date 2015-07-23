@@ -5,8 +5,7 @@
   "Artist": "Armin Hofmann", 
   "URL": "http://www.moma.org/collection/works/7742", 
   "CuratorApproved": "Y", 
-  "Title": "Kunsthalle Basel, Maurice Esteve, Malerie, Berto Lardera, Skulptur, 10. Juni bis 16. Juli", 
-  "DateAcquired": "1981-12-10", 
+  "CreditLine": "Gift of the artist", 
   "Date": "1961", 
   "ArtistID": 2697, 
   "Keywords": [
@@ -24,7 +23,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "612.1981", 
-  "ArtistBio": "Swiss, born 1920", 
-  "CreditLine": "Gift of the artist", 
+  "ArtistBio": "(Swiss, born 1920)", 
+  "DateAcquired": "1981-12-10", 
+  "\ufeffTitle": "Kunsthalle Basel, Maurice Esteve, Malerie, Berto Lardera, Skulptur, 10. Juni bis 16. Juli", 
   "ObjectID": "7742"
 }

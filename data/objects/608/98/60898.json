@@ -5,8 +5,7 @@
   "Artist": "Ellsworth Kelly", 
   "URL": "http://www.moma.org/collection/works/60898", 
   "CuratorApproved": "Y", 
-  "Title": "Jack Gray", 
-  "DateAcquired": "1999-03-04", 
+  "CreditLine": "Given anonymously", 
   "Date": "1990", 
   "ArtistID": 3048, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "48.1999", 
-  "ArtistBio": "American, born 1923", 
-  "CreditLine": "Given anonymously", 
+  "ArtistBio": "(American, born 1923)", 
+  "DateAcquired": "1999-03-04", 
+  "\ufeffTitle": "Jack Gray", 
   "ObjectID": "60898"
 }

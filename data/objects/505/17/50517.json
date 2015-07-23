@@ -5,8 +5,7 @@
   "Artist": "Jeffrey Scales", 
   "URL": "http://www.moma.org/collection/works/50517", 
   "CuratorApproved": "Y", 
-  "Title": "12:54, A. Philip Randolph Square", 
-  "DateAcquired": "1988-10-13", 
+  "CreditLine": "The Family of Man Fund", 
   "Date": "1987", 
   "ArtistID": 5191, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "312.1988", 
-  "ArtistBio": "American, born 1954", 
-  "CreditLine": "The Family of Man Fund", 
+  "ArtistBio": "(American, born 1954)", 
+  "DateAcquired": "1988-10-13", 
+  "\ufeffTitle": "12:54, A. Philip Randolph Square", 
   "ObjectID": "50517"
 }

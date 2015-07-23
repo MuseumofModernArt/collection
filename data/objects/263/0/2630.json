@@ -5,8 +5,7 @@
   "Artist": "Shiro Kuramata", 
   "URL": "http://www.moma.org/collection/works/2630", 
   "CuratorApproved": "Y", 
-  "Title": "Miss Blanche Chair", 
-  "DateAcquired": "1998-04-22", 
+  "CreditLine": "Gift of Agnes Gund in honor of Patricia Phelps de Cisneros", 
   "Date": "1988", 
   "ArtistID": 7210, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "202.1998", 
-  "ArtistBio": "Japanese, 1934\u20131991", 
-  "CreditLine": "Gift of Agnes Gund in honor of Patricia Phelps de Cisneros", 
+  "ArtistBio": "(Japanese, 1934\u20131991)", 
+  "DateAcquired": "1998-04-22", 
+  "\ufeffTitle": "Miss Blanche Chair", 
   "ObjectID": "2630"
 }

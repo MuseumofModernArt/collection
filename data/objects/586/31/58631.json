@@ -5,8 +5,7 @@
   "Artist": "Meyer Liebowitz/The New York Times", 
   "URL": "http://www.moma.org/collection/works/58631", 
   "CuratorApproved": "Y", 
-  "Title": "Persuading Longshoremen to Return to Work", 
-  "DateAcquired": "2001-06-14", 
+  "CreditLine": "The New York Times Collection", 
   "Date": "1951", 
   "ArtistID": 8573, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "2038.2001", 
-  "ArtistBio": "American, 1906\u20131976", 
-  "CreditLine": "The New York Times Collection", 
+  "ArtistBio": "(American, 1906\u20131976)", 
+  "DateAcquired": "2001-06-14", 
+  "\ufeffTitle": "Persuading Longshoremen to Return to Work", 
   "ObjectID": "58631"
 }

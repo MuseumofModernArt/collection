@@ -5,8 +5,7 @@
   "Artist": "E. McKnight Kauffer", 
   "URL": "http://www.moma.org/collection/works/6740", 
   "CuratorApproved": "Y", 
-  "Title": "Winter Sale at Derry & Toms", 
-  "DateAcquired": "1939-05-22", 
+  "CreditLine": "Gift of the artist", 
   "Date": "1919", 
   "ArtistID": 3020, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "372.1939", 
-  "ArtistBio": "American, 1890\u20131954", 
-  "CreditLine": "Gift of the artist", 
+  "ArtistBio": "(American, 1890\u20131954)", 
+  "DateAcquired": "1939-05-22", 
+  "\ufeffTitle": "Winter Sale at Derry & Toms", 
   "ObjectID": "6740"
 }

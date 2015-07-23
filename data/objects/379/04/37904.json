@@ -5,8 +5,7 @@
   "Artist": "Chuck Close", 
   "URL": "http://www.moma.org/collection/works/37904", 
   "CuratorApproved": "Y", 
-  "Title": "Study for Self-Portrait", 
-  "DateAcquired": "1978-10-27", 
+  "CreditLine": "Gift of Norman Dubrow", 
   "Date": "1968", 
   "ArtistID": 1156, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "732.1978", 
-  "ArtistBio": "American, born 1940", 
-  "CreditLine": "Gift of Norman Dubrow", 
+  "ArtistBio": "(American, born 1940)", 
+  "DateAcquired": "1978-10-27", 
+  "\ufeffTitle": "Study for Self-Portrait", 
   "ObjectID": "37904"
 }

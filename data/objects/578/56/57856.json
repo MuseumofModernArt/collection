@@ -4,9 +4,8 @@
   "Classification": "Photograph", 
   "Artist": "Harry Callahan", 
   "URL": "", 
-  "CuratorApproved": "Y", 
-  "Title": "Eleanor, Chicago", 
-  "DateAcquired": "1969-11-05", 
+  "CuratorApproved": "N", 
+  "CreditLine": "Anonymous purchase in memory of Flobelle Fairbanks Burden", 
   "Date": "1949", 
   "ArtistID": 924, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "1196.1969", 
-  "ArtistBio": "American, 1912\u20131999", 
-  "CreditLine": "Anonymous purchase in memory of Flobelle Fairbanks Burden", 
+  "ArtistBio": "(American, 1912\u20131999)", 
+  "DateAcquired": "1969-11-05", 
+  "\ufeffTitle": "Eleanor, Chicago", 
   "ObjectID": "57856"
 }

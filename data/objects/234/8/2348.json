@@ -5,8 +5,7 @@
   "Artist": "Peter Behrens", 
   "URL": "http://www.moma.org/collection/works/2348", 
   "CuratorApproved": "Y", 
-  "Title": "Creamer", 
-  "DateAcquired": "1958-12-04", 
+  "CreditLine": "Phyllis B. Lambert Fund", 
   "Date": "1901", 
   "ArtistID": 438, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "166.1958", 
-  "ArtistBio": "German, 1868\u20131940", 
-  "CreditLine": "Phyllis B. Lambert Fund", 
+  "ArtistBio": "(German, 1868\u20131940)", 
+  "DateAcquired": "1958-12-04", 
+  "\ufeffTitle": "Creamer", 
   "ObjectID": "2348"
 }

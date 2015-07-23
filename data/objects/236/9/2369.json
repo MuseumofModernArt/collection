@@ -1,12 +1,11 @@
 {
   "Medium": "Laminated birch and teak", 
-  "Dimensions": "16 3/4 x 16 7/8 x 16 3/4\" (42.5 x 42.8 x 42.5 cm)  ", 
+  "Dimensions": "16 3/4 x 16 7/8 x 16 3/4\" (42.5 x 42.8 x 42.5 cm)\r\n", 
   "Classification": "A&D Design", 
   "Artist": "Antti Nurmesniemi", 
   "URL": "http://www.moma.org/collection/works/2369", 
   "CuratorApproved": "Y", 
-  "Title": "Sauna Stool", 
-  "DateAcquired": "1991-06-04", 
+  "CreditLine": "Gift of the Palace Hotel, Helsinki", 
   "Date": "1952", 
   "ArtistID": 6613, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "170.1991", 
-  "ArtistBio": "Finnish, 1927\u20132003", 
-  "CreditLine": "Gift of the Palace Hotel, Helsinki", 
+  "ArtistBio": "(Finnish, 1927\u20132003)", 
+  "DateAcquired": "1991-06-04", 
+  "\ufeffTitle": "Sauna Stool", 
   "ObjectID": "2369"
 }

@@ -5,8 +5,7 @@
   "Artist": "Emil Nolde", 
   "URL": "http://www.moma.org/collection/works/65721", 
   "CuratorApproved": "Y", 
-  "Title": "General and Aide", 
-  "DateAcquired": "1955-10-10", 
+  "CreditLine": "Purchase", 
   "Date": "1906", 
   "ArtistID": 4327, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "271.1955", 
-  "ArtistBio": "German, 1867\u20131956", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(German, 1867\u20131956)", 
+  "DateAcquired": "1955-10-10", 
+  "\ufeffTitle": "General and Aide (General und Diener) from the portfolio Fairy-Tales (M\u00e4rchen)", 
   "ObjectID": "65721"
 }

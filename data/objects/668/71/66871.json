@@ -5,8 +5,7 @@
   "Artist": "Marc Chagall", 
   "URL": "http://www.moma.org/collection/works/66871", 
   "CuratorApproved": "Y", 
-  "Title": "The Trough II (L'Auge II)", 
-  "DateAcquired": "1948-10-06", 
+  "CreditLine": "Gift of Victor S. Riesenfeld", 
   "Date": "1924, published 1925", 
   "ArtistID": 1055, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "320.1948", 
-  "ArtistBio": "French, born Belarus. 1887\u20131985", 
-  "CreditLine": "Gift of Victor S. Riesenfeld", 
+  "ArtistBio": "(French, born Belarus. 1887\u20131985)", 
+  "DateAcquired": "1948-10-06", 
+  "\ufeffTitle": "The Trough II (L'Auge II)", 
   "ObjectID": "66871"
 }

@@ -5,8 +5,7 @@
   "Artist": "Alberto Giacometti", 
   "URL": "http://www.moma.org/collection/works/38595", 
   "CuratorApproved": "Y", 
-  "Title": "The City Square", 
-  "DateAcquired": "1975-01-24", 
+  "CreditLine": "Gift of Alexander Liberman in honor of Ren\u00e9 d'Harnoncourt", 
   "Date": "1949", 
   "ArtistID": 2141, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "1365.1974", 
-  "ArtistBio": "Swiss, 1901\u20131966", 
-  "CreditLine": "Gift of Alexander Liberman in honor of Ren\u00e9 d'Harnoncourt", 
+  "ArtistBio": "(Swiss, 1901\u20131966)", 
+  "DateAcquired": "1975-01-24", 
+  "\ufeffTitle": "The City Square", 
   "ObjectID": "38595"
 }

@@ -1,12 +1,11 @@
 {
   "Medium": "Pyrex-brand glass and cork", 
-  "Dimensions": ".a (tray hold): 11 x 13 1/2\" (28 x 34.3 cm)  .b (cooler): 14 x 6 3/4\" (35.5 x 17.2 cm)  .c (lid): 2 3/4 x 5 1/2\" (7 x 14 cm)", 
+  "Dimensions": ".a (tray hold): 11 x 13 1/2\" (28 x 34.3 cm)\r\n.b (cooler): 14 x 6 3/4\" (35.5 x 17.2 cm)\r\n.c (lid): 2 3/4 x 5 1/2\" (7 x 14 cm)", 
   "Classification": "A&D Design", 
   "Artist": "Peter Schlumbohm", 
   "URL": "http://www.moma.org/collection/works/4694", 
   "CuratorApproved": "Y", 
-  "Title": "Fahrenheitor Mushroom Tray Bottle Cooler", 
-  "DateAcquired": "2001-04-30", 
+  "CreditLine": "Gift of the manufacturer", 
   "Date": "1946", 
   "ArtistID": 5225, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "1331.2001.a-c", 
-  "ArtistBio": "American, born Germany. 1896\u20131962", 
-  "CreditLine": "Gift of the manufacturer", 
+  "ArtistBio": "(American, born Germany. 1896\u20131962)", 
+  "DateAcquired": "2001-04-30", 
+  "\ufeffTitle": "Fahrenheitor Mushroom Tray Bottle Cooler", 
   "ObjectID": "4694"
 }

@@ -5,8 +5,7 @@
   "Artist": "David Goldblatt", 
   "URL": "http://www.moma.org/collection/works/55204", 
   "CuratorApproved": "Y", 
-  "Title": "Rand Afrikaans University, Johannesburg", 
-  "DateAcquired": "1998-10-15", 
+  "CreditLine": "Gift of the photographer", 
   "Date": "1976", 
   "ArtistID": 2214, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "566.1998", 
-  "ArtistBio": "South African, born 1930", 
-  "CreditLine": "Gift of the photographer", 
+  "ArtistBio": "(South African, born 1930)", 
+  "DateAcquired": "1998-10-15", 
+  "\ufeffTitle": "Rand Afrikaans University, Johannesburg", 
   "ObjectID": "55204"
 }

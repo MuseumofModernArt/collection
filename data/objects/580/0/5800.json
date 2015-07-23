@@ -5,8 +5,7 @@
   "Artist": "Fritz B\u00fchler", 
   "URL": "http://www.moma.org/collection/works/5800", 
   "CuratorApproved": "Y", 
-  "Title": "Film/Festival Congres International Bale", 
-  "DateAcquired": "1987-05-27", 
+  "CreditLine": "Purchase", 
   "Date": "1945", 
   "ArtistID": 856, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "240.1987", 
-  "ArtistBio": "Swiss, 1909\u20131963", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(Swiss, 1909\u20131963)", 
+  "DateAcquired": "1987-05-27", 
+  "\ufeffTitle": "Film/Festival Congres International Bale", 
   "ObjectID": "5800"
 }

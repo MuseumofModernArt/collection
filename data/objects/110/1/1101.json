@@ -5,8 +5,7 @@
   "Artist": "Unknown Designer", 
   "URL": "http://www.moma.org/collection/works/1101", 
   "CuratorApproved": "Y", 
-  "Title": "Laboratory Glassware", 
-  "DateAcquired": "2001-09-24", 
+  "CreditLine": "Purchase", 
   "Date": "Unknown", 
   "ArtistID": 6011, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "2310.2001", 
-  "ArtistBio": "Nationality unknown", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(Nationality unknown)", 
+  "DateAcquired": "2001-09-24", 
+  "\ufeffTitle": "Laboratory Glassware", 
   "ObjectID": "1101"
 }

@@ -5,8 +5,7 @@
   "Artist": "Lee Friedlander", 
   "URL": "http://www.moma.org/collection/works/56366", 
   "CuratorApproved": "Y", 
-  "Title": "Appeal to the Great Spirit. Museum of Fine Arts, Boston, Massachusetts", 
-  "DateAcquired": "2000-10-12", 
+  "CreditLine": "Purchase", 
   "Date": "1975", 
   "ArtistID": 2002, 
   "Keywords": [
@@ -20,7 +19,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "773.2000", 
-  "ArtistBio": "American, born 1934", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, born 1934)", 
+  "DateAcquired": "2000-10-12", 
+  "\ufeffTitle": "Appeal to the Great Spirit. Museum of Fine Arts, Boston, Massachusetts", 
   "ObjectID": "56366"
 }

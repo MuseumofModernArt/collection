@@ -5,8 +5,7 @@
   "Artist": "William Brice", 
   "URL": "http://www.moma.org/collection/works/33293", 
   "CuratorApproved": "Y", 
-  "Title": "Man in a Cap", 
-  "DateAcquired": "1978-04-04", 
+  "CreditLine": "The Joan and Lester Avnet Collection", 
   "Date": "1956", 
   "ArtistID": 771, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "21.1978", 
-  "ArtistBio": "American, 1921\u20132008", 
-  "CreditLine": "The Joan and Lester Avnet Collection", 
+  "ArtistBio": "(American, 1921\u20132008)", 
+  "DateAcquired": "1978-04-04", 
+  "\ufeffTitle": "Man in a Cap", 
   "ObjectID": "33293"
 }

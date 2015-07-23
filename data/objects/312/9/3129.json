@@ -1,12 +1,11 @@
 {
-  "Medium": ".a: Hardwood, steel, and cast aluminum  .b-.c: Steel  .d-.e: Steel and wood", 
-  "Dimensions": ".a (crossbow): 41 1/2 x 24 3/4\" (105.4 x 62.9 cm)  .b (sighting attachment): 2 3/8 x 1 15/16 x 4 1/4\" (6 x 4.9 x 10.8 cm)  .c (cocking lever): 24 1/8\" (61.3 cm)  .d-.e (darts): 5 7/8\" (14.9 cm)", 
+  "Medium": ".a: Hardwood, steel, and cast aluminum\r\n.b-.c: Steel\r\n.d-.e: Steel and wood", 
+  "Dimensions": ".a (crossbow): 41 1/2 x 24 3/4\" (105.4 x 62.9 cm)\r\n.b (sighting attachment): 2 3/8 x 1 15/16 x 4 1/4\" (6 x 4.9 x 10.8 cm)\r\n.c (cocking lever): 24 1/8\" (61.3 cm)\r\n.d-.e (darts): 5 7/8\" (14.9 cm)", 
   "Classification": "A&D Design", 
   "Artist": "Anton R\u00fcegg", 
   "URL": "http://www.moma.org/collection/works/3129", 
   "CuratorApproved": "Y", 
-  "Title": "Crossbow", 
-  "DateAcquired": "1962-11-07", 
+  "CreditLine": "Gift of the designer", 
   "Date": "c. 1962", 
   "ArtistID": 5077, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "264.1962.a-e", 
-  "ArtistBio": "Swiss", 
-  "CreditLine": "Gift of the designer", 
+  "ArtistBio": "(Swiss)", 
+  "DateAcquired": "1962-11-07", 
+  "\ufeffTitle": "Crossbow", 
   "ObjectID": "3129"
 }

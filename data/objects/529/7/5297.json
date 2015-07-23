@@ -5,8 +5,7 @@
   "Artist": "Art Chantry", 
   "URL": "http://www.moma.org/collection/works/5297", 
   "CuratorApproved": "Y", 
-  "Title": "Give Peace a Dance, A 24-Hour Dance Marathon", 
-  "DateAcquired": "1995-05-09", 
+  "CreditLine": "Gift of the designer", 
   "Date": "1985", 
   "ArtistID": 7456, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "150.1995", 
-  "ArtistBio": "American, born 1954", 
-  "CreditLine": "Gift of the designer", 
+  "ArtistBio": "(American, born 1954)", 
+  "DateAcquired": "1995-05-09", 
+  "\ufeffTitle": "Give Peace a Dance, A 24-Hour Dance Marathon", 
   "ObjectID": "5297"
 }

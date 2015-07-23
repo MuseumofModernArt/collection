@@ -5,8 +5,7 @@
   "Artist": "Erich Heckel", 
   "URL": "http://www.moma.org/collection/works/62347", 
   "CuratorApproved": "Y", 
-  "Title": "White Horses", 
-  "DateAcquired": "1949-03-24", 
+  "CreditLine": "Purchase", 
   "Date": "1912", 
   "ArtistID": 2569, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "127.1949", 
-  "ArtistBio": "German, 1883\u20131970", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(German, 1883\u20131970)", 
+  "DateAcquired": "1949-03-24", 
+  "\ufeffTitle": "White Horses (Weisse Pferde)", 
   "ObjectID": "62347"
 }

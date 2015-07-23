@@ -5,8 +5,7 @@
   "Artist": "Andy Warhol", 
   "URL": "http://www.moma.org/collection/works/7353", 
   "CuratorApproved": "Y", 
-  "Title": "Campbell's Tomato Soup Shopping Bag", 
-  "DateAcquired": "1987-11-18", 
+  "CreditLine": "Given anonymously", 
   "Date": "1966", 
   "ArtistID": 6246, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "516.1987", 
-  "ArtistBio": "American, 1928\u20131987", 
-  "CreditLine": "Given anonymously", 
+  "ArtistBio": "(American, 1928\u20131987)", 
+  "DateAcquired": "1987-11-18", 
+  "\ufeffTitle": "Campbell's Tomato Soup Shopping Bag", 
   "ObjectID": "7353"
 }

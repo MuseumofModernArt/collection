@@ -5,8 +5,7 @@
   "Artist": "Lyonel Feininger", 
   "URL": "http://www.moma.org/collection/works/62995", 
   "CuratorApproved": "Y", 
-  "Title": "Marine", 
-  "DateAcquired": "1945-06-13", 
+  "CreditLine": "Purchase", 
   "Date": "(1918, published 1921)", 
   "ArtistID": 1832, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "152.1945", 
-  "ArtistBio": "American, 1871\u20131956", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, 1871\u20131956)", 
+  "DateAcquired": "1945-06-13", 
+  "\ufeffTitle": "Marine from The First Portfolio (Die erste Mappe)", 
   "ObjectID": "62995"
 }

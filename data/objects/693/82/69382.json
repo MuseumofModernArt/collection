@@ -1,12 +1,11 @@
 {
   "Medium": "Etching", 
-  "Dimensions": "irreg composition  12 11/16 x 8 11/16\" (32.2 x 22 cm)  irreg sheet  12 11/16 x 8 11/16\" (32.2 x 22 cm)", 
+  "Dimensions": "irreg composition  12 11/16 x 8 11/16\" (32.2 x 22 cm)\r\nirreg sheet  12 11/16 x 8 11/16\" (32.2 x 22 cm)", 
   "Classification": "Print", 
   "Artist": "Jody Shields", 
   "URL": "http://www.moma.org/collection/works/69382", 
   "CuratorApproved": "Y", 
-  "Title": "Small Print with Black and Silver Dashes", 
-  "DateAcquired": "1977-11-10", 
+  "CreditLine": "Larry Aldrich Fund", 
   "Date": "1975", 
   "ArtistID": 5397, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "454.1977", 
-  "ArtistBio": "American, born 1952", 
-  "CreditLine": "Larry Aldrich Fund", 
+  "ArtistBio": "(American, born 1952)", 
+  "DateAcquired": "1977-11-10", 
+  "\ufeffTitle": "Small Print with Black and Silver Dashes", 
   "ObjectID": "69382"
 }

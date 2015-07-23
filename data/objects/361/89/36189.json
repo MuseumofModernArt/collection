@@ -5,8 +5,7 @@
   "Artist": "Franz Kline", 
   "URL": "http://www.moma.org/collection/works/36189", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled II", 
-  "DateAcquired": "1983-03-15", 
+  "CreditLine": "Purchase", 
   "Date": "(c. 1952)", 
   "ArtistID": 3148, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "309.1983", 
-  "ArtistBio": "American, 1910\u20131962", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, 1910\u20131962)", 
+  "DateAcquired": "1983-03-15", 
+  "\ufeffTitle": "Untitled II", 
   "ObjectID": "36189"
 }

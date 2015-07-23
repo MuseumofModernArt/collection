@@ -5,8 +5,7 @@
   "Artist": "Yoram Lehman", 
   "URL": "http://www.moma.org/collection/works/48639", 
   "CuratorApproved": "Y", 
-  "Title": "Broom", 
-  "DateAcquired": "NULL", 
+  "CreditLine": "Gift of the photographer", 
   "Date": "1973", 
   "ArtistID": 3463, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "214.1975", 
-  "ArtistBio": "Israeli, born 1939", 
-  "CreditLine": "Gift of the photographer", 
+  "ArtistBio": "(Israeli, born 1939)", 
+  "DateAcquired": "", 
+  "\ufeffTitle": "Broom", 
   "ObjectID": "48639"
 }

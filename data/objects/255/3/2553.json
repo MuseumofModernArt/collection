@@ -5,8 +5,7 @@
   "Artist": "Alvar Aalto", 
   "URL": "http://www.moma.org/collection/works/2553", 
   "CuratorApproved": "Y", 
-  "Title": "Stacking Stool (model 60)", 
-  "DateAcquired": "1958-12-04", 
+  "CreditLine": "Phyllis B. Lambert Fund", 
   "Date": "1932-33", 
   "ArtistID": 34, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "146.1958", 
-  "ArtistBio": "Finnish, 1898\u20131976", 
-  "CreditLine": "Phyllis B. Lambert Fund", 
+  "ArtistBio": "(Finnish, 1898\u20131976)", 
+  "DateAcquired": "1958-12-04", 
+  "\ufeffTitle": "Stacking Stool (model 60)", 
   "ObjectID": "2553"
 }

@@ -5,8 +5,7 @@
   "Artist": "Otl Aicher (also known as Otto Aicher)", 
   "URL": "http://www.moma.org/collection/works/6184", 
   "CuratorApproved": "Y", 
-  "Title": "Die Stunde des Menschen", 
-  "DateAcquired": "1957-12-04", 
+  "CreditLine": "Gift of the artist", 
   "Date": "1953", 
   "ArtistID": 86, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "309.1957", 
-  "ArtistBio": "German, 1922\u20131991", 
-  "CreditLine": "Gift of the artist", 
+  "ArtistBio": "(German, 1922\u20131991)", 
+  "DateAcquired": "1957-12-04", 
+  "\ufeffTitle": "Die Stunde des Menschen", 
   "ObjectID": "6184"
 }

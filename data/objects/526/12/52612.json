@@ -5,8 +5,7 @@
   "Artist": "D. F. Barry", 
   "URL": "http://www.moma.org/collection/works/52612", 
   "CuratorApproved": "Y", 
-  "Title": "D.F. Barry with Rain-In-The-Face", 
-  "DateAcquired": "1986-12-18", 
+  "CreditLine": "Gift of Paul Katz", 
   "Date": "c. 1890", 
   "ArtistID": 351, 
   "Keywords": [
@@ -21,7 +20,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "400.1986", 
-  "ArtistBio": "American, 1854\u20131934", 
-  "CreditLine": "Gift of Paul Katz", 
+  "ArtistBio": "(American, 1854\u20131934)", 
+  "DateAcquired": "1986-12-18", 
+  "\ufeffTitle": "D.F. Barry with Rain-In-The-Face", 
   "ObjectID": "52612"
 }

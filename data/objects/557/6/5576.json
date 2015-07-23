@@ -5,8 +5,7 @@
   "Artist": "Mason Williams", 
   "URL": "http://www.moma.org/collection/works/5576", 
   "CuratorApproved": "Y", 
-  "Title": "Bus", 
-  "DateAcquired": "1968-03-07", 
+  "CreditLine": "Gift of the designer", 
   "Date": "1967", 
   "ArtistID": 6381, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "183.1968", 
-  "ArtistBio": "American, born 1938", 
-  "CreditLine": "Gift of the designer", 
+  "ArtistBio": "(American, born 1938)", 
+  "DateAcquired": "1968-03-07", 
+  "\ufeffTitle": "Bus", 
   "ObjectID": "5576"
 }

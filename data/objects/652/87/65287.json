@@ -1,12 +1,11 @@
 {
   "Medium": "Multiple of a soup can", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Multiple", 
   "Artist": "Alyson Shotz", 
   "URL": "http://www.moma.org/collection/works/65287", 
   "CuratorApproved": "Y", 
-  "Title": "Old Fashioned Vege-Gene Soup", 
-  "DateAcquired": "1997-05-28", 
+  "CreditLine": "Gift of the artist", 
   "Date": "1997", 
   "ArtistID": 7677, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "252.1997", 
-  "ArtistBio": "American, born 1964", 
-  "CreditLine": "Gift of the artist", 
+  "ArtistBio": "(American, born 1964)", 
+  "DateAcquired": "1997-05-28", 
+  "\ufeffTitle": "Old Fashioned Vege-Gene Soup", 
   "ObjectID": "65287"
 }

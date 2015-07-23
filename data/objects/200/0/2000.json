@@ -5,8 +5,7 @@
   "Artist": "William J. Russell", 
   "URL": "http://www.moma.org/collection/works/2000", 
   "CuratorApproved": "Y", 
-  "Title": "Universal Pressure Cooker", 
-  "DateAcquired": "NULL", 
+  "CreditLine": "Gift of the manufacturer", 
   "Date": "1945", 
   "Keywords": [
     "online art collection", 
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "76.1946.a-b", 
-  "ArtistBio": "American", 
-  "CreditLine": "Gift of the manufacturer", 
+  "ArtistBio": "(American)", 
+  "DateAcquired": "", 
+  "\ufeffTitle": "Universal Pressure Cooker", 
   "ObjectID": "2000"
 }

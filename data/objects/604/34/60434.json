@@ -5,8 +5,7 @@
   "Artist": "Juan Gris", 
   "URL": "http://www.moma.org/collection/works/60434", 
   "CuratorApproved": "Y", 
-  "Title": "Mahomet", 
-  "DateAcquired": "1948-03-17", 
+  "CreditLine": "Purchase", 
   "Date": "(1921)", 
   "ArtistID": 2349, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "29.1948", 
-  "ArtistBio": "Spanish, 1887\u20131927", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(Spanish, 1887\u20131927)", 
+  "DateAcquired": "1948-03-17", 
+  "\ufeffTitle": "Mahomet", 
   "ObjectID": "60434"
 }

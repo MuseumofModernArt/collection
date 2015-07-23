@@ -5,8 +5,7 @@
   "Artist": "Aleksandr Rodchenko", 
   "URL": "http://www.moma.org/collection/works/56410", 
   "CuratorApproved": "Y", 
-  "Title": "Pine Trees, Pushkino", 
-  "DateAcquired": "1998-12-10", 
+  "CreditLine": "Gift of the Rodchenko family", 
   "Date": "1927", 
   "ArtistID": 4975, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "788.1998", 
-  "ArtistBio": "Russian, 1891\u20131956", 
-  "CreditLine": "Gift of the Rodchenko family", 
+  "ArtistBio": "(Russian, 1891\u20131956)", 
+  "DateAcquired": "1998-12-10", 
+  "\ufeffTitle": "Pine Trees, Pushkino", 
   "ObjectID": "56410"
 }

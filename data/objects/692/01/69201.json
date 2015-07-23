@@ -1,12 +1,11 @@
 {
   "Medium": "Collograph", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "Myrna B\u00e1ez", 
   "URL": "http://www.moma.org/collection/works/69201", 
   "CuratorApproved": "Y", 
-  "Title": "The Judge (El Juez)", 
-  "DateAcquired": "1971-05-18", 
+  "CreditLine": "San Juan Racing Association", 
   "Date": "1970", 
   "ArtistID": 284, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "442.1971", 
-  "ArtistBio": "American, born Puerto Rico 1931", 
-  "CreditLine": "San Juan Racing Association", 
+  "ArtistBio": "(American, born Puerto Rico 1931)", 
+  "DateAcquired": "1971-05-18", 
+  "\ufeffTitle": "The Judge (El Juez)", 
   "ObjectID": "69201"
 }

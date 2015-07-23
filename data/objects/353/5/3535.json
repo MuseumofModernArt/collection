@@ -1,12 +1,11 @@
 {
-  "Medium": ".1-.8: Stainless steel    .9: Wood", 
-  "Dimensions": ".1: 1 1/8 x 6 5/8\" (2.9 x 16.8 cm)  .2: 1 1/2 x 8 3/8\" (3.8 x 21.3 cm)  .3: 1 5/8 x 10 1/4\" (4.1 x 26 cm)  .4: 2 1/4 x 12 1/4\" (5.7 x 31.1 cm)  .5: 2 5/8 x 6 5/8\" (6.7 x 16.8 cm)  .6: 3 3/8 x 8 3/8\" (8.6 x 21.3 cm)  .7: 4 1/8 x 10 1/4\" (10.5 x 26 cm)  .8: 4 3/4 x 12 1/4\" (12 x 31.1 cm)  .9: 1 1/2 x 12\" (3.8 x 30.5 cm)", 
+  "Medium": ".1-.8: Stainless steel  \r\n.9: Wood", 
+  "Dimensions": ".1: 1 1/8 x 6 5/8\" (2.9 x 16.8 cm)\r\n.2: 1 1/2 x 8 3/8\" (3.8 x 21.3 cm)\r\n.3: 1 5/8 x 10 1/4\" (4.1 x 26 cm)\r\n.4: 2 1/4 x 12 1/4\" (5.7 x 31.1 cm)\r\n.5: 2 5/8 x 6 5/8\" (6.7 x 16.8 cm)\r\n.6: 3 3/8 x 8 3/8\" (8.6 x 21.3 cm)\r\n.7: 4 1/8 x 10 1/4\" (10.5 x 26 cm)\r\n.8: 4 3/4 x 12 1/4\" (12 x 31.1 cm)\r\n.9: 1 1/2 x 12\" (3.8 x 30.5 cm)", 
   "Classification": "A&D Design", 
   "Artist": "Roberto Sambonet", 
   "URL": "http://www.moma.org/collection/works/3535", 
   "CuratorApproved": "Y", 
-  "Title": "Center Line Set of Cookware and Wooden Cutting Board", 
-  "DateAcquired": "1972-12-05", 
+  "CreditLine": "Gift of the manufacturer", 
   "Date": "1964", 
   "ArtistID": 5136, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "421.1972.1-9", 
-  "ArtistBio": "Italian, 1924\u20131995", 
-  "CreditLine": "Gift of the manufacturer", 
+  "ArtistBio": "(Italian, 1924\u20131995)", 
+  "DateAcquired": "1972-12-05", 
+  "\ufeffTitle": "Center Line Set of Cookware and Wooden Cutting Board", 
   "ObjectID": "3535"
 }

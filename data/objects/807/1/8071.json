@@ -5,8 +5,7 @@
   "Artist": "Lee Conklin", 
   "URL": "http://www.moma.org/collection/works/8071", 
   "CuratorApproved": "Y", 
-  "Title": "Spirit, Ten Years After", 
-  "DateAcquired": "1983-11-30", 
+  "CreditLine": "Gift of the designer", 
   "Date": "1969", 
   "ArtistID": 1213, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "761.1983", 
-  "ArtistBio": "American, born 1941", 
-  "CreditLine": "Gift of the designer", 
+  "ArtistBio": "(American, born 1941)", 
+  "DateAcquired": "1983-11-30", 
+  "\ufeffTitle": "Spirit, Ten Years After", 
   "ObjectID": "8071"
 }

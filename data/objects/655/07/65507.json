@@ -1,12 +1,11 @@
 {
   "Medium": "Screenprint", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "Donald Sultan", 
   "URL": "http://www.moma.org/collection/works/65507", 
   "CuratorApproved": "Y", 
-  "Title": "Two Lemons, a Pear, and an Egg", 
-  "DateAcquired": "1997-05-28", 
+  "CreditLine": "Gift of Joshua Mack in memory of Judy Goldberg", 
   "Date": "1994", 
   "ArtistID": 5726, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "262.1997", 
-  "ArtistBio": "American, born 1951", 
-  "CreditLine": "Gift of Joshua Mack in memory of Judy Goldberg", 
+  "ArtistBio": "(American, born 1951)", 
+  "DateAcquired": "1997-05-28", 
+  "\ufeffTitle": "Two Lemons, a Pear, and an Egg", 
   "ObjectID": "65507"
 }

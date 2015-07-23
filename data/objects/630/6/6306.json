@@ -5,8 +5,7 @@
   "Artist": "Alphonse Mucha", 
   "URL": "http://www.moma.org/collection/works/6306", 
   "CuratorApproved": "Y", 
-  "Title": "Theatre de la Renaissance, Sarah Bernhardt, La Samaritaine", 
-  "DateAcquired": "1957-12-04", 
+  "CreditLine": "Phyllis B. Lambert Fund", 
   "Date": "1897", 
   "ArtistID": 4136, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "331.1957", 
-  "ArtistBio": "Czech, born Moravia (then Austria). 1860\u20131939", 
-  "CreditLine": "Phyllis B. Lambert Fund", 
+  "ArtistBio": "(Czech, born Moravia (then Austria). 1860\u20131939)", 
+  "DateAcquired": "1957-12-04", 
+  "\ufeffTitle": "Theatre de la Renaissance, Sarah Bernhardt, La Samaritaine", 
   "ObjectID": "6306"
 }

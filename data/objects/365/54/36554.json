@@ -5,8 +5,7 @@
   "Artist": "Mel Bochner", 
   "URL": "http://www.moma.org/collection/works/36554", 
   "CuratorApproved": "Y", 
-  "Title": "Not Ttitled (DSO3)", 
-  "DateAcquired": "1999-10-21", 
+  "CreditLine": "Gift of Sarah-Ann and Werner H. Kramarsky", 
   "Date": "(1994)", 
   "ArtistID": 625, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "373.1999", 
-  "ArtistBio": "American, born 1940", 
-  "CreditLine": "Gift of Sarah-Ann and Werner H. Kramarsky", 
+  "ArtistBio": "(American, born 1940)", 
+  "DateAcquired": "1999-10-21", 
+  "\ufeffTitle": "Not Ttitled (DSO3)", 
   "ObjectID": "36554"
 }

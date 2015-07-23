@@ -1,12 +1,11 @@
 {
   "Medium": "Lithograph", 
-  "Dimensions": "irreg. composition  36 1/8 x 28 7/8\" (91.7 x 73.4 cm)  sheet  44 1/16 x 34 1/4\" (112 x 87 cm)", 
+  "Dimensions": "irreg. composition  36 1/8 x 28 7/8\" (91.7 x 73.4 cm)\r\nsheet  44 1/16 x 34 1/4\" (112 x 87 cm)", 
   "Classification": "Print", 
   "Artist": "Richard Diebenkorn", 
   "URL": "http://www.moma.org/collection/works/67350", 
   "CuratorApproved": "Y", 
-  "Title": "Greyland", 
-  "DateAcquired": "1987-10-20", 
+  "CreditLine": "President's Fund Purchase, 1978, Donald B. Marron, President", 
   "Date": "1984, published 1985", 
   "ArtistID": 1539, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "344.1987", 
-  "ArtistBio": "American, 1922\u20131993", 
-  "CreditLine": "President's Fund Purchase, 1978, Donald B. Marron, President", 
+  "ArtistBio": "(American, 1922\u20131993)", 
+  "DateAcquired": "1987-10-20", 
+  "\ufeffTitle": "Greyland", 
   "ObjectID": "67350"
 }

@@ -1,12 +1,11 @@
 {
   "Medium": "Drypoint", 
-  "Dimensions": "plate  29 7/8 x 35 13/16\" (75.9 x 91 cm)  sheet  33 7/8 x 39 13/16\" (86 x 101.1 cm)", 
+  "Dimensions": "plate  29 7/8 x 35 13/16\" (75.9 x 91 cm)\r\nsheet  33 7/8 x 39 13/16\" (86 x 101.1 cm)", 
   "Classification": "Print", 
   "Artist": "Bruce Nauman", 
   "URL": "http://www.moma.org/collection/works/67825", 
   "CuratorApproved": "Y", 
-  "Title": "Large Carousel, State I", 
-  "DateAcquired": "1988-10-25", 
+  "CreditLine": "Purchase", 
   "Date": "1988", 
   "ArtistID": 4243, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "365.1988", 
-  "ArtistBio": "American, born 1941", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, born 1941)", 
+  "DateAcquired": "1988-10-25", 
+  "\ufeffTitle": "Large Carousel, State I", 
   "ObjectID": "67825"
 }

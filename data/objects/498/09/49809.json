@@ -5,8 +5,7 @@
   "Artist": "Dr. Harold E. Edgerton", 
   "URL": "http://www.moma.org/collection/works/49809", 
   "CuratorApproved": "Y", 
-  "Title": "Smash!", 
-  "DateAcquired": "1996-06-13", 
+  "CreditLine": "Gift of the artist", 
   "Date": "1933", 
   "ArtistID": 1681, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "270.1996", 
-  "ArtistBio": "American, 1903\u20131990", 
-  "CreditLine": "Gift of the artist", 
+  "ArtistBio": "(American, 1903\u20131990)", 
+  "DateAcquired": "1996-06-13", 
+  "\ufeffTitle": "Smash!", 
   "ObjectID": "49809"
 }

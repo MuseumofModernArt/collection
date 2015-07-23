@@ -5,8 +5,7 @@
   "Artist": "Pierre Bonnard", 
   "URL": "http://www.moma.org/collection/works/63646", 
   "CuratorApproved": "Y", 
-  "Title": "The Bath (Le Bain), plate XIV from The Album of Original Lithographs (Album de lithographies originales)", 
-  "DateAcquired": "1949-03-24", 
+  "CreditLine": "Purchase Fund", 
   "Date": "1925", 
   "ArtistID": 665, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "175.1949.14", 
-  "ArtistBio": "French, 1867\u20131947", 
-  "CreditLine": "Purchase Fund", 
+  "ArtistBio": "(French, 1867\u20131947)", 
+  "DateAcquired": "1949-03-24", 
+  "\ufeffTitle": "The Bath (Le Bain), plate XIV from The Album of Original Lithographs (Album de lithographies originales)", 
   "ObjectID": "63646"
 }

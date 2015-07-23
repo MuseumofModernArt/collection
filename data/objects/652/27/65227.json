@@ -5,8 +5,7 @@
   "Artist": "Jasper Johns", 
   "URL": "http://www.moma.org/collection/works/65227", 
   "CuratorApproved": "Y", 
-  "Title": "Target", 
-  "DateAcquired": "1962-10-09", 
+  "CreditLine": "Gift of Mr. and Mrs. Armand P. Bartos", 
   "Date": "1960", 
   "ArtistID": 2923, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "250.1962", 
-  "ArtistBio": "American, born 1930", 
-  "CreditLine": "Gift of Mr. and Mrs. Armand P. Bartos", 
+  "ArtistBio": "(American, born 1930)", 
+  "DateAcquired": "1962-10-09", 
+  "\ufeffTitle": "Target", 
   "ObjectID": "65227"
 }

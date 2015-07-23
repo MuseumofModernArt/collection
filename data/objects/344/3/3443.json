@@ -5,8 +5,7 @@
   "Artist": "Panasonic", 
   "URL": "http://www.moma.org/collection/works/3443", 
   "CuratorApproved": "Y", 
-  "Title": "Toot-A-Loop Radio (model R-72)", 
-  "DateAcquired": "1993-11-04", 
+  "CreditLine": "Gift of Anne Dixon", 
   "Date": "c. 1972", 
   "ArtistID": 7241, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "364.1993", 
-  "ArtistBio": "Japan, est. 1918", 
-  "CreditLine": "Gift of Anne Dixon", 
+  "ArtistBio": "(Japan, est. 1918)", 
+  "DateAcquired": "1993-11-04", 
+  "\ufeffTitle": "Toot-A-Loop Radio (model R-72)", 
   "ObjectID": "3443"
 }

@@ -5,8 +5,7 @@
   "Artist": "Franco Albini", 
   "URL": "http://www.moma.org/collection/works/2484", 
   "CuratorApproved": "Y", 
-  "Title": "Luisa Armchair", 
-  "DateAcquired": "1998-04-22", 
+  "CreditLine": "Gift of the manufacturer", 
   "Date": "1951", 
   "ArtistID": 7991, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "195.1998", 
-  "ArtistBio": "Italian, 1905\u20131977", 
-  "CreditLine": "Gift of the manufacturer", 
+  "ArtistBio": "(Italian, 1905\u20131977)", 
+  "DateAcquired": "1998-04-22", 
+  "\ufeffTitle": "Luisa Armchair", 
   "ObjectID": "2484"
 }

@@ -5,8 +5,7 @@
   "Artist": "Jacques Lipchitz", 
   "URL": "http://www.moma.org/collection/works/69281", 
   "CuratorApproved": "Y", 
-  "Title": "Theseus", 
-  "DateAcquired": "1949-09-29", 
+  "CreditLine": "Gift of Curt Valentin", 
   "Date": "1943", 
   "ArtistID": 3563, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "447.1949", 
-  "ArtistBio": "American, born Lithuania. 1891\u20131973", 
-  "CreditLine": "Gift of Curt Valentin", 
+  "ArtistBio": "(American, born Lithuania. 1891\u20131973)", 
+  "DateAcquired": "1949-09-29", 
+  "\ufeffTitle": "Theseus", 
   "ObjectID": "69281"
 }

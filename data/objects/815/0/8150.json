@@ -5,8 +5,7 @@
   "Artist": "Uwe Loesch", 
   "URL": "http://www.moma.org/collection/works/8150", 
   "CuratorApproved": "Y", 
-  "Title": "Eskalationen", 
-  "DateAcquired": "1983-11-30", 
+  "CreditLine": "Gift of the designer", 
   "Date": "1980", 
   "ArtistID": 3581, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "791.1983", 
-  "ArtistBio": "German, born 1943", 
-  "CreditLine": "Gift of the designer", 
+  "ArtistBio": "(German, born 1943)", 
+  "DateAcquired": "1983-11-30", 
+  "\ufeffTitle": "Eskalationen", 
   "ObjectID": "8150"
 }

@@ -5,8 +5,7 @@
   "Artist": "William E. Sauro/The New York Times", 
   "URL": "http://www.moma.org/collection/works/58690", 
   "CuratorApproved": "Y", 
-  "Title": "Women Strike for Equality, New York", 
-  "DateAcquired": "2001-06-14", 
+  "CreditLine": "The New York Times Collection", 
   "Date": "August 29, 1970", 
   "ArtistID": 8616, 
   "Keywords": [
@@ -20,7 +19,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "2097.2001", 
-  "ArtistBio": "American, 1929\u20132001", 
-  "CreditLine": "The New York Times Collection", 
+  "ArtistBio": "(American, 1929\u20132001)", 
+  "DateAcquired": "2001-06-14", 
+  "\ufeffTitle": "Women Strike for Equality, New York", 
   "ObjectID": "58690"
 }

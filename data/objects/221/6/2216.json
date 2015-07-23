@@ -5,8 +5,7 @@
   "Artist": "Reiko Sudo", 
   "URL": "http://www.moma.org/collection/works/2216", 
   "CuratorApproved": "Y", 
-  "Title": "Corn Silk Fabric", 
-  "DateAcquired": "1996-04-09", 
+  "CreditLine": "Gift of the manufacturer", 
   "Date": "c. 1994", 
   "ArtistID": 7045, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "122.1996", 
-  "ArtistBio": "Japanese, born 1953", 
-  "CreditLine": "Gift of the manufacturer", 
+  "ArtistBio": "(Japanese, born 1953)", 
+  "DateAcquired": "1996-04-09", 
+  "\ufeffTitle": "Corn Silk Fabric", 
   "ObjectID": "2216"
 }

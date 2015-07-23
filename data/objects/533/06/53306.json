@@ -1,12 +1,11 @@
 {
-  "Medium": "Gelatin silver print  ", 
+  "Medium": "Gelatin silver print\r\n", 
   "Dimensions": "7 3/8 x 9 1/4\" (18.6 x 23.5 cm)", 
   "Classification": "Photograph", 
   "Artist": "Wynn Bullock", 
   "URL": "http://www.moma.org/collection/works/53306", 
   "CuratorApproved": "Y", 
-  "Title": "Erosion", 
-  "DateAcquired": "1960-11-30", 
+  "CreditLine": "Purchase", 
   "Date": "1959", 
   "ArtistID": 861, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "433.1960", 
-  "ArtistBio": "American, 1902\u20131975", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, 1902\u20131975)", 
+  "DateAcquired": "1960-11-30", 
+  "\ufeffTitle": "Erosion", 
   "ObjectID": "53306"
 }

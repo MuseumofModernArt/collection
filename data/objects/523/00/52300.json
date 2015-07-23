@@ -5,8 +5,7 @@
   "Artist": "Garry Winogrand", 
   "URL": "http://www.moma.org/collection/works/52300", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1964-04-14", 
+  "CreditLine": "Purchase", 
   "Date": "1962", 
   "ArtistID": 6399, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "386.1964", 
-  "ArtistBio": "American, 1928\u20131984", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, 1928\u20131984)", 
+  "DateAcquired": "1964-04-14", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "52300"
 }

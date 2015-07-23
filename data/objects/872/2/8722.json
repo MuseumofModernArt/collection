@@ -5,8 +5,7 @@
   "Artist": "Vittorio Fiorucci", 
   "URL": "http://www.moma.org/collection/works/8722", 
   "CuratorApproved": "Y", 
-  "Title": "Visitez le Nouveau Quebec", 
-  "DateAcquired": "1968-10-07", 
+  "CreditLine": "Gift of the Triton Gallery", 
   "Date": "1967", 
   "ArtistID": 1881, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "1272.1968", 
-  "ArtistBio": "Canadian, born Italy 1931", 
-  "CreditLine": "Gift of the Triton Gallery", 
+  "ArtistBio": "(Canadian, born Italy 1931)", 
+  "DateAcquired": "1968-10-07", 
+  "\ufeffTitle": "Visitez le Nouveau Quebec", 
   "ObjectID": "8722"
 }

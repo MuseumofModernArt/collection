@@ -5,8 +5,7 @@
   "Artist": "Oscar Dom\u00ednguez", 
   "URL": "http://www.moma.org/collection/works/37018", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1937-12-03", 
+  "CreditLine": "Purchase", 
   "Date": "1936", 
   "ArtistID": 1579, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "458.1937", 
-  "ArtistBio": "French, born Spain. 1906\u20131957", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(French, born Spain. 1906\u20131957)", 
+  "DateAcquired": "1937-12-03", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "37018"
 }

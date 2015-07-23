@@ -1,12 +1,11 @@
 {
   "Medium": "Portfolio of nine woodcuts", 
-  "Dimensions": "(each) composition  17 15/16 x 24\" (45.6 x 60.9 cm)  sheet  20 1/2 x 26 3/16\" (52 x 66.5 cm)", 
+  "Dimensions": "(each) composition  17 15/16 x 24\" (45.6 x 60.9 cm)\r\nsheet  20 1/2 x 26 3/16\" (52 x 66.5 cm)", 
   "Classification": "Print", 
   "Artist": "Terry Winters", 
   "URL": "http://www.moma.org/collection/works/61485", 
   "CuratorApproved": "Y", 
-  "Title": "Graphic Primitives", 
-  "DateAcquired": "1999-03-04", 
+  "CreditLine": "John B. Turner Fund", 
   "Date": "1998", 
   "ArtistID": 6408, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "78.1999.1-9", 
-  "ArtistBio": "American, born 1949", 
-  "CreditLine": "John B. Turner Fund", 
+  "ArtistBio": "(American, born 1949)", 
+  "DateAcquired": "1999-03-04", 
+  "\ufeffTitle": "Graphic Primitives", 
   "ObjectID": "61485"
 }

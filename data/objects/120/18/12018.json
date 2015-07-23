@@ -1,12 +1,11 @@
 {
-  "Medium": "Illustrated Book with 7 woodcuts (1 with letterpress and 1 with collaged letterpress)  ", 
+  "Medium": "Illustrated Book with 7 woodcuts (1 with letterpress and 1 with collaged letterpress)\r\n", 
   "Dimensions": "Prints: various dimensions. Page (very irreg.):  9 3/8 x 5 7/8-12 11/16\" (23.8 x 15.0-32.2 cm)", 
   "Classification": "Illustrated Book", 
   "Artist": "Siah Armajani", 
   "URL": "http://www.moma.org/collection/works/12018", 
   "CuratorApproved": "Y", 
-  "Title": "Bridge Book", 
-  "DateAcquired": "1992-01-22", 
+  "CreditLine": "John B. Turner Fund", 
   "Date": "1991", 
   "ArtistID": 219, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "151.1992.1-7", 
-  "ArtistBio": "American, born 1939", 
-  "CreditLine": "John B. Turner Fund", 
+  "ArtistBio": "(American, born 1939)", 
+  "DateAcquired": "1992-01-22", 
+  "\ufeffTitle": "Bridge Book", 
   "ObjectID": "12018"
 }

@@ -5,8 +5,7 @@
   "Artist": "Julio Gonz\u00e1lez", 
   "URL": "http://www.moma.org/collection/works/36195", 
   "CuratorApproved": "Y", 
-  "Title": "Three Studies of Self-Portrait", 
-  "DateAcquired": "1980-01-15", 
+  "CreditLine": "Purchase", 
   "Date": "(1938-40)", 
   "ArtistID": 2231, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "310.1980", 
-  "ArtistBio": "Spanish, 1876\u20131942", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(Spanish, 1876\u20131942)", 
+  "DateAcquired": "1980-01-15", 
+  "\ufeffTitle": "Three Studies of Self-Portrait", 
   "ObjectID": "36195"
 }

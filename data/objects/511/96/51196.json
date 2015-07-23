@@ -5,8 +5,7 @@
   "Artist": "Josef Koudelka", 
   "URL": "http://www.moma.org/collection/works/51196", 
   "CuratorApproved": "Y", 
-  "Title": "Kendice", 
-  "DateAcquired": "1968-03-06", 
+  "CreditLine": "David H. McAlpin Fund", 
   "Date": "1965", 
   "ArtistID": 3229, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "338.1968", 
-  "ArtistBio": "Czech, born 1938", 
-  "CreditLine": "David H. McAlpin Fund", 
+  "ArtistBio": "(Czech, born 1938)", 
+  "DateAcquired": "1968-03-06", 
+  "\ufeffTitle": "Kendice", 
   "ObjectID": "51196"
 }

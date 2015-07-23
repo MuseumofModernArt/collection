@@ -5,8 +5,7 @@
   "Artist": "Vincent Smith", 
   "URL": "http://www.moma.org/collection/works/64152", 
   "CuratorApproved": "Y", 
-  "Title": "Mississippi Incident", 
-  "DateAcquired": "1988-05-04", 
+  "CreditLine": "John B. Turner Fund", 
   "Date": "1965", 
   "ArtistID": 5495, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "193.1988", 
-  "ArtistBio": "American, 1929\u20132003", 
-  "CreditLine": "John B. Turner Fund", 
+  "ArtistBio": "(American, 1929\u20132003)", 
+  "DateAcquired": "1988-05-04", 
+  "\ufeffTitle": "Mississippi Incident", 
   "ObjectID": "64152"
 }

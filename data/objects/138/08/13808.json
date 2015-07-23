@@ -5,8 +5,7 @@
   "Artist": "Various Artists", 
   "URL": "http://www.moma.org/collection/works/13808", 
   "CuratorApproved": "Y", 
-  "Title": "Modern Painters and Sculptors as Illustrators", 
-  "DateAcquired": "1986-05-20", 
+  "CreditLine": "Gift of Monroe Wheeler in memory of Philip Hofer", 
   "Date": "1936", 
   "ArtistID": 6104, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "213.1986", 
-  "ArtistBio": "Various", 
-  "CreditLine": "Gift of Monroe Wheeler in memory of Philip Hofer", 
+  "ArtistBio": "(Various)", 
+  "DateAcquired": "1986-05-20", 
+  "\ufeffTitle": "Modern Painters and Sculptors as Illustrators", 
   "ObjectID": "13808"
 }

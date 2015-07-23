@@ -5,8 +5,7 @@
   "Artist": "Yves Jos\u00e9 Zimmerman", 
   "URL": "http://www.moma.org/collection/works/8909", 
   "CuratorApproved": "Y", 
-  "Title": "Moebel", 
-  "DateAcquired": "2000-12-11", 
+  "CreditLine": "Gift of the designer", 
   "Date": "1957", 
   "ArtistID": 8262, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "1591.2000", 
-  "ArtistBio": "Swiss, born 1937", 
-  "CreditLine": "Gift of the designer", 
+  "ArtistBio": "(Swiss, born 1937)", 
+  "DateAcquired": "2000-12-11", 
+  "\ufeffTitle": "Moebel", 
   "ObjectID": "8909"
 }

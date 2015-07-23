@@ -1,12 +1,11 @@
 {
   "Medium": "Etching, aquatint and photogravure", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "Robert Rauschenberg", 
   "URL": "http://www.moma.org/collection/works/60060", 
   "CuratorApproved": "Y", 
-  "Title": "Street Sounds", 
-  "DateAcquired": "1993-01-18", 
+  "CreditLine": "Gift of Emily Fisher Landau", 
   "Date": "1992", 
   "ArtistID": 4823, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "18.1993", 
-  "ArtistBio": "American, 1925\u20132008", 
-  "CreditLine": "Gift of Emily Fisher Landau", 
+  "ArtistBio": "(American, 1925\u20132008)", 
+  "DateAcquired": "1993-01-18", 
+  "\ufeffTitle": "Street Sounds", 
   "ObjectID": "60060"
 }

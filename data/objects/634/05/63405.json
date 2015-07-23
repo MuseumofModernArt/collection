@@ -1,12 +1,11 @@
 {
   "Medium": "Lithograph", 
-  "Dimensions": "irreg composition  21 15/16 x 39 15/16\" (55.8 x 101.5 cm)  sheet  29 3/8 x 44 7/8\" (74.6 x 114 cm)", 
+  "Dimensions": "irreg composition  21 15/16 x 39 15/16\" (55.8 x 101.5 cm)\r\nsheet  29 3/8 x 44 7/8\" (74.6 x 114 cm)", 
   "Classification": "Print", 
   "Artist": "James Rosenquist", 
   "URL": "http://www.moma.org/collection/works/63405", 
   "CuratorApproved": "Y", 
-  "Title": "Terrarium", 
-  "DateAcquired": "1979-05-01", 
+  "CreditLine": "John B. Turner Fund", 
   "Date": "1978", 
   "ArtistID": 5021, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "165.1979", 
-  "ArtistBio": "American, born 1933", 
-  "CreditLine": "John B. Turner Fund", 
+  "ArtistBio": "(American, born 1933)", 
+  "DateAcquired": "1979-05-01", 
+  "\ufeffTitle": "Terrarium", 
   "ObjectID": "63405"
 }

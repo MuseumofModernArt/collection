@@ -5,8 +5,7 @@
   "Artist": "Gay Block", 
   "URL": "http://www.moma.org/collection/works/53945", 
   "CuratorApproved": "Y", 
-  "Title": "Seine Otten, the Netherlands", 
-  "DateAcquired": "1994-10-13", 
+  "CreditLine": "Gift of the photographer", 
   "Date": "1988", 
   "ArtistID": 607, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "470.1994.x1-x2", 
-  "ArtistBio": "American, born 1942", 
-  "CreditLine": "Gift of the photographer", 
+  "ArtistBio": "(American, born 1942)", 
+  "DateAcquired": "1994-10-13", 
+  "\ufeffTitle": "Seine Otten, the Netherlands from the series Rescuers of the Holocaust", 
   "ObjectID": "53945"
 }

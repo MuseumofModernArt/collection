@@ -5,8 +5,7 @@
   "Artist": "Lisette Model", 
   "URL": "http://www.moma.org/collection/works/57215", 
   "CuratorApproved": "Y", 
-  "Title": "Gambler Montecarlo", 
-  "DateAcquired": "1965-11-09", 
+  "CreditLine": "Gift of the photographer", 
   "Date": "1937", 
   "ArtistID": 4036, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "873.1965", 
-  "ArtistBio": "American, born Austria. 1901\u20131983", 
-  "CreditLine": "Gift of the photographer", 
+  "ArtistBio": "(American, born Austria. 1901\u20131983)", 
+  "DateAcquired": "1965-11-09", 
+  "\ufeffTitle": "Gambler Montecarlo", 
   "ObjectID": "57215"
 }

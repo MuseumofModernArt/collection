@@ -5,8 +5,7 @@
   "Artist": "Louise Bourgeois", 
   "URL": "http://www.moma.org/collection/works/69716", 
   "CuratorApproved": "Y", 
-  "Title": "Swaying, only state", 
-  "DateAcquired": "1993-11-17", 
+  "CreditLine": "Gift of the artist", 
   "Date": "(c. 1989)", 
   "ArtistID": 710, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "472.1993", 
-  "ArtistBio": "American, born France. 1911\u20132010", 
-  "CreditLine": "Gift of the artist", 
+  "ArtistBio": "(American, born France. 1911\u20132010)", 
+  "DateAcquired": "1993-11-17", 
+  "\ufeffTitle": "Swaying, only state", 
   "ObjectID": "69716"
 }

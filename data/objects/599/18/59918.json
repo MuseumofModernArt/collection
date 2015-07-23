@@ -5,8 +5,7 @@
   "Artist": "Mimmo Paladino", 
   "URL": "http://www.moma.org/collection/works/59918", 
   "CuratorApproved": "Y", 
-  "Title": "With Music (Con Musica)", 
-  "DateAcquired": "1981-01-15", 
+  "CreditLine": "Richard A. Epstein Fund", 
   "Date": "1980", 
   "ArtistID": 4472, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "13.1981", 
-  "ArtistBio": "Italian, born 1948", 
-  "CreditLine": "Richard A. Epstein Fund", 
+  "ArtistBio": "(Italian, born 1948)", 
+  "DateAcquired": "1981-01-15", 
+  "\ufeffTitle": "With Music (Con Musica)", 
   "ObjectID": "59918"
 }

@@ -5,8 +5,7 @@
   "Artist": "Niklaus Troxler", 
   "URL": "http://www.moma.org/collection/works/5546", 
   "CuratorApproved": "Y", 
-  "Title": "Dead Trees", 
-  "DateAcquired": "1993-05-04", 
+  "CreditLine": "Gift of the designer", 
   "Date": "1992", 
   "ArtistID": 5940, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "179.1993", 
-  "ArtistBio": "Swiss, born 1947", 
-  "CreditLine": "Gift of the designer", 
+  "ArtistBio": "(Swiss, born 1947)", 
+  "DateAcquired": "1993-05-04", 
+  "\ufeffTitle": "Dead Trees", 
   "ObjectID": "5546"
 }

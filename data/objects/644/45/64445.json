@@ -5,8 +5,7 @@
   "Artist": "Max Beckmann", 
   "URL": "http://www.moma.org/collection/works/64445", 
   "CuratorApproved": "Y", 
-  "Title": "K\u00f6nigin Bar II", 
-  "DateAcquired": "1952-11-07", 
+  "CreditLine": "Gift of Mr. and Mrs. Eugene Victor Thaw", 
   "Date": "(1923)", 
   "ArtistID": 429, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "210.1952", 
-  "ArtistBio": "German, 1884\u20131950", 
-  "CreditLine": "Gift of Mr. and Mrs. Eugene Victor Thaw", 
+  "ArtistBio": "(German, 1884\u20131950)", 
+  "DateAcquired": "1952-11-07", 
+  "\ufeffTitle": "K\u00f6nigin Bar II (K\u00f6niginbar II)", 
   "ObjectID": "64445"
 }

@@ -5,8 +5,7 @@
   "Artist": "Marcello Nizzoli", 
   "URL": "http://www.moma.org/collection/works/6328", 
   "CuratorApproved": "Y", 
-  "Title": "Milano, Italia, Ente Provinciale per il Turismo", 
-  "DateAcquired": "1957-12-04", 
+  "CreditLine": "Gift of the Italian Tourist Bureau", 
   "Date": "1956", 
   "ArtistID": 4316, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "334.1957", 
-  "ArtistBio": "Italian, 1887\u20131969", 
-  "CreditLine": "Gift of the Italian Tourist Bureau", 
+  "ArtistBio": "(Italian, 1887\u20131969)", 
+  "DateAcquired": "1957-12-04", 
+  "\ufeffTitle": "Milano, Italia, Ente Provinciale per il Turismo", 
   "ObjectID": "6328"
 }

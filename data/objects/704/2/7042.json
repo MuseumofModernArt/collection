@@ -5,8 +5,7 @@
   "Artist": "Christian Leborg", 
   "URL": "http://www.moma.org/collection/works/7042", 
   "CuratorApproved": "Y", 
-  "Title": "Amnesty International", 
-  "DateAcquired": "1992-10-21", 
+  "CreditLine": "Gift of the designer", 
   "Date": "1989", 
   "ArtistID": 7047, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "450.1992.2", 
-  "ArtistBio": "Norwegian, born 1966", 
-  "CreditLine": "Gift of the designer", 
+  "ArtistBio": "(Norwegian, born 1966)", 
+  "DateAcquired": "1992-10-21", 
+  "\ufeffTitle": "Amnesty International", 
   "ObjectID": "7042"
 }

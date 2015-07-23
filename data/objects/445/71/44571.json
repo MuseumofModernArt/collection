@@ -5,8 +5,7 @@
   "Artist": "Ilse Bing", 
   "URL": "http://www.moma.org/collection/works/44571", 
   "CuratorApproved": "Y", 
-  "Title": "Self-Portrait in Mirrors", 
-  "DateAcquired": "1976-02-24", 
+  "CreditLine": "Joseph G. Mayer Fund", 
   "Date": "1931", 
   "ArtistID": 561, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "41.1976", 
-  "ArtistBio": "American, born Germany. 1899\u20131998", 
-  "CreditLine": "Joseph G. Mayer Fund", 
+  "ArtistBio": "(American, born Germany. 1899\u20131998)", 
+  "DateAcquired": "1976-02-24", 
+  "\ufeffTitle": "Self-Portrait in Mirrors", 
   "ObjectID": "44571"
 }

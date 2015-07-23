@@ -1,12 +1,11 @@
 {
   "Medium": "Woodcut", 
-  "Dimensions": "composition  18 3/4 x 10 15/16\" (47.7 x 27.9 cm)  sheet  25 x 14 3/4\" (63 x 37.5 cm)", 
+  "Dimensions": "composition  18 3/4 x 10 15/16\" (47.7 x 27.9 cm)\r\nsheet  25 x 14 3/4\" (63 x 37.5 cm)", 
   "Classification": "Print", 
   "Artist": "Leonard Baskin", 
   "URL": "http://www.moma.org/collection/works/69013", 
   "CuratorApproved": "Y", 
-  "Title": "The Anatomist", 
-  "DateAcquired": "1953-06-22", 
+  "CreditLine": "Gift of the Junior Council", 
   "Date": "1952", 
   "ArtistID": 369, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "431.1953", 
-  "ArtistBio": "American, 1922\u20132000", 
-  "CreditLine": "Gift of the Junior Council", 
+  "ArtistBio": "(American, 1922\u20132000)", 
+  "DateAcquired": "1953-06-22", 
+  "\ufeffTitle": "The Anatomist", 
   "ObjectID": "69013"
 }

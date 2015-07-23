@@ -5,8 +5,7 @@
   "Artist": "Paula Scher", 
   "URL": "http://www.moma.org/collection/works/8840", 
   "CuratorApproved": "Y", 
-  "Title": "The Public Theater, 95-96 Season", 
-  "DateAcquired": "2000-12-11", 
+  "CreditLine": "Gift of the designer", 
   "Date": "1995", 
   "ArtistID": 7070, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "1543.2000", 
-  "ArtistBio": "American, born 1948", 
-  "CreditLine": "Gift of the designer", 
+  "ArtistBio": "(American, born 1948)", 
+  "DateAcquired": "2000-12-11", 
+  "\ufeffTitle": "The Public Theater, 95-96 Season", 
   "ObjectID": "8840"
 }

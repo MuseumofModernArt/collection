@@ -5,8 +5,7 @@
   "Artist": "Emmet Gowin", 
   "URL": "http://www.moma.org/collection/works/44184", 
   "CuratorApproved": "Y", 
-  "Title": "Harry Callahan", 
-  "DateAcquired": "1971-01-05", 
+  "CreditLine": "Purchase", 
   "Date": "1967", 
   "ArtistID": 2273, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "27.1971", 
-  "ArtistBio": "American, born 1941", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, born 1941)", 
+  "DateAcquired": "1971-01-05", 
+  "\ufeffTitle": "Harry Callahan", 
   "ObjectID": "44184"
 }

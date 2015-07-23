@@ -5,8 +5,7 @@
   "Artist": "Koichi Yoshimura", 
   "URL": "http://www.moma.org/collection/works/2270", 
   "CuratorApproved": "Y", 
-  "Title": "Textile", 
-  "DateAcquired": "1996-04-09", 
+  "CreditLine": "Gift of the designer", 
   "Date": "1992", 
   "ArtistID": 7505, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "133.1996", 
-  "ArtistBio": "Japanese, born 1940", 
-  "CreditLine": "Gift of the designer", 
+  "ArtistBio": "(Japanese, born 1940)", 
+  "DateAcquired": "1996-04-09", 
+  "\ufeffTitle": "Textile", 
   "ObjectID": "2270"
 }

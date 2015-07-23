@@ -5,8 +5,7 @@
   "Artist": "Willem de Kooning", 
   "URL": "http://www.moma.org/collection/works/33276", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1969-02-10", 
+  "CreditLine": "Gift of the artist", 
   "Date": "(1968)", 
   "ArtistID": 3213, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "20.1969", 
-  "ArtistBio": "American, born the Netherlands. 1904\u20131997", 
-  "CreditLine": "Gift of the artist", 
+  "ArtistBio": "(American, born the Netherlands. 1904\u20131997)", 
+  "DateAcquired": "1969-02-10", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "33276"
 }

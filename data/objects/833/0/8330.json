@@ -5,8 +5,7 @@
   "Artist": "Maxfield Parrish", 
   "URL": "http://www.moma.org/collection/works/8330", 
   "CuratorApproved": "Y", 
-  "Title": "Scribner's", 
-  "DateAcquired": "1979-05-30", 
+  "CreditLine": "Given anonymously", 
   "Date": "1897", 
   "ArtistID": 4507, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "887.1979", 
-  "ArtistBio": "American, 1870\u20131966", 
-  "CreditLine": "Given anonymously", 
+  "ArtistBio": "(American, 1870\u20131966)", 
+  "DateAcquired": "1979-05-30", 
+  "\ufeffTitle": "Scribner's", 
   "ObjectID": "8330"
 }

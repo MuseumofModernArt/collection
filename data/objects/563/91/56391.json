@@ -5,8 +5,7 @@
   "Artist": "Aleksandr Rodchenko", 
   "URL": "http://www.moma.org/collection/works/56391", 
   "CuratorApproved": "Y", 
-  "Title": "Balconies", 
-  "DateAcquired": "1998-12-10", 
+  "CreditLine": "Gift of the Rodchenko family", 
   "Date": "1925", 
   "ArtistID": 4975, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "782.1998", 
-  "ArtistBio": "Russian, 1891\u20131956", 
-  "CreditLine": "Gift of the Rodchenko family", 
+  "ArtistBio": "(Russian, 1891\u20131956)", 
+  "DateAcquired": "1998-12-10", 
+  "\ufeffTitle": "Balconies", 
   "ObjectID": "56391"
 }

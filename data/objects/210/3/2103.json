@@ -1,12 +1,11 @@
 {
   "Medium": "Melamine", 
-  "Dimensions": ".1 (dinner plate): diam. 10\" (25.4 cm)  .2 (luncheon plate): diam. 8\" (20.3 cm)  .3 (butter plate): diam. 6 3/8\" (16.2 cm)  .4 (fruit saucer): h. 1/14\" (3.2 cm), diam. 5 1/2\" (14 cm)  .5 (cereal bowl): h. 2\" (5.1 cm), diam. 4 7/8\" (12.4 cm)  .6a (cup): h. 2 5/16\" (5.9 cm), diam. 3 3/4\" (9.5 cm)  .6b (saucer): diam. 6 3/8\" (16.2 cm)", 
+  "Dimensions": ".1 (dinner plate): diam. 10\" (25.4 cm)\r\n.2 (luncheon plate): diam. 8\" (20.3 cm)\r\n.3 (butter plate): diam. 6 3/8\" (16.2 cm)\r\n.4 (fruit saucer): h. 1/14\" (3.2 cm), diam. 5 1/2\" (14 cm)\r\n.5 (cereal bowl): h. 2\" (5.1 cm), diam. 4 7/8\" (12.4 cm)\r\n.6a (cup): h. 2 5/16\" (5.9 cm), diam. 3 3/4\" (9.5 cm)\r\n.6b (saucer): diam. 6 3/8\" (16.2 cm)", 
   "Classification": "A&D Design", 
   "Artist": "Jon Hedu", 
   "URL": "http://www.moma.org/collection/works/2103", 
   "CuratorApproved": "Y", 
-  "Title": "Lifetime Ware", 
-  "DateAcquired": "1948-03-17", 
+  "CreditLine": "Gift of George E. Weigl Co.", 
   "Date": "c. 1940", 
   "ArtistID": 2571, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "100.1948.1-6", 
-  "ArtistBio": "American, 1914\u20131995", 
-  "CreditLine": "Gift of George E. Weigl Co.", 
+  "ArtistBio": "(American, 1914\u20131995)", 
+  "DateAcquired": "1948-03-17", 
+  "\ufeffTitle": "Lifetime Ware", 
   "ObjectID": "2103"
 }

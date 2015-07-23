@@ -5,8 +5,7 @@
   "Artist": "Charles Marville", 
   "URL": "http://www.moma.org/collection/works/44796", 
   "CuratorApproved": "Y", 
-  "Title": "Dog", 
-  "DateAcquired": "1989-03-09", 
+  "CreditLine": "Gift of Paul F. Walter", 
   "Date": "1860s?", 
   "ArtistID": 3810, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "48.1989", 
-  "ArtistBio": "French, 1816\u20131879", 
-  "CreditLine": "Gift of Paul F. Walter", 
+  "ArtistBio": "(French, 1816\u20131879)", 
+  "DateAcquired": "1989-03-09", 
+  "\ufeffTitle": "Dog", 
   "ObjectID": "44796"
 }

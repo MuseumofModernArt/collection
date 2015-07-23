@@ -1,12 +1,11 @@
 {
   "Medium": "Photogravure", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "Robert Rauschenberg", 
   "URL": "http://www.moma.org/collection/works/65154", 
   "CuratorApproved": "Y", 
-  "Title": "Dream Cycle from the series Ground Rules", 
-  "DateAcquired": "1997-05-28", 
+  "CreditLine": "Gift of Emily Fisher Landau", 
   "Date": "1997", 
   "ArtistID": 4823, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "246.1997", 
-  "ArtistBio": "American, 1925\u20132008", 
-  "CreditLine": "Gift of Emily Fisher Landau", 
+  "ArtistBio": "(American, 1925\u20132008)", 
+  "DateAcquired": "1997-05-28", 
+  "\ufeffTitle": "Dream Cycle from the series Ground Rules", 
   "ObjectID": "65154"
 }

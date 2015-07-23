@@ -5,8 +5,7 @@
   "Artist": "Robert Adams", 
   "URL": "http://www.moma.org/collection/works/56660", 
   "CuratorApproved": "Y", 
-  "Title": "Above Boulder, Colorado", 
-  "DateAcquired": "1996-12-10", 
+  "CreditLine": "Acquired through the generosity of The Contemporary Arts Council of The Museum of Modern Art", 
   "Date": "1976", 
   "ArtistID": 66, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "836.1996", 
-  "ArtistBio": "American, born 1937", 
-  "CreditLine": "Acquired through the generosity of The Contemporary Arts Council of The Museum of Modern Art", 
+  "ArtistBio": "(American, born 1937)", 
+  "DateAcquired": "1996-12-10", 
+  "\ufeffTitle": "Above Boulder, Colorado", 
   "ObjectID": "56660"
 }

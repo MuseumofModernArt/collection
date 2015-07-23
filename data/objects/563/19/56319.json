@@ -5,8 +5,7 @@
   "Artist": "Manuel \u00c1lvarez Bravo", 
   "URL": "http://www.moma.org/collection/works/56319", 
   "CuratorApproved": "Y", 
-  "Title": "Optical Parable", 
-  "DateAcquired": "1998-12-10", 
+  "CreditLine": "The Photography Council Fund", 
   "Date": "1931", 
   "ArtistID": 135, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "749.1998", 
-  "ArtistBio": "Mexican, 1902\u20132002", 
-  "CreditLine": "The Photography Council Fund", 
+  "ArtistBio": "(Mexican, 1902\u20132002)", 
+  "DateAcquired": "1998-12-10", 
+  "\ufeffTitle": "Optical Parable", 
   "ObjectID": "56319"
 }

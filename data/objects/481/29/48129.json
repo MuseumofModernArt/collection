@@ -5,8 +5,7 @@
   "Artist": "Nicolas Faure", 
   "URL": "http://www.moma.org/collection/works/48129", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1981-05-14", 
+  "CreditLine": "Purchase", 
   "Date": "August 1980", 
   "ArtistID": 1810, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "192.1981", 
-  "ArtistBio": "Swiss, born 1949", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(Swiss, born 1949)", 
+  "DateAcquired": "1981-05-14", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "48129"
 }

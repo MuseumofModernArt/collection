@@ -5,8 +5,7 @@
   "Artist": "Barney Ingoglia/The New York Times", 
   "URL": "http://www.moma.org/collection/works/58612", 
   "CuratorApproved": "Y", 
-  "Title": "Rain Raises Fears of Flooding: Pedestrians in Times Square", 
-  "DateAcquired": "2001-06-14", 
+  "CreditLine": "The New York Times Collection", 
   "Date": "January 25, 1978", 
   "ArtistID": 8559, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "2019.2001", 
-  "ArtistBio": "American, born 1928", 
-  "CreditLine": "The New York Times Collection", 
+  "ArtistBio": "(American, born 1928)", 
+  "DateAcquired": "2001-06-14", 
+  "\ufeffTitle": "Rain Raises Fears of Flooding: Pedestrians in Times Square", 
   "ObjectID": "58612"
 }

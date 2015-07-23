@@ -1,12 +1,11 @@
 {
   "Medium": "Etching and aquatint", 
-  "Dimensions": "plate  15 9/16 x 9 13/16\" (39.6 x 25 cm)  sheet  20 1/4 x 13 1/16\" (51 x 33.2 cm)", 
+  "Dimensions": "plate  15 9/16 x 9 13/16\" (39.6 x 25 cm)\r\nsheet  20 1/4 x 13 1/16\" (51 x 33.2 cm)", 
   "Classification": "Print", 
   "Artist": "Jean Signovert", 
   "URL": "http://www.moma.org/collection/works/64383", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1986-05-20", 
+  "CreditLine": "Gift of William S. Lieberman", 
   "Date": "n.d.", 
   "ArtistID": 5423, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "206.1986", 
-  "ArtistBio": "French, born 1919", 
-  "CreditLine": "Gift of William S. Lieberman", 
+  "ArtistBio": "(French, born 1919)", 
+  "DateAcquired": "1986-05-20", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "64383"
 }

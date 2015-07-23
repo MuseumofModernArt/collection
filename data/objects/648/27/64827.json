@@ -5,8 +5,7 @@
   "Artist": "Louise Bourgeois", 
   "URL": "http://www.moma.org/collection/works/64827", 
   "CuratorApproved": "Y", 
-  "Title": "Dream, version 1 of 2, state III of X", 
-  "DateAcquired": "1992-05-20", 
+  "CreditLine": "Gift of the artist", 
   "Date": "1939", 
   "ArtistID": 710, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "230.1992.3", 
-  "ArtistBio": "American, born France. 1911\u20132010", 
-  "CreditLine": "Gift of the artist", 
+  "ArtistBio": "(American, born France. 1911\u20132010)", 
+  "DateAcquired": "1992-05-20", 
+  "\ufeffTitle": "Dream", 
   "ObjectID": "64827"
 }

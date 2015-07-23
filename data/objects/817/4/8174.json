@@ -5,8 +5,7 @@
   "Artist": "John Warner Norton", 
   "URL": "http://www.moma.org/collection/works/8174", 
   "CuratorApproved": "Y", 
-  "Title": "Keep These Off the U.S.A", 
-  "DateAcquired": "1984-11-30", 
+  "CreditLine": "Acquired by exchange", 
   "Date": "1918", 
   "ArtistID": 4335, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "803.1983", 
-  "ArtistBio": "American, 1876\u20131934", 
-  "CreditLine": "Acquired by exchange", 
+  "ArtistBio": "(American, 1876\u20131934)", 
+  "DateAcquired": "1984-11-30", 
+  "\ufeffTitle": "Keep These Off the U.S.A", 
   "ObjectID": "8174"
 }

@@ -5,8 +5,7 @@
   "Artist": "Nancy Hellebrand", 
   "URL": "http://www.moma.org/collection/works/47947", 
   "CuratorApproved": "Y", 
-  "Title": "Nancy", 
-  "DateAcquired": "1983-01-13", 
+  "CreditLine": "Acquired through the generosity of Lois and Bruce Zenkel", 
   "Date": "1982", 
   "ArtistID": 2587, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "184.1983.a-e", 
-  "ArtistBio": "American, born 1944", 
-  "CreditLine": "Acquired through the generosity of Lois and Bruce Zenkel", 
+  "ArtistBio": "(American, born 1944)", 
+  "DateAcquired": "1983-01-13", 
+  "\ufeffTitle": "Nancy", 
   "ObjectID": "47947"
 }

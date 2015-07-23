@@ -5,8 +5,7 @@
   "Artist": "Marisol (Marisol Escobar)", 
   "URL": "http://www.moma.org/collection/works/68869", 
   "CuratorApproved": "Y", 
-  "Title": "Kalimpong 2", 
-  "DateAcquired": "1970-10-22", 
+  "CreditLine": "Gift of the Celeste and Armand Bartos Foundation", 
   "Date": "1970", 
   "ArtistID": 3774, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "423.1970", 
-  "ArtistBio": "Venezuelan, born France 1930", 
-  "CreditLine": "Gift of the Celeste and Armand Bartos Foundation", 
+  "ArtistBio": "(Venezuelan, born France 1930)", 
+  "DateAcquired": "1970-10-22", 
+  "\ufeffTitle": "Kalimpong 2", 
   "ObjectID": "68869"
 }

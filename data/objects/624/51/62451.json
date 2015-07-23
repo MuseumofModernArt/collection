@@ -5,8 +5,7 @@
   "Artist": "Oskar Kokoschka", 
   "URL": "http://www.moma.org/collection/works/62451", 
   "CuratorApproved": "Y", 
-  "Title": "The Concert IV", 
-  "DateAcquired": "1945-03-07", 
+  "CreditLine": "Purchase", 
   "Date": "(1920, published 1921)", 
   "ArtistID": 3197, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "131.1945", 
-  "ArtistBio": "Austrian, 1886\u20131980", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(Austrian, 1886\u20131980)", 
+  "DateAcquired": "1945-03-07", 
+  "\ufeffTitle": "The Concert IV (Das Konzert IV) from the series The Concert (Das Konzert)", 
   "ObjectID": "62451"
 }

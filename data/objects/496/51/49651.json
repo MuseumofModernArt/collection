@@ -5,8 +5,7 @@
   "Artist": "Harry Callahan", 
   "URL": "http://www.moma.org/collection/works/49651", 
   "CuratorApproved": "Y", 
-  "Title": "Telephone Wires", 
-  "DateAcquired": "1977-06-09", 
+  "CreditLine": "Gift of the photographer", 
   "Date": "c. 1945", 
   "ArtistID": 924, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "257.1977", 
-  "ArtistBio": "American, 1912\u20131999", 
-  "CreditLine": "Gift of the photographer", 
+  "ArtistBio": "(American, 1912\u20131999)", 
+  "DateAcquired": "1977-06-09", 
+  "\ufeffTitle": "Telephone Wires", 
   "ObjectID": "49651"
 }

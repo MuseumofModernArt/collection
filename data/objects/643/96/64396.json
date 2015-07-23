@@ -1,12 +1,11 @@
 {
   "Medium": "Etching and aquatint", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "Jean Signovert", 
   "URL": "http://www.moma.org/collection/works/64396", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1986-05-20", 
+  "CreditLine": "Gift of William S. Lieberman", 
   "Date": "n.d.", 
   "ArtistID": 5423, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "207.1986", 
-  "ArtistBio": "French, born 1919", 
-  "CreditLine": "Gift of William S. Lieberman", 
+  "ArtistBio": "(French, born 1919)", 
+  "DateAcquired": "1986-05-20", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "64396"
 }

@@ -5,8 +5,7 @@
   "Artist": "Wladyslaw Strzeminski", 
   "URL": "http://www.moma.org/collection/works/8454", 
   "CuratorApproved": "Y", 
-  "Title": "Druk funkcionalny", 
-  "DateAcquired": "1999-12-10", 
+  "CreditLine": "Jan Tschichold Collection, Gift of Philip Johnson", 
   "Date": "Unknown", 
   "ArtistID": 5700, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "980.1999", 
-  "ArtistBio": "Polish, born Belorussia (now Belarus). 1893\u20131952", 
-  "CreditLine": "Jan Tschichold Collection, Gift of Philip Johnson", 
+  "ArtistBio": "(Polish, born Belorussia (now Belarus). 1893\u20131952)", 
+  "DateAcquired": "1999-12-10", 
+  "\ufeffTitle": "Druk funkcionalny", 
   "ObjectID": "8454"
 }

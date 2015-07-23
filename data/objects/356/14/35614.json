@@ -5,8 +5,7 @@
   "Artist": "George Condo", 
   "URL": "http://www.moma.org/collection/works/35614", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1990-05-08", 
+  "CreditLine": "Gift of Charles B. Benenson", 
   "Date": "1989", 
   "ArtistID": 1210, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "252.1990", 
-  "ArtistBio": "American, born 1957", 
-  "CreditLine": "Gift of Charles B. Benenson", 
+  "ArtistBio": "(American, born 1957)", 
+  "DateAcquired": "1990-05-08", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "35614"
 }

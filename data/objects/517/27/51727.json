@@ -5,8 +5,7 @@
   "Artist": "Anne W. Brigman", 
   "URL": "http://www.moma.org/collection/works/51727", 
   "CuratorApproved": "Y", 
-  "Title": "Light", 
-  "DateAcquired": "1961-11-08", 
+  "CreditLine": "Gift of Mrs. B. S. Sexton in memory of her sister, Margaret DeM. Brown", 
   "Date": "c. 1912, possibly", 
   "ArtistID": 777, 
   "Keywords": [
@@ -20,7 +19,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "360.1961", 
-  "ArtistBio": "American, born Hawaii. 1869\u20131950", 
-  "CreditLine": "Gift of Mrs. B. S. Sexton in memory of her sister, Margaret DeM. Brown", 
+  "ArtistBio": "(American, born Hawaii. 1869\u20131950)", 
+  "DateAcquired": "1961-11-08", 
+  "\ufeffTitle": "Light", 
   "ObjectID": "51727"
 }

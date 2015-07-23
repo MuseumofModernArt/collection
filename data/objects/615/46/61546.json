@@ -5,8 +5,7 @@
   "Artist": "Antonio Frasconi", 
   "URL": "http://www.moma.org/collection/works/61546", 
   "CuratorApproved": "Y", 
-  "Title": "Day and Night", 
-  "DateAcquired": "1956-03-19", 
+  "CreditLine": "Gift of Monroe Wheeler", 
   "Date": "1952", 
   "ArtistID": 1975, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "82.1956", 
-  "ArtistBio": "American, born Argentina. 1919\u20132013", 
-  "CreditLine": "Gift of Monroe Wheeler", 
+  "ArtistBio": "(American, born Argentina. 1919\u20132013)", 
+  "DateAcquired": "1956-03-19", 
+  "\ufeffTitle": "Day and Night", 
   "ObjectID": "61546"
 }

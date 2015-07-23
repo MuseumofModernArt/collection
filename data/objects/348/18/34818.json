@@ -5,8 +5,7 @@
   "Artist": "Andy Warhol", 
   "URL": "http://www.moma.org/collection/works/34818", 
   "CuratorApproved": "Y", 
-  "Title": "Roll of Bills", 
-  "DateAcquired": "1984-04-17", 
+  "CreditLine": "Purchase", 
   "Date": "(1962)", 
   "ArtistID": 6246, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "151.1984", 
-  "ArtistBio": "American, 1928\u20131987", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, 1928\u20131987)", 
+  "DateAcquired": "1984-04-17", 
+  "\ufeffTitle": "Roll of Bills", 
   "ObjectID": "34818"
 }

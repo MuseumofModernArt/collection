@@ -5,8 +5,7 @@
   "Artist": "A. Bisquert", 
   "URL": "http://www.moma.org/collection/works/5786", 
   "CuratorApproved": "Y", 
-  "Title": "\u00a1Por el Orden Repbulicano! Respetad la Propriedad de los Comerciantes e Industriales", 
-  "DateAcquired": "1937-12-03", 
+  "CreditLine": "Purchase", 
   "Date": "1937", 
   "ArtistID": 572, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "236.1937", 
-  "ArtistBio": "Spanish", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(Spanish)", 
+  "DateAcquired": "1937-12-03", 
+  "\ufeffTitle": "\u00a1Por el Orden Repbulicano! Respetad la Propriedad de los Comerciantes e Industriales", 
   "ObjectID": "5786"
 }

@@ -5,8 +5,7 @@
   "Artist": "Christian Rohlfs", 
   "URL": "http://www.moma.org/collection/works/62096", 
   "CuratorApproved": "Y", 
-  "Title": "Man with Pipe", 
-  "DateAcquired": "1955-04-06", 
+  "CreditLine": "Purchase", 
   "Date": "(c. 1921-22)", 
   "ArtistID": 5000, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "116.1955", 
-  "ArtistBio": "German, 1849\u20131938", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(German, 1849\u20131938)", 
+  "DateAcquired": "1955-04-06", 
+  "\ufeffTitle": "Man with Pipe (Mann mit Pfeife)", 
   "ObjectID": "62096"
 }

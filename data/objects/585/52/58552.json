@@ -5,8 +5,7 @@
   "Artist": "Neal Boenzi/The New York Times", 
   "URL": "http://www.moma.org/collection/works/58552", 
   "CuratorApproved": "Y", 
-  "Title": "Harlem Streetlight Demonstration", 
-  "DateAcquired": "2001-06-14", 
+  "CreditLine": "The New York Times Collection", 
   "Date": "May 20, 1964", 
   "ArtistID": 8512, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "1959.2001", 
-  "ArtistBio": "American, born 1925", 
-  "CreditLine": "The New York Times Collection", 
+  "ArtistBio": "(American, born 1925)", 
+  "DateAcquired": "2001-06-14", 
+  "\ufeffTitle": "Harlem Streetlight Demonstration", 
   "ObjectID": "58552"
 }

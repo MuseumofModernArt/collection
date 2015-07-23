@@ -5,8 +5,7 @@
   "Artist": "Lovis Corinth", 
   "URL": "http://www.moma.org/collection/works/23541", 
   "CuratorApproved": "Y", 
-  "Title": "Judith in the Tent of Holofernes (in-text plate, folio 23) from Das Buch Judith (The Book of Judith)  ", 
-  "DateAcquired": "1964-10-06", 
+  "CreditLine": "", 
   "Date": "1910", 
   "ArtistID": 1243, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "766.1964.13", 
-  "ArtistBio": "German, 1858\u20131925", 
-  "CreditLine": "NULL", 
+  "ArtistBio": "(German, 1858\u20131925)", 
+  "DateAcquired": "1964-10-06", 
+  "\ufeffTitle": "Judith in the Tent of Holofernes (Judith im Zelte des Holofernes) (in-text plate, folio 23) from Das Buch Judith (The Book of Judith)", 
   "ObjectID": "23541"
 }

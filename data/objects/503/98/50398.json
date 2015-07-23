@@ -5,8 +5,7 @@
   "Artist": "Thomas Annan", 
   "URL": "http://www.moma.org/collection/works/50398", 
   "CuratorApproved": "Y", 
-  "Title": "Corner of Duke Street and High Street", 
-  "DateAcquired": "NULL", 
+  "CreditLine": "Purchase", 
   "Date": "1897", 
   "ArtistID": 190, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "308.1975.39", 
-  "ArtistBio": "British, 1829\u20131887", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(British, 1829\u20131887)", 
+  "DateAcquired": "", 
+  "\ufeffTitle": "Corner of Duke Street and High Street", 
   "ObjectID": "50398"
 }

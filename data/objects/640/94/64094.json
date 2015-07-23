@@ -1,12 +1,11 @@
 {
   "Medium": "Lithograph", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "Mario Merz", 
   "URL": "http://www.moma.org/collection/works/64094", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled 2", 
-  "DateAcquired": "1986-05-20", 
+  "CreditLine": "Walter Bareiss Fund", 
   "Date": "(1985)", 
   "ArtistID": 3941, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "190.1986", 
-  "ArtistBio": "Italian, 1925\u20132003", 
-  "CreditLine": "Walter Bareiss Fund", 
+  "ArtistBio": "(Italian, 1925\u20132003)", 
+  "DateAcquired": "1986-05-20", 
+  "\ufeffTitle": "Untitled 2", 
   "ObjectID": "64094"
 }

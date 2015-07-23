@@ -5,8 +5,7 @@
   "Artist": "Constantin Brancusi", 
   "URL": "http://www.moma.org/collection/works/32964", 
   "CuratorApproved": "Y", 
-  "Title": "Study related to \"The First Step\"", 
-  "DateAcquired": "1956-01-23", 
+  "CreditLine": "Benjamin Scharps and David Scharps Fund", 
   "Date": "(1913)", 
   "ArtistID": 738, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "1.1956", 
-  "ArtistBio": "French, born Romania. 1876\u20131957", 
-  "CreditLine": "Benjamin Scharps and David Scharps Fund", 
+  "ArtistBio": "(French, born Romania. 1876\u20131957)", 
+  "DateAcquired": "1956-01-23", 
+  "\ufeffTitle": "Study related to \"The First Step\"", 
   "ObjectID": "32964"
 }

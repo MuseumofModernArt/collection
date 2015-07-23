@@ -1,12 +1,11 @@
 {
   "Medium": "Illustrated Book with 24 drypoints and 1 woodcut (front cover)", 
-  "Dimensions": "page  13 1/4 x 8 7/8\" (33 x 22.5 cm)  Prints:  various dimensions.", 
+  "Dimensions": "page  13 1/4 x 8 7/8\" (33 x 22.5 cm)\r\nPrints:  various dimensions.", 
   "Classification": "Illustrated Book", 
   "Artist": "Georg Baselitz", 
   "URL": "http://www.moma.org/collection/works/10028", 
   "CuratorApproved": "Y", 
-  "Title": "Bing", 
-  "DateAcquired": "1993-01-18", 
+  "CreditLine": "Riva Castleman Fund", 
   "Date": "(1991)", 
   "ArtistID": 366, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "28.1993.1-25", 
-  "ArtistBio": "German, born 1938", 
-  "CreditLine": "Riva Castleman Fund", 
+  "ArtistBio": "(German, born 1938)", 
+  "DateAcquired": "1993-01-18", 
+  "\ufeffTitle": "Bing", 
   "ObjectID": "10028"
 }

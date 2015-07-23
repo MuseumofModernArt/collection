@@ -5,8 +5,7 @@
   "Artist": "Adolpho Wildt", 
   "URL": "http://www.moma.org/collection/works/36194", 
   "CuratorApproved": "Y", 
-  "Title": "The Shadow", 
-  "DateAcquired": "1978-04-04", 
+  "CreditLine": "Gift in honor of Myron Orlofsky", 
   "Date": "(1913)", 
   "ArtistID": 6367, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "310.1978", 
-  "ArtistBio": "Italian, 1868\u20131931", 
-  "CreditLine": "Gift in honor of Myron Orlofsky", 
+  "ArtistBio": "(Italian, 1868\u20131931)", 
+  "DateAcquired": "1978-04-04", 
+  "\ufeffTitle": "The Shadow", 
   "ObjectID": "36194"
 }

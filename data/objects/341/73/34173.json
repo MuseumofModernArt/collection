@@ -5,8 +5,7 @@
   "Artist": "Walasse Ting", 
   "URL": "http://www.moma.org/collection/works/34173", 
   "CuratorApproved": "Y", 
-  "Title": "Two Insects", 
-  "DateAcquired": "1963-02-13", 
+  "CreditLine": "Larry Aldrich Foundation Fund", 
   "Date": "(1963)", 
   "ArtistID": 5881, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "120.1963", 
-  "ArtistBio": "American, 1929\u20132010", 
-  "CreditLine": "Larry Aldrich Foundation Fund", 
+  "ArtistBio": "(American, 1929\u20132010)", 
+  "DateAcquired": "1963-02-13", 
+  "\ufeffTitle": "Two Insects", 
   "ObjectID": "34173"
 }

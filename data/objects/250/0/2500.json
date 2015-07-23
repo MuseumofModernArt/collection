@@ -5,8 +5,7 @@
   "Artist": "Dieter Rams", 
   "URL": "http://www.moma.org/collection/works/2500", 
   "CuratorApproved": "Y", 
-  "Title": "Portable Transistor Radio and Phonograph (model TP 1)", 
-  "DateAcquired": "1963-02-13", 
+  "CreditLine": "Gift of the manufacturer", 
   "Date": "1959", 
   "ArtistID": 8451, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "136.1963.a-c", 
-  "ArtistBio": "German, born 1932", 
-  "CreditLine": "Gift of the manufacturer", 
+  "ArtistBio": "(German, born 1932)", 
+  "DateAcquired": "1963-02-13", 
+  "\ufeffTitle": "Portable Transistor Radio and Phonograph (model TP 1)", 
   "ObjectID": "2500"
 }

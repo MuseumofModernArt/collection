@@ -5,8 +5,7 @@
   "Artist": "Lee Friedlander", 
   "URL": "http://www.moma.org/collection/works/56957", 
   "CuratorApproved": "Y", 
-  "Title": "Cincinnati, Ohio", 
-  "DateAcquired": "1965-11-09", 
+  "CreditLine": "Purchase", 
   "Date": "1963", 
   "ArtistID": 2002, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "851.1965", 
-  "ArtistBio": "American, born 1934", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, born 1934)", 
+  "DateAcquired": "1965-11-09", 
+  "\ufeffTitle": "Cincinnati, Ohio", 
   "ObjectID": "56957"
 }

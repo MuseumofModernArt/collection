@@ -5,8 +5,7 @@
   "Artist": "Nathan Lyons", 
   "URL": "http://www.moma.org/collection/works/54161", 
   "CuratorApproved": "Y", 
-  "Title": "Water heater, Rochester, New York", 
-  "DateAcquired": "1960-11-30", 
+  "CreditLine": "Purchase", 
   "Date": "1959", 
   "ArtistID": 3652, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "482.1960", 
-  "ArtistBio": "American, born 1930", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, born 1930)", 
+  "DateAcquired": "1960-11-30", 
+  "\ufeffTitle": "Water heater, Rochester, New York", 
   "ObjectID": "54161"
 }

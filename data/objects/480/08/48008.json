@@ -5,8 +5,7 @@
   "Artist": "Joseph Breitenbach", 
   "URL": "http://www.moma.org/collection/works/48008", 
   "CuratorApproved": "Y", 
-  "Title": "Aristide Maillol, Marly-le-Roi", 
-  "DateAcquired": "1981-05-14", 
+  "CreditLine": "Gift of Arthur M. Bullowa", 
   "Date": "1935", 
   "ArtistID": 762, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "187.1981.4", 
-  "ArtistBio": "American, born Germany. 1896\u20131984", 
-  "CreditLine": "Gift of Arthur M. Bullowa", 
+  "ArtistBio": "(American, born Germany. 1896\u20131984)", 
+  "DateAcquired": "1981-05-14", 
+  "\ufeffTitle": "Aristide Maillol, Marly-le-Roi", 
   "ObjectID": "48008"
 }

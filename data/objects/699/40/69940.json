@@ -5,8 +5,7 @@
   "Artist": "Helen Frankenthaler", 
   "URL": "http://www.moma.org/collection/works/69940", 
   "CuratorApproved": "Y", 
-  "Title": "Lot's Wife", 
-  "DateAcquired": "1971-10-07", 
+  "CreditLine": "Gift of Celeste Bartos", 
   "Date": "1971", 
   "ArtistID": 1974, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "484.1971.a-c", 
-  "ArtistBio": "American, 1928\u20132011", 
-  "CreditLine": "Gift of Celeste Bartos", 
+  "ArtistBio": "(American, 1928\u20132011)", 
+  "DateAcquired": "1971-10-07", 
+  "\ufeffTitle": "Lot's Wife", 
   "ObjectID": "69940"
 }

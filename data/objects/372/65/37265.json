@@ -5,8 +5,7 @@
   "Artist": "Lyubov Popova", 
   "URL": "http://www.moma.org/collection/works/37265", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1977-11-02", 
+  "CreditLine": "Gift of Mr. and Mrs. Richard Deutsch", 
   "Date": "(1917)", 
   "ArtistID": 4694, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "514.1977", 
-  "ArtistBio": "Russian, 1889\u20131924", 
-  "CreditLine": "Gift of Mr. and Mrs. Richard Deutsch", 
+  "ArtistBio": "(Russian, 1889\u20131924)", 
+  "DateAcquired": "1977-11-02", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "37265"
 }

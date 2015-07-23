@@ -5,8 +5,7 @@
   "Artist": "Nell Blaine", 
   "URL": "http://www.moma.org/collection/works/11772", 
   "CuratorApproved": "Y", 
-  "Title": "Front cover from Poems", 
-  "DateAcquired": "1989-05-30", 
+  "CreditLine": "John B. Turner Fund", 
   "Date": "1947-53", 
   "ArtistID": 589, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "147.1989.10", 
-  "ArtistBio": "American,1922-1996", 
-  "CreditLine": "John B. Turner Fund", 
+  "ArtistBio": "(American,1922\u20131996)", 
+  "DateAcquired": "1989-05-30", 
+  "\ufeffTitle": "Front cover from Poems", 
   "ObjectID": "11772"
 }

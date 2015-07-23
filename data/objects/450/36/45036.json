@@ -5,8 +5,7 @@
   "Artist": "John Edward Devine", 
   "URL": "http://www.moma.org/collection/works/45036", 
   "CuratorApproved": "Y", 
-  "Title": "Jan", 
-  "DateAcquired": "1979-02-15", 
+  "CreditLine": "The Family of Man Fund", 
   "Date": "1978", 
   "ArtistID": 1518, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "53.1979", 
-  "ArtistBio": "American, born 1944", 
-  "CreditLine": "The Family of Man Fund", 
+  "ArtistBio": "(American, born 1944)", 
+  "DateAcquired": "1979-02-15", 
+  "\ufeffTitle": "Jan", 
   "ObjectID": "45036"
 }

@@ -5,8 +5,7 @@
   "Artist": "John Cage", 
   "URL": "http://www.moma.org/collection/works/62212", 
   "CuratorApproved": "Y", 
-  "Title": "No. 30 from Changes + Disappearances", 
-  "DateAcquired": "1987-05-14", 
+  "CreditLine": "Gift of Crown Point Press in celebration of its 25th anniversary", 
   "Date": "1982", 
   "ArtistID": 912, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "121.1987", 
-  "ArtistBio": "American, 1912\u20131992", 
-  "CreditLine": "Gift of Crown Point Press in celebration of its 25th anniversary", 
+  "ArtistBio": "(American, 1912\u20131992)", 
+  "DateAcquired": "1987-05-14", 
+  "\ufeffTitle": "No. 30 from Changes + Disappearances", 
   "ObjectID": "62212"
 }

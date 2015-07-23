@@ -5,8 +5,7 @@
   "Artist": "Alfred Stieglitz", 
   "URL": "http://www.moma.org/collection/works/55687", 
   "CuratorApproved": "Y", 
-  "Title": "Brancusi Exhibition at \"291\"", 
-  "DateAcquired": "1941-12-10", 
+  "CreditLine": "Gift of Charles Sheeler", 
   "Date": "1914", 
   "ArtistID": 5664, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "630.1941", 
-  "ArtistBio": "American, 1864\u20131946", 
-  "CreditLine": "Gift of Charles Sheeler", 
+  "ArtistBio": "(American, 1864\u20131946)", 
+  "DateAcquired": "1941-12-10", 
+  "\ufeffTitle": "Brancusi Exhibition at \"291\"", 
   "ObjectID": "55687"
 }

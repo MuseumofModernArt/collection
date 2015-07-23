@@ -5,8 +5,7 @@
   "Artist": "Barbara Morgan", 
   "URL": "http://www.moma.org/collection/works/52304", 
   "CuratorApproved": "Y", 
-  "Title": "Pure Energy and Neurotic Man", 
-  "DateAcquired": "1972-11-21", 
+  "CreditLine": "Gift of the artist", 
   "Date": "1941", 
   "ArtistID": 4089, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "386.1972", 
-  "ArtistBio": "American, 1900\u20131992", 
-  "CreditLine": "Gift of the artist", 
+  "ArtistBio": "(American, 1900\u20131992)", 
+  "DateAcquired": "1972-11-21", 
+  "\ufeffTitle": "Pure Energy and Neurotic Man", 
   "ObjectID": "52304"
 }

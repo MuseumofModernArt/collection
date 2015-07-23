@@ -5,8 +5,7 @@
   "Artist": "Koichi Sato", 
   "URL": "http://www.moma.org/collection/works/7784", 
   "CuratorApproved": "Y", 
-  "Title": "Soap Bubbles Floated, They Floated Into Outer Space", 
-  "DateAcquired": "1990-10-24", 
+  "CreditLine": "Gift of the designer", 
   "Date": "1989", 
   "ArtistID": 5173, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "624.1990", 
-  "ArtistBio": "Japanese, born 1944", 
-  "CreditLine": "Gift of the designer", 
+  "ArtistBio": "(Japanese, born 1944)", 
+  "DateAcquired": "1990-10-24", 
+  "\ufeffTitle": "Soap Bubbles Floated, They Floated Into Outer Space", 
   "ObjectID": "7784"
 }

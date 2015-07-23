@@ -5,8 +5,7 @@
   "Artist": "Stephen Armellino", 
   "URL": "http://www.moma.org/collection/works/2185", 
   "CuratorApproved": "Y", 
-  "Title": "Bullet-Resistant Mask", 
-  "DateAcquired": "1992-01-15", 
+  "CreditLine": "Gift of the manufacturer", 
   "Date": "1983", 
   "ArtistID": 6958, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "116.1992", 
-  "ArtistBio": "American, born 1955", 
-  "CreditLine": "Gift of the manufacturer", 
+  "ArtistBio": "(American, born 1955)", 
+  "DateAcquired": "1992-01-15", 
+  "\ufeffTitle": "Bullet-Resistant Mask", 
   "ObjectID": "2185"
 }

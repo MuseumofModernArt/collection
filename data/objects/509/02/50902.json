@@ -5,8 +5,7 @@
   "Artist": "Alfred Stieglitz", 
   "URL": "http://www.moma.org/collection/works/50902", 
   "CuratorApproved": "Y", 
-  "Title": "Car 2F-77-77", 
-  "DateAcquired": "1942-12-29", 
+  "CreditLine": "Given anonymously", 
   "Date": "1935", 
   "ArtistID": 5664, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "328.1942", 
-  "ArtistBio": "American, 1864\u20131946", 
-  "CreditLine": "Given anonymously", 
+  "ArtistBio": "(American, 1864\u20131946)", 
+  "DateAcquired": "1942-12-29", 
+  "\ufeffTitle": "Car 2F-77-77", 
   "ObjectID": "50902"
 }

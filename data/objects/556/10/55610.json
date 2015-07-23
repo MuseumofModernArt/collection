@@ -5,8 +5,7 @@
   "Artist": "Wynn Bullock", 
   "URL": "http://www.moma.org/collection/works/55610", 
   "CuratorApproved": "Y", 
-  "Title": "Nude in Dead Forest", 
-  "DateAcquired": "1976-12-08", 
+  "CreditLine": "Purchase", 
   "Date": "1954", 
   "ArtistID": 861, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "616.1976", 
-  "ArtistBio": "American, 1902\u20131975", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, 1902\u20131975)", 
+  "DateAcquired": "1976-12-08", 
+  "\ufeffTitle": "Nude in Dead Forest", 
   "ObjectID": "55610"
 }

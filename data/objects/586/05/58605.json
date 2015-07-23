@@ -5,8 +5,7 @@
   "Artist": "Eddie Hausner/The New York Times", 
   "URL": "http://www.moma.org/collection/works/58605", 
   "CuratorApproved": "Y", 
-  "Title": "Mystery Surrounds Interview Here on Stern Group", 
-  "DateAcquired": "2001-06-14", 
+  "CreditLine": "The New York Times Collection", 
   "Date": "July 13, 1947", 
   "ArtistID": 8551, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "2012.2001", 
-  "ArtistBio": "American, born 1926", 
-  "CreditLine": "The New York Times Collection", 
+  "ArtistBio": "(American, born 1926)", 
+  "DateAcquired": "2001-06-14", 
+  "\ufeffTitle": "Mystery Surrounds Interview Here on Stern Group", 
   "ObjectID": "58605"
 }

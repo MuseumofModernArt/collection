@@ -5,8 +5,7 @@
   "Artist": "Tina Barney", 
   "URL": "http://www.moma.org/collection/works/50426", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1997-06-12", 
+  "CreditLine": "Gift of Ken Kuchin", 
   "Date": "1996", 
   "ArtistID": 343, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "308.1997.x1-x2", 
-  "ArtistBio": "American, born 1945", 
-  "CreditLine": "Gift of Ken Kuchin", 
+  "ArtistBio": "(American, born 1945)", 
+  "DateAcquired": "1997-06-12", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "50426"
 }

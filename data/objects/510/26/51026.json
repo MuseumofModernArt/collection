@@ -5,8 +5,7 @@
   "Artist": "Emmet Gowin", 
   "URL": "http://www.moma.org/collection/works/51026", 
   "CuratorApproved": "Y", 
-  "Title": "Danville, Virginia", 
-  "DateAcquired": "1974-06-04", 
+  "CreditLine": "David H. McAlpin Fund", 
   "Date": "1973", 
   "ArtistID": 2273, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "333.1974", 
-  "ArtistBio": "American, born 1941", 
-  "CreditLine": "David H. McAlpin Fund", 
+  "ArtistBio": "(American, born 1941)", 
+  "DateAcquired": "1974-06-04", 
+  "\ufeffTitle": "Danville, Virginia", 
   "ObjectID": "51026"
 }

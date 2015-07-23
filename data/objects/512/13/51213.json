@@ -5,8 +5,7 @@
   "Artist": "Mark Steinmetz", 
   "URL": "http://www.moma.org/collection/works/51213", 
   "CuratorApproved": "Y", 
-  "Title": "Athens, Georgia", 
-  "DateAcquired": "1997-06-12", 
+  "CreditLine": "E.T. Harmax Foundation Fund", 
   "Date": "1996", 
   "ArtistID": 5636, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "338.1997", 
-  "ArtistBio": "American, born 1961", 
-  "CreditLine": "E.T. Harmax Foundation Fund", 
+  "ArtistBio": "(American, born 1961)", 
+  "DateAcquired": "1997-06-12", 
+  "\ufeffTitle": "Athens, Georgia", 
   "ObjectID": "51213"
 }

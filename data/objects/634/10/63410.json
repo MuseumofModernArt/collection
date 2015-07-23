@@ -1,12 +1,11 @@
 {
   "Medium": "Screenprint", 
-  "Dimensions": "composition  33 3/8 x 23\" (84.8 x 58.5 cm)  sheet  34 15/16 x 23 1/16\" (88 x 58.6 cm)", 
+  "Dimensions": "composition  33 3/8 x 23\" (84.8 x 58.5 cm)\r\nsheet  34 15/16 x 23 1/16\" (88 x 58.6 cm)", 
   "Classification": "Print", 
   "Artist": "Luis Cruz Azaceta", 
   "URL": "http://www.moma.org/collection/works/63410", 
   "CuratorApproved": "Y", 
-  "Title": "Oppression III", 
-  "DateAcquired": "1988-05-04", 
+  "CreditLine": "Purchase", 
   "Date": "1987", 
   "ArtistID": 259, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "165.1988", 
-  "ArtistBio": "American, born 1942", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, born 1942)", 
+  "DateAcquired": "1988-05-04", 
+  "\ufeffTitle": "Oppression III", 
   "ObjectID": "63410"
 }

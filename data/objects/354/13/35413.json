@@ -5,8 +5,7 @@
   "Artist": "Rosemarie Trockel", 
   "URL": "http://www.moma.org/collection/works/35413", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1986-02-27", 
+  "CreditLine": "Gift of Walter Bareiss", 
   "Date": "1983", 
   "ArtistID": 5933, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "229.1986", 
-  "ArtistBio": "German, born 1952", 
-  "CreditLine": "Gift of Walter Bareiss", 
+  "ArtistBio": "(German, born 1952)", 
+  "DateAcquired": "1986-02-27", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "35413"
 }

@@ -5,8 +5,7 @@
   "Artist": "Anthony Barboza", 
   "URL": "http://www.moma.org/collection/works/52458", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1974-10-01", 
+  "CreditLine": "Purchase", 
   "Date": "1973", 
   "ArtistID": 327, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "393.1974", 
-  "ArtistBio": "American, born 1944", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, born 1944)", 
+  "DateAcquired": "1974-10-01", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "52458"
 }

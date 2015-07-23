@@ -5,8 +5,7 @@
   "Artist": "Bangs Studio", 
   "URL": "http://www.moma.org/collection/works/58544", 
   "CuratorApproved": "Y", 
-  "Title": "D. W. Griffith", 
-  "DateAcquired": "2001-06-14", 
+  "CreditLine": "The New York Times Collection", 
   "Date": "1919", 
   "ArtistID": 8509, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "1951.2001", 
-  "ArtistBio": "NULL", 
-  "CreditLine": "The New York Times Collection", 
+  "ArtistBio": "", 
+  "DateAcquired": "2001-06-14", 
+  "\ufeffTitle": "D. W. Griffith", 
   "ObjectID": "58544"
 }

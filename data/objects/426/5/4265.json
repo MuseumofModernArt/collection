@@ -5,8 +5,7 @@
   "Artist": "Antti Nurmesniemi", 
   "URL": "http://www.moma.org/collection/works/4265", 
   "CuratorApproved": "Y", 
-  "Title": "Coffeepot", 
-  "DateAcquired": "1990-10-24", 
+  "CreditLine": "Gift of the Museum of Applied Arts, England", 
   "Date": "1957", 
   "ArtistID": 6613, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "506.1990", 
-  "ArtistBio": "Finnish, 1927\u20132003", 
-  "CreditLine": "Gift of the Museum of Applied Arts, England", 
+  "ArtistBio": "(Finnish, 1927\u20132003)", 
+  "DateAcquired": "1990-10-24", 
+  "\ufeffTitle": "Coffeepot", 
   "ObjectID": "4265"
 }

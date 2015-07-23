@@ -5,8 +5,7 @@
   "Artist": "Catherine Murphy", 
   "URL": "http://www.moma.org/collection/works/37740", 
   "CuratorApproved": "Y", 
-  "Title": "Winter in the Country", 
-  "DateAcquired": "1988-02-19", 
+  "CreditLine": "Gift of Patricia and Henry Tang in memory of Xavier Fourcade", 
   "Date": "(1979)", 
   "ArtistID": 4180, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "656.1987", 
-  "ArtistBio": "American, born 1946", 
-  "CreditLine": "Gift of Patricia and Henry Tang in memory of Xavier Fourcade", 
+  "ArtistBio": "(American, born 1946)", 
+  "DateAcquired": "1988-02-19", 
+  "\ufeffTitle": "Winter in the Country", 
   "ObjectID": "37740"
 }

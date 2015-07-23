@@ -5,8 +5,7 @@
   "Artist": "Pablo Picasso", 
   "URL": "http://www.moma.org/collection/works/68056", 
   "CuratorApproved": "Y", 
-  "Title": "The Vintagers (Les Vendangeurs)", 
-  "DateAcquired": "1962-12-11", 
+  "CreditLine": "Gift of Mr. and Mrs. Daniel Saidenberg", 
   "Date": "(1959)", 
   "ArtistID": 4609, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "377.1962", 
-  "ArtistBio": "Spanish, 1881\u20131973", 
-  "CreditLine": "Gift of Mr. and Mrs. Daniel Saidenberg", 
+  "ArtistBio": "(Spanish, 1881\u20131973)", 
+  "DateAcquired": "1962-12-11", 
+  "\ufeffTitle": "The Vintagers (Les Vendangeurs)", 
   "ObjectID": "68056"
 }

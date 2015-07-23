@@ -5,8 +5,7 @@
   "Artist": "Ben Shahn", 
   "URL": "http://www.moma.org/collection/works/33420", 
   "CuratorApproved": "Y", 
-  "Title": "Monroe Wheeler", 
-  "DateAcquired": "1960-04-06", 
+  "CreditLine": "Gift of Monroe Wheeler", 
   "Date": "(1952)", 
   "ArtistID": 5366, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "34.1960", 
-  "ArtistBio": "American, born Lithuania. 1898\u20131969", 
-  "CreditLine": "Gift of Monroe Wheeler", 
+  "ArtistBio": "(American, born Lithuania. 1898\u20131969)", 
+  "DateAcquired": "1960-04-06", 
+  "\ufeffTitle": "Monroe Wheeler", 
   "ObjectID": "33420"
 }

@@ -5,8 +5,7 @@
   "Artist": "Alison Saar", 
   "URL": "http://www.moma.org/collection/works/66470", 
   "CuratorApproved": "Y", 
-  "Title": "Stride Piano", 
-  "DateAcquired": "1994-05-26", 
+  "CreditLine": "Gift of Business Committee for the Arts, Inc.", 
   "Date": "1993", 
   "ArtistID": 7067, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "302.1994", 
-  "ArtistBio": "American, born 1956", 
-  "CreditLine": "Gift of Business Committee for the Arts, Inc.", 
+  "ArtistBio": "(American, born 1956)", 
+  "DateAcquired": "1994-05-26", 
+  "\ufeffTitle": "Stride Piano", 
   "ObjectID": "66470"
 }

@@ -1,12 +1,11 @@
 {
   "Medium": "Illustrated book with 1 etching", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Illustrated Book", 
   "Artist": "Milton Avery", 
   "URL": "http://www.moma.org/collection/works/22041", 
   "CuratorApproved": "Y", 
-  "Title": "Milton Avery: Paintings 1930-1960", 
-  "DateAcquired": "1996-11-12", 
+  "CreditLine": "Gift of Susan Merians", 
   "Date": "1962", 
   "ArtistID": 250, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "710.1996", 
-  "ArtistBio": "American, 1885\u20131965", 
-  "CreditLine": "Gift of Susan Merians", 
+  "ArtistBio": "(American, 1885\u20131965)", 
+  "DateAcquired": "1996-11-12", 
+  "\ufeffTitle": "Milton Avery: Paintings 1930-1960", 
   "ObjectID": "22041"
 }

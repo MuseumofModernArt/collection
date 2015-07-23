@@ -1,12 +1,11 @@
 {
   "Medium": "Aquatint", 
-  "Dimensions": "plate  27 1/16 x 41 11/16\" (68.7 x 105.9 cm)  sheet  32 13/16 x 47 1/4\" (83 x 120 cm)", 
+  "Dimensions": "plate  27 1/16 x 41 11/16\" (68.7 x 105.9 cm)\r\nsheet  32 13/16 x 47 1/4\" (83 x 120 cm)", 
   "Classification": "Print", 
   "Artist": "Mel Bochner", 
   "URL": "http://www.moma.org/collection/works/69423", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1992-11-04", 
+  "CreditLine": "Gift of Mrs. Donald B. Straus", 
   "Date": "1989", 
   "ArtistID": 625, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "457.1992", 
-  "ArtistBio": "American, born 1940", 
-  "CreditLine": "Gift of Mrs. Donald B. Straus", 
+  "ArtistBio": "(American, born 1940)", 
+  "DateAcquired": "1992-11-04", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "69423"
 }

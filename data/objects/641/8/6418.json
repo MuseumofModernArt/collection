@@ -5,8 +5,7 @@
   "Artist": "Unknown Artist", 
   "URL": "http://www.moma.org/collection/works/6418", 
   "CuratorApproved": "Y", 
-  "Title": "Sto Let Statni Tiskarny", 
-  "DateAcquired": "1953-04-07", 
+  "CreditLine": "Gift of Czechoslovak Information Office", 
   "Date": "1948", 
   "ArtistID": 6026, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "347.1953", 
-  "ArtistBio": "Nationality Unknown", 
-  "CreditLine": "Gift of Czechoslovak Information Office", 
+  "ArtistBio": "(Nationality Unknown)", 
+  "DateAcquired": "1953-04-07", 
+  "\ufeffTitle": "Sto Let Statni Tiskarny", 
   "ObjectID": "6418"
 }

@@ -5,8 +5,7 @@
   "Artist": "Tom Levine", 
   "URL": "http://www.moma.org/collection/works/35267", 
   "CuratorApproved": "Y", 
-  "Title": "Opus 67 No. 1", 
-  "DateAcquired": "1988-05-05", 
+  "CreditLine": "Gift of the artist in memory of Jack Boulton", 
   "Date": "1987", 
   "ArtistID": 3516, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "210.1988", 
-  "ArtistBio": "American, born 1945", 
-  "CreditLine": "Gift of the artist in memory of Jack Boulton", 
+  "ArtistBio": "(American, born 1945)", 
+  "DateAcquired": "1988-05-05", 
+  "\ufeffTitle": "Opus 67 No. 1", 
   "ObjectID": "35267"
 }

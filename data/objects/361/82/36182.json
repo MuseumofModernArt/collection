@@ -5,8 +5,7 @@
   "Artist": "Anselm Kiefer", 
   "URL": "http://www.moma.org/collection/works/36182", 
   "CuratorApproved": "Y", 
-  "Title": "Birth of Painting (Nascita della Pittura)", 
-  "DateAcquired": "1983-03-15", 
+  "CreditLine": "Purchase", 
   "Date": "(1981)", 
   "ArtistID": 3086, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "308.1983", 
-  "ArtistBio": "German, born 1945", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(German, born 1945)", 
+  "DateAcquired": "1983-03-15", 
+  "\ufeffTitle": "Birth of Painting (Nascita della Pittura)", 
   "ObjectID": "36182"
 }

@@ -5,8 +5,7 @@
   "Artist": "Hans Hartung", 
   "URL": "http://www.moma.org/collection/works/62297", 
   "CuratorApproved": "Y", 
-  "Title": "Composition", 
-  "DateAcquired": "1949-03-24", 
+  "CreditLine": "Abby Aldrich Rockefeller Fund", 
   "Date": "1948", 
   "ArtistID": 2525, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "126.1949", 
-  "ArtistBio": "French, born Germany. 1904\u20131989", 
-  "CreditLine": "Abby Aldrich Rockefeller Fund", 
+  "ArtistBio": "(French, born Germany. 1904\u20131989)", 
+  "DateAcquired": "1949-03-24", 
+  "\ufeffTitle": "Composition", 
   "ObjectID": "62297"
 }

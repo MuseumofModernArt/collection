@@ -5,8 +5,7 @@
   "Artist": "Morris Zerner", 
   "URL": "http://www.moma.org/collection/works/3930", 
   "CuratorApproved": "Y", 
-  "Title": "Cigarette Cup", 
-  "DateAcquired": "1951-05-24", 
+  "CreditLine": "Gift of Georg Jensen, Inc.", 
   "Date": "Unknown", 
   "ArtistID": 6562, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "468.1951", 
-  "ArtistBio": "Austrian", 
-  "CreditLine": "Gift of Georg Jensen, Inc.", 
+  "ArtistBio": "(Austrian)", 
+  "DateAcquired": "1951-05-24", 
+  "\ufeffTitle": "Cigarette Cup", 
   "ObjectID": "3930"
 }

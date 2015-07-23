@@ -5,8 +5,7 @@
   "Artist": "Jean H\u00e9lion", 
   "URL": "http://www.moma.org/collection/works/9172", 
   "CuratorApproved": "Y", 
-  "Title": "Plate 10 (folio 23) from 23 Gravures", 
-  "DateAcquired": "1945-01-03", 
+  "CreditLine": "Purchase Fund", 
   "Date": "(1935).  (Print executed 1934).", 
   "ArtistID": 2586, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "14.1945.10", 
-  "ArtistBio": "French, 1904\u20131987", 
-  "CreditLine": "Purchase Fund", 
+  "ArtistBio": "(French, 1904\u20131987)", 
+  "DateAcquired": "1945-01-03", 
+  "\ufeffTitle": "Plate 10 from 23 Gravures", 
   "ObjectID": "9172"
 }

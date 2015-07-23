@@ -5,8 +5,7 @@
   "Artist": "Charles H. Breed", 
   "URL": "http://www.moma.org/collection/works/45128", 
   "CuratorApproved": "Y", 
-  "Title": "Henry Breed", 
-  "DateAcquired": "1986-01-15", 
+  "CreditLine": "Purchase", 
   "Date": "c. 1917", 
   "ArtistID": 757, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "56.1986", 
-  "ArtistBio": "American, 1876\u20131950", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, 1876\u20131950)", 
+  "DateAcquired": "1986-01-15", 
+  "\ufeffTitle": "Henry Breed", 
   "ObjectID": "45128"
 }

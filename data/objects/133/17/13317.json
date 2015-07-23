@@ -1,12 +1,11 @@
 {
   "Medium": "Artist's book", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Illustrated Book", 
   "Artist": "Waltercio Caldas", 
   "URL": "http://www.moma.org/collection/works/13317", 
   "CuratorApproved": "Y", 
-  "Title": "Velazquez", 
-  "DateAcquired": "1997-05-28", 
+  "CreditLine": "Gift of Lilian Tone", 
   "Date": "1996", 
   "ArtistID": 7615, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "199.1997", 
-  "ArtistBio": "Brazilian, born 1946", 
-  "CreditLine": "Gift of Lilian Tone", 
+  "ArtistBio": "(Brazilian, born 1946)", 
+  "DateAcquired": "1997-05-28", 
+  "\ufeffTitle": "Velazquez", 
   "ObjectID": "13317"
 }

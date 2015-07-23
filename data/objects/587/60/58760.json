@@ -5,8 +5,7 @@
   "Artist": "Times Wide World Photos", 
   "URL": "http://www.moma.org/collection/works/58760", 
   "CuratorApproved": "Y", 
-  "Title": "Chancellor Adolf Hilter Engaged in Earnest Conversation with Dr. Goebbles", 
-  "DateAcquired": "2001-06-14", 
+  "CreditLine": "The New York Times Collection", 
   "Date": "1934", 
   "ArtistID": 8632, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "2167.2001", 
-  "ArtistBio": "American, active 1919\u20131941", 
-  "CreditLine": "The New York Times Collection", 
+  "ArtistBio": "(American, active 1919\u20131941)", 
+  "DateAcquired": "2001-06-14", 
+  "\ufeffTitle": "\"Chancellor Adolf Hilter Engaged in Earnest Conversation with Dr. Goebbles\"", 
   "ObjectID": "58760"
 }

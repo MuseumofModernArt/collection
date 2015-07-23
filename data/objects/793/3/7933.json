@@ -5,8 +5,7 @@
   "Artist": "John (born Helmut Herzfelde) Heartfield", 
   "URL": "http://www.moma.org/collection/works/7933", 
   "CuratorApproved": "Y", 
-  "Title": "Neuer Lehrstuhl an den deutschen Universit\u00e4ten-V\u00f6lkische Tiefenschau", 
-  "DateAcquired": "1999-12-10", 
+  "CreditLine": "Jan Tschichold Collection, Gift of Philip Johnson", 
   "Date": "1933", 
   "ArtistID": 8233, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "687.1999", 
-  "ArtistBio": "German, 1891\u20131968", 
-  "CreditLine": "Jan Tschichold Collection, Gift of Philip Johnson", 
+  "ArtistBio": "(German, 1891\u20131968)", 
+  "DateAcquired": "1999-12-10", 
+  "\ufeffTitle": "Neuer Lehrstuhl an den deutschen Universit\u00e4ten-V\u00f6lkische Tiefenschau", 
   "ObjectID": "7933"
 }

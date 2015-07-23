@@ -1,12 +1,11 @@
 {
   "Medium": "Etching and monotype", 
-  "Dimensions": "plate  44 13/16 x 34 5/8\" (113.8 x 87.9 cm)  sheet  45 11/16 x 35 3/16\" (116 x 89.4 cm)", 
+  "Dimensions": "plate  44 13/16 x 34 5/8\" (113.8 x 87.9 cm)\r\nsheet  45 11/16 x 35 3/16\" (116 x 89.4 cm)", 
   "Classification": "Print", 
   "Artist": "Jim Dine", 
   "URL": "http://www.moma.org/collection/works/63230", 
   "CuratorApproved": "Y", 
-  "Title": "The Tree in Soot", 
-  "DateAcquired": "1981-05-06", 
+  "CreditLine": "John B. Turner Fund", 
   "Date": "1981", 
   "ArtistID": 1547, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "148.1981", 
-  "ArtistBio": "American, born 1935", 
-  "CreditLine": "John B. Turner Fund", 
+  "ArtistBio": "(American, born 1935)", 
+  "DateAcquired": "1981-05-06", 
+  "\ufeffTitle": "The Tree in Soot", 
   "ObjectID": "63230"
 }

@@ -5,8 +5,7 @@
   "Artist": "Bernard Tschumi", 
   "URL": "http://www.moma.org/collection/works/85", 
   "CuratorApproved": "Y", 
-  "Title": "Parc de la Villette, Le Case Vide, Paris, France  Axonometric of folly", 
-  "DateAcquired": "2000-01-19", 
+  "CreditLine": "Gift of the Peter Norton Family Foundation", 
   "Date": "1984", 
   "ArtistID": 7056, 
   "Keywords": [
@@ -21,7 +20,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "22.2000", 
-  "ArtistBio": "French and Swiss, born Switzerland 1944", 
-  "CreditLine": "Gift of the Peter Norton Family Foundation", 
+  "ArtistBio": "(French and Swiss, born Switzerland 1944)", 
+  "DateAcquired": "2000-01-19", 
+  "\ufeffTitle": "Parc de la Villette, Le Case Vide, Paris, France, Axonometric of folly", 
   "ObjectID": "85"
 }

@@ -5,8 +5,7 @@
   "Artist": "Augusto Giacometti", 
   "URL": "http://www.moma.org/collection/works/6250", 
   "CuratorApproved": "Y", 
-  "Title": "Graubunden Schweiz", 
-  "DateAcquired": "1957-12-04", 
+  "CreditLine": "Gift of the Kunstgewerbe Museum, Z\u00fcrich", 
   "Date": "c. 1920", 
   "ArtistID": 2142, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "323.1957.1", 
-  "ArtistBio": "Swiss, 1877\u20131947", 
-  "CreditLine": "Gift of the Kunstgewerbe Museum, Z\u00fcrich", 
+  "ArtistBio": "(Swiss, 1877\u20131947)", 
+  "DateAcquired": "1957-12-04", 
+  "\ufeffTitle": "Graubunden Schweiz", 
   "ObjectID": "6250"
 }

@@ -5,8 +5,7 @@
   "Artist": "Emmet Gowin", 
   "URL": "http://www.moma.org/collection/works/45487", 
   "CuratorApproved": "Y", 
-  "Title": "Edith, Providence, Rhode Island", 
-  "DateAcquired": "1970-03-04", 
+  "CreditLine": "Purchase", 
   "Date": "Spring 1967", 
   "ArtistID": 2273, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "67.1970", 
-  "ArtistBio": "American, born 1941", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, born 1941)", 
+  "DateAcquired": "1970-03-04", 
+  "\ufeffTitle": "Edith, Providence, Rhode Island", 
   "ObjectID": "45487"
 }

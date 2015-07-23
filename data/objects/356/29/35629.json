@@ -5,8 +5,7 @@
   "Artist": "Paul Klee", 
   "URL": "http://www.moma.org/collection/works/35629", 
   "CuratorApproved": "Y", 
-  "Title": "With the Flag", 
-  "DateAcquired": "1962-11-07", 
+  "CreditLine": "Gift of Mr. and Mrs. Sidney Elliott Cohn", 
   "Date": "1918", 
   "ArtistID": 3130, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "254.1962", 
-  "ArtistBio": "German, born Switzerland. 1879\u20131940", 
-  "CreditLine": "Gift of Mr. and Mrs. Sidney Elliott Cohn", 
+  "ArtistBio": "(German, born Switzerland. 1879\u20131940)", 
+  "DateAcquired": "1962-11-07", 
+  "\ufeffTitle": "With the Flag (Mit der Fahne)", 
   "ObjectID": "35629"
 }

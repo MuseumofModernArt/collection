@@ -5,8 +5,7 @@
   "Artist": "Ricardo Bofill", 
   "URL": "http://www.moma.org/collection/works/467", 
   "CuratorApproved": "Y", 
-  "Title": "New York Tower, project  New York, New York  Interior perspective", 
-  "DateAcquired": "1985-11-18", 
+  "CreditLine": "Gift of Ricardo Bofill Taller de Arquitectura", 
   "Date": "1985", 
   "ArtistID": 632, 
   "Keywords": [
@@ -21,7 +20,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "384.1985", 
-  "ArtistBio": "Spanish, born 1939", 
-  "CreditLine": "Gift of Ricardo Bofill Taller de Arquitectura", 
+  "ArtistBio": "(Spanish, born 1939)", 
+  "DateAcquired": "1985-11-18", 
+  "\ufeffTitle": "New York Tower, project, New York, New York, Interior perspective", 
   "ObjectID": "467"
 }

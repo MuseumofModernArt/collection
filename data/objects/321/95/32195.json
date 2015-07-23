@@ -5,8 +5,7 @@
   "Artist": "Martin Puryear", 
   "URL": "http://www.moma.org/collection/works/32195", 
   "CuratorApproved": "Y", 
-  "Title": "Cane", 
-  "DateAcquired": "2000-11-09", 
+  "CreditLine": "Gift of Anna Marie and Robert F. Shapiro", 
   "Date": "2000", 
   "ArtistID": 4758, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "1388.2000.1-17", 
-  "ArtistBio": "American, born 1941", 
-  "CreditLine": "Gift of Anna Marie and Robert F. Shapiro", 
+  "ArtistBio": "(American, born 1941)", 
+  "DateAcquired": "2000-11-09", 
+  "\ufeffTitle": "Cane", 
   "ObjectID": "32195"
 }

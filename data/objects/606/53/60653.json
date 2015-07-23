@@ -1,12 +1,11 @@
 {
   "Medium": "Etching, photoetching, and aquatint", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "Vijay Kumar", 
   "URL": "http://www.moma.org/collection/works/60653", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled from the India Portfolio", 
-  "DateAcquired": "1995-01-24", 
+  "CreditLine": "Gift of the artist", 
   "Date": "1993", 
   "ArtistID": 7429, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "38.1995", 
-  "ArtistBio": "Indian, born 1942", 
-  "CreditLine": "Gift of the artist", 
+  "ArtistBio": "(Indian, born 1942)", 
+  "DateAcquired": "1995-01-24", 
+  "\ufeffTitle": "Untitled from the India Portfolio", 
   "ObjectID": "60653"
 }

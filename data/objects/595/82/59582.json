@@ -1,12 +1,11 @@
 {
   "Medium": "Lithograph", 
-  "Dimensions": "irreg. composition  16 7/16 x 11 7/8\" (41.8 x 30.2 cm)  sheet  19 1/4 x 12 13/16\" (48 x 32.6 cm)", 
+  "Dimensions": "irreg. composition  16 7/16 x 11 7/8\" (41.8 x 30.2 cm)\r\nsheet  19 1/4 x 12 13/16\" (48 x 32.6 cm)", 
   "Classification": "Print", 
   "Artist": "Karel Appel", 
   "URL": "http://www.moma.org/collection/works/59582", 
   "CuratorApproved": "Y", 
-  "Title": "The Big Ear", 
-  "DateAcquired": "1991-01-23", 
+  "CreditLine": "Elinor and Edmund Grasheim Annual Fund", 
   "Date": "1954", 
   "ArtistID": 203, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "1.1991", 
-  "ArtistBio": "Dutch, 1921\u20132006", 
-  "CreditLine": "Elinor and Edmund Grasheim Annual Fund", 
+  "ArtistBio": "(Dutch, 1921\u20132006)", 
+  "DateAcquired": "1991-01-23", 
+  "\ufeffTitle": "The Big Ear", 
   "ObjectID": "59582"
 }

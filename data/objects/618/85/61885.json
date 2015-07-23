@@ -1,12 +1,11 @@
 {
   "Medium": "Photolithograph", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "Ian Hamilton Finlay", 
   "URL": "", 
   "CuratorApproved": "N", 
-  "Title": "The Revolution is Frozen", 
-  "DateAcquired": "1997-03-06", 
+  "CreditLine": "Walter Bareiss Fund", 
   "Date": "1994", 
   "ArtistID": 1878, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "106.1997", 
-  "ArtistBio": "British, 1925\u20132006", 
-  "CreditLine": "Walter Bareiss Fund", 
+  "ArtistBio": "(British, 1925\u20132006)", 
+  "DateAcquired": "1997-03-06", 
+  "\ufeffTitle": "The Revolution is Frozen", 
   "ObjectID": "61885"
 }

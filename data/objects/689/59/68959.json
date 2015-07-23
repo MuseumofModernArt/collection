@@ -1,12 +1,11 @@
 {
   "Medium": "Lithograph, screenprint, woodcut and embossing, with collage additions", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "Roy Lichtenstein", 
   "URL": "http://www.moma.org/collection/works/68959", 
   "CuratorApproved": "Y", 
-  "Title": "Reflections on Brushstrokes from the Reflections Series  ", 
-  "DateAcquired": "1990-10-23", 
+  "CreditLine": "Gift of the artist in memory of Monroe Wheeler", 
   "Date": "1990", 
   "ArtistID": 3542, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "427.1990", 
-  "ArtistBio": "American, 1923\u20131997", 
-  "CreditLine": "Gift of the artist in memory of Monroe Wheeler", 
+  "ArtistBio": "(American, 1923\u20131997)", 
+  "DateAcquired": "1990-10-23", 
+  "\ufeffTitle": "Reflections on Brushstrokes from the Reflections Series", 
   "ObjectID": "68959"
 }

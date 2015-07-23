@@ -5,8 +5,7 @@
   "Artist": "Bonnie Maclean", 
   "URL": "http://www.moma.org/collection/works/5475", 
   "CuratorApproved": "Y", 
-  "Title": "The Yardbirds, The Doors", 
-  "DateAcquired": "1993-05-04", 
+  "CreditLine": "Purchase", 
   "Date": "1967", 
   "ArtistID": 8394, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "171.1993", 
-  "ArtistBio": "American, born 1949", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, born 1949)", 
+  "DateAcquired": "1993-05-04", 
+  "\ufeffTitle": "The Yardbirds, The Doors", 
   "ObjectID": "5475"
 }

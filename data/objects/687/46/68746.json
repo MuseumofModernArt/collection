@@ -1,12 +1,11 @@
 {
   "Medium": "One lithograph from a portfolio of six lithographs, five screenprints and one aquatint", 
-  "Dimensions": "composition  22 x 22 1/2\" (55.9 x 57.1 cm)  sheet  22 x 22 1/2\" (55.9 x 57.1 cm)", 
+  "Dimensions": "composition  22 x 22 1/2\" (55.9 x 57.1 cm)\r\nsheet  22 x 22 1/2\" (55.9 x 57.1 cm)", 
   "Classification": "Print", 
   "Artist": "Wendy Meng", 
   "URL": "http://www.moma.org/collection/works/68746", 
   "CuratorApproved": "Y", 
-  "Title": "SCHOOL OF FISH from the portfolio 1776 USA 1976 BICENTENNIAL PRINTS", 
-  "DateAcquired": "1977-11-10", 
+  "CreditLine": "Gift of the Special Projects Group", 
   "Date": "1975 (Published 1976).", 
   "ArtistID": 3929, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "416.1977.8", 
-  "ArtistBio": "American, born 1944", 
-  "CreditLine": "Gift of the Special Projects Group", 
+  "ArtistBio": "(American, born 1944)", 
+  "DateAcquired": "1977-11-10", 
+  "\ufeffTitle": "School of Fish from 1776 USA 1976 Bicentennial Prints", 
   "ObjectID": "68746"
 }

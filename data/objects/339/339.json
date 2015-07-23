@@ -5,8 +5,7 @@
   "Artist": "Tadao Ando", 
   "URL": "http://www.moma.org/collection/works/339", 
   "CuratorApproved": "Y", 
-  "Title": "Church of the Light  Ibaraki, Osaka, Japan  Interior perspective", 
-  "DateAcquired": "1996-09-25", 
+  "CreditLine": "Gift of the architect in honor of Philip Johnson", 
   "Date": "1989", 
   "ArtistID": 7055, 
   "Keywords": [
@@ -21,7 +20,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "347.1996", 
-  "ArtistBio": "Japanese, born 1941", 
-  "CreditLine": "Gift of the architect in honor of Philip Johnson", 
+  "ArtistBio": "(Japanese, born 1941)", 
+  "DateAcquired": "1996-09-25", 
+  "\ufeffTitle": "Church of the Light, Ibaraki, Osaka, Japan, Interior perspective", 
   "ObjectID": "339"
 }

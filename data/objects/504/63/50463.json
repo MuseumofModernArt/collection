@@ -5,8 +5,7 @@
   "Artist": "Auguste Adolphe Bertsch", 
   "URL": "http://www.moma.org/collection/works/50463", 
   "CuratorApproved": "Y", 
-  "Title": "Photo-micrograph: Wood of a Chestnut Tree", 
-  "DateAcquired": "1997-06-12", 
+  "CreditLine": "Acquired by exchange", 
   "Date": "1853", 
   "ArtistID": 8558, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "309.1997", 
-  "ArtistBio": "French, died 1871", 
-  "CreditLine": "Acquired by exchange", 
+  "ArtistBio": "(French, died 1871)", 
+  "DateAcquired": "1997-06-12", 
+  "\ufeffTitle": "Photo-micrograph: Wood of a Chestnut Tree", 
   "ObjectID": "50463"
 }

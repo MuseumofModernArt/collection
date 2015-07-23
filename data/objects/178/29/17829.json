@@ -5,8 +5,7 @@
   "Artist": "Leonel Gongora", 
   "URL": "http://www.moma.org/collection/works/17829", 
   "CuratorApproved": "Y", 
-  "Title": "Los Siete Pecados Capitales", 
-  "DateAcquired": "1987-01-15", 
+  "CreditLine": "Gift of Internacional de Ediciones S.A", 
   "Date": "1986", 
   "ArtistID": 2228, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "484.1986.1-27", 
-  "ArtistBio": "Colombian, born 1932", 
-  "CreditLine": "Gift of Internacional de Ediciones S.A", 
+  "ArtistBio": "(Colombian, born 1932)", 
+  "DateAcquired": "1987-01-15", 
+  "\ufeffTitle": "Los Siete Pecados Capitales", 
   "ObjectID": "17829"
 }

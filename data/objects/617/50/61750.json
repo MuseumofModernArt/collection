@@ -1,12 +1,11 @@
 {
   "Medium": "Four lithographs", 
-  "Dimensions": "irreg. composition  44 15/16 x 44 15/16\" (114.2 x 114.2 cm)  each of 4 sheet  15 x 20\" (38 x 50.8 cm)", 
+  "Dimensions": "irreg. composition  44 15/16 x 44 15/16\" (114.2 x 114.2 cm)\r\neach of 4 sheet  15 x 20\" (38 x 50.8 cm)", 
   "Classification": "Print", 
   "Artist": "Mel Bochner", 
   "URL": "http://www.moma.org/collection/works/61750", 
   "CuratorApproved": "Y", 
-  "Title": "Fourth Quartet from the series Four Color Quartets", 
-  "DateAcquired": "1995-05-03", 
+  "CreditLine": "Gift of Frank Green and Diane Villani in honor of Riva Castleman", 
   "Date": "1990", 
   "ArtistID": 625, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "97.1995.a-d", 
-  "ArtistBio": "American, born 1940", 
-  "CreditLine": "Gift of Frank Green and Diane Villani in honor of Riva Castleman", 
+  "ArtistBio": "(American, born 1940)", 
+  "DateAcquired": "1995-05-03", 
+  "\ufeffTitle": "Fourth Quartet from the series Four Color Quartets", 
   "ObjectID": "61750"
 }

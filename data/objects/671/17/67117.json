@@ -5,8 +5,7 @@
   "Artist": "Henri Matisse", 
   "URL": "http://www.moma.org/collection/works/67117", 
   "CuratorApproved": "Y", 
-  "Title": "Young Girl, Flowered Blouse (Fillette, blouse fleurie)", 
-  "DateAcquired": "1958-12-19", 
+  "CreditLine": "Gift of Mr. and Mrs. Walter Bareiss", 
   "Date": "(1920)", 
   "ArtistID": 3832, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "333.1958", 
-  "ArtistBio": "French, 1869\u20131954", 
-  "CreditLine": "Gift of Mr. and Mrs. Walter Bareiss", 
+  "ArtistBio": "(French, 1869\u20131954)", 
+  "DateAcquired": "1958-12-19", 
+  "\ufeffTitle": "Young Girl, Flowered Blouse (Fillette, blouse fleurie)", 
   "ObjectID": "67117"
 }

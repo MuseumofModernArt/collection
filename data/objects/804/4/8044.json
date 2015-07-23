@@ -5,8 +5,7 @@
   "Artist": "Hans Fabigan", 
   "URL": "http://www.moma.org/collection/works/8044", 
   "CuratorApproved": "Y", 
-  "Title": "Phantastische Aquarelle", 
-  "DateAcquired": "1963-12-10", 
+  "CreditLine": "Gift of the artist", 
   "Date": "1963", 
   "ArtistID": 1787, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "752.1963", 
-  "ArtistBio": "Austrian, born 1901", 
-  "CreditLine": "Gift of the artist", 
+  "ArtistBio": "(Austrian, born 1901)", 
+  "DateAcquired": "1963-12-10", 
+  "\ufeffTitle": "Phantastische Aquarelle", 
   "ObjectID": "8044"
 }

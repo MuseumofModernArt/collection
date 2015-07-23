@@ -5,8 +5,7 @@
   "Artist": "Michael English", 
   "URL": "http://www.moma.org/collection/works/5158", 
   "CuratorApproved": "Y", 
-  "Title": "Love Festival", 
-  "DateAcquired": "1968-03-07", 
+  "CreditLine": "Gift of P. Reyner Banham", 
   "Date": "1967", 
   "ArtistID": 1736, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "128.1968", 
-  "ArtistBio": "British, 1941\u20132009", 
-  "CreditLine": "Gift of P. Reyner Banham", 
+  "ArtistBio": "(British, 1941\u20132009)", 
+  "DateAcquired": "1968-03-07", 
+  "\ufeffTitle": "Love Festival", 
   "ObjectID": "5158"
 }

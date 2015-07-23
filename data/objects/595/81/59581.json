@@ -1,12 +1,11 @@
 {
   "Medium": "Etching and drypoint", 
-  "Dimensions": "plate  20 9/16 x 23 15/16\" (52.3 x 60.8 cm)  sheet  32 15/16 x 35\" (83 x 89 cm)", 
+  "Dimensions": "plate  20 9/16 x 23 15/16\" (52.3 x 60.8 cm)\r\nsheet  32 15/16 x 35\" (83 x 89 cm)", 
   "Classification": "Print", 
   "Artist": "Richard Artschwager", 
   "URL": "http://www.moma.org/collection/works/59581", 
   "CuratorApproved": "Y", 
-  "Title": "Building Riddled with Listening Devices (Beta)", 
-  "DateAcquired": "1990-01-16", 
+  "CreditLine": "Gift of Mr. and Mrs. Richard L. Barth and Mr. J. Edward Barth in honor of Linda B. Goldstein", 
   "Date": "1990", 
   "Keywords": [
     "online art collection", 
@@ -16,7 +15,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "1.1990", 
-  "ArtistBio": "American, 1923\u20132013", 
-  "CreditLine": "Gift of Mr. and Mrs. Richard L. Barth and Mr. J. Edward Barth in honor of Linda B. Goldstein", 
+  "ArtistBio": "(American, 1923\u20132013)", 
+  "DateAcquired": "1990-01-16", 
+  "\ufeffTitle": "Building Riddled with Listening Devices (Beta)", 
   "ObjectID": "59581"
 }

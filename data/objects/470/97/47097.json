@@ -5,8 +5,7 @@
   "Artist": "Minor White", 
   "URL": "http://www.moma.org/collection/works/47097", 
   "CuratorApproved": "Y", 
-  "Title": "Two Barns and Shadow", 
-  "DateAcquired": "1969-03-05", 
+  "CreditLine": "Gift of Robert M. Doty", 
   "Date": "1955", 
   "ArtistID": 6342, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "163.1969", 
-  "ArtistBio": "American, 1908\u20131976", 
-  "CreditLine": "Gift of Robert M. Doty", 
+  "ArtistBio": "(American, 1908\u20131976)", 
+  "DateAcquired": "1969-03-05", 
+  "\ufeffTitle": "Two Barns and Shadow", 
   "ObjectID": "47097"
 }

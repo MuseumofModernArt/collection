@@ -5,8 +5,7 @@
   "Artist": "Nancy Spero", 
   "URL": "http://www.moma.org/collection/works/64250", 
   "CuratorApproved": "Y", 
-  "Title": "To the Revolution XI", 
-  "DateAcquired": "1984-05-23", 
+  "CreditLine": "John B. Turner Fund", 
   "Date": "1981", 
   "ArtistID": 5564, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "198.1984", 
-  "ArtistBio": "American, 1926\u20132009", 
-  "CreditLine": "John B. Turner Fund", 
+  "ArtistBio": "(American, 1926\u20132009)", 
+  "DateAcquired": "1984-05-23", 
+  "\ufeffTitle": "To the Revolution XI", 
   "ObjectID": "64250"
 }

@@ -5,8 +5,7 @@
   "Artist": "Helen Levitt", 
   "URL": "http://www.moma.org/collection/works/44085", 
   "CuratorApproved": "Y", 
-  "Title": "New York", 
-  "DateAcquired": "1946-05-07", 
+  "CreditLine": "Purchase, by exchange", 
   "Date": "1940", 
   "ArtistID": 3520, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "22.1946", 
-  "ArtistBio": "American, 1913\u20132009", 
-  "CreditLine": "Purchase, by exchange", 
+  "ArtistBio": "(American, 1913\u20132009)", 
+  "DateAcquired": "1946-05-07", 
+  "\ufeffTitle": "New York", 
   "ObjectID": "44085"
 }

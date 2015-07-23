@@ -1,12 +1,11 @@
 {
   "Medium": "Etching and aquatint", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "Grisha Bruskin", 
   "URL": "http://www.moma.org/collection/works/59644", 
   "CuratorApproved": "Y", 
-  "Title": "Eyes (Glaza) from the portfolio Lexicon (Lexica)", 
-  "DateAcquired": "1993-01-18", 
+  "CreditLine": "Purchase", 
   "Date": "1992", 
   "ArtistID": 834, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "4.1993", 
-  "ArtistBio": "Russian, born 1945", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(Russian, born 1945)", 
+  "DateAcquired": "1993-01-18", 
+  "\ufeffTitle": "Eyes (Glaza) from the portfolio Lexicon (Lexica)", 
   "ObjectID": "59644"
 }

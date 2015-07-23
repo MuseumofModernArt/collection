@@ -5,8 +5,7 @@
   "Artist": "Max Pechstein", 
   "URL": "http://www.moma.org/collection/works/59728", 
   "CuratorApproved": "Y", 
-  "Title": "Dialogue", 
-  "DateAcquired": "1929-11-19", 
+  "CreditLine": "Gift of Paul J. Sachs", 
   "Date": "1920", 
   "ArtistID": 4533, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "8.1929", 
-  "ArtistBio": "German, 1881\u20131955", 
-  "CreditLine": "Gift of Paul J. Sachs", 
+  "ArtistBio": "(German, 1881\u20131955)", 
+  "DateAcquired": "1929-11-19", 
+  "\ufeffTitle": "Dialogue (Zwiesprache)", 
   "ObjectID": "59728"
 }

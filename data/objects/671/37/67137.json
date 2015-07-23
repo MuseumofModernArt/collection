@@ -1,12 +1,11 @@
 {
   "Medium": "Etching and aquatint", 
-  "Dimensions": "plate  15 3/16 x 21 3/16\" (38.6 x 53.8 cm)  sheet  19 11/16 x 25 13/16\" (50 x 65.6 cm)", 
+  "Dimensions": "plate  15 3/16 x 21 3/16\" (38.6 x 53.8 cm)\r\nsheet  19 11/16 x 25 13/16\" (50 x 65.6 cm)", 
   "Classification": "Print", 
   "Artist": "Germaine Richier", 
   "URL": "http://www.moma.org/collection/works/67137", 
   "CuratorApproved": "Y", 
-  "Title": "Bat (Chauve-Sourris)", 
-  "DateAcquired": "1986-10-15", 
+  "CreditLine": "Gift of William S. Lieberman", 
   "Date": "(c. 1946)", 
   "ArtistID": 4905, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "334.1986", 
-  "ArtistBio": "French, 1904\u20131959", 
-  "CreditLine": "Gift of William S. Lieberman", 
+  "ArtistBio": "(French, 1904\u20131959)", 
+  "DateAcquired": "1986-10-15", 
+  "\ufeffTitle": "Bat (Chauve-Sourris)", 
   "ObjectID": "67137"
 }

@@ -5,8 +5,7 @@
   "Artist": "Henri Matisse", 
   "URL": "http://www.moma.org/collection/works/36071", 
   "CuratorApproved": "Y", 
-  "Title": "Reclining Nude", 
-  "DateAcquired": "1974-05-21", 
+  "CreditLine": "The Tisch Foundation, Inc. Fund", 
   "Date": "(1927)", 
   "ArtistID": 3832, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "297.1974", 
-  "ArtistBio": "French, 1869\u20131954", 
-  "CreditLine": "The Tisch Foundation, Inc. Fund", 
+  "ArtistBio": "(French, 1869\u20131954)", 
+  "DateAcquired": "1974-05-21", 
+  "\ufeffTitle": "Reclining Nude", 
   "ObjectID": "36071"
 }

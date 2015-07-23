@@ -1,12 +1,11 @@
 {
   "Medium": "Lithograph", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "Pierre Buraglio", 
   "URL": "http://www.moma.org/collection/works/63632", 
   "CuratorApproved": "Y", 
-  "Title": "Envelopes", 
-  "DateAcquired": "1990-05-02", 
+  "CreditLine": "Purchase", 
   "Date": "1984", 
   "ArtistID": 866, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "174.1990", 
-  "ArtistBio": "French, born 1939", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(French, born 1939)", 
+  "DateAcquired": "1990-05-02", 
+  "\ufeffTitle": "Envelopes", 
   "ObjectID": "63632"
 }

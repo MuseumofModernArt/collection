@@ -5,8 +5,7 @@
   "Artist": "Paul Klee", 
   "URL": "http://www.moma.org/collection/works/67162", 
   "CuratorApproved": "Y", 
-  "Title": "Reflecting Window", 
-  "DateAcquired": "1948-10-06", 
+  "CreditLine": "Gift of Victor S. Riesenfeld", 
   "Date": "1915", 
   "ArtistID": 3130, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "336.1948", 
-  "ArtistBio": "German, born Switzerland. 1879\u20131940", 
-  "CreditLine": "Gift of Victor S. Riesenfeld", 
+  "ArtistBio": "(German, born Switzerland. 1879\u20131940)", 
+  "DateAcquired": "1948-10-06", 
+  "\ufeffTitle": "Reflecting Window (Spiegelndes Fenster)", 
   "ObjectID": "67162"
 }

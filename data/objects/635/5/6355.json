@@ -5,8 +5,7 @@
   "Artist": "Paul Rand", 
   "URL": "http://www.moma.org/collection/works/6355", 
   "CuratorApproved": "Y", 
-  "Title": "Interfaith Day", 
-  "DateAcquired": "1953-04-07", 
+  "CreditLine": "Gift of the artist", 
   "Date": "1951", 
   "ArtistID": 4809, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "338.1953", 
-  "ArtistBio": "American, 1914\u20131996", 
-  "CreditLine": "Gift of the artist", 
+  "ArtistBio": "(American, 1914\u20131996)", 
+  "DateAcquired": "1953-04-07", 
+  "\ufeffTitle": "Interfaith Day", 
   "ObjectID": "6355"
 }

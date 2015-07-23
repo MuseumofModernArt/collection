@@ -5,8 +5,7 @@
   "Artist": "Jean (Hans) Arp", 
   "URL": "http://www.moma.org/collection/works/60680", 
   "CuratorApproved": "Y", 
-  "Title": "Constellation", 
-  "DateAcquired": "1954-04-06", 
+  "CreditLine": "Larry Aldrich Fund", 
   "Date": "1951", 
   "Keywords": [
     "online art collection", 
@@ -16,7 +15,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "40.1954", 
-  "ArtistBio": "French, born Germany (Alsace). 1886\u20131966", 
-  "CreditLine": "Larry Aldrich Fund", 
+  "ArtistBio": "(French, born Germany (Alsace). 1886\u20131966)", 
+  "DateAcquired": "1954-04-06", 
+  "\ufeffTitle": "Constellation", 
   "ObjectID": "60680"
 }

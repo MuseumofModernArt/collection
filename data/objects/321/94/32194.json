@@ -5,8 +5,7 @@
   "Artist": "Jorge Pardo", 
   "URL": "http://www.moma.org/collection/works/32194", 
   "CuratorApproved": "Y", 
-  "Title": "Jorge Pardo", 
-  "DateAcquired": "2000-11-09", 
+  "CreditLine": "Monroe Wheeler Fund", 
   "Date": "1999", 
   "ArtistID": 8132, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "1387.2000", 
-  "ArtistBio": "American, born 1963", 
-  "CreditLine": "Monroe Wheeler Fund", 
+  "ArtistBio": "(American, born 1963)", 
+  "DateAcquired": "2000-11-09", 
+  "\ufeffTitle": "Jorge Pardo", 
   "ObjectID": "32194"
 }

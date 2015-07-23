@@ -5,8 +5,7 @@
   "Artist": "Fallon Horne", 
   "URL": "http://www.moma.org/collection/works/50421", 
   "CuratorApproved": "Y", 
-  "Title": "Youth and Age", 
-  "DateAcquired": "1990-06-07", 
+  "CreditLine": "Gift of Robert Hershkowitz in memory of Samuel J. Wagstaff, Jr.", 
   "Date": "1855", 
   "ArtistID": 6978, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "308.1990", 
-  "ArtistBio": "British, died 1858", 
-  "CreditLine": "Gift of Robert Hershkowitz in memory of Samuel J. Wagstaff, Jr.", 
+  "ArtistBio": "(British, died 1858)", 
+  "DateAcquired": "1990-06-07", 
+  "\ufeffTitle": "Youth and Age", 
   "ObjectID": "50421"
 }

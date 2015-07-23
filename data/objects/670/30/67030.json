@@ -1,12 +1,11 @@
 {
   "Medium": "Portfolio of 6 aquatints (3 with soft ground etching and 1 with drypoint) and 1 soft ground etching", 
-  "Dimensions": "each plate  13 7/8 x 11 1/8\" (35.2 x 28.2 cm)  ea. appox. sheet  18 3/16 x 15\" (46 x 38.2 cm)", 
+  "Dimensions": "each plate  13 7/8 x 11 1/8\" (35.2 x 28.2 cm)\r\nea. appox. sheet  18 3/16 x 15\" (46 x 38.2 cm)", 
   "Classification": "Print", 
   "Artist": "Not Vital", 
   "URL": "http://www.moma.org/collection/works/67030", 
   "CuratorApproved": "Y", 
-  "Title": "Notes", 
-  "DateAcquired": "1986-10-15", 
+  "CreditLine": "Walter Bareiss Fund", 
   "Date": "1986", 
   "ArtistID": 7917, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "328.1986.1-7", 
-  "ArtistBio": "Swiss, born 1948", 
-  "CreditLine": "Walter Bareiss Fund", 
+  "ArtistBio": "(Swiss, born 1948)", 
+  "DateAcquired": "1986-10-15", 
+  "\ufeffTitle": "Notes", 
   "ObjectID": "67030"
 }

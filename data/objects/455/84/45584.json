@@ -5,8 +5,7 @@
   "Artist": "Alfred Stieglitz", 
   "URL": "http://www.moma.org/collection/works/45584", 
   "CuratorApproved": "Y", 
-  "Title": "Dorothy Norman", 
-  "DateAcquired": "1950-01-06", 
+  "CreditLine": "Alfred Stieglitz Collection. Gift of Georgia O'Keeffe", 
   "Date": "c. 1931", 
   "ArtistID": 5664, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "71.1950", 
-  "ArtistBio": "American, 1864\u20131946", 
-  "CreditLine": "Alfred Stieglitz Collection. Gift of Georgia O'Keeffe", 
+  "ArtistBio": "(American, 1864\u20131946)", 
+  "DateAcquired": "1950-01-06", 
+  "\ufeffTitle": "Dorothy Norman", 
   "ObjectID": "45584"
 }

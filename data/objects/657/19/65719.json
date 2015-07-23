@@ -5,8 +5,7 @@
   "Artist": "Oskar Kokoschka", 
   "URL": "http://www.moma.org/collection/works/65719", 
   "CuratorApproved": "Y", 
-  "Title": "Hefa", 
-  "DateAcquired": "1950-10-11", 
+  "CreditLine": "Gift of Mr. and Mrs. Justin K. Thannhauser", 
   "Date": "(1922)", 
   "ArtistID": 3197, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "271.1950", 
-  "ArtistBio": "Austrian, 1886\u20131980", 
-  "CreditLine": "Gift of Mr. and Mrs. Justin K. Thannhauser", 
+  "ArtistBio": "(Austrian, 1886\u20131980)", 
+  "DateAcquired": "1950-10-11", 
+  "\ufeffTitle": "Hefa", 
   "ObjectID": "65719"
 }

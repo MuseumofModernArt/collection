@@ -5,8 +5,7 @@
   "Artist": "Philippe Starck", 
   "URL": "http://www.moma.org/collection/works/1975", 
   "CuratorApproved": "Y", 
-  "Title": "Walter Wayle Wall Clock", 
-  "DateAcquired": "2000-01-19", 
+  "CreditLine": "David Whitney Collection, Gift of David Whitney", 
   "Date": "1989", 
   "ArtistID": 8418, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "71.2000", 
-  "ArtistBio": "French, born 1949", 
-  "CreditLine": "David Whitney Collection, Gift of David Whitney", 
+  "ArtistBio": "(French, born 1949)", 
+  "DateAcquired": "2000-01-19", 
+  "\ufeffTitle": "Walter Wayle Wall Clock", 
   "ObjectID": "1975"
 }

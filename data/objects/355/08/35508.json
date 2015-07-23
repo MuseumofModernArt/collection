@@ -5,8 +5,7 @@
   "Artist": "Philip Guston", 
   "URL": "http://www.moma.org/collection/works/35508", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled (Rome, 1971)", 
-  "DateAcquired": "1992-05-11", 
+  "CreditLine": "Bequest of Musa Guston", 
   "Date": "1971", 
   "ArtistID": 2419, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "202.1992", 
-  "ArtistBio": "American, born Canada. 1913\u20131980", 
-  "CreditLine": "Bequest of Musa Guston", 
+  "ArtistBio": "(American, born Canada. 1913\u20131980)", 
+  "DateAcquired": "1992-05-11", 
+  "\ufeffTitle": "Untitled (Rome, 1971)", 
   "ObjectID": "35508"
 }

@@ -5,8 +5,7 @@
   "Artist": "Laura Gilpin", 
   "URL": "http://www.moma.org/collection/works/55795", 
   "CuratorApproved": "Y", 
-  "Title": "Sunrise on the Desert", 
-  "DateAcquired": "1977-12-15", 
+  "CreditLine": "Gift of Miss Mina Turner", 
   "Date": "1921", 
   "ArtistID": 2163, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "644.1977", 
-  "ArtistBio": "American, 1881\u20131979", 
-  "CreditLine": "Gift of Miss Mina Turner", 
+  "ArtistBio": "(American, 1881\u20131979)", 
+  "DateAcquired": "1977-12-15", 
+  "\ufeffTitle": "Sunrise on the Desert", 
   "ObjectID": "55795"
 }

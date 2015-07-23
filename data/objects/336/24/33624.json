@@ -5,8 +5,7 @@
   "Artist": "Carl-Henning Pedersen", 
   "URL": "http://www.moma.org/collection/works/33624", 
   "CuratorApproved": "Y", 
-  "Title": "Winged Man", 
-  "DateAcquired": "1947-03-13", 
+  "CreditLine": "Gift of the artist", 
   "Date": "1944", 
   "ArtistID": 4535, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "71.1947", 
-  "ArtistBio": "Danish, 1913\u20131993", 
-  "CreditLine": "Gift of the artist", 
+  "ArtistBio": "(Danish, 1913\u20131993)", 
+  "DateAcquired": "1947-03-13", 
+  "\ufeffTitle": "Winged Man", 
   "ObjectID": "33624"
 }

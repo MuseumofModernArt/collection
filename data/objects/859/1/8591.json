@@ -5,8 +5,7 @@
   "Artist": "Unknown Artist", 
   "URL": "http://www.moma.org/collection/works/8591", 
   "CuratorApproved": "Y", 
-  "Title": "Goethe", 
-  "DateAcquired": "1999-12-10", 
+  "CreditLine": "Jan Tschichold Collection, Gift of Philip Johnson", 
   "Date": "1932", 
   "ArtistID": 6026, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "1116.1999", 
-  "ArtistBio": "Nationality Unknown", 
-  "CreditLine": "Jan Tschichold Collection, Gift of Philip Johnson", 
+  "ArtistBio": "(Nationality Unknown)", 
+  "DateAcquired": "1999-12-10", 
+  "\ufeffTitle": "Goethe", 
   "ObjectID": "8591"
 }

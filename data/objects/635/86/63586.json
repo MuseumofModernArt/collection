@@ -1,12 +1,11 @@
 {
   "Medium": "Aquatint", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "Sean Scully", 
   "URL": "http://www.moma.org/collection/works/63586", 
   "CuratorApproved": "Y", 
-  "Title": "Durango I", 
-  "DateAcquired": "1994-01-25", 
+  "CreditLine": "Gift of Brooke and Carolyn Alexander", 
   "Date": "1991", 
   "ArtistID": 5305, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "172.1994", 
-  "ArtistBio": "American, born Ireland 1945", 
-  "CreditLine": "Gift of Brooke and Carolyn Alexander", 
+  "ArtistBio": "(American, born Ireland 1945)", 
+  "DateAcquired": "1994-01-25", 
+  "\ufeffTitle": "Durango I", 
   "ObjectID": "63586"
 }

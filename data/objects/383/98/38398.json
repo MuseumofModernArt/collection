@@ -5,8 +5,7 @@
   "Artist": "Mark Tobey", 
   "URL": "http://www.moma.org/collection/works/38398", 
   "CuratorApproved": "Y", 
-  "Title": "Homage to the Virgin", 
-  "DateAcquired": "1969-12-09", 
+  "CreditLine": "Gift of Mr. and Mrs. Daniel Saidenberg", 
   "Date": "1948", 
   "ArtistID": 5889, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "1071.1969", 
-  "ArtistBio": "American, 1890\u20131976", 
-  "CreditLine": "Gift of Mr. and Mrs. Daniel Saidenberg", 
+  "ArtistBio": "(American, 1890\u20131976)", 
+  "DateAcquired": "1969-12-09", 
+  "\ufeffTitle": "Homage to the Virgin", 
   "ObjectID": "38398"
 }

@@ -5,8 +5,7 @@
   "Artist": "Dieter Rams", 
   "URL": "http://www.moma.org/collection/works/3850", 
   "CuratorApproved": "Y", 
-  "Title": "Weight Scale (model HW1)", 
-  "DateAcquired": "1970-11-05", 
+  "CreditLine": "Gift of Braun North America", 
   "Date": "1968", 
   "ArtistID": 8451, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "457.1970", 
-  "ArtistBio": "German, born 1932", 
-  "CreditLine": "Gift of Braun North America", 
+  "ArtistBio": "(German, born 1932)", 
+  "DateAcquired": "1970-11-05", 
+  "\ufeffTitle": "Weight Scale (model HW1)", 
   "ObjectID": "3850"
 }

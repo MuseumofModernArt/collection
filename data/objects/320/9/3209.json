@@ -5,8 +5,7 @@
   "Artist": "Stefano Giovannoni", 
   "URL": "http://www.moma.org/collection/works/3209", 
   "CuratorApproved": "Y", 
-  "Title": "Big Switch Lamp", 
-  "DateAcquired": "1999-06-30", 
+  "CreditLine": "Gift of the manufacturer", 
   "Date": "1996", 
   "ArtistID": 8160, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "292.1999", 
-  "ArtistBio": "Italian, born 1954", 
-  "CreditLine": "Gift of the manufacturer", 
+  "ArtistBio": "(Italian, born 1954)", 
+  "DateAcquired": "1999-06-30", 
+  "\ufeffTitle": "Big Switch Lamp", 
   "ObjectID": "3209"
 }

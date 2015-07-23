@@ -5,8 +5,7 @@
   "Artist": "Sophie Taeuber-Arp", 
   "URL": "http://www.moma.org/collection/works/9183", 
   "CuratorApproved": "Y", 
-  "Title": "Plate 20 (folio 43) from 23 Gravures", 
-  "DateAcquired": "1945-01-03", 
+  "CreditLine": "Purchase Fund", 
   "Date": "(1935)", 
   "ArtistID": 5777, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "14.1945.20", 
-  "ArtistBio": "Swiss, 1889\u20131943", 
-  "CreditLine": "Purchase Fund", 
+  "ArtistBio": "(Swiss, 1889\u20131943)", 
+  "DateAcquired": "1945-01-03", 
+  "\ufeffTitle": "Plate 20 from 23 Gravures", 
   "ObjectID": "9183"
 }

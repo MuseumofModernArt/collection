@@ -5,8 +5,7 @@
   "Artist": "Gerrit Rietveld", 
   "URL": "http://www.moma.org/collection/works/4897", 
   "CuratorApproved": "Y", 
-  "Title": "Rietveld, Central Museum Utrecht", 
-  "DateAcquired": "1960-04-06", 
+  "CreditLine": "Gift of the artist", 
   "Date": "1958", 
   "ArtistID": 4922, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "62.1960", 
-  "ArtistBio": "Dutch, 1888\u20131964", 
-  "CreditLine": "Gift of the artist", 
+  "ArtistBio": "(Dutch, 1888\u20131964)", 
+  "DateAcquired": "1960-04-06", 
+  "\ufeffTitle": "Rietveld, Central Museum Utrecht", 
   "ObjectID": "4897"
 }

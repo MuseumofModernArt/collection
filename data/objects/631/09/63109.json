@@ -1,12 +1,11 @@
 {
-  "Medium": "Engraving with scorper and monotype", 
+  "Medium": "Engraving, with scorper and monotype", 
   "Dimensions": "plate: 8 3/4 x 6 7/8\" (22.2 x 17.5 cm); sheet: 13 x 9 15/16\" (33 x 25.2 cm)", 
   "Classification": "Print", 
   "Artist": "Louise Bourgeois", 
   "URL": "http://www.moma.org/collection/works/63109", 
   "CuratorApproved": "Y", 
-  "Title": "Ascension Lente, state XIV of XIV", 
-  "DateAcquired": "1990-05-02", 
+  "CreditLine": "Gift of the artist", 
   "Date": "1949", 
   "ArtistID": 710, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "144.1990.11", 
-  "ArtistBio": "American, born France. 1911\u20132010", 
-  "CreditLine": "Gift of the artist", 
+  "ArtistBio": "(American, born France. 1911\u20132010)", 
+  "DateAcquired": "1990-05-02", 
+  "\ufeffTitle": "Ascension Lente", 
   "ObjectID": "63109"
 }

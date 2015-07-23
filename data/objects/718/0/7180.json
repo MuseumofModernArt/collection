@@ -5,8 +5,7 @@
   "Artist": "Yakov Guminer", 
   "URL": "http://www.moma.org/collection/works/7180", 
   "CuratorApproved": "Y", 
-  "Title": "May First", 
-  "DateAcquired": "1987-11-18", 
+  "CreditLine": "Anonymous gift", 
   "Date": "1923", 
   "ArtistID": 2413, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "478.1987", 
-  "ArtistBio": "Russian, 1896\u20131942", 
-  "CreditLine": "Anonymous gift", 
+  "ArtistBio": "(Russian, 1896\u20131942)", 
+  "DateAcquired": "1987-11-18", 
+  "\ufeffTitle": "May First", 
   "ObjectID": "7180"
 }

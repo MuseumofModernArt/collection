@@ -1,12 +1,11 @@
 {
   "Medium": "Metal and wire mesh", 
-  "Dimensions": ".1 - 29 1/2 x 23 x 28 1/2\" (74.9 x 58.4 x 72.4 cm)  .2 - (unknown - TBD)", 
+  "Dimensions": ".1 - 29 1/2 x 23 x 28 1/2\" (74.9 x 58.4 x 72.4 cm)\r\n.2 - (unknown - TBD)", 
   "Classification": "A&D Design", 
-  "Artist": "Darrell Landrum", 
+  "Artist": "Darrell Landrum, Louis J. Zerbee", 
   "URL": "http://www.moma.org/collection/works/4116", 
   "CuratorApproved": "Y", 
-  "Title": "Chair and Ottoman (model 162)", 
-  "DateAcquired": "1963-11-12", 
+  "CreditLine": "Gift of the manufacturer", 
   "Date": "1963", 
   "ArtistID": 3365, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "573.1963.1-2", 
-  "ArtistBio": "American, born 1924", 
-  "CreditLine": "Gift of the manufacturer", 
+  "ArtistBio": "(American, born 1924) (American)", 
+  "DateAcquired": "1963-11-12", 
+  "\ufeffTitle": "Chair and Ottoman (model 162)", 
   "ObjectID": "4116"
 }

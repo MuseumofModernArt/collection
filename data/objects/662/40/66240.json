@@ -5,8 +5,7 @@
   "Artist": "Al Taylor", 
   "URL": "http://www.moma.org/collection/works/66240", 
   "CuratorApproved": "Y", 
-  "Title": "Pet Stains (Kirby, Harley, Corky, Tampa, Cam, Tiny, Rump, Goldie, Ernie, Buffy, Skeeter, etc.)", 
-  "DateAcquired": "1992-05-20", 
+  "CreditLine": "Purchase", 
   "Date": "1991", 
   "ArtistID": 5815, 
   "Keywords": [
@@ -28,7 +27,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "292.1992", 
-  "ArtistBio": "American, 1948\u20131999", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, 1948\u20131999)", 
+  "DateAcquired": "1992-05-20", 
+  "\ufeffTitle": "Pet Stains (Kirby, Harley, Corky, Tampa, Cam, Tiny, Rump, Goldie, Ernie, Buffy, Skeeter, etc.)", 
   "ObjectID": "66240"
 }

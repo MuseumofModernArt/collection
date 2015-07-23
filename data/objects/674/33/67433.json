@@ -5,8 +5,7 @@
   "Artist": "Felix Droese", 
   "URL": "http://www.moma.org/collection/works/67433", 
   "CuratorApproved": "Y", 
-  "Title": "Bell in a Ship (Glockenschiff)", 
-  "DateAcquired": "1987-10-20", 
+  "CreditLine": "Walter Bareiss Fund", 
   "Date": "1982", 
   "ArtistID": 1620, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "348.1987", 
-  "ArtistBio": "German, born 1950", 
-  "CreditLine": "Walter Bareiss Fund", 
+  "ArtistBio": "(German, born 1950)", 
+  "DateAcquired": "1987-10-20", 
+  "\ufeffTitle": "Bell in a Ship (Glockenschiff)", 
   "ObjectID": "67433"
 }

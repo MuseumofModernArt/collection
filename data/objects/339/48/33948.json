@@ -5,8 +5,7 @@
   "Artist": "Natalia Goncharova", 
   "URL": "http://www.moma.org/collection/works/33948", 
   "CuratorApproved": "Y", 
-  "Title": "Composition", 
-  "DateAcquired": "1937-05-11", 
+  "CreditLine": "Gift of the artist", 
   "Date": "(1920)", 
   "ArtistID": 2229, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "103.1936", 
-  "ArtistBio": "Russian, 1881\u20131962", 
-  "CreditLine": "Gift of the artist", 
+  "ArtistBio": "(Russian, 1881\u20131962)", 
+  "DateAcquired": "1937-05-11", 
+  "\ufeffTitle": "Composition", 
   "ObjectID": "33948"
 }

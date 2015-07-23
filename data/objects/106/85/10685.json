@@ -5,8 +5,7 @@
   "Artist": "Mikhail Larionov", 
   "URL": "http://www.moma.org/collection/works/10685", 
   "CuratorApproved": "Y", 
-  "Title": "Starinnaia liubov'", 
-  "DateAcquired": "2001-01-24", 
+  "CreditLine": "Gift of The Judith Rothschild Foundation", 
   "Date": "1912", 
   "ArtistID": 3389, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "41.2001.1-6", 
-  "ArtistBio": "Russian, 1881\u20131964", 
-  "CreditLine": "Gift of The Judith Rothschild Foundation", 
+  "ArtistBio": "(Russian, 1881\u20131964)", 
+  "DateAcquired": "2001-01-24", 
+  "\ufeffTitle": "Starinnaia liubov'", 
   "ObjectID": "10685"
 }

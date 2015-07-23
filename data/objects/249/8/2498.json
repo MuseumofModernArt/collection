@@ -5,8 +5,7 @@
   "Artist": "Peter M\u00fcller-Munk", 
   "URL": "http://www.moma.org/collection/works/2498", 
   "CuratorApproved": "Y", 
-  "Title": "Cafex Percolator", 
-  "DateAcquired": "1948-03-17", 
+  "CreditLine": "Gift of the designer", 
   "Date": "c. 1947", 
   "ArtistID": 4156, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "136.1948", 
-  "ArtistBio": "American, 1904\u20131967", 
-  "CreditLine": "Gift of the designer", 
+  "ArtistBio": "(American, 1904\u20131967)", 
+  "DateAcquired": "1948-03-17", 
+  "\ufeffTitle": "Cafex Percolator", 
   "ObjectID": "2498"
 }

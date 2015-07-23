@@ -5,8 +5,7 @@
   "Artist": "Wynn Bullock", 
   "URL": "http://www.moma.org/collection/works/55616", 
   "CuratorApproved": "Y", 
-  "Title": "Point Lobos Tide Pool", 
-  "DateAcquired": "1976-12-08", 
+  "CreditLine": "Purchase", 
   "Date": "1957", 
   "ArtistID": 861, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "617.1976", 
-  "ArtistBio": "American, 1902\u20131975", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, 1902\u20131975)", 
+  "DateAcquired": "1976-12-08", 
+  "\ufeffTitle": "Point Lobos Tide Pool", 
   "ObjectID": "55616"
 }

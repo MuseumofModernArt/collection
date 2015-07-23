@@ -5,8 +5,7 @@
   "Artist": "Dan Weiner", 
   "URL": "http://www.moma.org/collection/works/48090", 
   "CuratorApproved": "Y", 
-  "Title": "Secretary with Boss, Henry J. Kaiser, Oakland, California", 
-  "DateAcquired": "1989-06-08", 
+  "CreditLine": "Mr. and Mrs. Clark Winter Fund and Purchase", 
   "Date": "1951", 
   "ArtistID": 6287, 
   "Keywords": [
@@ -21,7 +20,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "190.1989", 
-  "ArtistBio": "American, 1919\u20131959", 
-  "CreditLine": "Mr. and Mrs. Clark Winter Fund and Purchase", 
+  "ArtistBio": "(American, 1919\u20131959)", 
+  "DateAcquired": "1989-06-08", 
+  "\ufeffTitle": "Secretary with Boss, Henry J. Kaiser, Oakland, California", 
   "ObjectID": "48090"
 }

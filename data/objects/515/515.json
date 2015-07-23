@@ -5,8 +5,7 @@
   "Artist": "Iakov Chernikhov", 
   "URL": "http://www.moma.org/collection/works/515", 
   "CuratorApproved": "Y", 
-  "Title": "Arkhitekturnye Fantazii", 
-  "DateAcquired": "1985-11-18", 
+  "CreditLine": "Arthur A. Cohen Purchase Fund", 
   "Date": "before 1933", 
   "ArtistID": 1093, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "394.1985", 
-  "ArtistBio": "Russian, 1889\u20131951", 
-  "CreditLine": "Arthur A. Cohen Purchase Fund", 
+  "ArtistBio": "(Russian, 1889\u20131951)", 
+  "DateAcquired": "1985-11-18", 
+  "\ufeffTitle": "Arkhitekturnye Fantazii", 
   "ObjectID": "515"
 }

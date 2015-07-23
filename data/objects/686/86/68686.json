@@ -5,8 +5,7 @@
   "Artist": "Robert Indiana", 
   "URL": "http://www.moma.org/collection/works/68686", 
   "CuratorApproved": "Y", 
-  "Title": "Decade", 
-  "DateAcquired": "1978-05-22", 
+  "CreditLine": "Gift of Mr. and Mrs. Howard Sloan", 
   "Date": "1971", 
   "ArtistID": 2812, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "414.1978.1-10", 
-  "ArtistBio": "American, born 1928", 
-  "CreditLine": "Gift of Mr. and Mrs. Howard Sloan", 
+  "ArtistBio": "(American, born 1928)", 
+  "DateAcquired": "1978-05-22", 
+  "\ufeffTitle": "Decade", 
   "ObjectID": "68686"
 }

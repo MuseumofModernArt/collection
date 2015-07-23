@@ -5,8 +5,7 @@
   "Artist": "Leonardo Cremonini", 
   "URL": "http://www.moma.org/collection/works/36555", 
   "CuratorApproved": "Y", 
-  "Title": "Head of a Woman", 
-  "DateAcquired": "1960-11-16", 
+  "CreditLine": "John S. Newberry Collection", 
   "Date": "1954", 
   "ArtistID": 1303, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "374.1960", 
-  "ArtistBio": "Italian, 1925\u20132010", 
-  "CreditLine": "John S. Newberry Collection", 
+  "ArtistBio": "(Italian, 1925\u20132010)", 
+  "DateAcquired": "1960-11-16", 
+  "\ufeffTitle": "Head of a Woman", 
   "ObjectID": "36555"
 }

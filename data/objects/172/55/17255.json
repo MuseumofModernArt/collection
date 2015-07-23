@@ -5,8 +5,7 @@
   "Artist": "Jean Le Gac", 
   "URL": "http://www.moma.org/collection/works/17255", 
   "CuratorApproved": "Y", 
-  "Title": "La Construction de la Cabane", 
-  "DateAcquired": "1980-04-23", 
+  "CreditLine": "The Dorothy Braude Edinburg Fund and John R. Jakobson Foundation Fund", 
   "Date": "1976", 
   "ArtistID": 3428, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "441.1980", 
-  "ArtistBio": "French, born 1936", 
-  "CreditLine": "The Dorothy Braude Edinburg Fund and John R. Jakobson Foundation Fund", 
+  "ArtistBio": "(French, born 1936)", 
+  "DateAcquired": "1980-04-23", 
+  "\ufeffTitle": "La Construction de la Cabane", 
   "ObjectID": "17255"
 }

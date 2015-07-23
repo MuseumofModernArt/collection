@@ -5,8 +5,7 @@
   "Artist": "Jacques Villon", 
   "URL": "http://www.moma.org/collection/works/63461", 
   "CuratorApproved": "Y", 
-  "Title": "Down and Out", 
-  "DateAcquired": "1949-03-24", 
+  "CreditLine": "Purchase", 
   "Date": "1890", 
   "ArtistID": 6165, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "168.1949", 
-  "ArtistBio": "French, 1875\u20131963", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(French, 1875\u20131963)", 
+  "DateAcquired": "1949-03-24", 
+  "\ufeffTitle": "Down and Out", 
   "ObjectID": "63461"
 }

@@ -5,8 +5,7 @@
   "Artist": "Harry Callahan", 
   "URL": "http://www.moma.org/collection/works/53367", 
   "CuratorApproved": "Y", 
-  "Title": "Weed, Aix-en-Provence", 
-  "DateAcquired": "1960-11-30", 
+  "CreditLine": "Gift of the photographer", 
   "Date": "1958", 
   "ArtistID": 924, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "437.1960", 
-  "ArtistBio": "American, 1912\u20131999", 
-  "CreditLine": "Gift of the photographer", 
+  "ArtistBio": "(American, 1912\u20131999)", 
+  "DateAcquired": "1960-11-30", 
+  "\ufeffTitle": "Weed, Aix-en-Provence", 
   "ObjectID": "53367"
 }

@@ -5,8 +5,7 @@
   "Artist": "Alberto Giacometti", 
   "URL": "http://www.moma.org/collection/works/65398", 
   "CuratorApproved": "Y", 
-  "Title": "The Dog", 
-  "DateAcquired": "1952-11-07", 
+  "CreditLine": "Larry Aldrich Fund", 
   "Date": "1952", 
   "ArtistID": 2141, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "258.1952", 
-  "ArtistBio": "Swiss, 1901\u20131966", 
-  "CreditLine": "Larry Aldrich Fund", 
+  "ArtistBio": "(Swiss, 1901\u20131966)", 
+  "DateAcquired": "1952-11-07", 
+  "\ufeffTitle": "The Dog", 
   "ObjectID": "65398"
 }

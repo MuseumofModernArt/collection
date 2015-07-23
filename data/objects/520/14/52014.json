@@ -5,8 +5,7 @@
   "Artist": "Mathew B. Brady (studio of)", 
   "URL": "http://www.moma.org/collection/works/52014", 
   "CuratorApproved": "Y", 
-  "Title": "Ruins of Richmond", 
-  "DateAcquired": "1938-10-20", 
+  "CreditLine": "Purchase", 
   "Date": "1863-65", 
   "ArtistID": 734, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "373.1938", 
-  "ArtistBio": "American, 1823\u20131896", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, 1823\u20131896)", 
+  "DateAcquired": "1938-10-20", 
+  "\ufeffTitle": "Ruins of Richmond", 
   "ObjectID": "52014"
 }

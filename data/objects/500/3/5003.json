@@ -5,8 +5,7 @@
   "Artist": "John Atherton", 
   "URL": "http://www.moma.org/collection/works/5003", 
   "CuratorApproved": "Y", 
-  "Title": "A Careless Word - Another Cross", 
-  "DateAcquired": "1944-05-02", 
+  "CreditLine": "Gift of the Office of War Information", 
   "Date": "1943", 
   "ArtistID": 230, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "87.1944", 
-  "ArtistBio": "American, 1900\u20131952", 
-  "CreditLine": "Gift of the Office of War Information", 
+  "ArtistBio": "(American, 1900\u20131952)", 
+  "DateAcquired": "1944-05-02", 
+  "\ufeffTitle": "A Careless Word - Another Cross", 
   "ObjectID": "5003"
 }

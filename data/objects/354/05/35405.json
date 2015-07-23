@@ -5,8 +5,7 @@
   "Artist": "Joel Shapiro", 
   "URL": "http://www.moma.org/collection/works/35405", 
   "CuratorApproved": "Y", 
-  "Title": "Fingerprint Drawing", 
-  "DateAcquired": "1988-05-05", 
+  "CreditLine": "Gift of Mr. and Mrs. Alfred R. Stern", 
   "Date": "(1969)", 
   "ArtistID": 5373, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "227.1988", 
-  "ArtistBio": "American, born 1941", 
-  "CreditLine": "Gift of Mr. and Mrs. Alfred R. Stern", 
+  "ArtistBio": "(American, born 1941)", 
+  "DateAcquired": "1988-05-05", 
+  "\ufeffTitle": "Fingerprint Drawing", 
   "ObjectID": "35405"
 }

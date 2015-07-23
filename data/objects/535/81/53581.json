@@ -5,8 +5,7 @@
   "Artist": "Mario De Biasi", 
   "URL": "http://www.moma.org/collection/works/53581", 
   "CuratorApproved": "Y", 
-  "Title": "Balletto", 
-  "DateAcquired": "1960-11-30", 
+  "CreditLine": "Gift of the photographer", 
   "Date": "1953", 
   "ArtistID": 1421, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "454.1960", 
-  "ArtistBio": "Italian, 1923\u20132013", 
-  "CreditLine": "Gift of the photographer", 
+  "ArtistBio": "(Italian, 1923\u20132013)", 
+  "DateAcquired": "1960-11-30", 
+  "\ufeffTitle": "Balletto", 
   "ObjectID": "53581"
 }

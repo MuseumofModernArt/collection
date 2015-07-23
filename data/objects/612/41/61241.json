@@ -5,8 +5,7 @@
   "Artist": "Andy Warhol", 
   "URL": "http://www.moma.org/collection/works/61241", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled from Marilyn Monroe", 
-  "DateAcquired": "1968-02-05", 
+  "CreditLine": "Gift of Mr. David Whitney", 
   "Date": "1967", 
   "ArtistID": 6246, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "70.1968.10", 
-  "ArtistBio": "American, 1928\u20131987", 
-  "CreditLine": "Gift of Mr. David Whitney", 
+  "ArtistBio": "(American, 1928\u20131987)", 
+  "DateAcquired": "1968-02-05", 
+  "\ufeffTitle": "Untitled from Marilyn Monroe", 
   "ObjectID": "61241"
 }

@@ -1,12 +1,11 @@
 {
   "Medium": "Four etchings, two with hand additions", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "Howard Hodgkin", 
   "URL": "http://www.moma.org/collection/works/69435", 
   "CuratorApproved": "Y", 
-  "Title": "In the Museum of Modern Art", 
-  "DateAcquired": "1989-01-18", 
+  "CreditLine": "Gift of Mr. and Mrs. Herbert D. Schimmel in honor of Riva Castleman", 
   "Date": "1979", 
   "ArtistID": 2679, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "458.1988.1-4", 
-  "ArtistBio": "British, born 1932", 
-  "CreditLine": "Gift of Mr. and Mrs. Herbert D. Schimmel in honor of Riva Castleman", 
+  "ArtistBio": "(British, born 1932)", 
+  "DateAcquired": "1989-01-18", 
+  "\ufeffTitle": "In the Museum of Modern Art", 
   "ObjectID": "69435"
 }

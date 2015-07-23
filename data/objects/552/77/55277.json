@@ -5,8 +5,7 @@
   "Artist": "Nicholas Nixon", 
   "URL": "http://www.moma.org/collection/works/55277", 
   "CuratorApproved": "Y", 
-  "Title": "The Brown Sisters, Falmouth, Massachusetts", 
-  "DateAcquired": "1998-10-15", 
+  "CreditLine": "Lois and Bruce Zenkel Fund", 
   "Date": "1998", 
   "ArtistID": 4315, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "573.1998", 
-  "ArtistBio": "American, born 1947", 
-  "CreditLine": "Lois and Bruce Zenkel Fund", 
+  "ArtistBio": "(American, born 1947)", 
+  "DateAcquired": "1998-10-15", 
+  "\ufeffTitle": "The Brown Sisters, Falmouth, Massachusetts", 
   "ObjectID": "55277"
 }

@@ -5,8 +5,7 @@
   "Artist": "Auguste Herbin", 
   "URL": "http://www.moma.org/collection/works/38224", 
   "CuratorApproved": "Y", 
-  "Title": "Composition", 
-  "DateAcquired": "1985-09-10", 
+  "CreditLine": "The Riklis Collection of McCrory Corporation", 
   "Date": "(c. 1925)", 
   "ArtistID": 2602, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "894.1983", 
-  "ArtistBio": "French, 1882\u20131960", 
-  "CreditLine": "The Riklis Collection of McCrory Corporation", 
+  "ArtistBio": "(French, 1882\u20131960)", 
+  "DateAcquired": "1985-09-10", 
+  "\ufeffTitle": "Composition", 
   "ObjectID": "38224"
 }

@@ -5,8 +5,7 @@
   "Artist": "Jes\u00fas Guerrero Galvan", 
   "URL": "http://www.moma.org/collection/works/33631", 
   "CuratorApproved": "Y", 
-  "Title": "Study for The Children", 
-  "DateAcquired": "1944-05-02", 
+  "CreditLine": "Inter-American Fund", 
   "Date": "1938", 
   "ArtistID": 2394, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "72.1944", 
-  "ArtistBio": "Mexican, 1910\u20131973", 
-  "CreditLine": "Inter-American Fund", 
+  "ArtistBio": "(Mexican, 1910\u20131973)", 
+  "DateAcquired": "1944-05-02", 
+  "\ufeffTitle": "Study for The Children", 
   "ObjectID": "33631"
 }

@@ -5,8 +5,7 @@
   "Artist": "Emil Nolde", 
   "URL": "http://www.moma.org/collection/works/62514", 
   "CuratorApproved": "Y", 
-  "Title": "Surf", 
-  "DateAcquired": "1947-03-13", 
+  "CreditLine": "Purchase", 
   "Date": "(1922)", 
   "ArtistID": 4327, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "134.1946", 
-  "ArtistBio": "German, 1867\u20131956", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(German, 1867\u20131956)", 
+  "DateAcquired": "1947-03-13", 
+  "\ufeffTitle": "Surf (Brandung)", 
   "ObjectID": "62514"
 }

@@ -5,8 +5,7 @@
   "Artist": "Fran\u00e7ois Rouan", 
   "URL": "http://www.moma.org/collection/works/36077", 
   "CuratorApproved": "Y", 
-  "Title": "Montecalvello-Trellage", 
-  "DateAcquired": "1978-04-04", 
+  "CreditLine": "Given anonymously", 
   "Date": "August 1973", 
   "ArtistID": 5052, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "298.1978", 
-  "ArtistBio": "French, born 1943", 
-  "CreditLine": "Given anonymously", 
+  "ArtistBio": "(French, born 1943)", 
+  "DateAcquired": "1978-04-04", 
+  "\ufeffTitle": "Montecalvello-Trellage", 
   "ObjectID": "36077"
 }

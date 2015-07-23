@@ -5,8 +5,7 @@
   "Artist": "Louise Bourgeois", 
   "URL": "http://www.moma.org/collection/works/61605", 
   "CuratorApproved": "Y", 
-  "Title": "The Liseuse (The Reader), state II", 
-  "DateAcquired": "1994-01-25", 
+  "CreditLine": "Gift of the artist", 
   "Date": "(c. 1939)", 
   "ArtistID": 710, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "85.1994.a-b", 
-  "ArtistBio": "American, born France. 1911\u20132010", 
-  "CreditLine": "Gift of the artist", 
+  "ArtistBio": "(American, born France. 1911\u20132010)", 
+  "DateAcquired": "1994-01-25", 
+  "\ufeffTitle": "The Liseuse (The Reader), state II", 
   "ObjectID": "61605"
 }

@@ -1,12 +1,11 @@
 {
   "Medium": "Pewter", 
-  "Dimensions": ".1 (salt cup): 3 3/16 x 2 5/16\" (8.1 x 5.9 cm)  .2 (egg cup): 1 x 2 3/4 x 1 11/16\" (2.5 x 7 x 4.3 cm)", 
+  "Dimensions": ".1 (salt cup): 3 3/16 x 2 5/16\" (8.1 x 5.9 cm)\r\n.2 (egg cup): 1 x 2 3/4 x 1 11/16\" (2.5 x 7 x 4.3 cm)", 
   "Classification": "A&D Design", 
   "Artist": "J. P. Kayser Sohn", 
   "URL": "http://www.moma.org/collection/works/2652", 
   "CuratorApproved": "Y", 
-  "Title": "Egg Cup and Salt Cup", 
-  "DateAcquired": "1987-05-27", 
+  "CreditLine": "Est\u00e9e and Joseph Lauder Design Fund", 
   "Date": "1902-1904", 
   "ArtistID": 3032, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "205.1987.1-2", 
-  "ArtistBio": "German, established 1814", 
-  "CreditLine": "Est\u00e9e and Joseph Lauder Design Fund", 
+  "ArtistBio": "(German, established 1814)", 
+  "DateAcquired": "1987-05-27", 
+  "\ufeffTitle": "Egg Cup and Salt Cup", 
   "ObjectID": "2652"
 }

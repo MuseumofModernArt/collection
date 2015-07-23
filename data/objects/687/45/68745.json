@@ -1,12 +1,11 @@
 {
   "Medium": "One lithograph from a portfolio of six lithographs, five screenprints and one aquatint", 
-  "Dimensions": "composition  22 1/8 x 18 1/8\" (56.2 x 46 cm)  sheet  28 3/16 x 21 5/8\" (71.6 x 54.9 cm)", 
+  "Dimensions": "composition  22 1/8 x 18 1/8\" (56.2 x 46 cm)\r\nsheet  28 3/16 x 21 5/8\" (71.6 x 54.9 cm)", 
   "Classification": "Print", 
   "Artist": "Alan Kessler", 
   "URL": "http://www.moma.org/collection/works/68745", 
   "CuratorApproved": "Y", 
-  "Title": "RED GERANIUM from the portfolio 1776 USA 1976 BICENTENNIAL PRINTS", 
-  "DateAcquired": "1977-11-10", 
+  "CreditLine": "Gift of Special Projects Group", 
   "Date": "1975 (Published 1976).", 
   "ArtistID": 3073, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "416.1977.7", 
-  "ArtistBio": "American, born 1945", 
-  "CreditLine": "Gift of Special Projects Group", 
+  "ArtistBio": "(American, born 1945)", 
+  "DateAcquired": "1977-11-10", 
+  "\ufeffTitle": "Red Geranium from 1776 USA 1976 Bicentennial Prints", 
   "ObjectID": "68745"
 }

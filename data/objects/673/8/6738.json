@@ -5,8 +5,7 @@
   "Artist": "Lothar Fischer", 
   "URL": "http://www.moma.org/collection/works/6738", 
   "CuratorApproved": "Y", 
-  "Title": "Lothar Fischer \"Emanationen\"", 
-  "DateAcquired": "1969-04-24", 
+  "CreditLine": "Gift of the Galerie Casa, Munich", 
   "Date": "1968", 
   "ArtistID": 1884, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "371.1969", 
-  "ArtistBio": "Nationality unknown, born 1933", 
-  "CreditLine": "Gift of the Galerie Casa, Munich", 
+  "ArtistBio": "(Nationality unknown, born 1933)", 
+  "DateAcquired": "1969-04-24", 
+  "\ufeffTitle": "Lothar Fischer \"Emanationen\"", 
   "ObjectID": "6738"
 }

@@ -5,8 +5,7 @@
   "Artist": "Agnes Martin", 
   "URL": "http://www.moma.org/collection/works/38280", 
   "CuratorApproved": "Y", 
-  "Title": "Tremolo", 
-  "DateAcquired": "1985-09-10", 
+  "CreditLine": "The Riklis Collection of McCrory Corporation", 
   "Date": "1962", 
   "ArtistID": 3787, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "927.1983", 
-  "ArtistBio": "American, born Canada. 1912\u20132004", 
-  "CreditLine": "The Riklis Collection of McCrory Corporation", 
+  "ArtistBio": "(American, born Canada. 1912\u20132004)", 
+  "DateAcquired": "1985-09-10", 
+  "\ufeffTitle": "Tremolo", 
   "ObjectID": "38280"
 }

@@ -5,8 +5,7 @@
   "Artist": "Weegee (Arthur Fellig)", 
   "URL": "http://www.moma.org/collection/works/46558", 
   "CuratorApproved": "Y", 
-  "Title": "Self Portrait in Police Van", 
-  "DateAcquired": "1993-03-11", 
+  "CreditLine": "Gift of the photographer", 
   "Date": "c. 1940", 
   "ArtistID": 1842, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "101.1993", 
-  "ArtistBio": "American, born Austria. 1899\u20131968", 
-  "CreditLine": "Gift of the photographer", 
+  "ArtistBio": "(American, born Austria. 1899\u20131968)", 
+  "DateAcquired": "1993-03-11", 
+  "\ufeffTitle": "Self Portrait in Police Van", 
   "ObjectID": "46558"
 }

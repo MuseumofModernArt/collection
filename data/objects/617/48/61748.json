@@ -1,12 +1,11 @@
 {
   "Medium": "Screenprint", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "Mary Callery", 
   "URL": "http://www.moma.org/collection/works/61748", 
   "CuratorApproved": "Y", 
-  "Title": "Variations on a Theme of  \"Callery-L\u00e9ger\"", 
-  "DateAcquired": "1991-05-22", 
+  "CreditLine": "Gift of Lily Auchincloss", 
   "Date": "(c. 1955)", 
   "ArtistID": 926, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "97.1991", 
-  "ArtistBio": "American, 1903\u20131977", 
-  "CreditLine": "Gift of Lily Auchincloss", 
+  "ArtistBio": "(American, 1903\u20131977)", 
+  "DateAcquired": "1991-05-22", 
+  "\ufeffTitle": "Variations on a Theme of  \"Callery-L\u00e9ger\"", 
   "ObjectID": "61748"
 }

@@ -5,8 +5,7 @@
   "Artist": "Eduardo Chillida", 
   "URL": "http://www.moma.org/collection/works/62285", 
   "CuratorApproved": "Y", 
-  "Title": "Ikur", 
-  "DateAcquired": "1975-05-09", 
+  "CreditLine": "Walter Bareiss Fund", 
   "Date": "(1972)", 
   "ArtistID": 1104, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "125.1975", 
-  "ArtistBio": "Spanish, 1924\u20132002", 
-  "CreditLine": "Walter Bareiss Fund", 
+  "ArtistBio": "(Spanish, 1924\u20132002)", 
+  "DateAcquired": "1975-05-09", 
+  "\ufeffTitle": "Ikur", 
   "ObjectID": "62285"
 }

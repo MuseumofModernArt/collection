@@ -5,8 +5,7 @@
   "Artist": "Lewis W. Hine", 
   "URL": "http://www.moma.org/collection/works/44668", 
   "CuratorApproved": "Y", 
-  "Title": "This Is as near the Ocean as This Baby Gets", 
-  "DateAcquired": "1946-05-07", 
+  "CreditLine": "Purchase", 
   "Date": "1910", 
   "ArtistID": 2657, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "45.1946", 
-  "ArtistBio": "American, 1874\u20131940", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, 1874\u20131940)", 
+  "DateAcquired": "1946-05-07", 
+  "\ufeffTitle": "This Is as near the Ocean as This Baby Gets", 
   "ObjectID": "44668"
 }

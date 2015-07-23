@@ -5,8 +5,7 @@
   "Artist": "Lisette Model", 
   "URL": "http://www.moma.org/collection/works/44346", 
   "CuratorApproved": "Y", 
-  "Title": "World War II Rally, Lower East Side", 
-  "DateAcquired": "1943-02-17", 
+  "CreditLine": "Gift of the photographer", 
   "Date": "1942", 
   "ArtistID": 4036, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "34.1943", 
-  "ArtistBio": "American, born Austria. 1901\u20131983", 
-  "CreditLine": "Gift of the photographer", 
+  "ArtistBio": "(American, born Austria. 1901\u20131983)", 
+  "DateAcquired": "1943-02-17", 
+  "\ufeffTitle": "World War II Rally, Lower East Side", 
   "ObjectID": "44346"
 }

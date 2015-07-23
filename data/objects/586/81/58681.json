@@ -5,8 +5,7 @@
   "Artist": "Henry Ries", 
   "URL": "http://www.moma.org/collection/works/58681", 
   "CuratorApproved": "Y", 
-  "Title": "Allied Correspondents Visit German Prison Camp in the Russian Zone", 
-  "DateAcquired": "2001-06-14", 
+  "CreditLine": "The New York Times Collection", 
   "Date": "1947", 
   "ArtistID": 4919, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "2088.2001", 
-  "ArtistBio": "American, born Germany. 1917\u20132004", 
-  "CreditLine": "The New York Times Collection", 
+  "ArtistBio": "(American, born Germany. 1917\u20132004)", 
+  "DateAcquired": "2001-06-14", 
+  "\ufeffTitle": "Allied Correspondents Visit German Prison Camp in the Russian Zone", 
   "ObjectID": "58681"
 }

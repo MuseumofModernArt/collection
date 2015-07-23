@@ -5,8 +5,7 @@
   "Artist": "U.S. Army Signal Corps", 
   "URL": "http://www.moma.org/collection/works/58818", 
   "CuratorApproved": "Y", 
-  "Title": "Three Emaciated British Tommies Held Prisoner by the Germans for Five Years", 
-  "DateAcquired": "2001-06-14", 
+  "CreditLine": "The New York Times Collection", 
   "Date": "April 8, 1945", 
   "ArtistID": 7032, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "2225.2001", 
-  "ArtistBio": "American", 
-  "CreditLine": "The New York Times Collection", 
+  "ArtistBio": "(American)", 
+  "DateAcquired": "2001-06-14", 
+  "\ufeffTitle": "\"Three Emaciated British Tommies Held Prisoner by the Germans for Five Years\"", 
   "ObjectID": "58818"
 }

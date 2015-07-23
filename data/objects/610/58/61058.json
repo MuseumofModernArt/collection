@@ -5,8 +5,7 @@
   "Artist": "Jos\u00e9 Ch\u00e1vez Morado", 
   "URL": "http://www.moma.org/collection/works/61058", 
   "CuratorApproved": "Y", 
-  "Title": "The Skirmish", 
-  "DateAcquired": "1954-04-06", 
+  "CreditLine": "Inter-American Fund", 
   "Date": "1945", 
   "ArtistID": 1084, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "57.1954", 
-  "ArtistBio": "Mexican, 1909\u20132002", 
-  "CreditLine": "Inter-American Fund", 
+  "ArtistBio": "(Mexican, 1909\u20132002)", 
+  "DateAcquired": "1954-04-06", 
+  "\ufeffTitle": "The Skirmish", 
   "ObjectID": "61058"
 }

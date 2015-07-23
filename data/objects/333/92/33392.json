@@ -5,8 +5,7 @@
   "Artist": "Aleksandr Rodchenko", 
   "URL": "http://www.moma.org/collection/works/33392", 
   "CuratorApproved": "Y", 
-  "Title": "Line Construction", 
-  "DateAcquired": "NULL", 
+  "CreditLine": "Gift of the artist", 
   "Date": "1921", 
   "ArtistID": 4975, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "31.1936", 
-  "ArtistBio": "Russian, 1891\u20131956", 
-  "CreditLine": "Gift of the artist", 
+  "ArtistBio": "(Russian, 1891\u20131956)", 
+  "DateAcquired": "", 
+  "\ufeffTitle": "Line Construction", 
   "ObjectID": "33392"
 }

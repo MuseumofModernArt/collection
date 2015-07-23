@@ -5,8 +5,7 @@
   "Artist": "Bruce Horowitz", 
   "URL": "http://www.moma.org/collection/works/51096", 
   "CuratorApproved": "Y", 
-  "Title": "Man Holding Hat and Wine Bottles", 
-  "DateAcquired": "1974-06-04", 
+  "CreditLine": "John Parkinson III Fund", 
   "Date": "1974", 
   "ArtistID": 2729, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "336.1974", 
-  "ArtistBio": "American, born 1949", 
-  "CreditLine": "John Parkinson III Fund", 
+  "ArtistBio": "(American, born 1949)", 
+  "DateAcquired": "1974-06-04", 
+  "\ufeffTitle": "Man Holding Hat and Wine Bottles", 
   "ObjectID": "51096"
 }

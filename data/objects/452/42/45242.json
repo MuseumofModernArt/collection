@@ -5,8 +5,7 @@
   "Artist": "Hugo Erfurth", 
   "URL": "http://www.moma.org/collection/works/45242", 
   "CuratorApproved": "Y", 
-  "Title": "Oskar Kokoschka", 
-  "DateAcquired": "1964-01-07", 
+  "CreditLine": "Gift of L. Fritz Gruber", 
   "Date": "1919", 
   "ArtistID": 1744, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "60.1964", 
-  "ArtistBio": "German, 1874\u20131948", 
-  "CreditLine": "Gift of L. Fritz Gruber", 
+  "ArtistBio": "(German, 1874\u20131948)", 
+  "DateAcquired": "1964-01-07", 
+  "\ufeffTitle": "Oskar Kokoschka", 
   "ObjectID": "45242"
 }

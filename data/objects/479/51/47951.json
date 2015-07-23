@@ -5,8 +5,7 @@
   "Artist": "Helen Levitt", 
   "URL": "http://www.moma.org/collection/works/47951", 
   "CuratorApproved": "Y", 
-  "Title": "New York", 
-  "DateAcquired": "1992-04-02", 
+  "CreditLine": "Gift of Dr. and Mrs. Robert Levitt", 
   "Date": "1971", 
   "ArtistID": 3520, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "184.1992", 
-  "ArtistBio": "American, 1913\u20132009", 
-  "CreditLine": "Gift of Dr. and Mrs. Robert Levitt", 
+  "ArtistBio": "(American, 1913\u20132009)", 
+  "DateAcquired": "1992-04-02", 
+  "\ufeffTitle": "New York", 
   "ObjectID": "47951"
 }

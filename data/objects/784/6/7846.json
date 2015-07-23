@@ -5,8 +5,7 @@
   "Artist": "Tomasz Szulecki", 
   "URL": "http://www.moma.org/collection/works/7846", 
   "CuratorApproved": "Y", 
-  "Title": "Spiskowcy (Under Western Eyes)", 
-  "DateAcquired": "1981-12-10", 
+  "CreditLine": "Peter Stone Poster Fund", 
   "Date": "1979", 
   "ArtistID": 5765, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "648.1981", 
-  "ArtistBio": "Polish, born 1953", 
-  "CreditLine": "Peter Stone Poster Fund", 
+  "ArtistBio": "(Polish, born 1953)", 
+  "DateAcquired": "1981-12-10", 
+  "\ufeffTitle": "Spiskowcy (Under Western Eyes) (Poster for the Warsaw production of Joseph Conrad's novel)", 
   "ObjectID": "7846"
 }

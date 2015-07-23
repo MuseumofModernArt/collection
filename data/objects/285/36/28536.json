@@ -5,8 +5,7 @@
   "Artist": "Lucio Fontana", 
   "URL": "http://www.moma.org/collection/works/28536", 
   "CuratorApproved": "Y", 
-  "Title": "Portrait of Antonin Artaud", 
-  "DateAcquired": "1969-10-28", 
+  "CreditLine": "Monroe Wheeler Fund", 
   "Date": "1968", 
   "ArtistID": 1930, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "932.1969.1-6", 
-  "ArtistBio": "Italian, born Argentina. 1899\u20131968", 
-  "CreditLine": "Monroe Wheeler Fund", 
+  "ArtistBio": "(Italian, born Argentina. 1899\u20131968)", 
+  "DateAcquired": "1969-10-28", 
+  "\ufeffTitle": "Portrait of Antonin Artaud", 
   "ObjectID": "28536"
 }

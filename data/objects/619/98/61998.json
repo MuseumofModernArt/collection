@@ -5,8 +5,7 @@
   "Artist": "James Ensor", 
   "URL": "http://www.moma.org/collection/works/61998", 
   "CuratorApproved": "Y", 
-  "Title": "Peculiar Insects, state V", 
-  "DateAcquired": "1952-05-20", 
+  "CreditLine": "Purchase", 
   "Date": "1888", 
   "ArtistID": 1739, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "113.1952", 
-  "ArtistBio": "Belgian, 1860\u20131949", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(Belgian, 1860\u20131949)", 
+  "DateAcquired": "1952-05-20", 
+  "\ufeffTitle": "Peculiar Insects, state V", 
   "ObjectID": "61998"
 }

@@ -5,8 +5,7 @@
   "Artist": "August Sander", 
   "URL": "http://www.moma.org/collection/works/53088", 
   "CuratorApproved": "Y", 
-  "Title": "Bricklayer's Mate", 
-  "DateAcquired": "1980-03-13", 
+  "CreditLine": "Gift of the artist", 
   "Date": "1928", 
   "ArtistID": 5145, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "416.1980", 
-  "ArtistBio": "German, 1876\u20131964", 
-  "CreditLine": "Gift of the artist", 
+  "ArtistBio": "(German, 1876\u20131964)", 
+  "DateAcquired": "1980-03-13", 
+  "\ufeffTitle": "Bricklayer's Mate", 
   "ObjectID": "53088"
 }

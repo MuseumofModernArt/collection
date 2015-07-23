@@ -1,12 +1,11 @@
 {
-  "Medium": ".a: Ink on paper  .b: Ink on paper", 
+  "Medium": ".a: Ink on paper\r\n.b: Ink on paper", 
   "Dimensions": "26 3/4 x 19 5/8\" (68 x 49.9 cm)", 
   "Classification": "Drawing", 
   "Artist": "George Grosz", 
   "URL": "http://www.moma.org/collection/works/33002", 
   "CuratorApproved": "Y", 
-  "Title": ".a) Dispute by Moonlight  .b) Two Men", 
-  "DateAcquired": "1948-03-17", 
+  "CreditLine": "A. Conger Goodyear Fund", 
   "Date": "(c. 1920)", 
   "ArtistID": 2374, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "4.1948.a-b", 
-  "ArtistBio": "American, born Germany. 1893\u20131959", 
-  "CreditLine": "A. Conger Goodyear Fund", 
+  "ArtistBio": "(American, born Germany. 1893\u20131959)", 
+  "DateAcquired": "1948-03-17", 
+  "\ufeffTitle": ".a Dispute by Moonlight (Disput bei Mondschein) .b Two Men", 
   "ObjectID": "33002"
 }

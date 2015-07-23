@@ -5,8 +5,7 @@
   "Artist": "Otto Dix", 
   "URL": "http://www.moma.org/collection/works/62295", 
   "CuratorApproved": "Y", 
-  "Title": "Mrs. Otto Mueller", 
-  "DateAcquired": "1945-03-07", 
+  "CreditLine": "Purchase Fund", 
   "Date": "1923", 
   "ArtistID": 1559, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "126.1945", 
-  "ArtistBio": "German, 1891\u20131969", 
-  "CreditLine": "Purchase Fund", 
+  "ArtistBio": "(German, 1891\u20131969)", 
+  "DateAcquired": "1945-03-07", 
+  "\ufeffTitle": "Mrs. Otto Mueller (Frau Otto Mueller)", 
   "ObjectID": "62295"
 }

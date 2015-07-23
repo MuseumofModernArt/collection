@@ -5,8 +5,7 @@
   "Artist": "Jupp Wiertz", 
   "URL": "http://www.moma.org/collection/works/7359", 
   "CuratorApproved": "Y", 
-  "Title": "A E G", 
-  "DateAcquired": "1987-11-18", 
+  "CreditLine": "Department Purchase Fund", 
   "Date": "c. 1915", 
   "ArtistID": 6358, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "517.1987", 
-  "ArtistBio": "German, 1881\u20131939", 
-  "CreditLine": "Department Purchase Fund", 
+  "ArtistBio": "(German, 1881\u20131939)", 
+  "DateAcquired": "1987-11-18", 
+  "\ufeffTitle": "A E G", 
   "ObjectID": "7359"
 }

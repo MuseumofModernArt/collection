@@ -5,8 +5,7 @@
   "Artist": "Stanislaw Zagorski", 
   "URL": "http://www.moma.org/collection/works/7100", 
   "CuratorApproved": "Y", 
-  "Title": "Harlem Globetrotters", 
-  "DateAcquired": "1964-05-12", 
+  "CreditLine": "Gift of the artist", 
   "Date": "1963", 
   "ArtistID": 6534, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "460.1964", 
-  "ArtistBio": "Polish, born 1933", 
-  "CreditLine": "Gift of the artist", 
+  "ArtistBio": "(Polish, born 1933)", 
+  "DateAcquired": "1964-05-12", 
+  "\ufeffTitle": "Harlem Globetrotters", 
   "ObjectID": "7100"
 }

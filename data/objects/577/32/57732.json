@@ -5,8 +5,7 @@
   "Artist": "Lee Friedlander", 
   "URL": "http://www.moma.org/collection/works/57732", 
   "CuratorApproved": "Y", 
-  "Title": "Father Duffy. Times Square, New York City", 
-  "DateAcquired": "2000-10-12", 
+  "CreditLine": "Carl Jacobs Fund", 
   "Date": "1974", 
   "ArtistID": 2002, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "1151.2000", 
-  "ArtistBio": "American, born 1934", 
-  "CreditLine": "Carl Jacobs Fund", 
+  "ArtistBio": "(American, born 1934)", 
+  "DateAcquired": "2000-10-12", 
+  "\ufeffTitle": "Father Duffy. Times Square, New York City", 
   "ObjectID": "57732"
 }

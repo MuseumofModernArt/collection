@@ -5,8 +5,7 @@
   "Artist": "Jasper Johns", 
   "URL": "http://www.moma.org/collection/works/67552", 
   "CuratorApproved": "Y", 
-  "Title": "False Start I", 
-  "DateAcquired": "1962-12-11", 
+  "CreditLine": "Gift of the Celeste and Armand Bartos Foundation", 
   "Date": "1962", 
   "ArtistID": 2923, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "354.1962", 
-  "ArtistBio": "American, born 1930", 
-  "CreditLine": "Gift of the Celeste and Armand Bartos Foundation", 
+  "ArtistBio": "(American, born 1930)", 
+  "DateAcquired": "1962-12-11", 
+  "\ufeffTitle": "False Start I", 
   "ObjectID": "67552"
 }

@@ -5,8 +5,7 @@
   "Artist": "Ludwig Meidner", 
   "URL": "http://www.moma.org/collection/works/37095", 
   "CuratorApproved": "Y", 
-  "Title": "Curt Valentin", 
-  "DateAcquired": "1971-10-07", 
+  "CreditLine": "Gift of The Cosmopolitan Arts Foundation", 
   "Date": "1923", 
   "ArtistID": 3909, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "476.1971", 
-  "ArtistBio": "German, 1884\u20131966", 
-  "CreditLine": "Gift of The Cosmopolitan Arts Foundation", 
+  "ArtistBio": "(German, 1884\u20131966)", 
+  "DateAcquired": "1971-10-07", 
+  "\ufeffTitle": "Curt Valentin", 
   "ObjectID": "37095"
 }

@@ -1,12 +1,11 @@
 {
   "Medium": "Woodcut", 
-  "Dimensions": "composition  18 5/16 x 13 3/4\" (46.5 x 35 cm)  sheet  26 3/16 x 20 1/4\" (66 x 51.5 cm)", 
+  "Dimensions": "composition  18 5/16 x 13 3/4\" (46.5 x 35 cm)\r\nsheet  26 3/16 x 20 1/4\" (66 x 51.5 cm)", 
   "Classification": "Print", 
   "Artist": "A.R. Penck (Ralf Winkler)", 
   "URL": "http://www.moma.org/collection/works/60014", 
   "CuratorApproved": "Y", 
-  "Title": "Monika", 
-  "DateAcquired": "1990-01-16", 
+  "CreditLine": "Johanna and Leslie J. Garfield Fund", 
   "Date": "(1966-89)", 
   "ArtistID": 4546, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "16.1990", 
-  "ArtistBio": "German, born 1939", 
-  "CreditLine": "Johanna and Leslie J. Garfield Fund", 
+  "ArtistBio": "(German, born 1939)", 
+  "DateAcquired": "1990-01-16", 
+  "\ufeffTitle": "Monika", 
   "ObjectID": "60014"
 }

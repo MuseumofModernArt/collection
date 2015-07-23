@@ -1,12 +1,11 @@
 {
   "Medium": "Screenprint", 
-  "Dimensions": "irreg composition  44 1/16 x 30 15/16\" (112 x 78.7 cm)  sheet  50 x 35 1/8\" (127.1 x 89.3 cm)", 
+  "Dimensions": "irreg composition  44 1/16 x 30 15/16\" (112 x 78.7 cm)\r\nsheet  50 x 35 1/8\" (127.1 x 89.3 cm)", 
   "Classification": "Print", 
   "Artist": "Leon Golub", 
   "URL": "http://www.moma.org/collection/works/68268", 
   "CuratorApproved": "Y", 
-  "Title": "Combat I", 
-  "DateAcquired": "1981-10-22", 
+  "CreditLine": "John B. Turner Fund", 
   "Date": "(1970)", 
   "ArtistID": 2223, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "387.1981", 
-  "ArtistBio": "American, 1922\u20132004", 
-  "CreditLine": "John B. Turner Fund", 
+  "ArtistBio": "(American, 1922\u20132004)", 
+  "DateAcquired": "1981-10-22", 
+  "\ufeffTitle": "Combat I", 
   "ObjectID": "68268"
 }

@@ -5,8 +5,7 @@
   "Artist": "Walter Pichler", 
   "URL": "http://www.moma.org/collection/works/837", 
   "CuratorApproved": "Y", 
-  "Title": "Observatory Project   Perspective", 
-  "DateAcquired": "2000-10-31", 
+  "CreditLine": "Gift of The Howard Gilman Foundation", 
   "Date": "1974", 
   "ArtistID": 4612, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "1226.2000", 
-  "ArtistBio": "Austrian, 1936\u20132012", 
-  "CreditLine": "Gift of The Howard Gilman Foundation", 
+  "ArtistBio": "(Austrian, 1936\u20132012)", 
+  "DateAcquired": "2000-10-31", 
+  "\ufeffTitle": "Observatory Project , Perspective", 
   "ObjectID": "837"
 }

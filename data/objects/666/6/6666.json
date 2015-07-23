@@ -5,8 +5,7 @@
   "Artist": "Takenobu Igarashi", 
   "URL": "http://www.moma.org/collection/works/6666", 
   "CuratorApproved": "Y", 
-  "Title": "Expo '85", 
-  "DateAcquired": "1982-10-27", 
+  "CreditLine": "Gift of the artist", 
   "Date": "1982", 
   "ArtistID": 2797, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "417.1982", 
-  "ArtistBio": "Japanese, born 1944", 
-  "CreditLine": "Gift of the artist", 
+  "ArtistBio": "(Japanese, born 1944)", 
+  "DateAcquired": "1982-10-27", 
+  "\ufeffTitle": "Expo '85", 
   "ObjectID": "6666"
 }

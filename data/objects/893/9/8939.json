@@ -5,8 +5,7 @@
   "Artist": "John E. Sheridan", 
   "URL": "http://www.moma.org/collection/works/8939", 
   "CuratorApproved": "Y", 
-  "Title": "Hey Fellows! Your Money Brings the Book We Need When We Want It, American Library Association", 
-  "DateAcquired": "1940-04-05", 
+  "CreditLine": "Gift of Abby Aldrich Rockefeller", 
   "Date": "1918", 
   "ArtistID": 5389, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "1612.1940", 
-  "ArtistBio": "American", 
-  "CreditLine": "Gift of Abby Aldrich Rockefeller", 
+  "ArtistBio": "(American)", 
+  "DateAcquired": "1940-04-05", 
+  "\ufeffTitle": "\"Hey Fellows!\" Your Money Brings the Book We Need When We Want It, American Library Association", 
   "ObjectID": "8939"
 }

@@ -5,8 +5,7 @@
   "Artist": "Mark Steinmetz", 
   "URL": "http://www.moma.org/collection/works/49182", 
   "CuratorApproved": "Y", 
-  "Title": "Chicago", 
-  "DateAcquired": "1989-10-12", 
+  "CreditLine": "Polaroid Foundation Fund", 
   "Date": "1989", 
   "ArtistID": 5636, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "229.1989", 
-  "ArtistBio": "American, born 1961", 
-  "CreditLine": "Polaroid Foundation Fund", 
+  "ArtistBio": "(American, born 1961)", 
+  "DateAcquired": "1989-10-12", 
+  "\ufeffTitle": "Chicago", 
   "ObjectID": "49182"
 }

@@ -5,8 +5,7 @@
   "Artist": "Stanley William Hayter", 
   "URL": "http://www.moma.org/collection/works/68167", 
   "CuratorApproved": "Y", 
-  "Title": "Sun Dance", 
-  "DateAcquired": "1951-05-24", 
+  "CreditLine": "Gift of Abby Aldrich Rockefeller", 
   "Date": "(1951)", 
   "ArtistID": 2558, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "383.1951", 
-  "ArtistBio": "British, 1901\u20131988", 
-  "CreditLine": "Gift of Abby Aldrich Rockefeller", 
+  "ArtistBio": "(British, 1901\u20131988)", 
+  "DateAcquired": "1951-05-24", 
+  "\ufeffTitle": "Sun Dance", 
   "ObjectID": "68167"
 }

@@ -5,8 +5,7 @@
   "Artist": "Emil Nolde", 
   "URL": "http://www.moma.org/collection/works/65535", 
   "CuratorApproved": "Y", 
-  "Title": "Young Woman in Hat", 
-  "DateAcquired": "1955-10-10", 
+  "CreditLine": "Purchase", 
   "Date": "(1911)", 
   "ArtistID": 4327, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "264.1955", 
-  "ArtistBio": "German, 1867\u20131956", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(German, 1867\u20131956)", 
+  "DateAcquired": "1955-10-10", 
+  "\ufeffTitle": "Young Woman in Hat (Junge Frau im Hut)", 
   "ObjectID": "65535"
 }

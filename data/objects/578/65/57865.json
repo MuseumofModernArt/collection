@@ -5,8 +5,7 @@
   "Artist": "Philip-Lorca diCorcia", 
   "URL": "http://www.moma.org/collection/works/57865", 
   "CuratorApproved": "Y", 
-  "Title": "Mike Miller; 24 years old; Allentown, Pennsylvania; $25", 
-  "DateAcquired": "2001-04-12", 
+  "CreditLine": "Gift of Carol and Arthur Goldberg", 
   "Date": "1990-92", 
   "ArtistID": 7027, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "1200.2001.x1-x2", 
-  "ArtistBio": "American, born 1951", 
-  "CreditLine": "Gift of Carol and Arthur Goldberg", 
+  "ArtistBio": "(American, born 1951)", 
+  "DateAcquired": "2001-04-12", 
+  "\ufeffTitle": "Mike Miller; 24 years old; Allentown, Pennsylvania; $25", 
   "ObjectID": "57865"
 }

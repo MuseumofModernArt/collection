@@ -5,8 +5,7 @@
   "Artist": "John Pemberton", 
   "URL": "http://www.moma.org/collection/works/2792", 
   "CuratorApproved": "Y", 
-  "Title": "Sovereign Calculator", 
-  "DateAcquired": "1978-02-27", 
+  "CreditLine": "Gift of Sinclair Radionics", 
   "Date": "1975", 
   "ArtistID": 4543, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "222.1978", 
-  "ArtistBio": "British, born 1948", 
-  "CreditLine": "Gift of Sinclair Radionics", 
+  "ArtistBio": "(British, born 1948)", 
+  "DateAcquired": "1978-02-27", 
+  "\ufeffTitle": "Sovereign Calculator", 
   "ObjectID": "2792"
 }

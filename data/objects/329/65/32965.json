@@ -5,8 +5,7 @@
   "Artist": "Maurice Denis", 
   "URL": "http://www.moma.org/collection/works/32965", 
   "CuratorApproved": "Y", 
-  "Title": "On the Beach of Trestrignel", 
-  "DateAcquired": "1964-01-07", 
+  "CreditLine": "Grace Rainey Rogers Fund", 
   "Date": "1898", 
   "ArtistID": 1492, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "1.1964", 
-  "ArtistBio": "French, 1870\u20131943", 
-  "CreditLine": "Grace Rainey Rogers Fund", 
+  "ArtistBio": "(French, 1870\u20131943)", 
+  "DateAcquired": "1964-01-07", 
+  "\ufeffTitle": "On the Beach of Trestrignel", 
   "ObjectID": "32965"
 }

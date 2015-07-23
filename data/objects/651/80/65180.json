@@ -5,8 +5,7 @@
   "Artist": "Salvador Dal\u00ed", 
   "URL": "http://www.moma.org/collection/works/65180", 
   "CuratorApproved": "Y", 
-  "Title": "St. George and the Dragon", 
-  "DateAcquired": "1952-11-07", 
+  "CreditLine": "Larry Aldrich Fund", 
   "Date": "1947", 
   "ArtistID": 1364, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "248.1952", 
-  "ArtistBio": "Spanish, 1904\u20131989", 
-  "CreditLine": "Larry Aldrich Fund", 
+  "ArtistBio": "(Spanish, 1904\u20131989)", 
+  "DateAcquired": "1952-11-07", 
+  "\ufeffTitle": "St. George and the Dragon", 
   "ObjectID": "65180"
 }

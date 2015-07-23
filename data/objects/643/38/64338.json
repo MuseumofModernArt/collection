@@ -1,12 +1,11 @@
 {
   "Medium": "Lithograph", 
-  "Dimensions": "composition  14 3/4 x 21 5/16\" (37.5 x 54.1 cm)  sheet  18 3/4 x 26 3/8\" (47 x 67 cm)", 
+  "Dimensions": "composition  14 3/4 x 21 5/16\" (37.5 x 54.1 cm)\r\nsheet  18 3/4 x 26 3/8\" (47 x 67 cm)", 
   "Classification": "Print", 
   "Artist": "Joop Sanders", 
   "URL": "http://www.moma.org/collection/works/64338", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1986-05-20", 
+  "CreditLine": "Miles O. Epstein Fund", 
   "Date": "1958", 
   "ArtistID": 5148, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "202.1986", 
-  "ArtistBio": "American, born 1921", 
-  "CreditLine": "Miles O. Epstein Fund", 
+  "ArtistBio": "(American, born 1921)", 
+  "DateAcquired": "1986-05-20", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "64338"
 }

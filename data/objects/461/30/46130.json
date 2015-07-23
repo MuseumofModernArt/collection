@@ -5,8 +5,7 @@
   "Artist": "Alfred Stieglitz", 
   "URL": "http://www.moma.org/collection/works/46130", 
   "CuratorApproved": "Y", 
-  "Title": "Equivalent", 
-  "DateAcquired": "1943-05-12", 
+  "CreditLine": "Given anonymously", 
   "Date": "1925", 
   "ArtistID": 5664, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "93.1943.1", 
-  "ArtistBio": "American, 1864\u20131946", 
-  "CreditLine": "Given anonymously", 
+  "ArtistBio": "(American, 1864\u20131946)", 
+  "DateAcquired": "1943-05-12", 
+  "\ufeffTitle": "Equivalent", 
   "ObjectID": "46130"
 }

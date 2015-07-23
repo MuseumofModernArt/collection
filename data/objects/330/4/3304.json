@@ -5,8 +5,7 @@
   "Artist": "Hugo Leven", 
   "URL": "http://www.moma.org/collection/works/3304", 
   "CuratorApproved": "Y", 
-  "Title": "Vase", 
-  "DateAcquired": "1977-06-01", 
+  "CreditLine": "Joseph Heil Fund", 
   "Date": "c. 1902", 
   "ArtistID": 3506, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "327.1977", 
-  "ArtistBio": "German, 1874\u20131956", 
-  "CreditLine": "Joseph Heil Fund", 
+  "ArtistBio": "(German, 1874\u20131956)", 
+  "DateAcquired": "1977-06-01", 
+  "\ufeffTitle": "Vase", 
   "ObjectID": "3304"
 }

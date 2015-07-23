@@ -5,8 +5,7 @@
   "Artist": "Rosalind Fox Solomon", 
   "URL": "http://www.moma.org/collection/works/54928", 
   "CuratorApproved": "Y", 
-  "Title": "Crowned Girl on a Donkey, Guatemala", 
-  "DateAcquired": "1980-10-23", 
+  "CreditLine": "Gift of the photographer", 
   "Date": "1978", 
   "ArtistID": 5517, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "543.1980", 
-  "ArtistBio": "American, born 1930", 
-  "CreditLine": "Gift of the photographer", 
+  "ArtistBio": "(American, born 1930)", 
+  "DateAcquired": "1980-10-23", 
+  "\ufeffTitle": "Crowned Girl on a Donkey, Guatemala", 
   "ObjectID": "54928"
 }

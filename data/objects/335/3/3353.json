@@ -5,8 +5,7 @@
   "Artist": "Peter Hamburger", 
   "URL": "http://www.moma.org/collection/works/3353", 
   "CuratorApproved": "Y", 
-  "Title": "Hanging Light Structure", 
-  "DateAcquired": "1969-04-24", 
+  "CreditLine": "Gift of the designer", 
   "Date": "1966", 
   "ArtistID": 2478, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "346.1969", 
-  "ArtistBio": "American, born 1941", 
-  "CreditLine": "Gift of the designer", 
+  "ArtistBio": "(American, born 1941)", 
+  "DateAcquired": "1969-04-24", 
+  "\ufeffTitle": "Hanging Light Structure", 
   "ObjectID": "3353"
 }

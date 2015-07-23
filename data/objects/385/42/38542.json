@@ -5,8 +5,7 @@
   "Artist": "Max Ernst", 
   "URL": "http://www.moma.org/collection/works/38542", 
   "CuratorApproved": "Y", 
-  "Title": "Alice in 1941", 
-  "DateAcquired": "1980-12-18", 
+  "CreditLine": "James Thrall Soby Bequest", 
   "Date": "1941", 
   "ArtistID": 1752, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "1220.1979", 
-  "ArtistBio": "French, born Germany. 1891\u20131976", 
-  "CreditLine": "James Thrall Soby Bequest", 
+  "ArtistBio": "(French, born Germany. 1891\u20131976)", 
+  "DateAcquired": "1980-12-18", 
+  "\ufeffTitle": "Alice in 1941", 
   "ObjectID": "38542"
 }

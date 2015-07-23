@@ -5,8 +5,7 @@
   "Artist": "Abigail Perlmutter", 
   "URL": "http://www.moma.org/collection/works/48693", 
   "CuratorApproved": "Y", 
-  "Title": "Joanne Surfacing", 
-  "DateAcquired": "1975-05-14", 
+  "CreditLine": "Gift of the photographer", 
   "Date": "1974", 
   "ArtistID": 4562, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "217.1975", 
-  "ArtistBio": "American, born 1950", 
-  "CreditLine": "Gift of the photographer", 
+  "ArtistBio": "(American, born 1950)", 
+  "DateAcquired": "1975-05-14", 
+  "\ufeffTitle": "Joanne Surfacing", 
   "ObjectID": "48693"
 }

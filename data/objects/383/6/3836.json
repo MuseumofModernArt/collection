@@ -5,8 +5,7 @@
   "Artist": "Theodor Bogler", 
   "URL": "http://www.moma.org/collection/works/3836", 
   "CuratorApproved": "Y", 
-  "Title": "Teapot", 
-  "DateAcquired": "1970-11-05", 
+  "CreditLine": "Est\u00e9e and Joseph Lauder Design Fund", 
   "Date": "1923", 
   "ArtistID": 636, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "455.1970.a-b", 
-  "ArtistBio": "German, 1897\u20131968", 
-  "CreditLine": "Est\u00e9e and Joseph Lauder Design Fund", 
+  "ArtistBio": "(German, 1897\u20131968)", 
+  "DateAcquired": "1970-11-05", 
+  "\ufeffTitle": "Teapot", 
   "ObjectID": "3836"
 }

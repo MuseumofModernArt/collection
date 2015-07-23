@@ -5,8 +5,7 @@
   "Artist": "Vladimir Tatlin", 
   "URL": "http://www.moma.org/collection/works/13818", 
   "CuratorApproved": "Y", 
-  "Title": "Pamiatnik III Internatsionala", 
-  "DateAcquired": "2001-01-24", 
+  "CreditLine": "Gift of The Judith Rothschild Foundation", 
   "Date": "1920", 
   "ArtistID": 5811, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "215.2001.1-2", 
-  "ArtistBio": "Russian, 1885\u20131953", 
-  "CreditLine": "Gift of The Judith Rothschild Foundation", 
+  "ArtistBio": "(Russian, 1885\u20131953)", 
+  "DateAcquired": "2001-01-24", 
+  "\ufeffTitle": "Pamiatnik III Internatsionala", 
   "ObjectID": "13818"
 }

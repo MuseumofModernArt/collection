@@ -5,8 +5,7 @@
   "Artist": "Bjorn G. Breitholtz", 
   "URL": "http://www.moma.org/collection/works/53273", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1960-11-30", 
+  "CreditLine": "Gift of the photographer", 
   "Date": "1958", 
   "ArtistID": 763, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "430.1960", 
-  "ArtistBio": "Swedish", 
-  "CreditLine": "Gift of the photographer", 
+  "ArtistBio": "(Swedish)", 
+  "DateAcquired": "1960-11-30", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "53273"
 }

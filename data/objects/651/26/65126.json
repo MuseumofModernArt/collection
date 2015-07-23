@@ -1,12 +1,11 @@
 {
   "Medium": "Lithograph", 
-  "Dimensions": "composition  20 15/16 x 24 5/8\" (53.3 x 62.5 cm)  sheet  20 15/16 x 24 5/8\" (53.3 x 62.5 cm)", 
+  "Dimensions": "composition  20 15/16 x 24 5/8\" (53.3 x 62.5 cm)\r\nsheet  20 15/16 x 24 5/8\" (53.3 x 62.5 cm)", 
   "Classification": "Print", 
   "Artist": "Maryan S. Maryan", 
   "URL": "http://www.moma.org/collection/works/65126", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1978-03-02", 
+  "CreditLine": "Gift of G. Quince", 
   "Date": "1975", 
   "ArtistID": 3813, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "245.1978", 
-  "ArtistBio": "American, born Poland. 1927\u20131977", 
-  "CreditLine": "Gift of G. Quince", 
+  "ArtistBio": "(American, born Poland. 1927\u20131977)", 
+  "DateAcquired": "1978-03-02", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "65126"
 }

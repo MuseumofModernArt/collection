@@ -1,12 +1,11 @@
 {
-  "Medium": "Illustrated book with nine line-block reproductions after woodcuts, one line-block reproduction after woodcut title vignette, and one line-block reproduction (duplicate of title vignette) on front cover  ", 
+  "Medium": "Illustrated book with nine line-block reproductions after woodcuts, one line-block reproduction after woodcut title vignette, and one line-block reproduction (duplicate of title vignette) on front cover\r\n", 
   "Dimensions": "page (each): 12 3/16 x 9 3/8\" (31 x 23.8 cm); overall: 12 9/16 x 9 11/16 x 3/8\" (31.9 x 24.6 x 0.9 cm)", 
   "Classification": "Illustrated Book", 
   "Artist": "Ernst Barlach", 
   "URL": "http://www.moma.org/collection/works/18449", 
   "CuratorApproved": "Y", 
-  "Title": "Der Kopf (The Head)", 
-  "DateAcquired": "1949-09-29", 
+  "CreditLine": "Transferred from the Museum Library", 
   "Date": "1919", 
   "ArtistID": 335, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "562.1949.1-11", 
-  "ArtistBio": "German, 1870\u20131938", 
-  "CreditLine": "Transferred from the Museum Library", 
+  "ArtistBio": "(German, 1870\u20131938)", 
+  "DateAcquired": "1949-09-29", 
+  "\ufeffTitle": "Der Kopf (The Head)", 
   "ObjectID": "18449"
 }

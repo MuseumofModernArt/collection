@@ -5,8 +5,7 @@
   "Artist": "Henri Matisse", 
   "URL": "http://www.moma.org/collection/works/61741", 
   "CuratorApproved": "Y", 
-  "Title": "Face - Silence (Visage - Le Silence)", 
-  "DateAcquired": "1951-01-30", 
+  "CreditLine": "Stephen C. Clark Fund", 
   "Date": "(1929)", 
   "ArtistID": 3832, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "96.1951", 
-  "ArtistBio": "French, 1869\u20131954", 
-  "CreditLine": "Stephen C. Clark Fund", 
+  "ArtistBio": "(French, 1869\u20131954)", 
+  "DateAcquired": "1951-01-30", 
+  "\ufeffTitle": "Face - Silence (Visage - Le Silence)", 
   "ObjectID": "61741"
 }

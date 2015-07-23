@@ -5,8 +5,7 @@
   "Artist": "Mark Tobey", 
   "URL": "http://www.moma.org/collection/works/37745", 
   "CuratorApproved": "Y", 
-  "Title": "Wild Field", 
-  "DateAcquired": "1967-10-18", 
+  "CreditLine": "The Sidney and Harriet Janis Collection", 
   "Date": "1959", 
   "ArtistID": 5889, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "658.1967", 
-  "ArtistBio": "American, 1890\u20131976", 
-  "CreditLine": "The Sidney and Harriet Janis Collection", 
+  "ArtistBio": "(American, 1890\u20131976)", 
+  "DateAcquired": "1967-10-18", 
+  "\ufeffTitle": "Wild Field", 
   "ObjectID": "37745"
 }

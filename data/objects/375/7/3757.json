@@ -5,8 +5,7 @@
   "Artist": "Enzo Mari", 
   "URL": "http://www.moma.org/collection/works/3757", 
   "CuratorApproved": "Y", 
-  "Title": "Chio Wastepaper Baskets", 
-  "DateAcquired": "1988-11-22", 
+  "CreditLine": "Gift of the manufacturer", 
   "Date": "1986", 
   "ArtistID": 3766, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "401.1988.1-2", 
-  "ArtistBio": "Italian, born 1932", 
-  "CreditLine": "Gift of the manufacturer", 
+  "ArtistBio": "(Italian, born 1932)", 
+  "DateAcquired": "1988-11-22", 
+  "\ufeffTitle": "Chio Wastepaper Baskets", 
   "ObjectID": "3757"
 }

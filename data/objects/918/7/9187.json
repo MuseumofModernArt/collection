@@ -5,8 +5,7 @@
   "Artist": "Giorgio de Chirico", 
   "URL": "http://www.moma.org/collection/works/9187", 
   "CuratorApproved": "Y", 
-  "Title": "Plate 3 (folio 9) from 23 Gravures", 
-  "DateAcquired": "1945-01-03", 
+  "CreditLine": "Purchase Fund", 
   "Date": "1935", 
   "ArtistID": 1106, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "14.1945.3", 
-  "ArtistBio": "Italian, born Greece. 1888\u20131978", 
-  "CreditLine": "Purchase Fund", 
+  "ArtistBio": "(Italian, born Greece. 1888\u20131978)", 
+  "DateAcquired": "1945-01-03", 
+  "\ufeffTitle": "Plate 3 from 23 Gravures", 
   "ObjectID": "9187"
 }

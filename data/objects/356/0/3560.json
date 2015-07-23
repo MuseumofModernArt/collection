@@ -5,8 +5,7 @@
   "Artist": "Vincent de Rijk", 
   "URL": "http://www.moma.org/collection/works/3560", 
   "CuratorApproved": "Y", 
-  "Title": "Kom BV Vases", 
-  "DateAcquired": "1996-09-25", 
+  "CreditLine": "Gift of the manufacturer", 
   "Date": "1986", 
   "ArtistID": 7451, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "427.1996.1-3", 
-  "ArtistBio": "Dutch, born 1962", 
-  "CreditLine": "Gift of the manufacturer", 
+  "ArtistBio": "(Dutch, born 1962)", 
+  "DateAcquired": "1996-09-25", 
+  "\ufeffTitle": "Kom BV Vases", 
   "ObjectID": "3560"
 }

@@ -5,8 +5,7 @@
   "Artist": "U.S. Army Signal Corps", 
   "URL": "http://www.moma.org/collection/works/58817", 
   "CuratorApproved": "Y", 
-  "Title": "Russian Soldiers with Consumption", 
-  "DateAcquired": "2001-06-14", 
+  "CreditLine": "The New York Times Collection", 
   "Date": "April 7, 1945", 
   "ArtistID": 7032, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "2224.2001", 
-  "ArtistBio": "American", 
-  "CreditLine": "The New York Times Collection", 
+  "ArtistBio": "(American)", 
+  "DateAcquired": "2001-06-14", 
+  "\ufeffTitle": "\"Russian Soldiers with Consumption\"", 
   "ObjectID": "58817"
 }

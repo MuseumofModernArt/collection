@@ -5,8 +5,7 @@
   "Artist": "Ludwig Hohlwein", 
   "URL": "http://www.moma.org/collection/works/6331", 
   "CuratorApproved": "Y", 
-  "Title": "Schiess-Dusseldorf", 
-  "DateAcquired": "1984-10-30", 
+  "CreditLine": "Gift of The Lauder Foundation, Leonard and Evelyn Lauder Fund", 
   "Date": "c. 1913", 
   "ArtistID": 2700, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "334.1984", 
-  "ArtistBio": "German, 1874\u20131949", 
-  "CreditLine": "Gift of The Lauder Foundation, Leonard and Evelyn Lauder Fund", 
+  "ArtistBio": "(German, 1874\u20131949)", 
+  "DateAcquired": "1984-10-30", 
+  "\ufeffTitle": "Schiess-Dusseldorf", 
   "ObjectID": "6331"
 }

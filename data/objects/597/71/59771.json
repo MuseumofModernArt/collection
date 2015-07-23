@@ -1,12 +1,11 @@
 {
   "Medium": "Four-part lithograph", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "Allen Jones", 
   "URL": "http://www.moma.org/collection/works/59771", 
   "CuratorApproved": "Y", 
-  "Title": "Box", 
-  "DateAcquired": "1981-01-15", 
+  "CreditLine": "Purchase", 
   "Date": "1980", 
   "ArtistID": 2931, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "9.1981", 
-  "ArtistBio": "British, born 1937", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(British, born 1937)", 
+  "DateAcquired": "1981-01-15", 
+  "\ufeffTitle": "Box", 
   "ObjectID": "59771"
 }

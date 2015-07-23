@@ -5,8 +5,7 @@
   "Artist": "Shigeo Okamoto", 
   "URL": "http://www.moma.org/collection/works/6684", 
   "CuratorApproved": "Y", 
-  "Title": "Graphic-Three", 
-  "DateAcquired": "1982-10-27", 
+  "CreditLine": "Gift of the artist", 
   "Date": "1981", 
   "ArtistID": 4388, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "420.1982", 
-  "ArtistBio": "Japanese, born 1934", 
-  "CreditLine": "Gift of the artist", 
+  "ArtistBio": "(Japanese, born 1934)", 
+  "DateAcquired": "1982-10-27", 
+  "\ufeffTitle": "Graphic-Three", 
   "ObjectID": "6684"
 }

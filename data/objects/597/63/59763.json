@@ -5,8 +5,7 @@
   "Artist": "Paul Klee", 
   "URL": "http://www.moma.org/collection/works/59763", 
   "CuratorApproved": "Y", 
-  "Title": "Destruction and Hope", 
-  "DateAcquired": "1944-03-14", 
+  "CreditLine": "Purchase Fund", 
   "Date": "1916", 
   "ArtistID": 3130, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "9.1944", 
-  "ArtistBio": "German, born Switzerland. 1879\u20131940", 
-  "CreditLine": "Purchase Fund", 
+  "ArtistBio": "(German, born Switzerland. 1879\u20131940)", 
+  "DateAcquired": "1944-03-14", 
+  "\ufeffTitle": "Destruction and Hope (Zerst\u00f6rung und Hoffnung)", 
   "ObjectID": "59763"
 }

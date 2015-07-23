@@ -1,12 +1,11 @@
 {
   "Medium": "Screenprint", 
-  "Dimensions": "composition  29 1/2 x 41 11/16\" (75 x 105.9 cm)  sheet  29 1/2 x 41 11/16\" (75 x 105.9 cm)", 
+  "Dimensions": "composition  29 1/2 x 41 11/16\" (75 x 105.9 cm)\r\nsheet  29 1/2 x 41 11/16\" (75 x 105.9 cm)", 
   "Classification": "Print", 
   "Artist": "Nancy Graves", 
   "URL": "http://www.moma.org/collection/works/59898", 
   "CuratorApproved": "Y", 
-  "Title": "75 x 75", 
-  "DateAcquired": "1985-01-30", 
+  "CreditLine": "Gift of Mrs. Constantine Sidamon-Eristoff", 
   "Date": "1984", 
   "ArtistID": 2310, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "12.1985", 
-  "ArtistBio": "American, 1940\u20131995", 
-  "CreditLine": "Gift of Mrs. Constantine Sidamon-Eristoff", 
+  "ArtistBio": "(American, 1940\u20131995)", 
+  "DateAcquired": "1985-01-30", 
+  "\ufeffTitle": "75 x 75", 
   "ObjectID": "59898"
 }

@@ -5,8 +5,7 @@
   "Artist": "Harry Callahan", 
   "URL": "http://www.moma.org/collection/works/55196", 
   "CuratorApproved": "Y", 
-  "Title": "Weeds in Snow, Detroit", 
-  "DateAcquired": "1954-01-12", 
+  "CreditLine": "Gift of the photographer", 
   "Date": "1943", 
   "ArtistID": 924, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "566.1953", 
-  "ArtistBio": "American, 1912\u20131999", 
-  "CreditLine": "Gift of the photographer", 
+  "ArtistBio": "(American, 1912\u20131999)", 
+  "DateAcquired": "1954-01-12", 
+  "\ufeffTitle": "Weeds in Snow, Detroit", 
   "ObjectID": "55196"
 }

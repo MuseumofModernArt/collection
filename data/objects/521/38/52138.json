@@ -5,8 +5,7 @@
   "Artist": "Paola Ferrario", 
   "URL": "http://www.moma.org/collection/works/52138", 
   "CuratorApproved": "Y", 
-  "Title": "Santa Veronica", 
-  "DateAcquired": "1990-10-11", 
+  "CreditLine": "Gift of the photographer", 
   "Date": "1988", 
   "ArtistID": 6989, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "378.1990.x1-x2", 
-  "ArtistBio": "Italian, born 1963", 
-  "CreditLine": "Gift of the photographer", 
+  "ArtistBio": "(Italian, born 1963)", 
+  "DateAcquired": "1990-10-11", 
+  "\ufeffTitle": "Santa Veronica", 
   "ObjectID": "52138"
 }

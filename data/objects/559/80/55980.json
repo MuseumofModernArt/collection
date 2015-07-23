@@ -5,8 +5,7 @@
   "Artist": "Zeke Berman", 
   "URL": "http://www.moma.org/collection/works/55980", 
   "CuratorApproved": "Y", 
-  "Title": "Measuring Cup", 
-  "DateAcquired": "1983-11-10", 
+  "CreditLine": "Gift of the photographer", 
   "Date": "1979", 
   "ArtistID": 506, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "674.1983", 
-  "ArtistBio": "American, born 1951", 
-  "CreditLine": "Gift of the photographer", 
+  "ArtistBio": "(American, born 1951)", 
+  "DateAcquired": "1983-11-10", 
+  "\ufeffTitle": "Measuring Cup", 
   "ObjectID": "55980"
 }

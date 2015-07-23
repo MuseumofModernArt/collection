@@ -5,8 +5,7 @@
   "Artist": "Ernesto Fontecilla", 
   "URL": "http://www.moma.org/collection/works/61895", 
   "CuratorApproved": "Y", 
-  "Title": "Self Portrait", 
-  "DateAcquired": "1970-03-05", 
+  "CreditLine": "Gift of Elaine L. Johnson", 
   "Date": "1969", 
   "ArtistID": 1933, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "107.1970", 
-  "ArtistBio": "Chilean, born 1938", 
-  "CreditLine": "Gift of Elaine L. Johnson", 
+  "ArtistBio": "(Chilean, born 1938)", 
+  "DateAcquired": "1970-03-05", 
+  "\ufeffTitle": "Self Portrait", 
   "ObjectID": "61895"
 }

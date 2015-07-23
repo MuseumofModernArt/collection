@@ -5,8 +5,7 @@
   "Artist": "Bob Duran", 
   "URL": "http://www.moma.org/collection/works/35865", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled (No. 206)", 
-  "DateAcquired": "1978-04-04", 
+  "CreditLine": "Acquired with matching funds from Charles B. Benenson and the National Endowment for the Arts", 
   "Date": "1977", 
   "ArtistID": 1654, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "273.1978", 
-  "ArtistBio": "American, 1938\u20132005", 
-  "CreditLine": "Acquired with matching funds from Charles B. Benenson and the National Endowment for the Arts", 
+  "ArtistBio": "(American, 1938\u20132005)", 
+  "DateAcquired": "1978-04-04", 
+  "\ufeffTitle": "Untitled (No. 206)", 
   "ObjectID": "35865"
 }

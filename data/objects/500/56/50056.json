@@ -5,8 +5,7 @@
   "Artist": "Manuel \u00c1lvarez Bravo", 
   "URL": "http://www.moma.org/collection/works/50056", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1993-10-14", 
+  "CreditLine": "Bequest of Arthur M. Bullowa", 
   "Date": "1966", 
   "ArtistID": 135, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "291.1993", 
-  "ArtistBio": "Mexican, 1902\u20132002", 
-  "CreditLine": "Bequest of Arthur M. Bullowa", 
+  "ArtistBio": "(Mexican, 1902\u20132002)", 
+  "DateAcquired": "1993-10-14", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "50056"
 }

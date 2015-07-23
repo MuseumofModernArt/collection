@@ -5,8 +5,7 @@
   "Artist": "H.V.", 
   "URL": "http://www.moma.org/collection/works/5715", 
   "CuratorApproved": "Y", 
-  "Title": "Allerta Est\u00e1 Contra el Feixisme", 
-  "DateAcquired": "1936-01-01", 
+  "CreditLine": "Gift of Christian Zervos", 
   "Date": "1936", 
   "ArtistID": 2428, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "216.1936", 
-  "ArtistBio": "Catalan", 
-  "CreditLine": "Gift of Christian Zervos", 
+  "ArtistBio": "(Catalan)", 
+  "DateAcquired": "1936-01-01", 
+  "\ufeffTitle": "Allerta Est\u00e1 Contra el Feixisme", 
   "ObjectID": "5715"
 }

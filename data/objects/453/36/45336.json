@@ -5,8 +5,7 @@
   "Artist": "Wynn Bullock", 
   "URL": "http://www.moma.org/collection/works/45336", 
   "CuratorApproved": "Y", 
-  "Title": "Stark Tree", 
-  "DateAcquired": "1977-03-10", 
+  "CreditLine": "Gift of Andrea and William Turnage", 
   "Date": "1956", 
   "ArtistID": 861, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "63.1977", 
-  "ArtistBio": "American, 1902\u20131975", 
-  "CreditLine": "Gift of Andrea and William Turnage", 
+  "ArtistBio": "(American, 1902\u20131975)", 
+  "DateAcquired": "1977-03-10", 
+  "\ufeffTitle": "Stark Tree", 
   "ObjectID": "45336"
 }

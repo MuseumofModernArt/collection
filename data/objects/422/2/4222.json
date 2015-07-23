@@ -5,8 +5,7 @@
   "Artist": "Saara Hopea", 
   "URL": "http://www.moma.org/collection/works/4222", 
   "CuratorApproved": "Y", 
-  "Title": "Marja Cocktail Glass", 
-  "DateAcquired": "1995-09-20", 
+  "CreditLine": "Mr. and Mrs. Hochschild Purchase Fund", 
   "Date": "1956", 
   "ArtistID": 2724, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "685.1995.1-4", 
-  "ArtistBio": "Finnish, 1925\u20131984", 
-  "CreditLine": "Mr. and Mrs. Hochschild Purchase Fund", 
+  "ArtistBio": "(Finnish, 1925\u20131984)", 
+  "DateAcquired": "1995-09-20", 
+  "\ufeffTitle": "Marja Cocktail Glass", 
   "ObjectID": "4222"
 }

@@ -5,8 +5,7 @@
   "Artist": "Diego Rivera", 
   "URL": "http://www.moma.org/collection/works/33433", 
   "CuratorApproved": "Y", 
-  "Title": "Angeline Beloff", 
-  "DateAcquired": "1975-01-24", 
+  "CreditLine": "Gift of Mrs. Wolfgang Schoenborn in honor of Ren\u00e9 d'Harnoncourt", 
   "Date": "December 1917", 
   "ArtistID": 4942, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "36.1975", 
-  "ArtistBio": "Mexican, 1886\u20131957", 
-  "CreditLine": "Gift of Mrs. Wolfgang Schoenborn in honor of Ren\u00e9 d'Harnoncourt", 
+  "ArtistBio": "(Mexican, 1886\u20131957)", 
+  "DateAcquired": "1975-01-24", 
+  "\ufeffTitle": "Angeline Beloff", 
   "ObjectID": "33433"
 }

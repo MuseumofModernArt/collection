@@ -1,12 +1,11 @@
 {
   "Medium": "Three black-and-white instant prints (Polaroid)", 
-  "Dimensions": "each 3 1/2 x 4 1/2\" (8.9 x 11.4 cm)  overall 1 3/16 x 5 3/16\" (30.2 x 13.2 cm)", 
+  "Dimensions": "each 3 1/2 x 4 1/2\" (8.9 x 11.4 cm)\r\noverall 1 3/16 x 5 3/16\" (30.2 x 13.2 cm)", 
   "Classification": "Photograph", 
   "Artist": "John Coplans", 
   "URL": "http://www.moma.org/collection/works/48952", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled Study for Self-Portrait (Upside Down no. 6)", 
-  "DateAcquired": "1993-06-01", 
+  "CreditLine": "Gift of Marsha Plotnitsky", 
   "Date": "1992", 
   "ArtistID": 1237, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "222.1993.6", 
-  "ArtistBio": "British, 1920\u20132003", 
-  "CreditLine": "Gift of Marsha Plotnitsky", 
+  "ArtistBio": "(British, 1920\u20132003)", 
+  "DateAcquired": "1993-06-01", 
+  "\ufeffTitle": "Untitled Study for Self-Portrait (Upside Down no. 6)", 
   "ObjectID": "48952"
 }

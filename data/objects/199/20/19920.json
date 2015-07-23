@@ -1,12 +1,11 @@
 {
   "Medium": "6 etching and aquatints (including cover), 5 with drypoint", 
-  "Dimensions": "page  9 1/16 x 6 5/16\" (23 x 16.1 cm)  Prints:  various dimensions.", 
+  "Dimensions": "page  9 1/16 x 6 5/16\" (23 x 16.1 cm)\r\nPrints:  various dimensions.", 
   "Classification": "Illustrated Book", 
   "Artist": "Pierre Alechinsky", 
   "URL": "http://www.moma.org/collection/works/19920", 
   "CuratorApproved": "Y", 
-  "Title": "Les M\u00e9tiers", 
-  "DateAcquired": "1978-10-17", 
+  "CreditLine": "Gift of the artist", 
   "Date": "1948", 
   "ArtistID": 107, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "654.1978.1-6", 
-  "ArtistBio": "Belgian, born 1927", 
-  "CreditLine": "Gift of the artist", 
+  "ArtistBio": "(Belgian, born 1927)", 
+  "DateAcquired": "1978-10-17", 
+  "\ufeffTitle": "Les M\u00e9tiers", 
   "ObjectID": "19920"
 }

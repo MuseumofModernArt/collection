@@ -1,12 +1,11 @@
 {
   "Medium": "Lithograph", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "Sven Dalsgaard", 
   "URL": "http://www.moma.org/collection/works/64501", 
   "CuratorApproved": "Y", 
-  "Title": "Plate 2 from Spiralens Art Portfolio (Spiralensd Kunstmappe)", 
-  "DateAcquired": "1954-04-06", 
+  "CreditLine": "Larry Aldrich Fund", 
   "Date": "(1952, date of publication)", 
   "ArtistID": 7719, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "213.1954.2", 
-  "ArtistBio": "Danish, born 1914", 
-  "CreditLine": "Larry Aldrich Fund", 
+  "ArtistBio": "(Danish, born 1914)", 
+  "DateAcquired": "1954-04-06", 
+  "\ufeffTitle": "Plate 2 from Spiralens Art Portfolio (Spiralensd Kunstmappe)", 
   "ObjectID": "64501"
 }

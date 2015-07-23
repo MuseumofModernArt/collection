@@ -5,8 +5,7 @@
   "Artist": "Pierre Alechinsky", 
   "URL": "http://www.moma.org/collection/works/32969", 
   "CuratorApproved": "Y", 
-  "Title": "Outside James' Showcase", 
-  "DateAcquired": "1978-04-04", 
+  "CreditLine": "The Joan and Lester Avnet Collection", 
   "Date": "1968", 
   "ArtistID": 107, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "1.1978", 
-  "ArtistBio": "Belgian, born 1927", 
-  "CreditLine": "The Joan and Lester Avnet Collection", 
+  "ArtistBio": "(Belgian, born 1927)", 
+  "DateAcquired": "1978-04-04", 
+  "\ufeffTitle": "Outside James' Showcase", 
   "ObjectID": "32969"
 }

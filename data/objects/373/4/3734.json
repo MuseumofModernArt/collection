@@ -1,12 +1,11 @@
 {
-  "Medium": "Structure: Glass-reinforced polyester and die-cast aluminum   Pellicle: Hytrel polymer, polyester, and Lycra", 
+  "Medium": "Structure: Glass-reinforced polyester and die-cast aluminum \r\nPellicle: Hytrel polymer, polyester, and Lycra", 
   "Dimensions": "Dimensions range from a minimum h. of 37 1/4\" (94.6 cm) to a max h. of 43\" (109.2 cm) x 28 1/2 x 28 1/2\" (72.4 x 72.4 cm)", 
   "Classification": "A&D Design", 
-  "Artist": "Donald T. Chadwick", 
+  "Artist": "Donald T. Chadwick, William Stumpf", 
   "URL": "http://www.moma.org/collection/works/3734", 
   "CuratorApproved": "Y", 
-  "Title": "Aeron Office Chair", 
-  "DateAcquired": "1994-09-21", 
+  "CreditLine": "Gift of the employees of Herman Miller", 
   "Date": "1992", 
   "ArtistID": 7392, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "393.1994", 
-  "ArtistBio": "American, born 1936", 
-  "CreditLine": "Gift of the employees of Herman Miller", 
+  "ArtistBio": "(American, born 1936) (American, 1936\u20132006)", 
+  "DateAcquired": "1994-09-21", 
+  "\ufeffTitle": "Aeron Office Chair", 
   "ObjectID": "3734"
 }

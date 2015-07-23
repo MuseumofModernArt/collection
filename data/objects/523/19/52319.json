@@ -5,8 +5,7 @@
   "Artist": "Minor White", 
   "URL": "http://www.moma.org/collection/works/52319", 
   "CuratorApproved": "Y", 
-  "Title": "Nude, Bare Foot", 
-  "DateAcquired": "1964-04-14", 
+  "CreditLine": "Purchase", 
   "Date": "1947", 
   "ArtistID": 6342, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "387.1964", 
-  "ArtistBio": "American, 1908\u20131976", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, 1908\u20131976)", 
+  "DateAcquired": "1964-04-14", 
+  "\ufeffTitle": "Nude, Bare Foot", 
   "ObjectID": "52319"
 }

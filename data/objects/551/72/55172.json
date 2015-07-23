@@ -5,8 +5,7 @@
   "Artist": "William Christenberry", 
   "URL": "http://www.moma.org/collection/works/55172", 
   "CuratorApproved": "Y", 
-  "Title": "Red Building in Forest, Hale County, Alabama", 
-  "DateAcquired": "1987-12-10", 
+  "CreditLine": "Partial gift of Shirley C. Burden, by exchange", 
   "Date": "1983", 
   "ArtistID": 1112, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "563.1987.x1-x2", 
-  "ArtistBio": "American, born 1936", 
-  "CreditLine": "Partial gift of Shirley C. Burden, by exchange", 
+  "ArtistBio": "(American, born 1936)", 
+  "DateAcquired": "1987-12-10", 
+  "\ufeffTitle": "Red Building in Forest, Hale County, Alabama", 
   "ObjectID": "55172"
 }

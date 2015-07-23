@@ -5,8 +5,7 @@
   "Artist": "Ikko (Ikko Narahara)", 
   "URL": "http://www.moma.org/collection/works/49133", 
   "CuratorApproved": "Y", 
-  "Title": "Window Number 2", 
-  "DateAcquired": "1959-04-22", 
+  "CreditLine": "Gift of Nihon Keizai Shimbun", 
   "Date": "1956", 
   "ArtistID": 2803, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "227.1959", 
-  "ArtistBio": "Japanese, born 1931", 
-  "CreditLine": "Gift of Nihon Keizai Shimbun", 
+  "ArtistBio": "(Japanese, born 1931)", 
+  "DateAcquired": "1959-04-22", 
+  "\ufeffTitle": "Window Number 2", 
   "ObjectID": "49133"
 }

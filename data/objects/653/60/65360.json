@@ -5,8 +5,7 @@
   "Artist": "Antonio Frasconi", 
   "URL": "http://www.moma.org/collection/works/65360", 
   "CuratorApproved": "Y", 
-  "Title": "Self Portrait", 
-  "DateAcquired": "1952-11-07", 
+  "CreditLine": "Inter-American Fund", 
   "Date": "(1951)", 
   "ArtistID": 1975, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "256.1952", 
-  "ArtistBio": "American, born Argentina. 1919\u20132013", 
-  "CreditLine": "Inter-American Fund", 
+  "ArtistBio": "(American, born Argentina. 1919\u20132013)", 
+  "DateAcquired": "1952-11-07", 
+  "\ufeffTitle": "Self Portrait", 
   "ObjectID": "65360"
 }

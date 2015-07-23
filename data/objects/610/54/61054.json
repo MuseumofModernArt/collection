@@ -5,8 +5,7 @@
   "Artist": "Claes Oldenburg", 
   "URL": "http://www.moma.org/collection/works/61054", 
   "CuratorApproved": "Y", 
-  "Title": "The Store", 
-  "DateAcquired": "1999-03-04", 
+  "CreditLine": "Mary Ellen Meehan Fund", 
   "Date": "1961", 
   "ArtistID": 4397, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "56.1999", 
-  "ArtistBio": "American, born Sweden 1929", 
-  "CreditLine": "Mary Ellen Meehan Fund", 
+  "ArtistBio": "(American, born Sweden 1929)", 
+  "DateAcquired": "1999-03-04", 
+  "\ufeffTitle": "The Store", 
   "ObjectID": "61054"
 }

@@ -5,8 +5,7 @@
   "Artist": "Emil Nolde", 
   "URL": "http://www.moma.org/collection/works/60035", 
   "CuratorApproved": "Y", 
-  "Title": "Scribes", 
-  "DateAcquired": "1947-03-13", 
+  "CreditLine": "Purchase", 
   "Date": "(1911, printed c. 1919)", 
   "ArtistID": 4327, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "18.1947", 
-  "ArtistBio": "German, 1867\u20131956", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(German, 1867\u20131956)", 
+  "DateAcquired": "1947-03-13", 
+  "\ufeffTitle": "Scribes (Schriftgelehrte)", 
   "ObjectID": "60035"
 }

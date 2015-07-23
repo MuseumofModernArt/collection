@@ -5,8 +5,7 @@
   "Artist": "Mariana Yampolsky", 
   "URL": "http://www.moma.org/collection/works/51916", 
   "CuratorApproved": "Y", 
-  "Title": "Mazahua School", 
-  "DateAcquired": "1994-06-09", 
+  "CreditLine": "The Family of Man Fund", 
   "Date": "1984", 
   "ArtistID": 7916, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "368.1994", 
-  "ArtistBio": "Mexican, 1925\u20132002", 
-  "CreditLine": "The Family of Man Fund", 
+  "ArtistBio": "(Mexican, 1925\u20132002)", 
+  "DateAcquired": "1994-06-09", 
+  "\ufeffTitle": "Mazahua School", 
   "ObjectID": "51916"
 }

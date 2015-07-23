@@ -5,8 +5,7 @@
   "Artist": "Susan Harris/The New York Times", 
   "URL": "http://www.moma.org/collection/works/58603", 
   "CuratorApproved": "Y", 
-  "Title": "David Dinkins Campaigns for Re-Election", 
-  "DateAcquired": "2001-06-14", 
+  "CreditLine": "The New York Times Collection", 
   "Date": "August 21, 1993", 
   "ArtistID": 8548, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "2010.2001", 
-  "ArtistBio": "American, born 1954", 
-  "CreditLine": "The New York Times Collection", 
+  "ArtistBio": "(American, born 1954)", 
+  "DateAcquired": "2001-06-14", 
+  "\ufeffTitle": "David Dinkins Campaigns for Re-Election", 
   "ObjectID": "58603"
 }

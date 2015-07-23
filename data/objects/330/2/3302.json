@@ -5,8 +5,7 @@
   "Artist": "The Custanite Corp., Brooklyn, NY", 
   "URL": "http://www.moma.org/collection/works/3302", 
   "CuratorApproved": "Y", 
-  "Title": "Kant-Twist 10\" Clamp", 
-  "DateAcquired": "1960-11-16", 
+  "CreditLine": "Gift of the manufacturer", 
   "Date": "1955", 
   "ArtistID": 7140, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "327.1960", 
-  "ArtistBio": "founded 1952", 
-  "CreditLine": "Gift of the manufacturer", 
+  "ArtistBio": "(founded 1952)", 
+  "DateAcquired": "1960-11-16", 
+  "\ufeffTitle": "Kant-Twist 10\" Clamp", 
   "ObjectID": "3302"
 }

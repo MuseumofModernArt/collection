@@ -5,8 +5,7 @@
   "Artist": "Robert Adams", 
   "URL": "http://www.moma.org/collection/works/56625", 
   "CuratorApproved": "Y", 
-  "Title": "Thurman, Colorado", 
-  "DateAcquired": "1996-12-10", 
+  "CreditLine": "Arthur M. Bullowa Fund", 
   "Date": "1965", 
   "ArtistID": 66, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "831.1996", 
-  "ArtistBio": "American, born 1937", 
-  "CreditLine": "Arthur M. Bullowa Fund", 
+  "ArtistBio": "(American, born 1937)", 
+  "DateAcquired": "1996-12-10", 
+  "\ufeffTitle": "Thurman, Colorado", 
   "ObjectID": "56625"
 }

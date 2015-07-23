@@ -5,8 +5,7 @@
   "Artist": "Unknown Artist", 
   "URL": "http://www.moma.org/collection/works/6412", 
   "CuratorApproved": "Y", 
-  "Title": "Francouzsk\u00e1 Grafika", 
-  "DateAcquired": "1953-04-07", 
+  "CreditLine": "Gift of Czechoslovak Information Office", 
   "Date": "1947", 
   "ArtistID": 6026, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "346.1953", 
-  "ArtistBio": "Nationality Unknown", 
-  "CreditLine": "Gift of Czechoslovak Information Office", 
+  "ArtistBio": "(Nationality Unknown)", 
+  "DateAcquired": "1953-04-07", 
+  "\ufeffTitle": "Francouzsk\u00e1 Grafika", 
   "ObjectID": "6412"
 }

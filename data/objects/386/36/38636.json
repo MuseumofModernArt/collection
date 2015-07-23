@@ -5,8 +5,7 @@
   "Artist": "Arshile Gorky", 
   "URL": "http://www.moma.org/collection/works/38636", 
   "CuratorApproved": "Y", 
-  "Title": "Abstraction", 
-  "DateAcquired": "1968-12-11", 
+  "CreditLine": "Gift of Monroe Wheeler", 
   "Date": "(1945)", 
   "ArtistID": 2252, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "1528.1968", 
-  "ArtistBio": "American, born Armenia. 1904\u20131948", 
-  "CreditLine": "Gift of Monroe Wheeler", 
+  "ArtistBio": "(American, born Armenia. 1904\u20131948)", 
+  "DateAcquired": "1968-12-11", 
+  "\ufeffTitle": "Abstraction", 
   "ObjectID": "38636"
 }

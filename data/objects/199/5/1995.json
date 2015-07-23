@@ -5,8 +5,7 @@
   "Artist": "Yoshihiro Kimura", 
   "URL": "http://www.moma.org/collection/works/1995", 
   "CuratorApproved": "Y", 
-  "Title": "Pedocal", 
-  "DateAcquired": "2000-01-19", 
+  "CreditLine": "Gift of the manufacturer", 
   "Date": "1996", 
   "ArtistID": 8420, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "75.2000", 
-  "ArtistBio": "Japanese, born 1947", 
-  "CreditLine": "Gift of the manufacturer", 
+  "ArtistBio": "(Japanese, born 1947)", 
+  "DateAcquired": "2000-01-19", 
+  "\ufeffTitle": "Pedocal", 
   "ObjectID": "1995"
 }

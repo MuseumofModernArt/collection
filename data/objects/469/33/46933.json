@@ -5,8 +5,7 @@
   "Artist": "August Sander", 
   "URL": "http://www.moma.org/collection/works/46933", 
   "CuratorApproved": "Y", 
-  "Title": "The Painter Heinrich H\u00f6rle", 
-  "DateAcquired": "1986-03-20", 
+  "CreditLine": "Acquired through the generosity of Jo Carole and Ronald S. Lauder", 
   "Date": "1928", 
   "ArtistID": 5145, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "151.1986", 
-  "ArtistBio": "German, 1876\u20131964", 
-  "CreditLine": "Acquired through the generosity of Jo Carole and Ronald S. Lauder", 
+  "ArtistBio": "(German, 1876\u20131964)", 
+  "DateAcquired": "1986-03-20", 
+  "\ufeffTitle": "The Painter Heinrich H\u00f6rle", 
   "ObjectID": "46933"
 }

@@ -5,8 +5,7 @@
   "Artist": "Saul Bass", 
   "URL": "http://www.moma.org/collection/works/5244", 
   "CuratorApproved": "Y", 
-  "Title": "Bonjour Tristesse", 
-  "DateAcquired": "1977-03-21", 
+  "CreditLine": "Gift of the designer", 
   "Date": "1957", 
   "ArtistID": 372, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "145.1977", 
-  "ArtistBio": "American, 1920\u20131996", 
-  "CreditLine": "Gift of the designer", 
+  "ArtistBio": "(American, 1920\u20131996)", 
+  "DateAcquired": "1977-03-21", 
+  "\ufeffTitle": "Bonjour Tristesse", 
   "ObjectID": "5244"
 }

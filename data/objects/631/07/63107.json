@@ -1,12 +1,11 @@
 {
-  "Medium": "Engraving, and with hand additions", 
+  "Medium": "Engraving, with hand additions", 
   "Dimensions": "plate: 8 3/4 x 6 7/8\" (22.2 x 17.5cm); sheet: 13 \u00d7 10 3/16\" (33 \u00d7 25.9 cm)", 
   "Classification": "Print", 
   "Artist": "Louise Bourgeois", 
   "URL": "http://www.moma.org/collection/works/63107", 
   "CuratorApproved": "Y", 
-  "Title": "Ascension Lente, state I of XIV", 
-  "DateAcquired": "1990-05-02", 
+  "CreditLine": "Gift of the artist", 
   "Date": "1949", 
   "ArtistID": 710, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "144.1990.1", 
-  "ArtistBio": "American, born France. 1911\u20132010", 
-  "CreditLine": "Gift of the artist", 
+  "ArtistBio": "(American, born France. 1911\u20132010)", 
+  "DateAcquired": "1990-05-02", 
+  "\ufeffTitle": "Ascension Lente", 
   "ObjectID": "63107"
 }

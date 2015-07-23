@@ -5,8 +5,7 @@
   "Artist": "George Segal", 
   "URL": "http://www.moma.org/collection/works/35784", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1969-04-16", 
+  "CreditLine": "L-B Foundation Fund", 
   "Date": "1968", 
   "ArtistID": 5316, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "267.1969", 
-  "ArtistBio": "American, 1924\u20132000", 
-  "CreditLine": "L-B Foundation Fund", 
+  "ArtistBio": "(American, 1924\u20132000)", 
+  "DateAcquired": "1969-04-16", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "35784"
 }

@@ -5,8 +5,7 @@
   "Artist": "Sam Lucente", 
   "URL": "http://www.moma.org/collection/works/4290", 
   "CuratorApproved": "Y", 
-  "Title": "Diagram of Dynamic Random-Access Memory Chip (DRAM)", 
-  "DateAcquired": "1990-10-20", 
+  "CreditLine": "Gift of the manufacturer", 
   "Date": "1984", 
   "ArtistID": 6612, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "518.1990.1", 
-  "ArtistBio": "American, born 1958", 
-  "CreditLine": "Gift of the manufacturer", 
+  "ArtistBio": "(American, born 1958)", 
+  "DateAcquired": "1990-10-20", 
+  "\ufeffTitle": "Diagram of Dynamic Random-Access Memory Chip (DRAM)", 
   "ObjectID": "4290"
 }

@@ -1,12 +1,11 @@
 {
   "Medium": "Lithograph", 
-  "Dimensions": "irreg composition  17 3/4 x 23 3/4\" (45.1 x 60.3 cm)  sheet  24 1/4 x 30\" (61.6 x 76.2 cm)", 
+  "Dimensions": "irreg composition  17 3/4 x 23 3/4\" (45.1 x 60.3 cm)\r\nsheet  24 1/4 x 30\" (61.6 x 76.2 cm)", 
   "Classification": "Print", 
   "Artist": "Larry Rivers", 
   "URL": "http://www.moma.org/collection/works/60330", 
   "CuratorApproved": "Y", 
-  "Title": "Diane Raised I", 
-  "DateAcquired": "1972-02-07", 
+  "CreditLine": "Gift of Celeste Bartos", 
   "Date": "1970", 
   "ArtistID": 4945, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "24.1972", 
-  "ArtistBio": "American, 1923\u20132002", 
-  "CreditLine": "Gift of Celeste Bartos", 
+  "ArtistBio": "(American, 1923\u20132002)", 
+  "DateAcquired": "1972-02-07", 
+  "\ufeffTitle": "Diane Raised I", 
   "ObjectID": "60330"
 }

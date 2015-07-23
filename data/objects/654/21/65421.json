@@ -1,12 +1,11 @@
 {
   "Medium": "Lithograph", 
-  "Dimensions": "irreg composition  22 3/8 x 19 5/16\" (56.8 x 49.1 cm)  sheet  22 5/16 x 30\" (56.7 x 76.2 cm)", 
+  "Dimensions": "irreg composition  22 3/8 x 19 5/16\" (56.8 x 49.1 cm)\r\nsheet  22 5/16 x 30\" (56.7 x 76.2 cm)", 
   "Classification": "Print", 
   "Artist": "Robert Rauschenberg", 
   "URL": "http://www.moma.org/collection/works/65421", 
   "CuratorApproved": "Y", 
-  "Title": "Veils, 4", 
-  "DateAcquired": "1974-04-23", 
+  "CreditLine": "Gift of Celeste Bartos", 
   "Date": "1974", 
   "ArtistID": 4823, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "259.1974", 
-  "ArtistBio": "American, 1925\u20132008", 
-  "CreditLine": "Gift of Celeste Bartos", 
+  "ArtistBio": "(American, 1925\u20132008)", 
+  "DateAcquired": "1974-04-23", 
+  "\ufeffTitle": "Veils, 4", 
   "ObjectID": "65421"
 }

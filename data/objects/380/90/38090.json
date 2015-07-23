@@ -5,8 +5,7 @@
   "Artist": "Joaqu\u00edn Torres-Garc\u00eda", 
   "URL": "http://www.moma.org/collection/works/38090", 
   "CuratorApproved": "Y", 
-  "Title": "The Port", 
-  "DateAcquired": "1942-12-29", 
+  "CreditLine": "Inter-American Fund", 
   "Date": "1942", 
   "ArtistID": 5907, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "801.1942", 
-  "ArtistBio": "Uruguayan, 1874\u20131949", 
-  "CreditLine": "Inter-American Fund", 
+  "ArtistBio": "(Uruguayan, 1874\u20131949)", 
+  "DateAcquired": "1942-12-29", 
+  "\ufeffTitle": "The Port", 
   "ObjectID": "38090"
 }

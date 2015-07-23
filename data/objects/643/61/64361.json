@@ -1,12 +1,11 @@
 {
   "Medium": "Screenprint", 
-  "Dimensions": "irreg. composition  11 x 9 1/16\" (28 x 23 cm)  sheet  13 15/16 x 10 15/16\" (35 x 27.9 cm)", 
+  "Dimensions": "irreg. composition  11 x 9 1/16\" (28 x 23 cm)\r\nsheet  13 15/16 x 10 15/16\" (35 x 27.9 cm)", 
   "Classification": "Print", 
   "Artist": "Tad Savinar", 
   "URL": "http://www.moma.org/collection/works/64361", 
   "CuratorApproved": "Y", 
-  "Title": "Love Conquers All", 
-  "DateAcquired": "1986-05-20", 
+  "CreditLine": "John B. Turner Fund", 
   "Date": "1984", 
   "ArtistID": 5186, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "204.1986", 
-  "ArtistBio": "American, born 1950", 
-  "CreditLine": "John B. Turner Fund", 
+  "ArtistBio": "(American, born 1950)", 
+  "DateAcquired": "1986-05-20", 
+  "\ufeffTitle": "Love Conquers All", 
   "ObjectID": "64361"
 }

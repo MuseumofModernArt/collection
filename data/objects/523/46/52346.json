@@ -5,8 +5,7 @@
   "Artist": "JoAnn Verburg", 
   "URL": "http://www.moma.org/collection/works/52346", 
   "CuratorApproved": "Y", 
-  "Title": "3 X Jim", 
-  "DateAcquired": "1990-10-11", 
+  "CreditLine": "The Family of Man Fund", 
   "Date": "1989", 
   "ArtistID": 6134, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "388.1990.a-c", 
-  "ArtistBio": "American, born 1950", 
-  "CreditLine": "The Family of Man Fund", 
+  "ArtistBio": "(American, born 1950)", 
+  "DateAcquired": "1990-10-11", 
+  "\ufeffTitle": "3 X Jim", 
   "ObjectID": "52346"
 }

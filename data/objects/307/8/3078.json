@@ -5,8 +5,7 @@
   "Artist": "Jacob Jensen", 
   "URL": "http://www.moma.org/collection/works/3078", 
   "CuratorApproved": "Y", 
-  "Title": "Beomic 2000 Microphone", 
-  "DateAcquired": "1979-05-30", 
+  "CreditLine": "Gift of the manufacturer", 
   "Date": "1969", 
   "ArtistID": 2909, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "253.1979", 
-  "ArtistBio": "Danish, 1926\u20132015", 
-  "CreditLine": "Gift of the manufacturer", 
+  "ArtistBio": "(Danish, 1926\u20132015)", 
+  "DateAcquired": "1979-05-30", 
+  "\ufeffTitle": "Beomic 2000 Microphone", 
   "ObjectID": "3078"
 }

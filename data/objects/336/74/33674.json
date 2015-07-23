@@ -5,8 +5,7 @@
   "Artist": "Jean Dubuffet", 
   "URL": "http://www.moma.org/collection/works/33674", 
   "CuratorApproved": "Y", 
-  "Title": "Landscape with Three Figures", 
-  "DateAcquired": "1978-04-04", 
+  "CreditLine": "The Joan and Lester Avnet Collection", 
   "Date": "December 5, 1961", 
   "ArtistID": 1633, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "77.1978", 
-  "ArtistBio": "French, 1901\u20131985", 
-  "CreditLine": "The Joan and Lester Avnet Collection", 
+  "ArtistBio": "(French, 1901\u20131985)", 
+  "DateAcquired": "1978-04-04", 
+  "\ufeffTitle": "Landscape with Three Figures", 
   "ObjectID": "33674"
 }

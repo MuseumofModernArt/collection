@@ -5,8 +5,7 @@
   "Artist": "John H. Lickert", 
   "URL": "http://www.moma.org/collection/works/4435", 
   "CuratorApproved": "Y", 
-  "Title": "Food Grinder", 
-  "DateAcquired": "1943-11-04", 
+  "CreditLine": "Gift of R.H. Macy & Co.", 
   "Date": "1922", 
   "ArtistID": 3543, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "741.1943.1-9", 
-  "ArtistBio": "American", 
-  "CreditLine": "Gift of R.H. Macy & Co.", 
+  "ArtistBio": "(American)", 
+  "DateAcquired": "1943-11-04", 
+  "\ufeffTitle": "Food Grinder", 
   "ObjectID": "4435"
 }

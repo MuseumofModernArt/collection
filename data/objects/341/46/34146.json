@@ -5,8 +5,7 @@
   "Artist": "Wifredo Lam", 
   "URL": "http://www.moma.org/collection/works/34146", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1978-04-04", 
+  "CreditLine": "The Joan and Lester Avnet Collection", 
   "Date": "(1946)", 
   "ArtistID": 3349, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "118.1978", 
-  "ArtistBio": "Cuban, 1902\u20131982", 
-  "CreditLine": "The Joan and Lester Avnet Collection", 
+  "ArtistBio": "(Cuban, 1902\u20131982)", 
+  "DateAcquired": "1978-04-04", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "34146"
 }

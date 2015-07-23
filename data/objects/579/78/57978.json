@@ -5,8 +5,7 @@
   "Artist": "Felice Beato", 
   "URL": "http://www.moma.org/collection/works/57978", 
   "CuratorApproved": "Y", 
-  "Title": "Talien Whan Bay", 
-  "DateAcquired": "1974-12-04", 
+  "CreditLine": "Acquired through the generosity of Shirley C. Burden and the Estate of Vera Louise Fraser", 
   "Date": "July 21, 1860", 
   "ArtistID": 416, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "1270.1974", 
-  "ArtistBio": "Italian, 1825\u20131903", 
-  "CreditLine": "Acquired through the generosity of Shirley C. Burden and the Estate of Vera Louise Fraser", 
+  "ArtistBio": "(Italian, 1825\u20131903)", 
+  "DateAcquired": "1974-12-04", 
+  "\ufeffTitle": "Talien Whan Bay", 
   "ObjectID": "57978"
 }

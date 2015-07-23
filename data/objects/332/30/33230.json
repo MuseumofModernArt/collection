@@ -5,8 +5,7 @@
   "Artist": "Raymond Pettibon", 
   "URL": "http://www.moma.org/collection/works/33230", 
   "CuratorApproved": "Y", 
-  "Title": "No Title", 
-  "DateAcquired": "1999-02-25", 
+  "CreditLine": "Gift of Hudson", 
   "Date": "1991", 
   "ArtistID": 7500, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "17.1999", 
-  "ArtistBio": "American, born 1957", 
-  "CreditLine": "Gift of Hudson", 
+  "ArtistBio": "(American, born 1957)", 
+  "DateAcquired": "1999-02-25", 
+  "\ufeffTitle": "No Title", 
   "ObjectID": "33230"
 }

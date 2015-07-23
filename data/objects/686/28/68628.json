@@ -1,12 +1,11 @@
 {
   "Medium": "Aquatint and etching", 
-  "Dimensions": "plate  68 1/2 x 53 3/4\" (174 x 136.6 cm)  sheet  75 9/16 x 60\" (192 x 152.4 cm)", 
+  "Dimensions": "plate  68 1/2 x 53 3/4\" (174 x 136.6 cm)\r\nsheet  75 9/16 x 60\" (192 x 152.4 cm)", 
   "Classification": "Print", 
   "Artist": "James Rosenquist", 
   "URL": "http://www.moma.org/collection/works/68628", 
   "CuratorApproved": "Y", 
-  "Title": "Welcome to the Water Planet", 
-  "DateAcquired": "1987-10-20", 
+  "CreditLine": "The Lily Auchincloss Fund in honor of Joanne Stern", 
   "Date": "1987", 
   "ArtistID": 5021, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "410.1987", 
-  "ArtistBio": "American, born 1933", 
-  "CreditLine": "The Lily Auchincloss Fund in honor of Joanne Stern", 
+  "ArtistBio": "(American, born 1933)", 
+  "DateAcquired": "1987-10-20", 
+  "\ufeffTitle": "Welcome to the Water Planet", 
   "ObjectID": "68628"
 }

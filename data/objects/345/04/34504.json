@@ -5,8 +5,7 @@
   "Artist": "Rupprecht Geiger", 
   "URL": "http://www.moma.org/collection/works/34504", 
   "CuratorApproved": "Y", 
-  "Title": "Number 9", 
-  "DateAcquired": "1965-04-06", 
+  "CreditLine": "John S. Newberry Fund", 
   "Date": "1959", 
   "ArtistID": 2111, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "129.1965", 
-  "ArtistBio": "German, 1908\u20132009", 
-  "CreditLine": "John S. Newberry Fund", 
+  "ArtistBio": "(German, 1908\u20132009)", 
+  "DateAcquired": "1965-04-06", 
+  "\ufeffTitle": "Number 9", 
   "ObjectID": "34504"
 }

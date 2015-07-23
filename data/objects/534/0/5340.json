@@ -5,8 +5,7 @@
   "Artist": "Max Ernst", 
   "URL": "http://www.moma.org/collection/works/5340", 
   "CuratorApproved": "Y", 
-  "Title": "Arp, Max Ernst, A. Giacometti, Miro, Gonzalez", 
-  "DateAcquired": "1952-05-20", 
+  "CreditLine": "Gift of Kunsthaus Z\u00fcrich", 
   "Date": "1934", 
   "ArtistID": 1752, 
   "Keywords": [
@@ -22,7 +21,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "155.1952", 
-  "ArtistBio": "French, born Germany. 1891\u20131976", 
-  "CreditLine": "Gift of Kunsthaus Z\u00fcrich", 
+  "ArtistBio": "(French, born Germany. 1891\u20131976)", 
+  "DateAcquired": "1952-05-20", 
+  "\ufeffTitle": "Arp, Max Ernst, A. Giacometti, Miro, Gonzalez", 
   "ObjectID": "5340"
 }

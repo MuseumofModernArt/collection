@@ -5,8 +5,7 @@
   "Artist": "Marcel Breuer", 
   "URL": "http://www.moma.org/collection/works/4142", 
   "CuratorApproved": "Y", 
-  "Title": "Folding Armchair Model No. B4", 
-  "DateAcquired": "1980-10-30", 
+  "CreditLine": "Gift of Maximilian A. Sepp Ltd.", 
   "Date": "1927", 
   "ArtistID": 769, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "626.1980", 
-  "ArtistBio": "American, born Hungary. 1902\u20131981", 
-  "CreditLine": "Gift of Maximilian A. Sepp Ltd.", 
+  "ArtistBio": "(American, born Hungary. 1902\u20131981)", 
+  "DateAcquired": "1980-10-30", 
+  "\ufeffTitle": "Folding Armchair Model No. B4", 
   "ObjectID": "4142"
 }

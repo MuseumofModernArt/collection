@@ -5,8 +5,7 @@
   "Artist": "Charles Sheeler", 
   "URL": "http://www.moma.org/collection/works/52721", 
   "CuratorApproved": "Y", 
-  "Title": "Skyscrapers, New York", 
-  "DateAcquired": "1969-05-21", 
+  "CreditLine": "Gift of the photographer", 
   "Date": "1950", 
   "ArtistID": 5383, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "405.1969", 
-  "ArtistBio": "American, 1883\u20131965", 
-  "CreditLine": "Gift of the photographer", 
+  "ArtistBio": "(American, 1883\u20131965)", 
+  "DateAcquired": "1969-05-21", 
+  "\ufeffTitle": "Skyscrapers, New York", 
   "ObjectID": "52721"
 }

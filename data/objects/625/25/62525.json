@@ -5,8 +5,7 @@
   "Artist": "Jasper Johns", 
   "URL": "http://www.moma.org/collection/works/62525", 
   "CuratorApproved": "Y", 
-  "Title": "The Seasons", 
-  "DateAcquired": "1989-05-30", 
+  "CreditLine": "Gift of Emily Fisher Landau", 
   "Date": "1989", 
   "ArtistID": 2923, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "134.1989", 
-  "ArtistBio": "American, born 1930", 
-  "CreditLine": "Gift of Emily Fisher Landau", 
+  "ArtistBio": "(American, born 1930)", 
+  "DateAcquired": "1989-05-30", 
+  "\ufeffTitle": "The Seasons", 
   "ObjectID": "62525"
 }

@@ -1,12 +1,11 @@
 {
   "Medium": "Etching and aquatint with watercolor additions", 
-  "Dimensions": "plate  23 11/16 x 20\" (60.2 x 50.8 cm)  sheet  35 7/8 x 24 7/8\" (91.1 x 63.2 cm)", 
+  "Dimensions": "plate  23 11/16 x 20\" (60.2 x 50.8 cm)\r\nsheet  35 7/8 x 24 7/8\" (91.1 x 63.2 cm)", 
   "Classification": "Print", 
   "Artist": "Jim Dine", 
   "URL": "http://www.moma.org/collection/works/60483", 
   "CuratorApproved": "Y", 
-  "Title": "The Die Maker from the series Eight Sheets from an Undefined Novel", 
-  "DateAcquired": "1977-02-10", 
+  "CreditLine": "Gift of Nelson Blitz, Jr. (through the Associates of the Department of Prints and Illustrated Books)", 
   "Date": "1976", 
   "ArtistID": 1547, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "31.1977", 
-  "ArtistBio": "American, born 1935", 
-  "CreditLine": "Gift of Nelson Blitz, Jr. (through the Associates of the Department of Prints and Illustrated Books)", 
+  "ArtistBio": "(American, born 1935)", 
+  "DateAcquired": "1977-02-10", 
+  "\ufeffTitle": "The Die Maker from the series Eight Sheets from an Undefined Novel", 
   "ObjectID": "60483"
 }

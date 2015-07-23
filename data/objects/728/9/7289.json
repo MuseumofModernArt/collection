@@ -5,8 +5,7 @@
   "Artist": "Bob Schnepf", 
   "URL": "http://www.moma.org/collection/works/7289", 
   "CuratorApproved": "Y", 
-  "Title": "Avalon Ballroom", 
-  "DateAcquired": "1987-11-18", 
+  "CreditLine": "Given anonymously", 
   "Date": "1967", 
   "ArtistID": 5252, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "501.1987", 
-  "ArtistBio": "American, born 1937", 
-  "CreditLine": "Given anonymously", 
+  "ArtistBio": "(American, born 1937)", 
+  "DateAcquired": "1987-11-18", 
+  "\ufeffTitle": "Avalon Ballroom", 
   "ObjectID": "7289"
 }

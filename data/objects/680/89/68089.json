@@ -5,8 +5,7 @@
   "Artist": "John Baldessari", 
   "URL": "http://www.moma.org/collection/works/68089", 
   "CuratorApproved": "Y", 
-  "Title": "One and Three Presons (With Two Contexts - One Chaotic)", 
-  "DateAcquired": "1992-01-22", 
+  "CreditLine": "Gift of Gemini G.E.L.", 
   "Date": "1991", 
   "ArtistID": 304, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "378.1991", 
-  "ArtistBio": "American, born 1931", 
-  "CreditLine": "Gift of Gemini G.E.L.", 
+  "ArtistBio": "(American, born 1931)", 
+  "DateAcquired": "1992-01-22", 
+  "\ufeffTitle": "One and Three Presons (With Two Contexts - One Chaotic)", 
   "ObjectID": "68089"
 }

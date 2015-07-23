@@ -5,8 +5,7 @@
   "Artist": "Ken Josephson", 
   "URL": "http://www.moma.org/collection/works/45839", 
   "CuratorApproved": "Y", 
-  "Title": "Stockholm", 
-  "DateAcquired": "1971-03-02", 
+  "CreditLine": "Purchase", 
   "Date": "1967", 
   "ArtistID": 2944, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "81.1971", 
-  "ArtistBio": "American, born 1932", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, born 1932)", 
+  "DateAcquired": "1971-03-02", 
+  "\ufeffTitle": "Stockholm", 
   "ObjectID": "45839"
 }

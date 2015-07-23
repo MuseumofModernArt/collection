@@ -5,8 +5,7 @@
   "Artist": "Paulus van Leeuwen", 
   "URL": "http://www.moma.org/collection/works/3033", 
   "CuratorApproved": "Y", 
-  "Title": "Calculator", 
-  "DateAcquired": "1986-10-07", 
+  "CreditLine": "Friends of the Department Fund", 
   "Date": "1983", 
   "ArtistID": 7247, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "246.1986", 
-  "ArtistBio": "Dutch, born 1955", 
-  "CreditLine": "Friends of the Department Fund", 
+  "ArtistBio": "(Dutch, born 1955)", 
+  "DateAcquired": "1986-10-07", 
+  "\ufeffTitle": "Calculator", 
   "ObjectID": "3033"
 }

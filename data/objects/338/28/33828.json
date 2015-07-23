@@ -5,8 +5,7 @@
   "Artist": "Georgia O'Keeffe", 
   "URL": "http://www.moma.org/collection/works/33828", 
   "CuratorApproved": "Y", 
-  "Title": "Evening Star, No. III", 
-  "DateAcquired": "1958-04-22", 
+  "CreditLine": "Mr. and Mrs. Donald B. Straus Fund", 
   "Date": "(1917)", 
   "ArtistID": 4360, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "91.1958", 
-  "ArtistBio": "American, 1887\u20131986", 
-  "CreditLine": "Mr. and Mrs. Donald B. Straus Fund", 
+  "ArtistBio": "(American, 1887\u20131986)", 
+  "DateAcquired": "1958-04-22", 
+  "\ufeffTitle": "Evening Star, No. III", 
   "ObjectID": "33828"
 }

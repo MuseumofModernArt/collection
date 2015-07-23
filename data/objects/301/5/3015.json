@@ -5,8 +5,7 @@
   "Artist": "Jasper Morrison", 
   "URL": "http://www.moma.org/collection/works/3015", 
   "CuratorApproved": "Y", 
-  "Title": "Bottle Storage Module", 
-  "DateAcquired": "1998-04-22", 
+  "CreditLine": "Gift of the manufacturer", 
   "Date": "1993", 
   "ArtistID": 7980, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "244.1998", 
-  "ArtistBio": "British, born 1959", 
-  "CreditLine": "Gift of the manufacturer", 
+  "ArtistBio": "(British, born 1959)", 
+  "DateAcquired": "1998-04-22", 
+  "\ufeffTitle": "Bottle Storage Module", 
   "ObjectID": "3015"
 }

@@ -5,8 +5,7 @@
   "Artist": "Frederick Kiesler", 
   "URL": "http://www.moma.org/collection/works/33989", 
   "CuratorApproved": "Y", 
-  "Title": "Marcel Duchamp", 
-  "DateAcquired": "1963-02-13", 
+  "CreditLine": "Gift of the D.S. and R.H. Gottesman Foundation", 
   "Date": "(1947)", 
   "ArtistID": 3091, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "106.1963.a-i", 
-  "ArtistBio": "American, born Austria-Hungary. 1890\u20131965", 
-  "CreditLine": "Gift of the D.S. and R.H. Gottesman Foundation", 
+  "ArtistBio": "(American, born Austria-Hungary. 1890\u20131965)", 
+  "DateAcquired": "1963-02-13", 
+  "\ufeffTitle": "Marcel Duchamp", 
   "ObjectID": "33989"
 }

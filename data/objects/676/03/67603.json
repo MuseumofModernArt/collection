@@ -1,12 +1,11 @@
 {
   "Medium": "Lithograph with collage and hand additions", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "Todd Siler", 
   "URL": "http://www.moma.org/collection/works/67603", 
   "CuratorApproved": "Y", 
-  "Title": "Metaprint XII from the series Metamorphs: Forms of Metaphor", 
-  "DateAcquired": "1989-12-31", 
+  "CreditLine": "Gift of Gabrielle and Herbert Kayden", 
   "Date": "1988", 
   "ArtistID": 5426, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "356.1989", 
-  "ArtistBio": "American, born 1953", 
-  "CreditLine": "Gift of Gabrielle and Herbert Kayden", 
+  "ArtistBio": "(American, born 1953)", 
+  "DateAcquired": "1989-12-31", 
+  "\ufeffTitle": "Metaprint XII from the series Metamorphs: Forms of Metaphor", 
   "ObjectID": "67603"
 }

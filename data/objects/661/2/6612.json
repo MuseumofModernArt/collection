@@ -5,8 +5,7 @@
   "Artist": "Paul Br\u00fchwiler", 
   "URL": "http://www.moma.org/collection/works/6612", 
   "CuratorApproved": "Y", 
-  "Title": "Fritz Lang Retrospektive", 
-  "DateAcquired": "1988-11-22", 
+  "CreditLine": "Purchase", 
   "Date": "1983", 
   "ArtistID": 825, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "409.1988", 
-  "ArtistBio": "Swiss, born 1939", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(Swiss, born 1939)", 
+  "DateAcquired": "1988-11-22", 
+  "\ufeffTitle": "Fritz Lang Retrospektive", 
   "ObjectID": "6612"
 }

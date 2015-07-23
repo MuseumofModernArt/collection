@@ -5,8 +5,7 @@
   "Artist": "Christian Boltanski", 
   "URL": "http://www.moma.org/collection/works/68104", 
   "CuratorApproved": "Y", 
-  "Title": "Gymnasium Chases", 
-  "DateAcquired": "1992-01-22", 
+  "CreditLine": "The Associates Fund", 
   "Date": "1991 (project begun 1989).", 
   "ArtistID": 649, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "379.1991.1-24", 
-  "ArtistBio": "French, born 1944", 
-  "CreditLine": "The Associates Fund", 
+  "ArtistBio": "(French, born 1944)", 
+  "DateAcquired": "1992-01-22", 
+  "\ufeffTitle": "Gymnasium Chases", 
   "ObjectID": "68104"
 }

@@ -5,8 +5,7 @@
   "Artist": "Pierre Bonnard", 
   "URL": "http://www.moma.org/collection/works/61576", 
   "CuratorApproved": "Y", 
-  "Title": "L'Album de la Revue Blanche", 
-  "DateAcquired": "1952-05-20", 
+  "CreditLine": "Gift of Abby Aldrich Rockefeller (by exchange)", 
   "Date": "(1895)", 
   "ArtistID": 665, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "84.1952", 
-  "ArtistBio": "French, 1867\u20131947", 
-  "CreditLine": "Gift of Abby Aldrich Rockefeller (by exchange)", 
+  "ArtistBio": "(French, 1867\u20131947)", 
+  "DateAcquired": "1952-05-20", 
+  "\ufeffTitle": "L'Album de la Revue Blanche", 
   "ObjectID": "61576"
 }

@@ -5,8 +5,7 @@
   "Artist": "Roberto Sambonet", 
   "URL": "http://www.moma.org/collection/works/4226", 
   "CuratorApproved": "Y", 
-  "Title": "Fish Poacher", 
-  "DateAcquired": "1995-09-20", 
+  "CreditLine": "Gift of the manufacturer", 
   "Date": "1954", 
   "ArtistID": 5136, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "689.1995", 
-  "ArtistBio": "Italian, 1924\u20131995", 
-  "CreditLine": "Gift of the manufacturer", 
+  "ArtistBio": "(Italian, 1924\u20131995)", 
+  "DateAcquired": "1995-09-20", 
+  "\ufeffTitle": "Fish Poacher", 
   "ObjectID": "4226"
 }

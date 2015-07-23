@@ -5,8 +5,7 @@
   "Artist": "Wilhelm Wagenfeld", 
   "URL": "http://www.moma.org/collection/works/4443", 
   "CuratorApproved": "Y", 
-  "Title": "Salt and Pepper Shakers", 
-  "DateAcquired": "1983-11-30", 
+  "CreditLine": "Given anonymously", 
   "Date": "1952-53", 
   "ArtistID": 6208, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "747.1983.1-2", 
-  "ArtistBio": "German, 1900\u20131990", 
-  "CreditLine": "Given anonymously", 
+  "ArtistBio": "(German, 1900\u20131990)", 
+  "DateAcquired": "1983-11-30", 
+  "\ufeffTitle": "Salt and Pepper Shakers", 
   "ObjectID": "4443"
 }

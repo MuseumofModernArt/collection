@@ -5,8 +5,7 @@
   "Artist": "Odilon Redon", 
   "URL": "http://www.moma.org/collection/works/63306", 
   "CuratorApproved": "Y", 
-  "Title": "Homage to Goya", 
-  "DateAcquired": "2000-03-02", 
+  "CreditLine": "Gift of The Ian Woodner Family Collection", 
   "Date": "1885", 
   "ArtistID": 4840, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "161.2000.1-6", 
-  "ArtistBio": "French, 1840\u20131916", 
-  "CreditLine": "Gift of The Ian Woodner Family Collection", 
+  "ArtistBio": "(French, 1840\u20131916)", 
+  "DateAcquired": "2000-03-02", 
+  "\ufeffTitle": "Homage to Goya", 
   "ObjectID": "63306"
 }

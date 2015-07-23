@@ -5,8 +5,7 @@
   "Artist": "Niklaus Troxler", 
   "URL": "http://www.moma.org/collection/works/6647", 
   "CuratorApproved": "Y", 
-  "Title": "Bob Stewart Group", 
-  "DateAcquired": "1988-11-22", 
+  "CreditLine": "Gift of the designer", 
   "Date": "1987", 
   "ArtistID": 5940, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "414.1988", 
-  "ArtistBio": "Swiss, born 1947", 
-  "CreditLine": "Gift of the designer", 
+  "ArtistBio": "(Swiss, born 1947)", 
+  "DateAcquired": "1988-11-22", 
+  "\ufeffTitle": "Bob Stewart Group", 
   "ObjectID": "6647"
 }

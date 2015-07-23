@@ -5,8 +5,7 @@
   "Artist": "Pablo Picasso", 
   "URL": "http://www.moma.org/collection/works/29866", 
   "CuratorApproved": "Y", 
-  "Title": "Dons des F\u00e9minines", 
-  "DateAcquired": "1964-10-06", 
+  "CreditLine": "The Louis E. Stern Collection", 
   "Date": "1951", 
   "ArtistID": 4609, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "999.1964.1-3", 
-  "ArtistBio": "Spanish, 1881\u20131973", 
-  "CreditLine": "The Louis E. Stern Collection", 
+  "ArtistBio": "(Spanish, 1881\u20131973)", 
+  "DateAcquired": "1964-10-06", 
+  "\ufeffTitle": "Dons des F\u00e9minines", 
   "ObjectID": "29866"
 }

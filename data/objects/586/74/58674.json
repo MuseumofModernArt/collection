@@ -5,8 +5,7 @@
   "Artist": "Radio Corporation of America", 
   "URL": "http://www.moma.org/collection/works/58674", 
   "CuratorApproved": "Y", 
-  "Title": "Captain Richard H. Ranger-Inventor", 
-  "DateAcquired": "2001-06-14", 
+  "CreditLine": "The New York Times Collection", 
   "Date": "1924", 
   "ArtistID": 8649, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "2081.2001", 
-  "ArtistBio": "American", 
-  "CreditLine": "The New York Times Collection", 
+  "ArtistBio": "(American)", 
+  "DateAcquired": "2001-06-14", 
+  "\ufeffTitle": "\"Captain Richard H. Ranger-Inventor\"", 
   "ObjectID": "58674"
 }

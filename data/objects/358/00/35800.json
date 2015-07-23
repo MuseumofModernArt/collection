@@ -5,8 +5,7 @@
   "Artist": "Claes Oldenburg", 
   "URL": "http://www.moma.org/collection/works/35800", 
   "CuratorApproved": "Y", 
-  "Title": "Self Portrait", 
-  "DateAcquired": "1987-09-17", 
+  "CreditLine": "Gift of Alicia Legg", 
   "Date": "1958", 
   "ArtistID": 4397, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "268.1987", 
-  "ArtistBio": "American, born Sweden 1929", 
-  "CreditLine": "Gift of Alicia Legg", 
+  "ArtistBio": "(American, born Sweden 1929)", 
+  "DateAcquired": "1987-09-17", 
+  "\ufeffTitle": "Self Portrait", 
   "ObjectID": "35800"
 }

@@ -5,8 +5,7 @@
   "Artist": "Dan Weiner", 
   "URL": "http://www.moma.org/collection/works/52416", 
   "CuratorApproved": "Y", 
-  "Title": "Judge Learned Hand", 
-  "DateAcquired": "1959-04-22", 
+  "CreditLine": "Purchase", 
   "Date": "1951", 
   "ArtistID": 6287, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "392.1959", 
-  "ArtistBio": "American, 1919\u20131959", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, 1919\u20131959)", 
+  "DateAcquired": "1959-04-22", 
+  "\ufeffTitle": "Judge Learned Hand", 
   "ObjectID": "52416"
 }

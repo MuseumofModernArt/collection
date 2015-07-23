@@ -5,8 +5,7 @@
   "Artist": "Alan Green", 
   "URL": "http://www.moma.org/collection/works/65212", 
   "CuratorApproved": "Y", 
-  "Title": "Second of Five", 
-  "DateAcquired": "1974-04-23", 
+  "CreditLine": "Janet K. Ruttenberg Fund", 
   "Date": "1973", 
   "ArtistID": 2319, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "249.1974", 
-  "ArtistBio": "British, born 1932", 
-  "CreditLine": "Janet K. Ruttenberg Fund", 
+  "ArtistBio": "(British, born 1932)", 
+  "DateAcquired": "1974-04-23", 
+  "\ufeffTitle": "Second of Five", 
   "ObjectID": "65212"
 }

@@ -5,8 +5,7 @@
   "Artist": "Vasily Kandinsky", 
   "URL": "http://www.moma.org/collection/works/38631", 
   "CuratorApproved": "Y", 
-  "Title": "Round Poetry", 
-  "DateAcquired": "1968-12-10", 
+  "CreditLine": "John S. Newberry Fund", 
   "Date": "1933", 
   "ArtistID": 2981, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "1518.1968", 
-  "ArtistBio": "French, born Russia. 1866\u20131944", 
-  "CreditLine": "John S. Newberry Fund", 
+  "ArtistBio": "(French, born Russia. 1866\u20131944)", 
+  "DateAcquired": "1968-12-10", 
+  "\ufeffTitle": "Round Poetry (Runde Dichtung)", 
   "ObjectID": "38631"
 }

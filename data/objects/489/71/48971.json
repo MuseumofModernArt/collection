@@ -5,8 +5,7 @@
   "Artist": "Melissa Shook", 
   "URL": "http://www.moma.org/collection/works/48971", 
   "CuratorApproved": "Y", 
-  "Title": "November 1973", 
-  "DateAcquired": "1974-04-02", 
+  "CreditLine": "Gift of the photographer", 
   "Date": "1973", 
   "ArtistID": 5407, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "223.1974", 
-  "ArtistBio": "American, born 1939", 
-  "CreditLine": "Gift of the photographer", 
+  "ArtistBio": "(American, born 1939)", 
+  "DateAcquired": "1974-04-02", 
+  "\ufeffTitle": "November 1973", 
   "ObjectID": "48971"
 }

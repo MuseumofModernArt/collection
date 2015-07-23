@@ -5,8 +5,7 @@
   "Artist": "Robert Adams", 
   "URL": "http://www.moma.org/collection/works/46954", 
   "CuratorApproved": "Y", 
-  "Title": "Missouri River, Clay County, South Dakota", 
-  "DateAcquired": "1982-05-13", 
+  "CreditLine": "Purchase", 
   "Date": "1976", 
   "ArtistID": 66, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "153.1982", 
-  "ArtistBio": "American, born 1937", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, born 1937)", 
+  "DateAcquired": "1982-05-13", 
+  "\ufeffTitle": "Missouri River, Clay County, South Dakota", 
   "ObjectID": "46954"
 }

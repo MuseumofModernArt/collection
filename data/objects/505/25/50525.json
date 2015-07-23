@@ -5,8 +5,7 @@
   "Artist": "Dorothea Lange", 
   "URL": "http://www.moma.org/collection/works/50525", 
   "CuratorApproved": "Y", 
-  "Title": "Daughter of Migrant Tennessee Coal Miner Living in American River Camp near Sacramento, California", 
-  "DateAcquired": "1938-10-20", 
+  "CreditLine": "Gift of the Farm Security Administration", 
   "Date": "1936", 
   "ArtistID": 3373, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "313.1938", 
-  "ArtistBio": "American, 1895\u20131965", 
-  "CreditLine": "Gift of the Farm Security Administration", 
+  "ArtistBio": "(American, 1895\u20131965)", 
+  "DateAcquired": "1938-10-20", 
+  "\ufeffTitle": "Daughter of Migrant Tennessee Coal Miner Living in American River Camp near Sacramento, California", 
   "ObjectID": "50525"
 }

@@ -5,8 +5,7 @@
   "Artist": "Louise Bourgeois", 
   "URL": "http://www.moma.org/collection/works/69750", 
   "CuratorApproved": "Y", 
-  "Title": "The Strange Fellows, only state", 
-  "DateAcquired": "1993-11-17", 
+  "CreditLine": "Gift of the artist", 
   "Date": "(1989)", 
   "ArtistID": 710, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "475.1993", 
-  "ArtistBio": "American, born France. 1911\u20132010", 
-  "CreditLine": "Gift of the artist", 
+  "ArtistBio": "(American, born France. 1911\u20132010)", 
+  "DateAcquired": "1993-11-17", 
+  "\ufeffTitle": "The Strange Fellows, only state", 
   "ObjectID": "69750"
 }

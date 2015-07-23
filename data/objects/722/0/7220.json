@@ -5,8 +5,7 @@
   "Artist": "William Bradley", 
   "URL": "http://www.moma.org/collection/works/7220", 
   "CuratorApproved": "Y", 
-  "Title": "The Chap-Book", 
-  "DateAcquired": "1983-05-17", 
+  "CreditLine": "Acquired by exchange", 
   "Date": "1895", 
   "ArtistID": 732, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "489.1983", 
-  "ArtistBio": "American, 1868\u20131962", 
-  "CreditLine": "Acquired by exchange", 
+  "ArtistBio": "(American, 1868\u20131962)", 
+  "DateAcquired": "1983-05-17", 
+  "\ufeffTitle": "The Chap-Book", 
   "ObjectID": "7220"
 }

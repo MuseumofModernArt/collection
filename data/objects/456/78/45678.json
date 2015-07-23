@@ -5,8 +5,7 @@
   "Artist": "Dan Weiner", 
   "URL": "http://www.moma.org/collection/works/45678", 
   "CuratorApproved": "Y", 
-  "Title": "Iowa Floods: The Thomas Family, Mondamin, Iowa", 
-  "DateAcquired": "1994-01-13", 
+  "CreditLine": "Gift of Sandra Weiner and The Family of Man Fund", 
   "Date": "1952", 
   "ArtistID": 6287, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "73.1994", 
-  "ArtistBio": "American, 1919\u20131959", 
-  "CreditLine": "Gift of Sandra Weiner and The Family of Man Fund", 
+  "ArtistBio": "(American, 1919\u20131959)", 
+  "DateAcquired": "1994-01-13", 
+  "\ufeffTitle": "Iowa Floods: The Thomas Family, Mondamin, Iowa", 
   "ObjectID": "45678"
 }

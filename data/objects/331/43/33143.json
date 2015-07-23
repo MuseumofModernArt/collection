@@ -5,8 +5,7 @@
   "Artist": "Marcel Jean", 
   "URL": "http://www.moma.org/collection/works/33143", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1969-02-10", 
+  "CreditLine": "Saidie A. May Fund", 
   "Date": "(1937)", 
   "ArtistID": 2898, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "12.1969", 
-  "ArtistBio": "French, 1900\u20131993", 
-  "CreditLine": "Saidie A. May Fund", 
+  "ArtistBio": "(French, 1900\u20131993)", 
+  "DateAcquired": "1969-02-10", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "33143"
 }

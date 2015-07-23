@@ -5,8 +5,7 @@
   "Artist": "Alice Boughton", 
   "URL": "http://www.moma.org/collection/works/53056", 
   "CuratorApproved": "Y", 
-  "Title": "Henry James", 
-  "DateAcquired": "1942-12-29", 
+  "CreditLine": "Purchase", 
   "Date": "1906", 
   "ArtistID": 701, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "414.1942", 
-  "ArtistBio": "American, 1865\u20131943", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, 1865\u20131943)", 
+  "DateAcquired": "1942-12-29", 
+  "\ufeffTitle": "Henry James", 
   "ObjectID": "53056"
 }

@@ -5,8 +5,7 @@
   "Artist": "Charles Maurin", 
   "URL": "http://www.moma.org/collection/works/60502", 
   "CuratorApproved": "Y", 
-  "Title": "Young Girl Before Mirror", 
-  "DateAcquired": "1979-01-23", 
+  "CreditLine": "Joanne M. Stern Fund", 
   "Date": "(c. 1895)", 
   "ArtistID": 3856, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "32.1979", 
-  "ArtistBio": "French, 1856\u20131914", 
-  "CreditLine": "Joanne M. Stern Fund", 
+  "ArtistBio": "(French, 1856\u20131914)", 
+  "DateAcquired": "1979-01-23", 
+  "\ufeffTitle": "Young Girl Before Mirror", 
   "ObjectID": "60502"
 }

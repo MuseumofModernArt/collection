@@ -5,8 +5,7 @@
   "Artist": "Hans Wegner", 
   "URL": "http://www.moma.org/collection/works/2528", 
   "CuratorApproved": "Y", 
-  "Title": "Stacking Side Chair", 
-  "DateAcquired": "1955-04-06", 
+  "CreditLine": "Gift of Richards Morgenthau Co.", 
   "Date": "1952", 
   "ArtistID": 6282, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "141.1955", 
-  "ArtistBio": "Danish, 1914\u20132007", 
-  "CreditLine": "Gift of Richards Morgenthau Co.", 
+  "ArtistBio": "(Danish, 1914\u20132007)", 
+  "DateAcquired": "1955-04-06", 
+  "\ufeffTitle": "Stacking Side Chair", 
   "ObjectID": "2528"
 }

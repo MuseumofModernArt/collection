@@ -5,8 +5,7 @@
   "Artist": "G\u00fcnther Kieser", 
   "URL": "http://www.moma.org/collection/works/7805", 
   "CuratorApproved": "Y", 
-  "Title": "Der stillgelegte Mensch", 
-  "DateAcquired": "1981-12-10", 
+  "CreditLine": "Gift of Hessischer Rundfunk", 
   "Date": "1981", 
   "ArtistID": 3090, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "630.1981", 
-  "ArtistBio": "German, born 1930", 
-  "CreditLine": "Gift of Hessischer Rundfunk", 
+  "ArtistBio": "(German, born 1930)", 
+  "DateAcquired": "1981-12-10", 
+  "\ufeffTitle": "Der stillgelegte Mensch", 
   "ObjectID": "7805"
 }

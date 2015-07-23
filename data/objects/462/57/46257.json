@@ -5,8 +5,7 @@
   "Artist": "Charles Sheeler", 
   "URL": "http://www.moma.org/collection/works/46257", 
   "CuratorApproved": "Y", 
-  "Title": "Doylestown House, Stairway, Open Door", 
-  "DateAcquired": "1993-03-11", 
+  "CreditLine": "Gift of the photographer", 
   "Date": "1914-17", 
   "ArtistID": 5383, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "98.1993", 
-  "ArtistBio": "American, 1883\u20131965", 
-  "CreditLine": "Gift of the photographer", 
+  "ArtistBio": "(American, 1883\u20131965)", 
+  "DateAcquired": "1993-03-11", 
+  "\ufeffTitle": "Doylestown House, Stairway, Open Door", 
   "ObjectID": "46257"
 }

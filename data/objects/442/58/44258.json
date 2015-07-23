@@ -5,8 +5,7 @@
   "Artist": "Berenice Abbott", 
   "URL": "http://www.moma.org/collection/works/44258", 
   "CuratorApproved": "Y", 
-  "Title": "West Side of Gramercy Park, New York", 
-  "DateAcquired": "1987-02-19", 
+  "CreditLine": "Gift of the Robert and Joyce Menschel Foundation", 
   "Date": "November 27, 1935", 
   "ArtistID": 41, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "30.1987", 
-  "ArtistBio": "American, 1898\u20131991", 
-  "CreditLine": "Gift of the Robert and Joyce Menschel Foundation", 
+  "ArtistBio": "(American, 1898\u20131991)", 
+  "DateAcquired": "1987-02-19", 
+  "\ufeffTitle": "West Side of Gramercy Park, New York", 
   "ObjectID": "44258"
 }

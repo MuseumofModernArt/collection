@@ -1,12 +1,11 @@
 {
   "Medium": "Series of eight lithographs", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "Josef Albers", 
   "URL": "http://www.moma.org/collection/works/65878", 
   "CuratorApproved": "Y", 
-  "Title": "Graphic Tectonic", 
-  "DateAcquired": "1968-04-23", 
+  "CreditLine": "Gift of the artist", 
   "Date": "1942", 
   "ArtistID": 97, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "278.1968.1-8", 
-  "ArtistBio": "American, born Germany. 1888\u20131976", 
-  "CreditLine": "Gift of the artist", 
+  "ArtistBio": "(American, born Germany. 1888\u20131976)", 
+  "DateAcquired": "1968-04-23", 
+  "\ufeffTitle": "Graphic Tectonic", 
   "ObjectID": "65878"
 }

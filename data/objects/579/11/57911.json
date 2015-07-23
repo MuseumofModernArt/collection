@@ -5,8 +5,7 @@
   "Artist": "Charles N\u00e8gre", 
   "URL": "http://www.moma.org/collection/works/57911", 
   "CuratorApproved": "Y", 
-  "Title": "The Coconut Merchant", 
-  "DateAcquired": "1964-11-10", 
+  "CreditLine": "Courtesy of Andr\u00e9 Jammes", 
   "Date": "c. 1852", 
   "ArtistID": 4254, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "1215.1964", 
-  "ArtistBio": "French, 1820\u20131880", 
-  "CreditLine": "Courtesy of Andr\u00e9 Jammes", 
+  "ArtistBio": "(French, 1820\u20131880)", 
+  "DateAcquired": "1964-11-10", 
+  "\ufeffTitle": "The Coconut Merchant", 
   "ObjectID": "57911"
 }

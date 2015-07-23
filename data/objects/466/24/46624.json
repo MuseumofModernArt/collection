@@ -5,8 +5,7 @@
   "Artist": "Harry Callahan", 
   "URL": "http://www.moma.org/collection/works/46624", 
   "CuratorApproved": "Y", 
-  "Title": "Spruce Trees", 
-  "DateAcquired": "1959-04-22", 
+  "CreditLine": "Purchase", 
   "Date": "c. 1950", 
   "ArtistID": 924, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "121.1959", 
-  "ArtistBio": "American, 1912\u20131999", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, 1912\u20131999)", 
+  "DateAcquired": "1959-04-22", 
+  "\ufeffTitle": "Spruce Trees", 
   "ObjectID": "46624"
 }

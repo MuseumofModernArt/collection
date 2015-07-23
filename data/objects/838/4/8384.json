@@ -5,8 +5,7 @@
   "Artist": "Ryuichi Yamashiro", 
   "URL": "http://www.moma.org/collection/works/8384", 
   "CuratorApproved": "Y", 
-  "Title": "Forest", 
-  "DateAcquired": "1965-11-09", 
+  "CreditLine": "Gift of the artist", 
   "Date": "1954", 
   "ArtistID": 6487, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "926.1965", 
-  "ArtistBio": "Japanese, born 1920", 
-  "CreditLine": "Gift of the artist", 
+  "ArtistBio": "(Japanese, born 1920)", 
+  "DateAcquired": "1965-11-09", 
+  "\ufeffTitle": "Forest", 
   "ObjectID": "8384"
 }

@@ -5,8 +5,7 @@
   "Artist": "Max Beckmann", 
   "URL": "http://www.moma.org/collection/works/64475", 
   "CuratorApproved": "Y", 
-  "Title": "Dostoyevsky II", 
-  "DateAcquired": "1952-11-07", 
+  "CreditLine": "Larry Aldrich Fund", 
   "Date": "(1921)", 
   "ArtistID": 429, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "211.1952", 
-  "ArtistBio": "German, 1884\u20131950", 
-  "CreditLine": "Larry Aldrich Fund", 
+  "ArtistBio": "(German, 1884\u20131950)", 
+  "DateAcquired": "1952-11-07", 
+  "\ufeffTitle": "Dostoyevsky II (Dostojewski II) from the first Ganymede-Portfolio (erste Ganymed-Mappe)", 
   "ObjectID": "64475"
 }

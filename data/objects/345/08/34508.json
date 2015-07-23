@@ -5,8 +5,7 @@
   "Artist": "Raoul Dufy", 
   "URL": "http://www.moma.org/collection/works/34508", 
   "CuratorApproved": "Y", 
-  "Title": "Taormina", 
-  "DateAcquired": "1976-03-23", 
+  "CreditLine": "Bequest of Madeleine Griner", 
   "Date": "1922", 
   "ArtistID": 1646, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "129.1976", 
-  "ArtistBio": "French, 1877\u20131953", 
-  "CreditLine": "Bequest of Madeleine Griner", 
+  "ArtistBio": "(French, 1877\u20131953)", 
+  "DateAcquired": "1976-03-23", 
+  "\ufeffTitle": "Taormina", 
   "ObjectID": "34508"
 }

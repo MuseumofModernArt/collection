@@ -5,8 +5,7 @@
   "Artist": "Rudolf Stingel", 
   "URL": "http://www.moma.org/collection/works/35097", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1997-04-17", 
+  "CreditLine": "Gift of Sarah-Ann and Werner H. Kramarsky", 
   "Date": "1995", 
   "ArtistID": 7627, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "180.1997", 
-  "ArtistBio": "Italian, born 1956", 
-  "CreditLine": "Gift of Sarah-Ann and Werner H. Kramarsky", 
+  "ArtistBio": "(Italian, born 1956)", 
+  "DateAcquired": "1997-04-17", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "35097"
 }

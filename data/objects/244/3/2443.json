@@ -5,8 +5,7 @@
   "Artist": "The Yale & Towne Mfg. Co., Stamford, CT", 
   "URL": "http://www.moma.org/collection/works/2443", 
   "CuratorApproved": "Y", 
-  "Title": "Padlock", 
-  "DateAcquired": "1948-03-17", 
+  "CreditLine": "Gift of the manufacturer", 
   "Date": "Before 1948", 
   "Keywords": [
     "online art collection", 
@@ -19,7 +18,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "187.1948", 
-  "ArtistBio": "American", 
-  "CreditLine": "Gift of the manufacturer", 
+  "ArtistBio": "(American)", 
+  "DateAcquired": "1948-03-17", 
+  "\ufeffTitle": "Padlock", 
   "ObjectID": "2443"
 }

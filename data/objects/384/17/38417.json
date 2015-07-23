@@ -5,8 +5,7 @@
   "Artist": "Eva Hesse", 
   "URL": "http://www.moma.org/collection/works/38417", 
   "CuratorApproved": "Y", 
-  "Title": "No title", 
-  "DateAcquired": "1995-06-14", 
+  "CreditLine": "Ruth Vollmer Bequest", 
   "Date": "1967", 
   "ArtistID": 2623, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "1101.1983", 
-  "ArtistBio": "American, born Germany. 1936\u20131970", 
-  "CreditLine": "Ruth Vollmer Bequest", 
+  "ArtistBio": "(American, born Germany. 1936\u20131970)", 
+  "DateAcquired": "1995-06-14", 
+  "\ufeffTitle": "No title", 
   "ObjectID": "38417"
 }

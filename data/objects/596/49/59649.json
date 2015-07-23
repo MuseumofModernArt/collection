@@ -5,8 +5,7 @@
   "Artist": "Ken Danby", 
   "URL": "http://www.moma.org/collection/works/59649", 
   "CuratorApproved": "Y", 
-  "Title": "Early Autumn", 
-  "DateAcquired": "1972-02-07", 
+  "CreditLine": "Gift of Nabis Fine Arts, Inc.", 
   "Date": "1971", 
   "ArtistID": 1373, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "5.1972", 
-  "ArtistBio": "Canadian", 
-  "CreditLine": "Gift of Nabis Fine Arts, Inc.", 
+  "ArtistBio": "(Canadian)", 
+  "DateAcquired": "1972-02-07", 
+  "\ufeffTitle": "Early Autumn", 
   "ObjectID": "59649"
 }

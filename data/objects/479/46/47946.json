@@ -5,8 +5,7 @@
   "Artist": "Richard Benson", 
   "URL": "http://www.moma.org/collection/works/47946", 
   "CuratorApproved": "Y", 
-  "Title": "Newport, Rhode Island", 
-  "DateAcquired": "1979-05-10", 
+  "CreditLine": "Purchase, 1979", 
   "Date": "1978", 
   "Keywords": [
     "online art collection", 
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "184.1979", 
-  "ArtistBio": "American, born 1943", 
-  "CreditLine": "Purchase, 1979", 
+  "ArtistBio": "(American, born 1943)", 
+  "DateAcquired": "1979-05-10", 
+  "\ufeffTitle": "Newport, Rhode Island", 
   "ObjectID": "47946"
 }

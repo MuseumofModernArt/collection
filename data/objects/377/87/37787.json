@@ -5,8 +5,7 @@
   "Artist": "Jacob Lawrence", 
   "URL": "http://www.moma.org/collection/works/37787", 
   "CuratorApproved": "Y", 
-  "Title": "A Family", 
-  "DateAcquired": "1971-12-07", 
+  "CreditLine": "Gift of Mrs. Maurice Blin", 
   "Date": "1943", 
   "ArtistID": 3418, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "684.1971", 
-  "ArtistBio": "American, 1917\u20132000", 
-  "CreditLine": "Gift of Mrs. Maurice Blin", 
+  "ArtistBio": "(American, 1917\u20132000)", 
+  "DateAcquired": "1971-12-07", 
+  "\ufeffTitle": "A Family", 
   "ObjectID": "37787"
 }

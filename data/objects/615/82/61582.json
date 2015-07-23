@@ -5,8 +5,7 @@
   "Artist": "Victor Vasarely", 
   "URL": "http://www.moma.org/collection/works/61582", 
   "CuratorApproved": "Y", 
-  "Title": "G. D. II", 
-  "DateAcquired": "1965-02-09", 
+  "CreditLine": "Purchase", 
   "Date": "1965", 
   "ArtistID": 6109, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "84.1965", 
-  "ArtistBio": "French, born Hungary 1908\u20131997", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(French, born Hungary 1908\u20131997)", 
+  "DateAcquired": "1965-02-09", 
+  "\ufeffTitle": "G. D. II", 
   "ObjectID": "61582"
 }

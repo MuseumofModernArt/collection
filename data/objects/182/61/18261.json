@@ -1,12 +1,11 @@
 {
   "Medium": "Seventeen lithographs", 
-  "Dimensions": "page  14 15/16 x 11 1/8\" (38 x 28.2 cm)  Prints: various dimensions.", 
+  "Dimensions": "page  14 15/16 x 11 1/8\" (38 x 28.2 cm)\r\nPrints: various dimensions.", 
   "Classification": "Illustrated Book", 
   "Artist": "June Wayne", 
   "URL": "http://www.moma.org/collection/works/18261", 
   "CuratorApproved": "Y", 
-  "Title": "Songs and Sonets", 
-  "DateAcquired": "1985-01-30", 
+  "CreditLine": "Gift of Evelyn and Robert Frank", 
   "Date": "1959", 
   "ArtistID": 6271, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "531.1984.1-17", 
-  "ArtistBio": "American, 1918\u20132011", 
-  "CreditLine": "Gift of Evelyn and Robert Frank", 
+  "ArtistBio": "(American, 1918\u20132011)", 
+  "DateAcquired": "1985-01-30", 
+  "\ufeffTitle": "Songs and Sonets", 
   "ObjectID": "18261"
 }

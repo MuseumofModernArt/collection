@@ -5,8 +5,7 @@
   "Artist": "Peter Hajnoczky", 
   "URL": "http://www.moma.org/collection/works/6771", 
   "CuratorApproved": "Y", 
-  "Title": "Winter Hilfe *62", 
-  "DateAcquired": "1963-06-12", 
+  "CreditLine": "Given anonymously", 
   "Date": "1962", 
   "ArtistID": 2459, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "379.1963", 
-  "ArtistBio": "Swiss, born 1943", 
-  "CreditLine": "Given anonymously", 
+  "ArtistBio": "(Swiss, born 1943)", 
+  "DateAcquired": "1963-06-12", 
+  "\ufeffTitle": "Winter Hilfe *62", 
   "ObjectID": "6771"
 }

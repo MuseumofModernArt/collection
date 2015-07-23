@@ -5,8 +5,7 @@
   "Artist": "Herbert Bayer", 
   "URL": "http://www.moma.org/collection/works/5104", 
   "CuratorApproved": "Y", 
-  "Title": "Kandinsky zum 60. Geburtstag", 
-  "DateAcquired": "1968-03-07", 
+  "CreditLine": "Gift of Mr. and Mrs. Alfred H. Barr, Jr.", 
   "Date": "1926", 
   "ArtistID": 399, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "109.1968", 
-  "ArtistBio": "American, born Austria. 1900\u20131985", 
-  "CreditLine": "Gift of Mr. and Mrs. Alfred H. Barr, Jr.", 
+  "ArtistBio": "(American, born Austria. 1900\u20131985)", 
+  "DateAcquired": "1968-03-07", 
+  "\ufeffTitle": "Kandinsky zum 60. Geburtstag", 
   "ObjectID": "5104"
 }

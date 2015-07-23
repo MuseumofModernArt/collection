@@ -5,8 +5,7 @@
   "Artist": "Alice Aycock", 
   "URL": "http://www.moma.org/collection/works/37872", 
   "CuratorApproved": "Y", 
-  "Title": "Study for Project Entitled \"Studies for a Town\"", 
-  "DateAcquired": "1978-10-27", 
+  "CreditLine": "Acquired with matching funds from R.L.B. Tobin and the National Endowment for the Arts", 
   "Date": "1977", 
   "ArtistID": 256, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "724.1978", 
-  "ArtistBio": "American, born 1946", 
-  "CreditLine": "Acquired with matching funds from R.L.B. Tobin and the National Endowment for the Arts", 
+  "ArtistBio": "(American, born 1946)", 
+  "DateAcquired": "1978-10-27", 
+  "\ufeffTitle": "Study for Project Entitled \"Studies for a Town\"", 
   "ObjectID": "37872"
 }

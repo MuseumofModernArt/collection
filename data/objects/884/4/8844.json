@@ -5,8 +5,7 @@
   "Artist": "Klaus Staeck", 
   "URL": "http://www.moma.org/collection/works/8844", 
   "CuratorApproved": "Y", 
-  "Title": "Nord-S\u00fcd Konferenz", 
-  "DateAcquired": "2000-12-11", 
+  "CreditLine": "Friends of the Department Fund", 
   "Date": "1979", 
   "ArtistID": 8268, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "1547.2000", 
-  "ArtistBio": "German, born 1938", 
-  "CreditLine": "Friends of the Department Fund", 
+  "ArtistBio": "(German, born 1938)", 
+  "DateAcquired": "2000-12-11", 
+  "\ufeffTitle": "Nord-S\u00fcd Konferenz", 
   "ObjectID": "8844"
 }

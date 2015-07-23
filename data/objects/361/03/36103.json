@@ -5,8 +5,7 @@
   "Artist": "Mel Bochner", 
   "URL": "http://www.moma.org/collection/works/36103", 
   "CuratorApproved": "Y", 
-  "Title": "Triangular and Square (Second Diagonal)", 
-  "DateAcquired": "1983-03-15", 
+  "CreditLine": "Gift of Mr. and Mrs. Victor Ganz", 
   "Date": "1974", 
   "ArtistID": 625, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "302.1983", 
-  "ArtistBio": "American, born 1940", 
-  "CreditLine": "Gift of Mr. and Mrs. Victor Ganz", 
+  "ArtistBio": "(American, born 1940)", 
+  "DateAcquired": "1983-03-15", 
+  "\ufeffTitle": "Triangular and Square (Second Diagonal)", 
   "ObjectID": "36103"
 }

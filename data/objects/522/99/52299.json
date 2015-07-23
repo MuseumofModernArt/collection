@@ -5,8 +5,7 @@
   "Artist": "Todd Webb", 
   "URL": "http://www.moma.org/collection/works/52299", 
   "CuratorApproved": "Y", 
-  "Title": "Concierge's Window, Paris", 
-  "DateAcquired": "1959-04-22", 
+  "CreditLine": "Purchase", 
   "Date": "1950", 
   "ArtistID": 6272, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "386.1959", 
-  "ArtistBio": "American, 1905\u20132000", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, 1905\u20132000)", 
+  "DateAcquired": "1959-04-22", 
+  "\ufeffTitle": "Concierge's Window, Paris", 
   "ObjectID": "52299"
 }

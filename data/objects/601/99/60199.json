@@ -1,12 +1,11 @@
 {
   "Medium": "Photoetching and lithograph", 
-  "Dimensions": "irreg composition  31 1/2 x 24 1/16\" (80 x 61.2 cm)  sheet  42 3/16 x 29 3/4\" (107.1 x 75.5 cm)", 
+  "Dimensions": "irreg composition  31 1/2 x 24 1/16\" (80 x 61.2 cm)\r\nsheet  42 3/16 x 29 3/4\" (107.1 x 75.5 cm)", 
   "Classification": "Print", 
   "Artist": "Robert Rauschenberg", 
   "URL": "http://www.moma.org/collection/works/60199", 
   "CuratorApproved": "Y", 
-  "Title": "Bazaar", 
-  "DateAcquired": "1985-01-30", 
+  "CreditLine": "Gift of Emily Fisher Landau", 
   "Date": "1984", 
   "ArtistID": 4823, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "22.1985", 
-  "ArtistBio": "American, 1925\u20132008", 
-  "CreditLine": "Gift of Emily Fisher Landau", 
+  "ArtistBio": "(American, 1925\u20132008)", 
+  "DateAcquired": "1985-01-30", 
+  "\ufeffTitle": "Bazaar", 
   "ObjectID": "60199"
 }

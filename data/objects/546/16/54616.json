@@ -5,8 +5,7 @@
   "Artist": "Payne Jennings", 
   "URL": "http://www.moma.org/collection/works/54616", 
   "CuratorApproved": "Y", 
-  "Title": "The Dargle Rock", 
-  "DateAcquired": "1981-12-17", 
+  "CreditLine": "John Parkinson III Fund", 
   "Date": "c. 1880", 
   "ArtistID": 2905, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "516.1981", 
-  "ArtistBio": "British", 
-  "CreditLine": "John Parkinson III Fund", 
+  "ArtistBio": "(British)", 
+  "DateAcquired": "1981-12-17", 
+  "\ufeffTitle": "The Dargle Rock", 
   "ObjectID": "54616"
 }

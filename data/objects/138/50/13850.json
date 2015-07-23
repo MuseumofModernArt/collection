@@ -1,12 +1,11 @@
 {
   "Medium": "Artist's book with plastic clip, adhesive sticker, and letter opener", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Illustrated Book", 
   "Artist": "Group Material", 
   "URL": "http://www.moma.org/collection/works/13850", 
   "CuratorApproved": "Y", 
-  "Title": "Market", 
-  "DateAcquired": "1997-05-28", 
+  "CreditLine": "Purchase", 
   "Date": "1995", 
   "ArtistID": 7682, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "215.1997.a-d", 
-  "ArtistBio": "American, active 1979\u20131996", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, active 1979\u20131996)", 
+  "DateAcquired": "1997-05-28", 
+  "\ufeffTitle": "Market", 
   "ObjectID": "13850"
 }

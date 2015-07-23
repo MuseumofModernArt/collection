@@ -1,12 +1,11 @@
 {
   "Medium": "Four screeprints with one screenprint each on the front and back covers", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Illustrated Book", 
   "Artist": "Sol LeWitt", 
   "URL": "http://www.moma.org/collection/works/12937", 
   "CuratorApproved": "Y", 
-  "Title": "Complex Forms", 
-  "DateAcquired": "1994-01-25", 
+  "CreditLine": "Gift of the artist and Brooke Alexander", 
   "Date": "1990", 
   "ArtistID": 3528, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "180.1994.1-6", 
-  "ArtistBio": "American, 1928\u20132007", 
-  "CreditLine": "Gift of the artist and Brooke Alexander", 
+  "ArtistBio": "(American, 1928\u20132007)", 
+  "DateAcquired": "1994-01-25", 
+  "\ufeffTitle": "Complex Forms", 
   "ObjectID": "12937"
 }

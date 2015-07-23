@@ -1,12 +1,11 @@
 {
   "Medium": "Lithograph", 
-  "Dimensions": "composition  24 1/4 x 17 11/16\" (61.6 x 44.9 cm)  sheet  30 11/16 x 22 5/16\" (77.9 x 56.7 cm)", 
+  "Dimensions": "composition  24 1/4 x 17 11/16\" (61.6 x 44.9 cm)\r\nsheet  30 11/16 x 22 5/16\" (77.9 x 56.7 cm)", 
   "Classification": "Print", 
   "Artist": "Jasper Johns", 
   "URL": "http://www.moma.org/collection/works/63815", 
   "CuratorApproved": "Y", 
-  "Title": "Souvenir", 
-  "DateAcquired": "1970-05-12", 
+  "CreditLine": "Gift of the Celeste and Armand Bartos Foundation", 
   "Date": "1970", 
   "ArtistID": 2923, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "180.1970", 
-  "ArtistBio": "American, born 1930", 
-  "CreditLine": "Gift of the Celeste and Armand Bartos Foundation", 
+  "ArtistBio": "(American, born 1930)", 
+  "DateAcquired": "1970-05-12", 
+  "\ufeffTitle": "Souvenir", 
   "ObjectID": "63815"
 }

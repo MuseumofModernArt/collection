@@ -5,8 +5,7 @@
   "Artist": "Larry Fink", 
   "URL": "http://www.moma.org/collection/works/50126", 
   "CuratorApproved": "Y", 
-  "Title": "Pat Sabatine's Eleventh Birthday Party, April, 1980", 
-  "DateAcquired": "1990-06-07", 
+  "CreditLine": "Gift of the photographer", 
   "Date": "1980", 
   "ArtistID": 1877, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "295.1990", 
-  "ArtistBio": "American, born 1941", 
-  "CreditLine": "Gift of the photographer", 
+  "ArtistBio": "(American, born 1941)", 
+  "DateAcquired": "1990-06-07", 
+  "\ufeffTitle": "Pat Sabatine's Eleventh Birthday Party, April, 1980", 
   "ObjectID": "50126"
 }

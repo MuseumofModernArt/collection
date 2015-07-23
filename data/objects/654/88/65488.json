@@ -1,12 +1,11 @@
 {
   "Medium": "Etching", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "Bryan Hunt", 
   "URL": "http://www.moma.org/collection/works/65488", 
   "CuratorApproved": "Y", 
-  "Title": "Navigator 1", 
-  "DateAcquired": "1989-10-12", 
+  "CreditLine": "Gift of Crown Point Press, in celebration of its 25th anniversary", 
   "Date": "1988", 
   "ArtistID": 2767, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "261.1989", 
-  "ArtistBio": "American, born 1947", 
-  "CreditLine": "Gift of Crown Point Press, in celebration of its 25th anniversary", 
+  "ArtistBio": "(American, born 1947)", 
+  "DateAcquired": "1989-10-12", 
+  "\ufeffTitle": "Navigator 1", 
   "ObjectID": "65488"
 }

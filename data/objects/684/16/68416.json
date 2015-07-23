@@ -1,12 +1,11 @@
 {
   "Medium": "Photolithograph, printed on two sides", 
-  "Dimensions": "composition and sheet: 34 1/16 x 22 1/16\" (86.5 x 56 cm)  ", 
+  "Dimensions": "composition and sheet: 34 1/16 x 22 1/16\" (86.5 x 56 cm)\r\n", 
   "Classification": "Print", 
   "Artist": "Claes Oldenburg", 
   "URL": "http://www.moma.org/collection/works/68416", 
   "CuratorApproved": "Y", 
-  "Title": "Lipstick (Ascending) on Caterpillar Track", 
-  "DateAcquired": "1992-01-22", 
+  "CreditLine": "Gift of Alice and Leslie J. Schreyer", 
   "Date": "(1969)", 
   "ArtistID": 4397, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "397.1991", 
-  "ArtistBio": "American, born Sweden 1929", 
-  "CreditLine": "Gift of Alice and Leslie J. Schreyer", 
+  "ArtistBio": "(American, born Sweden 1929)", 
+  "DateAcquired": "1992-01-22", 
+  "\ufeffTitle": "Lipstick (Ascending) on Caterpillar Track", 
   "ObjectID": "68416"
 }

@@ -5,8 +5,7 @@
   "Artist": "Walter Chappell", 
   "URL": "http://www.moma.org/collection/works/52701", 
   "CuratorApproved": "Y", 
-  "Title": "Number 36", 
-  "DateAcquired": "1959-04-22", 
+  "CreditLine": "Purchase", 
   "Date": "1958", 
   "ArtistID": 1070, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "404.1959", 
-  "ArtistBio": "American, born 1925", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, born 1925)", 
+  "DateAcquired": "1959-04-22", 
+  "\ufeffTitle": "Number 36", 
   "ObjectID": "52701"
 }

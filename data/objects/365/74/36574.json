@@ -5,8 +5,7 @@
   "Artist": "Peter Doig", 
   "URL": "http://www.moma.org/collection/works/36574", 
   "CuratorApproved": "Y", 
-  "Title": "Echo Lake", 
-  "DateAcquired": "1999-10-21", 
+  "CreditLine": "Gift of the Friends of Contemporary Drawing", 
   "Date": "1999", 
   "ArtistID": 8087, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "377.1999", 
-  "ArtistBio": "British, born 1959", 
-  "CreditLine": "Gift of the Friends of Contemporary Drawing", 
+  "ArtistBio": "(British, born 1959)", 
+  "DateAcquired": "1999-10-21", 
+  "\ufeffTitle": "Echo Lake", 
   "ObjectID": "36574"
 }

@@ -1,12 +1,11 @@
 {
   "Medium": "14 photogravure, aquatint, and engravings", 
-  "Dimensions": "irreg. page  11 1/4 x 9 1/16\" (28 x 23 cm)  Prints:  various dimensions.", 
+  "Dimensions": "irreg. page  11 1/4 x 9 1/16\" (28 x 23 cm)\r\nPrints:  various dimensions.", 
   "Classification": "Illustrated Book", 
   "Artist": "Marcel Mathys", 
   "URL": "http://www.moma.org/collection/works/9723", 
   "CuratorApproved": "Y", 
-  "Title": "Fragments", 
-  "DateAcquired": "1988-01-19", 
+  "CreditLine": "Purchase", 
   "Date": "(1987)", 
   "ArtistID": 3831, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "23.1988.1-14", 
-  "ArtistBio": "Swiss, born 1933", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(Swiss, born 1933)", 
+  "DateAcquired": "1988-01-19", 
+  "\ufeffTitle": "Fragments", 
   "ObjectID": "9723"
 }

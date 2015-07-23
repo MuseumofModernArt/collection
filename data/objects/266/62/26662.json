@@ -5,8 +5,7 @@
   "Artist": "Ernst Ludwig Kirchner", 
   "URL": "http://www.moma.org/collection/works/26662", 
   "CuratorApproved": "Y", 
-  "Title": "Cover from Umbra vitae", 
-  "DateAcquired": "1964-10-06", 
+  "CreditLine": "", 
   "Date": "1924", 
   "ArtistID": 3115, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "861.1964.1", 
-  "ArtistBio": "German, 1880\u20131938", 
-  "CreditLine": "NULL", 
+  "ArtistBio": "(German, 1880\u20131938)", 
+  "DateAcquired": "1964-10-06", 
+  "\ufeffTitle": "Cover (Bucheinband) from Umbra vitae", 
   "ObjectID": "26662"
 }

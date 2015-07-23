@@ -1,12 +1,11 @@
 {
   "Medium": "1 drypoint", 
-  "Dimensions": "plate  9 3/16 x 5 13/16\" (23.4 x 14.8 cm)  irreg. page  12 1/2 x 8 7/8\" (31 x 22.5 cm)", 
+  "Dimensions": "plate  9 3/16 x 5 13/16\" (23.4 x 14.8 cm)\r\nirreg. page  12 1/2 x 8 7/8\" (31 x 22.5 cm)", 
   "Classification": "Illustrated Book", 
   "Artist": "Valentine Hugo", 
   "URL": "http://www.moma.org/collection/works/17666", 
   "CuratorApproved": "Y", 
-  "Title": "Trial proof for rejected plate and 2 folios of text from Les Animaux et Leurs Hommes, Les Hommes et Leurs Animaux", 
-  "DateAcquired": "1987-01-15", 
+  "CreditLine": "Gift of Mrs. Alfred H. Barr, Jr.", 
   "Date": "(1937)", 
   "ArtistID": 2758, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "470.1986", 
-  "ArtistBio": "French, 1890\u20131968", 
-  "CreditLine": "Gift of Mrs. Alfred H. Barr, Jr.", 
+  "ArtistBio": "(French, 1890\u20131968)", 
+  "DateAcquired": "1987-01-15", 
+  "\ufeffTitle": "Trial proof for rejected plate and 2 folios of text from Les Animaux et Leurs Hommes, Les Hommes et Leurs Animaux", 
   "ObjectID": "17666"
 }

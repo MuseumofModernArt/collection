@@ -5,8 +5,7 @@
   "Artist": "Adolphe Terris", 
   "URL": "http://www.moma.org/collection/works/45897", 
   "CuratorApproved": "Y", 
-  "Title": "Marseille", 
-  "DateAcquired": "1995-03-09", 
+  "CreditLine": "Samuel J. Wagstaff, Jr. Fund", 
   "Date": "1863", 
   "ArtistID": 7905, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "83.1995", 
-  "ArtistBio": "French, 1820\u20131900", 
-  "CreditLine": "Samuel J. Wagstaff, Jr. Fund", 
+  "ArtistBio": "(French, 1820\u20131900)", 
+  "DateAcquired": "1995-03-09", 
+  "\ufeffTitle": "Marseille", 
   "ObjectID": "45897"
 }

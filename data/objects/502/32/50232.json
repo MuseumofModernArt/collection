@@ -5,8 +5,7 @@
   "Artist": "Andreas Feininger", 
   "URL": "http://www.moma.org/collection/works/50232", 
   "CuratorApproved": "Y", 
-  "Title": "Bat Flight", 
-  "DateAcquired": "1965-04-06", 
+  "CreditLine": "Gift of the photographer", 
   "Date": "1952", 
   "ArtistID": 1831, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "301.1965", 
-  "ArtistBio": "American, born France. 1906\u20131999", 
-  "CreditLine": "Gift of the photographer", 
+  "ArtistBio": "(American, born France. 1906\u20131999)", 
+  "DateAcquired": "1965-04-06", 
+  "\ufeffTitle": "Bat Flight", 
   "ObjectID": "50232"
 }

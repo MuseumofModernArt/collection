@@ -1,12 +1,11 @@
 {
   "Medium": "Lithograph with stencil and paper and gold leaf collage", 
-  "Dimensions": "Composition (irreg.): 79 5/16 x 40 3/4\" (201.5 x 103.5 cm)  Sheet: 80 3/4 x 42 5/16\" (205.1 x 107.4 cm)", 
+  "Dimensions": "Composition (irreg.): 79 5/16 x 40 3/4\" (201.5 x 103.5 cm)\r\nSheet: 80 3/4 x 42 5/16\" (205.1 x 107.4 cm)", 
   "Classification": "Print", 
   "Artist": "Robert Rauschenberg", 
   "URL": "http://www.moma.org/collection/works/64813", 
   "CuratorApproved": "Y", 
-  "Title": "Hotshot", 
-  "DateAcquired": "1983-01-18", 
+  "CreditLine": "Gift of Celeste Bartos", 
   "Date": "1983", 
   "ArtistID": 4823, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "230.1983", 
-  "ArtistBio": "American, 1925\u20132008", 
-  "CreditLine": "Gift of Celeste Bartos", 
+  "ArtistBio": "(American, 1925\u20132008)", 
+  "DateAcquired": "1983-01-18", 
+  "\ufeffTitle": "Hotshot", 
   "ObjectID": "64813"
 }

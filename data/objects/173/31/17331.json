@@ -5,8 +5,7 @@
   "Artist": "Various Artists", 
   "URL": "http://www.moma.org/collection/works/17331", 
   "CuratorApproved": "Y", 
-  "Title": "Parkett no. 55", 
-  "DateAcquired": "1999-11-18", 
+  "CreditLine": "Gift of Parkett", 
   "Date": "1999", 
   "ArtistID": 6104, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "450.1999.2.x1-x2", 
-  "ArtistBio": "Various", 
-  "CreditLine": "Gift of Parkett", 
+  "ArtistBio": "(Various)", 
+  "DateAcquired": "1999-11-18", 
+  "\ufeffTitle": "Parkett no. 55", 
   "ObjectID": "17331"
 }

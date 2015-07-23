@@ -5,8 +5,7 @@
   "Artist": "Max Beckmann", 
   "URL": "http://www.moma.org/collection/works/36770", 
   "CuratorApproved": "Y", 
-  "Title": "The Iceman I", 
-  "DateAcquired": "1963-10-08", 
+  "CreditLine": "Gift of John S. Newberry", 
   "Date": "(1944)", 
   "ArtistID": 429, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "409.1963", 
-  "ArtistBio": "German, 1884\u20131950", 
-  "CreditLine": "Gift of John S. Newberry", 
+  "ArtistBio": "(German, 1884\u20131950)", 
+  "DateAcquired": "1963-10-08", 
+  "\ufeffTitle": "The Iceman (Der Eismann)", 
   "ObjectID": "36770"
 }

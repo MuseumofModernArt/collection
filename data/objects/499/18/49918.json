@@ -5,8 +5,7 @@
   "Artist": "Zeke Berman", 
   "URL": "http://www.moma.org/collection/works/49918", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1987-10-15", 
+  "CreditLine": "Purchase", 
   "Date": "1987", 
   "ArtistID": 506, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "280.1987", 
-  "ArtistBio": "American, born 1951", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, born 1951)", 
+  "DateAcquired": "1987-10-15", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "49918"
 }

@@ -5,8 +5,7 @@
   "Artist": "Naoto Nakagawa", 
   "URL": "http://www.moma.org/collection/works/33244", 
   "CuratorApproved": "Y", 
-  "Title": "Big Table", 
-  "DateAcquired": "1968-02-05", 
+  "CreditLine": "Gift of Mr. Lester Avnet", 
   "Date": "1967", 
   "ArtistID": 4209, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "18.1968", 
-  "ArtistBio": "Japanese, born 1944", 
-  "CreditLine": "Gift of Mr. Lester Avnet", 
+  "ArtistBio": "(Japanese, born 1944)", 
+  "DateAcquired": "1968-02-05", 
+  "\ufeffTitle": "Big Table", 
   "ObjectID": "33244"
 }

@@ -5,8 +5,7 @@
   "Artist": "Georg Baselitz", 
   "URL": "http://www.moma.org/collection/works/67001", 
   "CuratorApproved": "Y", 
-  "Title": "Cellar (Keller)", 
-  "DateAcquired": "1988-10-25", 
+  "CreditLine": "Purchase", 
   "Date": "1987", 
   "ArtistID": 366, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "326.1988", 
-  "ArtistBio": "German, born 1938", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(German, born 1938)", 
+  "DateAcquired": "1988-10-25", 
+  "\ufeffTitle": "Cellar (Keller)", 
   "ObjectID": "67001"
 }

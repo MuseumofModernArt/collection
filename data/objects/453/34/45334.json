@@ -5,8 +5,7 @@
   "Artist": "Nancy Hellebrand", 
   "URL": "http://www.moma.org/collection/works/45334", 
   "CuratorApproved": "Y", 
-  "Title": "Mrs. O'Neill", 
-  "DateAcquired": "1975-02-12", 
+  "CreditLine": "Purchase", 
   "Date": "1974", 
   "ArtistID": 2587, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "63.1975", 
-  "ArtistBio": "American, born 1944", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, born 1944)", 
+  "DateAcquired": "1975-02-12", 
+  "\ufeffTitle": "Mrs. O'Neill", 
   "ObjectID": "45334"
 }

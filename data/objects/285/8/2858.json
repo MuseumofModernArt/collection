@@ -5,8 +5,7 @@
   "Artist": "Howatt Archery", 
   "URL": "http://www.moma.org/collection/works/2858", 
   "CuratorApproved": "Y", 
-  "Title": "ML-14 Mountaineer Longbow", 
-  "DateAcquired": "1998-04-22", 
+  "CreditLine": "Gift of the manufacturer", 
   "Date": "1994", 
   "ArtistID": 8016, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "229.1998", 
-  "ArtistBio": "Nationality unknown", 
-  "CreditLine": "Gift of the manufacturer", 
+  "ArtistBio": "(Nationality unknown)", 
+  "DateAcquired": "1998-04-22", 
+  "\ufeffTitle": "ML-14 Mountaineer Longbow", 
   "ObjectID": "2858"
 }

@@ -5,8 +5,7 @@
   "Artist": "Juliusz Studnicki", 
   "URL": "http://www.moma.org/collection/works/35008", 
   "CuratorApproved": "Y", 
-  "Title": "Chess", 
-  "DateAcquired": "1978-04-04", 
+  "CreditLine": "The Joan and Lester Avnet Collection", 
   "Date": "(1963)", 
   "ArtistID": 5709, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "169.1978", 
-  "ArtistBio": "Polish, 1906\u20131978", 
-  "CreditLine": "The Joan and Lester Avnet Collection", 
+  "ArtistBio": "(Polish, 1906\u20131978)", 
+  "DateAcquired": "1978-04-04", 
+  "\ufeffTitle": "Chess", 
   "ObjectID": "35008"
 }

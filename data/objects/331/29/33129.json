@@ -5,8 +5,7 @@
   "Artist": "Raymond Pettibon", 
   "URL": "http://www.moma.org/collection/works/33129", 
   "CuratorApproved": "Y", 
-  "Title": "No Title (I Hope Mother...)", 
-  "DateAcquired": "1999-10-21", 
+  "CreditLine": "Gift of Peter Norton", 
   "Date": "1982", 
   "ArtistID": 7500, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "12.2000", 
-  "ArtistBio": "American, born 1957", 
-  "CreditLine": "Gift of Peter Norton", 
+  "ArtistBio": "(American, born 1957)", 
+  "DateAcquired": "1999-10-21", 
+  "\ufeffTitle": "No Title (I Hope Mother...)", 
   "ObjectID": "33129"
 }

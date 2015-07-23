@@ -5,8 +5,7 @@
   "Artist": "Ben Shahn", 
   "URL": "http://www.moma.org/collection/works/33365", 
   "CuratorApproved": "Y", 
-  "Title": "Handball", 
-  "DateAcquired": "1940-04-05", 
+  "CreditLine": "Abby Aldrich Rockefeller Fund", 
   "Date": "(1939)", 
   "ArtistID": 5366, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "28.1940", 
-  "ArtistBio": "American, born Lithuania. 1898\u20131969", 
-  "CreditLine": "Abby Aldrich Rockefeller Fund", 
+  "ArtistBio": "(American, born Lithuania. 1898\u20131969)", 
+  "DateAcquired": "1940-04-05", 
+  "\ufeffTitle": "Handball", 
   "ObjectID": "33365"
 }

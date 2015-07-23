@@ -5,8 +5,7 @@
   "Artist": "Associated Press", 
   "URL": "http://www.moma.org/collection/works/58539", 
   "CuratorApproved": "Y", 
-  "Title": "A Pointed Question", 
-  "DateAcquired": "2001-06-14", 
+  "CreditLine": "The New York Times Collection", 
   "Date": "January 17, 1967", 
   "ArtistID": 8501, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "1946.2001", 
-  "ArtistBio": "NULL", 
-  "CreditLine": "The New York Times Collection", 
+  "ArtistBio": "", 
+  "DateAcquired": "2001-06-14", 
+  "\ufeffTitle": "\"A Pointed Question\"", 
   "ObjectID": "58539"
 }

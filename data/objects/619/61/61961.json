@@ -5,8 +5,7 @@
   "Artist": "Henri Matisse", 
   "URL": "http://www.moma.org/collection/works/61961", 
   "CuratorApproved": "Y", 
-  "Title": "Mlle Landsberg (Grande Planche)", 
-  "DateAcquired": "1956-03-19", 
+  "CreditLine": "Gift of Mr. and Mrs. E. Powis Jones", 
   "Date": "(1914)", 
   "ArtistID": 3832, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "111.1956", 
-  "ArtistBio": "French, 1869\u20131954", 
-  "CreditLine": "Gift of Mr. and Mrs. E. Powis Jones", 
+  "ArtistBio": "(French, 1869\u20131954)", 
+  "DateAcquired": "1956-03-19", 
+  "\ufeffTitle": "Mlle Landsberg (Grande Planche)", 
   "ObjectID": "61961"
 }

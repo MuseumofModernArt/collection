@@ -1,12 +1,11 @@
 {
   "Medium": "Lithograph", 
-  "Dimensions": "composition  26 7/8 x 18 1/8\" (68.3 x 46 cm)  sheet  27 5/8 x 19 13/16\" (70.2 x 50.3 cm)", 
+  "Dimensions": "composition  26 7/8 x 18 1/8\" (68.3 x 46 cm)\r\nsheet  27 5/8 x 19 13/16\" (70.2 x 50.3 cm)", 
   "Classification": "Print", 
-  "Artist": "Robert Rauschenberg", 
+  "Artist": "Robert Rauschenberg, Andrei Voznesensky", 
   "URL": "http://www.moma.org/collection/works/63293", 
   "CuratorApproved": "Y", 
-  "Title": "Picture Gallery", 
-  "DateAcquired": "1979-05-01", 
+  "CreditLine": "Gift of Celeste Bartos", 
   "Date": "1978", 
   "ArtistID": 4823, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "160.1979", 
-  "ArtistBio": "American, 1925\u20132008", 
-  "CreditLine": "Gift of Celeste Bartos", 
+  "ArtistBio": "(American, 1925\u20132008) (Russian, born 1933)", 
+  "DateAcquired": "1979-05-01", 
+  "\ufeffTitle": "Picture Gallery", 
   "ObjectID": "63293"
 }

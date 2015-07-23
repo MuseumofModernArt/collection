@@ -1,12 +1,11 @@
 {
   "Medium": "Matte albumen silver print", 
-  "Dimensions": "6 13/16 x 9\" (17.3 x 22.9 cm)  ", 
+  "Dimensions": "6 13/16 x 9\" (17.3 x 22.9 cm)\r\n", 
   "Classification": "Photograph", 
   "Artist": "Eug\u00e8ne Atget", 
   "URL": "http://www.moma.org/collection/works/39408", 
   "CuratorApproved": "Y", 
-  "Title": "Coin, boulevard de la Chapelle et rue Fleury 76, 18e", 
-  "DateAcquired": "1968-03-06", 
+  "CreditLine": "Abbott-Levy Collection. Partial gift of Shirley C. Burden", 
   "Date": "June 1921", 
   "ArtistID": 229, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "1.1969.1475", 
-  "ArtistBio": "French, 1857\u20131927", 
-  "CreditLine": "Abbott-Levy Collection. Partial gift of Shirley C. Burden", 
+  "ArtistBio": "(French, 1857\u20131927)", 
+  "DateAcquired": "1968-03-06", 
+  "\ufeffTitle": "Coin, boulevard de la Chapelle et rue Fleury 76, 18e", 
   "ObjectID": "39408"
 }

@@ -5,8 +5,7 @@
   "Artist": "Jos\u00e9 Clemente Orozco", 
   "URL": "http://www.moma.org/collection/works/35173", 
   "CuratorApproved": "Y", 
-  "Title": "Feet (no. 2)", 
-  "DateAcquired": "1940-04-05", 
+  "CreditLine": "Given anonymously", 
   "Date": "(1923)", 
   "ArtistID": 4430, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "191.1940", 
-  "ArtistBio": "Mexican, 1883\u20131949", 
-  "CreditLine": "Given anonymously", 
+  "ArtistBio": "(Mexican, 1883\u20131949)", 
+  "DateAcquired": "1940-04-05", 
+  "\ufeffTitle": "Feet (no. 2)", 
   "ObjectID": "35173"
 }

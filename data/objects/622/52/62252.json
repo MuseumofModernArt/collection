@@ -5,8 +5,7 @@
   "Artist": "Louise Bourgeois", 
   "URL": "http://www.moma.org/collection/works/62252", 
   "CuratorApproved": "Y", 
-  "Title": "Easton, state I of III", 
-  "DateAcquired": "1990-05-02", 
+  "CreditLine": "Gift of the artist", 
   "Date": "c. 1941", 
   "ArtistID": 710, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "123.1990.1", 
-  "ArtistBio": "American, born France. 1911\u20132010", 
-  "CreditLine": "Gift of the artist", 
+  "ArtistBio": "(American, born France. 1911\u20132010)", 
+  "DateAcquired": "1990-05-02", 
+  "\ufeffTitle": "Easton", 
   "ObjectID": "62252"
 }

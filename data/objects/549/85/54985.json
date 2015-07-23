@@ -5,8 +5,7 @@
   "Artist": "Lee Friedlander", 
   "URL": "http://www.moma.org/collection/works/54985", 
   "CuratorApproved": "Y", 
-  "Title": "California", 
-  "DateAcquired": "1998-10-15", 
+  "CreditLine": "Robert and Joyce Menschel Fund", 
   "Date": "1997", 
   "ArtistID": 2002, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "547.1998", 
-  "ArtistBio": "American, born 1934", 
-  "CreditLine": "Robert and Joyce Menschel Fund", 
+  "ArtistBio": "(American, born 1934)", 
+  "DateAcquired": "1998-10-15", 
+  "\ufeffTitle": "California", 
   "ObjectID": "54985"
 }

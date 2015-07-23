@@ -5,8 +5,7 @@
   "Artist": "Imogen Cunningham", 
   "URL": "http://www.moma.org/collection/works/53557", 
   "CuratorApproved": "Y", 
-  "Title": "The Unmade Bed", 
-  "DateAcquired": "1960-11-30", 
+  "CreditLine": "Purchase", 
   "Date": "1958", 
   "ArtistID": 1332, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "452.1960", 
-  "ArtistBio": "American, 1883\u20131976", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, 1883\u20131976)", 
+  "DateAcquired": "1960-11-30", 
+  "\ufeffTitle": "The Unmade Bed", 
   "ObjectID": "53557"
 }

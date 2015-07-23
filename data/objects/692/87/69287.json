@@ -5,8 +5,7 @@
   "Artist": "Gordon House", 
   "URL": "http://www.moma.org/collection/works/69287", 
   "CuratorApproved": "Y", 
-  "Title": "Mitred Matrix", 
-  "DateAcquired": "1971-05-18", 
+  "CreditLine": "Reiss-Cohen Fund", 
   "Date": "1970", 
   "ArtistID": 2737, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "447.1971", 
-  "ArtistBio": "British", 
-  "CreditLine": "Reiss-Cohen Fund", 
+  "ArtistBio": "(British)", 
+  "DateAcquired": "1971-05-18", 
+  "\ufeffTitle": "Mitred Matrix", 
   "ObjectID": "69287"
 }

@@ -5,8 +5,7 @@
   "Artist": "Rodolfo Bonetto", 
   "URL": "http://www.moma.org/collection/works/3736", 
   "CuratorApproved": "Y", 
-  "Title": "Boomerang Lounge Chair", 
-  "DateAcquired": "1972-12-05", 
+  "CreditLine": "Gift of the manufacturer", 
   "Date": "1968", 
   "ArtistID": 659, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "394.1972", 
-  "ArtistBio": "Italian, 1929\u20131991", 
-  "CreditLine": "Gift of the manufacturer", 
+  "ArtistBio": "(Italian, 1929\u20131991)", 
+  "DateAcquired": "1972-12-05", 
+  "\ufeffTitle": "Boomerang Lounge Chair", 
   "ObjectID": "3736"
 }

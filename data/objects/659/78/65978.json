@@ -1,12 +1,11 @@
 {
   "Medium": "Portfolio of four screenprints", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "William T. Williams", 
   "URL": "http://www.moma.org/collection/works/65978", 
   "CuratorApproved": "Y", 
-  "Title": "UNTITLED", 
-  "DateAcquired": "1997-05-28", 
+  "CreditLine": "Gift of Joshua Mack in memory of Judy Goldberg", 
   "Date": "1970", 
   "ArtistID": 6382, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "282.1997.1-4", 
-  "ArtistBio": "American, born 1942", 
-  "CreditLine": "Gift of Joshua Mack in memory of Judy Goldberg", 
+  "ArtistBio": "(American, born 1942)", 
+  "DateAcquired": "1997-05-28", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "65978"
 }

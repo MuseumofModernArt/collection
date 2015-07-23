@@ -5,8 +5,7 @@
   "Artist": "Mark Tobey", 
   "URL": "http://www.moma.org/collection/works/37409", 
   "CuratorApproved": "Y", 
-  "Title": "Microcosms of Time", 
-  "DateAcquired": "1964-10-06", 
+  "CreditLine": "Gift of William A. Koshland", 
   "Date": "1961", 
   "ArtistID": 5889, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "580.1964", 
-  "ArtistBio": "American, 1890\u20131976", 
-  "CreditLine": "Gift of William A. Koshland", 
+  "ArtistBio": "(American, 1890\u20131976)", 
+  "DateAcquired": "1964-10-06", 
+  "\ufeffTitle": "Microcosms of Time", 
   "ObjectID": "37409"
 }

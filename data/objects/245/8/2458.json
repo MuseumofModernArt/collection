@@ -5,8 +5,7 @@
   "Artist": "Josef Albers", 
   "URL": "http://www.moma.org/collection/works/2458", 
   "CuratorApproved": "Y", 
-  "Title": "Fruit Bowl", 
-  "DateAcquired": "1958-12-04", 
+  "CreditLine": "Gift of Walter Gropius", 
   "Date": "1924", 
   "ArtistID": 97, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "190.1958", 
-  "ArtistBio": "American, born Germany. 1888\u20131976", 
-  "CreditLine": "Gift of Walter Gropius", 
+  "ArtistBio": "(American, born Germany. 1888\u20131976)", 
+  "DateAcquired": "1958-12-04", 
+  "\ufeffTitle": "Fruit Bowl", 
   "ObjectID": "2458"
 }

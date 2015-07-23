@@ -5,8 +5,7 @@
   "Artist": "Hector Guimard", 
   "URL": "http://www.moma.org/collection/works/3288", 
   "CuratorApproved": "Y", 
-  "Title": "Door Handle", 
-  "DateAcquired": "1949-05-26", 
+  "CreditLine": "Gift of Madame Hector Guimard", 
   "Date": "c. 1909-12", 
   "ArtistID": 2407, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "321.1949", 
-  "ArtistBio": "French, 1867\u20131942", 
-  "CreditLine": "Gift of Madame Hector Guimard", 
+  "ArtistBio": "(French, 1867\u20131942)", 
+  "DateAcquired": "1949-05-26", 
+  "\ufeffTitle": "Door Handle", 
   "ObjectID": "3288"
 }

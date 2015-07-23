@@ -5,8 +5,7 @@
   "Artist": "Isamu Noguchi", 
   "URL": "http://www.moma.org/collection/works/2139", 
   "CuratorApproved": "Y", 
-  "Title": "Table", 
-  "DateAcquired": "1958-10-29", 
+  "CreditLine": "The Philip L. Goodwin Collection (gift of James L. Goodwin, Henry Sage Goodwin, and Richmond L. Brown)", 
   "Date": "c. 1941", 
   "ArtistID": 4324, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "107.1958", 
-  "ArtistBio": "American, 1904\u20131988", 
-  "CreditLine": "The Philip L. Goodwin Collection (gift of James L. Goodwin, Henry Sage Goodwin, and Richmond L. Brown)", 
+  "ArtistBio": "(American, 1904\u20131988)", 
+  "DateAcquired": "1958-10-29", 
+  "\ufeffTitle": "Table", 
   "ObjectID": "2139"
 }

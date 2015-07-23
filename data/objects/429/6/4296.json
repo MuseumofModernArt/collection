@@ -5,8 +5,7 @@
   "Artist": "Intel Corporation, Santa Clara, CA", 
   "URL": "http://www.moma.org/collection/works/4296", 
   "CuratorApproved": "Y", 
-  "Title": "Diagram for Intel486 (TM) Microprocessor Chip", 
-  "DateAcquired": "1990-10-24", 
+  "CreditLine": "Gift of the manufacturer", 
   "Date": "1989", 
   "Keywords": [
     "online art collection", 
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "520.1990.1", 
-  "ArtistBio": "American,established 1968", 
-  "CreditLine": "Gift of the manufacturer", 
+  "ArtistBio": "(American,established 1968)", 
+  "DateAcquired": "1990-10-24", 
+  "\ufeffTitle": "Diagram for Intel486 (TM) Microprocessor Chip", 
   "ObjectID": "4296"
 }

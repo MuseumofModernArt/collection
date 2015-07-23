@@ -5,8 +5,7 @@
   "Artist": "Frank Hazenplug", 
   "URL": "http://www.moma.org/collection/works/5628", 
   "CuratorApproved": "Y", 
-  "Title": "The Chap-Book", 
-  "DateAcquired": "1968-03-07", 
+  "CreditLine": "Acquired by exchange", 
   "Date": "1899", 
   "ArtistID": 2560, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "192.1968", 
-  "ArtistBio": "American, 1874\u20131931", 
-  "CreditLine": "Acquired by exchange", 
+  "ArtistBio": "(American, 1874\u20131931)", 
+  "DateAcquired": "1968-03-07", 
+  "\ufeffTitle": "The Chap-Book", 
   "ObjectID": "5628"
 }

@@ -5,8 +5,7 @@
   "Artist": "Eug\u00e8ne Atget", 
   "URL": "http://www.moma.org/collection/works/46375", 
   "CuratorApproved": "Y", 
-  "Title": "Taxidermist Shop", 
-  "DateAcquired": "1950-04-24", 
+  "CreditLine": "Given anonymously", 
   "Date": "1926-27", 
   "ArtistID": 229, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "108.1950", 
-  "ArtistBio": "French, 1857\u20131927", 
-  "CreditLine": "Given anonymously", 
+  "ArtistBio": "(French, 1857\u20131927)", 
+  "DateAcquired": "1950-04-24", 
+  "\ufeffTitle": "Taxidermist Shop", 
   "ObjectID": "46375"
 }

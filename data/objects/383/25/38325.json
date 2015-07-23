@@ -5,8 +5,7 @@
   "Artist": "Everett Shinn", 
   "URL": "http://www.moma.org/collection/works/38325", 
   "CuratorApproved": "Y", 
-  "Title": "Pont Neuf", 
-  "DateAcquired": "1979-10-04", 
+  "CreditLine": "Gift of Mrs. Iola S. Haverstick", 
   "Date": "1900", 
   "ArtistID": 5401, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "945.1979", 
-  "ArtistBio": "American, 1873\u20131953", 
-  "CreditLine": "Gift of Mrs. Iola S. Haverstick", 
+  "ArtistBio": "(American, 1873\u20131953)", 
+  "DateAcquired": "1979-10-04", 
+  "\ufeffTitle": "Pont Neuf", 
   "ObjectID": "38325"
 }

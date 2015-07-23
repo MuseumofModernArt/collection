@@ -5,8 +5,7 @@
   "Artist": "Susan Rothenberg", 
   "URL": "http://www.moma.org/collection/works/64041", 
   "CuratorApproved": "Y", 
-  "Title": "Alius", 
-  "DateAcquired": "1988-05-04", 
+  "CreditLine": "Gift of Emily Fisher Landau", 
   "Date": "1987-88", 
   "ArtistID": 5044, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "188.1988", 
-  "ArtistBio": "American, born 1945", 
-  "CreditLine": "Gift of Emily Fisher Landau", 
+  "ArtistBio": "(American, born 1945)", 
+  "DateAcquired": "1988-05-04", 
+  "\ufeffTitle": "Alius", 
   "ObjectID": "64041"
 }

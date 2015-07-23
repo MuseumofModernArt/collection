@@ -5,8 +5,7 @@
   "Artist": "Frank Lloyd Wright", 
   "URL": "http://www.moma.org/collection/works/711", 
   "CuratorApproved": "Y", 
-  "Title": "Mr. Frederick C. Bogk Residence   Milwaukee, Wisconsin   Carpet ornament", 
-  "DateAcquired": "1981-12-10", 
+  "CreditLine": "Marshall Cogan Purchase Fund", 
   "Date": "1916", 
   "ArtistID": 6459, 
   "Keywords": [
@@ -22,7 +21,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "583.1981", 
-  "ArtistBio": "American, 1867\u20131959", 
-  "CreditLine": "Marshall Cogan Purchase Fund", 
+  "ArtistBio": "(American, 1867\u20131959)", 
+  "DateAcquired": "1981-12-10", 
+  "\ufeffTitle": "Mr. Frederick C. Bogk Residence , Milwaukee, Wisconsin , Carpet ornament", 
   "ObjectID": "711"
 }

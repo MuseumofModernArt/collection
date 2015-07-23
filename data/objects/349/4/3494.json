@@ -5,8 +5,7 @@
   "Artist": "Unknown Designer", 
   "URL": "http://www.moma.org/collection/works/3494", 
   "CuratorApproved": "Y", 
-  "Title": "Welder's Mask", 
-  "DateAcquired": "1988-11-22", 
+  "CreditLine": "Department Purchase Fund", 
   "Date": "Before 1930", 
   "ArtistID": 6011, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "408.1988", 
-  "ArtistBio": "American", 
-  "CreditLine": "Department Purchase Fund", 
+  "ArtistBio": "(American)", 
+  "DateAcquired": "1988-11-22", 
+  "\ufeffTitle": "Welder's Mask", 
   "ObjectID": "3494"
 }

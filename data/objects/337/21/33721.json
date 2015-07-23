@@ -5,8 +5,7 @@
   "Artist": "Francisco Toledo", 
   "URL": "http://www.moma.org/collection/works/33721", 
   "CuratorApproved": "Y", 
-  "Title": "Letter to Antonio Souza", 
-  "DateAcquired": "1970-03-05", 
+  "CreditLine": "David Rockefeller Latin American Fund", 
   "Date": "(1960)", 
   "ArtistID": 5892, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "82.1970", 
-  "ArtistBio": "Mexican, born 1940", 
-  "CreditLine": "David Rockefeller Latin American Fund", 
+  "ArtistBio": "(Mexican, born 1940)", 
+  "DateAcquired": "1970-03-05", 
+  "\ufeffTitle": "Letter to Antonio Souza", 
   "ObjectID": "33721"
 }

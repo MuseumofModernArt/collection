@@ -5,8 +5,7 @@
   "Artist": "Jacques Villon", 
   "URL": "http://www.moma.org/collection/works/68680", 
   "CuratorApproved": "Y", 
-  "Title": "Birds in Flight", 
-  "DateAcquired": "1958-12-19", 
+  "CreditLine": "Gift of G\u00e9rald Cramer", 
   "Date": "(1958)", 
   "ArtistID": 6165, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "414.1958", 
-  "ArtistBio": "French, 1875\u20131963", 
-  "CreditLine": "Gift of G\u00e9rald Cramer", 
+  "ArtistBio": "(French, 1875\u20131963)", 
+  "DateAcquired": "1958-12-19", 
+  "\ufeffTitle": "Birds in Flight", 
   "ObjectID": "68680"
 }

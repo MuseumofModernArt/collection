@@ -5,8 +5,7 @@
   "Artist": "Hector Coronado", 
   "URL": "http://www.moma.org/collection/works/4148", 
   "CuratorApproved": "Y", 
-  "Title": "K Armchair with Writing Wing", 
-  "DateAcquired": "1980-10-30", 
+  "CreditLine": "Gift of the designer", 
   "Date": "1978", 
   "Keywords": [
     "online art collection", 
@@ -16,7 +15,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "632.1980.a-b", 
-  "ArtistBio": "Mexican, born 1938", 
-  "CreditLine": "Gift of the designer", 
+  "ArtistBio": "(Mexican, born 1938)", 
+  "DateAcquired": "1980-10-30", 
+  "\ufeffTitle": "K Armchair with Writing Wing", 
   "ObjectID": "4148"
 }

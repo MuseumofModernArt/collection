@@ -5,8 +5,7 @@
   "Artist": "Jacob Lawrence", 
   "URL": "http://www.moma.org/collection/works/38728", 
   "CuratorApproved": "Y", 
-  "Title": "Street Shadows", 
-  "DateAcquired": "2000-12-12", 
+  "CreditLine": "Gift of Ellen Kern and Gail Garlick in memory of their parents, Jewel and Lewis Garlick", 
   "Date": "1959", 
   "ArtistID": 3418, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "1631.2000", 
-  "ArtistBio": "American, 1917\u20132000", 
-  "CreditLine": "Gift of Ellen Kern and Gail Garlick in memory of their parents, Jewel and Lewis Garlick", 
+  "ArtistBio": "(American, 1917\u20132000)", 
+  "DateAcquired": "2000-12-12", 
+  "\ufeffTitle": "Street Shadows", 
   "ObjectID": "38728"
 }

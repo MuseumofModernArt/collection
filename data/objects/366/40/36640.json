@@ -5,8 +5,7 @@
   "Artist": "Tony Urquhart", 
   "URL": "http://www.moma.org/collection/works/36640", 
   "CuratorApproved": "Y", 
-  "Title": "Forest Floor, II", 
-  "DateAcquired": "1961-12-13", 
+  "CreditLine": "Gift of Emilio del Junco", 
   "Date": "1961", 
   "ArtistID": 6040, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "393.1961", 
-  "ArtistBio": "Canadian, born 1934", 
-  "CreditLine": "Gift of Emilio del Junco", 
+  "ArtistBio": "(Canadian, born 1934)", 
+  "DateAcquired": "1961-12-13", 
+  "\ufeffTitle": "Forest Floor, II", 
   "ObjectID": "36640"
 }

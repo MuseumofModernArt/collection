@@ -5,8 +5,7 @@
   "Artist": "Julia Fish", 
   "URL": "http://www.moma.org/collection/works/36595", 
   "CuratorApproved": "Y", 
-  "Title": "Garden #9 (revised)", 
-  "DateAcquired": "1999-10-21", 
+  "CreditLine": "Gift of Sarah-Ann and Werner H. Kramarsky", 
   "Date": "1993/95", 
   "ArtistID": 8091, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "379.1999", 
-  "ArtistBio": "American, born 1950", 
-  "CreditLine": "Gift of Sarah-Ann and Werner H. Kramarsky", 
+  "ArtistBio": "(American, born 1950)", 
+  "DateAcquired": "1999-10-21", 
+  "\ufeffTitle": "Garden #9 (revised)", 
   "ObjectID": "36595"
 }

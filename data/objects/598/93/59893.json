@@ -1,12 +1,11 @@
 {
   "Medium": "Monotype", 
-  "Dimensions": "irreg composition  29 1/8 x 14 3/8\" (74 x 36.5 cm)  sheet  29 15/16 x 22 1/16\" (76 x 56.1 cm)", 
+  "Dimensions": "irreg composition  29 1/8 x 14 3/8\" (74 x 36.5 cm)\r\nsheet  29 15/16 x 22 1/16\" (76 x 56.1 cm)", 
   "Classification": "Print", 
   "Artist": "Margia Kramer", 
   "URL": "http://www.moma.org/collection/works/59893", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1975-01-07", 
+  "CreditLine": "", 
   "Date": "1974", 
   "ArtistID": 3239, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "12.1975", 
-  "ArtistBio": "American, born 1936", 
-  "CreditLine": "NULL", 
+  "ArtistBio": "(American, born 1936)", 
+  "DateAcquired": "1975-01-07", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "59893"
 }

@@ -5,8 +5,7 @@
   "Artist": "Alvar Aalto", 
   "URL": "http://www.moma.org/collection/works/2556", 
   "CuratorApproved": "Y", 
-  "Title": "Stool (model X600)", 
-  "DateAcquired": "1958-12-04", 
+  "CreditLine": "Phyllis B. Lambert Fund", 
   "Date": "1954", 
   "ArtistID": 34, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "147.1958", 
-  "ArtistBio": "Finnish, 1898\u20131976", 
-  "CreditLine": "Phyllis B. Lambert Fund", 
+  "ArtistBio": "(Finnish, 1898\u20131976)", 
+  "DateAcquired": "1958-12-04", 
+  "\ufeffTitle": "Stool (model X600)", 
   "ObjectID": "2556"
 }

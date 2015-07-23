@@ -5,8 +5,7 @@
   "Artist": "Charles Sheeler", 
   "URL": "http://www.moma.org/collection/works/58377", 
   "CuratorApproved": "Y", 
-  "Title": "United Nations Secretariat", 
-  "DateAcquired": "1968-05-01", 
+  "CreditLine": "Gift of David H. McAlpin", 
   "Date": "1951", 
   "ArtistID": 5383, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "1794.1968", 
-  "ArtistBio": "American, 1883\u20131965", 
-  "CreditLine": "Gift of David H. McAlpin", 
+  "ArtistBio": "(American, 1883\u20131965)", 
+  "DateAcquired": "1968-05-01", 
+  "\ufeffTitle": "United Nations Secretariat", 
   "ObjectID": "58377"
 }

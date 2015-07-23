@@ -5,8 +5,7 @@
   "Artist": "The New York Times", 
   "URL": "http://www.moma.org/collection/works/58654", 
   "CuratorApproved": "Y", 
-  "Title": "Press Photographers at Work", 
-  "DateAcquired": "2001-06-14", 
+  "CreditLine": "The New York Times Collection", 
   "Date": "1949", 
   "Keywords": [
     "online art collection", 
@@ -16,7 +15,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "2061.2001", 
-  "ArtistBio": "American, founded 1851", 
-  "CreditLine": "The New York Times Collection", 
+  "ArtistBio": "(American, founded 1851)", 
+  "DateAcquired": "2001-06-14", 
+  "\ufeffTitle": "Press Photographers at Work", 
   "ObjectID": "58654"
 }

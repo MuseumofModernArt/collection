@@ -5,8 +5,7 @@
   "Artist": "Jacques Villon", 
   "URL": "http://www.moma.org/collection/works/65495", 
   "CuratorApproved": "Y", 
-  "Title": "The Game of Solitaire", 
-  "DateAcquired": "1951-05-24", 
+  "CreditLine": "Abby Aldrich Rockefeller Fund", 
   "Date": "(1903-1904)", 
   "ArtistID": 6165, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "262.1951", 
-  "ArtistBio": "French, 1875\u20131963", 
-  "CreditLine": "Abby Aldrich Rockefeller Fund", 
+  "ArtistBio": "(French, 1875\u20131963)", 
+  "DateAcquired": "1951-05-24", 
+  "\ufeffTitle": "The Game of Solitaire", 
   "ObjectID": "65495"
 }

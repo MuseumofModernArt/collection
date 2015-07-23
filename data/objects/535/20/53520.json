@@ -5,8 +5,7 @@
   "Artist": "Paul Caponigro", 
   "URL": "http://www.moma.org/collection/works/53520", 
   "CuratorApproved": "Y", 
-  "Title": "Ardara Dolmen, County Donegal, Ireland", 
-  "DateAcquired": "1973-11-13", 
+  "CreditLine": "Purchase", 
   "Date": "1967", 
   "ArtistID": 961, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "449.1973", 
-  "ArtistBio": "American, born 1932", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, born 1932)", 
+  "DateAcquired": "1973-11-13", 
+  "\ufeffTitle": "Ardara Dolmen, County Donegal, Ireland", 
   "ObjectID": "53520"
 }

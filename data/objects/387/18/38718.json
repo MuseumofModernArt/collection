@@ -5,8 +5,7 @@
   "Artist": "Elizabeth Peyton", 
   "URL": "http://www.moma.org/collection/works/38718", 
   "CuratorApproved": "Y", 
-  "Title": "Spencer", 
-  "DateAcquired": "2000-12-12", 
+  "CreditLine": "Fractional and promised gift of David Teiger", 
   "Date": "(1999)", 
   "ArtistID": 8042, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "1621.2000", 
-  "ArtistBio": "American, born 1965", 
-  "CreditLine": "Fractional and promised gift of David Teiger", 
+  "ArtistBio": "(American, born 1965)", 
+  "DateAcquired": "2000-12-12", 
+  "\ufeffTitle": "Spencer", 
   "ObjectID": "38718"
 }

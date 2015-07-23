@@ -5,8 +5,7 @@
   "Artist": "Seitaro Kuroda", 
   "URL": "http://www.moma.org/collection/works/8148", 
   "CuratorApproved": "Y", 
-  "Title": "Seibu", 
-  "DateAcquired": "1983-11-30", 
+  "CreditLine": "Gift of the designer", 
   "Date": "1981", 
   "ArtistID": 3307, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "790.1983", 
-  "ArtistBio": "Japanese, born 1939", 
-  "CreditLine": "Gift of the designer", 
+  "ArtistBio": "(Japanese, born 1939)", 
+  "DateAcquired": "1983-11-30", 
+  "\ufeffTitle": "Seibu", 
   "ObjectID": "8148"
 }

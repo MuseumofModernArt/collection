@@ -5,8 +5,7 @@
   "Artist": "Stephen Shore", 
   "URL": "http://www.moma.org/collection/works/46568", 
   "CuratorApproved": "Y", 
-  "Title": "Michael and Sandy Marsh, Amarillo, Texas", 
-  "DateAcquired": "1977-03-10", 
+  "CreditLine": "Gift of David H. McAlpin Fund", 
   "Date": "1974", 
   "ArtistID": 5409, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "118.1977", 
-  "ArtistBio": "American, born 1947", 
-  "CreditLine": "Gift of David H. McAlpin Fund", 
+  "ArtistBio": "(American, born 1947)", 
+  "DateAcquired": "1977-03-10", 
+  "\ufeffTitle": "Michael and Sandy Marsh, Amarillo, Texas", 
   "ObjectID": "46568"
 }

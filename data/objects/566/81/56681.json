@@ -5,8 +5,7 @@
   "Artist": "Robert Adams", 
   "URL": "http://www.moma.org/collection/works/56681", 
   "CuratorApproved": "Y", 
-  "Title": "Near Pendelton, Oregon", 
-  "DateAcquired": "1996-12-10", 
+  "CreditLine": "Partial gift of Shirley C. Burden, by exchange", 
   "Date": "1978", 
   "ArtistID": 66, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "839.1996", 
-  "ArtistBio": "American, born 1937", 
-  "CreditLine": "Partial gift of Shirley C. Burden, by exchange", 
+  "ArtistBio": "(American, born 1937)", 
+  "DateAcquired": "1996-12-10", 
+  "\ufeffTitle": "Near Pendelton, Oregon", 
   "ObjectID": "56681"
 }

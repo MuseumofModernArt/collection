@@ -5,8 +5,7 @@
   "Artist": "Wifredo Lam", 
   "URL": "http://www.moma.org/collection/works/34666", 
   "CuratorApproved": "Y", 
-  "Title": "The Jungle", 
-  "DateAcquired": "1945-04-26", 
+  "CreditLine": "Inter-American Fund", 
   "Date": "1943", 
   "ArtistID": 3349, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "140.1945", 
-  "ArtistBio": "Cuban, 1902\u20131982", 
-  "CreditLine": "Inter-American Fund", 
+  "ArtistBio": "(Cuban, 1902\u20131982)", 
+  "DateAcquired": "1945-04-26", 
+  "\ufeffTitle": "The Jungle", 
   "ObjectID": "34666"
 }

@@ -5,8 +5,7 @@
   "Artist": "Ilya Bolotowsky", 
   "URL": "http://www.moma.org/collection/works/35473", 
   "CuratorApproved": "Y", 
-  "Title": "Blue and Black Vertical", 
-  "DateAcquired": "1976-06-02", 
+  "CreditLine": "Acquired with matching funds from Mrs. June Noble Larkin and the National Endowment for the Arts", 
   "Date": "1971", 
   "ArtistID": 648, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "241.1976", 
-  "ArtistBio": "American, born Russia. 1907\u20131981", 
-  "CreditLine": "Acquired with matching funds from Mrs. June Noble Larkin and the National Endowment for the Arts", 
+  "ArtistBio": "(American, born Russia. 1907\u20131981)", 
+  "DateAcquired": "1976-06-02", 
+  "\ufeffTitle": "Blue and Black Vertical", 
   "ObjectID": "35473"
 }

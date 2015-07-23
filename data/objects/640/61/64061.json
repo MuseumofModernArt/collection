@@ -5,8 +5,7 @@
   "Artist": "Pablo Picasso", 
   "URL": "http://www.moma.org/collection/works/64061", 
   "CuratorApproved": "Y", 
-  "Title": "Model, Painting and Sculpture (Mod\u00e8le, tableau et sculpture)", 
-  "DateAcquired": "1949-03-24", 
+  "CreditLine": "Abby Aldrich Rockefeller Fund", 
   "Date": "(March 21, 1933, printed 1939)", 
   "ArtistID": 4609, 
   "Keywords": [
@@ -21,7 +20,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "190.1949", 
-  "ArtistBio": "Spanish, 1881\u20131973", 
-  "CreditLine": "Abby Aldrich Rockefeller Fund", 
+  "ArtistBio": "(Spanish, 1881\u20131973)", 
+  "DateAcquired": "1949-03-24", 
+  "\ufeffTitle": "Model, Painting and Sculpture (Mod\u00e8le, tableau et sculpture)", 
   "ObjectID": "64061"
 }

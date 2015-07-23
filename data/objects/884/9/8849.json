@@ -5,8 +5,7 @@
   "Artist": "Klaus Staeck", 
   "URL": "http://www.moma.org/collection/works/8849", 
   "CuratorApproved": "Y", 
-  "Title": "Die Mauer Mu\u00df Weg", 
-  "DateAcquired": "2000-12-11", 
+  "CreditLine": "Gift of the designer", 
   "Date": "1976", 
   "ArtistID": 8268, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "1552.2000", 
-  "ArtistBio": "German, born 1938", 
-  "CreditLine": "Gift of the designer", 
+  "ArtistBio": "(German, born 1938)", 
+  "DateAcquired": "2000-12-11", 
+  "\ufeffTitle": "Die Mauer Mu\u00df Weg", 
   "ObjectID": "8849"
 }

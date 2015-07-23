@@ -5,8 +5,7 @@
   "Artist": "Emil Nolde", 
   "URL": "http://www.moma.org/collection/works/69323", 
   "CuratorApproved": "Y", 
-  "Title": "Young Couple", 
-  "DateAcquired": "1940-04-05", 
+  "CreditLine": "Gift of Abby Aldrich Rockefeller", 
   "Date": "(1913)", 
   "ArtistID": 4327, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "450.1940", 
-  "ArtistBio": "German, 1867\u20131956", 
-  "CreditLine": "Gift of Abby Aldrich Rockefeller", 
+  "ArtistBio": "(German, 1867\u20131956)", 
+  "DateAcquired": "1940-04-05", 
+  "\ufeffTitle": "Young Couple (Junges Paar)", 
   "ObjectID": "69323"
 }

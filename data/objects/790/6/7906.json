@@ -5,8 +5,7 @@
   "Artist": "Ant Kurvers", 
   "URL": "http://www.moma.org/collection/works/7906", 
   "CuratorApproved": "Y", 
-  "Title": "Tentoonstelling van Nederlansche Gemeentewerken Te Utrecht", 
-  "DateAcquired": "1980-10-30", 
+  "CreditLine": "Exchange", 
   "Date": "1926", 
   "ArtistID": 3312, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "676.1980", 
-  "ArtistBio": "Dutch", 
-  "CreditLine": "Exchange", 
+  "ArtistBio": "(Dutch)", 
+  "DateAcquired": "1980-10-30", 
+  "\ufeffTitle": "Tentoonstelling van Nederlansche Gemeentewerken Te Utrecht", 
   "ObjectID": "7906"
 }

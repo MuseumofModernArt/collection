@@ -5,8 +5,7 @@
   "Artist": "Dan Weiner", 
   "URL": "http://www.moma.org/collection/works/45769", 
   "CuratorApproved": "Y", 
-  "Title": "Pool Hall", 
-  "DateAcquired": "1994-01-13", 
+  "CreditLine": "Gift of Sandra Weiner", 
   "Date": "1955", 
   "ArtistID": 6287, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "77.1994", 
-  "ArtistBio": "American, 1919\u20131959", 
-  "CreditLine": "Gift of Sandra Weiner", 
+  "ArtistBio": "(American, 1919\u20131959)", 
+  "DateAcquired": "1994-01-13", 
+  "\ufeffTitle": "Pool Hall", 
   "ObjectID": "45769"
 }

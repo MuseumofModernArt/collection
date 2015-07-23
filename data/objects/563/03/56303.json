@@ -5,8 +5,7 @@
   "Artist": "Lee Friedlander", 
   "URL": "http://www.moma.org/collection/works/56303", 
   "CuratorApproved": "Y", 
-  "Title": "Mechanics' Monument. San Francisco, California", 
-  "DateAcquired": "2000-10-12", 
+  "CreditLine": "Purchase", 
   "Date": "1972", 
   "ArtistID": 2002, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "736.2000", 
-  "ArtistBio": "American, born 1934", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, born 1934)", 
+  "DateAcquired": "2000-10-12", 
+  "\ufeffTitle": "Mechanics' Monument. San Francisco, California", 
   "ObjectID": "56303"
 }

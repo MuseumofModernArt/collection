@@ -1,12 +1,11 @@
 {
   "Medium": "One lithograph from a portfolio of six lithographs, five screenprints and one aquatint", 
-  "Dimensions": "irreg composition  26 1/16 x 18 15/16\" (66.2 x 48.1 cm)  sheet  29 11/16 x 21 13/16\" (75.4 x 55.4 cm)", 
+  "Dimensions": "irreg composition  26 1/16 x 18 15/16\" (66.2 x 48.1 cm)\r\nsheet  29 11/16 x 21 13/16\" (75.4 x 55.4 cm)", 
   "Classification": "Print", 
   "Artist": "Janet Fish", 
   "URL": "http://www.moma.org/collection/works/68744", 
   "CuratorApproved": "Y", 
-  "Title": "PRESERVED PEACHES from the portfolio 1776 USA 1976 BICENTENNIAL PRINTS", 
-  "DateAcquired": "1977-11-10", 
+  "CreditLine": "Gift of Special Projects Group", 
   "Date": "(1975, published 1976)", 
   "ArtistID": 1892, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "416.1977.6", 
-  "ArtistBio": "American, born 1938", 
-  "CreditLine": "Gift of Special Projects Group", 
+  "ArtistBio": "(American, born 1938)", 
+  "DateAcquired": "1977-11-10", 
+  "\ufeffTitle": "Preserved Peaches from 1776 USA 1976 Bicentennial Prints", 
   "ObjectID": "68744"
 }

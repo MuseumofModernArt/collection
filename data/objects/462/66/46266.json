@@ -5,8 +5,7 @@
   "Artist": "Manuel \u00c1lvarez Bravo", 
   "URL": "http://www.moma.org/collection/works/46266", 
   "CuratorApproved": "Y", 
-  "Title": "Red Shadows", 
-  "DateAcquired": "1967-03-07", 
+  "CreditLine": "Gift of Arthur M. Bullowa", 
   "Date": "c. 1964", 
   "ArtistID": 135, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "102.1967", 
-  "ArtistBio": "Mexican, 1902\u20132002", 
-  "CreditLine": "Gift of Arthur M. Bullowa", 
+  "ArtistBio": "(Mexican, 1902\u20132002)", 
+  "DateAcquired": "1967-03-07", 
+  "\ufeffTitle": "Red Shadows", 
   "ObjectID": "46266"
 }

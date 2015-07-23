@@ -5,8 +5,7 @@
   "Artist": "William H. Rau", 
   "URL": "http://www.moma.org/collection/works/48475", 
   "CuratorApproved": "Y", 
-  "Title": "Insane Hospital, Willard, New York", 
-  "DateAcquired": "1985-05-29", 
+  "CreditLine": "David H. McAlpin Fund", 
   "Date": "1895-1902", 
   "ArtistID": 4822, 
   "Keywords": [
@@ -20,7 +19,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "206.1985", 
-  "ArtistBio": "American, 1855\u20131920", 
-  "CreditLine": "David H. McAlpin Fund", 
+  "ArtistBio": "(American, 1855\u20131920)", 
+  "DateAcquired": "1985-05-29", 
+  "\ufeffTitle": "Insane Hospital, Willard, New York", 
   "ObjectID": "48475"
 }

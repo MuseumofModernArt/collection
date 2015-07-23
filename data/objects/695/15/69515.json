@@ -5,8 +5,7 @@
   "Artist": "Princess Winifred", 
   "URL": "http://www.moma.org/collection/works/69515", 
   "CuratorApproved": "Y", 
-  "Title": "Asylum Manuscripts from S.M.S. No. 4, August 1968", 
-  "DateAcquired": "1977-11-10", 
+  "CreditLine": "Gift of Carol O. Selle", 
   "Date": "1968", 
   "ArtistID": 6395, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "460.1977.4k", 
-  "ArtistBio": "Nationality unknown", 
-  "CreditLine": "Gift of Carol O. Selle", 
+  "ArtistBio": "(Nationality unknown)", 
+  "DateAcquired": "1977-11-10", 
+  "\ufeffTitle": "Asylum Manuscripts from S.M.S. No. 4", 
   "ObjectID": "69515"
 }

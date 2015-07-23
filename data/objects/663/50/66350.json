@@ -5,8 +5,7 @@
   "Artist": "George Baldessin", 
   "URL": "http://www.moma.org/collection/works/66350", 
   "CuratorApproved": "Y", 
-  "Title": "Head Through Blind", 
-  "DateAcquired": "1973-10-24", 
+  "CreditLine": "Purchase", 
   "Date": "1967", 
   "ArtistID": 305, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "296.1973", 
-  "ArtistBio": "Australian, 1939\u20131978", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(Australian, 1939\u20131978)", 
+  "DateAcquired": "1973-10-24", 
+  "\ufeffTitle": "Head Through Blind", 
   "ObjectID": "66350"
 }

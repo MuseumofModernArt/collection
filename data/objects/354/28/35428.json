@@ -5,8 +5,7 @@
   "Artist": "George Ault", 
   "URL": "http://www.moma.org/collection/works/35428", 
   "CuratorApproved": "Y", 
-  "Title": "Study for New Moon, New York", 
-  "DateAcquired": "1968-04-23", 
+  "CreditLine": "Gift of Mr. and Mrs. Maurice Vanderwoude", 
   "Date": "1944", 
   "ArtistID": 243, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "232.1968", 
-  "ArtistBio": "American, 1891\u20131948", 
-  "CreditLine": "Gift of Mr. and Mrs. Maurice Vanderwoude", 
+  "ArtistBio": "(American, 1891\u20131948)", 
+  "DateAcquired": "1968-04-23", 
+  "\ufeffTitle": "Study for New Moon, New York", 
   "ObjectID": "35428"
 }

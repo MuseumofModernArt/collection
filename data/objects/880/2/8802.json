@@ -5,8 +5,7 @@
   "Artist": "Almir Mavignier", 
   "URL": "http://www.moma.org/collection/works/8802", 
   "CuratorApproved": "Y", 
-  "Title": "Arp", 
-  "DateAcquired": "2000-12-11", 
+  "CreditLine": "Gift of the artist", 
   "Date": "1960", 
   "ArtistID": 3858, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "1504.2000", 
-  "ArtistBio": "Brazilian, born 1925", 
-  "CreditLine": "Gift of the artist", 
+  "ArtistBio": "(Brazilian, born 1925)", 
+  "DateAcquired": "2000-12-11", 
+  "\ufeffTitle": "Arp", 
   "ObjectID": "8802"
 }

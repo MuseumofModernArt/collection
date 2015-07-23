@@ -5,8 +5,7 @@
   "Artist": "Kurt Schwitters", 
   "URL": "http://www.moma.org/collection/works/7713", 
   "CuratorApproved": "Y", 
-  "Title": "Hahn Werbedruck", 
-  "DateAcquired": "1977-11-28", 
+  "CreditLine": "Jan Tschichold Collection, Gift of Philip Johnson", 
   "Date": "c. 1929", 
   "ArtistID": 5293, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "605.1977", 
-  "ArtistBio": "German, 1887\u20131948", 
-  "CreditLine": "Jan Tschichold Collection, Gift of Philip Johnson", 
+  "ArtistBio": "(German, 1887\u20131948)", 
+  "DateAcquired": "1977-11-28", 
+  "\ufeffTitle": "Hahn Werbedruck", 
   "ObjectID": "7713"
 }

@@ -5,8 +5,7 @@
   "Artist": "Kazumasa Nagai", 
   "URL": "http://www.moma.org/collection/works/8811", 
   "CuratorApproved": "Y", 
-  "Title": "The Cell", 
-  "DateAcquired": "2000-12-11", 
+  "CreditLine": "Gift of the designer", 
   "Date": "1966", 
   "ArtistID": 4198, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "1514.2000", 
-  "ArtistBio": "Japanese, born 1929", 
-  "CreditLine": "Gift of the designer", 
+  "ArtistBio": "(Japanese, born 1929)", 
+  "DateAcquired": "2000-12-11", 
+  "\ufeffTitle": "The Cell", 
   "ObjectID": "8811"
 }

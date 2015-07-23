@@ -5,8 +5,7 @@
   "Artist": "Maciej Urbaniec", 
   "URL": "http://www.moma.org/collection/works/7340", 
   "CuratorApproved": "Y", 
-  "Title": "Cyrk (Circus)", 
-  "DateAcquired": "1987-11-18", 
+  "CreditLine": "Anonymous gift", 
   "Date": "1970", 
   "ArtistID": 6038, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "513.1987", 
-  "ArtistBio": "Polish, 1925\u20132004", 
-  "CreditLine": "Anonymous gift", 
+  "ArtistBio": "(Polish, 1925\u20132004)", 
+  "DateAcquired": "1987-11-18", 
+  "\ufeffTitle": "Cyrk (Circus)", 
   "ObjectID": "7340"
 }

@@ -5,8 +5,7 @@
   "Artist": "Barbara Chase-Riboud", 
   "URL": "http://www.moma.org/collection/works/33163", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1999-02-25", 
+  "CreditLine": "Gift of The Grace M. Mayer Collection", 
   "Date": "1967", 
   "Keywords": [
     "online art collection", 
@@ -16,7 +15,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "13.1999", 
-  "ArtistBio": "American, born 1939", 
-  "CreditLine": "Gift of The Grace M. Mayer Collection", 
+  "ArtistBio": "(American, born 1939)", 
+  "DateAcquired": "1999-02-25", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "33163"
 }

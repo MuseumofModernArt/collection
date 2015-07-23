@@ -5,8 +5,7 @@
   "Artist": "Harold Elberg", 
   "URL": "http://www.moma.org/collection/works/2049", 
   "CuratorApproved": "Y", 
-  "Title": "Plate", 
-  "DateAcquired": "1948-03-17", 
+  "CreditLine": "Gift of the manufacturer", 
   "Date": "1946", 
   "ArtistID": 1711, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "83.1948", 
-  "ArtistBio": "American", 
-  "CreditLine": "Gift of the manufacturer", 
+  "ArtistBio": "(American)", 
+  "DateAcquired": "1948-03-17", 
+  "\ufeffTitle": "Plate", 
   "ObjectID": "2049"
 }

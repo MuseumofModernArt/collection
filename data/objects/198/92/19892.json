@@ -1,12 +1,11 @@
 {
   "Medium": "13 lithographs with etching", 
-  "Dimensions": "irreg. page  11 1/4 x 8 7/8\" (28 x 22.5 cm)  Prints:  various dimensions.", 
+  "Dimensions": "irreg. page  11 1/4 x 8 7/8\" (28 x 22.5 cm)\r\nPrints:  various dimensions.", 
   "Classification": "Illustrated Book", 
   "Artist": "Elizabeth Murray", 
   "URL": "http://www.moma.org/collection/works/19892", 
   "CuratorApproved": "Y", 
-  "Title": "Her Story", 
-  "DateAcquired": "1990-12-31", 
+  "CreditLine": "Gift of Emily Fisher Landau", 
   "Date": "1988-90", 
   "ArtistID": 4185, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "648.1990.1-13", 
-  "ArtistBio": "American, 1940\u20132007", 
-  "CreditLine": "Gift of Emily Fisher Landau", 
+  "ArtistBio": "(American, 1940\u20132007)", 
+  "DateAcquired": "1990-12-31", 
+  "\ufeffTitle": "Her Story", 
   "ObjectID": "19892"
 }

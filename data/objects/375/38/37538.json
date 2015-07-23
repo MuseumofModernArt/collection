@@ -5,8 +5,7 @@
   "Artist": "Alberto Giacometti", 
   "URL": "http://www.moma.org/collection/works/37538", 
   "CuratorApproved": "Y", 
-  "Title": "Annette", 
-  "DateAcquired": "1967-10-18", 
+  "CreditLine": "The Sidney and Harriet Janis Collection", 
   "Date": "(1954)", 
   "ArtistID": 2141, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "602.1967", 
-  "ArtistBio": "Swiss, 1901\u20131966", 
-  "CreditLine": "The Sidney and Harriet Janis Collection", 
+  "ArtistBio": "(Swiss, 1901\u20131966)", 
+  "DateAcquired": "1967-10-18", 
+  "\ufeffTitle": "Annette", 
   "ObjectID": "37538"
 }

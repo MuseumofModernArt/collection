@@ -1,12 +1,11 @@
 {
   "Medium": "Lithograph with paint additions", 
-  "Dimensions": "Composition: 14 1/16 x 11\" (35.7 x 27.9 cm)  Sheet: 22 5/8 x 17 5/8\" (57.4 x 44.8 cm)", 
+  "Dimensions": "Composition: 14 1/16 x 11\" (35.7 x 27.9 cm)\r\nSheet: 22 5/8 x 17 5/8\" (57.4 x 44.8 cm)", 
   "Classification": "Print", 
   "Artist": "Jasper Johns", 
   "URL": "http://www.moma.org/collection/works/66527", 
   "CuratorApproved": "Y", 
-  "Title": "Working proof for Ale Cans", 
-  "DateAcquired": "1985-10-07", 
+  "CreditLine": "Gift of the artist in honor of Tatyana Grosman", 
   "Date": "1964", 
   "ArtistID": 2923, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "305.1985", 
-  "ArtistBio": "American, born 1930", 
-  "CreditLine": "Gift of the artist in honor of Tatyana Grosman", 
+  "ArtistBio": "(American, born 1930)", 
+  "DateAcquired": "1985-10-07", 
+  "\ufeffTitle": "Working proof for Ale Cans", 
   "ObjectID": "66527"
 }

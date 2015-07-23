@@ -5,8 +5,7 @@
   "Artist": "John Filo/Valley Daily News via Associated Press", 
   "URL": "http://www.moma.org/collection/works/58588", 
   "CuratorApproved": "Y", 
-  "Title": "Stream of Blood", 
-  "DateAcquired": "2001-06-14", 
+  "CreditLine": "The New York Times Collection", 
   "Date": "May 4, 1970", 
   "ArtistID": 8537, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "1995.2001", 
-  "ArtistBio": "American, born 1948", 
-  "CreditLine": "The New York Times Collection", 
+  "ArtistBio": "(American, born 1948)", 
+  "DateAcquired": "2001-06-14", 
+  "\ufeffTitle": "Stream of Blood", 
   "ObjectID": "58588"
 }

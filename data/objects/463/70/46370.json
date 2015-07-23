@@ -5,8 +5,7 @@
   "Artist": "Josef Koudelka", 
   "URL": "http://www.moma.org/collection/works/46370", 
   "CuratorApproved": "Y", 
-  "Title": "Spain", 
-  "DateAcquired": "1987-04-16", 
+  "CreditLine": "Gift of Arthur M. Bullowa", 
   "Date": "1973", 
   "ArtistID": 3229, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "107.1987", 
-  "ArtistBio": "Czech, born 1938", 
-  "CreditLine": "Gift of Arthur M. Bullowa", 
+  "ArtistBio": "(Czech, born 1938)", 
+  "DateAcquired": "1987-04-16", 
+  "\ufeffTitle": "Spain", 
   "ObjectID": "46370"
 }

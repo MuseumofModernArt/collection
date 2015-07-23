@@ -5,8 +5,7 @@
   "Artist": "Andy Warhol", 
   "URL": "http://www.moma.org/collection/works/33416", 
   "CuratorApproved": "Y", 
-  "Title": "Campbell's Soup Can (Tomato)", 
-  "DateAcquired": "1999-02-25", 
+  "CreditLine": "Purchased with funds provided by Marie-Jos\u00e9e and Henry R. Kravis", 
   "Date": "(c. 1962)", 
   "ArtistID": 6246, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "33.1999", 
-  "ArtistBio": "American, 1928\u20131987", 
-  "CreditLine": "Purchased with funds provided by Marie-Jos\u00e9e and Henry R. Kravis", 
+  "ArtistBio": "(American, 1928\u20131987)", 
+  "DateAcquired": "1999-02-25", 
+  "\ufeffTitle": "Campbell's Soup Can (Tomato)", 
   "ObjectID": "33416"
 }

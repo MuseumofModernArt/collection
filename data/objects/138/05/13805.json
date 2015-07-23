@@ -1,12 +1,11 @@
 {
   "Medium": "Artist's book", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Illustrated Book", 
   "Artist": "Tom Friedman", 
   "URL": "http://www.moma.org/collection/works/13805", 
   "CuratorApproved": "Y", 
-  "Title": "Work Book", 
-  "DateAcquired": "1997-05-28", 
+  "CreditLine": "Purchase", 
   "Date": "1996", 
   "ArtistID": 7487, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "212.1997", 
-  "ArtistBio": "American, born 1965", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, born 1965)", 
+  "DateAcquired": "1997-05-28", 
+  "\ufeffTitle": "Work Book", 
   "ObjectID": "13805"
 }

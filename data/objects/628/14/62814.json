@@ -1,12 +1,11 @@
 {
   "Medium": "Gelatin silver print", 
-  "Dimensions": "composition  7 9/16 x 9 9/16\" (19.2 x 24.3 cm)  sheet  15 3/4 x 16 15/16\" (40 x 43 cm)", 
+  "Dimensions": "composition  7 9/16 x 9 9/16\" (19.2 x 24.3 cm)\r\nsheet  15 3/4 x 16 15/16\" (40 x 43 cm)", 
   "Classification": "Print", 
   "Artist": "Jeff Wall", 
   "URL": "http://www.moma.org/collection/works/62814", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled (for Parkett no. 49)", 
-  "DateAcquired": "1998-03-05", 
+  "CreditLine": "Riva Castleman Endowment Fund, Lily Auchincloss Fund, and Gift of Parkett", 
   "Date": "1997", 
   "ArtistID": 7826, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "139.1998", 
-  "ArtistBio": "Canadian, born 1946", 
-  "CreditLine": "Riva Castleman Endowment Fund, Lily Auchincloss Fund, and Gift of Parkett", 
+  "ArtistBio": "(Canadian, born 1946)", 
+  "DateAcquired": "1998-03-05", 
+  "\ufeffTitle": "Untitled (for Parkett no. 49)", 
   "ObjectID": "62814"
 }

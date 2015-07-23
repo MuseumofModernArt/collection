@@ -5,8 +5,7 @@
   "Artist": "Otto Dix", 
   "URL": "http://www.moma.org/collection/works/34917", 
   "CuratorApproved": "Y", 
-  "Title": "Passer-By", 
-  "DateAcquired": "1970-05-12", 
+  "CreditLine": "Given anonymously", 
   "Date": "(1923)", 
   "ArtistID": 1559, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "159.1970", 
-  "ArtistBio": "German, 1891\u20131969", 
-  "CreditLine": "Given anonymously", 
+  "ArtistBio": "(German, 1891\u20131969)", 
+  "DateAcquired": "1970-05-12", 
+  "\ufeffTitle": "Passer-By (Schreitende)", 
   "ObjectID": "34917"
 }

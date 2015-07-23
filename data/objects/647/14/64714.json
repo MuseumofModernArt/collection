@@ -5,8 +5,7 @@
   "Artist": "Lee Bontecou", 
   "URL": "http://www.moma.org/collection/works/64714", 
   "CuratorApproved": "Y", 
-  "Title": "Pirates", 
-  "DateAcquired": "1982-10-26", 
+  "CreditLine": "Gift of Celeste Bartos", 
   "Date": "1979-82", 
   "ArtistID": 670, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "224.1982", 
-  "ArtistBio": "American, born 1931", 
-  "CreditLine": "Gift of Celeste Bartos", 
+  "ArtistBio": "(American, born 1931)", 
+  "DateAcquired": "1982-10-26", 
+  "\ufeffTitle": "Pirates", 
   "ObjectID": "64714"
 }

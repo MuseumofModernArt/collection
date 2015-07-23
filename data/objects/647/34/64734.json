@@ -1,12 +1,11 @@
 {
   "Medium": "Etching", 
-  "Dimensions": "plate  15 3/16 x 19\" (38.6 x 48.2 cm)  sheet  18 1/2 x 22\" (47 x 55.9 cm)", 
+  "Dimensions": "plate  15 3/16 x 19\" (38.6 x 48.2 cm)\r\nsheet  18 1/2 x 22\" (47 x 55.9 cm)", 
   "Classification": "Print", 
   "Artist": "Roy R. Drasites", 
   "URL": "http://www.moma.org/collection/works/64734", 
   "CuratorApproved": "Y", 
-  "Title": "Designers Reorganize the Organized", 
-  "DateAcquired": "1972-05-08", 
+  "CreditLine": "Gift of The Society of American Graphic Artists", 
   "Date": "1971", 
   "ArtistID": 1614, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "225.1972", 
-  "ArtistBio": "American, born 1945", 
-  "CreditLine": "Gift of The Society of American Graphic Artists", 
+  "ArtistBio": "(American, born 1945)", 
+  "DateAcquired": "1972-05-08", 
+  "\ufeffTitle": "Designers Reorganize the Organized", 
   "ObjectID": "64734"
 }

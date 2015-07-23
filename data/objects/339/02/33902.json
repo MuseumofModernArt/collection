@@ -5,8 +5,7 @@
   "Artist": "Nigel Hall", 
   "URL": "http://www.moma.org/collection/works/33902", 
   "CuratorApproved": "Y", 
-  "Title": "Hollow Ground II", 
-  "DateAcquired": "1979-05-07", 
+  "CreditLine": "Gift of The Cosmopolitan Arts Foundation", 
   "Date": "1977", 
   "ArtistID": 2465, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "98.1979", 
-  "ArtistBio": "British, born 1943", 
-  "CreditLine": "Gift of The Cosmopolitan Arts Foundation", 
+  "ArtistBio": "(British, born 1943)", 
+  "DateAcquired": "1979-05-07", 
+  "\ufeffTitle": "Hollow Ground II", 
   "ObjectID": "33902"
 }

@@ -5,8 +5,7 @@
   "Artist": "Jack Levine", 
   "URL": "http://www.moma.org/collection/works/7740", 
   "CuratorApproved": "Y", 
-  "Title": "Jack Levine Exhibition Jan. 17-Feb. 17", 
-  "DateAcquired": "1951-11-21", 
+  "CreditLine": "Gift of the artist", 
   "Date": "1949", 
   "ArtistID": 3513, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "612.1951", 
-  "ArtistBio": "American, 1915\u20132010", 
-  "CreditLine": "Gift of the artist", 
+  "ArtistBio": "(American, 1915\u20132010)", 
+  "DateAcquired": "1951-11-21", 
+  "\ufeffTitle": "Jack Levine Exhibition Jan. 17-Feb. 17", 
   "ObjectID": "7740"
 }

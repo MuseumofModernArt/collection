@@ -5,8 +5,7 @@
   "Artist": "\u00c9douard Vuillard", 
   "URL": "http://www.moma.org/collection/works/36851", 
   "CuratorApproved": "Y", 
-  "Title": "Siesta", 
-  "DateAcquired": "1953-06-22", 
+  "CreditLine": "Gift of Sam Salz", 
   "Date": "1928", 
   "ArtistID": 6194, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "428.1953", 
-  "ArtistBio": "French, 1868\u20131940", 
-  "CreditLine": "Gift of Sam Salz", 
+  "ArtistBio": "(French, 1868\u20131940)", 
+  "DateAcquired": "1953-06-22", 
+  "\ufeffTitle": "Siesta", 
   "ObjectID": "36851"
 }

@@ -5,8 +5,7 @@
   "Artist": "Paul Signac", 
   "URL": "http://www.moma.org/collection/works/60492", 
   "CuratorApproved": "Y", 
-  "Title": "Bell Tower of St. Tropez", 
-  "DateAcquired": "1952-01-22", 
+  "CreditLine": "Purchase", 
   "Date": "(c. 1896)", 
   "ArtistID": 5421, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "32.1952", 
-  "ArtistBio": "French, 1863\u20131935", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(French, 1863\u20131935)", 
+  "DateAcquired": "1952-01-22", 
+  "\ufeffTitle": "Bell Tower of St. Tropez", 
   "ObjectID": "60492"
 }

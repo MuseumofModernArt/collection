@@ -5,8 +5,7 @@
   "Artist": "Armin Hofmann", 
   "URL": "http://www.moma.org/collection/works/6783", 
   "CuratorApproved": "Y", 
-  "Title": "Stadttheater Basel, Wahrend der Saison 1960/61 finden Sie an dieser Stelle den Spielplan", 
-  "DateAcquired": "1963-06-12", 
+  "CreditLine": "Gift of the artist", 
   "Date": "1960", 
   "ArtistID": 2697, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "382.1963", 
-  "ArtistBio": "Swiss, born 1920", 
-  "CreditLine": "Gift of the artist", 
+  "ArtistBio": "(Swiss, born 1920)", 
+  "DateAcquired": "1963-06-12", 
+  "\ufeffTitle": "Stadttheater Basel, Wahrend der Saison 1960/61 finden Sie an dieser Stelle den Spielplan", 
   "ObjectID": "6783"
 }

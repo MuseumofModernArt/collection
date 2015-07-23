@@ -5,8 +5,7 @@
   "Artist": "Todd Webb", 
   "URL": "http://www.moma.org/collection/works/46461", 
   "CuratorApproved": "Y", 
-  "Title": "Stove in Paris Studio", 
-  "DateAcquired": "1964-01-07", 
+  "CreditLine": "Purchase", 
   "Date": "1951", 
   "ArtistID": 6272, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "114.1964", 
-  "ArtistBio": "American, 1905\u20132000", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, 1905\u20132000)", 
+  "DateAcquired": "1964-01-07", 
+  "\ufeffTitle": "Stove in Paris Studio", 
   "ObjectID": "46461"
 }

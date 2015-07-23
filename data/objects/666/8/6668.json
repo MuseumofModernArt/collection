@@ -5,8 +5,7 @@
   "Artist": "Herbert Leupin", 
   "URL": "http://www.moma.org/collection/works/6668", 
   "CuratorApproved": "Y", 
-  "Title": "Tribune de Lausanne", 
-  "DateAcquired": "1994-09-21", 
+  "CreditLine": "Gift of Leonard A. Lauder", 
   "Date": "1955", 
   "ArtistID": 3503, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "417.1994", 
-  "ArtistBio": "Swiss, 1916\u20131999", 
-  "CreditLine": "Gift of Leonard A. Lauder", 
+  "ArtistBio": "(Swiss, 1916\u20131999)", 
+  "DateAcquired": "1994-09-21", 
+  "\ufeffTitle": "Tribune de Lausanne", 
   "ObjectID": "6668"
 }

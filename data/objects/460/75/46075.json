@@ -5,8 +5,7 @@
   "Artist": "Henry Wessel, Jr.", 
   "URL": "http://www.moma.org/collection/works/46075", 
   "CuratorApproved": "Y", 
-  "Title": "El Cerrito, California", 
-  "DateAcquired": "1973-02-13", 
+  "CreditLine": "Gift of the photographer", 
   "Date": "1972", 
   "Keywords": [
     "online art collection", 
@@ -20,7 +19,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "91.1973", 
-  "ArtistBio": "American, born 1942", 
-  "CreditLine": "Gift of the photographer", 
+  "ArtistBio": "(American, born 1942)", 
+  "DateAcquired": "1973-02-13", 
+  "\ufeffTitle": "El Cerrito, California", 
   "ObjectID": "46075"
 }

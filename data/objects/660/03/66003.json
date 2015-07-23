@@ -5,8 +5,7 @@
   "Artist": "Christian Rohlfs", 
   "URL": "http://www.moma.org/collection/works/66003", 
   "CuratorApproved": "Y", 
-  "Title": "Burgher", 
-  "DateAcquired": "1955-10-10", 
+  "CreditLine": "James Thrall Soby Fund", 
   "Date": "(1922)", 
   "ArtistID": 5000, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "284.1955", 
-  "ArtistBio": "German, 1849\u20131938", 
-  "CreditLine": "James Thrall Soby Fund", 
+  "ArtistBio": "(German, 1849\u20131938)", 
+  "DateAcquired": "1955-10-10", 
+  "\ufeffTitle": "Burgher (Der B\u00fcrger)", 
   "ObjectID": "66003"
 }

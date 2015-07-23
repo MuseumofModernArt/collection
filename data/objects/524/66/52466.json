@@ -5,8 +5,7 @@
   "Artist": "Jerome Liebling", 
   "URL": "http://www.moma.org/collection/works/52466", 
   "CuratorApproved": "Y", 
-  "Title": "Handball Player, Miami Beach", 
-  "DateAcquired": "1997-10-09", 
+  "CreditLine": "Gift of Jane Katcher in honor of Agnes Gund", 
   "Date": "1977", 
   "ArtistID": 3549, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "393.1997", 
-  "ArtistBio": "American, 1924\u20132011", 
-  "CreditLine": "Gift of Jane Katcher in honor of Agnes Gund", 
+  "ArtistBio": "(American, 1924\u20132011)", 
+  "DateAcquired": "1997-10-09", 
+  "\ufeffTitle": "Handball Player, Miami Beach", 
   "ObjectID": "52466"
 }

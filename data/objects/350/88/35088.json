@@ -5,8 +5,7 @@
   "Artist": "Milton Avery", 
   "URL": "http://www.moma.org/collection/works/35088", 
   "CuratorApproved": "Y", 
-  "Title": "Dune and Bushes", 
-  "DateAcquired": "1982-06-01", 
+  "CreditLine": "Purchase", 
   "Date": "1958", 
   "ArtistID": 250, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "179.1982", 
-  "ArtistBio": "American, 1885\u20131965", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, 1885\u20131965)", 
+  "DateAcquired": "1982-06-01", 
+  "\ufeffTitle": "Dune and Bushes", 
   "ObjectID": "35088"
 }

@@ -5,8 +5,7 @@
   "Artist": "Ludwig Mies van der Rohe", 
   "URL": "http://www.moma.org/collection/works/787", 
   "CuratorApproved": "Y", 
-  "Title": "Friedrichstrasse Skyscraper Project, Berlin-Mitte, Germany", 
-  "DateAcquired": "1966-01-11", 
+  "CreditLine": "Mies van der Rohe Archive, gift of the architect", 
   "Date": "1921", 
   "ArtistID": 7166, 
   "Keywords": [
@@ -20,7 +19,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "1005.1965", 
-  "ArtistBio": "American, born Germany. 1886\u20131969", 
-  "CreditLine": "Mies van der Rohe Archive, gift of the architect", 
+  "ArtistBio": "(American, born Germany. 1886\u20131969)", 
+  "DateAcquired": "1966-01-11", 
+  "\ufeffTitle": "Friedrichstrasse Skyscraper Project, Berlin-Mitte, Germany (Exterior perspective from north)", 
   "ObjectID": "787"
 }

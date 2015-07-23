@@ -5,8 +5,7 @@
   "Artist": "Pablo Picasso", 
   "URL": "http://www.moma.org/collection/works/29315", 
   "CuratorApproved": "Y", 
-  "Title": "Three Heads of Men (headpiece, page 7) from the illustrated book Les M\u00e9tamorphoses", 
-  "DateAcquired": "1964-10-06", 
+  "CreditLine": "The Louis E. Stern Collection", 
   "Date": "(Print executed 1931)", 
   "ArtistID": 4609, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "968.1964.1", 
-  "ArtistBio": "Spanish, 1881\u20131973", 
-  "CreditLine": "The Louis E. Stern Collection", 
+  "ArtistBio": "(Spanish, 1881\u20131973)", 
+  "DateAcquired": "1964-10-06", 
+  "\ufeffTitle": "Three Heads of Men (headpiece, page 7) from the illustrated book Les M\u00e9tamorphoses", 
   "ObjectID": "29315"
 }

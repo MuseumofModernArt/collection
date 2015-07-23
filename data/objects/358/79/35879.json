@@ -5,8 +5,7 @@
   "Artist": "McDonald (Mackey Jeffries) Bane", 
   "URL": "http://www.moma.org/collection/works/35879", 
   "CuratorApproved": "Y", 
-  "Title": "D-1-67", 
-  "DateAcquired": "1968-04-23", 
+  "CreditLine": "Given anonymously", 
   "Date": "1967", 
   "ArtistID": 320, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "275.1968", 
-  "ArtistBio": "American, born 1928", 
-  "CreditLine": "Given anonymously", 
+  "ArtistBio": "(American, born 1928)", 
+  "DateAcquired": "1968-04-23", 
+  "\ufeffTitle": "D-1-67", 
   "ObjectID": "35879"
 }

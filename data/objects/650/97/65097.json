@@ -5,8 +5,7 @@
   "Artist": "John Levee", 
   "URL": "http://www.moma.org/collection/works/65097", 
   "CuratorApproved": "Y", 
-  "Title": "Composition", 
-  "DateAcquired": "1955-10-10", 
+  "CreditLine": "Gift of Mr. and Mrs. Andr\u00e9 Emmerich", 
   "Date": "1954", 
   "ArtistID": 3505, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "244.1955", 
-  "ArtistBio": "American, born 1924", 
-  "CreditLine": "Gift of Mr. and Mrs. Andr\u00e9 Emmerich", 
+  "ArtistBio": "(American, born 1924)", 
+  "DateAcquired": "1955-10-10", 
+  "\ufeffTitle": "Composition", 
   "ObjectID": "65097"
 }

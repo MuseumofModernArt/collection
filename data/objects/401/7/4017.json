@@ -1,12 +1,11 @@
 {
   "Medium": "Stainless steel", 
-  "Dimensions": ".1 (fork): h. 8 1/4\" (21 cm)  .2 (mixer): h. 8 1/4\" (21 cm)  .3 (ice tongs): h. 8 1/4\" (21 cm)  .4 (knife): h. 8 1/4\" (21 cm)  .5 (can perforator): h. 6 1/4\" (15.9 cm)  .6 (bottle opener): h. 6 1/4\" (15.9 cm)", 
+  "Dimensions": ".1 (fork): h. 8 1/4\" (21 cm)\r\n.2 (mixer): h. 8 1/4\" (21 cm)\r\n.3 (ice tongs): h. 8 1/4\" (21 cm)\r\n.4 (knife): h. 8 1/4\" (21 cm)\r\n.5 (can perforator): h. 6 1/4\" (15.9 cm)\r\n.6 (bottle opener): h. 6 1/4\" (15.9 cm)", 
   "Classification": "A&D Design", 
   "Artist": "Studio Opi", 
   "URL": "http://www.moma.org/collection/works/4017", 
   "CuratorApproved": "Y", 
-  "Title": "Bar Tools", 
-  "DateAcquired": "1970-11-05", 
+  "CreditLine": "Gift of the manufacturer", 
   "Date": "1969", 
   "ArtistID": 5707, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "478.1970.1-6", 
-  "ArtistBio": "Italian, established 1955", 
-  "CreditLine": "Gift of the manufacturer", 
+  "ArtistBio": "(Italian, established 1955)", 
+  "DateAcquired": "1970-11-05", 
+  "\ufeffTitle": "Bar Tools", 
   "ObjectID": "4017"
 }

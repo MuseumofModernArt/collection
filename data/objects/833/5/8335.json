@@ -5,8 +5,7 @@
   "Artist": "Xanti Schawinsky", 
   "URL": "http://www.moma.org/collection/works/8335", 
   "CuratorApproved": "Y", 
-  "Title": "Olivetti M40", 
-  "DateAcquired": "1999-12-10", 
+  "CreditLine": "Jan Tschichold Collection, Gift of Philip Johnson", 
   "Date": "1934", 
   "ArtistID": 5208, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "889.1999", 
-  "ArtistBio": "American, born Switzerland. 1904\u20131979", 
-  "CreditLine": "Jan Tschichold Collection, Gift of Philip Johnson", 
+  "ArtistBio": "(American, born Switzerland. 1904\u20131979)", 
+  "DateAcquired": "1999-12-10", 
+  "\ufeffTitle": "Olivetti M40", 
   "ObjectID": "8335"
 }

@@ -1,12 +1,11 @@
 {
-  "Medium": "Illustrated book with 8 screenprints   ", 
-  "Dimensions": "Composition (each): 12 1/2 x 9 3/8\" (31.7 x 23.8 cm)  Page: 12 3/16 x 9 3/8\" (31 x 23.8 cm)", 
+  "Medium": "Illustrated book with 8 screenprints \r\n", 
+  "Dimensions": "Composition (each): 12 1/2 x 9 3/8\" (31.7 x 23.8 cm)\r\nPage: 12 3/16 x 9 3/8\" (31 x 23.8 cm)", 
   "Classification": "Illustrated Book", 
   "Artist": "Jacob Lawrence", 
   "URL": "http://www.moma.org/collection/works/15946", 
   "CuratorApproved": "Y", 
-  "Title": "Hiroshima", 
-  "DateAcquired": "1985-10-07", 
+  "CreditLine": "Gift of Edmund B. Thorton", 
   "Date": "1983", 
   "ArtistID": 3418, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "332.1985.1-8", 
-  "ArtistBio": "American, 1917\u20132000", 
-  "CreditLine": "Gift of Edmund B. Thorton", 
+  "ArtistBio": "(American, 1917\u20132000)", 
+  "DateAcquired": "1985-10-07", 
+  "\ufeffTitle": "Hiroshima", 
   "ObjectID": "15946"
 }

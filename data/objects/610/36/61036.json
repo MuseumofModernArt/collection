@@ -5,8 +5,7 @@
   "Artist": "Claes Oldenburg", 
   "URL": "http://www.moma.org/collection/works/61036", 
   "CuratorApproved": "Y", 
-  "Title": "Symbolic Self-Portrait with \"Equals\"", 
-  "DateAcquired": "1999-03-04", 
+  "CreditLine": "Given anonymously in honor of Agnes Gund and Daniel Shapiro", 
   "Date": "1971", 
   "ArtistID": 4397, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "55.1999", 
-  "ArtistBio": "American, born Sweden 1929", 
-  "CreditLine": "Given anonymously in honor of Agnes Gund and Daniel Shapiro", 
+  "ArtistBio": "(American, born Sweden 1929)", 
+  "DateAcquired": "1999-03-04", 
+  "\ufeffTitle": "Symbolic Self-Portrait with \"Equals\"", 
   "ObjectID": "61036"
 }

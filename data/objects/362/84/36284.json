@@ -5,8 +5,7 @@
   "Artist": "Vasily Kandinsky", 
   "URL": "http://www.moma.org/collection/works/36284", 
   "CuratorApproved": "Y", 
-  "Title": "Church at Murnau", 
-  "DateAcquired": "1950-11-15", 
+  "CreditLine": "Purchase", 
   "Date": "(1909)", 
   "ArtistID": 2981, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "321.1950", 
-  "ArtistBio": "French, born Russia. 1866\u20131944", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(French, born Russia. 1866\u20131944)", 
+  "DateAcquired": "1950-11-15", 
+  "\ufeffTitle": "Church at Murnau (Kirche in Murnau)", 
   "ObjectID": "36284"
 }

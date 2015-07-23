@@ -5,8 +5,7 @@
   "Artist": "Herbert Bayer", 
   "URL": "http://www.moma.org/collection/works/7447", 
   "CuratorApproved": "Y", 
-  "Title": "Signal, H. Berthold AG Berlin, Probe Nr. 276", 
-  "DateAcquired": "1999-12-10", 
+  "CreditLine": "Jan Tschichold Collection, Gift of Philip Johnson", 
   "Date": "1929", 
   "ArtistID": 399, 
   "Keywords": [
@@ -21,7 +20,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "535.1999", 
-  "ArtistBio": "American, born Austria. 1900\u20131985", 
-  "CreditLine": "Jan Tschichold Collection, Gift of Philip Johnson", 
+  "ArtistBio": "(American, born Austria. 1900\u20131985)", 
+  "DateAcquired": "1999-12-10", 
+  "\ufeffTitle": "Signal, H. Berthold AG Berlin, Probe Nr. 276", 
   "ObjectID": "7447"
 }

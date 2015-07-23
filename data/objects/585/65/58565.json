@@ -5,8 +5,7 @@
   "Artist": "Pat Candido/The New York Daily News", 
   "URL": "http://www.moma.org/collection/works/58565", 
   "CuratorApproved": "Y", 
-  "Title": "Fire", 
-  "DateAcquired": "2001-06-14", 
+  "CreditLine": "The New York Times Collection", 
   "Date": "1948", 
   "ArtistID": 8522, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "1972.2001", 
-  "ArtistBio": "Nationality unknown", 
-  "CreditLine": "The New York Times Collection", 
+  "ArtistBio": "(Nationality unknown)", 
+  "DateAcquired": "2001-06-14", 
+  "\ufeffTitle": "Fire", 
   "ObjectID": "58565"
 }

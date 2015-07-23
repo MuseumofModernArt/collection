@@ -5,8 +5,7 @@
   "Artist": "Chauncey Hare", 
   "URL": "http://www.moma.org/collection/works/46659", 
   "CuratorApproved": "Y", 
-  "Title": "Escalon Hotel before demolishment, San Joaquin Valley, California", 
-  "DateAcquired": "1969-03-05", 
+  "CreditLine": "Purchase", 
   "Date": "May 1968", 
   "ArtistID": 2503, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "123.1969", 
-  "ArtistBio": "American, born 1934", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, born 1934)", 
+  "DateAcquired": "1969-03-05", 
+  "\ufeffTitle": "Escalon Hotel before demolishment, San Joaquin Valley, California", 
   "ObjectID": "46659"
 }

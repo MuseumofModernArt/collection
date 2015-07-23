@@ -5,8 +5,7 @@
   "Artist": "Marilynn K. Yee/The New York Times", 
   "URL": "http://www.moma.org/collection/works/58829", 
   "CuratorApproved": "Y", 
-  "Title": "World Trade Center Bombing", 
-  "DateAcquired": "2001-06-14", 
+  "CreditLine": "The New York Times Collection", 
   "Date": "February 16, 1993", 
   "ArtistID": 8642, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "2236.2001", 
-  "ArtistBio": "American, born 1950", 
-  "CreditLine": "The New York Times Collection", 
+  "ArtistBio": "(American, born 1950)", 
+  "DateAcquired": "2001-06-14", 
+  "\ufeffTitle": "World Trade Center Bombing", 
   "ObjectID": "58829"
 }

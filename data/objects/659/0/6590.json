@@ -5,8 +5,7 @@
   "Artist": "Boris Bu\u0107an", 
   "URL": "http://www.moma.org/collection/works/6590", 
   "CuratorApproved": "Y", 
-  "Title": "4 4 4 4 4 4 4 4", 
-  "DateAcquired": "1982-10-27", 
+  "CreditLine": "Gift of the artist", 
   "Date": "1971", 
   "ArtistID": 840, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "407.1982", 
-  "ArtistBio": "Croatian, born Yugoslavia, 1947", 
-  "CreditLine": "Gift of the artist", 
+  "ArtistBio": "(Croatian, born Yugoslavia, 1947)", 
+  "DateAcquired": "1982-10-27", 
+  "\ufeffTitle": "4 4 4 4 4 4 4 4", 
   "ObjectID": "6590"
 }

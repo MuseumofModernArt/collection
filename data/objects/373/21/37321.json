@@ -5,8 +5,7 @@
   "Artist": "Odilon Redon", 
   "URL": "http://www.moma.org/collection/works/37321", 
   "CuratorApproved": "Y", 
-  "Title": "Vase of Flowers", 
-  "DateAcquired": "1954-12-16", 
+  "CreditLine": "William S. Paley Collection", 
   "Date": "(c. 1912-14)", 
   "ArtistID": 4840, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "553.1954", 
-  "ArtistBio": "French, 1840\u20131916", 
-  "CreditLine": "William S. Paley Collection", 
+  "ArtistBio": "(French, 1840\u20131916)", 
+  "DateAcquired": "1954-12-16", 
+  "\ufeffTitle": "Vase of Flowers", 
   "ObjectID": "37321"
 }

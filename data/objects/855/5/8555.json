@@ -5,8 +5,7 @@
   "Artist": "Augustin Tschinkel", 
   "URL": "http://www.moma.org/collection/works/8555", 
   "CuratorApproved": "Y", 
-  "Title": "Patnact let Ceskoslovenske republiky", 
-  "DateAcquired": "1999-12-10", 
+  "CreditLine": "Jan Tschichold Collection, Gift of Philip Johnson", 
   "Date": "1933", 
   "ArtistID": 5952, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "1079.1999", 
-  "ArtistBio": "Czech, born 1905", 
-  "CreditLine": "Jan Tschichold Collection, Gift of Philip Johnson", 
+  "ArtistBio": "(Czech, born 1905)", 
+  "DateAcquired": "1999-12-10", 
+  "\ufeffTitle": "Patnact let Ceskoslovenske republiky", 
   "ObjectID": "8555"
 }

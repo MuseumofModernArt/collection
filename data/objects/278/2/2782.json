@@ -5,8 +5,7 @@
   "Artist": "Thomas Patti", 
   "URL": "http://www.moma.org/collection/works/2782", 
   "CuratorApproved": "Y", 
-  "Title": "Vase", 
-  "DateAcquired": "1978-02-27", 
+  "CreditLine": "Gift of Douglas Heller and Joshua Rosenblatt", 
   "Date": "1976", 
   "ArtistID": 4521, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "221.1978", 
-  "ArtistBio": "American, born 1943", 
-  "CreditLine": "Gift of Douglas Heller and Joshua Rosenblatt", 
+  "ArtistBio": "(American, born 1943)", 
+  "DateAcquired": "1978-02-27", 
+  "\ufeffTitle": "Vase", 
   "ObjectID": "2782"
 }

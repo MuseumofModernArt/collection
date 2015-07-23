@@ -5,8 +5,7 @@
   "Artist": "Robert Motherwell", 
   "URL": "http://www.moma.org/collection/works/38408", 
   "CuratorApproved": "Y", 
-  "Title": "Beside the Sea", 
-  "DateAcquired": "1970-02-10", 
+  "CreditLine": "Gift of the artist", 
   "Date": "1968", 
   "ArtistID": 4126, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "1095.1969", 
-  "ArtistBio": "American, 1915\u20131991", 
-  "CreditLine": "Gift of the artist", 
+  "ArtistBio": "(American, 1915\u20131991)", 
+  "DateAcquired": "1970-02-10", 
+  "\ufeffTitle": "Beside the Sea", 
   "ObjectID": "38408"
 }

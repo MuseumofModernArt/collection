@@ -5,8 +5,7 @@
   "Artist": "Judy Seigel", 
   "URL": "http://www.moma.org/collection/works/52764", 
   "CuratorApproved": "Y", 
-  "Title": "Pigeons, Village Square", 
-  "DateAcquired": "1983-03-24", 
+  "CreditLine": "Purchase", 
   "Date": "1980", 
   "ArtistID": 5325, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "407.1983", 
-  "ArtistBio": "American, born 1930", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, born 1930)", 
+  "DateAcquired": "1983-03-24", 
+  "\ufeffTitle": "Pigeons, Village Square", 
   "ObjectID": "52764"
 }

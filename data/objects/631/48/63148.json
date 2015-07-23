@@ -5,8 +5,7 @@
   "Artist": "Pablo Picasso", 
   "URL": "http://www.moma.org/collection/works/63148", 
   "CuratorApproved": "Y", 
-  "Title": "Man with Guitar", 
-  "DateAcquired": "1954-04-06", 
+  "CreditLine": "Gift of Mr. and Mrs. Walter Bareiss", 
   "Date": "1915, published 1929", 
   "ArtistID": 4609, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "146.1954", 
-  "ArtistBio": "Spanish, 1881\u20131973", 
-  "CreditLine": "Gift of Mr. and Mrs. Walter Bareiss", 
+  "ArtistBio": "(Spanish, 1881\u20131973)", 
+  "DateAcquired": "1954-04-06", 
+  "\ufeffTitle": "Man with Guitar", 
   "ObjectID": "63148"
 }

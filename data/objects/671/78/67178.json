@@ -5,8 +5,7 @@
   "Artist": "Ludwig Meidner", 
   "URL": "http://www.moma.org/collection/works/67178", 
   "CuratorApproved": "Y", 
-  "Title": "Portrait of Raoul Hausmann", 
-  "DateAcquired": "1947-12-19", 
+  "CreditLine": "Purchase", 
   "Date": "1914", 
   "ArtistID": 3909, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "337.1947", 
-  "ArtistBio": "German, 1884\u20131966", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(German, 1884\u20131966)", 
+  "DateAcquired": "1947-12-19", 
+  "\ufeffTitle": "Portrait of Raoul Hausmann (Bildnis Raoul Hausmann)", 
   "ObjectID": "67178"
 }

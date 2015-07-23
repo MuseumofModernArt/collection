@@ -5,8 +5,7 @@
   "Artist": "Arnold Genthe", 
   "URL": "http://www.moma.org/collection/works/44370", 
   "CuratorApproved": "Y", 
-  "Title": "San Francisco", 
-  "DateAcquired": "1941-01-16", 
+  "CreditLine": "Courtesy Dr. Genthe", 
   "Date": "April 18, 1906", 
   "ArtistID": 2119, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "35.1941", 
-  "ArtistBio": "American, born Germany. 1869\u20131942", 
-  "CreditLine": "Courtesy Dr. Genthe", 
+  "ArtistBio": "(American, born Germany. 1869\u20131942)", 
+  "DateAcquired": "1941-01-16", 
+  "\ufeffTitle": "San Francisco", 
   "ObjectID": "44370"
 }

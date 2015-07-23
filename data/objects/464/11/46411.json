@@ -5,8 +5,7 @@
   "Artist": "Ikko (Ikko Narahara)", 
   "URL": "http://www.moma.org/collection/works/46411", 
   "CuratorApproved": "Y", 
-  "Title": "Side of Pool, Lake Powell, Utah", 
-  "DateAcquired": "1977-03-10", 
+  "CreditLine": "Gift of the photographer", 
   "Date": "1971", 
   "ArtistID": 2803, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "110.1977", 
-  "ArtistBio": "Japanese, born 1931", 
-  "CreditLine": "Gift of the photographer", 
+  "ArtistBio": "(Japanese, born 1931)", 
+  "DateAcquired": "1977-03-10", 
+  "\ufeffTitle": "Side of Pool, Lake Powell, Utah", 
   "ObjectID": "46411"
 }

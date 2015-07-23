@@ -5,8 +5,7 @@
   "Artist": "Bruce Horowitz", 
   "URL": "http://www.moma.org/collection/works/54432", 
   "CuratorApproved": "Y", 
-  "Title": "Shy Girl Holding her Black Dog", 
-  "DateAcquired": "1973-11-13", 
+  "CreditLine": "Gift of the photographer", 
   "Date": "1973", 
   "ArtistID": 2729, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "500.1973", 
-  "ArtistBio": "American, born 1949", 
-  "CreditLine": "Gift of the photographer", 
+  "ArtistBio": "(American, born 1949)", 
+  "DateAcquired": "1973-11-13", 
+  "\ufeffTitle": "Shy Girl Holding her Black Dog", 
   "ObjectID": "54432"
 }

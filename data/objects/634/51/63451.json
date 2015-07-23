@@ -1,12 +1,11 @@
 {
   "Medium": "Aquatint", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "Mel Bochner", 
   "URL": "http://www.moma.org/collection/works/63451", 
   "CuratorApproved": "Y", 
-  "Title": "Fourth Quartet", 
-  "DateAcquired": "1988-05-04", 
+  "CreditLine": "Arnold Smoller Fund", 
   "Date": "1988", 
   "ArtistID": 625, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "167.1988.a-d", 
-  "ArtistBio": "American, born 1940", 
-  "CreditLine": "Arnold Smoller Fund", 
+  "ArtistBio": "(American, born 1940)", 
+  "DateAcquired": "1988-05-04", 
+  "\ufeffTitle": "Fourth Quartet", 
   "ObjectID": "63451"
 }

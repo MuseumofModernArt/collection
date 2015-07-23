@@ -1,12 +1,11 @@
 {
-  "Medium": "Transfer lithograph    Transfer lithograph, printed in black", 
+  "Medium": "Transfer lithograph\r\n\r\nTransfer lithograph, printed in black", 
   "Dimensions": "composition: 12 1/16 x 7 3/8\" (30.7 x 18.7 cm)", 
   "Classification": "Print", 
   "Artist": "Marie Laurencin", 
   "URL": "http://www.moma.org/collection/works/67691", 
   "CuratorApproved": "Y", 
-  "Title": "Gerda", 
-  "DateAcquired": "1940-04-05", 
+  "CreditLine": "Gift of Abby Aldrich Rockefeller", 
   "Date": "1920", 
   "ArtistID": 3408, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "361.1940", 
-  "ArtistBio": "French, 1883\u20131956", 
-  "CreditLine": "Gift of Abby Aldrich Rockefeller", 
+  "ArtistBio": "(French, 1883\u20131956)", 
+  "DateAcquired": "1940-04-05", 
+  "\ufeffTitle": "Gerda", 
   "ObjectID": "67691"
 }

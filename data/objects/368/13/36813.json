@@ -5,8 +5,7 @@
   "Artist": "Amedeo Modigliani", 
   "URL": "http://www.moma.org/collection/works/36813", 
   "CuratorApproved": "Y", 
-  "Title": "Charles Gu\u00e9rin", 
-  "DateAcquired": "1963-10-08", 
+  "CreditLine": "Gift of John S. Newberry in honor of Paul J. Sachs", 
   "Date": "November 11, 1919", 
   "ArtistID": 4038, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "420.1963", 
-  "ArtistBio": "Italian, 1884\u20131920", 
-  "CreditLine": "Gift of John S. Newberry in honor of Paul J. Sachs", 
+  "ArtistBio": "(Italian, 1884\u20131920)", 
+  "DateAcquired": "1963-10-08", 
+  "\ufeffTitle": "Charles Gu\u00e9rin", 
   "ObjectID": "36813"
 }

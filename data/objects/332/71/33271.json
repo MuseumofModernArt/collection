@@ -5,8 +5,7 @@
   "Artist": "Egon Schiele", 
   "URL": "http://www.moma.org/collection/works/33271", 
   "CuratorApproved": "Y", 
-  "Title": "Woman with Slipper", 
-  "DateAcquired": "1957-02-27", 
+  "CreditLine": "Gift of Dr. and Mrs. Otto Kallir", 
   "Date": "1917", 
   "ArtistID": 5215, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "20.1957", 
-  "ArtistBio": "Austrian, 1890\u20131918", 
-  "CreditLine": "Gift of Dr. and Mrs. Otto Kallir", 
+  "ArtistBio": "(Austrian, 1890\u20131918)", 
+  "DateAcquired": "1957-02-27", 
+  "\ufeffTitle": "Woman with Slipper (Frau mit Hausschuh)", 
   "ObjectID": "33271"
 }

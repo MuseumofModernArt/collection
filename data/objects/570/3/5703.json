@@ -5,8 +5,7 @@
   "Artist": "Maurice Denis", 
   "URL": "http://www.moma.org/collection/works/5703", 
   "CuratorApproved": "Y", 
-  "Title": "La D\u00e9p\u00eache de Toulouse", 
-  "DateAcquired": "1968-03-07", 
+  "CreditLine": "Acquired by exchange", 
   "Date": "1892", 
   "ArtistID": 1492, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "212.1968", 
-  "ArtistBio": "French, 1870\u20131943", 
-  "CreditLine": "Acquired by exchange", 
+  "ArtistBio": "(French, 1870\u20131943)", 
+  "DateAcquired": "1968-03-07", 
+  "\ufeffTitle": "La D\u00e9p\u00eache de Toulouse", 
   "ObjectID": "5703"
 }

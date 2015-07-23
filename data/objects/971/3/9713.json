@@ -5,8 +5,7 @@
   "Artist": "Eric Fischl", 
   "URL": "http://www.moma.org/collection/works/9713", 
   "CuratorApproved": "Y", 
-  "Title": "Annie, Gwen, Lilly, Pam and Tulip", 
-  "DateAcquired": "1987-01-15", 
+  "CreditLine": "Mr. and Mrs. Constantine Sidamon-Eristoff Fund", 
   "Date": "1986", 
   "ArtistID": 1889, 
   "Keywords": [
@@ -20,7 +19,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "23.1987.1-9", 
-  "ArtistBio": "American, born 1948", 
-  "CreditLine": "Mr. and Mrs. Constantine Sidamon-Eristoff Fund", 
+  "ArtistBio": "(American, born 1948)", 
+  "DateAcquired": "1987-01-15", 
+  "\ufeffTitle": "Annie, Gwen, Lilly, Pam and Tulip", 
   "ObjectID": "9713"
 }

@@ -5,8 +5,7 @@
   "Artist": "Rosalind Fox Solomon", 
   "URL": "http://www.moma.org/collection/works/50960", 
   "CuratorApproved": "Y", 
-  "Title": "Plastic Wreath, Guatemala", 
-  "DateAcquired": "1987-10-15", 
+  "CreditLine": "Gift of the photographer", 
   "Date": "1978", 
   "ArtistID": 5517, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "330.1987", 
-  "ArtistBio": "American, born 1930", 
-  "CreditLine": "Gift of the photographer", 
+  "ArtistBio": "(American, born 1930)", 
+  "DateAcquired": "1987-10-15", 
+  "\ufeffTitle": "Plastic Wreath, Guatemala", 
   "ObjectID": "50960"
 }

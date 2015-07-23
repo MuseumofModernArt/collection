@@ -5,8 +5,7 @@
   "Artist": "Brice Marden", 
   "URL": "http://www.moma.org/collection/works/36255", 
   "CuratorApproved": "Y", 
-  "Title": "Card Drawing #11 (Counting)", 
-  "DateAcquired": "1983-03-15", 
+  "CreditLine": "Gift of Mrs. June Noble Larkin", 
   "Date": "1982", 
   "ArtistID": 3758, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "317.1983", 
-  "ArtistBio": "American, born 1938", 
-  "CreditLine": "Gift of Mrs. June Noble Larkin", 
+  "ArtistBio": "(American, born 1938)", 
+  "DateAcquired": "1983-03-15", 
+  "\ufeffTitle": "Card Drawing #11 (Counting)", 
   "ObjectID": "36255"
 }

@@ -5,8 +5,7 @@
   "Artist": "Henri Matisse", 
   "URL": "http://www.moma.org/collection/works/59727", 
   "CuratorApproved": "Y", 
-  "Title": "Nu au Bracelet", 
-  "DateAcquired": "1999-11-18", 
+  "CreditLine": "Gift of Eileen and Peter Norton", 
   "Date": "1940", 
   "ArtistID": 3832, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "8.2000", 
-  "ArtistBio": "French, 1869\u20131954", 
-  "CreditLine": "Gift of Eileen and Peter Norton", 
+  "ArtistBio": "(French, 1869\u20131954)", 
+  "DateAcquired": "1999-11-18", 
+  "\ufeffTitle": "Nu au Bracelet", 
   "ObjectID": "59727"
 }

@@ -5,8 +5,7 @@
   "Artist": "\u00c9douard-Denis Baldus", 
   "URL": "http://www.moma.org/collection/works/45498", 
   "CuratorApproved": "Y", 
-  "Title": "La Ciotat", 
-  "DateAcquired": "1988-03-10", 
+  "CreditLine": "Gift of Paul F. Walter", 
   "Date": "before 1859", 
   "ArtistID": 308, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "67.1988", 
-  "ArtistBio": "French, 1813\u20131882", 
-  "CreditLine": "Gift of Paul F. Walter", 
+  "ArtistBio": "(French, 1813\u20131882)", 
+  "DateAcquired": "1988-03-10", 
+  "\ufeffTitle": "La Ciotat", 
   "ObjectID": "45498"
 }

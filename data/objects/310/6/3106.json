@@ -5,8 +5,7 @@
   "Artist": "Sheila Hicks", 
   "URL": "http://www.moma.org/collection/works/3106", 
   "CuratorApproved": "Y", 
-  "Title": "Greta (no. 55)", 
-  "DateAcquired": "1962-11-07", 
+  "CreditLine": "Gift in memory of Greta Daniel and Greta Daniel Design Fund", 
   "Date": "1961", 
   "ArtistID": 2631, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "259.1962", 
-  "ArtistBio": "American, born 1934", 
-  "CreditLine": "Gift in memory of Greta Daniel and Greta Daniel Design Fund", 
+  "ArtistBio": "(American, born 1934)", 
+  "DateAcquired": "1962-11-07", 
+  "\ufeffTitle": "Greta (no. 55)", 
   "ObjectID": "3106"
 }

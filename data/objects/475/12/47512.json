@@ -5,8 +5,7 @@
   "Artist": "Francis Frith", 
   "URL": "http://www.moma.org/collection/works/47512", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1976-04-21", 
+  "CreditLine": "Benjamin Zeller Memorial Fund", 
   "Date": "c. 1890", 
   "ArtistID": 2015, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "178.1976", 
-  "ArtistBio": "British, 1822\u20131898", 
-  "CreditLine": "Benjamin Zeller Memorial Fund", 
+  "ArtistBio": "(British, 1822\u20131898)", 
+  "DateAcquired": "1976-04-21", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "47512"
 }

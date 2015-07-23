@@ -1,12 +1,11 @@
 {
   "Medium": "Albumen silver print (gold-toned), printed 1978 by Chicago Albumen Works", 
-  "Dimensions": "7 1/16 x 9 7/16\" (18 x 24cm)  ", 
+  "Dimensions": "7 1/16 x 9 7/16\" (18 x 24cm)\r\n", 
   "Classification": "Photograph", 
   "Artist": "Eug\u00e8ne Atget", 
   "URL": "http://www.moma.org/collection/works/54255", 
   "CuratorApproved": "Y", 
-  "Title": "Coin de la rue Valette et Panth\u00e9on", 
-  "DateAcquired": "1980-08-07", 
+  "CreditLine": "Modern print by Chicago Albumen Works from the original negative in the Abbott-Levy Collection, The Museum of Modern Art", 
   "Date": "1925", 
   "ArtistID": 229, 
   "Keywords": [
@@ -20,7 +19,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "488.1980", 
-  "ArtistBio": "French, 1857\u20131927", 
-  "CreditLine": "Modern print by Chicago Albumen Works from the original negative in the Abbott-Levy Collection, The Museum of Modern Art", 
+  "ArtistBio": "(French, 1857\u20131927)", 
+  "DateAcquired": "1980-08-07", 
+  "\ufeffTitle": "Coin de la rue Valette et Panth\u00e9on", 
   "ObjectID": "54255"
 }

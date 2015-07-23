@@ -5,8 +5,7 @@
   "Artist": "Felice Beato", 
   "URL": "http://www.moma.org/collection/works/44462", 
   "CuratorApproved": "Y", 
-  "Title": "Name Hui Kung Temple, Canton", 
-  "DateAcquired": "1986-01-15", 
+  "CreditLine": "Gift of Jon Hendricks", 
   "Date": "April 1, 1860", 
   "ArtistID": 416, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "38.1986", 
-  "ArtistBio": "Italian, 1825\u20131903", 
-  "CreditLine": "Gift of Jon Hendricks", 
+  "ArtistBio": "(Italian, 1825\u20131903)", 
+  "DateAcquired": "1986-01-15", 
+  "\ufeffTitle": "Name Hui Kung Temple, Canton", 
   "ObjectID": "44462"
 }

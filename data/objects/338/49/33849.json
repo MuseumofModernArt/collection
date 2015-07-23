@@ -5,8 +5,7 @@
   "Artist": "Duncan Grant", 
   "URL": "http://www.moma.org/collection/works/33849", 
   "CuratorApproved": "Y", 
-  "Title": "Vanessa Bell Painting", 
-  "DateAcquired": "1978-04-04", 
+  "CreditLine": "The Joan and Lester Avnet Collection", 
   "Date": "1918", 
   "ArtistID": 2294, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "93.1978", 
-  "ArtistBio": "British, 1885\u20131978", 
-  "CreditLine": "The Joan and Lester Avnet Collection", 
+  "ArtistBio": "(British, 1885\u20131978)", 
+  "DateAcquired": "1978-04-04", 
+  "\ufeffTitle": "Vanessa Bell Painting", 
   "ObjectID": "33849"
 }

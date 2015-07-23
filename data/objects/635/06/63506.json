@@ -5,8 +5,7 @@
   "Artist": "Henri de Toulouse-Lautrec", 
   "URL": "http://www.moma.org/collection/works/63506", 
   "CuratorApproved": "Y", 
-  "Title": "Woman in Bed, Profile, Awakening (Femme au lit, profil, Au petit lever) from Elles", 
-  "DateAcquired": "1946-07-11", 
+  "CreditLine": "Gift of Abby Aldrich Rockefeller", 
   "Date": "1896", 
   "ArtistID": 5910, 
   "Keywords": [
@@ -20,7 +19,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "170.1946.10", 
-  "ArtistBio": "French, 1864\u20131901", 
-  "CreditLine": "Gift of Abby Aldrich Rockefeller", 
+  "ArtistBio": "(French, 1864\u20131901)", 
+  "DateAcquired": "1946-07-11", 
+  "\ufeffTitle": "Woman in Bed, Profile, Awakening (Femme au lit, profil, Au petit lever) from Elles", 
   "ObjectID": "63506"
 }

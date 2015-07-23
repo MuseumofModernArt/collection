@@ -5,8 +5,7 @@
   "Artist": "Petr Miturich", 
   "URL": "http://www.moma.org/collection/works/16213", 
   "CuratorApproved": "Y", 
-  "Title": "Skaz gramotnym detiam", 
-  "DateAcquired": "2001-01-24", 
+  "CreditLine": "Gift of The Judith Rothschild Foundation", 
   "Date": "1919", 
   "ArtistID": 4030, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "358.2001.1-4", 
-  "ArtistBio": "Russian", 
-  "CreditLine": "Gift of The Judith Rothschild Foundation", 
+  "ArtistBio": "(Russian)", 
+  "DateAcquired": "2001-01-24", 
+  "\ufeffTitle": "Skaz gramotnym detiam", 
   "ObjectID": "16213"
 }

@@ -1,12 +1,11 @@
 {
   "Medium": "One from a portfolio of ten drypoints", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "A.R. Penck (Ralf Winkler)", 
   "URL": "http://www.moma.org/collection/works/69089", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1980-04-23", 
+  "CreditLine": "Purchase", 
   "Date": "1978", 
   "ArtistID": 4546, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "435.1980.8", 
-  "ArtistBio": "German, born 1939", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(German, born 1939)", 
+  "DateAcquired": "1980-04-23", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "69089"
 }

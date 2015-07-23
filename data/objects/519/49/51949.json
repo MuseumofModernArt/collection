@@ -5,8 +5,7 @@
   "Artist": "Eikoh Hosoe", 
   "URL": "http://www.moma.org/collection/works/51949", 
   "CuratorApproved": "Y", 
-  "Title": "Kamaitachi #28", 
-  "DateAcquired": "1972-11-21", 
+  "CreditLine": "Gift of the photographer", 
   "Date": "1968", 
   "ArtistID": 2735, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "370.1972", 
-  "ArtistBio": "Japanese, born 1933", 
-  "CreditLine": "Gift of the photographer", 
+  "ArtistBio": "(Japanese, born 1933)", 
+  "DateAcquired": "1972-11-21", 
+  "\ufeffTitle": "Kamaitachi #28", 
   "ObjectID": "51949"
 }

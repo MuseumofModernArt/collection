@@ -5,8 +5,7 @@
   "Artist": "Manuel \u00c1lvarez Bravo", 
   "URL": "http://www.moma.org/collection/works/56938", 
   "CuratorApproved": "Y", 
-  "Title": "Set Trap", 
-  "DateAcquired": "1978-12-14", 
+  "CreditLine": "Gift of N. Carol Lipis", 
   "Date": "1930s", 
   "ArtistID": 135, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "848.1978.5", 
-  "ArtistBio": "Mexican, 1902\u20132002", 
-  "CreditLine": "Gift of N. Carol Lipis", 
+  "ArtistBio": "(Mexican, 1902\u20132002)", 
+  "DateAcquired": "1978-12-14", 
+  "\ufeffTitle": "Set Trap", 
   "ObjectID": "56938"
 }

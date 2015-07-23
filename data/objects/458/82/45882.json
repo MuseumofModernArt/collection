@@ -5,8 +5,7 @@
   "Artist": "Robert Adams", 
   "URL": "http://www.moma.org/collection/works/45882", 
   "CuratorApproved": "Y", 
-  "Title": "From Lookout Mountain, Colorado", 
-  "DateAcquired": "1972-03-07", 
+  "CreditLine": "David H. McAlpin Fund", 
   "Date": "1970", 
   "ArtistID": 66, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "83.1972", 
-  "ArtistBio": "American, born 1937", 
-  "CreditLine": "David H. McAlpin Fund", 
+  "ArtistBio": "(American, born 1937)", 
+  "DateAcquired": "1972-03-07", 
+  "\ufeffTitle": "From Lookout Mountain, Colorado", 
   "ObjectID": "45882"
 }

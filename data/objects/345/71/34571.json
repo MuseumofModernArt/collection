@@ -5,8 +5,7 @@
   "Artist": "Yves Klein", 
   "URL": "http://www.moma.org/collection/works/34571", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled (fire-color painting)", 
-  "DateAcquired": "1984-04-17", 
+  "CreditLine": "Gift of the Scaler Foundation and purchase", 
   "Date": "(1962)", 
   "ArtistID": 3137, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "133.1984", 
-  "ArtistBio": "French, 1928\u20131962", 
-  "CreditLine": "Gift of the Scaler Foundation and purchase", 
+  "ArtistBio": "(French, 1928\u20131962)", 
+  "DateAcquired": "1984-04-17", 
+  "\ufeffTitle": "Untitled (fire-color painting)", 
   "ObjectID": "34571"
 }

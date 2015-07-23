@@ -5,8 +5,7 @@
   "Artist": "James Ensor", 
   "URL": "http://www.moma.org/collection/works/61983", 
   "CuratorApproved": "Y", 
-  "Title": "Stars in the Cemetery", 
-  "DateAcquired": "1952-05-20", 
+  "CreditLine": "Gift of Abby Aldrich Rockefeller (by exchange)", 
   "Date": "1888", 
   "ArtistID": 1739, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "112.1952", 
-  "ArtistBio": "Belgian, 1860\u20131949", 
-  "CreditLine": "Gift of Abby Aldrich Rockefeller (by exchange)", 
+  "ArtistBio": "(Belgian, 1860\u20131949)", 
+  "DateAcquired": "1952-05-20", 
+  "\ufeffTitle": "Stars in the Cemetery", 
   "ObjectID": "61983"
 }

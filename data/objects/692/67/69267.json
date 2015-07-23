@@ -5,8 +5,7 @@
   "Artist": "Pablo Picasso", 
   "URL": "http://www.moma.org/collection/works/69267", 
   "CuratorApproved": "Y", 
-  "Title": "Weeping Woman", 
-  "DateAcquired": "1999-11-18", 
+  "CreditLine": "Acquired through the generosity of the Katsko Suzuki Memorial Fund, the Riva Castleman Endowment Fund, David Rockefeller, The Philip and Lynn Straus Foundation Fund, and Agnes Gund and Daniel Shapiro; Linda and Bill Goldstein, Mr. and Mrs. Herbert D. Schimmel, the Edward John Noble Foundation, and the Associates of the Department of Prints and Illustrated Books; The Cowles Charitable Trust, Nelson Blitz, Jr. with Catherine Woodard and Perri and Allison Blitz, Mary Ellen Meehan, and Anna Marie and Robert F. Shapiro; and Ruth and Louis Aledort, Carol and Bert Freidus, David S. Orentreich, M.D., and Susan and Peter Ralston", 
   "Date": "July 1, 1937", 
   "ArtistID": 4609, 
   "Keywords": [
@@ -21,7 +20,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "445.1999", 
-  "ArtistBio": "Spanish, 1881\u20131973", 
-  "CreditLine": "Acquired through the generosity of the Katsko Suzuki Memorial Fund, the Riva Castleman Endowment Fund, David Rockefeller, The Philip and Lynn Straus Foundation Fund, and Agnes Gund and Daniel Shapiro; Linda and Bill Goldstein, Mr. and Mrs. Herbert D. Schimmel, the Edward John Noble Foundation, and the Associates of the Department of Prints and Illustrated Books; The Cowles Charitable Trust, Nelson Blitz, Jr. with Catherine Woodard and Perri and Allison Blitz, Mary Ellen Meehan, and Anna Marie and Robert F. Shapiro; and Ruth and Louis Aledort, Carol and Bert Freidus, David S. Orentreich, M.D., and Susan and Peter Ralston", 
+  "ArtistBio": "(Spanish, 1881\u20131973)", 
+  "DateAcquired": "1999-11-18", 
+  "\ufeffTitle": "The Weeping Woman, I (La Femme qui pleure, I), State III", 
   "ObjectID": "69267"
 }

@@ -5,8 +5,7 @@
   "Artist": "Johann Hauser", 
   "URL": "http://www.moma.org/collection/works/59616", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1987-01-15", 
+  "CreditLine": "Purchase", 
   "Date": "(c. 1984-85)", 
   "ArtistID": 2542, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "3.1987", 
-  "ArtistBio": "Czech, born 1926", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(Czech, born 1926)", 
+  "DateAcquired": "1987-01-15", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "59616"
 }

@@ -5,8 +5,7 @@
   "Artist": "George Grosz", 
   "URL": "http://www.moma.org/collection/works/36787", 
   "CuratorApproved": "Y", 
-  "Title": "The Christmas Brothers", 
-  "DateAcquired": "1963-10-08", 
+  "CreditLine": "Gift of Carol O. Selle", 
   "Date": "1917", 
   "ArtistID": 2374, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "414.1963", 
-  "ArtistBio": "American, born Germany. 1893\u20131959", 
-  "CreditLine": "Gift of Carol O. Selle", 
+  "ArtistBio": "(American, born Germany. 1893\u20131959)", 
+  "DateAcquired": "1963-10-08", 
+  "\ufeffTitle": "The Christmas Brothers", 
   "ObjectID": "36787"
 }

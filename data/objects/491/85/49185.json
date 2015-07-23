@@ -5,8 +5,7 @@
   "Artist": "Michael Schmidt", 
   "URL": "http://www.moma.org/collection/works/49185", 
   "CuratorApproved": "Y", 
-  "Title": "Corner, M\u00fcllerstrasse and Seestrasse", 
-  "DateAcquired": "1999-06-10", 
+  "CreditLine": "Gift of the photographer", 
   "Date": "1976-78", 
   "ArtistID": 5238, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "229.1999", 
-  "ArtistBio": "German, 1945\u20132014", 
-  "CreditLine": "Gift of the photographer", 
+  "ArtistBio": "(German, 1945\u20132014)", 
+  "DateAcquired": "1999-06-10", 
+  "\ufeffTitle": "Corner, M\u00fcllerstrasse and Seestrasse", 
   "ObjectID": "49185"
 }

@@ -5,8 +5,7 @@
   "Artist": "Thomas Struth", 
   "URL": "http://www.moma.org/collection/works/49366", 
   "CuratorApproved": "Y", 
-  "Title": "Clinton Road, London", 
-  "DateAcquired": "1999-06-10", 
+  "CreditLine": "Samuel J. Wagstaff, Jr. Fund", 
   "Date": "1977", 
   "ArtistID": 7825, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "238.1999", 
-  "ArtistBio": "German, born 1954", 
-  "CreditLine": "Samuel J. Wagstaff, Jr. Fund", 
+  "ArtistBio": "(German, born 1954)", 
+  "DateAcquired": "1999-06-10", 
+  "\ufeffTitle": "Clinton Road, London", 
   "ObjectID": "49366"
 }

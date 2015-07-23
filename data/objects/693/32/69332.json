@@ -1,12 +1,11 @@
 {
   "Medium": "Lithograph", 
-  "Dimensions": "composition  35 11/16 x 27 3/8\" (90.6 x 69.5 cm)  sheet  41 11/16 x 29 3/8\" (105.9 x 74.6 cm)", 
+  "Dimensions": "composition  35 11/16 x 27 3/8\" (90.6 x 69.5 cm)\r\nsheet  41 11/16 x 29 3/8\" (105.9 x 74.6 cm)", 
   "Classification": "Print", 
   "Artist": "James Rosenquist", 
   "URL": "http://www.moma.org/collection/works/69332", 
   "CuratorApproved": "Y", 
-  "Title": "Marilyn", 
-  "DateAcquired": "1978-05-22", 
+  "CreditLine": "Gift of Peterburg Press, Inc. in memory of Myron Orlofsky", 
   "Date": "1974", 
   "ArtistID": 5021, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "450.1978", 
-  "ArtistBio": "American, born 1933", 
-  "CreditLine": "Gift of Peterburg Press, Inc. in memory of Myron Orlofsky", 
+  "ArtistBio": "(American, born 1933)", 
+  "DateAcquired": "1978-05-22", 
+  "\ufeffTitle": "Marilyn", 
   "ObjectID": "69332"
 }

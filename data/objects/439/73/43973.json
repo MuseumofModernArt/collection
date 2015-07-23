@@ -5,8 +5,7 @@
   "Artist": "William R. Current", 
   "URL": "http://www.moma.org/collection/works/43973", 
   "CuratorApproved": "Y", 
-  "Title": "Entrance to Rockcut Dwelling, Bandelier National Monument", 
-  "DateAcquired": "1965-01-12", 
+  "CreditLine": "Purchase", 
   "Date": "1962", 
   "ArtistID": 1336, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "13.1965", 
-  "ArtistBio": "American, born 1923", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, born 1923)", 
+  "DateAcquired": "1965-01-12", 
+  "\ufeffTitle": "Entrance to Rockcut Dwelling, Bandelier National Monument", 
   "ObjectID": "43973"
 }

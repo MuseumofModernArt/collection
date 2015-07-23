@@ -5,8 +5,7 @@
   "Artist": "Pierre Alechinsky", 
   "URL": "http://www.moma.org/collection/works/59574", 
   "CuratorApproved": "Y", 
-  "Title": "The Cat and the Rooster (Le chat et le coq) from Aesop's Fable (Fables d'\u00c9sope)", 
-  "DateAcquired": "1979-01-23", 
+  "CreditLine": "Gift of the artist", 
   "Date": "1946", 
   "ArtistID": 107, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "1.1979", 
-  "ArtistBio": "Belgian, born 1927", 
-  "CreditLine": "Gift of the artist", 
+  "ArtistBio": "(Belgian, born 1927)", 
+  "DateAcquired": "1979-01-23", 
+  "\ufeffTitle": "The Cat and the Rooster (Le chat et le coq) from Aesop's Fable (Fables d'\u00c9sope)", 
   "ObjectID": "59574"
 }

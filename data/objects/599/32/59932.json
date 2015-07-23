@@ -1,12 +1,11 @@
 {
   "Medium": "Etching", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "Hugh Merrill", 
   "URL": "http://www.moma.org/collection/works/59932", 
   "CuratorApproved": "Y", 
-  "Title": "Views of the Lucky Dragon from the series Voyage of the Lucky Dragon", 
-  "DateAcquired": "1989-01-18", 
+  "CreditLine": "Gift of George L. McKenna", 
   "Date": "1984", 
   "ArtistID": 3938, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "13.1989", 
-  "ArtistBio": "American, born 1949", 
-  "CreditLine": "Gift of George L. McKenna", 
+  "ArtistBio": "(American, born 1949)", 
+  "DateAcquired": "1989-01-18", 
+  "\ufeffTitle": "Views of the Lucky Dragon from the series Voyage of the Lucky Dragon", 
   "ObjectID": "59932"
 }

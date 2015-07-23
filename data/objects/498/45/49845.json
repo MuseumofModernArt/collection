@@ -5,8 +5,7 @@
   "Artist": "O. Winston Link", 
   "URL": "http://www.moma.org/collection/works/49845", 
   "CuratorApproved": "Y", 
-  "Title": "Norfolk and Western Train No. 2, North through Lithia, Virginia", 
-  "DateAcquired": "1976-06-09", 
+  "CreditLine": "Purchase", 
   "Date": "July 13, 1955, 7:11 P.M", 
   "ArtistID": 3561, 
   "Keywords": [
@@ -23,7 +22,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "274.1976", 
-  "ArtistBio": "American, 1914\u20132001", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, 1914\u20132001)", 
+  "DateAcquired": "1976-06-09", 
+  "\ufeffTitle": "Norfolk and Western Train No. 2, North through Lithia, Virginia", 
   "ObjectID": "49845"
 }

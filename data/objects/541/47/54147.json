@@ -1,12 +1,11 @@
 {
   "Medium": "Collotype", 
-  "Dimensions": "5 7/8 x 7 1/2\" (15 x 19.1 cm)  ", 
+  "Dimensions": "5 7/8 x 7 1/2\" (15 x 19.1 cm)\r\n", 
   "Classification": "Photograph", 
   "Artist": "Charles N\u00e8gre", 
   "URL": "http://www.moma.org/collection/works/54147", 
   "CuratorApproved": "Y", 
-  "Title": "The Chimney Sweeps", 
-  "DateAcquired": "1964-05-12", 
+  "CreditLine": "Gift of Andr\u00e9 Jammes", 
   "Date": "1852", 
   "ArtistID": 4254, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "481.1964", 
-  "ArtistBio": "French, 1820\u20131880", 
-  "CreditLine": "Gift of Andr\u00e9 Jammes", 
+  "ArtistBio": "(French, 1820\u20131880)", 
+  "DateAcquired": "1964-05-12", 
+  "\ufeffTitle": "The Chimney Sweeps", 
   "ObjectID": "54147"
 }

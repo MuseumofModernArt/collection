@@ -5,8 +5,7 @@
   "Artist": "Al Lieberman", 
   "URL": "http://www.moma.org/collection/works/45925", 
   "CuratorApproved": "Y", 
-  "Title": "Portage, Wisconsin", 
-  "DateAcquired": "1971-03-02", 
+  "CreditLine": "Purchase", 
   "Date": "1970", 
   "ArtistID": 3545, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "85.1971", 
-  "ArtistBio": "American, born 1939", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, born 1939)", 
+  "DateAcquired": "1971-03-02", 
+  "\ufeffTitle": "Portage, Wisconsin", 
   "ObjectID": "45925"
 }

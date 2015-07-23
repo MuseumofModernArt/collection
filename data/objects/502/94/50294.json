@@ -5,8 +5,7 @@
   "Artist": "Lois Conner", 
   "URL": "http://www.moma.org/collection/works/50294", 
   "CuratorApproved": "Y", 
-  "Title": "Queens, New York", 
-  "DateAcquired": "1991-10-25", 
+  "CreditLine": "Gift of the photographer", 
   "Date": "1990", 
   "ArtistID": 6616, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "304.1991", 
-  "ArtistBio": "American, born 1951", 
-  "CreditLine": "Gift of the photographer", 
+  "ArtistBio": "(American, born 1951)", 
+  "DateAcquired": "1991-10-25", 
+  "\ufeffTitle": "Queens, New York", 
   "ObjectID": "50294"
 }

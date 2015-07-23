@@ -5,8 +5,7 @@
   "Artist": "Paul Rudolph", 
   "URL": "http://www.moma.org/collection/works/561", 
   "CuratorApproved": "Y", 
-  "Title": "Art and Architecture Building, Yale University  New Haven, Connecticut  Partial exterior perspective", 
-  "DateAcquired": "1985-11-18", 
+  "CreditLine": "Gift of the architect", 
   "Date": "1958", 
   "ArtistID": 5076, 
   "Keywords": [
@@ -21,7 +20,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "405.1985", 
-  "ArtistBio": "American, 1918\u20131997", 
-  "CreditLine": "Gift of the architect", 
+  "ArtistBio": "(American, 1918\u20131997)", 
+  "DateAcquired": "1985-11-18", 
+  "\ufeffTitle": "Art and Architecture Building, Yale University, New Haven, Connecticut, Partial exterior perspective", 
   "ObjectID": "561"
 }

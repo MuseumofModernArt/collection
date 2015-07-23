@@ -5,8 +5,7 @@
   "Artist": "Lee Friedlander", 
   "URL": "http://www.moma.org/collection/works/57446", 
   "CuratorApproved": "Y", 
-  "Title": "Mahalia Jackson. Newport, Rhode Island", 
-  "DateAcquired": "2000-10-12", 
+  "CreditLine": "Purchase", 
   "Date": "1957", 
   "ArtistID": 2002, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "996.2000", 
-  "ArtistBio": "American, born 1934", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, born 1934)", 
+  "DateAcquired": "2000-10-12", 
+  "\ufeffTitle": "Mahalia Jackson. Newport, Rhode Island", 
   "ObjectID": "57446"
 }

@@ -5,8 +5,7 @@
   "Artist": "Henri Matisse", 
   "URL": "http://www.moma.org/collection/works/67149", 
   "CuratorApproved": "Y", 
-  "Title": "Young Woman Reclining (Jeune femme au repos)", 
-  "DateAcquired": "1958-12-19", 
+  "CreditLine": "Gift of Mr. and Mrs. E. Powis Jones", 
   "Date": "(1929)", 
   "ArtistID": 3832, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "335.1958", 
-  "ArtistBio": "French, 1869\u20131954", 
-  "CreditLine": "Gift of Mr. and Mrs. E. Powis Jones", 
+  "ArtistBio": "(French, 1869\u20131954)", 
+  "DateAcquired": "1958-12-19", 
+  "\ufeffTitle": "Young Woman Reclining (Jeune femme au repos)", 
   "ObjectID": "67149"
 }

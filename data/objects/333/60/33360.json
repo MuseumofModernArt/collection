@@ -5,8 +5,7 @@
   "Artist": "David Hockney", 
   "URL": "http://www.moma.org/collection/works/33360", 
   "CuratorApproved": "Y", 
-  "Title": "Czar", 
-  "DateAcquired": "1969-02-10", 
+  "CreditLine": "Celeste and Armand Bartos Foundation", 
   "Date": "(1966)", 
   "ArtistID": 2678, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "27.1969", 
-  "ArtistBio": "British, born 1937", 
-  "CreditLine": "Celeste and Armand Bartos Foundation", 
+  "ArtistBio": "(British, born 1937)", 
+  "DateAcquired": "1969-02-10", 
+  "\ufeffTitle": "Czar", 
   "ObjectID": "33360"
 }

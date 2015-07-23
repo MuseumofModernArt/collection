@@ -5,8 +5,7 @@
   "Artist": "Jan Lenica", 
   "URL": "http://www.moma.org/collection/works/4866", 
   "CuratorApproved": "Y", 
-  "Title": "Cena Strachu", 
-  "DateAcquired": "1960-04-06", 
+  "CreditLine": "Gift of Mr. and Mrs. Jerzy Michalowski", 
   "Date": "1958", 
   "ArtistID": 3480, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "53.1960", 
-  "ArtistBio": "Polish, 1928\u20132001", 
-  "CreditLine": "Gift of Mr. and Mrs. Jerzy Michalowski", 
+  "ArtistBio": "(Polish, 1928\u20132001)", 
+  "DateAcquired": "1960-04-06", 
+  "\ufeffTitle": "Cena Strachu", 
   "ObjectID": "4866"
 }

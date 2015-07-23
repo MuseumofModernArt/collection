@@ -5,8 +5,7 @@
   "Artist": "Frank O. Gehry", 
   "URL": "http://www.moma.org/collection/works/3592", 
   "CuratorApproved": "Y", 
-  "Title": "Power Play Armchair", 
-  "DateAcquired": "1992-10-21", 
+  "CreditLine": "Gift of the designer and the manufacturer", 
   "Date": "1991", 
   "ArtistID": 2108, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "436.1992", 
-  "ArtistBio": "American, born Canada 1929", 
-  "CreditLine": "Gift of the designer and the manufacturer", 
+  "ArtistBio": "(American, born Canada 1929)", 
+  "DateAcquired": "1992-10-21", 
+  "\ufeffTitle": "Power Play Armchair", 
   "ObjectID": "3592"
 }

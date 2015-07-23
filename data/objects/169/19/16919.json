@@ -1,12 +1,11 @@
 {
-  "Medium": "Aquatint and drypoint with roulette over photogravure  ", 
+  "Medium": "Aquatint and drypoint with roulette over photogravure\r\n", 
   "Dimensions": "plate: 23 1/8 x 17 1/2\" (58.8 x 44.4 cm); sheet (irreg.): 25 9/16 x 19 13/16\" (65 x 50.4 cm)", 
   "Classification": "Illustrated Book", 
   "Artist": "Georges Rouault", 
   "URL": "http://www.moma.org/collection/works/16919", 
   "CuratorApproved": "Y", 
-  "Title": "Trial proof for \"Arise, Ye Dead!,\" plate LIV from Miserere", 
-  "DateAcquired": "1949-09-29", 
+  "CreditLine": "Gift of the artist", 
   "Date": "(Book commissioned, but unpublished by Vollard;  Print executed 1927; Book publi", 
   "ArtistID": 5053, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "416.1949", 
-  "ArtistBio": "French, 1871\u20131958", 
-  "CreditLine": "Gift of the artist", 
+  "ArtistBio": "(French, 1871\u20131958)", 
+  "DateAcquired": "1949-09-29", 
+  "\ufeffTitle": "Trial proof for \"Arise, Ye Dead!,\" plate LIV from Miserere", 
   "ObjectID": "16919"
 }

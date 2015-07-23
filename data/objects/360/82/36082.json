@@ -5,8 +5,7 @@
   "Artist": "Robert Delaunay", 
   "URL": "http://www.moma.org/collection/works/36082", 
   "CuratorApproved": "Y", 
-  "Title": "Portrait of Iliazd", 
-  "DateAcquired": "1980-01-15", 
+  "CreditLine": "Purchase", 
   "Date": "1922", 
   "ArtistID": 1479, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "299.1980", 
-  "ArtistBio": "French, 1885\u20131941", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(French, 1885\u20131941)", 
+  "DateAcquired": "1980-01-15", 
+  "\ufeffTitle": "Portrait of Iliazd", 
   "ObjectID": "36082"
 }

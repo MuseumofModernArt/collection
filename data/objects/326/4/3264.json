@@ -5,8 +5,7 @@
   "Artist": "Hector Guimard", 
   "URL": "http://www.moma.org/collection/works/3264", 
   "CuratorApproved": "Y", 
-  "Title": "Armchair", 
-  "DateAcquired": "1949-05-26", 
+  "CreditLine": "Gift of Madame Hector Guimard", 
   "Date": "c. 1899-1900", 
   "ArtistID": 2407, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "311.1949", 
-  "ArtistBio": "French, 1867\u20131942", 
-  "CreditLine": "Gift of Madame Hector Guimard", 
+  "ArtistBio": "(French, 1867\u20131942)", 
+  "DateAcquired": "1949-05-26", 
+  "\ufeffTitle": "Armchair", 
   "ObjectID": "3264"
 }

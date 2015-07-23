@@ -5,8 +5,7 @@
   "Artist": "Jerome Liebling", 
   "URL": "http://www.moma.org/collection/works/52510", 
   "CuratorApproved": "Y", 
-  "Title": "Mission Sign, Skid Row, Minneapolis", 
-  "DateAcquired": "1997-10-09", 
+  "CreditLine": "Gift of Jane Katcher in honor of Agnes Gund", 
   "Date": "1959", 
   "ArtistID": 3549, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "395.1997", 
-  "ArtistBio": "American, 1924\u20132011", 
-  "CreditLine": "Gift of Jane Katcher in honor of Agnes Gund", 
+  "ArtistBio": "(American, 1924\u20132011)", 
+  "DateAcquired": "1997-10-09", 
+  "\ufeffTitle": "Mission Sign, Skid Row, Minneapolis", 
   "ObjectID": "52510"
 }

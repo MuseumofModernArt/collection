@@ -5,8 +5,7 @@
   "Artist": "Pablo Picasso", 
   "URL": "http://www.moma.org/collection/works/34805", 
   "CuratorApproved": "Y", 
-  "Title": "Burning Logs", 
-  "DateAcquired": "1978-04-04", 
+  "CreditLine": "The Joan and Lester Avnet Collection", 
   "Date": "January 4, 1945", 
   "ArtistID": 4609, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "150.1978", 
-  "ArtistBio": "Spanish, 1881\u20131973", 
-  "CreditLine": "The Joan and Lester Avnet Collection", 
+  "ArtistBio": "(Spanish, 1881\u20131973)", 
+  "DateAcquired": "1978-04-04", 
+  "\ufeffTitle": "Burning Logs", 
   "ObjectID": "34805"
 }

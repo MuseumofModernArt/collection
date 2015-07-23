@@ -1,12 +1,11 @@
 {
   "Medium": "Lithograph", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "Pierre Clerk", 
   "URL": "http://www.moma.org/collection/works/63334", 
   "CuratorApproved": "Y", 
-  "Title": "Mesquite", 
-  "DateAcquired": "1973-05-07", 
+  "CreditLine": "Gift of Lila Clerk", 
   "Date": "(1973)", 
   "ArtistID": 1148, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "162.1973", 
-  "ArtistBio": "Canadian, born U.S.A. 1928", 
-  "CreditLine": "Gift of Lila Clerk", 
+  "ArtistBio": "(Canadian, born U.S.A. 1928)", 
+  "DateAcquired": "1973-05-07", 
+  "\ufeffTitle": "Mesquite", 
   "ObjectID": "63334"
 }

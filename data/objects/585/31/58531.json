@@ -5,8 +5,7 @@
   "Artist": "William H. Gallagher/Associated Press", 
   "URL": "http://www.moma.org/collection/works/58531", 
   "CuratorApproved": "Y", 
-  "Title": "Worn out", 
-  "DateAcquired": "2001-06-14", 
+  "CreditLine": "The New York Times Collection", 
   "Date": "September 2, 1952", 
   "ArtistID": 8507, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "1938.2001", 
-  "ArtistBio": "Nationality unknown", 
-  "CreditLine": "The New York Times Collection", 
+  "ArtistBio": "(Nationality unknown)", 
+  "DateAcquired": "2001-06-14", 
+  "\ufeffTitle": "\"Worn out\"", 
   "ObjectID": "58531"
 }

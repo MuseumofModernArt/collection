@@ -5,8 +5,7 @@
   "Artist": "Marcel Broodthaers", 
   "URL": "http://www.moma.org/collection/works/65032", 
   "CuratorApproved": "Y", 
-  "Title": "Museum-Museum", 
-  "DateAcquired": "1991-10-16", 
+  "CreditLine": "The Associates Fund", 
   "Date": "1972", 
   "ArtistID": 795, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "240.1991.a-b", 
-  "ArtistBio": "Belgian, 1924\u20131976", 
-  "CreditLine": "The Associates Fund", 
+  "ArtistBio": "(Belgian, 1924\u20131976)", 
+  "DateAcquired": "1991-10-16", 
+  "\ufeffTitle": "Museum-Museum", 
   "ObjectID": "65032"
 }

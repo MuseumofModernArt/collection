@@ -5,8 +5,7 @@
   "Artist": "G\u00fcnther F\u00f6rg", 
   "URL": "http://www.moma.org/collection/works/59691", 
   "CuratorApproved": "Y", 
-  "Title": "Room 1987 (Raum 1987)", 
-  "DateAcquired": "1989-01-18", 
+  "CreditLine": "Walter Bareiss Fund", 
   "Date": "1987", 
   "ArtistID": 1940, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "6.1989.1-12", 
-  "ArtistBio": "German, 1952\u20132013", 
-  "CreditLine": "Walter Bareiss Fund", 
+  "ArtistBio": "(German, 1952\u20132013)", 
+  "DateAcquired": "1989-01-18", 
+  "\ufeffTitle": "Room 1987 (Raum 1987)", 
   "ObjectID": "59691"
 }

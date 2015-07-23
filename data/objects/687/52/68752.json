@@ -5,8 +5,7 @@
   "Artist": "Louise Bourgeois", 
   "URL": "http://www.moma.org/collection/works/68752", 
   "CuratorApproved": "Y", 
-  "Title": "Topiary: The Art of Improving Nature", 
-  "DateAcquired": "1999-11-18", 
+  "CreditLine": "Gift of the artist", 
   "Date": "1998", 
   "ArtistID": 710, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "416.1999.1-9", 
-  "ArtistBio": "American, born France. 1911\u20132010", 
-  "CreditLine": "Gift of the artist", 
+  "ArtistBio": "(American, born France. 1911\u20132010)", 
+  "DateAcquired": "1999-11-18", 
+  "\ufeffTitle": "Topiary: The Art of Improving Nature", 
   "ObjectID": "68752"
 }

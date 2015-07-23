@@ -5,8 +5,7 @@
   "Artist": "Underwood and Underwood", 
   "URL": "http://www.moma.org/collection/works/58804", 
   "CuratorApproved": "Y", 
-  "Title": "Firing Squad, Vicennes, France", 
-  "DateAcquired": "2001-06-14", 
+  "CreditLine": "The New York Times Collection", 
   "Date": "May 16, 1920", 
   "ArtistID": 6008, 
   "Keywords": [
@@ -20,7 +19,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "2211.2001", 
-  "ArtistBio": "American, active 1880\u20131934", 
-  "CreditLine": "The New York Times Collection", 
+  "ArtistBio": "(American, active 1880\u20131934)", 
+  "DateAcquired": "2001-06-14", 
+  "\ufeffTitle": "Firing Squad, Vicennes, France", 
   "ObjectID": "58804"
 }

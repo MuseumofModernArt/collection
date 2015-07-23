@@ -5,8 +5,7 @@
   "Artist": "Oskar Schlemmer", 
   "URL": "http://www.moma.org/collection/works/6912", 
   "CuratorApproved": "Y", 
-  "Title": "Poster for the Neuer Kunstsalon, Stuttgart", 
-  "DateAcquired": "1985-11-18", 
+  "CreditLine": "Gift of The Lauder Foundation, Leonard and Evelyn Lauder Fund", 
   "Date": "1913", 
   "ArtistID": 5219, 
   "Keywords": [
@@ -20,7 +19,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "433.1985", 
-  "ArtistBio": "German, 1888\u20131943", 
-  "CreditLine": "Gift of The Lauder Foundation, Leonard and Evelyn Lauder Fund", 
+  "ArtistBio": "(German, 1888\u20131943)", 
+  "DateAcquired": "1985-11-18", 
+  "\ufeffTitle": "Poster for the Neuer Kunstsalon, Stuttgart (Plakat, Neuer Kunstsalon, Stuttgart)", 
   "ObjectID": "6912"
 }

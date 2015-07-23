@@ -5,8 +5,7 @@
   "Artist": "Jacques Nathan-Garamond", 
   "URL": "http://www.moma.org/collection/works/7188", 
   "CuratorApproved": "Y", 
-  "Title": "Exposition Formes Utiles, Union des Artistes Modernes", 
-  "DateAcquired": "1951-05-24", 
+  "CreditLine": "Gift of the artist", 
   "Date": "1949", 
   "ArtistID": 4236, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "481.1951", 
-  "ArtistBio": "French, 1910\u20132001", 
-  "CreditLine": "Gift of the artist", 
+  "ArtistBio": "(French, 1910\u20132001)", 
+  "DateAcquired": "1951-05-24", 
+  "\ufeffTitle": "Exposition Formes Utiles, Union des Artistes Modernes", 
   "ObjectID": "7188"
 }

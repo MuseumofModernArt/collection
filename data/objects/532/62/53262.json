@@ -5,8 +5,7 @@
   "Artist": "Jean Boucher", 
   "URL": "http://www.moma.org/collection/works/53262", 
   "CuratorApproved": "Y", 
-  "Title": "Rowboat under Snow", 
-  "DateAcquired": "1960-11-30", 
+  "CreditLine": "Gift of the photographer", 
   "Date": "January 1953", 
   "ArtistID": 700, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "429.1960", 
-  "ArtistBio": "French", 
-  "CreditLine": "Gift of the photographer", 
+  "ArtistBio": "(French)", 
+  "DateAcquired": "1960-11-30", 
+  "\ufeffTitle": "Rowboat under Snow", 
   "ObjectID": "53262"
 }

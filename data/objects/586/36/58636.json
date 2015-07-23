@@ -5,8 +5,7 @@
   "Artist": "Arturo Mari/L'Osservatore Romano", 
   "URL": "http://www.moma.org/collection/works/58636", 
   "CuratorApproved": "Y", 
-  "Title": "Pope John Paul II Moments After Being Shot", 
-  "DateAcquired": "2001-06-14", 
+  "CreditLine": "The New York Times Collection", 
   "Date": "1981", 
   "ArtistID": 8576, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "2043.2001", 
-  "ArtistBio": "Italian", 
-  "CreditLine": "The New York Times Collection", 
+  "ArtistBio": "(Italian)", 
+  "DateAcquired": "2001-06-14", 
+  "\ufeffTitle": "\"Pope John Paul II Moments After Being Shot\"", 
   "ObjectID": "58636"
 }

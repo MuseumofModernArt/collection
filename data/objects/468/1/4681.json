@@ -1,12 +1,11 @@
 {
   "Medium": "Stainless steel", 
-  "Dimensions": ".1 (fork): l. 6 3/8\" (16.2 cm)  .2 (soup spoon): l. 6 1/2\" (16.5 cm)  .3 (teaspoon): l. 5 1/4\" (13.3 cm)  .4 (coffee spoon): l. 4 1/4\" (10.8 cm)  .5 (knife): l. 6 3/4\" (17.2 cm)", 
+  "Dimensions": ".1 (fork): l. 6 3/8\" (16.2 cm)\r\n.2 (soup spoon): l. 6 1/2\" (16.5 cm)\r\n.3 (teaspoon): l. 5 1/4\" (13.3 cm)\r\n.4 (coffee spoon): l. 4 1/4\" (10.8 cm)\r\n.5 (knife): l. 6 3/4\" (17.2 cm)", 
   "Classification": "A&D Design", 
   "Artist": "Sigurd Persson", 
   "URL": "http://www.moma.org/collection/works/4681", 
   "CuratorApproved": "Y", 
-  "Title": "Jet Line Cutlery", 
-  "DateAcquired": "2001-04-30", 
+  "CreditLine": "Given anonymously", 
   "Date": "1959", 
   "ArtistID": 7355, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "1318.2001.1-5", 
-  "ArtistBio": "Swedish, born 1914", 
-  "CreditLine": "Given anonymously", 
+  "ArtistBio": "(Swedish, born 1914)", 
+  "DateAcquired": "2001-04-30", 
+  "\ufeffTitle": "Jet Line Cutlery", 
   "ObjectID": "4681"
 }

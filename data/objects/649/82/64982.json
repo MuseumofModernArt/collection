@@ -1,12 +1,11 @@
 {
   "Medium": "Etching", 
-  "Dimensions": "plate  23 11/16 x 23 13/16\" (60.1 x 60.5 cm)  sheet  27 15/16 x 27 11/16\" (71 x 70.3 cm)", 
+  "Dimensions": "plate  23 11/16 x 23 13/16\" (60.1 x 60.5 cm)\r\nsheet  27 15/16 x 27 11/16\" (71 x 70.3 cm)", 
   "Classification": "Print", 
   "Artist": "Ralph Humphrey", 
   "URL": "http://www.moma.org/collection/works/64982", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled from the portfolio Night Moods", 
-  "DateAcquired": "1982-10-26", 
+  "CreditLine": "John B. Turner Fund", 
   "Date": "1983", 
   "ArtistID": 2765, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "238.1982.2", 
-  "ArtistBio": "American, 1932\u20131990", 
-  "CreditLine": "John B. Turner Fund", 
+  "ArtistBio": "(American, 1932\u20131990)", 
+  "DateAcquired": "1982-10-26", 
+  "\ufeffTitle": "Untitled from the portfolio Night Moods", 
   "ObjectID": "64982"
 }

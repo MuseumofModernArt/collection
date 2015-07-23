@@ -5,8 +5,7 @@
   "Artist": "Giuseppe Santomaso", 
   "URL": "http://www.moma.org/collection/works/13199", 
   "CuratorApproved": "Y", 
-  "Title": "An Angle", 
-  "DateAcquired": "1973-05-07", 
+  "CreditLine": "Monroe Wheeler Fund", 
   "Date": "1972", 
   "ArtistID": 5160, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "186.1973.1-7", 
-  "ArtistBio": "Italian, 1907\u20131990", 
-  "CreditLine": "Monroe Wheeler Fund", 
+  "ArtistBio": "(Italian, 1907\u20131990)", 
+  "DateAcquired": "1973-05-07", 
+  "\ufeffTitle": "An Angle", 
   "ObjectID": "13199"
 }

@@ -5,8 +5,7 @@
   "Artist": "Dieter Rams", 
   "URL": "http://www.moma.org/collection/works/4133", 
   "CuratorApproved": "Y", 
-  "Title": "Portable Transistor Radio (model T 24)", 
-  "DateAcquired": "1965-06-08", 
+  "CreditLine": "Gift of the manufacturer", 
   "Date": "1956", 
   "ArtistID": 8451, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "594.1965", 
-  "ArtistBio": "German, born 1932", 
-  "CreditLine": "Gift of the manufacturer", 
+  "ArtistBio": "(German, born 1932)", 
+  "DateAcquired": "1965-06-08", 
+  "\ufeffTitle": "Portable Transistor Radio (model T 24)", 
   "ObjectID": "4133"
 }

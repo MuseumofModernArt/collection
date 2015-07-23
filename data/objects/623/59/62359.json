@@ -5,8 +5,7 @@
   "Artist": "Frank Stella", 
   "URL": "http://www.moma.org/collection/works/62359", 
   "CuratorApproved": "Y", 
-  "Title": "The Funeral from the series Moby Dick Engravings", 
-  "DateAcquired": "1991-05-22", 
+  "CreditLine": "Gift of Tyler Graphics Ltd.", 
   "Date": "1991", 
   "ArtistID": 5640, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "127.1991", 
-  "ArtistBio": "American, born 1936", 
-  "CreditLine": "Gift of Tyler Graphics Ltd.", 
+  "ArtistBio": "(American, born 1936)", 
+  "DateAcquired": "1991-05-22", 
+  "\ufeffTitle": "The Funeral from the series Moby Dick Engravings", 
   "ObjectID": "62359"
 }

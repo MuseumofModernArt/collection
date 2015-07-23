@@ -5,8 +5,7 @@
   "Artist": "Bernard Tschumi", 
   "URL": "http://www.moma.org/collection/works/625", 
   "CuratorApproved": "Y", 
-  "Title": "Parc de la Villette, Paris, France  Follies and Galleries  Isometrics", 
-  "DateAcquired": "1992-10-21", 
+  "CreditLine": "Purchase", 
   "Date": "1986", 
   "ArtistID": 7056, 
   "Keywords": [
@@ -21,7 +20,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "429.1992", 
-  "ArtistBio": "French and Swiss, born Switzerland 1944", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(French and Swiss, born Switzerland 1944)", 
+  "DateAcquired": "1992-10-21", 
+  "\ufeffTitle": "Parc de la Villette, Paris, France, Follies and Galleries, Isometrics", 
   "ObjectID": "625"
 }

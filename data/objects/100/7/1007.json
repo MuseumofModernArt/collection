@@ -5,8 +5,7 @@
   "Artist": "Ludwig Mies van der Rohe", 
   "URL": "http://www.moma.org/collection/works/1007", 
   "CuratorApproved": "Y", 
-  "Title": "Column Cover for the German Pavilion, International Exposition, Barcelona, Spain", 
-  "DateAcquired": "1986-10-07", 
+  "CreditLine": "Purchase", 
   "Date": "1928-29", 
   "ArtistID": 7166, 
   "Keywords": [
@@ -20,7 +19,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "262.1986", 
-  "ArtistBio": "American, born Germany. 1886\u20131969", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, born Germany. 1886\u20131969)", 
+  "DateAcquired": "1986-10-07", 
+  "\ufeffTitle": "Column Cover for the German Pavilion, International Exposition, Barcelona, Spain", 
   "ObjectID": "1007"
 }

@@ -1,12 +1,11 @@
 {
   "Medium": "Four etchings, with lead collage", 
-  "Dimensions": "each plate  15 9/16 x 24\" (39.5 x 61 cm)  each sheet  20 9/16 x 28 1/2\" (52.2 x 72.4 cm)", 
+  "Dimensions": "each plate  15 9/16 x 24\" (39.5 x 61 cm)\r\neach sheet  20 9/16 x 28 1/2\" (52.2 x 72.4 cm)", 
   "Classification": "Print", 
   "Artist": "Joel Bass", 
   "URL": "http://www.moma.org/collection/works/67904", 
   "CuratorApproved": "Y", 
-  "Title": "Verticals", 
-  "DateAcquired": "1974-09-11", 
+  "CreditLine": "John B. Turner Fund", 
   "Date": "1974", 
   "ArtistID": 371, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "368.1974.1-4", 
-  "ArtistBio": "American, born 1943", 
-  "CreditLine": "John B. Turner Fund", 
+  "ArtistBio": "(American, born 1943)", 
+  "DateAcquired": "1974-09-11", 
+  "\ufeffTitle": "Verticals", 
   "ObjectID": "67904"
 }

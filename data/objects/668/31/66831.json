@@ -5,8 +5,7 @@
   "Artist": "Eduardo Vilches", 
   "URL": "http://www.moma.org/collection/works/66831", 
   "CuratorApproved": "Y", 
-  "Title": "Signs", 
-  "DateAcquired": "1969-04-16", 
+  "CreditLine": "Inter-American Fund", 
   "Date": "(1968)", 
   "ArtistID": 6161, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "318.1969", 
-  "ArtistBio": "Chilean", 
-  "CreditLine": "Inter-American Fund", 
+  "ArtistBio": "(Chilean)", 
+  "DateAcquired": "1969-04-16", 
+  "\ufeffTitle": "Signs", 
   "ObjectID": "66831"
 }

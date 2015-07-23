@@ -5,8 +5,7 @@
   "Artist": "Paul Martin", 
   "URL": "http://www.moma.org/collection/works/52277", 
   "CuratorApproved": "Y", 
-  "Title": "Ice-Cream Barrow, \"An Altercation\"", 
-  "DateAcquired": "1938-10-20", 
+  "CreditLine": "Gift of the photographer", 
   "Date": "1893-96", 
   "ArtistID": 3795, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "385.1938", 
-  "ArtistBio": "British, 1864\u20131944", 
-  "CreditLine": "Gift of the photographer", 
+  "ArtistBio": "(British, 1864\u20131944)", 
+  "DateAcquired": "1938-10-20", 
+  "\ufeffTitle": "Ice-Cream Barrow, \"An Altercation\"", 
   "ObjectID": "52277"
 }

@@ -5,8 +5,7 @@
   "Artist": "Christian Rohlfs", 
   "URL": "http://www.moma.org/collection/works/68128", 
   "CuratorApproved": "Y", 
-  "Title": "Linoleum block for Benediction", 
-  "DateAcquired": "1958-12-19", 
+  "CreditLine": "Gift of Frau Christian Rohlfs", 
   "Date": "(c. 1912)", 
   "ArtistID": 5000, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "381.1958", 
-  "ArtistBio": "German, 1849\u20131938", 
-  "CreditLine": "Gift of Frau Christian Rohlfs", 
+  "ArtistBio": "(German, 1849\u20131938)", 
+  "DateAcquired": "1958-12-19", 
+  "\ufeffTitle": "Linoleum block for Benediction (Segen)", 
   "ObjectID": "68128"
 }

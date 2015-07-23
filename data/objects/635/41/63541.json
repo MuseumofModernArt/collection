@@ -5,8 +5,7 @@
   "Artist": "Raoul Dufy", 
   "URL": "http://www.moma.org/collection/works/63541", 
   "CuratorApproved": "Y", 
-  "Title": "Henriette", 
-  "DateAcquired": "1957-10-09", 
+  "CreditLine": "Gift of Mr. and Mrs. Walter Bareiss", 
   "Date": "(1927)", 
   "ArtistID": 1646, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "171.1957", 
-  "ArtistBio": "French, 1877\u20131953", 
-  "CreditLine": "Gift of Mr. and Mrs. Walter Bareiss", 
+  "ArtistBio": "(French, 1877\u20131953)", 
+  "DateAcquired": "1957-10-09", 
+  "\ufeffTitle": "Henriette", 
   "ObjectID": "63541"
 }

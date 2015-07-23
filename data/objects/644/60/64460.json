@@ -5,8 +5,7 @@
   "Artist": "Francesco Clemente", 
   "URL": "http://www.moma.org/collection/works/64460", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1984-10-02", 
+  "CreditLine": "Gift of Elinor and Edmund Grasheim through the Associates", 
   "Date": "(1984)", 
   "ArtistID": 1145, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "210.1984", 
-  "ArtistBio": "Italian, born 1952", 
-  "CreditLine": "Gift of Elinor and Edmund Grasheim through the Associates", 
+  "ArtistBio": "(Italian, born 1952)", 
+  "DateAcquired": "1984-10-02", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "64460"
 }

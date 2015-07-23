@@ -5,8 +5,7 @@
   "Artist": "Massimo Scolari", 
   "URL": "http://www.moma.org/collection/works/918", 
   "CuratorApproved": "Y", 
-  "Title": "Urban Passage Project  Axonometric", 
-  "DateAcquired": "2000-10-31", 
+  "CreditLine": "Gift of The Howard Gilman Foundation", 
   "Date": "1974", 
   "ArtistID": 8125, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "1293.2000", 
-  "ArtistBio": "Italian, born 1943", 
-  "CreditLine": "Gift of The Howard Gilman Foundation", 
+  "ArtistBio": "(Italian, born 1943)", 
+  "DateAcquired": "2000-10-31", 
+  "\ufeffTitle": "Urban Passage Project, Axonometric", 
   "ObjectID": "918"
 }

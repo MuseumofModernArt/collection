@@ -5,8 +5,7 @@
   "Artist": "Frank Newbould", 
   "URL": "http://www.moma.org/collection/works/6068", 
   "CuratorApproved": "Y", 
-  "Title": "Tighten Your Grip!", 
-  "DateAcquired": "1943-05-12", 
+  "CreditLine": "Gift of Mrs. John Carter", 
   "Date": "c.1942", 
   "ArtistID": 8385, 
   "Keywords": [
@@ -16,7 +15,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "284.1943", 
-  "ArtistBio": "British, 1887\u20131951", 
-  "CreditLine": "Gift of Mrs. John Carter", 
+  "ArtistBio": "(British, 1887\u20131951)", 
+  "DateAcquired": "1943-05-12", 
+  "\ufeffTitle": "Tighten Your Grip!", 
   "ObjectID": "6068"
 }

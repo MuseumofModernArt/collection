@@ -5,8 +5,7 @@
   "Artist": "Emil Nolde", 
   "URL": "http://www.moma.org/collection/works/65982", 
   "CuratorApproved": "Y", 
-  "Title": "Profile of a Woman", 
-  "DateAcquired": "1952-11-07", 
+  "CreditLine": "Larry Aldrich Fund", 
   "Date": "(1907)", 
   "ArtistID": 4327, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "283.1952", 
-  "ArtistBio": "German, 1867\u20131956", 
-  "CreditLine": "Larry Aldrich Fund", 
+  "ArtistBio": "(German, 1867\u20131956)", 
+  "DateAcquired": "1952-11-07", 
+  "\ufeffTitle": "Profile of a Woman (Frauenprofil)", 
   "ObjectID": "65982"
 }

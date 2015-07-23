@@ -5,8 +5,7 @@
   "Artist": "Tadanori Yokoo", 
   "URL": "http://www.moma.org/collection/works/6067", 
   "CuratorApproved": "Y", 
-  "Title": "LaChapelle Land, Photographs by David LaChapelle", 
-  "DateAcquired": "1998-04-22", 
+  "CreditLine": "Gift of the designer", 
   "Date": "1996", 
   "ArtistID": 6502, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "283.1998", 
-  "ArtistBio": "Japanese, born 1936", 
-  "CreditLine": "Gift of the designer", 
+  "ArtistBio": "(Japanese, born 1936)", 
+  "DateAcquired": "1998-04-22", 
+  "\ufeffTitle": "LaChapelle Land, Photographs by David LaChapelle", 
   "ObjectID": "6067"
 }

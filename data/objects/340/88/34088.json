@@ -5,8 +5,7 @@
   "Artist": "Jean Cortot", 
   "URL": "http://www.moma.org/collection/works/34088", 
   "CuratorApproved": "Y", 
-  "Title": "Homage \u00e0 William Blake", 
-  "DateAcquired": "1986-02-27", 
+  "CreditLine": "Gift of Constance B. Cartwright", 
   "Date": "1985", 
   "ArtistID": 1257, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "113.1986", 
-  "ArtistBio": "French, born 1925", 
-  "CreditLine": "Gift of Constance B. Cartwright", 
+  "ArtistBio": "(French, born 1925)", 
+  "DateAcquired": "1986-02-27", 
+  "\ufeffTitle": "Homage \u00e0 William Blake", 
   "ObjectID": "34088"
 }

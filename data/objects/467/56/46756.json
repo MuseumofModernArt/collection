@@ -5,8 +5,7 @@
   "Artist": "John Coplans", 
   "URL": "http://www.moma.org/collection/works/46756", 
   "CuratorApproved": "Y", 
-  "Title": "Self Portrait", 
-  "DateAcquired": "1986-03-20", 
+  "CreditLine": "Gift of Peter MacGill", 
   "Date": "1985", 
   "ArtistID": 1237, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "133.1986", 
-  "ArtistBio": "British, 1920\u20132003", 
-  "CreditLine": "Gift of Peter MacGill", 
+  "ArtistBio": "(British, 1920\u20132003)", 
+  "DateAcquired": "1986-03-20", 
+  "\ufeffTitle": "Self Portrait", 
   "ObjectID": "46756"
 }

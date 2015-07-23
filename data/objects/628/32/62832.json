@@ -5,8 +5,7 @@
   "Artist": "Egon Schiele", 
   "URL": "http://www.moma.org/collection/works/62832", 
   "CuratorApproved": "Y", 
-  "Title": "Portrait of a Man from The Graphic Work of Egon Schiele", 
-  "DateAcquired": "1982-05-05", 
+  "CreditLine": "Gift of The Lauder Foundation", 
   "Date": "(1914, published 1922)", 
   "ArtistID": 5215, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "140.1982.8", 
-  "ArtistBio": "Austrian, 1890\u20131918", 
-  "CreditLine": "Gift of The Lauder Foundation", 
+  "ArtistBio": "(Austrian, 1890\u20131918)", 
+  "DateAcquired": "1982-05-05", 
+  "\ufeffTitle": "Portrait of a Man (M\u00e4nnliches Bildnis) from The Graphic Work of Egon Schiele (Das Graphische Werk von Egon Schiele)", 
   "ObjectID": "62832"
 }

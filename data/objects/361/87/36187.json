@@ -5,8 +5,7 @@
   "Artist": "Helen Torr", 
   "URL": "http://www.moma.org/collection/works/36187", 
   "CuratorApproved": "Y", 
-  "Title": "Basket of Vegetables", 
-  "DateAcquired": "1978-04-04", 
+  "CreditLine": "Gift of Alice C. Simkins in memory of Alice Nicholson Hanszen", 
   "Date": "(1928-29)", 
   "ArtistID": 5904, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "309.1978", 
-  "ArtistBio": "American, 1886\u20131967", 
-  "CreditLine": "Gift of Alice C. Simkins in memory of Alice Nicholson Hanszen", 
+  "ArtistBio": "(American, 1886\u20131967)", 
+  "DateAcquired": "1978-04-04", 
+  "\ufeffTitle": "Basket of Vegetables", 
   "ObjectID": "36187"
 }

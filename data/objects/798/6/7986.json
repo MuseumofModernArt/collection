@@ -5,8 +5,7 @@
   "Artist": "Aubrey Beardsley", 
   "URL": "http://www.moma.org/collection/works/7986", 
   "CuratorApproved": "Y", 
-  "Title": "Children's Books", 
-  "DateAcquired": "1959-12-30", 
+  "CreditLine": "Phyllis B. Lambert Fund", 
   "Date": "1894", 
   "ArtistID": 413, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "711.1959", 
-  "ArtistBio": "British, 1872\u20131898", 
-  "CreditLine": "Phyllis B. Lambert Fund", 
+  "ArtistBio": "(British, 1872\u20131898)", 
+  "DateAcquired": "1959-12-30", 
+  "\ufeffTitle": "Children's Books", 
   "ObjectID": "7986"
 }

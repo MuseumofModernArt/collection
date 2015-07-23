@@ -5,8 +5,7 @@
   "Artist": "Maurice Prendergast", 
   "URL": "http://www.moma.org/collection/works/63481", 
   "CuratorApproved": "Y", 
-  "Title": "Orange Market", 
-  "DateAcquired": "1945-12-17", 
+  "CreditLine": "Abby Aldrich Rockefeller Fund", 
   "Date": "1900", 
   "ArtistID": 4727, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "169.1945", 
-  "ArtistBio": "American, 1859\u20131924", 
-  "CreditLine": "Abby Aldrich Rockefeller Fund", 
+  "ArtistBio": "(American, 1859\u20131924)", 
+  "DateAcquired": "1945-12-17", 
+  "\ufeffTitle": "Orange Market", 
   "ObjectID": "63481"
 }

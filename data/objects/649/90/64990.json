@@ -5,8 +5,7 @@
   "Artist": "Louise Bourgeois", 
   "URL": "http://www.moma.org/collection/works/64990", 
   "CuratorApproved": "Y", 
-  "Title": "Man Reading, version 1 of 2, state II of II", 
-  "DateAcquired": "1992-05-20", 
+  "CreditLine": "Gift of the artist", 
   "Date": "1940\u20131944", 
   "ArtistID": 710, 
   "Keywords": [
@@ -20,7 +19,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "238.1992.2", 
-  "ArtistBio": "American, born France. 1911\u20132010", 
-  "CreditLine": "Gift of the artist", 
+  "ArtistBio": "(American, born France. 1911\u20132010)", 
+  "DateAcquired": "1992-05-20", 
+  "\ufeffTitle": "Man Reading", 
   "ObjectID": "64990"
 }

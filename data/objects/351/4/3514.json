@@ -5,8 +5,7 @@
   "Artist": "Vico Magistretti", 
   "URL": "http://www.moma.org/collection/works/3514", 
   "CuratorApproved": "Y", 
-  "Title": "Giuone Floor Lamp", 
-  "DateAcquired": "1972-12-05", 
+  "CreditLine": "Gift of the manufacturer", 
   "Date": "1969", 
   "ArtistID": 3688, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "414.1972", 
-  "ArtistBio": "Italian, 1920\u20132006", 
-  "CreditLine": "Gift of the manufacturer", 
+  "ArtistBio": "(Italian, 1920\u20132006)", 
+  "DateAcquired": "1972-12-05", 
+  "\ufeffTitle": "Giuone Floor Lamp", 
   "ObjectID": "3514"
 }

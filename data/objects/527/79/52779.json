@@ -5,8 +5,7 @@
   "Artist": "Carleton E. Watkins", 
   "URL": "http://www.moma.org/collection/works/52779", 
   "CuratorApproved": "Y", 
-  "Title": "The Dalles, Oregon", 
-  "DateAcquired": "1977-10-13", 
+  "CreditLine": "Acquired by exchange", 
   "Date": "c. 1867", 
   "ArtistID": 6260, 
   "Keywords": [
@@ -20,7 +19,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "408.1977", 
-  "ArtistBio": "American, 1829\u20131916", 
-  "CreditLine": "Acquired by exchange", 
+  "ArtistBio": "(American, 1829\u20131916)", 
+  "DateAcquired": "1977-10-13", 
+  "\ufeffTitle": "The Dalles, Oregon", 
   "ObjectID": "52779"
 }

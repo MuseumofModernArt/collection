@@ -5,8 +5,7 @@
   "Artist": "Roberto Matta", 
   "URL": "http://www.moma.org/collection/works/19337", 
   "CuratorApproved": "Y", 
-  "Title": "Arcane 17", 
-  "DateAcquired": "1949-09-29", 
+  "CreditLine": "Purchase", 
   "Date": "1944", 
   "ArtistID": 3842, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "593.1949", 
-  "ArtistBio": "Chilean, 1911\u20132002", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(Chilean, 1911\u20132002)", 
+  "DateAcquired": "1949-09-29", 
+  "\ufeffTitle": "Arcane 17", 
   "ObjectID": "19337"
 }

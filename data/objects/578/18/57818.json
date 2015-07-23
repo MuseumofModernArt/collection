@@ -5,8 +5,7 @@
   "Artist": "Philip-Lorca diCorcia", 
   "URL": "http://www.moma.org/collection/works/57818", 
   "CuratorApproved": "Y", 
-  "Title": "Igor", 
-  "DateAcquired": "2001-04-12", 
+  "CreditLine": "Gift of Carol and Arthur Goldberg", 
   "Date": "1987", 
   "ArtistID": 7027, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "1184.2001.x1-x2", 
-  "ArtistBio": "American, born 1951", 
-  "CreditLine": "Gift of Carol and Arthur Goldberg", 
+  "ArtistBio": "(American, born 1951)", 
+  "DateAcquired": "2001-04-12", 
+  "\ufeffTitle": "Igor", 
   "ObjectID": "57818"
 }

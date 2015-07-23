@@ -5,8 +5,7 @@
   "Artist": "Unknown photographer", 
   "URL": "http://www.moma.org/collection/works/58814", 
   "CuratorApproved": "Y", 
-  "Title": "People with Mattresses", 
-  "DateAcquired": "2001-06-14", 
+  "CreditLine": "The New York Times Collection", 
   "Date": "c. 1936", 
   "ArtistID": 6028, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "2221.2001", 
-  "ArtistBio": "NULL", 
-  "CreditLine": "The New York Times Collection", 
+  "ArtistBio": "", 
+  "DateAcquired": "2001-06-14", 
+  "\ufeffTitle": "People with Mattresses", 
   "ObjectID": "58814"
 }

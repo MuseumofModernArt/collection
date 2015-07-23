@@ -5,8 +5,7 @@
   "Artist": "Filippo Tommaso Marinetti", 
   "URL": "http://www.moma.org/collection/works/36625", 
   "CuratorApproved": "Y", 
-  "Title": "Vive la France", 
-  "DateAcquired": "1984-11-29", 
+  "CreditLine": "Gift of the Benjamin and Frances Benenson Foundation", 
   "Date": "(late 1914 - February 1915)", 
   "ArtistID": 3771, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "387.1984", 
-  "ArtistBio": "Italian, 1876\u20131944", 
-  "CreditLine": "Gift of the Benjamin and Frances Benenson Foundation", 
+  "ArtistBio": "(Italian, 1876\u20131944)", 
+  "DateAcquired": "1984-11-29", 
+  "\ufeffTitle": "Vive la France", 
   "ObjectID": "36625"
 }

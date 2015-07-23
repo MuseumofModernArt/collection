@@ -5,8 +5,7 @@
   "Artist": "Robert Morris", 
   "URL": "http://www.moma.org/collection/works/62421", 
   "CuratorApproved": "Y", 
-  "Title": "Earth Projects", 
-  "DateAcquired": "1970-03-05", 
+  "CreditLine": "John B. Turner Fund", 
   "Date": "1969", 
   "ArtistID": 4108, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "130.1970.1-10", 
-  "ArtistBio": "American, born 1931", 
-  "CreditLine": "John B. Turner Fund", 
+  "ArtistBio": "(American, born 1931)", 
+  "DateAcquired": "1970-03-05", 
+  "\ufeffTitle": "Earth Projects", 
   "ObjectID": "62421"
 }

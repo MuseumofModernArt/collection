@@ -1,12 +1,11 @@
 {
   "Medium": "Photoetching", 
-  "Dimensions": "irreg plate  29 15/16 x 22 11/16\" (76 x 57.7 cm)  sheet  29 15/16 x 22 11/16\" (76 x 57.7 cm)", 
+  "Dimensions": "irreg plate  29 15/16 x 22 11/16\" (76 x 57.7 cm)\r\nsheet  29 15/16 x 22 11/16\" (76 x 57.7 cm)", 
   "Classification": "Print", 
   "Artist": "Robert Rauschenberg", 
   "URL": "http://www.moma.org/collection/works/65613", 
   "CuratorApproved": "Y", 
-  "Title": "The Razorback Bunch (Etching VI)", 
-  "DateAcquired": "1982-10-26", 
+  "CreditLine": "Gift of Celeste Bartos", 
   "Date": "1982", 
   "ArtistID": 4823, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "267.1982", 
-  "ArtistBio": "American, 1925\u20132008", 
-  "CreditLine": "Gift of Celeste Bartos", 
+  "ArtistBio": "(American, 1925\u20132008)", 
+  "DateAcquired": "1982-10-26", 
+  "\ufeffTitle": "The Razorback Bunch (Etching VI)", 
   "ObjectID": "65613"
 }

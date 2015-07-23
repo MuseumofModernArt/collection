@@ -5,8 +5,7 @@
   "Artist": "W. van Stek", 
   "URL": "http://www.moma.org/collection/works/7925", 
   "CuratorApproved": "Y", 
-  "Title": "T + T = Taal & Teken, Haags Gemeente-Museum", 
-  "DateAcquired": "1966-12-06", 
+  "CreditLine": "Gift of Gemeente-Museum, The Hague", 
   "Date": "1965", 
   "ArtistID": 6087, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "683.1966", 
-  "ArtistBio": "Dutch", 
-  "CreditLine": "Gift of Gemeente-Museum, The Hague", 
+  "ArtistBio": "(Dutch)", 
+  "DateAcquired": "1966-12-06", 
+  "\ufeffTitle": "T + T = Taal & Teken, Haags Gemeente-Museum", 
   "ObjectID": "7925"
 }

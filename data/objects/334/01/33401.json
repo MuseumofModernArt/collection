@@ -5,8 +5,7 @@
   "Artist": "Roberto Matta", 
   "URL": "http://www.moma.org/collection/works/33401", 
   "CuratorApproved": "Y", 
-  "Title": "Condors and Carrion", 
-  "DateAcquired": "1942-01-17", 
+  "CreditLine": "Inter-American Fund", 
   "Date": "(1941)", 
   "ArtistID": 3842, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "32.1942", 
-  "ArtistBio": "Chilean, 1911\u20132002", 
-  "CreditLine": "Inter-American Fund", 
+  "ArtistBio": "(Chilean, 1911\u20132002)", 
+  "DateAcquired": "1942-01-17", 
+  "\ufeffTitle": "Condors and Carrion", 
   "ObjectID": "33401"
 }

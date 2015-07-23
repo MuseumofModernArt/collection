@@ -5,8 +5,7 @@
   "Artist": "Andr\u00e9 Masson", 
   "URL": "http://www.moma.org/collection/works/61642", 
   "CuratorApproved": "Y", 
-  "Title": "An Undine", 
-  "DateAcquired": "1955-04-06", 
+  "CreditLine": "Given anonymously", 
   "Date": "1954", 
   "ArtistID": 3821, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "88.1955", 
-  "ArtistBio": "French, 1896\u20131987", 
-  "CreditLine": "Given anonymously", 
+  "ArtistBio": "(French, 1896\u20131987)", 
+  "DateAcquired": "1955-04-06", 
+  "\ufeffTitle": "An Undine", 
   "ObjectID": "61642"
 }

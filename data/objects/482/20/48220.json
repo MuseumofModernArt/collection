@@ -5,8 +5,7 @@
   "Artist": "Lewis W. Hine", 
   "URL": "http://www.moma.org/collection/works/48220", 
   "CuratorApproved": "Y", 
-  "Title": "Sadie Pfeifer, a Cotton Mill Spinner, Lancaster, South Carolina", 
-  "DateAcquired": "1944-11-08", 
+  "CreditLine": "Purchase", 
   "Date": "1908", 
   "ArtistID": 2657, 
   "Keywords": [
@@ -21,7 +20,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "195.1944", 
-  "ArtistBio": "American, 1874\u20131940", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, 1874\u20131940)", 
+  "DateAcquired": "1944-11-08", 
+  "\ufeffTitle": "Sadie Pfeifer, a Cotton Mill Spinner, Lancaster, South Carolina", 
   "ObjectID": "48220"
 }

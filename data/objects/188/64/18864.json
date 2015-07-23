@@ -5,8 +5,7 @@
   "Artist": "Marcel Janco", 
   "URL": "http://www.moma.org/collection/works/18864", 
   "CuratorApproved": "Y", 
-  "Title": "La Premi\u00e8re Aventure C\u00e9l\u00e9ste de Mr Antipyrine", 
-  "DateAcquired": "1949-09-29", 
+  "CreditLine": "Purchase", 
   "Date": "1916", 
   "ArtistID": 2881, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "578.1949.1-7", 
-  "ArtistBio": "Israeli, 1895\u20131984", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(Israeli, 1895\u20131984)", 
+  "DateAcquired": "1949-09-29", 
+  "\ufeffTitle": "La Premi\u00e8re Aventure C\u00e9l\u00e9ste de Mr Antipyrine", 
   "ObjectID": "18864"
 }

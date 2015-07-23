@@ -5,8 +5,7 @@
   "Artist": "Aaron Siskind", 
   "URL": "http://www.moma.org/collection/works/46612", 
   "CuratorApproved": "Y", 
-  "Title": "Wishing Tree", 
-  "DateAcquired": "1985-03-27", 
+  "CreditLine": "Gift of Ms. Sophie Black", 
   "Date": "c. 1937", 
   "ArtistID": 5456, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "120.1985.3", 
-  "ArtistBio": "American, 1903\u20131991", 
-  "CreditLine": "Gift of Ms. Sophie Black", 
+  "ArtistBio": "(American, 1903\u20131991)", 
+  "DateAcquired": "1985-03-27", 
+  "\ufeffTitle": "Wishing Tree", 
   "ObjectID": "46612"
 }

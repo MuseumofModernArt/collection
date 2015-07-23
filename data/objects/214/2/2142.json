@@ -5,8 +5,7 @@
   "Artist": "Marcello Nizzoli", 
   "URL": "http://www.moma.org/collection/works/2142", 
   "CuratorApproved": "Y", 
-  "Title": "Letter Opener", 
-  "DateAcquired": "1986-05-16", 
+  "CreditLine": "Gift of the manufacturer", 
   "Date": "1960", 
   "ArtistID": 4316, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "107.1989", 
-  "ArtistBio": "Italian, 1887\u20131969", 
-  "CreditLine": "Gift of the manufacturer", 
+  "ArtistBio": "(Italian, 1887\u20131969)", 
+  "DateAcquired": "1986-05-16", 
+  "\ufeffTitle": "Letter Opener", 
   "ObjectID": "2142"
 }

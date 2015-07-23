@@ -5,8 +5,7 @@
   "Artist": "Ron Kleemann", 
   "URL": "http://www.moma.org/collection/works/68582", 
   "CuratorApproved": "Y", 
-  "Title": "The Flying Scot", 
-  "DateAcquired": "1976-01-08", 
+  "CreditLine": "Gift of Dr. Samuel Mandel", 
   "Date": "1972", 
   "ArtistID": 3131, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "407.1975", 
-  "ArtistBio": "American, born 1937", 
-  "CreditLine": "Gift of Dr. Samuel Mandel", 
+  "ArtistBio": "(American, born 1937)", 
+  "DateAcquired": "1976-01-08", 
+  "\ufeffTitle": "The Flying Scot", 
   "ObjectID": "68582"
 }

@@ -5,8 +5,7 @@
   "Artist": "Jay McCafferty", 
   "URL": "http://www.moma.org/collection/works/59808", 
   "CuratorApproved": "Y", 
-  "Title": "Emerge III", 
-  "DateAcquired": "1981-01-15", 
+  "CreditLine": "John B. Turner Fund", 
   "Date": "1980", 
   "ArtistID": 3869, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "10.1981", 
-  "ArtistBio": "American, born 1948", 
-  "CreditLine": "John B. Turner Fund", 
+  "ArtistBio": "(American, born 1948)", 
+  "DateAcquired": "1981-01-15", 
+  "\ufeffTitle": "Emerge III", 
   "ObjectID": "59808"
 }

@@ -5,8 +5,7 @@
   "Artist": "Gary Stephen Brotmeyer", 
   "URL": "http://www.moma.org/collection/works/51151", 
   "CuratorApproved": "Y", 
-  "Title": "#187 (Boy with escape rope)", 
-  "DateAcquired": "1983-03-24", 
+  "CreditLine": "Purchase", 
   "Date": "1982", 
   "ArtistID": 803, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "337.1983", 
-  "ArtistBio": "American, born 1946", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, born 1946)", 
+  "DateAcquired": "1983-03-24", 
+  "\ufeffTitle": "#187 (Boy with escape rope)", 
   "ObjectID": "51151"
 }

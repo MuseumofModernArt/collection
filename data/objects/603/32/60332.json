@@ -1,12 +1,11 @@
 {
   "Medium": "Series of thirteen lithographs, offset printed", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "Tadanori Yokoo", 
   "URL": "http://www.moma.org/collection/works/60332", 
   "CuratorApproved": "Y", 
-  "Title": "Clear Light (1975 calendar)", 
-  "DateAcquired": "1975-01-07", 
+  "CreditLine": "Gift of Matsuya Company, Ltd.", 
   "Date": "(1974)", 
   "ArtistID": 6502, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "24.1975.1-13", 
-  "ArtistBio": "Japanese, born 1936", 
-  "CreditLine": "Gift of Matsuya Company, Ltd.", 
+  "ArtistBio": "(Japanese, born 1936)", 
+  "DateAcquired": "1975-01-07", 
+  "\ufeffTitle": "Clear Light (1975 calendar)", 
   "ObjectID": "60332"
 }

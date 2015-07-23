@@ -5,8 +5,7 @@
   "Artist": "Paul C\u00e9zanne", 
   "URL": "http://www.moma.org/collection/works/32973", 
   "CuratorApproved": "Y", 
-  "Title": "Bathers", 
-  "DateAcquired": "1934-09-23", 
+  "CreditLine": "Lillie P. Bliss Collection", 
   "Date": "(c. 1885-1890)", 
   "ArtistID": 1053, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "2.1934", 
-  "ArtistBio": "French, 1839\u20131906", 
-  "CreditLine": "Lillie P. Bliss Collection", 
+  "ArtistBio": "(French, 1839\u20131906)", 
+  "DateAcquired": "1934-09-23", 
+  "\ufeffTitle": "Bathers", 
   "ObjectID": "32973"
 }

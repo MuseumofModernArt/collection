@@ -1,12 +1,11 @@
 {
   "Medium": "Etching and aquatint", 
-  "Dimensions": "plate  23 x 23 5/8\" (58.5 x 60 cm)  sheet  32 1/4 x 31 7/16\" (82 x 79.8 cm)", 
+  "Dimensions": "plate  23 x 23 5/8\" (58.5 x 60 cm)\r\nsheet  32 1/4 x 31 7/16\" (82 x 79.8 cm)", 
   "Classification": "Print", 
   "Artist": "Magali Lara", 
   "URL": "http://www.moma.org/collection/works/64138", 
   "CuratorApproved": "Y", 
-  "Title": "Fear", 
-  "DateAcquired": "1990-05-02", 
+  "CreditLine": "Purchase", 
   "Date": "(1989)", 
   "ArtistID": 3386, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "192.1990", 
-  "ArtistBio": "Mexican", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(Mexican)", 
+  "DateAcquired": "1990-05-02", 
+  "\ufeffTitle": "Fear", 
   "ObjectID": "64138"
 }

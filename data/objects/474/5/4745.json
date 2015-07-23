@@ -5,8 +5,7 @@
   "Artist": "Danny Ho Fong", 
   "URL": "http://www.moma.org/collection/works/4745", 
   "CuratorApproved": "Y", 
-  "Title": "Wave Chaise", 
-  "DateAcquired": "1967-10-18", 
+  "CreditLine": "Gift of the manufacturer", 
   "Date": "1966", 
   "ArtistID": 1929, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "2229.1967", 
-  "ArtistBio": "American, born China. 1915\u20131992", 
-  "CreditLine": "Gift of the manufacturer", 
+  "ArtistBio": "(American, born China. 1915\u20131992)", 
+  "DateAcquired": "1967-10-18", 
+  "\ufeffTitle": "Wave Chaise", 
   "ObjectID": "4745"
 }

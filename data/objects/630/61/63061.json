@@ -5,8 +5,7 @@
   "Artist": "Katsuro Yoshida", 
   "URL": "http://www.moma.org/collection/works/63061", 
   "CuratorApproved": "Y", 
-  "Title": "London 3 (Mayfair)", 
-  "DateAcquired": "1975-05-09", 
+  "CreditLine": "Blanchette Hooker Rockefeller Fund", 
   "Date": "1973", 
   "ArtistID": 6507, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "155.1975", 
-  "ArtistBio": "Japanese", 
-  "CreditLine": "Blanchette Hooker Rockefeller Fund", 
+  "ArtistBio": "(Japanese)", 
+  "DateAcquired": "1975-05-09", 
+  "\ufeffTitle": "London 3 (Mayfair)", 
   "ObjectID": "63061"
 }

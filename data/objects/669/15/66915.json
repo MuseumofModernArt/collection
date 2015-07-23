@@ -5,8 +5,7 @@
   "Artist": "Andr\u00e9 Derain", 
   "URL": "http://www.moma.org/collection/works/66915", 
   "CuratorApproved": "Y", 
-  "Title": "The Last Supper", 
-  "DateAcquired": "1948-10-06", 
+  "CreditLine": "Gift of Victor S. Riesenfeld", 
   "Date": "(c. 1912)", 
   "ArtistID": 1500, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "323.1948", 
-  "ArtistBio": "French, 1880\u20131954", 
-  "CreditLine": "Gift of Victor S. Riesenfeld", 
+  "ArtistBio": "(French, 1880\u20131954)", 
+  "DateAcquired": "1948-10-06", 
+  "\ufeffTitle": "The Last Supper", 
   "ObjectID": "66915"
 }

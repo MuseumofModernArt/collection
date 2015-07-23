@@ -5,8 +5,7 @@
   "Artist": "Dean Pollock", 
   "URL": "http://www.moma.org/collection/works/2547", 
   "CuratorApproved": "Y", 
-  "Title": "Ron Fork", 
-  "DateAcquired": "1948-03-17", 
+  "CreditLine": "Purchase", 
   "Date": "c. 1936-47", 
   "ArtistID": 4674, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "145.1948", 
-  "ArtistBio": "American, 1897\u20131971", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, 1897\u20131971)", 
+  "DateAcquired": "1948-03-17", 
+  "\ufeffTitle": "Ron Fork", 
   "ObjectID": "2547"
 }

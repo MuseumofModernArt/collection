@@ -5,8 +5,7 @@
   "Artist": "Louise Bourgeois", 
   "URL": "http://www.moma.org/collection/works/62484", 
   "CuratorApproved": "Y", 
-  "Title": "Le P\u00e8re et les 3 Fils, version 2 of 2, only state", 
-  "DateAcquired": "2000-03-02", 
+  "CreditLine": "Gift of the artist", 
   "Date": "1999", 
   "ArtistID": 710, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "133.2000", 
-  "ArtistBio": "American, born France. 1911\u20132010", 
-  "CreditLine": "Gift of the artist", 
+  "ArtistBio": "(American, born France. 1911\u20132010)", 
+  "DateAcquired": "2000-03-02", 
+  "\ufeffTitle": "Le P\u00e8re et les 3 Fils", 
   "ObjectID": "62484"
 }

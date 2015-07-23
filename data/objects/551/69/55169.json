@@ -5,8 +5,7 @@
   "Artist": "Harry Callahan", 
   "URL": "http://www.moma.org/collection/works/55169", 
   "CuratorApproved": "Y", 
-  "Title": "Eleanor, Port Huron", 
-  "DateAcquired": "1971-11-10", 
+  "CreditLine": "Stephen R. Currier Memorial Fund", 
   "Date": "c. 1954", 
   "ArtistID": 924, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "563.1971", 
-  "ArtistBio": "American, 1912\u20131999", 
-  "CreditLine": "Stephen R. Currier Memorial Fund", 
+  "ArtistBio": "(American, 1912\u20131999)", 
+  "DateAcquired": "1971-11-10", 
+  "\ufeffTitle": "Eleanor, Port Huron", 
   "ObjectID": "55169"
 }

@@ -5,8 +5,7 @@
   "Artist": "Oskar Kokoschka", 
   "URL": "http://www.moma.org/collection/works/35566", 
   "CuratorApproved": "Y", 
-  "Title": "Hugo Erfurth", 
-  "DateAcquired": "1950-10-11", 
+  "CreditLine": "Purchase", 
   "Date": "(c. 1920)", 
   "ArtistID": 3197, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "247.1950", 
-  "ArtistBio": "Austrian, 1886\u20131980", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(Austrian, 1886\u20131980)", 
+  "DateAcquired": "1950-10-11", 
+  "\ufeffTitle": "Hugo Erfurth", 
   "ObjectID": "35566"
 }

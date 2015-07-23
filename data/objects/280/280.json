@@ -5,8 +5,7 @@
   "Artist": "Mario Botta", 
   "URL": "http://www.moma.org/collection/works/280", 
   "CuratorApproved": "Y", 
-  "Title": "Library, Villeurbanne, France  Principal-facade elevation", 
-  "DateAcquired": "1987-05-27", 
+  "CreditLine": "Gift of the architect", 
   "Date": "1984", 
   "ArtistID": 696, 
   "Keywords": [
@@ -20,7 +19,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "226.1987", 
-  "ArtistBio": "Swiss, born 1943", 
-  "CreditLine": "Gift of the architect", 
+  "ArtistBio": "(Swiss, born 1943)", 
+  "DateAcquired": "1987-05-27", 
+  "\ufeffTitle": "Library, Villeurbanne, France, Principal-facade elevation", 
   "ObjectID": "280"
 }

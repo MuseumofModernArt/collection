@@ -5,8 +5,7 @@
   "Artist": "Gianni Penati", 
   "URL": "http://www.moma.org/collection/works/57944", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1964-11-10", 
+  "CreditLine": "Purchase", 
   "Date": "c. 1960", 
   "ArtistID": 4545, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "1226.1964", 
-  "ArtistBio": "Italian, born 1930", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(Italian, born 1930)", 
+  "DateAcquired": "1964-11-10", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "57944"
 }

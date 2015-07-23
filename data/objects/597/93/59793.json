@@ -1,12 +1,11 @@
 {
   "Medium": "Two drypoints", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "Arman", 
   "URL": "http://www.moma.org/collection/works/59793", 
   "CuratorApproved": "Y", 
-  "Title": "Black Values, Praying Mantis", 
-  "DateAcquired": "1996-03-12", 
+  "CreditLine": "Gift of Agnes Gund", 
   "Date": "(1980)", 
   "ArtistID": 220, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "9.1996.a-b", 
-  "ArtistBio": "American, born France. 1928\u20132005", 
-  "CreditLine": "Gift of Agnes Gund", 
+  "ArtistBio": "(American, born France. 1928\u20132005)", 
+  "DateAcquired": "1996-03-12", 
+  "\ufeffTitle": "Black Values, Praying Mantis", 
   "ObjectID": "59793"
 }

@@ -5,8 +5,7 @@
   "Artist": "Dora Maar (Henriette Theodora Markovitch)", 
   "URL": "http://www.moma.org/collection/works/50582", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1993-10-14", 
+  "CreditLine": "Robert and Joyce Menschel Fund", 
   "Date": "c. 1935", 
   "ArtistID": 3656, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "315.1993", 
-  "ArtistBio": "French, born Russia. 1907\u20131997", 
-  "CreditLine": "Robert and Joyce Menschel Fund", 
+  "ArtistBio": "(French, born Russia. 1907\u20131997)", 
+  "DateAcquired": "1993-10-14", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "50582"
 }

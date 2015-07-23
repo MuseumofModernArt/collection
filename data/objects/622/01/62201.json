@@ -5,8 +5,7 @@
   "Artist": "Max Beckmann", 
   "URL": "http://www.moma.org/collection/works/62201", 
   "CuratorApproved": "Y", 
-  "Title": "Carouse", 
-  "DateAcquired": "1963-02-13", 
+  "CreditLine": "Gift of Mr. and Mrs. Leo Auerbach", 
   "Date": "(1925)", 
   "ArtistID": 429, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "121.1963", 
-  "ArtistBio": "German, 1884\u20131950", 
-  "CreditLine": "Gift of Mr. and Mrs. Leo Auerbach", 
+  "ArtistBio": "(German, 1884\u20131950)", 
+  "DateAcquired": "1963-02-13", 
+  "\ufeffTitle": "Carouse (Gelage)", 
   "ObjectID": "62201"
 }

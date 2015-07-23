@@ -5,8 +5,7 @@
   "Artist": "Mildred Thompson", 
   "URL": "http://www.moma.org/collection/works/65383", 
   "CuratorApproved": "Y", 
-  "Title": "Love for Sale", 
-  "DateAcquired": "1963-04-09", 
+  "CreditLine": "Eugene and Clare Thaw Fund", 
   "Date": "1959", 
   "ArtistID": 5861, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "257.1963", 
-  "ArtistBio": "American, 1935\u20132003", 
-  "CreditLine": "Eugene and Clare Thaw Fund", 
+  "ArtistBio": "(American, 1935\u20132003)", 
+  "DateAcquired": "1963-04-09", 
+  "\ufeffTitle": "Love for Sale", 
   "ObjectID": "65383"
 }

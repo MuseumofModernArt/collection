@@ -5,8 +5,7 @@
   "Artist": "George Grosz", 
   "URL": "http://www.moma.org/collection/works/37552", 
   "CuratorApproved": "Y", 
-  "Title": "Seated Girl", 
-  "DateAcquired": "1963-12-10", 
+  "CreditLine": "The John S. Newberry Collection", 
   "Date": "(1927)", 
   "ArtistID": 2374, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "605.1963", 
-  "ArtistBio": "American, born Germany. 1893\u20131959", 
-  "CreditLine": "The John S. Newberry Collection", 
+  "ArtistBio": "(American, born Germany. 1893\u20131959)", 
+  "DateAcquired": "1963-12-10", 
+  "\ufeffTitle": "Seated Girl (Sitzendes M\u00e4dchen)", 
   "ObjectID": "37552"
 }

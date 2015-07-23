@@ -5,8 +5,7 @@
   "Artist": "Times Wide World Photos", 
   "URL": "http://www.moma.org/collection/works/58778", 
   "CuratorApproved": "Y", 
-  "Title": "The Mayor and a Baby Exchange Smiles", 
-  "DateAcquired": "2001-06-14", 
+  "CreditLine": "The New York Times Collection", 
   "Date": "December 8, 1938", 
   "ArtistID": 8632, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "2185.2001", 
-  "ArtistBio": "American, active 1919\u20131941", 
-  "CreditLine": "The New York Times Collection", 
+  "ArtistBio": "(American, active 1919\u20131941)", 
+  "DateAcquired": "2001-06-14", 
+  "\ufeffTitle": "The Mayor and a Baby Exchange Smiles", 
   "ObjectID": "58778"
 }

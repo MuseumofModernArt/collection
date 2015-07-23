@@ -5,8 +5,7 @@
   "Artist": "Tetsumi Kudo", 
   "URL": "http://www.moma.org/collection/works/17500", 
   "CuratorApproved": "Y", 
-  "Title": "Box from Black Box", 
-  "DateAcquired": "1977-11-10", 
+  "CreditLine": "Larry Aldrich Fund", 
   "Date": "1970", 
   "ArtistID": 3281, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "465.1977.C", 
-  "ArtistBio": "Japanese, 1935\u20131990", 
-  "CreditLine": "Larry Aldrich Fund", 
+  "ArtistBio": "(Japanese, 1935\u20131990)", 
+  "DateAcquired": "1977-11-10", 
+  "\ufeffTitle": "Box from Black Box", 
   "ObjectID": "17500"
 }

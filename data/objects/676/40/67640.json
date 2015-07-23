@@ -5,8 +5,7 @@
   "Artist": "Marisol (Marisol Escobar)", 
   "URL": "http://www.moma.org/collection/works/67640", 
   "CuratorApproved": "Y", 
-  "Title": "I Hate You", 
-  "DateAcquired": "1973-10-24", 
+  "CreditLine": "Gift of Celeste Bartos", 
   "Date": "1973", 
   "ArtistID": 3774, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "358.1973", 
-  "ArtistBio": "Venezuelan, born France 1930", 
-  "CreditLine": "Gift of Celeste Bartos", 
+  "ArtistBio": "(Venezuelan, born France 1930)", 
+  "DateAcquired": "1973-10-24", 
+  "\ufeffTitle": "I Hate You", 
   "ObjectID": "67640"
 }

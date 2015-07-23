@@ -5,8 +5,7 @@
   "Artist": "Emil Orlik", 
   "URL": "http://www.moma.org/collection/works/65144", 
   "CuratorApproved": "Y", 
-  "Title": "Tatra Mountains", 
-  "DateAcquired": "1978-03-02", 
+  "CreditLine": "Gift of Leon Harris", 
   "Date": "(c. 1898)", 
   "ArtistID": 4427, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "246.1978", 
-  "ArtistBio": "German, 1870\u20131932", 
-  "CreditLine": "Gift of Leon Harris", 
+  "ArtistBio": "(German, 1870\u20131932)", 
+  "DateAcquired": "1978-03-02", 
+  "\ufeffTitle": "Tatra Mountains (Tatry)", 
   "ObjectID": "65144"
 }

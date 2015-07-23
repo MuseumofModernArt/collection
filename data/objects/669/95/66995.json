@@ -5,8 +5,7 @@
   "Artist": "Ernst Ludwig Kirchner", 
   "URL": "http://www.moma.org/collection/works/66995", 
   "CuratorApproved": "Y", 
-  "Title": "Martin", 
-  "DateAcquired": "1958-12-19", 
+  "CreditLine": "Mrs. Bertram Smith Fund", 
   "Date": "(1919)", 
   "ArtistID": 3115, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "326.1958", 
-  "ArtistBio": "German, 1880\u20131938", 
-  "CreditLine": "Mrs. Bertram Smith Fund", 
+  "ArtistBio": "(German, 1880\u20131938)", 
+  "DateAcquired": "1958-12-19", 
+  "\ufeffTitle": "Martin", 
   "ObjectID": "66995"
 }

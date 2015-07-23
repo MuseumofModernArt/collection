@@ -1,12 +1,11 @@
 {
   "Medium": "Lithograph", 
-  "Dimensions": "Composition (irreg.): 57 3/4 x 28 5/8\" (146.7 x 72.7 cm)  Sheet (irreg.): 57 1/2 x 28 5/8\" (146 x 72.7 cm)", 
+  "Dimensions": "Composition (irreg.): 57 3/4 x 28 5/8\" (146.7 x 72.7 cm)\r\nSheet (irreg.): 57 1/2 x 28 5/8\" (146 x 72.7 cm)", 
   "Classification": "Print", 
   "Artist": "Elizabeth Murray", 
   "URL": "http://www.moma.org/collection/works/69738", 
   "CuratorApproved": "Y", 
-  "Title": "Wiggle Manhattan", 
-  "DateAcquired": "1992-11-04", 
+  "CreditLine": "Gift of Emily Fisher Landau", 
   "Date": "1992", 
   "ArtistID": 4185, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "474.1992", 
-  "ArtistBio": "American, 1940\u20132007", 
-  "CreditLine": "Gift of Emily Fisher Landau", 
+  "ArtistBio": "(American, 1940\u20132007)", 
+  "DateAcquired": "1992-11-04", 
+  "\ufeffTitle": "Wiggle Manhattan", 
   "ObjectID": "69738"
 }

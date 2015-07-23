@@ -5,8 +5,7 @@
   "Artist": "Kiki Smith", 
   "URL": "http://www.moma.org/collection/works/19104", 
   "CuratorApproved": "Y", 
-  "Title": "Kiki Smith: New Work", 
-  "DateAcquired": "1997-11-11", 
+  "CreditLine": "Given anonymously", 
   "Date": "1995", 
   "ArtistID": 5486, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "586.1997", 
-  "ArtistBio": "American, born Germany 1954", 
-  "CreditLine": "Given anonymously", 
+  "ArtistBio": "(American, born Germany 1954)", 
+  "DateAcquired": "1997-11-11", 
+  "\ufeffTitle": "Kiki Smith: New Work", 
   "ObjectID": "19104"
 }

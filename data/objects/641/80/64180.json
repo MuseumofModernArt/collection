@@ -5,8 +5,7 @@
   "Artist": "Mimmo Paladino", 
   "URL": "http://www.moma.org/collection/works/64180", 
   "CuratorApproved": "Y", 
-  "Title": "Bosforo", 
-  "DateAcquired": "1986-05-20", 
+  "CreditLine": "Walter Bareiss Fund", 
   "Date": "(1982, published 1983)", 
   "ArtistID": 4472, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "195.1986.1-6", 
-  "ArtistBio": "Italian, born 1948", 
-  "CreditLine": "Walter Bareiss Fund", 
+  "ArtistBio": "(Italian, born 1948)", 
+  "DateAcquired": "1986-05-20", 
+  "\ufeffTitle": "Bosforo", 
   "ObjectID": "64180"
 }

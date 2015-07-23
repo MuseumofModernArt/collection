@@ -5,8 +5,7 @@
   "Artist": "Piet Zwart", 
   "URL": "http://www.moma.org/collection/works/7790", 
   "CuratorApproved": "Y", 
-  "Title": "Geef de post 4cm vrij baan", 
-  "DateAcquired": "1977-11-28", 
+  "CreditLine": "Jan Tschichold Collection, Gift of Philip Johnson", 
   "Date": "1936", 
   "ArtistID": 6592, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "626.1977", 
-  "ArtistBio": "Dutch, 1885\u20131977", 
-  "CreditLine": "Jan Tschichold Collection, Gift of Philip Johnson", 
+  "ArtistBio": "(Dutch, 1885\u20131977)", 
+  "DateAcquired": "1977-11-28", 
+  "\ufeffTitle": "Geef de post 4cm vrij baan", 
   "ObjectID": "7790"
 }

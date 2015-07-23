@@ -5,8 +5,7 @@
   "Artist": "John H. Myers", 
   "URL": "http://www.moma.org/collection/works/8859", 
   "CuratorApproved": "Y", 
-  "Title": "The Blues Project, Jimmy Reed, John Lee Hooker and the Stu Gardner Trio", 
-  "DateAcquired": "2000-12-11", 
+  "CreditLine": "Gift of the designer", 
   "Date": "1967", 
   "ArtistID": 8396, 
   "Keywords": [
@@ -20,7 +19,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "1563.2000", 
-  "ArtistBio": "American", 
-  "CreditLine": "Gift of the designer", 
+  "ArtistBio": "(American)", 
+  "DateAcquired": "2000-12-11", 
+  "\ufeffTitle": "The Blues Project, Jimmy Reed, John Lee Hooker and the Stu Gardner Trio", 
   "ObjectID": "8859"
 }

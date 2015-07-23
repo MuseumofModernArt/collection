@@ -5,8 +5,7 @@
   "Artist": "Mark Cohen", 
   "URL": "http://www.moma.org/collection/works/48566", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled (Wilkes-Barre, Pennsylvania)", 
-  "DateAcquired": "1973-05-10", 
+  "CreditLine": "David H. McAlpin Fund", 
   "Date": "October 1971", 
   "ArtistID": 1175, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "210.1973", 
-  "ArtistBio": "American, born 1943", 
-  "CreditLine": "David H. McAlpin Fund", 
+  "ArtistBio": "(American, born 1943)", 
+  "DateAcquired": "1973-05-10", 
+  "\ufeffTitle": "Untitled (Wilkes-Barre, Pennsylvania)", 
   "ObjectID": "48566"
 }

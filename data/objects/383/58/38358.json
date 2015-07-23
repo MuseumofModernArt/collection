@@ -5,8 +5,7 @@
   "Artist": "Nikolai Suetin", 
   "URL": "http://www.moma.org/collection/works/38358", 
   "CuratorApproved": "Y", 
-  "Title": "Study for Composition", 
-  "DateAcquired": "1985-09-10", 
+  "CreditLine": "The Riklis Collection of McCrory Corporation", 
   "Date": "1920", 
   "ArtistID": 5718, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "966.1983", 
-  "ArtistBio": "Russian, 1897\u20131954", 
-  "CreditLine": "The Riklis Collection of McCrory Corporation", 
+  "ArtistBio": "(Russian, 1897\u20131954)", 
+  "DateAcquired": "1985-09-10", 
+  "\ufeffTitle": "Study for Composition", 
   "ObjectID": "38358"
 }

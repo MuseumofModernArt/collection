@@ -1,12 +1,11 @@
 {
   "Medium": "Etching", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "Joe Zucker", 
   "URL": "http://www.moma.org/collection/works/63718", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled from the SPIDER CHRONICLES", 
-  "DateAcquired": "1994-01-25", 
+  "CreditLine": "John B. Turner Fund", 
   "Date": "1991", 
   "ArtistID": 6588, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "176.1994", 
-  "ArtistBio": "American, born 1941", 
-  "CreditLine": "John B. Turner Fund", 
+  "ArtistBio": "(American, born 1941)", 
+  "DateAcquired": "1994-01-25", 
+  "\ufeffTitle": "Untitled from the Spider Chronicles", 
   "ObjectID": "63718"
 }

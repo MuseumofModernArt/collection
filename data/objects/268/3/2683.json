@@ -5,8 +5,7 @@
   "Artist": "Unknown Designer, Chinese", 
   "URL": "http://www.moma.org/collection/works/2683", 
   "CuratorApproved": "Y", 
-  "Title": "Basket", 
-  "DateAcquired": "1948-03-17", 
+  "CreditLine": "Gift of Edgar Kaufmann, Jr.", 
   "Date": "Before 1948", 
   "ArtistID": 7227, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "211.1948", 
-  "ArtistBio": "NULL", 
-  "CreditLine": "Gift of Edgar Kaufmann, Jr.", 
+  "ArtistBio": "", 
+  "DateAcquired": "1948-03-17", 
+  "\ufeffTitle": "Basket", 
   "ObjectID": "2683"
 }

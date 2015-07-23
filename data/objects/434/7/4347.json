@@ -5,8 +5,7 @@
   "Artist": "Michael Thonet", 
   "URL": "http://www.moma.org/collection/works/4347", 
   "CuratorApproved": "Y", 
-  "Title": "Side Chair", 
-  "DateAcquired": "1977-11-28", 
+  "CreditLine": "Given anonymously", 
   "Date": "c. 1840-42", 
   "ArtistID": 5866, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "537.1977", 
-  "ArtistBio": "Austrian, 1796\u20131871", 
-  "CreditLine": "Given anonymously", 
+  "ArtistBio": "(Austrian, 1796\u20131871)", 
+  "DateAcquired": "1977-11-28", 
+  "\ufeffTitle": "Side Chair", 
   "ObjectID": "4347"
 }

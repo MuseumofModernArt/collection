@@ -1,12 +1,11 @@
 {
   "Medium": "Etching and aquatint", 
-  "Dimensions": "plate  34 1/8 x 24 1/2\" (86.7 x 62.2 cm)  sheet  42 1/16 x 29 11/16\" (106 x 75.4 cm)", 
+  "Dimensions": "plate  34 1/8 x 24 1/2\" (86.7 x 62.2 cm)\r\nsheet  42 1/16 x 29 11/16\" (106 x 75.4 cm)", 
   "Classification": "Print", 
   "Artist": "Jasper Johns", 
   "URL": "http://www.moma.org/collection/works/67496", 
   "CuratorApproved": "Y", 
-  "Title": "Land's End", 
-  "DateAcquired": "1988-10-25", 
+  "CreditLine": "Gift of Elinor and Edmund Grasheim", 
   "Date": "1978 (published 1979).", 
   "ArtistID": 2923, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "351.1988", 
-  "ArtistBio": "American, born 1930", 
-  "CreditLine": "Gift of Elinor and Edmund Grasheim", 
+  "ArtistBio": "(American, born 1930)", 
+  "DateAcquired": "1988-10-25", 
+  "\ufeffTitle": "Land's End", 
   "ObjectID": "67496"
 }

@@ -5,8 +5,7 @@
   "Artist": "Wilhelm Wagenfeld", 
   "URL": "http://www.moma.org/collection/works/2537", 
   "CuratorApproved": "Y", 
-  "Title": "Vase", 
-  "DateAcquired": "1955-04-06", 
+  "CreditLine": "Gift of Fraser's, Inc.", 
   "Date": "1950", 
   "ArtistID": 6208, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "143.1955", 
-  "ArtistBio": "German, 1900\u20131990", 
-  "CreditLine": "Gift of Fraser's, Inc.", 
+  "ArtistBio": "(German, 1900\u20131990)", 
+  "DateAcquired": "1955-04-06", 
+  "\ufeffTitle": "Vase", 
   "ObjectID": "2537"
 }

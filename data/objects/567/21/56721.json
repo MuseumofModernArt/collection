@@ -5,8 +5,7 @@
   "Artist": "Maxime Du Camp", 
   "URL": "http://www.moma.org/collection/works/56721", 
   "CuratorApproved": "Y", 
-  "Title": "Mosqu\u00e9e de Sultan Kansou-El-Gouri", 
-  "DateAcquired": "1978-12-14", 
+  "CreditLine": "Gift of Warner Communications, Inc.", 
   "Date": "1837-1852", 
   "ArtistID": 1629, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "845.1978", 
-  "ArtistBio": "French, 1822\u20131894", 
-  "CreditLine": "Gift of Warner Communications, Inc.", 
+  "ArtistBio": "(French, 1822\u20131894)", 
+  "DateAcquired": "1978-12-14", 
+  "\ufeffTitle": "Mosqu\u00e9e de Sultan Kansou-El-Gouri", 
   "ObjectID": "56721"
 }

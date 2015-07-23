@@ -5,8 +5,7 @@
   "Artist": "Sydney Drum", 
   "URL": "http://www.moma.org/collection/works/62761", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1979-05-01", 
+  "CreditLine": "Larry Aldrich Fund", 
   "Date": "1976", 
   "ArtistID": 1624, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "138.1979", 
-  "ArtistBio": "Canadian", 
-  "CreditLine": "Larry Aldrich Fund", 
+  "ArtistBio": "(Canadian)", 
+  "DateAcquired": "1979-05-01", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "62761"
 }

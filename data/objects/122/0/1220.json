@@ -1,12 +1,11 @@
 {
   "Medium": "Glazed porcelain", 
-  "Dimensions": ".a (mortar): 2 3/4 x 6 1/2\" (7 x 16.5 cm)  .b (pestle): 5 3/4 x 1 1/2\" (14.6 x 3.8 cm)", 
+  "Dimensions": ".a (mortar): 2 3/4 x 6 1/2\" (7 x 16.5 cm)\r\n.b (pestle): 5 3/4 x 1 1/2\" (14.6 x 3.8 cm)", 
   "Classification": "A&D Design", 
   "Artist": "Rosenthal Porzellan A.g., company design", 
   "URL": "http://www.moma.org/collection/works/1220", 
   "CuratorApproved": "Y", 
-  "Title": "Mortar and Pestle", 
-  "DateAcquired": "2001-09-24", 
+  "CreditLine": "Gift of the manufacturer", 
   "Date": "Unknown", 
   "ArtistID": 5024, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "2289.2001.a-b", 
-  "ArtistBio": "German, established 1879", 
-  "CreditLine": "Gift of the manufacturer", 
+  "ArtistBio": "(German, established 1879)", 
+  "DateAcquired": "2001-09-24", 
+  "\ufeffTitle": "Mortar and Pestle", 
   "ObjectID": "1220"
 }

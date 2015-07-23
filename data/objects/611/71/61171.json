@@ -1,12 +1,11 @@
 {
   "Medium": "Lithograph", 
-  "Dimensions": "Composition: 41 3/4 x 31 5/8\" (106 x 80.4 cm)  Sheet: 41 3/4 x 31 5/8\" (106 x 80.4 cm)", 
+  "Dimensions": "Composition: 41 3/4 x 31 5/8\" (106 x 80.4 cm)\r\nSheet: 41 3/4 x 31 5/8\" (106 x 80.4 cm)", 
   "Classification": "Print", 
   "Artist": "Terry Winters", 
   "URL": "http://www.moma.org/collection/works/61171", 
   "CuratorApproved": "Y", 
-  "Title": "Morula I", 
-  "DateAcquired": "1984-02-01", 
+  "CreditLine": "Gift of Celeste Bartos", 
   "Date": "1983-84", 
   "ArtistID": 6408, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "67.1984", 
-  "ArtistBio": "American, born 1949", 
-  "CreditLine": "Gift of Celeste Bartos", 
+  "ArtistBio": "(American, born 1949)", 
+  "DateAcquired": "1984-02-01", 
+  "\ufeffTitle": "Morula I", 
   "ObjectID": "61171"
 }

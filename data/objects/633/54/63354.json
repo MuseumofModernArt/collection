@@ -5,8 +5,7 @@
   "Artist": "Mona Hatoum", 
   "URL": "http://www.moma.org/collection/works/63354", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled (Brain)", 
-  "DateAcquired": "1999-05-20", 
+  "CreditLine": "Gift of the artist in memory of Penny McCall", 
   "Date": "1999", 
   "ArtistID": 7447, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "162.1999", 
-  "ArtistBio": "British of Palestinian origin, born in Beirut, Lebanon 1952", 
-  "CreditLine": "Gift of the artist in memory of Penny McCall", 
+  "ArtistBio": "(British of Palestinian origin, born in Beirut, Lebanon 1952)", 
+  "DateAcquired": "1999-05-20", 
+  "\ufeffTitle": "Untitled (Brain)", 
   "ObjectID": "63354"
 }

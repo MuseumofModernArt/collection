@@ -5,8 +5,7 @@
   "Artist": "Underwood and Underwood", 
   "URL": "http://www.moma.org/collection/works/58792", 
   "CuratorApproved": "Y", 
-  "Title": "German Airship Batallion", 
-  "DateAcquired": "2001-06-14", 
+  "CreditLine": "The New York Times Collection", 
   "Date": "1914-1917", 
   "ArtistID": 6008, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "2199.2001", 
-  "ArtistBio": "American, active 1880\u20131934", 
-  "CreditLine": "The New York Times Collection", 
+  "ArtistBio": "(American, active 1880\u20131934)", 
+  "DateAcquired": "2001-06-14", 
+  "\ufeffTitle": "German Airship Batallion", 
   "ObjectID": "58792"
 }

@@ -5,8 +5,7 @@
   "Artist": "Juan Downey", 
   "URL": "http://www.moma.org/collection/works/34928", 
   "CuratorApproved": "Y", 
-  "Title": "Drawing for With Energy Beyond These Walls", 
-  "DateAcquired": "1970-05-12", 
+  "CreditLine": "David Rockefeller Latin American Fund", 
   "Date": "1969", 
   "ArtistID": 1606, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "160.1970", 
-  "ArtistBio": "Chilean, 1940\u20131993", 
-  "CreditLine": "David Rockefeller Latin American Fund", 
+  "ArtistBio": "(Chilean, 1940\u20131993)", 
+  "DateAcquired": "1970-05-12", 
+  "\ufeffTitle": "Drawing for With Energy Beyond These Walls", 
   "ObjectID": "34928"
 }

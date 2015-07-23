@@ -5,8 +5,7 @@
   "Artist": "George Grosz", 
   "URL": "http://www.moma.org/collection/works/62784", 
   "CuratorApproved": "Y", 
-  "Title": "In the Shadows", 
-  "DateAcquired": "1945-04-26", 
+  "CreditLine": "Purchase", 
   "Date": "1921", 
   "ArtistID": 2374, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "139.1945.1-10", 
-  "ArtistBio": "American, born Germany. 1893\u20131959", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, born Germany. 1893\u20131959)", 
+  "DateAcquired": "1945-04-26", 
+  "\ufeffTitle": "In the Shadows (Im Schatten)", 
   "ObjectID": "62784"
 }

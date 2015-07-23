@@ -5,8 +5,7 @@
   "Artist": "John Coplans", 
   "URL": "http://www.moma.org/collection/works/45650", 
   "CuratorApproved": "Y", 
-  "Title": "Self Portrait", 
-  "DateAcquired": "1986-01-15", 
+  "CreditLine": "Robert and Joyce Menschel Fund", 
   "Date": "1985", 
   "ArtistID": 1237, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "72.1986", 
-  "ArtistBio": "British, 1920\u20132003", 
-  "CreditLine": "Robert and Joyce Menschel Fund", 
+  "ArtistBio": "(British, 1920\u20132003)", 
+  "DateAcquired": "1986-01-15", 
+  "\ufeffTitle": "Self Portrait", 
   "ObjectID": "45650"
 }

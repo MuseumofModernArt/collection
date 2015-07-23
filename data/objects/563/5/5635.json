@@ -5,8 +5,7 @@
   "Artist": "Peter Max", 
   "URL": "http://www.moma.org/collection/works/5635", 
   "CuratorApproved": "Y", 
-  "Title": "Toulouse Lautrec", 
-  "DateAcquired": "1968-03-07", 
+  "CreditLine": "Gift of Joseph H. Heil", 
   "Date": "1966", 
   "ArtistID": 3859, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "194.1968", 
-  "ArtistBio": "American, born Germany 1937", 
-  "CreditLine": "Gift of Joseph H. Heil", 
+  "ArtistBio": "(American, born Germany 1937)", 
+  "DateAcquired": "1968-03-07", 
+  "\ufeffTitle": "Toulouse Lautrec", 
   "ObjectID": "5635"
 }

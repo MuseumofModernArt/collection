@@ -5,8 +5,7 @@
   "Artist": "Marie Laurencin", 
   "URL": "http://www.moma.org/collection/works/34617", 
   "CuratorApproved": "Y", 
-  "Title": "The Blue Plume", 
-  "DateAcquired": "1934-03-27", 
+  "CreditLine": "Gift of Mrs. Meredith Hare", 
   "Date": "(c. 1914)", 
   "ArtistID": 3408, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "137.1934", 
-  "ArtistBio": "French, 1883\u20131956", 
-  "CreditLine": "Gift of Mrs. Meredith Hare", 
+  "ArtistBio": "(French, 1883\u20131956)", 
+  "DateAcquired": "1934-03-27", 
+  "\ufeffTitle": "The Blue Plume", 
   "ObjectID": "34617"
 }

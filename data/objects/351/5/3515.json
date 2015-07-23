@@ -5,8 +5,7 @@
   "Artist": "Ludwig Mies van der Rohe", 
   "URL": "http://www.moma.org/collection/works/3515", 
   "CuratorApproved": "Y", 
-  "Title": "Tugendhat Chair", 
-  "DateAcquired": "1976-10-22", 
+  "CreditLine": "Gift of Herbert Tugendhat, Knoll International, Inc. and Jack Lenor Larsen", 
   "Date": "1929-30", 
   "ArtistID": 7166, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "414.1976", 
-  "ArtistBio": "American, born Germany. 1886\u20131969", 
-  "CreditLine": "Gift of Herbert Tugendhat, Knoll International, Inc. and Jack Lenor Larsen", 
+  "ArtistBio": "(American, born Germany. 1886\u20131969)", 
+  "DateAcquired": "1976-10-22", 
+  "\ufeffTitle": "Tugendhat Chair", 
   "ObjectID": "3515"
 }

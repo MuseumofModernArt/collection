@@ -5,8 +5,7 @@
   "Artist": "Various Artists", 
   "URL": "http://www.moma.org/collection/works/13657", 
   "CuratorApproved": "Y", 
-  "Title": "Pobeda nad solntsem", 
-  "DateAcquired": "1977-05-03", 
+  "CreditLine": "Abby Aldrich Rockefeller Fund", 
   "Date": "(1913)", 
   "ArtistID": 6104, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "209.1977", 
-  "ArtistBio": "Various", 
-  "CreditLine": "Abby Aldrich Rockefeller Fund", 
+  "ArtistBio": "(Various)", 
+  "DateAcquired": "1977-05-03", 
+  "\ufeffTitle": "Pobeda nad solntsem (Victory Over the Sun)", 
   "ObjectID": "13657"
 }

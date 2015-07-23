@@ -5,8 +5,7 @@
   "Artist": "Jackson Pollock", 
   "URL": "http://www.moma.org/collection/works/35733", 
   "CuratorApproved": "Y", 
-  "Title": "Painting", 
-  "DateAcquired": "1957-12-04", 
+  "CreditLine": "Gift of Mr. and Mrs. Ira Haupt", 
   "Date": "(1953-54)", 
   "ArtistID": 4675, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "263.1957.a-b", 
-  "ArtistBio": "American, 1912\u20131956", 
-  "CreditLine": "Gift of Mr. and Mrs. Ira Haupt", 
+  "ArtistBio": "(American, 1912\u20131956)", 
+  "DateAcquired": "1957-12-04", 
+  "\ufeffTitle": "Painting", 
   "ObjectID": "35733"
 }

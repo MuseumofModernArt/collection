@@ -5,8 +5,7 @@
   "Artist": "Ludwig Hohlwein", 
   "URL": "http://www.moma.org/collection/works/4985", 
   "CuratorApproved": "Y", 
-  "Title": "Herr Sching Keramische Werkst\u00e4tten", 
-  "DateAcquired": "1990-01-17", 
+  "CreditLine": "Don Page Fund and Purchase", 
   "Date": "1910", 
   "ArtistID": 2700, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "82.1990", 
-  "ArtistBio": "German, 1874\u20131949", 
-  "CreditLine": "Don Page Fund and Purchase", 
+  "ArtistBio": "(German, 1874\u20131949)", 
+  "DateAcquired": "1990-01-17", 
+  "\ufeffTitle": "Herr Sching Keramische Werkst\u00e4tten", 
   "ObjectID": "4985"
 }

@@ -5,8 +5,7 @@
   "Artist": "Howard Hodgkin", 
   "URL": "http://www.moma.org/collection/works/11543", 
   "CuratorApproved": "Y", 
-  "Title": "As You'd Been Wont - Wantonly/Wantonly/Eros Past,  unbound plate (variant of plate 2) from The Way We Live Now", 
-  "DateAcquired": "1991-05-22", 
+  "CreditLine": "", 
   "Date": "1990-1991", 
   "ArtistID": 2679, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "134.1991.B", 
-  "ArtistBio": "British, born 1932", 
-  "CreditLine": "NULL", 
+  "ArtistBio": "(British, born 1932)", 
+  "DateAcquired": "1991-05-22", 
+  "\ufeffTitle": "As You'd Been Wont - Wantonly/Wantonly/Eros Past from The Way We Live Now", 
   "ObjectID": "11543"
 }

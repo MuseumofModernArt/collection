@@ -5,8 +5,7 @@
   "Artist": "Pablo Picasso", 
   "URL": "http://www.moma.org/collection/works/12846", 
   "CuratorApproved": "Y", 
-  "Title": "Two Women with a Mirror, plate III (page 19) from Sable Mouvant", 
-  "DateAcquired": "1985-06-04", 
+  "CreditLine": "Abby Aldrich Rockefeller Fund", 
   "Date": "(Print executed 1965)", 
   "ArtistID": 4609, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "179.1985.3", 
-  "ArtistBio": "Spanish, 1881\u20131973", 
-  "CreditLine": "Abby Aldrich Rockefeller Fund", 
+  "ArtistBio": "(Spanish, 1881\u20131973)", 
+  "DateAcquired": "1985-06-04", 
+  "\ufeffTitle": "Two Women with a Mirror from the illustrated book Sable Mouvant", 
   "ObjectID": "12846"
 }

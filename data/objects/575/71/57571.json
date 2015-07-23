@@ -5,8 +5,7 @@
   "Artist": "Hiroshi Yamazaki", 
   "URL": "http://www.moma.org/collection/works/57571", 
   "CuratorApproved": "Y", 
-  "Title": "Observation: The Sun- 1", 
-  "DateAcquired": "1979-10-11", 
+  "CreditLine": "The Family of Man Fund", 
   "Date": "February 2, 1978", 
   "ArtistID": 6489, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "1035.1979.1", 
-  "ArtistBio": "Japanese", 
-  "CreditLine": "The Family of Man Fund", 
+  "ArtistBio": "(Japanese)", 
+  "DateAcquired": "1979-10-11", 
+  "\ufeffTitle": "Observation: The Sun- 1", 
   "ObjectID": "57571"
 }

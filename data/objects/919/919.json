@@ -5,8 +5,7 @@
   "Artist": "Massimo Scolari", 
   "URL": "http://www.moma.org/collection/works/919", 
   "CuratorApproved": "Y", 
-  "Title": "Addio Melampo Project  Oblique projection", 
-  "DateAcquired": "2000-10-31", 
+  "CreditLine": "Gift of The Howard Gilman Foundation", 
   "Date": "1975", 
   "ArtistID": 8125, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "1294.2000", 
-  "ArtistBio": "Italian, born 1943", 
-  "CreditLine": "Gift of The Howard Gilman Foundation", 
+  "ArtistBio": "(Italian, born 1943)", 
+  "DateAcquired": "2000-10-31", 
+  "\ufeffTitle": "Addio Melampo Project, Oblique projection", 
   "ObjectID": "919"
 }

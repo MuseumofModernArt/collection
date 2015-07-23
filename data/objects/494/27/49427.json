@@ -5,8 +5,7 @@
   "Artist": "Thomas Struth", 
   "URL": "http://www.moma.org/collection/works/49427", 
   "CuratorApproved": "Y", 
-  "Title": "Le Lignon (Horizontal), Geneva", 
-  "DateAcquired": "1999-06-10", 
+  "CreditLine": "Horace W. Goldsmith Fund through Robert B. Menschel", 
   "Date": "1989", 
   "ArtistID": 7825, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "242.1999", 
-  "ArtistBio": "German, born 1954", 
-  "CreditLine": "Horace W. Goldsmith Fund through Robert B. Menschel", 
+  "ArtistBio": "(German, born 1954)", 
+  "DateAcquired": "1999-06-10", 
+  "\ufeffTitle": "Le Lignon (Horizontal), Geneva", 
   "ObjectID": "49427"
 }

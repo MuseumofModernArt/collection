@@ -5,8 +5,7 @@
   "Artist": "Ray K. Metzker", 
   "URL": "http://www.moma.org/collection/works/49844", 
   "CuratorApproved": "Y", 
-  "Title": "Chicago", 
-  "DateAcquired": "1959-04-22", 
+  "CreditLine": "Purchase", 
   "Date": "1958", 
   "ArtistID": 3948, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "274.1959", 
-  "ArtistBio": "American,1931\u20132014", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American,1931\u20132014)", 
+  "DateAcquired": "1959-04-22", 
+  "\ufeffTitle": "Chicago", 
   "ObjectID": "49844"
 }

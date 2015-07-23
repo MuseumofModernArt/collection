@@ -5,8 +5,7 @@
   "Artist": "Giorgio Morandi", 
   "URL": "http://www.moma.org/collection/works/61004", 
   "CuratorApproved": "Y", 
-  "Title": "Haystack at Grizzana", 
-  "DateAcquired": "1958-02-19", 
+  "CreditLine": "Gift of the World House Galleries", 
   "Date": "(1929)", 
   "ArtistID": 4079, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "54.1958", 
-  "ArtistBio": "Italian, 1890\u20131964", 
-  "CreditLine": "Gift of the World House Galleries", 
+  "ArtistBio": "(Italian, 1890\u20131964)", 
+  "DateAcquired": "1958-02-19", 
+  "\ufeffTitle": "Haystack at Grizzana", 
   "ObjectID": "61004"
 }

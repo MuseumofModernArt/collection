@@ -5,8 +5,7 @@
   "Artist": "Giorgio de Chirico", 
   "URL": "http://www.moma.org/collection/works/63924", 
   "CuratorApproved": "Y", 
-  "Title": "Villa by the Sea (Villa Sul Mare)", 
-  "DateAcquired": "NULL", 
+  "CreditLine": "Gift of Abby Aldrich Rockefeller", 
   "Date": "(c. 1929)", 
   "ArtistID": 1106, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "183.1934", 
-  "ArtistBio": "Italian, born Greece. 1888\u20131978", 
-  "CreditLine": "Gift of Abby Aldrich Rockefeller", 
+  "ArtistBio": "(Italian, born Greece. 1888\u20131978)", 
+  "DateAcquired": "", 
+  "\ufeffTitle": "Villa by the Sea (Villa Sul Mare)", 
   "ObjectID": "63924"
 }

@@ -1,12 +1,11 @@
 {
   "Medium": "Photolithograph", 
-  "Dimensions": "Composition: 15 3/4 x 15 3/16\" (40 x 38.6 cm)  Sheet: 19 5/16 x 19 1/2\" (49 x 49.5 cm)", 
+  "Dimensions": "Composition: 15 3/4 x 15 3/16\" (40 x 38.6 cm)\r\nSheet: 19 5/16 x 19 1/2\" (49 x 49.5 cm)", 
   "Classification": "Print", 
   "Artist": "Raymond Hains", 
   "URL": "http://www.moma.org/collection/works/66210", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled from the portfolio The New Realists (Les Nouveaux R\u00e9alistes)", 
-  "DateAcquired": "1989-10-12", 
+  "CreditLine": "Walter Thayer Bequest", 
   "Date": "1973", 
   "ArtistID": 2455, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "291.1989.6", 
-  "ArtistBio": "French, 1926\u20132005", 
-  "CreditLine": "Walter Thayer Bequest", 
+  "ArtistBio": "(French, 1926\u20132005)", 
+  "DateAcquired": "1989-10-12", 
+  "\ufeffTitle": "Untitled from the portfolio The New Realists (Les Nouveaux R\u00e9alistes)", 
   "ObjectID": "66210"
 }

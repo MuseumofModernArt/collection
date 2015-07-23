@@ -5,8 +5,7 @@
   "Artist": "Unknown photographer", 
   "URL": "http://www.moma.org/collection/works/51419", 
   "CuratorApproved": "Y", 
-  "Title": "Shortly Before Finishing", 
-  "DateAcquired": "NULL", 
+  "CreditLine": "Gift of the Grandchildren of Daniel E. Cahill", 
   "Date": "c. 1926", 
   "ArtistID": 6028, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "347.1975.9", 
-  "ArtistBio": "NULL", 
-  "CreditLine": "Gift of the Grandchildren of Daniel E. Cahill", 
+  "ArtistBio": "", 
+  "DateAcquired": "", 
+  "\ufeffTitle": "Shortly Before Finishing", 
   "ObjectID": "51419"
 }

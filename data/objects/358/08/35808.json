@@ -5,8 +5,7 @@
   "Artist": "Leon Polk Smith", 
   "URL": "http://www.moma.org/collection/works/35808", 
   "CuratorApproved": "Y", 
-  "Title": "Torn Drawing", 
-  "DateAcquired": "1966-05-10", 
+  "CreditLine": "Given anonymously in memory of Mrs. Henry Epstein", 
   "Date": "1961", 
   "ArtistID": 5488, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "269.1966", 
-  "ArtistBio": "American, 1906\u20131996", 
-  "CreditLine": "Given anonymously in memory of Mrs. Henry Epstein", 
+  "ArtistBio": "(American, 1906\u20131996)", 
+  "DateAcquired": "1966-05-10", 
+  "\ufeffTitle": "Torn Drawing", 
   "ObjectID": "35808"
 }

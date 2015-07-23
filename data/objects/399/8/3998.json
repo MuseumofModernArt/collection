@@ -1,12 +1,11 @@
 {
   "Medium": "Jute, silk boucle yarn, and wool", 
-  "Dimensions": ".a: 25 3/4 x 17 1/2\" (65.4 x 44.5 cm)  .b: 4 3/4 x 4\" (12.1 x 10.2 cm)  .c: 4 3/4 x 4\" (12.1 x 10.2 cm)  .d: 4 1/4 x 2 3/4\" (10.8 x 7 cm)", 
+  "Dimensions": ".a: 25 3/4 x 17 1/2\" (65.4 x 44.5 cm)\r\n.b: 4 3/4 x 4\" (12.1 x 10.2 cm)\r\n.c: 4 3/4 x 4\" (12.1 x 10.2 cm)\r\n.d: 4 1/4 x 2 3/4\" (10.8 x 7 cm)", 
   "Classification": "A&D Design", 
   "Artist": "Gunta St\u00f6lzl", 
   "URL": "http://www.moma.org/collection/works/3998", 
   "CuratorApproved": "Y", 
-  "Title": "Rumba Upholstery Material", 
-  "DateAcquired": "1970-11-05", 
+  "CreditLine": "Gift of Jack Lenor Larsen", 
   "Date": "1932", 
   "ArtistID": 5675, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "477.1970.2.a-d", 
-  "ArtistBio": "Swiss, born Germany. 1897\u20131983", 
-  "CreditLine": "Gift of Jack Lenor Larsen", 
+  "ArtistBio": "(Swiss, born Germany. 1897\u20131983)", 
+  "DateAcquired": "1970-11-05", 
+  "\ufeffTitle": "Rumba Upholstery Material", 
   "ObjectID": "3998"
 }

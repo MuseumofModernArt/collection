@@ -5,8 +5,7 @@
   "Artist": "Sam Falk/The New York Times", 
   "URL": "http://www.moma.org/collection/works/58587", 
   "CuratorApproved": "Y", 
-  "Title": "The Return of Andy Warhol", 
-  "DateAcquired": "2001-06-14", 
+  "CreditLine": "The New York Times Collection", 
   "Date": "1968", 
   "ArtistID": 8536, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "1994.2001", 
-  "ArtistBio": "American, 1901\u20131991", 
-  "CreditLine": "The New York Times Collection", 
+  "ArtistBio": "(American, 1901\u20131991)", 
+  "DateAcquired": "2001-06-14", 
+  "\ufeffTitle": "The Return of Andy Warhol", 
   "ObjectID": "58587"
 }

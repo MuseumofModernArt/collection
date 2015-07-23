@@ -1,12 +1,11 @@
 {
   "Medium": "Etching, aquatint and drypoint", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "Henry Moore", 
   "URL": "http://www.moma.org/collection/works/69091", 
   "CuratorApproved": "Y", 
-  "Title": "Reclining Figure in Dark Landscape", 
-  "DateAcquired": "1990-10-23", 
+  "CreditLine": "Gift of Mrs. Nina Bunshaft", 
   "Date": "1979-80", 
   "ArtistID": 4071, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "435.1990", 
-  "ArtistBio": "British, 1898\u20131986", 
-  "CreditLine": "Gift of Mrs. Nina Bunshaft", 
+  "ArtistBio": "(British, 1898\u20131986)", 
+  "DateAcquired": "1990-10-23", 
+  "\ufeffTitle": "Reclining Figure in Dark Landscape", 
   "ObjectID": "69091"
 }

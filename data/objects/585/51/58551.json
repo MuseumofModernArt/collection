@@ -5,8 +5,7 @@
   "Artist": "Neal Boenzi/The New York Times", 
   "URL": "http://www.moma.org/collection/works/58551", 
   "CuratorApproved": "Y", 
-  "Title": "Collapse: Firemen Scramble to Escape Falling Wall on 137th Street near Lincoln Avenue, in the Bronx", 
-  "DateAcquired": "2001-06-14", 
+  "CreditLine": "The New York Times Collection", 
   "Date": "July 18, 1962", 
   "ArtistID": 8512, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "1958.2001", 
-  "ArtistBio": "American, born 1925", 
-  "CreditLine": "The New York Times Collection", 
+  "ArtistBio": "(American, born 1925)", 
+  "DateAcquired": "2001-06-14", 
+  "\ufeffTitle": "Collapse: Firemen Scramble to Escape Falling Wall on 137th Street near Lincoln Avenue, in the Bronx", 
   "ObjectID": "58551"
 }

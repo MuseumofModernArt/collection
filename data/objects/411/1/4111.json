@@ -5,8 +5,7 @@
   "Artist": "Henri Tronquoy", 
   "URL": "http://www.moma.org/collection/works/4111", 
   "CuratorApproved": "Y", 
-  "Title": "Necklace", 
-  "DateAcquired": "1967-06-06", 
+  "CreditLine": "Gift of Sheila Hicks", 
   "Date": "1966", 
   "ArtistID": 5936, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "571.1967", 
-  "ArtistBio": "French", 
-  "CreditLine": "Gift of Sheila Hicks", 
+  "ArtistBio": "(French)", 
+  "DateAcquired": "1967-06-06", 
+  "\ufeffTitle": "Necklace", 
   "ObjectID": "4111"
 }

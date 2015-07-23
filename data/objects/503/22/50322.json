@@ -4,9 +4,8 @@
   "Classification": "Photograph", 
   "Artist": "Lewis W. Hine", 
   "URL": "", 
-  "CuratorApproved": "Y", 
-  "Title": "Bowery Mission Bread Line, 2 A.M.", 
-  "DateAcquired": "1965-04-06", 
+  "CuratorApproved": "N", 
+  "CreditLine": "Purchase", 
   "Date": "1907", 
   "ArtistID": 2657, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "306.1965", 
-  "ArtistBio": "American, 1874\u20131940", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, 1874\u20131940)", 
+  "DateAcquired": "1965-04-06", 
+  "\ufeffTitle": "Bowery Mission Bread Line, 2 A.M.", 
   "ObjectID": "50322"
 }

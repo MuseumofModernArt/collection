@@ -1,12 +1,11 @@
 {
   "Medium": "Lithograph and screenprint", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "James Rosenquist", 
   "URL": "http://www.moma.org/collection/works/67955", 
   "CuratorApproved": "Y", 
-  "Title": "Flamingo Capsule", 
-  "DateAcquired": "1988-10-25", 
+  "CreditLine": "Gift of Leo and Jean-Christophe Castelli in memory of Toiny Castelli", 
   "Date": "1973", 
   "ArtistID": 5021, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "371.1988", 
-  "ArtistBio": "American, born 1933", 
-  "CreditLine": "Gift of Leo and Jean-Christophe Castelli in memory of Toiny Castelli", 
+  "ArtistBio": "(American, born 1933)", 
+  "DateAcquired": "1988-10-25", 
+  "\ufeffTitle": "Flamingo Capsule", 
   "ObjectID": "67955"
 }

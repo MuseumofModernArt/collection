@@ -5,8 +5,7 @@
   "Artist": "Emil Nolde", 
   "URL": "http://www.moma.org/collection/works/69349", 
   "CuratorApproved": "Y", 
-  "Title": "Mill by the Water", 
-  "DateAcquired": "1940-04-05", 
+  "CreditLine": "Gift of Abby Aldrich Rockefeller", 
   "Date": "(1926)", 
   "ArtistID": 4327, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "452.1940", 
-  "ArtistBio": "German, 1867\u20131956", 
-  "CreditLine": "Gift of Abby Aldrich Rockefeller", 
+  "ArtistBio": "(German, 1867\u20131956)", 
+  "DateAcquired": "1940-04-05", 
+  "\ufeffTitle": "Mill by the Water (M\u00fchle am Wasser)", 
   "ObjectID": "69349"
 }

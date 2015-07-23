@@ -5,8 +5,7 @@
   "Artist": "Olli Aninbaum", 
   "URL": "http://www.moma.org/collection/works/2952", 
   "CuratorApproved": "Y", 
-  "Title": "Carafe", 
-  "DateAcquired": "1981-04-30", 
+  "CreditLine": "Gift of Wartsila, Inc.", 
   "Date": "1978", 
   "ArtistID": 5796, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "238.1981", 
-  "ArtistBio": "Finnish", 
-  "CreditLine": "Gift of Wartsila, Inc.", 
+  "ArtistBio": "(Finnish)", 
+  "DateAcquired": "1981-04-30", 
+  "\ufeffTitle": "Carafe", 
   "ObjectID": "2952"
 }

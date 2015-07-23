@@ -5,8 +5,7 @@
   "Artist": "Dan Christensen", 
   "URL": "http://www.moma.org/collection/works/37820", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled (No. 003-78)", 
-  "DateAcquired": "1980-12-18", 
+  "CreditLine": "Gift of Mrs. June Noble Larkin", 
   "Date": "1978", 
   "ArtistID": 1113, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "704.1980", 
-  "ArtistBio": "American, 1942\u20132007", 
-  "CreditLine": "Gift of Mrs. June Noble Larkin", 
+  "ArtistBio": "(American, 1942\u20132007)", 
+  "DateAcquired": "1980-12-18", 
+  "\ufeffTitle": "Untitled (No. 003-78)", 
   "ObjectID": "37820"
 }

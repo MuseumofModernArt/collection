@@ -5,8 +5,7 @@
   "Artist": "Eddie Hausner/The New York Times", 
   "URL": "http://www.moma.org/collection/works/58606", 
   "CuratorApproved": "Y", 
-  "Title": "Just Another Voter", 
-  "DateAcquired": "2001-06-14", 
+  "CreditLine": "The New York Times Collection", 
   "Date": "June 2, 1964", 
   "ArtistID": 8551, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "2013.2001", 
-  "ArtistBio": "American, born 1926", 
-  "CreditLine": "The New York Times Collection", 
+  "ArtistBio": "(American, born 1926)", 
+  "DateAcquired": "2001-06-14", 
+  "\ufeffTitle": "Just Another Voter", 
   "ObjectID": "58606"
 }

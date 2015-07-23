@@ -5,8 +5,7 @@
   "Artist": "Jean (Hans) Arp", 
   "URL": "http://www.moma.org/collection/works/34023", 
   "CuratorApproved": "Y", 
-  "Title": "Automatic Drawing", 
-  "DateAcquired": "1936-12-17", 
+  "CreditLine": "Given anonymously", 
   "Date": "(1917-18) (inscribed 1916)", 
   "Keywords": [
     "online art collection", 
@@ -16,7 +15,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "109.1936", 
-  "ArtistBio": "French, born Germany (Alsace). 1886\u20131966", 
-  "CreditLine": "Given anonymously", 
+  "ArtistBio": "(French, born Germany (Alsace). 1886\u20131966)", 
+  "DateAcquired": "1936-12-17", 
+  "\ufeffTitle": "Automatic Drawing", 
   "ObjectID": "34023"
 }

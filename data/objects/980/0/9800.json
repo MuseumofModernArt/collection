@@ -5,8 +5,7 @@
   "Artist": "A.R. Penck (Ralf Winkler)", 
   "URL": "http://www.moma.org/collection/works/9800", 
   "CuratorApproved": "Y", 
-  "Title": "Standarts", 
-  "DateAcquired": "1982-01-21", 
+  "CreditLine": "Purchase", 
   "Date": "1970", 
   "ArtistID": 4546, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "24.1982", 
-  "ArtistBio": "German, born 1939", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(German, born 1939)", 
+  "DateAcquired": "1982-01-21", 
+  "\ufeffTitle": "Standarts", 
   "ObjectID": "9800"
 }

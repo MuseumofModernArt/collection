@@ -5,8 +5,7 @@
   "Artist": "Frantisek Kalivoda", 
   "URL": "http://www.moma.org/collection/works/7948", 
   "CuratorApproved": "Y", 
-  "Title": "L. Moholy-Nagy", 
-  "DateAcquired": "1999-12-10", 
+  "CreditLine": "Jan Tschichold Collection, Gift of Philip Johnson", 
   "Date": "1934", 
   "ArtistID": 8251, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "693.1999", 
-  "ArtistBio": "Czech, 1913\u20131971", 
-  "CreditLine": "Jan Tschichold Collection, Gift of Philip Johnson", 
+  "ArtistBio": "(Czech, 1913\u20131971)", 
+  "DateAcquired": "1999-12-10", 
+  "\ufeffTitle": "L. Moholy-Nagy", 
   "ObjectID": "7948"
 }

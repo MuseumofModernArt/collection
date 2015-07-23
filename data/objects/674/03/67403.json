@@ -5,8 +5,7 @@
   "Artist": "Jim Dine", 
   "URL": "http://www.moma.org/collection/works/67403", 
   "CuratorApproved": "Y", 
-  "Title": "Four C Clamps", 
-  "DateAcquired": "1962-12-11", 
+  "CreditLine": "Gift of the Celeste and Armand Bartos Foundation", 
   "Date": "1962", 
   "ArtistID": 1547, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "347.1962", 
-  "ArtistBio": "American, born 1935", 
-  "CreditLine": "Gift of the Celeste and Armand Bartos Foundation", 
+  "ArtistBio": "(American, born 1935)", 
+  "DateAcquired": "1962-12-11", 
+  "\ufeffTitle": "Four C Clamps", 
   "ObjectID": "67403"
 }

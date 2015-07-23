@@ -5,8 +5,7 @@
   "Artist": "Walter Pichler", 
   "URL": "http://www.moma.org/collection/works/699", 
   "CuratorApproved": "Y", 
-  "Title": "Entrance to an Underground City, project  Perspective", 
-  "DateAcquired": "1963-11-12", 
+  "CreditLine": "Philip Johnson Fund", 
   "Date": "1963", 
   "ArtistID": 4612, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "567.1963", 
-  "ArtistBio": "Austrian, 1936\u20132012", 
-  "CreditLine": "Philip Johnson Fund", 
+  "ArtistBio": "(Austrian, 1936\u20132012)", 
+  "DateAcquired": "1963-11-12", 
+  "\ufeffTitle": "Entrance to an Underground City, project, Perspective", 
   "ObjectID": "699"
 }

@@ -5,8 +5,7 @@
   "Artist": "Colin Murray", 
   "URL": "http://www.moma.org/collection/works/44862", 
   "CuratorApproved": "Y", 
-  "Title": "Stone Column at Baroli, Udaipur", 
-  "DateAcquired": "1989-03-09", 
+  "CreditLine": "Gift of Paul F. Walter", 
   "Date": "1872-73", 
   "ArtistID": 4184, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "50.1989", 
-  "ArtistBio": "British", 
-  "CreditLine": "Gift of Paul F. Walter", 
+  "ArtistBio": "(British)", 
+  "DateAcquired": "1989-03-09", 
+  "\ufeffTitle": "Stone Column at Baroli, Udaipur", 
   "ObjectID": "44862"
 }

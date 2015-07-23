@@ -5,8 +5,7 @@
   "Artist": "Gay Block", 
   "URL": "http://www.moma.org/collection/works/54197", 
   "CuratorApproved": "Y", 
-  "Title": "Arie Van Mansum, the Netherlands", 
-  "DateAcquired": "1994-10-13", 
+  "CreditLine": "Gift of the photographer", 
   "Date": "1988", 
   "ArtistID": 607, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "484.1994.x1-x2", 
-  "ArtistBio": "American, born 1942", 
-  "CreditLine": "Gift of the photographer", 
+  "ArtistBio": "(American, born 1942)", 
+  "DateAcquired": "1994-10-13", 
+  "\ufeffTitle": "Arie Van Mansum, the Netherlands from the series Rescuers of the Holocaust", 
   "ObjectID": "54197"
 }

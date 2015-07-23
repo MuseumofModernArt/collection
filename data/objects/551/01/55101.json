@@ -5,8 +5,7 @@
   "Artist": "David Goldblatt", 
   "URL": "http://www.moma.org/collection/works/55101", 
   "CuratorApproved": "Y", 
-  "Title": "A New Shack under Construction, Lenasia Extension 9, Lenasia, Transvaal", 
-  "DateAcquired": "1998-10-15", 
+  "CreditLine": "Purchase", 
   "Date": "May 5, 1990", 
   "ArtistID": 2214, 
   "Keywords": [
@@ -20,7 +19,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "556.1998", 
-  "ArtistBio": "South African, born 1930", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(South African, born 1930)", 
+  "DateAcquired": "1998-10-15", 
+  "\ufeffTitle": "A New Shack under Construction, Lenasia Extension 9, Lenasia, Transvaal", 
   "ObjectID": "55101"
 }

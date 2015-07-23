@@ -5,8 +5,7 @@
   "Artist": "Robert Morris", 
   "URL": "http://www.moma.org/collection/works/36080", 
   "CuratorApproved": "Y", 
-  "Title": "Blind Time XIII", 
-  "DateAcquired": "1974-05-21", 
+  "CreditLine": "Acquired with matching funds from The Lily Auchincloss Foundation, Inc. and the National Endowment for the Arts", 
   "Date": "1973", 
   "ArtistID": 4108, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "299.1974", 
-  "ArtistBio": "American, born 1931", 
-  "CreditLine": "Acquired with matching funds from The Lily Auchincloss Foundation, Inc. and the National Endowment for the Arts", 
+  "ArtistBio": "(American, born 1931)", 
+  "DateAcquired": "1974-05-21", 
+  "\ufeffTitle": "Blind Time XIII", 
   "ObjectID": "36080"
 }

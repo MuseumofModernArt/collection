@@ -5,8 +5,7 @@
   "Artist": "Bea Maddock", 
   "URL": "http://www.moma.org/collection/works/67494", 
   "CuratorApproved": "Y", 
-  "Title": "Funeral II", 
-  "DateAcquired": "1973-10-24", 
+  "CreditLine": "Purchase", 
   "Date": "September 1971", 
   "ArtistID": 3678, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "351.1973", 
-  "ArtistBio": "Australian, born 1934", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(Australian, born 1934)", 
+  "DateAcquired": "1973-10-24", 
+  "\ufeffTitle": "Funeral II", 
   "ObjectID": "67494"
 }

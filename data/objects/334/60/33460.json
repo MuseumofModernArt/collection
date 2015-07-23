@@ -5,8 +5,7 @@
   "Artist": "Franz Hitzler", 
   "URL": "http://www.moma.org/collection/works/33460", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1988-02-19", 
+  "CreditLine": "Gift of the artist", 
   "Date": "1987", 
   "ArtistID": 2673, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "40.1988", 
-  "ArtistBio": "German, born 1946", 
-  "CreditLine": "Gift of the artist", 
+  "ArtistBio": "(German, born 1946)", 
+  "DateAcquired": "1988-02-19", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "33460"
 }

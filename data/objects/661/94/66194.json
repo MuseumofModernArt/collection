@@ -5,8 +5,7 @@
   "Artist": "Jasper Johns", 
   "URL": "http://www.moma.org/collection/works/66194", 
   "CuratorApproved": "Y", 
-  "Title": "Flags", 
-  "DateAcquired": "1968-04-23", 
+  "CreditLine": "Gift of the Celeste and Armand Bartos Foundation", 
   "Date": "1968", 
   "ArtistID": 2923, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "291.1968", 
-  "ArtistBio": "American, born 1930", 
-  "CreditLine": "Gift of the Celeste and Armand Bartos Foundation", 
+  "ArtistBio": "(American, born 1930)", 
+  "DateAcquired": "1968-04-23", 
+  "\ufeffTitle": "Flags", 
   "ObjectID": "66194"
 }

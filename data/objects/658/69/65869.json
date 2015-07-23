@@ -5,8 +5,7 @@
   "Artist": "Andr\u00e9 Masson", 
   "URL": "http://www.moma.org/collection/works/65869", 
   "CuratorApproved": "Y", 
-  "Title": "The Frogs (Les grenouilles)", 
-  "DateAcquired": "1950-10-11", 
+  "CreditLine": "Gift of Curt Valentin", 
   "Date": "c. 1948", 
   "ArtistID": 3821, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "278.1950", 
-  "ArtistBio": "French, 1896\u20131987", 
-  "CreditLine": "Gift of Curt Valentin", 
+  "ArtistBio": "(French, 1896\u20131987)", 
+  "DateAcquired": "1950-10-11", 
+  "\ufeffTitle": "The Frogs (Les grenouilles)", 
   "ObjectID": "65869"
 }

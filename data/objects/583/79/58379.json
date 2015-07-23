@@ -5,8 +5,7 @@
   "Artist": "Charles Sheeler", 
   "URL": "http://www.moma.org/collection/works/58379", 
   "CuratorApproved": "Y", 
-  "Title": "Meta-Mold, Cedarburg, Wisconsin", 
-  "DateAcquired": "1968-05-01", 
+  "CreditLine": "Gift of David H. McAlpin", 
   "Date": "1952", 
   "ArtistID": 5383, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "1796.1968", 
-  "ArtistBio": "American, 1883\u20131965", 
-  "CreditLine": "Gift of David H. McAlpin", 
+  "ArtistBio": "(American, 1883\u20131965)", 
+  "DateAcquired": "1968-05-01", 
+  "\ufeffTitle": "Meta-Mold, Cedarburg, Wisconsin", 
   "ObjectID": "58379"
 }

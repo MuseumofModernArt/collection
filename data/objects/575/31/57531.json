@@ -5,8 +5,7 @@
   "Artist": "Bruce Horowitz", 
   "URL": "http://www.moma.org/collection/works/57531", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1979-10-11", 
+  "CreditLine": "The Family of Man Fund", 
   "Date": "1978", 
   "ArtistID": 2729, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "1015.1979", 
-  "ArtistBio": "American, born 1949", 
-  "CreditLine": "The Family of Man Fund", 
+  "ArtistBio": "(American, born 1949)", 
+  "DateAcquired": "1979-10-11", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "57531"
 }

@@ -5,8 +5,7 @@
   "Artist": "Claudia Andujar", 
   "URL": "http://www.moma.org/collection/works/48505", 
   "CuratorApproved": "Y", 
-  "Title": "Bahia, Brazil", 
-  "DateAcquired": "1966-04-12", 
+  "CreditLine": "Benjamin Zeller Memorial Fund", 
   "Date": "1964", 
   "ArtistID": 182, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "208.1966", 
-  "ArtistBio": "Swiss, born 1931", 
-  "CreditLine": "Benjamin Zeller Memorial Fund", 
+  "ArtistBio": "(Swiss, born 1931)", 
+  "DateAcquired": "1966-04-12", 
+  "\ufeffTitle": "Bahia, Brazil", 
   "ObjectID": "48505"
 }

@@ -5,8 +5,7 @@
   "Artist": "Charles Burchfield", 
   "URL": "http://www.moma.org/collection/works/33481", 
   "CuratorApproved": "Y", 
-  "Title": "The First Hepaticas", 
-  "DateAcquired": "1935-06-13", 
+  "CreditLine": "Gift of Abby Aldrich Rockefeller", 
   "Date": "(1917-18)", 
   "ArtistID": 870, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "43.1935", 
-  "ArtistBio": "American, 1893\u20131967", 
-  "CreditLine": "Gift of Abby Aldrich Rockefeller", 
+  "ArtistBio": "(American, 1893\u20131967)", 
+  "DateAcquired": "1935-06-13", 
+  "\ufeffTitle": "The First Hepaticas", 
   "ObjectID": "33481"
 }

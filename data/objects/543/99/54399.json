@@ -5,8 +5,7 @@
   "Artist": "Jerome Liebling", 
   "URL": "http://www.moma.org/collection/works/54399", 
   "CuratorApproved": "Y", 
-  "Title": "Union Square, New York City", 
-  "DateAcquired": "1994-10-13", 
+  "CreditLine": "The Family of Man Fund", 
   "Date": "1947", 
   "ArtistID": 3549, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "497.1994", 
-  "ArtistBio": "American, 1924\u20132011", 
-  "CreditLine": "The Family of Man Fund", 
+  "ArtistBio": "(American, 1924\u20132011)", 
+  "DateAcquired": "1994-10-13", 
+  "\ufeffTitle": "Union Square, New York City", 
   "ObjectID": "54399"
 }

@@ -5,8 +5,7 @@
   "Artist": "Andr\u00e9 Masson", 
   "URL": "http://www.moma.org/collection/works/35646", 
   "CuratorApproved": "Y", 
-  "Title": "Animals Devouring Themselves", 
-  "DateAcquired": "1935-11-12", 
+  "CreditLine": "Purchase", 
   "Date": "(1929)", 
   "ArtistID": 3821, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "256.1935", 
-  "ArtistBio": "French, 1896\u20131987", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(French, 1896\u20131987)", 
+  "DateAcquired": "1935-11-12", 
+  "\ufeffTitle": "Animals Devouring Themselves", 
   "ObjectID": "35646"
 }

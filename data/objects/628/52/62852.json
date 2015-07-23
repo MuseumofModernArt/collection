@@ -1,12 +1,11 @@
 {
   "Medium": "Drypoint, mezzotint, engraving and brushed cooper plate", 
-  "Dimensions": "plate  19 5/8 x 19 1/2\" (49.8 x 49.6 cm)  sheet  31 5/16 x 25 3/8\" (79 x 64.4 cm)", 
+  "Dimensions": "plate  19 5/8 x 19 1/2\" (49.8 x 49.6 cm)\r\nsheet  31 5/16 x 25 3/8\" (79 x 64.4 cm)", 
   "Classification": "Print", 
   "Artist": "Ji\u00fei Anderle", 
   "URL": "http://www.moma.org/collection/works/62852", 
   "CuratorApproved": "Y", 
-  "Title": "Open Door - Milada", 
-  "DateAcquired": "1981-05-06", 
+  "CreditLine": "Gift of Anne and Jacques Baruch", 
   "Date": "(1979)", 
   "ArtistID": 158, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "141.1981", 
-  "ArtistBio": "Czech, born 1936", 
-  "CreditLine": "Gift of Anne and Jacques Baruch", 
+  "ArtistBio": "(Czech, born 1936)", 
+  "DateAcquired": "1981-05-06", 
+  "\ufeffTitle": "Open Door - Milada", 
   "ObjectID": "62852"
 }

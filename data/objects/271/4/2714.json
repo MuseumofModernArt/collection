@@ -5,8 +5,7 @@
   "Artist": "Finn Juhl", 
   "URL": "http://www.moma.org/collection/works/2714", 
   "CuratorApproved": "Y", 
-  "Title": "Armchair (model 48)", 
-  "DateAcquired": "1950-06-08", 
+  "CreditLine": "Edgar Kaufmann, Jr. Fund", 
   "Date": "c. 1946", 
   "ArtistID": 2949, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "215.1950", 
-  "ArtistBio": "Danish, 1912\u20131989", 
-  "CreditLine": "Edgar Kaufmann, Jr. Fund", 
+  "ArtistBio": "(Danish, 1912\u20131989)", 
+  "DateAcquired": "1950-06-08", 
+  "\ufeffTitle": "Armchair (model 48)", 
   "ObjectID": "2714"
 }

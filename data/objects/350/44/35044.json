@@ -5,8 +5,7 @@
   "Artist": "Susan Rothenberg", 
   "URL": "http://www.moma.org/collection/works/35044", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled Drawing, No. 41", 
-  "DateAcquired": "1977-04-20", 
+  "CreditLine": "Acquired with matching funds from Alice C. Simkins and the National Endowment for the Arts", 
   "Date": "1977", 
   "ArtistID": 5044, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "174.1977", 
-  "ArtistBio": "American, born 1945", 
-  "CreditLine": "Acquired with matching funds from Alice C. Simkins and the National Endowment for the Arts", 
+  "ArtistBio": "(American, born 1945)", 
+  "DateAcquired": "1977-04-20", 
+  "\ufeffTitle": "Untitled Drawing, No. 41", 
   "ObjectID": "35044"
 }

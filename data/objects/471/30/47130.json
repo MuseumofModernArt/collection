@@ -5,8 +5,7 @@
   "Artist": "Harry Callahan", 
   "URL": "http://www.moma.org/collection/works/47130", 
   "CuratorApproved": "Y", 
-  "Title": "Eleanor", 
-  "DateAcquired": "1974-04-02", 
+  "CreditLine": "Gift of the artist", 
   "Date": "1948", 
   "ArtistID": 924, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "165.1974", 
-  "ArtistBio": "American, 1912\u20131999", 
-  "CreditLine": "Gift of the artist", 
+  "ArtistBio": "(American, 1912\u20131999)", 
+  "DateAcquired": "1974-04-02", 
+  "\ufeffTitle": "Eleanor", 
   "ObjectID": "47130"
 }

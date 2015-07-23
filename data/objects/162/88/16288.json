@@ -5,8 +5,7 @@
   "Artist": "Olga Rozanova", 
   "URL": "http://www.moma.org/collection/works/16288", 
   "CuratorApproved": "Y", 
-  "Title": "Voina", 
-  "DateAcquired": "2001-01-24", 
+  "CreditLine": "Gift of The Judith Rothschild Foundation", 
   "Date": "1916", 
   "ArtistID": 5066, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "368.2001.1-11", 
-  "ArtistBio": "Russian, 1886\u20131918", 
-  "CreditLine": "Gift of The Judith Rothschild Foundation", 
+  "ArtistBio": "(Russian, 1886\u20131918)", 
+  "DateAcquired": "2001-01-24", 
+  "\ufeffTitle": "Voina (War)", 
   "ObjectID": "16288"
 }

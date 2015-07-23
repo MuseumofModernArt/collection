@@ -5,8 +5,7 @@
   "Artist": "Raoul Dufy", 
   "URL": "http://www.moma.org/collection/works/5312", 
   "CuratorApproved": "Y", 
-  "Title": "Raoul Dufy, Aquarelles et Dessins, 1947", 
-  "DateAcquired": "1952-05-20", 
+  "CreditLine": "Given anonymously", 
   "Date": "1947", 
   "ArtistID": 1646, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "152.1952", 
-  "ArtistBio": "French, 1877\u20131953", 
-  "CreditLine": "Given anonymously", 
+  "ArtistBio": "(French, 1877\u20131953)", 
+  "DateAcquired": "1952-05-20", 
+  "\ufeffTitle": "Raoul Dufy, Aquarelles et Dessins, 1947", 
   "ObjectID": "5312"
 }

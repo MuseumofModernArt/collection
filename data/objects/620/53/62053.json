@@ -5,8 +5,7 @@
   "Artist": "James Ensor", 
   "URL": "http://www.moma.org/collection/works/62053", 
   "CuratorApproved": "Y", 
-  "Title": "Capture of a Strange Town, state III (Prise d'une ville \u00e9trange)", 
-  "DateAcquired": "1949-03-24", 
+  "CreditLine": "Purchase", 
   "Date": "1888", 
   "ArtistID": 1739, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "115.1949", 
-  "ArtistBio": "Belgian, 1860\u20131949", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(Belgian, 1860\u20131949)", 
+  "DateAcquired": "1949-03-24", 
+  "\ufeffTitle": "Capture of a Strange Town (Prise d'une ville \u00e9trange)", 
   "ObjectID": "62053"
 }

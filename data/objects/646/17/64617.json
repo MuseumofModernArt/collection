@@ -5,8 +5,7 @@
   "Artist": "Pierre Bonnard", 
   "URL": "http://www.moma.org/collection/works/64617", 
   "CuratorApproved": "Y", 
-  "Title": "La Lithographie originale en couleurs", 
-  "DateAcquired": "1952-11-07", 
+  "CreditLine": "Gift of Mrs. Edith Gregor Halpert", 
   "Date": "1898", 
   "ArtistID": 665, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "219.1952.1", 
-  "ArtistBio": "French, 1867\u20131947", 
-  "CreditLine": "Gift of Mrs. Edith Gregor Halpert", 
+  "ArtistBio": "(French, 1867\u20131947)", 
+  "DateAcquired": "1952-11-07", 
+  "\ufeffTitle": "La Lithographie originale en couleurs", 
   "ObjectID": "64617"
 }

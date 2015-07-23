@@ -5,8 +5,7 @@
   "Artist": "Jacques Villon", 
   "URL": "http://www.moma.org/collection/works/65766", 
   "CuratorApproved": "Y", 
-  "Title": "La Parisienne (Yvonne Duchamp-Villon)", 
-  "DateAcquired": "1953-04-07", 
+  "CreditLine": "Katherine S. Dreier Bequest", 
   "Date": "(1904)", 
   "ArtistID": 6165, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "274.1953", 
-  "ArtistBio": "French, 1875\u20131963", 
-  "CreditLine": "Katherine S. Dreier Bequest", 
+  "ArtistBio": "(French, 1875\u20131963)", 
+  "DateAcquired": "1953-04-07", 
+  "\ufeffTitle": "La Parisienne (Yvonne Duchamp-Villon)", 
   "ObjectID": "65766"
 }

@@ -5,8 +5,7 @@
   "Artist": "Jacques Villon", 
   "URL": "http://www.moma.org/collection/works/35271", 
   "CuratorApproved": "Y", 
-  "Title": "Girl on Balcony", 
-  "DateAcquired": "1953-04-07", 
+  "CreditLine": "Katherine S. Dreier Bequest", 
   "Date": "(c. 1900)", 
   "ArtistID": 6165, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "211.1953", 
-  "ArtistBio": "French, 1875\u20131963", 
-  "CreditLine": "Katherine S. Dreier Bequest", 
+  "ArtistBio": "(French, 1875\u20131963)", 
+  "DateAcquired": "1953-04-07", 
+  "\ufeffTitle": "Girl on Balcony", 
   "ObjectID": "35271"
 }

@@ -5,8 +5,7 @@
   "Artist": "Tina Modotti", 
   "URL": "http://www.moma.org/collection/works/48558", 
   "CuratorApproved": "Y", 
-  "Title": "Roses, Mexico", 
-  "DateAcquired": "1944-11-08", 
+  "CreditLine": "Gift of Edward Weston", 
   "Date": "1924", 
   "ArtistID": 4039, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "210.1944", 
-  "ArtistBio": "Italian, 1896\u20131942", 
-  "CreditLine": "Gift of Edward Weston", 
+  "ArtistBio": "(Italian, 1896\u20131942)", 
+  "DateAcquired": "1944-11-08", 
+  "\ufeffTitle": "Roses, Mexico", 
   "ObjectID": "48558"
 }

@@ -1,12 +1,11 @@
 {
   "Medium": "Lithograph", 
-  "Dimensions": "sl. irreg. composition  22 x 17\" (55.9 x 43.2 cm)  sheet  30 1/8 x 22 7/8\" (76 x 58.1 cm)", 
+  "Dimensions": "sl. irreg. composition  22 x 17\" (55.9 x 43.2 cm)\r\nsheet  30 1/8 x 22 7/8\" (76 x 58.1 cm)", 
   "Classification": "Print", 
   "Artist": "Philip von Schantz", 
   "URL": "http://www.moma.org/collection/works/62907", 
   "CuratorApproved": "Y", 
-  "Title": "YOU AND I. (DU OCH JAG)", 
-  "DateAcquired": "1989-05-30", 
+  "CreditLine": "Purchase", 
   "Date": "1987", 
   "ArtistID": 5203, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "143.1989", 
-  "ArtistBio": "Swedish, born 1928", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(Swedish, born 1928)", 
+  "DateAcquired": "1989-05-30", 
+  "\ufeffTitle": "You and I", 
   "ObjectID": "62907"
 }

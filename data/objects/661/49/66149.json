@@ -1,12 +1,11 @@
 {
   "Medium": "Screenprint", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "Donald Sultan", 
   "URL": "http://www.moma.org/collection/works/66149", 
   "CuratorApproved": "Y", 
-  "Title": "Yellow Roses, March 9, 1992", 
-  "DateAcquired": "1992-05-20", 
+  "CreditLine": "Gift of Meryl and Robert Meltzer", 
   "Date": "March 9, 1992.", 
   "ArtistID": 5726, 
   "Keywords": [
@@ -20,7 +19,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "289.1992", 
-  "ArtistBio": "American, born 1951", 
-  "CreditLine": "Gift of Meryl and Robert Meltzer", 
+  "ArtistBio": "(American, born 1951)", 
+  "DateAcquired": "1992-05-20", 
+  "\ufeffTitle": "Yellow Roses, March 9, 1992", 
   "ObjectID": "66149"
 }

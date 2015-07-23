@@ -5,8 +5,7 @@
   "Artist": "Weegee (Arthur Fellig)", 
   "URL": "http://www.moma.org/collection/works/51227", 
   "CuratorApproved": "Y", 
-  "Title": "Macy's Thanksgiving Day Parade", 
-  "DateAcquired": "1982-10-28", 
+  "CreditLine": "The Family of Man Fund", 
   "Date": "c. 1942", 
   "ArtistID": 1842, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "339.1982", 
-  "ArtistBio": "American, born Austria. 1899\u20131968", 
-  "CreditLine": "The Family of Man Fund", 
+  "ArtistBio": "(American, born Austria. 1899\u20131968)", 
+  "DateAcquired": "1982-10-28", 
+  "\ufeffTitle": "Macy's Thanksgiving Day Parade", 
   "ObjectID": "51227"
 }

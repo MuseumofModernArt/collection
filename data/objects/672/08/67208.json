@@ -1,12 +1,11 @@
 {
   "Medium": "Portfolio of 12 lithographs", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "Paul (Pavel Mansurov) Mansouroff", 
   "URL": "http://www.moma.org/collection/works/67208", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1980-02-25", 
+  "CreditLine": "Gift of Donald Karshan", 
   "Date": "(1967)", 
   "ArtistID": 3740, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "338.1980.1-12", 
-  "ArtistBio": "Russian, 1896\u20131984", 
-  "CreditLine": "Gift of Donald Karshan", 
+  "ArtistBio": "(Russian, 1896\u20131984)", 
+  "DateAcquired": "1980-02-25", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "67208"
 }

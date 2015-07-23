@@ -1,12 +1,11 @@
 {
   "Medium": "Etching and aquatint", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "Paula Rego", 
   "URL": "http://www.moma.org/collection/works/64482", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1990-05-02", 
+  "CreditLine": "Dorothy Braude Edinburg Fund and Purchase", 
   "Date": "(1989)", 
   "ArtistID": 4847, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "211.1990", 
-  "ArtistBio": "Portuguese, born 1935", 
-  "CreditLine": "Dorothy Braude Edinburg Fund and Purchase", 
+  "ArtistBio": "(Portuguese, born 1935)", 
+  "DateAcquired": "1990-05-02", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "64482"
 }

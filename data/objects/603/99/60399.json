@@ -5,8 +5,7 @@
   "Artist": "Frank Stella", 
   "URL": "http://www.moma.org/collection/works/60399", 
   "CuratorApproved": "Y", 
-  "Title": "Swan Engraving Circle II", 
-  "DateAcquired": "1985-01-30", 
+  "CreditLine": "Gift of Mr. and Mrs. Arnold Smoller in memory of Esta Josephs", 
   "Date": "1983", 
   "ArtistID": 5640, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "27.1985", 
-  "ArtistBio": "American, born 1936", 
-  "CreditLine": "Gift of Mr. and Mrs. Arnold Smoller in memory of Esta Josephs", 
+  "ArtistBio": "(American, born 1936)", 
+  "DateAcquired": "1985-01-30", 
+  "\ufeffTitle": "Swan Engraving Circle II", 
   "ObjectID": "60399"
 }

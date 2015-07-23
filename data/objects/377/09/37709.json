@@ -5,8 +5,7 @@
   "Artist": "Kurt Schwitters", 
   "URL": "http://www.moma.org/collection/works/37709", 
   "CuratorApproved": "Y", 
-  "Title": "Mz 26, 48. Berlin", 
-  "DateAcquired": "1967-10-18", 
+  "CreditLine": "The Sidney and Harriet Janis Collection", 
   "Date": "1926", 
   "ArtistID": 5293, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "651.1967", 
-  "ArtistBio": "German, 1887\u20131948", 
-  "CreditLine": "The Sidney and Harriet Janis Collection", 
+  "ArtistBio": "(German, 1887\u20131948)", 
+  "DateAcquired": "1967-10-18", 
+  "\ufeffTitle": "Mz 26, 48. Berlin", 
   "ObjectID": "37709"
 }

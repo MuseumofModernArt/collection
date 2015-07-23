@@ -5,8 +5,7 @@
   "Artist": "Jackson Pollock", 
   "URL": "http://www.moma.org/collection/works/69316", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled (8)", 
-  "DateAcquired": "1969-05-22", 
+  "CreditLine": "Gift of Lee Krasner Pollock", 
   "Date": "c. 1944-45, printed in 1967", 
   "ArtistID": 4675, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "449.1969", 
-  "ArtistBio": "American, 1912\u20131956", 
-  "CreditLine": "Gift of Lee Krasner Pollock", 
+  "ArtistBio": "(American, 1912\u20131956)", 
+  "DateAcquired": "1969-05-22", 
+  "\ufeffTitle": "Untitled (8)", 
   "ObjectID": "69316"
 }

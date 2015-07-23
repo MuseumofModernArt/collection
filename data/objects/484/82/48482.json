@@ -5,8 +5,7 @@
   "Artist": "Shuji Ishii", 
   "URL": "http://www.moma.org/collection/works/48482", 
   "CuratorApproved": "Y", 
-  "Title": "The Snow Lake", 
-  "DateAcquired": "1959-04-22", 
+  "CreditLine": "Gift of Nihon Keizai Shimbun", 
   "Date": "c. 1959", 
   "ArtistID": 2833, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "207.1959", 
-  "ArtistBio": "Japanese", 
-  "CreditLine": "Gift of Nihon Keizai Shimbun", 
+  "ArtistBio": "(Japanese)", 
+  "DateAcquired": "1959-04-22", 
+  "\ufeffTitle": "The Snow Lake", 
   "ObjectID": "48482"
 }

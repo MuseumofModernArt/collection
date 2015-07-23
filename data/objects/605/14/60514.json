@@ -5,8 +5,7 @@
   "Artist": "Erich Heckel", 
   "URL": "http://www.moma.org/collection/works/60514", 
   "CuratorApproved": "Y", 
-  "Title": "Mountains", 
-  "DateAcquired": "1961-01-10", 
+  "CreditLine": "Gift of Mr. and Mrs. Kurt Delbanco", 
   "Date": "1948", 
   "ArtistID": 2569, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "33.1961", 
-  "ArtistBio": "German, 1883\u20131970", 
-  "CreditLine": "Gift of Mr. and Mrs. Kurt Delbanco", 
+  "ArtistBio": "(German, 1883\u20131970)", 
+  "DateAcquired": "1961-01-10", 
+  "\ufeffTitle": "Mountains (Berge)", 
   "ObjectID": "60514"
 }

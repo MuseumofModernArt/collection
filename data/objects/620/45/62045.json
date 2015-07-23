@@ -5,8 +5,7 @@
   "Artist": "Giorgio Morandi", 
   "URL": "http://www.moma.org/collection/works/62045", 
   "CuratorApproved": "Y", 
-  "Title": "Circular Still Life", 
-  "DateAcquired": "1955-04-06", 
+  "CreditLine": "Mrs. Bertram Smith Fund", 
   "Date": "1942", 
   "ArtistID": 4079, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "97.1955", 
-  "ArtistBio": "Italian, 1890\u20131964", 
-  "CreditLine": "Mrs. Bertram Smith Fund", 
+  "ArtistBio": "(Italian, 1890\u20131964)", 
+  "DateAcquired": "1955-04-06", 
+  "\ufeffTitle": "Circular Still Life", 
   "ObjectID": "62045"
 }

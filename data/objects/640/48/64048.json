@@ -5,8 +5,7 @@
   "Artist": "Paul Klee", 
   "URL": "http://www.moma.org/collection/works/64048", 
   "CuratorApproved": "Y", 
-  "Title": "Giant Aphid", 
-  "DateAcquired": "1950-06-08", 
+  "CreditLine": "Purchase", 
   "Date": "(1920)", 
   "ArtistID": 3130, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "189.1950", 
-  "ArtistBio": "German, born Switzerland. 1879\u20131940", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(German, born Switzerland. 1879\u20131940)", 
+  "DateAcquired": "1950-06-08", 
+  "\ufeffTitle": "Giant Aphid (Riesenblattlaus)", 
   "ObjectID": "64048"
 }

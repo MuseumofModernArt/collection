@@ -5,8 +5,7 @@
   "Artist": "Jim Dine", 
   "URL": "http://www.moma.org/collection/works/67491", 
   "CuratorApproved": "Y", 
-  "Title": "Toothbrushes #2", 
-  "DateAcquired": "1963-06-12", 
+  "CreditLine": "Gift of the Celeste and Armand Bartos Foundation", 
   "Date": "1962", 
   "ArtistID": 1547, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "351.1963", 
-  "ArtistBio": "American, born 1935", 
-  "CreditLine": "Gift of the Celeste and Armand Bartos Foundation", 
+  "ArtistBio": "(American, born 1935)", 
+  "DateAcquired": "1963-06-12", 
+  "\ufeffTitle": "Toothbrushes #2", 
   "ObjectID": "67491"
 }

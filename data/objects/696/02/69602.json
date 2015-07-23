@@ -5,8 +5,7 @@
   "Artist": "Louise Bourgeois", 
   "URL": "http://www.moma.org/collection/works/69602", 
   "CuratorApproved": "Y", 
-  "Title": "No (1), version 3 of 5", 
-  "DateAcquired": "1993-11-17", 
+  "CreditLine": "Gift of the artist", 
   "Date": "1992-1993", 
   "ArtistID": 710, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "463.1993", 
-  "ArtistBio": "American, born France. 1911\u20132010", 
-  "CreditLine": "Gift of the artist", 
+  "ArtistBio": "(American, born France. 1911\u20132010)", 
+  "DateAcquired": "1993-11-17", 
+  "\ufeffTitle": "No (1)", 
   "ObjectID": "69602"
 }

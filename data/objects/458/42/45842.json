@@ -5,8 +5,7 @@
   "Artist": "Clarence H. White", 
   "URL": "http://www.moma.org/collection/works/45842", 
   "CuratorApproved": "Y", 
-  "Title": "Peacock Feather", 
-  "DateAcquired": "1975-02-12", 
+  "CreditLine": "Gift of Mr. and Mrs. Clarence H. White, Jr.", 
   "Date": "1902", 
   "ArtistID": 6338, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "81.1975", 
-  "ArtistBio": "American, 1871\u20131925", 
-  "CreditLine": "Gift of Mr. and Mrs. Clarence H. White, Jr.", 
+  "ArtistBio": "(American, 1871\u20131925)", 
+  "DateAcquired": "1975-02-12", 
+  "\ufeffTitle": "Peacock Feather", 
   "ObjectID": "45842"
 }

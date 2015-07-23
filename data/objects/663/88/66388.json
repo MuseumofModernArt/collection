@@ -1,12 +1,11 @@
 {
   "Medium": "Portfolio of ten relief prints", 
-  "Dimensions": "see child records  ", 
+  "Dimensions": "see child records\r\n", 
   "Classification": "Print", 
   "Artist": "G\u00e9rard Duch\u00e8ne", 
   "URL": "http://www.moma.org/collection/works/66388", 
   "CuratorApproved": "Y", 
-  "Title": "Paysages", 
-  "DateAcquired": "1989-10-12", 
+  "CreditLine": "The Philip and Lynn Straus Foundation Fund and Purchase", 
   "Date": "1984", 
   "ArtistID": 1636, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "298.1989.1-10", 
-  "ArtistBio": "French, born 1944", 
-  "CreditLine": "The Philip and Lynn Straus Foundation Fund and Purchase", 
+  "ArtistBio": "(French, born 1944)", 
+  "DateAcquired": "1989-10-12", 
+  "\ufeffTitle": "Paysages", 
   "ObjectID": "66388"
 }

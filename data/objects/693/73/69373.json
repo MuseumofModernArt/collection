@@ -5,8 +5,7 @@
   "Artist": "Kiki Smith", 
   "URL": "http://www.moma.org/collection/works/69373", 
   "CuratorApproved": "Y", 
-  "Title": "Urogenitals", 
-  "DateAcquired": "1999-11-18", 
+  "CreditLine": "Gift of the artist in honor of the Young Print Collectors of the Department of Prints and Illustrated Books", 
   "Date": "1994", 
   "ArtistID": 5486, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "453.1999", 
-  "ArtistBio": "American, born Germany 1954", 
-  "CreditLine": "Gift of the artist in honor of the Young Print Collectors of the Department of Prints and Illustrated Books", 
+  "ArtistBio": "(American, born Germany 1954)", 
+  "DateAcquired": "1999-11-18", 
+  "\ufeffTitle": "Urogenitals", 
   "ObjectID": "69373"
 }

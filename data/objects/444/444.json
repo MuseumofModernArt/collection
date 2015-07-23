@@ -5,8 +5,7 @@
   "Artist": "Frank O. Gehry", 
   "URL": "http://www.moma.org/collection/works/444", 
   "CuratorApproved": "Y", 
-  "Title": "University of Toledo Center for the Visual Arts  Toledo, Ohio  Exterior perspective", 
-  "DateAcquired": "1994-09-21", 
+  "CreditLine": "Gift of the architect in honor of Lily Auchincloss", 
   "Date": "1990", 
   "ArtistID": 2108, 
   "Keywords": [
@@ -21,7 +20,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "378.1994", 
-  "ArtistBio": "American, born Canada 1929", 
-  "CreditLine": "Gift of the architect in honor of Lily Auchincloss", 
+  "ArtistBio": "(American, born Canada 1929)", 
+  "DateAcquired": "1994-09-21", 
+  "\ufeffTitle": "University of Toledo Center for the Visual Arts, Toledo, Ohio, Exterior perspective", 
   "ObjectID": "444"
 }

@@ -5,8 +5,7 @@
   "Artist": "Unknown Artist", 
   "URL": "http://www.moma.org/collection/works/8234", 
   "CuratorApproved": "Y", 
-  "Title": "More Production", 
-  "DateAcquired": "1983-11-30", 
+  "CreditLine": "Gift of the War Production Board", 
   "Date": "1942", 
   "ArtistID": 6026, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "833.1983", 
-  "ArtistBio": "Nationality Unknown", 
-  "CreditLine": "Gift of the War Production Board", 
+  "ArtistBio": "(Nationality Unknown)", 
+  "DateAcquired": "1983-11-30", 
+  "\ufeffTitle": "More Production", 
   "ObjectID": "8234"
 }

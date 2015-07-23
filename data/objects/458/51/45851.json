@@ -5,8 +5,7 @@
   "Artist": "Frederick H. Evans", 
   "URL": "http://www.moma.org/collection/works/45851", 
   "CuratorApproved": "Y", 
-  "Title": "Chateau D'Amboise, Chapel", 
-  "DateAcquired": "1989-03-10", 
+  "CreditLine": "Gift of Paul F. Walter", 
   "Date": "1907", 
   "ArtistID": 1774, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "81.1988", 
-  "ArtistBio": "British, 1853\u20131943", 
-  "CreditLine": "Gift of Paul F. Walter", 
+  "ArtistBio": "(British, 1853\u20131943)", 
+  "DateAcquired": "1989-03-10", 
+  "\ufeffTitle": "Chateau D'Amboise, Chapel", 
   "ObjectID": "45851"
 }

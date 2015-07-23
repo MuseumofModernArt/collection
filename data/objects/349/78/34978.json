@@ -5,8 +5,7 @@
   "Artist": "Paul Kleinschmidt", 
   "URL": "http://www.moma.org/collection/works/34978", 
   "CuratorApproved": "Y", 
-  "Title": "Head of a Woman", 
-  "DateAcquired": "1970-05-12", 
+  "CreditLine": "Gift of Richard A. Cohn", 
   "Date": "1935", 
   "ArtistID": 3140, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "166.1970", 
-  "ArtistBio": "German, 1883\u20131949", 
-  "CreditLine": "Gift of Richard A. Cohn", 
+  "ArtistBio": "(German, 1883\u20131949)", 
+  "DateAcquired": "1970-05-12", 
+  "\ufeffTitle": "Head of a Woman (Frauenkopf)", 
   "ObjectID": "34978"
 }

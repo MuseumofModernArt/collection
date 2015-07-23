@@ -5,8 +5,7 @@
   "Artist": "Garry Winogrand", 
   "URL": "http://www.moma.org/collection/works/52262", 
   "CuratorApproved": "Y", 
-  "Title": "Frosh-Soph Rush, Columbia University, New York City", 
-  "DateAcquired": "1964-04-14", 
+  "CreditLine": "Purchase", 
   "Date": "1950", 
   "ArtistID": 6399, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "384.1964", 
-  "ArtistBio": "American, 1928\u20131984", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, 1928\u20131984)", 
+  "DateAcquired": "1964-04-14", 
+  "\ufeffTitle": "Frosh-Soph Rush, Columbia University, New York City", 
   "ObjectID": "52262"
 }

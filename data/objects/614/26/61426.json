@@ -1,12 +1,11 @@
 {
   "Medium": "Etching", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "Peter Saul", 
   "URL": "http://www.moma.org/collection/works/61426", 
   "CuratorApproved": "Y", 
-  "Title": "Soft Watch on a Toilet", 
-  "DateAcquired": "1996-03-12", 
+  "CreditLine": "John B. Turner Fund", 
   "Date": "1995", 
   "ArtistID": 5178, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "64.1996", 
-  "ArtistBio": "American, born 1934", 
-  "CreditLine": "John B. Turner Fund", 
+  "ArtistBio": "(American, born 1934)", 
+  "DateAcquired": "1996-03-12", 
+  "\ufeffTitle": "Soft Watch on a Toilet", 
   "ObjectID": "61426"
 }

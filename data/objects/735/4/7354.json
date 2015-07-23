@@ -5,8 +5,7 @@
   "Artist": "Ludwig Hohlwein", 
   "URL": "http://www.moma.org/collection/works/7354", 
   "CuratorApproved": "Y", 
-  "Title": "Rheinzauber", 
-  "DateAcquired": "1998-09-15", 
+  "CreditLine": "Gift of The Lauder Foundation, Leonard and Evelyn Lauder Fund", 
   "Date": "c. 1929", 
   "ArtistID": 2700, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "516.1998", 
-  "ArtistBio": "German, 1874\u20131949", 
-  "CreditLine": "Gift of The Lauder Foundation, Leonard and Evelyn Lauder Fund", 
+  "ArtistBio": "(German, 1874\u20131949)", 
+  "DateAcquired": "1998-09-15", 
+  "\ufeffTitle": "Rheinzauber", 
   "ObjectID": "7354"
 }

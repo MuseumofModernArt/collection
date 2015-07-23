@@ -1,12 +1,11 @@
 {
   "Medium": "Molded glass", 
-  "Dimensions": ".1: 7 1/4 x 4 3/8\" (18.4 x 11.1 cm)  .2: 5 7/8 x 3 3/4\" (14.9 x 9.5 cm)", 
+  "Dimensions": ".1: 7 1/4 x 4 3/8\" (18.4 x 11.1 cm)\r\n.2: 5 7/8 x 3 3/4\" (14.9 x 9.5 cm)", 
   "Classification": "A&D Design", 
   "Artist": "Richard Riemerschmid", 
   "URL": "http://www.moma.org/collection/works/2410", 
   "CuratorApproved": "Y", 
-  "Title": "Bottles", 
-  "DateAcquired": "1958-12-04", 
+  "CreditLine": "Phyllis B. Lambert Fund", 
   "Date": "1912", 
   "ArtistID": 4918, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "183.1958.1-2", 
-  "ArtistBio": "German, 1868\u20131957", 
-  "CreditLine": "Phyllis B. Lambert Fund", 
+  "ArtistBio": "(German, 1868\u20131957)", 
+  "DateAcquired": "1958-12-04", 
+  "\ufeffTitle": "Bottles", 
   "ObjectID": "2410"
 }

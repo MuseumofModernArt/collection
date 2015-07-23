@@ -5,8 +5,7 @@
   "Artist": "Tina Modotti", 
   "URL": "http://www.moma.org/collection/works/51312", 
   "CuratorApproved": "Y", 
-  "Title": "Tehuantepec Type", 
-  "DateAcquired": "1965-04-06", 
+  "CreditLine": "Anonymous gift", 
   "Date": "c. 1929", 
   "ArtistID": 4039, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "343.1965", 
-  "ArtistBio": "Italian, 1896\u20131942", 
-  "CreditLine": "Anonymous gift", 
+  "ArtistBio": "(Italian, 1896\u20131942)", 
+  "DateAcquired": "1965-04-06", 
+  "\ufeffTitle": "Tehuantepec Type", 
   "ObjectID": "51312"
 }

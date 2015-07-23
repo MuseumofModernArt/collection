@@ -5,8 +5,7 @@
   "Artist": "Gerhard Richter", 
   "URL": "http://www.moma.org/collection/works/37894", 
   "CuratorApproved": "Y", 
-  "Title": "24.4.90", 
-  "DateAcquired": "1993-12-17", 
+  "CreditLine": "Gift of the Contemporary Arts Council of The Museum of Modern Art", 
   "Date": "1990", 
   "ArtistID": 4907, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "729.1993", 
-  "ArtistBio": "German, born 1932", 
-  "CreditLine": "Gift of the Contemporary Arts Council of The Museum of Modern Art", 
+  "ArtistBio": "(German, born 1932)", 
+  "DateAcquired": "1993-12-17", 
+  "\ufeffTitle": "24.4.90", 
   "ObjectID": "37894"
 }

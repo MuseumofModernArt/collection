@@ -5,8 +5,7 @@
   "Artist": "Carl T. Gosset Jr./The New York Times", 
   "URL": "http://www.moma.org/collection/works/58594", 
   "CuratorApproved": "Y", 
-  "Title": "This Photo Was Made Just Before 4 P.M. at Broadway and 43rd Street, Looking East Across Times Square", 
-  "DateAcquired": "2001-06-14", 
+  "CreditLine": "The New York Times Collection", 
   "Date": "July 24, 1959", 
   "ArtistID": 8543, 
   "Keywords": [
@@ -21,7 +20,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "2001.2001", 
-  "ArtistBio": "American, 1924\u20131985", 
-  "CreditLine": "The New York Times Collection", 
+  "ArtistBio": "(American, 1924\u20131985)", 
+  "DateAcquired": "2001-06-14", 
+  "\ufeffTitle": "This Photo Was Made Just Before 4 P.M. at Broadway and 43rd Street, Looking East Across Times Square", 
   "ObjectID": "58594"
 }

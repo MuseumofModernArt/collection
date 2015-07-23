@@ -5,8 +5,7 @@
   "Artist": "Paul Klee", 
   "URL": "http://www.moma.org/collection/works/37363", 
   "CuratorApproved": "Y", 
-  "Title": "Man with Top Hat", 
-  "DateAcquired": "1964-10-06", 
+  "CreditLine": "Given anonymously in honor of Margaret Scolari Barr", 
   "Date": "1925", 
   "ArtistID": 3130, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "570.1964", 
-  "ArtistBio": "German, born Switzerland. 1879\u20131940", 
-  "CreditLine": "Given anonymously in honor of Margaret Scolari Barr", 
+  "ArtistBio": "(German, born Switzerland. 1879\u20131940)", 
+  "DateAcquired": "1964-10-06", 
+  "\ufeffTitle": "Man with a Top Hat (Herr mit Cylinder)", 
   "ObjectID": "37363"
 }

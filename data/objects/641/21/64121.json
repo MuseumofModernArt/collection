@@ -5,8 +5,7 @@
   "Artist": "Joel Shapiro", 
   "URL": "http://www.moma.org/collection/works/64121", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1988-05-04", 
+  "CreditLine": "Lily Auchincloss Fund in honor of Joanne Stern", 
   "Date": "1988", 
   "ArtistID": 5373, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "191.1988", 
-  "ArtistBio": "American, born 1941", 
-  "CreditLine": "Lily Auchincloss Fund in honor of Joanne Stern", 
+  "ArtistBio": "(American, born 1941)", 
+  "DateAcquired": "1988-05-04", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "64121"
 }

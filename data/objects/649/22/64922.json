@@ -5,8 +5,7 @@
   "Artist": "Alberto Giacometti", 
   "URL": "http://www.moma.org/collection/works/64922", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1982-10-26", 
+  "CreditLine": "Ruth Vollmer Bequest", 
   "Date": "c. 1954-56", 
   "ArtistID": 2141, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "235.1982", 
-  "ArtistBio": "Swiss, 1901\u20131966", 
-  "CreditLine": "Ruth Vollmer Bequest", 
+  "ArtistBio": "(Swiss, 1901\u20131966)", 
+  "DateAcquired": "1982-10-26", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "64922"
 }

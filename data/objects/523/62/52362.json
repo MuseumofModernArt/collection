@@ -5,8 +5,7 @@
   "Artist": "Tod Papageorge", 
   "URL": "http://www.moma.org/collection/works/52362", 
   "CuratorApproved": "Y", 
-  "Title": "Sal Lake County, Salt Lake City, Utah", 
-  "DateAcquired": "1983-03-24", 
+  "CreditLine": "Gift of Joseph E. Seagram & Sons, Inc., Seagram County Court House Archives", 
   "Date": "1975-76", 
   "ArtistID": 4490, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "389.1983", 
-  "ArtistBio": "American, born 1940", 
-  "CreditLine": "Gift of Joseph E. Seagram & Sons, Inc., Seagram County Court House Archives", 
+  "ArtistBio": "(American, born 1940)", 
+  "DateAcquired": "1983-03-24", 
+  "\ufeffTitle": "Sal Lake County, Salt Lake City, Utah", 
   "ObjectID": "52362"
 }

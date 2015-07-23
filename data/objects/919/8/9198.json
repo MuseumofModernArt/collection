@@ -5,8 +5,7 @@
   "Artist": "Markus Raetz", 
   "URL": "http://www.moma.org/collection/works/9198", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled from Die Buecher", 
-  "DateAcquired": "1986-01-09", 
+  "CreditLine": "Purchase", 
   "Date": "1975", 
   "ArtistID": 4787, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "14.1986", 
-  "ArtistBio": "Swiss, born 1941", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(Swiss, born 1941)", 
+  "DateAcquired": "1986-01-09", 
+  "\ufeffTitle": "Untitled from Die Buecher", 
   "ObjectID": "9198"
 }

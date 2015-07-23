@@ -1,12 +1,11 @@
 {
   "Medium": "Lithograph", 
-  "Dimensions": "composition  21 15/16 x 29 7/8\" (55.8 x 75.9 cm)  sheet  21 15/16 x 29 7/8\" (55.8 x 75.9 cm)", 
+  "Dimensions": "composition  21 15/16 x 29 7/8\" (55.8 x 75.9 cm)\r\nsheet  21 15/16 x 29 7/8\" (55.8 x 75.9 cm)", 
   "Classification": "Print", 
   "Artist": "Emilio Sanchez", 
   "URL": "http://www.moma.org/collection/works/59769", 
   "CuratorApproved": "Y", 
-  "Title": "Little Window Ajar (Ventanita Entreabrierta)", 
-  "DateAcquired": "1976-01-08", 
+  "CreditLine": "Gift of the artist", 
   "Date": "(1976)", 
   "ArtistID": 5140, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "9.1976", 
-  "ArtistBio": "American, 1921\u20131999", 
-  "CreditLine": "Gift of the artist", 
+  "ArtistBio": "(American, 1921\u20131999)", 
+  "DateAcquired": "1976-01-08", 
+  "\ufeffTitle": "Little Window Ajar (Ventanita Entreabrierta)", 
   "ObjectID": "59769"
 }

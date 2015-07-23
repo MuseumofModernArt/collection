@@ -1,12 +1,11 @@
 {
   "Medium": "Screenprint, with crayon additions", 
-  "Dimensions": "total composition  27 11/16 x 35 7/8\" (70.3 x 91.2 cm)  total sheet  27 11/16 x 35 7/8\" (70.3 x 91.2 cm)", 
+  "Dimensions": "total composition  27 11/16 x 35 7/8\" (70.3 x 91.2 cm)\r\ntotal sheet  27 11/16 x 35 7/8\" (70.3 x 91.2 cm)", 
   "Classification": "Print", 
   "Artist": "Keith Sonnier", 
   "URL": "http://www.moma.org/collection/works/62967", 
   "CuratorApproved": "Y", 
-  "Title": "Video Still Screen III from the Video Still Series", 
-  "DateAcquired": "1975-05-09", 
+  "CreditLine": "John B. Turner Fund", 
   "Date": "1973", 
   "ArtistID": 5526, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "150.1975", 
-  "ArtistBio": "American, born 1941", 
-  "CreditLine": "John B. Turner Fund", 
+  "ArtistBio": "(American, born 1941)", 
+  "DateAcquired": "1975-05-09", 
+  "\ufeffTitle": "Video Still Screen III from the Video Still Series", 
   "ObjectID": "62967"
 }

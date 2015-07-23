@@ -5,8 +5,7 @@
   "Artist": "Reuters", 
   "URL": "http://www.moma.org/collection/works/58687", 
   "CuratorApproved": "Y", 
-  "Title": "Victims", 
-  "DateAcquired": "2001-06-14", 
+  "CreditLine": "The New York Times Collection", 
   "Date": "December 27, 1985", 
   "Keywords": [
     "online art collection", 
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "2094.2001", 
-  "ArtistBio": "NULL", 
-  "CreditLine": "The New York Times Collection", 
+  "ArtistBio": "", 
+  "DateAcquired": "2001-06-14", 
+  "\ufeffTitle": "\"Victims\"", 
   "ObjectID": "58687"
 }

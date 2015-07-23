@@ -1,12 +1,11 @@
 {
   "Medium": "Linoleum cut", 
-  "Dimensions": "irreg. composition  17 13/16 x 18 15/16\" (45.2 x 48.2 cm)  sheet  19 13/16 x 25 13/16\" (50 x 65.6 cm)", 
+  "Dimensions": "irreg. composition  17 13/16 x 18 15/16\" (45.2 x 48.2 cm)\r\nsheet  19 13/16 x 25 13/16\" (50 x 65.6 cm)", 
   "Classification": "Print", 
   "Artist": "Jean-Charles Blais", 
   "URL": "http://www.moma.org/collection/works/67037", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1988-10-25", 
+  "CreditLine": "Purchase", 
   "Date": "1986", 
   "ArtistID": 590, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "328.1988", 
-  "ArtistBio": "French, born 1956", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(French, born 1956)", 
+  "DateAcquired": "1988-10-25", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "67037"
 }

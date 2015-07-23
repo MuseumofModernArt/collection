@@ -1,12 +1,11 @@
 {
   "Medium": "Lithograph", 
-  "Dimensions": "composition  30 x 22\" (76.2 x 55.9 cm)  sheet  30 x 22\" (76.2 x 55.9 cm)", 
+  "Dimensions": "composition  30 x 22\" (76.2 x 55.9 cm)\r\nsheet  30 x 22\" (76.2 x 55.9 cm)", 
   "Classification": "Print", 
   "Artist": "Richard Lindner", 
   "URL": "http://www.moma.org/collection/works/60484", 
   "CuratorApproved": "Y", 
-  "Title": "Der Rosenkavalier from the portfolio Metropolitan Opera Fine Opera", 
-  "DateAcquired": "1979-01-23", 
+  "CreditLine": "Gift of Robert G. Berry (through the Associates of the Department of Prints and Illustrated Books)", 
   "Date": "(1977)", 
   "ArtistID": 3559, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "31.1979", 
-  "ArtistBio": "American, 1901\u20131978", 
-  "CreditLine": "Gift of Robert G. Berry (through the Associates of the Department of Prints and Illustrated Books)", 
+  "ArtistBio": "(American, 1901\u20131978)", 
+  "DateAcquired": "1979-01-23", 
+  "\ufeffTitle": "Der Rosenkavalier from the portfolio Metropolitan Opera Fine Opera", 
   "ObjectID": "60484"
 }

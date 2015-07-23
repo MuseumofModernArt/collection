@@ -5,8 +5,7 @@
   "Artist": "Florence Henri", 
   "URL": "http://www.moma.org/collection/works/56369", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1998-12-10", 
+  "CreditLine": "Gift of Paul F. Walter", 
   "Date": "c. 1931", 
   "ArtistID": 2595, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "774.1998", 
-  "ArtistBio": "Swiss, born America. 1893\u20131982", 
-  "CreditLine": "Gift of Paul F. Walter", 
+  "ArtistBio": "(Swiss, born America. 1893\u20131982)", 
+  "DateAcquired": "1998-12-10", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "56369"
 }

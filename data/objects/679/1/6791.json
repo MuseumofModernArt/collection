@@ -5,8 +5,7 @@
   "Artist": "Armin Hofmann", 
   "URL": "http://www.moma.org/collection/works/6791", 
   "CuratorApproved": "Y", 
-  "Title": "Stadt Theater Basel 63/64", 
-  "DateAcquired": "1963-06-12", 
+  "CreditLine": "Gift of the artist", 
   "Date": "1963", 
   "ArtistID": 2697, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "384.1963", 
-  "ArtistBio": "Swiss, born 1920", 
-  "CreditLine": "Gift of the artist", 
+  "ArtistBio": "(Swiss, born 1920)", 
+  "DateAcquired": "1963-06-12", 
+  "\ufeffTitle": "Stadt Theater Basel 63/64", 
   "ObjectID": "6791"
 }

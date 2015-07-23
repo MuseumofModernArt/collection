@@ -5,8 +5,7 @@
   "Artist": "Hans Thoma", 
   "URL": "http://www.moma.org/collection/works/64050", 
   "CuratorApproved": "Y", 
-  "Title": "Sunflower Girl", 
-  "DateAcquired": "1954-04-06", 
+  "CreditLine": "Gift of Mr. and Mrs. Eugene Victor Thaw", 
   "Date": "1897, published 1899-1900", 
   "ArtistID": 5853, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "189.1954", 
-  "ArtistBio": "German, 1839\u20131924", 
-  "CreditLine": "Gift of Mr. and Mrs. Eugene Victor Thaw", 
+  "ArtistBio": "(German, 1839\u20131924)", 
+  "DateAcquired": "1954-04-06", 
+  "\ufeffTitle": "Sunflower Girl (Sonnenblumenm\u00e4dchen)", 
   "ObjectID": "64050"
 }

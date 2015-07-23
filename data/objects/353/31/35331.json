@@ -5,8 +5,7 @@
   "Artist": "Auguste Rodin", 
   "URL": "http://www.moma.org/collection/works/35331", 
   "CuratorApproved": "Y", 
-  "Title": "Nude with Serpent", 
-  "DateAcquired": "1963-04-09", 
+  "CreditLine": "Gift of Mr. and Mrs. Patrick Dinehart", 
   "Date": "(c. 1900-05)", 
   "ArtistID": 4978, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "217.1963", 
-  "ArtistBio": "French, 1840\u20131917", 
-  "CreditLine": "Gift of Mr. and Mrs. Patrick Dinehart", 
+  "ArtistBio": "(French, 1840\u20131917)", 
+  "DateAcquired": "1963-04-09", 
+  "\ufeffTitle": "Nude with Serpent", 
   "ObjectID": "35331"
 }

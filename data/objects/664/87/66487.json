@@ -1,12 +1,11 @@
 {
   "Medium": "Portfolio with two etchings", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "Arata Isozaki", 
   "URL": "http://www.moma.org/collection/works/66487", 
   "CuratorApproved": "Y", 
-  "Title": "Moca #4, #5", 
-  "DateAcquired": "1985-10-07", 
+  "CreditLine": "Purchase", 
   "Date": "1983", 
   "ArtistID": 2837, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "303.1985.1-2", 
-  "ArtistBio": "Japanese, born 1931", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(Japanese, born 1931)", 
+  "DateAcquired": "1985-10-07", 
+  "\ufeffTitle": "Moca #4, #5", 
   "ObjectID": "66487"
 }

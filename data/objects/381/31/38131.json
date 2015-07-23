@@ -5,8 +5,7 @@
   "Artist": "Max Ernst", 
   "URL": "http://www.moma.org/collection/works/38131", 
   "CuratorApproved": "Y", 
-  "Title": "Helio Alcohodada", 
-  "DateAcquired": "1969-10-28", 
+  "CreditLine": "John S. Newberry Fund", 
   "Date": "(1919)", 
   "ArtistID": 1752, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "819.1969", 
-  "ArtistBio": "French, born Germany. 1891\u20131976", 
-  "CreditLine": "John S. Newberry Fund", 
+  "ArtistBio": "(French, born Germany. 1891\u20131976)", 
+  "DateAcquired": "1969-10-28", 
+  "\ufeffTitle": "Helio Alcohodada", 
   "ObjectID": "38131"
 }

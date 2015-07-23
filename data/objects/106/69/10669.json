@@ -5,8 +5,7 @@
   "Artist": "Kiki Smith", 
   "URL": "http://www.moma.org/collection/works/10669", 
   "CuratorApproved": "Y", 
-  "Title": "Fountainhead", 
-  "DateAcquired": "1993-01-18", 
+  "CreditLine": "Gift of Universal Limited Art Editions", 
   "Date": "1991", 
   "ArtistID": 5486, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "39.1993.1-15", 
-  "ArtistBio": "American, born Germany 1954", 
-  "CreditLine": "Gift of Universal Limited Art Editions", 
+  "ArtistBio": "(American, born Germany 1954)", 
+  "DateAcquired": "1993-01-18", 
+  "\ufeffTitle": "Fountainhead", 
   "ObjectID": "10669"
 }

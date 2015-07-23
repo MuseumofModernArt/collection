@@ -5,8 +5,7 @@
   "Artist": "Russell Lee", 
   "URL": "http://www.moma.org/collection/works/45110", 
   "CuratorApproved": "Y", 
-  "Title": "Old Settler, Montana", 
-  "DateAcquired": "1941-01-16", 
+  "CreditLine": "Gift of the Farm Security Administration", 
   "Date": "November 1937", 
   "ArtistID": 3455, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "56.1941", 
-  "ArtistBio": "American, 1903\u20131986", 
-  "CreditLine": "Gift of the Farm Security Administration", 
+  "ArtistBio": "(American, 1903\u20131986)", 
+  "DateAcquired": "1941-01-16", 
+  "\ufeffTitle": "Old Settler, Montana", 
   "ObjectID": "45110"
 }

@@ -5,8 +5,7 @@
   "Artist": "Joseph Cornell", 
   "URL": "http://www.moma.org/collection/works/37056", 
   "CuratorApproved": "Y", 
-  "Title": "Constellation (Poem and collage for a Christmas card)", 
-  "DateAcquired": "1980-05-13", 
+  "CreditLine": "Gift of Monroe Wheeler", 
   "Date": "1953", 
   "ArtistID": 1247, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "467.1980", 
-  "ArtistBio": "American, 1903\u20131972", 
-  "CreditLine": "Gift of Monroe Wheeler", 
+  "ArtistBio": "(American, 1903\u20131972)", 
+  "DateAcquired": "1980-05-13", 
+  "\ufeffTitle": "Constellation (Poem and collage for a Christmas card)", 
   "ObjectID": "37056"
 }

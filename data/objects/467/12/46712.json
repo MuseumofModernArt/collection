@@ -5,8 +5,7 @@
   "Artist": "Claudia Andujar", 
   "URL": "http://www.moma.org/collection/works/46712", 
   "CuratorApproved": "Y", 
-  "Title": "Dying Donkey at the Seville Fair", 
-  "DateAcquired": "1962-04-10", 
+  "CreditLine": "Purchase", 
   "Date": "1959", 
   "ArtistID": 182, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "129.1962", 
-  "ArtistBio": "Swiss, born 1931", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(Swiss, born 1931)", 
+  "DateAcquired": "1962-04-10", 
+  "\ufeffTitle": "Dying Donkey at the Seville Fair", 
   "ObjectID": "46712"
 }

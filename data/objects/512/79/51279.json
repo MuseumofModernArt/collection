@@ -5,8 +5,7 @@
   "Artist": "Raoul Hausmann", 
   "URL": "http://www.moma.org/collection/works/51279", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1992-06-18", 
+  "CreditLine": "Gift of Virginia Zabriskie", 
   "Date": "1937", 
   "ArtistID": 2544, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "341.1992", 
-  "ArtistBio": "German, born Austria. 1886\u20131971", 
-  "CreditLine": "Gift of Virginia Zabriskie", 
+  "ArtistBio": "(German, born Austria. 1886\u20131971)", 
+  "DateAcquired": "1992-06-18", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "51279"
 }

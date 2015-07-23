@@ -5,8 +5,7 @@
   "Artist": "Markus Raetz", 
   "URL": "http://www.moma.org/collection/works/67889", 
   "CuratorApproved": "Y", 
-  "Title": "Senses I (Sinne I)", 
-  "DateAcquired": "1988-10-25", 
+  "CreditLine": "Purchase", 
   "Date": "1987", 
   "ArtistID": 4787, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "367.1988", 
-  "ArtistBio": "Swiss, born 1941", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(Swiss, born 1941)", 
+  "DateAcquired": "1988-10-25", 
+  "\ufeffTitle": "Senses I (Sinne I)", 
   "ObjectID": "67889"
 }

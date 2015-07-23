@@ -1,12 +1,11 @@
 {
   "Medium": "Woodcut", 
-  "Dimensions": "composition  30 x 20 1/4\" (76.2 x 51.4 cm)  irreg. sheet  37 9/16 x 24 1/8\" (95 x 61.3 cm)", 
+  "Dimensions": "composition  30 x 20 1/4\" (76.2 x 51.4 cm)\r\nirreg. sheet  37 9/16 x 24 1/8\" (95 x 61.3 cm)", 
   "Classification": "Print", 
   "Artist": "Wayne Thiebaud", 
   "URL": "http://www.moma.org/collection/works/68795", 
   "CuratorApproved": "Y", 
-  "Title": "Hill Street", 
-  "DateAcquired": "1987-10-20", 
+  "CreditLine": "Gift of Crown Point Press in celebration of its 25th anniversary", 
   "Date": "1987", 
   "ArtistID": 5849, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "420.1987", 
-  "ArtistBio": "American, born 1920", 
-  "CreditLine": "Gift of Crown Point Press in celebration of its 25th anniversary", 
+  "ArtistBio": "(American, born 1920)", 
+  "DateAcquired": "1987-10-20", 
+  "\ufeffTitle": "Hill Street", 
   "ObjectID": "68795"
 }

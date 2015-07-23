@@ -5,8 +5,7 @@
   "Artist": "Tadanori Yokoo", 
   "URL": "http://www.moma.org/collection/works/7959", 
   "CuratorApproved": "Y", 
-  "Title": "The City and Design, The Wonders of Life on Earth, Isamu Kurita", 
-  "DateAcquired": "1966-12-06", 
+  "CreditLine": "Gift of the designer", 
   "Date": "1966", 
   "ArtistID": 6502, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "699.1966", 
-  "ArtistBio": "Japanese, born 1936", 
-  "CreditLine": "Gift of the designer", 
+  "ArtistBio": "(Japanese, born 1936)", 
+  "DateAcquired": "1966-12-06", 
+  "\ufeffTitle": "The City and Design, The Wonders of Life on Earth, Isamu Kurita", 
   "ObjectID": "7959"
 }

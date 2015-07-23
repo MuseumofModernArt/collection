@@ -1,12 +1,11 @@
 {
   "Medium": "Woodcut", 
-  "Dimensions": "composition  18 1/8 x 24\" (46 x 61 cm)  sheet  18 1/8 x 24\" (46 x 61 cm)", 
+  "Dimensions": "composition  18 1/8 x 24\" (46 x 61 cm)\r\nsheet  18 1/8 x 24\" (46 x 61 cm)", 
   "Classification": "Print", 
   "Artist": "Richard Kemble", 
   "URL": "http://www.moma.org/collection/works/59814", 
   "CuratorApproved": "Y", 
-  "Title": "Gentle as the Clouds", 
-  "DateAcquired": "1989-01-18", 
+  "CreditLine": "Gift of Richard Kemble and George Korn in memory of Monroe Wheeler", 
   "Date": "(1987)", 
   "ArtistID": 3054, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "10.1989", 
-  "ArtistBio": "American, born 1932", 
-  "CreditLine": "Gift of Richard Kemble and George Korn in memory of Monroe Wheeler", 
+  "ArtistBio": "(American, born 1932)", 
+  "DateAcquired": "1989-01-18", 
+  "\ufeffTitle": "Gentle as the Clouds", 
   "ObjectID": "59814"
 }

@@ -5,8 +5,7 @@
   "Artist": "Manuel \u00c1lvarez Bravo", 
   "URL": "http://www.moma.org/collection/works/56315", 
   "CuratorApproved": "Y", 
-  "Title": "Burial at Metepec", 
-  "DateAcquired": "1998-12-10", 
+  "CreditLine": "Christie Calder Salomon Fund", 
   "Date": "1932", 
   "ArtistID": 135, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "747.1998", 
-  "ArtistBio": "Mexican, 1902\u20132002", 
-  "CreditLine": "Christie Calder Salomon Fund", 
+  "ArtistBio": "(Mexican, 1902\u20132002)", 
+  "DateAcquired": "1998-12-10", 
+  "\ufeffTitle": "Burial at Metepec", 
   "ObjectID": "56315"
 }

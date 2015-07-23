@@ -5,8 +5,7 @@
   "Artist": "Miyako Ishiuchi", 
   "URL": "http://www.moma.org/collection/works/55918", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled #11", 
-  "DateAcquired": "1994-12-15", 
+  "CreditLine": "David H. McAlpin Fund", 
   "Date": "1977", 
   "ArtistID": 8090, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "665.1994", 
-  "ArtistBio": "Japanese, born 1947", 
-  "CreditLine": "David H. McAlpin Fund", 
+  "ArtistBio": "(Japanese, born 1947)", 
+  "DateAcquired": "1994-12-15", 
+  "\ufeffTitle": "Untitled #11", 
   "ObjectID": "55918"
 }

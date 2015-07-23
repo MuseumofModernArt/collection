@@ -5,8 +5,7 @@
   "Artist": "Oskar Kokoschka", 
   "URL": "http://www.moma.org/collection/works/64101", 
   "CuratorApproved": "Y", 
-  "Title": "Greek Girl", 
-  "DateAcquired": "1950-06-08", 
+  "CreditLine": "Purchase", 
   "Date": "(1921)", 
   "ArtistID": 3197, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "191.1950", 
-  "ArtistBio": "Austrian, 1886\u20131980", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(Austrian, 1886\u20131980)", 
+  "DateAcquired": "1950-06-08", 
+  "\ufeffTitle": "Greek Girl (Die Griechin)", 
   "ObjectID": "64101"
 }

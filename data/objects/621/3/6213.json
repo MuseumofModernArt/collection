@@ -5,8 +5,7 @@
   "Artist": "Steiner", 
   "URL": "http://www.moma.org/collection/works/6213", 
   "CuratorApproved": "Y", 
-  "Title": "Sportausstellung f\u00fcr Faltboot und Wanderzelt", 
-  "DateAcquired": "1937-10-30", 
+  "CreditLine": "Special Purchase Fund", 
   "Date": "1919", 
   "ArtistID": 5628, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "316.1937", 
-  "ArtistBio": "Swiss", 
-  "CreditLine": "Special Purchase Fund", 
+  "ArtistBio": "(Swiss)", 
+  "DateAcquired": "1937-10-30", 
+  "\ufeffTitle": "Sportausstellung f\u00fcr Faltboot und Wanderzelt", 
   "ObjectID": "6213"
 }

@@ -1,12 +1,11 @@
 {
   "Medium": "Photoetching", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "Robert Rauschenberg", 
   "URL": "http://www.moma.org/collection/works/68510", 
   "CuratorApproved": "Y", 
-  "Title": "Bellini #2", 
-  "DateAcquired": "1987-10-20", 
+  "CreditLine": "Gift of Emily Fisher Landau", 
   "Date": "1987", 
   "ArtistID": 4823, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "403.1987", 
-  "ArtistBio": "American, 1925\u20132008", 
-  "CreditLine": "Gift of Emily Fisher Landau", 
+  "ArtistBio": "(American, 1925\u20132008)", 
+  "DateAcquired": "1987-10-20", 
+  "\ufeffTitle": "Bellini #2", 
   "ObjectID": "68510"
 }

@@ -1,12 +1,11 @@
 {
   "Medium": "Etching and aquatint", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "George Segal", 
   "URL": "http://www.moma.org/collection/works/64095", 
   "CuratorApproved": "Y", 
-  "Title": "Two Figures: One Front, One Back from the Blue Jeans Series", 
-  "DateAcquired": "1988-05-04", 
+  "CreditLine": "Gift of James Niven", 
   "Date": "1975", 
   "ArtistID": 5316, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "190.1988", 
-  "ArtistBio": "American, 1924\u20132000", 
-  "CreditLine": "Gift of James Niven", 
+  "ArtistBio": "(American, 1924\u20132000)", 
+  "DateAcquired": "1988-05-04", 
+  "\ufeffTitle": "Two Figures: One Front, One Back from the Blue Jeans Series", 
   "ObjectID": "64095"
 }

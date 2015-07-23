@@ -5,8 +5,7 @@
   "Artist": "Zofia Rydet", 
   "URL": "http://www.moma.org/collection/works/44864", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1992-01-09", 
+  "CreditLine": "Gift of the photographer", 
   "Date": "1978-88", 
   "ArtistID": 6893, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "50.1992", 
-  "ArtistBio": "Polish, 1911\u20131997", 
-  "CreditLine": "Gift of the photographer", 
+  "ArtistBio": "(Polish, 1911\u20131997)", 
+  "DateAcquired": "1992-01-09", 
+  "\ufeffTitle": "Untitled from the series Sociological Record", 
   "ObjectID": "44864"
 }

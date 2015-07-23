@@ -5,8 +5,7 @@
   "Artist": "Kiyoshi Awazu", 
   "URL": "http://www.moma.org/collection/works/5858", 
   "CuratorApproved": "Y", 
-  "Title": "Osai-Gonzu", 
-  "DateAcquired": "1980-01-08", 
+  "CreditLine": "Gift of Ivan Chermayeff", 
   "Date": "Unknown", 
   "ArtistID": 254, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "252.1980", 
-  "ArtistBio": "Japanese, 1929\u20132009", 
-  "CreditLine": "Gift of Ivan Chermayeff", 
+  "ArtistBio": "(Japanese, 1929\u20132009)", 
+  "DateAcquired": "1980-01-08", 
+  "\ufeffTitle": "Osai-Gonzu", 
   "ObjectID": "5858"
 }

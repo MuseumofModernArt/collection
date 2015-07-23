@@ -5,8 +5,7 @@
   "Artist": "Pablo Picasso", 
   "URL": "http://www.moma.org/collection/works/59797", 
   "CuratorApproved": "Y", 
-  "Title": "Partial Female Figure (Fragment de corps de femme), headpiece from the book Les M\u00e9tamorphoses by Ovid", 
-  "DateAcquired": "1945-01-03", 
+  "CreditLine": "Purchase", 
   "Date": "1931", 
   "ArtistID": 4609, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "10.1945", 
-  "ArtistBio": "Spanish, 1881\u20131973", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(Spanish, 1881\u20131973)", 
+  "DateAcquired": "1945-01-03", 
+  "\ufeffTitle": "Partial Female Figure (Fragment de corps de femme), headpiece from the book Les M\u00e9tamorphoses by Ovid", 
   "ObjectID": "59797"
 }

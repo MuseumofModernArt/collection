@@ -1,12 +1,11 @@
 {
   "Medium": "Stainless steel", 
-  "Dimensions": ".1 (dinner knife): l. 8 1/4\" (21 cm)  .2 (butter knife): l. 6 11/16\" (17 cm)  .3 (dinner fork): l. 7 1/2\" (19 cm)  .4 (salad fork): l. 6 7/16\" (16.4 cm)  .5 (soup spoon): l. 7 1/8\" (18.1 cm)  .6 (teaspoon): l. 6\" (15.2 cm)", 
+  "Dimensions": ".1 (dinner knife): l. 8 1/4\" (21 cm)\r\n.2 (butter knife): l. 6 11/16\" (17 cm)\r\n.3 (dinner fork): l. 7 1/2\" (19 cm)\r\n.4 (salad fork): l. 6 7/16\" (16.4 cm)\r\n.5 (soup spoon): l. 7 1/8\" (18.1 cm)\r\n.6 (teaspoon): l. 6\" (15.2 cm)", 
   "Classification": "A&D Design", 
   "Artist": "Folke Arstrom", 
   "URL": "http://www.moma.org/collection/works/4176", 
   "CuratorApproved": "Y", 
-  "Title": "Flatware", 
-  "DateAcquired": "1954-12-16", 
+  "CreditLine": "Gift of the Education Department", 
   "Date": "c. 1946", 
   "Keywords": [
     "online art collection", 
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "658.1954.1-6", 
-  "ArtistBio": "Swedish, 1907\u20131997", 
-  "CreditLine": "Gift of the Education Department", 
+  "ArtistBio": "(Swedish, 1907\u20131997)", 
+  "DateAcquired": "1954-12-16", 
+  "\ufeffTitle": "Flatware", 
   "ObjectID": "4176"
 }

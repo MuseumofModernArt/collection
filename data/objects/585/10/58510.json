@@ -5,8 +5,7 @@
   "Artist": "Associated Press", 
   "URL": "http://www.moma.org/collection/works/58510", 
   "CuratorApproved": "Y", 
-  "Title": "Hitler at Microphone", 
-  "DateAcquired": "2001-06-14", 
+  "CreditLine": "The New York Times Collection", 
   "Date": "c. 1933", 
   "ArtistID": 8501, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "1924.2001", 
-  "ArtistBio": "NULL", 
-  "CreditLine": "The New York Times Collection", 
+  "ArtistBio": "", 
+  "DateAcquired": "2001-06-14", 
+  "\ufeffTitle": "\"Hitler at Microphone\"", 
   "ObjectID": "58510"
 }

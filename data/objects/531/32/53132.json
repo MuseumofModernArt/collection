@@ -5,8 +5,7 @@
   "Artist": "Mark Steinmetz", 
   "URL": "http://www.moma.org/collection/works/53132", 
   "CuratorApproved": "Y", 
-  "Title": "Knoxville", 
-  "DateAcquired": "1992-10-15", 
+  "CreditLine": "The Family of Man Fund", 
   "Date": "1992", 
   "ArtistID": 5636, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "419.1992", 
-  "ArtistBio": "American, born 1961", 
-  "CreditLine": "The Family of Man Fund", 
+  "ArtistBio": "(American, born 1961)", 
+  "DateAcquired": "1992-10-15", 
+  "\ufeffTitle": "Knoxville", 
   "ObjectID": "53132"
 }

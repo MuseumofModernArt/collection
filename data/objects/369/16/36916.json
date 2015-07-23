@@ -5,8 +5,7 @@
   "Artist": "Alfred Kubin", 
   "URL": "http://www.moma.org/collection/works/36916", 
   "CuratorApproved": "Y", 
-  "Title": "In a Dream", 
-  "DateAcquired": "1967-05-09", 
+  "CreditLine": "John S. Newberry Fund", 
   "Date": "(c. 1903)", 
   "ArtistID": 3276, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "441.1967", 
-  "ArtistBio": "Austrian, 1877\u20131959", 
-  "CreditLine": "John S. Newberry Fund", 
+  "ArtistBio": "(Austrian, 1877\u20131959)", 
+  "DateAcquired": "1967-05-09", 
+  "\ufeffTitle": "In a Dream (Im Traum)", 
   "ObjectID": "36916"
 }

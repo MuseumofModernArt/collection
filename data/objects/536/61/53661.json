@@ -5,8 +5,7 @@
   "Artist": "Walker Evans", 
   "URL": "http://www.moma.org/collection/works/53661", 
   "CuratorApproved": "Y", 
-  "Title": "Interior Detail, West Virginia Coal Miner's House", 
-  "DateAcquired": "1966-10-11", 
+  "CreditLine": "Purchase", 
   "Date": "1935", 
   "ArtistID": 1777, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "460.1966", 
-  "ArtistBio": "American, 1903\u20131975", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, 1903\u20131975)", 
+  "DateAcquired": "1966-10-11", 
+  "\ufeffTitle": "Interior Detail, West Virginia Coal Miner's House", 
   "ObjectID": "53661"
 }

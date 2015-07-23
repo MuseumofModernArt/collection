@@ -5,8 +5,7 @@
   "Artist": "Bill Brandt", 
   "URL": "http://www.moma.org/collection/works/48808", 
   "CuratorApproved": "Y", 
-  "Title": "Parlourmaid and Under-parlourmaid Ready to Serve Dinner", 
-  "DateAcquired": "1969-03-05", 
+  "CreditLine": "Purchase", 
   "Date": "1936", 
   "ArtistID": 740, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "218.1969", 
-  "ArtistBio": "British, born Germany. 1904\u20131983", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(British, born Germany. 1904\u20131983)", 
+  "DateAcquired": "1969-03-05", 
+  "\ufeffTitle": "Parlourmaid and Under-parlourmaid Ready to Serve Dinner", 
   "ObjectID": "48808"
 }

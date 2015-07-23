@@ -5,8 +5,7 @@
   "Artist": "Ernst Ludwig Kirchner", 
   "URL": "http://www.moma.org/collection/works/67146", 
   "CuratorApproved": "Y", 
-  "Title": "Streetcar Passengers", 
-  "DateAcquired": "1951-05-24", 
+  "CreditLine": "Purchase", 
   "Date": "(1908)", 
   "ArtistID": 3115, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "335.1951", 
-  "ArtistBio": "German, 1880\u20131938", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(German, 1880\u20131938)", 
+  "DateAcquired": "1951-05-24", 
+  "\ufeffTitle": "Streetcar Passengers (Passagiere in der Strassenbahn)", 
   "ObjectID": "67146"
 }

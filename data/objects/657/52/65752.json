@@ -5,8 +5,7 @@
   "Artist": "Hans Meid", 
   "URL": "http://www.moma.org/collection/works/65752", 
   "CuratorApproved": "Y", 
-  "Title": "Temptation of St. Anthony", 
-  "DateAcquired": "1950-10-11", 
+  "CreditLine": "Gift of Mr. and Mrs. Justin K. Thannhauser", 
   "Date": "1918", 
   "ArtistID": 3908, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "273.1950", 
-  "ArtistBio": "German, 1883\u20131957", 
-  "CreditLine": "Gift of Mr. and Mrs. Justin K. Thannhauser", 
+  "ArtistBio": "(German, 1883\u20131957)", 
+  "DateAcquired": "1950-10-11", 
+  "\ufeffTitle": "Temptation of St. Anthony (Versuchung des heiligen Antonius) from the illustrated book Es nahet gen den Tag", 
   "ObjectID": "65752"
 }

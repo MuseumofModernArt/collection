@@ -5,8 +5,7 @@
   "Artist": "Charles Sheeler", 
   "URL": "http://www.moma.org/collection/works/35279", 
   "CuratorApproved": "Y", 
-  "Title": "Barn", 
-  "DateAcquired": "1940-04-05", 
+  "CreditLine": "Given anonymously", 
   "Date": "1917", 
   "ArtistID": 5383, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "212.1940", 
-  "ArtistBio": "American, 1883\u20131965", 
-  "CreditLine": "Given anonymously", 
+  "ArtistBio": "(American, 1883\u20131965)", 
+  "DateAcquired": "1940-04-05", 
+  "\ufeffTitle": "Barn", 
   "ObjectID": "35279"
 }

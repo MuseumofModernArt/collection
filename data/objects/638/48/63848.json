@@ -1,12 +1,11 @@
 {
   "Medium": "Drypoint", 
-  "Dimensions": "plate  4 3/4 x 3 5/16\" (12 x 8.4 cm)  sheet  14 15/16 x 11 1/4\" (38 x 28.6 cm)", 
+  "Dimensions": "plate  4 3/4 x 3 5/16\" (12 x 8.4 cm)\r\nsheet  14 15/16 x 11 1/4\" (38 x 28.6 cm)", 
   "Classification": "Print", 
   "Artist": "Philippe Favier", 
   "URL": "http://www.moma.org/collection/works/63848", 
   "CuratorApproved": "Y", 
-  "Title": "Eros T\u00e9tanos", 
-  "DateAcquired": "1990-05-02", 
+  "CreditLine": "Purchase", 
   "Date": "1989", 
   "ArtistID": 1816, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "181.1990", 
-  "ArtistBio": "French, born 1957", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(French, born 1957)", 
+  "DateAcquired": "1990-05-02", 
+  "\ufeffTitle": "Eros T\u00e9tanos", 
   "ObjectID": "63848"
 }

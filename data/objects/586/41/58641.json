@@ -5,8 +5,7 @@
   "Artist": "Larry C. Morris/The New York Times", 
   "URL": "http://www.moma.org/collection/works/58641", 
   "CuratorApproved": "Y", 
-  "Title": "World Series Champions", 
-  "DateAcquired": "2001-06-14", 
+  "CreditLine": "The New York Times Collection", 
   "Date": "1986", 
   "ArtistID": 8581, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "2048.2001", 
-  "ArtistBio": "American, 1924\u20131987", 
-  "CreditLine": "The New York Times Collection", 
+  "ArtistBio": "(American, 1924\u20131987)", 
+  "DateAcquired": "2001-06-14", 
+  "\ufeffTitle": "World Series Champions", 
   "ObjectID": "58641"
 }

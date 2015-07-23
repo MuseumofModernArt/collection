@@ -5,8 +5,7 @@
   "Artist": "Andy Warhol", 
   "URL": "http://www.moma.org/collection/works/8893", 
   "CuratorApproved": "Y", 
-  "Title": "Scandanavian Airlines System Passenger Ticket and Baggage Check", 
-  "DateAcquired": "2000-12-11", 
+  "CreditLine": "Gift of the designer", 
   "Date": "1967", 
   "ArtistID": 6246, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "1582.2000", 
-  "ArtistBio": "American, 1928\u20131987", 
-  "CreditLine": "Gift of the designer", 
+  "ArtistBio": "(American, 1928\u20131987)", 
+  "DateAcquired": "2000-12-11", 
+  "\ufeffTitle": "Scandanavian Airlines System Passenger Ticket and Baggage Check", 
   "ObjectID": "8893"
 }

@@ -1,12 +1,11 @@
 {
   "Medium": "Woodcut, wood engraving, and photoengraving", 
-  "Dimensions": "composition  13 x 17 15/16\" (33.1 x 45.7 cm)  sheet  17 9/16 x 22 1/2\" (44 x 57.1 cm)", 
+  "Dimensions": "composition  13 x 17 15/16\" (33.1 x 45.7 cm)\r\nsheet  17 9/16 x 22 1/2\" (44 x 57.1 cm)", 
   "Classification": "Print", 
   "Artist": "Frank Moore", 
   "URL": "http://www.moma.org/collection/works/63719", 
   "CuratorApproved": "Y", 
-  "Title": "PRAIRIE from the portfolio 3 LANDSCAPES", 
-  "DateAcquired": "1999-05-20", 
+  "CreditLine": "Jacqueline Brody Fund", 
   "Date": "1999", 
   "ArtistID": 4070, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "176.1999", 
-  "ArtistBio": "American, 1953\u20132002", 
-  "CreditLine": "Jacqueline Brody Fund", 
+  "ArtistBio": "(American, 1953\u20132002)", 
+  "DateAcquired": "1999-05-20", 
+  "\ufeffTitle": "Praire from the portfolio 3 Landscapes", 
   "ObjectID": "63719"
 }

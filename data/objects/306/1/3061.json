@@ -5,8 +5,7 @@
   "Artist": "John Scofield", 
   "URL": "http://www.moma.org/collection/works/3061", 
   "CuratorApproved": "Y", 
-  "Title": "Folding Music Stand", 
-  "DateAcquired": "1986-10-07", 
+  "CreditLine": "Gift of Peter S. Scholl", 
   "Date": "1971", 
   "ArtistID": 5296, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "250.1986", 
-  "ArtistBio": "American, born 1950", 
-  "CreditLine": "Gift of Peter S. Scholl", 
+  "ArtistBio": "(American, born 1950)", 
+  "DateAcquired": "1986-10-07", 
+  "\ufeffTitle": "Folding Music Stand", 
   "ObjectID": "3061"
 }

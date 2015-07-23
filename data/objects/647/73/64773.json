@@ -5,8 +5,7 @@
   "Artist": "Max Ernst", 
   "URL": "http://www.moma.org/collection/works/64773", 
   "CuratorApproved": "Y", 
-  "Title": "P\u00e9ret: La Br\u00e9bis Galante", 
-  "DateAcquired": "1951-05-24", 
+  "CreditLine": "Purchase", 
   "Date": "1949", 
   "ArtistID": 1752, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "228.1951", 
-  "ArtistBio": "French, born Germany. 1891\u20131976", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(French, born Germany. 1891\u20131976)", 
+  "DateAcquired": "1951-05-24", 
+  "\ufeffTitle": "P\u00e9ret: La Br\u00e9bis Galante", 
   "ObjectID": "64773"
 }

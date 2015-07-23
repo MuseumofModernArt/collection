@@ -5,8 +5,7 @@
   "Artist": "Garry Winogrand", 
   "URL": "http://www.moma.org/collection/works/55930", 
   "CuratorApproved": "Y", 
-  "Title": "Peace Demonstration, Central Park, New York", 
-  "DateAcquired": "1977-12-15", 
+  "CreditLine": "Purchase", 
   "Date": "1970", 
   "ArtistID": 6399, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "667.1977", 
-  "ArtistBio": "American, 1928\u20131984", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, 1928\u20131984)", 
+  "DateAcquired": "1977-12-15", 
+  "\ufeffTitle": "Peace Demonstration, Central Park, New York", 
   "ObjectID": "55930"
 }

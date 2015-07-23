@@ -5,8 +5,7 @@
   "Artist": "Lucio Fontana", 
   "URL": "http://www.moma.org/collection/works/13649", 
   "CuratorApproved": "Y", 
-  "Title": "Concetto Spaziale", 
-  "DateAcquired": "1997-05-28", 
+  "CreditLine": "Monroe Wheeler Fund", 
   "Date": "1966", 
   "ArtistID": 1930, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "208.1997", 
-  "ArtistBio": "Italian, born Argentina. 1899\u20131968", 
-  "CreditLine": "Monroe Wheeler Fund", 
+  "ArtistBio": "(Italian, born Argentina. 1899\u20131968)", 
+  "DateAcquired": "1997-05-28", 
+  "\ufeffTitle": "Spatial Concept (Concetto Spaziale)", 
   "ObjectID": "13649"
 }

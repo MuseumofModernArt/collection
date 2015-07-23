@@ -5,8 +5,7 @@
   "Artist": "Michael Thonet", 
   "URL": "http://www.moma.org/collection/works/3886", 
   "CuratorApproved": "Y", 
-  "Title": "Folding Deck Chair", 
-  "DateAcquired": "1987-11-18", 
+  "CreditLine": "Gift of Manfred Ludewig", 
   "Date": "1866", 
   "ArtistID": 5866, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "461.1987", 
-  "ArtistBio": "Austrian, 1796\u20131871", 
-  "CreditLine": "Gift of Manfred Ludewig", 
+  "ArtistBio": "(Austrian, 1796\u20131871)", 
+  "DateAcquired": "1987-11-18", 
+  "\ufeffTitle": "Folding Deck Chair", 
   "ObjectID": "3886"
 }

@@ -1,16 +1,16 @@
 {
   "Medium": "Photograph", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Photograph", 
   "Artist": "Edward Steichen", 
   "URL": "", 
   "CuratorApproved": "N", 
-  "Title": "(Fashion photograph)", 
-  "DateAcquired": "1961-05-16", 
+  "CreditLine": "Gift of the photographer", 
   "Date": "1937", 
   "Department": "Photography", 
   "MoMANumber": "246.1961", 
-  "ArtistBio": "American, born Luxembourg. 1879\u20131973", 
-  "CreditLine": "Gift of the photographer", 
+  "ArtistBio": "(American, born Luxembourg. 1879\u20131973)", 
+  "DateAcquired": "1961-05-16", 
+  "\ufeffTitle": "(Fashion photograph)", 
   "ObjectID": "49475"
 }

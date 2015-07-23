@@ -5,8 +5,7 @@
   "Artist": "Lucas Samaras", 
   "URL": "http://www.moma.org/collection/works/46452", 
   "CuratorApproved": "Y", 
-  "Title": "Photo Transformation #6469", 
-  "DateAcquired": "1977-03-10", 
+  "CreditLine": "Gift of the American Art Foundation", 
   "Date": "1976", 
   "ArtistID": 5134, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "113.1977", 
-  "ArtistBio": "American, born Greece 1936", 
-  "CreditLine": "Gift of the American Art Foundation", 
+  "ArtistBio": "(American, born Greece 1936)", 
+  "DateAcquired": "1977-03-10", 
+  "\ufeffTitle": "Photo Transformation #6469", 
   "ObjectID": "46452"
 }

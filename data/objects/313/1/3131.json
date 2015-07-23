@@ -5,8 +5,7 @@
   "Artist": "Walter Dorwin Teague", 
   "URL": "http://www.moma.org/collection/works/3131", 
   "CuratorApproved": "Y", 
-  "Title": "Vase", 
-  "DateAcquired": "NULL", 
+  "CreditLine": "Gift of the manufacturer", 
   "Date": "1932", 
   "ArtistID": 5824, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "265.1934", 
-  "ArtistBio": "American, 1883\u20131960", 
-  "CreditLine": "Gift of the manufacturer", 
+  "ArtistBio": "(American, 1883\u20131960)", 
+  "DateAcquired": "", 
+  "\ufeffTitle": "Vase", 
   "ObjectID": "3131"
 }

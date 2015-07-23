@@ -5,8 +5,7 @@
   "Artist": "Robert Genin", 
   "URL": "http://www.moma.org/collection/works/65630", 
   "CuratorApproved": "Y", 
-  "Title": "Seated Nude", 
-  "DateAcquired": "1950-10-11", 
+  "CreditLine": "Gift of Mr. and Mrs. Justin K. Thannhauser", 
   "Date": "unknown", 
   "ArtistID": 2116, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "268.1950", 
-  "ArtistBio": "Russian, 1884\u20131943", 
-  "CreditLine": "Gift of Mr. and Mrs. Justin K. Thannhauser", 
+  "ArtistBio": "(Russian, 1884\u20131943)", 
+  "DateAcquired": "1950-10-11", 
+  "\ufeffTitle": "Seated Nude", 
   "ObjectID": "65630"
 }

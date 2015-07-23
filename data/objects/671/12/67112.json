@@ -5,8 +5,7 @@
   "Artist": "Paul Klee", 
   "URL": "http://www.moma.org/collection/works/67112", 
   "CuratorApproved": "Y", 
-  "Title": "Reading on the Bed", 
-  "DateAcquired": "1948-10-06", 
+  "CreditLine": "Gift of Victor S. Riesenfeld", 
   "Date": "1910", 
   "ArtistID": 3130, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "333.1948", 
-  "ArtistBio": "German, born Switzerland. 1879\u20131940", 
-  "CreditLine": "Gift of Victor S. Riesenfeld", 
+  "ArtistBio": "(German, born Switzerland. 1879\u20131940)", 
+  "DateAcquired": "1948-10-06", 
+  "\ufeffTitle": "Reading on the Bed (Lekt\u00fcre auf dem Bett)", 
   "ObjectID": "67112"
 }

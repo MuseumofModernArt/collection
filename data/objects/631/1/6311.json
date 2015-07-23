@@ -5,8 +5,7 @@
   "Artist": "Marfurt", 
   "URL": "http://www.moma.org/collection/works/6311", 
   "CuratorApproved": "Y", 
-  "Title": "Bruxelles Exposition Universelle 1935", 
-  "DateAcquired": "1943-05-12", 
+  "CreditLine": "Gift of G. E. Kidder Smith", 
   "Date": "1935", 
   "ArtistID": 8401, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "332.1943", 
-  "ArtistBio": "Nationality unknown", 
-  "CreditLine": "Gift of G. E. Kidder Smith", 
+  "ArtistBio": "(Nationality unknown)", 
+  "DateAcquired": "1943-05-12", 
+  "\ufeffTitle": "Bruxelles Exposition Universelle 1935", 
   "ObjectID": "6311"
 }

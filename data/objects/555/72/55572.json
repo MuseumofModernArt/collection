@@ -5,8 +5,7 @@
   "Artist": "Julia Margaret Cameron", 
   "URL": "http://www.moma.org/collection/works/55572", 
   "CuratorApproved": "Y", 
-  "Title": "Thomas Carlyle", 
-  "DateAcquired": "1941-12-10", 
+  "CreditLine": "Purchase", 
   "Date": "1867", 
   "ArtistID": 932, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "610.1941", 
-  "ArtistBio": "British, 1815\u20131879", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(British, 1815\u20131879)", 
+  "DateAcquired": "1941-12-10", 
+  "\ufeffTitle": "Thomas Carlyle", 
   "ObjectID": "55572"
 }

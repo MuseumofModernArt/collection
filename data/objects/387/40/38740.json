@@ -5,8 +5,7 @@
   "Artist": "Fernand L\u00e9ger", 
   "URL": "http://www.moma.org/collection/works/38740", 
   "CuratorApproved": "Y", 
-  "Title": "Repose", 
-  "DateAcquired": "1969-02-10", 
+  "CreditLine": "Gift of Mr. and Mrs. Daniel Saidenberg", 
   "Date": "1921", 
   "ArtistID": 6624, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "1651.1968", 
-  "ArtistBio": "French, 1881\u20131955", 
-  "CreditLine": "Gift of Mr. and Mrs. Daniel Saidenberg", 
+  "ArtistBio": "(French, 1881\u20131955)", 
+  "DateAcquired": "1969-02-10", 
+  "\ufeffTitle": "Repose", 
   "ObjectID": "38740"
 }

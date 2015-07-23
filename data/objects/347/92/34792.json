@@ -5,8 +5,7 @@
   "Artist": "Bart Van Der Leck", 
   "URL": "http://www.moma.org/collection/works/34792", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1973-03-06", 
+  "CreditLine": "Gift of Constance B. Cartwright", 
   "Date": "(1917)", 
   "ArtistID": 6072, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "149.1973", 
-  "ArtistBio": "Dutch, 1876\u20131958", 
-  "CreditLine": "Gift of Constance B. Cartwright", 
+  "ArtistBio": "(Dutch, 1876\u20131958)", 
+  "DateAcquired": "1973-03-06", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "34792"
 }

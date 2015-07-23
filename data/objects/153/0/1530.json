@@ -1,12 +1,11 @@
 {
   "Medium": "Stainless steel", 
-  "Dimensions": ".1a (ashtray): 1 13/16 x 4 7/8\" (4.6 x 12.4 cm)  .2 (ashtray): 2 3/4 x 6\" (7 x 15.2 cm)", 
+  "Dimensions": ".1a (ashtray): 1 13/16 x 4 7/8\" (4.6 x 12.4 cm)\r\n.2 (ashtray): 2 3/4 x 6\" (7 x 15.2 cm)", 
   "Classification": "A&D Design", 
   "Artist": "Achille Castiglioni", 
   "URL": "http://www.moma.org/collection/works/1530", 
   "CuratorApproved": "Y", 
-  "Title": "Spirale Ashtray (7690)", 
-  "DateAcquired": "1997-01-15", 
+  "CreditLine": "Gift of the manufacturer", 
   "Date": "1970", 
   "ArtistID": 1028, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "16.1997.1-2", 
-  "ArtistBio": "Italian, 1918\u20132002", 
-  "CreditLine": "Gift of the manufacturer", 
+  "ArtistBio": "(Italian, 1918\u20132002)", 
+  "DateAcquired": "1997-01-15", 
+  "\ufeffTitle": "Spirale Ashtray (7690)", 
   "ObjectID": "1530"
 }

@@ -5,8 +5,7 @@
   "Artist": "Marcel Duchamp", 
   "URL": "http://www.moma.org/collection/works/32984", 
   "CuratorApproved": "Y", 
-  "Title": "Monte Carlo Bond (No. 12)", 
-  "DateAcquired": "1939-01-06", 
+  "CreditLine": "Gift of the artist", 
   "Date": "1924", 
   "ArtistID": 1634, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "3.1939", 
-  "ArtistBio": "American, born France. 1887\u20131968", 
-  "CreditLine": "Gift of the artist", 
+  "ArtistBio": "(American, born France. 1887\u20131968)", 
+  "DateAcquired": "1939-01-06", 
+  "\ufeffTitle": "Monte Carlo Bond (No. 12)", 
   "ObjectID": "32984"
 }

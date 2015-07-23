@@ -1,12 +1,11 @@
 {
   "Medium": "Portfolio of four etching and aquatints", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "Roman Scheidl", 
   "URL": "http://www.moma.org/collection/works/60673", 
   "CuratorApproved": "Y", 
-  "Title": "4 Lifestyles (4 Lebensarten)", 
-  "DateAcquired": "1979-01-23", 
+  "CreditLine": "Gift of Thomas Bergen", 
   "Date": "(1977-1978)", 
   "ArtistID": 5210, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "39.1979.1-4", 
-  "ArtistBio": "German", 
-  "CreditLine": "Gift of Thomas Bergen", 
+  "ArtistBio": "(German)", 
+  "DateAcquired": "1979-01-23", 
+  "\ufeffTitle": "4 Lifestyles (4 Lebensarten)", 
   "ObjectID": "60673"
 }

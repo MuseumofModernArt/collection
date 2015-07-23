@@ -5,8 +5,7 @@
   "Artist": "Nicholas Nixon", 
   "URL": "http://www.moma.org/collection/works/49954", 
   "CuratorApproved": "Y", 
-  "Title": "West Canfield Avenue, Detroit", 
-  "DateAcquired": "1988-10-13", 
+  "CreditLine": "Gift of the artist", 
   "Date": "1982", 
   "ArtistID": 4315, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "283.1988", 
-  "ArtistBio": "American, born 1947", 
-  "CreditLine": "Gift of the artist", 
+  "ArtistBio": "(American, born 1947)", 
+  "DateAcquired": "1988-10-13", 
+  "\ufeffTitle": "West Canfield Avenue, Detroit", 
   "ObjectID": "49954"
 }

@@ -5,8 +5,7 @@
   "Artist": "Henry Moore", 
   "URL": "http://www.moma.org/collection/works/33081", 
   "CuratorApproved": "Y", 
-  "Title": "Sculpture and Red Rocks", 
-  "DateAcquired": "1949-02-03", 
+  "CreditLine": "Gift of Philip L. Goodwin", 
   "Date": "1942", 
   "ArtistID": 4071, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "9.1949", 
-  "ArtistBio": "British, 1898\u20131986", 
-  "CreditLine": "Gift of Philip L. Goodwin", 
+  "ArtistBio": "(British, 1898\u20131986)", 
+  "DateAcquired": "1949-02-03", 
+  "\ufeffTitle": "Sculpture and Red Rocks", 
   "ObjectID": "33081"
 }

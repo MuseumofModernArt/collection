@@ -5,8 +5,7 @@
   "Artist": "Henry McCarter", 
   "URL": "http://www.moma.org/collection/works/7818", 
   "CuratorApproved": "Y", 
-  "Title": "The Green Tree Library For Sale Here", 
-  "DateAcquired": "1981-12-10", 
+  "CreditLine": "Gift of Leslie J. Schreyer", 
   "Date": "1895", 
   "ArtistID": 3870, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "635.1981", 
-  "ArtistBio": "American, 1864\u20131942", 
-  "CreditLine": "Gift of Leslie J. Schreyer", 
+  "ArtistBio": "(American, 1864\u20131942)", 
+  "DateAcquired": "1981-12-10", 
+  "\ufeffTitle": "The Green Tree Library For Sale Here", 
   "ObjectID": "7818"
 }

@@ -5,8 +5,7 @@
   "Artist": "Ralph Steiner", 
   "URL": "http://www.moma.org/collection/works/55812", 
   "CuratorApproved": "Y", 
-  "Title": "Mechanicville, New York", 
-  "DateAcquired": "1970-10-27", 
+  "CreditLine": "Gift of the photographer", 
   "Date": "1939", 
   "ArtistID": 5631, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "647.1970", 
-  "ArtistBio": "American, 1899\u20131986", 
-  "CreditLine": "Gift of the photographer", 
+  "ArtistBio": "(American, 1899\u20131986)", 
+  "DateAcquired": "1970-10-27", 
+  "\ufeffTitle": "Mechanicville, New York", 
   "ObjectID": "55812"
 }

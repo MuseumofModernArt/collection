@@ -5,8 +5,7 @@
   "Artist": "Antonio Segui", 
   "URL": "http://www.moma.org/collection/works/35975", 
   "CuratorApproved": "Y", 
-  "Title": "Rower (Canotier)", 
-  "DateAcquired": "1972-10-05", 
+  "CreditLine": "David Rockefeller Latin American Fund", 
   "Date": "1970", 
   "ArtistID": 5319, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "282.1972", 
-  "ArtistBio": "Argentine, born 1934", 
-  "CreditLine": "David Rockefeller Latin American Fund", 
+  "ArtistBio": "(Argentine, born 1934)", 
+  "DateAcquired": "1972-10-05", 
+  "\ufeffTitle": "Rower (Canotier)", 
   "ObjectID": "35975"
 }

@@ -5,8 +5,7 @@
   "Artist": "Jasper Johns", 
   "URL": "http://www.moma.org/collection/works/60333", 
   "CuratorApproved": "Y", 
-  "Title": "Alphabets", 
-  "DateAcquired": "1979-01-23", 
+  "CreditLine": "Acquired with matching funds from James R. Epstein and the National Endowment for the Arts", 
   "Date": "1960", 
   "ArtistID": 2923, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "24.1979", 
-  "ArtistBio": "American, born 1930", 
-  "CreditLine": "Acquired with matching funds from James R. Epstein and the National Endowment for the Arts", 
+  "ArtistBio": "(American, born 1930)", 
+  "DateAcquired": "1979-01-23", 
+  "\ufeffTitle": "Alphabets", 
   "ObjectID": "60333"
 }

@@ -5,8 +5,7 @@
   "Artist": "Lewis W. Hine", 
   "URL": "http://www.moma.org/collection/works/55136", 
   "CuratorApproved": "Y", 
-  "Title": "Tampa, Florida", 
-  "DateAcquired": "1970-10-27", 
+  "CreditLine": "Stephen R. Currier Memorial Fund", 
   "Date": "1909", 
   "ArtistID": 2657, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "560.1970", 
-  "ArtistBio": "American, 1874\u20131940", 
-  "CreditLine": "Stephen R. Currier Memorial Fund", 
+  "ArtistBio": "(American, 1874\u20131940)", 
+  "DateAcquired": "1970-10-27", 
+  "\ufeffTitle": "Tampa, Florida", 
   "ObjectID": "55136"
 }

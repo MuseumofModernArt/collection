@@ -5,8 +5,7 @@
   "Artist": "Gertrude K\u00e4sebier", 
   "URL": "http://www.moma.org/collection/works/47203", 
   "CuratorApproved": "Y", 
-  "Title": "Baron de Meyer", 
-  "DateAcquired": "1963-02-13", 
+  "CreditLine": "Gift of Mrs. Hermine M. Turner", 
   "Date": "1901", 
   "ArtistID": 3008, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "169.1963", 
-  "ArtistBio": "American, 1852\u20131934", 
-  "CreditLine": "Gift of Mrs. Hermine M. Turner", 
+  "ArtistBio": "(American, 1852\u20131934)", 
+  "DateAcquired": "1963-02-13", 
+  "\ufeffTitle": "Baron de Meyer", 
   "ObjectID": "47203"
 }

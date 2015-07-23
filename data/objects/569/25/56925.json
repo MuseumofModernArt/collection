@@ -5,8 +5,7 @@
   "Artist": "Lee Friedlander", 
   "URL": "http://www.moma.org/collection/works/56925", 
   "CuratorApproved": "Y", 
-  "Title": "Portland, Maine", 
-  "DateAcquired": "1965-11-09", 
+  "CreditLine": "Purchase", 
   "Date": "1962", 
   "ArtistID": 2002, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "848.1965", 
-  "ArtistBio": "American, born 1934", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, born 1934)", 
+  "DateAcquired": "1965-11-09", 
+  "\ufeffTitle": "Portland, Maine", 
   "ObjectID": "56925"
 }

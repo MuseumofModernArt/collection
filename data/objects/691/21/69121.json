@@ -5,8 +5,7 @@
   "Artist": "David Hockney", 
   "URL": "http://www.moma.org/collection/works/69121", 
   "CuratorApproved": "Y", 
-  "Title": "The Blue Guitar", 
-  "DateAcquired": "1977-11-10", 
+  "CreditLine": "The Associates Fund", 
   "Date": "(1976-77, published 1977)", 
   "ArtistID": 2678, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "437.1977.1-20", 
-  "ArtistBio": "British, born 1937", 
-  "CreditLine": "The Associates Fund", 
+  "ArtistBio": "(British, born 1937)", 
+  "DateAcquired": "1977-11-10", 
+  "\ufeffTitle": "The Blue Guitar", 
   "ObjectID": "69121"
 }

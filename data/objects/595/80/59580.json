@@ -1,12 +1,11 @@
 {
   "Medium": "Aqautint, roulett\u00e9 and photoetching on two sheets", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "John Baldessari", 
   "URL": "http://www.moma.org/collection/works/59580", 
   "CuratorApproved": "Y", 
-  "Title": "Heaven and Hell", 
-  "DateAcquired": "1989-01-18", 
+  "CreditLine": "John B. Turner Fund", 
   "Date": "1988", 
   "ArtistID": 304, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "1.1989.a-b", 
-  "ArtistBio": "American, born 1931", 
-  "CreditLine": "John B. Turner Fund", 
+  "ArtistBio": "(American, born 1931)", 
+  "DateAcquired": "1989-01-18", 
+  "\ufeffTitle": "Heaven and Hell", 
   "ObjectID": "59580"
 }

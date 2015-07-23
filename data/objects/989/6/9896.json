@@ -1,12 +1,11 @@
 {
   "Medium": "Ilustrated book with seventy-nine linoleum cuts", 
-  "Dimensions": "page  9 15/16 x 7 15/16\" (25 x 20.2 cm)  Prints:  various dimensions.", 
+  "Dimensions": "page  9 15/16 x 7 15/16\" (25 x 20.2 cm)\r\nPrints:  various dimensions.", 
   "Classification": "Illustrated Book", 
   "Artist": "Gerald Jackson", 
   "URL": "http://www.moma.org/collection/works/9896", 
   "CuratorApproved": "Y", 
-  "Title": "Adventures in KU-TA-BA WA-DO", 
-  "DateAcquired": "1975-01-07", 
+  "CreditLine": "Gift of the artist", 
   "Date": "1973", 
   "ArtistID": 2859, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "27.1975.1-79", 
-  "ArtistBio": "American, born 1943", 
-  "CreditLine": "Gift of the artist", 
+  "ArtistBio": "(American, born 1943)", 
+  "DateAcquired": "1975-01-07", 
+  "\ufeffTitle": "Adventures in KU-TA-BA WA-DO", 
   "ObjectID": "9896"
 }

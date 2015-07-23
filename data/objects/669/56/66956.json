@@ -5,8 +5,7 @@
   "Artist": "Erich Heckel", 
   "URL": "http://www.moma.org/collection/works/66956", 
   "CuratorApproved": "Y", 
-  "Title": "Antwerp", 
-  "DateAcquired": "1940-04-05", 
+  "CreditLine": "Gift of Abby Aldrich Rockefeller", 
   "Date": "1914", 
   "ArtistID": 2569, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "325.1940", 
-  "ArtistBio": "German, 1883\u20131970", 
-  "CreditLine": "Gift of Abby Aldrich Rockefeller", 
+  "ArtistBio": "(German, 1883\u20131970)", 
+  "DateAcquired": "1940-04-05", 
+  "\ufeffTitle": "Antwerp (Antwerpen)", 
   "ObjectID": "66956"
 }

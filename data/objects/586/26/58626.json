@@ -5,8 +5,7 @@
   "Artist": "Keystone View Company", 
   "URL": "http://www.moma.org/collection/works/58626", 
   "CuratorApproved": "Y", 
-  "Title": "Adolf Hitler Greets German Student Group in Prague ", 
-  "DateAcquired": "2001-06-14", 
+  "CreditLine": "The New York Times Collection", 
   "Date": "March 17, 1939", 
   "ArtistID": 8567, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "2033.2001", 
-  "ArtistBio": "American, active, 1892\u20131972", 
-  "CreditLine": "The New York Times Collection", 
+  "ArtistBio": "(American, active, 1892\u20131972)", 
+  "DateAcquired": "2001-06-14", 
+  "\ufeffTitle": "Adolf Hitler Greets German Student Group in Prague", 
   "ObjectID": "58626"
 }

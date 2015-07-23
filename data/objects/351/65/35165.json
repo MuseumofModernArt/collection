@@ -5,8 +5,7 @@
   "Artist": "Christopher Wilmarth", 
   "URL": "http://www.moma.org/collection/works/35165", 
   "CuratorApproved": "Y", 
-  "Title": "Reach", 
-  "DateAcquired": "1997-04-17", 
+  "CreditLine": "Gift of Agnes Gund", 
   "Date": "1969", 
   "ArtistID": 6386, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "189.1997", 
-  "ArtistBio": "American, 1943\u20131987", 
-  "CreditLine": "Gift of Agnes Gund", 
+  "ArtistBio": "(American, 1943\u20131987)", 
+  "DateAcquired": "1997-04-17", 
+  "\ufeffTitle": "Reach", 
   "ObjectID": "35165"
 }

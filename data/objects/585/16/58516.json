@@ -5,8 +5,7 @@
   "Artist": "Associated Press", 
   "URL": "http://www.moma.org/collection/works/58516", 
   "CuratorApproved": "Y", 
-  "Title": "An Unhappy Landing High on a Mountain Side in the Snow-Blanketed Adirondacks", 
-  "DateAcquired": "2001-06-14", 
+  "CreditLine": "The New York Times Collection", 
   "Date": "December 31, 1934", 
   "ArtistID": 8501, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "1927.2001", 
-  "ArtistBio": "NULL", 
-  "CreditLine": "The New York Times Collection", 
+  "ArtistBio": "", 
+  "DateAcquired": "2001-06-14", 
+  "\ufeffTitle": "\"An Unhappy Landing High on a Mountain Side in the Snow-Blanketed Adirondacks\"", 
   "ObjectID": "58516"
 }

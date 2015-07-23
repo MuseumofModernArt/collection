@@ -1,12 +1,11 @@
 {
   "Medium": "Portfolio of two etchings and four aquatints", 
-  "Dimensions": "ea. approx. plate  10 7/8 x 10 7/8\" (27.6 x 27.6 cm)  ea. approx. sheet  18 3/8 x 17 15/16\" (46.7 x 45.6 cm)", 
+  "Dimensions": "ea. approx. plate  10 7/8 x 10 7/8\" (27.6 x 27.6 cm)\r\nea. approx. sheet  18 3/8 x 17 15/16\" (46.7 x 45.6 cm)", 
   "Classification": "Print", 
   "Artist": "Edda Renouf", 
   "URL": "http://www.moma.org/collection/works/65969", 
   "CuratorApproved": "Y", 
-  "Title": "Traces", 
-  "DateAcquired": "1975-10-07", 
+  "CreditLine": "Given anonymously", 
   "Date": "1974", 
   "ArtistID": 4870, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "282.1975.1-6", 
-  "ArtistBio": "American, born Mexico 1943", 
-  "CreditLine": "Given anonymously", 
+  "ArtistBio": "(American, born Mexico 1943)", 
+  "DateAcquired": "1975-10-07", 
+  "\ufeffTitle": "Traces", 
   "ObjectID": "65969"
 }

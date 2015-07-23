@@ -5,8 +5,7 @@
   "Artist": "August Sander", 
   "URL": "http://www.moma.org/collection/works/51765", 
   "CuratorApproved": "Y", 
-  "Title": "The Right Eye of My Daughter Sigrid", 
-  "DateAcquired": "1953-04-07", 
+  "CreditLine": "Gift of the artist", 
   "Date": "1928", 
   "ArtistID": 5145, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "362.1953", 
-  "ArtistBio": "German, 1876\u20131964", 
-  "CreditLine": "Gift of the artist", 
+  "ArtistBio": "(German, 1876\u20131964)", 
+  "DateAcquired": "1953-04-07", 
+  "\ufeffTitle": "The Right Eye of My Daughter Sigrid", 
   "ObjectID": "51765"
 }

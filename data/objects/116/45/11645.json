@@ -1,12 +1,11 @@
 {
   "Medium": "Illustrated book with 1 woodcut", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Illustrated Book", 
   "Artist": "Alison Saar", 
   "URL": "http://www.moma.org/collection/works/11645", 
   "CuratorApproved": "Y", 
-  "Title": "Arcade by Erica Hunt", 
-  "DateAcquired": "1998-03-05", 
+  "CreditLine": "Gift of Dan Redmon", 
   "Date": "1996", 
   "ArtistID": 7067, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "119.1998.1-2", 
-  "ArtistBio": "American, born 1956", 
-  "CreditLine": "Gift of Dan Redmon", 
+  "ArtistBio": "(American, born 1956)", 
+  "DateAcquired": "1998-03-05", 
+  "\ufeffTitle": "Arcade", 
   "ObjectID": "11645"
 }

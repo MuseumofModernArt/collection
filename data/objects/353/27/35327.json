@@ -1,12 +1,11 @@
 {
   "Medium": "Gouache on paper", 
-  "Dimensions": "39 x 27 1/2\" (99.1 x 69.7 cm)  ", 
+  "Dimensions": "39 x 27 1/2\" (99.1 x 69.7 cm)\r\n", 
   "Classification": "Drawing", 
   "Artist": "Sigmar Polke", 
   "URL": "http://www.moma.org/collection/works/35327", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1996-05-16", 
+  "CreditLine": "Gift of the Dannheisser Foundation", 
   "Date": "1983", 
   "ArtistID": 4671, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "216.1996", 
-  "ArtistBio": "German, 1941\u20132010", 
-  "CreditLine": "Gift of the Dannheisser Foundation", 
+  "ArtistBio": "(German, 1941\u20132010)", 
+  "DateAcquired": "1996-05-16", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "35327"
 }

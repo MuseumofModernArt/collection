@@ -5,8 +5,7 @@
   "Artist": "Maryan S. Maryan", 
   "URL": "http://www.moma.org/collection/works/35283", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1988-05-05", 
+  "CreditLine": "Gift of Arnold Smoller", 
   "Date": "1961", 
   "ArtistID": 3813, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "212.1988", 
-  "ArtistBio": "American, born Poland. 1927\u20131977", 
-  "CreditLine": "Gift of Arnold Smoller", 
+  "ArtistBio": "(American, born Poland. 1927\u20131977)", 
+  "DateAcquired": "1988-05-05", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "35283"
 }

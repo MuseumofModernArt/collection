@@ -5,8 +5,7 @@
   "Artist": "John Marin", 
   "URL": "http://www.moma.org/collection/works/67090", 
   "CuratorApproved": "Y", 
-  "Title": "Brooklyn Bridge - on the Bridge, No. 2", 
-  "DateAcquired": "1958-12-19", 
+  "CreditLine": "Mrs. Bertram Smith Fund", 
   "Date": "1944", 
   "ArtistID": 3770, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "332.1958", 
-  "ArtistBio": "American, 1870\u20131953", 
-  "CreditLine": "Mrs. Bertram Smith Fund", 
+  "ArtistBio": "(American, 1870\u20131953)", 
+  "DateAcquired": "1958-12-19", 
+  "\ufeffTitle": "Brooklyn Bridge - on the Bridge, No. 2", 
   "ObjectID": "67090"
 }

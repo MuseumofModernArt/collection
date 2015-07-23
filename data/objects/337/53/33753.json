@@ -5,8 +5,7 @@
   "Artist": "Alberto Giacometti", 
   "URL": "http://www.moma.org/collection/works/33753", 
   "CuratorApproved": "Y", 
-  "Title": "An Interior", 
-  "DateAcquired": "1978-04-04", 
+  "CreditLine": "The Joan and Lester Avnet Collection", 
   "Date": "1955", 
   "ArtistID": 2141, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "85.1978", 
-  "ArtistBio": "Swiss, 1901\u20131966", 
-  "CreditLine": "The Joan and Lester Avnet Collection", 
+  "ArtistBio": "(Swiss, 1901\u20131966)", 
+  "DateAcquired": "1978-04-04", 
+  "\ufeffTitle": "An Interior", 
   "ObjectID": "33753"
 }

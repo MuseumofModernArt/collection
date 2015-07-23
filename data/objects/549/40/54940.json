@@ -5,8 +5,7 @@
   "Artist": "August Sander", 
   "URL": "http://www.moma.org/collection/works/54940", 
   "CuratorApproved": "Y", 
-  "Title": "Sisters", 
-  "DateAcquired": "1973-11-13", 
+  "CreditLine": "Gift of Gunther Sander", 
   "Date": "1927", 
   "ArtistID": 5145, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "544.1973", 
-  "ArtistBio": "German, 1876\u20131964", 
-  "CreditLine": "Gift of Gunther Sander", 
+  "ArtistBio": "(German, 1876\u20131964)", 
+  "DateAcquired": "1973-11-13", 
+  "\ufeffTitle": "Sisters", 
   "ObjectID": "54940"
 }

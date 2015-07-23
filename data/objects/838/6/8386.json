@@ -5,8 +5,7 @@
   "Artist": "Wolfgang Schmidt", 
   "URL": "http://www.moma.org/collection/works/8386", 
   "CuratorApproved": "Y", 
-  "Title": "Schreib, Galerie Gunar D\u00fcsseldorf", 
-  "DateAcquired": "1965-11-09", 
+  "CreditLine": "Gift of the artist", 
   "Date": "1965", 
   "ArtistID": 5240, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "927.1965", 
-  "ArtistBio": "German, born 1930", 
-  "CreditLine": "Gift of the artist", 
+  "ArtistBio": "(German, born 1930)", 
+  "DateAcquired": "1965-11-09", 
+  "\ufeffTitle": "Schreib, Galerie Gunar D\u00fcsseldorf", 
   "ObjectID": "8386"
 }

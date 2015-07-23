@@ -5,8 +5,7 @@
   "Artist": "Pablo Picasso", 
   "URL": "http://www.moma.org/collection/works/29921", 
   "CuratorApproved": "Y", 
-  "Title": "\u00c0 Haute Flamme", 
-  "DateAcquired": "1964-10-06", 
+  "CreditLine": "The Louis E. Stern Collection", 
   "Date": "1955", 
   "ArtistID": 4609, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "1007.1964.1-6", 
-  "ArtistBio": "Spanish, 1881\u20131973", 
-  "CreditLine": "The Louis E. Stern Collection", 
+  "ArtistBio": "(Spanish, 1881\u20131973)", 
+  "DateAcquired": "1964-10-06", 
+  "\ufeffTitle": "\u00c0 Haute Flamme", 
   "ObjectID": "29921"
 }

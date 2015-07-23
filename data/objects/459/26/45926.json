@@ -5,8 +5,7 @@
   "Artist": "Robert Adams", 
   "URL": "http://www.moma.org/collection/works/45926", 
   "CuratorApproved": "Y", 
-  "Title": "Nevada Avenue, Colorado Springs, Colorado", 
-  "DateAcquired": "1972-03-07", 
+  "CreditLine": "David H. McAlpin Fund", 
   "Date": "1969", 
   "ArtistID": 66, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "85.1972", 
-  "ArtistBio": "American, born 1937", 
-  "CreditLine": "David H. McAlpin Fund", 
+  "ArtistBio": "(American, born 1937)", 
+  "DateAcquired": "1972-03-07", 
+  "\ufeffTitle": "Nevada Avenue, Colorado Springs, Colorado", 
   "ObjectID": "45926"
 }

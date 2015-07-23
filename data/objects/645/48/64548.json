@@ -1,12 +1,11 @@
 {
   "Medium": "Iris print on Mylar", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
-  "Artist": "Michael Joaquin Grey", 
+  "Artist": "Michael Joaquin Grey, Paulina Wallenberg-Olsson", 
   "URL": "http://www.moma.org/collection/works/64548", 
   "CuratorApproved": "Y", 
-  "Title": "Overintelligent Film", 
-  "DateAcquired": "1997-05-28", 
+  "CreditLine": "Reba and Dave Williams Fund", 
   "Date": "1996", 
   "ArtistID": 7680, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "214.1997", 
-  "ArtistBio": "American, born 1961", 
-  "CreditLine": "Reba and Dave Williams Fund", 
+  "ArtistBio": "(American, born 1961)", 
+  "DateAcquired": "1997-05-28", 
+  "\ufeffTitle": "Overintelligent Film", 
   "ObjectID": "64548"
 }

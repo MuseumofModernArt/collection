@@ -5,8 +5,7 @@
   "Artist": "Ekco Products Co., Chicago, IL", 
   "URL": "http://www.moma.org/collection/works/2375", 
   "CuratorApproved": "Y", 
-  "Title": "Flint Spatula", 
-  "DateAcquired": "1947-06-17", 
+  "CreditLine": "Gift of the manufacturer", 
   "Date": "1943-46", 
   "Keywords": [
     "online art collection", 
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "172.1947", 
-  "ArtistBio": "American, est. 1888", 
-  "CreditLine": "Gift of the manufacturer", 
+  "ArtistBio": "(American, est. 1888)", 
+  "DateAcquired": "1947-06-17", 
+  "\ufeffTitle": "Flint Spatula", 
   "ObjectID": "2375"
 }

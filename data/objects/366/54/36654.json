@@ -5,8 +5,7 @@
   "Artist": "Jim Dine", 
   "URL": "http://www.moma.org/collection/works/36654", 
   "CuratorApproved": "Y", 
-  "Title": "Three Rainbows for CORE", 
-  "DateAcquired": "1966-10-11", 
+  "CreditLine": "Gift of Miss Mary Ahern", 
   "Date": "1966", 
   "ArtistID": 1547, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "397.1966", 
-  "ArtistBio": "American, born 1935", 
-  "CreditLine": "Gift of Miss Mary Ahern", 
+  "ArtistBio": "(American, born 1935)", 
+  "DateAcquired": "1966-10-11", 
+  "\ufeffTitle": "Three Rainbows for CORE", 
   "ObjectID": "36654"
 }

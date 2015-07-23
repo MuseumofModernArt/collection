@@ -5,8 +5,7 @@
   "Artist": "Tina Modotti", 
   "URL": "http://www.moma.org/collection/works/46178", 
   "CuratorApproved": "Y", 
-  "Title": "Workers Parade", 
-  "DateAcquired": "1964-01-07", 
+  "CreditLine": "Anonymous gift", 
   "Date": "1926", 
   "ArtistID": 4039, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "95.1964", 
-  "ArtistBio": "Italian, 1896\u20131942", 
-  "CreditLine": "Anonymous gift", 
+  "ArtistBio": "(Italian, 1896\u20131942)", 
+  "DateAcquired": "1964-01-07", 
+  "\ufeffTitle": "Workers Parade", 
   "ObjectID": "46178"
 }

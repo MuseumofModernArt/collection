@@ -5,8 +5,7 @@
   "Artist": "Chuck Close", 
   "URL": "http://www.moma.org/collection/works/59723", 
   "CuratorApproved": "Y", 
-  "Title": "Lucas", 
-  "DateAcquired": "1990-01-16", 
+  "CreditLine": "John B. Turner Fund", 
   "Date": "1988 (published 1989).", 
   "ArtistID": 1156, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "7.1990.A-C", 
-  "ArtistBio": "American, born 1940", 
-  "CreditLine": "John B. Turner Fund", 
+  "ArtistBio": "(American, born 1940)", 
+  "DateAcquired": "1990-01-16", 
+  "\ufeffTitle": "Lucas", 
   "ObjectID": "59723"
 }

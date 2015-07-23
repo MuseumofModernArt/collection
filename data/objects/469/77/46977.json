@@ -5,8 +5,7 @@
   "Artist": "Robert Adams", 
   "URL": "http://www.moma.org/collection/works/46977", 
   "CuratorApproved": "Y", 
-  "Title": "East from Flagstaff Mountain, Boulder County, Colorado", 
-  "DateAcquired": "1982-05-13", 
+  "CreditLine": "Purchase", 
   "Date": "1976", 
   "ArtistID": 66, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "155.1982", 
-  "ArtistBio": "American, born 1937", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, born 1937)", 
+  "DateAcquired": "1982-05-13", 
+  "\ufeffTitle": "East from Flagstaff Mountain, Boulder County, Colorado", 
   "ObjectID": "46977"
 }

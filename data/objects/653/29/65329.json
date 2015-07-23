@@ -1,12 +1,11 @@
 {
   "Medium": "Lithograph with metal collage in brass frame box", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "Enzo Cucchi", 
   "URL": "http://www.moma.org/collection/works/65329", 
   "CuratorApproved": "Y", 
-  "Title": "Giotto's Elephant (L'Elefante di Giotto)", 
-  "DateAcquired": "1989-10-12", 
+  "CreditLine": "Gift of Edition Schellmann, Munich and New York", 
   "Date": "1986", 
   "ArtistID": 1323, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "254.1989", 
-  "ArtistBio": "Italian, born 1949", 
-  "CreditLine": "Gift of Edition Schellmann, Munich and New York", 
+  "ArtistBio": "(Italian, born 1949)", 
+  "DateAcquired": "1989-10-12", 
+  "\ufeffTitle": "Giotto's Elephant (L'Elefante di Giotto)", 
   "ObjectID": "65329"
 }

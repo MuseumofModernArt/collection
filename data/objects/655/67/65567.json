@@ -5,8 +5,7 @@
   "Artist": "Lovis Corinth", 
   "URL": "http://www.moma.org/collection/works/65567", 
   "CuratorApproved": "Y", 
-  "Title": "Wilhelm Tr\u00fcbner", 
-  "DateAcquired": "1950-10-11", 
+  "CreditLine": "Gift of Mr. and Mrs. Justin K. Thannhauser", 
   "Date": "(1921)", 
   "ArtistID": 1243, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "266.1950", 
-  "ArtistBio": "German, 1858\u20131925", 
-  "CreditLine": "Gift of Mr. and Mrs. Justin K. Thannhauser", 
+  "ArtistBio": "(German, 1858\u20131925)", 
+  "DateAcquired": "1950-10-11", 
+  "\ufeffTitle": "Wilhelm Tr\u00fcbner", 
   "ObjectID": "65567"
 }

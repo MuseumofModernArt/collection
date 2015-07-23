@@ -5,8 +5,7 @@
   "Artist": "Herbert Matter", 
   "URL": "http://www.moma.org/collection/works/5131", 
   "CuratorApproved": "Y", 
-  "Title": "America Calling, Take Your Place in Civilian Defense", 
-  "DateAcquired": "NULL", 
+  "CreditLine": "Gift of the Office of Emergency Management", 
   "Date": "1941", 
   "ArtistID": 3843, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "118.1944", 
-  "ArtistBio": "American, born Switzerland. 1907\u20131984", 
-  "CreditLine": "Gift of the Office of Emergency Management", 
+  "ArtistBio": "(American, born Switzerland. 1907\u20131984)", 
+  "DateAcquired": "", 
+  "\ufeffTitle": "America Calling, Take Your Place in Civilian Defense", 
   "ObjectID": "5131"
 }

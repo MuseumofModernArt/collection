@@ -5,8 +5,7 @@
   "Artist": "Barbara Morgan", 
   "URL": "http://www.moma.org/collection/works/52374", 
   "CuratorApproved": "Y", 
-  "Title": "Martha Graham, Celebration", 
-  "DateAcquired": "1972-11-21", 
+  "CreditLine": "Gift of the photographer", 
   "Date": "1937", 
   "ArtistID": 4089, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "390.1972", 
-  "ArtistBio": "American, 1900\u20131992", 
-  "CreditLine": "Gift of the photographer", 
+  "ArtistBio": "(American, 1900\u20131992)", 
+  "DateAcquired": "1972-11-21", 
+  "\ufeffTitle": "Martha Graham, Celebration", 
   "ObjectID": "52374"
 }

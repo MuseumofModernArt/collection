@@ -5,8 +5,7 @@
   "Artist": "Allen Jones", 
   "URL": "http://www.moma.org/collection/works/7918", 
   "CuratorApproved": "Y", 
-  "Title": "Englische Graphik", 
-  "DateAcquired": "1966-12-06", 
+  "CreditLine": "Gift of Galerie der Spiegel", 
   "Date": "1964-1966", 
   "ArtistID": 2931, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "680.1966", 
-  "ArtistBio": "British, born 1937", 
-  "CreditLine": "Gift of Galerie der Spiegel", 
+  "ArtistBio": "(British, born 1937)", 
+  "DateAcquired": "1966-12-06", 
+  "\ufeffTitle": "Englische Graphik", 
   "ObjectID": "7918"
 }

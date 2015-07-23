@@ -5,8 +5,7 @@
   "Artist": "Emil Nolde", 
   "URL": "http://www.moma.org/collection/works/69413", 
   "CuratorApproved": "Y", 
-  "Title": "Hamburg, Reiherstiegdock", 
-  "DateAcquired": "1940-04-05", 
+  "CreditLine": "Gift of Abby Aldrich Rockefeller", 
   "Date": "(1910)", 
   "ArtistID": 4327, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "457.1940", 
-  "ArtistBio": "German, 1867\u20131956", 
-  "CreditLine": "Gift of Abby Aldrich Rockefeller", 
+  "ArtistBio": "(German, 1867\u20131956)", 
+  "DateAcquired": "1940-04-05", 
+  "\ufeffTitle": "Hamburg, Reiherstiegdock", 
   "ObjectID": "69413"
 }

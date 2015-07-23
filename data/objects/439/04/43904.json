@@ -5,8 +5,7 @@
   "Artist": "Berenice Abbott", 
   "URL": "http://www.moma.org/collection/works/43904", 
   "CuratorApproved": "Y", 
-  "Title": "James Joyce", 
-  "DateAcquired": "1971-01-05", 
+  "CreditLine": "Stephen R. Currier Memorial Fund", 
   "Date": "1928", 
   "ArtistID": 41, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "5.1971", 
-  "ArtistBio": "American, 1898\u20131991", 
-  "CreditLine": "Stephen R. Currier Memorial Fund", 
+  "ArtistBio": "(American, 1898\u20131991)", 
+  "DateAcquired": "1971-01-05", 
+  "\ufeffTitle": "James Joyce", 
   "ObjectID": "43904"
 }

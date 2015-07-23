@@ -5,8 +5,7 @@
   "Artist": "Alfred Wallis", 
   "URL": "http://www.moma.org/collection/works/38737", 
   "CuratorApproved": "Y", 
-  "Title": "St. Ives Harbor", 
-  "DateAcquired": "1940-09-30", 
+  "CreditLine": "Gift of Ben Nicholson", 
   "Date": "(c. 1932-33)", 
   "ArtistID": 6229, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "1646.1940", 
-  "ArtistBio": "British, 1855\u20131942", 
-  "CreditLine": "Gift of Ben Nicholson", 
+  "ArtistBio": "(British, 1855\u20131942)", 
+  "DateAcquired": "1940-09-30", 
+  "\ufeffTitle": "St. Ives Harbor", 
   "ObjectID": "38737"
 }

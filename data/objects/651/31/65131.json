@@ -5,8 +5,7 @@
   "Artist": "Louise Bourgeois", 
   "URL": "http://www.moma.org/collection/works/65131", 
   "CuratorApproved": "Y", 
-  "Title": "Pivotage Difficile, state I of VI", 
-  "DateAcquired": "1992-05-20", 
+  "CreditLine": "Gift of the artist", 
   "Date": "c. 1946", 
   "ArtistID": 710, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "245.1992", 
-  "ArtistBio": "American, born France. 1911\u20132010", 
-  "CreditLine": "Gift of the artist", 
+  "ArtistBio": "(American, born France. 1911\u20132010)", 
+  "DateAcquired": "1992-05-20", 
+  "\ufeffTitle": "Pivotage Difficile", 
   "ObjectID": "65131"
 }

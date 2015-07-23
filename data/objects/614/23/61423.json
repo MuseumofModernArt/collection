@@ -1,12 +1,11 @@
 {
   "Medium": "Lithograph", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "Umberto Raponi", 
   "URL": "http://www.moma.org/collection/works/61423", 
   "CuratorApproved": "Y", 
-  "Title": "Retina to A-Y", 
-  "DateAcquired": "1968-02-05", 
+  "CreditLine": "John S. Newberry Fund", 
   "Date": "(1966)", 
   "ArtistID": 4816, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "64.1968", 
-  "ArtistBio": "Nationality unknown", 
-  "CreditLine": "John S. Newberry Fund", 
+  "ArtistBio": "(Nationality unknown)", 
+  "DateAcquired": "1968-02-05", 
+  "\ufeffTitle": "Retina to A-Y", 
   "ObjectID": "61423"
 }

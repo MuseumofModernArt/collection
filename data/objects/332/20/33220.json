@@ -5,8 +5,7 @@
   "Artist": "Marie Laurencin", 
   "URL": "http://www.moma.org/collection/works/33220", 
   "CuratorApproved": "Y", 
-  "Title": "Self-Portrait", 
-  "DateAcquired": "1953-01-30", 
+  "CreditLine": "Purchase", 
   "Date": "1906", 
   "ArtistID": 3408, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "17.1953", 
-  "ArtistBio": "French, 1883\u20131956", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(French, 1883\u20131956)", 
+  "DateAcquired": "1953-01-30", 
+  "\ufeffTitle": "Self-Portrait", 
   "ObjectID": "33220"
 }

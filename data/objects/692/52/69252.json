@@ -1,12 +1,11 @@
 {
   "Medium": "Engraving and drypoint", 
-  "Dimensions": "plate  9 x 11 15/16\" (22.9 x 30.3 cm)  sheet  13 3/4 x 19 7/8\" (35 x 50.5 cm)", 
+  "Dimensions": "plate  9 x 11 15/16\" (22.9 x 30.3 cm)\r\nsheet  13 3/4 x 19 7/8\" (35 x 50.5 cm)", 
   "Classification": "Print", 
-  "Artist": "Jackson Pollock", 
+  "Artist": "Jackson Pollock, Lee Krasner, The Museum of Modern Art, New York", 
   "URL": "http://www.moma.org/collection/works/69252", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled (5)", 
-  "DateAcquired": "1969-05-22", 
+  "CreditLine": "Gift of Lee Krasner Pollock", 
   "Date": "c. 1944-45, printed in 1967", 
   "ArtistID": 4675, 
   "Keywords": [
@@ -21,7 +20,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "445.1969", 
-  "ArtistBio": "American, 1912\u20131956", 
-  "CreditLine": "Gift of Lee Krasner Pollock", 
+  "ArtistBio": "(American, 1912\u20131956) (American, 1908\u20131984)", 
+  "DateAcquired": "1969-05-22", 
+  "\ufeffTitle": "Untitled (5)", 
   "ObjectID": "69252"
 }

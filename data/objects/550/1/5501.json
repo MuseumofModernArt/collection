@@ -5,8 +5,7 @@
   "Artist": "Koichi Sato", 
   "URL": "http://www.moma.org/collection/works/5501", 
   "CuratorApproved": "Y", 
-  "Title": "Zen", 
-  "DateAcquired": "1993-05-04", 
+  "CreditLine": "Gift of the designer", 
   "Date": "1992", 
   "ArtistID": 5173, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "174.1993", 
-  "ArtistBio": "Japanese, born 1944", 
-  "CreditLine": "Gift of the designer", 
+  "ArtistBio": "(Japanese, born 1944)", 
+  "DateAcquired": "1993-05-04", 
+  "\ufeffTitle": "Zen", 
   "ObjectID": "5501"
 }

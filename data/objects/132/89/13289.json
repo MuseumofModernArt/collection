@@ -1,12 +1,11 @@
 {
   "Medium": "Artist's book", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Illustrated Book", 
   "Artist": "Giovanni Anselmo", 
   "URL": "http://www.moma.org/collection/works/13289", 
   "CuratorApproved": "Y", 
-  "Title": "Lire", 
-  "DateAcquired": "1997-05-28", 
+  "CreditLine": "Monroe Wheeler Fund", 
   "Date": "1996", 
   "ArtistID": 8211, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "191.1997", 
-  "ArtistBio": "Italian, born 1934", 
-  "CreditLine": "Monroe Wheeler Fund", 
+  "ArtistBio": "(Italian, born 1934)", 
+  "DateAcquired": "1997-05-28", 
+  "\ufeffTitle": "Lire", 
   "ObjectID": "13289"
 }

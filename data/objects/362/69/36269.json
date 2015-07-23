@@ -5,8 +5,7 @@
   "Artist": "Eug\u00e8ne Dodeigne", 
   "URL": "http://www.moma.org/collection/works/36269", 
   "CuratorApproved": "Y", 
-  "Title": "Tree", 
-  "DateAcquired": "1962-12-11", 
+  "CreditLine": "Gift of Mr. and Mrs. J.J. Klejman", 
   "Date": "(1962)", 
   "ArtistID": 1567, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "319.1962", 
-  "ArtistBio": "French, born 1923", 
-  "CreditLine": "Gift of Mr. and Mrs. J.J. Klejman", 
+  "ArtistBio": "(French, born 1923)", 
+  "DateAcquired": "1962-12-11", 
+  "\ufeffTitle": "Tree", 
   "ObjectID": "36269"
 }

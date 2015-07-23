@@ -5,8 +5,7 @@
   "Artist": "Juan Downey", 
   "URL": "http://www.moma.org/collection/works/64478", 
   "CuratorApproved": "Y", 
-  "Title": "Animal", 
-  "DateAcquired": "1967-04-11", 
+  "CreditLine": "Inter-American Fund", 
   "Date": "1963", 
   "ArtistID": 1606, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "211.1967", 
-  "ArtistBio": "Chilean, 1940\u20131993", 
-  "CreditLine": "Inter-American Fund", 
+  "ArtistBio": "(Chilean, 1940\u20131993)", 
+  "DateAcquired": "1967-04-11", 
+  "\ufeffTitle": "Animal", 
   "ObjectID": "64478"
 }

@@ -5,8 +5,7 @@
   "Artist": "Alfred Kubin", 
   "URL": "http://www.moma.org/collection/works/14220", 
   "CuratorApproved": "Y", 
-  "Title": "The Bride of Corinth", 
-  "DateAcquired": "1935-11-12", 
+  "CreditLine": "Abby Aldrich Rockefeller Fund", 
   "Date": "1932", 
   "ArtistID": 3276, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "245.1935", 
-  "ArtistBio": "Austrian, 1877\u20131959", 
-  "CreditLine": "Abby Aldrich Rockefeller Fund", 
+  "ArtistBio": "(Austrian, 1877\u20131959)", 
+  "DateAcquired": "1935-11-12", 
+  "\ufeffTitle": "The Bride of Corinth (Die Braut von Korinth)", 
   "ObjectID": "14220"
 }

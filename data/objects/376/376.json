@@ -5,8 +5,7 @@
   "Artist": "Zaha Hadid", 
   "URL": "http://www.moma.org/collection/works/376", 
   "CuratorApproved": "Y", 
-  "Title": "Parc de la Villette Project, Paris, France   Car Park", 
-  "DateAcquired": "1996-09-25", 
+  "CreditLine": "Gift of the architect in honor of Philip Johnson", 
   "Date": "1982-83", 
   "ArtistID": 6953, 
   "Keywords": [
@@ -20,7 +19,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "357.1996.2", 
-  "ArtistBio": "British, born Iraq 1950", 
-  "CreditLine": "Gift of the architect in honor of Philip Johnson", 
+  "ArtistBio": "(British, born Iraq 1950)", 
+  "DateAcquired": "1996-09-25", 
+  "\ufeffTitle": "Parc de la Villette Project, Paris, France , Car Park", 
   "ObjectID": "376"
 }

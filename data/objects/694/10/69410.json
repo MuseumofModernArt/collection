@@ -1,12 +1,11 @@
 {
   "Medium": "Woodcut and screenprint on six sheets", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "Jennifer Bartlett", 
   "URL": "http://www.moma.org/collection/works/69410", 
   "CuratorApproved": "Y", 
-  "Title": "At Sea, Japan", 
-  "DateAcquired": "1992-11-04", 
+  "CreditLine": "Gift of PaineWebber Inc.", 
   "Date": "1980", 
   "ArtistID": 357, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "456.1992.a-f", 
-  "ArtistBio": "American, born 1941", 
-  "CreditLine": "Gift of PaineWebber Inc.", 
+  "ArtistBio": "(American, born 1941)", 
+  "DateAcquired": "1992-11-04", 
+  "\ufeffTitle": "At Sea, Japan", 
   "ObjectID": "69410"
 }

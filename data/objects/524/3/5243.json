@@ -5,8 +5,7 @@
   "Artist": "C. H. Johansen", 
   "URL": "http://www.moma.org/collection/works/5243", 
   "CuratorApproved": "Y", 
-  "Title": "Visions", 
-  "DateAcquired": "1968-03-07", 
+  "CreditLine": "Gift of Joseph H. Heil", 
   "Date": "1967", 
   "ArtistID": 2918, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "145.1968", 
-  "ArtistBio": "American", 
-  "CreditLine": "Gift of Joseph H. Heil", 
+  "ArtistBio": "(American)", 
+  "DateAcquired": "1968-03-07", 
+  "\ufeffTitle": "Visions", 
   "ObjectID": "5243"
 }

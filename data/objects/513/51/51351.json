@@ -5,8 +5,7 @@
   "Artist": "Weegee (Arthur Fellig)", 
   "URL": "http://www.moma.org/collection/works/51351", 
   "CuratorApproved": "Y", 
-  "Title": "Thomas E. Dewey and Photographers", 
-  "DateAcquired": "1997-06-12", 
+  "CreditLine": "Mr. and Mrs. Clark Winter Fund", 
   "Date": "1942", 
   "ArtistID": 1842, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "344.1997", 
-  "ArtistBio": "American, born Austria. 1899\u20131968", 
-  "CreditLine": "Mr. and Mrs. Clark Winter Fund", 
+  "ArtistBio": "(American, born Austria. 1899\u20131968)", 
+  "DateAcquired": "1997-06-12", 
+  "\ufeffTitle": "Thomas E. Dewey and Photographers", 
   "ObjectID": "51351"
 }

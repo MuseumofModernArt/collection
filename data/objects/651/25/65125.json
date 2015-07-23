@@ -1,12 +1,11 @@
 {
   "Medium": "Portfolio of six screenprints", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "Benni Efrat", 
   "URL": "http://www.moma.org/collection/works/65125", 
   "CuratorApproved": "Y", 
-  "Title": "Scopes of Blue, Red, Yellow", 
-  "DateAcquired": "1974-04-23", 
+  "CreditLine": "Purchase", 
   "Date": "(1974)", 
   "ArtistID": 1687, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "245.1974.1-6", 
-  "ArtistBio": "Israeli", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(Israeli)", 
+  "DateAcquired": "1974-04-23", 
+  "\ufeffTitle": "Scopes of Blue, Red, Yellow", 
   "ObjectID": "65125"
 }

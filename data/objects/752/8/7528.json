@@ -5,8 +5,7 @@
   "Artist": "Ludwig Hohlwein", 
   "URL": "http://www.moma.org/collection/works/7528", 
   "CuratorApproved": "Y", 
-  "Title": "Hermann Scherrer Sporting and Ladies-Tailor, M\u00fcnchen, Neuhauserstr. 32", 
-  "DateAcquired": "1943-05-12", 
+  "CreditLine": "Gift of Peter M\u00fcller-Munk", 
   "Date": "1908", 
   "ArtistID": 2700, 
   "Keywords": [
@@ -20,7 +19,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "559.1943", 
-  "ArtistBio": "German, 1874\u20131949", 
-  "CreditLine": "Gift of Peter M\u00fcller-Munk", 
+  "ArtistBio": "(German, 1874\u20131949)", 
+  "DateAcquired": "1943-05-12", 
+  "\ufeffTitle": "Hermann Scherrer Sporting and Ladies-Tailor, M\u00fcnchen, Neuhauserstr. 32", 
   "ObjectID": "7528"
 }

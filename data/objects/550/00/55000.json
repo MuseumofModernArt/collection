@@ -5,8 +5,7 @@
   "Artist": "Helen Levitt", 
   "URL": "http://www.moma.org/collection/works/55000", 
   "CuratorApproved": "Y", 
-  "Title": "New York", 
-  "DateAcquired": "1961-01-10", 
+  "CreditLine": "Gift of Edward Steichen", 
   "Date": "1939", 
   "ArtistID": 3520, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "549.1960", 
-  "ArtistBio": "American, 1913\u20132009", 
-  "CreditLine": "Gift of Edward Steichen", 
+  "ArtistBio": "(American, 1913\u20132009)", 
+  "DateAcquired": "1961-01-10", 
+  "\ufeffTitle": "New York", 
   "ObjectID": "55000"
 }

@@ -5,8 +5,7 @@
   "Artist": "Max Beckmann", 
   "URL": "http://www.moma.org/collection/works/35752", 
   "CuratorApproved": "Y", 
-  "Title": "The Return of the Prodigal Son", 
-  "DateAcquired": "1939-04-13", 
+  "CreditLine": "Purchase", 
   "Date": "(c. 1918)", 
   "ArtistID": 429, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "265.1939", 
-  "ArtistBio": "German, 1884\u20131950", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(German, 1884\u20131950)", 
+  "DateAcquired": "1939-04-13", 
+  "\ufeffTitle": "The Return of the Prodigal Son (Die Heimkehr des Verlorenen Sohnes)", 
   "ObjectID": "35752"
 }

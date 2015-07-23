@@ -5,8 +5,7 @@
   "Artist": "Louis Soutter", 
   "URL": "http://www.moma.org/collection/works/37349", 
   "CuratorApproved": "Y", 
-  "Title": "Resurrection", 
-  "DateAcquired": "1939-12-08", 
+  "CreditLine": "Gift of the artist", 
   "Date": "(1939)", 
   "ArtistID": 5544, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "566.1939", 
-  "ArtistBio": "Swiss, 1871\u20131942", 
-  "CreditLine": "Gift of the artist", 
+  "ArtistBio": "(Swiss, 1871\u20131942)", 
+  "DateAcquired": "1939-12-08", 
+  "\ufeffTitle": "Resurrection", 
   "ObjectID": "37349"
 }

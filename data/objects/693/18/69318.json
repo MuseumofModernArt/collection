@@ -1,12 +1,11 @@
 {
   "Medium": "Drypoint", 
-  "Dimensions": "plate  9 1/4 x 6 7/8\" (23.5 x 17.5 cm)  irreg sheet  18 x 11 3/8\" (45 x 28.9 cm)", 
+  "Dimensions": "plate  9 1/4 x 6 7/8\" (23.5 x 17.5 cm)\r\nirreg sheet  18 x 11 3/8\" (45 x 28.9 cm)", 
   "Classification": "Print", 
   "Artist": "Christopher Richard Wynne Nevinson", 
   "URL": "http://www.moma.org/collection/works/69318", 
   "CuratorApproved": "Y", 
-  "Title": "Looking Through Brooklyn Bridge", 
-  "DateAcquired": "1977-11-10", 
+  "CreditLine": "Joanne M. Stern Fund", 
   "Date": "(1919-20)", 
   "ArtistID": 4279, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "449.1977", 
-  "ArtistBio": "British, 1889\u20131946", 
-  "CreditLine": "Joanne M. Stern Fund", 
+  "ArtistBio": "(British, 1889\u20131946)", 
+  "DateAcquired": "1977-11-10", 
+  "\ufeffTitle": "Looking Through Brooklyn Bridge", 
   "ObjectID": "69318"
 }

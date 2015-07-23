@@ -5,8 +5,7 @@
   "Artist": "Theodor Puschkarski", 
   "URL": "http://www.moma.org/collection/works/3981", 
   "CuratorApproved": "Y", 
-  "Title": "Klem Structure System", 
-  "DateAcquired": "1970-11-05", 
+  "CreditLine": "Gift of the designer", 
   "Date": "1965-66", 
   "ArtistID": 4759, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "475.1970.1-3", 
-  "ArtistBio": "Austrian, born 1946", 
-  "CreditLine": "Gift of the designer", 
+  "ArtistBio": "(Austrian, born 1946)", 
+  "DateAcquired": "1970-11-05", 
+  "\ufeffTitle": "Klem Structure System", 
   "ObjectID": "3981"
 }

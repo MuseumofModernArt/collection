@@ -5,8 +5,7 @@
   "Artist": "Jean Dubuffet", 
   "URL": "http://www.moma.org/collection/works/35848", 
   "CuratorApproved": "Y", 
-  "Title": "Six Characters, Landscape Background", 
-  "DateAcquired": "1968-04-23", 
+  "CreditLine": "Gift of Joan and Lester Avnet", 
   "Date": "1961", 
   "ArtistID": 1633, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "272.1968", 
-  "ArtistBio": "French, 1901\u20131985", 
-  "CreditLine": "Gift of Joan and Lester Avnet", 
+  "ArtistBio": "(French, 1901\u20131985)", 
+  "DateAcquired": "1968-04-23", 
+  "\ufeffTitle": "Six Characters, Landscape Background", 
   "ObjectID": "35848"
 }

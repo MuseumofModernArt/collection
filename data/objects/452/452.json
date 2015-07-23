@@ -5,8 +5,7 @@
   "Artist": "Chuck Hoberman", 
   "URL": "http://www.moma.org/collection/works/452", 
   "CuratorApproved": "Y", 
-  "Title": "Iris Dome Project  Interior perspective", 
-  "DateAcquired": "1994-09-21", 
+  "CreditLine": "Gift of the architect in honor of Lily Auchincloss", 
   "Date": "1994", 
   "ArtistID": 7418, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "380.1994", 
-  "ArtistBio": "American, born 1956", 
-  "CreditLine": "Gift of the architect in honor of Lily Auchincloss", 
+  "ArtistBio": "(American, born 1956)", 
+  "DateAcquired": "1994-09-21", 
+  "\ufeffTitle": "Iris Dome Project, Interior perspective", 
   "ObjectID": "452"
 }

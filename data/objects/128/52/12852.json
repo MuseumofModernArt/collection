@@ -5,8 +5,7 @@
   "Artist": "Pablo Picasso", 
   "URL": "http://www.moma.org/collection/works/12852", 
   "CuratorApproved": "Y", 
-  "Title": "Sculptor Before his Turn-Table, with a Bearded Spectator, plate IX (page 47) from Sable Mouvant", 
-  "DateAcquired": "1985-06-04", 
+  "CreditLine": "Abby Aldrich Rockefeller Fund", 
   "Date": "(Print executed 1964)", 
   "ArtistID": 4609, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "179.1985.9", 
-  "ArtistBio": "Spanish, 1881\u20131973", 
-  "CreditLine": "Abby Aldrich Rockefeller Fund", 
+  "ArtistBio": "(Spanish, 1881\u20131973)", 
+  "DateAcquired": "1985-06-04", 
+  "\ufeffTitle": "Sculptor Before his Turn-Table, with a Bearded Spectator from the illustrated book Sable Mouvant", 
   "ObjectID": "12852"
 }

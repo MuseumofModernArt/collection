@@ -5,8 +5,7 @@
   "Artist": "Roy Lichtenstein", 
   "URL": "http://www.moma.org/collection/works/59857", 
   "CuratorApproved": "Y", 
-  "Title": "Dr. Waldmann from Expressionist Woodcuts", 
-  "DateAcquired": "1987-01-15", 
+  "CreditLine": "Purchase", 
   "Date": "1980", 
   "ArtistID": 3542, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "11.1987.2", 
-  "ArtistBio": "American, 1923\u20131997", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, 1923\u20131997)", 
+  "DateAcquired": "1987-01-15", 
+  "\ufeffTitle": "Dr. Waldmann from Expressionist Woodcuts", 
   "ObjectID": "59857"
 }

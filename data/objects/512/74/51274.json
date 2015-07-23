@@ -5,8 +5,7 @@
   "Artist": "Weegee (Arthur Fellig)", 
   "URL": "http://www.moma.org/collection/works/51274", 
   "CuratorApproved": "Y", 
-  "Title": "The Critic", 
-  "DateAcquired": "1982-10-28", 
+  "CreditLine": "Anonymous gift", 
   "Date": "1943", 
   "ArtistID": 1842, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "341.1982", 
-  "ArtistBio": "American, born Austria. 1899\u20131968", 
-  "CreditLine": "Anonymous gift", 
+  "ArtistBio": "(American, born Austria. 1899\u20131968)", 
+  "DateAcquired": "1982-10-28", 
+  "\ufeffTitle": "The Critic", 
   "ObjectID": "51274"
 }

@@ -5,8 +5,7 @@
   "Artist": "Harry Callahan", 
   "URL": "http://www.moma.org/collection/works/52101", 
   "CuratorApproved": "Y", 
-  "Title": "Eleanor", 
-  "DateAcquired": "1997-10-09", 
+  "CreditLine": "Bequest of Grace M. Mayer", 
   "Date": "1948", 
   "ArtistID": 924, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "376.1997", 
-  "ArtistBio": "American, 1912\u20131999", 
-  "CreditLine": "Bequest of Grace M. Mayer", 
+  "ArtistBio": "(American, 1912\u20131999)", 
+  "DateAcquired": "1997-10-09", 
+  "\ufeffTitle": "Eleanor", 
   "ObjectID": "52101"
 }

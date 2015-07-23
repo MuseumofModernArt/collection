@@ -5,8 +5,7 @@
   "Artist": "Werner Aisslinger", 
   "URL": "http://www.moma.org/collection/works/3833", 
   "CuratorApproved": "Y", 
-  "Title": "Juli Armchair", 
-  "DateAcquired": "1997-10-17", 
+  "CreditLine": "Gift of the manufacturer", 
   "Date": "1996", 
   "ArtistID": 7935, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "454.1997", 
-  "ArtistBio": "German, born 1964", 
-  "CreditLine": "Gift of the manufacturer", 
+  "ArtistBio": "(German, born 1964)", 
+  "DateAcquired": "1997-10-17", 
+  "\ufeffTitle": "Juli Armchair", 
   "ObjectID": "3833"
 }

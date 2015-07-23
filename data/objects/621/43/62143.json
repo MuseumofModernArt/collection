@@ -5,8 +5,7 @@
   "Artist": "Mona Hatoum", 
   "URL": "http://www.moma.org/collection/works/62143", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled (grater)", 
-  "DateAcquired": "1997-03-06", 
+  "CreditLine": "Acquired through the generosity of Marian and James H. Cohen in memory of their son Michael Harrison Cohen", 
   "Date": "1996", 
   "ArtistID": 7447, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "118.1997", 
-  "ArtistBio": "British of Palestinian origin, born in Beirut, Lebanon 1952", 
-  "CreditLine": "Acquired through the generosity of Marian and James H. Cohen in memory of their son Michael Harrison Cohen", 
+  "ArtistBio": "(British of Palestinian origin, born in Beirut, Lebanon 1952)", 
+  "DateAcquired": "1997-03-06", 
+  "\ufeffTitle": "Untitled (grater)", 
   "ObjectID": "62143"
 }

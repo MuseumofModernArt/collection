@@ -5,8 +5,7 @@
   "Artist": "Charles Hagen", 
   "URL": "http://www.moma.org/collection/works/48287", 
   "CuratorApproved": "Y", 
-  "Title": "March 28, 1973", 
-  "DateAcquired": "1975-05-14", 
+  "CreditLine": "Purchase", 
   "Date": "1973", 
   "ArtistID": 2447, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "198.1975", 
-  "ArtistBio": "American, born 1942", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, born 1942)", 
+  "DateAcquired": "1975-05-14", 
+  "\ufeffTitle": "March 28, 1973", 
   "ObjectID": "48287"
 }

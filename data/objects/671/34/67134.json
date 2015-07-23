@@ -5,8 +5,7 @@
   "Artist": "Jasper Johns", 
   "URL": "http://www.moma.org/collection/works/67134", 
   "CuratorApproved": "Y", 
-  "Title": "Light Bulb", 
-  "DateAcquired": "1971-03-30", 
+  "CreditLine": "Gift of David Steinmetz", 
   "Date": "1969", 
   "ArtistID": 2923, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "334.1971", 
-  "ArtistBio": "American, born 1930", 
-  "CreditLine": "Gift of David Steinmetz", 
+  "ArtistBio": "(American, born 1930)", 
+  "DateAcquired": "1971-03-30", 
+  "\ufeffTitle": "Light Bulb", 
   "ObjectID": "67134"
 }

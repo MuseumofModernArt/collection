@@ -5,8 +5,7 @@
   "Artist": "Paul Klee", 
   "URL": "http://www.moma.org/collection/works/63780", 
   "CuratorApproved": "Y", 
-  "Title": "Buffoonery", 
-  "DateAcquired": "1957-10-09", 
+  "CreditLine": "Gift of M. Knoedler & Co., Inc.", 
   "Date": "1922", 
   "ArtistID": 3130, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "179.1957", 
-  "ArtistBio": "German, born Switzerland. 1879\u20131940", 
-  "CreditLine": "Gift of M. Knoedler & Co., Inc.", 
+  "ArtistBio": "(German, born Switzerland. 1879\u20131940)", 
+  "DateAcquired": "1957-10-09", 
+  "\ufeffTitle": "Buffoonery (Narretei)", 
   "ObjectID": "63780"
 }

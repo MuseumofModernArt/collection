@@ -5,8 +5,7 @@
   "Artist": "Charles Sheeler", 
   "URL": "http://www.moma.org/collection/works/52698", 
   "CuratorApproved": "Y", 
-  "Title": "Cactus and Photographer's Lamp, New York", 
-  "DateAcquired": "1942-12-29", 
+  "CreditLine": "Gift of Samuel M. Kootz", 
   "Date": "1931", 
   "ArtistID": 5383, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "404.1942", 
-  "ArtistBio": "American, 1883\u20131965", 
-  "CreditLine": "Gift of Samuel M. Kootz", 
+  "ArtistBio": "(American, 1883\u20131965)", 
+  "DateAcquired": "1942-12-29", 
+  "\ufeffTitle": "Cactus and Photographer's Lamp, New York", 
   "ObjectID": "52698"
 }

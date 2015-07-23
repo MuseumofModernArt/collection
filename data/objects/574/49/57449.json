@@ -5,8 +5,7 @@
   "Artist": "Lee Friedlander", 
   "URL": "http://www.moma.org/collection/works/57449", 
   "CuratorApproved": "Y", 
-  "Title": "Wooden Joe Nicholas. New Orleans, Louisiana", 
-  "DateAcquired": "2000-10-12", 
+  "CreditLine": "Purchase", 
   "Date": "1957", 
   "ArtistID": 2002, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "997.2000", 
-  "ArtistBio": "American, born 1934", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, born 1934)", 
+  "DateAcquired": "2000-10-12", 
+  "\ufeffTitle": "Wooden Joe Nicholas. New Orleans, Louisiana", 
   "ObjectID": "57449"
 }

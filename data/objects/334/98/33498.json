@@ -5,8 +5,7 @@
   "Artist": "Oscar Dom\u00ednguez", 
   "URL": "http://www.moma.org/collection/works/33498", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1978-04-04", 
+  "CreditLine": "The Joan and Lester Avnet Collection", 
   "Date": "(1937)", 
   "ArtistID": 1579, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "46.1978", 
-  "ArtistBio": "French, born Spain. 1906\u20131957", 
-  "CreditLine": "The Joan and Lester Avnet Collection", 
+  "ArtistBio": "(French, born Spain. 1906\u20131957)", 
+  "DateAcquired": "1978-04-04", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "33498"
 }

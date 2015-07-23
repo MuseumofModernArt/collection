@@ -1,12 +1,11 @@
 {
-  "Medium": "Drypoint    Transfer lithograph, printed in black", 
+  "Medium": "Drypoint\r\n\r\nTransfer lithograph, printed in black", 
   "Dimensions": "composition: 12 x 6 7/16\" (30.5 x 16.4 cm)", 
   "Classification": "Print", 
   "Artist": "Marie Laurencin", 
   "URL": "http://www.moma.org/collection/works/68037", 
   "CuratorApproved": "Y", 
-  "Title": "Portrait of Baroness Gourgaud", 
-  "DateAcquired": "1940-04-05", 
+  "CreditLine": "Gift of Abby Aldrich Rockefeller", 
   "Date": "1920", 
   "ArtistID": 3408, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "376.1940", 
-  "ArtistBio": "French, 1883\u20131956", 
-  "CreditLine": "Gift of Abby Aldrich Rockefeller", 
+  "ArtistBio": "(French, 1883\u20131956)", 
+  "DateAcquired": "1940-04-05", 
+  "\ufeffTitle": "Portrait of Baroness Gourgaud", 
   "ObjectID": "68037"
 }

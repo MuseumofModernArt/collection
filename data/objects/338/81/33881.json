@@ -1,12 +1,11 @@
 {
   "Medium": "Ink, colored ink, and oil on newspaper", 
-  "Dimensions": "8 1/8 x 7\" (20.7 x 17.8 cm)  ", 
+  "Dimensions": "8 1/8 x 7\" (20.7 x 17.8 cm)\r\n", 
   "Classification": "Drawing", 
   "Artist": "Jean Dubuffet", 
   "URL": "http://www.moma.org/collection/works/33881", 
   "CuratorApproved": "Y", 
-  "Title": "Message \"The Key is Under the Shutter...\" (Message \"La Clef est sous le volet...\")", 
-  "DateAcquired": "1974-02-12", 
+  "CreditLine": "Gift of Mary Callery", 
   "Date": "(1944)", 
   "ArtistID": 1633, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "96.1974", 
-  "ArtistBio": "French, 1901\u20131985", 
-  "CreditLine": "Gift of Mary Callery", 
+  "ArtistBio": "(French, 1901\u20131985)", 
+  "DateAcquired": "1974-02-12", 
+  "\ufeffTitle": "Message: \"The Key is Under the Shutter\" (Message: \"La Clef est sous le volet\")", 
   "ObjectID": "33881"
 }

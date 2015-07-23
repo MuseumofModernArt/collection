@@ -1,12 +1,11 @@
 {
   "Medium": "Series of six aquatint and etchings", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "Tadaaki Kuwayama", 
   "URL": "http://www.moma.org/collection/works/69700", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled (Group II)", 
-  "DateAcquired": "1992-11-04", 
+  "CreditLine": "Gift of Carole Littlefield", 
   "Date": "(1991)", 
   "ArtistID": 6907, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "471.1992.1-6", 
-  "ArtistBio": "Japanese, born 1932", 
-  "CreditLine": "Gift of Carole Littlefield", 
+  "ArtistBio": "(Japanese, born 1932)", 
+  "DateAcquired": "1992-11-04", 
+  "\ufeffTitle": "Untitled (Group II)", 
   "ObjectID": "69700"
 }

@@ -5,8 +5,7 @@
   "Artist": "L\u00e9on H. Tutundjian", 
   "URL": "http://www.moma.org/collection/works/38587", 
   "CuratorApproved": "Y", 
-  "Title": "Composition", 
-  "DateAcquired": "1968-10-10", 
+  "CreditLine": "John S. Newberry Fund", 
   "Date": "1926", 
   "ArtistID": 5984, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "1338.1968", 
-  "ArtistBio": "Russian, 1905\u20131968", 
-  "CreditLine": "John S. Newberry Fund", 
+  "ArtistBio": "(Russian, 1905\u20131968)", 
+  "DateAcquired": "1968-10-10", 
+  "\ufeffTitle": "Composition", 
   "ObjectID": "38587"
 }

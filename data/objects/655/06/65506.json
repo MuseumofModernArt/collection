@@ -5,8 +5,7 @@
   "Artist": "Vija Celmins", 
   "URL": "http://www.moma.org/collection/works/65506", 
   "CuratorApproved": "Y", 
-  "Title": "Ocean Surface Woodcut 1992", 
-  "DateAcquired": "1992-05-20", 
+  "CreditLine": "Johanna and Leslie J. Garfield Fund", 
   "Date": "1992", 
   "ArtistID": 1048, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "262.1992", 
-  "ArtistBio": "American, born Latvia 1938", 
-  "CreditLine": "Johanna and Leslie J. Garfield Fund", 
+  "ArtistBio": "(American, born Latvia 1938)", 
+  "DateAcquired": "1992-05-20", 
+  "\ufeffTitle": "Ocean Surface Woodcut 1992", 
   "ObjectID": "65506"
 }

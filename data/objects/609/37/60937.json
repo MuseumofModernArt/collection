@@ -1,12 +1,11 @@
 {
   "Medium": "Journal with three special edition projects", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
-  "Artist": "Various Artists", 
+  "Artist": "Various Artists, Christian Marclay, Hans Danuser, Rirkrit Tiravanija, Andreas Gursky, Vija Celmins", 
   "URL": "", 
-  "CuratorApproved": "Y", 
-  "Title": "Parkett no. 44", 
-  "DateAcquired": "1998-03-05", 
+  "CuratorApproved": "N", 
+  "CreditLine": "Riva Castleman Endowment Fund, Lily Auchincloss Fund, and Gift of Parkett", 
   "Date": "1995", 
   "ArtistID": 6104, 
   "Keywords": [
@@ -20,7 +19,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "50.1998.1-2", 
-  "ArtistBio": "Various", 
-  "CreditLine": "Riva Castleman Endowment Fund, Lily Auchincloss Fund, and Gift of Parkett", 
+  "ArtistBio": "(Various) (American and Swiss, born 1955) (Thai, born Argentina 1961) (German, born 1955) (American, born Latvia 1938)", 
+  "DateAcquired": "1998-03-05", 
+  "\ufeffTitle": "Parkett no. 44", 
   "ObjectID": "60937"
 }

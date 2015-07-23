@@ -5,8 +5,7 @@
   "Artist": "William Wegman", 
   "URL": "http://www.moma.org/collection/works/48956", 
   "CuratorApproved": "Y", 
-  "Title": "Foamy Aftershave (L-Foamy; R-Aftershave)", 
-  "DateAcquired": "1994-03-10", 
+  "CreditLine": "Gift of Robert and Gayle Greenhill", 
   "Date": "1982", 
   "ArtistID": 6281, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "222.1994", 
-  "ArtistBio": "American, born 1943", 
-  "CreditLine": "Gift of Robert and Gayle Greenhill", 
+  "ArtistBio": "(American, born 1943)", 
+  "DateAcquired": "1994-03-10", 
+  "\ufeffTitle": "Foamy Aftershave (L-Foamy; R-Aftershave)", 
   "ObjectID": "48956"
 }

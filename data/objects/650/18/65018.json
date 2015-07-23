@@ -1,12 +1,11 @@
 {
   "Medium": "Photolithograph", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "Sigmar Polke", 
   "URL": "http://www.moma.org/collection/works/65018", 
   "CuratorApproved": "Y", 
-  "Title": "Hands (The Mediation between Above and Below) (H\u00e4nde (Die Vermittlung zwischen dem Oberen und dem Unteren)", 
-  "DateAcquired": "1997-05-28", 
+  "CreditLine": "Johanna and Leslie Garfield Fund", 
   "Date": "1973", 
   "ArtistID": 4671, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "239.1997", 
-  "ArtistBio": "German, 1941\u20132010", 
-  "CreditLine": "Johanna and Leslie Garfield Fund", 
+  "ArtistBio": "(German, 1941\u20132010)", 
+  "DateAcquired": "1997-05-28", 
+  "\ufeffTitle": "Hands (The Mediation between Above and Below) (H\u00e4nde (Die Vermittlung zwischen dem Oberen und dem Unteren)", 
   "ObjectID": "65018"
 }

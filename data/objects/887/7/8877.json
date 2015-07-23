@@ -5,8 +5,7 @@
   "Artist": "Marcello Nizzoli", 
   "URL": "http://www.moma.org/collection/works/8877", 
   "CuratorApproved": "Y", 
-  "Title": "Olivetti Lettera 22", 
-  "DateAcquired": "2000-12-11", 
+  "CreditLine": "Gift of Olivetti, S.p.A", 
   "Date": "1951", 
   "ArtistID": 4316, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "1574.2000", 
-  "ArtistBio": "Italian, 1887\u20131969", 
-  "CreditLine": "Gift of Olivetti, S.p.A", 
+  "ArtistBio": "(Italian, 1887\u20131969)", 
+  "DateAcquired": "2000-12-11", 
+  "\ufeffTitle": "Olivetti Lettera 22", 
   "ObjectID": "8877"
 }

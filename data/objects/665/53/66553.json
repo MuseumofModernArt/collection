@@ -1,12 +1,11 @@
 {
   "Medium": "Screenprint", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "Claude Viallat", 
   "URL": "http://www.moma.org/collection/works/66553", 
   "CuratorApproved": "Y", 
-  "Title": "Tondo", 
-  "DateAcquired": "1994-05-26", 
+  "CreditLine": "Gift of the Estate of Dorothy Varian (by exchange)", 
   "Date": "(1994)", 
   "ArtistID": 6145, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "306.1994", 
-  "ArtistBio": "French, born 1936", 
-  "CreditLine": "Gift of the Estate of Dorothy Varian (by exchange)", 
+  "ArtistBio": "(French, born 1936)", 
+  "DateAcquired": "1994-05-26", 
+  "\ufeffTitle": "Tondo", 
   "ObjectID": "66553"
 }

@@ -5,8 +5,7 @@
   "Artist": "Alexis Gritchenko", 
   "URL": "http://www.moma.org/collection/works/35449", 
   "CuratorApproved": "Y", 
-  "Title": "Saltimbanques Turcs", 
-  "DateAcquired": "1968-04-23", 
+  "CreditLine": "Given anonymously", 
   "Date": "(1920)", 
   "ArtistID": 2352, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "235.1968", 
-  "ArtistBio": "Russian, 1883\u20131977", 
-  "CreditLine": "Given anonymously", 
+  "ArtistBio": "(Russian, 1883\u20131977)", 
+  "DateAcquired": "1968-04-23", 
+  "\ufeffTitle": "Saltimbanques Turcs", 
   "ObjectID": "35449"
 }

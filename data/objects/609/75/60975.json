@@ -1,12 +1,11 @@
 {
   "Medium": "Etching", 
-  "Dimensions": "plate  6 7/8 x 8 7/8\" (17.5 x 22.6 cm)  sheet  10 1/8 x 12 1/8\" (25 x 30.8 cm)", 
+  "Dimensions": "plate  6 7/8 x 8 7/8\" (17.5 x 22.6 cm)\r\nsheet  10 1/8 x 12 1/8\" (25 x 30.8 cm)", 
   "Classification": "Print", 
   "Artist": "David Smith", 
   "URL": "http://www.moma.org/collection/works/60975", 
   "CuratorApproved": "Y", 
-  "Title": "Women in War", 
-  "DateAcquired": "1995-01-24", 
+  "CreditLine": "Curt Valentin Bequest (by exchange)", 
   "Date": "1941", 
   "ArtistID": 5480, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "52.1995", 
-  "ArtistBio": "American, 1906\u20131965", 
-  "CreditLine": "Curt Valentin Bequest (by exchange)", 
+  "ArtistBio": "(American, 1906\u20131965)", 
+  "DateAcquired": "1995-01-24", 
+  "\ufeffTitle": "Women in War", 
   "ObjectID": "60975"
 }

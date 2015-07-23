@@ -5,8 +5,7 @@
   "Artist": "Walter De Maria", 
   "URL": "http://www.moma.org/collection/works/69471", 
   "CuratorApproved": "Y", 
-  "Title": "Chicago Project from S.M.S. No. 1, February 1968", 
-  "DateAcquired": "1977-11-10", 
+  "CreditLine": "Gift of Carol O. Selle", 
   "Date": "1968", 
   "ArtistID": 1433, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "460.1977.1d", 
-  "ArtistBio": "American, 1935\u20132013", 
-  "CreditLine": "Gift of Carol O. Selle", 
+  "ArtistBio": "(American, 1935\u20132013)", 
+  "DateAcquired": "1977-11-10", 
+  "\ufeffTitle": "Chicago Project from S.M.S. No. 1", 
   "ObjectID": "69471"
 }

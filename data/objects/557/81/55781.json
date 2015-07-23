@@ -5,8 +5,7 @@
   "Artist": "Laura Gilpin", 
   "URL": "http://www.moma.org/collection/works/55781", 
   "CuratorApproved": "Y", 
-  "Title": "Ghost Rock", 
-  "DateAcquired": "1977-12-15", 
+  "CreditLine": "Acquired with matching funds from Blanchette Hooker Rockefeller and the National Endowment for the Arts", 
   "Date": "1919", 
   "ArtistID": 2163, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "642.1977", 
-  "ArtistBio": "American, 1881\u20131979", 
-  "CreditLine": "Acquired with matching funds from Blanchette Hooker Rockefeller and the National Endowment for the Arts", 
+  "ArtistBio": "(American, 1881\u20131979)", 
+  "DateAcquired": "1977-12-15", 
+  "\ufeffTitle": "Ghost Rock", 
   "ObjectID": "55781"
 }

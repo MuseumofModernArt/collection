@@ -5,8 +5,7 @@
   "Artist": "William Bradley", 
   "URL": "http://www.moma.org/collection/works/4837", 
   "CuratorApproved": "Y", 
-  "Title": "The Echo, Chicago's Humorous and Artistic Fortnightly", 
-  "DateAcquired": "1960-04-06", 
+  "CreditLine": "Acquired by exchange", 
   "Date": "c. 1895", 
   "ArtistID": 732, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "44.1960", 
-  "ArtistBio": "American, 1868\u20131962", 
-  "CreditLine": "Acquired by exchange", 
+  "ArtistBio": "(American, 1868\u20131962)", 
+  "DateAcquired": "1960-04-06", 
+  "\ufeffTitle": "The Echo, Chicago's Humorous and Artistic Fortnightly", 
   "ObjectID": "4837"
 }

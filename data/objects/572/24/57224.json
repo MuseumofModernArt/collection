@@ -5,8 +5,7 @@
   "Artist": "Cindy Sherman", 
   "URL": "http://www.moma.org/collection/works/57224", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled Film Still #81", 
-  "DateAcquired": "1995-12-14", 
+  "CreditLine": "Grace M. Mayer Fund", 
   "Date": "1980", 
   "ArtistID": 5392, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "875.1995", 
-  "ArtistBio": "American, born 1954", 
-  "CreditLine": "Grace M. Mayer Fund", 
+  "ArtistBio": "(American, born 1954)", 
+  "DateAcquired": "1995-12-14", 
+  "\ufeffTitle": "Untitled Film Still #81", 
   "ObjectID": "57224"
 }

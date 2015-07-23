@@ -5,8 +5,7 @@
   "Artist": "Linda Lindroth", 
   "URL": "http://www.moma.org/collection/works/58105", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1974-12-04", 
+  "CreditLine": "Gift of the photographer", 
   "Date": "1974", 
   "ArtistID": 3560, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "1342.1974", 
-  "ArtistBio": "American, born 1946", 
-  "CreditLine": "Gift of the photographer", 
+  "ArtistBio": "(American, born 1946)", 
+  "DateAcquired": "1974-12-04", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "58105"
 }

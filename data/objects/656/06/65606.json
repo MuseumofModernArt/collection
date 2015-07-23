@@ -1,12 +1,11 @@
 {
   "Medium": "Etching", 
-  "Dimensions": "Plate: 12 1/16 x 15 11/16\" (30.6 x 39.8 cm)  Sheet: 13 3/4 x 17 3/8\" (35 x 44.1 cm)", 
+  "Dimensions": "Plate: 12 1/16 x 15 11/16\" (30.6 x 39.8 cm)\r\nSheet: 13 3/4 x 17 3/8\" (35 x 44.1 cm)", 
   "Classification": "Print", 
   "Artist": "Ernst Ludwig Kirchner", 
   "URL": "http://www.moma.org/collection/works/65606", 
   "CuratorApproved": "Y", 
-  "Title": "The Blue House in the Potholder District", 
-  "DateAcquired": "1952-11-07", 
+  "CreditLine": "Larry Aldrich Fund", 
   "Date": "(1909)", 
   "ArtistID": 3115, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "267.1952", 
-  "ArtistBio": "German, 1880\u20131938", 
-  "CreditLine": "Larry Aldrich Fund", 
+  "ArtistBio": "(German, 1880\u20131938)", 
+  "DateAcquired": "1952-11-07", 
+  "\ufeffTitle": "The Blue House in the Potholder District (Das Blaue Haus im Topflappenviertel)", 
   "ObjectID": "65606"
 }

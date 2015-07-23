@@ -5,8 +5,7 @@
   "Artist": "Diego Rivera", 
   "URL": "http://www.moma.org/collection/works/35246", 
   "CuratorApproved": "Y", 
-  "Title": "Two Figures", 
-  "DateAcquired": "1940-04-05", 
+  "CreditLine": "Given anonymously", 
   "Date": "(c. 1925)", 
   "ArtistID": 4942, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "200.1940", 
-  "ArtistBio": "Mexican, 1886\u20131957", 
-  "CreditLine": "Given anonymously", 
+  "ArtistBio": "(Mexican, 1886\u20131957)", 
+  "DateAcquired": "1940-04-05", 
+  "\ufeffTitle": "Two Figures", 
   "ObjectID": "35246"
 }

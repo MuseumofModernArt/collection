@@ -5,8 +5,7 @@
   "Artist": "Gertrude K\u00e4sebier", 
   "URL": "http://www.moma.org/collection/works/52763", 
   "CuratorApproved": "Y", 
-  "Title": "Baron Adolf de Meyer", 
-  "DateAcquired": "1980-03-13", 
+  "CreditLine": "Gift of Miss Mina Turner", 
   "Date": "1903", 
   "ArtistID": 3008, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "407.1980", 
-  "ArtistBio": "American, 1852\u20131934", 
-  "CreditLine": "Gift of Miss Mina Turner", 
+  "ArtistBio": "(American, 1852\u20131934)", 
+  "DateAcquired": "1980-03-13", 
+  "\ufeffTitle": "Baron Adolf de Meyer", 
   "ObjectID": "52763"
 }

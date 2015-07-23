@@ -5,8 +5,7 @@
   "Artist": "William Brui", 
   "URL": "http://www.moma.org/collection/works/17209", 
   "CuratorApproved": "Y", 
-  "Title": "Ex Adverso", 
-  "DateAcquired": "1973-10-24", 
+  "CreditLine": "Gift of George and Janet Jaffin Foundation", 
   "Date": "1969.  (Prints executed 1967-1969).", 
   "ArtistID": 826, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "437.1973.1-24", 
-  "ArtistBio": "Israeli, born 1946", 
-  "CreditLine": "Gift of George and Janet Jaffin Foundation", 
+  "ArtistBio": "(Israeli, born 1946)", 
+  "DateAcquired": "1973-10-24", 
+  "\ufeffTitle": "Ex Adverso", 
   "ObjectID": "17209"
 }

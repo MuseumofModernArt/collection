@@ -5,8 +5,7 @@
   "Artist": "Saara Hopea", 
   "URL": "http://www.moma.org/collection/works/3098", 
   "CuratorApproved": "Y", 
-  "Title": "Container", 
-  "DateAcquired": "1958-12-04", 
+  "CreditLine": "Phyllis B. Lambert Fund", 
   "Date": "1954", 
   "ArtistID": 2724, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "258.1958.a-b", 
-  "ArtistBio": "Finnish, 1925\u20131984", 
-  "CreditLine": "Phyllis B. Lambert Fund", 
+  "ArtistBio": "(Finnish, 1925\u20131984)", 
+  "DateAcquired": "1958-12-04", 
+  "\ufeffTitle": "Container", 
   "ObjectID": "3098"
 }

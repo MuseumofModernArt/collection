@@ -5,8 +5,7 @@
   "Artist": "Jacques Villon", 
   "URL": "http://www.moma.org/collection/works/65563", 
   "CuratorApproved": "Y", 
-  "Title": "Woman with Jar, after Fernand L\u00e9ger", 
-  "DateAcquired": "1935-11-12", 
+  "CreditLine": "Purchase", 
   "Date": "1928", 
   "ArtistID": 6165, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "266.1935", 
-  "ArtistBio": "French, 1875\u20131963", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(French, 1875\u20131963)", 
+  "DateAcquired": "1935-11-12", 
+  "\ufeffTitle": "Woman with Jar, after Fernand L\u00e9ger", 
   "ObjectID": "65563"
 }

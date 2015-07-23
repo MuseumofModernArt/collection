@@ -5,8 +5,7 @@
   "Artist": "Thelma Johnson Streat", 
   "URL": "http://www.moma.org/collection/works/35320", 
   "CuratorApproved": "Y", 
-  "Title": "Rabbit Man", 
-  "DateAcquired": "1942-05-07", 
+  "CreditLine": "Purchase", 
   "Date": "1941", 
   "ArtistID": 5689, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "216.1942", 
-  "ArtistBio": "American, 1911\u20131959", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, 1911\u20131959)", 
+  "DateAcquired": "1942-05-07", 
+  "\ufeffTitle": "Rabbit Man", 
   "ObjectID": "35320"
 }

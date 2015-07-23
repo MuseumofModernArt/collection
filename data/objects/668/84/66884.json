@@ -1,12 +1,11 @@
 {
   "Medium": "Woodcut", 
-  "Dimensions": "irreg. composition  10 15/16 x 9 3/4\" (27.9 x 24.8 cm)  sheet  21 3/8 x 17 13/16\" (54 x 45.2 cm)", 
+  "Dimensions": "irreg. composition  10 15/16 x 9 3/4\" (27.9 x 24.8 cm)\r\nsheet  21 3/8 x 17 13/16\" (54 x 45.2 cm)", 
   "Classification": "Print", 
   "Artist": "Lester F. Johnson", 
   "URL": "http://www.moma.org/collection/works/66884", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled from the portfolio Man in Woodcut, 1953-1957", 
-  "DateAcquired": "1986-10-15", 
+  "CreditLine": "Given anonymously in memory of Chip Elwell", 
   "Date": "1957-85", 
   "ArtistID": 2926, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "320.1986", 
-  "ArtistBio": "American, 1919\u20132010", 
-  "CreditLine": "Given anonymously in memory of Chip Elwell", 
+  "ArtistBio": "(American, 1919\u20132010)", 
+  "DateAcquired": "1986-10-15", 
+  "\ufeffTitle": "Untitled from the portfolio Man in Woodcut, 1953-1957", 
   "ObjectID": "66884"
 }

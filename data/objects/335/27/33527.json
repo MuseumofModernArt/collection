@@ -5,8 +5,7 @@
   "Artist": "Charles Demuth", 
   "URL": "http://www.moma.org/collection/works/33527", 
   "CuratorApproved": "Y", 
-  "Title": "Acrobats", 
-  "DateAcquired": "1935-06-13", 
+  "CreditLine": "Gift of Abby Aldrich Rockefeller", 
   "Date": "1919", 
   "ArtistID": 1490, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "51.1935", 
-  "ArtistBio": "American, 1883\u20131935", 
-  "CreditLine": "Gift of Abby Aldrich Rockefeller", 
+  "ArtistBio": "(American, 1883\u20131935)", 
+  "DateAcquired": "1935-06-13", 
+  "\ufeffTitle": "Acrobats", 
   "ObjectID": "33527"
 }

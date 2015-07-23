@@ -5,8 +5,7 @@
   "Artist": "Willi Baumeister", 
   "URL": "http://www.moma.org/collection/works/32962", 
   "CuratorApproved": "Y", 
-  "Title": "Tennis Player", 
-  "DateAcquired": "1951-01-30", 
+  "CreditLine": "Gift of Mrs. Vahan Hagopian", 
   "Date": "1932", 
   "ArtistID": 392, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "1.1951", 
-  "ArtistBio": "German, 1889\u20131955", 
-  "CreditLine": "Gift of Mrs. Vahan Hagopian", 
+  "ArtistBio": "(German, 1889\u20131955)", 
+  "DateAcquired": "1951-01-30", 
+  "\ufeffTitle": "Tennis Player", 
   "ObjectID": "32962"
 }

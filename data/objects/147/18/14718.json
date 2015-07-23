@@ -5,8 +5,7 @@
   "Artist": "Robert Rauschenberg", 
   "URL": "http://www.moma.org/collection/works/14718", 
   "CuratorApproved": "Y", 
-  "Title": "Shades", 
-  "DateAcquired": "1964-04-14", 
+  "CreditLine": "Gift of the Celeste and Armand Bartos Foundation", 
   "Date": "1964", 
   "ArtistID": 4823, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "291.1964.1-6", 
-  "ArtistBio": "American, 1925\u20132008", 
-  "CreditLine": "Gift of the Celeste and Armand Bartos Foundation", 
+  "ArtistBio": "(American, 1925\u20132008)", 
+  "DateAcquired": "1964-04-14", 
+  "\ufeffTitle": "Shades", 
   "ObjectID": "14718"
 }

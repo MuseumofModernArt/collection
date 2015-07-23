@@ -5,8 +5,7 @@
   "Artist": "Harry Callahan", 
   "URL": "http://www.moma.org/collection/works/47191", 
   "CuratorApproved": "Y", 
-  "Title": "Eleanor and Barbara", 
-  "DateAcquired": "1974-04-02", 
+  "CreditLine": "Gift of Edward Steichen", 
   "Date": "c. 1954", 
   "ArtistID": 924, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "168.1974", 
-  "ArtistBio": "American, 1912\u20131999", 
-  "CreditLine": "Gift of Edward Steichen", 
+  "ArtistBio": "(American, 1912\u20131999)", 
+  "DateAcquired": "1974-04-02", 
+  "\ufeffTitle": "Eleanor and Barbara", 
   "ObjectID": "47191"
 }

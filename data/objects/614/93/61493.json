@@ -5,8 +5,7 @@
   "Artist": "Jacques Villon", 
   "URL": "http://www.moma.org/collection/works/61493", 
   "CuratorApproved": "Y", 
-  "Title": "The Women of Thrace", 
-  "DateAcquired": "1957-05-15", 
+  "CreditLine": "Gift of the Curt Valentin Estate (by exchange)", 
   "Date": "(1907)", 
   "ArtistID": 6165, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "79.1957", 
-  "ArtistBio": "French, 1875\u20131963", 
-  "CreditLine": "Gift of the Curt Valentin Estate (by exchange)", 
+  "ArtistBio": "(French, 1875\u20131963)", 
+  "DateAcquired": "1957-05-15", 
+  "\ufeffTitle": "The Women of Thrace", 
   "ObjectID": "61493"
 }

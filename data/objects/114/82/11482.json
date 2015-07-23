@@ -1,12 +1,11 @@
 {
   "Medium": "Illustrated book with one photogravure reproduction", 
-  "Dimensions": "irreg. composition  7 1/16 x 4 5/8\" (18 x 11.8 cm)  irreg. page  8 3/16 x 6 1/2\" (20 x 16.5 cm)", 
+  "Dimensions": "irreg. composition  7 1/16 x 4 5/8\" (18 x 11.8 cm)\r\nirreg. page  8 3/16 x 6 1/2\" (20 x 16.5 cm)", 
   "Classification": "Illustrated Book", 
   "Artist": "Constantin Brancusi", 
   "URL": "http://www.moma.org/collection/works/11482", 
   "CuratorApproved": "Y", 
-  "Title": "Tales Told of Shem and Shaun: Three Fragments from Work in Progress", 
-  "DateAcquired": "1991-05-22", 
+  "CreditLine": "Mary Ellen Meehan Fund", 
   "Date": "1929", 
   "ArtistID": 738, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "131.1991", 
-  "ArtistBio": "French, born Romania. 1876\u20131957", 
-  "CreditLine": "Mary Ellen Meehan Fund", 
+  "ArtistBio": "(French, born Romania. 1876\u20131957)", 
+  "DateAcquired": "1991-05-22", 
+  "\ufeffTitle": "Tales Told of Shem and Shaun: Three Fragments from Work in Progress", 
   "ObjectID": "11482"
 }

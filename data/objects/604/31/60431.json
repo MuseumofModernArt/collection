@@ -1,12 +1,11 @@
 {
   "Medium": "Aquatint and photoetching", 
-  "Dimensions": "plate  9 1/16 x 7 15/16\" (23 x 20.1 cm)  sheet  25 1/16 x 17 15/16\" (63 x 45.5 cm)", 
+  "Dimensions": "plate  9 1/16 x 7 15/16\" (23 x 20.1 cm)\r\nsheet  25 1/16 x 17 15/16\" (63 x 45.5 cm)", 
   "Classification": "Print", 
   "Artist": "Kn Thurlbeck", 
   "URL": "http://www.moma.org/collection/works/60431", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1985-01-30", 
+  "CreditLine": "Dorothy Braude Edinburg Fund", 
   "Date": "1984", 
   "ArtistID": 5870, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "28.1985", 
-  "ArtistBio": "American, born 1947", 
-  "CreditLine": "Dorothy Braude Edinburg Fund", 
+  "ArtistBio": "(American, born 1947)", 
+  "DateAcquired": "1985-01-30", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "60431"
 }

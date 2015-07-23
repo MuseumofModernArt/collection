@@ -1,12 +1,11 @@
 {
   "Medium": "Mezzotint", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "Yozo Hamaguchi", 
   "URL": "http://www.moma.org/collection/works/69625", 
   "CuratorApproved": "Y", 
-  "Title": "Green Field", 
-  "DateAcquired": "1992-11-04", 
+  "CreditLine": "Gift of David Gu\u00e7", 
   "Date": "(1985-92)", 
   "ArtistID": 2472, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "465.1992", 
-  "ArtistBio": "Japanese, 1909\u20132000", 
-  "CreditLine": "Gift of David Gu\u00e7", 
+  "ArtistBio": "(Japanese, 1909\u20132000)", 
+  "DateAcquired": "1992-11-04", 
+  "\ufeffTitle": "Green Field", 
   "ObjectID": "69625"
 }

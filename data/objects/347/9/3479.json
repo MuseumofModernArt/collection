@@ -1,12 +1,11 @@
 {
   "Medium": "Glass", 
-  "Dimensions": ".1: 1 x 3 5/8\" (2.6 x 9.2 cm)  .2: 1 1/8 x 3 5/8\" (2.9 x 9.2 cm)", 
+  "Dimensions": ".1: 1 x 3 5/8\" (2.6 x 9.2 cm)\r\n.2: 1 1/8 x 3 5/8\" (2.9 x 9.2 cm)", 
   "Classification": "A&D Design", 
   "Artist": "Paolo Venini", 
   "URL": "http://www.moma.org/collection/works/3479", 
   "CuratorApproved": "Y", 
-  "Title": "Ashtrays", 
-  "DateAcquired": "1938-11-01", 
+  "CreditLine": "Gift of Lenart Import, Ltd.", 
   "Date": "c. 1928-38", 
   "ArtistID": 6129, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "406.1938.1-2", 
-  "ArtistBio": "Italian, 1895\u20131959", 
-  "CreditLine": "Gift of Lenart Import, Ltd.", 
+  "ArtistBio": "(Italian, 1895\u20131959)", 
+  "DateAcquired": "1938-11-01", 
+  "\ufeffTitle": "Ashtrays", 
   "ObjectID": "3479"
 }

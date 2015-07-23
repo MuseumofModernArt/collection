@@ -5,8 +5,7 @@
   "Artist": "Alex J. Rota/The New York Times", 
   "URL": "http://www.moma.org/collection/works/58686", 
   "CuratorApproved": "Y", 
-  "Title": "Laval Steps Up", 
-  "DateAcquired": "2001-06-14", 
+  "CreditLine": "The New York Times Collection", 
   "Date": "November 6, 1942", 
   "ArtistID": 8613, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "2093.2001", 
-  "ArtistBio": "Nationality unknown", 
-  "CreditLine": "The New York Times Collection", 
+  "ArtistBio": "(Nationality unknown)", 
+  "DateAcquired": "2001-06-14", 
+  "\ufeffTitle": "Laval Steps Up", 
   "ObjectID": "58686"
 }

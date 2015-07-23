@@ -5,8 +5,7 @@
   "Artist": "Felix Gonzalez-Torres", 
   "URL": "http://www.moma.org/collection/works/62126", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1997-03-06", 
+  "CreditLine": "Gift of  Werner and Elaine Dannheisser", 
   "Date": "1990", 
   "ArtistID": 2233, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "117.1997", 
-  "ArtistBio": "American, born Cuba. 1957\u20131996", 
-  "CreditLine": "Gift of  Werner and Elaine Dannheisser", 
+  "ArtistBio": "(American, born Cuba. 1957\u20131996)", 
+  "DateAcquired": "1997-03-06", 
+  "\ufeffTitle": "\"Untitled\"", 
   "ObjectID": "62126"
 }

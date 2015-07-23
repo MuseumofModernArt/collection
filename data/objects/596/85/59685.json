@@ -5,8 +5,7 @@
   "Artist": "Jasper Johns", 
   "URL": "http://www.moma.org/collection/works/59685", 
   "CuratorApproved": "Y", 
-  "Title": "Savarin", 
-  "DateAcquired": "1982-01-21", 
+  "CreditLine": "Gift of Celeste Bartos", 
   "Date": "1981", 
   "ArtistID": 2923, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "6.1982", 
-  "ArtistBio": "American, born 1930", 
-  "CreditLine": "Gift of Celeste Bartos", 
+  "ArtistBio": "(American, born 1930)", 
+  "DateAcquired": "1982-01-21", 
+  "\ufeffTitle": "Savarin", 
   "ObjectID": "59685"
 }

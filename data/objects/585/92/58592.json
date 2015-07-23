@@ -5,8 +5,7 @@
   "Artist": "Fox News", 
   "URL": "http://www.moma.org/collection/works/58592", 
   "CuratorApproved": "Y", 
-  "Title": "Nikolai Lenin", 
-  "DateAcquired": "2001-06-14", 
+  "CreditLine": "The New York Times Collection", 
   "Date": "c. 1920", 
   "ArtistID": 8541, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "1999.2001", 
-  "ArtistBio": "NULL", 
-  "CreditLine": "The New York Times Collection", 
+  "ArtistBio": "", 
+  "DateAcquired": "2001-06-14", 
+  "\ufeffTitle": "Nikolai Lenin", 
   "ObjectID": "58592"
 }

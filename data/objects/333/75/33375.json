@@ -5,8 +5,7 @@
   "Artist": "Amedeo Modigliani", 
   "URL": "http://www.moma.org/collection/works/33375", 
   "CuratorApproved": "Y", 
-  "Title": "Seated Nude", 
-  "DateAcquired": "1932-12-16", 
+  "CreditLine": "Gift of Mrs. Saidie A. May", 
   "Date": "(1914)", 
   "ArtistID": 4038, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "29.1932", 
-  "ArtistBio": "Italian, 1884\u20131920", 
-  "CreditLine": "Gift of Mrs. Saidie A. May", 
+  "ArtistBio": "(Italian, 1884\u20131920)", 
+  "DateAcquired": "1932-12-16", 
+  "\ufeffTitle": "Seated Nude", 
   "ObjectID": "33375"
 }

@@ -5,8 +5,7 @@
   "Artist": "El Lissitzky", 
   "URL": "http://www.moma.org/collection/works/36682", 
   "CuratorApproved": "Y", 
-  "Title": "Proun Composition", 
-  "DateAcquired": "1941-01-16", 
+  "CreditLine": "Gift of Curt Valentin", 
   "Date": "(c. 1922)", 
   "ArtistID": 3569, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "338.1941", 
-  "ArtistBio": "Russian, 1890\u20131941", 
-  "CreditLine": "Gift of Curt Valentin", 
+  "ArtistBio": "(Russian, 1890\u20131941)", 
+  "DateAcquired": "1941-01-16", 
+  "\ufeffTitle": "Proun Composition", 
   "ObjectID": "36682"
 }

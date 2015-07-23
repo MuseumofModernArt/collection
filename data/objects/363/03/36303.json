@@ -5,8 +5,7 @@
   "Artist": "Yves Tanguy", 
   "URL": "http://www.moma.org/collection/works/36303", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1980-01-15", 
+  "CreditLine": "James Thrall Soby Bequest", 
   "Date": "1947", 
   "ArtistID": 5804, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "323.1980", 
-  "ArtistBio": "American, born France. 1900\u20131955", 
-  "CreditLine": "James Thrall Soby Bequest", 
+  "ArtistBio": "(American, born France. 1900\u20131955)", 
+  "DateAcquired": "1980-01-15", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "36303"
 }

@@ -5,8 +5,7 @@
   "Artist": "Bruce Davidson", 
   "URL": "http://www.moma.org/collection/works/49117", 
   "CuratorApproved": "Y", 
-  "Title": "Edward Steichen", 
-  "DateAcquired": "1964-03-10", 
+  "CreditLine": "Gift of the photographer", 
   "Date": "1963", 
   "ArtistID": 1398, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "226.1964", 
-  "ArtistBio": "American, born 1933", 
-  "CreditLine": "Gift of the photographer", 
+  "ArtistBio": "(American, born 1933)", 
+  "DateAcquired": "1964-03-10", 
+  "\ufeffTitle": "Edward Steichen", 
   "ObjectID": "49117"
 }

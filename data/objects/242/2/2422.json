@@ -5,8 +5,7 @@
   "Artist": "Richard Riemerschmid", 
   "URL": "http://www.moma.org/collection/works/2422", 
   "CuratorApproved": "Y", 
-  "Title": "Furnishing Fabric", 
-  "DateAcquired": "1958-12-04", 
+  "CreditLine": "Phyllis B. Lambert Fund", 
   "Date": "1908", 
   "ArtistID": 4918, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "185.1958.14", 
-  "ArtistBio": "German, 1868\u20131957", 
-  "CreditLine": "Phyllis B. Lambert Fund", 
+  "ArtistBio": "(German, 1868\u20131957)", 
+  "DateAcquired": "1958-12-04", 
+  "\ufeffTitle": "Furnishing Fabric", 
   "ObjectID": "2422"
 }

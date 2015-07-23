@@ -5,8 +5,7 @@
   "Artist": "Joseph Beuys", 
   "URL": "http://www.moma.org/collection/works/35539", 
   "CuratorApproved": "Y", 
-  "Title": "Schultafel", 
-  "DateAcquired": "1996-05-06", 
+  "CreditLine": "Gift of Werner and Elaine Dannheisser", 
   "Date": "1974", 
   "ArtistID": 540, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "206.1996", 
-  "ArtistBio": "German, 1921\u20131986", 
-  "CreditLine": "Gift of Werner and Elaine Dannheisser", 
+  "ArtistBio": "(German, 1921\u20131986)", 
+  "DateAcquired": "1996-05-06", 
+  "\ufeffTitle": "Schultafel", 
   "ObjectID": "35539"
 }

@@ -5,8 +5,7 @@
   "Artist": "Marco Zanuso", 
   "URL": "http://www.moma.org/collection/works/3976", 
   "CuratorApproved": "Y", 
-  "Title": "Table Fan", 
-  "DateAcquired": "1974-11-06", 
+  "CreditLine": "Gift of the manufacturer", 
   "Date": "1973", 
   "ArtistID": 6544, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "473.1974", 
-  "ArtistBio": "Italian, 1916\u20132001", 
-  "CreditLine": "Gift of the manufacturer", 
+  "ArtistBio": "(Italian, 1916\u20132001)", 
+  "DateAcquired": "1974-11-06", 
+  "\ufeffTitle": "Table Fan", 
   "ObjectID": "3976"
 }

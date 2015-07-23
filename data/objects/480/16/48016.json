@@ -5,8 +5,7 @@
   "Artist": "Abelardo Morell", 
   "URL": "http://www.moma.org/collection/works/48016", 
   "CuratorApproved": "Y", 
-  "Title": "Light Bulb", 
-  "DateAcquired": "1992-04-02", 
+  "CreditLine": "Acquired through the generosity of Marian and James H. Cohen in memory of their son Michael Harrison Cohen", 
   "Date": "1991", 
   "ArtistID": 6917, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "187.1992", 
-  "ArtistBio": "American, born Cuba 1948", 
-  "CreditLine": "Acquired through the generosity of Marian and James H. Cohen in memory of their son Michael Harrison Cohen", 
+  "ArtistBio": "(American, born Cuba 1948)", 
+  "DateAcquired": "1992-04-02", 
+  "\ufeffTitle": "Light Bulb", 
   "ObjectID": "48016"
 }

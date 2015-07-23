@@ -5,8 +5,7 @@
   "Artist": "Varvara Stepanova", 
   "URL": "http://www.moma.org/collection/works/65757", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1974-04-23", 
+  "CreditLine": "Gift of Nikita D. Lobanov", 
   "Date": "(1922)", 
   "ArtistID": 5643, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "273.1974", 
-  "ArtistBio": "Russian, 1894\u20131958", 
-  "CreditLine": "Gift of Nikita D. Lobanov", 
+  "ArtistBio": "(Russian, 1894\u20131958)", 
+  "DateAcquired": "1974-04-23", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "65757"
 }

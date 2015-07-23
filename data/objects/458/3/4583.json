@@ -5,8 +5,7 @@
   "Artist": "Michael Cohen", 
   "URL": "http://www.moma.org/collection/works/4583", 
   "CuratorApproved": "Y", 
-  "Title": "Vase", 
-  "DateAcquired": "1964-10-06", 
+  "CreditLine": "Greta Daniel Design Fund", 
   "Date": "1964", 
   "ArtistID": 8696, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "1120.1964", 
-  "ArtistBio": "American", 
-  "CreditLine": "Greta Daniel Design Fund", 
+  "ArtistBio": "(American)", 
+  "DateAcquired": "1964-10-06", 
+  "\ufeffTitle": "Vase", 
   "ObjectID": "4583"
 }

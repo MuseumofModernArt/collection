@@ -5,8 +5,7 @@
   "Artist": "Jacek Neugebauer", 
   "URL": "http://www.moma.org/collection/works/8817", 
   "CuratorApproved": "Y", 
-  "Title": "Most", 
-  "DateAcquired": "2000-12-11", 
+  "CreditLine": "Gift of the designer", 
   "Date": "c. 1965", 
   "ArtistID": 8270, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "1520.2000", 
-  "ArtistBio": "Polish, born 1934", 
-  "CreditLine": "Gift of the designer", 
+  "ArtistBio": "(Polish, born 1934)", 
+  "DateAcquired": "2000-12-11", 
+  "\ufeffTitle": "Most", 
   "ObjectID": "8817"
 }

@@ -5,8 +5,7 @@
   "Artist": "Henri Matisse", 
   "URL": "http://www.moma.org/collection/works/33393", 
   "CuratorApproved": "Y", 
-  "Title": "Odalisque with a Moorish Chair", 
-  "DateAcquired": "1942-01-27", 
+  "CreditLine": "Acquired through the Lillie P. Bliss Bequest", 
   "Date": "1928", 
   "ArtistID": 3832, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "31.1942", 
-  "ArtistBio": "French, 1869\u20131954", 
-  "CreditLine": "Acquired through the Lillie P. Bliss Bequest", 
+  "ArtistBio": "(French, 1869\u20131954)", 
+  "DateAcquired": "1942-01-27", 
+  "\ufeffTitle": "Odalisque with a Moorish Chair", 
   "ObjectID": "33393"
 }

@@ -1,12 +1,11 @@
 {
   "Medium": "Lithograph", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "Julian Lethbridge", 
   "URL": "http://www.moma.org/collection/works/66354", 
   "CuratorApproved": "Y", 
-  "Title": "Chapel", 
-  "DateAcquired": "1994-05-26", 
+  "CreditLine": "Gift of Emily Fisher Landau", 
   "Date": "1993", 
   "ArtistID": 3500, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "296.1994", 
-  "ArtistBio": "British, born 1947", 
-  "CreditLine": "Gift of Emily Fisher Landau", 
+  "ArtistBio": "(British, born 1947)", 
+  "DateAcquired": "1994-05-26", 
+  "\ufeffTitle": "Chapel", 
   "ObjectID": "66354"
 }

@@ -5,8 +5,7 @@
   "Artist": "Paul Klee", 
   "URL": "http://www.moma.org/collection/works/63858", 
   "CuratorApproved": "Y", 
-  "Title": "The Hero with the Wing", 
-  "DateAcquired": "1942-05-07", 
+  "CreditLine": "Purchase", 
   "Date": "1905", 
   "ArtistID": 3130, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "182.1942", 
-  "ArtistBio": "German, born Switzerland. 1879\u20131940", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(German, born Switzerland. 1879\u20131940)", 
+  "DateAcquired": "1942-05-07", 
+  "\ufeffTitle": "Der Held mit dem Fl\u00fcgel (The Hero with the Wing) from the series Inventions (Inventionen)", 
   "ObjectID": "63858"
 }

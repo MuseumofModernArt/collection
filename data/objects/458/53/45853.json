@@ -5,8 +5,7 @@
   "Artist": "Nicholas Nixon", 
   "URL": "http://www.moma.org/collection/works/45853", 
   "CuratorApproved": "Y", 
-  "Title": "Sam, Cambridge", 
-  "DateAcquired": "1993-03-11", 
+  "CreditLine": "Gift of the artist", 
   "Date": "1992", 
   "ArtistID": 4315, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "81.1993", 
-  "ArtistBio": "American, born 1947", 
-  "CreditLine": "Gift of the artist", 
+  "ArtistBio": "(American, born 1947)", 
+  "DateAcquired": "1993-03-11", 
+  "\ufeffTitle": "Sam, Cambridge", 
   "ObjectID": "45853"
 }

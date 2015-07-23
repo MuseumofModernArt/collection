@@ -5,8 +5,7 @@
   "Artist": "Mark Steinmetz", 
   "URL": "http://www.moma.org/collection/works/51284", 
   "CuratorApproved": "Y", 
-  "Title": "Bourbon Street, New Orleans", 
-  "DateAcquired": "1997-06-12", 
+  "CreditLine": "E.T. Harmax Foundation Fund", 
   "Date": "1995", 
   "ArtistID": 5636, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "341.1997", 
-  "ArtistBio": "American, born 1961", 
-  "CreditLine": "E.T. Harmax Foundation Fund", 
+  "ArtistBio": "(American, born 1961)", 
+  "DateAcquired": "1997-06-12", 
+  "\ufeffTitle": "Bourbon Street, New Orleans", 
   "ObjectID": "51284"
 }

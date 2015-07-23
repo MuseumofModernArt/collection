@@ -5,8 +5,7 @@
   "Artist": "Victor Moscoso", 
   "URL": "http://www.moma.org/collection/works/8166", 
   "CuratorApproved": "Y", 
-  "Title": "Blue Cheer", 
-  "DateAcquired": "1983-11-30", 
+  "CreditLine": "Gift of the designer", 
   "Date": "1967", 
   "ArtistID": 4117, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "799.1983", 
-  "ArtistBio": "American, born Spain 1936", 
-  "CreditLine": "Gift of the designer", 
+  "ArtistBio": "(American, born Spain 1936)", 
+  "DateAcquired": "1983-11-30", 
+  "\ufeffTitle": "Blue Cheer", 
   "ObjectID": "8166"
 }

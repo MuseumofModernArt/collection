@@ -1,12 +1,11 @@
 {
   "Medium": "Illustrated book with two lithographs", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Illustrated Book", 
   "Artist": "Pierre Soulages", 
   "URL": "http://www.moma.org/collection/works/22231", 
   "CuratorApproved": "Y", 
-  "Title": "Depaysages", 
-  "DateAcquired": "1996-11-12", 
+  "CreditLine": "Monroe Wheeler Fund", 
   "Date": "1959", 
   "ArtistID": 5538, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "719.1996.1-2", 
-  "ArtistBio": "French, born 1919", 
-  "CreditLine": "Monroe Wheeler Fund", 
+  "ArtistBio": "(French, born 1919)", 
+  "DateAcquired": "1996-11-12", 
+  "\ufeffTitle": "Depaysages", 
   "ObjectID": "22231"
 }

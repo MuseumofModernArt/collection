@@ -5,8 +5,7 @@
   "Artist": "Bruce Davidson", 
   "URL": "http://www.moma.org/collection/works/53332", 
   "CuratorApproved": "Y", 
-  "Title": "15 West 47th Street, New York", 
-  "DateAcquired": "1966-10-11", 
+  "CreditLine": "Gift of the photographer", 
   "Date": "1963", 
   "ArtistID": 1398, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "435.1966", 
-  "ArtistBio": "American, born 1933", 
-  "CreditLine": "Gift of the photographer", 
+  "ArtistBio": "(American, born 1933)", 
+  "DateAcquired": "1966-10-11", 
+  "\ufeffTitle": "15 West 47th Street, New York", 
   "ObjectID": "53332"
 }

@@ -5,8 +5,7 @@
   "Artist": "Steven D. Foster", 
   "URL": "http://www.moma.org/collection/works/56028", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1983-11-10", 
+  "CreditLine": "Purchase", 
   "Date": "1980", 
   "ArtistID": 1954, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "681.1983", 
-  "ArtistBio": "American, born 1945", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, born 1945)", 
+  "DateAcquired": "1983-11-10", 
+  "\ufeffTitle": "Untitled from The Lake Series", 
   "ObjectID": "56028"
 }

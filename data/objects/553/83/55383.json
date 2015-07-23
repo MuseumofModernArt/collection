@@ -5,8 +5,7 @@
   "Artist": "Frederick Sommer", 
   "URL": "http://www.moma.org/collection/works/55383", 
   "CuratorApproved": "Y", 
-  "Title": "Max Ernst", 
-  "DateAcquired": "1954-01-12", 
+  "CreditLine": "Gift of Nelson A. Rockefeller", 
   "Date": "1946", 
   "ArtistID": 5520, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "585.1953", 
-  "ArtistBio": "American, born Italy. 1905\u20131999", 
-  "CreditLine": "Gift of Nelson A. Rockefeller", 
+  "ArtistBio": "(American, born Italy. 1905\u20131999)", 
+  "DateAcquired": "1954-01-12", 
+  "\ufeffTitle": "Max Ernst", 
   "ObjectID": "55383"
 }

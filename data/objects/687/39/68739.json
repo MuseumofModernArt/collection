@@ -1,12 +1,11 @@
 {
   "Medium": "One lithograph from a portfolio of six lithographs, five screenprints and one aquatint", 
-  "Dimensions": "irreg composition  28 x 22\" (71.1 x 55.9 cm)  sheet  30 1/8 x 22 3/8\" (76.5 x 56.8 cm)", 
+  "Dimensions": "irreg composition  28 x 22\" (71.1 x 55.9 cm)\r\nsheet  30 1/8 x 22 3/8\" (76.5 x 56.8 cm)", 
   "Classification": "Print", 
   "Artist": "Barbara Sandler", 
   "URL": "http://www.moma.org/collection/works/68739", 
   "CuratorApproved": "Y", 
-  "Title": "SHORT BULL from the portfolio 1776 USA 1976 BICENTENNIAL PRINTS", 
-  "DateAcquired": "1977-11-10", 
+  "CreditLine": "Gift of Special Projects Group", 
   "Date": "1975 (Published 1976).", 
   "ArtistID": 5151, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "416.1977.12", 
-  "ArtistBio": "American, born 1943", 
-  "CreditLine": "Gift of Special Projects Group", 
+  "ArtistBio": "(American, born 1943)", 
+  "DateAcquired": "1977-11-10", 
+  "\ufeffTitle": "Short Bull from 1776 USA 1976 Bicentennial Prints", 
   "ObjectID": "68739"
 }

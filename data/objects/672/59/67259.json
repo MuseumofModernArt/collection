@@ -5,8 +5,7 @@
   "Artist": "Ellsworth Kelly", 
   "URL": "http://www.moma.org/collection/works/67259", 
   "CuratorApproved": "Y", 
-  "Title": "Blue Black from Series of Ten Lithographs", 
-  "DateAcquired": "1971-03-30", 
+  "CreditLine": "Gift of Connie and Jack Glenn and Pinky and Arthur Kase", 
   "Date": "1970", 
   "ArtistID": 3048, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "341.1971", 
-  "ArtistBio": "American, born 1923", 
-  "CreditLine": "Gift of Connie and Jack Glenn and Pinky and Arthur Kase", 
+  "ArtistBio": "(American, born 1923)", 
+  "DateAcquired": "1971-03-30", 
+  "\ufeffTitle": "Blue Black from Series of Ten Lithographs", 
   "ObjectID": "67259"
 }

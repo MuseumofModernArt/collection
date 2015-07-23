@@ -5,8 +5,7 @@
   "Artist": "Times Wide World Photos", 
   "URL": "http://www.moma.org/collection/works/58758", 
   "CuratorApproved": "Y", 
-  "Title": "Heap Big Injun: Mayor James J. Walker of New York City", 
-  "DateAcquired": "2001-06-14", 
+  "CreditLine": "The New York Times Collection", 
   "Date": "December 10, 1933", 
   "ArtistID": 8632, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "2165.2001", 
-  "ArtistBio": "American, active 1919\u20131941", 
-  "CreditLine": "The New York Times Collection", 
+  "ArtistBio": "(American, active 1919\u20131941)", 
+  "DateAcquired": "2001-06-14", 
+  "\ufeffTitle": "Heap Big Injun: Mayor James J. Walker of New York City", 
   "ObjectID": "58758"
 }

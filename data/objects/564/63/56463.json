@@ -5,8 +5,7 @@
   "Artist": "Dorothea Lange", 
   "URL": "http://www.moma.org/collection/works/56463", 
   "CuratorApproved": "Y", 
-  "Title": "J.R. Butler, President of the Southern Tenant Farmers' Union, Memphis, Tennessee", 
-  "DateAcquired": "1967-11-21", 
+  "CreditLine": "Purchase", 
   "Date": "1938", 
   "ArtistID": 3373, 
   "Keywords": [
@@ -21,7 +20,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "801.1968", 
-  "ArtistBio": "American, 1895\u20131965", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, 1895\u20131965)", 
+  "DateAcquired": "1967-11-21", 
+  "\ufeffTitle": "J.R. Butler, President of the Southern Tenant Farmers' Union, Memphis, Tennessee", 
   "ObjectID": "56463"
 }

@@ -5,8 +5,7 @@
   "Artist": "Menashe Kadishman", 
   "URL": "http://www.moma.org/collection/works/59768", 
   "CuratorApproved": "Y", 
-  "Title": "Landscape with Red Trees", 
-  "DateAcquired": "1975-01-07", 
+  "CreditLine": "Walter Bareiss Fund", 
   "Date": "(1974)", 
   "ArtistID": 2961, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "9.1975", 
-  "ArtistBio": "Israeli, born 1932", 
-  "CreditLine": "Walter Bareiss Fund", 
+  "ArtistBio": "(Israeli, born 1932)", 
+  "DateAcquired": "1975-01-07", 
+  "\ufeffTitle": "Landscape with Red Trees", 
   "ObjectID": "59768"
 }

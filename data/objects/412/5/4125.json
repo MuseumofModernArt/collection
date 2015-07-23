@@ -5,8 +5,7 @@
   "Artist": "Rodolfo Bonetto", 
   "URL": "http://www.moma.org/collection/works/4125", 
   "CuratorApproved": "Y", 
-  "Title": "Sfericlock Alarm Clock", 
-  "DateAcquired": "1963-11-12", 
+  "CreditLine": "Gift of the manufacturer", 
   "Date": "1963", 
   "ArtistID": 659, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "580.1963", 
-  "ArtistBio": "Italian, 1929\u20131991", 
-  "CreditLine": "Gift of the manufacturer", 
+  "ArtistBio": "(Italian, 1929\u20131991)", 
+  "DateAcquired": "1963-11-12", 
+  "\ufeffTitle": "Sfericlock Alarm Clock", 
   "ObjectID": "4125"
 }

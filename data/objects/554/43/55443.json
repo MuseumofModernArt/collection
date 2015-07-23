@@ -5,8 +5,7 @@
   "Artist": "Brian Rose", 
   "URL": "http://www.moma.org/collection/works/55443", 
   "CuratorApproved": "Y", 
-  "Title": "Near Ratzeburg, West Germany", 
-  "DateAcquired": "1987-12-10", 
+  "CreditLine": "Acquired through the generosity of Shirley C. Burden", 
   "Date": "1987", 
   "ArtistID": 5017, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "592.1987.x1-x2", 
-  "ArtistBio": "American, born 1954", 
-  "CreditLine": "Acquired through the generosity of Shirley C. Burden", 
+  "ArtistBio": "(American, born 1954)", 
+  "DateAcquired": "1987-12-10", 
+  "\ufeffTitle": "Near Ratzeburg, West Germany", 
   "ObjectID": "55443"
 }

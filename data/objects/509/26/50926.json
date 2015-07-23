@@ -5,8 +5,7 @@
   "Artist": "Arthur Rothstein", 
   "URL": "http://www.moma.org/collection/works/50926", 
   "CuratorApproved": "Y", 
-  "Title": "Home of Postmaster Brown, Old Rag, Virginia", 
-  "DateAcquired": "1959-04-22", 
+  "CreditLine": "Gift of the photographer", 
   "Date": "October 1935", 
   "ArtistID": 5050, 
   "Keywords": [
@@ -20,7 +19,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "329.1959", 
-  "ArtistBio": "American, 1915\u20131985", 
-  "CreditLine": "Gift of the photographer", 
+  "ArtistBio": "(American, 1915\u20131985)", 
+  "DateAcquired": "1959-04-22", 
+  "\ufeffTitle": "Home of Postmaster Brown, Old Rag, Virginia", 
   "ObjectID": "50926"
 }

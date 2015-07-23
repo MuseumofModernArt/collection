@@ -5,8 +5,7 @@
   "Artist": "Gerald Summers", 
   "URL": "http://www.moma.org/collection/works/4729", 
   "CuratorApproved": "Y", 
-  "Title": "Lounge Chair", 
-  "DateAcquired": "2000-12-11", 
+  "CreditLine": "Gift of Barbara Jakobson, Robert and Joyce Menschel and the Peter Norton Family Foundation", 
   "Date": "1934", 
   "ArtistID": 8435, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "1434.2000", 
-  "ArtistBio": "British, 1899\u20131967", 
-  "CreditLine": "Gift of Barbara Jakobson, Robert and Joyce Menschel and the Peter Norton Family Foundation", 
+  "ArtistBio": "(British, 1899\u20131967)", 
+  "DateAcquired": "2000-12-11", 
+  "\ufeffTitle": "Lounge Chair", 
   "ObjectID": "4729"
 }

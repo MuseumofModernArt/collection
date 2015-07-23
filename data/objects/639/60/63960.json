@@ -1,12 +1,11 @@
 {
   "Medium": "Portfolio of 21 prints", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "Various Artists", 
   "URL": "http://www.moma.org/collection/works/63960", 
   "CuratorApproved": "Y", 
-  "Title": "21 Estampadores de Colombia, Mexico y Venezuela", 
-  "DateAcquired": "1973-05-07", 
+  "CreditLine": "Gift of Cart\u00f3n y Papel de M\u00e9xico, S. A.", 
   "Date": "(1972)", 
   "ArtistID": 6104, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "184.1973.1-21", 
-  "ArtistBio": "Various", 
-  "CreditLine": "Gift of Cart\u00f3n y Papel de M\u00e9xico, S. A.", 
+  "ArtistBio": "(Various)", 
+  "DateAcquired": "1973-05-07", 
+  "\ufeffTitle": "21 Estampadores de Colombia, Mexico y Venezuela", 
   "ObjectID": "63960"
 }

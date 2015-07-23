@@ -5,8 +5,7 @@
   "Artist": "Susan Rothenberg", 
   "URL": "http://www.moma.org/collection/works/33530", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1985-03-08", 
+  "CreditLine": "Gift of Carol O. Selle", 
   "Date": "1984", 
   "ArtistID": 5044, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "51.1985", 
-  "ArtistBio": "American, born 1945", 
-  "CreditLine": "Gift of Carol O. Selle", 
+  "ArtistBio": "(American, born 1945)", 
+  "DateAcquired": "1985-03-08", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "33530"
 }

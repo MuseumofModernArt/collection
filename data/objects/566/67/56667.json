@@ -5,8 +5,7 @@
   "Artist": "Robert Adams", 
   "URL": "http://www.moma.org/collection/works/56667", 
   "CuratorApproved": "Y", 
-  "Title": "Abandoned Car, Carbon County, Wyoming", 
-  "DateAcquired": "1996-12-10", 
+  "CreditLine": "Acquired through the generosity of The Contemporary Arts Council of The Museum of Modern Art", 
   "Date": "1977", 
   "ArtistID": 66, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "837.1996", 
-  "ArtistBio": "American, born 1937", 
-  "CreditLine": "Acquired through the generosity of The Contemporary Arts Council of The Museum of Modern Art", 
+  "ArtistBio": "(American, born 1937)", 
+  "DateAcquired": "1996-12-10", 
+  "\ufeffTitle": "Abandoned Car, Carbon County, Wyoming", 
   "ObjectID": "56667"
 }

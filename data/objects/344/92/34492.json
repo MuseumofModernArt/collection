@@ -5,8 +5,7 @@
   "Artist": "Antonio L\u00f3pez Garc\u00eda", 
   "URL": "http://www.moma.org/collection/works/34492", 
   "CuratorApproved": "Y", 
-  "Title": "The Staircase", 
-  "DateAcquired": "1978-04-04", 
+  "CreditLine": "The Joan and Lester Avnet Collection", 
   "Date": "(1967)", 
   "ArtistID": 3600, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "128.1978", 
-  "ArtistBio": "Spanish, born 1936", 
-  "CreditLine": "The Joan and Lester Avnet Collection", 
+  "ArtistBio": "(Spanish, born 1936)", 
+  "DateAcquired": "1978-04-04", 
+  "\ufeffTitle": "The Staircase", 
   "ObjectID": "34492"
 }

@@ -5,8 +5,7 @@
   "Artist": "The New York Times", 
   "URL": "http://www.moma.org/collection/works/58653", 
   "CuratorApproved": "Y", 
-  "Title": "Last Snack", 
-  "DateAcquired": "2001-06-14", 
+  "CreditLine": "The New York Times Collection", 
   "Date": "1946", 
   "Keywords": [
     "online art collection", 
@@ -16,7 +15,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "2060.2001", 
-  "ArtistBio": "American, founded 1851", 
-  "CreditLine": "The New York Times Collection", 
+  "ArtistBio": "(American, founded 1851)", 
+  "DateAcquired": "2001-06-14", 
+  "\ufeffTitle": "Last Snack", 
   "ObjectID": "58653"
 }

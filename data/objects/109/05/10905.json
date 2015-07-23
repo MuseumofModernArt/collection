@@ -1,12 +1,11 @@
 {
   "Medium": "Broadside with one etching", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Illustrated Book", 
   "Artist": "Kurt Seligmann", 
   "URL": "http://www.moma.org/collection/works/10905", 
   "CuratorApproved": "Y", 
-  "Title": "Pleine Marge", 
-  "DateAcquired": "1999-03-04", 
+  "CreditLine": "Mary Ellen Meehan Fund", 
   "Date": "1943", 
   "ArtistID": 5337, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "66.1999.a-b", 
-  "ArtistBio": "American, 1900\u20131962", 
-  "CreditLine": "Mary Ellen Meehan Fund", 
+  "ArtistBio": "(American, 1900\u20131962)", 
+  "DateAcquired": "1999-03-04", 
+  "\ufeffTitle": "Pleine Marge", 
   "ObjectID": "10905"
 }

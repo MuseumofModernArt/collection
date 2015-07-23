@@ -1,12 +1,11 @@
 {
   "Medium": "Aluminum", 
-  "Dimensions": ".1: h. 3 3/4\" (9.5 cm), diam. 3 1/4\" (8.2 cm)  .2: h. 2 15/16\" (7.5 cm), diam. 3 1/16\" (7.8 cm)", 
+  "Dimensions": ".1: h. 3 3/4\" (9.5 cm), diam. 3 1/4\" (8.2 cm)\r\n.2: h. 2 15/16\" (7.5 cm), diam. 3 1/16\" (7.8 cm)", 
   "Classification": "A&D Design", 
   "Artist": "Aluminum Company of America, Pittsburgh, Pennsylvania", 
   "URL": "http://www.moma.org/collection/works/2460", 
   "CuratorApproved": "Y", 
-  "Title": "Automobile Pistons", 
-  "DateAcquired": "1934-04-01", 
+  "CreditLine": "Gift of the manufacturer", 
   "Date": "Before 1934", 
   "Keywords": [
     "online art collection", 
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "191.1934.1-2", 
-  "ArtistBio": "est 1888", 
-  "CreditLine": "Gift of the manufacturer", 
+  "ArtistBio": "(est 1888)", 
+  "DateAcquired": "1934-04-01", 
+  "\ufeffTitle": "Automobile Pistons", 
   "ObjectID": "2460"
 }

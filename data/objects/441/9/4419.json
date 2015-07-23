@@ -5,8 +5,7 @@
   "Artist": "Ernest C. Higgins", 
   "URL": "http://www.moma.org/collection/works/4419", 
   "CuratorApproved": "Y", 
-  "Title": "Goalie Mask", 
-  "DateAcquired": "1983-11-30", 
+  "CreditLine": "Emilio Ambasz Fund", 
   "Date": "1964", 
   "ArtistID": 2641, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "732.1983", 
-  "ArtistBio": "American, born 1915", 
-  "CreditLine": "Emilio Ambasz Fund", 
+  "ArtistBio": "(American, born 1915)", 
+  "DateAcquired": "1983-11-30", 
+  "\ufeffTitle": "Goalie Mask", 
   "ObjectID": "4419"
 }

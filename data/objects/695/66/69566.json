@@ -1,12 +1,11 @@
 {
-  "Medium": "Screenprint  ", 
-  "Dimensions": "Composition: 30 5/8 x 23 1/8\" (77.8 x 58.7 cm)  Sheet: 30 5/8 x 23 1/8\" (77.8 x 58.7 cm)", 
+  "Medium": "Screenprint\r\n", 
+  "Dimensions": "Composition: 30 5/8 x 23 1/8\" (77.8 x 58.7 cm)\r\nSheet: 30 5/8 x 23 1/8\" (77.8 x 58.7 cm)", 
   "Classification": "Print", 
   "Artist": "Robert Rauschenberg", 
   "URL": "http://www.moma.org/collection/works/69566", 
   "CuratorApproved": "Y", 
-  "Title": "From the Seat of Authority", 
-  "DateAcquired": "1983-01-18", 
+  "CreditLine": "Gift of Mr. and Mrs. Harry Kahn", 
   "Date": "1979", 
   "ArtistID": 4823, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "461.1982", 
-  "ArtistBio": "American, 1925\u20132008", 
-  "CreditLine": "Gift of Mr. and Mrs. Harry Kahn", 
+  "ArtistBio": "(American, 1925\u20132008)", 
+  "DateAcquired": "1983-01-18", 
+  "\ufeffTitle": "From the Seat of Authority", 
   "ObjectID": "69566"
 }

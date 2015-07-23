@@ -5,8 +5,7 @@
   "Artist": "Henri Matisse", 
   "URL": "http://www.moma.org/collection/works/38689", 
   "CuratorApproved": "Y", 
-  "Title": "Yvonne Landsberg", 
-  "DateAcquired": "1968-12-11", 
+  "CreditLine": "Alva Gimbel Fund", 
   "Date": "July 1914", 
   "ArtistID": 3832, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "1576.1968", 
-  "ArtistBio": "French, 1869\u20131954", 
-  "CreditLine": "Alva Gimbel Fund", 
+  "ArtistBio": "(French, 1869\u20131954)", 
+  "DateAcquired": "1968-12-11", 
+  "\ufeffTitle": "Yvonne Landsberg", 
   "ObjectID": "38689"
 }

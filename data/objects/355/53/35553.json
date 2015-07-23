@@ -5,8 +5,7 @@
   "Artist": "Marc Chagall", 
   "URL": "http://www.moma.org/collection/works/35553", 
   "CuratorApproved": "Y", 
-  "Title": "Maternity", 
-  "DateAcquired": "1992-05-13", 
+  "CreditLine": "Bequest of Mrs. Helen Serger in honor of William S. Lieberman", 
   "Date": "(1912)", 
   "ArtistID": 1055, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "208.1992", 
-  "ArtistBio": "French, born Belarus. 1887\u20131985", 
-  "CreditLine": "Bequest of Mrs. Helen Serger in honor of William S. Lieberman", 
+  "ArtistBio": "(French, born Belarus. 1887\u20131985)", 
+  "DateAcquired": "1992-05-13", 
+  "\ufeffTitle": "Maternity", 
   "ObjectID": "35553"
 }

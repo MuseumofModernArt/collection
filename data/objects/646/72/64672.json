@@ -5,8 +5,7 @@
   "Artist": "Petr Miturich", 
   "URL": "http://www.moma.org/collection/works/64672", 
   "CuratorApproved": "Y", 
-  "Title": "Nude in Studio", 
-  "DateAcquired": "1976-05-11", 
+  "CreditLine": "Gift of The State Hermitage Museum (through the International Council, by exchange)", 
   "Date": "(1925)", 
   "ArtistID": 4030, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "222.1976", 
-  "ArtistBio": "Russian", 
-  "CreditLine": "Gift of The State Hermitage Museum (through the International Council, by exchange)", 
+  "ArtistBio": "(Russian)", 
+  "DateAcquired": "1976-05-11", 
+  "\ufeffTitle": "Nude in Studio", 
   "ObjectID": "64672"
 }

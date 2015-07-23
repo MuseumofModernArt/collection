@@ -5,8 +5,7 @@
   "Artist": "Hans Hartung", 
   "URL": "http://www.moma.org/collection/works/63526", 
   "CuratorApproved": "Y", 
-  "Title": "L 12", 
-  "DateAcquired": "1973-05-07", 
+  "CreditLine": "Gift of Richards H. Emerson", 
   "Date": "1957", 
   "ArtistID": 2525, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "170.1973", 
-  "ArtistBio": "French, born Germany. 1904\u20131989", 
-  "CreditLine": "Gift of Richards H. Emerson", 
+  "ArtistBio": "(French, born Germany. 1904\u20131989)", 
+  "DateAcquired": "1973-05-07", 
+  "\ufeffTitle": "L 12", 
   "ObjectID": "63526"
 }

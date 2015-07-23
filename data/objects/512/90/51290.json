@@ -5,8 +5,7 @@
   "Artist": "William B. Suttle", 
   "URL": "http://www.moma.org/collection/works/51290", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1968-03-06", 
+  "CreditLine": "Benjamin Zeller Memorial Fund", 
   "Date": "1967", 
   "ArtistID": 5741, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "342.1968", 
-  "ArtistBio": "American", 
-  "CreditLine": "Benjamin Zeller Memorial Fund", 
+  "ArtistBio": "(American)", 
+  "DateAcquired": "1968-03-06", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "51290"
 }

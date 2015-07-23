@@ -5,8 +5,7 @@
   "Artist": "Harry Callahan", 
   "URL": "http://www.moma.org/collection/works/44513", 
   "CuratorApproved": "Y", 
-  "Title": "New York", 
-  "DateAcquired": "1987-02-19", 
+  "CreditLine": "Gift of Robert and Joyce Menschel", 
   "Date": "1962", 
   "ArtistID": 924, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "40.1987", 
-  "ArtistBio": "American, 1912\u20131999", 
-  "CreditLine": "Gift of Robert and Joyce Menschel", 
+  "ArtistBio": "(American, 1912\u20131999)", 
+  "DateAcquired": "1987-02-19", 
+  "\ufeffTitle": "New York", 
   "ObjectID": "44513"
 }

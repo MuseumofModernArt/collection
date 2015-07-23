@@ -5,8 +5,7 @@
   "Artist": "Lovis Corinth", 
   "URL": "http://www.moma.org/collection/works/66707", 
   "CuratorApproved": "Y", 
-  "Title": "Self-Portrait", 
-  "DateAcquired": "1947-12-19", 
+  "CreditLine": "Purchase", 
   "Date": "1920", 
   "ArtistID": 1243, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "314.1947", 
-  "ArtistBio": "German, 1858\u20131925", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(German, 1858\u20131925)", 
+  "DateAcquired": "1947-12-19", 
+  "\ufeffTitle": "Self-Portrait (Selbstbildnis)", 
   "ObjectID": "66707"
 }

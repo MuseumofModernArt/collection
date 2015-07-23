@@ -5,8 +5,7 @@
   "Artist": "Peter Blume", 
   "URL": "http://www.moma.org/collection/works/34188", 
   "CuratorApproved": "Y", 
-  "Title": "Monk (Study for The Eternal City)", 
-  "DateAcquired": "1945-03-07", 
+  "CreditLine": "Given anonymously", 
   "Date": "(1937)", 
   "ArtistID": 617, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "121.1945", 
-  "ArtistBio": "American, 1906\u20131992", 
-  "CreditLine": "Given anonymously", 
+  "ArtistBio": "(American, 1906\u20131992)", 
+  "DateAcquired": "1945-03-07", 
+  "\ufeffTitle": "Monk (Study for The Eternal City)", 
   "ObjectID": "34188"
 }

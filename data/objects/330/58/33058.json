@@ -5,8 +5,7 @@
   "Artist": "Andr\u00e9 Breton", 
   "URL": "http://www.moma.org/collection/works/33058", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1969-02-10", 
+  "CreditLine": "Purchase", 
   "Date": "1935", 
   "ArtistID": 768, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "7.1969", 
-  "ArtistBio": "French, 1896\u20131966", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(French, 1896\u20131966)", 
+  "DateAcquired": "1969-02-10", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "33058"
 }

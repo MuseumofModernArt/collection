@@ -5,8 +5,7 @@
   "Artist": "Henri Cartier-Bresson", 
   "URL": "http://www.moma.org/collection/works/54437", 
   "CuratorApproved": "Y", 
-  "Title": "Washington, D.C.", 
-  "DateAcquired": "1996-10-08", 
+  "CreditLine": "Gift of John C. Waddell", 
   "Date": "1957", 
   "ArtistID": 1000, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "500.1996", 
-  "ArtistBio": "French, 1908\u20132004", 
-  "CreditLine": "Gift of John C. Waddell", 
+  "ArtistBio": "(French, 1908\u20132004)", 
+  "DateAcquired": "1996-10-08", 
+  "\ufeffTitle": "Washington, D.C.", 
   "ObjectID": "54437"
 }

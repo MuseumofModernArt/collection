@@ -1,12 +1,11 @@
 {
   "Medium": "Lithograph bound into journal", 
-  "Dimensions": "irreg. composition  5 1/4 x 19 1/2\" (13.4 x 49.5 cm)  sheet  10 x 24\" (25 x 61 cm)", 
+  "Dimensions": "irreg. composition  5 1/4 x 19 1/2\" (13.4 x 49.5 cm)\r\nsheet  10 x 24\" (25 x 61 cm)", 
   "Classification": "Print", 
   "Artist": "Robert Wilson", 
   "URL": "http://www.moma.org/collection/works/63142", 
   "CuratorApproved": "Y", 
-  "Title": "A Letter for Queen Victoria (for Parkett no. 16)", 
-  "DateAcquired": "1998-03-05", 
+  "CreditLine": "Riva Castleman Endowment Fund, Lily Auchincloss Fund, and Gift of Parkett", 
   "Date": "1988", 
   "ArtistID": 6390, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "145.1998.1", 
-  "ArtistBio": "American, born 1941", 
-  "CreditLine": "Riva Castleman Endowment Fund, Lily Auchincloss Fund, and Gift of Parkett", 
+  "ArtistBio": "(American, born 1941)", 
+  "DateAcquired": "1998-03-05", 
+  "\ufeffTitle": "A Letter for Queen Victoria (for Parkett no. 16)", 
   "ObjectID": "63142"
 }

@@ -5,8 +5,7 @@
   "Artist": "Henri Cartier-Bresson", 
   "URL": "http://www.moma.org/collection/works/49923", 
   "CuratorApproved": "Y", 
-  "Title": "Coronation of King George VI, London", 
-  "DateAcquired": "1947-10-16", 
+  "CreditLine": "Gift of the photographer", 
   "Date": "1937", 
   "ArtistID": 1000, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "281.1947", 
-  "ArtistBio": "French, 1908\u20132004", 
-  "CreditLine": "Gift of the photographer", 
+  "ArtistBio": "(French, 1908\u20132004)", 
+  "DateAcquired": "1947-10-16", 
+  "\ufeffTitle": "Coronation of King George VI, London", 
   "ObjectID": "49923"
 }

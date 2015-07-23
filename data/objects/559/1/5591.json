@@ -5,8 +5,7 @@
   "Artist": "Wes Wilson (Robert Wesley Wilson)", 
   "URL": "http://www.moma.org/collection/works/5591", 
   "CuratorApproved": "Y", 
-  "Title": "From England, The Mindbenders, The Chocoate Watch Band", 
-  "DateAcquired": "1968-03-07", 
+  "CreditLine": "Purchase", 
   "Date": "1966", 
   "ArtistID": 8265, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "185.1968", 
-  "ArtistBio": "American, born 1937", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, born 1937)", 
+  "DateAcquired": "1968-03-07", 
+  "\ufeffTitle": "From England, The Mindbenders, The Chocoate Watch Band", 
   "ObjectID": "5591"
 }

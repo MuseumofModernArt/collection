@@ -5,8 +5,7 @@
   "Artist": "Franciszek Starowieyski", 
   "URL": "http://www.moma.org/collection/works/6946", 
   "CuratorApproved": "Y", 
-  "Title": "Trzema Krzyzykami", 
-  "DateAcquired": "1985-11-18", 
+  "CreditLine": "Poster Fund", 
   "Date": "1978", 
   "ArtistID": 5607, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "438.1985", 
-  "ArtistBio": "Polish, 1930\u20132009", 
-  "CreditLine": "Poster Fund", 
+  "ArtistBio": "(Polish, 1930\u20132009)", 
+  "DateAcquired": "1985-11-18", 
+  "\ufeffTitle": "Trzema Krzyzykami", 
   "ObjectID": "6946"
 }

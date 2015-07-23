@@ -1,12 +1,11 @@
 {
   "Medium": "Screenprint", 
-  "Dimensions": "composition  29 1/2 x 38 3/8\" (74.9 x 97.5 cm)  sheet  29 1/2 x 38 3/8\" (74.9 x 97.5 cm)", 
+  "Dimensions": "composition  29 1/2 x 38 3/8\" (74.9 x 97.5 cm)\r\nsheet  29 1/2 x 38 3/8\" (74.9 x 97.5 cm)", 
   "Classification": "Print", 
   "Artist": "Jennifer Bartlett", 
   "URL": "http://www.moma.org/collection/works/64625", 
   "CuratorApproved": "Y", 
-  "Title": "In the Garden #118", 
-  "DateAcquired": "1982-10-26", 
+  "CreditLine": "Gift of Mrs. Constantine Sidamon-Eristoff", 
   "Date": "1982", 
   "ArtistID": 357, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "219.1982", 
-  "ArtistBio": "American, born 1941", 
-  "CreditLine": "Gift of Mrs. Constantine Sidamon-Eristoff", 
+  "ArtistBio": "(American, born 1941)", 
+  "DateAcquired": "1982-10-26", 
+  "\ufeffTitle": "In the Garden #118", 
   "ObjectID": "64625"
 }

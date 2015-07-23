@@ -5,8 +5,7 @@
   "Artist": "Walker Evans", 
   "URL": "http://www.moma.org/collection/works/52515", 
   "CuratorApproved": "Y", 
-  "Title": "Kitchen Wall, Alabama Farmstead", 
-  "DateAcquired": "1956-10-25", 
+  "CreditLine": "Purchase", 
   "Date": "1936", 
   "ArtistID": 1777, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "396.1956", 
-  "ArtistBio": "American, 1903\u20131975", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, 1903\u20131975)", 
+  "DateAcquired": "1956-10-25", 
+  "\ufeffTitle": "Kitchen Wall, Alabama Farmstead", 
   "ObjectID": "52515"
 }

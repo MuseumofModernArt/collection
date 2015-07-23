@@ -5,8 +5,7 @@
   "Artist": "Lyonel Feininger", 
   "URL": "http://www.moma.org/collection/works/68289", 
   "CuratorApproved": "Y", 
-  "Title": "Marine, I", 
-  "DateAcquired": "1956-03-19", 
+  "CreditLine": "Gift of the artist and his wife", 
   "Date": "1911", 
   "ArtistID": 1832, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "389.1955", 
-  "ArtistBio": "American, 1871\u20131956", 
-  "CreditLine": "Gift of the artist and his wife", 
+  "ArtistBio": "(American, 1871\u20131956)", 
+  "DateAcquired": "1956-03-19", 
+  "\ufeffTitle": "Marine, I", 
   "ObjectID": "68289"
 }

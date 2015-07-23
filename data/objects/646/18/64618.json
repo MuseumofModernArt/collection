@@ -5,8 +5,7 @@
   "Artist": "Pierre Bonnard", 
   "URL": "http://www.moma.org/collection/works/64618", 
   "CuratorApproved": "Y", 
-  "Title": "The Loge", 
-  "DateAcquired": "1952-01-17", 
+  "CreditLine": "", 
   "Date": "(1898)", 
   "ArtistID": 665, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "219.1952.2", 
-  "ArtistBio": "French, 1867\u20131947", 
-  "CreditLine": "NULL", 
+  "ArtistBio": "(French, 1867\u20131947)", 
+  "DateAcquired": "1952-01-17", 
+  "\ufeffTitle": "The Loge", 
   "ObjectID": "64618"
 }

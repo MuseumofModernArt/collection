@@ -5,8 +5,7 @@
   "Artist": "Carroll Dunham", 
   "URL": "http://www.moma.org/collection/works/36953", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1986-12-22", 
+  "CreditLine": "Gift of The Louis and Bessie Adler Foundation, Inc., Seymour M. Klein, President", 
   "Date": "1985", 
   "ArtistID": 1652, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "446.1986", 
-  "ArtistBio": "American, born 1949", 
-  "CreditLine": "Gift of The Louis and Bessie Adler Foundation, Inc., Seymour M. Klein, President", 
+  "ArtistBio": "(American, born 1949)", 
+  "DateAcquired": "1986-12-22", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "36953"
 }

@@ -5,8 +5,7 @@
   "Artist": "Robert Rauschenberg", 
   "URL": "http://www.moma.org/collection/works/65048", 
   "CuratorApproved": "Y", 
-  "Title": "Glint", 
-  "DateAcquired": "1984-10-02", 
+  "CreditLine": "Gift of Emily Landau", 
   "Date": "1984", 
   "ArtistID": 4823, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "241.1984", 
-  "ArtistBio": "American, 1925\u20132008", 
-  "CreditLine": "Gift of Emily Landau", 
+  "ArtistBio": "(American, 1925\u20132008)", 
+  "DateAcquired": "1984-10-02", 
+  "\ufeffTitle": "Glint", 
   "ObjectID": "65048"
 }

@@ -1,12 +1,11 @@
 {
   "Medium": "Hand-blown clear crystal", 
-  "Dimensions": ".1: 8 1/2 x 3 1/8\" (21.6 x 7.9 cm)  .2: 7 1/4 x 3\" (18.4 x 7.6 cm)", 
+  "Dimensions": ".1: 8 1/2 x 3 1/8\" (21.6 x 7.9 cm)\r\n.2: 7 1/4 x 3\" (18.4 x 7.6 cm)", 
   "Classification": "A&D Design", 
   "Artist": "Compagnie des Cristalleries de Baccarat, Paris", 
   "URL": "http://www.moma.org/collection/works/2735", 
   "CuratorApproved": "Y", 
-  "Title": "Champagne Glasses", 
-  "DateAcquired": "1957-10-09", 
+  "CreditLine": "Gift of Baccarat & Porthault, Inc.", 
   "Date": "1880", 
   "Keywords": [
     "online art collection", 
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "217.1957.1-2", 
-  "ArtistBio": "French, established 1765", 
-  "CreditLine": "Gift of Baccarat & Porthault, Inc.", 
+  "ArtistBio": "(French, established 1765)", 
+  "DateAcquired": "1957-10-09", 
+  "\ufeffTitle": "Champagne Glasses", 
   "ObjectID": "2735"
 }

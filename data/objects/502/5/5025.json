@@ -5,8 +5,7 @@
   "Artist": "Alexey Brodovitch", 
   "URL": "http://www.moma.org/collection/works/5025", 
   "CuratorApproved": "Y", 
-  "Title": "Libertad de Palabra, Una de las Cuatro Libertades por las que Luchan los Aliados", 
-  "DateAcquired": "1944-05-02", 
+  "CreditLine": "Gift of the Coordinator of Inter-American Affairs", 
   "Date": "1942", 
   "ArtistID": 788, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "91.1944", 
-  "ArtistBio": "American, born Russia. 1898\u20131971", 
-  "CreditLine": "Gift of the Coordinator of Inter-American Affairs", 
+  "ArtistBio": "(American, born Russia. 1898\u20131971)", 
+  "DateAcquired": "1944-05-02", 
+  "\ufeffTitle": "Libertad de Palabra, Una de las Cuatro Libertades por las que Luchan los Aliados", 
   "ObjectID": "5025"
 }

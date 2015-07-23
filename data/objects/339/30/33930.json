@@ -5,8 +5,7 @@
   "Artist": "Barry Le Va", 
   "URL": "http://www.moma.org/collection/works/33930", 
   "CuratorApproved": "Y", 
-  "Title": "Strips, Sheets, Particles", 
-  "DateAcquired": "1971-03-30", 
+  "CreditLine": "Philip Johnson Fund", 
   "Date": "1967-68", 
   "ArtistID": 3435, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "101.1971", 
-  "ArtistBio": "American, born 1941", 
-  "CreditLine": "Philip Johnson Fund", 
+  "ArtistBio": "(American, born 1941)", 
+  "DateAcquired": "1971-03-30", 
+  "\ufeffTitle": "Strips, Sheets, Particles", 
   "ObjectID": "33930"
 }

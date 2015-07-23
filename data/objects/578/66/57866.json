@@ -5,8 +5,7 @@
   "Artist": "Gertrude K\u00e4sebier", 
   "URL": "http://www.moma.org/collection/works/57866", 
   "CuratorApproved": "Y", 
-  "Title": "The Bride", 
-  "DateAcquired": "1964-11-10", 
+  "CreditLine": "Gift of Mrs. Hermine M. Turner", 
   "Date": "1905", 
   "ArtistID": 3008, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "1200.1964", 
-  "ArtistBio": "American, 1852\u20131934", 
-  "CreditLine": "Gift of Mrs. Hermine M. Turner", 
+  "ArtistBio": "(American, 1852\u20131934)", 
+  "DateAcquired": "1964-11-10", 
+  "\ufeffTitle": "The Bride", 
   "ObjectID": "57866"
 }

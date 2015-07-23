@@ -1,12 +1,11 @@
 {
   "Medium": "Melamine", 
-  "Dimensions": ".1 (plate): 11 x 7 x 1 3/4\" (27.9 x 17.8 x 4.4 cm)  .2 (mug): 5 x 2 3/4\" (12.7 x 7 cm)", 
+  "Dimensions": ".1 (plate): 11 x 7 x 1 3/4\" (27.9 x 17.8 x 4.4 cm)\r\n.2 (mug): 5 x 2 3/4\" (12.7 x 7 cm)", 
   "Classification": "A&D Design", 
   "Artist": "Russell Manoy", 
   "URL": "http://www.moma.org/collection/works/2557", 
   "CuratorApproved": "Y", 
-  "Title": "Mug and Plate", 
-  "DateAcquired": "1988-04-27", 
+  "CreditLine": "Friends of the Department Fund", 
   "Date": "1966-1967", 
   "ArtistID": 3735, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "147.1988.1-2", 
-  "ArtistBio": "British, born 1945", 
-  "CreditLine": "Friends of the Department Fund", 
+  "ArtistBio": "(British, born 1945)", 
+  "DateAcquired": "1988-04-27", 
+  "\ufeffTitle": "Mug and Plate", 
   "ObjectID": "2557"
 }

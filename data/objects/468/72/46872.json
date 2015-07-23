@@ -5,8 +5,7 @@
   "Artist": "Jack Delano", 
   "URL": "http://www.moma.org/collection/works/46872", 
   "CuratorApproved": "Y", 
-  "Title": "In the home of Steve Dino, Italian FSA client near Canterbury, Connecticut. His mother sells hooked rugs to suppliment their farm income", 
-  "DateAcquired": "1959-04-22", 
+  "CreditLine": "Gift of the Farm Security Administration", 
   "Date": "1940", 
   "ArtistID": 1475, 
   "Keywords": [
@@ -20,7 +19,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "146.1959", 
-  "ArtistBio": "American, born Russia. 1914\u20131997", 
-  "CreditLine": "Gift of the Farm Security Administration", 
+  "ArtistBio": "(American, born Russia. 1914\u20131997)", 
+  "DateAcquired": "1959-04-22", 
+  "\ufeffTitle": "In the home of Steve Dino, Italian FSA client near Canterbury, Connecticut. His mother sells hooked rugs to suppliment their farm income", 
   "ObjectID": "46872"
 }

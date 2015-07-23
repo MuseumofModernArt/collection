@@ -5,8 +5,7 @@
   "Artist": "Hedda Beese", 
   "URL": "http://www.moma.org/collection/works/2106", 
   "CuratorApproved": "Y", 
-  "Title": "Portable Solar Lantern (model SL 48)", 
-  "DateAcquired": "1989-05-16", 
+  "CreditLine": "Emilio Ambasz Fund", 
   "Date": "1985", 
   "ArtistID": 436, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "100.1989", 
-  "ArtistBio": "German, born 1944", 
-  "CreditLine": "Emilio Ambasz Fund", 
+  "ArtistBio": "(German, born 1944)", 
+  "DateAcquired": "1989-05-16", 
+  "\ufeffTitle": "Portable Solar Lantern (model SL 48)", 
   "ObjectID": "2106"
 }

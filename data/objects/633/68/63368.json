@@ -5,8 +5,7 @@
   "Artist": "Diego Rivera", 
   "URL": "http://www.moma.org/collection/works/63368", 
   "CuratorApproved": "Y", 
-  "Title": "The Communicating Vessels", 
-  "DateAcquired": "1987-05-14", 
+  "CreditLine": "Gift of Nelson Blitz, Jr.", 
   "Date": "(1938)", 
   "ArtistID": 4942, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "163.1987", 
-  "ArtistBio": "Mexican, 1886\u20131957", 
-  "CreditLine": "Gift of Nelson Blitz, Jr.", 
+  "ArtistBio": "(Mexican, 1886\u20131957)", 
+  "DateAcquired": "1987-05-14", 
+  "\ufeffTitle": "The Communicating Vessels", 
   "ObjectID": "63368"
 }

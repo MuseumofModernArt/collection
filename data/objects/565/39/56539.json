@@ -5,8 +5,7 @@
   "Artist": "Marion Post Wolcott", 
   "URL": "http://www.moma.org/collection/works/56539", 
   "CuratorApproved": "Y", 
-  "Title": "Winter Tourists", 
-  "DateAcquired": "1978-12-14", 
+  "CreditLine": "John Parkinson III Fund", 
   "Date": "1940", 
   "ArtistID": 6426, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "816.1978", 
-  "ArtistBio": "American, 1910\u20131990", 
-  "CreditLine": "John Parkinson III Fund", 
+  "ArtistBio": "(American, 1910\u20131990)", 
+  "DateAcquired": "1978-12-14", 
+  "\ufeffTitle": "Winter Tourists", 
   "ObjectID": "56539"
 }

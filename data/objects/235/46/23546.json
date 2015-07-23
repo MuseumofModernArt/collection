@@ -5,8 +5,7 @@
   "Artist": "Lovis Corinth", 
   "URL": "http://www.moma.org/collection/works/23546", 
   "CuratorApproved": "Y", 
-  "Title": "The Servant Bagoa before the Tent of Holofernes (plate, folio 29) from Das Buch Judith (The Book of Judith)  ", 
-  "DateAcquired": "1964-10-06", 
+  "CreditLine": "", 
   "Date": "1910", 
   "ArtistID": 1243, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "766.1964.18", 
-  "ArtistBio": "German, 1858\u20131925", 
-  "CreditLine": "NULL", 
+  "ArtistBio": "(German, 1858\u20131925)", 
+  "DateAcquired": "1964-10-06", 
+  "\ufeffTitle": "The Servant Bagoa before the Tent of Holofernes (Der Diener Bagoa vor dem Zelte des Holofernes) (plate, folio 29) from Das Buch Judith (The Book of Judith)", 
   "ObjectID": "23546"
 }

@@ -5,8 +5,7 @@
   "Artist": "Reiko Sudo", 
   "URL": "http://www.moma.org/collection/works/3023", 
   "CuratorApproved": "Y", 
-  "Title": "Cracked Cloth Fabric (no. 9-146A)", 
-  "DateAcquired": "1994-05-03", 
+  "CreditLine": "Gift of the manufacturer", 
   "Date": "1993", 
   "ArtistID": 7045, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "245.1994", 
-  "ArtistBio": "Japanese, born 1953", 
-  "CreditLine": "Gift of the manufacturer", 
+  "ArtistBio": "(Japanese, born 1953)", 
+  "DateAcquired": "1994-05-03", 
+  "\ufeffTitle": "Cracked Cloth Fabric (no. 9-146A)", 
   "ObjectID": "3023"
 }

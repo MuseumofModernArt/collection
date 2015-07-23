@@ -1,12 +1,11 @@
 {
   "Medium": "Woodcut", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "Edward Wadsworth", 
   "URL": "http://www.moma.org/collection/works/64289", 
   "CuratorApproved": "Y", 
-  "Title": "Bradford: View of a Town", 
-  "DateAcquired": "1977-05-03", 
+  "CreditLine": "Jeanne C. Thayer Fund", 
   "Date": "(c. 1914)", 
   "ArtistID": 6205, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "199.1977", 
-  "ArtistBio": "British, 1889\u20131949", 
-  "CreditLine": "Jeanne C. Thayer Fund", 
+  "ArtistBio": "(British, 1889\u20131949)", 
+  "DateAcquired": "1977-05-03", 
+  "\ufeffTitle": "Bradford: View of a Town", 
   "ObjectID": "64289"
 }

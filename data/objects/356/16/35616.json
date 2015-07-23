@@ -5,8 +5,7 @@
   "Artist": "Andr\u00e9 Masson", 
   "URL": "http://www.moma.org/collection/works/35616", 
   "CuratorApproved": "Y", 
-  "Title": "Birth of Birds", 
-  "DateAcquired": "1937-12-03", 
+  "CreditLine": "Purchase", 
   "Date": "(c. 1925)", 
   "ArtistID": 3821, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "253.1937", 
-  "ArtistBio": "French, 1896\u20131987", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(French, 1896\u20131987)", 
+  "DateAcquired": "1937-12-03", 
+  "\ufeffTitle": "Birth of Birds", 
   "ObjectID": "35616"
 }

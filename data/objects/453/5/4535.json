@@ -5,8 +5,7 @@
   "Artist": "Reinhold Weiss", 
   "URL": "http://www.moma.org/collection/works/4535", 
   "CuratorApproved": "Y", 
-  "Title": "Coffee Grinder (model KMM 1)", 
-  "DateAcquired": "1965-11-09", 
+  "CreditLine": "Gift of the manufacturer", 
   "Date": "1965", 
   "ArtistID": 7147, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "906.1965", 
-  "ArtistBio": "German, born 1934", 
-  "CreditLine": "Gift of the manufacturer", 
+  "ArtistBio": "(German, born 1934)", 
+  "DateAcquired": "1965-11-09", 
+  "\ufeffTitle": "Coffee Grinder (model KMM 1)", 
   "ObjectID": "4535"
 }

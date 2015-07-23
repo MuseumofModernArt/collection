@@ -5,8 +5,7 @@
   "Artist": "Eduardo Paolozzi", 
   "URL": "http://www.moma.org/collection/works/34711", 
   "CuratorApproved": "Y", 
-  "Title": "Dr. Dekker's Entrance Hall", 
-  "DateAcquired": "1978-04-04", 
+  "CreditLine": "The Joan and Lester Avnet Collection", 
   "Date": "(c. 1961)", 
   "ArtistID": 4488, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "143.1978", 
-  "ArtistBio": "British, 1924\u20132005", 
-  "CreditLine": "The Joan and Lester Avnet Collection", 
+  "ArtistBio": "(British, 1924\u20132005)", 
+  "DateAcquired": "1978-04-04", 
+  "\ufeffTitle": "Dr. Dekker's Entrance Hall", 
   "ObjectID": "34711"
 }

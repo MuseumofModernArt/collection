@@ -1,12 +1,11 @@
 {
   "Medium": "Glass and gold", 
-  "Dimensions": ".1 (white wine glass): 7 1/2 x 2 15/16\" (19 x 7.5 cm)  .2 (champagne glass): 6 5/8 x 3\" (16.9 x 7.6 cm)  .3 (red wine glass): 6 1/16 x 2 15/16\" (15.4 x 7.5 cm)  .4 (liqueur glass): 3 11/16 x 1 15/16\" (9.4 x 4.9 cm)", 
+  "Dimensions": ".1 (white wine glass): 7 1/2 x 2 15/16\" (19 x 7.5 cm)\r\n.2 (champagne glass): 6 5/8 x 3\" (16.9 x 7.6 cm)\r\n.3 (red wine glass): 6 1/16 x 2 15/16\" (15.4 x 7.5 cm)\r\n.4 (liqueur glass): 3 11/16 x 1 15/16\" (9.4 x 4.9 cm)", 
   "Classification": "A&D Design", 
   "Artist": "Peter Behrens", 
   "URL": "http://www.moma.org/collection/works/3341", 
   "CuratorApproved": "Y", 
-  "Title": "Glasses", 
-  "DateAcquired": "1961-11-08", 
+  "CreditLine": "Philip Johnson Fund", 
   "Date": "c. 1900-1902", 
   "ArtistID": 438, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "343.1961.1-4", 
-  "ArtistBio": "German, 1868\u20131940", 
-  "CreditLine": "Philip Johnson Fund", 
+  "ArtistBio": "(German, 1868\u20131940)", 
+  "DateAcquired": "1961-11-08", 
+  "\ufeffTitle": "Glasses", 
   "ObjectID": "3341"
 }

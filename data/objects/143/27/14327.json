@@ -5,8 +5,7 @@
   "Artist": "Henri Michaux", 
   "URL": "http://www.moma.org/collection/works/14327", 
   "CuratorApproved": "Y", 
-  "Title": "Hors de la Colline", 
-  "DateAcquired": "1984-10-02", 
+  "CreditLine": "Mary Ellen Meehan Fund", 
   "Date": "(1983)", 
   "ArtistID": 3963, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "256.1984.1-15", 
-  "ArtistBio": "French, born Belgium. 1899\u20131984", 
-  "CreditLine": "Mary Ellen Meehan Fund", 
+  "ArtistBio": "(French, born Belgium. 1899\u20131984)", 
+  "DateAcquired": "1984-10-02", 
+  "\ufeffTitle": "Hors de la Colline", 
   "ObjectID": "14327"
 }

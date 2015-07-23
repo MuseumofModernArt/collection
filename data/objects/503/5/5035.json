@@ -5,8 +5,7 @@
   "Artist": "Hanns Herkendell", 
   "URL": "http://www.moma.org/collection/works/5035", 
   "CuratorApproved": "Y", 
-  "Title": "Deutsche Kunst", 
-  "DateAcquired": "1944-05-02", 
+  "CreditLine": "Given anonymously", 
   "Date": "1928", 
   "ArtistID": 2608, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "93.1944", 
-  "ArtistBio": "German", 
-  "CreditLine": "Given anonymously", 
+  "ArtistBio": "(German)", 
+  "DateAcquired": "1944-05-02", 
+  "\ufeffTitle": "Deutsche Kunst", 
   "ObjectID": "5035"
 }

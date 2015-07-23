@@ -5,8 +5,7 @@
   "Artist": "Odilon Redon", 
   "URL": "http://www.moma.org/collection/works/35992", 
   "CuratorApproved": "Y", 
-  "Title": "Head of Orpheus", 
-  "DateAcquired": "2000-05-17", 
+  "CreditLine": "Gift of The Ian Woodner Family Collection", 
   "Date": "(c. 1881)", 
   "ArtistID": 4840, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "285.2000", 
-  "ArtistBio": "French, 1840\u20131916", 
-  "CreditLine": "Gift of The Ian Woodner Family Collection", 
+  "ArtistBio": "(French, 1840\u20131916)", 
+  "DateAcquired": "2000-05-17", 
+  "\ufeffTitle": "Head of Orpheus", 
   "ObjectID": "35992"
 }

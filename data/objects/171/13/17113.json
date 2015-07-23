@@ -1,12 +1,11 @@
 {
   "Medium": "Journal", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Illustrated Book", 
   "Artist": "Various Artists", 
   "URL": "http://www.moma.org/collection/works/17113", 
   "CuratorApproved": "Y", 
-  "Title": "Parkett no. 56", 
-  "DateAcquired": "1999-11-18", 
+  "CreditLine": "Gift of Parkett", 
   "Date": "1999", 
   "ArtistID": 6104, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "428.1999.2.x1-x2", 
-  "ArtistBio": "Various", 
-  "CreditLine": "Gift of Parkett", 
+  "ArtistBio": "(Various)", 
+  "DateAcquired": "1999-11-18", 
+  "\ufeffTitle": "Parkett no. 56", 
   "ObjectID": "17113"
 }

@@ -5,8 +5,7 @@
   "Artist": "Henri de Toulouse-Lautrec", 
   "URL": "http://www.moma.org/collection/works/63650", 
   "CuratorApproved": "Y", 
-  "Title": "Mary Hamilton from The Album of Original Lithographs (Album de lithographies originales)", 
-  "DateAcquired": "1949-03-24", 
+  "CreditLine": "Purchase Fund", 
   "Date": "1894, published 1925", 
   "ArtistID": 5910, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "175.1949.3", 
-  "ArtistBio": "French, 1864\u20131901", 
-  "CreditLine": "Purchase Fund", 
+  "ArtistBio": "(French, 1864\u20131901)", 
+  "DateAcquired": "1949-03-24", 
+  "\ufeffTitle": "Mary Hamilton from  Album de lithographies originales (The Album of Original Lithographs)", 
   "ObjectID": "63650"
 }

@@ -5,8 +5,7 @@
   "Artist": "Charles Sheeler", 
   "URL": "http://www.moma.org/collection/works/48960", 
   "CuratorApproved": "Y", 
-  "Title": "Boulder Dam", 
-  "DateAcquired": "1941-01-16", 
+  "CreditLine": "Anonymous gift", 
   "Date": "1939", 
   "ArtistID": 5383, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "223.1941", 
-  "ArtistBio": "American, 1883\u20131965", 
-  "CreditLine": "Anonymous gift", 
+  "ArtistBio": "(American, 1883\u20131965)", 
+  "DateAcquired": "1941-01-16", 
+  "\ufeffTitle": "Boulder Dam", 
   "ObjectID": "48960"
 }

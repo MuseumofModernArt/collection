@@ -5,8 +5,7 @@
   "Artist": "Christian Rohlfs", 
   "URL": "http://www.moma.org/collection/works/66341", 
   "CuratorApproved": "Y", 
-  "Title": "Street in Soest", 
-  "DateAcquired": "1952-11-07", 
+  "CreditLine": "Larry Aldrich Fund", 
   "Date": "(1911, published 1918)", 
   "ArtistID": 5000, 
   "Keywords": [
@@ -22,7 +21,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "296.1952", 
-  "ArtistBio": "German, 1849\u20131938", 
-  "CreditLine": "Larry Aldrich Fund", 
+  "ArtistBio": "(German, 1849\u20131938)", 
+  "DateAcquired": "1952-11-07", 
+  "\ufeffTitle": "Street in Soest (Strasse in Soest) from the periodical in portfolio form Die Schaffenden, vol. 1, no. 1", 
   "ObjectID": "66341"
 }

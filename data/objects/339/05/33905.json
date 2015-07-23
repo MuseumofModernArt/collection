@@ -5,8 +5,7 @@
   "Artist": "Per Krohg", 
   "URL": "http://www.moma.org/collection/works/33905", 
   "CuratorApproved": "Y", 
-  "Title": "Rain", 
-  "DateAcquired": "1935-06-14", 
+  "CreditLine": "Given anonymously", 
   "Date": "(Before 1933)", 
   "ArtistID": 3259, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "99.1935", 
-  "ArtistBio": "Norwegian, 1889\u20131965", 
-  "CreditLine": "Given anonymously", 
+  "ArtistBio": "(Norwegian, 1889\u20131965)", 
+  "DateAcquired": "1935-06-14", 
+  "\ufeffTitle": "Rain", 
   "ObjectID": "33905"
 }

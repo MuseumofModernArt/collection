@@ -5,8 +5,7 @@
   "Artist": "Lee Friedlander", 
   "URL": "http://www.moma.org/collection/works/50986", 
   "CuratorApproved": "Y", 
-  "Title": "Idaho", 
-  "DateAcquired": "1992-06-18", 
+  "CreditLine": "Gift of Lilyan and Toby Miller", 
   "Date": "1974", 
   "ArtistID": 2002, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "331.1992", 
-  "ArtistBio": "American, born 1934", 
-  "CreditLine": "Gift of Lilyan and Toby Miller", 
+  "ArtistBio": "(American, born 1934)", 
+  "DateAcquired": "1992-06-18", 
+  "\ufeffTitle": "Idaho", 
   "ObjectID": "50986"
 }

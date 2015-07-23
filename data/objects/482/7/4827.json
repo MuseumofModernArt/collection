@@ -5,8 +5,7 @@
   "Artist": "Herbert Bayer", 
   "URL": "http://www.moma.org/collection/works/4827", 
   "CuratorApproved": "Y", 
-  "Title": "Olivetti", 
-  "DateAcquired": "1960-04-06", 
+  "CreditLine": "Gift of the designer", 
   "Date": "1959", 
   "ArtistID": 399, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "39.1960", 
-  "ArtistBio": "American, born Austria. 1900\u20131985", 
-  "CreditLine": "Gift of the designer", 
+  "ArtistBio": "(American, born Austria. 1900\u20131985)", 
+  "DateAcquired": "1960-04-06", 
+  "\ufeffTitle": "Olivetti", 
   "ObjectID": "4827"
 }

@@ -5,8 +5,7 @@
   "Artist": "Constantin Brancusi", 
   "URL": "http://www.moma.org/collection/works/57185", 
   "CuratorApproved": "Y", 
-  "Title": "The Artist's Studio", 
-  "DateAcquired": "1996-12-10", 
+  "CreditLine": "Gift of Elizabeth Lorentz", 
   "Date": "1922", 
   "ArtistID": 738, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "865.1996", 
-  "ArtistBio": "French, born Romania. 1876\u20131957", 
-  "CreditLine": "Gift of Elizabeth Lorentz", 
+  "ArtistBio": "(French, born Romania. 1876\u20131957)", 
+  "DateAcquired": "1996-12-10", 
+  "\ufeffTitle": "The Artist's Studio", 
   "ObjectID": "57185"
 }

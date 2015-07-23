@@ -1,12 +1,11 @@
 {
   "Medium": "One from a portfolio of twenty screenprints", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "Marko Spalatin", 
   "URL": "http://www.moma.org/collection/works/64200", 
   "CuratorApproved": "Y", 
-  "Title": "EARTH from the portfolio LUMEN SERIES", 
-  "DateAcquired": "1970-05-12", 
+  "CreditLine": "John B. Turner Fund", 
   "Date": "1970", 
   "ArtistID": 5553, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "196.1970.13", 
-  "ArtistBio": "American, born 1945", 
-  "CreditLine": "John B. Turner Fund", 
+  "ArtistBio": "(American, born 1945)", 
+  "DateAcquired": "1970-05-12", 
+  "\ufeffTitle": "Earth from Lumen Series", 
   "ObjectID": "64200"
 }

@@ -1,12 +1,11 @@
 {
   "Medium": "Portfolio of twelve lithographs", 
-  "Dimensions": "irreg. sheet  19 5/16 x 13 3/4\" (49 x 35 cm)  text page  25 1/4 x 17 3/8\" (64 x 44.2 cm)  Prints:  various dimensions.", 
+  "Dimensions": "irreg. sheet  19 5/16 x 13 3/4\" (49 x 35 cm)\r\ntext page  25 1/4 x 17 3/8\" (64 x 44.2 cm)\r\nPrints:  various dimensions.", 
   "Classification": "Print", 
   "Artist": "Oskar Kokoschka", 
   "URL": "http://www.moma.org/collection/works/10594", 
   "CuratorApproved": "Y", 
-  "Title": "The Bound Columbus (Der gefesselte Columbus)", 
-  "DateAcquired": "1952-05-01", 
+  "CreditLine": "Purchase Fund", 
   "Date": "1916 (executed 1913)", 
   "ArtistID": 3197, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "37.1951.1-12", 
-  "ArtistBio": "Austrian, 1886\u20131980", 
-  "CreditLine": "Purchase Fund", 
+  "ArtistBio": "(Austrian, 1886\u20131980)", 
+  "DateAcquired": "1952-05-01", 
+  "\ufeffTitle": "The Bound Columbus (Der gefesselte Columbus)", 
   "ObjectID": "10594"
 }

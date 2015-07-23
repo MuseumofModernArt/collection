@@ -5,8 +5,7 @@
   "Artist": "Robert Ryman", 
   "URL": "http://www.moma.org/collection/works/66578", 
   "CuratorApproved": "Y", 
-  "Title": "Seven Aquatints", 
-  "DateAcquired": "1972-10-05", 
+  "CreditLine": "John B. Turner Fund", 
   "Date": "1972", 
   "ArtistID": 5098, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "307.1972.1-7", 
-  "ArtistBio": "American, born 1930", 
-  "CreditLine": "John B. Turner Fund", 
+  "ArtistBio": "(American, born 1930)", 
+  "DateAcquired": "1972-10-05", 
+  "\ufeffTitle": "Seven Aquatints", 
   "ObjectID": "66578"
 }

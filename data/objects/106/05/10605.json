@@ -5,8 +5,7 @@
   "Artist": "Oskar Kokoschka", 
   "URL": "http://www.moma.org/collection/works/10605", 
   "CuratorApproved": "Y", 
-  "Title": "Encounter (plate 9) from The Bound Columbus (Der gefesselte Columbus)", 
-  "DateAcquired": "1952-05-01", 
+  "CreditLine": "Purchase Fund", 
   "Date": "1916 (executed 1913)", 
   "ArtistID": 3197, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "37.1951.9", 
-  "ArtistBio": "Austrian, 1886\u20131980", 
-  "CreditLine": "Purchase Fund", 
+  "ArtistBio": "(Austrian, 1886\u20131980)", 
+  "DateAcquired": "1952-05-01", 
+  "\ufeffTitle": "Encounter (Begegnung) (plate 9) from The Bound Columbus (Der gefesselte Columbus)", 
   "ObjectID": "10605"
 }

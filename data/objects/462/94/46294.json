@@ -1,16 +1,16 @@
 {
   "Medium": "Photograph", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Photograph", 
   "Artist": "Homer Page", 
   "URL": "", 
   "CuratorApproved": "N", 
-  "Title": "(Man trying to open door)", 
-  "DateAcquired": "1964-01-07", 
+  "CreditLine": "Purchase", 
   "Date": "1900-64", 
   "Department": "Photography", 
   "MoMANumber": "103.1964", 
-  "ArtistBio": "American, 1918\u20131985", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, 1918\u20131985)", 
+  "DateAcquired": "1964-01-07", 
+  "\ufeffTitle": "(Man trying to open door)", 
   "ObjectID": "46294"
 }

@@ -5,8 +5,7 @@
   "Artist": "Mario Bellini", 
   "URL": "http://www.moma.org/collection/works/3982", 
   "CuratorApproved": "Y", 
-  "Title": "Cab Side Chair", 
-  "DateAcquired": "1978-09-27", 
+  "CreditLine": "Gift of the manufacturer", 
   "Date": "1976", 
   "ArtistID": 451, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "475.1978", 
-  "ArtistBio": "Italian, born 1935", 
-  "CreditLine": "Gift of the manufacturer", 
+  "ArtistBio": "(Italian, born 1935)", 
+  "DateAcquired": "1978-09-27", 
+  "\ufeffTitle": "Cab Side Chair", 
   "ObjectID": "3982"
 }

@@ -5,8 +5,7 @@
   "Artist": "Robert Ryman", 
   "URL": "http://www.moma.org/collection/works/38432", 
   "CuratorApproved": "Y", 
-  "Title": "Eagle Turquoise 7H#4", 
-  "DateAcquired": "1983-01-01", 
+  "CreditLine": "Ruth Vollmer Bequest", 
   "Date": "1966", 
   "ArtistID": 5098, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "1116.1983", 
-  "ArtistBio": "American, born 1930", 
-  "CreditLine": "Ruth Vollmer Bequest", 
+  "ArtistBio": "(American, born 1930)", 
+  "DateAcquired": "1983-01-01", 
+  "\ufeffTitle": "Eagle Turquoise 7H#4", 
   "ObjectID": "38432"
 }

@@ -5,8 +5,7 @@
   "Artist": "Don Nice", 
   "URL": "http://www.moma.org/collection/works/63785", 
   "CuratorApproved": "Y", 
-  "Title": "Big Coke", 
-  "DateAcquired": "1973-05-07", 
+  "CreditLine": "Gift of Parasol Press, Ltd.", 
   "Date": "(1972)", 
   "ArtistID": 4290, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "179.1973", 
-  "ArtistBio": "American, born 1932", 
-  "CreditLine": "Gift of Parasol Press, Ltd.", 
+  "ArtistBio": "(American, born 1932)", 
+  "DateAcquired": "1973-05-07", 
+  "\ufeffTitle": "Big Coke", 
   "ObjectID": "63785"
 }

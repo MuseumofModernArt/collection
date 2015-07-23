@@ -5,8 +5,7 @@
   "Artist": "Russel Wright", 
   "URL": "http://www.moma.org/collection/works/2569", 
   "CuratorApproved": "Y", 
-  "Title": "Armchair with Adjustable Back", 
-  "DateAcquired": "1958-12-04", 
+  "CreditLine": "Purchase fund", 
   "Date": "1932", 
   "ArtistID": 6460, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "150.1958", 
-  "ArtistBio": "American, 1904\u20131976", 
-  "CreditLine": "Purchase fund", 
+  "ArtistBio": "(American, 1904\u20131976)", 
+  "DateAcquired": "1958-12-04", 
+  "\ufeffTitle": "Armchair with Adjustable Back", 
   "ObjectID": "2569"
 }

@@ -1,12 +1,11 @@
 {
   "Medium": "Glazed majolica", 
-  "Dimensions": ".a (cup): 2 x 4\" (5.1 x 10.2 cm)  .b (saucer): 3/4 x 4 5/8\" (1.9 x 11.8 cm)", 
+  "Dimensions": ".a (cup): 2 x 4\" (5.1 x 10.2 cm)\r\n.b (saucer): 3/4 x 4 5/8\" (1.9 x 11.8 cm)", 
   "Classification": "A&D Design", 
   "Artist": "Fausto Melotti", 
   "URL": "http://www.moma.org/collection/works/1826", 
   "CuratorApproved": "Y", 
-  "Title": "Cup and Saucer", 
-  "DateAcquired": "1948-03-17", 
+  "CreditLine": "Gift of Edgar Kaufmann, Jr.", 
   "Date": "c. 1947", 
   "ArtistID": 3921, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "48.1948.a-b", 
-  "ArtistBio": "Italian, 1901\u20131986", 
-  "CreditLine": "Gift of Edgar Kaufmann, Jr.", 
+  "ArtistBio": "(Italian, 1901\u20131986)", 
+  "DateAcquired": "1948-03-17", 
+  "\ufeffTitle": "Cup and Saucer", 
   "ObjectID": "1826"
 }

@@ -5,8 +5,7 @@
   "Artist": "Vallauris", 
   "URL": "http://www.moma.org/collection/works/3010", 
   "CuratorApproved": "Y", 
-  "Title": "Sugar Bowl", 
-  "DateAcquired": "1953-04-07", 
+  "CreditLine": "Gift of Greta Daniel", 
   "Date": "Before 1953", 
   "ArtistID": 6061, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "244.1953", 
-  "ArtistBio": "French", 
-  "CreditLine": "Gift of Greta Daniel", 
+  "ArtistBio": "(French)", 
+  "DateAcquired": "1953-04-07", 
+  "\ufeffTitle": "Sugar Bowl", 
   "ObjectID": "3010"
 }

@@ -5,8 +5,7 @@
   "Artist": "Robert Walker/The New York Times", 
   "URL": "http://www.moma.org/collection/works/58824", 
   "CuratorApproved": "Y", 
-  "Title": "City Trying Rubber Paving", 
-  "DateAcquired": "2001-06-14", 
+  "CreditLine": "The New York Times Collection", 
   "Date": "July 9, 1953", 
   "ArtistID": 8641, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "2231.2001", 
-  "ArtistBio": "American, 1926\u20131979", 
-  "CreditLine": "The New York Times Collection", 
+  "ArtistBio": "(American, 1926\u20131979)", 
+  "DateAcquired": "2001-06-14", 
+  "\ufeffTitle": "City Trying Rubber Paving", 
   "ObjectID": "58824"
 }

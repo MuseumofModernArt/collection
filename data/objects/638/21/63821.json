@@ -1,12 +1,11 @@
 {
   "Medium": "Lithograph", 
-  "Dimensions": "composition  36 1/2 x 25 1/2\" (92.7 x 64.7 cm)  sheet  39 1/8 x 27 1/4\" (99 x 69.2 cm)", 
+  "Dimensions": "composition  36 1/2 x 25 1/2\" (92.7 x 64.7 cm)\r\nsheet  39 1/8 x 27 1/4\" (99 x 69.2 cm)", 
   "Classification": "Print", 
   "Artist": "Arnulf Rainer", 
   "URL": "http://www.moma.org/collection/works/63821", 
   "CuratorApproved": "Y", 
-  "Title": "THE FLY EATER (Der Fliegenesser)", 
-  "DateAcquired": "1999-05-20", 
+  "CreditLine": "Johanna and Leslie J. Garfield Fund", 
   "Date": "1966", 
   "ArtistID": 4792, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "180.1999", 
-  "ArtistBio": "Austrian, born 1929", 
-  "CreditLine": "Johanna and Leslie J. Garfield Fund", 
+  "ArtistBio": "(Austrian, born 1929)", 
+  "DateAcquired": "1999-05-20", 
+  "\ufeffTitle": "The Fly Eater", 
   "ObjectID": "63821"
 }

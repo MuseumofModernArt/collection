@@ -5,8 +5,7 @@
   "Artist": "Walter Pichler", 
   "URL": "http://www.moma.org/collection/works/840", 
   "CuratorApproved": "Y", 
-  "Title": "Large Figure with an Organ Project  Axonometric", 
-  "DateAcquired": "NULL", 
+  "CreditLine": "Gift of The Howard Gilman Foundation", 
   "Date": "1977", 
   "ArtistID": 4612, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "1229.2000", 
-  "ArtistBio": "Austrian, 1936\u20132012", 
-  "CreditLine": "Gift of The Howard Gilman Foundation", 
+  "ArtistBio": "(Austrian, 1936\u20132012)", 
+  "DateAcquired": "", 
+  "\ufeffTitle": "Large Figure with an Organ Project, Axonometric", 
   "ObjectID": "840"
 }

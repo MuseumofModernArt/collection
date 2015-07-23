@@ -5,8 +5,7 @@
   "Artist": "Howard Head", 
   "URL": "http://www.moma.org/collection/works/3163", 
   "CuratorApproved": "Y", 
-  "Title": "Skis", 
-  "DateAcquired": "1962-11-07", 
+  "CreditLine": "Gift of the manufacturer", 
   "Date": "1947-50", 
   "ArtistID": 2561, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "274.1962.1-2", 
-  "ArtistBio": "American, 1914\u20131991", 
-  "CreditLine": "Gift of the manufacturer", 
+  "ArtistBio": "(American, 1914\u20131991)", 
+  "DateAcquired": "1962-11-07", 
+  "\ufeffTitle": "Skis", 
   "ObjectID": "3163"
 }

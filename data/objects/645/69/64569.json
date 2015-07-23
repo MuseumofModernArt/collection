@@ -5,8 +5,7 @@
   "Artist": "Ellsworth Kelly", 
   "URL": "http://www.moma.org/collection/works/64569", 
   "CuratorApproved": "Y", 
-  "Title": "Angers from Romanesque Series", 
-  "DateAcquired": "1976-05-11", 
+  "CreditLine": "Junior Council Fund", 
   "Date": "1973-76", 
   "ArtistID": 3048, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "216.1976", 
-  "ArtistBio": "American, born 1923", 
-  "CreditLine": "Junior Council Fund", 
+  "ArtistBio": "(American, born 1923)", 
+  "DateAcquired": "1976-05-11", 
+  "\ufeffTitle": "Angers from Romanesque Series", 
   "ObjectID": "64569"
 }

@@ -5,8 +5,7 @@
   "Artist": "Henri de Toulouse-Lautrec", 
   "URL": "http://www.moma.org/collection/works/60986", 
   "CuratorApproved": "Y", 
-  "Title": "Cover for Les Courtes Joies", 
-  "DateAcquired": "1961-01-10", 
+  "CreditLine": "Gift of Emilio Sanchez", 
   "Date": "1897, published 1925", 
   "ArtistID": 5910, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "53.1961", 
-  "ArtistBio": "French, 1864\u20131901", 
-  "CreditLine": "Gift of Emilio Sanchez", 
+  "ArtistBio": "(French, 1864\u20131901)", 
+  "DateAcquired": "1961-01-10", 
+  "\ufeffTitle": "Cover for Les Courtes Joies", 
   "ObjectID": "60986"
 }

@@ -5,8 +5,7 @@
   "Artist": "Paul Graham", 
   "URL": "http://www.moma.org/collection/works/46840", 
   "CuratorApproved": "Y", 
-  "Title": "H-Block Protest, Derry, Northern Ireland", 
-  "DateAcquired": "1986-03-20", 
+  "CreditLine": "The Family of Man Fund", 
   "Date": "1984", 
   "ArtistID": 2286, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "141.1986.x1-x2", 
-  "ArtistBio": "British, born 1956", 
-  "CreditLine": "The Family of Man Fund", 
+  "ArtistBio": "(British, born 1956)", 
+  "DateAcquired": "1986-03-20", 
+  "\ufeffTitle": "H-Block Protest, Derry, Northern Ireland", 
   "ObjectID": "46840"
 }

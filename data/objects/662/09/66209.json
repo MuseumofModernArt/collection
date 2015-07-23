@@ -1,12 +1,11 @@
 {
   "Medium": "Photolithograph", 
-  "Dimensions": "Composition: 12 1/2 x 16 1/4\" (31.8 x 41.2 cm)  Sheet: 19 11/16 x 19 11/16\" (50 x 50 cm)", 
+  "Dimensions": "Composition: 12 1/2 x 16 1/4\" (31.8 x 41.2 cm)\r\nSheet: 19 11/16 x 19 11/16\" (50 x 50 cm)", 
   "Classification": "Print", 
   "Artist": "Francis Dufr\u00eane", 
   "URL": "http://www.moma.org/collection/works/66209", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled from the portfolio The New Realists (Les Nouveaux R\u00e9alistes)", 
-  "DateAcquired": "1989-10-12", 
+  "CreditLine": "Walter Thayer Bequest", 
   "Date": "1973", 
   "ArtistID": 1644, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "291.1989.5", 
-  "ArtistBio": "Nationality unknown", 
-  "CreditLine": "Walter Thayer Bequest", 
+  "ArtistBio": "(Nationality unknown)", 
+  "DateAcquired": "1989-10-12", 
+  "\ufeffTitle": "Untitled from the portfolio The New Realists (Les Nouveaux R\u00e9alistes)", 
   "ObjectID": "66209"
 }

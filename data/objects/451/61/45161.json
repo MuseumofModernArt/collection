@@ -5,8 +5,7 @@
   "Artist": "Ralph Steiner", 
   "URL": "http://www.moma.org/collection/works/45161", 
   "CuratorApproved": "Y", 
-  "Title": "Hanging Sheets", 
-  "DateAcquired": "1991-03-14", 
+  "CreditLine": "Gift of Paul F. Walter", 
   "Date": "c. 1960", 
   "ArtistID": 5631, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "57.1991", 
-  "ArtistBio": "American, 1899\u20131986", 
-  "CreditLine": "Gift of Paul F. Walter", 
+  "ArtistBio": "(American, 1899\u20131986)", 
+  "DateAcquired": "1991-03-14", 
+  "\ufeffTitle": "Hanging Sheets", 
   "ObjectID": "45161"
 }

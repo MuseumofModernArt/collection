@@ -5,8 +5,7 @@
   "Artist": "Richard Lippold", 
   "URL": "http://www.moma.org/collection/works/34719", 
   "CuratorApproved": "Y", 
-  "Title": "Study for A Universe", 
-  "DateAcquired": "1962-05-08", 
+  "CreditLine": "Gift of the artist", 
   "Date": "1957", 
   "ArtistID": 3566, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "144.1962", 
-  "ArtistBio": "American, 1915\u20132002", 
-  "CreditLine": "Gift of the artist", 
+  "ArtistBio": "(American, 1915\u20132002)", 
+  "DateAcquired": "1962-05-08", 
+  "\ufeffTitle": "Study for A Universe", 
   "ObjectID": "34719"
 }

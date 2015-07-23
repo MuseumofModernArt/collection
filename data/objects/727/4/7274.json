@@ -5,8 +5,7 @@
   "Artist": "Aleksandr Rodchenko", 
   "URL": "http://www.moma.org/collection/works/7274", 
   "CuratorApproved": "Y", 
-  "Title": "Kino Glaz", 
-  "DateAcquired": "1987-11-18", 
+  "CreditLine": "Given anonymously", 
   "Date": "1924", 
   "ArtistID": 4975, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "498.1987", 
-  "ArtistBio": "Russian, 1891\u20131956", 
-  "CreditLine": "Given anonymously", 
+  "ArtistBio": "(Russian, 1891\u20131956)", 
+  "DateAcquired": "1987-11-18", 
+  "\ufeffTitle": "Kino Glaz", 
   "ObjectID": "7274"
 }

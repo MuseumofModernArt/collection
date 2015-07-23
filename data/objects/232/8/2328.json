@@ -5,8 +5,7 @@
   "Artist": "Peter Karpf", 
   "URL": "http://www.moma.org/collection/works/2328", 
   "CuratorApproved": "Y", 
-  "Title": "Side Chair", 
-  "DateAcquired": "1993-05-04", 
+  "CreditLine": "Gift of the manufacturer", 
   "Date": "1991", 
   "ArtistID": 7062, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "162.1993", 
-  "ArtistBio": "Danish, born 1940", 
-  "CreditLine": "Gift of the manufacturer", 
+  "ArtistBio": "(Danish, born 1940)", 
+  "DateAcquired": "1993-05-04", 
+  "\ufeffTitle": "Side Chair", 
   "ObjectID": "2328"
 }

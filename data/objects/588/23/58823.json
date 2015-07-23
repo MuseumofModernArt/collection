@@ -5,8 +5,7 @@
   "Artist": "U.S. Coast Guard", 
   "URL": "http://www.moma.org/collection/works/58823", 
   "CuratorApproved": "Y", 
-  "Title": "It Was a Record Day for Allied Soldiers as 34,355 Arrived Here", 
-  "DateAcquired": "2001-06-14", 
+  "CreditLine": "The New York Times Collection", 
   "Date": "July 11, 1945", 
   "ArtistID": 8640, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "2230.2001", 
-  "ArtistBio": "American", 
-  "CreditLine": "The New York Times Collection", 
+  "ArtistBio": "(American)", 
+  "DateAcquired": "2001-06-14", 
+  "\ufeffTitle": "It Was a Record Day for Allied Soldiers as 34,355 Arrived Here", 
   "ObjectID": "58823"
 }

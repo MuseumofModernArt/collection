@@ -5,8 +5,7 @@
   "Artist": "Ernesto Fontecilla", 
   "URL": "http://www.moma.org/collection/works/61922", 
   "CuratorApproved": "Y", 
-  "Title": "Left Side of the Crucifixion", 
-  "DateAcquired": "1970-03-05", 
+  "CreditLine": "Inter-American Fund", 
   "Date": "1970", 
   "ArtistID": 1933, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "109.1970", 
-  "ArtistBio": "Chilean, born 1938", 
-  "CreditLine": "Inter-American Fund", 
+  "ArtistBio": "(Chilean, born 1938)", 
+  "DateAcquired": "1970-03-05", 
+  "\ufeffTitle": "Left Side of the Crucifixion", 
   "ObjectID": "61922"
 }

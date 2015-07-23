@@ -5,8 +5,7 @@
   "Artist": "Charles N\u00e8gre", 
   "URL": "http://www.moma.org/collection/works/52247", 
   "CuratorApproved": "Y", 
-  "Title": "Place du Ch\u00e2telet", 
-  "DateAcquired": "1983-03-24", 
+  "CreditLine": "Purchase", 
   "Date": "1854", 
   "ArtistID": 4254, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "383.1983.5", 
-  "ArtistBio": "French, 1820\u20131880", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(French, 1820\u20131880)", 
+  "DateAcquired": "1983-03-24", 
+  "\ufeffTitle": "Place du Ch\u00e2telet", 
   "ObjectID": "52247"
 }

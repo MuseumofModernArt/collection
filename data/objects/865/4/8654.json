@@ -5,8 +5,7 @@
   "Artist": "R. Schwarzkopf", 
   "URL": "http://www.moma.org/collection/works/8654", 
   "CuratorApproved": "Y", 
-  "Title": "D\u00fcsseldorf", 
-  "DateAcquired": "1999-12-10", 
+  "CreditLine": "Jan Tschichold Collection, Gift of Philip Johnson", 
   "Date": "Unknown", 
   "ArtistID": 8235, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "906.1999", 
-  "ArtistBio": "Nationality unknown", 
-  "CreditLine": "Jan Tschichold Collection, Gift of Philip Johnson", 
+  "ArtistBio": "(Nationality unknown)", 
+  "DateAcquired": "1999-12-10", 
+  "\ufeffTitle": "D\u00fcsseldorf", 
   "ObjectID": "8654"
 }

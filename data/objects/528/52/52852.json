@@ -5,8 +5,7 @@
   "Artist": "George Barnard", 
   "URL": "http://www.moma.org/collection/works/52852", 
   "CuratorApproved": "Y", 
-  "Title": "Chattanooga, from the North", 
-  "DateAcquired": "1969-05-21", 
+  "CreditLine": "Acquired by exchange with the Library of Congress", 
   "Date": "1864-65", 
   "ArtistID": 336, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "409.1969.8", 
-  "ArtistBio": "American, 1819\u20131902", 
-  "CreditLine": "Acquired by exchange with the Library of Congress", 
+  "ArtistBio": "(American, 1819\u20131902)", 
+  "DateAcquired": "1969-05-21", 
+  "\ufeffTitle": "Chattanooga, from the North from the album Photographic Views of Sherman's Campaign", 
   "ObjectID": "52852"
 }

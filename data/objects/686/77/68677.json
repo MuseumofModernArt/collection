@@ -5,8 +5,7 @@
   "Artist": "Franz Marc", 
   "URL": "http://www.moma.org/collection/works/68677", 
   "CuratorApproved": "Y", 
-  "Title": "Lizards", 
-  "DateAcquired": "1950-04-05", 
+  "CreditLine": "Gift of Abby Aldrich Rockefeller (by exchange)", 
   "Date": "(1912)", 
   "ArtistID": 3748, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "414.1940", 
-  "ArtistBio": "German, 1880\u20131916", 
-  "CreditLine": "Gift of Abby Aldrich Rockefeller (by exchange)", 
+  "ArtistBio": "(German, 1880\u20131916)", 
+  "DateAcquired": "1950-04-05", 
+  "\ufeffTitle": "Lizards (Eidechsen)", 
   "ObjectID": "68677"
 }

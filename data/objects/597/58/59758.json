@@ -1,12 +1,11 @@
 {
   "Medium": "Photogravure", 
-  "Dimensions": "plate  21 1/16 x 13 7/8\" (53.5 x 35.3 cm)  sheet  30 x 22 1/2\" (76 x 57.2 cm)", 
+  "Dimensions": "plate  21 1/16 x 13 7/8\" (53.5 x 35.3 cm)\r\nsheet  30 x 22 1/2\" (76 x 57.2 cm)", 
   "Classification": "Print", 
   "Artist": "Georg Herold", 
   "URL": "http://www.moma.org/collection/works/59758", 
   "CuratorApproved": "Y", 
-  "Title": "Hand and Foot", 
-  "DateAcquired": "1991-01-23", 
+  "CreditLine": "Purchase", 
   "Date": "1990", 
   "ArtistID": 2615, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "8.1991", 
-  "ArtistBio": "German, born 1947", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(German, born 1947)", 
+  "DateAcquired": "1991-01-23", 
+  "\ufeffTitle": "Hand and Foot", 
   "ObjectID": "59758"
 }

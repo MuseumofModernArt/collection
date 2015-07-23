@@ -5,8 +5,7 @@
   "Artist": "Harry Callahan", 
   "URL": "http://www.moma.org/collection/works/48217", 
   "CuratorApproved": "Y", 
-  "Title": "Chicago", 
-  "DateAcquired": "2000-03-23", 
+  "CreditLine": "Gift of Susan and Peter MacGill", 
   "Date": "1950", 
   "ArtistID": 924, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "195.2000", 
-  "ArtistBio": "American, 1912\u20131999", 
-  "CreditLine": "Gift of Susan and Peter MacGill", 
+  "ArtistBio": "(American, 1912\u20131999)", 
+  "DateAcquired": "2000-03-23", 
+  "\ufeffTitle": "Chicago", 
   "ObjectID": "48217"
 }

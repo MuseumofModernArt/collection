@@ -5,8 +5,7 @@
   "Artist": "London Daily Mirror", 
   "URL": "http://www.moma.org/collection/works/58577", 
   "CuratorApproved": "Y", 
-  "Title": "The Chains are Broken", 
-  "DateAcquired": "2001-06-14", 
+  "CreditLine": "The New York Times Collection", 
   "Date": "1917", 
   "ArtistID": 8529, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "1984.2001", 
-  "ArtistBio": "NULL", 
-  "CreditLine": "The New York Times Collection", 
+  "ArtistBio": "", 
+  "DateAcquired": "2001-06-14", 
+  "\ufeffTitle": "The Chains are Broken", 
   "ObjectID": "58577"
 }

@@ -1,12 +1,11 @@
 {
   "Medium": "Woodcut", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "Richard Bosman", 
   "URL": "http://www.moma.org/collection/works/61267", 
   "CuratorApproved": "Y", 
-  "Title": "Car Crash", 
-  "DateAcquired": "1997-03-06", 
+  "CreditLine": "Gift of Stuart Zweibel", 
   "Date": "(1981-1982)", 
   "ArtistID": 689, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "71.1997", 
-  "ArtistBio": "Australian, born 1944", 
-  "CreditLine": "Gift of Stuart Zweibel", 
+  "ArtistBio": "(Australian, born 1944)", 
+  "DateAcquired": "1997-03-06", 
+  "\ufeffTitle": "Car Crash", 
   "ObjectID": "61267"
 }

@@ -1,12 +1,11 @@
 {
   "Medium": "Illustrated Book with 17 screenprints", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Illustrated Book", 
   "Artist": "Robert Barry", 
   "URL": "http://www.moma.org/collection/works/11748", 
   "CuratorApproved": "Y", 
-  "Title": "Going Through", 
-  "DateAcquired": "1997-03-06", 
+  "CreditLine": "Monroe Wheeler Fund", 
   "Date": "1995", 
   "ArtistID": 352, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "145.1997.1-17", 
-  "ArtistBio": "American, born 1936", 
-  "CreditLine": "Monroe Wheeler Fund", 
+  "ArtistBio": "(American, born 1936)", 
+  "DateAcquired": "1997-03-06", 
+  "\ufeffTitle": "Going Through", 
   "ObjectID": "11748"
 }

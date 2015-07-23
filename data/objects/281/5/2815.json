@@ -5,8 +5,7 @@
   "Artist": "Bob Evans", 
   "URL": "http://www.moma.org/collection/works/2815", 
   "CuratorApproved": "Y", 
-  "Title": "Tan Delta Force Fin Diving Fin", 
-  "DateAcquired": "1998-04-22", 
+  "CreditLine": "Gift of the manufacturer", 
   "Date": "1994", 
   "ArtistID": 8010, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "224.1998", 
-  "ArtistBio": "American, born 1950", 
-  "CreditLine": "Gift of the manufacturer", 
+  "ArtistBio": "(American, born 1950)", 
+  "DateAcquired": "1998-04-22", 
+  "\ufeffTitle": "Tan Delta Force Fin Diving Fin", 
   "ObjectID": "2815"
 }

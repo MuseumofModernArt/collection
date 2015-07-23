@@ -5,8 +5,7 @@
   "Artist": "Sheron Rupp", 
   "URL": "http://www.moma.org/collection/works/46323", 
   "CuratorApproved": "Y", 
-  "Title": "Hillsboro, New Hampshire", 
-  "DateAcquired": "1988-03-10", 
+  "CreditLine": "The Family of Man Fund", 
   "Date": "1985", 
   "ArtistID": 5083, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "104.1988.x1-x2", 
-  "ArtistBio": "American, born 1943", 
-  "CreditLine": "The Family of Man Fund", 
+  "ArtistBio": "(American, born 1943)", 
+  "DateAcquired": "1988-03-10", 
+  "\ufeffTitle": "Hillsboro, New Hampshire", 
   "ObjectID": "46323"
 }

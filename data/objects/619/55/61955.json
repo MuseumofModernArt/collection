@@ -5,8 +5,7 @@
   "Artist": "Pierre Bonnard", 
   "URL": "http://www.moma.org/collection/works/61955", 
   "CuratorApproved": "Y", 
-  "Title": "Horse Cab", 
-  "DateAcquired": "1947-06-17", 
+  "CreditLine": "Gift of Abby Aldrich Rockefeller", 
   "Date": "(1899)", 
   "ArtistID": 665, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "111.1947.1-2", 
-  "ArtistBio": "French, 1867\u20131947", 
-  "CreditLine": "Gift of Abby Aldrich Rockefeller", 
+  "ArtistBio": "(French, 1867\u20131947)", 
+  "DateAcquired": "1947-06-17", 
+  "\ufeffTitle": "Horse Cab", 
   "ObjectID": "61955"
 }

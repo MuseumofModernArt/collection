@@ -5,8 +5,7 @@
   "Artist": "Louise Bourgeois", 
   "URL": "http://www.moma.org/collection/works/12759", 
   "CuratorApproved": "Y", 
-  "Title": "Louise Bourgeois, R\u00e9trospective 1947-1984 (rep\u00e8res: cahiers d'art contemporarain)", 
-  "DateAcquired": "1994-01-25", 
+  "CreditLine": "Gift of the artist", 
   "Date": "1984", 
   "ArtistID": 710, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "177.1994.1-2", 
-  "ArtistBio": "American, born France. 1911\u20132010", 
-  "CreditLine": "Gift of the artist", 
+  "ArtistBio": "(American, born France. 1911\u20132010)", 
+  "DateAcquired": "1994-01-25", 
+  "\ufeffTitle": "Louise Bourgeois, R\u00e9trospective 1947-1984 (rep\u00e8res: cahiers d'art contemporarain)", 
   "ObjectID": "12759"
 }

@@ -1,12 +1,11 @@
 {
   "Medium": "Artist's book", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Illustrated Book", 
   "Artist": "G\u00fcnther F\u00f6rg", 
   "URL": "http://www.moma.org/collection/works/13714", 
   "CuratorApproved": "Y", 
-  "Title": "Munchs Bettdecke", 
-  "DateAcquired": "1997-05-28", 
+  "CreditLine": "Purchase", 
   "Date": "1996", 
   "ArtistID": 1940, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "211.1997", 
-  "ArtistBio": "German, 1952\u20132013", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(German, 1952\u20132013)", 
+  "DateAcquired": "1997-05-28", 
+  "\ufeffTitle": "Munchs Bettdecke", 
   "ObjectID": "13714"
 }

@@ -5,8 +5,7 @@
   "Artist": "Brice Marden", 
   "URL": "http://www.moma.org/collection/works/65081", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled from Ten Days", 
-  "DateAcquired": "1972-05-08", 
+  "CreditLine": "John B. Turner Fund", 
   "Date": "1971, published 1972", 
   "ArtistID": 3758, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "243.1972", 
-  "ArtistBio": "American, born 1938", 
-  "CreditLine": "John B. Turner Fund", 
+  "ArtistBio": "(American, born 1938)", 
+  "DateAcquired": "1972-05-08", 
+  "\ufeffTitle": "Untitled from Ten Days", 
   "ObjectID": "65081"
 }

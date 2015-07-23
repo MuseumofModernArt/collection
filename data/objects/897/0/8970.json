@@ -5,8 +5,7 @@
   "Artist": "Pablo Picasso", 
   "URL": "http://www.moma.org/collection/works/8970", 
   "CuratorApproved": "Y", 
-  "Title": "Toros en Vallauris 1960", 
-  "DateAcquired": "1967-10-18", 
+  "CreditLine": "Gift of Mr. and Mrs. Leo Farland", 
   "Date": "1960", 
   "ArtistID": 4609, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "2267.1967", 
-  "ArtistBio": "Spanish, 1881\u20131973", 
-  "CreditLine": "Gift of Mr. and Mrs. Leo Farland", 
+  "ArtistBio": "(Spanish, 1881\u20131973)", 
+  "DateAcquired": "1967-10-18", 
+  "\ufeffTitle": "Toros en Vallauris 1960", 
   "ObjectID": "8970"
 }

@@ -5,8 +5,7 @@
   "Artist": "Sherman L. Kelly", 
   "URL": "http://www.moma.org/collection/works/4254", 
   "CuratorApproved": "Y", 
-  "Title": "Ice Cream Scoop", 
-  "DateAcquired": "1956-10-25", 
+  "CreditLine": "Purchase Fund", 
   "Date": "1935", 
   "ArtistID": 3052, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "501.1956", 
-  "ArtistBio": "American, 1869\u20131952", 
-  "CreditLine": "Purchase Fund", 
+  "ArtistBio": "(American, 1869\u20131952)", 
+  "DateAcquired": "1956-10-25", 
+  "\ufeffTitle": "Ice Cream Scoop", 
   "ObjectID": "4254"
 }

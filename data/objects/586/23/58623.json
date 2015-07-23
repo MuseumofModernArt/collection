@@ -5,8 +5,7 @@
   "Artist": "Norman M. Jeannero/Times World Wide Photos", 
   "URL": "http://www.moma.org/collection/works/58623", 
   "CuratorApproved": "Y", 
-  "Title": "Einstein Offers New View of Mass-Energy Theorem", 
-  "DateAcquired": "2001-06-14", 
+  "CreditLine": "The New York Times Collection", 
   "Date": "December 28, 1934", 
   "ArtistID": 8564, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "2030.2001", 
-  "ArtistBio": "American, 1889\u20131954", 
-  "CreditLine": "The New York Times Collection", 
+  "ArtistBio": "(American, 1889\u20131954)", 
+  "DateAcquired": "2001-06-14", 
+  "\ufeffTitle": "\"Einstein Offers New View of Mass-Energy Theorem\"", 
   "ObjectID": "58623"
 }

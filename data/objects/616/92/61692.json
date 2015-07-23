@@ -5,8 +5,7 @@
   "Artist": "Hans Hartung", 
   "URL": "http://www.moma.org/collection/works/61692", 
   "CuratorApproved": "Y", 
-  "Title": "#18", 
-  "DateAcquired": "1954-04-06", 
+  "CreditLine": "Larry Aldrich Fund", 
   "Date": "(1953)", 
   "ArtistID": 2525, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "92.1954", 
-  "ArtistBio": "French, born Germany. 1904\u20131989", 
-  "CreditLine": "Larry Aldrich Fund", 
+  "ArtistBio": "(French, born Germany. 1904\u20131989)", 
+  "DateAcquired": "1954-04-06", 
+  "\ufeffTitle": "#18", 
   "ObjectID": "61692"
 }

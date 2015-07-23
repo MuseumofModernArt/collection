@@ -5,8 +5,7 @@
   "Artist": "Alberto Giacometti", 
   "URL": "http://www.moma.org/collection/works/63149", 
   "CuratorApproved": "Y", 
-  "Title": "Interior with Chandelier", 
-  "DateAcquired": "1960-05-26", 
+  "CreditLine": "Gift of Mr. E. Powis Jones", 
   "Date": "1959", 
   "ArtistID": 2141, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "146.1960", 
-  "ArtistBio": "Swiss, 1901\u20131966", 
-  "CreditLine": "Gift of Mr. E. Powis Jones", 
+  "ArtistBio": "(Swiss, 1901\u20131966)", 
+  "DateAcquired": "1960-05-26", 
+  "\ufeffTitle": "Interior with Chandelier", 
   "ObjectID": "63149"
 }

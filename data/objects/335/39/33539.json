@@ -5,8 +5,7 @@
   "Artist": "Oskar Kokoschka", 
   "URL": "http://www.moma.org/collection/works/33539", 
   "CuratorApproved": "Y", 
-  "Title": "Seated Woman", 
-  "DateAcquired": "1952-05-20", 
+  "CreditLine": "Gift of Myrtil Frank", 
   "Date": "1921", 
   "ArtistID": 3197, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "53.1952", 
-  "ArtistBio": "Austrian, 1886\u20131980", 
-  "CreditLine": "Gift of Myrtil Frank", 
+  "ArtistBio": "(Austrian, 1886\u20131980)", 
+  "DateAcquired": "1952-05-20", 
+  "\ufeffTitle": "Seated Woman", 
   "ObjectID": "33539"
 }

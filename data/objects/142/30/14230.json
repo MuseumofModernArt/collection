@@ -5,8 +5,7 @@
   "Artist": "Andy Warhol", 
   "URL": "http://www.moma.org/collection/works/14230", 
   "CuratorApproved": "Y", 
-  "Title": "A Is an Alphabet", 
-  "DateAcquired": "1996-05-21", 
+  "CreditLine": "Gift of Gabriel Austin", 
   "Date": "1953", 
   "ArtistID": 6246, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "248.1996.1-26", 
-  "ArtistBio": "American, 1928\u20131987", 
-  "CreditLine": "Gift of Gabriel Austin", 
+  "ArtistBio": "(American, 1928\u20131987)", 
+  "DateAcquired": "1996-05-21", 
+  "\ufeffTitle": "A Is an Alphabet", 
   "ObjectID": "14230"
 }

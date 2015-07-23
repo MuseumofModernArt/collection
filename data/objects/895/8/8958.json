@@ -5,8 +5,7 @@
   "Artist": "Victor Brauner", 
   "URL": "http://www.moma.org/collection/works/8958", 
   "CuratorApproved": "Y", 
-  "Title": "Bestiaire", 
-  "DateAcquired": "1967-10-18", 
+  "CreditLine": "Gift of Mr. and Mrs. Leo Farland", 
   "Date": "1963", 
   "ArtistID": 751, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "2255.1967", 
-  "ArtistBio": "Romanian, 1903\u20131966", 
-  "CreditLine": "Gift of Mr. and Mrs. Leo Farland", 
+  "ArtistBio": "(Romanian, 1903\u20131966)", 
+  "DateAcquired": "1967-10-18", 
+  "\ufeffTitle": "Bestiaire", 
   "ObjectID": "8958"
 }

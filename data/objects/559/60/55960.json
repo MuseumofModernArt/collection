@@ -5,8 +5,7 @@
   "Artist": "Gundula Schulze-Eldowy", 
   "URL": "http://www.moma.org/collection/works/55960", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled, Dresden", 
-  "DateAcquired": "1994-12-15", 
+  "CreditLine": "Purchase", 
   "Date": "1990", 
   "ArtistID": 6992, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "671.1994.x1-x2", 
-  "ArtistBio": "German, born 1954", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(German, born 1954)", 
+  "DateAcquired": "1994-12-15", 
+  "\ufeffTitle": "Untitled, Dresden", 
   "ObjectID": "55960"
 }

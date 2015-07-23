@@ -5,8 +5,7 @@
   "Artist": "Bill Traylor", 
   "URL": "http://www.moma.org/collection/works/33407", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled (Orange Horse)", 
-  "DateAcquired": "1999-02-25", 
+  "CreditLine": "Gift of Thea Westreich and Ethan Wagner", 
   "Date": "(c. 1939-42)", 
   "ArtistID": 7464, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "32.1999", 
-  "ArtistBio": "American, 1854\u20131947", 
-  "CreditLine": "Gift of Thea Westreich and Ethan Wagner", 
+  "ArtistBio": "(American, 1854\u20131947)", 
+  "DateAcquired": "1999-02-25", 
+  "\ufeffTitle": "Untitled (Orange Horse)", 
   "ObjectID": "33407"
 }

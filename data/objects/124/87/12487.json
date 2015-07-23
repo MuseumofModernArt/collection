@@ -1,12 +1,11 @@
 {
   "Medium": "Illustrated book with twenty-eight etchings", 
-  "Dimensions": "irreg. composition  10 9/16 x 10 11/16\" (26.9 x 27.2 cm)  page  10 9/16 x 10 11/16\" (26 x 27.2 cm)", 
+  "Dimensions": "irreg. composition  10 9/16 x 10 11/16\" (26.9 x 27.2 cm)\r\npage  10 9/16 x 10 11/16\" (26 x 27.2 cm)", 
   "Classification": "Illustrated Book", 
   "Artist": "Sol LeWitt", 
   "URL": "http://www.moma.org/collection/works/12487", 
   "CuratorApproved": "Y", 
-  "Title": "Grids, using straight lines, not-broken lines and broken lines in all their possible combinations", 
-  "DateAcquired": "1975-05-09", 
+  "CreditLine": "Purchase", 
   "Date": "1973", 
   "ArtistID": 3528, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "161.1975.1-28", 
-  "ArtistBio": "American, 1928\u20132007", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, 1928\u20132007)", 
+  "DateAcquired": "1975-05-09", 
+  "\ufeffTitle": "Grids, using straight lines, not-broken lines and broken lines in all their possible combinations", 
   "ObjectID": "12487"
 }

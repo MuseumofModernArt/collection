@@ -5,8 +5,7 @@
   "Artist": "Marco Zanuso", 
   "URL": "http://www.moma.org/collection/works/1919", 
   "CuratorApproved": "Y", 
-  "Title": "Hastil Fountain Pen", 
-  "DateAcquired": "1972-04-11", 
+  "CreditLine": "Gift of the manufacturer", 
   "Date": "1969", 
   "ArtistID": 6544, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "61.1972", 
-  "ArtistBio": "Italian, 1916\u20132001", 
-  "CreditLine": "Gift of the manufacturer", 
+  "ArtistBio": "(Italian, 1916\u20132001)", 
+  "DateAcquired": "1972-04-11", 
+  "\ufeffTitle": "Hastil Fountain Pen", 
   "ObjectID": "1919"
 }

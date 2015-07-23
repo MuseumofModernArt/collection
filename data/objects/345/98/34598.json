@@ -5,8 +5,7 @@
   "Artist": "Amedeo Modigliani", 
   "URL": "http://www.moma.org/collection/works/34598", 
   "CuratorApproved": "Y", 
-  "Title": "Adam", 
-  "DateAcquired": "1978-04-04", 
+  "CreditLine": "The Joan and Lester Avnet Collection", 
   "Date": "(1916)", 
   "ArtistID": 4038, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "135.1978", 
-  "ArtistBio": "Italian, 1884\u20131920", 
-  "CreditLine": "The Joan and Lester Avnet Collection", 
+  "ArtistBio": "(Italian, 1884\u20131920)", 
+  "DateAcquired": "1978-04-04", 
+  "\ufeffTitle": "Adam", 
   "ObjectID": "34598"
 }

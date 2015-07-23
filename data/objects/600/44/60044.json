@@ -1,12 +1,11 @@
 {
   "Medium": "Woodcut", 
-  "Dimensions": "irreg. composition  4 5/8 x 2 3/4\" (11.8 x 7 cm)  sheet  9 1/16 x 5 13/16\" (23 x 14.8 cm)", 
+  "Dimensions": "irreg. composition  4 5/8 x 2 3/4\" (11.8 x 7 cm)\r\nsheet  9 1/16 x 5 13/16\" (23 x 14.8 cm)", 
   "Classification": "Print", 
   "Artist": "Yasuo Kuniyoshi", 
   "URL": "http://www.moma.org/collection/works/60044", 
   "CuratorApproved": "Y", 
-  "Title": "Woman Holding Flower at Table", 
-  "DateAcquired": "1985-01-30", 
+  "CreditLine": "Gift of Mr. and Mrs. Samuel Rosenfeld (through the Associates of the Department of Prints and Illustrated Books) by exchange", 
   "Date": "(c. 1920)", 
   "ArtistID": 3296, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "18.1985", 
-  "ArtistBio": "American, 1889\u20131953", 
-  "CreditLine": "Gift of Mr. and Mrs. Samuel Rosenfeld (through the Associates of the Department of Prints and Illustrated Books) by exchange", 
+  "ArtistBio": "(American, 1889\u20131953)", 
+  "DateAcquired": "1985-01-30", 
+  "\ufeffTitle": "Woman Holding Flower at Table", 
   "ObjectID": "60044"
 }

@@ -5,8 +5,7 @@
   "Artist": "Pablo Picasso", 
   "URL": "http://www.moma.org/collection/works/37973", 
   "CuratorApproved": "Y", 
-  "Title": "Cubist Study", 
-  "DateAcquired": "1943-12-02", 
+  "CreditLine": "Gift of Pierre Loeb", 
   "Date": "(1912)", 
   "ArtistID": 4609, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "753.1943", 
-  "ArtistBio": "Spanish, 1881\u20131973", 
-  "CreditLine": "Gift of Pierre Loeb", 
+  "ArtistBio": "(Spanish, 1881\u20131973)", 
+  "DateAcquired": "1943-12-02", 
+  "\ufeffTitle": "Cubist Study", 
   "ObjectID": "37973"
 }

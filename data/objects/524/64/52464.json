@@ -5,8 +5,7 @@
   "Artist": "Adolf De Meyer", 
   "URL": "http://www.moma.org/collection/works/52464", 
   "CuratorApproved": "Y", 
-  "Title": "Princess Miguel de Braganca", 
-  "DateAcquired": "1992-10-15", 
+  "CreditLine": "Gift of Anne Ehrenkranz, in honor of Samuel J. Wagstaff, Jr.", 
   "Date": "1921", 
   "ArtistID": 1434, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "393.1992", 
-  "ArtistBio": "German, 1868\u20131946", 
-  "CreditLine": "Gift of Anne Ehrenkranz, in honor of Samuel J. Wagstaff, Jr.", 
+  "ArtistBio": "(German, 1868\u20131946)", 
+  "DateAcquired": "1992-10-15", 
+  "\ufeffTitle": "Princess Miguel de Braganca", 
   "ObjectID": "52464"
 }

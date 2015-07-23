@@ -5,8 +5,7 @@
   "Artist": "Katsuro Yoshida", 
   "URL": "http://www.moma.org/collection/works/63079", 
   "CuratorApproved": "Y", 
-  "Title": "London 8 (Mayfair)", 
-  "DateAcquired": "1975-05-09", 
+  "CreditLine": "Blanchette Hooker Rockefeller Fund", 
   "Date": "1973", 
   "ArtistID": 6507, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "156.1975", 
-  "ArtistBio": "Japanese", 
-  "CreditLine": "Blanchette Hooker Rockefeller Fund", 
+  "ArtistBio": "(Japanese)", 
+  "DateAcquired": "1975-05-09", 
+  "\ufeffTitle": "London 8 (Mayfair)", 
   "ObjectID": "63079"
 }

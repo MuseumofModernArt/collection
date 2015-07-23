@@ -5,8 +5,7 @@
   "Artist": "West Bend Aluminum Co., Wisconsin", 
   "URL": "http://www.moma.org/collection/works/2588", 
   "CuratorApproved": "Y", 
-  "Title": "Cake Pan", 
-  "DateAcquired": "1947-06-17", 
+  "CreditLine": "Gift of Lewis & Conger", 
   "Date": "1930s", 
   "Keywords": [
     "online art collection", 
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "197.1947", 
-  "ArtistBio": "est. 1911", 
-  "CreditLine": "Gift of Lewis & Conger", 
+  "ArtistBio": "(est. 1911)", 
+  "DateAcquired": "1947-06-17", 
+  "\ufeffTitle": "Cake Pan", 
   "ObjectID": "2588"
 }

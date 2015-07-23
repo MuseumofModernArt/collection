@@ -1,12 +1,11 @@
 {
-  "Medium": "Lithograph from a portfolio of six drypoints and two lithographs    ", 
+  "Medium": "Lithograph from a portfolio of six drypoints and two lithographs\r\n\r\n", 
   "Dimensions": "composition (irreg.): 8 3/8 x 14 5/8\" (21.2 x 37.2 cm); sheet: 15 3/4 x 21 1/4\" (40 x 53.9 cm)", 
   "Classification": "Print", 
   "Artist": "Egon Schiele", 
   "URL": "http://www.moma.org/collection/works/62824", 
   "CuratorApproved": "Y", 
-  "Title": "Girl from The Graphic Work of Egon Schiele", 
-  "DateAcquired": "1982-05-05", 
+  "CreditLine": "Gift of The Lauder Foundation", 
   "Date": "(1918, published 1922)", 
   "ArtistID": 5215, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "140.1982.1", 
-  "ArtistBio": "Austrian, 1890\u20131918", 
-  "CreditLine": "Gift of The Lauder Foundation", 
+  "ArtistBio": "(Austrian, 1890\u20131918)", 
+  "DateAcquired": "1982-05-05", 
+  "\ufeffTitle": "Girl (M\u00e4dchen) from The Graphic Work of Egon Schiele (Das Graphische Werk von Egon Schiele)", 
   "ObjectID": "62824"
 }

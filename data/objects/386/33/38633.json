@@ -5,8 +5,7 @@
   "Artist": "Paul Cadmus", 
   "URL": "http://www.moma.org/collection/works/38633", 
   "CuratorApproved": "Y", 
-  "Title": "Feathers, Shells and Bones", 
-  "DateAcquired": "1968-12-11", 
+  "CreditLine": "Gift of Monroe Wheeler", 
   "Date": "(1946)", 
   "ArtistID": 909, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "1525.1968", 
-  "ArtistBio": "American, 1904\u20131999", 
-  "CreditLine": "Gift of Monroe Wheeler", 
+  "ArtistBio": "(American, 1904\u20131999)", 
+  "DateAcquired": "1968-12-11", 
+  "\ufeffTitle": "Feathers, Shells and Bones", 
   "ObjectID": "38633"
 }

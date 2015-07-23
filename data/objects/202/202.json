@@ -5,8 +5,7 @@
   "Artist": "Zaha Hadid", 
   "URL": "http://www.moma.org/collection/works/202", 
   "CuratorApproved": "Y", 
-  "Title": "The Peak Project, Kowloon, Hong Kong, China  Exterior perspective", 
-  "DateAcquired": "1992-01-15", 
+  "CreditLine": "David Rockefeller, Jr. Fund", 
   "Date": "1991", 
   "ArtistID": 6953, 
   "Keywords": [
@@ -21,7 +20,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "108.1992", 
-  "ArtistBio": "British, born Iraq 1950", 
-  "CreditLine": "David Rockefeller, Jr. Fund", 
+  "ArtistBio": "(British, born Iraq 1950)", 
+  "DateAcquired": "1992-01-15", 
+  "\ufeffTitle": "The Peak Project, Kowloon, Hong Kong, China, Exterior perspective", 
   "ObjectID": "202"
 }

@@ -5,8 +5,7 @@
   "Artist": "Reg Butler", 
   "URL": "http://www.moma.org/collection/works/37901", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1978-10-27", 
+  "CreditLine": "Gift of Constance B. and Carroll L. Cartwright", 
   "Date": "1972", 
   "ArtistID": 900, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "731.1978", 
-  "ArtistBio": "British, 1913\u20131983", 
-  "CreditLine": "Gift of Constance B. and Carroll L. Cartwright", 
+  "ArtistBio": "(British, 1913\u20131983)", 
+  "DateAcquired": "1978-10-27", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "37901"
 }

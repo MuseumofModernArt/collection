@@ -5,8 +5,7 @@
   "Artist": "Cedric Price", 
   "URL": "http://www.moma.org/collection/works/876", 
   "CuratorApproved": "Y", 
-  "Title": "Generator Project, White Oak, Florida  Untitled", 
-  "DateAcquired": "NULL", 
+  "CreditLine": "Gift of The Howard Gilman Foundation", 
   "Date": "1978-80", 
   "ArtistID": 7986, 
   "Keywords": [
@@ -20,7 +19,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "1260.2000", 
-  "ArtistBio": "British, 1934\u20132003", 
-  "CreditLine": "Gift of The Howard Gilman Foundation", 
+  "ArtistBio": "(British, 1934\u20132003)", 
+  "DateAcquired": "", 
+  "\ufeffTitle": "Generator Project, White Oak, Florida, Untitled", 
   "ObjectID": "876"
 }

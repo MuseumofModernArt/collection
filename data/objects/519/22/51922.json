@@ -4,9 +4,8 @@
   "Classification": "Photograph", 
   "Artist": "Ralph Steiner", 
   "URL": "", 
-  "CuratorApproved": "Y", 
-  "Title": "American Rural Baroque", 
-  "DateAcquired": "1938-10-20", 
+  "CuratorApproved": "N", 
+  "CreditLine": "Gift of Lincoln Kirstein", 
   "Date": "1930", 
   "ArtistID": 5631, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "369.1938", 
-  "ArtistBio": "American, 1899\u20131986", 
-  "CreditLine": "Gift of Lincoln Kirstein", 
+  "ArtistBio": "(American, 1899\u20131986)", 
+  "DateAcquired": "1938-10-20", 
+  "\ufeffTitle": "American Rural Baroque", 
   "ObjectID": "51922"
 }

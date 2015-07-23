@@ -1,12 +1,11 @@
 {
   "Medium": "Gelatin silver print", 
-  "Dimensions": "9 1/2 x 12 1/8\" (24.1 x 30.8 cm)  ", 
+  "Dimensions": "9 1/2 x 12 1/8\" (24.1 x 30.8 cm)\r\n", 
   "Classification": "Photograph", 
   "Artist": "Minor White", 
   "URL": "http://www.moma.org/collection/works/47128", 
   "CuratorApproved": "Y", 
-  "Title": "Grand Tetons", 
-  "DateAcquired": "1969-03-05", 
+  "CreditLine": "Gift of Robert M. Doty", 
   "Date": "1959", 
   "ArtistID": 6342, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "165.1969", 
-  "ArtistBio": "American, 1908\u20131976", 
-  "CreditLine": "Gift of Robert M. Doty", 
+  "ArtistBio": "(American, 1908\u20131976)", 
+  "DateAcquired": "1969-03-05", 
+  "\ufeffTitle": "Grand Tetons", 
   "ObjectID": "47128"
 }

@@ -5,8 +5,7 @@
   "Artist": "Art Greenspon/Associated Press", 
   "URL": "http://www.moma.org/collection/works/58597", 
   "CuratorApproved": "Y", 
-  "Title": "Vietnam", 
-  "DateAcquired": "2001-06-14", 
+  "CreditLine": "The New York Times Collection", 
   "Date": "April 1968", 
   "ArtistID": 8545, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "2004.2001", 
-  "ArtistBio": "American, born 1942", 
-  "CreditLine": "The New York Times Collection", 
+  "ArtistBio": "(American, born 1942)", 
+  "DateAcquired": "2001-06-14", 
+  "\ufeffTitle": "\"Vietnam\"", 
   "ObjectID": "58597"
 }

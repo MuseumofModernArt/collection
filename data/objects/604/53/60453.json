@@ -5,8 +5,7 @@
   "Artist": "Pierre Bonnard", 
   "URL": "http://www.moma.org/collection/works/60453", 
   "CuratorApproved": "Y", 
-  "Title": "The Arc de Triomphe (L'Arc de Triomphe)", 
-  "DateAcquired": "1933-01-20", 
+  "CreditLine": "Gift of Mrs. Saidie A. May", 
   "Date": "1899", 
   "ArtistID": 665, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "30.1932", 
-  "ArtistBio": "French, 1867\u20131947", 
-  "CreditLine": "Gift of Mrs. Saidie A. May", 
+  "ArtistBio": "(French, 1867\u20131947)", 
+  "DateAcquired": "1933-01-20", 
+  "\ufeffTitle": "The Arc de Triomphe (L'Arc de Triomphe)", 
   "ObjectID": "60453"
 }

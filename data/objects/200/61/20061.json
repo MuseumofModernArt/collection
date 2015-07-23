@@ -1,12 +1,11 @@
 {
   "Medium": "Illustrated book with 16 etching and aquatints, some with aquatint and/or drypoint (including wrapper front)", 
-  "Dimensions": "irreg. page  16 1/2 x 11 7/16\" (42 x 29 cm)  Prints:  various dimensions.", 
+  "Dimensions": "irreg. page  16 1/2 x 11 7/16\" (42 x 29 cm)\r\nPrints:  various dimensions.", 
   "Classification": "Illustrated Book", 
   "Artist": "Joan Mir\u00f3", 
   "URL": "http://www.moma.org/collection/works/20061", 
   "CuratorApproved": "Y", 
-  "Title": "Le Courtisan Gortesque", 
-  "DateAcquired": "1978-10-17", 
+  "CreditLine": "The Associates Fund", 
   "Date": "1974", 
   "ArtistID": 4016, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "662.1978.1-16", 
-  "ArtistBio": "Spanish, 1893\u20131983", 
-  "CreditLine": "The Associates Fund", 
+  "ArtistBio": "(Spanish, 1893\u20131983)", 
+  "DateAcquired": "1978-10-17", 
+  "\ufeffTitle": "Le Courtisan Gortesque", 
   "ObjectID": "20061"
 }

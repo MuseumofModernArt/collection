@@ -1,12 +1,11 @@
 {
   "Medium": "Multiple of synthetic resin", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Multiple", 
   "Artist": "Susan Rothenberg", 
   "URL": "http://www.moma.org/collection/works/64025", 
   "CuratorApproved": "Y", 
-  "Title": "Fish Sculpture", 
-  "DateAcquired": "1988-05-04", 
+  "CreditLine": "Gift of Emily Fisher Landau", 
   "Date": "(1987)", 
   "ArtistID": 5044, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "187.1988", 
-  "ArtistBio": "American, born 1945", 
-  "CreditLine": "Gift of Emily Fisher Landau", 
+  "ArtistBio": "(American, born 1945)", 
+  "DateAcquired": "1988-05-04", 
+  "\ufeffTitle": "Fish Sculpture", 
   "ObjectID": "64025"
 }

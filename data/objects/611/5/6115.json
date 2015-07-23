@@ -5,8 +5,7 @@
   "Artist": "A. M. Cassandre", 
   "URL": "http://www.moma.org/collection/works/6115", 
   "CuratorApproved": "Y", 
-  "Title": "G. des F\u00eates de Paris, Du 17 Juin au 8 Juillet 1934", 
-  "DateAcquired": "1935-11-12", 
+  "CreditLine": "Given anonymously", 
   "Date": "1934", 
   "ArtistID": 1015, 
   "Keywords": [
@@ -21,7 +20,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "292.1935", 
-  "ArtistBio": "French, 1901\u20131968", 
-  "CreditLine": "Given anonymously", 
+  "ArtistBio": "(French, 1901\u20131968)", 
+  "DateAcquired": "1935-11-12", 
+  "\ufeffTitle": "G. des F\u00eates de Paris, Du 17 Juin au 8 Juillet 1934", 
   "ObjectID": "6115"
 }

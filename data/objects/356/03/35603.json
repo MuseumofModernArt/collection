@@ -5,8 +5,7 @@
   "Artist": "Marino Marini", 
   "URL": "http://www.moma.org/collection/works/35603", 
   "CuratorApproved": "Y", 
-  "Title": "Boy on a Blue Horse", 
-  "DateAcquired": "1969-04-16", 
+  "CreditLine": "Gift of Blanchette Hooker Rockefeller", 
   "Date": "(1947)", 
   "ArtistID": 3772, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "251.1969", 
-  "ArtistBio": "Italian, 1901\u20131980", 
-  "CreditLine": "Gift of Blanchette Hooker Rockefeller", 
+  "ArtistBio": "(Italian, 1901\u20131980)", 
+  "DateAcquired": "1969-04-16", 
+  "\ufeffTitle": "Boy on a Blue Horse", 
   "ObjectID": "35603"
 }

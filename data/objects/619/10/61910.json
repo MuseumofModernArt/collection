@@ -1,12 +1,11 @@
 {
   "Medium": "Aquatint and drypoint", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "Alex Katz", 
   "URL": "http://www.moma.org/collection/works/61910", 
   "CuratorApproved": "Y", 
-  "Title": "Vincent with Open Mouth", 
-  "DateAcquired": "1991-05-22", 
+  "CreditLine": "Gift of John Loring", 
   "Date": "1974", 
   "ArtistID": 3016, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "108.1991", 
-  "ArtistBio": "American, born 1927", 
-  "CreditLine": "Gift of John Loring", 
+  "ArtistBio": "(American, born 1927)", 
+  "DateAcquired": "1991-05-22", 
+  "\ufeffTitle": "Vincent with Open Mouth", 
   "ObjectID": "61910"
 }

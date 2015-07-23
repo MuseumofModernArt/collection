@@ -5,8 +5,7 @@
   "Artist": "Linda Plotkin", 
   "URL": "http://www.moma.org/collection/works/63831", 
   "CuratorApproved": "Y", 
-  "Title": "Mountain Ridge", 
-  "DateAcquired": "1973-05-07", 
+  "CreditLine": "Gift of the artist", 
   "Date": "(1970)", 
   "ArtistID": 4654, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "181.1973", 
-  "ArtistBio": "American, born 1938", 
-  "CreditLine": "Gift of the artist", 
+  "ArtistBio": "(American, born 1938)", 
+  "DateAcquired": "1973-05-07", 
+  "\ufeffTitle": "Mountain Ridge", 
   "ObjectID": "63831"
 }

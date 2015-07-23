@@ -5,8 +5,7 @@
   "Artist": "Ford Madox Brown", 
   "URL": "http://www.moma.org/collection/works/3193", 
   "CuratorApproved": "Y", 
-  "Title": "Sussex Corner Chair", 
-  "DateAcquired": "2000-06-30", 
+  "CreditLine": "Gift of Robert and Joyce Menschel", 
   "Date": "c. 1865", 
   "ArtistID": 8455, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "286.1999", 
-  "ArtistBio": "British, 1821\u20131893", 
-  "CreditLine": "Gift of Robert and Joyce Menschel", 
+  "ArtistBio": "(British, 1821\u20131893)", 
+  "DateAcquired": "2000-06-30", 
+  "\ufeffTitle": "Sussex Corner Chair", 
   "ObjectID": "3193"
 }

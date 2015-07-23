@@ -5,8 +5,7 @@
   "Artist": "Lovis Corinth", 
   "URL": "http://www.moma.org/collection/works/66749", 
   "CuratorApproved": "Y", 
-  "Title": "The Forge of Vulcan from Classical Legends", 
-  "DateAcquired": "1956-10-25", 
+  "CreditLine": "Gift of J.B. Neumann", 
   "Date": "1919", 
   "ArtistID": 1243, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "315.1956", 
-  "ArtistBio": "German, 1858\u20131925", 
-  "CreditLine": "Gift of J.B. Neumann", 
+  "ArtistBio": "(German, 1858\u20131925)", 
+  "DateAcquired": "1956-10-25", 
+  "\ufeffTitle": "The Forge of Vulcan (Die Schmiede des Vulkan) from Classical Legends (Antike Legenden)", 
   "ObjectID": "66749"
 }

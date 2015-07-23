@@ -5,8 +5,7 @@
   "Artist": "R. B. Kitaj", 
   "URL": "http://www.moma.org/collection/works/36695", 
   "CuratorApproved": "Y", 
-  "Title": "The Sneeze", 
-  "DateAcquired": "1977-06-14", 
+  "CreditLine": "Gift of Nancy and Jim Dine", 
   "Date": "1975", 
   "ArtistID": 3121, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "342.1977", 
-  "ArtistBio": "American, 1932\u20132007", 
-  "CreditLine": "Gift of Nancy and Jim Dine", 
+  "ArtistBio": "(American, 1932\u20132007)", 
+  "DateAcquired": "1977-06-14", 
+  "\ufeffTitle": "The Sneeze", 
   "ObjectID": "36695"
 }

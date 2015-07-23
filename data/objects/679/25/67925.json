@@ -5,8 +5,7 @@
   "Artist": "Robert Rauschenberg", 
   "URL": "http://www.moma.org/collection/works/67925", 
   "CuratorApproved": "Y", 
-  "Title": "Signs", 
-  "DateAcquired": "1988-10-25", 
+  "CreditLine": "Gift of Leo and Jean-Christophe Castelli in memory of Toiny Castelli", 
   "Date": "1970", 
   "ArtistID": 4823, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "369.1988", 
-  "ArtistBio": "American, 1925\u20132008", 
-  "CreditLine": "Gift of Leo and Jean-Christophe Castelli in memory of Toiny Castelli", 
+  "ArtistBio": "(American, 1925\u20132008)", 
+  "DateAcquired": "1988-10-25", 
+  "\ufeffTitle": "Signs", 
   "ObjectID": "67925"
 }

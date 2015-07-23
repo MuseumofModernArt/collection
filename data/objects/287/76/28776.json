@@ -5,8 +5,7 @@
   "Artist": "Claes Oldenburg", 
   "URL": "http://www.moma.org/collection/works/28776", 
   "CuratorApproved": "Y", 
-  "Title": "Notes", 
-  "DateAcquired": "1969-10-28", 
+  "CreditLine": "John B. Turner Fund", 
   "Date": "1968", 
   "ArtistID": 4397, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "934.1969.1-12", 
-  "ArtistBio": "American, born Sweden 1929", 
-  "CreditLine": "John B. Turner Fund", 
+  "ArtistBio": "(American, born Sweden 1929)", 
+  "DateAcquired": "1969-10-28", 
+  "\ufeffTitle": "Notes", 
   "ObjectID": "28776"
 }

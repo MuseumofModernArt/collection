@@ -5,8 +5,7 @@
   "Artist": "Ern\u00f6 Rubik", 
   "URL": "http://www.moma.org/collection/works/2908", 
   "CuratorApproved": "Y", 
-  "Title": "Rubik's Cube", 
-  "DateAcquired": "1981-04-30", 
+  "CreditLine": "Gift of the manufacturer", 
   "Date": "1974", 
   "ArtistID": 5069, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "234.1981", 
-  "ArtistBio": "Hungarian, born 1944", 
-  "CreditLine": "Gift of the manufacturer", 
+  "ArtistBio": "(Hungarian, born 1944)", 
+  "DateAcquired": "1981-04-30", 
+  "\ufeffTitle": "Rubik's Cube", 
   "ObjectID": "2908"
 }

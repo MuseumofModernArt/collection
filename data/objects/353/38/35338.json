@@ -5,8 +5,7 @@
   "Artist": "Richard Serra", 
   "URL": "http://www.moma.org/collection/works/35338", 
   "CuratorApproved": "Y", 
-  "Title": "Two Rounds", 
-  "DateAcquired": "1996-05-16", 
+  "CreditLine": "Gift of the Dannheisser Foundation", 
   "Date": "1991", 
   "ArtistID": 5349, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "217.1996", 
-  "ArtistBio": "American, born 1939", 
-  "CreditLine": "Gift of the Dannheisser Foundation", 
+  "ArtistBio": "(American, born 1939)", 
+  "DateAcquired": "1996-05-16", 
+  "\ufeffTitle": "Two Rounds", 
   "ObjectID": "35338"
 }

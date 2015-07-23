@@ -5,8 +5,7 @@
   "Artist": "Anselm Kiefer", 
   "URL": "http://www.moma.org/collection/works/13447", 
   "CuratorApproved": "Y", 
-  "Title": "Double page plate (folios 10 verso and 11) from Der Rhein", 
-  "DateAcquired": "1984-05-23", 
+  "CreditLine": "Purchase", 
   "Date": "1983", 
   "ArtistID": 3086, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "203.1984.11", 
-  "ArtistBio": "German, born 1945", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(German, born 1945)", 
+  "DateAcquired": "1984-05-23", 
+  "\ufeffTitle": "Double page plate (folios 10 verso and 11) from Der Rhein", 
   "ObjectID": "13447"
 }

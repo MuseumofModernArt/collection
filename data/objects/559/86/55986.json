@@ -5,8 +5,7 @@
   "Artist": "Larry Fink", 
   "URL": "http://www.moma.org/collection/works/55986", 
   "CuratorApproved": "Y", 
-  "Title": "New York City", 
-  "DateAcquired": "1978-10-12", 
+  "CreditLine": "Acquired with matching funds from David H. McAlpin and the National Endowment for the Arts, 1978", 
   "Date": "May 1977", 
   "ArtistID": 1877, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "675.1978", 
-  "ArtistBio": "American, born 1941", 
-  "CreditLine": "Acquired with matching funds from David H. McAlpin and the National Endowment for the Arts, 1978", 
+  "ArtistBio": "(American, born 1941)", 
+  "DateAcquired": "1978-10-12", 
+  "\ufeffTitle": "New York City", 
   "ObjectID": "55986"
 }

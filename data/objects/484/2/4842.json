@@ -5,8 +5,7 @@
   "Artist": "Georges Braque", 
   "URL": "http://www.moma.org/collection/works/4842", 
   "CuratorApproved": "Y", 
-  "Title": "Exposition, Galerie Maeght", 
-  "DateAcquired": "1960-04-06", 
+  "CreditLine": "Gift of Mourlot Fr\u00e8res", 
   "Date": "1959", 
   "ArtistID": 744, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "46.1960", 
-  "ArtistBio": "French, 1882\u20131963", 
-  "CreditLine": "Gift of Mourlot Fr\u00e8res", 
+  "ArtistBio": "(French, 1882\u20131963)", 
+  "DateAcquired": "1960-04-06", 
+  "\ufeffTitle": "Exposition, Galerie Maeght", 
   "ObjectID": "4842"
 }

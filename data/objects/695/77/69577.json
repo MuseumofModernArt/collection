@@ -1,12 +1,11 @@
 {
-  "Medium": "Screenprint  ", 
-  "Dimensions": "Composition (irreg.): 28 7/16 x 22 11/16\" (72.2 x 57.6 cm)  Sheet: 30 5/8 x 23 1/8\" (77.8 x 58.7 cm)", 
+  "Medium": "Screenprint\r\n", 
+  "Dimensions": "Composition (irreg.): 28 7/16 x 22 11/16\" (72.2 x 57.6 cm)\r\nSheet: 30 5/8 x 23 1/8\" (77.8 x 58.7 cm)", 
   "Classification": "Print", 
   "Artist": "Robert Rauschenberg", 
   "URL": "http://www.moma.org/collection/works/69577", 
   "CuratorApproved": "Y", 
-  "Title": "People Have Enough Trouble Without Being Intimidted by an Artichoke", 
-  "DateAcquired": "1983-01-18", 
+  "CreditLine": "Gift of Mr. and Mrs. Harry Kahn", 
   "Date": "1979", 
   "ArtistID": 4823, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "462.1982", 
-  "ArtistBio": "American, 1925\u20132008", 
-  "CreditLine": "Gift of Mr. and Mrs. Harry Kahn", 
+  "ArtistBio": "(American, 1925\u20132008)", 
+  "DateAcquired": "1983-01-18", 
+  "\ufeffTitle": "People Have Enough Trouble Without Being Intimidted by an Artichoke", 
   "ObjectID": "69577"
 }

@@ -5,8 +5,7 @@
   "Artist": "Associated Press", 
   "URL": "http://www.moma.org/collection/works/58525", 
   "CuratorApproved": "Y", 
-  "Title": "When Liberation Came", 
-  "DateAcquired": "2001-06-14", 
+  "CreditLine": "The New York Times Collection", 
   "Date": "1944", 
   "ArtistID": 8501, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "1932.2001", 
-  "ArtistBio": "NULL", 
-  "CreditLine": "The New York Times Collection", 
+  "ArtistBio": "", 
+  "DateAcquired": "2001-06-14", 
+  "\ufeffTitle": "\"When Liberation Came\"", 
   "ObjectID": "58525"
 }

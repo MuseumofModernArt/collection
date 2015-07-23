@@ -5,8 +5,7 @@
   "Artist": "John Chamberlain", 
   "URL": "http://www.moma.org/collection/works/36925", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled (MAAB #315)", 
-  "DateAcquired": "1986-12-22", 
+  "CreditLine": "Gift of Agnes Gund", 
   "Date": "(1971)", 
   "ArtistID": 1060, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "442.1986", 
-  "ArtistBio": "American, 1927\u20132011", 
-  "CreditLine": "Gift of Agnes Gund", 
+  "ArtistBio": "(American, 1927\u20132011)", 
+  "DateAcquired": "1986-12-22", 
+  "\ufeffTitle": "Untitled (MAAB #315)", 
   "ObjectID": "36925"
 }

@@ -1,12 +1,11 @@
 {
   "Medium": "Lithograph", 
-  "Dimensions": "irreg composition  35 3/8 x 24 1/4\" (89.8 x 61.6 cm)  sheet  41 3/4 x 30 1/2\" (106 x 77.5 cm)", 
+  "Dimensions": "irreg composition  35 3/8 x 24 1/4\" (89.8 x 61.6 cm)\r\nsheet  41 3/4 x 30 1/2\" (106 x 77.5 cm)", 
   "Classification": "Print", 
   "Artist": "Robert Motherwell", 
   "URL": "http://www.moma.org/collection/works/68932", 
   "CuratorApproved": "Y", 
-  "Title": "Stoneness of the Stone", 
-  "DateAcquired": "1978-05-22", 
+  "CreditLine": "Gift of the artist and Brooke Alexander, Inc.", 
   "Date": "(1974)", 
   "ArtistID": 4126, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "426.1978", 
-  "ArtistBio": "American, 1915\u20131991", 
-  "CreditLine": "Gift of the artist and Brooke Alexander, Inc.", 
+  "ArtistBio": "(American, 1915\u20131991)", 
+  "DateAcquired": "1978-05-22", 
+  "\ufeffTitle": "Stoneness of the Stone", 
   "ObjectID": "68932"
 }

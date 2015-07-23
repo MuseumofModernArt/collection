@@ -5,8 +5,7 @@
   "Artist": "Peter Behrens", 
   "URL": "http://www.moma.org/collection/works/1603", 
   "CuratorApproved": "Y", 
-  "Title": "Fan (model GB1)", 
-  "DateAcquired": "2000-01-19", 
+  "CreditLine": "Melva Bucksbaum Purchase Fund", 
   "Date": "c. 1908", 
   "ArtistID": 438, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "24.2000", 
-  "ArtistBio": "German, 1868\u20131940", 
-  "CreditLine": "Melva Bucksbaum Purchase Fund", 
+  "ArtistBio": "(German, 1868\u20131940)", 
+  "DateAcquired": "2000-01-19", 
+  "\ufeffTitle": "Fan (model GB1)", 
   "ObjectID": "1603"
 }

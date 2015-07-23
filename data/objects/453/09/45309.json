@@ -5,8 +5,7 @@
   "Artist": "Dornac (a.k.a. Paul Fran\u00e7ois Arnold Cardon)", 
   "URL": "http://www.moma.org/collection/works/45309", 
   "CuratorApproved": "Y", 
-  "Title": "Paul Verlaine", 
-  "DateAcquired": "1982-03-11", 
+  "CreditLine": "Acquired through the generosity of Shirley C. Burden", 
   "Date": "May 28, 1892", 
   "ArtistID": 1592, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "62.1982", 
-  "ArtistBio": "French, 1859\u20131941", 
-  "CreditLine": "Acquired through the generosity of Shirley C. Burden", 
+  "ArtistBio": "(French, 1859\u20131941)", 
+  "DateAcquired": "1982-03-11", 
+  "\ufeffTitle": "Paul Verlaine", 
   "ObjectID": "45309"
 }

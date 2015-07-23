@@ -5,8 +5,7 @@
   "Artist": "Gerhard Richter", 
   "URL": "http://www.moma.org/collection/works/35509", 
   "CuratorApproved": "Y", 
-  "Title": "28.2.88", 
-  "DateAcquired": "1993-05-05", 
+  "CreditLine": "Gift of Barbara G. Pine", 
   "Date": "1988", 
   "ArtistID": 4907, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "202.1993", 
-  "ArtistBio": "German, born 1932", 
-  "CreditLine": "Gift of Barbara G. Pine", 
+  "ArtistBio": "(German, born 1932)", 
+  "DateAcquired": "1993-05-05", 
+  "\ufeffTitle": "28.2.88", 
   "ObjectID": "35509"
 }

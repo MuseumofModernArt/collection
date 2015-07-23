@@ -5,8 +5,7 @@
   "Artist": "Oskar Kokoschka", 
   "URL": "http://www.moma.org/collection/works/69350", 
   "CuratorApproved": "Y", 
-  "Title": "Maria Orska", 
-  "DateAcquired": "1949-09-29", 
+  "CreditLine": "Acquired through the Lillie P. Bliss Bequest", 
   "Date": "(1922)", 
   "ArtistID": 3197, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "452.1949", 
-  "ArtistBio": "Austrian, 1886\u20131980", 
-  "CreditLine": "Acquired through the Lillie P. Bliss Bequest", 
+  "ArtistBio": "(Austrian, 1886\u20131980)", 
+  "DateAcquired": "1949-09-29", 
+  "\ufeffTitle": "Maria Orska", 
   "ObjectID": "69350"
 }

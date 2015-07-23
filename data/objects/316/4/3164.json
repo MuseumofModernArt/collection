@@ -5,8 +5,7 @@
   "Artist": "Alvar Aalto", 
   "URL": "http://www.moma.org/collection/works/3164", 
   "CuratorApproved": "Y", 
-  "Title": "Stacking Side Chairs", 
-  "DateAcquired": "1984-10-30", 
+  "CreditLine": "Gift of Manfred Ludewig", 
   "Date": "1929", 
   "ArtistID": 34, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "274.1984.1-4", 
-  "ArtistBio": "Finnish, 1898\u20131976", 
-  "CreditLine": "Gift of Manfred Ludewig", 
+  "ArtistBio": "(Finnish, 1898\u20131976)", 
+  "DateAcquired": "1984-10-30", 
+  "\ufeffTitle": "Stacking Side Chairs", 
   "ObjectID": "3164"
 }

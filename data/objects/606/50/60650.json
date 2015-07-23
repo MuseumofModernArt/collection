@@ -5,8 +5,7 @@
   "Artist": "Aurino Valenca Lins Darel", 
   "URL": "http://www.moma.org/collection/works/60650", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1968-02-05", 
+  "CreditLine": "Inter-American Fund", 
   "Date": "(1967)", 
   "ArtistID": 1389, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "38.1968", 
-  "ArtistBio": "Brazilian, born 1925", 
-  "CreditLine": "Inter-American Fund", 
+  "ArtistBio": "(Brazilian, born 1925)", 
+  "DateAcquired": "1968-02-05", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "60650"
 }

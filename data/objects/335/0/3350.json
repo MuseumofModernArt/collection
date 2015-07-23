@@ -1,12 +1,11 @@
 {
   "Medium": "Impact styrene, styrene acryloitrile, and acetal", 
-  "Dimensions": "Overall: 1 1/8 x 11 5/8\" (2.9 x 29.5 cm)  .a (bottom): 1/2 x 11 5/8\" (1.3 x 29.5 cm)  .b (lid): 3/4 x 11 1/4\" (1.9 x 28.6 cm)  .c (tape): 3/4 x 10 3/8\" (1.9 x 26.4 cm)", 
+  "Dimensions": "Overall: 1 1/8 x 11 5/8\" (2.9 x 29.5 cm)\r\n.a (bottom): 1/2 x 11 5/8\" (1.3 x 29.5 cm)\r\n.b (lid): 3/4 x 11 1/4\" (1.9 x 28.6 cm)\r\n.c (tape): 3/4 x 10 3/8\" (1.9 x 26.4 cm)", 
   "Classification": "A&D Design", 
-  "Artist": "John Stram", 
+  "Artist": "John Stram, Jack Stringer, Carl Norby", 
   "URL": "http://www.moma.org/collection/works/3350", 
   "CuratorApproved": "Y", 
-  "Title": "Computer Tape Package Series 500", 
-  "DateAcquired": "1969-04-24", 
+  "CreditLine": "Gift of the manufacturer", 
   "Date": "1968", 
   "ArtistID": 5684, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "345.1969.a-c", 
-  "ArtistBio": "American, born 1939", 
-  "CreditLine": "Gift of the manufacturer", 
+  "ArtistBio": "(American, born 1939) (American, born 1927) (American, born 1935)", 
+  "DateAcquired": "1969-04-24", 
+  "\ufeffTitle": "Computer Tape Package Series 500", 
   "ObjectID": "3350"
 }

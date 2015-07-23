@@ -1,12 +1,11 @@
 {
-  "Medium": "Illustrated book with 6 woodcuts  ", 
-  "Dimensions": "NULL", 
+  "Medium": "Illustrated book with 6 woodcuts\r\n", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "Matthias Mansen", 
   "URL": "http://www.moma.org/collection/works/64770", 
   "CuratorApproved": "Y", 
-  "Title": "About the House: New York 1989- 1992", 
-  "DateAcquired": "1997-05-28", 
+  "CreditLine": "Gift of the artist", 
   "Date": "1997", 
   "ArtistID": 3738, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "227.1997.1-6", 
-  "ArtistBio": "German, born 1958", 
-  "CreditLine": "Gift of the artist", 
+  "ArtistBio": "(German, born 1958)", 
+  "DateAcquired": "1997-05-28", 
+  "\ufeffTitle": "About the House: New York 1989- 1992", 
   "ObjectID": "64770"
 }

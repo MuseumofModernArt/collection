@@ -1,12 +1,11 @@
 {
   "Medium": "Etching and drypoint", 
-  "Dimensions": "plate  10 x 7 1/16\" (25.4 x 18 cm)  sheet  26 1/16 x 20 3/16\" (66.2 x 51.3 cm)", 
+  "Dimensions": "plate  10 x 7 1/16\" (25.4 x 18 cm)\r\nsheet  26 1/16 x 20 3/16\" (66.2 x 51.3 cm)", 
   "Classification": "Print", 
   "Artist": "Jim Dine", 
   "URL": "http://www.moma.org/collection/works/65307", 
   "CuratorApproved": "Y", 
-  "Title": "Self Portrait as a Negative", 
-  "DateAcquired": "1975-10-07", 
+  "CreditLine": "Gift of Celeste Bartos", 
   "Date": "1975", 
   "ArtistID": 1547, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "253.1975", 
-  "ArtistBio": "American, born 1935", 
-  "CreditLine": "Gift of Celeste Bartos", 
+  "ArtistBio": "(American, born 1935)", 
+  "DateAcquired": "1975-10-07", 
+  "\ufeffTitle": "Self Portrait as a Negative", 
   "ObjectID": "65307"
 }

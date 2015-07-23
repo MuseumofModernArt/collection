@@ -5,8 +5,7 @@
   "Artist": "Massimo Vignelli", 
   "URL": "http://www.moma.org/collection/works/7080", 
   "CuratorApproved": "Y", 
-  "Title": "Unfinished Modern", 
-  "DateAcquired": "1985-11-18", 
+  "CreditLine": "Gift of the Formica Corporation", 
   "Date": "1984", 
   "ArtistID": 6155, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "456.1985", 
-  "ArtistBio": "Italian, 1931\u20132014", 
-  "CreditLine": "Gift of the Formica Corporation", 
+  "ArtistBio": "(Italian, 1931\u20132014)", 
+  "DateAcquired": "1985-11-18", 
+  "\ufeffTitle": "Unfinished Modern", 
   "ObjectID": "7080"
 }

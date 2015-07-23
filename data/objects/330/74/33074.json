@@ -5,8 +5,7 @@
   "Artist": "James Castle", 
   "URL": "http://www.moma.org/collection/works/33074", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled (Chair Construction)", 
-  "DateAcquired": "1999-02-25", 
+  "CreditLine": "Gift of the Family of James Castle", 
   "Date": "(c. 1930)", 
   "ArtistID": 7963, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "8.1999", 
-  "ArtistBio": "American, 1900\u20131977", 
-  "CreditLine": "Gift of the Family of James Castle", 
+  "ArtistBio": "(American, 1900\u20131977)", 
+  "DateAcquired": "1999-02-25", 
+  "\ufeffTitle": "Untitled (Chair Construction)", 
   "ObjectID": "33074"
 }

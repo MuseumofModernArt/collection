@@ -1,12 +1,11 @@
 {
   "Medium": "Etching and aquatint", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "Robert Stackhouse", 
   "URL": "http://www.moma.org/collection/works/66109", 
   "CuratorApproved": "Y", 
-  "Title": "At Hudson River Museum from the portfolio Sources and Structures", 
-  "DateAcquired": "1992-05-20", 
+  "CreditLine": "Gift of Pace Prints and the artist", 
   "Date": "1989", 
   "ArtistID": 6863, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "288.1992", 
-  "ArtistBio": "American, born 1942", 
-  "CreditLine": "Gift of Pace Prints and the artist", 
+  "ArtistBio": "(American, born 1942)", 
+  "DateAcquired": "1992-05-20", 
+  "\ufeffTitle": "At Hudson River Museum from the portfolio Sources and Structures", 
   "ObjectID": "66109"
 }

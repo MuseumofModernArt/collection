@@ -5,8 +5,7 @@
   "Artist": "Reinhold Weiss", 
   "URL": "http://www.moma.org/collection/works/4097", 
   "CuratorApproved": "Y", 
-  "Title": "Grill (model HG 1)", 
-  "DateAcquired": "1964-06-15", 
+  "CreditLine": "Gift of the manufacturer", 
   "Date": "1962", 
   "ArtistID": 7147, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "560.1964", 
-  "ArtistBio": "German, born 1934", 
-  "CreditLine": "Gift of the manufacturer", 
+  "ArtistBio": "(German, born 1934)", 
+  "DateAcquired": "1964-06-15", 
+  "\ufeffTitle": "Grill (model HG 1)", 
   "ObjectID": "4097"
 }

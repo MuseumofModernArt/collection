@@ -1,12 +1,11 @@
 {
   "Medium": "Woodcut", 
-  "Dimensions": "sl.irreg. composition  20 3/4 x 27 15/16\" (52.7 x 71 cm)  sheet  22 13/16 x 30 1/8\" (57 x 76.5 cm)", 
+  "Dimensions": "sl.irreg. composition  20 3/4 x 27 15/16\" (52.7 x 71 cm)\r\nsheet  22 13/16 x 30 1/8\" (57 x 76.5 cm)", 
   "Classification": "Print", 
   "Artist": "Martin Puryear", 
   "URL": "http://www.moma.org/collection/works/59982", 
   "CuratorApproved": "Y", 
-  "Title": "Dark Loop", 
-  "DateAcquired": "1991-01-23", 
+  "CreditLine": "Purchase", 
   "Date": "1982", 
   "ArtistID": 4758, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "15.1991", 
-  "ArtistBio": "American, born 1941", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, born 1941)", 
+  "DateAcquired": "1991-01-23", 
+  "\ufeffTitle": "Dark Loop", 
   "ObjectID": "59982"
 }

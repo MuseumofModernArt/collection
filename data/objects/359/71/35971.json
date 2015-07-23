@@ -5,8 +5,7 @@
   "Artist": "Max Ernst", 
   "URL": "http://www.moma.org/collection/works/35971", 
   "CuratorApproved": "Y", 
-  "Title": "Here Everything is Still Floating", 
-  "DateAcquired": "1937-12-03", 
+  "CreditLine": "Purchase", 
   "Date": "(1920)", 
   "ArtistID": 1752, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "282.1937", 
-  "ArtistBio": "French, born Germany. 1891\u20131976", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(French, born Germany. 1891\u20131976)", 
+  "DateAcquired": "1937-12-03", 
+  "\ufeffTitle": "Here Everything is Still Floating", 
   "ObjectID": "35971"
 }

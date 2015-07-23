@@ -1,12 +1,11 @@
 {
   "Medium": "Photolithograph", 
-  "Dimensions": "Sheet: 7 3/8 x 3 3/8\" (18.7 x 8.6 cm)  Composition: 7 x 3\" (17.8 x 7.6 cm)", 
+  "Dimensions": "Sheet: 7 3/8 x 3 3/8\" (18.7 x 8.6 cm)\r\nComposition: 7 x 3\" (17.8 x 7.6 cm)", 
   "Classification": "Print", 
   "Artist": "Ian Hamilton Finlay", 
   "URL": "http://www.moma.org/collection/works/61857", 
   "CuratorApproved": "Y", 
-  "Title": "A Model of Order", 
-  "DateAcquired": "1997-03-06", 
+  "CreditLine": "Walter Bareiss Fund", 
   "Date": "1993", 
   "ArtistID": 1878, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "104.1997", 
-  "ArtistBio": "British, 1925\u20132006", 
-  "CreditLine": "Walter Bareiss Fund", 
+  "ArtistBio": "(British, 1925\u20132006)", 
+  "DateAcquired": "1997-03-06", 
+  "\ufeffTitle": "A Model of Order", 
   "ObjectID": "61857"
 }

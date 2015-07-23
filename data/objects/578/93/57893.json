@@ -5,8 +5,7 @@
   "Artist": "Lisette Model", 
   "URL": "http://www.moma.org/collection/works/57893", 
   "CuratorApproved": "Y", 
-  "Title": "Promenade des Anglais", 
-  "DateAcquired": "1964-11-10", 
+  "CreditLine": "Gift of the photographer", 
   "Date": "1938", 
   "ArtistID": 4036, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "1209.1964", 
-  "ArtistBio": "American, born Austria. 1901\u20131983", 
-  "CreditLine": "Gift of the photographer", 
+  "ArtistBio": "(American, born Austria. 1901\u20131983)", 
+  "DateAcquired": "1964-11-10", 
+  "\ufeffTitle": "Promenade des Anglais", 
   "ObjectID": "57893"
 }

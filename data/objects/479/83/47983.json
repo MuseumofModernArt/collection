@@ -5,8 +5,7 @@
   "Artist": "Zeke Berman", 
   "URL": "http://www.moma.org/collection/works/47983", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1979-05-10", 
+  "CreditLine": "The Family of Man Fund", 
   "Date": "1979", 
   "ArtistID": 506, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "186.1979", 
-  "ArtistBio": "American, born 1951", 
-  "CreditLine": "The Family of Man Fund", 
+  "ArtistBio": "(American, born 1951)", 
+  "DateAcquired": "1979-05-10", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "47983"
 }

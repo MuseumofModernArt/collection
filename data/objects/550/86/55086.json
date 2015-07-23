@@ -5,8 +5,7 @@
   "Artist": "Marion Post Wolcott", 
   "URL": "http://www.moma.org/collection/works/55086", 
   "CuratorApproved": "Y", 
-  "Title": "Mr. R.B. Whitley Visiting his General Store", 
-  "DateAcquired": "1981-12-17", 
+  "CreditLine": "Gift of Arthur Rothstein", 
   "Date": "1939", 
   "ArtistID": 6426, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "555.1981", 
-  "ArtistBio": "American, 1910\u20131990", 
-  "CreditLine": "Gift of Arthur Rothstein", 
+  "ArtistBio": "(American, 1910\u20131990)", 
+  "DateAcquired": "1981-12-17", 
+  "\ufeffTitle": "Mr. R.B. Whitley Visiting his General Store", 
   "ObjectID": "55086"
 }

@@ -5,8 +5,7 @@
   "Artist": "Richard Hamilton", 
   "URL": "http://www.moma.org/collection/works/68881", 
   "CuratorApproved": "Y", 
-  "Title": "My Marilyn", 
-  "DateAcquired": "1966-10-11", 
+  "CreditLine": "Joseph G. Mayer Foundation Fund", 
   "Date": "1965 (published 1966)", 
   "ArtistID": 2481, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "424.1966", 
-  "ArtistBio": "British, 1922\u20132011", 
-  "CreditLine": "Joseph G. Mayer Foundation Fund", 
+  "ArtistBio": "(British, 1922\u20132011)", 
+  "DateAcquired": "1966-10-11", 
+  "\ufeffTitle": "My Marilyn", 
   "ObjectID": "68881"
 }

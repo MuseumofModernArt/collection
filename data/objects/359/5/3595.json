@@ -5,8 +5,7 @@
   "Artist": "Ari 't Hart", 
   "URL": "http://www.moma.org/collection/works/3595", 
   "CuratorApproved": "Y", 
-  "Title": "Fishing Reel", 
-  "DateAcquired": "1992-10-21", 
+  "CreditLine": "Gift of the manufacturer", 
   "Date": "1990", 
   "ArtistID": 6970, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "437.1992", 
-  "ArtistBio": "Dutch, born 1936", 
-  "CreditLine": "Gift of the manufacturer", 
+  "ArtistBio": "(Dutch, born 1936)", 
+  "DateAcquired": "1992-10-21", 
+  "\ufeffTitle": "Fishing Reel", 
   "ObjectID": "3595"
 }

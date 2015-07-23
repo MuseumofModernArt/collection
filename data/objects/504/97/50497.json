@@ -5,8 +5,7 @@
   "Artist": "Jeffrey Scales", 
   "URL": "http://www.moma.org/collection/works/50497", 
   "CuratorApproved": "Y", 
-  "Title": "Woman Smoking, Fifth Avenue", 
-  "DateAcquired": "1988-10-13", 
+  "CreditLine": "The Family of Man Fund", 
   "Date": "1985", 
   "ArtistID": 5191, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "311.1988", 
-  "ArtistBio": "American, born 1954", 
-  "CreditLine": "The Family of Man Fund", 
+  "ArtistBio": "(American, born 1954)", 
+  "DateAcquired": "1988-10-13", 
+  "\ufeffTitle": "Woman Smoking, Fifth Avenue", 
   "ObjectID": "50497"
 }

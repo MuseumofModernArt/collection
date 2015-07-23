@@ -1,12 +1,11 @@
 {
-  "Medium": "One from a portfolio of thirteen lithographs (including title page)  ", 
+  "Medium": "One from a portfolio of thirteen lithographs (including title page)\r\n", 
   "Dimensions": "composition: 9 1/4 x 7 5/16\" (23.5 x 18.5 cm); sheet: 15 x 11 1/8\" (38.1 x 28.2 cm)", 
   "Classification": "Print", 
   "Artist": "Lovis Corinth", 
   "URL": "http://www.moma.org/collection/works/67791", 
   "CuratorApproved": "Y", 
-  "Title": "Tell's Shot from William Tell", 
-  "DateAcquired": "1956-10-25", 
+  "CreditLine": "J. B. Neumann", 
   "Date": "(1923-24, published 1925)", 
   "ArtistID": 1243, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "364.1956.8", 
-  "ArtistBio": "German, 1858\u20131925", 
-  "CreditLine": "J. B. Neumann", 
+  "ArtistBio": "(German, 1858\u20131925)", 
+  "DateAcquired": "1956-10-25", 
+  "\ufeffTitle": "Tell's Shot (Der Tell-Schuss) from William Tell (Wilhelm Tell)", 
   "ObjectID": "67791"
 }

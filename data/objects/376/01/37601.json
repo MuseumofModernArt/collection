@@ -5,8 +5,7 @@
   "Artist": "Georges Rouault", 
   "URL": "http://www.moma.org/collection/works/37601", 
   "CuratorApproved": "Y", 
-  "Title": "Circus Trainer", 
-  "DateAcquired": "1951-12-14", 
+  "CreditLine": "Gift of Mr. and Mrs. Peter A. R\u00fcbel", 
   "Date": "1915", 
   "ArtistID": 5053, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "616.1951", 
-  "ArtistBio": "French, 1871\u20131958", 
-  "CreditLine": "Gift of Mr. and Mrs. Peter A. R\u00fcbel", 
+  "ArtistBio": "(French, 1871\u20131958)", 
+  "DateAcquired": "1951-12-14", 
+  "\ufeffTitle": "Circus Trainer", 
   "ObjectID": "37601"
 }

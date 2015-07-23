@@ -5,8 +5,7 @@
   "Artist": "Ed Rossbach", 
   "URL": "http://www.moma.org/collection/works/2167", 
   "CuratorApproved": "Y", 
-  "Title": "Paper Work", 
-  "DateAcquired": "1986-05-16", 
+  "CreditLine": "Gift of the artist", 
   "Date": "1974", 
   "ArtistID": 5032, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "112.1989", 
-  "ArtistBio": "American, 1914\u20132002", 
-  "CreditLine": "Gift of the artist", 
+  "ArtistBio": "(American, 1914\u20132002)", 
+  "DateAcquired": "1986-05-16", 
+  "\ufeffTitle": "Paper Work", 
   "ObjectID": "2167"
 }

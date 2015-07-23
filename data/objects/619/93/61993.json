@@ -1,12 +1,11 @@
 {
   "Medium": "Portfolio of 7 screenprints", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "Ian Hamilton Finlay", 
   "URL": "http://www.moma.org/collection/works/61993", 
   "CuratorApproved": "Y", 
-  "Title": "Reef Ropes", 
-  "DateAcquired": "1997-03-06", 
+  "CreditLine": "Walter Bareiss Fund", 
   "Date": "1996", 
   "ArtistID": 1878, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "112.1997.1-7", 
-  "ArtistBio": "British, 1925\u20132006", 
-  "CreditLine": "Walter Bareiss Fund", 
+  "ArtistBio": "(British, 1925\u20132006)", 
+  "DateAcquired": "1997-03-06", 
+  "\ufeffTitle": "Reef Ropes", 
   "ObjectID": "61993"
 }

@@ -5,8 +5,7 @@
   "Artist": "William Bradley", 
   "URL": "http://www.moma.org/collection/works/5123", 
   "CuratorApproved": "Y", 
-  "Title": "The Inland Printer, Christmas 1895", 
-  "DateAcquired": "1968-03-07", 
+  "CreditLine": "Gift of Joseph H. Heil", 
   "Date": "1895", 
   "ArtistID": 732, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "115.1968", 
-  "ArtistBio": "American, 1868\u20131962", 
-  "CreditLine": "Gift of Joseph H. Heil", 
+  "ArtistBio": "(American, 1868\u20131962)", 
+  "DateAcquired": "1968-03-07", 
+  "\ufeffTitle": "The Inland Printer, Christmas 1895", 
   "ObjectID": "5123"
 }

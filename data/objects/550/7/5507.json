@@ -5,8 +5,7 @@
   "Artist": "Ted Shaine", 
   "URL": "http://www.moma.org/collection/works/5507", 
   "CuratorApproved": "Y", 
-  "Title": "Turn On Tune In Drop Out", 
-  "DateAcquired": "1968-03-07", 
+  "CreditLine": "Gift of Joseph H. Heil", 
   "Date": "1967", 
   "ArtistID": 5369, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "175.1968", 
-  "ArtistBio": "American, born 1947", 
-  "CreditLine": "Gift of Joseph H. Heil", 
+  "ArtistBio": "(American, born 1947)", 
+  "DateAcquired": "1968-03-07", 
+  "\ufeffTitle": "Turn On Tune In Drop Out", 
   "ObjectID": "5507"
 }

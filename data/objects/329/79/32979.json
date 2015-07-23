@@ -5,8 +5,7 @@
   "Artist": "Gustav Klimt", 
   "URL": "http://www.moma.org/collection/works/32979", 
   "CuratorApproved": "Y", 
-  "Title": "Standing Woman", 
-  "DateAcquired": "1966-01-11", 
+  "CreditLine": "Gift of Mrs. Anneli Arms", 
   "Date": "(c. 1905)", 
   "ArtistID": 3147, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "2.1966", 
-  "ArtistBio": "Austrian, 1862\u20131918", 
-  "CreditLine": "Gift of Mrs. Anneli Arms", 
+  "ArtistBio": "(Austrian, 1862\u20131918)", 
+  "DateAcquired": "1966-01-11", 
+  "\ufeffTitle": "Standing Woman (Stehende Schwangere mit reich ornamentiertem Gewand nach rechts)", 
   "ObjectID": "32979"
 }

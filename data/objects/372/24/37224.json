@@ -5,8 +5,7 @@
   "Artist": "Christopher Wool", 
   "URL": "http://www.moma.org/collection/works/37224", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1992-11-05", 
+  "CreditLine": "Gift of Charles B. Benenson", 
   "Date": "(1991)", 
   "ArtistID": 6448, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "504.1992", 
-  "ArtistBio": "American, born 1955", 
-  "CreditLine": "Gift of Charles B. Benenson", 
+  "ArtistBio": "(American, born 1955)", 
+  "DateAcquired": "1992-11-05", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "37224"
 }

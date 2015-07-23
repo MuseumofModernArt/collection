@@ -1,12 +1,11 @@
 {
   "Medium": "Etching and aquatint", 
-  "Dimensions": "composition  27 13/16 x 34 3/4\" (70.6 x 88.3 cm)  sheet  36 1/4 x 42 7/8\" (92 x 108.9 cm)", 
+  "Dimensions": "composition  27 13/16 x 34 3/4\" (70.6 x 88.3 cm)\r\nsheet  36 1/4 x 42 7/8\" (92 x 108.9 cm)", 
   "Classification": "Print", 
   "Artist": "Bill Jensen", 
   "URL": "http://www.moma.org/collection/works/62335", 
   "CuratorApproved": "Y", 
-  "Title": "Defiance", 
-  "DateAcquired": "1997-03-06", 
+  "CreditLine": "Gift of Emily Fisher Landau", 
   "Date": "1996", 
   "ArtistID": 2907, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "126.1997", 
-  "ArtistBio": "American, born 1945", 
-  "CreditLine": "Gift of Emily Fisher Landau", 
+  "ArtistBio": "(American, born 1945)", 
+  "DateAcquired": "1997-03-06", 
+  "\ufeffTitle": "Defiance", 
   "ObjectID": "62335"
 }

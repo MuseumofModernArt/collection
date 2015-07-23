@@ -5,8 +5,7 @@
   "Artist": "Atelier Martine, Paris, France", 
   "URL": "http://www.moma.org/collection/works/2917", 
   "CuratorApproved": "Y", 
-  "Title": "Printed Fabric", 
-  "DateAcquired": "1967-06-06", 
+  "CreditLine": "Purchase", 
   "Date": "1912\u20131913", 
   "ArtistID": 3832, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "235.1967", 
-  "ArtistBio": "1911\u20131930", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(1911\u20131930)", 
+  "DateAcquired": "1967-06-06", 
+  "\ufeffTitle": "Printed Fabric", 
   "ObjectID": "2917"
 }

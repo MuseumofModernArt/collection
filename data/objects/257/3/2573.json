@@ -5,8 +5,7 @@
   "Artist": "Michael Wilson", 
   "URL": "http://www.moma.org/collection/works/2573", 
   "CuratorApproved": "Y", 
-  "Title": "Infant's fork and spoon", 
-  "DateAcquired": "1988-04-27", 
+  "CreditLine": "Gift of the manufacturer", 
   "Date": "1986", 
   "ArtistID": 6389, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "151.1988.1-2", 
-  "ArtistBio": "American, born 1947", 
-  "CreditLine": "Gift of the manufacturer", 
+  "ArtistBio": "(American, born 1947)", 
+  "DateAcquired": "1988-04-27", 
+  "\ufeffTitle": "Infant's fork and spoon", 
   "ObjectID": "2573"
 }

@@ -5,8 +5,7 @@
   "Artist": "Richard Tuttle", 
   "URL": "http://www.moma.org/collection/works/37052", 
   "CuratorApproved": "Y", 
-  "Title": "Photographs 1 - Photographs 8", 
-  "DateAcquired": "1986-12-22", 
+  "CreditLine": "Purchase", 
   "Date": "(1984)", 
   "ArtistID": 5983, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "466.1986.1-8", 
-  "ArtistBio": "American, born 1941", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, born 1941)", 
+  "DateAcquired": "1986-12-22", 
+  "\ufeffTitle": "Photographs 1 - Photographs 8", 
   "ObjectID": "37052"
 }

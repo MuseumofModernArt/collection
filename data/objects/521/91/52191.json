@@ -5,8 +5,7 @@
   "Artist": "Manuel \u00c1lvarez Bravo", 
   "URL": "http://www.moma.org/collection/works/52191", 
   "CuratorApproved": "Y", 
-  "Title": "Ren\u00e9 d'Harnoncourt", 
-  "DateAcquired": "1971-05-04", 
+  "CreditLine": "Gift of Ren\u00e9 d'Harnoncourt", 
   "Date": "1930s", 
   "ArtistID": 135, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "381.1971", 
-  "ArtistBio": "Mexican, 1902\u20132002", 
-  "CreditLine": "Gift of Ren\u00e9 d'Harnoncourt", 
+  "ArtistBio": "(Mexican, 1902\u20132002)", 
+  "DateAcquired": "1971-05-04", 
+  "\ufeffTitle": "Ren\u00e9 d'Harnoncourt", 
   "ObjectID": "52191"
 }

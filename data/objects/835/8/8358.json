@@ -5,8 +5,7 @@
   "Artist": "Tony Smith", 
   "URL": "http://www.moma.org/collection/works/8358", 
   "CuratorApproved": "Y", 
-  "Title": "Tony Smith", 
-  "DateAcquired": "1979-05-30", 
+  "CreditLine": "Given anonymously", 
   "Date": "1967", 
   "ArtistID": 5494, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "901.1979", 
-  "ArtistBio": "American, 1912\u20131980", 
-  "CreditLine": "Given anonymously", 
+  "ArtistBio": "(American, 1912\u20131980)", 
+  "DateAcquired": "1979-05-30", 
+  "\ufeffTitle": "Tony Smith", 
   "ObjectID": "8358"
 }

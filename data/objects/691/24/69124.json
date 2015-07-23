@@ -1,12 +1,11 @@
 {
   "Medium": "Wood engraving", 
-  "Dimensions": "Composition: 8 1/16 x 9 1/8\" (20.4 x 23.2 cm)  Sheet: 11 x 12 1/8\" (28 x 30.8 cm)", 
+  "Dimensions": "Composition: 8 1/16 x 9 1/8\" (20.4 x 23.2 cm)\r\nSheet: 11 x 12 1/8\" (28 x 30.8 cm)", 
   "Classification": "Print", 
   "Artist": "John J. A. Murphy", 
   "URL": "http://www.moma.org/collection/works/69124", 
   "CuratorApproved": "Y", 
-  "Title": "Shadow Boxing", 
-  "DateAcquired": "1990-10-23", 
+  "CreditLine": "Abby Aldrich Rockefeller Fund", 
   "Date": "1924", 
   "ArtistID": 4182, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "437.1990", 
-  "ArtistBio": "American, 1888\u20131967", 
-  "CreditLine": "Abby Aldrich Rockefeller Fund", 
+  "ArtistBio": "(American, 1888\u20131967)", 
+  "DateAcquired": "1990-10-23", 
+  "\ufeffTitle": "Shadow Boxing", 
   "ObjectID": "69124"
 }

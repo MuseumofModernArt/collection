@@ -5,8 +5,7 @@
   "Artist": "Sori Yanagi", 
   "URL": "http://www.moma.org/collection/works/2279", 
   "CuratorApproved": "Y", 
-  "Title": "Butterfly Stools", 
-  "DateAcquired": "1958-12-04", 
+  "CreditLine": "Gift of the designer", 
   "Date": "1956", 
   "ArtistID": 6490, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "153.1958.1-2", 
-  "ArtistBio": "Japanese, 1915\u20132011", 
-  "CreditLine": "Gift of the designer", 
+  "ArtistBio": "(Japanese, 1915\u20132011)", 
+  "DateAcquired": "1958-12-04", 
+  "\ufeffTitle": "Butterfly Stools", 
   "ObjectID": "2279"
 }

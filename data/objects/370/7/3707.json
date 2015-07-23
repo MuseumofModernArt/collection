@@ -1,12 +1,11 @@
 {
   "Medium": "Blown glass", 
-  "Dimensions": ".1 (white wine glass): 4 3/8 x 3 3/8\" (11.1 x 8.5 cm)  .2 (port wine glass): 3 x 2 1/4\" (7.6 x 5.7 cm)", 
+  "Dimensions": ".1 (white wine glass): 4 3/8 x 3 3/8\" (11.1 x 8.5 cm)\r\n.2 (port wine glass): 3 x 2 1/4\" (7.6 x 5.7 cm)", 
   "Classification": "A&D Design", 
   "Artist": "Wilhelm Wagenfeld", 
   "URL": "http://www.moma.org/collection/works/3707", 
   "CuratorApproved": "Y", 
-  "Title": "Partial Service of Bremen Glassware", 
-  "DateAcquired": "1982-10-27", 
+  "CreditLine": "Gift of Manfred Ludewig", 
   "Date": "1935", 
   "ArtistID": 6208, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "379.1982.1-2", 
-  "ArtistBio": "German, 1900\u20131990", 
-  "CreditLine": "Gift of Manfred Ludewig", 
+  "ArtistBio": "(German, 1900\u20131990)", 
+  "DateAcquired": "1982-10-27", 
+  "\ufeffTitle": "Partial Service of Bremen Glassware", 
   "ObjectID": "3707"
 }

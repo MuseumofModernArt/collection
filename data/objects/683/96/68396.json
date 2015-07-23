@@ -5,8 +5,7 @@
   "Artist": "Stephen Spurrier", 
   "URL": "http://www.moma.org/collection/works/68396", 
   "CuratorApproved": "Y", 
-  "Title": "Obelisk", 
-  "DateAcquired": "1973-10-24", 
+  "CreditLine": "Purchase", 
   "Date": "1972", 
   "ArtistID": 5576, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "396.1973", 
-  "ArtistBio": "Australian", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(Australian)", 
+  "DateAcquired": "1973-10-24", 
+  "\ufeffTitle": "Obelisk", 
   "ObjectID": "68396"
 }

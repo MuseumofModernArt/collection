@@ -5,8 +5,7 @@
   "Artist": "Neal Boenzi/The New York Times", 
   "URL": "http://www.moma.org/collection/works/58554", 
   "CuratorApproved": "Y", 
-  "Title": "Johnny Weissmuller Giving His Jungle Cry for Mayor Beame and Buster Crabbe", 
-  "DateAcquired": "2001-06-14", 
+  "CreditLine": "The New York Times Collection", 
   "Date": "September 10, 1976", 
   "ArtistID": 8512, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "1961.2001", 
-  "ArtistBio": "American, born 1925", 
-  "CreditLine": "The New York Times Collection", 
+  "ArtistBio": "(American, born 1925)", 
+  "DateAcquired": "2001-06-14", 
+  "\ufeffTitle": "Johnny Weissmuller Giving His Jungle Cry for Mayor Beame and Buster Crabbe", 
   "ObjectID": "58554"
 }

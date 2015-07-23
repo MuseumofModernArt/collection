@@ -5,8 +5,7 @@
   "Artist": "Charles Demuth", 
   "URL": "http://www.moma.org/collection/works/34965", 
   "CuratorApproved": "Y", 
-  "Title": "The Shine", 
-  "DateAcquired": "1934-12-19", 
+  "CreditLine": "Gift of James W. Barney", 
   "Date": "(c. 1916)", 
   "ArtistID": 1490, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "165.1934", 
-  "ArtistBio": "American, 1883\u20131935", 
-  "CreditLine": "Gift of James W. Barney", 
+  "ArtistBio": "(American, 1883\u20131935)", 
+  "DateAcquired": "1934-12-19", 
+  "\ufeffTitle": "The Shine", 
   "ObjectID": "34965"
 }

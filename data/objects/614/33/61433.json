@@ -5,8 +5,7 @@
   "Artist": "Antonio Frasconi", 
   "URL": "http://www.moma.org/collection/works/61433", 
   "CuratorApproved": "Y", 
-  "Title": "Summer Pasture", 
-  "DateAcquired": "1955-04-06", 
+  "CreditLine": "Gift of the artist", 
   "Date": "1955", 
   "ArtistID": 1975, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "65.1955", 
-  "ArtistBio": "American, born Argentina. 1919\u20132013", 
-  "CreditLine": "Gift of the artist", 
+  "ArtistBio": "(American, born Argentina. 1919\u20132013)", 
+  "DateAcquired": "1955-04-06", 
+  "\ufeffTitle": "Summer Pasture", 
   "ObjectID": "61433"
 }

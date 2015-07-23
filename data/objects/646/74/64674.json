@@ -5,8 +5,7 @@
   "Artist": "Howard Hodgkin", 
   "URL": "http://www.moma.org/collection/works/64674", 
   "CuratorApproved": "Y", 
-  "Title": "Two To Go", 
-  "DateAcquired": "1983-01-18", 
+  "CreditLine": "Gift of the artist", 
   "Date": "1981", 
   "ArtistID": 2679, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "222.1983", 
-  "ArtistBio": "British, born 1932", 
-  "CreditLine": "Gift of the artist", 
+  "ArtistBio": "(British, born 1932)", 
+  "DateAcquired": "1983-01-18", 
+  "\ufeffTitle": "Two To Go", 
   "ObjectID": "64674"
 }

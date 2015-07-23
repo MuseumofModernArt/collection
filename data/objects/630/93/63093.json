@@ -5,8 +5,7 @@
   "Artist": "Jim Dine", 
   "URL": "http://www.moma.org/collection/works/63093", 
   "CuratorApproved": "Y", 
-  "Title": "Night Palette", 
-  "DateAcquired": "1965-04-06", 
+  "CreditLine": "Gift of the Celeste and Armand Bartos Foundation", 
   "Date": "1965", 
   "ArtistID": 1547, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "157.1965", 
-  "ArtistBio": "American, born 1935", 
-  "CreditLine": "Gift of the Celeste and Armand Bartos Foundation", 
+  "ArtistBio": "(American, born 1935)", 
+  "DateAcquired": "1965-04-06", 
+  "\ufeffTitle": "Night Palette", 
   "ObjectID": "63093"
 }

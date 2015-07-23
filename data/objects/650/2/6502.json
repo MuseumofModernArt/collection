@@ -5,8 +5,7 @@
   "Artist": "Otto Struck", 
   "URL": "http://www.moma.org/collection/works/6502", 
   "CuratorApproved": "Y", 
-  "Title": "Ausstellung Raumkunst im Neuzeitlichen Landhause [Exhibition of Interior Decoration in Contemporary Houses]", 
-  "DateAcquired": "1984-10-30", 
+  "CreditLine": "Gift of Leonard A. Lauder", 
   "Date": "1909", 
   "ArtistID": 7417, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "358.1984", 
-  "ArtistBio": "German", 
-  "CreditLine": "Gift of Leonard A. Lauder", 
+  "ArtistBio": "(German)", 
+  "DateAcquired": "1984-10-30", 
+  "\ufeffTitle": "Ausstellung Raumkunst im Neuzeitlichen Landhause [Exhibition of Interior Decoration in Contemporary Houses]", 
   "ObjectID": "6502"
 }

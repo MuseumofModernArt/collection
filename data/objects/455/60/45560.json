@@ -5,8 +5,7 @@
   "Artist": "Ernst Haas", 
   "URL": "http://www.moma.org/collection/works/45560", 
   "CuratorApproved": "Y", 
-  "Title": "Homecoming Prisoners, Vienna", 
-  "DateAcquired": "1964-01-07", 
+  "CreditLine": "Gift of the photographer", 
   "Date": "1947", 
   "ArtistID": 2431, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "70.1964", 
-  "ArtistBio": "American, born Austria. 1921\u20131986", 
-  "CreditLine": "Gift of the photographer", 
+  "ArtistBio": "(American, born Austria. 1921\u20131986)", 
+  "DateAcquired": "1964-01-07", 
+  "\ufeffTitle": "Homecoming Prisoners, Vienna", 
   "ObjectID": "45560"
 }

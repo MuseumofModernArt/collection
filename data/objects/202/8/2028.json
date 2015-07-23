@@ -5,8 +5,7 @@
   "Artist": "Flavio Poli", 
   "URL": "http://www.moma.org/collection/works/2028", 
   "CuratorApproved": "Y", 
-  "Title": "Vase", 
-  "DateAcquired": "1958-02-19", 
+  "CreditLine": "Phyllis B. Lambert Fund", 
   "Date": "1954", 
   "ArtistID": 4669, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "77.1958", 
-  "ArtistBio": "Italian, 1900\u20131984", 
-  "CreditLine": "Phyllis B. Lambert Fund", 
+  "ArtistBio": "(Italian, 1900\u20131984)", 
+  "DateAcquired": "1958-02-19", 
+  "\ufeffTitle": "Vase", 
   "ObjectID": "2028"
 }

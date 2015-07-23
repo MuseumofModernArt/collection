@@ -5,8 +5,7 @@
   "Artist": "Ludwig Hohlwein", 
   "URL": "http://www.moma.org/collection/works/5825", 
   "CuratorApproved": "Y", 
-  "Title": "Alles Kauft im Kaufhaus Oberpollinger Munchen", 
-  "DateAcquired": "1987-05-27", 
+  "CreditLine": "Gift of The Lauder Foundation, Leonard and Evelyn Lauder Fund", 
   "Date": "c. 1914", 
   "ArtistID": 2700, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "246.1987", 
-  "ArtistBio": "German, 1874\u20131949", 
-  "CreditLine": "Gift of The Lauder Foundation, Leonard and Evelyn Lauder Fund", 
+  "ArtistBio": "(German, 1874\u20131949)", 
+  "DateAcquired": "1987-05-27", 
+  "\ufeffTitle": "Alles Kauft im Kaufhaus Oberpollinger Munchen", 
   "ObjectID": "5825"
 }

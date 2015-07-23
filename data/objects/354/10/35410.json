@@ -5,8 +5,7 @@
   "Artist": "Luc Tuymans", 
   "URL": "http://www.moma.org/collection/works/35410", 
   "CuratorApproved": "Y", 
-  "Title": "The Heritage", 
-  "DateAcquired": "1996-05-16", 
+  "CreditLine": "Gift of the Friends of Contemporary Drawing", 
   "Date": "1996", 
   "ArtistID": 7520, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "228.1996", 
-  "ArtistBio": "Belgian, born 1958", 
-  "CreditLine": "Gift of the Friends of Contemporary Drawing", 
+  "ArtistBio": "(Belgian, born 1958)", 
+  "DateAcquired": "1996-05-16", 
+  "\ufeffTitle": "The Heritage", 
   "ObjectID": "35410"
 }

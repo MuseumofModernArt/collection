@@ -5,8 +5,7 @@
   "Artist": "Chuck Burton/Associated Press", 
   "URL": "http://www.moma.org/collection/works/58562", 
   "CuratorApproved": "Y", 
-  "Title": "Trial Suspended as Bakker is Committed for Tests", 
-  "DateAcquired": "2001-06-14", 
+  "CreditLine": "The New York Times Collection", 
   "Date": "August 31, 1989", 
   "ArtistID": 8519, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "1969.2001", 
-  "ArtistBio": "American, born 1955", 
-  "CreditLine": "The New York Times Collection", 
+  "ArtistBio": "(American, born 1955)", 
+  "DateAcquired": "2001-06-14", 
+  "\ufeffTitle": "\"Trial Suspended as Bakker is Committed for Tests\"", 
   "ObjectID": "58562"
 }

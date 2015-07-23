@@ -5,8 +5,7 @@
   "Artist": "Pablo Picasso", 
   "URL": "http://www.moma.org/collection/works/69909", 
   "CuratorApproved": "Y", 
-  "Title": "Head of a Woman: Madeleine (T\u00eate de Femme: Madeleine)", 
-  "DateAcquired": "1940-04-05", 
+  "CreditLine": "Gift of Abby Aldrich Rockefeller", 
   "Date": "January 1905, published 1913", 
   "ArtistID": 4609, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "483.1940", 
-  "ArtistBio": "Spanish, 1881\u20131973", 
-  "CreditLine": "Gift of Abby Aldrich Rockefeller", 
+  "ArtistBio": "(Spanish, 1881\u20131973)", 
+  "DateAcquired": "1940-04-05", 
+  "\ufeffTitle": "Head of a Woman: Madeleine (T\u00eate de Femme: Madeleine)", 
   "ObjectID": "69909"
 }

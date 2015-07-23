@@ -5,8 +5,7 @@
   "Artist": "Antoine Pevsner", 
   "URL": "http://www.moma.org/collection/works/37511", 
   "CuratorApproved": "Y", 
-  "Title": "Pour un Haut-Relief", 
-  "DateAcquired": "1970-12-15", 
+  "CreditLine": "Gift of Charles Z. Offin Art Fund, Inc.", 
   "Date": "1923", 
   "ArtistID": 4591, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "598.1970", 
-  "ArtistBio": "French, 1886\u20131962", 
-  "CreditLine": "Gift of Charles Z. Offin Art Fund, Inc.", 
+  "ArtistBio": "(French, 1886\u20131962)", 
+  "DateAcquired": "1970-12-15", 
+  "\ufeffTitle": "Pour un Haut-Relief", 
   "ObjectID": "37511"
 }

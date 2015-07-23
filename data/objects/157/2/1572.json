@@ -5,8 +5,7 @@
   "Artist": "Kaj Franck", 
   "URL": "http://www.moma.org/collection/works/1572", 
   "CuratorApproved": "Y", 
-  "Title": "Kilta Storage Container", 
-  "DateAcquired": "1997-01-15", 
+  "CreditLine": "Gift of Nina and Gordon Bunshaft", 
   "Date": "1948", 
   "ArtistID": 1968, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "20.1997.1-2", 
-  "ArtistBio": "Finnish, 1911\u20131989", 
-  "CreditLine": "Gift of Nina and Gordon Bunshaft", 
+  "ArtistBio": "(Finnish, 1911\u20131989)", 
+  "DateAcquired": "1997-01-15", 
+  "\ufeffTitle": "Kilta Storage Container", 
   "ObjectID": "1572"
 }

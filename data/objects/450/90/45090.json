@@ -5,8 +5,7 @@
   "Artist": "Aleksandr Rodchenko", 
   "URL": "http://www.moma.org/collection/works/45090", 
   "CuratorApproved": "Y", 
-  "Title": "Assembling for a Demonstration", 
-  "DateAcquired": "1970-01-07", 
+  "CreditLine": "Mr. and Mrs. John Spencer Fund", 
   "Date": "1928-30", 
   "ArtistID": 4975, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "55.1970", 
-  "ArtistBio": "Russian, 1891\u20131956", 
-  "CreditLine": "Mr. and Mrs. John Spencer Fund", 
+  "ArtistBio": "(Russian, 1891\u20131956)", 
+  "DateAcquired": "1970-01-07", 
+  "\ufeffTitle": "Assembling for a Demonstration", 
   "ObjectID": "45090"
 }

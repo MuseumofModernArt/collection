@@ -5,8 +5,7 @@
   "Artist": "Lyonel Feininger", 
   "URL": "http://www.moma.org/collection/works/64779", 
   "CuratorApproved": "Y", 
-  "Title": "The Virtuoso", 
-  "DateAcquired": "1972-05-08", 
+  "CreditLine": "Gift of Associated American Artists", 
   "Date": "(1919, posthumously published 1964)", 
   "ArtistID": 1832, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "228.1972", 
-  "ArtistBio": "American, 1871\u20131956", 
-  "CreditLine": "Gift of Associated American Artists", 
+  "ArtistBio": "(American, 1871\u20131956)", 
+  "DateAcquired": "1972-05-08", 
+  "\ufeffTitle": "The Virtuoso (Der Virtuose)", 
   "ObjectID": "64779"
 }

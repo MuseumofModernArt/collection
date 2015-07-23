@@ -5,8 +5,7 @@
   "Artist": "Frederick Sommer", 
   "URL": "http://www.moma.org/collection/works/54572", 
   "CuratorApproved": "Y", 
-  "Title": "Smoke on Cellophane 1", 
-  "DateAcquired": "1961-12-13", 
+  "CreditLine": "Purchase", 
   "Date": "1961", 
   "ArtistID": 5520, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "512.1961", 
-  "ArtistBio": "American, born Italy. 1905\u20131999", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, born Italy. 1905\u20131999)", 
+  "DateAcquired": "1961-12-13", 
+  "\ufeffTitle": "Smoke on Cellophane 1", 
   "ObjectID": "54572"
 }

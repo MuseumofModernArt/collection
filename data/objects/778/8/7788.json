@@ -5,8 +5,7 @@
   "Artist": "Ikko Tanaka", 
   "URL": "http://www.moma.org/collection/works/7788", 
   "CuratorApproved": "Y", 
-  "Title": "Morisawa & Co", 
-  "DateAcquired": "1990-10-24", 
+  "CreditLine": "Gift of the designer", 
   "Date": "1986", 
   "ArtistID": 5800, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "625.1990", 
-  "ArtistBio": "Japanese, 1930\u20132002", 
-  "CreditLine": "Gift of the designer", 
+  "ArtistBio": "(Japanese, 1930\u20132002)", 
+  "DateAcquired": "1990-10-24", 
+  "\ufeffTitle": "Morisawa & Co", 
   "ObjectID": "7788"
 }

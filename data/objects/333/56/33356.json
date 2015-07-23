@@ -5,8 +5,7 @@
   "Artist": "Kurt Schwitters", 
   "URL": "http://www.moma.org/collection/works/33356", 
   "CuratorApproved": "Y", 
-  "Title": "Merz Picture 32 A.  The Cherry Picture", 
-  "DateAcquired": "1954-04-06", 
+  "CreditLine": "Mr. and Mrs. A. Atwater Kent, Jr. Fund", 
   "Date": "1921", 
   "ArtistID": 5293, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "27.1954", 
-  "ArtistBio": "German, 1887\u20131948", 
-  "CreditLine": "Mr. and Mrs. A. Atwater Kent, Jr. Fund", 
+  "ArtistBio": "(German, 1887\u20131948)", 
+  "DateAcquired": "1954-04-06", 
+  "\ufeffTitle": "Merz Picture 32 A.  The Cherry Picture", 
   "ObjectID": "33356"
 }

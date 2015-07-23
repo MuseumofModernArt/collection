@@ -5,8 +5,7 @@
   "Artist": "Thomas Annan", 
   "URL": "http://www.moma.org/collection/works/50408", 
   "CuratorApproved": "Y", 
-  "Title": "The Back Wynd", 
-  "DateAcquired": "NULL", 
+  "CreditLine": "Purchase", 
   "Date": "1899", 
   "ArtistID": 190, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "308.1975.48", 
-  "ArtistBio": "British, 1829\u20131887", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(British, 1829\u20131887)", 
+  "DateAcquired": "", 
+  "\ufeffTitle": "The Back Wynd", 
   "ObjectID": "50408"
 }

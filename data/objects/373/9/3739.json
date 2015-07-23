@@ -1,12 +1,11 @@
 {
   "Medium": "ABS plastic and other materials", 
-  "Dimensions": ".a: 13 1/2 x 9 3/4 x 10 3/4\" (34.3 x 24.8 x 27.3 cm)  .b: 2 1/4 x 15 1/2 x 5 1/2\" (5.7 x 39.4 x 14 cm)  .c: 1 1/2 x 3 3/4 x 2 1/2\" (3.8 x 9.5 x 6.4 cm)", 
+  "Dimensions": ".a: 13 1/2 x 9 3/4 x 10 3/4\" (34.3 x 24.8 x 27.3 cm)\r\n.b: 2 1/4 x 15 1/2 x 5 1/2\" (5.7 x 39.4 x 14 cm)\r\n.c: 1 1/2 x 3 3/4 x 2 1/2\" (3.8 x 9.5 x 6.4 cm)", 
   "Classification": "A&D Design", 
   "Artist": "frogdesign, Sunnydale, CA", 
   "URL": "http://www.moma.org/collection/works/3739", 
   "CuratorApproved": "Y", 
-  "Title": "Macintosh SE Home Computer", 
-  "DateAcquired": "1994-09-21", 
+  "CreditLine": "Gift of the designer and manufacturer", 
   "Date": "1984", 
   "Keywords": [
     "online art collection", 
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "395.1994.a-c", 
-  "ArtistBio": "American, established 1969", 
-  "CreditLine": "Gift of the designer and manufacturer", 
+  "ArtistBio": "(American, established 1969)", 
+  "DateAcquired": "1994-09-21", 
+  "\ufeffTitle": "Macintosh SE Home Computer", 
   "ObjectID": "3739"
 }

@@ -5,8 +5,7 @@
   "Artist": "Robert Ryman", 
   "URL": "http://www.moma.org/collection/works/37494", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1998-10-29", 
+  "CreditLine": "Gift of the artist", 
   "Date": "1965", 
   "ArtistID": 5098, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "595.1998", 
-  "ArtistBio": "American, born 1930", 
-  "CreditLine": "Gift of the artist", 
+  "ArtistBio": "(American, born 1930)", 
+  "DateAcquired": "1998-10-29", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "37494"
 }

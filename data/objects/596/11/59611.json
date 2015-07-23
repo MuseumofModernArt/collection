@@ -1,12 +1,11 @@
 {
   "Medium": "Lift ground aquatint", 
-  "Dimensions": "irreg. composition  20 3/8 x 27 7/16\" (51.8 x 69.7 cm)  irreg. sheet  22 13/16 x 30 5/16\" (58 x 77 cm)", 
+  "Dimensions": "irreg. composition  20 3/8 x 27 7/16\" (51.8 x 69.7 cm)\r\nirreg. sheet  22 13/16 x 30 5/16\" (58 x 77 cm)", 
   "Classification": "Print", 
   "Artist": "Pierre Alechinsky", 
   "URL": "http://www.moma.org/collection/works/59611", 
   "CuratorApproved": "Y", 
-  "Title": "Continued Articles (Articles suivis)", 
-  "DateAcquired": "1979-01-23", 
+  "CreditLine": "Gift of the artist", 
   "Date": "1978", 
   "ArtistID": 107, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "3.1979", 
-  "ArtistBio": "Belgian, born 1927", 
-  "CreditLine": "Gift of the artist", 
+  "ArtistBio": "(Belgian, born 1927)", 
+  "DateAcquired": "1979-01-23", 
+  "\ufeffTitle": "Continued Articles (Articles suivis)", 
   "ObjectID": "59611"
 }

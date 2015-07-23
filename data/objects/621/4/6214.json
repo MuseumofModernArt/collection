@@ -5,8 +5,7 @@
   "Artist": "Unknown Artist", 
   "URL": "http://www.moma.org/collection/works/6214", 
   "CuratorApproved": "Y", 
-  "Title": "In the Forward Capitalist Countries the Share of Exploiting Classes in the National Income Consists of Approximately 50% or More", 
-  "DateAcquired": "1943-05-12", 
+  "CreditLine": "Gift of Miss Jessie Rosenfeld", 
   "Date": "1930", 
   "ArtistID": 6026, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "316.1943", 
-  "ArtistBio": "Nationality Unknown", 
-  "CreditLine": "Gift of Miss Jessie Rosenfeld", 
+  "ArtistBio": "(Nationality Unknown)", 
+  "DateAcquired": "1943-05-12", 
+  "\ufeffTitle": "In the Forward Capitalist Countries the Share of Exploiting Classes in the National Income Consists of Approximately 50% or More", 
   "ObjectID": "6214"
 }

@@ -5,8 +5,7 @@
   "Artist": "Times Wide World Photos", 
   "URL": "http://www.moma.org/collection/works/58728", 
   "CuratorApproved": "Y", 
-  "Title": "The Best Show of the Season in New York City", 
-  "DateAcquired": "2001-06-14", 
+  "CreditLine": "The New York Times Collection", 
   "Date": "1927", 
   "ArtistID": 8632, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "2135.2001", 
-  "ArtistBio": "American, active 1919\u20131941", 
-  "CreditLine": "The New York Times Collection", 
+  "ArtistBio": "(American, active 1919\u20131941)", 
+  "DateAcquired": "2001-06-14", 
+  "\ufeffTitle": "\"The Best Show of the Season in New York City\"", 
   "ObjectID": "58728"
 }

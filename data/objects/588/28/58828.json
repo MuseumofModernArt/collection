@@ -5,8 +5,7 @@
   "Artist": "Marilynn K. Yee/The New York Times", 
   "URL": "http://www.moma.org/collection/works/58828", 
   "CuratorApproved": "Y", 
-  "Title": "Bernhard Goetz as He Arrived Home", 
-  "DateAcquired": "2001-06-14", 
+  "CreditLine": "The New York Times Collection", 
   "Date": "June 16, 1987", 
   "ArtistID": 8642, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "2235.2001", 
-  "ArtistBio": "American, born 1950", 
-  "CreditLine": "The New York Times Collection", 
+  "ArtistBio": "(American, born 1950)", 
+  "DateAcquired": "2001-06-14", 
+  "\ufeffTitle": "Bernhard Goetz as He Arrived Home", 
   "ObjectID": "58828"
 }

@@ -5,8 +5,7 @@
   "Artist": "Gaetano Pesce", 
   "URL": "http://www.moma.org/collection/works/4572", 
   "CuratorApproved": "Y", 
-  "Title": "Up 1 Chair Collapsed Version", 
-  "DateAcquired": "1969-12-01", 
+  "CreditLine": "Gift of Atelier International", 
   "Date": "1969", 
   "ArtistID": 4570, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "1114.1969", 
-  "ArtistBio": "Italian, born 1939", 
-  "CreditLine": "Gift of Atelier International", 
+  "ArtistBio": "(Italian, born 1939)", 
+  "DateAcquired": "1969-12-01", 
+  "\ufeffTitle": "Up 1 Chair Collapsed Version", 
   "ObjectID": "4572"
 }

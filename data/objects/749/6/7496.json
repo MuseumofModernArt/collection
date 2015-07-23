@@ -5,8 +5,7 @@
   "Artist": "Max Bill", 
   "URL": "http://www.moma.org/collection/works/7496", 
   "CuratorApproved": "Y", 
-  "Title": "Schweizerischer Werkbund", 
-  "DateAcquired": "1977-11-28", 
+  "CreditLine": "Jan Tschichold Collection, Gift of Philip Johnson", 
   "Date": "1934", 
   "ArtistID": 559, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "548.1977.a-b", 
-  "ArtistBio": "Swiss, 1908\u20131994", 
-  "CreditLine": "Jan Tschichold Collection, Gift of Philip Johnson", 
+  "ArtistBio": "(Swiss, 1908\u20131994)", 
+  "DateAcquired": "1977-11-28", 
+  "\ufeffTitle": "Schweizerischer Werkbund", 
   "ObjectID": "7496"
 }

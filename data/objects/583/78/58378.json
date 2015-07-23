@@ -5,8 +5,7 @@
   "Artist": "Charles Sheeler", 
   "URL": "http://www.moma.org/collection/works/58378", 
   "CuratorApproved": "Y", 
-  "Title": "Shaker House, Lebanon, New York", 
-  "DateAcquired": "1968-05-01", 
+  "CreditLine": "Gift of David H. McAlpin", 
   "Date": "1951", 
   "ArtistID": 5383, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "1795.1968", 
-  "ArtistBio": "American, 1883\u20131965", 
-  "CreditLine": "Gift of David H. McAlpin", 
+  "ArtistBio": "(American, 1883\u20131965)", 
+  "DateAcquired": "1968-05-01", 
+  "\ufeffTitle": "Shaker House, Lebanon, New York", 
   "ObjectID": "58378"
 }

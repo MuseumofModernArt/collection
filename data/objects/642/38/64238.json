@@ -1,12 +1,11 @@
 {
   "Medium": "Photolithograph", 
-  "Dimensions": "composition  25 3/8 x 37 9/16\" (64.5 x 95.5 cm)  sheet  25 3/8 x 37 9/16\" (64 x 95.5 cm)", 
+  "Dimensions": "composition  25 3/8 x 37 9/16\" (64.5 x 95.5 cm)\r\nsheet  25 3/8 x 37 9/16\" (64 x 95.5 cm)", 
   "Classification": "Print", 
   "Artist": "Richard Long", 
   "URL": "http://www.moma.org/collection/works/64238", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled from the portfolio River Avon Mud Drawings", 
-  "DateAcquired": "1990-05-02", 
+  "CreditLine": "Gift of Edition Schellmann, Munich and New York", 
   "Date": "(1989)", 
   "ArtistID": 3591, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "197.1990", 
-  "ArtistBio": "British, born 1945", 
-  "CreditLine": "Gift of Edition Schellmann, Munich and New York", 
+  "ArtistBio": "(British, born 1945)", 
+  "DateAcquired": "1990-05-02", 
+  "\ufeffTitle": "Untitled from the portfolio River Avon Mud Drawings", 
   "ObjectID": "64238"
 }

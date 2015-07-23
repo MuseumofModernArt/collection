@@ -5,8 +5,7 @@
   "Artist": "Louise Bourgeois", 
   "URL": "http://www.moma.org/collection/works/12760", 
   "CuratorApproved": "Y", 
-  "Title": "Inner Life, version 2 of 2, only state", 
-  "DateAcquired": "1994-01-25", 
+  "CreditLine": "Gift of the artist", 
   "Date": "1985", 
   "ArtistID": 710, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "177.1994.2", 
-  "ArtistBio": "American, born France. 1911\u20132010", 
-  "CreditLine": "Gift of the artist", 
+  "ArtistBio": "(American, born France. 1911\u20132010)", 
+  "DateAcquired": "1994-01-25", 
+  "\ufeffTitle": "Inner Life", 
   "ObjectID": "12760"
 }

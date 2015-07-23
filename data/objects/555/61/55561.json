@@ -5,8 +5,7 @@
   "Artist": "Clarence H. White", 
   "URL": "http://www.moma.org/collection/works/55561", 
   "CuratorApproved": "Y", 
-  "Title": "Mrs. Clarence H. White", 
-  "DateAcquired": "1971-11-10", 
+  "CreditLine": "John Parkinson III Fund", 
   "Date": "1906", 
   "ArtistID": 6338, 
   "Keywords": [
@@ -20,7 +19,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "608.1971", 
-  "ArtistBio": "American, 1871\u20131925", 
-  "CreditLine": "John Parkinson III Fund", 
+  "ArtistBio": "(American, 1871\u20131925)", 
+  "DateAcquired": "1971-11-10", 
+  "\ufeffTitle": "Mrs. Clarence H. White", 
   "ObjectID": "55561"
 }

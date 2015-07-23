@@ -5,8 +5,7 @@
   "Artist": "Emmet Gowin", 
   "URL": "http://www.moma.org/collection/works/46785", 
   "CuratorApproved": "Y", 
-  "Title": "Barry and Dwayne, Danville", 
-  "DateAcquired": "1972-03-07", 
+  "CreditLine": "Anonymous Fund", 
   "Date": "1969", 
   "ArtistID": 2273, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "136.1972", 
-  "ArtistBio": "American, born 1941", 
-  "CreditLine": "Anonymous Fund", 
+  "ArtistBio": "(American, born 1941)", 
+  "DateAcquired": "1972-03-07", 
+  "\ufeffTitle": "Barry and Dwayne, Danville", 
   "ObjectID": "46785"
 }

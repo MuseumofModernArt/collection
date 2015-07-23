@@ -5,8 +5,7 @@
   "Artist": "Tod Papageorge", 
   "URL": "http://www.moma.org/collection/works/47382", 
   "CuratorApproved": "Y", 
-  "Title": "L'eggs Mini Marathon", 
-  "DateAcquired": "1998-03-12", 
+  "CreditLine": "Gift of Robert L. Smith", 
   "Date": "1979", 
   "ArtistID": 4490, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "174.1998", 
-  "ArtistBio": "American, born 1940", 
-  "CreditLine": "Gift of Robert L. Smith", 
+  "ArtistBio": "(American, born 1940)", 
+  "DateAcquired": "1998-03-12", 
+  "\ufeffTitle": "L'eggs Mini Marathon", 
   "ObjectID": "47382"
 }

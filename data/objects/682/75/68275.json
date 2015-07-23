@@ -5,8 +5,7 @@
   "Artist": "Lyonel Feininger", 
   "URL": "http://www.moma.org/collection/works/68275", 
   "CuratorApproved": "Y", 
-  "Title": ".a The Green Bridge .b Zirchow", 
-  "DateAcquired": "1956-03-19", 
+  "CreditLine": "Gift of the artist and his wife", 
   "Date": ".a 1910-1911 .b (1917-1918)", 
   "ArtistID": 1832, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "388.1955.a-b", 
-  "ArtistBio": "American, 1871\u20131956", 
-  "CreditLine": "Gift of the artist and his wife", 
+  "ArtistBio": "(American, 1871\u20131956)", 
+  "DateAcquired": "1956-03-19", 
+  "\ufeffTitle": ".a The Green Bridge (Die gr\u00fcne Br\u00fccke)  .b Zirchow", 
   "ObjectID": "68275"
 }

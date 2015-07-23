@@ -5,8 +5,7 @@
   "Artist": "Unknown Designer", 
   "URL": "http://www.moma.org/collection/works/1527", 
   "CuratorApproved": "Y", 
-  "Title": "Saw", 
-  "DateAcquired": "1980-01-08", 
+  "CreditLine": "Gift of Garrett Wade Co.", 
   "Date": "Before 1980", 
   "ArtistID": 6011, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "16.1980", 
-  "ArtistBio": "Nationality unknown", 
-  "CreditLine": "Gift of Garrett Wade Co.", 
+  "ArtistBio": "(Nationality unknown)", 
+  "DateAcquired": "1980-01-08", 
+  "\ufeffTitle": "Saw", 
   "ObjectID": "1527"
 }

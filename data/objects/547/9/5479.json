@@ -5,8 +5,7 @@
   "Artist": "Herbert Leupin", 
   "URL": "http://www.moma.org/collection/works/5479", 
   "CuratorApproved": "Y", 
-  "Title": "Pause - Drink Coca Cola", 
-  "DateAcquired": "1955-06-16", 
+  "CreditLine": "Gift of the artist", 
   "Date": "1954", 
   "ArtistID": 3503, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "172.1955", 
-  "ArtistBio": "Swiss, 1916\u20131999", 
-  "CreditLine": "Gift of the artist", 
+  "ArtistBio": "(Swiss, 1916\u20131999)", 
+  "DateAcquired": "1955-06-16", 
+  "\ufeffTitle": "Pause - Drink Coca Cola", 
   "ObjectID": "5479"
 }

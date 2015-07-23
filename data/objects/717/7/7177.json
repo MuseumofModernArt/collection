@@ -5,8 +5,7 @@
   "Artist": "April Greiman", 
   "URL": "http://www.moma.org/collection/works/7177", 
   "CuratorApproved": "Y", 
-  "Title": "Snow White + the Seven Pixels, An Evening with April Greiman", 
-  "DateAcquired": "1987-11-18", 
+  "CreditLine": "Gift of the designer", 
   "Date": "1986", 
   "ArtistID": 2330, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "477.1987", 
-  "ArtistBio": "American, born 1948", 
-  "CreditLine": "Gift of the designer", 
+  "ArtistBio": "(American, born 1948)", 
+  "DateAcquired": "1987-11-18", 
+  "\ufeffTitle": "Snow White + the Seven Pixels, An Evening with April Greiman", 
   "ObjectID": "7177"
 }

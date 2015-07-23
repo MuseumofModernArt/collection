@@ -5,8 +5,7 @@
   "Artist": "Berenice Abbott", 
   "URL": "http://www.moma.org/collection/works/45992", 
   "CuratorApproved": "Y", 
-  "Title": "An Industrial Designer's Window, Bleecker Street", 
-  "DateAcquired": "1959-04-22", 
+  "CreditLine": "Purchase", 
   "Date": "1948", 
   "ArtistID": 41, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "88.1959", 
-  "ArtistBio": "American, 1898\u20131991", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, 1898\u20131991)", 
+  "DateAcquired": "1959-04-22", 
+  "\ufeffTitle": "An Industrial Designer's Window, Bleecker Street", 
   "ObjectID": "45992"
 }

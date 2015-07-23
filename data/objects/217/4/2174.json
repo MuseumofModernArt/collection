@@ -1,12 +1,11 @@
 {
   "Medium": "Heat resistant glass, wood, rubber, and metal", 
-  "Dimensions": "assembled: 11 3/4\" (29.8 cm)  .a: 3 1/2 x 5 1/2\" (8.9 x 14 cm)  .b: 11 x 5 1/4\" (28 x 13.3 cm)  .c: 1 x 5 1/2\" (2.5 x 14 cm)", 
+  "Dimensions": "assembled: 11 3/4\" (29.8 cm)\r\n.a: 3 1/2 x 5 1/2\" (8.9 x 14 cm)\r\n.b: 11 x 5 1/4\" (28 x 13.3 cm)\r\n.c: 1 x 5 1/2\" (2.5 x 14 cm)", 
   "Classification": "A&D Design", 
-  "Artist": "Gerhard Marcks", 
+  "Artist": "Gerhard Marcks, Wilhelm Wagenfeld", 
   "URL": "http://www.moma.org/collection/works/2174", 
   "CuratorApproved": "Y", 
-  "Title": "Sintrax Coffee Machine", 
-  "DateAcquired": "1976-03-22", 
+  "CreditLine": "Philip Johnson Fund", 
   "Date": "c. 1925", 
   "ArtistID": 3756, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "114.1976.a-c", 
-  "ArtistBio": "German, 1889\u20131981", 
-  "CreditLine": "Philip Johnson Fund", 
+  "ArtistBio": "(German, 1889\u20131981) (German, 1900\u20131990)", 
+  "DateAcquired": "1976-03-22", 
+  "\ufeffTitle": "Sintrax Coffee Machine", 
   "ObjectID": "2174"
 }

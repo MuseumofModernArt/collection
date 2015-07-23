@@ -1,12 +1,11 @@
 {
   "Medium": "Monotype", 
-  "Dimensions": "sheet  19 1/2 x 15 3/4\" (49.5 x 40 cm)  irreg composition  15 3/4 x 14 3/4\" (40 x 37.5 cm)", 
+  "Dimensions": "sheet  19 1/2 x 15 3/4\" (49.5 x 40 cm)\r\nirreg composition  15 3/4 x 14 3/4\" (40 x 37.5 cm)", 
   "Classification": "Print", 
   "Artist": "Philip Taaffe", 
   "URL": "http://www.moma.org/collection/works/62411", 
   "CuratorApproved": "Y", 
-  "Title": "Lineament (for Parkett no. 26)", 
-  "DateAcquired": "1998-03-05", 
+  "CreditLine": "Riva Castleman Endowment Fund, Lily Auchincloss Fund, and Gift of Parkett", 
   "Date": "1990", 
   "ArtistID": 6654, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "129.1998.1", 
-  "ArtistBio": "American, born 1955", 
-  "CreditLine": "Riva Castleman Endowment Fund, Lily Auchincloss Fund, and Gift of Parkett", 
+  "ArtistBio": "(American, born 1955)", 
+  "DateAcquired": "1998-03-05", 
+  "\ufeffTitle": "Lineament (for Parkett no. 26)", 
   "ObjectID": "62411"
 }

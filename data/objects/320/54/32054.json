@@ -5,8 +5,7 @@
   "Artist": "Peter Halley", 
   "URL": "http://www.moma.org/collection/works/32054", 
   "CuratorApproved": "Y", 
-  "Title": "Peter Halley: Maintain Speed", 
-  "DateAcquired": "2001-01-24", 
+  "CreditLine": "Monroe Wheeler Fund", 
   "Date": "2000", 
   "ArtistID": 2467, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "1130.2001", 
-  "ArtistBio": "American, born 1953", 
-  "CreditLine": "Monroe Wheeler Fund", 
+  "ArtistBio": "(American, born 1953)", 
+  "DateAcquired": "2001-01-24", 
+  "\ufeffTitle": "Peter Halley: Maintain Speed", 
   "ObjectID": "32054"
 }

@@ -5,8 +5,7 @@
   "Artist": "John B. Greene", 
   "URL": "http://www.moma.org/collection/works/52117", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1986-10-16", 
+  "CreditLine": "Gift of Daniel K. Mayers", 
   "Date": "1855-56", 
   "ArtistID": 2323, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "377.1986", 
-  "ArtistBio": "American, born France. 1832\u20131856", 
-  "CreditLine": "Gift of Daniel K. Mayers", 
+  "ArtistBio": "(American, born France. 1832\u20131856)", 
+  "DateAcquired": "1986-10-16", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "52117"
 }

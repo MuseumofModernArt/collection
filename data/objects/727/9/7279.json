@@ -5,8 +5,7 @@
   "Artist": "Takao Sasai", 
   "URL": "http://www.moma.org/collection/works/7279", 
   "CuratorApproved": "Y", 
-  "Title": "Handle Me", 
-  "DateAcquired": "1987-11-18", 
+  "CreditLine": "Gift of the designer, Works Inc., and Rockwell Art Center", 
   "Date": "1986", 
   "ArtistID": 5170, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "499.1987", 
-  "ArtistBio": "Japanese, born 1956", 
-  "CreditLine": "Gift of the designer, Works Inc., and Rockwell Art Center", 
+  "ArtistBio": "(Japanese, born 1956)", 
+  "DateAcquired": "1987-11-18", 
+  "\ufeffTitle": "Handle Me", 
   "ObjectID": "7279"
 }

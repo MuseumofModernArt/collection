@@ -5,8 +5,7 @@
   "Artist": "Bart Boumans", 
   "URL": "http://www.moma.org/collection/works/65027", 
   "CuratorApproved": "Y", 
-  "Title": "Dutch Landscape", 
-  "DateAcquired": "1974-04-23", 
+  "CreditLine": "Gift of Pieter Brattinga", 
   "Date": "1973", 
   "ArtistID": 704, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "240.1974", 
-  "ArtistBio": "Dutch", 
-  "CreditLine": "Gift of Pieter Brattinga", 
+  "ArtistBio": "(Dutch)", 
+  "DateAcquired": "1974-04-23", 
+  "\ufeffTitle": "Dutch Landscape", 
   "ObjectID": "65027"
 }

@@ -5,8 +5,7 @@
   "Artist": "Francis Frith", 
   "URL": "http://www.moma.org/collection/works/55843", 
   "CuratorApproved": "Y", 
-  "Title": "Windsor from the Railway", 
-  "DateAcquired": "1976-12-08", 
+  "CreditLine": "Anonymous gift", 
   "Date": "c. 1860", 
   "ArtistID": 2015, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "652.1976", 
-  "ArtistBio": "British, 1822\u20131898", 
-  "CreditLine": "Anonymous gift", 
+  "ArtistBio": "(British, 1822\u20131898)", 
+  "DateAcquired": "1976-12-08", 
+  "\ufeffTitle": "Windsor from the Railway", 
   "ObjectID": "55843"
 }

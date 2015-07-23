@@ -1,12 +1,11 @@
 {
   "Medium": "Etching", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "Piet Mondrian", 
   "URL": "http://www.moma.org/collection/works/59714", 
   "CuratorApproved": "Y", 
-  "Title": "Reformed Church at Winterswijk", 
-  "DateAcquired": "1976-01-08", 
+  "CreditLine": "Purchase", 
   "Date": "(1898)", 
   "ArtistID": 4057, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "7.1976", 
-  "ArtistBio": "Dutch, 1872\u20131944", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(Dutch, 1872\u20131944)", 
+  "DateAcquired": "1976-01-08", 
+  "\ufeffTitle": "Reformed Church at Winterswijk", 
   "ObjectID": "59714"
 }

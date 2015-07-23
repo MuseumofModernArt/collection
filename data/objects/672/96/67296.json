@@ -5,8 +5,7 @@
   "Artist": "Marsden Hartley", 
   "URL": "http://www.moma.org/collection/works/67296", 
   "CuratorApproved": "Y", 
-  "Title": "Grapes", 
-  "DateAcquired": "1988-10-25", 
+  "CreditLine": "Purchase", 
   "Date": "1923", 
   "ArtistID": 2521, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "342.1988", 
-  "ArtistBio": "American, 1877\u20131943", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, 1877\u20131943)", 
+  "DateAcquired": "1988-10-25", 
+  "\ufeffTitle": "Grapes", 
   "ObjectID": "67296"
 }

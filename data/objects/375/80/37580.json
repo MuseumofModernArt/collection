@@ -5,8 +5,7 @@
   "Artist": "Carl-Henning Pedersen", 
   "URL": "http://www.moma.org/collection/works/37580", 
   "CuratorApproved": "Y", 
-  "Title": "Ship with Tent", 
-  "DateAcquired": "1963-12-10", 
+  "CreditLine": "Gift of John S. Newberry", 
   "Date": "1951", 
   "ArtistID": 4535, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "610.1963", 
-  "ArtistBio": "Danish, 1913\u20131993", 
-  "CreditLine": "Gift of John S. Newberry", 
+  "ArtistBio": "(Danish, 1913\u20131993)", 
+  "DateAcquired": "1963-12-10", 
+  "\ufeffTitle": "Ship with Tent", 
   "ObjectID": "37580"
 }

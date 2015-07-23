@@ -1,12 +1,11 @@
 {
   "Medium": "4 lithographs", 
-  "Dimensions": "page  12 13/16 x 8 7/8\" (32 x 22.5 cm)  Prints: various dimensions.", 
+  "Dimensions": "page  12 13/16 x 8 7/8\" (32 x 22.5 cm)\r\nPrints: various dimensions.", 
   "Classification": "Illustrated Book", 
   "Artist": "Eug\u00e8ne Ionesco", 
   "URL": "http://www.moma.org/collection/works/19643", 
   "CuratorApproved": "Y", 
-  "Title": "Journeys Among the Dead", 
-  "DateAcquired": "1988-01-19", 
+  "CreditLine": "Gift of the publisher", 
   "Date": "1987", 
   "ArtistID": 2820, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "616.1987.1-4", 
-  "ArtistBio": "French, 1909\u20131994", 
-  "CreditLine": "Gift of the publisher", 
+  "ArtistBio": "(French, 1909\u20131994)", 
+  "DateAcquired": "1988-01-19", 
+  "\ufeffTitle": "Journeys Among the Dead", 
   "ObjectID": "19643"
 }

@@ -5,8 +5,7 @@
   "Artist": "Yves Tanguy", 
   "URL": "http://www.moma.org/collection/works/33576", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1965-02-09", 
+  "CreditLine": "Kay Sage Tanguy Bequest", 
   "Date": "1949", 
   "ArtistID": 5804, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "61.1965", 
-  "ArtistBio": "American, born France. 1900\u20131955", 
-  "CreditLine": "Kay Sage Tanguy Bequest", 
+  "ArtistBio": "(American, born France. 1900\u20131955)", 
+  "DateAcquired": "1965-02-09", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "33576"
 }

@@ -1,12 +1,11 @@
 {
   "Medium": "Plaster cut", 
-  "Dimensions": "irreg composition  53 13/16 x 36 5/8\" (136.6 x 93 cm)  sheet  61 7/8 x 39 7/8\" (157.1 x 101.3 cm)", 
+  "Dimensions": "irreg composition  53 13/16 x 36 5/8\" (136.6 x 93 cm)\r\nsheet  61 7/8 x 39 7/8\" (157.1 x 101.3 cm)", 
   "Classification": "Print", 
   "Artist": "Arthur Deshaies", 
   "URL": "http://www.moma.org/collection/works/68884", 
   "CuratorApproved": "Y", 
-  "Title": "A Cycle of a Small Sea: Unbeing Myself", 
-  "DateAcquired": "1977-11-10", 
+  "CreditLine": "Gift of Andrew and Mary Stasik", 
   "Date": "1961", 
   "ArtistID": 1507, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "424.1977", 
-  "ArtistBio": "American, born 1920", 
-  "CreditLine": "Gift of Andrew and Mary Stasik", 
+  "ArtistBio": "(American, born 1920)", 
+  "DateAcquired": "1977-11-10", 
+  "\ufeffTitle": "A Cycle of a Small Sea: Unbeing Myself", 
   "ObjectID": "68884"
 }

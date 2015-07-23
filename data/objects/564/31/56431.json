@@ -5,8 +5,7 @@
   "Artist": "Lee Friedlander", 
   "URL": "http://www.moma.org/collection/works/56431", 
   "CuratorApproved": "Y", 
-  "Title": "The LaGuardia Sculpture. LaGuardia Airport Terminal, Queens, New York", 
-  "DateAcquired": "2000-10-12", 
+  "CreditLine": "Purchase", 
   "Date": "1975", 
   "ArtistID": 2002, 
   "Keywords": [
@@ -20,7 +19,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "794.2000", 
-  "ArtistBio": "American, born 1934", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, born 1934)", 
+  "DateAcquired": "2000-10-12", 
+  "\ufeffTitle": "The LaGuardia Sculpture. LaGuardia Airport Terminal, Queens, New York", 
   "ObjectID": "56431"
 }

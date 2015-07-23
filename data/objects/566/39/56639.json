@@ -5,8 +5,7 @@
   "Artist": "Robert Adams", 
   "URL": "http://www.moma.org/collection/works/56639", 
   "CuratorApproved": "Y", 
-  "Title": "Basement for a Tract House, Colorado Springs, Colorado", 
-  "DateAcquired": "1996-12-10", 
+  "CreditLine": "Lois and Bruce Zenkel Fund", 
   "Date": "1969", 
   "ArtistID": 66, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "833.1996", 
-  "ArtistBio": "American, born 1937", 
-  "CreditLine": "Lois and Bruce Zenkel Fund", 
+  "ArtistBio": "(American, born 1937)", 
+  "DateAcquired": "1996-12-10", 
+  "\ufeffTitle": "Basement for a Tract House, Colorado Springs, Colorado", 
   "ObjectID": "56639"
 }

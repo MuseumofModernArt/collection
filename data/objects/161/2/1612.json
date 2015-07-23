@@ -5,8 +5,7 @@
   "Artist": "Kevin Dwyer", 
   "URL": "http://www.moma.org/collection/works/1612", 
   "CuratorApproved": "Y", 
-  "Title": "Paper Vase", 
-  "DateAcquired": "2000-01-19", 
+  "CreditLine": "Gift of the designer", 
   "Date": "1989", 
   "ArtistID": 8411, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "25.2000", 
-  "ArtistBio": "American, born 1952", 
-  "CreditLine": "Gift of the designer", 
+  "ArtistBio": "(American, born 1952)", 
+  "DateAcquired": "2000-01-19", 
+  "\ufeffTitle": "Paper Vase", 
   "ObjectID": "1612"
 }

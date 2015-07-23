@@ -5,8 +5,7 @@
   "Artist": "Shirin Neshat", 
   "URL": "http://www.moma.org/collection/works/58115", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "2000-12-07", 
+  "CreditLine": "Gift of Agnes Gund", 
   "Date": "1999", 
   "ArtistID": 8349, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "1405.2000", 
-  "ArtistBio": "Iranian, born 1957", 
-  "CreditLine": "Gift of Agnes Gund", 
+  "ArtistBio": "(Iranian, born 1957)", 
+  "DateAcquired": "2000-12-07", 
+  "\ufeffTitle": "Untitled from the series Rapture", 
   "ObjectID": "58115"
 }

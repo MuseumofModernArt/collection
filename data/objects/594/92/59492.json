@@ -5,8 +5,7 @@
   "Artist": "Louise Bourgeois", 
   "URL": "http://www.moma.org/collection/works/59492", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled, plate 8 of 9, state II of X, from the portfolio, The View from the Bottom of the Well", 
-  "DateAcquired": "2008-06-18", 
+  "CreditLine": "Gift of the artist", 
   "Date": "1995", 
   "ArtistID": 710, 
   "Keywords": [
@@ -20,7 +19,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "677.2008", 
-  "ArtistBio": "American, born France. 1911\u20132010", 
-  "CreditLine": "Gift of the artist", 
+  "ArtistBio": "(American, born France. 1911\u20132010)", 
+  "DateAcquired": "2008-06-18", 
+  "\ufeffTitle": "Untitled, plate 8 of 9, from the portfolio, The View from the Bottom of the Well", 
   "ObjectID": "59492"
 }

@@ -5,8 +5,7 @@
   "Artist": "Jack Youngerman", 
   "URL": "http://www.moma.org/collection/works/7176", 
   "CuratorApproved": "Y", 
-  "Title": "The 50th Year, The New School", 
-  "DateAcquired": "1976-10-22", 
+  "CreditLine": "Peter Stone Collection of Posters by Artists", 
   "Date": "1969", 
   "ArtistID": 6524, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "477.1976", 
-  "ArtistBio": "American, born 1926", 
-  "CreditLine": "Peter Stone Collection of Posters by Artists", 
+  "ArtistBio": "(American, born 1926)", 
+  "DateAcquired": "1976-10-22", 
+  "\ufeffTitle": "The 50th Year, The New School", 
   "ObjectID": "7176"
 }

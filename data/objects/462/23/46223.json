@@ -5,8 +5,7 @@
   "Artist": "Tina Modotti", 
   "URL": "http://www.moma.org/collection/works/46223", 
   "CuratorApproved": "Y", 
-  "Title": "Staircase", 
-  "DateAcquired": "1964-01-07", 
+  "CreditLine": "Anonymous gift", 
   "Date": "1924-26", 
   "ArtistID": 4039, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "97.1964", 
-  "ArtistBio": "Italian, 1896\u20131942", 
-  "CreditLine": "Anonymous gift", 
+  "ArtistBio": "(Italian, 1896\u20131942)", 
+  "DateAcquired": "1964-01-07", 
+  "\ufeffTitle": "Staircase", 
   "ObjectID": "46223"
 }

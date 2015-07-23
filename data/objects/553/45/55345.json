@@ -5,8 +5,7 @@
   "Artist": "Zeke Berman", 
   "URL": "http://www.moma.org/collection/works/55345", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled (Tank #2)", 
-  "DateAcquired": "1990-12-13", 
+  "CreditLine": "Gift of the photographer", 
   "Date": "1988", 
   "ArtistID": 506, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "580.1990", 
-  "ArtistBio": "American, born 1951", 
-  "CreditLine": "Gift of the photographer", 
+  "ArtistBio": "(American, born 1951)", 
+  "DateAcquired": "1990-12-13", 
+  "\ufeffTitle": "Untitled (Tank #2)", 
   "ObjectID": "55345"
 }

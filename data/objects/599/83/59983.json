@@ -1,12 +1,11 @@
 {
   "Medium": "Photogravure with photolithographed text", 
-  "Dimensions": "text sheet  15 x 10\" (38.1 x 25.4 cm)  plate  30 1/8 x 9 13/16\" (76.6 x 25 cm)  print sheet  40 1/8 x 20\" (102 x 50.9 cm)", 
+  "Dimensions": "text sheet  15 x 10\" (38.1 x 25.4 cm)\r\nplate  30 1/8 x 9 13/16\" (76.6 x 25 cm)\r\nprint sheet  40 1/8 x 20\" (102 x 50.9 cm)", 
   "Classification": "Print", 
   "Artist": "Ronald Jones", 
   "URL": "http://www.moma.org/collection/works/59983", 
   "CuratorApproved": "Y", 
-  "Title": "Rapunzel's Syndrome from an untitled series", 
-  "DateAcquired": "1993-01-18", 
+  "CreditLine": "Purchase", 
   "Date": "1992", 
   "ArtistID": 6977, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "15.1993.a-b", 
-  "ArtistBio": "American, born 1952", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, born 1952)", 
+  "DateAcquired": "1993-01-18", 
+  "\ufeffTitle": "Rapunzel's Syndrome from an untitled series", 
   "ObjectID": "59983"
 }

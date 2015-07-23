@@ -5,8 +5,7 @@
   "Artist": "Mick Pilcher", 
   "URL": "http://www.moma.org/collection/works/7591", 
   "CuratorApproved": "Y", 
-  "Title": "International Poster Exhibition", 
-  "DateAcquired": "1951-11-21", 
+  "CreditLine": "Gift of Institute of Contemporary Art, London", 
   "Date": "1951", 
   "ArtistID": 4624, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "577.1951", 
-  "ArtistBio": "British", 
-  "CreditLine": "Gift of Institute of Contemporary Art, London", 
+  "ArtistBio": "(British)", 
+  "DateAcquired": "1951-11-21", 
+  "\ufeffTitle": "International Poster Exhibition", 
   "ObjectID": "7591"
 }

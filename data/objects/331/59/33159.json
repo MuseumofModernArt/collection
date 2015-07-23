@@ -5,8 +5,7 @@
   "Artist": "Yves Tanguy", 
   "URL": "http://www.moma.org/collection/works/33159", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1969-02-10", 
+  "CreditLine": "Alva Gimbel Fund", 
   "Date": "1936", 
   "ArtistID": 5804, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "13.1969", 
-  "ArtistBio": "American, born France. 1900\u20131955", 
-  "CreditLine": "Alva Gimbel Fund", 
+  "ArtistBio": "(American, born France. 1900\u20131955)", 
+  "DateAcquired": "1969-02-10", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "33159"
 }

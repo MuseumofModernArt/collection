@@ -1,12 +1,11 @@
 {
   "Medium": "Photolithograph", 
-  "Dimensions": "Composition: 19 11/16 x 17 5/16\" (50 x 44 cm)  Sheet: 19 11/16 x 17 5/16\" (50 x 44 cm)", 
+  "Dimensions": "Composition: 19 11/16 x 17 5/16\" (50 x 44 cm)\r\nSheet: 19 11/16 x 17 5/16\" (50 x 44 cm)", 
   "Classification": "Print", 
   "Artist": "Niki de Saint Phalle", 
   "URL": "http://www.moma.org/collection/works/66203", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled from the portfolio The New Realists (Les Nouveaux R\u00e9alistes)", 
-  "DateAcquired": "1989-10-12", 
+  "CreditLine": "Walter Thayer Bequest", 
   "Date": "1973", 
   "ArtistID": 1444, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "291.1989.10", 
-  "ArtistBio": "French, 1930\u20132002", 
-  "CreditLine": "Walter Thayer Bequest", 
+  "ArtistBio": "(French, 1930\u20132002)", 
+  "DateAcquired": "1989-10-12", 
+  "\ufeffTitle": "Untitled from the portfolio The New Realists (Les Nouveaux R\u00e9alistes)", 
   "ObjectID": "66203"
 }

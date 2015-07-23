@@ -5,8 +5,7 @@
   "Artist": "Pablo Picasso", 
   "URL": "http://www.moma.org/collection/works/29567", 
   "CuratorApproved": "Y", 
-  "Title": "Profile of a Woman with Braid (plate, folio 80) from Vingt po\u00ebmes", 
-  "DateAcquired": "1964-10-06", 
+  "CreditLine": "The Louis E. Stern Collection", 
   "Date": "(Print executed 1948)", 
   "ArtistID": 4609, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "988.1964.38", 
-  "ArtistBio": "Spanish, 1881\u20131973", 
-  "CreditLine": "The Louis E. Stern Collection", 
+  "ArtistBio": "(Spanish, 1881\u20131973)", 
+  "DateAcquired": "1964-10-06", 
+  "\ufeffTitle": "Profile of a Woman with Braid (plate, folio 80) from the illustrated book Vingt po\u00ebmes", 
   "ObjectID": "29567"
 }

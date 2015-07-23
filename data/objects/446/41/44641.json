@@ -5,8 +5,7 @@
   "Artist": "Lewis W. Hine", 
   "URL": "http://www.moma.org/collection/works/44641", 
   "CuratorApproved": "Y", 
-  "Title": "Tenement Family, Chicago", 
-  "DateAcquired": "1946-05-07", 
+  "CreditLine": "Purchase", 
   "Date": "1910", 
   "ArtistID": 2657, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "44.1946", 
-  "ArtistBio": "American, 1874\u20131940", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, 1874\u20131940)", 
+  "DateAcquired": "1946-05-07", 
+  "\ufeffTitle": "Tenement Family, Chicago", 
   "ObjectID": "44641"
 }

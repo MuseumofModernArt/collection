@@ -1,12 +1,11 @@
 {
   "Medium": "Wood and stainless steel", 
-  "Dimensions": ".1 (fork): l. 7\" (17.8 cm)  .2 (knife): l. 7 3/4\" (19.7 cm)", 
+  "Dimensions": ".1 (fork): l. 7\" (17.8 cm)\r\n.2 (knife): l. 7 3/4\" (19.7 cm)", 
   "Classification": "A&D Design", 
   "Artist": "Bertel Gardberg", 
   "URL": "http://www.moma.org/collection/works/1185", 
   "CuratorApproved": "Y", 
-  "Title": "Triennale Flatware", 
-  "DateAcquired": "2001-09-24", 
+  "CreditLine": "Given anonymously", 
   "Date": "1957", 
   "ArtistID": 7381, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "2257.2001.1-2", 
-  "ArtistBio": "Finnish, born 1916", 
-  "CreditLine": "Given anonymously", 
+  "ArtistBio": "(Finnish, born 1916)", 
+  "DateAcquired": "2001-09-24", 
+  "\ufeffTitle": "Triennale Flatware", 
   "ObjectID": "1185"
 }

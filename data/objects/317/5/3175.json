@@ -5,8 +5,7 @@
   "Artist": "Alvar Aalto", 
   "URL": "http://www.moma.org/collection/works/3175", 
   "CuratorApproved": "Y", 
-  "Title": "Cantilevered Armchair (model 406)", 
-  "DateAcquired": "1984-10-30", 
+  "CreditLine": "Gift of ICF, Inc.", 
   "Date": "c. 1970", 
   "ArtistID": 34, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "278.1984", 
-  "ArtistBio": "Finnish, 1898\u20131976", 
-  "CreditLine": "Gift of ICF, Inc.", 
+  "ArtistBio": "(Finnish, 1898\u20131976)", 
+  "DateAcquired": "1984-10-30", 
+  "\ufeffTitle": "Cantilevered Armchair (model 406)", 
   "ObjectID": "3175"
 }

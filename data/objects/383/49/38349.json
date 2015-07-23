@@ -5,8 +5,7 @@
   "Artist": "Paul Klee", 
   "URL": "http://www.moma.org/collection/works/38349", 
   "CuratorApproved": "Y", 
-  "Title": "Heroic Strokes of the Bow", 
-  "DateAcquired": "1979-10-09", 
+  "CreditLine": "Nelson A. Rockefeller Bequest", 
   "Date": "1938", 
   "ArtistID": 3130, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "958.1979", 
-  "ArtistBio": "German, born Switzerland. 1879\u20131940", 
-  "CreditLine": "Nelson A. Rockefeller Bequest", 
+  "ArtistBio": "(German, born Switzerland. 1879\u20131940)", 
+  "DateAcquired": "1979-10-09", 
+  "\ufeffTitle": "Heroic Strokes of the Bow (Heroische Bogenstriche)", 
   "ObjectID": "38349"
 }

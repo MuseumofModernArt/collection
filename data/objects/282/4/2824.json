@@ -5,8 +5,7 @@
   "Artist": "Marcello Nizzoli", 
   "URL": "http://www.moma.org/collection/works/2824", 
   "CuratorApproved": "Y", 
-  "Title": "Lexikon 80 Manual Typewriter", 
-  "DateAcquired": "1950-06-08", 
+  "CreditLine": "Gift of Olivetti Corp.", 
   "Date": "1948", 
   "ArtistID": 4316, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "226.1950", 
-  "ArtistBio": "Italian, 1887\u20131969", 
-  "CreditLine": "Gift of Olivetti Corp.", 
+  "ArtistBio": "(Italian, 1887\u20131969)", 
+  "DateAcquired": "1950-06-08", 
+  "\ufeffTitle": "Lexikon 80 Manual Typewriter", 
   "ObjectID": "2824"
 }

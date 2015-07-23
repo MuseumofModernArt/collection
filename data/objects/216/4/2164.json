@@ -5,8 +5,7 @@
   "Artist": "John D. Wareham", 
   "URL": "http://www.moma.org/collection/works/2164", 
   "CuratorApproved": "Y", 
-  "Title": "Vase", 
-  "DateAcquired": "1957-05-15", 
+  "CreditLine": "Phyllis B. Lambert Fund", 
   "Date": "1901", 
   "ArtistID": 6244, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "112.1957", 
-  "ArtistBio": "American, 1871\u20131954", 
-  "CreditLine": "Phyllis B. Lambert Fund", 
+  "ArtistBio": "(American, 1871\u20131954)", 
+  "DateAcquired": "1957-05-15", 
+  "\ufeffTitle": "Vase", 
   "ObjectID": "2164"
 }

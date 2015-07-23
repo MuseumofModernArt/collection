@@ -5,8 +5,7 @@
   "Artist": "Tadanori Yokoo", 
   "URL": "http://www.moma.org/collection/works/4984", 
   "CuratorApproved": "Y", 
-  "Title": "Koshimake Osen 2, Fire in a Long-sleeved Kimono", 
-  "DateAcquired": "1972-04-11", 
+  "CreditLine": "Gift of the designer", 
   "Date": "1969", 
   "ArtistID": 6502, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "82.1972", 
-  "ArtistBio": "Japanese, born 1936", 
-  "CreditLine": "Gift of the designer", 
+  "ArtistBio": "(Japanese, born 1936)", 
+  "DateAcquired": "1972-04-11", 
+  "\ufeffTitle": "Koshimake Osen 2, Fire in a Long-sleeved Kimono", 
   "ObjectID": "4984"
 }

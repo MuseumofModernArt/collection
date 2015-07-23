@@ -1,12 +1,11 @@
 {
   "Medium": "Woodcut", 
-  "Dimensions": "irreg. composition  5 1/2 x 9 15/16\" (13.9 x 25.2 cm)  irreg. sheet  12 9/16 x 19 5/16\" (32 x 49 cm)", 
+  "Dimensions": "irreg. composition  5 1/2 x 9 15/16\" (13.9 x 25.2 cm)\r\nirreg. sheet  12 9/16 x 19 5/16\" (32 x 49 cm)", 
   "Classification": "Print", 
   "Artist": "Jean Fautrier", 
   "URL": "http://www.moma.org/collection/works/59752", 
   "CuratorApproved": "Y", 
-  "Title": "Vegetables", 
-  "DateAcquired": "1985-01-30", 
+  "CreditLine": "Joanne M. Stern Fund", 
   "Date": "(1946, printed 1962-64)", 
   "ArtistID": 1815, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "8.1985", 
-  "ArtistBio": "French, 1898\u20131964", 
-  "CreditLine": "Joanne M. Stern Fund", 
+  "ArtistBio": "(French, 1898\u20131964)", 
+  "DateAcquired": "1985-01-30", 
+  "\ufeffTitle": "Vegetables", 
   "ObjectID": "59752"
 }

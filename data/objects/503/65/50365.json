@@ -5,8 +5,7 @@
   "Artist": "Thomas Annan", 
   "URL": "http://www.moma.org/collection/works/50365", 
   "CuratorApproved": "Y", 
-  "Title": "High Street from the Cross", 
-  "DateAcquired": "NULL", 
+  "CreditLine": "Purchase", 
   "Date": "1868", 
   "ArtistID": 190, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "308.1975.1", 
-  "ArtistBio": "British, 1829\u20131887", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(British, 1829\u20131887)", 
+  "DateAcquired": "", 
+  "\ufeffTitle": "High Street from the Cross", 
   "ObjectID": "50365"
 }

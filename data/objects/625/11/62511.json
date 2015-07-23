@@ -5,8 +5,7 @@
   "Artist": "Louise Bourgeois", 
   "URL": "http://www.moma.org/collection/works/62511", 
   "CuratorApproved": "Y", 
-  "Title": "Reply to Stanley Hayter, only state", 
-  "DateAcquired": "2000-03-02", 
+  "CreditLine": "Gift of the artist", 
   "Date": "1996", 
   "ArtistID": 710, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "134.2000", 
-  "ArtistBio": "American, born France. 1911\u20132010", 
-  "CreditLine": "Gift of the artist", 
+  "ArtistBio": "(American, born France. 1911\u20132010)", 
+  "DateAcquired": "2000-03-02", 
+  "\ufeffTitle": "Reply to Stanley Hayter", 
   "ObjectID": "62511"
 }

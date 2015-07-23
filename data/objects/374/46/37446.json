@@ -5,8 +5,7 @@
   "Artist": "Pierre Alechinsky", 
   "URL": "http://www.moma.org/collection/works/37446", 
   "CuratorApproved": "Y", 
-  "Title": "The Complex of the Sphinx", 
-  "DateAcquired": "1976-12-07", 
+  "CreditLine": "Gift of Mary A. Gordon", 
   "Date": "1967", 
   "ArtistID": 107, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "588.1976", 
-  "ArtistBio": "Belgian, born 1927", 
-  "CreditLine": "Gift of Mary A. Gordon", 
+  "ArtistBio": "(Belgian, born 1927)", 
+  "DateAcquired": "1976-12-07", 
+  "\ufeffTitle": "The Complex of the Sphinx", 
   "ObjectID": "37446"
 }

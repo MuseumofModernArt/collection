@@ -5,8 +5,7 @@
   "Artist": "Kaj Franck", 
   "URL": "http://www.moma.org/collection/works/2926", 
   "CuratorApproved": "Y", 
-  "Title": "Kilta Creamer", 
-  "DateAcquired": "1994-05-03", 
+  "CreditLine": "Purchase", 
   "Date": "c. 1953", 
   "ArtistID": 1968, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "235.1994", 
-  "ArtistBio": "Finnish, 1911\u20131989", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(Finnish, 1911\u20131989)", 
+  "DateAcquired": "1994-05-03", 
+  "\ufeffTitle": "Kilta Creamer", 
   "ObjectID": "2926"
 }

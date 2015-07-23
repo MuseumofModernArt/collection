@@ -5,8 +5,7 @@
   "Artist": "Alan Fletcher", 
   "URL": "http://www.moma.org/collection/works/6329", 
   "CuratorApproved": "Y", 
-  "Title": "Pirelli", 
-  "DateAcquired": "1961-11-08", 
+  "CreditLine": "Gift of the designer", 
   "Date": "1961", 
   "ArtistID": 1915, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "334.1961", 
-  "ArtistBio": "British, born Kenya 1931", 
-  "CreditLine": "Gift of the designer", 
+  "ArtistBio": "(British, born Kenya 1931)", 
+  "DateAcquired": "1961-11-08", 
+  "\ufeffTitle": "Pirelli", 
   "ObjectID": "6329"
 }

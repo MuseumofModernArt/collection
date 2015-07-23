@@ -5,8 +5,7 @@
   "Artist": "Marcello Nizzoli", 
   "URL": "http://www.moma.org/collection/works/2627", 
   "CuratorApproved": "Y", 
-  "Title": "Mirella Sewing Machine", 
-  "DateAcquired": "1958-12-04", 
+  "CreditLine": "Gift of the manufacturer", 
   "Date": "1956", 
   "ArtistID": 4316, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "202.1958", 
-  "ArtistBio": "Italian, 1887\u20131969", 
-  "CreditLine": "Gift of the manufacturer", 
+  "ArtistBio": "(Italian, 1887\u20131969)", 
+  "DateAcquired": "1958-12-04", 
+  "\ufeffTitle": "Mirella Sewing Machine", 
   "ObjectID": "2627"
 }

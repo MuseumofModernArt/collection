@@ -5,8 +5,7 @@
   "Artist": "Wolfgang Weingart", 
   "URL": "http://www.moma.org/collection/works/7085", 
   "CuratorApproved": "Y", 
-  "Title": "Das Schweizer Plakat", 
-  "DateAcquired": "1985-11-18", 
+  "CreditLine": "Gift of the designer", 
   "Date": "1984", 
   "ArtistID": 6289, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "457.1985", 
-  "ArtistBio": "Swiss, born 1941", 
-  "CreditLine": "Gift of the designer", 
+  "ArtistBio": "(Swiss, born 1941)", 
+  "DateAcquired": "1985-11-18", 
+  "\ufeffTitle": "Das Schweizer Plakat", 
   "ObjectID": "7085"
 }

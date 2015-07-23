@@ -1,12 +1,11 @@
 {
   "Medium": "Lithograph", 
-  "Dimensions": "composition  16 1/2 x 22\" (41.9 x 55.9 cm)  sheet  22 1/2 x 31 1/8\" (57.2 x 79 cm)", 
+  "Dimensions": "composition  16 1/2 x 22\" (41.9 x 55.9 cm)\r\nsheet  22 1/2 x 31 1/8\" (57.2 x 79 cm)", 
   "Classification": "Print", 
   "Artist": "James Rosenquist", 
   "URL": "http://www.moma.org/collection/works/60448", 
   "CuratorApproved": "Y", 
-  "Title": "Night Smoke II", 
-  "DateAcquired": "1972-02-07", 
+  "CreditLine": "Gift of Celeste Bartos", 
   "Date": "1969-72", 
   "ArtistID": 5021, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "29.1972", 
-  "ArtistBio": "American, born 1933", 
-  "CreditLine": "Gift of Celeste Bartos", 
+  "ArtistBio": "(American, born 1933)", 
+  "DateAcquired": "1972-02-07", 
+  "\ufeffTitle": "Night Smoke II", 
   "ObjectID": "60448"
 }

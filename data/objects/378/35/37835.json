@@ -5,8 +5,7 @@
   "Artist": "Wifredo Lam", 
   "URL": "http://www.moma.org/collection/works/37835", 
   "CuratorApproved": "Y", 
-  "Title": "Satan", 
-  "DateAcquired": "1942-12-29", 
+  "CreditLine": "Inter-American Fund", 
   "Date": "1942", 
   "ArtistID": 3349, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "710.1942", 
-  "ArtistBio": "Cuban, 1902\u20131982", 
-  "CreditLine": "Inter-American Fund", 
+  "ArtistBio": "(Cuban, 1902\u20131982)", 
+  "DateAcquired": "1942-12-29", 
+  "\ufeffTitle": "Satan", 
   "ObjectID": "37835"
 }

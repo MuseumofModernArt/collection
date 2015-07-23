@@ -1,12 +1,11 @@
 {
   "Medium": "Etching with watercolor applied by stencil", 
-  "Dimensions": "irreg composition  23 15/16 x 23 7/8\" (60.8 x 60.6 cm)  sheet  29 1/16 x 30 11/16\" (73.8 x 77.9 cm)", 
+  "Dimensions": "irreg composition  23 15/16 x 23 7/8\" (60.8 x 60.6 cm)\r\nsheet  29 1/16 x 30 11/16\" (73.8 x 77.9 cm)", 
   "Classification": "Print", 
   "Artist": "Red Grooms", 
   "URL": "http://www.moma.org/collection/works/60560", 
   "CuratorApproved": "Y", 
-  "Title": "Picasso Goes to Heaven II", 
-  "DateAcquired": "1977-02-10", 
+  "CreditLine": "John B. Turner Fund", 
   "Date": "1973-76", 
   "ArtistID": 2357, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "34.1977", 
-  "ArtistBio": "American, born 1937", 
-  "CreditLine": "John B. Turner Fund", 
+  "ArtistBio": "(American, born 1937)", 
+  "DateAcquired": "1977-02-10", 
+  "\ufeffTitle": "Picasso Goes to Heaven II", 
   "ObjectID": "60560"
 }

@@ -5,8 +5,7 @@
   "Artist": "Christopher Connell", 
   "URL": "http://www.moma.org/collection/works/2974", 
   "CuratorApproved": "Y", 
-  "Title": "Pepe Chair", 
-  "DateAcquired": "1998-04-22", 
+  "CreditLine": "Gift of the manufacturer", 
   "Date": "1992", 
   "ArtistID": 8026, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "240.1998", 
-  "ArtistBio": "Australian, born 1954", 
-  "CreditLine": "Gift of the manufacturer", 
+  "ArtistBio": "(Australian, born 1954)", 
+  "DateAcquired": "1998-04-22", 
+  "\ufeffTitle": "Pepe Chair", 
   "ObjectID": "2974"
 }

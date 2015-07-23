@@ -5,8 +5,7 @@
   "Artist": "Amedeo Modigliani", 
   "URL": "http://www.moma.org/collection/works/36984", 
   "CuratorApproved": "Y", 
-  "Title": "Young Man Seated", 
-  "DateAcquired": "1981-11-13", 
+  "CreditLine": "Gift of Bonnie Cashin", 
   "Date": "1916", 
   "ArtistID": 4038, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "452.1981", 
-  "ArtistBio": "Italian, 1884\u20131920", 
-  "CreditLine": "Gift of Bonnie Cashin", 
+  "ArtistBio": "(Italian, 1884\u20131920)", 
+  "DateAcquired": "1981-11-13", 
+  "\ufeffTitle": "Young Man Seated", 
   "ObjectID": "36984"
 }

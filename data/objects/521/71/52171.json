@@ -5,8 +5,7 @@
   "Artist": "Ken Josephson", 
   "URL": "http://www.moma.org/collection/works/52171", 
   "CuratorApproved": "Y", 
-  "Title": "Matthew", 
-  "DateAcquired": "1972-01-21", 
+  "CreditLine": "Gift of the photographer", 
   "Date": "1963", 
   "ArtistID": 2944, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "380.1972", 
-  "ArtistBio": "American, born 1932", 
-  "CreditLine": "Gift of the photographer", 
+  "ArtistBio": "(American, born 1932)", 
+  "DateAcquired": "1972-01-21", 
+  "\ufeffTitle": "Matthew", 
   "ObjectID": "52171"
 }

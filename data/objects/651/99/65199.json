@@ -5,8 +5,7 @@
   "Artist": "Carroll Dunham", 
   "URL": "http://www.moma.org/collection/works/65199", 
   "CuratorApproved": "Y", 
-  "Title": "Shape on a Base", 
-  "DateAcquired": "1991-10-16", 
+  "CreditLine": "Gift of Emily Fisher Landau", 
   "Date": "1990", 
   "ArtistID": 1652, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "248.1991", 
-  "ArtistBio": "American, born 1949", 
-  "CreditLine": "Gift of Emily Fisher Landau", 
+  "ArtistBio": "(American, born 1949)", 
+  "DateAcquired": "1991-10-16", 
+  "\ufeffTitle": "Shape on a Base", 
   "ObjectID": "65199"
 }

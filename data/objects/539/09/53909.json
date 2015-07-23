@@ -5,8 +5,7 @@
   "Artist": "Gay Block", 
   "URL": "http://www.moma.org/collection/works/53909", 
   "CuratorApproved": "Y", 
-  "Title": "Adele Defarges, France", 
-  "DateAcquired": "1994-10-13", 
+  "CreditLine": "Gift of the photographer", 
   "Date": "1988", 
   "ArtistID": 607, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "467.1994.x1-x2", 
-  "ArtistBio": "American, born 1942", 
-  "CreditLine": "Gift of the photographer", 
+  "ArtistBio": "(American, born 1942)", 
+  "DateAcquired": "1994-10-13", 
+  "\ufeffTitle": "_Untitled_", 
   "ObjectID": "53909"
 }

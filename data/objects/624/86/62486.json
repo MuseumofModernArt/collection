@@ -5,8 +5,7 @@
   "Artist": "Paul Klee", 
   "URL": "http://www.moma.org/collection/works/62486", 
   "CuratorApproved": "Y", 
-  "Title": "The One in Love", 
-  "DateAcquired": "1949-03-24", 
+  "CreditLine": "Purchase", 
   "Date": "1923", 
   "ArtistID": 3130, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "133.1949", 
-  "ArtistBio": "German, born Switzerland. 1879\u20131940", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(German, born Switzerland. 1879\u20131940)", 
+  "DateAcquired": "1949-03-24", 
+  "\ufeffTitle": "The One in Love (Der Verliebte) for the Masters' Portfolio of the Staatliches Bauhaus (Meistermappe des Staatlichen Bauhauses)", 
   "ObjectID": "62486"
 }

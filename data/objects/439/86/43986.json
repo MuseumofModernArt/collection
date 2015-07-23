@@ -5,8 +5,7 @@
   "Artist": "Berenice Abbott", 
   "URL": "http://www.moma.org/collection/works/43986", 
   "CuratorApproved": "Y", 
-  "Title": "Hardware Store, 316-318 Bowery, Manhattan", 
-  "DateAcquired": "1971-01-05", 
+  "CreditLine": "Purchase", 
   "Date": "January 26, 1938", 
   "ArtistID": 41, 
   "Keywords": [
@@ -20,7 +19,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "14.1971", 
-  "ArtistBio": "American, 1898\u20131991", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, 1898\u20131991)", 
+  "DateAcquired": "1971-01-05", 
+  "\ufeffTitle": "Hardware Store, 316-318 Bowery, Manhattan", 
   "ObjectID": "43986"
 }

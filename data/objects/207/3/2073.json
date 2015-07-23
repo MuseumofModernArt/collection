@@ -5,8 +5,7 @@
   "Artist": "Unknown Designer", 
   "URL": "http://www.moma.org/collection/works/2073", 
   "CuratorApproved": "Y", 
-  "Title": "Old-fashioned Glass", 
-  "DateAcquired": "1946-05-07", 
+  "CreditLine": "Purchase", 
   "Date": "Before 1946", 
   "ArtistID": 6011, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "91.1946", 
-  "ArtistBio": "Nationality unknown", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(Nationality unknown)", 
+  "DateAcquired": "1946-05-07", 
+  "\ufeffTitle": "Old-fashioned Glass", 
   "ObjectID": "2073"
 }

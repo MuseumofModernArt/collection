@@ -5,8 +5,7 @@
   "Artist": "Bruno Munari", 
   "URL": "http://www.moma.org/collection/works/3696", 
   "CuratorApproved": "Y", 
-  "Title": "L'Ora X Clock", 
-  "DateAcquired": "1963-06-12", 
+  "CreditLine": "Greta Daniel Design Fund", 
   "Date": "1945", 
   "ArtistID": 4163, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "375.1963", 
-  "ArtistBio": "Italian, 1907\u20131998", 
-  "CreditLine": "Greta Daniel Design Fund", 
+  "ArtistBio": "(Italian, 1907\u20131998)", 
+  "DateAcquired": "1963-06-12", 
+  "\ufeffTitle": "L'Ora X Clock", 
   "ObjectID": "3696"
 }

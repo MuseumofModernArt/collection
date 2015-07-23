@@ -5,8 +5,7 @@
   "Artist": "Unknown Designer", 
   "URL": "http://www.moma.org/collection/works/4260", 
   "CuratorApproved": "Y", 
-  "Title": "Whisk", 
-  "DateAcquired": "1956-10-25", 
+  "CreditLine": "Purchase Fund", 
   "Date": "Before 1956", 
   "ArtistID": 6011, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "504.1956", 
-  "ArtistBio": "American", 
-  "CreditLine": "Purchase Fund", 
+  "ArtistBio": "(American)", 
+  "DateAcquired": "1956-10-25", 
+  "\ufeffTitle": "Whisk", 
   "ObjectID": "4260"
 }

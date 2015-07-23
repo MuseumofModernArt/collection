@@ -5,8 +5,7 @@
   "Artist": "Horst Antes", 
   "URL": "http://www.moma.org/collection/works/38095", 
   "CuratorApproved": "Y", 
-  "Title": "Man with a Monster", 
-  "DateAcquired": "1969-10-28", 
+  "CreditLine": "Mrs. Gertrud A. Mellon Fund", 
   "Date": "(c. 1967)", 
   "ArtistID": 194, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "804.1969", 
-  "ArtistBio": "German, born 1936", 
-  "CreditLine": "Mrs. Gertrud A. Mellon Fund", 
+  "ArtistBio": "(German, born 1936)", 
+  "DateAcquired": "1969-10-28", 
+  "\ufeffTitle": "Man with a Monster", 
   "ObjectID": "38095"
 }

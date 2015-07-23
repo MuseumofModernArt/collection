@@ -5,8 +5,7 @@
   "Artist": "Paul Signac", 
   "URL": "http://www.moma.org/collection/works/66458", 
   "CuratorApproved": "Y", 
-  "Title": "Flessingue", 
-  "DateAcquired": "1955-10-10", 
+  "CreditLine": "Gift of Otto M. Gerson", 
   "Date": "(1895)", 
   "ArtistID": 5421, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "302.1955", 
-  "ArtistBio": "French, 1863\u20131935", 
-  "CreditLine": "Gift of Otto M. Gerson", 
+  "ArtistBio": "(French, 1863\u20131935)", 
+  "DateAcquired": "1955-10-10", 
+  "\ufeffTitle": "Flessingue", 
   "ObjectID": "66458"
 }

@@ -5,8 +5,7 @@
   "Artist": "John Marin", 
   "URL": "http://www.moma.org/collection/works/61596", 
   "CuratorApproved": "Y", 
-  "Title": "Brooklyn Bridge, No. 6", 
-  "DateAcquired": "1955-04-06", 
+  "CreditLine": "Purchase", 
   "Date": "1913", 
   "ArtistID": 3770, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "85.1955", 
-  "ArtistBio": "American, 1870\u20131953", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, 1870\u20131953)", 
+  "DateAcquired": "1955-04-06", 
+  "\ufeffTitle": "Brooklyn Bridge, No. 6", 
   "ObjectID": "61596"
 }

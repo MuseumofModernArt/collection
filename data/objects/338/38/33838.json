@@ -5,8 +5,7 @@
   "Artist": "Jean Tinguely", 
   "URL": "http://www.moma.org/collection/works/33838", 
   "CuratorApproved": "Y", 
-  "Title": "Sketch for Homage to New York", 
-  "DateAcquired": "1960-05-02", 
+  "CreditLine": "Gift of Peter Selz", 
   "Date": "1960", 
   "ArtistID": 5882, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "92.1960", 
-  "ArtistBio": "Swiss, 1925\u20131991", 
-  "CreditLine": "Gift of Peter Selz", 
+  "ArtistBio": "(Swiss, 1925\u20131991)", 
+  "DateAcquired": "1960-05-02", 
+  "\ufeffTitle": "Sketch for Homage to New York", 
   "ObjectID": "33838"
 }

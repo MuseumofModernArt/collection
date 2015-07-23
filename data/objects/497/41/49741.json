@@ -5,8 +5,7 @@
   "Artist": "William Gedney", 
   "URL": "http://www.moma.org/collection/works/49741", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1985-10-02", 
+  "CreditLine": "Gift of the photographer", 
   "Date": "1970-71", 
   "ArtistID": 2105, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "265.1985", 
-  "ArtistBio": "American, 1932\u20131989", 
-  "CreditLine": "Gift of the photographer", 
+  "ArtistBio": "(American, 1932\u20131989)", 
+  "DateAcquired": "1985-10-02", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "49741"
 }

@@ -5,8 +5,7 @@
   "Artist": "Harold Paris", 
   "URL": "http://www.moma.org/collection/works/63246", 
   "CuratorApproved": "Y", 
-  "Title": "Where Are We Going?", 
-  "DateAcquired": "1949-03-24", 
+  "CreditLine": "Purchase", 
   "Date": "(1948)", 
   "ArtistID": 4498, 
   "Keywords": [
@@ -16,7 +15,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "149.1949", 
-  "ArtistBio": "American, 1925\u20131979", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, 1925\u20131979)", 
+  "DateAcquired": "1949-03-24", 
+  "\ufeffTitle": "Where Are We Going?", 
   "ObjectID": "63246"
 }

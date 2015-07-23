@@ -5,8 +5,7 @@
   "Artist": "David Alfaro Siqueiros", 
   "URL": "http://www.moma.org/collection/works/61958", 
   "CuratorApproved": "Y", 
-  "Title": "Guardian of the Peace", 
-  "DateAcquired": "1952-05-20", 
+  "CreditLine": "Inter-American Fund", 
   "Date": "(1945)", 
   "ArtistID": 5454, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "111.1952", 
-  "ArtistBio": "Mexican, 1896\u20131974", 
-  "CreditLine": "Inter-American Fund", 
+  "ArtistBio": "(Mexican, 1896\u20131974)", 
+  "DateAcquired": "1952-05-20", 
+  "\ufeffTitle": "Guardian of the Peace", 
   "ObjectID": "61958"
 }

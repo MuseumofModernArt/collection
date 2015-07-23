@@ -5,8 +5,7 @@
   "Artist": "Louis Marcoussis", 
   "URL": "http://www.moma.org/collection/works/67355", 
   "CuratorApproved": "Y", 
-  "Title": "Gertrude Stein", 
-  "DateAcquired": "1948-10-06", 
+  "CreditLine": "Gift of Victor S. Riesenfeld", 
   "Date": "1898", 
   "ArtistID": 3757, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "345.1948", 
-  "ArtistBio": "Polish, 1883\u20131941", 
-  "CreditLine": "Gift of Victor S. Riesenfeld", 
+  "ArtistBio": "(Polish, 1883\u20131941)", 
+  "DateAcquired": "1948-10-06", 
+  "\ufeffTitle": "Gertrude Stein", 
   "ObjectID": "67355"
 }

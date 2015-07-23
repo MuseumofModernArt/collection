@@ -5,8 +5,7 @@
   "Artist": "El Lissitzky", 
   "URL": "http://www.moma.org/collection/works/6458", 
   "CuratorApproved": "Y", 
-  "Title": "USSR Russische Ausstellung", 
-  "DateAcquired": "1937-10-30", 
+  "CreditLine": "Purchase", 
   "Date": "1929", 
   "ArtistID": 3569, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "353.1937", 
-  "ArtistBio": "Russian, 1890\u20131941", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(Russian, 1890\u20131941)", 
+  "DateAcquired": "1937-10-30", 
+  "\ufeffTitle": "USSR Russische Ausstellung", 
   "ObjectID": "6458"
 }

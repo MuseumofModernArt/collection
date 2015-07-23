@@ -5,8 +5,7 @@
   "Artist": "Walker Evans", 
   "URL": "http://www.moma.org/collection/works/44193", 
   "CuratorApproved": "Y", 
-  "Title": "City Lunch Counter, New York", 
-  "DateAcquired": "1994-01-13", 
+  "CreditLine": "Gift of the photographer", 
   "Date": "1929", 
   "ArtistID": 1777, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "27.1994", 
-  "ArtistBio": "American, 1903\u20131975", 
-  "CreditLine": "Gift of the photographer", 
+  "ArtistBio": "(American, 1903\u20131975)", 
+  "DateAcquired": "1994-01-13", 
+  "\ufeffTitle": "City Lunch Counter, New York", 
   "ObjectID": "44193"
 }

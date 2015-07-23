@@ -5,8 +5,7 @@
   "Artist": "Matt Mullican", 
   "URL": "http://www.moma.org/collection/works/67727", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1988-10-25", 
+  "CreditLine": "Purchase", 
   "Date": "1988", 
   "ArtistID": 4160, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "362.1988.1-16", 
-  "ArtistBio": "American, born 1951", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, born 1951)", 
+  "DateAcquired": "1988-10-25", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "67727"
 }

@@ -5,8 +5,7 @@
   "Artist": "Aleksandr Archipenko", 
   "URL": "http://www.moma.org/collection/works/66018", 
   "CuratorApproved": "Y", 
-  "Title": "Dreizhen Steinzeichnungen", 
-  "DateAcquired": "1950-10-19", 
+  "CreditLine": "Purchase", 
   "Date": "1921", 
   "ArtistID": 209, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "285.1950.1-13", 
-  "ArtistBio": "American, 1887\u20131964", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, 1887\u20131964)", 
+  "DateAcquired": "1950-10-19", 
+  "\ufeffTitle": "Dreizhen Steinzeichnungen", 
   "ObjectID": "66018"
 }

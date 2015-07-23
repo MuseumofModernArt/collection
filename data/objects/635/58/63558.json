@@ -5,8 +5,7 @@
   "Artist": "Saul Steinberg", 
   "URL": "http://www.moma.org/collection/works/63558", 
   "CuratorApproved": "Y", 
-  "Title": "Head", 
-  "DateAcquired": "1945-12-17", 
+  "CreditLine": "Gift of the artist", 
   "Date": "1929", 
   "ArtistID": 5627, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "172.1945", 
-  "ArtistBio": "American, born Romania. 1914\u20131999", 
-  "CreditLine": "Gift of the artist", 
+  "ArtistBio": "(American, born Romania. 1914\u20131999)", 
+  "DateAcquired": "1945-12-17", 
+  "\ufeffTitle": "Head", 
   "ObjectID": "63558"
 }

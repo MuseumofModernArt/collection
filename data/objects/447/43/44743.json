@@ -5,8 +5,7 @@
   "Artist": "Prefecture of Police, Paris", 
   "URL": "http://www.moma.org/collection/works/44743", 
   "CuratorApproved": "Y", 
-  "Title": "Madame Simon's Parlor", 
-  "DateAcquired": "1994-01-13", 
+  "CreditLine": "David H. McAlpin Fund", 
   "Date": "1895", 
   "ArtistID": 8072, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "47.1994.2", 
-  "ArtistBio": "NULL", 
-  "CreditLine": "David H. McAlpin Fund", 
+  "ArtistBio": "", 
+  "DateAcquired": "1994-01-13", 
+  "\ufeffTitle": "Madame Simon's Parlor", 
   "ObjectID": "44743"
 }

@@ -5,8 +5,7 @@
   "Artist": "James Lee Byars", 
   "URL": "http://www.moma.org/collection/works/33502", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled Object", 
-  "DateAcquired": "1965-02-09", 
+  "CreditLine": "Gift of the artist", 
   "Date": "(1962-64)", 
   "ArtistID": 902, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "47.1965", 
-  "ArtistBio": "American, 1932\u20131997", 
-  "CreditLine": "Gift of the artist", 
+  "ArtistBio": "(American, 1932\u20131997)", 
+  "DateAcquired": "1965-02-09", 
+  "\ufeffTitle": "Untitled Object", 
   "ObjectID": "33502"
 }

@@ -5,8 +5,7 @@
   "Artist": "Alexander Calder", 
   "URL": "http://www.moma.org/collection/works/33553", 
   "CuratorApproved": "Y", 
-  "Title": "The Catch II", 
-  "DateAcquired": "1965-02-09", 
+  "CreditLine": "Gift of Mr. and Mrs. Peter A. R\u00fcbel", 
   "Date": "1932", 
   "ArtistID": 922, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "56.1965", 
-  "ArtistBio": "American, 1898\u20131976", 
-  "CreditLine": "Gift of Mr. and Mrs. Peter A. R\u00fcbel", 
+  "ArtistBio": "(American, 1898\u20131976)", 
+  "DateAcquired": "1965-02-09", 
+  "\ufeffTitle": "The Catch II", 
   "ObjectID": "33553"
 }

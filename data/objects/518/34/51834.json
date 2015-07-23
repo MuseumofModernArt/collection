@@ -5,8 +5,7 @@
   "Artist": "Roy DeCarava", 
   "URL": "http://www.moma.org/collection/works/51834", 
   "CuratorApproved": "Y", 
-  "Title": "Self-Portrait", 
-  "DateAcquired": "1961-11-08", 
+  "CreditLine": "Purchase", 
   "Date": "1956", 
   "ArtistID": 1422, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "365.1961", 
-  "ArtistBio": "American, 1919\u20132009", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, 1919\u20132009)", 
+  "DateAcquired": "1961-11-08", 
+  "\ufeffTitle": "Self-Portrait", 
   "ObjectID": "51834"
 }

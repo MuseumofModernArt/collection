@@ -1,12 +1,11 @@
 {
   "Medium": "Lithograph", 
-  "Dimensions": "composition  22 9/16 x 21 1/16\" (57.3 x 53.5 cm)  sheet  22 9/16 x 21 1/16\" (57.3 x 53.5 cm)", 
+  "Dimensions": "composition  22 9/16 x 21 1/16\" (57.3 x 53.5 cm)\r\nsheet  22 9/16 x 21 1/16\" (57.3 x 53.5 cm)", 
   "Classification": "Print", 
   "Artist": "Peter Saul", 
   "URL": "http://www.moma.org/collection/works/60482", 
   "CuratorApproved": "Y", 
-  "Title": "Hoomin Consurn/Personal Torment", 
-  "DateAcquired": "1972-02-07", 
+  "CreditLine": "John B. Turner Fund", 
   "Date": "(19)69", 
   "ArtistID": 5178, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "31.1972", 
-  "ArtistBio": "American, born 1934", 
-  "CreditLine": "John B. Turner Fund", 
+  "ArtistBio": "(American, born 1934)", 
+  "DateAcquired": "1972-02-07", 
+  "\ufeffTitle": "Hoomin Consurn/Personal Torment", 
   "ObjectID": "60482"
 }

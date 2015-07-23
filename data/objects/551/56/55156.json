@@ -5,8 +5,7 @@
   "Artist": "William McFarlane Notman", 
   "URL": "http://www.moma.org/collection/works/55156", 
   "CuratorApproved": "Y", 
-  "Title": "Blackfoot Brave with Pony", 
-  "DateAcquired": "1967-06-06", 
+  "CreditLine": "Purchase", 
   "Date": "1889", 
   "ArtistID": 4336, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "562.1967", 
-  "ArtistBio": "Canadian, 1826\u20131891", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(Canadian, 1826\u20131891)", 
+  "DateAcquired": "1967-06-06", 
+  "\ufeffTitle": "Blackfoot Brave with Pony", 
   "ObjectID": "55156"
 }

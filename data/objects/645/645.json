@@ -5,8 +5,7 @@
   "Artist": "Louis I. Kahn", 
   "URL": "http://www.moma.org/collection/works/645", 
   "CuratorApproved": "Y", 
-  "Title": "Mr. and Mrs. Lawrence Morris House  Mount Kisco, New York  Perspective", 
-  "DateAcquired": "1987-11-18", 
+  "CreditLine": "Purchase", 
   "Date": "1958", 
   "ArtistID": 2964, 
   "Keywords": [
@@ -23,7 +22,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "439.1987", 
-  "ArtistBio": "American, born Estonia. 1901\u20131974", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, born Estonia. 1901\u20131974)", 
+  "DateAcquired": "1987-11-18", 
+  "\ufeffTitle": "Mr. and Mrs. Lawrence Morris House, Mount Kisco, New York, Perspective", 
   "ObjectID": "645"
 }

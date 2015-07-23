@@ -1,12 +1,11 @@
 {
   "Medium": "Illustrated Book with 39 drypoints (3 with woodcut, etching, or monotype), and 2 etchings", 
-  "Dimensions": "page  20 1/8 x 28 3/4\" (51 x 73 cm)  Prints: various dimensions.", 
+  "Dimensions": "page  20 1/8 x 28 3/4\" (51 x 73 cm)\r\nPrints: various dimensions.", 
   "Classification": "Illustrated Book", 
   "Artist": "Georg Baselitz", 
   "URL": "http://www.moma.org/collection/works/14735", 
   "CuratorApproved": "Y", 
-  "Title": "Malelade", 
-  "DateAcquired": "1992-05-20", 
+  "CreditLine": "Gift of The Cosmopolitan Arts Foundation", 
   "Date": "(1990).  (Prints executed 1988-1990).", 
   "ArtistID": 366, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "295.1992.1-41", 
-  "ArtistBio": "German, born 1938", 
-  "CreditLine": "Gift of The Cosmopolitan Arts Foundation", 
+  "ArtistBio": "(German, born 1938)", 
+  "DateAcquired": "1992-05-20", 
+  "\ufeffTitle": "Malelade", 
   "ObjectID": "14735"
 }

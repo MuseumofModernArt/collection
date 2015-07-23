@@ -5,8 +5,7 @@
   "Artist": "Marcel Wanders", 
   "URL": "http://www.moma.org/collection/works/3586", 
   "CuratorApproved": "Y", 
-  "Title": "Knotted Chair", 
-  "DateAcquired": "1996-09-25", 
+  "CreditLine": "Gift of the Peter Norton Family Foundation", 
   "Date": "1995", 
   "ArtistID": 7588, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "434.1996", 
-  "ArtistBio": "Dutch, born 1963", 
-  "CreditLine": "Gift of the Peter Norton Family Foundation", 
+  "ArtistBio": "(Dutch, born 1963)", 
+  "DateAcquired": "1996-09-25", 
+  "\ufeffTitle": "Knotted Chair", 
   "ObjectID": "3586"
 }

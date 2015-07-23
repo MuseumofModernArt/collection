@@ -5,8 +5,7 @@
   "Artist": "Unknown Designer", 
   "URL": "http://www.moma.org/collection/works/3710", 
   "CuratorApproved": "Y", 
-  "Title": "Cigaret Case", 
-  "DateAcquired": "1942-01-01", 
+  "CreditLine": "Purchase", 
   "Date": "c. 1940", 
   "ArtistID": 6011, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "381.1942", 
-  "ArtistBio": "Nationality unknown", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(Nationality unknown)", 
+  "DateAcquired": "1942-01-01", 
+  "\ufeffTitle": "Cigaret Case", 
   "ObjectID": "3710"
 }

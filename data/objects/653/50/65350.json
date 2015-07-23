@@ -1,12 +1,11 @@
 {
   "Medium": "Etching and aquatint", 
-  "Dimensions": "plate  15 7/8 x 19 7/8\" (40.3 x 50.5 cm)  irreg sheet  25 1/4 x 28 3/16\" (64.1 x 71.6 cm)", 
+  "Dimensions": "plate  15 7/8 x 19 7/8\" (40.3 x 50.5 cm)\r\nirreg sheet  25 1/4 x 28 3/16\" (64.1 x 71.6 cm)", 
   "Classification": "Print", 
   "Artist": "Robert Motherwell", 
   "URL": "http://www.moma.org/collection/works/65350", 
   "CuratorApproved": "Y", 
-  "Title": "Stephen's Iron Crown Etched", 
-  "DateAcquired": "1982-10-26", 
+  "CreditLine": "Gift of the artist", 
   "Date": "(1981-82)", 
   "ArtistID": 4126, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "255.1982", 
-  "ArtistBio": "American, 1915\u20131991", 
-  "CreditLine": "Gift of the artist", 
+  "ArtistBio": "(American, 1915\u20131991)", 
+  "DateAcquired": "1982-10-26", 
+  "\ufeffTitle": "Stephen's Iron Crown Etched", 
   "ObjectID": "65350"
 }

@@ -1,12 +1,11 @@
 {
   "Medium": "Drypoint and etching", 
-  "Dimensions": "plate  6 x 5 15/16\" (15.3 x 15.1 cm)  irreg sheet  9 1/16 x 9 1/16\" (23 x 23 cm)", 
+  "Dimensions": "plate  6 x 5 15/16\" (15.3 x 15.1 cm)\r\nirreg sheet  9 1/16 x 9 1/16\" (23 x 23 cm)", 
   "Classification": "Print", 
   "Artist": "Pat Steir", 
   "URL": "http://www.moma.org/collection/works/69345", 
   "CuratorApproved": "Y", 
-  "Title": "Line Frame", 
-  "DateAcquired": "1978-05-22", 
+  "CreditLine": "Purchase", 
   "Date": "1977", 
   "ArtistID": 5637, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "451.1978", 
-  "ArtistBio": "American, born 1940", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, born 1940)", 
+  "DateAcquired": "1978-05-22", 
+  "\ufeffTitle": "Line Frame", 
   "ObjectID": "69345"
 }

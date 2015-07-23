@@ -5,8 +5,7 @@
   "Artist": "Julio Gonz\u00e1lez", 
   "URL": "http://www.moma.org/collection/works/33122", 
   "CuratorApproved": "Y", 
-  "Title": "Study for Head", 
-  "DateAcquired": "1967-02-09", 
+  "CreditLine": "Gift of Mme Roberta Gonz\u00e1lez-Richard", 
   "Date": "1935", 
   "ArtistID": 2231, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "11.1967", 
-  "ArtistBio": "Spanish, 1876\u20131942", 
-  "CreditLine": "Gift of Mme Roberta Gonz\u00e1lez-Richard", 
+  "ArtistBio": "(Spanish, 1876\u20131942)", 
+  "DateAcquired": "1967-02-09", 
+  "\ufeffTitle": "Study for Head", 
   "ObjectID": "33122"
 }

@@ -5,8 +5,7 @@
   "Artist": "Kiki Smith", 
   "URL": "http://www.moma.org/collection/works/69386", 
   "CuratorApproved": "Y", 
-  "Title": "Yolk", 
-  "DateAcquired": "1999-11-18", 
+  "CreditLine": "John B. Turner Fund", 
   "Date": "1999", 
   "ArtistID": 5486, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "454.1999.1-3", 
-  "ArtistBio": "American, born Germany 1954", 
-  "CreditLine": "John B. Turner Fund", 
+  "ArtistBio": "(American, born Germany 1954)", 
+  "DateAcquired": "1999-11-18", 
+  "\ufeffTitle": "Yolk", 
   "ObjectID": "69386"
 }

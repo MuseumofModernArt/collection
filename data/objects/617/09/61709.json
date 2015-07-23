@@ -1,12 +1,11 @@
 {
   "Medium": "Woodcut", 
-  "Dimensions": "(irreg.) composition  9 5/8 x 13 5/8\" (24.4 x 34.6 cm)  sheet  12 11/16 x 19 13/16\" (32 x 50.3 cm)", 
+  "Dimensions": "(irreg.) composition  9 5/8 x 13 5/8\" (24.4 x 34.6 cm)\r\nsheet  12 11/16 x 19 13/16\" (32 x 50.3 cm)", 
   "Classification": "Print", 
   "Artist": "Josef Albers", 
   "URL": "http://www.moma.org/collection/works/61709", 
   "CuratorApproved": "Y", 
-  "Title": "Encircled", 
-  "DateAcquired": "1995-05-03", 
+  "CreditLine": "Gift of The Josef and Anni Albers Foundation in honor of Riva Castleman", 
   "Date": "1933", 
   "ArtistID": 97, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "93.1995", 
-  "ArtistBio": "American, born Germany. 1888\u20131976", 
-  "CreditLine": "Gift of The Josef and Anni Albers Foundation in honor of Riva Castleman", 
+  "ArtistBio": "(American, born Germany. 1888\u20131976)", 
+  "DateAcquired": "1995-05-03", 
+  "\ufeffTitle": "Encircled", 
   "ObjectID": "61709"
 }

@@ -5,8 +5,7 @@
   "Artist": "Barnett Newman", 
   "URL": "http://www.moma.org/collection/works/38100", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1996-10-18", 
+  "CreditLine": "Purchase through the Vincent D'Aquila and Harry Soviak Bequest Fund", 
   "Date": "(1945)", 
   "ArtistID": 4285, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "806.1996", 
-  "ArtistBio": "American, 1905\u20131970", 
-  "CreditLine": "Purchase through the Vincent D'Aquila and Harry Soviak Bequest Fund", 
+  "ArtistBio": "(American, 1905\u20131970)", 
+  "DateAcquired": "1996-10-18", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "38100"
 }

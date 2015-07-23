@@ -5,8 +5,7 @@
   "Artist": "Max Unold", 
   "URL": "http://www.moma.org/collection/works/65851", 
   "CuratorApproved": "Y", 
-  "Title": "In the Park", 
-  "DateAcquired": "1950-10-11", 
+  "CreditLine": "Gift of Mr. and Mrs. Justin K. Thannhauser", 
   "Date": "unknown", 
   "ArtistID": 6033, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "277.1950", 
-  "ArtistBio": "German, 1885\u20131964", 
-  "CreditLine": "Gift of Mr. and Mrs. Justin K. Thannhauser", 
+  "ArtistBio": "(German, 1885\u20131964)", 
+  "DateAcquired": "1950-10-11", 
+  "\ufeffTitle": "In the Park (Im Park)", 
   "ObjectID": "65851"
 }

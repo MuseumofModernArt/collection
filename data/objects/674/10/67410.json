@@ -5,8 +5,7 @@
   "Artist": "Kiki Smith", 
   "URL": "http://www.moma.org/collection/works/67410", 
   "CuratorApproved": "Y", 
-  "Title": "Little Mountain", 
-  "DateAcquired": "1997-03-06", 
+  "CreditLine": "John B. Turner Fund", 
   "Date": "(1993-96)", 
   "ArtistID": 5486, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "347.1997", 
-  "ArtistBio": "American, born Germany 1954", 
-  "CreditLine": "John B. Turner Fund", 
+  "ArtistBio": "(American, born Germany 1954)", 
+  "DateAcquired": "1997-03-06", 
+  "\ufeffTitle": "Little Mountain", 
   "ObjectID": "67410"
 }

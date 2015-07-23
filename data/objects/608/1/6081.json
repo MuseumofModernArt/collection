@@ -5,8 +5,7 @@
   "Artist": "Willi Baum", 
   "URL": "http://www.moma.org/collection/works/6081", 
   "CuratorApproved": "Y", 
-  "Title": "Nationale Briefmarken Ausstellung Luzern 29.Sept.-7.Okt. 1951", 
-  "DateAcquired": "1953-04-07", 
+  "CreditLine": "Gift of the artist", 
   "Date": "1951", 
   "ArtistID": 8204, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "286.1953", 
-  "ArtistBio": "Swiss", 
-  "CreditLine": "Gift of the artist", 
+  "ArtistBio": "(Swiss)", 
+  "DateAcquired": "1953-04-07", 
+  "\ufeffTitle": "Nationale Briefmarken Ausstellung Luzern 29.Sept.-7.Okt. 1951", 
   "ObjectID": "6081"
 }

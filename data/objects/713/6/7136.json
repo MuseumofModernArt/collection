@@ -5,8 +5,7 @@
   "Artist": "Lucian Bernhard", 
   "URL": "http://www.moma.org/collection/works/7136", 
   "CuratorApproved": "Y", 
-  "Title": "Osram Azo", 
-  "DateAcquired": "1987-11-18", 
+  "CreditLine": "Purchase Fund", 
   "Date": "c. 1910", 
   "ArtistID": 515, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "467.1987", 
-  "ArtistBio": "American, born Germany. 1883\u20131972", 
-  "CreditLine": "Purchase Fund", 
+  "ArtistBio": "(American, born Germany. 1883\u20131972)", 
+  "DateAcquired": "1987-11-18", 
+  "\ufeffTitle": "Osram Azo", 
   "ObjectID": "7136"
 }

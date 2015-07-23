@@ -1,12 +1,11 @@
 {
   "Medium": "Illustrated book with twelve lithographs and supplementary suite of seven lithographs", 
-  "Dimensions": "page  17 11/16 x 7 7/8\" (45 x 20 cm)  Prints:  various dimensions.", 
+  "Dimensions": "page  17 11/16 x 7 7/8\" (45 x 20 cm)\r\nPrints:  various dimensions.", 
   "Classification": "Illustrated Book", 
   "Artist": "Sonia Delaunay-Terk", 
   "URL": "http://www.moma.org/collection/works/20040", 
   "CuratorApproved": "Y", 
-  "Title": "Le Coeur \u00e0 Gaz", 
-  "DateAcquired": "1978-10-17", 
+  "CreditLine": "Given anonymously", 
   "Date": "(1977)", 
   "ArtistID": 1480, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "661.1978.1-19", 
-  "ArtistBio": "French, born Ukraine. 1885\u20131979", 
-  "CreditLine": "Given anonymously", 
+  "ArtistBio": "(French, born Ukraine. 1885\u20131979)", 
+  "DateAcquired": "1978-10-17", 
+  "\ufeffTitle": "Le Coeur \u00e0 Gaz", 
   "ObjectID": "20040"
 }

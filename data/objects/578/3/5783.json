@@ -5,8 +5,7 @@
   "Artist": "Juan Antonio Morales", 
   "URL": "http://www.moma.org/collection/works/5783", 
   "CuratorApproved": "Y", 
-  "Title": "Arriba Espa\u00f1a, Los Nacionales", 
-  "DateAcquired": "1937-12-03", 
+  "CreditLine": "Purchase", 
   "Date": "1936", 
   "ArtistID": 8382, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "235.1937", 
-  "ArtistBio": "Spanish, 1909\u20131984", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(Spanish, 1909\u20131984)", 
+  "DateAcquired": "1937-12-03", 
+  "\ufeffTitle": "Arriba Espa\u00f1a, Los Nacionales", 
   "ObjectID": "5783"
 }

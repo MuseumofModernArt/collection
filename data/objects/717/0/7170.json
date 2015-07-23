@@ -5,8 +5,7 @@
   "Artist": "Shigeo Fukuda", 
   "URL": "http://www.moma.org/collection/works/7170", 
   "CuratorApproved": "Y", 
-  "Title": "No More", 
-  "DateAcquired": "1987-11-18", 
+  "CreditLine": "Gift of the designer", 
   "Date": "1968", 
   "ArtistID": 2026, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "475.1987", 
-  "ArtistBio": "Japanese, 1932\u20132009", 
-  "CreditLine": "Gift of the designer", 
+  "ArtistBio": "(Japanese, 1932\u20132009)", 
+  "DateAcquired": "1987-11-18", 
+  "\ufeffTitle": "No More", 
   "ObjectID": "7170"
 }

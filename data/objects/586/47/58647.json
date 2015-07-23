@@ -5,8 +5,7 @@
   "Artist": "The New York Times", 
   "URL": "http://www.moma.org/collection/works/58647", 
   "CuratorApproved": "Y", 
-  "Title": "Mayor La Guardia Takes Civil Defense Lessons", 
-  "DateAcquired": "2001-06-14", 
+  "CreditLine": "The New York Times Collection", 
   "Date": "April 6, 1942", 
   "Keywords": [
     "online art collection", 
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "2054.2001", 
-  "ArtistBio": "American, founded 1851", 
-  "CreditLine": "The New York Times Collection", 
+  "ArtistBio": "(American, founded 1851)", 
+  "DateAcquired": "2001-06-14", 
+  "\ufeffTitle": "\"Mayor La Guardia Takes Civil Defense Lessons\"", 
   "ObjectID": "58647"
 }

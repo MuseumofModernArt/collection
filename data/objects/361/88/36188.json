@@ -5,8 +5,7 @@
   "Artist": "Julio Gonz\u00e1lez", 
   "URL": "http://www.moma.org/collection/works/36188", 
   "CuratorApproved": "Y", 
-  "Title": "Head of Montserrat Crying, No. 1", 
-  "DateAcquired": "1980-01-15", 
+  "CreditLine": "Purchase", 
   "Date": "1938", 
   "ArtistID": 2231, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "309.1980", 
-  "ArtistBio": "Spanish, 1876\u20131942", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(Spanish, 1876\u20131942)", 
+  "DateAcquired": "1980-01-15", 
+  "\ufeffTitle": "Head of Montserrat Crying, No. 1", 
   "ObjectID": "36188"
 }

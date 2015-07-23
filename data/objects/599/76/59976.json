@@ -5,8 +5,7 @@
   "Artist": "Bill Jensen", 
   "URL": "http://www.moma.org/collection/works/59976", 
   "CuratorApproved": "Y", 
-  "Title": "Studio", 
-  "DateAcquired": "1985-01-30", 
+  "CreditLine": "Gift of Emily Fisher Landau", 
   "Date": "1983-84", 
   "ArtistID": 2907, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "15.1985", 
-  "ArtistBio": "American, born 1945", 
-  "CreditLine": "Gift of Emily Fisher Landau", 
+  "ArtistBio": "(American, born 1945)", 
+  "DateAcquired": "1985-01-30", 
+  "\ufeffTitle": "Studio", 
   "ObjectID": "59976"
 }

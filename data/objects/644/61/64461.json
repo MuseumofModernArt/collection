@@ -5,8 +5,7 @@
   "Artist": "Terry Winters", 
   "URL": "http://www.moma.org/collection/works/64461", 
   "CuratorApproved": "Y", 
-  "Title": "Title page from Folio", 
-  "DateAcquired": "1986-05-20", 
+  "CreditLine": "Gift of Emily Fisher Landau", 
   "Date": "1985-1986", 
   "ArtistID": 6408, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "210.1986.1", 
-  "ArtistBio": "American, born 1949", 
-  "CreditLine": "Gift of Emily Fisher Landau", 
+  "ArtistBio": "(American, born 1949)", 
+  "DateAcquired": "1986-05-20", 
+  "\ufeffTitle": "Title page from Folio", 
   "ObjectID": "64461"
 }

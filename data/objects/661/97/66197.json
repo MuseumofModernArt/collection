@@ -1,12 +1,11 @@
 {
   "Medium": "Etching", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
-  "Artist": "Fionnuala Boyd", 
+  "Artist": "Fionnuala Boyd, Leslie Evans", 
   "URL": "http://www.moma.org/collection/works/66197", 
   "CuratorApproved": "Y", 
-  "Title": "The Registering Angel", 
-  "DateAcquired": "1972-10-05", 
+  "CreditLine": "Derald and Janet Ruttenberg Foundation Fund", 
   "Date": "(1971)", 
   "ArtistID": 722, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "291.1972", 
-  "ArtistBio": "British, born 1944", 
-  "CreditLine": "Derald and Janet Ruttenberg Foundation Fund", 
+  "ArtistBio": "(British, born 1944) (British, born 1945)", 
+  "DateAcquired": "1972-10-05", 
+  "\ufeffTitle": "The Registering Angel", 
   "ObjectID": "66197"
 }

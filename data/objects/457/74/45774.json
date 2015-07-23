@@ -5,8 +5,7 @@
   "Artist": "Lotte Jacobi", 
   "URL": "http://www.moma.org/collection/works/45774", 
   "CuratorApproved": "Y", 
-  "Title": "Henri Barbusse", 
-  "DateAcquired": "1964-01-07", 
+  "CreditLine": "Gift of the photographer", 
   "Date": "1933", 
   "ArtistID": 2868, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "78.1964", 
-  "ArtistBio": "American, born Germany. 1896\u20131990", 
-  "CreditLine": "Gift of the photographer", 
+  "ArtistBio": "(American, born Germany. 1896\u20131990)", 
+  "DateAcquired": "1964-01-07", 
+  "\ufeffTitle": "Henri Barbusse", 
   "ObjectID": "45774"
 }

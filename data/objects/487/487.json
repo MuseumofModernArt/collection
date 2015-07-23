@@ -5,8 +5,7 @@
   "Artist": "Cesar Pelli", 
   "URL": "http://www.moma.org/collection/works/487", 
   "CuratorApproved": "Y", 
-  "Title": "House for Venice Biennale, project  Venice, Italy  Aerial view", 
-  "DateAcquired": "1996-09-25", 
+  "CreditLine": "Gift of the architect in honor of Philip Johnson", 
   "Date": "1976", 
   "ArtistID": 7528, 
   "Keywords": [
@@ -21,7 +20,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "388.1996", 
-  "ArtistBio": "American, born Argentina 1926", 
-  "CreditLine": "Gift of the architect in honor of Philip Johnson", 
+  "ArtistBio": "(American, born Argentina 1926)", 
+  "DateAcquired": "1996-09-25", 
+  "\ufeffTitle": "House for Venice Biennale, project, Venice, Italy, Aerial view", 
   "ObjectID": "487"
 }

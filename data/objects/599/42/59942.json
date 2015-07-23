@@ -5,8 +5,7 @@
   "Artist": "Sipke Huismans", 
   "URL": "http://www.moma.org/collection/works/59942", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1973-01-04", 
+  "CreditLine": "Gift of Mr. and Mrs. Wolfgang Schoenborn", 
   "Date": "1971", 
   "ArtistID": 2759, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "14.1973", 
-  "ArtistBio": "Dutch", 
-  "CreditLine": "Gift of Mr. and Mrs. Wolfgang Schoenborn", 
+  "ArtistBio": "(Dutch)", 
+  "DateAcquired": "1973-01-04", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "59942"
 }

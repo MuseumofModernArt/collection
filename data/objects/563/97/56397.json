@@ -5,8 +5,7 @@
   "Artist": "Aleksandr Rodchenko", 
   "URL": "http://www.moma.org/collection/works/56397", 
   "CuratorApproved": "Y", 
-  "Title": "Columns of the Museum of the Revolution", 
-  "DateAcquired": "1998-12-10", 
+  "CreditLine": "Gift of the Rodchenko family", 
   "Date": "1926", 
   "ArtistID": 4975, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "784.1998", 
-  "ArtistBio": "Russian, 1891\u20131956", 
-  "CreditLine": "Gift of the Rodchenko family", 
+  "ArtistBio": "(Russian, 1891\u20131956)", 
+  "DateAcquired": "1998-12-10", 
+  "\ufeffTitle": "Columns of the Museum of the Revolution", 
   "ObjectID": "56397"
 }

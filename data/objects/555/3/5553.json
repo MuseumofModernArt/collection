@@ -5,8 +5,7 @@
   "Artist": "Unknown Artist", 
   "URL": "http://www.moma.org/collection/works/5553", 
   "CuratorApproved": "Y", 
-  "Title": "The Third Reich!", 
-  "DateAcquired": "1968-03-07", 
+  "CreditLine": "Acquired by exchange", 
   "Date": "1930", 
   "ArtistID": 6026, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "180.1968", 
-  "ArtistBio": "Nationality Unknown", 
-  "CreditLine": "Acquired by exchange", 
+  "ArtistBio": "(Nationality Unknown)", 
+  "DateAcquired": "1968-03-07", 
+  "\ufeffTitle": "The Third Reich! (Das Dritte Reich!)", 
   "ObjectID": "5553"
 }

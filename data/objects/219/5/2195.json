@@ -5,8 +5,7 @@
   "Artist": "Les Broersma", 
   "URL": "http://www.moma.org/collection/works/2195", 
   "CuratorApproved": "Y", 
-  "Title": "Bicycle Helmet", 
-  "DateAcquired": "1992-01-15", 
+  "CreditLine": "Gift of the manufacturer", 
   "Date": "1985", 
   "ArtistID": 6959, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "118.1992", 
-  "ArtistBio": "American", 
-  "CreditLine": "Gift of the manufacturer", 
+  "ArtistBio": "(American)", 
+  "DateAcquired": "1992-01-15", 
+  "\ufeffTitle": "Bicycle Helmet", 
   "ObjectID": "2195"
 }

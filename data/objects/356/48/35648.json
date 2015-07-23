@@ -5,8 +5,7 @@
   "Artist": "Robert Delaunay", 
   "URL": "http://www.moma.org/collection/works/35648", 
   "CuratorApproved": "Y", 
-  "Title": "Disks", 
-  "DateAcquired": "1957-12-04", 
+  "CreditLine": "Gift of Judge and Mrs. Henry Epstein", 
   "Date": "(1930-33)", 
   "ArtistID": 1479, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "256.1957", 
-  "ArtistBio": "French, 1885\u20131941", 
-  "CreditLine": "Gift of Judge and Mrs. Henry Epstein", 
+  "ArtistBio": "(French, 1885\u20131941)", 
+  "DateAcquired": "1957-12-04", 
+  "\ufeffTitle": "Disks", 
   "ObjectID": "35648"
 }

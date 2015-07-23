@@ -5,8 +5,7 @@
   "Artist": "Gino Colombini", 
   "URL": "http://www.moma.org/collection/works/2590", 
   "CuratorApproved": "Y", 
-  "Title": "Carpet Beater (model KS 1475)", 
-  "DateAcquired": "1958-12-04", 
+  "CreditLine": "Gift of the manufacturer", 
   "Date": "1957", 
   "ArtistID": 1194, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "197.1958", 
-  "ArtistBio": "Italian, born 1915", 
-  "CreditLine": "Gift of the manufacturer", 
+  "ArtistBio": "(Italian, born 1915)", 
+  "DateAcquired": "1958-12-04", 
+  "\ufeffTitle": "Carpet Beater (model KS 1475)", 
   "ObjectID": "2590"
 }

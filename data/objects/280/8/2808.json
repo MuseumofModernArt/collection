@@ -1,12 +1,11 @@
 {
   "Medium": "Steel-colored crystal", 
-  "Dimensions": ".1 (wine tumbler): 3 x 2 3/4\" (7.6 x 7 cm)  .2 (liqueur tumbler): 2 x 2\" (5.1 x 5.1 cm)  .3 (sherry tumbler): 2 3/4 x 2 1/2\" (7 x 6.4 cm)  .4 (highball tumbler): 4 3/8 x 2 5/8\" (11.1 x 6.7 cm)", 
+  "Dimensions": ".1 (wine tumbler): 3 x 2 3/4\" (7.6 x 7 cm)\r\n.2 (liqueur tumbler): 2 x 2\" (5.1 x 5.1 cm)\r\n.3 (sherry tumbler): 2 3/4 x 2 1/2\" (7 x 6.4 cm)\r\n.4 (highball tumbler): 4 3/8 x 2 5/8\" (11.1 x 6.7 cm)", 
   "Classification": "A&D Design", 
   "Artist": "Giuseppe Nason", 
   "URL": "http://www.moma.org/collection/works/2808", 
   "CuratorApproved": "Y", 
-  "Title": "Tumblers", 
-  "DateAcquired": "1953-04-07", 
+  "CreditLine": "Gift of Fraser's", 
   "Date": "1945", 
   "ArtistID": 4232, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "224.1953.1-4", 
-  "ArtistBio": "Italian", 
-  "CreditLine": "Gift of Fraser's", 
+  "ArtistBio": "(Italian)", 
+  "DateAcquired": "1953-04-07", 
+  "\ufeffTitle": "Tumblers", 
   "ObjectID": "2808"
 }

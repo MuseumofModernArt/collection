@@ -5,8 +5,7 @@
   "Artist": "Herbert Matter", 
   "URL": "http://www.moma.org/collection/works/7549", 
   "CuratorApproved": "Y", 
-  "Title": "Die Schweiz im Schnee", 
-  "DateAcquired": "1977-11-28", 
+  "CreditLine": "Jan Tschichold Collection, Gift of Philip Johnson", 
   "Date": "c. 1935", 
   "ArtistID": 3843, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "565.1977", 
-  "ArtistBio": "American, born Switzerland. 1907\u20131984", 
-  "CreditLine": "Jan Tschichold Collection, Gift of Philip Johnson", 
+  "ArtistBio": "(American, born Switzerland. 1907\u20131984)", 
+  "DateAcquired": "1977-11-28", 
+  "\ufeffTitle": "Die Schweiz im Schnee", 
   "ObjectID": "7549"
 }

@@ -5,8 +5,7 @@
   "Artist": "Robert Rauschenberg", 
   "URL": "http://www.moma.org/collection/works/60117", 
   "CuratorApproved": "Y", 
-  "Title": "Kitty Hawk", 
-  "DateAcquired": "1975-01-07", 
+  "CreditLine": "Gift of Celeste Bartos", 
   "Date": "1974", 
   "ArtistID": 4823, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "20.1975", 
-  "ArtistBio": "American, 1925\u20132008", 
-  "CreditLine": "Gift of Celeste Bartos", 
+  "ArtistBio": "(American, 1925\u20132008)", 
+  "DateAcquired": "1975-01-07", 
+  "\ufeffTitle": "Kitty Hawk", 
   "ObjectID": "60117"
 }

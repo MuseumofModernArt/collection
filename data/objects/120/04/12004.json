@@ -5,8 +5,7 @@
   "Artist": "Odilon Redon", 
   "URL": "http://www.moma.org/collection/works/12004", 
   "CuratorApproved": "Y", 
-  "Title": "The Chimeras", 
-  "DateAcquired": "2000-03-02", 
+  "CreditLine": "Gift of The Ian Woodner Family Collection", 
   "Date": "1889", 
   "ArtistID": 4840, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "151.2000", 
-  "ArtistBio": "French, 1840\u20131916", 
-  "CreditLine": "Gift of The Ian Woodner Family Collection", 
+  "ArtistBio": "(French, 1840\u20131916)", 
+  "DateAcquired": "2000-03-02", 
+  "\ufeffTitle": "The Chimeras", 
   "ObjectID": "12004"
 }

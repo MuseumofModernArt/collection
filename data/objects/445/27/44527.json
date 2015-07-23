@@ -5,8 +5,7 @@
   "Artist": "Unknown photographer", 
   "URL": "http://www.moma.org/collection/works/44527", 
   "CuratorApproved": "Y", 
-  "Title": "Monaco - Bataille de Fleurs", 
-  "DateAcquired": "1963-01-08", 
+  "CreditLine": "Gift of Jacques Henri Lartigue", 
   "Date": "1910", 
   "ArtistID": 6028, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "41.1963", 
-  "ArtistBio": "NULL", 
-  "CreditLine": "Gift of Jacques Henri Lartigue", 
+  "ArtistBio": "", 
+  "DateAcquired": "1963-01-08", 
+  "\ufeffTitle": "Monaco - Bataille de Fleurs", 
   "ObjectID": "44527"
 }

@@ -1,12 +1,11 @@
 {
   "Medium": "Acid-etched glass", 
-  "Dimensions": ".1-.3: 4 1/8 x 3 1/4\" (10.5 x 8.3 cm)  .4-.6: 5 5/8 x 2 3/4\" (14.3 x 7 cm)", 
+  "Dimensions": ".1-.3: 4 1/8 x 3 1/4\" (10.5 x 8.3 cm)\r\n.4-.6: 5 5/8 x 2 3/4\" (14.3 x 7 cm)", 
   "Classification": "A&D Design", 
   "Artist": "John Timothy Curran", 
   "URL": "http://www.moma.org/collection/works/3259", 
   "CuratorApproved": "Y", 
-  "Title": "Tumblers", 
-  "DateAcquired": "1977-06-01", 
+  "CreditLine": "Friends of the Department Fund", 
   "Date": "1975", 
   "ArtistID": 1334, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "309.1977.1-6", 
-  "ArtistBio": "American, born 1938", 
-  "CreditLine": "Friends of the Department Fund", 
+  "ArtistBio": "(American, born 1938)", 
+  "DateAcquired": "1977-06-01", 
+  "\ufeffTitle": "Tumblers", 
   "ObjectID": "3259"
 }

@@ -5,8 +5,7 @@
   "Artist": "Lovis Corinth", 
   "URL": "http://www.moma.org/collection/works/67058", 
   "CuratorApproved": "Y", 
-  "Title": "Von Hindenburg", 
-  "DateAcquired": "1956-10-25", 
+  "CreditLine": "Gift of J.B. Neumann", 
   "Date": "(n.d.)", 
   "ArtistID": 1243, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "330.1956", 
-  "ArtistBio": "German, 1858\u20131925", 
-  "CreditLine": "Gift of J.B. Neumann", 
+  "ArtistBio": "(German, 1858\u20131925)", 
+  "DateAcquired": "1956-10-25", 
+  "\ufeffTitle": "Von Hindenburg", 
   "ObjectID": "67058"
 }

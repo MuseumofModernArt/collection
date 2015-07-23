@@ -5,8 +5,7 @@
   "Artist": "Max Beckmann", 
   "URL": "http://www.moma.org/collection/works/66678", 
   "CuratorApproved": "Y", 
-  "Title": "Kahlbaum", 
-  "DateAcquired": "1948-10-06", 
+  "CreditLine": "Gift of Victor S. Riesenfeld", 
   "Date": "(1919, published 1920, dated 1921)", 
   "ArtistID": 429, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "312.1948", 
-  "ArtistBio": "German, 1884\u20131950", 
-  "CreditLine": "Gift of Victor S. Riesenfeld", 
+  "ArtistBio": "(German, 1884\u20131950)", 
+  "DateAcquired": "1948-10-06", 
+  "\ufeffTitle": "Kahlbaum", 
   "ObjectID": "66678"
 }

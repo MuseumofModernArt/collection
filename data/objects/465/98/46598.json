@@ -5,8 +5,7 @@
   "Artist": "Aaron Siskind", 
   "URL": "http://www.moma.org/collection/works/46598", 
   "CuratorApproved": "Y", 
-  "Title": "Facades", 
-  "DateAcquired": "1985-03-27", 
+  "CreditLine": "Gift of Ms. Sophie Black", 
   "Date": "1938", 
   "ArtistID": 5456, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "120.1985.17", 
-  "ArtistBio": "American, 1903\u20131991", 
-  "CreditLine": "Gift of Ms. Sophie Black", 
+  "ArtistBio": "(American, 1903\u20131991)", 
+  "DateAcquired": "1985-03-27", 
+  "\ufeffTitle": "Facades", 
   "ObjectID": "46598"
 }

@@ -5,8 +5,7 @@
   "Artist": "Franz Peffer", 
   "URL": "http://www.moma.org/collection/works/7836", 
   "CuratorApproved": "Y", 
-  "Title": "Poster for Hamlet", 
-  "DateAcquired": "1981-12-10", 
+  "CreditLine": "Acquired by exchange", 
   "Date": "1920", 
   "ArtistID": 4540, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "643.1981", 
-  "ArtistBio": "German, 1887\u20131937", 
-  "CreditLine": "Acquired by exchange", 
+  "ArtistBio": "(German, 1887\u20131937)", 
+  "DateAcquired": "1981-12-10", 
+  "\ufeffTitle": "Poster for Hamlet", 
   "ObjectID": "7836"
 }

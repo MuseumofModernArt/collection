@@ -5,8 +5,7 @@
   "Artist": "Gundula Schulze-Eldowy", 
   "URL": "http://www.moma.org/collection/works/52272", 
   "CuratorApproved": "Y", 
-  "Title": "Dresden", 
-  "DateAcquired": "1990-10-11", 
+  "CreditLine": "The Family of Man Fund", 
   "Date": "1989", 
   "ArtistID": 6992, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "384.1990.x1-x2", 
-  "ArtistBio": "German, born 1954", 
-  "CreditLine": "The Family of Man Fund", 
+  "ArtistBio": "(German, born 1954)", 
+  "DateAcquired": "1990-10-11", 
+  "\ufeffTitle": "Dresden", 
   "ObjectID": "52272"
 }

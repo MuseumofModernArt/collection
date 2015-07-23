@@ -5,8 +5,7 @@
   "Artist": "Marianne Brandt", 
   "URL": "http://www.moma.org/collection/works/2453", 
   "CuratorApproved": "Y", 
-  "Title": "Fruit Bowl", 
-  "DateAcquired": "1958-12-04", 
+  "CreditLine": "Gift of Howard Dearstyne", 
   "Date": "1929", 
   "ArtistID": 741, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "189.1958", 
-  "ArtistBio": "German, 1893\u20131983", 
-  "CreditLine": "Gift of Howard Dearstyne", 
+  "ArtistBio": "(German, 1893\u20131983)", 
+  "DateAcquired": "1958-12-04", 
+  "\ufeffTitle": "Fruit Bowl", 
   "ObjectID": "2453"
 }

@@ -5,8 +5,7 @@
   "Artist": "Raymond Pettibon", 
   "URL": "http://www.moma.org/collection/works/33792", 
   "CuratorApproved": "Y", 
-  "Title": "No Title (In my youth)", 
-  "DateAcquired": "1996-03-14", 
+  "CreditLine": "Gift of the Friends of Contemporary Drawing", 
   "Date": "1994", 
   "ArtistID": 7500, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "88.1996.11", 
-  "ArtistBio": "American, born 1957", 
-  "CreditLine": "Gift of the Friends of Contemporary Drawing", 
+  "ArtistBio": "(American, born 1957)", 
+  "DateAcquired": "1996-03-14", 
+  "\ufeffTitle": "No Title (In my youth)", 
   "ObjectID": "33792"
 }

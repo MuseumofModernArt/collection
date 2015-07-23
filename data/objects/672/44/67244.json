@@ -5,8 +5,7 @@
   "Artist": "L\u00e1szl\u00f3 Moholy-Nagy", 
   "URL": "http://www.moma.org/collection/works/67244", 
   "CuratorApproved": "Y", 
-  "Title": "Composition", 
-  "DateAcquired": "1980-02-25", 
+  "CreditLine": "Purchase", 
   "Date": "(ca. 1923)", 
   "ArtistID": 4048, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "340.1980", 
-  "ArtistBio": "American, born Hungary. 1895\u20131946", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, born Hungary. 1895\u20131946)", 
+  "DateAcquired": "1980-02-25", 
+  "\ufeffTitle": "Composition", 
   "ObjectID": "67244"
 }

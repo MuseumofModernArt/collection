@@ -5,8 +5,7 @@
   "Artist": "William Fenton", 
   "URL": "http://www.moma.org/collection/works/6322", 
   "CuratorApproved": "Y", 
-  "Title": "Your New Met", 
-  "DateAcquired": "1961-11-08", 
+  "CreditLine": "Gift of the London Passenger Transport Board", 
   "Date": "c. 1960", 
   "ArtistID": 1848, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "333.1961", 
-  "ArtistBio": "British", 
-  "CreditLine": "Gift of the London Passenger Transport Board", 
+  "ArtistBio": "(British)", 
+  "DateAcquired": "1961-11-08", 
+  "\ufeffTitle": "Your New Met", 
   "ObjectID": "6322"
 }

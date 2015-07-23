@@ -5,8 +5,7 @@
   "Artist": "Paul Colin", 
   "URL": "http://www.moma.org/collection/works/5400", 
   "CuratorApproved": "Y", 
-  "Title": "1935 Peugeot", 
-  "DateAcquired": "1950-04-24", 
+  "CreditLine": "Gift of Bernard Davis", 
   "Date": "1935", 
   "ArtistID": 1185, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "161.1950", 
-  "ArtistBio": "French, 1892\u20131985", 
-  "CreditLine": "Gift of Bernard Davis", 
+  "ArtistBio": "(French, 1892\u20131985)", 
+  "DateAcquired": "1950-04-24", 
+  "\ufeffTitle": "1935 Peugeot", 
   "ObjectID": "5400"
 }

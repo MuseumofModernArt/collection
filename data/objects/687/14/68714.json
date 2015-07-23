@@ -5,8 +5,7 @@
   "Artist": "Alex Katz", 
   "URL": "http://www.moma.org/collection/works/68714", 
   "CuratorApproved": "Y", 
-  "Title": "Vincent from Prints for Phoenix House", 
-  "DateAcquired": "1977-11-10", 
+  "CreditLine": "Gift of Brooke and Carolyn Alexander", 
   "Date": "1972", 
   "ArtistID": 3016, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "415.1977.7", 
-  "ArtistBio": "American, born 1927", 
-  "CreditLine": "Gift of Brooke and Carolyn Alexander", 
+  "ArtistBio": "(American, born 1927)", 
+  "DateAcquired": "1977-11-10", 
+  "\ufeffTitle": "Vincent from Prints for Phoenix House", 
   "ObjectID": "68714"
 }

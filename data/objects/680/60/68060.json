@@ -1,12 +1,11 @@
 {
   "Medium": "Lithograph", 
-  "Dimensions": "composition  51 3/4 x 36 1/8\" (131.5 x 91.7 cm)  sheet  51 3/4 x 36 1/8\" (131 x 91.7 cm)", 
+  "Dimensions": "composition  51 3/4 x 36 1/8\" (131.5 x 91.7 cm)\r\nsheet  51 3/4 x 36 1/8\" (131 x 91.7 cm)", 
   "Classification": "Print", 
   "Artist": "Jasper Johns", 
   "URL": "http://www.moma.org/collection/works/68060", 
   "CuratorApproved": "Y", 
-  "Title": "Land's End", 
-  "DateAcquired": "1987-10-20", 
+  "CreditLine": "The Associates Fund", 
   "Date": "1979", 
   "ArtistID": 2923, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "377.1987", 
-  "ArtistBio": "American, born 1930", 
-  "CreditLine": "The Associates Fund", 
+  "ArtistBio": "(American, born 1930)", 
+  "DateAcquired": "1987-10-20", 
+  "\ufeffTitle": "Land's End", 
   "ObjectID": "68060"
 }

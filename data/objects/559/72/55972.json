@@ -5,8 +5,7 @@
   "Artist": "Henry Dixon", 
   "URL": "http://www.moma.org/collection/works/55972", 
   "CuratorApproved": "Y", 
-  "Title": "London", 
-  "DateAcquired": "1978-10-12", 
+  "CreditLine": "John Parkinson III Fund", 
   "Date": "c. 1875", 
   "ArtistID": 1560, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "673.1978", 
-  "ArtistBio": "British, 1820\u20131893", 
-  "CreditLine": "John Parkinson III Fund", 
+  "ArtistBio": "(British, 1820\u20131893)", 
+  "DateAcquired": "1978-10-12", 
+  "\ufeffTitle": "London", 
   "ObjectID": "55972"
 }

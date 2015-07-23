@@ -5,8 +5,7 @@
   "Artist": "Horace Brodzky", 
   "URL": "http://www.moma.org/collection/works/35762", 
   "CuratorApproved": "Y", 
-  "Title": "Study for the painting The Family", 
-  "DateAcquired": "1978-04-04", 
+  "CreditLine": "Gift in honor of Myron Orlofsky", 
   "Date": "July 1928", 
   "ArtistID": 792, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "265.1978", 
-  "ArtistBio": "American, 1885\u20131969", 
-  "CreditLine": "Gift in honor of Myron Orlofsky", 
+  "ArtistBio": "(American, 1885\u20131969)", 
+  "DateAcquired": "1978-04-04", 
+  "\ufeffTitle": "Study for the painting The Family", 
   "ObjectID": "35762"
 }

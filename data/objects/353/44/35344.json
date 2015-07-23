@@ -5,8 +5,7 @@
   "Artist": "Gerhard Richter", 
   "URL": "http://www.moma.org/collection/works/35344", 
   "CuratorApproved": "Y", 
-  "Title": "(1) 20.12.85", 
-  "DateAcquired": "1988-05-05", 
+  "CreditLine": "Purchase", 
   "Date": "1985", 
   "ArtistID": 4907, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "218.1988", 
-  "ArtistBio": "German, born 1932", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(German, born 1932)", 
+  "DateAcquired": "1988-05-05", 
+  "\ufeffTitle": "(1) 20.12.85", 
   "ObjectID": "35344"
 }

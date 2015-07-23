@@ -5,8 +5,7 @@
   "Artist": "A. G. Fronzoni", 
   "URL": "http://www.moma.org/collection/works/8769", 
   "CuratorApproved": "Y", 
-  "Title": "La Biennale di Venezia", 
-  "DateAcquired": "2000-12-11", 
+  "CreditLine": "Gift of the designer", 
   "Date": "1969", 
   "ArtistID": 2017, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "1470.2000", 
-  "ArtistBio": "Italian, 1923\u20132002", 
-  "CreditLine": "Gift of the designer", 
+  "ArtistBio": "(Italian, 1923\u20132002)", 
+  "DateAcquired": "2000-12-11", 
+  "\ufeffTitle": "La Biennale di Venezia", 
   "ObjectID": "8769"
 }

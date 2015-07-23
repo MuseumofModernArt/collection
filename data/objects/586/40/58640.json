@@ -5,8 +5,7 @@
   "Artist": "Larry C. Morris/The New York Times", 
   "URL": "http://www.moma.org/collection/works/58640", 
   "CuratorApproved": "Y", 
-  "Title": "Knicks-Lakers at Garden", 
-  "DateAcquired": "2001-06-14", 
+  "CreditLine": "The New York Times Collection", 
   "Date": "May 8, 1973", 
   "ArtistID": 8581, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "2047.2001", 
-  "ArtistBio": "American, 1924\u20131987", 
-  "CreditLine": "The New York Times Collection", 
+  "ArtistBio": "(American, 1924\u20131987)", 
+  "DateAcquired": "2001-06-14", 
+  "\ufeffTitle": "Knicks-Lakers at Garden", 
   "ObjectID": "58640"
 }

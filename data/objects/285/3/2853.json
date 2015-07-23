@@ -5,8 +5,7 @@
   "Artist": "Vera Liskov\u00e1", 
   "URL": "http://www.moma.org/collection/works/2853", 
   "CuratorApproved": "Y", 
-  "Title": "Bowl", 
-  "DateAcquired": "1953-04-07", 
+  "CreditLine": "Gift of A. J. Van Dugteren & Sons, Inc.", 
   "Date": "c. 1946", 
   "ArtistID": 3568, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "229.1953", 
-  "ArtistBio": "Czech, 1924\u20131979", 
-  "CreditLine": "Gift of A. J. Van Dugteren & Sons, Inc.", 
+  "ArtistBio": "(Czech, 1924\u20131979)", 
+  "DateAcquired": "1953-04-07", 
+  "\ufeffTitle": "Bowl", 
   "ObjectID": "2853"
 }

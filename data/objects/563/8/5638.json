@@ -5,8 +5,7 @@
   "Artist": "Peter Max", 
   "URL": "http://www.moma.org/collection/works/5638", 
   "CuratorApproved": "Y", 
-  "Title": "Psychedelic Cloud", 
-  "DateAcquired": "1968-03-07", 
+  "CreditLine": "Gift of Joseph H. Heil", 
   "Date": "1967", 
   "ArtistID": 3859, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "195.1968", 
-  "ArtistBio": "American, born Germany 1937", 
-  "CreditLine": "Gift of Joseph H. Heil", 
+  "ArtistBio": "(American, born Germany 1937)", 
+  "DateAcquired": "1968-03-07", 
+  "\ufeffTitle": "Psychedelic Cloud", 
   "ObjectID": "5638"
 }

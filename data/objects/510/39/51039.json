@@ -5,8 +5,7 @@
   "Artist": "Thomas Struth", 
   "URL": "http://www.moma.org/collection/works/51039", 
   "CuratorApproved": "Y", 
-  "Title": "Avenue du Devin du Village, Geneva (Avenue du Devin du Village, Genf)", 
-  "DateAcquired": "1996-06-13", 
+  "CreditLine": "Gift of Werner and Elaine Dannheisser", 
   "Date": "1989", 
   "ArtistID": 7825, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "333.1996", 
-  "ArtistBio": "German, born 1954", 
-  "CreditLine": "Gift of Werner and Elaine Dannheisser", 
+  "ArtistBio": "(German, born 1954)", 
+  "DateAcquired": "1996-06-13", 
+  "\ufeffTitle": "Avenue du Devin du Village, Geneva (Avenue du Devin du Village, Genf)", 
   "ObjectID": "51039"
 }

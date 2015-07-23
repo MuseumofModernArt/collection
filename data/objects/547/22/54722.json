@@ -5,8 +5,7 @@
   "Artist": "Minor White", 
   "URL": "http://www.moma.org/collection/works/54722", 
   "CuratorApproved": "Y", 
-  "Title": "Sandstone Lobos, \"Returning Wave\"", 
-  "DateAcquired": "1960-11-30", 
+  "CreditLine": "Courtesy of the photographer", 
   "Date": "1950", 
   "ArtistID": 6342, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "527.1960", 
-  "ArtistBio": "American, 1908\u20131976", 
-  "CreditLine": "Courtesy of the photographer", 
+  "ArtistBio": "(American, 1908\u20131976)", 
+  "DateAcquired": "1960-11-30", 
+  "\ufeffTitle": "Sandstone Lobos, \"Returning Wave\"", 
   "ObjectID": "54722"
 }

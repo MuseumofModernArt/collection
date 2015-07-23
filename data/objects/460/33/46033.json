@@ -5,8 +5,7 @@
   "Artist": "Robert Macpherson", 
   "URL": "http://www.moma.org/collection/works/46033", 
   "CuratorApproved": "Y", 
-  "Title": "Ruin of Temple of Minerva Medica, Rome", 
-  "DateAcquired": "1986-01-15", 
+  "CreditLine": "Gift of John C. Waddell", 
   "Date": "c. 1860", 
   "ArtistID": 3676, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "89.1986", 
-  "ArtistBio": "British, 1811\u20131872", 
-  "CreditLine": "Gift of John C. Waddell", 
+  "ArtistBio": "(British, 1811\u20131872)", 
+  "DateAcquired": "1986-01-15", 
+  "\ufeffTitle": "Ruin of Temple of Minerva Medica, Rome", 
   "ObjectID": "46033"
 }

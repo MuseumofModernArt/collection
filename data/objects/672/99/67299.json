@@ -5,8 +5,7 @@
   "Artist": "Emil Nolde", 
   "URL": "http://www.moma.org/collection/works/67299", 
   "CuratorApproved": "Y", 
-  "Title": "Mrs. A.S.", 
-  "DateAcquired": "1941-01-16", 
+  "CreditLine": "Purchase", 
   "Date": "(1913)", 
   "ArtistID": 4327, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "343.1941", 
-  "ArtistBio": "German, 1867\u20131956", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(German, 1867\u20131956)", 
+  "DateAcquired": "1941-01-16", 
+  "\ufeffTitle": "Mrs. A.S. (Frau A.S.)", 
   "ObjectID": "67299"
 }

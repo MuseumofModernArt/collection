@@ -5,8 +5,7 @@
   "Artist": "Charles Marville", 
   "URL": "http://www.moma.org/collection/works/53359", 
   "CuratorApproved": "Y", 
-  "Title": "Figures, South Portal, Chartres Cathedral", 
-  "DateAcquired": "1988-12-15", 
+  "CreditLine": "Gift of Arthur M. Bullowa", 
   "Date": "1854", 
   "ArtistID": 3810, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "436.1988", 
-  "ArtistBio": "French, 1816\u20131879", 
-  "CreditLine": "Gift of Arthur M. Bullowa", 
+  "ArtistBio": "(French, 1816\u20131879)", 
+  "DateAcquired": "1988-12-15", 
+  "\ufeffTitle": "Figures, South Portal, Chartres Cathedral", 
   "ObjectID": "53359"
 }

@@ -5,8 +5,7 @@
   "Artist": "Daum Fr\u00e8res, Nancy, France", 
   "URL": "http://www.moma.org/collection/works/4379", 
   "CuratorApproved": "Y", 
-  "Title": "Vase", 
-  "DateAcquired": "1959-12-30", 
+  "CreditLine": "Philip Johnson Fund", 
   "Date": "c. 1900", 
   "Keywords": [
     "online art collection", 
@@ -19,7 +18,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "707.1959", 
-  "ArtistBio": "French, established 1875", 
-  "CreditLine": "Philip Johnson Fund", 
+  "ArtistBio": "(French, established 1875)", 
+  "DateAcquired": "1959-12-30", 
+  "\ufeffTitle": "Vase", 
   "ObjectID": "4379"
 }

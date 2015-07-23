@@ -5,8 +5,7 @@
   "Artist": "Lovis Corinth", 
   "URL": "http://www.moma.org/collection/works/66874", 
   "CuratorApproved": "Y", 
-  "Title": "Mountain Stream", 
-  "DateAcquired": "1954-09-30", 
+  "CreditLine": "Gift of Samuel A. Berger", 
   "Date": "(1924)", 
   "ArtistID": 1243, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "320.1954", 
-  "ArtistBio": "German, 1858\u20131925", 
-  "CreditLine": "Gift of Samuel A. Berger", 
+  "ArtistBio": "(German, 1858\u20131925)", 
+  "DateAcquired": "1954-09-30", 
+  "\ufeffTitle": "Mountain Stream (Wildbach) from the portfolio Swiss Landscapes (Schweizer Landschaften)", 
   "ObjectID": "66874"
 }

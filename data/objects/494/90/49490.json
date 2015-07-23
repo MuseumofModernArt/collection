@@ -5,8 +5,7 @@
   "Artist": "Aaron Siskind", 
   "URL": "http://www.moma.org/collection/works/49490", 
   "CuratorApproved": "Y", 
-  "Title": "Chicago", 
-  "DateAcquired": "1964-03-10", 
+  "CreditLine": "Gift of Edwin A. Bergman", 
   "Date": "1952", 
   "ArtistID": 5456, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "247.1964", 
-  "ArtistBio": "American, 1903\u20131991", 
-  "CreditLine": "Gift of Edwin A. Bergman", 
+  "ArtistBio": "(American, 1903\u20131991)", 
+  "DateAcquired": "1964-03-10", 
+  "\ufeffTitle": "Chicago", 
   "ObjectID": "49490"
 }

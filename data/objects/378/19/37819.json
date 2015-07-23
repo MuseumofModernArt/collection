@@ -5,8 +5,7 @@
   "Artist": "Paul Klee", 
   "URL": "http://www.moma.org/collection/works/37819", 
   "CuratorApproved": "Y", 
-  "Title": "Physiognomy of a Dream", 
-  "DateAcquired": "1977-02-02", 
+  "CreditLine": "Gift of Mr. and Mrs. Daniel Saidenberg", 
   "Date": "1924", 
   "ArtistID": 3130, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "704.1976", 
-  "ArtistBio": "German, born Switzerland. 1879\u20131940", 
-  "CreditLine": "Gift of Mr. and Mrs. Daniel Saidenberg", 
+  "ArtistBio": "(German, born Switzerland. 1879\u20131940)", 
+  "DateAcquired": "1977-02-02", 
+  "\ufeffTitle": "Physiognomy of a Dream ((Physiognomie eines Traumes))", 
   "ObjectID": "37819"
 }

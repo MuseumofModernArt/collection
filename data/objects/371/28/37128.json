@@ -5,8 +5,7 @@
   "Artist": "Jim Dine", 
   "URL": "http://www.moma.org/collection/works/37128", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled (Dry Wall Hammer) from Untitled Tool Series", 
-  "DateAcquired": "1976-10-28", 
+  "CreditLine": "Gift of the Robert Lehman Foundation, Inc.", 
   "Date": "1973", 
   "ArtistID": 1547, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "484.1976.4", 
-  "ArtistBio": "American, born 1935", 
-  "CreditLine": "Gift of the Robert Lehman Foundation, Inc.", 
+  "ArtistBio": "(American, born 1935)", 
+  "DateAcquired": "1976-10-28", 
+  "\ufeffTitle": "Untitled (Dry Wall Hammer) from Untitled Tool Series", 
   "ObjectID": "37128"
 }

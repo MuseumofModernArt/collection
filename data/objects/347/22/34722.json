@@ -5,8 +5,7 @@
   "Artist": "Robert Morris", 
   "URL": "http://www.moma.org/collection/works/34722", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1973-03-06", 
+  "CreditLine": "Acquired with matching funds from The Walter Foundation and the National Endowment for the Arts", 
   "Date": "1969", 
   "ArtistID": 4108, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "144.1973", 
-  "ArtistBio": "American, born 1931", 
-  "CreditLine": "Acquired with matching funds from The Walter Foundation and the National Endowment for the Arts", 
+  "ArtistBio": "(American, born 1931)", 
+  "DateAcquired": "1973-03-06", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "34722"
 }

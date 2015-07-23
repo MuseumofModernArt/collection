@@ -5,8 +5,7 @@
   "Artist": "Francis Picabia", 
   "URL": "http://www.moma.org/collection/works/38301", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1985-09-10", 
+  "CreditLine": "The Riklis Collection of McCrory Corporation", 
   "Date": "1917", 
   "ArtistID": 4607, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "937.1983", 
-  "ArtistBio": "French, 1879\u20131953", 
-  "CreditLine": "The Riklis Collection of McCrory Corporation", 
+  "ArtistBio": "(French, 1879\u20131953)", 
+  "DateAcquired": "1985-09-10", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "38301"
 }

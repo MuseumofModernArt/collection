@@ -5,8 +5,7 @@
   "Artist": "Edvard Munch", 
   "URL": "http://www.moma.org/collection/works/62017", 
   "CuratorApproved": "Y", 
-  "Title": "Madonna", 
-  "DateAcquired": "1956-03-19", 
+  "CreditLine": "The William B. Jaffe and Evelyn A.J. Hall Collection", 
   "Date": "1895\u20131902", 
   "ArtistID": 4164, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "114.1956", 
-  "ArtistBio": "Norwegian, 1863\u20131944", 
-  "CreditLine": "The William B. Jaffe and Evelyn A.J. Hall Collection", 
+  "ArtistBio": "(Norwegian, 1863\u20131944)", 
+  "DateAcquired": "1956-03-19", 
+  "\ufeffTitle": "Madonna", 
   "ObjectID": "62017"
 }

@@ -5,8 +5,7 @@
   "Artist": "Adja Yunkers", 
   "URL": "http://www.moma.org/collection/works/61251", 
   "CuratorApproved": "Y", 
-  "Title": "Blue Children", 
-  "DateAcquired": "1984-02-01", 
+  "CreditLine": "Bequest to Sir Randal Heymanson by the late Margareta Akermark and donated by him to The Museum of Modern Art", 
   "Date": "1942", 
   "ArtistID": 6526, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "70.1984", 
-  "ArtistBio": "American, born Latvia. 1900\u20131983", 
-  "CreditLine": "Bequest to Sir Randal Heymanson by the late Margareta Akermark and donated by him to The Museum of Modern Art", 
+  "ArtistBio": "(American, born Latvia. 1900\u20131983)", 
+  "DateAcquired": "1984-02-01", 
+  "\ufeffTitle": "Blue Children", 
   "ObjectID": "61251"
 }

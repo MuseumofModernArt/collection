@@ -5,8 +5,7 @@
   "Artist": "Eero Saarinen", 
   "URL": "http://www.moma.org/collection/works/2565", 
   "CuratorApproved": "Y", 
-  "Title": "Tulip Armchair (model 150)", 
-  "DateAcquired": "1958-12-04", 
+  "CreditLine": "Gift of the manufacturer", 
   "Date": "1955-56", 
   "ArtistID": 5103, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "149.1958", 
-  "ArtistBio": "American, born Finland. 1910\u20131961", 
-  "CreditLine": "Gift of the manufacturer", 
+  "ArtistBio": "(American, born Finland. 1910\u20131961)", 
+  "DateAcquired": "1958-12-04", 
+  "\ufeffTitle": "Tulip Armchair (model 150)", 
   "ObjectID": "2565"
 }

@@ -5,8 +5,7 @@
   "Artist": "David Octavius Hill", 
   "URL": "http://www.moma.org/collection/works/55971", 
   "CuratorApproved": "Y", 
-  "Title": "Col. Burns, Son of the Poet", 
-  "DateAcquired": "1976-12-08", 
+  "CreditLine": "Gift of Warner Communications, Inc.", 
   "Date": "1843-48", 
   "ArtistID": 2648, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "673.1976", 
-  "ArtistBio": "British, 1802\u20131870", 
-  "CreditLine": "Gift of Warner Communications, Inc.", 
+  "ArtistBio": "(British, 1802\u20131870)", 
+  "DateAcquired": "1976-12-08", 
+  "\ufeffTitle": "Col. Burns, Son of the Poet", 
   "ObjectID": "55971"
 }

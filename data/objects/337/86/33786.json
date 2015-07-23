@@ -5,8 +5,7 @@
   "Artist": "Natalia Goncharova", 
   "URL": "http://www.moma.org/collection/works/33786", 
   "CuratorApproved": "Y", 
-  "Title": "Electricity", 
-  "DateAcquired": "1978-04-04", 
+  "CreditLine": "The Joan and Lester Avnet Collection", 
   "Date": "1912", 
   "ArtistID": 2229, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "88.1978", 
-  "ArtistBio": "Russian, 1881\u20131962", 
-  "CreditLine": "The Joan and Lester Avnet Collection", 
+  "ArtistBio": "(Russian, 1881\u20131962)", 
+  "DateAcquired": "1978-04-04", 
+  "\ufeffTitle": "Electricity", 
   "ObjectID": "33786"
 }

@@ -5,8 +5,7 @@
   "Artist": "William Henry Fox Talbot", 
   "URL": "http://www.moma.org/collection/works/53534", 
   "CuratorApproved": "Y", 
-  "Title": "Seated Figure in the Cloisters, Lacock Abbey", 
-  "DateAcquired": "1988-12-15", 
+  "CreditLine": "The Fellows of Photography Fund", 
   "Date": "c. 1844", 
   "ArtistID": 5791, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "450.1988", 
-  "ArtistBio": "British, 1800\u20131877", 
-  "CreditLine": "The Fellows of Photography Fund", 
+  "ArtistBio": "(British, 1800\u20131877)", 
+  "DateAcquired": "1988-12-15", 
+  "\ufeffTitle": "Seated Figure in the Cloisters, Lacock Abbey", 
   "ObjectID": "53534"
 }

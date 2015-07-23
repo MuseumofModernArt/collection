@@ -5,8 +5,7 @@
   "Artist": "Clement Meadmore", 
   "URL": "http://www.moma.org/collection/works/3308", 
   "CuratorApproved": "Y", 
-  "Title": "Chair (model 248)", 
-  "DateAcquired": "1967-04-11", 
+  "CreditLine": "Gift of David Whitney", 
   "Date": "1963", 
   "ArtistID": 3902, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "329.1967", 
-  "ArtistBio": "Australian, born 1929", 
-  "CreditLine": "Gift of David Whitney", 
+  "ArtistBio": "(Australian, born 1929)", 
+  "DateAcquired": "1967-04-11", 
+  "\ufeffTitle": "Chair (model 248)", 
   "ObjectID": "3308"
 }

@@ -1,12 +1,11 @@
 {
   "Medium": "Illustrated book with 12 etchings", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Illustrated Book", 
   "Artist": "Enrique Chagoya", 
   "URL": "http://www.moma.org/collection/works/22663", 
   "CuratorApproved": "Y", 
-  "Title": "The Bread of Days", 
-  "DateAcquired": "1995-11-13", 
+  "CreditLine": "Mary Ellen Meehan Fund", 
   "Date": "1994", 
   "ArtistID": 7480, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "751.1995.1-12", 
-  "ArtistBio": "American, born Mexico 1953", 
-  "CreditLine": "Mary Ellen Meehan Fund", 
+  "ArtistBio": "(American, born Mexico 1953)", 
+  "DateAcquired": "1995-11-13", 
+  "\ufeffTitle": "The Bread of Days", 
   "ObjectID": "22663"
 }

@@ -5,8 +5,7 @@
   "Artist": "Ludwig Hohlwein", 
   "URL": "http://www.moma.org/collection/works/6697", 
   "CuratorApproved": "Y", 
-  "Title": "Verband der Deutschen Typographischen Gesellschaften", 
-  "DateAcquired": "1985-11-18", 
+  "CreditLine": "Gift of The Lauder Foundation, Leonard and Evelyn Lauder Fund", 
   "Date": "1913", 
   "ArtistID": 2700, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "422.1985", 
-  "ArtistBio": "German, 1874\u20131949", 
-  "CreditLine": "Gift of The Lauder Foundation, Leonard and Evelyn Lauder Fund", 
+  "ArtistBio": "(German, 1874\u20131949)", 
+  "DateAcquired": "1985-11-18", 
+  "\ufeffTitle": "Verband der Deutschen Typographischen Gesellschaften", 
   "ObjectID": "6697"
 }

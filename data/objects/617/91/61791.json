@@ -5,8 +5,7 @@
   "Artist": "Pierre Bonnard", 
   "URL": "http://www.moma.org/collection/works/61791", 
   "CuratorApproved": "Y", 
-  "Title": "Program for La Derni\u00e8re Croisade", 
-  "DateAcquired": "1949-03-24", 
+  "CreditLine": "Purchase", 
   "Date": "c. 1896", 
   "ArtistID": 665, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "101.1949", 
-  "ArtistBio": "French, 1867\u20131947", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(French, 1867\u20131947)", 
+  "DateAcquired": "1949-03-24", 
+  "\ufeffTitle": "Program for La Derni\u00e8re Croisade (The Last Crusade)", 
   "ObjectID": "61791"
 }

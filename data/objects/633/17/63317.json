@@ -1,12 +1,11 @@
 {
   "Medium": "Lithograph", 
-  "Dimensions": ".a irreg. composition  7 3/8 x 6 7/8\" (18.7 x 17.5 cm)  .b irreg. composition  6 7/8 x 6 3/8\" (17.5 x 16.2 cm)  sheet  9 13/16 x 11 5/16\" (24 x 28.8 cm)", 
+  "Dimensions": ".a irreg. composition  7 3/8 x 6 7/8\" (18.7 x 17.5 cm)\r\n.b irreg. composition  6 7/8 x 6 3/8\" (17.5 x 16.2 cm)\r\nsheet  9 13/16 x 11 5/16\" (24 x 28.8 cm)", 
   "Classification": "Print", 
   "Artist": "Pierre Alechinsky", 
   "URL": "http://www.moma.org/collection/works/63317", 
   "CuratorApproved": "Y", 
-  "Title": "Recto: Green Eyes, Verso: Untitled", 
-  "DateAcquired": "1986-05-20", 
+  "CreditLine": "Gift of William S. Lieberman", 
   "Date": "(1962)", 
   "ArtistID": 107, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "161.1986.a-b", 
-  "ArtistBio": "Belgian, born 1927", 
-  "CreditLine": "Gift of William S. Lieberman", 
+  "ArtistBio": "(Belgian, born 1927)", 
+  "DateAcquired": "1986-05-20", 
+  "\ufeffTitle": "Recto: Green Eyes, Verso: Untitled", 
   "ObjectID": "63317"
 }

@@ -5,8 +5,7 @@
   "Artist": "Helen Levitt", 
   "URL": "http://www.moma.org/collection/works/52410", 
   "CuratorApproved": "Y", 
-  "Title": "New York", 
-  "DateAcquired": "1997-10-09", 
+  "CreditLine": "Bequest of Grace M. Mayer", 
   "Date": "1938", 
   "ArtistID": 3520, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "391.1997", 
-  "ArtistBio": "American, 1913\u20132009", 
-  "CreditLine": "Bequest of Grace M. Mayer", 
+  "ArtistBio": "(American, 1913\u20132009)", 
+  "DateAcquired": "1997-10-09", 
+  "\ufeffTitle": "New York", 
   "ObjectID": "52410"
 }

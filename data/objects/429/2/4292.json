@@ -1,12 +1,11 @@
 {
   "Medium": "Polyethylene", 
-  "Dimensions": "overall:12 1/4 x 4 5/8\" (31.1 x 11.7 cm)  .a (bottle): 8 1/2 x 4 1/4\" (21.6 x 10.8 cm)  .b (cover): 4 x 4 5/8\" (10.2 x 11.7 cm)", 
+  "Dimensions": "overall:12 1/4 x 4 5/8\" (31.1 x 11.7 cm)\r\n.a (bottle): 8 1/2 x 4 1/4\" (21.6 x 10.8 cm)\r\n.b (cover): 4 x 4 5/8\" (10.2 x 11.7 cm)", 
   "Classification": "A&D Design", 
   "Artist": "Earl S. Tupper", 
   "URL": "http://www.moma.org/collection/works/4292", 
   "CuratorApproved": "Y", 
-  "Title": "Juice Shaker", 
-  "DateAcquired": "1956-10-25", 
+  "CreditLine": "Gift of the manufacturer", 
   "Date": "1954", 
   "ArtistID": 5970, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "519.1956.a-b", 
-  "ArtistBio": "American, 1907\u20131983", 
-  "CreditLine": "Gift of the manufacturer", 
+  "ArtistBio": "(American, 1907\u20131983)", 
+  "DateAcquired": "1956-10-25", 
+  "\ufeffTitle": "Juice Shaker", 
   "ObjectID": "4292"
 }

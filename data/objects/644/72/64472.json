@@ -1,12 +1,11 @@
 {
   "Medium": "One from a portfolio of eleven lithographs", 
-  "Dimensions": "sl. irreg composition  30 11/16 x 22 1/2\" (78 x 57.2 cm)  sl. irreg. sheet  30 11/16 x 22 1/2\" (78 x 57.2 cm)", 
+  "Dimensions": "sl. irreg composition  30 11/16 x 22 1/2\" (78 x 57.2 cm)\r\nsl. irreg. sheet  30 11/16 x 22 1/2\" (78 x 57.2 cm)", 
   "Classification": "Print", 
   "Artist": "Terry Winters", 
   "URL": "http://www.moma.org/collection/works/64472", 
   "CuratorApproved": "Y", 
-  "Title": "Eight from Folio", 
-  "DateAcquired": "1986-05-20", 
+  "CreditLine": "Gift of Emily Fisher Landau", 
   "Date": "(1985-1986)", 
   "ArtistID": 6408, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "210.1986.9", 
-  "ArtistBio": "American, born 1949", 
-  "CreditLine": "Gift of Emily Fisher Landau", 
+  "ArtistBio": "(American, born 1949)", 
+  "DateAcquired": "1986-05-20", 
+  "\ufeffTitle": "Eight from Folio", 
   "ObjectID": "64472"
 }

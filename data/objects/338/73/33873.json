@@ -5,8 +5,7 @@
   "Artist": "Paul Klee", 
   "URL": "http://www.moma.org/collection/works/33873", 
   "CuratorApproved": "Y", 
-  "Title": "Slavery", 
-  "DateAcquired": "1935-06-13", 
+  "CreditLine": "Gift of Abby Aldrich Rockefeller", 
   "Date": "1925", 
   "ArtistID": 3130, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "96.1935", 
-  "ArtistBio": "German, born Switzerland. 1879\u20131940", 
-  "CreditLine": "Gift of Abby Aldrich Rockefeller", 
+  "ArtistBio": "(German, born Switzerland. 1879\u20131940)", 
+  "DateAcquired": "1935-06-13", 
+  "\ufeffTitle": "Slavery (Sklaverei)", 
   "ObjectID": "33873"
 }

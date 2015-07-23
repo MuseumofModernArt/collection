@@ -5,8 +5,7 @@
   "Artist": "Ewald Matar\u00e9", 
   "URL": "http://www.moma.org/collection/works/64135", 
   "CuratorApproved": "Y", 
-  "Title": "Portrait of Dr. Scholz", 
-  "DateAcquired": "1984-05-23", 
+  "CreditLine": "William K. Simpson Fund (in memory of Abby Aldrich Rockefeller)", 
   "Date": "1920", 
   "ArtistID": 3826, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "192.1984", 
-  "ArtistBio": "German, 1887\u20131965", 
-  "CreditLine": "William K. Simpson Fund (in memory of Abby Aldrich Rockefeller)", 
+  "ArtistBio": "(German, 1887\u20131965)", 
+  "DateAcquired": "1984-05-23", 
+  "\ufeffTitle": "Portrait of Dr. Scholz (Bildnis Dr. Scholz)", 
   "ObjectID": "64135"
 }

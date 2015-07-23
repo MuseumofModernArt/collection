@@ -5,8 +5,7 @@
   "Artist": "Michael Lax", 
   "URL": "http://www.moma.org/collection/works/4554", 
   "CuratorApproved": "Y", 
-  "Title": "Lytegem High-Intensity Lamps", 
-  "DateAcquired": "1965-11-09", 
+  "CreditLine": "Gift of the manufacturer", 
   "Date": "1965", 
   "ArtistID": 3421, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "915.1965.1-2", 
-  "ArtistBio": "American, born 1929", 
-  "CreditLine": "Gift of the manufacturer", 
+  "ArtistBio": "(American, born 1929)", 
+  "DateAcquired": "1965-11-09", 
+  "\ufeffTitle": "Lytegem High-Intensity Lamps", 
   "ObjectID": "4554"
 }

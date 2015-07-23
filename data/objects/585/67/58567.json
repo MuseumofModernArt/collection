@@ -5,8 +5,7 @@
   "Artist": "Peter Carroll/Associated Press", 
   "URL": "http://www.moma.org/collection/works/58567", 
   "CuratorApproved": "Y", 
-  "Title": "Placing Markers for Execution Squad", 
-  "DateAcquired": "2001-06-14", 
+  "CreditLine": "The New York Times Collection", 
   "Date": "May 28, 1945", 
   "ArtistID": 8523, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "1974.2001", 
-  "ArtistBio": "Nationality unknown", 
-  "CreditLine": "The New York Times Collection", 
+  "ArtistBio": "(Nationality unknown)", 
+  "DateAcquired": "2001-06-14", 
+  "\ufeffTitle": "\"Placing Markers for Execution Squad\"", 
   "ObjectID": "58567"
 }

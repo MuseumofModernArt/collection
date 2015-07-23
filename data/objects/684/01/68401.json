@@ -1,12 +1,11 @@
 {
   "Medium": "Lithograph", 
-  "Dimensions": "Composition: 14 7/16 x 10 1/16\" (36.6 x 25.6 cm)  Sheet: 21 5/8 x 16 1/8\" (55 x 40.9 cm)", 
+  "Dimensions": "Composition: 14 7/16 x 10 1/16\" (36.6 x 25.6 cm)\r\nSheet: 21 5/8 x 16 1/8\" (55 x 40.9 cm)", 
   "Classification": "Print", 
   "Artist": "John Steuart Curry", 
   "URL": "http://www.moma.org/collection/works/68401", 
   "CuratorApproved": "Y", 
-  "Title": "John Brown", 
-  "DateAcquired": "1990-10-23", 
+  "CreditLine": "Abby Aldrich Rockefeller Fund (by exchange)", 
   "Date": "1939 (published 1940)", 
   "ArtistID": 1339, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "396.1990", 
-  "ArtistBio": "American, 1897\u20131946", 
-  "CreditLine": "Abby Aldrich Rockefeller Fund (by exchange)", 
+  "ArtistBio": "(American, 1897\u20131946)", 
+  "DateAcquired": "1990-10-23", 
+  "\ufeffTitle": "John Brown", 
   "ObjectID": "68401"
 }

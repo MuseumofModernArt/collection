@@ -5,8 +5,7 @@
   "Artist": "Yoko Ono", 
   "URL": "http://www.moma.org/collection/works/69531", 
   "CuratorApproved": "Y", 
-  "Title": "Mend Piece for John from S.M.S. No. 5, October 1968", 
-  "DateAcquired": "1977-11-10", 
+  "CreditLine": "Gift of Carol O. Selle", 
   "Date": "1968", 
   "ArtistID": 4410, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "460.1977.5m", 
-  "ArtistBio": "Japanese, born 1933", 
-  "CreditLine": "Gift of Carol O. Selle", 
+  "ArtistBio": "(Japanese, born 1933)", 
+  "DateAcquired": "1977-11-10", 
+  "\ufeffTitle": "Mend Piece for John from S.M.S. No. 5", 
   "ObjectID": "69531"
 }

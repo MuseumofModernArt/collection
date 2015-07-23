@@ -5,8 +5,7 @@
   "Artist": "French Pictorial Service", 
   "URL": "http://www.moma.org/collection/works/58593", 
   "CuratorApproved": "Y", 
-  "Title": "During the Recent Bombardment of Padua", 
-  "DateAcquired": "2001-06-14", 
+  "CreditLine": "The New York Times Collection", 
   "Date": "December 30-31, 1917", 
   "ArtistID": 8542, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "2000.2001", 
-  "ArtistBio": "NULL", 
-  "CreditLine": "The New York Times Collection", 
+  "ArtistBio": "", 
+  "DateAcquired": "2001-06-14", 
+  "\ufeffTitle": "\"During the Recent Bombardment of Padua\"", 
   "ObjectID": "58593"
 }

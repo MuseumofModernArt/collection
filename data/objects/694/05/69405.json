@@ -5,8 +5,7 @@
   "Artist": "Michael Snow", 
   "URL": "http://www.moma.org/collection/works/69405", 
   "CuratorApproved": "Y", 
-  "Title": "Projection", 
-  "DateAcquired": "1971-05-18", 
+  "CreditLine": "Donald Karshan Fund", 
   "Date": "(1970)", 
   "ArtistID": 5500, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "456.1971", 
-  "ArtistBio": "Canadian, born 1929", 
-  "CreditLine": "Donald Karshan Fund", 
+  "ArtistBio": "(Canadian, born 1929)", 
+  "DateAcquired": "1971-05-18", 
+  "\ufeffTitle": "Projection", 
   "ObjectID": "69405"
 }

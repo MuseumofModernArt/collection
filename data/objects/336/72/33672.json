@@ -5,8 +5,7 @@
   "Artist": "Robert Motherwell", 
   "URL": "http://www.moma.org/collection/works/33672", 
   "CuratorApproved": "Y", 
-  "Title": "Pancho Villa, Dead and Alive", 
-  "DateAcquired": "1944-05-02", 
+  "CreditLine": "Purchase", 
   "Date": "1943", 
   "ArtistID": 4126, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "77.1944", 
-  "ArtistBio": "American, 1915\u20131991", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, 1915\u20131991)", 
+  "DateAcquired": "1944-05-02", 
+  "\ufeffTitle": "Pancho Villa, Dead and Alive", 
   "ObjectID": "33672"
 }

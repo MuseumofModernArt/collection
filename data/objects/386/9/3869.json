@@ -5,8 +5,7 @@
   "Artist": "Ezio Pirali", 
   "URL": "http://www.moma.org/collection/works/3869", 
   "CuratorApproved": "Y", 
-  "Title": "Electric Fan", 
-  "DateAcquired": "1956-10-25", 
+  "CreditLine": "Gift of Philip Johnson", 
   "Date": "1953", 
   "ArtistID": 4636, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "459.1956", 
-  "ArtistBio": "Italian, born 1921", 
-  "CreditLine": "Gift of Philip Johnson", 
+  "ArtistBio": "(Italian, born 1921)", 
+  "DateAcquired": "1956-10-25", 
+  "\ufeffTitle": "Electric Fan", 
   "ObjectID": "3869"
 }

@@ -5,8 +5,7 @@
   "Artist": "Max Burchartz", 
   "URL": "http://www.moma.org/collection/works/5500", 
   "CuratorApproved": "Y", 
-  "Title": "Kunst der Werbung", 
-  "DateAcquired": "1961-06-04", 
+  "CreditLine": "Purchase", 
   "Date": "1931", 
   "ArtistID": 869, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "174.1991", 
-  "ArtistBio": "German, 1887\u20131961", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(German, 1887\u20131961)", 
+  "DateAcquired": "1961-06-04", 
+  "\ufeffTitle": "Kunst der Werbung", 
   "ObjectID": "5500"
 }

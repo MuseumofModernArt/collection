@@ -5,8 +5,7 @@
   "Artist": "Carleton E. Watkins", 
   "URL": "http://www.moma.org/collection/works/57284", 
   "CuratorApproved": "Y", 
-  "Title": "Arbutus Menziesii, California", 
-  "DateAcquired": "1965-11-09", 
+  "CreditLine": "Purchase", 
   "Date": "1861", 
   "ArtistID": 6260, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "897.1965", 
-  "ArtistBio": "American, 1829\u20131916", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, 1829\u20131916)", 
+  "DateAcquired": "1965-11-09", 
+  "\ufeffTitle": "Arbutus Menziesii, California", 
   "ObjectID": "57284"
 }

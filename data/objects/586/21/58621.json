@@ -5,8 +5,7 @@
   "Artist": "Bob Jackson", 
   "URL": "http://www.moma.org/collection/works/58621", 
   "CuratorApproved": "Y", 
-  "Title": "The Moment of Impact", 
-  "DateAcquired": "2001-06-14", 
+  "CreditLine": "The New York Times Collection", 
   "Date": "November 24, 1963", 
   "ArtistID": 8563, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "2028.2001", 
-  "ArtistBio": "American, born 1934", 
-  "CreditLine": "The New York Times Collection", 
+  "ArtistBio": "(American, born 1934)", 
+  "DateAcquired": "2001-06-14", 
+  "\ufeffTitle": "The Moment of Impact", 
   "ObjectID": "58621"
 }

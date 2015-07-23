@@ -5,8 +5,7 @@
   "Artist": "Irving Penn", 
   "URL": "http://www.moma.org/collection/works/55028", 
   "CuratorApproved": "Y", 
-  "Title": "Woman with Roses (Lisa Fonssagrives-Penn), Paris", 
-  "DateAcquired": "1962-01-09", 
+  "CreditLine": "Gift of the photographer", 
   "Date": "1950", 
   "ArtistID": 4548, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "551.1961", 
-  "ArtistBio": "American, 1917\u20132009", 
-  "CreditLine": "Gift of the photographer", 
+  "ArtistBio": "(American, 1917\u20132009)", 
+  "DateAcquired": "1962-01-09", 
+  "\ufeffTitle": "Woman with Roses (Lisa Fonssagrives-Penn), Paris", 
   "ObjectID": "55028"
 }

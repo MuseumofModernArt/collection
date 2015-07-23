@@ -5,8 +5,7 @@
   "Artist": "Patrick Procktor", 
   "URL": "http://www.moma.org/collection/works/34866", 
   "CuratorApproved": "Y", 
-  "Title": "Cecil Beaton", 
-  "DateAcquired": "1978-04-04", 
+  "CreditLine": "The Joan and Lester Avnet Collection", 
   "Date": "1967", 
   "ArtistID": 4744, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "154.1978", 
-  "ArtistBio": "British, 1936\u20132003", 
-  "CreditLine": "The Joan and Lester Avnet Collection", 
+  "ArtistBio": "(British, 1936\u20132003)", 
+  "DateAcquired": "1978-04-04", 
+  "\ufeffTitle": "Cecil Beaton", 
   "ObjectID": "34866"
 }

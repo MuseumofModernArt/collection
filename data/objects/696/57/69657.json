@@ -1,12 +1,11 @@
 {
   "Medium": "Lithograph with collage on two sheets", 
-  "Dimensions": "(a) irreg. composition  32 9/16 x 26 3/16\" (82.7 x 66.5 cm)  (b) irreg. composition  45 15/16 x 35 11/16\" (116.8 x 90.6 cm)", 
+  "Dimensions": "(a) irreg. composition  32 9/16 x 26 3/16\" (82.7 x 66.5 cm)\r\n(b) irreg. composition  45 15/16 x 35 11/16\" (116.8 x 90.6 cm)", 
   "Classification": "Print", 
   "Artist": "David Hockney", 
   "URL": "http://www.moma.org/collection/works/69657", 
   "CuratorApproved": "Y", 
-  "Title": "An Image of Gregory", 
-  "DateAcquired": "1987-01-15", 
+  "CreditLine": "Gift of John Wagner", 
   "Date": "1984-85", 
   "ArtistID": 2678, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "468.1986.a-b", 
-  "ArtistBio": "British, born 1937", 
-  "CreditLine": "Gift of John Wagner", 
+  "ArtistBio": "(British, born 1937)", 
+  "DateAcquired": "1987-01-15", 
+  "\ufeffTitle": "An Image of Gregory", 
   "ObjectID": "69657"
 }

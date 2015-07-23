@@ -5,8 +5,7 @@
   "Artist": "G\u00fcnther F\u00f6rg", 
   "URL": "http://www.moma.org/collection/works/36235", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1989-11-21", 
+  "CreditLine": "Gift of Walter Bareiss", 
   "Date": "1987", 
   "ArtistID": 1940, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "314.1989", 
-  "ArtistBio": "German, 1952\u20132013", 
-  "CreditLine": "Gift of Walter Bareiss", 
+  "ArtistBio": "(German, 1952\u20132013)", 
+  "DateAcquired": "1989-11-21", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "36235"
 }

@@ -5,8 +5,7 @@
   "Artist": "Unknown photographer", 
   "URL": "http://www.moma.org/collection/works/49630", 
   "CuratorApproved": "Y", 
-  "Title": "Portrait of a Young Man", 
-  "DateAcquired": "1973-05-10", 
+  "CreditLine": "Anonymous Fund", 
   "Date": "c. 1860", 
   "ArtistID": 6028, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "255.1973", 
-  "ArtistBio": "NULL", 
-  "CreditLine": "Anonymous Fund", 
+  "ArtistBio": "", 
+  "DateAcquired": "1973-05-10", 
+  "\ufeffTitle": "Portrait of a Young Man", 
   "ObjectID": "49630"
 }

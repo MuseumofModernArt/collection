@@ -5,8 +5,7 @@
   "Artist": "Frank O. Gehry", 
   "URL": "http://www.moma.org/collection/works/2322", 
   "CuratorApproved": "Y", 
-  "Title": "Easy Edges Side Chairs", 
-  "DateAcquired": "1993-05-04", 
+  "CreditLine": "Gift of John C. Waddell", 
   "Date": "1970-72", 
   "ArtistID": 2108, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "161.1993.1-6", 
-  "ArtistBio": "American, born Canada 1929", 
-  "CreditLine": "Gift of John C. Waddell", 
+  "ArtistBio": "(American, born Canada 1929)", 
+  "DateAcquired": "1993-05-04", 
+  "\ufeffTitle": "Easy Edges Side Chairs", 
   "ObjectID": "2322"
 }

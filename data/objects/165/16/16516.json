@@ -1,12 +1,11 @@
 {
   "Medium": "12 etching, aquatint, and engravings", 
-  "Dimensions": "page  22 1/4 x 15\" (56 x 38.2 cm)  Prints:  various dimensions.", 
+  "Dimensions": "page  22 1/4 x 15\" (56 x 38.2 cm)\r\nPrints:  various dimensions.", 
   "Classification": "Illustrated Book", 
   "Artist": "Terry Haass", 
   "URL": "http://www.moma.org/collection/works/16516", 
   "CuratorApproved": "Y", 
-  "Title": "Zodiaque", 
-  "DateAcquired": "1988-10-25", 
+  "CreditLine": "Gift of Miriam M. Steinert", 
   "Date": "(1964)", 
   "ArtistID": 2435, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "386.1988.1-12", 
-  "ArtistBio": "French, born 1923", 
-  "CreditLine": "Gift of Miriam M. Steinert", 
+  "ArtistBio": "(French, born 1923)", 
+  "DateAcquired": "1988-10-25", 
+  "\ufeffTitle": "Zodiaque", 
   "ObjectID": "16516"
 }

@@ -5,8 +5,7 @@
   "Artist": "Melissa Shook", 
   "URL": "http://www.moma.org/collection/works/48674", 
   "CuratorApproved": "Y", 
-  "Title": "Port Washington", 
-  "DateAcquired": "1974-04-02", 
+  "CreditLine": "Gift of the photographer", 
   "Date": "July 1973", 
   "ArtistID": 5407, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "216.1974", 
-  "ArtistBio": "American, born 1939", 
-  "CreditLine": "Gift of the photographer", 
+  "ArtistBio": "(American, born 1939)", 
+  "DateAcquired": "1974-04-02", 
+  "\ufeffTitle": "Port Washington", 
   "ObjectID": "48674"
 }

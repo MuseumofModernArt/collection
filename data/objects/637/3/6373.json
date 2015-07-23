@@ -5,8 +5,7 @@
   "Artist": "Bruno Munari", 
   "URL": "http://www.moma.org/collection/works/6373", 
   "CuratorApproved": "Y", 
-  "Title": "Campari", 
-  "DateAcquired": "1966-05-10", 
+  "CreditLine": "Gift of the designer", 
   "Date": "1965", 
   "ArtistID": 4163, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "340.1966", 
-  "ArtistBio": "Italian, 1907\u20131998", 
-  "CreditLine": "Gift of the designer", 
+  "ArtistBio": "(Italian, 1907\u20131998)", 
+  "DateAcquired": "1966-05-10", 
+  "\ufeffTitle": "Campari", 
   "ObjectID": "6373"
 }

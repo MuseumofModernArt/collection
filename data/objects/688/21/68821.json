@@ -1,12 +1,11 @@
 {
   "Medium": "One from a portfolio of eight lithographs", 
-  "Dimensions": "composition  30 1/8 x 21 15/16\" (76.5 x 55.8 cm)  sheet  30 1/8 x 21 15/16\" (76 x 55.8 cm)", 
+  "Dimensions": "composition  30 1/8 x 21 15/16\" (76.5 x 55.8 cm)\r\nsheet  30 1/8 x 21 15/16\" (76 x 55.8 cm)", 
   "Classification": "Print", 
   "Artist": "Bruce Nauman", 
   "URL": "http://www.moma.org/collection/works/68821", 
   "CuratorApproved": "Y", 
-  "Title": "Human Companionship, Human Drain from Eight Lithographs to Benefit the Foundation for Contemporary Performance Arts, Inc", 
-  "DateAcquired": "1987-10-20", 
+  "CreditLine": "The Associates Fund", 
   "Date": "1981", 
   "ArtistID": 4243, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "421.1987.6", 
-  "ArtistBio": "American, born 1941", 
-  "CreditLine": "The Associates Fund", 
+  "ArtistBio": "(American, born 1941)", 
+  "DateAcquired": "1987-10-20", 
+  "\ufeffTitle": "Human Companionship, Human Drain from Eight Lithographs to Benefit the Foundation for Contemporary Performance Arts, Inc", 
   "ObjectID": "68821"
 }

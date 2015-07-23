@@ -5,8 +5,7 @@
   "Artist": "Yoshiaki Iida", 
   "URL": "http://www.moma.org/collection/works/3825", 
   "CuratorApproved": "Y", 
-  "Title": "Plateon Sewing Kit", 
-  "DateAcquired": "1987-11-18", 
+  "CreditLine": "Gift of the manufacturer", 
   "Date": "1986", 
   "ArtistID": 2798, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "453.1987", 
-  "ArtistBio": "Japanese, born 1947", 
-  "CreditLine": "Gift of the manufacturer", 
+  "ArtistBio": "(Japanese, born 1947)", 
+  "DateAcquired": "1987-11-18", 
+  "\ufeffTitle": "Plateon Sewing Kit", 
   "ObjectID": "3825"
 }

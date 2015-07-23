@@ -5,8 +5,7 @@
   "Artist": "Carlo Nason", 
   "URL": "http://www.moma.org/collection/works/4598", 
   "CuratorApproved": "Y", 
-  "Title": "Ashtray", 
-  "DateAcquired": "1969-12-01", 
+  "CreditLine": "Gift of Bonniers, Inc.", 
   "Date": "1958", 
   "ArtistID": 4231, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "1126.1969", 
-  "ArtistBio": "Italian, born 1935", 
-  "CreditLine": "Gift of Bonniers, Inc.", 
+  "ArtistBio": "(Italian, born 1935)", 
+  "DateAcquired": "1969-12-01", 
+  "\ufeffTitle": "Ashtray", 
   "ObjectID": "4598"
 }

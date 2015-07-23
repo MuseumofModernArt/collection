@@ -5,8 +5,7 @@
   "Artist": "Aleksandr Rodchenko", 
   "URL": "http://www.moma.org/collection/works/56403", 
   "CuratorApproved": "Y", 
-  "Title": "Guard at the Shukhov Radio Tower, Moscow", 
-  "DateAcquired": "1998-12-10", 
+  "CreditLine": "Gift of the Rodchenko family", 
   "Date": "1929", 
   "ArtistID": 4975, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "786.1998", 
-  "ArtistBio": "Russian, 1891\u20131956", 
-  "CreditLine": "Gift of the Rodchenko family", 
+  "ArtistBio": "(Russian, 1891\u20131956)", 
+  "DateAcquired": "1998-12-10", 
+  "\ufeffTitle": "Guard at the Shukhov Radio Tower, Moscow", 
   "ObjectID": "56403"
 }

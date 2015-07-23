@@ -1,12 +1,11 @@
 {
   "Medium": "Portfolio of 10 lithographs on chine appliqu\u00e9, and one lithographed portfolio cover", 
-  "Dimensions": "Composition: various (see children)  Sheet: 17 11/16 x 12 1/2\" (44.9 x 31.7 cm)", 
+  "Dimensions": "Composition: various (see children)\r\nSheet: 17 11/16 x 12 1/2\" (44.9 x 31.7 cm)", 
   "Classification": "Print", 
   "Artist": "Odilon Redon", 
   "URL": "http://www.moma.org/collection/works/62302", 
   "CuratorApproved": "Y", 
-  "Title": "Temptation of Saint Anthony (first series)", 
-  "DateAcquired": "1956-03-19", 
+  "CreditLine": "Gift of Abby Aldrich Rockefeller (by exchange)", 
   "Date": "(1888)", 
   "ArtistID": 4840, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "126.1956.1-11", 
-  "ArtistBio": "French, 1840\u20131916", 
-  "CreditLine": "Gift of Abby Aldrich Rockefeller (by exchange)", 
+  "ArtistBio": "(French, 1840\u20131916)", 
+  "DateAcquired": "1956-03-19", 
+  "\ufeffTitle": "Temptation of Saint Anthony (first series)", 
   "ObjectID": "62302"
 }

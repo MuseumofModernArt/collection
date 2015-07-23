@@ -5,8 +5,7 @@
   "Artist": "Robert Adams", 
   "URL": "http://www.moma.org/collection/works/56950", 
   "CuratorApproved": "Y", 
-  "Title": "Loveland, Colorado", 
-  "DateAcquired": "1996-12-10", 
+  "CreditLine": "Bequest of Arthur M. Bullowa", 
   "Date": "1973", 
   "ArtistID": 66, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "849.1996", 
-  "ArtistBio": "American, born 1937", 
-  "CreditLine": "Bequest of Arthur M. Bullowa", 
+  "ArtistBio": "(American, born 1937)", 
+  "DateAcquired": "1996-12-10", 
+  "\ufeffTitle": "Loveland, Colorado", 
   "ObjectID": "56950"
 }

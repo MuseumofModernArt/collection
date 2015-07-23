@@ -1,12 +1,11 @@
 {
   "Medium": "Illustrated book with ten aquatints", 
-  "Dimensions": "page  19 1/2 x 13 3/4\" (49 x 35 cm)  Prints:  various dimensions.", 
+  "Dimensions": "page  19 1/2 x 13 3/4\" (49 x 35 cm)\r\nPrints:  various dimensions.", 
   "Classification": "Illustrated Book", 
   "Artist": "Pierre Alechinsky", 
   "URL": "http://www.moma.org/collection/works/19954", 
   "CuratorApproved": "Y", 
-  "Title": "Cerclitude", 
-  "DateAcquired": "1978-10-17", 
+  "CreditLine": "Gift of the artist", 
   "Date": "1973 (Published 1974)", 
   "ArtistID": 107, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "657.1978.1-10", 
-  "ArtistBio": "Belgian, born 1927", 
-  "CreditLine": "Gift of the artist", 
+  "ArtistBio": "(Belgian, born 1927)", 
+  "DateAcquired": "1978-10-17", 
+  "\ufeffTitle": "Cerclitude", 
   "ObjectID": "19954"
 }

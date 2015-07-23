@@ -5,8 +5,7 @@
   "Artist": "Lewis W. Hine", 
   "URL": "http://www.moma.org/collection/works/44695", 
   "CuratorApproved": "Y", 
-  "Title": "Tragedy of Old Age", 
-  "DateAcquired": "1946-05-07", 
+  "CreditLine": "Purchase", 
   "Date": "1912", 
   "ArtistID": 2657, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "46.1946", 
-  "ArtistBio": "American, 1874\u20131940", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, 1874\u20131940)", 
+  "DateAcquired": "1946-05-07", 
+  "\ufeffTitle": "Tragedy of Old Age", 
   "ObjectID": "44695"
 }

@@ -5,8 +5,7 @@
   "Artist": "Alfred Stieglitz", 
   "URL": "http://www.moma.org/collection/works/52706", 
   "CuratorApproved": "Y", 
-  "Title": "On the Seine, near Paris", 
-  "DateAcquired": "1976-10-13", 
+  "CreditLine": "Gift of Dorothy Norman", 
   "Date": "1894", 
   "ArtistID": 5664, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "404.1976", 
-  "ArtistBio": "American, 1864\u20131946", 
-  "CreditLine": "Gift of Dorothy Norman", 
+  "ArtistBio": "(American, 1864\u20131946)", 
+  "DateAcquired": "1976-10-13", 
+  "\ufeffTitle": "On the Seine, near Paris", 
   "ObjectID": "52706"
 }

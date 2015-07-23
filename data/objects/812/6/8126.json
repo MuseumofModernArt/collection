@@ -5,8 +5,7 @@
   "Artist": "Bill Henry", 
   "URL": "http://www.moma.org/collection/works/8126", 
   "CuratorApproved": "Y", 
-  "Title": "Youngbloods", 
-  "DateAcquired": "1983-11-30", 
+  "CreditLine": "Gift of the designer", 
   "Date": "1968", 
   "ArtistID": 2597, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "779.1983", 
-  "ArtistBio": "American", 
-  "CreditLine": "Gift of the designer", 
+  "ArtistBio": "(American)", 
+  "DateAcquired": "1983-11-30", 
+  "\ufeffTitle": "Youngbloods", 
   "ObjectID": "8126"
 }

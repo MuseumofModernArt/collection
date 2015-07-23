@@ -5,8 +5,7 @@
   "Artist": "Aluminum Company of America, Pittsburgh, Pennsylvania", 
   "URL": "http://www.moma.org/collection/works/2465", 
   "CuratorApproved": "Y", 
-  "Title": "Outboard Propeller", 
-  "DateAcquired": "1934-04-01", 
+  "CreditLine": "Gift of the manufacturer", 
   "Date": "c.1925", 
   "Keywords": [
     "online art collection", 
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "192.1934", 
-  "ArtistBio": "est 1888", 
-  "CreditLine": "Gift of the manufacturer", 
+  "ArtistBio": "(est 1888)", 
+  "DateAcquired": "1934-04-01", 
+  "\ufeffTitle": "Outboard Propeller", 
   "ObjectID": "2465"
 }

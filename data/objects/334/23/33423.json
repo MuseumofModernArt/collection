@@ -5,8 +5,7 @@
   "Artist": "Preston Dickinson", 
   "URL": "http://www.moma.org/collection/works/33423", 
   "CuratorApproved": "Y", 
-  "Title": "Grain Elevators, Omaha", 
-  "DateAcquired": "1978-04-04", 
+  "CreditLine": "The Joan and Lester Avnet Collection", 
   "Date": "(1924)", 
   "ArtistID": 1537, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "34.1978", 
-  "ArtistBio": "American, 1889\u20131930", 
-  "CreditLine": "The Joan and Lester Avnet Collection", 
+  "ArtistBio": "(American, 1889\u20131930)", 
+  "DateAcquired": "1978-04-04", 
+  "\ufeffTitle": "Grain Elevators, Omaha", 
   "ObjectID": "33423"
 }

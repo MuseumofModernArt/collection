@@ -5,8 +5,7 @@
   "Artist": "Dietrich Lubs", 
   "URL": "http://www.moma.org/collection/works/3846", 
   "CuratorApproved": "Y", 
-  "Title": "Calculator", 
-  "DateAcquired": "1987-11-18", 
+  "CreditLine": "Gift of the manufacturer", 
   "Date": "1986", 
   "ArtistID": 3619, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "456.1987", 
-  "ArtistBio": "German, born 1938", 
-  "CreditLine": "Gift of the manufacturer", 
+  "ArtistBio": "(German, born 1938)", 
+  "DateAcquired": "1987-11-18", 
+  "\ufeffTitle": "Calculator", 
   "ObjectID": "3846"
 }

@@ -5,8 +5,7 @@
   "Artist": "Georges Rouault", 
   "URL": "http://www.moma.org/collection/works/16511", 
   "CuratorApproved": "Y", 
-  "Title": "The Yellow Clown from Cirque", 
-  "DateAcquired": "1949-09-29", 
+  "CreditLine": "Gift of the artist", 
   "Date": "1930", 
   "ArtistID": 5053, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "385.1949.6", 
-  "ArtistBio": "French, 1871\u20131958", 
-  "CreditLine": "Gift of the artist", 
+  "ArtistBio": "(French, 1871\u20131958)", 
+  "DateAcquired": "1949-09-29", 
+  "\ufeffTitle": "The Yellow Clown from Cirque", 
   "ObjectID": "16511"
 }

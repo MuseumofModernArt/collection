@@ -5,8 +5,7 @@
   "Artist": "Nicola Tyson", 
   "URL": "http://www.moma.org/collection/works/35105", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled #7", 
-  "DateAcquired": "1997-04-17", 
+  "CreditLine": "Gift of Sarah-Ann and Werner H. Kramarsky", 
   "Date": "1997", 
   "ArtistID": 7618, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "181.1997", 
-  "ArtistBio": "British, born 1960", 
-  "CreditLine": "Gift of Sarah-Ann and Werner H. Kramarsky", 
+  "ArtistBio": "(British, born 1960)", 
+  "DateAcquired": "1997-04-17", 
+  "\ufeffTitle": "Untitled #7", 
   "ObjectID": "35105"
 }

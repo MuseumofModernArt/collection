@@ -5,8 +5,7 @@
   "Artist": "Manuel \u00c1lvarez Bravo", 
   "URL": "http://www.moma.org/collection/works/52736", 
   "CuratorApproved": "Y", 
-  "Title": "The Crouched Ones", 
-  "DateAcquired": "1942-12-29", 
+  "CreditLine": "Purchase", 
   "Date": "1934", 
   "ArtistID": 135, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "406.1942", 
-  "ArtistBio": "Mexican, 1902\u20132002", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(Mexican, 1902\u20132002)", 
+  "DateAcquired": "1942-12-29", 
+  "\ufeffTitle": "The Crouched Ones", 
   "ObjectID": "52736"
 }

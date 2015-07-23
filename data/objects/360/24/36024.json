@@ -5,8 +5,7 @@
   "Artist": "Georges Lacombe", 
   "URL": "http://www.moma.org/collection/works/36024", 
   "CuratorApproved": "Y", 
-  "Title": "Tree Trunk, Normandy", 
-  "DateAcquired": "1978-04-04", 
+  "CreditLine": "Gift in the honor of Myron Orlofsky", 
   "Date": "(1898)", 
   "ArtistID": 3333, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "289.1978", 
-  "ArtistBio": "French, 1868\u20131916", 
-  "CreditLine": "Gift in the honor of Myron Orlofsky", 
+  "ArtistBio": "(French, 1868\u20131916)", 
+  "DateAcquired": "1978-04-04", 
+  "\ufeffTitle": "Tree Trunk, Normandy", 
   "ObjectID": "36024"
 }

@@ -5,8 +5,7 @@
   "Artist": "John A. Davies", 
   "URL": "http://www.moma.org/collection/works/47361", 
   "CuratorApproved": "Y", 
-  "Title": "Sheffield Series No. 4", 
-  "DateAcquired": "1983-01-13", 
+  "CreditLine": "Purchase", 
   "Date": "1981", 
   "ArtistID": 1403, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "173.1983", 
-  "ArtistBio": "British, born 1949", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(British, born 1949)", 
+  "DateAcquired": "1983-01-13", 
+  "\ufeffTitle": "Sheffield Series No. 4", 
   "ObjectID": "47361"
 }

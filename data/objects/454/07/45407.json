@@ -5,8 +5,7 @@
   "Artist": "James Anderson", 
   "URL": "http://www.moma.org/collection/works/45407", 
   "CuratorApproved": "Y", 
-  "Title": "Michaelangelo's Moses, Rome", 
-  "DateAcquired": "1988-03-10", 
+  "CreditLine": "Purchase", 
   "Date": "c. 1852", 
   "ArtistID": 165, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "65.1988", 
-  "ArtistBio": "British, 1813\u20131877", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(British, 1813\u20131877)", 
+  "DateAcquired": "1988-03-10", 
+  "\ufeffTitle": "Michaelangelo's Moses, Rome", 
   "ObjectID": "45407"
 }

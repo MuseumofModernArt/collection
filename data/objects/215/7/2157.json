@@ -1,12 +1,11 @@
 {
   "Medium": "Steel, aluminum, rosewood, and plastic", 
-  "Dimensions": ".a (tuner): 3 1/8 x 25 3/8 x 12 1/2\" (8 x 64.5 x  31.7 cm)  .b (remote): 1 1/8 x 4 x 6 7/16\" (2.9 x 10.2  x 16.3 cm)", 
+  "Dimensions": ".a (tuner): 3 1/8 x 25 3/8 x 12 1/2\" (8 x 64.5 x  31.7 cm)\r\n.b (remote): 1 1/8 x 4 x 6 7/16\" (2.9 x 10.2  x 16.3 cm)", 
   "Classification": "A&D Design", 
   "Artist": "Jacob Jensen", 
   "URL": "http://www.moma.org/collection/works/2157", 
   "CuratorApproved": "Y", 
-  "Title": "Beomaster 6000 Tuner, Amplifier, and Preamplifier", 
-  "DateAcquired": "1976-03-22", 
+  "CreditLine": "Gift of the manufacturer", 
   "Date": "1974", 
   "ArtistID": 2909, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "110.1976.a-b", 
-  "ArtistBio": "Danish, 1926\u20132015", 
-  "CreditLine": "Gift of the manufacturer", 
+  "ArtistBio": "(Danish, 1926\u20132015)", 
+  "DateAcquired": "1976-03-22", 
+  "\ufeffTitle": "Beomaster 6000 Tuner, Amplifier, and Preamplifier", 
   "ObjectID": "2157"
 }

@@ -5,8 +5,7 @@
   "Artist": "Henri de Toulouse-Lautrec", 
   "URL": "http://www.moma.org/collection/works/63270", 
   "CuratorApproved": "Y", 
-  "Title": "Philibert the Pony (Le poney Philibert)", 
-  "DateAcquired": "1946-07-11", 
+  "CreditLine": "Gift of Abby Aldrich Rockefeller", 
   "Date": "1898", 
   "ArtistID": 5910, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "159.1946", 
-  "ArtistBio": "French, 1864\u20131901", 
-  "CreditLine": "Gift of Abby Aldrich Rockefeller", 
+  "ArtistBio": "(French, 1864\u20131901)", 
+  "DateAcquired": "1946-07-11", 
+  "\ufeffTitle": "Philibert the Pony (Le poney Philibert)", 
   "ObjectID": "63270"
 }

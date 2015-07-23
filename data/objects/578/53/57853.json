@@ -5,8 +5,7 @@
   "Artist": "John Adams Whipple", 
   "URL": "http://www.moma.org/collection/works/57853", 
   "CuratorApproved": "Y", 
-  "Title": "The Moon", 
-  "DateAcquired": "1979-12-13", 
+  "CreditLine": "Gift of Warner Communications, Inc.", 
   "Date": "1853-54", 
   "ArtistID": 6335, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "1195.1979", 
-  "ArtistBio": "American, 1822\u20131891", 
-  "CreditLine": "Gift of Warner Communications, Inc.", 
+  "ArtistBio": "(American, 1822\u20131891)", 
+  "DateAcquired": "1979-12-13", 
+  "\ufeffTitle": "The Moon", 
   "ObjectID": "57853"
 }

@@ -5,8 +5,7 @@
   "Artist": "Marie Laurencin", 
   "URL": "http://www.moma.org/collection/works/37929", 
   "CuratorApproved": "Y", 
-  "Title": "Girl with a Bow", 
-  "DateAcquired": "1978-10-27", 
+  "CreditLine": "Bequest of Helen Acheson", 
   "Date": "(1920s)", 
   "ArtistID": 3408, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "740.1978", 
-  "ArtistBio": "French, 1883\u20131956", 
-  "CreditLine": "Bequest of Helen Acheson", 
+  "ArtistBio": "(French, 1883\u20131956)", 
+  "DateAcquired": "1978-10-27", 
+  "\ufeffTitle": "Girl with a Bow", 
   "ObjectID": "37929"
 }

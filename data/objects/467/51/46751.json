@@ -5,8 +5,7 @@
   "Artist": "Minor White", 
   "URL": "http://www.moma.org/collection/works/46751", 
   "CuratorApproved": "Y", 
-  "Title": "Ritual Branch", 
-  "DateAcquired": "1967-03-07", 
+  "CreditLine": "Purchase", 
   "Date": "1958", 
   "ArtistID": 6342, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "133.1967", 
-  "ArtistBio": "American, 1908\u20131976", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, 1908\u20131976)", 
+  "DateAcquired": "1967-03-07", 
+  "\ufeffTitle": "Ritual Branch", 
   "ObjectID": "46751"
 }

@@ -5,8 +5,7 @@
   "Artist": "Joseph Cornell", 
   "URL": "http://www.moma.org/collection/works/37045", 
   "CuratorApproved": "Y", 
-  "Title": "Allegory of Innocence", 
-  "DateAcquired": "1980-05-13", 
+  "CreditLine": "Purchase", 
   "Date": "(1956)", 
   "ArtistID": 1247, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "464.1980", 
-  "ArtistBio": "American, 1903\u20131972", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, 1903\u20131972)", 
+  "DateAcquired": "1980-05-13", 
+  "\ufeffTitle": "Allegory of Innocence", 
   "ObjectID": "37045"
 }

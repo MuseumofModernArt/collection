@@ -5,8 +5,7 @@
   "Artist": "Pablo Picasso", 
   "URL": "http://www.moma.org/collection/works/67674", 
   "CuratorApproved": "Y", 
-  "Title": "Mourlot: Picasso Lithographe/Paloma and Claude", 
-  "DateAcquired": "1951-05-24", 
+  "CreditLine": "Purchase", 
   "Date": "(1949)", 
   "ArtistID": 4609, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "360.1951.1-2", 
-  "ArtistBio": "Spanish, 1881\u20131973", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(Spanish, 1881\u20131973)", 
+  "DateAcquired": "1951-05-24", 
+  "\ufeffTitle": "Mourlot: Picasso Lithographe/Paloma and Claude", 
   "ObjectID": "67674"
 }

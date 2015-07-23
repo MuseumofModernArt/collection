@@ -5,8 +5,7 @@
   "Artist": "Erich Heckel", 
   "URL": "http://www.moma.org/collection/works/66913", 
   "CuratorApproved": "Y", 
-  "Title": "Portrait of E.G.", 
-  "DateAcquired": "1940-04-05", 
+  "CreditLine": "Gift of Abby Aldrich Rockefeller", 
   "Date": "1920", 
   "ArtistID": 2569, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "323.1940", 
-  "ArtistBio": "German, 1883\u20131970", 
-  "CreditLine": "Gift of Abby Aldrich Rockefeller", 
+  "ArtistBio": "(German, 1883\u20131970)", 
+  "DateAcquired": "1940-04-05", 
+  "\ufeffTitle": "Portrait of E.G. (Bildnis E.G.)", 
   "ObjectID": "66913"
 }

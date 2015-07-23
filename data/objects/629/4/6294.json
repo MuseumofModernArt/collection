@@ -5,8 +5,7 @@
   "Artist": "Joseph Maria Olbrich", 
   "URL": "http://www.moma.org/collection/works/6294", 
   "CuratorApproved": "Y", 
-  "Title": "Poster for the Second Secession Exhibition", 
-  "DateAcquired": "1977-06-01", 
+  "CreditLine": "Acquired by exchange", 
   "Date": "1898", 
   "ArtistID": 4394, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "329.1977", 
-  "ArtistBio": "Austrian, 1867\u20131908", 
-  "CreditLine": "Acquired by exchange", 
+  "ArtistBio": "(Austrian, 1867\u20131908)", 
+  "DateAcquired": "1977-06-01", 
+  "\ufeffTitle": "Poster for the Second Secession Exhibition", 
   "ObjectID": "6294"
 }

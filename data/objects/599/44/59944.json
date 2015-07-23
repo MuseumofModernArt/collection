@@ -5,8 +5,7 @@
   "Artist": "Brice Marden", 
   "URL": "http://www.moma.org/collection/works/59944", 
   "CuratorApproved": "Y", 
-  "Title": "Five Plates", 
-  "DateAcquired": "1975-01-07", 
+  "CreditLine": "Gift of a friend", 
   "Date": "1973", 
   "ArtistID": 3758, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "14.1975.1-5", 
-  "ArtistBio": "American, born 1938", 
-  "CreditLine": "Gift of a friend", 
+  "ArtistBio": "(American, born 1938)", 
+  "DateAcquired": "1975-01-07", 
+  "\ufeffTitle": "Five Plates", 
   "ObjectID": "59944"
 }

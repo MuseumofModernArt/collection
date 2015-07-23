@@ -5,8 +5,7 @@
   "Artist": "Tobia Scarpa", 
   "URL": "http://www.moma.org/collection/works/3012", 
   "CuratorApproved": "Y", 
-  "Title": "Bowl", 
-  "DateAcquired": "1965-04-06", 
+  "CreditLine": "Greta Daniel Design Fund", 
   "Date": "c. 1960", 
   "ArtistID": 5198, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "244.1965", 
-  "ArtistBio": "Italian, born 1935", 
-  "CreditLine": "Greta Daniel Design Fund", 
+  "ArtistBio": "(Italian, born 1935)", 
+  "DateAcquired": "1965-04-06", 
+  "\ufeffTitle": "Bowl", 
   "ObjectID": "3012"
 }

@@ -5,8 +5,7 @@
   "Artist": "Richard Diebenkorn", 
   "URL": "http://www.moma.org/collection/works/36263", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled (Ocean Park)", 
-  "DateAcquired": "1988-10-19", 
+  "CreditLine": "The Denise and Andrew Saul Fund and purchase", 
   "Date": "1986", 
   "ArtistID": 1539, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "318.1988", 
-  "ArtistBio": "American, 1922\u20131993", 
-  "CreditLine": "The Denise and Andrew Saul Fund and purchase", 
+  "ArtistBio": "(American, 1922\u20131993)", 
+  "DateAcquired": "1988-10-19", 
+  "\ufeffTitle": "Untitled (Ocean Park)", 
   "ObjectID": "36263"
 }

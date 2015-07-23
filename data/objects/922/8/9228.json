@@ -1,12 +1,11 @@
 {
   "Medium": "Illustrated book with fifteen lithographs", 
-  "Dimensions": "page  13 15/16 x 19 11/16\" (35 x 50 cm)  Prints:  various dimensions.", 
+  "Dimensions": "page  13 15/16 x 19 11/16\" (35 x 50 cm)\r\nPrints:  various dimensions.", 
   "Classification": "Illustrated Book", 
   "Artist": "Joan Mir\u00f3", 
   "URL": "http://www.moma.org/collection/works/9228", 
   "CuratorApproved": "Y", 
-  "Title": "Le L\u00e9zard aux Plumes D'Or", 
-  "DateAcquired": "1972-02-07", 
+  "CreditLine": "Gift of James Thrall Soby (by exchange)", 
   "Date": "1971", 
   "ArtistID": 4016, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "16.1972.1-15", 
-  "ArtistBio": "Spanish, 1893\u20131983", 
-  "CreditLine": "Gift of James Thrall Soby (by exchange)", 
+  "ArtistBio": "(Spanish, 1893\u20131983)", 
+  "DateAcquired": "1972-02-07", 
+  "\ufeffTitle": "Le L\u00e9zard aux Plumes D'Or", 
   "ObjectID": "9228"
 }

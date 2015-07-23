@@ -5,8 +5,7 @@
   "Artist": "Colin Self", 
   "URL": "http://www.moma.org/collection/works/34231", 
   "CuratorApproved": "Y", 
-  "Title": "Drive, He Said", 
-  "DateAcquired": "1979-05-07", 
+  "CreditLine": "Gift of Carol O. Selle", 
   "Date": "1965", 
   "ArtistID": 5334, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "123.1979", 
-  "ArtistBio": "British, born 1941", 
-  "CreditLine": "Gift of Carol O. Selle", 
+  "ArtistBio": "(British, born 1941)", 
+  "DateAcquired": "1979-05-07", 
+  "\ufeffTitle": "Drive, He Said", 
   "ObjectID": "34231"
 }

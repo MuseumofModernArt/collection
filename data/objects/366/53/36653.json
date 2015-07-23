@@ -5,8 +5,7 @@
   "Artist": "Edward Ruscha", 
   "URL": "http://www.moma.org/collection/works/36653", 
   "CuratorApproved": "Y", 
-  "Title": "Hollywood Study", 
-  "DateAcquired": "1999-10-21", 
+  "CreditLine": "Gift of the artist", 
   "Date": "(1968)", 
   "ArtistID": 5086, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "396.1999", 
-  "ArtistBio": "American, born 1937", 
-  "CreditLine": "Gift of the artist", 
+  "ArtistBio": "(American, born 1937)", 
+  "DateAcquired": "1999-10-21", 
+  "\ufeffTitle": "Hollywood Study", 
   "ObjectID": "36653"
 }

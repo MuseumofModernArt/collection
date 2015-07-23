@@ -5,8 +5,7 @@
   "Artist": "Ray Johnson", 
   "URL": "http://www.moma.org/collection/works/35164", 
   "CuratorApproved": "Y", 
-  "Title": "2nd Marilyn Monroe 1926-1962", 
-  "DateAcquired": "1995-06-14", 
+  "CreditLine": "Frances R. Keech Bequest", 
   "Date": "1967", 
   "ArtistID": 2928, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "189.1995", 
-  "ArtistBio": "American, 1927\u20131995", 
-  "CreditLine": "Frances R. Keech Bequest", 
+  "ArtistBio": "(American, 1927\u20131995)", 
+  "DateAcquired": "1995-06-14", 
+  "\ufeffTitle": "2nd Marilyn Monroe 1926-1962", 
   "ObjectID": "35164"
 }

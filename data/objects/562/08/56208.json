@@ -5,8 +5,7 @@
   "Artist": "Michael Spano", 
   "URL": "http://www.moma.org/collection/works/56208", 
   "CuratorApproved": "Y", 
-  "Title": "Rivington Street, New York", 
-  "DateAcquired": "1983-11-10", 
+  "CreditLine": "Gift of the photographer", 
   "Date": "1981", 
   "ArtistID": 5555, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "702.1983", 
-  "ArtistBio": "American, born 1949", 
-  "CreditLine": "Gift of the photographer", 
+  "ArtistBio": "(American, born 1949)", 
+  "DateAcquired": "1983-11-10", 
+  "\ufeffTitle": "Rivington Street, New York", 
   "ObjectID": "56208"
 }

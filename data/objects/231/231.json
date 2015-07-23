@@ -5,8 +5,7 @@
   "Artist": "Arata Isozaki", 
   "URL": "http://www.moma.org/collection/works/231", 
   "CuratorApproved": "Y", 
-  "Title": "Nara Convention Hall, Nara, Japan  Interior perspective of concert hall", 
-  "DateAcquired": "1993-05-04", 
+  "CreditLine": "Gift of the architect", 
   "Date": "1992", 
   "ArtistID": 2837, 
   "Keywords": [
@@ -20,7 +19,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "148.1993", 
-  "ArtistBio": "Japanese, born 1931", 
-  "CreditLine": "Gift of the architect", 
+  "ArtistBio": "(Japanese, born 1931)", 
+  "DateAcquired": "1993-05-04", 
+  "\ufeffTitle": "Nara Convention Hall, Nara, Japan, Interior perspective of concert hall", 
   "ObjectID": "231"
 }

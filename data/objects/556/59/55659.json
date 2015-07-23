@@ -5,8 +5,7 @@
   "Artist": "An-My L\u00ea", 
   "URL": "http://www.moma.org/collection/works/55659", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled, Mekong Delta", 
-  "DateAcquired": "1997-12-11", 
+  "CreditLine": "Gift of the photographer", 
   "Date": "1994", 
   "ArtistID": 7901, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "624.1997", 
-  "ArtistBio": "American, born Vietnam 1960", 
-  "CreditLine": "Gift of the photographer", 
+  "ArtistBio": "(American, born Vietnam 1960)", 
+  "DateAcquired": "1997-12-11", 
+  "\ufeffTitle": "Untitled, Mekong Delta", 
   "ObjectID": "55659"
 }

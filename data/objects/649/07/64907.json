@@ -1,12 +1,11 @@
 {
-  "Medium": "Lithograph and screenprint with folding cut-outs  ", 
-  "Dimensions": "Composition (irreg.): 22 1/2 x 42 1/2\" (57.1 x 108 cm)  Sheet (irreg.): 22 1/2 x 42 1/2\" (57.1 x 108 cm)", 
+  "Medium": "Lithograph and screenprint with folding cut-outs\r\n", 
+  "Dimensions": "Composition (irreg.): 22 1/2 x 42 1/2\" (57.1 x 108 cm)\r\nSheet (irreg.): 22 1/2 x 42 1/2\" (57.1 x 108 cm)", 
   "Classification": "Print", 
   "Artist": "James Rosenquist", 
   "URL": "http://www.moma.org/collection/works/64907", 
   "CuratorApproved": "Y", 
-  "Title": "Alphabet Avalanche", 
-  "DateAcquired": "1983-01-18", 
+  "CreditLine": "Gift of Mr. and Mrs. Robert G. Berry (through the Associates of the Department of Prints and Illustrated Books)", 
   "Date": "1979", 
   "ArtistID": 5021, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "234.1983", 
-  "ArtistBio": "American, born 1933", 
-  "CreditLine": "Gift of Mr. and Mrs. Robert G. Berry (through the Associates of the Department of Prints and Illustrated Books)", 
+  "ArtistBio": "(American, born 1933)", 
+  "DateAcquired": "1983-01-18", 
+  "\ufeffTitle": "Alphabet Avalanche", 
   "ObjectID": "64907"
 }

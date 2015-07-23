@@ -5,8 +5,7 @@
   "Artist": "Paul Klee", 
   "URL": "http://www.moma.org/collection/works/37016", 
   "CuratorApproved": "Y", 
-  "Title": "Sacred Islands", 
-  "DateAcquired": "1981-11-13", 
+  "CreditLine": "Gift of Philip Johnson", 
   "Date": "1926", 
   "ArtistID": 3130, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "457.1981", 
-  "ArtistBio": "German, born Switzerland. 1879\u20131940", 
-  "CreditLine": "Gift of Philip Johnson", 
+  "ArtistBio": "(German, born Switzerland. 1879\u20131940)", 
+  "DateAcquired": "1981-11-13", 
+  "\ufeffTitle": "Sacred Islands (Heilige Inseln)", 
   "ObjectID": "37016"
 }

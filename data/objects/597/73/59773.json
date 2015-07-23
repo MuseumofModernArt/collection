@@ -1,12 +1,11 @@
 {
   "Medium": "Wood engraving", 
-  "Dimensions": "plate  14 1/2 x 14 1/2\" (36.8 x 36.9 cm)  sheet  22 3/8 x 19 3/4\" (56.9 x 50.2 cm)  22 1/2 x 19 3/4\" (57 x 50.2 cm)", 
+  "Dimensions": "plate  14 1/2 x 14 1/2\" (36.8 x 36.9 cm)\r\nsheet  22 3/8 x 19 3/4\" (56.9 x 50.2 cm)\r\n22 1/2 x 19 3/4\" (57 x 50.2 cm)", 
   "Classification": "Print", 
   "Artist": "John Ferren", 
   "URL": "http://www.moma.org/collection/works/59773", 
   "CuratorApproved": "Y", 
-  "Title": "Sea Forms", 
-  "DateAcquired": "1985-01-30", 
+  "CreditLine": "Gift of Harvey and Fran\u00e7oise Rambach", 
   "Date": "1937", 
   "ArtistID": 1860, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "9.1985", 
-  "ArtistBio": "American, 1905\u20131970", 
-  "CreditLine": "Gift of Harvey and Fran\u00e7oise Rambach", 
+  "ArtistBio": "(American, 1905\u20131970)", 
+  "DateAcquired": "1985-01-30", 
+  "\ufeffTitle": "Sea Forms", 
   "ObjectID": "59773"
 }

@@ -1,12 +1,11 @@
 {
   "Medium": "Dye transfer print", 
-  "Dimensions": "12 7/8 x 19 1/16\" (32.7 x 48.4 cm)  ", 
+  "Dimensions": "12 7/8 x 19 1/16\" (32.7 x 48.4 cm)\r\n", 
   "Classification": "Photograph", 
   "Artist": "Helen Levitt", 
   "URL": "http://www.moma.org/collection/works/50814", 
   "CuratorApproved": "Y", 
-  "Title": "New York", 
-  "DateAcquired": "1975-10-23", 
+  "CreditLine": "Gift of the photographer", 
   "Date": "1971-74", 
   "ArtistID": 3520, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "325.1975", 
-  "ArtistBio": "American, 1913\u20132009", 
-  "CreditLine": "Gift of the photographer", 
+  "ArtistBio": "(American, 1913\u20132009)", 
+  "DateAcquired": "1975-10-23", 
+  "\ufeffTitle": "New York", 
   "ObjectID": "50814"
 }

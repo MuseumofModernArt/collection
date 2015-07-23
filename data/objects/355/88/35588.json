@@ -1,12 +1,11 @@
 {
   "Medium": "Pencil on four sheets of paper on painted wood panel", 
-  "Dimensions": "Overall sheet: 11 7/8 x 38 5/8\" (30.2 x 98.2 cm).  with painted frame:  31 1/2 x 45 1/2\" (80 x 115.6 cm).", 
+  "Dimensions": "Overall sheet: 11 7/8 x 38 5/8\" (30.2 x 98.2 cm).\r\nwith painted frame:  31 1/2 x 45 1/2\" (80 x 115.6 cm).", 
   "Classification": "Drawing", 
   "Artist": "Joseph Beuys", 
   "URL": "http://www.moma.org/collection/works/35588", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1990-05-08", 
+  "CreditLine": "Gift of Agnes Gund and Jo Carole and Ronald S. Lauder", 
   "Date": "(1947) and (1970s)", 
   "ArtistID": 540, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "249.1990.a-d", 
-  "ArtistBio": "German, 1921\u20131986", 
-  "CreditLine": "Gift of Agnes Gund and Jo Carole and Ronald S. Lauder", 
+  "ArtistBio": "(German, 1921\u20131986)", 
+  "DateAcquired": "1990-05-08", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "35588"
 }

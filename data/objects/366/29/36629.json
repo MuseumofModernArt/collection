@@ -5,8 +5,7 @@
   "Artist": "John Piper", 
   "URL": "http://www.moma.org/collection/works/36629", 
   "CuratorApproved": "Y", 
-  "Title": "Setting for Rape of Lucretia", 
-  "DateAcquired": "1960-11-16", 
+  "CreditLine": "Given anonymously", 
   "Date": "(1946)", 
   "ArtistID": 4633, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "389.1960", 
-  "ArtistBio": "British, 1903\u20131992", 
-  "CreditLine": "Given anonymously", 
+  "ArtistBio": "(British, 1903\u20131992)", 
+  "DateAcquired": "1960-11-16", 
+  "\ufeffTitle": "Setting for Rape of Lucretia", 
   "ObjectID": "36629"
 }

@@ -5,8 +5,7 @@
   "Artist": "G\u00fcnther Ssymmank", 
   "URL": "http://www.moma.org/collection/works/4701", 
   "CuratorApproved": "Y", 
-  "Title": "Integra Floor Lamp", 
-  "DateAcquired": "2001-04-30", 
+  "CreditLine": "Gift of the manufacturer", 
   "Date": "1960", 
   "ArtistID": 8585, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "1338.2001", 
-  "ArtistBio": "German, born 1920", 
-  "CreditLine": "Gift of the manufacturer", 
+  "ArtistBio": "(German, born 1920)", 
+  "DateAcquired": "2001-04-30", 
+  "\ufeffTitle": "Integra Floor Lamp", 
   "ObjectID": "4701"
 }

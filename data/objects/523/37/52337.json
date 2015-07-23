@@ -5,8 +5,7 @@
   "Artist": "Todd Webb", 
   "URL": "http://www.moma.org/collection/works/52337", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1959-04-22", 
+  "CreditLine": "Gift of the photographer", 
   "Date": "1951", 
   "ArtistID": 6272, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "388.1959", 
-  "ArtistBio": "American, 1905\u20132000", 
-  "CreditLine": "Gift of the photographer", 
+  "ArtistBio": "(American, 1905\u20132000)", 
+  "DateAcquired": "1959-04-22", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "52337"
 }

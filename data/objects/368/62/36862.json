@@ -5,8 +5,7 @@
   "Artist": "Andr\u00e9 Derain", 
   "URL": "http://www.moma.org/collection/works/36862", 
   "CuratorApproved": "Y", 
-  "Title": "Still Life with Apples", 
-  "DateAcquired": "1974-10-25", 
+  "CreditLine": "Gift of Mr. and Mrs. Alexandre P. Rosenberg", 
   "Date": "(1921)", 
   "ArtistID": 1500, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "430.1974", 
-  "ArtistBio": "French, 1880\u20131954", 
-  "CreditLine": "Gift of Mr. and Mrs. Alexandre P. Rosenberg", 
+  "ArtistBio": "(French, 1880\u20131954)", 
+  "DateAcquired": "1974-10-25", 
+  "\ufeffTitle": "Still Life with Apples", 
   "ObjectID": "36862"
 }

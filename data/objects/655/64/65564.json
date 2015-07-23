@@ -5,8 +5,7 @@
   "Artist": "Pierre Bonnard", 
   "URL": "http://www.moma.org/collection/works/65564", 
   "CuratorApproved": "Y", 
-  "Title": "Boating", 
-  "DateAcquired": "1940-04-05", 
+  "CreditLine": "Gift of Abby Aldrich Rockefeller", 
   "Date": "(c. 1897)", 
   "ArtistID": 665, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "266.1940", 
-  "ArtistBio": "French, 1867\u20131947", 
-  "CreditLine": "Gift of Abby Aldrich Rockefeller", 
+  "ArtistBio": "(French, 1867\u20131947)", 
+  "DateAcquired": "1940-04-05", 
+  "\ufeffTitle": "Boating", 
   "ObjectID": "65564"
 }

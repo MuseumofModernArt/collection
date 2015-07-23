@@ -5,8 +5,7 @@
   "Artist": "Henri Tronquoy", 
   "URL": "http://www.moma.org/collection/works/3319", 
   "CuratorApproved": "Y", 
-  "Title": "Necklace", 
-  "DateAcquired": "1967-04-11", 
+  "CreditLine": "Gift of Mildred Constantine", 
   "Date": "1966", 
   "ArtistID": 5936, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "333.1967", 
-  "ArtistBio": "French", 
-  "CreditLine": "Gift of Mildred Constantine", 
+  "ArtistBio": "(French)", 
+  "DateAcquired": "1967-04-11", 
+  "\ufeffTitle": "Necklace", 
   "ObjectID": "3319"
 }

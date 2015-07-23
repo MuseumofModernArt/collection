@@ -5,8 +5,7 @@
   "Artist": "Berenice Abbott", 
   "URL": "http://www.moma.org/collection/works/50663", 
   "CuratorApproved": "Y", 
-  "Title": "Corner of East 10th Street and Avenue D, Manhattan", 
-  "DateAcquired": "1974-06-04", 
+  "CreditLine": "Given anonymously", 
   "Date": "March 23, 1937", 
   "ArtistID": 41, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "319.1974", 
-  "ArtistBio": "American, 1898\u20131991", 
-  "CreditLine": "Given anonymously", 
+  "ArtistBio": "(American, 1898\u20131991)", 
+  "DateAcquired": "1974-06-04", 
+  "\ufeffTitle": "Corner of East 10th Street and Avenue D, Manhattan", 
   "ObjectID": "50663"
 }

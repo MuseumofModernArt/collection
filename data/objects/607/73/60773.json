@@ -1,12 +1,11 @@
 {
   "Medium": "Lithograph and photolithograph", 
-  "Dimensions": "composition  62 1/4 x 39 13/16\" (158.2 x 101.2 cm)  sheet  62 1/4 x 39 13/16\" (158 x 101.2 cm)", 
+  "Dimensions": "composition  62 1/4 x 39 13/16\" (158.2 x 101.2 cm)\r\nsheet  62 1/4 x 39 13/16\" (158 x 101.2 cm)", 
   "Classification": "Print", 
   "Artist": "Robert Motherwell", 
   "URL": "http://www.moma.org/collection/works/60773", 
   "CuratorApproved": "Y", 
-  "Title": "Bastos", 
-  "DateAcquired": "1995-01-24", 
+  "CreditLine": "The Riva Castleman Endowment Fund and Gift of the Dedalus Foundation", 
   "Date": "(1974-1975)", 
   "ArtistID": 4126, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "42.1995", 
-  "ArtistBio": "American, 1915\u20131991", 
-  "CreditLine": "The Riva Castleman Endowment Fund and Gift of the Dedalus Foundation", 
+  "ArtistBio": "(American, 1915\u20131991)", 
+  "DateAcquired": "1995-01-24", 
+  "\ufeffTitle": "Bastos", 
   "ObjectID": "60773"
 }

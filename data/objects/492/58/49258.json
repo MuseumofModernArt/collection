@@ -5,8 +5,7 @@
   "Artist": "William Henry Fox Talbot", 
   "URL": "http://www.moma.org/collection/works/49258", 
   "CuratorApproved": "Y", 
-  "Title": "Lace", 
-  "DateAcquired": "1989-10-12", 
+  "CreditLine": "Lois and Bruce Zenkel Fund", 
   "Date": "1840s", 
   "ArtistID": 5791, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "232.1989", 
-  "ArtistBio": "British, 1800\u20131877", 
-  "CreditLine": "Lois and Bruce Zenkel Fund", 
+  "ArtistBio": "(British, 1800\u20131877)", 
+  "DateAcquired": "1989-10-12", 
+  "\ufeffTitle": "Lace", 
   "ObjectID": "49258"
 }

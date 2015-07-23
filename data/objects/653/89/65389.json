@@ -1,12 +1,11 @@
 {
   "Medium": "Etching and aquatint", 
-  "Dimensions": "plate  20 1/2 x 27 13/16\" (52.1 x 70.6 cm)  sheet  27 3/4 x 34 1/2\" (70.5 x 87.6 cm)", 
+  "Dimensions": "plate  20 1/2 x 27 13/16\" (52.1 x 70.6 cm)\r\nsheet  27 3/4 x 34 1/2\" (70.5 x 87.6 cm)", 
   "Classification": "Print", 
   "Artist": "Robert Motherwell", 
   "URL": "http://www.moma.org/collection/works/65389", 
   "CuratorApproved": "Y", 
-  "Title": "Signs on White", 
-  "DateAcquired": "1982-10-26", 
+  "CreditLine": "Gift of the artist", 
   "Date": "(1981)", 
   "ArtistID": 4126, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "257.1982", 
-  "ArtistBio": "American, 1915\u20131991", 
-  "CreditLine": "Gift of the artist", 
+  "ArtistBio": "(American, 1915\u20131991)", 
+  "DateAcquired": "1982-10-26", 
+  "\ufeffTitle": "Signs on White", 
   "ObjectID": "65389"
 }

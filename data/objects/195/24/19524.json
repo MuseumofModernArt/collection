@@ -1,12 +1,11 @@
 {
   "Medium": "Portfolio of 30 lithographs", 
-  "Dimensions": "Page:  18 1/2 x 13 1/8\" (47 x 33.3 cm)  Prints:  various dimensions.", 
+  "Dimensions": "Page:  18 1/2 x 13 1/8\" (47 x 33.3 cm)\r\nPrints:  various dimensions.", 
   "Classification": "Illustrated Book", 
   "Artist": "James Brown", 
   "URL": "http://www.moma.org/collection/works/19524", 
   "CuratorApproved": "Y", 
-  "Title": "Self Portraits", 
-  "DateAcquired": "1983-09-21", 
+  "CreditLine": "Gift of Lucio Amelio", 
   "Date": "(1983)", 
   "ArtistID": 806, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "608.1983.1-30", 
-  "ArtistBio": "American, born 1951", 
-  "CreditLine": "Gift of Lucio Amelio", 
+  "ArtistBio": "(American, born 1951)", 
+  "DateAcquired": "1983-09-21", 
+  "\ufeffTitle": "Self Portraits", 
   "ObjectID": "19524"
 }

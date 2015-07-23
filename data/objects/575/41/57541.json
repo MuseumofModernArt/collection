@@ -5,8 +5,7 @@
   "Artist": "Nicholas Nixon", 
   "URL": "http://www.moma.org/collection/works/57541", 
   "CuratorApproved": "Y", 
-  "Title": "Nahant Beach, Lynn, Massachusetts", 
-  "DateAcquired": "1979-10-11", 
+  "CreditLine": "Joseph G. Mayer Fund", 
   "Date": "1979", 
   "ArtistID": 4315, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "1020.1979", 
-  "ArtistBio": "American, born 1947", 
-  "CreditLine": "Joseph G. Mayer Fund", 
+  "ArtistBio": "(American, born 1947)", 
+  "DateAcquired": "1979-10-11", 
+  "\ufeffTitle": "Nahant Beach, Lynn, Massachusetts", 
   "ObjectID": "57541"
 }

@@ -5,8 +5,7 @@
   "Artist": "Abelardo Morell", 
   "URL": "http://www.moma.org/collection/works/47989", 
   "CuratorApproved": "Y", 
-  "Title": "Brady Sitting", 
-  "DateAcquired": "1992-04-02", 
+  "CreditLine": "The Family of Man Fund", 
   "Date": "1989", 
   "ArtistID": 6917, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "186.1992", 
-  "ArtistBio": "American, born Cuba 1948", 
-  "CreditLine": "The Family of Man Fund", 
+  "ArtistBio": "(American, born Cuba 1948)", 
+  "DateAcquired": "1992-04-02", 
+  "\ufeffTitle": "Brady Sitting", 
   "ObjectID": "47989"
 }

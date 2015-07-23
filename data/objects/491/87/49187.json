@@ -5,8 +5,7 @@
   "Artist": "Alfred Stieglitz", 
   "URL": "http://www.moma.org/collection/works/49187", 
   "CuratorApproved": "Y", 
-  "Title": "Excavating, New York", 
-  "DateAcquired": "1941-01-16", 
+  "CreditLine": "Gift of A. Conger Goodyear", 
   "Date": "1911", 
   "ArtistID": 5664, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "230.1941", 
-  "ArtistBio": "American, 1864\u20131946", 
-  "CreditLine": "Gift of A. Conger Goodyear", 
+  "ArtistBio": "(American, 1864\u20131946)", 
+  "DateAcquired": "1941-01-16", 
+  "\ufeffTitle": "Excavating, New York", 
   "ObjectID": "49187"
 }

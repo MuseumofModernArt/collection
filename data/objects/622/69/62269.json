@@ -5,8 +5,7 @@
   "Artist": "Barbara Bloom", 
   "URL": "http://www.moma.org/collection/works/62269", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled from the series WORK FOR THE BLIND", 
-  "DateAcquired": "1989-05-30", 
+  "CreditLine": "John B. Turner Fund", 
   "Date": "(1985)", 
   "ArtistID": 608, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "124.1989", 
-  "ArtistBio": "American, born 1951", 
-  "CreditLine": "John B. Turner Fund", 
+  "ArtistBio": "(American, born 1951)", 
+  "DateAcquired": "1989-05-30", 
+  "\ufeffTitle": "Untitled from the series Work for the Blind", 
   "ObjectID": "62269"
 }

@@ -5,8 +5,7 @@
   "Artist": "Times Wide World Photos", 
   "URL": "http://www.moma.org/collection/works/58756", 
   "CuratorApproved": "Y", 
-  "Title": "Memorial Celebration at the Tannenberg Monument", 
-  "DateAcquired": "2001-06-14", 
+  "CreditLine": "The New York Times Collection", 
   "Date": "August 27, 1933", 
   "ArtistID": 8632, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "2163.2001", 
-  "ArtistBio": "American, active 1919\u20131941", 
-  "CreditLine": "The New York Times Collection", 
+  "ArtistBio": "(American, active 1919\u20131941)", 
+  "DateAcquired": "2001-06-14", 
+  "\ufeffTitle": "\"Memorial Celebration at the Tannenberg Monument\"", 
   "ObjectID": "58756"
 }

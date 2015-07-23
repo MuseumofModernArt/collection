@@ -5,8 +5,7 @@
   "Artist": "Yusaku Kamekura", 
   "URL": "http://www.moma.org/collection/works/8783", 
   "CuratorApproved": "Y", 
-  "Title": "Tokyo 1964", 
-  "DateAcquired": "2000-12-11", 
+  "CreditLine": "Gift of the designer", 
   "Date": "1962", 
   "ArtistID": 2974, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "1485.2000", 
-  "ArtistBio": "Japanese, 1915\u20131997", 
-  "CreditLine": "Gift of the designer", 
+  "ArtistBio": "(Japanese, 1915\u20131997)", 
+  "DateAcquired": "2000-12-11", 
+  "\ufeffTitle": "Tokyo 1964", 
   "ObjectID": "8783"
 }

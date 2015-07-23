@@ -5,8 +5,7 @@
   "Artist": "Jan Groover", 
   "URL": "http://www.moma.org/collection/works/51133", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1994-06-09", 
+  "CreditLine": "Lois and Bruce Zenkel Fund", 
   "Date": "1979", 
   "ArtistID": 2358, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "336.1994.x1-x2", 
-  "ArtistBio": "American, 1943\u20132012", 
-  "CreditLine": "Lois and Bruce Zenkel Fund", 
+  "ArtistBio": "(American, 1943\u20132012)", 
+  "DateAcquired": "1994-06-09", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "51133"
 }

@@ -5,8 +5,7 @@
   "Artist": "Ray Stubblebine/Associated Press", 
   "URL": "http://www.moma.org/collection/works/58705", 
   "CuratorApproved": "Y", 
-  "Title": "Uniting Their Thoughts", 
-  "DateAcquired": "2001-06-14", 
+  "CreditLine": "The New York Times Collection", 
   "Date": "1971", 
   "ArtistID": 8626, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "2112.2001", 
-  "ArtistBio": "American, born 1946", 
-  "CreditLine": "The New York Times Collection", 
+  "ArtistBio": "(American, born 1946)", 
+  "DateAcquired": "2001-06-14", 
+  "\ufeffTitle": "\"Uniting Their Thoughts\"", 
   "ObjectID": "58705"
 }

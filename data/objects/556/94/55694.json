@@ -5,8 +5,7 @@
   "Artist": "Ralph Steiner", 
   "URL": "http://www.moma.org/collection/works/55694", 
   "CuratorApproved": "Y", 
-  "Title": "Mr. Warren", 
-  "DateAcquired": "1970-10-27", 
+  "CreditLine": "Gift of the photographer", 
   "Date": "c. 1935", 
   "ArtistID": 5631, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "631.1970", 
-  "ArtistBio": "American, 1899\u20131986", 
-  "CreditLine": "Gift of the photographer", 
+  "ArtistBio": "(American, 1899\u20131986)", 
+  "DateAcquired": "1970-10-27", 
+  "\ufeffTitle": "Mr. Warren", 
   "ObjectID": "55694"
 }

@@ -1,12 +1,11 @@
 {
   "Medium": "Photoengraving", 
-  "Dimensions": "composition  7 15/16 x 7 13/16\" (20.2 x 19.8 cm)  plate  9 5/16 x 8 13/16\" (23.6 x 22.4 cm)  sheet  21 3/8 x 15 1/8\" (54 x 38.4 cm)", 
+  "Dimensions": "composition  7 15/16 x 7 13/16\" (20.2 x 19.8 cm)\r\nplate  9 5/16 x 8 13/16\" (23.6 x 22.4 cm)\r\nsheet  21 3/8 x 15 1/8\" (54 x 38.4 cm)", 
   "Classification": "Print", 
   "Artist": "Gerhard Richter", 
   "URL": "http://www.moma.org/collection/works/60285", 
   "CuratorApproved": "Y", 
-  "Title": "Sea Landscape", 
-  "DateAcquired": "1972-02-07", 
+  "CreditLine": "Gift of Mr. and Mrs. Wolfgang Schoenborn", 
   "Date": "(19)71", 
   "ArtistID": 4907, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "23.1972", 
-  "ArtistBio": "German, born 1932", 
-  "CreditLine": "Gift of Mr. and Mrs. Wolfgang Schoenborn", 
+  "ArtistBio": "(German, born 1932)", 
+  "DateAcquired": "1972-02-07", 
+  "\ufeffTitle": "Sea Landscape", 
   "ObjectID": "60285"
 }

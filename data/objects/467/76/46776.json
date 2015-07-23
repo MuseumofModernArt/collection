@@ -5,8 +5,7 @@
   "Artist": "James Leon Williams", 
   "URL": "http://www.moma.org/collection/works/46776", 
   "CuratorApproved": "Y", 
-  "Title": "Entrance to the Banquet Hall", 
-  "DateAcquired": "1977-03-10", 
+  "CreditLine": "Purchase", 
   "Date": "1891", 
   "ArtistID": 6380, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "135.1977", 
-  "ArtistBio": "American, 1852\u20131920", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, 1852\u20131920)", 
+  "DateAcquired": "1977-03-10", 
+  "\ufeffTitle": "Entrance to the Banquet Hall", 
   "ObjectID": "46776"
 }

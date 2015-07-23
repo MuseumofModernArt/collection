@@ -1,12 +1,11 @@
 {
   "Medium": "Lithograph", 
-  "Dimensions": "(sl. irreg) composition  12 15/16 x 8 7/8\" (33 x 22.6 cm)  (sl. irreg) sheet  12 15/16 x 8 7/8\" (33 x 22.6 cm)", 
+  "Dimensions": "(sl. irreg) composition  12 15/16 x 8 7/8\" (33 x 22.6 cm)\r\n(sl. irreg) sheet  12 15/16 x 8 7/8\" (33 x 22.6 cm)", 
   "Classification": "Print", 
   "Artist": "Carroll Dunham", 
   "URL": "http://www.moma.org/collection/works/63495", 
   "CuratorApproved": "Y", 
-  "Title": "Color Message B", 
-  "DateAcquired": "1986-05-20", 
+  "CreditLine": "Gift of Emily Fisher Landau", 
   "Date": "1985-86", 
   "ArtistID": 1652, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "169.1986", 
-  "ArtistBio": "American, born 1949", 
-  "CreditLine": "Gift of Emily Fisher Landau", 
+  "ArtistBio": "(American, born 1949)", 
+  "DateAcquired": "1986-05-20", 
+  "\ufeffTitle": "Color Message B", 
   "ObjectID": "63495"
 }

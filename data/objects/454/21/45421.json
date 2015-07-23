@@ -5,8 +5,7 @@
   "Artist": "Walker Evans", 
   "URL": "http://www.moma.org/collection/works/45421", 
   "CuratorApproved": "Y", 
-  "Title": "Barber Shop, Southern Town", 
-  "DateAcquired": "1971-03-02", 
+  "CreditLine": "Stephen R. Currier Memorial Fund", 
   "Date": "1936", 
   "ArtistID": 1777, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "66.1971", 
-  "ArtistBio": "American, 1903\u20131975", 
-  "CreditLine": "Stephen R. Currier Memorial Fund", 
+  "ArtistBio": "(American, 1903\u20131975)", 
+  "DateAcquired": "1971-03-02", 
+  "\ufeffTitle": "Barber Shop, Southern Town", 
   "ObjectID": "45421"
 }

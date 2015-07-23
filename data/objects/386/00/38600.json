@@ -5,8 +5,7 @@
   "Artist": "Fernand L\u00e9ger", 
   "URL": "http://www.moma.org/collection/works/38600", 
   "CuratorApproved": "Y", 
-  "Title": "The Game of Cards", 
-  "DateAcquired": "1975-01-24", 
+  "CreditLine": "Gift of Mr. and Mrs. Daniel Saidenberg", 
   "Date": "1916", 
   "ArtistID": 6624, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "1370.1974", 
-  "ArtistBio": "French, 1881\u20131955", 
-  "CreditLine": "Gift of Mr. and Mrs. Daniel Saidenberg", 
+  "ArtistBio": "(French, 1881\u20131955)", 
+  "DateAcquired": "1975-01-24", 
+  "\ufeffTitle": "The Game of Cards", 
   "ObjectID": "38600"
 }

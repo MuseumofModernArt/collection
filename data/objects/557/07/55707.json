@@ -5,8 +5,7 @@
   "Artist": "Francis Frith", 
   "URL": "http://www.moma.org/collection/works/55707", 
   "CuratorApproved": "Y", 
-  "Title": "Nazareth, from the East, with the Well of the Virgin (#595)", 
-  "DateAcquired": "1976-12-08", 
+  "CreditLine": "Anonymous gift", 
   "Date": "c. 1860", 
   "ArtistID": 2015, 
   "Keywords": [
@@ -20,7 +19,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "633.1976", 
-  "ArtistBio": "British, 1822\u20131898", 
-  "CreditLine": "Anonymous gift", 
+  "ArtistBio": "(British, 1822\u20131898)", 
+  "DateAcquired": "1976-12-08", 
+  "\ufeffTitle": "Nazareth, from the East, with the Well of the Virgin (#595)", 
   "ObjectID": "55707"
 }

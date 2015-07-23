@@ -5,8 +5,7 @@
   "Artist": "William Eggleston", 
   "URL": "http://www.moma.org/collection/works/51630", 
   "CuratorApproved": "Y", 
-  "Title": "Memphis", 
-  "DateAcquired": "1978-05-11", 
+  "CreditLine": "Purchase", 
   "Date": "c. 1969", 
   "ArtistID": 1690, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "356.1978", 
-  "ArtistBio": "American, born 1939", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, born 1939)", 
+  "DateAcquired": "1978-05-11", 
+  "\ufeffTitle": "Memphis", 
   "ObjectID": "51630"
 }

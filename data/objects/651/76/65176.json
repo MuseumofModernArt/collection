@@ -1,12 +1,11 @@
 {
   "Medium": "Lithograph", 
-  "Dimensions": "Composition (irreg.): 6 1/2 x 5 7/16\" (16.5 x 13.8 cm)  Sheet: 11 5/8 x 9 1/16\" (29.6 x 23 cm)", 
+  "Dimensions": "Composition (irreg.): 6 1/2 x 5 7/16\" (16.5 x 13.8 cm)\r\nSheet: 11 5/8 x 9 1/16\" (29.6 x 23 cm)", 
   "Classification": "Print", 
   "Artist": "Odilon Redon", 
   "URL": "http://www.moma.org/collection/works/65176", 
   "CuratorApproved": "Y", 
-  "Title": "Paul S\u00e9rusier", 
-  "DateAcquired": "1997-05-28", 
+  "CreditLine": "Gift of Louise Bourgeois", 
   "Date": "1903", 
   "ArtistID": 4840, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "247.1997", 
-  "ArtistBio": "French, 1840\u20131916", 
-  "CreditLine": "Gift of Louise Bourgeois", 
+  "ArtistBio": "(French, 1840\u20131916)", 
+  "DateAcquired": "1997-05-28", 
+  "\ufeffTitle": "Paul S\u00e9rusier", 
   "ObjectID": "65176"
 }

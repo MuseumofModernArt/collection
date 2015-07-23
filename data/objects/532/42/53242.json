@@ -5,8 +5,7 @@
   "Artist": "Betty Hahn", 
   "URL": "http://www.moma.org/collection/works/53242", 
   "CuratorApproved": "Y", 
-  "Title": "Starry Night Variation Number Two", 
-  "DateAcquired": "1986-12-18", 
+  "CreditLine": "Purchased with funds given anonymously", 
   "Date": "1977", 
   "ArtistID": 2452, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "427.1986", 
-  "ArtistBio": "American, born 1940", 
-  "CreditLine": "Purchased with funds given anonymously", 
+  "ArtistBio": "(American, born 1940)", 
+  "DateAcquired": "1986-12-18", 
+  "\ufeffTitle": "Starry Night Variation Number Two", 
   "ObjectID": "53242"
 }

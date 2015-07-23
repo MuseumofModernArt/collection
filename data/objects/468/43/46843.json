@@ -5,8 +5,7 @@
   "Artist": "Bruce Davidson", 
   "URL": "http://www.moma.org/collection/works/46843", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1959-04-22", 
+  "CreditLine": "Gift of the photographer and Magnum Photos, Inc.", 
   "Date": "1948-58", 
   "ArtistID": 1398, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "142.1959", 
-  "ArtistBio": "American, born 1933", 
-  "CreditLine": "Gift of the photographer and Magnum Photos, Inc.", 
+  "ArtistBio": "(American, born 1933)", 
+  "DateAcquired": "1959-04-22", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "46843"
 }

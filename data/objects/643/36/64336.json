@@ -5,8 +5,7 @@
   "Artist": "Pablo Picasso", 
   "URL": "http://www.moma.org/collection/works/64336", 
   "CuratorApproved": "Y", 
-  "Title": "Picasso Peintures 1955-1956 (Poster for the 1957 Exhibition)", 
-  "DateAcquired": "1965-04-06", 
+  "CreditLine": "Gift of Homer Kripke", 
   "Date": "(1957)", 
   "ArtistID": 4609, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "202.1965", 
-  "ArtistBio": "Spanish, 1881\u20131973", 
-  "CreditLine": "Gift of Homer Kripke", 
+  "ArtistBio": "(Spanish, 1881\u20131973)", 
+  "DateAcquired": "1965-04-06", 
+  "\ufeffTitle": "Picasso Peintures 1955-1956 (Poster for the 1957 Exhibition)", 
   "ObjectID": "64336"
 }

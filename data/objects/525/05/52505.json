@@ -5,8 +5,7 @@
   "Artist": "Michael Spano", 
   "URL": "http://www.moma.org/collection/works/52505", 
   "CuratorApproved": "Y", 
-  "Title": "New Haven, Connecticut", 
-  "DateAcquired": "1978-05-11", 
+  "CreditLine": "Gilman Foundation Fund", 
   "Date": "1977", 
   "ArtistID": 5555, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "395.1978", 
-  "ArtistBio": "American, born 1949", 
-  "CreditLine": "Gilman Foundation Fund", 
+  "ArtistBio": "(American, born 1949)", 
+  "DateAcquired": "1978-05-11", 
+  "\ufeffTitle": "New Haven, Connecticut", 
   "ObjectID": "52505"
 }

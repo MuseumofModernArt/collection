@@ -5,8 +5,7 @@
   "Artist": "Coors Porcelain Co., Golden, CO", 
   "URL": "http://www.moma.org/collection/works/2656", 
   "CuratorApproved": "Y", 
-  "Title": "Mortar", 
-  "DateAcquired": "1950-06-08", 
+  "CreditLine": "Gift of Eimer & Amend", 
   "Date": "1920s", 
   "Keywords": [
     "online art collection", 
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "206.1950", 
-  "ArtistBio": "American, est. 1910", 
-  "CreditLine": "Gift of Eimer & Amend", 
+  "ArtistBio": "(American, est. 1910)", 
+  "DateAcquired": "1950-06-08", 
+  "\ufeffTitle": "Mortar", 
   "ObjectID": "2656"
 }

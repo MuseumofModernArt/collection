@@ -5,8 +5,7 @@
   "Artist": "Bea Maddock", 
   "URL": "http://www.moma.org/collection/works/67534", 
   "CuratorApproved": "Y", 
-  "Title": "Square", 
-  "DateAcquired": "1973-10-24", 
+  "CreditLine": "Purchase", 
   "Date": "1972", 
   "ArtistID": 3678, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "353.1973", 
-  "ArtistBio": "Australian, born 1934", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(Australian, born 1934)", 
+  "DateAcquired": "1973-10-24", 
+  "\ufeffTitle": "Square", 
   "ObjectID": "67534"
 }

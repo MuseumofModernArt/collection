@@ -5,8 +5,7 @@
   "Artist": "Marcel Janco", 
   "URL": "http://www.moma.org/collection/works/65997", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled (Street Band)", 
-  "DateAcquired": "1937-12-03", 
+  "CreditLine": "Gift of Abby Aldrich Rockefeller", 
   "Date": "1915 or 1916", 
   "ArtistID": 2881, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "284.1937", 
-  "ArtistBio": "Israeli, 1895\u20131984", 
-  "CreditLine": "Gift of Abby Aldrich Rockefeller", 
+  "ArtistBio": "(Israeli, 1895\u20131984)", 
+  "DateAcquired": "1937-12-03", 
+  "\ufeffTitle": "Untitled (Street Band)", 
   "ObjectID": "65997"
 }

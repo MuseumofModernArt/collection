@@ -5,8 +5,7 @@
   "Artist": "Peter Schlumbohm", 
   "URL": "http://www.moma.org/collection/works/2634", 
   "CuratorApproved": "Y", 
-  "Title": "Filterjet Fan", 
-  "DateAcquired": "1958-12-04", 
+  "CreditLine": "Gift of the manufacturer", 
   "Date": "1951", 
   "ArtistID": 5225, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "203.1958.1-2", 
-  "ArtistBio": "American, born Germany. 1896\u20131962", 
-  "CreditLine": "Gift of the manufacturer", 
+  "ArtistBio": "(American, born Germany. 1896\u20131962)", 
+  "DateAcquired": "1958-12-04", 
+  "\ufeffTitle": "Filterjet Fan", 
   "ObjectID": "2634"
 }

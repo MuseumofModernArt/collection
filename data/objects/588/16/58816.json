@@ -5,8 +5,7 @@
   "Artist": "U.S. Army Air Force", 
   "URL": "http://www.moma.org/collection/works/58816", 
   "CuratorApproved": "Y", 
-  "Title": "Over Paris", 
-  "DateAcquired": "2001-06-14", 
+  "CreditLine": "The New York Times Collection", 
   "Date": "1943-1944", 
   "ArtistID": 8639, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "2223.2001", 
-  "ArtistBio": "American", 
-  "CreditLine": "The New York Times Collection", 
+  "ArtistBio": "(American)", 
+  "DateAcquired": "2001-06-14", 
+  "\ufeffTitle": "Over Paris", 
   "ObjectID": "58816"
 }

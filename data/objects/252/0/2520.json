@@ -5,8 +5,7 @@
   "Artist": "Arne Jacobsen", 
   "URL": "http://www.moma.org/collection/works/2520", 
   "CuratorApproved": "Y", 
-  "Title": "Table", 
-  "DateAcquired": "1955-04-06", 
+  "CreditLine": "Gift of Richards Morgenthau Co.", 
   "Date": "c.1952", 
   "ArtistID": 2869, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "139.1955", 
-  "ArtistBio": "Danish, 1902\u20131971", 
-  "CreditLine": "Gift of Richards Morgenthau Co.", 
+  "ArtistBio": "(Danish, 1902\u20131971)", 
+  "DateAcquired": "1955-04-06", 
+  "\ufeffTitle": "Table", 
   "ObjectID": "2520"
 }

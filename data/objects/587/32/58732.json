@@ -5,8 +5,7 @@
   "Artist": "Times Wide World Photos", 
   "URL": "http://www.moma.org/collection/works/58732", 
   "CuratorApproved": "Y", 
-  "Title": "Colonel Lindbergh Teaching 'Airmanship' to America", 
-  "DateAcquired": "2001-06-14", 
+  "CreditLine": "The New York Times Collection", 
   "Date": "c. 1928", 
   "ArtistID": 8632, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "2139.2001", 
-  "ArtistBio": "American, active 1919\u20131941", 
-  "CreditLine": "The New York Times Collection", 
+  "ArtistBio": "(American, active 1919\u20131941)", 
+  "DateAcquired": "2001-06-14", 
+  "\ufeffTitle": "\"Colonel Lindbergh Teaching 'Airmanship' to America\"", 
   "ObjectID": "58732"
 }

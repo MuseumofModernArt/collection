@@ -5,8 +5,7 @@
   "Artist": "Larry Rivers", 
   "URL": "http://www.moma.org/collection/works/21657", 
   "CuratorApproved": "Y", 
-  "Title": "Title page from Stones", 
-  "DateAcquired": "1959-10-15", 
+  "CreditLine": "Gift of Mr. and Mrs. E. Powis Jones", 
   "Date": "1959 (published 1960)", 
   "ArtistID": 4945, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "696.1959.1", 
-  "ArtistBio": "American, 1923\u20132002", 
-  "CreditLine": "Gift of Mr. and Mrs. E. Powis Jones", 
+  "ArtistBio": "(American, 1923\u20132002)", 
+  "DateAcquired": "1959-10-15", 
+  "\ufeffTitle": "Title page from Stones", 
   "ObjectID": "21657"
 }

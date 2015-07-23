@@ -5,8 +5,7 @@
   "Artist": "Makio Hasuike", 
   "URL": "http://www.moma.org/collection/works/3297", 
   "CuratorApproved": "Y", 
-  "Title": "Cucciolo Toilet Brush Holder", 
-  "DateAcquired": "1977-06-01", 
+  "CreditLine": "Gift of IDG Marketing Ltd.", 
   "Date": "1976", 
   "ArtistID": 2535, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "325.1977.a-b", 
-  "ArtistBio": "Japanese, born 1938", 
-  "CreditLine": "Gift of IDG Marketing Ltd.", 
+  "ArtistBio": "(Japanese, born 1938)", 
+  "DateAcquired": "1977-06-01", 
+  "\ufeffTitle": "Cucciolo Toilet Brush Holder", 
   "ObjectID": "3297"
 }

@@ -5,8 +5,7 @@
   "Artist": "Robert Delaunay", 
   "URL": "http://www.moma.org/collection/works/64929", 
   "CuratorApproved": "Y", 
-  "Title": "La Tour (The Eiffel Tower)", 
-  "DateAcquired": "1935-11-12", 
+  "CreditLine": "Abby Aldrich Rockefeller Fund", 
   "Date": "1925", 
   "ArtistID": 1479, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "236.1935", 
-  "ArtistBio": "French, 1885\u20131941", 
-  "CreditLine": "Abby Aldrich Rockefeller Fund", 
+  "ArtistBio": "(French, 1885\u20131941)", 
+  "DateAcquired": "1935-11-12", 
+  "\ufeffTitle": "La Tour (The Eiffel Tower)", 
   "ObjectID": "64929"
 }

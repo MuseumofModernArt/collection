@@ -5,8 +5,7 @@
   "Artist": "Wols (A. O. Wolfgang Schulze)", 
   "URL": "http://www.moma.org/collection/works/17441", 
   "CuratorApproved": "Y", 
-  "Title": "Visages", 
-  "DateAcquired": "1949-09-29", 
+  "CreditLine": "Henry Church Fund", 
   "Date": "1948", 
   "ArtistID": 6432, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "457.1949.1-4", 
-  "ArtistBio": "German, 1913\u20131951", 
-  "CreditLine": "Henry Church Fund", 
+  "ArtistBio": "(German, 1913\u20131951)", 
+  "DateAcquired": "1949-09-29", 
+  "\ufeffTitle": "Visages", 
   "ObjectID": "17441"
 }

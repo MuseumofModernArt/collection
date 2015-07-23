@@ -5,8 +5,7 @@
   "Artist": "Carlo Scarpa", 
   "URL": "http://www.moma.org/collection/works/3774", 
   "CuratorApproved": "Y", 
-  "Title": "Ashtrays", 
-  "DateAcquired": "1938-11-01", 
+  "CreditLine": "Gift of Lenart Import, Ltd.", 
   "Date": "1935", 
   "ArtistID": 5197, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "405.1938.2", 
-  "ArtistBio": "Italian, 1906\u20131978", 
-  "CreditLine": "Gift of Lenart Import, Ltd.", 
+  "ArtistBio": "(Italian, 1906\u20131978)", 
+  "DateAcquired": "1938-11-01", 
+  "\ufeffTitle": "Ashtrays", 
   "ObjectID": "3774"
 }

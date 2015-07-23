@@ -1,12 +1,11 @@
 {
-  "Medium": "Photoetching, aquatint and engraving  ", 
+  "Medium": "Photoetching, aquatint and engraving\r\n", 
   "Dimensions": "plate: 21 3/16 x 15 13/16\" (53.8 x 40.2 cm); sheet: 29 1/2 x 22 3/8\" (75 x 56.9 cm)", 
   "Classification": "Print", 
   "Artist": "Richard Hamilton", 
   "URL": "http://www.moma.org/collection/works/64039", 
   "CuratorApproved": "Y", 
-  "Title": "Fin MacCool", 
-  "DateAcquired": "1984-05-23", 
+  "CreditLine": "Abby Aldrich Rockefeller Fund", 
   "Date": "1983", 
   "ArtistID": 2481, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "188.1984", 
-  "ArtistBio": "British, 1922\u20132011", 
-  "CreditLine": "Abby Aldrich Rockefeller Fund", 
+  "ArtistBio": "(British, 1922\u20132011)", 
+  "DateAcquired": "1984-05-23", 
+  "\ufeffTitle": "Fin MacCool", 
   "ObjectID": "64039"
 }

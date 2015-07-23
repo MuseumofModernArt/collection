@@ -1,12 +1,11 @@
 {
   "Medium": "Illustrated book with nine etchings", 
-  "Dimensions": "ea. plate  16 5/16 x 10 3/16\" (41.5 x 25.9 cm)  page  22 7/16 x 14 15/16\" (57 x 38 cm)", 
+  "Dimensions": "ea. plate  16 5/16 x 10 3/16\" (41.5 x 25.9 cm)\r\npage  22 7/16 x 14 15/16\" (57 x 38 cm)", 
   "Classification": "Illustrated Book", 
   "Artist": "Vladimir Velickovic", 
   "URL": "http://www.moma.org/collection/works/17448", 
   "CuratorApproved": "Y", 
-  "Title": "La Prison Chiffr\u00e9e du Temps", 
-  "DateAcquired": "1978-05-22", 
+  "CreditLine": "Mr. and Mrs. Bernard J. Reis Fund", 
   "Date": "(1977)", 
   "ArtistID": 6125, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "458.1978.1-9", 
-  "ArtistBio": "Yugoslav, born 1935", 
-  "CreditLine": "Mr. and Mrs. Bernard J. Reis Fund", 
+  "ArtistBio": "(Yugoslav, born 1935)", 
+  "DateAcquired": "1978-05-22", 
+  "\ufeffTitle": "La Prison Chiffr\u00e9e du Temps", 
   "ObjectID": "17448"
 }

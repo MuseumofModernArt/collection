@@ -5,8 +5,7 @@
   "Artist": "Nicholas Nixon", 
   "URL": "http://www.moma.org/collection/works/53275", 
   "CuratorApproved": "Y", 
-  "Title": "The Brown Sisters, Brighton, Massachusetts", 
-  "DateAcquired": "1986-12-18", 
+  "CreditLine": "Gift of the artist", 
   "Date": "1985", 
   "ArtistID": 4315, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "430.1986", 
-  "ArtistBio": "American, born 1947", 
-  "CreditLine": "Gift of the artist", 
+  "ArtistBio": "(American, born 1947)", 
+  "DateAcquired": "1986-12-18", 
+  "\ufeffTitle": "The Brown Sisters, Brighton, Massachusetts", 
   "ObjectID": "53275"
 }

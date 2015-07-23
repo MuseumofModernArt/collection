@@ -5,8 +5,7 @@
   "Artist": "Erich Heckel", 
   "URL": "http://www.moma.org/collection/works/64788", 
   "CuratorApproved": "Y", 
-  "Title": "Interior with Two Figures", 
-  "DateAcquired": "1955-10-10", 
+  "CreditLine": "Purchase", 
   "Date": "1911", 
   "ArtistID": 2569, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "229.1955", 
-  "ArtistBio": "German, 1883\u20131970", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(German, 1883\u20131970)", 
+  "DateAcquired": "1955-10-10", 
+  "\ufeffTitle": "Interior with Two Figures (Interieur mit zwei Figuren)", 
   "ObjectID": "64788"
 }

@@ -5,8 +5,7 @@
   "Artist": "Sage Sohier", 
   "URL": "http://www.moma.org/collection/works/54734", 
   "CuratorApproved": "Y", 
-  "Title": "Washington, D.C.", 
-  "DateAcquired": "1981-12-17", 
+  "CreditLine": "Acquired with matching funds from The Lauder Foundation and the National Endowment for the Arts", 
   "Date": "1980", 
   "ArtistID": 5508, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "527.1981", 
-  "ArtistBio": "American, born 1954", 
-  "CreditLine": "Acquired with matching funds from The Lauder Foundation and the National Endowment for the Arts", 
+  "ArtistBio": "(American, born 1954)", 
+  "DateAcquired": "1981-12-17", 
+  "\ufeffTitle": "Washington, D.C.", 
   "ObjectID": "54734"
 }

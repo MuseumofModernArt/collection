@@ -5,8 +5,7 @@
   "Artist": "Roy DeCarava", 
   "URL": "http://www.moma.org/collection/works/51805", 
   "CuratorApproved": "Y", 
-  "Title": "Shirley Embracing Sam", 
-  "DateAcquired": "1998-06-11", 
+  "CreditLine": "Gift of the photographer", 
   "Date": "1952", 
   "ArtistID": 1422, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "363.1998", 
-  "ArtistBio": "American, 1919\u20132009", 
-  "CreditLine": "Gift of the photographer", 
+  "ArtistBio": "(American, 1919\u20132009)", 
+  "DateAcquired": "1998-06-11", 
+  "\ufeffTitle": "Shirley Embracing Sam", 
   "ObjectID": "51805"
 }

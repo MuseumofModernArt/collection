@@ -5,8 +5,7 @@
   "Artist": "Unknown Artist", 
   "URL": "http://www.moma.org/collection/works/6544", 
   "CuratorApproved": "Y", 
-  "Title": "Das Religi\u00f6se Bild", 
-  "DateAcquired": "1950-11-15", 
+  "CreditLine": "Gift of Philip Johnson", 
   "Date": "Unknown", 
   "ArtistID": 6026, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "365.1950", 
-  "ArtistBio": "Nationality Unknown", 
-  "CreditLine": "Gift of Philip Johnson", 
+  "ArtistBio": "(Nationality Unknown)", 
+  "DateAcquired": "1950-11-15", 
+  "\ufeffTitle": "Das Religi\u00f6se Bild", 
   "ObjectID": "6544"
 }

@@ -5,8 +5,7 @@
   "Artist": "Alphonse Mucha", 
   "URL": "http://www.moma.org/collection/works/5445", 
   "CuratorApproved": "Y", 
-  "Title": "Job", 
-  "DateAcquired": "1968-03-07", 
+  "CreditLine": "Gift of Lillian Nassau", 
   "Date": "1897", 
   "ArtistID": 4136, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "167.1968", 
-  "ArtistBio": "Czech, born Moravia (then Austria). 1860\u20131939", 
-  "CreditLine": "Gift of Lillian Nassau", 
+  "ArtistBio": "(Czech, born Moravia (then Austria). 1860\u20131939)", 
+  "DateAcquired": "1968-03-07", 
+  "\ufeffTitle": "Job", 
   "ObjectID": "5445"
 }

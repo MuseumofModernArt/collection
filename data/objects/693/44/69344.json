@@ -5,8 +5,7 @@
   "Artist": "Patrick Procktor", 
   "URL": "http://www.moma.org/collection/works/69344", 
   "CuratorApproved": "Y", 
-  "Title": "Mirrors", 
-  "DateAcquired": "1977-11-10", 
+  "CreditLine": "Anonymous gift", 
   "Date": "(1969)", 
   "ArtistID": 4744, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "451.1977", 
-  "ArtistBio": "British, 1936\u20132003", 
-  "CreditLine": "Anonymous gift", 
+  "ArtistBio": "(British, 1936\u20132003)", 
+  "DateAcquired": "1977-11-10", 
+  "\ufeffTitle": "Mirrors", 
   "ObjectID": "69344"
 }

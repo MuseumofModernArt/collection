@@ -5,8 +5,7 @@
   "Artist": "Richard Riemerschmid", 
   "URL": "http://www.moma.org/collection/works/2413", 
   "CuratorApproved": "Y", 
-  "Title": "Bottle", 
-  "DateAcquired": "1958-12-04", 
+  "CreditLine": "Phyllis B. Lambert Fund", 
   "Date": "c. 1902", 
   "ArtistID": 4918, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "184.1958", 
-  "ArtistBio": "German, 1868\u20131957", 
-  "CreditLine": "Phyllis B. Lambert Fund", 
+  "ArtistBio": "(German, 1868\u20131957)", 
+  "DateAcquired": "1958-12-04", 
+  "\ufeffTitle": "Bottle", 
   "ObjectID": "2413"
 }

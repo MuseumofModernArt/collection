@@ -5,8 +5,7 @@
   "Artist": "Tapio Wirkkala", 
   "URL": "http://www.moma.org/collection/works/3095", 
   "CuratorApproved": "Y", 
-  "Title": "Incandescent Bulb (model 85)", 
-  "DateAcquired": "1962-11-07", 
+  "CreditLine": "Gift of the manufacturer", 
   "Date": "1959", 
   "ArtistID": 6409, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "257.1962", 
-  "ArtistBio": "Finnish, 1915\u20131985", 
-  "CreditLine": "Gift of the manufacturer", 
+  "ArtistBio": "(Finnish, 1915\u20131985)", 
+  "DateAcquired": "1962-11-07", 
+  "\ufeffTitle": "Incandescent Bulb (model 85)", 
   "ObjectID": "3095"
 }

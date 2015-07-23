@@ -5,8 +5,7 @@
   "Artist": "William Christenberry", 
   "URL": "http://www.moma.org/collection/works/47343", 
   "CuratorApproved": "Y", 
-  "Title": "Facade of Cotton Warehouse", 
-  "DateAcquired": "1983-01-13", 
+  "CreditLine": "Purchase", 
   "Date": "1980", 
   "ArtistID": 1112, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "172.1983", 
-  "ArtistBio": "American, born 1936", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, born 1936)", 
+  "DateAcquired": "1983-01-13", 
+  "\ufeffTitle": "Facade of Cotton Warehouse", 
   "ObjectID": "47343"
 }

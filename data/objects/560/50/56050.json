@@ -5,8 +5,7 @@
   "Artist": "Colleen Frances Kenyon", 
   "URL": "http://www.moma.org/collection/works/56050", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1978-10-12", 
+  "CreditLine": "John Parkinson III Fund", 
   "Date": "Summer 1975", 
   "ArtistID": 3066, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "685.1978", 
-  "ArtistBio": "American, born 1951", 
-  "CreditLine": "John Parkinson III Fund", 
+  "ArtistBio": "(American, born 1951)", 
+  "DateAcquired": "1978-10-12", 
+  "\ufeffTitle": "Untitled from the series Sunporch", 
   "ObjectID": "56050"
 }

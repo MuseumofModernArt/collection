@@ -5,8 +5,7 @@
   "Artist": "Jacques-Henri Lartigue", 
   "URL": "http://www.moma.org/collection/works/45027", 
   "CuratorApproved": "Y", 
-  "Title": "Avenue des Acacias, Paris", 
-  "DateAcquired": "1963-01-08", 
+  "CreditLine": "Gift of the photographer", 
   "Date": "1911", 
   "ArtistID": 3394, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "53.1963", 
-  "ArtistBio": "French, 1894\u20131986", 
-  "CreditLine": "Gift of the photographer", 
+  "ArtistBio": "(French, 1894\u20131986)", 
+  "DateAcquired": "1963-01-08", 
+  "\ufeffTitle": "Avenue des Acacias, Paris", 
   "ObjectID": "45027"
 }

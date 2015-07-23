@@ -5,8 +5,7 @@
   "Artist": "Jasper Johns", 
   "URL": "http://www.moma.org/collection/works/60040", 
   "CuratorApproved": "Y", 
-  "Title": "Two Flags", 
-  "DateAcquired": "1973-01-04", 
+  "CreditLine": "Gift of Celeste Bartos", 
   "Date": "1970-72", 
   "ArtistID": 2923, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "18.1973", 
-  "ArtistBio": "American, born 1930", 
-  "CreditLine": "Gift of Celeste Bartos", 
+  "ArtistBio": "(American, born 1930)", 
+  "DateAcquired": "1973-01-04", 
+  "\ufeffTitle": "Two Flags", 
   "ObjectID": "60040"
 }

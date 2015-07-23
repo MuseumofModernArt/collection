@@ -5,8 +5,7 @@
   "Artist": "Alessandro Becchi", 
   "URL": "http://www.moma.org/collection/works/3303", 
   "CuratorApproved": "Y", 
-  "Title": "Anfibio Convertible Couch", 
-  "DateAcquired": "1972-12-03", 
+  "CreditLine": "Gift of the manufacturer and ICF Inc.", 
   "Date": "1971", 
   "ArtistID": 421, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "327.1972", 
-  "ArtistBio": "Italian, born 1946", 
-  "CreditLine": "Gift of the manufacturer and ICF Inc.", 
+  "ArtistBio": "(Italian, born 1946)", 
+  "DateAcquired": "1972-12-03", 
+  "\ufeffTitle": "Anfibio Convertible Couch", 
   "ObjectID": "3303"
 }

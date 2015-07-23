@@ -5,8 +5,7 @@
   "Artist": "Richard Smith", 
   "URL": "http://www.moma.org/collection/works/65662", 
   "CuratorApproved": "Y", 
-  "Title": "Lawson Set (Green tied in 3 sections)", 
-  "DateAcquired": "1974-04-23", 
+  "CreditLine": "Purchase", 
   "Date": "1973", 
   "ArtistID": 5493, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "269.1974", 
-  "ArtistBio": "British, born 1931", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(British, born 1931)", 
+  "DateAcquired": "1974-04-23", 
+  "\ufeffTitle": "Lawson Set (Green tied in 3 sections)", 
   "ObjectID": "65662"
 }

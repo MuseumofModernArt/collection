@@ -1,12 +1,11 @@
 {
   "Medium": "Collograph", 
-  "Dimensions": "irreg composition  10 1/8 x 30 3/4\" (25.7 x 78.2 cm)  sheet  20 9/16 x 37 1/4\" (52.2 x 94.7 cm)", 
+  "Dimensions": "irreg composition  10 1/8 x 30 3/4\" (25.7 x 78.2 cm)\r\nsheet  20 9/16 x 37 1/4\" (52.2 x 94.7 cm)", 
   "Classification": "Print", 
   "Artist": "Clare Romano", 
   "URL": "http://www.moma.org/collection/works/65211", 
   "CuratorApproved": "Y", 
-  "Title": "On the Grass", 
-  "DateAcquired": "1972-05-08", 
+  "CreditLine": "John B. Turner Fund", 
   "Date": "(1971)", 
   "ArtistID": 5009, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "249.1972", 
-  "ArtistBio": "American, born 1922", 
-  "CreditLine": "John B. Turner Fund", 
+  "ArtistBio": "(American, born 1922)", 
+  "DateAcquired": "1972-05-08", 
+  "\ufeffTitle": "On the Grass", 
   "ObjectID": "65211"
 }

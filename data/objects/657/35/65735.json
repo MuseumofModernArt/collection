@@ -1,12 +1,11 @@
 {
   "Medium": "Etching and aquatint", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "Bill Jensen", 
   "URL": "http://www.moma.org/collection/works/65735", 
   "CuratorApproved": "Y", 
-  "Title": "Deadhead", 
-  "DateAcquired": "1992-05-20", 
+  "CreditLine": "Gift of Emily Fisher Landau", 
   "Date": "1991-92", 
   "ArtistID": 2907, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "271.1992", 
-  "ArtistBio": "American, born 1945", 
-  "CreditLine": "Gift of Emily Fisher Landau", 
+  "ArtistBio": "(American, born 1945)", 
+  "DateAcquired": "1992-05-20", 
+  "\ufeffTitle": "Deadhead", 
   "ObjectID": "65735"
 }

@@ -5,8 +5,7 @@
   "Artist": "Louise Dahl-Wolfe", 
   "URL": "http://www.moma.org/collection/works/50765", 
   "CuratorApproved": "Y", 
-  "Title": "Nashville", 
-  "DateAcquired": "1994-06-09", 
+  "CreditLine": "Gift of the photographer", 
   "Date": "1932", 
   "ArtistID": 1357, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "323.1994", 
-  "ArtistBio": "American, 1895\u20131989", 
-  "CreditLine": "Gift of the photographer", 
+  "ArtistBio": "(American, 1895\u20131989)", 
+  "DateAcquired": "1994-06-09", 
+  "\ufeffTitle": "Nashville", 
   "ObjectID": "50765"
 }

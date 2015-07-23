@@ -5,8 +5,7 @@
   "Artist": "Ken Grant", 
   "URL": "http://www.moma.org/collection/works/57771", 
   "CuratorApproved": "Y", 
-  "Title": "Lorna and Justine Collins, Sunday Dinnertime, Ullswater Street, Everton, Liverpool", 
-  "DateAcquired": "2000-10-12", 
+  "CreditLine": "E.T. Harmax Foundation Fund", 
   "Date": "1989", 
   "ArtistID": 8241, 
   "Keywords": [
@@ -21,7 +20,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "1169.2000", 
-  "ArtistBio": "British, born 1967", 
-  "CreditLine": "E.T. Harmax Foundation Fund", 
+  "ArtistBio": "(British, born 1967)", 
+  "DateAcquired": "2000-10-12", 
+  "\ufeffTitle": "Lorna and Justine Collins, Sunday Dinnertime, Ullswater Street, Everton, Liverpool", 
   "ObjectID": "57771"
 }

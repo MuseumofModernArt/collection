@@ -1,12 +1,11 @@
 {
-  "Medium": "Illustrated book with 6 etchings (2 with aquatint and 1 with drypoint)  ", 
+  "Medium": "Illustrated book with 6 etchings (2 with aquatint and 1 with drypoint)\r\n", 
   "Dimensions": "Page: 10 1/4 x 7 7/8\" (26 x 20 cm)", 
   "Classification": "Illustrated Book", 
   "Artist": "Richard Diebenkorn", 
   "URL": "http://www.moma.org/collection/works/17673", 
   "CuratorApproved": "Y", 
-  "Title": "Poems", 
-  "DateAcquired": "1990-10-23", 
+  "CreditLine": "Johanna and Leslie J. Garfield Fund", 
   "Date": "1990", 
   "ArtistID": 1539, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "474.1990.1-6", 
-  "ArtistBio": "American, 1922\u20131993", 
-  "CreditLine": "Johanna and Leslie J. Garfield Fund", 
+  "ArtistBio": "(American, 1922\u20131993)", 
+  "DateAcquired": "1990-10-23", 
+  "\ufeffTitle": "Poems", 
   "ObjectID": "17673"
 }

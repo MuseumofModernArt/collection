@@ -5,8 +5,7 @@
   "Artist": "Unknown Designer", 
   "URL": "http://www.moma.org/collection/works/3197", 
   "CuratorApproved": "Y", 
-  "Title": "Hand Mirror", 
-  "DateAcquired": "1960-11-16", 
+  "CreditLine": "Gift of Joseph H. Heil", 
   "Date": "c. 1900", 
   "ArtistID": 6020, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "289.1960", 
-  "ArtistBio": "British", 
-  "CreditLine": "Gift of Joseph H. Heil", 
+  "ArtistBio": "(British)", 
+  "DateAcquired": "1960-11-16", 
+  "\ufeffTitle": "Hand Mirror", 
   "ObjectID": "3197"
 }

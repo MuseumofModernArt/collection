@@ -5,8 +5,7 @@
   "Artist": "Juliusz Studnicki", 
   "URL": "http://www.moma.org/collection/works/35016", 
   "CuratorApproved": "Y", 
-  "Title": "Hell", 
-  "DateAcquired": "1967-10-18", 
+  "CreditLine": "The Joan and Lester Avnet Collection", 
   "Date": "(1965)", 
   "ArtistID": 5709, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "170.1978", 
-  "ArtistBio": "Polish, 1906\u20131978", 
-  "CreditLine": "The Joan and Lester Avnet Collection", 
+  "ArtistBio": "(Polish, 1906\u20131978)", 
+  "DateAcquired": "1967-10-18", 
+  "\ufeffTitle": "Hell", 
   "ObjectID": "35016"
 }

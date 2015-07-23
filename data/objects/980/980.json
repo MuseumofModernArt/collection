@@ -5,8 +5,7 @@
   "Artist": "Frank Lloyd Wright", 
   "URL": "http://www.moma.org/collection/works/980", 
   "CuratorApproved": "Y", 
-  "Title": "Fallingwater, Edgar J. Kaufmann House, Mill Run, Pennsylvania", 
-  "DateAcquired": "1984-10-30", 
+  "CreditLine": "Best Products Company Architecture Fund", 
   "Date": "1934-37", 
   "ArtistID": 6459, 
   "Keywords": [
@@ -21,7 +20,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "125.1984", 
-  "ArtistBio": "American, 1867\u20131959", 
-  "CreditLine": "Best Products Company Architecture Fund", 
+  "ArtistBio": "(American, 1867\u20131959)", 
+  "DateAcquired": "1984-10-30", 
+  "\ufeffTitle": "Fallingwater, Edgar J. Kaufmann House, Mill Run, Pennsylvania", 
   "ObjectID": "980"
 }

@@ -5,8 +5,7 @@
   "Artist": "Pierre Alechinsky", 
   "URL": "http://www.moma.org/collection/works/31680", 
   "CuratorApproved": "Y", 
-  "Title": "Plate (folio 3) from Schismes", 
-  "DateAcquired": "1979-12-04", 
+  "CreditLine": "Gift of the artist", 
   "Date": "1978", 
   "ArtistID": 107, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "1100.1979.2", 
-  "ArtistBio": "Belgian, born 1927", 
-  "CreditLine": "Gift of the artist", 
+  "ArtistBio": "(Belgian, born 1927)", 
+  "DateAcquired": "1979-12-04", 
+  "\ufeffTitle": "Plate (folio 3) from Schismes", 
   "ObjectID": "31680"
 }

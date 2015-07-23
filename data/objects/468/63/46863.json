@@ -5,8 +5,7 @@
   "Artist": "Howard Dearstyne", 
   "URL": "http://www.moma.org/collection/works/46863", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1959-04-22", 
+  "CreditLine": "Gift of the photographer", 
   "Date": "1958", 
   "ArtistID": 1460, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "144.1959", 
-  "ArtistBio": "American, 1903\u20131978", 
-  "CreditLine": "Gift of the photographer", 
+  "ArtistBio": "(American, 1903\u20131978)", 
+  "DateAcquired": "1959-04-22", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "46863"
 }

@@ -5,8 +5,7 @@
   "Artist": "Juan Gris", 
   "URL": "http://www.moma.org/collection/works/33870", 
   "CuratorApproved": "Y", 
-  "Title": "Still Life", 
-  "DateAcquired": "1979-05-07", 
+  "CreditLine": "James Thrall Soby Bequest", 
   "Date": "1916", 
   "ArtistID": 2349, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "95.1979", 
-  "ArtistBio": "Spanish, 1887\u20131927", 
-  "CreditLine": "James Thrall Soby Bequest", 
+  "ArtistBio": "(Spanish, 1887\u20131927)", 
+  "DateAcquired": "1979-05-07", 
+  "\ufeffTitle": "Still Life", 
   "ObjectID": "33870"
 }

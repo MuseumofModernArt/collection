@@ -1,12 +1,11 @@
 {
   "Medium": "Illustrated Book with 6 woodcuts", 
-  "Dimensions": "page  13 5/16 x 9 1/16\" (33 x 23 cm)  Prints:  various dimensions.", 
+  "Dimensions": "page  13 5/16 x 9 1/16\" (33 x 23 cm)\r\nPrints:  various dimensions.", 
   "Classification": "Illustrated Book", 
   "Artist": "Robert Mangold", 
   "URL": "http://www.moma.org/collection/works/10569", 
   "CuratorApproved": "Y", 
-  "Title": "The Nonconformist's Memorial", 
-  "DateAcquired": "1993-01-18", 
+  "CreditLine": "John B. Turner Fund", 
   "Date": "1992", 
   "ArtistID": 3723, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "35.1993.1-6", 
-  "ArtistBio": "American, born 1937", 
-  "CreditLine": "John B. Turner Fund", 
+  "ArtistBio": "(American, born 1937)", 
+  "DateAcquired": "1993-01-18", 
+  "\ufeffTitle": "The Nonconformist's Memorial", 
   "ObjectID": "10569"
 }

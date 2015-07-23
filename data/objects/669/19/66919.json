@@ -5,8 +5,7 @@
   "Artist": "Maurice Denis", 
   "URL": "http://www.moma.org/collection/works/66919", 
   "CuratorApproved": "Y", 
-  "Title": "The visitation (La visitation)", 
-  "DateAcquired": "1954-09-30", 
+  "CreditLine": "Gift of Peter H. Deitsch", 
   "Date": "1896", 
   "ArtistID": 1492, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "323.1954", 
-  "ArtistBio": "French, 1870\u20131943", 
-  "CreditLine": "Gift of Peter H. Deitsch", 
+  "ArtistBio": "(French, 1870\u20131943)", 
+  "DateAcquired": "1954-09-30", 
+  "\ufeffTitle": "The visitation (La visitation)", 
   "ObjectID": "66919"
 }

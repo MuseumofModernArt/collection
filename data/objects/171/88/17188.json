@@ -1,12 +1,11 @@
 {
   "Medium": "Illustrated book with two drawings and thirteen collotype and/or photolithographs; some with rubber stamp, embossing, and/or crayon additions", 
-  "Dimensions": "page  14 3/8 x 10 1/8\" (36 x 25.7 cm)  Prints:  various dimensions.", 
+  "Dimensions": "page  14 3/8 x 10 1/8\" (36 x 25.7 cm)\r\nPrints:  various dimensions.", 
   "Classification": "Illustrated Book", 
   "Artist": "Ay-O", 
   "URL": "http://www.moma.org/collection/works/17188", 
   "CuratorApproved": "Y", 
-  "Title": "Ouzel", 
-  "DateAcquired": "1973-10-24", 
+  "CreditLine": "Monroe Wheeler Fund", 
   "Date": "1972.  (Prints executed 1971).", 
   "ArtistID": 255, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "435.1973.1-15", 
-  "ArtistBio": "Japanese, born 1931", 
-  "CreditLine": "Monroe Wheeler Fund", 
+  "ArtistBio": "(Japanese, born 1931)", 
+  "DateAcquired": "1973-10-24", 
+  "\ufeffTitle": "Ouzel", 
   "ObjectID": "17188"
 }

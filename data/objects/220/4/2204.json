@@ -5,8 +5,7 @@
   "Artist": "Louis Comfort Tiffany", 
   "URL": "http://www.moma.org/collection/works/2204", 
   "CuratorApproved": "Y", 
-  "Title": "Candlestick", 
-  "DateAcquired": "1976-03-22", 
+  "CreditLine": "Joseph H. Heil Bequest", 
   "Date": "c. 1910", 
   "ArtistID": 5876, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "120.1976", 
-  "ArtistBio": "American, 1848\u20131933", 
-  "CreditLine": "Joseph H. Heil Bequest", 
+  "ArtistBio": "(American, 1848\u20131933)", 
+  "DateAcquired": "1976-03-22", 
+  "\ufeffTitle": "Candlestick", 
   "ObjectID": "2204"
 }

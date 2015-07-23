@@ -5,8 +5,7 @@
   "Artist": "Wynn Bullock", 
   "URL": "http://www.moma.org/collection/works/45182", 
   "CuratorApproved": "Y", 
-  "Title": "The Bird", 
-  "DateAcquired": "1977-03-10", 
+  "CreditLine": "Gift of Andrea and William Turnage, 1976", 
   "Date": "1958", 
   "ArtistID": 861, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "58.1977", 
-  "ArtistBio": "American, 1902\u20131975", 
-  "CreditLine": "Gift of Andrea and William Turnage, 1976", 
+  "ArtistBio": "(American, 1902\u20131975)", 
+  "DateAcquired": "1977-03-10", 
+  "\ufeffTitle": "The Bird", 
   "ObjectID": "45182"
 }

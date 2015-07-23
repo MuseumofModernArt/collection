@@ -5,8 +5,7 @@
   "Artist": "Johannes Potente", 
   "URL": "http://www.moma.org/collection/works/2675", 
   "CuratorApproved": "Y", 
-  "Title": "Door Handle (model FSB 1046)", 
-  "DateAcquired": "1998-04-22", 
+  "CreditLine": "Gift of the manufacturer", 
   "Date": "1956", 
   "ArtistID": 8000, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "209.1998", 
-  "ArtistBio": "German, 1908\u20131987", 
-  "CreditLine": "Gift of the manufacturer", 
+  "ArtistBio": "(German, 1908\u20131987)", 
+  "DateAcquired": "1998-04-22", 
+  "\ufeffTitle": "Door Handle (model FSB 1046)", 
   "ObjectID": "2675"
 }

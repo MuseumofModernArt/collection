@@ -1,12 +1,11 @@
 {
   "Medium": "Lithograph with collage", 
-  "Dimensions": "composition  27 15/16 x 22 9/16\" (71 x 57.3 cm)  sheet  27 15/16 x 22 9/16\" (71 x 57.3 cm)", 
+  "Dimensions": "composition  27 15/16 x 22 9/16\" (71 x 57.3 cm)\r\nsheet  27 15/16 x 22 9/16\" (71 x 57.3 cm)", 
   "Classification": "Print", 
   "Artist": "Christo (Christo Javacheff)", 
   "URL": "http://www.moma.org/collection/works/66488", 
   "CuratorApproved": "Y", 
-  "Title": "Ericsson Display Monitor Unit 311 Wrapped, Project for Personal Computer", 
-  "DateAcquired": "1986-10-15", 
+  "CreditLine": "Gift of Ericsson", 
   "Date": "1985", 
   "ArtistID": 1114, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "303.1986", 
-  "ArtistBio": "American, born Bulgaria 1935", 
-  "CreditLine": "Gift of Ericsson", 
+  "ArtistBio": "(American, born Bulgaria 1935)", 
+  "DateAcquired": "1986-10-15", 
+  "\ufeffTitle": "Ericsson Display Monitor Unit 311 Wrapped, Project for Personal Computer", 
   "ObjectID": "66488"
 }

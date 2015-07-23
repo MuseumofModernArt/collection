@@ -1,12 +1,11 @@
 {
   "Medium": "Lithograph", 
-  "Dimensions": "sl. irreg. composition  30 x 20 1/4\" (76.3 x 51.5 cm)  sheet  34 5/16 x 23 15/16\" (87 x 60.9 cm)", 
+  "Dimensions": "sl. irreg. composition  30 x 20 1/4\" (76.3 x 51.5 cm)\r\nsheet  34 5/16 x 23 15/16\" (87 x 60.9 cm)", 
   "Classification": "Print", 
   "Artist": "Edward Paschke", 
   "URL": "http://www.moma.org/collection/works/67872", 
   "CuratorApproved": "Y", 
-  "Title": "Execo", 
-  "DateAcquired": "1988-10-25", 
+  "CreditLine": "Gift of the Business Committee for the Arts", 
   "Date": "1983", 
   "ArtistID": 4513, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "366.1988", 
-  "ArtistBio": "American, 1939\u20132004", 
-  "CreditLine": "Gift of the Business Committee for the Arts", 
+  "ArtistBio": "(American, 1939\u20132004)", 
+  "DateAcquired": "1988-10-25", 
+  "\ufeffTitle": "Execo", 
   "ObjectID": "67872"
 }

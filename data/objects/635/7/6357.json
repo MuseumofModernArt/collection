@@ -5,8 +5,7 @@
   "Artist": "Josef M\u00fcller-Brockmann", 
   "URL": "http://www.moma.org/collection/works/6357", 
   "CuratorApproved": "Y", 
-  "Title": "Achte Sinfonie von Gustav Mahler", 
-  "DateAcquired": "1961-11-08", 
+  "CreditLine": "Gift of the artist", 
   "Date": "1960", 
   "ArtistID": 4154, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "338.1961", 
-  "ArtistBio": "Swiss, 1914\u20131996", 
-  "CreditLine": "Gift of the artist", 
+  "ArtistBio": "(Swiss, 1914\u20131996)", 
+  "DateAcquired": "1961-11-08", 
+  "\ufeffTitle": "Achte Sinfonie von Gustav Mahler", 
   "ObjectID": "6357"
 }

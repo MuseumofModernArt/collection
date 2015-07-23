@@ -5,8 +5,7 @@
   "Artist": "Robert Rauschenberg", 
   "URL": "http://www.moma.org/collection/works/65465", 
   "CuratorApproved": "Y", 
-  "Title": "Roan from Fuses", 
-  "DateAcquired": "1974-04-23", 
+  "CreditLine": "John B. Turner Fund", 
   "Date": "1974", 
   "ArtistID": 4823, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "261.1974", 
-  "ArtistBio": "American, 1925\u20132008", 
-  "CreditLine": "John B. Turner Fund", 
+  "ArtistBio": "(American, 1925\u20132008)", 
+  "DateAcquired": "1974-04-23", 
+  "\ufeffTitle": "Roan fromFuses", 
   "ObjectID": "65465"
 }

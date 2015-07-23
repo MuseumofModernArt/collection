@@ -5,8 +5,7 @@
   "Artist": "Georg Baselitz", 
   "URL": "http://www.moma.org/collection/works/37285", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1994-10-20", 
+  "CreditLine": "Gift of Barbara G. Pine", 
   "Date": "1991", 
   "ArtistID": 366, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "523.1994", 
-  "ArtistBio": "German, born 1938", 
-  "CreditLine": "Gift of Barbara G. Pine", 
+  "ArtistBio": "(German, born 1938)", 
+  "DateAcquired": "1994-10-20", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "37285"
 }

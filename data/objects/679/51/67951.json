@@ -1,12 +1,11 @@
 {
   "Medium": "Aquatint, printed in color", 
-  "Dimensions": "plate  17 5/8 x 35 5/16\" (44.8 x 89.7 cm)  sheet  24 15/16 x 40 5/8\" (63.4 x 103.2 cm)", 
+  "Dimensions": "plate  17 5/8 x 35 5/16\" (44.8 x 89.7 cm)\r\nsheet  24 15/16 x 40 5/8\" (63.4 x 103.2 cm)", 
   "Classification": "Print", 
   "Artist": "Larry Zox", 
   "URL": "http://www.moma.org/collection/works/67951", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1971-03-30", 
+  "CreditLine": "John B. Turner Fund", 
   "Date": "1970", 
   "ArtistID": 6586, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "371.1971", 
-  "ArtistBio": "American, 1936\u20132006", 
-  "CreditLine": "John B. Turner Fund", 
+  "ArtistBio": "(American, 1936\u20132006)", 
+  "DateAcquired": "1971-03-30", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "67951"
 }

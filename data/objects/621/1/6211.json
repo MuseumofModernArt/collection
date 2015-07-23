@@ -5,8 +5,7 @@
   "Artist": "Jules Ch\u00e9ret", 
   "URL": "http://www.moma.org/collection/works/6211", 
   "CuratorApproved": "Y", 
-  "Title": "F\u00eate de Charit\u00e9", 
-  "DateAcquired": "1957-12-04", 
+  "CreditLine": "Phyllis B. Lambert Fund", 
   "Date": "1890", 
   "ArtistID": 1089, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "315.1957", 
-  "ArtistBio": "French, 1836\u20131932", 
-  "CreditLine": "Phyllis B. Lambert Fund", 
+  "ArtistBio": "(French, 1836\u20131932)", 
+  "DateAcquired": "1957-12-04", 
+  "\ufeffTitle": "F\u00eate de Charit\u00e9", 
   "ObjectID": "6211"
 }

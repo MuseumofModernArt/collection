@@ -5,8 +5,7 @@
   "Artist": "Sven-Eric Juhlin", 
   "URL": "http://www.moma.org/collection/works/3839", 
   "CuratorApproved": "Y", 
-  "Title": "Children's Drinking Mug", 
-  "DateAcquired": "1987-11-18", 
+  "CreditLine": "Friends of the Department Fund", 
   "Date": "1971", 
   "ArtistID": 2950, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "455.1987", 
-  "ArtistBio": "Swedish, born 1940", 
-  "CreditLine": "Friends of the Department Fund", 
+  "ArtistBio": "(Swedish, born 1940)", 
+  "DateAcquired": "1987-11-18", 
+  "\ufeffTitle": "Children's Drinking Mug", 
   "ObjectID": "3839"
 }

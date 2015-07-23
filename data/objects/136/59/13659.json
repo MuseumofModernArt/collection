@@ -5,8 +5,7 @@
   "Artist": "El Lissitzky", 
   "URL": "http://www.moma.org/collection/works/13659", 
   "CuratorApproved": "Y", 
-  "Title": "Chad gadya", 
-  "DateAcquired": "2001-01-24", 
+  "CreditLine": "Gift of The Judith Rothschild Foundation", 
   "Date": "1919", 
   "ArtistID": 3569, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "210.2001.1-12", 
-  "ArtistBio": "Russian, 1890\u20131941", 
-  "CreditLine": "Gift of The Judith Rothschild Foundation", 
+  "ArtistBio": "(Russian, 1890\u20131941)", 
+  "DateAcquired": "2001-01-24", 
+  "\ufeffTitle": "Chad gadya", 
   "ObjectID": "13659"
 }

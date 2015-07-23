@@ -5,8 +5,7 @@
   "Artist": "Georges Rouault", 
   "URL": "http://www.moma.org/collection/works/37797", 
   "CuratorApproved": "Y", 
-  "Title": "Clown", 
-  "DateAcquired": "1949-11-22", 
+  "CreditLine": "Gift of Vladimir Horowitz", 
   "Date": "(c. 1907)", 
   "ArtistID": 5053, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "692.1949", 
-  "ArtistBio": "French, 1871\u20131958", 
-  "CreditLine": "Gift of Vladimir Horowitz", 
+  "ArtistBio": "(French, 1871\u20131958)", 
+  "DateAcquired": "1949-11-22", 
+  "\ufeffTitle": "Clown", 
   "ObjectID": "37797"
 }

@@ -5,8 +5,7 @@
   "Artist": "William Baziotes", 
   "URL": "http://www.moma.org/collection/works/37036", 
   "CuratorApproved": "Y", 
-  "Title": "The Prisoner", 
-  "DateAcquired": "1980-05-13", 
+  "CreditLine": "The Joan and Lester Avnet Fund", 
   "Date": "(c. 1942)", 
   "ArtistID": 406, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "462.1980", 
-  "ArtistBio": "American, 1912\u20131963", 
-  "CreditLine": "The Joan and Lester Avnet Fund", 
+  "ArtistBio": "(American, 1912\u20131963)", 
+  "DateAcquired": "1980-05-13", 
+  "\ufeffTitle": "The Prisoner", 
   "ObjectID": "37036"
 }

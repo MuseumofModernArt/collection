@@ -5,8 +5,7 @@
   "Artist": "Chris Ofili", 
   "URL": "http://www.moma.org/collection/works/33213", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1999-02-25", 
+  "CreditLine": "Gift of Martin and Rebecca Eisenberg", 
   "Date": "(1998)", 
   "ArtistID": 7967, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "16.1999.a-h", 
-  "ArtistBio": "British, born 1968", 
-  "CreditLine": "Gift of Martin and Rebecca Eisenberg", 
+  "ArtistBio": "(British, born 1968)", 
+  "DateAcquired": "1999-02-25", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "33213"
 }

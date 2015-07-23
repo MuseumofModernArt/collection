@@ -5,8 +5,7 @@
   "Artist": "Jean Carlu", 
   "URL": "http://www.moma.org/collection/works/8282", 
   "CuratorApproved": "Y", 
-  "Title": "Stop 'Em to Sell 'Em", 
-  "DateAcquired": "1979-05-30", 
+  "CreditLine": "Given anonymously", 
   "Date": "1947", 
   "ArtistID": 977, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "863.1979", 
-  "ArtistBio": "French, 1900\u20131997", 
-  "CreditLine": "Given anonymously", 
+  "ArtistBio": "(French, 1900\u20131997)", 
+  "DateAcquired": "1979-05-30", 
+  "\ufeffTitle": "Stop 'Em to Sell 'Em", 
   "ObjectID": "8282"
 }

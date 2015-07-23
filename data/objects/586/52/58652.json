@@ -5,8 +5,7 @@
   "Artist": "The New York Times", 
   "URL": "http://www.moma.org/collection/works/58652", 
   "CuratorApproved": "Y", 
-  "Title": "Mayor La Guardia Turning Over the Model of the Bridge to Jacob W. Schwab, Who Bought It By Purchasing $17,500,000 in Victory Bonds", 
-  "DateAcquired": "2001-06-14", 
+  "CreditLine": "The New York Times Collection", 
   "Date": "November 1, 1945", 
   "Keywords": [
     "online art collection", 
@@ -19,7 +18,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "2059.2001", 
-  "ArtistBio": "American, founded 1851", 
-  "CreditLine": "The New York Times Collection", 
+  "ArtistBio": "(American, founded 1851)", 
+  "DateAcquired": "2001-06-14", 
+  "\ufeffTitle": "\"Mayor La Guardia Turning Over the Model of the Bridge to Jacob W. Schwab, Who Bought It By Purchasing $17,500,000 in Victory Bonds\"", 
   "ObjectID": "58652"
 }

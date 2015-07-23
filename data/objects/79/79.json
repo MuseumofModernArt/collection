@@ -5,8 +5,7 @@
   "Artist": "Raimund Abraham", 
   "URL": "http://www.moma.org/collection/works/79", 
   "CuratorApproved": "Y", 
-  "Title": "Earth-Cloud House, project", 
-  "DateAcquired": "1980-01-08", 
+  "CreditLine": "Gift of Philip Johnson", 
   "Date": "1970", 
   "ArtistID": 47, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "19.1980", 
-  "ArtistBio": "American, born Austria. 1933\u20132010", 
-  "CreditLine": "Gift of Philip Johnson", 
+  "ArtistBio": "(American, born Austria. 1933\u20132010)", 
+  "DateAcquired": "1980-01-08", 
+  "\ufeffTitle": "Earth-Cloud House, project", 
   "ObjectID": "79"
 }

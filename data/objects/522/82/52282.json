@@ -5,8 +5,7 @@
   "Artist": "Alfred Stieglitz", 
   "URL": "http://www.moma.org/collection/works/52282", 
   "CuratorApproved": "Y", 
-  "Title": "Dorothy Norman (XIII)", 
-  "DateAcquired": "1968-05-01", 
+  "CreditLine": "Purchase", 
   "Date": "1932", 
   "ArtistID": 5664, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "385.1968", 
-  "ArtistBio": "American, 1864\u20131946", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, 1864\u20131946)", 
+  "DateAcquired": "1968-05-01", 
+  "\ufeffTitle": "Dorothy Norman (XIII)", 
   "ObjectID": "52282"
 }

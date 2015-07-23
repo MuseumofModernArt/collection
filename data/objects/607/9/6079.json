@@ -5,8 +5,7 @@
   "Artist": "A. M. Cassandre", 
   "URL": "http://www.moma.org/collection/works/6079", 
   "CuratorApproved": "Y", 
-  "Title": "F\u00eates de Paris", 
-  "DateAcquired": "1935-11-12", 
+  "CreditLine": "Given anonymously", 
   "Date": "1935", 
   "ArtistID": 1015, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "286.1935", 
-  "ArtistBio": "French, 1901\u20131968", 
-  "CreditLine": "Given anonymously", 
+  "ArtistBio": "(French, 1901\u20131968)", 
+  "DateAcquired": "1935-11-12", 
+  "\ufeffTitle": "F\u00eates de Paris", 
   "ObjectID": "6079"
 }

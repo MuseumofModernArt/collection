@@ -5,8 +5,7 @@
   "Artist": "Richard Sapper", 
   "URL": "http://www.moma.org/collection/works/3322", 
   "CuratorApproved": "Y", 
-  "Title": "Minitimer Kitchen Timer", 
-  "DateAcquired": "1977-06-01", 
+  "CreditLine": "Gift of the Terraillon Corporation", 
   "Date": "1971", 
   "ArtistID": 5162, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "334.1977", 
-  "ArtistBio": "German, born 1932", 
-  "CreditLine": "Gift of the Terraillon Corporation", 
+  "ArtistBio": "(German, born 1932)", 
+  "DateAcquired": "1977-06-01", 
+  "\ufeffTitle": "Minitimer Kitchen Timer", 
   "ObjectID": "3322"
 }

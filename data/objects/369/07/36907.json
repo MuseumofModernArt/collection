@@ -5,8 +5,7 @@
   "Artist": "Jean-Michel Basquiat", 
   "URL": "http://www.moma.org/collection/works/36907", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1986-12-22", 
+  "CreditLine": "Gift of Norman Dubrow", 
   "Date": "(1982)", 
   "ArtistID": 370, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "439.1986", 
-  "ArtistBio": "American, 1960\u20131988", 
-  "CreditLine": "Gift of Norman Dubrow", 
+  "ArtistBio": "(American, 1960\u20131988)", 
+  "DateAcquired": "1986-12-22", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "36907"
 }

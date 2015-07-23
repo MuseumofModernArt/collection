@@ -5,8 +5,7 @@
   "Artist": "Francis Bernard", 
   "URL": "http://www.moma.org/collection/works/5785", 
   "CuratorApproved": "Y", 
-  "Title": "Gaz Cuit-Chauffe-Glace (Gas, It Cooks, Heats, Cools)", 
-  "DateAcquired": "1987-05-27", 
+  "CreditLine": "Department Purchase Funds", 
   "Date": "1928", 
   "ArtistID": 512, 
   "Keywords": [
@@ -20,7 +19,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "235.1987", 
-  "ArtistBio": "French, 1900\u20131979", 
-  "CreditLine": "Department Purchase Funds", 
+  "ArtistBio": "(French, 1900\u20131979)", 
+  "DateAcquired": "1987-05-27", 
+  "\ufeffTitle": "Gaz Cuit-Chauffe-Glace (Gas, It Cooks, Heats, Cools)", 
   "ObjectID": "5785"
 }

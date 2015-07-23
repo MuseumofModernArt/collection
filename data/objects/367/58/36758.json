@@ -5,8 +5,7 @@
   "Artist": "Allyson Strafella", 
   "URL": "http://www.moma.org/collection/works/36758", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1999-10-21", 
+  "CreditLine": "Gift of Sarah-Ann and Werner H. Kramarsky", 
   "Date": "(1995)", 
   "ArtistID": 8137, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "403.1999", 
-  "ArtistBio": "American, born 1969", 
-  "CreditLine": "Gift of Sarah-Ann and Werner H. Kramarsky", 
+  "ArtistBio": "(American, born 1969)", 
+  "DateAcquired": "1999-10-21", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "36758"
 }

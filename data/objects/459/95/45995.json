@@ -5,8 +5,7 @@
   "Artist": "Unknown photographer", 
   "URL": "http://www.moma.org/collection/works/45995", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1966-01-11", 
+  "CreditLine": "Gift of Dan Budnik", 
   "Date": "c. 1850", 
   "ArtistID": 6028, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "88.1966", 
-  "ArtistBio": "NULL", 
-  "CreditLine": "Gift of Dan Budnik", 
+  "ArtistBio": "", 
+  "DateAcquired": "1966-01-11", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "45995"
 }

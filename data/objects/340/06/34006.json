@@ -1,12 +1,11 @@
 {
   "Medium": "Ink on paper", 
-  "Dimensions": "11 7/8 x 12 1/8\" (30.2 x 30.6 cm)  ", 
+  "Dimensions": "11 7/8 x 12 1/8\" (30.2 x 30.6 cm)\r\n", 
   "Classification": "Drawing", 
   "Artist": "Agnes Martin", 
   "URL": "http://www.moma.org/collection/works/34006", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1979-05-07", 
+  "CreditLine": "Acquired with matching funds from The Lauder Foundation and the National Endowment for the Arts", 
   "Date": "1960", 
   "ArtistID": 3787, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "107.1979", 
-  "ArtistBio": "American, born Canada. 1912\u20132004", 
-  "CreditLine": "Acquired with matching funds from The Lauder Foundation and the National Endowment for the Arts", 
+  "ArtistBio": "(American, born Canada. 1912\u20132004)", 
+  "DateAcquired": "1979-05-07", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "34006"
 }

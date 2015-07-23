@@ -5,8 +5,7 @@
   "Artist": "Mikhail Larionov", 
   "URL": "http://www.moma.org/collection/works/33463", 
   "CuratorApproved": "Y", 
-  "Title": "Rayonist Composition: Number 9", 
-  "DateAcquired": "1936-04-15", 
+  "CreditLine": "Gift of the artist", 
   "Date": "(1913)", 
   "ArtistID": 3389, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "41.1936", 
-  "ArtistBio": "Russian, 1881\u20131964", 
-  "CreditLine": "Gift of the artist", 
+  "ArtistBio": "(Russian, 1881\u20131964)", 
+  "DateAcquired": "1936-04-15", 
+  "\ufeffTitle": "Rayonist Composition: Number 9", 
   "ObjectID": "33463"
 }

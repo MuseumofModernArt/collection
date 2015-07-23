@@ -5,8 +5,7 @@
   "Artist": "Wayne Sorce", 
   "URL": "http://www.moma.org/collection/works/46639", 
   "CuratorApproved": "Y", 
-  "Title": "Two People at Carnival", 
-  "DateAcquired": "1977-03-10", 
+  "CreditLine": "Purchase", 
   "Date": "1973", 
   "ArtistID": 5528, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "122.1977", 
-  "ArtistBio": "American, born 1946", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, born 1946)", 
+  "DateAcquired": "1977-03-10", 
+  "\ufeffTitle": "Two People at Carnival", 
   "ObjectID": "46639"
 }

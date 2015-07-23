@@ -1,12 +1,11 @@
 {
   "Medium": "Screenprint", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "Nancy Spero", 
   "URL": "http://www.moma.org/collection/works/65354", 
   "CuratorApproved": "Y", 
-  "Title": "Tattoo", 
-  "DateAcquired": "1997-05-28", 
+  "CreditLine": "Linda Barth Goldstein Fund", 
   "Date": "1996", 
   "ArtistID": 5564, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "255.1997", 
-  "ArtistBio": "American, 1926\u20132009", 
-  "CreditLine": "Linda Barth Goldstein Fund", 
+  "ArtistBio": "(American, 1926\u20132009)", 
+  "DateAcquired": "1997-05-28", 
+  "\ufeffTitle": "Tattoo", 
   "ObjectID": "65354"
 }

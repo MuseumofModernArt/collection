@@ -5,8 +5,7 @@
   "Artist": "Morris Graves", 
   "URL": "http://www.moma.org/collection/works/33729", 
   "CuratorApproved": "Y", 
-  "Title": "Bat Dancing for a Slug", 
-  "DateAcquired": "1950-02-15", 
+  "CreditLine": "Given anonymously", 
   "Date": "(1943)", 
   "ArtistID": 2309, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "83.1950", 
-  "ArtistBio": "American, 1910\u20132001", 
-  "CreditLine": "Given anonymously", 
+  "ArtistBio": "(American, 1910\u20132001)", 
+  "DateAcquired": "1950-02-15", 
+  "\ufeffTitle": "Bat Dancing for a Slug", 
   "ObjectID": "33729"
 }

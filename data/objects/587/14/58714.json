@@ -5,8 +5,7 @@
   "Artist": "Paul Thompson", 
   "URL": "http://www.moma.org/collection/works/58714", 
   "CuratorApproved": "Y", 
-  "Title": "Italy's Famous Alpini and Bersaglieri", 
-  "DateAcquired": "2001-06-14", 
+  "CreditLine": "The New York Times Collection", 
   "Date": "1918", 
   "ArtistID": 8630, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "2121.2001", 
-  "ArtistBio": "American", 
-  "CreditLine": "The New York Times Collection", 
+  "ArtistBio": "(American)", 
+  "DateAcquired": "2001-06-14", 
+  "\ufeffTitle": "Italy's Famous Alpini and Bersaglieri", 
   "ObjectID": "58714"
 }

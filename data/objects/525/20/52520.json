@@ -5,8 +5,7 @@
   "Artist": "Alvin Langdon Coburn", 
   "URL": "http://www.moma.org/collection/works/52520", 
   "CuratorApproved": "Y", 
-  "Title": "Portrait of Augustus John", 
-  "DateAcquired": "1974-10-01", 
+  "CreditLine": "Gift of Silas R. Mountsier", 
   "Date": "1914", 
   "ArtistID": 1164, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "396.1974", 
-  "ArtistBio": "American, 1882\u20131966", 
-  "CreditLine": "Gift of Silas R. Mountsier", 
+  "ArtistBio": "(American, 1882\u20131966)", 
+  "DateAcquired": "1974-10-01", 
+  "\ufeffTitle": "Portrait of Augustus John", 
   "ObjectID": "52520"
 }

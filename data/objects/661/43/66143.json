@@ -5,8 +5,7 @@
   "Artist": "Jasper Johns", 
   "URL": "http://www.moma.org/collection/works/66143", 
   "CuratorApproved": "Y", 
-  "Title": "Target with Four Faces", 
-  "DateAcquired": "1969-04-16", 
+  "CreditLine": "Gift of David Whitney", 
   "Date": "1968", 
   "ArtistID": 2923, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "289.1969", 
-  "ArtistBio": "American, born 1930", 
-  "CreditLine": "Gift of David Whitney", 
+  "ArtistBio": "(American, born 1930)", 
+  "DateAcquired": "1969-04-16", 
+  "\ufeffTitle": "Target with Four Faces", 
   "ObjectID": "66143"
 }

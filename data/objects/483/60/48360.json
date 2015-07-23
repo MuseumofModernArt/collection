@@ -5,8 +5,7 @@
   "Artist": "Robert Adams", 
   "URL": "http://www.moma.org/collection/works/48360", 
   "CuratorApproved": "Y", 
-  "Title": "Summer Nights No. 18", 
-  "DateAcquired": "1989-10-12", 
+  "CreditLine": "Gift of Jeffrey Fraenkel", 
   "Date": "1985", 
   "ArtistID": 66, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "200.1989", 
-  "ArtistBio": "American, born 1937", 
-  "CreditLine": "Gift of Jeffrey Fraenkel", 
+  "ArtistBio": "(American, born 1937)", 
+  "DateAcquired": "1989-10-12", 
+  "\ufeffTitle": "Summer Nights No. 18", 
   "ObjectID": "48360"
 }

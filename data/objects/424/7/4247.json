@@ -5,8 +5,7 @@
   "Artist": "Sam Lucente", 
   "URL": "http://www.moma.org/collection/works/4247", 
   "CuratorApproved": "Y", 
-  "Title": "Canned Transistors SMS Card", 
-  "DateAcquired": "1990-10-24", 
+  "CreditLine": "Gift of the manufacturer", 
   "Date": "c. 1955.", 
   "ArtistID": 6612, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "498.1990", 
-  "ArtistBio": "American, born 1958", 
-  "CreditLine": "Gift of the manufacturer", 
+  "ArtistBio": "(American, born 1958)", 
+  "DateAcquired": "1990-10-24", 
+  "\ufeffTitle": "Canned Transistors SMS Card", 
   "ObjectID": "4247"
 }

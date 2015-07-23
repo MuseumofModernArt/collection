@@ -5,8 +5,7 @@
   "Artist": "Adam Bartos", 
   "URL": "http://www.moma.org/collection/works/50604", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled: East Wall of General Assembly Room", 
-  "DateAcquired": "1992-06-18", 
+  "CreditLine": "Gift of CameraWorks, Inc.", 
   "Date": "1990", 
   "ArtistID": 7688, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "316.1992.x1-x2", 
-  "ArtistBio": "American, born 1953", 
-  "CreditLine": "Gift of CameraWorks, Inc.", 
+  "ArtistBio": "(American, born 1953)", 
+  "DateAcquired": "1992-06-18", 
+  "\ufeffTitle": "Untitled: East Wall of General Assembly Room", 
   "ObjectID": "50604"
 }

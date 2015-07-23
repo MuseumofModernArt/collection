@@ -5,8 +5,7 @@
   "Artist": "Pablo Picasso", 
   "URL": "http://www.moma.org/collection/works/12849", 
   "CuratorApproved": "Y", 
-  "Title": "Painter and Model Leaning on Her Elbow from Sable Mouvant", 
-  "DateAcquired": "1985-06-04", 
+  "CreditLine": "Abby Aldrich Rockefeller Fund", 
   "Date": "February 8, 1964, published 1966", 
   "ArtistID": 4609, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "179.1985.6", 
-  "ArtistBio": "Spanish, 1881\u20131973", 
-  "CreditLine": "Abby Aldrich Rockefeller Fund", 
+  "ArtistBio": "(Spanish, 1881\u20131973)", 
+  "DateAcquired": "1985-06-04", 
+  "\ufeffTitle": "Painter and Model Leaning on Her Elbow from Sable Mouvant", 
   "ObjectID": "12849"
 }

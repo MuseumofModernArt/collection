@@ -5,8 +5,7 @@
   "Artist": "Nicholas Nixon", 
   "URL": "http://www.moma.org/collection/works/49931", 
   "CuratorApproved": "Y", 
-  "Title": "Middleton Street, Dorchester, Massachusetts", 
-  "DateAcquired": "1988-10-13", 
+  "CreditLine": "Gift of the artist", 
   "Date": "1981", 
   "ArtistID": 4315, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "281.1988", 
-  "ArtistBio": "American, born 1947", 
-  "CreditLine": "Gift of the artist", 
+  "ArtistBio": "(American, born 1947)", 
+  "DateAcquired": "1988-10-13", 
+  "\ufeffTitle": "Middleton Street, Dorchester, Massachusetts", 
   "ObjectID": "49931"
 }

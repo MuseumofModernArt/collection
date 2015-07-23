@@ -5,8 +5,7 @@
   "Artist": "Agust\u00edn Fern\u00e1ndez", 
   "URL": "http://www.moma.org/collection/works/59650", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1973-01-04", 
+  "CreditLine": "Inter-American Fund", 
   "Date": "1972", 
   "ArtistID": 1854, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "5.1973", 
-  "ArtistBio": "Cuban, 1928\u20132006", 
-  "CreditLine": "Inter-American Fund", 
+  "ArtistBio": "(Cuban, 1928\u20132006)", 
+  "DateAcquired": "1973-01-04", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "59650"
 }

@@ -5,8 +5,7 @@
   "Artist": "Ellen Phelan", 
   "URL": "http://www.moma.org/collection/works/35250", 
   "CuratorApproved": "Y", 
-  "Title": "Neighborhood", 
-  "DateAcquired": "1993-05-05", 
+  "CreditLine": "Gift of Edward R. Broida", 
   "Date": "(1990)", 
   "ArtistID": 4598, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "200.1993", 
-  "ArtistBio": "American, born 1943", 
-  "CreditLine": "Gift of Edward R. Broida", 
+  "ArtistBio": "(American, born 1943)", 
+  "DateAcquired": "1993-05-05", 
+  "\ufeffTitle": "Neighborhood", 
   "ObjectID": "35250"
 }

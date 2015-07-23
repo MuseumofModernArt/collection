@@ -5,8 +5,7 @@
   "Artist": "Byron Browne", 
   "URL": "http://www.moma.org/collection/works/37897", 
   "CuratorApproved": "Y", 
-  "Title": "Homage to Michelangelo", 
-  "DateAcquired": "1978-10-27", 
+  "CreditLine": "Gift of Lily Auchincloss", 
   "Date": "1936", 
   "ArtistID": 814, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "730.1978", 
-  "ArtistBio": "American, 1907\u20131961", 
-  "CreditLine": "Gift of Lily Auchincloss", 
+  "ArtistBio": "(American, 1907\u20131961)", 
+  "DateAcquired": "1978-10-27", 
+  "\ufeffTitle": "Homage to Michelangelo", 
   "ObjectID": "37897"
 }

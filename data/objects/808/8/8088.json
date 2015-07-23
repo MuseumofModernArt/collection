@@ -5,8 +5,7 @@
   "Artist": "Stephen Frykholm", 
   "URL": "http://www.moma.org/collection/works/8088", 
   "CuratorApproved": "Y", 
-  "Title": "Herman Miller Summer Picnic August 21, 1970", 
-  "DateAcquired": "1983-11-30", 
+  "CreditLine": "Gift of Ivan Chermayeff", 
   "Date": "1970", 
   "ArtistID": 2019, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "767.1983", 
-  "ArtistBio": "American, born 1942", 
-  "CreditLine": "Gift of Ivan Chermayeff", 
+  "ArtistBio": "(American, born 1942)", 
+  "DateAcquired": "1983-11-30", 
+  "\ufeffTitle": "Herman Miller Summer Picnic August 21, 1970", 
   "ObjectID": "8088"
 }

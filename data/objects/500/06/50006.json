@@ -5,8 +5,7 @@
   "Artist": "Christian Schad", 
   "URL": "http://www.moma.org/collection/works/50006", 
   "CuratorApproved": "Y", 
-  "Title": "Schadograph", 
-  "DateAcquired": "1937-12-03", 
+  "CreditLine": "Purchase", 
   "Date": "1918", 
   "ArtistID": 5200, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "288.1937", 
-  "ArtistBio": "German, 1894\u20131982", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(German, 1894\u20131982)", 
+  "DateAcquired": "1937-12-03", 
+  "\ufeffTitle": "Schadograph", 
   "ObjectID": "50006"
 }

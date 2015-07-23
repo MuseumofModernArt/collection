@@ -5,8 +5,7 @@
   "Artist": "Cindy Sherman", 
   "URL": "http://www.moma.org/collection/works/55647", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled #228", 
-  "DateAcquired": "1990-12-13", 
+  "CreditLine": "Acquired through the generosity of Eileen and Peter Norton", 
   "Date": "1990", 
   "ArtistID": 5392, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "622.1990.x1-x2", 
-  "ArtistBio": "American, born 1954", 
-  "CreditLine": "Acquired through the generosity of Eileen and Peter Norton", 
+  "ArtistBio": "(American, born 1954)", 
+  "DateAcquired": "1990-12-13", 
+  "\ufeffTitle": "Untitled #228", 
   "ObjectID": "55647"
 }

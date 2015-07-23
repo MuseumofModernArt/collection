@@ -5,8 +5,7 @@
   "Artist": "Ray K. Metzker", 
   "URL": "http://www.moma.org/collection/works/54809", 
   "CuratorApproved": "Y", 
-  "Title": "Atlantic City", 
-  "DateAcquired": "1973-11-13", 
+  "CreditLine": "Gift of the photographer", 
   "Date": "1968", 
   "ArtistID": 3948, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "534.1973", 
-  "ArtistBio": "American,1931\u20132014", 
-  "CreditLine": "Gift of the photographer", 
+  "ArtistBio": "(American,1931\u20132014)", 
+  "DateAcquired": "1973-11-13", 
+  "\ufeffTitle": "Atlantic City", 
   "ObjectID": "54809"
 }

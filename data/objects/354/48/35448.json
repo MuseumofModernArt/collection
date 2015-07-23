@@ -5,8 +5,7 @@
   "Artist": "Julio Gonz\u00e1lez", 
   "URL": "http://www.moma.org/collection/works/35448", 
   "CuratorApproved": "Y", 
-  "Title": "Standing Figure", 
-  "DateAcquired": "1956-05-08", 
+  "CreditLine": "Gift of the James S. and Marvelle W. Adams Foundation", 
   "Date": "(c. 1941)", 
   "ArtistID": 2231, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "235.1956", 
-  "ArtistBio": "Spanish, 1876\u20131942", 
-  "CreditLine": "Gift of the James S. and Marvelle W. Adams Foundation", 
+  "ArtistBio": "(Spanish, 1876\u20131942)", 
+  "DateAcquired": "1956-05-08", 
+  "\ufeffTitle": "Standing Figure", 
   "ObjectID": "35448"
 }

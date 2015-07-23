@@ -5,8 +5,7 @@
   "Artist": "Stuart Davis", 
   "URL": "http://www.moma.org/collection/works/33521", 
   "CuratorApproved": "Y", 
-  "Title": "Composition No. 5", 
-  "DateAcquired": "1935-06-04", 
+  "CreditLine": "Gift of Abby Aldrich Rockefeller", 
   "Date": "(1932)", 
   "ArtistID": 1412, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "50.1935", 
-  "ArtistBio": "American, 1892\u20131964", 
-  "CreditLine": "Gift of Abby Aldrich Rockefeller", 
+  "ArtistBio": "(American, 1892\u20131964)", 
+  "DateAcquired": "1935-06-04", 
+  "\ufeffTitle": "Composition No. 5", 
   "ObjectID": "33521"
 }

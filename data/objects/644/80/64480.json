@@ -1,12 +1,11 @@
 {
   "Medium": "Lithograph", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "J\u00f3hanna Boga", 
   "URL": "http://www.moma.org/collection/works/64480", 
   "CuratorApproved": "Y", 
-  "Title": "on the road III", 
-  "DateAcquired": "1983-01-18", 
+  "CreditLine": "International Print Fund", 
   "Date": "1981", 
   "ArtistID": 634, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "211.1983", 
-  "ArtistBio": "Icelandic", 
-  "CreditLine": "International Print Fund", 
+  "ArtistBio": "(Icelandic)", 
+  "DateAcquired": "1983-01-18", 
+  "\ufeffTitle": "on the road III", 
   "ObjectID": "64480"
 }

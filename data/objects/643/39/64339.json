@@ -1,12 +1,11 @@
 {
   "Medium": "Etching", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "Victor Mira", 
   "URL": "http://www.moma.org/collection/works/64339", 
   "CuratorApproved": "Y", 
-  "Title": "Still Life (Stilleben)", 
-  "DateAcquired": "1990-05-02", 
+  "CreditLine": "Purchase", 
   "Date": "(1985)", 
   "ArtistID": 4013, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "202.1990", 
-  "ArtistBio": "Spanish, born 1949", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(Spanish, born 1949)", 
+  "DateAcquired": "1990-05-02", 
+  "\ufeffTitle": "Still Life (Stilleben)", 
   "ObjectID": "64339"
 }

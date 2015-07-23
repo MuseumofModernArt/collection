@@ -5,8 +5,7 @@
   "Artist": "Erich Heckel", 
   "URL": "http://www.moma.org/collection/works/67145", 
   "CuratorApproved": "Y", 
-  "Title": "Man on a Plain", 
-  "DateAcquired": "1950-11-15", 
+  "CreditLine": "Purchase", 
   "Date": "1917 (published 1921)", 
   "ArtistID": 2569, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "335.1950", 
-  "ArtistBio": "German, 1883\u20131970", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(German, 1883\u20131970)", 
+  "DateAcquired": "1950-11-15", 
+  "\ufeffTitle": "Man on a Plain (Mann in der Ebene) from the portfolio Eleven Woodcuts, 1912-1919 (Elf Holzschnitte, 1912-1919)", 
   "ObjectID": "67145"
 }

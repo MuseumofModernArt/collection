@@ -5,8 +5,7 @@
   "Artist": "Frederick Sommer", 
   "URL": "http://www.moma.org/collection/works/47009", 
   "CuratorApproved": "Y", 
-  "Title": "Aurelia", 
-  "DateAcquired": "1969-03-05", 
+  "CreditLine": "Gift of the photographer", 
   "Date": "1950", 
   "ArtistID": 5520, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "157.1969", 
-  "ArtistBio": "American, born Italy. 1905\u20131999", 
-  "CreditLine": "Gift of the photographer", 
+  "ArtistBio": "(American, born Italy. 1905\u20131999)", 
+  "DateAcquired": "1969-03-05", 
+  "\ufeffTitle": "Aurelia", 
   "ObjectID": "47009"
 }

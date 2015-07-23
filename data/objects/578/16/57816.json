@@ -5,8 +5,7 @@
   "Artist": "Henri Cartier-Bresson", 
   "URL": "http://www.moma.org/collection/works/57816", 
   "CuratorApproved": "Y", 
-  "Title": "Los Remedios, Mexico", 
-  "DateAcquired": "1964-11-10", 
+  "CreditLine": "Gift of the photographer", 
   "Date": "1963", 
   "ArtistID": 1000, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "1183.1964", 
-  "ArtistBio": "French, 1908\u20132004", 
-  "CreditLine": "Gift of the photographer", 
+  "ArtistBio": "(French, 1908\u20132004)", 
+  "DateAcquired": "1964-11-10", 
+  "\ufeffTitle": "Los Remedios, Mexico", 
   "ObjectID": "57816"
 }

@@ -5,8 +5,7 @@
   "Artist": "Balthus (Baltusz Klossowski de Rola)", 
   "URL": "http://www.moma.org/collection/works/37888", 
   "CuratorApproved": "Y", 
-  "Title": "Study for the painting La Chambre Turque", 
-  "DateAcquired": "1978-10-27", 
+  "CreditLine": "Gift in memory of Patricia Kane Matisse", 
   "Date": "1963", 
   "ArtistID": 317, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "728.1978", 
-  "ArtistBio": "French, 1908\u20132001", 
-  "CreditLine": "Gift in memory of Patricia Kane Matisse", 
+  "ArtistBio": "(French, 1908\u20132001)", 
+  "DateAcquired": "1978-10-27", 
+  "\ufeffTitle": "Study for the painting La Chambre Turque", 
   "ObjectID": "37888"
 }

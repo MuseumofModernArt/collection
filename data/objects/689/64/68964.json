@@ -5,8 +5,7 @@
   "Artist": "Walter Helbig", 
   "URL": "http://www.moma.org/collection/works/68964", 
   "CuratorApproved": "Y", 
-  "Title": "16 Woodcuts", 
-  "DateAcquired": "1961-12-13", 
+  "CreditLine": "Gift of Mrs. Heinz Schultz", 
   "Date": "1926 (prints executed 1911-25)", 
   "ArtistID": 2582, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "428.1961.1-20", 
-  "ArtistBio": "German, 1878\u20131968", 
-  "CreditLine": "Gift of Mrs. Heinz Schultz", 
+  "ArtistBio": "(German, 1878\u20131968)", 
+  "DateAcquired": "1961-12-13", 
+  "\ufeffTitle": "16 Woodcuts (16 Holzschnitte)", 
   "ObjectID": "68964"
 }

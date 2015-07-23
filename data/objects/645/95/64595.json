@@ -1,12 +1,11 @@
 {
   "Medium": "Lithograph with gouache, pastel and glitter additions", 
-  "Dimensions": "composition  29 7/8 x 35 1/16\" (75.9 x 89 cm)  sheet  29 7/8 x 35 1/16\" (75.9 x 89 cm)", 
+  "Dimensions": "composition  29 7/8 x 35 1/16\" (75.9 x 89 cm)\r\nsheet  29 7/8 x 35 1/16\" (75.9 x 89 cm)", 
   "Classification": "Print", 
   "Artist": "Peter Alexander", 
   "URL": "http://www.moma.org/collection/works/64595", 
   "CuratorApproved": "Y", 
-  "Title": "Chula Vista Cirrus", 
-  "DateAcquired": "1982-10-26", 
+  "CreditLine": "John B. Turner Fund", 
   "Date": "1982", 
   "ArtistID": 108, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "217.1982", 
-  "ArtistBio": "American, born 1939", 
-  "CreditLine": "John B. Turner Fund", 
+  "ArtistBio": "(American, born 1939)", 
+  "DateAcquired": "1982-10-26", 
+  "\ufeffTitle": "Chula Vista Cirrus", 
   "ObjectID": "64595"
 }

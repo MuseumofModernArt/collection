@@ -5,8 +5,7 @@
   "Artist": "Per Arnoldi", 
   "URL": "http://www.moma.org/collection/works/8268", 
   "CuratorApproved": "Y", 
-  "Title": "Kevi", 
-  "DateAcquired": "1979-05-30", 
+  "CreditLine": "Gift of the designer", 
   "Date": "1977", 
   "Keywords": [
     "online art collection", 
@@ -16,7 +15,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "856.1979", 
-  "ArtistBio": "Danish, born 1941", 
-  "CreditLine": "Gift of the designer", 
+  "ArtistBio": "(Danish, born 1941)", 
+  "DateAcquired": "1979-05-30", 
+  "\ufeffTitle": "Kevi", 
   "ObjectID": "8268"
 }

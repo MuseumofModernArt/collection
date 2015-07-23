@@ -5,8 +5,7 @@
   "Artist": "Oscar Bluemner", 
   "URL": "http://www.moma.org/collection/works/33689", 
   "CuratorApproved": "Y", 
-  "Title": "Sun Storm", 
-  "DateAcquired": "1960-05-02", 
+  "CreditLine": "Gift of James Graham and Sons", 
   "Date": "(1927)", 
   "ArtistID": 612, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "79.1960", 
-  "ArtistBio": "American, born Germany. 1867\u20131938", 
-  "CreditLine": "Gift of James Graham and Sons", 
+  "ArtistBio": "(American, born Germany. 1867\u20131938)", 
+  "DateAcquired": "1960-05-02", 
+  "\ufeffTitle": "Sun Storm", 
   "ObjectID": "33689"
 }

@@ -5,8 +5,7 @@
   "Artist": "Clarence H. White", 
   "URL": "http://www.moma.org/collection/works/55533", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1971-11-10", 
+  "CreditLine": "Lily Auchincloss Fund", 
   "Date": "1896", 
   "ArtistID": 6338, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "604.1971", 
-  "ArtistBio": "American, 1871\u20131925", 
-  "CreditLine": "Lily Auchincloss Fund", 
+  "ArtistBio": "(American, 1871\u20131925)", 
+  "DateAcquired": "1971-11-10", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "55533"
 }

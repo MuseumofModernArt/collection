@@ -5,8 +5,7 @@
   "Artist": "Robert Gober", 
   "URL": "http://www.moma.org/collection/works/62105", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1997-03-06", 
+  "CreditLine": "Gift of Agnes Gund and Daniel Shapiro", 
   "Date": "1992-96", 
   "ArtistID": 2199, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "116.1997", 
-  "ArtistBio": "American, born 1954", 
-  "CreditLine": "Gift of Agnes Gund and Daniel Shapiro", 
+  "ArtistBio": "(American, born 1954)", 
+  "DateAcquired": "1997-03-06", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "62105"
 }

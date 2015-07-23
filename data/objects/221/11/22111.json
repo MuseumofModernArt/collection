@@ -1,12 +1,11 @@
 {
   "Medium": "Illustrated book with four lithographs", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Illustrated Book", 
   "Artist": "Corneille (Guillaume van Beverloo)", 
   "URL": "http://www.moma.org/collection/works/22111", 
   "CuratorApproved": "Y", 
-  "Title": "Elle, c'est \u00e0 dire l'aube", 
-  "DateAcquired": "1996-11-12", 
+  "CreditLine": "Monroe Wheeler Fund", 
   "Date": "1958", 
   "ArtistID": 1246, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "714.1996.1-4", 
-  "ArtistBio": "Dutch, born 1922", 
-  "CreditLine": "Monroe Wheeler Fund", 
+  "ArtistBio": "(Dutch, born 1922)", 
+  "DateAcquired": "1996-11-12", 
+  "\ufeffTitle": "Elle, c'est \u00e0 dire l'aube", 
   "ObjectID": "22111"
 }

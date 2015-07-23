@@ -5,8 +5,7 @@
   "Artist": "Nicholas Nixon", 
   "URL": "http://www.moma.org/collection/works/46467", 
   "CuratorApproved": "Y", 
-  "Title": "A.K., Boston", 
-  "DateAcquired": "1985-03-27", 
+  "CreditLine": "Gift of the International Program, by exchange", 
   "Date": "1985", 
   "ArtistID": 4315, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "114.1985", 
-  "ArtistBio": "American, born 1947", 
-  "CreditLine": "Gift of the International Program, by exchange", 
+  "ArtistBio": "(American, born 1947)", 
+  "DateAcquired": "1985-03-27", 
+  "\ufeffTitle": "A.K., Boston", 
   "ObjectID": "46467"
 }

@@ -5,8 +5,7 @@
   "Artist": "J. Gurney", 
   "URL": "http://www.moma.org/collection/works/47773", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1983-01-13", 
+  "CreditLine": "Gift of Dr. Stanley B. Burns", 
   "Date": "1852-57", 
   "ArtistID": 2416, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "181.1983", 
-  "ArtistBio": "American, 1812\u20131886", 
-  "CreditLine": "Gift of Dr. Stanley B. Burns", 
+  "ArtistBio": "(American, 1812\u20131886)", 
+  "DateAcquired": "1983-01-13", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "47773"
 }

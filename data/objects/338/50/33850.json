@@ -5,8 +5,7 @@
   "Artist": "Julio Gonz\u00e1lez", 
   "URL": "http://www.moma.org/collection/works/33850", 
   "CuratorApproved": "Y", 
-  "Title": "Self-Portrait", 
-  "DateAcquired": "1979-05-07", 
+  "CreditLine": "Gift of Mr. and Mrs. Richard Rodgers", 
   "Date": "1940", 
   "ArtistID": 2231, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "93.1979", 
-  "ArtistBio": "Spanish, 1876\u20131942", 
-  "CreditLine": "Gift of Mr. and Mrs. Richard Rodgers", 
+  "ArtistBio": "(Spanish, 1876\u20131942)", 
+  "DateAcquired": "1979-05-07", 
+  "\ufeffTitle": "Self-Portrait", 
   "ObjectID": "33850"
 }

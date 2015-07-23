@@ -1,12 +1,11 @@
 {
   "Medium": "Screenprint", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "Pat Steir", 
   "URL": "http://www.moma.org/collection/works/65491", 
   "CuratorApproved": "Y", 
-  "Title": "Roll Me a Rainbow", 
-  "DateAcquired": "1997-05-28", 
+  "CreditLine": "Gift of Gabriella De Ferrari in honor of Agnes Gund and Daniel Shapiro", 
   "Date": "1974", 
   "ArtistID": 5637, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "261.1997", 
-  "ArtistBio": "American, born 1940", 
-  "CreditLine": "Gift of Gabriella De Ferrari in honor of Agnes Gund and Daniel Shapiro", 
+  "ArtistBio": "(American, born 1940)", 
+  "DateAcquired": "1997-05-28", 
+  "\ufeffTitle": "Roll Me a Rainbow", 
   "ObjectID": "65491"
 }

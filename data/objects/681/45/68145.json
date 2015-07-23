@@ -1,12 +1,11 @@
 {
   "Medium": "Woodcut with wash additions", 
-  "Dimensions": "irreg composition  33 7/8 x 18 15/16\" (86.1 x 48.1 cm)  sheet  33 7/8 x 24 1/16\" (86 x 61.2 cm)", 
+  "Dimensions": "irreg composition  33 7/8 x 18 15/16\" (86.1 x 48.1 cm)\r\nsheet  33 7/8 x 24 1/16\" (86 x 61.2 cm)", 
   "Classification": "Print", 
   "Artist": "Gustav Kluge", 
   "URL": "http://www.moma.org/collection/works/68145", 
   "CuratorApproved": "Y", 
-  "Title": "Vlad Tcepec (Paper Mask) plate VII from the series Prints for the Counter Chronicle", 
-  "DateAcquired": "1987-10-20", 
+  "CreditLine": "The Philip and Lynn Straus Foundation Fund", 
   "Date": "1984", 
   "ArtistID": 3152, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "381.1987", 
-  "ArtistBio": "German, born 1947", 
-  "CreditLine": "The Philip and Lynn Straus Foundation Fund", 
+  "ArtistBio": "(German, born 1947)", 
+  "DateAcquired": "1987-10-20", 
+  "\ufeffTitle": "Vlad Tcepec (Paper Mask) plate VII from the series Prints for the Counter Chronicle", 
   "ObjectID": "68145"
 }

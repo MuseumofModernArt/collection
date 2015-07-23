@@ -5,8 +5,7 @@
   "Artist": "William Eggleston", 
   "URL": "http://www.moma.org/collection/works/51650", 
   "CuratorApproved": "Y", 
-  "Title": "Black Bayou Plantation, near Glendora, Mississippi", 
-  "DateAcquired": "1978-05-11", 
+  "CreditLine": "Purchase", 
   "Date": "c. 1969-70", 
   "ArtistID": 1690, 
   "Keywords": [
@@ -20,7 +19,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "357.1978", 
-  "ArtistBio": "American, born 1939", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, born 1939)", 
+  "DateAcquired": "1978-05-11", 
+  "\ufeffTitle": "Black Bayou Plantation, near Glendora, Mississippi", 
   "ObjectID": "51650"
 }

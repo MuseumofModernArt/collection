@@ -5,8 +5,7 @@
   "Artist": "Enzo Cucchi", 
   "URL": "http://www.moma.org/collection/works/33626", 
   "CuratorApproved": "Y", 
-  "Title": "Palla-Santa", 
-  "DateAcquired": "1981-04-28", 
+  "CreditLine": "Contemporary European Drawings Fund", 
   "Date": "1980", 
   "ArtistID": 1323, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "71.1981", 
-  "ArtistBio": "Italian, born 1949", 
-  "CreditLine": "Contemporary European Drawings Fund", 
+  "ArtistBio": "(Italian, born 1949)", 
+  "DateAcquired": "1981-04-28", 
+  "\ufeffTitle": "Palla-Santa", 
   "ObjectID": "33626"
 }

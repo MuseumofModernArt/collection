@@ -5,8 +5,7 @@
   "Artist": "William Zorach", 
   "URL": "http://www.moma.org/collection/works/60024", 
   "CuratorApproved": "Y", 
-  "Title": "Marine", 
-  "DateAcquired": "1981-01-15", 
+  "CreditLine": "Acquired through the Lillie P. Bliss Bequest", 
   "Date": "c. 1916", 
   "ArtistID": 6582, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "17.1981", 
-  "ArtistBio": "American, born Lituania. 1889\u20131966", 
-  "CreditLine": "Acquired through the Lillie P. Bliss Bequest", 
+  "ArtistBio": "(American, born Lituania. 1889\u20131966)", 
+  "DateAcquired": "1981-01-15", 
+  "\ufeffTitle": "Marine", 
   "ObjectID": "60024"
 }

@@ -1,12 +1,11 @@
 {
   "Medium": "Portfolio of nine woodcuts with introduction and colophon", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "Guillaume Le Roy", 
   "URL": "http://www.moma.org/collection/works/60347", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1973-01-04", 
+  "CreditLine": "Gift of Mr. and Mrs. Wolfgang Schoenborn", 
   "Date": "(1967)", 
   "ArtistID": 3433, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "25.1973.1-9", 
-  "ArtistBio": "Dutch", 
-  "CreditLine": "Gift of Mr. and Mrs. Wolfgang Schoenborn", 
+  "ArtistBio": "(Dutch)", 
+  "DateAcquired": "1973-01-04", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "60347"
 }

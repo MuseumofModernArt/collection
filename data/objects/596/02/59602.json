@@ -5,8 +5,7 @@
   "Artist": "Pierre Bonnard", 
   "URL": "http://www.moma.org/collection/works/59602", 
   "CuratorApproved": "Y", 
-  "Title": "Dogs (Les chiens)", 
-  "DateAcquired": "1947-03-13", 
+  "CreditLine": "Gift of Abby Aldrich Rockefeller", 
   "Date": "(1893-94, dates of publication)", 
   "ArtistID": 665, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "3.1947.1", 
-  "ArtistBio": "French, 1867\u20131947", 
-  "CreditLine": "Gift of Abby Aldrich Rockefeller", 
+  "ArtistBio": "(French, 1867\u20131947)", 
+  "DateAcquired": "1947-03-13", 
+  "\ufeffTitle": "Dogs (Les chiens)", 
   "ObjectID": "59602"
 }

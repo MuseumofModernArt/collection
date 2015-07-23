@@ -5,8 +5,7 @@
   "Artist": "E. McKnight Kauffer", 
   "URL": "http://www.moma.org/collection/works/6735", 
   "CuratorApproved": "Y", 
-  "Title": "The London Group", 
-  "DateAcquired": "1939-05-22", 
+  "CreditLine": "Gift of the artist", 
   "Date": "1918", 
   "ArtistID": 3020, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "371.1939", 
-  "ArtistBio": "American, 1890\u20131954", 
-  "CreditLine": "Gift of the artist", 
+  "ArtistBio": "(American, 1890\u20131954)", 
+  "DateAcquired": "1939-05-22", 
+  "\ufeffTitle": "The London Group", 
   "ObjectID": "6735"
 }

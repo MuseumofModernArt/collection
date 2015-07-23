@@ -5,8 +5,7 @@
   "Artist": "Max Burchartz", 
   "URL": "http://www.moma.org/collection/works/7735", 
   "CuratorApproved": "Y", 
-  "Title": "Europas gr\u00f6sste industriekonzerne Besitzen Europas h\u00f6chste Schornsteine", 
-  "DateAcquired": "1999-12-10", 
+  "CreditLine": "Jan Tschichold Collection, Gift of Philip Johnson", 
   "Date": "Before 1930, probably 1928", 
   "ArtistID": 869, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "610.1999", 
-  "ArtistBio": "German, 1887\u20131961", 
-  "CreditLine": "Jan Tschichold Collection, Gift of Philip Johnson", 
+  "ArtistBio": "(German, 1887\u20131961)", 
+  "DateAcquired": "1999-12-10", 
+  "\ufeffTitle": "Europas gr\u00f6sste industriekonzerne Besitzen Europas h\u00f6chste Schornsteine", 
   "ObjectID": "7735"
 }

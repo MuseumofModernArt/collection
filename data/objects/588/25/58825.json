@@ -5,8 +5,7 @@
   "Artist": "Robert Walker/The New York Times", 
   "URL": "http://www.moma.org/collection/works/58825", 
   "CuratorApproved": "Y", 
-  "Title": "Campaigning on Long Island", 
-  "DateAcquired": "2001-06-14", 
+  "CreditLine": "The New York Times Collection", 
   "Date": "May 10, 1968", 
   "ArtistID": 8641, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "2232.2001", 
-  "ArtistBio": "American, 1926\u20131979", 
-  "CreditLine": "The New York Times Collection", 
+  "ArtistBio": "(American, 1926\u20131979)", 
+  "DateAcquired": "2001-06-14", 
+  "\ufeffTitle": "Campaigning on Long Island", 
   "ObjectID": "58825"
 }

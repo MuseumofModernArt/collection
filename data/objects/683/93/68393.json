@@ -1,12 +1,11 @@
 {
   "Medium": "Woodcut", 
-  "Dimensions": "(irreg): composition  20 1/2 x 24 11/16\" (52.1 x 62.7 cm)  sheet  25 3/8 x 27 13/16\" (64 x 70.6 cm)", 
+  "Dimensions": "(irreg): composition  20 1/2 x 24 11/16\" (52.1 x 62.7 cm)\r\nsheet  25 3/8 x 27 13/16\" (64 x 70.6 cm)", 
   "Classification": "Print", 
   "Artist": "Gerhard Altenbourg", 
   "URL": "http://www.moma.org/collection/works/68393", 
   "CuratorApproved": "Y", 
-  "Title": "Group", 
-  "DateAcquired": "1961-12-13", 
+  "CreditLine": "Gift of Mr. and Mrs. Peter A. R\u00fcbel", 
   "Date": "1960", 
   "ArtistID": 127, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "396.1961", 
-  "ArtistBio": "German, 1926\u20131989", 
-  "CreditLine": "Gift of Mr. and Mrs. Peter A. R\u00fcbel", 
+  "ArtistBio": "(German, 1926\u20131989)", 
+  "DateAcquired": "1961-12-13", 
+  "\ufeffTitle": "Group", 
   "ObjectID": "68393"
 }

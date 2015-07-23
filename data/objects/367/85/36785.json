@@ -5,8 +5,7 @@
   "Artist": "David Hockney", 
   "URL": "http://www.moma.org/collection/works/36785", 
   "CuratorApproved": "Y", 
-  "Title": "Cecil Hotel", 
-  "DateAcquired": "1969-05-22", 
+  "CreditLine": "Mrs. Alfred R. Stern Fund", 
   "Date": "1963", 
   "ArtistID": 2678, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "413.1969", 
-  "ArtistBio": "British, born 1937", 
-  "CreditLine": "Mrs. Alfred R. Stern Fund", 
+  "ArtistBio": "(British, born 1937)", 
+  "DateAcquired": "1969-05-22", 
+  "\ufeffTitle": "Cecil Hotel", 
   "ObjectID": "36785"
 }

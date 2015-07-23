@@ -5,8 +5,7 @@
   "Artist": "Robert Levin", 
   "URL": "http://www.moma.org/collection/works/55999", 
   "CuratorApproved": "Y", 
-  "Title": "Furman Street, Brooklyn", 
-  "DateAcquired": "1976-12-08", 
+  "CreditLine": "Purchase", 
   "Date": "1974", 
   "ArtistID": 3510, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "677.1976", 
-  "ArtistBio": "American, born 1948", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, born 1948)", 
+  "DateAcquired": "1976-12-08", 
+  "\ufeffTitle": "Furman Street, Brooklyn", 
   "ObjectID": "55999"
 }

@@ -5,8 +5,7 @@
   "Artist": "Jasper Johns", 
   "URL": "http://www.moma.org/collection/works/63478", 
   "CuratorApproved": "Y", 
-  "Title": "Trial proof for FLAGS II", 
-  "DateAcquired": "1999-05-20", 
+  "CreditLine": "Gift of the artist", 
   "Date": "1970", 
   "ArtistID": 2923, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "168.1999", 
-  "ArtistBio": "American, born 1930", 
-  "CreditLine": "Gift of the artist", 
+  "ArtistBio": "(American, born 1930)", 
+  "DateAcquired": "1999-05-20", 
+  "\ufeffTitle": "Trial proof for Flags II", 
   "ObjectID": "63478"
 }

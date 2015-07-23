@@ -5,8 +5,7 @@
   "Artist": "Jean Dubuffet", 
   "URL": "http://www.moma.org/collection/works/33562", 
   "CuratorApproved": "Y", 
-  "Title": "Bowery Bum", 
-  "DateAcquired": "1978-04-04", 
+  "CreditLine": "The Joan and Lester Avnet Collection", 
   "Date": "(December) 1951", 
   "ArtistID": 1633, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "58.1978", 
-  "ArtistBio": "French, 1901\u20131985", 
-  "CreditLine": "The Joan and Lester Avnet Collection", 
+  "ArtistBio": "(French, 1901\u20131985)", 
+  "DateAcquired": "1978-04-04", 
+  "\ufeffTitle": "Bowery Bum", 
   "ObjectID": "33562"
 }

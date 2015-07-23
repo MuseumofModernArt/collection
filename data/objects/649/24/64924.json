@@ -5,8 +5,7 @@
   "Artist": "Henri Matisse", 
   "URL": "http://www.moma.org/collection/works/64924", 
   "CuratorApproved": "Y", 
-  "Title": "Reflection in the Mirror (Le reflet dans la glace)", 
-  "DateAcquired": "1984-10-02", 
+  "CreditLine": "Gift of Mrs. Gertrud A. Mellon", 
   "Date": "(1929)", 
   "ArtistID": 3832, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "235.1984", 
-  "ArtistBio": "French, 1869\u20131954", 
-  "CreditLine": "Gift of Mrs. Gertrud A. Mellon", 
+  "ArtistBio": "(French, 1869\u20131954)", 
+  "DateAcquired": "1984-10-02", 
+  "\ufeffTitle": "Reflection in the Mirror (Le reflet dans la glace)", 
   "ObjectID": "64924"
 }

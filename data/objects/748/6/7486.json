@@ -5,8 +5,7 @@
   "Artist": "Petronio", 
   "URL": "http://www.moma.org/collection/works/7486", 
   "CuratorApproved": "Y", 
-  "Title": "Esposizione di Guerra, Trieste, 1917", 
-  "DateAcquired": "1943-05-12", 
+  "CreditLine": "Gift of Peter M\u00fcller-Munk", 
   "Date": "1917", 
   "ArtistID": 4583, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "545.1943", 
-  "ArtistBio": "Nationality unknown", 
-  "CreditLine": "Gift of Peter M\u00fcller-Munk", 
+  "ArtistBio": "(Nationality unknown)", 
+  "DateAcquired": "1943-05-12", 
+  "\ufeffTitle": "Esposizione di Guerra, Trieste, 1917", 
   "ObjectID": "7486"
 }

@@ -5,8 +5,7 @@
   "Artist": "Gerhard Richter", 
   "URL": "http://www.moma.org/collection/works/61973", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled from portfolio 9 Objects (9 Objekte)", 
-  "DateAcquired": "1998-03-05", 
+  "CreditLine": "Gift of the Associates of the Department of Prints and Illustrated Books", 
   "Date": "1969", 
   "ArtistID": 4907, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "111.1998.3", 
-  "ArtistBio": "German, born 1932", 
-  "CreditLine": "Gift of the Associates of the Department of Prints and Illustrated Books", 
+  "ArtistBio": "(German, born 1932)", 
+  "DateAcquired": "1998-03-05", 
+  "\ufeffTitle": "Untitled from portfolio 9 Objects (9 Objekte)", 
   "ObjectID": "61973"
 }

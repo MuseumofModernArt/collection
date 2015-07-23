@@ -1,12 +1,11 @@
 {
   "Medium": "Lithograph", 
-  "Dimensions": "irreg composition  40 11/16 x 20\" (103.3 x 50.8 cm)  sheet  43 3/4 x 28 3/4\" (111.1 x 73 cm)", 
+  "Dimensions": "irreg composition  40 11/16 x 20\" (103.3 x 50.8 cm)\r\nsheet  43 3/4 x 28 3/4\" (111.1 x 73 cm)", 
   "Classification": "Print", 
   "Artist": "Jasper Johns", 
   "URL": "http://www.moma.org/collection/works/65026", 
   "CuratorApproved": "Y", 
-  "Title": "Fool's House", 
-  "DateAcquired": "1972-05-08", 
+  "CreditLine": "John B. Turner Fund", 
   "Date": "1972", 
   "ArtistID": 2923, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "240.1972", 
-  "ArtistBio": "American, born 1930", 
-  "CreditLine": "John B. Turner Fund", 
+  "ArtistBio": "(American, born 1930)", 
+  "DateAcquired": "1972-05-08", 
+  "\ufeffTitle": "Fool's House", 
   "ObjectID": "65026"
 }

@@ -5,8 +5,7 @@
   "Artist": "Peter Sciascin", 
   "URL": "http://www.moma.org/collection/works/4027", 
   "CuratorApproved": "Y", 
-  "Title": "Lobster Pick", 
-  "DateAcquired": "1956-10-25", 
+  "CreditLine": "Purchase", 
   "Date": "Unknown", 
   "ArtistID": 5294, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "481.1956", 
-  "ArtistBio": "American", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American)", 
+  "DateAcquired": "1956-10-25", 
+  "\ufeffTitle": "Lobster Pick", 
   "ObjectID": "4027"
 }

@@ -5,8 +5,7 @@
   "Artist": "Richard Haas", 
   "URL": "http://www.moma.org/collection/works/37073", 
   "CuratorApproved": "Y", 
-  "Title": "Lower Manhattan: Sunset", 
-  "DateAcquired": "1980-05-13", 
+  "CreditLine": "Gift of Lily Auchincloss", 
   "Date": "1979", 
   "ArtistID": 2433, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "471.1980", 
-  "ArtistBio": "American, born 1936", 
-  "CreditLine": "Gift of Lily Auchincloss", 
+  "ArtistBio": "(American, born 1936)", 
+  "DateAcquired": "1980-05-13", 
+  "\ufeffTitle": "Lower Manhattan: Sunset", 
   "ObjectID": "37073"
 }

@@ -5,8 +5,7 @@
   "Artist": "Unknown photographer", 
   "URL": "http://www.moma.org/collection/works/58042", 
   "CuratorApproved": "Y", 
-  "Title": "Construction of the Paris Metro", 
-  "DateAcquired": "2001-04-12", 
+  "CreditLine": "Acquired through the generosity of Pierre N. Leval", 
   "Date": "c. 1905", 
   "ArtistID": 7022, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "1287.2001", 
-  "ArtistBio": "NULL", 
-  "CreditLine": "Acquired through the generosity of Pierre N. Leval", 
+  "ArtistBio": "", 
+  "DateAcquired": "2001-04-12", 
+  "\ufeffTitle": "Construction of the Paris Metro", 
   "ObjectID": "58042"
 }

@@ -5,8 +5,7 @@
   "Artist": "Charles Sheeler", 
   "URL": "http://www.moma.org/collection/works/52618", 
   "CuratorApproved": "Y", 
-  "Title": "Chartres Cathedral", 
-  "DateAcquired": "1942-12-29", 
+  "CreditLine": "Gift of Samuel M. Kootz", 
   "Date": "1929", 
   "ArtistID": 5383, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "401.1942", 
-  "ArtistBio": "American, 1883\u20131965", 
-  "CreditLine": "Gift of Samuel M. Kootz", 
+  "ArtistBio": "(American, 1883\u20131965)", 
+  "DateAcquired": "1942-12-29", 
+  "\ufeffTitle": "Chartres Cathedral", 
   "ObjectID": "52618"
 }

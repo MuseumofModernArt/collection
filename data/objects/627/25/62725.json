@@ -1,12 +1,11 @@
 {
   "Medium": "Lithograph", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "Lee Ufan", 
   "URL": "http://www.moma.org/collection/works/62725", 
   "CuratorApproved": "Y", 
-  "Title": "Work No. 4B", 
-  "DateAcquired": "1975-05-09", 
+  "CreditLine": "Blanchette Hooker Rockefeller Fund", 
   "Date": "1973", 
   "ArtistID": 6835, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "137.1975", 
-  "ArtistBio": "Korean, born 1936", 
-  "CreditLine": "Blanchette Hooker Rockefeller Fund", 
+  "ArtistBio": "(Korean, born 1936)", 
+  "DateAcquired": "1975-05-09", 
+  "\ufeffTitle": "Work No. 4B", 
   "ObjectID": "62725"
 }

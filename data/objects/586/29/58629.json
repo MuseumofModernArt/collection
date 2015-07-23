@@ -5,8 +5,7 @@
   "Artist": "Lechner/The New York Times", 
   "URL": "http://www.moma.org/collection/works/58629", 
   "CuratorApproved": "Y", 
-  "Title": "Listening to Some Speeches", 
-  "DateAcquired": "2001-06-14", 
+  "CreditLine": "The New York Times Collection", 
   "Date": "January 16, 1950", 
   "ArtistID": 8570, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "2036.2001", 
-  "ArtistBio": "NULL", 
-  "CreditLine": "The New York Times Collection", 
+  "ArtistBio": "", 
+  "DateAcquired": "2001-06-14", 
+  "\ufeffTitle": "Listening to Some Speeches", 
   "ObjectID": "58629"
 }

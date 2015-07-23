@@ -5,8 +5,7 @@
   "Artist": "Todd Webb", 
   "URL": "http://www.moma.org/collection/works/58395", 
   "CuratorApproved": "Y", 
-  "Title": "Brooklyn Bridge, New York", 
-  "DateAcquired": "1968-05-01", 
+  "CreditLine": "Gift of David H. McAlpin", 
   "Date": "1946", 
   "ArtistID": 6272, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "1812.1968", 
-  "ArtistBio": "American, 1905\u20132000", 
-  "CreditLine": "Gift of David H. McAlpin", 
+  "ArtistBio": "(American, 1905\u20132000)", 
+  "DateAcquired": "1968-05-01", 
+  "\ufeffTitle": "Brooklyn Bridge, New York", 
   "ObjectID": "58395"
 }

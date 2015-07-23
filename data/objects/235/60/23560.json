@@ -5,8 +5,7 @@
   "Artist": "Othon Coubine (or Otakar Kubin)", 
   "URL": "http://www.moma.org/collection/works/23560", 
   "CuratorApproved": "Y", 
-  "Title": "Ten Sonnets", 
-  "DateAcquired": "1964-10-06", 
+  "CreditLine": "The Louis E. Stern Collection", 
   "Date": "1924", 
   "ArtistID": 1268, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "767.1964.1-10", 
-  "ArtistBio": "Czech, 1883\u20131969", 
-  "CreditLine": "The Louis E. Stern Collection", 
+  "ArtistBio": "(Czech, 1883\u20131969)", 
+  "DateAcquired": "1964-10-06", 
+  "\ufeffTitle": "Ten Sonnets", 
   "ObjectID": "23560"
 }

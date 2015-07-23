@@ -5,8 +5,7 @@
   "Artist": "August Macke", 
   "URL": "http://www.moma.org/collection/works/33999", 
   "CuratorApproved": "Y", 
-  "Title": "Street Scene with Cathedral", 
-  "DateAcquired": "1947-06-17", 
+  "CreditLine": "Gift of Curt Valentin", 
   "Date": "(1914)", 
   "ArtistID": 3670, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "107.1947", 
-  "ArtistBio": "German, 1887\u20131914", 
-  "CreditLine": "Gift of Curt Valentin", 
+  "ArtistBio": "(German, 1887\u20131914)", 
+  "DateAcquired": "1947-06-17", 
+  "\ufeffTitle": "Street Scene with Cathedral (Stra\u00dfenbild mit Kathedrale)", 
   "ObjectID": "33999"
 }

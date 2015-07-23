@@ -5,8 +5,7 @@
   "Artist": "Lucien Coutaud", 
   "URL": "http://www.moma.org/collection/works/28440", 
   "CuratorApproved": "Y", 
-  "Title": "Une Saison en Enfer", 
-  "DateAcquired": "1969-10-28", 
+  "CreditLine": "Purchase", 
   "Date": "1951", 
   "ArtistID": 1276, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "929.1969.1-7", 
-  "ArtistBio": "French, 1905\u20131977", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(French, 1905\u20131977)", 
+  "DateAcquired": "1969-10-28", 
+  "\ufeffTitle": "Une Saison en Enfer", 
   "ObjectID": "28440"
 }

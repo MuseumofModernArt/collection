@@ -1,12 +1,11 @@
 {
   "Medium": "Lithograph", 
-  "Dimensions": "irreg composition  32 5/8 x 23\" (82.8 x 58.4 cm)  sheet  34 x 24\" (86.3 x 61 cm)", 
+  "Dimensions": "irreg composition  32 5/8 x 23\" (82.8 x 58.4 cm)\r\nsheet  34 x 24\" (86.3 x 61 cm)", 
   "Classification": "Print", 
   "Artist": "Tom Blackwell", 
   "URL": "http://www.moma.org/collection/works/68281", 
   "CuratorApproved": "Y", 
-  "Title": "'56 Harley", 
-  "DateAcquired": "1976-01-08", 
+  "CreditLine": "Gift of Dr. Samuel Mandel", 
   "Date": "(1972)", 
   "ArtistID": 587, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "388.1975", 
-  "ArtistBio": "American, born 1938", 
-  "CreditLine": "Gift of Dr. Samuel Mandel", 
+  "ArtistBio": "(American, born 1938)", 
+  "DateAcquired": "1976-01-08", 
+  "\ufeffTitle": "'56 Harley", 
   "ObjectID": "68281"
 }

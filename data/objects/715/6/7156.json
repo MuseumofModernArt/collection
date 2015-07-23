@@ -5,8 +5,7 @@
   "Artist": "Hans Erni", 
   "URL": "http://www.moma.org/collection/works/7156", 
   "CuratorApproved": "Y", 
-  "Title": "Hans Erni, Kunstmuseum & Gewerbemuseum, Winterthur", 
-  "DateAcquired": "1951-05-24", 
+  "CreditLine": "Gift of Mildred Constantine", 
   "Date": "1945", 
   "ArtistID": 1750, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "472.1951", 
-  "ArtistBio": "Swiss, born 1909", 
-  "CreditLine": "Gift of Mildred Constantine", 
+  "ArtistBio": "(Swiss, born 1909)", 
+  "DateAcquired": "1951-05-24", 
+  "\ufeffTitle": "Hans Erni, Kunstmuseum & Gewerbemuseum, Winterthur", 
   "ObjectID": "7156"
 }

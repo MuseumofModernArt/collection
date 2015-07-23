@@ -5,8 +5,7 @@
   "Artist": "David Alfaro Siqueiros", 
   "URL": "http://www.moma.org/collection/works/63620", 
   "CuratorApproved": "Y", 
-  "Title": "Our Image (Nuestra Imagen)", 
-  "DateAcquired": "1954-04-06", 
+  "CreditLine": "Inter-American Fund", 
   "Date": "(1947)", 
   "ArtistID": 5454, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "174.1954", 
-  "ArtistBio": "Mexican, 1896\u20131974", 
-  "CreditLine": "Inter-American Fund", 
+  "ArtistBio": "(Mexican, 1896\u20131974)", 
+  "DateAcquired": "1954-04-06", 
+  "\ufeffTitle": "Our Image (Nuestra Imagen)", 
   "ObjectID": "63620"
 }

@@ -5,8 +5,7 @@
   "Artist": "Maxfield Parrish", 
   "URL": "http://www.moma.org/collection/works/5473", 
   "CuratorApproved": "Y", 
-  "Title": "Poster Show, Pennsylvania Academy of the Fine Arts Philadelphia", 
-  "DateAcquired": "1968-03-07", 
+  "CreditLine": "Acquired by exchange", 
   "Date": "1896", 
   "ArtistID": 4507, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "171.1968", 
-  "ArtistBio": "American, 1870\u20131966", 
-  "CreditLine": "Acquired by exchange", 
+  "ArtistBio": "(American, 1870\u20131966)", 
+  "DateAcquired": "1968-03-07", 
+  "\ufeffTitle": "Poster Show, Pennsylvania Academy of the Fine Arts Philadelphia", 
   "ObjectID": "5473"
 }

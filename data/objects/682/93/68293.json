@@ -1,12 +1,11 @@
 {
   "Medium": "Lithograph with watercolor additions", 
-  "Dimensions": "Composition:  14 1/16 x 17 7/8\" (35.7 x 45.4 cm)  Sheet:  20 x 24 7/8\" (50.8 x 63.2 cm)", 
+  "Dimensions": "Composition:  14 1/16 x 17 7/8\" (35.7 x 45.4 cm)\r\nSheet:  20 x 24 7/8\" (50.8 x 63.2 cm)", 
   "Classification": "Print", 
   "Artist": "Edward Ruscha", 
   "URL": "http://www.moma.org/collection/works/68293", 
   "CuratorApproved": "Y", 
-  "Title": "1984", 
-  "DateAcquired": "1973-10-24", 
+  "CreditLine": "Gift of Philip Johnson", 
   "Date": "1967", 
   "ArtistID": 5086, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "389.1973", 
-  "ArtistBio": "American, born 1937", 
-  "CreditLine": "Gift of Philip Johnson", 
+  "ArtistBio": "(American, born 1937)", 
+  "DateAcquired": "1973-10-24", 
+  "\ufeffTitle": "1984", 
   "ObjectID": "68293"
 }

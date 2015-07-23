@@ -5,8 +5,7 @@
   "Artist": "Otto Dix", 
   "URL": "http://www.moma.org/collection/works/61307", 
   "CuratorApproved": "Y", 
-  "Title": "J. B. Neumann", 
-  "DateAcquired": "1956-03-19", 
+  "CreditLine": "A. Conger Goodyear Fund (by exchange)", 
   "Date": "1922", 
   "ArtistID": 1559, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "74.1956", 
-  "ArtistBio": "German, 1891\u20131969", 
-  "CreditLine": "A. Conger Goodyear Fund (by exchange)", 
+  "ArtistBio": "(German, 1891\u20131969)", 
+  "DateAcquired": "1956-03-19", 
+  "\ufeffTitle": "J. B. Neumann", 
   "ObjectID": "61307"
 }

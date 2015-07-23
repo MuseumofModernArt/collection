@@ -5,8 +5,7 @@
   "Artist": "Jacob August Riis", 
   "URL": "http://www.moma.org/collection/works/51457", 
   "CuratorApproved": "Y", 
-  "Title": "Shoemaker, Broome Street", 
-  "DateAcquired": "1964-04-14", 
+  "CreditLine": "Gift of the Museum of the City of New York", 
   "Date": "1888-1895", 
   "ArtistID": 4928, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "349.1964", 
-  "ArtistBio": "American, born Denmark. 1849\u20131914", 
-  "CreditLine": "Gift of the Museum of the City of New York", 
+  "ArtistBio": "(American, born Denmark. 1849\u20131914)", 
+  "DateAcquired": "1964-04-14", 
+  "\ufeffTitle": "Shoemaker, Broome Street", 
   "ObjectID": "51457"
 }

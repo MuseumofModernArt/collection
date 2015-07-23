@@ -5,8 +5,7 @@
   "Artist": "Raimund Abraham", 
   "URL": "http://www.moma.org/collection/works/342", 
   "CuratorApproved": "Y", 
-  "Title": "Austrian Cultural Institute, New York, New York  Exterior perspective  ", 
-  "DateAcquired": "1993-01-14", 
+  "CreditLine": "Gift of the architect", 
   "Date": "1993", 
   "ArtistID": 47, 
   "Keywords": [
@@ -20,7 +19,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "350.1993", 
-  "ArtistBio": "American, born Austria. 1933\u20132010", 
-  "CreditLine": "Gift of the architect", 
+  "ArtistBio": "(American, born Austria. 1933\u20132010)", 
+  "DateAcquired": "1993-01-14", 
+  "\ufeffTitle": "Austrian Cultural Institute, New York, New York, Exterior perspective", 
   "ObjectID": "342"
 }

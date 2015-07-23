@@ -1,12 +1,11 @@
 {
   "Medium": "Screenprint", 
-  "Dimensions": "composition  15 1/4 x 10 7/8\" (38.8 x 27.7 cm)  sheet  21 x 14 7/8\" (53 x 37.8 cm)", 
+  "Dimensions": "composition  15 1/4 x 10 7/8\" (38.8 x 27.7 cm)\r\nsheet  21 x 14 7/8\" (53 x 37.8 cm)", 
   "Classification": "Print", 
   "Artist": "Ian Hamilton Finlay", 
   "URL": "http://www.moma.org/collection/works/63922", 
   "CuratorApproved": "Y", 
-  "Title": "Acrobats", 
-  "DateAcquired": "1990-05-02", 
+  "CreditLine": "Gift of Linda Barth Goldstein", 
   "Date": "1966", 
   "ArtistID": 1878, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "182.1990", 
-  "ArtistBio": "British, 1925\u20132006", 
-  "CreditLine": "Gift of Linda Barth Goldstein", 
+  "ArtistBio": "(British, 1925\u20132006)", 
+  "DateAcquired": "1990-05-02", 
+  "\ufeffTitle": "Acrobats", 
   "ObjectID": "63922"
 }

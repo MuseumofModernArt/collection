@@ -5,8 +5,7 @@
   "Artist": "Alexander Calder", 
   "URL": "http://www.moma.org/collection/works/61707", 
   "CuratorApproved": "Y", 
-  "Title": "The Red Sun (Le soleil rouge)", 
-  "DateAcquired": "1970-03-05", 
+  "CreditLine": "John B. Turner Fund", 
   "Date": "1965", 
   "ArtistID": 922, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "93.1970", 
-  "ArtistBio": "American, 1898\u20131976", 
-  "CreditLine": "John B. Turner Fund", 
+  "ArtistBio": "(American, 1898\u20131976)", 
+  "DateAcquired": "1970-03-05", 
+  "\ufeffTitle": "The Red Sun (Le soleil rouge)", 
   "ObjectID": "61707"
 }

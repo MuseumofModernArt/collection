@@ -5,8 +5,7 @@
   "Artist": "Enrico Castellani", 
   "URL": "http://www.moma.org/collection/works/60517", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1968-02-05", 
+  "CreditLine": "John S. Newberry Fund", 
   "Date": "1967", 
   "ArtistID": 1025, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "33.1968", 
-  "ArtistBio": "Italian, born 1930", 
-  "CreditLine": "John S. Newberry Fund", 
+  "ArtistBio": "(Italian, born 1930)", 
+  "DateAcquired": "1968-02-05", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "60517"
 }

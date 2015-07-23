@@ -5,8 +5,7 @@
   "Artist": "Koichi Sato", 
   "URL": "http://www.moma.org/collection/works/5519", 
   "CuratorApproved": "Y", 
-  "Title": "Promotional Poster for a Group of Flower Arrangers", 
-  "DateAcquired": "1993-05-04", 
+  "CreditLine": "Gift of the designer", 
   "Date": "1985", 
   "ArtistID": 5173, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "176.1993", 
-  "ArtistBio": "Japanese, born 1944", 
-  "CreditLine": "Gift of the designer", 
+  "ArtistBio": "(Japanese, born 1944)", 
+  "DateAcquired": "1993-05-04", 
+  "\ufeffTitle": "Promotional Poster for a Group of Flower Arrangers", 
   "ObjectID": "5519"
 }

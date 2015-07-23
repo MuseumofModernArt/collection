@@ -2,11 +2,10 @@
   "Medium": "Offset lithograph", 
   "Dimensions": "42 x 28\" (106.7 x 71.1 cm)", 
   "Classification": "A&D Graphic Design", 
-  "Artist": "Ivan Chermayeff", 
+  "Artist": "Ivan Chermayeff, Thomas Geismar", 
   "URL": "http://www.moma.org/collection/works/4923", 
   "CuratorApproved": "Y", 
-  "Title": "Pan Am Hawaii", 
-  "DateAcquired": "1972-04-11", 
+  "CreditLine": "Gift of Pan American World Airways", 
   "Date": "1972", 
   "ArtistID": 1091, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "68.1972", 
-  "ArtistBio": "American, born England 1932", 
-  "CreditLine": "Gift of Pan American World Airways", 
+  "ArtistBio": "(American, born England 1932) (American, born 1931)", 
+  "DateAcquired": "1972-04-11", 
+  "\ufeffTitle": "Pan Am Hawaii", 
   "ObjectID": "4923"
 }

@@ -5,8 +5,7 @@
   "Artist": "Unknown Artist", 
   "URL": "http://www.moma.org/collection/works/5991", 
   "CuratorApproved": "Y", 
-  "Title": "Demn\u00e4chst.....Merkur in neuer bunter Vielfalt", 
-  "DateAcquired": "1965-04-06", 
+  "CreditLine": "Given anonymously", 
   "Date": "1964", 
   "ArtistID": 6026, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "273.1965.2", 
-  "ArtistBio": "Nationality Unknown", 
-  "CreditLine": "Given anonymously", 
+  "ArtistBio": "(Nationality Unknown)", 
+  "DateAcquired": "1965-04-06", 
+  "\ufeffTitle": "Demn\u00e4chst.....Merkur in neuer bunter Vielfalt", 
   "ObjectID": "5991"
 }

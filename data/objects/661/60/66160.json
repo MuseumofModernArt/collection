@@ -1,12 +1,11 @@
 {
   "Medium": "Linoleum cut", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "Juana Lecaros", 
   "URL": "http://www.moma.org/collection/works/66160", 
   "CuratorApproved": "Y", 
-  "Title": "Sleeping Woman", 
-  "DateAcquired": "1969-04-16", 
+  "CreditLine": "Inter-American Fund", 
   "Date": "(1960)", 
   "ArtistID": 3448, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "290.1969", 
-  "ArtistBio": "Chilean, 1920\u20131993", 
-  "CreditLine": "Inter-American Fund", 
+  "ArtistBio": "(Chilean, 1920\u20131993)", 
+  "DateAcquired": "1969-04-16", 
+  "\ufeffTitle": "Sleeping Woman", 
   "ObjectID": "66160"
 }

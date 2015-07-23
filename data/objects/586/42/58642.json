@@ -5,8 +5,7 @@
   "Artist": "Yasuki Nagao/United Press International", 
   "URL": "http://www.moma.org/collection/works/58642", 
   "CuratorApproved": "Y", 
-  "Title": "Assassination of Japanese Socialist Leader Inejiro Asanuma", 
-  "DateAcquired": "2001-06-14", 
+  "CreditLine": "The New York Times Collection", 
   "Date": "October 12, 1960", 
   "ArtistID": 8582, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "2049.2001", 
-  "ArtistBio": "Japanese", 
-  "CreditLine": "The New York Times Collection", 
+  "ArtistBio": "(Japanese)", 
+  "DateAcquired": "2001-06-14", 
+  "\ufeffTitle": "\"Assassination of Japanese Socialist Leader Inejiro Asanuma\"", 
   "ObjectID": "58642"
 }

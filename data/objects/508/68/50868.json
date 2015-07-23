@@ -5,8 +5,7 @@
   "Artist": "Edward Ranney", 
   "URL": "http://www.moma.org/collection/works/50868", 
   "CuratorApproved": "Y", 
-  "Title": "Mars Plain, Peru", 
-  "DateAcquired": "1982-10-28", 
+  "CreditLine": "Gift of the photographer", 
   "Date": "1975", 
   "ArtistID": 4813, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "326.1982", 
-  "ArtistBio": "American, born 1942", 
-  "CreditLine": "Gift of the photographer", 
+  "ArtistBio": "(American, born 1942)", 
+  "DateAcquired": "1982-10-28", 
+  "\ufeffTitle": "Mars Plain, Peru", 
   "ObjectID": "50868"
 }

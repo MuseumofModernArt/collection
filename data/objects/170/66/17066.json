@@ -1,12 +1,11 @@
 {
   "Medium": "5 etching and aquatints", 
-  "Dimensions": "irreg. page  8 5/8 x 7 7/8\" (21 x 20 cm)  Prints (ea. pl.): 7 3/8 x 6 1/2\" (18.7 x 16.5 cm)", 
+  "Dimensions": "irreg. page  8 5/8 x 7 7/8\" (21 x 20 cm)\r\nPrints (ea. pl.): 7 3/8 x 6 1/2\" (18.7 x 16.5 cm)", 
   "Classification": "Illustrated Book", 
   "Artist": "Gottfried Honegger", 
   "URL": "http://www.moma.org/collection/works/17066", 
   "CuratorApproved": "Y", 
-  "Title": "Memoria", 
-  "DateAcquired": "1987-10-20", 
+  "CreditLine": "Gift of Dorothy Miller (by exchange)", 
   "Date": "1985", 
   "ArtistID": 2719, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "427.1987.1-5", 
-  "ArtistBio": "Swiss, born 1917", 
-  "CreditLine": "Gift of Dorothy Miller (by exchange)", 
+  "ArtistBio": "(Swiss, born 1917)", 
+  "DateAcquired": "1987-10-20", 
+  "\ufeffTitle": "Memoria", 
   "ObjectID": "17066"
 }

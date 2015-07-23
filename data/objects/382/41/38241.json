@@ -1,12 +1,11 @@
 {
   "Medium": "Pencil on paper", 
-  "Dimensions": "6 7/8 x 5 1/2\" (17.5 x 14 cm)  ", 
+  "Dimensions": "6 7/8 x 5 1/2\" (17.5 x 14 cm)\r\n", 
   "Classification": "Drawing", 
   "Artist": "Salvador Dal\u00ed", 
   "URL": "http://www.moma.org/collection/works/38241", 
   "CuratorApproved": "Y", 
-  "Title": "Studies of a Nude", 
-  "DateAcquired": "1979-05-07", 
+  "CreditLine": "James Thrall Soby Bequest", 
   "Date": "1935", 
   "ArtistID": 1364, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "908.1979", 
-  "ArtistBio": "Spanish, 1904\u20131989", 
-  "CreditLine": "James Thrall Soby Bequest", 
+  "ArtistBio": "(Spanish, 1904\u20131989)", 
+  "DateAcquired": "1979-05-07", 
+  "\ufeffTitle": "Studies of a Nude", 
   "ObjectID": "38241"
 }

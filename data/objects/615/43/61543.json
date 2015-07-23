@@ -5,8 +5,7 @@
   "Artist": "Max Beckmann", 
   "URL": "http://www.moma.org/collection/works/61543", 
   "CuratorApproved": "Y", 
-  "Title": "Lion Couple", 
-  "DateAcquired": "1952-05-20", 
+  "CreditLine": "Gift of Weyhe Gallery", 
   "Date": "(1921)", 
   "ArtistID": 429, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "82.1952", 
-  "ArtistBio": "German, 1884\u20131950", 
-  "CreditLine": "Gift of Weyhe Gallery", 
+  "ArtistBio": "(German, 1884\u20131950)", 
+  "DateAcquired": "1952-05-20", 
+  "\ufeffTitle": "Lion Couple (L\u00f6wenpaar)", 
   "ObjectID": "61543"
 }

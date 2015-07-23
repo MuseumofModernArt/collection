@@ -1,12 +1,11 @@
 {
   "Medium": "Woodcut, lithograph, etching, linoleum cut with bronze powder additions on three sheets", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "Robin Winters", 
   "URL": "http://www.moma.org/collection/works/68162", 
   "CuratorApproved": "Y", 
-  "Title": "The Seed Multipliers", 
-  "DateAcquired": "1988-10-25", 
+  "CreditLine": "The Margery and Harry Kahn Fund", 
   "Date": "1988", 
   "ArtistID": 6407, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "382.1988.a-c", 
-  "ArtistBio": "American, born 1950", 
-  "CreditLine": "The Margery and Harry Kahn Fund", 
+  "ArtistBio": "(American, born 1950)", 
+  "DateAcquired": "1988-10-25", 
+  "\ufeffTitle": "The Seed Multipliers", 
   "ObjectID": "68162"
 }

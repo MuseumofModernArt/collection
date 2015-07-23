@@ -5,8 +5,7 @@
   "Artist": "Uncle Sam's Umbrella Shop, New York, NY", 
   "URL": "http://www.moma.org/collection/works/3546", 
   "CuratorApproved": "Y", 
-  "Title": "Bubble Umbrella", 
-  "DateAcquired": "1976-10-22", 
+  "CreditLine": "Friends of the Department Fund", 
   "Date": "1965", 
   "Keywords": [
     "online art collection", 
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "423.1976", 
-  "ArtistBio": "American", 
-  "CreditLine": "Friends of the Department Fund", 
+  "ArtistBio": "(American)", 
+  "DateAcquired": "1976-10-22", 
+  "\ufeffTitle": "Bubble Umbrella", 
   "ObjectID": "3546"
 }

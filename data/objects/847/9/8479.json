@@ -5,8 +5,7 @@
   "Artist": "Georg Trump", 
   "URL": "http://www.moma.org/collection/works/8479", 
   "CuratorApproved": "Y", 
-  "Title": "Weingrosshandlung I. Kurtz", 
-  "DateAcquired": "1999-12-10", 
+  "CreditLine": "Jan Tschichold Collection, Gift of Philip Johnson", 
   "Date": "c. 1931", 
   "ArtistID": 5947, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "1005.1999", 
-  "ArtistBio": "German, 1896\u20131985", 
-  "CreditLine": "Jan Tschichold Collection, Gift of Philip Johnson", 
+  "ArtistBio": "(German, 1896\u20131985)", 
+  "DateAcquired": "1999-12-10", 
+  "\ufeffTitle": "Weingrosshandlung I. Kurtz", 
   "ObjectID": "8479"
 }

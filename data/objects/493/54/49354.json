@@ -5,8 +5,7 @@
   "Artist": "Kenji Tadamoto", 
   "URL": "http://www.moma.org/collection/works/49354", 
   "CuratorApproved": "Y", 
-  "Title": "Snow Pattern", 
-  "DateAcquired": "1959-04-22", 
+  "CreditLine": "Gift of Nihon Keizai Shimbun", 
   "Date": "c. 1959", 
   "ArtistID": 5775, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "238.1959", 
-  "ArtistBio": "Japanese, born 1926", 
-  "CreditLine": "Gift of Nihon Keizai Shimbun", 
+  "ArtistBio": "(Japanese, born 1926)", 
+  "DateAcquired": "1959-04-22", 
+  "\ufeffTitle": "Snow Pattern", 
   "ObjectID": "49354"
 }

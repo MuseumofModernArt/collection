@@ -5,8 +5,7 @@
   "Artist": "Lovis Corinth", 
   "URL": "http://www.moma.org/collection/works/37434", 
   "CuratorApproved": "Y", 
-  "Title": "Wolfgang Gurlitt", 
-  "DateAcquired": "1964-10-06", 
+  "CreditLine": "Gift of Wolfgang Gurlitt", 
   "Date": "(1917)", 
   "ArtistID": 1243, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "586.1964", 
-  "ArtistBio": "German, 1858\u20131925", 
-  "CreditLine": "Gift of Wolfgang Gurlitt", 
+  "ArtistBio": "(German, 1858\u20131925)", 
+  "DateAcquired": "1964-10-06", 
+  "\ufeffTitle": "Wolfgang Gurlitt", 
   "ObjectID": "37434"
 }

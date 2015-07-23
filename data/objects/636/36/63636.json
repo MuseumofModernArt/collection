@@ -1,12 +1,11 @@
 {
   "Medium": "One from a series of fourteen aquatints", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "Donald Sultan", 
   "URL": "http://www.moma.org/collection/works/63636", 
   "CuratorApproved": "Y", 
-  "Title": "NAVEL from the series BODY PARTS", 
-  "DateAcquired": "1994-01-25", 
+  "CreditLine": "Gift of the artist", 
   "Date": "1994", 
   "ArtistID": 5726, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "174.1994.9", 
-  "ArtistBio": "American, born 1951", 
-  "CreditLine": "Gift of the artist", 
+  "ArtistBio": "(American, born 1951)", 
+  "DateAcquired": "1994-01-25", 
+  "\ufeffTitle": "Navel  from Body Parts", 
   "ObjectID": "63636"
 }

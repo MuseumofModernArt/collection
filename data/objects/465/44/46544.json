@@ -5,8 +5,7 @@
   "Artist": "Bill Brandt", 
   "URL": "http://www.moma.org/collection/works/46544", 
   "CuratorApproved": "Y", 
-  "Title": "Rainswept Roofs", 
-  "DateAcquired": "1959-04-22", 
+  "CreditLine": "Gift of the photographer", 
   "Date": "1933", 
   "ArtistID": 740, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "101.1959", 
-  "ArtistBio": "British, born Germany. 1904\u20131983", 
-  "CreditLine": "Gift of the photographer", 
+  "ArtistBio": "(British, born Germany. 1904\u20131983)", 
+  "DateAcquired": "1959-04-22", 
+  "\ufeffTitle": "Rainswept Roofs", 
   "ObjectID": "46544"
 }

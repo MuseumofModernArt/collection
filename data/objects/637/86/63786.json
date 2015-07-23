@@ -1,12 +1,11 @@
 {
   "Medium": "Portfolio of thirty-eight mixed media prints", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "Various Artists", 
   "URL": "http://www.moma.org/collection/works/63786", 
   "CuratorApproved": "Y", 
-  "Title": "ACTUALIDID GR\u00c1FICA PANORAMA ARTISTICO", 
-  "DateAcquired": "1979-05-01", 
+  "CreditLine": "Gift of Container Corporation of America", 
   "Date": "1978", 
   "ArtistID": 6104, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "179.1979.1-38", 
-  "ArtistBio": "Nationality unknown", 
-  "CreditLine": "Gift of Container Corporation of America", 
+  "ArtistBio": "(Nationality unknown)", 
+  "DateAcquired": "1979-05-01", 
+  "\ufeffTitle": "ACTUALIDID GR\u00c1FICA PANORAMA ARTISTICO", 
   "ObjectID": "63786"
 }

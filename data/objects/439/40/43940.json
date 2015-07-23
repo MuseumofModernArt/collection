@@ -5,8 +5,7 @@
   "Artist": "Berenice Abbott", 
   "URL": "http://www.moma.org/collection/works/43940", 
   "CuratorApproved": "Y", 
-  "Title": "Christopher Street Shop", 
-  "DateAcquired": "1971-01-05", 
+  "CreditLine": "Purchase", 
   "Date": "1948", 
   "ArtistID": 41, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "9.1971", 
-  "ArtistBio": "American, 1898\u20131991", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, 1898\u20131991)", 
+  "DateAcquired": "1971-01-05", 
+  "\ufeffTitle": "Christopher Street Shop", 
   "ObjectID": "43940"
 }

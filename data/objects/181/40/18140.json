@@ -5,8 +5,7 @@
   "Artist": "Henry Moore", 
   "URL": "http://www.moma.org/collection/works/18140", 
   "CuratorApproved": "Y", 
-  "Title": "Elephant Skull", 
-  "DateAcquired": "1971-10-07", 
+  "CreditLine": "Gift of the artist and the publisher", 
   "Date": "1970.  (Prints executed 1969-1970).", 
   "ArtistID": 4071, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "520.1971.1-33", 
-  "ArtistBio": "British, 1898\u20131986", 
-  "CreditLine": "Gift of the artist and the publisher", 
+  "ArtistBio": "(British, 1898\u20131986)", 
+  "DateAcquired": "1971-10-07", 
+  "\ufeffTitle": "Elephant Skull", 
   "ObjectID": "18140"
 }

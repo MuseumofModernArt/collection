@@ -5,8 +5,7 @@
   "Artist": "Mark Cohen", 
   "URL": "http://www.moma.org/collection/works/48546", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled (Warminster, Pennsylvania)", 
-  "DateAcquired": "1973-05-10", 
+  "CreditLine": "Gift of David H. McAlpin", 
   "Date": "1970", 
   "ArtistID": 1175, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "209.1973", 
-  "ArtistBio": "American, born 1943", 
-  "CreditLine": "Gift of David H. McAlpin", 
+  "ArtistBio": "(American, born 1943)", 
+  "DateAcquired": "1973-05-10", 
+  "\ufeffTitle": "Untitled (Warminster, Pennsylvania)", 
   "ObjectID": "48546"
 }

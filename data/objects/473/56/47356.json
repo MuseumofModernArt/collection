@@ -5,8 +5,7 @@
   "Artist": "Francis Bedford", 
   "URL": "http://www.moma.org/collection/works/47356", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1972-05-02", 
+  "CreditLine": "Purchase", 
   "Date": "1855-91", 
   "ArtistID": 430, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "173.1972", 
-  "ArtistBio": "British, 1816\u20131894", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(British, 1816\u20131894)", 
+  "DateAcquired": "1972-05-02", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "47356"
 }

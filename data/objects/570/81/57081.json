@@ -5,8 +5,7 @@
   "Artist": "Frances Benjamin Johnston", 
   "URL": "http://www.moma.org/collection/works/57081", 
   "CuratorApproved": "Y", 
-  "Title": "Thanksgiving Day Lesson at the Whittier", 
-  "DateAcquired": "1965-11-09", 
+  "CreditLine": "Gift of Lincoln Kirstein", 
   "Date": "1899-1900", 
   "ArtistID": 7851, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "859.1965.34", 
-  "ArtistBio": "American, 1864\u20131952", 
-  "CreditLine": "Gift of Lincoln Kirstein", 
+  "ArtistBio": "(American, 1864\u20131952)", 
+  "DateAcquired": "1965-11-09", 
+  "\ufeffTitle": "Thanksgiving Day Lesson at the Whittier", 
   "ObjectID": "57081"
 }

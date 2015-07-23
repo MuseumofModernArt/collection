@@ -1,12 +1,11 @@
 {
   "Medium": "Lithograph", 
-  "Dimensions": "irreg composition  58 3/4 x 25 3/16\" (149.3 x 64 cm)  sheet  67 15/16 x 39 1/16\" (172.7 x 99.2 cm)", 
+  "Dimensions": "irreg composition  58 3/4 x 25 3/16\" (149.3 x 64 cm)\r\nsheet  67 15/16 x 39 1/16\" (172.7 x 99.2 cm)", 
   "Classification": "Print", 
   "Artist": "Robert Longo", 
   "URL": "http://www.moma.org/collection/works/60118", 
   "CuratorApproved": "Y", 
-  "Title": "Eric", 
-  "DateAcquired": "1985-01-30", 
+  "CreditLine": "The Charles A. Dana Foundation Fund", 
   "Date": "1984", 
   "ArtistID": 3592, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "20.1985", 
-  "ArtistBio": "American, born 1953", 
-  "CreditLine": "The Charles A. Dana Foundation Fund", 
+  "ArtistBio": "(American, born 1953)", 
+  "DateAcquired": "1985-01-30", 
+  "\ufeffTitle": "Eric", 
   "ObjectID": "60118"
 }

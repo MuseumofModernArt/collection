@@ -5,8 +5,7 @@
   "Artist": "Betty Hahn", 
   "URL": "http://www.moma.org/collection/works/45662", 
   "CuratorApproved": "Y", 
-  "Title": "Girl by Four Highways", 
-  "DateAcquired": "1970-03-04", 
+  "CreditLine": "Purchase", 
   "Date": "1968", 
   "ArtistID": 2452, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "73.1970", 
-  "ArtistBio": "American, born 1940", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, born 1940)", 
+  "DateAcquired": "1970-03-04", 
+  "\ufeffTitle": "Girl by Four Highways", 
   "ObjectID": "45662"
 }

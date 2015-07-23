@@ -5,8 +5,7 @@
   "Artist": "Rolf Nesch", 
   "URL": "http://www.moma.org/collection/works/67543", 
   "CuratorApproved": "Y", 
-  "Title": "Miss K.", 
-  "DateAcquired": "1951-05-24", 
+  "CreditLine": "Purchase", 
   "Date": "(1926)", 
   "ArtistID": 4266, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "354.1951", 
-  "ArtistBio": "Norwegian, born Germany. 1893\u20131975", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(Norwegian, born Germany. 1893\u20131975)", 
+  "DateAcquired": "1951-05-24", 
+  "\ufeffTitle": "Miss K. (Fr\u00e4ulein K.)", 
   "ObjectID": "67543"
 }

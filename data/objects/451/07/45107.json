@@ -5,8 +5,7 @@
   "Artist": "Mark Steinmetz", 
   "URL": "http://www.moma.org/collection/works/45107", 
   "CuratorApproved": "Y", 
-  "Title": "Sharp's Ridge, Knoxville", 
-  "DateAcquired": "1994-01-13", 
+  "CreditLine": "Gift of Pierre N. Leval", 
   "Date": "1992", 
   "ArtistID": 5636, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "55.1994", 
-  "ArtistBio": "American, born 1961", 
-  "CreditLine": "Gift of Pierre N. Leval", 
+  "ArtistBio": "(American, born 1961)", 
+  "DateAcquired": "1994-01-13", 
+  "\ufeffTitle": "Sharp's Ridge, Knoxville", 
   "ObjectID": "45107"
 }

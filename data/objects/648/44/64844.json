@@ -5,8 +5,7 @@
   "Artist": "Richard Tuttle", 
   "URL": "http://www.moma.org/collection/works/64844", 
   "CuratorApproved": "Y", 
-  "Title": "Print", 
-  "DateAcquired": "1976-05-11", 
+  "CreditLine": "Junior Council Fund", 
   "Date": "1976", 
   "ArtistID": 5983, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "231.1976.a-b", 
-  "ArtistBio": "American, born 1941", 
-  "CreditLine": "Junior Council Fund", 
+  "ArtistBio": "(American, born 1941)", 
+  "DateAcquired": "1976-05-11", 
+  "\ufeffTitle": "Print", 
   "ObjectID": "64844"
 }

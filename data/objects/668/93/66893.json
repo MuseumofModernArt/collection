@@ -1,12 +1,11 @@
 {
   "Medium": "Woodcut", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "Eduardo Vilches", 
   "URL": "http://www.moma.org/collection/works/66893", 
   "CuratorApproved": "Y", 
-  "Title": "Portal", 
-  "DateAcquired": "1969-04-16", 
+  "CreditLine": "Inter-American Fund", 
   "Date": "no date", 
   "ArtistID": 6161, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "321.1969", 
-  "ArtistBio": "Chilean", 
-  "CreditLine": "Inter-American Fund", 
+  "ArtistBio": "(Chilean)", 
+  "DateAcquired": "1969-04-16", 
+  "\ufeffTitle": "Portal", 
   "ObjectID": "66893"
 }

@@ -5,8 +5,7 @@
   "Artist": "Jacques Villon", 
   "URL": "http://www.moma.org/collection/works/65338", 
   "CuratorApproved": "Y", 
-  "Title": "Ren\u00e9e, Three Quarters View (Ren\u00e9e de trois quarts)", 
-  "DateAcquired": "1951-05-25", 
+  "CreditLine": "Purchase", 
   "Date": "(1911)", 
   "ArtistID": 6165, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "255.1951", 
-  "ArtistBio": "French, 1875\u20131963", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(French, 1875\u20131963)", 
+  "DateAcquired": "1951-05-25", 
+  "\ufeffTitle": "Ren\u00e9e, Three Quarters View (Ren\u00e9e de trois quarts)", 
   "ObjectID": "65338"
 }

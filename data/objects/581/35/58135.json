@@ -5,8 +5,7 @@
   "Artist": "Bruce Davidson", 
   "URL": "http://www.moma.org/collection/works/58135", 
   "CuratorApproved": "Y", 
-  "Title": "Wales", 
-  "DateAcquired": "1968-11-06", 
+  "CreditLine": "Gift of Edward Steichen", 
   "Date": "1965", 
   "ArtistID": 1398, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "1412.1968", 
-  "ArtistBio": "American, born 1933", 
-  "CreditLine": "Gift of Edward Steichen", 
+  "ArtistBio": "(American, born 1933)", 
+  "DateAcquired": "1968-11-06", 
+  "\ufeffTitle": "Wales", 
   "ObjectID": "58135"
 }

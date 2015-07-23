@@ -5,8 +5,7 @@
   "Artist": "Max Burchartz", 
   "URL": "http://www.moma.org/collection/works/5125", 
   "CuratorApproved": "Y", 
-  "Title": "Schubertfeier der Staedtischen Buehnen Essen", 
-  "DateAcquired": "1968-03-07", 
+  "CreditLine": "Gift of Philip Johnson", 
   "Date": "1928", 
   "ArtistID": 869, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "116.1968", 
-  "ArtistBio": "German, 1887\u20131961", 
-  "CreditLine": "Gift of Philip Johnson", 
+  "ArtistBio": "(German, 1887\u20131961)", 
+  "DateAcquired": "1968-03-07", 
+  "\ufeffTitle": "Schubertfeier der Staedtischen Buehnen Essen", 
   "ObjectID": "5125"
 }

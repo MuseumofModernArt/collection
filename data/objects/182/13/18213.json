@@ -5,8 +5,7 @@
   "Artist": "Tom Phillips", 
   "URL": "http://www.moma.org/collection/works/18213", 
   "CuratorApproved": "Y", 
-  "Title": "A Humument: Volume II", 
-  "DateAcquired": "1971-10-07", 
+  "CreditLine": "", 
   "Date": "1970.  (Prints executed 1966-1970).", 
   "ArtistID": 4603, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "521.1971.1-20", 
-  "ArtistBio": "British, born 1937", 
-  "CreditLine": "NULL", 
+  "ArtistBio": "(British, born 1937)", 
+  "DateAcquired": "1971-10-07", 
+  "\ufeffTitle": "A Humument: Volume II", 
   "ObjectID": "18213"
 }

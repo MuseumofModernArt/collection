@@ -5,8 +5,7 @@
   "Artist": "David Goldblatt", 
   "URL": "http://www.moma.org/collection/works/52003", 
   "CuratorApproved": "Y", 
-  "Title": "Randfontein, South Africa", 
-  "DateAcquired": "1978-05-11", 
+  "CreditLine": "Gift of the photographer", 
   "Date": "1962", 
   "ArtistID": 2214, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "372.1978", 
-  "ArtistBio": "South African, born 1930", 
-  "CreditLine": "Gift of the photographer", 
+  "ArtistBio": "(South African, born 1930)", 
+  "DateAcquired": "1978-05-11", 
+  "\ufeffTitle": "Randfontein, South Africa", 
   "ObjectID": "52003"
 }

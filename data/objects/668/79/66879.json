@@ -5,8 +5,7 @@
   "Artist": "Eduardo Vilches", 
   "URL": "http://www.moma.org/collection/works/66879", 
   "CuratorApproved": "Y", 
-  "Title": "Incognito", 
-  "DateAcquired": "1969-04-16", 
+  "CreditLine": "Inter-American Fund", 
   "Date": "(1967)", 
   "ArtistID": 6161, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "320.1969", 
-  "ArtistBio": "Chilean", 
-  "CreditLine": "Inter-American Fund", 
+  "ArtistBio": "(Chilean)", 
+  "DateAcquired": "1969-04-16", 
+  "\ufeffTitle": "Incognito", 
   "ObjectID": "66879"
 }

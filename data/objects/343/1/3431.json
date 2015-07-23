@@ -1,12 +1,11 @@
 {
   "Medium": "Bent beechwood and sycamore panels", 
-  "Dimensions": "43 1/2 x 28 1/4 x 32\" (110.5 x 71.8 x 81.3 cm)  ", 
+  "Dimensions": "43 1/2 x 28 1/4 x 32\" (110.5 x 71.8 x 81.3 cm)\r\n", 
   "Classification": "A&D Design", 
   "Artist": "Josef Hoffmann", 
   "URL": "http://www.moma.org/collection/works/3431", 
   "CuratorApproved": "Y", 
-  "Title": "Sitzmaschine Chair with Adjustable Back (model 670)", 
-  "DateAcquired": "1994-08-04", 
+  "CreditLine": "Gift of Jo Carole and Ronald S. Lauder", 
   "Date": "c. 1905", 
   "ArtistID": 2694, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "361.1993", 
-  "ArtistBio": "Austrian, 1870\u20131956", 
-  "CreditLine": "Gift of Jo Carole and Ronald S. Lauder", 
+  "ArtistBio": "(Austrian, 1870\u20131956)", 
+  "DateAcquired": "1994-08-04", 
+  "\ufeffTitle": "Sitzmaschine Chair with Adjustable Back (model 670)", 
   "ObjectID": "3431"
 }

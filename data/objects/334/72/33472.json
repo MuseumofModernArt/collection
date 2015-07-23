@@ -5,8 +5,7 @@
   "Artist": "John Cage", 
   "URL": "http://www.moma.org/collection/works/33472", 
   "CuratorApproved": "Y", 
-  "Title": "Page 18, Solo for Piano, from Concert for Piano and Orchestra", 
-  "DateAcquired": "1972-02-07", 
+  "CreditLine": "Gift of Lily Auchincloss", 
   "Date": "(1958)", 
   "ArtistID": 912, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "42.1972", 
-  "ArtistBio": "American, 1912\u20131992", 
-  "CreditLine": "Gift of Lily Auchincloss", 
+  "ArtistBio": "(American, 1912\u20131992)", 
+  "DateAcquired": "1972-02-07", 
+  "\ufeffTitle": "Page 18, Solo for Piano, from Concert for Piano and Orchestra", 
   "ObjectID": "33472"
 }

@@ -5,8 +5,7 @@
   "Artist": "Rachel Harrison", 
   "URL": "http://www.moma.org/collection/works/52348", 
   "CuratorApproved": "Y", 
-  "Title": "Twenty Dollars", 
-  "DateAcquired": "1997-10-09", 
+  "CreditLine": "E.T. Harmax Foundation Fund", 
   "Date": "1996", 
   "ArtistID": 7855, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "388.1997.x1-x2", 
-  "ArtistBio": "American, born 1966", 
-  "CreditLine": "E.T. Harmax Foundation Fund", 
+  "ArtistBio": "(American, born 1966)", 
+  "DateAcquired": "1997-10-09", 
+  "\ufeffTitle": "Twenty Dollars", 
   "ObjectID": "52348"
 }

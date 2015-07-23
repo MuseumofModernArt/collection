@@ -1,12 +1,11 @@
 {
   "Medium": "Woodcut and screenprint", 
-  "Dimensions": "plate  17 5/8 x 25 3/8\" (44.8 x 64.4 cm)  sl. irreg. sheet  23 7/16 x 33 1/4\" (59 x 84.5 cm)", 
+  "Dimensions": "plate  17 5/8 x 25 3/8\" (44.8 x 64.4 cm)\r\nsl. irreg. sheet  23 7/16 x 33 1/4\" (59 x 84.5 cm)", 
   "Classification": "Print", 
   "Artist": "Tetsuya Noda", 
   "URL": "http://www.moma.org/collection/works/69066", 
   "CuratorApproved": "Y", 
-  "Title": "Diary; March 3rd '77", 
-  "DateAcquired": "1980-04-23", 
+  "CreditLine": "Blanchette Hooker Rockefeller 3rd", 
   "Date": "1977", 
   "ArtistID": 4318, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "434.1980", 
-  "ArtistBio": "Japanese, born 1940", 
-  "CreditLine": "Blanchette Hooker Rockefeller 3rd", 
+  "ArtistBio": "(Japanese, born 1940)", 
+  "DateAcquired": "1980-04-23", 
+  "\ufeffTitle": "Diary; March 3rd '77", 
   "ObjectID": "69066"
 }

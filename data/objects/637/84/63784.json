@@ -5,8 +5,7 @@
   "Artist": "Jasper Johns", 
   "URL": "http://www.moma.org/collection/works/63784", 
   "CuratorApproved": "Y", 
-  "Title": "Light Bulb", 
-  "DateAcquired": "1970-05-12", 
+  "CreditLine": "Gift of the Celeste and Armand Bartos Foundation", 
   "Date": "1970", 
   "ArtistID": 2923, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "179.1970", 
-  "ArtistBio": "American, born 1930", 
-  "CreditLine": "Gift of the Celeste and Armand Bartos Foundation", 
+  "ArtistBio": "(American, born 1930)", 
+  "DateAcquired": "1970-05-12", 
+  "\ufeffTitle": "Light Bulb", 
   "ObjectID": "63784"
 }

@@ -5,8 +5,7 @@
   "Artist": "Charles Herbert Woodbury", 
   "URL": "http://www.moma.org/collection/works/8242", 
   "CuratorApproved": "Y", 
-  "Title": "The July Century", 
-  "DateAcquired": "1983-11-30", 
+  "CreditLine": "Acquired by exchange", 
   "Date": "1895", 
   "ArtistID": 6442, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "837.1983", 
-  "ArtistBio": "American, 1864\u20131940", 
-  "CreditLine": "Acquired by exchange", 
+  "ArtistBio": "(American, 1864\u20131940)", 
+  "DateAcquired": "1983-11-30", 
+  "\ufeffTitle": "The July Century", 
   "ObjectID": "8242"
 }

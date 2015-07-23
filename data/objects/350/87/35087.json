@@ -5,8 +5,7 @@
   "Artist": "Fred Williams", 
   "URL": "http://www.moma.org/collection/works/35087", 
   "CuratorApproved": "Y", 
-  "Title": "Flinders Island", 
-  "DateAcquired": "1978-04-04", 
+  "CreditLine": "Gift of the artist in honor of Lester Francis Avnet", 
   "Date": "1968", 
   "ArtistID": 6378, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "179.1978", 
-  "ArtistBio": "Australian, 1927\u20131982", 
-  "CreditLine": "Gift of the artist in honor of Lester Francis Avnet", 
+  "ArtistBio": "(Australian, 1927\u20131982)", 
+  "DateAcquired": "1978-04-04", 
+  "\ufeffTitle": "Flinders Island", 
   "ObjectID": "35087"
 }

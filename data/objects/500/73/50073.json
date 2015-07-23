@@ -5,8 +5,7 @@
   "Artist": "Henri Cartier-Bresson", 
   "URL": "http://www.moma.org/collection/works/50073", 
   "CuratorApproved": "Y", 
-  "Title": "Henri Matisse, Vence, France", 
-  "DateAcquired": "1947-10-16", 
+  "CreditLine": "Gift of the photographer", 
   "Date": "1944", 
   "ArtistID": 1000, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "293.1947", 
-  "ArtistBio": "French, 1908\u20132004", 
-  "CreditLine": "Gift of the photographer", 
+  "ArtistBio": "(French, 1908\u20132004)", 
+  "DateAcquired": "1947-10-16", 
+  "\ufeffTitle": "Henri Matisse, Vence, France", 
   "ObjectID": "50073"
 }

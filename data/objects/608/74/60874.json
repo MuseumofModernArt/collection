@@ -1,12 +1,11 @@
 {
   "Medium": "Etching and carborundum", 
-  "Dimensions": "Composition: 21 7/8 x 29 1/2\" (55.5 x 75 cm)  Sheet: 21 7/8 x 29 1/2\" (55.5 x 75 cm)", 
+  "Dimensions": "Composition: 21 7/8 x 29 1/2\" (55.5 x 75 cm)\r\nSheet: 21 7/8 x 29 1/2\" (55.5 x 75 cm)", 
   "Classification": "Print", 
   "Artist": "Richard Bosman", 
   "URL": "http://www.moma.org/collection/works/60874", 
   "CuratorApproved": "Y", 
-  "Title": "Life Raft", 
-  "DateAcquired": "1984-02-01", 
+  "CreditLine": "Gift of Walter Bareiss", 
   "Date": "1983-84", 
   "ArtistID": 689, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "47.1984", 
-  "ArtistBio": "Australian, born 1944", 
-  "CreditLine": "Gift of Walter Bareiss", 
+  "ArtistBio": "(Australian, born 1944)", 
+  "DateAcquired": "1984-02-01", 
+  "\ufeffTitle": "Life Raft", 
   "ObjectID": "60874"
 }

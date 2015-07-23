@@ -1,12 +1,11 @@
 {
   "Medium": "Stainless steel", 
-  "Dimensions": ".a (dish): 2 3/4 x 7 1/4\" (7 x 18.4 cm)  .b (lid): 7 3/16\" (18.2 cm)", 
+  "Dimensions": ".a (dish): 2 3/4 x 7 1/4\" (7 x 18.4 cm)\r\n.b (lid): 7 3/16\" (18.2 cm)", 
   "Classification": "A&D Design", 
   "Artist": "Magnus Stephensen", 
   "URL": "http://www.moma.org/collection/works/2904", 
   "CuratorApproved": "Y", 
-  "Title": "Covered Serving Dish", 
-  "DateAcquired": "1958-12-04", 
+  "CreditLine": "Phyllis B. Lambert Fund", 
   "Date": "1957", 
   "ArtistID": 5646, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "234.1958.a-b", 
-  "ArtistBio": "Danish, 1903\u20131984", 
-  "CreditLine": "Phyllis B. Lambert Fund", 
+  "ArtistBio": "(Danish, 1903\u20131984)", 
+  "DateAcquired": "1958-12-04", 
+  "\ufeffTitle": "Covered Serving Dish", 
   "ObjectID": "2904"
 }

@@ -1,12 +1,11 @@
 {
-  "Medium": "NULL", 
+  "Medium": "", 
   "Dimensions": "composition: 14 x 10 7/8\" (35.5 x 27.7cm); sheet: 25 3/8 x 19 7/16\" (64.4 x 49.3cm)", 
   "Classification": "Print", 
   "Artist": "Marie Laurencin", 
   "URL": "http://www.moma.org/collection/works/62644", 
   "CuratorApproved": "Y", 
-  "Title": "The First Renault Car, 1898", 
-  "DateAcquired": "1949-03-24", 
+  "CreditLine": "Purchase", 
   "Date": "1936", 
   "ArtistID": 3408, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "137.1949", 
-  "ArtistBio": "French, 1883\u20131956", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(French, 1883\u20131956)", 
+  "DateAcquired": "1949-03-24", 
+  "\ufeffTitle": "The First Renault Car, 1898", 
   "ObjectID": "62644"
 }

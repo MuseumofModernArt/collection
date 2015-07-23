@@ -5,8 +5,7 @@
   "Artist": "Richard Tuttle", 
   "URL": "http://www.moma.org/collection/works/34248", 
   "CuratorApproved": "Y", 
-  "Title": "Two or More, VI", 
-  "DateAcquired": "1986-02-27", 
+  "CreditLine": "Gift of S. I. Newhouse Jr.", 
   "Date": "1984", 
   "ArtistID": 5983, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "124.1986", 
-  "ArtistBio": "American, born 1941", 
-  "CreditLine": "Gift of S. I. Newhouse Jr.", 
+  "ArtistBio": "(American, born 1941)", 
+  "DateAcquired": "1986-02-27", 
+  "\ufeffTitle": "Two or More, VI", 
   "ObjectID": "34248"
 }

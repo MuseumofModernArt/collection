@@ -5,8 +5,7 @@
   "Artist": "Max Beckmann", 
   "URL": "http://www.moma.org/collection/works/69629", 
   "CuratorApproved": "Y", 
-  "Title": "Portrait of the Dancer Sent M'Ahesa", 
-  "DateAcquired": "1949-09-29", 
+  "CreditLine": "Purchase", 
   "Date": "(1921)", 
   "ArtistID": 429, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "466.1949", 
-  "ArtistBio": "German, 1884\u20131950", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(German, 1884\u20131950)", 
+  "DateAcquired": "1949-09-29", 
+  "\ufeffTitle": "Portrait of the Dancer Sent M'Ahesa (Bildnis der T\u00e4nzerin Sent M'Ahesa)", 
   "ObjectID": "69629"
 }

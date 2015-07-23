@@ -5,8 +5,7 @@
   "Artist": "Joseph Cornell", 
   "URL": "http://www.moma.org/collection/works/37049", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled (Home, Poor Heart)", 
-  "DateAcquired": "1980-05-13", 
+  "CreditLine": "Gift of Mrs. Donald B. Straus", 
   "Date": "(c. 1962)", 
   "ArtistID": 1247, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "465.1980", 
-  "ArtistBio": "American, 1903\u20131972", 
-  "CreditLine": "Gift of Mrs. Donald B. Straus", 
+  "ArtistBio": "(American, 1903\u20131972)", 
+  "DateAcquired": "1980-05-13", 
+  "\ufeffTitle": "Untitled (Home, Poor Heart)", 
   "ObjectID": "37049"
 }

@@ -5,8 +5,7 @@
   "Artist": "Carl Walters", 
   "URL": "http://www.moma.org/collection/works/1502", 
   "CuratorApproved": "Y", 
-  "Title": "Plate", 
-  "DateAcquired": "1939-01-06", 
+  "CreditLine": "Gift of Abby Aldrich Rockefeller", 
   "Date": "1937", 
   "ArtistID": 6234, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "14.1939", 
-  "ArtistBio": "American, 1883\u20131955", 
-  "CreditLine": "Gift of Abby Aldrich Rockefeller", 
+  "ArtistBio": "(American, 1883\u20131955)", 
+  "DateAcquired": "1939-01-06", 
+  "\ufeffTitle": "Plate", 
   "ObjectID": "1502"
 }

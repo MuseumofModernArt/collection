@@ -5,8 +5,7 @@
   "Artist": "Walt Kuhn", 
   "URL": "http://www.moma.org/collection/works/34096", 
   "CuratorApproved": "Y", 
-  "Title": "Woman with Bare Shoulders", 
-  "DateAcquired": "1978-04-04", 
+  "CreditLine": "The Joan and Lester Avnet Collection", 
   "Date": "1928", 
   "ArtistID": 3288, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "114.1978", 
-  "ArtistBio": "American, 1877\u20131949", 
-  "CreditLine": "The Joan and Lester Avnet Collection", 
+  "ArtistBio": "(American, 1877\u20131949)", 
+  "DateAcquired": "1978-04-04", 
+  "\ufeffTitle": "Woman with Bare Shoulders", 
   "ObjectID": "34096"
 }

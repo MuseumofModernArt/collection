@@ -5,8 +5,7 @@
   "Artist": "Gunta St\u00f6lzl", 
   "URL": "http://www.moma.org/collection/works/3232", 
   "CuratorApproved": "Y", 
-  "Title": "NULL", 
-  "DateAcquired": "1984-10-30", 
+  "CreditLine": "Arthur A. Cohen Purchase Fund", 
   "Date": "c. 1924", 
   "ArtistID": 5675, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "300.1984", 
-  "ArtistBio": "Swiss, born Germany. 1897\u20131983", 
-  "CreditLine": "Arthur A. Cohen Purchase Fund", 
+  "ArtistBio": "(Swiss, born Germany. 1897\u20131983)", 
+  "DateAcquired": "1984-10-30", 
+  "\ufeffTitle": "Working Drawing for Wall Hanging", 
   "ObjectID": "3232"
 }

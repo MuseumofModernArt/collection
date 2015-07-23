@@ -5,8 +5,7 @@
   "Artist": "Albert Renger-Patzsch", 
   "URL": "http://www.moma.org/collection/works/46884", 
   "CuratorApproved": "Y", 
-  "Title": "Heterotrichum Macrodon", 
-  "DateAcquired": "1967-03-07", 
+  "CreditLine": "Gift of the photographer", 
   "Date": "1922", 
   "ArtistID": 4866, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "147.1967", 
-  "ArtistBio": "German, 1897\u20131966", 
-  "CreditLine": "Gift of the photographer", 
+  "ArtistBio": "(German, 1897\u20131966)", 
+  "DateAcquired": "1967-03-07", 
+  "\ufeffTitle": "Heterotrichum Macrodon", 
   "ObjectID": "46884"
 }

@@ -5,8 +5,7 @@
   "Artist": "Unknown Designer", 
   "URL": "http://www.moma.org/collection/works/2079", 
   "CuratorApproved": "Y", 
-  "Title": "Mixing Bowl", 
-  "DateAcquired": "1946-05-07", 
+  "CreditLine": "Purchase", 
   "Date": "1942", 
   "ArtistID": 6011, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "93.1946", 
-  "ArtistBio": "Nationality unknown", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(Nationality unknown)", 
+  "DateAcquired": "1946-05-07", 
+  "\ufeffTitle": "Mixing Bowl", 
   "ObjectID": "2079"
 }

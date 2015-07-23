@@ -5,8 +5,7 @@
   "Artist": "Antti Nurmesniemi", 
   "URL": "http://www.moma.org/collection/works/4263", 
   "CuratorApproved": "Y", 
-  "Title": "Coffeepots", 
-  "DateAcquired": "1990-10-24", 
+  "CreditLine": "Gift of the designer", 
   "Date": "1957", 
   "ArtistID": 6613, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "505.1990.1-2", 
-  "ArtistBio": "Finnish, 1927\u20132003", 
-  "CreditLine": "Gift of the designer", 
+  "ArtistBio": "(Finnish, 1927\u20132003)", 
+  "DateAcquired": "1990-10-24", 
+  "\ufeffTitle": "Coffeepots", 
   "ObjectID": "4263"
 }

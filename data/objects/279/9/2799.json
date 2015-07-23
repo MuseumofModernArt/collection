@@ -5,8 +5,7 @@
   "Artist": "Lilly E. Hoffman", 
   "URL": "http://www.moma.org/collection/works/2799", 
   "CuratorApproved": "Y", 
-  "Title": "Hand-Woven Drapery Fabric", 
-  "DateAcquired": "1957-10-09", 
+  "CreditLine": "Gift of Lilly E. Hoffman", 
   "Date": "1953", 
   "ArtistID": 2691, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "223.1957", 
-  "ArtistBio": "American", 
-  "CreditLine": "Gift of Lilly E. Hoffman", 
+  "ArtistBio": "(American)", 
+  "DateAcquired": "1957-10-09", 
+  "\ufeffTitle": "Hand-Woven Drapery Fabric", 
   "ObjectID": "2799"
 }

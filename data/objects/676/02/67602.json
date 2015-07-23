@@ -5,8 +5,7 @@
   "Artist": "Mikhail Larionov", 
   "URL": "http://www.moma.org/collection/works/67602", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1988-10-25", 
+  "CreditLine": "The Associates Fund", 
   "Date": "(1913-1914)", 
   "ArtistID": 3389, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "356.1988", 
-  "ArtistBio": "Russian, 1881\u20131964", 
-  "CreditLine": "The Associates Fund", 
+  "ArtistBio": "(Russian, 1881\u20131964)", 
+  "DateAcquired": "1988-10-25", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "67602"
 }

@@ -5,8 +5,7 @@
   "Artist": "Jasper Johns", 
   "URL": "http://www.moma.org/collection/works/61899", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1995-05-03", 
+  "CreditLine": "Gift of the artist in honor of Riva Castleman", 
   "Date": "1983", 
   "ArtistID": 2923, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "107.1995", 
-  "ArtistBio": "American, born 1930", 
-  "CreditLine": "Gift of the artist in honor of Riva Castleman", 
+  "ArtistBio": "(American, born 1930)", 
+  "DateAcquired": "1995-05-03", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "61899"
 }

@@ -5,8 +5,7 @@
   "Artist": "Dorothea Lange", 
   "URL": "http://www.moma.org/collection/works/54623", 
   "CuratorApproved": "Y", 
-  "Title": "Kern County, California", 
-  "DateAcquired": "1973-11-13", 
+  "CreditLine": "Gift of the photographer", 
   "Date": "1938", 
   "ArtistID": 3373, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "517.1973", 
-  "ArtistBio": "American, 1895\u20131965", 
-  "CreditLine": "Gift of the photographer", 
+  "ArtistBio": "(American, 1895\u20131965)", 
+  "DateAcquired": "1973-11-13", 
+  "\ufeffTitle": "Kern County, California", 
   "ObjectID": "54623"
 }

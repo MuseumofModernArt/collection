@@ -5,8 +5,7 @@
   "Artist": "Agnes Denes", 
   "URL": "http://www.moma.org/collection/works/61777", 
   "CuratorApproved": "Y", 
-  "Title": "Human Hang-Up Machine", 
-  "DateAcquired": "1995-05-03", 
+  "CreditLine": "Given anonymously", 
   "Date": "1969", 
   "ArtistID": 1491, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "99.1995", 
-  "ArtistBio": "American, born 1931", 
-  "CreditLine": "Given anonymously", 
+  "ArtistBio": "(American, born 1931)", 
+  "DateAcquired": "1995-05-03", 
+  "\ufeffTitle": "Human Hang-Up Machine", 
   "ObjectID": "61777"
 }

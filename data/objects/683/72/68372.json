@@ -1,12 +1,11 @@
 {
   "Medium": "Lithograph", 
-  "Dimensions": "composition  32 3/8 x 48 1/4\" (82.2 x 122.5 cm)  sheet  36 1/16 x 50 15/16\" (91 x 129.5 cm)", 
+  "Dimensions": "composition  32 3/8 x 48 1/4\" (82.2 x 122.5 cm)\r\nsheet  36 1/16 x 50 15/16\" (91 x 129.5 cm)", 
   "Classification": "Print", 
   "Artist": "Bruce Nauman", 
   "URL": "http://www.moma.org/collection/works/68372", 
   "CuratorApproved": "Y", 
-  "Title": "Help Me Hurt Me from the series Sundry Obras Nuevas", 
-  "DateAcquired": "1987-10-20", 
+  "CreditLine": "Jeanne C. Thayer Fund", 
   "Date": "1975", 
   "ArtistID": 4243, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "394.1987", 
-  "ArtistBio": "American, born 1941", 
-  "CreditLine": "Jeanne C. Thayer Fund", 
+  "ArtistBio": "(American, born 1941)", 
+  "DateAcquired": "1987-10-20", 
+  "\ufeffTitle": "Help Me Hurt Me from the series Sundry Obras Nuevas", 
   "ObjectID": "68372"
 }

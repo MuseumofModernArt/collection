@@ -5,8 +5,7 @@
   "Artist": "Jasper Johns", 
   "URL": "http://www.moma.org/collection/works/64511", 
   "CuratorApproved": "Y", 
-  "Title": "Scent", 
-  "DateAcquired": "1976-05-11", 
+  "CreditLine": "Gift of Celeste Bartos", 
   "Date": "1975-76", 
   "ArtistID": 2923, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "213.1976", 
-  "ArtistBio": "American, born 1930", 
-  "CreditLine": "Gift of Celeste Bartos", 
+  "ArtistBio": "(American, born 1930)", 
+  "DateAcquired": "1976-05-11", 
+  "\ufeffTitle": "Scent", 
   "ObjectID": "64511"
 }

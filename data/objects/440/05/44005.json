@@ -5,8 +5,7 @@
   "Artist": "George Barnard", 
   "URL": "http://www.moma.org/collection/works/44005", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1974-01-29", 
+  "CreditLine": "Acquired through the generosity of Celeste Bartos", 
   "Date": "1846-53", 
   "ArtistID": 336, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "16.1974", 
-  "ArtistBio": "American, 1819\u20131902", 
-  "CreditLine": "Acquired through the generosity of Celeste Bartos", 
+  "ArtistBio": "(American, 1819\u20131902)", 
+  "DateAcquired": "1974-01-29", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "44005"
 }

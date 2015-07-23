@@ -1,12 +1,11 @@
 {
   "Medium": "Etching", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "Toshiro Maeda", 
   "URL": "http://www.moma.org/collection/works/69009", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1990-10-23", 
+  "CreditLine": "Gift of Katsko Suzuki", 
   "Date": "c.1930s", 
   "ArtistID": 3681, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "430.1990", 
-  "ArtistBio": "Japanese, 1904\u20131990", 
-  "CreditLine": "Gift of Katsko Suzuki", 
+  "ArtistBio": "(Japanese, 1904\u20131990)", 
+  "DateAcquired": "1990-10-23", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "69009"
 }

@@ -5,8 +5,7 @@
   "Artist": "Dorothea Lange", 
   "URL": "http://www.moma.org/collection/works/51509", 
   "CuratorApproved": "Y", 
-  "Title": "War Babies, Richmond, California", 
-  "DateAcquired": "1995-06-15", 
+  "CreditLine": "Purchase", 
   "Date": "1944", 
   "ArtistID": 3373, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "351.1995", 
-  "ArtistBio": "American, 1895\u20131965", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, 1895\u20131965)", 
+  "DateAcquired": "1995-06-15", 
+  "\ufeffTitle": "War Babies, Richmond, California", 
   "ObjectID": "51509"
 }

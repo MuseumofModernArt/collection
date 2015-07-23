@@ -5,8 +5,7 @@
   "Artist": "Eugene Martinez", 
   "URL": "http://www.moma.org/collection/works/4124", 
   "CuratorApproved": "Y", 
-  "Title": "Slide Viewer", 
-  "DateAcquired": "1963-11-12", 
+  "CreditLine": "Gift of the manufacturer", 
   "Date": "1963", 
   "ArtistID": 3798, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "579.1963", 
-  "ArtistBio": "American, born 1925", 
-  "CreditLine": "Gift of the manufacturer", 
+  "ArtistBio": "(American, born 1925)", 
+  "DateAcquired": "1963-11-12", 
+  "\ufeffTitle": "Slide Viewer", 
   "ObjectID": "4124"
 }

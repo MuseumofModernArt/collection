@@ -5,8 +5,7 @@
   "Artist": "Kiki Smith", 
   "URL": "http://www.moma.org/collection/works/61254", 
   "CuratorApproved": "Y", 
-  "Title": "Tidal", 
-  "DateAcquired": "1999-03-04", 
+  "CreditLine": "Mary Ellen Meehan Fund", 
   "Date": "1998", 
   "ArtistID": 5486, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "70.1999", 
-  "ArtistBio": "American, born Germany 1954", 
-  "CreditLine": "Mary Ellen Meehan Fund", 
+  "ArtistBio": "(American, born Germany 1954)", 
+  "DateAcquired": "1999-03-04", 
+  "\ufeffTitle": "Tidal", 
   "ObjectID": "61254"
 }

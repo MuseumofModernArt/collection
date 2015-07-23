@@ -5,8 +5,7 @@
   "Artist": "Mimmo Paladino", 
   "URL": "http://www.moma.org/collection/works/65503", 
   "CuratorApproved": "Y", 
-  "Title": "Between the Wind and Fire (Tra Il Vento Fuoco)", 
-  "DateAcquired": "1982-10-26", 
+  "CreditLine": "Purchase", 
   "Date": "1982", 
   "ArtistID": 4472, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "262.1982", 
-  "ArtistBio": "Italian, born 1948", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(Italian, born 1948)", 
+  "DateAcquired": "1982-10-26", 
+  "\ufeffTitle": "Between the Wind and Fire (Tra Il Vento Fuoco)", 
   "ObjectID": "65503"
 }

@@ -5,8 +5,7 @@
   "Artist": "Unknown Designer", 
   "URL": "http://www.moma.org/collection/works/4455", 
   "CuratorApproved": "Y", 
-  "Title": "Vegetable Peeler", 
-  "DateAcquired": "1941-12-01", 
+  "CreditLine": "Purchase", 
   "Date": "Before 1941", 
   "ArtistID": 6011, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "799.1941", 
-  "ArtistBio": "American", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American)", 
+  "DateAcquired": "1941-12-01", 
+  "\ufeffTitle": "Vegetable Peeler", 
   "ObjectID": "4455"
 }

@@ -5,8 +5,7 @@
   "Artist": "Ernie Sisto/The New York Times", 
   "URL": "http://www.moma.org/collection/works/58696", 
   "CuratorApproved": "Y", 
-  "Title": "Quintuplets Visit Infants' Ward Hospital", 
-  "DateAcquired": "2001-06-14", 
+  "CreditLine": "The New York Times Collection", 
   "Date": "October 20, 1950", 
   "ArtistID": 8620, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "2103.2001", 
-  "ArtistBio": "American, 1904\u20131989", 
-  "CreditLine": "The New York Times Collection", 
+  "ArtistBio": "(American, 1904\u20131989)", 
+  "DateAcquired": "2001-06-14", 
+  "\ufeffTitle": "Quintuplets Visit Infants' Ward Hospital", 
   "ObjectID": "58696"
 }

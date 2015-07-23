@@ -5,8 +5,7 @@
   "Artist": "Walter Von Nessen", 
   "URL": "http://www.moma.org/collection/works/3821", 
   "CuratorApproved": "Y", 
-  "Title": "Desk Lamp", 
-  "DateAcquired": "1956-10-25", 
+  "CreditLine": "Gift of the manufacturer", 
   "Date": "1927", 
   "ArtistID": 4268, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "453.1956", 
-  "ArtistBio": "American, 1889\u20131943", 
-  "CreditLine": "Gift of the manufacturer", 
+  "ArtistBio": "(American, 1889\u20131943)", 
+  "DateAcquired": "1956-10-25", 
+  "\ufeffTitle": "Desk Lamp", 
   "ObjectID": "3821"
 }

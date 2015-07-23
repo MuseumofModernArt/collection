@@ -5,8 +5,7 @@
   "Artist": "Fernand L\u00e9ger", 
   "URL": "http://www.moma.org/collection/works/37141", 
   "CuratorApproved": "Y", 
-  "Title": "The Viaduct", 
-  "DateAcquired": "1976-10-28", 
+  "CreditLine": "Gift of Robert L. Heilbroner", 
   "Date": "(c. 1922)", 
   "ArtistID": 6624, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "491.1976", 
-  "ArtistBio": "French, 1881\u20131955", 
-  "CreditLine": "Gift of Robert L. Heilbroner", 
+  "ArtistBio": "(French, 1881\u20131955)", 
+  "DateAcquired": "1976-10-28", 
+  "\ufeffTitle": "The Viaduct", 
   "ObjectID": "37141"
 }

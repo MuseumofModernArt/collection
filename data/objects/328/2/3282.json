@@ -5,8 +5,7 @@
   "Artist": "Hector Guimard", 
   "URL": "http://www.moma.org/collection/works/3282", 
   "CuratorApproved": "Y", 
-  "Title": "Picture Frame", 
-  "DateAcquired": "1949-05-26", 
+  "CreditLine": "Gift of Madame Hector Guimard", 
   "Date": "Unknown", 
   "ArtistID": 2407, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "318.1949", 
-  "ArtistBio": "French, 1867\u20131942", 
-  "CreditLine": "Gift of Madame Hector Guimard", 
+  "ArtistBio": "(French, 1867\u20131942)", 
+  "DateAcquired": "1949-05-26", 
+  "\ufeffTitle": "Picture Frame", 
   "ObjectID": "3282"
 }

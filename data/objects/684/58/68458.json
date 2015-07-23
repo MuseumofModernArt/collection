@@ -1,12 +1,11 @@
 {
   "Medium": "Portfolio of fourteen lithographs", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
-  "Artist": "Various Artists", 
+  "Artist": "Various Artists, Wifredo Lam", 
   "URL": "http://www.moma.org/collection/works/68458", 
   "CuratorApproved": "Y", 
-  "Title": "Pour Jorn", 
-  "DateAcquired": "1978-05-22", 
+  "CreditLine": "Gift of The Asger Jorn Foundation", 
   "Date": "(1973)", 
   "ArtistID": 6104, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "400.1978.1-14", 
-  "ArtistBio": "Nationality unknown", 
-  "CreditLine": "Gift of The Asger Jorn Foundation", 
+  "ArtistBio": "(Nationality unknown) (Cuban, 1902\u20131982)", 
+  "DateAcquired": "1978-05-22", 
+  "\ufeffTitle": "Pour Jorn", 
   "ObjectID": "68458"
 }

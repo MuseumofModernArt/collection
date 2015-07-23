@@ -5,8 +5,7 @@
   "Artist": "Unknown Artist", 
   "URL": "http://www.moma.org/collection/works/4945", 
   "CuratorApproved": "Y", 
-  "Title": "Neue Metallm\u00f6bel", 
-  "DateAcquired": "1960-04-06", 
+  "CreditLine": "Gift of the Kunstgewerbe Museum, Z\u00fcrich", 
   "Date": "1958", 
   "ArtistID": 6026, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "74.1960", 
-  "ArtistBio": "Nationality Unknown", 
-  "CreditLine": "Gift of the Kunstgewerbe Museum, Z\u00fcrich", 
+  "ArtistBio": "(Nationality Unknown)", 
+  "DateAcquired": "1960-04-06", 
+  "\ufeffTitle": "Neue Metallm\u00f6bel", 
   "ObjectID": "4945"
 }

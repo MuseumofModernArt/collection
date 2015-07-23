@@ -5,8 +5,7 @@
   "Artist": "Jerome Liebling", 
   "URL": "http://www.moma.org/collection/works/46141", 
   "CuratorApproved": "Y", 
-  "Title": "Tropical Plant", 
-  "DateAcquired": "NULL", 
+  "CreditLine": "Exchange", 
   "Date": "1952", 
   "ArtistID": 3549, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "93.1977", 
-  "ArtistBio": "American, 1924\u20132011", 
-  "CreditLine": "Exchange", 
+  "ArtistBio": "(American, 1924\u20132011)", 
+  "DateAcquired": "", 
+  "\ufeffTitle": "Tropical Plant", 
   "ObjectID": "46141"
 }

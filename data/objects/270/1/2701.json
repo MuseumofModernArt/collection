@@ -5,8 +5,7 @@
   "Artist": "Jernbolaget, Eskilstuna, Sweden", 
   "URL": "http://www.moma.org/collection/works/2701", 
   "CuratorApproved": "Y", 
-  "Title": "Ham Fork", 
-  "DateAcquired": "1958-12-04", 
+  "CreditLine": "Phyllis B. Lambert Fund", 
   "Date": "1950s", 
   "Keywords": [
     "online art collection", 
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "213.1958", 
-  "ArtistBio": "est. 1868", 
-  "CreditLine": "Phyllis B. Lambert Fund", 
+  "ArtistBio": "(est. 1868)", 
+  "DateAcquired": "1958-12-04", 
+  "\ufeffTitle": "Ham Fork", 
   "ObjectID": "2701"
 }

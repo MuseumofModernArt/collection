@@ -5,8 +5,7 @@
   "Artist": "Peter Hujar", 
   "URL": "http://www.moma.org/collection/works/51325", 
   "CuratorApproved": "Y", 
-  "Title": "John McClellan", 
-  "DateAcquired": "1992-06-18", 
+  "CreditLine": "Gift of David Wojnarowicz", 
   "Date": "1981", 
   "ArtistID": 7159, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "343.1992", 
-  "ArtistBio": "American, 1934\u20131987", 
-  "CreditLine": "Gift of David Wojnarowicz", 
+  "ArtistBio": "(American, 1934\u20131987)", 
+  "DateAcquired": "1992-06-18", 
+  "\ufeffTitle": "John McClellan", 
   "ObjectID": "51325"
 }

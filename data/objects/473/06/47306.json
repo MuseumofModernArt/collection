@@ -5,8 +5,7 @@
   "Artist": "Jerome Liebling", 
   "URL": "http://www.moma.org/collection/works/47306", 
   "CuratorApproved": "Y", 
-  "Title": "Boy and Car, New York City", 
-  "DateAcquired": "1984-05-17", 
+  "CreditLine": "Mrs. Charles Liebman Fund", 
   "Date": "1948", 
   "ArtistID": 3549, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "170.1984", 
-  "ArtistBio": "American, 1924\u20132011", 
-  "CreditLine": "Mrs. Charles Liebman Fund", 
+  "ArtistBio": "(American, 1924\u20132011)", 
+  "DateAcquired": "1984-05-17", 
+  "\ufeffTitle": "Boy and Car, New York City", 
   "ObjectID": "47306"
 }

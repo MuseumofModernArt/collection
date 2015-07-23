@@ -5,8 +5,7 @@
   "Artist": "Gerald Coble", 
   "URL": "http://www.moma.org/collection/works/37859", 
   "CuratorApproved": "Y", 
-  "Title": "Botticelli Landscape", 
-  "DateAcquired": "1968-06-04", 
+  "CreditLine": "Gift of Robert E. Nunnelley", 
   "Date": "1968", 
   "ArtistID": 1162, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "721.1968", 
-  "ArtistBio": "American, born 1933", 
-  "CreditLine": "Gift of Robert E. Nunnelley", 
+  "ArtistBio": "(American, born 1933)", 
+  "DateAcquired": "1968-06-04", 
+  "\ufeffTitle": "Botticelli Landscape", 
   "ObjectID": "37859"
 }

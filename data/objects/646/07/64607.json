@@ -5,8 +5,7 @@
   "Artist": "Pierre Alechinsky", 
   "URL": "http://www.moma.org/collection/works/64607", 
   "CuratorApproved": "Y", 
-  "Title": "Mme de Parades", 
-  "DateAcquired": "1972-05-08", 
+  "CreditLine": "Gift of the artist", 
   "Date": "1971", 
   "ArtistID": 107, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "218.1972", 
-  "ArtistBio": "Belgian, born 1927", 
-  "CreditLine": "Gift of the artist", 
+  "ArtistBio": "(Belgian, born 1927)", 
+  "DateAcquired": "1972-05-08", 
+  "\ufeffTitle": "Mme de Parades", 
   "ObjectID": "64607"
 }

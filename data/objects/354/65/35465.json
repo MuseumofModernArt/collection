@@ -5,8 +5,7 @@
   "Artist": "Jean Dubuffet", 
   "URL": "http://www.moma.org/collection/works/35465", 
   "CuratorApproved": "Y", 
-  "Title": "Desert and Bedouin", 
-  "DateAcquired": "1968-04-23", 
+  "CreditLine": "Gift of Mr. and Mrs. Lester Francis Avnet", 
   "Date": "1948", 
   "ArtistID": 1633, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "240.1968", 
-  "ArtistBio": "French, 1901\u20131985", 
-  "CreditLine": "Gift of Mr. and Mrs. Lester Francis Avnet", 
+  "ArtistBio": "(French, 1901\u20131985)", 
+  "DateAcquired": "1968-04-23", 
+  "\ufeffTitle": "Desert and Bedouin", 
   "ObjectID": "35465"
 }

@@ -5,8 +5,7 @@
   "Artist": "Robert Motherwell", 
   "URL": "http://www.moma.org/collection/works/8998", 
   "CuratorApproved": "Y", 
-  "Title": "Paris Review", 
-  "DateAcquired": "1967-10-18", 
+  "CreditLine": "Gift of Page, Arbitrio and Resen", 
   "Date": "1967", 
   "ArtistID": 4126, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "2295.1967", 
-  "ArtistBio": "American, 1915\u20131991", 
-  "CreditLine": "Gift of Page, Arbitrio and Resen", 
+  "ArtistBio": "(American, 1915\u20131991)", 
+  "DateAcquired": "1967-10-18", 
+  "\ufeffTitle": "Paris Review", 
   "ObjectID": "8998"
 }

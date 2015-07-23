@@ -5,8 +5,7 @@
   "Artist": "Louise Bourgeois", 
   "URL": "http://www.moma.org/collection/works/65005", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled, state IV of IV", 
-  "DateAcquired": "1991-10-16", 
+  "CreditLine": "Gift of Peter Blum", 
   "Date": "1991", 
   "ArtistID": 710, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "239.1991", 
-  "ArtistBio": "American, born France. 1911\u20132010", 
-  "CreditLine": "Gift of Peter Blum", 
+  "ArtistBio": "(American, born France. 1911\u20132010)", 
+  "DateAcquired": "1991-10-16", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "65005"
 }

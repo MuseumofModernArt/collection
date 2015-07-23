@@ -5,8 +5,7 @@
   "Artist": "Arnold Genthe", 
   "URL": "http://www.moma.org/collection/works/8100", 
   "CuratorApproved": "Y", 
-  "Title": "The Roll Call: A Masque of the Red Cross by Percy MacKaye", 
-  "DateAcquired": "1983-11-30", 
+  "CreditLine": "Acquired by exchange", 
   "Date": "1918", 
   "ArtistID": 2119, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "771.1983", 
-  "ArtistBio": "American, born Germany. 1869\u20131942", 
-  "CreditLine": "Acquired by exchange", 
+  "ArtistBio": "(American, born Germany. 1869\u20131942)", 
+  "DateAcquired": "1983-11-30", 
+  "\ufeffTitle": "The Roll Call: A Masque of the Red Cross by Percy MacKaye", 
   "ObjectID": "8100"
 }

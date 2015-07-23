@@ -5,8 +5,7 @@
   "Artist": "Henri Matisse", 
   "URL": "http://www.moma.org/collection/works/68840", 
   "CuratorApproved": "Y", 
-  "Title": "Madame Josette Gris", 
-  "DateAcquired": "1940-04-05", 
+  "CreditLine": "Gift of Abby Aldrich Rockefeller", 
   "Date": "(1914-15)", 
   "ArtistID": 3832, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "422.1940", 
-  "ArtistBio": "French, 1869\u20131954", 
-  "CreditLine": "Gift of Abby Aldrich Rockefeller", 
+  "ArtistBio": "(French, 1869\u20131954)", 
+  "DateAcquired": "1940-04-05", 
+  "\ufeffTitle": "Madame Josette Gris", 
   "ObjectID": "68840"
 }

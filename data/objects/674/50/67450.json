@@ -5,8 +5,7 @@
   "Artist": "Lee Bontecou", 
   "URL": "http://www.moma.org/collection/works/67450", 
   "CuratorApproved": "Y", 
-  "Title": "Second Stone", 
-  "DateAcquired": "1963-06-12", 
+  "CreditLine": "Gift of the Celeste and Armand Bartos Foundation", 
   "Date": "1962", 
   "ArtistID": 670, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "349.1963", 
-  "ArtistBio": "American, born 1931", 
-  "CreditLine": "Gift of the Celeste and Armand Bartos Foundation", 
+  "ArtistBio": "(American, born 1931)", 
+  "DateAcquired": "1963-06-12", 
+  "\ufeffTitle": "Second Stone", 
   "ObjectID": "67450"
 }

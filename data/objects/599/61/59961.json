@@ -5,8 +5,7 @@
   "Artist": "Mario Merz", 
   "URL": "http://www.moma.org/collection/works/59961", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1989-01-18", 
+  "CreditLine": "Purchase", 
   "Date": "1988", 
   "ArtistID": 3941, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "14.1989", 
-  "ArtistBio": "Italian, 1925\u20132003", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(Italian, 1925\u20132003)", 
+  "DateAcquired": "1989-01-18", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "59961"
 }

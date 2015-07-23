@@ -5,8 +5,7 @@
   "Artist": "Alvar Aalto", 
   "URL": "http://www.moma.org/collection/works/4407", 
   "CuratorApproved": "Y", 
-  "Title": "Armchair", 
-  "DateAcquired": "1983-11-30", 
+  "CreditLine": "Marcel Breuer Design Fund", 
   "Date": "1932-33", 
   "ArtistID": 34, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "723.1983", 
-  "ArtistBio": "Finnish, 1898\u20131976", 
-  "CreditLine": "Marcel Breuer Design Fund", 
+  "ArtistBio": "(Finnish, 1898\u20131976)", 
+  "DateAcquired": "1983-11-30", 
+  "\ufeffTitle": "Armchair", 
   "ObjectID": "4407"
 }

@@ -1,12 +1,11 @@
 {
   "Medium": "Screenprint", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "Elfi Schuselka", 
   "URL": "http://www.moma.org/collection/works/60500", 
   "CuratorApproved": "Y", 
-  "Title": "Pieces of the Sky", 
-  "DateAcquired": "1972-02-07", 
+  "CreditLine": "Mr. and Mrs. E. Powis Jones Fund", 
   "Date": "(1971)", 
   "ArtistID": 5279, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "32.1972", 
-  "ArtistBio": "Austrian", 
-  "CreditLine": "Mr. and Mrs. E. Powis Jones Fund", 
+  "ArtistBio": "(Austrian)", 
+  "DateAcquired": "1972-02-07", 
+  "\ufeffTitle": "Pieces of the Sky", 
   "ObjectID": "60500"
 }

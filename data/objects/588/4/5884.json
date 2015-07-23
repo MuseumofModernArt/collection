@@ -5,8 +5,7 @@
   "Artist": "Jerzy Czerniawski", 
   "URL": "http://www.moma.org/collection/works/5884", 
   "CuratorApproved": "Y", 
-  "Title": "Trzy Dni Kondora", 
-  "DateAcquired": "1998-04-22", 
+  "CreditLine": "Gift of Susan Hornik", 
   "Date": "1978", 
   "ArtistID": 1347, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "256.1998", 
-  "ArtistBio": "Polish, born 1947", 
-  "CreditLine": "Gift of Susan Hornik", 
+  "ArtistBio": "(Polish, born 1947)", 
+  "DateAcquired": "1998-04-22", 
+  "\ufeffTitle": "Trzy Dni Kondora", 
   "ObjectID": "5884"
 }

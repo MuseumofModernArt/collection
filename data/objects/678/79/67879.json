@@ -5,8 +5,7 @@
   "Artist": "Pablo Picasso", 
   "URL": "http://www.moma.org/collection/works/67879", 
   "CuratorApproved": "Y", 
-  "Title": "The Woman at the Window", 
-  "DateAcquired": "1955-11-23", 
+  "CreditLine": "Curt Valentin Bequest", 
   "Date": "May 17, 1952", 
   "ArtistID": 4609, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "367.1955", 
-  "ArtistBio": "Spanish, 1881\u20131973", 
-  "CreditLine": "Curt Valentin Bequest", 
+  "ArtistBio": "(Spanish, 1881\u20131973)", 
+  "DateAcquired": "1955-11-23", 
+  "\ufeffTitle": "The Woman at the Window (La femme \u00e0 la fen\u00eatre), state II", 
   "ObjectID": "67879"
 }

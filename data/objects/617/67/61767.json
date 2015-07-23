@@ -5,8 +5,7 @@
   "Artist": "R. Maxil Ballinger", 
   "URL": "http://www.moma.org/collection/works/61767", 
   "CuratorApproved": "Y", 
-  "Title": "The Immaculate Conception", 
-  "DateAcquired": "1949-03-24", 
+  "CreditLine": "Purchase", 
   "Date": "(1947)", 
   "ArtistID": 313, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "99.1949", 
-  "ArtistBio": "American, 1914-1958", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, 1914\u20131958)", 
+  "DateAcquired": "1949-03-24", 
+  "\ufeffTitle": "The Immaculate Conception", 
   "ObjectID": "61767"
 }

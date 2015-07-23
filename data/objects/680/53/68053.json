@@ -5,8 +5,7 @@
   "Artist": "Oskar Kokoschka", 
   "URL": "http://www.moma.org/collection/works/68053", 
   "CuratorApproved": "Y", 
-  "Title": "Max Liebermann", 
-  "DateAcquired": "1954-09-30", 
+  "CreditLine": "Gift of Samuel A. Berger", 
   "Date": "(1923)", 
   "ArtistID": 3197, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "377.1954", 
-  "ArtistBio": "Austrian, 1886\u20131980", 
-  "CreditLine": "Gift of Samuel A. Berger", 
+  "ArtistBio": "(Austrian, 1886\u20131980)", 
+  "DateAcquired": "1954-09-30", 
+  "\ufeffTitle": "Max Liebermann", 
   "ObjectID": "68053"
 }

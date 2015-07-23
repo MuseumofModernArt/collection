@@ -5,8 +5,7 @@
   "Artist": "Anthony Barboza", 
   "URL": "http://www.moma.org/collection/works/51895", 
   "CuratorApproved": "Y", 
-  "Title": "Booker T. Williams, S.O.B., New York City", 
-  "DateAcquired": "1997-10-09", 
+  "CreditLine": "Geraldine J. Murphy Fund", 
   "Date": "1987", 
   "ArtistID": 327, 
   "Keywords": [
@@ -20,7 +19,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "367.1997", 
-  "ArtistBio": "American, born 1944", 
-  "CreditLine": "Geraldine J. Murphy Fund", 
+  "ArtistBio": "(American, born 1944)", 
+  "DateAcquired": "1997-10-09", 
+  "\ufeffTitle": "Booker T. Williams, S.O.B., New York City", 
   "ObjectID": "51895"
 }

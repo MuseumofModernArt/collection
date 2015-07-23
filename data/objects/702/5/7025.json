@@ -5,8 +5,7 @@
   "Artist": "Franciszek Starowieyski", 
   "URL": "http://www.moma.org/collection/works/7025", 
   "CuratorApproved": "Y", 
-  "Title": "Sanatorium Pod Klepsydra", 
-  "DateAcquired": "1985-11-18", 
+  "CreditLine": "Gift of the designer", 
   "Date": "1973", 
   "ArtistID": 5607, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "449.1985", 
-  "ArtistBio": "Polish, 1930\u20132009", 
-  "CreditLine": "Gift of the designer", 
+  "ArtistBio": "(Polish, 1930\u20132009)", 
+  "DateAcquired": "1985-11-18", 
+  "\ufeffTitle": "Sanatorium Pod Klepsydra", 
   "ObjectID": "7025"
 }

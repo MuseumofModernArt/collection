@@ -5,8 +5,7 @@
   "Artist": "Rosalind Fox Solomon", 
   "URL": "http://www.moma.org/collection/works/48940", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled, Scottsboro, Alabama", 
-  "DateAcquired": "1975-05-14", 
+  "CreditLine": "Purchase", 
   "Date": "1975", 
   "ArtistID": 5517, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "222.1975", 
-  "ArtistBio": "American, born 1930", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, born 1930)", 
+  "DateAcquired": "1975-05-14", 
+  "\ufeffTitle": "Untitled, Scottsboro, Alabama", 
   "ObjectID": "48940"
 }

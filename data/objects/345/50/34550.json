@@ -5,8 +5,7 @@
   "Artist": "Lyonel Feininger", 
   "URL": "http://www.moma.org/collection/works/34550", 
   "CuratorApproved": "Y", 
-  "Title": "The Schooner \"America\"", 
-  "DateAcquired": "1966-02-08", 
+  "CreditLine": "Gift of Julia Feininger", 
   "Date": "1933", 
   "ArtistID": 1832, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "132.1966", 
-  "ArtistBio": "American, 1871\u20131956", 
-  "CreditLine": "Gift of Julia Feininger", 
+  "ArtistBio": "(American, 1871\u20131956)", 
+  "DateAcquired": "1966-02-08", 
+  "\ufeffTitle": "The Schooner \"America\"", 
   "ObjectID": "34550"
 }

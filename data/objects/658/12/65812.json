@@ -5,8 +5,7 @@
   "Artist": "Marino Marini", 
   "URL": "http://www.moma.org/collection/works/65812", 
   "CuratorApproved": "Y", 
-  "Title": "Horse, Horse and Rider", 
-  "DateAcquired": "1952-11-07", 
+  "CreditLine": "Larry Aldrich Fund", 
   "Date": "(1951)", 
   "ArtistID": 3772, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "275.1952.1-2", 
-  "ArtistBio": "Italian, 1901\u20131980", 
-  "CreditLine": "Larry Aldrich Fund", 
+  "ArtistBio": "(Italian, 1901\u20131980)", 
+  "DateAcquired": "1952-11-07", 
+  "\ufeffTitle": "Horse, Horse and Rider", 
   "ObjectID": "65812"
 }

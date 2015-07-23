@@ -5,8 +5,7 @@
   "Artist": "Alan Randall Best", 
   "URL": "http://www.moma.org/collection/works/3646", 
   "CuratorApproved": "Y", 
-  "Title": "Speed Skiing Helmet", 
-  "DateAcquired": "1987-11-18", 
+  "CreditLine": "Gift of Smith Sport Optics", 
   "Date": "1985-86", 
   "ArtistID": 536, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "448.1987", 
-  "ArtistBio": "Canadian, born 1958", 
-  "CreditLine": "Gift of Smith Sport Optics", 
+  "ArtistBio": "(Canadian, born 1958)", 
+  "DateAcquired": "1987-11-18", 
+  "\ufeffTitle": "Speed Skiing Helmet", 
   "ObjectID": "3646"
 }

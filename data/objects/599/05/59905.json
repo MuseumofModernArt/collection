@@ -1,12 +1,11 @@
 {
   "Medium": "Etching and aquatint", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "Robert Indiana", 
   "URL": "http://www.moma.org/collection/works/59905", 
   "CuratorApproved": "Y", 
-  "Title": "Art", 
-  "DateAcquired": "1993-01-18", 
+  "CreditLine": "Gift of the artist and Vinalhaven Press", 
   "Date": "1992", 
   "ArtistID": 2812, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "12.1993", 
-  "ArtistBio": "American, born 1928", 
-  "CreditLine": "Gift of the artist and Vinalhaven Press", 
+  "ArtistBio": "(American, born 1928)", 
+  "DateAcquired": "1993-01-18", 
+  "\ufeffTitle": "Art", 
   "ObjectID": "59905"
 }

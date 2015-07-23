@@ -1,12 +1,11 @@
 {
   "Medium": "Aquatint and drypoint", 
-  "Dimensions": "plate  31 5/16 x 31 1/8\" (79.5 x 79.1 cm)  sheet  46 7/8 x 38 15/16\" (119 x 99 cm)", 
+  "Dimensions": "plate  31 5/16 x 31 1/8\" (79.5 x 79.1 cm)\r\nsheet  46 7/8 x 38 15/16\" (119 x 99 cm)", 
   "Classification": "Print", 
   "Artist": "A.R. Penck (Ralf Winkler)", 
   "URL": "http://www.moma.org/collection/works/60030", 
   "CuratorApproved": "Y", 
-  "Title": "Proclamation (Was sich ankuendigt)", 
-  "DateAcquired": "1990-01-16", 
+  "CreditLine": "Miles O. Epstein, Richard A. Epstein and Sarah C. Epstein Funds", 
   "Date": "(1989)", 
   "ArtistID": 4546, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "17.1990", 
-  "ArtistBio": "German, born 1939", 
-  "CreditLine": "Miles O. Epstein, Richard A. Epstein and Sarah C. Epstein Funds", 
+  "ArtistBio": "(German, born 1939)", 
+  "DateAcquired": "1990-01-16", 
+  "\ufeffTitle": "Proclamation (Was sich ankuendigt)", 
   "ObjectID": "60030"
 }

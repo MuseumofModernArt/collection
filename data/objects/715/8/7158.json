@@ -5,8 +5,7 @@
   "Artist": "Robert Delaunay", 
   "URL": "http://www.moma.org/collection/works/7158", 
   "CuratorApproved": "Y", 
-  "Title": "Soir\u00e9e du Coeur \u00e0 Barbe", 
-  "DateAcquired": "1987-11-18", 
+  "CreditLine": "Given anonymously", 
   "Date": "1923", 
   "ArtistID": 1479, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "472.1987", 
-  "ArtistBio": "French, 1885\u20131941", 
-  "CreditLine": "Given anonymously", 
+  "ArtistBio": "(French, 1885\u20131941)", 
+  "DateAcquired": "1987-11-18", 
+  "\ufeffTitle": "Soir\u00e9e du Coeur \u00e0 Barbe", 
   "ObjectID": "7158"
 }

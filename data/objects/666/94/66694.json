@@ -5,8 +5,7 @@
   "Artist": "Graham Sutherland", 
   "URL": "http://www.moma.org/collection/works/66694", 
   "CuratorApproved": "Y", 
-  "Title": "Turning Form", 
-  "DateAcquired": "1950-10-11", 
+  "CreditLine": "Purchase", 
   "Date": "Oct. 17, 1948", 
   "ArtistID": 5739, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "313.1950", 
-  "ArtistBio": "British, 1903\u20131980", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(British, 1903\u20131980)", 
+  "DateAcquired": "1950-10-11", 
+  "\ufeffTitle": "Turning Form", 
   "ObjectID": "66694"
 }

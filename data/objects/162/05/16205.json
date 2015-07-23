@@ -1,12 +1,11 @@
 {
   "Medium": "Illustrated book with one woodcut, six lithographs, and lithographed ornaments", 
-  "Dimensions": "irreg. page  9 1/16 x 7 1/4\" (23 x 18.5 cm)  Prints:  various dimensions.", 
+  "Dimensions": "irreg. page  9 1/16 x 7 1/4\" (23 x 18.5 cm)\r\nPrints:  various dimensions.", 
   "Classification": "Illustrated Book", 
   "Artist": "Kazimir Malevich", 
   "URL": "http://www.moma.org/collection/works/16205", 
   "CuratorApproved": "Y", 
-  "Title": "O Novykh Sistemakh Visk Usstve (On New Systems in Art)", 
-  "DateAcquired": "1980-02-25", 
+  "CreditLine": "Mrs. Gilbert W. Chapman Fund", 
   "Date": "1919.  (Prints executed 1910-1919).", 
   "ArtistID": 3710, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "356.1980.1-7", 
-  "ArtistBio": "Russian, born Ukraine. 1878\u20131935", 
-  "CreditLine": "Mrs. Gilbert W. Chapman Fund", 
+  "ArtistBio": "(Russian, born Ukraine. 1878\u20131935)", 
+  "DateAcquired": "1980-02-25", 
+  "\ufeffTitle": "O Novykh Sistemakh Visk Usstve (On New Systems in Art)", 
   "ObjectID": "16205"
 }

@@ -5,8 +5,7 @@
   "Artist": "Roman Cieslewicz", 
   "URL": "http://www.moma.org/collection/works/4844", 
   "CuratorApproved": "Y", 
-  "Title": "Stracone Zludzenia", 
-  "DateAcquired": "1960-04-06", 
+  "CreditLine": "Gift of the Polish Ambassador to the United States", 
   "Date": "1958", 
   "ArtistID": 1125, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "47.1960", 
-  "ArtistBio": "French, born Poland. 1930\u20131996", 
-  "CreditLine": "Gift of the Polish Ambassador to the United States", 
+  "ArtistBio": "(French, born Poland. 1930\u20131996)", 
+  "DateAcquired": "1960-04-06", 
+  "\ufeffTitle": "Stracone Zludzenia", 
   "ObjectID": "4844"
 }

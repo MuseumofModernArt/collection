@@ -5,8 +5,7 @@
   "Artist": "Henry Wessel, Jr.", 
   "URL": "http://www.moma.org/collection/works/46050", 
   "CuratorApproved": "Y", 
-  "Title": "Albuquerque, New Mexico", 
-  "DateAcquired": "1973-02-13", 
+  "CreditLine": "Gift of the photographer", 
   "Date": "1968", 
   "Keywords": [
     "online art collection", 
@@ -21,7 +20,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "90.1973", 
-  "ArtistBio": "American, born 1942", 
-  "CreditLine": "Gift of the photographer", 
+  "ArtistBio": "(American, born 1942)", 
+  "DateAcquired": "1973-02-13", 
+  "\ufeffTitle": "Albuquerque, New Mexico", 
   "ObjectID": "46050"
 }

@@ -5,8 +5,7 @@
   "Artist": "Joe Tilson", 
   "URL": "http://www.moma.org/collection/works/66811", 
   "CuratorApproved": "Y", 
-  "Title": "The Software Chart", 
-  "DateAcquired": "1969-04-16", 
+  "CreditLine": "D.S. and R.H. Gottesman Foundation Fund", 
   "Date": "(1968)", 
   "ArtistID": 5879, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "317.1969", 
-  "ArtistBio": "British, born 1928", 
-  "CreditLine": "D.S. and R.H. Gottesman Foundation Fund", 
+  "ArtistBio": "(British, born 1928)", 
+  "DateAcquired": "1969-04-16", 
+  "\ufeffTitle": "The Software Chart", 
   "ObjectID": "66811"
 }

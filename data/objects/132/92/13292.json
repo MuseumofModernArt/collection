@@ -5,8 +5,7 @@
   "Artist": "Donald Baechler", 
   "URL": "http://www.moma.org/collection/works/13292", 
   "CuratorApproved": "Y", 
-  "Title": "A Life without Pocket Change", 
-  "DateAcquired": "1997-05-28", 
+  "CreditLine": "Purchase", 
   "Date": "1990", 
   "ArtistID": 280, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "193.1997", 
-  "ArtistBio": "American, born 1956", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, born 1956)", 
+  "DateAcquired": "1997-05-28", 
+  "\ufeffTitle": "A Life without Pocket Change", 
   "ObjectID": "13292"
 }

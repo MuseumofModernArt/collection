@@ -5,8 +5,7 @@
   "Artist": "Aleksandr Rodchenko", 
   "URL": "http://www.moma.org/collection/works/48896", 
   "CuratorApproved": "Y", 
-  "Title": "The Courtyard of VKhUTEMAS (Dvor VKhUTEMASa)", 
-  "DateAcquired": "1970-05-05", 
+  "CreditLine": "Gift of Alfred H. Barr, Jr.", 
   "Date": "1926-28", 
   "ArtistID": 4975, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "221.1970", 
-  "ArtistBio": "Russian, 1891\u20131956", 
-  "CreditLine": "Gift of Alfred H. Barr, Jr.", 
+  "ArtistBio": "(Russian, 1891\u20131956)", 
+  "DateAcquired": "1970-05-05", 
+  "\ufeffTitle": "The Courtyard of VKhUTEMAS (Dvor VKhUTEMASa)", 
   "ObjectID": "48896"
 }

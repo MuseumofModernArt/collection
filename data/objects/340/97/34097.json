@@ -5,8 +5,7 @@
   "Artist": "A.R. Penck (Ralf Winkler)", 
   "URL": "http://www.moma.org/collection/works/34097", 
   "CuratorApproved": "Y", 
-  "Title": "Structure T.M.", 
-  "DateAcquired": "1979-05-07", 
+  "CreditLine": "Gift of The Cosmopolitan Arts Foundation", 
   "Date": "(1976)", 
   "ArtistID": 4546, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "114.1979", 
-  "ArtistBio": "German, born 1939", 
-  "CreditLine": "Gift of The Cosmopolitan Arts Foundation", 
+  "ArtistBio": "(German, born 1939)", 
+  "DateAcquired": "1979-05-07", 
+  "\ufeffTitle": "Structure T.M.", 
   "ObjectID": "34097"
 }

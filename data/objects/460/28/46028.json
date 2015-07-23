@@ -5,8 +5,7 @@
   "Artist": "Jerome Liebling", 
   "URL": "http://www.moma.org/collection/works/46028", 
   "CuratorApproved": "Y", 
-  "Title": "Montana", 
-  "DateAcquired": "1977-03-10", 
+  "CreditLine": "Exchange", 
   "Date": "1962", 
   "ArtistID": 3549, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "89.1977", 
-  "ArtistBio": "American, 1924\u20132011", 
-  "CreditLine": "Exchange", 
+  "ArtistBio": "(American, 1924\u20132011)", 
+  "DateAcquired": "1977-03-10", 
+  "\ufeffTitle": "Montana", 
   "ObjectID": "46028"
 }

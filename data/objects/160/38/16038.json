@@ -5,8 +5,7 @@
   "Artist": "Marcel Duchamp", 
   "URL": "http://www.moma.org/collection/works/16038", 
   "CuratorApproved": "Y", 
-  "Title": "Cover for Le Surr\u00e9alisme en 1947", 
-  "DateAcquired": "1947-12-19", 
+  "CreditLine": "Henry Church Fund", 
   "Date": "1947", 
   "ArtistID": 1634, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "343.1947.26", 
-  "ArtistBio": "American, born France. 1887\u20131968", 
-  "CreditLine": "Henry Church Fund", 
+  "ArtistBio": "(American, born France. 1887\u20131968)", 
+  "DateAcquired": "1947-12-19", 
+  "\ufeffTitle": "Cover for Le Surr\u00e9alism en 1947", 
   "ObjectID": "16038"
 }

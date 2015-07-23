@@ -1,12 +1,11 @@
 {
   "Medium": "Aquatint", 
-  "Dimensions": "plate  19 3/4 x 15 7/8\" (50.2 x 40.3 cm)  sheet  28 13/16 x 25 1/8\" (73.2 x 63.8 cm)", 
+  "Dimensions": "plate  19 3/4 x 15 7/8\" (50.2 x 40.3 cm)\r\nsheet  28 13/16 x 25 1/8\" (73.2 x 63.8 cm)", 
   "Classification": "Print", 
   "Artist": "Robert Motherwell", 
   "URL": "http://www.moma.org/collection/works/68059", 
   "CuratorApproved": "Y", 
-  "Title": "Dutch Linen III from the Dutch Linen Suite", 
-  "DateAcquired": "1974-09-11", 
+  "CreditLine": "John B. Turner Fund", 
   "Date": "(1974)", 
   "ArtistID": 4126, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "377.1974", 
-  "ArtistBio": "American, 1915\u20131991", 
-  "CreditLine": "John B. Turner Fund", 
+  "ArtistBio": "(American, 1915\u20131991)", 
+  "DateAcquired": "1974-09-11", 
+  "\ufeffTitle": "Dutch Linen III from the Dutch Linen Suite", 
   "ObjectID": "68059"
 }

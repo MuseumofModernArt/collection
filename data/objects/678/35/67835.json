@@ -5,8 +5,7 @@
   "Artist": "Larry Rivers", 
   "URL": "http://www.moma.org/collection/works/67835", 
   "CuratorApproved": "Y", 
-  "Title": "Ford Chassis II", 
-  "DateAcquired": "1963-06-12", 
+  "CreditLine": "Gift of the Celeste and Armand Bartos Foundation", 
   "Date": "1961", 
   "ArtistID": 4945, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "366.1963", 
-  "ArtistBio": "American, 1923\u20132002", 
-  "CreditLine": "Gift of the Celeste and Armand Bartos Foundation", 
+  "ArtistBio": "(American, 1923\u20132002)", 
+  "DateAcquired": "1963-06-12", 
+  "\ufeffTitle": "Ford Chassis II", 
   "ObjectID": "67835"
 }

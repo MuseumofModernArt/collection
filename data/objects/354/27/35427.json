@@ -5,8 +5,7 @@
   "Artist": "Georg Kolbe", 
   "URL": "http://www.moma.org/collection/works/35427", 
   "CuratorApproved": "Y", 
-  "Title": "Nude", 
-  "DateAcquired": "1940-04-05", 
+  "CreditLine": "Given anonymously", 
   "Date": "(c. 1927)", 
   "ArtistID": 3199, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "232.1940", 
-  "ArtistBio": "German, 1877\u20131947", 
-  "CreditLine": "Given anonymously", 
+  "ArtistBio": "(German, 1877\u20131947)", 
+  "DateAcquired": "1940-04-05", 
+  "\ufeffTitle": "Nude (Akt)", 
   "ObjectID": "35427"
 }

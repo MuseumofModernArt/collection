@@ -5,8 +5,7 @@
   "Artist": "Bill Stewart", 
   "URL": "http://www.moma.org/collection/works/3125", 
   "CuratorApproved": "Y", 
-  "Title": "Kodiak Special Bow", 
-  "DateAcquired": "1962-11-07", 
+  "CreditLine": "Gift of the manufacturer", 
   "Date": "c. 1960", 
   "ArtistID": 7152, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "263.1962", 
-  "ArtistBio": "American, born 1920", 
-  "CreditLine": "Gift of the manufacturer", 
+  "ArtistBio": "(American, born 1920)", 
+  "DateAcquired": "1962-11-07", 
+  "\ufeffTitle": "Kodiak Special Bow", 
   "ObjectID": "3125"
 }

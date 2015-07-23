@@ -5,8 +5,7 @@
   "Artist": "Aleksandr Rodchenko", 
   "URL": "http://www.moma.org/collection/works/45001", 
   "CuratorApproved": "Y", 
-  "Title": "Varvara Stepanova", 
-  "DateAcquired": "1970-01-07", 
+  "CreditLine": "The Parkinson Fund", 
   "Date": "1936", 
   "ArtistID": 4975, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "52.1970", 
-  "ArtistBio": "Russian, 1891\u20131956", 
-  "CreditLine": "The Parkinson Fund", 
+  "ArtistBio": "(Russian, 1891\u20131956)", 
+  "DateAcquired": "1970-01-07", 
+  "\ufeffTitle": "Varvara Stepanova", 
   "ObjectID": "45001"
 }

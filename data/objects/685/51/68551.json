@@ -5,8 +5,7 @@
   "Artist": "Lee Bontecou", 
   "URL": "http://www.moma.org/collection/works/68551", 
   "CuratorApproved": "Y", 
-  "Title": "Twelfth Stone", 
-  "DateAcquired": "1970-10-22", 
+  "CreditLine": "Gift of the Celeste and Armand Bartos Foundation", 
   "Date": "1966-70", 
   "ArtistID": 670, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "406.1970", 
-  "ArtistBio": "American, born 1931", 
-  "CreditLine": "Gift of the Celeste and Armand Bartos Foundation", 
+  "ArtistBio": "(American, born 1931)", 
+  "DateAcquired": "1970-10-22", 
+  "\ufeffTitle": "Twelfth Stone", 
   "ObjectID": "68551"
 }

@@ -5,8 +5,7 @@
   "Artist": "Lovis Corinth", 
   "URL": "http://www.moma.org/collection/works/60625", 
   "CuratorApproved": "Y", 
-  "Title": "Arno Holz", 
-  "DateAcquired": "1959-03-02", 
+  "CreditLine": "Gift of Dr. and Mrs. Henry Sagan", 
   "Date": "(1922)", 
   "ArtistID": 1243, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "37.1959", 
-  "ArtistBio": "German, 1858\u20131925", 
-  "CreditLine": "Gift of Dr. and Mrs. Henry Sagan", 
+  "ArtistBio": "(German, 1858\u20131925)", 
+  "DateAcquired": "1959-03-02", 
+  "\ufeffTitle": "Arno Holz", 
   "ObjectID": "60625"
 }

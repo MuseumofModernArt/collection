@@ -1,12 +1,11 @@
 {
   "Medium": "Offset", 
-  "Dimensions": "Composition: 17 5/16 x 17 5/16\" (44 x 44 cm)  Sheet: 25 1/8 x 23 9/16\" (63.8 x 59.8 cm)", 
+  "Dimensions": "Composition: 17 5/16 x 17 5/16\" (44 x 44 cm)\r\nSheet: 25 1/8 x 23 9/16\" (63.8 x 59.8 cm)", 
   "Classification": "Print", 
   "Artist": "Gerhard Richter", 
   "URL": "http://www.moma.org/collection/works/69306", 
   "CuratorApproved": "Y", 
-  "Title": "Cloud (Wolke)", 
-  "DateAcquired": "1978-05-22", 
+  "CreditLine": "Gift of the Cosmopolitan Arts Foundation", 
   "Date": "1971", 
   "ArtistID": 4907, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "448.1978", 
-  "ArtistBio": "German, born 1932", 
-  "CreditLine": "Gift of the Cosmopolitan Arts Foundation", 
+  "ArtistBio": "(German, born 1932)", 
+  "DateAcquired": "1978-05-22", 
+  "\ufeffTitle": "Cloud (Wolke)", 
   "ObjectID": "69306"
 }

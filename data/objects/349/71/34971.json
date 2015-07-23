@@ -5,8 +5,7 @@
   "Artist": "Mark di Suvero", 
   "URL": "http://www.moma.org/collection/works/34971", 
   "CuratorApproved": "Y", 
-  "Title": "Study for X-Delta", 
-  "DateAcquired": "1977-04-20", 
+  "CreditLine": "Gift of Carol O. Selle and Jo Carole and Ronald S. Lauder", 
   "Date": "(1969-70)", 
   "ArtistID": 5743, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "165.1977", 
-  "ArtistBio": "American, born 1933", 
-  "CreditLine": "Gift of Carol O. Selle and Jo Carole and Ronald S. Lauder", 
+  "ArtistBio": "(American, born 1933)", 
+  "DateAcquired": "1977-04-20", 
+  "\ufeffTitle": "Study for X-Delta", 
   "ObjectID": "34971"
 }

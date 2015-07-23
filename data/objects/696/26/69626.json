@@ -5,8 +5,7 @@
   "Artist": "Louise Bourgeois", 
   "URL": "http://www.moma.org/collection/works/69626", 
   "CuratorApproved": "Y", 
-  "Title": "Femme Maison, version 2 of 2, only state, variant", 
-  "DateAcquired": "1993-11-17", 
+  "CreditLine": "Gift of the artist", 
   "Date": "1984", 
   "ArtistID": 710, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "465.1993", 
-  "ArtistBio": "American, born France. 1911\u20132010", 
-  "CreditLine": "Gift of the artist", 
+  "ArtistBio": "(American, born France. 1911\u20132010)", 
+  "DateAcquired": "1993-11-17", 
+  "\ufeffTitle": "Femme Maison", 
   "ObjectID": "69626"
 }

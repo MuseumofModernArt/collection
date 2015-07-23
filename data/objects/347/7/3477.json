@@ -5,8 +5,7 @@
   "Artist": "Gerrit Rietveld", 
   "URL": "http://www.moma.org/collection/works/3477", 
   "CuratorApproved": "Y", 
-  "Title": "Zig-Zag Chair", 
-  "DateAcquired": "1988-11-22", 
+  "CreditLine": "Arthur Drexler Fund", 
   "Date": "1934", 
   "ArtistID": 4922, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "405.1988", 
-  "ArtistBio": "Dutch, 1888\u20131964", 
-  "CreditLine": "Arthur Drexler Fund", 
+  "ArtistBio": "(Dutch, 1888\u20131964)", 
+  "DateAcquired": "1988-11-22", 
+  "\ufeffTitle": "Zig-Zag Chair", 
   "ObjectID": "3477"
 }

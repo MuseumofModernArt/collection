@@ -5,8 +5,7 @@
   "Artist": "Henri de Toulouse-Lautrec", 
   "URL": "http://www.moma.org/collection/works/62871", 
   "CuratorApproved": "Y", 
-  "Title": "Study of a Woman (\u00c9tude de femme)", 
-  "DateAcquired": "1946-07-11", 
+  "CreditLine": "Gift of Abby Aldrich Rockefeller", 
   "Date": "1893", 
   "ArtistID": 5910, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "142.1946", 
-  "ArtistBio": "French, 1864\u20131901", 
-  "CreditLine": "Gift of Abby Aldrich Rockefeller", 
+  "ArtistBio": "(French, 1864\u20131901)", 
+  "DateAcquired": "1946-07-11", 
+  "\ufeffTitle": "Study of a Woman (\u00c9tude de femme)", 
   "ObjectID": "62871"
 }

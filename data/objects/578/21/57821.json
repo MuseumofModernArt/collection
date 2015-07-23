@@ -5,8 +5,7 @@
   "Artist": "Philip-Lorca diCorcia", 
   "URL": "http://www.moma.org/collection/works/57821", 
   "CuratorApproved": "Y", 
-  "Title": "Auden", 
-  "DateAcquired": "2001-04-12", 
+  "CreditLine": "Gift of Carol and Arthur Goldberg", 
   "Date": "1988", 
   "ArtistID": 7027, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "1185.2001.x1-x2", 
-  "ArtistBio": "American, born 1951", 
-  "CreditLine": "Gift of Carol and Arthur Goldberg", 
+  "ArtistBio": "(American, born 1951)", 
+  "DateAcquired": "2001-04-12", 
+  "\ufeffTitle": "Auden", 
   "ObjectID": "57821"
 }

@@ -5,8 +5,7 @@
   "Artist": "Henryk Tomaszewski", 
   "URL": "http://www.moma.org/collection/works/8856", 
   "CuratorApproved": "Y", 
-  "Title": "Moore", 
-  "DateAcquired": "2000-12-11", 
+  "CreditLine": "Gift of the designer", 
   "Date": "1959", 
   "ArtistID": 5894, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "1560.2000", 
-  "ArtistBio": "Polish, 1914\u20132001", 
-  "CreditLine": "Gift of the designer", 
+  "ArtistBio": "(Polish, 1914\u20132001)", 
+  "DateAcquired": "2000-12-11", 
+  "\ufeffTitle": "Moore", 
   "ObjectID": "8856"
 }

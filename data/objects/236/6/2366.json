@@ -5,9 +5,8 @@
   "Artist": "Cravell, Inc., Long Island, NY", 
   "URL": "http://www.moma.org/collection/works/2366", 
   "CuratorApproved": "Y", 
-  "Title": "Cigarette Box", 
-  "DateAcquired": "1947-06-17", 
-  "Date": "NULL", 
+  "CreditLine": "Purchase", 
+  "Date": "", 
   "Keywords": [
     "online art collection", 
     "Cravell", 
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "170.1947", 
-  "ArtistBio": "NULL", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "", 
+  "DateAcquired": "1947-06-17", 
+  "\ufeffTitle": "Cigarette Box", 
   "ObjectID": "2366"
 }

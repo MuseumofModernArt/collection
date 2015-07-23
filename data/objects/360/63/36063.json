@@ -5,8 +5,7 @@
   "Artist": "Ellen Gallagher", 
   "URL": "http://www.moma.org/collection/works/36063", 
   "CuratorApproved": "Y", 
-  "Title": "Skinatural", 
-  "DateAcquired": "2000-10-10", 
+  "CreditLine": "Gift of Mr. and Mrs. James R. Hedges IV", 
   "Date": "(1997)", 
   "ArtistID": 7639, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "296.2000", 
-  "ArtistBio": "American, born 1965", 
-  "CreditLine": "Gift of Mr. and Mrs. James R. Hedges IV", 
+  "ArtistBio": "(American, born 1965)", 
+  "DateAcquired": "2000-10-10", 
+  "\ufeffTitle": "Skinatural", 
   "ObjectID": "36063"
 }

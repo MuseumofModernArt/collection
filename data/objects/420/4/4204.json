@@ -5,8 +5,7 @@
   "Artist": "Unknown Designer", 
   "URL": "http://www.moma.org/collection/works/4204", 
   "CuratorApproved": "Y", 
-  "Title": "Jigger", 
-  "DateAcquired": "1939-12-01", 
+  "CreditLine": "Purchase", 
   "Date": "Before 1939", 
   "ArtistID": 6011, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "671.1939", 
-  "ArtistBio": "Nationality unknown", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(Nationality unknown)", 
+  "DateAcquired": "1939-12-01", 
+  "\ufeffTitle": "Jigger", 
   "ObjectID": "4204"
 }

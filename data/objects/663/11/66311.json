@@ -1,12 +1,11 @@
 {
   "Medium": "Woodcut", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "Helen Frankenthaler", 
   "URL": "http://www.moma.org/collection/works/66311", 
   "CuratorApproved": "Y", 
-  "Title": "Radius", 
-  "DateAcquired": "1994-05-26", 
+  "CreditLine": "John B. Turner Fund", 
   "Date": "1993", 
   "ArtistID": 1974, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "294.1994", 
-  "ArtistBio": "American, 1928\u20132011", 
-  "CreditLine": "John B. Turner Fund", 
+  "ArtistBio": "(American, 1928\u20132011)", 
+  "DateAcquired": "1994-05-26", 
+  "\ufeffTitle": "Radius", 
   "ObjectID": "66311"
 }

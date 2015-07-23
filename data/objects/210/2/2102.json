@@ -5,8 +5,7 @@
   "Artist": "Unknown Designer", 
   "URL": "http://www.moma.org/collection/works/2102", 
   "CuratorApproved": "Y", 
-  "Title": "Cigarette Box", 
-  "DateAcquired": "1946-05-07", 
+  "CreditLine": "Gift of Pennsylvania Drug Co.", 
   "Date": "Unknown", 
   "ArtistID": 6011, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "100.1946", 
-  "ArtistBio": "Nationality unknown", 
-  "CreditLine": "Gift of Pennsylvania Drug Co.", 
+  "ArtistBio": "(Nationality unknown)", 
+  "DateAcquired": "1946-05-07", 
+  "\ufeffTitle": "Cigarette Box", 
   "ObjectID": "2102"
 }

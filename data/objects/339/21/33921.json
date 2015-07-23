@@ -5,8 +5,7 @@
   "Artist": "Wifredo Lam", 
   "URL": "http://www.moma.org/collection/works/33921", 
   "CuratorApproved": "Y", 
-  "Title": "Moths and Candles", 
-  "DateAcquired": "1971-03-30", 
+  "CreditLine": "David Rockefeller Latin American Fund", 
   "Date": "1946", 
   "ArtistID": 3349, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "100.1971", 
-  "ArtistBio": "Cuban, 1902\u20131982", 
-  "CreditLine": "David Rockefeller Latin American Fund", 
+  "ArtistBio": "(Cuban, 1902\u20131982)", 
+  "DateAcquired": "1971-03-30", 
+  "\ufeffTitle": "Moths and Candles", 
   "ObjectID": "33921"
 }

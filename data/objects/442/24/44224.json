@@ -5,8 +5,7 @@
   "Artist": "Etienne Carjat", 
   "URL": "http://www.moma.org/collection/works/44224", 
   "CuratorApproved": "Y", 
-  "Title": "Gioacchino Rossini", 
-  "DateAcquired": "1964-01-07", 
+  "CreditLine": "Purchase", 
   "Date": "1862", 
   "ArtistID": 970, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "29.1964", 
-  "ArtistBio": "French, 1829\u20131906", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(French, 1829\u20131906)", 
+  "DateAcquired": "1964-01-07", 
+  "\ufeffTitle": "Gioacchino Rossini", 
   "ObjectID": "44224"
 }

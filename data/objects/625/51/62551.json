@@ -5,8 +5,7 @@
   "Artist": "\u00c9douard Vuillard", 
   "URL": "http://www.moma.org/collection/works/62551", 
   "CuratorApproved": "Y", 
-  "Title": "Monsieur Bute by Maurice Biolley", 
-  "DateAcquired": "1955-04-06", 
+  "CreditLine": "Gift of Peter H. Deitsch", 
   "Date": "1890", 
   "ArtistID": 6194, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "135.1955", 
-  "ArtistBio": "French, 1868\u20131940", 
-  "CreditLine": "Gift of Peter H. Deitsch", 
+  "ArtistBio": "(French, 1868\u20131940)", 
+  "DateAcquired": "1955-04-06", 
+  "\ufeffTitle": "Monsieur Bute by Maurice Biolley", 
   "ObjectID": "62551"
 }

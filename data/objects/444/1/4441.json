@@ -5,8 +5,7 @@
   "Artist": "Mutsumi Suzuki", 
   "URL": "http://www.moma.org/collection/works/4441", 
   "CuratorApproved": "Y", 
-  "Title": "Weeping Willow Tea Caddy", 
-  "DateAcquired": "1983-11-30", 
+  "CreditLine": "Architecture & Design Purchase Fund", 
   "Date": "1976-83", 
   "ArtistID": 5745, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "745.1983", 
-  "ArtistBio": "Japanese, born 1942", 
-  "CreditLine": "Architecture & Design Purchase Fund", 
+  "ArtistBio": "(Japanese, born 1942)", 
+  "DateAcquired": "1983-11-30", 
+  "\ufeffTitle": "Weeping Willow Tea Caddy", 
   "ObjectID": "4441"
 }

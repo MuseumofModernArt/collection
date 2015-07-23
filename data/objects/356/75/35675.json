@@ -5,8 +5,7 @@
   "Artist": "Max Beerbohm", 
   "URL": "http://www.moma.org/collection/works/35675", 
   "CuratorApproved": "Y", 
-  "Title": "John Singer Sargent", 
-  "DateAcquired": "1978-04-04", 
+  "CreditLine": "Gift in honor of Myron Orlofsky", 
   "Date": "(1909)", 
   "ArtistID": 434, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "257.1978", 
-  "ArtistBio": "British, 1872\u20131956", 
-  "CreditLine": "Gift in honor of Myron Orlofsky", 
+  "ArtistBio": "(British, 1872\u20131956)", 
+  "DateAcquired": "1978-04-04", 
+  "\ufeffTitle": "John Singer Sargent", 
   "ObjectID": "35675"
 }

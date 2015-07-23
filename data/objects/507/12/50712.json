@@ -5,8 +5,7 @@
   "Artist": "Alvin Langdon Coburn", 
   "URL": "http://www.moma.org/collection/works/50712", 
   "CuratorApproved": "Y", 
-  "Title": "A Canal in Rotterdam", 
-  "DateAcquired": "1978-05-11", 
+  "CreditLine": "Gift of the photographer", 
   "Date": "1908", 
   "ArtistID": 1164, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "321.1978", 
-  "ArtistBio": "American, 1882\u20131966", 
-  "CreditLine": "Gift of the photographer", 
+  "ArtistBio": "(American, 1882\u20131966)", 
+  "DateAcquired": "1978-05-11", 
+  "\ufeffTitle": "A Canal in Rotterdam", 
   "ObjectID": "50712"
 }

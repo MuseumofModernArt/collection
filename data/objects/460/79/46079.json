@@ -5,8 +5,7 @@
   "Artist": "Jerome Liebling", 
   "URL": "http://www.moma.org/collection/works/46079", 
   "CuratorApproved": "Y", 
-  "Title": "Slaughter House", 
-  "DateAcquired": "NULL", 
+  "CreditLine": "Exchange", 
   "Date": "1960-61", 
   "ArtistID": 3549, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "91.1977", 
-  "ArtistBio": "American, 1924\u20132011", 
-  "CreditLine": "Exchange", 
+  "ArtistBio": "(American, 1924\u20132011)", 
+  "DateAcquired": "", 
+  "\ufeffTitle": "Slaughter House", 
   "ObjectID": "46079"
 }

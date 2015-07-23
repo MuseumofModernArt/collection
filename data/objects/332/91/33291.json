@@ -5,8 +5,7 @@
   "Artist": "Maximilian Kurzweil", 
   "URL": "http://www.moma.org/collection/works/33291", 
   "CuratorApproved": "Y", 
-  "Title": "View of the Valley", 
-  "DateAcquired": "1969-02-10", 
+  "CreditLine": "Gift of Felix Landau", 
   "Date": "(n.d.)", 
   "ArtistID": 3313, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "21.1969", 
-  "ArtistBio": "Austrian, 1867\u20131916", 
-  "CreditLine": "Gift of Felix Landau", 
+  "ArtistBio": "(Austrian, 1867\u20131916)", 
+  "DateAcquired": "1969-02-10", 
+  "\ufeffTitle": "View of the Valley (Talblick)", 
   "ObjectID": "33291"
 }

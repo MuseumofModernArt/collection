@@ -5,8 +5,7 @@
   "Artist": "Robert Morris", 
   "URL": "http://www.moma.org/collection/works/36976", 
   "CuratorApproved": "Y", 
-  "Title": "Blind Time III", 
-  "DateAcquired": "1986-12-22", 
+  "CreditLine": "Acquired with matching funds from Michael Blankfort and the National Endowment for the Arts and purchase (by exchange)", 
   "Date": "1985", 
   "ArtistID": 4108, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "450.1986", 
-  "ArtistBio": "American, born 1931", 
-  "CreditLine": "Acquired with matching funds from Michael Blankfort and the National Endowment for the Arts and purchase (by exchange)", 
+  "ArtistBio": "(American, born 1931)", 
+  "DateAcquired": "1986-12-22", 
+  "\ufeffTitle": "Blind Time III", 
   "ObjectID": "36976"
 }

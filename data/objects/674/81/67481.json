@@ -5,8 +5,7 @@
   "Artist": "Edvard Munch", 
   "URL": "http://www.moma.org/collection/works/67481", 
   "CuratorApproved": "Y", 
-  "Title": "The Young Model", 
-  "DateAcquired": "1951-05-24", 
+  "CreditLine": "The William B. Jaffe and Evelyn A.J. Hall Collection", 
   "Date": "1894", 
   "ArtistID": 4164, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "351.1951", 
-  "ArtistBio": "Norwegian, 1863\u20131944", 
-  "CreditLine": "The William B. Jaffe and Evelyn A.J. Hall Collection", 
+  "ArtistBio": "(Norwegian, 1863\u20131944)", 
+  "DateAcquired": "1951-05-24", 
+  "\ufeffTitle": "The Young Model", 
   "ObjectID": "67481"
 }

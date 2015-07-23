@@ -5,8 +5,7 @@
   "Artist": "Nadar (Gaspard-F\u00e9lix Tournachon)", 
   "URL": "http://www.moma.org/collection/works/44293", 
   "CuratorApproved": "Y", 
-  "Title": "Champfleury", 
-  "DateAcquired": "1964-01-07", 
+  "CreditLine": "Purchase", 
   "Date": "c. 1860", 
   "ArtistID": 4196, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "32.1964", 
-  "ArtistBio": "French, 1820\u20131910", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(French, 1820\u20131910)", 
+  "DateAcquired": "1964-01-07", 
+  "\ufeffTitle": "Champfleury", 
   "ObjectID": "44293"
 }

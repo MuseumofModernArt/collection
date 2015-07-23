@@ -5,8 +5,7 @@
   "Artist": "Hermann Nitsch", 
   "URL": "http://www.moma.org/collection/works/36298", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1988-10-19", 
+  "CreditLine": "Gift of Jo Carole and Ronald S. Lauder", 
   "Date": "1987", 
   "ArtistID": 4310, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "322.1988", 
-  "ArtistBio": "Austrian, born 1938", 
-  "CreditLine": "Gift of Jo Carole and Ronald S. Lauder", 
+  "ArtistBio": "(Austrian, born 1938)", 
+  "DateAcquired": "1988-10-19", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "36298"
 }

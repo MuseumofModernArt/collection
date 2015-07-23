@@ -5,8 +5,7 @@
   "Artist": "Nancy Hellebrand", 
   "URL": "http://www.moma.org/collection/works/46850", 
   "CuratorApproved": "Y", 
-  "Title": "Thigh", 
-  "DateAcquired": "1986-03-20", 
+  "CreditLine": "John Parkinson III Fund", 
   "Date": "1985", 
   "ArtistID": 2587, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "142.1986", 
-  "ArtistBio": "American, born 1944", 
-  "CreditLine": "John Parkinson III Fund", 
+  "ArtistBio": "(American, born 1944)", 
+  "DateAcquired": "1986-03-20", 
+  "\ufeffTitle": "Thigh", 
   "ObjectID": "46850"
 }

@@ -5,8 +5,7 @@
   "Artist": "Unknown Designer", 
   "URL": "http://www.moma.org/collection/works/2890", 
   "CuratorApproved": "Y", 
-  "Title": "Hydrometer Jar", 
-  "DateAcquired": "1934-04-01", 
+  "CreditLine": "Gift of Eimer & Amend", 
   "Date": "Before 1934", 
   "ArtistID": 6011, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "233.1934", 
-  "ArtistBio": "Nationality unknown", 
-  "CreditLine": "Gift of Eimer & Amend", 
+  "ArtistBio": "(Nationality unknown)", 
+  "DateAcquired": "1934-04-01", 
+  "\ufeffTitle": "Hydrometer Jar", 
   "ObjectID": "2890"
 }

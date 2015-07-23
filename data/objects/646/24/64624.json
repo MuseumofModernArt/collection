@@ -1,12 +1,11 @@
 {
   "Medium": "Etching", 
-  "Dimensions": "plate  15 7/8 x 15 15/16\" (40.3 x 40.6 cm)  sheet  22 3/8 x 30\" (56.8 x 76.2 cm)", 
+  "Dimensions": "plate  15 7/8 x 15 15/16\" (40.3 x 40.6 cm)\r\nsheet  22 3/8 x 30\" (56.8 x 76.2 cm)", 
   "Classification": "Print", 
   "Artist": "Tchah-Sup Kim", 
   "URL": "http://www.moma.org/collection/works/64624", 
   "CuratorApproved": "Y", 
-  "Title": "Triangle Between Infinites", 
-  "DateAcquired": "1976-05-11", 
+  "CreditLine": "Carol O. Selle Fund", 
   "Date": "1976", 
   "ArtistID": 3096, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "219.1976", 
-  "ArtistBio": "Korean, born 1942", 
-  "CreditLine": "Carol O. Selle Fund", 
+  "ArtistBio": "(Korean, born 1942)", 
+  "DateAcquired": "1976-05-11", 
+  "\ufeffTitle": "Triangle Between Infinites", 
   "ObjectID": "64624"
 }

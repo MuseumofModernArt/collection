@@ -5,8 +5,7 @@
   "Artist": "Lovis Corinth", 
   "URL": "http://www.moma.org/collection/works/33361", 
   "CuratorApproved": "Y", 
-  "Title": "Self-Portrait with Reflections", 
-  "DateAcquired": "1978-04-04", 
+  "CreditLine": "The Joan and Lester Avnet Collection", 
   "Date": "1925", 
   "ArtistID": 1243, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "27.1978", 
-  "ArtistBio": "German, 1858\u20131925", 
-  "CreditLine": "The Joan and Lester Avnet Collection", 
+  "ArtistBio": "(German, 1858\u20131925)", 
+  "DateAcquired": "1978-04-04", 
+  "\ufeffTitle": "Self-Portrait with Reflections", 
   "ObjectID": "33361"
 }

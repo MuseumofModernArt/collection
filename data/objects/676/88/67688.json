@@ -1,12 +1,11 @@
 {
   "Medium": "Lithograph", 
-  "Dimensions": "irreg. composition  12 11/16 x 14 5/8\" (32.2 x 37.2 cm)  sheet  16 1/16 x 14 15/16\" (40 x 37.9 cm)", 
+  "Dimensions": "irreg. composition  12 11/16 x 14 5/8\" (32.2 x 37.2 cm)\r\nsheet  16 1/16 x 14 15/16\" (40 x 37.9 cm)", 
   "Classification": "Print", 
   "Artist": "David Hockney", 
   "URL": "http://www.moma.org/collection/works/67688", 
   "CuratorApproved": "Y", 
-  "Title": "John Hockney", 
-  "DateAcquired": "1987-10-20", 
+  "CreditLine": "Purchase", 
   "Date": "1980", 
   "ArtistID": 2678, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "360.1987", 
-  "ArtistBio": "British, born 1937", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(British, born 1937)", 
+  "DateAcquired": "1987-10-20", 
+  "\ufeffTitle": "John Hockney", 
   "ObjectID": "67688"
 }

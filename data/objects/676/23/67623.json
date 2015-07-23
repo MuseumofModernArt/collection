@@ -1,12 +1,11 @@
 {
   "Medium": "Woodcut", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "Catherine Lee", 
   "URL": "http://www.moma.org/collection/works/67623", 
   "CuratorApproved": "Y", 
-  "Title": "Coast from an untitled series", 
-  "DateAcquired": "1988-10-25", 
+  "CreditLine": "Gift of Arnold Smoller", 
   "Date": "1988", 
   "ArtistID": 3452, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "357.1988", 
-  "ArtistBio": "American, born 1950", 
-  "CreditLine": "Gift of Arnold Smoller", 
+  "ArtistBio": "(American, born 1950)", 
+  "DateAcquired": "1988-10-25", 
+  "\ufeffTitle": "Coast from an untitled series", 
   "ObjectID": "67623"
 }

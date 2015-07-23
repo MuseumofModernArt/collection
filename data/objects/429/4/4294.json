@@ -5,8 +5,7 @@
   "Artist": "Hans Coray", 
   "URL": "http://www.moma.org/collection/works/4294", 
   "CuratorApproved": "Y", 
-  "Title": "Landi Chair", 
-  "DateAcquired": "1998-09-15", 
+  "CreditLine": "Gift of Gabrielle and Michael Boyd", 
   "Date": "1938", 
   "ArtistID": 8062, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "519.1998", 
-  "ArtistBio": "Swiss, 1906\u20131991", 
-  "CreditLine": "Gift of Gabrielle and Michael Boyd", 
+  "ArtistBio": "(Swiss, 1906\u20131991)", 
+  "DateAcquired": "1998-09-15", 
+  "\ufeffTitle": "Landi Chair", 
   "ObjectID": "4294"
 }

@@ -1,12 +1,11 @@
 {
   "Medium": "Illustrated Book with 2 screenprints (including front cover), and unbound etching, printed without ink, and photogravure", 
-  "Dimensions": "page  9 3/16 x 6 1/2\" (23 x 16.6 cm)  Prints: various dimensions.", 
+  "Dimensions": "page  9 3/16 x 6 1/2\" (23 x 16.6 cm)\r\nPrints: various dimensions.", 
   "Classification": "Illustrated Book", 
   "Artist": "Hugo Suter", 
   "URL": "http://www.moma.org/collection/works/14078", 
   "CuratorApproved": "Y", 
-  "Title": "Hugo Suter", 
-  "DateAcquired": "1990-05-02", 
+  "CreditLine": "Purchase", 
   "Date": "1988", 
   "ArtistID": 5738, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "236.1990.1-4", 
-  "ArtistBio": "Swiss, born 1943", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(Swiss, born 1943)", 
+  "DateAcquired": "1990-05-02", 
+  "\ufeffTitle": "Hugo Suter", 
   "ObjectID": "14078"
 }

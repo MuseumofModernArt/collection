@@ -5,8 +5,7 @@
   "Artist": "Alfred Hofkunst", 
   "URL": "http://www.moma.org/collection/works/59837", 
   "CuratorApproved": "Y", 
-  "Title": "Chair", 
-  "DateAcquired": "1973-01-04", 
+  "CreditLine": "Walter Bareiss Fund", 
   "Date": "(n.d.)", 
   "ArtistID": 2695, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "11.1973", 
-  "ArtistBio": "Swiss, born Austria 1942", 
-  "CreditLine": "Walter Bareiss Fund", 
+  "ArtistBio": "(Swiss, born Austria 1942)", 
+  "DateAcquired": "1973-01-04", 
+  "\ufeffTitle": "Chair", 
   "ObjectID": "59837"
 }

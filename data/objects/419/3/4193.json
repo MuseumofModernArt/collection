@@ -5,8 +5,7 @@
   "Artist": "Richard Taninbaum", 
   "URL": "http://www.moma.org/collection/works/4193", 
   "CuratorApproved": "Y", 
-  "Title": "Tambourine", 
-  "DateAcquired": "1980-10-30", 
+  "CreditLine": "Gift of the manufacturer", 
   "Date": "1978", 
   "ArtistID": 5805, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "665.1980", 
-  "ArtistBio": "American, born 1952", 
-  "CreditLine": "Gift of the manufacturer", 
+  "ArtistBio": "(American, born 1952)", 
+  "DateAcquired": "1980-10-30", 
+  "\ufeffTitle": "Tambourine", 
   "ObjectID": "4193"
 }

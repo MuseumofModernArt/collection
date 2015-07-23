@@ -5,8 +5,7 @@
   "Artist": "Richard S\u00fcssmuth", 
   "URL": "http://www.moma.org/collection/works/4085", 
   "CuratorApproved": "Y", 
-  "Title": "Vase", 
-  "DateAcquired": "1954-01-12", 
+  "CreditLine": "Gift of Georg Jensen, Inc.", 
   "Date": "c. 1951", 
   "ArtistID": 5736, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "558.1953", 
-  "ArtistBio": "German, 1900\u20131974", 
-  "CreditLine": "Gift of Georg Jensen, Inc.", 
+  "ArtistBio": "(German, 1900\u20131974)", 
+  "DateAcquired": "1954-01-12", 
+  "\ufeffTitle": "Vase", 
   "ObjectID": "4085"
 }

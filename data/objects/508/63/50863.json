@@ -5,8 +5,7 @@
   "Artist": "Francis Bedford", 
   "URL": "http://www.moma.org/collection/works/50863", 
   "CuratorApproved": "Y", 
-  "Title": "Exeter, Fore Street (No. 33)", 
-  "DateAcquired": "1974-06-04", 
+  "CreditLine": "Purchase", 
   "Date": "c. 1860", 
   "ArtistID": 430, 
   "Keywords": [
@@ -20,7 +19,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "326.1974", 
-  "ArtistBio": "British, 1816\u20131894", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(British, 1816\u20131894)", 
+  "DateAcquired": "1974-06-04", 
+  "\ufeffTitle": "Exeter, Fore Street (No. 33)", 
   "ObjectID": "50863"
 }

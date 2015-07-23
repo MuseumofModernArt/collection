@@ -5,8 +5,7 @@
   "Artist": "Barnett Newman", 
   "URL": "http://www.moma.org/collection/works/34701", 
   "CuratorApproved": "Y", 
-  "Title": "Rothko by Newman", 
-  "DateAcquired": "1999-05-06", 
+  "CreditLine": "Given anonymously", 
   "Date": "n.d.", 
   "ArtistID": 4285, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "142.1999", 
-  "ArtistBio": "American, 1905\u20131970", 
-  "CreditLine": "Given anonymously", 
+  "ArtistBio": "(American, 1905\u20131970)", 
+  "DateAcquired": "1999-05-06", 
+  "\ufeffTitle": "Rothko by Newman", 
   "ObjectID": "34701"
 }

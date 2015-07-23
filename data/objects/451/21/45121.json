@@ -5,8 +5,7 @@
   "Artist": "Lee Friedlander", 
   "URL": "http://www.moma.org/collection/works/45121", 
   "CuratorApproved": "Y", 
-  "Title": "Galax, Virginia", 
-  "DateAcquired": "1975-02-12", 
+  "CreditLine": "Acquired through the generosity of Celeste Bartos", 
   "Date": "1962", 
   "ArtistID": 2002, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "56.1975", 
-  "ArtistBio": "American, born 1934", 
-  "CreditLine": "Acquired through the generosity of Celeste Bartos", 
+  "ArtistBio": "(American, born 1934)", 
+  "DateAcquired": "1975-02-12", 
+  "\ufeffTitle": "Galax, Virginia", 
   "ObjectID": "45121"
 }

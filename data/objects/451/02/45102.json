@@ -5,8 +5,7 @@
   "Artist": "Berenice Abbott", 
   "URL": "http://www.moma.org/collection/works/45102", 
   "CuratorApproved": "Y", 
-  "Title": "Milliken's General Store, Bridgewater, Maine", 
-  "DateAcquired": "1988-03-10", 
+  "CreditLine": "Gift of Ronald A. Kurtz", 
   "Date": "1954", 
   "ArtistID": 41, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "55.1988", 
-  "ArtistBio": "American, 1898\u20131991", 
-  "CreditLine": "Gift of Ronald A. Kurtz", 
+  "ArtistBio": "(American, 1898\u20131991)", 
+  "DateAcquired": "1988-03-10", 
+  "\ufeffTitle": "Milliken's General Store, Bridgewater, Maine", 
   "ObjectID": "45102"
 }

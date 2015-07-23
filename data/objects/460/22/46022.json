@@ -5,8 +5,7 @@
   "Artist": "Tod Papageorge", 
   "URL": "http://www.moma.org/collection/works/46022", 
   "CuratorApproved": "Y", 
-  "Title": "Kansas", 
-  "DateAcquired": "1971-03-02", 
+  "CreditLine": "Purchase", 
   "Date": "August 1969", 
   "ArtistID": 4490, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "89.1971", 
-  "ArtistBio": "American, born 1940", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, born 1940)", 
+  "DateAcquired": "1971-03-02", 
+  "\ufeffTitle": "Kansas", 
   "ObjectID": "46022"
 }

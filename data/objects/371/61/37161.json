@@ -5,8 +5,7 @@
   "Artist": "Jim Dine", 
   "URL": "http://www.moma.org/collection/works/37161", 
   "CuratorApproved": "Y", 
-  "Title": "Third Baby Drawing", 
-  "DateAcquired": "1977-11-02", 
+  "CreditLine": "Gift of the artist in memory of Myron Orlofsky", 
   "Date": "1976", 
   "ArtistID": 1547, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "495.1977", 
-  "ArtistBio": "American, born 1935", 
-  "CreditLine": "Gift of the artist in memory of Myron Orlofsky", 
+  "ArtistBio": "(American, born 1935)", 
+  "DateAcquired": "1977-11-02", 
+  "\ufeffTitle": "Third Baby Drawing", 
   "ObjectID": "37161"
 }

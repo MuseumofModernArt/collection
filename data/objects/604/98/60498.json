@@ -5,8 +5,7 @@
   "Artist": "Carlo Carr\u00e0", 
   "URL": "http://www.moma.org/collection/works/60498", 
   "CuratorApproved": "Y", 
-  "Title": "Interior", 
-  "DateAcquired": "1968-02-05", 
+  "CreditLine": "John S. Newberry Fund", 
   "Date": "1924", 
   "ArtistID": 987, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "32.1968", 
-  "ArtistBio": "Italian, 1881\u20131966", 
-  "CreditLine": "John S. Newberry Fund", 
+  "ArtistBio": "(Italian, 1881\u20131966)", 
+  "DateAcquired": "1968-02-05", 
+  "\ufeffTitle": "Interior", 
   "ObjectID": "60498"
 }

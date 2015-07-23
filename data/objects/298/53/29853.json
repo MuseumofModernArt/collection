@@ -1,12 +1,11 @@
 {
   "Medium": "Illustrated book with 9 lithographs (including title page)", 
-  "Dimensions": "page (irreg.): 13 x 9 3/4\" (33 x 24.8 cm); prints: various dimensions  ", 
+  "Dimensions": "page (irreg.): 13 x 9 3/4\" (33 x 24.8 cm); prints: various dimensions\r\n", 
   "Classification": "Illustrated Book", 
   "Artist": "Pablo Picasso", 
   "URL": "http://www.moma.org/collection/works/29853", 
   "CuratorApproved": "Y", 
-  "Title": "De M\u00e9moire d'homme", 
-  "DateAcquired": "1964-10-06", 
+  "CreditLine": "The Louis E. Stern Collection", 
   "Date": "1950", 
   "ArtistID": 4609, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "997.1964.1-9", 
-  "ArtistBio": "Spanish, 1881\u20131973", 
-  "CreditLine": "The Louis E. Stern Collection", 
+  "ArtistBio": "(Spanish, 1881\u20131973)", 
+  "DateAcquired": "1964-10-06", 
+  "\ufeffTitle": "De M\u00e9moire d'homme", 
   "ObjectID": "29853"
 }

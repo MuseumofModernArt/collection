@@ -5,8 +5,7 @@
   "Artist": "Balthus (Baltusz Klossowski de Rola)", 
   "URL": "http://www.moma.org/collection/works/33043", 
   "CuratorApproved": "Y", 
-  "Title": "A Young Girl", 
-  "DateAcquired": "1978-04-04", 
+  "CreditLine": "The Joan and Lester Avnet Collection", 
   "Date": "1947", 
   "ArtistID": 317, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "6.1978", 
-  "ArtistBio": "French, 1908\u20132001", 
-  "CreditLine": "The Joan and Lester Avnet Collection", 
+  "ArtistBio": "(French, 1908\u20132001)", 
+  "DateAcquired": "1978-04-04", 
+  "\ufeffTitle": "A Young Girl", 
   "ObjectID": "33043"
 }

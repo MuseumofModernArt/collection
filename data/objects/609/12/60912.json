@@ -1,12 +1,11 @@
 {
   "Medium": "Lithograph and embossing", 
-  "Dimensions": "irreg composition  14 5/8 x 23\" (37.2 x 58.4 cm)  sheet  22 3/4 x 30 1/8\" (57.8 x 76.6 cm)", 
+  "Dimensions": "irreg composition  14 5/8 x 23\" (37.2 x 58.4 cm)\r\nsheet  22 3/4 x 30 1/8\" (57.8 x 76.6 cm)", 
   "Classification": "Print", 
   "Artist": "Tom Wesselmann", 
   "URL": "http://www.moma.org/collection/works/60912", 
   "CuratorApproved": "Y", 
-  "Title": "Smoker (Lithograph)", 
-  "DateAcquired": "1977-02-10", 
+  "CreditLine": "John B. Turner Fund", 
   "Date": "1976", 
   "ArtistID": 6318, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "49.1977", 
-  "ArtistBio": "American, 1931\u20132004", 
-  "CreditLine": "John B. Turner Fund", 
+  "ArtistBio": "(American, 1931\u20132004)", 
+  "DateAcquired": "1977-02-10", 
+  "\ufeffTitle": "Smoker (Lithograph)", 
   "ObjectID": "60912"
 }

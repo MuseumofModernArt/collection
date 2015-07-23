@@ -5,8 +5,7 @@
   "Artist": "Josef Hoffmann", 
   "URL": "http://www.moma.org/collection/works/3157", 
   "CuratorApproved": "Y", 
-  "Title": "Vase", 
-  "DateAcquired": "1958-12-04", 
+  "CreditLine": "Gift of Wilhelm Wagenfeld", 
   "Date": "c. 1938", 
   "ArtistID": 2694, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "272.1958", 
-  "ArtistBio": "Austrian, 1870\u20131956", 
-  "CreditLine": "Gift of Wilhelm Wagenfeld", 
+  "ArtistBio": "(Austrian, 1870\u20131956)", 
+  "DateAcquired": "1958-12-04", 
+  "\ufeffTitle": "Vase", 
   "ObjectID": "3157"
 }

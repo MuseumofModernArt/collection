@@ -5,8 +5,7 @@
   "Artist": "Udo M. Geissler", 
   "URL": "http://www.moma.org/collection/works/3435", 
   "CuratorApproved": "Y", 
-  "Title": "Multi Halogen Flashlight", 
-  "DateAcquired": "1985-11-18", 
+  "CreditLine": "Gift of the manufacturer", 
   "Date": "1983", 
   "ArtistID": 2113, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "362.1985", 
-  "ArtistBio": "German, born 1932", 
-  "CreditLine": "Gift of the manufacturer", 
+  "ArtistBio": "(German, born 1932)", 
+  "DateAcquired": "1985-11-18", 
+  "\ufeffTitle": "Multi Halogen Flashlight", 
   "ObjectID": "3435"
 }

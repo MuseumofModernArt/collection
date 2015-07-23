@@ -5,8 +5,7 @@
   "Artist": "Eduardo Paolozzi", 
   "URL": "http://www.moma.org/collection/works/16276", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled (Monkey No. 9) (Manikins for Destruction, plate 2; folio 12) from The Conditional Probability Machine", 
-  "DateAcquired": "1971-03-30", 
+  "CreditLine": "Donald H. Karshan Fund", 
   "Date": "1970", 
   "ArtistID": 4488, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "361.1971.8", 
-  "ArtistBio": "British, 1924\u20132005", 
-  "CreditLine": "Donald H. Karshan Fund", 
+  "ArtistBio": "(British, 1924\u20132005)", 
+  "DateAcquired": "1971-03-30", 
+  "\ufeffTitle": "Untitled (Monkey No. 9) (Manikins for Destruction, plate 2) from the illustrated book The Conditional Probability Machine", 
   "ObjectID": "16276"
 }

@@ -5,8 +5,7 @@
   "Artist": "Chuck Close", 
   "URL": "http://www.moma.org/collection/works/68163", 
   "CuratorApproved": "Y", 
-  "Title": "Marta/Fingerprint", 
-  "DateAcquired": "1992-01-22", 
+  "CreditLine": "Gift of Francine Lembo", 
   "Date": "1986", 
   "ArtistID": 1156, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "382.1991", 
-  "ArtistBio": "American, born 1940", 
-  "CreditLine": "Gift of Francine Lembo", 
+  "ArtistBio": "(American, born 1940)", 
+  "DateAcquired": "1992-01-22", 
+  "\ufeffTitle": "Marta/Fingerprint", 
   "ObjectID": "68163"
 }

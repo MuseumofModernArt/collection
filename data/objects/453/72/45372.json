@@ -5,8 +5,7 @@
   "Artist": "Eug\u00e8ne Druet", 
   "URL": "http://www.moma.org/collection/works/45372", 
   "CuratorApproved": "Y", 
-  "Title": "Rodin's Age of Bronze", 
-  "DateAcquired": "1993-03-11", 
+  "CreditLine": "Gift of Paul F. Walter", 
   "Date": "1898-1900", 
   "ArtistID": 7666, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "64.1993", 
-  "ArtistBio": "French, 1868\u20131917", 
-  "CreditLine": "Gift of Paul F. Walter", 
+  "ArtistBio": "(French, 1868\u20131917)", 
+  "DateAcquired": "1993-03-11", 
+  "\ufeffTitle": "Rodin's Age of Bronze", 
   "ObjectID": "45372"
 }

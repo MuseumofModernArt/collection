@@ -5,8 +5,7 @@
   "Artist": "Barbara Morgan", 
   "URL": "http://www.moma.org/collection/works/46510", 
   "CuratorApproved": "Y", 
-  "Title": "Willard's Fist", 
-  "DateAcquired": "1984-03-15", 
+  "CreditLine": "Anonymous gift", 
   "Date": "1942", 
   "ArtistID": 4089, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "99.1984", 
-  "ArtistBio": "American, 1900\u20131992", 
-  "CreditLine": "Anonymous gift", 
+  "ArtistBio": "(American, 1900\u20131992)", 
+  "DateAcquired": "1984-03-15", 
+  "\ufeffTitle": "Willard's Fist", 
   "ObjectID": "46510"
 }

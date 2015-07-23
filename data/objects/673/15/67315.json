@@ -1,12 +1,11 @@
 {
   "Medium": "Aquatint", 
-  "Dimensions": "composition  25 3/8 x 25 1/4\" (64.4 x 64.2 cm)  sheet  25 3/8 x 25 1/4\" (64 x 64.2 cm)", 
+  "Dimensions": "composition  25 3/8 x 25 1/4\" (64.4 x 64.2 cm)\r\nsheet  25 3/8 x 25 1/4\" (64 x 64.2 cm)", 
   "Classification": "Print", 
   "Artist": "Richard Deacon", 
   "URL": "http://www.moma.org/collection/works/67315", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled from the portfolio Muzot", 
-  "DateAcquired": "1987-10-20", 
+  "CreditLine": "", 
   "Date": "1987", 
   "ArtistID": 1456, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "343.1987.1", 
-  "ArtistBio": "British, born 1949", 
-  "CreditLine": "NULL", 
+  "ArtistBio": "(British, born 1949)", 
+  "DateAcquired": "1987-10-20", 
+  "\ufeffTitle": "Untitled from the portfolio Muzot", 
   "ObjectID": "67315"
 }

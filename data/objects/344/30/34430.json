@@ -5,8 +5,7 @@
   "Artist": "Hedda Sterne", 
   "URL": "http://www.moma.org/collection/works/34430", 
   "CuratorApproved": "Y", 
-  "Title": "Monroe Wheeler", 
-  "DateAcquired": "1979-05-07", 
+  "CreditLine": "Gift of Monroe Wheeler", 
   "Date": "(1950)", 
   "ArtistID": 5653, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "125.1979.1-2", 
-  "ArtistBio": "American, born Romania 1910\u20132011", 
-  "CreditLine": "Gift of Monroe Wheeler", 
+  "ArtistBio": "(American, born Romania 1910\u20132011)", 
+  "DateAcquired": "1979-05-07", 
+  "\ufeffTitle": "Monroe Wheeler", 
   "ObjectID": "34430"
 }

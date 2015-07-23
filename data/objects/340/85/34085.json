@@ -5,8 +5,7 @@
   "Artist": "Oskar Kokoschka", 
   "URL": "http://www.moma.org/collection/works/34085", 
   "CuratorApproved": "Y", 
-  "Title": "Seated Girl", 
-  "DateAcquired": "1978-04-04", 
+  "CreditLine": "The Joan and Lester Avnet Collection", 
   "Date": "(1922)", 
   "ArtistID": 3197, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "113.1978", 
-  "ArtistBio": "Austrian, 1886\u20131980", 
-  "CreditLine": "The Joan and Lester Avnet Collection", 
+  "ArtistBio": "(Austrian, 1886\u20131980)", 
+  "DateAcquired": "1978-04-04", 
+  "\ufeffTitle": "Seated Girl", 
   "ObjectID": "34085"
 }

@@ -5,8 +5,7 @@
   "Artist": "Malcolm Morley", 
   "URL": "http://www.moma.org/collection/works/33500", 
   "CuratorApproved": "Y", 
-  "Title": "Landscape", 
-  "DateAcquired": "1988-02-19", 
+  "CreditLine": "Purchase", 
   "Date": "1983", 
   "ArtistID": 4100, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "46.1988", 
-  "ArtistBio": "American, born Great Britain 1931", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, born Great Britain 1931)", 
+  "DateAcquired": "1988-02-19", 
+  "\ufeffTitle": "Landscape", 
   "ObjectID": "33500"
 }

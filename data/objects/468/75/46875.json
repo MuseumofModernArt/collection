@@ -5,8 +5,7 @@
   "Artist": "Frederick Sommer", 
   "URL": "http://www.moma.org/collection/works/46875", 
   "CuratorApproved": "Y", 
-  "Title": "Giant", 
-  "DateAcquired": "1969-03-05", 
+  "CreditLine": "Gift of the photographer", 
   "Date": "1947", 
   "ArtistID": 5520, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "146.1969", 
-  "ArtistBio": "American, born Italy. 1905\u20131999", 
-  "CreditLine": "Gift of the photographer", 
+  "ArtistBio": "(American, born Italy. 1905\u20131999)", 
+  "DateAcquired": "1969-03-05", 
+  "\ufeffTitle": "Giant", 
   "ObjectID": "46875"
 }

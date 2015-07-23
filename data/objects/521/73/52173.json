@@ -5,8 +5,7 @@
   "Artist": "Sheila Metzner", 
   "URL": "http://www.moma.org/collection/works/52173", 
   "CuratorApproved": "Y", 
-  "Title": "Teresa", 
-  "DateAcquired": "1977-10-13", 
+  "CreditLine": "Purchase", 
   "Date": "1976", 
   "ArtistID": 3950, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "380.1977", 
-  "ArtistBio": "American, born 1939", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, born 1939)", 
+  "DateAcquired": "1977-10-13", 
+  "\ufeffTitle": "Teresa", 
   "ObjectID": "52173"
 }

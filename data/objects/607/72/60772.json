@@ -5,8 +5,7 @@
   "Artist": "Maria Uhden", 
   "URL": "http://www.moma.org/collection/works/60772", 
   "CuratorApproved": "Y", 
-  "Title": "Dance", 
-  "DateAcquired": "1979-01-23", 
+  "CreditLine": "Gift of Grace Meyer, in memory of Theodore J.H. Gusten", 
   "Date": "1916", 
   "ArtistID": 6002, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "42.1979", 
-  "ArtistBio": "German, 1892\u20131918", 
-  "CreditLine": "Gift of Grace Meyer, in memory of Theodore J.H. Gusten", 
+  "ArtistBio": "(German, 1892\u20131918)", 
+  "DateAcquired": "1979-01-23", 
+  "\ufeffTitle": "Dance (Tanz)", 
   "ObjectID": "60772"
 }

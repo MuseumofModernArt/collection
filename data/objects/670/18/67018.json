@@ -5,8 +5,7 @@
   "Artist": "Alberto Giacometti", 
   "URL": "http://www.moma.org/collection/works/67018", 
   "CuratorApproved": "Y", 
-  "Title": "Hands Holding a Void", 
-  "DateAcquired": "1948-10-06", 
+  "CreditLine": "Gift of Victor S. Riesenfeld", 
   "Date": "1934", 
   "ArtistID": 2141, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "328.1948", 
-  "ArtistBio": "Swiss, 1901\u20131966", 
-  "CreditLine": "Gift of Victor S. Riesenfeld", 
+  "ArtistBio": "(Swiss, 1901\u20131966)", 
+  "DateAcquired": "1948-10-06", 
+  "\ufeffTitle": "Hands Holding a Void", 
   "ObjectID": "67018"
 }

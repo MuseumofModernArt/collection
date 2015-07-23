@@ -5,8 +5,7 @@
   "Artist": "Frederick H. K. Henrion", 
   "URL": "http://www.moma.org/collection/works/4938", 
   "CuratorApproved": "Y", 
-  "Title": "His Needs Come First", 
-  "DateAcquired": "1945-01-03", 
+  "CreditLine": "Gift of the artist", 
   "Date": "1939-1945", 
   "ArtistID": 2596, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "73.1945", 
-  "ArtistBio": "British, 1914\u20131990", 
-  "CreditLine": "Gift of the artist", 
+  "ArtistBio": "(British, 1914\u20131990)", 
+  "DateAcquired": "1945-01-03", 
+  "\ufeffTitle": "His Needs Come First", 
   "ObjectID": "4938"
 }

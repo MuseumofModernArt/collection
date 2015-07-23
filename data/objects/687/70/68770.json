@@ -1,12 +1,11 @@
 {
   "Medium": "Etching and aquatint", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "Anthony Benjamin", 
   "URL": "http://www.moma.org/collection/works/68770", 
   "CuratorApproved": "Y", 
-  "Title": "AFTER THE RAIN from the series A SCULPTOR'S GARDEN", 
-  "DateAcquired": "1977-11-10", 
+  "CreditLine": "Larry Aldrich Fund", 
   "Date": "1977", 
   "ArtistID": 474, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "418.1977", 
-  "ArtistBio": "British", 
-  "CreditLine": "Larry Aldrich Fund", 
+  "ArtistBio": "(British)", 
+  "DateAcquired": "1977-11-10", 
+  "\ufeffTitle": "After the Rain from the series A Sculptor's Garden", 
   "ObjectID": "68770"
 }

@@ -5,8 +5,7 @@
   "Artist": "Maciej Zbikowski", 
   "URL": "http://www.moma.org/collection/works/8903", 
   "CuratorApproved": "Y", 
-  "Title": "Arsene Lupin contra Arsene Lupin", 
-  "DateAcquired": "2000-12-11", 
+  "CreditLine": "Gift of the designer", 
   "Date": "after 1962", 
   "ArtistID": 8402, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "1588.2000", 
-  "ArtistBio": "Polish, born 1935", 
-  "CreditLine": "Gift of the designer", 
+  "ArtistBio": "(Polish, born 1935)", 
+  "DateAcquired": "2000-12-11", 
+  "\ufeffTitle": "Arsene Lupin contra Arsene Lupin", 
   "ObjectID": "8903"
 }

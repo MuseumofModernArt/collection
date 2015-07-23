@@ -1,12 +1,11 @@
 {
   "Medium": "Lithograph", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "Terry Winters", 
   "URL": "http://www.moma.org/collection/works/68187", 
   "CuratorApproved": "Y", 
-  "Title": "Marginalia", 
-  "DateAcquired": "1988-10-25", 
+  "CreditLine": "Gift of Emily Fisher Landau", 
   "Date": "1988", 
   "ArtistID": 6408, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "383.1988", 
-  "ArtistBio": "American, born 1949", 
-  "CreditLine": "Gift of Emily Fisher Landau", 
+  "ArtistBio": "(American, born 1949)", 
+  "DateAcquired": "1988-10-25", 
+  "\ufeffTitle": "Marginalia", 
   "ObjectID": "68187"
 }

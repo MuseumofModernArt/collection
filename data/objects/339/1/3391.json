@@ -5,8 +5,7 @@
   "Artist": "Dieter Rams", 
   "URL": "http://www.moma.org/collection/works/3391", 
   "CuratorApproved": "Y", 
-  "Title": "Special Battery-Powered Photo Flash", 
-  "DateAcquired": "1960-11-16", 
+  "CreditLine": "Gift of the manufacturer", 
   "Date": "1958", 
   "ArtistID": 8451, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "353.1960.a-c", 
-  "ArtistBio": "German, born 1932", 
-  "CreditLine": "Gift of the manufacturer", 
+  "ArtistBio": "(German, born 1932)", 
+  "DateAcquired": "1960-11-16", 
+  "\ufeffTitle": "Special Battery-Powered Photo Flash", 
   "ObjectID": "3391"
 }

@@ -5,8 +5,7 @@
   "Artist": "Jake Berthot", 
   "URL": "http://www.moma.org/collection/works/36898", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1981-11-13", 
+  "CreditLine": "Gift of Brenda Richardson", 
   "Date": "1973", 
   "ArtistID": 529, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "438.1981", 
-  "ArtistBio": "American, born 1939", 
-  "CreditLine": "Gift of Brenda Richardson", 
+  "ArtistBio": "(American, born 1939)", 
+  "DateAcquired": "1981-11-13", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "36898"
 }

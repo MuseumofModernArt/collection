@@ -5,8 +5,7 @@
   "Artist": "Peter Hujar", 
   "URL": "http://www.moma.org/collection/works/50648", 
   "CuratorApproved": "Y", 
-  "Title": "Bruce de Saint Croix", 
-  "DateAcquired": "1991-10-25", 
+  "CreditLine": "The Fellows of Photography Fund", 
   "Date": "1976", 
   "ArtistID": 7159, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "318.1991", 
-  "ArtistBio": "American, 1934\u20131987", 
-  "CreditLine": "The Fellows of Photography Fund", 
+  "ArtistBio": "(American, 1934\u20131987)", 
+  "DateAcquired": "1991-10-25", 
+  "\ufeffTitle": "Bruce de Saint Croix", 
   "ObjectID": "50648"
 }

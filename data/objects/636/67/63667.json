@@ -1,12 +1,11 @@
 {
   "Medium": "Etching", 
-  "Dimensions": "plate  10 x 6 11/16\" (25.5 x 17 cm)  sheet  14 3/4 x 10 9/16\" (37 x 26.9 cm)", 
+  "Dimensions": "plate  10 x 6 11/16\" (25.5 x 17 cm)\r\nsheet  14 3/4 x 10 9/16\" (37 x 26.9 cm)", 
   "Classification": "Print", 
   "Artist": "Ernst Fuchs", 
   "URL": "http://www.moma.org/collection/works/63667", 
   "CuratorApproved": "Y", 
-  "Title": "Ezekiel (State II)", 
-  "DateAcquired": "1986-05-20", 
+  "CreditLine": "Gift of William S. Lieberman", 
   "Date": "1952", 
   "ArtistID": 2021, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "175.1986", 
-  "ArtistBio": "Austrian, born 1930", 
-  "CreditLine": "Gift of William S. Lieberman", 
+  "ArtistBio": "(Austrian, born 1930)", 
+  "DateAcquired": "1986-05-20", 
+  "\ufeffTitle": "Ezekiel (State II)", 
   "ObjectID": "63667"
 }

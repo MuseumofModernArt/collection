@@ -5,8 +5,7 @@
   "Artist": "Louise Bourgeois", 
   "URL": "http://www.moma.org/collection/works/65286", 
   "CuratorApproved": "Y", 
-  "Title": "Rayons de Soleil Sur la Mer (Sunshine on the Sea), state III", 
-  "DateAcquired": "1992-05-20", 
+  "CreditLine": "Gift of the artist", 
   "Date": "c. 1948", 
   "ArtistID": 710, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "252.1992", 
-  "ArtistBio": "American, born France. 1911\u20132010", 
-  "CreditLine": "Gift of the artist", 
+  "ArtistBio": "(American, born France. 1911\u20132010)", 
+  "DateAcquired": "1992-05-20", 
+  "\ufeffTitle": "Rayons de Soleil Sur la Mer", 
   "ObjectID": "65286"
 }

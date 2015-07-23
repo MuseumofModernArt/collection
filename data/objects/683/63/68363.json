@@ -5,8 +5,7 @@
   "Artist": "John Baldessari", 
   "URL": "http://www.moma.org/collection/works/68363", 
   "CuratorApproved": "Y", 
-  "Title": "Rollercoaster", 
-  "DateAcquired": "1990-10-23", 
+  "CreditLine": "Acquired in memory of Monroe Wheeler", 
   "Date": "1989-90", 
   "ArtistID": 304, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "393.1990", 
-  "ArtistBio": "American, born 1931", 
-  "CreditLine": "Acquired in memory of Monroe Wheeler", 
+  "ArtistBio": "(American, born 1931)", 
+  "DateAcquired": "1990-10-23", 
+  "\ufeffTitle": "Rollercoaster", 
   "ObjectID": "68363"
 }

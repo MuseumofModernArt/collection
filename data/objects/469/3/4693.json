@@ -1,12 +1,11 @@
 {
   "Medium": "Aluminum and cork", 
-  "Dimensions": ".a (shaker): 9 1/2 x 4\" (24.2 x 10.2 cm)  .b (stopper): 3 1/4 x 3 3/4\" (8.3 x 9.5 cm)", 
+  "Dimensions": ".a (shaker): 9 1/2 x 4\" (24.2 x 10.2 cm)\r\n.b (stopper): 3 1/4 x 3 3/4\" (8.3 x 9.5 cm)", 
   "Classification": "A&D Design", 
   "Artist": "Peter Schlumbohm", 
   "URL": "http://www.moma.org/collection/works/4693", 
   "CuratorApproved": "Y", 
-  "Title": "Fahrenheitor Cocktail Shaker", 
-  "DateAcquired": "2001-04-30", 
+  "CreditLine": "Gift of the manufacturer", 
   "Date": "1943", 
   "ArtistID": 5225, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "1330.2001.a-b", 
-  "ArtistBio": "American, born Germany. 1896\u20131962", 
-  "CreditLine": "Gift of the manufacturer", 
+  "ArtistBio": "(American, born Germany. 1896\u20131962)", 
+  "DateAcquired": "2001-04-30", 
+  "\ufeffTitle": "Fahrenheitor Cocktail Shaker", 
   "ObjectID": "4693"
 }

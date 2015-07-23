@@ -5,8 +5,7 @@
   "Artist": "Charles N\u00e8gre", 
   "URL": "http://www.moma.org/collection/works/52238", 
   "CuratorApproved": "Y", 
-  "Title": "South Porch, Cathedral of Chartres", 
-  "DateAcquired": "1983-03-24", 
+  "CreditLine": "Purchase", 
   "Date": "1856 or 1857", 
   "ArtistID": 4254, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "383.1983.1", 
-  "ArtistBio": "French, 1820\u20131880", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(French, 1820\u20131880)", 
+  "DateAcquired": "1983-03-24", 
+  "\ufeffTitle": "South Porch, Cathedral of Chartres", 
   "ObjectID": "52238"
 }

@@ -5,8 +5,7 @@
   "Artist": "International News Photo", 
   "URL": "http://www.moma.org/collection/works/58618", 
   "CuratorApproved": "Y", 
-  "Title": "The Portent of Coming Disaster", 
-  "DateAcquired": "2001-06-14", 
+  "CreditLine": "The New York Times Collection", 
   "Date": "1938", 
   "ArtistID": 8560, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "2025.2001", 
-  "ArtistBio": "NULL", 
-  "CreditLine": "The New York Times Collection", 
+  "ArtistBio": "", 
+  "DateAcquired": "2001-06-14", 
+  "\ufeffTitle": "\"The Portent of Coming Disaster\"", 
   "ObjectID": "58618"
 }

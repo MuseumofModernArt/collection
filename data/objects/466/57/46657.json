@@ -5,8 +5,7 @@
   "Artist": "Harry Callahan", 
   "URL": "http://www.moma.org/collection/works/46657", 
   "CuratorApproved": "Y", 
-  "Title": "Reeds", 
-  "DateAcquired": "1959-04-22", 
+  "CreditLine": "Gift of the photographer", 
   "Date": "1948", 
   "ArtistID": 924, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "123.1959.a-d", 
-  "ArtistBio": "American, 1912\u20131999", 
-  "CreditLine": "Gift of the photographer", 
+  "ArtistBio": "(American, 1912\u20131999)", 
+  "DateAcquired": "1959-04-22", 
+  "\ufeffTitle": "Reeds", 
   "ObjectID": "46657"
 }

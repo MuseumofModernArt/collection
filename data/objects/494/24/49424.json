@@ -5,8 +5,7 @@
   "Artist": "Jan Groover", 
   "URL": "http://www.moma.org/collection/works/49424", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1988-06-09", 
+  "CreditLine": "Robert and Joyce Menschel Fund", 
   "Date": "1983", 
   "ArtistID": 2358, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "242.1988", 
-  "ArtistBio": "American, 1943\u20132012", 
-  "CreditLine": "Robert and Joyce Menschel Fund", 
+  "ArtistBio": "(American, 1943\u20132012)", 
+  "DateAcquired": "1988-06-09", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "49424"
 }

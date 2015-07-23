@@ -1,12 +1,11 @@
 {
   "Medium": "Multiple of oil on canvas", 
-  "Dimensions": "composition  11 3/4 x 15 3/4\" (29.9 x 40 cm)  sheet  11 3/4 x 15 3/4\" (29 x 40 cm)", 
+  "Dimensions": "composition  11 3/4 x 15 3/4\" (29.9 x 40 cm)\r\nsheet  11 3/4 x 15 3/4\" (29 x 40 cm)", 
   "Classification": "Multiple", 
   "Artist": "Gerhard Richter", 
   "URL": "http://www.moma.org/collection/works/61953", 
   "CuratorApproved": "Y", 
-  "Title": "Green-Blue-Red (for Parkett no. 35)", 
-  "DateAcquired": "1998-03-05", 
+  "CreditLine": "Riva Castleman Endowment Fund, Lily Auchincloss Fund, and Gift of Parkett", 
   "Date": "1993", 
   "ArtistID": 4907, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "110.1998.1", 
-  "ArtistBio": "German, born 1932", 
-  "CreditLine": "Riva Castleman Endowment Fund, Lily Auchincloss Fund, and Gift of Parkett", 
+  "ArtistBio": "(German, born 1932)", 
+  "DateAcquired": "1998-03-05", 
+  "\ufeffTitle": "Green-Blue-Red (for Parkett no. 35)", 
   "ObjectID": "61953"
 }

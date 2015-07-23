@@ -1,12 +1,11 @@
 {
   "Medium": "Glass and wood", 
-  "Dimensions": "Overall: 2 3/4 x 4\" (7 x 10.2 cm)  .a: 2 3/8 x 4\" (6 x 10.2 cm)  .b: 1 3/8 x 4\" (3.5 x 10.2 cm)", 
+  "Dimensions": "Overall: 2 3/4 x 4\" (7 x 10.2 cm)\r\n.a: 2 3/8 x 4\" (6 x 10.2 cm)\r\n.b: 1 3/8 x 4\" (3.5 x 10.2 cm)", 
   "Classification": "A&D Design", 
   "Artist": "Nanny Still", 
   "URL": "http://www.moma.org/collection/works/4396", 
   "CuratorApproved": "Y", 
-  "Title": "Candle Holder", 
-  "DateAcquired": "1966-12-06", 
+  "CreditLine": "Purchase", 
   "Date": "c. 1949-63", 
   "ArtistID": 5666, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "717.1966.a-b", 
-  "ArtistBio": "Finnish, 1926\u20132009", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(Finnish, 1926\u20132009)", 
+  "DateAcquired": "1966-12-06", 
+  "\ufeffTitle": "Candle Holder", 
   "ObjectID": "4396"
 }

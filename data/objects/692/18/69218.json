@@ -1,12 +1,11 @@
 {
   "Medium": "Lithograph", 
-  "Dimensions": "irreg composition  28 1/4 x 16 3/4\" (71.8 x 42.5 cm)  sheet  30 3/16 x 22 5/8\" (76.7 x 57.5 cm)", 
+  "Dimensions": "irreg composition  28 1/4 x 16 3/4\" (71.8 x 42.5 cm)\r\nsheet  30 3/16 x 22 5/8\" (76.7 x 57.5 cm)", 
   "Classification": "Print", 
   "Artist": "Joyce Kozloff", 
   "URL": "http://www.moma.org/collection/works/69218", 
   "CuratorApproved": "Y", 
-  "Title": "Pictures and Borders III", 
-  "DateAcquired": "1977-11-10", 
+  "CreditLine": "John B. Turner Fund", 
   "Date": "1977", 
   "ArtistID": 3235, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "443.1977", 
-  "ArtistBio": "American, born 1942", 
-  "CreditLine": "John B. Turner Fund", 
+  "ArtistBio": "(American, born 1942)", 
+  "DateAcquired": "1977-11-10", 
+  "\ufeffTitle": "Pictures and Borders III", 
   "ObjectID": "69218"
 }

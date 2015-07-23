@@ -1,12 +1,11 @@
 {
   "Medium": "Transfer lithograph", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "Pierre-Auguste Renoir", 
   "URL": "http://www.moma.org/collection/works/67123", 
   "CuratorApproved": "Y", 
-  "Title": "Ambroise Vollard from the portfolio Twelve Original Lithographs by Pierre-Auguste Renoir", 
-  "DateAcquired": "1987-01-15", 
+  "CreditLine": "Gift of William S. Lieberman", 
   "Date": "(1904, published 1919)", 
   "ArtistID": 4869, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "333.1986", 
-  "ArtistBio": "French, 1841\u20131919", 
-  "CreditLine": "Gift of William S. Lieberman", 
+  "ArtistBio": "(French, 1841\u20131919)", 
+  "DateAcquired": "1987-01-15", 
+  "\ufeffTitle": "Ambroise Vollard from the portfolio Twelve Original Lithographs by Pierre-Auguste Renoir", 
   "ObjectID": "67123"
 }

@@ -5,8 +5,7 @@
   "Artist": "Terry Winters", 
   "URL": "http://www.moma.org/collection/works/68543", 
   "CuratorApproved": "Y", 
-  "Title": "Album", 
-  "DateAcquired": "1992-01-22", 
+  "CreditLine": "Gift of Susan and Arthur Fleischer, Jr.", 
   "Date": "1989", 
   "ArtistID": 6408, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "405.1991.1-9", 
-  "ArtistBio": "American, born 1949", 
-  "CreditLine": "Gift of Susan and Arthur Fleischer, Jr.", 
+  "ArtistBio": "(American, born 1949)", 
+  "DateAcquired": "1992-01-22", 
+  "\ufeffTitle": "Album", 
   "ObjectID": "68543"
 }

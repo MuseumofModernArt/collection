@@ -5,8 +5,7 @@
   "Artist": "Karl Schmidt-Rottluff", 
   "URL": "http://www.moma.org/collection/works/68153", 
   "CuratorApproved": "Y", 
-  "Title": "Cats", 
-  "DateAcquired": "1956-10-25", 
+  "CreditLine": "Purchase", 
   "Date": "(1915), published 1919", 
   "ArtistID": 5242, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "382.1956", 
-  "ArtistBio": "German, 1884\u20131976", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(German, 1884\u20131976)", 
+  "DateAcquired": "1956-10-25", 
+  "\ufeffTitle": "Cats (Katzen) from the portfolio Ten Woodcuts by Schmidt-Rottluff (Zehn Holzschnitte von Schmidt-Rottluff)", 
   "ObjectID": "68153"
 }

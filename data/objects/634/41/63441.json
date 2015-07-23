@@ -5,8 +5,7 @@
   "Artist": "Emil Orlik", 
   "URL": "http://www.moma.org/collection/works/63441", 
   "CuratorApproved": "Y", 
-  "Title": "Scene from Michael Kramer", 
-  "DateAcquired": "1960-05-26", 
+  "CreditLine": "Gift of Mr. and Mrs. Carroll Cartwright", 
   "Date": "1904", 
   "ArtistID": 4427, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "167.1960", 
-  "ArtistBio": "German, 1870\u20131932", 
-  "CreditLine": "Gift of Mr. and Mrs. Carroll Cartwright", 
+  "ArtistBio": "(German, 1870\u20131932)", 
+  "DateAcquired": "1960-05-26", 
+  "\ufeffTitle": "Scene from Michael Kramer (Szenenbild zu Michael Kramer)", 
   "ObjectID": "63441"
 }

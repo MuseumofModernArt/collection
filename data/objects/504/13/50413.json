@@ -5,8 +5,7 @@
   "Artist": "Thomas Annan", 
   "URL": "http://www.moma.org/collection/works/50413", 
   "CuratorApproved": "Y", 
-  "Title": "Close No. 115 High Street", 
-  "DateAcquired": "NULL", 
+  "CreditLine": "Purchase", 
   "Date": "1868", 
   "ArtistID": 190, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "308.1975.7", 
-  "ArtistBio": "British, 1829\u20131887", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(British, 1829\u20131887)", 
+  "DateAcquired": "", 
+  "\ufeffTitle": "Close No. 115 High Street", 
   "ObjectID": "50413"
 }

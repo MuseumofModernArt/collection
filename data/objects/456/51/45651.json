@@ -5,8 +5,7 @@
   "Artist": "Gay Block", 
   "URL": "http://www.moma.org/collection/works/45651", 
   "CuratorApproved": "Y", 
-  "Title": "South Miami Beach", 
-  "DateAcquired": "1988-03-10", 
+  "CreditLine": "Gift of the photographer in honor of Anne W. Tucker", 
   "Date": "1982", 
   "ArtistID": 607, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "72.1988", 
-  "ArtistBio": "American, born 1942", 
-  "CreditLine": "Gift of the photographer in honor of Anne W. Tucker", 
+  "ArtistBio": "(American, born 1942)", 
+  "DateAcquired": "1988-03-10", 
+  "\ufeffTitle": "South Miami Beach", 
   "ObjectID": "45651"
 }

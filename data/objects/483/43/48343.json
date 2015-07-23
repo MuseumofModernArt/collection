@@ -5,8 +5,7 @@
   "Artist": "Jerry Schatzberg", 
   "URL": "http://www.moma.org/collection/works/48343", 
   "CuratorApproved": "Y", 
-  "Title": "Sandy Dennis, Actress", 
-  "DateAcquired": "1994-03-10", 
+  "CreditLine": "The Fellows of Photography Fund", 
   "Date": "1964", 
   "ArtistID": 7711, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "199.1994", 
-  "ArtistBio": "American, born 1927", 
-  "CreditLine": "The Fellows of Photography Fund", 
+  "ArtistBio": "(American, born 1927)", 
+  "DateAcquired": "1994-03-10", 
+  "\ufeffTitle": "Sandy Dennis, Actress", 
   "ObjectID": "48343"
 }

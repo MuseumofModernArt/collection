@@ -5,8 +5,7 @@
   "Artist": "Aleksei Kruchenykh", 
   "URL": "http://www.moma.org/collection/works/13358", 
   "CuratorApproved": "Y", 
-  "Title": "Plate (folio 3) from Vzorval' (Explodity)", 
-  "DateAcquired": "1977-05-03", 
+  "CreditLine": "Purchase", 
   "Date": "(1914).  (Print executed 1913-1914).", 
   "ArtistID": 3263, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "201.1977.3", 
-  "ArtistBio": "Russian, 1886\u20131969", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(Russian, 1886\u20131969)", 
+  "DateAcquired": "1977-05-03", 
+  "\ufeffTitle": "Plate (folio 3) from Vzorval' (Explodity)", 
   "ObjectID": "13358"
 }

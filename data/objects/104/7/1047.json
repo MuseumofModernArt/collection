@@ -5,8 +5,7 @@
   "Artist": "Peter Eisenman", 
   "URL": "http://www.moma.org/collection/works/1047", 
   "CuratorApproved": "Y", 
-  "Title": "Fin d'Ou T Hou S, project  Fourth and final stage", 
-  "DateAcquired": "1992-10-21", 
+  "CreditLine": "Gift of Frederieke Taylor", 
   "Date": "1983", 
   "ArtistID": 6969, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "432.1992", 
-  "ArtistBio": "American, born 1932", 
-  "CreditLine": "Gift of Frederieke Taylor", 
+  "ArtistBio": "(American, born 1932)", 
+  "DateAcquired": "1992-10-21", 
+  "\ufeffTitle": "Fin d'Ou T Hou S, project, Fourth and final stage", 
   "ObjectID": "1047"
 }

@@ -5,8 +5,7 @@
   "Artist": "A. M. Cassandre", 
   "URL": "http://www.moma.org/collection/works/6617", 
   "CuratorApproved": "Y", 
-  "Title": "L.M.S. Bestway", 
-  "DateAcquired": "1982-10-27", 
+  "CreditLine": "Gift of The Lauder Foundation, Leonard and Evelyn Lauder Fund", 
   "Date": "1928", 
   "ArtistID": 1015, 
   "Keywords": [
@@ -20,7 +19,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "410.1982", 
-  "ArtistBio": "French, 1901\u20131968", 
-  "CreditLine": "Gift of The Lauder Foundation, Leonard and Evelyn Lauder Fund", 
+  "ArtistBio": "(French, 1901\u20131968)", 
+  "DateAcquired": "1982-10-27", 
+  "\ufeffTitle": "L.M.S. Bestway", 
   "ObjectID": "6617"
 }

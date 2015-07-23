@@ -5,8 +5,7 @@
   "Artist": "Theo H. Ballmer", 
   "URL": "http://www.moma.org/collection/works/6861", 
   "CuratorApproved": "Y", 
-  "Title": "Bureau Bale", 
-  "DateAcquired": "1982-10-27", 
+  "CreditLine": "Est\u00e9e and Joseph Lauder Design Fund", 
   "Date": "1928", 
   "ArtistID": 314, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "401.1982", 
-  "ArtistBio": "Swiss, 1902\u20131965", 
-  "CreditLine": "Est\u00e9e and Joseph Lauder Design Fund", 
+  "ArtistBio": "(Swiss, 1902\u20131965)", 
+  "DateAcquired": "1982-10-27", 
+  "\ufeffTitle": "Bureau Bale", 
   "ObjectID": "6861"
 }

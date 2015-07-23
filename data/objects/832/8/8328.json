@@ -5,8 +5,7 @@
   "Artist": "Marcello Nizzoli", 
   "URL": "http://www.moma.org/collection/works/8328", 
   "CuratorApproved": "Y", 
-  "Title": "Art D\u00e9coratif Italien", 
-  "DateAcquired": "1979-05-30", 
+  "CreditLine": "Anonymous gift in memory of Nancy A. Bernstein", 
   "Date": "1952", 
   "ArtistID": 4316, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "886.1979", 
-  "ArtistBio": "Italian, 1887\u20131969", 
-  "CreditLine": "Anonymous gift in memory of Nancy A. Bernstein", 
+  "ArtistBio": "(Italian, 1887\u20131969)", 
+  "DateAcquired": "1979-05-30", 
+  "\ufeffTitle": "Art D\u00e9coratif Italien", 
   "ObjectID": "8328"
 }

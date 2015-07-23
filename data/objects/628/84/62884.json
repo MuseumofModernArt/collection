@@ -5,8 +5,7 @@
   "Artist": "Alex Katz", 
   "URL": "http://www.moma.org/collection/works/62884", 
   "CuratorApproved": "Y", 
-  "Title": "The Green Cap", 
-  "DateAcquired": "1987-05-14", 
+  "CreditLine": "Gift of Crown Point Press in celebration of its 25th anniversary", 
   "Date": "1985", 
   "ArtistID": 3016, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "142.1987", 
-  "ArtistBio": "American, born 1927", 
-  "CreditLine": "Gift of Crown Point Press in celebration of its 25th anniversary", 
+  "ArtistBio": "(American, born 1927)", 
+  "DateAcquired": "1987-05-14", 
+  "\ufeffTitle": "The Green Cap", 
   "ObjectID": "62884"
 }

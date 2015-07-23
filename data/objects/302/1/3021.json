@@ -5,8 +5,7 @@
   "Artist": "Massimo Vignelli", 
   "URL": "http://www.moma.org/collection/works/3021", 
   "CuratorApproved": "Y", 
-  "Title": "Jigger", 
-  "DateAcquired": "1965-04-06", 
+  "CreditLine": "Gift of the manufacturer", 
   "Date": "c. 1963", 
   "ArtistID": 6155, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "245.1965", 
-  "ArtistBio": "Italian, 1931\u20132014", 
-  "CreditLine": "Gift of the manufacturer", 
+  "ArtistBio": "(Italian, 1931\u20132014)", 
+  "DateAcquired": "1965-04-06", 
+  "\ufeffTitle": "Jigger", 
   "ObjectID": "3021"
 }

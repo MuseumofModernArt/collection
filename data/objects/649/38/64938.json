@@ -5,8 +5,7 @@
   "Artist": "Theo Wujcik", 
   "URL": "http://www.moma.org/collection/works/64938", 
   "CuratorApproved": "Y", 
-  "Title": "Ed Moses", 
-  "DateAcquired": "1976-05-11", 
+  "CreditLine": "The Lily Auchincloss Foundation Fund", 
   "Date": "1970", 
   "ArtistID": 6462, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "236.1976", 
-  "ArtistBio": "American, born 1936", 
-  "CreditLine": "The Lily Auchincloss Foundation Fund", 
+  "ArtistBio": "(American, 1936-2014)", 
+  "DateAcquired": "1976-05-11", 
+  "\ufeffTitle": "Ed Moses", 
   "ObjectID": "64938"
 }

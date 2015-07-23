@@ -1,12 +1,11 @@
 {
   "Medium": "Steel blade, nylon handle, brass fittings, and leather sheath", 
-  "Dimensions": ".a (knife): 8 5/8\" (21.9 cm)  .b (sheath): 8\" (20.3 cm)", 
+  "Dimensions": ".a (knife): 8 5/8\" (21.9 cm)\r\n.b (sheath): 8\" (20.3 cm)", 
   "Classification": "A&D Design", 
   "Artist": "Tapio Wirkkala", 
   "URL": "http://www.moma.org/collection/works/3349", 
   "CuratorApproved": "Y", 
-  "Title": "Puukko Knife and Sheath", 
-  "DateAcquired": "1966-05-10", 
+  "CreditLine": "Greta Daniel Design Fund", 
   "Date": "1961", 
   "ArtistID": 6409, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "345.1966.a-b", 
-  "ArtistBio": "Finnish, 1915\u20131985", 
-  "CreditLine": "Greta Daniel Design Fund", 
+  "ArtistBio": "(Finnish, 1915\u20131985)", 
+  "DateAcquired": "1966-05-10", 
+  "\ufeffTitle": "Puukko Knife and Sheath", 
   "ObjectID": "3349"
 }

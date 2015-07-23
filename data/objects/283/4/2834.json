@@ -5,8 +5,7 @@
   "Artist": "Isamu Noguchi", 
   "URL": "http://www.moma.org/collection/works/2834", 
   "CuratorApproved": "Y", 
-  "Title": "Table Lamp", 
-  "DateAcquired": "1950-06-08", 
+  "CreditLine": "Gift of Knoll Associates", 
   "Date": "1948", 
   "ArtistID": 4324, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "227.1950", 
-  "ArtistBio": "American, 1904\u20131988", 
-  "CreditLine": "Gift of Knoll Associates", 
+  "ArtistBio": "(American, 1904\u20131988)", 
+  "DateAcquired": "1950-06-08", 
+  "\ufeffTitle": "Table Lamp", 
   "ObjectID": "2834"
 }

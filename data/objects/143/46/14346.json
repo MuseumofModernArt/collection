@@ -5,8 +5,7 @@
   "Artist": "Juan Gris", 
   "URL": "http://www.moma.org/collection/works/14346", 
   "CuratorApproved": "Y", 
-  "Title": "Drawing for Mouchoir de Nuages", 
-  "DateAcquired": "1972-05-08", 
+  "CreditLine": "Gift of Mr. and Mrs. Wolfgang Schoenborn", 
   "Date": "1925", 
   "ArtistID": 2349, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "258.1972", 
-  "ArtistBio": "Spanish, 1887\u20131927", 
-  "CreditLine": "Gift of Mr. and Mrs. Wolfgang Schoenborn", 
+  "ArtistBio": "(Spanish, 1887\u20131927)", 
+  "DateAcquired": "1972-05-08", 
+  "\ufeffTitle": "Drawing for Mouchoir de Nuages", 
   "ObjectID": "14346"
 }

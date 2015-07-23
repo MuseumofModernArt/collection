@@ -5,8 +5,7 @@
   "Artist": "Sheron Rupp", 
   "URL": "http://www.moma.org/collection/works/48092", 
   "CuratorApproved": "Y", 
-  "Title": "Roy and Johnnie, Wartrace, Tennessee", 
-  "DateAcquired": "1992-04-02", 
+  "CreditLine": "", 
   "Date": "1990", 
   "ArtistID": 5083, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "190.1992.x1-x2", 
-  "ArtistBio": "American, born 1943", 
-  "CreditLine": "NULL", 
+  "ArtistBio": "(American, born 1943)", 
+  "DateAcquired": "1992-04-02", 
+  "\ufeffTitle": "Roy and Johnnie, Wartrace, Tennessee", 
   "ObjectID": "48092"
 }

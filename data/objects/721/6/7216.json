@@ -5,8 +5,7 @@
   "Artist": "Karel Maes", 
   "URL": "http://www.moma.org/collection/works/7216", 
   "CuratorApproved": "Y", 
-  "Title": "De Vertraagde Film", 
-  "DateAcquired": "1987-11-18", 
+  "CreditLine": "Architecture & Design Purchase Fund", 
   "Date": "1922", 
   "ArtistID": 3684, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "488.1987", 
-  "ArtistBio": "Belgian, 1900\u20131974", 
-  "CreditLine": "Architecture & Design Purchase Fund", 
+  "ArtistBio": "(Belgian, 1900\u20131974)", 
+  "DateAcquired": "1987-11-18", 
+  "\ufeffTitle": "De Vertraagde Film", 
   "ObjectID": "7216"
 }

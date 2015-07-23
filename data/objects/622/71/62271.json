@@ -1,12 +1,11 @@
 {
   "Medium": "Photogravure and screenprint", 
-  "Dimensions": "irreg. composition  68 1/8 x 35 1/2\" (173 x 90.2 cm)  sheet  73 3/4 x 37 15/16\" (187 x 96.3 cm)", 
+  "Dimensions": "irreg. composition  68 1/8 x 35 1/2\" (173 x 90.2 cm)\r\nsheet  73 3/4 x 37 15/16\" (187 x 96.3 cm)", 
   "Classification": "Print", 
   "Artist": "Lorna Simpson", 
   "URL": "http://www.moma.org/collection/works/62271", 
   "CuratorApproved": "Y", 
-  "Title": "Counting", 
-  "DateAcquired": "1991-05-22", 
+  "CreditLine": "Gift of Walter Bareiss", 
   "Date": "1991", 
   "ArtistID": 6602, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "124.1991", 
-  "ArtistBio": "American, born 1960", 
-  "CreditLine": "Gift of Walter Bareiss", 
+  "ArtistBio": "(American, born 1960)", 
+  "DateAcquired": "1991-05-22", 
+  "\ufeffTitle": "Counting", 
   "ObjectID": "62271"
 }

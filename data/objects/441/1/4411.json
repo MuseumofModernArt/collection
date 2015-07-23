@@ -5,8 +5,7 @@
   "Artist": "Paul Chaleff", 
   "URL": "http://www.moma.org/collection/works/4411", 
   "CuratorApproved": "Y", 
-  "Title": "Pipe Vase", 
-  "DateAcquired": "1983-11-30", 
+  "CreditLine": "Gift of the designer", 
   "Date": "1983", 
   "ArtistID": 1058, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "726.1983", 
-  "ArtistBio": "American, born 1947", 
-  "CreditLine": "Gift of the designer", 
+  "ArtistBio": "(American, born 1947)", 
+  "DateAcquired": "1983-11-30", 
+  "\ufeffTitle": "Pipe Vase", 
   "ObjectID": "4411"
 }

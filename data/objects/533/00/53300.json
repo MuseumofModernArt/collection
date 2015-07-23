@@ -5,8 +5,7 @@
   "Artist": "Alfred Stieglitz", 
   "URL": "http://www.moma.org/collection/works/53300", 
   "CuratorApproved": "Y", 
-  "Title": "Dorothy Norman", 
-  "DateAcquired": "1997-10-09", 
+  "CreditLine": "Bequest of Dorothy Norman", 
   "Date": "1936", 
   "ArtistID": 5664, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "432.1997", 
-  "ArtistBio": "American, 1864\u20131946", 
-  "CreditLine": "Bequest of Dorothy Norman", 
+  "ArtistBio": "(American, 1864\u20131946)", 
+  "DateAcquired": "1997-10-09", 
+  "\ufeffTitle": "Dorothy Norman", 
   "ObjectID": "53300"
 }

@@ -5,8 +5,7 @@
   "Artist": "Corning Glass Works", 
   "URL": "http://www.moma.org/collection/works/3726", 
   "CuratorApproved": "Y", 
-  "Title": "Crystallizing Dish", 
-  "DateAcquired": "NULL", 
+  "CreditLine": "Purchase", 
   "Date": "1930-1940", 
   "ArtistID": 1249, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "386.1942", 
-  "ArtistBio": "American, est. 1851", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, est. 1851)", 
+  "DateAcquired": "", 
+  "\ufeffTitle": "Crystallizing Dish", 
   "ObjectID": "3726"
 }

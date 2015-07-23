@@ -5,8 +5,7 @@
   "Artist": "Charles H. Currier", 
   "URL": "http://www.moma.org/collection/works/48151", 
   "CuratorApproved": "Y", 
-  "Title": "Kitchen in the Vicinity of Boston, Massachusetts", 
-  "DateAcquired": "1944-11-08", 
+  "CreditLine": "Gift of Ernst Halberstadt", 
   "Date": "1901", 
   "ArtistID": 1338, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "193.1944", 
-  "ArtistBio": "American, 1851\u20131938", 
-  "CreditLine": "Gift of Ernst Halberstadt", 
+  "ArtistBio": "(American, 1851\u20131938)", 
+  "DateAcquired": "1944-11-08", 
+  "\ufeffTitle": "Kitchen in the Vicinity of Boston, Massachusetts", 
   "ObjectID": "48151"
 }

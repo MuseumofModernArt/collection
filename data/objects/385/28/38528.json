@@ -5,8 +5,7 @@
   "Artist": "Robert Overby", 
   "URL": "http://www.moma.org/collection/works/38528", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled (6 January 1972)", 
-  "DateAcquired": "2001-02-13", 
+  "CreditLine": "Purchase", 
   "Date": "1972", 
   "ArtistID": 8333, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "1162.2001.7", 
-  "ArtistBio": "American, 1935\u20131993", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, 1935\u20131993)", 
+  "DateAcquired": "2001-02-13", 
+  "\ufeffTitle": "Untitled (6 January 1972)", 
   "ObjectID": "38528"
 }

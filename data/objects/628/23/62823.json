@@ -1,12 +1,11 @@
 {
   "Medium": "Lithograph", 
-  "Dimensions": "irreg composition  22 13/16 x 30 3/4\" (57.9 x 78.1 cm)  irreg sheet  28 5/8 x 41 1/2\" (72.7 x 105.4 cm)", 
+  "Dimensions": "irreg composition  22 13/16 x 30 3/4\" (57.9 x 78.1 cm)\r\nirreg sheet  28 5/8 x 41 1/2\" (72.7 x 105.4 cm)", 
   "Classification": "Print", 
   "Artist": "Helen Frankenthaler", 
   "URL": "http://www.moma.org/collection/works/62823", 
   "CuratorApproved": "Y", 
-  "Title": "Door", 
-  "DateAcquired": "1979-05-01", 
+  "CreditLine": "Gift of Celeste Bartos", 
   "Date": "1976-79", 
   "ArtistID": 1974, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "140.1979", 
-  "ArtistBio": "American, 1928\u20132011", 
-  "CreditLine": "Gift of Celeste Bartos", 
+  "ArtistBio": "(American, 1928\u20132011)", 
+  "DateAcquired": "1979-05-01", 
+  "\ufeffTitle": "Door", 
   "ObjectID": "62823"
 }

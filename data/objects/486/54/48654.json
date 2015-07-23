@@ -5,8 +5,7 @@
   "Artist": "Walker Evans", 
   "URL": "http://www.moma.org/collection/works/48654", 
   "CuratorApproved": "Y", 
-  "Title": "Joe's Auto Graveyard, Pennsylvania", 
-  "DateAcquired": "1970-05-05", 
+  "CreditLine": "The Parkinson Fund", 
   "Date": "1936", 
   "ArtistID": 1777, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "215.1970", 
-  "ArtistBio": "American, 1903\u20131975", 
-  "CreditLine": "The Parkinson Fund", 
+  "ArtistBio": "(American, 1903\u20131975)", 
+  "DateAcquired": "1970-05-05", 
+  "\ufeffTitle": "Joe's Auto Graveyard, Pennsylvania", 
   "ObjectID": "48654"
 }

@@ -5,8 +5,7 @@
   "Artist": "P. Petersen", 
   "URL": "http://www.moma.org/collection/works/46120", 
   "CuratorApproved": "Y", 
-  "Title": "Military Ambulance", 
-  "DateAcquired": "1986-01-15", 
+  "CreditLine": "Gift of John C. Waddell", 
   "Date": "1865", 
   "ArtistID": 4573, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "92.1986", 
-  "ArtistBio": "Swedish", 
-  "CreditLine": "Gift of John C. Waddell", 
+  "ArtistBio": "(Swedish)", 
+  "DateAcquired": "1986-01-15", 
+  "\ufeffTitle": "Military Ambulance", 
   "ObjectID": "46120"
 }

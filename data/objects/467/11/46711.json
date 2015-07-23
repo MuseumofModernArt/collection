@@ -5,8 +5,7 @@
   "Artist": "Henri Cartier-Bresson", 
   "URL": "http://www.moma.org/collection/works/46711", 
   "CuratorApproved": "Y", 
-  "Title": "Alfred Stieglitz, New York", 
-  "DateAcquired": "1959-04-22", 
+  "CreditLine": "Gift of Edward Steichen", 
   "Date": "1946", 
   "ArtistID": 1000, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "129.1959", 
-  "ArtistBio": "French, 1908\u20132004", 
-  "CreditLine": "Gift of Edward Steichen", 
+  "ArtistBio": "(French, 1908\u20132004)", 
+  "DateAcquired": "1959-04-22", 
+  "\ufeffTitle": "Alfred Stieglitz, New York", 
   "ObjectID": "46711"
 }

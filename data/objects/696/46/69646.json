@@ -1,12 +1,11 @@
 {
   "Medium": "Screenprint with varnish additions from a portfolio of ten screenprints and one embossing", 
-  "Dimensions": "composition and sheet: 33 7/8 x 24 9/16\" (86.1 x 62.4 cm)  ", 
+  "Dimensions": "composition and sheet: 33 7/8 x 24 9/16\" (86.1 x 62.4 cm)\r\n", 
   "Classification": "Print", 
   "Artist": "Damien Hirst", 
   "URL": "http://www.moma.org/collection/works/69646", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled from London", 
-  "DateAcquired": "1992-11-04", 
+  "CreditLine": "Purchase", 
   "Date": "(1992)", 
   "ArtistID": 6905, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "467.1992", 
-  "ArtistBio": "British, born 1965", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(British, born 1965)", 
+  "DateAcquired": "1992-11-04", 
+  "\ufeffTitle": "Untitled from London", 
   "ObjectID": "69646"
 }

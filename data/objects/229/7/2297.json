@@ -5,8 +5,7 @@
   "Artist": "Charles Rennie Mackintosh", 
   "URL": "http://www.moma.org/collection/works/2297", 
   "CuratorApproved": "Y", 
-  "Title": "Armchairs", 
-  "DateAcquired": "1958-12-04", 
+  "CreditLine": "Gift of the Glasgow School of Art", 
   "Date": "1907", 
   "ArtistID": 3671, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "156.1958.1-2", 
-  "ArtistBio": "British, 1868\u20131928", 
-  "CreditLine": "Gift of the Glasgow School of Art", 
+  "ArtistBio": "(British, 1868\u20131928)", 
+  "DateAcquired": "1958-12-04", 
+  "\ufeffTitle": "Armchairs", 
   "ObjectID": "2297"
 }

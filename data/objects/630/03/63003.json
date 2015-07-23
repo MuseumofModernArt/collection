@@ -1,12 +1,11 @@
 {
   "Medium": "Etching", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "Sylvia Gosse", 
   "URL": "http://www.moma.org/collection/works/63003", 
   "CuratorApproved": "Y", 
-  "Title": "The High French Bed", 
-  "DateAcquired": "1981-05-06", 
+  "CreditLine": "Jeanne C. Thayer Fund", 
   "Date": "(1912)", 
   "ArtistID": 2262, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "152.1981", 
-  "ArtistBio": "British", 
-  "CreditLine": "Jeanne C. Thayer Fund", 
+  "ArtistBio": "(British)", 
+  "DateAcquired": "1981-05-06", 
+  "\ufeffTitle": "The High French Bed", 
   "ObjectID": "63003"
 }

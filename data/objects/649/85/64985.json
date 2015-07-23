@@ -1,12 +1,11 @@
 {
   "Medium": "Lithograph", 
-  "Dimensions": "Composition (irreg.): 23 9/16 x 17 1/4\" (59.8 x 43.8 cm)  Sheet: 29 3/8 x 21 5/8\" (74.6 x 54.9 cm)", 
+  "Dimensions": "Composition (irreg.): 23 9/16 x 17 1/4\" (59.8 x 43.8 cm)\r\nSheet: 29 3/8 x 21 5/8\" (74.6 x 54.9 cm)", 
   "Classification": "Print", 
   "Artist": "Terry Winters", 
   "URL": "http://www.moma.org/collection/works/64985", 
   "CuratorApproved": "Y", 
-  "Title": "Ova", 
-  "DateAcquired": "1983-01-18", 
+  "CreditLine": "Gift of Celeste Bartos", 
   "Date": "1982", 
   "ArtistID": 6408, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "238.1983", 
-  "ArtistBio": "American, born 1949", 
-  "CreditLine": "Gift of Celeste Bartos", 
+  "ArtistBio": "(American, born 1949)", 
+  "DateAcquired": "1983-01-18", 
+  "\ufeffTitle": "Ova", 
   "ObjectID": "64985"
 }

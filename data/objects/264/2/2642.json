@@ -5,8 +5,7 @@
   "Artist": "Romeo Maestri", 
   "URL": "http://www.moma.org/collection/works/2642", 
   "CuratorApproved": "Y", 
-  "Title": "Stapler", 
-  "DateAcquired": "1958-12-04", 
+  "CreditLine": "Gift of the manufacturer", 
   "Date": "c. 1954", 
   "ArtistID": 3685, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "204.1958", 
-  "ArtistBio": "Italian", 
-  "CreditLine": "Gift of the manufacturer", 
+  "ArtistBio": "(Italian)", 
+  "DateAcquired": "1958-12-04", 
+  "\ufeffTitle": "Stapler", 
   "ObjectID": "2642"
 }

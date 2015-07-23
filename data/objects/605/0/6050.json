@@ -5,8 +5,7 @@
   "Artist": "A. M. Cassandre", 
   "URL": "http://www.moma.org/collection/works/6050", 
   "CuratorApproved": "Y", 
-  "Title": "Wagons Lits Cook", 
-  "DateAcquired": "1935-11-12", 
+  "CreditLine": "Given anonymously", 
   "Date": "1933", 
   "ArtistID": 1015, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "281.1935", 
-  "ArtistBio": "French, 1901\u20131968", 
-  "CreditLine": "Given anonymously", 
+  "ArtistBio": "(French, 1901\u20131968)", 
+  "DateAcquired": "1935-11-12", 
+  "\ufeffTitle": "Wagons Lits Cook", 
   "ObjectID": "6050"
 }

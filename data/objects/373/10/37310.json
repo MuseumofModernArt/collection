@@ -1,12 +1,11 @@
 {
   "Medium": "Watercolor and pencil on paper", 
-  "Dimensions": "14 x 11\" (35.5 x 27.9 cm)  ", 
+  "Dimensions": "14 x 11\" (35.5 x 27.9 cm)\r\n", 
   "Classification": "Drawing", 
   "Artist": "Sherrie Levine", 
   "URL": "http://www.moma.org/collection/works/37310", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled (After Joan Mir\u00f3)", 
-  "DateAcquired": "1990-10-25", 
+  "CreditLine": "Bequest of Bill Olander and Chris Cox", 
   "Date": "1985", 
   "ArtistID": 3515, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "548.1990", 
-  "ArtistBio": "American, born 1947", 
-  "CreditLine": "Bequest of Bill Olander and Chris Cox", 
+  "ArtistBio": "(American, born 1947)", 
+  "DateAcquired": "1990-10-25", 
+  "\ufeffTitle": "Untitled (After Joan Mir\u00f3)", 
   "ObjectID": "37310"
 }

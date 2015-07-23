@@ -5,8 +5,7 @@
   "Artist": "Pablo Picasso", 
   "URL": "http://www.moma.org/collection/works/61920", 
   "CuratorApproved": "Y", 
-  "Title": "Vase of Flowers", 
-  "DateAcquired": "1955-04-06", 
+  "CreditLine": "Given anonymously", 
   "Date": "1950", 
   "ArtistID": 4609, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "109.1955", 
-  "ArtistBio": "Spanish, 1881\u20131973", 
-  "CreditLine": "Given anonymously", 
+  "ArtistBio": "(Spanish, 1881\u20131973)", 
+  "DateAcquired": "1955-04-06", 
+  "\ufeffTitle": "Vase of Flowers", 
   "ObjectID": "61920"
 }

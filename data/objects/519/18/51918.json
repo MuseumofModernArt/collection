@@ -5,8 +5,7 @@
   "Artist": "Anthony Barboza", 
   "URL": "http://www.moma.org/collection/works/51918", 
   "CuratorApproved": "Y", 
-  "Title": "Lionel Hampton, Village Gate", 
-  "DateAcquired": "1997-10-09", 
+  "CreditLine": "Geraldine J. Murphy Fund", 
   "Date": "1987", 
   "ArtistID": 327, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "368.1997", 
-  "ArtistBio": "American, born 1944", 
-  "CreditLine": "Geraldine J. Murphy Fund", 
+  "ArtistBio": "(American, born 1944)", 
+  "DateAcquired": "1997-10-09", 
+  "\ufeffTitle": "Lionel Hampton, Village Gate", 
   "ObjectID": "51918"
 }

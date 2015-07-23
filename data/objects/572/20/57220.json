@@ -5,8 +5,7 @@
   "Artist": "Cindy Sherman", 
   "URL": "http://www.moma.org/collection/works/57220", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled Film Still #65", 
-  "DateAcquired": "1995-12-14", 
+  "CreditLine": "Purchase", 
   "Date": "1980", 
   "ArtistID": 5392, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "874.1995", 
-  "ArtistBio": "American, born 1954", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, born 1954)", 
+  "DateAcquired": "1995-12-14", 
+  "\ufeffTitle": "Untitled Film Still #65", 
   "ObjectID": "57220"
 }

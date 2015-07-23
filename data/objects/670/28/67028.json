@@ -5,8 +5,7 @@
   "Artist": "Stuart Davis", 
   "URL": "http://www.moma.org/collection/works/67028", 
   "CuratorApproved": "Y", 
-  "Title": "Rue de L'Echaud\u00e9", 
-  "DateAcquired": "1980-02-25", 
+  "CreditLine": "Gift of Mrs. Stuart Davis, in fond memory of Dorothy H. Dudley", 
   "Date": "(1929)", 
   "ArtistID": 1412, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "328.1980", 
-  "ArtistBio": "American, 1892\u20131964", 
-  "CreditLine": "Gift of Mrs. Stuart Davis, in fond memory of Dorothy H. Dudley", 
+  "ArtistBio": "(American, 1892\u20131964)", 
+  "DateAcquired": "1980-02-25", 
+  "\ufeffTitle": "Rue de L'Echaud\u00e9", 
   "ObjectID": "67028"
 }

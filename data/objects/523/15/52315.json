@@ -5,8 +5,7 @@
   "Artist": "Paul Martin", 
   "URL": "http://www.moma.org/collection/works/52315", 
   "CuratorApproved": "Y", 
-  "Title": "The Flower Woman at Ludgate Hill Station", 
-  "DateAcquired": "1938-10-20", 
+  "CreditLine": "Gift of the photographer", 
   "Date": "1890-96", 
   "ArtistID": 3795, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "387.1938", 
-  "ArtistBio": "British, 1864\u20131944", 
-  "CreditLine": "Gift of the photographer", 
+  "ArtistBio": "(British, 1864\u20131944)", 
+  "DateAcquired": "1938-10-20", 
+  "\ufeffTitle": "The Flower Woman at Ludgate Hill Station", 
   "ObjectID": "52315"
 }

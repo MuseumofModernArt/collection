@@ -5,8 +5,7 @@
   "Artist": "Arnulf Rainer", 
   "URL": "http://www.moma.org/collection/works/64228", 
   "CuratorApproved": "Y", 
-  "Title": "Self Portrait", 
-  "DateAcquired": "1977-05-03", 
+  "CreditLine": "Larry Aldrich Fund", 
   "Date": "(c. 1975)", 
   "ArtistID": 4792, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "197.1977", 
-  "ArtistBio": "Austrian, born 1929", 
-  "CreditLine": "Larry Aldrich Fund", 
+  "ArtistBio": "(Austrian, born 1929)", 
+  "DateAcquired": "1977-05-03", 
+  "\ufeffTitle": "Self Portrait", 
   "ObjectID": "64228"
 }

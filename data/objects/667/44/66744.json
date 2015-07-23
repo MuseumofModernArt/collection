@@ -5,8 +5,7 @@
   "Artist": "Pierre Bonnard", 
   "URL": "http://www.moma.org/collection/works/66744", 
   "CuratorApproved": "Y", 
-  "Title": "The Little Laundry Girl (La Petite Blanchisseuse)", 
-  "DateAcquired": "1948-10-06", 
+  "CreditLine": "Gift of Victor S. Riesenfeld", 
   "Date": "1896", 
   "ArtistID": 665, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "315.1948", 
-  "ArtistBio": "French, 1867\u20131947", 
-  "CreditLine": "Gift of Victor S. Riesenfeld", 
+  "ArtistBio": "(French, 1867\u20131947)", 
+  "DateAcquired": "1948-10-06", 
+  "\ufeffTitle": "The Little Laundry Girl (La Petite Blanchisseuse)", 
   "ObjectID": "66744"
 }

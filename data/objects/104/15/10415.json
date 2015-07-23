@@ -1,12 +1,11 @@
 {
   "Medium": "Illustrated book with 51 woodcuts (including covers and slipcase); and 3 woodcut ornaments", 
-  "Dimensions": "page:  11 11/16 x 7 11/16\" (29 x 19.5 cm)  Prints:  various dimensions.", 
+  "Dimensions": "page:  11 11/16 x 7 11/16\" (29 x 19.5 cm)\r\nPrints:  various dimensions.", 
   "Classification": "Illustrated Book", 
   "Artist": "Stephen White", 
   "URL": "http://www.moma.org/collection/works/10415", 
   "CuratorApproved": "Y", 
-  "Title": "Amish", 
-  "DateAcquired": "1973-01-04", 
+  "CreditLine": "Monroe Wheeler Fund", 
   "Date": "1968", 
   "ArtistID": 6344, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "33.1973.A-D", 
-  "ArtistBio": "American, born 1948", 
-  "CreditLine": "Monroe Wheeler Fund", 
+  "ArtistBio": "(American, born 1948)", 
+  "DateAcquired": "1973-01-04", 
+  "\ufeffTitle": "Amish", 
   "ObjectID": "10415"
 }

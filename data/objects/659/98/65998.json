@@ -1,12 +1,11 @@
 {
   "Medium": "Engraving", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "Andr\u00e9 Derain", 
   "URL": "http://www.moma.org/collection/works/65998", 
   "CuratorApproved": "Y", 
-  "Title": "Nude", 
-  "DateAcquired": "1940-04-05", 
+  "CreditLine": "Gift of Abby Aldrich Rockefeller", 
   "Date": "(c. 1910-1913)", 
   "ArtistID": 1500, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "284.1940", 
-  "ArtistBio": "French, 1880\u20131954", 
-  "CreditLine": "Gift of Abby Aldrich Rockefeller", 
+  "ArtistBio": "(French, 1880\u20131954)", 
+  "DateAcquired": "1940-04-05", 
+  "\ufeffTitle": "Nude", 
   "ObjectID": "65998"
 }

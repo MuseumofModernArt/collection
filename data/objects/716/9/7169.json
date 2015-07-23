@@ -5,8 +5,7 @@
   "Artist": "Saul Steinberg", 
   "URL": "http://www.moma.org/collection/works/7169", 
   "CuratorApproved": "Y", 
-  "Title": "Nuits de la Fondation Maeght", 
-  "DateAcquired": "1976-10-22", 
+  "CreditLine": "Gift of Peter Stone", 
   "Date": "1970", 
   "ArtistID": 5627, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "475.1976", 
-  "ArtistBio": "American, born Romania. 1914\u20131999", 
-  "CreditLine": "Gift of Peter Stone", 
+  "ArtistBio": "(American, born Romania. 1914\u20131999)", 
+  "DateAcquired": "1976-10-22", 
+  "\ufeffTitle": "Nuits de la Fondation Maeght", 
   "ObjectID": "7169"
 }

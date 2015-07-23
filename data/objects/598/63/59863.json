@@ -1,12 +1,11 @@
 {
   "Medium": "Portfolio of six drypoints and etchings", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "Arnulf Rainer", 
   "URL": "http://www.moma.org/collection/works/59863", 
   "CuratorApproved": "Y", 
-  "Title": "Coverings (\u00dcberdeckungen)", 
-  "DateAcquired": "1988-01-19", 
+  "CreditLine": "Gift of The Lauder Foundation", 
   "Date": "(1961)", 
   "ArtistID": 4792, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "11.1988.1-6", 
-  "ArtistBio": "Austrian, born 1929", 
-  "CreditLine": "Gift of The Lauder Foundation", 
+  "ArtistBio": "(Austrian, born 1929)", 
+  "DateAcquired": "1988-01-19", 
+  "\ufeffTitle": "Coverings (\u00dcberdeckungen)", 
   "ObjectID": "59863"
 }

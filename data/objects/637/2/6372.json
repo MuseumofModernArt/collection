@@ -5,8 +5,7 @@
   "Artist": "Dieter Roth", 
   "URL": "http://www.moma.org/collection/works/6372", 
   "CuratorApproved": "Y", 
-  "Title": "Bewogen Beweging, Stedelijk Amsterdam", 
-  "DateAcquired": "1961-11-08", 
+  "CreditLine": "Gift of the Stedelijk Museum, Amsterdam", 
   "Date": "1961", 
   "ArtistID": 5042, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "340.1961", 
-  "ArtistBio": "Swiss, born Germany. 1930\u20131998", 
-  "CreditLine": "Gift of the Stedelijk Museum, Amsterdam", 
+  "ArtistBio": "(Swiss, born Germany. 1930\u20131998)", 
+  "DateAcquired": "1961-11-08", 
+  "\ufeffTitle": "Bewogen Beweging, Stedelijk Amsterdam", 
   "ObjectID": "6372"
 }

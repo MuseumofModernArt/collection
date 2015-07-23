@@ -5,8 +5,7 @@
   "Artist": "Pierre Bonnard", 
   "URL": "http://www.moma.org/collection/works/59606", 
   "CuratorApproved": "Y", 
-  "Title": "Conversation", 
-  "DateAcquired": "1947-03-13", 
+  "CreditLine": "Gift of Abby Aldrich Rockefeller", 
   "Date": "1893-1894", 
   "ArtistID": 665, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "3.1947.4", 
-  "ArtistBio": "French, 1867\u20131947", 
-  "CreditLine": "Gift of Abby Aldrich Rockefeller", 
+  "ArtistBio": "(French, 1867\u20131947)", 
+  "DateAcquired": "1947-03-13", 
+  "\ufeffTitle": "Conversation", 
   "ObjectID": "59606"
 }

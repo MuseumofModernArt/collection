@@ -5,8 +5,7 @@
   "Artist": "Peter Cook", 
   "URL": "http://www.moma.org/collection/works/795", 
   "CuratorApproved": "Y", 
-  "Title": "Plug-In City, project  Axonometric", 
-  "DateAcquired": "2000-10-31", 
+  "CreditLine": "Gift of The Howard Gilman Foundation", 
   "Date": "1964", 
   "ArtistID": 6950, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "1184.2000", 
-  "ArtistBio": "British, born 1936", 
-  "CreditLine": "Gift of The Howard Gilman Foundation", 
+  "ArtistBio": "(British, born 1936)", 
+  "DateAcquired": "2000-10-31", 
+  "\ufeffTitle": "Plug-In City, project, Axonometric", 
   "ObjectID": "795"
 }

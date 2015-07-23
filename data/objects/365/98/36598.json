@@ -1,12 +1,11 @@
 {
   "Medium": "Japanese handmade white flax paper, joined with rivets", 
-  "Dimensions": "Folded 12 x 70 3/4 x 4\" (30.4 x 179.7 x 10.1 cm)   Unfolded 12\" x 500' (30.4 cm x 152.4 m.)  weight 22 lbs (10.00 kg)", 
+  "Dimensions": "Folded 12 x 70 3/4 x 4\" (30.4 x 179.7 x 10.1 cm) \r\nUnfolded 12\" x 500' (30.4 cm x 152.4 m.)\r\nweight 22 lbs (10.00 kg)", 
   "Classification": "Drawing", 
   "Artist": "James Lee Byars", 
   "URL": "http://www.moma.org/collection/works/36598", 
   "CuratorApproved": "Y", 
-  "Title": "The Mile-Long Paper Walk", 
-  "DateAcquired": "1966-06-07", 
+  "CreditLine": "Gift of the artist", 
   "Date": "(1964-65)", 
   "ArtistID": 902, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "380.1966", 
-  "ArtistBio": "American, 1932\u20131997", 
-  "CreditLine": "Gift of the artist", 
+  "ArtistBio": "(American, 1932\u20131997)", 
+  "DateAcquired": "1966-06-07", 
+  "\ufeffTitle": "The Mile-Long Paper Walk", 
   "ObjectID": "36598"
 }

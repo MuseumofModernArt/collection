@@ -5,8 +5,7 @@
   "Artist": "Dorothea Lange", 
   "URL": "http://www.moma.org/collection/works/57163", 
   "CuratorApproved": "Y", 
-  "Title": "Richmond, California", 
-  "DateAcquired": "NULL", 
+  "CreditLine": "Purchase", 
   "Date": "1942", 
   "ArtistID": 3373, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "861.1968", 
-  "ArtistBio": "American, 1895\u20131965", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, 1895\u20131965)", 
+  "DateAcquired": "", 
+  "\ufeffTitle": "Richmond, California", 
   "ObjectID": "57163"
 }

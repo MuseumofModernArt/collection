@@ -1,12 +1,11 @@
 {
   "Medium": "Lithograph with collage additions", 
-  "Dimensions": "composition  23 1/8 x 17 7/8\" (58.8 x 45.4 cm)  sheet  23 1/8 x 17 7/8\" (58 x 45.4 cm)", 
+  "Dimensions": "composition  23 1/8 x 17 7/8\" (58.8 x 45.4 cm)\r\nsheet  23 1/8 x 17 7/8\" (58 x 45.4 cm)", 
   "Classification": "Print", 
   "Artist": "Vito Acconci", 
   "URL": "http://www.moma.org/collection/works/63344", 
   "CuratorApproved": "Y", 
-  "Title": "Thou Shalt Not Commit Adultery, plate VII from the portfolio The Ten Commandments", 
-  "DateAcquired": "1988-05-04", 
+  "CreditLine": "John B. Turner Fund", 
   "Date": "1987", 
   "ArtistID": 53, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "162.1988", 
-  "ArtistBio": "American, born 1940", 
-  "CreditLine": "John B. Turner Fund", 
+  "ArtistBio": "(American, born 1940)", 
+  "DateAcquired": "1988-05-04", 
+  "\ufeffTitle": "Thou Shalt Not Commit Adultery, plate VII from the portfolio The Ten Commandments", 
   "ObjectID": "63344"
 }

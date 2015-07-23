@@ -5,8 +5,7 @@
   "Artist": "Sony Corporation, company design", 
   "URL": "http://www.moma.org/collection/works/3941", 
   "CuratorApproved": "Y", 
-  "Title": "Television (TX8-301)", 
-  "DateAcquired": "1997-10-17", 
+  "CreditLine": "Gift of Jo Carole and Ronald S. Lauder", 
   "Date": "1959", 
   "ArtistID": 7983, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "469.1997", 
-  "ArtistBio": "Japanese, established 1946", 
-  "CreditLine": "Gift of Jo Carole and Ronald S. Lauder", 
+  "ArtistBio": "(Japanese, established 1946)", 
+  "DateAcquired": "1997-10-17", 
+  "\ufeffTitle": "Television (TX8-301)", 
   "ObjectID": "3941"
 }

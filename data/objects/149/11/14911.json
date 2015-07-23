@@ -1,12 +1,11 @@
 {
   "Medium": "Illustrated Book with 13 lithographs", 
-  "Dimensions": "page  16 5/8 x 12 11/16\" (42 x 32.3 cm)  Prints: various dimensions.", 
+  "Dimensions": "page  16 5/8 x 12 11/16\" (42 x 32.3 cm)\r\nPrints: various dimensions.", 
   "Classification": "Illustrated Book", 
   "Artist": "Joan Mir\u00f3", 
   "URL": "http://www.moma.org/collection/works/14911", 
   "CuratorApproved": "Y", 
-  "Title": "Ubu Roi", 
-  "DateAcquired": "1992-05-20", 
+  "CreditLine": "Abby Aldrich Rockefeller Fund (by exchange)", 
   "Date": "1966", 
   "ArtistID": 4016, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "298.1992.1-13", 
-  "ArtistBio": "Spanish, 1893\u20131983", 
-  "CreditLine": "Abby Aldrich Rockefeller Fund (by exchange)", 
+  "ArtistBio": "(Spanish, 1893\u20131983)", 
+  "DateAcquired": "1992-05-20", 
+  "\ufeffTitle": "Ubu Roi", 
   "ObjectID": "14911"
 }

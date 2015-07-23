@@ -5,8 +5,7 @@
   "Artist": "Pablo Picasso", 
   "URL": "http://www.moma.org/collection/works/29978", 
   "CuratorApproved": "Y", 
-  "Title": "Portrait of Balzac, plate I (folio 9) from Balzacs en bas de casse et Picassos sans majuscule", 
-  "DateAcquired": "1964-10-06", 
+  "CreditLine": "The Louis E. Stern Collection", 
   "Date": "1952, published 1957", 
   "ArtistID": 4609, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "1014.1964.1", 
-  "ArtistBio": "Spanish, 1881\u20131973", 
-  "CreditLine": "The Louis E. Stern Collection", 
+  "ArtistBio": "(Spanish, 1881\u20131973)", 
+  "DateAcquired": "1964-10-06", 
+  "\ufeffTitle": "Portrait of Balzac from the illustrated book Balzacs en bas de casse et Picassos sans majuscule", 
   "ObjectID": "29978"
 }

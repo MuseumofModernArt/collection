@@ -1,12 +1,11 @@
 {
   "Medium": "Illustrated book with ninty-six etchings", 
-  "Dimensions": "irreg. page: 14 7/8 x 11\" (37 x 28 cm)  Prints: various dimensions", 
+  "Dimensions": "irreg. page: 14 7/8 x 11\" (37 x 28 cm)\r\nPrints: various dimensions", 
   "Classification": "Illustrated Book", 
   "Artist": "Marc Chagall", 
   "URL": "http://www.moma.org/collection/works/22436", 
   "CuratorApproved": "Y", 
-  "Title": "Les \u00c2mes mortes (Dead Souls)", 
-  "DateAcquired": "1964-10-06", 
+  "CreditLine": "The Louis E. Stern Collection", 
   "Date": "1948", 
   "ArtistID": 1055, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "749.1964.A-C", 
-  "ArtistBio": "French, born Belarus. 1887\u20131985", 
-  "CreditLine": "The Louis E. Stern Collection", 
+  "ArtistBio": "(French, born Belarus. 1887\u20131985)", 
+  "DateAcquired": "1964-10-06", 
+  "\ufeffTitle": "Les \u00c2mes mortes (Dead Souls)", 
   "ObjectID": "22436"
 }

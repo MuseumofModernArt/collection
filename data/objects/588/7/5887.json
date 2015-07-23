@@ -5,8 +5,7 @@
   "Artist": "Jean-Michel Folon", 
   "URL": "http://www.moma.org/collection/works/5887", 
   "CuratorApproved": "Y", 
-  "Title": "Spoleto Festival 1977, XX Anniversario, 22 Giugno 10 Luglio", 
-  "DateAcquired": "1980-01-08", 
+  "CreditLine": "Gift of the designer", 
   "Date": "1977", 
   "ArtistID": 1927, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "257.1980", 
-  "ArtistBio": "Belgian, born 1934", 
-  "CreditLine": "Gift of the designer", 
+  "ArtistBio": "(Belgian, born 1934)", 
+  "DateAcquired": "1980-01-08", 
+  "\ufeffTitle": "Spoleto Festival 1977, XX Anniversario, 22 Giugno 10 Luglio", 
   "ObjectID": "5887"
 }

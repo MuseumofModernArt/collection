@@ -5,8 +5,7 @@
   "Artist": "Peter Teubner", 
   "URL": "http://www.moma.org/collection/works/7252", 
   "CuratorApproved": "Y", 
-  "Title": "Harlem, New York 125th Street", 
-  "DateAcquired": "1978-09-27", 
+  "CreditLine": "Gift of the designer", 
   "Date": "1968", 
   "ArtistID": 5837, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "494.1978", 
-  "ArtistBio": "American", 
-  "CreditLine": "Gift of the designer", 
+  "ArtistBio": "(American)", 
+  "DateAcquired": "1978-09-27", 
+  "\ufeffTitle": "Harlem, New York 125th Street", 
   "ObjectID": "7252"
 }

@@ -1,12 +1,11 @@
 {
   "Medium": "Book with one transfer lithograph (\"Figure: Bather at the Cabana\"; unbound plate) and reproductions", 
-  "Dimensions": "composition (irreg.): 9 5/16 x 5 1/2\" (23.7 x 14 cm); page (irreg.): 11 x 9\" (28 x 22.8 cm)  ", 
+  "Dimensions": "composition (irreg.): 9 5/16 x 5 1/2\" (23.7 x 14 cm); page (irreg.): 11 x 9\" (28 x 22.8 cm)\r\n", 
   "Classification": "Illustrated Book", 
   "Artist": "Pablo Picasso", 
   "URL": "http://www.moma.org/collection/works/29298", 
   "CuratorApproved": "Y", 
-  "Title": "Le Manuscrit Autographe: Quatri\u00e8me Ann\u00e9e, No. 21 (Mai-Juin) 1929.", 
-  "DateAcquired": "1964-10-06", 
+  "CreditLine": "The Louis E. Stern Collection", 
   "Date": "1929", 
   "ArtistID": 4609, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "966.1964", 
-  "ArtistBio": "Spanish, 1881\u20131973", 
-  "CreditLine": "The Louis E. Stern Collection", 
+  "ArtistBio": "(Spanish, 1881\u20131973)", 
+  "DateAcquired": "1964-10-06", 
+  "\ufeffTitle": "Le Manuscrit Autographe: Quatri\u00e8me Ann\u00e9e, No. 21 (Mai-Juin) 1929.", 
   "ObjectID": "29298"
 }

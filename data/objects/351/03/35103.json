@@ -5,8 +5,7 @@
   "Artist": "Alberto Giacometti", 
   "URL": "http://www.moma.org/collection/works/35103", 
   "CuratorApproved": "Y", 
-  "Title": "Study for The Palace at 4 a.m.", 
-  "DateAcquired": "1982-06-01", 
+  "CreditLine": "Gift of Pierre Matisse in honor of Patricia Kane Matisse", 
   "Date": "1932", 
   "ArtistID": 2141, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "181.1982", 
-  "ArtistBio": "Swiss, 1901\u20131966", 
-  "CreditLine": "Gift of Pierre Matisse in honor of Patricia Kane Matisse", 
+  "ArtistBio": "(Swiss, 1901\u20131966)", 
+  "DateAcquired": "1982-06-01", 
+  "\ufeffTitle": "Study for The Palace at 4 a.m.", 
   "ObjectID": "35103"
 }

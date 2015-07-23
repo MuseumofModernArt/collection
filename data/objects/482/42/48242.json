@@ -5,8 +5,7 @@
   "Artist": "Hakuyo Fuchigami", 
   "URL": "http://www.moma.org/collection/works/48242", 
   "CuratorApproved": "Y", 
-  "Title": "Rushing Train", 
-  "DateAcquired": "1959-04-22", 
+  "CreditLine": "Gift of Nihon Keizai Shimbun", 
   "Date": "1930", 
   "ArtistID": 2020, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "196.1959", 
-  "ArtistBio": "Japanese, 1889\u20131960", 
-  "CreditLine": "Gift of Nihon Keizai Shimbun", 
+  "ArtistBio": "(Japanese, 1889\u20131960)", 
+  "DateAcquired": "1959-04-22", 
+  "\ufeffTitle": "Rushing Train", 
   "ObjectID": "48242"
 }

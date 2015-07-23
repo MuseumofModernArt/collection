@@ -5,8 +5,7 @@
   "Artist": "Thomas Struth", 
   "URL": "http://www.moma.org/collection/works/49314", 
   "CuratorApproved": "Y", 
-  "Title": "Berhardstrasse, Leipzig", 
-  "DateAcquired": "1999-06-10", 
+  "CreditLine": "Lois and Bruce Zenkel Fund", 
   "Date": "1991", 
   "ArtistID": 7825, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "235.1999", 
-  "ArtistBio": "German, born 1954", 
-  "CreditLine": "Lois and Bruce Zenkel Fund", 
+  "ArtistBio": "(German, born 1954)", 
+  "DateAcquired": "1999-06-10", 
+  "\ufeffTitle": "Berhardstrasse, Leipzig", 
   "ObjectID": "49314"
 }

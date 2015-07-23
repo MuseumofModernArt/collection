@@ -5,8 +5,7 @@
   "Artist": "Red Grooms", 
   "URL": "http://www.moma.org/collection/works/64868", 
   "CuratorApproved": "Y", 
-  "Title": "No Gas", 
-  "DateAcquired": "1972-05-08", 
+  "CreditLine": "John B. Turner Fund", 
   "Date": "1971", 
   "ArtistID": 2357, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "232.1972.1-7", 
-  "ArtistBio": "American, born 1937", 
-  "CreditLine": "John B. Turner Fund", 
+  "ArtistBio": "(American, born 1937)", 
+  "DateAcquired": "1972-05-08", 
+  "\ufeffTitle": "No Gas", 
   "ObjectID": "64868"
 }

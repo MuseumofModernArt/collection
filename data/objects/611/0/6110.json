@@ -5,8 +5,7 @@
   "Artist": "Jan Tschichold", 
   "URL": "http://www.moma.org/collection/works/6110", 
   "CuratorApproved": "Y", 
-  "Title": "Buster Keaton in: \"Der General\"", 
-  "DateAcquired": "1938-01-01", 
+  "CreditLine": "Gift of the designer", 
   "Date": "1927", 
   "ArtistID": 5951, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "291.1938", 
-  "ArtistBio": "Swiss, born Germany. 1902\u20131974", 
-  "CreditLine": "Gift of the designer", 
+  "ArtistBio": "(Swiss, born Germany. 1902\u20131974)", 
+  "DateAcquired": "1938-01-01", 
+  "\ufeffTitle": "Buster Keaton in: \"Der General\"", 
   "ObjectID": "6110"
 }

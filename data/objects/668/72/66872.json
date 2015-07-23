@@ -5,8 +5,7 @@
   "Artist": "Pierre Bonnard", 
   "URL": "http://www.moma.org/collection/works/66872", 
   "CuratorApproved": "Y", 
-  "Title": "Nib Carnavalesque, supplement to The White Review (La Revue Blanche)", 
-  "DateAcquired": "1951-05-24", 
+  "CreditLine": "Purchase", 
   "Date": "1895", 
   "ArtistID": 665, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "320.1951", 
-  "ArtistBio": "French, 1867\u20131947", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(French, 1867\u20131947)", 
+  "DateAcquired": "1951-05-24", 
+  "\ufeffTitle": "Nib Carnavalesque, supplement to The White Review (La Revue Blanche)", 
   "ObjectID": "66872"
 }

@@ -5,8 +5,7 @@
   "Artist": "Unknown Designer", 
   "URL": "http://www.moma.org/collection/works/2902", 
   "CuratorApproved": "Y", 
-  "Title": "Caliper", 
-  "DateAcquired": "1950-06-08", 
+  "CreditLine": "Gift of Sculpture House", 
   "Date": "Before 1948", 
   "ArtistID": 6011, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "234.1950", 
-  "ArtistBio": "Nationality unknown", 
-  "CreditLine": "Gift of Sculpture House", 
+  "ArtistBio": "(Nationality unknown)", 
+  "DateAcquired": "1950-06-08", 
+  "\ufeffTitle": "Caliper", 
   "ObjectID": "2902"
 }

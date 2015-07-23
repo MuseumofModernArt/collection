@@ -5,8 +5,7 @@
   "Artist": "Manuel \u00c1lvarez Bravo", 
   "URL": "http://www.moma.org/collection/works/52426", 
   "CuratorApproved": "Y", 
-  "Title": "Venus", 
-  "DateAcquired": "1992-10-15", 
+  "CreditLine": "The Family of Man Fund", 
   "Date": "1977", 
   "ArtistID": 135, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "392.1992", 
-  "ArtistBio": "Mexican, 1902\u20132002", 
-  "CreditLine": "The Family of Man Fund", 
+  "ArtistBio": "(Mexican, 1902\u20132002)", 
+  "DateAcquired": "1992-10-15", 
+  "\ufeffTitle": "Venus", 
   "ObjectID": "52426"
 }

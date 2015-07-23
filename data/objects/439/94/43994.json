@@ -5,8 +5,7 @@
   "Artist": "Berenice Abbott", 
   "URL": "http://www.moma.org/collection/works/43994", 
   "CuratorApproved": "Y", 
-  "Title": "Financial District Rooftops I, Manhattan", 
-  "DateAcquired": "1971-01-05", 
+  "CreditLine": "Purchase", 
   "Date": "May 4, 1938", 
   "ArtistID": 41, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "15.1971", 
-  "ArtistBio": "American, 1898\u20131991", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, 1898\u20131991)", 
+  "DateAcquired": "1971-01-05", 
+  "\ufeffTitle": "Financial District Rooftops I, Manhattan", 
   "ObjectID": "43994"
 }

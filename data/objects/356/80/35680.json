@@ -5,8 +5,7 @@
   "Artist": "Lyonel Feininger", 
   "URL": "http://www.moma.org/collection/works/35680", 
   "CuratorApproved": "Y", 
-  "Title": "Glassy Sea", 
-  "DateAcquired": "1944-11-08", 
+  "CreditLine": "Given anonymously (by exchange)", 
   "Date": "1934", 
   "ArtistID": 1832, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "258.1944", 
-  "ArtistBio": "American, 1871\u20131956", 
-  "CreditLine": "Given anonymously (by exchange)", 
+  "ArtistBio": "(American, 1871\u20131956)", 
+  "DateAcquired": "1944-11-08", 
+  "\ufeffTitle": "Glassy Sea", 
   "ObjectID": "35680"
 }

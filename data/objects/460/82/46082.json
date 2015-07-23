@@ -5,8 +5,7 @@
   "Artist": "Helen Levitt", 
   "URL": "http://www.moma.org/collection/works/46082", 
   "CuratorApproved": "Y", 
-  "Title": "New Jersey", 
-  "DateAcquired": "1984-03-15", 
+  "CreditLine": "Gift of William H. Levitt", 
   "Date": "1982", 
   "ArtistID": 3520, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "91.1984", 
-  "ArtistBio": "American, 1913\u20132009", 
-  "CreditLine": "Gift of William H. Levitt", 
+  "ArtistBio": "(American, 1913\u20132009)", 
+  "DateAcquired": "1984-03-15", 
+  "\ufeffTitle": "New Jersey", 
   "ObjectID": "46082"
 }

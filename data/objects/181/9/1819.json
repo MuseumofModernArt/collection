@@ -5,8 +5,7 @@
   "Artist": "Jacob Jensen", 
   "URL": "http://www.moma.org/collection/works/1819", 
   "CuratorApproved": "Y", 
-  "Title": "Beogram 1200 Record Player", 
-  "DateAcquired": "1972-04-11", 
+  "CreditLine": "Gift of the manufacturer", 
   "Date": "1969", 
   "ArtistID": 2909, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "47.1972", 
-  "ArtistBio": "Danish, 1926\u20132015", 
-  "CreditLine": "Gift of the manufacturer", 
+  "ArtistBio": "(Danish, 1926\u20132015)", 
+  "DateAcquired": "1972-04-11", 
+  "\ufeffTitle": "Beogram 1200 Record Player", 
   "ObjectID": "1819"
 }

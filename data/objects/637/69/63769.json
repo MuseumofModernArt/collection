@@ -5,8 +5,7 @@
   "Artist": "Jacques Villon", 
   "URL": "http://www.moma.org/collection/works/63769", 
   "CuratorApproved": "Y", 
-  "Title": "For a Sensational Project (Pour un projet sensationnel)", 
-  "DateAcquired": "1981-05-06", 
+  "CreditLine": "Gift of Blue Moon Press", 
   "Date": "1904", 
   "ArtistID": 6165, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "178.1981", 
-  "ArtistBio": "French, 1875\u20131963", 
-  "CreditLine": "Gift of Blue Moon Press", 
+  "ArtistBio": "(French, 1875\u20131963)", 
+  "DateAcquired": "1981-05-06", 
+  "\ufeffTitle": "For a Sensational Project (Pour un projet sensationnel)", 
   "ObjectID": "63769"
 }

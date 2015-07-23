@@ -5,8 +5,7 @@
   "Artist": "Lyonel Feininger", 
   "URL": "http://www.moma.org/collection/works/34815", 
   "CuratorApproved": "Y", 
-  "Title": "Walking Figures", 
-  "DateAcquired": "1966-02-08", 
+  "CreditLine": "Gift of Julia Feininger", 
   "Date": "1952", 
   "ArtistID": 1832, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "151.1966.b", 
-  "ArtistBio": "American, 1871\u20131956", 
-  "CreditLine": "Gift of Julia Feininger", 
+  "ArtistBio": "(American, 1871\u20131956)", 
+  "DateAcquired": "1966-02-08", 
+  "\ufeffTitle": "Walking Figures", 
   "ObjectID": "34815"
 }

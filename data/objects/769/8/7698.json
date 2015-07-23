@@ -5,8 +5,7 @@
   "Artist": "Grapus", 
   "URL": "http://www.moma.org/collection/works/7698", 
   "CuratorApproved": "Y", 
-  "Title": "Allez-Y De Ma Part", 
-  "DateAcquired": "1981-12-10", 
+  "CreditLine": "Gift of Grapus", 
   "Date": "1978", 
   "ArtistID": 2297, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "601.1981", 
-  "ArtistBio": "French, 1970\u20131991", 
-  "CreditLine": "Gift of Grapus", 
+  "ArtistBio": "(French, 1970\u20131991)", 
+  "DateAcquired": "1981-12-10", 
+  "\ufeffTitle": "Allez-Y De Ma Part", 
   "ObjectID": "7698"
 }

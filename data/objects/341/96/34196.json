@@ -5,8 +5,7 @@
   "Artist": "Joan Mir\u00f3", 
   "URL": "http://www.moma.org/collection/works/34196", 
   "CuratorApproved": "Y", 
-  "Title": "Study for Dutch Interior, I", 
-  "DateAcquired": "1973-03-06", 
+  "CreditLine": "Gift of the artist", 
   "Date": "(Summer 1928)", 
   "ArtistID": 4016, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "121.1973", 
-  "ArtistBio": "Spanish, 1893\u20131983", 
-  "CreditLine": "Gift of the artist", 
+  "ArtistBio": "(Spanish, 1893\u20131983)", 
+  "DateAcquired": "1973-03-06", 
+  "\ufeffTitle": "Study for Dutch Interior, I", 
   "ObjectID": "34196"
 }

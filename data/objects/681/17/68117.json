@@ -1,12 +1,11 @@
 {
   "Medium": "Woodcut", 
-  "Dimensions": "irreg composition  30 1/16 x 39 9/16\" (76.3 x 100.5 cm)  sheet  37 5/8 x 45 15/16\" (95.6 x 116.7 cm)", 
+  "Dimensions": "irreg composition  30 1/16 x 39 9/16\" (76.3 x 100.5 cm)\r\nsheet  37 5/8 x 45 15/16\" (95.6 x 116.7 cm)", 
   "Classification": "Print", 
   "Artist": "Louisa Chase", 
   "URL": "http://www.moma.org/collection/works/68117", 
   "CuratorApproved": "Y", 
-  "Title": "Squall", 
-  "DateAcquired": "1981-10-22", 
+  "CreditLine": "Purchase", 
   "Date": "1981", 
   "ArtistID": 1078, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "380.1981", 
-  "ArtistBio": "American, born 1951", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, born 1951)", 
+  "DateAcquired": "1981-10-22", 
+  "\ufeffTitle": "Squall", 
   "ObjectID": "68117"
 }

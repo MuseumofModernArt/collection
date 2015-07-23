@@ -5,8 +5,7 @@
   "Artist": "Saara Hopea", 
   "URL": "http://www.moma.org/collection/works/4414", 
   "CuratorApproved": "Y", 
-  "Title": "Bowl (model 5577)", 
-  "DateAcquired": "1983-11-30", 
+  "CreditLine": "Purchase", 
   "Date": "1960", 
   "ArtistID": 2724, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "729.1983", 
-  "ArtistBio": "Finnish, 1925\u20131984", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(Finnish, 1925\u20131984)", 
+  "DateAcquired": "1983-11-30", 
+  "\ufeffTitle": "Bowl (model 5577)", 
   "ObjectID": "4414"
 }

@@ -5,8 +5,7 @@
   "Artist": "Mel Bochner", 
   "URL": "http://www.moma.org/collection/works/38182", 
   "CuratorApproved": "Y", 
-  "Title": "Triangle and Square: Points", 
-  "DateAcquired": "1985-09-10", 
+  "CreditLine": "The Riklis Collection of McCrory Corporation", 
   "Date": "1974", 
   "ArtistID": 625, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "856.1983", 
-  "ArtistBio": "American, born 1940", 
-  "CreditLine": "The Riklis Collection of McCrory Corporation", 
+  "ArtistBio": "(American, born 1940)", 
+  "DateAcquired": "1985-09-10", 
+  "\ufeffTitle": "Triangle and Square: Points", 
   "ObjectID": "38182"
 }

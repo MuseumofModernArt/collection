@@ -5,8 +5,7 @@
   "Artist": "Frederick Sommer", 
   "URL": "http://www.moma.org/collection/works/54381", 
   "CuratorApproved": "Y", 
-  "Title": "The Thief Greater Than His Loot", 
-  "DateAcquired": "1960-11-30", 
+  "CreditLine": "Purchase", 
   "Date": "1955", 
   "ArtistID": 5520, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "496.1960", 
-  "ArtistBio": "American, born Italy. 1905\u20131999", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, born Italy. 1905\u20131999)", 
+  "DateAcquired": "1960-11-30", 
+  "\ufeffTitle": "The Thief Greater Than His Loot", 
   "ObjectID": "54381"
 }

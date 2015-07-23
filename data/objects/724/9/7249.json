@@ -5,8 +5,7 @@
   "Artist": "Sigmar Polke", 
   "URL": "http://www.moma.org/collection/works/7249", 
   "CuratorApproved": "Y", 
-  "Title": "Polke Neue Bilder", 
-  "DateAcquired": "1987-11-18", 
+  "CreditLine": "Given anonymously", 
   "Date": "1967", 
   "ArtistID": 4671, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "493.1987", 
-  "ArtistBio": "German, 1941\u20132010", 
-  "CreditLine": "Given anonymously", 
+  "ArtistBio": "(German, 1941\u20132010)", 
+  "DateAcquired": "1987-11-18", 
+  "\ufeffTitle": "Polke Neue Bilder", 
   "ObjectID": "7249"
 }

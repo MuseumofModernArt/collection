@@ -5,8 +5,7 @@
   "Artist": "Peter Birkhauser", 
   "URL": "http://www.moma.org/collection/works/6607", 
   "CuratorApproved": "Y", 
-  "Title": "Wer rechnet, Kauft im Globus", 
-  "DateAcquired": "1994-09-21", 
+  "CreditLine": "Gift of Leonard A. Lauder", 
   "Date": "1942", 
   "ArtistID": 564, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "408.1994", 
-  "ArtistBio": "Swiss, 1911\u20131976", 
-  "CreditLine": "Gift of Leonard A. Lauder", 
+  "ArtistBio": "(Swiss, 1911\u20131976)", 
+  "DateAcquired": "1994-09-21", 
+  "\ufeffTitle": "Wer rechnet, Kauft im Globus", 
   "ObjectID": "6607"
 }

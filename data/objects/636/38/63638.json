@@ -5,8 +5,7 @@
   "Artist": "Do Ho Suh", 
   "URL": "http://www.moma.org/collection/works/63638", 
   "CuratorApproved": "Y", 
-  "Title": "Doormat: Welcome", 
-  "DateAcquired": "2000-03-02", 
+  "CreditLine": "Robert and Anna Marie Shapiro Fund", 
   "Date": "1998", 
   "ArtistID": 8198, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "175.2000", 
-  "ArtistBio": "Korean, born 1962", 
-  "CreditLine": "Robert and Anna Marie Shapiro Fund", 
+  "ArtistBio": "(Korean, born 1962)", 
+  "DateAcquired": "2000-03-02", 
+  "\ufeffTitle": "Doormat: Welcome", 
   "ObjectID": "63638"
 }

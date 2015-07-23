@@ -5,8 +5,7 @@
   "Artist": "John Cage", 
   "URL": "http://www.moma.org/collection/works/59703", 
   "CuratorApproved": "Y", 
-  "Title": "Dramatic Fire", 
-  "DateAcquired": "1990-01-16", 
+  "CreditLine": "Gift of Gifford Phillips", 
   "Date": "1989", 
   "ArtistID": 912, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "6.1990", 
-  "ArtistBio": "American, 1912\u20131992", 
-  "CreditLine": "Gift of Gifford Phillips", 
+  "ArtistBio": "(American, 1912\u20131992)", 
+  "DateAcquired": "1990-01-16", 
+  "\ufeffTitle": "Dramatic Fire", 
   "ObjectID": "59703"
 }

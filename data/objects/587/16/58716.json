@@ -5,8 +5,7 @@
   "Artist": "Times Photo Service", 
   "URL": "http://www.moma.org/collection/works/58716", 
   "CuratorApproved": "Y", 
-  "Title": "Ralph De Palma Crossing the Finish Line", 
-  "DateAcquired": "2001-06-14", 
+  "CreditLine": "The New York Times Collection", 
   "Date": "August 18, 1918", 
   "ArtistID": 8631, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "2123.2001", 
-  "ArtistBio": "NULL", 
-  "CreditLine": "The New York Times Collection", 
+  "ArtistBio": "", 
+  "DateAcquired": "2001-06-14", 
+  "\ufeffTitle": "Ralph De Palma Crossing the Finish Line", 
   "ObjectID": "58716"
 }

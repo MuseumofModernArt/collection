@@ -5,8 +5,7 @@
   "Artist": "Henri Cartier-Bresson", 
   "URL": "http://www.moma.org/collection/works/54943", 
   "CuratorApproved": "Y", 
-  "Title": "L\u00e9onor Fini", 
-  "DateAcquired": "1987-12-10", 
+  "CreditLine": "Gift of the photographer", 
   "Date": "1932-33", 
   "ArtistID": 1000, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "544.1987", 
-  "ArtistBio": "French, 1908\u20132004", 
-  "CreditLine": "Gift of the photographer", 
+  "ArtistBio": "(French, 1908\u20132004)", 
+  "DateAcquired": "1987-12-10", 
+  "\ufeffTitle": "L\u00e9onor Fini", 
   "ObjectID": "54943"
 }

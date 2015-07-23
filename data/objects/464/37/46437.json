@@ -5,8 +5,7 @@
   "Artist": "Martus Granirer", 
   "URL": "http://www.moma.org/collection/works/46437", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1967-03-07", 
+  "CreditLine": "Purchase", 
   "Date": "1964", 
   "ArtistID": 2292, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "112.1967", 
-  "ArtistBio": "American, born 1933", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, born 1933)", 
+  "DateAcquired": "1967-03-07", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "46437"
 }

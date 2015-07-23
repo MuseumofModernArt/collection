@@ -5,8 +5,7 @@
   "Artist": "Pierre Alechinsky", 
   "URL": "http://www.moma.org/collection/works/63338", 
   "CuratorApproved": "Y", 
-  "Title": "Wheel of Writing", 
-  "DateAcquired": "1986-05-20", 
+  "CreditLine": "Gift of the artist", 
   "Date": "(1985)", 
   "ArtistID": 107, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "162.1986", 
-  "ArtistBio": "Belgian, born 1927", 
-  "CreditLine": "Gift of the artist", 
+  "ArtistBio": "(Belgian, born 1927)", 
+  "DateAcquired": "1986-05-20", 
+  "\ufeffTitle": "Wheel of Writing", 
   "ObjectID": "63338"
 }

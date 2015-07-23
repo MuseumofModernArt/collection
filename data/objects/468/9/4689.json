@@ -1,12 +1,11 @@
 {
   "Medium": "Glass and cork", 
-  "Dimensions": ".a (flask): 10 1/8 x 4\" (25.7 x 10.2 cm)  .b (stopper): 1 1/2 x 2 1/2\" (3.8 x 6.4 cm)", 
+  "Dimensions": ".a (flask): 10 1/8 x 4\" (25.7 x 10.2 cm)\r\n.b (stopper): 1 1/2 x 2 1/2\" (3.8 x 6.4 cm)", 
   "Classification": "A&D Design", 
   "Artist": "Peter Schlumbohm", 
   "URL": "http://www.moma.org/collection/works/4689", 
   "CuratorApproved": "Y", 
-  "Title": "Flask", 
-  "DateAcquired": "2001-04-30", 
+  "CreditLine": "Gift of the manufacturer", 
   "Date": "1956", 
   "ArtistID": 5225, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "1326.2001.a-b", 
-  "ArtistBio": "American, born Germany. 1896\u20131962", 
-  "CreditLine": "Gift of the manufacturer", 
+  "ArtistBio": "(American, born Germany. 1896\u20131962)", 
+  "DateAcquired": "2001-04-30", 
+  "\ufeffTitle": "Flask", 
   "ObjectID": "4689"
 }

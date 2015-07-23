@@ -5,8 +5,7 @@
   "Artist": "Cindy Sherman", 
   "URL": "http://www.moma.org/collection/works/56586", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled Film Still #15", 
-  "DateAcquired": "1995-12-14", 
+  "CreditLine": "Acquired through the generosity of Barbara and Eugene Schwartz in honor of Jo Carole and Ronald S. Lauder", 
   "Date": "1978", 
   "ArtistID": 5392, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "824.1995", 
-  "ArtistBio": "American, born 1954", 
-  "CreditLine": "Acquired through the generosity of Barbara and Eugene Schwartz in honor of Jo Carole and Ronald S. Lauder", 
+  "ArtistBio": "(American, born 1954)", 
+  "DateAcquired": "1995-12-14", 
+  "\ufeffTitle": "Untitled Film Still #15", 
   "ObjectID": "56586"
 }

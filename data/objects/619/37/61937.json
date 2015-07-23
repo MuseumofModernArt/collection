@@ -5,8 +5,7 @@
   "Artist": "Umberto Giangrandi", 
   "URL": "http://www.moma.org/collection/works/61937", 
   "CuratorApproved": "Y", 
-  "Title": "Nearby Spaces", 
-  "DateAcquired": "1970-03-05", 
+  "CreditLine": "Inter-American Fund", 
   "Date": "1969", 
   "ArtistID": 2144, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "110.1970", 
-  "ArtistBio": "Colombian", 
-  "CreditLine": "Inter-American Fund", 
+  "ArtistBio": "(Colombian)", 
+  "DateAcquired": "1970-03-05", 
+  "\ufeffTitle": "Nearby Spaces", 
   "ObjectID": "61937"
 }

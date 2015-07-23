@@ -5,8 +5,7 @@
   "Artist": "Leo Lionni", 
   "URL": "http://www.moma.org/collection/works/7390", 
   "CuratorApproved": "Y", 
-  "Title": "Cancer is Curable If Treated Early", 
-  "DateAcquired": "1954-09-30", 
+  "CreditLine": "Gift of the American Cancer Society", 
   "Date": "1950", 
   "ArtistID": 3562, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "523.1954.5", 
-  "ArtistBio": "American, born Amsterdam. 1910\u20131999", 
-  "CreditLine": "Gift of the American Cancer Society", 
+  "ArtistBio": "(American, born Amsterdam. 1910\u20131999)", 
+  "DateAcquired": "1954-09-30", 
+  "\ufeffTitle": "Cancer is Curable If Treated Early", 
   "ObjectID": "7390"
 }

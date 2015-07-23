@@ -5,8 +5,7 @@
   "Artist": "Mario Bellini", 
   "URL": "http://www.moma.org/collection/works/3636", 
   "CuratorApproved": "Y", 
-  "Title": "Class Water Faucet", 
-  "DateAcquired": "1987-11-18", 
+  "CreditLine": "Gift of the manufacturer", 
   "Date": "1978", 
   "ArtistID": 451, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "446.1987", 
-  "ArtistBio": "Italian, born 1935", 
-  "CreditLine": "Gift of the manufacturer", 
+  "ArtistBio": "(Italian, born 1935)", 
+  "DateAcquired": "1987-11-18", 
+  "\ufeffTitle": "Class Water Faucet", 
   "ObjectID": "3636"
 }

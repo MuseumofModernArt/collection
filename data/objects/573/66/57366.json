@@ -5,8 +5,7 @@
   "Artist": "Bruce Davidson", 
   "URL": "http://www.moma.org/collection/works/57366", 
   "CuratorApproved": "Y", 
-  "Title": "Muskrat Trapper, New Jersey", 
-  "DateAcquired": "1969-11-05", 
+  "CreditLine": "Anonymous gift in memory of Flobelle Fairbanks Burden", 
   "Date": "1966", 
   "ArtistID": 1398, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "955.1969", 
-  "ArtistBio": "American, born 1933", 
-  "CreditLine": "Anonymous gift in memory of Flobelle Fairbanks Burden", 
+  "ArtistBio": "(American, born 1933)", 
+  "DateAcquired": "1969-11-05", 
+  "\ufeffTitle": "Muskrat Trapper, New Jersey", 
   "ObjectID": "57366"
 }

@@ -5,8 +5,7 @@
   "Artist": "Lucas Samaras", 
   "URL": "http://www.moma.org/collection/works/46062", 
   "CuratorApproved": "Y", 
-  "Title": "Ultra-Large Lucas", 
-  "DateAcquired": "1992-01-09", 
+  "CreditLine": "Gift of Robert and Gayle Greenhill", 
   "Date": "1983", 
   "ArtistID": 5134, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "90.1992", 
-  "ArtistBio": "American, born Greece 1936", 
-  "CreditLine": "Gift of Robert and Gayle Greenhill", 
+  "ArtistBio": "(American, born Greece 1936)", 
+  "DateAcquired": "1992-01-09", 
+  "\ufeffTitle": "Ultra-Large Lucas", 
   "ObjectID": "46062"
 }

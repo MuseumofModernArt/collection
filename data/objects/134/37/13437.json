@@ -1,12 +1,11 @@
 {
   "Medium": "Illustrated book with seven wood engravings, and two wood engraved publisher's devices", 
-  "Dimensions": "Page (irreg.): 7 5/8 x 7 11/16\" (19 x 19.5 cm)  Prints:  various dimensions.", 
+  "Dimensions": "Page (irreg.): 7 5/8 x 7 11/16\" (19 x 19.5 cm)\r\nPrints:  various dimensions.", 
   "Classification": "Illustrated Book", 
   "Artist": "Leonard Baskin", 
   "URL": "http://www.moma.org/collection/works/13437", 
   "CuratorApproved": "Y", 
-  "Title": "The Seven Deadly Sins", 
-  "DateAcquired": "1977-05-03", 
+  "CreditLine": "Gift of Carol O. Selle", 
   "Date": "1958", 
   "ArtistID": 369, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "203.1977.1-7", 
-  "ArtistBio": "American, 1922\u20132000", 
-  "CreditLine": "Gift of Carol O. Selle", 
+  "ArtistBio": "(American, 1922\u20132000)", 
+  "DateAcquired": "1977-05-03", 
+  "\ufeffTitle": "The Seven Deadly Sins", 
   "ObjectID": "13437"
 }

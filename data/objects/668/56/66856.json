@@ -5,8 +5,7 @@
   "Artist": "Rudolf Grossmann", 
   "URL": "http://www.moma.org/collection/works/66856", 
   "CuratorApproved": "Y", 
-  "Title": "Portrait of Max Schmeling", 
-  "DateAcquired": "1940-04-05", 
+  "CreditLine": "Gift of Abby Aldrich Rockefeller", 
   "Date": "(c. 1927-1932)", 
   "ArtistID": 2372, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "319.1940", 
-  "ArtistBio": "German, 1882\u20131941", 
-  "CreditLine": "Gift of Abby Aldrich Rockefeller", 
+  "ArtistBio": "(German, 1882\u20131941)", 
+  "DateAcquired": "1940-04-05", 
+  "\ufeffTitle": "Portrait of Max Schmeling", 
   "ObjectID": "66856"
 }

@@ -5,8 +5,7 @@
   "Artist": "Pierre-Auguste Renoir", 
   "URL": "http://www.moma.org/collection/works/62091", 
   "CuratorApproved": "Y", 
-  "Title": "Children Playing Ball (Enfants jouant \u00e0 la balle)", 
-  "DateAcquired": "1934-09-23", 
+  "CreditLine": "Lillie P. Bliss Collection", 
   "Date": "1900", 
   "ArtistID": 4869, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "116.1934", 
-  "ArtistBio": "French, 1841\u20131919", 
-  "CreditLine": "Lillie P. Bliss Collection", 
+  "ArtistBio": "(French, 1841\u20131919)", 
+  "DateAcquired": "1934-09-23", 
+  "\ufeffTitle": "Children Playing Ball (Enfants jouant \u00e0 la balle)", 
   "ObjectID": "62091"
 }

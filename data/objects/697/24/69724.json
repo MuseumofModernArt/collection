@@ -5,8 +5,7 @@
   "Artist": "Pablo Picasso", 
   "URL": "http://www.moma.org/collection/works/69724", 
   "CuratorApproved": "Y", 
-  "Title": "No. 211 from Suite 347", 
-  "DateAcquired": "1986-01-09", 
+  "CreditLine": "Gift of Mr. Isidore M. Cohen", 
   "Date": "July 20, 1968", 
   "ArtistID": 4609, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "473.1985", 
-  "ArtistBio": "Spanish, 1881\u20131973", 
-  "CreditLine": "Gift of Mr. Isidore M. Cohen", 
+  "ArtistBio": "(Spanish, 1881\u20131973)", 
+  "DateAcquired": "1986-01-09", 
+  "\ufeffTitle": "No. 211 from Suite 347", 
   "ObjectID": "69724"
 }

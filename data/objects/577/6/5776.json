@@ -5,8 +5,7 @@
   "Artist": "Melendreras", 
   "URL": "http://www.moma.org/collection/works/5776", 
   "CuratorApproved": "Y", 
-  "Title": "Todas las Milicias Fundidas en el Ejercito Popular", 
-  "DateAcquired": "1937-12-03", 
+  "CreditLine": "Purchase", 
   "Date": "1937", 
   "ArtistID": 3916, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "233.1937", 
-  "ArtistBio": "Spanish", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(Spanish)", 
+  "DateAcquired": "1937-12-03", 
+  "\ufeffTitle": "Todas las Milicias Fundidas en el Ejercito Popular", 
   "ObjectID": "5776"
 }

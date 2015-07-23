@@ -5,8 +5,7 @@
   "Artist": "James Prestini", 
   "URL": "http://www.moma.org/collection/works/2222", 
   "CuratorApproved": "Y", 
-  "Title": "Bowl", 
-  "DateAcquired": "1957-05-15", 
+  "CreditLine": "Gift of Dorothy Liebes", 
   "Date": "c. 1945", 
   "ArtistID": 4729, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "124.1957", 
-  "ArtistBio": "American, born Italy. 1908\u20131993", 
-  "CreditLine": "Gift of Dorothy Liebes", 
+  "ArtistBio": "(American, born Italy. 1908\u20131993)", 
+  "DateAcquired": "1957-05-15", 
+  "\ufeffTitle": "Bowl", 
   "ObjectID": "2222"
 }

@@ -5,8 +5,7 @@
   "Artist": "Jakob Steinhardt", 
   "URL": "http://www.moma.org/collection/works/61015", 
   "CuratorApproved": "Y", 
-  "Title": "The Evil", 
-  "DateAcquired": "1953-01-30", 
+  "CreditLine": "Gift of Mrs. L. H. Grunebaum", 
   "Date": "1950", 
   "ArtistID": 5633, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "55.1953", 
-  "ArtistBio": "Israeli, 1887\u20131968", 
-  "CreditLine": "Gift of Mrs. L. H. Grunebaum", 
+  "ArtistBio": "(Israeli, 1887\u20131968)", 
+  "DateAcquired": "1953-01-30", 
+  "\ufeffTitle": "The Evil (Das \u00dcbel)", 
   "ObjectID": "61015"
 }

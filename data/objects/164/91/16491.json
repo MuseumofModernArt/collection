@@ -5,8 +5,7 @@
   "Artist": "Liliana Porter", 
   "URL": "http://www.moma.org/collection/works/16491", 
   "CuratorApproved": "Y", 
-  "Title": "Wrinkle", 
-  "DateAcquired": "1973-10-24", 
+  "CreditLine": "Latin American Fund", 
   "Date": "1968", 
   "ArtistID": 4703, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "383.1973.1-10", 
-  "ArtistBio": "Argentine, born 1941", 
-  "CreditLine": "Latin American Fund", 
+  "ArtistBio": "(Argentine, born 1941)", 
+  "DateAcquired": "1973-10-24", 
+  "\ufeffTitle": "Wrinkle", 
   "ObjectID": "16491"
 }

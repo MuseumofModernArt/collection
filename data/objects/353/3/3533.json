@@ -5,8 +5,7 @@
   "Artist": "William Lansing Plumb and Associates", 
   "URL": "http://www.moma.org/collection/works/3533", 
   "CuratorApproved": "Y", 
-  "Title": "Dictaphone (model 10)", 
-  "DateAcquired": "1976-10-22", 
+  "CreditLine": "Gift of the manufacturer", 
   "Date": "1970", 
   "ArtistID": 4656, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "420.1976", 
-  "ArtistBio": "American, founded 1963", 
-  "CreditLine": "Gift of the manufacturer", 
+  "ArtistBio": "(American, founded 1963)", 
+  "DateAcquired": "1976-10-22", 
+  "\ufeffTitle": "Dictaphone (model 10)", 
   "ObjectID": "3533"
 }

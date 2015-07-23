@@ -5,8 +5,7 @@
   "Artist": "Charles Burchfield", 
   "URL": "http://www.moma.org/collection/works/32974", 
   "CuratorApproved": "Y", 
-  "Title": "Garden of Memories", 
-  "DateAcquired": "1936-01-14", 
+  "CreditLine": "Gift of Abby Aldrich Rockefeller (by exchange)", 
   "Date": "1917", 
   "ArtistID": 870, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "2.1936", 
-  "ArtistBio": "American, 1893\u20131967", 
-  "CreditLine": "Gift of Abby Aldrich Rockefeller (by exchange)", 
+  "ArtistBio": "(American, 1893\u20131967)", 
+  "DateAcquired": "1936-01-14", 
+  "\ufeffTitle": "Garden of Memories", 
   "ObjectID": "32974"
 }

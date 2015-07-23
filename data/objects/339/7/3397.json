@@ -5,8 +5,7 @@
   "Artist": "Gerd Alfred M\u00fcller", 
   "URL": "http://www.moma.org/collection/works/3397", 
   "CuratorApproved": "Y", 
-  "Title": "Multipress Juice Extractor (model MP 3)", 
-  "DateAcquired": "1960-11-16", 
+  "CreditLine": "Gift of the manufacturer", 
   "Date": "1957", 
   "ArtistID": 4158, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "354.1960.a-i", 
-  "ArtistBio": "German, born 1932", 
-  "CreditLine": "Gift of the manufacturer", 
+  "ArtistBio": "(German, born 1932)", 
+  "DateAcquired": "1960-11-16", 
+  "\ufeffTitle": "Multipress Juice Extractor (model MP 3)", 
   "ObjectID": "3397"
 }

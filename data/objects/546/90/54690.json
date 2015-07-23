@@ -5,8 +5,7 @@
   "Artist": "Monika Von Boch", 
   "URL": "http://www.moma.org/collection/works/54690", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1960-11-30", 
+  "CreditLine": "Purchase", 
   "Date": "1959", 
   "ArtistID": 6183, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "523.1960", 
-  "ArtistBio": "German, 1915\u20131993", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(German, 1915\u20131993)", 
+  "DateAcquired": "1960-11-30", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "54690"
 }

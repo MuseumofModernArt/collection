@@ -5,8 +5,7 @@
   "Artist": "Anna Bella Geiger", 
   "URL": "http://www.moma.org/collection/works/62399", 
   "CuratorApproved": "Y", 
-  "Title": "Here is the Center (Aqui \u00e9 o centro)", 
-  "DateAcquired": "1975-05-09", 
+  "CreditLine": "Latin American Fund", 
   "Date": "1973", 
   "ArtistID": 2110, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "129.1975", 
-  "ArtistBio": "Brazilian, born 1933", 
-  "CreditLine": "Latin American Fund", 
+  "ArtistBio": "(Brazilian, born 1933)", 
+  "DateAcquired": "1975-05-09", 
+  "\ufeffTitle": "Here is the Center (Aqui \u00e9 o centro)", 
   "ObjectID": "62399"
 }

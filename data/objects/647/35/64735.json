@@ -1,12 +1,11 @@
 {
   "Medium": "Mezzotint, drypoint and engraving", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "Juan Antonio Roda", 
   "URL": "http://www.moma.org/collection/works/64735", 
   "CuratorApproved": "Y", 
-  "Title": "Laugh - 6", 
-  "DateAcquired": "1976-05-11", 
+  "CreditLine": "Gift of the artist", 
   "Date": "1972", 
   "ArtistID": 4974, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "225.1976", 
-  "ArtistBio": "Colombian", 
-  "CreditLine": "Gift of the artist", 
+  "ArtistBio": "(Colombian)", 
+  "DateAcquired": "1976-05-11", 
+  "\ufeffTitle": "Laugh - 6", 
   "ObjectID": "64735"
 }

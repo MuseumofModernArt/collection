@@ -5,8 +5,7 @@
   "Artist": "Joe Colombo", 
   "URL": "http://www.moma.org/collection/works/3376", 
   "CuratorApproved": "Y", 
-  "Title": "Armchair", 
-  "DateAcquired": "1966-05-10", 
+  "CreditLine": "Gift of the manufacturer", 
   "Date": "1964", 
   "ArtistID": 1196, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "350.1966", 
-  "ArtistBio": "Italian, 1930\u20131971", 
-  "CreditLine": "Gift of the manufacturer", 
+  "ArtistBio": "(Italian, 1930\u20131971)", 
+  "DateAcquired": "1966-05-10", 
+  "\ufeffTitle": "Armchair", 
   "ObjectID": "3376"
 }

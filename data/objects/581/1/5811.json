@@ -5,8 +5,7 @@
   "Artist": "Per Arnoldi", 
   "URL": "http://www.moma.org/collection/works/5811", 
   "CuratorApproved": "Y", 
-  "Title": "Vibo", 
-  "DateAcquired": "1981-04-30", 
+  "CreditLine": "Gift of the designer", 
   "Date": "1981", 
   "Keywords": [
     "online art collection", 
@@ -16,7 +15,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "243.1981", 
-  "ArtistBio": "Danish, born 1941", 
-  "CreditLine": "Gift of the designer", 
+  "ArtistBio": "(Danish, born 1941)", 
+  "DateAcquired": "1981-04-30", 
+  "\ufeffTitle": "Vibo", 
   "ObjectID": "5811"
 }

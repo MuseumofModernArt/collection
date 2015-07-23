@@ -5,8 +5,7 @@
   "Artist": "Pavel Tchelitchew", 
   "URL": "http://www.moma.org/collection/works/36639", 
   "CuratorApproved": "Y", 
-  "Title": "The Window, Ischia", 
-  "DateAcquired": "1960-11-16", 
+  "CreditLine": "The John S. Newberry Collection", 
   "Date": "1937", 
   "ArtistID": 5821, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "393.1960", 
-  "ArtistBio": "American, born Russia. 1898\u20131957", 
-  "CreditLine": "The John S. Newberry Collection", 
+  "ArtistBio": "(American, born Russia. 1898\u20131957)", 
+  "DateAcquired": "1960-11-16", 
+  "\ufeffTitle": "The Window, Ischia", 
   "ObjectID": "36639"
 }

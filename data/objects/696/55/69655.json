@@ -1,12 +1,11 @@
 {
   "Medium": "Screenprint with silk collage and watercolor additions", 
-  "Dimensions": "Composition (irreg.): 22 7/8 x 15 3/4\" (58.1 x 40 cm)  Sheet (irreg.): 22 7/8 x 15 3/4\" (58.1 x 40 cm)", 
+  "Dimensions": "Composition (irreg.): 22 7/8 x 15 3/4\" (58.1 x 40 cm)\r\nSheet (irreg.): 22 7/8 x 15 3/4\" (58.1 x 40 cm)", 
   "Classification": "Print", 
   "Artist": "Robert Rauschenberg", 
   "URL": "http://www.moma.org/collection/works/69655", 
   "CuratorApproved": "Y", 
-  "Title": "Arcanum VI from the series Arcanum I-XIII", 
-  "DateAcquired": "1983-01-18", 
+  "CreditLine": "Gift of Styria Studio, Inc.", 
   "Date": "1981", 
   "ArtistID": 4823, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "468.1982", 
-  "ArtistBio": "American, 1925\u20132008", 
-  "CreditLine": "Gift of Styria Studio, Inc.", 
+  "ArtistBio": "(American, 1925\u20132008)", 
+  "DateAcquired": "1983-01-18", 
+  "\ufeffTitle": "Arcanum VI from the series Arcanum I-XIII", 
   "ObjectID": "69655"
 }

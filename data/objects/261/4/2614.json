@@ -5,8 +5,7 @@
   "Artist": "Gino Colombini", 
   "URL": "http://www.moma.org/collection/works/2614", 
   "CuratorApproved": "Y", 
-  "Title": "Kitchen Pail", 
-  "DateAcquired": "1958-12-04", 
+  "CreditLine": "Gift of the manufacturer", 
   "Date": "1957", 
   "ArtistID": 1194, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "200.1958", 
-  "ArtistBio": "Italian, born 1915", 
-  "CreditLine": "Gift of the manufacturer", 
+  "ArtistBio": "(Italian, born 1915)", 
+  "DateAcquired": "1958-12-04", 
+  "\ufeffTitle": "Kitchen Pail", 
   "ObjectID": "2614"
 }

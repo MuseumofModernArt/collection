@@ -5,8 +5,7 @@
   "Artist": "Martin Kippenberger", 
   "URL": "http://www.moma.org/collection/works/34543", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled (Hallo Hallo)", 
-  "DateAcquired": "1999-05-06", 
+  "CreditLine": "Purchase Fund", 
   "Date": "1995", 
   "ArtistID": 3111, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "131.1999", 
-  "ArtistBio": "German, 1953\u20131997", 
-  "CreditLine": "Purchase Fund", 
+  "ArtistBio": "(German, 1953\u20131997)", 
+  "DateAcquired": "1999-05-06", 
+  "\ufeffTitle": "Untitled (Hallo Hallo)", 
   "ObjectID": "34543"
 }

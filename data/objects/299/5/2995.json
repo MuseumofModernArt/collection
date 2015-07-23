@@ -5,8 +5,7 @@
   "Artist": "Vallauris", 
   "URL": "http://www.moma.org/collection/works/2995", 
   "CuratorApproved": "Y", 
-  "Title": "Vase", 
-  "DateAcquired": "1953-04-07", 
+  "CreditLine": "Gift of Greta Daniel", 
   "Date": "c. 1951", 
   "ArtistID": 6061, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "243.1953", 
-  "ArtistBio": "French", 
-  "CreditLine": "Gift of Greta Daniel", 
+  "ArtistBio": "(French)", 
+  "DateAcquired": "1953-04-07", 
+  "\ufeffTitle": "Vase", 
   "ObjectID": "2995"
 }

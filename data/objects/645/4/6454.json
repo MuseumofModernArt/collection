@@ -5,8 +5,7 @@
   "Artist": "Kurt Wirth", 
   "URL": "http://www.moma.org/collection/works/6454", 
   "CuratorApproved": "Y", 
-  "Title": "Metropolitan, Swissair", 
-  "DateAcquired": "1957-12-04", 
+  "CreditLine": "Gift of Swissair", 
   "Date": "1956", 
   "ArtistID": 6410, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "352.1957", 
-  "ArtistBio": "Swiss, born 1917", 
-  "CreditLine": "Gift of Swissair", 
+  "ArtistBio": "(Swiss, born 1917)", 
+  "DateAcquired": "1957-12-04", 
+  "\ufeffTitle": "Metropolitan, Swissair", 
   "ObjectID": "6454"
 }

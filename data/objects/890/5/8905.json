@@ -5,8 +5,7 @@
   "Artist": "Zervudaki", 
   "URL": "http://www.moma.org/collection/works/8905", 
   "CuratorApproved": "Y", 
-  "Title": "TSF IIeme Salon Grand Palais", 
-  "DateAcquired": "2000-12-11", 
+  "CreditLine": "Gift of the designer", 
   "Date": "1934", 
   "ArtistID": 6564, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "1589.2000", 
-  "ArtistBio": "Nationality unknown", 
-  "CreditLine": "Gift of the designer", 
+  "ArtistBio": "(Nationality unknown)", 
+  "DateAcquired": "2000-12-11", 
+  "\ufeffTitle": "TSF IIeme Salon Grand Palais", 
   "ObjectID": "8905"
 }

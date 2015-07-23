@@ -1,12 +1,11 @@
 {
   "Medium": "Portfolio of six monotypes", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "Michael Mazur", 
   "URL": "http://www.moma.org/collection/works/64057", 
   "CuratorApproved": "Y", 
-  "Title": "Six Gestures of the Collo", 
-  "DateAcquired": "1986-05-20", 
+  "CreditLine": "Gift of the artist", 
   "Date": "1986", 
   "ArtistID": 3864, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "189.1986.1-6", 
-  "ArtistBio": "American, 1935\u20132009", 
-  "CreditLine": "Gift of the artist", 
+  "ArtistBio": "(American, 1935\u20132009)", 
+  "DateAcquired": "1986-05-20", 
+  "\ufeffTitle": "Six Gestures of the Collo", 
   "ObjectID": "64057"
 }

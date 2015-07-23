@@ -5,8 +5,7 @@
   "Artist": "Marc Chagall", 
   "URL": "http://www.moma.org/collection/works/62296", 
   "CuratorApproved": "Y", 
-  "Title": "Feast Day", 
-  "DateAcquired": "1947-06-17", 
+  "CreditLine": "A. Conger Goodyear Fund", 
   "Date": "(1922)", 
   "ArtistID": 1055, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "126.1947", 
-  "ArtistBio": "French, born Belarus. 1887\u20131985", 
-  "CreditLine": "A. Conger Goodyear Fund", 
+  "ArtistBio": "(French, born Belarus. 1887\u20131985)", 
+  "DateAcquired": "1947-06-17", 
+  "\ufeffTitle": "Feast Day", 
   "ObjectID": "62296"
 }

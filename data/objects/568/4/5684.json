@@ -5,8 +5,7 @@
   "Artist": "Gustav Klimt", 
   "URL": "http://www.moma.org/collection/works/5684", 
   "CuratorApproved": "Y", 
-  "Title": "Poster for the First Secession Exhibition (censored version)", 
-  "DateAcquired": "1968-03-07", 
+  "CreditLine": "Gift of Bates Lowry", 
   "Date": "1898", 
   "ArtistID": 3147, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "207.1968", 
-  "ArtistBio": "Austrian, 1862\u20131918", 
-  "CreditLine": "Gift of Bates Lowry", 
+  "ArtistBio": "(Austrian, 1862\u20131918)", 
+  "DateAcquired": "1968-03-07", 
+  "\ufeffTitle": "Poster for the First Secession Exhibition (censored version) (1. Kunstausstellung Secession)", 
   "ObjectID": "5684"
 }

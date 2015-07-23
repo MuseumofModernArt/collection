@@ -5,8 +5,7 @@
   "Artist": "Willi Baumeister", 
   "URL": "http://www.moma.org/collection/works/59938", 
   "CuratorApproved": "Y", 
-  "Title": "Composition", 
-  "DateAcquired": "1948-03-17", 
+  "CreditLine": "Gift of Gordon Chadwick", 
   "Date": "(n.d.)", 
   "ArtistID": 392, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "14.1948", 
-  "ArtistBio": "German, 1889\u20131955", 
-  "CreditLine": "Gift of Gordon Chadwick", 
+  "ArtistBio": "(German, 1889\u20131955)", 
+  "DateAcquired": "1948-03-17", 
+  "\ufeffTitle": "Composition", 
   "ObjectID": "59938"
 }

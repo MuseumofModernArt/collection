@@ -5,8 +5,7 @@
   "Artist": "Henri Matisse", 
   "URL": "http://www.moma.org/collection/works/33954", 
   "CuratorApproved": "Y", 
-  "Title": "Study after Dance (I)", 
-  "DateAcquired": "1971-03-30", 
+  "CreditLine": "Gift of Pierre Matisse", 
   "Date": "(c. 1909)", 
   "ArtistID": 3832, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "103.1971", 
-  "ArtistBio": "French, 1869\u20131954", 
-  "CreditLine": "Gift of Pierre Matisse", 
+  "ArtistBio": "(French, 1869\u20131954)", 
+  "DateAcquired": "1971-03-30", 
+  "\ufeffTitle": "Study after Dance (I)", 
   "ObjectID": "33954"
 }

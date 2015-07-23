@@ -5,8 +5,7 @@
   "Artist": "Bruce Horowitz", 
   "URL": "http://www.moma.org/collection/works/54383", 
   "CuratorApproved": "Y", 
-  "Title": "Henry Miller After the Battle", 
-  "DateAcquired": "1973-11-13", 
+  "CreditLine": "Gift of the photographer", 
   "Date": "1972", 
   "ArtistID": 2729, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "496.1973", 
-  "ArtistBio": "American, born 1949", 
-  "CreditLine": "Gift of the photographer", 
+  "ArtistBio": "(American, born 1949)", 
+  "DateAcquired": "1973-11-13", 
+  "\ufeffTitle": "Henry Miller After the Battle", 
   "ObjectID": "54383"
 }

@@ -5,8 +5,7 @@
   "Artist": "Ernest J. Bellocq", 
   "URL": "http://www.moma.org/collection/works/52196", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1980-03-13", 
+  "CreditLine": "The Ben Schultz Memorial Collection. Gift of Lee Friedlander", 
   "Date": "c. 1912", 
   "ArtistID": 453, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "381.1980", 
-  "ArtistBio": "American, 1873\u20131949", 
-  "CreditLine": "The Ben Schultz Memorial Collection. Gift of Lee Friedlander", 
+  "ArtistBio": "(American, 1873\u20131949)", 
+  "DateAcquired": "1980-03-13", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "52196"
 }

@@ -5,8 +5,7 @@
   "Artist": "Aaron Siskind", 
   "URL": "http://www.moma.org/collection/works/47023", 
   "CuratorApproved": "Y", 
-  "Title": "Yuchitan, Mexico", 
-  "DateAcquired": "1972-03-07", 
+  "CreditLine": "Gift of the photographer", 
   "Date": "1955", 
   "ArtistID": 5456, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "158.1972", 
-  "ArtistBio": "American, 1903\u20131991", 
-  "CreditLine": "Gift of the photographer", 
+  "ArtistBio": "(American, 1903\u20131991)", 
+  "DateAcquired": "1972-03-07", 
+  "\ufeffTitle": "Yuchitan, Mexico", 
   "ObjectID": "47023"
 }

@@ -5,8 +5,7 @@
   "Artist": "Imogen Cunningham", 
   "URL": "http://www.moma.org/collection/works/58134", 
   "CuratorApproved": "Y", 
-  "Title": "Self Portrait on Geary Street", 
-  "DateAcquired": "1968-11-06", 
+  "CreditLine": "Gift of Willard Van Dyke", 
   "Date": "1959", 
   "ArtistID": 1332, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "1411.1968", 
-  "ArtistBio": "American, 1883\u20131976", 
-  "CreditLine": "Gift of Willard Van Dyke", 
+  "ArtistBio": "(American, 1883\u20131976)", 
+  "DateAcquired": "1968-11-06", 
+  "\ufeffTitle": "Self Portrait on Geary Street", 
   "ObjectID": "58134"
 }

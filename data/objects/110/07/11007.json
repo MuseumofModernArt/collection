@@ -5,8 +5,7 @@
   "Artist": "Louise Bourgeois", 
   "URL": "http://www.moma.org/collection/works/11007", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled, plate 9 of 9, state II of II, from the portfolio, Ode \u00e0 ma m\u00e8re", 
-  "DateAcquired": "1996-03-12", 
+  "CreditLine": "Gift of the artist", 
   "Date": "1995", 
   "ArtistID": 710, 
   "Keywords": [
@@ -20,7 +19,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "886.1996.9", 
-  "ArtistBio": "American, born France. 1911\u20132010", 
-  "CreditLine": "Gift of the artist", 
+  "ArtistBio": "(American, born France. 1911\u20132010)", 
+  "DateAcquired": "1996-03-12", 
+  "\ufeffTitle": "Untitled, plate 9 of 9, from the portfolio, Ode \u00e0 ma m\u00e8re", 
   "ObjectID": "11007"
 }

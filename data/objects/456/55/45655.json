@@ -5,8 +5,7 @@
   "Artist": "Dan Weiner", 
   "URL": "http://www.moma.org/collection/works/45655", 
   "CuratorApproved": "Y", 
-  "Title": "Gian Carlo Menotti", 
-  "DateAcquired": "1994-01-13", 
+  "CreditLine": "Gift of Sandra Weiner", 
   "Date": "1950", 
   "ArtistID": 6287, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "72.1994", 
-  "ArtistBio": "American, 1919\u20131959", 
-  "CreditLine": "Gift of Sandra Weiner", 
+  "ArtistBio": "(American, 1919\u20131959)", 
+  "DateAcquired": "1994-01-13", 
+  "\ufeffTitle": "Gian Carlo Menotti", 
   "ObjectID": "45655"
 }

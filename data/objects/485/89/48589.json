@@ -5,8 +5,7 @@
   "Artist": "Mark Steinmetz", 
   "URL": "http://www.moma.org/collection/works/48589", 
   "CuratorApproved": "Y", 
-  "Title": "Chelsea, Massachusetts", 
-  "DateAcquired": "1991-06-20", 
+  "CreditLine": "Gift of the photographer", 
   "Date": "1986", 
   "ArtistID": 5636, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "211.1991", 
-  "ArtistBio": "American, born 1961", 
-  "CreditLine": "Gift of the photographer", 
+  "ArtistBio": "(American, born 1961)", 
+  "DateAcquired": "1991-06-20", 
+  "\ufeffTitle": "Chelsea, Massachusetts", 
   "ObjectID": "48589"
 }

@@ -5,8 +5,7 @@
   "Artist": "Maxime Du Camp", 
   "URL": "http://www.moma.org/collection/works/54288", 
   "CuratorApproved": "Y", 
-  "Title": "N\u00e9cropole de Lycopolis", 
-  "DateAcquired": "1981-12-17", 
+  "CreditLine": "Gift of Warner Communications, Inc.", 
   "Date": "1849-52", 
   "ArtistID": 1629, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "490.1981", 
-  "ArtistBio": "French, 1822\u20131894", 
-  "CreditLine": "Gift of Warner Communications, Inc.", 
+  "ArtistBio": "(French, 1822\u20131894)", 
+  "DateAcquired": "1981-12-17", 
+  "\ufeffTitle": "N\u00e9cropole de Lycopolis", 
   "ObjectID": "54288"
 }

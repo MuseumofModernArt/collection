@@ -1,12 +1,11 @@
 {
   "Medium": "Drypoint", 
-  "Dimensions": "plate  2 7/16 x 3 1/2\" (6.2 x 8.9 cm)  sheet  10 5/8 x 14 9/16\" (27 x 37 cm)", 
+  "Dimensions": "plate  2 7/16 x 3 1/2\" (6.2 x 8.9 cm)\r\nsheet  10 5/8 x 14 9/16\" (27 x 37 cm)", 
   "Classification": "Print", 
   "Artist": "Lovis Corinth", 
   "URL": "http://www.moma.org/collection/works/61150", 
   "CuratorApproved": "Y", 
-  "Title": "Walchensee", 
-  "DateAcquired": "1956-03-19", 
+  "CreditLine": "Given anonymously", 
   "Date": "(1923)", 
   "ArtistID": 1243, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "66.1956", 
-  "ArtistBio": "German, 1858\u20131925", 
-  "CreditLine": "Given anonymously", 
+  "ArtistBio": "(German, 1858\u20131925)", 
+  "DateAcquired": "1956-03-19", 
+  "\ufeffTitle": "Walchensee", 
   "ObjectID": "61150"
 }

@@ -1,12 +1,11 @@
 {
   "Medium": "Drypoint", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "Marc Chagall", 
   "URL": "http://www.moma.org/collection/works/66958", 
   "CuratorApproved": "Y", 
-  "Title": "Lovers by the River", 
-  "DateAcquired": "1947-12-19", 
+  "CreditLine": "Purchase", 
   "Date": "(1922)", 
   "ArtistID": 1055, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "325.1947", 
-  "ArtistBio": "French, born Belarus. 1887\u20131985", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(French, born Belarus. 1887\u20131985)", 
+  "DateAcquired": "1947-12-19", 
+  "\ufeffTitle": "Lovers by the River", 
   "ObjectID": "66958"
 }

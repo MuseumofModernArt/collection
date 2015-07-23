@@ -5,8 +5,7 @@
   "Artist": "Norman Lewis", 
   "URL": "http://www.moma.org/collection/works/35594", 
   "CuratorApproved": "Y", 
-  "Title": "The Messenger", 
-  "DateAcquired": "1969-04-16", 
+  "CreditLine": "Gift of Blanchette Hooker Rockefeller", 
   "Date": "1952", 
   "ArtistID": 3524, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "250.1969", 
-  "ArtistBio": "American, 1909\u20131979", 
-  "CreditLine": "Gift of Blanchette Hooker Rockefeller", 
+  "ArtistBio": "(American, 1909\u20131979)", 
+  "DateAcquired": "1969-04-16", 
+  "\ufeffTitle": "The Messenger", 
   "ObjectID": "35594"
 }

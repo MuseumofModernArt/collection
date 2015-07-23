@@ -1,12 +1,11 @@
 {
   "Medium": "Screenprint on plexiglass, acetate and paper", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "Tadanori Yokoo", 
   "URL": "http://www.moma.org/collection/works/60519", 
   "CuratorApproved": "Y", 
-  "Title": "Landscape No. 5", 
-  "DateAcquired": "1972-02-07", 
+  "CreditLine": "Gift of Mr. and Mrs. Wolfgang Schoenborn", 
   "Date": "(1969)", 
   "ArtistID": 6502, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "33.1972", 
-  "ArtistBio": "Japanese, born 1936", 
-  "CreditLine": "Gift of Mr. and Mrs. Wolfgang Schoenborn", 
+  "ArtistBio": "(Japanese, born 1936)", 
+  "DateAcquired": "1972-02-07", 
+  "\ufeffTitle": "Landscape No. 5", 
   "ObjectID": "60519"
 }

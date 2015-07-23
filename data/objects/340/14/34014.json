@@ -5,8 +5,7 @@
   "Artist": "Alfred Kubin", 
   "URL": "http://www.moma.org/collection/works/34014", 
   "CuratorApproved": "Y", 
-  "Title": "The Great Grandmother", 
-  "DateAcquired": "1963-02-13", 
+  "CreditLine": "Gift of Mrs. Gertrud A. Mellon", 
   "Date": "1926", 
   "ArtistID": 3276, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "108.1963", 
-  "ArtistBio": "Austrian, 1877\u20131959", 
-  "CreditLine": "Gift of Mrs. Gertrud A. Mellon", 
+  "ArtistBio": "(Austrian, 1877\u20131959)", 
+  "DateAcquired": "1963-02-13", 
+  "\ufeffTitle": "The Great Grandmother (Die Urgrossmutter)", 
   "ObjectID": "34014"
 }

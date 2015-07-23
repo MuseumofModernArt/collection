@@ -5,8 +5,7 @@
   "Artist": "Sven Palmqvist", 
   "URL": "http://www.moma.org/collection/works/3081", 
   "CuratorApproved": "Y", 
-  "Title": "Vase", 
-  "DateAcquired": "1958-12-04", 
+  "CreditLine": "Phyllis B. Lambert Fund", 
   "Date": "1954", 
   "ArtistID": 4478, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "254.1958", 
-  "ArtistBio": "Swedish, 1906\u20131984", 
-  "CreditLine": "Phyllis B. Lambert Fund", 
+  "ArtistBio": "(Swedish, 1906\u20131984)", 
+  "DateAcquired": "1958-12-04", 
+  "\ufeffTitle": "Vase", 
   "ObjectID": "3081"
 }

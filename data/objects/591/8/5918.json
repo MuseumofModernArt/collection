@@ -5,8 +5,7 @@
   "Artist": "Jan M\u0142odo\u017ceniec", 
   "URL": "http://www.moma.org/collection/works/5918", 
   "CuratorApproved": "Y", 
-  "Title": "Kopciuszek", 
-  "DateAcquired": "1998-04-22", 
+  "CreditLine": "Gift of Susan Hornik", 
   "Date": "Unknown", 
   "ArtistID": 4033, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "262.1998", 
-  "ArtistBio": "Polish, 1929\u20132000", 
-  "CreditLine": "Gift of Susan Hornik", 
+  "ArtistBio": "(Polish, 1929\u20132000)", 
+  "DateAcquired": "1998-04-22", 
+  "\ufeffTitle": "Kopciuszek", 
   "ObjectID": "5918"
 }

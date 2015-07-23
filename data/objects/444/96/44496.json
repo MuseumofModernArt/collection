@@ -5,8 +5,7 @@
   "Artist": "Henri Cartier-Bresson", 
   "URL": "http://www.moma.org/collection/works/44496", 
   "CuratorApproved": "Y", 
-  "Title": "Quai de Javel, Paris", 
-  "DateAcquired": "1942-01-10", 
+  "CreditLine": "Purchase", 
   "Date": "1932", 
   "ArtistID": 1000, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "40.1942", 
-  "ArtistBio": "French, 1908\u20132004", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(French, 1908\u20132004)", 
+  "DateAcquired": "1942-01-10", 
+  "\ufeffTitle": "Quai de Javel, Paris", 
   "ObjectID": "44496"
 }

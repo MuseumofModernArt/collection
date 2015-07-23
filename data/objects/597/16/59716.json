@@ -5,8 +5,7 @@
   "Artist": "Red Grooms", 
   "URL": "http://www.moma.org/collection/works/59716", 
   "CuratorApproved": "Y", 
-  "Title": "Lorna Doone", 
-  "DateAcquired": "1981-01-15", 
+  "CreditLine": "John B. Turner Fund", 
   "Date": "(1979-80)", 
   "ArtistID": 2357, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "7.1981.a-b", 
-  "ArtistBio": "American, born 1937", 
-  "CreditLine": "John B. Turner Fund", 
+  "ArtistBio": "(American, born 1937)", 
+  "DateAcquired": "1981-01-15", 
+  "\ufeffTitle": "Lorna Doone", 
   "ObjectID": "59716"
 }

@@ -5,8 +5,7 @@
   "Artist": "Charles Sheeler", 
   "URL": "http://www.moma.org/collection/works/52582", 
   "CuratorApproved": "Y", 
-  "Title": "Bleeder Stacks, Ford Plant, Detroit", 
-  "DateAcquired": "1942-12-29", 
+  "CreditLine": "Gift of Samuel M. Kootz", 
   "Date": "1927", 
   "ArtistID": 5383, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "399.1942", 
-  "ArtistBio": "American, 1883\u20131965", 
-  "CreditLine": "Gift of Samuel M. Kootz", 
+  "ArtistBio": "(American, 1883\u20131965)", 
+  "DateAcquired": "1942-12-29", 
+  "\ufeffTitle": "Bleeder Stacks, Ford Plant, Detroit", 
   "ObjectID": "52582"
 }

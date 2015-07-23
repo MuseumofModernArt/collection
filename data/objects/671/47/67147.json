@@ -5,8 +5,7 @@
   "Artist": "James Ensor", 
   "URL": "http://www.moma.org/collection/works/67147", 
   "CuratorApproved": "Y", 
-  "Title": "The Scoundrels", 
-  "DateAcquired": "1954-09-30", 
+  "CreditLine": "Gift of Samuel A. Berger", 
   "Date": "1896", 
   "ArtistID": 1739, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "335.1954", 
-  "ArtistBio": "Belgian, 1860\u20131949", 
-  "CreditLine": "Gift of Samuel A. Berger", 
+  "ArtistBio": "(Belgian, 1860\u20131949)", 
+  "DateAcquired": "1954-09-30", 
+  "\ufeffTitle": "The Scoundrels", 
   "ObjectID": "67147"
 }

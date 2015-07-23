@@ -5,8 +5,7 @@
   "Artist": "Louis Marcoussis", 
   "URL": "http://www.moma.org/collection/works/64947", 
   "CuratorApproved": "Y", 
-  "Title": "Portrait of Guillaume Apollinaire", 
-  "DateAcquired": "1947-10-16", 
+  "CreditLine": "Given anonymously", 
   "Date": "1912-20", 
   "ArtistID": 3757, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "237.1947", 
-  "ArtistBio": "Polish, 1883\u20131941", 
-  "CreditLine": "Given anonymously", 
+  "ArtistBio": "(Polish, 1883\u20131941)", 
+  "DateAcquired": "1947-10-16", 
+  "\ufeffTitle": "Portrait of Guillaume Apollinaire", 
   "ObjectID": "64947"
 }

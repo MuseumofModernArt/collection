@@ -5,8 +5,7 @@
   "Artist": "William Christenberry", 
   "URL": "http://www.moma.org/collection/works/48883", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1993-06-01", 
+  "CreditLine": "Lois and Bruce Zenkel Fund", 
   "Date": "1982", 
   "ArtistID": 1112, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "220.1993", 
-  "ArtistBio": "American, born 1936", 
-  "CreditLine": "Lois and Bruce Zenkel Fund", 
+  "ArtistBio": "(American, born 1936)", 
+  "DateAcquired": "1993-06-01", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "48883"
 }

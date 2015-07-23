@@ -5,8 +5,7 @@
   "Artist": "Frederick H. K. Henrion", 
   "URL": "http://www.moma.org/collection/works/6086", 
   "CuratorApproved": "Y", 
-  "Title": "Artists Aid Russia Exhibition", 
-  "DateAcquired": "1943-05-12", 
+  "CreditLine": "Gift of Mrs. John Carter", 
   "Date": "1940", 
   "ArtistID": 2596, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "287.1943", 
-  "ArtistBio": "British, 1914\u20131990", 
-  "CreditLine": "Gift of Mrs. John Carter", 
+  "ArtistBio": "(British, 1914\u20131990)", 
+  "DateAcquired": "1943-05-12", 
+  "\ufeffTitle": "Artists Aid Russia Exhibition", 
   "ObjectID": "6086"
 }

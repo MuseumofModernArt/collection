@@ -5,8 +5,7 @@
   "Artist": "Richard Sapper", 
   "URL": "http://www.moma.org/collection/works/3929", 
   "CuratorApproved": "Y", 
-  "Title": "Line Radio Receiver (model fd 1102)", 
-  "DateAcquired": "1997-10-17", 
+  "CreditLine": "Barbara Jakobson Fund", 
   "Date": "1971", 
   "ArtistID": 5162, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "467.1997", 
-  "ArtistBio": "German, born 1932", 
-  "CreditLine": "Barbara Jakobson Fund", 
+  "ArtistBio": "(German, born 1932)", 
+  "DateAcquired": "1997-10-17", 
+  "\ufeffTitle": "Line Radio Receiver (model fd 1102)", 
   "ObjectID": "3929"
 }

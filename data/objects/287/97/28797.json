@@ -5,8 +5,7 @@
   "Artist": "Carlos Silva", 
   "URL": "http://www.moma.org/collection/works/28797", 
   "CuratorApproved": "Y", 
-  "Title": "Por el puente de la palabra", 
-  "DateAcquired": "1969-10-28", 
+  "CreditLine": "Latin American Fund", 
   "Date": "1967", 
   "ArtistID": 5430, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "935.1969.1-9", 
-  "ArtistBio": "Argentine, 1930\u20131987", 
-  "CreditLine": "Latin American Fund", 
+  "ArtistBio": "(Argentine, 1930\u20131987)", 
+  "DateAcquired": "1969-10-28", 
+  "\ufeffTitle": "Por el puente de la palabra", 
   "ObjectID": "28797"
 }

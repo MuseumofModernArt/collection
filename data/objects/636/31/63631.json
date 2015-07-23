@@ -5,8 +5,7 @@
   "Artist": "Richard Hamilton", 
   "URL": "http://www.moma.org/collection/works/63631", 
   "CuratorApproved": "Y", 
-  "Title": "In What Posture?", 
-  "DateAcquired": "1988-05-04", 
+  "CreditLine": "Arnold Smoller Fund", 
   "Date": "1987", 
   "ArtistID": 2481, 
   "Keywords": [
@@ -16,7 +15,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "174.1988", 
-  "ArtistBio": "British, 1922\u20132011", 
-  "CreditLine": "Arnold Smoller Fund", 
+  "ArtistBio": "(British, 1922\u20132011)", 
+  "DateAcquired": "1988-05-04", 
+  "\ufeffTitle": "In What Posture?", 
   "ObjectID": "63631"
 }

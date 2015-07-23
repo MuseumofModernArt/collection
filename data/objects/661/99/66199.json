@@ -5,8 +5,7 @@
   "Artist": "Frans van der Steen", 
   "URL": "http://www.moma.org/collection/works/66199", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1975-10-07", 
+  "CreditLine": "Janet K. Ruttenberg Fund", 
   "Date": "1975", 
   "ArtistID": 6073, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "291.1975", 
-  "ArtistBio": "Dutch", 
-  "CreditLine": "Janet K. Ruttenberg Fund", 
+  "ArtistBio": "(Dutch)", 
+  "DateAcquired": "1975-10-07", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "66199"
 }

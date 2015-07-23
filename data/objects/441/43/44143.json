@@ -5,8 +5,7 @@
   "Artist": "Alvin Langdon Coburn", 
   "URL": "http://www.moma.org/collection/works/44143", 
   "CuratorApproved": "Y", 
-  "Title": "Grand Canyon", 
-  "DateAcquired": "1974-01-29", 
+  "CreditLine": "David H. McAlpin Fund", 
   "Date": "c. 1911", 
   "ArtistID": 1164, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "25.1974", 
-  "ArtistBio": "American, 1882\u20131966", 
-  "CreditLine": "David H. McAlpin Fund", 
+  "ArtistBio": "(American, 1882\u20131966)", 
+  "DateAcquired": "1974-01-29", 
+  "\ufeffTitle": "Grand Canyon", 
   "ObjectID": "44143"
 }

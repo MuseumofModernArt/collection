@@ -5,8 +5,7 @@
   "Artist": "Mel Bochner", 
   "URL": "http://www.moma.org/collection/works/59569", 
   "CuratorApproved": "Y", 
-  "Title": "Q.E.D", 
-  "DateAcquired": "1975-01-07", 
+  "CreditLine": "John B. Turner Fund", 
   "Date": "1974", 
   "ArtistID": 625, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "1.1975.1-4", 
-  "ArtistBio": "American, born 1940", 
-  "CreditLine": "John B. Turner Fund", 
+  "ArtistBio": "(American, born 1940)", 
+  "DateAcquired": "1975-01-07", 
+  "\ufeffTitle": "Q.E.D", 
   "ObjectID": "59569"
 }

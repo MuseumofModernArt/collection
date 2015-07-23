@@ -5,8 +5,7 @@
   "Artist": "Masuo Ikeda", 
   "URL": "http://www.moma.org/collection/works/67047", 
   "CuratorApproved": "Y", 
-  "Title": "Empty Sphinx", 
-  "DateAcquired": "1971-03-30", 
+  "CreditLine": "Anonymous gift", 
   "Date": "1970", 
   "ArtistID": 2801, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "329.1971", 
-  "ArtistBio": "Japanese, 1934\u20131997", 
-  "CreditLine": "Anonymous gift", 
+  "ArtistBio": "(Japanese, 1934\u20131997)", 
+  "DateAcquired": "1971-03-30", 
+  "\ufeffTitle": "Empty Sphinx", 
   "ObjectID": "67047"
 }

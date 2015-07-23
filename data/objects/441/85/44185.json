@@ -5,8 +5,7 @@
   "Artist": "Alvin Langdon Coburn", 
   "URL": "http://www.moma.org/collection/works/44185", 
   "CuratorApproved": "Y", 
-  "Title": "Portrait of George Bernard Shaw", 
-  "DateAcquired": "1974-01-29", 
+  "CreditLine": "Gift of the International Museum of Photography at George Eastman House, Rochester, New York", 
   "Date": "1908", 
   "ArtistID": 1164, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "27.1974", 
-  "ArtistBio": "American, 1882\u20131966", 
-  "CreditLine": "Gift of the International Museum of Photography at George Eastman House, Rochester, New York", 
+  "ArtistBio": "(American, 1882\u20131966)", 
+  "DateAcquired": "1974-01-29", 
+  "\ufeffTitle": "Portrait of George Bernard Shaw", 
   "ObjectID": "44185"
 }

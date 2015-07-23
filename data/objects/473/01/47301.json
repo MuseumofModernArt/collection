@@ -5,8 +5,7 @@
   "Artist": "Francis Bedford", 
   "URL": "http://www.moma.org/collection/works/47301", 
   "CuratorApproved": "Y", 
-  "Title": "Ffestiniog, Bridge on the Cynfael", 
-  "DateAcquired": "1972-05-02", 
+  "CreditLine": "Purchase", 
   "Date": "1891", 
   "ArtistID": 430, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "170.1972", 
-  "ArtistBio": "British, 1816\u20131894", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(British, 1816\u20131894)", 
+  "DateAcquired": "1972-05-02", 
+  "\ufeffTitle": "Ffestiniog, Bridge on the Cynfael", 
   "ObjectID": "47301"
 }

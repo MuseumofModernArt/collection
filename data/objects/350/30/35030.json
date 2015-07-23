@@ -5,8 +5,7 @@
   "Artist": "Pavel Tchelitchew", 
   "URL": "http://www.moma.org/collection/works/35030", 
   "CuratorApproved": "Y", 
-  "Title": "Gertrude Stein", 
-  "DateAcquired": "1978-04-04", 
+  "CreditLine": "The Joan and Lester Avnet Collection", 
   "Date": "(c. 1927)", 
   "ArtistID": 5821, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "172.1978", 
-  "ArtistBio": "American, born Russia. 1898\u20131957", 
-  "CreditLine": "The Joan and Lester Avnet Collection", 
+  "ArtistBio": "(American, born Russia. 1898\u20131957)", 
+  "DateAcquired": "1978-04-04", 
+  "\ufeffTitle": "Gertrude Stein", 
   "ObjectID": "35030"
 }

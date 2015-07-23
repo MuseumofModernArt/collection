@@ -5,8 +5,7 @@
   "Artist": "David Leach", 
   "URL": "http://www.moma.org/collection/works/63626", 
   "CuratorApproved": "Y", 
-  "Title": "Screen", 
-  "DateAcquired": "1973-05-07", 
+  "CreditLine": "Purchase", 
   "Date": "1972", 
   "ArtistID": 3436, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "174.1973", 
-  "ArtistBio": "American, born 1946", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, born 1946)", 
+  "DateAcquired": "1973-05-07", 
+  "\ufeffTitle": "Screen", 
   "ObjectID": "63626"
 }

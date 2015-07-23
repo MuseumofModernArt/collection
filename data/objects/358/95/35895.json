@@ -5,8 +5,7 @@
   "Artist": "Linda Chapman", 
   "URL": "http://www.moma.org/collection/works/35895", 
   "CuratorApproved": "Y", 
-  "Title": "Waiting for Delacroix", 
-  "DateAcquired": "1978-04-04", 
+  "CreditLine": "Gift of Alice C. Simkins", 
   "Date": "(1977)", 
   "ArtistID": 1068, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "276.1978", 
-  "ArtistBio": "American, born 1952", 
-  "CreditLine": "Gift of Alice C. Simkins", 
+  "ArtistBio": "(American, born 1952)", 
+  "DateAcquired": "1978-04-04", 
+  "\ufeffTitle": "Waiting for Delacroix", 
   "ObjectID": "35895"
 }

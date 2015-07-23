@@ -5,8 +5,7 @@
   "Artist": "Louis I. Kahn", 
   "URL": "http://www.moma.org/collection/works/458", 
   "CuratorApproved": "Y", 
-  "Title": "Salk Institute for Biological Studies (laboratory, meeting house, and housing)  La Jolla, California  Laboratory: elevation of studies", 
-  "DateAcquired": "1967-04-11", 
+  "CreditLine": "Gift of the architect", 
   "Date": "1962", 
   "ArtistID": 2964, 
   "Keywords": [
@@ -23,7 +22,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "382.1967", 
-  "ArtistBio": "American, born Estonia. 1901\u20131974", 
-  "CreditLine": "Gift of the architect", 
+  "ArtistBio": "(American, born Estonia. 1901\u20131974)", 
+  "DateAcquired": "1967-04-11", 
+  "\ufeffTitle": "Salk Institute for Biological Studies (laboratory, meeting house, and housing), La Jolla, California, Laboratory: elevation of studies", 
   "ObjectID": "458"
 }

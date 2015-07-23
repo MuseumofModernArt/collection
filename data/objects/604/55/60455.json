@@ -1,12 +1,11 @@
 {
-  "Medium": "Woodcut  ", 
+  "Medium": "Woodcut\r\n", 
   "Dimensions": "composition (irreg. ): 6 5/16 x 8 3/4\" (16 x 22.2 cm); sheet: 9 1/8 x 11 9/16\" (23.2 x 29.4 cm)", 
   "Classification": "Print", 
   "Artist": "Franz Marc", 
   "URL": "http://www.moma.org/collection/works/60455", 
   "CuratorApproved": "Y", 
-  "Title": "Steer", 
-  "DateAcquired": "1952-01-22", 
+  "CreditLine": "Purchase", 
   "Date": "(1912)", 
   "ArtistID": 3748, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "30.1952", 
-  "ArtistBio": "German, 1880\u20131916", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(German, 1880\u20131916)", 
+  "DateAcquired": "1952-01-22", 
+  "\ufeffTitle": "Steer (Stier)", 
   "ObjectID": "60455"
 }

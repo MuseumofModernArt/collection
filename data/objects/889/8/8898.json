@@ -5,8 +5,7 @@
   "Artist": "Wes Wilson (Robert Wesley Wilson)", 
   "URL": "http://www.moma.org/collection/works/8898", 
   "CuratorApproved": "Y", 
-  "Title": "New Year Bash", 
-  "DateAcquired": "2000-12-11", 
+  "CreditLine": "Gift of the designer", 
   "Date": "1966", 
   "ArtistID": 8265, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "1585.2000", 
-  "ArtistBio": "American, born 1937", 
-  "CreditLine": "Gift of the designer", 
+  "ArtistBio": "(American, born 1937)", 
+  "DateAcquired": "2000-12-11", 
+  "\ufeffTitle": "New Year Bash", 
   "ObjectID": "8898"
 }

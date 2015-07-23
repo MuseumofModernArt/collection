@@ -5,8 +5,7 @@
   "Artist": "Blinky Palermo", 
   "URL": "http://www.moma.org/collection/works/33519", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1988-02-19", 
+  "CreditLine": "Purchase", 
   "Date": "1969", 
   "ArtistID": 4474, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "49.1988", 
-  "ArtistBio": "German, 1943\u20131977", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(German, 1943\u20131977)", 
+  "DateAcquired": "1988-02-19", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "33519"
 }

@@ -1,16 +1,16 @@
 {
   "Medium": "Photograph", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Photograph", 
   "Artist": "Unknown photographer", 
   "URL": "", 
-  "CuratorApproved": "Y", 
-  "Title": "Hall's Photographic Gallery", 
-  "DateAcquired": "1954-01-12", 
+  "CuratorApproved": "N", 
+  "CreditLine": "Gift of Carl Sandburg", 
   "Date": "1850-1920", 
   "Department": "Photography", 
   "MoMANumber": "587.1953", 
-  "ArtistBio": "NULL", 
-  "CreditLine": "Gift of Carl Sandburg", 
+  "ArtistBio": "", 
+  "DateAcquired": "1954-01-12", 
+  "\ufeffTitle": "Hall's Photographic Gallery", 
   "ObjectID": "55399"
 }

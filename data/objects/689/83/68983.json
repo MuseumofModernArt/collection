@@ -5,8 +5,7 @@
   "Artist": "Peter Paul", 
   "URL": "http://www.moma.org/collection/works/68983", 
   "CuratorApproved": "Y", 
-  "Title": "22", 
-  "DateAcquired": "1970-10-22", 
+  "CreditLine": "Mrs. E. B. Parkinson Fund", 
   "Date": "1970", 
   "ArtistID": 4522, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "429.1970", 
-  "ArtistBio": "German", 
-  "CreditLine": "Mrs. E. B. Parkinson Fund", 
+  "ArtistBio": "(German)", 
+  "DateAcquired": "1970-10-22", 
+  "\ufeffTitle": "22", 
   "ObjectID": "68983"
 }

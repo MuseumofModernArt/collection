@@ -5,8 +5,7 @@
   "Artist": "Jorge de la Vega", 
   "URL": "http://www.moma.org/collection/works/38125", 
   "CuratorApproved": "Y", 
-  "Title": "Parenthesis", 
-  "DateAcquired": "1969-10-28", 
+  "CreditLine": "Inter-American Fund", 
   "Date": "1967", 
   "ArtistID": 6120, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "815.1969", 
-  "ArtistBio": "Argentine, 1930\u20131971", 
-  "CreditLine": "Inter-American Fund", 
+  "ArtistBio": "(Argentine, 1930\u20131971)", 
+  "DateAcquired": "1969-10-28", 
+  "\ufeffTitle": "Parenthesis", 
   "ObjectID": "38125"
 }

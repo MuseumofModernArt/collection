@@ -5,8 +5,7 @@
   "Artist": "Jock Sturges", 
   "URL": "http://www.moma.org/collection/works/46321", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1986-01-15", 
+  "CreditLine": "The Family of Man Fund", 
   "Date": "1984", 
   "ArtistID": 5711, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "104.1986", 
-  "ArtistBio": "American, born 1947", 
-  "CreditLine": "The Family of Man Fund", 
+  "ArtistBio": "(American, born 1947)", 
+  "DateAcquired": "1986-01-15", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "46321"
 }

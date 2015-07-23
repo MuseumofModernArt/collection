@@ -5,8 +5,7 @@
   "Artist": "Philippe Halsman", 
   "URL": "http://www.moma.org/collection/works/51873", 
   "CuratorApproved": "Y", 
-  "Title": "Richard Nixon", 
-  "DateAcquired": "1998-06-11", 
+  "CreditLine": "Gift of Jane Halsman Bello", 
   "Date": "1967", 
   "ArtistID": 2470, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "366.1998", 
-  "ArtistBio": "American, born Latvia. 1906\u20131979", 
-  "CreditLine": "Gift of Jane Halsman Bello", 
+  "ArtistBio": "(American, born Latvia. 1906\u20131979)", 
+  "DateAcquired": "1998-06-11", 
+  "\ufeffTitle": "Richard Nixon", 
   "ObjectID": "51873"
 }

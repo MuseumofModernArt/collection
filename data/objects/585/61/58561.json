@@ -5,8 +5,7 @@
   "Artist": "Pat Burns/The New York Times", 
   "URL": "http://www.moma.org/collection/works/58561", 
   "CuratorApproved": "Y", 
-  "Title": "World Series: Yankees vs. Dodgers (Rizzuto slides into third)", 
-  "DateAcquired": "2001-06-14", 
+  "CreditLine": "The New York Times Collection", 
   "Date": "October 8, 1949", 
   "ArtistID": 8518, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "1968.2001", 
-  "ArtistBio": "American, 1909\u20131973", 
-  "CreditLine": "The New York Times Collection", 
+  "ArtistBio": "(American, 1909\u20131973)", 
+  "DateAcquired": "2001-06-14", 
+  "\ufeffTitle": "World Series: Yankees vs. Dodgers (Rizzuto slides into third)", 
   "ObjectID": "58561"
 }

@@ -5,8 +5,7 @@
   "Artist": "Kurt Schwitters", 
   "URL": "http://www.moma.org/collection/works/35190", 
   "CuratorApproved": "Y", 
-  "Title": "Merz 458", 
-  "DateAcquired": "1953-04-07", 
+  "CreditLine": "Katherine S. Dreier Bequest", 
   "Date": "(c. 1922)", 
   "ArtistID": 5293, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "193.1953", 
-  "ArtistBio": "German, 1887\u20131948", 
-  "CreditLine": "Katherine S. Dreier Bequest", 
+  "ArtistBio": "(German, 1887\u20131948)", 
+  "DateAcquired": "1953-04-07", 
+  "\ufeffTitle": "Merz 458", 
   "ObjectID": "35190"
 }

@@ -5,8 +5,7 @@
   "Artist": "Henri de Toulouse-Lautrec", 
   "URL": "http://www.moma.org/collection/works/62041", 
   "CuratorApproved": "Y", 
-  "Title": "Divan Japonais", 
-  "DateAcquired": "1949-03-24", 
+  "CreditLine": "Abby Aldrich Rockefeller Fund", 
   "Date": "1893", 
   "ArtistID": 5910, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "97.1949", 
-  "ArtistBio": "French, 1864\u20131901", 
-  "CreditLine": "Abby Aldrich Rockefeller Fund", 
+  "ArtistBio": "(French, 1864\u20131901)", 
+  "DateAcquired": "1949-03-24", 
+  "\ufeffTitle": "Divan Japonais", 
   "ObjectID": "62041"
 }

@@ -5,8 +5,7 @@
   "Artist": "Walter Diethelm", 
   "URL": "http://www.moma.org/collection/works/8754", 
   "CuratorApproved": "Y", 
-  "Title": "Helmhaus Z\u00fcrich", 
-  "DateAcquired": "2000-12-11", 
+  "CreditLine": "Gift of the designer", 
   "Date": "After 1954", 
   "ArtistID": 8272, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "1455.2000", 
-  "ArtistBio": "Swiss, 1913\u20131986", 
-  "CreditLine": "Gift of the designer", 
+  "ArtistBio": "(Swiss, 1913\u20131986)", 
+  "DateAcquired": "2000-12-11", 
+  "\ufeffTitle": "Helmhaus Z\u00fcrich", 
   "ObjectID": "8754"
 }

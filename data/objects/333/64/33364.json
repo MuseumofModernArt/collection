@@ -5,8 +5,7 @@
   "Artist": "Aleksandr Rodchenko", 
   "URL": "http://www.moma.org/collection/works/33364", 
   "CuratorApproved": "Y", 
-  "Title": "Composition", 
-  "DateAcquired": "1936-03-12", 
+  "CreditLine": "Gift of the artist", 
   "Date": "1918", 
   "ArtistID": 4975, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "28.1936", 
-  "ArtistBio": "Russian, 1891\u20131956", 
-  "CreditLine": "Gift of the artist", 
+  "ArtistBio": "(Russian, 1891\u20131956)", 
+  "DateAcquired": "1936-03-12", 
+  "\ufeffTitle": "Composition", 
   "ObjectID": "33364"
 }

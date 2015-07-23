@@ -1,12 +1,11 @@
 {
   "Medium": "Portfolio of 4 etchings", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "Frank Moore", 
   "URL": "http://www.moma.org/collection/works/64857", 
   "CuratorApproved": "Y", 
-  "Title": "Vital Signs", 
-  "DateAcquired": "1997-05-28", 
+  "CreditLine": "Reba and Dave Williams Fund", 
   "Date": "(1997)", 
   "ArtistID": 4070, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "231.1997.1-4", 
-  "ArtistBio": "American, 1953\u20132002", 
-  "CreditLine": "Reba and Dave Williams Fund", 
+  "ArtistBio": "(American, 1953\u20132002)", 
+  "DateAcquired": "1997-05-28", 
+  "\ufeffTitle": "Vital Signs", 
   "ObjectID": "64857"
 }

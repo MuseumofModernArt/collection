@@ -5,8 +5,7 @@
   "Artist": "Lisette Model", 
   "URL": "http://www.moma.org/collection/works/57227", 
   "CuratorApproved": "Y", 
-  "Title": "Sculpture, Museo Romano", 
-  "DateAcquired": "1965-11-09", 
+  "CreditLine": "Gift of the photographer", 
   "Date": "1953", 
   "ArtistID": 4036, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "876.1965", 
-  "ArtistBio": "American, born Austria. 1901\u20131983", 
-  "CreditLine": "Gift of the photographer", 
+  "ArtistBio": "(American, born Austria. 1901\u20131983)", 
+  "DateAcquired": "1965-11-09", 
+  "\ufeffTitle": "Sculpture, Museo Romano", 
   "ObjectID": "57227"
 }

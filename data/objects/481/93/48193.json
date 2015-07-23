@@ -5,8 +5,7 @@
   "Artist": "Valery Shchekoldin", 
   "URL": "http://www.moma.org/collection/works/48193", 
   "CuratorApproved": "Y", 
-  "Title": "Moscow", 
-  "DateAcquired": "1992-04-02", 
+  "CreditLine": "The Family of Man Fund", 
   "Date": "1980", 
   "ArtistID": 7014, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "193.1992", 
-  "ArtistBio": "Russian, born 1946", 
-  "CreditLine": "The Family of Man Fund", 
+  "ArtistBio": "(Russian, born 1946)", 
+  "DateAcquired": "1992-04-02", 
+  "\ufeffTitle": "Moscow", 
   "ObjectID": "48193"
 }

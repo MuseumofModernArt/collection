@@ -5,8 +5,7 @@
   "Artist": "Pietro Consagra", 
   "URL": "http://www.moma.org/collection/works/60557", 
   "CuratorApproved": "Y", 
-  "Title": "So Many Gardens for Us", 
-  "DateAcquired": "1968-02-05", 
+  "CreditLine": "John S. Newberry Fund", 
   "Date": "1966", 
   "ArtistID": 1221, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "34.1968", 
-  "ArtistBio": "Italian, 1920\u20132005", 
-  "CreditLine": "John S. Newberry Fund", 
+  "ArtistBio": "(Italian, 1920\u20132005)", 
+  "DateAcquired": "1968-02-05", 
+  "\ufeffTitle": "So Many Gardens for Us", 
   "ObjectID": "60557"
 }

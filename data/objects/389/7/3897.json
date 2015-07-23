@@ -5,8 +5,7 @@
   "Artist": "Emile Gall\u00e9", 
   "URL": "http://www.moma.org/collection/works/3897", 
   "CuratorApproved": "Y", 
-  "Title": "Vase", 
-  "DateAcquired": "1956-10-25", 
+  "CreditLine": "Department Purchase", 
   "Date": "c. 1900", 
   "ArtistID": 2058, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "463.1956", 
-  "ArtistBio": "French, 1846\u20131904", 
-  "CreditLine": "Department Purchase", 
+  "ArtistBio": "(French, 1846\u20131904)", 
+  "DateAcquired": "1956-10-25", 
+  "\ufeffTitle": "Vase", 
   "ObjectID": "3897"
 }

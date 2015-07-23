@@ -5,8 +5,7 @@
   "Artist": "Foster Associates", 
   "URL": "http://www.moma.org/collection/works/978", 
   "CuratorApproved": "Y", 
-  "Title": "Offices for Willis Faber & Dumas Ltd., Ipswich, England", 
-  "DateAcquired": "1984-10-30", 
+  "CreditLine": "Gift of the architects", 
   "Date": "1970-75", 
   "ArtistID": 1953, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "123.1984", 
-  "ArtistBio": "British, founded 1967", 
-  "CreditLine": "Gift of the architects", 
+  "ArtistBio": "(British, founded 1967)", 
+  "DateAcquired": "1984-10-30", 
+  "\ufeffTitle": "Offices for Willis Faber & Dumas Ltd., Ipswich, England", 
   "ObjectID": "978"
 }

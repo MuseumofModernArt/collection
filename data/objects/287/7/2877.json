@@ -5,8 +5,7 @@
   "Artist": "John Barnard", 
   "URL": "http://www.moma.org/collection/works/2877", 
   "CuratorApproved": "Y", 
-  "Title": "Sketch for body joints of Formula 1 car, Model #639", 
-  "DateAcquired": "1994-05-03", 
+  "CreditLine": "Gift of the designer", 
   "Date": "1987", 
   "ArtistID": 7275, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "231.1994", 
-  "ArtistBio": "British, born 1946", 
-  "CreditLine": "Gift of the designer", 
+  "ArtistBio": "(British, born 1946)", 
+  "DateAcquired": "1994-05-03", 
+  "\ufeffTitle": "Sketch for body joints of Formula 1 car, Model #639", 
   "ObjectID": "2877"
 }

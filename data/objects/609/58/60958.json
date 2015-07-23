@@ -5,8 +5,7 @@
   "Artist": "Jannis Kounellis", 
   "URL": "http://www.moma.org/collection/works/60958", 
   "CuratorApproved": "Y", 
-  "Title": "UNTITLED (FINESTRA) (Untitled (Window))", 
-  "DateAcquired": "1999-03-04", 
+  "CreditLine": "Gift of Gabriella De Ferrari", 
   "Date": "(1985)", 
   "ArtistID": 3230, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "51.1999", 
-  "ArtistBio": "Greek, born 1936", 
-  "CreditLine": "Gift of Gabriella De Ferrari", 
+  "ArtistBio": "(Greek, born 1936)", 
+  "DateAcquired": "1999-03-04", 
+  "\ufeffTitle": "Untitled (Finestra) (Untitled (Window))", 
   "ObjectID": "60958"
 }

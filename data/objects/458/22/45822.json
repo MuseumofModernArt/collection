@@ -5,8 +5,7 @@
   "Artist": "Clarence H. White", 
   "URL": "http://www.moma.org/collection/works/45822", 
   "CuratorApproved": "Y", 
-  "Title": "The Brothers", 
-  "DateAcquired": "1975-02-12", 
+  "CreditLine": "Gift of Mr. and Mrs. Clarence H. White, Jr., 1972", 
   "Date": "c. 1905", 
   "ArtistID": 6338, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "80.1975", 
-  "ArtistBio": "American, 1871\u20131925", 
-  "CreditLine": "Gift of Mr. and Mrs. Clarence H. White, Jr., 1972", 
+  "ArtistBio": "(American, 1871\u20131925)", 
+  "DateAcquired": "1975-02-12", 
+  "\ufeffTitle": "The Brothers", 
   "ObjectID": "45822"
 }

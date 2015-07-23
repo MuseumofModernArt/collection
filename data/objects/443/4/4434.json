@@ -5,8 +5,7 @@
   "Artist": "Lino Sabattini", 
   "URL": "http://www.moma.org/collection/works/4434", 
   "CuratorApproved": "Y", 
-  "Title": "Boule Teapot", 
-  "DateAcquired": "1983-11-30", 
+  "CreditLine": "Gift of the designer", 
   "Date": "1950", 
   "ArtistID": 5105, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "740.1983", 
-  "ArtistBio": "Italian, born 1925", 
-  "CreditLine": "Gift of the designer", 
+  "ArtistBio": "(Italian, born 1925)", 
+  "DateAcquired": "1983-11-30", 
+  "\ufeffTitle": "Boule Teapot", 
   "ObjectID": "4434"
 }

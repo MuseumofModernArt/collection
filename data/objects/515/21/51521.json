@@ -5,8 +5,7 @@
   "Artist": "Weegee (Arthur Fellig)", 
   "URL": "http://www.moma.org/collection/works/51521", 
   "CuratorApproved": "Y", 
-  "Title": "Harry Maxwell Shot in Car", 
-  "DateAcquired": "1981-10-15", 
+  "CreditLine": "Gift of the photographer", 
   "Date": "1941", 
   "ArtistID": 1842, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "352.1981", 
-  "ArtistBio": "American, born Austria. 1899\u20131968", 
-  "CreditLine": "Gift of the photographer", 
+  "ArtistBio": "(American, born Austria. 1899\u20131968)", 
+  "DateAcquired": "1981-10-15", 
+  "\ufeffTitle": "Harry Maxwell Shot in Car", 
   "ObjectID": "51521"
 }

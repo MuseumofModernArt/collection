@@ -5,8 +5,7 @@
   "Artist": "Larry Fink", 
   "URL": "http://www.moma.org/collection/works/49911", 
   "CuratorApproved": "Y", 
-  "Title": "Mother and Maggie Kuhn", 
-  "DateAcquired": "1996-06-13", 
+  "CreditLine": "Gift of Pauline Marks", 
   "Date": "1991", 
   "ArtistID": 1877, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "279.1996", 
-  "ArtistBio": "American, born 1941", 
-  "CreditLine": "Gift of Pauline Marks", 
+  "ArtistBio": "(American, born 1941)", 
+  "DateAcquired": "1996-06-13", 
+  "\ufeffTitle": "Mother and Maggie Kuhn", 
   "ObjectID": "49911"
 }

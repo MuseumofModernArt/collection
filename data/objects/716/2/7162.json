@@ -5,8 +5,7 @@
   "Artist": "Ernst Deutsch", 
   "URL": "http://www.moma.org/collection/works/7162", 
   "CuratorApproved": "Y", 
-  "Title": "Salamander", 
-  "DateAcquired": "1987-11-18", 
+  "CreditLine": "Gift of The Lauder Foundation, Leonard and Evelyn Lauder Fund", 
   "Date": "1912", 
   "ArtistID": 1517, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "473.1987", 
-  "ArtistBio": "Austrian, 1883\u20131938", 
-  "CreditLine": "Gift of The Lauder Foundation, Leonard and Evelyn Lauder Fund", 
+  "ArtistBio": "(Austrian, 1883\u20131938)", 
+  "DateAcquired": "1987-11-18", 
+  "\ufeffTitle": "Salamander", 
   "ObjectID": "7162"
 }

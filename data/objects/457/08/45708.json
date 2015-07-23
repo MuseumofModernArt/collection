@@ -5,8 +5,7 @@
   "Artist": "Jeffrey Silverthorne", 
   "URL": "http://www.moma.org/collection/works/45708", 
   "CuratorApproved": "Y", 
-  "Title": "Girl with Mask", 
-  "DateAcquired": "1970-03-04", 
+  "CreditLine": "Purchase", 
   "Date": "Early 1969", 
   "ArtistID": 5436, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "75.1970", 
-  "ArtistBio": "American, born 1946", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, born 1946)", 
+  "DateAcquired": "1970-03-04", 
+  "\ufeffTitle": "Girl with Mask", 
   "ObjectID": "45708"
 }

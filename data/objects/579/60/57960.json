@@ -5,8 +5,7 @@
   "Artist": "Henri Cartier-Bresson", 
   "URL": "http://www.moma.org/collection/works/57960", 
   "CuratorApproved": "Y", 
-  "Title": "Listening to a Soap-Box Orator, Hyde Park, London", 
-  "DateAcquired": "1969-01-08", 
+  "CreditLine": "Gift of the photographer", 
   "Date": "1945", 
   "ArtistID": 1000, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "1237.1969", 
-  "ArtistBio": "French, 1908\u20132004", 
-  "CreditLine": "Gift of the photographer", 
+  "ArtistBio": "(French, 1908\u20132004)", 
+  "DateAcquired": "1969-01-08", 
+  "\ufeffTitle": "Listening to a Soap-Box Orator, Hyde Park, London", 
   "ObjectID": "57960"
 }

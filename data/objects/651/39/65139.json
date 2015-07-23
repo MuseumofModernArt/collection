@@ -5,8 +5,7 @@
   "Artist": "Alphonse Mucha", 
   "URL": "http://www.moma.org/collection/works/65139", 
   "CuratorApproved": "Y", 
-  "Title": "Exhibition Poster", 
-  "DateAcquired": "1963-04-09", 
+  "CreditLine": "Gift of Lucien Goldschmidt", 
   "Date": "1898", 
   "ArtistID": 4136, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "246.1963", 
-  "ArtistBio": "Czech, born Moravia (then Austria). 1860\u20131939", 
-  "CreditLine": "Gift of Lucien Goldschmidt", 
+  "ArtistBio": "(Czech, born Moravia (then Austria). 1860\u20131939)", 
+  "DateAcquired": "1963-04-09", 
+  "\ufeffTitle": "Exhibition Poster", 
   "ObjectID": "65139"
 }

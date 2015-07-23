@@ -5,8 +5,7 @@
   "Artist": "Barnett Newman", 
   "URL": "http://www.moma.org/collection/works/60532", 
   "CuratorApproved": "Y", 
-  "Title": "Note II from Notes", 
-  "DateAcquired": "1979-01-23", 
+  "CreditLine": "Gift of Celeste Bartos", 
   "Date": "1968", 
   "ArtistID": 4285, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "33.1979.2", 
-  "ArtistBio": "American, 1905\u20131970", 
-  "CreditLine": "Gift of Celeste Bartos", 
+  "ArtistBio": "(American, 1905\u20131970)", 
+  "DateAcquired": "1979-01-23", 
+  "\ufeffTitle": "Note II from Notes", 
   "ObjectID": "60532"
 }

@@ -1,12 +1,11 @@
 {
   "Medium": "Four gelatin silver prints", 
-  "Dimensions": "Overall 10 13/16 x 2 3/16\" (27.5 x 5.6 cm)  Each 2 1/4 x 2 3/16\" (5.7 x 5.6 cm)", 
+  "Dimensions": "Overall 10 13/16 x 2 3/16\" (27.5 x 5.6 cm)\r\nEach 2 1/4 x 2 3/16\" (5.7 x 5.6 cm)", 
   "Classification": "Photograph", 
   "Artist": "Harry Callahan", 
   "URL": "http://www.moma.org/collection/works/52122", 
   "CuratorApproved": "Y", 
-  "Title": "Reeds", 
-  "DateAcquired": "1997-01-09", 
+  "CreditLine": "Bequest of Grace M. Mayer", 
   "Date": "1948", 
   "ArtistID": 924, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "377.1997.a-d", 
-  "ArtistBio": "American, 1912\u20131999", 
-  "CreditLine": "Bequest of Grace M. Mayer", 
+  "ArtistBio": "(American, 1912\u20131999)", 
+  "DateAcquired": "1997-01-09", 
+  "\ufeffTitle": "Reeds", 
   "ObjectID": "52122"
 }

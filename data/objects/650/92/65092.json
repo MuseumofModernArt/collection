@@ -5,8 +5,7 @@
   "Artist": "Georg Kolbe", 
   "URL": "http://www.moma.org/collection/works/65092", 
   "CuratorApproved": "Y", 
-  "Title": "Call of the Earth", 
-  "DateAcquired": "1935-11-12", 
+  "CreditLine": "Gift of Abby Aldrich Rockefeller", 
   "Date": "(1933)", 
   "ArtistID": 3199, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "244.1935", 
-  "ArtistBio": "German, 1877\u20131947", 
-  "CreditLine": "Gift of Abby Aldrich Rockefeller", 
+  "ArtistBio": "(German, 1877\u20131947)", 
+  "DateAcquired": "1935-11-12", 
+  "\ufeffTitle": "Call of the Earth (Ruf der Erde)", 
   "ObjectID": "65092"
 }

@@ -5,8 +5,7 @@
   "Artist": "Kurt Seligmann", 
   "URL": "http://www.moma.org/collection/works/60788", 
   "CuratorApproved": "Y", 
-  "Title": "Meditation", 
-  "DateAcquired": "1961-01-10", 
+  "CreditLine": "John B. Turner Fund", 
   "Date": "1950", 
   "ArtistID": 5337, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "43.1961", 
-  "ArtistBio": "American, 1900\u20131962", 
-  "CreditLine": "John B. Turner Fund", 
+  "ArtistBio": "(American, 1900\u20131962)", 
+  "DateAcquired": "1961-01-10", 
+  "\ufeffTitle": "Meditation", 
   "ObjectID": "60788"
 }

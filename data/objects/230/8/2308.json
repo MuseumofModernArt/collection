@@ -1,12 +1,11 @@
 {
   "Medium": "Painted steel and wood handle", 
-  "Dimensions": "27 13/16 x 6 3/8 x 1\" (70.6 x 16.2 x 2.5 cm)  Head: 4 x 6 3/8 x 1\" (10.2 x 16.2 x 2.5 cm)", 
+  "Dimensions": "27 13/16 x 6 3/8 x 1\" (70.6 x 16.2 x 2.5 cm)\r\nHead: 4 x 6 3/8 x 1\" (10.2 x 16.2 x 2.5 cm)", 
   "Classification": "A&D Design", 
   "Artist": "Collins Tools", 
   "URL": "http://www.moma.org/collection/works/2308", 
   "CuratorApproved": "Y", 
-  "Title": "Ax", 
-  "DateAcquired": "1947-06-17", 
+  "CreditLine": "Gift of Abercrombie & Fitch", 
   "Date": "c. 1945", 
   "Keywords": [
     "online art collection", 
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "159.1947", 
-  "ArtistBio": "American, founded 1826", 
-  "CreditLine": "Gift of Abercrombie & Fitch", 
+  "ArtistBio": "(American, founded 1826)", 
+  "DateAcquired": "1947-06-17", 
+  "\ufeffTitle": "Ax", 
   "ObjectID": "2308"
 }

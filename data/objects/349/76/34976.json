@@ -5,8 +5,7 @@
   "Artist": "Rene Portocarrero", 
   "URL": "http://www.moma.org/collection/works/34976", 
   "CuratorApproved": "Y", 
-  "Title": "Mythological Personage", 
-  "DateAcquired": "1945-12-17", 
+  "CreditLine": "Inter-American Fund", 
   "Date": "1945", 
   "ArtistID": 8514, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "166.1945", 
-  "ArtistBio": "Cuban, 1914\u20131985", 
-  "CreditLine": "Inter-American Fund", 
+  "ArtistBio": "(Cuban, 1914\u20131985)", 
+  "DateAcquired": "1945-12-17", 
+  "\ufeffTitle": "Mythological Personage", 
   "ObjectID": "34976"
 }

@@ -5,8 +5,7 @@
   "Artist": "Frank Stella", 
   "URL": "http://www.moma.org/collection/works/62336", 
   "CuratorApproved": "Y", 
-  "Title": "Double Gray Scramble", 
-  "DateAcquired": "1998-03-05", 
+  "CreditLine": "The Associates Fund", 
   "Date": "1973", 
   "ArtistID": 5640, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "126.1998", 
-  "ArtistBio": "American, born 1936", 
-  "CreditLine": "The Associates Fund", 
+  "ArtistBio": "(American, born 1936)", 
+  "DateAcquired": "1998-03-05", 
+  "\ufeffTitle": "Double Gray Scramble", 
   "ObjectID": "62336"
 }

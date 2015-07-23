@@ -5,8 +5,7 @@
   "Artist": "Nick Roericht", 
   "URL": "http://www.moma.org/collection/works/3563", 
   "CuratorApproved": "Y", 
-  "Title": "Stacking Tableware (model TC 100) Soup Bowl", 
-  "DateAcquired": "1964-04-14", 
+  "CreditLine": "Greta Daniel Design Fund", 
   "Date": "1959", 
   "ArtistID": 4988, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "428.1964.8", 
-  "ArtistBio": "German, born 1932", 
-  "CreditLine": "Greta Daniel Design Fund", 
+  "ArtistBio": "(German, born 1932)", 
+  "DateAcquired": "1964-04-14", 
+  "\ufeffTitle": "Stacking Tableware (model TC 100) Soup Bowl", 
   "ObjectID": "3563"
 }

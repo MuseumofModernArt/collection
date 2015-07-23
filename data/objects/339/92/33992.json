@@ -5,8 +5,7 @@
   "Artist": "Vasily Kandinsky", 
   "URL": "http://www.moma.org/collection/works/33992", 
   "CuratorApproved": "Y", 
-  "Title": "The Horseman", 
-  "DateAcquired": "1978-04-04", 
+  "CreditLine": "The Joan and Lester Avnet Collection", 
   "Date": "1916", 
   "ArtistID": 2981, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "106.1978", 
-  "ArtistBio": "French, born Russia. 1866\u20131944", 
-  "CreditLine": "The Joan and Lester Avnet Collection", 
+  "ArtistBio": "(French, born Russia. 1866\u20131944)", 
+  "DateAcquired": "1978-04-04", 
+  "\ufeffTitle": "The Horseman (Reiter)", 
   "ObjectID": "33992"
 }

@@ -5,8 +5,7 @@
   "Artist": "Gordon Parks", 
   "URL": "http://www.moma.org/collection/works/50941", 
   "CuratorApproved": "Y", 
-  "Title": "Muslim Rally", 
-  "DateAcquired": "1993-10-14", 
+  "CreditLine": "Gift of the photographer in honor of Edward Steichen", 
   "Date": "1963", 
   "ArtistID": 8083, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "329.1993", 
-  "ArtistBio": "American, 1912\u20132006", 
-  "CreditLine": "Gift of the photographer in honor of Edward Steichen", 
+  "ArtistBio": "(American, 1912\u20132006)", 
+  "DateAcquired": "1993-10-14", 
+  "\ufeffTitle": "Muslim Rally", 
   "ObjectID": "50941"
 }

@@ -5,8 +5,7 @@
   "Artist": "Candice Lenney", 
   "URL": "http://www.moma.org/collection/works/57537", 
   "CuratorApproved": "Y", 
-  "Title": "Orlando's Dance", 
-  "DateAcquired": "1979-10-11", 
+  "CreditLine": "The Family of Man Fund", 
   "Date": "December 1977", 
   "ArtistID": 3483, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "1018.1979", 
-  "ArtistBio": "American, born 1949", 
-  "CreditLine": "The Family of Man Fund", 
+  "ArtistBio": "(American, born 1949)", 
+  "DateAcquired": "1979-10-11", 
+  "\ufeffTitle": "Orlando's Dance", 
   "ObjectID": "57537"
 }

@@ -5,8 +5,7 @@
   "Artist": "Helen Frankenthaler", 
   "URL": "http://www.moma.org/collection/works/64810", 
   "CuratorApproved": "Y", 
-  "Title": "Venice II", 
-  "DateAcquired": "1972-05-08", 
+  "CreditLine": "Gift of Celeste Bartos", 
   "Date": "1969-72", 
   "ArtistID": 1974, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "230.1972", 
-  "ArtistBio": "American, 1928\u20132011", 
-  "CreditLine": "Gift of Celeste Bartos", 
+  "ArtistBio": "(American, 1928\u20132011)", 
+  "DateAcquired": "1972-05-08", 
+  "\ufeffTitle": "Venice II", 
   "ObjectID": "64810"
 }

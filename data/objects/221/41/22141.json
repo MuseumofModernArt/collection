@@ -5,8 +5,7 @@
   "Artist": "Kiki Smith", 
   "URL": "http://www.moma.org/collection/works/22141", 
   "CuratorApproved": "Y", 
-  "Title": "Re", 
-  "DateAcquired": "1996-11-12", 
+  "CreditLine": "Walter Bareiss Fund", 
   "Date": "1994", 
   "ArtistID": 5486, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "718.1996", 
-  "ArtistBio": "American, born Germany 1954", 
-  "CreditLine": "Walter Bareiss Fund", 
+  "ArtistBio": "(American, born Germany 1954)", 
+  "DateAcquired": "1996-11-12", 
+  "\ufeffTitle": "Re. With adapted translation of the Papyrus Bremner-Rhind", 
   "ObjectID": "22141"
 }

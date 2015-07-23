@@ -5,8 +5,7 @@
   "Artist": "Dr. John McArthur", 
   "URL": "http://www.moma.org/collection/works/3520", 
   "CuratorApproved": "Y", 
-  "Title": "Microscope", 
-  "DateAcquired": "1972-12-05", 
+  "CreditLine": "Gift of the manufacturer", 
   "Date": "1971", 
   "ArtistID": 3867, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "416.1972", 
-  "ArtistBio": "British, 1901\u20131996", 
-  "CreditLine": "Gift of the manufacturer", 
+  "ArtistBio": "(British, 1901\u20131996)", 
+  "DateAcquired": "1972-12-05", 
+  "\ufeffTitle": "Microscope", 
   "ObjectID": "3520"
 }

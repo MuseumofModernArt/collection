@@ -5,8 +5,7 @@
   "Artist": "\u00c9douard Pignon", 
   "URL": "http://www.moma.org/collection/works/35818", 
   "CuratorApproved": "Y", 
-  "Title": "Ostend", 
-  "DateAcquired": "1948-10-06", 
+  "CreditLine": "Mrs. Cornelius J. Sullivan Fund", 
   "Date": "1948", 
   "ArtistID": 4620, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "270.1948", 
-  "ArtistBio": "French, 1905\u20131993", 
-  "CreditLine": "Mrs. Cornelius J. Sullivan Fund", 
+  "ArtistBio": "(French, 1905\u20131993)", 
+  "DateAcquired": "1948-10-06", 
+  "\ufeffTitle": "Ostend", 
   "ObjectID": "35818"
 }

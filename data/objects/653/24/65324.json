@@ -5,8 +5,7 @@
   "Artist": "Jorge de la Vega", 
   "URL": "http://www.moma.org/collection/works/65324", 
   "CuratorApproved": "Y", 
-  "Title": "Our Neighbors (Nuestros Vecinos)", 
-  "DateAcquired": "1967-04-11", 
+  "CreditLine": "Inter-American Fund", 
   "Date": "1966", 
   "ArtistID": 6120, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "254.1967", 
-  "ArtistBio": "Argentine, 1930\u20131971", 
-  "CreditLine": "Inter-American Fund", 
+  "ArtistBio": "(Argentine, 1930\u20131971)", 
+  "DateAcquired": "1967-04-11", 
+  "\ufeffTitle": "Our Neighbors (Nuestros Vecinos)", 
   "ObjectID": "65324"
 }

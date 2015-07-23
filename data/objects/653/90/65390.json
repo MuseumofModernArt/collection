@@ -1,12 +1,11 @@
 {
   "Medium": "Line block", 
-  "Dimensions": "Composition (irreg.): 9 13/16 x 17 1/4\" (24.9 x 43.8 cm)  Sheet: 15 3/4 x 20 1/16\" (40 x 50.9 cm)", 
+  "Dimensions": "Composition (irreg.): 9 13/16 x 17 1/4\" (24.9 x 43.8 cm)\r\nSheet: 15 3/4 x 20 1/16\" (40 x 50.9 cm)", 
   "Classification": "Print", 
   "Artist": "Peter Halley", 
   "URL": "http://www.moma.org/collection/works/65390", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled from the portfolio A Tour of the Monuments of Passaic, New Jersey", 
-  "DateAcquired": "1989-10-12", 
+  "CreditLine": "Gift of Edition Schellmann, Munich and New York", 
   "Date": "1989", 
   "ArtistID": 2467, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "257.1989", 
-  "ArtistBio": "American, born 1953", 
-  "CreditLine": "Gift of Edition Schellmann, Munich and New York", 
+  "ArtistBio": "(American, born 1953)", 
+  "DateAcquired": "1989-10-12", 
+  "\ufeffTitle": "Untitled from the portfolio A Tour of the Monuments of Passaic, New Jersey", 
   "ObjectID": "65390"
 }

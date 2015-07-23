@@ -5,8 +5,7 @@
   "Artist": "John Walker", 
   "URL": "http://www.moma.org/collection/works/36453", 
   "CuratorApproved": "Y", 
-  "Title": "Form as Hook", 
-  "DateAcquired": "1989-11-21", 
+  "CreditLine": "Purchase", 
   "Date": "1985-87", 
   "ArtistID": 6220, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "334.1989", 
-  "ArtistBio": "British, born 1939", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(British, born 1939)", 
+  "DateAcquired": "1989-11-21", 
+  "\ufeffTitle": "Form as Hook", 
   "ObjectID": "36453"
 }

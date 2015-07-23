@@ -5,8 +5,7 @@
   "Artist": "Robert Indiana", 
   "URL": "http://www.moma.org/collection/works/68726", 
   "CuratorApproved": "Y", 
-  "Title": "LOVE", 
-  "DateAcquired": "1990-10-23", 
+  "CreditLine": "Riva Castleman Fund", 
   "Date": "1967", 
   "ArtistID": 2812, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "415.1990", 
-  "ArtistBio": "American, born 1928", 
-  "CreditLine": "Riva Castleman Fund", 
+  "ArtistBio": "(American, born 1928)", 
+  "DateAcquired": "1990-10-23", 
+  "\ufeffTitle": "LOVE", 
   "ObjectID": "68726"
 }

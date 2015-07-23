@@ -5,8 +5,7 @@
   "Artist": "Willem Jacob Henri Berend Sandberg", 
   "URL": "http://www.moma.org/collection/works/6407", 
   "CuratorApproved": "Y", 
-  "Title": "Paul Klee, Stedelijk Museum Amsterdam", 
-  "DateAcquired": "1957-12-04", 
+  "CreditLine": "Gift of the Stedelijk Museum, Amsterdam", 
   "Date": "1957", 
   "ArtistID": 5144, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "345.1957", 
-  "ArtistBio": "Dutch, 1897\u20131984", 
-  "CreditLine": "Gift of the Stedelijk Museum, Amsterdam", 
+  "ArtistBio": "(Dutch, 1897\u20131984)", 
+  "DateAcquired": "1957-12-04", 
+  "\ufeffTitle": "Paul Klee, Stedelijk Museum Amsterdam", 
   "ObjectID": "6407"
 }

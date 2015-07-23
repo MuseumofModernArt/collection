@@ -5,8 +5,7 @@
   "Artist": "William T. Wiley", 
   "URL": "http://www.moma.org/collection/works/38071", 
   "CuratorApproved": "Y", 
-  "Title": "Self-Portrait in New York", 
-  "DateAcquired": "1978-10-27", 
+  "CreditLine": "Gift of the artist", 
   "Date": "1976", 
   "ArtistID": 6370, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "785.1978", 
-  "ArtistBio": "American, born 1937", 
-  "CreditLine": "Gift of the artist", 
+  "ArtistBio": "(American, born 1937)", 
+  "DateAcquired": "1978-10-27", 
+  "\ufeffTitle": "Self-Portrait in New York", 
   "ObjectID": "38071"
 }

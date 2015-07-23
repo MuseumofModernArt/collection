@@ -5,8 +5,7 @@
   "Artist": "Jos\u00e9 Urbach", 
   "URL": "http://www.moma.org/collection/works/69419", 
   "CuratorApproved": "Y", 
-  "Title": "Fractions 3", 
-  "DateAcquired": "1977-11-10", 
+  "CreditLine": "Latin American Fund", 
   "Date": "1977", 
   "ArtistID": 6035, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "457.1977", 
-  "ArtistBio": "American, born 1940", 
-  "CreditLine": "Latin American Fund", 
+  "ArtistBio": "(American, born 1940)", 
+  "DateAcquired": "1977-11-10", 
+  "\ufeffTitle": "Fractions 3", 
   "ObjectID": "69419"
 }

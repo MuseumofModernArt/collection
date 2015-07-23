@@ -5,8 +5,7 @@
   "Artist": "Florence Henri", 
   "URL": "http://www.moma.org/collection/works/44063", 
   "CuratorApproved": "Y", 
-  "Title": "Palais de l'Air, Paris World's Fair", 
-  "DateAcquired": "1992-01-09", 
+  "CreditLine": "Gift of Paul F. Walter", 
   "Date": "1937", 
   "ArtistID": 2595, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "20.1992", 
-  "ArtistBio": "Swiss, born America. 1893\u20131982", 
-  "CreditLine": "Gift of Paul F. Walter", 
+  "ArtistBio": "(Swiss, born America. 1893\u20131982)", 
+  "DateAcquired": "1992-01-09", 
+  "\ufeffTitle": "Palais de l'Air, Paris World's Fair", 
   "ObjectID": "44063"
 }

@@ -5,8 +5,7 @@
   "Artist": "Paul Klee", 
   "URL": "http://www.moma.org/collection/works/34187", 
   "CuratorApproved": "Y", 
-  "Title": "Christian Sectarian", 
-  "DateAcquired": "1944-06-08", 
+  "CreditLine": "James Thrall Soby Fund", 
   "Date": "1920", 
   "ArtistID": 3130, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "121.1944", 
-  "ArtistBio": "German, born Switzerland. 1879\u20131940", 
-  "CreditLine": "James Thrall Soby Fund", 
+  "ArtistBio": "(German, born Switzerland. 1879\u20131940)", 
+  "DateAcquired": "1944-06-08", 
+  "\ufeffTitle": "Christian Sectarian (Christlicher Sectierer)", 
   "ObjectID": "34187"
 }

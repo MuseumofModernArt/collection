@@ -5,8 +5,7 @@
   "Artist": "Frederick Sommer", 
   "URL": "http://www.moma.org/collection/works/56252", 
   "CuratorApproved": "Y", 
-  "Title": "Petrified Forest National Monument, Arizona", 
-  "DateAcquired": "1941-12-10", 
+  "CreditLine": "Purchase", 
   "Date": "1940", 
   "ArtistID": 5520, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "713.1941", 
-  "ArtistBio": "American, born Italy. 1905\u20131999", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, born Italy. 1905\u20131999)", 
+  "DateAcquired": "1941-12-10", 
+  "\ufeffTitle": "Petrified Forest National Monument, Arizona", 
   "ObjectID": "56252"
 }

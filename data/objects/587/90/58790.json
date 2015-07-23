@@ -5,8 +5,7 @@
   "Artist": "Underwood and Underwood", 
   "URL": "http://www.moma.org/collection/works/58790", 
   "CuratorApproved": "Y", 
-  "Title": "Photographing from the Blackwell's Island Bridge", 
-  "DateAcquired": "2001-06-14", 
+  "CreditLine": "The New York Times Collection", 
   "Date": "c. 1910", 
   "ArtistID": 6008, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "2197.2001", 
-  "ArtistBio": "American, active 1880\u20131934", 
-  "CreditLine": "The New York Times Collection", 
+  "ArtistBio": "(American, active 1880\u20131934)", 
+  "DateAcquired": "2001-06-14", 
+  "\ufeffTitle": "Photographing from the Blackwell's Island Bridge", 
   "ObjectID": "58790"
 }

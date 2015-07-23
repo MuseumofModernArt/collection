@@ -5,8 +5,7 @@
   "Artist": "Erich Heckel", 
   "URL": "http://www.moma.org/collection/works/60764", 
   "CuratorApproved": "Y", 
-  "Title": "In the Meadow", 
-  "DateAcquired": "1958-02-19", 
+  "CreditLine": "Abby Aldrich Rockefeller Fund (by exchange)", 
   "Date": "1912", 
   "ArtistID": 2569, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "42.1958", 
-  "ArtistBio": "German, 1883\u20131970", 
-  "CreditLine": "Abby Aldrich Rockefeller Fund (by exchange)", 
+  "ArtistBio": "(German, 1883\u20131970)", 
+  "DateAcquired": "1958-02-19", 
+  "\ufeffTitle": "In the Meadow (Auf der Wiese)", 
   "ObjectID": "60764"
 }

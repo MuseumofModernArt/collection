@@ -5,8 +5,7 @@
   "Artist": "Paul Klee", 
   "URL": "http://www.moma.org/collection/works/9043", 
   "CuratorApproved": "Y", 
-  "Title": "Giant Aphid (plate 10) from the illustrated book Deutsche Graphiker der Gegenwart (German Printmakers of Our Time)", 
-  "DateAcquired": "NULL", 
+  "CreditLine": "Purchase", 
   "Date": "1920", 
   "ArtistID": 3130, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "2.1942.7", 
-  "ArtistBio": "German, born Switzerland. 1879\u20131940", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(German, born Switzerland. 1879\u20131940)", 
+  "DateAcquired": "", 
+  "\ufeffTitle": "Giant Aphid (Riesenblattlaus) (plate 10) from the illustrated book Deutsche Graphiker der Gegenwart (German Printmakers of Our Time)", 
   "ObjectID": "9043"
 }

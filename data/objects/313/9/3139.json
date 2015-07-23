@@ -1,12 +1,11 @@
 {
   "Medium": "Glass", 
-  "Dimensions": ".1: 3 x 2 1/4\" (7.6 x 5.7 cm)  .2: 3 3/8 x 3\" (8.6 x 7.6 cm)", 
+  "Dimensions": ".1: 3 x 2 1/4\" (7.6 x 5.7 cm)\r\n.2: 3 3/8 x 3\" (8.6 x 7.6 cm)", 
   "Classification": "A&D Design", 
   "Artist": "Walter Dorwin Teague", 
   "URL": "http://www.moma.org/collection/works/3139", 
   "CuratorApproved": "Y", 
-  "Title": "Cocktail Glasses", 
-  "DateAcquired": "1934-04-01", 
+  "CreditLine": "Gift of the manufacturer", 
   "Date": "Before 1934", 
   "ArtistID": 5824, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "266.1934.1-2", 
-  "ArtistBio": "American, 1883\u20131960", 
-  "CreditLine": "Gift of the manufacturer", 
+  "ArtistBio": "(American, 1883\u20131960)", 
+  "DateAcquired": "1934-04-01", 
+  "\ufeffTitle": "Cocktail Glasses", 
   "ObjectID": "3139"
 }

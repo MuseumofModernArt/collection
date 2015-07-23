@@ -5,8 +5,7 @@
   "Artist": "Marc Chagall", 
   "URL": "http://www.moma.org/collection/works/36854", 
   "CuratorApproved": "Y", 
-  "Title": "Standing Nude", 
-  "DateAcquired": "1975-01-24", 
+  "CreditLine": "Kay Sage Tanguy Bequest (by exchange)", 
   "Date": "(1904)", 
   "ArtistID": 1055, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "428.1975", 
-  "ArtistBio": "French, born Belarus. 1887\u20131985", 
-  "CreditLine": "Kay Sage Tanguy Bequest (by exchange)", 
+  "ArtistBio": "(French, born Belarus. 1887\u20131985)", 
+  "DateAcquired": "1975-01-24", 
+  "\ufeffTitle": "Standing Nude", 
   "ObjectID": "36854"
 }

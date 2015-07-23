@@ -5,8 +5,7 @@
   "Artist": "Patrick D. Pagnano", 
   "URL": "http://www.moma.org/collection/works/48164", 
   "CuratorApproved": "Y", 
-  "Title": "New York City", 
-  "DateAcquired": "1983-01-13", 
+  "CreditLine": "Purchase", 
   "Date": "1979", 
   "ArtistID": 4467, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "193.1983", 
-  "ArtistBio": "American, born 1947", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, born 1947)", 
+  "DateAcquired": "1983-01-13", 
+  "\ufeffTitle": "New York City", 
   "ObjectID": "48164"
 }

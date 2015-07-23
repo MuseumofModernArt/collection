@@ -5,8 +5,7 @@
   "Artist": "Ad Reinhardt", 
   "URL": "http://www.moma.org/collection/works/37020", 
   "CuratorApproved": "Y", 
-  "Title": "Collage", 
-  "DateAcquired": "1967-06-06", 
+  "CreditLine": "Gift of the artist", 
   "Date": "1940", 
   "ArtistID": 4856, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "458.1967", 
-  "ArtistBio": "American, 1913\u20131967", 
-  "CreditLine": "Gift of the artist", 
+  "ArtistBio": "(American, 1913\u20131967)", 
+  "DateAcquired": "1967-06-06", 
+  "\ufeffTitle": "Collage", 
   "ObjectID": "37020"
 }

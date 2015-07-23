@@ -5,8 +5,7 @@
   "Artist": "Paola Ferrario", 
   "URL": "http://www.moma.org/collection/works/52118", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1990-10-11", 
+  "CreditLine": "The Family of Man Fund", 
   "Date": "1988", 
   "ArtistID": 6989, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "377.1990.x1-x2", 
-  "ArtistBio": "Italian, born 1963", 
-  "CreditLine": "The Family of Man Fund", 
+  "ArtistBio": "(Italian, born 1963)", 
+  "DateAcquired": "1990-10-11", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "52118"
 }

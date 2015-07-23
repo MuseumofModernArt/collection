@@ -5,8 +5,7 @@
   "Artist": "Jerome Liebling", 
   "URL": "http://www.moma.org/collection/works/54962", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1963-10-08", 
+  "CreditLine": "Gift of the photographer", 
   "Date": "1960", 
   "ArtistID": 3549, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "546.1963", 
-  "ArtistBio": "American, 1924\u20132011", 
-  "CreditLine": "Gift of the photographer", 
+  "ArtistBio": "(American, 1924\u20132011)", 
+  "DateAcquired": "1963-10-08", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "54962"
 }

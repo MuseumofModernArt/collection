@@ -1,12 +1,11 @@
 {
   "Medium": "Lithograph", 
-  "Dimensions": "irreg. composition  24 5/16 x 22 5/16\" (61.7 x 56.7 cm)  sheet  30 1/8 x 22 5/16\" (76 x 56.7 cm)", 
+  "Dimensions": "irreg. composition  24 5/16 x 22 5/16\" (61.7 x 56.7 cm)\r\nsheet  30 1/8 x 22 5/16\" (76 x 56.7 cm)", 
   "Classification": "Print", 
   "Artist": "Leon Golub", 
   "URL": "http://www.moma.org/collection/works/63605", 
   "CuratorApproved": "Y", 
-  "Title": "Merc", 
-  "DateAcquired": "1988-05-04", 
+  "CreditLine": "Arnold Smoller Fund", 
   "Date": "(1984)", 
   "ArtistID": 2223, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "173.1988", 
-  "ArtistBio": "American, 1922\u20132004", 
-  "CreditLine": "Arnold Smoller Fund", 
+  "ArtistBio": "(American, 1922\u20132004)", 
+  "DateAcquired": "1988-05-04", 
+  "\ufeffTitle": "Merc", 
   "ObjectID": "63605"
 }

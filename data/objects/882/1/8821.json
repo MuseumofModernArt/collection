@@ -5,8 +5,7 @@
   "Artist": "Giovanni Patrone", 
   "URL": "http://www.moma.org/collection/works/8821", 
   "CuratorApproved": "Y", 
-  "Title": "Am\u00e9rique du Nord Express", 
-  "DateAcquired": "2000-12-11", 
+  "CreditLine": "Gift of the designer", 
   "Date": "1934", 
   "ArtistID": 8416, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "1524.2000", 
-  "ArtistBio": "Italian", 
-  "CreditLine": "Gift of the designer", 
+  "ArtistBio": "(Italian)", 
+  "DateAcquired": "2000-12-11", 
+  "\ufeffTitle": "Am\u00e9rique du Nord Express", 
   "ObjectID": "8821"
 }

@@ -5,8 +5,7 @@
   "Artist": "Philippe Starck", 
   "URL": "http://www.moma.org/collection/works/1871", 
   "CuratorApproved": "Y", 
-  "Title": "Mimi Bayou Handle", 
-  "DateAcquired": "2000-01-19", 
+  "CreditLine": "David Whitney Collection, Gift of David Whitney", 
   "Date": "1987", 
   "ArtistID": 8418, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "55.2000.1-3", 
-  "ArtistBio": "French, born 1949", 
-  "CreditLine": "David Whitney Collection, Gift of David Whitney", 
+  "ArtistBio": "(French, born 1949)", 
+  "DateAcquired": "2000-01-19", 
+  "\ufeffTitle": "Mimi Bayou Handle", 
   "ObjectID": "1871"
 }

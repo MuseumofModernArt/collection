@@ -5,8 +5,7 @@
   "Artist": "Mathew B. Brady (studio of)", 
   "URL": "http://www.moma.org/collection/works/51229", 
   "CuratorApproved": "Y", 
-  "Title": "President Lincoln", 
-  "DateAcquired": "1989-12-14", 
+  "CreditLine": "Purchase", 
   "Date": "c. 1862", 
   "ArtistID": 734, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "339.1989", 
-  "ArtistBio": "American, 1823\u20131896", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, 1823\u20131896)", 
+  "DateAcquired": "1989-12-14", 
+  "\ufeffTitle": "President Lincoln", 
   "ObjectID": "51229"
 }

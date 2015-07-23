@@ -5,8 +5,7 @@
   "Artist": "Henri Cartier-Bresson", 
   "URL": "http://www.moma.org/collection/works/49519", 
   "CuratorApproved": "Y", 
-  "Title": "Calle Cuauhtemoctzin, Mexico City", 
-  "DateAcquired": "1985-10-02", 
+  "CreditLine": "Gift of the photographer", 
   "Date": "1934", 
   "ArtistID": 1000, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "249.1985", 
-  "ArtistBio": "French, 1908\u20132004", 
-  "CreditLine": "Gift of the photographer", 
+  "ArtistBio": "(French, 1908\u20132004)", 
+  "DateAcquired": "1985-10-02", 
+  "\ufeffTitle": "Calle Cuauhtemoctzin, Mexico City", 
   "ObjectID": "49519"
 }

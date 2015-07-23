@@ -1,12 +1,11 @@
 {
   "Medium": "Woodcut", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "Mel Chin", 
   "URL": "http://www.moma.org/collection/works/60957", 
   "CuratorApproved": "Y", 
-  "Title": "The Flag of the Agricultural Revolution", 
-  "DateAcquired": "1998-03-05", 
+  "CreditLine": "The Ralph E. Shikes Fund", 
   "Date": "1997", 
   "ArtistID": 7117, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "51.1998", 
-  "ArtistBio": "American, born 1951", 
-  "CreditLine": "The Ralph E. Shikes Fund", 
+  "ArtistBio": "(American, born 1951)", 
+  "DateAcquired": "1998-03-05", 
+  "\ufeffTitle": "The Flag of the Agricultural Revolution", 
   "ObjectID": "60957"
 }

@@ -5,8 +5,7 @@
   "Artist": "Jos\u00e9 Clemente Orozco", 
   "URL": "http://www.moma.org/collection/works/62845", 
   "CuratorApproved": "Y", 
-  "Title": "Head of a Woman", 
-  "DateAcquired": "1954-04-06", 
+  "CreditLine": "Inter-American Fund", 
   "Date": "(1926)", 
   "ArtistID": 4430, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "141.1954", 
-  "ArtistBio": "Mexican, 1883\u20131949", 
-  "CreditLine": "Inter-American Fund", 
+  "ArtistBio": "(Mexican, 1883\u20131949)", 
+  "DateAcquired": "1954-04-06", 
+  "\ufeffTitle": "Head of a Woman", 
   "ObjectID": "62845"
 }

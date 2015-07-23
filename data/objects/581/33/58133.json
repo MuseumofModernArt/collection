@@ -5,8 +5,7 @@
   "Artist": "Julia Margaret Cameron", 
   "URL": "http://www.moma.org/collection/works/58133", 
   "CuratorApproved": "Y", 
-  "Title": "Tom Hughes M.P.", 
-  "DateAcquired": "1968-11-06", 
+  "CreditLine": "Gift of Miss Jeanie E. Hughes", 
   "Date": "1865", 
   "ArtistID": 932, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "1410.1968", 
-  "ArtistBio": "British, 1815\u20131879", 
-  "CreditLine": "Gift of Miss Jeanie E. Hughes", 
+  "ArtistBio": "(British, 1815\u20131879)", 
+  "DateAcquired": "1968-11-06", 
+  "\ufeffTitle": "Tom Hughes M.P.", 
   "ObjectID": "58133"
 }

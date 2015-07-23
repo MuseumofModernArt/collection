@@ -1,12 +1,11 @@
 {
   "Medium": "Lithograph with embossing and lead additions", 
-  "Dimensions": "Composition:  46 15/16 x 28 11/16\" (119.2 x 72.9 cm)  Sheet:  56 x 35 7/8\" (142.2 x 91.1 cm)", 
+  "Dimensions": "Composition:  46 15/16 x 28 11/16\" (119.2 x 72.9 cm)\r\nSheet:  56 x 35 7/8\" (142.2 x 91.1 cm)", 
   "Classification": "Print", 
   "Artist": "Jasper Johns", 
   "URL": "http://www.moma.org/collection/works/69317", 
   "CuratorApproved": "Y", 
-  "Title": "No", 
-  "DateAcquired": "1971-05-18", 
+  "CreditLine": "Gift of Philip Johnson (by exchange)", 
   "Date": "1969", 
   "ArtistID": 2923, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "449.1971", 
-  "ArtistBio": "American, born 1930", 
-  "CreditLine": "Gift of Philip Johnson (by exchange)", 
+  "ArtistBio": "(American, born 1930)", 
+  "DateAcquired": "1971-05-18", 
+  "\ufeffTitle": "No", 
   "ObjectID": "69317"
 }

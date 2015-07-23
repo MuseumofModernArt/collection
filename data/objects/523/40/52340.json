@@ -5,8 +5,7 @@
   "Artist": "Barbara Morgan", 
   "URL": "http://www.moma.org/collection/works/52340", 
   "CuratorApproved": "Y", 
-  "Title": "Cadenza", 
-  "DateAcquired": "NULL", 
+  "CreditLine": "Gift of the artist", 
   "Date": "1940", 
   "ArtistID": 4089, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "388.1972", 
-  "ArtistBio": "American, 1900\u20131992", 
-  "CreditLine": "Gift of the artist", 
+  "ArtistBio": "(American, 1900\u20131992)", 
+  "DateAcquired": "", 
+  "\ufeffTitle": "Cadenza", 
   "ObjectID": "52340"
 }

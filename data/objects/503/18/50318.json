@@ -5,8 +5,7 @@
   "Artist": "John Vachon", 
   "URL": "http://www.moma.org/collection/works/50318", 
   "CuratorApproved": "Y", 
-  "Title": "Fourth of July Afternoon, Dover, Delaware", 
-  "DateAcquired": "NULL", 
+  "CreditLine": "Gift of the Farm Security Administration", 
   "Date": "July 1938", 
   "ArtistID": 6048, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "306.1941", 
-  "ArtistBio": "American, 1914\u20131975", 
-  "CreditLine": "Gift of the Farm Security Administration", 
+  "ArtistBio": "(American, 1914\u20131975)", 
+  "DateAcquired": "", 
+  "\ufeffTitle": "Fourth of July Afternoon, Dover, Delaware", 
   "ObjectID": "50318"
 }

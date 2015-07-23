@@ -5,8 +5,7 @@
   "Artist": "Th\u00e9ophile-Alexandre Steinlen", 
   "URL": "http://www.moma.org/collection/works/5707", 
   "CuratorApproved": "Y", 
-  "Title": "Yvette Guilbert", 
-  "DateAcquired": "1968-03-07", 
+  "CreditLine": "Gift of Bates Lowry", 
   "Date": "1894", 
   "ArtistID": 5634, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "213.1968", 
-  "ArtistBio": "French, 1859\u20131923", 
-  "CreditLine": "Gift of Bates Lowry", 
+  "ArtistBio": "(French, 1859\u20131923)", 
+  "DateAcquired": "1968-03-07", 
+  "\ufeffTitle": "Yvette Guilbert", 
   "ObjectID": "5707"
 }

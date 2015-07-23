@@ -1,12 +1,11 @@
 {
   "Medium": "Stainless steel", 
-  "Dimensions": ".1-.2 (dinner forks): l. 7 1/2\" (19 cm)  .3 (pickle fork): l. 6 1/4\" (15.9 cm)  .4 (soup spoon): l. 7 1/2\" (19 cm)  .5 (teaspoon): l. 6 1/8\" (15.5 cm)  .6 (dessert spoon): l. 5 1/4\" (13.3 cm)  .7 (dinner knife): l. 8 1/8\" (20.7 cm)  .8 (butter knife): l. 8 3/16\" (20.8 cm)  .9 (ladle): l. 7 1/4\" (18.4 cm)  .10 (cake server): l. 8 1/2\" (21.6 cm)  .11 (serving fork): l. 7 1/2\" (19 cm)  .12 (long spoon): l. 8 1/4\" (21 cm)", 
+  "Dimensions": ".1-.2 (dinner forks): l. 7 1/2\" (19 cm)\r\n.3 (pickle fork): l. 6 1/4\" (15.9 cm)\r\n.4 (soup spoon): l. 7 1/2\" (19 cm)\r\n.5 (teaspoon): l. 6 1/8\" (15.5 cm)\r\n.6 (dessert spoon): l. 5 1/4\" (13.3 cm)\r\n.7 (dinner knife): l. 8 1/8\" (20.7 cm)\r\n.8 (butter knife): l. 8 3/16\" (20.8 cm)\r\n.9 (ladle): l. 7 1/4\" (18.4 cm)\r\n.10 (cake server): l. 8 1/2\" (21.6 cm)\r\n.11 (serving fork): l. 7 1/2\" (19 cm)\r\n.12 (long spoon): l. 8 1/4\" (21 cm)", 
   "Classification": "A&D Design", 
   "Artist": "Tapio Wirkkala", 
   "URL": "http://www.moma.org/collection/works/4706", 
   "CuratorApproved": "Y", 
-  "Title": "Composition Cutlery", 
-  "DateAcquired": "2001-04-30", 
+  "CreditLine": "Given anonymously", 
   "Date": "1963", 
   "ArtistID": 6409, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "1341.2001.1-12", 
-  "ArtistBio": "Finnish, 1915\u20131985", 
-  "CreditLine": "Given anonymously", 
+  "ArtistBio": "(Finnish, 1915\u20131985)", 
+  "DateAcquired": "2001-04-30", 
+  "\ufeffTitle": "Composition Cutlery", 
   "ObjectID": "4706"
 }

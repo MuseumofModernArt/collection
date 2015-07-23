@@ -5,8 +5,7 @@
   "Artist": "Michael Rabinowitz", 
   "URL": "http://www.moma.org/collection/works/2148", 
   "CuratorApproved": "Y", 
-  "Title": "Radio", 
-  "DateAcquired": "1986-05-16", 
+  "CreditLine": "Department Purchase Fund", 
   "Date": "1946", 
   "ArtistID": 4780, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "108.1989", 
-  "ArtistBio": "British", 
-  "CreditLine": "Department Purchase Fund", 
+  "ArtistBio": "(British)", 
+  "DateAcquired": "1986-05-16", 
+  "\ufeffTitle": "Radio", 
   "ObjectID": "2148"
 }

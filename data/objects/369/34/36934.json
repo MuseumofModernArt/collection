@@ -5,8 +5,7 @@
   "Artist": "Ludwig Meidner", 
   "URL": "http://www.moma.org/collection/works/36934", 
   "CuratorApproved": "Y", 
-  "Title": "Soldier Karl Stein", 
-  "DateAcquired": "1967-05-09", 
+  "CreditLine": "John S. Newberry Fund", 
   "Date": "1917", 
   "ArtistID": 3909, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "444.1967", 
-  "ArtistBio": "German, 1884\u20131966", 
-  "CreditLine": "John S. Newberry Fund", 
+  "ArtistBio": "(German, 1884\u20131966)", 
+  "DateAcquired": "1967-05-09", 
+  "\ufeffTitle": "Soldier Karl Stein", 
   "ObjectID": "36934"
 }

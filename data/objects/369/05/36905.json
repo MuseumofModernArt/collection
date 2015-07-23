@@ -5,8 +5,7 @@
   "Artist": "David Bomberg", 
   "URL": "http://www.moma.org/collection/works/36905", 
   "CuratorApproved": "Y", 
-  "Title": "Study for In the Hold", 
-  "DateAcquired": "1981-11-13", 
+  "CreditLine": "Joan and Lester Avnet Fund", 
   "Date": "(1913)", 
   "ArtistID": 651, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "439.1981", 
-  "ArtistBio": "British, 1890\u20131957", 
-  "CreditLine": "Joan and Lester Avnet Fund", 
+  "ArtistBio": "(British, 1890\u20131957)", 
+  "DateAcquired": "1981-11-13", 
+  "\ufeffTitle": "Study for In the Hold", 
   "ObjectID": "36905"
 }

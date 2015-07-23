@@ -5,8 +5,7 @@
   "Artist": "Max Beckmann", 
   "URL": "http://www.moma.org/collection/works/66648", 
   "CuratorApproved": "Y", 
-  "Title": "The Beggars from Trip to Berlin 1922", 
-  "DateAcquired": "1951-05-24", 
+  "CreditLine": "Abby Aldrich Rockefeller Fund", 
   "Date": "1922", 
   "ArtistID": 429, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "310.1951.9", 
-  "ArtistBio": "German, 1884\u20131950", 
-  "CreditLine": "Abby Aldrich Rockefeller Fund", 
+  "ArtistBio": "(German, 1884\u20131950)", 
+  "DateAcquired": "1951-05-24", 
+  "\ufeffTitle": "The Beggars (Die Bettler) from the portfolio Trip to Berlin 1922 (Berliner Reise 1922)", 
   "ObjectID": "66648"
 }

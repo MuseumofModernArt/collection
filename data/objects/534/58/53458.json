@@ -5,8 +5,7 @@
   "Artist": "Harry Callahan", 
   "URL": "http://www.moma.org/collection/works/53458", 
   "CuratorApproved": "Y", 
-  "Title": "Trees, Aix-en-Provence", 
-  "DateAcquired": "1960-11-30", 
+  "CreditLine": "Purchase", 
   "Date": "1957", 
   "ArtistID": 924, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "444.1960", 
-  "ArtistBio": "American, 1912\u20131999", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, 1912\u20131999)", 
+  "DateAcquired": "1960-11-30", 
+  "\ufeffTitle": "Trees, Aix-en-Provence", 
   "ObjectID": "53458"
 }

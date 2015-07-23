@@ -5,8 +5,7 @@
   "Artist": "Aaron Siskind", 
   "URL": "http://www.moma.org/collection/works/45229", 
   "CuratorApproved": "Y", 
-  "Title": "Volcano 80", 
-  "DateAcquired": "1989-03-09", 
+  "CreditLine": "John Parkinson III Fund", 
   "Date": "1980", 
   "ArtistID": 5456, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "59.1989.9", 
-  "ArtistBio": "American, 1903\u20131991", 
-  "CreditLine": "John Parkinson III Fund", 
+  "ArtistBio": "(American, 1903\u20131991)", 
+  "DateAcquired": "1989-03-09", 
+  "\ufeffTitle": "Volcano 80", 
   "ObjectID": "45229"
 }

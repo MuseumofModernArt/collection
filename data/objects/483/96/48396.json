@@ -5,8 +5,7 @@
   "Artist": "Henri Le Secq", 
   "URL": "http://www.moma.org/collection/works/48396", 
   "CuratorApproved": "Y", 
-  "Title": "La Porte Rouge, Notre Dame", 
-  "DateAcquired": "1985-05-29", 
+  "CreditLine": "Robert and Joyce Menschel Fund", 
   "Date": "1852", 
   "ArtistID": 3434, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "202.1985", 
-  "ArtistBio": "French, 1818\u20131882", 
-  "CreditLine": "Robert and Joyce Menschel Fund", 
+  "ArtistBio": "(French, 1818\u20131882)", 
+  "DateAcquired": "1985-05-29", 
+  "\ufeffTitle": "La Porte Rouge, Notre Dame", 
   "ObjectID": "48396"
 }

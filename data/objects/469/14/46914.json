@@ -1,12 +1,11 @@
 {
   "Medium": "Albumen silver print", 
-  "Dimensions": "10 3/4 x 17 3/8\" (27.3 x 44.2 cm)  ", 
+  "Dimensions": "10 3/4 x 17 3/8\" (27.3 x 44.2 cm)\r\n", 
   "Classification": "Photograph", 
-  "Artist": "Louis-Auguste Bisson", 
+  "Artist": "Louis-Auguste Bisson, Auguste Rosalie Bisson", 
   "URL": "http://www.moma.org/collection/works/46914", 
   "CuratorApproved": "Y", 
-  "Title": "The Ascent of Mont Blanc", 
-  "DateAcquired": "1964-02-11", 
+  "CreditLine": "Purchase", 
   "Date": "1860", 
   "ArtistID": 577, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "150.1964", 
-  "ArtistBio": "French, 1814\u20131876", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(French, 1814\u20131876) (French, 1826\u20131900)", 
+  "DateAcquired": "1964-02-11", 
+  "\ufeffTitle": "The Ascent of Mont Blanc", 
   "ObjectID": "46914"
 }

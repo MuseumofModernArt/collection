@@ -5,8 +5,7 @@
   "Artist": "Yayoi Kusama", 
   "URL": "http://www.moma.org/collection/works/35490", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "2000-05-17", 
+  "CreditLine": "Purchase", 
   "Date": "(1952)", 
   "ArtistID": 3315, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "244.2000", 
-  "ArtistBio": "Japanese, born 1929", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(Japanese, born 1929)", 
+  "DateAcquired": "2000-05-17", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "35490"
 }

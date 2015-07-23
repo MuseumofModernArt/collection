@@ -5,8 +5,7 @@
   "Artist": "Koji Iwagami", 
   "URL": "http://www.moma.org/collection/works/6345", 
   "CuratorApproved": "Y", 
-  "Title": "Three Graphic Designers Exhibition - Cash", 
-  "DateAcquired": "1984-10-30", 
+  "CreditLine": "Gift of the designer", 
   "Date": "1982", 
   "ArtistID": 2848, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "336.1984", 
-  "ArtistBio": "Japanese, born 1951", 
-  "CreditLine": "Gift of the designer", 
+  "ArtistBio": "(Japanese, born 1951)", 
+  "DateAcquired": "1984-10-30", 
+  "\ufeffTitle": "Three Graphic Designers Exhibition - Cash", 
   "ObjectID": "6345"
 }

@@ -5,8 +5,7 @@
   "Artist": "Luigi Caccia Dominioni", 
   "URL": "http://www.moma.org/collection/works/4042", 
   "CuratorApproved": "Y", 
-  "Title": "Cigarette Box", 
-  "DateAcquired": "1956-10-25", 
+  "CreditLine": "Gift of Philip Johnson", 
   "Date": "c. 1954", 
   "ArtistID": 906, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "486.1956.a-b", 
-  "ArtistBio": "Italian, born 1913", 
-  "CreditLine": "Gift of Philip Johnson", 
+  "ArtistBio": "(Italian, born 1913)", 
+  "DateAcquired": "1956-10-25", 
+  "\ufeffTitle": "Cigarette Box", 
   "ObjectID": "4042"
 }

@@ -5,8 +5,7 @@
   "Artist": "Louise Bourgeois", 
   "URL": "http://www.moma.org/collection/works/63584", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled, plate 8 of 12, version 2, only state, from the portfolio, Anatomy", 
-  "DateAcquired": "1990-05-02", 
+  "CreditLine": "Gift of the artist", 
   "Date": "1990", 
   "ArtistID": 710, 
   "Keywords": [
@@ -22,7 +21,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "172.1990.8", 
-  "ArtistBio": "American, born France. 1911\u20132010", 
-  "CreditLine": "Gift of the artist", 
+  "ArtistBio": "(American, born France. 1911\u20132010)", 
+  "DateAcquired": "1990-05-02", 
+  "\ufeffTitle": "Untitled, plate 8 of 12, from the portfolio, Anatomy", 
   "ObjectID": "63584"
 }

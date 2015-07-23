@@ -5,8 +5,7 @@
   "Artist": "Weegee (Arthur Fellig)", 
   "URL": "http://www.moma.org/collection/works/54636", 
   "CuratorApproved": "Y", 
-  "Title": "Captured Burglar", 
-  "DateAcquired": "1992-12-03", 
+  "CreditLine": "Purchase", 
   "Date": "1941", 
   "ArtistID": 1842, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "518.1992", 
-  "ArtistBio": "American, born Austria. 1899\u20131968", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, born Austria. 1899\u20131968)", 
+  "DateAcquired": "1992-12-03", 
+  "\ufeffTitle": "Captured Burglar", 
   "ObjectID": "54636"
 }

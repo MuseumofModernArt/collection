@@ -5,8 +5,7 @@
   "Artist": "Jean-Louis Forain", 
   "URL": "http://www.moma.org/collection/works/60128", 
   "CuratorApproved": "Y", 
-  "Title": "Ambroise Vollard", 
-  "DateAcquired": "1952-01-22", 
+  "CreditLine": "Gift of Larry Aldrich", 
   "Date": "1867", 
   "ArtistID": 1935, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "21.1952", 
-  "ArtistBio": "French, 1852\u20131931", 
-  "CreditLine": "Gift of Larry Aldrich", 
+  "ArtistBio": "(French, 1852\u20131931)", 
+  "DateAcquired": "1952-01-22", 
+  "\ufeffTitle": "Ambroise Vollard", 
   "ObjectID": "60128"
 }

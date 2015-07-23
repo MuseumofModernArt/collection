@@ -5,8 +5,7 @@
   "Artist": "Richard Tuttle", 
   "URL": "http://www.moma.org/collection/works/34243", 
   "CuratorApproved": "Y", 
-  "Title": "Study for First Green Octagon", 
-  "DateAcquired": "1974-02-12", 
+  "CreditLine": "Gift of Jock Truman", 
   "Date": "(1967)", 
   "ArtistID": 5983, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "124.1974", 
-  "ArtistBio": "American, born 1941", 
-  "CreditLine": "Gift of Jock Truman", 
+  "ArtistBio": "(American, born 1941)", 
+  "DateAcquired": "1974-02-12", 
+  "\ufeffTitle": "Study for First Green Octagon", 
   "ObjectID": "34243"
 }

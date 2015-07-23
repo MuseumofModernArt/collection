@@ -5,8 +5,7 @@
   "Artist": "Manuel \u00c1lvarez Bravo", 
   "URL": "http://www.moma.org/collection/works/52754", 
   "CuratorApproved": "Y", 
-  "Title": "How Small the World Is", 
-  "DateAcquired": "1942-12-29", 
+  "CreditLine": "Gift of Edgar Kaufmann, Jr.", 
   "Date": "1942", 
   "ArtistID": 135, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "407.1942", 
-  "ArtistBio": "Mexican, 1902\u20132002", 
-  "CreditLine": "Gift of Edgar Kaufmann, Jr.", 
+  "ArtistBio": "(Mexican, 1902\u20132002)", 
+  "DateAcquired": "1942-12-29", 
+  "\ufeffTitle": "How Small the World Is", 
   "ObjectID": "52754"
 }

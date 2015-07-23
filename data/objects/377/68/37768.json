@@ -1,12 +1,11 @@
 {
   "Medium": "Watercolor, ink, pencil, and crayon on paper", 
-  "Dimensions": "15 1/8 x 19 7/8\" (38.4 x 50.7 cm)  ", 
+  "Dimensions": "15 1/8 x 19 7/8\" (38.4 x 50.7 cm)\r\n", 
   "Classification": "Drawing", 
   "Artist": "William Roberts", 
   "URL": "http://www.moma.org/collection/works/37768", 
   "CuratorApproved": "Y", 
-  "Title": "The Wedding", 
-  "DateAcquired": "1983-11-04", 
+  "CreditLine": "Gift of Abby Aldrich Rockefeller and the Lillie P. Bliss Collection (by exchange)", 
   "Date": "(c. 1920)", 
   "ArtistID": 4957, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "668.1983", 
-  "ArtistBio": "British, 1895\u20131980", 
-  "CreditLine": "Gift of Abby Aldrich Rockefeller and the Lillie P. Bliss Collection (by exchange)", 
+  "ArtistBio": "(British, 1895\u20131980)", 
+  "DateAcquired": "1983-11-04", 
+  "\ufeffTitle": "The Wedding", 
   "ObjectID": "37768"
 }

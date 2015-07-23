@@ -5,8 +5,7 @@
   "Artist": "Ralph Steiner", 
   "URL": "http://www.moma.org/collection/works/53086", 
   "CuratorApproved": "Y", 
-  "Title": "New York", 
-  "DateAcquired": "1971-05-04", 
+  "CreditLine": "Gift of Willard Van Dyke", 
   "Date": "1935", 
   "ArtistID": 5631, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "416.1971", 
-  "ArtistBio": "American, 1899\u20131986", 
-  "CreditLine": "Gift of Willard Van Dyke", 
+  "ArtistBio": "(American, 1899\u20131986)", 
+  "DateAcquired": "1971-05-04", 
+  "\ufeffTitle": "New York", 
   "ObjectID": "53086"
 }

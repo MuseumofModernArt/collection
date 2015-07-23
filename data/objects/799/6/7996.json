@@ -5,8 +5,7 @@
   "Artist": "Herbert Matter", 
   "URL": "http://www.moma.org/collection/works/7996", 
   "CuratorApproved": "Y", 
-  "Title": "Corso Theater Z\u00fcrich", 
-  "DateAcquired": "1999-12-10", 
+  "CreditLine": "Jan Tschichold Collection, Gift of Philip Johnson", 
   "Date": "Unknown", 
   "ArtistID": 3843, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "723.1999", 
-  "ArtistBio": "American, born Switzerland. 1907\u20131984", 
-  "CreditLine": "Jan Tschichold Collection, Gift of Philip Johnson", 
+  "ArtistBio": "(American, born Switzerland. 1907\u20131984)", 
+  "DateAcquired": "1999-12-10", 
+  "\ufeffTitle": "Corso Theater Z\u00fcrich", 
   "ObjectID": "7996"
 }

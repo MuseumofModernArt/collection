@@ -5,8 +5,7 @@
   "Artist": "Tina Barney", 
   "URL": "http://www.moma.org/collection/works/44236", 
   "CuratorApproved": "Y", 
-  "Title": "The Landscape", 
-  "DateAcquired": "1989-03-09", 
+  "CreditLine": "E.T. Harmax Foundation Fund", 
   "Date": "1988", 
   "ArtistID": 343, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "29.1989.x1-x2", 
-  "ArtistBio": "American, born 1945", 
-  "CreditLine": "E.T. Harmax Foundation Fund", 
+  "ArtistBio": "(American, born 1945)", 
+  "DateAcquired": "1989-03-09", 
+  "\ufeffTitle": "The Landscape", 
   "ObjectID": "44236"
 }

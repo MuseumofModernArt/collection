@@ -1,12 +1,11 @@
 {
   "Medium": "Woodcut", 
-  "Dimensions": "composition (irreg.): 5 11/16 x 5 5/8\" (14.5 x 14.3 cm); sheet: 9 1/16 x 8 3/16\" (23 x 20.8 cm);   mount: 11 9/16 x 9 13/16\" (29.4 x 25 cm)", 
+  "Dimensions": "composition (irreg.): 5 11/16 x 5 5/8\" (14.5 x 14.3 cm); sheet: 9 1/16 x 8 3/16\" (23 x 20.8 cm); \r\nmount: 11 9/16 x 9 13/16\" (29.4 x 25 cm)", 
   "Classification": "Print", 
   "Artist": "Lyonel Feininger", 
   "URL": "http://www.moma.org/collection/works/68367", 
   "CuratorApproved": "Y", 
-  "Title": "Town Gate, Ribnitz", 
-  "DateAcquired": "1956-03-19", 
+  "CreditLine": "Gift of Julia Feininger", 
   "Date": "1918", 
   "ArtistID": 1832, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "394.1955", 
-  "ArtistBio": "American, 1871\u20131956", 
-  "CreditLine": "Gift of Julia Feininger", 
+  "ArtistBio": "(American, 1871\u20131956)", 
+  "DateAcquired": "1956-03-19", 
+  "\ufeffTitle": "Town Gate, Ribnitz (Das Tor, Ribnitz)", 
   "ObjectID": "68367"
 }

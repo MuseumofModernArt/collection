@@ -5,8 +5,7 @@
   "Artist": "Dorothea Lange", 
   "URL": "http://www.moma.org/collection/works/54014", 
   "CuratorApproved": "Y", 
-  "Title": "Funeral Cortege, End of an Era in a Small Valley Town, California", 
-  "DateAcquired": "1959-04-22", 
+  "CreditLine": "Purchase", 
   "Date": "1938", 
   "ArtistID": 3373, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "476.1959", 
-  "ArtistBio": "American, 1895\u20131965", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, 1895\u20131965)", 
+  "DateAcquired": "1959-04-22", 
+  "\ufeffTitle": "Funeral Cortege, End of an Era in a Small Valley Town, California", 
   "ObjectID": "54014"
 }

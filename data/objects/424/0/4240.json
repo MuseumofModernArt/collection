@@ -1,12 +1,11 @@
 {
   "Medium": "Pear wood, natural and stained black", 
-  "Dimensions": "Part (box): 2 1/8 x 4 7/8 x 4 7/8\" (5.4 x 12.4 x 12.4 cm)  Part (smallest): 7/8 x 7/8 x 7/8\" (2.2 x 2.2 x 2.2 cm)  Part (largest): 1 7/8 x 1 1/8 x 1 1/8\" (4.8 x 2.9 x 2.9 cm)", 
+  "Dimensions": "Part (box): 2 1/8 x 4 7/8 x 4 7/8\" (5.4 x 12.4 x 12.4 cm)\r\nPart (smallest): 7/8 x 7/8 x 7/8\" (2.2 x 2.2 x 2.2 cm)\r\nPart (largest): 1 7/8 x 1 1/8 x 1 1/8\" (4.8 x 2.9 x 2.9 cm)", 
   "Classification": "A&D Design", 
   "Artist": "Josef Hartwig", 
   "URL": "http://www.moma.org/collection/works/4240", 
   "CuratorApproved": "Y", 
-  "Title": "Chess Set", 
-  "DateAcquired": "1953-11-04", 
+  "CreditLine": "Gift of Alfred H. Barr, Jr.", 
   "Date": "1924", 
   "ArtistID": 2526, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "497.1953.1-33", 
-  "ArtistBio": "German, 1880\u20131955", 
-  "CreditLine": "Gift of Alfred H. Barr, Jr.", 
+  "ArtistBio": "(German, 1880\u20131955)", 
+  "DateAcquired": "1953-11-04", 
+  "\ufeffTitle": "Chess Set", 
   "ObjectID": "4240"
 }

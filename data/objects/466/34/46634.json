@@ -5,8 +5,7 @@
   "Artist": "Julia Margaret Cameron", 
   "URL": "http://www.moma.org/collection/works/46634", 
   "CuratorApproved": "Y", 
-  "Title": "Henry Wadsworth Longfellow", 
-  "DateAcquired": "NULL", 
+  "CreditLine": "Gift of Edward Steichen", 
   "Date": "1868", 
   "ArtistID": 932, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "122.1952", 
-  "ArtistBio": "British, 1815\u20131879", 
-  "CreditLine": "Gift of Edward Steichen", 
+  "ArtistBio": "(British, 1815\u20131879)", 
+  "DateAcquired": "", 
+  "\ufeffTitle": "Henry Wadsworth Longfellow", 
   "ObjectID": "46634"
 }

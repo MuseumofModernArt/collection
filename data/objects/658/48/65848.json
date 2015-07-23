@@ -1,12 +1,11 @@
 {
   "Medium": "Series of four lithographs with gold, silver and copper leaf additions", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "Ann McCoy", 
   "URL": "http://www.moma.org/collection/works/65848", 
   "CuratorApproved": "Y", 
-  "Title": "The Four Alchemical Doors", 
-  "DateAcquired": "1992-05-20", 
+  "CreditLine": "John B. Turner Fund", 
   "Date": "1992", 
   "Keywords": [
     "online art collection", 
@@ -16,7 +15,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "276.1992.1-4", 
-  "ArtistBio": "American, born 1946", 
-  "CreditLine": "John B. Turner Fund", 
+  "ArtistBio": "(American, born 1946)", 
+  "DateAcquired": "1992-05-20", 
+  "\ufeffTitle": "The Four Alchemical Doors", 
   "ObjectID": "65848"
 }

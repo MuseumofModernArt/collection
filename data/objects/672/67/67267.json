@@ -1,12 +1,11 @@
 {
   "Medium": "Drypoint", 
-  "Dimensions": "plate  6 15/16 x 3\" (17.7 x 7.7 cm)  sheet  13 5/16 x 9 1/16\" (33 x 23 cm)", 
+  "Dimensions": "plate  6 15/16 x 3\" (17.7 x 7.7 cm)\r\nsheet  13 5/16 x 9 1/16\" (33 x 23 cm)", 
   "Classification": "Print", 
   "Artist": "Ron Davis", 
   "URL": "http://www.moma.org/collection/works/67267", 
   "CuratorApproved": "Y", 
-  "Title": "Drypoint Mu", 
-  "DateAcquired": "1987-10-20", 
+  "CreditLine": "Purchase", 
   "Date": "1980", 
   "ArtistID": 1411, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "341.1987", 
-  "ArtistBio": "American, born 1937", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, born 1937)", 
+  "DateAcquired": "1987-10-20", 
+  "\ufeffTitle": "Drypoint Mu", 
   "ObjectID": "67267"
 }

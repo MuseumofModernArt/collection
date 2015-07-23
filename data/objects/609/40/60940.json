@@ -5,8 +5,7 @@
   "Artist": "Asger Jorn", 
   "URL": "http://www.moma.org/collection/works/60940", 
   "CuratorApproved": "Y", 
-  "Title": "Song of the Night for the Hunter (Chanson de nuit pour chasseur)", 
-  "DateAcquired": "1947-03-13", 
+  "CreditLine": "Gift of the artist", 
   "Date": "(1945)", 
   "ArtistID": 2943, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "51.1947", 
-  "ArtistBio": "Danish, 1914\u20131973", 
-  "CreditLine": "Gift of the artist", 
+  "ArtistBio": "(Danish, 1914\u20131973)", 
+  "DateAcquired": "1947-03-13", 
+  "\ufeffTitle": "Song of the Night for the Hunter (Chanson de nuit pour chasseur)", 
   "ObjectID": "60940"
 }

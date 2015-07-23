@@ -5,8 +5,7 @@
   "Artist": "Hermann Gretsch", 
   "URL": "http://www.moma.org/collection/works/2499", 
   "CuratorApproved": "Y", 
-  "Title": "Pitcher", 
-  "DateAcquired": "1952-05-20", 
+  "CreditLine": "Gift of H. E. Lauffer Co., Inc.", 
   "Date": "1948", 
   "ArtistID": 2334, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "136.1952", 
-  "ArtistBio": "German, 1895\u20131950", 
-  "CreditLine": "Gift of H. E. Lauffer Co., Inc.", 
+  "ArtistBio": "(German, 1895\u20131950)", 
+  "DateAcquired": "1952-05-20", 
+  "\ufeffTitle": "Pitcher", 
   "ObjectID": "2499"
 }

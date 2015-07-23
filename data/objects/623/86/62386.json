@@ -5,8 +5,7 @@
   "Artist": "Henri de Toulouse-Lautrec", 
   "URL": "http://www.moma.org/collection/works/62386", 
   "CuratorApproved": "Y", 
-  "Title": "The Horse and The Collie (Le Cheval et le colley)", 
-  "DateAcquired": "1991-05-22", 
+  "CreditLine": "Gift of Jeanne C. Thayer", 
   "Date": "1898", 
   "ArtistID": 5910, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "128.1991", 
-  "ArtistBio": "French, 1864\u20131901", 
-  "CreditLine": "Gift of Jeanne C. Thayer", 
+  "ArtistBio": "(French, 1864\u20131901)", 
+  "DateAcquired": "1991-05-22", 
+  "\ufeffTitle": "The Horse and The Collie (Le Cheval et le colley)", 
   "ObjectID": "62386"
 }

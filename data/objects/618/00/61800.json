@@ -5,8 +5,7 @@
   "Artist": "Louise Bourgeois", 
   "URL": "http://www.moma.org/collection/works/61800", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled, plate 1, only state, variant, from The Puritan", 
-  "DateAcquired": "1994-01-25", 
+  "CreditLine": "Gift of the artist", 
   "Date": "1990", 
   "ArtistID": 710, 
   "Keywords": [
@@ -21,7 +20,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "101.1994", 
-  "ArtistBio": "American, born France. 1911\u20132010", 
-  "CreditLine": "Gift of the artist", 
+  "ArtistBio": "(American, born France. 1911\u20132010)", 
+  "DateAcquired": "1994-01-25", 
+  "\ufeffTitle": "Untitled, plate 1, only state, variant, from The Puritan", 
   "ObjectID": "61800"
 }

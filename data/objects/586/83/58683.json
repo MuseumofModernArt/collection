@@ -5,8 +5,7 @@
   "Artist": "Rollins/Associated Press", 
   "URL": "http://www.moma.org/collection/works/58683", 
   "CuratorApproved": "Y", 
-  "Title": "Fritz is Frisked", 
-  "DateAcquired": "2001-06-14", 
+  "CreditLine": "The New York Times Collection", 
   "Date": "March 26, 1945", 
   "ArtistID": 8608, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "2090.2001", 
-  "ArtistBio": "Nationality unknown", 
-  "CreditLine": "The New York Times Collection", 
+  "ArtistBio": "(Nationality unknown)", 
+  "DateAcquired": "2001-06-14", 
+  "\ufeffTitle": "\"Fritz is Frisked\"", 
   "ObjectID": "58683"
 }

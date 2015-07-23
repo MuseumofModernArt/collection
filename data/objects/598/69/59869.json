@@ -5,8 +5,7 @@
   "Artist": "Max Beckmann", 
   "URL": "http://www.moma.org/collection/works/59869", 
   "CuratorApproved": "Y", 
-  "Title": "Sarika", 
-  "DateAcquired": "1932-05-03", 
+  "CreditLine": "Gift of J. B. Neumann", 
   "Date": "(1922)", 
   "ArtistID": 429, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "12.1932", 
-  "ArtistBio": "German, 1884\u20131950", 
-  "CreditLine": "Gift of J. B. Neumann", 
+  "ArtistBio": "(German, 1884\u20131950)", 
+  "DateAcquired": "1932-05-03", 
+  "\ufeffTitle": "Sarika", 
   "ObjectID": "59869"
 }

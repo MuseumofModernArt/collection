@@ -5,8 +5,7 @@
   "Artist": "David Goldblatt", 
   "URL": "http://www.moma.org/collection/works/51909", 
   "CuratorApproved": "Y", 
-  "Title": "Joubert Park, Johannesburg", 
-  "DateAcquired": "1978-05-11", 
+  "CreditLine": "The Family of Man Fund", 
   "Date": "1975", 
   "ArtistID": 2214, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "368.1978", 
-  "ArtistBio": "South African, born 1930", 
-  "CreditLine": "The Family of Man Fund", 
+  "ArtistBio": "(South African, born 1930)", 
+  "DateAcquired": "1978-05-11", 
+  "\ufeffTitle": "Joubert Park, Johannesburg", 
   "ObjectID": "51909"
 }

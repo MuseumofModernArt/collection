@@ -1,12 +1,11 @@
 {
   "Medium": "Etching", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "Th\u00e9ophile-Alexandre Steinlen", 
   "URL": "http://www.moma.org/collection/works/62780", 
   "CuratorApproved": "Y", 
-  "Title": "The Song of Messidor (Le Chanson de Messidor) from the series Songs of the People (Chansons du peuple)", 
-  "DateAcquired": "1997-03-06", 
+  "CreditLine": "The Ralph E. Shikes Fund", 
   "Date": "(c. 1892)", 
   "ArtistID": 5634, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "138.1997.1-2", 
-  "ArtistBio": "French, 1859\u20131923", 
-  "CreditLine": "The Ralph E. Shikes Fund", 
+  "ArtistBio": "(French, 1859\u20131923)", 
+  "DateAcquired": "1997-03-06", 
+  "\ufeffTitle": "The Song of Messidor (Le Chanson de Messidor) from the series Songs of the People (Chansons du peuple)", 
   "ObjectID": "62780"
 }

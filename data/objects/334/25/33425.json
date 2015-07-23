@@ -5,8 +5,7 @@
   "Artist": "Andy Warhol", 
   "URL": "http://www.moma.org/collection/works/33425", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled (City Text)", 
-  "DateAcquired": "1999-02-25", 
+  "CreditLine": "Purchased with funds provided by The Edward John Noble Foundation and Purchase Fund", 
   "Date": "(c. 1962)", 
   "ArtistID": 6246, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "34.1999", 
-  "ArtistBio": "American, 1928\u20131987", 
-  "CreditLine": "Purchased with funds provided by The Edward John Noble Foundation and Purchase Fund", 
+  "ArtistBio": "(American, 1928\u20131987)", 
+  "DateAcquired": "1999-02-25", 
+  "\ufeffTitle": "Untitled (City Text)", 
   "ObjectID": "33425"
 }

@@ -5,8 +5,7 @@
   "Artist": "Sam Francis", 
   "URL": "http://www.moma.org/collection/works/33371", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1960-04-06", 
+  "CreditLine": "Gift of Udo M. Reinach Estate", 
   "Date": "(1958)", 
   "ArtistID": 1965, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "28.1960", 
-  "ArtistBio": "American, 1923\u20131994", 
-  "CreditLine": "Gift of Udo M. Reinach Estate", 
+  "ArtistBio": "(American, 1923\u20131994)", 
+  "DateAcquired": "1960-04-06", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "33371"
 }

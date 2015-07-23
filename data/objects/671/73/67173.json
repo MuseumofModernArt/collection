@@ -5,8 +5,7 @@
   "Artist": "Susan Rothenberg", 
   "URL": "http://www.moma.org/collection/works/67173", 
   "CuratorApproved": "Y", 
-  "Title": "Boneman", 
-  "DateAcquired": "1986-10-15", 
+  "CreditLine": "John B. Turner Fund", 
   "Date": "1986", 
   "ArtistID": 5044, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "336.1986", 
-  "ArtistBio": "American, born 1945", 
-  "CreditLine": "John B. Turner Fund", 
+  "ArtistBio": "(American, born 1945)", 
+  "DateAcquired": "1986-10-15", 
+  "\ufeffTitle": "Boneman", 
   "ObjectID": "67173"
 }

@@ -5,8 +5,7 @@
   "Artist": "Chris Killip", 
   "URL": "http://www.moma.org/collection/works/51322", 
   "CuratorApproved": "Y", 
-  "Title": "Helen and Her Hoop", 
-  "DateAcquired": "1989-12-14", 
+  "CreditLine": "The Fellows of Photography Fund", 
   "Date": "1984", 
   "ArtistID": 3094, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "343.1989", 
-  "ArtistBio": "British, born 1946", 
-  "CreditLine": "The Fellows of Photography Fund", 
+  "ArtistBio": "(British, born 1946)", 
+  "DateAcquired": "1989-12-14", 
+  "\ufeffTitle": "Helen and Her Hoop", 
   "ObjectID": "51322"
 }

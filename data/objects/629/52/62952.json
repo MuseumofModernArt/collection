@@ -1,12 +1,11 @@
 {
   "Medium": "Lithograph with pastel additions", 
-  "Dimensions": "composition  24 1/16 x 13\" (61.1 x 33.1 cm)  sheet  29 1/2 x 16 15/16\" (75 x 43.1 cm)", 
+  "Dimensions": "composition  24 1/16 x 13\" (61.1 x 33.1 cm)\r\nsheet  29 1/2 x 16 15/16\" (75 x 43.1 cm)", 
   "Classification": "Print", 
   "Artist": "John Edward Dowell", 
   "URL": "http://www.moma.org/collection/works/62952", 
   "CuratorApproved": "Y", 
-  "Title": "Saskia's Dream", 
-  "DateAcquired": "1981-05-06", 
+  "CreditLine": "John B. Turner Fund", 
   "Date": "1981", 
   "ArtistID": 1604, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "149.1981", 
-  "ArtistBio": "American, born 1941", 
-  "CreditLine": "John B. Turner Fund", 
+  "ArtistBio": "(American, born 1941)", 
+  "DateAcquired": "1981-05-06", 
+  "\ufeffTitle": "Saskia's Dream", 
   "ObjectID": "62952"
 }

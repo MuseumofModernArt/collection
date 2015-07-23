@@ -1,12 +1,11 @@
 {
   "Medium": "Portfolio of twenty  etchings, fifteen with drypoint", 
-  "Dimensions": "pages: various dimensions  prints: various dimensions", 
+  "Dimensions": "pages: various dimensions\r\nprints: various dimensions", 
   "Classification": "Illustrated Book", 
   "Artist": "Marc Chagall", 
   "URL": "http://www.moma.org/collection/works/22260", 
   "CuratorApproved": "Y", 
-  "Title": "Mein Leben", 
-  "DateAcquired": "1964-10-06", 
+  "CreditLine": "The Louis E. Stern Collection", 
   "Date": "1923.  (Prints executed 1922).", 
   "ArtistID": 1055, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "726.1964.1-21", 
-  "ArtistBio": "French, born Belarus. 1887\u20131985", 
-  "CreditLine": "The Louis E. Stern Collection", 
+  "ArtistBio": "(French, born Belarus. 1887\u20131985)", 
+  "DateAcquired": "1964-10-06", 
+  "\ufeffTitle": "Mein Leben", 
   "ObjectID": "22260"
 }

@@ -5,8 +5,7 @@
   "Artist": "Mikael Bj\u00f6rnstjerna", 
   "URL": "http://www.moma.org/collection/works/3187", 
   "CuratorApproved": "Y", 
-  "Title": "Oval Steel Cheese Knife", 
-  "DateAcquired": "2000-06-30", 
+  "CreditLine": "Patricia Bonfield Fund", 
   "Date": "1973", 
   "ArtistID": 8454, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "285.1999", 
-  "ArtistBio": "Swedish, born 1945", 
-  "CreditLine": "Patricia Bonfield Fund", 
+  "ArtistBio": "(Swedish, born 1945)", 
+  "DateAcquired": "2000-06-30", 
+  "\ufeffTitle": "Oval Steel Cheese Knife", 
   "ObjectID": "3187"
 }

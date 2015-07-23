@@ -5,8 +5,7 @@
   "Artist": "Franz Lowy/Times Wide World", 
   "URL": "http://www.moma.org/collection/works/58633", 
   "CuratorApproved": "Y", 
-  "Title": "From Which Melodies Flow", 
-  "DateAcquired": "2001-06-14", 
+  "CreditLine": "The New York Times Collection", 
   "Date": "1925", 
   "ArtistID": 8574, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "2040.2001", 
-  "ArtistBio": "Austrian", 
-  "CreditLine": "The New York Times Collection", 
+  "ArtistBio": "(Austrian)", 
+  "DateAcquired": "2001-06-14", 
+  "\ufeffTitle": "\"From Which Melodies Flow\"", 
   "ObjectID": "58633"
 }

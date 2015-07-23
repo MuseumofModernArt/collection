@@ -5,8 +5,7 @@
   "Artist": "Kiki Smith", 
   "URL": "http://www.moma.org/collection/works/67669", 
   "CuratorApproved": "Y", 
-  "Title": "Tail", 
-  "DateAcquired": "1998-05-14", 
+  "CreditLine": "Gift of the Junior Associates of The Museum of Modern Art", 
   "Date": "1997", 
   "ArtistID": 5486, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "359.1998", 
-  "ArtistBio": "American, born Germany 1954", 
-  "CreditLine": "Gift of the Junior Associates of The Museum of Modern Art", 
+  "ArtistBio": "(American, born Germany 1954)", 
+  "DateAcquired": "1998-05-14", 
+  "\ufeffTitle": "Tail", 
   "ObjectID": "67669"
 }

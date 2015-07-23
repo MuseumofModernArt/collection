@@ -5,8 +5,7 @@
   "Artist": "Morison S. Cousins", 
   "URL": "http://www.moma.org/collection/works/3418", 
   "CuratorApproved": "Y", 
-  "Title": "Space-Tel Telephone", 
-  "DateAcquired": "1985-11-18", 
+  "CreditLine": "Gift of Cousins Design", 
   "Date": "1981", 
   "ArtistID": 1275, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "358.1985.a-b", 
-  "ArtistBio": "American, 1934\u20132001", 
-  "CreditLine": "Gift of Cousins Design", 
+  "ArtistBio": "(American, 1934\u20132001)", 
+  "DateAcquired": "1985-11-18", 
+  "\ufeffTitle": "Space-Tel Telephone", 
   "ObjectID": "3418"
 }

@@ -5,8 +5,7 @@
   "Artist": "Philip Guston", 
   "URL": "http://www.moma.org/collection/works/63063", 
   "CuratorApproved": "Y", 
-  "Title": "Coat", 
-  "DateAcquired": "1981-05-06", 
+  "CreditLine": "John B. Turner Fund", 
   "Date": "1980", 
   "ArtistID": 2419, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "155.1981", 
-  "ArtistBio": "American, born Canada. 1913\u20131980", 
-  "CreditLine": "John B. Turner Fund", 
+  "ArtistBio": "(American, born Canada. 1913\u20131980)", 
+  "DateAcquired": "1981-05-06", 
+  "\ufeffTitle": "Coat", 
   "ObjectID": "63063"
 }

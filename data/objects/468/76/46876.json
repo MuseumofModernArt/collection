@@ -5,8 +5,7 @@
   "Artist": "Douglas Sandhage", 
   "URL": "http://www.moma.org/collection/works/46876", 
   "CuratorApproved": "Y", 
-  "Title": "Nevada", 
-  "DateAcquired": "1972-05-02", 
+  "CreditLine": "Purchase", 
   "Date": "1971", 
   "ArtistID": 5149, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "146.1972", 
-  "ArtistBio": "American, born 1947", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, born 1947)", 
+  "DateAcquired": "1972-05-02", 
+  "\ufeffTitle": "Nevada", 
   "ObjectID": "46876"
 }

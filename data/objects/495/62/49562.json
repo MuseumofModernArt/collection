@@ -5,8 +5,7 @@
   "Artist": "Boris Mikhailov", 
   "URL": "http://www.moma.org/collection/works/49562", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1993-06-01", 
+  "CreditLine": "Horace W. Goldsmith Fund through Robert B. Menschel", 
   "Date": "May - June 1991", 
   "ArtistID": 8168, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "252.1993", 
-  "ArtistBio": "Ukrainian, born 1938", 
-  "CreditLine": "Horace W. Goldsmith Fund through Robert B. Menschel", 
+  "ArtistBio": "(Ukrainian, born 1938)", 
+  "DateAcquired": "1993-06-01", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "49562"
 }

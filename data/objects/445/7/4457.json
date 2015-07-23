@@ -5,8 +5,7 @@
   "Artist": "Metall-Arbeit Wiener Werkst\u00e4tte", 
   "URL": "http://www.moma.org/collection/works/4457", 
   "CuratorApproved": "Y", 
-  "Title": "Candleholder", 
-  "DateAcquired": "1941-12-01", 
+  "CreditLine": "Gift of Edgar Kaufmann, Jr.", 
   "Date": "c. 1903-04", 
   "ArtistID": 6356, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "801.1941", 
-  "ArtistBio": "Austrian", 
-  "CreditLine": "Gift of Edgar Kaufmann, Jr.", 
+  "ArtistBio": "(Austrian)", 
+  "DateAcquired": "1941-12-01", 
+  "\ufeffTitle": "Candleholder", 
   "ObjectID": "4457"
 }

@@ -5,8 +5,7 @@
   "Artist": "Harry Callahan", 
   "URL": "http://www.moma.org/collection/works/53179", 
   "CuratorApproved": "Y", 
-  "Title": "Ireland", 
-  "DateAcquired": "1984-12-05", 
+  "CreditLine": "Gift of Milton C. Bickford, Jr.", 
   "Date": "1977", 
   "ArtistID": 924, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "423.1984", 
-  "ArtistBio": "American, 1912\u20131999", 
-  "CreditLine": "Gift of Milton C. Bickford, Jr.", 
+  "ArtistBio": "(American, 1912\u20131999)", 
+  "DateAcquired": "1984-12-05", 
+  "\ufeffTitle": "Ireland", 
   "ObjectID": "53179"
 }

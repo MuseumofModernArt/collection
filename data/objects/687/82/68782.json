@@ -5,8 +5,7 @@
   "Artist": "Stephen Buckley", 
   "URL": "http://www.moma.org/collection/works/68782", 
   "CuratorApproved": "Y", 
-  "Title": "(Untitled) from SEPTEMBER SUITE", 
-  "DateAcquired": "1977-11-10", 
+  "CreditLine": "Larry Aldrich Fund", 
   "Date": "1977", 
   "ArtistID": 849, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "419.1977", 
-  "ArtistBio": "British", 
-  "CreditLine": "Larry Aldrich Fund", 
+  "ArtistBio": "(British)", 
+  "DateAcquired": "1977-11-10", 
+  "\ufeffTitle": "Untitled from September Suite", 
   "ObjectID": "68782"
 }

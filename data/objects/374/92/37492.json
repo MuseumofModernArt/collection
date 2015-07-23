@@ -5,8 +5,7 @@
   "Artist": "Andr\u00e9 Masson", 
   "URL": "http://www.moma.org/collection/works/37492", 
   "CuratorApproved": "Y", 
-  "Title": "Praying Mantis", 
-  "DateAcquired": "1970-12-15", 
+  "CreditLine": "Gift of Philip Johnson", 
   "Date": "c. 1942", 
   "ArtistID": 3821, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "595.1970", 
-  "ArtistBio": "French, 1896\u20131987", 
-  "CreditLine": "Gift of Philip Johnson", 
+  "ArtistBio": "(French, 1896\u20131987)", 
+  "DateAcquired": "1970-12-15", 
+  "\ufeffTitle": "Praying Mantis", 
   "ObjectID": "37492"
 }

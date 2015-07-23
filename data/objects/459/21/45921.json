@@ -5,8 +5,7 @@
   "Artist": "Unknown photographer", 
   "URL": "http://www.moma.org/collection/works/45921", 
   "CuratorApproved": "Y", 
-  "Title": "Raising of the Squalus", 
-  "DateAcquired": "1941-01-16", 
+  "CreditLine": "Gift of the Boston Post", 
   "Date": "1939", 
   "ArtistID": 6028, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "85.1941", 
-  "ArtistBio": "NULL", 
-  "CreditLine": "Gift of the Boston Post", 
+  "ArtistBio": "", 
+  "DateAcquired": "1941-01-16", 
+  "\ufeffTitle": "Raising of the Squalus", 
   "ObjectID": "45921"
 }

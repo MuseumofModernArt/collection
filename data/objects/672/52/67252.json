@@ -5,8 +5,7 @@
   "Artist": "Fernand L\u00e9ger", 
   "URL": "http://www.moma.org/collection/works/67252", 
   "CuratorApproved": "Y", 
-  "Title": "The Black Root", 
-  "DateAcquired": "1948-10-06", 
+  "CreditLine": "Gift of Victor S. Riesenfeld", 
   "Date": "(1948)", 
   "ArtistID": 6624, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "341.1948", 
-  "ArtistBio": "French, 1881\u20131955", 
-  "CreditLine": "Gift of Victor S. Riesenfeld", 
+  "ArtistBio": "(French, 1881\u20131955)", 
+  "DateAcquired": "1948-10-06", 
+  "\ufeffTitle": "The Black Root", 
   "ObjectID": "67252"
 }

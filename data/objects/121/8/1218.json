@@ -5,8 +5,7 @@
   "Artist": "Rosenthal Porzellan A.g., company design", 
   "URL": "http://www.moma.org/collection/works/1218", 
   "CuratorApproved": "Y", 
-  "Title": "Casserole with Handle", 
-  "DateAcquired": "2001-09-24", 
+  "CreditLine": "Gift of the manufacturer", 
   "Date": "Unknown", 
   "ArtistID": 5024, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "2287.2001", 
-  "ArtistBio": "German, established 1879", 
-  "CreditLine": "Gift of the manufacturer", 
+  "ArtistBio": "(German, established 1879)", 
+  "DateAcquired": "2001-09-24", 
+  "\ufeffTitle": "Casserole with Handle", 
   "ObjectID": "1218"
 }

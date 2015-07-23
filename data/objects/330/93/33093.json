@@ -5,8 +5,7 @@
   "Artist": "James Castle", 
   "URL": "http://www.moma.org/collection/works/33093", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled (Coat Construction)", 
-  "DateAcquired": "1999-02-25", 
+  "CreditLine": "Gift of the Family of James Castle", 
   "Date": "(c. 1925)", 
   "ArtistID": 7963, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "9.1999", 
-  "ArtistBio": "American, 1900\u20131977", 
-  "CreditLine": "Gift of the Family of James Castle", 
+  "ArtistBio": "(American, 1900\u20131977)", 
+  "DateAcquired": "1999-02-25", 
+  "\ufeffTitle": "Untitled (Coat Construction)", 
   "ObjectID": "33093"
 }

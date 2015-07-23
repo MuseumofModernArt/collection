@@ -5,8 +5,7 @@
   "Artist": "Susan Rothenberg", 
   "URL": "http://www.moma.org/collection/works/65109", 
   "CuratorApproved": "Y", 
-  "Title": "Between the Eyes", 
-  "DateAcquired": "1984-10-02", 
+  "CreditLine": "Gift of Emily Landau", 
   "Date": "1983-84", 
   "ArtistID": 5044, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "244.1984", 
-  "ArtistBio": "American, born 1945", 
-  "CreditLine": "Gift of Emily Landau", 
+  "ArtistBio": "(American, born 1945)", 
+  "DateAcquired": "1984-10-02", 
+  "\ufeffTitle": "Between the Eyes", 
   "ObjectID": "65109"
 }

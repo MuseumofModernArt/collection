@@ -5,8 +5,7 @@
   "Artist": "Leslie Beaton", 
   "URL": "http://www.moma.org/collection/works/2451", 
   "CuratorApproved": "Y", 
-  "Title": "Dish", 
-  "DateAcquired": "1947-06-17", 
+  "CreditLine": "Gift of Philip Johnson", 
   "Date": "Before 1947", 
   "ArtistID": 418, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "189.1947", 
-  "ArtistBio": "American", 
-  "CreditLine": "Gift of Philip Johnson", 
+  "ArtistBio": "(American)", 
+  "DateAcquired": "1947-06-17", 
+  "\ufeffTitle": "Dish", 
   "ObjectID": "2451"
 }

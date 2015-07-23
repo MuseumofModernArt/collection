@@ -1,12 +1,11 @@
 {
   "Medium": "Lithograph", 
-  "Dimensions": "irreg composition  13 13/16 x 12 15/16\" (35.1 x 32.9 cm)  sheet  23 15/16 x 18 7/16\" (60.9 x 46.9 cm)", 
+  "Dimensions": "irreg composition  13 13/16 x 12 15/16\" (35.1 x 32.9 cm)\r\nsheet  23 15/16 x 18 7/16\" (60.9 x 46.9 cm)", 
   "Classification": "Print", 
   "Artist": "Helen Frankenthaler", 
   "URL": "http://www.moma.org/collection/works/65903", 
   "CuratorApproved": "Y", 
-  "Title": "Southwest Blues", 
-  "DateAcquired": "1969-04-16", 
+  "CreditLine": "Gift of the Celeste and Armand Bartos Foundation", 
   "Date": "1969", 
   "ArtistID": 1974, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "279.1969", 
-  "ArtistBio": "American, 1928\u20132011", 
-  "CreditLine": "Gift of the Celeste and Armand Bartos Foundation", 
+  "ArtistBio": "(American, 1928\u20132011)", 
+  "DateAcquired": "1969-04-16", 
+  "\ufeffTitle": "Southwest Blues", 
   "ObjectID": "65903"
 }

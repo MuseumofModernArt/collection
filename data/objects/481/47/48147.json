@@ -5,8 +5,7 @@
   "Artist": "Abelardo Morell", 
   "URL": "http://www.moma.org/collection/works/48147", 
   "CuratorApproved": "Y", 
-  "Title": "Book: Pieta by El Greco", 
-  "DateAcquired": "1994-03-10", 
+  "CreditLine": "Purchase", 
   "Date": "1993", 
   "ArtistID": 6917, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "192.1994", 
-  "ArtistBio": "American, born Cuba 1948", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, born Cuba 1948)", 
+  "DateAcquired": "1994-03-10", 
+  "\ufeffTitle": "Book: Pieta by El Greco", 
   "ObjectID": "48147"
 }

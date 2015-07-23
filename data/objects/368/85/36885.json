@@ -5,8 +5,7 @@
   "Artist": "Henri Matisse", 
   "URL": "http://www.moma.org/collection/works/36885", 
   "CuratorApproved": "Y", 
-  "Title": "Yvonne Landsberg", 
-  "DateAcquired": "1974-10-25", 
+  "CreditLine": "Gift of the Est\u00e9e and Joseph Lauder Foundation, Inc.", 
   "Date": "1914", 
   "ArtistID": 3832, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "436.1974", 
-  "ArtistBio": "French, 1869\u20131954", 
-  "CreditLine": "Gift of the Est\u00e9e and Joseph Lauder Foundation, Inc.", 
+  "ArtistBio": "(French, 1869\u20131954)", 
+  "DateAcquired": "1974-10-25", 
+  "\ufeffTitle": "Yvonne Landsberg", 
   "ObjectID": "36885"
 }

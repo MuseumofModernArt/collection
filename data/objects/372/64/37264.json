@@ -5,8 +5,7 @@
   "Artist": "Alberto Giacometti", 
   "URL": "http://www.moma.org/collection/works/37264", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1965-06-08", 
+  "CreditLine": "Gift of the artist", 
   "Date": "(1965)", 
   "ArtistID": 2141, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "514.1965", 
-  "ArtistBio": "Swiss, 1901\u20131966", 
-  "CreditLine": "Gift of the artist", 
+  "ArtistBio": "(Swiss, 1901\u20131966)", 
+  "DateAcquired": "1965-06-08", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "37264"
 }

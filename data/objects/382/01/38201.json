@@ -5,8 +5,7 @@
   "Artist": "Andr\u00e9 Masson", 
   "URL": "http://www.moma.org/collection/works/38201", 
   "CuratorApproved": "Y", 
-  "Title": "Automatic Drawing", 
-  "DateAcquired": "1979-05-07", 
+  "CreditLine": "Given anonymously", 
   "Date": "(1924)", 
   "ArtistID": 3821, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "873.1978", 
-  "ArtistBio": "French, 1896\u20131987", 
-  "CreditLine": "Given anonymously", 
+  "ArtistBio": "(French, 1896\u20131987)", 
+  "DateAcquired": "1979-05-07", 
+  "\ufeffTitle": "Automatic Drawing", 
   "ObjectID": "38201"
 }

@@ -5,8 +5,7 @@
   "Artist": "Aaron Siskind", 
   "URL": "http://www.moma.org/collection/works/55367", 
   "CuratorApproved": "Y", 
-  "Title": "Peeling Paint", 
-  "DateAcquired": "1954-01-12", 
+  "CreditLine": "Gift of the photographer", 
   "Date": "c. 1950", 
   "ArtistID": 5456, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "583.1953", 
-  "ArtistBio": "American, 1903\u20131991", 
-  "CreditLine": "Gift of the photographer", 
+  "ArtistBio": "(American, 1903\u20131991)", 
+  "DateAcquired": "1954-01-12", 
+  "\ufeffTitle": "Peeling Paint", 
   "ObjectID": "55367"
 }

@@ -5,8 +5,7 @@
   "Artist": "Ladislav Sutnar", 
   "URL": "http://www.moma.org/collection/works/5537", 
   "CuratorApproved": "Y", 
-  "Title": "Zdravotnicka vystava", 
-  "DateAcquired": "1968-03-07", 
+  "CreditLine": "Gift of the designer", 
   "Date": "1931", 
   "ArtistID": 5740, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "178.1968", 
-  "ArtistBio": "American, born Bohemia (now Czech Republic). 1897\u20131976", 
-  "CreditLine": "Gift of the designer", 
+  "ArtistBio": "(American, born Bohemia (now Czech Republic). 1897\u20131976)", 
+  "DateAcquired": "1968-03-07", 
+  "\ufeffTitle": "Zdravotnicka vystava (Poster for Health Exhibition)", 
   "ObjectID": "5537"
 }

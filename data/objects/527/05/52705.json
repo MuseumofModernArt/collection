@@ -5,8 +5,7 @@
   "Artist": "Stephen Shore", 
   "URL": "http://www.moma.org/collection/works/52705", 
   "CuratorApproved": "Y", 
-  "Title": "Hob Nob Restaurant, Florida, Massachusetts", 
-  "DateAcquired": "1974-10-01", 
+  "CreditLine": "Purchase", 
   "Date": "1974", 
   "ArtistID": 5409, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "404.1974", 
-  "ArtistBio": "American, born 1947", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, born 1947)", 
+  "DateAcquired": "1974-10-01", 
+  "\ufeffTitle": "Hob Nob Restaurant, Florida, Massachusetts", 
   "ObjectID": "52705"
 }

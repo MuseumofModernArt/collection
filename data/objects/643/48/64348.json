@@ -1,12 +1,11 @@
 {
   "Medium": "Screenprint", 
-  "Dimensions": "composition  7 13/16 x 7 13/16\" (19.8 x 19.8 cm)  sheet  11 x 13 1/8\" (28 x 33.4 cm)", 
+  "Dimensions": "composition  7 13/16 x 7 13/16\" (19.8 x 19.8 cm)\r\nsheet  11 x 13 1/8\" (28 x 33.4 cm)", 
   "Classification": "Print", 
   "Artist": "Tad Savinar", 
   "URL": "http://www.moma.org/collection/works/64348", 
   "CuratorApproved": "Y", 
-  "Title": "Early Morning Realization", 
-  "DateAcquired": "1986-05-20", 
+  "CreditLine": "John B. Turner Fund", 
   "Date": "1984", 
   "ArtistID": 5186, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "203.1986", 
-  "ArtistBio": "American, born 1950", 
-  "CreditLine": "John B. Turner Fund", 
+  "ArtistBio": "(American, born 1950)", 
+  "DateAcquired": "1986-05-20", 
+  "\ufeffTitle": "Early Morning Realization", 
   "ObjectID": "64348"
 }

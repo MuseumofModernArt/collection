@@ -5,8 +5,7 @@
   "Artist": "Robert Cumming", 
   "URL": "http://www.moma.org/collection/works/66386", 
   "CuratorApproved": "Y", 
-  "Title": "Two Frame Arc", 
-  "DateAcquired": "1985-10-07", 
+  "CreditLine": "John B. Turner Fund", 
   "Date": "1985", 
   "ArtistID": 1330, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "298.1985", 
-  "ArtistBio": "American, born 1943", 
-  "CreditLine": "John B. Turner Fund", 
+  "ArtistBio": "(American, born 1943)", 
+  "DateAcquired": "1985-10-07", 
+  "\ufeffTitle": "Two Frame Arc", 
   "ObjectID": "66386"
 }

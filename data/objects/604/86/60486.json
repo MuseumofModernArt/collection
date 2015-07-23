@@ -1,12 +1,11 @@
 {
   "Medium": "Lithograph, printed on chine coll\u00e9", 
-  "Dimensions": "composition  22 3/16 x 30 7/16\" (56.3 x 77.3 cm)  sheet  30 1/8 x 38\" (76 x 96.6 cm)", 
+  "Dimensions": "composition  22 3/16 x 30 7/16\" (56.3 x 77.3 cm)\r\nsheet  30 1/8 x 38\" (76 x 96.6 cm)", 
   "Classification": "Print", 
   "Artist": "Jos\u00e9 Bedia", 
   "URL": "http://www.moma.org/collection/works/60486", 
   "CuratorApproved": "Y", 
-  "Title": "Dobles", 
-  "DateAcquired": "1995-01-24", 
+  "CreditLine": "Purchase", 
   "Date": "1994", 
   "ArtistID": 7428, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "31.1995", 
-  "ArtistBio": "Cuban, born 1959", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(Cuban, born 1959)", 
+  "DateAcquired": "1995-01-24", 
+  "\ufeffTitle": "Dobles", 
   "ObjectID": "60486"
 }

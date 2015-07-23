@@ -5,8 +5,7 @@
   "Artist": "Saul Bass", 
   "URL": "http://www.moma.org/collection/works/4824", 
   "CuratorApproved": "Y", 
-  "Title": "Anatomy of a Murder", 
-  "DateAcquired": "1960-04-06", 
+  "CreditLine": "Gift of Otto Preminger Productions, United Artists", 
   "Date": "1959", 
   "ArtistID": 372, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "38.1960", 
-  "ArtistBio": "American, 1920\u20131996", 
-  "CreditLine": "Gift of Otto Preminger Productions, United Artists", 
+  "ArtistBio": "(American, 1920\u20131996)", 
+  "DateAcquired": "1960-04-06", 
+  "\ufeffTitle": "Anatomy of a Murder", 
   "ObjectID": "4824"
 }

@@ -5,8 +5,7 @@
   "Artist": "Julia Margaret Cameron", 
   "URL": "http://www.moma.org/collection/works/46573", 
   "CuratorApproved": "Y", 
-  "Title": "Sir John F. W. Herschel", 
-  "DateAcquired": "1952-05-20", 
+  "CreditLine": "Gift of Edward Steichen", 
   "Date": "1867", 
   "ArtistID": 932, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "119.1952", 
-  "ArtistBio": "British, 1815\u20131879", 
-  "CreditLine": "Gift of Edward Steichen", 
+  "ArtistBio": "(British, 1815\u20131879)", 
+  "DateAcquired": "1952-05-20", 
+  "\ufeffTitle": "Sir John F. W. Herschel", 
   "ObjectID": "46573"
 }

@@ -5,8 +5,7 @@
   "Artist": "Ernst Lichtblau", 
   "URL": "http://www.moma.org/collection/works/2246", 
   "CuratorApproved": "Y", 
-  "Title": "Platter", 
-  "DateAcquired": "1952-05-20", 
+  "CreditLine": "Gift of the manufacturer", 
   "Date": "1950", 
   "ArtistID": 3541, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "129.1952", 
-  "ArtistBio": "American, born Austria. 1883\u20131963", 
-  "CreditLine": "Gift of the manufacturer", 
+  "ArtistBio": "(American, born Austria. 1883\u20131963)", 
+  "DateAcquired": "1952-05-20", 
+  "\ufeffTitle": "Platter", 
   "ObjectID": "2246"
 }

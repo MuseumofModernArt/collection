@@ -1,12 +1,11 @@
 {
   "Medium": "Lithograph and collagraph", 
-  "Dimensions": "Composition (irreg.): 25 1/2 x 39 5/16\" (64.8 x 99.9 cm)  Sheet: 25 3/16 x 39 5/16\" (64 x 99.9 cm)", 
+  "Dimensions": "Composition (irreg.): 25 1/2 x 39 5/16\" (64.8 x 99.9 cm)\r\nSheet: 25 3/16 x 39 5/16\" (64 x 99.9 cm)", 
   "Classification": "Print", 
   "Artist": "Antoni T\u00e0pies", 
   "URL": "http://www.moma.org/collection/works/69699", 
   "CuratorApproved": "Y", 
-  "Title": "No. 12 from the series Variations on a Musical Theme (Variations sur un th\u00e8me musical)", 
-  "DateAcquired": "1990-10-23", 
+  "CreditLine": "Gift of Galerie Lelong, New York", 
   "Date": "1987", 
   "ArtistID": 5809, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "471.1990", 
-  "ArtistBio": "Spanish, 1923\u20132012", 
-  "CreditLine": "Gift of Galerie Lelong, New York", 
+  "ArtistBio": "(Spanish, 1923\u20132012)", 
+  "DateAcquired": "1990-10-23", 
+  "\ufeffTitle": "No. 12 from the series Variations on a Musical Theme (Variations sur un th\u00e8me musical)", 
   "ObjectID": "69699"
 }

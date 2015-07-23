@@ -5,8 +5,7 @@
   "Artist": "Paul Klee", 
   "URL": "http://www.moma.org/collection/works/67179", 
   "CuratorApproved": "Y", 
-  "Title": "Dying Light", 
-  "DateAcquired": "1948-10-06", 
+  "CreditLine": "Gift of Victor S. Riesenfeld", 
   "Date": "1919", 
   "ArtistID": 3130, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "337.1948", 
-  "ArtistBio": "German, born Switzerland. 1879\u20131940", 
-  "CreditLine": "Gift of Victor S. Riesenfeld", 
+  "ArtistBio": "(German, born Switzerland. 1879\u20131940)", 
+  "DateAcquired": "1948-10-06", 
+  "\ufeffTitle": "Dying Light (Ausl\u00f6schendes Licht) for the illustrated book Das Kestnerbuch (The Kestner Book)", 
   "ObjectID": "67179"
 }

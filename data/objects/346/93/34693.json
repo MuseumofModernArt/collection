@@ -5,8 +5,7 @@
   "Artist": "Otto Dix", 
   "URL": "http://www.moma.org/collection/works/34693", 
   "CuratorApproved": "Y", 
-  "Title": "Self-Portrait", 
-  "DateAcquired": "1957-10-09", 
+  "CreditLine": "Gift of Richard L. Feigen", 
   "Date": "1922", 
   "ArtistID": 1559, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "142.1957", 
-  "ArtistBio": "German, 1891\u20131969", 
-  "CreditLine": "Gift of Richard L. Feigen", 
+  "ArtistBio": "(German, 1891\u20131969)", 
+  "DateAcquired": "1957-10-09", 
+  "\ufeffTitle": "Self-Portrait (Selbstportr\u00e4t)", 
   "ObjectID": "34693"
 }

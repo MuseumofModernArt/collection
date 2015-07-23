@@ -1,12 +1,11 @@
 {
-  "Medium": "Laminated thermal transfer print, on two sheets  ", 
-  "Dimensions": "composition  32 13/16 x 44 5/8\" (83.4 x 113.4 cm)  full sheet  36 5/16 x 47 1/4\" (92.3 x 120.1 cm)  (.a) sheet: 92.3 x 29.7 cm (36 5/16\" x 11 11/16\")  (.b) sheet: 29.7 x 120.1 cm (11 11/26\" x 47 1/4\")", 
+  "Medium": "Laminated thermal transfer print, on two sheets\r\n", 
+  "Dimensions": "composition  32 13/16 x 44 5/8\" (83.4 x 113.4 cm)\r\nfull sheet  36 5/16 x 47 1/4\" (92.3 x 120.1 cm)\r\n(.a) sheet: 92.3 x 29.7 cm (36 5/16\" x 11 11/16\")  (.b) sheet: 29.7 x 120.1 cm (11 11/26\" x 47 1/4\")", 
   "Classification": "Print", 
   "Artist": "Gretchen Bender", 
   "URL": "http://www.moma.org/collection/works/64769", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled (Entertainment Cocoon Series)", 
-  "DateAcquired": "1992-05-20", 
+  "CreditLine": "John B. Turner Fund", 
   "Date": "1992", 
   "ArtistID": 6855, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "227.1992.a-b", 
-  "ArtistBio": "American, 1951\u20132004", 
-  "CreditLine": "John B. Turner Fund", 
+  "ArtistBio": "(American, 1951\u20132004)", 
+  "DateAcquired": "1992-05-20", 
+  "\ufeffTitle": "Untitled (Entertainment Cocoon Series)", 
   "ObjectID": "64769"
 }

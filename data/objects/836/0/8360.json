@@ -5,8 +5,7 @@
   "Artist": "Waldemar Swierzy", 
   "URL": "http://www.moma.org/collection/works/8360", 
   "CuratorApproved": "Y", 
-  "Title": "Dziecko Z Ktorym Sie Spotykamy", 
-  "DateAcquired": "1979-05-30", 
+  "CreditLine": "Given anonymously", 
   "Date": "Before 1979", 
   "ArtistID": 5753, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "902.1979", 
-  "ArtistBio": "Polish, born 1931", 
-  "CreditLine": "Given anonymously", 
+  "ArtistBio": "(Polish, born 1931)", 
+  "DateAcquired": "1979-05-30", 
+  "\ufeffTitle": "Dziecko Z Ktorym Sie Spotykamy", 
   "ObjectID": "8360"
 }

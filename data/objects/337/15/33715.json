@@ -5,8 +5,7 @@
   "Artist": "Lyonel Feininger", 
   "URL": "http://www.moma.org/collection/works/33715", 
   "CuratorApproved": "Y", 
-  "Title": "The Village of Legefeld I", 
-  "DateAcquired": "1978-04-04", 
+  "CreditLine": "The Joan and Lester Avnet Collection", 
   "Date": "1916", 
   "ArtistID": 1832, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "81.1978", 
-  "ArtistBio": "American, 1871\u20131956", 
-  "CreditLine": "The Joan and Lester Avnet Collection", 
+  "ArtistBio": "(American, 1871\u20131956)", 
+  "DateAcquired": "1978-04-04", 
+  "\ufeffTitle": "The Village of Legefeld I (Dorf Legefeld I)", 
   "ObjectID": "33715"
 }

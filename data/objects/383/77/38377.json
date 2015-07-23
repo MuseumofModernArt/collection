@@ -5,8 +5,7 @@
   "Artist": "Otto Dix", 
   "URL": "http://www.moma.org/collection/works/38377", 
   "CuratorApproved": "Y", 
-  "Title": "Portrait of Violinist Carlo von Rust", 
-  "DateAcquired": "1969-12-04", 
+  "CreditLine": "Purchase", 
   "Date": "(1920)", 
   "ArtistID": 1559, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "1013.1969", 
-  "ArtistBio": "German, 1891\u20131969", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(German, 1891\u20131969)", 
+  "DateAcquired": "1969-12-04", 
+  "\ufeffTitle": "Portrait of Violinist Carlo von Rust (Bildnis des Geigers Carlo von Rust)", 
   "ObjectID": "38377"
 }

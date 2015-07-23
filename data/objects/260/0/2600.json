@@ -5,8 +5,7 @@
   "Artist": "Mario Botta", 
   "URL": "http://www.moma.org/collection/works/2600", 
   "CuratorApproved": "Y", 
-  "Title": "Carafes", 
-  "DateAcquired": "1987-05-27", 
+  "CreditLine": "Gift of Cleto Munari", 
   "Date": "1986", 
   "ArtistID": 696, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "198.1987.1-2", 
-  "ArtistBio": "Swiss, born 1943", 
-  "CreditLine": "Gift of Cleto Munari", 
+  "ArtistBio": "(Swiss, born 1943)", 
+  "DateAcquired": "1987-05-27", 
+  "\ufeffTitle": "Carafes", 
   "ObjectID": "2600"
 }

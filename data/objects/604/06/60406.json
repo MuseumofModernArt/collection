@@ -5,8 +5,7 @@
   "Artist": "Fernand L\u00e9ger", 
   "URL": "http://www.moma.org/collection/works/60406", 
   "CuratorApproved": "Y", 
-  "Title": "Composition", 
-  "DateAcquired": "1952-01-22", 
+  "CreditLine": "Purchase", 
   "Date": "(1948)", 
   "ArtistID": 6624, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "28.1952", 
-  "ArtistBio": "French, 1881\u20131955", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(French, 1881\u20131955)", 
+  "DateAcquired": "1952-01-22", 
+  "\ufeffTitle": "Composition", 
   "ObjectID": "60406"
 }

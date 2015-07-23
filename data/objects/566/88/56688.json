@@ -5,8 +5,7 @@
   "Artist": "Robert Adams", 
   "URL": "http://www.moma.org/collection/works/56688", 
   "CuratorApproved": "Y", 
-  "Title": "Quarried Mesa Top, Pueblo County, Colorado", 
-  "DateAcquired": "1996-12-10", 
+  "CreditLine": "Geraldine J. Murphy Fund", 
   "Date": "1978", 
   "ArtistID": 66, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "840.1996", 
-  "ArtistBio": "American, born 1937", 
-  "CreditLine": "Geraldine J. Murphy Fund", 
+  "ArtistBio": "(American, born 1937)", 
+  "DateAcquired": "1996-12-10", 
+  "\ufeffTitle": "Quarried Mesa Top, Pueblo County, Colorado", 
   "ObjectID": "56688"
 }

@@ -5,8 +5,7 @@
   "Artist": "Mark Tobey", 
   "URL": "http://www.moma.org/collection/works/34703", 
   "CuratorApproved": "Y", 
-  "Title": "Remote Field", 
-  "DateAcquired": "1947-06-17", 
+  "CreditLine": "Gift of Mr. and Mrs. Jan de Graaff", 
   "Date": "1944", 
   "ArtistID": 5889, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "143.1947", 
-  "ArtistBio": "American, 1890\u20131976", 
-  "CreditLine": "Gift of Mr. and Mrs. Jan de Graaff", 
+  "ArtistBio": "(American, 1890\u20131976)", 
+  "DateAcquired": "1947-06-17", 
+  "\ufeffTitle": "Remote Field", 
   "ObjectID": "34703"
 }

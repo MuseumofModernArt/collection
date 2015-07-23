@@ -5,8 +5,7 @@
   "Artist": "Franciszek Starowieyski", 
   "URL": "http://www.moma.org/collection/works/7017", 
   "CuratorApproved": "Y", 
-  "Title": "Panna Mloda w Zalobie", 
-  "DateAcquired": "1985-11-18", 
+  "CreditLine": "Gift of the designer", 
   "Date": "1969", 
   "ArtistID": 5607, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "448.1985", 
-  "ArtistBio": "Polish, 1930\u20132009", 
-  "CreditLine": "Gift of the designer", 
+  "ArtistBio": "(Polish, 1930\u20132009)", 
+  "DateAcquired": "1985-11-18", 
+  "\ufeffTitle": "Panna Mloda w Zalobie", 
   "ObjectID": "7017"
 }

@@ -1,12 +1,11 @@
 {
   "Medium": "Relief print", 
-  "Dimensions": "Plate: 13 9/16 x 23 5/8\" (34.5 x 60 cm)  Sheet: 20 11/16 x 30 9/16\" (52.5 x 77.7 cm)", 
+  "Dimensions": "Plate: 13 9/16 x 23 5/8\" (34.5 x 60 cm)\r\nSheet: 20 11/16 x 30 9/16\" (52.5 x 77.7 cm)", 
   "Classification": "Print", 
   "Artist": "Roy Lichtenstein", 
   "URL": "http://www.moma.org/collection/works/66675", 
   "CuratorApproved": "Y", 
-  "Title": "Haystack #7 from the Haystack Series", 
-  "DateAcquired": "1985-10-07", 
+  "CreditLine": "Gift of Malcolm Goldstein (through the Associates of the Department of Prints and Illustrated Books)", 
   "Date": "1969", 
   "ArtistID": 3542, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "311.1985", 
-  "ArtistBio": "American, 1923\u20131997", 
-  "CreditLine": "Gift of Malcolm Goldstein (through the Associates of the Department of Prints and Illustrated Books)", 
+  "ArtistBio": "(American, 1923\u20131997)", 
+  "DateAcquired": "1985-10-07", 
+  "\ufeffTitle": "Haystack #7 from the Haystack Series", 
   "ObjectID": "66675"
 }

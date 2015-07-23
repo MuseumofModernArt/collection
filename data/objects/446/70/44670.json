@@ -5,8 +5,7 @@
   "Artist": "Unknown photographer", 
   "URL": "http://www.moma.org/collection/works/44670", 
   "CuratorApproved": "Y", 
-  "Title": "Nice au champ de courses", 
-  "DateAcquired": "1963-01-08", 
+  "CreditLine": "Gift of Jacques Henri Lartigue", 
   "Date": "1912", 
   "ArtistID": 6028, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "45.1963", 
-  "ArtistBio": "NULL", 
-  "CreditLine": "Gift of Jacques Henri Lartigue", 
+  "ArtistBio": "", 
+  "DateAcquired": "1963-01-08", 
+  "\ufeffTitle": "Nice au champ de courses", 
   "ObjectID": "44670"
 }

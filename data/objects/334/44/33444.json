@@ -5,8 +5,7 @@
   "Artist": "Mikhail Larionov", 
   "URL": "http://www.moma.org/collection/works/33444", 
   "CuratorApproved": "Y", 
-  "Title": "Spiral", 
-  "DateAcquired": "1936-04-15", 
+  "CreditLine": "Gift of the artist", 
   "Date": "(1917) (dated 1915)", 
   "ArtistID": 3389, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "38.1936", 
-  "ArtistBio": "Russian, 1881\u20131964", 
-  "CreditLine": "Gift of the artist", 
+  "ArtistBio": "(Russian, 1881\u20131964)", 
+  "DateAcquired": "1936-04-15", 
+  "\ufeffTitle": "Spiral", 
   "ObjectID": "33444"
 }

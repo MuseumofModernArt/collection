@@ -1,12 +1,11 @@
 {
   "Medium": "Intaglio", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "Arthur Luis Piza", 
   "URL": "http://www.moma.org/collection/works/69000", 
   "CuratorApproved": "Y", 
-  "Title": "Beige Rendezvous", 
-  "DateAcquired": "1970-10-22", 
+  "CreditLine": "Mrs. Donald B. Straus Fund", 
   "Date": "n.d.", 
   "ArtistID": 4644, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "430.1970", 
-  "ArtistBio": "Brazilian", 
-  "CreditLine": "Mrs. Donald B. Straus Fund", 
+  "ArtistBio": "(Brazilian)", 
+  "DateAcquired": "1970-10-22", 
+  "\ufeffTitle": "Beige Rendezvous", 
   "ObjectID": "69000"
 }

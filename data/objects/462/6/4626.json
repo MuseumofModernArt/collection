@@ -5,8 +5,7 @@
   "Artist": "George Nelson", 
   "URL": "http://www.moma.org/collection/works/4626", 
   "CuratorApproved": "Y", 
-  "Title": "Editor 2 Electric Typewriter", 
-  "DateAcquired": "1968-10-07", 
+  "CreditLine": "Gift of the manufacturer", 
   "Date": "1968", 
   "ArtistID": 4257, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "1239.1968", 
-  "ArtistBio": "American, 1908\u20131986", 
-  "CreditLine": "Gift of the manufacturer", 
+  "ArtistBio": "(American, 1908\u20131986)", 
+  "DateAcquired": "1968-10-07", 
+  "\ufeffTitle": "Editor 2 Electric Typewriter", 
   "ObjectID": "4626"
 }

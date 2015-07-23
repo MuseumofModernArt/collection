@@ -5,8 +5,7 @@
   "Artist": "Huller", 
   "URL": "http://www.moma.org/collection/works/6465", 
   "CuratorApproved": "Y", 
-  "Title": "Werkstatt Arbeiten der Bewerbeschule Zuerich", 
-  "DateAcquired": "1937-10-30", 
+  "CreditLine": "Purchase", 
   "Date": "c. 1932", 
   "ArtistID": 2760, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "354.1937", 
-  "ArtistBio": "Swiss", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(Swiss)", 
+  "DateAcquired": "1937-10-30", 
+  "\ufeffTitle": "Werkstatt Arbeiten der Bewerbeschule Zuerich", 
   "ObjectID": "6465"
 }

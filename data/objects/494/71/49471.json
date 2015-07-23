@@ -5,8 +5,7 @@
   "Artist": "Thomas Struth", 
   "URL": "http://www.moma.org/collection/works/49471", 
   "CuratorApproved": "Y", 
-  "Title": "Prince Regent Street, Edinburgh", 
-  "DateAcquired": "1999-06-10", 
+  "CreditLine": "Gift of Robert and Sylvie Liska in honor of Jo Carole and Ronald S. Lauder", 
   "Date": "1985", 
   "ArtistID": 7825, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "245.1999", 
-  "ArtistBio": "German, born 1954", 
-  "CreditLine": "Gift of Robert and Sylvie Liska in honor of Jo Carole and Ronald S. Lauder", 
+  "ArtistBio": "(German, born 1954)", 
+  "DateAcquired": "1999-06-10", 
+  "\ufeffTitle": "Prince Regent Street, Edinburgh", 
   "ObjectID": "49471"
 }

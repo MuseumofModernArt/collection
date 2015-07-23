@@ -5,8 +5,7 @@
   "Artist": "Lee Bontecou", 
   "URL": "http://www.moma.org/collection/works/66145", 
   "CuratorApproved": "Y", 
-  "Title": "Fourteenth Stone", 
-  "DateAcquired": "1972-10-05", 
+  "CreditLine": "Gift of Celeste Bartos", 
   "Date": "1968-72", 
   "ArtistID": 670, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "289.1972", 
-  "ArtistBio": "American, born 1931", 
-  "CreditLine": "Gift of Celeste Bartos", 
+  "ArtistBio": "(American, born 1931)", 
+  "DateAcquired": "1972-10-05", 
+  "\ufeffTitle": "Fourteenth Stone", 
   "ObjectID": "66145"
 }

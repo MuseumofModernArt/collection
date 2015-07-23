@@ -5,8 +5,7 @@
   "Artist": "Edward Ruscha", 
   "URL": "http://www.moma.org/collection/works/34931", 
   "CuratorApproved": "Y", 
-  "Title": "1984", 
-  "DateAcquired": "1978-04-04", 
+  "CreditLine": "The Joan and Lester Avnet Collection", 
   "Date": "1967", 
   "ArtistID": 5086, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "160.1978", 
-  "ArtistBio": "American, born 1937", 
-  "CreditLine": "The Joan and Lester Avnet Collection", 
+  "ArtistBio": "(American, born 1937)", 
+  "DateAcquired": "1978-04-04", 
+  "\ufeffTitle": "1984", 
   "ObjectID": "34931"
 }

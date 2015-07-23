@@ -5,8 +5,7 @@
   "Artist": "Hobie Alter", 
   "URL": "http://www.moma.org/collection/works/3167", 
   "CuratorApproved": "Y", 
-  "Title": "Expert Model Surfboard", 
-  "DateAcquired": "1962-11-07", 
+  "CreditLine": "Gift of the manufacturer", 
   "Date": "1958", 
   "ArtistID": 128, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "275.1962", 
-  "ArtistBio": "American, born 1933", 
-  "CreditLine": "Gift of the manufacturer", 
+  "ArtistBio": "(American, born 1933)", 
+  "DateAcquired": "1962-11-07", 
+  "\ufeffTitle": "Expert Model Surfboard", 
   "ObjectID": "3167"
 }

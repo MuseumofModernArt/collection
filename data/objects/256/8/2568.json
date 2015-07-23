@@ -5,8 +5,7 @@
   "Artist": "M. Schimmel", 
   "URL": "http://www.moma.org/collection/works/2568", 
   "CuratorApproved": "Y", 
-  "Title": "Salad Basket", 
-  "DateAcquired": "1948-03-17", 
+  "CreditLine": "Purchase", 
   "Date": "c. 1946", 
   "ArtistID": 5217, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "150.1948", 
-  "ArtistBio": "Nationality unknown", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(Nationality unknown)", 
+  "DateAcquired": "1948-03-17", 
+  "\ufeffTitle": "Salad Basket", 
   "ObjectID": "2568"
 }

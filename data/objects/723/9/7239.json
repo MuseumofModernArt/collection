@@ -5,8 +5,7 @@
   "Artist": "Herbert Leupin", 
   "URL": "http://www.moma.org/collection/works/7239", 
   "CuratorApproved": "Y", 
-  "Title": "..Trink Lieber Eptinger!", 
-  "DateAcquired": "1951-05-24", 
+  "CreditLine": "Gift of the Swiss Government", 
   "Date": "1948", 
   "ArtistID": 3503, 
   "Keywords": [
@@ -16,7 +15,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "492.1951", 
-  "ArtistBio": "Swiss, 1916\u20131999", 
-  "CreditLine": "Gift of the Swiss Government", 
+  "ArtistBio": "(Swiss, 1916\u20131999)", 
+  "DateAcquired": "1951-05-24", 
+  "\ufeffTitle": "..Trink Lieber Eptinger!", 
   "ObjectID": "7239"
 }

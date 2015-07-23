@@ -5,8 +5,7 @@
   "Artist": "Franz Marc", 
   "URL": "http://www.moma.org/collection/works/37666", 
   "CuratorApproved": "Y", 
-  "Title": "Elephant", 
-  "DateAcquired": "1965-10-07", 
+  "CreditLine": "Gift of Julia Feininger", 
   "Date": "(1913)", 
   "ArtistID": 3748, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "633.1965", 
-  "ArtistBio": "German, 1880\u20131916", 
-  "CreditLine": "Gift of Julia Feininger", 
+  "ArtistBio": "(German, 1880\u20131916)", 
+  "DateAcquired": "1965-10-07", 
+  "\ufeffTitle": "Elephant (Elefant)", 
   "ObjectID": "37666"
 }

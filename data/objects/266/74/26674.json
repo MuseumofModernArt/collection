@@ -5,8 +5,7 @@
   "Artist": "Ernst Ludwig Kirchner", 
   "URL": "http://www.moma.org/collection/works/26674", 
   "CuratorApproved": "Y", 
-  "Title": "Front endpapers from Umbra vitae (Shadow of Life)", 
-  "DateAcquired": "1964-10-06", 
+  "CreditLine": "", 
   "Date": "1924", 
   "ArtistID": 3115, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "861.1964.2", 
-  "ArtistBio": "German, 1880\u20131938", 
-  "CreditLine": "NULL", 
+  "ArtistBio": "(German, 1880\u20131938)", 
+  "DateAcquired": "1964-10-06", 
+  "\ufeffTitle": "Front endpapers (Vorsatz) from Umbra vitae (Shadow of Life)", 
   "ObjectID": "26674"
 }

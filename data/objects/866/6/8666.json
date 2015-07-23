@@ -5,8 +5,7 @@
   "Artist": "Kurt Schwitters", 
   "URL": "http://www.moma.org/collection/works/8666", 
   "CuratorApproved": "Y", 
-  "Title": "Merz", 
-  "DateAcquired": "1999-12-10", 
+  "CreditLine": "Jan Tschichold Collection, Gift of Philip Johnson", 
   "Date": "1926-27", 
   "ArtistID": 5293, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "917.1999", 
-  "ArtistBio": "German, 1887\u20131948", 
-  "CreditLine": "Jan Tschichold Collection, Gift of Philip Johnson", 
+  "ArtistBio": "(German, 1887\u20131948)", 
+  "DateAcquired": "1999-12-10", 
+  "\ufeffTitle": "Merz", 
   "ObjectID": "8666"
 }

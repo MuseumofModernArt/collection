@@ -1,12 +1,11 @@
 {
   "Medium": "Chrome-plated tubular steel and lacquered plywood", 
-  "Dimensions": ".1: 23 7/8 x 26 x 15 1/4\" (60.7 x 66 x 38.7 cm)  .2: 21 15/16 x 23 1/4 x 15 1/4\" (55.7 x 59 x 38.7 cm)  .3: 19 15/16 x 20 3/8 x 15 1/4\" (50.6 x 51.8 x 38.7 cm)  .4: 18 x 17 3/4 x 15 1/4\" (45.7 x 45.1 x 38.7 cm)", 
+  "Dimensions": ".1: 23 7/8 x 26 x 15 1/4\" (60.7 x 66 x 38.7 cm)\r\n.2: 21 15/16 x 23 1/4 x 15 1/4\" (55.7 x 59 x 38.7 cm)\r\n.3: 19 15/16 x 20 3/8 x 15 1/4\" (50.6 x 51.8 x 38.7 cm)\r\n.4: 18 x 17 3/4 x 15 1/4\" (45.7 x 45.1 x 38.7 cm)", 
   "Classification": "A&D Design", 
   "Artist": "Marcel Breuer", 
   "URL": "http://www.moma.org/collection/works/2641", 
   "CuratorApproved": "Y", 
-  "Title": "Nesting Tables (model B9)", 
-  "DateAcquired": "1950-06-08", 
+  "CreditLine": "Gift of Dr. Anny Baumann", 
   "Date": "1925-26", 
   "ArtistID": 769, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "204.1950.1-4", 
-  "ArtistBio": "American, born Hungary. 1902\u20131981", 
-  "CreditLine": "Gift of Dr. Anny Baumann", 
+  "ArtistBio": "(American, born Hungary. 1902\u20131981)", 
+  "DateAcquired": "1950-06-08", 
+  "\ufeffTitle": "Nesting Tables (model B9)", 
   "ObjectID": "2641"
 }

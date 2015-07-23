@@ -5,8 +5,7 @@
   "Artist": "Dennis Oppenheim", 
   "URL": "http://www.moma.org/collection/works/38397", 
   "CuratorApproved": "Y", 
-  "Title": "Highway 20", 
-  "DateAcquired": "1969-12-09", 
+  "CreditLine": "Larry Aldrich Foundation Fund", 
   "Date": "1969", 
   "ArtistID": 4415, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "1070.1969", 
-  "ArtistBio": "American, 1938\u20132011", 
-  "CreditLine": "Larry Aldrich Foundation Fund", 
+  "ArtistBio": "(American, 1938\u20132011)", 
+  "DateAcquired": "1969-12-09", 
+  "\ufeffTitle": "Highway 20", 
   "ObjectID": "38397"
 }

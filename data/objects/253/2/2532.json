@@ -1,12 +1,11 @@
 {
   "Medium": "Brass", 
-  "Dimensions": ".1 (dish): 1 1/8 x 9 1/4\" (2.8 x 23.5 cm)  .2 (bowl): 3 5/8 x 10 5/16\" (9.2 x 26.2 cm)", 
+  "Dimensions": ".1 (dish): 1 1/8 x 9 1/4\" (2.8 x 23.5 cm)\r\n.2 (bowl): 3 5/8 x 10 5/16\" (9.2 x 26.2 cm)", 
   "Classification": "A&D Design", 
   "Artist": "Ronald Hayes Pearson", 
   "URL": "http://www.moma.org/collection/works/2532", 
   "CuratorApproved": "Y", 
-  "Title": "Dish and Bowl", 
-  "DateAcquired": "1955-04-06", 
+  "CreditLine": "Gift of Bonniers, Inc.", 
   "Date": "c. 1949", 
   "ArtistID": 4532, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "142.1955.1-2", 
-  "ArtistBio": "American, 1924\u20131996", 
-  "CreditLine": "Gift of Bonniers, Inc.", 
+  "ArtistBio": "(American, 1924\u20131996)", 
+  "DateAcquired": "1955-04-06", 
+  "\ufeffTitle": "Dish and Bowl", 
   "ObjectID": "2532"
 }

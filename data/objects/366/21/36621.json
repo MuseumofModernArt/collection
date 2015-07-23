@@ -5,8 +5,7 @@
   "Artist": "Jacob El Hanani", 
   "URL": "http://www.moma.org/collection/works/36621", 
   "CuratorApproved": "Y", 
-  "Title": "Shura", 
-  "DateAcquired": "1999-10-21", 
+  "CreditLine": "Gift of Sarah-Ann and Werner H. Kramarsky", 
   "Date": "(1986)", 
   "ArtistID": 1710, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "385.1999", 
-  "ArtistBio": "Israeli, born 1947", 
-  "CreditLine": "Gift of Sarah-Ann and Werner H. Kramarsky", 
+  "ArtistBio": "(Israeli, born 1947)", 
+  "DateAcquired": "1999-10-21", 
+  "\ufeffTitle": "Shura", 
   "ObjectID": "36621"
 }

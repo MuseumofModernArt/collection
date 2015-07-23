@@ -1,12 +1,11 @@
 {
   "Medium": "Illustrated Book with 8 lithographs", 
-  "Dimensions": "page  19 3/16 x 14 1/8\" (48 x 35.9 cm)  Prints:  various dimensions.", 
+  "Dimensions": "page  19 3/16 x 14 1/8\" (48 x 35.9 cm)\r\nPrints:  various dimensions.", 
   "Classification": "Illustrated Book", 
   "Artist": "Joan Mitchell", 
   "URL": "http://www.moma.org/collection/works/10614", 
   "CuratorApproved": "Y", 
-  "Title": "Poems", 
-  "DateAcquired": "1993-01-18", 
+  "CreditLine": "Gift of Tyler Graphics in memory of Joan Mitchell", 
   "Date": "1992", 
   "ArtistID": 4026, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "37.1993.1-8", 
-  "ArtistBio": "American, 1925\u20131992", 
-  "CreditLine": "Gift of Tyler Graphics in memory of Joan Mitchell", 
+  "ArtistBio": "(American, 1925\u20131992)", 
+  "DateAcquired": "1993-01-18", 
+  "\ufeffTitle": "Poems", 
   "ObjectID": "10614"
 }

@@ -5,8 +5,7 @@
   "Artist": "Unknown photographer", 
   "URL": "http://www.moma.org/collection/works/46430", 
   "CuratorApproved": "Y", 
-  "Title": "London Terminal Aerodrome, Croydon", 
-  "DateAcquired": "1988-03-10", 
+  "CreditLine": "Gift of Paul F. Walter", 
   "Date": "1921-22", 
   "ArtistID": 6028, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "111.1988", 
-  "ArtistBio": "NULL", 
-  "CreditLine": "Gift of Paul F. Walter", 
+  "ArtistBio": "", 
+  "DateAcquired": "1988-03-10", 
+  "\ufeffTitle": "London Terminal Aerodrome, Croydon", 
   "ObjectID": "46430"
 }

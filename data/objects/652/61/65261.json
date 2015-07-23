@@ -5,8 +5,7 @@
   "Artist": "Henri Matisse", 
   "URL": "http://www.moma.org/collection/works/65261", 
   "CuratorApproved": "Y", 
-  "Title": "Harbor at Collioure (Port de Collioure)", 
-  "DateAcquired": "1950-10-11", 
+  "CreditLine": "Given in memory of Leo and Nina Stein", 
   "Date": "(1907)", 
   "ArtistID": 3832, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "252.1950", 
-  "ArtistBio": "French, 1869\u20131954", 
-  "CreditLine": "Given in memory of Leo and Nina Stein", 
+  "ArtistBio": "(French, 1869\u20131954)", 
+  "DateAcquired": "1950-10-11", 
+  "\ufeffTitle": "Harbor at Collioure (Port de Collioure)", 
   "ObjectID": "65261"
 }

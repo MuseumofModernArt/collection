@@ -5,8 +5,7 @@
   "Artist": "Kiki Smith", 
   "URL": "http://www.moma.org/collection/works/61269", 
   "CuratorApproved": "Y", 
-  "Title": "White Mammals", 
-  "DateAcquired": "1999-03-04", 
+  "CreditLine": "Gift of The Junior Associates of The Museum of Modern Art", 
   "Date": "1998", 
   "ArtistID": 5486, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "71.1999.a-g", 
-  "ArtistBio": "American, born Germany 1954", 
-  "CreditLine": "Gift of The Junior Associates of The Museum of Modern Art", 
+  "ArtistBio": "(American, born Germany 1954)", 
+  "DateAcquired": "1999-03-04", 
+  "\ufeffTitle": "White Mammals", 
   "ObjectID": "61269"
 }

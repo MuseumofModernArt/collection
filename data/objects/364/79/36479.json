@@ -5,8 +5,7 @@
   "Artist": "Susan Rothenberg", 
   "URL": "http://www.moma.org/collection/works/36479", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled Drawing, No. 44", 
-  "DateAcquired": "1977-06-14", 
+  "CreditLine": "Gift of Mrs. Gilbert W. Chapman", 
   "Date": "(1977)", 
   "ArtistID": 5044, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "352.1977", 
-  "ArtistBio": "American, born 1945", 
-  "CreditLine": "Gift of Mrs. Gilbert W. Chapman", 
+  "ArtistBio": "(American, born 1945)", 
+  "DateAcquired": "1977-06-14", 
+  "\ufeffTitle": "Untitled Drawing, No. 44", 
   "ObjectID": "36479"
 }

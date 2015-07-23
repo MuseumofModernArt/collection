@@ -1,12 +1,11 @@
 {
   "Medium": "Opaque glass", 
-  "Dimensions": ".1 (black): 4 1/8 x 2 7/8\" (10.5 x 7.3 cm)  .2 (white): 3 15/16 x 2 7/8\" (10 x 7.3 cm)", 
+  "Dimensions": ".1 (black): 4 1/8 x 2 7/8\" (10.5 x 7.3 cm)\r\n.2 (white): 3 15/16 x 2 7/8\" (10 x 7.3 cm)", 
   "Classification": "A&D Design", 
   "Artist": "Unknown Designer", 
   "URL": "http://www.moma.org/collection/works/2862", 
   "CuratorApproved": "Y", 
-  "Title": "Tumblers", 
-  "DateAcquired": "1958-12-04", 
+  "CreditLine": "Phyllis B. Lambert Fund", 
   "Date": "Before 1958", 
   "ArtistID": 6016, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "230.1958.1-2", 
-  "ArtistBio": "Italian", 
-  "CreditLine": "Phyllis B. Lambert Fund", 
+  "ArtistBio": "(Italian)", 
+  "DateAcquired": "1958-12-04", 
+  "\ufeffTitle": "Tumblers", 
   "ObjectID": "2862"
 }

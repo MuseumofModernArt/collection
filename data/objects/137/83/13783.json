@@ -1,12 +1,11 @@
 {
   "Medium": "Illustrated book with eleven linoleum cuts", 
-  "Dimensions": "book page  8 15/16 x 6 7/8\" (22.7 x 17.5 cm)  portfolio sheet  20 1/2 x 20 1/16\" (52 x 51 cm)  Prints:  various dimensions.", 
+  "Dimensions": "book page  8 15/16 x 6 7/8\" (22.7 x 17.5 cm)\r\nportfolio sheet  20 1/2 x 20 1/16\" (52 x 51 cm)\r\nPrints:  various dimensions.", 
   "Classification": "Illustrated Book", 
   "Artist": "Alex Katz", 
   "URL": "http://www.moma.org/collection/works/13783", 
   "CuratorApproved": "Y", 
-  "Title": "A Tremor in the Morning", 
-  "DateAcquired": "1986-05-20", 
+  "CreditLine": "The Philip and Lynn Straus Foundation Fund", 
   "Date": "1986", 
   "ArtistID": 3016, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "212.1986.A-B", 
-  "ArtistBio": "American, born 1927", 
-  "CreditLine": "The Philip and Lynn Straus Foundation Fund", 
+  "ArtistBio": "(American, born 1927)", 
+  "DateAcquired": "1986-05-20", 
+  "\ufeffTitle": "A Tremor in the Morning", 
   "ObjectID": "13783"
 }

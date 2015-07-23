@@ -5,8 +5,7 @@
   "Artist": "Arnulf Rainer", 
   "URL": "http://www.moma.org/collection/works/36637", 
   "CuratorApproved": "Y", 
-  "Title": "Christus", 
-  "DateAcquired": "1984-11-29", 
+  "CreditLine": "Gift of The Cosmopolitan Arts Foundation", 
   "Date": "(1969)", 
   "ArtistID": 4792, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "392.1984", 
-  "ArtistBio": "Austrian, born 1929", 
-  "CreditLine": "Gift of The Cosmopolitan Arts Foundation", 
+  "ArtistBio": "(Austrian, born 1929)", 
+  "DateAcquired": "1984-11-29", 
+  "\ufeffTitle": "Christus", 
   "ObjectID": "36637"
 }

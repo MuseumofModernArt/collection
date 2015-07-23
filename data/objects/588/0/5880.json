@@ -5,8 +5,7 @@
   "Artist": "Eugene Feldman", 
   "URL": "http://www.moma.org/collection/works/5880", 
   "CuratorApproved": "Y", 
-  "Title": "Calendar", 
-  "DateAcquired": "1965-04-06", 
+  "CreditLine": "Gift of the artist", 
   "Date": "1965", 
   "ArtistID": 1838, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "256.1965", 
-  "ArtistBio": "American, born 1921", 
-  "CreditLine": "Gift of the artist", 
+  "ArtistBio": "(American, born 1921)", 
+  "DateAcquired": "1965-04-06", 
+  "\ufeffTitle": "Calendar", 
   "ObjectID": "5880"
 }

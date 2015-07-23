@@ -5,8 +5,7 @@
   "Artist": "Max Ernst", 
   "URL": "http://www.moma.org/collection/works/35461", 
   "CuratorApproved": "Y", 
-  "Title": "Butterflies", 
-  "DateAcquired": "1935-11-12", 
+  "CreditLine": "Purchase", 
   "Date": "(1931)", 
   "ArtistID": 1752, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "240.1935", 
-  "ArtistBio": "French, born Germany. 1891\u20131976", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(French, born Germany. 1891\u20131976)", 
+  "DateAcquired": "1935-11-12", 
+  "\ufeffTitle": "Butterflies", 
   "ObjectID": "35461"
 }

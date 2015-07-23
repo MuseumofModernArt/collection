@@ -5,8 +5,7 @@
   "Artist": "John B. Greene", 
   "URL": "http://www.moma.org/collection/works/51154", 
   "CuratorApproved": "Y", 
-  "Title": "Statue Fragments, Museum of Cherchell", 
-  "DateAcquired": "1992-06-18", 
+  "CreditLine": "Gift of Jerome Powell", 
   "Date": "1855-1856", 
   "ArtistID": 2323, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "337.1992", 
-  "ArtistBio": "American, born France. 1832\u20131856", 
-  "CreditLine": "Gift of Jerome Powell", 
+  "ArtistBio": "(American, born France. 1832\u20131856)", 
+  "DateAcquired": "1992-06-18", 
+  "\ufeffTitle": "Statue Fragments, Museum of Cherchell", 
   "ObjectID": "51154"
 }

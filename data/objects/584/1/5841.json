@@ -5,8 +5,7 @@
   "Artist": "Pedrero", 
   "URL": "http://www.moma.org/collection/works/5841", 
   "CuratorApproved": "Y", 
-  "Title": "El Generalisimo", 
-  "DateAcquired": "1937-12-03", 
+  "CreditLine": "Purchase", 
   "Date": "1937", 
   "ArtistID": 4536, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "250.1937", 
-  "ArtistBio": "Spanish", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(Spanish)", 
+  "DateAcquired": "1937-12-03", 
+  "\ufeffTitle": "El Generalisimo", 
   "ObjectID": "5841"
 }

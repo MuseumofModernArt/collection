@@ -5,8 +5,7 @@
   "Artist": "Lucas Samaras", 
   "URL": "http://www.moma.org/collection/works/32362", 
   "CuratorApproved": "Y", 
-  "Title": "Book", 
-  "DateAcquired": "1968-12-11", 
+  "CreditLine": "Gift of the artist", 
   "Date": "1968", 
   "ArtistID": 5134, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "1647.1968.1-11", 
-  "ArtistBio": "American, born Greece 1936", 
-  "CreditLine": "Gift of the artist", 
+  "ArtistBio": "(American, born Greece 1936)", 
+  "DateAcquired": "1968-12-11", 
+  "\ufeffTitle": "Book", 
   "ObjectID": "32362"
 }

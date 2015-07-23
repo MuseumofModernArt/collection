@@ -5,8 +5,7 @@
   "Artist": "Joost Schmidt", 
   "URL": "http://www.moma.org/collection/works/6235", 
   "CuratorApproved": "Y", 
-  "Title": "Staatliches Bauhaus Ausstellung", 
-  "DateAcquired": "1957-12-04", 
+  "CreditLine": "Gift of Walter Gropius", 
   "Date": "1923", 
   "ArtistID": 5230, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "320.1957", 
-  "ArtistBio": "German, 1893\u20131948", 
-  "CreditLine": "Gift of Walter Gropius", 
+  "ArtistBio": "(German, 1893\u20131948)", 
+  "DateAcquired": "1957-12-04", 
+  "\ufeffTitle": "Staatliches Bauhaus Ausstellung", 
   "ObjectID": "6235"
 }

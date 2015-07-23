@@ -5,8 +5,7 @@
   "Artist": "Philip Pearlstein", 
   "URL": "http://www.moma.org/collection/works/34910", 
   "CuratorApproved": "Y", 
-  "Title": "Two Models", 
-  "DateAcquired": "1976-03-23", 
+  "CreditLine": "Gift of Charles B. Benenson", 
   "Date": "1975", 
   "ArtistID": 4529, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "158.1976", 
-  "ArtistBio": "American, born 1924", 
-  "CreditLine": "Gift of Charles B. Benenson", 
+  "ArtistBio": "(American, born 1924)", 
+  "DateAcquired": "1976-03-23", 
+  "\ufeffTitle": "Two Models", 
   "ObjectID": "34910"
 }

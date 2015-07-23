@@ -5,8 +5,7 @@
   "Artist": "Nicholas Nixon", 
   "URL": "http://www.moma.org/collection/works/56082", 
   "CuratorApproved": "Y", 
-  "Title": "View of Beacon Hill, Boston", 
-  "DateAcquired": "1976-12-08", 
+  "CreditLine": "Purchase", 
   "Date": "1975", 
   "ArtistID": 4315, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "690.1976", 
-  "ArtistBio": "American, born 1947", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, born 1947)", 
+  "DateAcquired": "1976-12-08", 
+  "\ufeffTitle": "View of Beacon Hill, Boston", 
   "ObjectID": "56082"
 }

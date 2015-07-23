@@ -5,8 +5,7 @@
   "Artist": "Elizabeth Peyton", 
   "URL": "http://www.moma.org/collection/works/38714", 
   "CuratorApproved": "Y", 
-  "Title": "Liam", 
-  "DateAcquired": "2000-12-12", 
+  "CreditLine": "Gift of Patricia and Morris Orden", 
   "Date": "(1996)", 
   "ArtistID": 8042, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "1617.2000", 
-  "ArtistBio": "American, born 1965", 
-  "CreditLine": "Gift of Patricia and Morris Orden", 
+  "ArtistBio": "(American, born 1965)", 
+  "DateAcquired": "2000-12-12", 
+  "\ufeffTitle": "Liam", 
   "ObjectID": "38714"
 }

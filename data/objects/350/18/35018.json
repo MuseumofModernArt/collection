@@ -5,8 +5,7 @@
   "Artist": "Pieter Laurens Mol", 
   "URL": "http://www.moma.org/collection/works/35018", 
   "CuratorApproved": "Y", 
-  "Title": "Vigilantia", 
-  "DateAcquired": "1997-04-17", 
+  "CreditLine": "Purchased with funds given by Patricia and Morris Orden", 
   "Date": "1996", 
   "ArtistID": 7614, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "170.1997", 
-  "ArtistBio": "Dutch, born 1946", 
-  "CreditLine": "Purchased with funds given by Patricia and Morris Orden", 
+  "ArtistBio": "(Dutch, born 1946)", 
+  "DateAcquired": "1997-04-17", 
+  "\ufeffTitle": "Vigilantia", 
   "ObjectID": "35018"
 }

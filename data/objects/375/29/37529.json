@@ -5,8 +5,7 @@
   "Artist": "Edwin Dickinson", 
   "URL": "http://www.moma.org/collection/works/37529", 
   "CuratorApproved": "Y", 
-  "Title": "East End, View from Wharf", 
-  "DateAcquired": "1963-12-10", 
+  "CreditLine": "John S. Newberry Collection", 
   "Date": "1933", 
   "ArtistID": 1536, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "601.1963", 
-  "ArtistBio": "American, 1891\u20131978", 
-  "CreditLine": "John S. Newberry Collection", 
+  "ArtistBio": "(American, 1891\u20131978)", 
+  "DateAcquired": "1963-12-10", 
+  "\ufeffTitle": "East End, View from Wharf", 
   "ObjectID": "37529"
 }

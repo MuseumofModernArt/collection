@@ -1,12 +1,11 @@
 {
   "Medium": "Lithograph", 
-  "Dimensions": "composition  30 x 29 7/8\" (76.3 x 75.9 cm)  sheet  36 1/4 x 35 15/16\" (92 x 91.3 cm)", 
+  "Dimensions": "composition  30 x 29 7/8\" (76.3 x 75.9 cm)\r\nsheet  36 1/4 x 35 15/16\" (92 x 91.3 cm)", 
   "Classification": "Print", 
   "Artist": "Roger Brown", 
   "URL": "http://www.moma.org/collection/works/62838", 
   "CuratorApproved": "Y", 
-  "Title": "Fear No Evil", 
-  "DateAcquired": "1994-01-25", 
+  "CreditLine": "The Ralph E. Shikes Fund", 
   "Date": "1991", 
   "ArtistID": 811, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "140.1994", 
-  "ArtistBio": "American, 1941\u20131997", 
-  "CreditLine": "The Ralph E. Shikes Fund", 
+  "ArtistBio": "(American, 1941\u20131997)", 
+  "DateAcquired": "1994-01-25", 
+  "\ufeffTitle": "Fear No Evil", 
   "ObjectID": "62838"
 }

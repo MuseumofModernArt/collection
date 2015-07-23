@@ -5,8 +5,7 @@
   "Artist": "Mel Bochner", 
   "URL": "http://www.moma.org/collection/works/63429", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1986-05-20", 
+  "CreditLine": "Jeanne C. Thayer Fund", 
   "Date": "1983", 
   "ArtistID": 625, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "166.1986", 
-  "ArtistBio": "American, born 1940", 
-  "CreditLine": "Jeanne C. Thayer Fund", 
+  "ArtistBio": "(American, born 1940)", 
+  "DateAcquired": "1986-05-20", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "63429"
 }

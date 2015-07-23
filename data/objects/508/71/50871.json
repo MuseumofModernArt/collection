@@ -5,8 +5,7 @@
   "Artist": "Gordon Matta-Clark", 
   "URL": "http://www.moma.org/collection/works/50871", 
   "CuratorApproved": "Y", 
-  "Title": "Splitting", 
-  "DateAcquired": "1991-10-25", 
+  "CreditLine": "Acquired through the generosity of Walter J. Brownstone and The Family of Man Fund", 
   "Date": "1974", 
   "ArtistID": 6636, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "326.1991", 
-  "ArtistBio": "American, 1943\u20131978", 
-  "CreditLine": "Acquired through the generosity of Walter J. Brownstone and The Family of Man Fund", 
+  "ArtistBio": "(American, 1943\u20131978)", 
+  "DateAcquired": "1991-10-25", 
+  "\ufeffTitle": "Splitting", 
   "ObjectID": "50871"
 }

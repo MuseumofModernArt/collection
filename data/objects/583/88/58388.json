@@ -5,8 +5,7 @@
   "Artist": "Alfred Stieglitz", 
   "URL": "http://www.moma.org/collection/works/58388", 
   "CuratorApproved": "Y", 
-  "Title": "Lake George", 
-  "DateAcquired": "1968-05-01", 
+  "CreditLine": "Gift of David H. McAlpin", 
   "Date": "1922-23", 
   "ArtistID": 5664, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "1805.1968", 
-  "ArtistBio": "American, 1864\u20131946", 
-  "CreditLine": "Gift of David H. McAlpin", 
+  "ArtistBio": "(American, 1864\u20131946)", 
+  "DateAcquired": "1968-05-01", 
+  "\ufeffTitle": "Lake George", 
   "ObjectID": "58388"
 }

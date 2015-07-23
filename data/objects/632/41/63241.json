@@ -1,12 +1,11 @@
 {
   "Medium": "Lithograph", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "Mike Glier", 
   "URL": "http://www.moma.org/collection/works/63241", 
   "CuratorApproved": "Y", 
-  "Title": "Barbara Calling", 
-  "DateAcquired": "1994-01-25", 
+  "CreditLine": "John B. Turner Fund", 
   "Date": "1983", 
   "ArtistID": 7119, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "148.1994", 
-  "ArtistBio": "American, born 1953", 
-  "CreditLine": "John B. Turner Fund", 
+  "ArtistBio": "(American, born 1953)", 
+  "DateAcquired": "1994-01-25", 
+  "\ufeffTitle": "Barbara Calling", 
   "ObjectID": "63241"
 }

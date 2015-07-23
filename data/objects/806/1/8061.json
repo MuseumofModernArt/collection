@@ -5,8 +5,7 @@
   "Artist": "William L. Carqueville", 
   "URL": "http://www.moma.org/collection/works/8061", 
   "CuratorApproved": "Y", 
-  "Title": "Lippincott's August", 
-  "DateAcquired": "1983-11-30", 
+  "CreditLine": "Acquired by exchange", 
   "Date": "1895", 
   "ArtistID": 986, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "757.1983", 
-  "ArtistBio": "American, 1871\u20131946", 
-  "CreditLine": "Acquired by exchange", 
+  "ArtistBio": "(American, 1871\u20131946)", 
+  "DateAcquired": "1983-11-30", 
+  "\ufeffTitle": "Lippincott's August", 
   "ObjectID": "8061"
 }

@@ -5,8 +5,7 @@
   "Artist": "Robert Adams", 
   "URL": "http://www.moma.org/collection/works/56674", 
   "CuratorApproved": "Y", 
-  "Title": "Along Interstate 10, San Bernardino County, California", 
-  "DateAcquired": "1996-12-10", 
+  "CreditLine": "Partial gift of Shirley C. Burden, by exchange", 
   "Date": "1978", 
   "ArtistID": 66, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "838.1996", 
-  "ArtistBio": "American, born 1937", 
-  "CreditLine": "Partial gift of Shirley C. Burden, by exchange", 
+  "ArtistBio": "(American, born 1937)", 
+  "DateAcquired": "1996-12-10", 
+  "\ufeffTitle": "Along Interstate 10, San Bernardino County, California", 
   "ObjectID": "56674"
 }

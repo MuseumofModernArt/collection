@@ -5,8 +5,7 @@
   "Artist": "Gerda Str\u00f6mberg", 
   "URL": "http://www.moma.org/collection/works/2870", 
   "CuratorApproved": "Y", 
-  "Title": "Pitcher", 
-  "DateAcquired": "1950-06-08", 
+  "CreditLine": "Gift of Bonniers", 
   "Date": "Before 1949", 
   "ArtistID": 5694, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "231.1950", 
-  "ArtistBio": "Swedish, died 1960", 
-  "CreditLine": "Gift of Bonniers", 
+  "ArtistBio": "(Swedish, died 1960)", 
+  "DateAcquired": "1950-06-08", 
+  "\ufeffTitle": "Pitcher", 
   "ObjectID": "2870"
 }

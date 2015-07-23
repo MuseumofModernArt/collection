@@ -5,8 +5,7 @@
   "Artist": "Ministere De La Guerre", 
   "URL": "http://www.moma.org/collection/works/58639", 
   "CuratorApproved": "Y", 
-  "Title": "German Soldier Killed Near his Machine Gun at the Entrance to His Dugout on the Western Front", 
-  "DateAcquired": "2001-06-14", 
+  "CreditLine": "The New York Times Collection", 
   "Date": "c. 1916", 
   "ArtistID": 8580, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "2046.2001", 
-  "ArtistBio": "Nationality unknown", 
-  "CreditLine": "The New York Times Collection", 
+  "ArtistBio": "(Nationality unknown)", 
+  "DateAcquired": "2001-06-14", 
+  "\ufeffTitle": "German Soldier Killed Near his Machine Gun at the Entrance to His Dugout on the Western Front", 
   "ObjectID": "58639"
 }

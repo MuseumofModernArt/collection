@@ -1,12 +1,11 @@
 {
   "Medium": "Etching and aquatint", 
-  "Dimensions": "plate  23 11/16 x 16 5/8\" (60.2 x 42.2 cm)  sheet  33 1/4 x 25 5/8\" (84.4 x 65.1 cm)", 
+  "Dimensions": "plate  23 11/16 x 16 5/8\" (60.2 x 42.2 cm)\r\nsheet  33 1/4 x 25 5/8\" (84.4 x 65.1 cm)", 
   "Classification": "Print", 
   "Artist": "Robert Motherwell", 
   "URL": "http://www.moma.org/collection/works/59772", 
   "CuratorApproved": "Y", 
-  "Title": "Primal Sign V (Copper)", 
-  "DateAcquired": "1982-01-21", 
+  "CreditLine": "Gift of the artist", 
   "Date": "(1981)", 
   "ArtistID": 4126, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "9.1982", 
-  "ArtistBio": "American, 1915\u20131991", 
-  "CreditLine": "Gift of the artist", 
+  "ArtistBio": "(American, 1915\u20131991)", 
+  "DateAcquired": "1982-01-21", 
+  "\ufeffTitle": "Primal Sign V (Copper)", 
   "ObjectID": "59772"
 }

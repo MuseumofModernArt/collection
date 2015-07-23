@@ -5,8 +5,7 @@
   "Artist": "Paul C\u00e9zanne", 
   "URL": "http://www.moma.org/collection/works/65654", 
   "CuratorApproved": "Y", 
-  "Title": "The Bathers, small plate (Les baigneurs, petit planche)", 
-  "DateAcquired": "1940-04-05", 
+  "CreditLine": "Gift of Abby Aldrich Rockefeller", 
   "Date": "1897", 
   "ArtistID": 1053, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "269.1940", 
-  "ArtistBio": "French, 1839\u20131906", 
-  "CreditLine": "Gift of Abby Aldrich Rockefeller", 
+  "ArtistBio": "(French, 1839\u20131906)", 
+  "DateAcquired": "1940-04-05", 
+  "\ufeffTitle": "The Bathers, small plate (Les baigneurs, petit planche)", 
   "ObjectID": "65654"
 }

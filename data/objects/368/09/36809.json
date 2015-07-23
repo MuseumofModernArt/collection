@@ -5,8 +5,7 @@
   "Artist": "Ren\u00e9 Magritte", 
   "URL": "http://www.moma.org/collection/works/36809", 
   "CuratorApproved": "Y", 
-  "Title": "Perspective", 
-  "DateAcquired": "1963-10-08", 
+  "CreditLine": "Gift of Harry Torczyner", 
   "Date": "(1963)", 
   "ArtistID": 3692, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "419.1963", 
-  "ArtistBio": "Belgian, 1898\u20131967", 
-  "CreditLine": "Gift of Harry Torczyner", 
+  "ArtistBio": "(Belgian, 1898\u20131967)", 
+  "DateAcquired": "1963-10-08", 
+  "\ufeffTitle": "Perspective", 
   "ObjectID": "36809"
 }

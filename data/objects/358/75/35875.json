@@ -5,8 +5,7 @@
   "Artist": "Jacob El Hanani", 
   "URL": "http://www.moma.org/collection/works/35875", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled (No. 101)", 
-  "DateAcquired": "1978-04-04", 
+  "CreditLine": "Gift of George M. Jaffin", 
   "Date": "1977", 
   "ArtistID": 1710, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "274.1978", 
-  "ArtistBio": "Israeli, born 1947", 
-  "CreditLine": "Gift of George M. Jaffin", 
+  "ArtistBio": "(Israeli, born 1947)", 
+  "DateAcquired": "1978-04-04", 
+  "\ufeffTitle": "Untitled (No. 101)", 
   "ObjectID": "35875"
 }

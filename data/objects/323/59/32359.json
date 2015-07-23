@@ -5,8 +5,7 @@
   "Artist": "Antonio Martorell", 
   "URL": "http://www.moma.org/collection/works/32359", 
   "CuratorApproved": "Y", 
-  "Title": "ABC de Puerto Rico", 
-  "DateAcquired": "1968-12-11", 
+  "CreditLine": "Gift of Mrs. Ketty Rodriguez", 
   "Date": "1968", 
   "ArtistID": 3808, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "1645.1968", 
-  "ArtistBio": "American, born Puerto Rico 1939", 
-  "CreditLine": "Gift of Mrs. Ketty Rodriguez", 
+  "ArtistBio": "(American, born Puerto Rico 1939)", 
+  "DateAcquired": "1968-12-11", 
+  "\ufeffTitle": "ABC de Puerto Rico", 
   "ObjectID": "32359"
 }

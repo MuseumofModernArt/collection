@@ -5,8 +5,7 @@
   "Artist": "Christian Rohlfs", 
   "URL": "http://www.moma.org/collection/works/60987", 
   "CuratorApproved": "Y", 
-  "Title": "Sermon on the Mount", 
-  "DateAcquired": "1962-01-09", 
+  "CreditLine": "Matthew T. Mellon Foundation Fund", 
   "Date": "(1916)", 
   "ArtistID": 5000, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "53.1962", 
-  "ArtistBio": "German, 1849\u20131938", 
-  "CreditLine": "Matthew T. Mellon Foundation Fund", 
+  "ArtistBio": "(German, 1849\u20131938)", 
+  "DateAcquired": "1962-01-09", 
+  "\ufeffTitle": "Sermon on the Mount (Bergpredigt)", 
   "ObjectID": "60987"
 }

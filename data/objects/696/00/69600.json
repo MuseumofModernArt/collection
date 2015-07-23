@@ -1,12 +1,11 @@
 {
   "Medium": "Aquatint and carborundum", 
-  "Dimensions": "Plate: 23 7/16 x 38 13/16\" (59.5 x 98.6 cm)  Sheet: 31 1/2 x 47 1/2\" (80 x 120.7 cm)", 
+  "Dimensions": "Plate: 23 7/16 x 38 13/16\" (59.5 x 98.6 cm)\r\nSheet: 31 1/2 x 47 1/2\" (80 x 120.7 cm)", 
   "Classification": "Print", 
   "Artist": "Antoni T\u00e0pies", 
   "URL": "http://www.moma.org/collection/works/69600", 
   "CuratorApproved": "Y", 
-  "Title": "Writing and Two Crosses (Graphismes et deux croix)", 
-  "DateAcquired": "1990-10-23", 
+  "CreditLine": "Anonymous gift", 
   "Date": "1972", 
   "ArtistID": 5809, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "463.1990", 
-  "ArtistBio": "Spanish, 1923\u20132012", 
-  "CreditLine": "Anonymous gift", 
+  "ArtistBio": "(Spanish, 1923\u20132012)", 
+  "DateAcquired": "1990-10-23", 
+  "\ufeffTitle": "Writing and Two Crosses (Graphismes et deux croix)", 
   "ObjectID": "69600"
 }

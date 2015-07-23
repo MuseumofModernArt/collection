@@ -1,12 +1,11 @@
 {
   "Medium": "Portfolio of 12 lithographs", 
-  "Dimensions": "page  22 1/4 x 29 15/16\" (56 x 76 cm)  Prints:  various dimensions.", 
+  "Dimensions": "page  22 1/4 x 29 15/16\" (56 x 76 cm)\r\nPrints:  various dimensions.", 
   "Classification": "Illustrated Book", 
   "Artist": "Murray Zimiles", 
   "URL": "http://www.moma.org/collection/works/13367", 
   "CuratorApproved": "Y", 
-  "Title": "The Holocaust", 
-  "DateAcquired": "1988-05-04", 
+  "CreditLine": "Gift of The Lauder Foundation", 
   "Date": "(1988) (Prints executed 1987)", 
   "ArtistID": 6570, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "201.1988.1-12", 
-  "ArtistBio": "American, born 1941", 
-  "CreditLine": "Gift of The Lauder Foundation", 
+  "ArtistBio": "(American, born 1941)", 
+  "DateAcquired": "1988-05-04", 
+  "\ufeffTitle": "The Holocaust", 
   "ObjectID": "13367"
 }

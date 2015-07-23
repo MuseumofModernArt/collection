@@ -5,8 +5,7 @@
   "Artist": "A. M. Cassandre", 
   "URL": "http://www.moma.org/collection/works/6017", 
   "CuratorApproved": "Y", 
-  "Title": "Dubonnet, Vin Tonique au Quinquina", 
-  "DateAcquired": "1935-11-12", 
+  "CreditLine": "Given anonymously", 
   "Date": "1932", 
   "ArtistID": 1015, 
   "Keywords": [
@@ -20,7 +19,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "277.1935", 
-  "ArtistBio": "French, 1901\u20131968", 
-  "CreditLine": "Given anonymously", 
+  "ArtistBio": "(French, 1901\u20131968)", 
+  "DateAcquired": "1935-11-12", 
+  "\ufeffTitle": "Dubonnet, Vin Tonique au Quinquina", 
   "ObjectID": "6017"
 }

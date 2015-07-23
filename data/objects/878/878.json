@@ -1,12 +1,11 @@
 {
-  "Medium": "Mixed media on heavy weight paper  .1: ink  .2: ink  .3: ink and graphite  .4: ink and graphite  .5: ink, crayon and color crayon and graphite  .6: ink", 
+  "Medium": "Mixed media on heavy weight paper\r\n.1: ink\r\n.2: ink\r\n.3: ink and graphite\r\n.4: ink and graphite\r\n.5: ink, crayon and color crayon and graphite\r\n.6: ink", 
   "Dimensions": "Each: 3 x 5\" (7.6 x 12.7 cm)", 
   "Classification": "A&D Architectural Drawing", 
   "Artist": "Cedric Price", 
   "URL": "http://www.moma.org/collection/works/878", 
   "CuratorApproved": "Y", 
-  "Title": "Generator Project, White Oak, Florida  Sketches", 
-  "DateAcquired": "NULL", 
+  "CreditLine": "Gift of The Howard Gilman Foundation", 
   "Date": "1978-80", 
   "ArtistID": 7986, 
   "Keywords": [
@@ -20,7 +19,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "1262.2000.a-f", 
-  "ArtistBio": "British, 1934\u20132003", 
-  "CreditLine": "Gift of The Howard Gilman Foundation", 
+  "ArtistBio": "(British, 1934\u20132003)", 
+  "DateAcquired": "", 
+  "\ufeffTitle": "Generator Project, White Oak, Florida, Sketches", 
   "ObjectID": "878"
 }

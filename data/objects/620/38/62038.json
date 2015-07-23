@@ -1,12 +1,11 @@
 {
   "Medium": "Photolithograph", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "Ian Hamilton Finlay", 
   "URL": "http://www.moma.org/collection/works/62038", 
   "CuratorApproved": "Y", 
-  "Title": "Wildflower, n.", 
-  "DateAcquired": "1997-03-06", 
+  "CreditLine": "Walter Bareiss Fund", 
   "Date": "1992", 
   "ArtistID": 1878, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "96.1997", 
-  "ArtistBio": "British, 1925\u20132006", 
-  "CreditLine": "Walter Bareiss Fund", 
+  "ArtistBio": "(British, 1925\u20132006)", 
+  "DateAcquired": "1997-03-06", 
+  "\ufeffTitle": "Wildflower, n.", 
   "ObjectID": "62038"
 }

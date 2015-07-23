@@ -5,8 +5,7 @@
   "Artist": "Nicholas Nixon", 
   "URL": "http://www.moma.org/collection/works/44705", 
   "CuratorApproved": "Y", 
-  "Title": "The Brown Sisters, East Greenwich, Rhode Island", 
-  "DateAcquired": "1981-02-26", 
+  "CreditLine": "Acquired through the generosity of Pierre N. Leval", 
   "Date": "1980", 
   "ArtistID": 4315, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "46.1981", 
-  "ArtistBio": "American, born 1947", 
-  "CreditLine": "Acquired through the generosity of Pierre N. Leval", 
+  "ArtistBio": "(American, born 1947)", 
+  "DateAcquired": "1981-02-26", 
+  "\ufeffTitle": "The Brown Sisters, East Greenwich, Rhode Island", 
   "ObjectID": "44705"
 }

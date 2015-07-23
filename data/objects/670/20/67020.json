@@ -5,8 +5,7 @@
   "Artist": "Raoul Dufy", 
   "URL": "http://www.moma.org/collection/works/67020", 
   "CuratorApproved": "Y", 
-  "Title": "Apollo", 
-  "DateAcquired": "1951-05-24", 
+  "CreditLine": "Purchase", 
   "Date": "(1911)", 
   "ArtistID": 1646, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "328.1951", 
-  "ArtistBio": "French, 1877\u20131953", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(French, 1877\u20131953)", 
+  "DateAcquired": "1951-05-24", 
+  "\ufeffTitle": "Apollo", 
   "ObjectID": "67020"
 }

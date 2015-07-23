@@ -1,12 +1,11 @@
 {
   "Medium": "Aquatint", 
-  "Dimensions": "plate  5 15/16 x 4\" (15.1 x 10.2 cm)  sheet  21 1/4 x 14 15/16\" (53 x 37.9 cm)", 
+  "Dimensions": "plate  5 15/16 x 4\" (15.1 x 10.2 cm)\r\nsheet  21 1/4 x 14 15/16\" (53 x 37.9 cm)", 
   "Classification": "Print", 
   "Artist": "Donald Sultan", 
   "URL": "http://www.moma.org/collection/works/64739", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled from the Female Series", 
-  "DateAcquired": "1990-05-02", 
+  "CreditLine": "Gift of the artist", 
   "Date": "April 1988.", 
   "ArtistID": 5726, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "225.1990", 
-  "ArtistBio": "American, born 1951", 
-  "CreditLine": "Gift of the artist", 
+  "ArtistBio": "(American, born 1951)", 
+  "DateAcquired": "1990-05-02", 
+  "\ufeffTitle": "Untitled from the Female Series", 
   "ObjectID": "64739"
 }

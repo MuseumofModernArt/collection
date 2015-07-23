@@ -5,8 +5,7 @@
   "Artist": "Charles Sheeler", 
   "URL": "http://www.moma.org/collection/works/34738", 
   "CuratorApproved": "Y", 
-  "Title": "Self-Portrait", 
-  "DateAcquired": "1935-06-13", 
+  "CreditLine": "Gift of Abby Aldrich Rockefeller", 
   "Date": "1923", 
   "ArtistID": 5383, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "146.1935", 
-  "ArtistBio": "American, 1883\u20131965", 
-  "CreditLine": "Gift of Abby Aldrich Rockefeller", 
+  "ArtistBio": "(American, 1883\u20131965)", 
+  "DateAcquired": "1935-06-13", 
+  "\ufeffTitle": "Self-Portrait", 
   "ObjectID": "34738"
 }

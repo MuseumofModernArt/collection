@@ -5,8 +5,7 @@
   "Artist": "Fred Sandback", 
   "URL": "http://www.moma.org/collection/works/59806", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1976-01-08", 
+  "CreditLine": "John B. Turner Fund", 
   "Date": "(September) 1975", 
   "ArtistID": 5143, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "10.1976", 
-  "ArtistBio": "American, 1943\u20132003", 
-  "CreditLine": "John B. Turner Fund", 
+  "ArtistBio": "(American, 1943\u20132003)", 
+  "DateAcquired": "1976-01-08", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "59806"
 }

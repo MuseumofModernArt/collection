@@ -5,8 +5,7 @@
   "Artist": "Alfred Willimann", 
   "URL": "http://www.moma.org/collection/works/8857", 
   "CuratorApproved": "Y", 
-  "Title": "IF", 
-  "DateAcquired": "2000-12-11", 
+  "CreditLine": "Gift of the designer", 
   "Date": "c. 1943-49", 
   "Keywords": [
     "online art collection", 
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "1561.2000", 
-  "ArtistBio": "Swiss, 1900\u20131957", 
-  "CreditLine": "Gift of the designer", 
+  "ArtistBio": "(Swiss, 1900\u20131957)", 
+  "DateAcquired": "2000-12-11", 
+  "\ufeffTitle": "IF", 
   "ObjectID": "8857"
 }

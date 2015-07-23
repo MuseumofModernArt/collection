@@ -1,12 +1,11 @@
 {
   "Medium": "Drypoint and aquatint", 
-  "Dimensions": "Plate: 33 3/4 x 25 7/8\" (85.8 x 65.7 cm)  Sheet: 42 1/8 x 30 13/16\" (107 x 78.2 cm)", 
+  "Dimensions": "Plate: 33 3/4 x 25 7/8\" (85.8 x 65.7 cm)\r\nSheet: 42 1/8 x 30 13/16\" (107 x 78.2 cm)", 
   "Classification": "Print", 
   "Artist": "Jim Dine", 
   "URL": "http://www.moma.org/collection/works/68526", 
   "CuratorApproved": "Y", 
-  "Title": "Black and White Cubist Venus", 
-  "DateAcquired": "1990-10-23", 
+  "CreditLine": "Gift of the artist", 
   "Date": "1985", 
   "ArtistID": 1547, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "404.1990", 
-  "ArtistBio": "American, born 1935", 
-  "CreditLine": "Gift of the artist", 
+  "ArtistBio": "(American, born 1935)", 
+  "DateAcquired": "1990-10-23", 
+  "\ufeffTitle": "Black and White Cubist Venus", 
   "ObjectID": "68526"
 }

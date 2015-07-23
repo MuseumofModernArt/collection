@@ -5,8 +5,7 @@
   "Artist": "Zeke Berman", 
   "URL": "http://www.moma.org/collection/works/57653", 
   "CuratorApproved": "Y", 
-  "Title": "Pyramids", 
-  "DateAcquired": "1979-12-13", 
+  "CreditLine": "Acquired through the generosity of the Vera Louise Fraser Estate", 
   "Date": "1979", 
   "ArtistID": 506, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "1111.1979", 
-  "ArtistBio": "American, born 1951", 
-  "CreditLine": "Acquired through the generosity of the Vera Louise Fraser Estate", 
+  "ArtistBio": "(American, born 1951)", 
+  "DateAcquired": "1979-12-13", 
+  "\ufeffTitle": "Pyramids", 
   "ObjectID": "57653"
 }

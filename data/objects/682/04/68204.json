@@ -1,12 +1,11 @@
 {
   "Medium": "Screenprint", 
-  "Dimensions": "sl. irreg. composition  23 5/16 x 35 3/8\" (59.3 x 89.9 cm)  sheet  27 9/16 x 39 3/16\" (70 x 99.6 cm)", 
+  "Dimensions": "sl. irreg. composition  23 5/16 x 35 3/8\" (59.3 x 89.9 cm)\r\nsheet  27 9/16 x 39 3/16\" (70 x 99.6 cm)", 
   "Classification": "Print", 
   "Artist": "\u00d6yvind Fahlstr\u00f6m", 
   "URL": "http://www.moma.org/collection/works/68204", 
   "CuratorApproved": "Y", 
-  "Title": "Sketch for Kidnapping Kissinger", 
-  "DateAcquired": "1992-01-22", 
+  "CreditLine": "Gift of Dr. Steven R. Hofstetter", 
   "Date": "(1974)", 
   "ArtistID": 1790, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "384.1991", 
-  "ArtistBio": "Swedish, born Brazil. 1928\u20131976", 
-  "CreditLine": "Gift of Dr. Steven R. Hofstetter", 
+  "ArtistBio": "(Swedish, born Brazil. 1928\u20131976)", 
+  "DateAcquired": "1992-01-22", 
+  "\ufeffTitle": "Sketch for Kidnapping Kissinger", 
   "ObjectID": "68204"
 }

@@ -5,8 +5,7 @@
   "Artist": "Carlo Bartoli", 
   "URL": "http://www.moma.org/collection/works/3329", 
   "CuratorApproved": "Y", 
-  "Title": "Solar Lounge Chair", 
-  "DateAcquired": "1969-04-24", 
+  "CreditLine": "Gift of Stendig, Inc.", 
   "Date": "1967", 
   "ArtistID": 359, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "337.1969", 
-  "ArtistBio": "Italian, born 1931", 
-  "CreditLine": "Gift of Stendig, Inc.", 
+  "ArtistBio": "(Italian, born 1931)", 
+  "DateAcquired": "1969-04-24", 
+  "\ufeffTitle": "Solar Lounge Chair", 
   "ObjectID": "3329"
 }

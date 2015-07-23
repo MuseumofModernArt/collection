@@ -5,8 +5,7 @@
   "Artist": "Pablo Picasso", 
   "URL": "http://www.moma.org/collection/works/67990", 
   "CuratorApproved": "Y", 
-  "Title": "Nude Pose (La Pose nue)", 
-  "DateAcquired": "1955-11-23", 
+  "CreditLine": "Curt Valentin Bequest", 
   "Date": "March 18, 1954.  (March 18, 1954).", 
   "ArtistID": 4609, 
   "Keywords": [
@@ -20,7 +19,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "373.1955", 
-  "ArtistBio": "Spanish, 1881\u20131973", 
-  "CreditLine": "Curt Valentin Bequest", 
+  "ArtistBio": "(Spanish, 1881\u20131973)", 
+  "DateAcquired": "1955-11-23", 
+  "\ufeffTitle": "Nude Pose (La Pose nue)", 
   "ObjectID": "67990"
 }

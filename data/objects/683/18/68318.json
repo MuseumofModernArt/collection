@@ -1,12 +1,11 @@
 {
   "Medium": "Lithograph", 
-  "Dimensions": "composition  22 3/8 x 30\" (56.9 x 76.3 cm)  sheet  22 15/16 x 31 7/16\" (58.3 x 79.8 cm)", 
+  "Dimensions": "composition  22 3/8 x 30\" (56.9 x 76.3 cm)\r\nsheet  22 15/16 x 31 7/16\" (58.3 x 79.8 cm)", 
   "Classification": "Print", 
   "Artist": "Emilio Sanchez", 
   "URL": "http://www.moma.org/collection/works/68318", 
   "CuratorApproved": "Y", 
-  "Title": "The Bakery (La Panader\u00eda)", 
-  "DateAcquired": "1973-10-24", 
+  "CreditLine": "Gift of the artist", 
   "Date": "1973", 
   "ArtistID": 5140, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "391.1973", 
-  "ArtistBio": "American, 1921\u20131999", 
-  "CreditLine": "Gift of the artist", 
+  "ArtistBio": "(American, 1921\u20131999)", 
+  "DateAcquired": "1973-10-24", 
+  "\ufeffTitle": "The Bakery (La Panader\u00eda)", 
   "ObjectID": "68318"
 }

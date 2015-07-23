@@ -5,8 +5,7 @@
   "Artist": "Henri Cartier-Bresson", 
   "URL": "http://www.moma.org/collection/works/50089", 
   "CuratorApproved": "Y", 
-  "Title": "Georges Braque in His Home in Paris", 
-  "DateAcquired": "1947-10-16", 
+  "CreditLine": "Gift of the photographer", 
   "Date": "1944", 
   "ArtistID": 1000, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "294.1947", 
-  "ArtistBio": "French, 1908\u20132004", 
-  "CreditLine": "Gift of the photographer", 
+  "ArtistBio": "(French, 1908\u20132004)", 
+  "DateAcquired": "1947-10-16", 
+  "\ufeffTitle": "Georges Braque in His Home in Paris", 
   "ObjectID": "50089"
 }

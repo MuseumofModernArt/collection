@@ -5,8 +5,7 @@
   "Artist": "Herbert Leupin", 
   "URL": "http://www.moma.org/collection/works/6674", 
   "CuratorApproved": "Y", 
-  "Title": "Feuille D'Avis De Lausanne", 
-  "DateAcquired": "1994-09-21", 
+  "CreditLine": "Gift of Leonard A. Lauder", 
   "Date": "1958", 
   "ArtistID": 3503, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "418.1994", 
-  "ArtistBio": "Swiss, 1916\u20131999", 
-  "CreditLine": "Gift of Leonard A. Lauder", 
+  "ArtistBio": "(Swiss, 1916\u20131999)", 
+  "DateAcquired": "1994-09-21", 
+  "\ufeffTitle": "Feuille D'Avis De Lausanne", 
   "ObjectID": "6674"
 }

@@ -5,8 +5,7 @@
   "Artist": "Marcel Breuer", 
   "URL": "http://www.moma.org/collection/works/4463", 
   "CuratorApproved": "Y", 
-  "Title": "Chaise Longue", 
-  "DateAcquired": "1942-01-01", 
+  "CreditLine": "Purchase Fund", 
   "Date": "1935-1936", 
   "ArtistID": 769, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "836.1942", 
-  "ArtistBio": "American, born Hungary. 1902\u20131981", 
-  "CreditLine": "Purchase Fund", 
+  "ArtistBio": "(American, born Hungary. 1902\u20131981)", 
+  "DateAcquired": "1942-01-01", 
+  "\ufeffTitle": "Chaise Longue", 
   "ObjectID": "4463"
 }

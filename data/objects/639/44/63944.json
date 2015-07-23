@@ -5,8 +5,7 @@
   "Artist": "Judith Bernstein", 
   "URL": "http://www.moma.org/collection/works/63944", 
   "CuratorApproved": "Y", 
-  "Title": "Horizontal", 
-  "DateAcquired": "1977-05-03", 
+  "CreditLine": "John R. Jakobson Foundation Fund", 
   "Date": "1976", 
   "ArtistID": 519, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "183.1977", 
-  "ArtistBio": "American, born 1942", 
-  "CreditLine": "John R. Jakobson Foundation Fund", 
+  "ArtistBio": "(American, born 1942)", 
+  "DateAcquired": "1977-05-03", 
+  "\ufeffTitle": "Horizontal", 
   "ObjectID": "63944"
 }

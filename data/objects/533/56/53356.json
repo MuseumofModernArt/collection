@@ -5,8 +5,7 @@
   "Artist": "Bruce Davidson", 
   "URL": "http://www.moma.org/collection/works/53356", 
   "CuratorApproved": "Y", 
-  "Title": "47th Street, New York", 
-  "DateAcquired": "1966-10-11", 
+  "CreditLine": "Gift of the photographer", 
   "Date": "1963", 
   "ArtistID": 1398, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "436.1966", 
-  "ArtistBio": "American, born 1933", 
-  "CreditLine": "Gift of the photographer", 
+  "ArtistBio": "(American, born 1933)", 
+  "DateAcquired": "1966-10-11", 
+  "\ufeffTitle": "47th Street, New York", 
   "ObjectID": "53356"
 }

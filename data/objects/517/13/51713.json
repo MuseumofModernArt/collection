@@ -5,8 +5,7 @@
   "Artist": "John G. Bullock", 
   "URL": "http://www.moma.org/collection/works/51713", 
   "CuratorApproved": "Y", 
-  "Title": "Young Anglers", 
-  "DateAcquired": "1972-11-21", 
+  "CreditLine": "Gift of the John Emlen Bullock Estate", 
   "Date": "1896", 
   "ArtistID": 860, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "359.1972", 
-  "ArtistBio": "American, 1854\u20131939", 
-  "CreditLine": "Gift of the John Emlen Bullock Estate", 
+  "ArtistBio": "(American, 1854\u20131939)", 
+  "DateAcquired": "1972-11-21", 
+  "\ufeffTitle": "Young Anglers", 
   "ObjectID": "51713"
 }

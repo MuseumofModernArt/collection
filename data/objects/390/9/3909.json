@@ -5,8 +5,7 @@
   "Artist": "Jasper Morrison", 
   "URL": "http://www.moma.org/collection/works/3909", 
   "CuratorApproved": "Y", 
-  "Title": "Lima Chair", 
-  "DateAcquired": "1997-10-17", 
+  "CreditLine": "Gift of the manufacturer", 
   "Date": "1995", 
   "ArtistID": 7980, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "464.1997", 
-  "ArtistBio": "British, born 1959", 
-  "CreditLine": "Gift of the manufacturer", 
+  "ArtistBio": "(British, born 1959)", 
+  "DateAcquired": "1997-10-17", 
+  "\ufeffTitle": "Lima Chair", 
   "ObjectID": "3909"
 }

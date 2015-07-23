@@ -5,8 +5,7 @@
   "Artist": "Stephen Shore", 
   "URL": "http://www.moma.org/collection/works/46488", 
   "CuratorApproved": "Y", 
-  "Title": "Holden Street, North Adams, Massachusetts", 
-  "DateAcquired": "1977-03-10", 
+  "CreditLine": "Gift of Joseph G. Mayer Fund", 
   "Date": "1974", 
   "ArtistID": 5409, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "116.1977", 
-  "ArtistBio": "American, born 1947", 
-  "CreditLine": "Gift of Joseph G. Mayer Fund", 
+  "ArtistBio": "(American, born 1947)", 
+  "DateAcquired": "1977-03-10", 
+  "\ufeffTitle": "Holden Street, North Adams, Massachusetts", 
   "ObjectID": "46488"
 }

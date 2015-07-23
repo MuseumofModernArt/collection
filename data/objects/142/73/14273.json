@@ -1,12 +1,11 @@
 {
   "Medium": "Portfolio of six lithographs", 
-  "Dimensions": "sheet  25 9/16 x 19 11/16\" (65 x 50 cm)  page  26 7/8 x 20 9/16\" (68 x 52.2 cm)  Prints: various dimensions.", 
+  "Dimensions": "sheet  25 9/16 x 19 11/16\" (65 x 50 cm)\r\npage  26 7/8 x 20 9/16\" (68 x 52.2 cm)\r\nPrints: various dimensions.", 
   "Classification": "Print", 
   "Artist": "Oskar Kokoschka", 
   "URL": "http://www.moma.org/collection/works/14273", 
   "CuratorApproved": "Y", 
-  "Title": "Jerusalem Faces", 
-  "DateAcquired": "1974-04-23", 
+  "CreditLine": "Gift of the Joseph H. Hazen Foundation in honor of William S. Lieberman", 
   "Date": "(1973-1974, prints executed 1973)", 
   "ArtistID": 3197, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "254.1974.1-6", 
-  "ArtistBio": "Austrian, 1886\u20131980", 
-  "CreditLine": "Gift of the Joseph H. Hazen Foundation in honor of William S. Lieberman", 
+  "ArtistBio": "(Austrian, 1886\u20131980)", 
+  "DateAcquired": "1974-04-23", 
+  "\ufeffTitle": "Jerusalem Faces", 
   "ObjectID": "14273"
 }

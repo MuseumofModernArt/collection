@@ -1,12 +1,11 @@
 {
   "Medium": "Lithograph", 
-  "Dimensions": "composition  24 1/16 x 30\" (61.1 x 76.3 cm)  sheet  28 15/16 x 36\" (73.6 x 91.5 cm)", 
+  "Dimensions": "composition  24 1/16 x 30\" (61.1 x 76.3 cm)\r\nsheet  28 15/16 x 36\" (73.6 x 91.5 cm)", 
   "Classification": "Print", 
   "Artist": "Agnes Denes", 
   "URL": "http://www.moma.org/collection/works/60464", 
   "CuratorApproved": "Y", 
-  "Title": "Map Projections - The Snail", 
-  "DateAcquired": "1977-02-10", 
+  "CreditLine": "John B. Turner Fund", 
   "Date": "1976", 
   "ArtistID": 1491, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "30.1977", 
-  "ArtistBio": "American, born 1931", 
-  "CreditLine": "John B. Turner Fund", 
+  "ArtistBio": "(American, born 1931)", 
+  "DateAcquired": "1977-02-10", 
+  "\ufeffTitle": "Map Projections - The Snail", 
   "ObjectID": "60464"
 }

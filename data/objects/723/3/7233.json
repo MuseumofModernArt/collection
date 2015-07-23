@@ -5,8 +5,7 @@
   "Artist": "Josef M\u00fcller-Brockmann", 
   "URL": "http://www.moma.org/collection/works/7233", 
   "CuratorApproved": "Y", 
-  "Title": "Musica Viva", 
-  "DateAcquired": "1987-11-18", 
+  "CreditLine": "Gift of the designer", 
   "Date": "1958", 
   "ArtistID": 4154, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "491.1987", 
-  "ArtistBio": "Swiss, 1914\u20131996", 
-  "CreditLine": "Gift of the designer", 
+  "ArtistBio": "(Swiss, 1914\u20131996)", 
+  "DateAcquired": "1987-11-18", 
+  "\ufeffTitle": "Musica Viva", 
   "ObjectID": "7233"
 }

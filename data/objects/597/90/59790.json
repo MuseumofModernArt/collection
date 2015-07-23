@@ -1,12 +1,11 @@
 {
   "Medium": "Woodcut and monoprint with oil paint and ink additions", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "Felix Droese", 
   "URL": "http://www.moma.org/collection/works/59790", 
   "CuratorApproved": "Y", 
-  "Title": "Keep it in the Ground", 
-  "DateAcquired": "1990-01-16", 
+  "CreditLine": "Gift of Walter Bareiss", 
   "Date": "1986", 
   "ArtistID": 1620, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "9.1990", 
-  "ArtistBio": "German, born 1950", 
-  "CreditLine": "Gift of Walter Bareiss", 
+  "ArtistBio": "(German, born 1950)", 
+  "DateAcquired": "1990-01-16", 
+  "\ufeffTitle": "Keep it in the Ground", 
   "ObjectID": "59790"
 }

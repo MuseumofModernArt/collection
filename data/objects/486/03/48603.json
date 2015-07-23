@@ -5,8 +5,7 @@
   "Artist": "Yoram Lehman", 
   "URL": "http://www.moma.org/collection/works/48603", 
   "CuratorApproved": "Y", 
-  "Title": "Iron", 
-  "DateAcquired": "1975-05-14", 
+  "CreditLine": "Gift of the photographer", 
   "Date": "1973", 
   "ArtistID": 3463, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "212.1975", 
-  "ArtistBio": "Israeli, born 1939", 
-  "CreditLine": "Gift of the photographer", 
+  "ArtistBio": "(Israeli, born 1939)", 
+  "DateAcquired": "1975-05-14", 
+  "\ufeffTitle": "Iron", 
   "ObjectID": "48603"
 }

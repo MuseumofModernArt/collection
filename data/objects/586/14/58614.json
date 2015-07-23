@@ -5,8 +5,7 @@
   "Artist": "International News Photo", 
   "URL": "http://www.moma.org/collection/works/58614", 
   "CuratorApproved": "Y", 
-  "Title": "The Shadow of Tradgedy", 
-  "DateAcquired": "2001-06-14", 
+  "CreditLine": "The New York Times Collection", 
   "Date": "May 16, 1932", 
   "ArtistID": 8560, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "2021.2001", 
-  "ArtistBio": "NULL", 
-  "CreditLine": "The New York Times Collection", 
+  "ArtistBio": "", 
+  "DateAcquired": "2001-06-14", 
+  "\ufeffTitle": "\"The Shadow of Tradgedy\"", 
   "ObjectID": "58614"
 }

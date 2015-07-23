@@ -5,8 +5,7 @@
   "Artist": "Andr\u00e9 Derain", 
   "URL": "http://www.moma.org/collection/works/68499", 
   "CuratorApproved": "Y", 
-  "Title": "Woman's Head", 
-  "DateAcquired": "1961-12-13", 
+  "CreditLine": "Gift of Peter H. Deitsch", 
   "Date": "(1920)", 
   "ArtistID": 1500, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "403.1961", 
-  "ArtistBio": "French, 1880\u20131954", 
-  "CreditLine": "Gift of Peter H. Deitsch", 
+  "ArtistBio": "(French, 1880\u20131954)", 
+  "DateAcquired": "1961-12-13", 
+  "\ufeffTitle": "Woman's Head", 
   "ObjectID": "68499"
 }

@@ -5,8 +5,7 @@
   "Artist": "Pablo Picasso", 
   "URL": "http://www.moma.org/collection/works/29970", 
   "CuratorApproved": "Y", 
-  "Title": "Composition or Composition in Three Colors (plate, page 91) from Dans l'Atelier de Picasso", 
-  "DateAcquired": "1964-10-06", 
+  "CreditLine": "The Louis E. Stern Collection", 
   "Date": "(Print executed 1947)", 
   "ArtistID": 4609, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "1013.1964.3", 
-  "ArtistBio": "Spanish, 1881\u20131973", 
-  "CreditLine": "The Louis E. Stern Collection", 
+  "ArtistBio": "(Spanish, 1881\u20131973)", 
+  "DateAcquired": "1964-10-06", 
+  "\ufeffTitle": "Composition or Composition in Three Colors (plate, page 91) from the illustrated book Dans l'Atelier de Picasso", 
   "ObjectID": "29970"
 }

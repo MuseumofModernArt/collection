@@ -5,8 +5,7 @@
   "Artist": "Nicholas Nixon", 
   "URL": "http://www.moma.org/collection/works/45896", 
   "CuratorApproved": "Y", 
-  "Title": "Jamie Watkins, Perkins", 
-  "DateAcquired": "1993-03-11", 
+  "CreditLine": "Purchase", 
   "Date": "1991", 
   "ArtistID": 4315, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "83.1993", 
-  "ArtistBio": "American, born 1947", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, born 1947)", 
+  "DateAcquired": "1993-03-11", 
+  "\ufeffTitle": "Jamie Watkins, Perkins", 
   "ObjectID": "45896"
 }

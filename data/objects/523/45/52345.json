@@ -5,8 +5,7 @@
   "Artist": "Tod Papageorge", 
   "URL": "http://www.moma.org/collection/works/52345", 
   "CuratorApproved": "Y", 
-  "Title": "Carroll County, Huntingdon, Tennessee", 
-  "DateAcquired": "1983-03-24", 
+  "CreditLine": "Gift of Joseph E. Seagram & Sons, Inc., Seagram County Court House Archives", 
   "Date": "1975", 
   "ArtistID": 4490, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "388.1983", 
-  "ArtistBio": "American, born 1940", 
-  "CreditLine": "Gift of Joseph E. Seagram & Sons, Inc., Seagram County Court House Archives", 
+  "ArtistBio": "(American, born 1940)", 
+  "DateAcquired": "1983-03-24", 
+  "\ufeffTitle": "Carroll County, Huntingdon, Tennessee", 
   "ObjectID": "52345"
 }

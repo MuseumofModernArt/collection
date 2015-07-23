@@ -1,12 +1,11 @@
 {
   "Medium": "Platinum print", 
-  "Dimensions": "10 1/16 x 8 1/8\" (25.5 x 20.7 cm)  ", 
+  "Dimensions": "10 1/16 x 8 1/8\" (25.5 x 20.7 cm)\r\n", 
   "Classification": "Photograph", 
   "Artist": "Heinrich K\u00fchn", 
   "URL": "http://www.moma.org/collection/works/45837", 
   "CuratorApproved": "Y", 
-  "Title": "Alfred Stieglitz", 
-  "DateAcquired": "1964-01-07", 
+  "CreditLine": "Gift of Edward Steichen", 
   "Date": "1904", 
   "ArtistID": 3287, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "81.1964", 
-  "ArtistBio": "German, 1866\u20131944", 
-  "CreditLine": "Gift of Edward Steichen", 
+  "ArtistBio": "(German, 1866\u20131944)", 
+  "DateAcquired": "1964-01-07", 
+  "\ufeffTitle": "Alfred Stieglitz", 
   "ObjectID": "45837"
 }

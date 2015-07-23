@@ -5,8 +5,7 @@
   "Artist": "Koen De Winter", 
   "URL": "http://www.moma.org/collection/works/1200", 
   "CuratorApproved": "Y", 
-  "Title": "Pitcher", 
-  "DateAcquired": "2001-09-24", 
+  "CreditLine": "Given anonymously", 
   "Date": "1976", 
   "ArtistID": 7212, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "2323.2001.a-b", 
-  "ArtistBio": "Belgian, born 1943", 
-  "CreditLine": "Given anonymously", 
+  "ArtistBio": "(Belgian, born 1943)", 
+  "DateAcquired": "2001-09-24", 
+  "\ufeffTitle": "Pitcher", 
   "ObjectID": "1200"
 }

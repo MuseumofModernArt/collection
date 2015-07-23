@@ -1,12 +1,11 @@
 {
   "Medium": "Lithograph", 
-  "Dimensions": "irreg composition  33 11/16 x 49 1/2\" (85.6 x 125.7 cm)  sheet  33 7/8 x 50 15/16\" (86.1 x 129.4 cm)", 
+  "Dimensions": "irreg composition  33 11/16 x 49 1/2\" (85.6 x 125.7 cm)\r\nsheet  33 7/8 x 50 15/16\" (86.1 x 129.4 cm)", 
   "Classification": "Print", 
   "Artist": "Robert Rauschenberg", 
   "URL": "http://www.moma.org/collection/works/67837", 
   "CuratorApproved": "Y", 
-  "Title": "Air Pocket from the Stoned Moon Series", 
-  "DateAcquired": "1971-03-30", 
+  "CreditLine": "Gift of Tomas del Amo", 
   "Date": "1970", 
   "ArtistID": 4823, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "366.1971", 
-  "ArtistBio": "American, 1925\u20132008", 
-  "CreditLine": "Gift of Tomas del Amo", 
+  "ArtistBio": "(American, 1925\u20132008)", 
+  "DateAcquired": "1971-03-30", 
+  "\ufeffTitle": "Air Pocket from the Stoned Moon Series", 
   "ObjectID": "67837"
 }

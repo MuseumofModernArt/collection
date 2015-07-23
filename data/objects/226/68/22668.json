@@ -1,12 +1,11 @@
 {
   "Medium": "4 lithographs", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Illustrated Book", 
   "Artist": "Edward Colker", 
   "URL": "http://www.moma.org/collection/works/22668", 
   "CuratorApproved": "Y", 
-  "Title": "4 Poets/Poems by Michael Anania, Robert Hawks, David Shapiro, and Brian Swann", 
-  "DateAcquired": "1995-11-13", 
+  "CreditLine": "John B. Turner Fund", 
   "Date": "1993", 
   "ArtistID": 1186, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "753.1995.1-4", 
-  "ArtistBio": "American, born 1927", 
-  "CreditLine": "John B. Turner Fund", 
+  "ArtistBio": "(American, born 1927)", 
+  "DateAcquired": "1995-11-13", 
+  "\ufeffTitle": "4 Poets/Poems", 
   "ObjectID": "22668"
 }

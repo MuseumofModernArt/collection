@@ -5,8 +5,7 @@
   "Artist": "Robert Welch", 
   "URL": "http://www.moma.org/collection/works/3307", 
   "CuratorApproved": "Y", 
-  "Title": "Nutcracker", 
-  "DateAcquired": "1960-11-16", 
+  "CreditLine": "Gift of the manufacturer", 
   "Date": "1958", 
   "ArtistID": 7133, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "329.1960", 
-  "ArtistBio": "British, 1929\u20132000", 
-  "CreditLine": "Gift of the manufacturer", 
+  "ArtistBio": "(British, 1929\u20132000)", 
+  "DateAcquired": "1960-11-16", 
+  "\ufeffTitle": "Nutcracker", 
   "ObjectID": "3307"
 }

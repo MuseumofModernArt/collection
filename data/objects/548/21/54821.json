@@ -5,8 +5,7 @@
   "Artist": "Judy Dater", 
   "URL": "http://www.moma.org/collection/works/54821", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1970-10-27", 
+  "CreditLine": "Purchase", 
   "Date": "1964", 
   "ArtistID": 1392, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "535.1970", 
-  "ArtistBio": "American, born 1941", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, born 1941)", 
+  "DateAcquired": "1970-10-27", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "54821"
 }

@@ -5,8 +5,7 @@
   "Artist": "Dieter Appelt", 
   "URL": "http://www.moma.org/collection/works/49523", 
   "CuratorApproved": "Y", 
-  "Title": "Image of Life and Death", 
-  "DateAcquired": "1996-06-13", 
+  "CreditLine": "Gift of Thomas Walther", 
   "Date": "1981", 
   "ArtistID": 7647, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "249.1996", 
-  "ArtistBio": "German, born 1935", 
-  "CreditLine": "Gift of Thomas Walther", 
+  "ArtistBio": "(German, born 1935)", 
+  "DateAcquired": "1996-06-13", 
+  "\ufeffTitle": "Image of Life and Death", 
   "ObjectID": "49523"
 }

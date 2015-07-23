@@ -1,12 +1,11 @@
 {
   "Medium": "Etching and aquatint", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "Carroll Dunham", 
   "URL": "http://www.moma.org/collection/works/61761", 
   "CuratorApproved": "Y", 
-  "Title": "Wave", 
-  "DateAcquired": "1991-05-22", 
+  "CreditLine": "Gift of Emily Fisher Landau", 
   "Date": "1988-90", 
   "ArtistID": 1652, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "98.1991", 
-  "ArtistBio": "American, born 1949", 
-  "CreditLine": "Gift of Emily Fisher Landau", 
+  "ArtistBio": "(American, born 1949)", 
+  "DateAcquired": "1991-05-22", 
+  "\ufeffTitle": "Wave", 
   "ObjectID": "61761"
 }

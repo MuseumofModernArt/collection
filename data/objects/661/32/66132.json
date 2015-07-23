@@ -5,8 +5,7 @@
   "Artist": "Pablo Picasso", 
   "URL": "http://www.moma.org/collection/works/66132", 
   "CuratorApproved": "Y", 
-  "Title": "Still Life with Glass Under the Lamp (Nature morte au verre sous la lampe)", 
-  "DateAcquired": "1964-04-14", 
+  "CreditLine": "Gift of Mrs. Donald B. Straus", 
   "Date": "March 19, 1962", 
   "ArtistID": 4609, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "289.1964", 
-  "ArtistBio": "Spanish, 1881\u20131973", 
-  "CreditLine": "Gift of Mrs. Donald B. Straus", 
+  "ArtistBio": "(Spanish, 1881\u20131973)", 
+  "DateAcquired": "1964-04-14", 
+  "\ufeffTitle": "Still Life with Glass Under the Lamp (Nature morte au verre sous la lampe)", 
   "ObjectID": "66132"
 }

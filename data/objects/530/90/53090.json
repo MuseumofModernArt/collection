@@ -5,8 +5,7 @@
   "Artist": "Anna Atkins", 
   "URL": "http://www.moma.org/collection/works/53090", 
   "CuratorApproved": "Y", 
-  "Title": "Polypodium Phegopteris", 
-  "DateAcquired": "1984-12-05", 
+  "CreditLine": "David H. McAlpin Fund", 
   "Date": "1850-54", 
   "ArtistID": 231, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "416.1984", 
-  "ArtistBio": "British, 1797\u20131871", 
-  "CreditLine": "David H. McAlpin Fund", 
+  "ArtistBio": "(British, 1797\u20131871)", 
+  "DateAcquired": "1984-12-05", 
+  "\ufeffTitle": "Polypodium Phegopteris", 
   "ObjectID": "53090"
 }

@@ -5,8 +5,7 @@
   "Artist": "Rudy Burckhardt", 
   "URL": "http://www.moma.org/collection/works/44878", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1993-03-11", 
+  "CreditLine": "Gift of CameraWorks, Inc. and Purchase", 
   "Date": "1940", 
   "ArtistID": 7653, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "50.1993.20", 
-  "ArtistBio": "American, born Switzerland. 1914\u20131999", 
-  "CreditLine": "Gift of CameraWorks, Inc. and Purchase", 
+  "ArtistBio": "(American, born Switzerland. 1914\u20131999)", 
+  "DateAcquired": "1993-03-11", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "44878"
 }

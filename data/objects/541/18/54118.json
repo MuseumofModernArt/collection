@@ -1,12 +1,11 @@
 {
   "Medium": "Collotype", 
-  "Dimensions": "5 11/16 x 4 9/16\" (14.4 x 11.6 cm)  ", 
+  "Dimensions": "5 11/16 x 4 9/16\" (14.4 x 11.6 cm)\r\n", 
   "Classification": "Photograph", 
   "Artist": "Charles N\u00e8gre", 
   "URL": "http://www.moma.org/collection/works/54118", 
   "CuratorApproved": "Y", 
-  "Title": "Man with High Hat", 
-  "DateAcquired": "1964-05-12", 
+  "CreditLine": "Gift of Andr\u00e9 Jammes", 
   "Date": "1851", 
   "ArtistID": 4254, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "479.1964", 
-  "ArtistBio": "French, 1820\u20131880", 
-  "CreditLine": "Gift of Andr\u00e9 Jammes", 
+  "ArtistBio": "(French, 1820\u20131880)", 
+  "DateAcquired": "1964-05-12", 
+  "\ufeffTitle": "Man with High Hat", 
   "ObjectID": "54118"
 }

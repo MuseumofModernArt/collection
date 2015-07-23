@@ -1,12 +1,11 @@
 {
   "Medium": "Lithograph", 
-  "Dimensions": "irreg composition  36 15/16 x 28 9/16\" (93.8 x 72.5 cm)  irreg sheet  40 1/8 x 29 15/16\" (101.9 x 76 cm)", 
+  "Dimensions": "irreg composition  36 15/16 x 28 9/16\" (93.8 x 72.5 cm)\r\nirreg sheet  40 1/8 x 29 15/16\" (101.9 x 76 cm)", 
   "Classification": "Print", 
   "Artist": "Jim Dine", 
   "URL": "http://www.moma.org/collection/works/64795", 
   "CuratorApproved": "Y", 
-  "Title": "The Jerusalem #5 from the series Jerusalem Plant", 
-  "DateAcquired": "1982-10-26", 
+  "CreditLine": "Gift of Celeste Bartos", 
   "Date": "1982", 
   "ArtistID": 1547, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "229.1982", 
-  "ArtistBio": "American, born 1935", 
-  "CreditLine": "Gift of Celeste Bartos", 
+  "ArtistBio": "(American, born 1935)", 
+  "DateAcquired": "1982-10-26", 
+  "\ufeffTitle": "The Jerusalem #5 from the series Jerusalem Plant", 
   "ObjectID": "64795"
 }

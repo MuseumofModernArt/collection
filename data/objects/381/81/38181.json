@@ -5,8 +5,7 @@
   "Artist": "Henryk Berlewi", 
   "URL": "http://www.moma.org/collection/works/38181", 
   "CuratorApproved": "Y", 
-  "Title": "First State of the Mechano-Faktura", 
-  "DateAcquired": "1985-09-10", 
+  "CreditLine": "The Riklis Collection of McCrory Corporation", 
   "Date": "1923", 
   "ArtistID": 501, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "855.1983", 
-  "ArtistBio": "Polish, 1894\u20131967", 
-  "CreditLine": "The Riklis Collection of McCrory Corporation", 
+  "ArtistBio": "(Polish, 1894\u20131967)", 
+  "DateAcquired": "1985-09-10", 
+  "\ufeffTitle": "First State of the Mechano-Faktura", 
   "ObjectID": "38181"
 }

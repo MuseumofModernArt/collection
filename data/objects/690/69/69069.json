@@ -1,12 +1,11 @@
 {
   "Medium": "Screenprint", 
-  "Dimensions": "Composition: 17 7/8 x 15 15/16\" (45.4 x 40.5 cm)  Sheet: 23 15/16 x 18\" (60.8 x 45.7 cm)", 
+  "Dimensions": "Composition: 17 7/8 x 15 15/16\" (45.4 x 40.5 cm)\r\nSheet: 23 15/16 x 18\" (60.8 x 45.7 cm)", 
   "Classification": "Print", 
   "Artist": "H\u00e9lio Oiticica", 
   "URL": "http://www.moma.org/collection/works/69069", 
   "CuratorApproved": "Y", 
-  "Title": "Homage to My Father (Projeto H.O.)", 
-  "DateAcquired": "1999-11-18", 
+  "CreditLine": "Gift of the Oiticica Family", 
   "Date": "1972", 
   "ArtistID": 7715, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "434.1999", 
-  "ArtistBio": "Brazilian, 1937\u20131980", 
-  "CreditLine": "Gift of the Oiticica Family", 
+  "ArtistBio": "(Brazilian, 1937\u20131980)", 
+  "DateAcquired": "1999-11-18", 
+  "\ufeffTitle": "Homage to My Father (Projeto H.O.)", 
   "ObjectID": "69069"
 }

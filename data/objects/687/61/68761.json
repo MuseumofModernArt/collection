@@ -1,12 +1,11 @@
 {
   "Medium": "Lithograph and screenprint", 
-  "Dimensions": "composition  32 1/8 x 63 15/16\" (81.6 x 162.5 cm)  sheet  37 15/16 x 69 15/16\" (96 x 177.7 cm)", 
+  "Dimensions": "composition  32 1/8 x 63 15/16\" (81.6 x 162.5 cm)\r\nsheet  37 15/16 x 69 15/16\" (96 x 177.7 cm)", 
   "Classification": "Print", 
   "Artist": "Frank Stella", 
   "URL": "http://www.moma.org/collection/works/68761", 
   "CuratorApproved": "Y", 
-  "Title": "Port aux Basques from the Newfoundland Series", 
-  "DateAcquired": "1987-10-20", 
+  "CreditLine": "The Associates Fund", 
   "Date": "1971", 
   "ArtistID": 5640, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "417.1987", 
-  "ArtistBio": "American, born 1936", 
-  "CreditLine": "The Associates Fund", 
+  "ArtistBio": "(American, born 1936)", 
+  "DateAcquired": "1987-10-20", 
+  "\ufeffTitle": "Port aux Basques from the Newfoundland Series", 
   "ObjectID": "68761"
 }

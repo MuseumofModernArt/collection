@@ -5,8 +5,7 @@
   "Artist": "Edvard Munch", 
   "URL": "http://www.moma.org/collection/works/60075", 
   "CuratorApproved": "Y", 
-  "Title": "The Scream", 
-  "DateAcquired": "1960-02-10", 
+  "CreditLine": "Matthew T. Mellon Fund", 
   "Date": "1895; signed 1896", 
   "ArtistID": 4164, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "19.1960", 
-  "ArtistBio": "Norwegian, 1863\u20131944", 
-  "CreditLine": "Matthew T. Mellon Fund", 
+  "ArtistBio": "(Norwegian, 1863\u20131944)", 
+  "DateAcquired": "1960-02-10", 
+  "\ufeffTitle": "The Scream", 
   "ObjectID": "60075"
 }

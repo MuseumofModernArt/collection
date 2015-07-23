@@ -5,8 +5,7 @@
   "Artist": "Mathew B. Brady (studio of)", 
   "URL": "http://www.moma.org/collection/works/53118", 
   "CuratorApproved": "Y", 
-  "Title": "Ernestine Souvenir", 
-  "DateAcquired": "1988-12-15", 
+  "CreditLine": "The Family of Man Fund", 
   "Date": "1860-69", 
   "ArtistID": 734, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "418.1988", 
-  "ArtistBio": "American, 1823\u20131896", 
-  "CreditLine": "The Family of Man Fund", 
+  "ArtistBio": "(American, 1823\u20131896)", 
+  "DateAcquired": "1988-12-15", 
+  "\ufeffTitle": "Ernestine Souvenir", 
   "ObjectID": "53118"
 }

@@ -5,8 +5,7 @@
   "Artist": "Mary E. Frey", 
   "URL": "http://www.moma.org/collection/works/46254", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1987-04-16", 
+  "CreditLine": "Gift of the photographer", 
   "Date": "1984-87", 
   "ArtistID": 1997, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "98.1987", 
-  "ArtistBio": "American, born 1948", 
-  "CreditLine": "Gift of the photographer", 
+  "ArtistBio": "(American, born 1948)", 
+  "DateAcquired": "1987-04-16", 
+  "\ufeffTitle": "Untitled from the series Real Life Dramas", 
   "ObjectID": "46254"
 }

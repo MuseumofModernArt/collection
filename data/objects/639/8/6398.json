@@ -5,8 +5,7 @@
   "Artist": "Ernst Keller", 
   "URL": "http://www.moma.org/collection/works/6398", 
   "CuratorApproved": "Y", 
-  "Title": "Kunstgewerbemuseum Z\u00fcrich, Schuelerarbeiten aus der Baugewerblichen und der Mechanisch-Technischen Abteilung der Gewerbeschule", 
-  "DateAcquired": "1937-10-30", 
+  "CreditLine": "Special Purchase Fund", 
   "Date": "1930", 
   "ArtistID": 3041, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "344.1937", 
-  "ArtistBio": "Swiss, 1891\u20131968", 
-  "CreditLine": "Special Purchase Fund", 
+  "ArtistBio": "(Swiss, 1891\u20131968)", 
+  "DateAcquired": "1937-10-30", 
+  "\ufeffTitle": "Kunstgewerbemuseum Z\u00fcrich, Schuelerarbeiten aus der Baugewerblichen und der Mechanisch-Technischen Abteilung der Gewerbeschule", 
   "ObjectID": "6398"
 }

@@ -5,8 +5,7 @@
   "Artist": "Tim Parsey", 
   "URL": "http://www.moma.org/collection/works/2973", 
   "CuratorApproved": "Y", 
-  "Title": "Stylewriter II Printer", 
-  "DateAcquired": "1994-05-03", 
+  "CreditLine": "Gift of the manufacturer", 
   "Date": "1992", 
   "ArtistID": 7280, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "240.1994", 
-  "ArtistBio": "British, born 1960", 
-  "CreditLine": "Gift of the manufacturer", 
+  "ArtistBio": "(British, born 1960)", 
+  "DateAcquired": "1994-05-03", 
+  "\ufeffTitle": "Stylewriter II Printer", 
   "ObjectID": "2973"
 }

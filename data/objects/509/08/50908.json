@@ -5,8 +5,7 @@
   "Artist": "Francis Bedford", 
   "URL": "http://www.moma.org/collection/works/50908", 
   "CuratorApproved": "Y", 
-  "Title": "Exmouth from the East (No. 3615)", 
-  "DateAcquired": "1974-06-04", 
+  "CreditLine": "Purchase", 
   "Date": "c. 1860", 
   "ArtistID": 430, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "328.1974", 
-  "ArtistBio": "British, 1816\u20131894", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(British, 1816\u20131894)", 
+  "DateAcquired": "1974-06-04", 
+  "\ufeffTitle": "Exmouth from the East (No. 3615)", 
   "ObjectID": "50908"
 }

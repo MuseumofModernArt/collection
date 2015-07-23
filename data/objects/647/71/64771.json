@@ -5,8 +5,7 @@
   "Artist": "Willi Baumeister", 
   "URL": "http://www.moma.org/collection/works/64771", 
   "CuratorApproved": "Y", 
-  "Title": "Composition", 
-  "DateAcquired": "1947-10-16", 
+  "CreditLine": "Gift of the artist", 
   "Date": "1947", 
   "ArtistID": 392, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "228.1947", 
-  "ArtistBio": "German, 1889\u20131955", 
-  "CreditLine": "Gift of the artist", 
+  "ArtistBio": "(German, 1889\u20131955)", 
+  "DateAcquired": "1947-10-16", 
+  "\ufeffTitle": "Composition", 
   "ObjectID": "64771"
 }

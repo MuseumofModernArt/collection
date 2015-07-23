@@ -5,8 +5,7 @@
   "Artist": "Dove Bradshaw", 
   "URL": "http://www.moma.org/collection/works/33415", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1988-02-19", 
+  "CreditLine": "Gift of Eugene and Barbara Schwartz", 
   "Date": "1987", 
   "ArtistID": 733, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "33.1988", 
-  "ArtistBio": "American, born 1949", 
-  "CreditLine": "Gift of Eugene and Barbara Schwartz", 
+  "ArtistBio": "(American, born 1949)", 
+  "DateAcquired": "1988-02-19", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "33415"
 }

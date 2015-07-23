@@ -5,8 +5,7 @@
   "Artist": "Harvey Littleton", 
   "URL": "http://www.moma.org/collection/works/3572", 
   "CuratorApproved": "Y", 
-  "Title": "Vase", 
-  "DateAcquired": "1964-04-14", 
+  "CreditLine": "Greta Daniel Fund", 
   "Date": "1963", 
   "ArtistID": 3572, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "431.1964", 
-  "ArtistBio": "American, born 1922", 
-  "CreditLine": "Greta Daniel Fund", 
+  "ArtistBio": "(American, born 1922)", 
+  "DateAcquired": "1964-04-14", 
+  "\ufeffTitle": "Vase", 
   "ObjectID": "3572"
 }

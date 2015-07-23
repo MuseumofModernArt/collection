@@ -5,8 +5,7 @@
   "Artist": "Charles N\u00e8gre", 
   "URL": "http://www.moma.org/collection/works/52241", 
   "CuratorApproved": "Y", 
-  "Title": "Portrait of Th\u00e9ophile Gautier, after Nadar", 
-  "DateAcquired": "1983-03-24", 
+  "CreditLine": "Purchase", 
   "Date": "1857", 
   "ArtistID": 4254, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "383.1983.11", 
-  "ArtistBio": "French, 1820\u20131880", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(French, 1820\u20131880)", 
+  "DateAcquired": "1983-03-24", 
+  "\ufeffTitle": "Portrait of Th\u00e9ophile Gautier, after Nadar", 
   "ObjectID": "52241"
 }

@@ -5,8 +5,7 @@
   "Artist": "Izika Gaon", 
   "URL": "http://www.moma.org/collection/works/5955", 
   "CuratorApproved": "Y", 
-  "Title": "De Stijl. The Israel Museum, Jerusalem. March 29-May 31, 1977", 
-  "DateAcquired": "1980-01-08", 
+  "CreditLine": "Gift of the Israel Museum, Jerusalem", 
   "Date": "1977", 
   "ArtistID": 2072, 
   "Keywords": [
@@ -21,7 +20,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "268.1980", 
-  "ArtistBio": "Israeli, born 1938", 
-  "CreditLine": "Gift of the Israel Museum, Jerusalem", 
+  "ArtistBio": "(Israeli, born 1938)", 
+  "DateAcquired": "1980-01-08", 
+  "\ufeffTitle": "De Stijl. The Israel Museum, Jerusalem. March 29-May 31, 1977", 
   "ObjectID": "5955"
 }

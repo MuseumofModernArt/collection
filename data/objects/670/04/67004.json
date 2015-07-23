@@ -5,8 +5,7 @@
   "Artist": "Andr\u00e9 Fougeron", 
   "URL": "http://www.moma.org/collection/works/67004", 
   "CuratorApproved": "Y", 
-  "Title": "Boy on a Sofa", 
-  "DateAcquired": "1948-10-06", 
+  "CreditLine": "Gift of Victor S. Riesenfeld", 
   "Date": "(c. 1946)", 
   "ArtistID": 1956, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "327.1948", 
-  "ArtistBio": "French, 1913\u20131998", 
-  "CreditLine": "Gift of Victor S. Riesenfeld", 
+  "ArtistBio": "(French, 1913\u20131998)", 
+  "DateAcquired": "1948-10-06", 
+  "\ufeffTitle": "Boy on a Sofa", 
   "ObjectID": "67004"
 }

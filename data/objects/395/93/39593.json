@@ -1,12 +1,11 @@
 {
   "Medium": "Gelatin silver printing-out-paper print", 
-  "Dimensions": "6 7/16 x 8 7/16\" (16.4 x 21.5 cm)  ", 
+  "Dimensions": "6 7/16 x 8 7/16\" (16.4 x 21.5 cm)\r\n", 
   "Classification": "Photograph", 
   "Artist": "Eug\u00e8ne Atget", 
   "URL": "http://www.moma.org/collection/works/39593", 
   "CuratorApproved": "Y", 
-  "Title": "F\u00eate du Tr\u00f4ne", 
-  "DateAcquired": "1968-03-06", 
+  "CreditLine": "Abbott-Levy Collection. Partial gift of Shirley C. Burden", 
   "Date": "1925", 
   "ArtistID": 229, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "1.1969.1641", 
-  "ArtistBio": "French, 1857\u20131927", 
-  "CreditLine": "Abbott-Levy Collection. Partial gift of Shirley C. Burden", 
+  "ArtistBio": "(French, 1857\u20131927)", 
+  "DateAcquired": "1968-03-06", 
+  "\ufeffTitle": "F\u00eate du Tr\u00f4ne", 
   "ObjectID": "39593"
 }

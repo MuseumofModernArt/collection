@@ -5,8 +5,7 @@
   "Artist": "Berenice Abbott", 
   "URL": "http://www.moma.org/collection/works/50551", 
   "CuratorApproved": "Y", 
-  "Title": "Zito's Bakery, Bleecker Street", 
-  "DateAcquired": "1974-06-04", 
+  "CreditLine": "Given anonymously", 
   "Date": "c. 1948", 
   "ArtistID": 41, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "314.1974", 
-  "ArtistBio": "American, 1898\u20131991", 
-  "CreditLine": "Given anonymously", 
+  "ArtistBio": "(American, 1898\u20131991)", 
+  "DateAcquired": "1974-06-04", 
+  "\ufeffTitle": "Zito's Bakery, Bleecker Street", 
   "ObjectID": "50551"
 }

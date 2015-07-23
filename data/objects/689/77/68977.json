@@ -5,8 +5,7 @@
   "Artist": "Ivan Le Lorraine Albright", 
   "URL": "http://www.moma.org/collection/works/68977", 
   "CuratorApproved": "Y", 
-  "Title": "Self Portrait - 55 Division Street", 
-  "DateAcquired": "1953-06-22", 
+  "CreditLine": "Purchase Fund", 
   "Date": "1947", 
   "ArtistID": 100, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "429.1953", 
-  "ArtistBio": "American, 1897\u20131983", 
-  "CreditLine": "Purchase Fund", 
+  "ArtistBio": "(American, 1897\u20131983)", 
+  "DateAcquired": "1953-06-22", 
+  "\ufeffTitle": "Self Portrait - 55 Division Street", 
   "ObjectID": "68977"
 }

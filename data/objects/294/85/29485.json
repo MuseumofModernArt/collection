@@ -5,8 +5,7 @@
   "Artist": "Pablo Picasso", 
   "URL": "http://www.moma.org/collection/works/29485", 
   "CuratorApproved": "Y", 
-  "Title": "Variant of Faces (1st supplementary suite, plate 3) from the illustrated book La Ch\u00e8vre-Feuille", 
-  "DateAcquired": "1964-10-06", 
+  "CreditLine": "The Louis E. Stern Collection", 
   "Date": "1943", 
   "ArtistID": 4609, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "979.1964.B03", 
-  "ArtistBio": "Spanish, 1881\u20131973", 
-  "CreditLine": "The Louis E. Stern Collection", 
+  "ArtistBio": "(Spanish, 1881\u20131973)", 
+  "DateAcquired": "1964-10-06", 
+  "\ufeffTitle": "Variant of Faces (1st supplementary suite, plate 3) from the illustrated book La Ch\u00e8vre-Feuille", 
   "ObjectID": "29485"
 }

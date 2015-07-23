@@ -5,8 +5,7 @@
   "Artist": "Harry Callahan", 
   "URL": "http://www.moma.org/collection/works/53434", 
   "CuratorApproved": "Y", 
-  "Title": "Wabash Avenue, Chicago", 
-  "DateAcquired": "1960-11-30", 
+  "CreditLine": "Purchase", 
   "Date": "1959", 
   "ArtistID": 924, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "442.1960", 
-  "ArtistBio": "American, 1912\u20131999", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, 1912\u20131999)", 
+  "DateAcquired": "1960-11-30", 
+  "\ufeffTitle": "Wabash Avenue, Chicago", 
   "ObjectID": "53434"
 }

@@ -5,8 +5,7 @@
   "Artist": "Charles Sheeler", 
   "URL": "http://www.moma.org/collection/works/46579", 
   "CuratorApproved": "Y", 
-  "Title": "Stairwell", 
-  "DateAcquired": "1985-03-27", 
+  "CreditLine": "Gift of the photographer", 
   "Date": "1914-17", 
   "ArtistID": 5383, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "119.1985", 
-  "ArtistBio": "American, 1883\u20131965", 
-  "CreditLine": "Gift of the photographer", 
+  "ArtistBio": "(American, 1883\u20131965)", 
+  "DateAcquired": "1985-03-27", 
+  "\ufeffTitle": "Stairwell", 
   "ObjectID": "46579"
 }

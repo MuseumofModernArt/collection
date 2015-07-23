@@ -5,8 +5,7 @@
   "Artist": "Salvador Dal\u00ed", 
   "URL": "http://www.moma.org/collection/works/16330", 
   "CuratorApproved": "Y", 
-  "Title": "Onan", 
-  "DateAcquired": "1971-03-30", 
+  "CreditLine": "Monroe Wheeler Fund", 
   "Date": "1934", 
   "ArtistID": 1364, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "373.1971", 
-  "ArtistBio": "Spanish, 1904\u20131989", 
-  "CreditLine": "Monroe Wheeler Fund", 
+  "ArtistBio": "(Spanish, 1904\u20131989)", 
+  "DateAcquired": "1971-03-30", 
+  "\ufeffTitle": "Onan", 
   "ObjectID": "16330"
 }

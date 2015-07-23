@@ -5,8 +5,7 @@
   "Artist": "Unknown Artist", 
   "URL": "http://www.moma.org/collection/works/8580", 
   "CuratorApproved": "Y", 
-  "Title": "Reymond ateliers de photogravure", 
-  "DateAcquired": "1999-12-10", 
+  "CreditLine": "Jan Tschichold Collection, Gift of Philip Johnson", 
   "Date": "Unknown", 
   "ArtistID": 6026, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "1105.1999", 
-  "ArtistBio": "Nationality Unknown", 
-  "CreditLine": "Jan Tschichold Collection, Gift of Philip Johnson", 
+  "ArtistBio": "(Nationality Unknown)", 
+  "DateAcquired": "1999-12-10", 
+  "\ufeffTitle": "Reymond ateliers de photogravure", 
   "ObjectID": "8580"
 }

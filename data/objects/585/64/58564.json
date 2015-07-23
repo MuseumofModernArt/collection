@@ -5,8 +5,7 @@
   "Artist": "Anthony Camerano/Associated Press", 
   "URL": "http://www.moma.org/collection/works/58564", 
   "CuratorApproved": "Y", 
-  "Title": "The Winner in Broad Jump", 
-  "DateAcquired": "2001-06-14", 
+  "CreditLine": "The New York Times Collection", 
   "Date": "1936", 
   "ArtistID": 8521, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "1971.2001", 
-  "ArtistBio": "American, 1909\u20131973", 
-  "CreditLine": "The New York Times Collection", 
+  "ArtistBio": "(American, 1909\u20131973)", 
+  "DateAcquired": "2001-06-14", 
+  "\ufeffTitle": "\"The Winner in Broad Jump\"", 
   "ObjectID": "58564"
 }

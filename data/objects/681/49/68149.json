@@ -5,8 +5,7 @@
   "Artist": "Jacques Villon", 
   "URL": "http://www.moma.org/collection/works/68149", 
   "CuratorApproved": "Y", 
-  "Title": "Camille Renault", 
-  "DateAcquired": "1948-10-06", 
+  "CreditLine": "Gift of Victor S. Riesenfeld", 
   "Date": "(1945)", 
   "ArtistID": 6165, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "382.1948", 
-  "ArtistBio": "French, 1875\u20131963", 
-  "CreditLine": "Gift of Victor S. Riesenfeld", 
+  "ArtistBio": "(French, 1875\u20131963)", 
+  "DateAcquired": "1948-10-06", 
+  "\ufeffTitle": "Camille Renault", 
   "ObjectID": "68149"
 }

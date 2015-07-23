@@ -5,8 +5,7 @@
   "Artist": "Giorgio de Chirico", 
   "URL": "http://www.moma.org/collection/works/23412", 
   "CuratorApproved": "Y", 
-  "Title": "Calligrammes", 
-  "DateAcquired": "1964-10-06", 
+  "CreditLine": "The Louis E. Stern Collection", 
   "Date": "1930", 
   "ArtistID": 1106, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "763.1964.1-68", 
-  "ArtistBio": "Italian, born Greece. 1888\u20131978", 
-  "CreditLine": "The Louis E. Stern Collection", 
+  "ArtistBio": "(Italian, born Greece. 1888\u20131978)", 
+  "DateAcquired": "1964-10-06", 
+  "\ufeffTitle": "Calligrammes", 
   "ObjectID": "23412"
 }

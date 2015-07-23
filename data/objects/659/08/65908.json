@@ -1,12 +1,11 @@
 {
   "Medium": "Lithograph with acrylic additions on chamois hide", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "William T. Wiley", 
   "URL": "http://www.moma.org/collection/works/65908", 
   "CuratorApproved": "Y", 
-  "Title": "Little Hide", 
-  "DateAcquired": "1997-05-28", 
+  "CreditLine": "Gift of Landfall Press", 
   "Date": "1972", 
   "ArtistID": 6370, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "279.1997", 
-  "ArtistBio": "American, born 1937", 
-  "CreditLine": "Gift of Landfall Press", 
+  "ArtistBio": "(American, born 1937)", 
+  "DateAcquired": "1997-05-28", 
+  "\ufeffTitle": "Little Hide", 
   "ObjectID": "65908"
 }

@@ -5,8 +5,7 @@
   "Artist": "Anne Noggle", 
   "URL": "http://www.moma.org/collection/works/53297", 
   "CuratorApproved": "Y", 
-  "Title": "Reminiscence: Portrait with my Sister", 
-  "DateAcquired": "1986-12-18", 
+  "CreditLine": "Purchased with funds given anonymously", 
   "Date": "1980", 
   "ArtistID": 4323, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "432.1986", 
-  "ArtistBio": "American, 1922\u20132005", 
-  "CreditLine": "Purchased with funds given anonymously", 
+  "ArtistBio": "(American, 1922\u20132005)", 
+  "DateAcquired": "1986-12-18", 
+  "\ufeffTitle": "Reminiscence: Portrait with my Sister", 
   "ObjectID": "53297"
 }

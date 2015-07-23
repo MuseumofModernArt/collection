@@ -5,8 +5,7 @@
   "Artist": "Max Ernst", 
   "URL": "http://www.moma.org/collection/works/59666", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1988-01-19", 
+  "CreditLine": "Purchase", 
   "Date": "1952", 
   "ArtistID": 1752, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "5.1988", 
-  "ArtistBio": "French, born Germany. 1891\u20131976", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(French, born Germany. 1891\u20131976)", 
+  "DateAcquired": "1988-01-19", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "59666"
 }

@@ -5,8 +5,7 @@
   "Artist": "Irving Penn", 
   "URL": "http://www.moma.org/collection/works/55497", 
   "CuratorApproved": "Y", 
-  "Title": "Large Sleeve (Sunny Harnett), New York", 
-  "DateAcquired": "1990-12-13", 
+  "CreditLine": "Gift of the photographer", 
   "Date": "1951", 
   "ArtistID": 4548, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "599.1990", 
-  "ArtistBio": "American, 1917\u20132009", 
-  "CreditLine": "Gift of the photographer", 
+  "ArtistBio": "(American, 1917\u20132009)", 
+  "DateAcquired": "1990-12-13", 
+  "\ufeffTitle": "Large Sleeve (Sunny Harnett), New York", 
   "ObjectID": "55497"
 }

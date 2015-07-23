@@ -5,8 +5,7 @@
   "Artist": "Horst Janssen", 
   "URL": "http://www.moma.org/collection/works/33227", 
   "CuratorApproved": "Y", 
-  "Title": "Ami-Kiss", 
-  "DateAcquired": "1969-02-10", 
+  "CreditLine": "John S. Newberry Fund", 
   "Date": "1968", 
   "ArtistID": 2887, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "17.1969", 
-  "ArtistBio": "German, 1929\u20131995", 
-  "CreditLine": "John S. Newberry Fund", 
+  "ArtistBio": "(German, 1929\u20131995)", 
+  "DateAcquired": "1969-02-10", 
+  "\ufeffTitle": "Ami-Kiss", 
   "ObjectID": "33227"
 }

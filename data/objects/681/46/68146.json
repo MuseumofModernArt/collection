@@ -1,12 +1,11 @@
 {
   "Medium": "Serigraph", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "Albert Urban", 
   "URL": "http://www.moma.org/collection/works/68146", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1988-10-25", 
+  "CreditLine": "Gift of George R. Carley", 
   "Date": "1953", 
   "ArtistID": 6036, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "381.1988", 
-  "ArtistBio": "American, born Germany. 1909\u20131959", 
-  "CreditLine": "Gift of George R. Carley", 
+  "ArtistBio": "(American, born Germany. 1909\u20131959)", 
+  "DateAcquired": "1988-10-25", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "68146"
 }

@@ -1,12 +1,11 @@
 {
   "Medium": "Wood, canvas, paper, and Plexiglass assemblage, with screenprinting, oil painting, and photolithographic addition", 
-  "Dimensions": "Composition (open): 13 3/8 x 16 x 13 1/4\" (33.9 x 40.6 x 33.7 cm)  Plate (closed): 4 15/16 x 16 x 13 1/4\" (12.6 x 40.6 x 33.7 cm)", 
+  "Dimensions": "Composition (open): 13 3/8 x 16 x 13 1/4\" (33.9 x 40.6 x 33.7 cm)\r\nPlate (closed): 4 15/16 x 16 x 13 1/4\" (12.6 x 40.6 x 33.7 cm)", 
   "Classification": "Multiple", 
   "Artist": "Larry Rivers", 
   "URL": "http://www.moma.org/collection/works/67580", 
   "CuratorApproved": "Y", 
-  "Title": "Cigar Box", 
-  "DateAcquired": "1989-12-31", 
+  "CreditLine": "Gift of Jeanne C. Thayer", 
   "Date": "1967", 
   "ArtistID": 4945, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "355.1989", 
-  "ArtistBio": "American, 1923\u20132002", 
-  "CreditLine": "Gift of Jeanne C. Thayer", 
+  "ArtistBio": "(American, 1923\u20132002)", 
+  "DateAcquired": "1989-12-31", 
+  "\ufeffTitle": "Cigar Box", 
   "ObjectID": "67580"
 }

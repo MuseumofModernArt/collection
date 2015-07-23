@@ -1,12 +1,11 @@
 {
   "Medium": "Woodcut", 
-  "Dimensions": "irreg composition  12 9/16 x 10\" (32 x 25.4 cm)  sheet  22 1/8 x 17 1/2\" (56.2 x 44.5 cm)", 
+  "Dimensions": "irreg composition  12 9/16 x 10\" (32 x 25.4 cm)\r\nsheet  22 1/8 x 17 1/2\" (56.2 x 44.5 cm)", 
   "Classification": "Print", 
   "Artist": "Asger Jorn", 
   "URL": "http://www.moma.org/collection/works/63788", 
   "CuratorApproved": "Y", 
-  "Title": "Disarming Armor (L'armure d\u00e9sarmante) from the portfolio Studies and Surprises (Etudes et Surprises)", 
-  "DateAcquired": "1986-05-20", 
+  "CreditLine": "Gift of Pierre Alechinsky", 
   "Date": "(1971, published 1972)", 
   "ArtistID": 2943, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "179.1986", 
-  "ArtistBio": "Danish, 1914\u20131973", 
-  "CreditLine": "Gift of Pierre Alechinsky", 
+  "ArtistBio": "(Danish, 1914\u20131973)", 
+  "DateAcquired": "1986-05-20", 
+  "\ufeffTitle": "Disarming Armor (L'armure d\u00e9sarmante) from the portfolio Studies and Surprises (Etudes et Surprises)", 
   "ObjectID": "63788"
 }

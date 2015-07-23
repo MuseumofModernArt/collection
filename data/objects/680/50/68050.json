@@ -5,8 +5,7 @@
   "Artist": "Marie Laurencin", 
   "URL": "http://www.moma.org/collection/works/68050", 
   "CuratorApproved": "Y", 
-  "Title": "Dancer with Flowers", 
-  "DateAcquired": "1940-04-05", 
+  "CreditLine": "Gift of Abby Aldrich Rockefeller", 
   "Date": "1920", 
   "ArtistID": 3408, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "377.1940", 
-  "ArtistBio": "French, 1883\u20131956", 
-  "CreditLine": "Gift of Abby Aldrich Rockefeller", 
+  "ArtistBio": "(French, 1883\u20131956)", 
+  "DateAcquired": "1940-04-05", 
+  "\ufeffTitle": "Dancer with Flowers", 
   "ObjectID": "68050"
 }

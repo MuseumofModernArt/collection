@@ -5,8 +5,7 @@
   "Artist": "E. McKnight Kauffer", 
   "URL": "http://www.moma.org/collection/works/6880", 
   "CuratorApproved": "Y", 
-  "Title": "Westminster Abbey", 
-  "DateAcquired": "1939-05-22", 
+  "CreditLine": "Gift of the designer", 
   "Date": "1934", 
   "ArtistID": 3020, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "429.1939", 
-  "ArtistBio": "American, 1890\u20131954", 
-  "CreditLine": "Gift of the designer", 
+  "ArtistBio": "(American, 1890\u20131954)", 
+  "DateAcquired": "1939-05-22", 
+  "\ufeffTitle": "Westminster Abbey", 
   "ObjectID": "6880"
 }

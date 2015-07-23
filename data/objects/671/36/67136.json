@@ -1,12 +1,11 @@
 {
   "Medium": "Screenprint", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "Junichi Itahashi", 
   "URL": "http://www.moma.org/collection/works/67136", 
   "CuratorApproved": "Y", 
-  "Title": "Skaters, Where to", 
-  "DateAcquired": "1980-02-25", 
+  "CreditLine": "Gift of Dorothy Braude Edinburg", 
   "Date": "1976", 
   "ArtistID": 2841, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "334.1980", 
-  "ArtistBio": "Japanese, born 1942", 
-  "CreditLine": "Gift of Dorothy Braude Edinburg", 
+  "ArtistBio": "(Japanese, born 1942)", 
+  "DateAcquired": "1980-02-25", 
+  "\ufeffTitle": "Skaters, Where to", 
   "ObjectID": "67136"
 }

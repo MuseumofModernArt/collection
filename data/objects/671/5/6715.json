@@ -5,8 +5,7 @@
   "Artist": "Waldemar Swierzy", 
   "URL": "http://www.moma.org/collection/works/6715", 
   "CuratorApproved": "Y", 
-  "Title": "Budowniczy Solness", 
-  "DateAcquired": "1982-10-27", 
+  "CreditLine": "Gift of Peter Katz", 
   "Date": "1971", 
   "ArtistID": 5753, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "425.1982", 
-  "ArtistBio": "Polish, born 1931", 
-  "CreditLine": "Gift of Peter Katz", 
+  "ArtistBio": "(Polish, born 1931)", 
+  "DateAcquired": "1982-10-27", 
+  "\ufeffTitle": "Budowniczy Solness", 
   "ObjectID": "6715"
 }

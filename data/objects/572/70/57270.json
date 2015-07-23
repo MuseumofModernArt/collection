@@ -5,8 +5,7 @@
   "Artist": "Aaron Siskind", 
   "URL": "http://www.moma.org/collection/works/57270", 
   "CuratorApproved": "Y", 
-  "Title": "Chicago 6", 
-  "DateAcquired": "1965-11-09", 
+  "CreditLine": "Purchase", 
   "Date": "1961", 
   "ArtistID": 5456, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "890.1965", 
-  "ArtistBio": "American, 1903\u20131991", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, 1903\u20131991)", 
+  "DateAcquired": "1965-11-09", 
+  "\ufeffTitle": "Chicago 6", 
   "ObjectID": "57270"
 }

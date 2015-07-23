@@ -5,8 +5,7 @@
   "Artist": "Howardena Pindell", 
   "URL": "http://www.moma.org/collection/works/49868", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled (Video Drawing: Baseball Series)", 
-  "DateAcquired": "1976-06-09", 
+  "CreditLine": "Purchase", 
   "Date": "August, 1975", 
   "ArtistID": 4625, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "276.1976", 
-  "ArtistBio": "American, born 1943", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, born 1943)", 
+  "DateAcquired": "1976-06-09", 
+  "\ufeffTitle": "Untitled (Video Drawing: Baseball Series)", 
   "ObjectID": "49868"
 }

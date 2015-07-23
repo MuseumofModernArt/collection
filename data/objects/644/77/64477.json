@@ -5,8 +5,7 @@
   "Artist": "Antonio Segui", 
   "URL": "http://www.moma.org/collection/works/64477", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1965-04-06", 
+  "CreditLine": "Felipe Cossio del Pomar Fund", 
   "Date": "1964", 
   "ArtistID": 5319, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "211.1965", 
-  "ArtistBio": "Argentine, born 1934", 
-  "CreditLine": "Felipe Cossio del Pomar Fund", 
+  "ArtistBio": "(Argentine, born 1934)", 
+  "DateAcquired": "1965-04-06", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "64477"
 }

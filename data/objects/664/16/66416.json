@@ -5,8 +5,7 @@
   "Artist": "Max Beckmann", 
   "URL": "http://www.moma.org/collection/works/66416", 
   "CuratorApproved": "Y", 
-  "Title": "The Large Operation from Faces", 
-  "DateAcquired": "1951-05-24", 
+  "CreditLine": "Abby Aldrich Rockefeller Fund", 
   "Date": "(c. 1914, published 1919)", 
   "ArtistID": 429, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "300.1951", 
-  "ArtistBio": "German, 1884\u20131950", 
-  "CreditLine": "Abby Aldrich Rockefeller Fund", 
+  "ArtistBio": "(German, 1884\u20131950)", 
+  "DateAcquired": "1951-05-24", 
+  "\ufeffTitle": "The Large Operation (Grosse Operation) from Faces (Gesichter)", 
   "ObjectID": "66416"
 }

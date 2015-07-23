@@ -5,8 +5,7 @@
   "Artist": "Tod Papageorge", 
   "URL": "http://www.moma.org/collection/works/46048", 
   "CuratorApproved": "Y", 
-  "Title": "Parade's End, New York City", 
-  "DateAcquired": "1971-03-02", 
+  "CreditLine": "Purchase", 
   "Date": "March 17, 1966", 
   "ArtistID": 4490, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "90.1971", 
-  "ArtistBio": "American, born 1940", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, born 1940)", 
+  "DateAcquired": "1971-03-02", 
+  "\ufeffTitle": "Parade's End, New York City", 
   "ObjectID": "46048"
 }

@@ -5,8 +5,7 @@
   "Artist": "Thomas Eckersley", 
   "URL": "http://www.moma.org/collection/works/7278", 
   "CuratorApproved": "Y", 
-  "Title": "Time to Change to Winter Shell", 
-  "DateAcquired": "1983-05-17", 
+  "CreditLine": "Gift of The Lauder Foundation, Leonard and Evelyn Lauder Fund", 
   "Date": "1938", 
   "ArtistID": 1677, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "499.1983", 
-  "ArtistBio": "British, 1914\u20131997", 
-  "CreditLine": "Gift of The Lauder Foundation, Leonard and Evelyn Lauder Fund", 
+  "ArtistBio": "(British, 1914\u20131997)", 
+  "DateAcquired": "1983-05-17", 
+  "\ufeffTitle": "Time to Change to Winter Shell", 
   "ObjectID": "7278"
 }

@@ -5,8 +5,7 @@
   "Artist": "\u00c9douard Boubat", 
   "URL": "http://www.moma.org/collection/works/53251", 
   "CuratorApproved": "Y", 
-  "Title": "Winter", 
-  "DateAcquired": "1960-11-30", 
+  "CreditLine": "Gift of the photographer", 
   "Date": "1950", 
   "ArtistID": 698, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "428.1960", 
-  "ArtistBio": "French, 1923\u20131999", 
-  "CreditLine": "Gift of the photographer", 
+  "ArtistBio": "(French, 1923\u20131999)", 
+  "DateAcquired": "1960-11-30", 
+  "\ufeffTitle": "Winter", 
   "ObjectID": "53251"
 }

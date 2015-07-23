@@ -5,8 +5,7 @@
   "Artist": "Franciszek Starowieyski", 
   "URL": "http://www.moma.org/collection/works/6939", 
   "CuratorApproved": "Y", 
-  "Title": "Moli\u00e8re, Don Juan", 
-  "DateAcquired": "1985-11-18", 
+  "CreditLine": "Gift of the designer", 
   "Date": "1983", 
   "ArtistID": 5607, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "437.1985", 
-  "ArtistBio": "Polish, 1930\u20132009", 
-  "CreditLine": "Gift of the designer", 
+  "ArtistBio": "(Polish, 1930\u20132009)", 
+  "DateAcquired": "1985-11-18", 
+  "\ufeffTitle": "Moli\u00e8re, Don Juan", 
   "ObjectID": "6939"
 }

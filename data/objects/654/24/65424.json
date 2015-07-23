@@ -5,8 +5,7 @@
   "Artist": "Keith Haring", 
   "URL": "http://www.moma.org/collection/works/65424", 
   "CuratorApproved": "Y", 
-  "Title": "Totem", 
-  "DateAcquired": "1989-10-12", 
+  "CreditLine": "Gift of Edition Schellmann, Munich and New York", 
   "Date": "1989", 
   "ArtistID": 2505, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "259.1989.a-c", 
-  "ArtistBio": "American, 1958\u20131990", 
-  "CreditLine": "Gift of Edition Schellmann, Munich and New York", 
+  "ArtistBio": "(American, 1958\u20131990)", 
+  "DateAcquired": "1989-10-12", 
+  "\ufeffTitle": "Totem", 
   "ObjectID": "65424"
 }

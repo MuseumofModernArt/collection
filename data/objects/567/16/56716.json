@@ -5,8 +5,7 @@
   "Artist": "Robert Adams", 
   "URL": "http://www.moma.org/collection/works/56716", 
   "CuratorApproved": "Y", 
-  "Title": "Santa Ana Wash. San Bernardino County, California", 
-  "DateAcquired": "1996-12-10", 
+  "CreditLine": "Purchased in memory of Michael Harwig with funds contributed by his friends", 
   "Date": "1982", 
   "ArtistID": 66, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "844.1996", 
-  "ArtistBio": "American, born 1937", 
-  "CreditLine": "Purchased in memory of Michael Harwig with funds contributed by his friends", 
+  "ArtistBio": "(American, born 1937)", 
+  "DateAcquired": "1996-12-10", 
+  "\ufeffTitle": "Santa Ana Wash. San Bernardino County, California", 
   "ObjectID": "56716"
 }

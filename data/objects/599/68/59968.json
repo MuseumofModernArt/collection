@@ -5,8 +5,7 @@
   "Artist": "Max Beckmann", 
   "URL": "http://www.moma.org/collection/works/59968", 
   "CuratorApproved": "Y", 
-  "Title": "Group Portrait, Eden Bar", 
-  "DateAcquired": "1948-03-17", 
+  "CreditLine": "Abby Aldrich Rockefeller Fund", 
   "Date": "(1923)", 
   "ArtistID": 429, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "15.1948", 
-  "ArtistBio": "German, 1884\u20131950", 
-  "CreditLine": "Abby Aldrich Rockefeller Fund", 
+  "ArtistBio": "(German, 1884\u20131950)", 
+  "DateAcquired": "1948-03-17", 
+  "\ufeffTitle": "Group Portrait, Eden Bar (Gruppenbildnis Edenbar)", 
   "ObjectID": "59968"
 }

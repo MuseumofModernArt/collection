@@ -5,8 +5,7 @@
   "Artist": "Jan Groover", 
   "URL": "http://www.moma.org/collection/works/51304", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1994-06-09", 
+  "CreditLine": "Acquired through donations by friends in memory of Rose Kolmetz", 
   "Date": "1987-1989", 
   "ArtistID": 2358, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "342.1994.x1-x2", 
-  "ArtistBio": "American, 1943\u20132012", 
-  "CreditLine": "Acquired through donations by friends in memory of Rose Kolmetz", 
+  "ArtistBio": "(American, 1943\u20132012)", 
+  "DateAcquired": "1994-06-09", 
+  "\ufeffTitle": "Untitled, (panorama-Wave Hill)", 
   "ObjectID": "51304"
 }

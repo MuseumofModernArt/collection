@@ -5,8 +5,7 @@
   "Artist": "Arthur B. Davies", 
   "URL": "http://www.moma.org/collection/works/33373", 
   "CuratorApproved": "Y", 
-  "Title": "Nude", 
-  "DateAcquired": "1978-04-04", 
+  "CreditLine": "The Joan and Lester Avnet Collection", 
   "Date": "(c. 1920)", 
   "ArtistID": 1402, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "28.1978", 
-  "ArtistBio": "American, 1862\u20131928", 
-  "CreditLine": "The Joan and Lester Avnet Collection", 
+  "ArtistBio": "(American, 1862\u20131928)", 
+  "DateAcquired": "1978-04-04", 
+  "\ufeffTitle": "Nude", 
   "ObjectID": "33373"
 }

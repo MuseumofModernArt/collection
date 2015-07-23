@@ -5,8 +5,7 @@
   "Artist": "Kisho Kurokawa", 
   "URL": "http://www.moma.org/collection/works/621", 
   "CuratorApproved": "Y", 
-  "Title": "Helix City Project, Tokyo, Japan  Plan", 
-  "DateAcquired": "1992-10-21", 
+  "CreditLine": "Gift of the architect", 
   "Date": "1961", 
   "ArtistID": 6967, 
   "Keywords": [
@@ -21,7 +20,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "427.1992", 
-  "ArtistBio": "Japanese, 1934\u20132007", 
-  "CreditLine": "Gift of the architect", 
+  "ArtistBio": "(Japanese, 1934\u20132007)", 
+  "DateAcquired": "1992-10-21", 
+  "\ufeffTitle": "Helix City Project, Tokyo, Japan, Plan", 
   "ObjectID": "621"
 }

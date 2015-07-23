@@ -5,8 +5,7 @@
   "Artist": "Hugh O'Donnell", 
   "URL": "http://www.moma.org/collection/works/37326", 
   "CuratorApproved": "Y", 
-  "Title": "Body Echo 26", 
-  "DateAcquired": "1990-10-25", 
+  "CreditLine": "Gift of Sarina Tang", 
   "Date": "1990", 
   "ArtistID": 4355, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "555.1990", 
-  "ArtistBio": "British, born 1950", 
-  "CreditLine": "Gift of Sarina Tang", 
+  "ArtistBio": "(British, born 1950)", 
+  "DateAcquired": "1990-10-25", 
+  "\ufeffTitle": "Body Echo 26", 
   "ObjectID": "37326"
 }

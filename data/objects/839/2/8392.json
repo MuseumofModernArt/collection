@@ -5,8 +5,7 @@
   "Artist": "Ren\u00e9 Bleibtreu", 
   "URL": "http://www.moma.org/collection/works/8392", 
   "CuratorApproved": "Y", 
-  "Title": "Mouvement 2", 
-  "DateAcquired": "1965-11-09", 
+  "CreditLine": "Gift of Galerie Denise Ren\u00e9", 
   "Date": "1964", 
   "ArtistID": 599, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "930.1965", 
-  "ArtistBio": "French, born 1920", 
-  "CreditLine": "Gift of Galerie Denise Ren\u00e9", 
+  "ArtistBio": "(French, born 1920)", 
+  "DateAcquired": "1965-11-09", 
+  "\ufeffTitle": "Mouvement 2", 
   "ObjectID": "8392"
 }

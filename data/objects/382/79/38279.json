@@ -5,8 +5,7 @@
   "Artist": "Peter De Francia", 
   "URL": "http://www.moma.org/collection/works/38279", 
   "CuratorApproved": "Y", 
-  "Title": "The Disparates", 
-  "DateAcquired": "1979-10-04", 
+  "CreditLine": "Gift of Agnes Gund", 
   "Date": "1970", 
   "ArtistID": 1428, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "927.1979", 
-  "ArtistBio": "British, 1921\u20132012", 
-  "CreditLine": "Gift of Agnes Gund", 
+  "ArtistBio": "(British, 1921\u20132012)", 
+  "DateAcquired": "1979-10-04", 
+  "\ufeffTitle": "The Disparates", 
   "ObjectID": "38279"
 }

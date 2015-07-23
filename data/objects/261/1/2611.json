@@ -5,8 +5,7 @@
   "Artist": "Unknown Designer", 
   "URL": "http://www.moma.org/collection/works/2611", 
   "CuratorApproved": "Y", 
-  "Title": "Battery Jar", 
-  "DateAcquired": "1947-06-17", 
+  "CreditLine": "Purchase", 
   "Date": "Before 1946", 
   "ArtistID": 6011, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "200.1947", 
-  "ArtistBio": "Nationality unknown", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(Nationality unknown)", 
+  "DateAcquired": "1947-06-17", 
+  "\ufeffTitle": "Battery Jar", 
   "ObjectID": "2611"
 }

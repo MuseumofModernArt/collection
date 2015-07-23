@@ -5,8 +5,7 @@
   "Artist": "Fernand L\u00e9ger", 
   "URL": "http://www.moma.org/collection/works/63539", 
   "CuratorApproved": "Y", 
-  "Title": "Two Men", 
-  "DateAcquired": "1951-05-24", 
+  "CreditLine": "Gift of Edgar Kaufmann, Jr.", 
   "Date": "1920", 
   "ArtistID": 6624, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "171.1951", 
-  "ArtistBio": "French, 1881\u20131955", 
-  "CreditLine": "Gift of Edgar Kaufmann, Jr.", 
+  "ArtistBio": "(French, 1881\u20131955)", 
+  "DateAcquired": "1951-05-24", 
+  "\ufeffTitle": "Two Men", 
   "ObjectID": "63539"
 }

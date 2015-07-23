@@ -5,8 +5,7 @@
   "Artist": "Frank Lloyd Wright", 
   "URL": "http://www.moma.org/collection/works/282", 
   "CuratorApproved": "Y", 
-  "Title": "La Miniatura, Mrs. George Madison Millard House  Pasadena, California  Exterior perspective", 
-  "DateAcquired": "1981-04-30", 
+  "CreditLine": "Gift of Mr. and Mrs. Walter Hochschild", 
   "Date": "1923", 
   "ArtistID": 6459, 
   "Keywords": [
@@ -22,7 +21,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "240.1981", 
-  "ArtistBio": "American, 1867\u20131959", 
-  "CreditLine": "Gift of Mr. and Mrs. Walter Hochschild", 
+  "ArtistBio": "(American, 1867\u20131959)", 
+  "DateAcquired": "1981-04-30", 
+  "\ufeffTitle": "La Miniatura, Mrs. George Madison Millard House, Pasadena, California, Exterior perspective", 
   "ObjectID": "282"
 }

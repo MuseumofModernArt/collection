@@ -5,8 +5,7 @@
   "Artist": "Herv\u00e9 T\u00e9l\u00e9maque", 
   "URL": "http://www.moma.org/collection/works/60237", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled from the portfolio Homage to Picasso (Hommage \u00e0 Picasso)", 
-  "DateAcquired": "1987-01-15", 
+  "CreditLine": "Gift of Dorothy Miller (by exchange)", 
   "Date": "1972, published 1973", 
   "ArtistID": 5827, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "22.1987.42", 
-  "ArtistBio": "Haitian, born 1937", 
-  "CreditLine": "Gift of Dorothy Miller (by exchange)", 
+  "ArtistBio": "(Haitian, born 1937)", 
+  "DateAcquired": "1987-01-15", 
+  "\ufeffTitle": "Untitled from the portfolio Hommage \u00e0 Picasso", 
   "ObjectID": "60237"
 }

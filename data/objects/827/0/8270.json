@@ -5,8 +5,7 @@
   "Artist": "Herbert Bayer", 
   "URL": "http://www.moma.org/collection/works/8270", 
   "CuratorApproved": "Y", 
-  "Title": "Polio Research", 
-  "DateAcquired": "1979-05-30", 
+  "CreditLine": "Gift of the National Foundation for Infantile Paralysis", 
   "Date": "1949", 
   "ArtistID": 399, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "857.1979", 
-  "ArtistBio": "American, born Austria. 1900\u20131985", 
-  "CreditLine": "Gift of the National Foundation for Infantile Paralysis", 
+  "ArtistBio": "(American, born Austria. 1900\u20131985)", 
+  "DateAcquired": "1979-05-30", 
+  "\ufeffTitle": "Polio Research", 
   "ObjectID": "8270"
 }

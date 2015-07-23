@@ -1,12 +1,11 @@
 {
   "Medium": "Series of 5 photolithographs", 
-  "Dimensions": "each composition  11 3/4 x 9 3/8\" (29.9 x 23.9 cm)  each sheet  19 5/8 x 13 1/2\" (49 x 34.3 cm)", 
+  "Dimensions": "each composition  11 3/4 x 9 3/8\" (29.9 x 23.9 cm)\r\neach sheet  19 5/8 x 13 1/2\" (49 x 34.3 cm)", 
   "Classification": "Print", 
   "Artist": "Eberhard Havekost", 
   "URL": "http://www.moma.org/collection/works/62815", 
   "CuratorApproved": "Y", 
-  "Title": "Sympathie", 
-  "DateAcquired": "2000-03-02", 
+  "CreditLine": "Robert and Anna Marie Shapiro Fund", 
   "Date": "1999", 
   "ArtistID": 8192, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "140.2000.1-5", 
-  "ArtistBio": "German, born 1967", 
-  "CreditLine": "Robert and Anna Marie Shapiro Fund", 
+  "ArtistBio": "(German, born 1967)", 
+  "DateAcquired": "2000-03-02", 
+  "\ufeffTitle": "Sympathie", 
   "ObjectID": "62815"
 }

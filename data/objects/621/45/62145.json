@@ -5,8 +5,7 @@
   "Artist": "James Ensor", 
   "URL": "http://www.moma.org/collection/works/62145", 
   "CuratorApproved": "Y", 
-  "Title": "Self Portrait with Demons", 
-  "DateAcquired": "1944-06-08", 
+  "CreditLine": "Purchase", 
   "Date": "1898", 
   "ArtistID": 1739, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "119.1944", 
-  "ArtistBio": "Belgian, 1860\u20131949", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(Belgian, 1860\u20131949)", 
+  "DateAcquired": "1944-06-08", 
+  "\ufeffTitle": "Self Portrait with Demons", 
   "ObjectID": "62145"
 }

@@ -5,8 +5,7 @@
   "Artist": "Henri Matisse", 
   "URL": "http://www.moma.org/collection/works/34037", 
   "CuratorApproved": "Y", 
-  "Title": "The Plumed Hat", 
-  "DateAcquired": "1935-06-13", 
+  "CreditLine": "Gift of Abby Aldrich Rockefeller", 
   "Date": "(1919)", 
   "ArtistID": 3832, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "110.1935", 
-  "ArtistBio": "French, 1869\u20131954", 
-  "CreditLine": "Gift of Abby Aldrich Rockefeller", 
+  "ArtistBio": "(French, 1869\u20131954)", 
+  "DateAcquired": "1935-06-13", 
+  "\ufeffTitle": "The Plumed Hat", 
   "ObjectID": "34037"
 }

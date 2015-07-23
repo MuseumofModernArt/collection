@@ -1,12 +1,11 @@
 {
   "Medium": "Etching", 
-  "Dimensions": "plate  6 7/16 x 7 9/16\" (16.4 x 19.3 cm)  sl irreg sheet  9 3/16 x 12 11/16\" (23 x 32.2 cm)", 
+  "Dimensions": "plate  6 7/16 x 7 9/16\" (16.4 x 19.3 cm)\r\nsl irreg sheet  9 3/16 x 12 11/16\" (23 x 32.2 cm)", 
   "Classification": "Print", 
   "Artist": "Jean-Emile Laboureur", 
   "URL": "http://www.moma.org/collection/works/66955", 
   "CuratorApproved": "Y", 
-  "Title": "The Canadian Window (La fen\u00eatre canadienne)", 
-  "DateAcquired": "1986-10-15", 
+  "CreditLine": "Blanchette Hooker Rockefeller Fund", 
   "Date": "(1914)", 
   "ArtistID": 3329, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "324.1986", 
-  "ArtistBio": "French, 1887\u20131943", 
-  "CreditLine": "Blanchette Hooker Rockefeller Fund", 
+  "ArtistBio": "(French, 1887\u20131943)", 
+  "DateAcquired": "1986-10-15", 
+  "\ufeffTitle": "The Canadian Window (La fen\u00eatre canadienne)", 
   "ObjectID": "66955"
 }

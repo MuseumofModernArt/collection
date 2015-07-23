@@ -1,12 +1,11 @@
 {
   "Medium": "Colored, pressed paper pulp and lithograph, collaged", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "James Rosenquist", 
   "URL": "http://www.moma.org/collection/works/60122", 
   "CuratorApproved": "Y", 
-  "Title": "Space Dust from the series Welcome to the Water Planet", 
-  "DateAcquired": "1990-01-16", 
+  "CreditLine": "Gift of James Rosenquist and Tyler Graphics Ltd.", 
   "Date": "1989", 
   "ArtistID": 5021, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "20.1990", 
-  "ArtistBio": "American, born 1933", 
-  "CreditLine": "Gift of James Rosenquist and Tyler Graphics Ltd.", 
+  "ArtistBio": "(American, born 1933)", 
+  "DateAcquired": "1990-01-16", 
+  "\ufeffTitle": "Space Dust from the series Welcome to the Water Planet", 
   "ObjectID": "60122"
 }

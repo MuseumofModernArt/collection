@@ -5,8 +5,7 @@
   "Artist": "Hans Hartmann", 
   "URL": "http://www.moma.org/collection/works/8776", 
   "CuratorApproved": "Y", 
-  "Title": "Achte den Andern", 
-  "DateAcquired": "2000-12-11", 
+  "CreditLine": "Gift of the designer", 
   "Date": "1938-64", 
   "ArtistID": 8393, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "1478.2000", 
-  "ArtistBio": "Swiss, born 1913", 
-  "CreditLine": "Gift of the designer", 
+  "ArtistBio": "(Swiss, born 1913)", 
+  "DateAcquired": "2000-12-11", 
+  "\ufeffTitle": "Achte den Andern", 
   "ObjectID": "8776"
 }

@@ -5,8 +5,7 @@
   "Artist": "Otto Dix", 
   "URL": "http://www.moma.org/collection/works/65915", 
   "CuratorApproved": "Y", 
-  "Title": "Paul Westheim", 
-  "DateAcquired": "1964-04-14", 
+  "CreditLine": "Gertrud A. Mellon Fund", 
   "Date": "1923", 
   "ArtistID": 1559, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "280.1964", 
-  "ArtistBio": "German, 1891\u20131969", 
-  "CreditLine": "Gertrud A. Mellon Fund", 
+  "ArtistBio": "(German, 1891\u20131969)", 
+  "DateAcquired": "1964-04-14", 
+  "\ufeffTitle": "Paul Westheim", 
   "ObjectID": "65915"
 }

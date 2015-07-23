@@ -1,12 +1,11 @@
 {
   "Medium": "Lithograph", 
-  "Dimensions": "Sheet 11 7/8 x 15 7/8\" (29.9 x 40.2 cm)   Comp.  10 3/16 x 13 1/8\" (25.9 x 33.4 cm)", 
+  "Dimensions": "Sheet 11 7/8 x 15 7/8\" (29.9 x 40.2 cm) \r\nComp.  10 3/16 x 13 1/8\" (25.9 x 33.4 cm)", 
   "Classification": "Print", 
   "Artist": "Thomas Hart Benton", 
   "URL": "http://www.moma.org/collection/works/60548", 
   "CuratorApproved": "Y", 
-  "Title": "In the Ozarks", 
-  "DateAcquired": "1953-01-30", 
+  "CreditLine": "Purchase", 
   "Date": "1938", 
   "ArtistID": 483, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "34.1953", 
-  "ArtistBio": "American, 1889\u20131975", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, 1889\u20131975)", 
+  "DateAcquired": "1953-01-30", 
+  "\ufeffTitle": "In the Ozarks", 
   "ObjectID": "60548"
 }

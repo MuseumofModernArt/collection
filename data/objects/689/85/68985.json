@@ -1,12 +1,11 @@
 {
   "Medium": "Offset lithograph, etching, and drypoint with enamel additions", 
-  "Dimensions": "composition  41 1/2 x 29 5/16\" (105.4 x 74.4 cm)  sheet  41 1/2 x 29 5/16\" (105.4 x 74.4 cm)", 
+  "Dimensions": "composition  41 1/2 x 29 5/16\" (105.4 x 74.4 cm)\r\nsheet  41 1/2 x 29 5/16\" (105.4 x 74.4 cm)", 
   "Classification": "Print", 
   "Artist": "Jim Dine", 
   "URL": "http://www.moma.org/collection/works/68985", 
   "CuratorApproved": "Y", 
-  "Title": "Spray Painted Robe", 
-  "DateAcquired": "1977-11-10", 
+  "CreditLine": "Gift of the artist", 
   "Date": "1977", 
   "ArtistID": 1547, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "429.1977", 
-  "ArtistBio": "American, born 1935", 
-  "CreditLine": "Gift of the artist", 
+  "ArtistBio": "(American, born 1935)", 
+  "DateAcquired": "1977-11-10", 
+  "\ufeffTitle": "Spray Painted Robe", 
   "ObjectID": "68985"
 }

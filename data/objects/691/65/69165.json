@@ -5,8 +5,7 @@
   "Artist": "Claes Oldenburg", 
   "URL": "http://www.moma.org/collection/works/69165", 
   "CuratorApproved": "Y", 
-  "Title": "Store Poster", 
-  "DateAcquired": "1990-10-23", 
+  "CreditLine": "The Associates Fund", 
   "Date": "1961", 
   "ArtistID": 4397, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "440.1990", 
-  "ArtistBio": "American, born Sweden 1929", 
-  "CreditLine": "The Associates Fund", 
+  "ArtistBio": "(American, born Sweden 1929)", 
+  "DateAcquired": "1990-10-23", 
+  "\ufeffTitle": "Store Poster", 
   "ObjectID": "69165"
 }

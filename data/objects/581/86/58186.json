@@ -5,8 +5,7 @@
   "Artist": "Walker Evans", 
   "URL": "http://www.moma.org/collection/works/58186", 
   "CuratorApproved": "Y", 
-  "Title": "Main Street Block, Selma, Alabama", 
-  "DateAcquired": "1968-11-06", 
+  "CreditLine": "Gift of Willard Van Dyke", 
   "Date": "1936", 
   "ArtistID": 1777, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "1463.1968", 
-  "ArtistBio": "American, 1903\u20131975", 
-  "CreditLine": "Gift of Willard Van Dyke", 
+  "ArtistBio": "(American, 1903\u20131975)", 
+  "DateAcquired": "1968-11-06", 
+  "\ufeffTitle": "Main Street Block, Selma, Alabama", 
   "ObjectID": "58186"
 }

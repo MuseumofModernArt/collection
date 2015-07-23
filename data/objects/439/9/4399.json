@@ -5,8 +5,7 @@
   "Artist": "Gino Valle", 
   "URL": "http://www.moma.org/collection/works/4399", 
   "CuratorApproved": "Y", 
-  "Title": "Cifra 3 Clock", 
-  "DateAcquired": "1966-12-06", 
+  "CreditLine": "Gift of the manufacturer", 
   "Date": "1965", 
   "ArtistID": 6062, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "719.1966", 
-  "ArtistBio": "Italian, 1923\u20132003", 
-  "CreditLine": "Gift of the manufacturer", 
+  "ArtistBio": "(Italian, 1923\u20132003)", 
+  "DateAcquired": "1966-12-06", 
+  "\ufeffTitle": "Cifra 3 Clock", 
   "ObjectID": "4399"
 }

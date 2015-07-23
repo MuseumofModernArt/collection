@@ -1,12 +1,11 @@
 {
   "Medium": "Etching and aquatint", 
-  "Dimensions": "plate  5 1/8 x 10 3/8\" (13.1 x 26.4 cm)  sheet  29 11/16 x 22 1/4\" (75 x 56.5 cm)", 
+  "Dimensions": "plate  5 1/8 x 10 3/8\" (13.1 x 26.4 cm)\r\nsheet  29 11/16 x 22 1/4\" (75 x 56.5 cm)", 
   "Classification": "Print", 
   "Artist": "Robert Motherwell", 
   "URL": "http://www.moma.org/collection/works/59959", 
   "CuratorApproved": "Y", 
-  "Title": "To the Palette for A La Pintura", 
-  "DateAcquired": "1987-01-15", 
+  "CreditLine": "Blanchette Hooker Rockefeller Fund", 
   "Date": "(1969)", 
   "ArtistID": 4126, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "14.1987", 
-  "ArtistBio": "American, 1915\u20131991", 
-  "CreditLine": "Blanchette Hooker Rockefeller Fund", 
+  "ArtistBio": "(American, 1915\u20131991)", 
+  "DateAcquired": "1987-01-15", 
+  "\ufeffTitle": "To the Palette for A La Pintura", 
   "ObjectID": "59959"
 }

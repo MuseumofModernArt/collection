@@ -5,8 +5,7 @@
   "Artist": "Floyd Fitzpatrick", 
   "URL": "http://www.moma.org/collection/works/4631", 
   "CuratorApproved": "Y", 
-  "Title": "Artichoke Plate", 
-  "DateAcquired": "1968-10-07", 
+  "CreditLine": "Purchase", 
   "Date": "1967", 
   "ArtistID": 1902, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "1244.1968", 
-  "ArtistBio": "American", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American)", 
+  "DateAcquired": "1968-10-07", 
+  "\ufeffTitle": "Artichoke Plate", 
   "ObjectID": "4631"
 }

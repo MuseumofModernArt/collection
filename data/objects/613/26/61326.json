@@ -5,8 +5,7 @@
   "Artist": "Louise Bourgeois", 
   "URL": "http://www.moma.org/collection/works/61326", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled, plate 7 of 14, state II of II, from the portfolio, Autobiographical Series", 
-  "DateAcquired": "1997-03-06", 
+  "CreditLine": "Gift of the artist", 
   "Date": "1994", 
   "ArtistID": 710, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "74.1997.7", 
-  "ArtistBio": "American, born France. 1911\u20132010", 
-  "CreditLine": "Gift of the artist", 
+  "ArtistBio": "(American, born France. 1911\u20132010)", 
+  "DateAcquired": "1997-03-06", 
+  "\ufeffTitle": "Untitled, plate 7 of 14, from the portfolio, Autobiographical Series", 
   "ObjectID": "61326"
 }

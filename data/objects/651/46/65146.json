@@ -5,8 +5,7 @@
   "Artist": "Julian Schnabel", 
   "URL": "http://www.moma.org/collection/works/65146", 
   "CuratorApproved": "Y", 
-  "Title": "Brenda", 
-  "DateAcquired": "1984-10-02", 
+  "CreditLine": "Gift of The Associates Fund", 
   "Date": "1984", 
   "ArtistID": 5245, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "246.1984", 
-  "ArtistBio": "American, born 1951", 
-  "CreditLine": "Gift of The Associates Fund", 
+  "ArtistBio": "(American, born 1951)", 
+  "DateAcquired": "1984-10-02", 
+  "\ufeffTitle": "Brenda", 
   "ObjectID": "65146"
 }

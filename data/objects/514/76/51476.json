@@ -5,8 +5,7 @@
   "Artist": "Jacob August Riis", 
   "URL": "http://www.moma.org/collection/works/51476", 
   "CuratorApproved": "Y", 
-  "Title": "In a Dive", 
-  "DateAcquired": "1964-04-14", 
+  "CreditLine": "Gift of the Museum of the City of New York", 
   "Date": "1895", 
   "ArtistID": 4928, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "350.1964", 
-  "ArtistBio": "American, born Denmark. 1849\u20131914", 
-  "CreditLine": "Gift of the Museum of the City of New York", 
+  "ArtistBio": "(American, born Denmark. 1849\u20131914)", 
+  "DateAcquired": "1964-04-14", 
+  "\ufeffTitle": "In a Dive", 
   "ObjectID": "51476"
 }

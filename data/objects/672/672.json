@@ -5,8 +5,7 @@
   "Artist": "Emilio Ambasz", 
   "URL": "http://www.moma.org/collection/works/672", 
   "CuratorApproved": "Y", 
-  "Title": "Center for Applied Computer Research  Las Promesas, Mexico  Axonometric", 
-  "DateAcquired": "1990-10-24", 
+  "CreditLine": "Gift of the architect", 
   "Date": "1975", 
   "ArtistID": 141, 
   "Keywords": [
@@ -20,7 +19,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "478.1990", 
-  "ArtistBio": "Argentine, born 1943", 
-  "CreditLine": "Gift of the architect", 
+  "ArtistBio": "(Argentine, born 1943)", 
+  "DateAcquired": "1990-10-24", 
+  "\ufeffTitle": "Center for Applied Computer Research, Las Promesas, Mexico, Axonometric", 
   "ObjectID": "672"
 }

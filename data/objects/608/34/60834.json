@@ -5,8 +5,7 @@
   "Artist": "Claes Oldenburg", 
   "URL": "http://www.moma.org/collection/works/60834", 
   "CuratorApproved": "Y", 
-  "Title": "Smoke and Reflections", 
-  "DateAcquired": "1977-02-10", 
+  "CreditLine": "Purchase", 
   "Date": "1975", 
   "ArtistID": 4397, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "45.1977", 
-  "ArtistBio": "American, born Sweden 1929", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, born Sweden 1929)", 
+  "DateAcquired": "1977-02-10", 
+  "\ufeffTitle": "Smoke and Reflections", 
   "ObjectID": "60834"
 }

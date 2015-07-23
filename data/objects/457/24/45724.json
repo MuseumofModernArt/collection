@@ -5,8 +5,7 @@
   "Artist": "Dan Weiner", 
   "URL": "http://www.moma.org/collection/works/45724", 
   "CuratorApproved": "Y", 
-  "Title": "Martin Luther King", 
-  "DateAcquired": "1994-01-13", 
+  "CreditLine": "Horace W. Goldsmith Fund through Robert B. Menschel", 
   "Date": "1956", 
   "ArtistID": 6287, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "75.1994", 
-  "ArtistBio": "American, 1919\u20131959", 
-  "CreditLine": "Horace W. Goldsmith Fund through Robert B. Menschel", 
+  "ArtistBio": "(American, 1919\u20131959)", 
+  "DateAcquired": "1994-01-13", 
+  "\ufeffTitle": "Martin Luther King", 
   "ObjectID": "45724"
 }

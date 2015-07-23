@@ -1,12 +1,11 @@
 {
-  "Medium": "Transfer lithograph  ", 
+  "Medium": "Transfer lithograph\r\n", 
   "Dimensions": "composition (irreg.): 12 1/16 x 8 11/16\" (30.6 x 22.1 cm); page: 12 5/8 x 9 13/16\" (32 x 25 cm)", 
   "Classification": "Illustrated Book", 
   "Artist": "Pablo Picasso", 
   "URL": "http://www.moma.org/collection/works/29719", 
   "CuratorApproved": "Y", 
-  "Title": "Duplicate of plate from folio 18 (supplementary suite) from \u00c9l\u00e9gie d'Ihp\u00e9tonga", 
-  "DateAcquired": "1964-10-06", 
+  "CreditLine": "The Louis E. Stern Collection", 
   "Date": "1949", 
   "ArtistID": 4609, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "991.1964.7", 
-  "ArtistBio": "Spanish, 1881\u20131973", 
-  "CreditLine": "The Louis E. Stern Collection", 
+  "ArtistBio": "(Spanish, 1881\u20131973)", 
+  "DateAcquired": "1964-10-06", 
+  "\ufeffTitle": "Duplicate of plate from folio 18 (supplementary suite) from \u00c9l\u00e9gie d'Ihp\u00e9tonga", 
   "ObjectID": "29719"
 }

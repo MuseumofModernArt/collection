@@ -5,8 +5,7 @@
   "Artist": "Roy Lichtenstein", 
   "URL": "http://www.moma.org/collection/works/59900", 
   "CuratorApproved": "Y", 
-  "Title": "Two Paintings: Dagwood from the \"Painting\" Series", 
-  "DateAcquired": "1987-01-15", 
+  "CreditLine": "John B. Turner Fund", 
   "Date": "1984", 
   "ArtistID": 3542, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "12.1987", 
-  "ArtistBio": "American, 1923\u20131997", 
-  "CreditLine": "John B. Turner Fund", 
+  "ArtistBio": "(American, 1923\u20131997)", 
+  "DateAcquired": "1987-01-15", 
+  "\ufeffTitle": "Two Paintings: Dagwood from the \"Painting\" Series", 
   "ObjectID": "59900"
 }

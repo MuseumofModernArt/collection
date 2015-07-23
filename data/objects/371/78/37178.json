@@ -1,12 +1,11 @@
 {
   "Medium": "Pencil and crayon on hotel stationery in artist's frame", 
-  "Dimensions": "Sheet: 11 1/2 x 8 3/8\" (29.2 x 21.2 cm)  Frame: 17 1/2 x 13 3/4\" (44.5 x 34.9 cm)", 
+  "Dimensions": "Sheet: 11 1/2 x 8 3/8\" (29.2 x 21.2 cm)\r\nFrame: 17 1/2 x 13 3/4\" (44.5 x 34.9 cm)", 
   "Classification": "Drawing", 
   "Artist": "Martin Kippenberger", 
   "URL": "http://www.moma.org/collection/works/37178", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1992-11-05", 
+  "CreditLine": "Gift of R.L.B. Tobin", 
   "Date": "1992", 
   "ArtistID": 3111, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "496.1992.9", 
-  "ArtistBio": "German, 1953\u20131997", 
-  "CreditLine": "Gift of R.L.B. Tobin", 
+  "ArtistBio": "(German, 1953\u20131997)", 
+  "DateAcquired": "1992-11-05", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "37178"
 }

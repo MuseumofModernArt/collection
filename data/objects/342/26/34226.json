@@ -5,8 +5,7 @@
   "Artist": "Lyonel Feininger", 
   "URL": "http://www.moma.org/collection/works/34226", 
   "CuratorApproved": "Y", 
-  "Title": "The Miller and His Child", 
-  "DateAcquired": "1966-02-08", 
+  "CreditLine": "Gift of Julia Feininger", 
   "Date": "1907", 
   "ArtistID": 1832, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "123.1966", 
-  "ArtistBio": "American, 1871\u20131956", 
-  "CreditLine": "Gift of Julia Feininger", 
+  "ArtistBio": "(American, 1871\u20131956)", 
+  "DateAcquired": "1966-02-08", 
+  "\ufeffTitle": "The Miller and His Child (Der M\u00fcller und sein Kind)", 
   "ObjectID": "34226"
 }

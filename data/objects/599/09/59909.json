@@ -5,8 +5,7 @@
   "Artist": "Henri Laurens", 
   "URL": "http://www.moma.org/collection/works/59909", 
   "CuratorApproved": "Y", 
-  "Title": "Valencia", 
-  "DateAcquired": "1947-03-13", 
+  "CreditLine": "Gift of Curt Valentin", 
   "Date": "1927", 
   "ArtistID": 3409, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "13.1947", 
-  "ArtistBio": "French, 1885\u20131954", 
-  "CreditLine": "Gift of Curt Valentin", 
+  "ArtistBio": "(French, 1885\u20131954)", 
+  "DateAcquired": "1947-03-13", 
+  "\ufeffTitle": "Valencia", 
   "ObjectID": "59909"
 }

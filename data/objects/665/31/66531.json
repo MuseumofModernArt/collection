@@ -5,8 +5,7 @@
   "Artist": "George Grosz", 
   "URL": "http://www.moma.org/collection/works/66531", 
   "CuratorApproved": "Y", 
-  "Title": "Interregnum", 
-  "DateAcquired": "1938-10-20", 
+  "CreditLine": "Gift of Miss Caresse Crosby", 
   "Date": "(1936)", 
   "ArtistID": 2374, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "306.1938.1-6", 
-  "ArtistBio": "American, born Germany. 1893\u20131959", 
-  "CreditLine": "Gift of Miss Caresse Crosby", 
+  "ArtistBio": "(American, born Germany. 1893\u20131959)", 
+  "DateAcquired": "1938-10-20", 
+  "\ufeffTitle": "Interregnum", 
   "ObjectID": "66531"
 }

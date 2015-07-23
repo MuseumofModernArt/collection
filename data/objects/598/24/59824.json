@@ -1,12 +1,11 @@
 {
   "Medium": "One from a portfolio of ten drypoints", 
-  "Dimensions": "composition and sheet (irreg.): 15 7/16 x 22 15/16\" (39.2 x 58.3 cm)  ", 
+  "Dimensions": "composition and sheet (irreg.): 15 7/16 x 22 15/16\" (39.2 x 58.3 cm)\r\n", 
   "Classification": "Print", 
   "Artist": "Carroll Dunham", 
   "URL": "http://www.moma.org/collection/works/59824", 
   "CuratorApproved": "Y", 
-  "Title": "#8 from Shadows", 
-  "DateAcquired": "1990-01-16", 
+  "CreditLine": "Gift of Emily Fisher Landau", 
   "Date": "1989", 
   "ArtistID": 1652, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "10.1990.8", 
-  "ArtistBio": "American, born 1949", 
-  "CreditLine": "Gift of Emily Fisher Landau", 
+  "ArtistBio": "(American, born 1949)", 
+  "DateAcquired": "1990-01-16", 
+  "\ufeffTitle": "Untitled from Shadows", 
   "ObjectID": "59824"
 }

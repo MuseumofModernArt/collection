@@ -5,8 +5,7 @@
   "Artist": "Max Ernst", 
   "URL": "http://www.moma.org/collection/works/33629", 
   "CuratorApproved": "Y", 
-  "Title": "Hypertrophic Trophy", 
-  "DateAcquired": "1936-12-17", 
+  "CreditLine": "Gift of Tristan Tzara", 
   "Date": "(1920)", 
   "ArtistID": 1752, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "72.1936", 
-  "ArtistBio": "French, born Germany. 1891\u20131976", 
-  "CreditLine": "Gift of Tristan Tzara", 
+  "ArtistBio": "(French, born Germany. 1891\u20131976)", 
+  "DateAcquired": "1936-12-17", 
+  "\ufeffTitle": "Hypertrophic Trophy", 
   "ObjectID": "33629"
 }

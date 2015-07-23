@@ -1,12 +1,11 @@
 {
   "Medium": "Illustrated book with 26 screenprints", 
-  "Dimensions": "page  12 9/16 x 9 5/8\" (32 x 24.5 cm)  Prints: various dimensions.", 
+  "Dimensions": "page  12 9/16 x 9 5/8\" (32 x 24.5 cm)\r\nPrints: various dimensions.", 
   "Classification": "Illustrated Book", 
   "Artist": "Jean Dubuffet", 
   "URL": "http://www.moma.org/collection/works/17038", 
   "CuratorApproved": "Y", 
-  "Title": "...le flux m\u00eame...", 
-  "DateAcquired": "1987-10-20", 
+  "CreditLine": "Abby Aldrich Rockefeller Fund", 
   "Date": "1976.  (Reproduced drawings executed 1974).", 
   "ArtistID": 1633, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "426.1987.1-26", 
-  "ArtistBio": "French, 1901\u20131985", 
-  "CreditLine": "Abby Aldrich Rockefeller Fund", 
+  "ArtistBio": "(French, 1901\u20131985)", 
+  "DateAcquired": "1987-10-20", 
+  "\ufeffTitle": "...le flux m\u00eame...", 
   "ObjectID": "17038"
 }

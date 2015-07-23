@@ -5,8 +5,7 @@
   "Artist": "Clarence H. White", 
   "URL": "http://www.moma.org/collection/works/53409", 
   "CuratorApproved": "Y", 
-  "Title": "Blindman's Buff", 
-  "DateAcquired": "1942-12-29", 
+  "CreditLine": "Purchase", 
   "Date": "1898", 
   "ArtistID": 6338, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "440.1942", 
-  "ArtistBio": "American, 1871\u20131925", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, 1871\u20131925)", 
+  "DateAcquired": "1942-12-29", 
+  "\ufeffTitle": "Blindman's Buff", 
   "ObjectID": "53409"
 }

@@ -5,8 +5,7 @@
   "Artist": "Ren\u00e9 Bertholo", 
   "URL": "http://www.moma.org/collection/works/37503", 
   "CuratorApproved": "Y", 
-  "Title": "They Were Expelled", 
-  "DateAcquired": "1963-12-10", 
+  "CreditLine": "Gift of John S. Newberry", 
   "Date": "1961", 
   "ArtistID": 527, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "597.1963", 
-  "ArtistBio": "Portuguese, 1935\u20132005", 
-  "CreditLine": "Gift of John S. Newberry", 
+  "ArtistBio": "(Portuguese, 1935\u20132005)", 
+  "DateAcquired": "1963-12-10", 
+  "\ufeffTitle": "They Were Expelled", 
   "ObjectID": "37503"
 }

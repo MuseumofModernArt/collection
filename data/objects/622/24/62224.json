@@ -5,8 +5,7 @@
   "Artist": "Alfred Manessier", 
   "URL": "http://www.moma.org/collection/works/62224", 
   "CuratorApproved": "Y", 
-  "Title": "Litanies", 
-  "DateAcquired": "1954-04-06", 
+  "CreditLine": "Larry Aldrich Fund", 
   "Date": "(1952)", 
   "ArtistID": 3720, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "122.1954", 
-  "ArtistBio": "French, 1911\u20131993", 
-  "CreditLine": "Larry Aldrich Fund", 
+  "ArtistBio": "(French, 1911\u20131993)", 
+  "DateAcquired": "1954-04-06", 
+  "\ufeffTitle": "Litanies", 
   "ObjectID": "62224"
 }

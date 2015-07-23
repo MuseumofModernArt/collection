@@ -5,8 +5,7 @@
   "Artist": "Unknown photographer", 
   "URL": "http://www.moma.org/collection/works/45370", 
   "CuratorApproved": "Y", 
-  "Title": "X-Ray", 
-  "DateAcquired": "1989-03-09", 
+  "CreditLine": "Gift of Paul F. Walter", 
   "Date": "1917", 
   "ArtistID": 6028, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "64.1989", 
-  "ArtistBio": "NULL", 
-  "CreditLine": "Gift of Paul F. Walter", 
+  "ArtistBio": "", 
+  "DateAcquired": "1989-03-09", 
+  "\ufeffTitle": "X-Ray", 
   "ObjectID": "45370"
 }

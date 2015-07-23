@@ -5,8 +5,7 @@
   "Artist": "Achilles Droungas", 
   "URL": "http://www.moma.org/collection/works/61852", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1970-03-05", 
+  "CreditLine": "General Drawings and Prints Fund", 
   "Date": "1966", 
   "ArtistID": 1623, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "104.1970", 
-  "ArtistBio": "Greek, born 1940", 
-  "CreditLine": "General Drawings and Prints Fund", 
+  "ArtistBio": "(Greek, born 1940)", 
+  "DateAcquired": "1970-03-05", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "61852"
 }

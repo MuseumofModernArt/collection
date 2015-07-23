@@ -5,8 +5,7 @@
   "Artist": "Alfred Stieglitz", 
   "URL": "http://www.moma.org/collection/works/46352", 
   "CuratorApproved": "Y", 
-  "Title": "Georgia O'Keeffe - Hand and Wheel", 
-  "DateAcquired": "1984-03-15", 
+  "CreditLine": "Alfred Stieglitz Collection. Gift of Georgia O'Keeffe", 
   "Date": "1933", 
   "ArtistID": 5664, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "106.1984", 
-  "ArtistBio": "American, 1864\u20131946", 
-  "CreditLine": "Alfred Stieglitz Collection. Gift of Georgia O'Keeffe", 
+  "ArtistBio": "(American, 1864\u20131946)", 
+  "DateAcquired": "1984-03-15", 
+  "\ufeffTitle": "Georgia O'Keeffe - Hand and Wheel", 
   "ObjectID": "46352"
 }

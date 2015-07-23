@@ -5,8 +5,7 @@
   "Artist": "Kilian Breier", 
   "URL": "http://www.moma.org/collection/works/5457", 
   "CuratorApproved": "Y", 
-  "Title": "Subjektive Fotografie", 
-  "DateAcquired": "1955-06-16", 
+  "CreditLine": "Given anonymously", 
   "Date": "1954", 
   "ArtistID": 8366, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "169.1955", 
-  "ArtistBio": "German, born 1931", 
-  "CreditLine": "Given anonymously", 
+  "ArtistBio": "(German, born 1931)", 
+  "DateAcquired": "1955-06-16", 
+  "\ufeffTitle": "Subjektive Fotografie", 
   "ObjectID": "5457"
 }

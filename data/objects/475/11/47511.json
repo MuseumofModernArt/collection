@@ -5,8 +5,7 @@
   "Artist": "William Christenberry", 
   "URL": "http://www.moma.org/collection/works/47511", 
   "CuratorApproved": "Y", 
-  "Title": "Church, Havana Alabama", 
-  "DateAcquired": "1975-05-14", 
+  "CreditLine": "David H. McAlpin Fund", 
   "Date": "1964", 
   "ArtistID": 1112, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "178.1975", 
-  "ArtistBio": "American, born 1936", 
-  "CreditLine": "David H. McAlpin Fund", 
+  "ArtistBio": "(American, born 1936)", 
+  "DateAcquired": "1975-05-14", 
+  "\ufeffTitle": "Church, Havana Alabama", 
   "ObjectID": "47511"
 }

@@ -5,8 +5,7 @@
   "Artist": "Armin Hofmann", 
   "URL": "http://www.moma.org/collection/works/6795", 
   "CuratorApproved": "Y", 
-  "Title": "Ren\u00e9 Auberjonois, Ernest Bolens, Kunsthalle Basel", 
-  "DateAcquired": "1963-06-12", 
+  "CreditLine": "Gift of the artist", 
   "Date": "1961", 
   "ArtistID": 2697, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "385.1963", 
-  "ArtistBio": "Swiss, born 1920", 
-  "CreditLine": "Gift of the artist", 
+  "ArtistBio": "(Swiss, born 1920)", 
+  "DateAcquired": "1963-06-12", 
+  "\ufeffTitle": "Ren\u00e9 Auberjonois, Ernest Bolens, Kunsthalle Basel", 
   "ObjectID": "6795"
 }

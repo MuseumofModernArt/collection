@@ -5,8 +5,7 @@
   "Artist": "Ernst Ludwig Kirchner", 
   "URL": "http://www.moma.org/collection/works/61454", 
   "CuratorApproved": "Y", 
-  "Title": "Goatherd", 
-  "DateAcquired": "1955-04-06", 
+  "CreditLine": "Purchase", 
   "Date": "(1918)", 
   "ArtistID": 3115, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "77.1955", 
-  "ArtistBio": "German, 1880\u20131938", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(German, 1880\u20131938)", 
+  "DateAcquired": "1955-04-06", 
+  "\ufeffTitle": "Goatherd (Ziegenhirt)", 
   "ObjectID": "61454"
 }

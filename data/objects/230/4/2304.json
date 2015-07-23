@@ -5,8 +5,7 @@
   "Artist": "Almo, New York", 
   "URL": "http://www.moma.org/collection/works/2304", 
   "CuratorApproved": "Y", 
-  "Title": "Ice Tub", 
-  "DateAcquired": "1947-06-17", 
+  "CreditLine": "Purchase", 
   "Date": "Before 1947", 
   "Keywords": [
     "online art collection", 
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "158.1947", 
-  "ArtistBio": "NULL", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "", 
+  "DateAcquired": "1947-06-17", 
+  "\ufeffTitle": "Ice Tub", 
   "ObjectID": "2304"
 }

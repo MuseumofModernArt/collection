@@ -5,8 +5,7 @@
   "Artist": "Unknown Artist", 
   "URL": "http://www.moma.org/collection/works/6154", 
   "CuratorApproved": "Y", 
-  "Title": "Russian Poster Dealing with the Five-Year Plan", 
-  "DateAcquired": "1943-05-12", 
+  "CreditLine": "Gift of Miss Jessie Rosenfeld", 
   "Date": "c.1941", 
   "ArtistID": 6026, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "302.1943", 
-  "ArtistBio": "Nationality Unknown", 
-  "CreditLine": "Gift of Miss Jessie Rosenfeld", 
+  "ArtistBio": "(Nationality Unknown)", 
+  "DateAcquired": "1943-05-12", 
+  "\ufeffTitle": "Russian Poster Dealing with the Five-Year Plan", 
   "ObjectID": "6154"
 }

@@ -5,8 +5,7 @@
   "Artist": "Kyo Ikebe", 
   "URL": "http://www.moma.org/collection/works/68672", 
   "CuratorApproved": "Y", 
-  "Title": "Elementary Domain (Elementary Particles)", 
-  "DateAcquired": "1978-05-22", 
+  "CreditLine": "Gift of the artist", 
   "Date": "(1975)", 
   "ArtistID": 2799, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "413.1978", 
-  "ArtistBio": "Japanese", 
-  "CreditLine": "Gift of the artist", 
+  "ArtistBio": "(Japanese)", 
+  "DateAcquired": "1978-05-22", 
+  "\ufeffTitle": "Elementary Domain (Elementary Particles)", 
   "ObjectID": "68672"
 }

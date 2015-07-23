@@ -5,8 +5,7 @@
   "Artist": "The New York Times Studio", 
   "URL": "http://www.moma.org/collection/works/58659", 
   "CuratorApproved": "Y", 
-  "Title": "The Tangle of Steel that Will be the World's Largest Sound Picture Theatre", 
-  "DateAcquired": "2001-06-14", 
+  "CreditLine": "The New York Times Collection", 
   "Date": "1932", 
   "ArtistID": 8591, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "2066.2001", 
-  "ArtistBio": "NULL", 
-  "CreditLine": "The New York Times Collection", 
+  "ArtistBio": "", 
+  "DateAcquired": "2001-06-14", 
+  "\ufeffTitle": "\"The Tangle of Steel that Will be the World's Largest Sound Picture Theatre\"", 
   "ObjectID": "58659"
 }

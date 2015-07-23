@@ -5,8 +5,7 @@
   "Artist": "Cindy Sherman", 
   "URL": "http://www.moma.org/collection/works/49125", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled #123", 
-  "DateAcquired": "1989-10-12", 
+  "CreditLine": "Gift of Barbara and Eugene M. Schwartz", 
   "Date": "1983", 
   "ArtistID": 5392, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "226.1989.x1-x3", 
-  "ArtistBio": "American, born 1954", 
-  "CreditLine": "Gift of Barbara and Eugene M. Schwartz", 
+  "ArtistBio": "(American, born 1954)", 
+  "DateAcquired": "1989-10-12", 
+  "\ufeffTitle": "Untitled #123", 
   "ObjectID": "49125"
 }

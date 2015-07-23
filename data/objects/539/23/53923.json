@@ -5,8 +5,7 @@
   "Artist": "Garry Winogrand", 
   "URL": "http://www.moma.org/collection/works/53923", 
   "CuratorApproved": "Y", 
-  "Title": "El Morocco", 
-  "DateAcquired": "1998-06-11", 
+  "CreditLine": "Purchase and gift of Barbara Schwartz in memory of Eugene M. Schwartz", 
   "Date": "1955", 
   "ArtistID": 6399, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "468.1998", 
-  "ArtistBio": "American, 1928\u20131984", 
-  "CreditLine": "Purchase and gift of Barbara Schwartz in memory of Eugene M. Schwartz", 
+  "ArtistBio": "(American, 1928\u20131984)", 
+  "DateAcquired": "1998-06-11", 
+  "\ufeffTitle": "El Morocco", 
   "ObjectID": "53923"
 }

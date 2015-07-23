@@ -1,12 +1,11 @@
 {
   "Medium": "Fabric, rubber, wood, and painted Nextel finish", 
-  "Dimensions": "h: 19 7/8\" (50.5 cm)  diam. of base: 9 3/4\" (24.8 cm)", 
+  "Dimensions": "h: 19 7/8\" (50.5 cm)\r\ndiam. of base: 9 3/4\" (24.8 cm)", 
   "Classification": "A&D Design", 
   "Artist": "Hiroaki Kozu", 
   "URL": "http://www.moma.org/collection/works/2354", 
   "CuratorApproved": "Y", 
-  "Title": "Speakers (model YST-SD90)", 
-  "DateAcquired": "1991-06-04", 
+  "CreditLine": "Gift of the manufacturer", 
   "Date": "1989", 
   "ArtistID": 6942, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "167.1991.1-2", 
-  "ArtistBio": "Japanese, born 1959", 
-  "CreditLine": "Gift of the manufacturer", 
+  "ArtistBio": "(Japanese, born 1959)", 
+  "DateAcquired": "1991-06-04", 
+  "\ufeffTitle": "Speakers (model YST-SD90)", 
   "ObjectID": "2354"
 }

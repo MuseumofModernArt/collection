@@ -1,12 +1,11 @@
 {
   "Medium": "Screenprint", 
-  "Dimensions": "irreg composition  14 11/16 x 21 7/8\" (37.3 x 55.6 cm)  sheet  21 15/16 x 30\" (55.8 x 76.3 cm)", 
+  "Dimensions": "irreg composition  14 11/16 x 21 7/8\" (37.3 x 55.6 cm)\r\nsheet  21 15/16 x 30\" (55.8 x 76.3 cm)", 
   "Classification": "Print", 
   "Artist": "Robert Goodnough", 
   "URL": "http://www.moma.org/collection/works/64956", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1982-10-26", 
+  "CreditLine": "Ruth Vollmer Bequest", 
   "Date": "1968", 
   "ArtistID": 2242, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "237.1982", 
-  "ArtistBio": "American, 1917\u20132010", 
-  "CreditLine": "Ruth Vollmer Bequest", 
+  "ArtistBio": "(American, 1917\u20132010)", 
+  "DateAcquired": "1982-10-26", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "64956"
 }

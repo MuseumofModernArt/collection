@@ -5,8 +5,7 @@
   "Artist": "Richard Sapper", 
   "URL": "http://www.moma.org/collection/works/2599", 
   "CuratorApproved": "Y", 
-  "Title": "Tizio Table Lamp", 
-  "DateAcquired": "1973-05-08", 
+  "CreditLine": "Gift of the manufacturer", 
   "Date": "1971", 
   "ArtistID": 5162, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "198.1973", 
-  "ArtistBio": "German, born 1932", 
-  "CreditLine": "Gift of the manufacturer", 
+  "ArtistBio": "(German, born 1932)", 
+  "DateAcquired": "1973-05-08", 
+  "\ufeffTitle": "Tizio Table Lamp", 
   "ObjectID": "2599"
 }

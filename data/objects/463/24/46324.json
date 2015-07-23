@@ -5,8 +5,7 @@
   "Artist": "William Henry Fox Talbot", 
   "URL": "http://www.moma.org/collection/works/46324", 
   "CuratorApproved": "Y", 
-  "Title": "The Fruit Sellers", 
-  "DateAcquired": "1992-01-09", 
+  "CreditLine": "Gift of Anne Ehrenkranz in honor of John Szarkowski", 
   "Date": "1842", 
   "ArtistID": 5791, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "104.1992", 
-  "ArtistBio": "British, 1800\u20131877", 
-  "CreditLine": "Gift of Anne Ehrenkranz in honor of John Szarkowski", 
+  "ArtistBio": "(British, 1800\u20131877)", 
+  "DateAcquired": "1992-01-09", 
+  "\ufeffTitle": "The Fruit Sellers", 
   "ObjectID": "46324"
 }

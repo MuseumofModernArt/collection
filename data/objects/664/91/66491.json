@@ -5,8 +5,7 @@
   "Artist": "Giorgio Morandi", 
   "URL": "http://www.moma.org/collection/works/66491", 
   "CuratorApproved": "Y", 
-  "Title": "Oval Still Life", 
-  "DateAcquired": "1949-05-25", 
+  "CreditLine": "Gift of James Thrall Soby", 
   "Date": "1945", 
   "ArtistID": 4079, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "304.1949", 
-  "ArtistBio": "Italian, 1890\u20131964", 
-  "CreditLine": "Gift of James Thrall Soby", 
+  "ArtistBio": "(Italian, 1890\u20131964)", 
+  "DateAcquired": "1949-05-25", 
+  "\ufeffTitle": "Oval Still Life", 
   "ObjectID": "66491"
 }

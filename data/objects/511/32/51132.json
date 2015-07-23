@@ -5,8 +5,7 @@
   "Artist": "Gilles Peress", 
   "URL": "http://www.moma.org/collection/works/51132", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1993-10-14", 
+  "CreditLine": "The Family of Man Fund", 
   "Date": "1988", 
   "ArtistID": 4554, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "336.1993", 
-  "ArtistBio": "French, born 1946", 
-  "CreditLine": "The Family of Man Fund", 
+  "ArtistBio": "(French, born 1946)", 
+  "DateAcquired": "1993-10-14", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "51132"
 }

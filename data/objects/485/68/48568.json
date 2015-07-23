@@ -5,8 +5,7 @@
   "Artist": "Josef Koudelka", 
   "URL": "http://www.moma.org/collection/works/48568", 
   "CuratorApproved": "Y", 
-  "Title": "Spain", 
-  "DateAcquired": "1975-05-14", 
+  "CreditLine": "Joseph Strick Fund", 
   "Date": "1971", 
   "ArtistID": 3229, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "210.1975", 
-  "ArtistBio": "Czech, born 1938", 
-  "CreditLine": "Joseph Strick Fund", 
+  "ArtistBio": "(Czech, born 1938)", 
+  "DateAcquired": "1975-05-14", 
+  "\ufeffTitle": "Spain", 
   "ObjectID": "48568"
 }

@@ -5,8 +5,7 @@
   "Artist": "Otl Aicher (also known as Otto Aicher)", 
   "URL": "http://www.moma.org/collection/works/6180", 
   "CuratorApproved": "Y", 
-  "Title": "Die Welt blickt auf Afrika", 
-  "DateAcquired": "1957-12-04", 
+  "CreditLine": "Gift of the artist", 
   "Date": "1950", 
   "ArtistID": 86, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "308.1957", 
-  "ArtistBio": "German, 1922\u20131991", 
-  "CreditLine": "Gift of the artist", 
+  "ArtistBio": "(German, 1922\u20131991)", 
+  "DateAcquired": "1957-12-04", 
+  "\ufeffTitle": "Die Welt blickt auf Afrika", 
   "ObjectID": "6180"
 }

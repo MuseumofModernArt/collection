@@ -1,12 +1,11 @@
 {
   "Medium": "Computer chip in synthetic polymer box", 
-  "Dimensions": "Chip: 5/8 x 1 1/2 x 3/8\" (1.8 x 3.8 x 1.5 cm)   Box: 1 1/2 x 2 1/4 x 5/8\" (3.8 x 5.7 x 1.8 cm)", 
+  "Dimensions": "Chip: 5/8 x 1 1/2 x 3/8\" (1.8 x 3.8 x 1.5 cm) \r\nBox: 1 1/2 x 2 1/4 x 5/8\" (3.8 x 5.7 x 1.8 cm)", 
   "Classification": "A&D Architectural Drawing", 
   "Artist": "Cedric Price", 
   "URL": "http://www.moma.org/collection/works/874", 
   "CuratorApproved": "Y", 
-  "Title": "Generator Project, White Oak, Florida  Computer Chip Containing Complete Generator Program", 
-  "DateAcquired": "NULL", 
+  "CreditLine": "Gift of The Howard Gilman Foundation", 
   "Date": "1978-80", 
   "ArtistID": 7986, 
   "Keywords": [
@@ -20,7 +19,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "1258.2000", 
-  "ArtistBio": "British, 1934\u20132003", 
-  "CreditLine": "Gift of The Howard Gilman Foundation", 
+  "ArtistBio": "(British, 1934\u20132003)", 
+  "DateAcquired": "", 
+  "\ufeffTitle": "Generator Project, White Oak, Florida, Computer Chip Containing Complete Generator Program", 
   "ObjectID": "874"
 }

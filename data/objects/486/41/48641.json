@@ -5,8 +5,7 @@
   "Artist": "Charles N\u00e8gre", 
   "URL": "http://www.moma.org/collection/works/48641", 
   "CuratorApproved": "Y", 
-  "Title": "Spartacus, Tuileries Gardens, Paris", 
-  "DateAcquired": "1989-10-12", 
+  "CreditLine": "Gift of Paul F. Walter", 
   "Date": "1859", 
   "ArtistID": 4254, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "214.1989", 
-  "ArtistBio": "French, 1820\u20131880", 
-  "CreditLine": "Gift of Paul F. Walter", 
+  "ArtistBio": "(French, 1820\u20131880)", 
+  "DateAcquired": "1989-10-12", 
+  "\ufeffTitle": "Spartacus, Tuileries Gardens, Paris", 
   "ObjectID": "48641"
 }

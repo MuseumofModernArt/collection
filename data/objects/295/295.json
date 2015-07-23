@@ -5,8 +5,7 @@
   "Artist": "Daniel Libeskind", 
   "URL": "http://www.moma.org/collection/works/295", 
   "CuratorApproved": "Y", 
-  "Title": "Micromegas Project  Time Sections", 
-  "DateAcquired": "1999-06-30", 
+  "CreditLine": "Robert K. and Barbara J. Straus Family Foundation, Inc.", 
   "Date": "1979", 
   "ArtistID": 7527, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "271.1999", 
-  "ArtistBio": "American, born Poland 1946", 
-  "CreditLine": "Robert K. and Barbara J. Straus Family Foundation, Inc.", 
+  "ArtistBio": "(American, born Poland 1946)", 
+  "DateAcquired": "1999-06-30", 
+  "\ufeffTitle": "Micromegas Project, Time Sections", 
   "ObjectID": "295"
 }

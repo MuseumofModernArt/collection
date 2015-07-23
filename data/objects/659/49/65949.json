@@ -5,8 +5,7 @@
   "Artist": "Anna Bella Geiger", 
   "URL": "http://www.moma.org/collection/works/65949", 
   "CuratorApproved": "Y", 
-  "Title": "Meat on the Table", 
-  "DateAcquired": "1969-04-16", 
+  "CreditLine": "Inter-American Fund", 
   "Date": "1969", 
   "ArtistID": 2110, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "281.1969", 
-  "ArtistBio": "Brazilian, born 1933", 
-  "CreditLine": "Inter-American Fund", 
+  "ArtistBio": "(Brazilian, born 1933)", 
+  "DateAcquired": "1969-04-16", 
+  "\ufeffTitle": "Meat on the Table", 
   "ObjectID": "65949"
 }

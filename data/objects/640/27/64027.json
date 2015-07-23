@@ -5,8 +5,7 @@
   "Artist": "John Walker", 
   "URL": "http://www.moma.org/collection/works/64027", 
   "CuratorApproved": "Y", 
-  "Title": "Passing Bells", 
-  "DateAcquired": "1999-05-20", 
+  "CreditLine": "Gift of Jeanne Thayer", 
   "Date": "1998", 
   "ArtistID": 6220, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "187.1999.1-27", 
-  "ArtistBio": "British, born 1939", 
-  "CreditLine": "Gift of Jeanne Thayer", 
+  "ArtistBio": "(British, born 1939)", 
+  "DateAcquired": "1999-05-20", 
+  "\ufeffTitle": "Passing Bells", 
   "ObjectID": "64027"
 }

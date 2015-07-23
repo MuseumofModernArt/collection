@@ -1,12 +1,11 @@
 {
   "Medium": "Gelatin silver print, printed c. 1970", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Photograph", 
   "Artist": "Jerome Liebling", 
   "URL": "http://www.moma.org/collection/works/51372", 
   "CuratorApproved": "Y", 
-  "Title": "Orville Freeman Campaigning, Winthrop, Minnesota", 
-  "DateAcquired": "1994-06-09", 
+  "CreditLine": "Lois and Bruce Zenkel Fund", 
   "Date": "1956", 
   "ArtistID": 3549, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "345.1994", 
-  "ArtistBio": "American, 1924\u20132011", 
-  "CreditLine": "Lois and Bruce Zenkel Fund", 
+  "ArtistBio": "(American, 1924\u20132011)", 
+  "DateAcquired": "1994-06-09", 
+  "\ufeffTitle": "Orville Freeman Campaigning, Winthrop, Minnesota", 
   "ObjectID": "51372"
 }

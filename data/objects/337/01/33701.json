@@ -5,8 +5,7 @@
   "Artist": "Robert Barnes", 
   "URL": "http://www.moma.org/collection/works/33701", 
   "CuratorApproved": "Y", 
-  "Title": "Portrait of C. W.", 
-  "DateAcquired": "1963-02-13", 
+  "CreditLine": "Ethel R. Scull Fund", 
   "Date": "1962", 
   "ArtistID": 339, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "80.1963", 
-  "ArtistBio": "American, born 1934", 
-  "CreditLine": "Ethel R. Scull Fund", 
+  "ArtistBio": "(American, born 1934)", 
+  "DateAcquired": "1963-02-13", 
+  "\ufeffTitle": "Portrait of C. W.", 
   "ObjectID": "33701"
 }

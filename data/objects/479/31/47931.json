@@ -5,8 +5,7 @@
   "Artist": "Unknown photographer", 
   "URL": "http://www.moma.org/collection/works/47931", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled (Pages from an album of mugshots)", 
-  "DateAcquired": "1989-06-08", 
+  "CreditLine": "Purchase", 
   "Date": "1870s-80s", 
   "ArtistID": 6028, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "183.1989.1-89", 
-  "ArtistBio": "NULL", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "", 
+  "DateAcquired": "1989-06-08", 
+  "\ufeffTitle": "Untitled (Pages from an album of mugshots)", 
   "ObjectID": "47931"
 }

@@ -1,12 +1,11 @@
 {
   "Medium": "Polyethylene film, wooden handle, and metal frame", 
-  "Dimensions": "open: 21 x 27 1/2 x 27 1/2\" (53.3 x 69.9 x 69.9 cm)  closed: 21 x 4 x 4\" (53.3 x 10.2 x 10.2 cm)", 
+  "Dimensions": "open: 21 x 27 1/2 x 27 1/2\" (53.3 x 69.9 x 69.9 cm)\r\nclosed: 21 x 4 x 4\" (53.3 x 10.2 x 10.2 cm)", 
   "Classification": "A&D Design", 
   "Artist": "Pace Products, Chicago, IL", 
   "URL": "http://www.moma.org/collection/works/4362", 
   "CuratorApproved": "Y", 
-  "Title": "Emergency Umbrella", 
-  "DateAcquired": "1956-10-25", 
+  "CreditLine": "Gift of Arthur Drexler", 
   "Date": "c. 1955", 
   "Keywords": [
     "online art collection", 
@@ -19,7 +18,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "548.1956", 
-  "ArtistBio": "American", 
-  "CreditLine": "Gift of Arthur Drexler", 
+  "ArtistBio": "(American)", 
+  "DateAcquired": "1956-10-25", 
+  "\ufeffTitle": "Emergency Umbrella", 
   "ObjectID": "4362"
 }

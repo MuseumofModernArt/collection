@@ -5,8 +5,7 @@
   "Artist": "Timo Sarpaneva", 
   "URL": "http://www.moma.org/collection/works/3169", 
   "CuratorApproved": "Y", 
-  "Title": "Carafe", 
-  "DateAcquired": "1958-12-04", 
+  "CreditLine": "Phyllis B. Lambert Fund", 
   "Date": "1956", 
   "ArtistID": 5168, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "276.1958", 
-  "ArtistBio": "Finnish, 1926\u20132006", 
-  "CreditLine": "Phyllis B. Lambert Fund", 
+  "ArtistBio": "(Finnish, 1926\u20132006)", 
+  "DateAcquired": "1958-12-04", 
+  "\ufeffTitle": "Carafe", 
   "ObjectID": "3169"
 }

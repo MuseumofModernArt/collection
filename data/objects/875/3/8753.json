@@ -5,8 +5,7 @@
   "Artist": "Cyan", 
   "URL": "http://www.moma.org/collection/works/8753", 
   "CuratorApproved": "Y", 
-  "Title": "Cyan", 
-  "DateAcquired": "2000-12-11", 
+  "CreditLine": "Gift of the designer", 
   "Date": "1996", 
   "ArtistID": 7517, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "1454.2000", 
-  "ArtistBio": "German, established 1992", 
-  "CreditLine": "Gift of the designer", 
+  "ArtistBio": "(German, established 1992)", 
+  "DateAcquired": "2000-12-11", 
+  "\ufeffTitle": "Cyan", 
   "ObjectID": "8753"
 }

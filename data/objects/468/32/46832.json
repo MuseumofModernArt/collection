@@ -5,8 +5,7 @@
   "Artist": "Charles Damiano", 
   "URL": "http://www.moma.org/collection/works/46832", 
   "CuratorApproved": "Y", 
-  "Title": "Water (Abstraction Number 1)", 
-  "DateAcquired": "1959-04-22", 
+  "CreditLine": "Gift of the photographer", 
   "Date": "c. 1959", 
   "ArtistID": 1371, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "141.1959", 
-  "ArtistBio": "British", 
-  "CreditLine": "Gift of the photographer", 
+  "ArtistBio": "(British)", 
+  "DateAcquired": "1959-04-22", 
+  "\ufeffTitle": "Water (Abstraction Number 1)", 
   "ObjectID": "46832"
 }

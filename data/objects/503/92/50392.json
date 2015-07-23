@@ -5,8 +5,7 @@
   "Artist": "Thomas Annan", 
   "URL": "http://www.moma.org/collection/works/50392", 
   "CuratorApproved": "Y", 
-  "Title": "Saltmarket from Bridgegate", 
-  "DateAcquired": "NULL", 
+  "CreditLine": "Purchase", 
   "Date": "1868", 
   "ArtistID": 190, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "308.1975.33", 
-  "ArtistBio": "British, 1829\u20131887", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(British, 1829\u20131887)", 
+  "DateAcquired": "", 
+  "\ufeffTitle": "Saltmarket from Bridgegate", 
   "ObjectID": "50392"
 }

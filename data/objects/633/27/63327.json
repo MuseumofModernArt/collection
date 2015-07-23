@@ -5,8 +5,7 @@
   "Artist": "Ernst Ludwig Kirchner", 
   "URL": "http://www.moma.org/collection/works/63327", 
   "CuratorApproved": "Y", 
-  "Title": "Street Scene (After An Earlier Painting)", 
-  "DateAcquired": "1945-12-17", 
+  "CreditLine": "Purchase", 
   "Date": "(1922)", 
   "ArtistID": 3115, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "162.1945", 
-  "ArtistBio": "German, 1880\u20131938", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(German, 1880\u20131938)", 
+  "DateAcquired": "1945-12-17", 
+  "\ufeffTitle": "Street Scene (Strassenszene)", 
   "ObjectID": "63327"
 }

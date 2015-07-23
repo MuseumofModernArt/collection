@@ -5,8 +5,7 @@
   "Artist": "Dan Flavin", 
   "URL": "http://www.moma.org/collection/works/36609", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1999-10-21", 
+  "CreditLine": "Gift of Sarah-Ann and Werner H. Kramarsky", 
   "Date": "1973", 
   "ArtistID": 1911, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "382.1999", 
-  "ArtistBio": "American, 1933\u20131996", 
-  "CreditLine": "Gift of Sarah-Ann and Werner H. Kramarsky", 
+  "ArtistBio": "(American, 1933\u20131996)", 
+  "DateAcquired": "1999-10-21", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "36609"
 }

@@ -5,8 +5,7 @@
   "Artist": "Pierre Bonnard", 
   "URL": "http://www.moma.org/collection/works/66595", 
   "CuratorApproved": "Y", 
-  "Title": "House in a Courtyard (Maison dans la cour) from the portfolio Some Scenes of Parisian Life (Quelques Aspects de la vie de Paris)", 
-  "DateAcquired": "1958-12-19", 
+  "CreditLine": "Larry Aldrich Fund (by exchange)", 
   "Date": "1899", 
   "ArtistID": 665, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "308.1958", 
-  "ArtistBio": "French, 1867\u20131947", 
-  "CreditLine": "Larry Aldrich Fund (by exchange)", 
+  "ArtistBio": "(French, 1867\u20131947)", 
+  "DateAcquired": "1958-12-19", 
+  "\ufeffTitle": "House in a Courtyard (Maison dans la cour)", 
   "ObjectID": "66595"
 }

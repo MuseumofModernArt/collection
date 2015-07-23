@@ -5,8 +5,7 @@
   "Artist": "Zbigniew Makowski", 
   "URL": "http://www.moma.org/collection/works/38584", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1968-10-10", 
+  "CreditLine": "John S. Newberry Fund", 
   "Date": "1965", 
   "ArtistID": 3706, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "1335.1968", 
-  "ArtistBio": "Polish, born 1930", 
-  "CreditLine": "John S. Newberry Fund", 
+  "ArtistBio": "(Polish, born 1930)", 
+  "DateAcquired": "1968-10-10", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "38584"
 }

@@ -5,8 +5,7 @@
   "Artist": "Nathan Lyons", 
   "URL": "http://www.moma.org/collection/works/54785", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1973-11-13", 
+  "CreditLine": "Gift of Robert M. Doty", 
   "Date": "1958", 
   "ArtistID": 3652, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "532.1973", 
-  "ArtistBio": "American, born 1930", 
-  "CreditLine": "Gift of Robert M. Doty", 
+  "ArtistBio": "(American, born 1930)", 
+  "DateAcquired": "1973-11-13", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "54785"
 }

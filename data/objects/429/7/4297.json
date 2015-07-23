@@ -5,8 +5,7 @@
   "Artist": "Shiro Kuramata", 
   "URL": "http://www.moma.org/collection/works/4297", 
   "CuratorApproved": "Y", 
-  "Title": "49 Drawers", 
-  "DateAcquired": "1998-09-15", 
+  "CreditLine": "Gift of Patricia Phelps de Cisneros and the manufacturer", 
   "Date": "1970", 
   "ArtistID": 7210, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "520.1998", 
-  "ArtistBio": "Japanese, 1934\u20131991", 
-  "CreditLine": "Gift of Patricia Phelps de Cisneros and the manufacturer", 
+  "ArtistBio": "(Japanese, 1934\u20131991)", 
+  "DateAcquired": "1998-09-15", 
+  "\ufeffTitle": "49 Drawers", 
   "ObjectID": "4297"
 }

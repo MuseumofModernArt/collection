@@ -5,8 +5,7 @@
   "Artist": "Jacques Villon", 
   "URL": "http://www.moma.org/collection/works/69565", 
   "CuratorApproved": "Y", 
-  "Title": "The Equilibrist (L'Equilibriste)", 
-  "DateAcquired": "1971-05-18", 
+  "CreditLine": "Given in memory of Peter H. Deitsch", 
   "Date": "(1913)", 
   "ArtistID": 6165, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "461.1971", 
-  "ArtistBio": "French, 1875\u20131963", 
-  "CreditLine": "Given in memory of Peter H. Deitsch", 
+  "ArtistBio": "(French, 1875\u20131963)", 
+  "DateAcquired": "1971-05-18", 
+  "\ufeffTitle": "The Equilibrist (L'Equilibriste)", 
   "ObjectID": "69565"
 }

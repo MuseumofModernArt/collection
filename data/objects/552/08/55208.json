@@ -5,8 +5,7 @@
   "Artist": "Judy Dater", 
   "URL": "http://www.moma.org/collection/works/55208", 
   "CuratorApproved": "Y", 
-  "Title": "Maggi", 
-  "DateAcquired": "1971-11-10", 
+  "CreditLine": "Gift of the photographer", 
   "Date": "1970", 
   "ArtistID": 1392, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "567.1971", 
-  "ArtistBio": "American, born 1941", 
-  "CreditLine": "Gift of the photographer", 
+  "ArtistBio": "(American, born 1941)", 
+  "DateAcquired": "1971-11-10", 
+  "\ufeffTitle": "Maggi", 
   "ObjectID": "55208"
 }

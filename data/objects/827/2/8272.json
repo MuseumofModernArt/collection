@@ -5,8 +5,7 @@
   "Artist": "Herbert Bayer", 
   "URL": "http://www.moma.org/collection/works/8272", 
   "CuratorApproved": "Y", 
-  "Title": "6 Vortr\u00e4ge", 
-  "DateAcquired": "1979-05-30", 
+  "CreditLine": "Anonymous gift", 
   "Date": "1925", 
   "ArtistID": 399, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "858.1979", 
-  "ArtistBio": "American, born Austria. 1900\u20131985", 
-  "CreditLine": "Anonymous gift", 
+  "ArtistBio": "(American, born Austria. 1900\u20131985)", 
+  "DateAcquired": "1979-05-30", 
+  "\ufeffTitle": "6 Vortr\u00e4ge", 
   "ObjectID": "8272"
 }

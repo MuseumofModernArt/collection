@@ -5,8 +5,7 @@
   "Artist": "Max Lutzbacher", 
   "URL": "http://www.moma.org/collection/works/5061", 
   "CuratorApproved": "Y", 
-  "Title": "Henri-Matisse", 
-  "DateAcquired": "1944-05-02", 
+  "CreditLine": "Given anonymously", 
   "Date": "1931", 
   "ArtistID": 3645, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "98.1944", 
-  "ArtistBio": "Swiss", 
-  "CreditLine": "Given anonymously", 
+  "ArtistBio": "(Swiss)", 
+  "DateAcquired": "1944-05-02", 
+  "\ufeffTitle": "Henri-Matisse", 
   "ObjectID": "5061"
 }

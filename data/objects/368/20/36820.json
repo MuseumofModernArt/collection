@@ -5,8 +5,7 @@
   "Artist": "Colin Self", 
   "URL": "http://www.moma.org/collection/works/36820", 
   "CuratorApproved": "Y", 
-  "Title": "Sofa", 
-  "DateAcquired": "1969-05-22", 
+  "CreditLine": "John S. Newberry Fund", 
   "Date": "1964", 
   "ArtistID": 5334, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "421.1969", 
-  "ArtistBio": "British, born 1941", 
-  "CreditLine": "John S. Newberry Fund", 
+  "ArtistBio": "(British, born 1941)", 
+  "DateAcquired": "1969-05-22", 
+  "\ufeffTitle": "Sofa", 
   "ObjectID": "36820"
 }

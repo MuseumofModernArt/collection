@@ -5,8 +5,7 @@
   "Artist": "Ivan Chermayeff", 
   "URL": "http://www.moma.org/collection/works/8066", 
   "CuratorApproved": "Y", 
-  "Title": "Winston Churchill: The Wilderness Years", 
-  "DateAcquired": "1983-11-30", 
+  "CreditLine": "Gift of the designer", 
   "Date": "1983", 
   "ArtistID": 1091, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "759.1983", 
-  "ArtistBio": "American, born England 1932", 
-  "CreditLine": "Gift of the designer", 
+  "ArtistBio": "(American, born England 1932)", 
+  "DateAcquired": "1983-11-30", 
+  "\ufeffTitle": "Winston Churchill: The Wilderness Years", 
   "ObjectID": "8066"
 }

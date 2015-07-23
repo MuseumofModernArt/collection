@@ -5,8 +5,7 @@
   "Artist": "Eliot Noyes and Associates", 
   "URL": "http://www.moma.org/collection/works/3346", 
   "CuratorApproved": "Y", 
-  "Title": "Executary Transcribing Machine (model 272)", 
-  "DateAcquired": "1969-04-24", 
+  "CreditLine": "Gift of IBM, New York", 
   "Date": "1966", 
   "Keywords": [
     "online art collection", 
@@ -16,7 +15,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "344.1969", 
-  "ArtistBio": "American", 
-  "CreditLine": "Gift of IBM, New York", 
+  "ArtistBio": "(American)", 
+  "DateAcquired": "1969-04-24", 
+  "\ufeffTitle": "Executary Transcribing Machine (model 272)", 
   "ObjectID": "3346"
 }

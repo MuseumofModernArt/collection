@@ -5,8 +5,7 @@
   "Artist": "Unknown photographer", 
   "URL": "http://www.moma.org/collection/works/45974", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "NULL", 
+  "CreditLine": "Gift of Virginia Cuthbert Elliott", 
   "Date": "c. 1850", 
   "ArtistID": 6028, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "87.1974", 
-  "ArtistBio": "NULL", 
-  "CreditLine": "Gift of Virginia Cuthbert Elliott", 
+  "ArtistBio": "", 
+  "DateAcquired": "", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "45974"
 }

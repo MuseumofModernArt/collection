@@ -1,12 +1,11 @@
 {
   "Medium": "35 woodcuts", 
-  "Dimensions": "page  16 3/4 x 12 7/16\" (42 x 31.6 cm)  Prints:  various dimensions.", 
+  "Dimensions": "page  16 3/4 x 12 7/16\" (42 x 31.6 cm)\r\nPrints:  various dimensions.", 
   "Classification": "Illustrated Book", 
   "Artist": "Richard Bosman", 
   "URL": "http://www.moma.org/collection/works/9593", 
   "CuratorApproved": "Y", 
-  "Title": "Captivity Narrative of Hannah Duston", 
-  "DateAcquired": "1988-01-19", 
+  "CreditLine": "Johanna and Leslie J. Garfield Fund", 
   "Date": "1987", 
   "ArtistID": 689, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "22.1988.1-35", 
-  "ArtistBio": "Australian, born 1944", 
-  "CreditLine": "Johanna and Leslie J. Garfield Fund", 
+  "ArtistBio": "(Australian, born 1944)", 
+  "DateAcquired": "1988-01-19", 
+  "\ufeffTitle": "Captivity Narrative of Hannah Duston", 
   "ObjectID": "9593"
 }

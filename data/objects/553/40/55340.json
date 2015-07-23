@@ -5,8 +5,7 @@
   "Artist": "Irving Penn", 
   "URL": "http://www.moma.org/collection/works/55340", 
   "CuratorApproved": "Y", 
-  "Title": "Colette, Paris", 
-  "DateAcquired": "1959-04-22", 
+  "CreditLine": "Gift of the photographer", 
   "Date": "1951", 
   "ArtistID": 4548, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "580.1959", 
-  "ArtistBio": "American, 1917\u20132009", 
-  "CreditLine": "Gift of the photographer", 
+  "ArtistBio": "(American, 1917\u20132009)", 
+  "DateAcquired": "1959-04-22", 
+  "\ufeffTitle": "Colette, Paris", 
   "ObjectID": "55340"
 }

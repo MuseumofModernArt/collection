@@ -5,8 +5,7 @@
   "Artist": "Pablo Picasso", 
   "URL": "http://www.moma.org/collection/works/65241", 
   "CuratorApproved": "Y", 
-  "Title": "Dreamy Woman in Armchair, Her Cheek on Her Hand from the Vollard Suite", 
-  "DateAcquired": "1949-03-24", 
+  "CreditLine": "Abby Aldrich Rockefeller Fund", 
   "Date": "March 9, 1934, printed 1939", 
   "ArtistID": 4609, 
   "Keywords": [
@@ -20,7 +19,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "251.1949", 
-  "ArtistBio": "Spanish, 1881\u20131973", 
-  "CreditLine": "Abby Aldrich Rockefeller Fund", 
+  "ArtistBio": "(Spanish, 1881\u20131973)", 
+  "DateAcquired": "1949-03-24", 
+  "\ufeffTitle": "Dreamy Woman in Armchair, Her Cheek on Her Hand from the Vollard Suite", 
   "ObjectID": "65241"
 }

@@ -5,8 +5,7 @@
   "Artist": "Mieczys\u0142aw G\u00f3rowski", 
   "URL": "http://www.moma.org/collection/works/5890", 
   "CuratorApproved": "Y", 
-  "Title": "Polonez", 
-  "DateAcquired": "1998-04-22", 
+  "CreditLine": "Gift of Susan Hornik", 
   "Date": "1981", 
   "ArtistID": 2257, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "257.1998", 
-  "ArtistBio": "Polish, 1941\u20132011", 
-  "CreditLine": "Gift of Susan Hornik", 
+  "ArtistBio": "(Polish, 1941\u20132011)", 
+  "DateAcquired": "1998-04-22", 
+  "\ufeffTitle": "Polonez", 
   "ObjectID": "5890"
 }

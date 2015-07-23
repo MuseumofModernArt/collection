@@ -5,8 +5,7 @@
   "Artist": "Vivian Cherry", 
   "URL": "http://www.moma.org/collection/works/50720", 
   "CuratorApproved": "Y", 
-  "Title": "Harlem, New York City", 
-  "DateAcquired": "1994-06-09", 
+  "CreditLine": "The Family of Man Fund", 
   "Date": "1952", 
   "ArtistID": 7908, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "321.1994", 
-  "ArtistBio": "American, born 1920", 
-  "CreditLine": "The Family of Man Fund", 
+  "ArtistBio": "(American, born 1920)", 
+  "DateAcquired": "1994-06-09", 
+  "\ufeffTitle": "Harlem, New York City", 
   "ObjectID": "50720"
 }

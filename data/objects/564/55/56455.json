@@ -5,8 +5,7 @@
   "Artist": "Paul Citroen", 
   "URL": "http://www.moma.org/collection/works/56455", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1995-12-14", 
+  "CreditLine": "Gift of Isaac Lagnado", 
   "Date": "Before 1935", 
   "ArtistID": 1129, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "799.1995", 
-  "ArtistBio": "Dutch, born Germany. 1896\u20131983", 
-  "CreditLine": "Gift of Isaac Lagnado", 
+  "ArtistBio": "(Dutch, born Germany. 1896\u20131983)", 
+  "DateAcquired": "1995-12-14", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "56455"
 }

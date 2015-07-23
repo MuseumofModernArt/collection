@@ -1,12 +1,11 @@
 {
   "Medium": "Albumen silver print", 
-  "Dimensions": "7 1/8 x 10\" (18.1 x 25.4 cm)  ", 
+  "Dimensions": "7 1/8 x 10\" (18.1 x 25.4 cm)\r\n", 
   "Classification": "Photograph", 
   "Artist": "Francis Frith", 
   "URL": "http://www.moma.org/collection/works/47354", 
   "CuratorApproved": "Y", 
-  "Title": "Approach to Philae, Egypt", 
-  "DateAcquired": "1964-02-11", 
+  "CreditLine": "Purchase", 
   "Date": "1856", 
   "ArtistID": 2015, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "173.1964", 
-  "ArtistBio": "British, 1822\u20131898", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(British, 1822\u20131898)", 
+  "DateAcquired": "1964-02-11", 
+  "\ufeffTitle": "Approach to Philae, Egypt", 
   "ObjectID": "47354"
 }

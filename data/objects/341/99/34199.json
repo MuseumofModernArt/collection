@@ -5,8 +5,7 @@
   "Artist": "Fernand L\u00e9ger", 
   "URL": "http://www.moma.org/collection/works/34199", 
   "CuratorApproved": "Y", 
-  "Title": "Seated Nude", 
-  "DateAcquired": "1978-04-04", 
+  "CreditLine": "The Joan and Lester Avnet Collection", 
   "Date": "1913", 
   "ArtistID": 6624, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "121.1978", 
-  "ArtistBio": "French, 1881\u20131955", 
-  "CreditLine": "The Joan and Lester Avnet Collection", 
+  "ArtistBio": "(French, 1881\u20131955)", 
+  "DateAcquired": "1978-04-04", 
+  "\ufeffTitle": "Seated Nude", 
   "ObjectID": "34199"
 }

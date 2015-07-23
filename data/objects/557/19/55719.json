@@ -5,8 +5,7 @@
   "Artist": "Francis Frith", 
   "URL": "http://www.moma.org/collection/works/55719", 
   "CuratorApproved": "Y", 
-  "Title": "Cedars of Lebanon (#615)", 
-  "DateAcquired": "1976-12-08", 
+  "CreditLine": "Anonymous gift", 
   "Date": "c. 1860", 
   "ArtistID": 2015, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "635.1976", 
-  "ArtistBio": "British, 1822\u20131898", 
-  "CreditLine": "Anonymous gift", 
+  "ArtistBio": "(British, 1822\u20131898)", 
+  "DateAcquired": "1976-12-08", 
+  "\ufeffTitle": "Cedars of Lebanon (#615)", 
   "ObjectID": "55719"
 }

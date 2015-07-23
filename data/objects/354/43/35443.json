@@ -5,8 +5,7 @@
   "Artist": "Jean Dubuffet", 
   "URL": "http://www.moma.org/collection/works/35443", 
   "CuratorApproved": "Y", 
-  "Title": "Arab", 
-  "DateAcquired": "1968-04-23", 
+  "CreditLine": "Gift of Mr. and Mrs. Stephen Hahn", 
   "Date": "1948", 
   "ArtistID": 1633, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "234.1968", 
-  "ArtistBio": "French, 1901\u20131985", 
-  "CreditLine": "Gift of Mr. and Mrs. Stephen Hahn", 
+  "ArtistBio": "(French, 1901\u20131985)", 
+  "DateAcquired": "1968-04-23", 
+  "\ufeffTitle": "Arab", 
   "ObjectID": "35443"
 }

@@ -1,12 +1,11 @@
 {
   "Medium": "Illustrated book with one lithograph", 
-  "Dimensions": "irreg. composition  10 7/8 x 6 3/4\" (27.7 x 17.2 cm)  irreg. page  10 15/16 x 6 15/16\" (27 x 17.7 cm)", 
+  "Dimensions": "irreg. composition  10 7/8 x 6 3/4\" (27.7 x 17.2 cm)\r\nirreg. page  10 15/16 x 6 15/16\" (27 x 17.7 cm)", 
   "Classification": "Illustrated Book", 
   "Artist": "Dorothea Tanning", 
   "URL": "http://www.moma.org/collection/works/13817", 
   "CuratorApproved": "Y", 
-  "Title": "Clos Camardon", 
-  "DateAcquired": "1986-05-20", 
+  "CreditLine": "Abby Aldrich Rockefeller Fund", 
   "Date": "1985", 
   "ArtistID": 5806, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "214.1986", 
-  "ArtistBio": "American, 1910\u20132012", 
-  "CreditLine": "Abby Aldrich Rockefeller Fund", 
+  "ArtistBio": "(American, 1910\u20132012)", 
+  "DateAcquired": "1986-05-20", 
+  "\ufeffTitle": "Clos Camardon", 
   "ObjectID": "13817"
 }

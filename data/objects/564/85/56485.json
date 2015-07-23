@@ -5,8 +5,7 @@
   "Artist": "Cindy Sherman", 
   "URL": "http://www.moma.org/collection/works/56485", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled #131", 
-  "DateAcquired": "1995-12-14", 
+  "CreditLine": "Joel and Anne Ehrenkranz Fund", 
   "Date": "1983", 
   "ArtistID": 5392, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "805.1995.x1-x2", 
-  "ArtistBio": "American, born 1954", 
-  "CreditLine": "Joel and Anne Ehrenkranz Fund", 
+  "ArtistBio": "(American, born 1954)", 
+  "DateAcquired": "1995-12-14", 
+  "\ufeffTitle": "Untitled #131", 
   "ObjectID": "56485"
 }

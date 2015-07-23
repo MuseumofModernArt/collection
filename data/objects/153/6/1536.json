@@ -5,8 +5,7 @@
   "Artist": "Frank Lloyd Wright", 
   "URL": "http://www.moma.org/collection/works/1536", 
   "CuratorApproved": "Y", 
-  "Title": "Clerestory Windows from Avery Coonley Playhouse, Riverside, Illinois", 
-  "DateAcquired": "1980-01-08", 
+  "CreditLine": "Joseph H. Heil Fund", 
   "Date": "1912", 
   "ArtistID": 6459, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "17.1980.1-2", 
-  "ArtistBio": "American, 1867\u20131959", 
-  "CreditLine": "Joseph H. Heil Fund", 
+  "ArtistBio": "(American, 1867\u20131959)", 
+  "DateAcquired": "1980-01-08", 
+  "\ufeffTitle": "Clerestory Windows from Avery Coonley Playhouse, Riverside, Illinois", 
   "ObjectID": "1536"
 }

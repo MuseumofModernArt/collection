@@ -5,8 +5,7 @@
   "Artist": "Max Bill", 
   "URL": "http://www.moma.org/collection/works/6192", 
   "CuratorApproved": "Y", 
-  "Title": "Galerie Herbert Herrmann, Ausstellung, Juli 1948, Josef Alers, Max Bill, Hans Arp", 
-  "DateAcquired": "1957-12-04", 
+  "CreditLine": "Gift of the Kunstgewerbe Museum, Z\u00fcrich", 
   "Date": "1948", 
   "ArtistID": 559, 
   "Keywords": [
@@ -22,7 +21,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "311.1957", 
-  "ArtistBio": "Swiss, 1908\u20131994", 
-  "CreditLine": "Gift of the Kunstgewerbe Museum, Z\u00fcrich", 
+  "ArtistBio": "(Swiss, 1908\u20131994)", 
+  "DateAcquired": "1957-12-04", 
+  "\ufeffTitle": "Galerie Herbert Herrmann, Ausstellung, Juli 1948, Josef Alers, Max Bill, Hans Arp", 
   "ObjectID": "6192"
 }

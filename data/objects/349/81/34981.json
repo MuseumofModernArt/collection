@@ -5,8 +5,7 @@
   "Artist": "Joseph Stella", 
   "URL": "http://www.moma.org/collection/works/34981", 
   "CuratorApproved": "Y", 
-  "Title": "Joe Gould", 
-  "DateAcquired": "1978-04-04", 
+  "CreditLine": "The Joan and Lester Avnet Collection", 
   "Date": "(1919)", 
   "ArtistID": 5641, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "166.1978", 
-  "ArtistBio": "American, 1877\u20131946", 
-  "CreditLine": "The Joan and Lester Avnet Collection", 
+  "ArtistBio": "(American, 1877\u20131946)", 
+  "DateAcquired": "1978-04-04", 
+  "\ufeffTitle": "Joe Gould", 
   "ObjectID": "34981"
 }

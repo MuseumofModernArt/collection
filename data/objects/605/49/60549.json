@@ -5,8 +5,7 @@
   "Artist": "Henri Georges Adam", 
   "URL": "http://www.moma.org/collection/works/60549", 
   "CuratorApproved": "Y", 
-  "Title": "August (Ao\u00fbt)", 
-  "DateAcquired": "1954-04-06", 
+  "CreditLine": "Larry Aldrich Fund", 
   "Date": "1951", 
   "ArtistID": 57, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "34.1954", 
-  "ArtistBio": "French, 1904\u20131967", 
-  "CreditLine": "Larry Aldrich Fund", 
+  "ArtistBio": "(French, 1904\u20131967)", 
+  "DateAcquired": "1954-04-06", 
+  "\ufeffTitle": "August (Ao\u00fbt)", 
   "ObjectID": "60549"
 }

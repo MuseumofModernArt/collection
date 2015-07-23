@@ -5,8 +5,7 @@
   "Artist": "Franz Marc", 
   "URL": "http://www.moma.org/collection/works/68753", 
   "CuratorApproved": "Y", 
-  "Title": "Three Animals", 
-  "DateAcquired": "1940-04-05", 
+  "CreditLine": "Gift of Abby Aldrich Rockefeller", 
   "Date": "(1912)", 
   "ArtistID": 3748, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "417.1940", 
-  "ArtistBio": "German, 1880\u20131916", 
-  "CreditLine": "Gift of Abby Aldrich Rockefeller", 
+  "ArtistBio": "(German, 1880\u20131916)", 
+  "DateAcquired": "1940-04-05", 
+  "\ufeffTitle": "Three Animals (Drei Tiere)", 
   "ObjectID": "68753"
 }

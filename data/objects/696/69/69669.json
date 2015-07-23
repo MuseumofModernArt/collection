@@ -5,8 +5,7 @@
   "Artist": "Howard Hodgkin", 
   "URL": "http://www.moma.org/collection/works/69669", 
   "CuratorApproved": "Y", 
-  "Title": "Nick", 
-  "DateAcquired": "1987-01-15", 
+  "CreditLine": "Gift of The International Council of The Museum of Modern Art in honor of Mrs. Alfred R. Stern", 
   "Date": "1977", 
   "ArtistID": 2679, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "469.1986", 
-  "ArtistBio": "British, born 1932", 
-  "CreditLine": "Gift of The International Council of The Museum of Modern Art in honor of Mrs. Alfred R. Stern", 
+  "ArtistBio": "(British, born 1932)", 
+  "DateAcquired": "1987-01-15", 
+  "\ufeffTitle": "Nick", 
   "ObjectID": "69669"
 }

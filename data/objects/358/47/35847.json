@@ -5,8 +5,7 @@
   "Artist": "Hedda Sterne", 
   "URL": "http://www.moma.org/collection/works/35847", 
   "CuratorApproved": "Y", 
-  "Title": "Mrs. Harold Rosenberg", 
-  "DateAcquired": "1966-05-10", 
+  "CreditLine": "Joseph G. Mayer Foundation Fund", 
   "Date": "(1965)", 
   "ArtistID": 5653, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "272.1966", 
-  "ArtistBio": "American, born Romania 1910\u20132011", 
-  "CreditLine": "Joseph G. Mayer Foundation Fund", 
+  "ArtistBio": "(American, born Romania 1910\u20132011)", 
+  "DateAcquired": "1966-05-10", 
+  "\ufeffTitle": "Mrs. Harold Rosenberg", 
   "ObjectID": "35847"
 }

@@ -5,8 +5,7 @@
   "Artist": "Marc Berthier", 
   "URL": "http://www.moma.org/collection/works/4715", 
   "CuratorApproved": "Y", 
-  "Title": "Tykho Radio", 
-  "DateAcquired": "2000-12-11", 
+  "CreditLine": "Gift of the manufacturer", 
   "Date": "1997", 
   "ArtistID": 8429, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "1421.2000.1-2", 
-  "ArtistBio": "French, born 1935", 
-  "CreditLine": "Gift of the manufacturer", 
+  "ArtistBio": "(French, born 1935)", 
+  "DateAcquired": "2000-12-11", 
+  "\ufeffTitle": "Tykho Radio", 
   "ObjectID": "4715"
 }

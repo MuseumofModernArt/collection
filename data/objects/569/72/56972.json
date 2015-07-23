@@ -5,8 +5,7 @@
   "Artist": "Lee Friedlander", 
   "URL": "http://www.moma.org/collection/works/56972", 
   "CuratorApproved": "Y", 
-  "Title": "Galax, Virginia", 
-  "DateAcquired": "1965-11-09", 
+  "CreditLine": "Gift of the photographer", 
   "Date": "1962", 
   "ArtistID": 2002, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "854.1965", 
-  "ArtistBio": "American, born 1934", 
-  "CreditLine": "Gift of the photographer", 
+  "ArtistBio": "(American, born 1934)", 
+  "DateAcquired": "1965-11-09", 
+  "\ufeffTitle": "Galax, Virginia", 
   "ObjectID": "56972"
 }

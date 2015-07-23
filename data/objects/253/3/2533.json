@@ -5,8 +5,7 @@
   "Artist": "Bob Hall", 
   "URL": "http://www.moma.org/collection/works/2533", 
   "CuratorApproved": "Y", 
-  "Title": "Racing Wheelchair", 
-  "DateAcquired": "1988-04-27", 
+  "CreditLine": "Gift of the designer", 
   "Date": "1986", 
   "ArtistID": 2462, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "142.1988", 
-  "ArtistBio": "American, born 1951", 
-  "CreditLine": "Gift of the designer", 
+  "ArtistBio": "(American, born 1951)", 
+  "DateAcquired": "1988-04-27", 
+  "\ufeffTitle": "Racing Wheelchair", 
   "ObjectID": "2533"
 }

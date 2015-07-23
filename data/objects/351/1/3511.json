@@ -5,8 +5,7 @@
   "Artist": "Vico Magistretti", 
   "URL": "http://www.moma.org/collection/works/3511", 
   "CuratorApproved": "Y", 
-  "Title": "Studio 80 Table", 
-  "DateAcquired": "1972-12-05", 
+  "CreditLine": "Gift of the manufacturer", 
   "Date": "1967", 
   "ArtistID": 3688, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "413.1972", 
-  "ArtistBio": "Italian, 1920\u20132006", 
-  "CreditLine": "Gift of the manufacturer", 
+  "ArtistBio": "(Italian, 1920\u20132006)", 
+  "DateAcquired": "1972-12-05", 
+  "\ufeffTitle": "Studio 80 Table", 
   "ObjectID": "3511"
 }

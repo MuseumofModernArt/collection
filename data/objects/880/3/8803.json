@@ -5,8 +5,7 @@
   "Artist": "G\u00e9rard Miedinger", 
   "URL": "http://www.moma.org/collection/works/8803", 
   "CuratorApproved": "Y", 
-  "Title": "Das Plakat", 
-  "DateAcquired": "2000-12-11", 
+  "CreditLine": "Gift of the designer", 
   "Date": "1953", 
   "ArtistID": 8263, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "1505.2000", 
-  "ArtistBio": "Swiss, born 1912", 
-  "CreditLine": "Gift of the designer", 
+  "ArtistBio": "(Swiss, born 1912)", 
+  "DateAcquired": "2000-12-11", 
+  "\ufeffTitle": "Das Plakat", 
   "ObjectID": "8803"
 }

@@ -5,8 +5,7 @@
   "Artist": "Rosalind Fox Solomon", 
   "URL": "http://www.moma.org/collection/works/57823", 
   "CuratorApproved": "Y", 
-  "Title": "Incantation, Guatemala", 
-  "DateAcquired": "1979-12-13", 
+  "CreditLine": "Gift of the photographer", 
   "Date": "1979", 
   "ArtistID": 5517, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "1185.1979", 
-  "ArtistBio": "American, born 1930", 
-  "CreditLine": "Gift of the photographer", 
+  "ArtistBio": "(American, born 1930)", 
+  "DateAcquired": "1979-12-13", 
+  "\ufeffTitle": "Incantation, Guatemala", 
   "ObjectID": "57823"
 }

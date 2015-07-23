@@ -1,12 +1,11 @@
 {
   "Medium": "Lithograph", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "Jasper Johns", 
   "URL": "http://www.moma.org/collection/works/59964", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1993-01-18", 
+  "CreditLine": "Gift of the artist in memory of Monroe Wheeler", 
   "Date": "1992", 
   "ArtistID": 2923, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "14.1993", 
-  "ArtistBio": "American, born 1930", 
-  "CreditLine": "Gift of the artist in memory of Monroe Wheeler", 
+  "ArtistBio": "(American, born 1930)", 
+  "DateAcquired": "1993-01-18", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "59964"
 }

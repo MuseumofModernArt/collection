@@ -5,8 +5,7 @@
   "Artist": "Juan Gris", 
   "URL": "http://www.moma.org/collection/works/35572", 
   "CuratorApproved": "Y", 
-  "Title": "Breakfast", 
-  "DateAcquired": "1948-10-06", 
+  "CreditLine": "Acquired through the Lillie P. Bliss Bequest", 
   "Date": "(1914)", 
   "ArtistID": 2349, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "248.1948", 
-  "ArtistBio": "Spanish, 1887\u20131927", 
-  "CreditLine": "Acquired through the Lillie P. Bliss Bequest", 
+  "ArtistBio": "(Spanish, 1887\u20131927)", 
+  "DateAcquired": "1948-10-06", 
+  "\ufeffTitle": "Breakfast", 
   "ObjectID": "35572"
 }

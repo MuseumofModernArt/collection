@@ -5,8 +5,7 @@
   "Artist": "William Eggleston", 
   "URL": "http://www.moma.org/collection/works/55536", 
   "CuratorApproved": "Y", 
-  "Title": "Sumner, Mississippi", 
-  "DateAcquired": "1987-10-15", 
+  "CreditLine": "Acquired through the generosity of the John E. Galvin Charitable Trust on behalf of the Crouse Family", 
   "Date": "c. 1972", 
   "ArtistID": 1690, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "604.1987", 
-  "ArtistBio": "American, born 1939", 
-  "CreditLine": "Acquired through the generosity of the John E. Galvin Charitable Trust on behalf of the Crouse Family", 
+  "ArtistBio": "(American, born 1939)", 
+  "DateAcquired": "1987-10-15", 
+  "\ufeffTitle": "Sumner, Mississippi", 
   "ObjectID": "55536"
 }

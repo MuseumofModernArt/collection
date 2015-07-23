@@ -1,12 +1,11 @@
 {
   "Medium": "Illustrated book with twelve lithographs (die-cut for possible removal), with china-marker and/or pencil additions", 
-  "Dimensions": "page  19 x 25 9/16\" (48 x 65 cm)  Prints:  various dimensions.", 
+  "Dimensions": "page  19 x 25 9/16\" (48 x 65 cm)\r\nPrints:  various dimensions.", 
   "Classification": "Illustrated Book", 
   "Artist": "Richard Tuttle", 
   "URL": "http://www.moma.org/collection/works/10348", 
   "CuratorApproved": "Y", 
-  "Title": "Interlude", 
-  "DateAcquired": "1975-01-07", 
+  "CreditLine": "Purchase", 
   "Date": "1974", 
   "ArtistID": 5983, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "31.1975.1-12", 
-  "ArtistBio": "American, born 1941", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, born 1941)", 
+  "DateAcquired": "1975-01-07", 
+  "\ufeffTitle": "Interlude", 
   "ObjectID": "10348"
 }

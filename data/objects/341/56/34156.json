@@ -5,8 +5,7 @@
   "Artist": "Peter Saul", 
   "URL": "http://www.moma.org/collection/works/34156", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1963-02-13", 
+  "CreditLine": "Gift of Allan Frumkin", 
   "Date": "1961", 
   "ArtistID": 5178, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "119.1963", 
-  "ArtistBio": "American, born 1934", 
-  "CreditLine": "Gift of Allan Frumkin", 
+  "ArtistBio": "(American, born 1934)", 
+  "DateAcquired": "1963-02-13", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "34156"
 }

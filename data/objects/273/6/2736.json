@@ -1,12 +1,11 @@
 {
   "Medium": "Steel", 
-  "Dimensions": ".1 (outside spring): 9\" (22.9 cm)  .2 (inside spring): 9 1/4\" (23.5 cm)", 
+  "Dimensions": ".1 (outside spring): 9\" (22.9 cm)\r\n.2 (inside spring): 9 1/4\" (23.5 cm)", 
   "Classification": "A&D Design", 
   "Artist": "The L.S. Starrett Co., Athol, MA", 
   "URL": "http://www.moma.org/collection/works/2736", 
   "CuratorApproved": "Y", 
-  "Title": "Spring Calipers", 
-  "DateAcquired": "1958-12-04", 
+  "CreditLine": "Gift of the manufacturer", 
   "Date": "c. 1948-58", 
   "Keywords": [
     "online art collection", 
@@ -20,7 +19,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "217.1958.1-2", 
-  "ArtistBio": "American, founded 1880", 
-  "CreditLine": "Gift of the manufacturer", 
+  "ArtistBio": "(American, founded 1880)", 
+  "DateAcquired": "1958-12-04", 
+  "\ufeffTitle": "Spring Calipers", 
   "ObjectID": "2736"
 }

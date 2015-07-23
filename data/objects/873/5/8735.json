@@ -5,8 +5,7 @@
   "Artist": "Wim Crouwel", 
   "URL": "http://www.moma.org/collection/works/8735", 
   "CuratorApproved": "Y", 
-  "Title": "Stedelijk Museum Amsterdam, 5 April t/m 23 Juni 1968, Vorm Gevers", 
-  "DateAcquired": "1968-10-07", 
+  "CreditLine": "Gift of the designer", 
   "Date": "1968", 
   "ArtistID": 1314, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "1285.1968", 
-  "ArtistBio": "Dutch, born 1928", 
-  "CreditLine": "Gift of the designer", 
+  "ArtistBio": "(Dutch, born 1928)", 
+  "DateAcquired": "1968-10-07", 
+  "\ufeffTitle": "Stedelijk Museum Amsterdam, 5 April t/m 23 Juni 1968, Vorm Gevers", 
   "ObjectID": "8735"
 }

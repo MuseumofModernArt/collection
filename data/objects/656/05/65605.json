@@ -5,8 +5,7 @@
   "Artist": "Georg Ehrlich", 
   "URL": "http://www.moma.org/collection/works/65605", 
   "CuratorApproved": "Y", 
-  "Title": "Singing Blind Woman", 
-  "DateAcquired": "1950-10-11", 
+  "CreditLine": "Gift of Mr. and Mrs. Justin K. Thannhauser", 
   "Date": "unknown", 
   "ArtistID": 1693, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "267.1950", 
-  "ArtistBio": "British, born Austria. 1897\u20131966", 
-  "CreditLine": "Gift of Mr. and Mrs. Justin K. Thannhauser", 
+  "ArtistBio": "(British, born Austria. 1897\u20131966)", 
+  "DateAcquired": "1950-10-11", 
+  "\ufeffTitle": "Singing Blind Woman (Singende Blinde)", 
   "ObjectID": "65605"
 }

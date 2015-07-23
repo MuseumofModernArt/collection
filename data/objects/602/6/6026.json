@@ -5,8 +5,7 @@
   "Artist": "Niklaus Troxler", 
   "URL": "http://www.moma.org/collection/works/6026", 
   "CuratorApproved": "Y", 
-  "Title": "McCoy Tyner Sextet", 
-  "DateAcquired": "1986-10-07", 
+  "CreditLine": "Gift of The Lauder Foundation, Leonard and Evelyn Lauder Fund", 
   "Date": "1980", 
   "ArtistID": 5940, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "277.1986", 
-  "ArtistBio": "Swiss, born 1947", 
-  "CreditLine": "Gift of The Lauder Foundation, Leonard and Evelyn Lauder Fund", 
+  "ArtistBio": "(Swiss, born 1947)", 
+  "DateAcquired": "1986-10-07", 
+  "\ufeffTitle": "McCoy Tyner Sextet", 
   "ObjectID": "6026"
 }

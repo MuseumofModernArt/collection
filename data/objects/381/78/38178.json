@@ -5,8 +5,7 @@
   "Artist": "Chris Hendrik Beekman", 
   "URL": "http://www.moma.org/collection/works/38178", 
   "CuratorApproved": "Y", 
-  "Title": "Composition", 
-  "DateAcquired": "1985-09-10", 
+  "CreditLine": "The Riklis Collection of McCrory Corporation", 
   "Date": "(1920)", 
   "ArtistID": 433, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "852.1983", 
-  "ArtistBio": "Dutch, 1887\u20131964", 
-  "CreditLine": "The Riklis Collection of McCrory Corporation", 
+  "ArtistBio": "(Dutch, 1887\u20131964)", 
+  "DateAcquired": "1985-09-10", 
+  "\ufeffTitle": "Composition", 
   "ObjectID": "38178"
 }

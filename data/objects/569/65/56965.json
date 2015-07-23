@@ -5,8 +5,7 @@
   "Artist": "Robert Adams", 
   "URL": "http://www.moma.org/collection/works/56965", 
   "CuratorApproved": "Y", 
-  "Title": "Construction Materials: A New Tract. Denver, Colorado", 
-  "DateAcquired": "1996-12-10", 
+  "CreditLine": "Gift of the photographer", 
   "Date": "1973", 
   "ArtistID": 66, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "852.1996", 
-  "ArtistBio": "American, born 1937", 
-  "CreditLine": "Gift of the photographer", 
+  "ArtistBio": "(American, born 1937)", 
+  "DateAcquired": "1996-12-10", 
+  "\ufeffTitle": "Construction Materials: A New Tract. Denver, Colorado", 
   "ObjectID": "56965"
 }

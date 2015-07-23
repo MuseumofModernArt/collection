@@ -5,8 +5,7 @@
   "Artist": "Marc Chagall", 
   "URL": "http://www.moma.org/collection/works/5610", 
   "CuratorApproved": "Y", 
-  "Title": "Bible, Marc Chagall, Verve 33-34", 
-  "DateAcquired": "1968-03-07", 
+  "CreditLine": "Gift of Mourlot Freres", 
   "Date": "1956", 
   "ArtistID": 1055, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "188.1968", 
-  "ArtistBio": "French, born Belarus. 1887\u20131985", 
-  "CreditLine": "Gift of Mourlot Freres", 
+  "ArtistBio": "(French, born Belarus. 1887\u20131985)", 
+  "DateAcquired": "1968-03-07", 
+  "\ufeffTitle": "Bible, Marc Chagall, Verve 33-34", 
   "ObjectID": "5610"
 }

@@ -5,8 +5,7 @@
   "Artist": "James Edward Davis", 
   "URL": "http://www.moma.org/collection/works/46853", 
   "CuratorApproved": "Y", 
-  "Title": "Light Reflections Number 19", 
-  "DateAcquired": "1959-04-22", 
+  "CreditLine": "Gift of the photographer", 
   "Date": "1958", 
   "ArtistID": 1408, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "143.1959", 
-  "ArtistBio": "American, 1901\u20131974", 
-  "CreditLine": "Gift of the photographer", 
+  "ArtistBio": "(American, 1901\u20131974)", 
+  "DateAcquired": "1959-04-22", 
+  "\ufeffTitle": "Light Reflections Number 19", 
   "ObjectID": "46853"
 }

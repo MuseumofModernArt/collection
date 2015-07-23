@@ -5,8 +5,7 @@
   "Artist": "Armando Testa", 
   "URL": "http://www.moma.org/collection/works/8854", 
   "CuratorApproved": "Y", 
-  "Title": "37 Salone Internazionale dell'Automobile", 
-  "DateAcquired": "2000-12-11", 
+  "CreditLine": "Gift of the designer", 
   "Date": "1954", 
   "ArtistID": 8257, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "1558.2000", 
-  "ArtistBio": "Italian, born 1917", 
-  "CreditLine": "Gift of the designer", 
+  "ArtistBio": "(Italian, born 1917)", 
+  "DateAcquired": "2000-12-11", 
+  "\ufeffTitle": "37 Salone Internazionale dell'Automobile", 
   "ObjectID": "8854"
 }

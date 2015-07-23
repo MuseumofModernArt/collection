@@ -5,8 +5,7 @@
   "Artist": "Mario Sironi", 
   "URL": "http://www.moma.org/collection/works/34812", 
   "CuratorApproved": "Y", 
-  "Title": "Mannequin", 
-  "DateAcquired": "1962-05-08", 
+  "CreditLine": "John S. Newberry Collection", 
   "Date": "(c. 1918)", 
   "ArtistID": 5455, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "151.1962", 
-  "ArtistBio": "Italian, 1885\u20131961", 
-  "CreditLine": "John S. Newberry Collection", 
+  "ArtistBio": "(Italian, 1885\u20131961)", 
+  "DateAcquired": "1962-05-08", 
+  "\ufeffTitle": "Mannequin", 
   "ObjectID": "34812"
 }

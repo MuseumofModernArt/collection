@@ -1,12 +1,11 @@
 {
   "Medium": "Photoetching, aquatint and etching", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "Robert Rauschenberg", 
   "URL": "http://www.moma.org/collection/works/60057", 
   "CuratorApproved": "Y", 
-  "Title": "Bellini #4", 
-  "DateAcquired": "1989-01-18", 
+  "CreditLine": "Gift of Emily Fisher Landau", 
   "Date": "1988", 
   "ArtistID": 4823, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "18.1989", 
-  "ArtistBio": "American, 1925\u20132008", 
-  "CreditLine": "Gift of Emily Fisher Landau", 
+  "ArtistBio": "(American, 1925\u20132008)", 
+  "DateAcquired": "1989-01-18", 
+  "\ufeffTitle": "Bellini #4", 
   "ObjectID": "60057"
 }

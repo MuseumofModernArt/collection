@@ -5,8 +5,7 @@
   "Artist": "Sam Falk/The New York Times", 
   "URL": "http://www.moma.org/collection/works/58585", 
   "CuratorApproved": "Y", 
-  "Title": "10:50 P.M.- And So Back Home (Mayor La Guardia)", 
-  "DateAcquired": "2001-06-14", 
+  "CreditLine": "The New York Times Collection", 
   "Date": "October 1941", 
   "ArtistID": 8536, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "1992.2001", 
-  "ArtistBio": "American, 1901\u20131991", 
-  "CreditLine": "The New York Times Collection", 
+  "ArtistBio": "(American, 1901\u20131991)", 
+  "DateAcquired": "2001-06-14", 
+  "\ufeffTitle": "10:50 P.M.- And So Back Home (Mayor La Guardia)", 
   "ObjectID": "58585"
 }

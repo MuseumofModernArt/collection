@@ -5,8 +5,7 @@
   "Artist": "Arnold Newman", 
   "URL": "http://www.moma.org/collection/works/54281", 
   "CuratorApproved": "Y", 
-  "Title": "Alberto Burri", 
-  "DateAcquired": "1959-04-22", 
+  "CreditLine": "Gift of the photographer", 
   "Date": "1955", 
   "ArtistID": 4284, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "490.1959", 
-  "ArtistBio": "American, 1918\u20132006", 
-  "CreditLine": "Gift of the photographer", 
+  "ArtistBio": "(American, 1918\u20132006)", 
+  "DateAcquired": "1959-04-22", 
+  "\ufeffTitle": "Alberto Burri", 
   "ObjectID": "54281"
 }

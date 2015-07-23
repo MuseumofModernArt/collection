@@ -5,8 +5,7 @@
   "Artist": "Paul Klee", 
   "URL": "http://www.moma.org/collection/works/34149", 
   "CuratorApproved": "Y", 
-  "Title": "Intoxication", 
-  "DateAcquired": "1986-02-27", 
+  "CreditLine": "Gift of Gertrud A. Mellon in memory of her son, Karl N. Mellon", 
   "Date": "1939", 
   "ArtistID": 3130, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "118.1986", 
-  "ArtistBio": "German, born Switzerland. 1879\u20131940", 
-  "CreditLine": "Gift of Gertrud A. Mellon in memory of her son, Karl N. Mellon", 
+  "ArtistBio": "(German, born Switzerland. 1879\u20131940)", 
+  "DateAcquired": "1986-02-27", 
+  "\ufeffTitle": "Intoxication (Im Rausch)", 
   "ObjectID": "34149"
 }

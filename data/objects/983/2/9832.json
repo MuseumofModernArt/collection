@@ -5,8 +5,7 @@
   "Artist": "Terry Winters", 
   "URL": "http://www.moma.org/collection/works/9832", 
   "CuratorApproved": "Y", 
-  "Title": "Fourteen Etchings 4", 
-  "DateAcquired": "1990-01-16", 
+  "CreditLine": "Gift of Emily Fisher Landau", 
   "Date": "1989", 
   "ArtistID": 6408, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "24.1990.4", 
-  "ArtistBio": "American, born 1949", 
-  "CreditLine": "Gift of Emily Fisher Landau", 
+  "ArtistBio": "(American, born 1949)", 
+  "DateAcquired": "1990-01-16", 
+  "\ufeffTitle": "Fourteen Etchings 4", 
   "ObjectID": "9832"
 }

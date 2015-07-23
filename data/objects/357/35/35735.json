@@ -5,8 +5,7 @@
   "Artist": "Jean Dubuffet", 
   "URL": "http://www.moma.org/collection/works/35735", 
   "CuratorApproved": "Y", 
-  "Title": "Personnage (Femme nue)", 
-  "DateAcquired": "1968-04-23", 
+  "CreditLine": "Gift of Joan and Lester Avnet", 
   "Date": "(1951)", 
   "ArtistID": 1633, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "263.1968", 
-  "ArtistBio": "French, 1901\u20131985", 
-  "CreditLine": "Gift of Joan and Lester Avnet", 
+  "ArtistBio": "(French, 1901\u20131985)", 
+  "DateAcquired": "1968-04-23", 
+  "\ufeffTitle": "Personnage (Femme nue)", 
   "ObjectID": "35735"
 }

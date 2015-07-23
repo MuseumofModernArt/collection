@@ -5,8 +5,7 @@
   "Artist": "Georgia O'Keeffe", 
   "URL": "http://www.moma.org/collection/works/33250", 
   "CuratorApproved": "Y", 
-  "Title": "Eagle Claw and Bean Necklace", 
-  "DateAcquired": "1936-01-14", 
+  "CreditLine": "Given anonymously (by exchange)", 
   "Date": "(1934)", 
   "ArtistID": 4360, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "19.1936", 
-  "ArtistBio": "American, 1887\u20131986", 
-  "CreditLine": "Given anonymously (by exchange)", 
+  "ArtistBio": "(American, 1887\u20131986)", 
+  "DateAcquired": "1936-01-14", 
+  "\ufeffTitle": "Eagle Claw and Bean Necklace", 
   "ObjectID": "33250"
 }

@@ -5,8 +5,7 @@
   "Artist": "Michael Ray Charles", 
   "URL": "http://www.moma.org/collection/works/68839", 
   "CuratorApproved": "Y", 
-  "Title": "White Power", 
-  "DateAcquired": "1999-11-18", 
+  "CreditLine": "Ralph E. Shikes Fund", 
   "Date": "1994", 
   "ArtistID": 8120, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "421.1999", 
-  "ArtistBio": "American, born 1967", 
-  "CreditLine": "Ralph E. Shikes Fund", 
+  "ArtistBio": "(American, born 1967)", 
+  "DateAcquired": "1999-11-18", 
+  "\ufeffTitle": "White Power", 
   "ObjectID": "68839"
 }

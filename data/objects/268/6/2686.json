@@ -1,12 +1,11 @@
 {
   "Medium": "Stainless steel", 
-  "Dimensions": ".1: 7 5/8 x 9 5/8\" (19.4 x 24.4cm)  .2: 6 5/8 x 7 7/8\" (16.8 x 20cm)", 
+  "Dimensions": ".1: 7 5/8 x 9 5/8\" (19.4 x 24.4cm)\r\n.2: 6 5/8 x 7 7/8\" (16.8 x 20cm)", 
   "Classification": "A&D Design", 
-  "Artist": "Adriano Lagostina", 
+  "Artist": "Adriano Lagostina, Massimo Lagostina", 
   "URL": "http://www.moma.org/collection/works/2686", 
   "CuratorApproved": "Y", 
-  "Title": "Covered Stockpots", 
-  "DateAcquired": "1968-12-04", 
+  "CreditLine": "Phyllis B. Lambert Fund", 
   "Date": "c. 1936", 
   "ArtistID": 3339, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "211.1958.1-2", 
-  "ArtistBio": "Italian, born 1915", 
-  "CreditLine": "Phyllis B. Lambert Fund", 
+  "ArtistBio": "(Italian, born 1915) (Italian, born 1908)", 
+  "DateAcquired": "1968-12-04", 
+  "\ufeffTitle": "Covered Stockpots", 
   "ObjectID": "2686"
 }

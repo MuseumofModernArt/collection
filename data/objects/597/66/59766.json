@@ -5,8 +5,7 @@
   "Artist": "Hans Hartung", 
   "URL": "http://www.moma.org/collection/works/59766", 
   "CuratorApproved": "Y", 
-  "Title": "Etching #5", 
-  "DateAcquired": "1972-02-07", 
+  "CreditLine": "Given anonymously", 
   "Date": "(1953)", 
   "ArtistID": 2525, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "9.1972", 
-  "ArtistBio": "French, born Germany. 1904\u20131989", 
-  "CreditLine": "Given anonymously", 
+  "ArtistBio": "(French, born Germany. 1904\u20131989)", 
+  "DateAcquired": "1972-02-07", 
+  "\ufeffTitle": "Etching #5", 
   "ObjectID": "59766"
 }

@@ -5,8 +5,7 @@
   "Artist": "Griswold Manufacturing Co., Erie, PA", 
   "URL": "http://www.moma.org/collection/works/4246", 
   "CuratorApproved": "Y", 
-  "Title": "Frying Pan", 
-  "DateAcquired": "1956-10-25", 
+  "CreditLine": "Gift of the manufacturer", 
   "Date": "Before 1956", 
   "Keywords": [
     "online art collection", 
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "498.1956", 
-  "ArtistBio": "American, established 1884", 
-  "CreditLine": "Gift of the manufacturer", 
+  "ArtistBio": "(American, established 1884)", 
+  "DateAcquired": "1956-10-25", 
+  "\ufeffTitle": "Frying Pan", 
   "ObjectID": "4246"
 }

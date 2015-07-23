@@ -5,8 +5,7 @@
   "Artist": "Unknown Artist", 
   "URL": "http://www.moma.org/collection/works/8099", 
   "CuratorApproved": "Y", 
-  "Title": "V Invest", 
-  "DateAcquired": "1963-12-19", 
+  "CreditLine": "Gift of John D. Rockefeller, 3rd", 
   "Date": "c. 1917", 
   "ArtistID": 6026, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "771.1963", 
-  "ArtistBio": "Nationality Unknown", 
-  "CreditLine": "Gift of John D. Rockefeller, 3rd", 
+  "ArtistBio": "(Nationality Unknown)", 
+  "DateAcquired": "1963-12-19", 
+  "\ufeffTitle": "V Invest", 
   "ObjectID": "8099"
 }

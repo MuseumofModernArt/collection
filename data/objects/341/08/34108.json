@@ -5,8 +5,7 @@
   "Artist": "Franti\u0161ek Kupka", 
   "URL": "http://www.moma.org/collection/works/34108", 
   "CuratorApproved": "Y", 
-  "Title": "View from a Carriage Window", 
-  "DateAcquired": "1978-04-04", 
+  "CreditLine": "The Joan and Lester Avnet Collection", 
   "Date": "(c. 1901)", 
   "ArtistID": 3302, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "115.1978", 
-  "ArtistBio": "Czech, 1871\u20131957", 
-  "CreditLine": "The Joan and Lester Avnet Collection", 
+  "ArtistBio": "(Czech, 1871\u20131957)", 
+  "DateAcquired": "1978-04-04", 
+  "\ufeffTitle": "View from a Carriage Window", 
   "ObjectID": "34108"
 }

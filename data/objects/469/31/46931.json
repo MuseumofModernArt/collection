@@ -5,8 +5,7 @@
   "Artist": "Robert Adams", 
   "URL": "http://www.moma.org/collection/works/46931", 
   "CuratorApproved": "Y", 
-  "Title": "Federal Highway 36, North St. Vrain Canyon, Larimer County, Colorado", 
-  "DateAcquired": "1982-05-13", 
+  "CreditLine": "Purchase", 
   "Date": "1979", 
   "ArtistID": 66, 
   "Keywords": [
@@ -21,7 +20,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "151.1982", 
-  "ArtistBio": "American, born 1937", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, born 1937)", 
+  "DateAcquired": "1982-05-13", 
+  "\ufeffTitle": "Federal Highway 36, North St. Vrain Canyon, Larimer County, Colorado", 
   "ObjectID": "46931"
 }

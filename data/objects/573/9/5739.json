@@ -5,8 +5,7 @@
   "Artist": "Erik Nitsche", 
   "URL": "http://www.moma.org/collection/works/5739", 
   "CuratorApproved": "Y", 
-  "Title": "L'Atome au Service de la Paix, General Dynamics", 
-  "DateAcquired": "1956-04-04", 
+  "CreditLine": "Gift of the General Dynamics Corporation", 
   "Date": "1955", 
   "ArtistID": 4311, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "221.1956", 
-  "ArtistBio": "Swiss, 1908\u20131998", 
-  "CreditLine": "Gift of the General Dynamics Corporation", 
+  "ArtistBio": "(Swiss, 1908\u20131998)", 
+  "DateAcquired": "1956-04-04", 
+  "\ufeffTitle": "L'Atome au Service de la Paix, General Dynamics", 
   "ObjectID": "5739"
 }

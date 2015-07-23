@@ -5,8 +5,7 @@
   "Artist": "E. McKnight Kauffer", 
   "URL": "http://www.moma.org/collection/works/4965", 
   "CuratorApproved": "Y", 
-  "Title": "Metropolis", 
-  "DateAcquired": "1961-02-07", 
+  "CreditLine": "Given anonymously", 
   "Date": "1926", 
   "ArtistID": 3020, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "78.1961", 
-  "ArtistBio": "American, 1890\u20131954", 
-  "CreditLine": "Given anonymously", 
+  "ArtistBio": "(American, 1890\u20131954)", 
+  "DateAcquired": "1961-02-07", 
+  "\ufeffTitle": "Metropolis", 
   "ObjectID": "4965"
 }

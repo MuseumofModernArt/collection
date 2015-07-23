@@ -5,8 +5,7 @@
   "Artist": "Frank Paulin", 
   "URL": "http://www.moma.org/collection/works/54649", 
   "CuratorApproved": "Y", 
-  "Title": "Times Square", 
-  "DateAcquired": "1996-10-08", 
+  "CreditLine": "Arthur M. Bullowa Fund", 
   "Date": "1954", 
   "ArtistID": 7646, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "519.1996", 
-  "ArtistBio": "American, born 1926", 
-  "CreditLine": "Arthur M. Bullowa Fund", 
+  "ArtistBio": "(American, born 1926)", 
+  "DateAcquired": "1996-10-08", 
+  "\ufeffTitle": "Times Square", 
   "ObjectID": "54649"
 }

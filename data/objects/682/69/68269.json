@@ -1,12 +1,11 @@
 {
   "Medium": "Etching and drypoint", 
-  "Dimensions": "plate  23 13/16 x 17 13/16\" (60.5 x 45.2 cm)  sheet  31 x 22 3/8\" (78 x 56.9 cm)", 
+  "Dimensions": "plate  23 13/16 x 17 13/16\" (60.5 x 45.2 cm)\r\nsheet  31 x 22 3/8\" (78 x 56.9 cm)", 
   "Classification": "Print", 
   "Artist": "Thomas L\u00fcchinger", 
   "URL": "http://www.moma.org/collection/works/68269", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled from an untitled portfolio", 
-  "DateAcquired": "1987-10-20", 
+  "CreditLine": "Walter Bareiss Fund", 
   "Date": "1986", 
   "ArtistID": 3624, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "387.1987", 
-  "ArtistBio": "Swiss, born 1953", 
-  "CreditLine": "Walter Bareiss Fund", 
+  "ArtistBio": "(Swiss, born 1953)", 
+  "DateAcquired": "1987-10-20", 
+  "\ufeffTitle": "Untitled from an untitled portfolio", 
   "ObjectID": "68269"
 }

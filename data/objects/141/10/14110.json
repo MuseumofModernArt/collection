@@ -5,8 +5,7 @@
   "Artist": "Raymond Pettibon", 
   "URL": "http://www.moma.org/collection/works/14110", 
   "CuratorApproved": "Y", 
-  "Title": "Up The Threshold", 
-  "DateAcquired": "1997-05-28", 
+  "CreditLine": "Purchase", 
   "Date": "1992", 
   "ArtistID": 7500, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "238.1997", 
-  "ArtistBio": "American, born 1957", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, born 1957)", 
+  "DateAcquired": "1997-05-28", 
+  "\ufeffTitle": "Up The Threshold", 
   "ObjectID": "14110"
 }

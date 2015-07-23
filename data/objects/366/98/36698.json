@@ -5,8 +5,7 @@
   "Artist": "Marino Marini", 
   "URL": "http://www.moma.org/collection/works/36698", 
   "CuratorApproved": "Y", 
-  "Title": "Horseman", 
-  "DateAcquired": "1949-09-29", 
+  "CreditLine": "Purchase", 
   "Date": "(1947-48)", 
   "ArtistID": 3772, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "344.1949", 
-  "ArtistBio": "Italian, 1901\u20131980", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(Italian, 1901\u20131980)", 
+  "DateAcquired": "1949-09-29", 
+  "\ufeffTitle": "Horseman", 
   "ObjectID": "36698"
 }

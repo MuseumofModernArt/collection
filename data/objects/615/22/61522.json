@@ -1,12 +1,11 @@
 {
   "Medium": "Woodcut", 
-  "Dimensions": "composition  9 13/16 x 16 5/16\" (25 x 41.5 cm)  sheet  11 5/8 x 18 1/8\" (29 x 46 cm)", 
+  "Dimensions": "composition  9 13/16 x 16 5/16\" (25 x 41.5 cm)\r\nsheet  11 5/8 x 18 1/8\" (29 x 46 cm)", 
   "Classification": "Print", 
   "Artist": "Alex Katz", 
   "URL": "http://www.moma.org/collection/works/61522", 
   "CuratorApproved": "Y", 
-  "Title": "Black Pond (for Parkett no. 21)", 
-  "DateAcquired": "1998-03-05", 
+  "CreditLine": "Riva Castleman Endowment Fund, Lily Auchincloss Fund, and Gift of Parkett", 
   "Date": "1989", 
   "ArtistID": 3016, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "80.1998.1", 
-  "ArtistBio": "American, born 1927", 
-  "CreditLine": "Riva Castleman Endowment Fund, Lily Auchincloss Fund, and Gift of Parkett", 
+  "ArtistBio": "(American, born 1927)", 
+  "DateAcquired": "1998-03-05", 
+  "\ufeffTitle": "Black Pond (for Parkett no. 21)", 
   "ObjectID": "61522"
 }

@@ -5,8 +5,7 @@
   "Artist": "Johann Hahn", 
   "URL": "http://www.moma.org/collection/works/48328", 
   "CuratorApproved": "Y", 
-  "Title": "Hangman Bridge, Nuremberg", 
-  "DateAcquired": "NULL", 
+  "CreditLine": "Gift of Celeste Bartos", 
   "Date": "1871", 
   "ArtistID": 2453, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "199.1975.29", 
-  "ArtistBio": "Austrian, 1840\u20131900", 
-  "CreditLine": "Gift of Celeste Bartos", 
+  "ArtistBio": "(Austrian, 1840\u20131900)", 
+  "DateAcquired": "", 
+  "\ufeffTitle": "Hangman Bridge, Nuremberg", 
   "ObjectID": "48328"
 }

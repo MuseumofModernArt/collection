@@ -5,8 +5,7 @@
   "Artist": "Jan Lenica", 
   "URL": "http://www.moma.org/collection/works/8786", 
   "CuratorApproved": "Y", 
-  "Title": "Teatr Wielki, Otello, Verdi", 
-  "DateAcquired": "2000-12-11", 
+  "CreditLine": "Gift of the designer", 
   "Date": "1968", 
   "ArtistID": 3480, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "1488.2000", 
-  "ArtistBio": "Polish, 1928\u20132001", 
-  "CreditLine": "Gift of the designer", 
+  "ArtistBio": "(Polish, 1928\u20132001)", 
+  "DateAcquired": "2000-12-11", 
+  "\ufeffTitle": "Teatr Wielki, Otello, Verdi", 
   "ObjectID": "8786"
 }

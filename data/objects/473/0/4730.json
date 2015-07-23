@@ -1,12 +1,11 @@
 {
   "Medium": "Epoxy-finished oval steel tube, polycarbonate, and polyurethane", 
-  "Dimensions": "open: 35 x 16 1/2 x 24\" (88.9 x 41.9 x 61 cm)  closed: 28 3/4 x 16 1/2 x 2 1/2\" (73 x 41.9 x 6.4 cm)", 
+  "Dimensions": "open: 35 x 16 1/2 x 24\" (88.9 x 41.9 x 61 cm)\r\nclosed: 28 3/4 x 16 1/2 x 2 1/2\" (73 x 41.9 x 6.4 cm)", 
   "Classification": "A&D Design", 
   "Artist": "Andries Van Onck", 
   "URL": "http://www.moma.org/collection/works/4730", 
   "CuratorApproved": "Y", 
-  "Title": "Tiramis\u00f9 Stepladder", 
-  "DateAcquired": "2000-12-11", 
+  "CreditLine": "Gift of the manufacturer", 
   "Date": "1991", 
   "ArtistID": 8436, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "1435.2000", 
-  "ArtistBio": "Dutch, born 1928", 
-  "CreditLine": "Gift of the manufacturer", 
+  "ArtistBio": "(Dutch, born 1928)", 
+  "DateAcquired": "2000-12-11", 
+  "\ufeffTitle": "Tiramis\u00f9 Stepladder", 
   "ObjectID": "4730"
 }

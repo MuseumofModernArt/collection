@@ -5,8 +5,7 @@
   "Artist": "Henri Cartier-Bresson", 
   "URL": "http://www.moma.org/collection/works/58569", 
   "CuratorApproved": "Y", 
-  "Title": "Shanghai", 
-  "DateAcquired": "2001-06-14", 
+  "CreditLine": "The New York Times Collection", 
   "Date": "1949", 
   "ArtistID": 1000, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "1976.2001", 
-  "ArtistBio": "French, 1908\u20132004", 
-  "CreditLine": "The New York Times Collection", 
+  "ArtistBio": "(French, 1908\u20132004)", 
+  "DateAcquired": "2001-06-14", 
+  "\ufeffTitle": "Shanghai", 
   "ObjectID": "58569"
 }

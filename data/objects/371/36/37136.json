@@ -5,8 +5,7 @@
   "Artist": "Lloyd Goldsmith", 
   "URL": "http://www.moma.org/collection/works/37136", 
   "CuratorApproved": "Y", 
-  "Title": "View in Brooklyn", 
-  "DateAcquired": "1976-10-28", 
+  "CreditLine": "Gift of The J. M. Kaplan Fund, Inc.", 
   "Date": "1975", 
   "ArtistID": 2220, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "487.1976", 
-  "ArtistBio": "American, born 1945", 
-  "CreditLine": "Gift of The J. M. Kaplan Fund, Inc.", 
+  "ArtistBio": "(American, born 1945)", 
+  "DateAcquired": "1976-10-28", 
+  "\ufeffTitle": "View in Brooklyn", 
   "ObjectID": "37136"
 }

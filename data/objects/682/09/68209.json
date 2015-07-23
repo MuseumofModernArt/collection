@@ -5,8 +5,7 @@
   "Artist": "Charles Sheeler", 
   "URL": "http://www.moma.org/collection/works/68209", 
   "CuratorApproved": "Y", 
-  "Title": "Barn Abstraction", 
-  "DateAcquired": "1956-10-25", 
+  "CreditLine": "Abby Aldrich Rockefeller Fund", 
   "Date": "1918", 
   "ArtistID": 5383, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "385.1956", 
-  "ArtistBio": "American, 1883\u20131965", 
-  "CreditLine": "Abby Aldrich Rockefeller Fund", 
+  "ArtistBio": "(American, 1883\u20131965)", 
+  "DateAcquired": "1956-10-25", 
+  "\ufeffTitle": "Barn Abstraction", 
   "ObjectID": "68209"
 }

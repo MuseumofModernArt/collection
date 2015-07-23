@@ -5,8 +5,7 @@
   "Artist": "International News Photo", 
   "URL": "http://www.moma.org/collection/works/58616", 
   "CuratorApproved": "Y", 
-  "Title": "Trotsky, Bolshevist Minister of War, Photographed Recently in His Office at Moscow", 
-  "DateAcquired": "2001-06-14", 
+  "CreditLine": "The New York Times Collection", 
   "Date": "1922", 
   "ArtistID": 8560, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "2023.2001", 
-  "ArtistBio": "NULL", 
-  "CreditLine": "The New York Times Collection", 
+  "ArtistBio": "", 
+  "DateAcquired": "2001-06-14", 
+  "\ufeffTitle": "\"Trotsky, Bolshevist Minister of War, Photographed Recently in His Office at Moscow\"", 
   "ObjectID": "58616"
 }

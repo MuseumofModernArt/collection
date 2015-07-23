@@ -5,8 +5,7 @@
   "Artist": "Arthur Brower/The New York Times", 
   "URL": "http://www.moma.org/collection/works/58557", 
   "CuratorApproved": "Y", 
-  "Title": "Subway Crash on the IRT, Mosholu Parkway Station", 
-  "DateAcquired": "2001-06-14", 
+  "CreditLine": "The New York Times Collection", 
   "Date": "October 23, 1952", 
   "ArtistID": 8516, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "1964.2001", 
-  "ArtistBio": "American, 1916\u20131974", 
-  "CreditLine": "The New York Times Collection", 
+  "ArtistBio": "(American, 1916\u20131974)", 
+  "DateAcquired": "2001-06-14", 
+  "\ufeffTitle": "Subway Crash on the IRT, Mosholu Parkway Station", 
   "ObjectID": "58557"
 }

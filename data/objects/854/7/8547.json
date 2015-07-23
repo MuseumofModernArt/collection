@@ -5,8 +5,7 @@
   "Artist": "Augustin Tschinkel", 
   "URL": "http://www.moma.org/collection/works/8547", 
   "CuratorApproved": "Y", 
-  "Title": "Ceska osveta, Ceskoslovensky obzor lidovychovny, Rocnik XXX, Zari 1933, Cislo 1", 
-  "DateAcquired": "1999-12-10", 
+  "CreditLine": "Jan Tschichold Collection, Gift of Philip Johnson", 
   "Date": "1933", 
   "ArtistID": 5952, 
   "Keywords": [
@@ -21,7 +20,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "1071.1999", 
-  "ArtistBio": "Czech, born 1905", 
-  "CreditLine": "Jan Tschichold Collection, Gift of Philip Johnson", 
+  "ArtistBio": "(Czech, born 1905)", 
+  "DateAcquired": "1999-12-10", 
+  "\ufeffTitle": "Ceska osveta, Ceskoslovensky obzor lidovychovny, Rocnik XXX, Zari 1933, Cislo 1", 
   "ObjectID": "8547"
 }

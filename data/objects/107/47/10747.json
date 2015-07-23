@@ -5,8 +5,7 @@
   "Artist": "Kazimir Malevich", 
   "URL": "http://www.moma.org/collection/works/10747", 
   "CuratorApproved": "Y", 
-  "Title": "Porosiata", 
-  "DateAcquired": "2001-01-24", 
+  "CreditLine": "Gift of The Judith Rothschild Foundation", 
   "Date": "1913", 
   "ArtistID": 3710, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "49.2001.1-2", 
-  "ArtistBio": "Russian, born Ukraine. 1878\u20131935", 
-  "CreditLine": "Gift of The Judith Rothschild Foundation", 
+  "ArtistBio": "(Russian, born Ukraine. 1878\u20131935)", 
+  "DateAcquired": "2001-01-24", 
+  "\ufeffTitle": "Porosiata (Piglets)", 
   "ObjectID": "10747"
 }

@@ -5,8 +5,7 @@
   "Artist": "Pablo Picasso", 
   "URL": "http://www.moma.org/collection/works/33508", 
   "CuratorApproved": "Y", 
-  "Title": "Guitar", 
-  "DateAcquired": "1985-03-08", 
+  "CreditLine": "Gift of Donald B. Marron", 
   "Date": "Paris, December 1912", 
   "ArtistID": 4609, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "48.1985", 
-  "ArtistBio": "Spanish, 1881\u20131973", 
-  "CreditLine": "Gift of Donald B. Marron", 
+  "ArtistBio": "(Spanish, 1881\u20131973)", 
+  "DateAcquired": "1985-03-08", 
+  "\ufeffTitle": "Guitar", 
   "ObjectID": "33508"
 }

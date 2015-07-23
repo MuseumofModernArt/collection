@@ -5,8 +5,7 @@
   "Artist": "Walter Chappell", 
   "URL": "http://www.moma.org/collection/works/53583", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1973-11-13", 
+  "CreditLine": "Gift of Robert M. Doty", 
   "Date": "1960", 
   "ArtistID": 1070, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "454.1973", 
-  "ArtistBio": "American, born 1925", 
-  "CreditLine": "Gift of Robert M. Doty", 
+  "ArtistBio": "(American, born 1925)", 
+  "DateAcquired": "1973-11-13", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "53583"
 }

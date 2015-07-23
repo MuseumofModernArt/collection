@@ -5,8 +5,7 @@
   "Artist": "Ben Shahn", 
   "URL": "http://www.moma.org/collection/works/32961", 
   "CuratorApproved": "Y", 
-  "Title": "Pacific Landscape", 
-  "DateAcquired": "1950-01-01", 
+  "CreditLine": "Gift of Philip L. Goodwin", 
   "Date": "(1945)", 
   "ArtistID": 5366, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "1.1950", 
-  "ArtistBio": "American, born Lithuania. 1898\u20131969", 
-  "CreditLine": "Gift of Philip L. Goodwin", 
+  "ArtistBio": "(American, born Lithuania. 1898\u20131969)", 
+  "DateAcquired": "1950-01-01", 
+  "\ufeffTitle": "Pacific Landscape", 
   "ObjectID": "32961"
 }

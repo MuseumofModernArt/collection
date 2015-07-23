@@ -5,8 +5,7 @@
   "Artist": "Jerome Liebling", 
   "URL": "http://www.moma.org/collection/works/52482", 
   "CuratorApproved": "Y", 
-  "Title": "Minneapolis Skid Row", 
-  "DateAcquired": "1997-10-09", 
+  "CreditLine": "Gift of Jane Katcher in honor of Agnes Gund", 
   "Date": "1960", 
   "ArtistID": 3549, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "394.1997", 
-  "ArtistBio": "American, 1924\u20132011", 
-  "CreditLine": "Gift of Jane Katcher in honor of Agnes Gund", 
+  "ArtistBio": "(American, 1924\u20132011)", 
+  "DateAcquired": "1997-10-09", 
+  "\ufeffTitle": "Minneapolis Skid Row", 
   "ObjectID": "52482"
 }

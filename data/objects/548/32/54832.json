@@ -1,12 +1,11 @@
 {
   "Medium": "Platinum print", 
-  "Dimensions": "11 1/2 x 8 7/8\" (29.2 x 22.5 cm)  ", 
+  "Dimensions": "11 1/2 x 8 7/8\" (29.2 x 22.5 cm)\r\n", 
   "Classification": "Photograph", 
   "Artist": "Gertrude K\u00e4sebier", 
   "URL": "http://www.moma.org/collection/works/54832", 
   "CuratorApproved": "Y", 
-  "Title": "Gerson Sisters", 
-  "DateAcquired": "1964-06-15", 
+  "CreditLine": "Gift of Mrs. Hermine M. Turner", 
   "Date": "1906", 
   "ArtistID": 3008, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "536.1964", 
-  "ArtistBio": "American, 1852\u20131934", 
-  "CreditLine": "Gift of Mrs. Hermine M. Turner", 
+  "ArtistBio": "(American, 1852\u20131934)", 
+  "DateAcquired": "1964-06-15", 
+  "\ufeffTitle": "Gerson Sisters", 
   "ObjectID": "54832"
 }

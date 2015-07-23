@@ -5,8 +5,7 @@
   "Artist": "Aaron Siskind", 
   "URL": "http://www.moma.org/collection/works/49291", 
   "CuratorApproved": "Y", 
-  "Title": "Chicago 7", 
-  "DateAcquired": "1979-05-10", 
+  "CreditLine": "Gift of Robert and Joyce Menschel", 
   "Date": "1961", 
   "ArtistID": 5456, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "234.1979", 
-  "ArtistBio": "American, 1903\u20131991", 
-  "CreditLine": "Gift of Robert and Joyce Menschel", 
+  "ArtistBio": "(American, 1903\u20131991)", 
+  "DateAcquired": "1979-05-10", 
+  "\ufeffTitle": "Chicago 7", 
   "ObjectID": "49291"
 }

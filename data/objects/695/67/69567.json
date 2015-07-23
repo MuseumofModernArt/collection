@@ -1,12 +1,11 @@
 {
   "Medium": "Aquatint and carborundum", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "Antoni T\u00e0pies", 
   "URL": "http://www.moma.org/collection/works/69567", 
   "CuratorApproved": "Y", 
-  "Title": "Material and Graffiti (Mati\u00e8re et Graffiti)", 
-  "DateAcquired": "1990-10-23", 
+  "CreditLine": "Anonymous gift", 
   "Date": "1969", 
   "ArtistID": 5809, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "461.1990", 
-  "ArtistBio": "Spanish, 1923\u20132012", 
-  "CreditLine": "Anonymous gift", 
+  "ArtistBio": "(Spanish, 1923\u20132012)", 
+  "DateAcquired": "1990-10-23", 
+  "\ufeffTitle": "Material and Graffiti (Mati\u00e8re et Graffiti)", 
   "ObjectID": "69567"
 }

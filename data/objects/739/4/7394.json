@@ -5,8 +5,7 @@
   "Artist": "Leo Lionni", 
   "URL": "http://www.moma.org/collection/works/7394", 
   "CuratorApproved": "Y", 
-  "Title": "Olivetti Lettera 22", 
-  "DateAcquired": "1954-09-30", 
+  "CreditLine": "Gift of the Olivetti Corporation", 
   "Date": "c. 1954", 
   "ArtistID": 3562, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "524.1954.1-4", 
-  "ArtistBio": "American, born Amsterdam. 1910\u20131999", 
-  "CreditLine": "Gift of the Olivetti Corporation", 
+  "ArtistBio": "(American, born Amsterdam. 1910\u20131999)", 
+  "DateAcquired": "1954-09-30", 
+  "\ufeffTitle": "Olivetti Lettera 22", 
   "ObjectID": "7394"
 }

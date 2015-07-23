@@ -5,8 +5,7 @@
   "Artist": "Ludwig Hirschfeld-Mack", 
   "URL": "http://www.moma.org/collection/works/60632", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1977-02-10", 
+  "CreditLine": "Gift of Mrs. Ludwig Hirschfeld", 
   "Date": "1921", 
   "ArtistID": 2669, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "37.1977", 
-  "ArtistBio": "German, 1893\u20131965", 
-  "CreditLine": "Gift of Mrs. Ludwig Hirschfeld", 
+  "ArtistBio": "(German, 1893\u20131965)", 
+  "DateAcquired": "1977-02-10", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "60632"
 }

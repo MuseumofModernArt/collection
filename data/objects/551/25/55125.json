@@ -1,12 +1,11 @@
 {
   "Medium": "Ambrotype with applied color", 
-  "Dimensions": "2 3/4 x 2 5/16\" (7 x 5.8 cm)  ", 
+  "Dimensions": "2 3/4 x 2 5/16\" (7 x 5.8 cm)\r\n", 
   "Classification": "Photograph", 
   "Artist": "Unknown photographer", 
   "URL": "http://www.moma.org/collection/works/55125", 
   "CuratorApproved": "Y", 
-  "Title": "Portrait of Young Man Seated", 
-  "DateAcquired": "1967-06-06", 
+  "CreditLine": "Purchase", 
   "Date": "c. 1865", 
   "ArtistID": 6028, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "559.1967", 
-  "ArtistBio": "NULL", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "", 
+  "DateAcquired": "1967-06-06", 
+  "\ufeffTitle": "Portrait of Young Man Seated", 
   "ObjectID": "55125"
 }

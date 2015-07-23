@@ -5,8 +5,7 @@
   "Artist": "Dorothea Lange", 
   "URL": "http://www.moma.org/collection/works/56444", 
   "CuratorApproved": "Y", 
-  "Title": "Jobless on the Edge of a Peafield, Imperial Valley, California", 
-  "DateAcquired": "1967-11-21", 
+  "CreditLine": "Purchase", 
   "Date": "1937", 
   "ArtistID": 3373, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "797.1968", 
-  "ArtistBio": "American, 1895\u20131965", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, 1895\u20131965)", 
+  "DateAcquired": "1967-11-21", 
+  "\ufeffTitle": "Jobless on the Edge of a Peafield, Imperial Valley, California", 
   "ObjectID": "56444"
 }

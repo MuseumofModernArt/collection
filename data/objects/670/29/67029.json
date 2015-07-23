@@ -1,12 +1,11 @@
 {
   "Medium": "Etching", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "Not Vital", 
   "URL": "http://www.moma.org/collection/works/67029", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled from the portfolio Notes", 
-  "DateAcquired": "1986-10-15", 
+  "CreditLine": "Walter Bareiss Fund", 
   "Date": "1986", 
   "ArtistID": 7917, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "328.1986.1", 
-  "ArtistBio": "Swiss, born 1948", 
-  "CreditLine": "Walter Bareiss Fund", 
+  "ArtistBio": "(Swiss, born 1948)", 
+  "DateAcquired": "1986-10-15", 
+  "\ufeffTitle": "Untitled from the portfolio Notes", 
   "ObjectID": "67029"
 }

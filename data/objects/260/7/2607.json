@@ -1,12 +1,11 @@
 {
   "Medium": "Polyethylene", 
-  "Dimensions": ".1a and .2a (bowls): 3 1/8 x 7 1/4\" (7.9 x 18.4 cm)  .1b and .2b (lids): 2 x 7 1/4\" (5.1 x 18.4 cm)", 
+  "Dimensions": ".1a and .2a (bowls): 3 1/8 x 7 1/4\" (7.9 x 18.4 cm)\r\n.1b and .2b (lids): 2 x 7 1/4\" (5.1 x 18.4 cm)", 
   "Classification": "A&D Design", 
   "Artist": "Gino Colombini", 
   "URL": "http://www.moma.org/collection/works/2607", 
   "CuratorApproved": "Y", 
-  "Title": "Covered Bowls (model KS 1032)", 
-  "DateAcquired": "1958-12-04", 
+  "CreditLine": "Gift of the manufacturer", 
   "Date": "1957", 
   "ArtistID": 1194, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "199.1958.1-2", 
-  "ArtistBio": "Italian, born 1915", 
-  "CreditLine": "Gift of the manufacturer", 
+  "ArtistBio": "(Italian, born 1915)", 
+  "DateAcquired": "1958-12-04", 
+  "\ufeffTitle": "Covered Bowls (model KS 1032)", 
   "ObjectID": "2607"
 }

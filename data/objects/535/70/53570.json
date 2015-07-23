@@ -5,8 +5,7 @@
   "Artist": "Bruce Davidson", 
   "URL": "http://www.moma.org/collection/works/53570", 
   "CuratorApproved": "Y", 
-  "Title": "Secaucus, New Jersey", 
-  "DateAcquired": "1966-10-11", 
+  "CreditLine": "Gift of the photographer", 
   "Date": "1965", 
   "ArtistID": 1398, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "453.1966", 
-  "ArtistBio": "American, born 1933", 
-  "CreditLine": "Gift of the photographer", 
+  "ArtistBio": "(American, born 1933)", 
+  "DateAcquired": "1966-10-11", 
+  "\ufeffTitle": "Secaucus, New Jersey", 
   "ObjectID": "53570"
 }

@@ -1,12 +1,11 @@
 {
   "Medium": "Illustrated book with five drypoints (one with aquatint) with pencil and colored pencil additions", 
-  "Dimensions": "irreg. page  5 5/16 x 5 11/16\" (13 x 14.5 cm)  Prints:  various dimensions.", 
+  "Dimensions": "irreg. page  5 5/16 x 5 11/16\" (13 x 14.5 cm)\r\nPrints:  various dimensions.", 
   "Classification": "Illustrated Book", 
   "Artist": "Pat Steir", 
   "URL": "http://www.moma.org/collection/works/13141", 
   "CuratorApproved": "Y", 
-  "Title": "Word", 
-  "DateAcquired": "1981-05-06", 
+  "CreditLine": "Purchase", 
   "Date": "1980.  (Prints executed 1977).", 
   "ArtistID": 5637, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "185.1981.1-5", 
-  "ArtistBio": "American, born 1940", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, born 1940)", 
+  "DateAcquired": "1981-05-06", 
+  "\ufeffTitle": "Word", 
   "ObjectID": "13141"
 }

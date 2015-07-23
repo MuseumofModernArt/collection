@@ -5,8 +5,7 @@
   "Artist": "Bill Beckley", 
   "URL": "http://www.moma.org/collection/works/37710", 
   "CuratorApproved": "Y", 
-  "Title": "Hot and Cold Faucets with Drain", 
-  "DateAcquired": "1983-11-04", 
+  "CreditLine": "Gift of Norman Dubrow", 
   "Date": "1975", 
   "ArtistID": 428, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "651.1983", 
-  "ArtistBio": "American, born 1946", 
-  "CreditLine": "Gift of Norman Dubrow", 
+  "ArtistBio": "(American, born 1946)", 
+  "DateAcquired": "1983-11-04", 
+  "\ufeffTitle": "Hot and Cold Faucets with Drain", 
   "ObjectID": "37710"
 }

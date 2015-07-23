@@ -1,12 +1,11 @@
 {
   "Medium": "Lithograph", 
-  "Dimensions": "irreg composition  28 1/4 x 20 1/4\" (71.7 x 51.4 cm)  sheet  32 1/8 x 24\" (81.6 x 61 cm)", 
+  "Dimensions": "irreg composition  28 1/4 x 20 1/4\" (71.7 x 51.4 cm)\r\nsheet  32 1/8 x 24\" (81.6 x 61 cm)", 
   "Classification": "Print", 
   "Artist": "Jacob Kainen", 
   "URL": "http://www.moma.org/collection/works/67105", 
   "CuratorApproved": "Y", 
-  "Title": "Tblisi Rose", 
-  "DateAcquired": "1973-10-24", 
+  "CreditLine": "Gift of the artist", 
   "Date": "1973", 
   "ArtistID": 2968, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "332.1973", 
-  "ArtistBio": "American, 1909\u20132001", 
-  "CreditLine": "Gift of the artist", 
+  "ArtistBio": "(American, 1909\u20132001)", 
+  "DateAcquired": "1973-10-24", 
+  "\ufeffTitle": "Tblisi Rose", 
   "ObjectID": "67105"
 }

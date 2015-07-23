@@ -5,8 +5,7 @@
   "Artist": "William T. Wiley", 
   "URL": "http://www.moma.org/collection/works/36648", 
   "CuratorApproved": "Y", 
-  "Title": "Peacock Gap", 
-  "DateAcquired": "1970-10-14", 
+  "CreditLine": "Larry Aldrich Foundation Fund", 
   "Date": "1970", 
   "ArtistID": 6370, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "395.1970", 
-  "ArtistBio": "American, born 1937", 
-  "CreditLine": "Larry Aldrich Foundation Fund", 
+  "ArtistBio": "(American, born 1937)", 
+  "DateAcquired": "1970-10-14", 
+  "\ufeffTitle": "Peacock Gap", 
   "ObjectID": "36648"
 }

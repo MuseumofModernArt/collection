@@ -5,8 +5,7 @@
   "Artist": "A. M. Cassandre", 
   "URL": "http://www.moma.org/collection/works/5807", 
   "CuratorApproved": "Y", 
-  "Title": "\u00c9toile du Nord", 
-  "DateAcquired": "1987-05-27", 
+  "CreditLine": "Gift of The Lauder Foundation, Leonard and Evelyn Lauder Fund", 
   "Date": "1927", 
   "ArtistID": 1015, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "242.1987", 
-  "ArtistBio": "French, 1901\u20131968", 
-  "CreditLine": "Gift of The Lauder Foundation, Leonard and Evelyn Lauder Fund", 
+  "ArtistBio": "(French, 1901\u20131968)", 
+  "DateAcquired": "1987-05-27", 
+  "\ufeffTitle": "\u00c9toile du Nord", 
   "ObjectID": "5807"
 }

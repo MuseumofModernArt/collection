@@ -5,8 +5,7 @@
   "Artist": "Max Burchartz", 
   "URL": "http://www.moma.org/collection/works/7747", 
   "CuratorApproved": "Y", 
-  "Title": "Wehag 1931", 
-  "DateAcquired": "1999-12-10", 
+  "CreditLine": "Jan Tschichold Collection, Gift of Philip Johnson", 
   "Date": "1931", 
   "ArtistID": 869, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "613.1999", 
-  "ArtistBio": "German, 1887\u20131961", 
-  "CreditLine": "Jan Tschichold Collection, Gift of Philip Johnson", 
+  "ArtistBio": "(German, 1887\u20131961)", 
+  "DateAcquired": "1999-12-10", 
+  "\ufeffTitle": "Wehag 1931", 
   "ObjectID": "7747"
 }

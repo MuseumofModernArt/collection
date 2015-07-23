@@ -1,16 +1,16 @@
 {
   "Medium": "Ballpoint pen", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Drawing", 
   "Artist": "Pablo Picasso", 
   "URL": "", 
   "CuratorApproved": "N", 
-  "Title": "Untitled", 
-  "DateAcquired": "1976-06-02", 
+  "CreditLine": "", 
   "Date": "1969", 
   "Department": "Drawings", 
   "MoMANumber": "249.1976", 
-  "ArtistBio": "Spanish, 1881\u20131973", 
-  "CreditLine": "NULL", 
+  "ArtistBio": "(Spanish, 1881\u20131973)", 
+  "DateAcquired": "1976-06-02", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "35587"
 }

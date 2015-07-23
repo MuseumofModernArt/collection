@@ -5,8 +5,7 @@
   "Artist": "Pablo Picasso", 
   "URL": "http://www.moma.org/collection/works/29928", 
   "CuratorApproved": "Y", 
-  "Title": "H\u00e9l\u00e8ne Chez Archim\u00e8de", 
-  "DateAcquired": "1964-10-06", 
+  "CreditLine": "The Louis E. Stern Collection", 
   "Date": "1955.  (Reproduced  drawings commissioned by Vollard prior to 1939).", 
   "ArtistID": 4609, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "1008.1964.A-B", 
-  "ArtistBio": "Spanish, 1881\u20131973", 
-  "CreditLine": "The Louis E. Stern Collection", 
+  "ArtistBio": "(Spanish, 1881\u20131973)", 
+  "DateAcquired": "1964-10-06", 
+  "\ufeffTitle": "H\u00e9l\u00e8ne Chez Archim\u00e8de", 
   "ObjectID": "29928"
 }

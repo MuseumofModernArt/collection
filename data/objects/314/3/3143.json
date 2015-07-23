@@ -5,8 +5,7 @@
   "Artist": "Fratelli Grivel (now Grivel S.r.l.)", 
   "URL": "http://www.moma.org/collection/works/3143", 
   "CuratorApproved": "Y", 
-  "Title": "Ice Axe", 
-  "DateAcquired": "1962-11-07", 
+  "CreditLine": "Gift of Trailwise Company", 
   "Date": "1900-1962", 
   "Keywords": [
     "online art collection", 
@@ -16,7 +15,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "267.1962", 
-  "ArtistBio": "Italian, founded 1818", 
-  "CreditLine": "Gift of Trailwise Company", 
+  "ArtistBio": "(Italian, founded 1818)", 
+  "DateAcquired": "1962-11-07", 
+  "\ufeffTitle": "Ice Axe", 
   "ObjectID": "3143"
 }

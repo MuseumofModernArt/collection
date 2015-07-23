@@ -5,8 +5,7 @@
   "Artist": "Ludwig Meidner", 
   "URL": "http://www.moma.org/collection/works/9036", 
   "CuratorApproved": "Y", 
-  "Title": "Portrait  of Dr. Victor Heinrich Klinkhardt (III) (plate 29) from the illustrated book Deutsche Graphiker der Gegenwart (German Printmakers of Our Time)", 
-  "DateAcquired": "NULL", 
+  "CreditLine": "Purchase", 
   "Date": "1920", 
   "ArtistID": 3909, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "2.1942.22", 
-  "ArtistBio": "German, 1884\u20131966", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(German, 1884\u20131966)", 
+  "DateAcquired": "", 
+  "\ufeffTitle": "Portrait  of Dr. Victor Heinrich Klinkhardt (III) (Bildnis Dr. Victor Heinrich Klinkhardt [III]) (plate 29) from the illustrated book Deutsche Graphiker der Gegenwart (German Printmakers of Our Time)", 
   "ObjectID": "9036"
 }

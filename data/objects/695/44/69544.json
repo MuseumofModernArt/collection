@@ -5,8 +5,7 @@
   "Artist": "John Giorno", 
   "URL": "http://www.moma.org/collection/works/69544", 
   "CuratorApproved": "Y", 
-  "Title": "Chinese Fortune Game from S.M.S. No. 6, December 1968", 
-  "DateAcquired": "1977-11-10", 
+  "CreditLine": "Gift of Carol O. Selle", 
   "Date": "1968", 
   "ArtistID": 2171, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "460.1977.6l", 
-  "ArtistBio": "American, born 1936", 
-  "CreditLine": "Gift of Carol O. Selle", 
+  "ArtistBio": "(American, born 1936)", 
+  "DateAcquired": "1977-11-10", 
+  "\ufeffTitle": "Chinese Fortune Game from S.M.S. No. 6", 
   "ObjectID": "69544"
 }

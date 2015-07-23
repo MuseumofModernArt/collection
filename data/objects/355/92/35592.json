@@ -5,8 +5,7 @@
   "Artist": "Ben Shahn", 
   "URL": "http://www.moma.org/collection/works/35592", 
   "CuratorApproved": "Y", 
-  "Title": "Self-Portrait", 
-  "DateAcquired": "1956-06-06", 
+  "CreditLine": "Given anonymously", 
   "Date": "(1955)", 
   "ArtistID": 5366, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "250.1956", 
-  "ArtistBio": "American, born Lithuania. 1898\u20131969", 
-  "CreditLine": "Given anonymously", 
+  "ArtistBio": "(American, born Lithuania. 1898\u20131969)", 
+  "DateAcquired": "1956-06-06", 
+  "\ufeffTitle": "Self-Portrait", 
   "ObjectID": "35592"
 }

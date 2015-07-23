@@ -5,8 +5,7 @@
   "Artist": "Jim Bengston", 
   "URL": "http://www.moma.org/collection/works/53741", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled (Ice formation)", 
-  "DateAcquired": "1981-12-17", 
+  "CreditLine": "The Family of Man Fund", 
   "Date": "October 1980", 
   "ArtistID": 473, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "465.1981", 
-  "ArtistBio": "American, born 1942", 
-  "CreditLine": "The Family of Man Fund", 
+  "ArtistBio": "(American, born 1942)", 
+  "DateAcquired": "1981-12-17", 
+  "\ufeffTitle": "Untitled (Ice formation)", 
   "ObjectID": "53741"
 }

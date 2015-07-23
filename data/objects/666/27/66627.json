@@ -1,12 +1,11 @@
 {
   "Medium": "Etching from a portfolio of two etchings, two linoleum cuts, two lithographs, and two screenprints", 
-  "Dimensions": "plate  21 15/16 x 17 9/16\" (55.7 x 44.6 cm)  sheet  29 13/16 x 21 15/16\" (75.7 x 55.7 cm)", 
+  "Dimensions": "plate  21 15/16 x 17 9/16\" (55.7 x 44.6 cm)\r\nsheet  29 13/16 x 21 15/16\" (75.7 x 55.7 cm)", 
   "Classification": "Print", 
   "Artist": "Wayne Thiebaud", 
   "URL": "http://www.moma.org/collection/works/66627", 
   "CuratorApproved": "Y", 
-  "Title": "Triangle Thins from Seven Still Lifes and a Silver Landscape", 
-  "DateAcquired": "1972-10-05", 
+  "CreditLine": "Given in memory of Beth Lisa Feldman", 
   "Date": "1971", 
   "ArtistID": 5849, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "309.1972", 
-  "ArtistBio": "American, born 1920", 
-  "CreditLine": "Given in memory of Beth Lisa Feldman", 
+  "ArtistBio": "(American, born 1920)", 
+  "DateAcquired": "1972-10-05", 
+  "\ufeffTitle": "Triangle Thins from Seven Still Lifes and a Silver Landscape", 
   "ObjectID": "66627"
 }

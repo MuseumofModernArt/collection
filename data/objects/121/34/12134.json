@@ -1,12 +1,11 @@
 {
   "Medium": "Illustrated book with one hundred and twenty-seven screenprints", 
-  "Dimensions": "page  15 x 20 1/16\" (38 x 51 cm)  Prints:  various dimensions.", 
+  "Dimensions": "page  15 x 20 1/16\" (38 x 51 cm)\r\nPrints:  various dimensions.", 
   "Classification": "Illustrated Book", 
   "Artist": "Josef Albers", 
   "URL": "http://www.moma.org/collection/works/12134", 
   "CuratorApproved": "Y", 
-  "Title": "Formulation: Articulation", 
-  "DateAcquired": "1975-05-09", 
+  "CreditLine": "Gift of The Josef Albers Foundation", 
   "Date": "1972", 
   "ArtistID": 97, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "157.1975.A-B", 
-  "ArtistBio": "American, born Germany. 1888\u20131976", 
-  "CreditLine": "Gift of The Josef Albers Foundation", 
+  "ArtistBio": "(American, born Germany. 1888\u20131976)", 
+  "DateAcquired": "1975-05-09", 
+  "\ufeffTitle": "Formulation: Articulation", 
   "ObjectID": "12134"
 }

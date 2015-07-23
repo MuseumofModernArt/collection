@@ -5,8 +5,7 @@
   "Artist": "Yusaku Kamekura", 
   "URL": "http://www.moma.org/collection/works/8781", 
   "CuratorApproved": "Y", 
-  "Title": "SP A Great New '35'", 
-  "DateAcquired": "2000-12-11", 
+  "CreditLine": "Gift of the designer", 
   "Date": "1957", 
   "ArtistID": 2974, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "1483.2000", 
-  "ArtistBio": "Japanese, 1915\u20131997", 
-  "CreditLine": "Gift of the designer", 
+  "ArtistBio": "(Japanese, 1915\u20131997)", 
+  "DateAcquired": "2000-12-11", 
+  "\ufeffTitle": "SP A Great New '35'", 
   "ObjectID": "8781"
 }

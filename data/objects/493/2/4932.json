@@ -5,8 +5,7 @@
   "Artist": "Unknown Artist", 
   "URL": "http://www.moma.org/collection/works/4932", 
   "CuratorApproved": "Y", 
-  "Title": "Graphisches Kabinet Saarbr\u00fccken, Neue Gruppe Saar Bildgraphik", 
-  "DateAcquired": "1960-04-06", 
+  "CreditLine": "Gift of Graphisches Kabinett, Saarbrucken", 
   "Date": "1959", 
   "ArtistID": 6026, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "71.1960", 
-  "ArtistBio": "Nationality Unknown", 
-  "CreditLine": "Gift of Graphisches Kabinett, Saarbrucken", 
+  "ArtistBio": "(Nationality Unknown)", 
+  "DateAcquired": "1960-04-06", 
+  "\ufeffTitle": "Graphisches Kabinet Saarbr\u00fccken, Neue Gruppe Saar Bildgraphik", 
   "ObjectID": "4932"
 }

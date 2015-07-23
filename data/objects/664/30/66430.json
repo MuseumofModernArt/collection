@@ -1,12 +1,11 @@
 {
   "Medium": "Woodcut", 
-  "Dimensions": "irreg. composition  38 1/16 x 23 15/16\" (96.7 x 60.8 cm)  irreg. sheet  38 1/8 x 25 7/8\" (96.9 x 65.7 cm)", 
+  "Dimensions": "irreg. composition  38 1/16 x 23 15/16\" (96.7 x 60.8 cm)\r\nirreg. sheet  38 1/8 x 25 7/8\" (96.9 x 65.7 cm)", 
   "Classification": "Print", 
   "Artist": "Richard Bosman", 
   "URL": "http://www.moma.org/collection/works/66430", 
   "CuratorApproved": "Y", 
-  "Title": "Survivor", 
-  "DateAcquired": "1986-10-15", 
+  "CreditLine": "Gift of Dr. Isaac Schenkein", 
   "Date": "(1982-83)", 
   "ArtistID": 689, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "300.1986", 
-  "ArtistBio": "Australian, born 1944", 
-  "CreditLine": "Gift of Dr. Isaac Schenkein", 
+  "ArtistBio": "(Australian, born 1944)", 
+  "DateAcquired": "1986-10-15", 
+  "\ufeffTitle": "Survivor", 
   "ObjectID": "66430"
 }

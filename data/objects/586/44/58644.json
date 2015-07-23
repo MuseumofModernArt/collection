@@ -5,8 +5,7 @@
   "Artist": "The New York Daily News", 
   "URL": "http://www.moma.org/collection/works/58644", 
   "CuratorApproved": "Y", 
-  "Title": "Brother Act", 
-  "DateAcquired": "2001-06-14", 
+  "CreditLine": "The New York Times Collection", 
   "Date": "1961", 
   "ArtistID": 8587, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "2051.2001", 
-  "ArtistBio": "NULL", 
-  "CreditLine": "The New York Times Collection", 
+  "ArtistBio": "", 
+  "DateAcquired": "2001-06-14", 
+  "\ufeffTitle": "\"Brother Act\"", 
   "ObjectID": "58644"
 }

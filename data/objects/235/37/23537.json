@@ -5,8 +5,7 @@
   "Artist": "Lovis Corinth", 
   "URL": "http://www.moma.org/collection/works/23537", 
   "CuratorApproved": "Y", 
-  "Title": "Das Buch Judith (The Book of Judith)", 
-  "DateAcquired": "1964-10-06", 
+  "CreditLine": "The Louis E. Stern Collection", 
   "Date": "1910 (prints executed 1909)", 
   "ArtistID": 1243, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "766.1964.1-22", 
-  "ArtistBio": "German, 1858\u20131925", 
-  "CreditLine": "The Louis E. Stern Collection", 
+  "ArtistBio": "(German, 1858\u20131925)", 
+  "DateAcquired": "1964-10-06", 
+  "\ufeffTitle": "Das Buch Judith (The Book of Judith)", 
   "ObjectID": "23537"
 }

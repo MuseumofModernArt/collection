@@ -5,8 +5,7 @@
   "Artist": "Allan Adler", 
   "URL": "http://www.moma.org/collection/works/2605", 
   "CuratorApproved": "Y", 
-  "Title": "Salt and Pepper Shakers", 
-  "DateAcquired": "1950-06-08", 
+  "CreditLine": "Gift of the designer", 
   "Date": "1949", 
   "ArtistID": 69, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "199.1950.1-2", 
-  "ArtistBio": "American, 1916\u20132002", 
-  "CreditLine": "Gift of the designer", 
+  "ArtistBio": "(American, 1916\u20132002)", 
+  "DateAcquired": "1950-06-08", 
+  "\ufeffTitle": "Salt and Pepper Shakers", 
   "ObjectID": "2605"
 }

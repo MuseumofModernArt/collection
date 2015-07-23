@@ -1,12 +1,11 @@
 {
   "Medium": "Multiple of CD, light bulb, and sound organ kit", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Multiple", 
   "Artist": "Tony Oursler", 
   "URL": "http://www.moma.org/collection/works/61779", 
   "CuratorApproved": "Y", 
-  "Title": "Talking Light (for Parkett no. 47)", 
-  "DateAcquired": "1998-03-05", 
+  "CreditLine": "Riva Castleman Endowment Fund, Lily Auchincloss Fund, and Gift of Parkett", 
   "Date": "1996", 
   "ArtistID": 7489, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "99.1998.a-d", 
-  "ArtistBio": "American, born 1957", 
-  "CreditLine": "Riva Castleman Endowment Fund, Lily Auchincloss Fund, and Gift of Parkett", 
+  "ArtistBio": "(American, born 1957)", 
+  "DateAcquired": "1998-03-05", 
+  "\ufeffTitle": "Talking Light (for Parkett no. 47)", 
   "ObjectID": "61779"
 }

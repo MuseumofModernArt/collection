@@ -5,8 +5,7 @@
   "Artist": "Dieter Rams", 
   "URL": "http://www.moma.org/collection/works/4086", 
   "CuratorApproved": "Y", 
-  "Title": "Audio 1 Radio-Phonograph (model TC 40)", 
-  "DateAcquired": "1964-06-15", 
+  "CreditLine": "Gift of the manufacturer", 
   "Date": "1962", 
   "ArtistID": 8451, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "558.1964", 
-  "ArtistBio": "German, born 1932", 
-  "CreditLine": "Gift of the manufacturer", 
+  "ArtistBio": "(German, born 1932)", 
+  "DateAcquired": "1964-06-15", 
+  "\ufeffTitle": "Audio 1 Radio-Phonograph (model TC 40)", 
   "ObjectID": "4086"
 }

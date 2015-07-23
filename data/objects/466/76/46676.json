@@ -5,8 +5,7 @@
   "Artist": "John F. Waggaman", 
   "URL": "http://www.moma.org/collection/works/46676", 
   "CuratorApproved": "Y", 
-  "Title": "Portrait of Frederick Kiesler at Work", 
-  "DateAcquired": "1967-03-07", 
+  "CreditLine": "Benjamin Zeller Memorial Fund", 
   "Date": "c. 1965", 
   "ArtistID": 6209, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "125.1967", 
-  "ArtistBio": "American, born 1923", 
-  "CreditLine": "Benjamin Zeller Memorial Fund", 
+  "ArtistBio": "(American, born 1923)", 
+  "DateAcquired": "1967-03-07", 
+  "\ufeffTitle": "Portrait of Frederick Kiesler at Work", 
   "ObjectID": "46676"
 }

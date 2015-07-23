@@ -5,8 +5,7 @@
   "Artist": "A. M. Cassandre", 
   "URL": "http://www.moma.org/collection/works/5049", 
   "CuratorApproved": "Y", 
-  "Title": "Maison Prunier", 
-  "DateAcquired": "1961-02-07", 
+  "CreditLine": "Gift of Benjamin Weiss", 
   "Date": "1934", 
   "ArtistID": 1015, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "95.1961", 
-  "ArtistBio": "French, 1901\u20131968", 
-  "CreditLine": "Gift of Benjamin Weiss", 
+  "ArtistBio": "(French, 1901\u20131968)", 
+  "DateAcquired": "1961-02-07", 
+  "\ufeffTitle": "Maison Prunier", 
   "ObjectID": "5049"
 }

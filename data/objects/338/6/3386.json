@@ -5,8 +5,7 @@
   "Artist": "Nils Landberg", 
   "URL": "http://www.moma.org/collection/works/3386", 
   "CuratorApproved": "Y", 
-  "Title": "Vase", 
-  "DateAcquired": "1961-11-08", 
+  "CreditLine": "Philip Johnson Fund", 
   "Date": "1957", 
   "ArtistID": 3358, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "352.1961", 
-  "ArtistBio": "Swedish, 1907\u20131991", 
-  "CreditLine": "Philip Johnson Fund", 
+  "ArtistBio": "(Swedish, 1907\u20131991)", 
+  "DateAcquired": "1961-11-08", 
+  "\ufeffTitle": "Vase", 
   "ObjectID": "3386"
 }

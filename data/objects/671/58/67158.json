@@ -1,12 +1,11 @@
 {
   "Medium": "Double-sided photolithograph, offset printed and accordian folded", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "Lothar Baumgarten", 
   "URL": "http://www.moma.org/collection/works/67158", 
   "CuratorApproved": "Y", 
-  "Title": "Access to the Platforms: Parisian Scenes (Acc\u00e8s aux quais: tableaux parisiens)", 
-  "DateAcquired": "1998-05-14", 
+  "CreditLine": "Walter Bareiss Fund", 
   "Date": "1985-86", 
   "ArtistID": 393, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "335.1998", 
-  "ArtistBio": "German, born 1944", 
-  "CreditLine": "Walter Bareiss Fund", 
+  "ArtistBio": "(German, born 1944)", 
+  "DateAcquired": "1998-05-14", 
+  "\ufeffTitle": "Access to the Platforms: Parisian Scenes", 
   "ObjectID": "67158"
 }

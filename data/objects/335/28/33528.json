@@ -5,8 +5,7 @@
   "Artist": "Hans Hofmann", 
   "URL": "http://www.moma.org/collection/works/33528", 
   "CuratorApproved": "Y", 
-  "Title": "Ambush", 
-  "DateAcquired": "1952-05-20", 
+  "CreditLine": "Purchase", 
   "Date": "1944", 
   "ArtistID": 2698, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "51.1952", 
-  "ArtistBio": "American, born Germany. 1880\u20131966", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, born Germany. 1880\u20131966)", 
+  "DateAcquired": "1952-05-20", 
+  "\ufeffTitle": "Ambush", 
   "ObjectID": "33528"
 }

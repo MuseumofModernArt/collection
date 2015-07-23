@@ -5,8 +5,7 @@
   "Artist": "Jane Hammond", 
   "URL": "http://www.moma.org/collection/works/62639", 
   "CuratorApproved": "Y", 
-  "Title": "Presto", 
-  "DateAcquired": "1992-01-22", 
+  "CreditLine": "Gift of Emily Fisher Landau", 
   "Date": "1991", 
   "ArtistID": 6640, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "136.1992", 
-  "ArtistBio": "American, born 1950", 
-  "CreditLine": "Gift of Emily Fisher Landau", 
+  "ArtistBio": "(American, born 1950)", 
+  "DateAcquired": "1992-01-22", 
+  "\ufeffTitle": "Presto", 
   "ObjectID": "62639"
 }

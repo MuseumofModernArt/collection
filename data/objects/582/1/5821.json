@@ -5,8 +5,7 @@
   "Artist": "Ferdinand Hodler", 
   "URL": "http://www.moma.org/collection/works/5821", 
   "CuratorApproved": "Y", 
-  "Title": "Sechste Ausstellung der Gesellschaft Schweizer. Maler, Bildhauer, u. Architekten", 
-  "DateAcquired": "1987-05-27", 
+  "CreditLine": "Purchase Fund", 
   "Date": "1915", 
   "ArtistID": 2681, 
   "Keywords": [
@@ -21,7 +20,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "245.1987", 
-  "ArtistBio": "Swiss, 1853\u20131918", 
-  "CreditLine": "Purchase Fund", 
+  "ArtistBio": "(Swiss, 1853\u20131918)", 
+  "DateAcquired": "1987-05-27", 
+  "\ufeffTitle": "Sechste Ausstellung der Gesellschaft Schweizer. Maler, Bildhauer, u. Architekten", 
   "ObjectID": "5821"
 }

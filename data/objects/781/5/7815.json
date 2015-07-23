@@ -5,8 +5,7 @@
   "Artist": "Herbert Matter", 
   "URL": "http://www.moma.org/collection/works/7815", 
   "CuratorApproved": "Y", 
-  "Title": "One of Them Had Polio, Skilled Teamwork Brought Recovery", 
-  "DateAcquired": "1981-12-10", 
+  "CreditLine": "Gift of the National Foundation for Infantile Paralysis", 
   "Date": "1949", 
   "ArtistID": 3843, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "634.1981", 
-  "ArtistBio": "American, born Switzerland. 1907\u20131984", 
-  "CreditLine": "Gift of the National Foundation for Infantile Paralysis", 
+  "ArtistBio": "(American, born Switzerland. 1907\u20131984)", 
+  "DateAcquired": "1981-12-10", 
+  "\ufeffTitle": "One of Them Had Polio, Skilled Teamwork Brought Recovery", 
   "ObjectID": "7815"
 }

@@ -1,12 +1,11 @@
 {
   "Medium": "Illustrated book with seven soft ground etchings", 
-  "Dimensions": "page  13 1/16 x 9 15/16\" (33 x 25.2 cm)  Prints:  various dimensions.", 
+  "Dimensions": "page  13 1/16 x 9 15/16\" (33 x 25.2 cm)\r\nPrints:  various dimensions.", 
   "Classification": "Illustrated Book", 
   "Artist": "Judith Shea", 
   "URL": "http://www.moma.org/collection/works/9875", 
   "CuratorApproved": "Y", 
-  "Title": "Haibun", 
-  "DateAcquired": "1991-01-23", 
+  "CreditLine": "John B. Turner Fund", 
   "Date": "1990", 
   "ArtistID": 5381, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "25.1991.1-7", 
-  "ArtistBio": "American, born 1948", 
-  "CreditLine": "John B. Turner Fund", 
+  "ArtistBio": "(American, born 1948)", 
+  "DateAcquired": "1991-01-23", 
+  "\ufeffTitle": "Haibun", 
   "ObjectID": "9875"
 }

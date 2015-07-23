@@ -1,12 +1,11 @@
 {
   "Medium": "Thirty-one transfer lithographs", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "Various Artists", 
   "URL": "http://www.moma.org/collection/works/69806", 
   "CuratorApproved": "Y", 
-  "Title": "American Abstract Artists", 
-  "DateAcquired": "1987-01-15", 
+  "CreditLine": "Gift of Stephen B. Browne in honor of Byron and Rosalind Browne", 
   "Date": "1937", 
   "ArtistID": 6104, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "480.1986.1-31", 
-  "ArtistBio": "American", 
-  "CreditLine": "Gift of Stephen B. Browne in honor of Byron and Rosalind Browne", 
+  "ArtistBio": "(American)", 
+  "DateAcquired": "1987-01-15", 
+  "\ufeffTitle": "American Abstract Artists", 
   "ObjectID": "69806"
 }

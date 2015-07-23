@@ -5,8 +5,7 @@
   "Artist": "Mario Bellini", 
   "URL": "http://www.moma.org/collection/works/209", 
   "CuratorApproved": "Y", 
-  "Title": "Exhibition \"Mario Bellini: Designer.\"  The Museum of Modern Art, New York, 1987  Installation plan", 
-  "DateAcquired": "1988-04-27", 
+  "CreditLine": "Gift of the designer", 
   "Date": "1987", 
   "ArtistID": 451, 
   "Keywords": [
@@ -21,7 +20,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "119.1988", 
-  "ArtistBio": "Italian, born 1935", 
-  "CreditLine": "Gift of the designer", 
+  "ArtistBio": "(Italian, born 1935)", 
+  "DateAcquired": "1988-04-27", 
+  "\ufeffTitle": "Exhibition \"Mario Bellini: Designer.\", The Museum of Modern Art, New York, 1987, Installation plan", 
   "ObjectID": "209"
 }

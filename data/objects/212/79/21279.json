@@ -1,12 +1,11 @@
 {
   "Medium": "Illustrated book with 110 lithographs and eight woodcuts", 
-  "Dimensions": "irreg. page: 11 5/8 x 9 3/8\" (29 x 23.9 cm)  Prints: various dimensions", 
+  "Dimensions": "irreg. page: 11 5/8 x 9 3/8\" (29 x 23.9 cm)\r\nPrints: various dimensions", 
   "Classification": "Illustrated Book", 
   "Artist": "Pierre Bonnard", 
   "URL": "http://www.moma.org/collection/works/21279", 
   "CuratorApproved": "Y", 
-  "Title": "Parall\u00e8lement", 
-  "DateAcquired": "1964-10-06", 
+  "CreditLine": "The Louis E. Stern Collection", 
   "Date": "1900", 
   "ArtistID": 665, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "684.1964.1-110", 
-  "ArtistBio": "French, 1867\u20131947", 
-  "CreditLine": "The Louis E. Stern Collection", 
+  "ArtistBio": "(French, 1867\u20131947)", 
+  "DateAcquired": "1964-10-06", 
+  "\ufeffTitle": "Parall\u00e8lement", 
   "ObjectID": "21279"
 }

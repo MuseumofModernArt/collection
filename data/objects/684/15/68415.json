@@ -1,12 +1,11 @@
 {
   "Medium": "Three photolithographs in gold frames", 
-  "Dimensions": "Sheet (.1-.3, sight): 26 3/4 x 19\" (68 x 48.2 cm)  Composition (.1): 20 3/16 x 17 1/8\" (51.2 x 43.5 cm)  Composition (.2): 20 5/16 x 17 1/8\" (51.6 x 43.5 cm)  Composition (.3): 16 1/16 x 16 15/16\" (40.8 x 43 cm)  Frame (.1-.3): 31 1/4 x 23 7/16\" (79.4 x 59.6 cm)", 
+  "Dimensions": "Sheet (.1-.3, sight): 26 3/4 x 19\" (68 x 48.2 cm)\r\nComposition (.1): 20 3/16 x 17 1/8\" (51.2 x 43.5 cm)\r\nComposition (.2): 20 5/16 x 17 1/8\" (51.6 x 43.5 cm)\r\nComposition (.3): 16 1/16 x 16 15/16\" (40.8 x 43 cm)\r\nFrame (.1-.3): 31 1/4 x 23 7/16\" (79.4 x 59.6 cm)", 
   "Classification": "Print", 
   "Artist": "Hanne Darboven", 
   "URL": "http://www.moma.org/collection/works/68415", 
   "CuratorApproved": "Y", 
-  "Title": "Picture Documentation", 
-  "DateAcquired": "1990-10-23", 
+  "CreditLine": "Purchase", 
   "Date": "1978-88", 
   "ArtistID": 1388, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "397.1990.1-3", 
-  "ArtistBio": "German, 1941\u20132009", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(German, 1941\u20132009)", 
+  "DateAcquired": "1990-10-23", 
+  "\ufeffTitle": "Picture Documentation", 
   "ObjectID": "68415"
 }

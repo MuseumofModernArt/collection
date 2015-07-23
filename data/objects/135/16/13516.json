@@ -1,12 +1,11 @@
 {
   "Medium": "13 pencil drawings (including front cover and broadside announcement)", 
-  "Dimensions": "irreg. page  15 7/8 x 11 13/16\" (40 x 30 cm)  Drawings:  various dimensions.", 
+  "Dimensions": "irreg. page  15 7/8 x 11 13/16\" (40 x 30 cm)\r\nDrawings:  various dimensions.", 
   "Classification": "Illustrated Book", 
   "Artist": "Klaus Rinke", 
   "URL": "http://www.moma.org/collection/works/13516", 
   "CuratorApproved": "Y", 
-  "Title": "Memory of the Skin", 
-  "DateAcquired": "1988-05-04", 
+  "CreditLine": "Purchase", 
   "Date": "1987", 
   "ArtistID": 4933, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "205.1988.A-B", 
-  "ArtistBio": "German, born 1939", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(German, born 1939)", 
+  "DateAcquired": "1988-05-04", 
+  "\ufeffTitle": "Memory of the Skin", 
   "ObjectID": "13516"
 }

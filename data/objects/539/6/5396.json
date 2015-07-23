@@ -5,8 +5,7 @@
   "Artist": "Koichi Sato", 
   "URL": "http://www.moma.org/collection/works/5396", 
   "CuratorApproved": "Y", 
-  "Title": "Morisawa and Company, Ltd", 
-  "DateAcquired": "1988-04-27", 
+  "CreditLine": "Gift of the designer", 
   "Date": "1983", 
   "ArtistID": 5173, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "160.1988", 
-  "ArtistBio": "Japanese, born 1944", 
-  "CreditLine": "Gift of the designer", 
+  "ArtistBio": "(Japanese, born 1944)", 
+  "DateAcquired": "1988-04-27", 
+  "\ufeffTitle": "Morisawa and Company, Ltd", 
   "ObjectID": "5396"
 }

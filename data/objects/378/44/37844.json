@@ -5,8 +5,7 @@
   "Artist": "Jackson Pollock", 
   "URL": "http://www.moma.org/collection/works/37844", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1980-12-18", 
+  "CreditLine": "Gift of Samuel I. Rosenman (by exchange)", 
   "Date": "(1944)", 
   "ArtistID": 4675, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "713.1980", 
-  "ArtistBio": "American, 1912\u20131956", 
-  "CreditLine": "Gift of Samuel I. Rosenman (by exchange)", 
+  "ArtistBio": "(American, 1912\u20131956)", 
+  "DateAcquired": "1980-12-18", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "37844"
 }

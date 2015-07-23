@@ -5,8 +5,7 @@
   "Artist": "George Grosz", 
   "URL": "http://www.moma.org/collection/works/33054", 
   "CuratorApproved": "Y", 
-  "Title": "The End of the Road", 
-  "DateAcquired": "1958-02-19", 
+  "CreditLine": "Purchase", 
   "Date": "1913", 
   "ArtistID": 2374, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "7.1958", 
-  "ArtistBio": "American, born Germany. 1893\u20131959", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, born Germany. 1893\u20131959)", 
+  "DateAcquired": "1958-02-19", 
+  "\ufeffTitle": "The End of the Road (Out of Fear of Starvation) [Das Ende des Weges (Aus Nahrungssorgen)]", 
   "ObjectID": "33054"
 }

@@ -5,8 +5,7 @@
   "Artist": "\u00c9mile Bernard", 
   "URL": "http://www.moma.org/collection/works/60111", 
   "CuratorApproved": "Y", 
-  "Title": "Breton Woman (Les Bretonnes)", 
-  "DateAcquired": "1952-01-22", 
+  "CreditLine": "Purchase", 
   "Date": "(1883)", 
   "ArtistID": 511, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "20.1952", 
-  "ArtistBio": "French, 1868\u20131941", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(French, 1868\u20131941)", 
+  "DateAcquired": "1952-01-22", 
+  "\ufeffTitle": "Breton Woman (Les Bretonnes)", 
   "ObjectID": "60111"
 }

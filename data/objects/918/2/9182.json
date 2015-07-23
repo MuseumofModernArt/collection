@@ -5,8 +5,7 @@
   "Artist": "Alexander Calder", 
   "URL": "http://www.moma.org/collection/works/9182", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled from 23 Gravures", 
-  "DateAcquired": "1945-01-03", 
+  "CreditLine": "Purchase Fund", 
   "Date": "1935", 
   "ArtistID": 922, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "14.1945.2", 
-  "ArtistBio": "American, 1898\u20131976", 
-  "CreditLine": "Purchase Fund", 
+  "ArtistBio": "(American, 1898\u20131976)", 
+  "DateAcquired": "1945-01-03", 
+  "\ufeffTitle": "Plate 2 from 23 Gravures", 
   "ObjectID": "9182"
 }

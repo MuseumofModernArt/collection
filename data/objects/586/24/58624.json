@@ -5,8 +5,7 @@
   "Artist": "Edward Keating/The New York Times", 
   "URL": "http://www.moma.org/collection/works/58624", 
   "CuratorApproved": "Y", 
-  "Title": "For a Moment, Leaving a Fast Clip to Others", 
-  "DateAcquired": "2001-06-14", 
+  "CreditLine": "The New York Times Collection", 
   "Date": "1995", 
   "ArtistID": 8565, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "2031.2001", 
-  "ArtistBio": "American, born 1956", 
-  "CreditLine": "The New York Times Collection", 
+  "ArtistBio": "(American, born 1956)", 
+  "DateAcquired": "2001-06-14", 
+  "\ufeffTitle": "For a Moment, Leaving a Fast Clip to Others", 
   "ObjectID": "58624"
 }

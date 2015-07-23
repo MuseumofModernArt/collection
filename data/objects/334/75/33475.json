@@ -5,8 +5,7 @@
   "Artist": "Marcel Broodthaers", 
   "URL": "http://www.moma.org/collection/works/33475", 
   "CuratorApproved": "Y", 
-  "Title": "Journal d'un voyage utopique", 
-  "DateAcquired": "1985-03-08", 
+  "CreditLine": "Gift of Samuel I. Rosenman (by exchange)", 
   "Date": "1973", 
   "ArtistID": 795, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "42.1985.a-d", 
-  "ArtistBio": "Belgian, 1924\u20131976", 
-  "CreditLine": "Gift of Samuel I. Rosenman (by exchange)", 
+  "ArtistBio": "(Belgian, 1924\u20131976)", 
+  "DateAcquired": "1985-03-08", 
+  "\ufeffTitle": "Journal d'un voyage utopique", 
   "ObjectID": "33475"
 }

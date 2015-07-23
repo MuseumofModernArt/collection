@@ -1,12 +1,11 @@
 {
   "Medium": "Lithograph", 
-  "Dimensions": "composition  30 x 22 1/16\" (76.3 x 56.1 cm)  sheet  31 5/8 x 22 7/8\" (80.3 x 58.1 cm)", 
+  "Dimensions": "composition  30 x 22 1/16\" (76.3 x 56.1 cm)\r\nsheet  31 5/8 x 22 7/8\" (80.3 x 58.1 cm)", 
   "Classification": "Print", 
   "Artist": "Emilio Sanchez", 
   "URL": "http://www.moma.org/collection/works/60134", 
   "CuratorApproved": "Y", 
-  "Title": "The New House (La Casa Nueva)", 
-  "DateAcquired": "1975-01-07", 
+  "CreditLine": "Given anonymously", 
   "Date": "(1973)", 
   "ArtistID": 5140, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "21.1975", 
-  "ArtistBio": "American, 1921\u20131999", 
-  "CreditLine": "Given anonymously", 
+  "ArtistBio": "(American, 1921\u20131999)", 
+  "DateAcquired": "1975-01-07", 
+  "\ufeffTitle": "The New House (La Casa Nueva)", 
   "ObjectID": "60134"
 }

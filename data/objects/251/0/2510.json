@@ -5,8 +5,7 @@
   "Artist": "Vincent de Rijk", 
   "URL": "http://www.moma.org/collection/works/2510", 
   "CuratorApproved": "Y", 
-  "Title": "Cups", 
-  "DateAcquired": "1995-05-09", 
+  "CreditLine": "Gift of the designer", 
   "Date": "1985", 
   "ArtistID": 7451, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "137.1995.1-9", 
-  "ArtistBio": "Dutch, born 1962", 
-  "CreditLine": "Gift of the designer", 
+  "ArtistBio": "(Dutch, born 1962)", 
+  "DateAcquired": "1995-05-09", 
+  "\ufeffTitle": "Cups", 
   "ObjectID": "2510"
 }

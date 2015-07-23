@@ -5,8 +5,7 @@
   "Artist": "Ludwig Hohlwein", 
   "URL": "http://www.moma.org/collection/works/6709", 
   "CuratorApproved": "Y", 
-  "Title": "Damenconfectionhaus, Mayer Sundheimer", 
-  "DateAcquired": "1985-11-18", 
+  "CreditLine": "Gift of The Lauder Foundation, Leonard and Evelyn Lauder Fund", 
   "Date": "1909", 
   "ArtistID": 2700, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "424.1985", 
-  "ArtistBio": "German, 1874\u20131949", 
-  "CreditLine": "Gift of The Lauder Foundation, Leonard and Evelyn Lauder Fund", 
+  "ArtistBio": "(German, 1874\u20131949)", 
+  "DateAcquired": "1985-11-18", 
+  "\ufeffTitle": "Damenconfectionhaus, Mayer Sundheimer", 
   "ObjectID": "6709"
 }

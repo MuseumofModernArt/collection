@@ -5,8 +5,7 @@
   "Artist": "Louise Bourgeois", 
   "URL": "http://www.moma.org/collection/works/13299", 
   "CuratorApproved": "Y", 
-  "Title": "Album", 
-  "DateAcquired": "1997-05-28", 
+  "CreditLine": "Gift of the artist", 
   "Date": "1994", 
   "ArtistID": 710, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "196.1997.1-67", 
-  "ArtistBio": "American, born France. 1911\u20132010", 
-  "CreditLine": "Gift of the artist", 
+  "ArtistBio": "(American, born France. 1911\u20132010)", 
+  "DateAcquired": "1997-05-28", 
+  "\ufeffTitle": "Album", 
   "ObjectID": "13299"
 }

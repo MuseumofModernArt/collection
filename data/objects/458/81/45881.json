@@ -5,8 +5,7 @@
   "Artist": "Ken Josephson", 
   "URL": "http://www.moma.org/collection/works/45881", 
   "CuratorApproved": "Y", 
-  "Title": "Bradley, Honolulu", 
-  "DateAcquired": "1971-03-02", 
+  "CreditLine": "Purchase", 
   "Date": "1968", 
   "ArtistID": 2944, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "83.1971", 
-  "ArtistBio": "American, born 1932", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, born 1932)", 
+  "DateAcquired": "1971-03-02", 
+  "\ufeffTitle": "Bradley, Honolulu", 
   "ObjectID": "45881"
 }

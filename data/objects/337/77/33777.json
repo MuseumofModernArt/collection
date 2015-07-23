@@ -5,8 +5,7 @@
   "Artist": "Albert Gleizes", 
   "URL": "http://www.moma.org/collection/works/33777", 
   "CuratorApproved": "Y", 
-  "Title": "Landscape with Bridge and Viaduct", 
-  "DateAcquired": "1978-04-04", 
+  "CreditLine": "The Joan and Lester Avnet Collection", 
   "Date": "1910", 
   "ArtistID": 2191, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "87.1978", 
-  "ArtistBio": "French, 1881\u20131953", 
-  "CreditLine": "The Joan and Lester Avnet Collection", 
+  "ArtistBio": "(French, 1881\u20131953)", 
+  "DateAcquired": "1978-04-04", 
+  "\ufeffTitle": "Landscape with Bridge and Viaduct", 
   "ObjectID": "33777"
 }

@@ -5,8 +5,7 @@
   "Artist": "Roman Cieslewicz", 
   "URL": "http://www.moma.org/collection/works/6767", 
   "CuratorApproved": "Y", 
-  "Title": "Cyrk Radziecki", 
-  "DateAcquired": "1963-06-12", 
+  "CreditLine": "Gift of the designer", 
   "Date": "1963", 
   "ArtistID": 1125, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "378.1963", 
-  "ArtistBio": "French, born Poland. 1930\u20131996", 
-  "CreditLine": "Gift of the designer", 
+  "ArtistBio": "(French, born Poland. 1930\u20131996)", 
+  "DateAcquired": "1963-06-12", 
+  "\ufeffTitle": "Cyrk Radziecki", 
   "ObjectID": "6767"
 }

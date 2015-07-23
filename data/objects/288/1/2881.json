@@ -5,8 +5,7 @@
   "Artist": "Vollrath Co., Sheboygan, WI", 
   "URL": "http://www.moma.org/collection/works/2881", 
   "CuratorApproved": "Y", 
-  "Title": "Tumblers", 
-  "DateAcquired": "1950-06-08", 
+  "CreditLine": "Gift of the manufacturer", 
   "Date": "Before 1947", 
   "Keywords": [
     "online art collection", 
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "232.1950.1-2", 
-  "ArtistBio": "American, est. 1874", 
-  "CreditLine": "Gift of the manufacturer", 
+  "ArtistBio": "(American, est. 1874)", 
+  "DateAcquired": "1950-06-08", 
+  "\ufeffTitle": "Tumblers", 
   "ObjectID": "2881"
 }

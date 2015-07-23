@@ -5,8 +5,7 @@
   "Artist": "Conrad Felixm\u00fcller", 
   "URL": "http://www.moma.org/collection/works/9030", 
   "CuratorApproved": "Y", 
-  "Title": "Self-Portrait (plate 24) from the illustrated book Deutsche Graphiker der Gegenwart (German Printmakers of Our Time)", 
-  "DateAcquired": "NULL", 
+  "CreditLine": "Purchase", 
   "Date": "1920 (print executed 1919)", 
   "ArtistID": 1841, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "2.1942.17", 
-  "ArtistBio": "German, 1897\u20131977", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(German, 1897\u20131977)", 
+  "DateAcquired": "", 
+  "\ufeffTitle": "Self-Portrait (Selbstbildnis) (plate 24) from the illustrated book Deutsche Graphiker der Gegenwart (German Printmakers of Our Time)", 
   "ObjectID": "9030"
 }

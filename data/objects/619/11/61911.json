@@ -5,8 +5,7 @@
   "Artist": "Roni Horn", 
   "URL": "http://www.moma.org/collection/works/61911", 
   "CuratorApproved": "Y", 
-  "Title": "The Lava Fields of Iceland", 
-  "DateAcquired": "1993-05-03", 
+  "CreditLine": "Purchase", 
   "Date": "1992", 
   "ArtistID": 7503, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "108.1993", 
-  "ArtistBio": "American, born 1955", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, born 1955)", 
+  "DateAcquired": "1993-05-03", 
+  "\ufeffTitle": "The Lava Fields of Iceland", 
   "ObjectID": "61911"
 }

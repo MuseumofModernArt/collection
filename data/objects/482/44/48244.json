@@ -5,8 +5,7 @@
   "Artist": "Harry Callahan", 
   "URL": "http://www.moma.org/collection/works/48244", 
   "CuratorApproved": "Y", 
-  "Title": "Weed Against Sky, Detroit", 
-  "DateAcquired": "1962-05-08", 
+  "CreditLine": "Purchase", 
   "Date": "1948", 
   "ArtistID": 924, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "196.1962", 
-  "ArtistBio": "American, 1912\u20131999", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, 1912\u20131999)", 
+  "DateAcquired": "1962-05-08", 
+  "\ufeffTitle": "Weed Against Sky, Detroit", 
   "ObjectID": "48244"
 }

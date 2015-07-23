@@ -1,12 +1,11 @@
 {
   "Medium": "Xerox", 
-  "Dimensions": "composition  14 x 8 1/2\" (35.6 x 21.6 cm)  sheet  14 x 8 1/2\" (35.6 x 21.6 cm)", 
+  "Dimensions": "composition  14 x 8 1/2\" (35.6 x 21.6 cm)\r\nsheet  14 x 8 1/2\" (35.6 x 21.6 cm)", 
   "Classification": "Print", 
   "Artist": "Huguette Franco", 
   "URL": "http://www.moma.org/collection/works/60501", 
   "CuratorApproved": "Y", 
-  "Title": "Scenes from a Supermarket 11", 
-  "DateAcquired": "1977-02-10", 
+  "CreditLine": "Latin American Fund", 
   "Date": "(1976)", 
   "ArtistID": 1970, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "32.1977", 
-  "ArtistBio": "French, born 1944", 
-  "CreditLine": "Latin American Fund", 
+  "ArtistBio": "(French, born 1944)", 
+  "DateAcquired": "1977-02-10", 
+  "\ufeffTitle": "Scenes from a Supermarket 11", 
   "ObjectID": "60501"
 }

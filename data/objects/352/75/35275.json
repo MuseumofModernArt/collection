@@ -5,8 +5,7 @@
   "Artist": "Martin Kippenberger", 
   "URL": "http://www.moma.org/collection/works/35275", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1992-06-13", 
+  "CreditLine": "Gift of Mrs. June Noble Larkin", 
   "Date": "1989", 
   "ArtistID": 3111, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "211.1992", 
-  "ArtistBio": "German, 1953\u20131997", 
-  "CreditLine": "Gift of Mrs. June Noble Larkin", 
+  "ArtistBio": "(German, 1953\u20131997)", 
+  "DateAcquired": "1992-06-13", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "35275"
 }

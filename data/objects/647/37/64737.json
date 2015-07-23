@@ -1,12 +1,11 @@
 {
   "Medium": "Lithograph", 
-  "Dimensions": "Composition: 38 1/4 x 51 1/4\" (97.1 x 130.1 cm)  Sheet: 38 1/4 x 51 1/4\" (97.1 x 130.1 cm)", 
+  "Dimensions": "Composition: 38 1/4 x 51 1/4\" (97.1 x 130.1 cm)\r\nSheet: 38 1/4 x 51 1/4\" (97.1 x 130.1 cm)", 
   "Classification": "Print", 
   "Artist": "Malcolm Morley", 
   "URL": "http://www.moma.org/collection/works/64737", 
   "CuratorApproved": "Y", 
-  "Title": "Beach Scene", 
-  "DateAcquired": "1983-01-18", 
+  "CreditLine": "Purchase", 
   "Date": "1982", 
   "ArtistID": 4100, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "225.1983", 
-  "ArtistBio": "American, born Great Britain 1931", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, born Great Britain 1931)", 
+  "DateAcquired": "1983-01-18", 
+  "\ufeffTitle": "Beach Scene", 
   "ObjectID": "64737"
 }

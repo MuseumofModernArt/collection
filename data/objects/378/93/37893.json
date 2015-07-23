@@ -5,8 +5,7 @@
   "Artist": "Elena Borstein", 
   "URL": "http://www.moma.org/collection/works/37893", 
   "CuratorApproved": "Y", 
-  "Title": "Kritinia II", 
-  "DateAcquired": "1978-10-27", 
+  "CreditLine": "Gift of Mr. and Mrs. Harvey W. Rambach", 
   "Date": "(1978)", 
   "ArtistID": 685, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "729.1978", 
-  "ArtistBio": "American, born 1946", 
-  "CreditLine": "Gift of Mr. and Mrs. Harvey W. Rambach", 
+  "ArtistBio": "(American, born 1946)", 
+  "DateAcquired": "1978-10-27", 
+  "\ufeffTitle": "Kritinia II", 
   "ObjectID": "37893"
 }

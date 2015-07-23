@@ -5,8 +5,7 @@
   "Artist": "Francis Edmund Currey", 
   "URL": "http://www.moma.org/collection/works/49328", 
   "CuratorApproved": "Y", 
-  "Title": "Heron", 
-  "DateAcquired": "1988-06-09", 
+  "CreditLine": "Horace W. Goldsmith Fund through Robert B. Menschel", 
   "Date": "1863", 
   "ArtistID": 1337, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "236.1988", 
-  "ArtistBio": "British, 1814\u20131896", 
-  "CreditLine": "Horace W. Goldsmith Fund through Robert B. Menschel", 
+  "ArtistBio": "(British, 1814\u20131896)", 
+  "DateAcquired": "1988-06-09", 
+  "\ufeffTitle": "Heron", 
   "ObjectID": "49328"
 }

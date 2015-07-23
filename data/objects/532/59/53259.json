@@ -5,8 +5,7 @@
   "Artist": "Helen Levitt", 
   "URL": "http://www.moma.org/collection/works/53259", 
   "CuratorApproved": "Y", 
-  "Title": "Tacubaya, Mexico", 
-  "DateAcquired": "1942-12-29", 
+  "CreditLine": "Purchase", 
   "Date": "1941", 
   "ArtistID": 3520, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "429.1942", 
-  "ArtistBio": "American, 1913\u20132009", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, 1913\u20132009)", 
+  "DateAcquired": "1942-12-29", 
+  "\ufeffTitle": "Tacubaya, Mexico", 
   "ObjectID": "53259"
 }

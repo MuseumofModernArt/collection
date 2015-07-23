@@ -5,8 +5,7 @@
   "Artist": "John Baldessari", 
   "URL": "http://www.moma.org/collection/works/59546", 
   "CuratorApproved": "Y", 
-  "Title": "I Will Not Make Any More Boring Art", 
-  "DateAcquired": "1972-02-07", 
+  "CreditLine": "John B. Turner Fund", 
   "Date": "1971", 
   "ArtistID": 304, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "1.1972", 
-  "ArtistBio": "American, born 1931", 
-  "CreditLine": "John B. Turner Fund", 
+  "ArtistBio": "(American, born 1931)", 
+  "DateAcquired": "1972-02-07", 
+  "\ufeffTitle": "I Will Not Make Any More Boring Art", 
   "ObjectID": "59546"
 }

@@ -5,8 +5,7 @@
   "Artist": "Max Ernst", 
   "URL": "http://www.moma.org/collection/works/35454", 
   "CuratorApproved": "Y", 
-  "Title": "The Little Tear Gland That Says Tic Tac", 
-  "DateAcquired": "1935-11-12", 
+  "CreditLine": "Purchase", 
   "Date": "1920", 
   "ArtistID": 1752, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "238.1935", 
-  "ArtistBio": "French, born Germany. 1891\u20131976", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(French, born Germany. 1891\u20131976)", 
+  "DateAcquired": "1935-11-12", 
+  "\ufeffTitle": "The Little Tear Gland That Says Tic Tac", 
   "ObjectID": "35454"
 }

@@ -1,12 +1,11 @@
 {
   "Medium": "Series of 5 woodcuts printed in black", 
-  "Dimensions": "each approx. composition  74 3/4 x 17 13/16\" (189.8 x 45.2 cm)  each approx. sheet  83 15/16 x 27 1/16\" (213 x 68.8 cm)", 
+  "Dimensions": "each approx. composition  74 3/4 x 17 13/16\" (189.8 x 45.2 cm)\r\neach approx. sheet  83 15/16 x 27 1/16\" (213 x 68.8 cm)", 
   "Classification": "Print", 
   "Artist": "Matthias Mansen", 
   "URL": "http://www.moma.org/collection/works/63791", 
   "CuratorApproved": "Y", 
-  "Title": "Man, Getting Up From a Chair", 
-  "DateAcquired": "1988-05-04", 
+  "CreditLine": "Purchase", 
   "Date": "1988", 
   "ArtistID": 3738, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "179.1988.1-5", 
-  "ArtistBio": "German, born 1958", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(German, born 1958)", 
+  "DateAcquired": "1988-05-04", 
+  "\ufeffTitle": "Man, Getting Up From a Chair", 
   "ObjectID": "63791"
 }

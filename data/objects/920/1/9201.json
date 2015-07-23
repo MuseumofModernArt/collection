@@ -1,12 +1,11 @@
 {
   "Medium": "Illustrated book with ten woodcuts", 
-  "Dimensions": "page  8 9/16 x 9 5/16\" (21 x 23.7 cm)  Prints:  various dimensions.", 
+  "Dimensions": "page  8 9/16 x 9 5/16\" (21 x 23.7 cm)\r\nPrints:  various dimensions.", 
   "Classification": "Illustrated Book", 
   "Artist": "Ad\u00e3o Pinheiro", 
   "URL": "http://www.moma.org/collection/works/9201", 
   "CuratorApproved": "Y", 
-  "Title": "Constela\u00e7\u00e3o", 
-  "DateAcquired": "1974-01-10", 
+  "CreditLine": "Gift of Jos\u00e9 E. Mindlin", 
   "Date": "1972", 
   "Keywords": [
     "online art collection", 
@@ -16,7 +15,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "15.1974.1-10", 
-  "ArtistBio": "Brazilian, born 1938", 
-  "CreditLine": "Gift of Jos\u00e9 E. Mindlin", 
+  "ArtistBio": "(Brazilian, born 1938)", 
+  "DateAcquired": "1974-01-10", 
+  "\ufeffTitle": "Constela\u00e7\u00e3o", 
   "ObjectID": "9201"
 }

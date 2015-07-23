@@ -1,12 +1,11 @@
 {
   "Medium": "Aquatint, etching and drypoint", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "George Segal", 
   "URL": "http://www.moma.org/collection/works/68640", 
   "CuratorApproved": "Y", 
-  "Title": "Walter from the series Portraits", 
-  "DateAcquired": "1987-10-20", 
+  "CreditLine": "The Lily Auchincloss Fund in honor of Joanne Stern", 
   "Date": "1987", 
   "ArtistID": 5316, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "411.1987", 
-  "ArtistBio": "American, 1924\u20132000", 
-  "CreditLine": "The Lily Auchincloss Fund in honor of Joanne Stern", 
+  "ArtistBio": "(American, 1924\u20132000)", 
+  "DateAcquired": "1987-10-20", 
+  "\ufeffTitle": "Walter from the series Portraits", 
   "ObjectID": "68640"
 }

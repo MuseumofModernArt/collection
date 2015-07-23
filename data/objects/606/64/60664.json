@@ -5,8 +5,7 @@
   "Artist": "Lyonel Feininger", 
   "URL": "http://www.moma.org/collection/works/60664", 
   "CuratorApproved": "Y", 
-  "Title": "Ships", 
-  "DateAcquired": "1957-05-15", 
+  "CreditLine": "Gift of Mrs. Donald B. Straus", 
   "Date": "1919", 
   "ArtistID": 1832, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "39.1957", 
-  "ArtistBio": "American, 1871\u20131956", 
-  "CreditLine": "Gift of Mrs. Donald B. Straus", 
+  "ArtistBio": "(American, 1871\u20131956)", 
+  "DateAcquired": "1957-05-15", 
+  "\ufeffTitle": "Ships (Schiffe)", 
   "ObjectID": "60664"
 }

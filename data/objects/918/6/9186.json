@@ -5,8 +5,7 @@
   "Artist": "Ossip Zadkine", 
   "URL": "http://www.moma.org/collection/works/9186", 
   "CuratorApproved": "Y", 
-  "Title": "Plate 23 (folio 49) from 23 Gravures", 
-  "DateAcquired": "1945-01-03", 
+  "CreditLine": "Purchase Fund", 
   "Date": "(1935)", 
   "ArtistID": 6533, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "14.1945.23", 
-  "ArtistBio": "French, 1890\u20131967", 
-  "CreditLine": "Purchase Fund", 
+  "ArtistBio": "(French, 1890\u20131967)", 
+  "DateAcquired": "1945-01-03", 
+  "\ufeffTitle": "Plate 23 from 23 Gravures Plate 23 from the illustrated book 23 Gravures", 
   "ObjectID": "9186"
 }

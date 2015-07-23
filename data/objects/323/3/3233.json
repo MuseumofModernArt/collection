@@ -5,8 +5,7 @@
   "Artist": "Ingo Maurer", 
   "URL": "http://www.moma.org/collection/works/3233", 
   "CuratorApproved": "Y", 
-  "Title": "Lucellino Wall Lamp", 
-  "DateAcquired": "1999-06-30", 
+  "CreditLine": "Gift of the designer", 
   "Date": "1992", 
   "ArtistID": 3854, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "300.1999", 
-  "ArtistBio": "German, born 1932", 
-  "CreditLine": "Gift of the designer", 
+  "ArtistBio": "(German, born 1932)", 
+  "DateAcquired": "1999-06-30", 
+  "\ufeffTitle": "Lucellino Wall Lamp", 
   "ObjectID": "3233"
 }

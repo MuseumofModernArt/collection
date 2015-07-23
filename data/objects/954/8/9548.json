@@ -5,8 +5,7 @@
   "Artist": "Various Artists", 
   "URL": "http://www.moma.org/collection/works/9548", 
   "CuratorApproved": "Y", 
-  "Title": "Parkett no. 50/51", 
-  "DateAcquired": "1998-03-05", 
+  "CreditLine": "Gift of Parkett", 
   "Date": "1997", 
   "ArtistID": 6104, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "21.1998.2.x1-x2", 
-  "ArtistBio": "Various", 
-  "CreditLine": "Gift of Parkett", 
+  "ArtistBio": "(Various)", 
+  "DateAcquired": "1998-03-05", 
+  "\ufeffTitle": "Parkett no. 50/51", 
   "ObjectID": "9548"
 }

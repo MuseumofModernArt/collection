@@ -5,8 +5,7 @@
   "Artist": "Louise Bourgeois", 
   "URL": "http://www.moma.org/collection/works/59621", 
   "CuratorApproved": "Y", 
-  "Title": "She Lost It (1), only version", 
-  "DateAcquired": "1993-01-18", 
+  "CreditLine": "Gift of the artist", 
   "Date": "1992", 
   "ArtistID": 710, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "3.1993", 
-  "ArtistBio": "American, born France. 1911\u20132010", 
-  "CreditLine": "Gift of the artist", 
+  "ArtistBio": "(American, born France. 1911\u20132010)", 
+  "DateAcquired": "1993-01-18", 
+  "\ufeffTitle": "She Lost It (1)", 
   "ObjectID": "59621"
 }

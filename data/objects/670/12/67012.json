@@ -5,8 +5,7 @@
   "Artist": "Jasper Johns", 
   "URL": "http://www.moma.org/collection/works/67012", 
   "CuratorApproved": "Y", 
-  "Title": "Decoy II", 
-  "DateAcquired": "1973-10-24", 
+  "CreditLine": "Gift of Celeste Bartos", 
   "Date": "1971-73", 
   "ArtistID": 2923, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "327.1973", 
-  "ArtistBio": "American, born 1930", 
-  "CreditLine": "Gift of Celeste Bartos", 
+  "ArtistBio": "(American, born 1930)", 
+  "DateAcquired": "1973-10-24", 
+  "\ufeffTitle": "Decoy II", 
   "ObjectID": "67012"
 }

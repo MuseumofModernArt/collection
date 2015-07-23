@@ -1,12 +1,11 @@
 {
   "Medium": "Lithograph", 
-  "Dimensions": "irreg composition  36 5/8 x 28 1/2\" (93 x 72.4 cm)  Stretcher: 44 1/8 x 36 1/8\" (112.0 x 91.8 cm)", 
+  "Dimensions": "irreg composition  36 5/8 x 28 1/2\" (93 x 72.4 cm)\r\nStretcher: 44 1/8 x 36 1/8\" (112.0 x 91.8 cm)", 
   "Classification": "Print", 
   "Artist": "Lee Bontecou", 
   "URL": "http://www.moma.org/collection/works/63210", 
   "CuratorApproved": "Y", 
-  "Title": "Sixth Stone III", 
-  "DateAcquired": "1965-04-06", 
+  "CreditLine": "Gift of the Celeste and Armand Bartos Foundation", 
   "Date": "1964", 
   "ArtistID": 670, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "147.1965", 
-  "ArtistBio": "American, born 1931", 
-  "CreditLine": "Gift of the Celeste and Armand Bartos Foundation", 
+  "ArtistBio": "(American, born 1931)", 
+  "DateAcquired": "1965-04-06", 
+  "\ufeffTitle": "Sixth Stone III", 
   "ObjectID": "63210"
 }

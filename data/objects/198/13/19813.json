@@ -1,12 +1,11 @@
 {
   "Medium": "Illustrated book with seven etchings", 
-  "Dimensions": "page  9 13/16 x 7 1/16\" (25 x 18 cm)  Prints:  various dimensions.", 
+  "Dimensions": "page  9 13/16 x 7 1/16\" (25 x 18 cm)\r\nPrints:  various dimensions.", 
   "Classification": "Illustrated Book", 
   "Artist": "Gregory Masurovsky", 
   "URL": "http://www.moma.org/collection/works/19813", 
   "CuratorApproved": "Y", 
-  "Title": "Seven Poems", 
-  "DateAcquired": "1970-12-15", 
+  "CreditLine": "John B. Turner Fund", 
   "Date": "1970", 
   "ArtistID": 3825, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "628.1970.1-7", 
-  "ArtistBio": "American, 1929\u20132009", 
-  "CreditLine": "John B. Turner Fund", 
+  "ArtistBio": "(American, 1929\u20132009)", 
+  "DateAcquired": "1970-12-15", 
+  "\ufeffTitle": "Seven Poems", 
   "ObjectID": "19813"
 }

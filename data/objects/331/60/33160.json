@@ -5,8 +5,7 @@
   "Artist": "Jim Dine", 
   "URL": "http://www.moma.org/collection/works/33160", 
   "CuratorApproved": "Y", 
-  "Title": "Second Baby Drawing", 
-  "DateAcquired": "1977-02-02", 
+  "CreditLine": "Gift of Lily Auchincloss", 
   "Date": "1976", 
   "ArtistID": 1547, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "13.1977", 
-  "ArtistBio": "American, born 1935", 
-  "CreditLine": "Gift of Lily Auchincloss", 
+  "ArtistBio": "(American, born 1935)", 
+  "DateAcquired": "1977-02-02", 
+  "\ufeffTitle": "Second Baby Drawing", 
   "ObjectID": "33160"
 }

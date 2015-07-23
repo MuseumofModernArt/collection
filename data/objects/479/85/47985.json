@@ -5,8 +5,7 @@
   "Artist": "Gene Kennedy", 
   "URL": "http://www.moma.org/collection/works/47985", 
   "CuratorApproved": "Y", 
-  "Title": "New Golf Course, \"Bernardo Heights\" Development, San Diego, California", 
-  "DateAcquired": "1983-01-13", 
+  "CreditLine": "Gift of the photographer", 
   "Date": "1982", 
   "ArtistID": 3061, 
   "Keywords": [
@@ -20,7 +19,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "186.1983", 
-  "ArtistBio": "American, born 1946", 
-  "CreditLine": "Gift of the photographer", 
+  "ArtistBio": "(American, born 1946)", 
+  "DateAcquired": "1983-01-13", 
+  "\ufeffTitle": "New Golf Course, \"Bernardo Heights\" Development, San Diego, California", 
   "ObjectID": "47985"
 }

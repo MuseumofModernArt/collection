@@ -1,12 +1,11 @@
 {
   "Medium": "Aquatint and etching", 
-  "Dimensions": "plate  37 1/2 x 26 13/16\" (95.2 x 68.1 cm)  sheet  42 9/16 x 30 15/16\" (108 x 78.7 cm)", 
+  "Dimensions": "plate  37 1/2 x 26 13/16\" (95.2 x 68.1 cm)\r\nsheet  42 9/16 x 30 15/16\" (108 x 78.7 cm)", 
   "Classification": "Print", 
   "Artist": "Terry Winters", 
   "URL": "http://www.moma.org/collection/works/64854", 
   "CuratorApproved": "Y", 
-  "Title": "Novalis", 
-  "DateAcquired": "1990-05-02", 
+  "CreditLine": "Gift of Emily Fisher Landau", 
   "Date": "1983-89", 
   "ArtistID": 6408, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "231.1990", 
-  "ArtistBio": "American, born 1949", 
-  "CreditLine": "Gift of Emily Fisher Landau", 
+  "ArtistBio": "(American, born 1949)", 
+  "DateAcquired": "1990-05-02", 
+  "\ufeffTitle": "Novalis", 
   "ObjectID": "64854"
 }

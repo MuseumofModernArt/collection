@@ -5,8 +5,7 @@
   "Artist": "John D. (Ivan Dombrowski) Graham", 
   "URL": "http://www.moma.org/collection/works/33840", 
   "CuratorApproved": "Y", 
-  "Title": "Celia", 
-  "DateAcquired": "1978-04-04", 
+  "CreditLine": "The Joan and Lester Avnet Collection", 
   "Date": "1944-45", 
   "ArtistID": 2284, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "92.1978", 
-  "ArtistBio": "American, born Ukraine. 1881\u20131961", 
-  "CreditLine": "The Joan and Lester Avnet Collection", 
+  "ArtistBio": "(American, born Ukraine. 1881\u20131961)", 
+  "DateAcquired": "1978-04-04", 
+  "\ufeffTitle": "Celia", 
   "ObjectID": "33840"
 }

@@ -5,8 +5,7 @@
   "Artist": "Lyonel Feininger", 
   "URL": "http://www.moma.org/collection/works/68261", 
   "CuratorApproved": "Y", 
-  "Title": "The Locomotive", 
-  "DateAcquired": "1956-03-19", 
+  "CreditLine": "Gift of Julia Feininger", 
   "Date": "1906", 
   "ArtistID": 1832, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "387.1955", 
-  "ArtistBio": "American, 1871\u20131956", 
-  "CreditLine": "Gift of Julia Feininger", 
+  "ArtistBio": "(American, 1871\u20131956)", 
+  "DateAcquired": "1956-03-19", 
+  "\ufeffTitle": "The Locomotive (Die Maschine)", 
   "ObjectID": "68261"
 }

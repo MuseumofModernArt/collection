@@ -5,8 +5,7 @@
   "Artist": "Paul Klee", 
   "URL": "http://www.moma.org/collection/works/67375", 
   "CuratorApproved": "Y", 
-  "Title": "The Approximate Man", 
-  "DateAcquired": "1951-05-24", 
+  "CreditLine": "Purchase", 
   "Date": "1931", 
   "ArtistID": 3130, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "346.1951", 
-  "ArtistBio": "German, born Switzerland. 1879\u20131940", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(German, born Switzerland. 1879\u20131940)", 
+  "DateAcquired": "1951-05-24", 
+  "\ufeffTitle": "The Approximate Man (L'Homme approximatif) from the deluxe edition of the book L'Homme approximatif by Tristan Tzara", 
   "ObjectID": "67375"
 }

@@ -5,8 +5,7 @@
   "Artist": "Franz Wilhelm Seiwert", 
   "URL": "http://www.moma.org/collection/works/8435", 
   "CuratorApproved": "Y", 
-  "Title": "Mitteldeutsche Badeofenfabrik, Adolf Hanf", 
-  "DateAcquired": "1999-12-10", 
+  "CreditLine": "Jan Tschichold Collection, Gift of Philip Johnson", 
   "Date": "1920-1933", 
   "ArtistID": 8238, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "963.1999", 
-  "ArtistBio": "German, 1894\u20131933", 
-  "CreditLine": "Jan Tschichold Collection, Gift of Philip Johnson", 
+  "ArtistBio": "(German, 1894\u20131933)", 
+  "DateAcquired": "1999-12-10", 
+  "\ufeffTitle": "Mitteldeutsche Badeofenfabrik, Adolf Hanf", 
   "ObjectID": "8435"
 }

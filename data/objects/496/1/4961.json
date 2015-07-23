@@ -5,8 +5,7 @@
   "Artist": "Otto L. Grever", 
   "URL": "http://www.moma.org/collection/works/4961", 
   "CuratorApproved": "Y", 
-  "Title": "Charlie Chaplin", 
-  "DateAcquired": "1961-02-07", 
+  "CreditLine": "Given anonymously", 
   "Date": "1917", 
   "ArtistID": 2335, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "77.1961", 
-  "ArtistBio": "American, 1878\u20131936", 
-  "CreditLine": "Given anonymously", 
+  "ArtistBio": "(American, 1878\u20131936)", 
+  "DateAcquired": "1961-02-07", 
+  "\ufeffTitle": "Charlie Chaplin", 
   "ObjectID": "4961"
 }

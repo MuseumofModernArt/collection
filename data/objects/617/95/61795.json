@@ -5,8 +5,7 @@
   "Artist": "Emil Nolde", 
   "URL": "http://www.moma.org/collection/works/61795", 
   "CuratorApproved": "Y", 
-  "Title": "Profile of a Girl", 
-  "DateAcquired": "1955-04-06", 
+  "CreditLine": "Purchase", 
   "Date": "(1911)", 
   "ArtistID": 4327, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "101.1955", 
-  "ArtistBio": "German, 1867\u20131956", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(German, 1867\u20131956)", 
+  "DateAcquired": "1955-04-06", 
+  "\ufeffTitle": "Profile of a Girl (M\u00e4dchenprofil)", 
   "ObjectID": "61795"
 }

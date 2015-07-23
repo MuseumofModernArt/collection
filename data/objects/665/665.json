@@ -5,8 +5,7 @@
   "Artist": "Toyo Ito", 
   "URL": "http://www.moma.org/collection/works/665", 
   "CuratorApproved": "Y", 
-  "Title": "Charrette Submission for The Museum of Modern Art Expansion 1997   New York (Manhattan), New York  First Phase", 
-  "DateAcquired": "1997-10-17", 
+  "CreditLine": "Gift of the architect", 
   "Date": "1997", 
   "ArtistID": 7526, 
   "Keywords": [
@@ -20,7 +19,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "475.1997.1-4", 
-  "ArtistBio": "Japanese, born 1941", 
-  "CreditLine": "Gift of the architect", 
+  "ArtistBio": "(Japanese, born 1941)", 
+  "DateAcquired": "1997-10-17", 
+  "\ufeffTitle": "Charrette Submission for The Museum of Modern Art Expansion 1997 , New York (Manhattan), New York, First Phase", 
   "ObjectID": "665"
 }

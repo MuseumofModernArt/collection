@@ -1,12 +1,11 @@
 {
   "Medium": "Multiple of sailor's hat with embroidery", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "Lawrence Weiner", 
   "URL": "http://www.moma.org/collection/works/67435", 
   "CuratorApproved": "Y", 
-  "Title": "& Toward the Stars (& vers les \u00e9toiles)", 
-  "DateAcquired": "1997-03-06", 
+  "CreditLine": "Linda Barth Goldstein Fund", 
   "Date": "1994", 
   "ArtistID": 6288, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "348.1997", 
-  "ArtistBio": "American, born 1942", 
-  "CreditLine": "Linda Barth Goldstein Fund", 
+  "ArtistBio": "(American, born 1942)", 
+  "DateAcquired": "1997-03-06", 
+  "\ufeffTitle": "& Toward the Stars (& vers les \u00e9toiles)", 
   "ObjectID": "67435"
 }

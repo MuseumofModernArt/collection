@@ -1,12 +1,11 @@
 {
   "Medium": "Lithograph", 
-  "Dimensions": "composition  19 1/16 x 16 3/8\" (48.4 x 41.6 cm)  sheet  27 1/4 x 22 5/16\" (69.2 x 56.7 cm)", 
+  "Dimensions": "composition  19 1/16 x 16 3/8\" (48.4 x 41.6 cm)\r\nsheet  27 1/4 x 22 5/16\" (69.2 x 56.7 cm)", 
   "Classification": "Print", 
   "Artist": "Ryo Watanabe", 
   "URL": "http://www.moma.org/collection/works/63001", 
   "CuratorApproved": "Y", 
-  "Title": "Lipstick V", 
-  "DateAcquired": "1975-05-09", 
+  "CreditLine": "Seiden and de Cuevas Foundation Fund", 
   "Date": "1974", 
   "ArtistID": 6254, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "152.1975", 
-  "ArtistBio": "Japanese, born 1936", 
-  "CreditLine": "Seiden and de Cuevas Foundation Fund", 
+  "ArtistBio": "(Japanese, born 1936)", 
+  "DateAcquired": "1975-05-09", 
+  "\ufeffTitle": "Lipstick V", 
   "ObjectID": "63001"
 }

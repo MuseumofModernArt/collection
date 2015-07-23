@@ -5,8 +5,7 @@
   "Artist": "Josef Hoffmann", 
   "URL": "http://www.moma.org/collection/works/3874", 
   "CuratorApproved": "Y", 
-  "Title": "Side Chair", 
-  "DateAcquired": "1997-10-17", 
+  "CreditLine": "Gift of Jo Carole and Ronald S. Lauder", 
   "Date": "c. 1905", 
   "ArtistID": 2694, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "459.1997", 
-  "ArtistBio": "Austrian, 1870\u20131956", 
-  "CreditLine": "Gift of Jo Carole and Ronald S. Lauder", 
+  "ArtistBio": "(Austrian, 1870\u20131956)", 
+  "DateAcquired": "1997-10-17", 
+  "\ufeffTitle": "Side Chair", 
   "ObjectID": "3874"
 }

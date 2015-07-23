@@ -1,12 +1,11 @@
 {
   "Medium": "Aquatint, with collage", 
-  "Dimensions": "composition  29 13/16 x 21 3/4\" (75.7 x 55.2 cm)  sheet  29 13/16 x 21 5/8\" (75 x 54.9 cm)", 
+  "Dimensions": "composition  29 13/16 x 21 3/4\" (75.7 x 55.2 cm)\r\nsheet  29 13/16 x 21 5/8\" (75 x 54.9 cm)", 
   "Classification": "Print", 
-  "Artist": "Jaume Plensa", 
+  "Artist": "Jaume Plensa, Maurice Rheims", 
   "URL": "http://www.moma.org/collection/works/65954", 
   "CuratorApproved": "Y", 
-  "Title": "Plate III from the series Interiors", 
-  "DateAcquired": "1992-05-20", 
+  "CreditLine": "Purchase", 
   "Date": "(1991)", 
   "ArtistID": 6861, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "281.1992", 
-  "ArtistBio": "Spanish, born 1955", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(Spanish, born 1955)", 
+  "DateAcquired": "1992-05-20", 
+  "\ufeffTitle": "Plate III from the series Interiors", 
   "ObjectID": "65954"
 }

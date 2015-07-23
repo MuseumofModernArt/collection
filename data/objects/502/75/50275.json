@@ -5,8 +5,7 @@
   "Artist": "Lois Conner", 
   "URL": "http://www.moma.org/collection/works/50275", 
   "CuratorApproved": "Y", 
-  "Title": "Chinatown, New York", 
-  "DateAcquired": "1991-10-25", 
+  "CreditLine": "E.T. Harmax Foundation Fund", 
   "Date": "1989", 
   "ArtistID": 6616, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "303.1991", 
-  "ArtistBio": "American, born 1951", 
-  "CreditLine": "E.T. Harmax Foundation Fund", 
+  "ArtistBio": "(American, born 1951)", 
+  "DateAcquired": "1991-10-25", 
+  "\ufeffTitle": "Chinatown, New York", 
   "ObjectID": "50275"
 }

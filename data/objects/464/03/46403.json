@@ -5,8 +5,7 @@
   "Artist": "Josef Sudek", 
   "URL": "http://www.moma.org/collection/works/46403", 
   "CuratorApproved": "Y", 
-  "Title": "A Walk in the Magic Garden", 
-  "DateAcquired": "1999-03-11", 
+  "CreditLine": "Gift of Gayle Greenhill", 
   "Date": "1954", 
   "ArtistID": 5715, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "109.1999", 
-  "ArtistBio": "Czech, 1896\u20131976", 
-  "CreditLine": "Gift of Gayle Greenhill", 
+  "ArtistBio": "(Czech, 1896\u20131976)", 
+  "DateAcquired": "1999-03-11", 
+  "\ufeffTitle": "A Walk in the Magic Garden", 
   "ObjectID": "46403"
 }

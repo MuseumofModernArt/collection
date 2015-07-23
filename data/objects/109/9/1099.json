@@ -5,8 +5,7 @@
   "Artist": "Gustave Falconnier", 
   "URL": "http://www.moma.org/collection/works/1099", 
   "CuratorApproved": "Y", 
-  "Title": "Glass Bricks", 
-  "DateAcquired": "2001-09-24", 
+  "CreditLine": "Given anonymously", 
   "Date": "1886", 
   "Keywords": [
     "online art collection", 
@@ -16,7 +15,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "2308.2001.1-3", 
-  "ArtistBio": "Swiss", 
-  "CreditLine": "Given anonymously", 
+  "ArtistBio": "(Swiss)", 
+  "DateAcquired": "2001-09-24", 
+  "\ufeffTitle": "Glass Bricks", 
   "ObjectID": "1099"
 }

@@ -5,8 +5,7 @@
   "Artist": "Miyako Ishiuchi", 
   "URL": "http://www.moma.org/collection/works/55932", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled #5", 
-  "DateAcquired": "1994-12-15", 
+  "CreditLine": "Gift of the photographer", 
   "Date": "1977", 
   "ArtistID": 8090, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "667.1994", 
-  "ArtistBio": "Japanese, born 1947", 
-  "CreditLine": "Gift of the photographer", 
+  "ArtistBio": "(Japanese, born 1947)", 
+  "DateAcquired": "1994-12-15", 
+  "\ufeffTitle": "Untitled #5 from the series Yokosuka Story", 
   "ObjectID": "55932"
 }

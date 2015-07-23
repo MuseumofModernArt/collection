@@ -5,8 +5,7 @@
   "Artist": "Charles S. Todd", 
   "URL": "http://www.moma.org/collection/works/2160", 
   "CuratorApproved": "Y", 
-  "Title": "Vase", 
-  "DateAcquired": "1957-05-15", 
+  "CreditLine": "Phyllis B. Lambert Fund", 
   "Date": "c. 1922", 
   "ArtistID": 5891, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "111.1957", 
-  "ArtistBio": "American, 1885\u20131950", 
-  "CreditLine": "Phyllis B. Lambert Fund", 
+  "ArtistBio": "(American, 1885\u20131950)", 
+  "DateAcquired": "1957-05-15", 
+  "\ufeffTitle": "Vase", 
   "ObjectID": "2160"
 }

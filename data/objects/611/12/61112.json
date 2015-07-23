@@ -5,8 +5,7 @@
   "Artist": "James Ensor", 
   "URL": "http://www.moma.org/collection/works/61112", 
   "CuratorApproved": "Y", 
-  "Title": "Cathedral", 
-  "DateAcquired": "1955-04-06", 
+  "CreditLine": "Gift of Abby Aldrich Rockefeller (by exchange)", 
   "Date": "1886", 
   "ArtistID": 1739, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "60.1955", 
-  "ArtistBio": "Belgian, 1860\u20131949", 
-  "CreditLine": "Gift of Abby Aldrich Rockefeller (by exchange)", 
+  "ArtistBio": "(Belgian, 1860\u20131949)", 
+  "DateAcquired": "1955-04-06", 
+  "\ufeffTitle": "Cathedral", 
   "ObjectID": "61112"
 }

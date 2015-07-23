@@ -1,12 +1,11 @@
 {
   "Medium": "Etching, aquatint, drypoint, and engraving", 
-  "Dimensions": "plate  29 3/8 x 19 13/16\" (74.6 x 50.3 cm)  sheet  39 1/8 x 27 13/16\" (99 x 70.6 cm)", 
+  "Dimensions": "plate  29 3/8 x 19 13/16\" (74.6 x 50.3 cm)\r\nsheet  39 1/8 x 27 13/16\" (99 x 70.6 cm)", 
   "Classification": "Print", 
   "Artist": "Jim Dine", 
   "URL": "http://www.moma.org/collection/works/68957", 
   "CuratorApproved": "Y", 
-  "Title": "Black and White Flowers", 
-  "DateAcquired": "1977-11-10", 
+  "CreditLine": "Gift of the artist", 
   "Date": "1977", 
   "ArtistID": 1547, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "427.1977", 
-  "ArtistBio": "American, born 1935", 
-  "CreditLine": "Gift of the artist", 
+  "ArtistBio": "(American, born 1935)", 
+  "DateAcquired": "1977-11-10", 
+  "\ufeffTitle": "Black and White Flowers", 
   "ObjectID": "68957"
 }

@@ -5,8 +5,7 @@
   "Artist": "Anni Albers", 
   "URL": "http://www.moma.org/collection/works/3688", 
   "CuratorApproved": "Y", 
-  "Title": "Fabric Sample", 
-  "DateAcquired": "1970-11-05", 
+  "CreditLine": "Gift of Josef Albers", 
   "Date": "c. 1949", 
   "ArtistID": 96, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "450.1970.69", 
-  "ArtistBio": "American, born Germany. 1899\u20131994", 
-  "CreditLine": "Gift of Josef Albers", 
+  "ArtistBio": "(American, born Germany. 1899\u20131994)", 
+  "DateAcquired": "1970-11-05", 
+  "\ufeffTitle": "Fabric Sample", 
   "ObjectID": "3688"
 }

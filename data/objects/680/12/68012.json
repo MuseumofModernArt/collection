@@ -1,12 +1,11 @@
 {
-  "Medium": "Portfolio of six lithographs, one lithographed title page and one lithographed cover  ", 
+  "Medium": "Portfolio of six lithographs, one lithographed title page and one lithographed cover\r\n", 
   "Dimensions": "composition (each approx.): 10 1/8 x 7 13/16\" (25.7 x 19.9 cm); sheet (each approx.): 16 1/2 x 11 5/16\" (41.9 x 28.7 cm); overall: 19 3/8 x 13 x 1/4\" (49.2 x 33 x 0.6 cm)", 
   "Classification": "Print", 
   "Artist": "Oskar Schlemmer", 
   "URL": "http://www.moma.org/collection/works/68012", 
   "CuratorApproved": "Y", 
-  "Title": "Play on Heads", 
-  "DateAcquired": "1949-09-29", 
+  "CreditLine": "Gift of J. B. Neumann", 
   "Date": "(1923, prints executed c. 1920)", 
   "ArtistID": 5219, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "374.1949.1-8", 
-  "ArtistBio": "German, 1888\u20131943", 
-  "CreditLine": "Gift of J. B. Neumann", 
+  "ArtistBio": "(German, 1888\u20131943)", 
+  "DateAcquired": "1949-09-29", 
+  "\ufeffTitle": "Play on Heads (Spiel mit K\u00f6pfen)", 
   "ObjectID": "68012"
 }

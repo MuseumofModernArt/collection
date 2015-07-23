@@ -1,12 +1,11 @@
 {
   "Medium": "Photolithographwith tape additions", 
-  "Dimensions": "composition  23 7/16 x 31 7/16\" (59.6 x 79.8 cm)  sheet  23 7/16 x 31 7/16\" (59 x 79.8 cm)", 
+  "Dimensions": "composition  23 7/16 x 31 7/16\" (59.6 x 79.8 cm)\r\nsheet  23 7/16 x 31 7/16\" (59 x 79.8 cm)", 
   "Classification": "Print", 
   "Artist": "Christian Boltanski", 
   "URL": "http://www.moma.org/collection/works/59583", 
   "CuratorApproved": "Y", 
-  "Title": "The Jewish School (Berlin 1939) (Die J\u00fcdische Schule [Berlin 1939]) from the portfolio The Frozen Leopard II (Der Gefrorene Leopard II)", 
-  "DateAcquired": "1993-01-18", 
+  "CreditLine": "Purchase", 
   "Date": "(1992)", 
   "ArtistID": 649, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "1.1993", 
-  "ArtistBio": "French, born 1944", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(French, born 1944)", 
+  "DateAcquired": "1993-01-18", 
+  "\ufeffTitle": "The Jewish School (Berlin 1939) (Die J\u00fcdische Schule [Berlin 1939]) from the portfolio The Frozen Leopard II (Der Gefrorene Leopard II)", 
   "ObjectID": "59583"
 }

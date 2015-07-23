@@ -5,8 +5,7 @@
   "Artist": "Rosalind Fox Solomon", 
   "URL": "http://www.moma.org/collection/works/51956", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled, Calcutta, India", 
-  "DateAcquired": "1986-10-16", 
+  "CreditLine": "Acquired through the generosity of Lois and Bruce Zenkel", 
   "Date": "1982", 
   "ArtistID": 5517, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "370.1986", 
-  "ArtistBio": "American, born 1930", 
-  "CreditLine": "Acquired through the generosity of Lois and Bruce Zenkel", 
+  "ArtistBio": "(American, born 1930)", 
+  "DateAcquired": "1986-10-16", 
+  "\ufeffTitle": "Untitled, Calcutta, India", 
   "ObjectID": "51956"
 }

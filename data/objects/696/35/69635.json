@@ -1,12 +1,11 @@
 {
   "Medium": "Lithograph", 
-  "Dimensions": "Composition (irreg.): 6 7/8 x 16 9/16\" (17.5 x 42 cm)  Sheet: 7 7/8 x 16 9/16\" (20 x 42 cm)", 
+  "Dimensions": "Composition (irreg.): 6 7/8 x 16 9/16\" (17.5 x 42 cm)\r\nSheet: 7 7/8 x 16 9/16\" (20 x 42 cm)", 
   "Classification": "Print", 
   "Artist": "Antoni T\u00e0pies", 
   "URL": "http://www.moma.org/collection/works/69635", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1990-10-23", 
+  "CreditLine": "Gift of Galerie Lelong, Paris", 
   "Date": "1976", 
   "ArtistID": 5809, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "466.1990", 
-  "ArtistBio": "Spanish, 1923\u20132012", 
-  "CreditLine": "Gift of Galerie Lelong, Paris", 
+  "ArtistBio": "(Spanish, 1923\u20132012)", 
+  "DateAcquired": "1990-10-23", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "69635"
 }

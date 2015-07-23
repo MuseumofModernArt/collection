@@ -5,8 +5,7 @@
   "Artist": "George Krause", 
   "URL": "http://www.moma.org/collection/works/54117", 
   "CuratorApproved": "Y", 
-  "Title": "Vine Street, Philadelphia", 
-  "DateAcquired": "1960-11-30", 
+  "CreditLine": "Purchase", 
   "Date": "c. 1960", 
   "ArtistID": 3244, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "479.1960", 
-  "ArtistBio": "American, born 1937", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, born 1937)", 
+  "DateAcquired": "1960-11-30", 
+  "\ufeffTitle": "Vine Street, Philadelphia, Old Man and Trees", 
   "ObjectID": "54117"
 }

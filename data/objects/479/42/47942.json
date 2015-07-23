@@ -1,12 +1,11 @@
 {
   "Medium": "Albumen silver print", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Photograph", 
   "Artist": "Francis Frith", 
   "URL": "http://www.moma.org/collection/works/47942", 
   "CuratorApproved": "Y", 
-  "Title": "Great Pyramid and Sphinx", 
-  "DateAcquired": "1972-05-02", 
+  "CreditLine": "Purchase", 
   "Date": "1855-98", 
   "ArtistID": 2015, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "184.1972", 
-  "ArtistBio": "British, 1822\u20131898", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(British, 1822\u20131898)", 
+  "DateAcquired": "1972-05-02", 
+  "\ufeffTitle": "Great Pyramid and Sphinx", 
   "ObjectID": "47942"
 }

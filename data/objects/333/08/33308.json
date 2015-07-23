@@ -5,8 +5,7 @@
   "Artist": "Paul Cadmus", 
   "URL": "http://www.moma.org/collection/works/33308", 
   "CuratorApproved": "Y", 
-  "Title": "Gluttony", 
-  "DateAcquired": "1978-04-04", 
+  "CreditLine": "The Joan and Lester Avnet Collection", 
   "Date": "(1949)", 
   "ArtistID": 909, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "22.1978", 
-  "ArtistBio": "American, 1904\u20131999", 
-  "CreditLine": "The Joan and Lester Avnet Collection", 
+  "ArtistBio": "(American, 1904\u20131999)", 
+  "DateAcquired": "1978-04-04", 
+  "\ufeffTitle": "Gluttony", 
   "ObjectID": "33308"
 }

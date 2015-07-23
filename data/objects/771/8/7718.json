@@ -5,8 +5,7 @@
   "Artist": "Armin Hofmann", 
   "URL": "http://www.moma.org/collection/works/7718", 
   "CuratorApproved": "Y", 
-  "Title": "Form & Farbe", 
-  "DateAcquired": "1981-12-10", 
+  "CreditLine": "Gift of Leslie J. Schreyer", 
   "Date": "1951", 
   "ArtistID": 2697, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "606.1981", 
-  "ArtistBio": "Swiss, born 1920", 
-  "CreditLine": "Gift of Leslie J. Schreyer", 
+  "ArtistBio": "(Swiss, born 1920)", 
+  "DateAcquired": "1981-12-10", 
+  "\ufeffTitle": "Form & Farbe", 
   "ObjectID": "7718"
 }

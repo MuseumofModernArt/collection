@@ -5,8 +5,7 @@
   "Artist": "Karel Teige", 
   "URL": "http://www.moma.org/collection/works/7697", 
   "CuratorApproved": "Y", 
-  "Title": "Slodi jez dovazi caj a kavu by Konstantin Biebl", 
-  "DateAcquired": "1977-11-28", 
+  "CreditLine": "Jan Tschichold Collection, Gift of Philip Johnson", 
   "Date": "1928", 
   "ArtistID": 5826, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "601.1977", 
-  "ArtistBio": "Czech, 1900\u20131951", 
-  "CreditLine": "Jan Tschichold Collection, Gift of Philip Johnson", 
+  "ArtistBio": "(Czech, 1900\u20131951)", 
+  "DateAcquired": "1977-11-28", 
+  "\ufeffTitle": "\"Slodi jez dovazi caj a kavu\" by Konstantin Biebl", 
   "ObjectID": "7697"
 }

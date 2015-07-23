@@ -5,8 +5,7 @@
   "Artist": "Neal Boenzi/The New York Times", 
   "URL": "http://www.moma.org/collection/works/58553", 
   "CuratorApproved": "Y", 
-  "Title": "After the Decision-'No Contract, No Work'", 
-  "DateAcquired": "2001-06-14", 
+  "CreditLine": "The New York Times Collection", 
   "Date": "February 2, 1968", 
   "ArtistID": 8512, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "1960.2001", 
-  "ArtistBio": "American, born 1925", 
-  "CreditLine": "The New York Times Collection", 
+  "ArtistBio": "(American, born 1925)", 
+  "DateAcquired": "2001-06-14", 
+  "\ufeffTitle": "After the Decision-'No Contract, No Work'", 
   "ObjectID": "58553"
 }

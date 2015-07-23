@@ -5,8 +5,7 @@
   "Artist": "Claudio Bravo", 
   "URL": "http://www.moma.org/collection/works/35749", 
   "CuratorApproved": "Y", 
-  "Title": "The Skull", 
-  "DateAcquired": "1978-04-04", 
+  "CreditLine": "Gift of Glor\u00eda Kirby, Madrid", 
   "Date": "1973", 
   "ArtistID": 753, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "264.1978", 
-  "ArtistBio": "Chilean, 1936\u20132011", 
-  "CreditLine": "Gift of Glor\u00eda Kirby, Madrid", 
+  "ArtistBio": "(Chilean, 1936\u20132011)", 
+  "DateAcquired": "1978-04-04", 
+  "\ufeffTitle": "The Skull", 
   "ObjectID": "35749"
 }

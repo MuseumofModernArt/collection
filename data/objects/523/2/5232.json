@@ -5,8 +5,7 @@
   "Artist": "Ikko Tanaka", 
   "URL": "http://www.moma.org/collection/works/5232", 
   "CuratorApproved": "Y", 
-  "Title": "World Commercial Design Exhibition", 
-  "DateAcquired": "1963-03-13", 
+  "CreditLine": "Gift of the artist", 
   "Date": "1959", 
   "ArtistID": 5800, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "144.1963", 
-  "ArtistBio": "Japanese, 1930\u20132002", 
-  "CreditLine": "Gift of the artist", 
+  "ArtistBio": "(Japanese, 1930\u20132002)", 
+  "DateAcquired": "1963-03-13", 
+  "\ufeffTitle": "World Commercial Design Exhibition", 
   "ObjectID": "5232"
 }

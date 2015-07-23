@@ -5,8 +5,7 @@
   "Artist": "Sheila Metzner", 
   "URL": "http://www.moma.org/collection/works/54624", 
   "CuratorApproved": "Y", 
-  "Title": "Ruby", 
-  "DateAcquired": "1980-10-23", 
+  "CreditLine": "Gift of the photographer", 
   "Date": "1980", 
   "ArtistID": 3950, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "517.1980", 
-  "ArtistBio": "American, born 1939", 
-  "CreditLine": "Gift of the photographer", 
+  "ArtistBio": "(American, born 1939)", 
+  "DateAcquired": "1980-10-23", 
+  "\ufeffTitle": "Ruby", 
   "ObjectID": "54624"
 }

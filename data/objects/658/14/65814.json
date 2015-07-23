@@ -5,8 +5,7 @@
   "Artist": "Pierre Courtin", 
   "URL": "http://www.moma.org/collection/works/65814", 
   "CuratorApproved": "Y", 
-  "Title": "Composition", 
-  "DateAcquired": "1957-12-04", 
+  "CreditLine": "Gift of Theodore Schempp", 
   "Date": "1956", 
   "ArtistID": 1274, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "275.1957", 
-  "ArtistBio": "French, born 1921", 
-  "CreditLine": "Gift of Theodore Schempp", 
+  "ArtistBio": "(French, born 1921)", 
+  "DateAcquired": "1957-12-04", 
+  "\ufeffTitle": "Composition", 
   "ObjectID": "65814"
 }

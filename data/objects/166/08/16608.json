@@ -5,8 +5,7 @@
   "Artist": "Andy Warhol", 
   "URL": "http://www.moma.org/collection/works/16608", 
   "CuratorApproved": "Y", 
-  "Title": "A Gold Book", 
-  "DateAcquired": "1974-09-11", 
+  "CreditLine": "Gift of Russell Lynes", 
   "Date": "1957", 
   "ArtistID": 6246, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "390.1974.1-5", 
-  "ArtistBio": "American, 1928\u20131987", 
-  "CreditLine": "Gift of Russell Lynes", 
+  "ArtistBio": "(American, 1928\u20131987)", 
+  "DateAcquired": "1974-09-11", 
+  "\ufeffTitle": "A Gold Book", 
   "ObjectID": "16608"
 }

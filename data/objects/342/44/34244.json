@@ -5,8 +5,7 @@
   "Artist": "William Copley", 
   "URL": "http://www.moma.org/collection/works/34244", 
   "CuratorApproved": "Y", 
-  "Title": "Story", 
-  "DateAcquired": "1976-03-23", 
+  "CreditLine": "Given anonymously", 
   "Date": "1972", 
   "ArtistID": 1238, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "124.1976", 
-  "ArtistBio": "American, 1919\u20131996", 
-  "CreditLine": "Given anonymously", 
+  "ArtistBio": "(American, 1919\u20131996)", 
+  "DateAcquired": "1976-03-23", 
+  "\ufeffTitle": "Story", 
   "ObjectID": "34244"
 }

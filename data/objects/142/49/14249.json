@@ -5,8 +5,7 @@
   "Artist": "Marcel Broodthaers", 
   "URL": "http://www.moma.org/collection/works/14249", 
   "CuratorApproved": "Y", 
-  "Title": "A Voyage on the North Sea", 
-  "DateAcquired": "1984-10-02", 
+  "CreditLine": "Gift of Kynaston McShine", 
   "Date": "1973", 
   "ArtistID": 795, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "251.1984", 
-  "ArtistBio": "Belgian, 1924\u20131976", 
-  "CreditLine": "Gift of Kynaston McShine", 
+  "ArtistBio": "(Belgian, 1924\u20131976)", 
+  "DateAcquired": "1984-10-02", 
+  "\ufeffTitle": "A Voyage on the North Sea", 
   "ObjectID": "14249"
 }

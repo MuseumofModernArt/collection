@@ -1,12 +1,11 @@
 {
   "Medium": "Portfolio of ten etchings and four screenprints", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "John Bellany", 
   "URL": "http://www.moma.org/collection/works/62084", 
   "CuratorApproved": "Y", 
-  "Title": "The Old Man and the Sea", 
-  "DateAcquired": "1990-05-02", 
+  "CreditLine": "Gift of the artist", 
   "Date": "1987", 
   "ArtistID": 449, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "115.1990.1-14", 
-  "ArtistBio": "British, 1942\u20132013", 
-  "CreditLine": "Gift of the artist", 
+  "ArtistBio": "(British, 1942\u20132013)", 
+  "DateAcquired": "1990-05-02", 
+  "\ufeffTitle": "The Old Man and the Sea", 
   "ObjectID": "62084"
 }

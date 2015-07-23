@@ -5,8 +5,7 @@
   "Artist": "Edvard Munch", 
   "URL": "http://www.moma.org/collection/works/61261", 
   "CuratorApproved": "Y", 
-  "Title": "Self Portrait", 
-  "DateAcquired": "1959-03-02", 
+  "CreditLine": "Gift of James L. Goodwin in memory of Philip L. Goodwin", 
   "Date": "1895, signed 1896", 
   "ArtistID": 4164, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "71.1959", 
-  "ArtistBio": "Norwegian, 1863\u20131944", 
-  "CreditLine": "Gift of James L. Goodwin in memory of Philip L. Goodwin", 
+  "ArtistBio": "(Norwegian, 1863\u20131944)", 
+  "DateAcquired": "1959-03-02", 
+  "\ufeffTitle": "Self Portrait", 
   "ObjectID": "61261"
 }

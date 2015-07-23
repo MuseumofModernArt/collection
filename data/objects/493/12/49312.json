@@ -5,8 +5,7 @@
   "Artist": "Larry Fink", 
   "URL": "http://www.moma.org/collection/works/49312", 
   "CuratorApproved": "Y", 
-  "Title": "Don King, Las Vegas", 
-  "DateAcquired": "1993-06-01", 
+  "CreditLine": "Purchase", 
   "Date": "1991", 
   "ArtistID": 1877, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "235.1993", 
-  "ArtistBio": "American, born 1941", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, born 1941)", 
+  "DateAcquired": "1993-06-01", 
+  "\ufeffTitle": "Don King, Las Vegas", 
   "ObjectID": "49312"
 }

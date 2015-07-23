@@ -5,8 +5,7 @@
   "Artist": "Asao Sakamoto", 
   "URL": "http://www.moma.org/collection/works/1974", 
   "CuratorApproved": "Y", 
-  "Title": "Platter", 
-  "DateAcquired": "1990-01-17", 
+  "CreditLine": "Gift of Louise Chinn", 
   "Date": "1989", 
   "ArtistID": 5118, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "70.1990", 
-  "ArtistBio": "Japanese, born 1950", 
-  "CreditLine": "Gift of Louise Chinn", 
+  "ArtistBio": "(Japanese, born 1950)", 
+  "DateAcquired": "1990-01-17", 
+  "\ufeffTitle": "Platter", 
   "ObjectID": "1974"
 }

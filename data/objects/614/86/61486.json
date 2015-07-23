@@ -5,8 +5,7 @@
   "Artist": "Jos\u00e9 Clemente Orozco", 
   "URL": "http://www.moma.org/collection/works/61486", 
   "CuratorApproved": "Y", 
-  "Title": "The Masses", 
-  "DateAcquired": "1944-05-02", 
+  "CreditLine": "Inter-American Fund", 
   "Date": "(1935)", 
   "ArtistID": 4430, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "79.1944", 
-  "ArtistBio": "Mexican, 1883\u20131949", 
-  "CreditLine": "Inter-American Fund", 
+  "ArtistBio": "(Mexican, 1883\u20131949)", 
+  "DateAcquired": "1944-05-02", 
+  "\ufeffTitle": "The Masses", 
   "ObjectID": "61486"
 }

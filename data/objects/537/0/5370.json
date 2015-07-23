@@ -5,8 +5,7 @@
   "Artist": "A. M. Cassandre", 
   "URL": "http://www.moma.org/collection/works/5370", 
   "CuratorApproved": "Y", 
-  "Title": "Dubo Dubon Dubonnet", 
-  "DateAcquired": "1950-04-24", 
+  "CreditLine": "Gift of Bernard Davis", 
   "Date": "1932", 
   "ArtistID": 1015, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "158.1950", 
-  "ArtistBio": "French, 1901\u20131968", 
-  "CreditLine": "Gift of Bernard Davis", 
+  "ArtistBio": "(French, 1901\u20131968)", 
+  "DateAcquired": "1950-04-24", 
+  "\ufeffTitle": "Dubo Dubon Dubonnet", 
   "ObjectID": "5370"
 }

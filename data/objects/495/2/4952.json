@@ -5,8 +5,7 @@
   "Artist": "Tadanori Yokoo", 
   "URL": "http://www.moma.org/collection/works/4952", 
   "CuratorApproved": "Y", 
-  "Title": "Art Now", 
-  "DateAcquired": "1972-04-11", 
+  "CreditLine": "Gift of the designer", 
   "Date": "1971", 
   "ArtistID": 6502, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "75.1972", 
-  "ArtistBio": "Japanese, born 1936", 
-  "CreditLine": "Gift of the designer", 
+  "ArtistBio": "(Japanese, born 1936)", 
+  "DateAcquired": "1972-04-11", 
+  "\ufeffTitle": "\"Art Now\"", 
   "ObjectID": "4952"
 }

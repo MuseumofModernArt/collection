@@ -5,8 +5,7 @@
   "Artist": "Raymond Pettibon", 
   "URL": "http://www.moma.org/collection/works/33795", 
   "CuratorApproved": "Y", 
-  "Title": "No Title (And his mouth)", 
-  "DateAcquired": "1998-01-20", 
+  "CreditLine": "Gift of the Friends of Contemporary Drawing", 
   "Date": "1991", 
   "ArtistID": 7500, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "88.1996.14", 
-  "ArtistBio": "American, born 1957", 
-  "CreditLine": "Gift of the Friends of Contemporary Drawing", 
+  "ArtistBio": "(American, born 1957)", 
+  "DateAcquired": "1998-01-20", 
+  "\ufeffTitle": "No Title (And his mouth)", 
   "ObjectID": "33795"
 }

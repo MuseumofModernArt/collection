@@ -5,8 +5,7 @@
   "Artist": "Kurt Schwitters", 
   "URL": "http://www.moma.org/collection/works/35254", 
   "CuratorApproved": "Y", 
-  "Title": "29/32", 
-  "DateAcquired": "1953-04-07", 
+  "CreditLine": "Katherine S. Dreier Bequest", 
   "Date": "1929", 
   "ArtistID": 5293, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "201.1953", 
-  "ArtistBio": "German, 1887\u20131948", 
-  "CreditLine": "Katherine S. Dreier Bequest", 
+  "ArtistBio": "(German, 1887\u20131948)", 
+  "DateAcquired": "1953-04-07", 
+  "\ufeffTitle": "29/32", 
   "ObjectID": "35254"
 }

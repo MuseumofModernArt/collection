@@ -5,8 +5,7 @@
   "Artist": "Joseph Cornell", 
   "URL": "http://www.moma.org/collection/works/37822", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1981-04-28", 
+  "CreditLine": "The Joan and Lester Avnet Fund", 
   "Date": "(1930s)", 
   "ArtistID": 1247, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "705.1980", 
-  "ArtistBio": "American, 1903\u20131972", 
-  "CreditLine": "The Joan and Lester Avnet Fund", 
+  "ArtistBio": "(American, 1903\u20131972)", 
+  "DateAcquired": "1981-04-28", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "37822"
 }

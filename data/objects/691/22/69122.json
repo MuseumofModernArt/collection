@@ -1,12 +1,11 @@
 {
   "Medium": "Aquatint", 
-  "Dimensions": "plate  5 15/16 x 7 13/16\" (15.1 x 19.9 cm)  sheet  23 5/16 x 17 13/16\" (59.2 x 45.2 cm)", 
+  "Dimensions": "plate  5 15/16 x 7 13/16\" (15.1 x 19.9 cm)\r\nsheet  23 5/16 x 17 13/16\" (59.2 x 45.2 cm)", 
   "Classification": "Print", 
   "Artist": "Robert Motherwell", 
   "URL": "http://www.moma.org/collection/works/69122", 
   "CuratorApproved": "Y", 
-  "Title": "Phoenician Etching", 
-  "DateAcquired": "1978-05-22", 
+  "CreditLine": "Gift of the artist and Brooke Alexander, Inc.", 
   "Date": "(1977)", 
   "ArtistID": 4126, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "437.1978", 
-  "ArtistBio": "American, 1915\u20131991", 
-  "CreditLine": "Gift of the artist and Brooke Alexander, Inc.", 
+  "ArtistBio": "(American, 1915\u20131991)", 
+  "DateAcquired": "1978-05-22", 
+  "\ufeffTitle": "Phoenician Etching", 
   "ObjectID": "69122"
 }

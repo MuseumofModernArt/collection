@@ -5,8 +5,7 @@
   "Artist": "Rosalind Fox Solomon", 
   "URL": "http://www.moma.org/collection/works/54863", 
   "CuratorApproved": "Y", 
-  "Title": "Poke Bonnet, Scottsboro, Alabama", 
-  "DateAcquired": "1980-10-23", 
+  "CreditLine": "Gift of the photographer", 
   "Date": "1974", 
   "ArtistID": 5517, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "538.1980", 
-  "ArtistBio": "American, born 1930", 
-  "CreditLine": "Gift of the photographer", 
+  "ArtistBio": "(American, born 1930)", 
+  "DateAcquired": "1980-10-23", 
+  "\ufeffTitle": "Poke Bonnet, Scottsboro, Alabama", 
   "ObjectID": "54863"
 }

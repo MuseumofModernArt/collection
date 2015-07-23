@@ -1,12 +1,11 @@
 {
   "Medium": "Illustrated book with twenty-seven photolithographs and two line block prints", 
-  "Dimensions": "irreg. sheet  12 11/16 x 10\" (32.3 x 25.5 cm)  irreg. page  15 9/16 x 12 11/16\" (39 x 32.2 cm)", 
+  "Dimensions": "irreg. sheet  12 11/16 x 10\" (32.3 x 25.5 cm)\r\nirreg. page  15 9/16 x 12 11/16\" (39 x 32.2 cm)", 
   "Classification": "Illustrated Book", 
   "Artist": "William Newzam Prior Nicholson", 
   "URL": "http://www.moma.org/collection/works/13435", 
   "CuratorApproved": "Y", 
-  "Title": "An Alphabet", 
-  "DateAcquired": "1970-05-12", 
+  "CreditLine": "Reiss-Cohen Fund", 
   "Date": "1897, dated 1898", 
   "ArtistID": 4294, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "203.1970", 
-  "ArtistBio": "British, 1872\u20131949", 
-  "CreditLine": "Reiss-Cohen Fund", 
+  "ArtistBio": "(British, 1872\u20131949)", 
+  "DateAcquired": "1970-05-12", 
+  "\ufeffTitle": "An Alphabet", 
   "ObjectID": "13435"
 }

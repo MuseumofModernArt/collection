@@ -5,8 +5,7 @@
   "Artist": "Eug\u00e8ne Atget", 
   "URL": "http://www.moma.org/collection/works/39804", 
   "CuratorApproved": "Y", 
-  "Title": "Jardin du Luxembourg", 
-  "DateAcquired": "1968-03-06", 
+  "CreditLine": "Abbott-Levy Collection. Partial gift of Shirley C. Burden", 
   "Date": "1919-21", 
   "ArtistID": 229, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "1.1969.1831", 
-  "ArtistBio": "French, 1857\u20131927", 
-  "CreditLine": "Abbott-Levy Collection. Partial gift of Shirley C. Burden", 
+  "ArtistBio": "(French, 1857\u20131927)", 
+  "DateAcquired": "1968-03-06", 
+  "\ufeffTitle": "Jardin du Luxembourg", 
   "ObjectID": "39804"
 }

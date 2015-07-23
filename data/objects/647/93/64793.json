@@ -1,12 +1,11 @@
 {
   "Medium": "Etching and aquatint", 
-  "Dimensions": "plate  13 1/2 x 18 7/8\" (34.3 x 47.9 cm)  sheet  22 3/8 x 27 1/8\" (56.8 x 68.9 cm)", 
+  "Dimensions": "plate  13 1/2 x 18 7/8\" (34.3 x 47.9 cm)\r\nsheet  22 3/8 x 27 1/8\" (56.8 x 68.9 cm)", 
   "Classification": "Print", 
   "Artist": "Helen Frankenthaler", 
   "URL": "http://www.moma.org/collection/works/64793", 
   "CuratorApproved": "Y", 
-  "Title": "Crete", 
-  "DateAcquired": "1972-05-08", 
+  "CreditLine": "Gift of Celeste Bartos", 
   "Date": "1969-72", 
   "ArtistID": 1974, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "229.1972", 
-  "ArtistBio": "American, 1928\u20132011", 
-  "CreditLine": "Gift of Celeste Bartos", 
+  "ArtistBio": "(American, 1928\u20132011)", 
+  "DateAcquired": "1972-05-08", 
+  "\ufeffTitle": "Crete", 
   "ObjectID": "64793"
 }

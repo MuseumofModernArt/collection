@@ -5,8 +5,7 @@
   "Artist": "Jacob August Riis", 
   "URL": "http://www.moma.org/collection/works/50807", 
   "CuratorApproved": "Y", 
-  "Title": "Blind Beggar", 
-  "DateAcquired": "1959-04-22", 
+  "CreditLine": "Gift of the Museum of the City of New York", 
   "Date": "1888", 
   "ArtistID": 4928, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "325.1959", 
-  "ArtistBio": "American, born Denmark. 1849\u20131914", 
-  "CreditLine": "Gift of the Museum of the City of New York", 
+  "ArtistBio": "(American, born Denmark. 1849\u20131914)", 
+  "DateAcquired": "1959-04-22", 
+  "\ufeffTitle": "Blind Beggar", 
   "ObjectID": "50807"
 }

@@ -5,8 +5,7 @@
   "Artist": "Masuo Ikeda", 
   "URL": "http://www.moma.org/collection/works/62002", 
   "CuratorApproved": "Y", 
-  "Title": "Secret Box", 
-  "DateAcquired": "1970-03-05", 
+  "CreditLine": "Purchase", 
   "Date": "1969", 
   "ArtistID": 2801, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "113.1970", 
-  "ArtistBio": "Japanese, 1934\u20131997", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(Japanese, 1934\u20131997)", 
+  "DateAcquired": "1970-03-05", 
+  "\ufeffTitle": "Secret Box", 
   "ObjectID": "62002"
 }

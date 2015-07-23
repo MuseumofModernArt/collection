@@ -1,12 +1,11 @@
 {
   "Medium": "Screenprint", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Illustrated Book", 
   "Artist": "Robert Indiana", 
   "URL": "http://www.moma.org/collection/works/32358", 
   "CuratorApproved": "Y", 
-  "Title": "NINE (plate, folio 28) from NUMBERS", 
-  "DateAcquired": "1968-12-11", 
+  "CreditLine": "The Celeste and Armand Bartos Foundation Fund", 
   "Date": "1968", 
   "ArtistID": 2812, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "1644.1968.9", 
-  "ArtistBio": "American, born 1928", 
-  "CreditLine": "The Celeste and Armand Bartos Foundation Fund", 
+  "ArtistBio": "(American, born 1928)", 
+  "DateAcquired": "1968-12-11", 
+  "\ufeffTitle": "Nine (plate, folio 28) from Numbers", 
   "ObjectID": "32358"
 }

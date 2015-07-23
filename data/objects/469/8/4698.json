@@ -5,8 +5,7 @@
   "Artist": "Peter Schlumbohm", 
   "URL": "http://www.moma.org/collection/works/4698", 
   "CuratorApproved": "Y", 
-  "Title": "Fahrenheitor Ice-buoy Buffet", 
-  "DateAcquired": "2001-04-30", 
+  "CreditLine": "Gift of the manufacturer", 
   "Date": "1946", 
   "ArtistID": 5225, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "1335.2001.a-c", 
-  "ArtistBio": "American, born Germany. 1896\u20131962", 
-  "CreditLine": "Gift of the manufacturer", 
+  "ArtistBio": "(American, born Germany. 1896\u20131962)", 
+  "DateAcquired": "2001-04-30", 
+  "\ufeffTitle": "Fahrenheitor Ice-buoy Buffet", 
   "ObjectID": "4698"
 }

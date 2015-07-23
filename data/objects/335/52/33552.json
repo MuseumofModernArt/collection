@@ -5,8 +5,7 @@
   "Artist": "Charles Demuth", 
   "URL": "http://www.moma.org/collection/works/33552", 
   "CuratorApproved": "Y", 
-  "Title": "At a House in Harley Street", 
-  "DateAcquired": "1935-06-13", 
+  "CreditLine": "Gift of Abby Aldrich Rockefeller", 
   "Date": "1918", 
   "ArtistID": 1490, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "56.1935", 
-  "ArtistBio": "American, 1883\u20131935", 
-  "CreditLine": "Gift of Abby Aldrich Rockefeller", 
+  "ArtistBio": "(American, 1883\u20131935)", 
+  "DateAcquired": "1935-06-13", 
+  "\ufeffTitle": "At a House in Harley Street", 
   "ObjectID": "33552"
 }

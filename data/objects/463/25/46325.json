@@ -5,8 +5,7 @@
   "Artist": "Gabriel Orozco", 
   "URL": "http://www.moma.org/collection/works/46325", 
   "CuratorApproved": "Y", 
-  "Title": "Melon", 
-  "DateAcquired": "1999-03-11", 
+  "CreditLine": "The Family of Man Fund", 
   "Date": "1993", 
   "ArtistID": 7461, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "104.1999.x1-x2", 
-  "ArtistBio": "Mexican, born 1962", 
-  "CreditLine": "The Family of Man Fund", 
+  "ArtistBio": "(Mexican, born 1962)", 
+  "DateAcquired": "1999-03-11", 
+  "\ufeffTitle": "Melon", 
   "ObjectID": "46325"
 }

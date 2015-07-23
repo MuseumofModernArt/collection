@@ -5,8 +5,7 @@
   "Artist": "Fernando Botero", 
   "URL": "http://www.moma.org/collection/works/34215", 
   "CuratorApproved": "Y", 
-  "Title": "Woman in a Bathtub", 
-  "DateAcquired": "1976-03-23", 
+  "CreditLine": "Gift in memory of Ellen MacKethan", 
   "Date": "1974", 
   "ArtistID": 693, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "122.1976", 
-  "ArtistBio": "Colombian, born 1932", 
-  "CreditLine": "Gift in memory of Ellen MacKethan", 
+  "ArtistBio": "(Colombian, born 1932)", 
+  "DateAcquired": "1976-03-23", 
+  "\ufeffTitle": "Woman in a Bathtub", 
   "ObjectID": "34215"
 }

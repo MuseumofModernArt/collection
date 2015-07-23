@@ -5,8 +5,7 @@
   "Artist": "Henri Manguin", 
   "URL": "http://www.moma.org/collection/works/37372", 
   "CuratorApproved": "Y", 
-  "Title": "Bathers", 
-  "DateAcquired": "1956-12-19", 
+  "CreditLine": "Gift of Mr. and Mrs. Eugene Victor Thaw", 
   "Date": "(1906)", 
   "ArtistID": 3725, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "575.1956", 
-  "ArtistBio": "French, 1874\u20131949", 
-  "CreditLine": "Gift of Mr. and Mrs. Eugene Victor Thaw", 
+  "ArtistBio": "(French, 1874\u20131949)", 
+  "DateAcquired": "1956-12-19", 
+  "\ufeffTitle": "Bathers", 
   "ObjectID": "37372"
 }

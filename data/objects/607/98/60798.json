@@ -5,8 +5,7 @@
   "Artist": "Maurice Utrillo", 
   "URL": "http://www.moma.org/collection/works/60798", 
   "CuratorApproved": "Y", 
-  "Title": "La Place du Tertre", 
-  "DateAcquired": "NULL", 
+  "CreditLine": "Gift of Mrs. Saidie A. May", 
   "Date": "(1919)", 
   "ArtistID": 6046, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "44.1932", 
-  "ArtistBio": "French, 1883\u20131955", 
-  "CreditLine": "Gift of Mrs. Saidie A. May", 
+  "ArtistBio": "(French, 1883\u20131955)", 
+  "DateAcquired": "", 
+  "\ufeffTitle": "La Place du Tertre", 
   "ObjectID": "60798"
 }

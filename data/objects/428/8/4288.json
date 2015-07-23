@@ -5,8 +5,7 @@
   "Artist": "IBM, East Fishkill, NY", 
   "URL": "http://www.moma.org/collection/works/4288", 
   "CuratorApproved": "Y", 
-  "Title": "Diagram of Dynamic Random-Access Memory Chip (DRAM)", 
-  "DateAcquired": "1990-10-24", 
+  "CreditLine": "Gift of the manufacturer", 
   "Date": "1984", 
   "ArtistID": 6612, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "517.1990", 
-  "ArtistBio": "NULL", 
-  "CreditLine": "Gift of the manufacturer", 
+  "ArtistBio": "", 
+  "DateAcquired": "1990-10-24", 
+  "\ufeffTitle": "Diagram of Dynamic Random-Access Memory Chip (DRAM)", 
   "ObjectID": "4288"
 }

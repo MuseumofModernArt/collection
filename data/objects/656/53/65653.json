@@ -1,12 +1,11 @@
 {
   "Medium": "Photolithograph", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "Izabella Gustowska", 
   "URL": "http://www.moma.org/collection/works/65653", 
   "CuratorApproved": "Y", 
-  "Title": "Conversation I", 
-  "DateAcquired": "1992-05-20", 
+  "CreditLine": "Gift of the Kosciuszko Foundation", 
   "Date": "1989", 
   "ArtistID": 6858, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "268.1992", 
-  "ArtistBio": "Polish, born 1948", 
-  "CreditLine": "Gift of the Kosciuszko Foundation", 
+  "ArtistBio": "(Polish, born 1948)", 
+  "DateAcquired": "1992-05-20", 
+  "\ufeffTitle": "Conversation I", 
   "ObjectID": "65653"
 }

@@ -5,8 +5,7 @@
   "Artist": "Gwen Knight", 
   "URL": "http://www.moma.org/collection/works/36012", 
   "CuratorApproved": "Y", 
-  "Title": "Figure Study No. 3", 
-  "DateAcquired": "1978-04-04", 
+  "CreditLine": "Gift of Alice C. Simkins", 
   "Date": "(1975)", 
   "ArtistID": 3162, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "287.1978", 
-  "ArtistBio": "American, 1913\u20132005", 
-  "CreditLine": "Gift of Alice C. Simkins", 
+  "ArtistBio": "(American, 1913\u20132005)", 
+  "DateAcquired": "1978-04-04", 
+  "\ufeffTitle": "Figure Study No. 3", 
   "ObjectID": "36012"
 }

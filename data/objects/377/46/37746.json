@@ -5,8 +5,7 @@
   "Artist": "Claes Oldenburg", 
   "URL": "http://www.moma.org/collection/works/37746", 
   "CuratorApproved": "Y", 
-  "Title": "Flag to Fold in the Pocket", 
-  "DateAcquired": "1983-11-04", 
+  "CreditLine": "Purchase", 
   "Date": "(1960)", 
   "ArtistID": 4397, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "658.1983", 
-  "ArtistBio": "American, born Sweden 1929", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, born Sweden 1929)", 
+  "DateAcquired": "1983-11-04", 
+  "\ufeffTitle": "Flag to Fold in the Pocket", 
   "ObjectID": "37746"
 }

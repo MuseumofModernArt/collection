@@ -1,12 +1,11 @@
 {
   "Medium": "Lithograph", 
-  "Dimensions": "irreg composition  41 15/16 x 28 5/8\" (106.5 x 72.7 cm)  irreg sheet  43 5/16 x 29 5/16\" (110 x 74.4 cm)", 
+  "Dimensions": "irreg composition  41 15/16 x 28 5/8\" (106.5 x 72.7 cm)\r\nirreg sheet  43 5/16 x 29 5/16\" (110 x 74.4 cm)", 
   "Classification": "Print", 
   "Artist": "Jasper Johns", 
   "URL": "http://www.moma.org/collection/works/65000", 
   "CuratorApproved": "Y", 
-  "Title": "Evion", 
-  "DateAcquired": "1972-05-08", 
+  "CreditLine": "John B. Turner Fund", 
   "Date": "1972", 
   "ArtistID": 2923, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "239.1972", 
-  "ArtistBio": "American, born 1930", 
-  "CreditLine": "John B. Turner Fund", 
+  "ArtistBio": "(American, born 1930)", 
+  "DateAcquired": "1972-05-08", 
+  "\ufeffTitle": "Evion", 
   "ObjectID": "65000"
 }

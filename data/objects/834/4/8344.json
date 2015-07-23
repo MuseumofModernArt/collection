@@ -5,8 +5,7 @@
   "Artist": "Jan Sawka", 
   "URL": "http://www.moma.org/collection/works/8344", 
   "CuratorApproved": "Y", 
-  "Title": "La Nouvelle Vague, Affiches Polonaises", 
-  "DateAcquired": "1979-05-03", 
+  "CreditLine": "Gift of the artist", 
   "Date": "1975", 
   "ArtistID": 5189, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "894.1979", 
-  "ArtistBio": "Polish, 1946\u20132012", 
-  "CreditLine": "Gift of the artist", 
+  "ArtistBio": "(Polish, 1946\u20132012)", 
+  "DateAcquired": "1979-05-03", 
+  "\ufeffTitle": "La Nouvelle Vague, Affiches Polonaises", 
   "ObjectID": "8344"
 }

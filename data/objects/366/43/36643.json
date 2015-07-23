@@ -5,8 +5,7 @@
   "Artist": "Tony Urquhart", 
   "URL": "http://www.moma.org/collection/works/36643", 
   "CuratorApproved": "Y", 
-  "Title": "Summer Forms I", 
-  "DateAcquired": "1961-12-13", 
+  "CreditLine": "Gift of Emilio del Junco", 
   "Date": "1961", 
   "ArtistID": 6040, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "394.1961", 
-  "ArtistBio": "Canadian, born 1934", 
-  "CreditLine": "Gift of Emilio del Junco", 
+  "ArtistBio": "(Canadian, born 1934)", 
+  "DateAcquired": "1961-12-13", 
+  "\ufeffTitle": "Summer Forms I", 
   "ObjectID": "36643"
 }

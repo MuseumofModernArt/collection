@@ -5,8 +5,7 @@
   "Artist": "Lee Friedlander", 
   "URL": "http://www.moma.org/collection/works/59344", 
   "CuratorApproved": "Y", 
-  "Title": "Wilmington, Delaware", 
-  "DateAcquired": "2011-05-18", 
+  "CreditLine": "Gift of Howard Stein", 
   "Date": "1965", 
   "ArtistID": 2002, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "418.2011", 
-  "ArtistBio": "American, born 1934", 
-  "CreditLine": "Gift of Howard Stein", 
+  "ArtistBio": "(American, born 1934)", 
+  "DateAcquired": "2011-05-18", 
+  "\ufeffTitle": "Wilmington, Delaware", 
   "ObjectID": "59344"
 }

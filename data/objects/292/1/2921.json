@@ -1,12 +1,11 @@
 {
   "Medium": "Stainless steel", 
-  "Dimensions": ".1 (knife): 9 1/8 x 1/2\" (23.2 x .3 cm)   .2 (fork): 7 7/8 x 1\" (20 x 2.5 cm)   .3 (soupspoon): 7 1/2 x 1 1/4\" (19 x 3.2 cm)   .4 (spoon): 6 1/2 x 1 1/8\" (16.5 x 2.8 cm)   .5 (salad fork): 6 3/4 x 7/8\" (17.2 x 2.3 cm)", 
+  "Dimensions": ".1 (knife): 9 1/8 x 1/2\" (23.2 x .3 cm) \r\n.2 (fork): 7 7/8 x 1\" (20 x 2.5 cm) \r\n.3 (soupspoon): 7 1/2 x 1 1/4\" (19 x 3.2 cm) \r\n.4 (spoon): 6 1/2 x 1 1/8\" (16.5 x 2.8 cm) \r\n.5 (salad fork): 6 3/4 x 7/8\" (17.2 x 2.3 cm)", 
   "Classification": "A&D Design", 
   "Artist": "Ward Bennett", 
   "URL": "http://www.moma.org/collection/works/2921", 
   "CuratorApproved": "Y", 
-  "Title": "Double Helix Flatware", 
-  "DateAcquired": "1986-10-07", 
+  "CreditLine": "Zaidee Dufallo Fund", 
   "Date": "1985", 
   "ArtistID": 478, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "235.1986.1-5", 
-  "ArtistBio": "American, 1917\u20132003", 
-  "CreditLine": "Zaidee Dufallo Fund", 
+  "ArtistBio": "(American, 1917\u20132003)", 
+  "DateAcquired": "1986-10-07", 
+  "\ufeffTitle": "Double Helix Flatware", 
   "ObjectID": "2921"
 }

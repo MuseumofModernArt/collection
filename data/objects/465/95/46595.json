@@ -5,8 +5,7 @@
   "Artist": "Aaron Siskind", 
   "URL": "http://www.moma.org/collection/works/46595", 
   "CuratorApproved": "Y", 
-  "Title": "Facade, Unoccupied Building", 
-  "DateAcquired": "1985-03-27", 
+  "CreditLine": "Gift of Ms. Sophie Black", 
   "Date": "c. 1937", 
   "ArtistID": 5456, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "120.1985.14", 
-  "ArtistBio": "American, 1903\u20131991", 
-  "CreditLine": "Gift of Ms. Sophie Black", 
+  "ArtistBio": "(American, 1903\u20131991)", 
+  "DateAcquired": "1985-03-27", 
+  "\ufeffTitle": "Facade, Unoccupied Building", 
   "ObjectID": "46595"
 }

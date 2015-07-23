@@ -5,8 +5,7 @@
   "Artist": "Dorothea Lange", 
   "URL": "http://www.moma.org/collection/works/56399", 
   "CuratorApproved": "Y", 
-  "Title": "Hand, Indonesian Dancer, Java", 
-  "DateAcquired": "1967-11-21", 
+  "CreditLine": "Purchase", 
   "Date": "1958", 
   "ArtistID": 3373, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "785.1968", 
-  "ArtistBio": "American, 1895\u20131965", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, 1895\u20131965)", 
+  "DateAcquired": "1967-11-21", 
+  "\ufeffTitle": "Hand, Indonesian Dancer, Java", 
   "ObjectID": "56399"
 }

@@ -5,8 +5,7 @@
   "Artist": "Todd Walker", 
   "URL": "http://www.moma.org/collection/works/55207", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1970-10-27", 
+  "CreditLine": "Purchase", 
   "Date": "1970", 
   "ArtistID": 6222, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "567.1970", 
-  "ArtistBio": "American, 1917\u20131998", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, 1917\u20131998)", 
+  "DateAcquired": "1970-10-27", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "55207"
 }

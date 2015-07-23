@@ -5,8 +5,7 @@
   "Artist": "Lyonel Feininger", 
   "URL": "http://www.moma.org/collection/works/64763", 
   "CuratorApproved": "Y", 
-  "Title": "The Hack", 
-  "DateAcquired": "1972-05-08", 
+  "CreditLine": "Gift of Associated American Artists, New York", 
   "Date": "1919", 
   "ArtistID": 1832, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "227.1972", 
-  "ArtistBio": "American, 1871\u20131956", 
-  "CreditLine": "Gift of Associated American Artists, New York", 
+  "ArtistBio": "(American, 1871\u20131956)", 
+  "DateAcquired": "1972-05-08", 
+  "\ufeffTitle": "The Hack (Die M\u00e4hre)", 
   "ObjectID": "64763"
 }

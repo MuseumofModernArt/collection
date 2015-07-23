@@ -5,8 +5,7 @@
   "Artist": "Ben Shahn", 
   "URL": "http://www.moma.org/collection/works/35743", 
   "CuratorApproved": "Y", 
-  "Title": "Welders", 
-  "DateAcquired": "1944-11-08", 
+  "CreditLine": "Purchase", 
   "Date": "(1943)", 
   "ArtistID": 5366, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "264.1944", 
-  "ArtistBio": "American, born Lithuania. 1898\u20131969", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, born Lithuania. 1898\u20131969)", 
+  "DateAcquired": "1944-11-08", 
+  "\ufeffTitle": "Welders", 
   "ObjectID": "35743"
 }

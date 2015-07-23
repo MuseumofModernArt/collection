@@ -5,8 +5,7 @@
   "Artist": "Roy Grace", 
   "URL": "http://www.moma.org/collection/works/8300", 
   "CuratorApproved": "Y", 
-  "Title": "103,Cooper Union Exhibition, School of Art and Architecture", 
-  "DateAcquired": "1979-05-30", 
+  "CreditLine": "Anonymous gift", 
   "Date": "1962", 
   "ArtistID": 2275, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "872.1979", 
-  "ArtistBio": "American, born 1936", 
-  "CreditLine": "Anonymous gift", 
+  "ArtistBio": "(American, born 1936)", 
+  "DateAcquired": "1979-05-30", 
+  "\ufeffTitle": "103,Cooper Union Exhibition, School of Art and Architecture", 
   "ObjectID": "8300"
 }

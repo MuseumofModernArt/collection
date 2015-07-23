@@ -5,8 +5,7 @@
   "Artist": "Gino Colombini", 
   "URL": "http://www.moma.org/collection/works/2509", 
   "CuratorApproved": "Y", 
-  "Title": "Standing Dustpan (model KS 1068)", 
-  "DateAcquired": "1988-04-27", 
+  "CreditLine": "Gift of the manufacturer", 
   "Date": "1958", 
   "ArtistID": 1194, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "137.1988", 
-  "ArtistBio": "Italian, born 1915", 
-  "CreditLine": "Gift of the manufacturer", 
+  "ArtistBio": "(Italian, born 1915)", 
+  "DateAcquired": "1988-04-27", 
+  "\ufeffTitle": "Standing Dustpan (model KS 1068)", 
   "ObjectID": "2509"
 }

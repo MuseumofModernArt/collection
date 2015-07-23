@@ -5,8 +5,7 @@
   "Artist": "Hilaire-Germain-Edgar Degas", 
   "URL": "http://www.moma.org/collection/works/48533", 
   "CuratorApproved": "Y", 
-  "Title": "Street Scene", 
-  "DateAcquired": "1989-10-12", 
+  "CreditLine": "Gift of Paul F. Walter", 
   "Date": "1895-96", 
   "ArtistID": 1465, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "208.1989", 
-  "ArtistBio": "French, 1834\u20131917", 
-  "CreditLine": "Gift of Paul F. Walter", 
+  "ArtistBio": "(French, 1834\u20131917)", 
+  "DateAcquired": "1989-10-12", 
+  "\ufeffTitle": "Street Scene", 
   "ObjectID": "48533"
 }

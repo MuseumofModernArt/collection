@@ -5,8 +5,7 @@
   "Artist": "Lucia Radochonska", 
   "URL": "http://www.moma.org/collection/works/51771", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1974-06-04", 
+  "CreditLine": "Purchase", 
   "Date": "1973", 
   "ArtistID": 4784, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "362.1974", 
-  "ArtistBio": "Polish, born 1948", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(Polish, born 1948)", 
+  "DateAcquired": "1974-06-04", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "51771"
 }

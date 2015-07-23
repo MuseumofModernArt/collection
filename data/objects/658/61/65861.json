@@ -5,8 +5,7 @@
   "Artist": "Robert Mapplethorpe", 
   "URL": "http://www.moma.org/collection/works/65861", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled from the portfolio America", 
-  "DateAcquired": "1989-10-12", 
+  "CreditLine": "Gift of Edition Schellmann, Munich and New York", 
   "Date": "1988", 
   "ArtistID": 3745, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "277.1989", 
-  "ArtistBio": "American, 1946\u20131989", 
-  "CreditLine": "Gift of Edition Schellmann, Munich and New York", 
+  "ArtistBio": "(American, 1946\u20131989)", 
+  "DateAcquired": "1989-10-12", 
+  "\ufeffTitle": "Untitled from the portfolio America", 
   "ObjectID": "65861"
 }

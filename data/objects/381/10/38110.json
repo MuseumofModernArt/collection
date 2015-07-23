@@ -5,8 +5,7 @@
   "Artist": "Pierre Bonnard", 
   "URL": "http://www.moma.org/collection/works/38110", 
   "CuratorApproved": "Y", 
-  "Title": "Colloquy in the Park", 
-  "DateAcquired": "1969-10-28", 
+  "CreditLine": "Gift of Monroe Wheeler", 
   "Date": "(1900)", 
   "ArtistID": 665, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "809.1969", 
-  "ArtistBio": "French, 1867\u20131947", 
-  "CreditLine": "Gift of Monroe Wheeler", 
+  "ArtistBio": "(French, 1867\u20131947)", 
+  "DateAcquired": "1969-10-28", 
+  "\ufeffTitle": "Colloquy in the Park", 
   "ObjectID": "38110"
 }

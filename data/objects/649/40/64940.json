@@ -5,8 +5,7 @@
   "Artist": "Alberto Giacometti", 
   "URL": "http://www.moma.org/collection/works/64940", 
   "CuratorApproved": "Y", 
-  "Title": "The Studio 1955 (L'Atelier 1955)", 
-  "DateAcquired": "1982-10-26", 
+  "CreditLine": "Ruth Vollmer Bequest", 
   "Date": "1956", 
   "ArtistID": 2141, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "236.1982", 
-  "ArtistBio": "Swiss, 1901\u20131966", 
-  "CreditLine": "Ruth Vollmer Bequest", 
+  "ArtistBio": "(Swiss, 1901\u20131966)", 
+  "DateAcquired": "1982-10-26", 
+  "\ufeffTitle": "The Studio 1955 (L'Atelier 1955)", 
   "ObjectID": "64940"
 }

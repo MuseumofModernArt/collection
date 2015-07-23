@@ -5,8 +5,7 @@
   "Artist": "Anne Turyn", 
   "URL": "http://www.moma.org/collection/works/52119", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1992-06-18", 
+  "CreditLine": "Purchase", 
   "Date": "1984", 
   "ArtistID": 5982, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "377.1992.x1-x2", 
-  "ArtistBio": "American, born 1954", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, born 1954)", 
+  "DateAcquired": "1992-06-18", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "52119"
 }

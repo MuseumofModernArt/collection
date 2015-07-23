@@ -5,8 +5,7 @@
   "Artist": "Jean Carlu", 
   "URL": "http://www.moma.org/collection/works/5129", 
   "CuratorApproved": "Y", 
-  "Title": "Give 'em Both Barrels", 
-  "DateAcquired": "1968-03-07", 
+  "CreditLine": "Gift of the Office of War Information", 
   "Date": "1941", 
   "ArtistID": 977, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "117.1968", 
-  "ArtistBio": "French, 1900\u20131997", 
-  "CreditLine": "Gift of the Office of War Information", 
+  "ArtistBio": "(French, 1900\u20131997)", 
+  "DateAcquired": "1968-03-07", 
+  "\ufeffTitle": "Give 'em Both Barrels", 
   "ObjectID": "5129"
 }

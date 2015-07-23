@@ -1,12 +1,11 @@
 {
   "Medium": "Photoetching and aquatint, with hand additions", 
-  "Dimensions": "plate  12 3/4 x 8 7/8\" (32.4 x 22.5 cm)  sheet  23 5/8 x 18 1/2\" (60 x 47 cm)", 
+  "Dimensions": "plate  12 3/4 x 8 7/8\" (32.4 x 22.5 cm)\r\nsheet  23 5/8 x 18 1/2\" (60 x 47 cm)", 
   "Classification": "Print", 
   "Artist": "Liliana Porter", 
   "URL": "http://www.moma.org/collection/works/60873", 
   "CuratorApproved": "Y", 
-  "Title": "The Human Condition I from the series Magritte", 
-  "DateAcquired": "1977-02-10", 
+  "CreditLine": "Purchase", 
   "Date": "1976", 
   "ArtistID": 4703, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "47.1977", 
-  "ArtistBio": "Argentine, born 1941", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(Argentine, born 1941)", 
+  "DateAcquired": "1977-02-10", 
+  "\ufeffTitle": "The Human Condition I from the series Magritte", 
   "ObjectID": "60873"
 }

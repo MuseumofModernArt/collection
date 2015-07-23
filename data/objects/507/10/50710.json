@@ -5,8 +5,7 @@
   "Artist": "Richard P. (Sandy) Hume", 
   "URL": "http://www.moma.org/collection/works/50710", 
   "CuratorApproved": "Y", 
-  "Title": "White Lies", 
-  "DateAcquired": "1975-10-23", 
+  "CreditLine": "Purchase", 
   "Date": "1974", 
   "ArtistID": 2763, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "321.1975", 
-  "ArtistBio": "American, born 1946", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, born 1946)", 
+  "DateAcquired": "1975-10-23", 
+  "\ufeffTitle": "White Lies", 
   "ObjectID": "50710"
 }

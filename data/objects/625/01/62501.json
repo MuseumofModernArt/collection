@@ -1,12 +1,11 @@
 {
   "Medium": "Lithograph", 
-  "Dimensions": "sl. irreg. composition  19 7/8 x 34 3/16\" (50.5 x 86.8 cm)  sl. irreg. sheet  26 5/8 x 40 1/2\" (67 x 102.8 cm)", 
+  "Dimensions": "sl. irreg. composition  19 7/8 x 34 3/16\" (50.5 x 86.8 cm)\r\nsl. irreg. sheet  26 5/8 x 40 1/2\" (67 x 102.8 cm)", 
   "Classification": "Print", 
   "Artist": "Jasper Johns", 
   "URL": "http://www.moma.org/collection/works/62501", 
   "CuratorApproved": "Y", 
-  "Title": "Between the Clock and the Bed", 
-  "DateAcquired": "1989-05-30", 
+  "CreditLine": "Gift of Emily Fisher Landau", 
   "Date": "1989", 
   "ArtistID": 2923, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "133.1989", 
-  "ArtistBio": "American, born 1930", 
-  "CreditLine": "Gift of Emily Fisher Landau", 
+  "ArtistBio": "(American, born 1930)", 
+  "DateAcquired": "1989-05-30", 
+  "\ufeffTitle": "Between the Clock and the Bed", 
   "ObjectID": "62501"
 }

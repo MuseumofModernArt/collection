@@ -5,8 +5,7 @@
   "Artist": "James Ensor", 
   "URL": "http://www.moma.org/collection/works/65244", 
   "CuratorApproved": "Y", 
-  "Title": "Death Chasing the Flock of Mortals", 
-  "DateAcquired": "1952-11-07", 
+  "CreditLine": "Purchase Fund", 
   "Date": "1896", 
   "ArtistID": 1739, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "251.1952", 
-  "ArtistBio": "Belgian, 1860\u20131949", 
-  "CreditLine": "Purchase Fund", 
+  "ArtistBio": "(Belgian, 1860\u20131949)", 
+  "DateAcquired": "1952-11-07", 
+  "\ufeffTitle": "Death Chasing the Flock of Mortals", 
   "ObjectID": "65244"
 }

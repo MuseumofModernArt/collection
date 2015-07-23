@@ -5,8 +5,7 @@
   "Artist": "Jackson Pollock", 
   "URL": "http://www.moma.org/collection/works/61658", 
   "CuratorApproved": "Y", 
-  "Title": "Figures in a Landscape", 
-  "DateAcquired": "1969-02-10", 
+  "CreditLine": "John B. Turner Fund", 
   "Date": "1937", 
   "ArtistID": 4675, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "89.1969", 
-  "ArtistBio": "American, 1912\u20131956", 
-  "CreditLine": "John B. Turner Fund", 
+  "ArtistBio": "(American, 1912\u20131956)", 
+  "DateAcquired": "1969-02-10", 
+  "\ufeffTitle": "Figures in a Landscape", 
   "ObjectID": "61658"
 }

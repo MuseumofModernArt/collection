@@ -5,8 +5,7 @@
   "Artist": "Jos\u00e9 Luis Cuevas", 
   "URL": "http://www.moma.org/collection/works/35754", 
   "CuratorApproved": "Y", 
-  "Title": "Madman", 
-  "DateAcquired": "1954-09-30", 
+  "CreditLine": "Inter-American Fund", 
   "Date": "1954", 
   "ArtistID": 1325, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "265.1954", 
-  "ArtistBio": "Mexican, born 1934", 
-  "CreditLine": "Inter-American Fund", 
+  "ArtistBio": "(Mexican, born 1934)", 
+  "DateAcquired": "1954-09-30", 
+  "\ufeffTitle": "Madman", 
   "ObjectID": "35754"
 }

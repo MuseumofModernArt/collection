@@ -5,8 +5,7 @@
   "Artist": "Anne Marie Fishbein", 
   "URL": "http://www.moma.org/collection/works/45108", 
   "CuratorApproved": "Y", 
-  "Title": "Russia", 
-  "DateAcquired": "1997-03-06", 
+  "CreditLine": "E.T. Harmax Foundation Fund", 
   "Date": "1993", 
   "ArtistID": 8650, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "55.1997", 
-  "ArtistBio": "American, born 1958", 
-  "CreditLine": "E.T. Harmax Foundation Fund", 
+  "ArtistBio": "(American, born 1958)", 
+  "DateAcquired": "1997-03-06", 
+  "\ufeffTitle": "Russia", 
   "ObjectID": "45108"
 }

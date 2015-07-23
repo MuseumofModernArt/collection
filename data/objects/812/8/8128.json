@@ -5,8 +5,7 @@
   "Artist": "Takenobu Igarashi", 
   "URL": "http://www.moma.org/collection/works/8128", 
   "CuratorApproved": "Y", 
-  "Title": "F. Chopin, F. Liszt", 
-  "DateAcquired": "1983-11-30", 
+  "CreditLine": "Gift of the artist", 
   "Date": "1981", 
   "ArtistID": 2797, 
   "Keywords": [
@@ -20,7 +19,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "780.1983", 
-  "ArtistBio": "Japanese, born 1944", 
-  "CreditLine": "Gift of the artist", 
+  "ArtistBio": "(Japanese, born 1944)", 
+  "DateAcquired": "1983-11-30", 
+  "\ufeffTitle": "F. Chopin, F. Liszt", 
   "ObjectID": "8128"
 }

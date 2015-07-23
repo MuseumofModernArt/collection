@@ -5,8 +5,7 @@
   "Artist": "Gerhard Richter", 
   "URL": "http://www.moma.org/collection/works/35523", 
   "CuratorApproved": "Y", 
-  "Title": "23.2.91", 
-  "DateAcquired": "1993-05-05", 
+  "CreditLine": "Gift of The Patsy R. Taylor Family Trust", 
   "Date": "1991", 
   "ArtistID": 4907, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "204.1993", 
-  "ArtistBio": "German, born 1932", 
-  "CreditLine": "Gift of The Patsy R. Taylor Family Trust", 
+  "ArtistBio": "(German, born 1932)", 
+  "DateAcquired": "1993-05-05", 
+  "\ufeffTitle": "23.2.91", 
   "ObjectID": "35523"
 }

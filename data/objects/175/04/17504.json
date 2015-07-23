@@ -1,12 +1,11 @@
 {
   "Medium": "Illustrated book with nine screenprints", 
-  "Dimensions": "page  11 3/4 x 27 1/4\" (29 x 69.3 cm)  Prints:  various dimensions.", 
+  "Dimensions": "page  11 3/4 x 27 1/4\" (29 x 69.3 cm)\r\nPrints:  various dimensions.", 
   "Classification": "Illustrated Book", 
   "Artist": "Robert Mangold", 
   "URL": "http://www.moma.org/collection/works/17504", 
   "CuratorApproved": "Y", 
-  "Title": "A Book of Silk Screen Prints", 
-  "DateAcquired": "1977-11-10", 
+  "CreditLine": "Carol O. Selle Fund", 
   "Date": "1977", 
   "ArtistID": 3723, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "466.1977.1-9", 
-  "ArtistBio": "American, born 1937", 
-  "CreditLine": "Carol O. Selle Fund", 
+  "ArtistBio": "(American, born 1937)", 
+  "DateAcquired": "1977-11-10", 
+  "\ufeffTitle": "A Book of Silk Screen Prints", 
   "ObjectID": "17504"
 }

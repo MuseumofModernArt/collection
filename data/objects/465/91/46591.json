@@ -5,8 +5,7 @@
   "Artist": "Aaron Siskind", 
   "URL": "http://www.moma.org/collection/works/46591", 
   "CuratorApproved": "Y", 
-  "Title": "Street Scene 4", 
-  "DateAcquired": "1985-03-27", 
+  "CreditLine": "Gift of Sophie Black", 
   "Date": "c. 1937", 
   "ArtistID": 5456, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "120.1985.10", 
-  "ArtistBio": "American, 1903\u20131991", 
-  "CreditLine": "Gift of Sophie Black", 
+  "ArtistBio": "(American, 1903\u20131991)", 
+  "DateAcquired": "1985-03-27", 
+  "\ufeffTitle": "Street Scene 4", 
   "ObjectID": "46591"
 }

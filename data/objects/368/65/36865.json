@@ -5,8 +5,7 @@
   "Artist": "Jean Dubuffet", 
   "URL": "http://www.moma.org/collection/works/36865", 
   "CuratorApproved": "Y", 
-  "Title": "Letter from El Gol\u00e9a", 
-  "DateAcquired": "1974-10-25", 
+  "CreditLine": "Gift of Mrs. Bertram Smith", 
   "Date": "(1948)", 
   "ArtistID": 1633, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "431.1974", 
-  "ArtistBio": "French, 1901\u20131985", 
-  "CreditLine": "Gift of Mrs. Bertram Smith", 
+  "ArtistBio": "(French, 1901\u20131985)", 
+  "DateAcquired": "1974-10-25", 
+  "\ufeffTitle": "Letter from El Gol\u00e9a", 
   "ObjectID": "36865"
 }

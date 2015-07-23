@@ -5,8 +5,7 @@
   "Artist": "Seneca Glass Co.", 
   "URL": "http://www.moma.org/collection/works/4558", 
   "CuratorApproved": "Y", 
-  "Title": "Fingerbowl", 
-  "DateAcquired": "1942-01-01", 
+  "CreditLine": "Purchase", 
   "Date": "Unknown", 
   "Keywords": [
     "online art collection", 
@@ -16,7 +15,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "919.1942", 
-  "ArtistBio": "NULL", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "", 
+  "DateAcquired": "1942-01-01", 
+  "\ufeffTitle": "Fingerbowl", 
   "ObjectID": "4558"
 }

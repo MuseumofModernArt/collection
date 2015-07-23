@@ -5,8 +5,7 @@
   "Artist": "Theo Wujcik", 
   "URL": "http://www.moma.org/collection/works/34940", 
   "CuratorApproved": "Y", 
-  "Title": "James Rosenquist", 
-  "DateAcquired": "1976-03-23", 
+  "CreditLine": "Gift of Stuart Preston", 
   "Date": "1975", 
   "ArtistID": 6462, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "161.1976", 
-  "ArtistBio": "American, born 1936", 
-  "CreditLine": "Gift of Stuart Preston", 
+  "ArtistBio": "(American, 1936-2014)", 
+  "DateAcquired": "1976-03-23", 
+  "\ufeffTitle": "James Rosenquist", 
   "ObjectID": "34940"
 }

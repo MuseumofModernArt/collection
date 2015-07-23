@@ -5,8 +5,7 @@
   "Artist": "Richard Artschwager", 
   "URL": "http://www.moma.org/collection/works/38105", 
   "CuratorApproved": "Y", 
-  "Title": "Table and Two Chairs", 
-  "DateAcquired": "1969-10-28", 
+  "CreditLine": "Gift of Paul Bianchini", 
   "Date": "1965", 
   "Keywords": [
     "online art collection", 
@@ -16,7 +15,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "808.1969", 
-  "ArtistBio": "American, 1923\u20132013", 
-  "CreditLine": "Gift of Paul Bianchini", 
+  "ArtistBio": "(American, 1923\u20132013)", 
+  "DateAcquired": "1969-10-28", 
+  "\ufeffTitle": "Table and Two Chairs", 
   "ObjectID": "38105"
 }

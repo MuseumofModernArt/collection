@@ -5,8 +5,7 @@
   "Artist": "John Biggers", 
   "URL": "http://www.moma.org/collection/works/22063", 
   "CuratorApproved": "Y", 
-  "Title": "Our Grandmothers", 
-  "DateAcquired": "1996-11-12", 
+  "CreditLine": "The Ralph E. Shikes Fund and The Friends of Education Fund", 
   "Date": "1992", 
   "ArtistID": 7556, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "711.1996.1-6", 
-  "ArtistBio": "American, 1924\u20132001", 
-  "CreditLine": "The Ralph E. Shikes Fund and The Friends of Education Fund", 
+  "ArtistBio": "(American, 1924\u20132001)", 
+  "DateAcquired": "1996-11-12", 
+  "\ufeffTitle": "Our Grandmothers", 
   "ObjectID": "22063"
 }

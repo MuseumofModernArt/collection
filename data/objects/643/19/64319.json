@@ -1,12 +1,11 @@
 {
   "Medium": "Nine zinc plates", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "Rolf Nesch", 
   "URL": "http://www.moma.org/collection/works/64319", 
   "CuratorApproved": "Y", 
-  "Title": "Metal Plates for Theater in Alta", 
-  "DateAcquired": "1951-05-24", 
+  "CreditLine": "Gift of the artist", 
   "Date": "(1946-48)", 
   "ArtistID": 4266, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "201.1951.a-i", 
-  "ArtistBio": "Norwegian, born Germany. 1893\u20131975", 
-  "CreditLine": "Gift of the artist", 
+  "ArtistBio": "(Norwegian, born Germany. 1893\u20131975)", 
+  "DateAcquired": "1951-05-24", 
+  "\ufeffTitle": "Metal Plates for Theater in Alta (Teater i Alta)", 
   "ObjectID": "64319"
 }

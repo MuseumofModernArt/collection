@@ -5,8 +5,7 @@
   "Artist": "Brice Marden", 
   "URL": "http://www.moma.org/collection/works/37245", 
   "CuratorApproved": "Y", 
-  "Title": "Aphrodite Study", 
-  "DateAcquired": "1997-10-23", 
+  "CreditLine": "Gift of Patricia and Morris Orden", 
   "Date": "(1992-93)", 
   "ArtistID": 3758, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "509.1997", 
-  "ArtistBio": "American, born 1938", 
-  "CreditLine": "Gift of Patricia and Morris Orden", 
+  "ArtistBio": "(American, born 1938)", 
+  "DateAcquired": "1997-10-23", 
+  "\ufeffTitle": "Aphrodite Study", 
   "ObjectID": "37245"
 }

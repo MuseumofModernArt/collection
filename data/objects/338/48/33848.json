@@ -5,8 +5,7 @@
   "Artist": "Mel Bochner", 
   "URL": "http://www.moma.org/collection/works/33848", 
   "CuratorApproved": "Y", 
-  "Title": "The Laurentian Library", 
-  "DateAcquired": "1974-02-12", 
+  "CreditLine": "Gift of the artist in honor of Robert Smithson", 
   "Date": "1972", 
   "ArtistID": 625, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "93.1974", 
-  "ArtistBio": "American, born 1940", 
-  "CreditLine": "Gift of the artist in honor of Robert Smithson", 
+  "ArtistBio": "(American, born 1940)", 
+  "DateAcquired": "1974-02-12", 
+  "\ufeffTitle": "The Laurentian Library", 
   "ObjectID": "33848"
 }

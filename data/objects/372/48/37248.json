@@ -5,8 +5,7 @@
   "Artist": "Yayoi Kusama", 
   "URL": "http://www.moma.org/collection/works/37248", 
   "CuratorApproved": "Y", 
-  "Title": "Accumulation of Stamps, 63", 
-  "DateAcquired": "1970-11-10", 
+  "CreditLine": "Gift of Philip Johnson", 
   "Date": "1962", 
   "ArtistID": 3315, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "510.1970", 
-  "ArtistBio": "Japanese, born 1929", 
-  "CreditLine": "Gift of Philip Johnson", 
+  "ArtistBio": "(Japanese, born 1929)", 
+  "DateAcquired": "1970-11-10", 
+  "\ufeffTitle": "Accumulation of Stamps, 63", 
   "ObjectID": "37248"
 }

@@ -5,8 +5,7 @@
   "Artist": "Isamu Noguchi", 
   "URL": "http://www.moma.org/collection/works/36515", 
   "CuratorApproved": "Y", 
-  "Title": "Metamorphosis", 
-  "DateAcquired": "1975-10-24", 
+  "CreditLine": "Abby Aldrich Rockefeller Fund", 
   "Date": "1946", 
   "ArtistID": 4324, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "365.1975", 
-  "ArtistBio": "American, 1904\u20131988", 
-  "CreditLine": "Abby Aldrich Rockefeller Fund", 
+  "ArtistBio": "(American, 1904\u20131988)", 
+  "DateAcquired": "1975-10-24", 
+  "\ufeffTitle": "Metamorphosis", 
   "ObjectID": "36515"
 }

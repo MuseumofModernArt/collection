@@ -5,8 +5,7 @@
   "Artist": "Henryk Tomaszewski", 
   "URL": "http://www.moma.org/collection/works/5959", 
   "CuratorApproved": "Y", 
-  "Title": "Jan August Kisielewski Karykatury", 
-  "DateAcquired": "1998-04-22", 
+  "CreditLine": "Gift of Susan Hornik", 
   "Date": "1978", 
   "ArtistID": 5894, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "268.1998", 
-  "ArtistBio": "Polish, 1914\u20132001", 
-  "CreditLine": "Gift of Susan Hornik", 
+  "ArtistBio": "(Polish, 1914\u20132001)", 
+  "DateAcquired": "1998-04-22", 
+  "\ufeffTitle": "Jan August Kisielewski Karykatury", 
   "ObjectID": "5959"
 }

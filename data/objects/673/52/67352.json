@@ -5,8 +5,7 @@
   "Artist": "Peter Klasen", 
   "URL": "http://www.moma.org/collection/works/67352", 
   "CuratorApproved": "Y", 
-  "Title": "FACE & SWITCH (Visage & Interrupteur)", 
-  "DateAcquired": "1998-05-14", 
+  "CreditLine": "Gift of the artist", 
   "Date": "1969", 
   "ArtistID": 7835, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "344.1998", 
-  "ArtistBio": "German, born 1935", 
-  "CreditLine": "Gift of the artist", 
+  "ArtistBio": "(German, born 1935)", 
+  "DateAcquired": "1998-05-14", 
+  "\ufeffTitle": "Face & Switch (Visage & Interrupteur)", 
   "ObjectID": "67352"
 }

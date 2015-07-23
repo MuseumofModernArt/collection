@@ -5,8 +5,7 @@
   "Artist": "Pablo Picasso", 
   "URL": "http://www.moma.org/collection/works/65706", 
   "CuratorApproved": "Y", 
-  "Title": "The Old King (Le Vieux Roi)", 
-  "DateAcquired": "1967-04-11", 
+  "CreditLine": "Purchase", 
   "Date": "(January 6, 1959)", 
   "ArtistID": 4609, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "270.1967", 
-  "ArtistBio": "Spanish, 1881\u20131973", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(Spanish, 1881\u20131973)", 
+  "DateAcquired": "1967-04-11", 
+  "\ufeffTitle": "The Old King (Le Vieux Roi)", 
   "ObjectID": "65706"
 }

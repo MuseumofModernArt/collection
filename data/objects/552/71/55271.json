@@ -5,8 +5,7 @@
   "Artist": "Margrethe Mather", 
   "URL": "http://www.moma.org/collection/works/55271", 
   "CuratorApproved": "Y", 
-  "Title": "Florence Deshon", 
-  "DateAcquired": "1971-11-10", 
+  "CreditLine": "Purchase", 
   "Date": "1921", 
   "ArtistID": 3827, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "573.1971", 
-  "ArtistBio": "American, 1885\u20131952", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, 1885\u20131952)", 
+  "DateAcquired": "1971-11-10", 
+  "\ufeffTitle": "Florence Deshon", 
   "ObjectID": "55271"
 }

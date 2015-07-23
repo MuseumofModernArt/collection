@@ -1,12 +1,11 @@
 {
-  "Medium": "Gouache, pencil, and colored pencil on colored paper    ", 
-  "Dimensions": "28 x 21 3/8\" (71.1 x 54.3 cm)", 
+  "Medium": "Gouache, pencil, and colored pencil on colored paper", 
+  "Dimensions": "sheet: 28 x 21 3/8\" (71.1 x 54.3 cm)", 
   "Classification": "Drawing", 
   "Artist": "Louise Bourgeois", 
   "URL": "http://www.moma.org/collection/works/35082", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1995-06-14", 
+  "CreditLine": "Purchase through the Vincent d'Aquila and Harry Soviak Bequest Fund", 
   "Date": "1950", 
   "ArtistID": 710, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "178.1995", 
-  "ArtistBio": "American, born France. 1911\u20132010", 
-  "CreditLine": "Purchase through the Vincent d'Aquila and Harry Soviak Bequest Fund", 
+  "ArtistBio": "(American, born France. 1911\u20132010)", 
+  "DateAcquired": "1995-06-14", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "35082"
 }

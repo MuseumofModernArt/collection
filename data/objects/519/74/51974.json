@@ -5,8 +5,7 @@
   "Artist": "Regina Schmeken", 
   "URL": "http://www.moma.org/collection/works/51974", 
   "CuratorApproved": "Y", 
-  "Title": "Boy in Net", 
-  "DateAcquired": "1981-10-15", 
+  "CreditLine": "The Family of Man Fund", 
   "Date": "Fall 1979", 
   "ArtistID": 5226, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "371.1981", 
-  "ArtistBio": "German, born 1955", 
-  "CreditLine": "The Family of Man Fund", 
+  "ArtistBio": "(German, born 1955)", 
+  "DateAcquired": "1981-10-15", 
+  "\ufeffTitle": "Boy in Net", 
   "ObjectID": "51974"
 }

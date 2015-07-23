@@ -5,8 +5,7 @@
   "Artist": "Manuel \u00c1lvarez Bravo", 
   "URL": "http://www.moma.org/collection/works/49653", 
   "CuratorApproved": "Y", 
-  "Title": "Laughing Mannequins", 
-  "DateAcquired": "1988-10-13", 
+  "CreditLine": "Purchase and partial gift of Marianna Cook", 
   "Date": "1930", 
   "ArtistID": 135, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "257.1988", 
-  "ArtistBio": "Mexican, 1902\u20132002", 
-  "CreditLine": "Purchase and partial gift of Marianna Cook", 
+  "ArtistBio": "(Mexican, 1902\u20132002)", 
+  "DateAcquired": "1988-10-13", 
+  "\ufeffTitle": "Laughing Mannequins", 
   "ObjectID": "49653"
 }

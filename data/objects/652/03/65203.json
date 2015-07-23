@@ -5,8 +5,7 @@
   "Artist": "Max Klinger", 
   "URL": "http://www.moma.org/collection/works/65203", 
   "CuratorApproved": "Y", 
-  "Title": "Intermezzos, Opus IV", 
-  "DateAcquired": "1950-10-11", 
+  "CreditLine": "Given anonymously", 
   "Date": "(first published 1881)", 
   "ArtistID": 3149, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "249.1950.1-12", 
-  "ArtistBio": "German, 1857\u20131920", 
-  "CreditLine": "Given anonymously", 
+  "ArtistBio": "(German, 1857\u20131920)", 
+  "DateAcquired": "1950-10-11", 
+  "\ufeffTitle": "Intermezzos, Opus IV (Intermezzi, Opus IV)", 
   "ObjectID": "65203"
 }

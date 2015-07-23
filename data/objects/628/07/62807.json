@@ -1,12 +1,11 @@
 {
   "Medium": "Blueprint", 
-  "Dimensions": "irreg. composition  57 13/16 x 36 1/8\" (146.9 x 91.8 cm)  sheet  61 11/16 x 39 3/4\" (156 x 101 cm)", 
+  "Dimensions": "irreg. composition  57 13/16 x 36 1/8\" (146.9 x 91.8 cm)\r\nsheet  61 11/16 x 39 3/4\" (156 x 101 cm)", 
   "Classification": "Print", 
   "Artist": "Markus Raetz", 
   "URL": "http://www.moma.org/collection/works/62807", 
   "CuratorApproved": "Y", 
-  "Title": "Latticework II (Vlechtwerk II)", 
-  "DateAcquired": "1989-05-30", 
+  "CreditLine": "Purchase", 
   "Date": "1972", 
   "ArtistID": 4787, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "139.1989", 
-  "ArtistBio": "Swiss, born 1941", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(Swiss, born 1941)", 
+  "DateAcquired": "1989-05-30", 
+  "\ufeffTitle": "Latticework II (Vlechtwerk II)", 
   "ObjectID": "62807"
 }

@@ -5,8 +5,7 @@
   "Artist": "Ernest Race", 
   "URL": "http://www.moma.org/collection/works/2238", 
   "CuratorApproved": "Y", 
-  "Title": "BA Side Chair", 
-  "DateAcquired": "1952-05-20", 
+  "CreditLine": "Gift of Waldron Associates", 
   "Date": "1945", 
   "ArtistID": 4782, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "127.1952", 
-  "ArtistBio": "British, 1913\u20131964", 
-  "CreditLine": "Gift of Waldron Associates", 
+  "ArtistBio": "(British, 1913\u20131964)", 
+  "DateAcquired": "1952-05-20", 
+  "\ufeffTitle": "BA Side Chair", 
   "ObjectID": "2238"
 }

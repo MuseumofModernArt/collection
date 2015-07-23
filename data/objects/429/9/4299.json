@@ -5,8 +5,7 @@
   "Artist": "Intel Corporation, Santa Clara, CA", 
   "URL": "http://www.moma.org/collection/works/4299", 
   "CuratorApproved": "Y", 
-  "Title": "Diagram of Erasable Programmable Read-Only Memory Chip (EPROM)", 
-  "DateAcquired": "1990-10-24", 
+  "CreditLine": "Gift of the manufacturer", 
   "Date": "1986", 
   "Keywords": [
     "online art collection", 
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "521.1990.1", 
-  "ArtistBio": "American,established 1968", 
-  "CreditLine": "Gift of the manufacturer", 
+  "ArtistBio": "(American,established 1968)", 
+  "DateAcquired": "1990-10-24", 
+  "\ufeffTitle": "Diagram of Erasable Programmable Read-Only Memory Chip (EPROM)", 
   "ObjectID": "4299"
 }

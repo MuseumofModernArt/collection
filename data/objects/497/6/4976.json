@@ -5,8 +5,7 @@
   "Artist": "Shigeo Fukuda", 
   "URL": "http://www.moma.org/collection/works/4976", 
   "CuratorApproved": "Y", 
-  "Title": "On Children's Day", 
-  "DateAcquired": "1990-01-17", 
+  "CreditLine": "Gift of The Lauder Foundation, Leonard and Evelyn Lauder Fund", 
   "Date": "1955", 
   "ArtistID": 2026, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "80.1990", 
-  "ArtistBio": "Japanese, 1932\u20132009", 
-  "CreditLine": "Gift of The Lauder Foundation, Leonard and Evelyn Lauder Fund", 
+  "ArtistBio": "(Japanese, 1932\u20132009)", 
+  "DateAcquired": "1990-01-17", 
+  "\ufeffTitle": "On Children's Day", 
   "ObjectID": "4976"
 }

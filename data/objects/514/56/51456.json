@@ -5,8 +5,7 @@
   "Artist": "Aaron Siskind", 
   "URL": "http://www.moma.org/collection/works/51456", 
   "CuratorApproved": "Y", 
-  "Title": "New Jersey 5", 
-  "DateAcquired": "1959-04-22", 
+  "CreditLine": "Gift of the photographer", 
   "Date": "1950", 
   "ArtistID": 5456, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "349.1959", 
-  "ArtistBio": "American, 1903\u20131991", 
-  "CreditLine": "Gift of the photographer", 
+  "ArtistBio": "(American, 1903\u20131991)", 
+  "DateAcquired": "1959-04-22", 
+  "\ufeffTitle": "New Jersey 5", 
   "ObjectID": "51456"
 }

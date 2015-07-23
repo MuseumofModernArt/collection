@@ -5,8 +5,7 @@
   "Artist": "Carolee Schneemann", 
   "URL": "http://www.moma.org/collection/works/48362", 
   "CuratorApproved": "Y", 
-  "Title": "Portrait Partials", 
-  "DateAcquired": "1994-03-10", 
+  "CreditLine": "Acquired through the generosity of the Peter Norton Family Foundation", 
   "Date": "1970", 
   "ArtistID": 7712, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "200.1994", 
-  "ArtistBio": "American, born 1939", 
-  "CreditLine": "Acquired through the generosity of the Peter Norton Family Foundation", 
+  "ArtistBio": "(American, born 1939)", 
+  "DateAcquired": "1994-03-10", 
+  "\ufeffTitle": "Portrait Partials", 
   "ObjectID": "48362"
 }

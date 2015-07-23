@@ -5,8 +5,7 @@
   "Artist": "Harry Callahan", 
   "URL": "http://www.moma.org/collection/works/49478", 
   "CuratorApproved": "Y", 
-  "Title": "Eleanor, Chicago", 
-  "DateAcquired": "1977-06-09", 
+  "CreditLine": "Acquired with matching funds from The Joseph G. Mayer Foundation, Inc. and the National Endowment for the Arts", 
   "Date": "c. 1952", 
   "ArtistID": 924, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "246.1977", 
-  "ArtistBio": "American, 1912\u20131999", 
-  "CreditLine": "Acquired with matching funds from The Joseph G. Mayer Foundation, Inc. and the National Endowment for the Arts", 
+  "ArtistBio": "(American, 1912\u20131999)", 
+  "DateAcquired": "1977-06-09", 
+  "\ufeffTitle": "Eleanor, Chicago", 
   "ObjectID": "49478"
 }

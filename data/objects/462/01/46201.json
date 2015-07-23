@@ -5,8 +5,7 @@
   "Artist": "Tina Modotti", 
   "URL": "http://www.moma.org/collection/works/46201", 
   "CuratorApproved": "Y", 
-  "Title": "Hands Washing", 
-  "DateAcquired": "1964-01-07", 
+  "CreditLine": "Anonymous gift", 
   "Date": "c. 1927", 
   "ArtistID": 4039, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "96.1964", 
-  "ArtistBio": "Italian, 1896\u20131942", 
-  "CreditLine": "Anonymous gift", 
+  "ArtistBio": "(Italian, 1896\u20131942)", 
+  "DateAcquired": "1964-01-07", 
+  "\ufeffTitle": "Hands Washing", 
   "ObjectID": "46201"
 }

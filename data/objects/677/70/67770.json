@@ -1,12 +1,11 @@
 {
   "Medium": "Lithograph", 
-  "Dimensions": "composition  40 x 27 15/16\" (101.6 x 71.1 cm)  sheet  40 x 27 15/16\" (101.6 x 71.1 cm)", 
+  "Dimensions": "composition  40 x 27 15/16\" (101.6 x 71.1 cm)\r\nsheet  40 x 27 15/16\" (101.6 x 71.1 cm)", 
   "Classification": "Print", 
   "Artist": "Robert Rauschenberg", 
   "URL": "http://www.moma.org/collection/works/67770", 
   "CuratorApproved": "Y", 
-  "Title": "Sack from the Stoned Moon Series", 
-  "DateAcquired": "1971-03-30", 
+  "CreditLine": "Gift of Dorothy and Lou Faibish", 
   "Date": "1969", 
   "ArtistID": 4823, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "363.1971", 
-  "ArtistBio": "American, 1925\u20132008", 
-  "CreditLine": "Gift of Dorothy and Lou Faibish", 
+  "ArtistBio": "(American, 1925\u20132008)", 
+  "DateAcquired": "1971-03-30", 
+  "\ufeffTitle": "Sack from the Stoned Moon Series", 
   "ObjectID": "67770"
 }

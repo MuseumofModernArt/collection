@@ -5,8 +5,7 @@
   "Artist": "Constantin Brancusi", 
   "URL": "http://www.moma.org/collection/works/33263", 
   "CuratorApproved": "Y", 
-  "Title": "View of the Artist's Studio", 
-  "DateAcquired": "1978-04-04", 
+  "CreditLine": "The Joan and Lester Avnet Collection", 
   "Date": "1918", 
   "ArtistID": 738, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "19.1978", 
-  "ArtistBio": "French, born Romania. 1876\u20131957", 
-  "CreditLine": "The Joan and Lester Avnet Collection", 
+  "ArtistBio": "(French, born Romania. 1876\u20131957)", 
+  "DateAcquired": "1978-04-04", 
+  "\ufeffTitle": "View of the Artist's Studio", 
   "ObjectID": "33263"
 }

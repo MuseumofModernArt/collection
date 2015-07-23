@@ -5,8 +5,7 @@
   "Artist": "Richard Gangle", 
   "URL": "http://www.moma.org/collection/works/6159", 
   "CuratorApproved": "Y", 
-  "Title": "Time, The Weekly Newsmagazine", 
-  "DateAcquired": "1953-04-07", 
+  "CreditLine": "Gift of the artist", 
   "Date": "1953", 
   "ArtistID": 8240, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "303.1953", 
-  "ArtistBio": "American, born 1918", 
-  "CreditLine": "Gift of the artist", 
+  "ArtistBio": "(American, born 1918)", 
+  "DateAcquired": "1953-04-07", 
+  "\ufeffTitle": "Time, The Weekly Newsmagazine", 
   "ObjectID": "6159"
 }

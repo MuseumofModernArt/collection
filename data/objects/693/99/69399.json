@@ -1,12 +1,11 @@
 {
   "Medium": "Lithograph", 
-  "Dimensions": "composition  24 1/4 x 18 1/4\" (61.6 x 46.3 cm)  sheet  24 1/4 x 18 1/4\" (61 x 46.3 cm)", 
+  "Dimensions": "composition  24 1/4 x 18 1/4\" (61.6 x 46.3 cm)\r\nsheet  24 1/4 x 18 1/4\" (61 x 46.3 cm)", 
   "Classification": "Print", 
   "Artist": "David Storey", 
   "URL": "http://www.moma.org/collection/works/69399", 
   "CuratorApproved": "Y", 
-  "Title": "Pony Boy", 
-  "DateAcquired": "1999-11-18", 
+  "CreditLine": "Anonymously given", 
   "Date": "1999", 
   "ArtistID": 5679, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "455.1999", 
-  "ArtistBio": "American, born 1948", 
-  "CreditLine": "Anonymously given", 
+  "ArtistBio": "(American, born 1948)", 
+  "DateAcquired": "1999-11-18", 
+  "\ufeffTitle": "Pony Boy", 
   "ObjectID": "69399"
 }

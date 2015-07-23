@@ -5,8 +5,7 @@
   "Artist": "Natalia Goncharova", 
   "URL": "http://www.moma.org/collection/works/38285", 
   "CuratorApproved": "Y", 
-  "Title": "The Forest", 
-  "DateAcquired": "1979-10-04", 
+  "CreditLine": "Gift of Agnes Gund", 
   "Date": "(1913)", 
   "ArtistID": 2229, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "930.1979", 
-  "ArtistBio": "Russian, 1881\u20131962", 
-  "CreditLine": "Gift of Agnes Gund", 
+  "ArtistBio": "(Russian, 1881\u20131962)", 
+  "DateAcquired": "1979-10-04", 
+  "\ufeffTitle": "The Forest", 
   "ObjectID": "38285"
 }

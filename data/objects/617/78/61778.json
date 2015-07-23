@@ -1,12 +1,11 @@
 {
   "Medium": "Photolithograph", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
-  "Artist": "Ian Hamilton Finlay", 
+  "Artist": "Ian Hamilton Finlay, Gary Hincks, Kate Greenaway", 
   "URL": "http://www.moma.org/collection/works/61778", 
   "CuratorApproved": "Y", 
-  "Title": "Thermidor", 
-  "DateAcquired": "1997-03-06", 
+  "CreditLine": "Walter Bareiss Fund", 
   "Date": "1992", 
   "ArtistID": 1878, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "99.1997", 
-  "ArtistBio": "British, 1925\u20132006", 
-  "CreditLine": "Walter Bareiss Fund", 
+  "ArtistBio": "(British, 1925\u20132006) (born 1949)", 
+  "DateAcquired": "1997-03-06", 
+  "\ufeffTitle": "Thermidor", 
   "ObjectID": "61778"
 }

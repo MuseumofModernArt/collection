@@ -1,12 +1,11 @@
 {
-  "Medium": "Woodcut from an illustrated book with four woodcuts and one woodcut title page  ", 
+  "Medium": "Woodcut from an illustrated book with four woodcuts and one woodcut title page\r\n", 
   "Dimensions": "composition (irreg.): 9 5/16 x 6 9/16\" (23.6 x 16.6 cm); page: 14 13/16 x 10 3/8\" (37.6 x 26.3 cm)", 
   "Classification": "Illustrated Book", 
   "Artist": "Gerhard Marcks", 
   "URL": "http://www.moma.org/collection/works/17680", 
   "CuratorApproved": "Y", 
-  "Title": "Tower of Babel (plate, page 13) from The Tower of Babel", 
-  "DateAcquired": "1990-10-23", 
+  "CreditLine": "Gift of Mrs. Donald B. Straus", 
   "Date": "1957 (print executed 1956)", 
   "ArtistID": 3756, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "475.1990.1", 
-  "ArtistBio": "German, 1889\u20131981", 
-  "CreditLine": "Gift of Mrs. Donald B. Straus", 
+  "ArtistBio": "(German, 1889\u20131981)", 
+  "DateAcquired": "1990-10-23", 
+  "\ufeffTitle": "Tower of Babel (Turm zu Babel) (plate, page 13) from The Tower of Babel", 
   "ObjectID": "17680"
 }

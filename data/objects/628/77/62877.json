@@ -5,8 +5,7 @@
   "Artist": "Pablo Picasso", 
   "URL": "http://www.moma.org/collection/works/62877", 
   "CuratorApproved": "Y", 
-  "Title": "Jacqueline in Black Hat (Jacqueline au chapeau noir), state three", 
-  "DateAcquired": "1975-05-09", 
+  "CreditLine": "Gift of Mr. and Mrs. Wallace Reiss", 
   "Date": "1962", 
   "ArtistID": 4609, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "142.1975", 
-  "ArtistBio": "Spanish, 1881\u20131973", 
-  "CreditLine": "Gift of Mr. and Mrs. Wallace Reiss", 
+  "ArtistBio": "(Spanish, 1881\u20131973)", 
+  "DateAcquired": "1975-05-09", 
+  "\ufeffTitle": "Jacqueline in Black Hat (Jacqueline au chapeau noir), state three", 
   "ObjectID": "62877"
 }

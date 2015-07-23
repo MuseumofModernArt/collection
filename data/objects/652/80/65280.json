@@ -1,12 +1,11 @@
 {
   "Medium": "Screenprint and etching", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "Jes\u00fas Rafael Soto", 
   "URL": "http://www.moma.org/collection/works/65280", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled B", 
-  "DateAcquired": "1972-05-08", 
+  "CreditLine": "Purchase", 
   "Date": "(1971)", 
   "ArtistID": 5535, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "252.1972", 
-  "ArtistBio": "Venezuelan, 1923\u20132005", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(Venezuelan, 1923\u20132005)", 
+  "DateAcquired": "1972-05-08", 
+  "\ufeffTitle": "Untitled B", 
   "ObjectID": "65280"
 }

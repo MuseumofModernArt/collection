@@ -5,8 +5,7 @@
   "Artist": "Francis Bedford", 
   "URL": "http://www.moma.org/collection/works/47207", 
   "CuratorApproved": "Y", 
-  "Title": "Ilfracombe, Captstone Parade", 
-  "DateAcquired": "1972-05-02", 
+  "CreditLine": "Purchase", 
   "Date": "1855-91", 
   "ArtistID": 430, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "169.1972", 
-  "ArtistBio": "British, 1816\u20131894", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(British, 1816\u20131894)", 
+  "DateAcquired": "1972-05-02", 
+  "\ufeffTitle": "Ilfracombe, Captstone Parade", 
   "ObjectID": "47207"
 }

@@ -5,8 +5,7 @@
   "Artist": "Koloman Moser", 
   "URL": "http://www.moma.org/collection/works/5438", 
   "CuratorApproved": "Y", 
-  "Title": "Fromme Kalender", 
-  "DateAcquired": "1968-03-07", 
+  "CreditLine": "Given anonymously", 
   "Date": "1903", 
   "ArtistID": 4119, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "166.1968", 
-  "ArtistBio": "Austrian, 1868\u20131918", 
-  "CreditLine": "Given anonymously", 
+  "ArtistBio": "(Austrian, 1868\u20131918)", 
+  "DateAcquired": "1968-03-07", 
+  "\ufeffTitle": "Fromme Kalender", 
   "ObjectID": "5438"
 }

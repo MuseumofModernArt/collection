@@ -1,12 +1,11 @@
 {
   "Medium": "Borosilicate glass", 
-  "Dimensions": ".1: 14 5/8 x 9 1/2\" (37.2 x 24.1 cm)  .2: 7 x 4\" (17.8 x 10.2 cm)  .4: 8 1/2 x 5 1/8\" (21.6 x 13 cm)  .5-.6: 5 5/8 x 3 1/4\" (14.3 x 8.2 cm)", 
+  "Dimensions": ".1: 14 5/8 x 9 1/2\" (37.2 x 24.1 cm)\r\n.2: 7 x 4\" (17.8 x 10.2 cm)\r\n.4: 8 1/2 x 5 1/8\" (21.6 x 13 cm)\r\n.5-.6: 5 5/8 x 3 1/4\" (14.3 x 8.2 cm)", 
   "Classification": "A&D Design", 
   "Artist": "Corning Glass Works", 
   "URL": "http://www.moma.org/collection/works/2805", 
   "CuratorApproved": "Y", 
-  "Title": "Boiling Flasks", 
-  "DateAcquired": "1934-04-01", 
+  "CreditLine": "Gift of the manufacturer", 
   "Date": "1920s", 
   "ArtistID": 1249, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "224.1934.1-6", 
-  "ArtistBio": "American, est. 1851", 
-  "CreditLine": "Gift of the manufacturer", 
+  "ArtistBio": "(American, est. 1851)", 
+  "DateAcquired": "1934-04-01", 
+  "\ufeffTitle": "Boiling Flasks", 
   "ObjectID": "2805"
 }

@@ -1,12 +1,11 @@
 {
   "Medium": "Woodcut", 
-  "Dimensions": "irreg composition  30 x 19 15/16\" (76.2 x 50.6 cm)  sl. irreg. sheet  30 9/16 x 20 9/16\" (77.6 x 52.3 cm)", 
+  "Dimensions": "irreg composition  30 x 19 15/16\" (76.2 x 50.6 cm)\r\nsl. irreg. sheet  30 9/16 x 20 9/16\" (77.6 x 52.3 cm)", 
   "Classification": "Print", 
   "Artist": "Richard Bosman", 
   "URL": "http://www.moma.org/collection/works/64765", 
   "CuratorApproved": "Y", 
-  "Title": "Adversaries", 
-  "DateAcquired": "1982-10-26", 
+  "CreditLine": "Gift of Brooke and Carolyn Alexander", 
   "Date": "(1982)", 
   "ArtistID": 689, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "227.1982", 
-  "ArtistBio": "Australian, born 1944", 
-  "CreditLine": "Gift of Brooke and Carolyn Alexander", 
+  "ArtistBio": "(Australian, born 1944)", 
+  "DateAcquired": "1982-10-26", 
+  "\ufeffTitle": "Adversaries", 
   "ObjectID": "64765"
 }

@@ -5,8 +5,7 @@
   "Artist": "Andrew Joseph Russell", 
   "URL": "http://www.moma.org/collection/works/51707", 
   "CuratorApproved": "Y", 
-  "Title": "Construction Train, Bear River", 
-  "DateAcquired": "NULL", 
+  "CreditLine": "Gift of Union Pacific Railroad Company", 
   "Date": "1868", 
   "ArtistID": 5091, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "359.1938", 
-  "ArtistBio": "American, 1830\u20131902", 
-  "CreditLine": "Gift of Union Pacific Railroad Company", 
+  "ArtistBio": "(American, 1830\u20131902)", 
+  "DateAcquired": "", 
+  "\ufeffTitle": "Construction Train, Bear River", 
   "ObjectID": "51707"
 }

@@ -5,8 +5,7 @@
   "Artist": "Raymond Mason", 
   "URL": "http://www.moma.org/collection/works/38783", 
   "CuratorApproved": "Y", 
-  "Title": "Boulevard St. Michel", 
-  "DateAcquired": "1967-12-13", 
+  "CreditLine": "Gift of Pierre Matisse", 
   "Date": "1967", 
   "ArtistID": 3817, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "2378.1967", 
-  "ArtistBio": "British, 1922\u20132010", 
-  "CreditLine": "Gift of Pierre Matisse", 
+  "ArtistBio": "(British, 1922\u20132010)", 
+  "DateAcquired": "1967-12-13", 
+  "\ufeffTitle": "Boulevard St. Michel", 
   "ObjectID": "38783"
 }

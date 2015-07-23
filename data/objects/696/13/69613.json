@@ -1,12 +1,11 @@
 {
   "Medium": "Etching and aquatint", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "Ernst Fuchs", 
   "URL": "http://www.moma.org/collection/works/69613", 
   "CuratorApproved": "Y", 
-  "Title": "Sphinx Kallipygos", 
-  "DateAcquired": "1992-11-04", 
+  "CreditLine": "Gift of Judith Young-Mallin", 
   "Date": "(1966)", 
   "ArtistID": 2021, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "464.1992", 
-  "ArtistBio": "Austrian, born 1930", 
-  "CreditLine": "Gift of Judith Young-Mallin", 
+  "ArtistBio": "(Austrian, born 1930)", 
+  "DateAcquired": "1992-11-04", 
+  "\ufeffTitle": "Sphinx Kallipygos", 
   "ObjectID": "69613"
 }

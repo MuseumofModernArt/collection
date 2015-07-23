@@ -5,8 +5,7 @@
   "Artist": "Arshile Gorky", 
   "URL": "http://www.moma.org/collection/works/36858", 
   "CuratorApproved": "Y", 
-  "Title": "Leonora Portnoff", 
-  "DateAcquired": "1975-01-24", 
+  "CreditLine": "Kay Sage Tanguy Bequest (by exchange)", 
   "Date": "(1935)", 
   "ArtistID": 2252, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "429.1975", 
-  "ArtistBio": "American, born Armenia. 1904\u20131948", 
-  "CreditLine": "Kay Sage Tanguy Bequest (by exchange)", 
+  "ArtistBio": "(American, born Armenia. 1904\u20131948)", 
+  "DateAcquired": "1975-01-24", 
+  "\ufeffTitle": "Leonora Portnoff", 
   "ObjectID": "36858"
 }

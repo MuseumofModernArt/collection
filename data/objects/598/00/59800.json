@@ -5,8 +5,7 @@
   "Artist": "Walter Jacob", 
   "URL": "http://www.moma.org/collection/works/59800", 
   "CuratorApproved": "Y", 
-  "Title": "The Peasant", 
-  "DateAcquired": "1964-01-07", 
+  "CreditLine": "Gift of J.B. Neumann", 
   "Date": "1919", 
   "ArtistID": 2866, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "10.1964", 
-  "ArtistBio": "German, 1893\u20131964", 
-  "CreditLine": "Gift of J.B. Neumann", 
+  "ArtistBio": "(German, 1893\u20131964)", 
+  "DateAcquired": "1964-01-07", 
+  "\ufeffTitle": "The Peasant (Der Bauer)", 
   "ObjectID": "59800"
 }

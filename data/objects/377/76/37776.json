@@ -5,8 +5,7 @@
   "Artist": "Ben Shahn", 
   "URL": "http://www.moma.org/collection/works/37776", 
   "CuratorApproved": "Y", 
-  "Title": "Cartoon for mosaic mural for William E. Grady Vocational High School, Brooklyn, New York", 
-  "DateAcquired": "1959-10-15", 
+  "CreditLine": "Gift of the artist", 
   "Date": "(1956)", 
   "ArtistID": 5366, 
   "Keywords": [
@@ -20,7 +19,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "674.1959", 
-  "ArtistBio": "American, born Lithuania. 1898\u20131969", 
-  "CreditLine": "Gift of the artist", 
+  "ArtistBio": "(American, born Lithuania. 1898\u20131969)", 
+  "DateAcquired": "1959-10-15", 
+  "\ufeffTitle": "Cartoon for mosaic mural for William E. Grady Vocational High School, Brooklyn, New York", 
   "ObjectID": "37776"
 }

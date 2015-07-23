@@ -5,8 +5,7 @@
   "Artist": "Sigmar Polke", 
   "URL": "http://www.moma.org/collection/works/69207", 
   "CuratorApproved": "Y", 
-  "Title": "Obelisk (Hieroglyphs) (Obelisk (Hieroglyphen))", 
-  "DateAcquired": "1990-10-23", 
+  "CreditLine": "Purchase", 
   "Date": "1973", 
   "ArtistID": 4671, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "442.1990", 
-  "ArtistBio": "German, 1941\u20132010", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(German, 1941\u20132010)", 
+  "DateAcquired": "1990-10-23", 
+  "\ufeffTitle": "Obelisk (Hieroglyphs) (Obelisk (Hieroglyphen))", 
   "ObjectID": "69207"
 }

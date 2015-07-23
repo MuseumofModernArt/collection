@@ -5,8 +5,7 @@
   "Artist": "Philippe Halsman", 
   "URL": "http://www.moma.org/collection/works/56367", 
   "CuratorApproved": "Y", 
-  "Title": "Marilyn Monroe at the Drive-in", 
-  "DateAcquired": "1998-12-10", 
+  "CreditLine": "Gift of Jane Halsman Bello", 
   "Date": "1952", 
   "ArtistID": 2470, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "773.1998", 
-  "ArtistBio": "American, born Latvia. 1906\u20131979", 
-  "CreditLine": "Gift of Jane Halsman Bello", 
+  "ArtistBio": "(American, born Latvia. 1906\u20131979)", 
+  "DateAcquired": "1998-12-10", 
+  "\ufeffTitle": "Marilyn Monroe at the Drive-in", 
   "ObjectID": "56367"
 }

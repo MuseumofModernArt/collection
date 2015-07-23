@@ -5,8 +5,7 @@
   "Artist": "Thomas W. Winstead", 
   "URL": "http://www.moma.org/collection/works/3380", 
   "CuratorApproved": "Y", 
-  "Title": "Cube Container", 
-  "DateAcquired": "1960-11-16", 
+  "CreditLine": "Gift of the manufacturer", 
   "Date": "1955", 
   "ArtistID": 6403, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "351.1960", 
-  "ArtistBio": "American, born 1918", 
-  "CreditLine": "Gift of the manufacturer", 
+  "ArtistBio": "(American, born 1918)", 
+  "DateAcquired": "1960-11-16", 
+  "\ufeffTitle": "Cube Container", 
   "ObjectID": "3380"
 }

@@ -5,8 +5,7 @@
   "Artist": "Max Beckmann", 
   "URL": "http://www.moma.org/collection/works/64563", 
   "CuratorApproved": "Y", 
-  "Title": "Ulrikus Street in Hamburg", 
-  "DateAcquired": "1952-11-07", 
+  "CreditLine": "Larry Aldrich Fund", 
   "Date": "(1912), dated 1913", 
   "ArtistID": 429, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "216.1952", 
-  "ArtistBio": "German, 1884\u20131950", 
-  "CreditLine": "Larry Aldrich Fund", 
+  "ArtistBio": "(German, 1884\u20131950)", 
+  "DateAcquired": "1952-11-07", 
+  "\ufeffTitle": "Ulrikus Street in Hamburg (Ulrikusstrasse in Hamburg)", 
   "ObjectID": "64563"
 }

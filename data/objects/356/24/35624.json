@@ -5,8 +5,7 @@
   "Artist": "Richard Diebenkorn", 
   "URL": "http://www.moma.org/collection/works/35624", 
   "CuratorApproved": "Y", 
-  "Title": "Seated Woman", 
-  "DateAcquired": "1990-05-08", 
+  "CreditLine": "Gift of the artist", 
   "Date": "(1966)", 
   "ArtistID": 1539, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "253.1990", 
-  "ArtistBio": "American, 1922\u20131993", 
-  "CreditLine": "Gift of the artist", 
+  "ArtistBio": "(American, 1922\u20131993)", 
+  "DateAcquired": "1990-05-08", 
+  "\ufeffTitle": "Seated Woman", 
   "ObjectID": "35624"
 }

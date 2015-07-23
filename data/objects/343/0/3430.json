@@ -5,8 +5,7 @@
   "Artist": "Gianfranco Frattini", 
   "URL": "http://www.moma.org/collection/works/3430", 
   "CuratorApproved": "Y", 
-  "Title": "Pitcher", 
-  "DateAcquired": "1985-11-18", 
+  "CreditLine": "Gift of the manufacturer", 
   "Date": "1983", 
   "ArtistID": 1978, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "361.1985", 
-  "ArtistBio": "Italian, 1926\u20132004", 
-  "CreditLine": "Gift of the manufacturer", 
+  "ArtistBio": "(Italian, 1926\u20132004)", 
+  "DateAcquired": "1985-11-18", 
+  "\ufeffTitle": "Pitcher", 
   "ObjectID": "3430"
 }

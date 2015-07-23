@@ -5,8 +5,7 @@
   "Artist": "Robert Brownjohn", 
   "URL": "http://www.moma.org/collection/works/5343", 
   "CuratorApproved": "Y", 
-  "Title": "Obsession and Fantasy", 
-  "DateAcquired": "1988-04-27", 
+  "CreditLine": "Gift of Keith Godard", 
   "Date": "1962-63", 
   "ArtistID": 816, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "155.1988", 
-  "ArtistBio": "American, 1925\u20131970", 
-  "CreditLine": "Gift of Keith Godard", 
+  "ArtistBio": "(American, 1925\u20131970)", 
+  "DateAcquired": "1988-04-27", 
+  "\ufeffTitle": "Obsession and Fantasy", 
   "ObjectID": "5343"
 }

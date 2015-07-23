@@ -5,8 +5,7 @@
   "Artist": "Paul Rand", 
   "URL": "http://www.moma.org/collection/works/8826", 
   "CuratorApproved": "Y", 
-  "Title": "The House in the Museum Garden, Marcel Breuer, Architect", 
-  "DateAcquired": "2000-12-11", 
+  "CreditLine": "The Museum of Modern Art, New York", 
   "Date": "1949", 
   "ArtistID": 4809, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "1529.2000.x1-x3", 
-  "ArtistBio": "American, 1914\u20131996", 
-  "CreditLine": "The Museum of Modern Art, New York", 
+  "ArtistBio": "(American, 1914\u20131996)", 
+  "DateAcquired": "2000-12-11", 
+  "\ufeffTitle": "The House in the Museum Garden, Marcel Breuer, Architect", 
   "ObjectID": "8826"
 }

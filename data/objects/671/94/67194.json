@@ -5,8 +5,7 @@
   "Artist": "Paul Klee", 
   "URL": "http://www.moma.org/collection/works/67194", 
   "CuratorApproved": "Y", 
-  "Title": "Postcard for Bauhaus Lantern Party 1922", 
-  "DateAcquired": "1942-07-01", 
+  "CreditLine": "Purchase", 
   "Date": "1922", 
   "ArtistID": 3130, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "338.1942", 
-  "ArtistBio": "German, born Switzerland. 1879\u20131940", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(German, born Switzerland. 1879\u20131940)", 
+  "DateAcquired": "1942-07-01", 
+  "\ufeffTitle": "Postcard for Bauhaus Lantern Party 1922 (Laternenfest Bauhaus 1922)", 
   "ObjectID": "67194"
 }

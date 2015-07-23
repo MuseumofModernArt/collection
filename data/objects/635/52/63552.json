@@ -5,8 +5,7 @@
   "Artist": "Gerard Garouste", 
   "URL": "http://www.moma.org/collection/works/63552", 
   "CuratorApproved": "Y", 
-  "Title": "Figure in Funnel from the series Canto Inferno", 
-  "DateAcquired": "1988-05-04", 
+  "CreditLine": "Purchase", 
   "Date": "(1987)", 
   "ArtistID": 2087, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "171.1988", 
-  "ArtistBio": "French, born 1946", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(French, born 1946)", 
+  "DateAcquired": "1988-05-04", 
+  "\ufeffTitle": "Figure in Funnel from the series Canto Inferno", 
   "ObjectID": "63552"
 }

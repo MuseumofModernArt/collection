@@ -5,8 +5,7 @@
   "Artist": "El Lissitzky", 
   "URL": "http://www.moma.org/collection/works/36937", 
   "CuratorApproved": "Y", 
-  "Title": "Proun GK", 
-  "DateAcquired": "1981-11-13", 
+  "CreditLine": "", 
   "Date": "(c. 1922-23)", 
   "ArtistID": 3569, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "444.1981", 
-  "ArtistBio": "Russian, 1890\u20131941", 
-  "CreditLine": "NULL", 
+  "ArtistBio": "(Russian, 1890\u20131941)", 
+  "DateAcquired": "1981-11-13", 
+  "\ufeffTitle": "Proun GK", 
   "ObjectID": "36937"
 }

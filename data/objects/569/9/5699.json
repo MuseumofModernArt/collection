@@ -5,8 +5,7 @@
   "Artist": "Henri-Gustave Jossot", 
   "URL": "http://www.moma.org/collection/works/5699", 
   "CuratorApproved": "Y", 
-  "Title": "Pains d'Epices de Dijon", 
-  "DateAcquired": "1968-03-07", 
+  "CreditLine": "Acquired by exchange", 
   "Date": "1894", 
   "ArtistID": 2945, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "211.1968", 
-  "ArtistBio": "French, 1866\u20131951", 
-  "CreditLine": "Acquired by exchange", 
+  "ArtistBio": "(French, 1866\u20131951)", 
+  "DateAcquired": "1968-03-07", 
+  "\ufeffTitle": "Pains d'Epices de Dijon", 
   "ObjectID": "5699"
 }

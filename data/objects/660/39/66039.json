@@ -1,12 +1,11 @@
 {
-  "Medium": "Lithograph  ", 
+  "Medium": "Lithograph\r\n", 
   "Dimensions": "composition (irreg.): 7 1/16 x 9\" (17.9 x 22.8 cm); sheet: 16 15/16 x 14\" (43 x 35.5 cm)", 
   "Classification": "Print", 
   "Artist": "Ernst Barlach", 
   "URL": "http://www.moma.org/collection/works/66039", 
   "CuratorApproved": "Y", 
-  "Title": "Give Us Peace", 
-  "DateAcquired": "1954-09-30", 
+  "CreditLine": "Gift of Samuel A. Berger", 
   "Date": "(1916)", 
   "ArtistID": 335, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "286.1954", 
-  "ArtistBio": "German, 1870\u20131938", 
-  "CreditLine": "Gift of Samuel A. Berger", 
+  "ArtistBio": "(German, 1870\u20131938)", 
+  "DateAcquired": "1954-09-30", 
+  "\ufeffTitle": "Give Us Peace (Dona Nobis Pacem)", 
   "ObjectID": "66039"
 }

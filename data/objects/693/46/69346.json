@@ -1,12 +1,11 @@
 {
   "Medium": "Photolithograph", 
-  "Dimensions": "Composition: 19 9/16 x 21 1/2\" (49.7 x 54.6 cm)  Sheet: 23 1/4 x 25 3/8\" (59 x 64.4 cm)", 
+  "Dimensions": "Composition: 19 9/16 x 21 1/2\" (49.7 x 54.6 cm)\r\nSheet: 23 1/4 x 25 3/8\" (59 x 64.4 cm)", 
   "Classification": "Print", 
   "Artist": "Gerhard Richter", 
   "URL": "http://www.moma.org/collection/works/69346", 
   "CuratorApproved": "Y", 
-  "Title": "SHADOW PICTURE II or SILHOUETTE II (Schattenbild II)", 
-  "DateAcquired": "1990-10-23", 
+  "CreditLine": "The Associates Fund in honor of Riva Castleman", 
   "Date": "1968", 
   "ArtistID": 4907, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "451.1990", 
-  "ArtistBio": "German, born 1932", 
-  "CreditLine": "The Associates Fund in honor of Riva Castleman", 
+  "ArtistBio": "(German, born 1932)", 
+  "DateAcquired": "1990-10-23", 
+  "\ufeffTitle": "Shadow Picture II", 
   "ObjectID": "69346"
 }

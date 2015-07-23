@@ -5,8 +5,7 @@
   "Artist": "Jack Welpott", 
   "URL": "http://www.moma.org/collection/works/47067", 
   "CuratorApproved": "Y", 
-  "Title": "Sharon Moore", 
-  "DateAcquired": "1972-03-07", 
+  "CreditLine": "Purchase", 
   "Date": "1970", 
   "ArtistID": 6308, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "161.1972", 
-  "ArtistBio": "American, 1923\u20132007", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, 1923\u20132007)", 
+  "DateAcquired": "1972-03-07", 
+  "\ufeffTitle": "Sharon Moore", 
   "ObjectID": "47067"
 }

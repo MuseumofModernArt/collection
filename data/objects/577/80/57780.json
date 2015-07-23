@@ -5,8 +5,7 @@
   "Artist": "Charles Martin", 
   "URL": "http://www.moma.org/collection/works/57780", 
   "CuratorApproved": "Y", 
-  "Title": "Collared: New York City", 
-  "DateAcquired": "2000-10-12", 
+  "CreditLine": "The Family of Man Fund", 
   "Date": "1996", 
   "ArtistID": 3788, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "1172.2000", 
-  "ArtistBio": "American, born 1952", 
-  "CreditLine": "The Family of Man Fund", 
+  "ArtistBio": "(American, born 1952)", 
+  "DateAcquired": "2000-10-12", 
+  "\ufeffTitle": "Collared: New York City", 
   "ObjectID": "57780"
 }

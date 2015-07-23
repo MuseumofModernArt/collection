@@ -1,12 +1,11 @@
 {
   "Medium": "Etching and aquatint", 
-  "Dimensions": "plate  29 11/16 x 35 5/16\" (75.4 x 89.7 cm)  sheet  30 15/16 x 42 3/16\" (78.6 x 107.1 cm)", 
+  "Dimensions": "plate  29 11/16 x 35 5/16\" (75.4 x 89.7 cm)\r\nsheet  30 15/16 x 42 3/16\" (78.6 x 107.1 cm)", 
   "Classification": "Print", 
   "Artist": "Juan G\u00f3mez-Quiroz", 
   "URL": "http://www.moma.org/collection/works/62431", 
   "CuratorApproved": "Y", 
-  "Title": "Still Life #3", 
-  "DateAcquired": "1975-05-09", 
+  "CreditLine": "Latin American Fund", 
   "Date": "1975", 
   "ArtistID": 2226, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "130.1975", 
-  "ArtistBio": "American, born 1939", 
-  "CreditLine": "Latin American Fund", 
+  "ArtistBio": "(American, born 1939)", 
+  "DateAcquired": "1975-05-09", 
+  "\ufeffTitle": "Still Life #3", 
   "ObjectID": "62431"
 }

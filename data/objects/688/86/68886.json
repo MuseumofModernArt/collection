@@ -5,8 +5,7 @@
   "Artist": "Maria Lassnig", 
   "URL": "http://www.moma.org/collection/works/68886", 
   "CuratorApproved": "Y", 
-  "Title": "The Training (Die Dressur)", 
-  "DateAcquired": "1990-10-23", 
+  "CreditLine": "Purchase", 
   "Date": "1965", 
   "ArtistID": 3402, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "424.1990", 
-  "ArtistBio": "Austrian, 1919\u20132014", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(Austrian, 1919\u20132014)", 
+  "DateAcquired": "1990-10-23", 
+  "\ufeffTitle": "The Training (Die Dressur)", 
   "ObjectID": "68886"
 }

@@ -5,8 +5,7 @@
   "Artist": "Robert Adams", 
   "URL": "http://www.moma.org/collection/works/56709", 
   "CuratorApproved": "Y", 
-  "Title": "The Pawnee Grasslands, Colorado", 
-  "DateAcquired": "1996-12-10", 
+  "CreditLine": "Christie Calder Salomon Fund", 
   "Date": "1984", 
   "ArtistID": 66, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "843.1996", 
-  "ArtistBio": "American, born 1937", 
-  "CreditLine": "Christie Calder Salomon Fund", 
+  "ArtistBio": "(American, born 1937)", 
+  "DateAcquired": "1996-12-10", 
+  "\ufeffTitle": "The Pawnee Grasslands, Colorado", 
   "ObjectID": "56709"
 }

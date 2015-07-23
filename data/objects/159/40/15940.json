@@ -5,8 +5,7 @@
   "Artist": "Pablo Picasso", 
   "URL": "http://www.moma.org/collection/works/15940", 
   "CuratorApproved": "Y", 
-  "Title": "Plate (page 63) from LE COCU MAGNIFIQUE", 
-  "DateAcquired": "1969-04-16", 
+  "CreditLine": "Monroe Wheeler Fund", 
   "Date": "1966-68", 
   "ArtistID": 4609, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "332.1969.4", 
-  "ArtistBio": "Spanish, 1881\u20131973", 
-  "CreditLine": "Monroe Wheeler Fund", 
+  "ArtistBio": "(Spanish, 1881\u20131973)", 
+  "DateAcquired": "1969-04-16", 
+  "\ufeffTitle": "Plate (page 63) from Le Cocu magnifique", 
   "ObjectID": "15940"
 }

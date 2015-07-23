@@ -1,12 +1,11 @@
 {
-  "Medium": "Photolithographed manuscript and type, and reproductions of photographs", 
+  "Medium": "Offset manuscript and type, and reproductions of photographs", 
   "Dimensions": "page: 7 7/8 x 5 13/16\" (20 x 14.8 cm)", 
   "Classification": "Illustrated Book", 
   "Artist": "Marcel Broodthaers", 
   "URL": "http://www.moma.org/collection/works/14269", 
   "CuratorApproved": "Y", 
-  "Title": "Magie: Art et Politique", 
-  "DateAcquired": "1984-10-02", 
+  "CreditLine": "Purchase", 
   "Date": "1973", 
   "ArtistID": 795, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "253.1984", 
-  "ArtistBio": "Belgian, 1924\u20131976", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(Belgian, 1924\u20131976)", 
+  "DateAcquired": "1984-10-02", 
+  "\ufeffTitle": "Magie: Art et Politique", 
   "ObjectID": "14269"
 }

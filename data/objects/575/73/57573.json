@@ -5,8 +5,7 @@
   "Artist": "Hiroshi Yamazaki", 
   "URL": "http://www.moma.org/collection/works/57573", 
   "CuratorApproved": "Y", 
-  "Title": "Observation: The Sun- 2", 
-  "DateAcquired": "1979-10-11", 
+  "CreditLine": "Gift of the photographer", 
   "Date": "February 2, 1978", 
   "ArtistID": 6489, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "1035.1979.2", 
-  "ArtistBio": "Japanese", 
-  "CreditLine": "Gift of the photographer", 
+  "ArtistBio": "(Japanese)", 
+  "DateAcquired": "1979-10-11", 
+  "\ufeffTitle": "Observation: The Sun- 2", 
   "ObjectID": "57573"
 }

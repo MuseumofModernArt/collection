@@ -5,8 +5,7 @@
   "Artist": "Ben Shahn", 
   "URL": "http://www.moma.org/collection/works/38547", 
   "CuratorApproved": "Y", 
-  "Title": "Liberation", 
-  "DateAcquired": "1980-12-18", 
+  "CreditLine": "James Thrall Soby Bequest", 
   "Date": "(1945)", 
   "ArtistID": 5366, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "1249.1979", 
-  "ArtistBio": "American, born Lithuania. 1898\u20131969", 
-  "CreditLine": "James Thrall Soby Bequest", 
+  "ArtistBio": "(American, born Lithuania. 1898\u20131969)", 
+  "DateAcquired": "1980-12-18", 
+  "\ufeffTitle": "Liberation", 
   "ObjectID": "38547"
 }

@@ -5,8 +5,7 @@
   "Artist": "Unknown photographer", 
   "URL": "http://www.moma.org/collection/works/49841", 
   "CuratorApproved": "Y", 
-  "Title": "Crosstie Storage Yard, Ayer & Lord Tie Company, Chicago, Illinois", 
-  "DateAcquired": "1993-06-01", 
+  "CreditLine": "Gift of Simon Lowinsky", 
   "Date": "c. 1920", 
   "ArtistID": 6028, 
   "Keywords": [
@@ -21,7 +20,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "273.1993", 
-  "ArtistBio": "NULL", 
-  "CreditLine": "Gift of Simon Lowinsky", 
+  "ArtistBio": "", 
+  "DateAcquired": "1993-06-01", 
+  "\ufeffTitle": "Crosstie Storage Yard, Ayer & Lord Tie Company, Chicago, Illinois", 
   "ObjectID": "49841"
 }

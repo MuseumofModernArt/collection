@@ -5,8 +5,7 @@
   "Artist": "Alfred Stieglitz", 
   "URL": "http://www.moma.org/collection/works/55693", 
   "CuratorApproved": "Y", 
-  "Title": "Out of the Window \"291\"", 
-  "DateAcquired": "1941-12-10", 
+  "CreditLine": "Gift of Charles Sheeler", 
   "Date": "April 2, 1915", 
   "ArtistID": 5664, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "631.1941", 
-  "ArtistBio": "American, 1864\u20131946", 
-  "CreditLine": "Gift of Charles Sheeler", 
+  "ArtistBio": "(American, 1864\u20131946)", 
+  "DateAcquired": "1941-12-10", 
+  "\ufeffTitle": "Out of the Window \"291\"", 
   "ObjectID": "55693"
 }

@@ -5,8 +5,7 @@
   "Artist": "Gunter Rambow", 
   "URL": "http://www.moma.org/collection/works/7264", 
   "CuratorApproved": "Y", 
-  "Title": "Utopie Dynamit", 
-  "DateAcquired": "1987-11-18", 
+  "CreditLine": "Gift of the designer", 
   "Date": "1976", 
   "ArtistID": 4799, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "496.1987", 
-  "ArtistBio": "German, born 1938", 
-  "CreditLine": "Gift of the designer", 
+  "ArtistBio": "(German, born 1938)", 
+  "DateAcquired": "1987-11-18", 
+  "\ufeffTitle": "Utopie Dynamit", 
   "ObjectID": "7264"
 }

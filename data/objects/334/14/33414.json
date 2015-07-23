@@ -5,8 +5,7 @@
   "Artist": "Andr\u00e9 Derain", 
   "URL": "http://www.moma.org/collection/works/33414", 
   "CuratorApproved": "Y", 
-  "Title": "The Grove", 
-  "DateAcquired": "1978-04-04", 
+  "CreditLine": "The Joan and Lester Avnet Collection", 
   "Date": "(1912)", 
   "ArtistID": 1500, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "33.1978", 
-  "ArtistBio": "French, 1880\u20131954", 
-  "CreditLine": "The Joan and Lester Avnet Collection", 
+  "ArtistBio": "(French, 1880\u20131954)", 
+  "DateAcquired": "1978-04-04", 
+  "\ufeffTitle": "The Grove", 
   "ObjectID": "33414"
 }

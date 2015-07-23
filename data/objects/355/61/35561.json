@@ -5,8 +5,7 @@
   "Artist": "Otto Dix", 
   "URL": "http://www.moma.org/collection/works/35561", 
   "CuratorApproved": "Y", 
-  "Title": "Old Woman", 
-  "DateAcquired": "1950-10-11", 
+  "CreditLine": "Purchase", 
   "Date": "1932", 
   "ArtistID": 1559, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "246.1950", 
-  "ArtistBio": "German, 1891\u20131969", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(German, 1891\u20131969)", 
+  "DateAcquired": "1950-10-11", 
+  "\ufeffTitle": "Old Woman (Alte Dame)", 
   "ObjectID": "35561"
 }

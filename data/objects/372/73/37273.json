@@ -5,8 +5,7 @@
   "Artist": "Charles Demuth", 
   "URL": "http://www.moma.org/collection/works/37273", 
   "CuratorApproved": "Y", 
-  "Title": "Study for Acrobats", 
-  "DateAcquired": "1964-06-15", 
+  "CreditLine": "The John S. Newberry Collection", 
   "Date": "(1919)", 
   "ArtistID": 1490, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "518.1964", 
-  "ArtistBio": "American, 1883\u20131935", 
-  "CreditLine": "The John S. Newberry Collection", 
+  "ArtistBio": "(American, 1883\u20131935)", 
+  "DateAcquired": "1964-06-15", 
+  "\ufeffTitle": "Study for Acrobats", 
   "ObjectID": "37273"
 }

@@ -5,8 +5,7 @@
   "Artist": "Anatoly Timofeevich Zverev", 
   "URL": "http://www.moma.org/collection/works/33272", 
   "CuratorApproved": "Y", 
-  "Title": "Self-Portrait", 
-  "DateAcquired": "1958-02-19", 
+  "CreditLine": "Purchase", 
   "Date": "(1955)", 
   "ArtistID": 6591, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "20.1958", 
-  "ArtistBio": "Russian, 1931\u20131986", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(Russian, 1931\u20131986)", 
+  "DateAcquired": "1958-02-19", 
+  "\ufeffTitle": "Self-Portrait", 
   "ObjectID": "33272"
 }

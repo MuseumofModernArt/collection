@@ -5,8 +5,7 @@
   "Artist": "Maxime Du Camp", 
   "URL": "http://www.moma.org/collection/works/54434", 
   "CuratorApproved": "Y", 
-  "Title": "Grand Temple D'Isis, a Philoe, Galerie Orientale", 
-  "DateAcquired": "1981-12-17", 
+  "CreditLine": "Gift of Warner Communications, Inc.", 
   "Date": "1849-51", 
   "ArtistID": 1629, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "500.1981", 
-  "ArtistBio": "French, 1822\u20131894", 
-  "CreditLine": "Gift of Warner Communications, Inc.", 
+  "ArtistBio": "(French, 1822\u20131894)", 
+  "DateAcquired": "1981-12-17", 
+  "\ufeffTitle": "Grand Temple D'Isis, a Philoe, Galerie Orientale", 
   "ObjectID": "54434"
 }

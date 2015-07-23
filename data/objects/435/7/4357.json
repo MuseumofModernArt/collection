@@ -5,8 +5,7 @@
   "Artist": "Unknown Designer", 
   "URL": "http://www.moma.org/collection/works/4357", 
   "CuratorApproved": "Y", 
-  "Title": "Tumbler", 
-  "DateAcquired": "1956-10-25", 
+  "CreditLine": "Gift of Philip Johnson", 
   "Date": "Before 1954", 
   "ArtistID": 6015, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "543.1956", 
-  "ArtistBio": "Dutch", 
-  "CreditLine": "Gift of Philip Johnson", 
+  "ArtistBio": "(Dutch)", 
+  "DateAcquired": "1956-10-25", 
+  "\ufeffTitle": "Tumbler", 
   "ObjectID": "4357"
 }

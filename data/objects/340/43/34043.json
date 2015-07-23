@@ -5,8 +5,7 @@
   "Artist": "Alexander Liberman", 
   "URL": "http://www.moma.org/collection/works/34043", 
   "CuratorApproved": "Y", 
-  "Title": "Delta I", 
-  "DateAcquired": "1963-02-13", 
+  "CreditLine": "Gift of the artist", 
   "Date": "1960", 
   "ArtistID": 3537, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "110.1963", 
-  "ArtistBio": "American, born Russia. 1912\u20131999", 
-  "CreditLine": "Gift of the artist", 
+  "ArtistBio": "(American, born Russia. 1912\u20131999)", 
+  "DateAcquired": "1963-02-13", 
+  "\ufeffTitle": "Delta I", 
   "ObjectID": "34043"
 }

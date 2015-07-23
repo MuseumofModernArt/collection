@@ -5,8 +5,7 @@
   "Artist": "Wolf Zimmerman", 
   "URL": "http://www.moma.org/collection/works/5902", 
   "CuratorApproved": "Y", 
-  "Title": "Jazz 5", 
-  "DateAcquired": "1965-04-06", 
+  "CreditLine": "Gift of the artist", 
   "Date": "1959", 
   "Keywords": [
     "online art collection", 
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "260.1965", 
-  "ArtistBio": "German, born 1925", 
-  "CreditLine": "Gift of the artist", 
+  "ArtistBio": "(German, born 1925)", 
+  "DateAcquired": "1965-04-06", 
+  "\ufeffTitle": "Jazz 5 (Poster for the 5th German Amateur Jazz Festival held in Dusseldorf, Germany)", 
   "ObjectID": "5902"
 }

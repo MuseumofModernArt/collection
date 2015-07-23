@@ -5,8 +5,7 @@
   "Artist": "Unknown Designer", 
   "URL": "http://www.moma.org/collection/works/2640", 
   "CuratorApproved": "Y", 
-  "Title": "Bracelet", 
-  "DateAcquired": "1948-03-17", 
+  "CreditLine": "Purchase", 
   "Date": "Before 1948", 
   "ArtistID": 6011, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "204.1948", 
-  "ArtistBio": "Nationality unknown", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(Nationality unknown)", 
+  "DateAcquired": "1948-03-17", 
+  "\ufeffTitle": "Bracelet", 
   "ObjectID": "2640"
 }

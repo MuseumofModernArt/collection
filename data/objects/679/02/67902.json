@@ -1,12 +1,11 @@
 {
   "Medium": "Lithograph", 
-  "Dimensions": "composition  23 3/4 x 18 3/16\" (60.3 x 46.2 cm)  sheet  23 3/4 x 18 3/16\" (60.3 x 46.2 cm)", 
+  "Dimensions": "composition  23 3/4 x 18 3/16\" (60.3 x 46.2 cm)\r\nsheet  23 3/4 x 18 3/16\" (60.3 x 46.2 cm)", 
   "Classification": "Print", 
   "Artist": "Ed Moses", 
   "URL": "http://www.moma.org/collection/works/67902", 
   "CuratorApproved": "Y", 
-  "Title": "Wedge 6", 
-  "DateAcquired": "1973-10-24", 
+  "CreditLine": "John B. Turner Fund", 
   "Date": "1973", 
   "ArtistID": 4121, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "368.1973", 
-  "ArtistBio": "American, born 1926", 
-  "CreditLine": "John B. Turner Fund", 
+  "ArtistBio": "(American, born 1926)", 
+  "DateAcquired": "1973-10-24", 
+  "\ufeffTitle": "Wedge 6", 
   "ObjectID": "67902"
 }

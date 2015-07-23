@@ -5,8 +5,7 @@
   "Artist": "Herbert Matter", 
   "URL": "http://www.moma.org/collection/works/5333", 
   "CuratorApproved": "Y", 
-  "Title": "Engelberg Tr\u00fcbsee", 
-  "DateAcquired": "1968-03-07", 
+  "CreditLine": "Gift of the designer", 
   "Date": "1936", 
   "ArtistID": 3843, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "154.1968", 
-  "ArtistBio": "American, born Switzerland. 1907\u20131984", 
-  "CreditLine": "Gift of the designer", 
+  "ArtistBio": "(American, born Switzerland. 1907\u20131984)", 
+  "DateAcquired": "1968-03-07", 
+  "\ufeffTitle": "Engelberg Tr\u00fcbsee (Promotional poster for Engelberg, Switzerland)", 
   "ObjectID": "5333"
 }

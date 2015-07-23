@@ -5,8 +5,7 @@
   "Artist": "Georg Kolbe", 
   "URL": "http://www.moma.org/collection/works/35416", 
   "CuratorApproved": "Y", 
-  "Title": "Dancer", 
-  "DateAcquired": "1940-04-05", 
+  "CreditLine": "Given anonymously", 
   "Date": "(c. 1918)", 
   "ArtistID": 3199, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "230.1940", 
-  "ArtistBio": "German, 1877\u20131947", 
-  "CreditLine": "Given anonymously", 
+  "ArtistBio": "(German, 1877\u20131947)", 
+  "DateAcquired": "1940-04-05", 
+  "\ufeffTitle": "Dancer (T\u00e4nzerin)", 
   "ObjectID": "35416"
 }

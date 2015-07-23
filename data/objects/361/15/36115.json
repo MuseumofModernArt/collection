@@ -5,8 +5,7 @@
   "Artist": "Arthur Dove", 
   "URL": "http://www.moma.org/collection/works/36115", 
   "CuratorApproved": "Y", 
-  "Title": "Nature Symbolized", 
-  "DateAcquired": "1983-03-15", 
+  "CreditLine": "Gift of The Edward John Noble Foundation", 
   "Date": "(c. 1911-12)", 
   "ArtistID": 1602, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "304.1983", 
-  "ArtistBio": "American, 1880\u20131946", 
-  "CreditLine": "Gift of The Edward John Noble Foundation", 
+  "ArtistBio": "(American, 1880\u20131946)", 
+  "DateAcquired": "1983-03-15", 
+  "\ufeffTitle": "Nature Symbolized", 
   "ObjectID": "36115"
 }

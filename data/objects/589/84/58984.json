@@ -5,8 +5,7 @@
   "Artist": "Dan Weiner", 
   "URL": "http://www.moma.org/collection/works/58984", 
   "CuratorApproved": "Y", 
-  "Title": "East End Avenue", 
-  "DateAcquired": "1968-01-10", 
+  "CreditLine": "The Ben Schultz Memorial Collection. Gift of Mrs. Dan Weiner", 
   "Date": "1951", 
   "ArtistID": 6287, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "2713.1967", 
-  "ArtistBio": "American, 1919\u20131959", 
-  "CreditLine": "The Ben Schultz Memorial Collection. Gift of Mrs. Dan Weiner", 
+  "ArtistBio": "(American, 1919\u20131959)", 
+  "DateAcquired": "1968-01-10", 
+  "\ufeffTitle": "East End Avenue", 
   "ObjectID": "58984"
 }

@@ -5,8 +5,7 @@
   "Artist": "John Massey", 
   "URL": "http://www.moma.org/collection/works/6672", 
   "CuratorApproved": "Y", 
-  "Title": "Boston Waterfront", 
-  "DateAcquired": "1982-10-27", 
+  "CreditLine": "Gift of the artist", 
   "Date": "1980", 
   "ArtistID": 3819, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "418.1982", 
-  "ArtistBio": "American, born 1931", 
-  "CreditLine": "Gift of the artist", 
+  "ArtistBio": "(American, born 1931)", 
+  "DateAcquired": "1982-10-27", 
+  "\ufeffTitle": "Boston Waterfront", 
   "ObjectID": "6672"
 }

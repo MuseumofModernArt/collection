@@ -5,8 +5,7 @@
   "Artist": "Aleksei Kravchenko", 
   "URL": "http://www.moma.org/collection/works/60363", 
   "CuratorApproved": "Y", 
-  "Title": "Paris-Pont Neuf", 
-  "DateAcquired": "1979-01-23", 
+  "CreditLine": "Gift of The State Hermitage Museum (by exchange)", 
   "Date": "(1928)", 
   "Keywords": [
     "online art collection", 
@@ -16,7 +15,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "26.1979", 
-  "ArtistBio": "Russian", 
-  "CreditLine": "Gift of The State Hermitage Museum (by exchange)", 
+  "ArtistBio": "(Russian)", 
+  "DateAcquired": "1979-01-23", 
+  "\ufeffTitle": "Paris-Pont Neuf", 
   "ObjectID": "60363"
 }

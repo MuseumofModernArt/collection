@@ -5,8 +5,7 @@
   "Artist": "Louise Bourgeois", 
   "URL": "http://www.moma.org/collection/works/64926", 
   "CuratorApproved": "Y", 
-  "Title": "Summer, version 2 of 2, only state, variant", 
-  "DateAcquired": "1992-05-20", 
+  "CreditLine": "Gift of the artist", 
   "Date": "1941-1942", 
   "ArtistID": 710, 
   "Keywords": [
@@ -20,7 +19,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "235.1992.2", 
-  "ArtistBio": "American, born France. 1911\u20132010", 
-  "CreditLine": "Gift of the artist", 
+  "ArtistBio": "(American, born France. 1911\u20132010)", 
+  "DateAcquired": "1992-05-20", 
+  "\ufeffTitle": "Summer", 
   "ObjectID": "64926"
 }

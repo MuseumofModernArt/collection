@@ -5,8 +5,7 @@
   "Artist": "Gay Block", 
   "URL": "http://www.moma.org/collection/works/45598", 
   "CuratorApproved": "Y", 
-  "Title": "Mother and Daughter, Esther and Joan", 
-  "DateAcquired": "1988-03-10", 
+  "CreditLine": "Gift of Anne W. Tucker", 
   "Date": "1978", 
   "ArtistID": 607, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "71.1988", 
-  "ArtistBio": "American, born 1942", 
-  "CreditLine": "Gift of Anne W. Tucker", 
+  "ArtistBio": "(American, born 1942)", 
+  "DateAcquired": "1988-03-10", 
+  "\ufeffTitle": "Mother and Daughter, Esther and Joan", 
   "ObjectID": "45598"
 }

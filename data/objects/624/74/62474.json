@@ -5,8 +5,7 @@
   "Artist": "Mion Ferrario Nedo", 
   "URL": "http://www.moma.org/collection/works/62474", 
   "CuratorApproved": "Y", 
-  "Title": "Red (Rojo)", 
-  "DateAcquired": "1970-03-05", 
+  "CreditLine": "Inter-American Fund", 
   "Date": "1969", 
   "ArtistID": 4252, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "132.1970", 
-  "ArtistBio": "Venezuelan, born 1926", 
-  "CreditLine": "Inter-American Fund", 
+  "ArtistBio": "(Venezuelan, born 1926)", 
+  "DateAcquired": "1970-03-05", 
+  "\ufeffTitle": "Red (Rojo)", 
   "ObjectID": "62474"
 }

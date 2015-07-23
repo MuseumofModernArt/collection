@@ -1,12 +1,11 @@
 {
   "Medium": "Deluxe and trade edition journals", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Illustrated Book", 
-  "Artist": "Various Artists", 
+  "Artist": "Various Artists, Edward Ruscha", 
   "URL": "http://www.moma.org/collection/works/10793", 
   "CuratorApproved": "Y", 
-  "Title": "Parkett no. 9", 
-  "DateAcquired": "1998-03-05", 
+  "CreditLine": "", 
   "Date": "1986", 
   "ArtistID": 6104, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "52.1998.1-2", 
-  "ArtistBio": "Various", 
-  "CreditLine": "NULL", 
+  "ArtistBio": "(Various) (American, born 1937)", 
+  "DateAcquired": "1998-03-05", 
+  "\ufeffTitle": "Parkett no. 9", 
   "ObjectID": "10793"
 }

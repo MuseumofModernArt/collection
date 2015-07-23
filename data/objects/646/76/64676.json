@@ -1,12 +1,11 @@
 {
   "Medium": "Woodcut", 
-  "Dimensions": "composition  16 7/8 x 13 9/16\" (42.8 x 34.4 cm)  sheet  25 15/16 x 20 1/16\" (66 x 51 cm)", 
+  "Dimensions": "composition  16 7/8 x 13 9/16\" (42.8 x 34.4 cm)\r\nsheet  25 15/16 x 20 1/16\" (66 x 51 cm)", 
   "Classification": "Print", 
   "Artist": "Andrew Spence", 
   "URL": "http://www.moma.org/collection/works/64676", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled (known as racetrack) from an untitled portfolio", 
-  "DateAcquired": "1990-05-02", 
+  "CreditLine": "John B. Turner Fund", 
   "Date": "1990", 
   "ArtistID": 5560, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "222.1990", 
-  "ArtistBio": "American, born 1947", 
-  "CreditLine": "John B. Turner Fund", 
+  "ArtistBio": "(American, born 1947)", 
+  "DateAcquired": "1990-05-02", 
+  "\ufeffTitle": "Untitled (known as racetrack) from an untitled portfolio", 
   "ObjectID": "64676"
 }

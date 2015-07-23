@@ -5,8 +5,7 @@
   "Artist": "Walter Chappell", 
   "URL": "http://www.moma.org/collection/works/53518", 
   "CuratorApproved": "Y", 
-  "Title": "Tree Peony Blossom near an Old Urn", 
-  "DateAcquired": "1960-11-30", 
+  "CreditLine": "Purchase", 
   "Date": "1959", 
   "ArtistID": 1070, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "449.1960", 
-  "ArtistBio": "American, born 1925", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, born 1925)", 
+  "DateAcquired": "1960-11-30", 
+  "\ufeffTitle": "Tree Peony Blossom near an Old Urn", 
   "ObjectID": "53518"
 }

@@ -1,13 +1,12 @@
 {
-  "Medium": "Drypoint    Transfer lithograph, printed in black", 
+  "Medium": "Drypoint\r\n\r\nTransfer lithograph, printed in black", 
   "Dimensions": "composition: 18 13/16 x 12 5/8\" (47.8 x 32 cm)", 
   "Classification": "Print", 
   "Artist": "Max Jacob", 
   "URL": "http://www.moma.org/collection/works/67052", 
   "CuratorApproved": "Y", 
-  "Title": "Various Aspects of the Author - Self Portrait", 
-  "DateAcquired": "1940-04-05", 
-  "Date": "NULL", 
+  "CreditLine": "Gift of Abby Aldrich Rockefeller", 
+  "Date": "", 
   "ArtistID": 2865, 
   "Keywords": [
     "online art collection", 
@@ -16,7 +15,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "330.1940", 
-  "ArtistBio": "French, 1876\u20131944", 
-  "CreditLine": "Gift of Abby Aldrich Rockefeller", 
+  "ArtistBio": "(French, 1876\u20131944)", 
+  "DateAcquired": "1940-04-05", 
+  "\ufeffTitle": "Various Aspects of the Author - Self Portrait", 
   "ObjectID": "67052"
 }

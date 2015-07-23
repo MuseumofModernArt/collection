@@ -5,8 +5,7 @@
   "Artist": "Camille Pissarro", 
   "URL": "http://www.moma.org/collection/works/69741", 
   "CuratorApproved": "Y", 
-  "Title": "Peasants Cutting Grass", 
-  "DateAcquired": "1940-04-05", 
+  "CreditLine": "Gift of Abby Aldrich Rockefeller", 
   "Date": "c. 1894", 
   "ArtistID": 4640, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "475.1940", 
-  "ArtistBio": "French, 1830\u20131903", 
-  "CreditLine": "Gift of Abby Aldrich Rockefeller", 
+  "ArtistBio": "(French, 1830\u20131903)", 
+  "DateAcquired": "1940-04-05", 
+  "\ufeffTitle": "Peasants Cutting Grass", 
   "ObjectID": "69741"
 }

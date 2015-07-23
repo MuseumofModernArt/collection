@@ -5,8 +5,7 @@
   "Artist": "David Goldblatt", 
   "URL": "http://www.moma.org/collection/works/55235", 
   "CuratorApproved": "Y", 
-  "Title": "Sunday Afternoon, Oukasie, Brits, Transvaal", 
-  "DateAcquired": "1998-10-15", 
+  "CreditLine": "Purchase", 
   "Date": "30 November 1986", 
   "ArtistID": 2214, 
   "Keywords": [
@@ -20,7 +19,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "569.1998", 
-  "ArtistBio": "South African, born 1930", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(South African, born 1930)", 
+  "DateAcquired": "1998-10-15", 
+  "\ufeffTitle": "Sunday Afternoon, Oukasie, Brits, Transvaal", 
   "ObjectID": "55235"
 }

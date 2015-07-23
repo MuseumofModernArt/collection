@@ -5,8 +5,7 @@
   "Artist": "Josef M\u00fcller-Brockmann", 
   "URL": "http://www.moma.org/collection/works/8806", 
   "CuratorApproved": "Y", 
-  "Title": "The Family of Man", 
-  "DateAcquired": "2000-12-11", 
+  "CreditLine": "Gift of the designer", 
   "Date": "1957-58", 
   "ArtistID": 4154, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "1508.2000", 
-  "ArtistBio": "Swiss, 1914\u20131996", 
-  "CreditLine": "Gift of the designer", 
+  "ArtistBio": "(Swiss, 1914\u20131996)", 
+  "DateAcquired": "2000-12-11", 
+  "\ufeffTitle": "The Family of Man", 
   "ObjectID": "8806"
 }

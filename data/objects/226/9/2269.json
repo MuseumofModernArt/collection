@@ -5,8 +5,7 @@
   "Artist": "Thomas Eriksson", 
   "URL": "http://www.moma.org/collection/works/2269", 
   "CuratorApproved": "Y", 
-  "Title": "Medicine Cabinet", 
-  "DateAcquired": "1995-05-09", 
+  "CreditLine": "Gift of Murray Moss", 
   "Date": "1992", 
   "ArtistID": 7449, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "133.1995", 
-  "ArtistBio": "Swedish, born 1959", 
-  "CreditLine": "Gift of Murray Moss", 
+  "ArtistBio": "(Swedish, born 1959)", 
+  "DateAcquired": "1995-05-09", 
+  "\ufeffTitle": "Medicine Cabinet", 
   "ObjectID": "2269"
 }

@@ -5,8 +5,7 @@
   "Artist": "Etienne Carjat", 
   "URL": "http://www.moma.org/collection/works/44270", 
   "CuratorApproved": "Y", 
-  "Title": "Charles Baudelaire", 
-  "DateAcquired": "1964-01-07", 
+  "CreditLine": "Purchase", 
   "Date": "c. 1863", 
   "ArtistID": 970, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "31.1964", 
-  "ArtistBio": "French, 1829\u20131906", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(French, 1829\u20131906)", 
+  "DateAcquired": "1964-01-07", 
+  "\ufeffTitle": "Charles Baudelaire", 
   "ObjectID": "44270"
 }

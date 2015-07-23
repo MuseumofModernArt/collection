@@ -5,8 +5,7 @@
   "Artist": "Mohamed Melehi", 
   "URL": "http://www.moma.org/collection/works/7961", 
   "CuratorApproved": "Y", 
-  "Title": "Belkahia Chebaa Melehi", 
-  "DateAcquired": "1966-12-06", 
+  "CreditLine": "Gift of the artist", 
   "Date": "1966", 
   "ArtistID": 3914, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "700.1966", 
-  "ArtistBio": "Moroccan, born 1936", 
-  "CreditLine": "Gift of the artist", 
+  "ArtistBio": "(Moroccan, born 1936)", 
+  "DateAcquired": "1966-12-06", 
+  "\ufeffTitle": "Belkahia Chebaa Melehi", 
   "ObjectID": "7961"
 }

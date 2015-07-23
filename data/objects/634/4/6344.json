@@ -5,8 +5,7 @@
   "Artist": "Werner Blaser", 
   "URL": "http://www.moma.org/collection/works/6344", 
   "CuratorApproved": "Y", 
-  "Title": "Beispiel Japan Bau und Ger\u00e4t", 
-  "DateAcquired": "1966-05-10", 
+  "CreditLine": "Gift of the Kunstgewerbe Museum, Z\u00fcrich", 
   "Date": "1965", 
   "ArtistID": 594, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "336.1966", 
-  "ArtistBio": "Swiss, born 1924", 
-  "CreditLine": "Gift of the Kunstgewerbe Museum, Z\u00fcrich", 
+  "ArtistBio": "(Swiss, born 1924)", 
+  "DateAcquired": "1966-05-10", 
+  "\ufeffTitle": "Beispiel Japan Bau und Ger\u00e4t", 
   "ObjectID": "6344"
 }

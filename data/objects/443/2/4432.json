@@ -5,8 +5,7 @@
   "Artist": "Gerrit Rietveld", 
   "URL": "http://www.moma.org/collection/works/4432", 
   "CuratorApproved": "Y", 
-  "Title": "Hoge Stoel Highback Chair", 
-  "DateAcquired": "1983-11-30", 
+  "CreditLine": "Architecture & Design Purchase Fund", 
   "Date": "1919", 
   "ArtistID": 4922, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "739.1983", 
-  "ArtistBio": "Dutch, 1888\u20131964", 
-  "CreditLine": "Architecture & Design Purchase Fund", 
+  "ArtistBio": "(Dutch, 1888\u20131964)", 
+  "DateAcquired": "1983-11-30", 
+  "\ufeffTitle": "Hoge Stoel Highback Chair", 
   "ObjectID": "4432"
 }

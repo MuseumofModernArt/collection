@@ -1,12 +1,11 @@
 {
   "Medium": "Screenprint with screenprint collage additions", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "Joe Tilson", 
   "URL": "http://www.moma.org/collection/works/66716", 
   "CuratorApproved": "Y", 
-  "Title": "Cut Out and Send", 
-  "DateAcquired": "1969-04-16", 
+  "CreditLine": "D.S. and R.H. Gottesman Foundation Fund", 
   "Date": "(1968)", 
   "ArtistID": 5879, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "314.1969", 
-  "ArtistBio": "British, born 1928", 
-  "CreditLine": "D.S. and R.H. Gottesman Foundation Fund", 
+  "ArtistBio": "(British, born 1928)", 
+  "DateAcquired": "1969-04-16", 
+  "\ufeffTitle": "Cut Out and Send", 
   "ObjectID": "66716"
 }

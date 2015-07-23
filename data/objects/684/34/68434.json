@@ -1,12 +1,11 @@
 {
-  "Medium": "Woodcut from a portfolio of twelve prints, six lithographs (including two transferred from woodcuts), four drypoints, and two woodcuts  ", 
+  "Medium": "Woodcut from a portfolio of twelve prints, six lithographs (including two transferred from woodcuts), four drypoints, and two woodcuts\r\n", 
   "Dimensions": "composition: 10 11/16 x 9 3/16\" (27.2 x 23.3 cm); sheet: 14 x 12\" (35.6 x 30.5 cm)", 
   "Classification": "Print", 
   "Artist": "Vasily Kandinsky", 
   "URL": "http://www.moma.org/collection/works/68434", 
   "CuratorApproved": "Y", 
-  "Title": "Small Worlds VIII from Small Worlds", 
-  "DateAcquired": "1941-03-20", 
+  "CreditLine": "Purchase", 
   "Date": "1922", 
   "ArtistID": 2981, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "399.1941.3", 
-  "ArtistBio": "French, born Russia. 1866\u20131944", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(French, born Russia. 1866\u20131944)", 
+  "DateAcquired": "1941-03-20", 
+  "\ufeffTitle": "Small Worlds VIII (Kleine Welten VIII) from Small Worlds (Kleine Welten)", 
   "ObjectID": "68434"
 }

@@ -5,8 +5,7 @@
   "Artist": "Jasper Johns", 
   "URL": "http://www.moma.org/collection/works/15928", 
   "CuratorApproved": "Y", 
-  "Title": "Poems", 
-  "DateAcquired": "1985-10-07", 
+  "CreditLine": "Gift of Joanne M. Stern", 
   "Date": "1985", 
   "ArtistID": 2923, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "330.1985", 
-  "ArtistBio": "American, born 1930", 
-  "CreditLine": "Gift of Joanne M. Stern", 
+  "ArtistBio": "(American, born 1930)", 
+  "DateAcquired": "1985-10-07", 
+  "\ufeffTitle": "Poems", 
   "ObjectID": "15928"
 }

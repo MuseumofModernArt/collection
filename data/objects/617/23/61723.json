@@ -1,12 +1,11 @@
 {
   "Medium": "Drypoint", 
-  "Dimensions": "plate  5 15/16 x 8 15/16\" (15.2 x 22.7 cm)  sheet  8 1/8 x 10 11/16\" (20 x 27.1 cm)", 
+  "Dimensions": "plate  5 15/16 x 8 15/16\" (15.2 x 22.7 cm)\r\nsheet  8 1/8 x 10 11/16\" (20 x 27.1 cm)", 
   "Classification": "Print", 
   "Artist": "Josef Albers", 
   "URL": "http://www.moma.org/collection/works/61723", 
   "CuratorApproved": "Y", 
-  "Title": "Variants", 
-  "DateAcquired": "1995-05-03", 
+  "CreditLine": "Gift of The Josef and Anni Albers Foundation in honor of Riva Castleman", 
   "Date": "1942", 
   "ArtistID": 97, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "94.1995", 
-  "ArtistBio": "American, born Germany. 1888\u20131976", 
-  "CreditLine": "Gift of The Josef and Anni Albers Foundation in honor of Riva Castleman", 
+  "ArtistBio": "(American, born Germany. 1888\u20131976)", 
+  "DateAcquired": "1995-05-03", 
+  "\ufeffTitle": "Variants", 
   "ObjectID": "61723"
 }

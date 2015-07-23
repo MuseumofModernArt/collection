@@ -5,8 +5,7 @@
   "Artist": "Henri Cartier-Bresson", 
   "URL": "http://www.moma.org/collection/works/56088", 
   "CuratorApproved": "Y", 
-  "Title": "Valencia, Spain", 
-  "DateAcquired": "NULL", 
+  "CreditLine": "Gift of James Thrall Soby", 
   "Date": "1933", 
   "ArtistID": 1000, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "691.1943", 
-  "ArtistBio": "French, 1908\u20132004", 
-  "CreditLine": "Gift of James Thrall Soby", 
+  "ArtistBio": "(French, 1908\u20132004)", 
+  "DateAcquired": "", 
+  "\ufeffTitle": "Valencia, Spain", 
   "ObjectID": "56088"
 }

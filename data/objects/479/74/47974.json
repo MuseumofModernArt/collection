@@ -5,8 +5,7 @@
   "Artist": "Hans Hammarskiold", 
   "URL": "http://www.moma.org/collection/works/47974", 
   "CuratorApproved": "Y", 
-  "Title": "Frost", 
-  "DateAcquired": "1959-04-22", 
+  "CreditLine": "Purchase", 
   "Date": "1954", 
   "ArtistID": 2482, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "186.1959", 
-  "ArtistBio": "Swedish, 1925\u20132012", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(Swedish, 1925\u20132012)", 
+  "DateAcquired": "1959-04-22", 
+  "\ufeffTitle": "Frost", 
   "ObjectID": "47974"
 }

@@ -5,8 +5,7 @@
   "Artist": "Rirkrit Tiravanija", 
   "URL": "http://www.moma.org/collection/works/12703", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled, 1996 (tomorrow is another day)", 
-  "DateAcquired": "2000-03-02", 
+  "CreditLine": "Monroe Wheeler Fund", 
   "Date": "1998", 
   "ArtistID": 7479, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "177.2000", 
-  "ArtistBio": "Thai, born Argentina 1961", 
-  "CreditLine": "Monroe Wheeler Fund", 
+  "ArtistBio": "(Thai, born Argentina 1961)", 
+  "DateAcquired": "2000-03-02", 
+  "\ufeffTitle": "Untitled, 1996 (tomorrow is another day)", 
   "ObjectID": "12703"
 }

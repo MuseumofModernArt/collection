@@ -5,8 +5,7 @@
   "Artist": "Merry Alpern", 
   "URL": "http://www.moma.org/collection/works/53635", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1994-10-13", 
+  "CreditLine": "The Family of Man Fund", 
   "Date": "1994", 
   "ArtistID": 8079, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "458.1994", 
-  "ArtistBio": "American, born 1955", 
-  "CreditLine": "The Family of Man Fund", 
+  "ArtistBio": "(American, born 1955)", 
+  "DateAcquired": "1994-10-13", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "53635"
 }

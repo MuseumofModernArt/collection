@@ -5,8 +5,7 @@
   "Artist": "Jim Bengston", 
   "URL": "http://www.moma.org/collection/works/53129", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1984-12-05", 
+  "CreditLine": "Purchase", 
   "Date": "1977", 
   "ArtistID": 473, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "419.1984", 
-  "ArtistBio": "American, born 1942", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, born 1942)", 
+  "DateAcquired": "1984-12-05", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "53129"
 }

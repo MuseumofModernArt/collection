@@ -5,8 +5,7 @@
   "Artist": "Robert Motherwell", 
   "URL": "http://www.moma.org/collection/works/36685", 
   "CuratorApproved": "Y", 
-  "Title": "The Voyage", 
-  "DateAcquired": "1955-11-23", 
+  "CreditLine": "Gift of Blanchette Hooker Rockefeller", 
   "Date": "(1949)", 
   "ArtistID": 4126, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "339.1955", 
-  "ArtistBio": "American, 1915\u20131991", 
-  "CreditLine": "Gift of Blanchette Hooker Rockefeller", 
+  "ArtistBio": "(American, 1915\u20131991)", 
+  "DateAcquired": "1955-11-23", 
+  "\ufeffTitle": "The Voyage", 
   "ObjectID": "36685"
 }

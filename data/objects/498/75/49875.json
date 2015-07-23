@@ -1,12 +1,11 @@
 {
   "Medium": "Color instant print (Polaroid)", 
-  "Dimensions": "Each 24 x 20 1/2\" (61 x 52 cm)  ", 
+  "Dimensions": "Each 24 x 20 1/2\" (61 x 52 cm)\r\n", 
   "Classification": "Photograph", 
   "Artist": "William Wegman", 
   "URL": "http://www.moma.org/collection/works/49875", 
   "CuratorApproved": "Y", 
-  "Title": "Blue Head", 
-  "DateAcquired": "1993-06-01", 
+  "CreditLine": "Acquired through the generosity of Jo Carole and Ronald S. Lauder", 
   "Date": "1982", 
   "ArtistID": 6281, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "276.1993.a-b", 
-  "ArtistBio": "American, born 1943", 
-  "CreditLine": "Acquired through the generosity of Jo Carole and Ronald S. Lauder", 
+  "ArtistBio": "(American, born 1943)", 
+  "DateAcquired": "1993-06-01", 
+  "\ufeffTitle": "Blue Head", 
   "ObjectID": "49875"
 }

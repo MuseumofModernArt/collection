@@ -1,12 +1,11 @@
 {
   "Medium": "16 drypoints", 
-  "Dimensions": "irreg. page  16 1/2 x 12 5/16\" (42 x 31.3 cm)  Prints:  various dimensions.", 
+  "Dimensions": "irreg. page  16 1/2 x 12 5/16\" (42 x 31.3 cm)\r\nPrints:  various dimensions.", 
   "Classification": "Illustrated Book", 
   "Artist": "Michel Guino", 
   "URL": "http://www.moma.org/collection/works/13698", 
   "CuratorApproved": "Y", 
-  "Title": "Un Soup\u00e7on", 
-  "DateAcquired": "1986-05-20", 
+  "CreditLine": "Gift of Mme H\u00e9l\u00e8ne Iliazd", 
   "Date": "1965", 
   "ArtistID": 2409, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "211.1986.1-16", 
-  "ArtistBio": "French, born 1926", 
-  "CreditLine": "Gift of Mme H\u00e9l\u00e8ne Iliazd", 
+  "ArtistBio": "(French, born 1926)", 
+  "DateAcquired": "1986-05-20", 
+  "\ufeffTitle": "Un Soup\u00e7on", 
   "ObjectID": "13698"
 }

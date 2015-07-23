@@ -1,12 +1,11 @@
 {
   "Medium": "Aquatint and etching with chine coll\u00e9", 
-  "Dimensions": "plate  15 13/16 x 11 15/16\" (40.2 x 30.3 cm)  sheet  24 1/2 x 19 3/8\" (62 x 49.3 cm)", 
+  "Dimensions": "plate  15 13/16 x 11 15/16\" (40.2 x 30.3 cm)\r\nsheet  24 1/2 x 19 3/8\" (62 x 49.3 cm)", 
   "Classification": "Print", 
   "Artist": "Terry Winters", 
   "URL": "http://www.moma.org/collection/works/68203", 
   "CuratorApproved": "Y", 
-  "Title": "Station", 
-  "DateAcquired": "1988-10-25", 
+  "CreditLine": "Gift of Emily Fisher Landau", 
   "Date": "1988", 
   "ArtistID": 6408, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "384.1988", 
-  "ArtistBio": "American, born 1949", 
-  "CreditLine": "Gift of Emily Fisher Landau", 
+  "ArtistBio": "(American, born 1949)", 
+  "DateAcquired": "1988-10-25", 
+  "\ufeffTitle": "Station", 
   "ObjectID": "68203"
 }

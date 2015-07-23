@@ -5,8 +5,7 @@
   "Artist": "Gabriel Orozco", 
   "URL": "http://www.moma.org/collection/works/35502", 
   "CuratorApproved": "Y", 
-  "Title": "Maria, Maria, Maria", 
-  "DateAcquired": "1995-06-14", 
+  "CreditLine": "Gift of Patricia Phelps de Cisneros and the David Rockefeller Latin American Fund", 
   "Date": "1992", 
   "ArtistID": 7461, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "201.1995", 
-  "ArtistBio": "Mexican, born 1962", 
-  "CreditLine": "Gift of Patricia Phelps de Cisneros and the David Rockefeller Latin American Fund", 
+  "ArtistBio": "(Mexican, born 1962)", 
+  "DateAcquired": "1995-06-14", 
+  "\ufeffTitle": "Maria, Maria, Maria", 
   "ObjectID": "35502"
 }

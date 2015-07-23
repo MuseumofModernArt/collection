@@ -1,12 +1,11 @@
 {
   "Medium": "Intaglio from found elements", 
-  "Dimensions": "plate  17 1/2 x 21 3/4\" (44.5 x 55.2 cm)  sheet  20 1/2 x 29 1/2\" (52.1 x 74.9 cm)", 
+  "Dimensions": "plate  17 1/2 x 21 3/4\" (44.5 x 55.2 cm)\r\nsheet  20 1/2 x 29 1/2\" (52.1 x 74.9 cm)", 
   "Classification": "Print", 
   "Artist": "Robert Broner", 
   "URL": "http://www.moma.org/collection/works/63545", 
   "CuratorApproved": "Y", 
-  "Title": "Rainbow Over U.S.A.", 
-  "DateAcquired": "1970-05-12", 
+  "CreditLine": "John B. Turner Fund", 
   "Date": "1970", 
   "ArtistID": 794, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "171.1970", 
-  "ArtistBio": "American,1922-2010", 
-  "CreditLine": "John B. Turner Fund", 
+  "ArtistBio": "(American,1922\u20132010)", 
+  "DateAcquired": "1970-05-12", 
+  "\ufeffTitle": "Rainbow Over U.S.A.", 
   "ObjectID": "63545"
 }

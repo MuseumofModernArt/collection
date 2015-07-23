@@ -5,8 +5,7 @@
   "Artist": "J.A. Henckels, Solingen, Germany", 
   "URL": "http://www.moma.org/collection/works/3037", 
   "CuratorApproved": "Y", 
-  "Title": "Tailor Shears", 
-  "DateAcquired": "1944-11-08", 
+  "CreditLine": "Edgar Kaufmann, Jr. Fund", 
   "Date": "c. 1900", 
   "ArtistID": 2589, 
   "Keywords": [
@@ -21,7 +20,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "247.1944", 
-  "ArtistBio": "est. 1731", 
-  "CreditLine": "Edgar Kaufmann, Jr. Fund", 
+  "ArtistBio": "(est. 1731)", 
+  "DateAcquired": "1944-11-08", 
+  "\ufeffTitle": "Tailor Shears", 
   "ObjectID": "3037"
 }

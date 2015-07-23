@@ -5,8 +5,7 @@
   "Artist": "Jos\u00e9 Luis Cuevas", 
   "URL": "http://www.moma.org/collection/works/60571", 
   "CuratorApproved": "Y", 
-  "Title": "The Cretin", 
-  "DateAcquired": "1957-05-15", 
+  "CreditLine": "Inter-American Fund", 
   "Date": "1956", 
   "ArtistID": 1325, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "35.1957", 
-  "ArtistBio": "Mexican, born 1934", 
-  "CreditLine": "Inter-American Fund", 
+  "ArtistBio": "(Mexican, born 1934)", 
+  "DateAcquired": "1957-05-15", 
+  "\ufeffTitle": "The Cretin", 
   "ObjectID": "60571"
 }

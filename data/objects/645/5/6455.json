@@ -5,8 +5,7 @@
   "Artist": "James Montgomery Flagg", 
   "URL": "http://www.moma.org/collection/works/6455", 
   "CuratorApproved": "Y", 
-  "Title": "I Want You for the U.S. Army", 
-  "DateAcquired": "1967-04-11", 
+  "CreditLine": "Acquired by exchange", 
   "Date": "1917", 
   "ArtistID": 1906, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "352.1967", 
-  "ArtistBio": "American, 1877\u20131960", 
-  "CreditLine": "Acquired by exchange", 
+  "ArtistBio": "(American, 1877\u20131960)", 
+  "DateAcquired": "1967-04-11", 
+  "\ufeffTitle": "I Want You for the U.S. Army", 
   "ObjectID": "6455"
 }

@@ -5,8 +5,7 @@
   "Artist": "Alberto Gironella", 
   "URL": "http://www.moma.org/collection/works/60792", 
   "CuratorApproved": "Y", 
-  "Title": "Queen Marian", 
-  "DateAcquired": "1968-02-05", 
+  "CreditLine": "Inter-American Fund", 
   "Date": "(1963)", 
   "ArtistID": 2177, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "43.1968", 
-  "ArtistBio": "Mexican, born 1929", 
-  "CreditLine": "Inter-American Fund", 
+  "ArtistBio": "(Mexican, born 1929)", 
+  "DateAcquired": "1968-02-05", 
+  "\ufeffTitle": "Queen Marian", 
   "ObjectID": "60792"
 }

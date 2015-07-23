@@ -1,12 +1,11 @@
 {
   "Medium": "Lithograph", 
-  "Dimensions": "composition  30 1/8 x 22 1/2\" (76.5 x 57.1 cm)  sheet  30 1/8 x 22 1/2\" (76.5 x 57.1 cm)", 
+  "Dimensions": "composition  30 1/8 x 22 1/2\" (76.5 x 57.1 cm)\r\nsheet  30 1/8 x 22 1/2\" (76.5 x 57.1 cm)", 
   "Classification": "Print", 
   "Artist": "Arnaldo Pomodoro", 
   "URL": "http://www.moma.org/collection/works/66483", 
   "CuratorApproved": "Y", 
-  "Title": "Maximal Gyre V", 
-  "DateAcquired": "1969-04-16", 
+  "CreditLine": "Gift of the artist and Collector's Press", 
   "Date": "1968", 
   "ArtistID": 4676, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "303.1969", 
-  "ArtistBio": "Italian, born 1926", 
-  "CreditLine": "Gift of the artist and Collector's Press", 
+  "ArtistBio": "(Italian, born 1926)", 
+  "DateAcquired": "1969-04-16", 
+  "\ufeffTitle": "Maximal Gyre V", 
   "ObjectID": "66483"
 }

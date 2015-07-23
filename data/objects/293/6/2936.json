@@ -5,8 +5,7 @@
   "Artist": "Kaj Franck", 
   "URL": "http://www.moma.org/collection/works/2936", 
   "CuratorApproved": "Y", 
-  "Title": "Kilta Egg Cups", 
-  "DateAcquired": "1994-05-03", 
+  "CreditLine": "Purchase", 
   "Date": "c. 1953", 
   "ArtistID": 1968, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "236.1994.1-2", 
-  "ArtistBio": "Finnish, 1911\u20131989", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(Finnish, 1911\u20131989)", 
+  "DateAcquired": "1994-05-03", 
+  "\ufeffTitle": "Kilta Egg Cups", 
   "ObjectID": "2936"
 }

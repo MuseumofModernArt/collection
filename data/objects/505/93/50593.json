@@ -5,8 +5,7 @@
   "Artist": "Robert Adams", 
   "URL": "http://www.moma.org/collection/works/50593", 
   "CuratorApproved": "Y", 
-  "Title": "From Lookout Mountain,  Colorado", 
-  "DateAcquired": "1972-11-21", 
+  "CreditLine": "Gift of the photographer", 
   "Date": "1970", 
   "ArtistID": 66, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "316.1972", 
-  "ArtistBio": "American, born 1937", 
-  "CreditLine": "Gift of the photographer", 
+  "ArtistBio": "(American, born 1937)", 
+  "DateAcquired": "1972-11-21", 
+  "\ufeffTitle": "From Lookout Mountain,  Colorado", 
   "ObjectID": "50593"
 }

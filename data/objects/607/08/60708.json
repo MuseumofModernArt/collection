@@ -5,8 +5,7 @@
   "Artist": "Erich Heckel", 
   "URL": "http://www.moma.org/collection/works/60708", 
   "CuratorApproved": "Y", 
-  "Title": "Two People", 
-  "DateAcquired": "1958-02-18", 
+  "CreditLine": "Abby Aldrich Rockefeller Fund (by exchange)", 
   "Date": "1909", 
   "ArtistID": 2569, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "41.1958", 
-  "ArtistBio": "German, 1883\u20131970", 
-  "CreditLine": "Abby Aldrich Rockefeller Fund (by exchange)", 
+  "ArtistBio": "(German, 1883\u20131970)", 
+  "DateAcquired": "1958-02-18", 
+  "\ufeffTitle": "Two People (Zwei Menschen)", 
   "ObjectID": "60708"
 }

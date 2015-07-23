@@ -5,8 +5,7 @@
   "Artist": "Harvey Quaytman", 
   "URL": "http://www.moma.org/collection/works/65167", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1978-03-02", 
+  "CreditLine": "John R. Jakobson Foundation Fund", 
   "Date": "(1977)", 
   "ArtistID": 4767, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "247.1978", 
-  "ArtistBio": "American, 1937\u20132002", 
-  "CreditLine": "John R. Jakobson Foundation Fund", 
+  "ArtistBio": "(American, 1937\u20132002)", 
+  "DateAcquired": "1978-03-02", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "65167"
 }

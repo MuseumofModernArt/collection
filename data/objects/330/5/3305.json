@@ -5,8 +5,7 @@
   "Artist": "Jerry Moberg", 
   "URL": "http://www.moma.org/collection/works/3305", 
   "CuratorApproved": "Y", 
-  "Title": "Barbecue Knife", 
-  "DateAcquired": "1960-11-16", 
+  "CreditLine": "Gift of the manufacturer", 
   "Date": "1956", 
   "ArtistID": 4034, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "328.1960", 
-  "ArtistBio": "American", 
-  "CreditLine": "Gift of the manufacturer", 
+  "ArtistBio": "(American)", 
+  "DateAcquired": "1960-11-16", 
+  "\ufeffTitle": "Barbecue Knife", 
   "ObjectID": "3305"
 }

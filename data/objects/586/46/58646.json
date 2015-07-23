@@ -5,8 +5,7 @@
   "Artist": "The New York Times", 
   "URL": "http://www.moma.org/collection/works/58646", 
   "CuratorApproved": "Y", 
-  "Title": "Ford Frick, National League President and Judge Landis", 
-  "DateAcquired": "2001-06-14", 
+  "CreditLine": "The New York Times Collection", 
   "Date": "October 1942", 
   "Keywords": [
     "online art collection", 
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "2053.2001", 
-  "ArtistBio": "American, founded 1851", 
-  "CreditLine": "The New York Times Collection", 
+  "ArtistBio": "(American, founded 1851)", 
+  "DateAcquired": "2001-06-14", 
+  "\ufeffTitle": "\"Ford Frick, National League President and Judge Landis\"", 
   "ObjectID": "58646"
 }

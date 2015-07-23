@@ -1,12 +1,11 @@
 {
   "Medium": "Illustrated book with 6 lithographs", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Illustrated Book", 
   "Artist": "Karel Appel", 
   "URL": "http://www.moma.org/collection/works/22020", 
   "CuratorApproved": "Y", 
-  "Title": "Rhapsodie de ma nuit", 
-  "DateAcquired": "1996-11-12", 
+  "CreditLine": "Monroe Wheeler Fund", 
   "Date": "1958", 
   "ArtistID": 203, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "709.1996.1-6", 
-  "ArtistBio": "Dutch, 1921\u20132006", 
-  "CreditLine": "Monroe Wheeler Fund", 
+  "ArtistBio": "(Dutch, 1921\u20132006)", 
+  "DateAcquired": "1996-11-12", 
+  "\ufeffTitle": "Rhapsodie de ma nuit", 
   "ObjectID": "22020"
 }

@@ -5,8 +5,7 @@
   "Artist": "Dorothea Lange", 
   "URL": "http://www.moma.org/collection/works/56948", 
   "CuratorApproved": "Y", 
-  "Title": "Migratory Cotton Picker, Eloy, Arizona", 
-  "DateAcquired": "1967-11-21", 
+  "CreditLine": "Purchase", 
   "Date": "1940", 
   "ArtistID": 3373, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "849.1968", 
-  "ArtistBio": "American, 1895\u20131965", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, 1895\u20131965)", 
+  "DateAcquired": "1967-11-21", 
+  "\ufeffTitle": "Migratory Cotton Picker, Eloy, Arizona", 
   "ObjectID": "56948"
 }

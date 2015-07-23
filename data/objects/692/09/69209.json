@@ -1,12 +1,11 @@
 {
   "Medium": "Cover for record album", 
-  "Dimensions": "composition  12 1/4 x 12 5/16\" (31.2 x 31.3 cm)  sheet  12 1/4 x 12 5/16\" (31 x 31.3 cm)", 
+  "Dimensions": "composition  12 1/4 x 12 5/16\" (31.2 x 31.3 cm)\r\nsheet  12 1/4 x 12 5/16\" (31 x 31.3 cm)", 
   "Classification": "Print", 
   "Artist": "Raymond Pettibon", 
   "URL": "http://www.moma.org/collection/works/69209", 
   "CuratorApproved": "Y", 
-  "Title": "Black Flag: Slip It In", 
-  "DateAcquired": "1999-11-18", 
+  "CreditLine": "John B. Turner Fund", 
   "Date": "1984", 
   "ArtistID": 7500, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "442.1999", 
-  "ArtistBio": "American, born 1957", 
-  "CreditLine": "John B. Turner Fund", 
+  "ArtistBio": "(American, born 1957)", 
+  "DateAcquired": "1999-11-18", 
+  "\ufeffTitle": "Black Flag: Slip It In", 
   "ObjectID": "69209"
 }

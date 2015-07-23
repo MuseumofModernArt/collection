@@ -5,8 +5,7 @@
   "Artist": "Leo Manso", 
   "URL": "http://www.moma.org/collection/works/33156", 
   "CuratorApproved": "Y", 
-  "Title": "Earth 2", 
-  "DateAcquired": "1963-01-08", 
+  "CreditLine": "Gift of Dr. and Mrs. Ronald Neschis", 
   "Date": "(1962)", 
   "ArtistID": 3739, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "13.1963", 
-  "ArtistBio": "American, 1914\u20131993", 
-  "CreditLine": "Gift of Dr. and Mrs. Ronald Neschis", 
+  "ArtistBio": "(American, 1914\u20131993)", 
+  "DateAcquired": "1963-01-08", 
+  "\ufeffTitle": "Earth 2", 
   "ObjectID": "33156"
 }

@@ -5,8 +5,7 @@
   "Artist": "Jan Groover", 
   "URL": "http://www.moma.org/collection/works/49754", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1988-10-13", 
+  "CreditLine": "John Parkinson III Fund", 
   "Date": "1988", 
   "ArtistID": 2358, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "266.1988", 
-  "ArtistBio": "American, 1943\u20132012", 
-  "CreditLine": "John Parkinson III Fund", 
+  "ArtistBio": "(American, 1943\u20132012)", 
+  "DateAcquired": "1988-10-13", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "49754"
 }

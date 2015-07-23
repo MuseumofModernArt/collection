@@ -5,8 +5,7 @@
   "Artist": "Nachmann Granovski", 
   "URL": "http://www.moma.org/collection/works/13575", 
   "CuratorApproved": "Y", 
-  "Title": "Lidantiu Faram (Ledentu le Phare)", 
-  "DateAcquired": "1977-05-03", 
+  "CreditLine": "Purchase", 
   "Date": "1923", 
   "ArtistID": 2293, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "206.1977", 
-  "ArtistBio": "Russian, 1898\u20131971", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(Russian, 1898\u20131971)", 
+  "DateAcquired": "1977-05-03", 
+  "\ufeffTitle": "Lidantiu Faram (Ledentu le Phare)", 
   "ObjectID": "13575"
 }

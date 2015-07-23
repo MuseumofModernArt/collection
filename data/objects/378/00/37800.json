@@ -5,8 +5,7 @@
   "Artist": "Georg Baselitz", 
   "URL": "http://www.moma.org/collection/works/37800", 
   "CuratorApproved": "Y", 
-  "Title": "P.D. Zeichnung", 
-  "DateAcquired": "1995-10-10", 
+  "CreditLine": "Purchased with funds given by Jo Carole and Ronald S. Lauder and Leon D. Black", 
   "Date": "1963", 
   "ArtistID": 366, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "694.1995", 
-  "ArtistBio": "German, born 1938", 
-  "CreditLine": "Purchased with funds given by Jo Carole and Ronald S. Lauder and Leon D. Black", 
+  "ArtistBio": "(German, born 1938)", 
+  "DateAcquired": "1995-10-10", 
+  "\ufeffTitle": "P.D. Zeichnung", 
   "ObjectID": "37800"
 }

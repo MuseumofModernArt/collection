@@ -5,8 +5,7 @@
   "Artist": "Edward Ruscha", 
   "URL": "http://www.moma.org/collection/works/34783", 
   "CuratorApproved": "Y", 
-  "Title": "Gardner & Sunset", 
-  "DateAcquired": "1999-05-06", 
+  "CreditLine": "Purchased with funds given by Sarah-Ann and Werner H. Kramarsky", 
   "Date": "1998", 
   "ArtistID": 5086, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "148.1999", 
-  "ArtistBio": "American, born 1937", 
-  "CreditLine": "Purchased with funds given by Sarah-Ann and Werner H. Kramarsky", 
+  "ArtistBio": "(American, born 1937)", 
+  "DateAcquired": "1999-05-06", 
+  "\ufeffTitle": "Gardner & Sunset", 
   "ObjectID": "34783"
 }

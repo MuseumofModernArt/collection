@@ -5,8 +5,7 @@
   "Artist": "Aleksandr Rodchenko", 
   "URL": "http://www.moma.org/collection/works/44912", 
   "CuratorApproved": "Y", 
-  "Title": "Chauffeur", 
-  "DateAcquired": "1970-01-07", 
+  "CreditLine": "Mr. and Mrs. John Spencer Fund", 
   "Date": "1929", 
   "ArtistID": 4975, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "51.1970", 
-  "ArtistBio": "Russian, 1891\u20131956", 
-  "CreditLine": "Mr. and Mrs. John Spencer Fund", 
+  "ArtistBio": "(Russian, 1891\u20131956)", 
+  "DateAcquired": "1970-01-07", 
+  "\ufeffTitle": "Chauffeur", 
   "ObjectID": "44912"
 }

@@ -1,12 +1,11 @@
 {
   "Medium": "Illustrated book with one drypoint", 
-  "Dimensions": "irreg. composition  4 3/4 x 3 7/16\" (12 x 8.8 cm)  irreg. page  5 7/16 x 4 1/2\" (13 x 11.4 cm)", 
+  "Dimensions": "irreg. composition  4 3/4 x 3 7/16\" (12 x 8.8 cm)\r\nirreg. page  5 7/16 x 4 1/2\" (13 x 11.4 cm)", 
   "Classification": "Illustrated Book", 
   "Artist": "Andr\u00e9 Masson", 
   "URL": "http://www.moma.org/collection/works/16107", 
   "CuratorApproved": "Y", 
-  "Title": "L'Inutile Parole", 
-  "DateAcquired": "1986-10-15", 
+  "CreditLine": "Abby Aldrich Rockefeller Fund", 
   "Date": "1964-1984, published 1984", 
   "ArtistID": 3821, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "344.1986", 
-  "ArtistBio": "French, 1896\u20131987", 
-  "CreditLine": "Abby Aldrich Rockefeller Fund", 
+  "ArtistBio": "(French, 1896\u20131987)", 
+  "DateAcquired": "1986-10-15", 
+  "\ufeffTitle": "L'Inutile Parole", 
   "ObjectID": "16107"
 }

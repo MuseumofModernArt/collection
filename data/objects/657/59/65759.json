@@ -1,12 +1,11 @@
 {
   "Medium": "Lithograph", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "Robert Longo", 
   "URL": "http://www.moma.org/collection/works/65759", 
   "CuratorApproved": "Y", 
-  "Title": "Men in the Cities (Gretchen)", 
-  "DateAcquired": "1989-10-12", 
+  "CreditLine": "Gift of Edition Schellmann, Munich and New York", 
   "Date": "1985", 
   "ArtistID": 3592, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "273.1989", 
-  "ArtistBio": "American, born 1953", 
-  "CreditLine": "Gift of Edition Schellmann, Munich and New York", 
+  "ArtistBio": "(American, born 1953)", 
+  "DateAcquired": "1989-10-12", 
+  "\ufeffTitle": "Men in the Cities (Gretchen)", 
   "ObjectID": "65759"
 }

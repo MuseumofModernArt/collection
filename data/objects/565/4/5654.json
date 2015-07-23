@@ -5,8 +5,7 @@
   "Artist": "L. (Alfred Lewin Copley) Alcopley", 
   "URL": "http://www.moma.org/collection/works/5654", 
   "CuratorApproved": "Y", 
-  "Title": "Alcopley, Galerie Bing", 
-  "DateAcquired": "1956-04-04", 
+  "CreditLine": "Given anonymously", 
   "Date": "1956", 
   "ArtistID": 104, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "200.1956", 
-  "ArtistBio": "American, born Germany. 1910\u20131992", 
-  "CreditLine": "Given anonymously", 
+  "ArtistBio": "(American, born Germany. 1910\u20131992)", 
+  "DateAcquired": "1956-04-04", 
+  "\ufeffTitle": "Alcopley, Galerie Bing", 
   "ObjectID": "5654"
 }

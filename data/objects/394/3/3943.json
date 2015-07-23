@@ -1,12 +1,11 @@
 {
   "Medium": "Heat-resistant glass", 
-  "Dimensions": ".a (cup): 1 1/2 x 4 5/16\" (3.8 x 11 cm)  .b (saucer): 5 3/4\" (14.6 cm)", 
+  "Dimensions": ".a (cup): 1 1/2 x 4 5/16\" (3.8 x 11 cm)\r\n.b (saucer): 5 3/4\" (14.6 cm)", 
   "Classification": "A&D Design", 
   "Artist": "Wilhelm Wagenfeld", 
   "URL": "http://www.moma.org/collection/works/3943", 
   "CuratorApproved": "Y", 
-  "Title": "Cup and Saucer", 
-  "DateAcquired": "1956-10-25", 
+  "CreditLine": "Gift of Philip Johnson", 
   "Date": "1932", 
   "ArtistID": 6208, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "470.1956.a-b", 
-  "ArtistBio": "German, 1900\u20131990", 
-  "CreditLine": "Gift of Philip Johnson", 
+  "ArtistBio": "(German, 1900\u20131990)", 
+  "DateAcquired": "1956-10-25", 
+  "\ufeffTitle": "Cup and Saucer", 
   "ObjectID": "3943"
 }

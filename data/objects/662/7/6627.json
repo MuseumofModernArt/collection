@@ -5,8 +5,7 @@
   "Artist": "Martin Diethelm", 
   "URL": "http://www.moma.org/collection/works/6627", 
   "CuratorApproved": "Y", 
-  "Title": "Far West", 
-  "DateAcquired": "1994-09-21", 
+  "CreditLine": "Gift of Leonard A. Lauder", 
   "Date": "1976", 
   "ArtistID": 7426, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "411.1994", 
-  "ArtistBio": "Swiss", 
-  "CreditLine": "Gift of Leonard A. Lauder", 
+  "ArtistBio": "(Swiss)", 
+  "DateAcquired": "1994-09-21", 
+  "\ufeffTitle": "Far West", 
   "ObjectID": "6627"
 }

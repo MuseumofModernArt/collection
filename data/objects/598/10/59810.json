@@ -1,12 +1,11 @@
 {
   "Medium": "Photogravure, on three sheets", 
-  "Dimensions": "each approx. 17 7/16 x 12 5/16\" (44.3 x 31.3 cm)  each sheet  24 x 18 11/16\" (61 x 47.5 cm)  Exact compositions for three prints: .1 - 16 1/4 x 12 5/16\" (41.3 x 31.3 cm); .2 - 18 5/8 x 12 5/16\" (47.3 x 31.3 cm); .3 - 18 5/16 x 12 5/16\" (46.5 x 31.3 cm)", 
+  "Dimensions": "each approx. 17 7/16 x 12 5/16\" (44.3 x 31.3 cm)\r\neach sheet  24 x 18 11/16\" (61 x 47.5 cm)\r\nExact compositions for three prints: .1 - 16 1/4 x 12 5/16\" (41.3 x 31.3 cm); .2 - 18 5/8 x 12 5/16\" (47.3 x 31.3 cm); .3 - 18 5/16 x 12 5/16\" (46.5 x 31.3 cm)", 
   "Classification": "Print", 
   "Artist": "Hamish Fulton", 
   "URL": "http://www.moma.org/collection/works/59810", 
   "CuratorApproved": "Y", 
-  "Title": "Humming Heart", 
-  "DateAcquired": "1985-01-30", 
+  "CreditLine": "The Charles A. Dana Foundation Fund", 
   "Date": "(1983)", 
   "ArtistID": 2033, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "10.1985.1-3", 
-  "ArtistBio": "British, born 1946", 
-  "CreditLine": "The Charles A. Dana Foundation Fund", 
+  "ArtistBio": "(British, born 1946)", 
+  "DateAcquired": "1985-01-30", 
+  "\ufeffTitle": "Humming Heart", 
   "ObjectID": "59810"
 }

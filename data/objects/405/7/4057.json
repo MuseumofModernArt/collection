@@ -5,8 +5,7 @@
   "Artist": "Hugo Leven", 
   "URL": "http://www.moma.org/collection/works/4057", 
   "CuratorApproved": "Y", 
-  "Title": "Candlestick", 
-  "DateAcquired": "1956-10-25", 
+  "CreditLine": "Purchase Fund", 
   "Date": "c. 1900-1902", 
   "ArtistID": 3506, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "490.1956.a-b", 
-  "ArtistBio": "German, 1874\u20131956", 
-  "CreditLine": "Purchase Fund", 
+  "ArtistBio": "(German, 1874\u20131956)", 
+  "DateAcquired": "1956-10-25", 
+  "\ufeffTitle": "Candlestick", 
   "ObjectID": "4057"
 }

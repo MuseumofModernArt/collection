@@ -1,12 +1,11 @@
 {
   "Medium": "Screenprint", 
-  "Dimensions": "composition  19 5/16 x 13 3/4\" (49.1 x 34.9 cm)  sheet  26 3/8 x 19 11/16\" (67 x 50 cm)", 
+  "Dimensions": "composition  19 5/16 x 13 3/4\" (49.1 x 34.9 cm)\r\nsheet  26 3/8 x 19 11/16\" (67 x 50 cm)", 
   "Classification": "Print", 
   "Artist": "Auguste Herbin", 
   "URL": "http://www.moma.org/collection/works/60580", 
   "CuratorApproved": "Y", 
-  "Title": "Midi, plate 3 from the portfolio Album de 12 Planches", 
-  "DateAcquired": "1977-02-10", 
+  "CreditLine": "Gift of Robert G. Berry (through the Associates of the Department of Prints and Illustrated Books)", 
   "Date": "1959", 
   "ArtistID": 2602, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "35.1977", 
-  "ArtistBio": "French, 1882\u20131960", 
-  "CreditLine": "Gift of Robert G. Berry (through the Associates of the Department of Prints and Illustrated Books)", 
+  "ArtistBio": "(French, 1882\u20131960)", 
+  "DateAcquired": "1977-02-10", 
+  "\ufeffTitle": "Midi, plate 3 from the portfolio Album de 12 Planches", 
   "ObjectID": "60580"
 }

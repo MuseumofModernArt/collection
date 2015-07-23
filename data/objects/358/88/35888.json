@@ -5,8 +5,7 @@
   "Artist": "Scottie Wilson", 
   "URL": "http://www.moma.org/collection/works/35888", 
   "CuratorApproved": "Y", 
-  "Title": "Fantastic Flowers", 
-  "DateAcquired": "1948-10-06", 
+  "CreditLine": "Purchase", 
   "Date": "n.d.", 
   "Keywords": [
     "online art collection", 
@@ -16,7 +15,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "276.1948", 
-  "ArtistBio": "Scottish, 1889\u20131972", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(Scottish, 1889\u20131972)", 
+  "DateAcquired": "1948-10-06", 
+  "\ufeffTitle": "Fantastic Flowers", 
   "ObjectID": "35888"
 }

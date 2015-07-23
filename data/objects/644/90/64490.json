@@ -1,12 +1,11 @@
 {
   "Medium": "Lithograph", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "J\u00f3hanna Boga", 
   "URL": "http://www.moma.org/collection/works/64490", 
   "CuratorApproved": "Y", 
-  "Title": "Tower-Picture", 
-  "DateAcquired": "1983-01-18", 
+  "CreditLine": "Miles O. Epstein Fund", 
   "Date": "1982", 
   "ArtistID": 634, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "212.1983", 
-  "ArtistBio": "Icelandic", 
-  "CreditLine": "Miles O. Epstein Fund", 
+  "ArtistBio": "(Icelandic)", 
+  "DateAcquired": "1983-01-18", 
+  "\ufeffTitle": "Tower-Picture", 
   "ObjectID": "64490"
 }

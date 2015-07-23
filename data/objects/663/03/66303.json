@@ -5,8 +5,7 @@
   "Artist": "Carlos Cruz-Diez", 
   "URL": "http://www.moma.org/collection/works/66303", 
   "CuratorApproved": "Y", 
-  "Title": "Color Additives (Aditivos de Color)", 
-  "DateAcquired": "1972-10-05", 
+  "CreditLine": "Gift of Alfredo Boulton", 
   "Date": "1970 (published 1971)", 
   "ArtistID": 1321, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "294.1972.1-8", 
-  "ArtistBio": "Venezuelan, born 1923", 
-  "CreditLine": "Gift of Alfredo Boulton", 
+  "ArtistBio": "(Venezuelan, born 1923)", 
+  "DateAcquired": "1972-10-05", 
+  "\ufeffTitle": "Color Additives (Aditivos de Color)", 
   "ObjectID": "66303"
 }

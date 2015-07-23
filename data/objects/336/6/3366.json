@@ -5,8 +5,7 @@
   "Artist": "Gae Aulenti", 
   "URL": "http://www.moma.org/collection/works/3366", 
   "CuratorApproved": "Y", 
-  "Title": "Table with Wheels (model 2652)", 
-  "DateAcquired": "1982-10-27", 
+  "CreditLine": "Gift of Donn Golden", 
   "Date": "1980", 
   "ArtistID": 241, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "348.1982", 
-  "ArtistBio": "Italian, 1930\u20132012", 
-  "CreditLine": "Gift of Donn Golden", 
+  "ArtistBio": "(Italian, 1930\u20132012)", 
+  "DateAcquired": "1982-10-27", 
+  "\ufeffTitle": "Table with Wheels (model 2652)", 
   "ObjectID": "3366"
 }

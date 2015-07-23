@@ -5,8 +5,7 @@
   "Artist": "David Hammons", 
   "URL": "http://www.moma.org/collection/works/63669", 
   "CuratorApproved": "Y", 
-  "Title": "Free Nelson Mandela", 
-  "DateAcquired": "1988-05-04", 
+  "CreditLine": "John B. Turner Fund", 
   "Date": "1987", 
   "ArtistID": 2486, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "175.1988", 
-  "ArtistBio": "American, born 1943", 
-  "CreditLine": "John B. Turner Fund", 
+  "ArtistBio": "(American, born 1943)", 
+  "DateAcquired": "1988-05-04", 
+  "\ufeffTitle": "Free Nelson Mandela", 
   "ObjectID": "63669"
 }

@@ -5,8 +5,7 @@
   "Artist": "Michael Spano", 
   "URL": "http://www.moma.org/collection/works/56203", 
   "CuratorApproved": "Y", 
-  "Title": "Tribeca", 
-  "DateAcquired": "1983-11-10", 
+  "CreditLine": "Gift of the photographer", 
   "Date": "1982", 
   "ArtistID": 5555, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "701.1983", 
-  "ArtistBio": "American, born 1949", 
-  "CreditLine": "Gift of the photographer", 
+  "ArtistBio": "(American, born 1949)", 
+  "DateAcquired": "1983-11-10", 
+  "\ufeffTitle": "Tribeca", 
   "ObjectID": "56203"
 }

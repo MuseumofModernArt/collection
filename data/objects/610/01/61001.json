@@ -5,8 +5,7 @@
   "Artist": "Alexander Calder", 
   "URL": "http://www.moma.org/collection/works/61001", 
   "CuratorApproved": "Y", 
-  "Title": "The Big I", 
-  "DateAcquired": "1955-04-06", 
+  "CreditLine": "Gift of Wittenborn & Co.", 
   "Date": "1944", 
   "ArtistID": 922, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "54.1955", 
-  "ArtistBio": "American, 1898\u20131976", 
-  "CreditLine": "Gift of Wittenborn & Co.", 
+  "ArtistBio": "(American, 1898\u20131976)", 
+  "DateAcquired": "1955-04-06", 
+  "\ufeffTitle": "The Big I", 
   "ObjectID": "61001"
 }

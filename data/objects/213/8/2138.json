@@ -5,8 +5,7 @@
   "Artist": "Josef Hoffmann", 
   "URL": "http://www.moma.org/collection/works/2138", 
   "CuratorApproved": "Y", 
-  "Title": "Footed Vase", 
-  "DateAcquired": "1948-03-17", 
+  "CreditLine": "Gift of Joseph Binder", 
   "Date": "c. 1920", 
   "ArtistID": 2694, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "107.1948", 
-  "ArtistBio": "Austrian, 1870\u20131956", 
-  "CreditLine": "Gift of Joseph Binder", 
+  "ArtistBio": "(Austrian, 1870\u20131956)", 
+  "DateAcquired": "1948-03-17", 
+  "\ufeffTitle": "Footed Vase", 
   "ObjectID": "2138"
 }

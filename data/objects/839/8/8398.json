@@ -5,8 +5,7 @@
   "Artist": "Willem de Kooning", 
   "URL": "http://www.moma.org/collection/works/8398", 
   "CuratorApproved": "Y", 
-  "Title": "de Kooning", 
-  "DateAcquired": "1965-11-09", 
+  "CreditLine": "Gift of the Aspen Institute for Humanistic Studies", 
   "Date": "1965", 
   "ArtistID": 3213, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "933.1965", 
-  "ArtistBio": "American, born the Netherlands. 1904\u20131997", 
-  "CreditLine": "Gift of the Aspen Institute for Humanistic Studies", 
+  "ArtistBio": "(American, born the Netherlands. 1904\u20131997)", 
+  "DateAcquired": "1965-11-09", 
+  "\ufeffTitle": "de Kooning", 
   "ObjectID": "8398"
 }

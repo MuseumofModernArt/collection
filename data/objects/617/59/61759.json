@@ -5,8 +5,7 @@
   "Artist": "Edvard Munch", 
   "URL": "http://www.moma.org/collection/works/61759", 
   "CuratorApproved": "Y", 
-  "Title": "Thanking the Group", 
-  "DateAcquired": "1955-04-06", 
+  "CreditLine": "Gift of Abby Aldrich Rockefeller (by exchange)", 
   "Date": "1899", 
   "ArtistID": 4164, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "98.1955", 
-  "ArtistBio": "Norwegian, 1863\u20131944", 
-  "CreditLine": "Gift of Abby Aldrich Rockefeller (by exchange)", 
+  "ArtistBio": "(Norwegian, 1863\u20131944)", 
+  "DateAcquired": "1955-04-06", 
+  "\ufeffTitle": "Thanking the Group", 
   "ObjectID": "61759"
 }

@@ -1,12 +1,11 @@
 {
   "Medium": "Lithograph", 
-  "Dimensions": "irreg composition  37 7/8 x 29 7/16\" (96.2 x 74.8 cm)  irreg sheet  43 1/4 x 31 1/4\" (109.8 x 79.4 cm)", 
+  "Dimensions": "irreg composition  37 7/8 x 29 7/16\" (96.2 x 74.8 cm)\r\nirreg sheet  43 1/4 x 31 1/4\" (109.8 x 79.4 cm)", 
   "Classification": "Print", 
   "Artist": "William T. Wiley", 
   "URL": "http://www.moma.org/collection/works/63028", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled (Mr. Nobody)", 
-  "DateAcquired": "1975-05-09", 
+  "CreditLine": "Adriane Reggie Fund and John R. Jakobson Foundation Fund", 
   "Date": "1975", 
   "ArtistID": 6370, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "153.1975", 
-  "ArtistBio": "American, born 1937", 
-  "CreditLine": "Adriane Reggie Fund and John R. Jakobson Foundation Fund", 
+  "ArtistBio": "(American, born 1937)", 
+  "DateAcquired": "1975-05-09", 
+  "\ufeffTitle": "Untitled (Mr. Nobody)", 
   "ObjectID": "63028"
 }

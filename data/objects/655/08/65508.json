@@ -5,8 +5,7 @@
   "Artist": "Jacques Villon", 
   "URL": "http://www.moma.org/collection/works/65508", 
   "CuratorApproved": "Y", 
-  "Title": "The Dinner Table (La Table service)", 
-  "DateAcquired": "1935-11-12", 
+  "CreditLine": "Abby Aldrich Rockefeller Fund", 
   "Date": "1913", 
   "ArtistID": 6165, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "263.1935", 
-  "ArtistBio": "French, 1875\u20131963", 
-  "CreditLine": "Abby Aldrich Rockefeller Fund", 
+  "ArtistBio": "(French, 1875\u20131963)", 
+  "DateAcquired": "1935-11-12", 
+  "\ufeffTitle": "The Dinner Table (La Table service)", 
   "ObjectID": "65508"
 }

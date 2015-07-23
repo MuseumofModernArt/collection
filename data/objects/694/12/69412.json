@@ -1,12 +1,11 @@
 {
   "Medium": "Laserchrome print", 
-  "Dimensions": "composition  49 13/16 x 37 9/16\" (126.6 x 95.4 cm)  sheet  52 1/8 x 39 3/8\" (132 x 100 cm)", 
+  "Dimensions": "composition  49 13/16 x 37 9/16\" (126.6 x 95.4 cm)\r\nsheet  52 1/8 x 39 3/8\" (132 x 100 cm)", 
   "Classification": "Print", 
   "Artist": "Beat Streuli", 
   "URL": "http://www.moma.org/collection/works/69412", 
   "CuratorApproved": "Y", 
-  "Title": "Oxford Street (for Parkett no. 54)", 
-  "DateAcquired": "1999-11-18", 
+  "CreditLine": "Linda Barth Goldstein Fund", 
   "Date": "1998", 
   "ArtistID": 8156, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "456.1999.1", 
-  "ArtistBio": "Swiss, born 1957", 
-  "CreditLine": "Linda Barth Goldstein Fund", 
+  "ArtistBio": "(Swiss, born 1957)", 
+  "DateAcquired": "1999-11-18", 
+  "\ufeffTitle": "Oxford Street (for Parkett no. 54)", 
   "ObjectID": "69412"
 }

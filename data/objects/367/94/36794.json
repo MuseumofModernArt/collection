@@ -5,8 +5,7 @@
   "Artist": "Louis Marcoussis", 
   "URL": "http://www.moma.org/collection/works/36794", 
   "CuratorApproved": "Y", 
-  "Title": "Stairway with Figure", 
-  "DateAcquired": "1953-06-22", 
+  "CreditLine": "Gift of Mme Helena Rubinstein", 
   "Date": "1930", 
   "ArtistID": 3757, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "416.1953", 
-  "ArtistBio": "Polish, 1883\u20131941", 
-  "CreditLine": "Gift of Mme Helena Rubinstein", 
+  "ArtistBio": "(Polish, 1883\u20131941)", 
+  "DateAcquired": "1953-06-22", 
+  "\ufeffTitle": "Stairway with Figure", 
   "ObjectID": "36794"
 }

@@ -5,8 +5,7 @@
   "Artist": "Henri Gaudier-Brzeska", 
   "URL": "http://www.moma.org/collection/works/37064", 
   "CuratorApproved": "Y", 
-  "Title": "Alfred Wolmark", 
-  "DateAcquired": "1980-05-13", 
+  "CreditLine": "L-B Foundation Fund", 
   "Date": "(1913)", 
   "ArtistID": 2097, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "469.1980", 
-  "ArtistBio": "French, 1891\u20131915", 
-  "CreditLine": "L-B Foundation Fund", 
+  "ArtistBio": "(French, 1891\u20131915)", 
+  "DateAcquired": "1980-05-13", 
+  "\ufeffTitle": "Alfred Wolmark", 
   "ObjectID": "37064"
 }

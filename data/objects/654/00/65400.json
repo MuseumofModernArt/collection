@@ -5,8 +5,7 @@
   "Artist": "Joan Mir\u00f3", 
   "URL": "http://www.moma.org/collection/works/65400", 
   "CuratorApproved": "Y", 
-  "Title": "Person in a Garden, II", 
-  "DateAcquired": "1955-10-10", 
+  "CreditLine": "Gift of Mr. and Mrs. Armand P. Bartos", 
   "Date": "1951", 
   "ArtistID": 4016, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "258.1955", 
-  "ArtistBio": "Spanish, 1893\u20131983", 
-  "CreditLine": "Gift of Mr. and Mrs. Armand P. Bartos", 
+  "ArtistBio": "(Spanish, 1893\u20131983)", 
+  "DateAcquired": "1955-10-10", 
+  "\ufeffTitle": "Person in a Garden, II", 
   "ObjectID": "65400"
 }

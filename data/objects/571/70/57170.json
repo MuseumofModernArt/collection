@@ -5,8 +5,7 @@
   "Artist": "Robert Adams", 
   "URL": "http://www.moma.org/collection/works/57170", 
   "CuratorApproved": "Y", 
-  "Title": "From Signal Hill, Looking South over Long Beach", 
-  "DateAcquired": "1996-12-10", 
+  "CreditLine": "Gift of Arthur M. Bullowa", 
   "Date": "1983", 
   "ArtistID": 66, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "862.1996", 
-  "ArtistBio": "American, born 1937", 
-  "CreditLine": "Gift of Arthur M. Bullowa", 
+  "ArtistBio": "(American, born 1937)", 
+  "DateAcquired": "1996-12-10", 
+  "\ufeffTitle": "From Signal Hill, Looking South over Long Beach", 
   "ObjectID": "57170"
 }

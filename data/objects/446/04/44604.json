@@ -5,8 +5,7 @@
   "Artist": "Tim Gidal", 
   "URL": "http://www.moma.org/collection/works/44604", 
   "CuratorApproved": "Y", 
-  "Title": "Beer Hall, Munich", 
-  "DateAcquired": "1989-03-09", 
+  "CreditLine": "Gift of Paul F. Walter", 
   "Date": "1931", 
   "ArtistID": 2147, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "42.1989", 
-  "ArtistBio": "German, 1909\u20131996", 
-  "CreditLine": "Gift of Paul F. Walter", 
+  "ArtistBio": "(German, 1909\u20131996)", 
+  "DateAcquired": "1989-03-09", 
+  "\ufeffTitle": "Beer Hall, Munich", 
   "ObjectID": "44604"
 }

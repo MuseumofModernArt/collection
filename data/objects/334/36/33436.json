@@ -5,8 +5,7 @@
   "Artist": "Andy Warhol", 
   "URL": "http://www.moma.org/collection/works/33436", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled (Skull)", 
-  "DateAcquired": "1999-02-25", 
+  "CreditLine": "Purchased with funds given by Marie-Jos\u00e9e and Henry R. Kravis", 
   "Date": "(1976)", 
   "ArtistID": 6246, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "36.1999", 
-  "ArtistBio": "American, 1928\u20131987", 
-  "CreditLine": "Purchased with funds given by Marie-Jos\u00e9e and Henry R. Kravis", 
+  "ArtistBio": "(American, 1928\u20131987)", 
+  "DateAcquired": "1999-02-25", 
+  "\ufeffTitle": "Untitled (Skull)", 
   "ObjectID": "33436"
 }

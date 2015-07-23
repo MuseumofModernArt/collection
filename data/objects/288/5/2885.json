@@ -5,8 +5,7 @@
   "Artist": "Claire Wagner Kosterlitz", 
   "URL": "http://www.moma.org/collection/works/2885", 
   "CuratorApproved": "Y", 
-  "Title": "Pillowcase", 
-  "DateAcquired": "1965-04-06", 
+  "CreditLine": "Greta Daniel Design Fund", 
   "Date": "1925", 
   "ArtistID": 3225, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "232.1965", 
-  "ArtistBio": "American, born Germany. 1903\u20131997", 
-  "CreditLine": "Greta Daniel Design Fund", 
+  "ArtistBio": "(American, born Germany. 1903\u20131997)", 
+  "DateAcquired": "1965-04-06", 
+  "\ufeffTitle": "Pillowcase", 
   "ObjectID": "2885"
 }

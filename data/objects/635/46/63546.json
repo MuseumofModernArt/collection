@@ -5,8 +5,7 @@
   "Artist": "Angela Jansen", 
   "URL": "http://www.moma.org/collection/works/63546", 
   "CuratorApproved": "Y", 
-  "Title": "Historical Perspective", 
-  "DateAcquired": "1973-05-07", 
+  "CreditLine": "John B. Turner Fund", 
   "Date": "1972", 
   "ArtistID": 2885, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "171.1973", 
-  "ArtistBio": "American, born 1929", 
-  "CreditLine": "John B. Turner Fund", 
+  "ArtistBio": "(American, born 1929)", 
+  "DateAcquired": "1973-05-07", 
+  "\ufeffTitle": "Historical Perspective", 
   "ObjectID": "63546"
 }

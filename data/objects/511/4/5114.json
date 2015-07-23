@@ -5,8 +5,7 @@
   "Artist": "Aubrey Beardsley", 
   "URL": "http://www.moma.org/collection/works/5114", 
   "CuratorApproved": "Y", 
-  "Title": "Avenue Theater, A Comedy of Sighs!", 
-  "DateAcquired": "1968-03-07", 
+  "CreditLine": "Acquired by exchange", 
   "Date": "1894", 
   "ArtistID": 413, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "112.1968", 
-  "ArtistBio": "British, 1872\u20131898", 
-  "CreditLine": "Acquired by exchange", 
+  "ArtistBio": "(British, 1872\u20131898)", 
+  "DateAcquired": "1968-03-07", 
+  "\ufeffTitle": "Avenue Theater, A Comedy of Sighs!", 
   "ObjectID": "5114"
 }

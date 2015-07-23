@@ -5,8 +5,7 @@
   "Artist": "Marc Chagall", 
   "URL": "http://www.moma.org/collection/works/62245", 
   "CuratorApproved": "Y", 
-  "Title": "On the Stove (Sur le po\u00eale)", 
-  "DateAcquired": "1963-02-13", 
+  "CreditLine": "Gift of Mr. and Mrs. Leo Auerbach", 
   "Date": "1922-23", 
   "ArtistID": 1055, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "123.1963", 
-  "ArtistBio": "French, born Belarus. 1887\u20131985", 
-  "CreditLine": "Gift of Mr. and Mrs. Leo Auerbach", 
+  "ArtistBio": "(French, born Belarus. 1887\u20131985)", 
+  "DateAcquired": "1963-02-13", 
+  "\ufeffTitle": "On the Stove (Sur le po\u00eale)", 
   "ObjectID": "62245"
 }

@@ -5,8 +5,7 @@
   "Artist": "Manuel \u00c1lvarez Bravo", 
   "URL": "http://www.moma.org/collection/works/56932", 
   "CuratorApproved": "Y", 
-  "Title": "Cemetery Wall", 
-  "DateAcquired": "1998-10-15", 
+  "CreditLine": "Gift of N. Carol Lipis", 
   "Date": "1967", 
   "ArtistID": 135, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "848.1978.13", 
-  "ArtistBio": "Mexican, 1902\u20132002", 
-  "CreditLine": "Gift of N. Carol Lipis", 
+  "ArtistBio": "(Mexican, 1902\u20132002)", 
+  "DateAcquired": "1998-10-15", 
+  "\ufeffTitle": "Cemetery Wall", 
   "ObjectID": "56932"
 }

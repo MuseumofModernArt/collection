@@ -1,12 +1,11 @@
 {
   "Medium": "Nine computer generated screenprints", 
-  "Dimensions": "composition  29 13/16 x 37 1/2\" (75.7 x 95.2 cm)  sheet  29 13/16 x 37 1/2\" (75 x 95.2 cm)", 
+  "Dimensions": "composition  29 13/16 x 37 1/2\" (75.7 x 95.2 cm)\r\nsheet  29 13/16 x 37 1/2\" (75 x 95.2 cm)", 
   "Classification": "Print", 
   "Artist": "Victor Burgin", 
   "URL": "http://www.moma.org/collection/works/68147", 
   "CuratorApproved": "Y", 
-  "Title": "Fiction Film", 
-  "DateAcquired": "1992-01-22", 
+  "CreditLine": "The Associates Fund", 
   "Date": "(1991)", 
   "ArtistID": 6638, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "381.1991.1-9", 
-  "ArtistBio": "British, born 1941", 
-  "CreditLine": "The Associates Fund", 
+  "ArtistBio": "(British, born 1941)", 
+  "DateAcquired": "1992-01-22", 
+  "\ufeffTitle": "Fiction Film", 
   "ObjectID": "68147"
 }

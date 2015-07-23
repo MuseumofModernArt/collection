@@ -1,12 +1,11 @@
 {
   "Medium": "Journal with relief etching illustrations", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Illustrated Book", 
   "Artist": "Th\u00e9ophile-Alexandre Steinlen", 
   "URL": "http://www.moma.org/collection/works/14344", 
   "CuratorApproved": "Y", 
-  "Title": "THE BAD MAN (Le vilain Homme) by Lucien Descaves from GIL BLAS ILLUSTR\u00c9", 
-  "DateAcquired": "1997-05-28", 
+  "CreditLine": "Gift of John Benjamins Antiquariat", 
   "Date": "1897", 
   "ArtistID": 5634, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "257.1997", 
-  "ArtistBio": "French, 1859\u20131923", 
-  "CreditLine": "Gift of John Benjamins Antiquariat", 
+  "ArtistBio": "(French, 1859\u20131923)", 
+  "DateAcquired": "1997-05-28", 
+  "\ufeffTitle": "Gil Blas illustr\u00e9", 
   "ObjectID": "14344"
 }

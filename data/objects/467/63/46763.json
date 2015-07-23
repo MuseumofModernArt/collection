@@ -5,8 +5,7 @@
   "Artist": "Emmet Gowin", 
   "URL": "http://www.moma.org/collection/works/46763", 
   "CuratorApproved": "Y", 
-  "Title": "Nancy, Danville, Virginia", 
-  "DateAcquired": "1972-03-07", 
+  "CreditLine": "Anonymous Fund", 
   "Date": "1969", 
   "ArtistID": 2273, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "134.1972", 
-  "ArtistBio": "American, born 1941", 
-  "CreditLine": "Anonymous Fund", 
+  "ArtistBio": "(American, born 1941)", 
+  "DateAcquired": "1972-03-07", 
+  "\ufeffTitle": "Nancy, Danville, Virginia", 
   "ObjectID": "46763"
 }

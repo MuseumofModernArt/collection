@@ -1,12 +1,11 @@
 {
   "Medium": "Etching and aquatint", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "Julio Larraz", 
   "URL": "http://www.moma.org/collection/works/68374", 
   "CuratorApproved": "Y", 
-  "Title": "Chambered Nautilus", 
-  "DateAcquired": "1992-01-22", 
+  "CreditLine": "Gift of Paul Anbinder", 
   "Date": "(1989)", 
   "ArtistID": 6639, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "394.1991", 
-  "ArtistBio": "American, born 1944", 
-  "CreditLine": "Gift of Paul Anbinder", 
+  "ArtistBio": "(American, born 1944)", 
+  "DateAcquired": "1992-01-22", 
+  "\ufeffTitle": "Chambered Nautilus", 
   "ObjectID": "68374"
 }

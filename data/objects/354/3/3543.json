@@ -5,8 +5,7 @@
   "Artist": "Unknown Designer", 
   "URL": "http://www.moma.org/collection/works/3543", 
   "CuratorApproved": "Y", 
-  "Title": "Machete", 
-  "DateAcquired": "1938-06-01", 
+  "CreditLine": "Gift of John McAndrew", 
   "Date": "Before 1938", 
   "ArtistID": 6011, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "423.1938", 
-  "ArtistBio": "Nationality unknown", 
-  "CreditLine": "Gift of John McAndrew", 
+  "ArtistBio": "(Nationality unknown)", 
+  "DateAcquired": "1938-06-01", 
+  "\ufeffTitle": "Machete", 
   "ObjectID": "3543"
 }

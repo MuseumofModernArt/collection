@@ -5,8 +5,7 @@
   "Artist": "Carlo Moretti", 
   "URL": "http://www.moma.org/collection/works/4162", 
   "CuratorApproved": "Y", 
-  "Title": "Octagonal Drinking Glass", 
-  "DateAcquired": "1980-10-30", 
+  "CreditLine": "Greta Daniel Fund", 
   "Date": "Before 1980", 
   "ArtistID": 4088, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "644.1980", 
-  "ArtistBio": "Italian, born 1934", 
-  "CreditLine": "Greta Daniel Fund", 
+  "ArtistBio": "(Italian, born 1934)", 
+  "DateAcquired": "1980-10-30", 
+  "\ufeffTitle": "Octagonal Drinking Glass", 
   "ObjectID": "4162"
 }

@@ -5,8 +5,7 @@
   "Artist": "Beatrice Albert", 
   "URL": "http://www.moma.org/collection/works/2619", 
   "CuratorApproved": "Y", 
-  "Title": "Southern Harvest Dinner Plate", 
-  "DateAcquired": "1950-06-08", 
+  "CreditLine": "Gift of the manufacturer", 
   "Date": "c. 1946", 
   "ArtistID": 98, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "201.1950", 
-  "ArtistBio": "American", 
-  "CreditLine": "Gift of the manufacturer", 
+  "ArtistBio": "(American)", 
+  "DateAcquired": "1950-06-08", 
+  "\ufeffTitle": "Southern Harvest Dinner Plate", 
   "ObjectID": "2619"
 }

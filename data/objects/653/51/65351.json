@@ -5,8 +5,7 @@
   "Artist": "Hanne Darboven", 
   "URL": "http://www.moma.org/collection/works/65351", 
   "CuratorApproved": "Y", 
-  "Title": "Harburg Sand", 
-  "DateAcquired": "1989-10-12", 
+  "CreditLine": "Gift of Edition Schellmann, Munich and New York", 
   "Date": "1988", 
   "ArtistID": 1388, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "255.1989", 
-  "ArtistBio": "German, 1941\u20132009", 
-  "CreditLine": "Gift of Edition Schellmann, Munich and New York", 
+  "ArtistBio": "(German, 1941\u20132009)", 
+  "DateAcquired": "1989-10-12", 
+  "\ufeffTitle": "Harburg Sand", 
   "ObjectID": "65351"
 }

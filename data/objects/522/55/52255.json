@@ -5,8 +5,7 @@
   "Artist": "Emmet Gowin", 
   "URL": "http://www.moma.org/collection/works/52255", 
   "CuratorApproved": "Y", 
-  "Title": "Golf Course under Construction", 
-  "DateAcquired": "1997-10-09", 
+  "CreditLine": "The Fellows of Photography Fund", 
   "Date": "1993", 
   "ArtistID": 2273, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "383.1997", 
-  "ArtistBio": "American, born 1941", 
-  "CreditLine": "The Fellows of Photography Fund", 
+  "ArtistBio": "(American, born 1941)", 
+  "DateAcquired": "1997-10-09", 
+  "\ufeffTitle": "Golf Course under Construction", 
   "ObjectID": "52255"
 }

@@ -5,8 +5,7 @@
   "Artist": "Charles Coiner", 
   "URL": "http://www.moma.org/collection/works/5147", 
   "CuratorApproved": "Y", 
-  "Title": "Give It Your Best!", 
-  "DateAcquired": "1968-03-07", 
+  "CreditLine": "Gift of the Office for Emergency Management", 
   "Date": "1942", 
   "ArtistID": 1178, 
   "Keywords": [
@@ -16,7 +15,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "124.1968", 
-  "ArtistBio": "Nationality unknown, 1898\u20131989", 
-  "CreditLine": "Gift of the Office for Emergency Management", 
+  "ArtistBio": "(Nationality unknown, 1898\u20131989)", 
+  "DateAcquired": "1968-03-07", 
+  "\ufeffTitle": "Give It Your Best!", 
   "ObjectID": "5147"
 }

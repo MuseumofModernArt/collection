@@ -5,8 +5,7 @@
   "Artist": "Dieter Rams", 
   "URL": "http://www.moma.org/collection/works/4135", 
   "CuratorApproved": "Y", 
-  "Title": "Heater-Ventilator (model H 3)", 
-  "DateAcquired": "1965-06-08", 
+  "CreditLine": "Gift of the manufacturer", 
   "Date": "1962", 
   "ArtistID": 8451, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "596.1965", 
-  "ArtistBio": "German, born 1932", 
-  "CreditLine": "Gift of the manufacturer", 
+  "ArtistBio": "(German, born 1932)", 
+  "DateAcquired": "1965-06-08", 
+  "\ufeffTitle": "Heater-Ventilator (model H 3)", 
   "ObjectID": "4135"
 }

@@ -5,8 +5,7 @@
   "Artist": "Pablo Picasso", 
   "URL": "http://www.moma.org/collection/works/7107", 
   "CuratorApproved": "Y", 
-  "Title": "Congres National/ mouvement de la Paix/ 10 et 11 Mars 1962/ Issy-les-Moulineaux", 
-  "DateAcquired": "1976-10-22", 
+  "CreditLine": "Peter Stone Collection of Posters by Artists", 
   "Date": "1961", 
   "ArtistID": 4609, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "461.1976", 
-  "ArtistBio": "Spanish, 1881\u20131973", 
-  "CreditLine": "Peter Stone Collection of Posters by Artists", 
+  "ArtistBio": "(Spanish, 1881\u20131973)", 
+  "DateAcquired": "1976-10-22", 
+  "\ufeffTitle": "\"Congres National/ mouvement de la Paix/ 10 et 11 Mars 1962/ Issy-les-Moulineaux\"", 
   "ObjectID": "7107"
 }

@@ -5,8 +5,7 @@
   "Artist": "Rex (Reginald C.) Silver", 
   "URL": "http://www.moma.org/collection/works/2343", 
   "CuratorApproved": "Y", 
-  "Title": "Flower Bowl", 
-  "DateAcquired": "1958-12-04", 
+  "CreditLine": "Phyllis B. Lambert Fund", 
   "Date": "1903", 
   "ArtistID": 5431, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "165.1958", 
-  "ArtistBio": "British, 1879\u20131965", 
-  "CreditLine": "Phyllis B. Lambert Fund", 
+  "ArtistBio": "(British, 1879\u20131965)", 
+  "DateAcquired": "1958-12-04", 
+  "\ufeffTitle": "Flower Bowl", 
   "ObjectID": "2343"
 }

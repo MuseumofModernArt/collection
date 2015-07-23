@@ -5,8 +5,7 @@
   "Artist": "Uwe Loesch", 
   "URL": "http://www.moma.org/collection/works/6733", 
   "CuratorApproved": "Y", 
-  "Title": "K\u00f6ln, Kunsthochschule f\u00fcr Medium Ver\u00f6ffentlichungsjahr", 
-  "DateAcquired": "1994-11-03", 
+  "CreditLine": "Gift of the designer", 
   "Date": "1990", 
   "ArtistID": 3581, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "370.1993.2", 
-  "ArtistBio": "German, born 1943", 
-  "CreditLine": "Gift of the designer", 
+  "ArtistBio": "(German, born 1943)", 
+  "DateAcquired": "1994-11-03", 
+  "\ufeffTitle": "K\u00f6ln, Kunsthochschule f\u00fcr Medium Ver\u00f6ffentlichungsjahr", 
   "ObjectID": "6733"
 }

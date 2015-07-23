@@ -5,8 +5,7 @@
   "Artist": "Emilio Ambasz", 
   "URL": "http://www.moma.org/collection/works/2592", 
   "CuratorApproved": "Y", 
-  "Title": "Flashlights", 
-  "DateAcquired": "1987-05-27", 
+  "CreditLine": "Gift of the designer", 
   "Date": "1983", 
   "ArtistID": 141, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "197.1987.1-4", 
-  "ArtistBio": "Argentine, born 1943", 
-  "CreditLine": "Gift of the designer", 
+  "ArtistBio": "(Argentine, born 1943)", 
+  "DateAcquired": "1987-05-27", 
+  "\ufeffTitle": "Flashlights", 
   "ObjectID": "2592"
 }

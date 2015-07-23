@@ -5,8 +5,7 @@
   "Artist": "Jacques Nathan-Garamond", 
   "URL": "http://www.moma.org/collection/works/5504", 
   "CuratorApproved": "Y", 
-  "Title": "Exposition de L'Habitation, Grand Palais Paris", 
-  "DateAcquired": "1950-04-24", 
+  "CreditLine": "Gift of Bernard Davis", 
   "Date": "1934", 
   "ArtistID": 4236, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "175.1950", 
-  "ArtistBio": "French, 1910\u20132001", 
-  "CreditLine": "Gift of Bernard Davis", 
+  "ArtistBio": "(French, 1910\u20132001)", 
+  "DateAcquired": "1950-04-24", 
+  "\ufeffTitle": "Exposition de L'Habitation, Grand Palais Paris", 
   "ObjectID": "5504"
 }

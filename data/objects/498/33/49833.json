@@ -5,8 +5,7 @@
   "Artist": "Roy DeCarava", 
   "URL": "http://www.moma.org/collection/works/49833", 
   "CuratorApproved": "Y", 
-  "Title": "Man Coming Up Subway Stairs", 
-  "DateAcquired": "1959-04-22", 
+  "CreditLine": "Gift of the photographer", 
   "Date": "1952", 
   "ArtistID": 1422, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "273.1959", 
-  "ArtistBio": "American, 1919\u20132009", 
-  "CreditLine": "Gift of the photographer", 
+  "ArtistBio": "(American, 1919\u20132009)", 
+  "DateAcquired": "1959-04-22", 
+  "\ufeffTitle": "Man Coming Up Subway Stairs", 
   "ObjectID": "49833"
 }

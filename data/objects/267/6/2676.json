@@ -5,8 +5,7 @@
   "Artist": "Unknown Designer", 
   "URL": "http://www.moma.org/collection/works/2676", 
   "CuratorApproved": "Y", 
-  "Title": "Display Stand for Oranges", 
-  "DateAcquired": "1948-03-17", 
+  "CreditLine": "Edgar Kaufmann, Jr. Fund", 
   "Date": "Unknown", 
   "ArtistID": 6011, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "210.1948", 
-  "ArtistBio": "Nationality unknown", 
-  "CreditLine": "Edgar Kaufmann, Jr. Fund", 
+  "ArtistBio": "(Nationality unknown)", 
+  "DateAcquired": "1948-03-17", 
+  "\ufeffTitle": "Display Stand for Oranges", 
   "ObjectID": "2676"
 }

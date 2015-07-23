@@ -5,8 +5,7 @@
   "Artist": "Coors Porcelain Co., Golden, CO", 
   "URL": "http://www.moma.org/collection/works/2335", 
   "CuratorApproved": "Y", 
-  "Title": "Evaporating Dish", 
-  "DateAcquired": "1947-06-17", 
+  "CreditLine": "Purchase", 
   "Date": "1920s", 
   "Keywords": [
     "online art collection", 
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "164.1947", 
-  "ArtistBio": "American, est. 1910", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, est. 1910)", 
+  "DateAcquired": "1947-06-17", 
+  "\ufeffTitle": "Evaporating Dish", 
   "ObjectID": "2335"
 }

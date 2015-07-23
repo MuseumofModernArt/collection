@@ -1,12 +1,11 @@
 {
   "Medium": "Woodcut", 
-  "Dimensions": "Composition (irreg.): 75 11/16 x 31 5/8\" (192.2 x 80.3 cm)  Sheet: 77 5/16 x 33 3/4\" (196.4 x 85.7 cm)", 
+  "Dimensions": "Composition (irreg.): 75 11/16 x 31 5/8\" (192.2 x 80.3 cm)\r\nSheet: 77 5/16 x 33 3/4\" (196.4 x 85.7 cm)", 
   "Classification": "Print", 
   "Artist": "John Buck", 
   "URL": "http://www.moma.org/collection/works/64545", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1983-01-18", 
+  "CreditLine": "Elinor and Edmund Grasheim Annual Fund", 
   "Date": "1982", 
   "ArtistID": 845, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "214.1983", 
-  "ArtistBio": "American, born 1946", 
-  "CreditLine": "Elinor and Edmund Grasheim Annual Fund", 
+  "ArtistBio": "(American, born 1946)", 
+  "DateAcquired": "1983-01-18", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "64545"
 }

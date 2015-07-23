@@ -5,8 +5,7 @@
   "Artist": "Emil Nolde", 
   "URL": "http://www.moma.org/collection/works/61809", 
   "CuratorApproved": "Y", 
-  "Title": "Knight", 
-  "DateAcquired": "1955-04-06", 
+  "CreditLine": "Gift of Grace Borgenicht", 
   "Date": "1906", 
   "ArtistID": 4327, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "102.1955", 
-  "ArtistBio": "German, 1867\u20131956", 
-  "CreditLine": "Gift of Grace Borgenicht", 
+  "ArtistBio": "(German, 1867\u20131956)", 
+  "DateAcquired": "1955-04-06", 
+  "\ufeffTitle": "Knight (Ritter)", 
   "ObjectID": "61809"
 }

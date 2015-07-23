@@ -5,8 +5,7 @@
   "Artist": "Andrzej Pagowski", 
   "URL": "http://www.moma.org/collection/works/5984", 
   "CuratorApproved": "Y", 
-  "Title": "Psie Serce (Heart of a Dog)", 
-  "DateAcquired": "1986-10-07", 
+  "CreditLine": "Purchase", 
   "Date": "1982", 
   "ArtistID": 4468, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "272.1986", 
-  "ArtistBio": "Polish, born 1953", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(Polish, born 1953)", 
+  "DateAcquired": "1986-10-07", 
+  "\ufeffTitle": "Psie Serce (Heart of a Dog)", 
   "ObjectID": "5984"
 }

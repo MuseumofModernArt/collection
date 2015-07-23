@@ -1,12 +1,11 @@
 {
   "Medium": "Pochoir", 
-  "Dimensions": "irreg. composition  9/16 x 9/16\" (1.5 x 1.4 cm)  page  3 3/4 x 5 11/16\" (9 x 14.5 cm)", 
+  "Dimensions": "irreg. composition  9/16 x 9/16\" (1.5 x 1.4 cm)\r\npage  3 3/4 x 5 11/16\" (9 x 14.5 cm)", 
   "Classification": "Illustrated Book", 
   "Artist": "Marcel Duchamp", 
   "URL": "http://www.moma.org/collection/works/16158", 
   "CuratorApproved": "Y", 
-  "Title": "Marcel Duchamp", 
-  "DateAcquired": "1987-10-20", 
+  "CreditLine": "Mary Ellen Meehan Fund and Purchase", 
   "Date": "1941", 
   "ArtistID": 1634, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "349.1987", 
-  "ArtistBio": "American, born France. 1887\u20131968", 
-  "CreditLine": "Mary Ellen Meehan Fund and Purchase", 
+  "ArtistBio": "(American, born France. 1887\u20131968)", 
+  "DateAcquired": "1987-10-20", 
+  "\ufeffTitle": "Marcel Duchamp", 
   "ObjectID": "16158"
 }

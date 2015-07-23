@@ -5,8 +5,7 @@
   "Artist": "Fred Williams", 
   "URL": "http://www.moma.org/collection/works/68908", 
   "CuratorApproved": "Y", 
-  "Title": "Kallista", 
-  "DateAcquired": "1973-10-24", 
+  "CreditLine": "Gift of James Mollison", 
   "Date": "(1962)", 
   "ArtistID": 6378, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "425.1973", 
-  "ArtistBio": "Australian, 1927\u20131982", 
-  "CreditLine": "Gift of James Mollison", 
+  "ArtistBio": "(Australian, 1927\u20131982)", 
+  "DateAcquired": "1973-10-24", 
+  "\ufeffTitle": "Kallista", 
   "ObjectID": "68908"
 }

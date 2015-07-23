@@ -1,12 +1,11 @@
 {
   "Medium": "Portfolio of six etchings", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "Masuo Ikeda", 
   "URL": "http://www.moma.org/collection/works/67011", 
   "CuratorApproved": "Y", 
-  "Title": "Portrait of Sphinx", 
-  "DateAcquired": "1971-03-30", 
+  "CreditLine": "Gift of The Helen and Felix Juda Foundation", 
   "Date": "(1970)", 
   "ArtistID": 2801, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "327.1971.1-6", 
-  "ArtistBio": "Japanese, 1934\u20131997", 
-  "CreditLine": "Gift of The Helen and Felix Juda Foundation", 
+  "ArtistBio": "(Japanese, 1934\u20131997)", 
+  "DateAcquired": "1971-03-30", 
+  "\ufeffTitle": "Portrait of Sphinx", 
   "ObjectID": "67011"
 }

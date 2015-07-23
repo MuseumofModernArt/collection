@@ -5,8 +5,7 @@
   "Artist": "John Baldessari", 
   "URL": "http://www.moma.org/collection/works/36250", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled II", 
-  "DateAcquired": "1998-04-23", 
+  "CreditLine": "Gift of Brooke Alexander and of the artist", 
   "Date": "(1991)", 
   "ArtistID": 304, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "316.1998", 
-  "ArtistBio": "American, born 1931", 
-  "CreditLine": "Gift of Brooke Alexander and of the artist", 
+  "ArtistBio": "(American, born 1931)", 
+  "DateAcquired": "1998-04-23", 
+  "\ufeffTitle": "Untitled II", 
   "ObjectID": "36250"
 }

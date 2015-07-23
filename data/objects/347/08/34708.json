@@ -5,8 +5,7 @@
   "Artist": "Bob Thompson", 
   "URL": "http://www.moma.org/collection/works/34708", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled (After Poussin)", 
-  "DateAcquired": "1971-03-30", 
+  "CreditLine": "Gift of Lillian L. and Jack I. Poses", 
   "Date": "(1964)", 
   "ArtistID": 5858, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "143.1971", 
-  "ArtistBio": "American, 1937\u20131965", 
-  "CreditLine": "Gift of Lillian L. and Jack I. Poses", 
+  "ArtistBio": "(American, 1937\u20131965)", 
+  "DateAcquired": "1971-03-30", 
+  "\ufeffTitle": "Untitled (After Poussin)", 
   "ObjectID": "34708"
 }

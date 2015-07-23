@@ -5,8 +5,7 @@
   "Artist": "Christopher Richard Wynne Nevinson", 
   "URL": "http://www.moma.org/collection/works/69151", 
   "CuratorApproved": "Y", 
-  "Title": "Great White Way", 
-  "DateAcquired": "1990-10-23", 
+  "CreditLine": "William K. Simpson Fund (in memory of Abby Aldrich Rockefeller)", 
   "Date": "1920", 
   "ArtistID": 4279, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "439.1990", 
-  "ArtistBio": "British, 1889\u20131946", 
-  "CreditLine": "William K. Simpson Fund (in memory of Abby Aldrich Rockefeller)", 
+  "ArtistBio": "(British, 1889\u20131946)", 
+  "DateAcquired": "1990-10-23", 
+  "\ufeffTitle": "Great White Way", 
   "ObjectID": "69151"
 }

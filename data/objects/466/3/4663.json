@@ -5,8 +5,7 @@
   "Artist": "Kaj Franck", 
   "URL": "http://www.moma.org/collection/works/4663", 
   "CuratorApproved": "Y", 
-  "Title": "Tumbler (2746)", 
-  "DateAcquired": "2001-04-30", 
+  "CreditLine": "Given anonymously", 
   "Date": "1954", 
   "ArtistID": 1968, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "1300.2001", 
-  "ArtistBio": "Finnish, 1911\u20131989", 
-  "CreditLine": "Given anonymously", 
+  "ArtistBio": "(Finnish, 1911\u20131989)", 
+  "DateAcquired": "2001-04-30", 
+  "\ufeffTitle": "Tumbler (2746)", 
   "ObjectID": "4663"
 }

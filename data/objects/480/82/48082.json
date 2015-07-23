@@ -5,8 +5,7 @@
   "Artist": "Henri Le Secq", 
   "URL": "http://www.moma.org/collection/works/48082", 
   "CuratorApproved": "Y", 
-  "Title": "Still Life", 
-  "DateAcquired": "1972-05-02", 
+  "CreditLine": "Purchase", 
   "Date": "c. 1852", 
   "ArtistID": 3434, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "190.1972", 
-  "ArtistBio": "French, 1818\u20131882", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(French, 1818\u20131882)", 
+  "DateAcquired": "1972-05-02", 
+  "\ufeffTitle": "Still Life", 
   "ObjectID": "48082"
 }

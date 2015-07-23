@@ -5,8 +5,7 @@
   "Artist": "Unknown photographer", 
   "URL": "http://www.moma.org/collection/works/44627", 
   "CuratorApproved": "Y", 
-  "Title": "British Workers and Tanks They Built, World War I", 
-  "DateAcquired": "1984-01-12", 
+  "CreditLine": "Purchase", 
   "Date": "1914-19", 
   "ArtistID": 6028, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "43.1984", 
-  "ArtistBio": "NULL", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "", 
+  "DateAcquired": "1984-01-12", 
+  "\ufeffTitle": "British Workers and Tanks They Built, World War I", 
   "ObjectID": "44627"
 }

@@ -5,8 +5,7 @@
   "Artist": "George Nelson", 
   "URL": "http://www.moma.org/collection/works/3221", 
   "CuratorApproved": "Y", 
-  "Title": "Tray Table (model 4950)", 
-  "DateAcquired": "1984-10-30", 
+  "CreditLine": "Gift of Fifty/50", 
   "Date": "1948", 
   "ArtistID": 4257, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "296.1984", 
-  "ArtistBio": "American, 1908\u20131986", 
-  "CreditLine": "Gift of Fifty/50", 
+  "ArtistBio": "(American, 1908\u20131986)", 
+  "DateAcquired": "1984-10-30", 
+  "\ufeffTitle": "Tray Table (model 4950)", 
   "ObjectID": "3221"
 }

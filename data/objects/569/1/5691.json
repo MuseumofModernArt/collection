@@ -5,8 +5,7 @@
   "Artist": "Keith Godard", 
   "URL": "http://www.moma.org/collection/works/5691", 
   "CuratorApproved": "Y", 
-  "Title": "Yale Film Festival", 
-  "DateAcquired": "1968-03-07", 
+  "CreditLine": "Gift of the designer", 
   "Date": "1968", 
   "ArtistID": 2200, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "209.1968", 
-  "ArtistBio": "British, born 1942", 
-  "CreditLine": "Gift of the designer", 
+  "ArtistBio": "(British, born 1942)", 
+  "DateAcquired": "1968-03-07", 
+  "\ufeffTitle": "Yale Film Festival", 
   "ObjectID": "5691"
 }

@@ -1,12 +1,11 @@
 {
   "Medium": "Illustrated book with thirteen woodcuts and seven relief halftones", 
-  "Dimensions": "page: 21 1/16 x 13 15/16\" (53 x 35.4 cm)  Prints: various dimensions", 
+  "Dimensions": "page: 21 1/16 x 13 15/16\" (53 x 35.4 cm)\r\nPrints: various dimensions", 
   "Classification": "Illustrated Book", 
   "Artist": "Antonio Frasconi", 
   "URL": "http://www.moma.org/collection/works/16162", 
   "CuratorApproved": "Y", 
-  "Title": "Viet Nam!", 
-  "DateAcquired": "1987-10-20", 
+  "CreditLine": "Walter Bareiss Fund and Gift of Leo Auerbach (by exchange)", 
   "Date": "1967", 
   "ArtistID": 1975, 
   "Keywords": [
@@ -16,7 +15,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "351.1987.1-20", 
-  "ArtistBio": "American, born Argentina. 1919\u20132013", 
-  "CreditLine": "Walter Bareiss Fund and Gift of Leo Auerbach (by exchange)", 
+  "ArtistBio": "(American, born Argentina. 1919\u20132013)", 
+  "DateAcquired": "1987-10-20", 
+  "\ufeffTitle": "Viet Nam!", 
   "ObjectID": "16162"
 }

@@ -5,8 +5,7 @@
   "Artist": "Walter Chappell", 
   "URL": "http://www.moma.org/collection/works/52657", 
   "CuratorApproved": "Y", 
-  "Title": "Number 10", 
-  "DateAcquired": "1959-04-22", 
+  "CreditLine": "Gift of the photographer", 
   "Date": "1958", 
   "ArtistID": 1070, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "403.1959", 
-  "ArtistBio": "American, born 1925", 
-  "CreditLine": "Gift of the photographer", 
+  "ArtistBio": "(American, born 1925)", 
+  "DateAcquired": "1959-04-22", 
+  "\ufeffTitle": "Number 10", 
   "ObjectID": "52657"
 }

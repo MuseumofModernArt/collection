@@ -5,8 +5,7 @@
   "Artist": "Unknown Artist", 
   "URL": "http://www.moma.org/collection/works/8513", 
   "CuratorApproved": "Y", 
-  "Title": "Wundervoll ist das zarte, edle Linienspiel der sch\u00f6nen", 
-  "DateAcquired": "1999-12-10", 
+  "CreditLine": "Jan Tschichold Collection, Gift of Philip Johnson", 
   "Date": "Unknown", 
   "ArtistID": 6026, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "1039.1999.1", 
-  "ArtistBio": "Nationality Unknown", 
-  "CreditLine": "Jan Tschichold Collection, Gift of Philip Johnson", 
+  "ArtistBio": "(Nationality Unknown)", 
+  "DateAcquired": "1999-12-10", 
+  "\ufeffTitle": "Wundervoll ist das zarte, edle Linienspiel der sch\u00f6nen", 
   "ObjectID": "8513"
 }

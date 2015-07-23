@@ -1,12 +1,11 @@
 {
   "Medium": "Acid-proof enamaled steel", 
-  "Dimensions": ".1-.4: 2 1/4 x 4 7/8\" (5.7 x 12.4 cm)  .5: 5 3/4 x 10\" (14.6 x 25.4 cm)", 
+  "Dimensions": ".1-.4: 2 1/4 x 4 7/8\" (5.7 x 12.4 cm)\r\n.5: 5 3/4 x 10\" (14.6 x 25.4 cm)", 
   "Classification": "A&D Design", 
   "Artist": "Herbert Krenchel", 
   "URL": "http://www.moma.org/collection/works/4670", 
   "CuratorApproved": "Y", 
-  "Title": "Krenit Bowl", 
-  "DateAcquired": "2001-04-30", 
+  "CreditLine": "Given anonymously", 
   "Date": "1953", 
   "ArtistID": 8575, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "1307.2001.1-5", 
-  "ArtistBio": "Danish, born 1922", 
-  "CreditLine": "Given anonymously", 
+  "ArtistBio": "(Danish, born 1922)", 
+  "DateAcquired": "2001-04-30", 
+  "\ufeffTitle": "Krenit Bowl", 
   "ObjectID": "4670"
 }

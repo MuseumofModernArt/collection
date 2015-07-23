@@ -5,8 +5,7 @@
   "Artist": "Robert Adams", 
   "URL": "http://www.moma.org/collection/works/56985", 
   "CuratorApproved": "Y", 
-  "Title": "Newly Completed Tract House, Colorado Springs", 
-  "DateAcquired": "1996-12-10", 
+  "CreditLine": "Gift of Jeffrey Fraenkel and Frish Brandt", 
   "Date": "1968", 
   "ArtistID": 66, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "856.1996", 
-  "ArtistBio": "American, born 1937", 
-  "CreditLine": "Gift of Jeffrey Fraenkel and Frish Brandt", 
+  "ArtistBio": "(American, born 1937)", 
+  "DateAcquired": "1996-12-10", 
+  "\ufeffTitle": "Newly Completed Tract House, Colorado Springs", 
   "ObjectID": "56985"
 }

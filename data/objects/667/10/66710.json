@@ -5,8 +5,7 @@
   "Artist": "Jacques Villon", 
   "URL": "http://www.moma.org/collection/works/66710", 
   "CuratorApproved": "Y", 
-  "Title": "The Armchair", 
-  "DateAcquired": "1952-11-07", 
+  "CreditLine": "Gift of Mrs. Bertha M. Slattery", 
   "Date": "(1951)", 
   "ArtistID": 6165, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "314.1952", 
-  "ArtistBio": "French, 1875\u20131963", 
-  "CreditLine": "Gift of Mrs. Bertha M. Slattery", 
+  "ArtistBio": "(French, 1875\u20131963)", 
+  "DateAcquired": "1952-11-07", 
+  "\ufeffTitle": "The Armchair", 
   "ObjectID": "66710"
 }

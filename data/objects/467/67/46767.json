@@ -5,8 +5,7 @@
   "Artist": "John Coplans", 
   "URL": "http://www.moma.org/collection/works/46767", 
   "CuratorApproved": "Y", 
-  "Title": "Self-Portrait", 
-  "DateAcquired": "1986-03-20", 
+  "CreditLine": "The Family of Man Fund", 
   "Date": "1985", 
   "ArtistID": 1237, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "134.1986", 
-  "ArtistBio": "British, 1920\u20132003", 
-  "CreditLine": "The Family of Man Fund", 
+  "ArtistBio": "(British, 1920\u20132003)", 
+  "DateAcquired": "1986-03-20", 
+  "\ufeffTitle": "Self-Portrait", 
   "ObjectID": "46767"
 }

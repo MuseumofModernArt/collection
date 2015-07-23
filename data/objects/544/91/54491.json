@@ -5,8 +5,7 @@
   "Artist": "Maxime Du Camp", 
   "URL": "http://www.moma.org/collection/works/54491", 
   "CuratorApproved": "Y", 
-  "Title": "Temple D'amada", 
-  "DateAcquired": "1981-12-17", 
+  "CreditLine": "Gift of Warner Communications, Inc.", 
   "Date": "1849-51", 
   "ArtistID": 1629, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "505.1981", 
-  "ArtistBio": "French, 1822\u20131894", 
-  "CreditLine": "Gift of Warner Communications, Inc.", 
+  "ArtistBio": "(French, 1822\u20131894)", 
+  "DateAcquired": "1981-12-17", 
+  "\ufeffTitle": "Temple D'amada", 
   "ObjectID": "54491"
 }

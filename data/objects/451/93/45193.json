@@ -5,8 +5,7 @@
   "Artist": "Rudy Burckhardt", 
   "URL": "http://www.moma.org/collection/works/45193", 
   "CuratorApproved": "Y", 
-  "Title": "A View From Brooklyn I", 
-  "DateAcquired": "1993-03-11", 
+  "CreditLine": "Gift of CameraWorks, Inc. and Purchase", 
   "Date": "1954", 
   "ArtistID": 7653, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "58.1993", 
-  "ArtistBio": "American, born Switzerland. 1914\u20131999", 
-  "CreditLine": "Gift of CameraWorks, Inc. and Purchase", 
+  "ArtistBio": "(American, born Switzerland. 1914\u20131999)", 
+  "DateAcquired": "1993-03-11", 
+  "\ufeffTitle": "A View From Brooklyn I", 
   "ObjectID": "45193"
 }

@@ -5,8 +5,7 @@
   "Artist": "Marcel Duchamp", 
   "URL": "http://www.moma.org/collection/works/37779", 
   "CuratorApproved": "Y", 
-  "Title": "Sundays", 
-  "DateAcquired": "1990-12-10", 
+  "CreditLine": "Mary Sisler Bequest", 
   "Date": "1909", 
   "ArtistID": 1634, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "677.1990", 
-  "ArtistBio": "American, born France. 1887\u20131968", 
-  "CreditLine": "Mary Sisler Bequest", 
+  "ArtistBio": "(American, born France. 1887\u20131968)", 
+  "DateAcquired": "1990-12-10", 
+  "\ufeffTitle": "Sundays", 
   "ObjectID": "37779"
 }

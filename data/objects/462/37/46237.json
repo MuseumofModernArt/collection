@@ -5,8 +5,7 @@
   "Artist": "Georgy Khomzor", 
   "URL": "http://www.moma.org/collection/works/46237", 
   "CuratorApproved": "Y", 
-  "Title": "I Will Take Revenge!", 
-  "DateAcquired": "1999-03-11", 
+  "CreditLine": "Gift of Pierre N. Leval", 
   "Date": "1943", 
   "ArtistID": 8322, 
   "Keywords": [
@@ -16,7 +15,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "97.1999", 
-  "ArtistBio": "Russian, 1914\u20131990", 
-  "CreditLine": "Gift of Pierre N. Leval", 
+  "ArtistBio": "(Russian, 1914\u20131990)", 
+  "DateAcquired": "1999-03-11", 
+  "\ufeffTitle": "I Will Take Revenge!", 
   "ObjectID": "46237"
 }

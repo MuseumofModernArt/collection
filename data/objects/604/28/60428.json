@@ -1,12 +1,11 @@
 {
   "Medium": "Portfolio of one screenprint and eight reproductions", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "Tadanori Yokoo", 
   "URL": "http://www.moma.org/collection/works/60428", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1973-01-04", 
+  "CreditLine": "Gift of Mr. and Mrs. Wolfgang Schoenborn", 
   "Date": "(1971)", 
   "ArtistID": 6502, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "28.1973", 
-  "ArtistBio": "Japanese, born 1936", 
-  "CreditLine": "Gift of Mr. and Mrs. Wolfgang Schoenborn", 
+  "ArtistBio": "(Japanese, born 1936)", 
+  "DateAcquired": "1973-01-04", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "60428"
 }

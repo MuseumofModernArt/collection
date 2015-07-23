@@ -5,8 +5,7 @@
   "Artist": "Lovis Corinth", 
   "URL": "http://www.moma.org/collection/works/66479", 
   "CuratorApproved": "Y", 
-  "Title": "The Victor from Compositions", 
-  "DateAcquired": "1956-10-25", 
+  "CreditLine": "Gift of J.B. Neumann", 
   "Date": "(1921-22)", 
   "ArtistID": 1243, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "303.1956", 
-  "ArtistBio": "German, 1858\u20131925", 
-  "CreditLine": "Gift of J.B. Neumann", 
+  "ArtistBio": "(German, 1858\u20131925)", 
+  "DateAcquired": "1956-10-25", 
+  "\ufeffTitle": "The Victor (Der Sieger) from Compositions (Kompositionen)", 
   "ObjectID": "66479"
 }

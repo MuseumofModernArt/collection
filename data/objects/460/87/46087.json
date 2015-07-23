@@ -5,8 +5,7 @@
   "Artist": "Lucas Samaras", 
   "URL": "http://www.moma.org/collection/works/46087", 
   "CuratorApproved": "Y", 
-  "Title": "Panorama", 
-  "DateAcquired": "1992-01-09", 
+  "CreditLine": "Gift of Robert and Gayle Greenhill", 
   "Date": "February 23, 1983", 
   "ArtistID": 5134, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "91.1992", 
-  "ArtistBio": "American, born Greece 1936", 
-  "CreditLine": "Gift of Robert and Gayle Greenhill", 
+  "ArtistBio": "(American, born Greece 1936)", 
+  "DateAcquired": "1992-01-09", 
+  "\ufeffTitle": "Panorama", 
   "ObjectID": "46087"
 }

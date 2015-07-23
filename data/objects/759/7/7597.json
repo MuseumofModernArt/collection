@@ -5,8 +5,7 @@
   "Artist": "Hajo Rose", 
   "URL": "http://www.moma.org/collection/works/7597", 
   "CuratorApproved": "Y", 
-  "Title": "Foto's Carel Blazer", 
-  "DateAcquired": "1977-11-28", 
+  "CreditLine": "Jan Tschichold Collection, Gift of Philip Johnson", 
   "Date": "1935", 
   "ArtistID": 8237, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "578.1977", 
-  "ArtistBio": "German, 1910\u20131989", 
-  "CreditLine": "Jan Tschichold Collection, Gift of Philip Johnson", 
+  "ArtistBio": "(German, 1910\u20131989)", 
+  "DateAcquired": "1977-11-28", 
+  "\ufeffTitle": "Foto's Carel Blazer", 
   "ObjectID": "7597"
 }

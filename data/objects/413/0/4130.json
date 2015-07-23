@@ -1,12 +1,11 @@
 {
   "Medium": "Plastic and metal", 
-  "Dimensions": "expanded: 16 x 3 1/4\" (40.6 x 8.3 cm)  compact: 6 x 3 1/4\" (15.2 x 8.3 cm)", 
+  "Dimensions": "expanded: 16 x 3 1/4\" (40.6 x 8.3 cm)\r\ncompact: 6 x 3 1/4\" (15.2 x 8.3 cm)", 
   "Classification": "A&D Design", 
   "Artist": "Koch Creations, Lynbrook, NY", 
   "URL": "http://www.moma.org/collection/works/4130", 
   "CuratorApproved": "Y", 
-  "Title": "Lampette Reading Lamp (model E6)", 
-  "DateAcquired": "1963-11-12", 
+  "CreditLine": "Purchase", 
   "Date": "1963", 
   "Keywords": [
     "online art collection", 
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "585.1963", 
-  "ArtistBio": "American", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American)", 
+  "DateAcquired": "1963-11-12", 
+  "\ufeffTitle": "Lampette Reading Lamp (model E6)", 
   "ObjectID": "4130"
 }

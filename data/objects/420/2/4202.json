@@ -1,12 +1,11 @@
 {
   "Medium": "Glazed earthenware", 
-  "Dimensions": ".1-.2: 4 5/8 x 4 1/8\" (11.7 x 10.5 cm)  .3-.4: 2 1/4 x 4 1/8\" (5.7 x 10.5 cm)  lids: 4 5/16\" (11 cm)", 
+  "Dimensions": ".1-.2: 4 5/8 x 4 1/8\" (11.7 x 10.5 cm)\r\n.3-.4: 2 1/4 x 4 1/8\" (5.7 x 10.5 cm)\r\nlids: 4 5/16\" (11 cm)", 
   "Classification": "A&D Design", 
   "Artist": "Kaj Franck", 
   "URL": "http://www.moma.org/collection/works/4202", 
   "CuratorApproved": "Y", 
-  "Title": "Kilta Covered Containers", 
-  "DateAcquired": "1954-12-16", 
+  "CreditLine": "Gift of Waertsila Corp.", 
   "Date": "1948", 
   "ArtistID": 1968, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "669.1954.1-4", 
-  "ArtistBio": "Finnish, 1911\u20131989", 
-  "CreditLine": "Gift of Waertsila Corp.", 
+  "ArtistBio": "(Finnish, 1911\u20131989)", 
+  "DateAcquired": "1954-12-16", 
+  "\ufeffTitle": "Kilta Covered Containers", 
   "ObjectID": "4202"
 }

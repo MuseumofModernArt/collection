@@ -1,12 +1,11 @@
 {
-  "Medium": "NULL", 
+  "Medium": "", 
   "Dimensions": "6 x 4 3/16\" (15.2 x 10.6 cm)", 
   "Classification": "A&D Graphic Design", 
   "Artist": "Franz Wilhelm Seiwert", 
   "URL": "http://www.moma.org/collection/works/7688", 
   "CuratorApproved": "Y", 
-  "Title": "Lumpenball No 22, 23, 24: Die Fester der Progressiven K\u00fcnstler", 
-  "DateAcquired": "1977-11-28", 
+  "CreditLine": "Jan Tschichold Collection, Gift of Philip Johnson", 
   "Date": "c. 1932", 
   "ArtistID": 8238, 
   "Keywords": [
@@ -20,7 +19,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "599.1977", 
-  "ArtistBio": "German, 1894\u20131933", 
-  "CreditLine": "Jan Tschichold Collection, Gift of Philip Johnson", 
+  "ArtistBio": "(German, 1894\u20131933)", 
+  "DateAcquired": "1977-11-28", 
+  "\ufeffTitle": "Lumpenball No 22, 23, 24: Die Fester der Progressiven K\u00fcnstler", 
   "ObjectID": "7688"
 }

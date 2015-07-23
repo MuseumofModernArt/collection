@@ -5,8 +5,7 @@
   "Artist": "Max Ernst", 
   "URL": "http://www.moma.org/collection/works/33501", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1952-05-20", 
+  "CreditLine": "Given anonymously", 
   "Date": "(1920s)", 
   "ArtistID": 1752, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "47.1952", 
-  "ArtistBio": "French, born Germany. 1891\u20131976", 
-  "CreditLine": "Given anonymously", 
+  "ArtistBio": "(French, born Germany. 1891\u20131976)", 
+  "DateAcquired": "1952-05-20", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "33501"
 }

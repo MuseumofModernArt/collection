@@ -5,8 +5,7 @@
   "Artist": "Hans Bellmer", 
   "URL": "http://www.moma.org/collection/works/43935", 
   "CuratorApproved": "Y", 
-  "Title": "The Doll", 
-  "DateAcquired": "1994-01-13", 
+  "CreditLine": "Samuel J. Wagstaff, Jr. Fund", 
   "Date": "1935-37", 
   "ArtistID": 452, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "8.1994", 
-  "ArtistBio": "German, 1902\u20131975", 
-  "CreditLine": "Samuel J. Wagstaff, Jr. Fund", 
+  "ArtistBio": "(German, 1902\u20131975)", 
+  "DateAcquired": "1994-01-13", 
+  "\ufeffTitle": "The Doll", 
   "ObjectID": "43935"
 }

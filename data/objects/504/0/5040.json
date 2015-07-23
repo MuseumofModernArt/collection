@@ -5,8 +5,7 @@
   "Artist": "E. McKnight Kauffer", 
   "URL": "http://www.moma.org/collection/works/5040", 
   "CuratorApproved": "Y", 
-  "Title": "Civil Aeronautics Administration", 
-  "DateAcquired": "1944-05-02", 
+  "CreditLine": "Gift of the Civil Aeronautics Administration", 
   "Date": "1943", 
   "ArtistID": 3020, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "94.1944", 
-  "ArtistBio": "American, 1890\u20131954", 
-  "CreditLine": "Gift of the Civil Aeronautics Administration", 
+  "ArtistBio": "(American, 1890\u20131954)", 
+  "DateAcquired": "1944-05-02", 
+  "\ufeffTitle": "Civil Aeronautics Administration", 
   "ObjectID": "5040"
 }

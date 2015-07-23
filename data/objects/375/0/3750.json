@@ -5,8 +5,7 @@
   "Artist": "Peer B\u00fccking", 
   "URL": "http://www.moma.org/collection/works/3750", 
   "CuratorApproved": "Y", 
-  "Title": "Side Chair", 
-  "DateAcquired": "1988-11-22", 
+  "CreditLine": "Edward Larrabee Barnes Purchase Fund", 
   "Date": "1928", 
   "ArtistID": 846, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "399.1988", 
-  "ArtistBio": "German, 1906\u20131940", 
-  "CreditLine": "Edward Larrabee Barnes Purchase Fund", 
+  "ArtistBio": "(German, 1906\u20131940)", 
+  "DateAcquired": "1988-11-22", 
+  "\ufeffTitle": "Side Chair", 
   "ObjectID": "3750"
 }

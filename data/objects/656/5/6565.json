@@ -5,8 +5,7 @@
   "Artist": "E. McKnight Kauffer", 
   "URL": "http://www.moma.org/collection/works/6565", 
   "CuratorApproved": "Y", 
-  "Title": "Museum of Natural History, South Kensington", 
-  "DateAcquired": "1943-05-12", 
+  "CreditLine": "Gift of G. E. Kidder Smith", 
   "Date": "1923", 
   "ArtistID": 3020, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "369.1943", 
-  "ArtistBio": "American, 1890\u20131954", 
-  "CreditLine": "Gift of G. E. Kidder Smith", 
+  "ArtistBio": "(American, 1890\u20131954)", 
+  "DateAcquired": "1943-05-12", 
+  "\ufeffTitle": "Museum of Natural History, South Kensington (Poster for London Transport)", 
   "ObjectID": "6565"
 }

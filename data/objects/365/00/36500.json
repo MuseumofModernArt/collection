@@ -5,8 +5,7 @@
   "Artist": "Charles Burchfield", 
   "URL": "http://www.moma.org/collection/works/36500", 
   "CuratorApproved": "Y", 
-  "Title": "The Night Wind", 
-  "DateAcquired": "1960-11-16", 
+  "CreditLine": "Gift of A. Conger Goodyear", 
   "Date": "1918", 
   "ArtistID": 870, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "359.1960", 
-  "ArtistBio": "American, 1893\u20131967", 
-  "CreditLine": "Gift of A. Conger Goodyear", 
+  "ArtistBio": "(American, 1893\u20131967)", 
+  "DateAcquired": "1960-11-16", 
+  "\ufeffTitle": "The Night Wind", 
   "ObjectID": "36500"
 }

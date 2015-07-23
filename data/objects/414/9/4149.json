@@ -5,8 +5,7 @@
   "Artist": "Karl Trabert", 
   "URL": "http://www.moma.org/collection/works/4149", 
   "CuratorApproved": "Y", 
-  "Title": "Desk Lamp", 
-  "DateAcquired": "1980-10-30", 
+  "CreditLine": "Philip Johnson Fund", 
   "Date": "c. 1930", 
   "ArtistID": 5918, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "633.1980", 
-  "ArtistBio": "German, died 1968", 
-  "CreditLine": "Philip Johnson Fund", 
+  "ArtistBio": "(German, died 1968)", 
+  "DateAcquired": "1980-10-30", 
+  "\ufeffTitle": "Desk Lamp", 
   "ObjectID": "4149"
 }

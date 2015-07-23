@@ -5,8 +5,7 @@
   "Artist": "Manuel \u00c1lvarez Bravo", 
   "URL": "http://www.moma.org/collection/works/46527", 
   "CuratorApproved": "Y", 
-  "Title": "The Pinwheels", 
-  "DateAcquired": "1967-03-07", 
+  "CreditLine": "Gift of Arthur M. Bullowa", 
   "Date": "c. 1965", 
   "ArtistID": 135, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "100.1967", 
-  "ArtistBio": "Mexican, 1902\u20132002", 
-  "CreditLine": "Gift of Arthur M. Bullowa", 
+  "ArtistBio": "(Mexican, 1902\u20132002)", 
+  "DateAcquired": "1967-03-07", 
+  "\ufeffTitle": "The Pinwheels", 
   "ObjectID": "46527"
 }

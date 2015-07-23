@@ -5,8 +5,7 @@
   "Artist": "Pablo Picasso", 
   "URL": "http://www.moma.org/collection/works/65394", 
   "CuratorApproved": "Y", 
-  "Title": "The Fauns and the Centauress (Les faunes et la centauresse)", 
-  "DateAcquired": "1947-10-16", 
+  "CreditLine": "Acquired through the Lillie P. Bliss Bequest", 
   "Date": "(January 26, 1947)", 
   "ArtistID": 4609, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "258.1947", 
-  "ArtistBio": "Spanish, 1881\u20131973", 
-  "CreditLine": "Acquired through the Lillie P. Bliss Bequest", 
+  "ArtistBio": "(Spanish, 1881\u20131973)", 
+  "DateAcquired": "1947-10-16", 
+  "\ufeffTitle": "The Fauns and the Centauress (Les faunes et la centauresse)", 
   "ObjectID": "65394"
 }

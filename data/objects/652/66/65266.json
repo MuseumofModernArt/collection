@@ -5,8 +5,7 @@
   "Artist": "Andr\u00e9 Dunoyer de Segonzac", 
   "URL": "http://www.moma.org/collection/works/65266", 
   "CuratorApproved": "Y", 
-  "Title": "The Storm", 
-  "DateAcquired": "1963-04-09", 
+  "CreditLine": "Gift of John Torson", 
   "Date": "(1933)", 
   "ArtistID": 5318, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "252.1963", 
-  "ArtistBio": "French, 1884\u20131974", 
-  "CreditLine": "Gift of John Torson", 
+  "ArtistBio": "(French, 1884\u20131974)", 
+  "DateAcquired": "1963-04-09", 
+  "\ufeffTitle": "The Storm", 
   "ObjectID": "65266"
 }

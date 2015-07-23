@@ -1,12 +1,11 @@
 {
   "Medium": "Screenprint", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
-  "Artist": "Houston Conwill", 
+  "Artist": "Houston Conwill, Joseph De Pace, Estella Conwill Majozo", 
   "URL": "http://www.moma.org/collection/works/63119", 
   "CuratorApproved": "Y", 
-  "Title": "Du Sable's Journey", 
-  "DateAcquired": "1994-01-25", 
+  "CreditLine": "Gift of Agnes Gund", 
   "Date": "1991", 
   "ArtistID": 7126, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "144.1994", 
-  "ArtistBio": "American, born 1947", 
-  "CreditLine": "Gift of Agnes Gund", 
+  "ArtistBio": "(American, born 1947) (American, born 1954) (American, born 1949)", 
+  "DateAcquired": "1994-01-25", 
+  "\ufeffTitle": "Du Sable's Journey", 
   "ObjectID": "63119"
 }

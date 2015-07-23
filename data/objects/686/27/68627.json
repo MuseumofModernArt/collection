@@ -1,12 +1,11 @@
 {
   "Medium": "Lithograph, with watercolor additions", 
-  "Dimensions": "irreg composition  28 7/16 x 40 1/2\" (72.2 x 102.8 cm)  irreg sheet  28 7/16 x 40 1/2\" (72.2 x 102.8 cm)", 
+  "Dimensions": "irreg composition  28 7/16 x 40 1/2\" (72.2 x 102.8 cm)\r\nirreg sheet  28 7/16 x 40 1/2\" (72.2 x 102.8 cm)", 
   "Classification": "Print", 
   "Artist": "Charles Christopher Hill", 
   "URL": "http://www.moma.org/collection/works/68627", 
   "CuratorApproved": "Y", 
-  "Title": "Armstrong", 
-  "DateAcquired": "1978-05-22", 
+  "CreditLine": "John B. Turner Fund", 
   "Date": "1977", 
   "ArtistID": 2646, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "410.1978", 
-  "ArtistBio": "American, born 1948", 
-  "CreditLine": "John B. Turner Fund", 
+  "ArtistBio": "(American, born 1948)", 
+  "DateAcquired": "1978-05-22", 
+  "\ufeffTitle": "Armstrong", 
   "ObjectID": "68627"
 }

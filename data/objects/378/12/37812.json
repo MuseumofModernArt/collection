@@ -5,8 +5,7 @@
   "Artist": "Lucio Fontana", 
   "URL": "http://www.moma.org/collection/works/37812", 
   "CuratorApproved": "Y", 
-  "Title": "Spatial Concept", 
-  "DateAcquired": "1977-05-10", 
+  "CreditLine": "Gift of Morton G. Neumann", 
   "Date": "1957", 
   "ArtistID": 1930, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "701.1976", 
-  "ArtistBio": "Italian, born Argentina. 1899\u20131968", 
-  "CreditLine": "Gift of Morton G. Neumann", 
+  "ArtistBio": "(Italian, born Argentina. 1899\u20131968)", 
+  "DateAcquired": "1977-05-10", 
+  "\ufeffTitle": "Spatial Concept", 
   "ObjectID": "37812"
 }

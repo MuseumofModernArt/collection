@@ -5,8 +5,7 @@
   "Artist": "Marli Ehrman", 
   "URL": "http://www.moma.org/collection/works/4511", 
   "CuratorApproved": "Y", 
-  "Title": "Original Fabric Sample (no. 13309)", 
-  "DateAcquired": "1942-01-01", 
+  "CreditLine": "Gift of the designer", 
   "Date": "1941", 
   "ArtistID": 1694, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "885.1942", 
-  "ArtistBio": "American, born Germany. 1904\u20131982", 
-  "CreditLine": "Gift of the designer", 
+  "ArtistBio": "(American, born Germany. 1904\u20131982)", 
+  "DateAcquired": "1942-01-01", 
+  "\ufeffTitle": "Original Fabric Sample (no. 13309)", 
   "ObjectID": "4511"
 }

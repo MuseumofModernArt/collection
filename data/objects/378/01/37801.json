@@ -5,8 +5,7 @@
   "Artist": "Georg Baselitz", 
   "URL": "http://www.moma.org/collection/works/37801", 
   "CuratorApproved": "Y", 
-  "Title": "I Made Richard Wagner as a Woman", 
-  "DateAcquired": "1995-10-10", 
+  "CreditLine": "Gift of William S. Rubin", 
   "Date": "1988", 
   "ArtistID": 366, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "695.1995", 
-  "ArtistBio": "German, born 1938", 
-  "CreditLine": "Gift of William S. Rubin", 
+  "ArtistBio": "(German, born 1938)", 
+  "DateAcquired": "1995-10-10", 
+  "\ufeffTitle": "I Made Richard Wagner as a Woman", 
   "ObjectID": "37801"
 }

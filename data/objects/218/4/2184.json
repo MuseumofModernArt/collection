@@ -5,8 +5,7 @@
   "Artist": "Richard Sapper", 
   "URL": "http://www.moma.org/collection/works/2184", 
   "CuratorApproved": "Y", 
-  "Title": "Electronic Stopwatch (model 520)", 
-  "DateAcquired": "1976-03-22", 
+  "CreditLine": "Gift of the manufacturer", 
   "Date": "1974", 
   "ArtistID": 5162, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "116.1976", 
-  "ArtistBio": "German, born 1932", 
-  "CreditLine": "Gift of the manufacturer", 
+  "ArtistBio": "(German, born 1932)", 
+  "DateAcquired": "1976-03-22", 
+  "\ufeffTitle": "Electronic Stopwatch (model 520)", 
   "ObjectID": "2184"
 }

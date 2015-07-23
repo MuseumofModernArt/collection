@@ -5,8 +5,7 @@
   "Artist": "Gilles Peress", 
   "URL": "http://www.moma.org/collection/works/58666", 
   "CuratorApproved": "Y", 
-  "Title": "Morning of Bobby Sands' Death, Ballymurphy, Belfast", 
-  "DateAcquired": "2001-06-14", 
+  "CreditLine": "The New York Times Collection", 
   "Date": "May 5, 1981", 
   "ArtistID": 4554, 
   "Keywords": [
@@ -20,7 +19,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "2073.2001", 
-  "ArtistBio": "French, born 1946", 
-  "CreditLine": "The New York Times Collection", 
+  "ArtistBio": "(French, born 1946)", 
+  "DateAcquired": "2001-06-14", 
+  "\ufeffTitle": "Morning of Bobby Sands' Death, Ballymurphy, Belfast", 
   "ObjectID": "58666"
 }

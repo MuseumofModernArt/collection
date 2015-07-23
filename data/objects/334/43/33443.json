@@ -5,8 +5,7 @@
   "Artist": "Andy Warhol", 
   "URL": "http://www.moma.org/collection/works/33443", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled ([Early Work] Woman)", 
-  "DateAcquired": "2013-10-23", 
+  "CreditLine": "Purchased with funds provided by Sarah-Ann and Werner H. Kramarsky", 
   "Date": "(c. 1946)", 
   "ArtistID": 6246, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "37.1999", 
-  "ArtistBio": "American, 1928\u20131987", 
-  "CreditLine": "Purchased with funds provided by Sarah-Ann and Werner H. Kramarsky", 
+  "ArtistBio": "(American, 1928\u20131987)", 
+  "DateAcquired": "2013-10-23", 
+  "\ufeffTitle": "Untitled ([Early Work] Woman)", 
   "ObjectID": "33443"
 }

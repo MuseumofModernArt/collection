@@ -5,8 +5,7 @@
   "Artist": "George Bellows", 
   "URL": "http://www.moma.org/collection/works/33354", 
   "CuratorApproved": "Y", 
-  "Title": "Under the Elevated", 
-  "DateAcquired": "1935-06-13", 
+  "CreditLine": "Gift of Abby Aldrich Rockefeller", 
   "Date": "(1908-12)", 
   "ArtistID": 455, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "27.1935", 
-  "ArtistBio": "American, 1882\u20131925", 
-  "CreditLine": "Gift of Abby Aldrich Rockefeller", 
+  "ArtistBio": "(American, 1882\u20131925)", 
+  "DateAcquired": "1935-06-13", 
+  "\ufeffTitle": "Under the Elevated", 
   "ObjectID": "33354"
 }

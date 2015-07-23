@@ -5,8 +5,7 @@
   "Artist": "Robert Indiana", 
   "URL": "http://www.moma.org/collection/works/5233", 
   "CuratorApproved": "Y", 
-  "Title": "Robert Indiana, New Art, Stable New York", 
-  "DateAcquired": "1968-03-07", 
+  "CreditLine": "Gift of the designer", 
   "Date": "1964", 
   "ArtistID": 2812, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "144.1968", 
-  "ArtistBio": "American, born 1928", 
-  "CreditLine": "Gift of the designer", 
+  "ArtistBio": "(American, born 1928)", 
+  "DateAcquired": "1968-03-07", 
+  "\ufeffTitle": "Robert Indiana, New Art, Stable New York", 
   "ObjectID": "5233"
 }

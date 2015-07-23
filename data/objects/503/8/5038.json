@@ -5,8 +5,7 @@
   "Artist": "Boris Prusakov", 
   "URL": "http://www.moma.org/collection/works/5038", 
   "CuratorApproved": "Y", 
-  "Title": "I Hurry to See Khaz Push", 
-  "DateAcquired": "1961-02-07", 
+  "CreditLine": "Given anonymously", 
   "Date": "1927-28", 
   "ArtistID": 4747, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "93.1961", 
-  "ArtistBio": "Russian", 
-  "CreditLine": "Given anonymously", 
+  "ArtistBio": "(Russian)", 
+  "DateAcquired": "1961-02-07", 
+  "\ufeffTitle": "I Hurry to See Khaz Push", 
   "ObjectID": "5038"
 }

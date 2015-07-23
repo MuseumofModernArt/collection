@@ -5,8 +5,7 @@
   "Artist": "Lurelle Guild", 
   "URL": "http://www.moma.org/collection/works/4252", 
   "CuratorApproved": "Y", 
-  "Title": "Mixing Bowl with Handle", 
-  "DateAcquired": "1956-10-25", 
+  "CreditLine": "Department Purchase", 
   "Date": "1953", 
   "ArtistID": 2402, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "500.1956", 
-  "ArtistBio": "American, 1898\u20131986", 
-  "CreditLine": "Department Purchase", 
+  "ArtistBio": "(American, 1898\u20131986)", 
+  "DateAcquired": "1956-10-25", 
+  "\ufeffTitle": "Mixing Bowl with Handle", 
   "ObjectID": "4252"
 }

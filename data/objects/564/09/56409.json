@@ -5,8 +5,7 @@
   "Artist": "Weegee (Arthur Fellig)", 
   "URL": "http://www.moma.org/collection/works/56409", 
   "CuratorApproved": "Y", 
-  "Title": "Booked on Suspicion of Killing a Policeman", 
-  "DateAcquired": "1978-12-14", 
+  "CreditLine": "Gift of Celeste Bartos", 
   "Date": "January 1941", 
   "ArtistID": 1842, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "788.1978", 
-  "ArtistBio": "American, born Austria. 1899\u20131968", 
-  "CreditLine": "Gift of Celeste Bartos", 
+  "ArtistBio": "(American, born Austria. 1899\u20131968)", 
+  "DateAcquired": "1978-12-14", 
+  "\ufeffTitle": "Booked on Suspicion of Killing a Policeman", 
   "ObjectID": "56409"
 }

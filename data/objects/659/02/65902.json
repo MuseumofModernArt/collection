@@ -5,8 +5,7 @@
   "Artist": "Paul Cadmus", 
   "URL": "http://www.moma.org/collection/works/65902", 
   "CuratorApproved": "Y", 
-  "Title": "Stewart's", 
-  "DateAcquired": "1968-04-23", 
+  "CreditLine": "Gift of Mr. Irving Drutman", 
   "Date": "(1934)", 
   "ArtistID": 909, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "279.1968", 
-  "ArtistBio": "American, 1904\u20131999", 
-  "CreditLine": "Gift of Mr. Irving Drutman", 
+  "ArtistBio": "(American, 1904\u20131999)", 
+  "DateAcquired": "1968-04-23", 
+  "\ufeffTitle": "Stewart's", 
   "ObjectID": "65902"
 }

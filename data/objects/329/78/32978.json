@@ -5,8 +5,7 @@
   "Artist": "Franz Marc", 
   "URL": "http://www.moma.org/collection/works/32978", 
   "CuratorApproved": "Y", 
-  "Title": "Blue Horse with Rainbow", 
-  "DateAcquired": "1964-01-07", 
+  "CreditLine": "John S. Newberry Collection", 
   "Date": "(1913)", 
   "ArtistID": 3748, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "2.1964", 
-  "ArtistBio": "German, 1880\u20131916", 
-  "CreditLine": "John S. Newberry Collection", 
+  "ArtistBio": "(German, 1880\u20131916)", 
+  "DateAcquired": "1964-01-07", 
+  "\ufeffTitle": "Blue Horse with Rainbow (Blaues Pferd mit Regenbogen)", 
   "ObjectID": "32978"
 }

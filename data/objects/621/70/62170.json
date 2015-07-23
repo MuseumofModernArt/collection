@@ -1,12 +1,11 @@
 {
-  "Medium": "Etching and aquatint  ", 
-  "Dimensions": "NULL", 
+  "Medium": "Etching and aquatint\r\n", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "Carol Hepper", 
   "URL": "http://www.moma.org/collection/works/62170", 
   "CuratorApproved": "Y", 
-  "Title": "Hot and Cold Running Water", 
-  "DateAcquired": "1997-03-06", 
+  "CreditLine": "Gift of Sally M. Stillman", 
   "Date": "(1995)", 
   "ArtistID": 7629, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "119.1997", 
-  "ArtistBio": "American, born 1953", 
-  "CreditLine": "Gift of Sally M. Stillman", 
+  "ArtistBio": "(American, born 1953)", 
+  "DateAcquired": "1997-03-06", 
+  "\ufeffTitle": "Hot and Cold Running Water", 
   "ObjectID": "62170"
 }

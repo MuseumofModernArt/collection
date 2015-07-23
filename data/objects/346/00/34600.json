@@ -5,8 +5,7 @@
   "Artist": "Wilhelm Lehmbruck", 
   "URL": "http://www.moma.org/collection/works/34600", 
   "CuratorApproved": "Y", 
-  "Title": "Head, Kneeling Woman", 
-  "DateAcquired": "1984-04-17", 
+  "CreditLine": "Purchase", 
   "Date": "1911", 
   "ArtistID": 3464, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "135.1984", 
-  "ArtistBio": "German, 1881\u20131919", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(German, 1881\u20131919)", 
+  "DateAcquired": "1984-04-17", 
+  "\ufeffTitle": "Head, Kneeling Woman (Kopf, Kniende Frau)", 
   "ObjectID": "34600"
 }

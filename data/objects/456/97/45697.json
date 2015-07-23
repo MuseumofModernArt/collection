@@ -5,8 +5,7 @@
   "Artist": "Samuel Bourne", 
   "URL": "http://www.moma.org/collection/works/45697", 
   "CuratorApproved": "Y", 
-  "Title": "Poplar Avenue, From the Middle, Kashmir", 
-  "DateAcquired": "1988-03-10", 
+  "CreditLine": "Gift of Paul F. Walter", 
   "Date": "1864", 
   "ArtistID": 713, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "74.1988", 
-  "ArtistBio": "British, 1834\u20131912", 
-  "CreditLine": "Gift of Paul F. Walter", 
+  "ArtistBio": "(British, 1834\u20131912)", 
+  "DateAcquired": "1988-03-10", 
+  "\ufeffTitle": "Poplar Avenue, From the Middle, Kashmir", 
   "ObjectID": "45697"
 }

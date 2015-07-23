@@ -5,8 +5,7 @@
   "Artist": "Poul Henningsen", 
   "URL": "http://www.moma.org/collection/works/3215", 
   "CuratorApproved": "Y", 
-  "Title": "PH Artichoke Lamp", 
-  "DateAcquired": "1999-06-30", 
+  "CreditLine": "nGift of the manufacturer", 
   "Date": "1958", 
   "ArtistID": 7261, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "294.1999", 
-  "ArtistBio": "Danish, 1894\u20131967", 
-  "CreditLine": "nGift of the manufacturer", 
+  "ArtistBio": "(Danish, 1894\u20131967)", 
+  "DateAcquired": "1999-06-30", 
+  "\ufeffTitle": "PH Artichoke Lamp", 
   "ObjectID": "3215"
 }

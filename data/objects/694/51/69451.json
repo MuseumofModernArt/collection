@@ -5,8 +5,7 @@
   "Artist": "Pablo Picasso", 
   "URL": "http://www.moma.org/collection/works/69451", 
   "CuratorApproved": "Y", 
-  "Title": "The Torera (La Torera)", 
-  "DateAcquired": "1953-06-22", 
+  "CreditLine": "Abby Aldrich Rockefeller Fund", 
   "Date": "(April 29, 1944)", 
   "ArtistID": 4609, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "459.1953", 
-  "ArtistBio": "Spanish, 1881\u20131973", 
-  "CreditLine": "Abby Aldrich Rockefeller Fund", 
+  "ArtistBio": "(Spanish, 1881\u20131973)", 
+  "DateAcquired": "1953-06-22", 
+  "\ufeffTitle": "The Torera (La Torera)", 
   "ObjectID": "69451"
 }

@@ -5,8 +5,7 @@
   "Artist": "Roberto Matta", 
   "URL": "http://www.moma.org/collection/works/36247", 
   "CuratorApproved": "Y", 
-  "Title": "Joan of Arc", 
-  "DateAcquired": "1980-01-15", 
+  "CreditLine": "James Thrall Soby Bequest", 
   "Date": "(1942)", 
   "ArtistID": 3842, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "316.1980", 
-  "ArtistBio": "Chilean, 1911\u20132002", 
-  "CreditLine": "James Thrall Soby Bequest", 
+  "ArtistBio": "(Chilean, 1911\u20132002)", 
+  "DateAcquired": "1980-01-15", 
+  "\ufeffTitle": "Joan of Arc", 
   "ObjectID": "36247"
 }

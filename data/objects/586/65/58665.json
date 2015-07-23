@@ -5,8 +5,7 @@
   "Artist": "Bill Parsons / Nancy Palmer Agency", 
   "URL": "http://www.moma.org/collection/works/58665", 
   "CuratorApproved": "Y", 
-  "Title": "Revolutionary's End", 
-  "DateAcquired": "2001-06-14", 
+  "CreditLine": "The New York Times Collection", 
   "Date": "1967", 
   "ArtistID": 8596, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "2072.2001", 
-  "ArtistBio": "Nationality unknown", 
-  "CreditLine": "The New York Times Collection", 
+  "ArtistBio": "(Nationality unknown)", 
+  "DateAcquired": "2001-06-14", 
+  "\ufeffTitle": "\"Revolutionary's End\"", 
   "ObjectID": "58665"
 }

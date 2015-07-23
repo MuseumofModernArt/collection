@@ -5,8 +5,7 @@
   "Artist": "Jim Dine", 
   "URL": "http://www.moma.org/collection/works/62381", 
   "CuratorApproved": "Y", 
-  "Title": "Car Crash V", 
-  "DateAcquired": "1989-05-30", 
+  "CreditLine": "The Associates Fund in honor of Riva Castleman", 
   "Date": "(1960)", 
   "ArtistID": 1547, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "128.1989.5", 
-  "ArtistBio": "American, born 1935", 
-  "CreditLine": "The Associates Fund in honor of Riva Castleman", 
+  "ArtistBio": "(American, born 1935)", 
+  "DateAcquired": "1989-05-30", 
+  "\ufeffTitle": "Car Crash V", 
   "ObjectID": "62381"
 }

@@ -1,12 +1,11 @@
 {
   "Medium": "Illustrated book with eleven etchings and four aquatints", 
-  "Dimensions": "page  16 5/16 x 12 9/16\" (41 x 32 cm)  Prints: various dimensions.", 
+  "Dimensions": "page  16 5/16 x 12 9/16\" (41 x 32 cm)\r\nPrints: various dimensions.", 
   "Classification": "Illustrated Book", 
   "Artist": "William T. Wiley", 
   "URL": "http://www.moma.org/collection/works/17571", 
   "CuratorApproved": "Y", 
-  "Title": "A Suite of Daze", 
-  "DateAcquired": "1977-11-10", 
+  "CreditLine": "Henry Church Fund", 
   "Date": "1977", 
   "ArtistID": 6370, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "468.1977.1-14", 
-  "ArtistBio": "American, born 1937", 
-  "CreditLine": "Henry Church Fund", 
+  "ArtistBio": "(American, born 1937)", 
+  "DateAcquired": "1977-11-10", 
+  "\ufeffTitle": "A Suite of Daze", 
   "ObjectID": "17571"
 }

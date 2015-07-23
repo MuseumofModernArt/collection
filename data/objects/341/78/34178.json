@@ -5,8 +5,7 @@
   "Artist": "Mikhail Larionov", 
   "URL": "http://www.moma.org/collection/works/34178", 
   "CuratorApproved": "Y", 
-  "Title": "The Buffoon and His Wife", 
-  "DateAcquired": "1978-04-04", 
+  "CreditLine": "The Joan and Lester Avnet Collection", 
   "Date": "(1921)", 
   "ArtistID": 3389, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "120.1978", 
-  "ArtistBio": "Russian, 1881\u20131964", 
-  "CreditLine": "The Joan and Lester Avnet Collection", 
+  "ArtistBio": "(Russian, 1881\u20131964)", 
+  "DateAcquired": "1978-04-04", 
+  "\ufeffTitle": "The Buffoon and His Wife", 
   "ObjectID": "34178"
 }

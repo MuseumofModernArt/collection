@@ -5,8 +5,7 @@
   "Artist": "Leonard Baskin", 
   "URL": "http://www.moma.org/collection/works/15628", 
   "CuratorApproved": "Y", 
-  "Title": "Death of a Salesman", 
-  "DateAcquired": "1985-10-07", 
+  "CreditLine": "Gift of Edmund B. Thorton", 
   "Date": "1984", 
   "ArtistID": 369, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "322.1985.1-5", 
-  "ArtistBio": "American, 1922\u20132000", 
-  "CreditLine": "Gift of Edmund B. Thorton", 
+  "ArtistBio": "(American, 1922\u20132000)", 
+  "DateAcquired": "1985-10-07", 
+  "\ufeffTitle": "Death of a Salesman", 
   "ObjectID": "15628"
 }

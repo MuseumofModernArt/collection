@@ -5,8 +5,7 @@
   "Artist": "Lee Friedlander", 
   "URL": "http://www.moma.org/collection/works/53168", 
   "CuratorApproved": "Y", 
-  "Title": "Tokyo, Japan", 
-  "DateAcquired": "1986-12-18", 
+  "CreditLine": "Acquired through the generosity of Shirley C. Burden", 
   "Date": "1979", 
   "ArtistID": 2002, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "422.1986", 
-  "ArtistBio": "American, born 1934", 
-  "CreditLine": "Acquired through the generosity of Shirley C. Burden", 
+  "ArtistBio": "(American, born 1934)", 
+  "DateAcquired": "1986-12-18", 
+  "\ufeffTitle": "Tokyo, Japan", 
   "ObjectID": "53168"
 }

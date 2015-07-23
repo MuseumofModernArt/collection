@@ -5,8 +5,7 @@
   "Artist": "Aleksandr Rodchenko", 
   "URL": "http://www.moma.org/collection/works/8203", 
   "CuratorApproved": "Y", 
-  "Title": "Novyi LEF. Zhurnal levogo fronta iskusstv, 3", 
-  "DateAcquired": "1999-12-10", 
+  "CreditLine": "Jan Tschichold Collection, Gift of Philip Johnson", 
   "Date": "1927", 
   "ArtistID": 4975, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "817.1999", 
-  "ArtistBio": "Russian, 1891\u20131956", 
-  "CreditLine": "Jan Tschichold Collection, Gift of Philip Johnson", 
+  "ArtistBio": "(Russian, 1891\u20131956)", 
+  "DateAcquired": "1999-12-10", 
+  "\ufeffTitle": "Novyi LEF. Zhurnal levogo fronta iskusstv, 3", 
   "ObjectID": "8203"
 }

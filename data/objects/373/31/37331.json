@@ -5,8 +5,7 @@
   "Artist": "Susan Rothenberg", 
   "URL": "http://www.moma.org/collection/works/37331", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1990-10-25", 
+  "CreditLine": "Purchase", 
   "Date": "(1990)", 
   "ArtistID": 5044, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "558.1990", 
-  "ArtistBio": "American, born 1945", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, born 1945)", 
+  "DateAcquired": "1990-10-25", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "37331"
 }

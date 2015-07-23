@@ -5,8 +5,7 @@
   "Artist": "August Sander", 
   "URL": "http://www.moma.org/collection/works/52415", 
   "CuratorApproved": "Y", 
-  "Title": "Young Girl in Circus Caravan", 
-  "DateAcquired": "1953-04-07", 
+  "CreditLine": "Gift of the artist", 
   "Date": "1926", 
   "ArtistID": 5145, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "392.1953", 
-  "ArtistBio": "German, 1876\u20131964", 
-  "CreditLine": "Gift of the artist", 
+  "ArtistBio": "(German, 1876\u20131964)", 
+  "DateAcquired": "1953-04-07", 
+  "\ufeffTitle": "Young Girl in Circus Caravan", 
   "ObjectID": "52415"
 }

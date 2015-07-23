@@ -5,8 +5,7 @@
   "Artist": "Marc Chagall", 
   "URL": "http://www.moma.org/collection/works/33331", 
   "CuratorApproved": "Y", 
-  "Title": "Golgotha", 
-  "DateAcquired": "1978-04-04", 
+  "CreditLine": "The Joan and Lester Avnet Collection", 
   "Date": "1912", 
   "ArtistID": 1055, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "24.1978", 
-  "ArtistBio": "French, born Belarus. 1887\u20131985", 
-  "CreditLine": "The Joan and Lester Avnet Collection", 
+  "ArtistBio": "(French, born Belarus. 1887\u20131985)", 
+  "DateAcquired": "1978-04-04", 
+  "\ufeffTitle": "Golgotha", 
   "ObjectID": "33331"
 }

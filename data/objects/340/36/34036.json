@@ -5,8 +5,7 @@
   "Artist": "Robert Morris", 
   "URL": "http://www.moma.org/collection/works/34036", 
   "CuratorApproved": "Y", 
-  "Title": "Proposal for Anchorange Historical and Fine Arts Museum, Anchorage, Alaska", 
-  "DateAcquired": "2000-02-03", 
+  "CreditLine": "Gift of Joyce Pomeroy Schwartz", 
   "Date": "1983", 
   "ArtistID": 4108, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "110.2000", 
-  "ArtistBio": "American, born 1931", 
-  "CreditLine": "Gift of Joyce Pomeroy Schwartz", 
+  "ArtistBio": "(American, born 1931)", 
+  "DateAcquired": "2000-02-03", 
+  "\ufeffTitle": "Proposal for Anchorange Historical and Fine Arts Museum, Anchorage, Alaska", 
   "ObjectID": "34036"
 }

@@ -5,8 +5,7 @@
   "Artist": "Theodore Roszak", 
   "URL": "http://www.moma.org/collection/works/36815", 
   "CuratorApproved": "Y", 
-  "Title": "Light and Substance", 
-  "DateAcquired": "1969-05-22", 
+  "CreditLine": "Gift of the artist", 
   "Date": "1962", 
   "ArtistID": 5039, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "420.1969", 
-  "ArtistBio": "American, born Poland. 1907\u20131981", 
-  "CreditLine": "Gift of the artist", 
+  "ArtistBio": "(American, born Poland. 1907\u20131981)", 
+  "DateAcquired": "1969-05-22", 
+  "\ufeffTitle": "Light and Substance", 
   "ObjectID": "36815"
 }

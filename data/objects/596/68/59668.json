@@ -1,12 +1,11 @@
 {
   "Medium": "Woodcut", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "Richard Bosman", 
   "URL": "http://www.moma.org/collection/works/59668", 
   "CuratorApproved": "Y", 
-  "Title": "Volcano", 
-  "DateAcquired": "1990-01-16", 
+  "CreditLine": "Johanna and Leslie J. Garfield Fund", 
   "Date": "1989", 
   "ArtistID": 689, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "5.1990", 
-  "ArtistBio": "Australian, born 1944", 
-  "CreditLine": "Johanna and Leslie J. Garfield Fund", 
+  "ArtistBio": "(Australian, born 1944)", 
+  "DateAcquired": "1990-01-16", 
+  "\ufeffTitle": "Volcano", 
   "ObjectID": "59668"
 }

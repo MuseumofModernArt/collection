@@ -1,12 +1,11 @@
 {
   "Medium": "Aquatint and roulette", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "David True", 
   "URL": "http://www.moma.org/collection/works/64219", 
   "CuratorApproved": "Y", 
-  "Title": "Open Channel", 
-  "DateAcquired": "1988-05-04", 
+  "CreditLine": "Gift of Crown Point Press in celebration of its 25th anniversary", 
   "Date": "1987", 
   "ArtistID": 5943, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "196.1988", 
-  "ArtistBio": "American, born 1942", 
-  "CreditLine": "Gift of Crown Point Press in celebration of its 25th anniversary", 
+  "ArtistBio": "(American, born 1942)", 
+  "DateAcquired": "1988-05-04", 
+  "\ufeffTitle": "Open Channel", 
   "ObjectID": "64219"
 }

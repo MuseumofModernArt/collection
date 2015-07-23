@@ -5,8 +5,7 @@
   "Artist": "Barbara Morgan", 
   "URL": "http://www.moma.org/collection/works/48158", 
   "CuratorApproved": "Y", 
-  "Title": "Martha Graham, El Penitente (Erick Hawkins Solo, \"El Flagellante\")", 
-  "DateAcquired": "1972-05-02", 
+  "CreditLine": "Gift of the photographer", 
   "Date": "1940", 
   "ArtistID": 4089, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "193.1972", 
-  "ArtistBio": "American, 1900\u20131992", 
-  "CreditLine": "Gift of the photographer", 
+  "ArtistBio": "(American, 1900\u20131992)", 
+  "DateAcquired": "1972-05-02", 
+  "\ufeffTitle": "Martha Graham, El Penitente (Erick Hawkins Solo, \"El Flagellante\")", 
   "ObjectID": "48158"
 }

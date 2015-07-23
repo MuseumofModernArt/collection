@@ -5,8 +5,7 @@
   "Artist": "Louise Bourgeois", 
   "URL": "http://www.moma.org/collection/works/61814", 
   "CuratorApproved": "Y", 
-  "Title": "Arched Figure, only state", 
-  "DateAcquired": "1993-05-03", 
+  "CreditLine": "Gift of the artist", 
   "Date": "1992", 
   "ArtistID": 710, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "102.1993", 
-  "ArtistBio": "American, born France. 1911\u20132010", 
-  "CreditLine": "Gift of the artist", 
+  "ArtistBio": "(American, born France. 1911\u20132010)", 
+  "DateAcquired": "1993-05-03", 
+  "\ufeffTitle": "Arched Figure", 
   "ObjectID": "61814"
 }

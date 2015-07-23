@@ -5,8 +5,7 @@
   "Artist": "Gabriele M\u00fcnter", 
   "URL": "http://www.moma.org/collection/works/38372", 
   "CuratorApproved": "Y", 
-  "Title": "Interior", 
-  "DateAcquired": "1969-11-12", 
+  "CreditLine": "Gift of the Glickstein Foundation", 
   "Date": "1908", 
   "ArtistID": 4172, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "1006.1969", 
-  "ArtistBio": "German, 1877\u20131962", 
-  "CreditLine": "Gift of the Glickstein Foundation", 
+  "ArtistBio": "(German, 1877\u20131962)", 
+  "DateAcquired": "1969-11-12", 
+  "\ufeffTitle": "Interior (Das Interieur)", 
   "ObjectID": "38372"
 }

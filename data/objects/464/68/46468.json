@@ -5,8 +5,7 @@
   "Artist": "Piet Zwart", 
   "URL": "http://www.moma.org/collection/works/46468", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1988-03-10", 
+  "CreditLine": "Gift of Isaac Lagnado", 
   "Date": "1931", 
   "ArtistID": 6592, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "114.1988", 
-  "ArtistBio": "Dutch, 1885\u20131977", 
-  "CreditLine": "Gift of Isaac Lagnado", 
+  "ArtistBio": "(Dutch, 1885\u20131977)", 
+  "DateAcquired": "1988-03-10", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "46468"
 }

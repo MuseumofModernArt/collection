@@ -1,12 +1,11 @@
 {
-  "Medium": "Etching and aquatint  ", 
+  "Medium": "Etching and aquatint\r\n", 
   "Dimensions": "plate: 10 1/8 x 7 11/16\" (25.7 x 19.5 cm); page: 22 1/16 x 14 15/16\" (56 x 38 cm)", 
   "Classification": "Illustrated Book", 
   "Artist": "Francis Wishart", 
   "URL": "http://www.moma.org/collection/works/31634", 
   "CuratorApproved": "Y", 
-  "Title": "Proust (plate 12) from Le P\u00e9re Lachaise", 
-  "DateAcquired": "1979-12-04", 
+  "CreditLine": "Joanne M. Stern Fund", 
   "Date": "1978", 
   "ArtistID": 6412, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "1098.1979.12", 
-  "ArtistBio": "British, born 1951", 
-  "CreditLine": "Joanne M. Stern Fund", 
+  "ArtistBio": "(British, born 1951)", 
+  "DateAcquired": "1979-12-04", 
+  "\ufeffTitle": "Proust (plate 12) from Le P\u00e9re Lachaise", 
   "ObjectID": "31634"
 }

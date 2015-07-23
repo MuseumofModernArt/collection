@@ -5,8 +5,7 @@
   "Artist": "Ethelyn Honig", 
   "URL": "http://www.moma.org/collection/works/59629", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1974-01-10", 
+  "CreditLine": "Carol O. Selle Fund", 
   "Date": "1971", 
   "ArtistID": 2721, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "4.1974", 
-  "ArtistBio": "American, born 1933", 
-  "CreditLine": "Carol O. Selle Fund", 
+  "ArtistBio": "(American, born 1933)", 
+  "DateAcquired": "1974-01-10", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "59629"
 }

@@ -5,8 +5,7 @@
   "Artist": "Ricardo Bofill", 
   "URL": "http://www.moma.org/collection/works/447", 
   "CuratorApproved": "Y", 
-  "Title": "Les Espaces d'Abraxas: Le Palacio, Le Theatre, L'Arc  Marne-la-Vall\u00e9e, France  Le Palacio: elevation", 
-  "DateAcquired": "1985-11-18", 
+  "CreditLine": "Marshall Cogan Purchase Fund", 
   "Date": "1979", 
   "ArtistID": 632, 
   "Keywords": [
@@ -22,7 +21,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "379.1985", 
-  "ArtistBio": "Spanish, born 1939", 
-  "CreditLine": "Marshall Cogan Purchase Fund", 
+  "ArtistBio": "(Spanish, born 1939)", 
+  "DateAcquired": "1985-11-18", 
+  "\ufeffTitle": "Les Espaces d'Abraxas: Le Palacio, Le Theatre, L'Arc, Marne-la-Vall\u00e9e, France, Le Palacio: elevation", 
   "ObjectID": "447"
 }

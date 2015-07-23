@@ -5,8 +5,7 @@
   "Artist": "Julian Schnabel", 
   "URL": "http://www.moma.org/collection/works/37898", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled (LO TANGO)", 
-  "DateAcquired": "1993-12-17", 
+  "CreditLine": "Gift of Michael S. Ovitz", 
   "Date": "(1990)", 
   "ArtistID": 5245, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "730.1993", 
-  "ArtistBio": "American, born 1951", 
-  "CreditLine": "Gift of Michael S. Ovitz", 
+  "ArtistBio": "(American, born 1951)", 
+  "DateAcquired": "1993-12-17", 
+  "\ufeffTitle": "Untitled (LO TANGO)", 
   "ObjectID": "37898"
 }

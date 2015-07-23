@@ -5,8 +5,7 @@
   "Artist": "Jeffrey Ingram Stone", 
   "URL": "http://www.moma.org/collection/works/62821", 
   "CuratorApproved": "Y", 
-  "Title": "Virginia", 
-  "DateAcquired": "1970-03-05", 
+  "CreditLine": "John B. Turner Fund", 
   "Date": "1970", 
   "Keywords": [
     "online art collection", 
@@ -16,7 +15,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "140.1970", 
-  "ArtistBio": "NULL", 
-  "CreditLine": "John B. Turner Fund", 
+  "ArtistBio": "", 
+  "DateAcquired": "1970-03-05", 
+  "\ufeffTitle": "Virginia", 
   "ObjectID": "62821"
 }

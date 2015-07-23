@@ -5,8 +5,7 @@
   "Artist": "Torben Holmback", 
   "URL": "http://www.moma.org/collection/works/3186", 
   "CuratorApproved": "Y", 
-  "Title": "Tape Block", 
-  "DateAcquired": "1984-10-30", 
+  "CreditLine": "Gift of the manufacturer", 
   "Date": "1982", 
   "ArtistID": 2708, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "285.1984", 
-  "ArtistBio": "Danish, born 1933", 
-  "CreditLine": "Gift of the manufacturer", 
+  "ArtistBio": "(Danish, born 1933)", 
+  "DateAcquired": "1984-10-30", 
+  "\ufeffTitle": "Tape Block", 
   "ObjectID": "3186"
 }

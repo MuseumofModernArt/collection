@@ -5,8 +5,7 @@
   "Artist": "Jacob August Riis", 
   "URL": "http://www.moma.org/collection/works/50973", 
   "CuratorApproved": "Y", 
-  "Title": "Reporter Office at 301 Mulberry Street", 
-  "DateAcquired": "1964-04-14", 
+  "CreditLine": "Gift of the Museum of the City of New York", 
   "Date": "1888", 
   "ArtistID": 4928, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "331.1964", 
-  "ArtistBio": "American, born Denmark. 1849\u20131914", 
-  "CreditLine": "Gift of the Museum of the City of New York", 
+  "ArtistBio": "(American, born Denmark. 1849\u20131914)", 
+  "DateAcquired": "1964-04-14", 
+  "\ufeffTitle": "Reporter Office at 301 Mulberry Street", 
   "ObjectID": "50973"
 }

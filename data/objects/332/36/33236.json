@@ -1,12 +1,11 @@
 {
   "Medium": "Pencil on paper", 
-  "Dimensions": "14 x 10 3/8\" (35.4 x 26.2 cm)  ", 
+  "Dimensions": "14 x 10 3/8\" (35.4 x 26.2 cm)\r\n", 
   "Classification": "Drawing", 
   "Artist": "Pablo Picasso", 
   "URL": "http://www.moma.org/collection/works/33236", 
   "CuratorApproved": "Y", 
-  "Title": "Ricciotto Canudo", 
-  "DateAcquired": "1951-01-30", 
+  "CreditLine": "Acquired through the Lillie P. Bliss Bequest", 
   "Date": "1918", 
   "ArtistID": 4609, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "18.1951", 
-  "ArtistBio": "Spanish, 1881\u20131973", 
-  "CreditLine": "Acquired through the Lillie P. Bliss Bequest", 
+  "ArtistBio": "(Spanish, 1881\u20131973)", 
+  "DateAcquired": "1951-01-30", 
+  "\ufeffTitle": "Ricciotto Canudo", 
   "ObjectID": "33236"
 }

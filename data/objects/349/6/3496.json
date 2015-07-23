@@ -1,12 +1,11 @@
 {
   "Medium": "Watercolor and pencil on paper", 
-  "Dimensions": "13 1/4 x 10 1/4\" (33.7 x 26 cm)  ", 
+  "Dimensions": "13 1/4 x 10 1/4\" (33.7 x 26 cm)\r\n", 
   "Classification": "A&D Design", 
   "Artist": "Anni Albers", 
   "URL": "http://www.moma.org/collection/works/3496", 
   "CuratorApproved": "Y", 
-  "Title": "Design for Tapestry", 
-  "DateAcquired": "1951-05-24", 
+  "CreditLine": "Gift of the designer", 
   "Date": "1933", 
   "ArtistID": 96, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "409.1951", 
-  "ArtistBio": "American, born Germany. 1899\u20131994", 
-  "CreditLine": "Gift of the designer", 
+  "ArtistBio": "(American, born Germany. 1899\u20131994)", 
+  "DateAcquired": "1951-05-24", 
+  "\ufeffTitle": "Design for Tapestry", 
   "ObjectID": "3496"
 }

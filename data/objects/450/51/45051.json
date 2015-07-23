@@ -5,8 +5,7 @@
   "Artist": "Mark Steinmetz", 
   "URL": "http://www.moma.org/collection/works/45051", 
   "CuratorApproved": "Y", 
-  "Title": "La Follette, Tennesee", 
-  "DateAcquired": "1994-01-13", 
+  "CreditLine": "Horace W. Goldsmith Fund through Robert B. Menschel", 
   "Date": "1993", 
   "ArtistID": 5636, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "53.1994", 
-  "ArtistBio": "American, born 1961", 
-  "CreditLine": "Horace W. Goldsmith Fund through Robert B. Menschel", 
+  "ArtistBio": "(American, born 1961)", 
+  "DateAcquired": "1994-01-13", 
+  "\ufeffTitle": "La Follette, Tennesee", 
   "ObjectID": "45051"
 }

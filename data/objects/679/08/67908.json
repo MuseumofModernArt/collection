@@ -1,12 +1,11 @@
 {
   "Medium": "One from a series of ten lithographs", 
-  "Dimensions": "irreg. composition  27 9/16 x 21 1/2\" (70.1 x 54.6 cm)  sheet  38 x 31 5/16\" (96 x 79.5 cm)", 
+  "Dimensions": "irreg. composition  27 9/16 x 21 1/2\" (70.1 x 54.6 cm)\r\nsheet  38 x 31 5/16\" (96 x 79.5 cm)", 
   "Classification": "Print", 
   "Artist": "Jasper Johns", 
   "URL": "http://www.moma.org/collection/works/67908", 
   "CuratorApproved": "Y", 
-  "Title": "Figure 3 from Color Numeral Series", 
-  "DateAcquired": "1987-10-20", 
+  "CreditLine": "Gift of The Philip and Lynn Straus Foundation Fund", 
   "Date": "1969", 
   "ArtistID": 2923, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "368.1987", 
-  "ArtistBio": "American, born 1930", 
-  "CreditLine": "Gift of The Philip and Lynn Straus Foundation Fund", 
+  "ArtistBio": "(American, born 1930)", 
+  "DateAcquired": "1987-10-20", 
+  "\ufeffTitle": "Figure 3 from Color Numeral Series", 
   "ObjectID": "67908"
 }

@@ -5,8 +5,7 @@
   "Artist": "Richard Serra", 
   "URL": "http://www.moma.org/collection/works/33668", 
   "CuratorApproved": "Y", 
-  "Title": "Pittsburgh", 
-  "DateAcquired": "1987-04-03", 
+  "CreditLine": "Gift of The Denise and Andrew Saul Fund and The Edward John Noble Foundation", 
   "Date": "(1985)", 
   "ArtistID": 5349, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "76.1987", 
-  "ArtistBio": "American, born 1939", 
-  "CreditLine": "Gift of The Denise and Andrew Saul Fund and The Edward John Noble Foundation", 
+  "ArtistBio": "(American, born 1939)", 
+  "DateAcquired": "1987-04-03", 
+  "\ufeffTitle": "Pittsburgh", 
   "ObjectID": "33668"
 }

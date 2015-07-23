@@ -1,12 +1,11 @@
 {
   "Medium": "Series of four etchings with aquatint and roulette", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "Elizabeth Murray", 
   "URL": "http://www.moma.org/collection/works/66450", 
   "CuratorApproved": "Y", 
-  "Title": "Notebook I-IV from the series Notebook", 
-  "DateAcquired": "1994-05-26", 
+  "CreditLine": "Gift of Emily Fisher Landau", 
   "Date": "1994", 
   "ArtistID": 4185, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "301.1994.1-4", 
-  "ArtistBio": "American, 1940\u20132007", 
-  "CreditLine": "Gift of Emily Fisher Landau", 
+  "ArtistBio": "(American, 1940\u20132007)", 
+  "DateAcquired": "1994-05-26", 
+  "\ufeffTitle": "Notebook I-IV from the series Notebook", 
   "ObjectID": "66450"
 }

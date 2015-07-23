@@ -5,8 +5,7 @@
   "Artist": "Nathan Lyons", 
   "URL": "http://www.moma.org/collection/works/51497", 
   "CuratorApproved": "Y", 
-  "Title": "Chicago", 
-  "DateAcquired": "1968-03-06", 
+  "CreditLine": "The Ben Schultz Memorial Collection. Gift of the photographer", 
   "Date": "1963", 
   "ArtistID": 3652, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "351.1968", 
-  "ArtistBio": "American, born 1930", 
-  "CreditLine": "The Ben Schultz Memorial Collection. Gift of the photographer", 
+  "ArtistBio": "(American, born 1930)", 
+  "DateAcquired": "1968-03-06", 
+  "\ufeffTitle": "Chicago", 
   "ObjectID": "51497"
 }

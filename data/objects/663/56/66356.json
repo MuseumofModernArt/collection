@@ -5,8 +5,7 @@
   "Artist": "Erich Heckel", 
   "URL": "http://www.moma.org/collection/works/66356", 
   "CuratorApproved": "Y", 
-  "Title": "Portrait of a Man", 
-  "DateAcquired": "1950-10-11", 
+  "CreditLine": "Purchase", 
   "Date": "(1919)", 
   "ArtistID": 2569, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "297.1950", 
-  "ArtistBio": "German, 1883\u20131970", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(German, 1883\u20131970)", 
+  "DateAcquired": "1950-10-11", 
+  "\ufeffTitle": "Portrait of a Man (M\u00e4nnerbildnis)", 
   "ObjectID": "66356"
 }

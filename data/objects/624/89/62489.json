@@ -5,8 +5,7 @@
   "Artist": "Henri de Toulouse-Lautrec", 
   "URL": "http://www.moma.org/collection/works/62489", 
   "CuratorApproved": "Y", 
-  "Title": "Tristan Bernard", 
-  "DateAcquired": "1956-03-16", 
+  "CreditLine": "Curt Valentin Bequest", 
   "Date": "1898, published 1920", 
   "ArtistID": 5910, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "133.1956", 
-  "ArtistBio": "French, 1864\u20131901", 
-  "CreditLine": "Curt Valentin Bequest", 
+  "ArtistBio": "(French, 1864\u20131901)", 
+  "DateAcquired": "1956-03-16", 
+  "\ufeffTitle": "Tristan Bernard", 
   "ObjectID": "62489"
 }

@@ -1,12 +1,11 @@
 {
   "Medium": "Chromogenic color print", 
-  "Dimensions": "67 1/4 x 49 1/2\" (170.8 x 125.7 cm)  ", 
+  "Dimensions": "67 1/4 x 49 1/2\" (170.8 x 125.7 cm)\r\n", 
   "Classification": "Photograph", 
   "Artist": "Cindy Sherman", 
   "URL": "http://www.moma.org/collection/works/56490", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled #153", 
-  "DateAcquired": "1995-12-14", 
+  "CreditLine": "Joel and Anne Ehrenkranz Fund", 
   "Date": "1985", 
   "ArtistID": 5392, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "806.1995.x1-x2", 
-  "ArtistBio": "American, born 1954", 
-  "CreditLine": "Joel and Anne Ehrenkranz Fund", 
+  "ArtistBio": "(American, born 1954)", 
+  "DateAcquired": "1995-12-14", 
+  "\ufeffTitle": "Untitled #153", 
   "ObjectID": "56490"
 }

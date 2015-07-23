@@ -5,8 +5,7 @@
   "Artist": "Amedeo Modigliani", 
   "URL": "http://www.moma.org/collection/works/34047", 
   "CuratorApproved": "Y", 
-  "Title": "The Family", 
-  "DateAcquired": "1979-05-07", 
+  "CreditLine": "Gift of Mr. and Mrs. Richard Rodgers", 
   "Date": "(1916)", 
   "ArtistID": 4038, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "110.1979", 
-  "ArtistBio": "Italian, 1884\u20131920", 
-  "CreditLine": "Gift of Mr. and Mrs. Richard Rodgers", 
+  "ArtistBio": "(Italian, 1884\u20131920)", 
+  "DateAcquired": "1979-05-07", 
+  "\ufeffTitle": "The Family", 
   "ObjectID": "34047"
 }

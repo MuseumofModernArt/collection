@@ -5,8 +5,7 @@
   "Artist": "Emilio Ortiz", 
   "URL": "http://www.moma.org/collection/works/62555", 
   "CuratorApproved": "Y", 
-  "Title": "20 Lansdowne Crescent #3", 
-  "DateAcquired": "1970-03-05", 
+  "CreditLine": "Inter-American Fund", 
   "Date": "(1969)", 
   "ArtistID": 4433, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "135.1970", 
-  "ArtistBio": "Mexican", 
-  "CreditLine": "Inter-American Fund", 
+  "ArtistBio": "(Mexican)", 
+  "DateAcquired": "1970-03-05", 
+  "\ufeffTitle": "20 Lansdowne Crescent #3", 
   "ObjectID": "62555"
 }

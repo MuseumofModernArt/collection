@@ -5,8 +5,7 @@
   "Artist": "Louis Marcoussis", 
   "URL": "http://www.moma.org/collection/works/63311", 
   "CuratorApproved": "Y", 
-  "Title": "The Prayer", 
-  "DateAcquired": "1960-05-26", 
+  "CreditLine": "Gift of Peter H. Deitsch", 
   "Date": "(1933)", 
   "ArtistID": 3757, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "161.1960", 
-  "ArtistBio": "Polish, 1883\u20131941", 
-  "CreditLine": "Gift of Peter H. Deitsch", 
+  "ArtistBio": "(Polish, 1883\u20131941)", 
+  "DateAcquired": "1960-05-26", 
+  "\ufeffTitle": "The Prayer", 
   "ObjectID": "63311"
 }

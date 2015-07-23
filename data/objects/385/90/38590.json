@@ -5,8 +5,7 @@
   "Artist": "Lygia Pape", 
   "URL": "http://www.moma.org/collection/works/38590", 
   "CuratorApproved": "Y", 
-  "Title": "Book of Creation", 
-  "DateAcquired": "2001-05-07", 
+  "CreditLine": "Gift of Patricia Phelps de Cisneros", 
   "Date": "1959-60", 
   "ArtistID": 8196, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "1349.2001.a-r", 
-  "ArtistBio": "Brazilian, 1927\u20132004", 
-  "CreditLine": "Gift of Patricia Phelps de Cisneros", 
+  "ArtistBio": "(Brazilian, 1927\u20132004)", 
+  "DateAcquired": "2001-05-07", 
+  "\ufeffTitle": "Book of Creation", 
   "ObjectID": "38590"
 }

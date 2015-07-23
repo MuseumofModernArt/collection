@@ -5,8 +5,7 @@
   "Artist": "Osamu Shiihara", 
   "URL": "http://www.moma.org/collection/works/54590", 
   "CuratorApproved": "Y", 
-  "Title": "Shampoo", 
-  "DateAcquired": "1999-12-09", 
+  "CreditLine": "David H. McAlpin Fund", 
   "Date": "1930s", 
   "ArtistID": 8098, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "513.1999", 
-  "ArtistBio": "Japanese, 1905\u20131974", 
-  "CreditLine": "David H. McAlpin Fund", 
+  "ArtistBio": "(Japanese, 1905\u20131974)", 
+  "DateAcquired": "1999-12-09", 
+  "\ufeffTitle": "Shampoo", 
   "ObjectID": "54590"
 }

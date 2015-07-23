@@ -5,8 +5,7 @@
   "Artist": "Charles Sheeler", 
   "URL": "http://www.moma.org/collection/works/52740", 
   "CuratorApproved": "Y", 
-  "Title": "Buttresses, Chartres Cathedral", 
-  "DateAcquired": "1969-05-21", 
+  "CreditLine": "Gift of the photographer", 
   "Date": "1929", 
   "ArtistID": 5383, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "406.1969", 
-  "ArtistBio": "American, 1883\u20131965", 
-  "CreditLine": "Gift of the photographer", 
+  "ArtistBio": "(American, 1883\u20131965)", 
+  "DateAcquired": "1969-05-21", 
+  "\ufeffTitle": "Buttresses, Chartres Cathedral", 
   "ObjectID": "52740"
 }

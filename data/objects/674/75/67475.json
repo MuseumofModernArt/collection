@@ -5,8 +5,7 @@
   "Artist": "Helen Frankenthaler", 
   "URL": "http://www.moma.org/collection/works/67475", 
   "CuratorApproved": "Y", 
-  "Title": "Cedar Hill", 
-  "DateAcquired": "1987-10-20", 
+  "CreditLine": "Gift of Crown Point Press in celebration of its 25th anniversary", 
   "Date": "1983", 
   "ArtistID": 1974, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "350.1987", 
-  "ArtistBio": "American, 1928\u20132011", 
-  "CreditLine": "Gift of Crown Point Press in celebration of its 25th anniversary", 
+  "ArtistBio": "(American, 1928\u20132011)", 
+  "DateAcquired": "1987-10-20", 
+  "\ufeffTitle": "Cedar Hill", 
   "ObjectID": "67475"
 }

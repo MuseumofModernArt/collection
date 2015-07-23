@@ -1,12 +1,11 @@
 {
   "Medium": "Etching", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "Gerald Brockhurst", 
   "URL": "http://www.moma.org/collection/works/64239", 
   "CuratorApproved": "Y", 
-  "Title": "Dorette", 
-  "DateAcquired": "1997-05-28", 
+  "CreditLine": "Kathleen Brockhurst Bequest", 
   "Date": "1932", 
   "ArtistID": 7641, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "197.1997", 
-  "ArtistBio": "American, 1890\u20131978", 
-  "CreditLine": "Kathleen Brockhurst Bequest", 
+  "ArtistBio": "(American, 1890\u20131978)", 
+  "DateAcquired": "1997-05-28", 
+  "\ufeffTitle": "Dorette", 
   "ObjectID": "64239"
 }

@@ -1,12 +1,11 @@
 {
   "Medium": "Lithograph", 
-  "Dimensions": "a & b, irreg composition  54 x 63 1/2\" (137.2 x 161.2 cm)  each sheet  54 x 31 3/4\" (137.2 x 80.6 cm)", 
+  "Dimensions": "a & b, irreg composition  54 x 63 1/2\" (137.2 x 161.2 cm)\r\neach sheet  54 x 31 3/4\" (137.2 x 80.6 cm)", 
   "Classification": "Print", 
   "Artist": "Jim Dine", 
   "URL": "http://www.moma.org/collection/works/66349", 
   "CuratorApproved": "Y", 
-  "Title": "2 Hearts (The Donut)", 
-  "DateAcquired": "1972-10-05", 
+  "CreditLine": "Gift of Celeste Bartos", 
   "Date": "(1970, dated and published 1972)", 
   "ArtistID": 1547, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "296.1972.a-b", 
-  "ArtistBio": "American, born 1935", 
-  "CreditLine": "Gift of Celeste Bartos", 
+  "ArtistBio": "(American, born 1935)", 
+  "DateAcquired": "1972-10-05", 
+  "\ufeffTitle": "2 Hearts (The Donut)", 
   "ObjectID": "66349"
 }

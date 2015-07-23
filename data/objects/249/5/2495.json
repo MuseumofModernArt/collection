@@ -5,8 +5,7 @@
   "Artist": "Reinhold Weiss", 
   "URL": "http://www.moma.org/collection/works/2495", 
   "CuratorApproved": "Y", 
-  "Title": "Desk Fan (model HL1)", 
-  "DateAcquired": "1963-02-13", 
+  "CreditLine": "Gift of the manufacturer", 
   "Date": "1961", 
   "ArtistID": 7147, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "135.1963", 
-  "ArtistBio": "German, born 1934", 
-  "CreditLine": "Gift of the manufacturer", 
+  "ArtistBio": "(German, born 1934)", 
+  "DateAcquired": "1963-02-13", 
+  "\ufeffTitle": "Desk Fan (model HL1)", 
   "ObjectID": "2495"
 }

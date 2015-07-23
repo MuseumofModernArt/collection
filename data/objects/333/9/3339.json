@@ -5,8 +5,7 @@
   "Artist": "David Gammon", 
   "URL": "http://www.moma.org/collection/works/3339", 
   "CuratorApproved": "Y", 
-  "Title": "Turntable", 
-  "DateAcquired": "1969-04-24", 
+  "CreditLine": "Gift of Transcriptors, New York", 
   "Date": "1964", 
   "ArtistID": 2066, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "342.1969", 
-  "ArtistBio": "British, 1933\u20132005", 
-  "CreditLine": "Gift of Transcriptors, New York", 
+  "ArtistBio": "(British, 1933\u20132005)", 
+  "DateAcquired": "1969-04-24", 
+  "\ufeffTitle": "Turntable", 
   "ObjectID": "3339"
 }

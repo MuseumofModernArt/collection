@@ -5,8 +5,7 @@
   "Artist": "Nathan George Horwitt", 
   "URL": "http://www.moma.org/collection/works/3323", 
   "CuratorApproved": "Y", 
-  "Title": "Wristwatch Face", 
-  "DateAcquired": "1960-11-16", 
+  "CreditLine": "Gift of the designer", 
   "Date": "1947", 
   "ArtistID": 2730, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "335.1960", 
-  "ArtistBio": "American, 1898\u20131990", 
-  "CreditLine": "Gift of the designer", 
+  "ArtistBio": "(American, 1898\u20131990)", 
+  "DateAcquired": "1960-11-16", 
+  "\ufeffTitle": "Wristwatch Face", 
   "ObjectID": "3323"
 }

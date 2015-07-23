@@ -5,8 +5,7 @@
   "Artist": "Koichi Sato", 
   "URL": "http://www.moma.org/collection/works/5510", 
   "CuratorApproved": "Y", 
-  "Title": "Urban Design Seminar, Twenty-first Century Urban Design", 
-  "DateAcquired": "1993-05-04", 
+  "CreditLine": "Gift of the designer", 
   "Date": "1992", 
   "ArtistID": 5173, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "175.1993", 
-  "ArtistBio": "Japanese, born 1944", 
-  "CreditLine": "Gift of the designer", 
+  "ArtistBio": "(Japanese, born 1944)", 
+  "DateAcquired": "1993-05-04", 
+  "\ufeffTitle": "Urban Design Seminar, Twenty-first Century Urban Design", 
   "ObjectID": "5510"
 }

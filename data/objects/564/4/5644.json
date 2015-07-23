@@ -5,8 +5,7 @@
   "Artist": "Victor Moscoso", 
   "URL": "http://www.moma.org/collection/works/5644", 
   "CuratorApproved": "Y", 
-  "Title": "Dallas Poster Show", 
-  "DateAcquired": "1968-03-07", 
+  "CreditLine": "Gift of the designer", 
   "Date": "1967", 
   "ArtistID": 4117, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "197.1968", 
-  "ArtistBio": "American, born Spain 1936", 
-  "CreditLine": "Gift of the designer", 
+  "ArtistBio": "(American, born Spain 1936)", 
+  "DateAcquired": "1968-03-07", 
+  "\ufeffTitle": "Dallas Poster Show", 
   "ObjectID": "5644"
 }

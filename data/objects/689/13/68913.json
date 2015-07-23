@@ -5,8 +5,7 @@
   "Artist": "Julia Jacquette", 
   "URL": "http://www.moma.org/collection/works/68913", 
   "CuratorApproved": "Y", 
-  "Title": "Four Sweets", 
-  "DateAcquired": "1999-11-18", 
+  "CreditLine": "Acquired through the generosity of Edward and Evanne Gargiulo", 
   "Date": "1995", 
   "ArtistID": 8121, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "425.1999", 
-  "ArtistBio": "American, born 1964", 
-  "CreditLine": "Acquired through the generosity of Edward and Evanne Gargiulo", 
+  "ArtistBio": "(American, born 1964)", 
+  "DateAcquired": "1999-11-18", 
+  "\ufeffTitle": "Four Sweets", 
   "ObjectID": "68913"
 }

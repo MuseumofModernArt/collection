@@ -5,8 +5,7 @@
   "Artist": "Alice Rahon", 
   "URL": "http://www.moma.org/collection/works/11300", 
   "CuratorApproved": "Y", 
-  "Title": "Lettre d'Amour", 
-  "DateAcquired": "1968-02-05", 
+  "CreditLine": "Purchase", 
   "Date": "1944", 
   "ArtistID": 4461, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "100.1968", 
-  "ArtistBio": "French, 1904\u20131987", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(French, 1904\u20131987)", 
+  "DateAcquired": "1968-02-05", 
+  "\ufeffTitle": "Lettre d'Amour", 
   "ObjectID": "11300"
 }

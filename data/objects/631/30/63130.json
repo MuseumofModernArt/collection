@@ -5,8 +5,7 @@
   "Artist": "Francisco Toledo", 
   "URL": "http://www.moma.org/collection/works/63130", 
   "CuratorApproved": "Y", 
-  "Title": "On the Ranch (En el rancho)", 
-  "DateAcquired": "1970-03-05", 
+  "CreditLine": "Inter-American Fund", 
   "Date": "(1969)", 
   "ArtistID": 5892, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "145.1970", 
-  "ArtistBio": "Mexican, born 1940", 
-  "CreditLine": "Inter-American Fund", 
+  "ArtistBio": "(Mexican, born 1940)", 
+  "DateAcquired": "1970-03-05", 
+  "\ufeffTitle": "On the Ranch (En el rancho)", 
   "ObjectID": "63130"
 }

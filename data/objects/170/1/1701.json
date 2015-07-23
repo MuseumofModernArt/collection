@@ -1,12 +1,11 @@
 {
   "Medium": "Polished die-cast aluminum and maple plywood with malamine formaldehyde laminate", 
-  "Dimensions": "maximum height: 28 3/4 x 16 1/16\" (73 x 40.8 cm)  minimum height: 20 x 16 1/16\" (50.8 x 40.8 cm)", 
+  "Dimensions": "maximum height: 28 3/4 x 16 1/16\" (73 x 40.8 cm)\r\nminimum height: 20 x 16 1/16\" (50.8 x 40.8 cm)", 
   "Classification": "A&D Design", 
   "Artist": "Philippe Starck", 
   "URL": "http://www.moma.org/collection/works/1701", 
   "CuratorApproved": "Y", 
-  "Title": "Vicieuse Coffee Table", 
-  "DateAcquired": "2000-01-19", 
+  "CreditLine": "David Whitney Collection, Gift of David Whitney", 
   "Date": "1992", 
   "ArtistID": 8418, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "33.2000", 
-  "ArtistBio": "French, born 1949", 
-  "CreditLine": "David Whitney Collection, Gift of David Whitney", 
+  "ArtistBio": "(French, born 1949)", 
+  "DateAcquired": "2000-01-19", 
+  "\ufeffTitle": "Vicieuse Coffee Table", 
   "ObjectID": "1701"
 }

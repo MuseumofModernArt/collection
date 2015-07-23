@@ -5,8 +5,7 @@
   "Artist": "Thomas Annan", 
   "URL": "http://www.moma.org/collection/works/50406", 
   "CuratorApproved": "Y", 
-  "Title": "Nelson Street, City", 
-  "DateAcquired": "NULL", 
+  "CreditLine": "Purchase", 
   "Date": "1899", 
   "ArtistID": 190, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "308.1975.46", 
-  "ArtistBio": "British, 1829\u20131887", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(British, 1829\u20131887)", 
+  "DateAcquired": "", 
+  "\ufeffTitle": "Nelson Street, City", 
   "ObjectID": "50406"
 }

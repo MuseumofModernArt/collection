@@ -5,8 +5,7 @@
   "Artist": "Berenice Abbott", 
   "URL": "http://www.moma.org/collection/works/44501", 
   "CuratorApproved": "Y", 
-  "Title": "New York at Night", 
-  "DateAcquired": "1964-01-07", 
+  "CreditLine": "Purchase", 
   "Date": "1932", 
   "ArtistID": 41, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "40.1964", 
-  "ArtistBio": "American, 1898\u20131991", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, 1898\u20131991)", 
+  "DateAcquired": "1964-01-07", 
+  "\ufeffTitle": "New York at Night", 
   "ObjectID": "44501"
 }

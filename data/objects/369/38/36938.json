@@ -5,8 +5,7 @@
   "Artist": "Jannis Kounellis", 
   "URL": "http://www.moma.org/collection/works/36938", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1982-11-04", 
+  "CreditLine": "Gift of Barbara G. Pine", 
   "Date": "1977", 
   "ArtistID": 3230, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "444.1982", 
-  "ArtistBio": "Greek, born 1936", 
-  "CreditLine": "Gift of Barbara G. Pine", 
+  "ArtistBio": "(Greek, born 1936)", 
+  "DateAcquired": "1982-11-04", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "36938"
 }

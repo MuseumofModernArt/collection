@@ -5,8 +5,7 @@
   "Artist": "Unknown Designer", 
   "URL": "http://www.moma.org/collection/works/4021", 
   "CuratorApproved": "Y", 
-  "Title": "Chestnut Parer", 
-  "DateAcquired": "1956-10-25", 
+  "CreditLine": "Gift of Philip Johnson", 
   "Date": "Before 1956", 
   "ArtistID": 6011, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "479.1956", 
-  "ArtistBio": "Swiss", 
-  "CreditLine": "Gift of Philip Johnson", 
+  "ArtistBio": "(Swiss)", 
+  "DateAcquired": "1956-10-25", 
+  "\ufeffTitle": "Chestnut Parer", 
   "ObjectID": "4021"
 }

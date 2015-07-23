@@ -5,8 +5,7 @@
   "Artist": "Christian Rohlfs", 
   "URL": "http://www.moma.org/collection/works/65897", 
   "CuratorApproved": "Y", 
-  "Title": "Debate", 
-  "DateAcquired": "1955-10-10", 
+  "CreditLine": "Gift of J. B. Neumann", 
   "Date": "(1913)", 
   "ArtistID": 5000, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "279.1955", 
-  "ArtistBio": "German, 1849\u20131938", 
-  "CreditLine": "Gift of J. B. Neumann", 
+  "ArtistBio": "(German, 1849\u20131938)", 
+  "DateAcquired": "1955-10-10", 
+  "\ufeffTitle": "Debate (Beratung)", 
   "ObjectID": "65897"
 }

@@ -1,12 +1,11 @@
 {
   "Medium": "Gelatin silver printing-out-paper print", 
-  "Dimensions": "8 11/16 x 6 9/16\" (22.1 x 16.7 cm)  ", 
+  "Dimensions": "8 11/16 x 6 9/16\" (22.1 x 16.7 cm)\r\n", 
   "Classification": "Photograph", 
   "Artist": "Eug\u00e8ne Atget", 
   "URL": "http://www.moma.org/collection/works/51642", 
   "CuratorApproved": "Y", 
-  "Title": "Magasin, avenue des Gobelins", 
-  "DateAcquired": "1961-11-08", 
+  "CreditLine": "Gift of James Thrall Soby", 
   "Date": "1925", 
   "ArtistID": 229, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "357.1961", 
-  "ArtistBio": "French, 1857\u20131927", 
-  "CreditLine": "Gift of James Thrall Soby", 
+  "ArtistBio": "(French, 1857\u20131927)", 
+  "DateAcquired": "1961-11-08", 
+  "\ufeffTitle": "Magasin, avenue des Gobelins", 
   "ObjectID": "51642"
 }

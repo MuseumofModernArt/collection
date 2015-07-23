@@ -5,8 +5,7 @@
   "Artist": "Stipe Brcic", 
   "URL": "http://www.moma.org/collection/works/6639", 
   "CuratorApproved": "Y", 
-  "Title": "9. Kongres SKH", 
-  "DateAcquired": "1985-11-18", 
+  "CreditLine": "Gift of the designer", 
   "Date": "1982", 
   "ArtistID": 755, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "413.1985", 
-  "ArtistBio": "Yugoslav, born 1948", 
-  "CreditLine": "Gift of the designer", 
+  "ArtistBio": "(Yugoslav, born 1948)", 
+  "DateAcquired": "1985-11-18", 
+  "\ufeffTitle": "9. Kongres SKH", 
   "ObjectID": "6639"
 }

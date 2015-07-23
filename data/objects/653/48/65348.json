@@ -5,8 +5,7 @@
   "Artist": "Robert Rauschenberg", 
   "URL": "http://www.moma.org/collection/works/65348", 
   "CuratorApproved": "Y", 
-  "Title": "Tanya", 
-  "DateAcquired": "1974-04-23", 
+  "CreditLine": "Gift of Celeste Bartos", 
   "Date": "1974", 
   "ArtistID": 4823, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "255.1974", 
-  "ArtistBio": "American, 1925\u20132008", 
-  "CreditLine": "Gift of Celeste Bartos", 
+  "ArtistBio": "(American, 1925\u20132008)", 
+  "DateAcquired": "1974-04-23", 
+  "\ufeffTitle": "Tanya", 
   "ObjectID": "65348"
 }

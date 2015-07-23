@@ -5,8 +5,7 @@
   "Artist": "Richard Avedon", 
   "URL": "http://www.moma.org/collection/works/5324", 
   "CuratorApproved": "Y", 
-  "Title": "John Lennon", 
-  "DateAcquired": "1988-04-27", 
+  "CreditLine": "Gift of the designer", 
   "Date": "1967", 
   "ArtistID": 248, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "153.1988", 
-  "ArtistBio": "American, 1923\u20132004", 
-  "CreditLine": "Gift of the designer", 
+  "ArtistBio": "(American, 1923\u20132004)", 
+  "DateAcquired": "1988-04-27", 
+  "\ufeffTitle": "John Lennon", 
   "ObjectID": "5324"
 }

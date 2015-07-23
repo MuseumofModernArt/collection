@@ -5,8 +5,7 @@
   "Artist": "Arman", 
   "URL": "http://www.moma.org/collection/works/65816", 
   "CuratorApproved": "Y", 
-  "Title": "Boom-Boom from the portfolio New York International", 
-  "DateAcquired": "1966-05-10", 
+  "CreditLine": "Gift of Tanglewood Press", 
   "Date": "Published 1966", 
   "ArtistID": 220, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "275.1966.1", 
-  "ArtistBio": "American, born France. 1928\u20132005", 
-  "CreditLine": "Gift of Tanglewood Press", 
+  "ArtistBio": "(American, born France. 1928\u20132005)", 
+  "DateAcquired": "1966-05-10", 
+  "\ufeffTitle": "Boom-Boom from the portfolio New York International", 
   "ObjectID": "65816"
 }

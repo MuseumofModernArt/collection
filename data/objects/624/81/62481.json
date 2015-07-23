@@ -5,8 +5,7 @@
   "Artist": "Louise Bourgeois", 
   "URL": "http://www.moma.org/collection/works/62481", 
   "CuratorApproved": "Y", 
-  "Title": "Champfleurette, The White Cat, version 2 of 2, state I of IV, variant", 
-  "DateAcquired": "1994-01-25", 
+  "CreditLine": "Gift of the artist", 
   "Date": "1993", 
   "ArtistID": 710, 
   "Keywords": [
@@ -21,7 +20,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "132.1994", 
-  "ArtistBio": "American, born France. 1911\u20132010", 
-  "CreditLine": "Gift of the artist", 
+  "ArtistBio": "(American, born France. 1911\u20132010)", 
+  "DateAcquired": "1994-01-25", 
+  "\ufeffTitle": "Champfleurette, The White Cat", 
   "ObjectID": "62481"
 }

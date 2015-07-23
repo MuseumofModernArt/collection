@@ -5,8 +5,7 @@
   "Artist": "Henry Moore", 
   "URL": "http://www.moma.org/collection/works/61119", 
   "CuratorApproved": "Y", 
-  "Title": "Two Seated Women", 
-  "DateAcquired": "1968-02-05", 
+  "CreditLine": "Given anonymously", 
   "Date": "1967", 
   "ArtistID": 4071, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "60.1968", 
-  "ArtistBio": "British, 1898\u20131986", 
-  "CreditLine": "Given anonymously", 
+  "ArtistBio": "(British, 1898\u20131986)", 
+  "DateAcquired": "1968-02-05", 
+  "\ufeffTitle": "Two Seated Women", 
   "ObjectID": "61119"
 }

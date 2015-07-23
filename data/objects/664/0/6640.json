@@ -5,8 +5,7 @@
   "Artist": "Shizuko Muller-Yoshikawa", 
   "URL": "http://www.moma.org/collection/works/6640", 
   "CuratorApproved": "Y", 
-  "Title": "Theater 11", 
-  "DateAcquired": "1988-11-22", 
+  "CreditLine": "Gift of the designer", 
   "Date": "1975", 
   "ArtistID": 4157, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "413.1988", 
-  "ArtistBio": "Swiss, born Japan, 1934", 
-  "CreditLine": "Gift of the designer", 
+  "ArtistBio": "(Swiss, born Japan, 1934)", 
+  "DateAcquired": "1988-11-22", 
+  "\ufeffTitle": "Theater 11", 
   "ObjectID": "6640"
 }

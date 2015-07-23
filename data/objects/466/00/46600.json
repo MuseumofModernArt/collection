@@ -5,8 +5,7 @@
   "Artist": "Aaron Siskind", 
   "URL": "http://www.moma.org/collection/works/46600", 
   "CuratorApproved": "Y", 
-  "Title": "Boys in Empty Tenement", 
-  "DateAcquired": "1985-03-27", 
+  "CreditLine": "Gift of Ms. Sophie Black", 
   "Date": "c. 1935", 
   "ArtistID": 5456, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "120.1985.19", 
-  "ArtistBio": "American, 1903\u20131991", 
-  "CreditLine": "Gift of Ms. Sophie Black", 
+  "ArtistBio": "(American, 1903\u20131991)", 
+  "DateAcquired": "1985-03-27", 
+  "\ufeffTitle": "Boys in Empty Tenement", 
   "ObjectID": "46600"
 }

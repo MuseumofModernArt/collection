@@ -5,8 +5,7 @@
   "Artist": "Hans Hollein", 
   "URL": "http://www.moma.org/collection/works/1032", 
   "CuratorApproved": "Y", 
-  "Title": "Vulcania, St. Ours-les-Roches, Auvergne, France", 
-  "DateAcquired": "1996-09-25", 
+  "CreditLine": "Gift of the architect in honor of Philip Johnson", 
   "Date": "1994-2002", 
   "ArtistID": 2705, 
   "Keywords": [
@@ -21,7 +20,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "411.1996", 
-  "ArtistBio": "Austrian, 1934\u20132014", 
-  "CreditLine": "Gift of the architect in honor of Philip Johnson", 
+  "ArtistBio": "(Austrian, 1934\u20132014)", 
+  "DateAcquired": "1996-09-25", 
+  "\ufeffTitle": "Vulcania, St. Ours-les-Roches, Auvergne, France", 
   "ObjectID": "1032"
 }

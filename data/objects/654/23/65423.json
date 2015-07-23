@@ -1,12 +1,11 @@
 {
   "Medium": "Lithograph", 
-  "Dimensions": "composition  35 7/16 x 24 1/2\" (90 x 62.2 cm)  sheet  35 7/16 x 24 1/2\" (90 x 62.2 cm)", 
+  "Dimensions": "composition  35 7/16 x 24 1/2\" (90 x 62.2 cm)\r\nsheet  35 7/16 x 24 1/2\" (90 x 62.2 cm)", 
   "Classification": "Print", 
   "Artist": "Gordon Newton", 
   "URL": "http://www.moma.org/collection/works/65423", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1982-10-26", 
+  "CreditLine": "Gift of Sam Wagstaff", 
   "Date": "1972", 
   "ArtistID": 4289, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "259.1982", 
-  "ArtistBio": "American, born 1948", 
-  "CreditLine": "Gift of Sam Wagstaff", 
+  "ArtistBio": "(American, born 1948)", 
+  "DateAcquired": "1982-10-26", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "65423"
 }

@@ -5,8 +5,7 @@
   "Artist": "Adolph Loos", 
   "URL": "http://www.moma.org/collection/works/4673", 
   "CuratorApproved": "Y", 
-  "Title": "Plate", 
-  "DateAcquired": "2001-04-30", 
+  "CreditLine": "Given anonymously", 
   "Date": "1931", 
   "ArtistID": 3595, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "1310.2001", 
-  "ArtistBio": "Austrian, 1870\u20131933", 
-  "CreditLine": "Given anonymously", 
+  "ArtistBio": "(Austrian, 1870\u20131933)", 
+  "DateAcquired": "2001-04-30", 
+  "\ufeffTitle": "Plate", 
   "ObjectID": "4673"
 }

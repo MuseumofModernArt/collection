@@ -5,8 +5,7 @@
   "Artist": "Klaus Staeck", 
   "URL": "http://www.moma.org/collection/works/8842", 
   "CuratorApproved": "Y", 
-  "Title": "Und der Haifisch der hat Z\u00e4hne", 
-  "DateAcquired": "2000-12-11", 
+  "CreditLine": "Gift of the designer", 
   "Date": "1975", 
   "ArtistID": 8268, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "1545.2000", 
-  "ArtistBio": "German, born 1938", 
-  "CreditLine": "Gift of the designer", 
+  "ArtistBio": "(German, born 1938)", 
+  "DateAcquired": "2000-12-11", 
+  "\ufeffTitle": "Und der Haifisch der hat Z\u00e4hne", 
   "ObjectID": "8842"
 }

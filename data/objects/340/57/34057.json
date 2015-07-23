@@ -5,8 +5,7 @@
   "Artist": "Marisol (Marisol Escobar)", 
   "URL": "http://www.moma.org/collection/works/34057", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1963-02-13", 
+  "CreditLine": "Gift of the artist", 
   "Date": "(1960)", 
   "ArtistID": 3774, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "111.1963", 
-  "ArtistBio": "Venezuelan, born France 1930", 
-  "CreditLine": "Gift of the artist", 
+  "ArtistBio": "(Venezuelan, born France 1930)", 
+  "DateAcquired": "1963-02-13", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "34057"
 }

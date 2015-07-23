@@ -5,8 +5,7 @@
   "Artist": "Mark Cohen", 
   "URL": "http://www.moma.org/collection/works/50977", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1974-06-04", 
+  "CreditLine": "Purchase", 
   "Date": "March 12, 1974", 
   "ArtistID": 1175, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "331.1974", 
-  "ArtistBio": "American, born 1943", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, born 1943)", 
+  "DateAcquired": "1974-06-04", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "50977"
 }

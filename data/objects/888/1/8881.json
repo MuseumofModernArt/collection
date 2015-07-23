@@ -5,8 +5,7 @@
   "Artist": "Pehr-Olof Nystrom", 
   "URL": "http://www.moma.org/collection/works/8881", 
   "CuratorApproved": "Y", 
-  "Title": "Finland", 
-  "DateAcquired": "2000-12-11", 
+  "CreditLine": "Gift of the designer", 
   "Date": "1960", 
   "Keywords": [
     "online art collection", 
@@ -16,7 +15,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "1576.2000", 
-  "ArtistBio": "Finish", 
-  "CreditLine": "Gift of the designer", 
+  "ArtistBio": "(Finish)", 
+  "DateAcquired": "2000-12-11", 
+  "\ufeffTitle": "Finland", 
   "ObjectID": "8881"
 }

@@ -5,8 +5,7 @@
   "Artist": "Marcel Duchamp", 
   "URL": "http://www.moma.org/collection/works/69630", 
   "CuratorApproved": "Y", 
-  "Title": "Rotoreliefs (Optical Disks)", 
-  "DateAcquired": "1953-06-22", 
+  "CreditLine": "Gift of Rose Fried", 
   "Date": "1953", 
   "ArtistID": 1634, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "466.1953.1-6", 
-  "ArtistBio": "American, born France. 1887\u20131968", 
-  "CreditLine": "Gift of Rose Fried", 
+  "ArtistBio": "(American, born France. 1887\u20131968)", 
+  "DateAcquired": "1953-06-22", 
+  "\ufeffTitle": "Rotoreliefs (Optical Disks)", 
   "ObjectID": "69630"
 }

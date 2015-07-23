@@ -5,8 +5,7 @@
   "Artist": "H. Y. S\u00fcmmons", 
   "URL": "http://www.moma.org/collection/works/45780", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1976-02-24", 
+  "CreditLine": "Gift of Mrs. Raymond C. Collins", 
   "Date": "c. 1919", 
   "ArtistID": 5731, 
   "Keywords": [
@@ -20,7 +19,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "78.1976", 
-  "ArtistBio": "American", 
-  "CreditLine": "Gift of Mrs. Raymond C. Collins", 
+  "ArtistBio": "(American)", 
+  "DateAcquired": "1976-02-24", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "45780"
 }

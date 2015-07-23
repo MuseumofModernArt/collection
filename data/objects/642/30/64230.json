@@ -5,8 +5,7 @@
   "Artist": "Robert Ryman", 
   "URL": "http://www.moma.org/collection/works/64230", 
   "CuratorApproved": "Y", 
-  "Title": "Six Aquatints", 
-  "DateAcquired": "1984-05-23", 
+  "CreditLine": "Gift of Mr. Albert List", 
   "Date": "1975", 
   "ArtistID": 5098, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "197.1984.1-6", 
-  "ArtistBio": "American, born 1930", 
-  "CreditLine": "Gift of Mr. Albert List", 
+  "ArtistBio": "(American, born 1930)", 
+  "DateAcquired": "1984-05-23", 
+  "\ufeffTitle": "Six Aquatints", 
   "ObjectID": "64230"
 }

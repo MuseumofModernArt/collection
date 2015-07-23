@@ -5,8 +5,7 @@
   "Artist": "Angelo Patin", 
   "URL": "http://www.moma.org/collection/works/3152", 
   "CuratorApproved": "Y", 
-  "Title": "Fishing Knife", 
-  "DateAcquired": "1962-11-07", 
+  "CreditLine": "Gift of the designer", 
   "Date": "Unknown", 
   "ArtistID": 4518, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "270.1962", 
-  "ArtistBio": "Italian", 
-  "CreditLine": "Gift of the designer", 
+  "ArtistBio": "(Italian)", 
+  "DateAcquired": "1962-11-07", 
+  "\ufeffTitle": "Fishing Knife", 
   "ObjectID": "3152"
 }

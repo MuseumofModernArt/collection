@@ -1,12 +1,11 @@
 {
   "Medium": "11 collagraphs: 10 printed in color and 1 printed without ink (title page)", 
-  "Dimensions": "page  12 15/16 x 9 13/16\" (33 x 25 cm)  Prints:  various dimensions.", 
+  "Dimensions": "page  12 15/16 x 9 13/16\" (33 x 25 cm)\r\nPrints:  various dimensions.", 
   "Classification": "Illustrated Book", 
   "Artist": "Luisa Zuloaga de Palacios", 
   "URL": "http://www.moma.org/collection/works/13473", 
   "CuratorApproved": "Y", 
-  "Title": "La Rosa del Herbolario", 
-  "DateAcquired": "1970-05-12", 
+  "CreditLine": "Monroe Wheeler Fund", 
   "Date": "(1969)", 
   "ArtistID": 4471, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "204.1970.1-11", 
-  "ArtistBio": "Venezuelan, born 1923", 
-  "CreditLine": "Monroe Wheeler Fund", 
+  "ArtistBio": "(Venezuelan, born 1923)", 
+  "DateAcquired": "1970-05-12", 
+  "\ufeffTitle": "La Rosa del Herbolario", 
   "ObjectID": "13473"
 }

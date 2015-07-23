@@ -1,12 +1,11 @@
 {
   "Medium": "One screenprint from a portfolio of six lithographs, five screenprints and one aquatint", 
-  "Dimensions": "irreg composition  27 13/16 x 16\" (70.7 x 40.6 cm)  sheet  29 15/16 x 22 1/8\" (76.1 x 56.2 cm)", 
+  "Dimensions": "irreg composition  27 13/16 x 16\" (70.7 x 40.6 cm)\r\nsheet  29 15/16 x 22 1/8\" (76.1 x 56.2 cm)", 
   "Classification": "Print", 
   "Artist": "Ilya Bolotowsky", 
   "URL": "http://www.moma.org/collection/works/68743", 
   "CuratorApproved": "Y", 
-  "Title": "BLUE DIAMOND from the portfolio 1776 USA 1976 BICENTENNIAL PRINTS", 
-  "DateAcquired": "1977-11-10", 
+  "CreditLine": "Gift of Special Projects Group", 
   "Date": "1975 (Published 1976).", 
   "ArtistID": 648, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "416.1977.5", 
-  "ArtistBio": "American, born Russia. 1907\u20131981", 
-  "CreditLine": "Gift of Special Projects Group", 
+  "ArtistBio": "(American, born Russia. 1907\u20131981)", 
+  "DateAcquired": "1977-11-10", 
+  "\ufeffTitle": "Blue Diamond from 1776 USA 1976 Bicentennial Prints", 
   "ObjectID": "68743"
 }

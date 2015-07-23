@@ -5,8 +5,7 @@
   "Artist": "Louise Bourgeois", 
   "URL": "http://www.moma.org/collection/works/61282", 
   "CuratorApproved": "Y", 
-  "Title": "Hamlet and Ophelia for BAM", 
-  "DateAcquired": "1997-03-06", 
+  "CreditLine": "Gift of the artist", 
   "Date": "1997", 
   "ArtistID": 710, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "72.1997", 
-  "ArtistBio": "American, born France. 1911\u20132010", 
-  "CreditLine": "Gift of the artist", 
+  "ArtistBio": "(American, born France. 1911\u20132010)", 
+  "DateAcquired": "1997-03-06", 
+  "\ufeffTitle": "Hamlet and Ophelia for BAM", 
   "ObjectID": "61282"
 }

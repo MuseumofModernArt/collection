@@ -5,8 +5,7 @@
   "Artist": "Herbert Bayer", 
   "URL": "http://www.moma.org/collection/works/7487", 
   "CuratorApproved": "Y", 
-  "Title": "Der Direktor Bauhaus Dessau, Hochschule f\u00fcr Gestaltung", 
-  "DateAcquired": "1977-11-28", 
+  "CreditLine": "Jan Tschichold Collection, Gift of Philip Johnson", 
   "Date": "1927", 
   "ArtistID": 399, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "545.1977", 
-  "ArtistBio": "American, born Austria. 1900\u20131985", 
-  "CreditLine": "Jan Tschichold Collection, Gift of Philip Johnson", 
+  "ArtistBio": "(American, born Austria. 1900\u20131985)", 
+  "DateAcquired": "1977-11-28", 
+  "\ufeffTitle": "Der Direktor Bauhaus Dessau, Hochschule f\u00fcr Gestaltung", 
   "ObjectID": "7487"
 }

@@ -1,12 +1,11 @@
 {
   "Medium": "Chromogenic color prints", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Photograph", 
   "Artist": "Jan Groover", 
   "URL": "http://www.moma.org/collection/works/50919", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1994-06-09", 
+  "CreditLine": "Gift of Lily Auchincloss", 
   "Date": "1975", 
   "ArtistID": 2358, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "328.1994.a-c.x1-x2", 
-  "ArtistBio": "American, 1943\u20132012", 
-  "CreditLine": "Gift of Lily Auchincloss", 
+  "ArtistBio": "(American, 1943\u20132012)", 
+  "DateAcquired": "1994-06-09", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "50919"
 }

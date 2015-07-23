@@ -1,12 +1,11 @@
 {
   "Medium": "Monotype on newsprint", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "Benni Efrat", 
   "URL": "http://www.moma.org/collection/works/64749", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1972-05-08", 
+  "CreditLine": "Gift of George and Janet Jaffin Foundation", 
   "Date": "(c. 1970)", 
   "ArtistID": 1687, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "226.1972", 
-  "ArtistBio": "Israeli", 
-  "CreditLine": "Gift of George and Janet Jaffin Foundation", 
+  "ArtistBio": "(Israeli)", 
+  "DateAcquired": "1972-05-08", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "64749"
 }

@@ -5,8 +5,7 @@
   "Artist": "Sergio Gonzalez-Tornero", 
   "URL": "http://www.moma.org/collection/works/65965", 
   "CuratorApproved": "Y", 
-  "Title": "The Committee of Sixteen", 
-  "DateAcquired": "1969-04-16", 
+  "CreditLine": "Inter-American Fund", 
   "Date": "1967", 
   "ArtistID": 2232, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "282.1969", 
-  "ArtistBio": "Chilean, born 1927", 
-  "CreditLine": "Inter-American Fund", 
+  "ArtistBio": "(Chilean, born 1927)", 
+  "DateAcquired": "1969-04-16", 
+  "\ufeffTitle": "The Committee of Sixteen", 
   "ObjectID": "65965"
 }

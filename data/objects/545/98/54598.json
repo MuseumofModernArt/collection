@@ -5,8 +5,7 @@
   "Artist": "Dan Weiner", 
   "URL": "http://www.moma.org/collection/works/54598", 
   "CuratorApproved": "Y", 
-  "Title": "Old Age Home Near Fort Wayne, Indiana", 
-  "DateAcquired": "1994-10-13", 
+  "CreditLine": "Gift of Sandra Weiner", 
   "Date": "1951", 
   "ArtistID": 6287, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "514.1994", 
-  "ArtistBio": "American, 1919\u20131959", 
-  "CreditLine": "Gift of Sandra Weiner", 
+  "ArtistBio": "(American, 1919\u20131959)", 
+  "DateAcquired": "1994-10-13", 
+  "\ufeffTitle": "Old Age Home Near Fort Wayne, Indiana", 
   "ObjectID": "54598"
 }

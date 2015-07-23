@@ -5,8 +5,7 @@
   "Artist": "Jacques de la Villegl\u00e9", 
   "URL": "http://www.moma.org/collection/works/35414", 
   "CuratorApproved": "Y", 
-  "Title": "122 rue du temple", 
-  "DateAcquired": "1988-05-05", 
+  "CreditLine": "Gift of Joachim Aberbach (by exchange)", 
   "Date": "1968", 
   "ArtistID": 6163, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "229.1988", 
-  "ArtistBio": "French, born 1926", 
-  "CreditLine": "Gift of Joachim Aberbach (by exchange)", 
+  "ArtistBio": "(French, born 1926)", 
+  "DateAcquired": "1988-05-05", 
+  "\ufeffTitle": "122 rue du temple", 
   "ObjectID": "35414"
 }

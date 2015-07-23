@@ -5,8 +5,7 @@
   "Artist": "Siegfried Schott", 
   "URL": "http://www.moma.org/collection/works/68334", 
   "CuratorApproved": "Y", 
-  "Title": "Death from the periodical K\u00fcndung, vol. 1, no. 7, 8 (July, August 1921)  ", 
-  "DateAcquired": "1956-10-25", 
+  "CreditLine": "Given anonymously", 
   "Date": "1921", 
   "ArtistID": 6853, 
   "Keywords": [
@@ -23,7 +22,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "392.1956.15", 
-  "ArtistBio": "German, 1897\u20131971", 
-  "CreditLine": "Given anonymously", 
+  "ArtistBio": "(German, 1897\u20131971)", 
+  "DateAcquired": "1956-10-25", 
+  "\ufeffTitle": "Death (Der Tod) from the periodical K\u00fcndung, vol. 1, no. 7, 8 (July, August 1921)", 
   "ObjectID": "68334"
 }

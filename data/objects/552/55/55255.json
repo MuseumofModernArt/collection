@@ -5,8 +5,7 @@
   "Artist": "Jules Allen", 
   "URL": "http://www.moma.org/collection/works/55255", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1990-12-13", 
+  "CreditLine": "Purchase", 
   "Date": "1987", 
   "ArtistID": 6995, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "571.1990", 
-  "ArtistBio": "American, born 1947", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, born 1947)", 
+  "DateAcquired": "1990-12-13", 
+  "\ufeffTitle": "Untitled from the series The Hats and The Hat Nots", 
   "ObjectID": "55255"
 }

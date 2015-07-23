@@ -5,8 +5,7 @@
   "Artist": "William Clift", 
   "URL": "http://www.moma.org/collection/works/56001", 
   "CuratorApproved": "Y", 
-  "Title": "Swing, Tesuque, New Mexico", 
-  "DateAcquired": "1983-11-10", 
+  "CreditLine": "Gift of the photographer", 
   "Date": "1973", 
   "ArtistID": 1152, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "677.1983", 
-  "ArtistBio": "American, born 1944", 
-  "CreditLine": "Gift of the photographer", 
+  "ArtistBio": "(American, born 1944)", 
+  "DateAcquired": "1983-11-10", 
+  "\ufeffTitle": "Swing, Tesuque, New Mexico", 
   "ObjectID": "56001"
 }

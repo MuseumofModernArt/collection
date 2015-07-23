@@ -5,8 +5,7 @@
   "Artist": "Max Pechstein", 
   "URL": "http://www.moma.org/collection/works/65741", 
   "CuratorApproved": "Y", 
-  "Title": "Mask", 
-  "DateAcquired": "1955-10-10", 
+  "CreditLine": "Gift of J. B. Neumann", 
   "Date": "(1909), dated 1908", 
   "ArtistID": 4533, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "272.1955", 
-  "ArtistBio": "German, 1881\u20131955", 
-  "CreditLine": "Gift of J. B. Neumann", 
+  "ArtistBio": "(German, 1881\u20131955)", 
+  "DateAcquired": "1955-10-10", 
+  "\ufeffTitle": "Mask (Maske)", 
   "ObjectID": "65741"
 }

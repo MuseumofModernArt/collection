@@ -5,8 +5,7 @@
   "Artist": "H. C. Westermann", 
   "URL": "http://www.moma.org/collection/works/33462", 
   "CuratorApproved": "Y", 
-  "Title": "The Nightbird", 
-  "DateAcquired": "1999-02-25", 
+  "CreditLine": "Committee on Drawings Funds", 
   "Date": "1978", 
   "ArtistID": 6322, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "40.1999", 
-  "ArtistBio": "American, 1922\u20131981", 
-  "CreditLine": "Committee on Drawings Funds", 
+  "ArtistBio": "(American, 1922\u20131981)", 
+  "DateAcquired": "1999-02-25", 
+  "\ufeffTitle": "The Nightbird", 
   "ObjectID": "33462"
 }

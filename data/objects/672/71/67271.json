@@ -5,8 +5,7 @@
   "Artist": "Emil Nolde", 
   "URL": "http://www.moma.org/collection/works/67271", 
   "CuratorApproved": "Y", 
-  "Title": "Grotesques", 
-  "DateAcquired": "1941-01-16", 
+  "CreditLine": "Purchase", 
   "Date": "(1913)", 
   "ArtistID": 4327, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "342.1941", 
-  "ArtistBio": "German, 1867\u20131956", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(German, 1867\u20131956)", 
+  "DateAcquired": "1941-01-16", 
+  "\ufeffTitle": "Grotesques (Grotesken)", 
   "ObjectID": "67271"
 }

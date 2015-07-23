@@ -5,8 +5,7 @@
   "Artist": "Henri de Toulouse-Lautrec", 
   "URL": "http://www.moma.org/collection/works/69402", 
   "CuratorApproved": "Y", 
-  "Title": "Jane Avril", 
-  "DateAcquired": "1954-09-30", 
+  "CreditLine": "Gift of A. Conger Goodyear", 
   "Date": "1893", 
   "ArtistID": 5910, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "456.1954", 
-  "ArtistBio": "French, 1864\u20131901", 
-  "CreditLine": "Gift of A. Conger Goodyear", 
+  "ArtistBio": "(French, 1864\u20131901)", 
+  "DateAcquired": "1954-09-30", 
+  "\ufeffTitle": "Jane Avril", 
   "ObjectID": "69402"
 }

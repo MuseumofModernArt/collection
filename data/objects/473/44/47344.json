@@ -5,8 +5,7 @@
   "Artist": "Nicholas Nixon", 
   "URL": "http://www.moma.org/collection/works/47344", 
   "CuratorApproved": "Y", 
-  "Title": "Boston Common", 
-  "DateAcquired": "1984-05-17", 
+  "CreditLine": "Gift of the artist", 
   "Date": "1978", 
   "ArtistID": 4315, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "172.1984", 
-  "ArtistBio": "American, born 1947", 
-  "CreditLine": "Gift of the artist", 
+  "ArtistBio": "(American, born 1947)", 
+  "DateAcquired": "1984-05-17", 
+  "\ufeffTitle": "Boston Common", 
   "ObjectID": "47344"
 }

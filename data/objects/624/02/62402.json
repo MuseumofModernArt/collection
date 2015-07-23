@@ -5,8 +5,7 @@
   "Artist": "Felix Gonzalez-Torres", 
   "URL": "http://www.moma.org/collection/works/62402", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1989-05-30", 
+  "CreditLine": "Purchase", 
   "Date": "1989", 
   "ArtistID": 2233, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "129.1989", 
-  "ArtistBio": "American, born Cuba. 1957\u20131996", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, born Cuba. 1957\u20131996)", 
+  "DateAcquired": "1989-05-30", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "62402"
 }

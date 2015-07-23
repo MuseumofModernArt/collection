@@ -1,12 +1,11 @@
 {
   "Medium": "Screenprint", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "Alun Leach-Jones", 
   "URL": "http://www.moma.org/collection/works/67368", 
   "CuratorApproved": "Y", 
-  "Title": "On a Clear Day", 
-  "DateAcquired": "1973-10-24", 
+  "CreditLine": "Purchase", 
   "Date": "n.d.", 
   "ArtistID": 3437, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "345.1973", 
-  "ArtistBio": "British, born 1937", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(British, born 1937)", 
+  "DateAcquired": "1973-10-24", 
+  "\ufeffTitle": "On a Clear Day", 
   "ObjectID": "67368"
 }

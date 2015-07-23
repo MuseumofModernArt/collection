@@ -5,8 +5,7 @@
   "Artist": "August Sander", 
   "URL": "http://www.moma.org/collection/works/55016", 
   "CuratorApproved": "Y", 
-  "Title": "Police Officer", 
-  "DateAcquired": "1964-06-15", 
+  "CreditLine": "Gift of the photographer", 
   "Date": "1925", 
   "ArtistID": 5145, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "550.1964", 
-  "ArtistBio": "German, 1876\u20131964", 
-  "CreditLine": "Gift of the photographer", 
+  "ArtistBio": "(German, 1876\u20131964)", 
+  "DateAcquired": "1964-06-15", 
+  "\ufeffTitle": "Police Officer", 
   "ObjectID": "55016"
 }

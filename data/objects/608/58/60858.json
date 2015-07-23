@@ -5,8 +5,7 @@
   "Artist": "Louise Bourgeois", 
   "URL": "http://www.moma.org/collection/works/60858", 
   "CuratorApproved": "Y", 
-  "Title": "Triptych for the Red Room", 
-  "DateAcquired": "1998-03-05", 
+  "CreditLine": "Gift of the artist", 
   "Date": "1994", 
   "ArtistID": 710, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "46.1998.a-c", 
-  "ArtistBio": "American, born France. 1911\u20132010", 
-  "CreditLine": "Gift of the artist", 
+  "ArtistBio": "(American, born France. 1911\u20132010)", 
+  "DateAcquired": "1998-03-05", 
+  "\ufeffTitle": "Triptych for the Red Room", 
   "ObjectID": "60858"
 }

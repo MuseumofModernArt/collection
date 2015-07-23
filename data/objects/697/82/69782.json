@@ -1,12 +1,11 @@
 {
   "Medium": "Lithograph on three sheets", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "Allen Ruppersberg", 
   "URL": "http://www.moma.org/collection/works/69782", 
   "CuratorApproved": "Y", 
-  "Title": "A Private Reading", 
-  "DateAcquired": "1992-11-04", 
+  "CreditLine": "John B. Turner Fund", 
   "Date": "1978", 
   "ArtistID": 5084, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "478.1992.a-c", 
-  "ArtistBio": "American, born 1944", 
-  "CreditLine": "John B. Turner Fund", 
+  "ArtistBio": "(American, born 1944)", 
+  "DateAcquired": "1992-11-04", 
+  "\ufeffTitle": "A Private Reading", 
   "ObjectID": "69782"
 }

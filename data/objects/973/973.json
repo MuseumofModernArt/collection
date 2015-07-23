@@ -5,8 +5,7 @@
   "Artist": "Paul Rudolph", 
   "URL": "http://www.moma.org/collection/works/973", 
   "CuratorApproved": "Y", 
-  "Title": "Residence for Herbert Green, Cherry Ridge, Pennsylvania", 
-  "DateAcquired": "1989-05-16", 
+  "CreditLine": "Gift of the architect", 
   "Date": "1968-72", 
   "ArtistID": 5076, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "82.1989", 
-  "ArtistBio": "American, 1918\u20131997", 
-  "CreditLine": "Gift of the architect", 
+  "ArtistBio": "(American, 1918\u20131997)", 
+  "DateAcquired": "1989-05-16", 
+  "\ufeffTitle": "Residence for Herbert Green, Cherry Ridge, Pennsylvania", 
   "ObjectID": "973"
 }

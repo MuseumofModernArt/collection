@@ -5,8 +5,7 @@
   "Artist": "John Cage", 
   "URL": "http://www.moma.org/collection/works/11082", 
   "CuratorApproved": "Y", 
-  "Title": "Not Wanting to say anything about Marcel (with Plexigram II)", 
-  "DateAcquired": "1970-03-05", 
+  "CreditLine": "Donald Karshan Fund", 
   "Date": "1969", 
   "ArtistID": 912, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "86.1970.A-B", 
-  "ArtistBio": "American, 1912\u20131992", 
-  "CreditLine": "Donald Karshan Fund", 
+  "ArtistBio": "(American, 1912\u20131992)", 
+  "DateAcquired": "1970-03-05", 
+  "\ufeffTitle": "Not Wanting to say anything about Marcel (with Plexigram II)", 
   "ObjectID": "11082"
 }

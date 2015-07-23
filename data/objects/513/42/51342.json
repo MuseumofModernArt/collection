@@ -5,8 +5,7 @@
   "Artist": "Weegee (Arthur Fellig)", 
   "URL": "http://www.moma.org/collection/works/51342", 
   "CuratorApproved": "Y", 
-  "Title": "Coney Island", 
-  "DateAcquired": "1982-10-28", 
+  "CreditLine": "Anonymous gift", 
   "Date": "July 22, 1940", 
   "ArtistID": 1842, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "344.1982", 
-  "ArtistBio": "American, born Austria. 1899\u20131968", 
-  "CreditLine": "Anonymous gift", 
+  "ArtistBio": "(American, born Austria. 1899\u20131968)", 
+  "DateAcquired": "1982-10-28", 
+  "\ufeffTitle": "Coney Island", 
   "ObjectID": "51342"
 }

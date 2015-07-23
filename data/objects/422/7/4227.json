@@ -5,8 +5,7 @@
   "Artist": "Timo Sarpaneva", 
   "URL": "http://www.moma.org/collection/works/4227", 
   "CuratorApproved": "Y", 
-  "Title": "Devil's Churn Object", 
-  "DateAcquired": "1995-09-20", 
+  "CreditLine": "Gift from the collection of Mr. and Mrs. Albert Greene", 
   "Date": "1951", 
   "ArtistID": 5168, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "690.1995", 
-  "ArtistBio": "Finnish, 1926\u20132006", 
-  "CreditLine": "Gift from the collection of Mr. and Mrs. Albert Greene", 
+  "ArtistBio": "(Finnish, 1926\u20132006)", 
+  "DateAcquired": "1995-09-20", 
+  "\ufeffTitle": "Devil's Churn Object", 
   "ObjectID": "4227"
 }

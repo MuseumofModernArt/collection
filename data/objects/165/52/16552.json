@@ -5,8 +5,7 @@
   "Artist": "Daniel Buren", 
   "URL": "http://www.moma.org/collection/works/16552", 
   "CuratorApproved": "Y", 
-  "Title": "Passage", 
-  "DateAcquired": "1974-09-11", 
+  "CreditLine": "", 
   "Date": "1972", 
   "ArtistID": 873, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "388.1974.A-G", 
-  "ArtistBio": "French, born 1938", 
-  "CreditLine": "NULL", 
+  "ArtistBio": "(French, born 1938)", 
+  "DateAcquired": "1974-09-11", 
+  "\ufeffTitle": "Passage", 
   "ObjectID": "16552"
 }

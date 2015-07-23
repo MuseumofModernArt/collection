@@ -5,8 +5,7 @@
   "Artist": "Berthold L\u00f6ffler", 
   "URL": "http://www.moma.org/collection/works/5376", 
   "CuratorApproved": "Y", 
-  "Title": "Kunstschau Wien", 
-  "DateAcquired": "1988-04-27", 
+  "CreditLine": "Gift of The Lauder Foundation, Leonard and Evelyn Lauder Fund", 
   "Date": "1908", 
   "ArtistID": 3585, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "158.1988", 
-  "ArtistBio": "Austrian, 1874\u20131960", 
-  "CreditLine": "Gift of The Lauder Foundation, Leonard and Evelyn Lauder Fund", 
+  "ArtistBio": "(Austrian, 1874\u20131960)", 
+  "DateAcquired": "1988-04-27", 
+  "\ufeffTitle": "Kunstschau Wien", 
   "ObjectID": "5376"
 }

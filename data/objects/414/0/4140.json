@@ -5,8 +5,7 @@
   "Artist": "Henry Altchek", 
   "URL": "http://www.moma.org/collection/works/4140", 
   "CuratorApproved": "Y", 
-  "Title": "Bottle Opener", 
-  "DateAcquired": "1980-10-30", 
+  "CreditLine": "Gift of the designer", 
   "Date": "1980", 
   "ArtistID": 126, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "624.1980", 
-  "ArtistBio": "American, born 1943", 
-  "CreditLine": "Gift of the designer", 
+  "ArtistBio": "(American, born 1943)", 
+  "DateAcquired": "1980-10-30", 
+  "\ufeffTitle": "Bottle Opener", 
   "ObjectID": "4140"
 }

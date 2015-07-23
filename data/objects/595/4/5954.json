@@ -5,8 +5,7 @@
   "Artist": "Hans Hillmann", 
   "URL": "http://www.moma.org/collection/works/5954", 
   "CuratorApproved": "Y", 
-  "Title": "Crime et Ch\u00e2timent", 
-  "DateAcquired": "1965-04-06", 
+  "CreditLine": "Gift of the artist", 
   "Date": "1964", 
   "ArtistID": 2653, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "268.1965", 
-  "ArtistBio": "German, born Silesia (now Poland) 1925", 
-  "CreditLine": "Gift of the artist", 
+  "ArtistBio": "(German, born Silesia (now Poland) 1925)", 
+  "DateAcquired": "1965-04-06", 
+  "\ufeffTitle": "Crime et Ch\u00e2timent", 
   "ObjectID": "5954"
 }

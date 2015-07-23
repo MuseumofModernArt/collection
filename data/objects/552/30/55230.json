@@ -5,8 +5,7 @@
   "Artist": "Lee Friedlander", 
   "URL": "http://www.moma.org/collection/works/55230", 
   "CuratorApproved": "Y", 
-  "Title": "Los Angeles, California", 
-  "DateAcquired": "1971-11-10", 
+  "CreditLine": "Purchase", 
   "Date": "1965", 
   "ArtistID": 2002, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "569.1971", 
-  "ArtistBio": "American, born 1934", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, born 1934)", 
+  "DateAcquired": "1971-11-10", 
+  "\ufeffTitle": "Los Angeles, California", 
   "ObjectID": "55230"
 }

@@ -5,8 +5,7 @@
   "Artist": "Helen Frankenthaler", 
   "URL": "http://www.moma.org/collection/works/65962", 
   "CuratorApproved": "Y", 
-  "Title": "Sky Frame", 
-  "DateAcquired": "1964-04-14", 
+  "CreditLine": "Gift of the Celeste and Armand Bartos Foundation", 
   "Date": "1964", 
   "ArtistID": 1974, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "282.1964", 
-  "ArtistBio": "American, 1928\u20132011", 
-  "CreditLine": "Gift of the Celeste and Armand Bartos Foundation", 
+  "ArtistBio": "(American, 1928\u20132011)", 
+  "DateAcquired": "1964-04-14", 
+  "\ufeffTitle": "Sky Frame", 
   "ObjectID": "65962"
 }

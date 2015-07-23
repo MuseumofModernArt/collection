@@ -5,8 +5,7 @@
   "Artist": "Paul Klee", 
   "URL": "http://www.moma.org/collection/works/38598", 
   "CuratorApproved": "Y", 
-  "Title": "Scene of an African Village", 
-  "DateAcquired": "1975-01-24", 
+  "CreditLine": "Gift in memory of Audrey Stern Hess", 
   "Date": "1925", 
   "ArtistID": 3130, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "1368.1974", 
-  "ArtistBio": "German, born Switzerland. 1879\u20131940", 
-  "CreditLine": "Gift in memory of Audrey Stern Hess", 
+  "ArtistBio": "(German, born Switzerland. 1879\u20131940)", 
+  "DateAcquired": "1975-01-24", 
+  "\ufeffTitle": "Scene of an African Village (Afrikanische Dorfscene)", 
   "ObjectID": "38598"
 }

@@ -1,12 +1,11 @@
 {
   "Medium": "Etching", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "Paul Marcus", 
   "URL": "http://www.moma.org/collection/works/65833", 
   "CuratorApproved": "Y", 
-  "Title": "Time Running Out", 
-  "DateAcquired": "1992-05-20", 
+  "CreditLine": "Purchase", 
   "Date": "1992", 
   "ArtistID": 6860, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "275.1992", 
-  "ArtistBio": "American, born 1953", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, born 1953)", 
+  "DateAcquired": "1992-05-20", 
+  "\ufeffTitle": "Time Running Out", 
   "ObjectID": "65833"
 }

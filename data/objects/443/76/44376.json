@@ -5,8 +5,7 @@
   "Artist": "Nadar (Gaspard-F\u00e9lix Tournachon)", 
   "URL": "http://www.moma.org/collection/works/44376", 
   "CuratorApproved": "Y", 
-  "Title": "Baron Isidore Taylor", 
-  "DateAcquired": "1964-01-07", 
+  "CreditLine": "Purchase", 
   "Date": "1872-1875", 
   "ArtistID": 4196, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "35.1964", 
-  "ArtistBio": "French, 1820\u20131910", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(French, 1820\u20131910)", 
+  "DateAcquired": "1964-01-07", 
+  "\ufeffTitle": "Baron Isidore Taylor", 
   "ObjectID": "44376"
 }

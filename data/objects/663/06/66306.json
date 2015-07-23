@@ -5,8 +5,7 @@
   "Artist": "Andy Warhol", 
   "URL": "http://www.moma.org/collection/works/66306", 
   "CuratorApproved": "Y", 
-  "Title": "Paolo Uccello, St. George and the Dragon 1460 from the series Details of Renaissance Paintings  ", 
-  "DateAcquired": "1989-10-12", 
+  "CreditLine": "Gift of Edition Schellmann, Munich and New York", 
   "Date": "1984", 
   "ArtistID": 6246, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "294.1989", 
-  "ArtistBio": "American, 1928\u20131987", 
-  "CreditLine": "Gift of Edition Schellmann, Munich and New York", 
+  "ArtistBio": "(American, 1928\u20131987)", 
+  "DateAcquired": "1989-10-12", 
+  "\ufeffTitle": "Paolo Uccello, St. George and the Dragon 1460 from the series Details of Renaissance Paintings", 
   "ObjectID": "66306"
 }

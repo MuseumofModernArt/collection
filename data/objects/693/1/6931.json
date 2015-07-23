@@ -1,12 +1,11 @@
 {
-  "Medium": "", 
-  "Dimensions": "32 1/2 x 22 1/4 (77.5 x 56.5 cm)", 
-  "Classification": "", 
+  "Medium": "Lithograph", 
+  "Dimensions": "32 1/2 x 22 1/4\" (77.5 x 56.5 cm)", 
+  "Classification": "A&D Graphic Design", 
   "Artist": "Christo (Christo Javacheff)", 
   "URL": "http://www.moma.org/collection/works/6931", 
-  "CuratorApproved": "", 
-  "Title": "Museum of Contemporary Art/ 237 East Ontario Street, Chicago, Illinois 60611/ Title Christo: Wrap in Wrap put/ Date\tChristo (Christo Javacheff)\tAmerican, born Bulgaria 1935\t1969\tLithograph\t32 1/2 x 22 1/4 (77.5 x 56.5 cm)", 
-  "DateAcquired": "1976-10-22", 
+  "CuratorApproved": "Y", 
+  "CreditLine": "Gift of Museum of Contemporary Art, Chicago", 
   "Date": "1969", 
   "ArtistID": 1114, 
   "Keywords": [
@@ -17,9 +16,10 @@
     "Illinois 60611/ Title Christo: Wrap in Wrap put/ Date", 
     "1969"
   ], 
-  "Department": "A&D Graphic Design", 
+  "Department": "Architecture & Design", 
   "MoMANumber": "436.1976", 
-  "ArtistBio": "", 
-  "CreditLine": "", 
+  "ArtistBio": "(American, born Bulgaria 1935)", 
+  "DateAcquired": "1976-10-22", 
+  "\ufeffTitle": "\"Museum of Contemporary Art/ 237 East Ontario Street, Chicago, Illinois 60611/ Title Christo: Wrap in Wrap put/ Date", 
   "ObjectID": "6931"
 }

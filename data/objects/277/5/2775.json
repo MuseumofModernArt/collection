@@ -5,8 +5,7 @@
   "Artist": "Unknown Designer", 
   "URL": "http://www.moma.org/collection/works/2775", 
   "CuratorApproved": "Y", 
-  "Title": "Water Pitcher", 
-  "DateAcquired": "1948-03-17", 
+  "CreditLine": "Gift of Swedish House, Inc.", 
   "Date": "Before 1946", 
   "ArtistID": 6018, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "221.1948", 
-  "ArtistBio": "Swedish", 
-  "CreditLine": "Gift of Swedish House, Inc.", 
+  "ArtistBio": "(Swedish)", 
+  "DateAcquired": "1948-03-17", 
+  "\ufeffTitle": "Water Pitcher", 
   "ObjectID": "2775"
 }

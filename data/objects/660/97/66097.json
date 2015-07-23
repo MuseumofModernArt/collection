@@ -5,8 +5,7 @@
   "Artist": "Giorgio Morandi", 
   "URL": "http://www.moma.org/collection/works/66097", 
   "CuratorApproved": "Y", 
-  "Title": "Landscape", 
-  "DateAcquired": "1957-12-04", 
+  "CreditLine": "James Thrall SOby Fund", 
   "Date": "(c. 1930)", 
   "ArtistID": 4079, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "288.1957", 
-  "ArtistBio": "Italian, 1890\u20131964", 
-  "CreditLine": "James Thrall SOby Fund", 
+  "ArtistBio": "(Italian, 1890\u20131964)", 
+  "DateAcquired": "1957-12-04", 
+  "\ufeffTitle": "Landscape", 
   "ObjectID": "66097"
 }

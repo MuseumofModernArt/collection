@@ -5,8 +5,7 @@
   "Artist": "Wolfgang Laib", 
   "URL": "http://www.moma.org/collection/works/36068", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "2000-10-10", 
+  "CreditLine": "Gift of Sarah-Ann and Werner H. Kramarsky", 
   "Date": "1983", 
   "ArtistID": 3342, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "297.2000", 
-  "ArtistBio": "German, born 1950", 
-  "CreditLine": "Gift of Sarah-Ann and Werner H. Kramarsky", 
+  "ArtistBio": "(German, born 1950)", 
+  "DateAcquired": "2000-10-10", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "36068"
 }

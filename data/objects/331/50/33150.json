@@ -5,8 +5,7 @@
   "Artist": "Ben Shahn", 
   "URL": "http://www.moma.org/collection/works/33150", 
   "CuratorApproved": "Y", 
-  "Title": "The Committee of 100", 
-  "DateAcquired": "1949-02-03", 
+  "CreditLine": "Gift of Lincoln Kirstein", 
   "Date": "(1935)", 
   "ArtistID": 5366, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "13.1949", 
-  "ArtistBio": "American, born Lithuania. 1898\u20131969", 
-  "CreditLine": "Gift of Lincoln Kirstein", 
+  "ArtistBio": "(American, born Lithuania. 1898\u20131969)", 
+  "DateAcquired": "1949-02-03", 
+  "\ufeffTitle": "The Committee of 100", 
   "ObjectID": "33150"
 }

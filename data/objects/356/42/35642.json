@@ -5,8 +5,7 @@
   "Artist": "David Smith", 
   "URL": "http://www.moma.org/collection/works/35642", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled (Tank Totems)", 
-  "DateAcquired": "1976-06-02", 
+  "CreditLine": "Gift of Alexis Gregory", 
   "Date": "1953", 
   "ArtistID": 5480, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "255.1976", 
-  "ArtistBio": "American, 1906\u20131965", 
-  "CreditLine": "Gift of Alexis Gregory", 
+  "ArtistBio": "(American, 1906\u20131965)", 
+  "DateAcquired": "1976-06-02", 
+  "\ufeffTitle": "Untitled (Tank Totems)", 
   "ObjectID": "35642"
 }

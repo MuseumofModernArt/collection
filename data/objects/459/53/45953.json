@@ -5,8 +5,7 @@
   "Artist": "Helen Levitt", 
   "URL": "http://www.moma.org/collection/works/45953", 
   "CuratorApproved": "Y", 
-  "Title": "New York", 
-  "DateAcquired": "1977-03-10", 
+  "CreditLine": "Gilman Foundation Fund", 
   "Date": "1972", 
   "ArtistID": 3520, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "86.1977", 
-  "ArtistBio": "American, 1913\u20132009", 
-  "CreditLine": "Gilman Foundation Fund", 
+  "ArtistBio": "(American, 1913\u20132009)", 
+  "DateAcquired": "1977-03-10", 
+  "\ufeffTitle": "New York", 
   "ObjectID": "45953"
 }

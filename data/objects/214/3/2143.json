@@ -5,8 +5,7 @@
   "Artist": "Edward William Godwin", 
   "URL": "http://www.moma.org/collection/works/2143", 
   "CuratorApproved": "Y", 
-  "Title": "Table", 
-  "DateAcquired": "1996-04-09", 
+  "CreditLine": "Gift of Paul F. Walter", 
   "Date": "c. 1875", 
   "ArtistID": 7512, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "107.1996", 
-  "ArtistBio": "British, 1833\u20131886", 
-  "CreditLine": "Gift of Paul F. Walter", 
+  "ArtistBio": "(British, 1833\u20131886)", 
+  "DateAcquired": "1996-04-09", 
+  "\ufeffTitle": "Table", 
   "ObjectID": "2143"
 }

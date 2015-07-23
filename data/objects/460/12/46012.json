@@ -5,8 +5,7 @@
   "Artist": "Louis Faurer", 
   "URL": "http://www.moma.org/collection/works/46012", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1995-03-09", 
+  "CreditLine": "Nelson A. Rockefeller Fund", 
   "Date": "1949", 
   "ArtistID": 1811, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "88.1995", 
-  "ArtistBio": "American, 1916\u20132001", 
-  "CreditLine": "Nelson A. Rockefeller Fund", 
+  "ArtistBio": "(American, 1916\u20132001)", 
+  "DateAcquired": "1995-03-09", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "46012"
 }

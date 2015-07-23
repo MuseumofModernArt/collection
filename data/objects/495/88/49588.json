@@ -5,8 +5,7 @@
   "Artist": "Thomas Struth", 
   "URL": "http://www.moma.org/collection/works/49588", 
   "CuratorApproved": "Y", 
-  "Title": "Via del Corso (Querformat), Rome", 
-  "DateAcquired": "1999-06-10", 
+  "CreditLine": "The Family of Man Fund", 
   "Date": "1984", 
   "ArtistID": 7825, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "253.1999", 
-  "ArtistBio": "German, born 1954", 
-  "CreditLine": "The Family of Man Fund", 
+  "ArtistBio": "(German, born 1954)", 
+  "DateAcquired": "1999-06-10", 
+  "\ufeffTitle": "Via del Corso (Querformat), Rome", 
   "ObjectID": "49588"
 }

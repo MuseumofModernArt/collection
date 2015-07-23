@@ -5,8 +5,7 @@
   "Artist": "Charles Sheeler", 
   "URL": "http://www.moma.org/collection/works/51264", 
   "CuratorApproved": "Y", 
-  "Title": "Stairwell, Williamsburg", 
-  "DateAcquired": "1959-04-22", 
+  "CreditLine": "Gift of Edward Steichen", 
   "Date": "1935", 
   "ArtistID": 5383, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "341.1959", 
-  "ArtistBio": "American, 1883\u20131965", 
-  "CreditLine": "Gift of Edward Steichen", 
+  "ArtistBio": "(American, 1883\u20131965)", 
+  "DateAcquired": "1959-04-22", 
+  "\ufeffTitle": "Stairwell, Williamsburg", 
   "ObjectID": "51264"
 }

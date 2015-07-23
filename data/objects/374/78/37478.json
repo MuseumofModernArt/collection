@@ -5,8 +5,7 @@
   "Artist": "Alberto Giacometti", 
   "URL": "http://www.moma.org/collection/works/37478", 
   "CuratorApproved": "Y", 
-  "Title": "Igor Stravinsky", 
-  "DateAcquired": "1964-06-30", 
+  "CreditLine": "Gift of Mr. and Mrs. Maxime L. Hermanos", 
   "Date": "1957", 
   "ArtistID": 2141, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "593.1964", 
-  "ArtistBio": "Swiss, 1901\u20131966", 
-  "CreditLine": "Gift of Mr. and Mrs. Maxime L. Hermanos", 
+  "ArtistBio": "(Swiss, 1901\u20131966)", 
+  "DateAcquired": "1964-06-30", 
+  "\ufeffTitle": "Igor Stravinsky", 
   "ObjectID": "37478"
 }

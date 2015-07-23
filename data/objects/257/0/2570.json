@@ -5,8 +5,7 @@
   "Artist": "Edward Moulthrop", 
   "URL": "http://www.moma.org/collection/works/2570", 
   "CuratorApproved": "Y", 
-  "Title": "Bowl", 
-  "DateAcquired": "1988-04-27", 
+  "CreditLine": "Purchase", 
   "Date": "1987", 
   "ArtistID": 4130, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "150.1988", 
-  "ArtistBio": "American, born 1916", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, born 1916)", 
+  "DateAcquired": "1988-04-27", 
+  "\ufeffTitle": "Bowl", 
   "ObjectID": "2570"
 }

@@ -5,8 +5,7 @@
   "Artist": "Jan Sawka", 
   "URL": "http://www.moma.org/collection/works/8350", 
   "CuratorApproved": "Y", 
-  "Title": "Jazz Nad Odra, Jazz on Odra River", 
-  "DateAcquired": "1979-05-30", 
+  "CreditLine": "Gift of the artist", 
   "Date": "1973", 
   "ArtistID": 5189, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "897.1979", 
-  "ArtistBio": "Polish, 1946\u20132012", 
-  "CreditLine": "Gift of the artist", 
+  "ArtistBio": "(Polish, 1946\u20132012)", 
+  "DateAcquired": "1979-05-30", 
+  "\ufeffTitle": "Jazz Nad Odra, Jazz on Odra River", 
   "ObjectID": "8350"
 }

@@ -5,8 +5,7 @@
   "Artist": "Stephen Frykholm", 
   "URL": "http://www.moma.org/collection/works/7677", 
   "CuratorApproved": "Y", 
-  "Title": "Herman Miller Summer Picnic July 26, 1980", 
-  "DateAcquired": "1981-12-10", 
+  "CreditLine": "Gift of the designer", 
   "Date": "1980", 
   "ArtistID": 2019, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "597.1981", 
-  "ArtistBio": "American, born 1942", 
-  "CreditLine": "Gift of the designer", 
+  "ArtistBio": "(American, born 1942)", 
+  "DateAcquired": "1981-12-10", 
+  "\ufeffTitle": "Herman Miller Summer Picnic July 26, 1980", 
   "ObjectID": "7677"
 }

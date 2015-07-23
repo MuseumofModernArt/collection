@@ -5,8 +5,7 @@
   "Artist": "Paul Klee", 
   "URL": "http://www.moma.org/collection/works/62220", 
   "CuratorApproved": "Y", 
-  "Title": "Head", 
-  "DateAcquired": "1946-05-07", 
+  "CreditLine": "Philip Johnson Fund", 
   "Date": "1925 (published 1930)", 
   "ArtistID": 3130, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "122.1946", 
-  "ArtistBio": "German, born Switzerland. 1879\u20131940", 
-  "CreditLine": "Philip Johnson Fund", 
+  "ArtistBio": "(German, born Switzerland. 1879\u20131940)", 
+  "DateAcquired": "1946-05-07", 
+  "\ufeffTitle": "Head (Kopf)", 
   "ObjectID": "62220"
 }

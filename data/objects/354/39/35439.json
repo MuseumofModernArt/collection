@@ -5,8 +5,7 @@
   "Artist": "Robert Delaunay", 
   "URL": "http://www.moma.org/collection/works/35439", 
   "CuratorApproved": "Y", 
-  "Title": "The Tower and the Wheel", 
-  "DateAcquired": "1935-11-12", 
+  "CreditLine": "Abby Aldrich Rockefeller Fund", 
   "Date": "(c. 1912-13)", 
   "ArtistID": 1479, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "234.1935", 
-  "ArtistBio": "French, 1885\u20131941", 
-  "CreditLine": "Abby Aldrich Rockefeller Fund", 
+  "ArtistBio": "(French, 1885\u20131941)", 
+  "DateAcquired": "1935-11-12", 
+  "\ufeffTitle": "The Tower and the Wheel", 
   "ObjectID": "35439"
 }

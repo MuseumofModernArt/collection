@@ -1,12 +1,11 @@
 {
   "Medium": "Aquatint, drypoint and roulette", 
-  "Dimensions": "plate  43 3/4 x 29 5/16\" (111.1 x 74.4 cm)  sheet  52 13/16 x 37 7/16\" (134 x 95.1 cm)", 
+  "Dimensions": "plate  43 3/4 x 29 5/16\" (111.1 x 74.4 cm)\r\nsheet  52 13/16 x 37 7/16\" (134 x 95.1 cm)", 
   "Classification": "Print", 
   "Artist": "Edward Ruscha", 
   "URL": "http://www.moma.org/collection/works/62885", 
   "CuratorApproved": "Y", 
-  "Title": "Hourglass", 
-  "DateAcquired": "1989-05-30", 
+  "CreditLine": "Gift of Crown Point Press in celebration of its 25th anniversary", 
   "Date": "1988", 
   "ArtistID": 5086, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "142.1989", 
-  "ArtistBio": "American, born 1937", 
-  "CreditLine": "Gift of Crown Point Press in celebration of its 25th anniversary", 
+  "ArtistBio": "(American, born 1937)", 
+  "DateAcquired": "1989-05-30", 
+  "\ufeffTitle": "Hourglass", 
   "ObjectID": "62885"
 }

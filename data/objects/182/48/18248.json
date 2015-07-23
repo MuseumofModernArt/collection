@@ -1,12 +1,11 @@
 {
   "Medium": "Monograph with one screenprint and one multiple of black polyester resin", 
-  "Dimensions": "page  12 15/16 x 11 13/16\" (33 x 30 cm)  Print and multiple:  Various dimensions.", 
+  "Dimensions": "page  12 15/16 x 11 13/16\" (33 x 30 cm)\r\nPrint and multiple:  Various dimensions.", 
   "Classification": "Illustrated Book", 
   "Artist": "Louise Nevelson", 
   "URL": "http://www.moma.org/collection/works/18248", 
   "CuratorApproved": "Y", 
-  "Title": "Nevelson's World", 
-  "DateAcquired": "1985-01-30", 
+  "CreditLine": "Gift of Helen and Paul Anbinder", 
   "Date": "1983", 
   "ArtistID": 4278, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "530.1984.1-2", 
-  "ArtistBio": "American, born Ukraine. 1899\u20131988", 
-  "CreditLine": "Gift of Helen and Paul Anbinder", 
+  "ArtistBio": "(American, born Ukraine. 1899\u20131988)", 
+  "DateAcquired": "1985-01-30", 
+  "\ufeffTitle": "Nevelson's World", 
   "ObjectID": "18248"
 }

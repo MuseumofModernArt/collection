@@ -5,8 +5,7 @@
   "Artist": "Mario Bellini", 
   "URL": "http://www.moma.org/collection/works/3631", 
   "CuratorApproved": "Y", 
-  "Title": "Lettera 10 Portable Typewriter", 
-  "DateAcquired": "1987-11-18", 
+  "CreditLine": "Gift of the manufacturer", 
   "Date": "1976-77", 
   "ArtistID": 451, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "445.1987", 
-  "ArtistBio": "Italian, born 1935", 
-  "CreditLine": "Gift of the manufacturer", 
+  "ArtistBio": "(Italian, born 1935)", 
+  "DateAcquired": "1987-11-18", 
+  "\ufeffTitle": "Lettera 10 Portable Typewriter", 
   "ObjectID": "3631"
 }

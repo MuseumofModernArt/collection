@@ -5,8 +5,7 @@
   "Artist": "Georges Rouault", 
   "URL": "http://www.moma.org/collection/works/61338", 
   "CuratorApproved": "Y", 
-  "Title": "Miss Bittersweet", 
-  "DateAcquired": "1957-05-15", 
+  "CreditLine": "Gift of the Curt Valentin Estate", 
   "Date": "Published 1938.", 
   "ArtistID": 5053, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "75.1957", 
-  "ArtistBio": "French, 1871\u20131958", 
-  "CreditLine": "Gift of the Curt Valentin Estate", 
+  "ArtistBio": "(French, 1871\u20131958)", 
+  "DateAcquired": "1957-05-15", 
+  "\ufeffTitle": "Miss Bittersweet", 
   "ObjectID": "61338"
 }

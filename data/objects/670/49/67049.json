@@ -1,12 +1,11 @@
 {
   "Medium": "Embossed etching and stencil", 
-  "Dimensions": "irreg composition  17 3/8 x 23 7/8\" (44.1 x 60.6 cm)  irreg sheet  21 1/8 x 26 3/4\" (53 x 68 cm)", 
+  "Dimensions": "irreg composition  17 3/8 x 23 7/8\" (44.1 x 60.6 cm)\r\nirreg sheet  21 1/8 x 26 3/4\" (53 x 68 cm)", 
   "Classification": "Print", 
   "Artist": "William Fares", 
   "URL": "http://www.moma.org/collection/works/67049", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled from the portfolio Tempered", 
-  "DateAcquired": "1980-02-25", 
+  "CreditLine": "John B. Turner Fund", 
   "Date": "1979", 
   "ArtistID": 1802, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "329.1980", 
-  "ArtistBio": "American, born 1942", 
-  "CreditLine": "John B. Turner Fund", 
+  "ArtistBio": "(American, born 1942)", 
+  "DateAcquired": "1980-02-25", 
+  "\ufeffTitle": "Untitled from the portfolio Tempered", 
   "ObjectID": "67049"
 }

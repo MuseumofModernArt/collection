@@ -5,8 +5,7 @@
   "Artist": "Mario Cravo Junior", 
   "URL": "http://www.moma.org/collection/works/33039", 
   "CuratorApproved": "Y", 
-  "Title": "Studies for Sculpture", 
-  "DateAcquired": "1962-01-09", 
+  "CreditLine": "Inter-American Fund", 
   "Date": "1959", 
   "ArtistID": 1297, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "6.1962", 
-  "ArtistBio": "Brazilian, born 1923", 
-  "CreditLine": "Inter-American Fund", 
+  "ArtistBio": "(Brazilian, born 1923)", 
+  "DateAcquired": "1962-01-09", 
+  "\ufeffTitle": "Studies for Sculpture", 
   "ObjectID": "33039"
 }

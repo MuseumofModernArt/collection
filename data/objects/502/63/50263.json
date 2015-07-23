@@ -5,8 +5,7 @@
   "Artist": "Lennart Olson", 
   "URL": "http://www.moma.org/collection/works/50263", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1959-04-22", 
+  "CreditLine": "Gift of the photographer", 
   "Date": "1940-53", 
   "ArtistID": 4406, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "303.1959", 
-  "ArtistBio": "Swedish, born 1925", 
-  "CreditLine": "Gift of the photographer", 
+  "ArtistBio": "(Swedish, born 1925)", 
+  "DateAcquired": "1959-04-22", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "50263"
 }

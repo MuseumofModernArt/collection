@@ -5,8 +5,7 @@
   "Artist": "Jean Le Gac", 
   "URL": "http://www.moma.org/collection/works/64167", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1990-05-02", 
+  "CreditLine": "Purchase", 
   "Date": "(1985)", 
   "ArtistID": 3428, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "194.1990.a-b", 
-  "ArtistBio": "French, born 1936", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(French, born 1936)", 
+  "DateAcquired": "1990-05-02", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "64167"
 }

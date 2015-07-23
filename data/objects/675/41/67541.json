@@ -5,8 +5,7 @@
   "Artist": "Pablo Picasso", 
   "URL": "http://www.moma.org/collection/works/67541", 
   "CuratorApproved": "Y", 
-  "Title": "May 4 1945 (4 Mai 1945), second state", 
-  "DateAcquired": "1948-10-06", 
+  "CreditLine": "Gift of Victor S. Riesenfeld", 
   "Date": "(May 4, 1945)", 
   "ArtistID": 4609, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "354.1948", 
-  "ArtistBio": "Spanish, 1881\u20131973", 
-  "CreditLine": "Gift of Victor S. Riesenfeld", 
+  "ArtistBio": "(Spanish, 1881\u20131973)", 
+  "DateAcquired": "1948-10-06", 
+  "\ufeffTitle": "May 4 1945 (4 Mai 1945), second state", 
   "ObjectID": "67541"
 }

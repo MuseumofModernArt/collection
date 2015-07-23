@@ -5,8 +5,7 @@
   "Artist": "Carl Aub\u00f6ck", 
   "URL": "http://www.moma.org/collection/works/4235", 
   "CuratorApproved": "Y", 
-  "Title": "Fondue Fork", 
-  "DateAcquired": "1959-12-30", 
+  "CreditLine": "Gift of the designer", 
   "Date": "1959", 
   "ArtistID": 238, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "703.1959", 
-  "ArtistBio": "Austrian, 1924\u20131993", 
-  "CreditLine": "Gift of the designer", 
+  "ArtistBio": "(Austrian, 1924\u20131993)", 
+  "DateAcquired": "1959-12-30", 
+  "\ufeffTitle": "Fondue Fork", 
   "ObjectID": "4235"
 }

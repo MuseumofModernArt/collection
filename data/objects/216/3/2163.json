@@ -5,8 +5,7 @@
   "Artist": "Lohmann GmbH and Co., Neuwield, Germany", 
   "URL": "http://www.moma.org/collection/works/2163", 
   "CuratorApproved": "Y", 
-  "Title": "Paraform", 
-  "DateAcquired": "1996-04-09", 
+  "CreditLine": "Gift of the manufacturer", 
   "Date": "c. 1995", 
   "Keywords": [
     "online art collection", 
@@ -19,7 +18,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "111.1996.1-27", 
-  "ArtistBio": "NULL", 
-  "CreditLine": "Gift of the manufacturer", 
+  "ArtistBio": "", 
+  "DateAcquired": "1996-04-09", 
+  "\ufeffTitle": "Paraform", 
   "ObjectID": "2163"
 }

@@ -1,12 +1,11 @@
 {
   "Medium": "Computer-generated laser print", 
-  "Dimensions": "8 1/2 x 15 1/4\" (21.6 x 38.7 cm)  ", 
+  "Dimensions": "8 1/2 x 15 1/4\" (21.6 x 38.7 cm)\r\n", 
   "Classification": "A&D Architectural Drawing", 
   "Artist": "Mario Bellini", 
   "URL": "http://www.moma.org/collection/works/345", 
   "CuratorApproved": "Y", 
-  "Title": "Motorway Service Station Project  Exterior perspective", 
-  "DateAcquired": "1996-09-25", 
+  "CreditLine": "Gift of the architect in honor of Philip Johnson", 
   "Date": "1989.", 
   "ArtistID": 451, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "351.1996", 
-  "ArtistBio": "Italian, born 1935", 
-  "CreditLine": "Gift of the architect in honor of Philip Johnson", 
+  "ArtistBio": "(Italian, born 1935)", 
+  "DateAcquired": "1996-09-25", 
+  "\ufeffTitle": "Motorway Service Station Project, Exterior perspective", 
   "ObjectID": "345"
 }

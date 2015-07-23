@@ -5,8 +5,7 @@
   "Artist": "Leopoldo and Guiseppe Alinari", 
   "URL": "http://www.moma.org/collection/works/55245", 
   "CuratorApproved": "Y", 
-  "Title": "The Rape of the Sabines by Giovanni Bologna, Loggia Dei Lanzi, Florence", 
-  "DateAcquired": "1990-12-13", 
+  "CreditLine": "Purchase", 
   "Date": "c. 1865", 
   "ArtistID": 113, 
   "Keywords": [
@@ -20,7 +19,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "570.1990", 
-  "ArtistBio": "Italian", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(Italian)", 
+  "DateAcquired": "1990-12-13", 
+  "\ufeffTitle": "The Rape of the Sabines by Giovanni Bologna, Loggia Dei Lanzi, Florence", 
   "ObjectID": "55245"
 }

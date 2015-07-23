@@ -5,8 +5,7 @@
   "Artist": "Antonio Segui", 
   "URL": "http://www.moma.org/collection/works/63492", 
   "CuratorApproved": "Y", 
-  "Title": "Rue l'\u00c9pic", 
-  "DateAcquired": "1979-05-01", 
+  "CreditLine": "Gift of the artist", 
   "Date": "1978", 
   "ArtistID": 5319, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "169.1979", 
-  "ArtistBio": "Argentine, born 1934", 
-  "CreditLine": "Gift of the artist", 
+  "ArtistBio": "(Argentine, born 1934)", 
+  "DateAcquired": "1979-05-01", 
+  "\ufeffTitle": "Rue l'\u00c9pic", 
   "ObjectID": "63492"
 }

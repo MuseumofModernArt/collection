@@ -1,12 +1,11 @@
 {
   "Medium": "Wood engraving", 
-  "Dimensions": "composition  7 7/16 x 6 1/2\" (18.9 x 16.5 cm)  sheet  11 1/16 x 9 7/16\" (28 x 24 cm)  Comp (irreg): 7 7/16 x 6 1/2\" (18.9 x 16.5  cm) Sheet: 11 1/16 x 9 7/16\" (28.1 x 24.0  cm)", 
+  "Dimensions": "composition  7 7/16 x 6 1/2\" (18.9 x 16.5 cm)\r\nsheet  11 1/16 x 9 7/16\" (28 x 24 cm)\r\nComp (irreg): 7 7/16 x 6 1/2\" (18.9 x 16.5  cm) Sheet: 11 1/16 x 9 7/16\" (28.1 x 24.0  cm)", 
   "Classification": "Print", 
   "Artist": "Nikolai Kupreianov", 
   "URL": "http://www.moma.org/collection/works/60450", 
   "CuratorApproved": "Y", 
-  "Title": "In a Kitchen - Still Life", 
-  "DateAcquired": "1979-01-23", 
+  "CreditLine": "Gift of the State Hermitage Museum (by exchange)", 
   "Date": "(1920)", 
   "Keywords": [
     "online art collection", 
@@ -16,7 +15,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "29.1979", 
-  "ArtistBio": "Russian", 
-  "CreditLine": "Gift of the State Hermitage Museum (by exchange)", 
+  "ArtistBio": "(Russian)", 
+  "DateAcquired": "1979-01-23", 
+  "\ufeffTitle": "In a Kitchen - Still Life", 
   "ObjectID": "60450"
 }

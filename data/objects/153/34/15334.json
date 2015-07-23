@@ -1,12 +1,11 @@
 {
   "Medium": "Illustrated book with thirty-nine etchings and 6 unbound etchings", 
-  "Dimensions": "irreg. page  17 13/16 x 12 3/16\" (45 x 31 cm)  Prints: various dimensions.", 
+  "Dimensions": "irreg. page  17 13/16 x 12 3/16\" (45 x 31 cm)\r\nPrints: various dimensions.", 
   "Classification": "Illustrated Book", 
   "Artist": "David Hockney", 
   "URL": "http://www.moma.org/collection/works/15334", 
   "CuratorApproved": "Y", 
-  "Title": "Six Fairy Tales", 
-  "DateAcquired": "1972-10-05", 
+  "CreditLine": "Monroe Wheeler Fund", 
   "Date": "1970.  (Prints executed 1969).", 
   "ArtistID": 2678, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "312.1972.A-B", 
-  "ArtistBio": "British, born 1937", 
-  "CreditLine": "Monroe Wheeler Fund", 
+  "ArtistBio": "(British, born 1937)", 
+  "DateAcquired": "1972-10-05", 
+  "\ufeffTitle": "Six Fairy Tales", 
   "ObjectID": "15334"
 }

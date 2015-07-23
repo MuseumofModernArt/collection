@@ -5,8 +5,7 @@
   "Artist": "Earl S. Tupper", 
   "URL": "http://www.moma.org/collection/works/4328", 
   "CuratorApproved": "Y", 
-  "Title": "Tumbler", 
-  "DateAcquired": "1956-10-25", 
+  "CreditLine": "Gift of the manufacturer", 
   "Date": "1954", 
   "ArtistID": 5970, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "529.1956.4", 
-  "ArtistBio": "American, 1907\u20131983", 
-  "CreditLine": "Gift of the manufacturer", 
+  "ArtistBio": "(American, 1907\u20131983)", 
+  "DateAcquired": "1956-10-25", 
+  "\ufeffTitle": "Tumbler", 
   "ObjectID": "4328"
 }

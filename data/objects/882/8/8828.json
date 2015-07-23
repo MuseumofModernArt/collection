@@ -1,12 +1,11 @@
 {
-  "Medium": "NULL", 
+  "Medium": "", 
   "Dimensions": "10 1/2 x 7 7/8 x 1/2\" (26.8 x 20.1 x 1.3 cm)", 
   "Classification": "A&D Graphic Design", 
   "Artist": "Aleksandr Rodchenko", 
   "URL": "http://www.moma.org/collection/works/8828", 
   "CuratorApproved": "Y", 
-  "Title": "L'Art D\u00e9coratif et Industriel de L' U.R.S.S", 
-  "DateAcquired": "2000-12-11", 
+  "CreditLine": "Gift of Jack Banning", 
   "Date": "1925", 
   "ArtistID": 4975, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "1531.2000", 
-  "ArtistBio": "Russian, 1891\u20131956", 
-  "CreditLine": "Gift of Jack Banning", 
+  "ArtistBio": "(Russian, 1891\u20131956)", 
+  "DateAcquired": "2000-12-11", 
+  "\ufeffTitle": "L'Art D\u00e9coratif et Industriel de L' U.R.S.S", 
   "ObjectID": "8828"
 }

@@ -1,12 +1,11 @@
 {
   "Medium": "Portfolio of 40 lithographs", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "Various Artists", 
   "URL": "http://www.moma.org/collection/works/62569", 
   "CuratorApproved": "Y", 
-  "Title": "American Abstract Artists 60th Anniversary Print Portfolio", 
-  "DateAcquired": "1998-03-05", 
+  "CreditLine": "Gift of John Goodyear", 
   "Date": "1997", 
   "ArtistID": 6104, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "135.1998.1-40", 
-  "ArtistBio": "Various", 
-  "CreditLine": "Gift of John Goodyear", 
+  "ArtistBio": "(Various)", 
+  "DateAcquired": "1998-03-05", 
+  "\ufeffTitle": "American Abstract Artists 60th Anniversary Print Portfolio", 
   "ObjectID": "62569"
 }

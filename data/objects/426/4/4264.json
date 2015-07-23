@@ -5,8 +5,7 @@
   "Artist": "Unknown Designer", 
   "URL": "http://www.moma.org/collection/works/4264", 
   "CuratorApproved": "Y", 
-  "Title": "Cookie Cutting Wheel", 
-  "DateAcquired": "1956-10-25", 
+  "CreditLine": "Department Purchase", 
   "Date": "1953", 
   "ArtistID": 6011, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "506.1956", 
-  "ArtistBio": "Nationality unknown", 
-  "CreditLine": "Department Purchase", 
+  "ArtistBio": "(Nationality unknown)", 
+  "DateAcquired": "1956-10-25", 
+  "\ufeffTitle": "Cookie Cutting Wheel", 
   "ObjectID": "4264"
 }

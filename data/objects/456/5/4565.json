@@ -5,8 +5,7 @@
   "Artist": "Guilford Art Company", 
   "URL": "http://www.moma.org/collection/works/4565", 
   "CuratorApproved": "Y", 
-  "Title": "Humidor", 
-  "DateAcquired": "NULL", 
+  "CreditLine": "Gift of Saks Fifth Avenue", 
   "Date": "c. 1941", 
   "Keywords": [
     "online art collection", 
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "928.1942.a-b", 
-  "ArtistBio": "NULL", 
-  "CreditLine": "Gift of Saks Fifth Avenue", 
+  "ArtistBio": "", 
+  "DateAcquired": "", 
+  "\ufeffTitle": "Humidor", 
   "ObjectID": "4565"
 }

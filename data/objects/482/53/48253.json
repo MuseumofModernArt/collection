@@ -5,8 +5,7 @@
   "Artist": "Albert Renger-Patzsch", 
   "URL": "http://www.moma.org/collection/works/48253", 
   "CuratorApproved": "Y", 
-  "Title": "Window of a Building by Hanns Schwippert", 
-  "DateAcquired": "1983-01-13", 
+  "CreditLine": "Purchase", 
   "Date": "1930", 
   "ArtistID": 4866, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "196.1983", 
-  "ArtistBio": "German, 1897\u20131966", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(German, 1897\u20131966)", 
+  "DateAcquired": "1983-01-13", 
+  "\ufeffTitle": "Window of a Building by Hanns Schwippert", 
   "ObjectID": "48253"
 }

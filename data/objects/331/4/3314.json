@@ -5,8 +5,7 @@
   "Artist": "Gaetano Pesce", 
   "URL": "http://www.moma.org/collection/works/3314", 
   "CuratorApproved": "Y", 
-  "Title": "Sitdown Lowback Armchair", 
-  "DateAcquired": "1977-06-01", 
+  "CreditLine": "Gift of the manufacturer", 
   "Date": "1975", 
   "ArtistID": 4570, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "331.1977", 
-  "ArtistBio": "Italian, born 1939", 
-  "CreditLine": "Gift of the manufacturer", 
+  "ArtistBio": "(Italian, born 1939)", 
+  "DateAcquired": "1977-06-01", 
+  "\ufeffTitle": "Sitdown Lowback Armchair", 
   "ObjectID": "3314"
 }

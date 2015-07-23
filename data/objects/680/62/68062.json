@@ -1,12 +1,11 @@
 {
   "Medium": "Lithograph", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "Milton Avery", 
   "URL": "http://www.moma.org/collection/works/68062", 
   "CuratorApproved": "Y", 
-  "Title": "Gray Sea", 
-  "DateAcquired": "1992-01-22", 
+  "CreditLine": "Gift of Leona S. Rosenstock", 
   "Date": "1963", 
   "ArtistID": 250, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "377.1991", 
-  "ArtistBio": "American, 1885\u20131965", 
-  "CreditLine": "Gift of Leona S. Rosenstock", 
+  "ArtistBio": "(American, 1885\u20131965)", 
+  "DateAcquired": "1992-01-22", 
+  "\ufeffTitle": "Gray Sea", 
   "ObjectID": "68062"
 }

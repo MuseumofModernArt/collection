@@ -5,8 +5,7 @@
   "Artist": "Karen Eubel", 
   "URL": "http://www.moma.org/collection/works/17481", 
   "CuratorApproved": "Y", 
-  "Title": "Z", 
-  "DateAcquired": "1977-11-10", 
+  "CreditLine": "Larry Aldrich Fund", 
   "Date": "1976", 
   "ArtistID": 1769, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "463.1977", 
-  "ArtistBio": "American, born 1942", 
-  "CreditLine": "Larry Aldrich Fund", 
+  "ArtistBio": "(American, born 1942)", 
+  "DateAcquired": "1977-11-10", 
+  "\ufeffTitle": "Z", 
   "ObjectID": "17481"
 }

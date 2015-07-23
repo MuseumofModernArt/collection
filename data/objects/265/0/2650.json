@@ -5,8 +5,7 @@
   "Artist": "Louis Comfort Tiffany", 
   "URL": "http://www.moma.org/collection/works/2650", 
   "CuratorApproved": "Y", 
-  "Title": "Vase", 
-  "DateAcquired": "1960-11-16", 
+  "CreditLine": "Gift of Joseph H. Heil", 
   "Date": "1913", 
   "ArtistID": 5876, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "205.1960", 
-  "ArtistBio": "American, 1848\u20131933", 
-  "CreditLine": "Gift of Joseph H. Heil", 
+  "ArtistBio": "(American, 1848\u20131933)", 
+  "DateAcquired": "1960-11-16", 
+  "\ufeffTitle": "Vase", 
   "ObjectID": "2650"
 }

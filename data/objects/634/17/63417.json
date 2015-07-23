@@ -5,8 +5,7 @@
   "Artist": "Jacques Villon", 
   "URL": "http://www.moma.org/collection/works/63417", 
   "CuratorApproved": "Y", 
-  "Title": "The Negro", 
-  "DateAcquired": "1949-03-24", 
+  "CreditLine": "Abby Aldrich Rockefeller Fund", 
   "Date": "1899", 
   "ArtistID": 6165, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "166.1949", 
-  "ArtistBio": "French, 1875\u20131963", 
-  "CreditLine": "Abby Aldrich Rockefeller Fund", 
+  "ArtistBio": "(French, 1875\u20131963)", 
+  "DateAcquired": "1949-03-24", 
+  "\ufeffTitle": "The Negro", 
   "ObjectID": "63417"
 }

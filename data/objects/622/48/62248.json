@@ -1,12 +1,11 @@
 {
   "Medium": "Verifax collage in four sections, with press type additions", 
-  "Dimensions": "composition  12 x 12 15/16\" (30.5 x 32.9 cm)  sheet  12 x 12 15/16\" (30.5 x 32.9 cm)  Frame:  12 3/4 x 13 3/4\" (32.4 x 34.9 cm)", 
+  "Dimensions": "composition  12 x 12 15/16\" (30.5 x 32.9 cm)\r\nsheet  12 x 12 15/16\" (30.5 x 32.9 cm)\r\nFrame:  12 3/4 x 13 3/4\" (32.4 x 34.9 cm)", 
   "Classification": "Print", 
   "Artist": "Wallace Berman", 
   "URL": "http://www.moma.org/collection/works/62248", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1975-05-09", 
+  "CreditLine": "John B. Turner Fund", 
   "Date": "(1967)", 
   "ArtistID": 505, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "123.1975", 
-  "ArtistBio": "American, 1926\u20131976", 
-  "CreditLine": "John B. Turner Fund", 
+  "ArtistBio": "(American, 1926\u20131976)", 
+  "DateAcquired": "1975-05-09", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "62248"
 }

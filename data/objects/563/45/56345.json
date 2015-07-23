@@ -5,8 +5,7 @@
   "Artist": "Guy Bourdin", 
   "URL": "http://www.moma.org/collection/works/56345", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1998-12-10", 
+  "CreditLine": "Purchase", 
   "Date": "1956", 
   "ArtistID": 8189, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "762.1998", 
-  "ArtistBio": "French, 1933\u20131991", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(French, 1933\u20131991)", 
+  "DateAcquired": "1998-12-10", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "56345"
 }

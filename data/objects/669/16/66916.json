@@ -5,8 +5,7 @@
   "Artist": "Max Beckmann", 
   "URL": "http://www.moma.org/collection/works/66916", 
   "CuratorApproved": "Y", 
-  "Title": "Portrait of Frau Parcus I", 
-  "DateAcquired": "1950-11-15", 
+  "CreditLine": "Gift of Leo Auerbach", 
   "Date": "(1921)", 
   "ArtistID": 429, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "323.1950", 
-  "ArtistBio": "German, 1884\u20131950", 
-  "CreditLine": "Gift of Leo Auerbach", 
+  "ArtistBio": "(German, 1884\u20131950)", 
+  "DateAcquired": "1950-11-15", 
+  "\ufeffTitle": "Portrait of Frau Parcus I (Bildnis Frau Parcus I)", 
   "ObjectID": "66916"
 }

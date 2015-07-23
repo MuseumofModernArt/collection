@@ -5,8 +5,7 @@
   "Artist": "Janez Bernik", 
   "URL": "http://www.moma.org/collection/works/69847", 
   "CuratorApproved": "Y", 
-  "Title": "Telephone 5", 
-  "DateAcquired": "1971-10-07", 
+  "CreditLine": "Adriane Reggie Fund", 
   "Date": "1968", 
   "ArtistID": 518, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "481.1971", 
-  "ArtistBio": "Yugoslav, born 1933", 
-  "CreditLine": "Adriane Reggie Fund", 
+  "ArtistBio": "(Yugoslav, born 1933)", 
+  "DateAcquired": "1971-10-07", 
+  "\ufeffTitle": "Telephone 5", 
   "ObjectID": "69847"
 }

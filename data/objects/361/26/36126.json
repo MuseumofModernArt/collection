@@ -5,8 +5,7 @@
   "Artist": "Juan Gris", 
   "URL": "http://www.moma.org/collection/works/36126", 
   "CuratorApproved": "Y", 
-  "Title": "Compotier and Bottle", 
-  "DateAcquired": "1947-12-19", 
+  "CreditLine": "Acquired through the Lillie P. Bliss Bequest", 
   "Date": "1917", 
   "ArtistID": 2349, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "306.1947", 
-  "ArtistBio": "Spanish, 1887\u20131927", 
-  "CreditLine": "Acquired through the Lillie P. Bliss Bequest", 
+  "ArtistBio": "(Spanish, 1887\u20131927)", 
+  "DateAcquired": "1947-12-19", 
+  "\ufeffTitle": "Compotier and Bottle", 
   "ObjectID": "36126"
 }

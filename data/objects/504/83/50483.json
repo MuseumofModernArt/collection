@@ -5,8 +5,7 @@
   "Artist": "Lois Conner", 
   "URL": "http://www.moma.org/collection/works/50483", 
   "CuratorApproved": "Y", 
-  "Title": "Bluff, Utah", 
-  "DateAcquired": "1997-06-12", 
+  "CreditLine": "Gift of Barbara Foshay", 
   "Date": "1992", 
   "ArtistID": 6616, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "310.1997", 
-  "ArtistBio": "American, born 1951", 
-  "CreditLine": "Gift of Barbara Foshay", 
+  "ArtistBio": "(American, born 1951)", 
+  "DateAcquired": "1997-06-12", 
+  "\ufeffTitle": "Bluff, Utah", 
   "ObjectID": "50483"
 }

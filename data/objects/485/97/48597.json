@@ -5,8 +5,7 @@
   "Artist": "Harry Callahan", 
   "URL": "http://www.moma.org/collection/works/48597", 
   "CuratorApproved": "Y", 
-  "Title": "Eleanor and Barbara, Chicago", 
-  "DateAcquired": "1962-05-08", 
+  "CreditLine": "Purchase", 
   "Date": "1954", 
   "ArtistID": 924, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "212.1962", 
-  "ArtistBio": "American, 1912\u20131999", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, 1912\u20131999)", 
+  "DateAcquired": "1962-05-08", 
+  "\ufeffTitle": "Eleanor and Barbara, Chicago", 
   "ObjectID": "48597"
 }

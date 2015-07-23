@@ -5,8 +5,7 @@
   "Artist": "Lester Beall", 
   "URL": "http://www.moma.org/collection/works/5737", 
   "CuratorApproved": "Y", 
-  "Title": "Rural Electrification Administration", 
-  "DateAcquired": "1937-06-30", 
+  "CreditLine": "Gift of the designer", 
   "Date": "1937", 
   "ArtistID": 409, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "221.1937", 
-  "ArtistBio": "American, 1903\u20131969", 
-  "CreditLine": "Gift of the designer", 
+  "ArtistBio": "(American, 1903\u20131969)", 
+  "DateAcquired": "1937-06-30", 
+  "\ufeffTitle": "Rural Electrification Administration", 
   "ObjectID": "5737"
 }

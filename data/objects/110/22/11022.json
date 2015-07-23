@@ -5,8 +5,7 @@
   "Artist": "Mabel Rubli", 
   "URL": "http://www.moma.org/collection/works/11022", 
   "CuratorApproved": "Y", 
-  "Title": "Las Palomas", 
-  "DateAcquired": "1968-02-05", 
+  "CreditLine": "Anonymous gift", 
   "Date": "1966", 
   "ArtistID": 5072, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "75.1968.1-3", 
-  "ArtistBio": "Argentine, born 1933", 
-  "CreditLine": "Anonymous gift", 
+  "ArtistBio": "(Argentine, born 1933)", 
+  "DateAcquired": "1968-02-05", 
+  "\ufeffTitle": "Las Palomas", 
   "ObjectID": "11022"
 }

@@ -5,8 +5,7 @@
   "Artist": "Yasuhiro Kira", 
   "URL": "http://www.moma.org/collection/works/2121", 
   "CuratorApproved": "Y", 
-  "Title": "Wind MIDI Controller (model WX7)", 
-  "DateAcquired": "1989-05-16", 
+  "CreditLine": "Gift of the manufacturer", 
   "Date": "1986", 
   "ArtistID": 3112, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "104.1989", 
-  "ArtistBio": "Japanese, born 1947", 
-  "CreditLine": "Gift of the manufacturer", 
+  "ArtistBio": "(Japanese, born 1947)", 
+  "DateAcquired": "1989-05-16", 
+  "\ufeffTitle": "Wind MIDI Controller (model WX7)", 
   "ObjectID": "2121"
 }

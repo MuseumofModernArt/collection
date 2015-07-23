@@ -5,8 +5,7 @@
   "Artist": "Max Klinger", 
   "URL": "http://www.moma.org/collection/works/61512", 
   "CuratorApproved": "Y", 
-  "Title": "Plague", 
-  "DateAcquired": "1955-04-06", 
+  "CreditLine": "Purchase", 
   "Date": "1903 (published 1904)", 
   "ArtistID": 3149, 
   "Keywords": [
@@ -21,7 +20,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "80.1955", 
-  "ArtistBio": "German, 1857\u20131920", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(German, 1857\u20131920)", 
+  "DateAcquired": "1955-04-06", 
+  "\ufeffTitle": "Plague (Pest) (plate 5) for the portfolio On Death, Part II, Opus XIII (Vom Tode, Zweiter Teil, Opus XIII)", 
   "ObjectID": "61512"
 }

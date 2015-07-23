@@ -1,12 +1,11 @@
 {
   "Medium": "Lithograph with crayon additions", 
-  "Dimensions": "Composition (irreg.): 24 1/2 x 22\" (62.2 x 55.9 cm)  Sheet: 28 3/8 x 23 1/8\" (72.1 x 58.7 cm)", 
+  "Dimensions": "Composition (irreg.): 24 1/2 x 22\" (62.2 x 55.9 cm)\r\nSheet: 28 3/8 x 23 1/8\" (72.1 x 58.7 cm)", 
   "Classification": "Print", 
   "Artist": "Janet Fish", 
   "URL": "http://www.moma.org/collection/works/64626", 
   "CuratorApproved": "Y", 
-  "Title": "Cherries in Brandy", 
-  "DateAcquired": "1983-01-18", 
+  "CreditLine": "Gift of Mr. and Mrs. Samuel Rosenfeld (through the Associates of the Department of Prints and Illustrated Books)", 
   "Date": "1973", 
   "ArtistID": 1892, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "219.1983", 
-  "ArtistBio": "American, born 1938", 
-  "CreditLine": "Gift of Mr. and Mrs. Samuel Rosenfeld (through the Associates of the Department of Prints and Illustrated Books)", 
+  "ArtistBio": "(American, born 1938)", 
+  "DateAcquired": "1983-01-18", 
+  "\ufeffTitle": "Cherries in Brandy", 
   "ObjectID": "64626"
 }

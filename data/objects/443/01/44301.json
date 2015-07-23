@@ -5,8 +5,7 @@
   "Artist": "Aaron Siskind", 
   "URL": "http://www.moma.org/collection/works/44301", 
   "CuratorApproved": "Y", 
-  "Title": "Wickenberg, Arizona", 
-  "DateAcquired": "1984-01-12", 
+  "CreditLine": "Gift of Frances F. L. Beatty", 
   "Date": "1949", 
   "ArtistID": 5456, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "32.1984", 
-  "ArtistBio": "American, 1903\u20131991", 
-  "CreditLine": "Gift of Frances F. L. Beatty", 
+  "ArtistBio": "(American, 1903\u20131991)", 
+  "DateAcquired": "1984-01-12", 
+  "\ufeffTitle": "Wickenberg, Arizona", 
   "ObjectID": "44301"
 }

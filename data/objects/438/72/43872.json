@@ -5,8 +5,7 @@
   "Artist": "Berenice Abbott", 
   "URL": "http://www.moma.org/collection/works/43872", 
   "CuratorApproved": "Y", 
-  "Title": "El at Columbus Avenue and Broadway", 
-  "DateAcquired": "1994-01-13", 
+  "CreditLine": "Purchase", 
   "Date": "1929", 
   "ArtistID": 41, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "1.1994", 
-  "ArtistBio": "American, 1898\u20131991", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, 1898\u20131991)", 
+  "DateAcquired": "1994-01-13", 
+  "\ufeffTitle": "El at Columbus Avenue and Broadway", 
   "ObjectID": "43872"
 }

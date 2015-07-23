@@ -5,8 +5,7 @@
   "Artist": "Vico Magistretti", 
   "URL": "http://www.moma.org/collection/works/2166", 
   "CuratorApproved": "Y", 
-  "Title": "Maralunga Armchair", 
-  "DateAcquired": "1976-03-22", 
+  "CreditLine": "Gift of the manufacturer", 
   "Date": "1973", 
   "ArtistID": 3688, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "112.1976", 
-  "ArtistBio": "Italian, 1920\u20132006", 
-  "CreditLine": "Gift of the manufacturer", 
+  "ArtistBio": "(Italian, 1920\u20132006)", 
+  "DateAcquired": "1976-03-22", 
+  "\ufeffTitle": "Maralunga Armchair", 
   "ObjectID": "2166"
 }

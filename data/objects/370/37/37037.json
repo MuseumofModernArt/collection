@@ -5,8 +5,7 @@
   "Artist": "Mark Rothko", 
   "URL": "http://www.moma.org/collection/works/37037", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1986-12-22", 
+  "CreditLine": "Gift of The Mark Rothko Foundation, Inc.", 
   "Date": "(c. 1944)", 
   "ArtistID": 5047, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "462.1986", 
-  "ArtistBio": "American, born Russia (now Latvia). 1903\u20131970", 
-  "CreditLine": "Gift of The Mark Rothko Foundation, Inc.", 
+  "ArtistBio": "(American, born Russia (now Latvia). 1903\u20131970)", 
+  "DateAcquired": "1986-12-22", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "37037"
 }

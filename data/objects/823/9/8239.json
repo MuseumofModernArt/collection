@@ -5,8 +5,7 @@
   "Artist": "Aleksandr Rodchenko", 
   "URL": "http://www.moma.org/collection/works/8239", 
   "CuratorApproved": "Y", 
-  "Title": "Daesh', no. 14", 
-  "DateAcquired": "1999-12-10", 
+  "CreditLine": "Jan Tschichold Collection, Gift of Philip Johnson", 
   "Date": "1929", 
   "ArtistID": 4975, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "835.1999", 
-  "ArtistBio": "Russian, 1891\u20131956", 
-  "CreditLine": "Jan Tschichold Collection, Gift of Philip Johnson", 
+  "ArtistBio": "(Russian, 1891\u20131956)", 
+  "DateAcquired": "1999-12-10", 
+  "\ufeffTitle": "Daesh', no. 14", 
   "ObjectID": "8239"
 }

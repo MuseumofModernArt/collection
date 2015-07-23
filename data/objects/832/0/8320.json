@@ -5,8 +5,7 @@
   "Artist": "Erik Nitsche", 
   "URL": "http://www.moma.org/collection/works/8320", 
   "CuratorApproved": "Y", 
-  "Title": "What Abstract Art Means To Me", 
-  "DateAcquired": "1979-05-30", 
+  "CreditLine": "Given anonymously", 
   "Date": "Unknown", 
   "ArtistID": 4311, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "882.1979", 
-  "ArtistBio": "Swiss, 1908\u20131998", 
-  "CreditLine": "Given anonymously", 
+  "ArtistBio": "(Swiss, 1908\u20131998)", 
+  "DateAcquired": "1979-05-30", 
+  "\ufeffTitle": "What Abstract Art Means To Me", 
   "ObjectID": "8320"
 }

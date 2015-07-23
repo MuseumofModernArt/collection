@@ -1,12 +1,11 @@
 {
   "Medium": "Ink on tracing paper", 
-  "Dimensions": "11 3/4 x 16 1/2\" (29.8 x 41.9 cm)  ", 
+  "Dimensions": "11 3/4 x 16 1/2\" (29.8 x 41.9 cm)\r\n", 
   "Classification": "A&D Architectural Drawing", 
   "Artist": "Mario Bellini", 
   "URL": "http://www.moma.org/collection/works/430", 
   "CuratorApproved": "Y", 
-  "Title": "The Tokyo Design Center, Tokyo, Japan  Perspective", 
-  "DateAcquired": "1994-09-21", 
+  "CreditLine": "Gift of the architect in honor of Lily Auchincloss", 
   "Date": "1989", 
   "ArtistID": 451, 
   "Keywords": [
@@ -20,7 +19,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "374.1994", 
-  "ArtistBio": "Italian, born 1935", 
-  "CreditLine": "Gift of the architect in honor of Lily Auchincloss", 
+  "ArtistBio": "(Italian, born 1935)", 
+  "DateAcquired": "1994-09-21", 
+  "\ufeffTitle": "The Tokyo Design Center, Tokyo, Japan, Perspective", 
   "ObjectID": "430"
 }

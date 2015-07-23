@@ -5,8 +5,7 @@
   "Artist": "Christian Rohlfs", 
   "URL": "http://www.moma.org/collection/works/37412", 
   "CuratorApproved": "Y", 
-  "Title": "The Entertainer", 
-  "DateAcquired": "1956-12-19", 
+  "CreditLine": "Gift of Mr. and Mrs. Walter Bareiss", 
   "Date": "(1917)", 
   "ArtistID": 5000, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "581.1956", 
-  "ArtistBio": "German, 1849\u20131938", 
-  "CreditLine": "Gift of Mr. and Mrs. Walter Bareiss", 
+  "ArtistBio": "(German, 1849\u20131938)", 
+  "DateAcquired": "1956-12-19", 
+  "\ufeffTitle": "The Entertainer", 
   "ObjectID": "37412"
 }

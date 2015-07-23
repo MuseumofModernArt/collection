@@ -5,8 +5,7 @@
   "Artist": "Max Ernst", 
   "URL": "http://www.moma.org/collection/works/16400", 
   "CuratorApproved": "Y", 
-  "Title": "Plate (page 51) from Wunderhorn", 
-  "DateAcquired": "1971-03-30", 
+  "CreditLine": "Gift of Dain Gallery", 
   "Date": "1970", 
   "ArtistID": 1752, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "374.1971.24", 
-  "ArtistBio": "French, born Germany. 1891\u20131976", 
-  "CreditLine": "Gift of Dain Gallery", 
+  "ArtistBio": "(French, born Germany. 1891\u20131976)", 
+  "DateAcquired": "1971-03-30", 
+  "\ufeffTitle": "Plate (page 51) from Wunderhorn", 
   "ObjectID": "16400"
 }

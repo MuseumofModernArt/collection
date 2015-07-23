@@ -5,8 +5,7 @@
   "Artist": "Richard Haas", 
   "URL": "http://www.moma.org/collection/works/64782", 
   "CuratorApproved": "Y", 
-  "Title": "Puck Corner", 
-  "DateAcquired": "1984-10-02", 
+  "CreditLine": "Gift of Samuel and June Rosenfeld (through the Associates of the Department of Prints and Illustrated Books)", 
   "Date": "1971", 
   "ArtistID": 2433, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "228.1984", 
-  "ArtistBio": "American, born 1936", 
-  "CreditLine": "Gift of Samuel and June Rosenfeld (through the Associates of the Department of Prints and Illustrated Books)", 
+  "ArtistBio": "(American, born 1936)", 
+  "DateAcquired": "1984-10-02", 
+  "\ufeffTitle": "Puck Corner", 
   "ObjectID": "64782"
 }

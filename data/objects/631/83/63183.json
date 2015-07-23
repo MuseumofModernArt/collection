@@ -1,12 +1,11 @@
 {
   "Medium": "Rubber stamp from patterned paint roller", 
-  "Dimensions": "irreg. composition  50 x 38 3/16\" (127 x 97 cm)  sheet  50 x 38 3/16\" (127 x 97 cm)", 
+  "Dimensions": "irreg. composition  50 x 38 3/16\" (127 x 97 cm)\r\nsheet  50 x 38 3/16\" (127 x 97 cm)", 
   "Classification": "Print", 
   "Artist": "Christopher Wool", 
   "URL": "http://www.moma.org/collection/works/63183", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1989-05-30", 
+  "CreditLine": "Gift of Richard Brown Baker, Arnold Smoller and Purchase", 
   "Date": "1988", 
   "ArtistID": 6448, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "146.1989", 
-  "ArtistBio": "American, born 1955", 
-  "CreditLine": "Gift of Richard Brown Baker, Arnold Smoller and Purchase", 
+  "ArtistBio": "(American, born 1955)", 
+  "DateAcquired": "1989-05-30", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "63183"
 }

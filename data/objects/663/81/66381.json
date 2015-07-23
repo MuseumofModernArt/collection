@@ -5,8 +5,7 @@
   "Artist": "Henri de Toulouse-Lautrec", 
   "URL": "http://www.moma.org/collection/works/66381", 
   "CuratorApproved": "Y", 
-  "Title": "La Revue blanche", 
-  "DateAcquired": "1967-04-11", 
+  "CreditLine": "Purchase", 
   "Date": "1895", 
   "ArtistID": 5910, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "298.1967", 
-  "ArtistBio": "French, 1864\u20131901", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(French, 1864\u20131901)", 
+  "DateAcquired": "1967-04-11", 
+  "\ufeffTitle": "La Revue blanche", 
   "ObjectID": "66381"
 }

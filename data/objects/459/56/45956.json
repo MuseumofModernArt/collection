@@ -5,8 +5,7 @@
   "Artist": "Helen Levitt", 
   "URL": "http://www.moma.org/collection/works/45956", 
   "CuratorApproved": "Y", 
-  "Title": "Walker Evans, New York", 
-  "DateAcquired": "1984-03-15", 
+  "CreditLine": "Gift of William H. Levitt", 
   "Date": "c. 1940", 
   "ArtistID": 3520, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "86.1984", 
-  "ArtistBio": "American, 1913\u20132009", 
-  "CreditLine": "Gift of William H. Levitt", 
+  "ArtistBio": "(American, 1913\u20132009)", 
+  "DateAcquired": "1984-03-15", 
+  "\ufeffTitle": "Walker Evans, New York", 
   "ObjectID": "45956"
 }

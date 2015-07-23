@@ -5,8 +5,7 @@
   "Artist": "Alfred Jensen", 
   "URL": "http://www.moma.org/collection/works/33995", 
   "CuratorApproved": "Y", 
-  "Title": "Study", 
-  "DateAcquired": "2000-02-03", 
+  "CreditLine": "Gift of Joyce Pomeroy Schwartz", 
   "Date": "1960", 
   "ArtistID": 2906, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "107.2000", 
-  "ArtistBio": "American, 1903\u20131981", 
-  "CreditLine": "Gift of Joyce Pomeroy Schwartz", 
+  "ArtistBio": "(American, 1903\u20131981)", 
+  "DateAcquired": "2000-02-03", 
+  "\ufeffTitle": "Study", 
   "ObjectID": "33995"
 }

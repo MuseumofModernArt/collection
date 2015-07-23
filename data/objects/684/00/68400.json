@@ -1,12 +1,11 @@
 {
   "Medium": "Lithograph", 
-  "Dimensions": "composition: 30 3/8 \u00d7 21 11/16\" (77.2 \u00d7 55.1 cm); sheet: 39 \u00d7 29 1/2\" (99 \u00d7 75 cm)  ", 
+  "Dimensions": "composition: 30 3/8 \u00d7 21 11/16\" (77.2 \u00d7 55.1 cm); sheet: 39 \u00d7 29 1/2\" (99 \u00d7 75 cm)\r\n", 
   "Classification": "Print", 
   "Artist": "Claes Oldenburg", 
   "URL": "http://www.moma.org/collection/works/68400", 
   "CuratorApproved": "Y", 
-  "Title": "The Letter Q as Beach House, with Sailboat", 
-  "DateAcquired": "1987-10-20", 
+  "CreditLine": "Blanchette Hooker Rockefeller Fund", 
   "Date": "1972", 
   "ArtistID": 4397, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "396.1987", 
-  "ArtistBio": "American, born Sweden 1929", 
-  "CreditLine": "Blanchette Hooker Rockefeller Fund", 
+  "ArtistBio": "(American, born Sweden 1929)", 
+  "DateAcquired": "1987-10-20", 
+  "\ufeffTitle": "The Letter Q as Beach House, with Sailboat", 
   "ObjectID": "68400"
 }

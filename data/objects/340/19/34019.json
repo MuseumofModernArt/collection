@@ -5,8 +5,7 @@
   "Artist": "Paul Klee", 
   "URL": "http://www.moma.org/collection/works/34019", 
   "CuratorApproved": "Y", 
-  "Title": "Hannah", 
-  "DateAcquired": "1978-04-04", 
+  "CreditLine": "The Joan and Lester Avnet Collection", 
   "Date": "1910", 
   "ArtistID": 3130, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "108.1978", 
-  "ArtistBio": "German, born Switzerland. 1879\u20131940", 
-  "CreditLine": "The Joan and Lester Avnet Collection", 
+  "ArtistBio": "(German, born Switzerland. 1879\u20131940)", 
+  "DateAcquired": "1978-04-04", 
+  "\ufeffTitle": "Hannah", 
   "ObjectID": "34019"
 }

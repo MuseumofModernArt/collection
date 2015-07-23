@@ -5,8 +5,7 @@
   "Artist": "Arnulf Rainer", 
   "URL": "http://www.moma.org/collection/works/64290", 
   "CuratorApproved": "Y", 
-  "Title": "Red Cross (Rotes Kreuz)", 
-  "DateAcquired": "1986-05-20", 
+  "CreditLine": "Walter Bareiss Fund", 
   "Date": "(1980-85)", 
   "ArtistID": 4792, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "199.1986", 
-  "ArtistBio": "Austrian, born 1929", 
-  "CreditLine": "Walter Bareiss Fund", 
+  "ArtistBio": "(Austrian, born 1929)", 
+  "DateAcquired": "1986-05-20", 
+  "\ufeffTitle": "Red Cross (Rotes Kreuz)", 
   "ObjectID": "64290"
 }

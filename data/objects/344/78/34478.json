@@ -5,8 +5,7 @@
   "Artist": "Ellsworth Kelly", 
   "URL": "http://www.moma.org/collection/works/34478", 
   "CuratorApproved": "Y", 
-  "Title": "Study for Sculpture for a Large Wall", 
-  "DateAcquired": "1999-05-06", 
+  "CreditLine": "Gift of the artist", 
   "Date": "1956", 
   "ArtistID": 3048, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "127.1999", 
-  "ArtistBio": "American, born 1923", 
-  "CreditLine": "Gift of the artist", 
+  "ArtistBio": "(American, born 1923)", 
+  "DateAcquired": "1999-05-06", 
+  "\ufeffTitle": "Study for Sculpture for a Large Wall", 
   "ObjectID": "34478"
 }

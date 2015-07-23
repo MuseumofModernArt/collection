@@ -5,8 +5,7 @@
   "Artist": "Alton Pickens", 
   "URL": "http://www.moma.org/collection/works/33298", 
   "CuratorApproved": "Y", 
-  "Title": "The Bug", 
-  "DateAcquired": "1947-03-13", 
+  "CreditLine": "A. Conger Goodyear Fund", 
   "Date": "1941", 
   "ArtistID": 4613, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "22.1947", 
-  "ArtistBio": "American, 1917\u20131991", 
-  "CreditLine": "A. Conger Goodyear Fund", 
+  "ArtistBio": "(American, 1917\u20131991)", 
+  "DateAcquired": "1947-03-13", 
+  "\ufeffTitle": "The Bug", 
   "ObjectID": "33298"
 }

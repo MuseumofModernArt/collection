@@ -5,8 +5,7 @@
   "Artist": "Alberto Giacometti", 
   "URL": "http://www.moma.org/collection/works/60770", 
   "CuratorApproved": "Y", 
-  "Title": "Cubist Head", 
-  "DateAcquired": "1968-02-05", 
+  "CreditLine": "Gift of Mr. Stanley W. Hayter", 
   "Date": "1933", 
   "ArtistID": 2141, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "42.1968", 
-  "ArtistBio": "Swiss, 1901\u20131966", 
-  "CreditLine": "Gift of Mr. Stanley W. Hayter", 
+  "ArtistBio": "(Swiss, 1901\u20131966)", 
+  "DateAcquired": "1968-02-05", 
+  "\ufeffTitle": "Cubist Head", 
   "ObjectID": "60770"
 }

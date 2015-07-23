@@ -5,8 +5,7 @@
   "Artist": "Karl Ludwig Straub", 
   "URL": "http://www.moma.org/collection/works/6353", 
   "CuratorApproved": "Y", 
-  "Title": "Werkbund Ausstellung, Die Wohnung", 
-  "DateAcquired": "1937-10-30", 
+  "CreditLine": "Special Purchase Fund", 
   "Date": "1927", 
   "ArtistID": 5687, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "338.1937", 
-  "ArtistBio": "German, 1900\u20131997", 
-  "CreditLine": "Special Purchase Fund", 
+  "ArtistBio": "(German, 1900\u20131997)", 
+  "DateAcquired": "1937-10-30", 
+  "\ufeffTitle": "Werkbund Ausstellung, Die Wohnung", 
   "ObjectID": "6353"
 }

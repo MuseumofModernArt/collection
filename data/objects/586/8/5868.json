@@ -5,8 +5,7 @@
   "Artist": "Ward and Saks Co.", 
   "URL": "http://www.moma.org/collection/works/5868", 
   "CuratorApproved": "Y", 
-  "Title": "Laverne", 
-  "DateAcquired": "1965-04-06", 
+  "CreditLine": "Gift of Ward and Saks Co.", 
   "Date": "Unknown", 
   "Keywords": [
     "online art collection", 
@@ -16,7 +15,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "254.1965", 
-  "ArtistBio": "NULL", 
-  "CreditLine": "Gift of Ward and Saks Co.", 
+  "ArtistBio": "", 
+  "DateAcquired": "1965-04-06", 
+  "\ufeffTitle": "Laverne", 
   "ObjectID": "5868"
 }

@@ -5,8 +5,7 @@
   "Artist": "Koloman Moser", 
   "URL": "http://www.moma.org/collection/works/2338", 
   "CuratorApproved": "Y", 
-  "Title": "Champagne Glass", 
-  "DateAcquired": "1977-03-21", 
+  "CreditLine": "Emilio Ambasz Fund", 
   "Date": "c. 1900", 
   "ArtistID": 4119, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "164.1977", 
-  "ArtistBio": "Austrian, 1868\u20131918", 
-  "CreditLine": "Emilio Ambasz Fund", 
+  "ArtistBio": "(Austrian, 1868\u20131918)", 
+  "DateAcquired": "1977-03-21", 
+  "\ufeffTitle": "Champagne Glass", 
   "ObjectID": "2338"
 }

@@ -5,8 +5,7 @@
   "Artist": "Larry Rivers", 
   "URL": "http://www.moma.org/collection/works/37323", 
   "CuratorApproved": "Y", 
-  "Title": "Portrait of Edwin Denby", 
-  "DateAcquired": "1954-12-16", 
+  "CreditLine": "Given anonymously", 
   "Date": "(1953)", 
   "ArtistID": 4945, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "554.1954", 
-  "ArtistBio": "American, 1923\u20132002", 
-  "CreditLine": "Given anonymously", 
+  "ArtistBio": "(American, 1923\u20132002)", 
+  "DateAcquired": "1954-12-16", 
+  "\ufeffTitle": "Portrait of Edwin Denby", 
   "ObjectID": "37323"
 }

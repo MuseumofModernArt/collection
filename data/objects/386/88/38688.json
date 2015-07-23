@@ -5,8 +5,7 @@
   "Artist": "Alexander Calder", 
   "URL": "http://www.moma.org/collection/works/38688", 
   "CuratorApproved": "Y", 
-  "Title": "Many", 
-  "DateAcquired": "1968-12-11", 
+  "CreditLine": "Gift of Mr. and Mrs. Klaus G. Perls", 
   "Date": "1931", 
   "ArtistID": 922, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "1575.1968", 
-  "ArtistBio": "American, 1898\u20131976", 
-  "CreditLine": "Gift of Mr. and Mrs. Klaus G. Perls", 
+  "ArtistBio": "(American, 1898\u20131976)", 
+  "DateAcquired": "1968-12-11", 
+  "\ufeffTitle": "Many", 
   "ObjectID": "38688"
 }

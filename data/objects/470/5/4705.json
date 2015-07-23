@@ -5,8 +5,7 @@
   "Artist": "Wilhelm Wagenfeld", 
   "URL": "http://www.moma.org/collection/works/4705", 
   "CuratorApproved": "Y", 
-  "Title": "Baking Dish", 
-  "DateAcquired": "2001-04-30", 
+  "CreditLine": "Given anonymously", 
   "Date": "1930-34", 
   "ArtistID": 6208, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "1340.2001.a-b", 
-  "ArtistBio": "German, 1900\u20131990", 
-  "CreditLine": "Given anonymously", 
+  "ArtistBio": "(German, 1900\u20131990)", 
+  "DateAcquired": "2001-04-30", 
+  "\ufeffTitle": "Baking Dish", 
   "ObjectID": "4705"
 }

@@ -5,8 +5,7 @@
   "Artist": "Mark Cohen", 
   "URL": "http://www.moma.org/collection/works/44228", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1974-01-29", 
+  "CreditLine": "Gift of the photographer", 
   "Date": "May 1969", 
   "ArtistID": 1175, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "29.1974", 
-  "ArtistBio": "American, born 1943", 
-  "CreditLine": "Gift of the photographer", 
+  "ArtistBio": "(American, born 1943)", 
+  "DateAcquired": "1974-01-29", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "44228"
 }

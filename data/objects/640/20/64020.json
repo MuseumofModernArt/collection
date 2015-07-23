@@ -5,8 +5,7 @@
   "Artist": "Otto Mueller", 
   "URL": "http://www.moma.org/collection/works/64020", 
   "CuratorApproved": "Y", 
-  "Title": "Three Girls Before the Mirror", 
-  "DateAcquired": "1957-10-09", 
+  "CreditLine": "Gift of Mr. and Mrs. Eugene Victor Thaw", 
   "Date": "(c. 1922)", 
   "ArtistID": 4140, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "187.1957", 
-  "ArtistBio": "German, 1874\u20131930", 
-  "CreditLine": "Gift of Mr. and Mrs. Eugene Victor Thaw", 
+  "ArtistBio": "(German, 1874\u20131930)", 
+  "DateAcquired": "1957-10-09", 
+  "\ufeffTitle": "Three Girls Before the Mirror (Drei M\u00e4dchen vor dem Spiegel)", 
   "ObjectID": "64020"
 }

@@ -5,8 +5,7 @@
   "Artist": "Tommaso Cuccioni", 
   "URL": "http://www.moma.org/collection/works/47016", 
   "CuratorApproved": "Y", 
-  "Title": "Basilica Iovis", 
-  "DateAcquired": "1998-03-12", 
+  "CreditLine": "Gift of John C. Waddell", 
   "Date": "1860s or 1870s", 
   "ArtistID": 7815, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "157.1998", 
-  "ArtistBio": "Italian, died 1864", 
-  "CreditLine": "Gift of John C. Waddell", 
+  "ArtistBio": "(Italian, died 1864)", 
+  "DateAcquired": "1998-03-12", 
+  "\ufeffTitle": "Basilica Iovis", 
   "ObjectID": "47016"
 }

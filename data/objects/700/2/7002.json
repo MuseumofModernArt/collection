@@ -5,8 +5,7 @@
   "Artist": "Franciszek Starowieyski", 
   "URL": "http://www.moma.org/collection/works/7002", 
   "CuratorApproved": "Y", 
-  "Title": "Mademoiselle", 
-  "DateAcquired": "1985-11-18", 
+  "CreditLine": "Gift of the designer", 
   "Date": "1970", 
   "ArtistID": 5607, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "446.1985", 
-  "ArtistBio": "Polish, 1930\u20132009", 
-  "CreditLine": "Gift of the designer", 
+  "ArtistBio": "(Polish, 1930\u20132009)", 
+  "DateAcquired": "1985-11-18", 
+  "\ufeffTitle": "Mademoiselle", 
   "ObjectID": "7002"
 }

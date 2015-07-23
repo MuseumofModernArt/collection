@@ -5,8 +5,7 @@
   "Artist": "Joaqu\u00edn Torres-Garc\u00eda", 
   "URL": "http://www.moma.org/collection/works/38816", 
   "CuratorApproved": "Y", 
-  "Title": "Composition", 
-  "DateAcquired": "1967-12-13", 
+  "CreditLine": "Gift of Dr. and Mrs. Arthur Lejwa, in memory of Mrs. Henry Epstein", 
   "Date": "1932", 
   "ArtistID": 5907, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "2412.1967", 
-  "ArtistBio": "Uruguayan, 1874\u20131949", 
-  "CreditLine": "Gift of Dr. and Mrs. Arthur Lejwa, in memory of Mrs. Henry Epstein", 
+  "ArtistBio": "(Uruguayan, 1874\u20131949)", 
+  "DateAcquired": "1967-12-13", 
+  "\ufeffTitle": "Composition", 
   "ObjectID": "38816"
 }

@@ -5,8 +5,7 @@
   "Artist": "Edda Renouf", 
   "URL": "http://www.moma.org/collection/works/34145", 
   "CuratorApproved": "Y", 
-  "Title": "Marks II", 
-  "DateAcquired": "1974-02-12", 
+  "CreditLine": "Acquired with matching funds from E. Powis Jones and the National Endowment for the Arts", 
   "Date": "1973", 
   "ArtistID": 4870, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "118.1974", 
-  "ArtistBio": "American, born Mexico 1943", 
-  "CreditLine": "Acquired with matching funds from E. Powis Jones and the National Endowment for the Arts", 
+  "ArtistBio": "(American, born Mexico 1943)", 
+  "DateAcquired": "1974-02-12", 
+  "\ufeffTitle": "Marks II", 
   "ObjectID": "34145"
 }

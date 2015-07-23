@@ -5,8 +5,7 @@
   "Artist": "Unknown Artist", 
   "URL": "http://www.moma.org/collection/works/5162", 
   "CuratorApproved": "Y", 
-  "Title": "Dancer from Broadway", 
-  "DateAcquired": "1992-01-15", 
+  "CreditLine": "Poster Fund, Department Purchase", 
   "Date": "1922", 
   "ArtistID": 6026, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "129.1992", 
-  "ArtistBio": "Nationality Unknown", 
-  "CreditLine": "Poster Fund, Department Purchase", 
+  "ArtistBio": "(Nationality Unknown)", 
+  "DateAcquired": "1992-01-15", 
+  "\ufeffTitle": "Dancer from Broadway", 
   "ObjectID": "5162"
 }

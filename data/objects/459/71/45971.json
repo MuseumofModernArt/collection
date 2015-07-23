@@ -5,8 +5,7 @@
   "Artist": "Tod Papageorge", 
   "URL": "http://www.moma.org/collection/works/45971", 
   "CuratorApproved": "Y", 
-  "Title": "Santa Fe, New Mexico", 
-  "DateAcquired": "1971-03-02", 
+  "CreditLine": "Purchase", 
   "Date": "August 1969", 
   "ArtistID": 4490, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "87.1971", 
-  "ArtistBio": "American, born 1940", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, born 1940)", 
+  "DateAcquired": "1971-03-02", 
+  "\ufeffTitle": "Santa Fe, New Mexico", 
   "ObjectID": "45971"
 }

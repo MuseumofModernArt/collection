@@ -5,8 +5,7 @@
   "Artist": "Hilaire-Germain-Edgar Degas", 
   "URL": "http://www.moma.org/collection/works/34679", 
   "CuratorApproved": "Y", 
-  "Title": "At the Milliner's", 
-  "DateAcquired": "1957-10-09", 
+  "CreditLine": "Gift of Mrs. David M. Levy", 
   "Date": "(c. 1882)", 
   "ArtistID": 1465, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "141.1957", 
-  "ArtistBio": "French, 1834\u20131917", 
-  "CreditLine": "Gift of Mrs. David M. Levy", 
+  "ArtistBio": "(French, 1834\u20131917)", 
+  "DateAcquired": "1957-10-09", 
+  "\ufeffTitle": "At the Milliner's", 
   "ObjectID": "34679"
 }

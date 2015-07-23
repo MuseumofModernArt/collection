@@ -5,8 +5,7 @@
   "Artist": "Nicholas Nixon", 
   "URL": "http://www.moma.org/collection/works/52607", 
   "CuratorApproved": "Y", 
-  "Title": "Mrs. Nancy Wheeler, Mrs. Becky Norman, Mrs. Jenny Bull, Mrs. Bobby Maguire, Tennis Club of Albuquerque", 
-  "DateAcquired": "1974-10-01", 
+  "CreditLine": "Purchase", 
   "Date": "August 1973", 
   "ArtistID": 4315, 
   "Keywords": [
@@ -25,7 +24,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "400.1974", 
-  "ArtistBio": "American, born 1947", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, born 1947)", 
+  "DateAcquired": "1974-10-01", 
+  "\ufeffTitle": "Mrs. Nancy Wheeler, Mrs. Becky Norman, Mrs. Jenny Bull, Mrs. Bobby Maguire, Tennis Club of Albuquerque", 
   "ObjectID": "52607"
 }

@@ -5,8 +5,7 @@
   "Artist": "Dan Weiner", 
   "URL": "http://www.moma.org/collection/works/48166", 
   "CuratorApproved": "Y", 
-  "Title": "Edgar Kaiser, Eugene Trefethen, and Henry Kaiser in Conference, Oakland, California", 
-  "DateAcquired": "1989-06-08", 
+  "CreditLine": "Gift of Sandra Weiner", 
   "Date": "1951", 
   "ArtistID": 6287, 
   "Keywords": [
@@ -21,7 +20,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "193.1989", 
-  "ArtistBio": "American, 1919\u20131959", 
-  "CreditLine": "Gift of Sandra Weiner", 
+  "ArtistBio": "(American, 1919\u20131959)", 
+  "DateAcquired": "1989-06-08", 
+  "\ufeffTitle": "Edgar Kaiser, Eugene Trefethen, and Henry Kaiser in Conference, Oakland, California", 
   "ObjectID": "48166"
 }

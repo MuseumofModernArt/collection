@@ -5,8 +5,7 @@
   "Artist": "John Marin", 
   "URL": "http://www.moma.org/collection/works/62802", 
   "CuratorApproved": "Y", 
-  "Title": "Grain Elevator, Weehawken", 
-  "DateAcquired": "1975-05-09", 
+  "CreditLine": "Given anonymously", 
   "Date": "1915", 
   "ArtistID": 3770, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "139.1975", 
-  "ArtistBio": "American, 1870\u20131953", 
-  "CreditLine": "Given anonymously", 
+  "ArtistBio": "(American, 1870\u20131953)", 
+  "DateAcquired": "1975-05-09", 
+  "\ufeffTitle": "Grain Elevator, Weehawken", 
   "ObjectID": "62802"
 }

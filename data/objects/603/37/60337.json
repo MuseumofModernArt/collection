@@ -1,12 +1,11 @@
 {
   "Medium": "Photogravure and aquatint", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "John Baldessari", 
   "URL": "http://www.moma.org/collection/works/60337", 
   "CuratorApproved": "Y", 
-  "Title": "Love and Work", 
-  "DateAcquired": "1998-03-05", 
+  "CreditLine": "Anonymous gift", 
   "Date": "1991", 
   "ArtistID": 304, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "24.1998", 
-  "ArtistBio": "American, born 1931", 
-  "CreditLine": "Anonymous gift", 
+  "ArtistBio": "(American, born 1931)", 
+  "DateAcquired": "1998-03-05", 
+  "\ufeffTitle": "Love and Work", 
   "ObjectID": "60337"
 }

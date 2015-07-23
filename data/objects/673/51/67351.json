@@ -1,12 +1,11 @@
 {
   "Medium": "Serigraph and drypoint", 
-  "Dimensions": "composition  29 3/4 x 21 1/2\" (75.6 x 54.6 cm)  sheet  30 x 21 5/8\" (76 x 54.9 cm)", 
+  "Dimensions": "composition  29 3/4 x 21 1/2\" (75.6 x 54.6 cm)\r\nsheet  30 x 21 5/8\" (76 x 54.9 cm)", 
   "Classification": "Print", 
   "Artist": "Willy Heeks", 
   "URL": "http://www.moma.org/collection/works/67351", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1988-10-25", 
+  "CreditLine": "John B. Turner Fund", 
   "Date": "1988", 
   "ArtistID": 2572, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "344.1988", 
-  "ArtistBio": "American, born 1951", 
-  "CreditLine": "John B. Turner Fund", 
+  "ArtistBio": "(American, born 1951)", 
+  "DateAcquired": "1988-10-25", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "67351"
 }

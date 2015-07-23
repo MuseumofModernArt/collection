@@ -5,8 +5,7 @@
   "Artist": "Ernst Barlach", 
   "URL": "http://www.moma.org/collection/works/64354", 
   "CuratorApproved": "Y", 
-  "Title": "Traveling Death", 
-  "DateAcquired": "1952-11-07", 
+  "CreditLine": "Purchase", 
   "Date": "(1923)", 
   "ArtistID": 335, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "204.1952", 
-  "ArtistBio": "German, 1870\u20131938", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(German, 1870\u20131938)", 
+  "DateAcquired": "1952-11-07", 
+  "\ufeffTitle": "Traveling Death (Wandernder Tod)", 
   "ObjectID": "64354"
 }

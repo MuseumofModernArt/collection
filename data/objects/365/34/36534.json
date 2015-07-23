@@ -5,8 +5,7 @@
   "Artist": "Joseph Beuys", 
   "URL": "http://www.moma.org/collection/works/36534", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1984-11-29", 
+  "CreditLine": "Gift of the artist", 
   "Date": "1974", 
   "ArtistID": 540, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "368.1984", 
-  "ArtistBio": "German, 1921\u20131986", 
-  "CreditLine": "Gift of the artist", 
+  "ArtistBio": "(German, 1921\u20131986)", 
+  "DateAcquired": "1984-11-29", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "36534"
 }

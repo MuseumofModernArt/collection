@@ -5,8 +5,7 @@
   "Artist": "Cy Twombly", 
   "URL": "http://www.moma.org/collection/works/66232", 
   "CuratorApproved": "Y", 
-  "Title": "Sketches", 
-  "DateAcquired": "1975-10-07", 
+  "CreditLine": "Gift of Celeste Bartos", 
   "Date": "1967, published 1975", 
   "ArtistID": 5988, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "292.1975.1-6", 
-  "ArtistBio": "American, 1928\u20132011", 
-  "CreditLine": "Gift of Celeste Bartos", 
+  "ArtistBio": "(American, 1928\u20132011)", 
+  "DateAcquired": "1975-10-07", 
+  "\ufeffTitle": "Sketches", 
   "ObjectID": "66232"
 }

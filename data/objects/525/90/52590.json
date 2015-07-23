@@ -5,8 +5,7 @@
   "Artist": "Alfred Stieglitz", 
   "URL": "http://www.moma.org/collection/works/52590", 
   "CuratorApproved": "Y", 
-  "Title": "Old and New New York", 
-  "DateAcquired": "1976-10-13", 
+  "CreditLine": "Purchase", 
   "Date": "1910", 
   "ArtistID": 5664, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "399.1976", 
-  "ArtistBio": "American, 1864\u20131946", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, 1864\u20131946)", 
+  "DateAcquired": "1976-10-13", 
+  "\ufeffTitle": "Old and New New York", 
   "ObjectID": "52590"
 }

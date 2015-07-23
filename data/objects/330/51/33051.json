@@ -5,8 +5,7 @@
   "Artist": "Pablo Picasso", 
   "URL": "http://www.moma.org/collection/works/33051", 
   "CuratorApproved": "Y", 
-  "Title": "Female Head", 
-  "DateAcquired": "1948-03-17", 
+  "CreditLine": "Gift of Justin K. Thannhauser", 
   "Date": "1940", 
   "ArtistID": 4609, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "7.1948", 
-  "ArtistBio": "Spanish, 1881\u20131973", 
-  "CreditLine": "Gift of Justin K. Thannhauser", 
+  "ArtistBio": "(Spanish, 1881\u20131973)", 
+  "DateAcquired": "1948-03-17", 
+  "\ufeffTitle": "Female Head", 
   "ObjectID": "33051"
 }

@@ -1,12 +1,11 @@
 {
-  "Medium": "Tempera on paper  Paper/Support: Art, 1961", 
+  "Medium": "Tempera on paper\r\nPaper/Support: Art, 1961", 
   "Dimensions": "29 1/4 x 21 3/4\" (74.3 x 55.2 cm)", 
   "Classification": "A&D Graphic Design", 
   "Artist": "E. McKnight Kauffer", 
   "URL": "http://www.moma.org/collection/works/6809", 
   "CuratorApproved": "Y", 
-  "Title": "The Lodger", 
-  "DateAcquired": "1939-05-22", 
+  "CreditLine": "Gift of the artist", 
   "Date": "1926", 
   "ArtistID": 3020, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "389.1939", 
-  "ArtistBio": "American, 1890\u20131954", 
-  "CreditLine": "Gift of the artist", 
+  "ArtistBio": "(American, 1890\u20131954)", 
+  "DateAcquired": "1939-05-22", 
+  "\ufeffTitle": "The Lodger", 
   "ObjectID": "6809"
 }

@@ -5,8 +5,7 @@
   "Artist": "Marisol (Marisol Escobar)", 
   "URL": "http://www.moma.org/collection/works/59746", 
   "CuratorApproved": "Y", 
-  "Title": "Cultural Head", 
-  "DateAcquired": "1974-01-10", 
+  "CreditLine": "Gift of Celeste Bartos", 
   "Date": "1973", 
   "ArtistID": 3774, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "8.1974", 
-  "ArtistBio": "Venezuelan, born France 1930", 
-  "CreditLine": "Gift of Celeste Bartos", 
+  "ArtistBio": "(Venezuelan, born France 1930)", 
+  "DateAcquired": "1974-01-10", 
+  "\ufeffTitle": "Cultural Head", 
   "ObjectID": "59746"
 }

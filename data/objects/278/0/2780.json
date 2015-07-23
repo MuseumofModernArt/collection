@@ -5,8 +5,7 @@
   "Artist": "Wilhelm Wagenfeld", 
   "URL": "http://www.moma.org/collection/works/2780", 
   "CuratorApproved": "Y", 
-  "Title": "Tea Tray", 
-  "DateAcquired": "1958-12-04", 
+  "CreditLine": "Gift of Fraser's, Inc.", 
   "Date": "1932", 
   "ArtistID": 6208, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "221.1958", 
-  "ArtistBio": "German, 1900\u20131990", 
-  "CreditLine": "Gift of Fraser's, Inc.", 
+  "ArtistBio": "(German, 1900\u20131990)", 
+  "DateAcquired": "1958-12-04", 
+  "\ufeffTitle": "Tea Tray", 
   "ObjectID": "2780"
 }

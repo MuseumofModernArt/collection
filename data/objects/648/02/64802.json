@@ -1,12 +1,11 @@
 {
   "Medium": "Drypoint and aquatint", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "Andr\u00e9 Masson", 
   "URL": "http://www.moma.org/collection/works/64802", 
   "CuratorApproved": "Y", 
-  "Title": "Metamorphoses (M\u00e9tamorphoses)", 
-  "DateAcquired": "1997-05-28", 
+  "CreditLine": "Gilbert Kaplan Fund", 
   "Date": "1961", 
   "ArtistID": 3821, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "229.1997", 
-  "ArtistBio": "French, 1896\u20131987", 
-  "CreditLine": "Gilbert Kaplan Fund", 
+  "ArtistBio": "(French, 1896\u20131987)", 
+  "DateAcquired": "1997-05-28", 
+  "\ufeffTitle": "Metamorphoses (M\u00e9tamorphoses)", 
   "ObjectID": "64802"
 }

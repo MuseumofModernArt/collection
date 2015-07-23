@@ -5,8 +5,7 @@
   "Artist": "Mary E. Frey", 
   "URL": "http://www.moma.org/collection/works/50460", 
   "CuratorApproved": "Y", 
-  "Title": "Girl with Tape Player", 
-  "DateAcquired": "1993-10-14", 
+  "CreditLine": "E.T. Harmax Foundation Fund", 
   "Date": "1979-83", 
   "ArtistID": 1997, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "309.1993", 
-  "ArtistBio": "American, born 1948", 
-  "CreditLine": "E.T. Harmax Foundation Fund", 
+  "ArtistBio": "(American, born 1948)", 
+  "DateAcquired": "1993-10-14", 
+  "\ufeffTitle": "Girl with Tape Player", 
   "ObjectID": "50460"
 }

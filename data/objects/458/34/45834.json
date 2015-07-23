@@ -5,8 +5,7 @@
   "Artist": "Helen Levitt", 
   "URL": "http://www.moma.org/collection/works/45834", 
   "CuratorApproved": "Y", 
-  "Title": "New York", 
-  "DateAcquired": "1995-03-09", 
+  "CreditLine": "Gift of Marvin Hoshino", 
   "Date": "1971", 
   "ArtistID": 3520, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "80.1995", 
-  "ArtistBio": "American, 1913\u20132009", 
-  "CreditLine": "Gift of Marvin Hoshino", 
+  "ArtistBio": "(American, 1913\u20132009)", 
+  "DateAcquired": "1995-03-09", 
+  "\ufeffTitle": "New York", 
   "ObjectID": "45834"
 }

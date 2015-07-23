@@ -1,12 +1,11 @@
 {
   "Medium": "Screenprint", 
-  "Dimensions": "Composition: 19 11/16 x 19 11/16\" (50 x 50 cm)  Sheet: 19 11/16 x 19 11/16\" (50 x 50 cm)", 
+  "Dimensions": "Composition: 19 11/16 x 19 11/16\" (50 x 50 cm)\r\nSheet: 19 11/16 x 19 11/16\" (50 x 50 cm)", 
   "Classification": "Print", 
   "Artist": "Arman", 
   "URL": "http://www.moma.org/collection/works/66201", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled from the portfolio The New Realists (Les Nouveaux R\u00e9alistes)", 
-  "DateAcquired": "1989-10-12", 
+  "CreditLine": "Walter Thayer Bequest", 
   "Date": "1973", 
   "ArtistID": 220, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "291.1989.1", 
-  "ArtistBio": "American, born France. 1928\u20132005", 
-  "CreditLine": "Walter Thayer Bequest", 
+  "ArtistBio": "(American, born France. 1928\u20132005)", 
+  "DateAcquired": "1989-10-12", 
+  "\ufeffTitle": "Untitled from the portfolio The New Realists (Les Nouveaux R\u00e9alistes)", 
   "ObjectID": "66201"
 }

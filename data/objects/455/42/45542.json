@@ -5,8 +5,7 @@
   "Artist": "Auguste Salzmann", 
   "URL": "http://www.moma.org/collection/works/45542", 
   "CuratorApproved": "Y", 
-  "Title": "Mount Sion, Jerusalem", 
-  "DateAcquired": "1976-02-24", 
+  "CreditLine": "Purchase", 
   "Date": "1854", 
   "ArtistID": 5132, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "69.1976", 
-  "ArtistBio": "French, 1824\u20131872", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(French, 1824\u20131872)", 
+  "DateAcquired": "1976-02-24", 
+  "\ufeffTitle": "Mount Sion, Jerusalem", 
   "ObjectID": "45542"
 }

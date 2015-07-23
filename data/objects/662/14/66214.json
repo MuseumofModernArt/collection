@@ -1,12 +1,11 @@
 {
   "Medium": "Screenprint", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "Jan Tarasin", 
   "URL": "http://www.moma.org/collection/works/66214", 
   "CuratorApproved": "Y", 
-  "Title": "Frightened Horse", 
-  "DateAcquired": "1992-05-20", 
+  "CreditLine": "Gift of the Kosciuszko Foundation", 
   "Date": "1983", 
   "ArtistID": 6864, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "291.1992", 
-  "ArtistBio": "Polish, 1926\u20132009", 
-  "CreditLine": "Gift of the Kosciuszko Foundation", 
+  "ArtistBio": "(Polish, 1926\u20132009)", 
+  "DateAcquired": "1992-05-20", 
+  "\ufeffTitle": "Frightened Horse", 
   "ObjectID": "66214"
 }

@@ -5,8 +5,7 @@
   "Artist": "Frantisek Kalivoda", 
   "URL": "http://www.moma.org/collection/works/7964", 
   "CuratorApproved": "Y", 
-  "Title": "Magazin AKA, no. 2", 
-  "DateAcquired": "1999-12-10", 
+  "CreditLine": "Jan Tschichold Collection, Gift of Philip Johnson", 
   "Date": "1938", 
   "ArtistID": 8251, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "701.1999", 
-  "ArtistBio": "Czech, 1913\u20131971", 
-  "CreditLine": "Jan Tschichold Collection, Gift of Philip Johnson", 
+  "ArtistBio": "(Czech, 1913\u20131971)", 
+  "DateAcquired": "1999-12-10", 
+  "\ufeffTitle": "Magazin AKA, no. 2", 
   "ObjectID": "7964"
 }

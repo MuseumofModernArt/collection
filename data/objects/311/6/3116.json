@@ -5,8 +5,7 @@
   "Artist": "Nanny Still", 
   "URL": "http://www.moma.org/collection/works/3116", 
   "CuratorApproved": "Y", 
-  "Title": "Platter", 
-  "DateAcquired": "1962-11-07", 
+  "CreditLine": "Philip Johnson Fund", 
   "Date": "c. 1949-62", 
   "ArtistID": 5666, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "261.1962", 
-  "ArtistBio": "Finnish, 1926\u20132009", 
-  "CreditLine": "Philip Johnson Fund", 
+  "ArtistBio": "(Finnish, 1926\u20132009)", 
+  "DateAcquired": "1962-11-07", 
+  "\ufeffTitle": "Platter", 
   "ObjectID": "3116"
 }

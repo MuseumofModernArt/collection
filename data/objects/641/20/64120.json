@@ -1,12 +1,11 @@
 {
   "Medium": "Monotype", 
-  "Dimensions": "irreg composition  30 5/16 x 22 3/4\" (77 x 57.8 cm)  irreg sheet  30 5/16 x 22 3/4\" (77 x 57.8 cm)", 
+  "Dimensions": "irreg composition  30 5/16 x 22 3/4\" (77 x 57.8 cm)\r\nirreg sheet  30 5/16 x 22 3/4\" (77 x 57.8 cm)", 
   "Classification": "Print", 
   "Artist": "James Nares", 
   "URL": "http://www.moma.org/collection/works/64120", 
   "CuratorApproved": "Y", 
-  "Title": "Don Quixote", 
-  "DateAcquired": "1986-05-20", 
+  "CreditLine": "Richard A. Epstein Fund", 
   "Date": "1986", 
   "ArtistID": 4225, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "191.1986", 
-  "ArtistBio": "British, born 1953", 
-  "CreditLine": "Richard A. Epstein Fund", 
+  "ArtistBio": "(British, born 1953)", 
+  "DateAcquired": "1986-05-20", 
+  "\ufeffTitle": "Don Quixote", 
   "ObjectID": "64120"
 }

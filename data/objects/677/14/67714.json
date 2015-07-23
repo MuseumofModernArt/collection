@@ -5,8 +5,7 @@
   "Artist": "Pablo Picasso", 
   "URL": "http://www.moma.org/collection/works/67714", 
   "CuratorApproved": "Y", 
-  "Title": "Armchair Woman No. 4", 
-  "DateAcquired": "1955-11-23", 
+  "CreditLine": "Curt Valentin Bequest", 
   "Date": "January 3, 1949", 
   "ArtistID": 4609, 
   "Keywords": [
@@ -21,7 +20,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "362.1955", 
-  "ArtistBio": "Spanish, 1881\u20131973", 
-  "CreditLine": "Curt Valentin Bequest", 
+  "ArtistBio": "(Spanish, 1881\u20131973)", 
+  "DateAcquired": "1955-11-23", 
+  "\ufeffTitle": "Woman in an Armchair no. 4 (Femme au fauteuil no. 4), state V", 
   "ObjectID": "67714"
 }

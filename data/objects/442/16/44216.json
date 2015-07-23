@@ -5,8 +5,7 @@
   "Artist": "Roger Fenton", 
   "URL": "http://www.moma.org/collection/works/44216", 
   "CuratorApproved": "Y", 
-  "Title": "The Valley of the Shadow of Death", 
-  "DateAcquired": "1994-01-13", 
+  "CreditLine": "Gift of CameraWorks, Inc.", 
   "Date": "1855", 
   "ArtistID": 1847, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "28.1994", 
-  "ArtistBio": "British, 1819\u20131869", 
-  "CreditLine": "Gift of CameraWorks, Inc.", 
+  "ArtistBio": "(British, 1819\u20131869)", 
+  "DateAcquired": "1994-01-13", 
+  "\ufeffTitle": "The Valley of the Shadow of Death", 
   "ObjectID": "44216"
 }

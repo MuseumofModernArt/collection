@@ -5,8 +5,7 @@
   "Artist": "Joe Scorsone", 
   "URL": "http://www.moma.org/collection/works/6053", 
   "CuratorApproved": "Y", 
-  "Title": "Spot, Run Spot, Run Spot Run, A Film by Allen Koss", 
-  "DateAcquired": "1980-01-08", 
+  "CreditLine": "Gift of the designer", 
   "Date": "1974", 
   "ArtistID": 5298, 
   "Keywords": [
@@ -20,7 +19,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "281.1980", 
-  "ArtistBio": "American, born 1942", 
-  "CreditLine": "Gift of the designer", 
+  "ArtistBio": "(American, born 1942)", 
+  "DateAcquired": "1980-01-08", 
+  "\ufeffTitle": "Spot, Run Spot, Run Spot Run, A Film by Allen Koss", 
   "ObjectID": "6053"
 }

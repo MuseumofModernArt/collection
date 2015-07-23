@@ -1,12 +1,11 @@
 {
   "Medium": "Black and white instant prints", 
-  "Dimensions": "each 3 3/4 x 2 15/16\" (9.5 x 7.4 cm)  overall 14 1/2 x 24 1/4\" (36.8 x 61.6 cm)", 
+  "Dimensions": "each 3 3/4 x 2 15/16\" (9.5 x 7.4 cm)\r\noverall 14 1/2 x 24 1/4\" (36.8 x 61.6 cm)", 
   "Classification": "Photograph", 
   "Artist": "Lucas Samaras", 
   "URL": "http://www.moma.org/collection/works/45105", 
   "CuratorApproved": "Y", 
-  "Title": "Auto Polaroid", 
-  "DateAcquired": "1992-01-09", 
+  "CreditLine": "Gift of Robert and Gayle Greenhill", 
   "Date": "1969-71", 
   "ArtistID": 5134, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "55.1992.a-r", 
-  "ArtistBio": "American, born Greece 1936", 
-  "CreditLine": "Gift of Robert and Gayle Greenhill", 
+  "ArtistBio": "(American, born Greece 1936)", 
+  "DateAcquired": "1992-01-09", 
+  "\ufeffTitle": "Auto Polaroid", 
   "ObjectID": "45105"
 }

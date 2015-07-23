@@ -5,8 +5,7 @@
   "Artist": "Maya Deren", 
   "URL": "http://www.moma.org/collection/works/52508", 
   "CuratorApproved": "Y", 
-  "Title": "Portrait of Carol Janeway", 
-  "DateAcquired": "1992-10-15", 
+  "CreditLine": "Gift of Judith Young-Mallin in memory of Carol Janeway", 
   "Date": "1943", 
   "ArtistID": 6912, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "395.1992", 
-  "ArtistBio": "American, 1917\u20131961", 
-  "CreditLine": "Gift of Judith Young-Mallin in memory of Carol Janeway", 
+  "ArtistBio": "(American, 1917\u20131961)", 
+  "DateAcquired": "1992-10-15", 
+  "\ufeffTitle": "Portrait of Carol Janeway", 
   "ObjectID": "52508"
 }

@@ -5,8 +5,7 @@
   "Artist": "Fred Sandback", 
   "URL": "http://www.moma.org/collection/works/36121", 
   "CuratorApproved": "Y", 
-  "Title": "Study for a Sculpture", 
-  "DateAcquired": "1974-05-21", 
+  "CreditLine": "Acquired with matching funds from The Henry Pearlman Foundation and the National Endowment for the Arts", 
   "Date": "1971", 
   "ArtistID": 5143, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "305.1974", 
-  "ArtistBio": "American, 1943\u20132003", 
-  "CreditLine": "Acquired with matching funds from The Henry Pearlman Foundation and the National Endowment for the Arts", 
+  "ArtistBio": "(American, 1943\u20132003)", 
+  "DateAcquired": "1974-05-21", 
+  "\ufeffTitle": "Study for a Sculpture", 
   "ObjectID": "36121"
 }

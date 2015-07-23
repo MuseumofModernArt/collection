@@ -5,8 +5,7 @@
   "Artist": "Frederick Sommer", 
   "URL": "http://www.moma.org/collection/works/46408", 
   "CuratorApproved": "Y", 
-  "Title": "Weeds", 
-  "DateAcquired": "1964-01-07", 
+  "CreditLine": "Purchase", 
   "Date": "1951", 
   "ArtistID": 5520, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "110.1964", 
-  "ArtistBio": "American, born Italy. 1905\u20131999", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, born Italy. 1905\u20131999)", 
+  "DateAcquired": "1964-01-07", 
+  "\ufeffTitle": "Weeds", 
   "ObjectID": "46408"
 }

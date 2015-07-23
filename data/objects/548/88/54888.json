@@ -5,8 +5,7 @@
   "Artist": "Joel Meyerowitz", 
   "URL": "http://www.moma.org/collection/works/54888", 
   "CuratorApproved": "Y", 
-  "Title": "Christmas, Kennedy Airport", 
-  "DateAcquired": "1973-11-13", 
+  "CreditLine": "Purchase", 
   "Date": "1967", 
   "ArtistID": 3957, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "540.1973", 
-  "ArtistBio": "American, born 1938", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, born 1938)", 
+  "DateAcquired": "1973-11-13", 
+  "\ufeffTitle": "Christmas, Kennedy Airport", 
   "ObjectID": "54888"
 }

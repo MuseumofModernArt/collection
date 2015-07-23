@@ -5,8 +5,7 @@
   "Artist": "Berenice Abbott", 
   "URL": "http://www.moma.org/collection/works/50435", 
   "CuratorApproved": "Y", 
-  "Title": "Pike and Henry Streets, Manhattan", 
-  "DateAcquired": "1974-06-04", 
+  "CreditLine": "Given anonymously", 
   "Date": "March 6, 1936", 
   "ArtistID": 41, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "309.1974", 
-  "ArtistBio": "American, 1898\u20131991", 
-  "CreditLine": "Given anonymously", 
+  "ArtistBio": "(American, 1898\u20131991)", 
+  "DateAcquired": "1974-06-04", 
+  "\ufeffTitle": "Pike and Henry Streets, Manhattan", 
   "ObjectID": "50435"
 }

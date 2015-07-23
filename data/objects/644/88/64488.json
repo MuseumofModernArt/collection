@@ -5,8 +5,7 @@
   "Artist": "Juan Downey", 
   "URL": "http://www.moma.org/collection/works/64488", 
   "CuratorApproved": "Y", 
-  "Title": "The Other World (L'Autre Monde)", 
-  "DateAcquired": "1967-04-11", 
+  "CreditLine": "Inter-American Fund", 
   "Date": "1963", 
   "ArtistID": 1606, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "212.1967", 
-  "ArtistBio": "Chilean, 1940\u20131993", 
-  "CreditLine": "Inter-American Fund", 
+  "ArtistBio": "(Chilean, 1940\u20131993)", 
+  "DateAcquired": "1967-04-11", 
+  "\ufeffTitle": "The Other World (L'Autre Monde)", 
   "ObjectID": "64488"
 }

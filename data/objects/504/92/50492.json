@@ -5,8 +5,7 @@
   "Artist": "Bill Burke", 
   "URL": "http://www.moma.org/collection/works/50492", 
   "CuratorApproved": "Y", 
-  "Title": "Bonita and Father", 
-  "DateAcquired": "1975-10-23", 
+  "CreditLine": "Gift of the photographer", 
   "Date": "1970", 
   "ArtistID": 874, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "311.1975", 
-  "ArtistBio": "American, born 1943", 
-  "CreditLine": "Gift of the photographer", 
+  "ArtistBio": "(American, born 1943)", 
+  "DateAcquired": "1975-10-23", 
+  "\ufeffTitle": "Bonita and Father", 
   "ObjectID": "50492"
 }

@@ -1,12 +1,11 @@
 {
   "Medium": "Illustrated Book with 7 lithographs", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Illustrated Book", 
   "Artist": "Jean-Charles Blais", 
   "URL": "http://www.moma.org/collection/works/11764", 
   "CuratorApproved": "Y", 
-  "Title": "Tutugri", 
-  "DateAcquired": "1997-03-06", 
+  "CreditLine": "Monroe Wheeler Fund", 
   "Date": "1996", 
   "ArtistID": 590, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "146.1997.1-7", 
-  "ArtistBio": "French, born 1956", 
-  "CreditLine": "Monroe Wheeler Fund", 
+  "ArtistBio": "(French, born 1956)", 
+  "DateAcquired": "1997-03-06", 
+  "\ufeffTitle": "Tutugri", 
   "ObjectID": "11764"
 }

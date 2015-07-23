@@ -1,12 +1,11 @@
 {
   "Medium": "Lithograph", 
-  "Dimensions": "irreg. composition  42 11/16 x 25 15/16\" (108.4 x 65.9 cm)  irreg. sheet  43 3/16 x 29 3/16\" (109 x 74.2 cm)", 
+  "Dimensions": "irreg. composition  42 11/16 x 25 15/16\" (108.4 x 65.9 cm)\r\nirreg. sheet  43 3/16 x 29 3/16\" (109 x 74.2 cm)", 
   "Classification": "Print", 
   "Artist": "Jasper Johns", 
   "URL": "http://www.moma.org/collection/works/67997", 
   "CuratorApproved": "Y", 
-  "Title": "Sketch from Untitled I from the series Casts from Untitled", 
-  "DateAcquired": "1987-10-20", 
+  "CreditLine": "Jeanne C. Thayer Fund", 
   "Date": "1974", 
   "ArtistID": 2923, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "373.1987", 
-  "ArtistBio": "American, born 1930", 
-  "CreditLine": "Jeanne C. Thayer Fund", 
+  "ArtistBio": "(American, born 1930)", 
+  "DateAcquired": "1987-10-20", 
+  "\ufeffTitle": "Sketch from Untitled I from the series Casts from Untitled", 
   "ObjectID": "67997"
 }

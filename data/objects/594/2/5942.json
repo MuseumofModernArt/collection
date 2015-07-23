@@ -5,8 +5,7 @@
   "Artist": "George Sadek", 
   "URL": "http://www.moma.org/collection/works/5942", 
   "CuratorApproved": "Y", 
-  "Title": "The Italian Idea, International Design Conference in Aspen 1981", 
-  "DateAcquired": "1981-04-30", 
+  "CreditLine": "Gift of the designer", 
   "Date": "1981", 
   "ArtistID": 5110, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "266.1981", 
-  "ArtistBio": "American, born 1928", 
-  "CreditLine": "Gift of the designer", 
+  "ArtistBio": "(American, born 1928)", 
+  "DateAcquired": "1981-04-30", 
+  "\ufeffTitle": "The Italian Idea, International Design Conference in Aspen 1981", 
   "ObjectID": "5942"
 }

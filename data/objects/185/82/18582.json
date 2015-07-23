@@ -5,8 +5,7 @@
   "Artist": "Gottfried Honegger", 
   "URL": "http://www.moma.org/collection/works/18582", 
   "CuratorApproved": "Y", 
-  "Title": "Zitat", 
-  "DateAcquired": "1983-05-25", 
+  "CreditLine": "Purchase", 
   "Date": "(1976)", 
   "ArtistID": 2719, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "572.1983.1-14", 
-  "ArtistBio": "Swiss, born 1917", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(Swiss, born 1917)", 
+  "DateAcquired": "1983-05-25", 
+  "\ufeffTitle": "Zitat", 
   "ObjectID": "18582"
 }

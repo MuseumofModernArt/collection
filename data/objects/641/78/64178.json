@@ -1,12 +1,11 @@
 {
   "Medium": "Sreenprint", 
-  "Dimensions": "Composition: 27 5/8 x 39 3/8\" (70.2 x 100 cm)  Sheet: 27 9/16 x 39 3/8\" (70 x 100 cm)", 
+  "Dimensions": "Composition: 27 5/8 x 39 3/8\" (70.2 x 100 cm)\r\nSheet: 27 9/16 x 39 3/8\" (70 x 100 cm)", 
   "Classification": "Print", 
   "Artist": "A.R. Penck (Ralf Winkler)", 
   "URL": "http://www.moma.org/collection/works/64178", 
   "CuratorApproved": "Y", 
-  "Title": "What is Gravity?", 
-  "DateAcquired": "1984-05-23", 
+  "CreditLine": "Gift of Walter Bareiss", 
   "Date": "(1984)", 
   "ArtistID": 4546, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "195.1984", 
-  "ArtistBio": "German, born 1939", 
-  "CreditLine": "Gift of Walter Bareiss", 
+  "ArtistBio": "(German, born 1939)", 
+  "DateAcquired": "1984-05-23", 
+  "\ufeffTitle": "What is Gravity?", 
   "ObjectID": "64178"
 }

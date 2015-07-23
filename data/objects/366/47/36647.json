@@ -5,8 +5,7 @@
   "Artist": "Joan Mir\u00f3", 
   "URL": "http://www.moma.org/collection/works/36647", 
   "CuratorApproved": "Y", 
-  "Title": "The Family", 
-  "DateAcquired": "1961-12-13", 
+  "CreditLine": "Gift of Mr. and Mrs. Jan Mitchell", 
   "Date": "May 16, 1924", 
   "ArtistID": 4016, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "395.1961", 
-  "ArtistBio": "Spanish, 1893\u20131983", 
-  "CreditLine": "Gift of Mr. and Mrs. Jan Mitchell", 
+  "ArtistBio": "(Spanish, 1893\u20131983)", 
+  "DateAcquired": "1961-12-13", 
+  "\ufeffTitle": "The Family", 
   "ObjectID": "36647"
 }

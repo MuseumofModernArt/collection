@@ -5,8 +5,7 @@
   "Artist": "Emilio Terry", 
   "URL": "http://www.moma.org/collection/works/37022", 
   "CuratorApproved": "Y", 
-  "Title": "Fireplace with a Waterfall", 
-  "DateAcquired": "1937-12-03", 
+  "CreditLine": "Purchase", 
   "Date": "1933", 
   "ArtistID": 5835, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "459.1937", 
-  "ArtistBio": "French, 1890\u20131969", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(French, 1890\u20131969)", 
+  "DateAcquired": "1937-12-03", 
+  "\ufeffTitle": "Fireplace with a Waterfall", 
   "ObjectID": "37022"
 }

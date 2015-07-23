@@ -5,8 +5,7 @@
   "Artist": "Eug\u00e8ne Carri\u00e8re", 
   "URL": "http://www.moma.org/collection/works/64668", 
   "CuratorApproved": "Y", 
-  "Title": "The Call", 
-  "DateAcquired": "1963-04-09", 
+  "CreditLine": "Gift of Mr. and Mrs. Carroll L. Cartwright", 
   "Date": "1894", 
   "ArtistID": 990, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "222.1963", 
-  "ArtistBio": "French, 1849\u20131906", 
-  "CreditLine": "Gift of Mr. and Mrs. Carroll L. Cartwright", 
+  "ArtistBio": "(French, 1849\u20131906)", 
+  "DateAcquired": "1963-04-09", 
+  "\ufeffTitle": "The Call", 
   "ObjectID": "64668"
 }

@@ -5,8 +5,7 @@
   "Artist": "Unknown Artist", 
   "URL": "http://www.moma.org/collection/works/4992", 
   "CuratorApproved": "Y", 
-  "Title": "Poster for Berlin, Die Sinfonie der Grosstadt", 
-  "DateAcquired": "1961-02-07", 
+  "CreditLine": "Gift of Alfred H. Barr, Jr.", 
   "Date": "1927", 
   "ArtistID": 6026, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "84.1961", 
-  "ArtistBio": "American", 
-  "CreditLine": "Gift of Alfred H. Barr, Jr.", 
+  "ArtistBio": "(American)", 
+  "DateAcquired": "1961-02-07", 
+  "\ufeffTitle": "Poster for Berlin, Die Sinfonie der Grosstadt (Berlin, Symphony of the Metropolis)", 
   "ObjectID": "4992"
 }

@@ -1,12 +1,11 @@
 {
   "Medium": "Woodcut", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "Jules Pascin", 
   "URL": "http://www.moma.org/collection/works/60022", 
   "CuratorApproved": "Y", 
-  "Title": "Portrait of Henry McBride", 
-  "DateAcquired": "1975-01-07", 
+  "CreditLine": "Gift of Perls Galleries in memory of Robert Laurent", 
   "Date": "1917", 
   "ArtistID": 4514, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "17.1975", 
-  "ArtistBio": "American, born Bulgaria. 1885\u20131930", 
-  "CreditLine": "Gift of Perls Galleries in memory of Robert Laurent", 
+  "ArtistBio": "(American, born Bulgaria. 1885\u20131930)", 
+  "DateAcquired": "1975-01-07", 
+  "\ufeffTitle": "Portrait of Henry McBride", 
   "ObjectID": "60022"
 }

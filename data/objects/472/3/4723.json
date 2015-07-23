@@ -5,8 +5,7 @@
   "Artist": "Gilbert Rohde", 
   "URL": "http://www.moma.org/collection/works/4723", 
   "CuratorApproved": "Y", 
-  "Title": "Chair", 
-  "DateAcquired": "2000-12-11", 
+  "CreditLine": "Gift of the Gansevoort Gallery, Jeffrey P. Klein Purchase Fund and John C. Waddell Purchase Fund", 
   "Date": "c. 1938", 
   "ArtistID": 4999, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "1429.2000", 
-  "ArtistBio": "American, 1894\u20131944", 
-  "CreditLine": "Gift of the Gansevoort Gallery, Jeffrey P. Klein Purchase Fund and John C. Waddell Purchase Fund", 
+  "ArtistBio": "(American, 1894\u20131944)", 
+  "DateAcquired": "2000-12-11", 
+  "\ufeffTitle": "Chair", 
   "ObjectID": "4723"
 }

@@ -5,8 +5,7 @@
   "Artist": "Mark Tobey", 
   "URL": "http://www.moma.org/collection/works/64248", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1970-05-12", 
+  "CreditLine": "Gift of Mrs. Kay Hillman", 
   "Date": "1967", 
   "ArtistID": 5889, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "198.1970", 
-  "ArtistBio": "American, 1890\u20131976", 
-  "CreditLine": "Gift of Mrs. Kay Hillman", 
+  "ArtistBio": "(American, 1890\u20131976)", 
+  "DateAcquired": "1970-05-12", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "64248"
 }

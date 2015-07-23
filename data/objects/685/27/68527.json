@@ -5,8 +5,7 @@
   "Artist": "Frank Stella", 
   "URL": "http://www.moma.org/collection/works/68527", 
   "CuratorApproved": "Y", 
-  "Title": "Bene Come Il Sale", 
-  "DateAcquired": "1992-01-22", 
+  "CreditLine": "Gift of Nelson Blitz, Jr.", 
   "Date": "1989", 
   "ArtistID": 5640, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "404.1991", 
-  "ArtistBio": "American, born 1936", 
-  "CreditLine": "Gift of Nelson Blitz, Jr.", 
+  "ArtistBio": "(American, born 1936)", 
+  "DateAcquired": "1992-01-22", 
+  "\ufeffTitle": "Bene Come Il Sale", 
   "ObjectID": "68527"
 }

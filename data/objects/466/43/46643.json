@@ -5,8 +5,7 @@
   "Artist": "Eug\u00e8ne Atget", 
   "URL": "http://www.moma.org/collection/works/46643", 
   "CuratorApproved": "Y", 
-  "Title": "Decroteur", 
-  "DateAcquired": "1950-04-24", 
+  "CreditLine": "Given anonymously", 
   "Date": "1899-1900", 
   "ArtistID": 229, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "123.1950", 
-  "ArtistBio": "French, 1857\u20131927", 
-  "CreditLine": "Given anonymously", 
+  "ArtistBio": "(French, 1857\u20131927)", 
+  "DateAcquired": "1950-04-24", 
+  "\ufeffTitle": "Decroteur", 
   "ObjectID": "46643"
 }

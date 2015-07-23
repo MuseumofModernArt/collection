@@ -5,8 +5,7 @@
   "Artist": "Clarence H. White", 
   "URL": "http://www.moma.org/collection/works/46076", 
   "CuratorApproved": "Y", 
-  "Title": "Mother and Child", 
-  "DateAcquired": "1974-01-29", 
+  "CreditLine": "Gift of Mrs. Willard Helburn", 
   "Date": "1919", 
   "ArtistID": 6338, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "91.1974", 
-  "ArtistBio": "American, 1871\u20131925", 
-  "CreditLine": "Gift of Mrs. Willard Helburn", 
+  "ArtistBio": "(American, 1871\u20131925)", 
+  "DateAcquired": "1974-01-29", 
+  "\ufeffTitle": "Mother and Child", 
   "ObjectID": "46076"
 }

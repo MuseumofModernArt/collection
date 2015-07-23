@@ -5,8 +5,7 @@
   "Artist": "Henning Andreasen", 
   "URL": "http://www.moma.org/collection/works/1278", 
   "CuratorApproved": "Y", 
-  "Title": "Folle 26 Stapler", 
-  "DateAcquired": "1980-01-08", 
+  "CreditLine": "Gift of the designer", 
   "Date": "1977", 
   "ArtistID": 177, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "2.1980", 
-  "ArtistBio": "Danish, born 1923", 
-  "CreditLine": "Gift of the designer", 
+  "ArtistBio": "(Danish, born 1923)", 
+  "DateAcquired": "1980-01-08", 
+  "\ufeffTitle": "Folle 26 Stapler", 
   "ObjectID": "1278"
 }

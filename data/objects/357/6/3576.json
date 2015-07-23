@@ -1,12 +1,11 @@
 {
   "Medium": "Metal and plastic", 
-  "Dimensions": ".a (ring): 1 5/8 x 14\" (4.1 x 35.5 cm)  .b (dial): 2\" (5.1 cm)", 
+  "Dimensions": ".a (ring): 1 5/8 x 14\" (4.1 x 35.5 cm)\r\n.b (dial): 2\" (5.1 cm)", 
   "Classification": "A&D Design", 
   "Artist": "George Nelson", 
   "URL": "http://www.moma.org/collection/works/3576", 
   "CuratorApproved": "Y", 
-  "Title": "Wall Clock (model 6770)", 
-  "DateAcquired": "1964-04-14", 
+  "CreditLine": "Gift of the manufacturer", 
   "Date": "c. 1962", 
   "ArtistID": 4257, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "432.1964.a-b", 
-  "ArtistBio": "American, 1908\u20131986", 
-  "CreditLine": "Gift of the manufacturer", 
+  "ArtistBio": "(American, 1908\u20131986)", 
+  "DateAcquired": "1964-04-14", 
+  "\ufeffTitle": "Wall Clock (model 6770)", 
   "ObjectID": "3576"
 }

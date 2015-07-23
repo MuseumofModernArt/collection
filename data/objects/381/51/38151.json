@@ -5,8 +5,7 @@
   "Artist": "Franti\u0161ek Kupka", 
   "URL": "http://www.moma.org/collection/works/38151", 
   "CuratorApproved": "Y", 
-  "Title": "Study with Green", 
-  "DateAcquired": "1969-10-28", 
+  "CreditLine": "John S. Newberry Fund", 
   "Date": "(c. 1912)", 
   "ArtistID": 3302, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "830.1969", 
-  "ArtistBio": "Czech, 1871\u20131957", 
-  "CreditLine": "John S. Newberry Fund", 
+  "ArtistBio": "(Czech, 1871\u20131957)", 
+  "DateAcquired": "1969-10-28", 
+  "\ufeffTitle": "Study with Green", 
   "ObjectID": "38151"
 }

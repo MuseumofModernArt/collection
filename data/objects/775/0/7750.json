@@ -5,8 +5,7 @@
   "Artist": "Armin Hofmann", 
   "URL": "http://www.moma.org/collection/works/7750", 
   "CuratorApproved": "Y", 
-  "Title": "Herman Miller Collection, M\u00f6bel unserer Zeit", 
-  "DateAcquired": "1981-12-10", 
+  "CreditLine": "Gift of the artist", 
   "Date": "1962", 
   "ArtistID": 2697, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "614.1981", 
-  "ArtistBio": "Swiss, born 1920", 
-  "CreditLine": "Gift of the artist", 
+  "ArtistBio": "(Swiss, born 1920)", 
+  "DateAcquired": "1981-12-10", 
+  "\ufeffTitle": "Herman Miller Collection, M\u00f6bel unserer Zeit", 
   "ObjectID": "7750"
 }

@@ -5,8 +5,7 @@
   "Artist": "Pacific & Atlantic Photos", 
   "URL": "http://www.moma.org/collection/works/58663", 
   "CuratorApproved": "Y", 
-  "Title": "Governor Smith Becomes Chief 'Leading Star'", 
-  "DateAcquired": "2001-06-14", 
+  "CreditLine": "The New York Times Collection", 
   "Date": "1923", 
   "ArtistID": 8593, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "2070.2001", 
-  "ArtistBio": "Active 1921\u20131932", 
-  "CreditLine": "The New York Times Collection", 
+  "ArtistBio": "(Active 1921\u20131932)", 
+  "DateAcquired": "2001-06-14", 
+  "\ufeffTitle": "\"Governor Smith Becomes Chief 'Leading Star'\"", 
   "ObjectID": "58663"
 }

@@ -5,8 +5,7 @@
   "Artist": "Richard Alan Fox", 
   "URL": "http://www.moma.org/collection/works/48209", 
   "CuratorApproved": "Y", 
-  "Title": "Salisbury Cathedral, England", 
-  "DateAcquired": "1979-05-10", 
+  "CreditLine": "Purchase, 1979", 
   "Date": "1978", 
   "ArtistID": 1961, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "194.1979", 
-  "ArtistBio": "American, born 1949", 
-  "CreditLine": "Purchase, 1979", 
+  "ArtistBio": "(American, born 1949)", 
+  "DateAcquired": "1979-05-10", 
+  "\ufeffTitle": "Salisbury Cathedral, England", 
   "ObjectID": "48209"
 }

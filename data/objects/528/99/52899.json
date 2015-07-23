@@ -5,8 +5,7 @@
   "Artist": "Josef Koudelka", 
   "URL": "http://www.moma.org/collection/works/52899", 
   "CuratorApproved": "Y", 
-  "Title": "Poprad", 
-  "DateAcquired": "1971-05-04", 
+  "CreditLine": "The Parkinson Fund", 
   "Date": "1963", 
   "ArtistID": 3229, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "412.1971", 
-  "ArtistBio": "Czech, born 1938", 
-  "CreditLine": "The Parkinson Fund", 
+  "ArtistBio": "(Czech, born 1938)", 
+  "DateAcquired": "1971-05-04", 
+  "\ufeffTitle": "Poprad", 
   "ObjectID": "52899"
 }

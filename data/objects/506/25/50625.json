@@ -5,8 +5,7 @@
   "Artist": "Tod Papageorge", 
   "URL": "http://www.moma.org/collection/works/50625", 
   "CuratorApproved": "Y", 
-  "Title": "Garden, Saville", 
-  "DateAcquired": "1990-06-07", 
+  "CreditLine": "Polaroid Foundation Fund", 
   "Date": "1989", 
   "ArtistID": 4490, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "317.1990.x1-x2", 
-  "ArtistBio": "American, born 1940", 
-  "CreditLine": "Polaroid Foundation Fund", 
+  "ArtistBio": "(American, born 1940)", 
+  "DateAcquired": "1990-06-07", 
+  "\ufeffTitle": "Garden, Saville", 
   "ObjectID": "50625"
 }

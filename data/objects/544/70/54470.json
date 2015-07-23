@@ -5,8 +5,7 @@
   "Artist": "George Barnard", 
   "URL": "http://www.moma.org/collection/works/54470", 
   "CuratorApproved": "Y", 
-  "Title": "From Lookout Mountain", 
-  "DateAcquired": "1980-10-23", 
+  "CreditLine": "Robert B. Menschel Fund", 
   "Date": "1866", 
   "ArtistID": 336, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "503.1980", 
-  "ArtistBio": "American, 1819\u20131902", 
-  "CreditLine": "Robert B. Menschel Fund", 
+  "ArtistBio": "(American, 1819\u20131902)", 
+  "DateAcquired": "1980-10-23", 
+  "\ufeffTitle": "From Lookout Mountain", 
   "ObjectID": "54470"
 }

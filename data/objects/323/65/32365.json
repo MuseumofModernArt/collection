@@ -5,8 +5,7 @@
   "Artist": "Lucas Samaras", 
   "URL": "http://www.moma.org/collection/works/32365", 
   "CuratorApproved": "Y", 
-  "Title": "Double page plate (folios 1 verso and 2) from BOOK", 
-  "DateAcquired": "1968-12-11", 
+  "CreditLine": "Gift of the artist", 
   "Date": "1968", 
   "ArtistID": 5134, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "1647.1968.2", 
-  "ArtistBio": "American, born Greece 1936", 
-  "CreditLine": "Gift of the artist", 
+  "ArtistBio": "(American, born Greece 1936)", 
+  "DateAcquired": "1968-12-11", 
+  "\ufeffTitle": "Double page plate (folios 1 verso and 2) from Book", 
   "ObjectID": "32365"
 }

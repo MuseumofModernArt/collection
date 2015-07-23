@@ -5,8 +5,7 @@
   "Artist": "Howard Finster", 
   "URL": "http://www.moma.org/collection/works/68629", 
   "CuratorApproved": "Y", 
-  "Title": "City of Morlatia", 
-  "DateAcquired": "1990-10-23", 
+  "CreditLine": "John B. Turner Fund", 
   "Date": "(1985)", 
   "ArtistID": 1879, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "410.1990", 
-  "ArtistBio": "American, born 1916", 
-  "CreditLine": "John B. Turner Fund", 
+  "ArtistBio": "(American, born 1916)", 
+  "DateAcquired": "1990-10-23", 
+  "\ufeffTitle": "City of Morlatia", 
   "ObjectID": "68629"
 }

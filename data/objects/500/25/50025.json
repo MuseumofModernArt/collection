@@ -5,8 +5,7 @@
   "Artist": "F\u00e9lix Thiollier", 
   "URL": "http://www.moma.org/collection/works/50025", 
   "CuratorApproved": "Y", 
-  "Title": "Boats on the Seine, Paris", 
-  "DateAcquired": "1985-10-02", 
+  "CreditLine": "Purchase", 
   "Date": "1903-05", 
   "ArtistID": 5852, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "289.1985", 
-  "ArtistBio": "French, 1842\u20131914", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(French, 1842\u20131914)", 
+  "DateAcquired": "1985-10-02", 
+  "\ufeffTitle": "Boats on the Seine, Paris", 
   "ObjectID": "50025"
 }

@@ -5,8 +5,7 @@
   "Artist": "John Baldessari", 
   "URL": "http://www.moma.org/collection/works/64451", 
   "CuratorApproved": "Y", 
-  "Title": "Black Dice [#1] from Black Dice", 
-  "DateAcquired": "1983-01-18", 
+  "CreditLine": "John B. Turner Fund", 
   "Date": "1982", 
   "ArtistID": 304, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "210.1983.1", 
-  "ArtistBio": "American, born 1931", 
-  "CreditLine": "John B. Turner Fund", 
+  "ArtistBio": "(American, born 1931)", 
+  "DateAcquired": "1983-01-18", 
+  "\ufeffTitle": "Black Dice [#1] from Black Dice", 
   "ObjectID": "64451"
 }

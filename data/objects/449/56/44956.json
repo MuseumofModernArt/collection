@@ -5,8 +5,7 @@
   "Artist": "Zeke Berman", 
   "URL": "http://www.moma.org/collection/works/44956", 
   "CuratorApproved": "Y", 
-  "Title": "Work in Progress", 
-  "DateAcquired": "1986-01-15", 
+  "CreditLine": "Gift of the photographer", 
   "Date": "1982", 
   "ArtistID": 506, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "51.1986", 
-  "ArtistBio": "American, born 1951", 
-  "CreditLine": "Gift of the photographer", 
+  "ArtistBio": "(American, born 1951)", 
+  "DateAcquired": "1986-01-15", 
+  "\ufeffTitle": "Work in Progress", 
   "ObjectID": "44956"
 }

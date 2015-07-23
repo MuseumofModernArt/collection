@@ -1,12 +1,11 @@
 {
   "Medium": "Photolithograph", 
-  "Dimensions": "Composition: 11 13/16 x 16 9/16\" (30 x 42.1 cm)  Sheet: 19 5/16 x 19 5/8\" (49 x 49.9 cm)", 
+  "Dimensions": "Composition: 11 13/16 x 16 9/16\" (30 x 42.1 cm)\r\nSheet: 19 5/16 x 19 5/8\" (49 x 49.9 cm)", 
   "Classification": "Print", 
   "Artist": "Christo (Christo Javacheff)", 
   "URL": "http://www.moma.org/collection/works/66207", 
   "CuratorApproved": "Y", 
-  "Title": "Wrapped Monument to Vittorio Emanuele, Piazza del Duomo, Milan, 1970 from the portfolio The New Realists (Les Nouveaux R\u00e9alistes)", 
-  "DateAcquired": "1989-10-12", 
+  "CreditLine": "Walter Thayer Bequest", 
   "Date": "1973", 
   "ArtistID": 1114, 
   "Keywords": [
@@ -20,7 +19,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "291.1989.3", 
-  "ArtistBio": "American, born Bulgaria 1935", 
-  "CreditLine": "Walter Thayer Bequest", 
+  "ArtistBio": "(American, born Bulgaria 1935)", 
+  "DateAcquired": "1989-10-12", 
+  "\ufeffTitle": "Wrapped Monument to Vittorio Emanuele, Piazza del Duomo, Milan, 1970 from the portfolio The New Realists (Les Nouveaux R\u00e9alistes)", 
   "ObjectID": "66207"
 }

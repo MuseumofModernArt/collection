@@ -5,8 +5,7 @@
   "Artist": "Charles Marville", 
   "URL": "http://www.moma.org/collection/works/52199", 
   "CuratorApproved": "Y", 
-  "Title": "Vaudeville, Paris", 
-  "DateAcquired": "1990-10-11", 
+  "CreditLine": "Purchase", 
   "Date": "1868-69", 
   "ArtistID": 3810, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "381.1990", 
-  "ArtistBio": "French, 1816\u20131879", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(French, 1816\u20131879)", 
+  "DateAcquired": "1990-10-11", 
+  "\ufeffTitle": "Vaudeville, Paris", 
   "ObjectID": "52199"
 }

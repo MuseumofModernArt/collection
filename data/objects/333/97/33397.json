@@ -5,8 +5,7 @@
   "Artist": "William Anastasi", 
   "URL": "http://www.moma.org/collection/works/33397", 
   "CuratorApproved": "Y", 
-  "Title": "60 Minutes", 
-  "DateAcquired": "1988-02-19", 
+  "CreditLine": "Gift of Eugene and Barbara Schwartz", 
   "Date": "(1987)", 
   "ArtistID": 155, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "31.1988", 
-  "ArtistBio": "American, born 1933", 
-  "CreditLine": "Gift of Eugene and Barbara Schwartz", 
+  "ArtistBio": "(American, born 1933)", 
+  "DateAcquired": "1988-02-19", 
+  "\ufeffTitle": "60 Minutes", 
   "ObjectID": "33397"
 }

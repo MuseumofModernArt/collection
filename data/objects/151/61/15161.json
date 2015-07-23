@@ -1,12 +1,11 @@
 {
-  "Medium": "NULL", 
-  "Dimensions": "NULL", 
+  "Medium": "", 
+  "Dimensions": "", 
   "Classification": "Illustrated Book", 
-  "Artist": "Vladimir Mayakovsky", 
+  "Artist": "", 
   "URL": "http://www.moma.org/collection/works/15161", 
   "CuratorApproved": "Y", 
-  "Title": "LEF LEF (Left Front of the Arts)", 
-  "DateAcquired": "2001-01-24", 
+  "CreditLine": "Gift of The Judith Rothschild Foundation", 
   "Date": "1923-1925", 
   "Keywords": [
     "online art collection", 
@@ -16,7 +15,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "309.2001.C1-2", 
-  "ArtistBio": "Russian, 1893\u20131930", 
-  "CreditLine": "Gift of The Judith Rothschild Foundation", 
+  "ArtistBio": "", 
+  "DateAcquired": "2001-01-24", 
+  "\ufeffTitle": "LEF LEF (Left Front of the Arts)", 
   "ObjectID": "15161"
 }

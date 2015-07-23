@@ -5,8 +5,7 @@
   "Artist": "Johann Hahn", 
   "URL": "http://www.moma.org/collection/works/48320", 
   "CuratorApproved": "Y", 
-  "Title": "Pegnitz River", 
-  "DateAcquired": "NULL", 
+  "CreditLine": "Gift of Celeste Bartos", 
   "Date": "1871", 
   "ArtistID": 2453, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "199.1975.21", 
-  "ArtistBio": "Austrian, 1840\u20131900", 
-  "CreditLine": "Gift of Celeste Bartos", 
+  "ArtistBio": "(Austrian, 1840\u20131900)", 
+  "DateAcquired": "", 
+  "\ufeffTitle": "Pegnitz River", 
   "ObjectID": "48320"
 }

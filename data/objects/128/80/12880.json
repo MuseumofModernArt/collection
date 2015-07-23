@@ -5,8 +5,7 @@
   "Artist": "Alex Katz", 
   "URL": "http://www.moma.org/collection/works/12880", 
   "CuratorApproved": "Y", 
-  "Title": "Tony Towle from Face of the Poet", 
-  "DateAcquired": "1979-05-01", 
+  "CreditLine": "Acquired with matching funds from James R. Epstein and the National Endowment for the Arts", 
   "Date": "1978", 
   "ArtistID": 3016, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "180.1979.13", 
-  "ArtistBio": "American, born 1927", 
-  "CreditLine": "Acquired with matching funds from James R. Epstein and the National Endowment for the Arts", 
+  "ArtistBio": "(American, born 1927)", 
+  "DateAcquired": "1979-05-01", 
+  "\ufeffTitle": "Tony Towle from Face of the Poet", 
   "ObjectID": "12880"
 }

@@ -1,12 +1,11 @@
 {
   "Medium": "Woodcut", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "Neil Welliver", 
   "URL": "http://www.moma.org/collection/works/63671", 
   "CuratorApproved": "Y", 
-  "Title": "Night Scene", 
-  "DateAcquired": "1994-01-25", 
+  "CreditLine": "Gift of Brooke and Carolyn Alexander", 
   "Date": "(1982)", 
   "ArtistID": 6305, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "175.1994", 
-  "ArtistBio": "American, 1929\u20132005", 
-  "CreditLine": "Gift of Brooke and Carolyn Alexander", 
+  "ArtistBio": "(American, 1929\u20132005)", 
+  "DateAcquired": "1994-01-25", 
+  "\ufeffTitle": "Night Scene", 
   "ObjectID": "63671"
 }

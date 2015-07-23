@@ -5,8 +5,7 @@
   "Artist": "Yarom Vardimon", 
   "URL": "http://www.moma.org/collection/works/6890", 
   "CuratorApproved": "Y", 
-  "Title": "Bezalel", 
-  "DateAcquired": "1982-10-27", 
+  "CreditLine": "Gift of the artist", 
   "Date": "1981", 
   "ArtistID": 6093, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "430.1982", 
-  "ArtistBio": "Israeli, born 1941", 
-  "CreditLine": "Gift of the artist", 
+  "ArtistBio": "(Israeli, born 1941)", 
+  "DateAcquired": "1982-10-27", 
+  "\ufeffTitle": "Bezalel", 
   "ObjectID": "6890"
 }

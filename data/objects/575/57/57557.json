@@ -5,8 +5,7 @@
   "Artist": "Robert J. Simone", 
   "URL": "http://www.moma.org/collection/works/57557", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1979-10-11", 
+  "CreditLine": "The Family of Man Fund", 
   "Date": "October 1978", 
   "ArtistID": 5442, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "1028.1979", 
-  "ArtistBio": "American, born 1945", 
-  "CreditLine": "The Family of Man Fund", 
+  "ArtistBio": "(American, born 1945)", 
+  "DateAcquired": "1979-10-11", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "57557"
 }

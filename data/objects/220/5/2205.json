@@ -5,8 +5,7 @@
   "Artist": "Kaj Franck", 
   "URL": "http://www.moma.org/collection/works/2205", 
   "CuratorApproved": "Y", 
-  "Title": "Tumblers", 
-  "DateAcquired": "1992-01-15", 
+  "CreditLine": "Best Products Co. Fund", 
   "Date": "1954", 
   "ArtistID": 1968, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "120.1992.1-6", 
-  "ArtistBio": "Finnish, 1911\u20131989", 
-  "CreditLine": "Best Products Co. Fund", 
+  "ArtistBio": "(Finnish, 1911\u20131989)", 
+  "DateAcquired": "1992-01-15", 
+  "\ufeffTitle": "Tumblers", 
   "ObjectID": "2205"
 }

@@ -5,8 +5,7 @@
   "Artist": "Sage Sohier", 
   "URL": "http://www.moma.org/collection/works/54754", 
   "CuratorApproved": "Y", 
-  "Title": "Jericho Road, Glen, New Hampshire", 
-  "DateAcquired": "1981-12-17", 
+  "CreditLine": "Gift of the photographer", 
   "Date": "1979", 
   "ArtistID": 5508, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "529.1981", 
-  "ArtistBio": "American, born 1954", 
-  "CreditLine": "Gift of the photographer", 
+  "ArtistBio": "(American, born 1954)", 
+  "DateAcquired": "1981-12-17", 
+  "\ufeffTitle": "Jericho Road, Glen, New Hampshire", 
   "ObjectID": "54754"
 }

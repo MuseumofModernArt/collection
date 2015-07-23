@@ -5,8 +5,7 @@
   "Artist": "Marsden Hartley", 
   "URL": "http://www.moma.org/collection/works/33932", 
   "CuratorApproved": "Y", 
-  "Title": "Prayer on Park Avenue", 
-  "DateAcquired": "1978-04-04", 
+  "CreditLine": "The Joan and Lester Avnet Collection", 
   "Date": "(1942)", 
   "ArtistID": 2521, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "101.1978", 
-  "ArtistBio": "American, 1877\u20131943", 
-  "CreditLine": "The Joan and Lester Avnet Collection", 
+  "ArtistBio": "(American, 1877\u20131943)", 
+  "DateAcquired": "1978-04-04", 
+  "\ufeffTitle": "Prayer on Park Avenue", 
   "ObjectID": "33932"
 }

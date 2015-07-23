@@ -5,8 +5,7 @@
   "Artist": "Ellsworth Kelly", 
   "URL": "http://www.moma.org/collection/works/68118", 
   "CuratorApproved": "Y", 
-  "Title": "St. Martin's Triptych", 
-  "DateAcquired": "1987-10-20", 
+  "CreditLine": "Jeanne C. Thayer Fund", 
   "Date": "1984", 
   "ArtistID": 3048, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "380.1987.a-c", 
-  "ArtistBio": "American, born 1923", 
-  "CreditLine": "Jeanne C. Thayer Fund", 
+  "ArtistBio": "(American, born 1923)", 
+  "DateAcquired": "1987-10-20", 
+  "\ufeffTitle": "St. Martin's Triptych", 
   "ObjectID": "68118"
 }

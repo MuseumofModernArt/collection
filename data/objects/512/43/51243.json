@@ -5,8 +5,7 @@
   "Artist": "Josef Koudelka", 
   "URL": "http://www.moma.org/collection/works/51243", 
   "CuratorApproved": "Y", 
-  "Title": "Jarabina", 
-  "DateAcquired": "1968-03-06", 
+  "CreditLine": "David H. McAlpin Fund", 
   "Date": "1963", 
   "ArtistID": 3229, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "340.1968", 
-  "ArtistBio": "Czech, born 1938", 
-  "CreditLine": "David H. McAlpin Fund", 
+  "ArtistBio": "(Czech, born 1938)", 
+  "DateAcquired": "1968-03-06", 
+  "\ufeffTitle": "Jarabina", 
   "ObjectID": "51243"
 }

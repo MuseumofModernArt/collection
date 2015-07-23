@@ -5,8 +5,7 @@
   "Artist": "Arthur Dove", 
   "URL": "http://www.moma.org/collection/works/33430", 
   "CuratorApproved": "Y", 
-  "Title": "Abstraction Untitled", 
-  "DateAcquired": "1988-02-19", 
+  "CreditLine": "Gift of The Edward John Noble Foundation", 
   "Date": "(c. 1917-20)", 
   "ArtistID": 1602, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "35.1988", 
-  "ArtistBio": "American, 1880\u20131946", 
-  "CreditLine": "Gift of The Edward John Noble Foundation", 
+  "ArtistBio": "(American, 1880\u20131946)", 
+  "DateAcquired": "1988-02-19", 
+  "\ufeffTitle": "Abstraction Untitled", 
   "ObjectID": "33430"
 }

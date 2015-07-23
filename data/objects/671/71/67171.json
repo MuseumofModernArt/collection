@@ -5,8 +5,7 @@
   "Artist": "Kosuke Kimura", 
   "URL": "http://www.moma.org/collection/works/67171", 
   "CuratorApproved": "Y", 
-  "Title": "Out of Time (73-10)", 
-  "DateAcquired": "1973-10-24", 
+  "CreditLine": "Gift of the artist", 
   "Date": "1973", 
   "ArtistID": 3098, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "336.1973", 
-  "ArtistBio": "Japanese, born 1936", 
-  "CreditLine": "Gift of the artist", 
+  "ArtistBio": "(Japanese, born 1936)", 
+  "DateAcquired": "1973-10-24", 
+  "\ufeffTitle": "Out of Time (73-10)", 
   "ObjectID": "67171"
 }

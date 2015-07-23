@@ -5,8 +5,7 @@
   "Artist": "William Eggleston", 
   "URL": "http://www.moma.org/collection/works/44816", 
   "CuratorApproved": "Y", 
-  "Title": "Memphis", 
-  "DateAcquired": "1976-02-24", 
+  "CreditLine": "David H. McAlpin Fund", 
   "Date": "c. 1969-70", 
   "ArtistID": 1690, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "49.1976", 
-  "ArtistBio": "American, born 1939", 
-  "CreditLine": "David H. McAlpin Fund", 
+  "ArtistBio": "(American, born 1939)", 
+  "DateAcquired": "1976-02-24", 
+  "\ufeffTitle": "Memphis", 
   "ObjectID": "44816"
 }

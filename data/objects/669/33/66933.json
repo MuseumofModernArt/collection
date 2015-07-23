@@ -1,12 +1,11 @@
 {
   "Medium": "Etching and roulette", 
-  "Dimensions": "plate  13 3/8 x 10 13/16\" (34 x 27.5 cm)  sheet  22 1/4 x 17 15/16\" (56.5 x 45.7 cm)", 
+  "Dimensions": "plate  13 3/8 x 10 13/16\" (34 x 27.5 cm)\r\nsheet  22 1/4 x 17 15/16\" (56.5 x 45.7 cm)", 
   "Classification": "Print", 
   "Artist": "Kyu-Baik Hwang", 
   "URL": "http://www.moma.org/collection/works/66933", 
   "CuratorApproved": "Y", 
-  "Title": "White Handkerchief on the Grass", 
-  "DateAcquired": "1973-10-24", 
+  "CreditLine": "Blanchette Hooker Rockefeller Fund", 
   "Date": "(1973)", 
   "ArtistID": 2786, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "323.1973", 
-  "ArtistBio": "Korean", 
-  "CreditLine": "Blanchette Hooker Rockefeller Fund", 
+  "ArtistBio": "(Korean)", 
+  "DateAcquired": "1973-10-24", 
+  "\ufeffTitle": "White Handkerchief on the Grass", 
   "ObjectID": "66933"
 }

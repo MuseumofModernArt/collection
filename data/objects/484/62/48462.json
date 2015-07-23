@@ -5,8 +5,7 @@
   "Artist": "Hisae Imai", 
   "URL": "http://www.moma.org/collection/works/48462", 
   "CuratorApproved": "Y", 
-  "Title": "Wind", 
-  "DateAcquired": "1959-04-22", 
+  "CreditLine": "Gift of Nihon Keizai Shimbun", 
   "Date": "c. 1955", 
   "ArtistID": 2804, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "206.1959", 
-  "ArtistBio": "Japanese, 1931\u20132009", 
-  "CreditLine": "Gift of Nihon Keizai Shimbun", 
+  "ArtistBio": "(Japanese, 1931\u20132009)", 
+  "DateAcquired": "1959-04-22", 
+  "\ufeffTitle": "Wind", 
   "ObjectID": "48462"
 }

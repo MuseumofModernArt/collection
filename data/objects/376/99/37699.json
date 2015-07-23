@@ -5,8 +5,7 @@
   "Artist": "Victor Servranckx", 
   "URL": "http://www.moma.org/collection/works/37699", 
   "CuratorApproved": "Y", 
-  "Title": "Composition", 
-  "DateAcquired": "1939-12-08", 
+  "CreditLine": "Gift of the artist", 
   "Date": "(c. 1927)", 
   "ArtistID": 5354, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "647.1939", 
-  "ArtistBio": "Belgian, 1897\u20131965", 
-  "CreditLine": "Gift of the artist", 
+  "ArtistBio": "(Belgian, 1897\u20131965)", 
+  "DateAcquired": "1939-12-08", 
+  "\ufeffTitle": "Composition", 
   "ObjectID": "37699"
 }

@@ -5,8 +5,7 @@
   "Artist": "Ellsworth Kelly", 
   "URL": "http://www.moma.org/collection/works/37225", 
   "CuratorApproved": "Y", 
-  "Title": "Study for Window, Museum of Modern Art, Paris", 
-  "DateAcquired": "1997-10-23", 
+  "CreditLine": "Gift of Sarah-Ann and Werner H. Kramarsky", 
   "Date": "1949", 
   "ArtistID": 3048, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "504.1997", 
-  "ArtistBio": "American, born 1923", 
-  "CreditLine": "Gift of Sarah-Ann and Werner H. Kramarsky", 
+  "ArtistBio": "(American, born 1923)", 
+  "DateAcquired": "1997-10-23", 
+  "\ufeffTitle": "Study for Window, Museum of Modern Art, Paris", 
   "ObjectID": "37225"
 }

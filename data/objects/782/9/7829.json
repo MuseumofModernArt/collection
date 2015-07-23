@@ -5,8 +5,7 @@
   "Artist": "\u00c9mile Vavasseur", 
   "URL": "http://www.moma.org/collection/works/7829", 
   "CuratorApproved": "Y", 
-  "Title": "Ripolin", 
-  "DateAcquired": "1954-12-16", 
+  "CreditLine": "Given anonymously", 
   "Date": "1913", 
   "ArtistID": 6116, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "640.1954", 
-  "ArtistBio": "French, 1863\u20131949", 
-  "CreditLine": "Given anonymously", 
+  "ArtistBio": "(French, 1863\u20131949)", 
+  "DateAcquired": "1954-12-16", 
+  "\ufeffTitle": "Ripolin", 
   "ObjectID": "7829"
 }

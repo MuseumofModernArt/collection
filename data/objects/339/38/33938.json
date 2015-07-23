@@ -5,8 +5,7 @@
   "Artist": "Paul Klee", 
   "URL": "http://www.moma.org/collection/works/33938", 
   "CuratorApproved": "Y", 
-  "Title": "Dying Plants", 
-  "DateAcquired": "1958-10-29", 
+  "CreditLine": "The Philip L. Goodwin Collection", 
   "Date": "1922", 
   "ArtistID": 3130, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "102.1958", 
-  "ArtistBio": "German, born Switzerland. 1879\u20131940", 
-  "CreditLine": "The Philip L. Goodwin Collection", 
+  "ArtistBio": "(German, born Switzerland. 1879\u20131940)", 
+  "DateAcquired": "1958-10-29", 
+  "\ufeffTitle": "Dying Plants (Sterbende Pflanzen)", 
   "ObjectID": "33938"
 }

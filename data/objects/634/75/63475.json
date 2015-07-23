@@ -1,12 +1,11 @@
 {
   "Medium": "Etching", 
-  "Dimensions": "plate  17 15/16 x 9 13/16\" (45.6 x 25 cm)  sheet  19 x 12 3/8\" (48 x 31.4 cm)", 
+  "Dimensions": "plate  17 15/16 x 9 13/16\" (45.6 x 25 cm)\r\nsheet  19 x 12 3/8\" (48 x 31.4 cm)", 
   "Classification": "Print", 
   "Artist": "Sue Coe", 
   "URL": "http://www.moma.org/collection/works/63475", 
   "CuratorApproved": "Y", 
-  "Title": "Nicaragua", 
-  "DateAcquired": "1988-05-04", 
+  "CreditLine": "John B. Turner Fund", 
   "Date": "(1987)", 
   "ArtistID": 1170, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "168.1988", 
-  "ArtistBio": "British, born 1951", 
-  "CreditLine": "John B. Turner Fund", 
+  "ArtistBio": "(British, born 1951)", 
+  "DateAcquired": "1988-05-04", 
+  "\ufeffTitle": "Nicaragua", 
   "ObjectID": "63475"
 }

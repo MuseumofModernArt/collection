@@ -5,8 +5,7 @@
   "Artist": "Emmet Gowin", 
   "URL": "http://www.moma.org/collection/works/46805", 
   "CuratorApproved": "Y", 
-  "Title": "Edith, Chincoteague, Virginia", 
-  "DateAcquired": "1972-03-07", 
+  "CreditLine": "Anonymous Fund", 
   "Date": "1967", 
   "ArtistID": 2273, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "138.1972", 
-  "ArtistBio": "American, born 1941", 
-  "CreditLine": "Anonymous Fund", 
+  "ArtistBio": "(American, born 1941)", 
+  "DateAcquired": "1972-03-07", 
+  "\ufeffTitle": "Edith, Chincoteague, Virginia", 
   "ObjectID": "46805"
 }

@@ -1,12 +1,11 @@
 {
   "Medium": "Lithograph with liquid crystal (heat-sensitive) solution additions", 
-  "Dimensions": "irreg composition  13 3/4 x 25 5/16\" (34.9 x 64.3 cm)  irreg sheet  19 1/8 x 25 3/4\" (48.6 x 65.4 cm)", 
+  "Dimensions": "irreg composition  13 3/4 x 25 5/16\" (34.9 x 64.3 cm)\r\nirreg sheet  19 1/8 x 25 3/4\" (48.6 x 65.4 cm)", 
   "Classification": "Print", 
   "Artist": "Edwin Schlossberg", 
   "URL": "http://www.moma.org/collection/works/68524", 
   "CuratorApproved": "Y", 
-  "Title": "Warm Memories", 
-  "DateAcquired": "1981-10-22", 
+  "CreditLine": "Gift of Celeste Bartos", 
   "Date": "1981", 
   "ArtistID": 5223, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "404.1981", 
-  "ArtistBio": "American, born 1945", 
-  "CreditLine": "Gift of Celeste Bartos", 
+  "ArtistBio": "(American, born 1945)", 
+  "DateAcquired": "1981-10-22", 
+  "\ufeffTitle": "Warm Memories", 
   "ObjectID": "68524"
 }

@@ -5,8 +5,7 @@
   "Artist": "Mario Botta", 
   "URL": "http://www.moma.org/collection/works/261", 
   "CuratorApproved": "Y", 
-  "Title": "Gotthard Bank, Lugano, Switzerland  Preliminary sketch", 
-  "DateAcquired": "1987-05-27", 
+  "CreditLine": "Gift of Banca del Gottardo", 
   "Date": "Unknown", 
   "ArtistID": 696, 
   "Keywords": [
@@ -20,7 +19,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "209.1987", 
-  "ArtistBio": "Swiss, born 1943", 
-  "CreditLine": "Gift of Banca del Gottardo", 
+  "ArtistBio": "(Swiss, born 1943)", 
+  "DateAcquired": "1987-05-27", 
+  "\ufeffTitle": "Gotthard Bank, Lugano, Switzerland, Preliminary sketch", 
   "ObjectID": "261"
 }

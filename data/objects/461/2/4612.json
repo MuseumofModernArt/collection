@@ -5,8 +5,7 @@
   "Artist": "Pierre Paulin", 
   "URL": "http://www.moma.org/collection/works/4612", 
   "CuratorApproved": "Y", 
-  "Title": "Chair (model 300)", 
-  "DateAcquired": "1968-10-07", 
+  "CreditLine": "Gift of the manufacturer and Turner-T Ltd.", 
   "Date": "1965-66", 
   "ArtistID": 4524, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "1230.1968", 
-  "ArtistBio": "French, 1927\u20132009", 
-  "CreditLine": "Gift of the manufacturer and Turner-T Ltd.", 
+  "ArtistBio": "(French, 1927\u20132009)", 
+  "DateAcquired": "1968-10-07", 
+  "\ufeffTitle": "Chair (model 300)", 
   "ObjectID": "4612"
 }

@@ -5,8 +5,7 @@
   "Artist": "Eileen Gray", 
   "URL": "http://www.moma.org/collection/works/4339", 
   "CuratorApproved": "Y", 
-  "Title": "Adjustable Table", 
-  "DateAcquired": "1977-11-28", 
+  "CreditLine": "Philip Johnson Fund and Aram Designs Ltd., London", 
   "Date": "1927", 
   "ArtistID": 2313, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "533.1977", 
-  "ArtistBio": "Anglo-Irish, 1879\u20131976", 
-  "CreditLine": "Philip Johnson Fund and Aram Designs Ltd., London", 
+  "ArtistBio": "(Anglo-Irish, 1879\u20131976)", 
+  "DateAcquired": "1977-11-28", 
+  "\ufeffTitle": "Adjustable Table", 
   "ObjectID": "4339"
 }

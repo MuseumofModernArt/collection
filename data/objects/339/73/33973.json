@@ -5,8 +5,7 @@
   "Artist": "Max Beckmann", 
   "URL": "http://www.moma.org/collection/works/33973", 
   "CuratorApproved": "Y", 
-  "Title": "The Chained One", 
-  "DateAcquired": "1947-06-17", 
+  "CreditLine": "Gift of Curt Valentin", 
   "Date": "(1944)", 
   "ArtistID": 429, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "105.1947", 
-  "ArtistBio": "German, 1884\u20131950", 
-  "CreditLine": "Gift of Curt Valentin", 
+  "ArtistBio": "(German, 1884\u20131950)", 
+  "DateAcquired": "1947-06-17", 
+  "\ufeffTitle": "The Chained One (Der Gefesselte)", 
   "ObjectID": "33973"
 }

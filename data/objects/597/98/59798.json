@@ -5,8 +5,7 @@
   "Artist": "Ernst Ludwig Kirchner", 
   "URL": "http://www.moma.org/collection/works/59798", 
   "CuratorApproved": "Y", 
-  "Title": "Head of Ludwig Schames", 
-  "DateAcquired": "1947-03-13", 
+  "CreditLine": "Gift of Curt Valentin", 
   "Date": "(1918)", 
   "ArtistID": 3115, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "10.1947", 
-  "ArtistBio": "German, 1880\u20131938", 
-  "CreditLine": "Gift of Curt Valentin", 
+  "ArtistBio": "(German, 1880\u20131938)", 
+  "DateAcquired": "1947-03-13", 
+  "\ufeffTitle": "Head of Ludwig Schames (Kopf Ludwig Schames)", 
   "ObjectID": "59798"
 }

@@ -5,8 +5,7 @@
   "Artist": "Henri Matisse", 
   "URL": "http://www.moma.org/collection/works/62197", 
   "CuratorApproved": "Y", 
-  "Title": "Young Woman, Goldfish and Checkered Cloth (Jeune femme, poissons rouges et nappe \u00e0 carreaux)", 
-  "DateAcquired": "1951-01-30", 
+  "CreditLine": "Stephen C. Clark Fund", 
   "Date": "(1929)", 
   "ArtistID": 3832, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "121.1951", 
-  "ArtistBio": "French, 1869\u20131954", 
-  "CreditLine": "Stephen C. Clark Fund", 
+  "ArtistBio": "(French, 1869\u20131954)", 
+  "DateAcquired": "1951-01-30", 
+  "\ufeffTitle": "Young Woman, Goldfish and Checkered Cloth (Jeune femme, poissons rouges et nappe \u00e0 carreaux)", 
   "ObjectID": "62197"
 }

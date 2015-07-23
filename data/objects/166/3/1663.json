@@ -5,8 +5,7 @@
   "Artist": "Carl Jacobs", 
   "URL": "http://www.moma.org/collection/works/1663", 
   "CuratorApproved": "Y", 
-  "Title": "Jason Chair", 
-  "DateAcquired": "2000-01-19", 
+  "CreditLine": "Gift of the manufacturer", 
   "Date": "1950", 
   "ArtistID": 8415, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "29.2000", 
-  "ArtistBio": "Danish, born c. 1925", 
-  "CreditLine": "Gift of the manufacturer", 
+  "ArtistBio": "(Danish, born c. 1925)", 
+  "DateAcquired": "2000-01-19", 
+  "\ufeffTitle": "Jason Chair", 
   "ObjectID": "1663"
 }

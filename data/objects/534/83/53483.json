@@ -5,8 +5,7 @@
   "Artist": "Bruce Davidson", 
   "URL": "http://www.moma.org/collection/works/53483", 
   "CuratorApproved": "Y", 
-  "Title": "Whitby, Yorkshire", 
-  "DateAcquired": "1966-10-11", 
+  "CreditLine": "Purchase", 
   "Date": "1960", 
   "ArtistID": 1398, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "446.1966", 
-  "ArtistBio": "American, born 1933", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, born 1933)", 
+  "DateAcquired": "1966-10-11", 
+  "\ufeffTitle": "Whitby, Yorkshire", 
   "ObjectID": "53483"
 }

@@ -5,8 +5,7 @@
   "Artist": "Ben Nason", 
   "URL": "http://www.moma.org/collection/works/5069", 
   "CuratorApproved": "Y", 
-  "Title": "The Berkshires, The New Haven Railroad", 
-  "DateAcquired": "1944-05-02", 
+  "CreditLine": "Gift of E. McKnight Kauffer", 
   "Date": "1942", 
   "ArtistID": 4230, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "100.1944", 
-  "ArtistBio": "American, born 1915", 
-  "CreditLine": "Gift of E. McKnight Kauffer", 
+  "ArtistBio": "(American, born 1915)", 
+  "DateAcquired": "1944-05-02", 
+  "\ufeffTitle": "The Berkshires, The New Haven Railroad", 
   "ObjectID": "5069"
 }

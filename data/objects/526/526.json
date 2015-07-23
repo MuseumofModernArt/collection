@@ -5,8 +5,7 @@
   "Artist": "James Stirling", 
   "URL": "http://www.moma.org/collection/works/526", 
   "CuratorApproved": "Y", 
-  "Title": "Staatsgalerie Stuttgart   Stuttgart, Germany   View of the theater arch from below", 
-  "DateAcquired": "1982-10-27", 
+  "CreditLine": "Gift of the architect", 
   "Date": "1978", 
   "ArtistID": 5668, 
   "Keywords": [
@@ -20,7 +19,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "396.1982", 
-  "ArtistBio": "British, born Scotland 1926\u20131992", 
-  "CreditLine": "Gift of the architect", 
+  "ArtistBio": "(British, born Scotland 1926\u20131992)", 
+  "DateAcquired": "1982-10-27", 
+  "\ufeffTitle": "Staatsgalerie Stuttgart , Stuttgart, Germany , View of the theater arch from below", 
   "ObjectID": "526"
 }

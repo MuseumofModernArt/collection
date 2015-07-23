@@ -5,8 +5,7 @@
   "Artist": "Key L. Nilson", 
   "URL": "http://www.moma.org/collection/works/54234", 
   "CuratorApproved": "Y", 
-  "Title": "Poker", 
-  "DateAcquired": "1960-11-30", 
+  "CreditLine": "Gift of the photographer", 
   "Date": "1959", 
   "ArtistID": 4307, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "487.1960", 
-  "ArtistBio": "Swedish, 1938\u20132002", 
-  "CreditLine": "Gift of the photographer", 
+  "ArtistBio": "(Swedish, 1938\u20132002)", 
+  "DateAcquired": "1960-11-30", 
+  "\ufeffTitle": "Poker", 
   "ObjectID": "54234"
 }

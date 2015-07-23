@@ -5,8 +5,7 @@
   "Artist": "Stevan Dohanos", 
   "URL": "http://www.moma.org/collection/works/7273", 
   "CuratorApproved": "Y", 
-  "Title": "Award for Careless Talk", 
-  "DateAcquired": "1983-05-17", 
+  "CreditLine": "Gift of The Lauder Foundation, Leonard and Evelyn Lauder Fund", 
   "Date": "1944", 
   "ArtistID": 1570, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "498.1983", 
-  "ArtistBio": "American, 1907\u20131994", 
-  "CreditLine": "Gift of The Lauder Foundation, Leonard and Evelyn Lauder Fund", 
+  "ArtistBio": "(American, 1907\u20131994)", 
+  "DateAcquired": "1983-05-17", 
+  "\ufeffTitle": "Award for Careless Talk", 
   "ObjectID": "7273"
 }

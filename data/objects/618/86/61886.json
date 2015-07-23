@@ -1,12 +1,11 @@
 {
   "Medium": "Lithograph", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "Fairfield Porter", 
   "URL": "http://www.moma.org/collection/works/61886", 
   "CuratorApproved": "Y", 
-  "Title": "Sixth Avenue I (1st state)", 
-  "DateAcquired": "1998-03-05", 
+  "CreditLine": "Gift of the Estate of Fairfield Porter", 
   "Date": "(1971)", 
   "ArtistID": 4701, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "106.1998", 
-  "ArtistBio": "American, 1907\u20131975", 
-  "CreditLine": "Gift of the Estate of Fairfield Porter", 
+  "ArtistBio": "(American, 1907\u20131975)", 
+  "DateAcquired": "1998-03-05", 
+  "\ufeffTitle": "Sixth Avenue I (1st state)", 
   "ObjectID": "61886"
 }

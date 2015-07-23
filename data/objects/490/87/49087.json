@@ -5,8 +5,7 @@
   "Artist": "William Wegman", 
   "URL": "http://www.moma.org/collection/works/49087", 
   "CuratorApproved": "Y", 
-  "Title": "RCA", 
-  "DateAcquired": "1994-03-10", 
+  "CreditLine": "Gift of the Peter Norton Family Foundation", 
   "Date": "c. 1976", 
   "ArtistID": 6281, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "224.1994", 
-  "ArtistBio": "American, born 1943", 
-  "CreditLine": "Gift of the Peter Norton Family Foundation", 
+  "ArtistBio": "(American, born 1943)", 
+  "DateAcquired": "1994-03-10", 
+  "\ufeffTitle": "RCA", 
   "ObjectID": "49087"
 }

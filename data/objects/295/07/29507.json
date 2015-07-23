@@ -1,12 +1,11 @@
 {
   "Medium": "Journal with one lithograph and line block cover", 
-  "Dimensions": "Composition: 12 9/16 x 25 9/16\" (31.9 x 65 cm)  Page: 13 x 13\" (33 x 33 cm)", 
+  "Dimensions": "Composition: 12 9/16 x 25 9/16\" (31.9 x 65 cm)\r\nPage: 13 x 13\" (33 x 33 cm)", 
   "Classification": "Illustrated Book", 
   "Artist": "El Lissitzky", 
   "URL": "http://www.moma.org/collection/works/29507", 
   "CuratorApproved": "Y", 
-  "Title": "Wendingen, No. 11", 
-  "DateAcquired": "1985-10-07", 
+  "CreditLine": "Gift of The Riklis Collection of McCrory Corporation", 
   "Date": "1921", 
   "ArtistID": 3569, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "979.1983", 
-  "ArtistBio": "Russian, 1890\u20131941", 
-  "CreditLine": "Gift of The Riklis Collection of McCrory Corporation", 
+  "ArtistBio": "(Russian, 1890\u20131941)", 
+  "DateAcquired": "1985-10-07", 
+  "\ufeffTitle": "Wendingen, No. 11", 
   "ObjectID": "29507"
 }

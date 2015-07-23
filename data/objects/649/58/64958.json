@@ -1,12 +1,11 @@
 {
   "Medium": "Lithograph with pastel additions", 
-  "Dimensions": "Composition (irreg.): 58 1/2 x 35 15/16\" (148.6 x 91.3 cm)  Sheet: 58 1/2 x 36 3/16\" (148.6 x 91.9 cm)", 
+  "Dimensions": "Composition (irreg.): 58 1/2 x 35 15/16\" (148.6 x 91.3 cm)\r\nSheet: 58 1/2 x 36 3/16\" (148.6 x 91.9 cm)", 
   "Classification": "Print", 
   "Artist": "Elizabeth Murray", 
   "URL": "http://www.moma.org/collection/works/64958", 
   "CuratorApproved": "Y", 
-  "Title": "Inside Story", 
-  "DateAcquired": "1984-10-02", 
+  "CreditLine": "Gift of Barbara Pine (through the Associates of the Department of Prints and Illustrated Books)", 
   "Date": "1984", 
   "ArtistID": 4185, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "237.1984", 
-  "ArtistBio": "American, 1940\u20132007", 
-  "CreditLine": "Gift of Barbara Pine (through the Associates of the Department of Prints and Illustrated Books)", 
+  "ArtistBio": "(American, 1940\u20132007)", 
+  "DateAcquired": "1984-10-02", 
+  "\ufeffTitle": "Inside Story", 
   "ObjectID": "64958"
 }

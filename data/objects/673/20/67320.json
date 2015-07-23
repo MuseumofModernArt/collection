@@ -5,8 +5,7 @@
   "Artist": "Stanley William Hayter", 
   "URL": "http://www.moma.org/collection/works/67320", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1988-10-25", 
+  "CreditLine": "Gift of the Estate of Marian Willard Johnson", 
   "Date": "1943", 
   "ArtistID": 2558, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "343.1988", 
-  "ArtistBio": "British, 1901\u20131988", 
-  "CreditLine": "Gift of the Estate of Marian Willard Johnson", 
+  "ArtistBio": "(British, 1901\u20131988)", 
+  "DateAcquired": "1988-10-25", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "67320"
 }

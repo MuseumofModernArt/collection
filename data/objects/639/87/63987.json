@@ -5,8 +5,7 @@
   "Artist": "Paul Klee", 
   "URL": "http://www.moma.org/collection/works/63987", 
   "CuratorApproved": "Y", 
-  "Title": "Railroad Station", 
-  "DateAcquired": "1942-05-07", 
+  "CreditLine": "Purchase", 
   "Date": "1911", 
   "ArtistID": 3130, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "185.1942", 
-  "ArtistBio": "German, born Switzerland. 1879\u20131940", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(German, born Switzerland. 1879\u20131940)", 
+  "DateAcquired": "1942-05-07", 
+  "\ufeffTitle": "Railroad Station (Bahnhof)", 
   "ObjectID": "63987"
 }

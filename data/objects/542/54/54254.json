@@ -5,8 +5,7 @@
   "Artist": "Lee Friedlander", 
   "URL": "http://www.moma.org/collection/works/54254", 
   "CuratorApproved": "Y", 
-  "Title": "New York City", 
-  "DateAcquired": "1973-11-13", 
+  "CreditLine": "Purchase", 
   "Date": "1969", 
   "ArtistID": 2002, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "488.1973", 
-  "ArtistBio": "American, born 1934", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, born 1934)", 
+  "DateAcquired": "1973-11-13", 
+  "\ufeffTitle": "New York City", 
   "ObjectID": "54254"
 }

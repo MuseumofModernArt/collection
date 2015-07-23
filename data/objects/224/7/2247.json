@@ -1,12 +1,11 @@
 {
   "Medium": "Anodized aluminum", 
-  "Dimensions": ".1 (silver): 4 x 4 3/4\" (10.2 x 12.1 cm)  .2 (gold): 2 x 4 3/4\" (5.1 x 12.1 cm)", 
+  "Dimensions": ".1 (silver): 4 x 4 3/4\" (10.2 x 12.1 cm)\r\n.2 (gold): 2 x 4 3/4\" (5.1 x 12.1 cm)", 
   "Classification": "A&D Design", 
   "Artist": "Erik Herl\u00f8w", 
   "URL": "http://www.moma.org/collection/works/2247", 
   "CuratorApproved": "Y", 
-  "Title": "Covered Storage Containers", 
-  "DateAcquired": "1957-05-15", 
+  "CreditLine": "Purchase Fund", 
   "Date": "c. 1945-55", 
   "ArtistID": 2609, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "129.1957.1-2", 
-  "ArtistBio": "Danish, 1913\u20131991", 
-  "CreditLine": "Purchase Fund", 
+  "ArtistBio": "(Danish, 1913\u20131991)", 
+  "DateAcquired": "1957-05-15", 
+  "\ufeffTitle": "Covered Storage Containers", 
   "ObjectID": "2247"
 }

@@ -5,8 +5,7 @@
   "Artist": "Weegee (Arthur Fellig)", 
   "URL": "http://www.moma.org/collection/works/46443", 
   "CuratorApproved": "Y", 
-  "Title": "Victory Celebration", 
-  "DateAcquired": "1988-03-10", 
+  "CreditLine": "Gift of John Coplans", 
   "Date": "1945", 
   "ArtistID": 1842, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "112.1988", 
-  "ArtistBio": "American, born Austria. 1899\u20131968", 
-  "CreditLine": "Gift of John Coplans", 
+  "ArtistBio": "(American, born Austria. 1899\u20131968)", 
+  "DateAcquired": "1988-03-10", 
+  "\ufeffTitle": "Victory Celebration", 
   "ObjectID": "46443"
 }

@@ -5,8 +5,7 @@
   "Artist": "Georges Braque", 
   "URL": "http://www.moma.org/collection/works/60470", 
   "CuratorApproved": "Y", 
-  "Title": "Still Life", 
-  "DateAcquired": "NULL", 
+  "CreditLine": "Gift of Mrs. Saidie A. May", 
   "Date": "1932", 
   "ArtistID": 744, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "31.1932", 
-  "ArtistBio": "French, 1882\u20131963", 
-  "CreditLine": "Gift of Mrs. Saidie A. May", 
+  "ArtistBio": "(French, 1882\u20131963)", 
+  "DateAcquired": "", 
+  "\ufeffTitle": "Still Life", 
   "ObjectID": "60470"
 }

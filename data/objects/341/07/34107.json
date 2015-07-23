@@ -5,8 +5,7 @@
   "Artist": "Walter Pichler", 
   "URL": "http://www.moma.org/collection/works/34107", 
   "CuratorApproved": "Y", 
-  "Title": "Artistic Branch", 
-  "DateAcquired": "1974-02-12", 
+  "CreditLine": "Gift of the International Committee for the Advancement of Culture and Art", 
   "Date": "1972", 
   "ArtistID": 4612, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "115.1974", 
-  "ArtistBio": "Austrian, 1936\u20132012", 
-  "CreditLine": "Gift of the International Committee for the Advancement of Culture and Art", 
+  "ArtistBio": "(Austrian, 1936\u20132012)", 
+  "DateAcquired": "1974-02-12", 
+  "\ufeffTitle": "Artistic Branch", 
   "ObjectID": "34107"
 }

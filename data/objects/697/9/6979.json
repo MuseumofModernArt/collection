@@ -2,11 +2,10 @@
   "Medium": "Offset lithograph", 
   "Dimensions": "27 7/8 x 18\" (70.8 x 45.7 cm)", 
   "Classification": "A&D Graphic Design", 
-  "Artist": "Robert Gretczko", 
+  "Artist": "Robert Gretczko, Charles Zimmerman", 
   "URL": "http://www.moma.org/collection/works/6979", 
   "CuratorApproved": "Y", 
-  "Title": "Our Town 1970", 
-  "DateAcquired": "1964-04-14", 
+  "CreditLine": "Gift of the Municipal Arts Society", 
   "Date": "1964", 
   "ArtistID": 2333, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "443.1964", 
-  "ArtistBio": "American, born 1944", 
-  "CreditLine": "Gift of the Municipal Arts Society", 
+  "ArtistBio": "(American, born 1944) (born 1942)", 
+  "DateAcquired": "1964-04-14", 
+  "\ufeffTitle": "\"Our Town 1970\"", 
   "ObjectID": "6979"
 }

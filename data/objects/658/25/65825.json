@@ -1,12 +1,11 @@
 {
   "Medium": "Screenprint from a portfolio of seven screenprints and three lithographs", 
-  "Dimensions": "composition and sheet: 12 x 12\" (30.5 x 30.5 cm)  ", 
+  "Dimensions": "composition and sheet: 12 x 12\" (30.5 x 30.5 cm)\r\n", 
   "Classification": "Print", 
   "Artist": "Ad Reinhardt", 
   "URL": "http://www.moma.org/collection/works/65825", 
   "CuratorApproved": "Y", 
-  "Title": "Abstract Print from the portfolio New York International", 
-  "DateAcquired": "1966-05-10", 
+  "CreditLine": "Gift of Tanglewood Press", 
   "Date": "(Published 1966)", 
   "ArtistID": 4856, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "275.1966.8", 
-  "ArtistBio": "American, 1913\u20131967", 
-  "CreditLine": "Gift of Tanglewood Press", 
+  "ArtistBio": "(American, 1913\u20131967)", 
+  "DateAcquired": "1966-05-10", 
+  "\ufeffTitle": "Abstract Print from the portfolio New York International", 
   "ObjectID": "65825"
 }

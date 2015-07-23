@@ -5,8 +5,7 @@
   "Artist": "Paul Klee", 
   "URL": "http://www.moma.org/collection/works/36676", 
   "CuratorApproved": "Y", 
-  "Title": "The Friends", 
-  "DateAcquired": "1970-10-22", 
+  "CreditLine": "Alva Gimbel Fund", 
   "Date": "1909", 
   "ArtistID": 3130, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "402.1970", 
-  "ArtistBio": "German, born Switzerland. 1879\u20131940", 
-  "CreditLine": "Alva Gimbel Fund", 
+  "ArtistBio": "(German, born Switzerland. 1879\u20131940)", 
+  "DateAcquired": "1970-10-22", 
+  "\ufeffTitle": "The Friends (Die Freundinnen)", 
   "ObjectID": "36676"
 }

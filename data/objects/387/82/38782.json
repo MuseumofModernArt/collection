@@ -5,8 +5,7 @@
   "Artist": "Raymond Mason", 
   "URL": "http://www.moma.org/collection/works/38782", 
   "CuratorApproved": "Y", 
-  "Title": "Studies For Sculpture", 
-  "DateAcquired": "1967-12-13", 
+  "CreditLine": "L-B Foundation Fund", 
   "Date": "1963", 
   "ArtistID": 3817, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "2377.1967", 
-  "ArtistBio": "British, 1922\u20132010", 
-  "CreditLine": "L-B Foundation Fund", 
+  "ArtistBio": "(British, 1922\u20132010)", 
+  "DateAcquired": "1967-12-13", 
+  "\ufeffTitle": "Studies For Sculpture", 
   "ObjectID": "38782"
 }

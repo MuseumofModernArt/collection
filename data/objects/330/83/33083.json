@@ -5,8 +5,7 @@
   "Artist": "Dudley Huppler", 
   "URL": "http://www.moma.org/collection/works/33083", 
   "CuratorApproved": "Y", 
-  "Title": "Art and Nature", 
-  "DateAcquired": "1951-01-30", 
+  "CreditLine": "Katharine Cornell Fund", 
   "Date": "1947", 
   "ArtistID": 2773, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "9.1951", 
-  "ArtistBio": "American, 1917\u20131988", 
-  "CreditLine": "Katharine Cornell Fund", 
+  "ArtistBio": "(American, 1917\u20131988)", 
+  "DateAcquired": "1951-01-30", 
+  "\ufeffTitle": "Art and Nature", 
   "ObjectID": "33083"
 }

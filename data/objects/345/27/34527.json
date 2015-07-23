@@ -5,8 +5,7 @@
   "Artist": "Martin Kippenberger", 
   "URL": "http://www.moma.org/collection/works/34527", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled (A la Grande Cloche)", 
-  "DateAcquired": "1999-05-06", 
+  "CreditLine": "Purchase Fund", 
   "Date": "1995", 
   "ArtistID": 3111, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "130.1999", 
-  "ArtistBio": "German, 1953\u20131997", 
-  "CreditLine": "Purchase Fund", 
+  "ArtistBio": "(German, 1953\u20131997)", 
+  "DateAcquired": "1999-05-06", 
+  "\ufeffTitle": "Untitled (A la Grande Cloche)", 
   "ObjectID": "34527"
 }

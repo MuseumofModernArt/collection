@@ -1,12 +1,11 @@
 {
   "Medium": "Illustrated book with eight embossings and two brass reliefs", 
-  "Dimensions": "irreg. page  15 1/8 x 11 1/4\" (38 x 28.5 cm)  Prints and multiples:  various dimensions.", 
+  "Dimensions": "irreg. page  15 1/8 x 11 1/4\" (38 x 28.5 cm)\r\nPrints and multiples:  various dimensions.", 
   "Classification": "Illustrated Book", 
   "Artist": "Arnaldo Pomodoro", 
   "URL": "http://www.moma.org/collection/works/9300", 
   "CuratorApproved": "Y", 
-  "Title": "Seven Saxon Poems (Siete Poemas Sajones)", 
-  "DateAcquired": "1976-01-08", 
+  "CreditLine": "Gift of the artist", 
   "Date": "1974", 
   "ArtistID": 4676, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "17.1976.1-10", 
-  "ArtistBio": "Italian, born 1926", 
-  "CreditLine": "Gift of the artist", 
+  "ArtistBio": "(Italian, born 1926)", 
+  "DateAcquired": "1976-01-08", 
+  "\ufeffTitle": "Seven Saxon Poems (Siete Poemas Sajones)", 
   "ObjectID": "9300"
 }

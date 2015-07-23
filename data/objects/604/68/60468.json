@@ -5,8 +5,7 @@
   "Artist": "Alberto Giacometti", 
   "URL": "http://www.moma.org/collection/works/60468", 
   "CuratorApproved": "Y", 
-  "Title": "Figure in the Studio", 
-  "DateAcquired": "1996-03-12", 
+  "CreditLine": "Gift of Douglas S. Cramer in honor of Riva Castleman", 
   "Date": "1954", 
   "ArtistID": 2141, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "30.1996", 
-  "ArtistBio": "Swiss, 1901\u20131966", 
-  "CreditLine": "Gift of Douglas S. Cramer in honor of Riva Castleman", 
+  "ArtistBio": "(Swiss, 1901\u20131966)", 
+  "DateAcquired": "1996-03-12", 
+  "\ufeffTitle": "Figure in the Studio", 
   "ObjectID": "60468"
 }

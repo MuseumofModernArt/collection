@@ -1,12 +1,11 @@
 {
   "Medium": "Epoxy-coated stainless steel", 
-  "Dimensions": ".1 (soupspoon): 7 1/2 x 2 5/8\" (19 x 4.2 cm)   .2 (spoon): 6 1/4 x 7/8\" (15.9 x 2.3 cm)   .3 (knife): 8 1/2 x 3/4\" (21.6 x 1.9 cm)   .4 (teaspoon): 5 x 1 1/4\" (12.7 x 3.2 cm)   .5 (fork): 4 3/4 x 5/8\" (12 x 1.6 cm)  .6 (larger fork): 8 x 1 1/4\" (20.3 x 3.1 cm)", 
+  "Dimensions": ".1 (soupspoon): 7 1/2 x 2 5/8\" (19 x 4.2 cm) \r\n.2 (spoon): 6 1/4 x 7/8\" (15.9 x 2.3 cm) \r\n.3 (knife): 8 1/2 x 3/4\" (21.6 x 1.9 cm) \r\n.4 (teaspoon): 5 x 1 1/4\" (12.7 x 3.2 cm) \r\n.5 (fork): 4 3/4 x 5/8\" (12 x 1.6 cm)\r\n.6 (larger fork): 8 x 1 1/4\" (20.3 x 3.1 cm)", 
   "Classification": "A&D Design", 
   "Artist": "Michio Hanyu", 
   "URL": "http://www.moma.org/collection/works/3000", 
   "CuratorApproved": "Y", 
-  "Title": "Flatware", 
-  "DateAcquired": "1986-10-07", 
+  "CreditLine": "Friends of the Department Fund", 
   "Date": "1966", 
   "ArtistID": 2496, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "243.1986.1-6", 
-  "ArtistBio": "Japanese, born 1933", 
-  "CreditLine": "Friends of the Department Fund", 
+  "ArtistBio": "(Japanese, born 1933)", 
+  "DateAcquired": "1986-10-07", 
+  "\ufeffTitle": "Flatware", 
   "ObjectID": "3000"
 }

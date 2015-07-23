@@ -5,8 +5,7 @@
   "Artist": "Lewis W. Hine", 
   "URL": "http://www.moma.org/collection/works/50342", 
   "CuratorApproved": "Y", 
-  "Title": "Homework, Artificial Flowers, New York", 
-  "DateAcquired": "1965-04-06", 
+  "CreditLine": "", 
   "Date": "1908", 
   "ArtistID": 2657, 
   "Keywords": [
@@ -20,7 +19,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "307.1965", 
-  "ArtistBio": "American, 1874\u20131940", 
-  "CreditLine": "NULL", 
+  "ArtistBio": "(American, 1874\u20131940)", 
+  "DateAcquired": "1965-04-06", 
+  "\ufeffTitle": "Homework, Artificial Flowers, New York", 
   "ObjectID": "50342"
 }

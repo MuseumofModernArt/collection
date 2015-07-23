@@ -5,8 +5,7 @@
   "Artist": "Jean Lur\u00e7at", 
   "URL": "http://www.moma.org/collection/works/62786", 
   "CuratorApproved": "Y", 
-  "Title": "Tortoise", 
-  "DateAcquired": "1949-03-24", 
+  "CreditLine": "Purchase", 
   "Date": "1907", 
   "ArtistID": 3641, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "139.1949", 
-  "ArtistBio": "French, 1892\u20131966", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(French, 1892\u20131966)", 
+  "DateAcquired": "1949-03-24", 
+  "\ufeffTitle": "Tortoise", 
   "ObjectID": "62786"
 }

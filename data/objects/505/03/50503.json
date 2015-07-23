@@ -5,8 +5,7 @@
   "Artist": "Lois Conner", 
   "URL": "http://www.moma.org/collection/works/50503", 
   "CuratorApproved": "Y", 
-  "Title": "Chinle, Arizona", 
-  "DateAcquired": "1997-06-12", 
+  "CreditLine": "Gift of the photographer", 
   "Date": "1992", 
   "ArtistID": 6616, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "311.1997", 
-  "ArtistBio": "American, born 1951", 
-  "CreditLine": "Gift of the photographer", 
+  "ArtistBio": "(American, born 1951)", 
+  "DateAcquired": "1997-06-12", 
+  "\ufeffTitle": "Chinle, Arizona", 
   "ObjectID": "50503"
 }

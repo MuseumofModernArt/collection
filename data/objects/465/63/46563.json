@@ -5,8 +5,7 @@
   "Artist": "Bill Brandt", 
   "URL": "http://www.moma.org/collection/works/46563", 
   "CuratorApproved": "Y", 
-  "Title": "Lord MacDonald's Forest, Skye", 
-  "DateAcquired": "1959-04-22", 
+  "CreditLine": "Gift of the photographer", 
   "Date": "1947", 
   "ArtistID": 740, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "102.1959", 
-  "ArtistBio": "British, born Germany. 1904\u20131983", 
-  "CreditLine": "Gift of the photographer", 
+  "ArtistBio": "(British, born Germany. 1904\u20131983)", 
+  "DateAcquired": "1959-04-22", 
+  "\ufeffTitle": "Lord MacDonald's Forest, Skye", 
   "ObjectID": "46563"
 }

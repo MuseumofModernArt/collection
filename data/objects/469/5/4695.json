@@ -1,12 +1,11 @@
 {
   "Medium": "Pyrex-brand glass, cork, and leather", 
-  "Dimensions": ".a (bottle): 14 1/4 x 7\" (36.2 x 17.8 cm)  .b (lid): 2 3/4 x 5 1/2\" (7 x 14 cm)", 
+  "Dimensions": ".a (bottle): 14 1/4 x 7\" (36.2 x 17.8 cm)\r\n.b (lid): 2 3/4 x 5 1/2\" (7 x 14 cm)", 
   "Classification": "A&D Design", 
   "Artist": "Peter Schlumbohm", 
   "URL": "http://www.moma.org/collection/works/4695", 
   "CuratorApproved": "Y", 
-  "Title": "Fahrenheitor Bottle Cooler", 
-  "DateAcquired": "2001-04-30", 
+  "CreditLine": "Gift of the manufacturer", 
   "Date": "1961", 
   "ArtistID": 5225, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "1332.2001.a-b", 
-  "ArtistBio": "American, born Germany. 1896\u20131962", 
-  "CreditLine": "Gift of the manufacturer", 
+  "ArtistBio": "(American, born Germany. 1896\u20131962)", 
+  "DateAcquired": "2001-04-30", 
+  "\ufeffTitle": "Fahrenheitor Bottle Cooler", 
   "ObjectID": "4695"
 }

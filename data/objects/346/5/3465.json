@@ -5,8 +5,7 @@
   "Artist": "George Ohr", 
   "URL": "http://www.moma.org/collection/works/3465", 
   "CuratorApproved": "Y", 
-  "Title": "Bowl", 
-  "DateAcquired": "1982-10-27", 
+  "CreditLine": "Blanchette Hooker Rockefeller Purchase Fund", 
   "Date": "c. 1900", 
   "ArtistID": 4384, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "370.1982", 
-  "ArtistBio": "American, 1857\u20131918", 
-  "CreditLine": "Blanchette Hooker Rockefeller Purchase Fund", 
+  "ArtistBio": "(American, 1857\u20131918)", 
+  "DateAcquired": "1982-10-27", 
+  "\ufeffTitle": "Bowl", 
   "ObjectID": "3465"
 }

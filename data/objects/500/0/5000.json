@@ -5,8 +5,7 @@
   "Artist": "Henryk Tomaszewski", 
   "URL": "http://www.moma.org/collection/works/5000", 
   "CuratorApproved": "Y", 
-  "Title": "Urok Szatana (The Beauty of the Devil)", 
-  "DateAcquired": "1961-02-07", 
+  "CreditLine": "Given anonymously", 
   "Date": "1954", 
   "ArtistID": 5894, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "86.1961", 
-  "ArtistBio": "Polish, 1914\u20132001", 
-  "CreditLine": "Given anonymously", 
+  "ArtistBio": "(Polish, 1914\u20132001)", 
+  "DateAcquired": "1961-02-07", 
+  "\ufeffTitle": "Urok Szatana (The Beauty of the Devil) (Poster for the French film directed by Ren\u00e9 Clair)", 
   "ObjectID": "5000"
 }

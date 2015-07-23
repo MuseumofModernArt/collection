@@ -5,8 +5,7 @@
   "Artist": "Jerome Liebling", 
   "URL": "http://www.moma.org/collection/works/51349", 
   "CuratorApproved": "Y", 
-  "Title": "Governor George Wallace, Minneapolis, Minnesota", 
-  "DateAcquired": "1994-06-09", 
+  "CreditLine": "The Family of Man Fund", 
   "Date": "1968", 
   "ArtistID": 3549, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "344.1994", 
-  "ArtistBio": "American, 1924\u20132011", 
-  "CreditLine": "The Family of Man Fund", 
+  "ArtistBio": "(American, 1924\u20132011)", 
+  "DateAcquired": "1994-06-09", 
+  "\ufeffTitle": "Governor George Wallace, Minneapolis, Minnesota", 
   "ObjectID": "51349"
 }

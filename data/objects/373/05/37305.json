@@ -5,8 +5,7 @@
   "Artist": "Richmond Burton", 
   "URL": "http://www.moma.org/collection/works/37305", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled (Concentric Steps' Study)", 
-  "DateAcquired": "1990-10-25", 
+  "CreditLine": "Gift of Agnes Gund", 
   "Date": "(1989)", 
   "ArtistID": 888, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "544.1990", 
-  "ArtistBio": "American, born 1960", 
-  "CreditLine": "Gift of Agnes Gund", 
+  "ArtistBio": "(American, born 1960)", 
+  "DateAcquired": "1990-10-25", 
+  "\ufeffTitle": "Untitled (Concentric Steps' Study)", 
   "ObjectID": "37305"
 }

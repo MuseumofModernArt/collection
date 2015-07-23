@@ -5,8 +5,7 @@
   "Artist": "Lucian Bernhard", 
   "URL": "http://www.moma.org/collection/works/5791", 
   "CuratorApproved": "Y", 
-  "Title": "Bosch-Licht", 
-  "DateAcquired": "1987-05-27", 
+  "CreditLine": "Gift of The Lauder Foundation, Leonard and Evelyn Lauder Fund", 
   "Date": "1913", 
   "ArtistID": 515, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "237.1987", 
-  "ArtistBio": "American, born Germany. 1883\u20131972", 
-  "CreditLine": "Gift of The Lauder Foundation, Leonard and Evelyn Lauder Fund", 
+  "ArtistBio": "(American, born Germany. 1883\u20131972)", 
+  "DateAcquired": "1987-05-27", 
+  "\ufeffTitle": "Bosch-Licht", 
   "ObjectID": "5791"
 }

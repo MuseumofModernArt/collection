@@ -1,12 +1,11 @@
 {
   "Medium": "Lithograph", 
-  "Dimensions": "composition  27 3/8 x 39 5/16\" (69.5 x 99.8 cm)  sheet  27 3/8 x 39 5/16\" (69.5 x 99.8 cm)", 
+  "Dimensions": "composition  27 3/8 x 39 5/16\" (69.5 x 99.8 cm)\r\nsheet  27 3/8 x 39 5/16\" (69.5 x 99.8 cm)", 
   "Classification": "Print", 
   "Artist": "Charles Christopher Hill", 
   "URL": "http://www.moma.org/collection/works/68615", 
   "CuratorApproved": "Y", 
-  "Title": "Lightning", 
-  "DateAcquired": "1978-05-22", 
+  "CreditLine": "John B. Turner Fund", 
   "Date": "1977", 
   "ArtistID": 2646, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "409.1978", 
-  "ArtistBio": "American, born 1948", 
-  "CreditLine": "John B. Turner Fund", 
+  "ArtistBio": "(American, born 1948)", 
+  "DateAcquired": "1978-05-22", 
+  "\ufeffTitle": "Lightning", 
   "ObjectID": "68615"
 }

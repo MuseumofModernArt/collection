@@ -5,8 +5,7 @@
   "Artist": "Barbara Morgan", 
   "URL": "http://www.moma.org/collection/works/50060", 
   "CuratorApproved": "Y", 
-  "Title": "Spring on Madison Square", 
-  "DateAcquired": "1959-04-22", 
+  "CreditLine": "Purchase", 
   "Date": "1938", 
   "ArtistID": 4089, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "292.1959", 
-  "ArtistBio": "American, 1900\u20131992", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, 1900\u20131992)", 
+  "DateAcquired": "1959-04-22", 
+  "\ufeffTitle": "Spring on Madison Square", 
   "ObjectID": "50060"
 }

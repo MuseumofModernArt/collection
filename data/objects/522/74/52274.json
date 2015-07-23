@@ -5,8 +5,7 @@
   "Artist": "Emmet Gowin", 
   "URL": "http://www.moma.org/collection/works/52274", 
   "CuratorApproved": "Y", 
-  "Title": "Near Hawthorne, Nevada", 
-  "DateAcquired": "1997-10-09", 
+  "CreditLine": "Robert and Joyce Menschel Fund", 
   "Date": "1988", 
   "ArtistID": 2273, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "384.1997", 
-  "ArtistBio": "American, born 1941", 
-  "CreditLine": "Robert and Joyce Menschel Fund", 
+  "ArtistBio": "(American, born 1941)", 
+  "DateAcquired": "1997-10-09", 
+  "\ufeffTitle": "Near Hawthorne, Nevada", 
   "ObjectID": "52274"
 }

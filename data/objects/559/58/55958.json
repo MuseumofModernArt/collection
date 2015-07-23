@@ -5,8 +5,7 @@
   "Artist": "Lewis Carroll (Charles Lutwidge Dodgson)", 
   "URL": "http://www.moma.org/collection/works/55958", 
   "CuratorApproved": "Y", 
-  "Title": "Mary MacDonald", 
-  "DateAcquired": "1978-10-12", 
+  "CreditLine": "Gift of Robert B. Menschel", 
   "Date": "1863", 
   "Keywords": [
     "online art collection", 
@@ -16,7 +15,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "671.1978", 
-  "ArtistBio": "British, 1832\u20131898", 
-  "CreditLine": "Gift of Robert B. Menschel", 
+  "ArtistBio": "(British, 1832\u20131898)", 
+  "DateAcquired": "1978-10-12", 
+  "\ufeffTitle": "Mary MacDonald", 
   "ObjectID": "55958"
 }

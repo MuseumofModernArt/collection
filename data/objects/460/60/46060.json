@@ -5,8 +5,7 @@
   "Artist": "Philip-Lorca diCorcia", 
   "URL": "http://www.moma.org/collection/works/46060", 
   "CuratorApproved": "Y", 
-  "Title": "Mario", 
-  "DateAcquired": "1987-04-16", 
+  "CreditLine": "Acquired through the generosity of Harriette and Noel Levine", 
   "Date": "1981", 
   "ArtistID": 7027, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "90.1987.x1-x2", 
-  "ArtistBio": "American, born 1951", 
-  "CreditLine": "Acquired through the generosity of Harriette and Noel Levine", 
+  "ArtistBio": "(American, born 1951)", 
+  "DateAcquired": "1987-04-16", 
+  "\ufeffTitle": "Mario", 
   "ObjectID": "46060"
 }

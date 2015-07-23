@@ -5,8 +5,7 @@
   "Artist": "Georg Trump", 
   "URL": "http://www.moma.org/collection/works/6550", 
   "CuratorApproved": "Y", 
-  "Title": "Gropius, die Wurzeln der neuen Baukunst", 
-  "DateAcquired": "1950-11-15", 
+  "CreditLine": "Gift of Philip Johnson", 
   "Date": "c. 1925", 
   "ArtistID": 5947, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "366.1950", 
-  "ArtistBio": "German, 1896\u20131985", 
-  "CreditLine": "Gift of Philip Johnson", 
+  "ArtistBio": "(German, 1896\u20131985)", 
+  "DateAcquired": "1950-11-15", 
+  "\ufeffTitle": "Gropius, die Wurzeln der neuen Baukunst", 
   "ObjectID": "6550"
 }

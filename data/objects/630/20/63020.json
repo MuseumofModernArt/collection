@@ -1,12 +1,11 @@
 {
   "Medium": "Collagraph", 
-  "Dimensions": "composition  26 3/4 x 36 15/16\" (67.8 x 93.8 cm)  sheet  26 3/4 x 36 15/16\" (67 x 93.8 cm)", 
+  "Dimensions": "composition  26 3/4 x 36 15/16\" (67.8 x 93.8 cm)\r\nsheet  26 3/4 x 36 15/16\" (67 x 93.8 cm)", 
   "Classification": "Print", 
   "Artist": "Belkis Ay\u00f3n", 
   "URL": "http://www.moma.org/collection/works/63020", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled (A CHALLENGE)", 
-  "DateAcquired": "1999-05-20", 
+  "CreditLine": "Gift of Carole and Alex Rosenberg", 
   "Date": "1996", 
   "ArtistID": 8032, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "152.1999", 
-  "ArtistBio": "Cuban, 1967\u20131999", 
-  "CreditLine": "Gift of Carole and Alex Rosenberg", 
+  "ArtistBio": "(Cuban, 1967\u20131999)", 
+  "DateAcquired": "1999-05-20", 
+  "\ufeffTitle": "Untitled (A CHALLENGE)", 
   "ObjectID": "63020"
 }

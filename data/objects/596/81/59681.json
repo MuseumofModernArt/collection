@@ -1,12 +1,11 @@
 {
   "Medium": "Etching and aquatint", 
-  "Dimensions": "plate  7 7/16 x 9 13/16\" (18.9 x 25 cm)  sheet  13 13/16 x 17 1/8\" (34.9 x 43.5 cm)", 
+  "Dimensions": "plate  7 7/16 x 9 13/16\" (18.9 x 25 cm)\r\nsheet  13 13/16 x 17 1/8\" (34.9 x 43.5 cm)", 
   "Classification": "Print", 
   "Artist": "Helen Frankenthaler", 
   "URL": "http://www.moma.org/collection/works/59681", 
   "CuratorApproved": "Y", 
-  "Title": "Message from Degas", 
-  "DateAcquired": "1975-01-07", 
+  "CreditLine": "Gift of Celeste Bartos", 
   "Date": "1972-74", 
   "ArtistID": 1974, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "6.1975", 
-  "ArtistBio": "American, 1928\u20132011", 
-  "CreditLine": "Gift of Celeste Bartos", 
+  "ArtistBio": "(American, 1928\u20132011)", 
+  "DateAcquired": "1975-01-07", 
+  "\ufeffTitle": "Message from Degas", 
   "ObjectID": "59681"
 }

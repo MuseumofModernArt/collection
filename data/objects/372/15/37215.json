@@ -5,8 +5,7 @@
   "Artist": "Ellsworth Kelly", 
   "URL": "http://www.moma.org/collection/works/37215", 
   "CuratorApproved": "Y", 
-  "Title": "Study for Meschers", 
-  "DateAcquired": "1997-10-23", 
+  "CreditLine": "Gift of the artist", 
   "Date": "(1951)", 
   "ArtistID": 3048, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "502.1997", 
-  "ArtistBio": "American, born 1923", 
-  "CreditLine": "Gift of the artist", 
+  "ArtistBio": "(American, born 1923)", 
+  "DateAcquired": "1997-10-23", 
+  "\ufeffTitle": "Study for Meschers", 
   "ObjectID": "37215"
 }

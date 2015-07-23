@@ -5,8 +5,7 @@
   "Artist": "Rosalind Fox Solomon", 
   "URL": "http://www.moma.org/collection/works/51935", 
   "CuratorApproved": "Y", 
-  "Title": "Supplication, Guatemala", 
-  "DateAcquired": "1986-10-16", 
+  "CreditLine": "Acquired through the generosity of Lois and Bruce Zenkel", 
   "Date": "1979", 
   "ArtistID": 5517, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "369.1986", 
-  "ArtistBio": "American, born 1930", 
-  "CreditLine": "Acquired through the generosity of Lois and Bruce Zenkel", 
+  "ArtistBio": "(American, born 1930)", 
+  "DateAcquired": "1986-10-16", 
+  "\ufeffTitle": "Supplication, Guatemala", 
   "ObjectID": "51935"
 }

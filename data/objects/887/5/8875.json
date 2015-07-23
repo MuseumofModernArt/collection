@@ -5,8 +5,7 @@
   "Artist": "Marek Freudenreich", 
   "URL": "http://www.moma.org/collection/works/8875", 
   "CuratorApproved": "Y", 
-  "Title": "Zywot Mateusza", 
-  "DateAcquired": "2000-12-11", 
+  "CreditLine": "Gift of the designer", 
   "Date": "1967", 
   "ArtistID": 8392, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "1573.2000", 
-  "ArtistBio": "Polish, born 1939", 
-  "CreditLine": "Gift of the designer", 
+  "ArtistBio": "(Polish, born 1939)", 
+  "DateAcquired": "2000-12-11", 
+  "\ufeffTitle": "Zywot Mateusza", 
   "ObjectID": "8875"
 }

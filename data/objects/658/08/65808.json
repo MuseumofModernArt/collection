@@ -1,12 +1,11 @@
 {
   "Medium": "Aquatint", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "Julian Lethbridge", 
   "URL": "http://www.moma.org/collection/works/65808", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1992-05-20", 
+  "CreditLine": "Gift of Emily Fisher Landau", 
   "Date": "1991", 
   "ArtistID": 3500, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "274.1992", 
-  "ArtistBio": "British, born 1947", 
-  "CreditLine": "Gift of Emily Fisher Landau", 
+  "ArtistBio": "(British, born 1947)", 
+  "DateAcquired": "1992-05-20", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "65808"
 }

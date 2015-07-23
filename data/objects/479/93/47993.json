@@ -5,8 +5,7 @@
   "Artist": "Hans Hammarskiold", 
   "URL": "http://www.moma.org/collection/works/47993", 
   "CuratorApproved": "Y", 
-  "Title": "Snow on Slats", 
-  "DateAcquired": "1959-04-22", 
+  "CreditLine": "Gift of the photographer", 
   "Date": "1940-53", 
   "ArtistID": 2482, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "187.1959", 
-  "ArtistBio": "Swedish, 1925\u20132012", 
-  "CreditLine": "Gift of the photographer", 
+  "ArtistBio": "(Swedish, 1925\u20132012)", 
+  "DateAcquired": "1959-04-22", 
+  "\ufeffTitle": "Snow on Slats", 
   "ObjectID": "47993"
 }

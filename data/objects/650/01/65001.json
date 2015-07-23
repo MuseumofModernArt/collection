@@ -5,8 +5,7 @@
   "Artist": "Dan Flavin", 
   "URL": "http://www.moma.org/collection/works/65001", 
   "CuratorApproved": "Y", 
-  "Title": "The Printer, Larry Scholder, At Work", 
-  "DateAcquired": "1978-03-02", 
+  "CreditLine": "Gift of Lawrence Scholder", 
   "Date": "1975", 
   "ArtistID": 1911, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "239.1978", 
-  "ArtistBio": "American, 1933\u20131996", 
-  "CreditLine": "Gift of Lawrence Scholder", 
+  "ArtistBio": "(American, 1933\u20131996)", 
+  "DateAcquired": "1978-03-02", 
+  "\ufeffTitle": "The Printer, Larry Scholder, At Work", 
   "ObjectID": "65001"
 }

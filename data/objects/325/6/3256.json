@@ -5,8 +5,7 @@
   "Artist": "\u00c9douard-Wilfred Buquet", 
   "URL": "http://www.moma.org/collection/works/3256", 
   "CuratorApproved": "Y", 
-  "Title": "Desk Lamp", 
-  "DateAcquired": "1977-06-01", 
+  "CreditLine": "D. S. and R. H. Gottesman Foundation", 
   "Date": "1927", 
   "ArtistID": 865, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "308.1977", 
-  "ArtistBio": "French", 
-  "CreditLine": "D. S. and R. H. Gottesman Foundation", 
+  "ArtistBio": "(French)", 
+  "DateAcquired": "1977-06-01", 
+  "\ufeffTitle": "Desk Lamp", 
   "ObjectID": "3256"
 }

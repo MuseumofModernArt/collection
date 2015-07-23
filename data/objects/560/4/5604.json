@@ -5,8 +5,7 @@
   "Artist": "Rudolf Bircher", 
   "URL": "http://www.moma.org/collection/works/5604", 
   "CuratorApproved": "Y", 
-  "Title": "Aino und Alvar Aalto, Kunstgewerbemuseum, Z\u00fcrich", 
-  "DateAcquired": "1968-03-07", 
+  "CreditLine": "Gift of the Kunstgewerbe Museum, Z\u00fcrich", 
   "Date": "1948", 
   "ArtistID": 8326, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "187.1968", 
-  "ArtistBio": "Swiss", 
-  "CreditLine": "Gift of the Kunstgewerbe Museum, Z\u00fcrich", 
+  "ArtistBio": "(Swiss)", 
+  "DateAcquired": "1968-03-07", 
+  "\ufeffTitle": "Aino und Alvar Aalto, Kunstgewerbemuseum, Z\u00fcrich", 
   "ObjectID": "5604"
 }

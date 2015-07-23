@@ -5,8 +5,7 @@
   "Artist": "Juan Gris", 
   "URL": "http://www.moma.org/collection/works/66677", 
   "CuratorApproved": "Y", 
-  "Title": "Marcelle, The Brunette", 
-  "DateAcquired": "1940-04-05", 
+  "CreditLine": "Gift of Abby Aldrich Rockefeller", 
   "Date": "(March 1921)", 
   "ArtistID": 2349, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "312.1940", 
-  "ArtistBio": "Spanish, 1887\u20131927", 
-  "CreditLine": "Gift of Abby Aldrich Rockefeller", 
+  "ArtistBio": "(Spanish, 1887\u20131927)", 
+  "DateAcquired": "1940-04-05", 
+  "\ufeffTitle": "Marcelle, The Brunette", 
   "ObjectID": "66677"
 }

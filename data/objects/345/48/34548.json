@@ -1,12 +1,11 @@
 {
   "Medium": "Ink on paper", 
-  "Dimensions": "20 3/4 x 14 1/2\" (52.5 x 36.8 cm)  ", 
+  "Dimensions": "20 3/4 x 14 1/2\" (52.5 x 36.8 cm)\r\n", 
   "Classification": "Drawing", 
   "Artist": "Andr\u00e9 Masson", 
   "URL": "http://www.moma.org/collection/works/34548", 
   "CuratorApproved": "Y", 
-  "Title": "G\u00e9rard de Nerval", 
-  "DateAcquired": "1958-10-29", 
+  "CreditLine": "Gift of William S. Rubin", 
   "Date": "1940", 
   "ArtistID": 3821, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "132.1958", 
-  "ArtistBio": "French, 1896\u20131987", 
-  "CreditLine": "Gift of William S. Rubin", 
+  "ArtistBio": "(French, 1896\u20131987)", 
+  "DateAcquired": "1958-10-29", 
+  "\ufeffTitle": "G\u00e9rard de Nerval", 
   "ObjectID": "34548"
 }

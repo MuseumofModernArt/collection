@@ -5,8 +5,7 @@
   "Artist": "John Joseph Weiss", 
   "URL": "http://www.moma.org/collection/works/49101", 
   "CuratorApproved": "Y", 
-  "Title": "Kenny", 
-  "DateAcquired": "1975-05-14", 
+  "CreditLine": "Purchase", 
   "Date": "1972", 
   "ArtistID": 6295, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "225.1975", 
-  "ArtistBio": "American, born 1941", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, born 1941)", 
+  "DateAcquired": "1975-05-14", 
+  "\ufeffTitle": "Kenny", 
   "ObjectID": "49101"
 }

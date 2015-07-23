@@ -5,8 +5,7 @@
   "Artist": "James McNeill Whistler", 
   "URL": "http://www.moma.org/collection/works/61010", 
   "CuratorApproved": "Y", 
-  "Title": "Nocturne: The River at Battersea", 
-  "DateAcquired": "1995-01-24", 
+  "CreditLine": "Gift of Mrs. Melville Wakeman Hall (by exchange) and purchase", 
   "Date": "1878, published 1887", 
   "ArtistID": 6336, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "54.1995", 
-  "ArtistBio": "American, 1834\u20131903", 
-  "CreditLine": "Gift of Mrs. Melville Wakeman Hall (by exchange) and purchase", 
+  "ArtistBio": "(American, 1834\u20131903)", 
+  "DateAcquired": "1995-01-24", 
+  "\ufeffTitle": "Nocturne: The River at Battersea", 
   "ObjectID": "61010"
 }

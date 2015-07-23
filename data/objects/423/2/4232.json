@@ -5,8 +5,7 @@
   "Artist": "Carl Aub\u00f6ck", 
   "URL": "http://www.moma.org/collection/works/4232", 
   "CuratorApproved": "Y", 
-  "Title": "Ashtray", 
-  "DateAcquired": "1959-12-30", 
+  "CreditLine": "Philip Johnson Fund", 
   "Date": "1958", 
   "ArtistID": 238, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "700.1959", 
-  "ArtistBio": "Austrian, 1924\u20131993", 
-  "CreditLine": "Philip Johnson Fund", 
+  "ArtistBio": "(Austrian, 1924\u20131993)", 
+  "DateAcquired": "1959-12-30", 
+  "\ufeffTitle": "Ashtray", 
   "ObjectID": "4232"
 }

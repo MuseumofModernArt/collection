@@ -5,8 +5,7 @@
   "Artist": "Hans Gantert", 
   "URL": "http://www.moma.org/collection/works/6655", 
   "CuratorApproved": "Y", 
-  "Title": "1 May 1980, 1er mai 1980, 1 maggio 1980", 
-  "DateAcquired": "1994-09-21", 
+  "CreditLine": "Gift of Leonard A. Lauder", 
   "Date": "1980", 
   "ArtistID": 7427, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "415.1994", 
-  "ArtistBio": "German, born 1934", 
-  "CreditLine": "Gift of Leonard A. Lauder", 
+  "ArtistBio": "(German, born 1934)", 
+  "DateAcquired": "1994-09-21", 
+  "\ufeffTitle": "1 May 1980, 1er mai 1980, 1 maggio 1980", 
   "ObjectID": "6655"
 }

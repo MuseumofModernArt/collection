@@ -1,12 +1,11 @@
 {
-  "Medium": "Lithograph from a portfolio of twelve prints, six lithographs (including two transferred from woodcuts), four drypoints, and two woodcuts  ", 
+  "Medium": "Lithograph from a portfolio of twelve prints, six lithographs (including two transferred from woodcuts), four drypoints, and two woodcuts\r\n", 
   "Dimensions": "composition (irreg.): 10 x 8 5/16\" (25.4 x 21.1 cm); sheet: 14 1/8 x 11\" (35.8 x 28 cm)", 
   "Classification": "Print", 
   "Artist": "Vasily Kandinsky", 
   "URL": "http://www.moma.org/collection/works/68436", 
   "CuratorApproved": "Y", 
-  "Title": "Small Worlds II from Small Worlds", 
-  "DateAcquired": "1941-03-20", 
+  "CreditLine": "Purchase", 
   "Date": "1922", 
   "ArtistID": 2981, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "399.1941.5", 
-  "ArtistBio": "French, born Russia. 1866\u20131944", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(French, born Russia. 1866\u20131944)", 
+  "DateAcquired": "1941-03-20", 
+  "\ufeffTitle": "Small Worlds II (Kleine Welten II) from Small Worlds (Kleine Welten)", 
   "ObjectID": "68436"
 }

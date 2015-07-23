@@ -5,8 +5,7 @@
   "Artist": "Stephen Shore", 
   "URL": "http://www.moma.org/collection/works/46577", 
   "CuratorApproved": "Y", 
-  "Title": "U.S. 10, Post Falls, Idaho", 
-  "DateAcquired": "1977-03-10", 
+  "CreditLine": "Gift of the photographer", 
   "Date": "1974", 
   "ArtistID": 5409, 
   "Keywords": [
@@ -20,7 +19,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "119.1977", 
-  "ArtistBio": "American, born 1947", 
-  "CreditLine": "Gift of the photographer", 
+  "ArtistBio": "(American, born 1947)", 
+  "DateAcquired": "1977-03-10", 
+  "\ufeffTitle": "U.S. 10, Post Falls, Idaho", 
   "ObjectID": "46577"
 }

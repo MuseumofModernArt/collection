@@ -5,8 +5,7 @@
   "Artist": "Zeke Berman", 
   "URL": "http://www.moma.org/collection/works/55315", 
   "CuratorApproved": "Y", 
-  "Title": "Tapping", 
-  "DateAcquired": "1990-12-30", 
+  "CreditLine": "Gift of the photographer", 
   "Date": "1988", 
   "ArtistID": 506, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "577.1990", 
-  "ArtistBio": "American, born 1951", 
-  "CreditLine": "Gift of the photographer", 
+  "ArtistBio": "(American, born 1951)", 
+  "DateAcquired": "1990-12-30", 
+  "\ufeffTitle": "Tapping", 
   "ObjectID": "55315"
 }

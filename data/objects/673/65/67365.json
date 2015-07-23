@@ -5,8 +5,7 @@
   "Artist": "Luis Camnitzer", 
   "URL": "http://www.moma.org/collection/works/67365", 
   "CuratorApproved": "Y", 
-  "Title": "Accordionist and Harmonica Players", 
-  "DateAcquired": "1962-12-11", 
+  "CreditLine": "Inter-American Fund", 
   "Date": "1958", 
   "ArtistID": 934, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "345.1962", 
-  "ArtistBio": "Uruguayan, born 1937", 
-  "CreditLine": "Inter-American Fund", 
+  "ArtistBio": "(Uruguayan, born 1937)", 
+  "DateAcquired": "1962-12-11", 
+  "\ufeffTitle": "Accordionist and Harmonica Players", 
   "ObjectID": "67365"
 }

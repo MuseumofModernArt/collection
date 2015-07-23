@@ -1,12 +1,11 @@
 {
   "Medium": "Portfolio of 38 screenprints", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "Mateo Manaure", 
   "URL": "http://www.moma.org/collection/works/66485", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1972-10-05", 
+  "CreditLine": "Gift of Alfredo Boulton", 
   "Date": "(1968-69)", 
   "ArtistID": 3717, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "303.1972.1-38", 
-  "ArtistBio": "Venezuelan", 
-  "CreditLine": "Gift of Alfredo Boulton", 
+  "ArtistBio": "(Venezuelan)", 
+  "DateAcquired": "1972-10-05", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "66485"
 }

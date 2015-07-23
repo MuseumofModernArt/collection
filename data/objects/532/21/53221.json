@@ -4,9 +4,8 @@
   "Classification": "Photograph", 
   "Artist": "Dorothea Lange", 
   "URL": "", 
-  "CuratorApproved": "Y", 
-  "Title": "Damaged Child, Shacktown, Elm Grove, Oklahoma", 
-  "DateAcquired": "1995-06-15", 
+  "CuratorApproved": "N", 
+  "CreditLine": "Purchase", 
   "Date": "1936", 
   "ArtistID": 3373, 
   "Keywords": [
@@ -20,7 +19,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "425.1995", 
-  "ArtistBio": "American, 1895\u20131965", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, 1895\u20131965)", 
+  "DateAcquired": "1995-06-15", 
+  "\ufeffTitle": "Damaged Child, Shacktown, Elm Grove, Oklahoma", 
   "ObjectID": "53221"
 }

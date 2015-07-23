@@ -5,8 +5,7 @@
   "Artist": "Isamu Noguchi", 
   "URL": "http://www.moma.org/collection/works/2739", 
   "CuratorApproved": "Y", 
-  "Title": "Akari Floor Lamp (model 33S)", 
-  "DateAcquired": "1978-02-27", 
+  "CreditLine": "Gift of the designer", 
   "Date": "c. 1951", 
   "ArtistID": 4324, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "217.1978", 
-  "ArtistBio": "American, 1904\u20131988", 
-  "CreditLine": "Gift of the designer", 
+  "ArtistBio": "(American, 1904\u20131988)", 
+  "DateAcquired": "1978-02-27", 
+  "\ufeffTitle": "Akari Floor Lamp (model 33S)", 
   "ObjectID": "2739"
 }

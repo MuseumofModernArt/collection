@@ -1,12 +1,11 @@
 {
   "Medium": "Screenprint", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "Yasuo Kuniyoshi", 
   "URL": "http://www.moma.org/collection/works/68874", 
   "CuratorApproved": "Y", 
-  "Title": "The Little Pond", 
-  "DateAcquired": "1990-10-23", 
+  "CreditLine": "Gift of Mrs. Yasuo Kuniyoshi", 
   "Date": "(1942)", 
   "ArtistID": 3296, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "423.1990", 
-  "ArtistBio": "American, 1889\u20131953", 
-  "CreditLine": "Gift of Mrs. Yasuo Kuniyoshi", 
+  "ArtistBio": "(American, 1889\u20131953)", 
+  "DateAcquired": "1990-10-23", 
+  "\ufeffTitle": "The Little Pond", 
   "ObjectID": "68874"
 }

@@ -5,8 +5,7 @@
   "Artist": "William Gedney", 
   "URL": "http://www.moma.org/collection/works/52211", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled, Kentucky", 
-  "DateAcquired": "1969-05-21", 
+  "CreditLine": "Gift of the photographer", 
   "Date": "Summer 1964", 
   "ArtistID": 2105, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "382.1969", 
-  "ArtistBio": "American, 1932\u20131989", 
-  "CreditLine": "Gift of the photographer", 
+  "ArtistBio": "(American, 1932\u20131989)", 
+  "DateAcquired": "1969-05-21", 
+  "\ufeffTitle": "Untitled, Kentucky", 
   "ObjectID": "52211"
 }

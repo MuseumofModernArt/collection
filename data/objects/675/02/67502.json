@@ -5,8 +5,7 @@
   "Artist": "Henri Matisse", 
   "URL": "http://www.moma.org/collection/works/67502", 
   "CuratorApproved": "Y", 
-  "Title": "Self Portrait, Three-Quarter View (Autoportrait de trois-quarts)", 
-  "DateAcquired": "1955-11-23", 
+  "CreditLine": "Curt Valentin Bequest", 
   "Date": "(1948)", 
   "ArtistID": 3832, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "352.1955", 
-  "ArtistBio": "French, 1869\u20131954", 
-  "CreditLine": "Curt Valentin Bequest", 
+  "ArtistBio": "(French, 1869\u20131954)", 
+  "DateAcquired": "1955-11-23", 
+  "\ufeffTitle": "Self Portrait, Three-Quarter View (Autoportrait de trois-quarts)", 
   "ObjectID": "67502"
 }

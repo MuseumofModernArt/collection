@@ -5,8 +5,7 @@
   "Artist": "Alberto Meda", 
   "URL": "http://www.moma.org/collection/works/3007", 
   "CuratorApproved": "Y", 
-  "Title": "Long Frame Chaise Longue", 
-  "DateAcquired": "1998-04-22", 
+  "CreditLine": "Gift of the manufacturer", 
   "Date": "1994", 
   "ArtistID": 7277, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "243.1998", 
-  "ArtistBio": "Italian, born 1945", 
-  "CreditLine": "Gift of the manufacturer", 
+  "ArtistBio": "(Italian, born 1945)", 
+  "DateAcquired": "1998-04-22", 
+  "\ufeffTitle": "Long Frame Chaise Longue", 
   "ObjectID": "3007"
 }

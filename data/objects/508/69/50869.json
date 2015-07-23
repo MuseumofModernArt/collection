@@ -5,8 +5,7 @@
   "Artist": "Sally Mann", 
   "URL": "http://www.moma.org/collection/works/50869", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1987-10-15", 
+  "CreditLine": "Acquired through the generosity of Shirley C. Burden", 
   "Date": "1982", 
   "ArtistID": 3730, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "326.1987", 
-  "ArtistBio": "American, born 1951", 
-  "CreditLine": "Acquired through the generosity of Shirley C. Burden", 
+  "ArtistBio": "(American, born 1951)", 
+  "DateAcquired": "1987-10-15", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "50869"
 }

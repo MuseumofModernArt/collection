@@ -5,8 +5,7 @@
   "Artist": "Max Beckmann", 
   "URL": "http://www.moma.org/collection/works/66663", 
   "CuratorApproved": "Y", 
-  "Title": "Happy New Year 1917", 
-  "DateAcquired": "1948-10-06", 
+  "CreditLine": "Gift of Victor S. Riesenfeld", 
   "Date": "1917 (published 1919)", 
   "ArtistID": 429, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "311.1948", 
-  "ArtistBio": "German, 1884\u20131950", 
-  "CreditLine": "Gift of Victor S. Riesenfeld", 
+  "ArtistBio": "(German, 1884\u20131950)", 
+  "DateAcquired": "1948-10-06", 
+  "\ufeffTitle": "Happy New Year 1917 (Prosit Neujahr 1917) for the portfolio Faces (Gesichter)", 
   "ObjectID": "66663"
 }

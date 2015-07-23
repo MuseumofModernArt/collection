@@ -5,8 +5,7 @@
   "Artist": "Paul Citroen", 
   "URL": "http://www.moma.org/collection/works/51275", 
   "CuratorApproved": "Y", 
-  "Title": "Atelier Roelofsz", 
-  "DateAcquired": "1983-03-24", 
+  "CreditLine": "David H. McAlpin Fund", 
   "Date": "1930-38", 
   "ArtistID": 1129, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "341.1983", 
-  "ArtistBio": "Dutch, born Germany. 1896\u20131983", 
-  "CreditLine": "David H. McAlpin Fund", 
+  "ArtistBio": "(Dutch, born Germany. 1896\u20131983)", 
+  "DateAcquired": "1983-03-24", 
+  "\ufeffTitle": "Atelier Roelofsz", 
   "ObjectID": "51275"
 }

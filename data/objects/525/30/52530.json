@@ -5,8 +5,7 @@
   "Artist": "Robert Doisneau", 
   "URL": "http://www.moma.org/collection/works/52530", 
   "CuratorApproved": "Y", 
-  "Title": "Les H\u00e9licopt\u00e8res", 
-  "DateAcquired": "1992-10-15", 
+  "CreditLine": "Gift of Mr. and Mrs. James Hunter", 
   "Date": "1972", 
   "ArtistID": 1573, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "396.1992.12", 
-  "ArtistBio": "French, 1912\u20131994", 
-  "CreditLine": "Gift of Mr. and Mrs. James Hunter", 
+  "ArtistBio": "(French, 1912\u20131994)", 
+  "DateAcquired": "1992-10-15", 
+  "\ufeffTitle": "Les H\u00e9licopt\u00e8res", 
   "ObjectID": "52530"
 }

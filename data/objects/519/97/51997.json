@@ -1,12 +1,11 @@
 {
   "Medium": "Gelatin silver print", 
-  "Dimensions": "13 1/8 x 10 7/8\" (33.4 x 27.6 cm)  sheet  13 15/16 x 10 7/8\" (35.5 x 27.6 cm)", 
+  "Dimensions": "13 1/8 x 10 7/8\" (33.4 x 27.6 cm)\r\nsheet  13 15/16 x 10 7/8\" (35.5 x 27.6 cm)", 
   "Classification": "Photograph", 
   "Artist": "Hakuyo Fuchigami", 
   "URL": "http://www.moma.org/collection/works/51997", 
   "CuratorApproved": "Y", 
-  "Title": "Crane and Coolie", 
-  "DateAcquired": "1959-04-22", 
+  "CreditLine": "Gift of Nihon Keizai Shimbun", 
   "Date": "1929", 
   "ArtistID": 2020, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "372.1959", 
-  "ArtistBio": "Japanese, 1889\u20131960", 
-  "CreditLine": "Gift of Nihon Keizai Shimbun", 
+  "ArtistBio": "(Japanese, 1889\u20131960)", 
+  "DateAcquired": "1959-04-22", 
+  "\ufeffTitle": "Crane and Coolie", 
   "ObjectID": "51997"
 }

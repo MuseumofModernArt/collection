@@ -5,8 +5,7 @@
   "Artist": "Raoul Hausmann", 
   "URL": "http://www.moma.org/collection/works/62458", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1975-05-09", 
+  "CreditLine": "Transferred from the Museum Library", 
   "Date": "1918", 
   "ArtistID": 2544, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "131.1975", 
-  "ArtistBio": "German, born Austria. 1886\u20131971", 
-  "CreditLine": "Transferred from the Museum Library", 
+  "ArtistBio": "(German, born Austria. 1886\u20131971)", 
+  "DateAcquired": "1975-05-09", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "62458"
 }

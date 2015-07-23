@@ -1,12 +1,11 @@
 {
   "Medium": "Portfolio of three lithographs and six screenprints", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
-  "Artist": "Karen Szekessy", 
+  "Artist": "Karen Szekessy, Paul Wunderlich", 
   "URL": "http://www.moma.org/collection/works/66701", 
   "CuratorApproved": "Y", 
-  "Title": "Modelle", 
-  "DateAcquired": "1969-04-16", 
+  "CreditLine": "Walter Bareiss Fund", 
   "Date": "(1969)", 
   "ArtistID": 5762, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "313.1969.1-9", 
-  "ArtistBio": "German, born 1939", 
-  "CreditLine": "Walter Bareiss Fund", 
+  "ArtistBio": "(German, born 1939) (German, 1927\u20132010)", 
+  "DateAcquired": "1969-04-16", 
+  "\ufeffTitle": "Modelle", 
   "ObjectID": "66701"
 }

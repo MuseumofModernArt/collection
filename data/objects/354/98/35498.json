@@ -5,8 +5,7 @@
   "Artist": "Oskar Kokoschka", 
   "URL": "http://www.moma.org/collection/works/35498", 
   "CuratorApproved": "Y", 
-  "Title": "Two Friends at the Weisser Hirsch", 
-  "DateAcquired": "1954-06-16", 
+  "CreditLine": "Gift of Mrs. W. Murray Crane", 
   "Date": "(1917)", 
   "ArtistID": 3197, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "245.1954", 
-  "ArtistBio": "Austrian, 1886\u20131980", 
-  "CreditLine": "Gift of Mrs. W. Murray Crane", 
+  "ArtistBio": "(Austrian, 1886\u20131980)", 
+  "DateAcquired": "1954-06-16", 
+  "\ufeffTitle": "Two Friends at the Weisser Hirsch (Zwei Freunde auf dem Weissen Hirsch)", 
   "ObjectID": "35498"
 }

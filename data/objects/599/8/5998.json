@@ -5,8 +5,7 @@
   "Artist": "Jules Ch\u00e9ret", 
   "URL": "http://www.moma.org/collection/works/5998", 
   "CuratorApproved": "Y", 
-  "Title": "Exposition des Arts Incoherents", 
-  "DateAcquired": "1965-04-06", 
+  "CreditLine": "Don Page Fund", 
   "Date": "1886", 
   "ArtistID": 1089, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "274.1965", 
-  "ArtistBio": "French, 1836\u20131932", 
-  "CreditLine": "Don Page Fund", 
+  "ArtistBio": "(French, 1836\u20131932)", 
+  "DateAcquired": "1965-04-06", 
+  "\ufeffTitle": "Exposition des Arts Incoherents", 
   "ObjectID": "5998"
 }

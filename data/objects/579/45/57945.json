@@ -5,8 +5,7 @@
   "Artist": "Laura Gilpin", 
   "URL": "http://www.moma.org/collection/works/57945", 
   "CuratorApproved": "Y", 
-  "Title": "Square Tower House", 
-  "DateAcquired": "1969-01-08", 
+  "CreditLine": "Gift of Miss Mina Turner", 
   "Date": "1925", 
   "ArtistID": 2163, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "1226.1969", 
-  "ArtistBio": "American, 1881\u20131979", 
-  "CreditLine": "Gift of Miss Mina Turner", 
+  "ArtistBio": "(American, 1881\u20131979)", 
+  "DateAcquired": "1969-01-08", 
+  "\ufeffTitle": "Square Tower House", 
   "ObjectID": "57945"
 }

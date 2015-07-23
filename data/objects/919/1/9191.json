@@ -5,8 +5,7 @@
   "Artist": "Alberto Giacometti", 
   "URL": "http://www.moma.org/collection/works/9191", 
   "CuratorApproved": "Y", 
-  "Title": "Plate 7 (folio 17) from 23 Gravures", 
-  "DateAcquired": "1945-01-03", 
+  "CreditLine": "Purchase Fund", 
   "Date": "1935", 
   "ArtistID": 2141, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "14.1945.7", 
-  "ArtistBio": "Swiss, 1901\u20131966", 
-  "CreditLine": "Purchase Fund", 
+  "ArtistBio": "(Swiss, 1901\u20131966)", 
+  "DateAcquired": "1945-01-03", 
+  "\ufeffTitle": "Plate 7 from 23 Gravures", 
   "ObjectID": "9191"
 }

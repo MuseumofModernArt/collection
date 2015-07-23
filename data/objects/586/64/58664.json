@@ -5,8 +5,7 @@
   "Artist": "Keith Pannel/Mail on Sunday", 
   "URL": "http://www.moma.org/collection/works/58664", 
   "CuratorApproved": "Y", 
-  "Title": "For All, East and West, a Day Like No Other", 
-  "DateAcquired": "2001-06-14", 
+  "CreditLine": "The New York Times Collection", 
   "Date": "November 11, 1989", 
   "ArtistID": 8594, 
   "Keywords": [
@@ -20,7 +19,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "2071.2001", 
-  "ArtistBio": "British, born 1956", 
-  "CreditLine": "The New York Times Collection", 
+  "ArtistBio": "(British, born 1956)", 
+  "DateAcquired": "2001-06-14", 
+  "\ufeffTitle": "\"For All, East and West, a Day Like No Other\"", 
   "ObjectID": "58664"
 }

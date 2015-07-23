@@ -1,12 +1,11 @@
 {
   "Medium": "Cut-and-pasted printed paper in wood frame with glass", 
-  "Dimensions": "14 5/8 x 17 1/2 x 2\" (37.1 x 44.5 x 5.1 cm)    ", 
+  "Dimensions": "14 5/8 x 17 1/2 x 2\" (37.1 x 44.5 x 5.1 cm)\r\n\r\n", 
   "Classification": "Drawing", 
   "Artist": "Joseph Cornell", 
   "URL": "http://www.moma.org/collection/works/36553", 
   "CuratorApproved": "Y", 
-  "Title": "Portrait of the Artist's Daughter by Vig\u00e9e-Lebrun", 
-  "DateAcquired": "1984-11-29", 
+  "CreditLine": "Gift of Mr. and Mrs. Donald B. Straus", 
   "Date": "(c. 1960)", 
   "ArtistID": 1247, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "373.1984", 
-  "ArtistBio": "American, 1903\u20131972", 
-  "CreditLine": "Gift of Mr. and Mrs. Donald B. Straus", 
+  "ArtistBio": "(American, 1903\u20131972)", 
+  "DateAcquired": "1984-11-29", 
+  "\ufeffTitle": "Portrait of the Artist's Daughter by Vig\u00e9e-Lebrun", 
   "ObjectID": "36553"
 }

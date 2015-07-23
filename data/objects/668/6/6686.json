@@ -5,8 +5,7 @@
   "Artist": "Pierre Mendell", 
   "URL": "http://www.moma.org/collection/works/6686", 
   "CuratorApproved": "Y", 
-  "Title": "Die Neue Sammlung", 
-  "DateAcquired": "1994-09-21", 
+  "CreditLine": "Gift of Leonard A. Lauder", 
   "Date": "1981", 
   "ArtistID": 3922, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "420.1994", 
-  "ArtistBio": "German, born 1929", 
-  "CreditLine": "Gift of Leonard A. Lauder", 
+  "ArtistBio": "(German, born 1929)", 
+  "DateAcquired": "1994-09-21", 
+  "\ufeffTitle": "Die Neue Sammlung", 
   "ObjectID": "6686"
 }

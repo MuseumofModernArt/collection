@@ -5,8 +5,7 @@
   "Artist": "Unknown Artist", 
   "URL": "http://www.moma.org/collection/works/6245", 
   "CuratorApproved": "Y", 
-  "Title": "Ausstellung - Max Ernst, 5.-30. Juni, Amerika-Haus Bremen", 
-  "DateAcquired": "1957-12-04", 
+  "CreditLine": "Gift of Max Ernst", 
   "Date": "1951", 
   "ArtistID": 6026, 
   "Keywords": [
@@ -20,7 +19,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "322.1957", 
-  "ArtistBio": "Nationality Unknown", 
-  "CreditLine": "Gift of Max Ernst", 
+  "ArtistBio": "(Nationality Unknown)", 
+  "DateAcquired": "1957-12-04", 
+  "\ufeffTitle": "Ausstellung - Max Ernst, 5.-30. Juni, Amerika-Haus Bremen", 
   "ObjectID": "6245"
 }

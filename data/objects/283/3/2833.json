@@ -5,8 +5,7 @@
   "Artist": "Bruno Mathsson", 
   "URL": "http://www.moma.org/collection/works/2833", 
   "CuratorApproved": "Y", 
-  "Title": "Eva Chair (T101 model 41)", 
-  "DateAcquired": "1944-11-08", 
+  "CreditLine": "Gift of Artek-Pascoe, Inc.", 
   "Date": "1934", 
   "ArtistID": 3830, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "227.1944", 
-  "ArtistBio": "Swedish, 1907\u20131988", 
-  "CreditLine": "Gift of Artek-Pascoe, Inc.", 
+  "ArtistBio": "(Swedish, 1907\u20131988)", 
+  "DateAcquired": "1944-11-08", 
+  "\ufeffTitle": "Eva Chair (T101 model 41)", 
   "ObjectID": "2833"
 }

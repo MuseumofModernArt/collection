@@ -1,12 +1,11 @@
 {
   "Medium": "Photogravure", 
-  "Dimensions": "irreg composition  40 3/8 x 27 9/16\" (102.5 x 70 cm)  sheet  41 7/16 x 27 9/16\" (105 x 70 cm)", 
+  "Dimensions": "irreg composition  40 3/8 x 27 9/16\" (102.5 x 70 cm)\r\nsheet  41 7/16 x 27 9/16\" (105 x 70 cm)", 
   "Classification": "Print", 
   "Artist": "Robert Rauschenberg", 
   "URL": "http://www.moma.org/collection/works/62506", 
   "CuratorApproved": "Y", 
-  "Title": "Banco from the series Ground Rules", 
-  "DateAcquired": "1997-03-06", 
+  "CreditLine": "Gift of Emily Fisher Landau", 
   "Date": "1996", 
   "ArtistID": 4823, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "133.1997", 
-  "ArtistBio": "American, 1925\u20132008", 
-  "CreditLine": "Gift of Emily Fisher Landau", 
+  "ArtistBio": "(American, 1925\u20132008)", 
+  "DateAcquired": "1997-03-06", 
+  "\ufeffTitle": "Banco from the series Ground Rules", 
   "ObjectID": "62506"
 }

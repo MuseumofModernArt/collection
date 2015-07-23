@@ -5,8 +5,7 @@
   "Artist": "Howard Hodgkin", 
   "URL": "http://www.moma.org/collection/works/69135", 
   "CuratorApproved": "Y", 
-  "Title": "Julian and Alexis", 
-  "DateAcquired": "1977-11-10", 
+  "CreditLine": "Lydia K. and Harry L. Winston Fund", 
   "Date": "1977", 
   "ArtistID": 2679, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "438.1977", 
-  "ArtistBio": "British, born 1932", 
-  "CreditLine": "Lydia K. and Harry L. Winston Fund", 
+  "ArtistBio": "(British, born 1932)", 
+  "DateAcquired": "1977-11-10", 
+  "\ufeffTitle": "Julian and Alexis", 
   "ObjectID": "69135"
 }

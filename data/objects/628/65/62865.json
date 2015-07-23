@@ -1,12 +1,11 @@
 {
   "Medium": "Screenprint on glass", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "Judy Pfaff", 
   "URL": "http://www.moma.org/collection/works/62865", 
   "CuratorApproved": "Y", 
-  "Title": "Cat's Cradle", 
-  "DateAcquired": "1992-01-22", 
+  "CreditLine": "Gift of Business Committee for the Arts", 
   "Date": "(1991)", 
   "ArtistID": 4594, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "141.1992", 
-  "ArtistBio": "American, born 1946", 
-  "CreditLine": "Gift of Business Committee for the Arts", 
+  "ArtistBio": "(American, born 1946)", 
+  "DateAcquired": "1992-01-22", 
+  "\ufeffTitle": "Cat's Cradle", 
   "ObjectID": "62865"
 }

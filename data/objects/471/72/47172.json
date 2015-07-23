@@ -5,8 +5,7 @@
   "Artist": "Imogen Cunningham", 
   "URL": "http://www.moma.org/collection/works/47172", 
   "CuratorApproved": "Y", 
-  "Title": "Alfred Stieglitz", 
-  "DateAcquired": "1969-03-05", 
+  "CreditLine": "Gift of Robert M. Doty", 
   "Date": "1934", 
   "ArtistID": 1332, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "167.1969", 
-  "ArtistBio": "American, 1883\u20131976", 
-  "CreditLine": "Gift of Robert M. Doty", 
+  "ArtistBio": "(American, 1883\u20131976)", 
+  "DateAcquired": "1969-03-05", 
+  "\ufeffTitle": "Alfred Stieglitz", 
   "ObjectID": "47172"
 }

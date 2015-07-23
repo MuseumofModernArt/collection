@@ -5,8 +5,7 @@
   "Artist": "Carlo Carr\u00e0", 
   "URL": "http://www.moma.org/collection/works/64680", 
   "CuratorApproved": "Y", 
-  "Title": "Still Life", 
-  "DateAcquired": "1952-11-07", 
+  "CreditLine": "Purchase", 
   "Date": "(1944)", 
   "ArtistID": 987, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "223.1952", 
-  "ArtistBio": "Italian, 1881\u20131966", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(Italian, 1881\u20131966)", 
+  "DateAcquired": "1952-11-07", 
+  "\ufeffTitle": "Still Life", 
   "ObjectID": "64680"
 }

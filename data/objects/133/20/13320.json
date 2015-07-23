@@ -1,12 +1,11 @@
 {
   "Medium": "Illustrated book with nine etchings and one lithograph", 
-  "Dimensions": "irreg. page  8 7/16 x 7 1/16\" (21 x 18 cm)  Prints:  various dimensions.", 
+  "Dimensions": "irreg. page  8 7/16 x 7 1/16\" (21 x 18 cm)\r\nPrints:  various dimensions.", 
   "Classification": "Illustrated Book", 
   "Artist": "Masuo Ikeda", 
   "URL": "http://www.moma.org/collection/works/13320", 
   "CuratorApproved": "Y", 
-  "Title": "Gli angeli mi disturbano", 
-  "DateAcquired": "1970-05-12", 
+  "CreditLine": "Monroe Wheeler Fund", 
   "Date": "(1969)", 
   "ArtistID": 2801, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "200.1970.1-10", 
-  "ArtistBio": "Japanese, 1934\u20131997", 
-  "CreditLine": "Monroe Wheeler Fund", 
+  "ArtistBio": "(Japanese, 1934\u20131997)", 
+  "DateAcquired": "1970-05-12", 
+  "\ufeffTitle": "Gli angeli mi disturbano", 
   "ObjectID": "13320"
 }

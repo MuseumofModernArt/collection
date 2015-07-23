@@ -5,8 +5,7 @@
   "Artist": "Arnulf Rainer", 
   "URL": "http://www.moma.org/collection/works/64163", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1977-05-03", 
+  "CreditLine": "Larry Aldrich Fund", 
   "Date": "(1974)", 
   "ArtistID": 4792, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "194.1977", 
-  "ArtistBio": "Austrian, born 1929", 
-  "CreditLine": "Larry Aldrich Fund", 
+  "ArtistBio": "(Austrian, born 1929)", 
+  "DateAcquired": "1977-05-03", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "64163"
 }

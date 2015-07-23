@@ -1,12 +1,11 @@
 {
   "Medium": "Illustrated book with 7 lithographs", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Illustrated Book", 
   "Artist": "Andr\u00e9 Beaudin", 
   "URL": "http://www.moma.org/collection/works/10133", 
   "CuratorApproved": "Y", 
-  "Title": "Le Calligraphe", 
-  "DateAcquired": "1998-03-05", 
+  "CreditLine": "Gift of Robert T. Buck", 
   "Date": "1959", 
   "ArtistID": 420, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "29.1998", 
-  "ArtistBio": "French, 1895\u20131975", 
-  "CreditLine": "Gift of Robert T. Buck", 
+  "ArtistBio": "(French, 1895\u20131975)", 
+  "DateAcquired": "1998-03-05", 
+  "\ufeffTitle": "Le Calligraphe", 
   "ObjectID": "10133"
 }

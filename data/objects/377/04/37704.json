@@ -5,8 +5,7 @@
   "Artist": "Kurt Schwitters", 
   "URL": "http://www.moma.org/collection/works/37704", 
   "CuratorApproved": "Y", 
-  "Title": "Mz. 252. Colored Squares", 
-  "DateAcquired": "1967-10-18", 
+  "CreditLine": "The Sidney and Harriet Janis Collection", 
   "Date": "1921", 
   "ArtistID": 5293, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "649.1967", 
-  "ArtistBio": "German, 1887\u20131948", 
-  "CreditLine": "The Sidney and Harriet Janis Collection", 
+  "ArtistBio": "(German, 1887\u20131948)", 
+  "DateAcquired": "1967-10-18", 
+  "\ufeffTitle": "Mz. 252. Colored Squares", 
   "ObjectID": "37704"
 }

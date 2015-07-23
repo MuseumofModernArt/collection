@@ -5,8 +5,7 @@
   "Artist": "Thomas Struth", 
   "URL": "http://www.moma.org/collection/works/49636", 
   "CuratorApproved": "Y", 
-  "Title": "Wabash Avenue, Madison Street, Chicago", 
-  "DateAcquired": "1999-06-10", 
+  "CreditLine": "The Family of Man Fund", 
   "Date": "1990", 
   "ArtistID": 7825, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "255.1999", 
-  "ArtistBio": "German, born 1954", 
-  "CreditLine": "The Family of Man Fund", 
+  "ArtistBio": "(German, born 1954)", 
+  "DateAcquired": "1999-06-10", 
+  "\ufeffTitle": "Wabash Avenue, Madison Street, Chicago", 
   "ObjectID": "49636"
 }

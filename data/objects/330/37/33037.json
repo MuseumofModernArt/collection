@@ -5,8 +5,7 @@
   "Artist": "Salvador Dal\u00ed", 
   "URL": "http://www.moma.org/collection/works/33037", 
   "CuratorApproved": "Y", 
-  "Title": "Cavalier of Death", 
-  "DateAcquired": "1955-04-06", 
+  "CreditLine": "Gift of Miss Ann C. Resor", 
   "Date": "1934", 
   "ArtistID": 1364, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "6.1955", 
-  "ArtistBio": "Spanish, 1904\u20131989", 
-  "CreditLine": "Gift of Miss Ann C. Resor", 
+  "ArtistBio": "(Spanish, 1904\u20131989)", 
+  "DateAcquired": "1955-04-06", 
+  "\ufeffTitle": "Cavalier of Death", 
   "ObjectID": "33037"
 }

@@ -5,8 +5,7 @@
   "Artist": "Steven T. Kaneko", 
   "URL": "http://www.moma.org/collection/works/3436", 
   "CuratorApproved": "Y", 
-  "Title": "Mouse Computer Pointing Device", 
-  "DateAcquired": "1993-11-04", 
+  "CreditLine": "Gift of the manufacturer", 
   "Date": "1992", 
   "ArtistID": 7239, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "362.1993", 
-  "ArtistBio": "American, born 1962", 
-  "CreditLine": "Gift of the manufacturer", 
+  "ArtistBio": "(American, born 1962)", 
+  "DateAcquired": "1993-11-04", 
+  "\ufeffTitle": "Mouse Computer Pointing Device", 
   "ObjectID": "3436"
 }

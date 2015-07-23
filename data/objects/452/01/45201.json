@@ -1,12 +1,11 @@
 {
   "Medium": "Palladium print", 
-  "Dimensions": "7 5/8 x 9 9/16\" (19.3 x 24.3 cm)  ", 
+  "Dimensions": "7 5/8 x 9 9/16\" (19.3 x 24.3 cm)\r\n", 
   "Classification": "Photograph", 
   "Artist": "Alfred Stieglitz", 
   "URL": "http://www.moma.org/collection/works/45201", 
   "CuratorApproved": "Y", 
-  "Title": "Dorothy True", 
-  "DateAcquired": "1950-01-06", 
+  "CreditLine": "Alfred Stieglitz Collection. Gift of Georgia O'Keeffe", 
   "Date": "1919", 
   "ArtistID": 5664, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "59.1950", 
-  "ArtistBio": "American, 1864\u20131946", 
-  "CreditLine": "Alfred Stieglitz Collection. Gift of Georgia O'Keeffe", 
+  "ArtistBio": "(American, 1864\u20131946)", 
+  "DateAcquired": "1950-01-06", 
+  "\ufeffTitle": "Dorothy True", 
   "ObjectID": "45201"
 }

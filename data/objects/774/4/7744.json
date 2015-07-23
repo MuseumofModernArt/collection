@@ -5,8 +5,7 @@
   "Artist": "Leo Lionni", 
   "URL": "http://www.moma.org/collection/works/7744", 
   "CuratorApproved": "Y", 
-  "Title": "8 Automobiles", 
-  "DateAcquired": "1951-11-21", 
+  "CreditLine": "Commissioned by the Museum of Modern Art", 
   "Date": "1951", 
   "ArtistID": 3562, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "613.1951", 
-  "ArtistBio": "American, born Amsterdam. 1910\u20131999", 
-  "CreditLine": "Commissioned by the Museum of Modern Art", 
+  "ArtistBio": "(American, born Amsterdam. 1910\u20131999)", 
+  "DateAcquired": "1951-11-21", 
+  "\ufeffTitle": "8 Automobiles", 
   "ObjectID": "7744"
 }

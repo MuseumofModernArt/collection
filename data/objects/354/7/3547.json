@@ -5,8 +5,7 @@
   "Artist": "Marianne Brandt", 
   "URL": "http://www.moma.org/collection/works/3547", 
   "CuratorApproved": "Y", 
-  "Title": "Ashtray", 
-  "DateAcquired": "1938-06-01", 
+  "CreditLine": "Gift of John McAndrew", 
   "Date": "1924", 
   "ArtistID": 741, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "424.1938", 
-  "ArtistBio": "German, 1893\u20131983", 
-  "CreditLine": "Gift of John McAndrew", 
+  "ArtistBio": "(German, 1893\u20131983)", 
+  "DateAcquired": "1938-06-01", 
+  "\ufeffTitle": "Ashtray", 
   "ObjectID": "3547"
 }

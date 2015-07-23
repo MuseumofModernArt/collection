@@ -5,8 +5,7 @@
   "Artist": "John Levee", 
   "URL": "http://www.moma.org/collection/works/35792", 
   "CuratorApproved": "Y", 
-  "Title": "Drawing", 
-  "DateAcquired": "1956-10-09", 
+  "CreditLine": "Purchase", 
   "Date": "1955", 
   "ArtistID": 3505, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "268.1956", 
-  "ArtistBio": "American, born 1924", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, born 1924)", 
+  "DateAcquired": "1956-10-09", 
+  "\ufeffTitle": "Drawing", 
   "ObjectID": "35792"
 }

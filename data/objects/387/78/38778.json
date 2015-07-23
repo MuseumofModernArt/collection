@@ -5,8 +5,7 @@
   "Artist": "Alfred Kubin", 
   "URL": "http://www.moma.org/collection/works/38778", 
   "CuratorApproved": "Y", 
-  "Title": "Polar Bear", 
-  "DateAcquired": "1967-12-13", 
+  "CreditLine": "John S. Newberry Fund", 
   "Date": "(1901-02)", 
   "ArtistID": 3276, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "2373.1967", 
-  "ArtistBio": "Austrian, 1877\u20131959", 
-  "CreditLine": "John S. Newberry Fund", 
+  "ArtistBio": "(Austrian, 1877\u20131959)", 
+  "DateAcquired": "1967-12-13", 
+  "\ufeffTitle": "Polar Bear (Eisb\u00e4r)", 
   "ObjectID": "38778"
 }

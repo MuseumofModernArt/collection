@@ -5,8 +5,7 @@
   "Artist": "Russell Lee", 
   "URL": "http://www.moma.org/collection/works/44842", 
   "CuratorApproved": "Y", 
-  "Title": "Farmer, North Dakota", 
-  "DateAcquired": "1941-01-16", 
+  "CreditLine": "Gift of the Farm Security Administration", 
   "Date": "1937", 
   "ArtistID": 3455, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "50.1941", 
-  "ArtistBio": "American, 1903\u20131986", 
-  "CreditLine": "Gift of the Farm Security Administration", 
+  "ArtistBio": "(American, 1903\u20131986)", 
+  "DateAcquired": "1941-01-16", 
+  "\ufeffTitle": "Farmer, North Dakota", 
   "ObjectID": "44842"
 }

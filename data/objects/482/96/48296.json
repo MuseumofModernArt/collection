@@ -5,8 +5,7 @@
   "Artist": "Thomas Florschuetz", 
   "URL": "http://www.moma.org/collection/works/48296", 
   "CuratorApproved": "Y", 
-  "Title": "Suburbia", 
-  "DateAcquired": "2000-03-23", 
+  "CreditLine": "E.T. Harmax Foundation Fund", 
   "Date": "1996-99", 
   "ArtistID": 1920, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "199.2000.a-d", 
-  "ArtistBio": "German, born 1957", 
-  "CreditLine": "E.T. Harmax Foundation Fund", 
+  "ArtistBio": "(German, born 1957)", 
+  "DateAcquired": "2000-03-23", 
+  "\ufeffTitle": "Suburbia", 
   "ObjectID": "48296"
 }

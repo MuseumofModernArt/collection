@@ -5,8 +5,7 @@
   "Artist": "Gunta St\u00f6lzl", 
   "URL": "http://www.moma.org/collection/works/3873", 
   "CuratorApproved": "Y", 
-  "Title": "Design for Double-Woven Cloth", 
-  "DateAcquired": "1987-11-18", 
+  "CreditLine": "Purchase", 
   "Date": "c. 1925", 
   "ArtistID": 5675, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "459.1987", 
-  "ArtistBio": "Swiss, born Germany. 1897\u20131983", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(Swiss, born Germany. 1897\u20131983)", 
+  "DateAcquired": "1987-11-18", 
+  "\ufeffTitle": "Design for Double-Woven Cloth", 
   "ObjectID": "3873"
 }

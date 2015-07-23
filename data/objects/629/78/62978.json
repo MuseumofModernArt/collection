@@ -5,8 +5,7 @@
   "Artist": "Lyonel Feininger", 
   "URL": "http://www.moma.org/collection/works/62978", 
   "CuratorApproved": "Y", 
-  "Title": "Railroad Viaduct", 
-  "DateAcquired": "1945-09-13", 
+  "CreditLine": "Purchase", 
   "Date": "1919", 
   "ArtistID": 1832, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "151.1945", 
-  "ArtistBio": "American, 1871\u20131956", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, 1871\u20131956)", 
+  "DateAcquired": "1945-09-13", 
+  "\ufeffTitle": "Railroad Viaduct (Die Eisenbahnbr\u00fccke)", 
   "ObjectID": "62978"
 }

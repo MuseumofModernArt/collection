@@ -5,8 +5,7 @@
   "Artist": "Antoni T\u00e0pies", 
   "URL": "http://www.moma.org/collection/works/69645", 
   "CuratorApproved": "Y", 
-  "Title": "Chaises (Chairs)", 
-  "DateAcquired": "1990-10-23", 
+  "CreditLine": "Anonymous gift", 
   "Date": "1981", 
   "ArtistID": 5809, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "467.1990", 
-  "ArtistBio": "Spanish, 1923\u20132012", 
-  "CreditLine": "Anonymous gift", 
+  "ArtistBio": "(Spanish, 1923\u20132012)", 
+  "DateAcquired": "1990-10-23", 
+  "\ufeffTitle": "Chaises (Chairs)", 
   "ObjectID": "69645"
 }

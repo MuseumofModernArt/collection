@@ -5,8 +5,7 @@
   "Artist": "Ludwig Hohlwein", 
   "URL": "http://www.moma.org/collection/works/5217", 
   "CuratorApproved": "Y", 
-  "Title": "Carl Stiller Jr. Schuhe", 
-  "DateAcquired": "1968-03-07", 
+  "CreditLine": "Gift of Peter M\u00fcller-Munk", 
   "Date": "c. 1909", 
   "ArtistID": 2700, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "142.1968", 
-  "ArtistBio": "German, 1874\u20131949", 
-  "CreditLine": "Gift of Peter M\u00fcller-Munk", 
+  "ArtistBio": "(German, 1874\u20131949)", 
+  "DateAcquired": "1968-03-07", 
+  "\ufeffTitle": "Carl Stiller Jr. Schuhe", 
   "ObjectID": "5217"
 }

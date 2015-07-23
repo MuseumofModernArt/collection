@@ -5,8 +5,7 @@
   "Artist": "International Newsreel", 
   "URL": "http://www.moma.org/collection/works/58620", 
   "CuratorApproved": "Y", 
-  "Title": "A Part of a Day's Work for an Endurance Flyer", 
-  "DateAcquired": "2001-06-14", 
+  "CreditLine": "The New York Times Collection", 
   "Date": "1930", 
   "ArtistID": 8562, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "2027.2001", 
-  "ArtistBio": "NULL", 
-  "CreditLine": "The New York Times Collection", 
+  "ArtistBio": "", 
+  "DateAcquired": "2001-06-14", 
+  "\ufeffTitle": "\"A Part of a Day's Work for an Endurance Flyer\"", 
   "ObjectID": "58620"
 }

@@ -5,8 +5,7 @@
   "Artist": "Jackson Pollock", 
   "URL": "http://www.moma.org/collection/works/59843", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1982-01-21", 
+  "CreditLine": "Purchase", 
   "Date": "c. 1938-41", 
   "ArtistID": 4675, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "11.1982", 
-  "ArtistBio": "American, 1912\u20131956", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, 1912\u20131956)", 
+  "DateAcquired": "1982-01-21", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "59843"
 }

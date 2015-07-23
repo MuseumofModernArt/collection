@@ -5,8 +5,7 @@
   "Artist": "Aaron Siskind", 
   "URL": "http://www.moma.org/collection/works/46963", 
   "CuratorApproved": "Y", 
-  "Title": "Rome 45", 
-  "DateAcquired": "1972-03-07", 
+  "CreditLine": "John Parkinson III Fund", 
   "Date": "1967", 
   "ArtistID": 5456, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "154.1972", 
-  "ArtistBio": "American, 1903\u20131991", 
-  "CreditLine": "John Parkinson III Fund", 
+  "ArtistBio": "(American, 1903\u20131991)", 
+  "DateAcquired": "1972-03-07", 
+  "\ufeffTitle": "Rome 45", 
   "ObjectID": "46963"
 }

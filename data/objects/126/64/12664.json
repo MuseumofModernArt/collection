@@ -5,8 +5,7 @@
   "Artist": "Wayne Thiebaud", 
   "URL": "http://www.moma.org/collection/works/12664", 
   "CuratorApproved": "Y", 
-  "Title": "Invisible Cities", 
-  "DateAcquired": "2000-03-02", 
+  "CreditLine": "Monroe Wheeler Fund", 
   "Date": "1999", 
   "ArtistID": 5849, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "176.2000", 
-  "ArtistBio": "American, born 1920", 
-  "CreditLine": "Monroe Wheeler Fund", 
+  "ArtistBio": "(American, born 1920)", 
+  "DateAcquired": "2000-03-02", 
+  "\ufeffTitle": "Invisible Cities", 
   "ObjectID": "12664"
 }

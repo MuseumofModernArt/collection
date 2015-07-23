@@ -5,8 +5,7 @@
   "Artist": "Niklaus Stoecklin", 
   "URL": "http://www.moma.org/collection/works/6202", 
   "CuratorApproved": "Y", 
-  "Title": "Binaca", 
-  "DateAcquired": "1999-06-30", 
+  "CreditLine": "Richard S. Zeisler Purchase Fund", 
   "Date": "1941", 
   "ArtistID": 5671, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "313.1999", 
-  "ArtistBio": "Swiss, 1896\u20131982", 
-  "CreditLine": "Richard S. Zeisler Purchase Fund", 
+  "ArtistBio": "(Swiss, 1896\u20131982)", 
+  "DateAcquired": "1999-06-30", 
+  "\ufeffTitle": "Binaca", 
   "ObjectID": "6202"
 }

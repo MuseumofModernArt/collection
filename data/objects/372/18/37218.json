@@ -5,8 +5,7 @@
   "Artist": "Yves Tanguy", 
   "URL": "http://www.moma.org/collection/works/37218", 
   "CuratorApproved": "Y", 
-  "Title": "Letter to Paul Eluard", 
-  "DateAcquired": "1966-11-03", 
+  "CreditLine": "Transferred from the Eluard and Dausse Collection, The Museum of Modern Art Library", 
   "Date": "1933", 
   "ArtistID": 5804, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "503.1966", 
-  "ArtistBio": "American, born France. 1900\u20131955", 
-  "CreditLine": "Transferred from the Eluard and Dausse Collection, The Museum of Modern Art Library", 
+  "ArtistBio": "(American, born France. 1900\u20131955)", 
+  "DateAcquired": "1966-11-03", 
+  "\ufeffTitle": "Letter to Paul Eluard", 
   "ObjectID": "37218"
 }

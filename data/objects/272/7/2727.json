@@ -5,8 +5,7 @@
   "Artist": "Unknown Designer", 
   "URL": "http://www.moma.org/collection/works/2727", 
   "CuratorApproved": "Y", 
-  "Title": "Caf\u00e9 Sign", 
-  "DateAcquired": "1968-03-07", 
+  "CreditLine": "Gift of Joseph H. Heil", 
   "Date": "c. 1900", 
   "ArtistID": 6011, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "216.1968", 
-  "ArtistBio": "Nationality unknown", 
-  "CreditLine": "Gift of Joseph H. Heil", 
+  "ArtistBio": "(Nationality unknown)", 
+  "DateAcquired": "1968-03-07", 
+  "\ufeffTitle": "Caf\u00e9 Sign", 
   "ObjectID": "2727"
 }

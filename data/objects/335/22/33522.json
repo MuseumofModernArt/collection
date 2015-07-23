@@ -5,8 +5,7 @@
   "Artist": "William Brice", 
   "URL": "http://www.moma.org/collection/works/33522", 
   "CuratorApproved": "Y", 
-  "Title": "Palm Sheath", 
-  "DateAcquired": "1949-03-24", 
+  "CreditLine": "Abby Aldrich Rockefeller Fund", 
   "Date": "1947", 
   "ArtistID": 771, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "50.1949", 
-  "ArtistBio": "American, 1921\u20132008", 
-  "CreditLine": "Abby Aldrich Rockefeller Fund", 
+  "ArtistBio": "(American, 1921\u20132008)", 
+  "DateAcquired": "1949-03-24", 
+  "\ufeffTitle": "Palm Sheath", 
   "ObjectID": "33522"
 }

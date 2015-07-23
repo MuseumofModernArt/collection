@@ -5,8 +5,7 @@
   "Artist": "British Official Radiophoto/The New York Times", 
   "URL": "http://www.moma.org/collection/works/58556", 
   "CuratorApproved": "Y", 
-  "Title": "The Big Three Meeting Again to Make Plans for the World", 
-  "DateAcquired": "2001-06-14", 
+  "CreditLine": "The New York Times Collection", 
   "Date": "February 1945", 
   "ArtistID": 8515, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "1963.2001", 
-  "ArtistBio": "NULL", 
-  "CreditLine": "The New York Times Collection", 
+  "ArtistBio": "", 
+  "DateAcquired": "2001-06-14", 
+  "\ufeffTitle": "The Big Three Meeting Again to Make Plans for the World", 
   "ObjectID": "58556"
 }

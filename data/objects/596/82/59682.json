@@ -1,12 +1,11 @@
 {
   "Medium": "Photolithograph, offset printed", 
-  "Dimensions": "irreg composition  23 1/8 x 17 3/16\" (58.7 x 43.7 cm)  sheet  23 13/16 x 17 3/4\" (60.5 x 45.1 cm)", 
+  "Dimensions": "irreg composition  23 1/8 x 17 3/16\" (58.7 x 43.7 cm)\r\nsheet  23 13/16 x 17 3/4\" (60.5 x 45.1 cm)", 
   "Classification": "Print", 
   "Artist": "Roy Lichtenstein", 
   "URL": "http://www.moma.org/collection/works/59682", 
   "CuratorApproved": "Y", 
-  "Title": "Temple", 
-  "DateAcquired": "1976-01-08", 
+  "CreditLine": "Gift of Carol O. Selle", 
   "Date": "1964", 
   "ArtistID": 3542, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "6.1976", 
-  "ArtistBio": "American, 1923\u20131997", 
-  "CreditLine": "Gift of Carol O. Selle", 
+  "ArtistBio": "(American, 1923\u20131997)", 
+  "DateAcquired": "1976-01-08", 
+  "\ufeffTitle": "Temple", 
   "ObjectID": "59682"
 }

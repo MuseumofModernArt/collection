@@ -5,8 +5,7 @@
   "Artist": "Peter Birkhauser", 
   "URL": "http://www.moma.org/collection/works/6613", 
   "CuratorApproved": "Y", 
-  "Title": "Feba Tinte", 
-  "DateAcquired": "1994-09-21", 
+  "CreditLine": "Gift of Leonard A. Lauder", 
   "Date": "1941", 
   "ArtistID": 564, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "409.1994", 
-  "ArtistBio": "Swiss, 1911\u20131976", 
-  "CreditLine": "Gift of Leonard A. Lauder", 
+  "ArtistBio": "(Swiss, 1911\u20131976)", 
+  "DateAcquired": "1994-09-21", 
+  "\ufeffTitle": "Feba Tinte", 
   "ObjectID": "6613"
 }

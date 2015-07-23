@@ -1,12 +1,11 @@
 {
   "Medium": "Lithograph", 
-  "Dimensions": "Composition (irreg.): 25 x 27 11/16\" (63.5 x 70.3 cm)  Sheet (slightly irreg.): 31 1/8 x 36 1/4\" (79.1 x 92 cm)", 
+  "Dimensions": "Composition (irreg.): 25 x 27 11/16\" (63.5 x 70.3 cm)\r\nSheet (slightly irreg.): 31 1/8 x 36 1/4\" (79.1 x 92 cm)", 
   "Classification": "Print", 
   "Artist": "Larry Rivers", 
   "URL": "http://www.moma.org/collection/works/61102", 
   "CuratorApproved": "Y", 
-  "Title": "Garbo Grosman", 
-  "DateAcquired": "1984-02-01", 
+  "CreditLine": "Gift of Celeste Bartos", 
   "Date": "1983", 
   "ArtistID": 4945, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "59.1984", 
-  "ArtistBio": "American, 1923\u20132002", 
-  "CreditLine": "Gift of Celeste Bartos", 
+  "ArtistBio": "(American, 1923\u20132002)", 
+  "DateAcquired": "1984-02-01", 
+  "\ufeffTitle": "Garbo Grosman", 
   "ObjectID": "61102"
 }

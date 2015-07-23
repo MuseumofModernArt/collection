@@ -5,8 +5,7 @@
   "Artist": "Paul McCarthy", 
   "URL": "http://www.moma.org/collection/works/10827", 
   "CuratorApproved": "Y", 
-  "Title": "SKETCHBOOK \"HEIDI.\"", 
-  "DateAcquired": "1999-03-04", 
+  "CreditLine": "John B. Turner Fund", 
   "Date": "(1992)", 
   "ArtistID": 7637, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "54.1999.1-9", 
-  "ArtistBio": "American, born 1945", 
-  "CreditLine": "John B. Turner Fund", 
+  "ArtistBio": "(American, born 1945)", 
+  "DateAcquired": "1999-03-04", 
+  "\ufeffTitle": "Sketchbook \"Heidi\"", 
   "ObjectID": "10827"
 }

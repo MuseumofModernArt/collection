@@ -5,8 +5,7 @@
   "Artist": "Lisette Model", 
   "URL": "http://www.moma.org/collection/works/44311", 
   "CuratorApproved": "Y", 
-  "Title": "Lower East Side", 
-  "DateAcquired": "1943-02-17", 
+  "CreditLine": "Purchase", 
   "Date": "1942", 
   "ArtistID": 4036, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "33.1943", 
-  "ArtistBio": "American, born Austria. 1901\u20131983", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, born Austria. 1901\u20131983)", 
+  "DateAcquired": "1943-02-17", 
+  "\ufeffTitle": "Lower East Side", 
   "ObjectID": "44311"
 }

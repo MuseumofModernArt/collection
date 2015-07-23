@@ -5,8 +5,7 @@
   "Artist": "Miguel Conde", 
   "URL": "http://www.moma.org/collection/works/38692", 
   "CuratorApproved": "Y", 
-  "Title": "Estudio de Paris", 
-  "DateAcquired": "1968-12-11", 
+  "CreditLine": "Purchase", 
   "Date": "1964", 
   "ArtistID": 1208, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "1579.1968", 
-  "ArtistBio": "Mexican, born 1939", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(Mexican, born 1939)", 
+  "DateAcquired": "1968-12-11", 
+  "\ufeffTitle": "Estudio de Paris", 
   "ObjectID": "38692"
 }

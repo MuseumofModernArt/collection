@@ -1,12 +1,11 @@
 {
   "Medium": "Lithograph, offset printed with photolithograph and postcard collage", 
-  "Dimensions": "Composition (irreg.): 29 1/8 x 21 1/16\" (74 x 53.5 cm)  Sheet: 29 1/2 x 21 15/16\" (75 x 55.8 cm)", 
+  "Dimensions": "Composition (irreg.): 29 1/8 x 21 1/16\" (74 x 53.5 cm)\r\nSheet: 29 1/2 x 21 15/16\" (75 x 55.8 cm)", 
   "Classification": "Print", 
   "Artist": "Antoni Miralda", 
   "URL": "http://www.moma.org/collection/works/69067", 
   "CuratorApproved": "Y", 
-  "Title": "Hot Dogs from the portfolio Manhatttttan", 
-  "DateAcquired": "1990-10-23", 
+  "CreditLine": "Purchase", 
   "Date": "1977", 
   "ArtistID": 4014, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "434.1990", 
-  "ArtistBio": "Spanish, born 1942", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(Spanish, born 1942)", 
+  "DateAcquired": "1990-10-23", 
+  "\ufeffTitle": "Hot Dogs from the portfolio Manhatttttan", 
   "ObjectID": "69067"
 }

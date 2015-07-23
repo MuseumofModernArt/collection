@@ -1,12 +1,11 @@
 {
   "Medium": "Lithograph", 
-  "Dimensions": "irreg. composition  47 11/16 x 36 7/8\" (121.1 x 93.6 cm)  sheet  67 1/2 x 45\" (171 x 114.3 cm)", 
+  "Dimensions": "irreg. composition  47 11/16 x 36 7/8\" (121.1 x 93.6 cm)\r\nsheet  67 1/2 x 45\" (171 x 114.3 cm)", 
   "Classification": "Print", 
   "Artist": "Claes Oldenburg", 
   "URL": "http://www.moma.org/collection/works/68414", 
   "CuratorApproved": "Y", 
-  "Title": "Soft Screw in Waterfall from the series The Soft Screw", 
-  "DateAcquired": "1987-10-20", 
+  "CreditLine": "President's Fund Purchase, 1987, Donald B. Marron, President", 
   "Date": "(1976)", 
   "ArtistID": 4397, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "397.1987", 
-  "ArtistBio": "American, born Sweden 1929", 
-  "CreditLine": "President's Fund Purchase, 1987, Donald B. Marron, President", 
+  "ArtistBio": "(American, born Sweden 1929)", 
+  "DateAcquired": "1987-10-20", 
+  "\ufeffTitle": "Soft Screw in Waterfall from the series The Soft Screw", 
   "ObjectID": "68414"
 }

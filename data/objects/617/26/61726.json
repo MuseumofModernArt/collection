@@ -5,8 +5,7 @@
   "Artist": "Pablo Picasso", 
   "URL": "http://www.moma.org/collection/works/61726", 
   "CuratorApproved": "Y", 
-  "Title": "Two Figures, Seated", 
-  "DateAcquired": "1934-09-23", 
+  "CreditLine": "Lillie P. Bliss Collection", 
   "Date": "c. 1920", 
   "ArtistID": 4609, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "95.1934", 
-  "ArtistBio": "Spanish, 1881\u20131973", 
-  "CreditLine": "Lillie P. Bliss Collection", 
+  "ArtistBio": "(Spanish, 1881\u20131973)", 
+  "DateAcquired": "1934-09-23", 
+  "\ufeffTitle": "Two Figures, Seated", 
   "ObjectID": "61726"
 }

@@ -5,8 +5,7 @@
   "Artist": "Ming Smith", 
   "URL": "http://www.moma.org/collection/works/57820", 
   "CuratorApproved": "Y", 
-  "Title": "David Murray", 
-  "DateAcquired": "1979-12-13", 
+  "CreditLine": "Acquired through the generosity of the Vera Louise Fraser Estate", 
   "Date": "n.d.", 
   "ArtistID": 7906, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "1184.1979", 
-  "ArtistBio": "American", 
-  "CreditLine": "Acquired through the generosity of the Vera Louise Fraser Estate", 
+  "ArtistBio": "(American)", 
+  "DateAcquired": "1979-12-13", 
+  "\ufeffTitle": "David Murray", 
   "ObjectID": "57820"
 }

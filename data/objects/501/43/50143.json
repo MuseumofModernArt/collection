@@ -5,8 +5,7 @@
   "Artist": "Larry Fink", 
   "URL": "http://www.moma.org/collection/works/50143", 
   "CuratorApproved": "Y", 
-  "Title": "Russian Ball, New York City", 
-  "DateAcquired": "1990-06-07", 
+  "CreditLine": "Acquired with matching funds from the Frank Strick Foundation and the National Endowment for the Arts", 
   "Date": "November 1976", 
   "ArtistID": 1877, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "296.1990", 
-  "ArtistBio": "American, born 1941", 
-  "CreditLine": "Acquired with matching funds from the Frank Strick Foundation and the National Endowment for the Arts", 
+  "ArtistBio": "(American, born 1941)", 
+  "DateAcquired": "1990-06-07", 
+  "\ufeffTitle": "Russian Ball, New York City", 
   "ObjectID": "50143"
 }

@@ -5,8 +5,7 @@
   "Artist": "Unknown Artist", 
   "URL": "http://www.moma.org/collection/works/4936", 
   "CuratorApproved": "Y", 
-  "Title": "Lob der Erde, Jean Dubuffet", 
-  "DateAcquired": "1960-04-06", 
+  "CreditLine": "Gift of the Daniel Cordier Gallery, Frankfurt", 
   "Date": "1959", 
   "ArtistID": 6026, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "72.1960", 
-  "ArtistBio": "Nationality Unknown", 
-  "CreditLine": "Gift of the Daniel Cordier Gallery, Frankfurt", 
+  "ArtistBio": "(Nationality Unknown)", 
+  "DateAcquired": "1960-04-06", 
+  "\ufeffTitle": "Lob der Erde, Jean Dubuffet", 
   "ObjectID": "4936"
 }

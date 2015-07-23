@@ -5,8 +5,7 @@
   "Artist": "Lee Bontecou", 
   "URL": "http://www.moma.org/collection/works/35761", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1973-05-24", 
+  "CreditLine": "Gift of Lily Auchincloss", 
   "Date": "1970", 
   "ArtistID": 670, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "265.1973", 
-  "ArtistBio": "American, born 1931", 
-  "CreditLine": "Gift of Lily Auchincloss", 
+  "ArtistBio": "(American, born 1931)", 
+  "DateAcquired": "1973-05-24", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "35761"
 }

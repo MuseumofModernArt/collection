@@ -5,8 +5,7 @@
   "Artist": "Otto Baumberger", 
   "URL": "http://www.moma.org/collection/works/7886", 
   "CuratorApproved": "Y", 
-  "Title": "Marque PKZ", 
-  "DateAcquired": "1980-10-30", 
+  "CreditLine": "Est\u00e9e and Joseph Lauder Design Fund", 
   "Date": "1923", 
   "ArtistID": 391, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "670.1980", 
-  "ArtistBio": "Swiss, 1889\u20131961", 
-  "CreditLine": "Est\u00e9e and Joseph Lauder Design Fund", 
+  "ArtistBio": "(Swiss, 1889\u20131961)", 
+  "DateAcquired": "1980-10-30", 
+  "\ufeffTitle": "Marque PKZ", 
   "ObjectID": "7886"
 }

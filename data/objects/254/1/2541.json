@@ -5,8 +5,7 @@
   "Artist": "Kaj Franck", 
   "URL": "http://www.moma.org/collection/works/2541", 
   "CuratorApproved": "Y", 
-  "Title": "Kilta Tableware", 
-  "DateAcquired": "1955-04-06", 
+  "CreditLine": "Gift of Waertsila Corporation, New York", 
   "Date": "1948", 
   "ArtistID": 1968, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "144.1955.10", 
-  "ArtistBio": "Finnish, 1911\u20131989", 
-  "CreditLine": "Gift of Waertsila Corporation, New York", 
+  "ArtistBio": "(Finnish, 1911\u20131989)", 
+  "DateAcquired": "1955-04-06", 
+  "\ufeffTitle": "Kilta Tableware", 
   "ObjectID": "2541"
 }

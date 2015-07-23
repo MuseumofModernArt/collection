@@ -5,8 +5,7 @@
   "Artist": "Helen Frankenthaler", 
   "URL": "http://www.moma.org/collection/works/68504", 
   "CuratorApproved": "Y", 
-  "Title": "What Red Lines Can Do", 
-  "DateAcquired": "1978-05-22", 
+  "CreditLine": "Gift of Mr. and Mrs. Howard Sloan", 
   "Date": "1970", 
   "ArtistID": 1974, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "403.1978.1-5", 
-  "ArtistBio": "American, 1928\u20132011", 
-  "CreditLine": "Gift of Mr. and Mrs. Howard Sloan", 
+  "ArtistBio": "(American, 1928\u20132011)", 
+  "DateAcquired": "1978-05-22", 
+  "\ufeffTitle": "What Red Lines Can Do", 
   "ObjectID": "68504"
 }

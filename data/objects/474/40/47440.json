@@ -5,8 +5,7 @@
   "Artist": "Chris Killip", 
   "URL": "http://www.moma.org/collection/works/47440", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1992-04-02", 
+  "CreditLine": "The Family of Man Fund", 
   "Date": "1990", 
   "ArtistID": 3094, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "177.1992", 
-  "ArtistBio": "British, born 1946", 
-  "CreditLine": "The Family of Man Fund", 
+  "ArtistBio": "(British, born 1946)", 
+  "DateAcquired": "1992-04-02", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "47440"
 }

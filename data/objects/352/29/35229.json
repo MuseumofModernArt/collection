@@ -5,8 +5,7 @@
   "Artist": "Leon Kossoff", 
   "URL": "http://www.moma.org/collection/works/35229", 
   "CuratorApproved": "Y", 
-  "Title": "Pilar No. 1", 
-  "DateAcquired": "1993-05-05", 
+  "CreditLine": "Gift of Agnes Gund", 
   "Date": "(1988)", 
   "ArtistID": 7004, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "197.1993", 
-  "ArtistBio": "British, born 1926", 
-  "CreditLine": "Gift of Agnes Gund", 
+  "ArtistBio": "(British, born 1926)", 
+  "DateAcquired": "1993-05-05", 
+  "\ufeffTitle": "Pilar No. 1", 
   "ObjectID": "35229"
 }

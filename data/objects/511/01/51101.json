@@ -5,8 +5,7 @@
   "Artist": "William James Stillman", 
   "URL": "http://www.moma.org/collection/works/51101", 
   "CuratorApproved": "Y", 
-  "Title": "Western Portico of the Parthenon, From Above, Showing the Frieze in Its Original Position", 
-  "DateAcquired": "NULL", 
+  "CreditLine": "Gift of Miss Frances Stillman", 
   "Date": "1869", 
   "ArtistID": 5667, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "336.1975.12", 
-  "ArtistBio": "American, 1828\u20131901", 
-  "CreditLine": "Gift of Miss Frances Stillman", 
+  "ArtistBio": "(American, 1828\u20131901)", 
+  "DateAcquired": "", 
+  "\ufeffTitle": "Western Portico of the Parthenon, From Above, Showing the Frieze in Its Original Position", 
   "ObjectID": "51101"
 }

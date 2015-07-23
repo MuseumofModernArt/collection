@@ -5,8 +5,7 @@
   "Artist": "Eugene Berman", 
   "URL": "http://www.moma.org/collection/works/33787", 
   "CuratorApproved": "Y", 
-  "Title": "Costume Design", 
-  "DateAcquired": "1979-05-07", 
+  "CreditLine": "James Thrall Soby Bequest", 
   "Date": "1940", 
   "ArtistID": 502, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "88.1979", 
-  "ArtistBio": "American, born Russia. 1899\u20131972", 
-  "CreditLine": "James Thrall Soby Bequest", 
+  "ArtistBio": "(American, born Russia. 1899\u20131972)", 
+  "DateAcquired": "1979-05-07", 
+  "\ufeffTitle": "Costume Design", 
   "ObjectID": "33787"
 }

@@ -5,8 +5,7 @@
   "Artist": "Henri de Toulouse-Lautrec", 
   "URL": "http://www.moma.org/collection/works/65562", 
   "CuratorApproved": "Y", 
-  "Title": "The Chestnut Vendor (Le marchand de marrons)", 
-  "DateAcquired": "1997-05-28", 
+  "CreditLine": "Gift of Louise Bourgeois", 
   "Date": "1897, published 1925", 
   "ArtistID": 5910, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "265.1997", 
-  "ArtistBio": "French, 1864\u20131901", 
-  "CreditLine": "Gift of Louise Bourgeois", 
+  "ArtistBio": "(French, 1864\u20131901)", 
+  "DateAcquired": "1997-05-28", 
+  "\ufeffTitle": "The Chestnut Vendor (Le marchand de marrons)", 
   "ObjectID": "65562"
 }

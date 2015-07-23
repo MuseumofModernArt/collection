@@ -5,8 +5,7 @@
   "Artist": "Edward Ruscha", 
   "URL": "http://www.moma.org/collection/works/62649", 
   "CuratorApproved": "Y", 
-  "Title": "Stains", 
-  "DateAcquired": "1970-03-05", 
+  "CreditLine": "Gift of Iolas Gallery", 
   "Date": "1969", 
   "ArtistID": 5086, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "137.1970.1-76", 
-  "ArtistBio": "American, born 1937", 
-  "CreditLine": "Gift of Iolas Gallery", 
+  "ArtistBio": "(American, born 1937)", 
+  "DateAcquired": "1970-03-05", 
+  "\ufeffTitle": "Stains", 
   "ObjectID": "62649"
 }

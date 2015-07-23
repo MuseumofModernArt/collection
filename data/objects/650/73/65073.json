@@ -5,8 +5,7 @@
   "Artist": "Pablo Picasso", 
   "URL": "http://www.moma.org/collection/works/65073", 
   "CuratorApproved": "Y", 
-  "Title": "Female Bullfighter", 
-  "DateAcquired": "1947-10-16", 
+  "CreditLine": "Acquired through the Lillie P. Bliss Bequest", 
   "Date": "June 12, 1934", 
   "ArtistID": 4609, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "243.1947", 
-  "ArtistBio": "Spanish, 1881\u20131973", 
-  "CreditLine": "Acquired through the Lillie P. Bliss Bequest", 
+  "ArtistBio": "(Spanish, 1881\u20131973)", 
+  "DateAcquired": "1947-10-16", 
+  "\ufeffTitle": "Female Bullfighter", 
   "ObjectID": "65073"
 }

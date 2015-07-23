@@ -5,8 +5,7 @@
   "Artist": "Loren MacIver", 
   "URL": "http://www.moma.org/collection/works/4935", 
   "CuratorApproved": "Y", 
-  "Title": "Help Research Close the Circle", 
-  "DateAcquired": "1958-02-19", 
+  "CreditLine": "Gift of the National Foundation for Infantile Paralysis", 
   "Date": "1949", 
   "ArtistID": 3668, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "72.1958", 
-  "ArtistBio": "American, 1909\u20131998", 
-  "CreditLine": "Gift of the National Foundation for Infantile Paralysis", 
+  "ArtistBio": "(American, 1909\u20131998)", 
+  "DateAcquired": "1958-02-19", 
+  "\ufeffTitle": "Help Research Close the Circle", 
   "ObjectID": "4935"
 }

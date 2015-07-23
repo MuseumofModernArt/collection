@@ -5,8 +5,7 @@
   "Artist": "Renzo Vespignani", 
   "URL": "http://www.moma.org/collection/works/33251", 
   "CuratorApproved": "Y", 
-  "Title": "Hanged Man", 
-  "DateAcquired": "1950-01-06", 
+  "CreditLine": "Purchase", 
   "Date": "1949", 
   "ArtistID": 6140, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "19.1950", 
-  "ArtistBio": "Italian, 1924\u20132001", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(Italian, 1924\u20132001)", 
+  "DateAcquired": "1950-01-06", 
+  "\ufeffTitle": "Hanged Man", 
   "ObjectID": "33251"
 }

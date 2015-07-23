@@ -5,8 +5,7 @@
   "Artist": "Max Beckmann", 
   "URL": "http://www.moma.org/collection/works/20276", 
   "CuratorApproved": "Y", 
-  "Title": "Plate (facing page 8) from Die F\u00fcrstin (The Duchess)", 
-  "DateAcquired": "1964-10-06", 
+  "CreditLine": "The Louis E. Stern Collection", 
   "Date": "1918", 
   "ArtistID": 429, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "673.1964.1", 
-  "ArtistBio": "German, 1884\u20131950", 
-  "CreditLine": "The Louis E. Stern Collection", 
+  "ArtistBio": "(German, 1884\u20131950)", 
+  "DateAcquired": "1964-10-06", 
+  "\ufeffTitle": "Plate (facing page 8) from Die F\u00fcrstin (The Duchess)", 
   "ObjectID": "20276"
 }

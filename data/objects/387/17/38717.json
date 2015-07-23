@@ -5,8 +5,7 @@
   "Artist": "Elizabeth Peyton", 
   "URL": "http://www.moma.org/collection/works/38717", 
   "CuratorApproved": "Y", 
-  "Title": "Daniel, Berlin", 
-  "DateAcquired": "2000-12-12", 
+  "CreditLine": "Gift of Patricia and Morris Orden", 
   "Date": "(1999)", 
   "ArtistID": 8042, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "1620.2000", 
-  "ArtistBio": "American, born 1965", 
-  "CreditLine": "Gift of Patricia and Morris Orden", 
+  "ArtistBio": "(American, born 1965)", 
+  "DateAcquired": "2000-12-12", 
+  "\ufeffTitle": "Daniel, Berlin", 
   "ObjectID": "38717"
 }

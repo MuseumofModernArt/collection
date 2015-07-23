@@ -1,12 +1,11 @@
 {
   "Medium": "15 encyclopedias each with a woodcut frontispiece", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Illustrated Book", 
   "Artist": "Georg Baselitz", 
   "URL": "http://www.moma.org/collection/works/19349", 
   "CuratorApproved": "Y", 
-  "Title": "Die Grosse Bertelsmann Lexikothek", 
-  "DateAcquired": "1994-11-08", 
+  "CreditLine": "Gift of Bertelsmann Lexikon Publishing House", 
   "Date": "1992", 
   "ArtistID": 366, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "593.1994.a-o", 
-  "ArtistBio": "German, born 1938", 
-  "CreditLine": "Gift of Bertelsmann Lexikon Publishing House", 
+  "ArtistBio": "(German, born 1938)", 
+  "DateAcquired": "1994-11-08", 
+  "\ufeffTitle": "Die Grosse Bertelsmann Lexikothek", 
   "ObjectID": "19349"
 }

@@ -5,8 +5,7 @@
   "Artist": "Sophie Taeuber-Arp", 
   "URL": "http://www.moma.org/collection/works/19641", 
   "CuratorApproved": "Y", 
-  "Title": "Plate (folio 20) from 10 Origin", 
-  "DateAcquired": "1949-09-29", 
+  "CreditLine": "Purchase", 
   "Date": "1942", 
   "ArtistID": 5777, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "616.1949.9", 
-  "ArtistBio": "Swiss, 1889\u20131943", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(Swiss, 1889\u20131943)", 
+  "DateAcquired": "1949-09-29", 
+  "\ufeffTitle": "Plate from 10 Origin", 
   "ObjectID": "19641"
 }

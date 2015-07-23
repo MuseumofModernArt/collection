@@ -1,12 +1,11 @@
 {
   "Medium": "Lithograph", 
-  "Dimensions": "sl irreg. composition  16 x 11 3/4\" (40.7 x 29.8 cm)  sheet  18 9/16 x 15 3/16\" (47 x 38.6 cm)", 
+  "Dimensions": "sl irreg. composition  16 x 11 3/4\" (40.7 x 29.8 cm)\r\nsheet  18 9/16 x 15 3/16\" (47 x 38.6 cm)", 
   "Classification": "Print", 
   "Artist": "Christopher Richard Wynne Nevinson", 
   "URL": "http://www.moma.org/collection/works/69748", 
   "CuratorApproved": "Y", 
-  "Title": "Acetylene Welder, plate 3 from the series Building Aircraft", 
-  "DateAcquired": "1987-01-15", 
+  "CreditLine": "Gift of the Dorothy Braude Edinburg Collection", 
   "Date": "1917", 
   "ArtistID": 4279, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "475.1986", 
-  "ArtistBio": "British, 1889\u20131946", 
-  "CreditLine": "Gift of the Dorothy Braude Edinburg Collection", 
+  "ArtistBio": "(British, 1889\u20131946)", 
+  "DateAcquired": "1987-01-15", 
+  "\ufeffTitle": "Acetylene Welder, plate 3 from the series Building Aircraft", 
   "ObjectID": "69748"
 }

@@ -5,8 +5,7 @@
   "Artist": "Frederick George Cooper", 
   "URL": "http://www.moma.org/collection/works/8874", 
   "CuratorApproved": "Y", 
-  "Title": "Save a Loaf a Week - Help Win the War", 
-  "DateAcquired": "1940-04-05", 
+  "CreditLine": "Gift of Abby Aldrich Rockefeller", 
   "Date": "1914-18", 
   "ArtistID": 1232, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "1572.1940", 
-  "ArtistBio": "American, 1892\u20131962", 
-  "CreditLine": "Gift of Abby Aldrich Rockefeller", 
+  "ArtistBio": "(American, 1892\u20131962)", 
+  "DateAcquired": "1940-04-05", 
+  "\ufeffTitle": "Save a Loaf a Week - Help Win the War", 
   "ObjectID": "8874"
 }

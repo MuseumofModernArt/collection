@@ -1,12 +1,11 @@
 {
   "Medium": "Aquatint, etching and line-cut", 
-  "Dimensions": "plate  11 5/8 x 6 1/2\" (29.5 x 16.5 cm)  sheet  22 3/4 x 15 7/16\" (57.8 x 39.2 cm)", 
+  "Dimensions": "plate  11 5/8 x 6 1/2\" (29.5 x 16.5 cm)\r\nsheet  22 3/4 x 15 7/16\" (57.8 x 39.2 cm)", 
   "Classification": "Print", 
   "Artist": "Robert Motherwell", 
   "URL": "http://www.moma.org/collection/works/67599", 
   "CuratorApproved": "Y", 
-  "Title": "Gauloises Bleues (Yellow with Black Square)", 
-  "DateAcquired": "1971-03-30", 
+  "CreditLine": "Gift of Celeste Bartos", 
   "Date": "1971", 
   "ArtistID": 4126, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "356.1971", 
-  "ArtistBio": "American, 1915\u20131991", 
-  "CreditLine": "Gift of Celeste Bartos", 
+  "ArtistBio": "(American, 1915\u20131991)", 
+  "DateAcquired": "1971-03-30", 
+  "\ufeffTitle": "Gauloises Bleues (Yellow with Black Square)", 
   "ObjectID": "67599"
 }

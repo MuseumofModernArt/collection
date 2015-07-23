@@ -1,12 +1,11 @@
 {
   "Medium": "Lithograph", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "Claes Oldenburg", 
   "URL": "http://www.moma.org/collection/works/61752", 
   "CuratorApproved": "Y", 
-  "Title": "Pizza/Palette", 
-  "DateAcquired": "1998-03-05", 
+  "CreditLine": "Gift of Helen and Paul Anbinder", 
   "Date": "1996", 
   "ArtistID": 4397, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "97.1998", 
-  "ArtistBio": "American, born Sweden 1929", 
-  "CreditLine": "Gift of Helen and Paul Anbinder", 
+  "ArtistBio": "(American, born Sweden 1929)", 
+  "DateAcquired": "1998-03-05", 
+  "\ufeffTitle": "Pizza/Palette", 
   "ObjectID": "61752"
 }

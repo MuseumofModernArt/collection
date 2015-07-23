@@ -1,12 +1,11 @@
 {
   "Medium": "Portfolio of four screenprints", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "Olivier Mosset", 
   "URL": "http://www.moma.org/collection/works/64384", 
   "CuratorApproved": "Y", 
-  "Title": "References (R\u00e9f\u00e9rences)", 
-  "DateAcquired": "1990-05-02", 
+  "CreditLine": "Purchase", 
   "Date": "1980", 
   "ArtistID": 4125, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "206.1990.a-d", 
-  "ArtistBio": "Swiss, born 1944", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(Swiss, born 1944)", 
+  "DateAcquired": "1990-05-02", 
+  "\ufeffTitle": "References (R\u00e9f\u00e9rences)", 
   "ObjectID": "64384"
 }

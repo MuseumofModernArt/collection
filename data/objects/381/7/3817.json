@@ -5,8 +5,7 @@
   "Artist": "Fulvio Bianconi", 
   "URL": "http://www.moma.org/collection/works/3817", 
   "CuratorApproved": "Y", 
-  "Title": "Vase", 
-  "DateAcquired": "1974-11-06", 
+  "CreditLine": "Lily Auchincloss Fund", 
   "Date": "1945", 
   "ArtistID": 547, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "452.1974", 
-  "ArtistBio": "Italian, 1915\u20131996", 
-  "CreditLine": "Lily Auchincloss Fund", 
+  "ArtistBio": "(Italian, 1915\u20131996)", 
+  "DateAcquired": "1974-11-06", 
+  "\ufeffTitle": "Vase", 
   "ObjectID": "3817"
 }

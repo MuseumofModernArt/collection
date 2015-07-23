@@ -1,12 +1,11 @@
 {
   "Medium": "Photogravure", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "Robert Rauschenberg", 
   "URL": "http://www.moma.org/collection/works/69333", 
   "CuratorApproved": "Y", 
-  "Title": "Soviet/American Array III", 
-  "DateAcquired": "1990-10-23", 
+  "CreditLine": "Gift of Emily Fisher Landau", 
   "Date": "1989-90", 
   "ArtistID": 4823, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "450.1990", 
-  "ArtistBio": "American, 1925\u20132008", 
-  "CreditLine": "Gift of Emily Fisher Landau", 
+  "ArtistBio": "(American, 1925\u20132008)", 
+  "DateAcquired": "1990-10-23", 
+  "\ufeffTitle": "Soviet/American Array III", 
   "ObjectID": "69333"
 }

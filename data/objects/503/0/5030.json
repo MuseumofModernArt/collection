@@ -5,8 +5,7 @@
   "Artist": "Jean Carlu", 
   "URL": "http://www.moma.org/collection/works/5030", 
   "CuratorApproved": "Y", 
-  "Title": "America's Answer - Production", 
-  "DateAcquired": "1944-05-02", 
+  "CreditLine": "Gift of the U.S. Office of Emergency Management", 
   "Date": "1942", 
   "ArtistID": 977, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "92.1944", 
-  "ArtistBio": "French, 1900\u20131997", 
-  "CreditLine": "Gift of the U.S. Office of Emergency Management", 
+  "ArtistBio": "(French, 1900\u20131997)", 
+  "DateAcquired": "1944-05-02", 
+  "\ufeffTitle": "America's Answer - Production", 
   "ObjectID": "5030"
 }

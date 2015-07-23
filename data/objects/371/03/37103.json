@@ -5,8 +5,7 @@
   "Artist": "Myron Stout", 
   "URL": "http://www.moma.org/collection/works/37103", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1980-05-13", 
+  "CreditLine": "Gift of the Gramercy Park Foundation, Inc.", 
   "Date": "(1977-79)", 
   "ArtistID": 5683, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "477.1980", 
-  "ArtistBio": "American, 1908\u20131987", 
-  "CreditLine": "Gift of the Gramercy Park Foundation, Inc.", 
+  "ArtistBio": "(American, 1908\u20131987)", 
+  "DateAcquired": "1980-05-13", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "37103"
 }

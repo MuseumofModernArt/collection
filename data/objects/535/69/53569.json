@@ -5,8 +5,7 @@
   "Artist": "Bruce Davidson", 
   "URL": "http://www.moma.org/collection/works/53569", 
   "CuratorApproved": "Y", 
-  "Title": "Under the Coney Island Boardwalk", 
-  "DateAcquired": "1960-11-30", 
+  "CreditLine": "Purchase", 
   "Date": "c. 1959", 
   "ArtistID": 1398, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "453.1960", 
-  "ArtistBio": "American, born 1933", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, born 1933)", 
+  "DateAcquired": "1960-11-30", 
+  "\ufeffTitle": "Under the Coney Island Boardwalk", 
   "ObjectID": "53569"
 }

@@ -5,8 +5,7 @@
   "Artist": "Leon Levinstein", 
   "URL": "http://www.moma.org/collection/works/58630", 
   "CuratorApproved": "Y", 
-  "Title": "Confusion", 
-  "DateAcquired": "2001-06-14", 
+  "CreditLine": "The New York Times Collection", 
   "Date": "c. 1957", 
   "ArtistID": 3518, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "2037.2001", 
-  "ArtistBio": "American, 1910\u20131988", 
-  "CreditLine": "The New York Times Collection", 
+  "ArtistBio": "(American, 1910\u20131988)", 
+  "DateAcquired": "2001-06-14", 
+  "\ufeffTitle": "\"Confusion\"", 
   "ObjectID": "58630"
 }

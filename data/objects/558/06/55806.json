@@ -5,8 +5,7 @@
   "Artist": "Ralph Steiner", 
   "URL": "http://www.moma.org/collection/works/55806", 
   "CuratorApproved": "Y", 
-  "Title": "Saratoga Billboard", 
-  "DateAcquired": "1970-10-27", 
+  "CreditLine": "Gift of the photographer", 
   "Date": "c. 1929", 
   "ArtistID": 5631, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "646.1970", 
-  "ArtistBio": "American, 1899\u20131986", 
-  "CreditLine": "Gift of the photographer", 
+  "ArtistBio": "(American, 1899\u20131986)", 
+  "DateAcquired": "1970-10-27", 
+  "\ufeffTitle": "Saratoga Billboard", 
   "ObjectID": "55806"
 }

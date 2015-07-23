@@ -5,8 +5,7 @@
   "Artist": "Andy Warhol", 
   "URL": "http://www.moma.org/collection/works/17462", 
   "CuratorApproved": "Y", 
-  "Title": "Andy Warhol's Children's Book", 
-  "DateAcquired": "1999-11-18", 
+  "CreditLine": "John B. Turner Fund", 
   "Date": "1983", 
   "ArtistID": 6246, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "460.1999", 
-  "ArtistBio": "American, 1928\u20131987", 
-  "CreditLine": "John B. Turner Fund", 
+  "ArtistBio": "(American, 1928\u20131987)", 
+  "DateAcquired": "1999-11-18", 
+  "\ufeffTitle": "Andy Warhol's Children's Book", 
   "ObjectID": "17462"
 }

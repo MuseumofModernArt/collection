@@ -5,8 +5,7 @@
   "Artist": "Takis", 
   "URL": "http://www.moma.org/collection/works/36322", 
   "CuratorApproved": "Y", 
-  "Title": "Plant and Rocket", 
-  "DateAcquired": "1960-11-16", 
+  "CreditLine": "Gift of the artist", 
   "Date": "1960", 
   "ArtistID": 5789, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "326.1960", 
-  "ArtistBio": "French, born Greece 1925", 
-  "CreditLine": "Gift of the artist", 
+  "ArtistBio": "(French, born Greece 1925)", 
+  "DateAcquired": "1960-11-16", 
+  "\ufeffTitle": "Plant and Rocket", 
   "ObjectID": "36322"
 }

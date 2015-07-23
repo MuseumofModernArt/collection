@@ -1,12 +1,11 @@
 {
   "Medium": "Linoleum cut", 
-  "Dimensions": "Composition (irreg.): 33 3/8 x 22 3/4\" (84.8 x 57.8 cm)  Sheet: 37 1/16 x 25\" (94.1 x 63.5 cm)", 
+  "Dimensions": "Composition (irreg.): 33 3/8 x 22 3/4\" (84.8 x 57.8 cm)\r\nSheet: 37 1/16 x 25\" (94.1 x 63.5 cm)", 
   "Classification": "Print", 
   "Artist": "Bruce Porter", 
   "URL": "http://www.moma.org/collection/works/66788", 
   "CuratorApproved": "Y", 
-  "Title": "Flute Like Voices I", 
-  "DateAcquired": "1985-10-07", 
+  "CreditLine": "Gift of Mr. and Mrs. Harry Kahn", 
   "Date": "1981", 
   "ArtistID": 4699, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "316.1985", 
-  "ArtistBio": "American, born 1943", 
-  "CreditLine": "Gift of Mr. and Mrs. Harry Kahn", 
+  "ArtistBio": "(American, born 1943)", 
+  "DateAcquired": "1985-10-07", 
+  "\ufeffTitle": "Flute Like Voices I", 
   "ObjectID": "66788"
 }

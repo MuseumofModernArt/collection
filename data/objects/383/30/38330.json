@@ -5,8 +5,7 @@
   "Artist": "Georges Braque", 
   "URL": "http://www.moma.org/collection/works/38330", 
   "CuratorApproved": "Y", 
-  "Title": "Still Life with Tenora", 
-  "DateAcquired": "1979-10-09", 
+  "CreditLine": "Nelson A. Rockefeller Bequest", 
   "Date": "(summer or fall 1913)", 
   "ArtistID": 744, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "947.1979", 
-  "ArtistBio": "French, 1882\u20131963", 
-  "CreditLine": "Nelson A. Rockefeller Bequest", 
+  "ArtistBio": "(French, 1882\u20131963)", 
+  "DateAcquired": "1979-10-09", 
+  "\ufeffTitle": "Still Life with Tenora", 
   "ObjectID": "38330"
 }

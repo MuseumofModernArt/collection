@@ -5,8 +5,7 @@
   "Artist": "Fritz Schleifer", 
   "URL": "http://www.moma.org/collection/works/6197", 
   "CuratorApproved": "Y", 
-  "Title": "Bauhaus Ausstellung", 
-  "DateAcquired": "1999-06-30", 
+  "CreditLine": "Gift of Jo Carole and Ronald S. Lauder and by Exchange", 
   "Date": "1923", 
   "ArtistID": 8077, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "312.1999", 
-  "ArtistBio": "German, 1903\u20131977", 
-  "CreditLine": "Gift of Jo Carole and Ronald S. Lauder and by Exchange", 
+  "ArtistBio": "(German, 1903\u20131977)", 
+  "DateAcquired": "1999-06-30", 
+  "\ufeffTitle": "Bauhaus Ausstellung", 
   "ObjectID": "6197"
 }

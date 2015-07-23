@@ -5,8 +5,7 @@
   "Artist": "Sheron Rupp", 
   "URL": "http://www.moma.org/collection/works/45412", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled (Bayside, Ontario, Canada)", 
-  "DateAcquired": "1997-03-06", 
+  "CreditLine": "E.T. Harmax Foundation Fund", 
   "Date": "1995", 
   "ArtistID": 5083, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "65.1997.x1-x2", 
-  "ArtistBio": "American, born 1943", 
-  "CreditLine": "E.T. Harmax Foundation Fund", 
+  "ArtistBio": "(American, born 1943)", 
+  "DateAcquired": "1997-03-06", 
+  "\ufeffTitle": "Untitled (Bayside, Ontario, Canada)", 
   "ObjectID": "45412"
 }

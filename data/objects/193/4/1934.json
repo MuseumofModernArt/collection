@@ -5,8 +5,7 @@
   "Artist": "Charles Eames", 
   "URL": "http://www.moma.org/collection/works/1934", 
   "CuratorApproved": "Y", 
-  "Title": "Low Side Chair", 
-  "DateAcquired": "1946-05-07", 
+  "CreditLine": "Gift of the manufacturer", 
   "Date": "c. 1946", 
   "ArtistID": 1671, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "64.1946", 
-  "ArtistBio": "American, 1907\u20131978", 
-  "CreditLine": "Gift of the manufacturer", 
+  "ArtistBio": "(American, 1907\u20131978)", 
+  "DateAcquired": "1946-05-07", 
+  "\ufeffTitle": "Low Side Chair", 
   "ObjectID": "1934"
 }

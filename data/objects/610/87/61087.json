@@ -1,12 +1,11 @@
 {
   "Medium": "Etching and lithograph", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "Judy Pfaff", 
   "URL": "http://www.moma.org/collection/works/61087", 
   "CuratorApproved": "Y", 
-  "Title": "HEARTFELT", 
-  "DateAcquired": "1999-03-04", 
+  "CreditLine": "Johanna and Leslie J. Garfield Fund", 
   "Date": "1996", 
   "ArtistID": 4594, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "58.1999", 
-  "ArtistBio": "American, born 1946", 
-  "CreditLine": "Johanna and Leslie J. Garfield Fund", 
+  "ArtistBio": "(American, born 1946)", 
+  "DateAcquired": "1999-03-04", 
+  "\ufeffTitle": "Heartfelt", 
   "ObjectID": "61087"
 }

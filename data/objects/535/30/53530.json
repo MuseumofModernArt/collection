@@ -5,8 +5,7 @@
   "Artist": "Bruce Davidson", 
   "URL": "http://www.moma.org/collection/works/53530", 
   "CuratorApproved": "Y", 
-  "Title": "Near the Beach, Los Angeles", 
-  "DateAcquired": "1966-10-11", 
+  "CreditLine": "Gift of the photographer", 
   "Date": "1964", 
   "ArtistID": 1398, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "450.1966", 
-  "ArtistBio": "American, born 1933", 
-  "CreditLine": "Gift of the photographer", 
+  "ArtistBio": "(American, born 1933)", 
+  "DateAcquired": "1966-10-11", 
+  "\ufeffTitle": "Near the Beach, Los Angeles", 
   "ObjectID": "53530"
 }

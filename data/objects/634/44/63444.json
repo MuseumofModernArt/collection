@@ -5,8 +5,7 @@
   "Artist": "Helen Frankenthaler", 
   "URL": "http://www.moma.org/collection/works/63444", 
   "CuratorApproved": "Y", 
-  "Title": "East and Beyond", 
-  "DateAcquired": "1973-05-07", 
+  "CreditLine": "Gift of Celeste Bartos", 
   "Date": "1973", 
   "ArtistID": 1974, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "167.1973", 
-  "ArtistBio": "American, 1928\u20132011", 
-  "CreditLine": "Gift of Celeste Bartos", 
+  "ArtistBio": "(American, 1928\u20132011)", 
+  "DateAcquired": "1973-05-07", 
+  "\ufeffTitle": "East and Beyond", 
   "ObjectID": "63444"
 }

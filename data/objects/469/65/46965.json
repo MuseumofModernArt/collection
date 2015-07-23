@@ -5,8 +5,7 @@
   "Artist": "Robert Adams", 
   "URL": "http://www.moma.org/collection/works/46965", 
   "CuratorApproved": "Y", 
-  "Title": "Lakewood, Colorado", 
-  "DateAcquired": "1982-05-13", 
+  "CreditLine": "Purchase", 
   "Date": "1973", 
   "ArtistID": 66, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "154.1982", 
-  "ArtistBio": "American, born 1937", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, born 1937)", 
+  "DateAcquired": "1982-05-13", 
+  "\ufeffTitle": "Lakewood, Colorado", 
   "ObjectID": "46965"
 }

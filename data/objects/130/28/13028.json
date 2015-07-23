@@ -5,8 +5,7 @@
   "Artist": "Michael Kidner", 
   "URL": "http://www.moma.org/collection/works/13028", 
   "CuratorApproved": "Y", 
-  "Title": "The Elastic Membrane", 
-  "DateAcquired": "1981-05-06", 
+  "CreditLine": "Gift of Diane L. Ackerman", 
   "Date": "1979", 
   "ArtistID": 3083, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "182.1981.1-9", 
-  "ArtistBio": "British, born 1917", 
-  "CreditLine": "Gift of Diane L. Ackerman", 
+  "ArtistBio": "(British, born 1917)", 
+  "DateAcquired": "1981-05-06", 
+  "\ufeffTitle": "The Elastic Membrane", 
   "ObjectID": "13028"
 }

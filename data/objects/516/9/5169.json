@@ -5,8 +5,7 @@
   "Artist": "Albert Fuss", 
   "URL": "http://www.moma.org/collection/works/5169", 
   "CuratorApproved": "Y", 
-  "Title": "Messe, F.I.M., Frankfurt A.M., 22 - 25 April 1928", 
-  "DateAcquired": "1968-03-07", 
+  "CreditLine": "Anonymous gift", 
   "Date": "1928", 
   "ArtistID": 2038, 
   "Keywords": [
@@ -20,7 +19,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "132.1968", 
-  "ArtistBio": "German, 1889\u20131969", 
-  "CreditLine": "Anonymous gift", 
+  "ArtistBio": "(German, 1889\u20131969)", 
+  "DateAcquired": "1968-03-07", 
+  "\ufeffTitle": "Messe, F.I.M., Frankfurt A.M., 22 - 25 April 1928", 
   "ObjectID": "5169"
 }

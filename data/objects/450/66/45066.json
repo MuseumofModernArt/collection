@@ -5,8 +5,7 @@
   "Artist": "David Octavius Hill", 
   "URL": "http://www.moma.org/collection/works/45066", 
   "CuratorApproved": "Y", 
-  "Title": "Self-Portrait", 
-  "DateAcquired": "1976-02-24", 
+  "CreditLine": "Gift of Mrs. Raymond C. Collins", 
   "Date": "1844", 
   "ArtistID": 2648, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "54.1976", 
-  "ArtistBio": "British, 1802\u20131870", 
-  "CreditLine": "Gift of Mrs. Raymond C. Collins", 
+  "ArtistBio": "(British, 1802\u20131870)", 
+  "DateAcquired": "1976-02-24", 
+  "\ufeffTitle": "Self-Portrait", 
   "ObjectID": "45066"
 }

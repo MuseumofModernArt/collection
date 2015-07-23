@@ -5,8 +5,7 @@
   "Artist": "Hans Jurgen Spohn", 
   "URL": "http://www.moma.org/collection/works/8402", 
   "CuratorApproved": "Y", 
-  "Title": "Jugend Veranstaltungen der XIV Internationalen Filmfestspiele Berlin", 
-  "DateAcquired": "1965-11-09", 
+  "CreditLine": "Gift of the artist", 
   "Date": "1964", 
   "ArtistID": 5570, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "935.1965", 
-  "ArtistBio": "German, born 1934", 
-  "CreditLine": "Gift of the artist", 
+  "ArtistBio": "(German, born 1934)", 
+  "DateAcquired": "1965-11-09", 
+  "\ufeffTitle": "Jugend Veranstaltungen der XIV Internationalen Filmfestspiele Berlin", 
   "ObjectID": "8402"
 }

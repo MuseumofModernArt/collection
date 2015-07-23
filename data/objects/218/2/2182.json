@@ -5,8 +5,7 @@
   "Artist": "Vernon P. Steele", 
   "URL": "http://www.moma.org/collection/works/2182", 
   "CuratorApproved": "Y", 
-  "Title": "Adjustable Garden Rake", 
-  "DateAcquired": "1948-03-17", 
+  "CreditLine": "Purchase", 
   "Date": "1945", 
   "ArtistID": 5617, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "116.1948", 
-  "ArtistBio": "American", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American)", 
+  "DateAcquired": "1948-03-17", 
+  "\ufeffTitle": "Adjustable Garden Rake", 
   "ObjectID": "2182"
 }

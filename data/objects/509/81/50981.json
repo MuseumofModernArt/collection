@@ -5,8 +5,7 @@
   "Artist": "Tom Arndt", 
   "URL": "http://www.moma.org/collection/works/50981", 
   "CuratorApproved": "Y", 
-  "Title": "Street Scene, 49th Street, New York City", 
-  "DateAcquired": "1981-10-15", 
+  "CreditLine": "Acquired with matching funds from Shirley C. Burden and the National Endowment for the Arts", 
   "Date": "1980", 
   "Keywords": [
     "online art collection", 
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "331.1981", 
-  "ArtistBio": "American, born 1944", 
-  "CreditLine": "Acquired with matching funds from Shirley C. Burden and the National Endowment for the Arts", 
+  "ArtistBio": "(American, born 1944)", 
+  "DateAcquired": "1981-10-15", 
+  "\ufeffTitle": "Street Scene, 49th Street, New York City", 
   "ObjectID": "50981"
 }

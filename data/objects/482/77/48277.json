@@ -5,8 +5,7 @@
   "Artist": "Harry Callahan", 
   "URL": "http://www.moma.org/collection/works/48277", 
   "CuratorApproved": "Y", 
-  "Title": "Eleanor, Chicago", 
-  "DateAcquired": "2000-03-23", 
+  "CreditLine": "Gift of Susan and Peter MacGill", 
   "Date": "c. 1952", 
   "ArtistID": 924, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "198.2000", 
-  "ArtistBio": "American, 1912\u20131999", 
-  "CreditLine": "Gift of Susan and Peter MacGill", 
+  "ArtistBio": "(American, 1912\u20131999)", 
+  "DateAcquired": "2000-03-23", 
+  "\ufeffTitle": "Eleanor, Chicago", 
   "ObjectID": "48277"
 }

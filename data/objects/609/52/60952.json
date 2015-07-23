@@ -5,8 +5,7 @@
   "Artist": "Hundertwasser (Friedrich Stowasser)", 
   "URL": "http://www.moma.org/collection/works/60952", 
   "CuratorApproved": "Y", 
-  "Title": "660 Shadow of the Stars", 
-  "DateAcquired": "1968-02-05", 
+  "CreditLine": "Gift of Albert Loeb and Krugier Gallery", 
   "Date": "1967", 
   "ArtistID": 2766, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "51.1968", 
-  "ArtistBio": "Austrian, 1928\u20132000", 
-  "CreditLine": "Gift of Albert Loeb and Krugier Gallery", 
+  "ArtistBio": "(Austrian, 1928\u20132000)", 
+  "DateAcquired": "1968-02-05", 
+  "\ufeffTitle": "660 Shadow of the Stars", 
   "ObjectID": "60952"
 }

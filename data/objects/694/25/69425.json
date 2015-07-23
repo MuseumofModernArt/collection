@@ -1,12 +1,11 @@
 {
   "Medium": "Chromogenic color print", 
-  "Dimensions": "a composition  2 7/8 x 19 3/16\" (7.3 x 48.8 cm)  a sheet  2 7/8 x 19 3/16\" (7 x 48.8 cm)", 
+  "Dimensions": "a composition  2 7/8 x 19 3/16\" (7.3 x 48.8 cm)\r\na sheet  2 7/8 x 19 3/16\" (7 x 48.8 cm)", 
   "Classification": "Print", 
   "Artist": "Sam Taylor-Wood", 
   "URL": "http://www.moma.org/collection/works/69425", 
   "CuratorApproved": "Y", 
-  "Title": "Five Revolutionary Seconds XIV (Sketch) (for Parkett no. 55)", 
-  "DateAcquired": "1999-11-18", 
+  "CreditLine": "Linda Barth Goldstein Fund", 
   "Date": "1999", 
   "ArtistID": 7550, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "457.1999.a-b", 
-  "ArtistBio": "British, born 1967", 
-  "CreditLine": "Linda Barth Goldstein Fund", 
+  "ArtistBio": "(British, born 1967)", 
+  "DateAcquired": "1999-11-18", 
+  "\ufeffTitle": "Five Revolutionary Seconds XIV (Sketch) (for Parkett no. 55)", 
   "ObjectID": "69425"
 }

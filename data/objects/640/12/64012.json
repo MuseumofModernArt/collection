@@ -1,12 +1,11 @@
 {
   "Medium": "Lithograph", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "Christian Jaccard", 
   "URL": "http://www.moma.org/collection/works/64012", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled from the series Seven Formats 76 x 56 cm (Sept Formats 76 x 56 cm)", 
-  "DateAcquired": "1990-05-02", 
+  "CreditLine": "Purchase", 
   "Date": "1983", 
   "ArtistID": 2855, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "186.1990", 
-  "ArtistBio": "French, born 1939", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(French, born 1939)", 
+  "DateAcquired": "1990-05-02", 
+  "\ufeffTitle": "Untitled from the series Seven Formats 76 x 56 cm (Sept Formats 76 x 56 cm)", 
   "ObjectID": "64012"
 }

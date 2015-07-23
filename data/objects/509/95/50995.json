@@ -5,8 +5,7 @@
   "Artist": "Alfred Stieglitz", 
   "URL": "http://www.moma.org/collection/works/50995", 
   "CuratorApproved": "Y", 
-  "Title": "Georgia O'Keeffe - Hands and Horse Skull", 
-  "DateAcquired": "1942-12-29", 
+  "CreditLine": "Anonymous gift", 
   "Date": "1931", 
   "ArtistID": 5664, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "332.1942", 
-  "ArtistBio": "American, 1864\u20131946", 
-  "CreditLine": "Anonymous gift", 
+  "ArtistBio": "(American, 1864\u20131946)", 
+  "DateAcquired": "1942-12-29", 
+  "\ufeffTitle": "Georgia O'Keeffe - Hands and Horse Skull", 
   "ObjectID": "50995"
 }

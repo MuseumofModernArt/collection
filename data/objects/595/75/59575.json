@@ -1,12 +1,11 @@
 {
   "Medium": "Etching", 
-  "Dimensions": "plate  66 15/16 x 35\" (170 x 89 cm)  sheet  68 1/8 x 35 13/16\" (173 x 91 cm)", 
+  "Dimensions": "plate  66 15/16 x 35\" (170 x 89 cm)\r\nsheet  68 1/8 x 35 13/16\" (173 x 91 cm)", 
   "Classification": "Print", 
   "Artist": "Pierre Alechinsky", 
   "URL": "http://www.moma.org/collection/works/59575", 
   "CuratorApproved": "Y", 
-  "Title": "Covering Movement (Mouvement couvrant)", 
-  "DateAcquired": "1982-01-21", 
+  "CreditLine": "Gift of the artist", 
   "Date": "1979", 
   "ArtistID": 107, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "1.1982", 
-  "ArtistBio": "Belgian, born 1927", 
-  "CreditLine": "Gift of the artist", 
+  "ArtistBio": "(Belgian, born 1927)", 
+  "DateAcquired": "1982-01-21", 
+  "\ufeffTitle": "Covering Movement (Mouvement couvrant)", 
   "ObjectID": "59575"
 }

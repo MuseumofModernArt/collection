@@ -5,8 +5,7 @@
   "Artist": "Otl Aicher (also known as Otto Aicher)", 
   "URL": "http://www.moma.org/collection/works/8865", 
   "CuratorApproved": "Y", 
-  "Title": "M\u00fcnchen 1972", 
-  "DateAcquired": "2000-12-11", 
+  "CreditLine": "Gift of the designer", 
   "Date": "1972", 
   "ArtistID": 86, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "1568.2000", 
-  "ArtistBio": "German, 1922\u20131991", 
-  "CreditLine": "Gift of the designer", 
+  "ArtistBio": "(German, 1922\u20131991)", 
+  "DateAcquired": "2000-12-11", 
+  "\ufeffTitle": "M\u00fcnchen 1972", 
   "ObjectID": "8865"
 }

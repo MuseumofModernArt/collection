@@ -5,8 +5,7 @@
   "Artist": "Jan Tschichold", 
   "URL": "http://www.moma.org/collection/works/8734", 
   "CuratorApproved": "Y", 
-  "Title": "Die Hose, Phoebus Palast", 
-  "DateAcquired": "1968-10-07", 
+  "CreditLine": "Gift of Armin Hofmann", 
   "Date": "1926", 
   "ArtistID": 5951, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "1284.1968", 
-  "ArtistBio": "Swiss, born Germany. 1902\u20131974", 
-  "CreditLine": "Gift of Armin Hofmann", 
+  "ArtistBio": "(Swiss, born Germany. 1902\u20131974)", 
+  "DateAcquired": "1968-10-07", 
+  "\ufeffTitle": "Die Hose, Phoebus Palast", 
   "ObjectID": "8734"
 }

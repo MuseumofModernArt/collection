@@ -5,8 +5,7 @@
   "Artist": "Shiro Kuramata", 
   "URL": "http://www.moma.org/collection/works/4300", 
   "CuratorApproved": "Y", 
-  "Title": "Side 2", 
-  "DateAcquired": "1998-09-15", 
+  "CreditLine": "Gift of The Junior Associates of The Museum of Modern Art and the manufacturer", 
   "Date": "1970", 
   "ArtistID": 7210, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "521.1998", 
-  "ArtistBio": "Japanese, 1934\u20131991", 
-  "CreditLine": "Gift of The Junior Associates of The Museum of Modern Art and the manufacturer", 
+  "ArtistBio": "(Japanese, 1934\u20131991)", 
+  "DateAcquired": "1998-09-15", 
+  "\ufeffTitle": "Side 2", 
   "ObjectID": "4300"
 }

@@ -5,8 +5,7 @@
   "Artist": "Lucas Samaras", 
   "URL": "http://www.moma.org/collection/works/45767", 
   "CuratorApproved": "Y", 
-  "Title": "Still Life", 
-  "DateAcquired": "1992-01-09", 
+  "CreditLine": "Gift of Robert and Gayle Greenhill", 
   "Date": "March 12, 1978", 
   "ArtistID": 5134, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "77.1992", 
-  "ArtistBio": "American, born Greece 1936", 
-  "CreditLine": "Gift of Robert and Gayle Greenhill", 
+  "ArtistBio": "(American, born Greece 1936)", 
+  "DateAcquired": "1992-01-09", 
+  "\ufeffTitle": "Still Life", 
   "ObjectID": "45767"
 }

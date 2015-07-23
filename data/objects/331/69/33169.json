@@ -5,8 +5,7 @@
   "Artist": "Pablo Picasso", 
   "URL": "http://www.moma.org/collection/works/33169", 
   "CuratorApproved": "Y", 
-  "Title": "Head of the Medical Student (Study for Les Demoiselles d'Avignon)", 
-  "DateAcquired": "1952-01-22", 
+  "CreditLine": "A. Conger Goodyear Fund", 
   "Date": "(June 1907)", 
   "ArtistID": 4609, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "14.1952", 
-  "ArtistBio": "Spanish, 1881\u20131973", 
-  "CreditLine": "A. Conger Goodyear Fund", 
+  "ArtistBio": "(Spanish, 1881\u20131973)", 
+  "DateAcquired": "1952-01-22", 
+  "\ufeffTitle": "Head of the Medical Student (Study for Les Demoiselles d'Avignon)", 
   "ObjectID": "33169"
 }

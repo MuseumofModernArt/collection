@@ -5,8 +5,7 @@
   "Artist": "Bart Van Der Leck", 
   "URL": "http://www.moma.org/collection/works/8362", 
   "CuratorApproved": "Y", 
-  "Title": "Batavier-Line, Rotterdam-London", 
-  "DateAcquired": "1979-05-30", 
+  "CreditLine": "Anonymous gift", 
   "Date": "c. 1916", 
   "ArtistID": 6072, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "903.1979", 
-  "ArtistBio": "Dutch, 1876\u20131958", 
-  "CreditLine": "Anonymous gift", 
+  "ArtistBio": "(Dutch, 1876\u20131958)", 
+  "DateAcquired": "1979-05-30", 
+  "\ufeffTitle": "Batavier-Line, Rotterdam-London", 
   "ObjectID": "8362"
 }

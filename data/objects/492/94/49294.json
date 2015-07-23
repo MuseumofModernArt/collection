@@ -5,8 +5,7 @@
   "Artist": "Larry Fink", 
   "URL": "http://www.moma.org/collection/works/49294", 
   "CuratorApproved": "Y", 
-  "Title": "Blue Horizon, Philadelphia, Pennsylvania", 
-  "DateAcquired": "1993-06-01", 
+  "CreditLine": "Purchase", 
   "Date": "1991", 
   "ArtistID": 1877, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "234.1993", 
-  "ArtistBio": "American, born 1941", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, born 1941)", 
+  "DateAcquired": "1993-06-01", 
+  "\ufeffTitle": "Blue Horizon, Philadelphia, Pennsylvania", 
   "ObjectID": "49294"
 }

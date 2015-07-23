@@ -5,8 +5,7 @@
   "Artist": "Niklaus Stoecklin", 
   "URL": "http://www.moma.org/collection/works/6724", 
   "CuratorApproved": "Y", 
-  "Title": "Marken M\u00fcller", 
-  "DateAcquired": "1994-09-21", 
+  "CreditLine": "Gift of Leonard A. Lauder", 
   "Date": "1948", 
   "ArtistID": 5671, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "426.1994", 
-  "ArtistBio": "Swiss, 1896\u20131982", 
-  "CreditLine": "Gift of Leonard A. Lauder", 
+  "ArtistBio": "(Swiss, 1896\u20131982)", 
+  "DateAcquired": "1994-09-21", 
+  "\ufeffTitle": "Marken M\u00fcller", 
   "ObjectID": "6724"
 }

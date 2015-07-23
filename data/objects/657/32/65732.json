@@ -1,12 +1,11 @@
 {
   "Medium": "Etching", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "Jir\u00ed Kol\u00e1r", 
   "URL": "http://www.moma.org/collection/works/65732", 
   "CuratorApproved": "Y", 
-  "Title": "Homage to Albers", 
-  "DateAcquired": "1975-10-07", 
+  "CreditLine": "Purchase", 
   "Date": "1972", 
   "ArtistID": 3198, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "271.1975", 
-  "ArtistBio": "Czech, 1914\u20132002", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(Czech, 1914\u20132002)", 
+  "DateAcquired": "1975-10-07", 
+  "\ufeffTitle": "Homage to Albers", 
   "ObjectID": "65732"
 }

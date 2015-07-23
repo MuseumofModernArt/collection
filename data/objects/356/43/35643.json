@@ -5,8 +5,7 @@
   "Artist": "Peter Booth", 
   "URL": "http://www.moma.org/collection/works/35643", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1987-09-17", 
+  "CreditLine": "Purchase", 
   "Date": "1984", 
   "ArtistID": 673, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "255.1987", 
-  "ArtistBio": "Australian, born 1940", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(Australian, born 1940)", 
+  "DateAcquired": "1987-09-17", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "35643"
 }

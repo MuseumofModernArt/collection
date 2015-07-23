@@ -5,8 +5,7 @@
   "Artist": "Various Artists", 
   "URL": "http://www.moma.org/collection/works/69440", 
   "CuratorApproved": "Y", 
-  "Title": "The Leo Castelli 90th Birthday Portfolio", 
-  "DateAcquired": "1999-11-18", 
+  "CreditLine": "Gift of Jean-Christophe Castelli", 
   "Date": "1997", 
   "ArtistID": 6104, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "458.1999.1-9", 
-  "ArtistBio": "Various", 
-  "CreditLine": "Gift of Jean-Christophe Castelli", 
+  "ArtistBio": "(Various)", 
+  "DateAcquired": "1999-11-18", 
+  "\ufeffTitle": "The Leo Castelli 90th Birthday Portfolio", 
   "ObjectID": "69440"
 }

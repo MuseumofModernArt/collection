@@ -5,8 +5,7 @@
   "Artist": "Emmet Gowin", 
   "URL": "http://www.moma.org/collection/works/46774", 
   "CuratorApproved": "Y", 
-  "Title": "Elijah and Donna Jo, Danville", 
-  "DateAcquired": "1972-03-07", 
+  "CreditLine": "Anonymous Fund", 
   "Date": "1968", 
   "ArtistID": 2273, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "135.1972", 
-  "ArtistBio": "American, born 1941", 
-  "CreditLine": "Anonymous Fund", 
+  "ArtistBio": "(American, born 1941)", 
+  "DateAcquired": "1972-03-07", 
+  "\ufeffTitle": "Elijah and Donna Jo, Danville", 
   "ObjectID": "46774"
 }

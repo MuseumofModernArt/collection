@@ -5,8 +5,7 @@
   "Artist": "Marino Marini", 
   "URL": "http://www.moma.org/collection/works/61865", 
   "CuratorApproved": "Y", 
-  "Title": "Horse", 
-  "DateAcquired": "1956-03-19", 
+  "CreditLine": "Curt Valentin Bequest", 
   "Date": "(1952)", 
   "ArtistID": 3772, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "105.1956", 
-  "ArtistBio": "Italian, 1901\u20131980", 
-  "CreditLine": "Curt Valentin Bequest", 
+  "ArtistBio": "(Italian, 1901\u20131980)", 
+  "DateAcquired": "1956-03-19", 
+  "\ufeffTitle": "Horse", 
   "ObjectID": "61865"
 }

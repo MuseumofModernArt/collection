@@ -5,8 +5,7 @@
   "Artist": "Jennifer Morla", 
   "URL": "http://www.moma.org/collection/works/5316", 
   "CuratorApproved": "Y", 
-  "Title": "Capp Street Project: James Cathcart, Frank Fantauzzi, Terence Van Elsander", 
-  "DateAcquired": "1996-04-09", 
+  "CreditLine": "Gift of the designer", 
   "Date": "1995", 
   "ArtistID": 7518, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "152.1996", 
-  "ArtistBio": "American, born 1955", 
-  "CreditLine": "Gift of the designer", 
+  "ArtistBio": "(American, born 1955)", 
+  "DateAcquired": "1996-04-09", 
+  "\ufeffTitle": "Capp Street Project: James Cathcart, Frank Fantauzzi, Terence Van Elsander", 
   "ObjectID": "5316"
 }

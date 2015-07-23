@@ -5,8 +5,7 @@
   "Artist": "Charles Marville", 
   "URL": "http://www.moma.org/collection/works/56132", 
   "CuratorApproved": "Y", 
-  "Title": "The Fortress of Ehrenbreistein", 
-  "DateAcquired": "1983-11-10", 
+  "CreditLine": "Acquired through the generosity of Blanchette Hooker Rockefeller", 
   "Date": "1853", 
   "ArtistID": 3810, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "692.1983", 
-  "ArtistBio": "French, 1816\u20131879", 
-  "CreditLine": "Acquired through the generosity of Blanchette Hooker Rockefeller", 
+  "ArtistBio": "(French, 1816\u20131879)", 
+  "DateAcquired": "1983-11-10", 
+  "\ufeffTitle": "The Fortress of Ehrenbreistein", 
   "ObjectID": "56132"
 }

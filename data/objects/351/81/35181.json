@@ -5,8 +5,7 @@
   "Artist": "Tancredi", 
   "URL": "http://www.moma.org/collection/works/35181", 
   "CuratorApproved": "Y", 
-  "Title": "Springtime", 
-  "DateAcquired": "1952-10-21", 
+  "CreditLine": "Gift of Peggy Guggenheim", 
   "Date": "1952", 
   "ArtistID": 5803, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "192.1952", 
-  "ArtistBio": "Italian, 1927\u20131964", 
-  "CreditLine": "Gift of Peggy Guggenheim", 
+  "ArtistBio": "(Italian, 1927\u20131964)", 
+  "DateAcquired": "1952-10-21", 
+  "\ufeffTitle": "Springtime", 
   "ObjectID": "35181"
 }

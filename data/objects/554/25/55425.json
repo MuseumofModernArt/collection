@@ -5,8 +5,7 @@
   "Artist": "Jack Welpott", 
   "URL": "http://www.moma.org/collection/works/55425", 
   "CuratorApproved": "Y", 
-  "Title": "Self-Portrait with my Son", 
-  "DateAcquired": "1971-11-10", 
+  "CreditLine": "Purchase", 
   "Date": "1970", 
   "ArtistID": 6308, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "590.1971", 
-  "ArtistBio": "American, 1923\u20132007", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, 1923\u20132007)", 
+  "DateAcquired": "1971-11-10", 
+  "\ufeffTitle": "Self-Portrait with my Son", 
   "ObjectID": "55425"
 }

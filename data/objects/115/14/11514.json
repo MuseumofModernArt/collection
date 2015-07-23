@@ -1,12 +1,11 @@
 {
   "Medium": "Two woodcuts", 
-  "Dimensions": "irreg. page  10 5/16 x 7 9/16\" (26 x 19.2 cm)  Prints:  various dimensions.", 
+  "Dimensions": "irreg. page  10 5/16 x 7 9/16\" (26 x 19.2 cm)\r\nPrints:  various dimensions.", 
   "Classification": "Illustrated Book", 
   "Artist": "Raoul Hausmann", 
   "URL": "http://www.moma.org/collection/works/11514", 
   "CuratorApproved": "Y", 
-  "Title": "Club Dada", 
-  "DateAcquired": "1991-05-22", 
+  "CreditLine": "Abby Aldrich Rockefeller Fund (by exchange)", 
   "Date": "(1919)", 
   "ArtistID": 2544, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "133.1991.1-2", 
-  "ArtistBio": "German, born Austria. 1886\u20131971", 
-  "CreditLine": "Abby Aldrich Rockefeller Fund (by exchange)", 
+  "ArtistBio": "(German, born Austria. 1886\u20131971)", 
+  "DateAcquired": "1991-05-22", 
+  "\ufeffTitle": "Club Dada", 
   "ObjectID": "11514"
 }

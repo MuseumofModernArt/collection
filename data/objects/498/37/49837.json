@@ -5,8 +5,7 @@
   "Artist": "Cecil Beaton", 
   "URL": "http://www.moma.org/collection/works/49837", 
   "CuratorApproved": "Y", 
-  "Title": "Giorgio de Chirico", 
-  "DateAcquired": "1982-10-28", 
+  "CreditLine": "Purchase", 
   "Date": "1936", 
   "ArtistID": 417, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "273.1982", 
-  "ArtistBio": "British, 1904\u20131980", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(British, 1904\u20131980)", 
+  "DateAcquired": "1982-10-28", 
+  "\ufeffTitle": "Giorgio de Chirico", 
   "ObjectID": "49837"
 }

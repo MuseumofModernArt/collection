@@ -5,8 +5,7 @@
   "Artist": "Hans Hillmann", 
   "URL": "http://www.moma.org/collection/works/5933", 
   "CuratorApproved": "Y", 
-  "Title": "Sturm \u00dcber Asien, Pudowkins Meisterwerk, Neue Filmkunst", 
-  "DateAcquired": "1965-04-06", 
+  "CreditLine": "Gift of the artist", 
   "Date": "1964", 
   "ArtistID": 2653, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "265.1965", 
-  "ArtistBio": "German, born Silesia (now Poland) 1925", 
-  "CreditLine": "Gift of the artist", 
+  "ArtistBio": "(German, born Silesia (now Poland) 1925)", 
+  "DateAcquired": "1965-04-06", 
+  "\ufeffTitle": "Sturm \u00dcber Asien, Pudowkins Meisterwerk, Neue Filmkunst", 
   "ObjectID": "5933"
 }

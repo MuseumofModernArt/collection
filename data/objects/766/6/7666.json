@@ -5,8 +5,7 @@
   "Artist": "Eug\u00e8ne Grasset", 
   "URL": "http://www.moma.org/collection/works/7666", 
   "CuratorApproved": "Y", 
-  "Title": "Encre L. Marquet, La Meilleure de Toutes les Encres", 
-  "DateAcquired": "1954-12-16", 
+  "CreditLine": "Purchase", 
   "Date": "1892", 
   "ArtistID": 2301, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "595.1954", 
-  "ArtistBio": "French, born Switzerland. 1841\u20131917", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(French, born Switzerland. 1841\u20131917)", 
+  "DateAcquired": "1954-12-16", 
+  "\ufeffTitle": "Encre L. Marquet, La Meilleure de Toutes les Encres", 
   "ObjectID": "7666"
 }

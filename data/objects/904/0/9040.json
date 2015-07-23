@@ -5,8 +5,7 @@
   "Artist": "August Gaul", 
   "URL": "http://www.moma.org/collection/works/9040", 
   "CuratorApproved": "Y", 
-  "Title": "Goats (plate 5) from the illustrated book Deutsche Graphiker der Gegenwart (German Printmakers of Our Time)", 
-  "DateAcquired": "NULL", 
+  "CreditLine": "Purchase", 
   "Date": "1920 (print executed c. 1916)", 
   "ArtistID": 2099, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "2.1942.4", 
-  "ArtistBio": "German, 1869\u20131921", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(German, 1869\u20131921)", 
+  "DateAcquired": "", 
+  "\ufeffTitle": "Goats (Ziegen) (plate 5) from the illustrated book Deutsche Graphiker der Gegenwart (German Printmakers of Our Time)", 
   "ObjectID": "9040"
 }

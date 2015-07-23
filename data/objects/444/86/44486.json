@@ -5,8 +5,7 @@
   "Artist": "Aaron Siskind", 
   "URL": "http://www.moma.org/collection/works/44486", 
   "CuratorApproved": "Y", 
-  "Title": "Chicago 202", 
-  "DateAcquired": "1984-01-12", 
+  "CreditLine": "Gift of Frances F. L. Beatty", 
   "Date": "1953", 
   "ArtistID": 5456, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "39.1984", 
-  "ArtistBio": "American, 1903\u20131991", 
-  "CreditLine": "Gift of Frances F. L. Beatty", 
+  "ArtistBio": "(American, 1903\u20131991)", 
+  "DateAcquired": "1984-01-12", 
+  "\ufeffTitle": "Chicago 202", 
   "ObjectID": "44486"
 }

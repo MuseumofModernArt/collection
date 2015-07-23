@@ -1,12 +1,11 @@
 {
   "Medium": "12 potato cuts and screenprints and 1 potato cut", 
-  "Dimensions": "page  11 x 11\" (28 x 28 cm)  Prints:  various dimensions.", 
+  "Dimensions": "page  11 x 11\" (28 x 28 cm)\r\nPrints:  various dimensions.", 
   "Classification": "Illustrated Book", 
   "Artist": "Bruce McLean", 
   "URL": "http://www.moma.org/collection/works/16591", 
   "CuratorApproved": "Y", 
-  "Title": "A Potato Against a Black Background", 
-  "DateAcquired": "1988-10-25", 
+  "CreditLine": "Purchase", 
   "Date": "1988", 
   "ArtistID": 3889, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "389.1988.1-13", 
-  "ArtistBio": "British, born 1944", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(British, born 1944)", 
+  "DateAcquired": "1988-10-25", 
+  "\ufeffTitle": "A Potato Against a Black Background", 
   "ObjectID": "16591"
 }

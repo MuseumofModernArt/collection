@@ -1,12 +1,11 @@
 {
   "Medium": "Lithograph", 
-  "Dimensions": "irreg composition  36 1/2 x 32 1/8\" (92.7 x 81.6 cm)  sheet  41 3/16 x 33 7/8\" (104.6 x 86.1 cm)", 
+  "Dimensions": "irreg composition  36 1/2 x 32 1/8\" (92.7 x 81.6 cm)\r\nsheet  41 3/16 x 33 7/8\" (104.6 x 86.1 cm)", 
   "Classification": "Print", 
   "Artist": "Robert Rauschenberg", 
   "URL": "http://www.moma.org/collection/works/67724", 
   "CuratorApproved": "Y", 
-  "Title": "Horn from the Stoned Moon Series", 
-  "DateAcquired": "1971-03-30", 
+  "CreditLine": "Gift of Dorothy and Lou Faibish", 
   "Date": "1969", 
   "ArtistID": 4823, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "362.1971", 
-  "ArtistBio": "American, 1925\u20132008", 
-  "CreditLine": "Gift of Dorothy and Lou Faibish", 
+  "ArtistBio": "(American, 1925\u20132008)", 
+  "DateAcquired": "1971-03-30", 
+  "\ufeffTitle": "Horn from the Stoned Moon Series", 
   "ObjectID": "67724"
 }

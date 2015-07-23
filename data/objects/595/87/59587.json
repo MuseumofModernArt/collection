@@ -1,12 +1,11 @@
 {
   "Medium": "Portfolio of ten die cuts", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "Ad Dekkers", 
   "URL": "http://www.moma.org/collection/works/59587", 
   "CuratorApproved": "Y", 
-  "Title": "Blanco Action", 
-  "DateAcquired": "1974-01-10", 
+  "CreditLine": "Seiden and de Cuevas Foundation Fund", 
   "Date": "(1970)", 
   "ArtistID": 1469, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "2.1974.1-10", 
-  "ArtistBio": "Dutch, 1938\u20131974", 
-  "CreditLine": "Seiden and de Cuevas Foundation Fund", 
+  "ArtistBio": "(Dutch, 1938\u20131974)", 
+  "DateAcquired": "1974-01-10", 
+  "\ufeffTitle": "Blanco Action", 
   "ObjectID": "59587"
 }

@@ -5,8 +5,7 @@
   "Artist": "William H. Miller, Jr.", 
   "URL": "http://www.moma.org/collection/works/2880", 
   "CuratorApproved": "Y", 
-  "Title": "Chair", 
-  "DateAcquired": "1944-11-08", 
+  "CreditLine": "Gift of the manufacturer", 
   "Date": "c. 1944", 
   "Keywords": [
     "online art collection", 
@@ -19,7 +18,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "232.1944", 
-  "ArtistBio": "American", 
-  "CreditLine": "Gift of the manufacturer", 
+  "ArtistBio": "(American)", 
+  "DateAcquired": "1944-11-08", 
+  "\ufeffTitle": "Chair", 
   "ObjectID": "2880"
 }

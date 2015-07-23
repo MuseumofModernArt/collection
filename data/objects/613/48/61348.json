@@ -5,8 +5,7 @@
   "Artist": "Paul Klee", 
   "URL": "http://www.moma.org/collection/works/61348", 
   "CuratorApproved": "Y", 
-  "Title": "Garden of Passion", 
-  "DateAcquired": "1944-05-02", 
+  "CreditLine": "Purchase", 
   "Date": "(1913), printed 1913-1918", 
   "ArtistID": 3130, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "76.1944", 
-  "ArtistBio": "German, born Switzerland. 1879\u20131940", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(German, born Switzerland. 1879\u20131940)", 
+  "DateAcquired": "1944-05-02", 
+  "\ufeffTitle": "Garden of Passion (Garten der Leidenschaft)", 
   "ObjectID": "61348"
 }

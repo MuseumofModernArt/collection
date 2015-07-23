@@ -5,8 +5,7 @@
   "Artist": "Emil Nolde", 
   "URL": "http://www.moma.org/collection/works/37718", 
   "CuratorApproved": "Y", 
-  "Title": "Magicians", 
-  "DateAcquired": "1939-12-08", 
+  "CreditLine": "Purchase", 
   "Date": "(1931-35)", 
   "ArtistID": 4327, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "654.1939", 
-  "ArtistBio": "German, 1867\u20131956", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(German, 1867\u20131956)", 
+  "DateAcquired": "1939-12-08", 
+  "\ufeffTitle": "Magicians (Zauberer)", 
   "ObjectID": "37718"
 }

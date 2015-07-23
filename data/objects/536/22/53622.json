@@ -5,8 +5,7 @@
   "Artist": "Merry Alpern", 
   "URL": "http://www.moma.org/collection/works/53622", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1994-10-13", 
+  "CreditLine": "Gift of Hale and Mildred Alpern", 
   "Date": "1994", 
   "ArtistID": 8079, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "457.1994", 
-  "ArtistBio": "American, born 1955", 
-  "CreditLine": "Gift of Hale and Mildred Alpern", 
+  "ArtistBio": "(American, born 1955)", 
+  "DateAcquired": "1994-10-13", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "53622"
 }

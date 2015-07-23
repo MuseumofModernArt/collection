@@ -5,8 +5,7 @@
   "Artist": "E. McKnight Kauffer", 
   "URL": "http://www.moma.org/collection/works/6676", 
   "CuratorApproved": "Y", 
-  "Title": "Magicians Prefer Shell", 
-  "DateAcquired": "1939-05-22", 
+  "CreditLine": "Gift of the artist", 
   "Date": "1934", 
   "ArtistID": 3020, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "419.1939", 
-  "ArtistBio": "American, 1890\u20131954", 
-  "CreditLine": "Gift of the artist", 
+  "ArtistBio": "(American, 1890\u20131954)", 
+  "DateAcquired": "1939-05-22", 
+  "\ufeffTitle": "Magicians Prefer Shell", 
   "ObjectID": "6676"
 }

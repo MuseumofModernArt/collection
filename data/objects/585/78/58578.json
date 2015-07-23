@@ -5,8 +5,7 @@
   "Artist": "Suzanne De Chillo/The New York Times", 
   "URL": "http://www.moma.org/collection/works/58578", 
   "CuratorApproved": "Y", 
-  "Title": "Louise Woodward", 
-  "DateAcquired": "2001-06-14", 
+  "CreditLine": "The New York Times Collection", 
   "Date": "1998", 
   "ArtistID": 8530, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "1985.2001", 
-  "ArtistBio": "Nationality unknown", 
-  "CreditLine": "The New York Times Collection", 
+  "ArtistBio": "(Nationality unknown)", 
+  "DateAcquired": "2001-06-14", 
+  "\ufeffTitle": "Louise Woodward", 
   "ObjectID": "58578"
 }

@@ -5,8 +5,7 @@
   "Artist": "Karl Hofer", 
   "URL": "http://www.moma.org/collection/works/67038", 
   "CuratorApproved": "Y", 
-  "Title": "Carnival", 
-  "DateAcquired": "1940-04-05", 
+  "CreditLine": "Gift of Abby Aldrich Rockefeller", 
   "Date": "(before 1924)", 
   "ArtistID": 2686, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "329.1940", 
-  "ArtistBio": "German, 1878\u20131955", 
-  "CreditLine": "Gift of Abby Aldrich Rockefeller", 
+  "ArtistBio": "(German, 1878\u20131955)", 
+  "DateAcquired": "1940-04-05", 
+  "\ufeffTitle": "Carnival (Carneval)", 
   "ObjectID": "67038"
 }

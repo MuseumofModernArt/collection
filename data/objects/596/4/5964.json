@@ -5,8 +5,7 @@
   "Artist": "Ludwig Hohlwein", 
   "URL": "http://www.moma.org/collection/works/5964", 
   "CuratorApproved": "Y", 
-  "Title": "Berliner Illustrirte Zeitung", 
-  "DateAcquired": "1986-10-07", 
+  "CreditLine": "Gift of The Lauder Foundation, Leonard and Evelyn Lauder Fund", 
   "Date": "c. 1919", 
   "ArtistID": 2700, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "269.1986", 
-  "ArtistBio": "German, 1874\u20131949", 
-  "CreditLine": "Gift of The Lauder Foundation, Leonard and Evelyn Lauder Fund", 
+  "ArtistBio": "(German, 1874\u20131949)", 
+  "DateAcquired": "1986-10-07", 
+  "\ufeffTitle": "Berliner Illustrirte Zeitung", 
   "ObjectID": "5964"
 }

@@ -5,8 +5,7 @@
   "Artist": "Richard Nonas", 
   "URL": "http://www.moma.org/collection/works/60287", 
   "CuratorApproved": "Y", 
-  "Title": "Details from the Excavation of Wooster Street", 
-  "DateAcquired": "1973-01-04", 
+  "CreditLine": "John B. Turner Fund", 
   "Date": "(1972)", 
   "ArtistID": 4330, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "23.1973.1-23", 
-  "ArtistBio": "American, born 1936", 
-  "CreditLine": "John B. Turner Fund", 
+  "ArtistBio": "(American, born 1936)", 
+  "DateAcquired": "1973-01-04", 
+  "\ufeffTitle": "Details from the Excavation of Wooster Street", 
   "ObjectID": "60287"
 }

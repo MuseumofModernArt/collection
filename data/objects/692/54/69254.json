@@ -5,8 +5,7 @@
   "Artist": "John Edward Dowell", 
   "URL": "http://www.moma.org/collection/works/69254", 
   "CuratorApproved": "Y", 
-  "Title": "Visual Poems", 
-  "DateAcquired": "1971-05-18", 
+  "CreditLine": "John B. Turner Fund", 
   "Date": "(1970-71, published 1971)", 
   "ArtistID": 1604, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "445.1971.1-9", 
-  "ArtistBio": "American, born 1941", 
-  "CreditLine": "John B. Turner Fund", 
+  "ArtistBio": "(American, born 1941)", 
+  "DateAcquired": "1971-05-18", 
+  "\ufeffTitle": "Visual Poems", 
   "ObjectID": "69254"
 }

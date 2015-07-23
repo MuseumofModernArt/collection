@@ -1,12 +1,11 @@
 {
   "Medium": "Illustrated book with photolithographic reproductions and one stencil (unbound plate)", 
-  "Dimensions": "composition  8 7/16 x 6 3/16\" (21.4 x 15.7 cm)  sheet  8 7/16 x 6 3/16\" (21.4 x 15.7 cm)  page  8 15/16 x 6 3/4\" (22 x 17.1 cm)", 
+  "Dimensions": "composition  8 7/16 x 6 3/16\" (21.4 x 15.7 cm)\r\nsheet  8 7/16 x 6 3/16\" (21.4 x 15.7 cm)\r\npage  8 15/16 x 6 3/4\" (22 x 17.1 cm)", 
   "Classification": "Illustrated Book", 
   "Artist": "Emmett Williams", 
   "URL": "http://www.moma.org/collection/works/32147", 
   "CuratorApproved": "Y", 
-  "Title": "Selected Shorter Poems 1950-1970", 
-  "DateAcquired": "1980-02-25", 
+  "CreditLine": "Gift of Donald Thal", 
   "Date": "1978", 
   "ArtistID": 6377, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "1265.1979", 
-  "ArtistBio": "American, 1925\u20132007", 
-  "CreditLine": "Gift of Donald Thal", 
+  "ArtistBio": "(American, 1925\u20132007)", 
+  "DateAcquired": "1980-02-25", 
+  "\ufeffTitle": "Selected Shorter Poems 1950-1970", 
   "ObjectID": "32147"
 }

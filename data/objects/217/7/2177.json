@@ -5,8 +5,7 @@
   "Artist": "Karlsson & Nilsson, Sweden", 
   "URL": "http://www.moma.org/collection/works/2177", 
   "CuratorApproved": "Y", 
-  "Title": "Spatula", 
-  "DateAcquired": "1948-03-17", 
+  "CreditLine": "Purchase", 
   "Date": "c. 1946", 
   "Keywords": [
     "online art collection", 
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "115.1948", 
-  "ArtistBio": "NULL", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "", 
+  "DateAcquired": "1948-03-17", 
+  "\ufeffTitle": "Spatula", 
   "ObjectID": "2177"
 }

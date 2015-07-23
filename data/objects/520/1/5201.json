@@ -5,8 +5,7 @@
   "Artist": "David Aronson", 
   "URL": "http://www.moma.org/collection/works/5201", 
   "CuratorApproved": "Y", 
-  "Title": "Aronson", 
-  "DateAcquired": "1952-05-20", 
+  "CreditLine": "Gift of Boris Mirski", 
   "Date": "1951", 
   "Keywords": [
     "online art collection", 
@@ -16,7 +15,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "140.1952", 
-  "ArtistBio": "American, born Lithuania 1923", 
-  "CreditLine": "Gift of Boris Mirski", 
+  "ArtistBio": "(American, born Lithuania 1923)", 
+  "DateAcquired": "1952-05-20", 
+  "\ufeffTitle": "Aronson", 
   "ObjectID": "5201"
 }

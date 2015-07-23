@@ -1,12 +1,11 @@
 {
   "Medium": "Linoleum cut", 
-  "Dimensions": "Composition: 4 13/16 x 2 15/16\" (12.3 x 7.4 cm)  Sheet: 5 1/8 x 4\" (13 x 10.2 cm)", 
+  "Dimensions": "Composition: 4 13/16 x 2 15/16\" (12.3 x 7.4 cm)\r\nSheet: 5 1/8 x 4\" (13 x 10.2 cm)", 
   "Classification": "Print", 
   "Artist": "Alex Katz", 
   "URL": "http://www.moma.org/collection/works/68785", 
   "CuratorApproved": "Y", 
-  "Title": "Canoe or Maine Landscape", 
-  "DateAcquired": "1990-10-23", 
+  "CreditLine": "Gift of the artist", 
   "Date": "1951-52", 
   "ArtistID": 3016, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "419.1990", 
-  "ArtistBio": "American, born 1927", 
-  "CreditLine": "Gift of the artist", 
+  "ArtistBio": "(American, born 1927)", 
+  "DateAcquired": "1990-10-23", 
+  "\ufeffTitle": "Canoe", 
   "ObjectID": "68785"
 }

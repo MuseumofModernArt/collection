@@ -1,12 +1,11 @@
 {
   "Medium": "Illustrated book with twenty-seven lithographs", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Illustrated Book", 
   "Artist": "Robert Motherwell", 
   "URL": "http://www.moma.org/collection/works/10360", 
   "CuratorApproved": "Y", 
-  "Title": "Octavio Paz Suite", 
-  "DateAcquired": "1990-01-16", 
+  "CreditLine": "Gift of Benjamin Shiff", 
   "Date": "1987", 
   "ArtistID": 4126, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "31.1990.1-27", 
-  "ArtistBio": "American, 1915\u20131991", 
-  "CreditLine": "Gift of Benjamin Shiff", 
+  "ArtistBio": "(American, 1915\u20131991)", 
+  "DateAcquired": "1990-01-16", 
+  "\ufeffTitle": "Octavio Paz Suite", 
   "ObjectID": "10360"
 }

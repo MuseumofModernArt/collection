@@ -5,8 +5,7 @@
   "Artist": "Walther Koch", 
   "URL": "http://www.moma.org/collection/works/8784", 
   "CuratorApproved": "Y", 
-  "Title": "Winterkurort Davos", 
-  "DateAcquired": "2000-12-11", 
+  "CreditLine": "Gift of the designer", 
   "Date": "1910", 
   "ArtistID": 8334, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "1486.2000", 
-  "ArtistBio": "Swiss, 1875\u20131915", 
-  "CreditLine": "Gift of the designer", 
+  "ArtistBio": "(Swiss, 1875\u20131915)", 
+  "DateAcquired": "2000-12-11", 
+  "\ufeffTitle": "Winterkurort Davos", 
   "ObjectID": "8784"
 }

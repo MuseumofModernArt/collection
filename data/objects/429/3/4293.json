@@ -5,8 +5,7 @@
   "Artist": "IMEC", 
   "URL": "http://www.moma.org/collection/works/4293", 
   "CuratorApproved": "Y", 
-  "Title": "Diagram of Neural Net: Foveated, Retina-like Sensor", 
-  "DateAcquired": "1990-10-24", 
+  "CreditLine": "Gift of University of Pennsylvania", 
   "Date": "1989", 
   "ArtistID": 6881, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "519.1990.1", 
-  "ArtistBio": "American", 
-  "CreditLine": "Gift of University of Pennsylvania", 
+  "ArtistBio": "(American)", 
+  "DateAcquired": "1990-10-24", 
+  "\ufeffTitle": "Diagram of Neural Net: Foveated, Retina-like Sensor", 
   "ObjectID": "4293"
 }

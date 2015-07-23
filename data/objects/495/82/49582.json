@@ -5,8 +5,7 @@
   "Artist": "Tod Papageorge", 
   "URL": "http://www.moma.org/collection/works/49582", 
   "CuratorApproved": "Y", 
-  "Title": "Halftime, Birmingham, Alabama", 
-  "DateAcquired": "1973-05-10", 
+  "CreditLine": "Gift of the photographer", 
   "Date": "1970", 
   "ArtistID": 4490, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "253.1973", 
-  "ArtistBio": "American, born 1940", 
-  "CreditLine": "Gift of the photographer", 
+  "ArtistBio": "(American, born 1940)", 
+  "DateAcquired": "1973-05-10", 
+  "\ufeffTitle": "Halftime, Birmingham, Alabama", 
   "ObjectID": "49582"
 }

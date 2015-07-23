@@ -5,8 +5,7 @@
   "Artist": "Manuel \u00c1lvarez Bravo", 
   "URL": "http://www.moma.org/collection/works/52789", 
   "CuratorApproved": "Y", 
-  "Title": "The Daydream", 
-  "DateAcquired": "1942-12-29", 
+  "CreditLine": "Anonymous gift", 
   "Date": "1931", 
   "ArtistID": 135, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "409.1942", 
-  "ArtistBio": "Mexican, 1902\u20132002", 
-  "CreditLine": "Anonymous gift", 
+  "ArtistBio": "(Mexican, 1902\u20132002)", 
+  "DateAcquired": "1942-12-29", 
+  "\ufeffTitle": "The Daydream", 
   "ObjectID": "52789"
 }

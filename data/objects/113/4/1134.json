@@ -5,8 +5,7 @@
   "Artist": "Rodolfo Bonetto", 
   "URL": "http://www.moma.org/collection/works/1134", 
   "CuratorApproved": "Y", 
-  "Title": "Timer Model No. 152", 
-  "DateAcquired": "2001-09-24", 
+  "CreditLine": "Gift of the manufacturer", 
   "Date": "1960", 
   "ArtistID": 659, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "2246.2001", 
-  "ArtistBio": "Italian, 1929\u20131991", 
-  "CreditLine": "Gift of the manufacturer", 
+  "ArtistBio": "(Italian, 1929\u20131991)", 
+  "DateAcquired": "2001-09-24", 
+  "\ufeffTitle": "Timer Model No. 152", 
   "ObjectID": "1134"
 }

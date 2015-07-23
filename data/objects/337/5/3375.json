@@ -5,8 +5,7 @@
   "Artist": "Sven Palmqvist", 
   "URL": "http://www.moma.org/collection/works/3375", 
   "CuratorApproved": "Y", 
-  "Title": "Fuga Bowl", 
-  "DateAcquired": "1961-11-08", 
+  "CreditLine": "Philip Johnson Fund", 
   "Date": "1960", 
   "ArtistID": 4478, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "350.1961", 
-  "ArtistBio": "Swedish, 1906\u20131984", 
-  "CreditLine": "Philip Johnson Fund", 
+  "ArtistBio": "(Swedish, 1906\u20131984)", 
+  "DateAcquired": "1961-11-08", 
+  "\ufeffTitle": "\"Fuga\" Bowl", 
   "ObjectID": "3375"
 }

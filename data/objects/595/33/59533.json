@@ -5,8 +5,7 @@
   "Artist": "Max Beckmann", 
   "URL": "http://www.moma.org/collection/works/59533", 
   "CuratorApproved": "Y", 
-  "Title": "Self-Portrait", 
-  "DateAcquired": "1929-11-19", 
+  "CreditLine": "Gift of Paul J. Sachs", 
   "Date": "(1914, published 1918)", 
   "ArtistID": 429, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "1.1929", 
-  "ArtistBio": "German, 1884\u20131950", 
-  "CreditLine": "Gift of Paul J. Sachs", 
+  "ArtistBio": "(German, 1884\u20131950)", 
+  "DateAcquired": "1929-11-19", 
+  "\ufeffTitle": "Self-Portrait (Selbstbildnis)", 
   "ObjectID": "59533"
 }

@@ -1,12 +1,11 @@
 {
   "Medium": "Handwrought silver", 
-  "Dimensions": ".1 (salad knife): 7 15/16 x 11/16\" (20.2 x 1.8 cm)  .2 (serving spoon): 10 7/8 x 2 5/16\" (27.6 x 5.9 cm)  .3 (butter knife): 8 x 15/16\" (20.3 x 2.4 cm)  .4 (dessert spoon): 6 11/16 x 1 7/16\" (17 x 3.7 cm)  .5 (teaspoon): 5 5/16 x 1 1/16\" (13.5 x 2.7 cm)  .6 (dessert fork): 6 15/16 x 11/16\" (17.6 x 1.7 cm)  .7 (salad fork): 6 5/8 x 11/16\" (16.8 x 1.7 cm)  .8 (coffee spoon): 4 5/16 x 15/16\" (11 x 2.4 cm)", 
+  "Dimensions": ".1 (salad knife): 7 15/16 x 11/16\" (20.2 x 1.8 cm)\r\n.2 (serving spoon): 10 7/8 x 2 5/16\" (27.6 x 5.9 cm)\r\n.3 (butter knife): 8 x 15/16\" (20.3 x 2.4 cm)\r\n.4 (dessert spoon): 6 11/16 x 1 7/16\" (17 x 3.7 cm)\r\n.5 (teaspoon): 5 5/16 x 1 1/16\" (13.5 x 2.7 cm)\r\n.6 (dessert fork): 6 15/16 x 11/16\" (17.6 x 1.7 cm)\r\n.7 (salad fork): 6 5/8 x 11/16\" (16.8 x 1.7 cm)\r\n.8 (coffee spoon): 4 5/16 x 15/16\" (11 x 2.4 cm)", 
   "Classification": "A&D Design", 
-  "Artist": "Luigi Caccia Dominioni", 
+  "Artist": "Luigi Caccia Dominioni, Pier Giacomo Castiglioni", 
   "URL": "http://www.moma.org/collection/works/4150", 
   "CuratorApproved": "Y", 
-  "Title": "Flatware", 
-  "DateAcquired": "1980-10-30", 
+  "CreditLine": "Purchase", 
   "Date": "1938", 
   "ArtistID": 906, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "634.1980.1-8", 
-  "ArtistBio": "Italian, born 1913", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(Italian, born 1913) (Italian, 1913\u20131968)", 
+  "DateAcquired": "1980-10-30", 
+  "\ufeffTitle": "Flatware", 
   "ObjectID": "4150"
 }

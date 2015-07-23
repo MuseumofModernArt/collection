@@ -1,12 +1,11 @@
 {
   "Medium": "Lithograph", 
-  "Dimensions": "composition  38 1/16 x 29 1/16\" (98.7 x 73.9 cm)  sheet  43 1/2 x 29 1/4\" (110.5 x 74.3 cm)", 
+  "Dimensions": "composition  38 1/16 x 29 1/16\" (98.7 x 73.9 cm)\r\nsheet  43 1/2 x 29 1/4\" (110.5 x 74.3 cm)", 
   "Classification": "Print", 
   "Artist": "Jasper Johns", 
   "URL": "http://www.moma.org/collection/works/64978", 
   "CuratorApproved": "Y", 
-  "Title": "Good Time Charley", 
-  "DateAcquired": "1972-05-08", 
+  "CreditLine": "John B. Turner Fund", 
   "Date": "1972", 
   "ArtistID": 2923, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "238.1972", 
-  "ArtistBio": "American, born 1930", 
-  "CreditLine": "John B. Turner Fund", 
+  "ArtistBio": "(American, born 1930)", 
+  "DateAcquired": "1972-05-08", 
+  "\ufeffTitle": "Good Time Charley", 
   "ObjectID": "64978"
 }

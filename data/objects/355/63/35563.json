@@ -5,8 +5,7 @@
   "Artist": "Morris Kantor", 
   "URL": "http://www.moma.org/collection/works/35563", 
   "CuratorApproved": "Y", 
-  "Title": "Seated Nude", 
-  "DateAcquired": "1976-06-02", 
+  "CreditLine": "Gift of Margot Paul Ernst", 
   "Date": "1922", 
   "ArtistID": 2988, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "246.1976", 
-  "ArtistBio": "American, born Russia. 1896\u20131974", 
-  "CreditLine": "Gift of Margot Paul Ernst", 
+  "ArtistBio": "(American, born Russia. 1896\u20131974)", 
+  "DateAcquired": "1976-06-02", 
+  "\ufeffTitle": "Seated Nude", 
   "ObjectID": "35563"
 }

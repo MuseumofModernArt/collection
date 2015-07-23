@@ -5,8 +5,7 @@
   "Artist": "Henri de Toulouse-Lautrec", 
   "URL": "http://www.moma.org/collection/works/61330", 
   "CuratorApproved": "Y", 
-  "Title": "Confetti", 
-  "DateAcquired": "1999-03-04", 
+  "CreditLine": "Acquired in honor of Joanne M. Stern by the Committee on Prints and Illustrated Books in appreciation for her contribution as Committee Chair", 
   "Date": "1894", 
   "ArtistID": 5910, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "74.1999", 
-  "ArtistBio": "French, 1864\u20131901", 
-  "CreditLine": "Acquired in honor of Joanne M. Stern by the Committee on Prints and Illustrated Books in appreciation for her contribution as Committee Chair", 
+  "ArtistBio": "(French, 1864\u20131901)", 
+  "DateAcquired": "1999-03-04", 
+  "\ufeffTitle": "Confetti", 
   "ObjectID": "61330"
 }

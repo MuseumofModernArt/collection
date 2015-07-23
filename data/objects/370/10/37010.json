@@ -5,8 +5,7 @@
   "Artist": "Ad Reinhardt", 
   "URL": "http://www.moma.org/collection/works/37010", 
   "CuratorApproved": "Y", 
-  "Title": "Study for a Painting", 
-  "DateAcquired": "1967-06-06", 
+  "CreditLine": "Gift of the artist", 
   "Date": "1939", 
   "ArtistID": 4856, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "456.1967", 
-  "ArtistBio": "American, 1913\u20131967", 
-  "CreditLine": "Gift of the artist", 
+  "ArtistBio": "(American, 1913\u20131967)", 
+  "DateAcquired": "1967-06-06", 
+  "\ufeffTitle": "Study for a Painting", 
   "ObjectID": "37010"
 }

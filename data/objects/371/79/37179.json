@@ -5,8 +5,7 @@
   "Artist": "Ellsworth Kelly", 
   "URL": "http://www.moma.org/collection/works/37179", 
   "CuratorApproved": "Y", 
-  "Title": "Awnings, Avenue Matignon", 
-  "DateAcquired": "1997-10-23", 
+  "CreditLine": "Gift of the artist", 
   "Date": "(1950)", 
   "ArtistID": 3048, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "496.1997", 
-  "ArtistBio": "American, born 1923", 
-  "CreditLine": "Gift of the artist", 
+  "ArtistBio": "(American, born 1923)", 
+  "DateAcquired": "1997-10-23", 
+  "\ufeffTitle": "Awnings, Avenue Matignon", 
   "ObjectID": "37179"
 }

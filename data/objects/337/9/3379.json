@@ -5,8 +5,7 @@
   "Artist": "Donald R. Knorr", 
   "URL": "http://www.moma.org/collection/works/3379", 
   "CuratorApproved": "Y", 
-  "Title": "Side Chair", 
-  "DateAcquired": "1950-11-15", 
+  "CreditLine": "Gift of the manufacturer", 
   "Date": "1948-1950", 
   "ArtistID": 3165, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "351.1950", 
-  "ArtistBio": "American, born 1922", 
-  "CreditLine": "Gift of the manufacturer", 
+  "ArtistBio": "(American, born 1922)", 
+  "DateAcquired": "1950-11-15", 
+  "\ufeffTitle": "Side Chair", 
   "ObjectID": "3379"
 }

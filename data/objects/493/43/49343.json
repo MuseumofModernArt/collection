@@ -5,8 +5,7 @@
   "Artist": "Harry Callahan", 
   "URL": "http://www.moma.org/collection/works/49343", 
   "CuratorApproved": "Y", 
-  "Title": "Chicago", 
-  "DateAcquired": "1977-06-09", 
+  "CreditLine": "Acquired with matching funds from Shirley C. Burden and the National Endowment for the Arts", 
   "Date": "c. 1949", 
   "ArtistID": 924, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "237.1977", 
-  "ArtistBio": "American, 1912\u20131999", 
-  "CreditLine": "Acquired with matching funds from Shirley C. Burden and the National Endowment for the Arts", 
+  "ArtistBio": "(American, 1912\u20131999)", 
+  "DateAcquired": "1977-06-09", 
+  "\ufeffTitle": "Chicago", 
   "ObjectID": "49343"
 }

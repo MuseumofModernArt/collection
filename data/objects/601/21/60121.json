@@ -1,12 +1,11 @@
 {
   "Medium": "Aquatint and etching", 
-  "Dimensions": "plate  26 7/16 x 13 1/2\" (67.2 x 34.3 cm)  sheet  34 1/16 x 19 5/8\" (86 x 49.8 cm)", 
+  "Dimensions": "plate  26 7/16 x 13 1/2\" (67.2 x 34.3 cm)\r\nsheet  34 1/16 x 19 5/8\" (86 x 49.8 cm)", 
   "Classification": "Print", 
   "Artist": "Al Taylor", 
   "URL": "http://www.moma.org/collection/works/60121", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled (Large Tape)", 
-  "DateAcquired": "1989-01-18", 
+  "CreditLine": "John B. Turner Fund", 
   "Date": "1988", 
   "ArtistID": 5815, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "20.1989", 
-  "ArtistBio": "American, 1948\u20131999", 
-  "CreditLine": "John B. Turner Fund", 
+  "ArtistBio": "(American, 1948\u20131999)", 
+  "DateAcquired": "1989-01-18", 
+  "\ufeffTitle": "Untitled (Large Tape)", 
   "ObjectID": "60121"
 }

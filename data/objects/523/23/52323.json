@@ -5,8 +5,7 @@
   "Artist": "Barbara Morgan", 
   "URL": "http://www.moma.org/collection/works/52323", 
   "CuratorApproved": "Y", 
-  "Title": "Martha Graham, American Document (\"Puritan Love Duet\" with Eric Hawkins)", 
-  "DateAcquired": "1972-11-21", 
+  "CreditLine": "Gift of the photographer", 
   "Date": "1938", 
   "ArtistID": 4089, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "387.1972", 
-  "ArtistBio": "American, 1900\u20131992", 
-  "CreditLine": "Gift of the photographer", 
+  "ArtistBio": "(American, 1900\u20131992)", 
+  "DateAcquired": "1972-11-21", 
+  "\ufeffTitle": "Martha Graham, American Document (\"Puritan Love Duet\" with Eric Hawkins)", 
   "ObjectID": "52323"
 }

@@ -5,8 +5,7 @@
   "Artist": "Mario Bellini", 
   "URL": "http://www.moma.org/collection/works/1803", 
   "CuratorApproved": "Y", 
-  "Title": "Totem Stereo System with Detachable Speakers (model RR 130)", 
-  "DateAcquired": "1972-04-11", 
+  "CreditLine": "Gift of the manufacturer", 
   "Date": "1970", 
   "ArtistID": 451, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "45.1972", 
-  "ArtistBio": "Italian, born 1935", 
-  "CreditLine": "Gift of the manufacturer", 
+  "ArtistBio": "(Italian, born 1935)", 
+  "DateAcquired": "1972-04-11", 
+  "\ufeffTitle": "Totem Stereo System with Detachable Speakers (model RR 130)", 
   "ObjectID": "1803"
 }

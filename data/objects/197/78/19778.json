@@ -1,12 +1,11 @@
 {
   "Medium": "Artist's book", 
-  "Dimensions": "Overall: 11 15/16\" (30.3 cm)  Sheet: 6 x 6\" (15.2 x 15.2 cm)", 
+  "Dimensions": "Overall: 11 15/16\" (30.3 cm)\r\nSheet: 6 x 6\" (15.2 x 15.2 cm)", 
   "Classification": "Illustrated Book", 
   "Artist": "Sylvia Plimack Mangold", 
   "URL": "http://www.moma.org/collection/works/19778", 
   "CuratorApproved": "Y", 
-  "Title": "Inches and Field", 
-  "DateAcquired": "1998-11-12", 
+  "CreditLine": "Gift of Carolyn Alexander and Ted Bonin", 
   "Date": "1978", 
   "ArtistID": 3724, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "623.1998", 
-  "ArtistBio": "American, born 1938", 
-  "CreditLine": "Gift of Carolyn Alexander and Ted Bonin", 
+  "ArtistBio": "(American, born 1938)", 
+  "DateAcquired": "1998-11-12", 
+  "\ufeffTitle": "Inches and Field", 
   "ObjectID": "19778"
 }

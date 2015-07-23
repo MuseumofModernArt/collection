@@ -1,12 +1,11 @@
 {
   "Medium": "Illustrated book with three drypoints", 
-  "Dimensions": "page (irreg.): 7 1/2 x 5 11/16\" (19 x 14.5 cm); prints: various dimensions  ", 
+  "Dimensions": "page (irreg.): 7 1/2 x 5 11/16\" (19 x 14.5 cm); prints: various dimensions\r\n", 
   "Classification": "Illustrated Book", 
   "Artist": "Wols (A. O. Wolfgang Schulze)", 
   "URL": "http://www.moma.org/collection/works/13432", 
   "CuratorApproved": "Y", 
-  "Title": "Nourritures", 
-  "DateAcquired": "1954-04-06", 
+  "CreditLine": "Gift of Mrs. Bertha M. Slattery", 
   "Date": "1949", 
   "ArtistID": 6432, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "203.1954.1-3", 
-  "ArtistBio": "German, 1913\u20131951", 
-  "CreditLine": "Gift of Mrs. Bertha M. Slattery", 
+  "ArtistBio": "(German, 1913\u20131951)", 
+  "DateAcquired": "1954-04-06", 
+  "\ufeffTitle": "Nourritures", 
   "ObjectID": "13432"
 }

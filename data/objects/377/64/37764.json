@@ -5,8 +5,7 @@
   "Artist": "Jackson Pollock", 
   "URL": "http://www.moma.org/collection/works/37764", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1983-11-04", 
+  "CreditLine": "Gift of Lee Krasner in memory of Jackson Pollock", 
   "Date": "(c. 1938-41)", 
   "ArtistID": 4675, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "665.1983", 
-  "ArtistBio": "American, 1912\u20131956", 
-  "CreditLine": "Gift of Lee Krasner in memory of Jackson Pollock", 
+  "ArtistBio": "(American, 1912\u20131956)", 
+  "DateAcquired": "1983-11-04", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "37764"
 }

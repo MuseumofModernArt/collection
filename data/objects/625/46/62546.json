@@ -5,8 +5,7 @@
   "Artist": "Louise Bourgeois", 
   "URL": "http://www.moma.org/collection/works/62546", 
   "CuratorApproved": "Y", 
-  "Title": "Art is a Guaranty of Sanity, no. 9 of 9, only state, from What is the Shape of this Problem?", 
-  "DateAcquired": "2000-03-02", 
+  "CreditLine": "Gift of the artist", 
   "Date": "1999", 
   "ArtistID": 710, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "135.2000.10a-b", 
-  "ArtistBio": "American, born France. 1911\u20132010", 
-  "CreditLine": "Gift of the artist", 
+  "ArtistBio": "(American, born France. 1911\u20132010)", 
+  "DateAcquired": "2000-03-02", 
+  "\ufeffTitle": "Art is a Guaranty of Sanity, no. 9 of 9, from What is the Shape of this Problem?", 
   "ObjectID": "62546"
 }

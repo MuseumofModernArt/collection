@@ -5,8 +5,7 @@
   "Artist": "Georgi Zelma", 
   "URL": "http://www.moma.org/collection/works/46469", 
   "CuratorApproved": "Y", 
-  "Title": "German Prisoners of War, Stalingrad", 
-  "DateAcquired": "1999-03-11", 
+  "CreditLine": "Gift of Howard Schickler", 
   "Date": "1943", 
   "ArtistID": 7978, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "114.1999", 
-  "ArtistBio": "Russian, 1906\u20131984", 
-  "CreditLine": "Gift of Howard Schickler", 
+  "ArtistBio": "(Russian, 1906\u20131984)", 
+  "DateAcquired": "1999-03-11", 
+  "\ufeffTitle": "German Prisoners of War, Stalingrad", 
   "ObjectID": "46469"
 }

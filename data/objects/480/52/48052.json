@@ -5,8 +5,7 @@
   "Artist": "Cecil Beaton", 
   "URL": "http://www.moma.org/collection/works/48052", 
   "CuratorApproved": "Y", 
-  "Title": "Maria Callas", 
-  "DateAcquired": "1994-03-10", 
+  "CreditLine": "Gift of Thomas Walther", 
   "Date": "1956", 
   "ArtistID": 417, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "188.1994", 
-  "ArtistBio": "British, 1904\u20131980", 
-  "CreditLine": "Gift of Thomas Walther", 
+  "ArtistBio": "(British, 1904\u20131980)", 
+  "DateAcquired": "1994-03-10", 
+  "\ufeffTitle": "Maria Callas", 
   "ObjectID": "48052"
 }

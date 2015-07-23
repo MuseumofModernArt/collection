@@ -5,8 +5,7 @@
   "Artist": "E. McKnight Kauffer", 
   "URL": "http://www.moma.org/collection/works/7092", 
   "CuratorApproved": "Y", 
-  "Title": "Study Success at the Advertising Exhibition", 
-  "DateAcquired": "1939-05-22", 
+  "CreditLine": "Gift of the designer", 
   "Date": "1937", 
   "ArtistID": 3020, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "459.1939", 
-  "ArtistBio": "American, 1890\u20131954", 
-  "CreditLine": "Gift of the designer", 
+  "ArtistBio": "(American, 1890\u20131954)", 
+  "DateAcquired": "1939-05-22", 
+  "\ufeffTitle": "Study Success at the Advertising Exhibition", 
   "ObjectID": "7092"
 }

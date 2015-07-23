@@ -1,12 +1,11 @@
 {
   "Medium": "Etching and lithograph", 
-  "Dimensions": "Composition: 27 1/4 x 38 1/2\" (69.2 x 97.8 cm)  Plate: 27 1/4 x 38 11/16\" (69.2 x 98.2 cm)  Sheet: 31 1/2 x 42 3/16\" (80 x 107.1 cm)", 
+  "Dimensions": "Composition: 27 1/4 x 38 1/2\" (69.2 x 97.8 cm)\r\nPlate: 27 1/4 x 38 11/16\" (69.2 x 98.2 cm)\r\nSheet: 31 1/2 x 42 3/16\" (80 x 107.1 cm)", 
   "Classification": "Print", 
   "Artist": "Markus L\u00fcpertz", 
   "URL": "http://www.moma.org/collection/works/63615", 
   "CuratorApproved": "Y", 
-  "Title": "Landscape #2", 
-  "DateAcquired": "1999-05-20", 
+  "CreditLine": "Walter Bareiss Fund", 
   "Date": "1998", 
   "ArtistID": 3640, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "173.1999", 
-  "ArtistBio": "German, born 1941", 
-  "CreditLine": "Walter Bareiss Fund", 
+  "ArtistBio": "(German, born 1941)", 
+  "DateAcquired": "1999-05-20", 
+  "\ufeffTitle": "Landscape #2", 
   "ObjectID": "63615"
 }

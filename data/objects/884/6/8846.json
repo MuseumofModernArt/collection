@@ -5,8 +5,7 @@
   "Artist": "Klaus Staeck", 
   "URL": "http://www.moma.org/collection/works/8846", 
   "CuratorApproved": "Y", 
-  "Title": "Am Anfang war das Geld", 
-  "DateAcquired": "2000-12-11", 
+  "CreditLine": "Gift of the designer", 
   "Date": "1973", 
   "ArtistID": 8268, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "1549.2000", 
-  "ArtistBio": "German, born 1938", 
-  "CreditLine": "Gift of the designer", 
+  "ArtistBio": "(German, born 1938)", 
+  "DateAcquired": "2000-12-11", 
+  "\ufeffTitle": "Am Anfang war das Geld", 
   "ObjectID": "8846"
 }

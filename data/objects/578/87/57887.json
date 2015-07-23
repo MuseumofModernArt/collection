@@ -5,8 +5,7 @@
   "Artist": "Lisette Model", 
   "URL": "http://www.moma.org/collection/works/57887", 
   "CuratorApproved": "Y", 
-  "Title": "Fashion Show, Hotel Pierre", 
-  "DateAcquired": "1964-11-10", 
+  "CreditLine": "Gift of the photographer", 
   "Date": "1943", 
   "ArtistID": 4036, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "1207.1964", 
-  "ArtistBio": "American, born Austria. 1901\u20131983", 
-  "CreditLine": "Gift of the photographer", 
+  "ArtistBio": "(American, born Austria. 1901\u20131983)", 
+  "DateAcquired": "1964-11-10", 
+  "\ufeffTitle": "Fashion Show, Hotel Pierre", 
   "ObjectID": "57887"
 }

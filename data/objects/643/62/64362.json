@@ -1,12 +1,11 @@
 {
   "Medium": "Series of four woodcuts", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "Gustavo Monroy", 
   "URL": "http://www.moma.org/collection/works/64362", 
   "CuratorApproved": "Y", 
-  "Title": "The Last Supper", 
-  "DateAcquired": "1990-05-02", 
+  "CreditLine": "Riva Castleman Fund", 
   "Date": "1989", 
   "ArtistID": 4061, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "204.1990.1-4", 
-  "ArtistBio": "Mexican, born 1959", 
-  "CreditLine": "Riva Castleman Fund", 
+  "ArtistBio": "(Mexican, born 1959)", 
+  "DateAcquired": "1990-05-02", 
+  "\ufeffTitle": "The Last Supper", 
   "ObjectID": "64362"
 }

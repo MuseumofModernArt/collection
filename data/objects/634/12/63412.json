@@ -1,12 +1,11 @@
 {
   "Medium": "Engraving", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "Tom Otterness", 
   "URL": "http://www.moma.org/collection/works/63412", 
   "CuratorApproved": "Y", 
-  "Title": "Hammer and Fist", 
-  "DateAcquired": "1994-01-25", 
+  "CreditLine": "Gift of Brooke and Carolyn Alexander", 
   "Date": "(1993)", 
   "ArtistID": 4448, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "165.1994", 
-  "ArtistBio": "American, born 1952", 
-  "CreditLine": "Gift of Brooke and Carolyn Alexander", 
+  "ArtistBio": "(American, born 1952)", 
+  "DateAcquired": "1994-01-25", 
+  "\ufeffTitle": "Hammer and Fist", 
   "ObjectID": "63412"
 }

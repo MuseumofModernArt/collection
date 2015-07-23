@@ -5,8 +5,7 @@
   "Artist": "Saul Steinberg", 
   "URL": "http://www.moma.org/collection/works/35035", 
   "CuratorApproved": "Y", 
-  "Title": "Hen", 
-  "DateAcquired": "1945-12-17", 
+  "CreditLine": "Purchase", 
   "Date": "(1945)", 
   "ArtistID": 5627, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "173.1945", 
-  "ArtistBio": "American, born Romania. 1914\u20131999", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, born Romania. 1914\u20131999)", 
+  "DateAcquired": "1945-12-17", 
+  "\ufeffTitle": "Hen", 
   "ObjectID": "35035"
 }

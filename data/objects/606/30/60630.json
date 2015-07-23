@@ -5,8 +5,7 @@
   "Artist": "Carlos Cruz-Diez", 
   "URL": "http://www.moma.org/collection/works/60630", 
   "CuratorApproved": "Y", 
-  "Title": "Transchromies", 
-  "DateAcquired": "1968-02-05", 
+  "CreditLine": "Inter-American Fund", 
   "Date": "(1965)", 
   "ArtistID": 1321, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "37.1968.1-5", 
-  "ArtistBio": "Venezuelan, born 1923", 
-  "CreditLine": "Inter-American Fund", 
+  "ArtistBio": "(Venezuelan, born 1923)", 
+  "DateAcquired": "1968-02-05", 
+  "\ufeffTitle": "Transchromies", 
   "ObjectID": "60630"
 }

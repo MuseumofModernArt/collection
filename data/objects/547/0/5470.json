@@ -5,8 +5,7 @@
   "Artist": "Milton Wynne", 
   "URL": "http://www.moma.org/collection/works/5470", 
   "CuratorApproved": "Y", 
-  "Title": "Time and Tools Influence Art", 
-  "DateAcquired": "1952-05-20", 
+  "CreditLine": "Gift of the artist", 
   "Date": "1949", 
   "ArtistID": 6469, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "171.1952", 
-  "ArtistBio": "American", 
-  "CreditLine": "Gift of the artist", 
+  "ArtistBio": "(American)", 
+  "DateAcquired": "1952-05-20", 
+  "\ufeffTitle": "Time and Tools Influence Art", 
   "ObjectID": "5470"
 }

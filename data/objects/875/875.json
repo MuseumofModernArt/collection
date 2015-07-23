@@ -1,12 +1,11 @@
 {
-  "Medium": ".a: ink and graphite on paper  .b: graphite on paper  .c: graphite and crayon on paper  .d: ink and graphtie on paper  .e: crayon and graphite on paper  .f: graphite on paper", 
+  "Medium": ".a: ink and graphite on paper\r\n.b: graphite on paper\r\n.c: graphite and crayon on paper\r\n.d: ink and graphtie on paper\r\n.e: crayon and graphite on paper\r\n.f: graphite on paper", 
   "Dimensions": "Each: 2 3/8 x 3 5/8\" (6 x 9.2 cm)", 
   "Classification": "A&D Architectural Drawing", 
   "Artist": "Cedric Price", 
   "URL": "http://www.moma.org/collection/works/875", 
   "CuratorApproved": "Y", 
-  "Title": "Generator Project, White Oak, Florida  Plan and perspective sketches", 
-  "DateAcquired": "NULL", 
+  "CreditLine": "Gift of The Howard Gilman Foundation", 
   "Date": "1978-80", 
   "ArtistID": 7986, 
   "Keywords": [
@@ -20,7 +19,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "1259.2000.a-f", 
-  "ArtistBio": "British, 1934\u20132003", 
-  "CreditLine": "Gift of The Howard Gilman Foundation", 
+  "ArtistBio": "(British, 1934\u20132003)", 
+  "DateAcquired": "", 
+  "\ufeffTitle": "Generator Project, White Oak, Florida, Plan and perspective sketches", 
   "ObjectID": "875"
 }

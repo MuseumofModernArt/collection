@@ -1,12 +1,11 @@
 {
   "Medium": "Woodcut", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "Nicholas Sperakis", 
   "URL": "http://www.moma.org/collection/works/64699", 
   "CuratorApproved": "Y", 
-  "Title": "The Cannon Song", 
-  "DateAcquired": "1990-05-02", 
+  "CreditLine": "Gift of Elizabeth Russell and Jeff", 
   "Date": "(1988)", 
   "ArtistID": 5563, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "223.1990", 
-  "ArtistBio": "American, born 1943", 
-  "CreditLine": "Gift of Elizabeth Russell and Jeff", 
+  "ArtistBio": "(American, born 1943)", 
+  "DateAcquired": "1990-05-02", 
+  "\ufeffTitle": "The Cannon Song", 
   "ObjectID": "64699"
 }

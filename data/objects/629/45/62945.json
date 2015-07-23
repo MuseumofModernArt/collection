@@ -1,12 +1,11 @@
 {
   "Medium": "Woodcut", 
-  "Dimensions": "irreg composition  23 7/8 x 15\" (60.7 x 38.1 cm)  sheet  26 11/16 x 16 5/16\" (67.8 x 41.4 cm)", 
+  "Dimensions": "irreg composition  23 7/8 x 15\" (60.7 x 38.1 cm)\r\nsheet  26 11/16 x 16 5/16\" (67.8 x 41.4 cm)", 
   "Classification": "Print", 
   "Artist": "Richard Bosman", 
   "URL": "http://www.moma.org/collection/works/62945", 
   "CuratorApproved": "Y", 
-  "Title": "Man Overboard", 
-  "DateAcquired": "1981-05-06", 
+  "CreditLine": "Gift of Barbara B. Toole (through the Associates of the Department of Prints and Illustrated Books)", 
   "Date": "(1981)", 
   "ArtistID": 689, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "144.1981", 
-  "ArtistBio": "Australian, born 1944", 
-  "CreditLine": "Gift of Barbara B. Toole (through the Associates of the Department of Prints and Illustrated Books)", 
+  "ArtistBio": "(Australian, born 1944)", 
+  "DateAcquired": "1981-05-06", 
+  "\ufeffTitle": "Man Overboard", 
   "ObjectID": "62945"
 }

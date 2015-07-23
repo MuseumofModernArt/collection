@@ -5,8 +5,7 @@
   "Artist": "Georg Scholz", 
   "URL": "http://www.moma.org/collection/works/66558", 
   "CuratorApproved": "Y", 
-  "Title": "Profiteering Farmer's Family", 
-  "DateAcquired": "1952-11-07", 
+  "CreditLine": "Gift of Mrs. Bertha M. Slattery", 
   "Date": "1920", 
   "ArtistID": 5260, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "307.1952", 
-  "ArtistBio": "German, 1890\u20131945", 
-  "CreditLine": "Gift of Mrs. Bertha M. Slattery", 
+  "ArtistBio": "(German, 1890\u20131945)", 
+  "DateAcquired": "1952-11-07", 
+  "\ufeffTitle": "Profiteering Farmer's Family (Wucherbauernfamilie)", 
   "ObjectID": "66558"
 }

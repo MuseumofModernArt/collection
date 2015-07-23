@@ -1,12 +1,11 @@
 {
   "Medium": "Gum platinum print", 
-  "Dimensions": "9 1/4 x 12 3/8\" (23.5 x 31.4 cm)  ", 
+  "Dimensions": "9 1/4 x 12 3/8\" (23.5 x 31.4 cm)\r\n", 
   "Classification": "Photograph", 
   "Artist": "Gertrude K\u00e4sebier", 
   "URL": "http://www.moma.org/collection/works/57858", 
   "CuratorApproved": "Y", 
-  "Title": "The Heritage of Motherhood", 
-  "DateAcquired": "1964-11-10", 
+  "CreditLine": "Gift of Mrs. Hermine M. Turner", 
   "Date": "1904", 
   "ArtistID": 3008, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "1197.1964", 
-  "ArtistBio": "American, 1852\u20131934", 
-  "CreditLine": "Gift of Mrs. Hermine M. Turner", 
+  "ArtistBio": "(American, 1852\u20131934)", 
+  "DateAcquired": "1964-11-10", 
+  "\ufeffTitle": "The Heritage of Motherhood", 
   "ObjectID": "57858"
 }

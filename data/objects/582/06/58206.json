@@ -5,8 +5,7 @@
   "Artist": "Nadar (Gaspard-F\u00e9lix Tournachon)", 
   "URL": "http://www.moma.org/collection/works/58206", 
   "CuratorApproved": "Y", 
-  "Title": "Victor Hugo", 
-  "DateAcquired": "1968-11-06", 
+  "CreditLine": "Gift of Ralph Culpepper", 
   "Date": "c. 1870", 
   "ArtistID": 4196, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "1483.1968", 
-  "ArtistBio": "French, 1820\u20131910", 
-  "CreditLine": "Gift of Ralph Culpepper", 
+  "ArtistBio": "(French, 1820\u20131910)", 
+  "DateAcquired": "1968-11-06", 
+  "\ufeffTitle": "Victor Hugo", 
   "ObjectID": "58206"
 }

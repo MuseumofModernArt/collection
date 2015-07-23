@@ -5,8 +5,7 @@
   "Artist": "Unknown photographer", 
   "URL": "http://www.moma.org/collection/works/45711", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1974-01-29", 
+  "CreditLine": "Gift of Celeste Bartos", 
   "Date": "c. 1860", 
   "ArtistID": 6028, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "75.1974", 
-  "ArtistBio": "NULL", 
-  "CreditLine": "Gift of Celeste Bartos", 
+  "ArtistBio": "", 
+  "DateAcquired": "1974-01-29", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "45711"
 }

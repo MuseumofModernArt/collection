@@ -5,8 +5,7 @@
   "Artist": "Roy Lichtenstein", 
   "URL": "http://www.moma.org/collection/works/67426", 
   "CuratorApproved": "Y", 
-  "Title": "Bull Profile Series", 
-  "DateAcquired": "1973-10-24", 
+  "CreditLine": "Purchase", 
   "Date": "1973", 
   "ArtistID": 3542, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "348.1973.1-6", 
-  "ArtistBio": "American, 1923\u20131997", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, 1923\u20131997)", 
+  "DateAcquired": "1973-10-24", 
+  "\ufeffTitle": "Bull Profile Series", 
   "ObjectID": "67426"
 }

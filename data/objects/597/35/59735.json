@@ -5,8 +5,7 @@
   "Artist": "Gerald Gooch", 
   "URL": "http://www.moma.org/collection/works/59735", 
   "CuratorApproved": "Y", 
-  "Title": "My Cup Runneth Over", 
-  "DateAcquired": "1972-02-07", 
+  "CreditLine": "John B. Turner Fund", 
   "Date": "1968", 
   "ArtistID": 2234, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "8.1972.1-7", 
-  "ArtistBio": "American, born 1933", 
-  "CreditLine": "John B. Turner Fund", 
+  "ArtistBio": "(American, born 1933)", 
+  "DateAcquired": "1972-02-07", 
+  "\ufeffTitle": "My Cup Runneth Over", 
   "ObjectID": "59735"
 }

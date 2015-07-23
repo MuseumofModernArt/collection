@@ -5,8 +5,7 @@
   "Artist": "Otto Dix", 
   "URL": "http://www.moma.org/collection/works/37043", 
   "CuratorApproved": "Y", 
-  "Title": "Beautiful Mally", 
-  "DateAcquired": "1967-06-06", 
+  "CreditLine": "John S. Newberry Fund", 
   "Date": "1920", 
   "ArtistID": 1559, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "464.1967", 
-  "ArtistBio": "German, 1891\u20131969", 
-  "CreditLine": "John S. Newberry Fund", 
+  "ArtistBio": "(German, 1891\u20131969)", 
+  "DateAcquired": "1967-06-06", 
+  "\ufeffTitle": "Beautiful Mally (Die sch\u00f6ne Mally)", 
   "ObjectID": "37043"
 }

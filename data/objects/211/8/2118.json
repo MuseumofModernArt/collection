@@ -5,8 +5,7 @@
   "Artist": "Unknown Designer", 
   "URL": "http://www.moma.org/collection/works/2118", 
   "CuratorApproved": "Y", 
-  "Title": "Inkstand", 
-  "DateAcquired": "1957-05-15", 
+  "CreditLine": "Phyllis B. Lambert Fund", 
   "Date": "c. 1900", 
   "ArtistID": 6011, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "104.1957.a-b", 
-  "ArtistBio": "Nationality unknown", 
-  "CreditLine": "Phyllis B. Lambert Fund", 
+  "ArtistBio": "(Nationality unknown)", 
+  "DateAcquired": "1957-05-15", 
+  "\ufeffTitle": "Inkstand", 
   "ObjectID": "2118"
 }

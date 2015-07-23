@@ -5,8 +5,7 @@
   "Artist": "Henri Matisse", 
   "URL": "http://www.moma.org/collection/works/7179", 
   "CuratorApproved": "Y", 
-  "Title": "Henri Matisse, Jazz", 
-  "DateAcquired": "1951-05-24", 
+  "CreditLine": "Gift of William S. Lieberman", 
   "Date": "1947", 
   "ArtistID": 3832, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "478.1951", 
-  "ArtistBio": "French, 1869\u20131954", 
-  "CreditLine": "Gift of William S. Lieberman", 
+  "ArtistBio": "(French, 1869\u20131954)", 
+  "DateAcquired": "1951-05-24", 
+  "\ufeffTitle": "Henri Matisse, Jazz", 
   "ObjectID": "7179"
 }

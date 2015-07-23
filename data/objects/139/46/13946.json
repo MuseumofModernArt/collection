@@ -5,8 +5,7 @@
   "Artist": "Jos\u00e9 Luis Cuevas", 
   "URL": "http://www.moma.org/collection/works/13946", 
   "CuratorApproved": "Y", 
-  "Title": "In-text plate (folio 7) from Recollections of Childhood", 
-  "DateAcquired": "1963-04-09", 
+  "CreditLine": "Inter-American Fund", 
   "Date": "1962", 
   "ArtistID": 1325, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "225.1963.4", 
-  "ArtistBio": "Mexican, born 1934", 
-  "CreditLine": "Inter-American Fund", 
+  "ArtistBio": "(Mexican, born 1934)", 
+  "DateAcquired": "1963-04-09", 
+  "\ufeffTitle": "In-text plate from the illustrated book Recollections of Childhood", 
   "ObjectID": "13946"
 }

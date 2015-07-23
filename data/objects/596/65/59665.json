@@ -1,12 +1,11 @@
 {
   "Medium": "Fourteen lithographs", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "Jasper Johns", 
   "URL": "http://www.moma.org/collection/works/59665", 
   "CuratorApproved": "Y", 
-  "Title": "Proofs for Decoy II", 
-  "DateAcquired": "1987-01-15", 
+  "CreditLine": "Gift of the artist", 
   "Date": "1973", 
   "ArtistID": 2923, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "5.1987.a-b", 
-  "ArtistBio": "American, born 1930", 
-  "CreditLine": "Gift of the artist", 
+  "ArtistBio": "(American, born 1930)", 
+  "DateAcquired": "1987-01-15", 
+  "\ufeffTitle": "Proofs for Decoy II", 
   "ObjectID": "59665"
 }

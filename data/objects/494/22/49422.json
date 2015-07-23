@@ -5,8 +5,7 @@
   "Artist": "Aaron Siskind", 
   "URL": "http://www.moma.org/collection/works/49422", 
   "CuratorApproved": "Y", 
-  "Title": "Rome, Arch of Constantine 3", 
-  "DateAcquired": "1979-05-10", 
+  "CreditLine": "Gift of Robert and Joyce Menschel", 
   "Date": "1967", 
   "ArtistID": 5456, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "242.1979", 
-  "ArtistBio": "American, 1903\u20131991", 
-  "CreditLine": "Gift of Robert and Joyce Menschel", 
+  "ArtistBio": "(American, 1903\u20131991)", 
+  "DateAcquired": "1979-05-10", 
+  "\ufeffTitle": "Rome, Arch of Constantine 3", 
   "ObjectID": "49422"
 }

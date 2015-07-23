@@ -5,8 +5,7 @@
   "Artist": "Hans Purrmann", 
   "URL": "http://www.moma.org/collection/works/37581", 
   "CuratorApproved": "Y", 
-  "Title": "Reclining Nude", 
-  "DateAcquired": "1964-10-06", 
+  "CreditLine": "Gift of Dr. Christopher Tietze", 
   "Date": "1906", 
   "ArtistID": 4755, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "610.1964", 
-  "ArtistBio": "German, 1880\u20131966", 
-  "CreditLine": "Gift of Dr. Christopher Tietze", 
+  "ArtistBio": "(German, 1880\u20131966)", 
+  "DateAcquired": "1964-10-06", 
+  "\ufeffTitle": "Reclining Nude", 
   "ObjectID": "37581"
 }

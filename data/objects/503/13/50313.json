@@ -5,8 +5,7 @@
   "Artist": "Philip-Lorca diCorcia", 
   "URL": "http://www.moma.org/collection/works/50313", 
   "CuratorApproved": "Y", 
-  "Title": "Joe Whitman; 24 Years Old; Los Angeles, California ; $25", 
-  "DateAcquired": "1993-10-14", 
+  "CreditLine": "Gift of the photographer", 
   "Date": "1990-92", 
   "ArtistID": 7027, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "305.1993.x1-x2", 
-  "ArtistBio": "American, born 1951", 
-  "CreditLine": "Gift of the photographer", 
+  "ArtistBio": "(American, born 1951)", 
+  "DateAcquired": "1993-10-14", 
+  "\ufeffTitle": "Joe Whitman; 24 Years Old; Los Angeles, California ; $25", 
   "ObjectID": "50313"
 }

@@ -5,8 +5,7 @@
   "Artist": "Rafal Olbinski", 
   "URL": "http://www.moma.org/collection/works/7832", 
   "CuratorApproved": "Y", 
-  "Title": "Cyrk", 
-  "DateAcquired": "1981-12-10", 
+  "CreditLine": "Peter Stone Poster Fund", 
   "Date": "1979-81", 
   "ArtistID": 4393, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "641.1981", 
-  "ArtistBio": "Polish, born 1945", 
-  "CreditLine": "Peter Stone Poster Fund", 
+  "ArtistBio": "(Polish, born 1945)", 
+  "DateAcquired": "1981-12-10", 
+  "\ufeffTitle": "Cyrk", 
   "ObjectID": "7832"
 }

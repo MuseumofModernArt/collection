@@ -5,8 +5,7 @@
   "Artist": "J. Thomas Zetterstrom", 
   "URL": "http://www.moma.org/collection/works/52574", 
   "CuratorApproved": "Y", 
-  "Title": "Wetlands", 
-  "DateAcquired": "1978-05-11", 
+  "CreditLine": "Gift of the photographer", 
   "Date": "1977", 
   "ArtistID": 6565, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "398.1978", 
-  "ArtistBio": "American, born 1945", 
-  "CreditLine": "Gift of the photographer", 
+  "ArtistBio": "(American, born 1945)", 
+  "DateAcquired": "1978-05-11", 
+  "\ufeffTitle": "Wetlands", 
   "ObjectID": "52574"
 }

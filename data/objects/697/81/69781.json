@@ -1,12 +1,11 @@
 {
   "Medium": "Lithograph", 
-  "Dimensions": "irreg composition  15 9/16 x 21 3/8\" (39.6 x 54.3 cm)  sheet  22 1/4 x 30 1/8\" (56 x 76.5 cm)", 
+  "Dimensions": "irreg composition  15 9/16 x 21 3/8\" (39.6 x 54.3 cm)\r\nsheet  22 1/4 x 30 1/8\" (56 x 76.5 cm)", 
   "Classification": "Print", 
   "Artist": "Claes Oldenburg", 
   "URL": "http://www.moma.org/collection/works/69781", 
   "CuratorApproved": "Y", 
-  "Title": "Flying Pizza for the portfolio New York Ten", 
-  "DateAcquired": "1987-01-15", 
+  "CreditLine": "Gift of Dr. and Mrs. Aaron H. Esman", 
   "Date": "(1964)", 
   "ArtistID": 4397, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "478.1986", 
-  "ArtistBio": "American, born Sweden 1929", 
-  "CreditLine": "Gift of Dr. and Mrs. Aaron H. Esman", 
+  "ArtistBio": "(American, born Sweden 1929)", 
+  "DateAcquired": "1987-01-15", 
+  "\ufeffTitle": "Flying Pizza for the portfolio New York Ten", 
   "ObjectID": "69781"
 }

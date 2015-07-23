@@ -5,8 +5,7 @@
   "Artist": "Jean Cocteau", 
   "URL": "http://www.moma.org/collection/works/38634", 
   "CuratorApproved": "Y", 
-  "Title": "Glenway Wescott", 
-  "DateAcquired": "1968-12-11", 
+  "CreditLine": "Gift of Monroe Wheeler", 
   "Date": "1926", 
   "ArtistID": 1168, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "1526.1968", 
-  "ArtistBio": "French, 1889\u20131963", 
-  "CreditLine": "Gift of Monroe Wheeler", 
+  "ArtistBio": "(French, 1889\u20131963)", 
+  "DateAcquired": "1968-12-11", 
+  "\ufeffTitle": "Glenway Wescott", 
   "ObjectID": "38634"
 }

@@ -5,8 +5,7 @@
   "Artist": "Karl Schrag", 
   "URL": "http://www.moma.org/collection/works/63228", 
   "CuratorApproved": "Y", 
-  "Title": "Self Portrait with White Cap", 
-  "DateAcquired": "1975-05-09", 
+  "CreditLine": "Gift of the artist", 
   "Date": "1972", 
   "ArtistID": 5268, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "148.1975", 
-  "ArtistBio": "American, born 1912", 
-  "CreditLine": "Gift of the artist", 
+  "ArtistBio": "(American, born 1912)", 
+  "DateAcquired": "1975-05-09", 
+  "\ufeffTitle": "Self Portrait with White Cap", 
   "ObjectID": "63228"
 }

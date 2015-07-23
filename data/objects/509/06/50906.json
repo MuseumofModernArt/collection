@@ -1,12 +1,11 @@
 {
   "Medium": "Albumen silver print", 
-  "Dimensions": "10 1/2 x 8 5/8\" (26.7 x 21.9 cm)  ", 
+  "Dimensions": "10 1/2 x 8 5/8\" (26.7 x 21.9 cm)\r\n", 
   "Classification": "Photograph", 
   "Artist": "Julia Margaret Cameron", 
   "URL": "http://www.moma.org/collection/works/50906", 
   "CuratorApproved": "Y", 
-  "Title": "Madonna with Children", 
-  "DateAcquired": "1968-01-10", 
+  "CreditLine": "Gift of Shirley C. Burden", 
   "Date": "1864", 
   "ArtistID": 932, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "328.1968", 
-  "ArtistBio": "British, 1815\u20131879", 
-  "CreditLine": "Gift of Shirley C. Burden", 
+  "ArtistBio": "(British, 1815\u20131879)", 
+  "DateAcquired": "1968-01-10", 
+  "\ufeffTitle": "Madonna with Children", 
   "ObjectID": "50906"
 }

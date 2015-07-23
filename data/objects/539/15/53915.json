@@ -5,8 +5,7 @@
   "Artist": "Hans Hammarskiold", 
   "URL": "http://www.moma.org/collection/works/53915", 
   "CuratorApproved": "Y", 
-  "Title": "Park by Chiswick House, London", 
-  "DateAcquired": "1960-11-30", 
+  "CreditLine": "Gift of the photographer", 
   "Date": "1938-60", 
   "ArtistID": 2482, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "468.1960", 
-  "ArtistBio": "Swedish, 1925\u20132012", 
-  "CreditLine": "Gift of the photographer", 
+  "ArtistBio": "(Swedish, 1925\u20132012)", 
+  "DateAcquired": "1960-11-30", 
+  "\ufeffTitle": "Park by Chiswick House, London", 
   "ObjectID": "53915"
 }

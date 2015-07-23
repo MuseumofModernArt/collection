@@ -5,8 +5,7 @@
   "Artist": "Pierre Bonnard", 
   "URL": "http://www.moma.org/collection/works/64616", 
   "CuratorApproved": "Y", 
-  "Title": "Portrait of Auguste Renoir (Portrait de Renoir)", 
-  "DateAcquired": "1951-05-24", 
+  "CreditLine": "Purchase", 
   "Date": "(c. 1914)  (c. 1916)", 
   "ArtistID": 665, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "219.1951", 
-  "ArtistBio": "French, 1867\u20131947", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(French, 1867\u20131947)", 
+  "DateAcquired": "1951-05-24", 
+  "\ufeffTitle": "Portrait of Auguste Renoir (Portrait de Renoir)", 
   "ObjectID": "64616"
 }

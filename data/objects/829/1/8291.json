@@ -5,8 +5,7 @@
   "Artist": "Zdenek Rossmann", 
   "URL": "http://www.moma.org/collection/works/8291", 
   "CuratorApproved": "Y", 
-  "Title": "Graficke schema pro konstrukci pisma", 
-  "DateAcquired": "1999-12-10", 
+  "CreditLine": "Jan Tschichold Collection, Gift of Philip Johnson", 
   "Date": "1934", 
   "ArtistID": 8254, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "867.1999", 
-  "ArtistBio": "Czech, 1905\u20131984", 
-  "CreditLine": "Jan Tschichold Collection, Gift of Philip Johnson", 
+  "ArtistBio": "(Czech, 1905\u20131984)", 
+  "DateAcquired": "1999-12-10", 
+  "\ufeffTitle": "Graficke schema pro konstrukci pisma", 
   "ObjectID": "8291"
 }

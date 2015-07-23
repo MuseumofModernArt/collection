@@ -5,8 +5,7 @@
   "Artist": "Zeke Berman", 
   "URL": "http://www.moma.org/collection/works/49883", 
   "CuratorApproved": "Y", 
-  "Title": "Still Life with Spill", 
-  "DateAcquired": "1982-10-28", 
+  "CreditLine": "Purchase", 
   "Date": "1979", 
   "ArtistID": 506, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "277.1982", 
-  "ArtistBio": "American, born 1951", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, born 1951)", 
+  "DateAcquired": "1982-10-28", 
+  "\ufeffTitle": "Still Life with Spill", 
   "ObjectID": "49883"
 }

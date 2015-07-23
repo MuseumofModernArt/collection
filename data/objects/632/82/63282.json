@@ -1,12 +1,11 @@
 {
   "Medium": "Lithograph", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "Alexander Kosolopov", 
   "URL": "http://www.moma.org/collection/works/63282", 
   "CuratorApproved": "Y", 
-  "Title": "The Caviar", 
-  "DateAcquired": "1994-01-25", 
+  "CreditLine": "Linda B. Goldstein Fund", 
   "Date": "1991", 
   "ArtistID": 7120, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "159.1994", 
-  "ArtistBio": "Russian, born 1943", 
-  "CreditLine": "Linda B. Goldstein Fund", 
+  "ArtistBio": "(Russian, born 1943)", 
+  "DateAcquired": "1994-01-25", 
+  "\ufeffTitle": "The Caviar", 
   "ObjectID": "63282"
 }

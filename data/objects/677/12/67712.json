@@ -5,8 +5,7 @@
   "Artist": "Pablo Picasso", 
   "URL": "http://www.moma.org/collection/works/67712", 
   "CuratorApproved": "Y", 
-  "Title": "Head of a Young Woman (T\u00eate de jeune femme)", 
-  "DateAcquired": "1951-05-24", 
+  "CreditLine": "Gift of Jeanne and Jack Schonberg in memory of Morton H. Spero", 
   "Date": "(June 24, 1947)", 
   "ArtistID": 4609, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "362.1951", 
-  "ArtistBio": "Spanish, 1881\u20131973", 
-  "CreditLine": "Gift of Jeanne and Jack Schonberg in memory of Morton H. Spero", 
+  "ArtistBio": "(Spanish, 1881\u20131973)", 
+  "DateAcquired": "1951-05-24", 
+  "\ufeffTitle": "Head of a Young Woman (T\u00eate de jeune femme)", 
   "ObjectID": "67712"
 }

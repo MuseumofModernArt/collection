@@ -1,12 +1,11 @@
 {
   "Medium": "Linoleum cut", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "J\u00f6rg Immendorff", 
   "URL": "http://www.moma.org/collection/works/64599", 
   "CuratorApproved": "Y", 
-  "Title": "Caf\u00e9 de Flore", 
-  "DateAcquired": "1997-05-28", 
+  "CreditLine": "Frances Keech Fund", 
   "Date": "1991", 
   "ArtistID": 2807, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "217.1997", 
-  "ArtistBio": "German, 1945\u20132007", 
-  "CreditLine": "Frances Keech Fund", 
+  "ArtistBio": "(German, 1945\u20132007)", 
+  "DateAcquired": "1997-05-28", 
+  "\ufeffTitle": "Caf\u00e9 de Flore", 
   "ObjectID": "64599"
 }

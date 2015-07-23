@@ -5,8 +5,7 @@
   "Artist": "Jean Cocteau", 
   "URL": "http://www.moma.org/collection/works/36452", 
   "CuratorApproved": "Y", 
-  "Title": "Orpheus, Scene from the Ballet", 
-  "DateAcquired": "1949-09-29", 
+  "CreditLine": "Gift of John Pratt", 
   "Date": "(n.d.)", 
   "ArtistID": 1168, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "334.1949", 
-  "ArtistBio": "French, 1889\u20131963", 
-  "CreditLine": "Gift of John Pratt", 
+  "ArtistBio": "(French, 1889\u20131963)", 
+  "DateAcquired": "1949-09-29", 
+  "\ufeffTitle": "Orpheus, Scene from the Ballet", 
   "ObjectID": "36452"
 }

@@ -5,8 +5,7 @@
   "Artist": "John Divola", 
   "URL": "http://www.moma.org/collection/works/47963", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled from the series Vandalism", 
-  "DateAcquired": "1975-05-14", 
+  "CreditLine": "Purchase", 
   "Date": "1974", 
   "ArtistID": 1558, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "185.1975", 
-  "ArtistBio": "American, born 1949", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, born 1949)", 
+  "DateAcquired": "1975-05-14", 
+  "\ufeffTitle": "Untitled from the series Vandalism", 
   "ObjectID": "47963"
 }

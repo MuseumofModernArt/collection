@@ -5,8 +5,7 @@
   "Artist": "Gerhard Richter", 
   "URL": "http://www.moma.org/collection/works/33518", 
   "CuratorApproved": "Y", 
-  "Title": "G.A.5 (17.1.84)", 
-  "DateAcquired": "1985-03-08", 
+  "CreditLine": "Gift of R.L.B. Tobin", 
   "Date": "1984", 
   "ArtistID": 4907, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "49.1985.5", 
-  "ArtistBio": "German, born 1932", 
-  "CreditLine": "Gift of R.L.B. Tobin", 
+  "ArtistBio": "(German, born 1932)", 
+  "DateAcquired": "1985-03-08", 
+  "\ufeffTitle": "G.A.5 (17.1.84)", 
   "ObjectID": "33518"
 }

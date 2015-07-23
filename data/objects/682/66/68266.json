@@ -5,8 +5,7 @@
   "Artist": "Zarina", 
   "URL": "http://www.moma.org/collection/works/68266", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1974-09-11", 
+  "CreditLine": "Gift of Alexandra C. Anderson", 
   "Date": "1971", 
   "ArtistID": 6549, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "387.1974", 
-  "ArtistBio": "American, born India 1937", 
-  "CreditLine": "Gift of Alexandra C. Anderson", 
+  "ArtistBio": "(American, born India 1937)", 
+  "DateAcquired": "1974-09-11", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "68266"
 }

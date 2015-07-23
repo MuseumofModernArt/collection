@@ -5,8 +5,7 @@
   "Artist": "Gustav Klimt", 
   "URL": "http://www.moma.org/collection/works/38149", 
   "CuratorApproved": "Y", 
-  "Title": "Reclining Woman", 
-  "DateAcquired": "1969-10-28", 
+  "CreditLine": "Gift of Mrs. Gertrud A. Mellon", 
   "Date": "(1912-13)", 
   "ArtistID": 3147, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "828.1969", 
-  "ArtistBio": "Austrian, 1862\u20131918", 
-  "CreditLine": "Gift of Mrs. Gertrud A. Mellon", 
+  "ArtistBio": "(Austrian, 1862\u20131918)", 
+  "DateAcquired": "1969-10-28", 
+  "\ufeffTitle": "Reclining Woman (Liegender Halbakt nach rechts)", 
   "ObjectID": "38149"
 }

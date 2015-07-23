@@ -5,8 +5,7 @@
   "Artist": "JoAnn Verburg", 
   "URL": "http://www.moma.org/collection/works/48272", 
   "CuratorApproved": "Y", 
-  "Title": "With Michael and John in Minnesota", 
-  "DateAcquired": "1983-01-13", 
+  "CreditLine": "Purchase", 
   "Date": "1982", 
   "ArtistID": 6134, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "197.1983.a-c", 
-  "ArtistBio": "American, born 1950", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, born 1950)", 
+  "DateAcquired": "1983-01-13", 
+  "\ufeffTitle": "With Michael and John in Minnesota", 
   "ObjectID": "48272"
 }

@@ -5,8 +5,7 @@
   "Artist": "Lois Conner", 
   "URL": "http://www.moma.org/collection/works/50242", 
   "CuratorApproved": "Y", 
-  "Title": "Kunming, China", 
-  "DateAcquired": "1993-10-14", 
+  "CreditLine": "Bequest of Arthur M. Bullowa", 
   "Date": "1985", 
   "ArtistID": 6616, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "301.1993", 
-  "ArtistBio": "American, born 1951", 
-  "CreditLine": "Bequest of Arthur M. Bullowa", 
+  "ArtistBio": "(American, born 1951)", 
+  "DateAcquired": "1993-10-14", 
+  "\ufeffTitle": "Kunming, China", 
   "ObjectID": "50242"
 }

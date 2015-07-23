@@ -5,8 +5,7 @@
   "Artist": "Ernst Keller", 
   "URL": "http://www.moma.org/collection/works/8310", 
   "CuratorApproved": "Y", 
-  "Title": "M\u00f6bel Wettbewerb fuer die Ausstellung \"Das Neue Heim\"", 
-  "DateAcquired": "1979-05-30", 
+  "CreditLine": "Purchase", 
   "Date": "1928", 
   "ArtistID": 3041, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "877.1979", 
-  "ArtistBio": "Swiss, 1891\u20131968", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(Swiss, 1891\u20131968)", 
+  "DateAcquired": "1979-05-30", 
+  "\ufeffTitle": "M\u00f6bel Wettbewerb fuer die Ausstellung \"Das Neue Heim\"", 
   "ObjectID": "8310"
 }

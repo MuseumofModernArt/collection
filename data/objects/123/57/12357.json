@@ -5,8 +5,7 @@
   "Artist": "Agnes Denes", 
   "URL": "http://www.moma.org/collection/works/12357", 
   "CuratorApproved": "Y", 
-  "Title": "Fragmentation", 
-  "DateAcquired": "1999-05-20", 
+  "CreditLine": "Gift of Agnes Gund and Daniel Shapiro", 
   "Date": "1998", 
   "ArtistID": 1491, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "158.1999", 
-  "ArtistBio": "American, born 1931", 
-  "CreditLine": "Gift of Agnes Gund and Daniel Shapiro", 
+  "ArtistBio": "(American, born 1931)", 
+  "DateAcquired": "1999-05-20", 
+  "\ufeffTitle": "Fragmentation", 
   "ObjectID": "12357"
 }

@@ -5,8 +5,7 @@
   "Artist": "Lee Friedlander", 
   "URL": "http://www.moma.org/collection/works/59343", 
   "CuratorApproved": "Y", 
-  "Title": "England", 
-  "DateAcquired": "2011-05-18", 
+  "CreditLine": "Gift of Howard Stein", 
   "Date": "1964", 
   "ArtistID": 2002, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "417.2011", 
-  "ArtistBio": "American, born 1934", 
-  "CreditLine": "Gift of Howard Stein", 
+  "ArtistBio": "(American, born 1934)", 
+  "DateAcquired": "2011-05-18", 
+  "\ufeffTitle": "England", 
   "ObjectID": "59343"
 }

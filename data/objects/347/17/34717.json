@@ -5,8 +5,7 @@
   "Artist": "Guillermo Meza", 
   "URL": "http://www.moma.org/collection/works/34717", 
   "CuratorApproved": "Y", 
-  "Title": "Polyphemus", 
-  "DateAcquired": "1944-09-27", 
+  "CreditLine": "Inter-American Fund", 
   "Date": "(1941)", 
   "ArtistID": 3960, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "144.1944", 
-  "ArtistBio": "Mexican, 1917\u20131997", 
-  "CreditLine": "Inter-American Fund", 
+  "ArtistBio": "(Mexican, 1917\u20131997)", 
+  "DateAcquired": "1944-09-27", 
+  "\ufeffTitle": "Polyphemus", 
   "ObjectID": "34717"
 }

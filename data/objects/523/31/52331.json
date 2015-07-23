@@ -5,8 +5,7 @@
   "Artist": "Philippe Halsman", 
   "URL": "http://www.moma.org/collection/works/52331", 
   "CuratorApproved": "Y", 
-  "Title": "Marilyn Monroe", 
-  "DateAcquired": "1997-10-09", 
+  "CreditLine": "Christie Calder Salomon Fund", 
   "Date": "1952", 
   "ArtistID": 2470, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "387.1997", 
-  "ArtistBio": "American, born Latvia. 1906\u20131979", 
-  "CreditLine": "Christie Calder Salomon Fund", 
+  "ArtistBio": "(American, born Latvia. 1906\u20131979)", 
+  "DateAcquired": "1997-10-09", 
+  "\ufeffTitle": "Marilyn Monroe", 
   "ObjectID": "52331"
 }

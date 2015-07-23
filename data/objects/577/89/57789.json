@@ -5,8 +5,7 @@
   "Artist": "Abelardo Morell", 
   "URL": "http://www.moma.org/collection/works/57789", 
   "CuratorApproved": "Y", 
-  "Title": "Three Dictionaries", 
-  "DateAcquired": "2000-10-12", 
+  "CreditLine": "Gift of the photographer", 
   "Date": "2000", 
   "ArtistID": 6917, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "1175.2000", 
-  "ArtistBio": "American, born Cuba 1948", 
-  "CreditLine": "Gift of the photographer", 
+  "ArtistBio": "(American, born Cuba 1948)", 
+  "DateAcquired": "2000-10-12", 
+  "\ufeffTitle": "Three Dictionaries", 
   "ObjectID": "57789"
 }

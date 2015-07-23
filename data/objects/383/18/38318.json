@@ -5,8 +5,7 @@
   "Artist": "Georges M\u00e9li\u00e8s", 
   "URL": "http://www.moma.org/collection/works/38318", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled sketch for A Trip to the Moon", 
-  "DateAcquired": "1965-12-07", 
+  "CreditLine": "Transferred from the Film Library", 
   "Date": "(1902)", 
   "ArtistID": 3918, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "944.1965", 
-  "ArtistBio": "French, 1861\u20131938", 
-  "CreditLine": "Transferred from the Film Library", 
+  "ArtistBio": "(French, 1861\u20131938)", 
+  "DateAcquired": "1965-12-07", 
+  "\ufeffTitle": "Untitled sketch for A Trip to the Moon", 
   "ObjectID": "38318"
 }

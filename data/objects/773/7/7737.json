@@ -5,8 +5,7 @@
   "Artist": "Piet Zwart", 
   "URL": "http://www.moma.org/collection/works/7737", 
   "CuratorApproved": "Y", 
-  "Title": "Nutter Uit Noten Bereid", 
-  "DateAcquired": "1977-11-28", 
+  "CreditLine": "Jan Tschichold Collection, Gift of Philip Johnson", 
   "Date": "c. 1923", 
   "ArtistID": 6592, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "611.1977", 
-  "ArtistBio": "Dutch, 1885\u20131977", 
-  "CreditLine": "Jan Tschichold Collection, Gift of Philip Johnson", 
+  "ArtistBio": "(Dutch, 1885\u20131977)", 
+  "DateAcquired": "1977-11-28", 
+  "\ufeffTitle": "Nutter Uit Noten Bereid", 
   "ObjectID": "7737"
 }

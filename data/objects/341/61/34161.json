@@ -5,8 +5,7 @@
   "Artist": "Edda Renouf", 
   "URL": "http://www.moma.org/collection/works/34161", 
   "CuratorApproved": "Y", 
-  "Title": "Points VI (A-Outward)", 
-  "DateAcquired": "1974-02-12", 
+  "CreditLine": "Gift of Gertrud Mellon", 
   "Date": "1973", 
   "ArtistID": 4870, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "119.1974", 
-  "ArtistBio": "American, born Mexico 1943", 
-  "CreditLine": "Gift of Gertrud Mellon", 
+  "ArtistBio": "(American, born Mexico 1943)", 
+  "DateAcquired": "1974-02-12", 
+  "\ufeffTitle": "Points VI (A-Outward)", 
   "ObjectID": "34161"
 }

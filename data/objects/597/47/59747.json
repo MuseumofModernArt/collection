@@ -1,12 +1,11 @@
 {
   "Medium": "Etching, aquatint and screenprint, with collage additions", 
-  "Dimensions": "plate  17 1/2 x 23 13/16\" (44.5 x 60.5 cm)  sheet  21 15/16 x 29 5/8\" (55.7 x 75.3 cm)", 
+  "Dimensions": "plate  17 1/2 x 23 13/16\" (44.5 x 60.5 cm)\r\nsheet  21 15/16 x 29 5/8\" (55.7 x 75.3 cm)", 
   "Classification": "Print", 
   "Artist": "David Freed", 
   "URL": "http://www.moma.org/collection/works/59747", 
   "CuratorApproved": "Y", 
-  "Title": "Passion", 
-  "DateAcquired": "1975-01-07", 
+  "CreditLine": "Janet K. Ruttenberg Fund", 
   "Date": "(1973)", 
   "ArtistID": 1984, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "8.1975", 
-  "ArtistBio": "American, born 1936", 
-  "CreditLine": "Janet K. Ruttenberg Fund", 
+  "ArtistBio": "(American, born 1936)", 
+  "DateAcquired": "1975-01-07", 
+  "\ufeffTitle": "Passion", 
   "ObjectID": "59747"
 }

@@ -1,12 +1,11 @@
 {
   "Medium": "Paintstik on two sheets of paper mounted on thin fabric", 
-  "Dimensions": "Overall: 149 x 79\" (378.6 x 200.8 cm) .a: 79 x 79\"(200.8 x 200.8 cm) .b: 69 1/2 x 70\" (176.5 x 177.9 cm)  irreg. frame  151 1/8 x 81 1/4\" (383.8 x 206.5 cm)", 
+  "Dimensions": "Overall: 149 x 79\" (378.6 x 200.8 cm) .a: 79 x 79\"(200.8 x 200.8 cm) .b: 69 1/2 x 70\" (176.5 x 177.9 cm)\r\nirreg. frame  151 1/8 x 81 1/4\" (383.8 x 206.5 cm)", 
   "Classification": "Drawing", 
   "Artist": "Richard Serra", 
   "URL": "http://www.moma.org/collection/works/35530", 
   "CuratorApproved": "Y", 
-  "Title": "Dead Weight (Edfu)", 
-  "DateAcquired": "1993-05-05", 
+  "CreditLine": "Gift of Arne and Milly Glimcher, Francois de Menil, Charles B. Benenson, and Sheldon H. Solow", 
   "Date": "(1991)", 
   "ArtistID": 5349, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "205.1993.a-b", 
-  "ArtistBio": "American, born 1939", 
-  "CreditLine": "Gift of Arne and Milly Glimcher, Francois de Menil, Charles B. Benenson, and Sheldon H. Solow", 
+  "ArtistBio": "(American, born 1939)", 
+  "DateAcquired": "1993-05-05", 
+  "\ufeffTitle": "Dead Weight (Edfu)", 
   "ObjectID": "35530"
 }

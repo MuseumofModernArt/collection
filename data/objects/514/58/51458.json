@@ -5,8 +5,7 @@
   "Artist": "Tina Modotti", 
   "URL": "http://www.moma.org/collection/works/51458", 
   "CuratorApproved": "Y", 
-  "Title": "Hands of Marionette Player", 
-  "DateAcquired": "1965-04-06", 
+  "CreditLine": "Anonymous gift", 
   "Date": "1929", 
   "ArtistID": 4039, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "349.1965", 
-  "ArtistBio": "Italian, 1896\u20131942", 
-  "CreditLine": "Anonymous gift", 
+  "ArtistBio": "(Italian, 1896\u20131942)", 
+  "DateAcquired": "1965-04-06", 
+  "\ufeffTitle": "Hands of Marionette Player", 
   "ObjectID": "51458"
 }

@@ -5,8 +5,7 @@
   "Artist": "Sandro Chia", 
   "URL": "http://www.moma.org/collection/works/65198", 
   "CuratorApproved": "Y", 
-  "Title": "Figure Looking Out", 
-  "DateAcquired": "1989-10-12", 
+  "CreditLine": "Gift of Edition Schellmann, Munich and New York", 
   "Date": "1982", 
   "ArtistID": 1097, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "248.1989", 
-  "ArtistBio": "Italian, born 1946", 
-  "CreditLine": "Gift of Edition Schellmann, Munich and New York", 
+  "ArtistBio": "(Italian, born 1946)", 
+  "DateAcquired": "1989-10-12", 
+  "\ufeffTitle": "Figure Looking Out", 
   "ObjectID": "65198"
 }

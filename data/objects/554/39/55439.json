@@ -5,8 +5,7 @@
   "Artist": "Unknown photographer", 
   "URL": "http://www.moma.org/collection/works/55439", 
   "CuratorApproved": "Y", 
-  "Title": "Henry Clay", 
-  "DateAcquired": "1954-01-12", 
+  "CreditLine": "Gift of A. Conger Goodyear", 
   "Date": "c. 1850", 
   "ArtistID": 6028, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "592.1953", 
-  "ArtistBio": "NULL", 
-  "CreditLine": "Gift of A. Conger Goodyear", 
+  "ArtistBio": "", 
+  "DateAcquired": "1954-01-12", 
+  "\ufeffTitle": "Henry Clay", 
   "ObjectID": "55439"
 }

@@ -5,8 +5,7 @@
   "Artist": "E. McKnight Kauffer", 
   "URL": "http://www.moma.org/collection/works/5758", 
   "CuratorApproved": "Y", 
-  "Title": "Spring", 
-  "DateAcquired": "1937-07-01", 
+  "CreditLine": "Gift of the designer", 
   "Date": "1937", 
   "ArtistID": 3020, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "227.1937", 
-  "ArtistBio": "American, 1890\u20131954", 
-  "CreditLine": "Gift of the designer", 
+  "ArtistBio": "(American, 1890\u20131954)", 
+  "DateAcquired": "1937-07-01", 
+  "\ufeffTitle": "Spring (Poster for London Transport)", 
   "ObjectID": "5758"
 }

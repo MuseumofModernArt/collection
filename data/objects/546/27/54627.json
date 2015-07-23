@@ -5,8 +5,7 @@
   "Artist": "Dan Weiner", 
   "URL": "http://www.moma.org/collection/works/54627", 
   "CuratorApproved": "Y", 
-  "Title": "Barber Shop, New York", 
-  "DateAcquired": "1994-10-13", 
+  "CreditLine": "Gift of Sandra Weiner", 
   "Date": "c. 1955", 
   "ArtistID": 6287, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "517.1994", 
-  "ArtistBio": "American, 1919\u20131959", 
-  "CreditLine": "Gift of Sandra Weiner", 
+  "ArtistBio": "(American, 1919\u20131959)", 
+  "DateAcquired": "1994-10-13", 
+  "\ufeffTitle": "Barber Shop, New York", 
   "ObjectID": "54627"
 }

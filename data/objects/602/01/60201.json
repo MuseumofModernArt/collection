@@ -5,8 +5,7 @@
   "Artist": "Various Artists", 
   "URL": "http://www.moma.org/collection/works/60201", 
   "CuratorApproved": "Y", 
-  "Title": "Homage to Picasso (Hommage \u00e0 Picasso)", 
-  "DateAcquired": "1987-01-15", 
+  "CreditLine": "Gift of Dorothy Miller (by exchange)", 
   "Date": "published 1973\u201375", 
   "ArtistID": 6104, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "22.1987.1-69", 
-  "ArtistBio": "Various", 
-  "CreditLine": "Gift of Dorothy Miller (by exchange)", 
+  "ArtistBio": "(Various)", 
+  "DateAcquired": "1987-01-15", 
+  "\ufeffTitle": "Homage to Picasso (Hommage \u00e0 Picasso)", 
   "ObjectID": "60201"
 }

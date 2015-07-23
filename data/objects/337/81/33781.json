@@ -5,8 +5,7 @@
   "Artist": "Max Jacob", 
   "URL": "http://www.moma.org/collection/works/33781", 
   "CuratorApproved": "Y", 
-  "Title": "Three Figures", 
-  "DateAcquired": "1935-06-14", 
+  "CreditLine": "Given anonymously", 
   "Date": "1928", 
   "ArtistID": 2865, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "88.1935", 
-  "ArtistBio": "French, 1876\u20131944", 
-  "CreditLine": "Given anonymously", 
+  "ArtistBio": "(French, 1876\u20131944)", 
+  "DateAcquired": "1935-06-14", 
+  "\ufeffTitle": "Three Figures", 
   "ObjectID": "33781"
 }

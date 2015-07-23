@@ -5,8 +5,7 @@
   "Artist": "Maurice de Vlaminck", 
   "URL": "http://www.moma.org/collection/works/37799", 
   "CuratorApproved": "Y", 
-  "Title": "Still Life", 
-  "DateAcquired": "1949-11-22", 
+  "CreditLine": "Gift of Justin K. Thannhauser", 
   "Date": "(1913-1914)", 
   "ArtistID": 6177, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "693.1949", 
-  "ArtistBio": "French, 1876\u20131958", 
-  "CreditLine": "Gift of Justin K. Thannhauser", 
+  "ArtistBio": "(French, 1876\u20131958)", 
+  "DateAcquired": "1949-11-22", 
+  "\ufeffTitle": "Still Life", 
   "ObjectID": "37799"
 }

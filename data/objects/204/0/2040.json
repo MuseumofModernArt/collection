@@ -5,8 +5,7 @@
   "Artist": "Reiko Sudo", 
   "URL": "http://www.moma.org/collection/works/2040", 
   "CuratorApproved": "Y", 
-  "Title": "Shutter", 
-  "DateAcquired": "2000-01-19", 
+  "CreditLine": "Gift of the manufacturer", 
   "Date": "1997", 
   "ArtistID": 7045, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "81.2000", 
-  "ArtistBio": "Japanese, born 1953", 
-  "CreditLine": "Gift of the manufacturer", 
+  "ArtistBio": "(Japanese, born 1953)", 
+  "DateAcquired": "2000-01-19", 
+  "\ufeffTitle": "Shutter", 
   "ObjectID": "2040"
 }

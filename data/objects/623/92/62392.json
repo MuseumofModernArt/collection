@@ -5,8 +5,7 @@
   "Artist": "Ernst Ludwig Kirchner", 
   "URL": "http://www.moma.org/collection/works/62392", 
   "CuratorApproved": "Y", 
-  "Title": "Women's Band", 
-  "DateAcquired": "1949-03-24", 
+  "CreditLine": "Purchase", 
   "Date": "(1908)", 
   "ArtistID": 3115, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "129.1949", 
-  "ArtistBio": "German, 1880\u20131938", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(German, 1880\u20131938)", 
+  "DateAcquired": "1949-03-24", 
+  "\ufeffTitle": "Women's Band (Damenkapelle)", 
   "ObjectID": "62392"
 }

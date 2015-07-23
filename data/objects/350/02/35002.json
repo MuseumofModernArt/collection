@@ -5,8 +5,7 @@
   "Artist": "George Grosz", 
   "URL": "http://www.moma.org/collection/works/35002", 
   "CuratorApproved": "Y", 
-  "Title": "Punishment", 
-  "DateAcquired": "1934-12-20", 
+  "CreditLine": "Gift of Mr. and Mrs. Erich Cohn", 
   "Date": "(1934)", 
   "ArtistID": 2374, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "169.1934", 
-  "ArtistBio": "American, born Germany. 1893\u20131959", 
-  "CreditLine": "Gift of Mr. and Mrs. Erich Cohn", 
+  "ArtistBio": "(American, born Germany. 1893\u20131959)", 
+  "DateAcquired": "1934-12-20", 
+  "\ufeffTitle": "Punishment (Strafe)", 
   "ObjectID": "35002"
 }

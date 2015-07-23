@@ -5,8 +5,7 @@
   "Artist": "Albert Renger-Patzsch", 
   "URL": "http://www.moma.org/collection/works/46122", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1988-03-10", 
+  "CreditLine": "Partial gift of David H. McAlpin, by exchange", 
   "Date": "c. 1930", 
   "ArtistID": 4866, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "92.1988", 
-  "ArtistBio": "German, 1897\u20131966", 
-  "CreditLine": "Partial gift of David H. McAlpin, by exchange", 
+  "ArtistBio": "(German, 1897\u20131966)", 
+  "DateAcquired": "1988-03-10", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "46122"
 }

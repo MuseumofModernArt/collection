@@ -5,8 +5,7 @@
   "Artist": "Hanne Darboven", 
   "URL": "http://www.moma.org/collection/works/35852", 
   "CuratorApproved": "Y", 
-  "Title": "49 x 49 (7 x 7 = 49)", 
-  "DateAcquired": "1973-05-24", 
+  "CreditLine": "Gift of Mrs. Bertram Smith", 
   "Date": "(1972-73)", 
   "ArtistID": 1388, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "272.1973.a-ww", 
-  "ArtistBio": "German, 1941\u20132009", 
-  "CreditLine": "Gift of Mrs. Bertram Smith", 
+  "ArtistBio": "(German, 1941\u20132009)", 
+  "DateAcquired": "1973-05-24", 
+  "\ufeffTitle": "49 x 49 (7 x 7 = 49)", 
   "ObjectID": "35852"
 }

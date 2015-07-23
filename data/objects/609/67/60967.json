@@ -5,8 +5,7 @@
   "Artist": "Joan Mir\u00f3", 
   "URL": "http://www.moma.org/collection/works/60967", 
   "CuratorApproved": "Y", 
-  "Title": "Plate I from Series I", 
-  "DateAcquired": "1958-02-19", 
+  "CreditLine": "Gift of Abby Aldrich Rockefeller (by exchange)", 
   "Date": "1953", 
   "ArtistID": 4016, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "52.1958", 
-  "ArtistBio": "Spanish, 1893\u20131983", 
-  "CreditLine": "Gift of Abby Aldrich Rockefeller (by exchange)", 
+  "ArtistBio": "(Spanish, 1893\u20131983)", 
+  "DateAcquired": "1958-02-19", 
+  "\ufeffTitle": "Plate I from Series I", 
   "ObjectID": "60967"
 }

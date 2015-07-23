@@ -5,8 +5,7 @@
   "Artist": "Pablo Picasso", 
   "URL": "http://www.moma.org/collection/works/35372", 
   "CuratorApproved": "Y", 
-  "Title": "Two Nudes", 
-  "DateAcquired": "1985-09-10", 
+  "CreditLine": "The Joan and Lester Avnet Collection", 
   "Date": "(1906)", 
   "ArtistID": 4609, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "222.1985", 
-  "ArtistBio": "Spanish, 1881\u20131973", 
-  "CreditLine": "The Joan and Lester Avnet Collection", 
+  "ArtistBio": "(Spanish, 1881\u20131973)", 
+  "DateAcquired": "1985-09-10", 
+  "\ufeffTitle": "Two Nudes", 
   "ObjectID": "35372"
 }

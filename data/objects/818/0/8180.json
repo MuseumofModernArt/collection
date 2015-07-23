@@ -5,8 +5,7 @@
   "Artist": "Edward Penfield", 
   "URL": "http://www.moma.org/collection/works/8180", 
   "CuratorApproved": "Y", 
-  "Title": "Harper's March", 
-  "DateAcquired": "1983-11-30", 
+  "CreditLine": "Acquired by exchange", 
   "Date": "1895", 
   "ArtistID": 4547, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "806.1983", 
-  "ArtistBio": "American, 1866\u20131925", 
-  "CreditLine": "Acquired by exchange", 
+  "ArtistBio": "(American, 1866\u20131925)", 
+  "DateAcquired": "1983-11-30", 
+  "\ufeffTitle": "Harper's March", 
   "ObjectID": "8180"
 }

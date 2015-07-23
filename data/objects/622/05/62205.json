@@ -5,8 +5,7 @@
   "Artist": "Larry Bell", 
   "URL": "http://www.moma.org/collection/works/62205", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1975-05-09", 
+  "CreditLine": "Gift of Paul, Weiss, Rifkind, Wharton and Garrison", 
   "Date": "1974", 
   "ArtistID": 444, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "121.1975.1-6", 
-  "ArtistBio": "American, born 1939", 
-  "CreditLine": "Gift of Paul, Weiss, Rifkind, Wharton and Garrison", 
+  "ArtistBio": "(American, born 1939)", 
+  "DateAcquired": "1975-05-09", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "62205"
 }

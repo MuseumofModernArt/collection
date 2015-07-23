@@ -5,8 +5,7 @@
   "Artist": "A. F. Sherman", 
   "URL": "http://www.moma.org/collection/works/46346", 
   "CuratorApproved": "Y", 
-  "Title": "Ellis Island Immigrants", 
-  "DateAcquired": "1964-01-07", 
+  "CreditLine": "Acquired through the courtesy of Marshall B. Davidson", 
   "Date": "c. 1900", 
   "ArtistID": 5391, 
   "Keywords": [
@@ -20,7 +19,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "106.1964", 
-  "ArtistBio": "American", 
-  "CreditLine": "Acquired through the courtesy of Marshall B. Davidson", 
+  "ArtistBio": "(American)", 
+  "DateAcquired": "1964-01-07", 
+  "\ufeffTitle": "Ellis Island Immigrants", 
   "ObjectID": "46346"
 }

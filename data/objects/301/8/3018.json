@@ -5,8 +5,7 @@
   "Artist": "Unknown Designer", 
   "URL": "http://www.moma.org/collection/works/3018", 
   "CuratorApproved": "Y", 
-  "Title": "Powder Jar", 
-  "DateAcquired": "1953-04-07", 
+  "CreditLine": "Gift of Greta Daniel", 
   "Date": "Before 1953", 
   "ArtistID": 6016, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "245.1953.a-b", 
-  "ArtistBio": "Italian", 
-  "CreditLine": "Gift of Greta Daniel", 
+  "ArtistBio": "(Italian)", 
+  "DateAcquired": "1953-04-07", 
+  "\ufeffTitle": "Powder Jar", 
   "ObjectID": "3018"
 }

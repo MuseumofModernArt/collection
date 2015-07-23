@@ -1,12 +1,11 @@
 {
-  "Medium": "Screenprint and embossing  ", 
+  "Medium": "Screenprint and embossing\r\n", 
   "Dimensions": "composition: 7 7/8 x 6\" (20 x 15.2 cm); sheet: 15 x 11 1/16\" (38.1 x 28.1 cm)", 
   "Classification": "Print", 
   "Artist": "Victor Vasarely", 
   "URL": "http://www.moma.org/collection/works/60810", 
   "CuratorApproved": "Y", 
-  "Title": "Sign 13", 
-  "DateAcquired": "1965-01-12", 
+  "CreditLine": "Dorothy B. and Joseph M. Edinburg Fund", 
   "Date": "1960", 
   "ArtistID": 6109, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "44.1965", 
-  "ArtistBio": "French, born Hungary 1908\u20131997", 
-  "CreditLine": "Dorothy B. and Joseph M. Edinburg Fund", 
+  "ArtistBio": "(French, born Hungary 1908\u20131997)", 
+  "DateAcquired": "1965-01-12", 
+  "\ufeffTitle": "Sign 13", 
   "ObjectID": "60810"
 }

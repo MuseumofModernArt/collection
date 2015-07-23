@@ -5,8 +5,7 @@
   "Artist": "Paul Thompson", 
   "URL": "http://www.moma.org/collection/works/58715", 
   "CuratorApproved": "Y", 
-  "Title": "Day Home of Soldiers' Children, Berlin", 
-  "DateAcquired": "2001-06-14", 
+  "CreditLine": "The New York Times Collection", 
   "Date": "1915", 
   "ArtistID": 8630, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "2122.2001", 
-  "ArtistBio": "American", 
-  "CreditLine": "The New York Times Collection", 
+  "ArtistBio": "(American)", 
+  "DateAcquired": "2001-06-14", 
+  "\ufeffTitle": "Day Home of Soldiers' Children, Berlin", 
   "ObjectID": "58715"
 }

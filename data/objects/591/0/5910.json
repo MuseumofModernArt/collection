@@ -5,8 +5,7 @@
   "Artist": "Arata Isozaki", 
   "URL": "http://www.moma.org/collection/works/5910", 
   "CuratorApproved": "Y", 
-  "Title": "AIKO MIYAWAKI/1960-1980", 
-  "DateAcquired": "1981-04-30", 
+  "CreditLine": "Gift of the designer", 
   "Date": "1980", 
   "ArtistID": 2837, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "261.1981", 
-  "ArtistBio": "Japanese, born 1931", 
-  "CreditLine": "Gift of the designer", 
+  "ArtistBio": "(Japanese, born 1931)", 
+  "DateAcquired": "1981-04-30", 
+  "\ufeffTitle": "\"AIKO MIYAWAKI/1960-1980\"", 
   "ObjectID": "5910"
 }

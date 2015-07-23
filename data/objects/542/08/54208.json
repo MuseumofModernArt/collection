@@ -1,12 +1,11 @@
 {
   "Medium": "Gelatin silver print", 
-  "Dimensions": "7 x 10 13/16\" (17.8 x 27.4 cm)  ", 
+  "Dimensions": "7 x 10 13/16\" (17.8 x 27.4 cm)\r\n", 
   "Classification": "Photograph", 
   "Artist": "Lee Friedlander", 
   "URL": "http://www.moma.org/collection/works/54208", 
   "CuratorApproved": "Y", 
-  "Title": "New Orleans, Louisiana", 
-  "DateAcquired": "1973-11-13", 
+  "CreditLine": "Stephen R. Currier Memorial Fund", 
   "Date": "1968", 
   "ArtistID": 2002, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "485.1973", 
-  "ArtistBio": "American, born 1934", 
-  "CreditLine": "Stephen R. Currier Memorial Fund", 
+  "ArtistBio": "(American, born 1934)", 
+  "DateAcquired": "1973-11-13", 
+  "\ufeffTitle": "New Orleans, Louisiana", 
   "ObjectID": "54208"
 }

@@ -5,8 +5,7 @@
   "Artist": "Unknown Designer", 
   "URL": "http://www.moma.org/collection/works/4564", 
   "CuratorApproved": "Y", 
-  "Title": "Pitcher", 
-  "DateAcquired": "1942-07-01", 
+  "CreditLine": "Purchase", 
   "Date": "Before 1942", 
   "ArtistID": 6011, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "926.1942", 
-  "ArtistBio": "Nationality unknown", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(Nationality unknown)", 
+  "DateAcquired": "1942-07-01", 
+  "\ufeffTitle": "Pitcher", 
   "ObjectID": "4564"
 }

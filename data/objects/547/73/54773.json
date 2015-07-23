@@ -5,8 +5,7 @@
   "Artist": "Clarence John Laughlin", 
   "URL": "http://www.moma.org/collection/works/54773", 
   "CuratorApproved": "Y", 
-  "Title": "The Language of Light", 
-  "DateAcquired": "1973-11-13", 
+  "CreditLine": "Gift of the photographer", 
   "Date": "1952", 
   "ArtistID": 3406, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "531.1973", 
-  "ArtistBio": "American, 1905\u20131985", 
-  "CreditLine": "Gift of the photographer", 
+  "ArtistBio": "(American, 1905\u20131985)", 
+  "DateAcquired": "1973-11-13", 
+  "\ufeffTitle": "The Language of Light", 
   "ObjectID": "54773"
 }

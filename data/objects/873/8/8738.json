@@ -5,8 +5,7 @@
   "Artist": "Victor Moscoso", 
   "URL": "http://www.moma.org/collection/works/8738", 
   "CuratorApproved": "Y", 
-  "Title": "The Wildflower", 
-  "DateAcquired": "2000-12-11", 
+  "CreditLine": "Gift of the designer", 
   "Date": "1967", 
   "ArtistID": 4117, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "1439.2000", 
-  "ArtistBio": "American, born Spain 1936", 
-  "CreditLine": "Gift of the designer", 
+  "ArtistBio": "(American, born Spain 1936)", 
+  "DateAcquired": "2000-12-11", 
+  "\ufeffTitle": "The Wildflower", 
   "ObjectID": "8738"
 }

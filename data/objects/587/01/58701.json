@@ -5,8 +5,7 @@
   "Artist": "Dana Stone/United Press International", 
   "URL": "http://www.moma.org/collection/works/58701", 
   "CuratorApproved": "Y", 
-  "Title": "Wounded", 
-  "DateAcquired": "2001-06-14", 
+  "CreditLine": "The New York Times Collection", 
   "Date": "April 11, 1968", 
   "ArtistID": 8622, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "2108.2001", 
-  "ArtistBio": "Nationality unknown", 
-  "CreditLine": "The New York Times Collection", 
+  "ArtistBio": "(Nationality unknown)", 
+  "DateAcquired": "2001-06-14", 
+  "\ufeffTitle": "\"Wounded\"", 
   "ObjectID": "58701"
 }

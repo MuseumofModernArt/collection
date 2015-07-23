@@ -1,12 +1,11 @@
 {
   "Medium": "Aquatint with aquatint collage", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "Robert Motherwell", 
   "URL": "http://www.moma.org/collection/works/69110", 
   "CuratorApproved": "Y", 
-  "Title": "The Red Queen", 
-  "DateAcquired": "1990-10-23", 
+  "CreditLine": "Gift of the artist in memory of Monroe Wheeler", 
   "Date": "1989", 
   "ArtistID": 4126, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "436.1990", 
-  "ArtistBio": "American, 1915\u20131991", 
-  "CreditLine": "Gift of the artist in memory of Monroe Wheeler", 
+  "ArtistBio": "(American, 1915\u20131991)", 
+  "DateAcquired": "1990-10-23", 
+  "\ufeffTitle": "The Red Queen", 
   "ObjectID": "69110"
 }

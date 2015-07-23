@@ -5,8 +5,7 @@
   "Artist": "Cindy Sherman", 
   "URL": "http://www.moma.org/collection/works/56555", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled Film Still #10", 
-  "DateAcquired": "1995-12-14", 
+  "CreditLine": "Acquired through the generosity of Jo Carole and Ronald S. Lauder", 
   "Date": "1978", 
   "ArtistID": 5392, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "819.1995", 
-  "ArtistBio": "American, born 1954", 
-  "CreditLine": "Acquired through the generosity of Jo Carole and Ronald S. Lauder", 
+  "ArtistBio": "(American, born 1954)", 
+  "DateAcquired": "1995-12-14", 
+  "\ufeffTitle": "Untitled Film Still #10", 
   "ObjectID": "56555"
 }

@@ -5,8 +5,7 @@
   "Artist": "Max Pechstein", 
   "URL": "http://www.moma.org/collection/works/65754", 
   "CuratorApproved": "Y", 
-  "Title": "Somali Dance", 
-  "DateAcquired": "1955-10-10", 
+  "CreditLine": "Purchase", 
   "Date": "1910", 
   "ArtistID": 4533, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "273.1955", 
-  "ArtistBio": "German, 1881\u20131955", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(German, 1881\u20131955)", 
+  "DateAcquired": "1955-10-10", 
+  "\ufeffTitle": "Somali Dance (Somalitanz)", 
   "ObjectID": "65754"
 }

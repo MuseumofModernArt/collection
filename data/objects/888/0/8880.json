@@ -5,8 +5,7 @@
   "Artist": "Howard Chandler Christy", 
   "URL": "http://www.moma.org/collection/works/8880", 
   "CuratorApproved": "Y", 
-  "Title": "Americans All!", 
-  "DateAcquired": "1940-04-05", 
+  "CreditLine": "Gift of Abby Aldrich Rockefeller", 
   "Date": "1919", 
   "ArtistID": 1116, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "1575.1940", 
-  "ArtistBio": "American, 1872\u20131952", 
-  "CreditLine": "Gift of Abby Aldrich Rockefeller", 
+  "ArtistBio": "(American, 1872\u20131952)", 
+  "DateAcquired": "1940-04-05", 
+  "\ufeffTitle": "Americans All!", 
   "ObjectID": "8880"
 }

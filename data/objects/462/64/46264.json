@@ -5,8 +5,7 @@
   "Artist": "Tina Modotti", 
   "URL": "http://www.moma.org/collection/works/46264", 
   "CuratorApproved": "Y", 
-  "Title": "Elisa", 
-  "DateAcquired": "1964-01-07", 
+  "CreditLine": "Gift of Edward Weston", 
   "Date": "1924", 
   "ArtistID": 4039, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "99.1964", 
-  "ArtistBio": "Italian, 1896\u20131942", 
-  "CreditLine": "Gift of Edward Weston", 
+  "ArtistBio": "(Italian, 1896\u20131942)", 
+  "DateAcquired": "1964-01-07", 
+  "\ufeffTitle": "Elisa", 
   "ObjectID": "46264"
 }

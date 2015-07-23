@@ -1,12 +1,11 @@
 {
   "Medium": "Aquatint", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "Gerhard Merz", 
   "URL": "http://www.moma.org/collection/works/64327", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled from the portfolio And I am also an architect", 
-  "DateAcquired": "1990-05-02", 
+  "CreditLine": "Gift of Edition Schellmann, Munich and New York", 
   "Date": "(1989)", 
   "ArtistID": 3940, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "201.1990", 
-  "ArtistBio": "German, born 1947", 
-  "CreditLine": "Gift of Edition Schellmann, Munich and New York", 
+  "ArtistBio": "(German, born 1947)", 
+  "DateAcquired": "1990-05-02", 
+  "\ufeffTitle": "Untitled from the portfolio And I am also an architect", 
   "ObjectID": "64327"
 }

@@ -5,8 +5,7 @@
   "Artist": "Willi Baumeister", 
   "URL": "http://www.moma.org/collection/works/36878", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1972-11-15", 
+  "CreditLine": "Given anonymously", 
   "Date": "1943", 
   "ArtistID": 392, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "435.1972", 
-  "ArtistBio": "German, 1889\u20131955", 
-  "CreditLine": "Given anonymously", 
+  "ArtistBio": "(German, 1889\u20131955)", 
+  "DateAcquired": "1972-11-15", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "36878"
 }

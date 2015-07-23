@@ -1,12 +1,11 @@
 {
   "Medium": "Graphite, ink and crayon on paper", 
-  "Dimensions": "10 7/8 x 10 3/4\" (27.6 x 27.3 cm)  ", 
+  "Dimensions": "10 7/8 x 10 3/4\" (27.6 x 27.3 cm)\r\n", 
   "Classification": "A&D Architectural Drawing", 
   "Artist": "Michael Graves", 
   "URL": "http://www.moma.org/collection/works/96", 
   "CuratorApproved": "Y", 
-  "Title": "French & Company, project  New York (Manhattan), New York  Facade study", 
-  "DateAcquired": "1980-01-08", 
+  "CreditLine": "Gift of Philip Johnson", 
   "Date": "1978", 
   "ArtistID": 2308, 
   "Keywords": [
@@ -21,7 +20,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "26.1980", 
-  "ArtistBio": "American, 1934\u20132015", 
-  "CreditLine": "Gift of Philip Johnson", 
+  "ArtistBio": "(American, 1934\u20132015)", 
+  "DateAcquired": "1980-01-08", 
+  "\ufeffTitle": "French & Company, project, New York (Manhattan), New York, Facade study", 
   "ObjectID": "96"
 }

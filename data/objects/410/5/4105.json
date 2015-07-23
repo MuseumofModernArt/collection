@@ -1,12 +1,11 @@
 {
   "Medium": "Silver", 
-  "Dimensions": ".1 (knife): 9 3/8 x 7/8\" (23.8 x 2.3 cm)  .2 (fork): 8 1/4 x 1\" (21 x 2.5 cm)  .3 (spoon): 8 3/16 x 1 7/8\" (20.8 x 4.8 cm)", 
+  "Dimensions": ".1 (knife): 9 3/8 x 7/8\" (23.8 x 2.3 cm)\r\n.2 (fork): 8 1/4 x 1\" (21 x 2.5 cm)\r\n.3 (spoon): 8 3/16 x 1 7/8\" (20.8 x 4.8 cm)", 
   "Classification": "A&D Design", 
   "Artist": "Andreas Moritz", 
   "URL": "http://www.moma.org/collection/works/4105", 
   "CuratorApproved": "Y", 
-  "Title": "Flatware", 
-  "DateAcquired": "1981-12-10", 
+  "CreditLine": "Gift of the designer", 
   "Date": "1928", 
   "ArtistID": 4097, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "565.1981.1-3", 
-  "ArtistBio": "German, 1901\u20131983", 
-  "CreditLine": "Gift of the designer", 
+  "ArtistBio": "(German, 1901\u20131983)", 
+  "DateAcquired": "1981-12-10", 
+  "\ufeffTitle": "Flatware", 
   "ObjectID": "4105"
 }

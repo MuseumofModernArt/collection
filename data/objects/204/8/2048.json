@@ -5,8 +5,7 @@
   "Artist": "Koichi Yoshimura", 
   "URL": "http://www.moma.org/collection/works/2048", 
   "CuratorApproved": "Y", 
-  "Title": "Iridescent Satin", 
-  "DateAcquired": "2000-01-19", 
+  "CreditLine": "Gift of the manufacturer", 
   "Date": "1994", 
   "ArtistID": 7505, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "83.2000", 
-  "ArtistBio": "Japanese, born 1940", 
-  "CreditLine": "Gift of the manufacturer", 
+  "ArtistBio": "(Japanese, born 1940)", 
+  "DateAcquired": "2000-01-19", 
+  "\ufeffTitle": "Iridescent Satin", 
   "ObjectID": "2048"
 }

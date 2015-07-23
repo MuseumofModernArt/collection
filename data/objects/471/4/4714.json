@@ -5,8 +5,7 @@
   "Artist": "Ron Arad", 
   "URL": "http://www.moma.org/collection/works/4714", 
   "CuratorApproved": "Y", 
-  "Title": "FPE (Fantastic, Plastic, Elastic)", 
-  "DateAcquired": "2000-12-11", 
+  "CreditLine": "Gift of the manufacturer", 
   "Date": "1997", 
   "ArtistID": 8428, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "1420.2000", 
-  "ArtistBio": "British, born Israel 1951", 
-  "CreditLine": "Gift of the manufacturer", 
+  "ArtistBio": "(British, born Israel 1951)", 
+  "DateAcquired": "2000-12-11", 
+  "\ufeffTitle": "FPE (Fantastic, Plastic, Elastic)", 
   "ObjectID": "4714"
 }

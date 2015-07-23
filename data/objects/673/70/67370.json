@@ -1,12 +1,11 @@
 {
   "Medium": "Aquatint and drypoint", 
-  "Dimensions": "plate  45 1/16 x 35 3/8\" (114.5 x 89.9 cm)  sheet  53 5/8 x 40 3/4\" (136 x 103.5 cm)", 
+  "Dimensions": "plate  45 1/16 x 35 3/8\" (114.5 x 89.9 cm)\r\nsheet  53 5/8 x 40 3/4\" (136 x 103.5 cm)", 
   "Classification": "Print", 
   "Artist": "Richard Diebenkorn", 
   "URL": "http://www.moma.org/collection/works/67370", 
   "CuratorApproved": "Y", 
-  "Title": "Green", 
-  "DateAcquired": "1987-10-20", 
+  "CreditLine": "Gift of Crown Point Press in celebration of its 25th anniversary", 
   "Date": "1986", 
   "ArtistID": 1539, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "345.1987", 
-  "ArtistBio": "American, 1922\u20131993", 
-  "CreditLine": "Gift of Crown Point Press in celebration of its 25th anniversary", 
+  "ArtistBio": "(American, 1922\u20131993)", 
+  "DateAcquired": "1987-10-20", 
+  "\ufeffTitle": "Green", 
   "ObjectID": "67370"
 }

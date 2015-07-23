@@ -5,8 +5,7 @@
   "Artist": "Ernst Barlach", 
   "URL": "http://www.moma.org/collection/works/9012", 
   "CuratorApproved": "Y", 
-  "Title": "Group in a Storm (plate 14) from the illustrated book Deutsche Graphiker der Gegenwart (German Printmakers of Our Time)", 
-  "DateAcquired": "NULL", 
+  "CreditLine": "Purchase", 
   "Date": "1920 (print executed 1919)", 
   "ArtistID": 335, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "2.1942.9", 
-  "ArtistBio": "German, 1870\u20131938", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(German, 1870\u20131938)", 
+  "DateAcquired": "", 
+  "\ufeffTitle": "Group in a Storm (Gruppe im Sturm)(plate 14) from the illustrated book Deutsche Graphiker der Gegenwart (German Printmakers of Our Time)", 
   "ObjectID": "9012"
 }

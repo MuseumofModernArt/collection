@@ -5,8 +5,7 @@
   "Artist": "Oskar Strnad", 
   "URL": "http://www.moma.org/collection/works/1709", 
   "CuratorApproved": "Y", 
-  "Title": "Cigarette Box", 
-  "DateAcquired": "1997-01-15", 
+  "CreditLine": "Gift of Nina and Gordon Bunshaft", 
   "Date": "1916", 
   "ArtistID": 5693, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "33.1997.a-b", 
-  "ArtistBio": "Austrian, 1879\u20131935", 
-  "CreditLine": "Gift of Nina and Gordon Bunshaft", 
+  "ArtistBio": "(Austrian, 1879\u20131935)", 
+  "DateAcquired": "1997-01-15", 
+  "\ufeffTitle": "Cigarette Box", 
   "ObjectID": "1709"
 }

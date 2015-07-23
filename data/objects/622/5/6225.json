@@ -5,8 +5,7 @@
   "Artist": "Roman Clemens", 
   "URL": "http://www.moma.org/collection/works/6225", 
   "CuratorApproved": "Y", 
-  "Title": "Parsifal, Stadtheater Z\u00fcrich", 
-  "DateAcquired": "1957-12-04", 
+  "CreditLine": "Gift of the Kunstgewerbe Museum, Z\u00fcrich", 
   "Date": "1938", 
   "ArtistID": 1142, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "318.1957", 
-  "ArtistBio": "Swiss, born Germany. 1910\u20131992", 
-  "CreditLine": "Gift of the Kunstgewerbe Museum, Z\u00fcrich", 
+  "ArtistBio": "(Swiss, born Germany. 1910\u20131992)", 
+  "DateAcquired": "1957-12-04", 
+  "\ufeffTitle": "Parsifal, Stadtheater Z\u00fcrich", 
   "ObjectID": "6225"
 }

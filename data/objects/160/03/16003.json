@@ -1,12 +1,11 @@
 {
   "Medium": "Lithograph", 
-  "Dimensions": "page: 19 5/16 x 12 13/16\" (49 x 32.5 cm)  Prints: various dimensions", 
+  "Dimensions": "page: 19 5/16 x 12 13/16\" (49 x 32.5 cm)\r\nPrints: various dimensions", 
   "Classification": "Illustrated Book", 
   "Artist": "Kazimir Malevich", 
   "URL": "http://www.moma.org/collection/works/16003", 
   "CuratorApproved": "Y", 
-  "Title": "Wraparound cover for the program S'ezd komitetov derevenskoi bednoty (Congress of Committees of Peasant Poverty)", 
-  "DateAcquired": "1980-02-25", 
+  "CreditLine": "Gift of The Lauder Foundation", 
   "Date": "1918", 
   "ArtistID": 3710, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "337.1980.1-2", 
-  "ArtistBio": "Russian, born Ukraine. 1878\u20131935", 
-  "CreditLine": "Gift of The Lauder Foundation", 
+  "ArtistBio": "(Russian, born Ukraine. 1878\u20131935)", 
+  "DateAcquired": "1980-02-25", 
+  "\ufeffTitle": "Wraparound cover for the program S'ezd komitetov derevenskoi bednoty (Congress of Committees of Peasant Poverty)", 
   "ObjectID": "16003"
 }

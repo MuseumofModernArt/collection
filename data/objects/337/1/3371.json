@@ -5,8 +5,7 @@
   "Artist": "Jay Monroe", 
   "URL": "http://www.moma.org/collection/works/3371", 
   "CuratorApproved": "Y", 
-  "Title": "Disposable Flashlight", 
-  "DateAcquired": "1969-04-24", 
+  "CreditLine": "Gift of the manufacturer", 
   "Date": "1967", 
   "ArtistID": 4060, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "349.1969", 
-  "ArtistBio": "American, born 1926", 
-  "CreditLine": "Gift of the manufacturer", 
+  "ArtistBio": "(American, born 1926)", 
+  "DateAcquired": "1969-04-24", 
+  "\ufeffTitle": "Disposable Flashlight", 
   "ObjectID": "3371"
 }

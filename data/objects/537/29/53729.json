@@ -5,8 +5,7 @@
   "Artist": "Jim Bengston", 
   "URL": "http://www.moma.org/collection/works/53729", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled (Landscape with large stone, lichens)", 
-  "DateAcquired": "1981-12-17", 
+  "CreditLine": "The Family of Man Fund", 
   "Date": "October 1980", 
   "ArtistID": 473, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "464.1981", 
-  "ArtistBio": "American, born 1942", 
-  "CreditLine": "The Family of Man Fund", 
+  "ArtistBio": "(American, born 1942)", 
+  "DateAcquired": "1981-12-17", 
+  "\ufeffTitle": "Untitled (Landscape with large stone, lichens)", 
   "ObjectID": "53729"
 }

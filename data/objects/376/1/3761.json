@@ -5,8 +5,7 @@
   "Artist": "Hans Ofner", 
   "URL": "http://www.moma.org/collection/works/3761", 
   "CuratorApproved": "Y", 
-  "Title": "Vase", 
-  "DateAcquired": "1988-11-22", 
+  "CreditLine": "Given anonymously", 
   "Date": "c. 1905", 
   "ArtistID": 4379, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "402.1988", 
-  "ArtistBio": "Austrian, born 1880", 
-  "CreditLine": "Given anonymously", 
+  "ArtistBio": "(Austrian, born 1880)", 
+  "DateAcquired": "1988-11-22", 
+  "\ufeffTitle": "Vase", 
   "ObjectID": "3761"
 }

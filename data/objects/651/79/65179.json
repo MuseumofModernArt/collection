@@ -5,8 +5,7 @@
   "Artist": "Jacques Villon", 
   "URL": "http://www.moma.org/collection/works/65179", 
   "CuratorApproved": "Y", 
-  "Title": "Emile Nicolle", 
-  "DateAcquired": "1951-05-24", 
+  "CreditLine": "Purchase", 
   "Date": "1891", 
   "ArtistID": 6165, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "248.1951", 
-  "ArtistBio": "French, 1875\u20131963", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(French, 1875\u20131963)", 
+  "DateAcquired": "1951-05-24", 
+  "\ufeffTitle": "Emile Nicolle", 
   "ObjectID": "65179"
 }

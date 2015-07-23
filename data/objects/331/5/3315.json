@@ -5,8 +5,7 @@
   "Artist": "Unknown Designer", 
   "URL": "http://www.moma.org/collection/works/3315", 
   "CuratorApproved": "Y", 
-  "Title": "Wine Bottle Stand", 
-  "DateAcquired": "1960-11-16", 
+  "CreditLine": "Gift of Mark Cross Company", 
   "Date": "Before 1960", 
   "ArtistID": 6011, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "332.1960", 
-  "ArtistBio": "Nationality unknown", 
-  "CreditLine": "Gift of Mark Cross Company", 
+  "ArtistBio": "(Nationality unknown)", 
+  "DateAcquired": "1960-11-16", 
+  "\ufeffTitle": "Wine Bottle Stand", 
   "ObjectID": "3315"
 }

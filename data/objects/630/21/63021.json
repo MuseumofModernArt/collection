@@ -5,8 +5,7 @@
   "Artist": "Leopoldo M\u00e9ndez", 
   "URL": "http://www.moma.org/collection/works/63021", 
   "CuratorApproved": "Y", 
-  "Title": "Political Pi\u00f1ata (La Pi\u00f1ata Pol\u00edtica)", 
-  "DateAcquired": "1944-09-27", 
+  "CreditLine": "Inter-American Fund", 
   "Date": "1935", 
   "ArtistID": 3923, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "153.1944", 
-  "ArtistBio": "Mexican, 1902\u20131969", 
-  "CreditLine": "Inter-American Fund", 
+  "ArtistBio": "(Mexican, 1902\u20131969)", 
+  "DateAcquired": "1944-09-27", 
+  "\ufeffTitle": "Political Pi\u00f1ata (La Pi\u00f1ata Pol\u00edtica)", 
   "ObjectID": "63021"
 }

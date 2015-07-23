@@ -5,8 +5,7 @@
   "Artist": "Jasper Johns", 
   "URL": "http://www.moma.org/collection/works/60091", 
   "CuratorApproved": "Y", 
-  "Title": "Cups 4 Picasso", 
-  "DateAcquired": "1973-01-04", 
+  "CreditLine": "Gift of Celeste Bartos", 
   "Date": "1972", 
   "ArtistID": 2923, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "19.1973", 
-  "ArtistBio": "American, born 1930", 
-  "CreditLine": "Gift of Celeste Bartos", 
+  "ArtistBio": "(American, born 1930)", 
+  "DateAcquired": "1973-01-04", 
+  "\ufeffTitle": "Cups 4 Picasso", 
   "ObjectID": "60091"
 }

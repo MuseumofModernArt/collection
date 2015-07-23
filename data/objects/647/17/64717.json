@@ -1,12 +1,11 @@
 {
   "Medium": "Wood engraving", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "Varvara Stepanova", 
   "URL": "http://www.moma.org/collection/works/64717", 
   "CuratorApproved": "Y", 
-  "Title": "Family", 
-  "DateAcquired": "1990-05-02", 
+  "CreditLine": "Gift of Varvara Rodchenko and Aleksandr Nikolaivich Lavrentiev", 
   "Date": "(1920, reprinted c. 1989)", 
   "ArtistID": 5643, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "224.1990", 
-  "ArtistBio": "Russian, 1894\u20131958", 
-  "CreditLine": "Gift of Varvara Rodchenko and Aleksandr Nikolaivich Lavrentiev", 
+  "ArtistBio": "(Russian, 1894\u20131958)", 
+  "DateAcquired": "1990-05-02", 
+  "\ufeffTitle": "Family", 
   "ObjectID": "64717"
 }

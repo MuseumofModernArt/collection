@@ -5,8 +5,7 @@
   "Artist": "Lyonel Feininger", 
   "URL": "http://www.moma.org/collection/works/65376", 
   "CuratorApproved": "Y", 
-  "Title": "The Gate", 
-  "DateAcquired": "1944-11-08", 
+  "CreditLine": "James Thrall Soby Fund", 
   "Date": "1920", 
   "ArtistID": 1832, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "257.1944", 
-  "ArtistBio": "American, 1871\u20131956", 
-  "CreditLine": "James Thrall Soby Fund", 
+  "ArtistBio": "(American, 1871\u20131956)", 
+  "DateAcquired": "1944-11-08", 
+  "\ufeffTitle": "The Gate (Das Tor)", 
   "ObjectID": "65376"
 }

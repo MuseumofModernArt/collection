@@ -5,8 +5,7 @@
   "Artist": "Minor White", 
   "URL": "http://www.moma.org/collection/works/54738", 
   "CuratorApproved": "Y", 
-  "Title": "Rock in Sandstone", 
-  "DateAcquired": "1960-11-30", 
+  "CreditLine": "Courtesy of the photographer", 
   "Date": "1959", 
   "ArtistID": 6342, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "528.1960", 
-  "ArtistBio": "American, 1908\u20131976", 
-  "CreditLine": "Courtesy of the photographer", 
+  "ArtistBio": "(American, 1908\u20131976)", 
+  "DateAcquired": "1960-11-30", 
+  "\ufeffTitle": "Rock in Sandstone", 
   "ObjectID": "54738"
 }

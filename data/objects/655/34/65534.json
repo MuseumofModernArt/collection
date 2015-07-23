@@ -5,8 +5,7 @@
   "Artist": "Franz Marc", 
   "URL": "http://www.moma.org/collection/works/65534", 
   "CuratorApproved": "Y", 
-  "Title": "Birth of the Wolves", 
-  "DateAcquired": "1953-04-07", 
+  "CreditLine": "Katherine S. Dreier Bequest", 
   "Date": "(1913)", 
   "ArtistID": 3748, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "264.1953", 
-  "ArtistBio": "German, 1880\u20131916", 
-  "CreditLine": "Katherine S. Dreier Bequest", 
+  "ArtistBio": "(German, 1880\u20131916)", 
+  "DateAcquired": "1953-04-07", 
+  "\ufeffTitle": "Birth of the Wolves (Geburt der W\u00f6lfe)", 
   "ObjectID": "65534"
 }

@@ -5,8 +5,7 @@
   "Artist": "Pablo Picasso", 
   "URL": "http://www.moma.org/collection/works/16673", 
   "CuratorApproved": "Y", 
-  "Title": "Pablo Picasso", 
-  "DateAcquired": "1987-10-20", 
+  "CreditLine": "Mary Ellen Meehan Fund and Purchase", 
   "Date": "1941", 
   "ArtistID": 4609, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "398.1987", 
-  "ArtistBio": "Spanish, 1881\u20131973", 
-  "CreditLine": "Mary Ellen Meehan Fund and Purchase", 
+  "ArtistBio": "(Spanish, 1881\u20131973)", 
+  "DateAcquired": "1987-10-20", 
+  "\ufeffTitle": "Pablo Picasso", 
   "ObjectID": "16673"
 }

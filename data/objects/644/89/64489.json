@@ -5,8 +5,7 @@
   "Artist": "Alexandra Nikolaevna Jacobson", 
   "URL": "http://www.moma.org/collection/works/64489", 
   "CuratorApproved": "Y", 
-  "Title": "From The Bath", 
-  "DateAcquired": "1976-05-11", 
+  "CreditLine": "Gift of The State Hermitage Museum (through the International Council, by exchange)", 
   "Date": "1963", 
   "ArtistID": 2871, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "212.1976", 
-  "ArtistBio": "Russian", 
-  "CreditLine": "Gift of The State Hermitage Museum (through the International Council, by exchange)", 
+  "ArtistBio": "(Russian)", 
+  "DateAcquired": "1976-05-11", 
+  "\ufeffTitle": "From The Bath", 
   "ObjectID": "64489"
 }

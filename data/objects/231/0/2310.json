@@ -5,8 +5,7 @@
   "Artist": "Gerrit Rietveld", 
   "URL": "http://www.moma.org/collection/works/2310", 
   "CuratorApproved": "Y", 
-  "Title": "Stool", 
-  "DateAcquired": "1958-12-04", 
+  "CreditLine": "Phyllis B. Lambert Fund", 
   "Date": "1923-24", 
   "ArtistID": 4922, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "159.1958", 
-  "ArtistBio": "Dutch, 1888\u20131964", 
-  "CreditLine": "Phyllis B. Lambert Fund", 
+  "ArtistBio": "(Dutch, 1888\u20131964)", 
+  "DateAcquired": "1958-12-04", 
+  "\ufeffTitle": "Stool", 
   "ObjectID": "2310"
 }

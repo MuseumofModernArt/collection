@@ -5,8 +5,7 @@
   "Artist": "Klaus Staeck", 
   "URL": "http://www.moma.org/collection/works/8853", 
   "CuratorApproved": "Y", 
-  "Title": "Shell Werbewochen", 
-  "DateAcquired": "2000-12-11", 
+  "CreditLine": "Gift of the designer", 
   "Date": "1978", 
   "ArtistID": 8268, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "1556.2000", 
-  "ArtistBio": "German, born 1938", 
-  "CreditLine": "Gift of the designer", 
+  "ArtistBio": "(German, born 1938)", 
+  "DateAcquired": "2000-12-11", 
+  "\ufeffTitle": "Shell Werbewochen", 
   "ObjectID": "8853"
 }

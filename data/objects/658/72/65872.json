@@ -5,8 +5,7 @@
   "Artist": "Christian Rohlfs", 
   "URL": "http://www.moma.org/collection/works/65872", 
   "CuratorApproved": "Y", 
-  "Title": "Three Women", 
-  "DateAcquired": "1955-10-10", 
+  "CreditLine": "Gift of Victor S. Riesenfeld", 
   "Date": "(1912)", 
   "ArtistID": 5000, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "278.1955", 
-  "ArtistBio": "German, 1849\u20131938", 
-  "CreditLine": "Gift of Victor S. Riesenfeld", 
+  "ArtistBio": "(German, 1849\u20131938)", 
+  "DateAcquired": "1955-10-10", 
+  "\ufeffTitle": "Three Women (Drei Frauen)", 
   "ObjectID": "65872"
 }

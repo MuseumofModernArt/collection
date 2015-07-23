@@ -5,8 +5,7 @@
   "Artist": "Garry Winogrand", 
   "URL": "http://www.moma.org/collection/works/55937", 
   "CuratorApproved": "Y", 
-  "Title": "Political Demonstration, New York", 
-  "DateAcquired": "1977-12-15", 
+  "CreditLine": "Purchase", 
   "Date": "1969", 
   "ArtistID": 6399, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "668.1977", 
-  "ArtistBio": "American, 1928\u20131984", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, 1928\u20131984)", 
+  "DateAcquired": "1977-12-15", 
+  "\ufeffTitle": "Political Demonstration, New York", 
   "ObjectID": "55937"
 }

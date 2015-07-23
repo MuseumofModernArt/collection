@@ -5,8 +5,7 @@
   "Artist": "Henri Manguin", 
   "URL": "http://www.moma.org/collection/works/36246", 
   "CuratorApproved": "Y", 
-  "Title": "Nude", 
-  "DateAcquired": "1961-11-08", 
+  "CreditLine": "Gift of Mrs. Gertrud A. Mellon", 
   "Date": "(c. 1906)", 
   "ArtistID": 3725, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "316.1961", 
-  "ArtistBio": "French, 1874\u20131949", 
-  "CreditLine": "Gift of Mrs. Gertrud A. Mellon", 
+  "ArtistBio": "(French, 1874\u20131949)", 
+  "DateAcquired": "1961-11-08", 
+  "\ufeffTitle": "Nude", 
   "ObjectID": "36246"
 }

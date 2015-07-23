@@ -5,8 +5,7 @@
   "Artist": "Unknown photographer", 
   "URL": "http://www.moma.org/collection/works/45472", 
   "CuratorApproved": "Y", 
-  "Title": "U.S. Iron Clad Ram \"Dictator\"", 
-  "DateAcquired": "1987-02-19", 
+  "CreditLine": "Gift of Samuel J. Wagstaff, Jr.", 
   "Date": "1863", 
   "ArtistID": 6028, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "66.1987", 
-  "ArtistBio": "NULL", 
-  "CreditLine": "Gift of Samuel J. Wagstaff, Jr.", 
+  "ArtistBio": "", 
+  "DateAcquired": "1987-02-19", 
+  "\ufeffTitle": "U.S. Iron Clad Ram \"Dictator\"", 
   "ObjectID": "45472"
 }

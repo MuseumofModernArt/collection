@@ -5,8 +5,7 @@
   "Artist": "Raymond Pettibon", 
   "URL": "http://www.moma.org/collection/works/59761", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled (Yoko)", 
-  "DateAcquired": "1999-11-18", 
+  "CreditLine": "Gift of Peter Norton", 
   "Date": "1992", 
   "ArtistID": 7500, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "9.2000", 
-  "ArtistBio": "American, born 1957", 
-  "CreditLine": "Gift of Peter Norton", 
+  "ArtistBio": "(American, born 1957)", 
+  "DateAcquired": "1999-11-18", 
+  "\ufeffTitle": "Untitled (Yoko)", 
   "ObjectID": "59761"
 }

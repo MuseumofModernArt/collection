@@ -5,8 +5,7 @@
   "Artist": "Terence Westmacott", 
   "URL": "http://www.moma.org/collection/works/8238", 
   "CuratorApproved": "Y", 
-  "Title": "Orchestra Hall", 
-  "DateAcquired": "1983-11-30", 
+  "CreditLine": "Gift of the Container Corporation of America", 
   "Date": "1966", 
   "ArtistID": 6326, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "835.1983", 
-  "ArtistBio": "Nationality unknown", 
-  "CreditLine": "Gift of the Container Corporation of America", 
+  "ArtistBio": "(Nationality unknown)", 
+  "DateAcquired": "1983-11-30", 
+  "\ufeffTitle": "Orchestra Hall", 
   "ObjectID": "8238"
 }

@@ -5,8 +5,7 @@
   "Artist": "Mark Steinmetz", 
   "URL": "http://www.moma.org/collection/works/45018", 
   "CuratorApproved": "Y", 
-  "Title": "Knoxville", 
-  "DateAcquired": "1994-01-13", 
+  "CreditLine": "Horace W. Goldsmith Fund through Robert B. Menschel", 
   "Date": "1992", 
   "ArtistID": 5636, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "52.1994", 
-  "ArtistBio": "American, born 1961", 
-  "CreditLine": "Horace W. Goldsmith Fund through Robert B. Menschel", 
+  "ArtistBio": "(American, born 1961)", 
+  "DateAcquired": "1994-01-13", 
+  "\ufeffTitle": "Knoxville", 
   "ObjectID": "45018"
 }

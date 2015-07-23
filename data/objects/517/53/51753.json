@@ -5,8 +5,7 @@
   "Artist": "Francis Frith", 
   "URL": "http://www.moma.org/collection/works/51753", 
   "CuratorApproved": "Y", 
-  "Title": "The Sphinx and Great Pyramid, Gezah", 
-  "DateAcquired": "1977-10-13", 
+  "CreditLine": "Gift of the Chicago Albumen Works", 
   "Date": "1858", 
   "ArtistID": 2015, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "361.1977", 
-  "ArtistBio": "British, 1822\u20131898", 
-  "CreditLine": "Gift of the Chicago Albumen Works", 
+  "ArtistBio": "(British, 1822\u20131898)", 
+  "DateAcquired": "1977-10-13", 
+  "\ufeffTitle": "The Sphinx and Great Pyramid, Gezah", 
   "ObjectID": "51753"
 }

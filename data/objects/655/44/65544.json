@@ -1,12 +1,11 @@
 {
   "Medium": "Aquatint, etching and drypoint", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "Richard Diebenkorn", 
   "URL": "http://www.moma.org/collection/works/65544", 
   "CuratorApproved": "Y", 
-  "Title": "Flotsam", 
-  "DateAcquired": "1992-05-20", 
+  "CreditLine": "Riva Castleman Fund", 
   "Date": "1991", 
   "ArtistID": 1539, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "264.1992", 
-  "ArtistBio": "American, 1922\u20131993", 
-  "CreditLine": "Riva Castleman Fund", 
+  "ArtistBio": "(American, 1922\u20131993)", 
+  "DateAcquired": "1992-05-20", 
+  "\ufeffTitle": "Flotsam", 
   "ObjectID": "65544"
 }

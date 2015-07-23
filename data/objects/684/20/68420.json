@@ -5,8 +5,7 @@
   "Artist": "Lyonel Feininger", 
   "URL": "http://www.moma.org/collection/works/68420", 
   "CuratorApproved": "Y", 
-  "Title": "Street in Paris", 
-  "DateAcquired": "1956-03-19", 
+  "CreditLine": "Gift of Mrs. Julia Feininger", 
   "Date": "1918", 
   "ArtistID": 1832, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "398.1955", 
-  "ArtistBio": "American, 1871\u20131956", 
-  "CreditLine": "Gift of Mrs. Julia Feininger", 
+  "ArtistBio": "(American, 1871\u20131956)", 
+  "DateAcquired": "1956-03-19", 
+  "\ufeffTitle": "Street in Paris (Strasse in Paris)", 
   "ObjectID": "68420"
 }

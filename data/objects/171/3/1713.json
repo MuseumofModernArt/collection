@@ -5,8 +5,7 @@
   "Artist": "Seguso S.R.L., Murano, Italy", 
   "URL": "http://www.moma.org/collection/works/1713", 
   "CuratorApproved": "Y", 
-  "Title": "Bowl", 
-  "DateAcquired": "1949-02-03", 
+  "CreditLine": "Edgar Kaufmann, Jr. Fund", 
   "Date": "1933-49", 
   "Keywords": [
     "online art collection", 
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "34.1949", 
-  "ArtistBio": "Italian, established 1933", 
-  "CreditLine": "Edgar Kaufmann, Jr. Fund", 
+  "ArtistBio": "(Italian, established 1933)", 
+  "DateAcquired": "1949-02-03", 
+  "\ufeffTitle": "Bowl", 
   "ObjectID": "1713"
 }

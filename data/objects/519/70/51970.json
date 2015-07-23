@@ -5,8 +5,7 @@
   "Artist": "Alfred Stieglitz", 
   "URL": "http://www.moma.org/collection/works/51970", 
   "CuratorApproved": "Y", 
-  "Title": "The Terminal", 
-  "DateAcquired": "1976-10-13", 
+  "CreditLine": "Transferred from the Museum Library", 
   "Date": "1892", 
   "ArtistID": 5664, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "371.1976", 
-  "ArtistBio": "American, 1864\u20131946", 
-  "CreditLine": "Transferred from the Museum Library", 
+  "ArtistBio": "(American, 1864\u20131946)", 
+  "DateAcquired": "1976-10-13", 
+  "\ufeffTitle": "The Terminal", 
   "ObjectID": "51970"
 }

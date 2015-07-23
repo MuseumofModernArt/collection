@@ -5,8 +5,7 @@
   "Artist": "Jasper Johns", 
   "URL": "http://www.moma.org/collection/works/67434", 
   "CuratorApproved": "Y", 
-  "Title": "Flag II", 
-  "DateAcquired": "1988-10-25", 
+  "CreditLine": "Gift of Leo and Jean-Christophe Castelli in memory of Toiny Castelli", 
   "Date": "1960", 
   "ArtistID": 2923, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "348.1988", 
-  "ArtistBio": "American, born 1930", 
-  "CreditLine": "Gift of Leo and Jean-Christophe Castelli in memory of Toiny Castelli", 
+  "ArtistBio": "(American, born 1930)", 
+  "DateAcquired": "1988-10-25", 
+  "\ufeffTitle": "Flag II", 
   "ObjectID": "67434"
 }

@@ -5,8 +5,7 @@
   "Artist": "James Lee Byars", 
   "URL": "http://www.moma.org/collection/works/38115", 
   "CuratorApproved": "Y", 
-  "Title": "Painting", 
-  "DateAcquired": "1969-10-28", 
+  "CreditLine": "Gift of Mrs. Gertrud A. Mellon", 
   "Date": "(1959)", 
   "ArtistID": 902, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "811.1969", 
-  "ArtistBio": "American, 1932\u20131997", 
-  "CreditLine": "Gift of Mrs. Gertrud A. Mellon", 
+  "ArtistBio": "(American, 1932\u20131997)", 
+  "DateAcquired": "1969-10-28", 
+  "\ufeffTitle": "Painting", 
   "ObjectID": "38115"
 }

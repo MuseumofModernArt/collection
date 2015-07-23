@@ -5,8 +5,7 @@
   "Artist": "Lovis Corinth", 
   "URL": "http://www.moma.org/collection/works/67023", 
   "CuratorApproved": "Y", 
-  "Title": "Reconciliation", 
-  "DateAcquired": "1956-10-25", 
+  "CreditLine": "Gift of J.B. Neumann", 
   "Date": "(1914)", 
   "ArtistID": 1243, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "328.1956", 
-  "ArtistBio": "German, 1858\u20131925", 
-  "CreditLine": "Gift of J.B. Neumann", 
+  "ArtistBio": "(German, 1858\u20131925)", 
+  "DateAcquired": "1956-10-25", 
+  "\ufeffTitle": "Reconciliation (Vers\u00f6hnung)", 
   "ObjectID": "67023"
 }

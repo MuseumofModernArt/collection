@@ -5,8 +5,7 @@
   "Artist": "Jim Dine", 
   "URL": "http://www.moma.org/collection/works/67618", 
   "CuratorApproved": "Y", 
-  "Title": "White Teeth", 
-  "DateAcquired": "1963-06-12", 
+  "CreditLine": "Gift of the Celeste and Armand Bartos Foundation", 
   "Date": "1963", 
   "ArtistID": 1547, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "357.1963", 
-  "ArtistBio": "American, born 1935", 
-  "CreditLine": "Gift of the Celeste and Armand Bartos Foundation", 
+  "ArtistBio": "(American, born 1935)", 
+  "DateAcquired": "1963-06-12", 
+  "\ufeffTitle": "White Teeth", 
   "ObjectID": "67618"
 }

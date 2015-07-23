@@ -5,8 +5,7 @@
   "Artist": "Josef Koudelka", 
   "URL": "http://www.moma.org/collection/works/52659", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1971-05-04", 
+  "CreditLine": "Stephen R. Currier Memorial Fund", 
   "Date": "1962-68", 
   "ArtistID": 3229, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "403.1971", 
-  "ArtistBio": "Czech, born 1938", 
-  "CreditLine": "Stephen R. Currier Memorial Fund", 
+  "ArtistBio": "(Czech, born 1938)", 
+  "DateAcquired": "1971-05-04", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "52659"
 }

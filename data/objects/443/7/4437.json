@@ -5,8 +5,7 @@
   "Artist": "Timo Sarpaneva", 
   "URL": "http://www.moma.org/collection/works/4437", 
   "CuratorApproved": "Y", 
-  "Title": "Tumbler (model i-103)", 
-  "DateAcquired": "1983-11-30", 
+  "CreditLine": "Purchase", 
   "Date": "1956", 
   "ArtistID": 5168, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "742.1983", 
-  "ArtistBio": "Finnish, 1926\u20132006", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(Finnish, 1926\u20132006)", 
+  "DateAcquired": "1983-11-30", 
+  "\ufeffTitle": "Tumbler (model i-103)", 
   "ObjectID": "4437"
 }

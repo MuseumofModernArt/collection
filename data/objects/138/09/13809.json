@@ -5,8 +5,7 @@
   "Artist": "Marc Chagall", 
   "URL": "http://www.moma.org/collection/works/13809", 
   "CuratorApproved": "Y", 
-  "Title": "Troyer", 
-  "DateAcquired": "2001-01-24", 
+  "CreditLine": "Gift of The Judith Rothschild Foundation", 
   "Date": "1922", 
   "ArtistID": 1055, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "214.2001.1-6", 
-  "ArtistBio": "French, born Belarus. 1887\u20131985", 
-  "CreditLine": "Gift of The Judith Rothschild Foundation", 
+  "ArtistBio": "(French, born Belarus. 1887\u20131985)", 
+  "DateAcquired": "2001-01-24", 
+  "\ufeffTitle": "Troyer", 
   "ObjectID": "13809"
 }

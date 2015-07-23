@@ -5,8 +5,7 @@
   "Artist": "Giorgio Morandi", 
   "URL": "http://www.moma.org/collection/works/61730", 
   "CuratorApproved": "Y", 
-  "Title": "View of Montagnola, Bologna", 
-  "DateAcquired": "1955-04-06", 
+  "CreditLine": "Gift of Mr. and Mrs. E. Powis Jones", 
   "Date": "1932", 
   "ArtistID": 4079, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "95.1955", 
-  "ArtistBio": "Italian, 1890\u20131964", 
-  "CreditLine": "Gift of Mr. and Mrs. E. Powis Jones", 
+  "ArtistBio": "(Italian, 1890\u20131964)", 
+  "DateAcquired": "1955-04-06", 
+  "\ufeffTitle": "View of Montagnola, Bologna (Veduta della Montagnola di Bologna)", 
   "ObjectID": "61730"
 }

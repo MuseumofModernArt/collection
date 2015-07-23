@@ -5,8 +5,7 @@
   "Artist": "Charles H. Currier", 
   "URL": "http://www.moma.org/collection/works/48117", 
   "CuratorApproved": "Y", 
-  "Title": "Hawkins Street Lodge, Boston", 
-  "DateAcquired": "1944-11-08", 
+  "CreditLine": "Gift of Ernst Halberstadt", 
   "Date": "c. 1900", 
   "ArtistID": 1338, 
   "Keywords": [
@@ -20,7 +19,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "192.1944", 
-  "ArtistBio": "American, 1851\u20131938", 
-  "CreditLine": "Gift of Ernst Halberstadt", 
+  "ArtistBio": "(American, 1851\u20131938)", 
+  "DateAcquired": "1944-11-08", 
+  "\ufeffTitle": "Hawkins Street Lodge, Boston", 
   "ObjectID": "48117"
 }

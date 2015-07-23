@@ -5,8 +5,7 @@
   "Artist": "Sheron Rupp", 
   "URL": "http://www.moma.org/collection/works/46305", 
   "CuratorApproved": "Y", 
-  "Title": "Chester, Arkansas", 
-  "DateAcquired": "1988-03-10", 
+  "CreditLine": "The Family of Man Fund", 
   "Date": "1987", 
   "ArtistID": 5083, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "103.1988.x1-x2", 
-  "ArtistBio": "American, born 1943", 
-  "CreditLine": "The Family of Man Fund", 
+  "ArtistBio": "(American, born 1943)", 
+  "DateAcquired": "1988-03-10", 
+  "\ufeffTitle": "Chester, Arkansas", 
   "ObjectID": "46305"
 }

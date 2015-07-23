@@ -5,8 +5,7 @@
   "Artist": "Frederick H. Evans", 
   "URL": "http://www.moma.org/collection/works/58933", 
   "CuratorApproved": "Y", 
-  "Title": "Lincoln Cathedral: From the Castle", 
-  "DateAcquired": "1967-12-13", 
+  "CreditLine": "Purchase", 
   "Date": "1898", 
   "ArtistID": 1774, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "2623.1967", 
-  "ArtistBio": "British, 1853\u20131943", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(British, 1853\u20131943)", 
+  "DateAcquired": "1967-12-13", 
+  "\ufeffTitle": "Lincoln Cathedral: From the Castle", 
   "ObjectID": "58933"
 }

@@ -5,8 +5,7 @@
   "Artist": "Reiko Sudo", 
   "URL": "http://www.moma.org/collection/works/3034", 
   "CuratorApproved": "Y", 
-  "Title": "Fabric (no. 9-158)", 
-  "DateAcquired": "1994-05-03", 
+  "CreditLine": "Gift of the manufacturer", 
   "Date": "1992", 
   "ArtistID": 7045, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "246.1994", 
-  "ArtistBio": "Japanese, born 1953", 
-  "CreditLine": "Gift of the manufacturer", 
+  "ArtistBio": "(Japanese, born 1953)", 
+  "DateAcquired": "1994-05-03", 
+  "\ufeffTitle": "Fabric (no. 9-158)", 
   "ObjectID": "3034"
 }

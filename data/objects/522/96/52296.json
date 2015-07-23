@@ -5,8 +5,7 @@
   "Artist": "Paul Martin", 
   "URL": "http://www.moma.org/collection/works/52296", 
   "CuratorApproved": "Y", 
-  "Title": "Market Porters Carrying Boxes of Oranges", 
-  "DateAcquired": "1938-10-20", 
+  "CreditLine": "Gift of the photographer", 
   "Date": "1894", 
   "ArtistID": 3795, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "386.1938", 
-  "ArtistBio": "British, 1864\u20131944", 
-  "CreditLine": "Gift of the photographer", 
+  "ArtistBio": "(British, 1864\u20131944)", 
+  "DateAcquired": "1938-10-20", 
+  "\ufeffTitle": "Market Porters Carrying Boxes of Oranges", 
   "ObjectID": "52296"
 }

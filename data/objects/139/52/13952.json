@@ -1,12 +1,11 @@
 {
   "Medium": "Artist's book", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Illustrated Book", 
   "Artist": "Sol LeWitt", 
   "URL": "http://www.moma.org/collection/works/13952", 
   "CuratorApproved": "Y", 
-  "Title": "Four Colors and All Their Combinations", 
-  "DateAcquired": "1997-05-28", 
+  "CreditLine": "Purchase", 
   "Date": "1994", 
   "ArtistID": 3528, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "225.1997", 
-  "ArtistBio": "American, 1928\u20132007", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, 1928\u20132007)", 
+  "DateAcquired": "1997-05-28", 
+  "\ufeffTitle": "Four Colors and All Their Combinations", 
   "ObjectID": "13952"
 }

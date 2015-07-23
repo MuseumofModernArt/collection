@@ -5,8 +5,7 @@
   "Artist": "Lyonel Feininger", 
   "URL": "http://www.moma.org/collection/works/34488", 
   "CuratorApproved": "Y", 
-  "Title": "The Rainbow", 
-  "DateAcquired": "1966-02-08", 
+  "CreditLine": "Gift of Julia Feininger", 
   "Date": "1918", 
   "ArtistID": 1832, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "128.1966", 
-  "ArtistBio": "American, 1871\u20131956", 
-  "CreditLine": "Gift of Julia Feininger", 
+  "ArtistBio": "(American, 1871\u20131956)", 
+  "DateAcquired": "1966-02-08", 
+  "\ufeffTitle": "The Rainbow (Der Regenbogen)", 
   "ObjectID": "34488"
 }

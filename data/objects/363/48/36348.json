@@ -5,8 +5,7 @@
   "Artist": "Joel Shapiro", 
   "URL": "http://www.moma.org/collection/works/36348", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1989-11-21", 
+  "CreditLine": "Acquired with matching funds from the Robert Lehman Foundation, Inc. and the National Endowment for the Arts", 
   "Date": "(1988)", 
   "ArtistID": 5373, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "330.1989", 
-  "ArtistBio": "American, born 1941", 
-  "CreditLine": "Acquired with matching funds from the Robert Lehman Foundation, Inc. and the National Endowment for the Arts", 
+  "ArtistBio": "(American, born 1941)", 
+  "DateAcquired": "1989-11-21", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "36348"
 }

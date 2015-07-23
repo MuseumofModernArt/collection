@@ -5,8 +5,7 @@
   "Artist": "Mathew B. Brady (studio of)", 
   "URL": "http://www.moma.org/collection/works/54300", 
   "CuratorApproved": "Y", 
-  "Title": "Portrait of Robert Schenck", 
-  "DateAcquired": "1965-05-11", 
+  "CreditLine": "Anonymous gift", 
   "Date": "1871", 
   "ArtistID": 734, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "491.1965", 
-  "ArtistBio": "American, 1823\u20131896", 
-  "CreditLine": "Anonymous gift", 
+  "ArtistBio": "(American, 1823\u20131896)", 
+  "DateAcquired": "1965-05-11", 
+  "\ufeffTitle": "Portrait of Robert Schenck", 
   "ObjectID": "54300"
 }

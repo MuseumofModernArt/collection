@@ -5,8 +5,7 @@
   "Artist": "Peter Danko", 
   "URL": "http://www.moma.org/collection/works/2972", 
   "CuratorApproved": "Y", 
-  "Title": "Bodyform Side Chair", 
-  "DateAcquired": "1986-10-07", 
+  "CreditLine": "Gift of the designer", 
   "Date": "1980", 
   "ArtistID": 1378, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "240.1986", 
-  "ArtistBio": "American, born 1949", 
-  "CreditLine": "Gift of the designer", 
+  "ArtistBio": "(American, born 1949)", 
+  "DateAcquired": "1986-10-07", 
+  "\ufeffTitle": "Bodyform Side Chair", 
   "ObjectID": "2972"
 }

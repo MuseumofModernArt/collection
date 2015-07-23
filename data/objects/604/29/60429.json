@@ -1,12 +1,11 @@
 {
   "Medium": "Etching and aquatint", 
-  "Dimensions": "plate  21 1/4 x 27 3/16\" (54 x 69 cm)  sheet  23 5/8 x 30 5/8\" (60 x 77.8 cm)", 
+  "Dimensions": "plate  21 1/4 x 27 3/16\" (54 x 69 cm)\r\nsheet  23 5/8 x 30 5/8\" (60 x 77.8 cm)", 
   "Classification": "Print", 
   "Artist": "Mati Basis", 
   "URL": "http://www.moma.org/collection/works/60429", 
   "CuratorApproved": "Y", 
-  "Title": "Woods #2", 
-  "DateAcquired": "1977-02-10", 
+  "CreditLine": "John R. Jakobson Foundation Fund", 
   "Date": "(1973)", 
   "ArtistID": 368, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "28.1977", 
-  "ArtistBio": "Israeli, born 1933", 
-  "CreditLine": "John R. Jakobson Foundation Fund", 
+  "ArtistBio": "(Israeli, born 1933)", 
+  "DateAcquired": "1977-02-10", 
+  "\ufeffTitle": "Woods #2", 
   "ObjectID": "60429"
 }

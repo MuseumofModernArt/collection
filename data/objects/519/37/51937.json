@@ -5,8 +5,7 @@
   "Artist": "Mike and Doug Starn", 
   "URL": "http://www.moma.org/collection/works/51937", 
   "CuratorApproved": "Y", 
-  "Title": "Double Rembrandt with Steps", 
-  "DateAcquired": "1992-06-18", 
+  "CreditLine": "Gift of Barbara and Eugene M. Schwartz", 
   "Date": "1987-88", 
   "ArtistID": 7707, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "369.1992.a-b", 
-  "ArtistBio": "American, born 1961", 
-  "CreditLine": "Gift of Barbara and Eugene M. Schwartz", 
+  "ArtistBio": "(American, born 1961)", 
+  "DateAcquired": "1992-06-18", 
+  "\ufeffTitle": "Double Rembrandt with Steps", 
   "ObjectID": "51937"
 }

@@ -5,8 +5,7 @@
   "Artist": "Frederick Sommer", 
   "URL": "http://www.moma.org/collection/works/46423", 
   "CuratorApproved": "Y", 
-  "Title": "The Wall", 
-  "DateAcquired": "1964-01-07", 
+  "CreditLine": "Gift of the photographer", 
   "Date": "1951", 
   "ArtistID": 5520, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "111.1964", 
-  "ArtistBio": "American, born Italy. 1905\u20131999", 
-  "CreditLine": "Gift of the photographer", 
+  "ArtistBio": "(American, born Italy. 1905\u20131999)", 
+  "DateAcquired": "1964-01-07", 
+  "\ufeffTitle": "The Wall", 
   "ObjectID": "46423"
 }

@@ -5,8 +5,7 @@
   "Artist": "Pablo Picasso", 
   "URL": "http://www.moma.org/collection/works/62986", 
   "CuratorApproved": "Y", 
-  "Title": "Bull, state VII", 
-  "DateAcquired": "1979-05-01", 
+  "CreditLine": "Mrs. Gilbert W. Chapman Fund", 
   "Date": "December 26, 1945", 
   "ArtistID": 4609, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "151.1979", 
-  "ArtistBio": "Spanish, 1881\u20131973", 
-  "CreditLine": "Mrs. Gilbert W. Chapman Fund", 
+  "ArtistBio": "(Spanish, 1881\u20131973)", 
+  "DateAcquired": "1979-05-01", 
+  "\ufeffTitle": "The Bull (Le Taureau), state VI", 
   "ObjectID": "62986"
 }

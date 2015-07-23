@@ -5,8 +5,7 @@
   "Artist": "Jacob August Riis", 
   "URL": "http://www.moma.org/collection/works/47342", 
   "CuratorApproved": "Y", 
-  "Title": "Ancient Lodger, Eldridge Street Police Station", 
-  "DateAcquired": "1982-05-13", 
+  "CreditLine": "Gift of the Museum of the City of New York", 
   "Date": "1890", 
   "ArtistID": 4928, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "172.1982", 
-  "ArtistBio": "American, born Denmark. 1849\u20131914", 
-  "CreditLine": "Gift of the Museum of the City of New York", 
+  "ArtistBio": "(American, born Denmark. 1849\u20131914)", 
+  "DateAcquired": "1982-05-13", 
+  "\ufeffTitle": "Ancient Lodger, Eldridge Street Police Station", 
   "ObjectID": "47342"
 }

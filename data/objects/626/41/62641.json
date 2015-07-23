@@ -5,8 +5,7 @@
   "Artist": "Kiki Smith", 
   "URL": "http://www.moma.org/collection/works/62641", 
   "CuratorApproved": "Y", 
-  "Title": "Moth", 
-  "DateAcquired": "1997-03-06", 
+  "CreditLine": "Gift of Emily Fisher Landau", 
   "Date": "1996", 
   "ArtistID": 5486, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "136.1997", 
-  "ArtistBio": "American, born Germany 1954", 
-  "CreditLine": "Gift of Emily Fisher Landau", 
+  "ArtistBio": "(American, born Germany 1954)", 
+  "DateAcquired": "1997-03-06", 
+  "\ufeffTitle": "Moth", 
   "ObjectID": "62641"
 }

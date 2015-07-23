@@ -5,8 +5,7 @@
   "Artist": "Philip-Lorca diCorcia", 
   "URL": "http://www.moma.org/collection/works/50332", 
   "CuratorApproved": "Y", 
-  "Title": "Major Tom; Kansas City, Kansas; $20", 
-  "DateAcquired": "1993-10-14", 
+  "CreditLine": "E.T. Harmax Foundation Fund", 
   "Date": "1990-92", 
   "ArtistID": 7027, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "306.1993.x1-x2", 
-  "ArtistBio": "American, born 1951", 
-  "CreditLine": "E.T. Harmax Foundation Fund", 
+  "ArtistBio": "(American, born 1951)", 
+  "DateAcquired": "1993-10-14", 
+  "\ufeffTitle": "Major Tom; Kansas City, Kansas; $20", 
   "ObjectID": "50332"
 }

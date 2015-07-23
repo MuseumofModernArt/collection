@@ -5,8 +5,7 @@
   "Artist": "Clarence H. White", 
   "URL": "http://www.moma.org/collection/works/55573", 
   "CuratorApproved": "Y", 
-  "Title": "The Stephen Reynolds Family", 
-  "DateAcquired": "1971-11-10", 
+  "CreditLine": "Purchase", 
   "Date": "1905", 
   "ArtistID": 6338, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "610.1971", 
-  "ArtistBio": "American, 1871\u20131925", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, 1871\u20131925)", 
+  "DateAcquired": "1971-11-10", 
+  "\ufeffTitle": "The Stephen Reynolds Family", 
   "ObjectID": "55573"
 }

@@ -5,8 +5,7 @@
   "Artist": "Kazimir Malevich", 
   "URL": "http://www.moma.org/collection/works/9162", 
   "CuratorApproved": "Y", 
-  "Title": "Vil'gel'mova Karusel'", 
-  "DateAcquired": "2001-01-24", 
+  "CreditLine": "Gift of The Judith Rothschild Foundation", 
   "Date": "1914", 
   "ArtistID": 3710, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "14.2001", 
-  "ArtistBio": "Russian, born Ukraine. 1878\u20131935", 
-  "CreditLine": "Gift of The Judith Rothschild Foundation", 
+  "ArtistBio": "(Russian, born Ukraine. 1878\u20131935)", 
+  "DateAcquired": "2001-01-24", 
+  "\ufeffTitle": "Vil'gel'mova Karusel'", 
   "ObjectID": "9162"
 }

@@ -5,8 +5,7 @@
   "Artist": "Bruce Conner", 
   "URL": "http://www.moma.org/collection/works/36282", 
   "CuratorApproved": "Y", 
-  "Title": "Inkblot Drawing", 
-  "DateAcquired": "1998-04-23", 
+  "CreditLine": "Purchased with funds given by Sarah-Ann and Werner H. Kramarsky", 
   "Date": "1990", 
   "ArtistID": 1215, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "320.1998", 
-  "ArtistBio": "American, 1933\u20132008", 
-  "CreditLine": "Purchased with funds given by Sarah-Ann and Werner H. Kramarsky", 
+  "ArtistBio": "(American, 1933\u20132008)", 
+  "DateAcquired": "1998-04-23", 
+  "\ufeffTitle": "Inkblot Drawing", 
   "ObjectID": "36282"
 }

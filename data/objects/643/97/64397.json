@@ -1,12 +1,11 @@
 {
   "Medium": "Screenprint", 
-  "Dimensions": "composition  11 1/4 x 7 15/16\" (28.6 x 20.3 cm)  sheet  22 15/16 x 17 11/16\" (58 x 45 cm)", 
+  "Dimensions": "composition  11 1/4 x 7 15/16\" (28.6 x 20.3 cm)\r\nsheet  22 15/16 x 17 11/16\" (58 x 45 cm)", 
   "Classification": "Print", 
   "Artist": "Matt Mullican", 
   "URL": "http://www.moma.org/collection/works/64397", 
   "CuratorApproved": "Y", 
-  "Title": "Heaven from the portfolio Minimal Times 5 (5 mal streng)", 
-  "DateAcquired": "1990-05-02", 
+  "CreditLine": "John B. Turner Fund", 
   "Date": "1985", 
   "ArtistID": 4160, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "207.1990", 
-  "ArtistBio": "American, born 1951", 
-  "CreditLine": "John B. Turner Fund", 
+  "ArtistBio": "(American, born 1951)", 
+  "DateAcquired": "1990-05-02", 
+  "\ufeffTitle": "Heaven from the portfolio Minimal Times 5 (5 mal streng)", 
   "ObjectID": "64397"
 }

@@ -5,8 +5,7 @@
   "Artist": "Alberto Giacometti", 
   "URL": "http://www.moma.org/collection/works/67040", 
   "CuratorApproved": "Y", 
-  "Title": "Georges Bataille", 
-  "DateAcquired": "1948-10-06", 
+  "CreditLine": "Gift of Victor S. Riesenfeld", 
   "Date": "1947", 
   "ArtistID": 2141, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "329.1948", 
-  "ArtistBio": "Swiss, 1901\u20131966", 
-  "CreditLine": "Gift of Victor S. Riesenfeld", 
+  "ArtistBio": "(Swiss, 1901\u20131966)", 
+  "DateAcquired": "1948-10-06", 
+  "\ufeffTitle": "Georges Bataille", 
   "ObjectID": "67040"
 }

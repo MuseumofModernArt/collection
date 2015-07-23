@@ -5,8 +5,7 @@
   "Artist": "Tom Phillips", 
   "URL": "http://www.moma.org/collection/works/16430", 
   "CuratorApproved": "Y", 
-  "Title": "Page 88 (folio 4) from A Humument, Volume I", 
-  "DateAcquired": "1971-03-30", 
+  "CreditLine": "John R. Jakobson Foundation Fund", 
   "Date": "(1966-70)", 
   "ArtistID": 4603, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "375.1971.3", 
-  "ArtistBio": "British, born 1937", 
-  "CreditLine": "John R. Jakobson Foundation Fund", 
+  "ArtistBio": "(British, born 1937)", 
+  "DateAcquired": "1971-03-30", 
+  "\ufeffTitle": "Page 88 (folio 4) from A Humument, Volume I", 
   "ObjectID": "16430"
 }

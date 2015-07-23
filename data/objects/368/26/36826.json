@@ -5,8 +5,7 @@
   "Artist": "Henri Matisse", 
   "URL": "http://www.moma.org/collection/works/36826", 
   "CuratorApproved": "Y", 
-  "Title": "The Plumed Hat", 
-  "DateAcquired": "1975-11-10", 
+  "CreditLine": "Gift of The Lauder Foundation", 
   "Date": "(1919)", 
   "ArtistID": 3832, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "422.1975", 
-  "ArtistBio": "French, 1869\u20131954", 
-  "CreditLine": "Gift of The Lauder Foundation", 
+  "ArtistBio": "(French, 1869\u20131954)", 
+  "DateAcquired": "1975-11-10", 
+  "\ufeffTitle": "The Plumed Hat", 
   "ObjectID": "36826"
 }

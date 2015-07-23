@@ -5,8 +5,7 @@
   "Artist": "Karl Hofer", 
   "URL": "http://www.moma.org/collection/works/67111", 
   "CuratorApproved": "Y", 
-  "Title": "Girl with Flower", 
-  "DateAcquired": "1947-12-19", 
+  "CreditLine": "Purchase", 
   "Date": "1946/1947", 
   "ArtistID": 2686, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "333.1947", 
-  "ArtistBio": "German, 1878\u20131955", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(German, 1878\u20131955)", 
+  "DateAcquired": "1947-12-19", 
+  "\ufeffTitle": "Girl with Flower (M\u00e4dchen mit Christblume)", 
   "ObjectID": "67111"
 }

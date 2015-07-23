@@ -1,12 +1,11 @@
 {
   "Medium": "Lithograph", 
-  "Dimensions": "irreg. composition  14 13/16 x 19 5/8\" (37.6 x 49.9 cm)  sheet  31 1/16 x 23\" (78 x 58.5 cm)", 
+  "Dimensions": "irreg. composition  14 13/16 x 19 5/8\" (37.6 x 49.9 cm)\r\nsheet  31 1/16 x 23\" (78 x 58.5 cm)", 
   "Classification": "Print", 
   "Artist": "Jasper Johns", 
   "URL": "http://www.moma.org/collection/works/68020", 
   "CuratorApproved": "Y", 
-  "Title": "HandFootSockFloor from the series Casts from Untitled", 
-  "DateAcquired": "1987-10-20", 
+  "CreditLine": "Jeanne C. Thayer Fund", 
   "Date": "1974", 
   "ArtistID": 2923, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "374.1987", 
-  "ArtistBio": "American, born 1930", 
-  "CreditLine": "Jeanne C. Thayer Fund", 
+  "ArtistBio": "(American, born 1930)", 
+  "DateAcquired": "1987-10-20", 
+  "\ufeffTitle": "HandFootSockFloor from the series Casts from Untitled", 
   "ObjectID": "68020"
 }

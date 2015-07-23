@@ -5,8 +5,7 @@
   "Artist": "Kiki Smith", 
   "URL": "http://www.moma.org/collection/works/10107", 
   "CuratorApproved": "Y", 
-  "Title": "Bat (plate, folio 79 verso) from A Bestiary", 
-  "DateAcquired": "1991-01-23", 
+  "CreditLine": "Abby Aldrich Rockefeller Fund", 
   "Date": "1990", 
   "ArtistID": 5486, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "29.1991.36", 
-  "ArtistBio": "American, born Germany 1954", 
-  "CreditLine": "Abby Aldrich Rockefeller Fund", 
+  "ArtistBio": "(American, born Germany 1954)", 
+  "DateAcquired": "1991-01-23", 
+  "\ufeffTitle": "Bat from A Bestiary", 
   "ObjectID": "10107"
 }

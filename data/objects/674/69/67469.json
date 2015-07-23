@@ -5,8 +5,7 @@
   "Artist": "Grace Hartigan", 
   "URL": "http://www.moma.org/collection/works/67469", 
   "CuratorApproved": "Y", 
-  "Title": "Inside - Outside", 
-  "DateAcquired": "1962-12-11", 
+  "CreditLine": "Gift of the Celeste and Armand Bartos Foundation", 
   "Date": "1962", 
   "ArtistID": 2520, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "350.1962", 
-  "ArtistBio": "American, 1922\u20132008", 
-  "CreditLine": "Gift of the Celeste and Armand Bartos Foundation", 
+  "ArtistBio": "(American, 1922\u20132008)", 
+  "DateAcquired": "1962-12-11", 
+  "\ufeffTitle": "Inside - Outside", 
   "ObjectID": "67469"
 }

@@ -5,8 +5,7 @@
   "Artist": "Lester Beall", 
   "URL": "http://www.moma.org/collection/works/5014", 
   "CuratorApproved": "Y", 
-  "Title": "Cross Out Slums", 
-  "DateAcquired": "1944-05-02", 
+  "CreditLine": "Gift of the U.S. Housing Authority", 
   "Date": "1941", 
   "ArtistID": 409, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "89.1944", 
-  "ArtistBio": "American, 1903\u20131969", 
-  "CreditLine": "Gift of the U.S. Housing Authority", 
+  "ArtistBio": "(American, 1903\u20131969)", 
+  "DateAcquired": "1944-05-02", 
+  "\ufeffTitle": "Cross Out Slums", 
   "ObjectID": "5014"
 }

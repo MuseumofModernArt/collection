@@ -5,8 +5,7 @@
   "Artist": "Enzo Mari", 
   "URL": "http://www.moma.org/collection/works/4675", 
   "CuratorApproved": "Y", 
-  "Title": "Samos Bowl (model Q)", 
-  "DateAcquired": "2001-04-30", 
+  "CreditLine": "Given anonymously", 
   "Date": "1973", 
   "ArtistID": 3766, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "1312.2001", 
-  "ArtistBio": "Italian, born 1932", 
-  "CreditLine": "Given anonymously", 
+  "ArtistBio": "(Italian, born 1932)", 
+  "DateAcquired": "2001-04-30", 
+  "\ufeffTitle": "Samos Bowl (model Q)", 
   "ObjectID": "4675"
 }

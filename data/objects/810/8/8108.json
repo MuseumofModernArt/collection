@@ -5,8 +5,7 @@
   "Artist": "Milton Glaser", 
   "URL": "http://www.moma.org/collection/works/8108", 
   "CuratorApproved": "Y", 
-  "Title": "Dylan", 
-  "DateAcquired": "1983-11-30", 
+  "CreditLine": "Gift of the designer", 
   "Date": "1966", 
   "ArtistID": 2188, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "773.1983", 
-  "ArtistBio": "American, born 1929", 
-  "CreditLine": "Gift of the designer", 
+  "ArtistBio": "(American, born 1929)", 
+  "DateAcquired": "1983-11-30", 
+  "\ufeffTitle": "Dylan", 
   "ObjectID": "8108"
 }

@@ -5,8 +5,7 @@
   "Artist": "Walter Seifert", 
   "URL": "http://www.moma.org/collection/works/8407", 
   "CuratorApproved": "Y", 
-  "Title": "Wo hab'ich nur den Brief?", 
-  "DateAcquired": "1999-12-10", 
+  "CreditLine": "Jan Tschichold Collection, Gift of Philip Johnson", 
   "Date": "c. 1932", 
   "ArtistID": 8236, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "938.1999", 
-  "ArtistBio": "German", 
-  "CreditLine": "Jan Tschichold Collection, Gift of Philip Johnson", 
+  "ArtistBio": "(German)", 
+  "DateAcquired": "1999-12-10", 
+  "\ufeffTitle": "Wo hab'ich nur den Brief?", 
   "ObjectID": "8407"
 }

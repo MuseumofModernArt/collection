@@ -5,8 +5,7 @@
   "Artist": "Edward Ruscha", 
   "URL": "http://www.moma.org/collection/works/34089", 
   "CuratorApproved": "Y", 
-  "Title": "Ding", 
-  "DateAcquired": "2000-02-03", 
+  "CreditLine": "Purchased with funds given by Agnes Gund, Mr. and Mrs. James R. Hedges, IV, Jo Carole and Ronald S. Lauder and the General Drawings Fund", 
   "Date": "1971", 
   "ArtistID": 5086, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "114.2000", 
-  "ArtistBio": "American, born 1937", 
-  "CreditLine": "Purchased with funds given by Agnes Gund, Mr. and Mrs. James R. Hedges, IV, Jo Carole and Ronald S. Lauder and the General Drawings Fund", 
+  "ArtistBio": "(American, born 1937)", 
+  "DateAcquired": "2000-02-03", 
+  "\ufeffTitle": "Ding", 
   "ObjectID": "34089"
 }

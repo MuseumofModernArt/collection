@@ -5,8 +5,7 @@
   "Artist": "Minor White", 
   "URL": "http://www.moma.org/collection/works/54714", 
   "CuratorApproved": "Y", 
-  "Title": "Lobos Sandstone, Slit, and Shadow", 
-  "DateAcquired": "1960-11-30", 
+  "CreditLine": "Courtesy of the photographer", 
   "Date": "1949", 
   "ArtistID": 6342, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "526.1960", 
-  "ArtistBio": "American, 1908\u20131976", 
-  "CreditLine": "Courtesy of the photographer", 
+  "ArtistBio": "(American, 1908\u20131976)", 
+  "DateAcquired": "1960-11-30", 
+  "\ufeffTitle": "Lobos Sandstone, Slit, and Shadow", 
   "ObjectID": "54714"
 }

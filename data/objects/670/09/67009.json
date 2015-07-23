@@ -5,8 +5,7 @@
   "Artist": "Paul Klee", 
   "URL": "http://www.moma.org/collection/works/67009", 
   "CuratorApproved": "Y", 
-  "Title": "Street Children", 
-  "DateAcquired": "1958-12-19", 
+  "CreditLine": "Gift of Clifford Odets", 
   "Date": "1912", 
   "ArtistID": 3130, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "327.1958", 
-  "ArtistBio": "German, born Switzerland. 1879\u20131940", 
-  "CreditLine": "Gift of Clifford Odets", 
+  "ArtistBio": "(German, born Switzerland. 1879\u20131940)", 
+  "DateAcquired": "1958-12-19", 
+  "\ufeffTitle": "Street Children (Gassenkinder)", 
   "ObjectID": "67009"
 }

@@ -5,8 +5,7 @@
   "Artist": "Alex Walter Diggelmann", 
   "URL": "http://www.moma.org/collection/works/6287", 
   "CuratorApproved": "Y", 
-  "Title": "PKZ Burger-Kehl & Co AG", 
-  "DateAcquired": "1984-10-30", 
+  "CreditLine": "Gift of Emilio Sanchez", 
   "Date": "1935", 
   "ArtistID": 1541, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "328.1984", 
-  "ArtistBio": "Swiss, 1902\u20131987", 
-  "CreditLine": "Gift of Emilio Sanchez", 
+  "ArtistBio": "(Swiss, 1902\u20131987)", 
+  "DateAcquired": "1984-10-30", 
+  "\ufeffTitle": "PKZ Burger-Kehl & Co AG", 
   "ObjectID": "6287"
 }

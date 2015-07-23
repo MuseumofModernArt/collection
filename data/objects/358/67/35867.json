@@ -5,8 +5,7 @@
   "Artist": "Pablo Picasso", 
   "URL": "http://www.moma.org/collection/works/35867", 
   "CuratorApproved": "Y", 
-  "Title": "Head of a Man with a Hat", 
-  "DateAcquired": "1937-12-03", 
+  "CreditLine": "Purchase", 
   "Date": "Paris, December 1912", 
   "ArtistID": 4609, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "274.1937", 
-  "ArtistBio": "Spanish, 1881\u20131973", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(Spanish, 1881\u20131973)", 
+  "DateAcquired": "1937-12-03", 
+  "\ufeffTitle": "Head of a Man with a Hat", 
   "ObjectID": "35867"
 }

@@ -5,8 +5,7 @@
   "Artist": "Jasper Johns", 
   "URL": "http://www.moma.org/collection/works/61101", 
   "CuratorApproved": "Y", 
-  "Title": "White Target", 
-  "DateAcquired": "1969-02-10", 
+  "CreditLine": "Gift of the Celeste and Armand Bartos Foundation", 
   "Date": "1968", 
   "ArtistID": 2923, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "59.1969", 
-  "ArtistBio": "American, born 1930", 
-  "CreditLine": "Gift of the Celeste and Armand Bartos Foundation", 
+  "ArtistBio": "(American, born 1930)", 
+  "DateAcquired": "1969-02-10", 
+  "\ufeffTitle": "White Target", 
   "ObjectID": "61101"
 }

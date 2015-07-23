@@ -5,8 +5,7 @@
   "Artist": "Paula Scher", 
   "URL": "http://www.moma.org/collection/works/8837", 
   "CuratorApproved": "Y", 
-  "Title": "The Diva is Dismissed", 
-  "DateAcquired": "2000-12-11", 
+  "CreditLine": "Gift of the designer", 
   "Date": "1994", 
   "ArtistID": 7070, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "1540.2000", 
-  "ArtistBio": "American, born 1948", 
-  "CreditLine": "Gift of the designer", 
+  "ArtistBio": "(American, born 1948)", 
+  "DateAcquired": "2000-12-11", 
+  "\ufeffTitle": "The Diva is Dismissed", 
   "ObjectID": "8837"
 }

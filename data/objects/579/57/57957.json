@@ -5,8 +5,7 @@
   "Artist": "Henri Cartier-Bresson", 
   "URL": "http://www.moma.org/collection/works/57957", 
   "CuratorApproved": "Y", 
-  "Title": "Callej\u00f3n of the Valencia Arena", 
-  "DateAcquired": "1969-01-08", 
+  "CreditLine": "Gift of the photographer", 
   "Date": "1933", 
   "ArtistID": 1000, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "1234.1969", 
-  "ArtistBio": "French, 1908\u20132004", 
-  "CreditLine": "Gift of the photographer", 
+  "ArtistBio": "(French, 1908\u20132004)", 
+  "DateAcquired": "1969-01-08", 
+  "\ufeffTitle": "Callej\u00f3n of the Valencia Arena", 
   "ObjectID": "57957"
 }

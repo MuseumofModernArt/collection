@@ -5,8 +5,7 @@
   "Artist": "Edward Ranney", 
   "URL": "http://www.moma.org/collection/works/50890", 
   "CuratorApproved": "Y", 
-  "Title": "Sillustani, Peru", 
-  "DateAcquired": "1982-10-28", 
+  "CreditLine": "Gift of the photographer", 
   "Date": "1975", 
   "ArtistID": 4813, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "327.1982", 
-  "ArtistBio": "American, born 1942", 
-  "CreditLine": "Gift of the photographer", 
+  "ArtistBio": "(American, born 1942)", 
+  "DateAcquired": "1982-10-28", 
+  "\ufeffTitle": "Sillustani, Peru", 
   "ObjectID": "50890"
 }

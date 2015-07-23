@@ -5,8 +5,7 @@
   "Artist": "Karl Schmidt-Rottluff", 
   "URL": "http://www.moma.org/collection/works/9028", 
   "CuratorApproved": "Y", 
-  "Title": "Woman's Head (plate 22) from the illustrated book Deutsche Graphiker der Gegenwart (German Printmakers of Our Time)", 
-  "DateAcquired": "NULL", 
+  "CreditLine": "Purchase", 
   "Date": "1920 (print executed in 1916)", 
   "ArtistID": 5242, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "2.1942.15", 
-  "ArtistBio": "German, 1884\u20131976", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(German, 1884\u20131976)", 
+  "DateAcquired": "", 
+  "\ufeffTitle": "Woman's Head (plate 22) from the illustrated book Deutsche Graphiker der Gegenwart (German Printmakers of Our Time)", 
   "ObjectID": "9028"
 }

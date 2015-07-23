@@ -5,8 +5,7 @@
   "Artist": "Hans Hollein", 
   "URL": "http://www.moma.org/collection/works/696", 
   "CuratorApproved": "Y", 
-  "Title": "Monument to Victims of the Holocaust, project  Exterior perspective", 
-  "DateAcquired": "1963-11-12", 
+  "CreditLine": "Gift of Philip Johnson", 
   "Date": "1963", 
   "ArtistID": 2705, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "564.1963", 
-  "ArtistBio": "Austrian, 1934\u20132014", 
-  "CreditLine": "Gift of Philip Johnson", 
+  "ArtistBio": "(Austrian, 1934\u20132014)", 
+  "DateAcquired": "1963-11-12", 
+  "\ufeffTitle": "Monument to Victims of the Holocaust, project, Exterior perspective", 
   "ObjectID": "696"
 }

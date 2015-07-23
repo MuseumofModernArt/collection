@@ -5,8 +5,7 @@
   "Artist": "Antonio Segui", 
   "URL": "http://www.moma.org/collection/works/66655", 
   "CuratorApproved": "Y", 
-  "Title": "Synchronization", 
-  "DateAcquired": "1969-04-16", 
+  "CreditLine": "Inter-American Fund", 
   "Date": "1966", 
   "ArtistID": 5319, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "310.1969", 
-  "ArtistBio": "Argentine, born 1934", 
-  "CreditLine": "Inter-American Fund", 
+  "ArtistBio": "(Argentine, born 1934)", 
+  "DateAcquired": "1969-04-16", 
+  "\ufeffTitle": "Synchronization", 
   "ObjectID": "66655"
 }

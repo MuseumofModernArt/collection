@@ -5,8 +5,7 @@
   "Artist": "Gregory Amenoff", 
   "URL": "http://www.moma.org/collection/works/36900", 
   "CuratorApproved": "Y", 
-  "Title": "Medanales Group II", 
-  "DateAcquired": "1986-12-22", 
+  "CreditLine": "Gift of Agnes Gund", 
   "Date": "1985", 
   "ArtistID": 145, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "438.1986", 
-  "ArtistBio": "American, born 1948", 
-  "CreditLine": "Gift of Agnes Gund", 
+  "ArtistBio": "(American, born 1948)", 
+  "DateAcquired": "1986-12-22", 
+  "\ufeffTitle": "Medanales Group II", 
   "ObjectID": "36900"
 }

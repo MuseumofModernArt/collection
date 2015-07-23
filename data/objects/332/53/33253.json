@@ -5,8 +5,7 @@
   "Artist": "Albert Marquet", 
   "URL": "http://www.moma.org/collection/works/33253", 
   "CuratorApproved": "Y", 
-  "Title": "Woman with Umbrella", 
-  "DateAcquired": "1953-01-30", 
+  "CreditLine": "Purchase", 
   "Date": "(1900-04)", 
   "ArtistID": 3782, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "19.1953", 
-  "ArtistBio": "French, 1875\u20131947", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(French, 1875\u20131947)", 
+  "DateAcquired": "1953-01-30", 
+  "\ufeffTitle": "Woman with Umbrella", 
   "ObjectID": "33253"
 }

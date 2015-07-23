@@ -5,8 +5,7 @@
   "Artist": "Jim Bengston", 
   "URL": "http://www.moma.org/collection/works/55938", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled (My Nephew Robert Diving into the Oslo Fjord-Legs from Side, Toes Wrapped)", 
-  "DateAcquired": "1978-10-12", 
+  "CreditLine": "Gift of the photographer", 
   "Date": "August 1977", 
   "ArtistID": 473, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "668.1978", 
-  "ArtistBio": "American, born 1942", 
-  "CreditLine": "Gift of the photographer", 
+  "ArtistBio": "(American, born 1942)", 
+  "DateAcquired": "1978-10-12", 
+  "\ufeffTitle": "Untitled (My Nephew Robert Diving into the Oslo Fjord-Legs from Side, Toes Wrapped)", 
   "ObjectID": "55938"
 }

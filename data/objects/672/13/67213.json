@@ -5,8 +5,7 @@
   "Artist": "Otto Pankok", 
   "URL": "http://www.moma.org/collection/works/67213", 
   "CuratorApproved": "Y", 
-  "Title": "Barlach II", 
-  "DateAcquired": "1947-12-19", 
+  "CreditLine": "Purchase", 
   "Date": "1943", 
   "ArtistID": 4483, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "339.1947", 
-  "ArtistBio": "German, 1893\u20131966", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(German, 1893\u20131966)", 
+  "DateAcquired": "1947-12-19", 
+  "\ufeffTitle": "Barlach II", 
   "ObjectID": "67213"
 }

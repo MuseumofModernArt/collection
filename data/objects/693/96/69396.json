@@ -1,12 +1,11 @@
 {
   "Medium": "Drypoint", 
-  "Dimensions": "Plate: 11 x 7\" (27.9 x 17.8 cm)  Sheet: 19 11/16 x 13\" (50 x 33 cm)", 
+  "Dimensions": "Plate: 11 x 7\" (27.9 x 17.8 cm)\r\nSheet: 19 11/16 x 13\" (50 x 33 cm)", 
   "Classification": "Print", 
   "Artist": "Andr\u00e9 Masson", 
   "URL": "http://www.moma.org/collection/works/69396", 
   "CuratorApproved": "Y", 
-  "Title": "Pursued Woman (Femme poursuivie)", 
-  "DateAcquired": "1983-01-18", 
+  "CreditLine": "Gift of Frances Beatty", 
   "Date": "c. 1946, printed 1958", 
   "ArtistID": 3821, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "455.1982", 
-  "ArtistBio": "French, 1896\u20131987", 
-  "CreditLine": "Gift of Frances Beatty", 
+  "ArtistBio": "(French, 1896\u20131987)", 
+  "DateAcquired": "1983-01-18", 
+  "\ufeffTitle": "Pursued Woman (Femme poursuivie)", 
   "ObjectID": "69396"
 }

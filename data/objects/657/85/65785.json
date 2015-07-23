@@ -5,8 +5,7 @@
   "Artist": "Andy Warhol", 
   "URL": "http://www.moma.org/collection/works/65785", 
   "CuratorApproved": "Y", 
-  "Title": "Jacqueline Kennedy II from 11 Pop Artists, Volume II", 
-  "DateAcquired": "1966-05-10", 
+  "CreditLine": "Gift of Original Editions", 
   "Date": "1965, published 1966", 
   "ArtistID": 6246, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "274.1966.2e", 
-  "ArtistBio": "American, 1928\u20131987", 
-  "CreditLine": "Gift of Original Editions", 
+  "ArtistBio": "(American, 1928\u20131987)", 
+  "DateAcquired": "1966-05-10", 
+  "\ufeffTitle": "Jacqueline Kennedy II from 11 Pop Artists, Volume II", 
   "ObjectID": "65785"
 }

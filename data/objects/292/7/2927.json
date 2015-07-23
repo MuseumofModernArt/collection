@@ -5,8 +5,7 @@
   "Artist": "Masayuki Kurokawa", 
   "URL": "http://www.moma.org/collection/works/2927", 
   "CuratorApproved": "Y", 
-  "Title": "Fieno Scuba (Self-Contained Underwater Re-Breathing Apparatus)", 
-  "DateAcquired": "1998-04-22", 
+  "CreditLine": "Gift of the designer", 
   "Date": "1993", 
   "ArtistID": 3308, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "235.1998", 
-  "ArtistBio": "Japanese, born 1937", 
-  "CreditLine": "Gift of the designer", 
+  "ArtistBio": "(Japanese, born 1937)", 
+  "DateAcquired": "1998-04-22", 
+  "\ufeffTitle": "Fieno Scuba (Self-Contained Underwater Re-Breathing Apparatus)", 
   "ObjectID": "2927"
 }

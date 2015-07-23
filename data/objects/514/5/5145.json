@@ -5,8 +5,7 @@
   "Artist": "Roman Cieslewicz", 
   "URL": "http://www.moma.org/collection/works/5145", 
   "CuratorApproved": "Y", 
-  "Title": "Operacja Konieczna", 
-  "DateAcquired": "1968-03-07", 
+  "CreditLine": "Gift of the designer", 
   "Date": "1956", 
   "ArtistID": 1125, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "123.1968", 
-  "ArtistBio": "French, born Poland. 1930\u20131996", 
-  "CreditLine": "Gift of the designer", 
+  "ArtistBio": "(French, born Poland. 1930\u20131996)", 
+  "DateAcquired": "1968-03-07", 
+  "\ufeffTitle": "Operacja Konieczna", 
   "ObjectID": "5145"
 }

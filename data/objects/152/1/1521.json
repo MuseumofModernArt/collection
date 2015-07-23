@@ -5,8 +5,7 @@
   "Artist": "Marcel Breuer", 
   "URL": "http://www.moma.org/collection/works/1521", 
   "CuratorApproved": "Y", 
-  "Title": "Stool (model B37)", 
-  "DateAcquired": "1997-01-15", 
+  "CreditLine": "Marcel Breuer Purchase Fund", 
   "Date": "1932", 
   "ArtistID": 769, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "15.1997", 
-  "ArtistBio": "American, born Hungary. 1902\u20131981", 
-  "CreditLine": "Marcel Breuer Purchase Fund", 
+  "ArtistBio": "(American, born Hungary. 1902\u20131981)", 
+  "DateAcquired": "1997-01-15", 
+  "\ufeffTitle": "Stool (model B37)", 
   "ObjectID": "1521"
 }

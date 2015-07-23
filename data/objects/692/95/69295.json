@@ -5,8 +5,7 @@
   "Artist": "Christian Rohlfs", 
   "URL": "http://www.moma.org/collection/works/69295", 
   "CuratorApproved": "Y", 
-  "Title": "Expulsion from Paradise (small version)", 
-  "DateAcquired": "1954-09-30", 
+  "CreditLine": "Purchase", 
   "Date": "(c. 1915-16)", 
   "ArtistID": 5000, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "448.1954", 
-  "ArtistBio": "German, 1849\u20131938", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(German, 1849\u20131938)", 
+  "DateAcquired": "1954-09-30", 
+  "\ufeffTitle": "Expulsion from Paradise (small version) [Austreibung aus dem Paradies (klein)]", 
   "ObjectID": "69295"
 }

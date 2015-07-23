@@ -5,8 +5,7 @@
   "Artist": "A.R. Penck (Ralf Winkler)", 
   "URL": "http://www.moma.org/collection/works/14019", 
   "CuratorApproved": "Y", 
-  "Title": "Lyrik", 
-  "DateAcquired": "1990-05-02", 
+  "CreditLine": "Purchase", 
   "Date": "(1987)", 
   "ArtistID": 4546, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "234.1990.1-46", 
-  "ArtistBio": "German, born 1939", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(German, born 1939)", 
+  "DateAcquired": "1990-05-02", 
+  "\ufeffTitle": "Lyrik", 
   "ObjectID": "14019"
 }

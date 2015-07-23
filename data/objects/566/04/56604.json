@@ -5,8 +5,7 @@
   "Artist": "Dorothea Lange", 
   "URL": "http://www.moma.org/collection/works/56604", 
   "CuratorApproved": "Y", 
-  "Title": "Tractored Out, Childress County, Texas", 
-  "DateAcquired": "1967-11-21", 
+  "CreditLine": "Purchase", 
   "Date": "1938", 
   "ArtistID": 3373, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "828.1968", 
-  "ArtistBio": "American, 1895\u20131965", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, 1895\u20131965)", 
+  "DateAcquired": "1967-11-21", 
+  "\ufeffTitle": "Tractored Out, Childress County, Texas", 
   "ObjectID": "56604"
 }

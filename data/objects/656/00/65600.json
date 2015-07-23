@@ -1,12 +1,11 @@
 {
   "Medium": "Drypoint", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "Edward Dwurnik", 
   "URL": "http://www.moma.org/collection/works/65600", 
   "CuratorApproved": "Y", 
-  "Title": "Merry-go-round", 
-  "DateAcquired": "1992-05-20", 
+  "CreditLine": "Gift of the Kosciuszko Foundation", 
   "Date": "1985", 
   "ArtistID": 6856, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "266.1992", 
-  "ArtistBio": "Polish, born 1943", 
-  "CreditLine": "Gift of the Kosciuszko Foundation", 
+  "ArtistBio": "(Polish, born 1943)", 
+  "DateAcquired": "1992-05-20", 
+  "\ufeffTitle": "Merry-go-round", 
   "ObjectID": "65600"
 }

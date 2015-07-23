@@ -5,8 +5,7 @@
   "Artist": "William Gedney", 
   "URL": "http://www.moma.org/collection/works/52388", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1969-05-21", 
+  "CreditLine": "Mr. and Mrs. John Spencer Fund", 
   "Date": "1966", 
   "ArtistID": 2105, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "391.1969", 
-  "ArtistBio": "American, 1932\u20131989", 
-  "CreditLine": "Mr. and Mrs. John Spencer Fund", 
+  "ArtistBio": "(American, 1932\u20131989)", 
+  "DateAcquired": "1969-05-21", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "52388"
 }

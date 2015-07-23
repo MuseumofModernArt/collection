@@ -5,8 +5,7 @@
   "Artist": "Eug\u00e8ne Atget", 
   "URL": "http://www.moma.org/collection/works/46702", 
   "CuratorApproved": "Y", 
-  "Title": "Au Griffon, 39 Quai de l'Horloge", 
-  "DateAcquired": "1950-04-24", 
+  "CreditLine": "Given anonymously", 
   "Date": "1902-03", 
   "ArtistID": 229, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "128.1950", 
-  "ArtistBio": "French, 1857\u20131927", 
-  "CreditLine": "Given anonymously", 
+  "ArtistBio": "(French, 1857\u20131927)", 
+  "DateAcquired": "1950-04-24", 
+  "\ufeffTitle": "Au Griffon, 39 Quai de l'Horloge", 
   "ObjectID": "46702"
 }

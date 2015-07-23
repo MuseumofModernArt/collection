@@ -5,8 +5,7 @@
   "Artist": "Aijiro Wakita", 
   "URL": "http://www.moma.org/collection/works/7440", 
   "CuratorApproved": "Y", 
-  "Title": "New Music Media I", 
-  "DateAcquired": "1983-05-17", 
+  "CreditLine": "Gift of Leonard A. Lauder", 
   "Date": "1974", 
   "ArtistID": 6215, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "534.1983", 
-  "ArtistBio": "Japanese, born 1942", 
-  "CreditLine": "Gift of Leonard A. Lauder", 
+  "ArtistBio": "(Japanese, born 1942)", 
+  "DateAcquired": "1983-05-17", 
+  "\ufeffTitle": "New Music Media I", 
   "ObjectID": "7440"
 }

@@ -5,8 +5,7 @@
   "Artist": "Francis Picabia", 
   "URL": "http://www.moma.org/collection/works/38561", 
   "CuratorApproved": "Y", 
-  "Title": "M'Amenez-y", 
-  "DateAcquired": "1968-10-08", 
+  "CreditLine": "Helena Rubinstein Fund", 
   "Date": "1919-20", 
   "ArtistID": 4607, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "1309.1968", 
-  "ArtistBio": "French, 1879\u20131953", 
-  "CreditLine": "Helena Rubinstein Fund", 
+  "ArtistBio": "(French, 1879\u20131953)", 
+  "DateAcquired": "1968-10-08", 
+  "\ufeffTitle": "\"M'Amenez-y\"", 
   "ObjectID": "38561"
 }

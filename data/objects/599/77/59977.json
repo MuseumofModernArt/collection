@@ -5,8 +5,7 @@
   "Artist": "Markus Raetz", 
   "URL": "http://www.moma.org/collection/works/59977", 
   "CuratorApproved": "Y", 
-  "Title": "Head", 
-  "DateAcquired": "1986-01-09", 
+  "CreditLine": "John R. Jakobson Foundation Fund", 
   "Date": "1982", 
   "ArtistID": 4787, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "15.1986", 
-  "ArtistBio": "Swiss, born 1941", 
-  "CreditLine": "John R. Jakobson Foundation Fund", 
+  "ArtistBio": "(Swiss, born 1941)", 
+  "DateAcquired": "1986-01-09", 
+  "\ufeffTitle": "Head", 
   "ObjectID": "59977"
 }

@@ -5,8 +5,7 @@
   "Artist": "William Eggleston", 
   "URL": "http://www.moma.org/collection/works/44172", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1994-01-13", 
+  "CreditLine": "Gift of Barbara Jakobson", 
   "Date": "c. 1975", 
   "ArtistID": 1690, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "26.1994", 
-  "ArtistBio": "American, born 1939", 
-  "CreditLine": "Gift of Barbara Jakobson", 
+  "ArtistBio": "(American, born 1939)", 
+  "DateAcquired": "1994-01-13", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "44172"
 }

@@ -5,8 +5,7 @@
   "Artist": "Alex Katz", 
   "URL": "http://www.moma.org/collection/works/36314", 
   "CuratorApproved": "Y", 
-  "Title": "Sylvie", 
-  "DateAcquired": "1989-11-21", 
+  "CreditLine": "Gift of Charles B. Benenson", 
   "Date": "(1988)", 
   "ArtistID": 3016, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "324.1989", 
-  "ArtistBio": "American, born 1927", 
-  "CreditLine": "Gift of Charles B. Benenson", 
+  "ArtistBio": "(American, born 1927)", 
+  "DateAcquired": "1989-11-21", 
+  "\ufeffTitle": "Sylvie", 
   "ObjectID": "36314"
 }

@@ -5,8 +5,7 @@
   "Artist": "Charles Sheeler", 
   "URL": "http://www.moma.org/collection/works/34784", 
   "CuratorApproved": "Y", 
-  "Title": "Tulips and Etruscan Vase", 
-  "DateAcquired": "1935-06-04", 
+  "CreditLine": "Given anonymously", 
   "Date": "1922", 
   "ArtistID": 5383, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "149.1935", 
-  "ArtistBio": "American, 1883\u20131965", 
-  "CreditLine": "Given anonymously", 
+  "ArtistBio": "(American, 1883\u20131965)", 
+  "DateAcquired": "1935-06-04", 
+  "\ufeffTitle": "Tulips and Etruscan Vase", 
   "ObjectID": "34784"
 }

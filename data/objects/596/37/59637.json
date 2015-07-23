@@ -1,12 +1,11 @@
 {
   "Medium": "Fifty-six lithographs", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "Jasper Johns", 
   "URL": "http://www.moma.org/collection/works/59637", 
   "CuratorApproved": "Y", 
-  "Title": "Color separations and progressive proofs for Decoy", 
-  "DateAcquired": "1987-01-15", 
+  "CreditLine": "Gift of the artist", 
   "Date": "1971", 
   "ArtistID": 2923, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "4.1987.a-c", 
-  "ArtistBio": "American, born 1930", 
-  "CreditLine": "Gift of the artist", 
+  "ArtistBio": "(American, born 1930)", 
+  "DateAcquired": "1987-01-15", 
+  "\ufeffTitle": "Color separations and progressive proofs for Decoy", 
   "ObjectID": "59637"
 }

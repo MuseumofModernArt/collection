@@ -5,8 +5,7 @@
   "Artist": "Artko", 
   "URL": "http://www.moma.org/collection/works/5098", 
   "CuratorApproved": "Y", 
-  "Title": "Acapulco Gold", 
-  "DateAcquired": "1968-03-07", 
+  "CreditLine": "Gift of Joseph H. Heil", 
   "Date": "1967", 
   "Keywords": [
     "online art collection", 
@@ -16,7 +15,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "107.1968", 
-  "ArtistBio": "NULL", 
-  "CreditLine": "Gift of Joseph H. Heil", 
+  "ArtistBio": "", 
+  "DateAcquired": "1968-03-07", 
+  "\ufeffTitle": "Acapulco Gold", 
   "ObjectID": "5098"
 }

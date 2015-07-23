@@ -5,8 +5,7 @@
   "Artist": "John G. Rideout", 
   "URL": "http://www.moma.org/collection/works/3080", 
   "CuratorApproved": "Y", 
-  "Title": "Magnalite Tea Kettle", 
-  "DateAcquired": "1944-11-08", 
+  "CreditLine": "Purchase fund", 
   "Date": "1936", 
   "ArtistID": 4914, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "254.1944", 
-  "ArtistBio": "American, 1898\u20131951", 
-  "CreditLine": "Purchase fund", 
+  "ArtistBio": "(American, 1898\u20131951)", 
+  "DateAcquired": "1944-11-08", 
+  "\ufeffTitle": "Magnalite Tea Kettle", 
   "ObjectID": "3080"
 }

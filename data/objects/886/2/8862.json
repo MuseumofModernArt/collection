@@ -5,8 +5,7 @@
   "Artist": "Unknown Designer", 
   "URL": "http://www.moma.org/collection/works/8862", 
   "CuratorApproved": "Y", 
-  "Title": "Canon Camera", 
-  "DateAcquired": "2000-12-11", 
+  "CreditLine": "Gift of the designer", 
   "Date": "Unknown", 
   "ArtistID": 6011, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "1566.2000", 
-  "ArtistBio": "Nationality unknown", 
-  "CreditLine": "Gift of the designer", 
+  "ArtistBio": "(Nationality unknown)", 
+  "DateAcquired": "2000-12-11", 
+  "\ufeffTitle": "Canon Camera", 
   "ObjectID": "8862"
 }

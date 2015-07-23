@@ -1,12 +1,11 @@
 {
   "Medium": "Woodcut", 
-  "Dimensions": "composition  29 5/8 x 25\" (75.3 x 63.3 cm)  sheet  31 1/2 x 27 1/4\" (80 x 69.2 cm)", 
+  "Dimensions": "composition  29 5/8 x 25\" (75.3 x 63.3 cm)\r\nsheet  31 1/2 x 27 1/4\" (80 x 69.2 cm)", 
   "Classification": "Print", 
   "Artist": "Helen Frankenthaler", 
   "URL": "http://www.moma.org/collection/works/59713", 
   "CuratorApproved": "Y", 
-  "Title": "Savage Breeze", 
-  "DateAcquired": "1975-01-07", 
+  "CreditLine": "Gift of Celeste Bartos", 
   "Date": "1974", 
   "ArtistID": 1974, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "7.1975", 
-  "ArtistBio": "American, 1928\u20132011", 
-  "CreditLine": "Gift of Celeste Bartos", 
+  "ArtistBio": "(American, 1928\u20132011)", 
+  "DateAcquired": "1975-01-07", 
+  "\ufeffTitle": "Savage Breeze", 
   "ObjectID": "59713"
 }

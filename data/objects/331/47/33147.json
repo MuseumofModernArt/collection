@@ -5,8 +5,7 @@
   "Artist": "James Castle", 
   "URL": "http://www.moma.org/collection/works/33147", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled (Philip Morris Book)", 
-  "DateAcquired": "1999-02-25", 
+  "CreditLine": "Gift of the Family of James Castle", 
   "Date": "(c. 1945)", 
   "ArtistID": 7963, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "12.1999", 
-  "ArtistBio": "American, 1900\u20131977", 
-  "CreditLine": "Gift of the Family of James Castle", 
+  "ArtistBio": "(American, 1900\u20131977)", 
+  "DateAcquired": "1999-02-25", 
+  "\ufeffTitle": "Untitled (Philip Morris Book)", 
   "ObjectID": "33147"
 }

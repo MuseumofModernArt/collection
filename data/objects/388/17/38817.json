@@ -5,8 +5,7 @@
   "Artist": "Vladimir Velickovic", 
   "URL": "http://www.moma.org/collection/works/38817", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1967-12-13", 
+  "CreditLine": "F. H. Hirschland Fund", 
   "Date": "1967", 
   "ArtistID": 6125, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "2413.1967", 
-  "ArtistBio": "Yugoslav, born 1935", 
-  "CreditLine": "F. H. Hirschland Fund", 
+  "ArtistBio": "(Yugoslav, born 1935)", 
+  "DateAcquired": "1967-12-13", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "38817"
 }

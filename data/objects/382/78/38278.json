@@ -5,8 +5,7 @@
   "Artist": "F\u00e9lix Del Marle", 
   "URL": "http://www.moma.org/collection/works/38278", 
   "CuratorApproved": "Y", 
-  "Title": "Looping", 
-  "DateAcquired": "1985-09-10", 
+  "CreditLine": "The Riklis Collection of McCrory Corporation", 
   "Date": "1914", 
   "ArtistID": 1470, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "926.1983", 
-  "ArtistBio": "French, 1889\u20131952", 
-  "CreditLine": "The Riklis Collection of McCrory Corporation", 
+  "ArtistBio": "(French, 1889\u20131952)", 
+  "DateAcquired": "1985-09-10", 
+  "\ufeffTitle": "Looping", 
   "ObjectID": "38278"
 }

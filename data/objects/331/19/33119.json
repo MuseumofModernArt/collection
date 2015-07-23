@@ -5,8 +5,7 @@
   "Artist": "Gustav Klimt", 
   "URL": "http://www.moma.org/collection/works/33119", 
   "CuratorApproved": "Y", 
-  "Title": "Three Courtesans", 
-  "DateAcquired": "1957-02-27", 
+  "CreditLine": "Mr. and Mrs. William B. Jaffe Fund", 
   "Date": "(c. 1907-1910)", 
   "ArtistID": 3147, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "11.1957", 
-  "ArtistBio": "Austrian, 1862\u20131918", 
-  "CreditLine": "Mr. and Mrs. William B. Jaffe Fund", 
+  "ArtistBio": "(Austrian, 1862\u20131918)", 
+  "DateAcquired": "1957-02-27", 
+  "\ufeffTitle": "Three Courtesans (Drei stehende Frauenakte)", 
   "ObjectID": "33119"
 }

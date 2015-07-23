@@ -5,8 +5,7 @@
   "Artist": "Kara Walker", 
   "URL": "http://www.moma.org/collection/works/65809", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled (John Brown)", 
-  "DateAcquired": "1997-05-28", 
+  "CreditLine": "Gift of Landfall Press", 
   "Date": "1997", 
   "ArtistID": 7679, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "274.1997", 
-  "ArtistBio": "American, born 1969", 
-  "CreditLine": "Gift of Landfall Press", 
+  "ArtistBio": "(American, born 1969)", 
+  "DateAcquired": "1997-05-28", 
+  "\ufeffTitle": "Untitled (John Brown)", 
   "ObjectID": "65809"
 }

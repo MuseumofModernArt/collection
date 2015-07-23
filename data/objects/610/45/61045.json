@@ -5,8 +5,7 @@
   "Artist": "Giorgio Morandi", 
   "URL": "http://www.moma.org/collection/works/61045", 
   "CuratorApproved": "Y", 
-  "Title": "Hillside in the Morning", 
-  "DateAcquired": "1958-02-19", 
+  "CreditLine": "James Thrall Soby Fund", 
   "Date": "1927, probably printed c. 1942", 
   "ArtistID": 4079, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "56.1958", 
-  "ArtistBio": "Italian, 1890\u20131964", 
-  "CreditLine": "James Thrall Soby Fund", 
+  "ArtistBio": "(Italian, 1890\u20131964)", 
+  "DateAcquired": "1958-02-19", 
+  "\ufeffTitle": "Hillside in the Morning", 
   "ObjectID": "61045"
 }

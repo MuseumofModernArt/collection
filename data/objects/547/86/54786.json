@@ -5,8 +5,7 @@
   "Artist": "Rosalind Fox Solomon", 
   "URL": "http://www.moma.org/collection/works/54786", 
   "CuratorApproved": "Y", 
-  "Title": "Coke and Cotton Candy, Scottsboro, Alabama", 
-  "DateAcquired": "1980-10-23", 
+  "CreditLine": "Gift of the photographer", 
   "Date": "1976", 
   "ArtistID": 5517, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "532.1980", 
-  "ArtistBio": "American, born 1930", 
-  "CreditLine": "Gift of the photographer", 
+  "ArtistBio": "(American, born 1930)", 
+  "DateAcquired": "1980-10-23", 
+  "\ufeffTitle": "Coke and Cotton Candy, Scottsboro, Alabama", 
   "ObjectID": "54786"
 }

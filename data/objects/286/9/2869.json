@@ -1,12 +1,11 @@
 {
   "Medium": "Glass", 
-  "Dimensions": ".1 (rimmed plate): 1 x 9 3/16\" (2.5 x 23.3 cm)  .2 (soup bowl): 2 3/16 x 9 7/8\" (5.5 x 25.1 cm)  .3 (handleless mug): 3 1/2 x 3 3/4\" (8.9 x 9.5 cm)  .4 (bowl): 2 3/8 x 5 5/8\" (6 x 14.3 cm)", 
+  "Dimensions": ".1 (rimmed plate): 1 x 9 3/16\" (2.5 x 23.3 cm)\r\n.2 (soup bowl): 2 3/16 x 9 7/8\" (5.5 x 25.1 cm)\r\n.3 (handleless mug): 3 1/2 x 3 3/4\" (8.9 x 9.5 cm)\r\n.4 (bowl): 2 3/8 x 5 5/8\" (6 x 14.3 cm)", 
   "Classification": "A&D Design", 
   "Artist": "Corning Glass Works", 
   "URL": "http://www.moma.org/collection/works/2869", 
   "CuratorApproved": "Y", 
-  "Title": "Army Messware", 
-  "DateAcquired": "1944-11-08", 
+  "CreditLine": "Gift of the manufacturer", 
   "Date": "1944", 
   "ArtistID": 1249, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "231.1944.1-4", 
-  "ArtistBio": "American, est. 1851", 
-  "CreditLine": "Gift of the manufacturer", 
+  "ArtistBio": "(American, est. 1851)", 
+  "DateAcquired": "1944-11-08", 
+  "\ufeffTitle": "Army Messware", 
   "ObjectID": "2869"
 }

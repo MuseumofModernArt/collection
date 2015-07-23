@@ -5,8 +5,7 @@
   "Artist": "Christopher Wilmarth", 
   "URL": "http://www.moma.org/collection/works/35729", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1990-05-08", 
+  "CreditLine": "Gift of Agnes Gund", 
   "Date": "(1987)", 
   "ArtistID": 6386, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "262.1990", 
-  "ArtistBio": "American, 1943\u20131987", 
-  "CreditLine": "Gift of Agnes Gund", 
+  "ArtistBio": "(American, 1943\u20131987)", 
+  "DateAcquired": "1990-05-08", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "35729"
 }

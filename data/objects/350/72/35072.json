@@ -1,12 +1,11 @@
 {
   "Medium": "Charcoal on gray paper", 
-  "Dimensions": "21 5/8 x 17 3/4\" (55.1 x 45.1 cm)  ", 
+  "Dimensions": "21 5/8 x 17 3/4\" (55.1 x 45.1 cm)\r\n", 
   "Classification": "Drawing", 
   "Artist": "Mark Tobey", 
   "URL": "http://www.moma.org/collection/works/35072", 
   "CuratorApproved": "Y", 
-  "Title": "Winthrop Parkhurst", 
-  "DateAcquired": "1977-04-20", 
+  "CreditLine": "Gift of Mrs. Wolfgang Schoenborn", 
   "Date": "(1916)", 
   "ArtistID": 5889, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "177.1977", 
-  "ArtistBio": "American, 1890\u20131976", 
-  "CreditLine": "Gift of Mrs. Wolfgang Schoenborn", 
+  "ArtistBio": "(American, 1890\u20131976)", 
+  "DateAcquired": "1977-04-20", 
+  "\ufeffTitle": "Winthrop Parkhurst", 
   "ObjectID": "35072"
 }

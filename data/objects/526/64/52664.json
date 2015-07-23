@@ -5,8 +5,7 @@
   "Artist": "Larry Fink", 
   "URL": "http://www.moma.org/collection/works/52664", 
   "CuratorApproved": "Y", 
-  "Title": "John Sabatine and His Father-In-Law, Martin's Creek, Pennsylvania", 
-  "DateAcquired": "1980-03-13", 
+  "CreditLine": "Robert B. Menschel Fund", 
   "Date": "1978", 
   "ArtistID": 1877, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "403.1980", 
-  "ArtistBio": "American, born 1941", 
-  "CreditLine": "Robert B. Menschel Fund", 
+  "ArtistBio": "(American, born 1941)", 
+  "DateAcquired": "1980-03-13", 
+  "\ufeffTitle": "John Sabatine and His Father-In-Law, Martin's Creek, Pennsylvania", 
   "ObjectID": "52664"
 }

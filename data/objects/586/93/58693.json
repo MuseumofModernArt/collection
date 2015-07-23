@@ -5,8 +5,7 @@
   "Artist": "Barton Silverman/The New York Times", 
   "URL": "http://www.moma.org/collection/works/58693", 
   "CuratorApproved": "Y", 
-  "Title": "Mario Cuomo Getting a Hug", 
-  "DateAcquired": "2001-06-14", 
+  "CreditLine": "The New York Times Collection", 
   "Date": "September 20, 1977", 
   "ArtistID": 8619, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "2100.2001", 
-  "ArtistBio": "American, born 1942", 
-  "CreditLine": "The New York Times Collection", 
+  "ArtistBio": "(American, born 1942)", 
+  "DateAcquired": "2001-06-14", 
+  "\ufeffTitle": "Mario Cuomo Getting a Hug", 
   "ObjectID": "58693"
 }

@@ -5,8 +5,7 @@
   "Artist": "Mario Bellini", 
   "URL": "http://www.moma.org/collection/works/3372", 
   "CuratorApproved": "Y", 
-  "Title": "Robot Amplified Rotating Antenna", 
-  "DateAcquired": "1982-10-27", 
+  "CreditLine": "Gift of the designer", 
   "Date": "1981", 
   "ArtistID": 451, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "349.1982", 
-  "ArtistBio": "Italian, born 1935", 
-  "CreditLine": "Gift of the designer", 
+  "ArtistBio": "(Italian, born 1935)", 
+  "DateAcquired": "1982-10-27", 
+  "\ufeffTitle": "Robot Amplified Rotating Antenna", 
   "ObjectID": "3372"
 }

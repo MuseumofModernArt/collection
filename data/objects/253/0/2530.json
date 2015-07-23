@@ -5,8 +5,7 @@
   "Artist": "Eva Zeisel", 
   "URL": "http://www.moma.org/collection/works/2530", 
   "CuratorApproved": "Y", 
-  "Title": "Resilient Chair", 
-  "DateAcquired": "1995-05-09", 
+  "CreditLine": "Gift of the designer", 
   "Date": "1948-49", 
   "ArtistID": 6556, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "141.1995", 
-  "ArtistBio": "American, born Hungary. 1906\u20132011", 
-  "CreditLine": "Gift of the designer", 
+  "ArtistBio": "(American, born Hungary. 1906\u20132011)", 
+  "DateAcquired": "1995-05-09", 
+  "\ufeffTitle": "Resilient Chair", 
   "ObjectID": "2530"
 }

@@ -5,8 +5,7 @@
   "Artist": "Jean Dubuffet", 
   "URL": "http://www.moma.org/collection/works/38568", 
   "CuratorApproved": "Y", 
-  "Title": "Cyclist with Five Cows", 
-  "DateAcquired": "1968-10-10", 
+  "CreditLine": "Gift of the artist, in honor of Mr. and Mrs. Ralph F. Colin", 
   "Date": "(July) 1943", 
   "ArtistID": 1633, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "1319.1968", 
-  "ArtistBio": "French, 1901\u20131985", 
-  "CreditLine": "Gift of the artist, in honor of Mr. and Mrs. Ralph F. Colin", 
+  "ArtistBio": "(French, 1901\u20131985)", 
+  "DateAcquired": "1968-10-10", 
+  "\ufeffTitle": "Cyclist with Five Cows", 
   "ObjectID": "38568"
 }

@@ -5,8 +5,7 @@
   "Artist": "Robert Adams", 
   "URL": "http://www.moma.org/collection/works/50597", 
   "CuratorApproved": "Y", 
-  "Title": "North of Briggsdale, Colorado", 
-  "DateAcquired": "1978-05-11", 
+  "CreditLine": "Acquired with matching funds from Samuel William Sax and the National Endowment for the Arts", 
   "Date": "1973", 
   "ArtistID": 66, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "316.1978", 
-  "ArtistBio": "American, born 1937", 
-  "CreditLine": "Acquired with matching funds from Samuel William Sax and the National Endowment for the Arts", 
+  "ArtistBio": "(American, born 1937)", 
+  "DateAcquired": "1978-05-11", 
+  "\ufeffTitle": "North of Briggsdale, Colorado", 
   "ObjectID": "50597"
 }

@@ -5,8 +5,7 @@
   "Artist": "Kurt Wenzel", 
   "URL": "http://www.moma.org/collection/works/7919", 
   "CuratorApproved": "Y", 
-  "Title": "M", 
-  "DateAcquired": "1980-10-30", 
+  "CreditLine": "Acquired by exchange", 
   "Date": "1931", 
   "ArtistID": 8408, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "680.1980", 
-  "ArtistBio": "Danish, 1899\u20131996", 
-  "CreditLine": "Acquired by exchange", 
+  "ArtistBio": "(Danish, 1899\u20131996)", 
+  "DateAcquired": "1980-10-30", 
+  "\ufeffTitle": "M", 
   "ObjectID": "7919"
 }

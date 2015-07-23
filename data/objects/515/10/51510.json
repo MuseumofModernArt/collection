@@ -5,8 +5,7 @@
   "Artist": "William Gedney", 
   "URL": "http://www.moma.org/collection/works/51510", 
   "CuratorApproved": "Y", 
-  "Title": "Knoxville, Tennessee", 
-  "DateAcquired": "1999-10-14", 
+  "CreditLine": "Gift of the Duke University Rare Book, Manuscript, and Special Collections Library", 
   "Date": "August 1972", 
   "ArtistID": 2105, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "351.1999", 
-  "ArtistBio": "American, 1932\u20131989", 
-  "CreditLine": "Gift of the Duke University Rare Book, Manuscript, and Special Collections Library", 
+  "ArtistBio": "(American, 1932\u20131989)", 
+  "DateAcquired": "1999-10-14", 
+  "\ufeffTitle": "Knoxville, Tennessee", 
   "ObjectID": "51510"
 }

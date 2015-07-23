@@ -1,12 +1,11 @@
 {
   "Medium": "Lithograph", 
-  "Dimensions": "irreg composition  30 1/8 x 47 7/16\" (76.5 x 120.5 cm)  sheet  31 9/16 x 47 11/16\" (80.2 x 121.1 cm)", 
+  "Dimensions": "irreg composition  30 1/8 x 47 7/16\" (76.5 x 120.5 cm)\r\nsheet  31 9/16 x 47 11/16\" (80.2 x 121.1 cm)", 
   "Classification": "Print", 
   "Artist": "Robert Rauschenberg", 
   "URL": "http://www.moma.org/collection/works/67407", 
   "CuratorApproved": "Y", 
-  "Title": "Glacial Decoy Series (Lithograph I)", 
-  "DateAcquired": "1980-02-25", 
+  "CreditLine": "Gift of Celeste Bartos", 
   "Date": "1979", 
   "ArtistID": 4823, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "347.1980", 
-  "ArtistBio": "American, 1925\u20132008", 
-  "CreditLine": "Gift of Celeste Bartos", 
+  "ArtistBio": "(American, 1925\u20132008)", 
+  "DateAcquired": "1980-02-25", 
+  "\ufeffTitle": "Glacial Decoy Series (Lithograph I)", 
   "ObjectID": "67407"
 }

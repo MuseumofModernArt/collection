@@ -5,8 +5,7 @@
   "Artist": "David Hockney", 
   "URL": "http://www.moma.org/collection/works/68903", 
   "CuratorApproved": "Y", 
-  "Title": "Picture of Melrose Avenue in an Ornate Gold Frame from A Hollywood Collection", 
-  "DateAcquired": "1966-10-11", 
+  "CreditLine": "Joseph G. Mayer Foundation Fund", 
   "Date": "1965", 
   "ArtistID": 2678, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "425.1966.6", 
-  "ArtistBio": "British, born 1937", 
-  "CreditLine": "Joseph G. Mayer Foundation Fund", 
+  "ArtistBio": "(British, born 1937)", 
+  "DateAcquired": "1966-10-11", 
+  "\ufeffTitle": "Picture of Melrose Avenue in an Ornate Gold Frame from A Hollywood Collection", 
   "ObjectID": "68903"
 }

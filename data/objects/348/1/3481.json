@@ -5,8 +5,7 @@
   "Artist": "Dieter Rams", 
   "URL": "http://www.moma.org/collection/works/3481", 
   "CuratorApproved": "Y", 
-  "Title": "Heater-Ventilator (model H1)", 
-  "DateAcquired": "1960-11-30", 
+  "CreditLine": "Gift of the manufacturer", 
   "Date": "1959", 
   "ArtistID": 8451, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "406.1960", 
-  "ArtistBio": "German, born 1932", 
-  "CreditLine": "Gift of the manufacturer", 
+  "ArtistBio": "(German, born 1932)", 
+  "DateAcquired": "1960-11-30", 
+  "\ufeffTitle": "Heater-Ventilator (model H1)", 
   "ObjectID": "3481"
 }

@@ -5,8 +5,7 @@
   "Artist": "Georges Rouault", 
   "URL": "http://www.moma.org/collection/works/34664", 
   "CuratorApproved": "Y", 
-  "Title": "Man with Spectacles", 
-  "DateAcquired": "1935-06-13", 
+  "CreditLine": "Gift of Abby Aldrich Rockefeller", 
   "Date": "1917", 
   "ArtistID": 5053, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "140.1935", 
-  "ArtistBio": "French, 1871\u20131958", 
-  "CreditLine": "Gift of Abby Aldrich Rockefeller", 
+  "ArtistBio": "(French, 1871\u20131958)", 
+  "DateAcquired": "1935-06-13", 
+  "\ufeffTitle": "Man with Spectacles", 
   "ObjectID": "34664"
 }

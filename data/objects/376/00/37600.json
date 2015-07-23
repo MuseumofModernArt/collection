@@ -5,8 +5,7 @@
   "Artist": "Giorgio de Chirico", 
   "URL": "http://www.moma.org/collection/works/37600", 
   "CuratorApproved": "Y", 
-  "Title": "Euripides", 
-  "DateAcquired": "1971-12-06", 
+  "CreditLine": "Gift of Mr. and Mrs. Wolfgang Schoenborn in honor of Ren\u00e9 d'Harnoncourt", 
   "Date": "1921", 
   "ArtistID": 1106, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "615.1971.a-b", 
-  "ArtistBio": "Italian, born Greece. 1888\u20131978", 
-  "CreditLine": "Gift of Mr. and Mrs. Wolfgang Schoenborn in honor of Ren\u00e9 d'Harnoncourt", 
+  "ArtistBio": "(Italian, born Greece. 1888\u20131978)", 
+  "DateAcquired": "1971-12-06", 
+  "\ufeffTitle": "Euripides", 
   "ObjectID": "37600"
 }

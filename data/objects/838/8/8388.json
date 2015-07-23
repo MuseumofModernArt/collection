@@ -5,8 +5,7 @@
   "Artist": "Al Corchia", 
   "URL": "http://www.moma.org/collection/works/8388", 
   "CuratorApproved": "Y", 
-  "Title": "Aspect Number 5", 
-  "DateAcquired": "1965-11-09", 
+  "CreditLine": "Gift of the artist", 
   "Date": "1965", 
   "ArtistID": 1241, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "928.1965", 
-  "ArtistBio": "American, born 1935", 
-  "CreditLine": "Gift of the artist", 
+  "ArtistBio": "(American, born 1935)", 
+  "DateAcquired": "1965-11-09", 
+  "\ufeffTitle": "Aspect Number 5", 
   "ObjectID": "8388"
 }

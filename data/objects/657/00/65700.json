@@ -5,8 +5,7 @@
   "Artist": "Paul C\u00e9zanne", 
   "URL": "http://www.moma.org/collection/works/65700", 
   "CuratorApproved": "Y", 
-  "Title": "Portrait of Cezanne", 
-  "DateAcquired": "1940-04-05", 
+  "CreditLine": "Gift of Abby Aldrich Rockefeller", 
   "Date": "c. 1898-1900", 
   "ArtistID": 1053, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "270.1940", 
-  "ArtistBio": "French, 1839\u20131906", 
-  "CreditLine": "Gift of Abby Aldrich Rockefeller", 
+  "ArtistBio": "(French, 1839\u20131906)", 
+  "DateAcquired": "1940-04-05", 
+  "\ufeffTitle": "Portrait of Cezanne", 
   "ObjectID": "65700"
 }

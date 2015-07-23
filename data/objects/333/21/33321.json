@@ -5,8 +5,7 @@
   "Artist": "Giorgio de Chirico", 
   "URL": "http://www.moma.org/collection/works/33321", 
   "CuratorApproved": "Y", 
-  "Title": "The Mathematicians", 
-  "DateAcquired": "1935-05-09", 
+  "CreditLine": "Gift of Mrs. Stanley B. Resor", 
   "Date": "1917", 
   "ArtistID": 1106, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "24.1935", 
-  "ArtistBio": "Italian, born Greece. 1888\u20131978", 
-  "CreditLine": "Gift of Mrs. Stanley B. Resor", 
+  "ArtistBio": "(Italian, born Greece. 1888\u20131978)", 
+  "DateAcquired": "1935-05-09", 
+  "\ufeffTitle": "The Mathematicians", 
   "ObjectID": "33321"
 }

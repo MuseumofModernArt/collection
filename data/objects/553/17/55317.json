@@ -5,8 +5,7 @@
   "Artist": "Ming Smith", 
   "URL": "http://www.moma.org/collection/works/55317", 
   "CuratorApproved": "Y", 
-  "Title": "Invisible Man", 
-  "DateAcquired": "1998-10-15", 
+  "CreditLine": "Gift of Kathleen Lingo in Memory of Linda McCartney", 
   "Date": "1998", 
   "ArtistID": 7906, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "577.1998", 
-  "ArtistBio": "American", 
-  "CreditLine": "Gift of Kathleen Lingo in Memory of Linda McCartney", 
+  "ArtistBio": "(American)", 
+  "DateAcquired": "1998-10-15", 
+  "\ufeffTitle": "Invisible Man", 
   "ObjectID": "55317"
 }

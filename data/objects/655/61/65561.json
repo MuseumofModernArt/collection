@@ -1,12 +1,11 @@
 {
   "Medium": "Etching", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "Edward Dwurnik", 
   "URL": "http://www.moma.org/collection/works/65561", 
   "CuratorApproved": "Y", 
-  "Title": "Eagle", 
-  "DateAcquired": "1992-05-20", 
+  "CreditLine": "Gift of the Kosciuszko Foundation", 
   "Date": "1985", 
   "ArtistID": 6856, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "265.1992", 
-  "ArtistBio": "Polish, born 1943", 
-  "CreditLine": "Gift of the Kosciuszko Foundation", 
+  "ArtistBio": "(Polish, born 1943)", 
+  "DateAcquired": "1992-05-20", 
+  "\ufeffTitle": "Eagle", 
   "ObjectID": "65561"
 }

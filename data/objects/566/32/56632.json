@@ -5,8 +5,7 @@
   "Artist": "Robert Adams", 
   "URL": "http://www.moma.org/collection/works/56632", 
   "CuratorApproved": "Y", 
-  "Title": "El Paso County Fairgrounds, Calhan, Colorado", 
-  "DateAcquired": "1996-12-10", 
+  "CreditLine": "Gift of Wendy Larsen", 
   "Date": "1968", 
   "ArtistID": 66, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "832.1996", 
-  "ArtistBio": "American, born 1937", 
-  "CreditLine": "Gift of Wendy Larsen", 
+  "ArtistBio": "(American, born 1937)", 
+  "DateAcquired": "1996-12-10", 
+  "\ufeffTitle": "El Paso County Fairgrounds, Calhan, Colorado", 
   "ObjectID": "56632"
 }

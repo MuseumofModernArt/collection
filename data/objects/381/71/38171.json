@@ -5,8 +5,7 @@
   "Artist": "Wobbe Alkema", 
   "URL": "http://www.moma.org/collection/works/38171", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1985-09-10", 
+  "CreditLine": "The Riklis Collection of McCrory Corporation", 
   "Date": "1928", 
   "ArtistID": 116, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "846.1983", 
-  "ArtistBio": "Dutch, 1900\u20131984", 
-  "CreditLine": "The Riklis Collection of McCrory Corporation", 
+  "ArtistBio": "(Dutch, 1900\u20131984)", 
+  "DateAcquired": "1985-09-10", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "38171"
 }

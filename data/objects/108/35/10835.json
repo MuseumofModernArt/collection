@@ -1,12 +1,11 @@
 {
   "Medium": "1 aquatint; catalogue with 5 unmarked aquatint and etching fragments", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Illustrated Book", 
   "Artist": "Robert Ryman", 
   "URL": "http://www.moma.org/collection/works/10835", 
   "CuratorApproved": "Y", 
-  "Title": "Robert Ryman Prints: 1969-1993", 
-  "DateAcquired": "1995-01-24", 
+  "CreditLine": "John B. Turner Fund", 
   "Date": "1993", 
   "ArtistID": 5098, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "57.1995.A-B", 
-  "ArtistBio": "American, born 1930", 
-  "CreditLine": "John B. Turner Fund", 
+  "ArtistBio": "(American, born 1930)", 
+  "DateAcquired": "1995-01-24", 
+  "\ufeffTitle": "Robert Ryman Prints: 1969-1993", 
   "ObjectID": "10835"
 }

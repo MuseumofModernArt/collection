@@ -5,8 +5,7 @@
   "Artist": "Jacques Villon", 
   "URL": "http://www.moma.org/collection/works/64274", 
   "CuratorApproved": "Y", 
-  "Title": "Horsemen", 
-  "DateAcquired": "1954-04-06", 
+  "CreditLine": "Gift of Richard S. Zeisler", 
   "Date": "1951", 
   "ArtistID": 6165, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "199.1954", 
-  "ArtistBio": "French, 1875\u20131963", 
-  "CreditLine": "Gift of Richard S. Zeisler", 
+  "ArtistBio": "(French, 1875\u20131963)", 
+  "DateAcquired": "1954-04-06", 
+  "\ufeffTitle": "Horsemen", 
   "ObjectID": "64274"
 }

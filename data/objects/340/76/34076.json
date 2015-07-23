@@ -5,8 +5,7 @@
   "Artist": "Giorgio de Chirico", 
   "URL": "http://www.moma.org/collection/works/34076", 
   "CuratorApproved": "Y", 
-  "Title": "Solitude", 
-  "DateAcquired": "1986-02-27", 
+  "CreditLine": "Gift of Abby Aldrich Rockefeller (by exchange) and purchase", 
   "Date": "1917", 
   "ArtistID": 1106, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "112.1986", 
-  "ArtistBio": "Italian, born Greece. 1888\u20131978", 
-  "CreditLine": "Gift of Abby Aldrich Rockefeller (by exchange) and purchase", 
+  "ArtistBio": "(Italian, born Greece. 1888\u20131978)", 
+  "DateAcquired": "1986-02-27", 
+  "\ufeffTitle": "Solitude", 
   "ObjectID": "34076"
 }

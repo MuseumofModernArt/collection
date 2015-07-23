@@ -5,8 +5,7 @@
   "Artist": "Gerhard Richter", 
   "URL": "http://www.moma.org/collection/works/69264", 
   "CuratorApproved": "Y", 
-  "Title": "Elizabeth II", 
-  "DateAcquired": "1978-05-22", 
+  "CreditLine": "Gift of the Cosmopolitan Arts Foundation", 
   "Date": "1966", 
   "ArtistID": 4907, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "445.1978", 
-  "ArtistBio": "German, born 1932", 
-  "CreditLine": "Gift of the Cosmopolitan Arts Foundation", 
+  "ArtistBio": "(German, born 1932)", 
+  "DateAcquired": "1978-05-22", 
+  "\ufeffTitle": "Elizabeth II", 
   "ObjectID": "69264"
 }

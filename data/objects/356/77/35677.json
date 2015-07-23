@@ -5,8 +5,7 @@
   "Artist": "Gerhard Richter", 
   "URL": "http://www.moma.org/collection/works/35677", 
   "CuratorApproved": "Y", 
-  "Title": "11.4.88", 
-  "DateAcquired": "1990-05-08", 
+  "CreditLine": "Gift of Walter Bareiss", 
   "Date": "1988", 
   "ArtistID": 4907, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "257.1990", 
-  "ArtistBio": "German, born 1932", 
-  "CreditLine": "Gift of Walter Bareiss", 
+  "ArtistBio": "(German, born 1932)", 
+  "DateAcquired": "1990-05-08", 
+  "\ufeffTitle": "11.4.88", 
   "ObjectID": "35677"
 }

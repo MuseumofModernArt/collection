@@ -5,8 +5,7 @@
   "Artist": "Lovis Corinth", 
   "URL": "http://www.moma.org/collection/works/64900", 
   "CuratorApproved": "Y", 
-  "Title": "Cain", 
-  "DateAcquired": "1952-11-07", 
+  "CreditLine": "Given anonymously", 
   "Date": "(1915)", 
   "ArtistID": 1243, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "234.1952", 
-  "ArtistBio": "German, 1858\u20131925", 
-  "CreditLine": "Given anonymously", 
+  "ArtistBio": "(German, 1858\u20131925)", 
+  "DateAcquired": "1952-11-07", 
+  "\ufeffTitle": "Cain (Kain) for the periodical in portfolio form Krieg und Kunst, no. 6", 
   "ObjectID": "64900"
 }

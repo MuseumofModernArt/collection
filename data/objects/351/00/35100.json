@@ -5,8 +5,7 @@
   "Artist": "Carlos Rojas", 
   "URL": "http://www.moma.org/collection/works/35100", 
   "CuratorApproved": "Y", 
-  "Title": "Apolo 0.9", 
-  "DateAcquired": "1967-04-11", 
+  "CreditLine": "Inter-American Fund", 
   "Date": "1966", 
   "ArtistID": 5004, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "181.1967", 
-  "ArtistBio": "Colombian, 1933\u20131997", 
-  "CreditLine": "Inter-American Fund", 
+  "ArtistBio": "(Colombian, 1933\u20131997)", 
+  "DateAcquired": "1967-04-11", 
+  "\ufeffTitle": "Apolo 0.9", 
   "ObjectID": "35100"
 }

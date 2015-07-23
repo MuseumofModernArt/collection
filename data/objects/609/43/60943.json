@@ -5,8 +5,7 @@
   "Artist": "Massimo Campigli", 
   "URL": "http://www.moma.org/collection/works/60943", 
   "CuratorApproved": "Y", 
-  "Title": "Promenade", 
-  "DateAcquired": "1954-04-06", 
+  "CreditLine": "Larry Aldrich Fund", 
   "Date": "1952", 
   "ArtistID": 942, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "51.1954", 
-  "ArtistBio": "Italian, 1895\u20131971", 
-  "CreditLine": "Larry Aldrich Fund", 
+  "ArtistBio": "(Italian, 1895\u20131971)", 
+  "DateAcquired": "1954-04-06", 
+  "\ufeffTitle": "Promenade", 
   "ObjectID": "60943"
 }

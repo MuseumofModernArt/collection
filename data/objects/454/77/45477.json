@@ -5,8 +5,7 @@
   "Artist": "Dan Weiner", 
   "URL": "http://www.moma.org/collection/works/45477", 
   "CuratorApproved": "Y", 
-  "Title": "El Morocco", 
-  "DateAcquired": "1994-01-13", 
+  "CreditLine": "The Family of Man Fund", 
   "Date": "1955", 
   "ArtistID": 6287, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "66.1994", 
-  "ArtistBio": "American, 1919\u20131959", 
-  "CreditLine": "The Family of Man Fund", 
+  "ArtistBio": "(American, 1919\u20131959)", 
+  "DateAcquired": "1994-01-13", 
+  "\ufeffTitle": "El Morocco", 
   "ObjectID": "45477"
 }

@@ -5,8 +5,7 @@
   "Artist": "Richard Hamilton", 
   "URL": "http://www.moma.org/collection/works/33923", 
   "CuratorApproved": "Y", 
-  "Title": "The Solomon R. Guggenheim Museum", 
-  "DateAcquired": "1978-04-04", 
+  "CreditLine": "The Joan and Lester Avnet Collection", 
   "Date": "1966", 
   "ArtistID": 2481, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "100.1978", 
-  "ArtistBio": "British, 1922\u20132011", 
-  "CreditLine": "The Joan and Lester Avnet Collection", 
+  "ArtistBio": "(British, 1922\u20132011)", 
+  "DateAcquired": "1978-04-04", 
+  "\ufeffTitle": "The Solomon R. Guggenheim Museum", 
   "ObjectID": "33923"
 }

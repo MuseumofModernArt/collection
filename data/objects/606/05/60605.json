@@ -1,12 +1,11 @@
 {
   "Medium": "Lithograph from a series of 7 lithographs", 
-  "Dimensions": "irreg. composition  19 15/16 x 13 15/16\" (50.7 x 35.4 cm)  irreg. sheet  25 1/2 x 20 1/8\" (64 x 51.1 cm)", 
+  "Dimensions": "irreg. composition  19 15/16 x 13 15/16\" (50.7 x 35.4 cm)\r\nirreg. sheet  25 1/2 x 20 1/8\" (64 x 51.1 cm)", 
   "Classification": "Print", 
   "Artist": "Grace Hartigan", 
   "URL": "http://www.moma.org/collection/works/60605", 
   "CuratorApproved": "Y", 
-  "Title": "In the Campagna from the series The Archaics", 
-  "DateAcquired": "1995-01-24", 
+  "CreditLine": "Gift of Fay and Alfred Chandler", 
   "Date": "1962-1966", 
   "ArtistID": 2520, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "36.1995.5", 
-  "ArtistBio": "American, 1922\u20132008", 
-  "CreditLine": "Gift of Fay and Alfred Chandler", 
+  "ArtistBio": "(American, 1922\u20132008)", 
+  "DateAcquired": "1995-01-24", 
+  "\ufeffTitle": "In the Campagna from the series The Archaics", 
   "ObjectID": "60605"
 }

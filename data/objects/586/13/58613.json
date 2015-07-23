@@ -5,8 +5,7 @@
   "Artist": "International Film Service Company/Hearst", 
   "URL": "http://www.moma.org/collection/works/58613", 
   "CuratorApproved": "Y", 
-  "Title": "Police Trying to Identify Colored Victim of the Mob", 
-  "DateAcquired": "2001-06-14", 
+  "CreditLine": "The New York Times Collection", 
   "Date": "c. 1919", 
   "ArtistID": 8648, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "2020.2001", 
-  "ArtistBio": "NULL", 
-  "CreditLine": "The New York Times Collection", 
+  "ArtistBio": "", 
+  "DateAcquired": "2001-06-14", 
+  "\ufeffTitle": "Police Trying to Identify Colored Victim of the Mob", 
   "ObjectID": "58613"
 }

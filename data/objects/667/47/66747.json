@@ -5,8 +5,7 @@
   "Artist": "Massimo Campigli", 
   "URL": "http://www.moma.org/collection/works/66747", 
   "CuratorApproved": "Y", 
-  "Title": "Waiting", 
-  "DateAcquired": "1954-09-30", 
+  "CreditLine": "Gift of Samuel A. Berger", 
   "Date": "1953", 
   "ArtistID": 942, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "315.1954", 
-  "ArtistBio": "Italian, 1895\u20131971", 
-  "CreditLine": "Gift of Samuel A. Berger", 
+  "ArtistBio": "(Italian, 1895\u20131971)", 
+  "DateAcquired": "1954-09-30", 
+  "\ufeffTitle": "Waiting", 
   "ObjectID": "66747"
 }

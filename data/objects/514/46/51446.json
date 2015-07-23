@@ -5,8 +5,7 @@
   "Artist": "Richard Benson", 
   "URL": "http://www.moma.org/collection/works/51446", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1986-10-16", 
+  "CreditLine": "Gift of the photographer", 
   "Date": "1977", 
   "Keywords": [
     "online art collection", 
@@ -16,7 +15,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "348.1986", 
-  "ArtistBio": "American, born 1943", 
-  "CreditLine": "Gift of the photographer", 
+  "ArtistBio": "(American, born 1943)", 
+  "DateAcquired": "1986-10-16", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "51446"
 }

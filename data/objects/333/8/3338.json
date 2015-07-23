@@ -5,8 +5,7 @@
   "Artist": "August Endell", 
   "URL": "http://www.moma.org/collection/works/3338", 
   "CuratorApproved": "Y", 
-  "Title": "Desk Mounts", 
-  "DateAcquired": "1961-11-08", 
+  "CreditLine": "Acquired by exchange", 
   "Date": "c. 1899", 
   "ArtistID": 1727, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "342.1961", 
-  "ArtistBio": "German, 1871\u20131925", 
-  "CreditLine": "Acquired by exchange", 
+  "ArtistBio": "(German, 1871\u20131925)", 
+  "DateAcquired": "1961-11-08", 
+  "\ufeffTitle": "Desk Mounts", 
   "ObjectID": "3338"
 }

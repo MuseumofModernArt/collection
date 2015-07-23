@@ -1,12 +1,11 @@
 {
   "Medium": "Portfolio of nine etchings", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "Christian Fossier", 
   "URL": "http://www.moma.org/collection/works/65663", 
   "CuratorApproved": "Y", 
-  "Title": "Terrain", 
-  "DateAcquired": "1975-10-07", 
+  "CreditLine": "Carol O. Selle Fund", 
   "Date": "1975", 
   "ArtistID": 1952, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "269.1975.1-9", 
-  "ArtistBio": "French", 
-  "CreditLine": "Carol O. Selle Fund", 
+  "ArtistBio": "(French)", 
+  "DateAcquired": "1975-10-07", 
+  "\ufeffTitle": "Terrain", 
   "ObjectID": "65663"
 }

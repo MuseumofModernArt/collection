@@ -5,8 +5,7 @@
   "Artist": "Wes Wilson (Robert Wesley Wilson)", 
   "URL": "http://www.moma.org/collection/works/5598", 
   "CuratorApproved": "Y", 
-  "Title": "The Association, Along Comes Mary, Quicksilver Messenger Service", 
-  "DateAcquired": "1968-03-07", 
+  "CreditLine": "Purchase", 
   "Date": "1966", 
   "ArtistID": 8265, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "186.1968", 
-  "ArtistBio": "American, born 1937", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, born 1937)", 
+  "DateAcquired": "1968-03-07", 
+  "\ufeffTitle": "The Association, Along Comes Mary, Quicksilver Messenger Service", 
   "ObjectID": "5598"
 }

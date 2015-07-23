@@ -5,8 +5,7 @@
   "Artist": "Arthur Rothstein", 
   "URL": "http://www.moma.org/collection/works/48592", 
   "CuratorApproved": "Y", 
-  "Title": "South Dakota Drought Refugee, Montana", 
-  "DateAcquired": "1941-01-16", 
+  "CreditLine": "Gift of the Farm Security Administration", 
   "Date": "July 1936", 
   "ArtistID": 5050, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "212.1941", 
-  "ArtistBio": "American, 1915\u20131985", 
-  "CreditLine": "Gift of the Farm Security Administration", 
+  "ArtistBio": "(American, 1915\u20131985)", 
+  "DateAcquired": "1941-01-16", 
+  "\ufeffTitle": "South Dakota Drought Refugee, Montana", 
   "ObjectID": "48592"
 }

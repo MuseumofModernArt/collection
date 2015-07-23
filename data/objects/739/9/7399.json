@@ -5,8 +5,7 @@
   "Artist": "Marcin Stajewski", 
   "URL": "http://www.moma.org/collection/works/7399", 
   "CuratorApproved": "Y", 
-  "Title": "Kamienne Niebo", 
-  "DateAcquired": "1983-05-17", 
+  "CreditLine": "Gift of the designer", 
   "Date": "1979", 
   "ArtistID": 5592, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "525.1983", 
-  "ArtistBio": "Polish, born 1938", 
-  "CreditLine": "Gift of the designer", 
+  "ArtistBio": "(Polish, born 1938)", 
+  "DateAcquired": "1983-05-17", 
+  "\ufeffTitle": "Kamienne Niebo", 
   "ObjectID": "7399"
 }

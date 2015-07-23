@@ -5,8 +5,7 @@
   "Artist": "Karl Michel", 
   "URL": "http://www.moma.org/collection/works/4983", 
   "CuratorApproved": "Y", 
-  "Title": "Poster for Faust", 
-  "DateAcquired": "1961-02-07", 
+  "CreditLine": "Gift of UFA (Universum-Film-Aktiengesellschaft)", 
   "Date": "1926", 
   "ArtistID": 8345, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "82.1961", 
-  "ArtistBio": "German, born 1895", 
-  "CreditLine": "Gift of UFA (Universum-Film-Aktiengesellschaft)", 
+  "ArtistBio": "(German, born 1895)", 
+  "DateAcquired": "1961-02-07", 
+  "\ufeffTitle": "Poster for Faust", 
   "ObjectID": "4983"
 }

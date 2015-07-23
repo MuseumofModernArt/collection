@@ -5,8 +5,7 @@
   "Artist": "Michel Bufet", 
   "URL": "http://www.moma.org/collection/works/2601", 
   "CuratorApproved": "Y", 
-  "Title": "Floor Lamp", 
-  "DateAcquired": "1998-04-22", 
+  "CreditLine": "Gift of Judith Price", 
   "Date": "c. 1953", 
   "ArtistID": 7995, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "198.1998", 
-  "ArtistBio": "French", 
-  "CreditLine": "Gift of Judith Price", 
+  "ArtistBio": "(French)", 
+  "DateAcquired": "1998-04-22", 
+  "\ufeffTitle": "Floor Lamp", 
   "ObjectID": "2601"
 }

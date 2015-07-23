@@ -5,8 +5,7 @@
   "Artist": "William Eggleston", 
   "URL": "http://www.moma.org/collection/works/44855", 
   "CuratorApproved": "Y", 
-  "Title": "Just Rite Cafe", 
-  "DateAcquired": "1976-02-24", 
+  "CreditLine": "John Parkinson III Fund", 
   "Date": "February 1973", 
   "ArtistID": 1690, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "50.1976", 
-  "ArtistBio": "American, born 1939", 
-  "CreditLine": "John Parkinson III Fund", 
+  "ArtistBio": "(American, born 1939)", 
+  "DateAcquired": "1976-02-24", 
+  "\ufeffTitle": "Just Rite Cafe", 
   "ObjectID": "44855"
 }

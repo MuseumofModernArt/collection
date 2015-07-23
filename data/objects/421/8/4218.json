@@ -5,8 +5,7 @@
   "Artist": "Kaj Franck", 
   "URL": "http://www.moma.org/collection/works/4218", 
   "CuratorApproved": "Y", 
-  "Title": "Dish", 
-  "DateAcquired": "1995-09-20", 
+  "CreditLine": "Gift from the collection of Mr. and Mrs. Albert Greene", 
   "Date": "1946", 
   "ArtistID": 1968, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "682.1995", 
-  "ArtistBio": "Finnish, 1911\u20131989", 
-  "CreditLine": "Gift from the collection of Mr. and Mrs. Albert Greene", 
+  "ArtistBio": "(Finnish, 1911\u20131989)", 
+  "DateAcquired": "1995-09-20", 
+  "\ufeffTitle": "Dish", 
   "ObjectID": "4218"
 }

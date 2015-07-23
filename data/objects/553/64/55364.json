@@ -5,8 +5,7 @@
   "Artist": "Gay Block", 
   "URL": "http://www.moma.org/collection/works/55364", 
   "CuratorApproved": "Y", 
-  "Title": "Helene Jacobs, Germany", 
-  "DateAcquired": "1990-12-13", 
+  "CreditLine": "Acquired through the generosity of Jo Carole and Ronald S. Lauder", 
   "Date": "1987-1990", 
   "ArtistID": 607, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "582.1990.x1-x2", 
-  "ArtistBio": "American, born 1942", 
-  "CreditLine": "Acquired through the generosity of Jo Carole and Ronald S. Lauder", 
+  "ArtistBio": "(American, born 1942)", 
+  "DateAcquired": "1990-12-13", 
+  "\ufeffTitle": "Helene Jacobs, Germany from the series Rescuers of the Holocaust", 
   "ObjectID": "55364"
 }

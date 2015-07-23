@@ -5,8 +5,7 @@
   "Artist": "Thomas Struth", 
   "URL": "http://www.moma.org/collection/works/49442", 
   "CuratorApproved": "Y", 
-  "Title": "Neue Mainzerstrasse, Frankfurt", 
-  "DateAcquired": "1999-06-10", 
+  "CreditLine": "Gift of Robert and Sylvie Liska in honor of Jo Carole and Ronald S. Lauder", 
   "Date": "1988", 
   "ArtistID": 7825, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "243.1999", 
-  "ArtistBio": "German, born 1954", 
-  "CreditLine": "Gift of Robert and Sylvie Liska in honor of Jo Carole and Ronald S. Lauder", 
+  "ArtistBio": "(German, born 1954)", 
+  "DateAcquired": "1999-06-10", 
+  "\ufeffTitle": "Neue Mainzerstrasse, Frankfurt", 
   "ObjectID": "49442"
 }

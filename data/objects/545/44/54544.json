@@ -5,8 +5,7 @@
   "Artist": "Harry Callahan", 
   "URL": "http://www.moma.org/collection/works/54544", 
   "CuratorApproved": "Y", 
-  "Title": "Wisconsin", 
-  "DateAcquired": "1999-12-09", 
+  "CreditLine": "Gift of Robert and Joyce Menschel", 
   "Date": "c. 1949", 
   "ArtistID": 924, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "509.1999", 
-  "ArtistBio": "American, 1912\u20131999", 
-  "CreditLine": "Gift of Robert and Joyce Menschel", 
+  "ArtistBio": "(American, 1912\u20131999)", 
+  "DateAcquired": "1999-12-09", 
+  "\ufeffTitle": "Wisconsin", 
   "ObjectID": "54544"
 }

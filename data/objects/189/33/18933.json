@@ -5,8 +5,7 @@
   "Artist": "Oskar Kokoschka", 
   "URL": "http://www.moma.org/collection/works/18933", 
   "CuratorApproved": "Y", 
-  "Title": "Plate (folio 4) from M\u00f6rder Hoffnung der Frauen (Murderer Hope of Women)", 
-  "DateAcquired": "1949-09-29", 
+  "CreditLine": "Transferred from the Museum Library", 
   "Date": "(1916)", 
   "ArtistID": 3197, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "580.1949.1", 
-  "ArtistBio": "Austrian, 1886\u20131980", 
-  "CreditLine": "Transferred from the Museum Library", 
+  "ArtistBio": "(Austrian, 1886\u20131980)", 
+  "DateAcquired": "1949-09-29", 
+  "\ufeffTitle": "Plate (folio 4) from M\u00f6rder, Hoffnung der Frauen (Murderer, Hope of Women)", 
   "ObjectID": "18933"
 }

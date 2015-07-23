@@ -5,8 +5,7 @@
   "Artist": "Max Ernst", 
   "URL": "http://www.moma.org/collection/works/37053", 
   "CuratorApproved": "Y", 
-  "Title": "Forest and Sun", 
-  "DateAcquired": "1953-06-22", 
+  "CreditLine": "Gift of Mme. Helena Rubinstein", 
   "Date": "(1931)", 
   "ArtistID": 1752, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "467.1953", 
-  "ArtistBio": "French, born Germany. 1891\u20131976", 
-  "CreditLine": "Gift of Mme. Helena Rubinstein", 
+  "ArtistBio": "(French, born Germany. 1891\u20131976)", 
+  "DateAcquired": "1953-06-22", 
+  "\ufeffTitle": "Forest and Sun", 
   "ObjectID": "37053"
 }

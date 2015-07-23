@@ -1,12 +1,11 @@
 {
   "Medium": "Linoleum cut and slipcase", 
-  "Dimensions": "Cover (.a): 19 13/16 x 19 13/16\" (50.3 x 50.3 cm)  Sheet (.b): 57 1/2 x 39 1/16\" (146 x 99.2 cm)", 
+  "Dimensions": "Cover (.a): 19 13/16 x 19 13/16\" (50.3 x 50.3 cm)\r\nSheet (.b): 57 1/2 x 39 1/16\" (146 x 99.2 cm)", 
   "Classification": "Print", 
   "Artist": "Albert Oehlen", 
   "URL": "http://www.moma.org/collection/works/65905", 
   "CuratorApproved": "Y", 
-  "Title": "Alles Andere", 
-  "DateAcquired": "1989-10-12", 
+  "CreditLine": "Richard A. Epstein Fund", 
   "Date": "1987", 
   "ArtistID": 4375, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "279.1989.a-b", 
-  "ArtistBio": "German, born 1954", 
-  "CreditLine": "Richard A. Epstein Fund", 
+  "ArtistBio": "(German, born 1954)", 
+  "DateAcquired": "1989-10-12", 
+  "\ufeffTitle": "Alles Andere", 
   "ObjectID": "65905"
 }

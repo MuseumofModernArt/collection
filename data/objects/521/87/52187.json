@@ -5,8 +5,7 @@
   "Artist": "Carmel E. Vitullo", 
   "URL": "http://www.moma.org/collection/works/52187", 
   "CuratorApproved": "Y", 
-  "Title": "Newport Jazz Festival", 
-  "DateAcquired": "1959-04-22", 
+  "CreditLine": "Purchase", 
   "Date": "1940-58", 
   "ArtistID": 6172, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "381.1959", 
-  "ArtistBio": "American", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American)", 
+  "DateAcquired": "1959-04-22", 
+  "\ufeffTitle": "Newport Jazz Festival", 
   "ObjectID": "52187"
 }

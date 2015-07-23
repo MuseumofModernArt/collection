@@ -5,8 +5,7 @@
   "Artist": "Lee Friedlander", 
   "URL": "http://www.moma.org/collection/works/58963", 
   "CuratorApproved": "Y", 
-  "Title": "Philadelphia, Pennsylvania", 
-  "DateAcquired": "1968-01-10", 
+  "CreditLine": "The Ben Schultz Memorial Collection. Gift of the photographer", 
   "Date": "1965", 
   "ArtistID": 2002, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "2692.1967", 
-  "ArtistBio": "American, born 1934", 
-  "CreditLine": "The Ben Schultz Memorial Collection. Gift of the photographer", 
+  "ArtistBio": "(American, born 1934)", 
+  "DateAcquired": "1968-01-10", 
+  "\ufeffTitle": "Philadelphia, Pennsylvania", 
   "ObjectID": "58963"
 }

@@ -1,12 +1,11 @@
 {
-  "Medium": "Letterpress  Paper/Support:", 
+  "Medium": "Letterpress\r\nPaper/Support:", 
   "Dimensions": "11 11/16 x 8 1/4\" (29.6 x 21 cm)", 
   "Classification": "A&D Graphic Design", 
   "Artist": "Georg Trump", 
   "URL": "http://www.moma.org/collection/works/8488", 
   "CuratorApproved": "Y", 
-  "Title": "Side 1: Henkell Sekt als Traube Gekauft!; side 2: Manoli Privat", 
-  "DateAcquired": "1999-12-10", 
+  "CreditLine": "Jan Tschichold Collection, Gift of Philip Johnson", 
   "Date": "c. 1931", 
   "ArtistID": 5947, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "1014.1999", 
-  "ArtistBio": "German, 1896\u20131985", 
-  "CreditLine": "Jan Tschichold Collection, Gift of Philip Johnson", 
+  "ArtistBio": "(German, 1896\u20131985)", 
+  "DateAcquired": "1999-12-10", 
+  "\ufeffTitle": "Side 1: Henkell Sekt als Traube Gekauft!; side 2: Manoli Privat", 
   "ObjectID": "8488"
 }

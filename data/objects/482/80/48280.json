@@ -5,8 +5,7 @@
   "Artist": "Lewis W. Hine", 
   "URL": "http://www.moma.org/collection/works/48280", 
   "CuratorApproved": "Y", 
-  "Title": "On the Bowery, New York City", 
-  "DateAcquired": "1944-11-08", 
+  "CreditLine": "Purchase", 
   "Date": "1909", 
   "ArtistID": 2657, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "198.1944", 
-  "ArtistBio": "American, 1874\u20131940", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, 1874\u20131940)", 
+  "DateAcquired": "1944-11-08", 
+  "\ufeffTitle": "On the Bowery, New York City", 
   "ObjectID": "48280"
 }

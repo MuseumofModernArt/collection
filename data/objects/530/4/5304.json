@@ -5,8 +5,7 @@
   "Artist": "Leo Lionni", 
   "URL": "http://www.moma.org/collection/works/5304", 
   "CuratorApproved": "Y", 
-  "Title": "Keep 'Em Rolling!", 
-  "DateAcquired": "1968-03-07", 
+  "CreditLine": "Gift of the Office for Emergency Management", 
   "Date": "1941", 
   "ArtistID": 3562, 
   "Keywords": [
@@ -16,7 +15,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "151.1968", 
-  "ArtistBio": "American, born Amsterdam. 1910\u20131999", 
-  "CreditLine": "Gift of the Office for Emergency Management", 
+  "ArtistBio": "(American, born Amsterdam. 1910\u20131999)", 
+  "DateAcquired": "1968-03-07", 
+  "\ufeffTitle": "Keep 'Em Rolling!", 
   "ObjectID": "5304"
 }

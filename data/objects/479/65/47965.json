@@ -5,8 +5,7 @@
   "Artist": "Zeke Berman", 
   "URL": "http://www.moma.org/collection/works/47965", 
   "CuratorApproved": "Y", 
-  "Title": "Still Life with Glass", 
-  "DateAcquired": "1979-05-10", 
+  "CreditLine": "The Family of Man Fund", 
   "Date": "1978", 
   "ArtistID": 506, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "185.1979", 
-  "ArtistBio": "American, born 1951", 
-  "CreditLine": "The Family of Man Fund", 
+  "ArtistBio": "(American, born 1951)", 
+  "DateAcquired": "1979-05-10", 
+  "\ufeffTitle": "Still Life with Glass", 
   "ObjectID": "47965"
 }

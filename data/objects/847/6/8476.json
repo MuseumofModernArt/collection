@@ -5,8 +5,7 @@
   "Artist": "Georg Trump", 
   "URL": "http://www.moma.org/collection/works/8476", 
   "CuratorApproved": "Y", 
-  "Title": "Les Grand Peintres d'aujourd'hui, Picasso", 
-  "DateAcquired": "1999-12-10", 
+  "CreditLine": "Jan Tschichold Collection, Gift of Philip Johnson", 
   "Date": "c. 1931", 
   "ArtistID": 5947, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "1002.1999", 
-  "ArtistBio": "German, 1896\u20131985", 
-  "CreditLine": "Jan Tschichold Collection, Gift of Philip Johnson", 
+  "ArtistBio": "(German, 1896\u20131985)", 
+  "DateAcquired": "1999-12-10", 
+  "\ufeffTitle": "\"Les Grand Peintres d'aujourd'hui,\" Picasso", 
   "ObjectID": "8476"
 }

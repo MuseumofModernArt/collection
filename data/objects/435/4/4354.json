@@ -5,8 +5,7 @@
   "Artist": "Carlo Zen", 
   "URL": "http://www.moma.org/collection/works/4354", 
   "CuratorApproved": "Y", 
-  "Title": "Side Chair", 
-  "DateAcquired": "1977-11-28", 
+  "CreditLine": "Gift of John Goodwin", 
   "Date": "c. 1905", 
   "ArtistID": 6559, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "540.1977", 
-  "ArtistBio": "Italian, 1851\u20131918", 
-  "CreditLine": "Gift of John Goodwin", 
+  "ArtistBio": "(Italian, 1851\u20131918)", 
+  "DateAcquired": "1977-11-28", 
+  "\ufeffTitle": "Side Chair", 
   "ObjectID": "4354"
 }

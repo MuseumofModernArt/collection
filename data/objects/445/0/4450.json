@@ -5,8 +5,7 @@
   "Artist": "Rex A. Stevens", 
   "URL": "http://www.moma.org/collection/works/4450", 
   "CuratorApproved": "Y", 
-  "Title": "Pitcher", 
-  "DateAcquired": "1941-12-01", 
+  "CreditLine": "Gift of Lewis & Conger", 
   "Date": "c. 1940", 
   "ArtistID": 5661, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "793.1941", 
-  "ArtistBio": "American", 
-  "CreditLine": "Gift of Lewis & Conger", 
+  "ArtistBio": "(American)", 
+  "DateAcquired": "1941-12-01", 
+  "\ufeffTitle": "Pitcher", 
   "ObjectID": "4450"
 }

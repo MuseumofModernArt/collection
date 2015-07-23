@@ -5,8 +5,7 @@
   "Artist": "Henri Matisse", 
   "URL": "http://www.moma.org/collection/works/61705", 
   "CuratorApproved": "Y", 
-  "Title": "Madame Derain", 
-  "DateAcquired": "1955-04-06", 
+  "CreditLine": "Gift of Mrs. W. Murray Crane (by exchange)", 
   "Date": "(1914)", 
   "ArtistID": 3832, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "93.1955", 
-  "ArtistBio": "French, 1869\u20131954", 
-  "CreditLine": "Gift of Mrs. W. Murray Crane (by exchange)", 
+  "ArtistBio": "(French, 1869\u20131954)", 
+  "DateAcquired": "1955-04-06", 
+  "\ufeffTitle": "Madame Derain", 
   "ObjectID": "61705"
 }

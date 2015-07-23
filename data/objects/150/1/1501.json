@@ -5,8 +5,7 @@
   "Artist": "Peter Behrens", 
   "URL": "http://www.moma.org/collection/works/1501", 
   "CuratorApproved": "Y", 
-  "Title": "Teapot", 
-  "DateAcquired": "1997-01-15", 
+  "CreditLine": "Gift of Manfred Ludewig", 
   "Date": "c. 1901", 
   "ArtistID": 438, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "13.1997", 
-  "ArtistBio": "German, 1868\u20131940", 
-  "CreditLine": "Gift of Manfred Ludewig", 
+  "ArtistBio": "(German, 1868\u20131940)", 
+  "DateAcquired": "1997-01-15", 
+  "\ufeffTitle": "Teapot", 
   "ObjectID": "1501"
 }

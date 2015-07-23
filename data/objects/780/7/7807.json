@@ -5,8 +5,7 @@
   "Artist": "K2 Design Studio", 
   "URL": "http://www.moma.org/collection/works/7807", 
   "CuratorApproved": "Y", 
-  "Title": "Nagauta Shamisen", 
-  "DateAcquired": "1981-12-10", 
+  "CreditLine": "Gift of the College of Fine Arts, UCLA", 
   "Date": "1981", 
   "ArtistID": 3321, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "631.1981", 
-  "ArtistBio": "Japanese, born 1993", 
-  "CreditLine": "Gift of the College of Fine Arts, UCLA", 
+  "ArtistBio": "(Japanese, born 1993)", 
+  "DateAcquired": "1981-12-10", 
+  "\ufeffTitle": "Nagauta Shamisen", 
   "ObjectID": "7807"
 }

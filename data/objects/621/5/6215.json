@@ -5,8 +5,7 @@
   "Artist": "Eryk Lipinski", 
   "URL": "http://www.moma.org/collection/works/6215", 
   "CuratorApproved": "Y", 
-  "Title": "Za Wami Pojda Inni", 
-  "DateAcquired": "1953-04-07", 
+  "CreditLine": "Gift of the Polish Information Service", 
   "Date": "1949", 
   "ArtistID": 8269, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "316.1953", 
-  "ArtistBio": "Polish, 1908\u20131991", 
-  "CreditLine": "Gift of the Polish Information Service", 
+  "ArtistBio": "(Polish, 1908\u20131991)", 
+  "DateAcquired": "1953-04-07", 
+  "\ufeffTitle": "Za Wami Pojda Inni", 
   "ObjectID": "6215"
 }

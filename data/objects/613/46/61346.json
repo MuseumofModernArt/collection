@@ -5,8 +5,7 @@
   "Artist": "Rosemarie Trockel", 
   "URL": "http://www.moma.org/collection/works/61346", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1999-03-04", 
+  "CreditLine": "Jacqueline Brody Fund", 
   "Date": "1996", 
   "ArtistID": 5933, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "75.1999.2", 
-  "ArtistBio": "German, born 1952", 
-  "CreditLine": "Jacqueline Brody Fund", 
+  "ArtistBio": "(German, born 1952)", 
+  "DateAcquired": "1999-03-04", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "61346"
 }

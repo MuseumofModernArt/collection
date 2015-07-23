@@ -5,8 +5,7 @@
   "Artist": "Auguste Salzmann", 
   "URL": "http://www.moma.org/collection/works/46339", 
   "CuratorApproved": "Y", 
-  "Title": "Tomb of Zachary, Valley of Jehosaphat", 
-  "DateAcquired": "1988-03-10", 
+  "CreditLine": "Gift of Paul F. Walter", 
   "Date": "1854", 
   "ArtistID": 5132, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "105.1988", 
-  "ArtistBio": "French, 1824\u20131872", 
-  "CreditLine": "Gift of Paul F. Walter", 
+  "ArtistBio": "(French, 1824\u20131872)", 
+  "DateAcquired": "1988-03-10", 
+  "\ufeffTitle": "Tomb of Zachary, Valley of Jehosaphat", 
   "ObjectID": "46339"
 }

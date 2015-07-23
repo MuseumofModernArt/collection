@@ -5,8 +5,7 @@
   "Artist": "Jan Groth", 
   "URL": "http://www.moma.org/collection/works/38287", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1979-10-04", 
+  "CreditLine": "Gift of Steingrim Laursen", 
   "Date": "1975", 
   "ArtistID": 2375, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "931.1979", 
-  "ArtistBio": "Norwegian, born 1938", 
-  "CreditLine": "Gift of Steingrim Laursen", 
+  "ArtistBio": "(Norwegian, born 1938)", 
+  "DateAcquired": "1979-10-04", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "38287"
 }

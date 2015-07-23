@@ -5,8 +5,7 @@
   "Artist": "JoAnn Verburg", 
   "URL": "http://www.moma.org/collection/works/56237", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled (Sally + Ricardo)", 
-  "DateAcquired": "1983-11-10", 
+  "CreditLine": "Acquired through the generosity of Celeste G. Bartos", 
   "Date": "1982", 
   "ArtistID": 6134, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "708.1983", 
-  "ArtistBio": "American, born 1950", 
-  "CreditLine": "Acquired through the generosity of Celeste G. Bartos", 
+  "ArtistBio": "(American, born 1950)", 
+  "DateAcquired": "1983-11-10", 
+  "\ufeffTitle": "Untitled (Sally + Ricardo)", 
   "ObjectID": "56237"
 }

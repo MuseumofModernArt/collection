@@ -5,8 +5,7 @@
   "Artist": "George Barnard", 
   "URL": "http://www.moma.org/collection/works/52822", 
   "CuratorApproved": "Y", 
-  "Title": "Battlefield of Atlanta, 22nd July, 1864, No. 1", 
-  "DateAcquired": "1969-05-21", 
+  "CreditLine": "Acquired by exchange with the Library of Congress", 
   "Date": "1864", 
   "ArtistID": 336, 
   "Keywords": [
@@ -21,7 +20,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "409.1969.36", 
-  "ArtistBio": "American, 1819\u20131902", 
-  "CreditLine": "Acquired by exchange with the Library of Congress", 
+  "ArtistBio": "(American, 1819\u20131902)", 
+  "DateAcquired": "1969-05-21", 
+  "\ufeffTitle": "Battlefield of Atlanta, 22nd July, 1864, No. 1 from the album Photographic Views of Sherman's Campaign", 
   "ObjectID": "52822"
 }

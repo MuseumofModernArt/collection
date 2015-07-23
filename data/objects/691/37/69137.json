@@ -1,12 +1,11 @@
 {
   "Medium": "Handmade paper and cloth", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "Richard Smith", 
   "URL": "http://www.moma.org/collection/works/69137", 
   "CuratorApproved": "Y", 
-  "Title": "Cartouche I-8", 
-  "DateAcquired": "1980-04-23", 
+  "CreditLine": "Purchase", 
   "Date": "(1979)", 
   "ArtistID": 5493, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "438.1980", 
-  "ArtistBio": "British, born 1931", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(British, born 1931)", 
+  "DateAcquired": "1980-04-23", 
+  "\ufeffTitle": "Cartouche I-8", 
   "ObjectID": "69137"
 }

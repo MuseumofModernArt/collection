@@ -1,12 +1,11 @@
 {
   "Medium": "Photolithograph", 
-  "Dimensions": "(irreg.) composition  27 3/16 x 18 3/4\" (69 x 47.6 cm)  sheet  27 11/16 x 19 3/4\" (70 x 50.1 cm)", 
+  "Dimensions": "(irreg.) composition  27 3/16 x 18 3/4\" (69 x 47.6 cm)\r\nsheet  27 11/16 x 19 3/4\" (70 x 50.1 cm)", 
   "Classification": "Print", 
   "Artist": "Richard Hamilton", 
   "URL": "http://www.moma.org/collection/works/66081", 
   "CuratorApproved": "Y", 
-  "Title": "Swingeing London 67", 
-  "DateAcquired": "1969-04-16", 
+  "CreditLine": "John R. Jakobson Foundation Fund", 
   "Date": "1968", 
   "ArtistID": 2481, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "287.1969", 
-  "ArtistBio": "British, 1922\u20132011", 
-  "CreditLine": "John R. Jakobson Foundation Fund", 
+  "ArtistBio": "(British, 1922\u20132011)", 
+  "DateAcquired": "1969-04-16", 
+  "\ufeffTitle": "Swingeing London 67", 
   "ObjectID": "66081"
 }

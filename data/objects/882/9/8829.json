@@ -5,8 +5,7 @@
   "Artist": "Emil Ruder", 
   "URL": "http://www.moma.org/collection/works/8829", 
   "CuratorApproved": "Y", 
-  "Title": "Joan Mir\u00f3", 
-  "DateAcquired": "2000-12-11", 
+  "CreditLine": "Gift of the designer", 
   "Date": "1956", 
   "ArtistID": 8397, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "1532.2000", 
-  "ArtistBio": "Swiss, 1914\u20131970", 
-  "CreditLine": "Gift of the designer", 
+  "ArtistBio": "(Swiss, 1914\u20131970)", 
+  "DateAcquired": "2000-12-11", 
+  "\ufeffTitle": "Joan Mir\u00f3", 
   "ObjectID": "8829"
 }

@@ -1,12 +1,11 @@
 {
   "Medium": "Etching", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "Charles Seliger", 
   "URL": "http://www.moma.org/collection/works/66489", 
   "CuratorApproved": "Y", 
-  "Title": "Awakening", 
-  "DateAcquired": "1994-05-26", 
+  "CreditLine": "Gift of George M. Jaffin", 
   "Date": "1988", 
   "ArtistID": 5335, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "303.1994", 
-  "ArtistBio": "American, 1926\u20132009", 
-  "CreditLine": "Gift of George M. Jaffin", 
+  "ArtistBio": "(American, 1926\u20132009)", 
+  "DateAcquired": "1994-05-26", 
+  "\ufeffTitle": "Awakening", 
   "ObjectID": "66489"
 }

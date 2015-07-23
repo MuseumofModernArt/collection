@@ -5,8 +5,7 @@
   "Artist": "Aleksandr Rodchenko", 
   "URL": "http://www.moma.org/collection/works/45117", 
   "CuratorApproved": "Y", 
-  "Title": "At the Telephone", 
-  "DateAcquired": "1970-01-07", 
+  "CreditLine": "Mr. and Mrs. John Spencer Fund", 
   "Date": "1928", 
   "ArtistID": 4975, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "56.1970", 
-  "ArtistBio": "Russian, 1891\u20131956", 
-  "CreditLine": "Mr. and Mrs. John Spencer Fund", 
+  "ArtistBio": "(Russian, 1891\u20131956)", 
+  "DateAcquired": "1970-01-07", 
+  "\ufeffTitle": "At the Telephone", 
   "ObjectID": "45117"
 }

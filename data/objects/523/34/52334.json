@@ -5,8 +5,7 @@
   "Artist": "Paul Martin", 
   "URL": "http://www.moma.org/collection/works/52334", 
   "CuratorApproved": "Y", 
-  "Title": "Fishmonger's Wife, The New Cut Market, London", 
-  "DateAcquired": "1938-10-20", 
+  "CreditLine": "Gift of the photographer", 
   "Date": "1892", 
   "ArtistID": 3795, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "388.1938", 
-  "ArtistBio": "British, 1864\u20131944", 
-  "CreditLine": "Gift of the photographer", 
+  "ArtistBio": "(British, 1864\u20131944)", 
+  "DateAcquired": "1938-10-20", 
+  "\ufeffTitle": "Fishmonger's Wife, The New Cut Market, London", 
   "ObjectID": "52334"
 }

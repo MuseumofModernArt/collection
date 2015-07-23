@@ -5,8 +5,7 @@
   "Artist": "Aftograf", 
   "URL": "http://www.moma.org/collection/works/69493", 
   "CuratorApproved": "Y", 
-  "Title": "Poems from S.M.S. No. 3, June 1968", 
-  "DateAcquired": "1977-11-10", 
+  "CreditLine": "Gift of Carol O. Selle", 
   "Date": "1968", 
   "ArtistID": 78, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "460.1977.3b", 
-  "ArtistBio": "Russian", 
-  "CreditLine": "Gift of Carol O. Selle", 
+  "ArtistBio": "(Russian)", 
+  "DateAcquired": "1977-11-10", 
+  "\ufeffTitle": "Poems from S.M.S. No. 3", 
   "ObjectID": "69493"
 }

@@ -5,8 +5,7 @@
   "Artist": "Oskar Schlemmer", 
   "URL": "http://www.moma.org/collection/works/34949", 
   "CuratorApproved": "Y", 
-  "Title": "The Figural Cabinet", 
-  "DateAcquired": "1978-04-04", 
+  "CreditLine": "The Joan and Lester Avnet Collection", 
   "Date": "(1922)", 
   "ArtistID": 5219, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "162.1978", 
-  "ArtistBio": "German, 1888\u20131943", 
-  "CreditLine": "The Joan and Lester Avnet Collection", 
+  "ArtistBio": "(German, 1888\u20131943)", 
+  "DateAcquired": "1978-04-04", 
+  "\ufeffTitle": "The Figural Cabinet (Das figurale Kabinett)", 
   "ObjectID": "34949"
 }

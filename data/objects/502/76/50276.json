@@ -5,8 +5,7 @@
   "Artist": "Philip-Lorca diCorcia", 
   "URL": "http://www.moma.org/collection/works/50276", 
   "CuratorApproved": "Y", 
-  "Title": "Eddie Anderson; 21 Years Old; Houston, Texas; $20", 
-  "DateAcquired": "1993-10-14", 
+  "CreditLine": "Gift of the photographer", 
   "Date": "1990-92", 
   "ArtistID": 7027, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "303.1993.x1-x2", 
-  "ArtistBio": "American, born 1951", 
-  "CreditLine": "Gift of the photographer", 
+  "ArtistBio": "(American, born 1951)", 
+  "DateAcquired": "1993-10-14", 
+  "\ufeffTitle": "Eddie Anderson; 21 Years Old; Houston, Texas; $20", 
   "ObjectID": "50276"
 }

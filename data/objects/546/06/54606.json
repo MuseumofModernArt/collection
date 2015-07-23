@@ -5,8 +5,7 @@
   "Artist": "Lewis W. Hine", 
   "URL": "http://www.moma.org/collection/works/54606", 
   "CuratorApproved": "Y", 
-  "Title": "Homework", 
-  "DateAcquired": "1981-12-17", 
+  "CreditLine": "Gift of June Sidman", 
   "Date": "1911", 
   "ArtistID": 2657, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "515.1981", 
-  "ArtistBio": "American, 1874\u20131940", 
-  "CreditLine": "Gift of June Sidman", 
+  "ArtistBio": "(American, 1874\u20131940)", 
+  "DateAcquired": "1981-12-17", 
+  "\ufeffTitle": "Homework", 
   "ObjectID": "54606"
 }

@@ -5,8 +5,7 @@
   "Artist": "Jack Manning", 
   "URL": "http://www.moma.org/collection/works/58635", 
   "CuratorApproved": "Y", 
-  "Title": "Midtown Disturbance", 
-  "DateAcquired": "2001-06-14", 
+  "CreditLine": "The New York Times Collection", 
   "Date": "August 15, 1964", 
   "ArtistID": 3732, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "2042.2001", 
-  "ArtistBio": "American, 1920\u20132001", 
-  "CreditLine": "The New York Times Collection", 
+  "ArtistBio": "(American, 1920\u20132001)", 
+  "DateAcquired": "2001-06-14", 
+  "\ufeffTitle": "\"Midtown Disturbance\"", 
   "ObjectID": "58635"
 }

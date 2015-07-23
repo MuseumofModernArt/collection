@@ -5,8 +5,7 @@
   "Artist": "Hans Jurgen Spohn", 
   "URL": "http://www.moma.org/collection/works/8400", 
   "CuratorApproved": "Y", 
-  "Title": "River Boat Shuffle", 
-  "DateAcquired": "1965-11-09", 
+  "CreditLine": "Gift of the artist", 
   "Date": "1964", 
   "ArtistID": 5570, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "934.1965", 
-  "ArtistBio": "German, born 1934", 
-  "CreditLine": "Gift of the artist", 
+  "ArtistBio": "(German, born 1934)", 
+  "DateAcquired": "1965-11-09", 
+  "\ufeffTitle": "River Boat Shuffle", 
   "ObjectID": "8400"
 }

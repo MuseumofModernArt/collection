@@ -1,12 +1,11 @@
 {
   "Medium": "Lithograph", 
-  "Dimensions": "irreg composition  29 3/8 x 23 11/16\" (74.6 x 60.1 cm)  sheet  34 1/16 x 24 1/16\" (86.5 x 61.1 cm)", 
+  "Dimensions": "irreg composition  29 3/8 x 23 11/16\" (74.6 x 60.1 cm)\r\nsheet  34 1/16 x 24 1/16\" (86.5 x 61.1 cm)", 
   "Classification": "Print", 
   "Artist": "Paul Sarkisian", 
   "URL": "http://www.moma.org/collection/works/68594", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1976-01-08", 
+  "CreditLine": "Gift of Dr. Samuel Mandel", 
   "Date": "(1972)", 
   "ArtistID": 5167, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "408.1975", 
-  "ArtistBio": "American, born 1928", 
-  "CreditLine": "Gift of Dr. Samuel Mandel", 
+  "ArtistBio": "(American, born 1928)", 
+  "DateAcquired": "1976-01-08", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "68594"
 }

@@ -5,8 +5,7 @@
   "Artist": "Alberto Giacometti", 
   "URL": "http://www.moma.org/collection/works/36488", 
   "CuratorApproved": "Y", 
-  "Title": "Man Reading a Book", 
-  "DateAcquired": "1975-10-24", 
+  "CreditLine": "Gift of Mr. and Mrs. Eugene V. Thaw in honor of Alfred H. Barr, Jr.", 
   "Date": "1923", 
   "ArtistID": 2141, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "355.1975", 
-  "ArtistBio": "Swiss, 1901\u20131966", 
-  "CreditLine": "Gift of Mr. and Mrs. Eugene V. Thaw in honor of Alfred H. Barr, Jr.", 
+  "ArtistBio": "(Swiss, 1901\u20131966)", 
+  "DateAcquired": "1975-10-24", 
+  "\ufeffTitle": "Man Reading a Book", 
   "ObjectID": "36488"
 }

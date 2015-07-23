@@ -5,8 +5,7 @@
   "Artist": "Takenobu Igarashi", 
   "URL": "http://www.moma.org/collection/works/8130", 
   "CuratorApproved": "Y", 
-  "Title": "Sylph", 
-  "DateAcquired": "1983-11-30", 
+  "CreditLine": "Gift of the artist", 
   "Date": "1981", 
   "ArtistID": 2797, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "781.1983", 
-  "ArtistBio": "Japanese, born 1944", 
-  "CreditLine": "Gift of the artist", 
+  "ArtistBio": "(Japanese, born 1944)", 
+  "DateAcquired": "1983-11-30", 
+  "\ufeffTitle": "Sylph", 
   "ObjectID": "8130"
 }

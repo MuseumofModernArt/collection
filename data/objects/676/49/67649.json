@@ -5,9 +5,8 @@
   "Artist": "Marie Laurencin", 
   "URL": "http://www.moma.org/collection/works/67649", 
   "CuratorApproved": "Y", 
-  "Title": "Little Girl with Rose", 
-  "DateAcquired": "1940-04-05", 
-  "Date": "NULL", 
+  "CreditLine": "Gift of Abby Aldrich Rockefeller", 
+  "Date": "", 
   "ArtistID": 3408, 
   "Keywords": [
     "online art collection", 
@@ -16,7 +15,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "359.1940", 
-  "ArtistBio": "French, 1883\u20131956", 
-  "CreditLine": "Gift of Abby Aldrich Rockefeller", 
+  "ArtistBio": "(French, 1883\u20131956)", 
+  "DateAcquired": "1940-04-05", 
+  "\ufeffTitle": "Little Girl with Rose", 
   "ObjectID": "67649"
 }

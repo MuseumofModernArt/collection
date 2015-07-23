@@ -5,8 +5,7 @@
   "Artist": "Henri Matisse", 
   "URL": "http://www.moma.org/collection/works/33965", 
   "CuratorApproved": "Y", 
-  "Title": "Study for The Back, II", 
-  "DateAcquired": "1971-03-30", 
+  "CreditLine": "Gift of Pierre Matisse", 
   "Date": "(c. 1913)", 
   "ArtistID": 3832, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "104.1971", 
-  "ArtistBio": "French, 1869\u20131954", 
-  "CreditLine": "Gift of Pierre Matisse", 
+  "ArtistBio": "(French, 1869\u20131954)", 
+  "DateAcquired": "1971-03-30", 
+  "\ufeffTitle": "Study for The Back, II", 
   "ObjectID": "33965"
 }

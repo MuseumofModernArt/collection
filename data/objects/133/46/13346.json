@@ -5,8 +5,7 @@
   "Artist": "Olga Rozanova", 
   "URL": "http://www.moma.org/collection/works/13346", 
   "CuratorApproved": "Y", 
-  "Title": "Plate (folio 12) from Vzorval' (Explodity)", 
-  "DateAcquired": "1977-05-03", 
+  "CreditLine": "Purchase", 
   "Date": "(1914).  (Print executed 1913-1914).", 
   "ArtistID": 5066, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "201.1977.10", 
-  "ArtistBio": "Russian, 1886\u20131918", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(Russian, 1886\u20131918)", 
+  "DateAcquired": "1977-05-03", 
+  "\ufeffTitle": "Plate (folio 12) from Vzorval' (Explodity)", 
   "ObjectID": "13346"
 }

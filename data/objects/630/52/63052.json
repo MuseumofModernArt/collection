@@ -1,13 +1,12 @@
 {
   "Medium": "Etching and engraving", 
-  "Dimensions": "plate: 6 15/16 x 5 3/8\" (17.6 x 13.6 cm); sheet (irreg.): 9 15/16 x 6 1/2\" (25 x 16.6 cm)", 
+  "Dimensions": "plate: 6 15/16 x 5 3/8\" (17.6 x 13.6 cm); sheet: 9 15/16 x 6 1/2\" (25 x 16.6 cm)", 
   "Classification": "Print", 
   "Artist": "Louise Bourgeois", 
   "URL": "http://www.moma.org/collection/works/63052", 
   "CuratorApproved": "Y", 
-  "Title": "Les Mollesques (Mollusks), state III", 
-  "DateAcquired": "1990-05-02", 
-  "Date": "(c. 1948)", 
+  "CreditLine": "Gift of the artist", 
+  "Date": "c. 1948", 
   "ArtistID": 710, 
   "Keywords": [
     "online art collection", 
@@ -19,7 +18,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "154.1990.3", 
-  "ArtistBio": "American, born France. 1911\u20132010", 
-  "CreditLine": "Gift of the artist", 
+  "ArtistBio": "(American, born France. 1911\u20132010)", 
+  "DateAcquired": "1990-05-02", 
+  "\ufeffTitle": "Les Mollesques", 
   "ObjectID": "63052"
 }

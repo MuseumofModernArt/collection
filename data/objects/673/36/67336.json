@@ -5,8 +5,7 @@
   "Artist": "Karl Schmidt-Rottluff", 
   "URL": "http://www.moma.org/collection/works/67336", 
   "CuratorApproved": "Y", 
-  "Title": "Harbor Street", 
-  "DateAcquired": "1950-11-15", 
+  "CreditLine": "Purchase Fund", 
   "Date": "(1923)", 
   "ArtistID": 5242, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "344.1950", 
-  "ArtistBio": "German, 1884\u20131976", 
-  "CreditLine": "Purchase Fund", 
+  "ArtistBio": "(German, 1884\u20131976)", 
+  "DateAcquired": "1950-11-15", 
+  "\ufeffTitle": "Harbor Street (Hafenstrasse)", 
   "ObjectID": "67336"
 }

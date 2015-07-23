@@ -5,8 +5,7 @@
   "Artist": "Unknown photographer", 
   "URL": "http://www.moma.org/collection/works/45344", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled (Rewa, India?)", 
-  "DateAcquired": "1989-03-09", 
+  "CreditLine": "Gift of Paul F. Walter", 
   "Date": "c. 1880?", 
   "ArtistID": 6028, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "63.1989", 
-  "ArtistBio": "NULL", 
-  "CreditLine": "Gift of Paul F. Walter", 
+  "ArtistBio": "", 
+  "DateAcquired": "1989-03-09", 
+  "\ufeffTitle": "Untitled (Rewa, India?)", 
   "ObjectID": "45344"
 }

@@ -5,8 +5,7 @@
   "Artist": "Vanessa Bell", 
   "URL": "http://www.moma.org/collection/works/33091", 
   "CuratorApproved": "Y", 
-  "Title": "Composition", 
-  "DateAcquired": "1978-04-04", 
+  "CreditLine": "The Joan and Lester Avnet Collection", 
   "Date": "(c. 1914)", 
   "ArtistID": 445, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "9.1978", 
-  "ArtistBio": "British, 1879\u20131961", 
-  "CreditLine": "The Joan and Lester Avnet Collection", 
+  "ArtistBio": "(British, 1879\u20131961)", 
+  "DateAcquired": "1978-04-04", 
+  "\ufeffTitle": "Composition", 
   "ObjectID": "33091"
 }

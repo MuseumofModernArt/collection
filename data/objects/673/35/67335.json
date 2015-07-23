@@ -5,8 +5,7 @@
   "Artist": "Louis Marcoussis", 
   "URL": "http://www.moma.org/collection/works/67335", 
   "CuratorApproved": "Y", 
-  "Title": "Composition", 
-  "DateAcquired": "1948-10-06", 
+  "CreditLine": "Gift of Victor S. Riesenfeld", 
   "Date": "(c. 1927)", 
   "ArtistID": 3757, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "344.1948", 
-  "ArtistBio": "Polish, 1883\u20131941", 
-  "CreditLine": "Gift of Victor S. Riesenfeld", 
+  "ArtistBio": "(Polish, 1883\u20131941)", 
+  "DateAcquired": "1948-10-06", 
+  "\ufeffTitle": "Composition", 
   "ObjectID": "67335"
 }

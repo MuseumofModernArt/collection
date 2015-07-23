@@ -5,8 +5,7 @@
   "Artist": "Hans Hammarskiold", 
   "URL": "http://www.moma.org/collection/works/53927", 
   "CuratorApproved": "Y", 
-  "Title": "Pub in East End, London", 
-  "DateAcquired": "1960-11-30", 
+  "CreditLine": "Gift of the photographer", 
   "Date": "c. 1955", 
   "ArtistID": 2482, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "469.1960", 
-  "ArtistBio": "Swedish, 1925\u20132012", 
-  "CreditLine": "Gift of the photographer", 
+  "ArtistBio": "(Swedish, 1925\u20132012)", 
+  "DateAcquired": "1960-11-30", 
+  "\ufeffTitle": "_Untitled_", 
   "ObjectID": "53927"
 }

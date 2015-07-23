@@ -1,12 +1,11 @@
 {
   "Medium": "Etching and aquatint", 
-  "Dimensions": "plate  27 3/4 x 10 3/4\" (70.5 x 27.4 cm)  irreg sheet  39 1/8 x 21 1/8\" (99.4 x 53.6 cm)", 
+  "Dimensions": "plate  27 3/4 x 10 3/4\" (70.5 x 27.4 cm)\r\nirreg sheet  39 1/8 x 21 1/8\" (99.4 x 53.6 cm)", 
   "Classification": "Print", 
   "Artist": "Robert Motherwell", 
   "URL": "http://www.moma.org/collection/works/68412", 
   "CuratorApproved": "Y", 
-  "Title": "Black Gesture on Copper Ground", 
-  "DateAcquired": "1981-10-22", 
+  "CreditLine": "Gift of the artist", 
   "Date": "(1980-81)", 
   "ArtistID": 4126, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "397.1981", 
-  "ArtistBio": "American, 1915\u20131991", 
-  "CreditLine": "Gift of the artist", 
+  "ArtistBio": "(American, 1915\u20131991)", 
+  "DateAcquired": "1981-10-22", 
+  "\ufeffTitle": "Black Gesture on Copper Ground", 
   "ObjectID": "68412"
 }

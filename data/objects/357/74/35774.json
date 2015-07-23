@@ -5,8 +5,7 @@
   "Artist": "Byron Browne", 
   "URL": "http://www.moma.org/collection/works/35774", 
   "CuratorApproved": "Y", 
-  "Title": "Girl with Bows", 
-  "DateAcquired": "1978-04-04", 
+  "CreditLine": "Gift of Celeste G. Bartos", 
   "Date": "1937", 
   "ArtistID": 814, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "266.1978", 
-  "ArtistBio": "American, 1907\u20131961", 
-  "CreditLine": "Gift of Celeste G. Bartos", 
+  "ArtistBio": "(American, 1907\u20131961)", 
+  "DateAcquired": "1978-04-04", 
+  "\ufeffTitle": "Girl with Bows", 
   "ObjectID": "35774"
 }

@@ -1,12 +1,11 @@
 {
   "Medium": "Illustrated book with thirty-two etchings and one aquatint", 
-  "Dimensions": "irreg. page  13 1/16 x 9 13/16\" (33 x 25 cm)  Prints:  various dimensions.", 
+  "Dimensions": "irreg. page  13 1/16 x 9 13/16\" (33 x 25 cm)\r\nPrints:  various dimensions.", 
   "Classification": "Illustrated Book", 
   "Artist": "Oscar Dom\u00ednguez", 
   "URL": "http://www.moma.org/collection/works/18886", 
   "CuratorApproved": "Y", 
-  "Title": "PO\u00c9SIE ET V\u00c9RIT\u00c9 1942", 
-  "DateAcquired": "1976-11-10", 
+  "CreditLine": "Jeanne C. Thayer Fund", 
   "Date": "1947", 
   "ArtistID": 1579, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "578.1976.1-33", 
-  "ArtistBio": "French, born Spain. 1906\u20131957", 
-  "CreditLine": "Jeanne C. Thayer Fund", 
+  "ArtistBio": "(French, born Spain. 1906\u20131957)", 
+  "DateAcquired": "1976-11-10", 
+  "\ufeffTitle": "Po\u00e9sie et v\u00e9rit\u00e9", 
   "ObjectID": "18886"
 }

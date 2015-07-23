@@ -1,12 +1,11 @@
 {
   "Medium": "Zinc plate", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "David Hockney", 
   "URL": "http://www.moma.org/collection/works/66468", 
   "CuratorApproved": "Y", 
-  "Title": "Plate for Jungle Boy", 
-  "DateAcquired": "1985-10-07", 
+  "CreditLine": "Gift of Associated American Artists", 
   "Date": "(1964)", 
   "ArtistID": 2678, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "302.1985", 
-  "ArtistBio": "British, born 1937", 
-  "CreditLine": "Gift of Associated American Artists", 
+  "ArtistBio": "(British, born 1937)", 
+  "DateAcquired": "1985-10-07", 
+  "\ufeffTitle": "Plate for Jungle Boy", 
   "ObjectID": "66468"
 }

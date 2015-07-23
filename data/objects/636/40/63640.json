@@ -1,12 +1,11 @@
 {
   "Medium": "Lithograph from a portfolio of 16 lithographs", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "Maurice Denis", 
   "URL": "http://www.moma.org/collection/works/63640", 
   "CuratorApproved": "Y", 
-  "Title": "The Terrace (La Terrasse), plate 1 from The Album of Original Lithographs (Album de lithographies originales)", 
-  "DateAcquired": "1949-03-24", 
+  "CreditLine": "Purchase Fund", 
   "Date": "c. 1924", 
   "ArtistID": 1492, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "175.1949.1", 
-  "ArtistBio": "French, 1870\u20131943", 
-  "CreditLine": "Purchase Fund", 
+  "ArtistBio": "(French, 1870\u20131943)", 
+  "DateAcquired": "1949-03-24", 
+  "\ufeffTitle": "La Terrasse (The Terrace), plate 1 from Album de lithographies originales (The Album of Original Lithographs)", 
   "ObjectID": "63640"
 }

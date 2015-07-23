@@ -5,8 +5,7 @@
   "Artist": "Jan Matulka", 
   "URL": "http://www.moma.org/collection/works/36964", 
   "CuratorApproved": "Y", 
-  "Title": "Prague", 
-  "DateAcquired": "1981-11-13", 
+  "CreditLine": "Gift of Mrs. Jan Matulka", 
   "Date": "(c. 1921)", 
   "ArtistID": 3848, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "448.1981", 
-  "ArtistBio": "American, 1890\u20131972", 
-  "CreditLine": "Gift of Mrs. Jan Matulka", 
+  "ArtistBio": "(American, 1890\u20131972)", 
+  "DateAcquired": "1981-11-13", 
+  "\ufeffTitle": "Prague", 
   "ObjectID": "36964"
 }

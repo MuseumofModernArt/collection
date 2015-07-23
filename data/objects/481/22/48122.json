@@ -5,8 +5,7 @@
   "Artist": "Weegee (Arthur Fellig)", 
   "URL": "http://www.moma.org/collection/works/48122", 
   "CuratorApproved": "Y", 
-  "Title": "Woman Shot from Cannon, New York", 
-  "DateAcquired": "1964-02-11", 
+  "CreditLine": "Gift of Sara Mazo", 
   "Date": "1943", 
   "ArtistID": 1842, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "192.1964", 
-  "ArtistBio": "American, born Austria. 1899\u20131968", 
-  "CreditLine": "Gift of Sara Mazo", 
+  "ArtistBio": "(American, born Austria. 1899\u20131968)", 
+  "DateAcquired": "1964-02-11", 
+  "\ufeffTitle": "Woman Shot from Cannon, New York", 
   "ObjectID": "48122"
 }

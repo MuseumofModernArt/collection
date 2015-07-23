@@ -5,8 +5,7 @@
   "Artist": "Ellsworth Kelly", 
   "URL": "http://www.moma.org/collection/works/68102", 
   "CuratorApproved": "Y", 
-  "Title": "Orient Beach", 
-  "DateAcquired": "1987-10-20", 
+  "CreditLine": "President's Fund Purchase, 1987, Donald B. Marron, President", 
   "Date": "1983\u201384", 
   "ArtistID": 3048, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "379.1987", 
-  "ArtistBio": "American, born 1923", 
-  "CreditLine": "President's Fund Purchase, 1987, Donald B. Marron, President", 
+  "ArtistBio": "(American, born 1923)", 
+  "DateAcquired": "1987-10-20", 
+  "\ufeffTitle": "Orient Beach", 
   "ObjectID": "68102"
 }

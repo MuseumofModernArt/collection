@@ -5,8 +5,7 @@
   "Artist": "Umberto Nason", 
   "URL": "http://www.moma.org/collection/works/3963", 
   "CuratorApproved": "Y", 
-  "Title": "Tumbler", 
-  "DateAcquired": "1956-10-25", 
+  "CreditLine": "Gift of Philip Johnson", 
   "Date": "1954", 
   "ArtistID": 4233, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "473.1956.13", 
-  "ArtistBio": "Italian, 1889\u20131964", 
-  "CreditLine": "Gift of Philip Johnson", 
+  "ArtistBio": "(Italian, 1889\u20131964)", 
+  "DateAcquired": "1956-10-25", 
+  "\ufeffTitle": "Tumbler", 
   "ObjectID": "3963"
 }

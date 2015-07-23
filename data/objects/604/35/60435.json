@@ -5,8 +5,7 @@
   "Artist": "Franz Marc", 
   "URL": "http://www.moma.org/collection/works/60435", 
   "CuratorApproved": "Y", 
-  "Title": "Lion Hunt After Delacroix", 
-  "DateAcquired": "1952-01-22", 
+  "CreditLine": "Purchase", 
   "Date": "(1913)", 
   "ArtistID": 3748, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "29.1952", 
-  "ArtistBio": "German, 1880\u20131916", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(German, 1880\u20131916)", 
+  "DateAcquired": "1952-01-22", 
+  "\ufeffTitle": "Lion Hunt After Delacroix (L\u00f6wenjagd nach Delacroix)", 
   "ObjectID": "60435"
 }

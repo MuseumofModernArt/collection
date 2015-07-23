@@ -5,8 +5,7 @@
   "Artist": "Daido Moriyama", 
   "URL": "http://www.moma.org/collection/works/56623", 
   "CuratorApproved": "Y", 
-  "Title": "Crippled Beggar, Tokyo", 
-  "DateAcquired": "1978-12-14", 
+  "CreditLine": "Gift of the photographer", 
   "Date": "1965", 
   "ArtistID": 4099, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "831.1978", 
-  "ArtistBio": "Japanese, born 1938", 
-  "CreditLine": "Gift of the photographer", 
+  "ArtistBio": "(Japanese, born 1938)", 
+  "DateAcquired": "1978-12-14", 
+  "\ufeffTitle": "Crippled Beggar, Tokyo", 
   "ObjectID": "56623"
 }

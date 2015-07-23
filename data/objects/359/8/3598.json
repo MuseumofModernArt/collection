@@ -5,8 +5,7 @@
   "Artist": "Jacob Jongert", 
   "URL": "http://www.moma.org/collection/works/3598", 
   "CuratorApproved": "Y", 
-  "Title": "Coffee and Tea Box for the Dutch company Van Nelle", 
-  "DateAcquired": "1992-10-21", 
+  "CreditLine": "Purchase", 
   "Date": "1928-30", 
   "ArtistID": 6971, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "438.1992", 
-  "ArtistBio": "Dutch, 1883\u20131942", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(Dutch, 1883\u20131942)", 
+  "DateAcquired": "1992-10-21", 
+  "\ufeffTitle": "Coffee and Tea Box for the Dutch company Van Nelle", 
   "ObjectID": "3598"
 }

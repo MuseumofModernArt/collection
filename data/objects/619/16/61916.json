@@ -5,8 +5,7 @@
   "Artist": "Pierre Courtin", 
   "URL": "http://www.moma.org/collection/works/61916", 
   "CuratorApproved": "Y", 
-  "Title": "Leaves in September (Les feuilles en septembre)", 
-  "DateAcquired": "1949-03-24", 
+  "CreditLine": "Purchase", 
   "Date": "1947", 
   "ArtistID": 1274, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "109.1949", 
-  "ArtistBio": "French, born 1921", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(French, born 1921)", 
+  "DateAcquired": "1949-03-24", 
+  "\ufeffTitle": "Leaves in September (Les feuilles en septembre)", 
   "ObjectID": "61916"
 }

@@ -5,8 +5,7 @@
   "Artist": "Lee Friedlander", 
   "URL": "http://www.moma.org/collection/works/56893", 
   "CuratorApproved": "Y", 
-  "Title": "New York City", 
-  "DateAcquired": "1978-12-14", 
+  "CreditLine": "Gift of N. Carol Lipis", 
   "Date": "1963", 
   "ArtistID": 2002, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "846.1978.2", 
-  "ArtistBio": "American, born 1934", 
-  "CreditLine": "Gift of N. Carol Lipis", 
+  "ArtistBio": "(American, born 1934)", 
+  "DateAcquired": "1978-12-14", 
+  "\ufeffTitle": "New York City", 
   "ObjectID": "56893"
 }

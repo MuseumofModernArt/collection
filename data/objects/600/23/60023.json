@@ -1,12 +1,11 @@
 {
   "Medium": "Lithograph", 
-  "Dimensions": "irreg composition  22 1/8 x 22 9/16\" (56.2 x 57.3 cm)  irreg sheet  22 1/2 x 30 5/8\" (57.2 x 77.8 cm)", 
+  "Dimensions": "irreg composition  22 1/8 x 22 9/16\" (56.2 x 57.3 cm)\r\nirreg sheet  22 1/2 x 30 5/8\" (57.2 x 77.8 cm)", 
   "Classification": "Print", 
   "Artist": "Helen Frankenthaler", 
   "URL": "http://www.moma.org/collection/works/60023", 
   "CuratorApproved": "Y", 
-  "Title": "Altitudes", 
-  "DateAcquired": "1979-01-23", 
+  "CreditLine": "Gift of Celeste Bartos", 
   "Date": "1978", 
   "ArtistID": 1974, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "17.1979", 
-  "ArtistBio": "American, 1928\u20132011", 
-  "CreditLine": "Gift of Celeste Bartos", 
+  "ArtistBio": "(American, 1928\u20132011)", 
+  "DateAcquired": "1979-01-23", 
+  "\ufeffTitle": "Altitudes", 
   "ObjectID": "60023"
 }

@@ -5,8 +5,7 @@
   "Artist": "Leo Lionni", 
   "URL": "http://www.moma.org/collection/works/5486", 
   "CuratorApproved": "Y", 
-  "Title": "25th Anniversary - Museum of Modern Art", 
-  "DateAcquired": "1955-06-16", 
+  "CreditLine": "Gift of the Publications Department", 
   "Date": "1954", 
   "ArtistID": 3562, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "173.1955", 
-  "ArtistBio": "American, born Amsterdam. 1910\u20131999", 
-  "CreditLine": "Gift of the Publications Department", 
+  "ArtistBio": "(American, born Amsterdam. 1910\u20131999)", 
+  "DateAcquired": "1955-06-16", 
+  "\ufeffTitle": "25th Anniversary - Museum of Modern Art", 
   "ObjectID": "5486"
 }

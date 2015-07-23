@@ -5,8 +5,7 @@
   "Artist": "Roger Fenton", 
   "URL": "http://www.moma.org/collection/works/55578", 
   "CuratorApproved": "Y", 
-  "Title": "Cobham Park", 
-  "DateAcquired": "1941-12-10", 
+  "CreditLine": "Purchase", 
   "Date": "1857", 
   "ArtistID": 1847, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "611.1941", 
-  "ArtistBio": "British, 1819\u20131869", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(British, 1819\u20131869)", 
+  "DateAcquired": "1941-12-10", 
+  "\ufeffTitle": "Cobham Park", 
   "ObjectID": "55578"
 }

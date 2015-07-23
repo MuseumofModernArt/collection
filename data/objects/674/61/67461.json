@@ -5,8 +5,7 @@
   "Artist": "Erich Heckel", 
   "URL": "http://www.moma.org/collection/works/67461", 
   "CuratorApproved": "Y", 
-  "Title": "Street in Ostende", 
-  "DateAcquired": "1954-09-30", 
+  "CreditLine": "Gift of Samuel A. Berger", 
   "Date": "(1915), dated 1916", 
   "ArtistID": 2569, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "350.1954", 
-  "ArtistBio": "German, 1883\u20131970", 
-  "CreditLine": "Gift of Samuel A. Berger", 
+  "ArtistBio": "(German, 1883\u20131970)", 
+  "DateAcquired": "1954-09-30", 
+  "\ufeffTitle": "Street in Ostende (Strasse in Ostende)", 
   "ObjectID": "67461"
 }

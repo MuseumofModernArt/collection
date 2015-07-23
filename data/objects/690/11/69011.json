@@ -1,12 +1,11 @@
 {
   "Medium": "Multiple of four wood rulers", 
-  "Dimensions": "Composition (each extend): 9/16 x 78 3/4\" (1.5 x 200 cm)  Each (extend composition): 1/4\" (0.6 cm)  Composition (each folded): 9/16 x 8 1/8\" (1.5 x 20.7 cm)  Each (folded composition): 1 9/16\" (4 cm)", 
+  "Dimensions": "Composition (each extend): 9/16 x 78 3/4\" (1.5 x 200 cm)\r\nEach (extend composition): 1/4\" (0.6 cm)\r\nComposition (each folded): 9/16 x 8 1/8\" (1.5 x 20.7 cm)\r\nEach (folded composition): 1 9/16\" (4 cm)", 
   "Classification": "Multiple", 
   "Artist": "Cildo Meireles", 
   "URL": "http://www.moma.org/collection/works/69011", 
   "CuratorApproved": "Y", 
-  "Title": "Fontes", 
-  "DateAcquired": "1999-11-18", 
+  "CreditLine": "Gift of Paulo Herkenhoff in memory of Alfredo Fontes", 
   "Date": "(1992)", 
   "ArtistID": 7007, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "430.1999.1-4", 
-  "ArtistBio": "Brazilian, born 1948", 
-  "CreditLine": "Gift of Paulo Herkenhoff in memory of Alfredo Fontes", 
+  "ArtistBio": "(Brazilian, born 1948)", 
+  "DateAcquired": "1999-11-18", 
+  "\ufeffTitle": "Fontes", 
   "ObjectID": "69011"
 }

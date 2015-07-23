@@ -5,8 +5,7 @@
   "Artist": "Jacques Villon", 
   "URL": "http://www.moma.org/collection/works/65513", 
   "CuratorApproved": "Y", 
-  "Title": "Child in a Tub", 
-  "DateAcquired": "1951-05-24", 
+  "CreditLine": "Given anonymously", 
   "Date": "(1907)", 
   "ArtistID": 6165, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "263.1951", 
-  "ArtistBio": "French, 1875\u20131963", 
-  "CreditLine": "Given anonymously", 
+  "ArtistBio": "(French, 1875\u20131963)", 
+  "DateAcquired": "1951-05-24", 
+  "\ufeffTitle": "Child in a Tub", 
   "ObjectID": "65513"
 }

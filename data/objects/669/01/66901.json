@@ -5,8 +5,7 @@
   "Artist": "Maurice Denis", 
   "URL": "http://www.moma.org/collection/works/66901", 
   "CuratorApproved": "Y", 
-  "Title": "Christ at Emmaus", 
-  "DateAcquired": "1948-10-06", 
+  "CreditLine": "Gift of Victor S. Riesenfeld", 
   "Date": "1895", 
   "ArtistID": 1492, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "322.1948", 
-  "ArtistBio": "French, 1870\u20131943", 
-  "CreditLine": "Gift of Victor S. Riesenfeld", 
+  "ArtistBio": "(French, 1870\u20131943)", 
+  "DateAcquired": "1948-10-06", 
+  "\ufeffTitle": "Christ at Emmaus", 
   "ObjectID": "66901"
 }

@@ -5,8 +5,7 @@
   "Artist": "Fridolin M\u00fcller", 
   "URL": "http://www.moma.org/collection/works/6698", 
   "CuratorApproved": "Y", 
-  "Title": "Collagen", 
-  "DateAcquired": "1994-09-21", 
+  "CreditLine": "Gift of Leonard A. Lauder", 
   "Date": "1968", 
   "ArtistID": 4148, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "422.1994", 
-  "ArtistBio": "Swiss, born 1926", 
-  "CreditLine": "Gift of Leonard A. Lauder", 
+  "ArtistBio": "(Swiss, born 1926)", 
+  "DateAcquired": "1994-09-21", 
+  "\ufeffTitle": "Collagen", 
   "ObjectID": "6698"
 }

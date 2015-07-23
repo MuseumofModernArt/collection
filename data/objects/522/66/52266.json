@@ -5,8 +5,7 @@
   "Artist": "Barbara Morgan", 
   "URL": "http://www.moma.org/collection/works/52266", 
   "CuratorApproved": "Y", 
-  "Title": "Solstice", 
-  "DateAcquired": "1972-11-21", 
+  "CreditLine": "Gift of the photographer", 
   "Date": "1942", 
   "ArtistID": 4089, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "384.1972", 
-  "ArtistBio": "American, 1900\u20131992", 
-  "CreditLine": "Gift of the photographer", 
+  "ArtistBio": "(American, 1900\u20131992)", 
+  "DateAcquired": "1972-11-21", 
+  "\ufeffTitle": "Solstice", 
   "ObjectID": "52266"
 }

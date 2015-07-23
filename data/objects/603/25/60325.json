@@ -5,8 +5,7 @@
   "Artist": "Egon Schiele", 
   "URL": "http://www.moma.org/collection/works/60325", 
   "CuratorApproved": "Y", 
-  "Title": "Poster for the 49th Exhibition of the Vienna Secession", 
-  "DateAcquired": "1957-02-27", 
+  "CreditLine": "Gift of Dr. and Mrs. Otto Kallir", 
   "Date": "1918", 
   "ArtistID": 5215, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "24.1957", 
-  "ArtistBio": "Austrian, 1890\u20131918", 
-  "CreditLine": "Gift of Dr. and Mrs. Otto Kallir", 
+  "ArtistBio": "(Austrian, 1890\u20131918)", 
+  "DateAcquired": "1957-02-27", 
+  "\ufeffTitle": "Poster for the 49th Exhibition of the Vienna Secession (Secession 49. Ausstellung)", 
   "ObjectID": "60325"
 }

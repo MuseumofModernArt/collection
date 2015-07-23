@@ -5,8 +5,7 @@
   "Artist": "Jacob Jensen", 
   "URL": "http://www.moma.org/collection/works/2332", 
   "CuratorApproved": "Y", 
-  "Title": "Beomaster 1900 Receiver", 
-  "DateAcquired": "1977-03-21", 
+  "CreditLine": "Gift of the manufacturer", 
   "Date": "1976", 
   "ArtistID": 2909, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "163.1977", 
-  "ArtistBio": "Danish, 1926\u20132015", 
-  "CreditLine": "Gift of the manufacturer", 
+  "ArtistBio": "(Danish, 1926\u20132015)", 
+  "DateAcquired": "1977-03-21", 
+  "\ufeffTitle": "Beomaster 1900 Receiver", 
   "ObjectID": "2332"
 }

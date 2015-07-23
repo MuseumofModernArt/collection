@@ -1,12 +1,11 @@
 {
   "Medium": "Screenprint with varnish", 
-  "Dimensions": "composition  22 x 31 1/16\" (55.9 x 78.9 cm)  sheet  28 x 34 13/16\" (71 x 88.5 cm)", 
+  "Dimensions": "composition  22 x 31 1/16\" (55.9 x 78.9 cm)\r\nsheet  28 x 34 13/16\" (71 x 88.5 cm)", 
   "Classification": "Print", 
   "Artist": "Rachel Whiteread", 
   "URL": "http://www.moma.org/collection/works/69941", 
   "CuratorApproved": "Y", 
-  "Title": "MAUSOLEUM UNDER CONSTRUCTION from the portfolio LONDON", 
-  "DateAcquired": "1992-11-04", 
+  "CreditLine": "Purchase", 
   "Date": "(1992)", 
   "ArtistID": 6910, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "484.1992", 
-  "ArtistBio": "British, born 1963", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(British, born 1963)", 
+  "DateAcquired": "1992-11-04", 
+  "\ufeffTitle": "Mausoleum Under Construction from the portfolio London", 
   "ObjectID": "69941"
 }

@@ -5,8 +5,7 @@
   "Artist": "Johannes Canis", 
   "URL": "http://www.moma.org/collection/works/7837", 
   "CuratorApproved": "Y", 
-  "Title": "Fortschritt", 
-  "DateAcquired": "1999-12-10", 
+  "CreditLine": "Jan Tschichold Collection, Gift of Philip Johnson", 
   "Date": "Unknown", 
   "ArtistID": 950, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "643.1999", 
-  "ArtistBio": "German, 1895\u20131977", 
-  "CreditLine": "Jan Tschichold Collection, Gift of Philip Johnson", 
+  "ArtistBio": "(German, 1895\u20131977)", 
+  "DateAcquired": "1999-12-10", 
+  "\ufeffTitle": "Fortschritt", 
   "ObjectID": "7837"
 }

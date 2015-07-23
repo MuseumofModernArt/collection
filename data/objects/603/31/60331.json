@@ -1,12 +1,11 @@
 {
   "Medium": "Etching", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "N. Krishna Reddy", 
   "URL": "http://www.moma.org/collection/works/60331", 
   "CuratorApproved": "Y", 
-  "Title": "Dawn Worshipper", 
-  "DateAcquired": "1973-01-04", 
+  "CreditLine": "Derald and Janet Ruttenberg Foundation Fund", 
   "Date": "1972", 
   "ArtistID": 4836, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "24.1973", 
-  "ArtistBio": "Indian, born 1925", 
-  "CreditLine": "Derald and Janet Ruttenberg Foundation Fund", 
+  "ArtistBio": "(Indian, born 1925)", 
+  "DateAcquired": "1973-01-04", 
+  "\ufeffTitle": "Dawn Worshipper", 
   "ObjectID": "60331"
 }

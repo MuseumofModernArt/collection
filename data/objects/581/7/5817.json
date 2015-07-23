@@ -5,8 +5,7 @@
   "Artist": "Ivan Chermayeff", 
   "URL": "http://www.moma.org/collection/works/5817", 
   "CuratorApproved": "Y", 
-  "Title": "The Mead Library of Ideas 23rd International Annual Report Competition", 
-  "DateAcquired": "1987-05-27", 
+  "CreditLine": "Chermayeff and Geismar Fund", 
   "Date": "1975", 
   "ArtistID": 1091, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "244.1987", 
-  "ArtistBio": "American, born England 1932", 
-  "CreditLine": "Chermayeff and Geismar Fund", 
+  "ArtistBio": "(American, born England 1932)", 
+  "DateAcquired": "1987-05-27", 
+  "\ufeffTitle": "The Mead Library of Ideas 23rd International Annual Report Competition", 
   "ObjectID": "5817"
 }

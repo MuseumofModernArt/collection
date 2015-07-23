@@ -5,8 +5,7 @@
   "Artist": "Emilio Ambasz", 
   "URL": "http://www.moma.org/collection/works/686", 
   "CuratorApproved": "Y", 
-  "Title": "Casa de Retiro Espiritual, C\u00f3rdoba, Spain  Section", 
-  "DateAcquired": "1991-10-24", 
+  "CreditLine": "Gift of the architect", 
   "Date": "1979", 
   "ArtistID": 141, 
   "Keywords": [
@@ -20,7 +19,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "482.1990", 
-  "ArtistBio": "Argentine, born 1943", 
-  "CreditLine": "Gift of the architect", 
+  "ArtistBio": "(Argentine, born 1943)", 
+  "DateAcquired": "1991-10-24", 
+  "\ufeffTitle": "Casa de Retiro Espiritual, C\u00f3rdoba, Spain, Section", 
   "ObjectID": "686"
 }

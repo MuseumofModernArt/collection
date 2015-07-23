@@ -5,8 +5,7 @@
   "Artist": "Carl Andre", 
   "URL": "http://www.moma.org/collection/works/38552", 
   "CuratorApproved": "Y", 
-  "Title": "red red", 
-  "DateAcquired": "1980-05-13", 
+  "CreditLine": "Gift of Sarah-Ann and Werner H. Kramarsky", 
   "Date": "(1967)", 
   "ArtistID": 174, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "1268.1979", 
-  "ArtistBio": "American, born 1935", 
-  "CreditLine": "Gift of Sarah-Ann and Werner H. Kramarsky", 
+  "ArtistBio": "(American, born 1935)", 
+  "DateAcquired": "1980-05-13", 
+  "\ufeffTitle": "red red", 
   "ObjectID": "38552"
 }

@@ -1,12 +1,11 @@
 {
   "Medium": "Screenprint", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "David Rose", 
   "URL": "http://www.moma.org/collection/works/68265", 
   "CuratorApproved": "Y", 
-  "Title": "Figure VIII (Muybridge)", 
-  "DateAcquired": "1973-10-24", 
+  "CreditLine": "Purchase", 
   "Date": "(1972)", 
   "ArtistID": 5018, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "387.1973.a-b", 
-  "ArtistBio": "Australian, born 1936", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(Australian, born 1936)", 
+  "DateAcquired": "1973-10-24", 
+  "\ufeffTitle": "Figure VIII (Muybridge)", 
   "ObjectID": "68265"
 }

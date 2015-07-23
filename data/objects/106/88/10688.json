@@ -1,12 +1,11 @@
 {
   "Medium": "Lithograph, woodcut, and chine coll\u00e9", 
-  "Dimensions": "composition  7 1/2 x 92\" (19.2 x 232.8 cm)  each sheet  7 1/2 x 11 1/2\" (19.2 x 27.9 cm)  sheet  7 1/2 x 92\" (19 x 232.8 cm)", 
+  "Dimensions": "composition  7 1/2 x 92\" (19.2 x 232.8 cm)\r\neach sheet  7 1/2 x 11 1/2\" (19.2 x 27.9 cm)\r\nsheet  7 1/2 x 92\" (19 x 232.8 cm)", 
   "Classification": "Illustrated Book", 
   "Artist": "Enrique Chagoya", 
   "URL": "http://www.moma.org/collection/works/10688", 
   "CuratorApproved": "Y", 
-  "Title": "The Return of the Macrobiotic Cannibal (El regreso del canibal macrobiotico)", 
-  "DateAcquired": "1999-03-04", 
+  "CreditLine": "The Ralph E. Shikes Fund", 
   "Date": "1998", 
   "ArtistID": 7480, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "43.1999", 
-  "ArtistBio": "American, born Mexico 1953", 
-  "CreditLine": "The Ralph E. Shikes Fund", 
+  "ArtistBio": "(American, born Mexico 1953)", 
+  "DateAcquired": "1999-03-04", 
+  "\ufeffTitle": "The Return of the Macrobiotic Cannibal (El regreso del canibal macrobiotico)", 
   "ObjectID": "10688"
 }

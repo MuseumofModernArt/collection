@@ -5,8 +5,7 @@
   "Artist": "W. Archibald Welden", 
   "URL": "http://www.moma.org/collection/works/4238", 
   "CuratorApproved": "Y", 
-  "Title": "Tea Kettle", 
-  "DateAcquired": "1956-10-25", 
+  "CreditLine": "Gift of the manufacturer", 
   "Date": "1934", 
   "ArtistID": 6304, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "496.1956", 
-  "ArtistBio": "American, 1900\u20131970", 
-  "CreditLine": "Gift of the manufacturer", 
+  "ArtistBio": "(American, 1900\u20131970)", 
+  "DateAcquired": "1956-10-25", 
+  "\ufeffTitle": "Tea Kettle", 
   "ObjectID": "4238"
 }

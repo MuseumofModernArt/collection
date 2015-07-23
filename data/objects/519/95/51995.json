@@ -5,8 +5,7 @@
   "Artist": "William Henry Fox Talbot", 
   "URL": "http://www.moma.org/collection/works/51995", 
   "CuratorApproved": "Y", 
-  "Title": "Wheat", 
-  "DateAcquired": "1938-10-20", 
+  "CreditLine": "Gift of Miss M. T. Talbot", 
   "Date": "c. 1854", 
   "ArtistID": 5791, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "372.1938", 
-  "ArtistBio": "British, 1800\u20131877", 
-  "CreditLine": "Gift of Miss M. T. Talbot", 
+  "ArtistBio": "(British, 1800\u20131877)", 
+  "DateAcquired": "1938-10-20", 
+  "\ufeffTitle": "Wheat", 
   "ObjectID": "51995"
 }

@@ -5,8 +5,7 @@
   "Artist": "Lyonel Feininger", 
   "URL": "http://www.moma.org/collection/works/68478", 
   "CuratorApproved": "Y", 
-  "Title": "Hanseatic Ships", 
-  "DateAcquired": "1956-03-19", 
+  "CreditLine": "Gift of Julia Feininger", 
   "Date": "1919", 
   "ArtistID": 1832, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "402.1955", 
-  "ArtistBio": "American, 1871\u20131956", 
-  "CreditLine": "Gift of Julia Feininger", 
+  "ArtistBio": "(American, 1871\u20131956)", 
+  "DateAcquired": "1956-03-19", 
+  "\ufeffTitle": "Hanseatic Ships (Hansaschiffe)", 
   "ObjectID": "68478"
 }

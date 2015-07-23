@@ -1,12 +1,11 @@
 {
   "Medium": "Ink on paper", 
-  "Dimensions": "24 3/4 x 18 7/8\" (62.7 x 47.8 cm)  ", 
+  "Dimensions": "24 3/4 x 18 7/8\" (62.7 x 47.8 cm)\r\n", 
   "Classification": "Drawing", 
   "Artist": "Andr\u00e9 Masson", 
   "URL": "http://www.moma.org/collection/works/34533", 
   "CuratorApproved": "Y", 
-  "Title": "Myself Drawing Dante", 
-  "DateAcquired": "1958-10-29", 
+  "CreditLine": "Gift of Andrew Lyndon", 
   "Date": "1940", 
   "ArtistID": 3821, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "131.1958", 
-  "ArtistBio": "French, 1896\u20131987", 
-  "CreditLine": "Gift of Andrew Lyndon", 
+  "ArtistBio": "(French, 1896\u20131987)", 
+  "DateAcquired": "1958-10-29", 
+  "\ufeffTitle": "Myself Drawing Dante", 
   "ObjectID": "34533"
 }

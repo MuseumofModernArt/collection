@@ -5,8 +5,7 @@
   "Artist": "Henry Pearson", 
   "URL": "http://www.moma.org/collection/works/66320", 
   "CuratorApproved": "Y", 
-  "Title": "Gyros V", 
-  "DateAcquired": "1966-05-10", 
+  "CreditLine": "John B. Turner Fund", 
   "Date": "1965", 
   "ArtistID": 4530, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "295.1966", 
-  "ArtistBio": "American,1914\u20132006", 
-  "CreditLine": "John B. Turner Fund", 
+  "ArtistBio": "(American,1914\u20132006)", 
+  "DateAcquired": "1966-05-10", 
+  "\ufeffTitle": "Gyros V", 
   "ObjectID": "66320"
 }

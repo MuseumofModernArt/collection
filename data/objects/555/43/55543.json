@@ -5,8 +5,7 @@
   "Artist": "Carleton E. Watkins", 
   "URL": "http://www.moma.org/collection/works/55543", 
   "CuratorApproved": "Y", 
-  "Title": "The Sentinel, Echo Canyon, Utah", 
-  "DateAcquired": "1983-05-26", 
+  "CreditLine": "Acquired through the generosity of Arthur M. Bullowa", 
   "Date": "1873-1874", 
   "ArtistID": 6260, 
   "Keywords": [
@@ -20,7 +19,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "605.1983", 
-  "ArtistBio": "American, 1829\u20131916", 
-  "CreditLine": "Acquired through the generosity of Arthur M. Bullowa", 
+  "ArtistBio": "(American, 1829\u20131916)", 
+  "DateAcquired": "1983-05-26", 
+  "\ufeffTitle": "The Sentinel, Echo Canyon, Utah", 
   "ObjectID": "55543"
 }

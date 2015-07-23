@@ -5,8 +5,7 @@
   "Artist": "Mark Steinmetz", 
   "URL": "http://www.moma.org/collection/works/45078", 
   "CuratorApproved": "Y", 
-  "Title": "Magnolia Ave, Knoxville", 
-  "DateAcquired": "1994-01-13", 
+  "CreditLine": "Horace W. Goldsmith Fund through Robert B. Menschel", 
   "Date": "1992", 
   "ArtistID": 5636, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "54.1994", 
-  "ArtistBio": "American, born 1961", 
-  "CreditLine": "Horace W. Goldsmith Fund through Robert B. Menschel", 
+  "ArtistBio": "(American, born 1961)", 
+  "DateAcquired": "1994-01-13", 
+  "\ufeffTitle": "Magnolia Ave, Knoxville", 
   "ObjectID": "45078"
 }

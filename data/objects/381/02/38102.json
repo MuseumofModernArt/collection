@@ -5,8 +5,7 @@
   "Artist": "Richard Artschwager", 
   "URL": "http://www.moma.org/collection/works/38102", 
   "CuratorApproved": "Y", 
-  "Title": "Where to Go", 
-  "DateAcquired": "1969-10-28", 
+  "CreditLine": "Lester Avnet Fund", 
   "Date": "1967", 
   "Keywords": [
     "online art collection", 
@@ -16,7 +15,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "807.1969", 
-  "ArtistBio": "American, 1923\u20132013", 
-  "CreditLine": "Lester Avnet Fund", 
+  "ArtistBio": "(American, 1923\u20132013)", 
+  "DateAcquired": "1969-10-28", 
+  "\ufeffTitle": "Where to Go", 
   "ObjectID": "38102"
 }

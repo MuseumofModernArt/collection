@@ -5,8 +5,7 @@
   "Artist": "Ming Smith", 
   "URL": "http://www.moma.org/collection/works/57817", 
   "CuratorApproved": "Y", 
-  "Title": "Christmas Constellation, Brussels, Belgium", 
-  "DateAcquired": "1979-12-13", 
+  "CreditLine": "Acquired through the generosity of the Vera Louise Fraser Estate", 
   "Date": "1978", 
   "ArtistID": 7906, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "1183.1979", 
-  "ArtistBio": "American", 
-  "CreditLine": "Acquired through the generosity of the Vera Louise Fraser Estate", 
+  "ArtistBio": "(American)", 
+  "DateAcquired": "1979-12-13", 
+  "\ufeffTitle": "Christmas Constellation, Brussels, Belgium", 
   "ObjectID": "57817"
 }

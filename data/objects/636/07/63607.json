@@ -1,12 +1,11 @@
 {
   "Medium": "Portfolio of six etchings", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
-  "Artist": "Alexander Brodsky", 
+  "Artist": "Alexander Brodsky, Ilya Utkin", 
   "URL": "http://www.moma.org/collection/works/63607", 
   "CuratorApproved": "Y", 
-  "Title": "Projects", 
-  "DateAcquired": "1990-05-02", 
+  "CreditLine": "Gift of Dorothy Blau", 
   "Date": "(1984-88, printed 1990)", 
   "ArtistID": 789, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "173.1990.1-6", 
-  "ArtistBio": "Russian", 
-  "CreditLine": "Gift of Dorothy Blau", 
+  "ArtistBio": "(Russian) (Russian)", 
+  "DateAcquired": "1990-05-02", 
+  "\ufeffTitle": "Projects", 
   "ObjectID": "63607"
 }

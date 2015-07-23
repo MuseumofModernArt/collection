@@ -5,8 +5,7 @@
   "Artist": "Miguel Conde", 
   "URL": "http://www.moma.org/collection/works/34628", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1973-03-06", 
+  "CreditLine": "Gift of Mrs. Wolfgang Schoenborn", 
   "Date": "1971", 
   "ArtistID": 1208, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "137.1973", 
-  "ArtistBio": "Mexican, born 1939", 
-  "CreditLine": "Gift of Mrs. Wolfgang Schoenborn", 
+  "ArtistBio": "(Mexican, born 1939)", 
+  "DateAcquired": "1973-03-06", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "34628"
 }

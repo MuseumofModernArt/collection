@@ -5,8 +5,7 @@
   "Artist": "Richard P. (Sandy) Hume", 
   "URL": "http://www.moma.org/collection/works/52571", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1974-10-01", 
+  "CreditLine": "Purchase", 
   "Date": "1974", 
   "ArtistID": 2763, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "398.1974", 
-  "ArtistBio": "American, born 1946", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, born 1946)", 
+  "DateAcquired": "1974-10-01", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "52571"
 }

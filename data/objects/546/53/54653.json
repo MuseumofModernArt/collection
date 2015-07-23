@@ -5,8 +5,7 @@
   "Artist": "Dorothea Lange", 
   "URL": "http://www.moma.org/collection/works/54653", 
   "CuratorApproved": "Y", 
-  "Title": "Mother and Child, San Francisco", 
-  "DateAcquired": "1973-11-13", 
+  "CreditLine": "Gift of the photographer", 
   "Date": "1952", 
   "ArtistID": 3373, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "520.1973", 
-  "ArtistBio": "American, 1895\u20131965", 
-  "CreditLine": "Gift of the photographer", 
+  "ArtistBio": "(American, 1895\u20131965)", 
+  "DateAcquired": "1973-11-13", 
+  "\ufeffTitle": "Mother and Child, San Francisco", 
   "ObjectID": "54653"
 }

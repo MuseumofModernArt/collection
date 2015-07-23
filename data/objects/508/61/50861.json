@@ -5,8 +5,7 @@
   "Artist": "Darius Kinsey", 
   "URL": "http://www.moma.org/collection/works/50861", 
   "CuratorApproved": "Y", 
-  "Title": "Homesteader's Shake Cabin", 
-  "DateAcquired": "1965-04-06", 
+  "CreditLine": "Courtesy of Jesse E. Ebert", 
   "Date": "1906", 
   "ArtistID": 3110, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "326.1965", 
-  "ArtistBio": "American, 1869\u20131945", 
-  "CreditLine": "Courtesy of Jesse E. Ebert", 
+  "ArtistBio": "(American, 1869\u20131945)", 
+  "DateAcquired": "1965-04-06", 
+  "\ufeffTitle": "Homesteader's Shake Cabin", 
   "ObjectID": "50861"
 }

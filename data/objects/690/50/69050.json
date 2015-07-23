@@ -5,8 +5,7 @@
   "Artist": "Helen Frankenthaler", 
   "URL": "http://www.moma.org/collection/works/69050", 
   "CuratorApproved": "Y", 
-  "Title": "Essence Mulberry", 
-  "DateAcquired": "1977-11-10", 
+  "CreditLine": "John B. Turner Fund", 
   "Date": "1977", 
   "ArtistID": 1974, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "433.1977", 
-  "ArtistBio": "American, 1928\u20132011", 
-  "CreditLine": "John B. Turner Fund", 
+  "ArtistBio": "(American, 1928\u20132011)", 
+  "DateAcquired": "1977-11-10", 
+  "\ufeffTitle": "Essence Mulberry", 
   "ObjectID": "69050"
 }

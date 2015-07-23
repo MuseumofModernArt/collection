@@ -5,8 +5,7 @@
   "Artist": "Unknown photographer", 
   "URL": "http://www.moma.org/collection/works/53060", 
   "CuratorApproved": "Y", 
-  "Title": "[Aerial reconnaissance photograph, World War I]", 
-  "DateAcquired": "1974-10-01", 
+  "CreditLine": "Gift of Edward Steichen", 
   "Date": "1916", 
   "ArtistID": 6028, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "414.1974", 
-  "ArtistBio": "NULL", 
-  "CreditLine": "Gift of Edward Steichen", 
+  "ArtistBio": "", 
+  "DateAcquired": "1974-10-01", 
+  "\ufeffTitle": "Aerial reconnaissance photograph, World War I", 
   "ObjectID": "53060"
 }

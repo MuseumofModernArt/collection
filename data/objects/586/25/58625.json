@@ -5,8 +5,7 @@
   "Artist": "Keystone View Company", 
   "URL": "http://www.moma.org/collection/works/58625", 
   "CuratorApproved": "Y", 
-  "Title": "Coal Mines Being Dug Under the Streets of Scranton, Pennsylvania", 
-  "DateAcquired": "2001-06-14", 
+  "CreditLine": "The New York Times Collection", 
   "Date": "1920", 
   "ArtistID": 8567, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "2032.2001", 
-  "ArtistBio": "American, active, 1892\u20131972", 
-  "CreditLine": "The New York Times Collection", 
+  "ArtistBio": "(American, active, 1892\u20131972)", 
+  "DateAcquired": "2001-06-14", 
+  "\ufeffTitle": "\"Coal Mines Being Dug Under the Streets of Scranton, Pennsylvania\"", 
   "ObjectID": "58625"
 }

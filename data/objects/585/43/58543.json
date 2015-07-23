@@ -5,8 +5,7 @@
   "Artist": "George Grantham Bain", 
   "URL": "http://www.moma.org/collection/works/58543", 
   "CuratorApproved": "Y", 
-  "Title": "President Theodore Roosevelt in Sao Paolo", 
-  "DateAcquired": "2001-06-14", 
+  "CreditLine": "The New York Times Collection", 
   "Date": "c. 1914", 
   "ArtistID": 8502, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "1950.2001", 
-  "ArtistBio": "American, 1865\u20131914", 
-  "CreditLine": "The New York Times Collection", 
+  "ArtistBio": "(American, 1865\u20131914)", 
+  "DateAcquired": "2001-06-14", 
+  "\ufeffTitle": "President Theodore Roosevelt in Sao Paolo", 
   "ObjectID": "58543"
 }

@@ -5,8 +5,7 @@
   "Artist": "Roger de La Fresnaye", 
   "URL": "http://www.moma.org/collection/works/34029", 
   "CuratorApproved": "Y", 
-  "Title": "Mask", 
-  "DateAcquired": "1963-02-13", 
+  "CreditLine": "Gift in memory of Otto M. Gerson", 
   "Date": "1921", 
   "ArtistID": 3325, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "109.1963", 
-  "ArtistBio": "French, 1885\u20131925", 
-  "CreditLine": "Gift in memory of Otto M. Gerson", 
+  "ArtistBio": "(French, 1885\u20131925)", 
+  "DateAcquired": "1963-02-13", 
+  "\ufeffTitle": "Mask", 
   "ObjectID": "34029"
 }

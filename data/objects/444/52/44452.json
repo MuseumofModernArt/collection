@@ -5,8 +5,7 @@
   "Artist": "Pierre Petit", 
   "URL": "http://www.moma.org/collection/works/44452", 
   "CuratorApproved": "Y", 
-  "Title": "Maximilien Paul Emile Littre", 
-  "DateAcquired": "1964-01-07", 
+  "CreditLine": "Purchase", 
   "Date": "c. 1865", 
   "ArtistID": 4576, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "38.1964", 
-  "ArtistBio": "French, 1832\u20131909", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(French, 1832\u20131909)", 
+  "DateAcquired": "1964-01-07", 
+  "\ufeffTitle": "Maximilien Paul Emile Littre", 
   "ObjectID": "44452"
 }

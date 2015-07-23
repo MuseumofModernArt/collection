@@ -5,8 +5,7 @@
   "Artist": "Jim Dine", 
   "URL": "http://www.moma.org/collection/works/36568", 
   "CuratorApproved": "Y", 
-  "Title": "The Birth of the Black Rainbow", 
-  "DateAcquired": "1984-11-29", 
+  "CreditLine": "Gift of R.L.B. Tobin", 
   "Date": "(1960)", 
   "ArtistID": 1547, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "376.1984", 
-  "ArtistBio": "American, born 1935", 
-  "CreditLine": "Gift of R.L.B. Tobin", 
+  "ArtistBio": "(American, born 1935)", 
+  "DateAcquired": "1984-11-29", 
+  "\ufeffTitle": "The Birth of the Black Rainbow", 
   "ObjectID": "36568"
 }

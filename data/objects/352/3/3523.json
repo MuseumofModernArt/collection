@@ -5,8 +5,7 @@
   "Artist": "Eleanore Peduzzi-Riva", 
   "URL": "http://www.moma.org/collection/works/3523", 
   "CuratorApproved": "Y", 
-  "Title": "Dish (model S621)", 
-  "DateAcquired": "1972-12-05", 
+  "CreditLine": "Gift of the manufacturer", 
   "Date": "1971", 
   "ArtistID": 4538, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "417.1972", 
-  "ArtistBio": "Italian, born 1936", 
-  "CreditLine": "Gift of the manufacturer", 
+  "ArtistBio": "(Italian, born 1936)", 
+  "DateAcquired": "1972-12-05", 
+  "\ufeffTitle": "Dish (model S621)", 
   "ObjectID": "3523"
 }

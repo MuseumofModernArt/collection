@@ -5,8 +5,7 @@
   "Artist": "Diego Rivera", 
   "URL": "http://www.moma.org/collection/works/35532", 
   "CuratorApproved": "Y", 
-  "Title": "Nude with Braided Hair", 
-  "DateAcquired": "1940-04-05", 
+  "CreditLine": "Given anonymously", 
   "Date": "1925", 
   "ArtistID": 4942, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "206.1940", 
-  "ArtistBio": "Mexican, 1886\u20131957", 
-  "CreditLine": "Given anonymously", 
+  "ArtistBio": "(Mexican, 1886\u20131957)", 
+  "DateAcquired": "1940-04-05", 
+  "\ufeffTitle": "Nude with Braided Hair", 
   "ObjectID": "35532"
 }

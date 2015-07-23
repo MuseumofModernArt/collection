@@ -1,12 +1,11 @@
 {
   "Medium": "Etching", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "Red Grooms", 
   "URL": "http://www.moma.org/collection/works/62992", 
   "CuratorApproved": "Y", 
-  "Title": "Cafe Manet", 
-  "DateAcquired": "1994-01-25", 
+  "CreditLine": "Gift of Brooke and Carolyn Alexander", 
   "Date": "1976", 
   "ArtistID": 2357, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "151.1994", 
-  "ArtistBio": "American, born 1937", 
-  "CreditLine": "Gift of Brooke and Carolyn Alexander", 
+  "ArtistBio": "(American, born 1937)", 
+  "DateAcquired": "1994-01-25", 
+  "\ufeffTitle": "Cafe Manet", 
   "ObjectID": "62992"
 }

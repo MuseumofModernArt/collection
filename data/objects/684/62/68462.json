@@ -5,8 +5,7 @@
   "Artist": "Richard Serra", 
   "URL": "http://www.moma.org/collection/works/68462", 
   "CuratorApproved": "Y", 
-  "Title": "Iceland", 
-  "DateAcquired": "1992-01-22", 
+  "CreditLine": "Gift of Gemini G.E.L.", 
   "Date": "1991", 
   "ArtistID": 5349, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "400.1991", 
-  "ArtistBio": "American, born 1939", 
-  "CreditLine": "Gift of Gemini G.E.L.", 
+  "ArtistBio": "(American, born 1939)", 
+  "DateAcquired": "1992-01-22", 
+  "\ufeffTitle": "Iceland", 
   "ObjectID": "68462"
 }

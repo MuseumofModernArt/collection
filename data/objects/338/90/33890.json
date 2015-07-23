@@ -5,8 +5,7 @@
   "Artist": "Charles Ray Frazier", 
   "URL": "http://www.moma.org/collection/works/33890", 
   "CuratorApproved": "Y", 
-  "Title": "Chinese Gate", 
-  "DateAcquired": "1971-03-30", 
+  "CreditLine": "Philip Johnson Fund", 
   "Date": "1970", 
   "ArtistID": 1979, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "97.1971", 
-  "ArtistBio": "American, born 1930", 
-  "CreditLine": "Philip Johnson Fund", 
+  "ArtistBio": "(American, born 1930)", 
+  "DateAcquired": "1971-03-30", 
+  "\ufeffTitle": "Chinese Gate", 
   "ObjectID": "33890"
 }

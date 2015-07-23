@@ -5,8 +5,7 @@
   "Artist": "Karl Schmidt-Rottluff", 
   "URL": "http://www.moma.org/collection/works/66542", 
   "CuratorApproved": "Y", 
-  "Title": "Portrait of H. Robinson", 
-  "DateAcquired": "1952-11-07", 
+  "CreditLine": "Gift of Grace Borgenicht", 
   "Date": "(1923)", 
   "ArtistID": 5242, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "306.1952", 
-  "ArtistBio": "German, 1884\u20131976", 
-  "CreditLine": "Gift of Grace Borgenicht", 
+  "ArtistBio": "(German, 1884\u20131976)", 
+  "DateAcquired": "1952-11-07", 
+  "\ufeffTitle": "Portrait of H. Robinson (Bildnis H. Robinson)", 
   "ObjectID": "66542"
 }

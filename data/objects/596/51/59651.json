@@ -1,12 +1,11 @@
 {
   "Medium": "Screenprint", 
-  "Dimensions": "composition  21 7/8 x 7 3/16\" (55.6 x 18.2 cm)  sheet  27 3/4 x 21 1/16\" (70.5 x 53.5 cm)", 
+  "Dimensions": "composition  21 7/8 x 7 3/16\" (55.6 x 18.2 cm)\r\nsheet  27 3/4 x 21 1/16\" (70.5 x 53.5 cm)", 
   "Classification": "Print", 
   "Artist": "Charles Lassiter", 
   "URL": "http://www.moma.org/collection/works/59651", 
   "CuratorApproved": "Y", 
-  "Title": "The Lowest Possible Lament", 
-  "DateAcquired": "1974-01-10", 
+  "CreditLine": "Gift of the artist", 
   "Date": "1974", 
   "ArtistID": 3401, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "5.1974", 
-  "ArtistBio": "American, born 1926", 
-  "CreditLine": "Gift of the artist", 
+  "ArtistBio": "(American, born 1926)", 
+  "DateAcquired": "1974-01-10", 
+  "\ufeffTitle": "The Lowest Possible Lament", 
   "ObjectID": "59651"
 }

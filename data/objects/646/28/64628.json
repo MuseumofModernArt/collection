@@ -1,12 +1,11 @@
 {
   "Medium": "Screenprint", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "Peter Schuyff", 
   "URL": "http://www.moma.org/collection/works/64628", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1990-05-02", 
+  "CreditLine": "Gift of Kenneth Anthony Schachter", 
   "Date": "(March 1990)", 
   "ArtistID": 5282, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "219.1990", 
-  "ArtistBio": "Dutch, born 1958", 
-  "CreditLine": "Gift of Kenneth Anthony Schachter", 
+  "ArtistBio": "(Dutch, born 1958)", 
+  "DateAcquired": "1990-05-02", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "64628"
 }

@@ -5,8 +5,7 @@
   "Artist": "Antonio Frasconi", 
   "URL": "http://www.moma.org/collection/works/7346", 
   "CuratorApproved": "Y", 
-  "Title": "Woodcuts by Antonio Frasconi, Weyhe Gallery, 794 Lexington Avenue New York, March 27-April 30 1954", 
-  "DateAcquired": "1954-09-30", 
+  "CreditLine": "Gift of the Weyhe Gallery, N.Y", 
   "Date": "1954", 
   "ArtistID": 1975, 
   "Keywords": [
@@ -20,7 +19,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "515.1954", 
-  "ArtistBio": "American, born Argentina. 1919\u20132013", 
-  "CreditLine": "Gift of the Weyhe Gallery, N.Y", 
+  "ArtistBio": "(American, born Argentina. 1919\u20132013)", 
+  "DateAcquired": "1954-09-30", 
+  "\ufeffTitle": "Woodcuts by Antonio Frasconi, Weyhe Gallery, 794 Lexington Avenue New York, March 27-April 30 1954", 
   "ObjectID": "7346"
 }

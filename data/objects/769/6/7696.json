@@ -5,8 +5,7 @@
   "Artist": "Ren\u00e9 Georges Hermann-Paul", 
   "URL": "http://www.moma.org/collection/works/7696", 
   "CuratorApproved": "Y", 
-  "Title": "M. Le Pr\u00e9sident par S\u00e9bastien Faure, Grand Roman In\u00e9dit", 
-  "DateAcquired": "1954-12-16", 
+  "CreditLine": "Purchase Fund", 
   "Date": "after 1890", 
   "ArtistID": 8365, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "601.1954", 
-  "ArtistBio": "French, 1864\u20131940", 
-  "CreditLine": "Purchase Fund", 
+  "ArtistBio": "(French, 1864\u20131940)", 
+  "DateAcquired": "1954-12-16", 
+  "\ufeffTitle": "M. Le Pr\u00e9sident par S\u00e9bastien Faure, Grand Roman In\u00e9dit", 
   "ObjectID": "7696"
 }

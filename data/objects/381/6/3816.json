@@ -5,8 +5,7 @@
   "Artist": "Mario Bellini", 
   "URL": "http://www.moma.org/collection/works/3816", 
   "CuratorApproved": "Y", 
-  "Title": "Pop Automatic Record Player (model GA 45)", 
-  "DateAcquired": "1970-11-05", 
+  "CreditLine": "Gift of the manufacturer", 
   "Date": "1968", 
   "ArtistID": 451, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "452.1970", 
-  "ArtistBio": "Italian, born 1935", 
-  "CreditLine": "Gift of the manufacturer", 
+  "ArtistBio": "(Italian, born 1935)", 
+  "DateAcquired": "1970-11-05", 
+  "\ufeffTitle": "Pop Automatic Record Player (model GA 45)", 
   "ObjectID": "3816"
 }

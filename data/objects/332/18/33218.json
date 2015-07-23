@@ -5,8 +5,7 @@
   "Artist": "Karl Schmidt-Rottluff", 
   "URL": "http://www.moma.org/collection/works/33218", 
   "CuratorApproved": "Y", 
-  "Title": "Landscape with Lighthouse", 
-  "DateAcquired": "1950-01-06", 
+  "CreditLine": "Purchase", 
   "Date": "1922", 
   "ArtistID": 5242, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "17.1950", 
-  "ArtistBio": "German, 1884\u20131976", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(German, 1884\u20131976)", 
+  "DateAcquired": "1950-01-06", 
+  "\ufeffTitle": "Landscape with Lighthouse (Landschaft mit Leuchtturm)", 
   "ObjectID": "33218"
 }

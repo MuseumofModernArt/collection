@@ -5,8 +5,7 @@
   "Artist": "Wynn Bullock", 
   "URL": "http://www.moma.org/collection/works/45250", 
   "CuratorApproved": "Y", 
-  "Title": "The Mast, Cannery Row", 
-  "DateAcquired": "1977-03-10", 
+  "CreditLine": "Gift of Andrea and William Turnage", 
   "Date": "1968", 
   "ArtistID": 861, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "60.1977", 
-  "ArtistBio": "American, 1902\u20131975", 
-  "CreditLine": "Gift of Andrea and William Turnage", 
+  "ArtistBio": "(American, 1902\u20131975)", 
+  "DateAcquired": "1977-03-10", 
+  "\ufeffTitle": "The Mast, Cannery Row", 
   "ObjectID": "45250"
 }

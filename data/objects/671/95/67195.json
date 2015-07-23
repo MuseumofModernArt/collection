@@ -1,12 +1,11 @@
 {
   "Medium": "Etching", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "Joan Mir\u00f3", 
   "URL": "http://www.moma.org/collection/works/67195", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled from The Prints of Joan Mir\u00f3", 
-  "DateAcquired": "1947-12-19", 
+  "CreditLine": "Henry Church Fund", 
   "Date": "1947", 
   "ArtistID": 4016, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "338.1947.1", 
-  "ArtistBio": "Spanish, 1893\u20131983", 
-  "CreditLine": "Henry Church Fund", 
+  "ArtistBio": "(Spanish, 1893\u20131983)", 
+  "DateAcquired": "1947-12-19", 
+  "\ufeffTitle": "Untitled from The Prints of Joan Mir\u00f3", 
   "ObjectID": "67195"
 }

@@ -5,8 +5,7 @@
   "Artist": "Hector Guimard", 
   "URL": "http://www.moma.org/collection/works/2743", 
   "CuratorApproved": "Y", 
-  "Title": "Letter Opener", 
-  "DateAcquired": "1950-06-08", 
+  "CreditLine": "Gift of Madame Hector Guimard", 
   "Date": "c. 1907", 
   "ArtistID": 2407, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "218.1950", 
-  "ArtistBio": "French, 1867\u20131942", 
-  "CreditLine": "Gift of Madame Hector Guimard", 
+  "ArtistBio": "(French, 1867\u20131942)", 
+  "DateAcquired": "1950-06-08", 
+  "\ufeffTitle": "Letter Opener", 
   "ObjectID": "2743"
 }

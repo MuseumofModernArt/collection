@@ -5,8 +5,7 @@
   "Artist": "Mel Bochner", 
   "URL": "http://www.moma.org/collection/works/37303", 
   "CuratorApproved": "Y", 
-  "Title": "Via Vanvitelli", 
-  "DateAcquired": "1990-10-25", 
+  "CreditLine": "Gift of Lois de Menil", 
   "Date": "1987", 
   "ArtistID": 625, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "543.1990", 
-  "ArtistBio": "American, born 1940", 
-  "CreditLine": "Gift of Lois de Menil", 
+  "ArtistBio": "(American, born 1940)", 
+  "DateAcquired": "1990-10-25", 
+  "\ufeffTitle": "Via Vanvitelli", 
   "ObjectID": "37303"
 }

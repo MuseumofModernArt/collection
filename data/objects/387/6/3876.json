@@ -5,8 +5,7 @@
   "Artist": "Giuseppe de Goetzen", 
   "URL": "http://www.moma.org/collection/works/3876", 
   "CuratorApproved": "Y", 
-  "Title": "Elchim Electric Vacuum Cleaner Brush", 
-  "DateAcquired": "1956-10-25", 
+  "CreditLine": "Gift of Philip Johnson", 
   "Date": "1953", 
   "ArtistID": 2205, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "460.1956", 
-  "ArtistBio": "Italian, born 1921", 
-  "CreditLine": "Gift of Philip Johnson", 
+  "ArtistBio": "(Italian, born 1921)", 
+  "DateAcquired": "1956-10-25", 
+  "\ufeffTitle": "\"Elchim\" Electric Vacuum Cleaner Brush", 
   "ObjectID": "3876"
 }

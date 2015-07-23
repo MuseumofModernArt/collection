@@ -5,8 +5,7 @@
   "Artist": "Claudio Bravo", 
   "URL": "http://www.moma.org/collection/works/38562", 
   "CuratorApproved": "Y", 
-  "Title": "White Package", 
-  "DateAcquired": "1968-10-10", 
+  "CreditLine": "Inter-American Fund", 
   "Date": "1967", 
   "ArtistID": 753, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "1313.1968", 
-  "ArtistBio": "Chilean, 1936\u20132011", 
-  "CreditLine": "Inter-American Fund", 
+  "ArtistBio": "(Chilean, 1936\u20132011)", 
+  "DateAcquired": "1968-10-10", 
+  "\ufeffTitle": "White Package", 
   "ObjectID": "38562"
 }

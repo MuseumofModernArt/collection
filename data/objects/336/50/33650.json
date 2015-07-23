@@ -5,8 +5,7 @@
   "Artist": "Joseph Glasco", 
   "URL": "http://www.moma.org/collection/works/33650", 
   "CuratorApproved": "Y", 
-  "Title": "Big Sitting Cat", 
-  "DateAcquired": "1950-01-27", 
+  "CreditLine": "Katharine Cornell Fund", 
   "Date": "1949", 
   "ArtistID": 2187, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "74.1950", 
-  "ArtistBio": "American, 1925\u20131996", 
-  "CreditLine": "Katharine Cornell Fund", 
+  "ArtistBio": "(American, 1925\u20131996)", 
+  "DateAcquired": "1950-01-27", 
+  "\ufeffTitle": "Big Sitting Cat", 
   "ObjectID": "33650"
 }

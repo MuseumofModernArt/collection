@@ -5,8 +5,7 @@
   "Artist": "Gerrit Rietveld", 
   "URL": "http://www.moma.org/collection/works/4044", 
   "CuratorApproved": "Y", 
-  "Title": "Red Blue Chair", 
-  "DateAcquired": "1953-11-04", 
+  "CreditLine": "Gift of Philip Johnson", 
   "Date": "c. 1923", 
   "ArtistID": 4922, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "487.1953", 
-  "ArtistBio": "Dutch, 1888\u20131964", 
-  "CreditLine": "Gift of Philip Johnson", 
+  "ArtistBio": "(Dutch, 1888\u20131964)", 
+  "DateAcquired": "1953-11-04", 
+  "\ufeffTitle": "Red Blue Chair", 
   "ObjectID": "4044"
 }

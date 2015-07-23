@@ -1,12 +1,11 @@
 {
   "Medium": "Watercolor on paper", 
-  "Dimensions": "(.a): 10 5/8 x 14 1/2\" (27 x 36.8 cm)  (.b): 14 1/2 x 10 5/8\" (36.8 x 27 cm)  ", 
+  "Dimensions": "(.a): 10 5/8 x 14 1/2\" (27 x 36.8 cm)\r\n(.b): 14 1/2 x 10 5/8\" (36.8 x 27 cm)\r\n", 
   "Classification": "Drawing", 
   "Artist": "Pablo Picasso", 
   "URL": "http://www.moma.org/collection/works/33008", 
   "CuratorApproved": "Y", 
-  "Title": "Brooding Woman (recto)   Three Children (verso)", 
-  "DateAcquired": "1956-01-23", 
+  "CreditLine": "Gift of Mr. and Mrs. Werner E. Josten", 
   "Date": "(1904)", 
   "ArtistID": 4609, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "4.1956.a-b", 
-  "ArtistBio": "Spanish, 1881\u20131973", 
-  "CreditLine": "Gift of Mr. and Mrs. Werner E. Josten", 
+  "ArtistBio": "(Spanish, 1881\u20131973)", 
+  "DateAcquired": "1956-01-23", 
+  "\ufeffTitle": "Brooding Woman (recto) , Three Children (verso)", 
   "ObjectID": "33008"
 }

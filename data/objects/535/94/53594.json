@@ -5,8 +5,7 @@
   "Artist": "Frederick H. Evans", 
   "URL": "http://www.moma.org/collection/works/53594", 
   "CuratorApproved": "Y", 
-  "Title": "Kelmscott Manor: Attics", 
-  "DateAcquired": "1966-10-11", 
+  "CreditLine": "Purchase", 
   "Date": "1896", 
   "ArtistID": 1774, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "455.1966", 
-  "ArtistBio": "British, 1853\u20131943", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(British, 1853\u20131943)", 
+  "DateAcquired": "1966-10-11", 
+  "\ufeffTitle": "Kelmscott Manor: Attics", 
   "ObjectID": "53594"
 }

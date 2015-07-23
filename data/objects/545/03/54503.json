@@ -5,8 +5,7 @@
   "Artist": "Berenice Abbott", 
   "URL": "http://www.moma.org/collection/works/54503", 
   "CuratorApproved": "Y", 
-  "Title": "Grace M. Mayer", 
-  "DateAcquired": "1992-12-03", 
+  "CreditLine": "Gift of Anne Tucker in memory of Grace M. Mayer", 
   "Date": "c. 1936", 
   "ArtistID": 41, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "506.1992", 
-  "ArtistBio": "American, 1898\u20131991", 
-  "CreditLine": "Gift of Anne Tucker in memory of Grace M. Mayer", 
+  "ArtistBio": "(American, 1898\u20131991)", 
+  "DateAcquired": "1992-12-03", 
+  "\ufeffTitle": "Grace M. Mayer", 
   "ObjectID": "54503"
 }

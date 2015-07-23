@@ -5,8 +5,7 @@
   "Artist": "Jean Dubuffet", 
   "URL": "http://www.moma.org/collection/works/5155", 
   "CuratorApproved": "Y", 
-  "Title": "J. Dubutfet, Ustensiles, Demeures Escaliers, Galerie Jeanne Bucher, Juin, Juillet, 1967", 
-  "DateAcquired": "1968-03-07", 
+  "CreditLine": "Gift of Galerie Jeanne Bucher", 
   "Date": "1967", 
   "ArtistID": 1633, 
   "Keywords": [
@@ -24,7 +23,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "127.1968", 
-  "ArtistBio": "French, 1901\u20131985", 
-  "CreditLine": "Gift of Galerie Jeanne Bucher", 
+  "ArtistBio": "(French, 1901\u20131985)", 
+  "DateAcquired": "1968-03-07", 
+  "\ufeffTitle": "J. Dubutfet, Ustensiles, Demeures Escaliers, Galerie Jeanne Bucher, Juin, Juillet, 1967", 
   "ObjectID": "5155"
 }

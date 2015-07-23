@@ -1,12 +1,11 @@
 {
   "Medium": "Gelatin silver print", 
-  "Dimensions": "6 13/16 x 9 3/4\" (17.3 x 24.7 cm)  ", 
+  "Dimensions": "6 13/16 x 9 3/4\" (17.3 x 24.7 cm)\r\n", 
   "Classification": "Photograph", 
   "Artist": "Dave Heath", 
   "URL": "http://www.moma.org/collection/works/47063", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1963-02-13", 
+  "CreditLine": "Purchase", 
   "Date": "1962", 
   "ArtistID": 2564, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "161.1963", 
-  "ArtistBio": "American, born 1931", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, born 1931)", 
+  "DateAcquired": "1963-02-13", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "47063"
 }

@@ -1,12 +1,11 @@
 {
   "Medium": "Unbound illustrated book with fourteen lithographs", 
-  "Dimensions": "page  30 1/4 x 22 7/16\" (76 x 57 cm)  Prints:  various dimensions.", 
+  "Dimensions": "page  30 1/4 x 22 7/16\" (76 x 57 cm)\r\nPrints:  various dimensions.", 
   "Classification": "Illustrated Book", 
   "Artist": "Antonio Frasconi", 
   "URL": "http://www.moma.org/collection/works/26511", 
   "CuratorApproved": "Y", 
-  "Title": "Oda a Lorca", 
-  "DateAcquired": "1969-12-04", 
+  "CreditLine": "Gift of Kleiner, Bell & Co.", 
   "Date": "(1962)", 
   "ArtistID": 1975, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "852.1967.1-14", 
-  "ArtistBio": "American, born Argentina. 1919\u20132013", 
-  "CreditLine": "Gift of Kleiner, Bell & Co.", 
+  "ArtistBio": "(American, born Argentina. 1919\u20132013)", 
+  "DateAcquired": "1969-12-04", 
+  "\ufeffTitle": "Oda a Lorca", 
   "ObjectID": "26511"
 }

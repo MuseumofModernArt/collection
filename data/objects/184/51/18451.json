@@ -5,8 +5,7 @@
   "Artist": "Ernst Barlach", 
   "URL": "http://www.moma.org/collection/works/18451", 
   "CuratorApproved": "Y", 
-  "Title": "Cover from Der Kopf (The Head)", 
-  "DateAcquired": "1949-09-29", 
+  "CreditLine": "Transferred from the Museum Library", 
   "Date": "1919", 
   "ArtistID": 335, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "562.1949.11", 
-  "ArtistBio": "German, 1870\u20131938", 
-  "CreditLine": "Transferred from the Museum Library", 
+  "ArtistBio": "(German, 1870\u20131938)", 
+  "DateAcquired": "1949-09-29", 
+  "\ufeffTitle": "Cover from Der Kopf (The Head)", 
   "ObjectID": "18451"
 }

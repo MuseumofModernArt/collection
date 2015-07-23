@@ -5,8 +5,7 @@
   "Artist": "Hector Guimard", 
   "URL": "http://www.moma.org/collection/works/2710", 
   "CuratorApproved": "Y", 
-  "Title": "Parasol Handle", 
-  "DateAcquired": "1978-02-27", 
+  "CreditLine": "Gift of Alfred H. Barr, Jr.", 
   "Date": "1909", 
   "ArtistID": 2407, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "214.1978", 
-  "ArtistBio": "French, 1867\u20131942", 
-  "CreditLine": "Gift of Alfred H. Barr, Jr.", 
+  "ArtistBio": "(French, 1867\u20131942)", 
+  "DateAcquired": "1978-02-27", 
+  "\ufeffTitle": "Parasol Handle", 
   "ObjectID": "2710"
 }

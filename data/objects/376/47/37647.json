@@ -5,8 +5,7 @@
   "Artist": "Henry Pearson", 
   "URL": "http://www.moma.org/collection/works/37647", 
   "CuratorApproved": "Y", 
-  "Title": "Sotoba-Komachi", 
-  "DateAcquired": "1963-12-10", 
+  "CreditLine": "Gift of John S. Newberry", 
   "Date": "1960", 
   "ArtistID": 4530, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "627.1963", 
-  "ArtistBio": "American,1914\u20132006", 
-  "CreditLine": "Gift of John S. Newberry", 
+  "ArtistBio": "(American,1914\u20132006)", 
+  "DateAcquired": "1963-12-10", 
+  "\ufeffTitle": "Sotoba-Komachi", 
   "ObjectID": "37647"
 }

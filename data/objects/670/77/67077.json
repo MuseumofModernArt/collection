@@ -1,12 +1,11 @@
 {
   "Medium": "One from a series of ten lithographs", 
-  "Dimensions": "irreg composition  28 1/4 x 23 1/16\" (71.7 x 58.6 cm)  sheet  37 15/16 x 31\" (96.3 x 78.7 cm)", 
+  "Dimensions": "irreg composition  28 1/4 x 23 1/16\" (71.7 x 58.6 cm)\r\nsheet  37 15/16 x 31\" (96.3 x 78.7 cm)", 
   "Classification": "Print", 
   "Artist": "Jasper Johns", 
   "URL": "http://www.moma.org/collection/works/67077", 
   "CuratorApproved": "Y", 
-  "Title": "Figure 0 from Color Numeral Series", 
-  "DateAcquired": "1971-03-30", 
+  "CreditLine": "Gift of Gemini G.E.L.", 
   "Date": "1969", 
   "ArtistID": 2923, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "331.1971", 
-  "ArtistBio": "American, born 1930", 
-  "CreditLine": "Gift of Gemini G.E.L.", 
+  "ArtistBio": "(American, born 1930)", 
+  "DateAcquired": "1971-03-30", 
+  "\ufeffTitle": "Figure 0 from Color Numeral Series", 
   "ObjectID": "67077"
 }

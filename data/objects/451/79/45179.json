@@ -5,8 +5,7 @@
   "Artist": "Southworth and Hawes", 
   "URL": "http://www.moma.org/collection/works/45179", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1974-01-29", 
+  "CreditLine": "Gift of Celeste Bartos", 
   "Date": "c. 1850", 
   "ArtistID": 5541, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "58.1974", 
-  "ArtistBio": "American", 
-  "CreditLine": "Gift of Celeste Bartos", 
+  "ArtistBio": "(American)", 
+  "DateAcquired": "1974-01-29", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "45179"
 }

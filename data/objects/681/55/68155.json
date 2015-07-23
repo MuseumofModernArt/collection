@@ -5,8 +5,7 @@
   "Artist": "Robert Rauschenberg", 
   "URL": "http://www.moma.org/collection/works/68155", 
   "CuratorApproved": "Y", 
-  "Title": "Stunt Man I", 
-  "DateAcquired": "1962-12-11", 
+  "CreditLine": "Gift of the Celeste and Armand Bartos Foundation", 
   "Date": "1962", 
   "ArtistID": 4823, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "382.1962", 
-  "ArtistBio": "American, 1925\u20132008", 
-  "CreditLine": "Gift of the Celeste and Armand Bartos Foundation", 
+  "ArtistBio": "(American, 1925\u20132008)", 
+  "DateAcquired": "1962-12-11", 
+  "\ufeffTitle": "Stunt Man I", 
   "ObjectID": "68155"
 }

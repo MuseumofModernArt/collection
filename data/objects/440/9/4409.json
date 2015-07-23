@@ -5,8 +5,7 @@
   "Artist": "Richard Carlson", 
   "URL": "http://www.moma.org/collection/works/4409", 
   "CuratorApproved": "Y", 
-  "Title": "BYO Insulated Wine Chiller", 
-  "DateAcquired": "1983-11-30", 
+  "CreditLine": "Gift of the manufacturer", 
   "Date": "1978", 
   "ArtistID": 976, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "725.1983.a-c", 
-  "ArtistBio": "Australian, born 1941", 
-  "CreditLine": "Gift of the manufacturer", 
+  "ArtistBio": "(Australian, born 1941)", 
+  "DateAcquired": "1983-11-30", 
+  "\ufeffTitle": "BYO Insulated Wine Chiller", 
   "ObjectID": "4409"
 }

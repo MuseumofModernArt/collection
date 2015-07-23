@@ -5,8 +5,7 @@
   "Artist": "Swatch AG, Switzerland", 
   "URL": "http://www.moma.org/collection/works/3248", 
   "CuratorApproved": "Y", 
-  "Title": "GK 100 Jellyfish Watch", 
-  "DateAcquired": "1999-06-30", 
+  "CreditLine": "Gift of the manufacturer", 
   "Date": "1983", 
   "Keywords": [
     "online art collection", 
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "305.1999", 
-  "ArtistBio": "Swiss, established 1983", 
-  "CreditLine": "Gift of the manufacturer", 
+  "ArtistBio": "(Swiss, established 1983)", 
+  "DateAcquired": "1999-06-30", 
+  "\ufeffTitle": "GK 100 Jellyfish Watch", 
   "ObjectID": "3248"
 }

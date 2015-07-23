@@ -5,8 +5,7 @@
   "Artist": "Marcel Duchamp", 
   "URL": "http://www.moma.org/collection/works/69479", 
   "CuratorApproved": "Y", 
-  "Title": "Cover from S.M.S. No. 2, April 1968", 
-  "DateAcquired": "1977-11-10", 
+  "CreditLine": "Gift of Carol O. Selle", 
   "Date": "1968", 
   "ArtistID": 1634, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "460.1977.2a", 
-  "ArtistBio": "American, born France. 1887\u20131968", 
-  "CreditLine": "Gift of Carol O. Selle", 
+  "ArtistBio": "(American, born France. 1887\u20131968)", 
+  "DateAcquired": "1977-11-10", 
+  "\ufeffTitle": "Cover from S.M.S. No. 2", 
   "ObjectID": "69479"
 }

@@ -5,8 +5,7 @@
   "Artist": "Peter Blume", 
   "URL": "http://www.moma.org/collection/works/33417", 
   "CuratorApproved": "Y", 
-  "Title": "Obelisk", 
-  "DateAcquired": "1935-06-13", 
+  "CreditLine": "Gift of Abby Aldrich Rockefeller", 
   "Date": "1932", 
   "ArtistID": 617, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "34.1935", 
-  "ArtistBio": "American, 1906\u20131992", 
-  "CreditLine": "Gift of Abby Aldrich Rockefeller", 
+  "ArtistBio": "(American, 1906\u20131992)", 
+  "DateAcquired": "1935-06-13", 
+  "\ufeffTitle": "Obelisk", 
   "ObjectID": "33417"
 }

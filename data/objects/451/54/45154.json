@@ -5,8 +5,7 @@
   "Artist": "John Coplans", 
   "URL": "http://www.moma.org/collection/works/45154", 
   "CuratorApproved": "Y", 
-  "Title": "Brooke and Irving", 
-  "DateAcquired": "1982-03-11", 
+  "CreditLine": "Gift of Irving Blum", 
   "Date": "1981", 
   "ArtistID": 1237, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "57.1982", 
-  "ArtistBio": "British, 1920\u20132003", 
-  "CreditLine": "Gift of Irving Blum", 
+  "ArtistBio": "(British, 1920\u20132003)", 
+  "DateAcquired": "1982-03-11", 
+  "\ufeffTitle": "Brooke and Irving", 
   "ObjectID": "45154"
 }

@@ -5,8 +5,7 @@
   "Artist": "Alvar Aalto", 
   "URL": "http://www.moma.org/collection/works/4087", 
   "CuratorApproved": "Y", 
-  "Title": "Stool (no. V63)", 
-  "DateAcquired": "1981-12-10", 
+  "CreditLine": "Marshall Cogan Purchase Fund", 
   "Date": "1946-47", 
   "ArtistID": 34, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "558.1981", 
-  "ArtistBio": "Finnish, 1898\u20131976", 
-  "CreditLine": "Marshall Cogan Purchase Fund", 
+  "ArtistBio": "(Finnish, 1898\u20131976)", 
+  "DateAcquired": "1981-12-10", 
+  "\ufeffTitle": "Stool (no. V63)", 
   "ObjectID": "4087"
 }

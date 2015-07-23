@@ -5,8 +5,7 @@
   "Artist": "William Eggleston", 
   "URL": "http://www.moma.org/collection/works/52559", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1992-10-15", 
+  "CreditLine": "Anonymous gift in memory of Berenice Abbott", 
   "Date": "1983-86", 
   "ArtistID": 1690, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "397.1992", 
-  "ArtistBio": "American, born 1939", 
-  "CreditLine": "Anonymous gift in memory of Berenice Abbott", 
+  "ArtistBio": "(American, born 1939)", 
+  "DateAcquired": "1992-10-15", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "52559"
 }

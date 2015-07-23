@@ -5,8 +5,7 @@
   "Artist": "Lisette Model", 
   "URL": "http://www.moma.org/collection/works/57231", 
   "CuratorApproved": "Y", 
-  "Title": "Sleeping on Montparnasse", 
-  "DateAcquired": "1965-11-09", 
+  "CreditLine": "Gift of the photographer", 
   "Date": "1938", 
   "ArtistID": 4036, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "877.1965", 
-  "ArtistBio": "American, born Austria. 1901\u20131983", 
-  "CreditLine": "Gift of the photographer", 
+  "ArtistBio": "(American, born Austria. 1901\u20131983)", 
+  "DateAcquired": "1965-11-09", 
+  "\ufeffTitle": "Sleeping on Montparnasse", 
   "ObjectID": "57231"
 }

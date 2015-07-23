@@ -5,8 +5,7 @@
   "Artist": "Jim Dine", 
   "URL": "http://www.moma.org/collection/works/62326", 
   "CuratorApproved": "Y", 
-  "Title": "Rimbaud", 
-  "DateAcquired": "1975-05-09", 
+  "CreditLine": "Purchase", 
   "Date": "1973", 
   "ArtistID": 1547, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "126.1975", 
-  "ArtistBio": "American, born 1935", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, born 1935)", 
+  "DateAcquired": "1975-05-09", 
+  "\ufeffTitle": "Rimbaud", 
   "ObjectID": "62326"
 }

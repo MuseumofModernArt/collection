@@ -5,8 +5,7 @@
   "Artist": "Max Klinger", 
   "URL": "http://www.moma.org/collection/works/64062", 
   "CuratorApproved": "Y", 
-  "Title": "Place (plate I) from A Glove, Opus VI", 
-  "DateAcquired": "1950-06-08", 
+  "CreditLine": "Purchase", 
   "Date": "1881 (print executed 1880)", 
   "ArtistID": 3149, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "190.1950.1", 
-  "ArtistBio": "German, 1857\u20131920", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(German, 1857\u20131920)", 
+  "DateAcquired": "1950-06-08", 
+  "\ufeffTitle": "Place (Ort) (plate I) from A Glove, Opus VI (Ein Handschuh, Opus VI)", 
   "ObjectID": "64062"
 }

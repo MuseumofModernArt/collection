@@ -5,8 +5,7 @@
   "Artist": "Julia Margaret Cameron", 
   "URL": "http://www.moma.org/collection/works/54960", 
   "CuratorApproved": "Y", 
-  "Title": "Portrait of H. T. Prinsep", 
-  "DateAcquired": "1961-01-10", 
+  "CreditLine": "Gift of Edward Steichen", 
   "Date": "1866", 
   "ArtistID": 932, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "546.1960", 
-  "ArtistBio": "British, 1815\u20131879", 
-  "CreditLine": "Gift of Edward Steichen", 
+  "ArtistBio": "(British, 1815\u20131879)", 
+  "DateAcquired": "1961-01-10", 
+  "\ufeffTitle": "Portrait of H. T. Prinsep", 
   "ObjectID": "54960"
 }

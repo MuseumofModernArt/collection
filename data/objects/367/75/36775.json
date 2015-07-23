@@ -5,8 +5,7 @@
   "Artist": "Gaston Chaissac", 
   "URL": "http://www.moma.org/collection/works/36775", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1963-10-08", 
+  "CreditLine": "Gift of the Cordier and Ekstrom Gallery, New York", 
   "Date": "1960", 
   "ArtistID": 1057, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "411.1963", 
-  "ArtistBio": "French, 1910\u20131964", 
-  "CreditLine": "Gift of the Cordier and Ekstrom Gallery, New York", 
+  "ArtistBio": "(French, 1910\u20131964)", 
+  "DateAcquired": "1963-10-08", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "36775"
 }

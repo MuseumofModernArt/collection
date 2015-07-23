@@ -5,8 +5,7 @@
   "Artist": "Tadanori Yokoo", 
   "URL": "http://www.moma.org/collection/works/6130", 
   "CuratorApproved": "Y", 
-  "Title": "Takeo", 
-  "DateAcquired": "1998-04-22", 
+  "CreditLine": "Gift of the designer", 
   "Date": "1997", 
   "ArtistID": 6502, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "295.1998", 
-  "ArtistBio": "Japanese, born 1936", 
-  "CreditLine": "Gift of the designer", 
+  "ArtistBio": "(Japanese, born 1936)", 
+  "DateAcquired": "1998-04-22", 
+  "\ufeffTitle": "Takeo", 
   "ObjectID": "6130"
 }

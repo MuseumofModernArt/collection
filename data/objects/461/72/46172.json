@@ -5,8 +5,7 @@
   "Artist": "Adolf De Meyer", 
   "URL": "http://www.moma.org/collection/works/46172", 
   "CuratorApproved": "Y", 
-  "Title": "Ruth St. Denis", 
-  "DateAcquired": "1999-03-11", 
+  "CreditLine": "Gift of Paul F. Walter", 
   "Date": "1918", 
   "ArtistID": 1434, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "94.1999", 
-  "ArtistBio": "German, 1868\u20131946", 
-  "CreditLine": "Gift of Paul F. Walter", 
+  "ArtistBio": "(German, 1868\u20131946)", 
+  "DateAcquired": "1999-03-11", 
+  "\ufeffTitle": "Ruth St. Denis", 
   "ObjectID": "46172"
 }

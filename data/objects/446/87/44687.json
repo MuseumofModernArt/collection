@@ -5,8 +5,7 @@
   "Artist": "Nadar (Gaspard-F\u00e9lix Tournachon)", 
   "URL": "http://www.moma.org/collection/works/44687", 
   "CuratorApproved": "Y", 
-  "Title": "Rossini", 
-  "DateAcquired": "1994-01-13", 
+  "CreditLine": "Gift of Paul F. Walter", 
   "Date": "1856", 
   "ArtistID": 4196, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "45.1994", 
-  "ArtistBio": "French, 1820\u20131910", 
-  "CreditLine": "Gift of Paul F. Walter", 
+  "ArtistBio": "(French, 1820\u20131910)", 
+  "DateAcquired": "1994-01-13", 
+  "\ufeffTitle": "Rossini", 
   "ObjectID": "44687"
 }

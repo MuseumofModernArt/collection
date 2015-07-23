@@ -5,8 +5,7 @@
   "Artist": "\u00c9douard Boubat", 
   "URL": "http://www.moma.org/collection/works/52502", 
   "CuratorApproved": "Y", 
-  "Title": "Lella, Brittany", 
-  "DateAcquired": "1974-10-01", 
+  "CreditLine": "Gift of the photographer", 
   "Date": "c. 1947", 
   "ArtistID": 698, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "395.1974", 
-  "ArtistBio": "French, 1923\u20131999", 
-  "CreditLine": "Gift of the photographer", 
+  "ArtistBio": "(French, 1923\u20131999)", 
+  "DateAcquired": "1974-10-01", 
+  "\ufeffTitle": "Lella, Brittany", 
   "ObjectID": "52502"
 }

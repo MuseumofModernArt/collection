@@ -5,8 +5,7 @@
   "Artist": "Johann Hahn", 
   "URL": "http://www.moma.org/collection/works/48316", 
   "CuratorApproved": "Y", 
-  "Title": "Laufer Gate, Nuremberg", 
-  "DateAcquired": "NULL", 
+  "CreditLine": "Gift of Celeste Bartos", 
   "Date": "1871", 
   "ArtistID": 2453, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "199.1975.18", 
-  "ArtistBio": "Austrian, 1840\u20131900", 
-  "CreditLine": "Gift of Celeste Bartos", 
+  "ArtistBio": "(Austrian, 1840\u20131900)", 
+  "DateAcquired": "", 
+  "\ufeffTitle": "Laufer Gate, Nuremberg", 
   "ObjectID": "48316"
 }

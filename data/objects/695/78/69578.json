@@ -1,12 +1,11 @@
 {
   "Medium": "Etching, collagraph and straw collage", 
-  "Dimensions": "Composition: 30 1/8 x 25\" (76.5 x 63.5 cm)  Sheet: 35 7/16 x 25\" (90 x 63.5 cm)", 
+  "Dimensions": "Composition: 30 1/8 x 25\" (76.5 x 63.5 cm)\r\nSheet: 35 7/16 x 25\" (90 x 63.5 cm)", 
   "Classification": "Print", 
   "Artist": "Antoni T\u00e0pies", 
   "URL": "http://www.moma.org/collection/works/69578", 
   "CuratorApproved": "Y", 
-  "Title": "Horsehair (Le crin)", 
-  "DateAcquired": "1990-10-23", 
+  "CreditLine": "Anonymous gift", 
   "Date": "1971", 
   "ArtistID": 5809, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "462.1990", 
-  "ArtistBio": "Spanish, 1923\u20132012", 
-  "CreditLine": "Anonymous gift", 
+  "ArtistBio": "(Spanish, 1923\u20132012)", 
+  "DateAcquired": "1990-10-23", 
+  "\ufeffTitle": "Horsehair (Le crin)", 
   "ObjectID": "69578"
 }

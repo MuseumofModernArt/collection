@@ -5,8 +5,7 @@
   "Artist": "John Morris", 
   "URL": "http://www.moma.org/collection/works/38709", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "2000-12-12", 
+  "CreditLine": "Purchased with funds provided by Sarah-Ann and Werner H. Kramarsky", 
   "Date": "(1992-2000)", 
   "ArtistID": 8320, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "1612.2000", 
-  "ArtistBio": "American, born 1965", 
-  "CreditLine": "Purchased with funds provided by Sarah-Ann and Werner H. Kramarsky", 
+  "ArtistBio": "(American, born 1965)", 
+  "DateAcquired": "2000-12-12", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "38709"
 }

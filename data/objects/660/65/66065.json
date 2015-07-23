@@ -1,12 +1,11 @@
 {
-  "Medium": "Screenprint, with hand additions  ", 
+  "Medium": "Screenprint, with hand additions\r\n", 
   "Dimensions": "composition (irreg.): 8 3/4 x 6 15/16\" (22.2 x 17.6 cm); sheet: 11 13/16 x 9 15/16\" (30 x 25.2 cm)", 
   "Classification": "Print", 
   "Artist": "Ben Shahn", 
   "URL": "http://www.moma.org/collection/works/66065", 
   "CuratorApproved": "Y", 
-  "Title": "Scientist", 
-  "DateAcquired": "1967-04-11", 
+  "CreditLine": "Junior Council Fund", 
   "Date": "(1957)", 
   "ArtistID": 5366, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "287.1967", 
-  "ArtistBio": "American, born Lithuania. 1898\u20131969", 
-  "CreditLine": "Junior Council Fund", 
+  "ArtistBio": "(American, born Lithuania. 1898\u20131969)", 
+  "DateAcquired": "1967-04-11", 
+  "\ufeffTitle": "Scientist", 
   "ObjectID": "66065"
 }

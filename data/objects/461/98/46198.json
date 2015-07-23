@@ -5,8 +5,7 @@
   "Artist": "Weegee (Arthur Fellig)", 
   "URL": "http://www.moma.org/collection/works/46198", 
   "CuratorApproved": "Y", 
-  "Title": "Tenement Fire", 
-  "DateAcquired": "1943-05-12", 
+  "CreditLine": "Purchase", 
   "Date": "1939", 
   "ArtistID": 1842, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "96.1943", 
-  "ArtistBio": "American, born Austria. 1899\u20131968", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, born Austria. 1899\u20131968)", 
+  "DateAcquired": "1943-05-12", 
+  "\ufeffTitle": "Tenement Fire", 
   "ObjectID": "46198"
 }

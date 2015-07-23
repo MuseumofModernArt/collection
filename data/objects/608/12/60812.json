@@ -5,8 +5,7 @@
   "Artist": "Sante Graziani", 
   "URL": "http://www.moma.org/collection/works/60812", 
   "CuratorApproved": "Y", 
-  "Title": "The Family from the portfolio Homage to Ingres", 
-  "DateAcquired": "1968-02-05", 
+  "CreditLine": "John B. Turner Fund", 
   "Date": "(1966)", 
   "ArtistID": 2316, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "44.1968", 
-  "ArtistBio": "American, born 1920", 
-  "CreditLine": "John B. Turner Fund", 
+  "ArtistBio": "(American, born 1920)", 
+  "DateAcquired": "1968-02-05", 
+  "\ufeffTitle": "The Family from the portfolio Homage to Ingres", 
   "ObjectID": "60812"
 }

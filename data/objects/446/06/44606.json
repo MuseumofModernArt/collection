@@ -5,8 +5,7 @@
   "Artist": "Helen Levitt", 
   "URL": "http://www.moma.org/collection/works/44606", 
   "CuratorApproved": "Y", 
-  "Title": "New York", 
-  "DateAcquired": "1992-01-09", 
+  "CreditLine": "Acquired through the generosity of Harriette and Noel Levine", 
   "Date": "1971", 
   "ArtistID": 3520, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "42.1992", 
-  "ArtistBio": "American, 1913\u20132009", 
-  "CreditLine": "Acquired through the generosity of Harriette and Noel Levine", 
+  "ArtistBio": "(American, 1913\u20132009)", 
+  "DateAcquired": "1992-01-09", 
+  "\ufeffTitle": "New York", 
   "ObjectID": "44606"
 }

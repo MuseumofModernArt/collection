@@ -1,12 +1,11 @@
 {
   "Medium": "Lithograph", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "Roland van den Berghe", 
   "URL": "http://www.moma.org/collection/works/59589", 
   "CuratorApproved": "Y", 
-  "Title": "For Private Slovik - For John Coltrane", 
-  "DateAcquired": "1976-01-08", 
+  "CreditLine": "Purchase", 
   "Date": "1974", 
   "ArtistID": 6069, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "2.1976", 
-  "ArtistBio": "Dutch, born 1943", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(Dutch, born 1943)", 
+  "DateAcquired": "1976-01-08", 
+  "\ufeffTitle": "For Private Slovik - For John Coltrane", 
   "ObjectID": "59589"
 }

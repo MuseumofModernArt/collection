@@ -5,8 +5,7 @@
   "Artist": "Ludwig Littmann", 
   "URL": "http://www.moma.org/collection/works/2803", 
   "CuratorApproved": "Y", 
-  "Title": "Visitronic Digital Alarm Clock", 
-  "DateAcquired": "1981-04-30", 
+  "CreditLine": "Gift of the manufacturer", 
   "Date": "1979", 
   "ArtistID": 3573, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "223.1981", 
-  "ArtistBio": "German, born 1946", 
-  "CreditLine": "Gift of the manufacturer", 
+  "ArtistBio": "(German, born 1946)", 
+  "DateAcquired": "1981-04-30", 
+  "\ufeffTitle": "Visitronic Digital Alarm Clock", 
   "ObjectID": "2803"
 }

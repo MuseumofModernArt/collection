@@ -5,8 +5,7 @@
   "Artist": "Allan Gittler (Avraham Bar Rashi)", 
   "URL": "http://www.moma.org/collection/works/3207", 
   "CuratorApproved": "Y", 
-  "Title": "Electric Guitar", 
-  "DateAcquired": "1976-10-22", 
+  "CreditLine": "Purchase", 
   "Date": "1975", 
   "ArtistID": 2183, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "292.1976", 
-  "ArtistBio": "American, 1928\u20132002", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, 1928\u20132002)", 
+  "DateAcquired": "1976-10-22", 
+  "\ufeffTitle": "Electric Guitar", 
   "ObjectID": "3207"
 }

@@ -1,12 +1,11 @@
 {
   "Medium": "Woodcut", 
-  "Dimensions": "irreg composition  12 1/8 x 13 7/16\" (30.8 x 34.2 cm)  sheet  20 5/8 x 25 3/16\" (52.4 x 64 cm)", 
+  "Dimensions": "irreg composition  12 1/8 x 13 7/16\" (30.8 x 34.2 cm)\r\nsheet  20 5/8 x 25 3/16\" (52.4 x 64 cm)", 
   "Classification": "Print", 
   "Artist": "Donald Judd", 
   "URL": "http://www.moma.org/collection/works/62878", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled (no. 3)", 
-  "DateAcquired": "1979-05-01", 
+  "CreditLine": "Joanne M. Stern Fund", 
   "Date": "1961-78", 
   "ArtistID": 2948, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "142.1979", 
-  "ArtistBio": "American, 1928\u20131994", 
-  "CreditLine": "Joanne M. Stern Fund", 
+  "ArtistBio": "(American, 1928\u20131994)", 
+  "DateAcquired": "1979-05-01", 
+  "\ufeffTitle": "Untitled (no.3)", 
   "ObjectID": "62878"
 }

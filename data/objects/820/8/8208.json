@@ -5,8 +5,7 @@
   "Artist": "Koichi Sato", 
   "URL": "http://www.moma.org/collection/works/8208", 
   "CuratorApproved": "Y", 
-  "Title": "Conversation With Landscape", 
-  "DateAcquired": "1983-11-30", 
+  "CreditLine": "Gift of the designer", 
   "Date": "1982-83", 
   "ArtistID": 5173, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "820.1983", 
-  "ArtistBio": "Japanese, born 1944", 
-  "CreditLine": "Gift of the designer", 
+  "ArtistBio": "(Japanese, born 1944)", 
+  "DateAcquired": "1983-11-30", 
+  "\ufeffTitle": "Conversation With Landscape", 
   "ObjectID": "8208"
 }

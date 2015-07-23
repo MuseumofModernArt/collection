@@ -5,8 +5,7 @@
   "Artist": "Marino Marini", 
   "URL": "http://www.moma.org/collection/works/62242", 
   "CuratorApproved": "Y", 
-  "Title": "Horsemen", 
-  "DateAcquired": "1954-04-06", 
+  "CreditLine": "Larry Aldrich Fund", 
   "Date": "(1954)", 
   "ArtistID": 3772, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "123.1954", 
-  "ArtistBio": "Italian, 1901\u20131980", 
-  "CreditLine": "Larry Aldrich Fund", 
+  "ArtistBio": "(Italian, 1901\u20131980)", 
+  "DateAcquired": "1954-04-06", 
+  "\ufeffTitle": "Horsemen", 
   "ObjectID": "62242"
 }

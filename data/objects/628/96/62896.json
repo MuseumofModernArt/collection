@@ -5,8 +5,7 @@
   "Artist": "Henri Michaux", 
   "URL": "http://www.moma.org/collection/works/62896", 
   "CuratorApproved": "Y", 
-  "Title": "Plate for Meidosems", 
-  "DateAcquired": "1949-03-24", 
+  "CreditLine": "Purchase", 
   "Date": "1948", 
   "ArtistID": 3963, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "143.1949", 
-  "ArtistBio": "French, born Belgium. 1899\u20131984", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(French, born Belgium. 1899\u20131984)", 
+  "DateAcquired": "1949-03-24", 
+  "\ufeffTitle": "Plate for Meidosems", 
   "ObjectID": "62896"
 }

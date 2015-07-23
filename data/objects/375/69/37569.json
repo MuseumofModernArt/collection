@@ -5,8 +5,7 @@
   "Artist": "Marino Marini", 
   "URL": "http://www.moma.org/collection/works/37569", 
   "CuratorApproved": "Y", 
-  "Title": "Three Nudes", 
-  "DateAcquired": "1963-12-10", 
+  "CreditLine": "Gift of John S. Newberry", 
   "Date": "(1943)", 
   "ArtistID": 3772, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "608.1963", 
-  "ArtistBio": "Italian, 1901\u20131980", 
-  "CreditLine": "Gift of John S. Newberry", 
+  "ArtistBio": "(Italian, 1901\u20131980)", 
+  "DateAcquired": "1963-12-10", 
+  "\ufeffTitle": "Three Nudes", 
   "ObjectID": "37569"
 }

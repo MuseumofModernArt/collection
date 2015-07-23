@@ -5,8 +5,7 @@
   "Artist": "Georges Rouault", 
   "URL": "http://www.moma.org/collection/works/62396", 
   "CuratorApproved": "Y", 
-  "Title": "Bust of a Girl, in Profile to the Left", 
-  "DateAcquired": "1963-02-13", 
+  "CreditLine": "Gift of Mrs. Alfred Wolkenberg", 
   "Date": "1932", 
   "ArtistID": 5053, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "129.1963", 
-  "ArtistBio": "French, 1871\u20131958", 
-  "CreditLine": "Gift of Mrs. Alfred Wolkenberg", 
+  "ArtistBio": "(French, 1871\u20131958)", 
+  "DateAcquired": "1963-02-13", 
+  "\ufeffTitle": "Bust of a Girl, in Profile to the Left", 
   "ObjectID": "62396"
 }

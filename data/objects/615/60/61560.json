@@ -5,8 +5,7 @@
   "Artist": "Jonas J. Fendell", 
   "URL": "http://www.moma.org/collection/works/61560", 
   "CuratorApproved": "Y", 
-  "Title": "The Period", 
-  "DateAcquired": "1954-04-06", 
+  "CreditLine": "Given anonymously", 
   "Date": "1952", 
   "ArtistID": 1845, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "83.1954", 
-  "ArtistBio": "American, 1924\u20131994", 
-  "CreditLine": "Given anonymously", 
+  "ArtistBio": "(American, 1924\u20131994)", 
+  "DateAcquired": "1954-04-06", 
+  "\ufeffTitle": "The Period", 
   "ObjectID": "61560"
 }

@@ -1,12 +1,11 @@
 {
   "Medium": "Photolithograph, folded and hinged to create a pop- up effect, with matchstick collage", 
-  "Dimensions": "Composition (opened): 5 9/16 x 27 x 26 15/16\" (14.2 x 68.6 x 68.5 cm)  Composition (closed): 19 1/8 x 19 1/8\" (48.5 x 48.5 cm)", 
+  "Dimensions": "Composition (opened): 5 9/16 x 27 x 26 15/16\" (14.2 x 68.6 x 68.5 cm)\r\nComposition (closed): 19 1/8 x 19 1/8\" (48.5 x 48.5 cm)", 
   "Classification": "Print", 
   "Artist": "Daniel Spoerri", 
   "URL": "http://www.moma.org/collection/works/66204", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled from the portfolio The New Realists (Les Nouveaux R\u00e9alistes)", 
-  "DateAcquired": "1989-10-12", 
+  "CreditLine": "Walter Thayer Bequest", 
   "Date": "1973", 
   "ArtistID": 5569, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "291.1989.11", 
-  "ArtistBio": "Swiss, born Romania 1930", 
-  "CreditLine": "Walter Thayer Bequest", 
+  "ArtistBio": "(Swiss, born Romania 1930)", 
+  "DateAcquired": "1989-10-12", 
+  "\ufeffTitle": "Untitled from the portfolio The New Realists (Les Nouveaux R\u00e9alistes)", 
   "ObjectID": "66204"
 }

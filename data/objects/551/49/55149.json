@@ -5,8 +5,7 @@
   "Artist": "Rosalind Fox Solomon", 
   "URL": "http://www.moma.org/collection/works/55149", 
   "CuratorApproved": "Y", 
-  "Title": "Harry Lunn, Washington, D.C.", 
-  "DateAcquired": "1980-10-23", 
+  "CreditLine": "Gift of the photographer", 
   "Date": "1977", 
   "ArtistID": 5517, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "561.1980", 
-  "ArtistBio": "American, born 1930", 
-  "CreditLine": "Gift of the photographer", 
+  "ArtistBio": "(American, born 1930)", 
+  "DateAcquired": "1980-10-23", 
+  "\ufeffTitle": "Harry Lunn, Washington, D.C.", 
   "ObjectID": "55149"
 }

@@ -5,8 +5,7 @@
   "Artist": "Pierre-Auguste Renoir", 
   "URL": "http://www.moma.org/collection/works/67710", 
   "CuratorApproved": "Y", 
-  "Title": "Richard Wagner", 
-  "DateAcquired": "1948-10-06", 
+  "CreditLine": "Gift of Victor S. Riesenfeld", 
   "Date": "(c. 1890?)", 
   "ArtistID": 4869, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "362.1948", 
-  "ArtistBio": "French, 1841\u20131919", 
-  "CreditLine": "Gift of Victor S. Riesenfeld", 
+  "ArtistBio": "(French, 1841\u20131919)", 
+  "DateAcquired": "1948-10-06", 
+  "\ufeffTitle": "Richard Wagner", 
   "ObjectID": "67710"
 }

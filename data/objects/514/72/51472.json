@@ -5,8 +5,7 @@
   "Artist": "William Gedney", 
   "URL": "http://www.moma.org/collection/works/51472", 
   "CuratorApproved": "Y", 
-  "Title": "Kentucky", 
-  "DateAcquired": "1999-10-14", 
+  "CreditLine": "Gift of the Duke University Rare Book, Manuscript, and Special Collections Library", 
   "Date": "1972", 
   "ArtistID": 2105, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "349.1999", 
-  "ArtistBio": "American, 1932\u20131989", 
-  "CreditLine": "Gift of the Duke University Rare Book, Manuscript, and Special Collections Library", 
+  "ArtistBio": "(American, 1932\u20131989)", 
+  "DateAcquired": "1999-10-14", 
+  "\ufeffTitle": "Kentucky", 
   "ObjectID": "51472"
 }

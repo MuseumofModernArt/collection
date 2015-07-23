@@ -5,8 +5,7 @@
   "Artist": "Ralph Schraivogel", 
   "URL": "http://www.moma.org/collection/works/5945", 
   "CuratorApproved": "Y", 
-  "Title": "Cinemafrika", 
-  "DateAcquired": "1998-04-22", 
+  "CreditLine": "Gift of the designer", 
   "Date": "1993", 
   "ArtistID": 8048, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "266.1998", 
-  "ArtistBio": "Dutch, born Switzerland 1960", 
-  "CreditLine": "Gift of the designer", 
+  "ArtistBio": "(Dutch, born Switzerland 1960)", 
+  "DateAcquired": "1998-04-22", 
+  "\ufeffTitle": "Cinemafrika", 
   "ObjectID": "5945"
 }

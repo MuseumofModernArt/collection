@@ -5,8 +5,7 @@
   "Artist": "Unknown Designer", 
   "URL": "http://www.moma.org/collection/works/2903", 
   "CuratorApproved": "Y", 
-  "Title": "Meat Fork", 
-  "DateAcquired": "1953-04-07", 
+  "CreditLine": "Gift of Philip Johnson", 
   "Date": "Before 1953", 
   "ArtistID": 6014, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "234.1953", 
-  "ArtistBio": "German", 
-  "CreditLine": "Gift of Philip Johnson", 
+  "ArtistBio": "(German)", 
+  "DateAcquired": "1953-04-07", 
+  "\ufeffTitle": "Meat Fork", 
   "ObjectID": "2903"
 }

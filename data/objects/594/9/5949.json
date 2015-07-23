@@ -5,8 +5,7 @@
   "Artist": "Brian J. Watson", 
   "URL": "http://www.moma.org/collection/works/5949", 
   "CuratorApproved": "Y", 
-  "Title": "Fly the Tube", 
-  "DateAcquired": "1981-04-30", 
+  "CreditLine": "Gift of the London Transport Enquiry Office", 
   "Date": "1977", 
   "ArtistID": 6264, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "267.1981", 
-  "ArtistBio": "British, born 1949", 
-  "CreditLine": "Gift of the London Transport Enquiry Office", 
+  "ArtistBio": "(British, born 1949)", 
+  "DateAcquired": "1981-04-30", 
+  "\ufeffTitle": "Fly the Tube", 
   "ObjectID": "5949"
 }

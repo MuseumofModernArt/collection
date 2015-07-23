@@ -1,12 +1,11 @@
 {
   "Medium": "Artist's book of twelve wood engravings", 
-  "Dimensions": "irreg. page  10 7/16 x 7 1/2\" (26 x 19 cm)  Prints:  various dimensions.", 
+  "Dimensions": "irreg. page  10 7/16 x 7 1/2\" (26 x 19 cm)\r\nPrints:  various dimensions.", 
   "Classification": "Illustrated Book", 
   "Artist": "Paul Nash", 
   "URL": "http://www.moma.org/collection/works/9661", 
   "CuratorApproved": "Y", 
-  "Title": "Genesis", 
-  "DateAcquired": "1982-01-21", 
+  "CreditLine": "A. Conger Goodyear Fund", 
   "Date": "1924", 
   "ArtistID": 4228, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "23.1982.1-12", 
-  "ArtistBio": "British, 1889\u20131946", 
-  "CreditLine": "A. Conger Goodyear Fund", 
+  "ArtistBio": "(British, 1889\u20131946)", 
+  "DateAcquired": "1982-01-21", 
+  "\ufeffTitle": "Genesis", 
   "ObjectID": "9661"
 }

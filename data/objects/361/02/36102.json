@@ -5,8 +5,7 @@
   "Artist": "Sonia Delaunay-Terk", 
   "URL": "http://www.moma.org/collection/works/36102", 
   "CuratorApproved": "Y", 
-  "Title": "\u00c9tude de Robe No. 1284", 
-  "DateAcquired": "1980-01-15", 
+  "CreditLine": "Purchase", 
   "Date": "1926", 
   "ArtistID": 1480, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "302.1980", 
-  "ArtistBio": "French, born Ukraine. 1885\u20131979", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(French, born Ukraine. 1885\u20131979)", 
+  "DateAcquired": "1980-01-15", 
+  "\ufeffTitle": "\u00c9tude de Robe No. 1284", 
   "ObjectID": "36102"
 }

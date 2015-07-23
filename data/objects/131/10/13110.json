@@ -1,12 +1,11 @@
 {
   "Medium": "Illustrated book with twenty screenprints", 
-  "Dimensions": "page  14 13/16 x 12 5/16\" (37 x 31.3 cm)  Prints:  various dimensions.", 
+  "Dimensions": "page  14 13/16 x 12 5/16\" (37 x 31.3 cm)\r\nPrints:  various dimensions.", 
   "Classification": "Illustrated Book", 
   "Artist": "Ken Price", 
   "URL": "http://www.moma.org/collection/works/13110", 
   "CuratorApproved": "Y", 
-  "Title": "The Plains of Smoke", 
-  "DateAcquired": "1981-05-06", 
+  "CreditLine": "John B. Turner Fund", 
   "Date": "1981.  (Prints executed 1979-1981).", 
   "ArtistID": 4734, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "184.1981.1-20", 
-  "ArtistBio": "American, 1935\u20132012", 
-  "CreditLine": "John B. Turner Fund", 
+  "ArtistBio": "(American, 1935\u20132012)", 
+  "DateAcquired": "1981-05-06", 
+  "\ufeffTitle": "The Plains of Smoke", 
   "ObjectID": "13110"
 }

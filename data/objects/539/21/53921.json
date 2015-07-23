@@ -5,8 +5,7 @@
   "Artist": "Gay Block", 
   "URL": "http://www.moma.org/collection/works/53921", 
   "CuratorApproved": "Y", 
-  "Title": "Johannes DeVries, the Netherlands/Canada", 
-  "DateAcquired": "1994-10-13", 
+  "CreditLine": "Gift of the photographer", 
   "Date": "1988", 
   "ArtistID": 607, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "468.1994.x1-x2", 
-  "ArtistBio": "American, born 1942", 
-  "CreditLine": "Gift of the photographer", 
+  "ArtistBio": "(American, born 1942)", 
+  "DateAcquired": "1994-10-13", 
+  "\ufeffTitle": "Johannes DeVries, the Netherlands/Canada from the series Rescuers of the Holocaust", 
   "ObjectID": "53921"
 }

@@ -5,8 +5,7 @@
   "Artist": "Lyonel Feininger", 
   "URL": "http://www.moma.org/collection/works/68576", 
   "CuratorApproved": "Y", 
-  "Title": "Skt. Nikolai", 
-  "DateAcquired": "1956-03-19", 
+  "CreditLine": "Gift of Julia Feininger", 
   "Date": "1923", 
   "ArtistID": 1832, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "407.1955", 
-  "ArtistBio": "American, 1871\u20131956", 
-  "CreditLine": "Gift of Julia Feininger", 
+  "ArtistBio": "(American, 1871\u20131956)", 
+  "DateAcquired": "1956-03-19", 
+  "\ufeffTitle": "Skt. Nikolai", 
   "ObjectID": "68576"
 }

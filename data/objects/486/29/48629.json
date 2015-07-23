@@ -5,8 +5,7 @@
   "Artist": "Antonio Reynoso", 
   "URL": "http://www.moma.org/collection/works/48629", 
   "CuratorApproved": "Y", 
-  "Title": "Fear", 
-  "DateAcquired": "1944-11-08", 
+  "CreditLine": "Inter-American Fund", 
   "Date": "c. 1944", 
   "ArtistID": 4888, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "214.1944", 
-  "ArtistBio": "Mexican,1919\u20131996", 
-  "CreditLine": "Inter-American Fund", 
+  "ArtistBio": "(Mexican,1919\u20131996)", 
+  "DateAcquired": "1944-11-08", 
+  "\ufeffTitle": "Fear", 
   "ObjectID": "48629"
 }

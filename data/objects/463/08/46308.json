@@ -5,8 +5,7 @@
   "Artist": "Dorothea Lange", 
   "URL": "http://www.moma.org/collection/works/46308", 
   "CuratorApproved": "Y", 
-  "Title": "Outside the Relief Grant Office", 
-  "DateAcquired": "1940-04-05", 
+  "CreditLine": "Gift of Albert M. Bender", 
   "Date": "1939", 
   "ArtistID": 3373, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "104.1940", 
-  "ArtistBio": "American, 1895\u20131965", 
-  "CreditLine": "Gift of Albert M. Bender", 
+  "ArtistBio": "(American, 1895\u20131965)", 
+  "DateAcquired": "1940-04-05", 
+  "\ufeffTitle": "Outside the Relief Grant Office", 
   "ObjectID": "46308"
 }

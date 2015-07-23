@@ -5,8 +5,7 @@
   "Artist": "William Bonnell", 
   "URL": "http://www.moma.org/collection/works/5828", 
   "CuratorApproved": "Y", 
-  "Title": "Celebration! 200 Years USA/50 Years CCA", 
-  "DateAcquired": "1981-04-30", 
+  "CreditLine": "Gift of the designer", 
   "Date": "1976", 
   "ArtistID": 666, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "247.1981", 
-  "ArtistBio": "American", 
-  "CreditLine": "Gift of the designer", 
+  "ArtistBio": "(American)", 
+  "DateAcquired": "1981-04-30", 
+  "\ufeffTitle": "Celebration! 200 Years USA/50 Years CCA", 
   "ObjectID": "5828"
 }

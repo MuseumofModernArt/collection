@@ -5,8 +5,7 @@
   "Artist": "United Press International", 
   "URL": "http://www.moma.org/collection/works/58807", 
   "CuratorApproved": "Y", 
-  "Title": "Miss Teenage America", 
-  "DateAcquired": "2001-06-14", 
+  "CreditLine": "The New York Times Collection", 
   "Date": "1971", 
   "ArtistID": 8638, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "2214.2001", 
-  "ArtistBio": "NULL", 
-  "CreditLine": "The New York Times Collection", 
+  "ArtistBio": "", 
+  "DateAcquired": "2001-06-14", 
+  "\ufeffTitle": "\"Miss Teenage America\"", 
   "ObjectID": "58807"
 }

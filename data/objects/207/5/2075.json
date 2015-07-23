@@ -5,8 +5,7 @@
   "Artist": "Johann Loetz", 
   "URL": "http://www.moma.org/collection/works/2075", 
   "CuratorApproved": "Y", 
-  "Title": "Bud Vase", 
-  "DateAcquired": "1957-05-15", 
+  "CreditLine": "Phyllis B. Lambert Fund", 
   "Date": "c. 1900", 
   "ArtistID": 6420, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "91.1957", 
-  "ArtistBio": "American, 1848\u20131933", 
-  "CreditLine": "Phyllis B. Lambert Fund", 
+  "ArtistBio": "(American, 1848\u20131933)", 
+  "DateAcquired": "1957-05-15", 
+  "\ufeffTitle": "Bud Vase", 
   "ObjectID": "2075"
 }

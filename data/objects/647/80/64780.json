@@ -5,8 +5,7 @@
   "Artist": "Sandro Chia", 
   "URL": "http://www.moma.org/collection/works/64780", 
   "CuratorApproved": "Y", 
-  "Title": "The Artifice (L'artificio) from the portfolio April Manual (Manuale d'Aprile)", 
-  "DateAcquired": "1982-10-26", 
+  "CreditLine": "International Print Fund", 
   "Date": "1981", 
   "ArtistID": 1097, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "228.1982", 
-  "ArtistBio": "Italian, born 1946", 
-  "CreditLine": "International Print Fund", 
+  "ArtistBio": "(Italian, born 1946)", 
+  "DateAcquired": "1982-10-26", 
+  "\ufeffTitle": "The Artifice (L'artificio) from the portfolio April Manual (Manuale d'Aprile)", 
   "ObjectID": "64780"
 }

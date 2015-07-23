@@ -5,8 +5,7 @@
   "Artist": "Larry Rivers", 
   "URL": "http://www.moma.org/collection/works/8065", 
   "CuratorApproved": "Y", 
-  "Title": "First New York Film Festival", 
-  "DateAcquired": "1963-12-10", 
+  "CreditLine": "Gift of Lincoln Center", 
   "Date": "1963", 
   "ArtistID": 4945, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "759.1963", 
-  "ArtistBio": "American, 1923\u20132002", 
-  "CreditLine": "Gift of Lincoln Center", 
+  "ArtistBio": "(American, 1923\u20132002)", 
+  "DateAcquired": "1963-12-10", 
+  "\ufeffTitle": "First New York Film Festival", 
   "ObjectID": "8065"
 }

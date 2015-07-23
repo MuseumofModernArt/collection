@@ -1,12 +1,11 @@
 {
   "Medium": "Lithograph from a series of 7 lithographs", 
-  "Dimensions": "irreg. composition  19 13/16 x 14\" (50.3 x 35.6 cm)  irreg. sheet  25 9/16 x 20 1/8\" (65 x 51.2 cm)", 
+  "Dimensions": "irreg. composition  19 13/16 x 14\" (50.3 x 35.6 cm)\r\nirreg. sheet  25 9/16 x 20 1/8\" (65 x 51.2 cm)", 
   "Classification": "Print", 
   "Artist": "Grace Hartigan", 
   "URL": "http://www.moma.org/collection/works/60606", 
   "CuratorApproved": "Y", 
-  "Title": "Palm Trees from the series The Archaics", 
-  "DateAcquired": "1995-01-24", 
+  "CreditLine": "Gift of Fay and Alfred Chandler", 
   "Date": "1962-1966", 
   "ArtistID": 2520, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "36.1995.6", 
-  "ArtistBio": "American, 1922\u20132008", 
-  "CreditLine": "Gift of Fay and Alfred Chandler", 
+  "ArtistBio": "(American, 1922\u20132008)", 
+  "DateAcquired": "1995-01-24", 
+  "\ufeffTitle": "Palm Trees from the series The Archaics", 
   "ObjectID": "60606"
 }

@@ -5,8 +5,7 @@
   "Artist": "Robert Adams", 
   "URL": "http://www.moma.org/collection/works/56995", 
   "CuratorApproved": "Y", 
-  "Title": "Nebraska State Highway 2, Box Butte County, Nebraska", 
-  "DateAcquired": "1996-12-10", 
+  "CreditLine": "Gift of Jeffrey Fraenkel and Frish Brandt", 
   "Date": "1978", 
   "ArtistID": 66, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "858.1996", 
-  "ArtistBio": "American, born 1937", 
-  "CreditLine": "Gift of Jeffrey Fraenkel and Frish Brandt", 
+  "ArtistBio": "(American, born 1937)", 
+  "DateAcquired": "1996-12-10", 
+  "\ufeffTitle": "Nebraska State Highway 2, Box Butte County, Nebraska", 
   "ObjectID": "56995"
 }

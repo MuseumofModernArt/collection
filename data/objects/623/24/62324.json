@@ -5,8 +5,7 @@
   "Artist": "Helen Frankenthaler", 
   "URL": "http://www.moma.org/collection/works/62324", 
   "CuratorApproved": "Y", 
-  "Title": "Solarium", 
-  "DateAcquired": "1964-02-11", 
+  "CreditLine": "Gift of the Celeste and Armand Bartos Foundation", 
   "Date": "1964", 
   "ArtistID": 1974, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "126.1964", 
-  "ArtistBio": "American, 1928\u20132011", 
-  "CreditLine": "Gift of the Celeste and Armand Bartos Foundation", 
+  "ArtistBio": "(American, 1928\u20132011)", 
+  "DateAcquired": "1964-02-11", 
+  "\ufeffTitle": "Solarium", 
   "ObjectID": "62324"
 }

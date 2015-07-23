@@ -1,12 +1,11 @@
 {
   "Medium": "Screen printed with lacquer ink, lacquer finish", 
-  "Dimensions": "39 1/2 x 25\" (100.4 x 63.5 cm)  39 1/2 x 25\" (100.4 x 63.5 cm)", 
+  "Dimensions": "39 1/2 x 25\" (100.4 x 63.5 cm)\r\n39 1/2 x 25\" (100.4 x 63.5 cm)", 
   "Classification": "A&D Graphic Design", 
   "Artist": "Stephen Frykholm", 
   "URL": "http://www.moma.org/collection/works/5934", 
   "CuratorApproved": "Y", 
-  "Title": "Herman Miller Summer Picnic August 5, 1977", 
-  "DateAcquired": "1980-01-08", 
+  "CreditLine": "Gift of Ivan Chermayeff", 
   "Date": "1977", 
   "ArtistID": 2019, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "265.1980", 
-  "ArtistBio": "American, born 1942", 
-  "CreditLine": "Gift of Ivan Chermayeff", 
+  "ArtistBio": "(American, born 1942)", 
+  "DateAcquired": "1980-01-08", 
+  "\ufeffTitle": "Herman Miller Summer Picnic August 5, 1977", 
   "ObjectID": "5934"
 }

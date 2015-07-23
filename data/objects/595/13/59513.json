@@ -5,8 +5,7 @@
   "Artist": "Louise Bourgeois", 
   "URL": "http://www.moma.org/collection/works/59513", 
   "CuratorApproved": "Y", 
-  "Title": "Mother and Child, version 2 of 2, state I of III", 
-  "DateAcquired": "2008-06-18", 
+  "CreditLine": "Gift of the artist", 
   "Date": "1999", 
   "ArtistID": 710, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "921.2008", 
-  "ArtistBio": "American, born France. 1911\u20132010", 
-  "CreditLine": "Gift of the artist", 
+  "ArtistBio": "(American, born France. 1911\u20132010)", 
+  "DateAcquired": "2008-06-18", 
+  "\ufeffTitle": "Mother and Child", 
   "ObjectID": "59513"
 }

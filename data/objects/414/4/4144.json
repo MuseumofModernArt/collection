@@ -5,8 +5,7 @@
   "Artist": "Paul Chaleff", 
   "URL": "http://www.moma.org/collection/works/4144", 
   "CuratorApproved": "Y", 
-  "Title": "Form with Double Split", 
-  "DateAcquired": "1980-10-30", 
+  "CreditLine": "Mrs. John D. Rockefeller 3rd Purchase Fund", 
   "Date": "1979", 
   "ArtistID": 1058, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "628.1980", 
-  "ArtistBio": "American, born 1947", 
-  "CreditLine": "Mrs. John D. Rockefeller 3rd Purchase Fund", 
+  "ArtistBio": "(American, born 1947)", 
+  "DateAcquired": "1980-10-30", 
+  "\ufeffTitle": "Form with Double Split", 
   "ObjectID": "4144"
 }

@@ -5,8 +5,7 @@
   "Artist": "August Gaul", 
   "URL": "http://www.moma.org/collection/works/15843", 
   "CuratorApproved": "Y", 
-  "Title": "Europe (front cover, folio 2) from the periodical Der Bildermann, vol. 1, no. 1 (Apr 1916)", 
-  "DateAcquired": "1952-11-07", 
+  "CreditLine": "Gift of Mrs. Bertha M. Slattery", 
   "Date": "1916", 
   "ArtistID": 2099, 
   "Keywords": [
@@ -22,7 +21,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "330.1952.1", 
-  "ArtistBio": "German, 1869\u20131921", 
-  "CreditLine": "Gift of Mrs. Bertha M. Slattery", 
+  "ArtistBio": "(German, 1869\u20131921)", 
+  "DateAcquired": "1952-11-07", 
+  "\ufeffTitle": "Europe (Europa) (front cover, folio 2) from the periodical Der Bildermann, vol. 1, no. 1 (Apr 1916)", 
   "ObjectID": "15843"
 }

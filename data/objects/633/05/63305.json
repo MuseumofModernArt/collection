@@ -5,8 +5,7 @@
   "Artist": "James Ensor", 
   "URL": "http://www.moma.org/collection/works/63305", 
   "CuratorApproved": "Y", 
-  "Title": "L'Assassinat (The Assassination)", 
-  "DateAcquired": "1999-05-20", 
+  "CreditLine": "Riva Castleman Endowment Fund", 
   "Date": "1888", 
   "ArtistID": 1739, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "160.1999", 
-  "ArtistBio": "Belgian, 1860\u20131949", 
-  "CreditLine": "Riva Castleman Endowment Fund", 
+  "ArtistBio": "(Belgian, 1860\u20131949)", 
+  "DateAcquired": "1999-05-20", 
+  "\ufeffTitle": "The Assassination", 
   "ObjectID": "63305"
 }

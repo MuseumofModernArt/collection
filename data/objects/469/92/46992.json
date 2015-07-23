@@ -5,8 +5,7 @@
   "Artist": "Hans Brand", 
   "URL": "http://www.moma.org/collection/works/46992", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1982-05-13", 
+  "CreditLine": "", 
   "Date": "1894", 
   "ArtistID": 739, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "156.1982.1", 
-  "ArtistBio": "German", 
-  "CreditLine": "NULL", 
+  "ArtistBio": "(German)", 
+  "DateAcquired": "1982-05-13", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "46992"
 }

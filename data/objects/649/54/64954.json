@@ -1,12 +1,11 @@
 {
   "Medium": "Lithograph", 
-  "Dimensions": "composition  26 1/2 x 20 5/16\" (67.3 x 51.6 cm)  sheet  38 3/8 x 29\" (97.5 x 73.7 cm)", 
+  "Dimensions": "composition  26 1/2 x 20 5/16\" (67.3 x 51.6 cm)\r\nsheet  38 3/8 x 29\" (97.5 x 73.7 cm)", 
   "Classification": "Print", 
   "Artist": "Jasper Johns", 
   "URL": "http://www.moma.org/collection/works/64954", 
   "CuratorApproved": "Y", 
-  "Title": "Device", 
-  "DateAcquired": "1972-05-08", 
+  "CreditLine": "John B. Turner Fund", 
   "Date": "1972", 
   "ArtistID": 2923, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "237.1972", 
-  "ArtistBio": "American, born 1930", 
-  "CreditLine": "John B. Turner Fund", 
+  "ArtistBio": "(American, born 1930)", 
+  "DateAcquired": "1972-05-08", 
+  "\ufeffTitle": "Device", 
   "ObjectID": "64954"
 }

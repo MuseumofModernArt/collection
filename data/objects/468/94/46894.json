@@ -5,8 +5,7 @@
   "Artist": "Albert Renger-Patzsch", 
   "URL": "http://www.moma.org/collection/works/46894", 
   "CuratorApproved": "Y", 
-  "Title": "Potter's Hands", 
-  "DateAcquired": "1967-03-07", 
+  "CreditLine": "Gift of the photographer", 
   "Date": "1925", 
   "ArtistID": 4866, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "148.1967", 
-  "ArtistBio": "German, 1897\u20131966", 
-  "CreditLine": "Gift of the photographer", 
+  "ArtistBio": "(German, 1897\u20131966)", 
+  "DateAcquired": "1967-03-07", 
+  "\ufeffTitle": "Potter's Hands", 
   "ObjectID": "46894"
 }

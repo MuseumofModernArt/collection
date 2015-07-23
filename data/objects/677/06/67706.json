@@ -5,8 +5,7 @@
   "Artist": "Robert Morris", 
   "URL": "http://www.moma.org/collection/works/67706", 
   "CuratorApproved": "Y", 
-  "Title": "Five War Memorials", 
-  "DateAcquired": "1988-10-25", 
+  "CreditLine": "Gift of Leo and Jean-Christophe Castelli in memory of Toiny Castelli", 
   "Date": "1970", 
   "ArtistID": 4108, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "361.1988.1-5", 
-  "ArtistBio": "American, born 1931", 
-  "CreditLine": "Gift of Leo and Jean-Christophe Castelli in memory of Toiny Castelli", 
+  "ArtistBio": "(American, born 1931)", 
+  "DateAcquired": "1988-10-25", 
+  "\ufeffTitle": "Five War Memorials", 
   "ObjectID": "67706"
 }

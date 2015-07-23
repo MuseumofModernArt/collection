@@ -5,8 +5,7 @@
   "Artist": "Niklaus Troxler", 
   "URL": "http://www.moma.org/collection/works/7323", 
   "CuratorApproved": "Y", 
-  "Title": "A Tribute to the Music of Thelonius Monk", 
-  "DateAcquired": "1987-11-18", 
+  "CreditLine": "Gift of The Lauder Foundation, Leonard and Evelyn Lauder Fund", 
   "Date": "1986", 
   "ArtistID": 5940, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "509.1987", 
-  "ArtistBio": "Swiss, born 1947", 
-  "CreditLine": "Gift of The Lauder Foundation, Leonard and Evelyn Lauder Fund", 
+  "ArtistBio": "(Swiss, born 1947)", 
+  "DateAcquired": "1987-11-18", 
+  "\ufeffTitle": "A Tribute to the Music of Thelonius Monk", 
   "ObjectID": "7323"
 }

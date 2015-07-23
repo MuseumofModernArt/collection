@@ -5,8 +5,7 @@
   "Artist": "Marie Laurencin", 
   "URL": "http://www.moma.org/collection/works/37466", 
   "CuratorApproved": "Y", 
-  "Title": "Self-Portrait", 
-  "DateAcquired": "1970-12-15", 
+  "CreditLine": "Gift of Steven C. Rockefeller", 
   "Date": "1906", 
   "ArtistID": 3408, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "591.1970", 
-  "ArtistBio": "French, 1883\u20131956", 
-  "CreditLine": "Gift of Steven C. Rockefeller", 
+  "ArtistBio": "(French, 1883\u20131956)", 
+  "DateAcquired": "1970-12-15", 
+  "\ufeffTitle": "Self-Portrait", 
   "ObjectID": "37466"
 }

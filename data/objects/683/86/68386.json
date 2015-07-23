@@ -1,12 +1,11 @@
 {
   "Medium": "Etching and aquatint", 
-  "Dimensions": "Plate: 34 7/16 x 22 1/8\" (87.4 x 56.2 cm)  Sheet: 38 9/16 x 27 5/8\" (98 x 70.2 cm)", 
+  "Dimensions": "Plate: 34 7/16 x 22 1/8\" (87.4 x 56.2 cm)\r\nSheet: 38 9/16 x 27 5/8\" (98 x 70.2 cm)", 
   "Classification": "Print", 
   "Artist": "Pol Bury", 
   "URL": "http://www.moma.org/collection/works/68386", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1990-10-23", 
+  "CreditLine": "Gift of Linda Barth Goldstein", 
   "Date": "1973-74", 
   "ArtistID": 890, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "395.1990", 
-  "ArtistBio": "Belgian, 1922\u20132005", 
-  "CreditLine": "Gift of Linda Barth Goldstein", 
+  "ArtistBio": "(Belgian, 1922\u20132005)", 
+  "DateAcquired": "1990-10-23", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "68386"
 }

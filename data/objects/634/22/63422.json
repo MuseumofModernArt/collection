@@ -5,8 +5,7 @@
   "Artist": "Rodolphe Bresdin", 
   "URL": "http://www.moma.org/collection/works/63422", 
   "CuratorApproved": "Y", 
-  "Title": "The Good Samaritan", 
-  "DateAcquired": "1962-05-08", 
+  "CreditLine": "Gift of Dr. F. H. Hirschland", 
   "Date": "1861", 
   "ArtistID": 767, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "166.1962", 
-  "ArtistBio": "French, 1822\u20131885", 
-  "CreditLine": "Gift of Dr. F. H. Hirschland", 
+  "ArtistBio": "(French, 1822\u20131885)", 
+  "DateAcquired": "1962-05-08", 
+  "\ufeffTitle": "The Good Samaritan", 
   "ObjectID": "63422"
 }

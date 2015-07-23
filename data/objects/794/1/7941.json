@@ -1,12 +1,11 @@
 {
-  "Medium": "Lithograph and letterpress  Paper/Support: wove, yellow", 
+  "Medium": "Lithograph and letterpress\r\nPaper/Support: wove, yellow", 
   "Dimensions": "24 3/8 x 18 1/8\" (62 x 46 cm)", 
   "Classification": "A&D Graphic Design", 
   "Artist": "Francisco Dosamentes", 
   "URL": "http://www.moma.org/collection/works/7941", 
   "CuratorApproved": "Y", 
-  "Title": "El Fascismo, 2a Conferencia: El Fascismo Italiano", 
-  "DateAcquired": "1942-12-29", 
+  "CreditLine": "Inter-American Fund", 
   "Date": "1938", 
   "ArtistID": 1596, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "691.1942", 
-  "ArtistBio": "Mexican", 
-  "CreditLine": "Inter-American Fund", 
+  "ArtistBio": "(Mexican)", 
+  "DateAcquired": "1942-12-29", 
+  "\ufeffTitle": "El Fascismo, 2a Conferencia: El Fascismo Italiano", 
   "ObjectID": "7941"
 }

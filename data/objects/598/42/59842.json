@@ -1,12 +1,11 @@
 {
   "Medium": "Etching and monotype", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "Nachume Miller", 
   "URL": "http://www.moma.org/collection/works/59842", 
   "CuratorApproved": "Y", 
-  "Title": "Empty Room", 
-  "DateAcquired": "1981-01-15", 
+  "CreditLine": "Dorothy Braude Edinburg Fund", 
   "Date": "February 28, 1979.", 
   "ArtistID": 3987, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "11.1981", 
-  "ArtistBio": "Israeli, 1949\u20131998", 
-  "CreditLine": "Dorothy Braude Edinburg Fund", 
+  "ArtistBio": "(Israeli, 1949\u20131998)", 
+  "DateAcquired": "1981-01-15", 
+  "\ufeffTitle": "Empty Room", 
   "ObjectID": "59842"
 }

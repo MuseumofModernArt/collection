@@ -1,12 +1,11 @@
 {
   "Medium": "Etching", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "Philip Pearlstein", 
   "URL": "http://www.moma.org/collection/works/63433", 
   "CuratorApproved": "Y", 
-  "Title": "Nude on Dahomey Stool", 
-  "DateAcquired": "1994-01-25", 
+  "CreditLine": "Gift of Brooke and Carolyn Alexander", 
   "Date": "1975-76", 
   "ArtistID": 4529, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "166.1994", 
-  "ArtistBio": "American, born 1924", 
-  "CreditLine": "Gift of Brooke and Carolyn Alexander", 
+  "ArtistBio": "(American, born 1924)", 
+  "DateAcquired": "1994-01-25", 
+  "\ufeffTitle": "Nude on Dahomey Stool", 
   "ObjectID": "63433"
 }

@@ -5,8 +5,7 @@
   "Artist": "Max Bill", 
   "URL": "http://www.moma.org/collection/works/6196", 
   "CuratorApproved": "Y", 
-  "Title": "Futurismo Pittura Metafisica, 1950, Kunsthaus, Zurich", 
-  "DateAcquired": "1957-12-04", 
+  "CreditLine": "Gift of the Kunstgewerbe Museum, Z\u00fcrich", 
   "Date": "1950", 
   "ArtistID": 559, 
   "Keywords": [
@@ -20,7 +19,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "312.1957", 
-  "ArtistBio": "Swiss, 1908\u20131994", 
-  "CreditLine": "Gift of the Kunstgewerbe Museum, Z\u00fcrich", 
+  "ArtistBio": "(Swiss, 1908\u20131994)", 
+  "DateAcquired": "1957-12-04", 
+  "\ufeffTitle": "Futurismo Pittura Metafisica, 1950, Kunsthaus, Zurich", 
   "ObjectID": "6196"
 }

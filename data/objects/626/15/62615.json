@@ -5,8 +5,7 @@
   "Artist": "Oskar Kokoschka", 
   "URL": "http://www.moma.org/collection/works/62615", 
   "CuratorApproved": "Y", 
-  "Title": "Paul Westheim (Head)", 
-  "DateAcquired": "1949-03-24", 
+  "CreditLine": "Purchase", 
   "Date": "(1923)", 
   "ArtistID": 3197, 
   "Keywords": [
@@ -21,7 +20,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "136.1949", 
-  "ArtistBio": "Austrian, 1886\u20131980", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(Austrian, 1886\u20131980)", 
+  "DateAcquired": "1949-03-24", 
+  "\ufeffTitle": "Portrait Paul Westheimfrom the periodical in portfolio form Die Schaffenden, vol. 4, no. 3", 
   "ObjectID": "62615"
 }

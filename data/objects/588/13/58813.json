@@ -5,8 +5,7 @@
   "Artist": "Unknown photographer", 
   "URL": "http://www.moma.org/collection/works/58813", 
   "CuratorApproved": "Y", 
-  "Title": "Dr. F.G. Benedict's Latest Apparatus for Measuring Metabolism", 
-  "DateAcquired": "2001-06-14", 
+  "CreditLine": "The New York Times Collection", 
   "Date": "1935", 
   "ArtistID": 6028, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "2220.2001", 
-  "ArtistBio": "NULL", 
-  "CreditLine": "The New York Times Collection", 
+  "ArtistBio": "", 
+  "DateAcquired": "2001-06-14", 
+  "\ufeffTitle": "Dr. F.G. Benedict's Latest Apparatus for Measuring Metabolism", 
   "ObjectID": "58813"
 }

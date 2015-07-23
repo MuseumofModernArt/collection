@@ -5,8 +5,7 @@
   "Artist": "Filippo Tommaso Marinetti", 
   "URL": "http://www.moma.org/collection/works/64785", 
   "CuratorApproved": "Y", 
-  "Title": "Il Vestito Antineutrale.  Manifesto Futurista", 
-  "DateAcquired": "1997-05-28", 
+  "CreditLine": "Gift of Mary Ellen Meehan and John P. Banning", 
   "Date": "1914", 
   "ArtistID": 3771, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "228.1997.1-4", 
-  "ArtistBio": "Italian, 1876\u20131944", 
-  "CreditLine": "Gift of Mary Ellen Meehan and John P. Banning", 
+  "ArtistBio": "(Italian, 1876\u20131944)", 
+  "DateAcquired": "1997-05-28", 
+  "\ufeffTitle": "Il Vestito Antineutrale.  Manifesto Futurista", 
   "ObjectID": "64785"
 }

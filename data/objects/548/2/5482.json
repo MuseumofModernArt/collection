@@ -5,8 +5,7 @@
   "Artist": "Victor Moscoso", 
   "URL": "http://www.moma.org/collection/works/5482", 
   "CuratorApproved": "Y", 
-  "Title": "The Chambers Brothers", 
-  "DateAcquired": "1993-05-04", 
+  "CreditLine": "Gift of Jack Banning", 
   "Date": "1967", 
   "ArtistID": 4117, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "172.1993", 
-  "ArtistBio": "American, born Spain 1936", 
-  "CreditLine": "Gift of Jack Banning", 
+  "ArtistBio": "(American, born Spain 1936)", 
+  "DateAcquired": "1993-05-04", 
+  "\ufeffTitle": "The Chambers Brothers", 
   "ObjectID": "5482"
 }

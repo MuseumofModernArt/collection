@@ -1,12 +1,11 @@
 {
   "Medium": "One lithograph (frontispiece)", 
-  "Dimensions": "irreg composition  19 1/4 x 12 5/8\" (48.9 x 32.1 cm)  irreg. page  19 9/16 x 12 13/16\" (49.7 x 32.5 cm)", 
+  "Dimensions": "irreg composition  19 1/4 x 12 5/8\" (48.9 x 32.1 cm)\r\nirreg. page  19 9/16 x 12 13/16\" (49.7 x 32.5 cm)", 
   "Classification": "Illustrated Book", 
   "Artist": "John Hejduk", 
   "URL": "http://www.moma.org/collection/works/17237", 
   "CuratorApproved": "Y", 
-  "Title": "The Silent Witness and Other Poems", 
-  "DateAcquired": "1980-04-23", 
+  "CreditLine": "Gift of Lily A. Auchincloss", 
   "Date": "1980", 
   "ArtistID": 2581, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "439.1980", 
-  "ArtistBio": "American, 1929\u20132000", 
-  "CreditLine": "Gift of Lily A. Auchincloss", 
+  "ArtistBio": "(American, 1929\u20132000)", 
+  "DateAcquired": "1980-04-23", 
+  "\ufeffTitle": "The Silent Witness and Other Poems", 
   "ObjectID": "17237"
 }

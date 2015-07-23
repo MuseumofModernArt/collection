@@ -5,8 +5,7 @@
   "Artist": "Patriz H\u00fcber", 
   "URL": "http://www.moma.org/collection/works/4337", 
   "CuratorApproved": "Y", 
-  "Title": "Belt Buckle", 
-  "DateAcquired": "1977-11-28", 
+  "CreditLine": "Given anonymously", 
   "Date": "1900-1901", 
   "ArtistID": 2746, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "532.1977.a-b", 
-  "ArtistBio": "German, 1878\u20131902", 
-  "CreditLine": "Given anonymously", 
+  "ArtistBio": "(German, 1878\u20131902)", 
+  "DateAcquired": "1977-11-28", 
+  "\ufeffTitle": "Belt Buckle", 
   "ObjectID": "4337"
 }

@@ -5,8 +5,7 @@
   "Artist": "Erich Salomon", 
   "URL": "http://www.moma.org/collection/works/58689", 
   "CuratorApproved": "Y", 
-  "Title": "Evening Party in the Hotel Excelsior in Rome", 
-  "DateAcquired": "2001-06-14", 
+  "CreditLine": "The New York Times Collection", 
   "Date": "August 1931", 
   "ArtistID": 5126, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "2096.2001", 
-  "ArtistBio": "German, 1886\u20131944", 
-  "CreditLine": "The New York Times Collection", 
+  "ArtistBio": "(German, 1886\u20131944)", 
+  "DateAcquired": "2001-06-14", 
+  "\ufeffTitle": "Evening Party in the Hotel Excelsior in Rome", 
   "ObjectID": "58689"
 }

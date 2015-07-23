@@ -5,8 +5,7 @@
   "Artist": "Emma Gismondi Schweinberger", 
   "URL": "http://www.moma.org/collection/works/3484", 
   "CuratorApproved": "Y", 
-  "Title": "Dedalo Umbrella Stand", 
-  "DateAcquired": "1988-11-22", 
+  "CreditLine": "Gift of the manufacturer", 
   "Date": "1966", 
   "ArtistID": 5291, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "406.1988.2", 
-  "ArtistBio": "Italian, born 1934", 
-  "CreditLine": "Gift of the manufacturer", 
+  "ArtistBio": "(Italian, born 1934)", 
+  "DateAcquired": "1988-11-22", 
+  "\ufeffTitle": "Dedalo Umbrella Stand", 
   "ObjectID": "3484"
 }

@@ -5,8 +5,7 @@
   "Artist": "Constantin Brancusi", 
   "URL": "http://www.moma.org/collection/works/57663", 
   "CuratorApproved": "Y", 
-  "Title": "Self-Portrait in the Studio", 
-  "DateAcquired": "1979-12-13", 
+  "CreditLine": "Gift of Mrs. Eyre de Lanux", 
   "Date": "1920-22", 
   "ArtistID": 738, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "1116.1979", 
-  "ArtistBio": "French, born Romania. 1876\u20131957", 
-  "CreditLine": "Gift of Mrs. Eyre de Lanux", 
+  "ArtistBio": "(French, born Romania. 1876\u20131957)", 
+  "DateAcquired": "1979-12-13", 
+  "\ufeffTitle": "Self-Portrait in the Studio", 
   "ObjectID": "57663"
 }

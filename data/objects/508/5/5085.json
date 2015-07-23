@@ -5,8 +5,7 @@
   "Artist": "Milton Ackoff", 
   "URL": "http://www.moma.org/collection/works/5085", 
   "CuratorApproved": "Y", 
-  "Title": "Wipe Out Discrimination", 
-  "DateAcquired": "1968-03-07", 
+  "CreditLine": "Gift of the Congress of Industrial Organizations", 
   "Date": "1949", 
   "ArtistID": 54, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "103.1968", 
-  "ArtistBio": "American, born 1915", 
-  "CreditLine": "Gift of the Congress of Industrial Organizations", 
+  "ArtistBio": "(American, born 1915)", 
+  "DateAcquired": "1968-03-07", 
+  "\ufeffTitle": "Wipe Out Discrimination", 
   "ObjectID": "5085"
 }

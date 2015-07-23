@@ -5,8 +5,7 @@
   "Artist": "Renato Guttuso", 
   "URL": "http://www.moma.org/collection/works/36684", 
   "CuratorApproved": "Y", 
-  "Title": "Mine Car", 
-  "DateAcquired": "1949-09-29", 
+  "CreditLine": "Purchase", 
   "Date": "1949", 
   "ArtistID": 2423, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "339.1949", 
-  "ArtistBio": "Italian, 1912\u20131987", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(Italian, 1912\u20131987)", 
+  "DateAcquired": "1949-09-29", 
+  "\ufeffTitle": "Mine Car", 
   "ObjectID": "36684"
 }

@@ -5,8 +5,7 @@
   "Artist": "Frank Auerbach", 
   "URL": "http://www.moma.org/collection/works/36886", 
   "CuratorApproved": "Y", 
-  "Title": "Head of Catherine Lampert VI", 
-  "DateAcquired": "1981-11-13", 
+  "CreditLine": "Purchase", 
   "Date": "(1979-80)", 
   "ArtistID": 240, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "436.1981", 
-  "ArtistBio": "British, born Germany 1931. To England 1939.", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(British, born Germany 1931. To England 1939.)", 
+  "DateAcquired": "1981-11-13", 
+  "\ufeffTitle": "Head of Catherine Lampert VI", 
   "ObjectID": "36886"
 }

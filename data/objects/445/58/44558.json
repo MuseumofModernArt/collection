@@ -5,8 +5,7 @@
   "Artist": "Francis Frith", 
   "URL": "http://www.moma.org/collection/works/44558", 
   "CuratorApproved": "Y", 
-  "Title": "St. Paul's Wall, Damascus (Plate 31)", 
-  "DateAcquired": "NULL", 
+  "CreditLine": "Purchase", 
   "Date": "1858-60", 
   "ArtistID": 2015, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "41.1974.32", 
-  "ArtistBio": "British, 1822\u20131898", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(British, 1822\u20131898)", 
+  "DateAcquired": "", 
+  "\ufeffTitle": "St. Paul's Wall, Damascus (Plate 31)", 
   "ObjectID": "44558"
 }

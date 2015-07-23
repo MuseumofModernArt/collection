@@ -5,8 +5,7 @@
   "Artist": "Rosemarie Trockel", 
   "URL": "http://www.moma.org/collection/works/37345", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1990-10-25", 
+  "CreditLine": "Purchase", 
   "Date": "(1986)", 
   "ArtistID": 5933, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "562.1990", 
-  "ArtistBio": "German, born 1952", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(German, born 1952)", 
+  "DateAcquired": "1990-10-25", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "37345"
 }

@@ -5,8 +5,7 @@
   "Artist": "Hewlett-Packard Company, Santa Clara, CA", 
   "URL": "http://www.moma.org/collection/works/4282", 
   "CuratorApproved": "Y", 
-  "Title": "Diagram of Central Processing Unit Chip (Microprocessor), Corresponding Microchip", 
-  "DateAcquired": "1990-10-24", 
+  "CreditLine": "Gift of the manufacturer", 
   "Date": "1987", 
   "Keywords": [
     "online art collection", 
@@ -19,7 +18,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "514.1990.1-2", 
-  "ArtistBio": "American, established 1939", 
-  "CreditLine": "Gift of the manufacturer", 
+  "ArtistBio": "(American, established 1939)", 
+  "DateAcquired": "1990-10-24", 
+  "\ufeffTitle": "Diagram of Central Processing Unit Chip (Microprocessor), Corresponding Microchip", 
   "ObjectID": "4282"
 }

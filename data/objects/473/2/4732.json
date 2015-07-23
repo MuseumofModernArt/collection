@@ -5,8 +5,7 @@
   "Artist": "The Ironrite Ironer Co., Detroit, MI", 
   "URL": "http://www.moma.org/collection/works/4732", 
   "CuratorApproved": "Y", 
-  "Title": "Health Chair", 
-  "DateAcquired": "NULL", 
+  "CreditLine": "Gift of the manufacturer", 
   "Date": "1938-1940", 
   "Keywords": [
     "online art collection", 
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "1659.1940", 
-  "ArtistBio": "American, est. 1911", 
-  "CreditLine": "Gift of the manufacturer", 
+  "ArtistBio": "(American, est. 1911)", 
+  "DateAcquired": "", 
+  "\ufeffTitle": "Health Chair", 
   "ObjectID": "4732"
 }

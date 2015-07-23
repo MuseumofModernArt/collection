@@ -1,12 +1,11 @@
 {
   "Medium": "Hand-colored pochoir", 
-  "Dimensions": "composition  11 1/2 x 16 7/8\" (29.2 x 42.9 cm)  irreg sheet  17 1/2 x 22 13/16\" (44 x 57.9 cm)", 
+  "Dimensions": "composition  11 1/2 x 16 7/8\" (29.2 x 42.9 cm)\r\nirreg sheet  17 1/2 x 22 13/16\" (44 x 57.9 cm)", 
   "Classification": "Print", 
   "Artist": "Ed Baynard", 
   "URL": "http://www.moma.org/collection/works/60449", 
   "CuratorApproved": "Y", 
-  "Title": "19", 
-  "DateAcquired": "1977-02-10", 
+  "CreditLine": "Gift of Lily Auchincloss", 
   "Date": "(1977)", 
   "ArtistID": 401, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "29.1977", 
-  "ArtistBio": "American, born 1940", 
-  "CreditLine": "Gift of Lily Auchincloss", 
+  "ArtistBio": "(American, born 1940)", 
+  "DateAcquired": "1977-02-10", 
+  "\ufeffTitle": "19", 
   "ObjectID": "60449"
 }

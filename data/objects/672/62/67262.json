@@ -5,8 +5,7 @@
   "Artist": "Lucio Pozzi", 
   "URL": "http://www.moma.org/collection/works/67262", 
   "CuratorApproved": "Y", 
-  "Title": "Location", 
-  "DateAcquired": "1980-02-25", 
+  "CreditLine": "Jeanne C. Thayer Fund", 
   "Date": "1979", 
   "ArtistID": 4719, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "341.1980.1-4", 
-  "ArtistBio": "American, born 1935", 
-  "CreditLine": "Jeanne C. Thayer Fund", 
+  "ArtistBio": "(American, born 1935)", 
+  "DateAcquired": "1980-02-25", 
+  "\ufeffTitle": "Location", 
   "ObjectID": "67262"
 }

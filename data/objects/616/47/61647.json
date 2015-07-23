@@ -5,8 +5,7 @@
   "Artist": "Alexander Calder", 
   "URL": "http://www.moma.org/collection/works/61647", 
   "CuratorApproved": "Y", 
-  "Title": "Lunar View (Aspect lunaire)", 
-  "DateAcquired": "1970-03-05", 
+  "CreditLine": "John B. Turner Fund", 
   "Date": "1961", 
   "ArtistID": 922, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "88.1970", 
-  "ArtistBio": "American, 1898\u20131976", 
-  "CreditLine": "John B. Turner Fund", 
+  "ArtistBio": "(American, 1898\u20131976)", 
+  "DateAcquired": "1970-03-05", 
+  "\ufeffTitle": "Lunar View (Aspect lunaire)", 
   "ObjectID": "61647"
 }

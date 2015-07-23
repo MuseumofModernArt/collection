@@ -1,12 +1,11 @@
 {
   "Medium": "Offset lithograph", 
-  "Dimensions": "unfolded composition  16 x 13 7/16\" (40.7 x 34.1 cm)  unfolded sheet  16 x 13 7/16\" (40.7 x 34.1 cm)", 
+  "Dimensions": "unfolded composition  16 x 13 7/16\" (40.7 x 34.1 cm)\r\nunfolded sheet  16 x 13 7/16\" (40.7 x 34.1 cm)", 
   "Classification": "Print", 
   "Artist": "Ed Bereal", 
   "URL": "http://www.moma.org/collection/works/69541", 
   "CuratorApproved": "Y", 
-  "Title": "Self-Portrait from S.M.S. No. 6, December 1968", 
-  "DateAcquired": "1977-11-10", 
+  "CreditLine": "Gift of Carol O. Selle", 
   "Date": "1968", 
   "ArtistID": 489, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "460.1977.6i", 
-  "ArtistBio": "American, born 1937", 
-  "CreditLine": "Gift of Carol O. Selle", 
+  "ArtistBio": "(American, born 1937)", 
+  "DateAcquired": "1977-11-10", 
+  "\ufeffTitle": "Self-Portrait from S.M.S. No. 6", 
   "ObjectID": "69541"
 }

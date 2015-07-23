@@ -5,8 +5,7 @@
   "Artist": "Aleksandr Rodchenko", 
   "URL": "http://www.moma.org/collection/works/43868", 
   "CuratorApproved": "Y", 
-  "Title": "Lumber", 
-  "DateAcquired": "1971-01-05", 
+  "CreditLine": "Gift of the photographer", 
   "Date": "1930", 
   "ArtistID": 4975, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "1.1971", 
-  "ArtistBio": "Russian, 1891\u20131956", 
-  "CreditLine": "Gift of the photographer", 
+  "ArtistBio": "(Russian, 1891\u20131956)", 
+  "DateAcquired": "1971-01-05", 
+  "\ufeffTitle": "Lumber", 
   "ObjectID": "43868"
 }

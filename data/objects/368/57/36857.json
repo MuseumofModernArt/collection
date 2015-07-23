@@ -5,8 +5,7 @@
   "Artist": "Pierre Bonnard", 
   "URL": "http://www.moma.org/collection/works/36857", 
   "CuratorApproved": "Y", 
-  "Title": "View of Vence", 
-  "DateAcquired": "1974-10-25", 
+  "CreditLine": "Bequest of Eve Clendenin", 
   "Date": "(n.d.)", 
   "ArtistID": 665, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "429.1974", 
-  "ArtistBio": "French, 1867\u20131947", 
-  "CreditLine": "Bequest of Eve Clendenin", 
+  "ArtistBio": "(French, 1867\u20131947)", 
+  "DateAcquired": "1974-10-25", 
+  "\ufeffTitle": "View of Vence", 
   "ObjectID": "36857"
 }

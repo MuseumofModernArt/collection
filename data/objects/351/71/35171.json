@@ -5,8 +5,7 @@
   "Artist": "Bruce Nauman", 
   "URL": "http://www.moma.org/collection/works/35171", 
   "CuratorApproved": "Y", 
-  "Title": "Face Mask", 
-  "DateAcquired": "1982-06-01", 
+  "CreditLine": "Acquired with matching funds from The Lauder Foundation and the National Endowment for the Arts", 
   "Date": "1981", 
   "ArtistID": 4243, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "190.1982", 
-  "ArtistBio": "American, born 1941", 
-  "CreditLine": "Acquired with matching funds from The Lauder Foundation and the National Endowment for the Arts", 
+  "ArtistBio": "(American, born 1941)", 
+  "DateAcquired": "1982-06-01", 
+  "\ufeffTitle": "Face Mask", 
   "ObjectID": "35171"
 }

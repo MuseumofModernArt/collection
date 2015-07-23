@@ -5,8 +5,7 @@
   "Artist": "Joel Shapiro", 
   "URL": "http://www.moma.org/collection/works/64750", 
   "CuratorApproved": "Y", 
-  "Title": "Thumbprint", 
-  "DateAcquired": "1976-05-11", 
+  "CreditLine": "Joanne M. Stern Fund", 
   "Date": "1970", 
   "ArtistID": 5373, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "226.1976", 
-  "ArtistBio": "American, born 1941", 
-  "CreditLine": "Joanne M. Stern Fund", 
+  "ArtistBio": "(American, born 1941)", 
+  "DateAcquired": "1976-05-11", 
+  "\ufeffTitle": "Thumbprint", 
   "ObjectID": "64750"
 }

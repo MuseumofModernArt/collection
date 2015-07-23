@@ -5,8 +5,7 @@
   "Artist": "Philip Guston", 
   "URL": "http://www.moma.org/collection/works/37638", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1988-02-19", 
+  "CreditLine": "Gift of Musa Guston", 
   "Date": "(1980)", 
   "ArtistID": 2419, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "624.1987", 
-  "ArtistBio": "American, born Canada. 1913\u20131980", 
-  "CreditLine": "Gift of Musa Guston", 
+  "ArtistBio": "(American, born Canada. 1913\u20131980)", 
+  "DateAcquired": "1988-02-19", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "37638"
 }

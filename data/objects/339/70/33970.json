@@ -5,8 +5,7 @@
   "Artist": "Carroll Dunham", 
   "URL": "http://www.moma.org/collection/works/33970", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "2000-02-03", 
+  "CreditLine": "Gift of Patricia and Morris Orden, New York", 
   "Date": "1998", 
   "ArtistID": 1652, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "105.2000", 
-  "ArtistBio": "American, born 1949", 
-  "CreditLine": "Gift of Patricia and Morris Orden, New York", 
+  "ArtistBio": "(American, born 1949)", 
+  "DateAcquired": "2000-02-03", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "33970"
 }

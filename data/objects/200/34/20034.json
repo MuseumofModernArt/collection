@@ -1,12 +1,11 @@
 {
   "Medium": "3 collotypes with pochoir", 
-  "Dimensions": "irreg. page  15 9/16 x 11 5/16\" (39 x 28.8 cm)  Prints:  various dimensions.", 
+  "Dimensions": "irreg. page  15 9/16 x 11 5/16\" (39 x 28.8 cm)\r\nPrints:  various dimensions.", 
   "Classification": "Illustrated Book", 
   "Artist": "Pierre Alechinsky", 
   "URL": "http://www.moma.org/collection/works/20034", 
   "CuratorApproved": "Y", 
-  "Title": "Par exp\u00e9rience", 
-  "DateAcquired": "1978-10-17", 
+  "CreditLine": "Gift of the artist", 
   "Date": "1976", 
   "ArtistID": 107, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "660.1978.1-3", 
-  "ArtistBio": "Belgian, born 1927", 
-  "CreditLine": "Gift of the artist", 
+  "ArtistBio": "(Belgian, born 1927)", 
+  "DateAcquired": "1978-10-17", 
+  "\ufeffTitle": "Par exp\u00e9rience", 
   "ObjectID": "20034"
 }

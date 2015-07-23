@@ -5,8 +5,7 @@
   "Artist": "Ernst Barlach", 
   "URL": "http://www.moma.org/collection/works/66248", 
   "CuratorApproved": "Y", 
-  "Title": "Rest", 
-  "DateAcquired": "1954-09-30", 
+  "CreditLine": "Gift of Samuel A. Berger", 
   "Date": "(1924)", 
   "ArtistID": 335, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "293.1954", 
-  "ArtistBio": "German, 1870\u20131938", 
-  "CreditLine": "Gift of Samuel A. Berger", 
+  "ArtistBio": "(German, 1870\u20131938)", 
+  "DateAcquired": "1954-09-30", 
+  "\ufeffTitle": "Rest (Rast)", 
   "ObjectID": "66248"
 }

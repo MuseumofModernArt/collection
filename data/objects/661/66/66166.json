@@ -1,12 +1,11 @@
 {
   "Medium": "Lithograph", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "David Salle", 
   "URL": "http://www.moma.org/collection/works/66166", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled from the series Theme for an Aztec Moralist", 
-  "DateAcquired": "1989-10-12", 
+  "CreditLine": "Gift of Edition Schellmann, Munich and New York", 
   "Date": "1983", 
   "ArtistID": 5124, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "290.1989", 
-  "ArtistBio": "American, born 1952", 
-  "CreditLine": "Gift of Edition Schellmann, Munich and New York", 
+  "ArtistBio": "(American, born 1952)", 
+  "DateAcquired": "1989-10-12", 
+  "\ufeffTitle": "Untitled from the series Theme for an Aztec Moralist", 
   "ObjectID": "66166"
 }

@@ -1,12 +1,11 @@
 {
   "Medium": "Screenprint", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "Arman", 
   "URL": "http://www.moma.org/collection/works/59760", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1996-03-12", 
+  "CreditLine": "Gift of Agnes Gund", 
   "Date": "(1978)", 
   "ArtistID": 220, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "8.1996", 
-  "ArtistBio": "American, born France. 1928\u20132005", 
-  "CreditLine": "Gift of Agnes Gund", 
+  "ArtistBio": "(American, born France. 1928\u20132005)", 
+  "DateAcquired": "1996-03-12", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "59760"
 }

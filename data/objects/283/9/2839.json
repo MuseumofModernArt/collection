@@ -5,8 +5,7 @@
   "Artist": "Michael Lax", 
   "URL": "http://www.moma.org/collection/works/2839", 
   "CuratorApproved": "Y", 
-  "Title": "Modulion 10 Ionizer", 
-  "DateAcquired": "1981-04-30", 
+  "CreditLine": "Gift of the designer", 
   "Date": "1980", 
   "ArtistID": 3421, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "227.1981", 
-  "ArtistBio": "American, born 1929", 
-  "CreditLine": "Gift of the designer", 
+  "ArtistBio": "(American, born 1929)", 
+  "DateAcquired": "1981-04-30", 
+  "\ufeffTitle": "Modulion 10 Ionizer", 
   "ObjectID": "2839"
 }

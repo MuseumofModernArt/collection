@@ -1,12 +1,11 @@
 {
   "Medium": "Line-cut with embossing", 
-  "Dimensions": "irreg composition  24 3/8 x 18 1/4\" (62 x 46.3 cm)  irreg sheet  24 3/8 x 18 1/4\" (62 x 46.3 cm)", 
+  "Dimensions": "irreg composition  24 3/8 x 18 1/4\" (62 x 46.3 cm)\r\nirreg sheet  24 3/8 x 18 1/4\" (62 x 46.3 cm)", 
   "Classification": "Print", 
   "Artist": "Roy Lichtenstein", 
   "URL": "http://www.moma.org/collection/works/67472", 
   "CuratorApproved": "Y", 
-  "Title": "Modern Head #3 from the Modern Head Series", 
-  "DateAcquired": "1971-03-30", 
+  "CreditLine": "Gift of Mrs. Portia Harcus", 
   "Date": "1970", 
   "ArtistID": 3542, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "350.1971", 
-  "ArtistBio": "American, 1923\u20131997", 
-  "CreditLine": "Gift of Mrs. Portia Harcus", 
+  "ArtistBio": "(American, 1923\u20131997)", 
+  "DateAcquired": "1971-03-30", 
+  "\ufeffTitle": "Modern Head #3 from the Modern Head Series", 
   "ObjectID": "67472"
 }

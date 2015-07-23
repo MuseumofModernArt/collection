@@ -5,8 +5,7 @@
   "Artist": "John Behringer", 
   "URL": "http://www.moma.org/collection/works/2261", 
   "CuratorApproved": "Y", 
-  "Title": "Link Bench (model 656)", 
-  "DateAcquired": "1963-02-13", 
+  "CreditLine": "Phyllis B. Lambert Fund", 
   "Date": "1961", 
   "ArtistID": 440, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "132.1963.a-c", 
-  "ArtistBio": "American, born 1939", 
-  "CreditLine": "Phyllis B. Lambert Fund", 
+  "ArtistBio": "(American, born 1939)", 
+  "DateAcquired": "1963-02-13", 
+  "\ufeffTitle": "Link Bench (model 656)", 
   "ObjectID": "2261"
 }

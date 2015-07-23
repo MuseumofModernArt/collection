@@ -5,8 +5,7 @@
   "Artist": "Unknown Artist", 
   "URL": "http://www.moma.org/collection/works/5569", 
   "CuratorApproved": "Y", 
-  "Title": "Zeichnet 5 1/2% Dritte Kriegs-Anleihe", 
-  "DateAcquired": "1968-03-07", 
+  "CreditLine": "Gift of Peter M\u00fcller-Munk", 
   "Date": "c. 1916", 
   "ArtistID": 6026, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "182.1968", 
-  "ArtistBio": "Nationality Unknown", 
-  "CreditLine": "Gift of Peter M\u00fcller-Munk", 
+  "ArtistBio": "(Nationality Unknown)", 
+  "DateAcquired": "1968-03-07", 
+  "\ufeffTitle": "Zeichnet 5 1/2% Dritte Kriegs-Anleihe", 
   "ObjectID": "5569"
 }

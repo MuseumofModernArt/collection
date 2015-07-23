@@ -5,8 +5,7 @@
   "Artist": "Alfred Stieglitz", 
   "URL": "http://www.moma.org/collection/works/55273", 
   "CuratorApproved": "Y", 
-  "Title": "Georgia O'Keeffe - Hands and Thimble", 
-  "DateAcquired": "1980-10-23", 
+  "CreditLine": "Gift of David H. McAlpin", 
   "Date": "1919", 
   "ArtistID": 5664, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "573.1980", 
-  "ArtistBio": "American, 1864\u20131946", 
-  "CreditLine": "Gift of David H. McAlpin", 
+  "ArtistBio": "(American, 1864\u20131946)", 
+  "DateAcquired": "1980-10-23", 
+  "\ufeffTitle": "Georgia O'Keeffe - Hands and Thimble", 
   "ObjectID": "55273"
 }

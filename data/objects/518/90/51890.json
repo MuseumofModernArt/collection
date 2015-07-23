@@ -5,8 +5,7 @@
   "Artist": "Rosalind Fox Solomon", 
   "URL": "http://www.moma.org/collection/works/51890", 
   "CuratorApproved": "Y", 
-  "Title": "Burial, Guatemala", 
-  "DateAcquired": "1986-10-16", 
+  "CreditLine": "Gift of the photographer", 
   "Date": "1979", 
   "ArtistID": 5517, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "367.1986", 
-  "ArtistBio": "American, born 1930", 
-  "CreditLine": "Gift of the photographer", 
+  "ArtistBio": "(American, born 1930)", 
+  "DateAcquired": "1986-10-16", 
+  "\ufeffTitle": "Burial, Guatemala", 
   "ObjectID": "51890"
 }

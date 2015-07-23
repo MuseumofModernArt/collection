@@ -5,8 +5,7 @@
   "Artist": "Frank O. Gehry", 
   "URL": "http://www.moma.org/collection/works/1049", 
   "CuratorApproved": "Y", 
-  "Title": "Winton Guest House, Wayzata, Minnesota", 
-  "DateAcquired": "1987-11-18", 
+  "CreditLine": "Gift of the architect", 
   "Date": "1983\u20131987", 
   "ArtistID": 2108, 
   "Keywords": [
@@ -20,7 +19,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "440.1987", 
-  "ArtistBio": "American, born Canada 1929", 
-  "CreditLine": "Gift of the architect", 
+  "ArtistBio": "(American, born Canada 1929)", 
+  "DateAcquired": "1987-11-18", 
+  "\ufeffTitle": "Winton Guest House, Wayzata, Minnesota", 
   "ObjectID": "1049"
 }

@@ -5,8 +5,7 @@
   "Artist": "Coles Phillips", 
   "URL": "http://www.moma.org/collection/works/8184", 
   "CuratorApproved": "Y", 
-  "Title": "Light Consumes Coal", 
-  "DateAcquired": "1983-11-30", 
+  "CreditLine": "Acquired by exchange", 
   "Date": "c. 1917", 
   "ArtistID": 4599, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "808.1983", 
-  "ArtistBio": "American, 1880\u20131927", 
-  "CreditLine": "Acquired by exchange", 
+  "ArtistBio": "(American, 1880\u20131927)", 
+  "DateAcquired": "1983-11-30", 
+  "\ufeffTitle": "Light Consumes Coal", 
   "ObjectID": "8184"
 }

@@ -5,8 +5,7 @@
   "Artist": "Ernst Keller", 
   "URL": "http://www.moma.org/collection/works/7799", 
   "CuratorApproved": "Y", 
-  "Title": "Jemoli Gut und Billig", 
-  "DateAcquired": "1981-12-10", 
+  "CreditLine": "Given anonymously", 
   "Date": "1924", 
   "ArtistID": 3041, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "628.1981", 
-  "ArtistBio": "Swiss, 1891\u20131968", 
-  "CreditLine": "Given anonymously", 
+  "ArtistBio": "(Swiss, 1891\u20131968)", 
+  "DateAcquired": "1981-12-10", 
+  "\ufeffTitle": "Jemoli Gut und Billig", 
   "ObjectID": "7799"
 }

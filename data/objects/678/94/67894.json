@@ -5,8 +5,7 @@
   "Artist": "Armand S\u00e9guin", 
   "URL": "http://www.moma.org/collection/works/67894", 
   "CuratorApproved": "Y", 
-  "Title": "Young Girl", 
-  "DateAcquired": "1951-05-24", 
+  "CreditLine": "Purchase", 
   "Date": "c. 1895", 
   "ArtistID": 5320, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "368.1951", 
-  "ArtistBio": "French, 1869\u20131903", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(French, 1869\u20131903)", 
+  "DateAcquired": "1951-05-24", 
+  "\ufeffTitle": "Young Girl", 
   "ObjectID": "67894"
 }

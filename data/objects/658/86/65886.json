@@ -1,12 +1,11 @@
 {
   "Medium": "Etching with watercolor additions", 
-  "Dimensions": "composition  19 3/4 x 21 5/8\" (50.2 x 54.9 cm)  sheet  21 13/16 x 25 5/8\" (55.4 x 65.1 cm)", 
+  "Dimensions": "composition  19 3/4 x 21 5/8\" (50.2 x 54.9 cm)\r\nsheet  21 13/16 x 25 5/8\" (55.4 x 65.1 cm)", 
   "Classification": "Print", 
   "Artist": "Jim Dine", 
   "URL": "http://www.moma.org/collection/works/65886", 
   "CuratorApproved": "Y", 
-  "Title": "The Poets' Twelve Hearts", 
-  "DateAcquired": "1969-04-16", 
+  "CreditLine": "Gift of Barbara Jakobson and John R. Jakobson", 
   "Date": "1969", 
   "ArtistID": 1547, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "278.1969", 
-  "ArtistBio": "American, born 1935", 
-  "CreditLine": "Gift of Barbara Jakobson and John R. Jakobson", 
+  "ArtistBio": "(American, born 1935)", 
+  "DateAcquired": "1969-04-16", 
+  "\ufeffTitle": "The Poets' Twelve Hearts", 
   "ObjectID": "65886"
 }

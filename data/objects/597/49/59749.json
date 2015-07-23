@@ -5,8 +5,7 @@
   "Artist": "Mel Bochner", 
   "URL": "http://www.moma.org/collection/works/59749", 
   "CuratorApproved": "Y", 
-  "Title": "Rules of Inference", 
-  "DateAcquired": "1979-01-23", 
+  "CreditLine": "John B. Turner Fund", 
   "Date": "1974", 
   "ArtistID": 625, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "8.1979", 
-  "ArtistBio": "American, born 1940", 
-  "CreditLine": "John B. Turner Fund", 
+  "ArtistBio": "(American, born 1940)", 
+  "DateAcquired": "1979-01-23", 
+  "\ufeffTitle": "Rules of Inference", 
   "ObjectID": "59749"
 }

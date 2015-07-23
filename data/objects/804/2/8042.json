@@ -5,8 +5,7 @@
   "Artist": "Rudolph Bauer", 
   "URL": "http://www.moma.org/collection/works/8042", 
   "CuratorApproved": "Y", 
-  "Title": "Poster for Expressionists' Art Exhibition at Der Sturm", 
-  "DateAcquired": "1983-11-30", 
+  "CreditLine": "Peter Stone Fund", 
   "Date": "1916", 
   "ArtistID": 385, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "751.1983", 
-  "ArtistBio": "American, born Poland. 1889\u20131954", 
-  "CreditLine": "Peter Stone Fund", 
+  "ArtistBio": "(American, born Poland. 1889\u20131954)", 
+  "DateAcquired": "1983-11-30", 
+  "\ufeffTitle": "Poster for Expressionists' Art Exhibition at Der Sturm (Expressionisten Kunstausstellung Der Sturm)", 
   "ObjectID": "8042"
 }

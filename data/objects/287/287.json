@@ -5,8 +5,7 @@
   "Artist": "Herbert Bayer", 
   "URL": "http://www.moma.org/collection/works/287", 
   "CuratorApproved": "Y", 
-  "Title": "Bauhaus 1919-1928, The Museum of Modern Art, New York, December 7, 1938-January 30, 1939  Exhibition floor plan", 
-  "DateAcquired": "1986-10-07", 
+  "CreditLine": "Purchase", 
   "Date": "1938", 
   "ArtistID": 399, 
   "Keywords": [
@@ -22,7 +21,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "252.1986", 
-  "ArtistBio": "American, born Austria. 1900\u20131985", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, born Austria. 1900\u20131985)", 
+  "DateAcquired": "1986-10-07", 
+  "\ufeffTitle": "\"Bauhaus 1919-1928,\" The Museum of Modern Art, New York, December 7, 1938-January 30, 1939, Exhibition floor plan", 
   "ObjectID": "287"
 }

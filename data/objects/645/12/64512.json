@@ -1,12 +1,11 @@
 {
   "Medium": "Monotype, printed in color", 
-  "Dimensions": "Composition: 30 7/8 x 42\" (78.4 x 106.7 cm)  Sheet: 30 7/8 x 42\" (78.4 x 106.7 cm)", 
+  "Dimensions": "Composition: 30 7/8 x 42\" (78.4 x 106.7 cm)\r\nSheet: 30 7/8 x 42\" (78.4 x 106.7 cm)", 
   "Classification": "Print", 
   "Artist": "Richard Bosman", 
   "URL": "http://www.moma.org/collection/works/64512", 
   "CuratorApproved": "Y", 
-  "Title": "The Swimmer", 
-  "DateAcquired": "1983-01-18", 
+  "CreditLine": "Gift of Nelson Blitz, Jr.", 
   "Date": "1982", 
   "ArtistID": 689, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "213.1983", 
-  "ArtistBio": "Australian, born 1944", 
-  "CreditLine": "Gift of Nelson Blitz, Jr.", 
+  "ArtistBio": "(Australian, born 1944)", 
+  "DateAcquired": "1983-01-18", 
+  "\ufeffTitle": "The Swimmer", 
   "ObjectID": "64512"
 }

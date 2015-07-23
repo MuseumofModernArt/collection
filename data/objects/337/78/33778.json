@@ -5,8 +5,7 @@
   "Artist": "Max Beckmann", 
   "URL": "http://www.moma.org/collection/works/33778", 
   "CuratorApproved": "Y", 
-  "Title": "A Mirror on an Easel", 
-  "DateAcquired": "1979-05-07", 
+  "CreditLine": "Gift of Sanford Schwartz in memory of Irving Drutman", 
   "Date": "1926", 
   "ArtistID": 429, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "87.1979", 
-  "ArtistBio": "German, 1884\u20131950", 
-  "CreditLine": "Gift of Sanford Schwartz in memory of Irving Drutman", 
+  "ArtistBio": "(German, 1884\u20131950)", 
+  "DateAcquired": "1979-05-07", 
+  "\ufeffTitle": "A Mirror on an Easel (Spiegel auf einer Staffelei)", 
   "ObjectID": "33778"
 }

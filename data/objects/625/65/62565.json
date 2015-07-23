@@ -1,12 +1,11 @@
 {
   "Medium": "Screenprint", 
-  "Dimensions": "composition  29 11/16 x 488 3/16\" (75.4 x 1240 cm)  sheet  29 11/16 x 488 3/16\" (75 x 1240 cm)", 
+  "Dimensions": "composition  29 11/16 x 488 3/16\" (75.4 x 1240 cm)\r\nsheet  29 11/16 x 488 3/16\" (75 x 1240 cm)", 
   "Classification": "Print", 
   "Artist": "Robert Gober", 
   "URL": "http://www.moma.org/collection/works/62565", 
   "CuratorApproved": "Y", 
-  "Title": "Hanging Man Sleeping Man", 
-  "DateAcquired": "1992-01-22", 
+  "CreditLine": "John B. Turner Fund", 
   "Date": "1989", 
   "ArtistID": 2199, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "135.1992", 
-  "ArtistBio": "American, born 1954", 
-  "CreditLine": "John B. Turner Fund", 
+  "ArtistBio": "(American, born 1954)", 
+  "DateAcquired": "1992-01-22", 
+  "\ufeffTitle": "Hanging Man Sleeping Man", 
   "ObjectID": "62565"
 }

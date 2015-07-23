@@ -5,8 +5,7 @@
   "Artist": "Pablo Picasso", 
   "URL": "http://www.moma.org/collection/works/29720", 
   "CuratorApproved": "Y", 
-  "Title": "Duplicate of plate from folio 23 (supplementary suite) from \u00c9l\u00e9gie d'Ihp\u00e9tonga", 
-  "DateAcquired": "1964-10-06", 
+  "CreditLine": "The Louis E. Stern Collection", 
   "Date": "1949", 
   "ArtistID": 4609, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "991.1964.8", 
-  "ArtistBio": "Spanish, 1881\u20131973", 
-  "CreditLine": "The Louis E. Stern Collection", 
+  "ArtistBio": "(Spanish, 1881\u20131973)", 
+  "DateAcquired": "1964-10-06", 
+  "\ufeffTitle": "Duplicate of plate from folio 23 (supplementary suite) from the illustrated book \u00c9l\u00e9gie d'Ihp\u00e9tonga", 
   "ObjectID": "29720"
 }

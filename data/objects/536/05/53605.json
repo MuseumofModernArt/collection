@@ -5,8 +5,7 @@
   "Artist": "Roger Doloy", 
   "URL": "http://www.moma.org/collection/works/53605", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1960-11-30", 
+  "CreditLine": "Gift of the photographer", 
   "Date": "1958", 
   "ArtistID": 1576, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "456.1960", 
-  "ArtistBio": "French, born 1920", 
-  "CreditLine": "Gift of the photographer", 
+  "ArtistBio": "(French, born 1920)", 
+  "DateAcquired": "1960-11-30", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "53605"
 }

@@ -5,8 +5,7 @@
   "Artist": "Karl Hofer", 
   "URL": "http://www.moma.org/collection/works/33956", 
   "CuratorApproved": "Y", 
-  "Title": "Two Women by the Shore", 
-  "DateAcquired": "1978-04-04", 
+  "CreditLine": "The Joan and Lester Avnet Collection", 
   "Date": "(c. 1928-29)", 
   "ArtistID": 2686, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "103.1978", 
-  "ArtistBio": "German, 1878\u20131955", 
-  "CreditLine": "The Joan and Lester Avnet Collection", 
+  "ArtistBio": "(German, 1878\u20131955)", 
+  "DateAcquired": "1978-04-04", 
+  "\ufeffTitle": "Two Women by the Shore", 
   "ObjectID": "33956"
 }

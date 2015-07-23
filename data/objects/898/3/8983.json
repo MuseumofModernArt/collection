@@ -5,8 +5,7 @@
   "Artist": "Alphonse Mucha", 
   "URL": "http://www.moma.org/collection/works/8983", 
   "CuratorApproved": "Y", 
-  "Title": "Med\u00e9e (Medea)", 
-  "DateAcquired": "1967-10-18", 
+  "CreditLine": "Gift of Mr. Joseph H. Heil", 
   "Date": "1898", 
   "ArtistID": 4136, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "2280.1967", 
-  "ArtistBio": "Czech, born Moravia (then Austria). 1860\u20131939", 
-  "CreditLine": "Gift of Mr. Joseph H. Heil", 
+  "ArtistBio": "(Czech, born Moravia (then Austria). 1860\u20131939)", 
+  "DateAcquired": "1967-10-18", 
+  "\ufeffTitle": "Med\u00e9e (Medea) (Poster for a performance by Sarah Bernhardt at the Th\u00e9\u00e2tre de la Renaissance, Paris)", 
   "ObjectID": "8983"
 }

@@ -5,8 +5,7 @@
   "Artist": "Imogen Cunningham", 
   "URL": "http://www.moma.org/collection/works/45606", 
   "CuratorApproved": "Y", 
-  "Title": "Glacial Lily", 
-  "DateAcquired": "1940-04-05", 
+  "CreditLine": "Gift of Albert M. Bender", 
   "Date": "1927", 
   "ArtistID": 1332, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "72.1940", 
-  "ArtistBio": "American, 1883\u20131976", 
-  "CreditLine": "Gift of Albert M. Bender", 
+  "ArtistBio": "(American, 1883\u20131976)", 
+  "DateAcquired": "1940-04-05", 
+  "\ufeffTitle": "Glacial Lily", 
   "ObjectID": "45606"
 }

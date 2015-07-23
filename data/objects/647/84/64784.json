@@ -5,9 +5,8 @@
   "Artist": "Louise Bourgeois", 
   "URL": "http://www.moma.org/collection/works/64784", 
   "CuratorApproved": "Y", 
-  "Title": "St. Germain, only state", 
-  "DateAcquired": "1992-05-20", 
-  "Date": "(1938)", 
+  "CreditLine": "Gift of the artist", 
+  "Date": "1938", 
   "ArtistID": 710, 
   "Keywords": [
     "online art collection", 
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "228.1992", 
-  "ArtistBio": "American, born France. 1911\u20132010", 
-  "CreditLine": "Gift of the artist", 
+  "ArtistBio": "(American, born France. 1911\u20132010)", 
+  "DateAcquired": "1992-05-20", 
+  "\ufeffTitle": "St. Germain", 
   "ObjectID": "64784"
 }

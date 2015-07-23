@@ -5,8 +5,7 @@
   "Artist": "Aleksandr Rodchenko", 
   "URL": "http://www.moma.org/collection/works/7574", 
   "CuratorApproved": "Y", 
-  "Title": "Materializatsia fantastiki by Ilya Erenberg", 
-  "DateAcquired": "1977-11-28", 
+  "CreditLine": "Jan Tschichold Collection, Gift of Philip Johnson", 
   "Date": "1927", 
   "ArtistID": 4975, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "572.1977", 
-  "ArtistBio": "Russian, 1891\u20131956", 
-  "CreditLine": "Jan Tschichold Collection, Gift of Philip Johnson", 
+  "ArtistBio": "(Russian, 1891\u20131956)", 
+  "DateAcquired": "1977-11-28", 
+  "\ufeffTitle": "\"Materializatsia fantastiki\" by Ilya Erenberg", 
   "ObjectID": "7574"
 }

@@ -1,12 +1,11 @@
 {
   "Medium": "Earthenware", 
-  "Dimensions": ".1 (square dish): 1 1/2 x 9 3/8 x 9 3/8\" (3.8 x 23.8 x 23.8 cm)   .2 (oval dish): 1 1/2 x 12 x 9 7/8\" (3.8 x 30.5 x 25.1 cm)", 
+  "Dimensions": ".1 (square dish): 1 1/2 x 9 3/8 x 9 3/8\" (3.8 x 23.8 x 23.8 cm) \r\n.2 (oval dish): 1 1/2 x 12 x 9 7/8\" (3.8 x 30.5 x 25.1 cm)", 
   "Classification": "A&D Design", 
   "Artist": "Kaj Franck", 
   "URL": "http://www.moma.org/collection/works/4220", 
   "CuratorApproved": "Y", 
-  "Title": "Hors d'Oeuvre Dish", 
-  "DateAcquired": "1995-09-17", 
+  "CreditLine": "Gift of Mr. & Mrs. Walter Hochschild Purchase Fund", 
   "Date": "1957", 
   "ArtistID": 1968, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "683.1995.1-2", 
-  "ArtistBio": "Finnish, 1911\u20131989", 
-  "CreditLine": "Gift of Mr. & Mrs. Walter Hochschild Purchase Fund", 
+  "ArtistBio": "(Finnish, 1911\u20131989)", 
+  "DateAcquired": "1995-09-17", 
+  "\ufeffTitle": "Hors d'Oeuvre Dish", 
   "ObjectID": "4220"
 }

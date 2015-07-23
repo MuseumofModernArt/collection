@@ -5,8 +5,7 @@
   "Artist": "Andreas Gursky", 
   "URL": "http://www.moma.org/collection/works/45748", 
   "CuratorApproved": "Y", 
-  "Title": "Sha Tin", 
-  "DateAcquired": "1995-03-09", 
+  "CreditLine": "Horace W. Goldsmith Fund through Robert B. Menschel", 
   "Date": "1994", 
   "ArtistID": 7806, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "76.1995", 
-  "ArtistBio": "German, born 1955", 
-  "CreditLine": "Horace W. Goldsmith Fund through Robert B. Menschel", 
+  "ArtistBio": "(German, born 1955)", 
+  "DateAcquired": "1995-03-09", 
+  "\ufeffTitle": "Sha Tin", 
   "ObjectID": "45748"
 }

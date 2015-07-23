@@ -1,12 +1,11 @@
 {
   "Medium": "Etching and aquatint", 
-  "Dimensions": "plate  23 9/16 x 28 1/4\" (59.8 x 71.7 cm)  sheet  27 9/16 x 40 5/8\" (70 x 103.2 cm)", 
+  "Dimensions": "plate  23 9/16 x 28 1/4\" (59.8 x 71.7 cm)\r\nsheet  27 9/16 x 40 5/8\" (70 x 103.2 cm)", 
   "Classification": "Print", 
   "Artist": "Cy Twombly", 
   "URL": "http://www.moma.org/collection/works/65844", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled I", 
-  "DateAcquired": "1974-04-23", 
+  "CreditLine": "Gift of Celeste Bartos", 
   "Date": "(1967-74, dated 1967)", 
   "ArtistID": 5988, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "276.1974", 
-  "ArtistBio": "American, 1928\u20132011", 
-  "CreditLine": "Gift of Celeste Bartos", 
+  "ArtistBio": "(American, 1928\u20132011)", 
+  "DateAcquired": "1974-04-23", 
+  "\ufeffTitle": "Untitled I", 
   "ObjectID": "65844"
 }

@@ -5,8 +5,7 @@
   "Artist": "Salvador Dal\u00ed", 
   "URL": "http://www.moma.org/collection/works/66887", 
   "CuratorApproved": "Y", 
-  "Title": "The Grasshopper Child (Enfant sauterelle)", 
-  "DateAcquired": "1948-10-06", 
+  "CreditLine": "Gift of Victor S. Riesenfeld", 
   "Date": "1933", 
   "ArtistID": 1364, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "321.1948", 
-  "ArtistBio": "Spanish, 1904\u20131989", 
-  "CreditLine": "Gift of Victor S. Riesenfeld", 
+  "ArtistBio": "(Spanish, 1904\u20131989)", 
+  "DateAcquired": "1948-10-06", 
+  "\ufeffTitle": "The Grasshopper Child (Enfant sauterelle)", 
   "ObjectID": "66887"
 }

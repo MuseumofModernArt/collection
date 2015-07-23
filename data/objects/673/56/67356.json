@@ -5,8 +5,7 @@
   "Artist": "Karl Schmidt-Rottluff", 
   "URL": "http://www.moma.org/collection/works/67356", 
   "CuratorApproved": "Y", 
-  "Title": "Two Men at a Table", 
-  "DateAcquired": "1950-11-15", 
+  "CreditLine": "Purchase", 
   "Date": "1923", 
   "ArtistID": 5242, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "345.1950", 
-  "ArtistBio": "German, 1884\u20131976", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(German, 1884\u20131976)", 
+  "DateAcquired": "1950-11-15", 
+  "\ufeffTitle": "Two Men at a Table (Zwei M\u00e4nner am Tisch)", 
   "ObjectID": "67356"
 }

@@ -5,8 +5,7 @@
   "Artist": "Francis Frith", 
   "URL": "http://www.moma.org/collection/works/55807", 
   "CuratorApproved": "Y", 
-  "Title": "Melrose Abbey, Interior", 
-  "DateAcquired": "1976-12-08", 
+  "CreditLine": "Anonymous gift", 
   "Date": "c. 1860", 
   "ArtistID": 2015, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "646.1976", 
-  "ArtistBio": "British, 1822\u20131898", 
-  "CreditLine": "Anonymous gift", 
+  "ArtistBio": "(British, 1822\u20131898)", 
+  "DateAcquired": "1976-12-08", 
+  "\ufeffTitle": "Melrose Abbey, Interior", 
   "ObjectID": "55807"
 }

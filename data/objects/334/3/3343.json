@@ -5,8 +5,7 @@
   "Artist": "Enzo Mari", 
   "URL": "http://www.moma.org/collection/works/3343", 
   "CuratorApproved": "Y", 
-  "Title": "Object", 
-  "DateAcquired": "1960-11-16", 
+  "CreditLine": "Gift of Chase Manhattan Bank", 
   "Date": "1959", 
   "ArtistID": 3766, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "344.1960", 
-  "ArtistBio": "Italian, born 1932", 
-  "CreditLine": "Gift of Chase Manhattan Bank", 
+  "ArtistBio": "(Italian, born 1932)", 
+  "DateAcquired": "1960-11-16", 
+  "\ufeffTitle": "Object", 
   "ObjectID": "3343"
 }

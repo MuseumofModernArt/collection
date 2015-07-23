@@ -5,8 +5,7 @@
   "Artist": "Ludwig Meidner", 
   "URL": "http://www.moma.org/collection/works/36927", 
   "CuratorApproved": "Y", 
-  "Title": "Dr. Wilhelm Valentiner", 
-  "DateAcquired": "1967-05-09", 
+  "CreditLine": "L-B Foundation Fund", 
   "Date": "1919", 
   "ArtistID": 3909, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "443.1967", 
-  "ArtistBio": "German, 1884\u20131966", 
-  "CreditLine": "L-B Foundation Fund", 
+  "ArtistBio": "(German, 1884\u20131966)", 
+  "DateAcquired": "1967-05-09", 
+  "\ufeffTitle": "Dr. Wilhelm Valentiner", 
   "ObjectID": "36927"
 }

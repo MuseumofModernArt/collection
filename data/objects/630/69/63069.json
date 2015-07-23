@@ -5,8 +5,7 @@
   "Artist": "Christian Boltanski", 
   "URL": "http://www.moma.org/collection/works/63069", 
   "CuratorApproved": "Y", 
-  "Title": "Favorite Objects", 
-  "DateAcquired": "1999-05-20", 
+  "CreditLine": "Gift of Lee and Ann Fensterstock, in honor of their daughters, Kate and Jane", 
   "Date": "1998", 
   "ArtistID": 649, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "155.1999.1-264", 
-  "ArtistBio": "French, born 1944", 
-  "CreditLine": "Gift of Lee and Ann Fensterstock, in honor of their daughters, Kate and Jane", 
+  "ArtistBio": "(French, born 1944)", 
+  "DateAcquired": "1999-05-20", 
+  "\ufeffTitle": "Favorite Objects", 
   "ObjectID": "63069"
 }

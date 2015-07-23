@@ -1,12 +1,11 @@
 {
-  "Medium": "One from a portfolio of thirteen lithographs (including title page)    ", 
+  "Medium": "One from a portfolio of thirteen lithographs (including title page)\r\n\r\n", 
   "Dimensions": "composition (irreg.): 10 1/16 x 9 1/16\" (25.6 x 23 cm); sheet: 14 15/16 x 10 13/16\" (37.9 x 27.5 cm)", 
   "Classification": "Print", 
   "Artist": "Lovis Corinth", 
   "URL": "http://www.moma.org/collection/works/67785", 
   "CuratorApproved": "Y", 
-  "Title": "William Tell from William Tell", 
-  "DateAcquired": "1956-10-25", 
+  "CreditLine": "J. B. Neumann", 
   "Date": "(1923-24, published 1925)", 
   "ArtistID": 1243, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "364.1956.2", 
-  "ArtistBio": "German, 1858\u20131925", 
-  "CreditLine": "J. B. Neumann", 
+  "ArtistBio": "(German, 1858\u20131925)", 
+  "DateAcquired": "1956-10-25", 
+  "\ufeffTitle": "William Tell (Wilhelm Tell) from William Tell (Wilhelm Tell)", 
   "ObjectID": "67785"
 }

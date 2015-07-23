@@ -5,8 +5,7 @@
   "Artist": "Giovanni Pintori", 
   "URL": "http://www.moma.org/collection/works/8824", 
   "CuratorApproved": "Y", 
-  "Title": "Olivetti Lettera 22", 
-  "DateAcquired": "2000-12-11", 
+  "CreditLine": "Gift of the designer", 
   "Date": "c. 1953", 
   "ArtistID": 4629, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "1527.2000", 
-  "ArtistBio": "Italian, 1912\u20131999", 
-  "CreditLine": "Gift of the designer", 
+  "ArtistBio": "(Italian, 1912\u20131999)", 
+  "DateAcquired": "2000-12-11", 
+  "\ufeffTitle": "Olivetti Lettera 22", 
   "ObjectID": "8824"
 }

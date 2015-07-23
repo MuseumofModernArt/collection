@@ -5,8 +5,7 @@
   "Artist": "Andy Warhol", 
   "URL": "http://www.moma.org/collection/works/5134", 
   "CuratorApproved": "Y", 
-  "Title": "Perrier", 
-  "DateAcquired": "1986-05-16", 
+  "CreditLine": "Gift of The Lauder Foundation, Leonard and Evelyn Lauder Fund", 
   "Date": "1983", 
   "ArtistID": 6246, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "118.1989", 
-  "ArtistBio": "American, 1928\u20131987", 
-  "CreditLine": "Gift of The Lauder Foundation, Leonard and Evelyn Lauder Fund", 
+  "ArtistBio": "(American, 1928\u20131987)", 
+  "DateAcquired": "1986-05-16", 
+  "\ufeffTitle": "Perrier", 
   "ObjectID": "5134"
 }

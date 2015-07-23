@@ -5,8 +5,7 @@
   "Artist": "Unknown Designer", 
   "URL": "http://www.moma.org/collection/works/6391", 
   "CuratorApproved": "Y", 
-  "Title": "Z, Landesgewerbemuseum Stuttgart Ausstellung von Werkstattarbeiten und Zeichnungen der Gewerbeschule Z\u00fcrich", 
-  "DateAcquired": "1937-10-30", 
+  "CreditLine": "Special Purchase Fund", 
   "Date": "1930", 
   "ArtistID": 6026, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "343.1937", 
-  "ArtistBio": "Nationality unknown", 
-  "CreditLine": "Special Purchase Fund", 
+  "ArtistBio": "(Nationality unknown)", 
+  "DateAcquired": "1937-10-30", 
+  "\ufeffTitle": "Z, Landesgewerbemuseum Stuttgart Ausstellung von Werkstattarbeiten und Zeichnungen der Gewerbeschule Z\u00fcrich", 
   "ObjectID": "6391"
 }

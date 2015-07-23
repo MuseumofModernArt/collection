@@ -1,12 +1,11 @@
 {
   "Medium": "Journal with relief etching illustration", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Illustrated Book", 
   "Artist": "Th\u00e9ophile-Alexandre Steinlen", 
   "URL": "http://www.moma.org/collection/works/14371", 
   "CuratorApproved": "Y", 
-  "Title": "LA FEUILLE, no. 14", 
-  "DateAcquired": "1997-05-28", 
+  "CreditLine": "The Ralph E. Shikes Fund", 
   "Date": "June 16, 1898", 
   "ArtistID": 5634, 
   "Keywords": [
@@ -20,7 +19,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "260.1997", 
-  "ArtistBio": "French, 1859\u20131923", 
-  "CreditLine": "The Ralph E. Shikes Fund", 
+  "ArtistBio": "(French, 1859\u20131923)", 
+  "DateAcquired": "1997-05-28", 
+  "\ufeffTitle": "La Feuille, no. 14", 
   "ObjectID": "14371"
 }

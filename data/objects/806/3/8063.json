@@ -5,8 +5,7 @@
   "Artist": "Ivan Picelj", 
   "URL": "http://www.moma.org/collection/works/8063", 
   "CuratorApproved": "Y", 
-  "Title": "Nove Tendecije 2", 
-  "DateAcquired": "1963-12-10", 
+  "CreditLine": "Gift of the Galerija Suvremene Umjetnosti, Zagreb", 
   "Date": "1963", 
   "ArtistID": 4611, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "758.1963", 
-  "ArtistBio": "Yugoslav (now Croatia), born 1924", 
-  "CreditLine": "Gift of the Galerija Suvremene Umjetnosti, Zagreb", 
+  "ArtistBio": "(Yugoslav (now Croatia), born 1924)", 
+  "DateAcquired": "1963-12-10", 
+  "\ufeffTitle": "Nove Tendecije 2", 
   "ObjectID": "8063"
 }

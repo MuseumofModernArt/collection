@@ -5,8 +5,7 @@
   "Artist": "Robert Indiana", 
   "URL": "http://www.moma.org/collection/works/6994", 
   "CuratorApproved": "Y", 
-  "Title": "American Art Since 1960, The Art Museum, Princeton University, May 5 through May 27, 1970", 
-  "DateAcquired": "1976-10-22", 
+  "CreditLine": "Peter Stone Collection of Posters by Artists", 
   "Date": "1970", 
   "ArtistID": 2812, 
   "Keywords": [
@@ -21,7 +20,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "445.1976", 
-  "ArtistBio": "American, born 1928", 
-  "CreditLine": "Peter Stone Collection of Posters by Artists", 
+  "ArtistBio": "(American, born 1928)", 
+  "DateAcquired": "1976-10-22", 
+  "\ufeffTitle": "American Art Since 1960, The Art Museum, Princeton University, May 5 through May 27, 1970", 
   "ObjectID": "6994"
 }

@@ -1,12 +1,11 @@
 {
   "Medium": "Etching and aquatint from a portfolio of three lithographs, two photogravures, two screenprints with stencil and varnish additions, one aquatint, one etching and aquatint, and one screenprint", 
-  "Dimensions": "irreg. composition  14 5/16 x 13 3/8\" (36.4 x 34 cm)  sheet  16 1/2 x 13 3/8\" (41.9 x 34 cm)", 
+  "Dimensions": "irreg. composition  14 5/16 x 13 3/8\" (36.4 x 34 cm)\r\nsheet  16 1/2 x 13 3/8\" (41.9 x 34 cm)", 
   "Classification": "Print", 
   "Artist": "David Hockney", 
   "URL": "http://www.moma.org/collection/works/68713", 
   "CuratorApproved": "Y", 
-  "Title": "Panama Hat from Prints for Phoenix House", 
-  "DateAcquired": "1977-11-10", 
+  "CreditLine": "Gift of Brooke and Carolyn Alexander", 
   "Date": "1972", 
   "ArtistID": 2678, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "415.1977.6", 
-  "ArtistBio": "British, born 1937", 
-  "CreditLine": "Gift of Brooke and Carolyn Alexander", 
+  "ArtistBio": "(British, born 1937)", 
+  "DateAcquired": "1977-11-10", 
+  "\ufeffTitle": "Panama Hat from Prints for Phoenix House", 
   "ObjectID": "68713"
 }

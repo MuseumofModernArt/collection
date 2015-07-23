@@ -1,12 +1,11 @@
 {
   "Medium": "Six etchings", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "Axel Cassel", 
   "URL": "http://www.moma.org/collection/works/59635", 
   "CuratorApproved": "Y", 
-  "Title": "Petite Suite d'Objets Arch\u00e9ologiques", 
-  "DateAcquired": "1985-01-30", 
+  "CreditLine": "Walter Bareiss Fund", 
   "Date": "(1983)", 
   "ArtistID": 1017, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "4.1985.1-6", 
-  "ArtistBio": "French", 
-  "CreditLine": "Walter Bareiss Fund", 
+  "ArtistBio": "(French)", 
+  "DateAcquired": "1985-01-30", 
+  "\ufeffTitle": "Petite Suite d'Objets Arch\u00e9ologiques", 
   "ObjectID": "59635"
 }

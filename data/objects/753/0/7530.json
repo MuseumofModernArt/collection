@@ -5,8 +5,7 @@
   "Artist": "Herbert Bayer", 
   "URL": "http://www.moma.org/collection/works/7530", 
   "CuratorApproved": "Y", 
-  "Title": "The Human Eye-A Living Camera", 
-  "DateAcquired": "1999-12-10", 
+  "CreditLine": "Jan Tschichold Collection, Gift of Philip Johnson", 
   "Date": "1939", 
   "ArtistID": 399, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "559.1999", 
-  "ArtistBio": "American, born Austria. 1900\u20131985", 
-  "CreditLine": "Jan Tschichold Collection, Gift of Philip Johnson", 
+  "ArtistBio": "(American, born Austria. 1900\u20131985)", 
+  "DateAcquired": "1999-12-10", 
+  "\ufeffTitle": "The Human Eye-A Living Camera", 
   "ObjectID": "7530"
 }

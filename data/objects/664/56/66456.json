@@ -5,8 +5,7 @@
   "Artist": "Georges Rouault", 
   "URL": "http://www.moma.org/collection/works/66456", 
   "CuratorApproved": "Y", 
-  "Title": "Seated Nude", 
-  "DateAcquired": "1952-11-07", 
+  "CreditLine": "Purchase", 
   "Date": "1910", 
   "ArtistID": 5053, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "302.1952", 
-  "ArtistBio": "French, 1871\u20131958", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(French, 1871\u20131958)", 
+  "DateAcquired": "1952-11-07", 
+  "\ufeffTitle": "Seated Nude", 
   "ObjectID": "66456"
 }

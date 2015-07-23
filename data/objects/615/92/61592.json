@@ -5,8 +5,7 @@
   "Artist": "James Ensor", 
   "URL": "http://www.moma.org/collection/works/61592", 
   "CuratorApproved": "Y", 
-  "Title": "The Entrance of Christ into Brussels (L'Entr\u00e9e du Christ \u00e0 Bruxelles)", 
-  "DateAcquired": "1949-03-24", 
+  "CreditLine": "Purchase", 
   "Date": "1898", 
   "ArtistID": 1739, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "85.1949", 
-  "ArtistBio": "Belgian, 1860\u20131949", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(Belgian, 1860\u20131949)", 
+  "DateAcquired": "1949-03-24", 
+  "\ufeffTitle": "The Entrance of Christ into Brussels (L'Entr\u00e9e du Christ \u00e0 Bruxelles)", 
   "ObjectID": "61592"
 }

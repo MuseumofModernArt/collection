@@ -5,8 +5,7 @@
   "Artist": "Berenice Abbott", 
   "URL": "http://www.moma.org/collection/works/50686", 
   "CuratorApproved": "Y", 
-  "Title": "27th Avenue, no. 1422, Astoria", 
-  "DateAcquired": "1974-06-04", 
+  "CreditLine": "Given anonymously", 
   "Date": "May 25, 1937", 
   "ArtistID": 41, 
   "Keywords": [
@@ -21,7 +20,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "320.1974", 
-  "ArtistBio": "American, 1898\u20131991", 
-  "CreditLine": "Given anonymously", 
+  "ArtistBio": "(American, 1898\u20131991)", 
+  "DateAcquired": "1974-06-04", 
+  "\ufeffTitle": "27th Avenue, no. 1422, Astoria", 
   "ObjectID": "50686"
 }

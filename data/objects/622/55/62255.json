@@ -1,12 +1,11 @@
 {
   "Medium": "Aquatint with gouache additions", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "Jean Pierre Pincemin", 
   "URL": "http://www.moma.org/collection/works/62255", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1993-05-03", 
+  "CreditLine": "Purchase", 
   "Date": "1988", 
   "ArtistID": 7008, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "123.1993", 
-  "ArtistBio": "French, born 1944", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(French, born 1944)", 
+  "DateAcquired": "1993-05-03", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "62255"
 }

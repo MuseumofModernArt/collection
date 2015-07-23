@@ -5,8 +5,7 @@
   "Artist": "Juan Mu\u00f1oz", 
   "URL": "http://www.moma.org/collection/works/38712", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled (Balcony with Awning and Sketch below)", 
-  "DateAcquired": "2000-12-12", 
+  "CreditLine": "Purchase", 
   "Date": "(1984)", 
   "ArtistID": 7812, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "1615.2000", 
-  "ArtistBio": "Spanish, 1953\u20132001", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(Spanish, 1953\u20132001)", 
+  "DateAcquired": "2000-12-12", 
+  "\ufeffTitle": "Untitled (Balcony with Awning and Sketch below)", 
   "ObjectID": "38712"
 }

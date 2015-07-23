@@ -5,8 +5,7 @@
   "Artist": "Ikko Tanaka", 
   "URL": "http://www.moma.org/collection/works/7848", 
   "CuratorApproved": "Y", 
-  "Title": "Nihon Buyo", 
-  "DateAcquired": "1981-12-10", 
+  "CreditLine": "Gift of the College of Fine Arts, UCLA", 
   "Date": "1981", 
   "ArtistID": 5800, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "649.1981", 
-  "ArtistBio": "Japanese, 1930\u20132002", 
-  "CreditLine": "Gift of the College of Fine Arts, UCLA", 
+  "ArtistBio": "(Japanese, 1930\u20132002)", 
+  "DateAcquired": "1981-12-10", 
+  "\ufeffTitle": "Nihon Buyo", 
   "ObjectID": "7848"
 }

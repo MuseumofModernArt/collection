@@ -5,8 +5,7 @@
   "Artist": "Lucie Rie", 
   "URL": "http://www.moma.org/collection/works/4187", 
   "CuratorApproved": "Y", 
-  "Title": "Bowl", 
-  "DateAcquired": "1980-10-30", 
+  "CreditLine": "Zaidee Dufallo Fund", 
   "Date": "c. 1970", 
   "ArtistID": 4915, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "663.1980", 
-  "ArtistBio": "British, born Austria. 1902\u20131995", 
-  "CreditLine": "Zaidee Dufallo Fund", 
+  "ArtistBio": "(British, born Austria. 1902\u20131995)", 
+  "DateAcquired": "1980-10-30", 
+  "\ufeffTitle": "Bowl", 
   "ObjectID": "4187"
 }

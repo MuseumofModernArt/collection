@@ -5,8 +5,7 @@
   "Artist": "Maurice Sterne", 
   "URL": "http://www.moma.org/collection/works/34998", 
   "CuratorApproved": "Y", 
-  "Title": "Balinese Woman", 
-  "DateAcquired": "1978-04-04", 
+  "CreditLine": "The Joan and Lester Avnet Collection", 
   "Date": "1913", 
   "ArtistID": 5654, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "168.1978", 
-  "ArtistBio": "American, born Latvia. 1877\u20131957", 
-  "CreditLine": "The Joan and Lester Avnet Collection", 
+  "ArtistBio": "(American, born Latvia. 1877\u20131957)", 
+  "DateAcquired": "1978-04-04", 
+  "\ufeffTitle": "Balinese Woman", 
   "ObjectID": "34998"
 }

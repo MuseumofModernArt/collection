@@ -1,12 +1,11 @@
 {
   "Medium": "Etching", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "Asger Jorn", 
   "URL": "http://www.moma.org/collection/works/60677", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1947-03-13", 
+  "CreditLine": "Gift of the artist", 
   "Date": "1939", 
   "ArtistID": 2943, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "40.1947", 
-  "ArtistBio": "Danish, 1914\u20131973", 
-  "CreditLine": "Gift of the artist", 
+  "ArtistBio": "(Danish, 1914\u20131973)", 
+  "DateAcquired": "1947-03-13", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "60677"
 }

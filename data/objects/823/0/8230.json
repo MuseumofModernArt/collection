@@ -5,8 +5,7 @@
   "Artist": "Akihiko Tsukamoto", 
   "URL": "http://www.moma.org/collection/works/8230", 
   "CuratorApproved": "Y", 
-  "Title": "Wrestling, Picture Book", 
-  "DateAcquired": "1983-11-30", 
+  "CreditLine": "Gift of the designer", 
   "Date": "1983", 
   "ArtistID": 5959, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "831.1983", 
-  "ArtistBio": "Japanese, born 1952", 
-  "CreditLine": "Gift of the designer", 
+  "ArtistBio": "(Japanese, born 1952)", 
+  "DateAcquired": "1983-11-30", 
+  "\ufeffTitle": "Wrestling, Picture Book", 
   "ObjectID": "8230"
 }

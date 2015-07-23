@@ -1,12 +1,11 @@
 {
   "Medium": "Xerox", 
-  "Dimensions": "composition  13 3/4 x 8 1/2\" (34.9 x 21.6 cm)  sheet  13 3/4 x 8 1/2\" (34.9 x 21.6 cm)", 
+  "Dimensions": "composition  13 3/4 x 8 1/2\" (34.9 x 21.6 cm)\r\nsheet  13 3/4 x 8 1/2\" (34.9 x 21.6 cm)", 
   "Classification": "Print", 
   "Artist": "Susan Kaprov", 
   "URL": "http://www.moma.org/collection/works/62492", 
   "CuratorApproved": "Y", 
-  "Title": "Self Portrait", 
-  "DateAcquired": "1975-05-09", 
+  "CreditLine": "John R. Jakobson Foundation Fund", 
   "Date": "1975", 
   "ArtistID": 2996, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "133.1975", 
-  "ArtistBio": "American, born 1946", 
-  "CreditLine": "John R. Jakobson Foundation Fund", 
+  "ArtistBio": "(American, born 1946)", 
+  "DateAcquired": "1975-05-09", 
+  "\ufeffTitle": "Self Portrait", 
   "ObjectID": "62492"
 }

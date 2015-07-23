@@ -5,8 +5,7 @@
   "Artist": "Frederick Sommer", 
   "URL": "http://www.moma.org/collection/works/46939", 
   "CuratorApproved": "Y", 
-  "Title": "Still Life", 
-  "DateAcquired": "1969-03-05", 
+  "CreditLine": "Nelson Rockefeller Fund", 
   "Date": "1938", 
   "ArtistID": 5520, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "152.1969", 
-  "ArtistBio": "American, born Italy. 1905\u20131999", 
-  "CreditLine": "Nelson Rockefeller Fund", 
+  "ArtistBio": "(American, born Italy. 1905\u20131999)", 
+  "DateAcquired": "1969-03-05", 
+  "\ufeffTitle": "Still Life", 
   "ObjectID": "46939"
 }

@@ -1,12 +1,11 @@
 {
   "Medium": "Photolithograph on imitation snakeskin paper", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "Sigmar Polke", 
   "URL": "http://www.moma.org/collection/works/65053", 
   "CuratorApproved": "Y", 
-  "Title": "Figure with Hand (Dizzy...) (Figur mit Hand (Es schwindelt...))", 
-  "DateAcquired": "1997-05-28", 
+  "CreditLine": "Johanna and Leslie J. Garfield Fund", 
   "Date": "1973", 
   "ArtistID": 4671, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "241.1997", 
-  "ArtistBio": "German, 1941\u20132010", 
-  "CreditLine": "Johanna and Leslie J. Garfield Fund", 
+  "ArtistBio": "(German, 1941\u20132010)", 
+  "DateAcquired": "1997-05-28", 
+  "\ufeffTitle": "Figure with Hand (Dizzy...) (Figur mit Hand (Es schwindelt...))", 
   "ObjectID": "65053"
 }

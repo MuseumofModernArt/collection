@@ -5,8 +5,7 @@
   "Artist": "Lisette Model", 
   "URL": "http://www.moma.org/collection/works/45816", 
   "CuratorApproved": "Y", 
-  "Title": "Nice", 
-  "DateAcquired": "1941-01-16", 
+  "CreditLine": "Given anonymously", 
   "Date": "1938", 
   "ArtistID": 4036, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "80.1941", 
-  "ArtistBio": "American, born Austria. 1901\u20131983", 
-  "CreditLine": "Given anonymously", 
+  "ArtistBio": "(American, born Austria. 1901\u20131983)", 
+  "DateAcquired": "1941-01-16", 
+  "\ufeffTitle": "Nice", 
   "ObjectID": "45816"
 }

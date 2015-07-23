@@ -5,8 +5,7 @@
   "Artist": "Fridolin M\u00fcller", 
   "URL": "http://www.moma.org/collection/works/8809", 
   "CuratorApproved": "Y", 
-  "Title": "Z\u00fcrcher K\u00fcnstler im Helmhaus", 
-  "DateAcquired": "2000-12-11", 
+  "CreditLine": "Gift of the designer", 
   "Date": "1967", 
   "ArtistID": 4148, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "1511.2000", 
-  "ArtistBio": "Swiss, born 1926", 
-  "CreditLine": "Gift of the designer", 
+  "ArtistBio": "(Swiss, born 1926)", 
+  "DateAcquired": "2000-12-11", 
+  "\ufeffTitle": "Z\u00fcrcher K\u00fcnstler im Helmhaus", 
   "ObjectID": "8809"
 }

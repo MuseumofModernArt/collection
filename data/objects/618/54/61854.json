@@ -1,12 +1,11 @@
 {
   "Medium": "Woodcut and lithograph", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "John Buck", 
   "URL": "http://www.moma.org/collection/works/61854", 
   "CuratorApproved": "Y", 
-  "Title": "A Little America", 
-  "DateAcquired": "1993-05-03", 
+  "CreditLine": "Gift of the Business Committee for the Arts, Inc.", 
   "Date": "1992", 
   "ArtistID": 845, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "104.1993", 
-  "ArtistBio": "American, born 1946", 
-  "CreditLine": "Gift of the Business Committee for the Arts, Inc.", 
+  "ArtistBio": "(American, born 1946)", 
+  "DateAcquired": "1993-05-03", 
+  "\ufeffTitle": "A Little America", 
   "ObjectID": "61854"
 }

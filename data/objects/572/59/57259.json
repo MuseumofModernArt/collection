@@ -1,16 +1,16 @@
 {
   "Medium": "Photograph", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Photograph", 
   "Artist": "Paul Seligman", 
   "URL": "", 
   "CuratorApproved": "N", 
-  "Title": "PRIMARY DAY, BEVERLY HILLS, CALIFORNIA", 
-  "DateAcquired": "1965-11-09", 
+  "CreditLine": "Gift of the photographer", 
   "Date": "1964", 
   "Department": "Photography", 
   "MoMANumber": "886.1965", 
-  "ArtistBio": "American, born 1924", 
-  "CreditLine": "Gift of the photographer", 
+  "ArtistBio": "(American, born 1924)", 
+  "DateAcquired": "1965-11-09", 
+  "\ufeffTitle": "PRIMARY DAY, BEVERLY HILLS, CALIFORNIA", 
   "ObjectID": "57259"
 }

@@ -5,8 +5,7 @@
   "Artist": "Joost Schmidt", 
   "URL": "http://www.moma.org/collection/works/8345", 
   "CuratorApproved": "Y", 
-  "Title": "Ausstellung Arntz Holzchnitte", 
-  "DateAcquired": "1999-12-10", 
+  "CreditLine": "Jan Tschichold Collection, Gift of Philip Johnson", 
   "Date": "1925", 
   "ArtistID": 5230, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "894.1999", 
-  "ArtistBio": "German, 1893\u20131948", 
-  "CreditLine": "Jan Tschichold Collection, Gift of Philip Johnson", 
+  "ArtistBio": "(German, 1893\u20131948)", 
+  "DateAcquired": "1999-12-10", 
+  "\ufeffTitle": "Ausstellung Arntz Holzchnitte", 
   "ObjectID": "8345"
 }

@@ -5,8 +5,7 @@
   "Artist": "Owens-Illinois Glass Co., Toledo, OH", 
   "URL": "http://www.moma.org/collection/works/3172", 
   "CuratorApproved": "Y", 
-  "Title": "Coffee Jars", 
-  "DateAcquired": "NULL", 
+  "CreditLine": "Gift of the manufacturer", 
   "Date": "1929-1934", 
   "Keywords": [
     "online art collection", 
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "277.1934.1-2", 
-  "ArtistBio": "American, est. 1903", 
-  "CreditLine": "Gift of the manufacturer", 
+  "ArtistBio": "(American, est. 1903)", 
+  "DateAcquired": "", 
+  "\ufeffTitle": "Coffee Jars", 
   "ObjectID": "3172"
 }

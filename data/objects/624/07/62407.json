@@ -1,12 +1,11 @@
 {
   "Medium": "Series of 4 lithograph and screenprints", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "Suzanne McClelland", 
   "URL": "http://www.moma.org/collection/works/62407", 
   "CuratorApproved": "Y", 
-  "Title": "12:00, 3:00, 6:00, and 9:00", 
-  "DateAcquired": "1997-03-06", 
+  "CreditLine": "Gift of Emily Fisher Landau", 
   "Date": "1996", 
   "ArtistID": 7006, 
   "Keywords": [
@@ -20,7 +19,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "129.1997.1-4", 
-  "ArtistBio": "American, born 1959", 
-  "CreditLine": "Gift of Emily Fisher Landau", 
+  "ArtistBio": "(American, born 1959)", 
+  "DateAcquired": "1997-03-06", 
+  "\ufeffTitle": "12:00, 3:00, 6:00, and 9:00", 
   "ObjectID": "62407"
 }

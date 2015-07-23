@@ -5,8 +5,7 @@
   "Artist": "Paul A. McDonough", 
   "URL": "http://www.moma.org/collection/works/50909", 
   "CuratorApproved": "Y", 
-  "Title": "New York City", 
-  "DateAcquired": "1975-10-23", 
+  "CreditLine": "David H. McAlpin Fund", 
   "Date": "1971", 
   "Keywords": [
     "online art collection", 
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "328.1975", 
-  "ArtistBio": "American, born 1941", 
-  "CreditLine": "David H. McAlpin Fund", 
+  "ArtistBio": "(American, born 1941)", 
+  "DateAcquired": "1975-10-23", 
+  "\ufeffTitle": "New York City", 
   "ObjectID": "50909"
 }

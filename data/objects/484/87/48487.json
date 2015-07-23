@@ -5,8 +5,7 @@
   "Artist": "Herbert Bayer", 
   "URL": "http://www.moma.org/collection/works/48487", 
   "CuratorApproved": "Y", 
-  "Title": "Marseilles", 
-  "DateAcquired": "1973-05-10", 
+  "CreditLine": "David H. McAlpin Fund", 
   "Date": "1928", 
   "ArtistID": 399, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "207.1973", 
-  "ArtistBio": "American, born Austria. 1900\u20131985", 
-  "CreditLine": "David H. McAlpin Fund", 
+  "ArtistBio": "(American, born Austria. 1900\u20131985)", 
+  "DateAcquired": "1973-05-10", 
+  "\ufeffTitle": "Marseilles", 
   "ObjectID": "48487"
 }

@@ -5,8 +5,7 @@
   "Artist": "Gregory Masurovsky", 
   "URL": "http://www.moma.org/collection/works/34563", 
   "CuratorApproved": "Y", 
-  "Title": "Drawing", 
-  "DateAcquired": "1958-10-29", 
+  "CreditLine": "Purchase", 
   "Date": "1957", 
   "ArtistID": 3825, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "133.1958", 
-  "ArtistBio": "American, 1929\u20132009", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, 1929\u20132009)", 
+  "DateAcquired": "1958-10-29", 
+  "\ufeffTitle": "Drawing", 
   "ObjectID": "34563"
 }

@@ -5,8 +5,7 @@
   "Artist": "Richard Prince", 
   "URL": "http://www.moma.org/collection/works/34754", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled (\"My brother...\")", 
-  "DateAcquired": "1991-05-23", 
+  "CreditLine": "Gift of the artist", 
   "Date": "1967 and 1990", 
   "ArtistID": 4741, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "146.1991.8", 
-  "ArtistBio": "American, born 1949", 
-  "CreditLine": "Gift of the artist", 
+  "ArtistBio": "(American, born 1949)", 
+  "DateAcquired": "1991-05-23", 
+  "\ufeffTitle": "Untitled (\"My brother...\")", 
   "ObjectID": "34754"
 }

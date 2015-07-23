@@ -1,12 +1,11 @@
 {
   "Medium": "Engraving and aquatint", 
-  "Dimensions": "Plate: 10 x 11 5/16\" (25.4 x 28.7 cm)  Sheet: 26 3/4 x 19 3/4\" (68 x 50.1 cm)", 
+  "Dimensions": "Plate: 10 x 11 5/16\" (25.4 x 28.7 cm)\r\nSheet: 26 3/4 x 19 3/4\" (68 x 50.1 cm)", 
   "Classification": "Print", 
   "Artist": "Andr\u00e9 Thomkins", 
   "URL": "http://www.moma.org/collection/works/61443", 
   "CuratorApproved": "Y", 
-  "Title": "Ombilical", 
-  "DateAcquired": "1984-02-01", 
+  "CreditLine": "John R. Jakobson Foundation Fund", 
   "Date": "1973", 
   "ArtistID": 5856, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "65.1984", 
-  "ArtistBio": "Swiss, 1930\u20131985", 
-  "CreditLine": "John R. Jakobson Foundation Fund", 
+  "ArtistBio": "(Swiss, 1930\u20131985)", 
+  "DateAcquired": "1984-02-01", 
+  "\ufeffTitle": "Ombilical", 
   "ObjectID": "61443"
 }

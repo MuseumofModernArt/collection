@@ -5,8 +5,7 @@
   "Artist": "Dawoud Bey", 
   "URL": "http://www.moma.org/collection/works/50144", 
   "CuratorApproved": "Y", 
-  "Title": "A Man Looking at Pants on Fulton Street", 
-  "DateAcquired": "1991-10-25", 
+  "CreditLine": "E.T. Harmax Foundation Fund", 
   "Date": "1989", 
   "ArtistID": 7053, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "296.1991", 
-  "ArtistBio": "American, born 1953", 
-  "CreditLine": "E.T. Harmax Foundation Fund", 
+  "ArtistBio": "(American, born 1953)", 
+  "DateAcquired": "1991-10-25", 
+  "\ufeffTitle": "A Man Looking at Pants on Fulton Street", 
   "ObjectID": "50144"
 }

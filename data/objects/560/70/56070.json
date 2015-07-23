@@ -5,8 +5,7 @@
   "Artist": "John B. Greene", 
   "URL": "http://www.moma.org/collection/works/56070", 
   "CuratorApproved": "Y", 
-  "Title": "Aqueduct of Cherchell", 
-  "DateAcquired": "1983-11-10", 
+  "CreditLine": "Gift of Daniel K. Mayers", 
   "Date": "1855-1856", 
   "ArtistID": 2323, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "688.1983", 
-  "ArtistBio": "American, born France. 1832\u20131856", 
-  "CreditLine": "Gift of Daniel K. Mayers", 
+  "ArtistBio": "(American, born France. 1832\u20131856)", 
+  "DateAcquired": "1983-11-10", 
+  "\ufeffTitle": "Aqueduct of Cherchell", 
   "ObjectID": "56070"
 }

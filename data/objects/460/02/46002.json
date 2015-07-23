@@ -5,8 +5,7 @@
   "Artist": "Jerome Liebling", 
   "URL": "http://www.moma.org/collection/works/46002", 
   "CuratorApproved": "Y", 
-  "Title": "Black Feet Reservation, Montana", 
-  "DateAcquired": "1977-03-10", 
+  "CreditLine": "Exchange", 
   "Date": "1962", 
   "ArtistID": 3549, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "88.1977", 
-  "ArtistBio": "American, 1924\u20132011", 
-  "CreditLine": "Exchange", 
+  "ArtistBio": "(American, 1924\u20132011)", 
+  "DateAcquired": "1977-03-10", 
+  "\ufeffTitle": "Black Feet Reservation, Montana", 
   "ObjectID": "46002"
 }

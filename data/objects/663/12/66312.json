@@ -5,8 +5,7 @@
   "Artist": "Pablo Picasso", 
   "URL": "http://www.moma.org/collection/works/66312", 
   "CuratorApproved": "Y", 
-  "Title": "Third Poster for Vallauris Fair", 
-  "DateAcquired": "1948-10-06", 
+  "CreditLine": "Gift of Daniel-Henry Kahnweiler", 
   "Date": "June 5, 1948", 
   "ArtistID": 4609, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "295.1948", 
-  "ArtistBio": "Spanish, 1881\u20131973", 
-  "CreditLine": "Gift of Daniel-Henry Kahnweiler", 
+  "ArtistBio": "(Spanish, 1881\u20131973)", 
+  "DateAcquired": "1948-10-06", 
+  "\ufeffTitle": "Third Poster for Vallauris Fair", 
   "ObjectID": "66312"
 }

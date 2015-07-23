@@ -5,8 +5,7 @@
   "Artist": "Giancarlo Piretti", 
   "URL": "http://www.moma.org/collection/works/3532", 
   "CuratorApproved": "Y", 
-  "Title": "Platone Folding Desk", 
-  "DateAcquired": "1972-12-05", 
+  "CreditLine": "Gift of the manufacturer", 
   "Date": "1971", 
   "ArtistID": 4638, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "420.1972", 
-  "ArtistBio": "Italian, born 1940", 
-  "CreditLine": "Gift of the manufacturer", 
+  "ArtistBio": "(Italian, born 1940)", 
+  "DateAcquired": "1972-12-05", 
+  "\ufeffTitle": "Platone Folding Desk", 
   "ObjectID": "3532"
 }

@@ -5,8 +5,7 @@
   "Artist": "Henri Matisse", 
   "URL": "http://www.moma.org/collection/works/65290", 
   "CuratorApproved": "Y", 
-  "Title": "Pensive Nude in Folding Chair (Figure pensive au fauteuil pliant)", 
-  "DateAcquired": "1950-10-11", 
+  "CreditLine": "Given anonymously, in memory of Leo and Nina Stein", 
   "Date": "(1906)", 
   "ArtistID": 3832, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "253.1950", 
-  "ArtistBio": "French, 1869\u20131954", 
-  "CreditLine": "Given anonymously, in memory of Leo and Nina Stein", 
+  "ArtistBio": "(French, 1869\u20131954)", 
+  "DateAcquired": "1950-10-11", 
+  "\ufeffTitle": "Pensive Nude in Folding Chair (Figure pensive au fauteuil pliant)", 
   "ObjectID": "65290"
 }

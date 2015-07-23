@@ -5,8 +5,7 @@
   "Artist": "Christopher Dresser", 
   "URL": "http://www.moma.org/collection/works/4330", 
   "CuratorApproved": "Y", 
-  "Title": "Claret Pitcher", 
-  "DateAcquired": "1977-11-28", 
+  "CreditLine": "Gift of Blanchette Hooker Rockefeller", 
   "Date": "c. 1880", 
   "ArtistID": 1616, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "529.1977", 
-  "ArtistBio": "British, 1834\u20131904", 
-  "CreditLine": "Gift of Blanchette Hooker Rockefeller", 
+  "ArtistBio": "(British, 1834\u20131904)", 
+  "DateAcquired": "1977-11-28", 
+  "\ufeffTitle": "Claret Pitcher", 
   "ObjectID": "4330"
 }

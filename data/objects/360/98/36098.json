@@ -5,8 +5,7 @@
   "Artist": "Joseph Beuys", 
   "URL": "http://www.moma.org/collection/works/36098", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1983-03-15", 
+  "CreditLine": "Gift of Walter Bareiss", 
   "Date": "1957", 
   "ArtistID": 540, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "301.1983", 
-  "ArtistBio": "German, 1921\u20131986", 
-  "CreditLine": "Gift of Walter Bareiss", 
+  "ArtistBio": "(German, 1921\u20131986)", 
+  "DateAcquired": "1983-03-15", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "36098"
 }

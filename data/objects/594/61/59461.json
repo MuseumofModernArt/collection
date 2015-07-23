@@ -5,8 +5,7 @@
   "Artist": "Louise Bourgeois", 
   "URL": "http://www.moma.org/collection/works/59461", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled, plate 3 of 14, from the portfolio, Autobiographical Series, component B, state I of II", 
-  "DateAcquired": "2008-06-18", 
+  "CreditLine": "Gift of the artist", 
   "Date": "1993", 
   "ArtistID": 710, 
   "Keywords": [
@@ -20,7 +19,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "620.2008", 
-  "ArtistBio": "American, born France. 1911\u20132010", 
-  "CreditLine": "Gift of the artist", 
+  "ArtistBio": "(American, born France. 1911\u20132010)", 
+  "DateAcquired": "2008-06-18", 
+  "\ufeffTitle": "Untitled, plate 3 of 14, from the portfolio, Autobiographical Series, component B", 
   "ObjectID": "59461"
 }

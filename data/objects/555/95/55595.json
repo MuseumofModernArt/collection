@@ -5,8 +5,7 @@
   "Artist": "Rineke Dijkstra", 
   "URL": "http://www.moma.org/collection/works/55595", 
   "CuratorApproved": "Y", 
-  "Title": "Odessa, Ukraine", 
-  "DateAcquired": "1997-12-11", 
+  "CreditLine": "Gift of Agnes Gund", 
   "Date": "August 4, 1993", 
   "ArtistID": 8139, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "613.1997", 
-  "ArtistBio": "Dutch, born 1959", 
-  "CreditLine": "Gift of Agnes Gund", 
+  "ArtistBio": "(Dutch, born 1959)", 
+  "DateAcquired": "1997-12-11", 
+  "\ufeffTitle": "Odessa, Ukraine", 
   "ObjectID": "55595"
 }

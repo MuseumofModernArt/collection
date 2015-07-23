@@ -1,12 +1,11 @@
 {
   "Medium": "Lithograph", 
-  "Dimensions": "composition  17 9/16 x 23 7/8\" (44.7 x 60.6 cm)  sheet  22 1/16 x 29 11/16\" (56.1 x 75.4 cm)", 
+  "Dimensions": "composition  17 9/16 x 23 7/8\" (44.7 x 60.6 cm)\r\nsheet  22 1/16 x 29 11/16\" (56.1 x 75.4 cm)", 
   "Classification": "Print", 
   "Artist": "Harold Tovish", 
   "URL": "http://www.moma.org/collection/works/66657", 
   "CuratorApproved": "Y", 
-  "Title": "Motion Sequence", 
-  "DateAcquired": "1972-10-05", 
+  "CreditLine": "John B. Turner Fund", 
   "Date": "1971", 
   "ArtistID": 5912, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "310.1972", 
-  "ArtistBio": "American, born 1921", 
-  "CreditLine": "John B. Turner Fund", 
+  "ArtistBio": "(American, born 1921)", 
+  "DateAcquired": "1972-10-05", 
+  "\ufeffTitle": "Motion Sequence", 
   "ObjectID": "66657"
 }

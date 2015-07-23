@@ -5,8 +5,7 @@
   "Artist": "Dorothea Lange", 
   "URL": "http://www.moma.org/collection/works/52140", 
   "CuratorApproved": "Y", 
-  "Title": "Republican National Convention, San Francisco, California", 
-  "DateAcquired": "1995-06-15", 
+  "CreditLine": "Purchase", 
   "Date": "1956", 
   "ArtistID": 3373, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "378.1995", 
-  "ArtistBio": "American, 1895\u20131965", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, 1895\u20131965)", 
+  "DateAcquired": "1995-06-15", 
+  "\ufeffTitle": "Republican National Convention, San Francisco, California", 
   "ObjectID": "52140"
 }

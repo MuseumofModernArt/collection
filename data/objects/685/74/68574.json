@@ -1,12 +1,11 @@
 {
-  "Medium": "Transfer lithograph    Transfer lithograph, printed in black", 
+  "Medium": "Transfer lithograph\r\n\r\nTransfer lithograph, printed in black", 
   "Dimensions": "composition: 9 1/2 x 12 1/2\" (24.1 x 31.8 cm)", 
   "Classification": "Print", 
   "Artist": "Aristide Maillol", 
   "URL": "http://www.moma.org/collection/works/68574", 
   "CuratorApproved": "Y", 
-  "Title": "Man and Woman", 
-  "DateAcquired": "1940-04-05", 
+  "CreditLine": "Gift of Abby Aldrich Rockefeller", 
   "Date": "(1895)", 
   "ArtistID": 3697, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "407.1940", 
-  "ArtistBio": "French, 1861\u20131944", 
-  "CreditLine": "Gift of Abby Aldrich Rockefeller", 
+  "ArtistBio": "(French, 1861\u20131944)", 
+  "DateAcquired": "1940-04-05", 
+  "\ufeffTitle": "Man and Woman", 
   "ObjectID": "68574"
 }

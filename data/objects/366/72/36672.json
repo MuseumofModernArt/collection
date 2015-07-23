@@ -5,8 +5,7 @@
   "Artist": "Juan Gris", 
   "URL": "http://www.moma.org/collection/works/36672", 
   "CuratorApproved": "Y", 
-  "Title": "Still Life with Bottle and Funnel", 
-  "DateAcquired": "1970-10-22", 
+  "CreditLine": "Alva Gimbel Fund", 
   "Date": "(1911)", 
   "ArtistID": 2349, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "401.1970", 
-  "ArtistBio": "Spanish, 1887\u20131927", 
-  "CreditLine": "Alva Gimbel Fund", 
+  "ArtistBio": "(Spanish, 1887\u20131927)", 
+  "DateAcquired": "1970-10-22", 
+  "\ufeffTitle": "Still Life with Bottle and Funnel", 
   "ObjectID": "36672"
 }

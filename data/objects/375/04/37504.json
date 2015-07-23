@@ -5,8 +5,7 @@
   "Artist": "Gustav Klimt", 
   "URL": "http://www.moma.org/collection/works/37504", 
   "CuratorApproved": "Y", 
-  "Title": "Reclining Woman", 
-  "DateAcquired": "1964-10-06", 
+  "CreditLine": "Gift of Dr. Christopher Tietze", 
   "Date": "(c. 1917)", 
   "ArtistID": 3147, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "597.1964", 
-  "ArtistBio": "Austrian, 1862\u20131918", 
-  "CreditLine": "Gift of Dr. Christopher Tietze", 
+  "ArtistBio": "(Austrian, 1862\u20131918)", 
+  "DateAcquired": "1964-10-06", 
+  "\ufeffTitle": "Reclining Woman (Liegender Halbakt)", 
   "ObjectID": "37504"
 }

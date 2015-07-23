@@ -5,8 +5,7 @@
   "Artist": "Unknown photographer", 
   "URL": "http://www.moma.org/collection/works/45986", 
   "CuratorApproved": "Y", 
-  "Title": "Panoramic View of Paris", 
-  "DateAcquired": "1993-03-11", 
+  "CreditLine": "The Family of Man Fund", 
   "Date": "c. 1900", 
   "ArtistID": 7022, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "87.1993", 
-  "ArtistBio": "NULL", 
-  "CreditLine": "The Family of Man Fund", 
+  "ArtistBio": "", 
+  "DateAcquired": "1993-03-11", 
+  "\ufeffTitle": "Panoramic View of Paris", 
   "ObjectID": "45986"
 }

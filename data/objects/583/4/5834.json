@@ -5,8 +5,7 @@
   "Artist": "Masuteru Aoba", 
   "URL": "http://www.moma.org/collection/works/5834", 
   "CuratorApproved": "Y", 
-  "Title": "10th Anniversary of \"Tategumi Yokogumi\" Magazine", 
-  "DateAcquired": "1994-05-03", 
+  "CreditLine": "Gift of Morisawa & Co. Ltd.", 
   "Date": "1993", 
   "ArtistID": 7283, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "248.1994", 
-  "ArtistBio": "Japanese, born 1939", 
-  "CreditLine": "Gift of Morisawa & Co. Ltd.", 
+  "ArtistBio": "(Japanese, born 1939)", 
+  "DateAcquired": "1994-05-03", 
+  "\ufeffTitle": "10th Anniversary of \"Tategumi Yokogumi\" Magazine", 
   "ObjectID": "5834"
 }

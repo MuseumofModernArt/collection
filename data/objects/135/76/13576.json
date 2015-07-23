@@ -1,12 +1,11 @@
 {
-  "Medium": "Illustrated book with aquatint   ", 
-  "Dimensions": "Plate: 6 x 3 15/16\" (15.3 x 10 cm)  Page (irreg.): 10 5/8 x 7 5/16\" (27 x 18.5 cm)", 
+  "Medium": "Illustrated book with aquatint \r\n", 
+  "Dimensions": "Plate: 6 x 3 15/16\" (15.3 x 10 cm)\r\nPage (irreg.): 10 5/8 x 7 5/16\" (27 x 18.5 cm)", 
   "Classification": "Illustrated Book", 
   "Artist": "Donald Sultan", 
   "URL": "http://www.moma.org/collection/works/13576", 
   "CuratorApproved": "Y", 
-  "Title": "Prayers and Sermons for the Stations of the Cross  ", 
-  "DateAcquired": "1984-05-23", 
+  "CreditLine": "J. Henry Schroder Bank and Trust Company Fund", 
   "Date": "1983", 
   "ArtistID": 5726, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "206.1984", 
-  "ArtistBio": "American, born 1951", 
-  "CreditLine": "J. Henry Schroder Bank and Trust Company Fund", 
+  "ArtistBio": "(American, born 1951)", 
+  "DateAcquired": "1984-05-23", 
+  "\ufeffTitle": "Prayers and Sermons for the Stations of the Cross", 
   "ObjectID": "13576"
 }

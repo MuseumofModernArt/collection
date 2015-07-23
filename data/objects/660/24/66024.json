@@ -5,8 +5,7 @@
   "Artist": "Jasper Johns", 
   "URL": "http://www.moma.org/collection/works/66024", 
   "CuratorApproved": "Y", 
-  "Title": "Two Maps I", 
-  "DateAcquired": "1966-05-10", 
+  "CreditLine": "Gift of the Celeste and Armand Bartos Foundation", 
   "Date": "1966", 
   "ArtistID": 2923, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "285.1966", 
-  "ArtistBio": "American, born 1930", 
-  "CreditLine": "Gift of the Celeste and Armand Bartos Foundation", 
+  "ArtistBio": "(American, born 1930)", 
+  "DateAcquired": "1966-05-10", 
+  "\ufeffTitle": "Two Maps I", 
   "ObjectID": "66024"
 }

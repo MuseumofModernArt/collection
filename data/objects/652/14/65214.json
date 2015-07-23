@@ -5,8 +5,7 @@
   "Artist": "Nicolas de Sta\u00ebl", 
   "URL": "http://www.moma.org/collection/works/65214", 
   "CuratorApproved": "Y", 
-  "Title": "Composition", 
-  "DateAcquired": "1978-03-02", 
+  "CreditLine": "Larry Aldrich Fund", 
   "Date": "(1954)", 
   "ArtistID": 1447, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "249.1978", 
-  "ArtistBio": "French, 1914\u20131955", 
-  "CreditLine": "Larry Aldrich Fund", 
+  "ArtistBio": "(French, 1914\u20131955)", 
+  "DateAcquired": "1978-03-02", 
+  "\ufeffTitle": "Composition", 
   "ObjectID": "65214"
 }

@@ -1,12 +1,11 @@
 {
   "Medium": "Etching", 
-  "Dimensions": "irreg composition  13 1/4 x 8 3/4\" (33.7 x 22.3 cm)  irreg sheet  13 1/4 x 8 3/4\" (33.7 x 22.3 cm)", 
+  "Dimensions": "irreg composition  13 1/4 x 8 3/4\" (33.7 x 22.3 cm)\r\nirreg sheet  13 1/4 x 8 3/4\" (33.7 x 22.3 cm)", 
   "Classification": "Print", 
   "Artist": "Jody Shields", 
   "URL": "http://www.moma.org/collection/works/69395", 
   "CuratorApproved": "Y", 
-  "Title": "Print with Gold Striped Ruffle", 
-  "DateAcquired": "1977-11-10", 
+  "CreditLine": "Larry Aldrich Fund", 
   "Date": "1975", 
   "ArtistID": 5397, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "455.1977", 
-  "ArtistBio": "American, born 1952", 
-  "CreditLine": "Larry Aldrich Fund", 
+  "ArtistBio": "(American, born 1952)", 
+  "DateAcquired": "1977-11-10", 
+  "\ufeffTitle": "Print with Gold Striped Ruffle", 
   "ObjectID": "69395"
 }

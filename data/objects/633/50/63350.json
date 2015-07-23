@@ -5,8 +5,7 @@
   "Artist": "Elizabeth Murray", 
   "URL": "http://www.moma.org/collection/works/63350", 
   "CuratorApproved": "Y", 
-  "Title": "State II", 
-  "DateAcquired": "1994-01-25", 
+  "CreditLine": "Gift of Brooke and Carolyn Alexander", 
   "Date": "1980", 
   "ArtistID": 4185, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "162.1994.2", 
-  "ArtistBio": "American, 1940\u20132007", 
-  "CreditLine": "Gift of Brooke and Carolyn Alexander", 
+  "ArtistBio": "(American, 1940\u20132007)", 
+  "DateAcquired": "1994-01-25", 
+  "\ufeffTitle": "State II", 
   "ObjectID": "63350"
 }

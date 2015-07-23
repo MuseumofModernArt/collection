@@ -5,8 +5,7 @@
   "Artist": "Marcel Duchamp", 
   "URL": "http://www.moma.org/collection/works/37231", 
   "CuratorApproved": "Y", 
-  "Title": "L.H.O.O.Q. Shaved", 
-  "DateAcquired": "1970-11-10", 
+  "CreditLine": "Gift of Philip Johnson", 
   "Date": "(1965)", 
   "ArtistID": 1634, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "506.1970", 
-  "ArtistBio": "American, born France. 1887\u20131968", 
-  "CreditLine": "Gift of Philip Johnson", 
+  "ArtistBio": "(American, born France. 1887\u20131968)", 
+  "DateAcquired": "1970-11-10", 
+  "\ufeffTitle": "L.H.O.O.Q. Shaved", 
   "ObjectID": "37231"
 }

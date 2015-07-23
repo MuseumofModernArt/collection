@@ -5,8 +5,7 @@
   "Artist": "Francis Frith", 
   "URL": "http://www.moma.org/collection/works/44560", 
   "CuratorApproved": "Y", 
-  "Title": "Baalbec from the South (Plate 33)", 
-  "DateAcquired": "NULL", 
+  "CreditLine": "Purchase", 
   "Date": "1857", 
   "ArtistID": 2015, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "41.1974.34", 
-  "ArtistBio": "British, 1822\u20131898", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(British, 1822\u20131898)", 
+  "DateAcquired": "", 
+  "\ufeffTitle": "Baalbec from the South (Plate 33)", 
   "ObjectID": "44560"
 }

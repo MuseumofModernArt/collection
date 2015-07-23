@@ -5,8 +5,7 @@
   "Artist": "Zeke Berman", 
   "URL": "http://www.moma.org/collection/works/49860", 
   "CuratorApproved": "Y", 
-  "Title": "The Sculptor's Studio, Touching and Retouching", 
-  "DateAcquired": "1982-10-28", 
+  "CreditLine": "Purchase", 
   "Date": "1980", 
   "ArtistID": 506, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "275.1982", 
-  "ArtistBio": "American, born 1951", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, born 1951)", 
+  "DateAcquired": "1982-10-28", 
+  "\ufeffTitle": "The Sculptor's Studio, Touching and Retouching", 
   "ObjectID": "49860"
 }

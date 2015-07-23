@@ -5,8 +5,7 @@
   "Artist": "Martin Lewis", 
   "URL": "http://www.moma.org/collection/works/65964", 
   "CuratorApproved": "Y", 
-  "Title": "Subway Steps", 
-  "DateAcquired": "1968-04-23", 
+  "CreditLine": "Gift of Dr. Jack Budowsky", 
   "Date": "1930, published 1931", 
   "ArtistID": 3523, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "282.1968", 
-  "ArtistBio": "American, 1881\u20131962", 
-  "CreditLine": "Gift of Dr. Jack Budowsky", 
+  "ArtistBio": "(American, 1881\u20131962)", 
+  "DateAcquired": "1968-04-23", 
+  "\ufeffTitle": "Subway Steps", 
   "ObjectID": "65964"
 }

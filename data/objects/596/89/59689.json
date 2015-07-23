@@ -1,12 +1,11 @@
 {
   "Medium": "Aquatint and etching", 
-  "Dimensions": "plate  29 13/16 x 22 5/16\" (75.8 x 56.7 cm)  sheet  29 13/16 x 22 5/16\" (75 x 56.7 cm)", 
+  "Dimensions": "plate  29 13/16 x 22 5/16\" (75.8 x 56.7 cm)\r\nsheet  29 13/16 x 22 5/16\" (75 x 56.7 cm)", 
   "Classification": "Print", 
   "Artist": "Cristos Gianakos", 
   "URL": "http://www.moma.org/collection/works/59689", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled from the Mastaba Series", 
-  "DateAcquired": "1988-01-19", 
+  "CreditLine": "John B. Turner Fund", 
   "Date": "(1987)", 
   "ArtistID": 2143, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "6.1988", 
-  "ArtistBio": "American, born 1934", 
-  "CreditLine": "John B. Turner Fund", 
+  "ArtistBio": "(American, born 1934)", 
+  "DateAcquired": "1988-01-19", 
+  "\ufeffTitle": "Untitled from the Mastaba Series", 
   "ObjectID": "59689"
 }

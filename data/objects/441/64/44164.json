@@ -5,8 +5,7 @@
   "Artist": "Alvin Langdon Coburn", 
   "URL": "http://www.moma.org/collection/works/44164", 
   "CuratorApproved": "Y", 
-  "Title": "Portrait of John Masefield", 
-  "DateAcquired": "1974-01-29", 
+  "CreditLine": "David H. McAlpin Fund", 
   "Date": "c. 1915", 
   "ArtistID": 1164, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "26.1974", 
-  "ArtistBio": "American, 1882\u20131966", 
-  "CreditLine": "David H. McAlpin Fund", 
+  "ArtistBio": "(American, 1882\u20131966)", 
+  "DateAcquired": "1974-01-29", 
+  "\ufeffTitle": "Portrait of John Masefield", 
   "ObjectID": "44164"
 }

@@ -5,8 +5,7 @@
   "Artist": "Gerhard Richter", 
   "URL": "http://www.moma.org/collection/works/60106", 
   "CuratorApproved": "Y", 
-  "Title": "Mao", 
-  "DateAcquired": "1993-01-18", 
+  "CreditLine": "Jeanne C. Thayer Fund", 
   "Date": "1968", 
   "ArtistID": 4907, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "19.1993", 
-  "ArtistBio": "German, born 1932", 
-  "CreditLine": "Jeanne C. Thayer Fund", 
+  "ArtistBio": "(German, born 1932)", 
+  "DateAcquired": "1993-01-18", 
+  "\ufeffTitle": "Mao", 
   "ObjectID": "60106"
 }

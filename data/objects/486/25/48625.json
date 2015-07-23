@@ -5,8 +5,7 @@
   "Artist": "Manuel \u00c1lvarez Bravo", 
   "URL": "http://www.moma.org/collection/works/48625", 
   "CuratorApproved": "Y", 
-  "Title": "Conversation near the Statue", 
-  "DateAcquired": "1993-06-01", 
+  "CreditLine": "Mr. and Mrs. Clark Winter Fund", 
   "Date": "1933", 
   "ArtistID": 135, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "213.1993", 
-  "ArtistBio": "Mexican, 1902\u20132002", 
-  "CreditLine": "Mr. and Mrs. Clark Winter Fund", 
+  "ArtistBio": "(Mexican, 1902\u20132002)", 
+  "DateAcquired": "1993-06-01", 
+  "\ufeffTitle": "Conversation near the Statue", 
   "ObjectID": "48625"
 }

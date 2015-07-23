@@ -5,8 +5,7 @@
   "Artist": "Robert Indiana", 
   "URL": "http://www.moma.org/collection/works/35281", 
   "CuratorApproved": "Y", 
-  "Title": "The American Hay Company", 
-  "DateAcquired": "1963-04-09", 
+  "CreditLine": "Eugene and Clare Thaw Fund", 
   "Date": "1962", 
   "ArtistID": 2812, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "212.1963", 
-  "ArtistBio": "American, born 1928", 
-  "CreditLine": "Eugene and Clare Thaw Fund", 
+  "ArtistBio": "(American, born 1928)", 
+  "DateAcquired": "1963-04-09", 
+  "\ufeffTitle": "The American Hay Company", 
   "ObjectID": "35281"
 }

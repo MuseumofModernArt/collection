@@ -5,8 +5,7 @@
   "Artist": "Hans Erni", 
   "URL": "http://www.moma.org/collection/works/6136", 
   "CuratorApproved": "Y", 
-  "Title": "Guilde du Livre, Le Livre Pour Tous", 
-  "DateAcquired": "1953-04-07", 
+  "CreditLine": "Gift of the artist", 
   "Date": "1948", 
   "ArtistID": 1750, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "297.1953", 
-  "ArtistBio": "Swiss, born 1909", 
-  "CreditLine": "Gift of the artist", 
+  "ArtistBio": "(Swiss, born 1909)", 
+  "DateAcquired": "1953-04-07", 
+  "\ufeffTitle": "Guilde du Livre, Le Livre Pour Tous", 
   "ObjectID": "6136"
 }

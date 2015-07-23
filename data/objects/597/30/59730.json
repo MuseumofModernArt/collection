@@ -5,8 +5,7 @@
   "Artist": "Reuben Kadish", 
   "URL": "http://www.moma.org/collection/works/59730", 
   "CuratorApproved": "Y", 
-  "Title": "The Four Horsemen", 
-  "DateAcquired": "1944-03-14", 
+  "CreditLine": "Purchase", 
   "Date": "1941", 
   "ArtistID": 2960, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "8.1944", 
-  "ArtistBio": "American, born 1913", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, born 1913)", 
+  "DateAcquired": "1944-03-14", 
+  "\ufeffTitle": "The Four Horsemen", 
   "ObjectID": "59730"
 }

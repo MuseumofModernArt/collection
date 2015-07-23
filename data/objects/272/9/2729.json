@@ -5,8 +5,7 @@
   "Artist": "Alvar Aalto", 
   "URL": "http://www.moma.org/collection/works/2729", 
   "CuratorApproved": "Y", 
-  "Title": "Tea Trolley Model No. 98", 
-  "DateAcquired": "1981-04-30", 
+  "CreditLine": "Gift of ICF, Inc.", 
   "Date": "1936-37", 
   "ArtistID": 34, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "216.1981", 
-  "ArtistBio": "Finnish, 1898\u20131976", 
-  "CreditLine": "Gift of ICF, Inc.", 
+  "ArtistBio": "(Finnish, 1898\u20131976)", 
+  "DateAcquired": "1981-04-30", 
+  "\ufeffTitle": "Tea Trolley Model No. 98", 
   "ObjectID": "2729"
 }

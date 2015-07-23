@@ -5,8 +5,7 @@
   "Artist": "Jerome Liebling", 
   "URL": "http://www.moma.org/collection/works/50476", 
   "CuratorApproved": "Y", 
-  "Title": "Handball Players", 
-  "DateAcquired": "1982-10-28", 
+  "CreditLine": "Gift of the photographer", 
   "Date": "1978", 
   "ArtistID": 3549, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "310.1982", 
-  "ArtistBio": "American, 1924\u20132011", 
-  "CreditLine": "Gift of the photographer", 
+  "ArtistBio": "(American, 1924\u20132011)", 
+  "DateAcquired": "1982-10-28", 
+  "\ufeffTitle": "Handball Players", 
   "ObjectID": "50476"
 }

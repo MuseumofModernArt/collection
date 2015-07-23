@@ -5,8 +5,7 @@
   "Artist": "Fulvio Bianconi", 
   "URL": "http://www.moma.org/collection/works/2948", 
   "CuratorApproved": "Y", 
-  "Title": "Fazzoletto Vase", 
-  "DateAcquired": "1953-04-07", 
+  "CreditLine": "Gift of Macy's", 
   "Date": "1949", 
   "ArtistID": 547, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "238.1953", 
-  "ArtistBio": "Italian, 1915\u20131996", 
-  "CreditLine": "Gift of Macy's", 
+  "ArtistBio": "(Italian, 1915\u20131996)", 
+  "DateAcquired": "1953-04-07", 
+  "\ufeffTitle": "Fazzoletto Vase", 
   "ObjectID": "2948"
 }

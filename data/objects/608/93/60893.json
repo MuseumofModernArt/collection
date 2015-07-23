@@ -1,12 +1,11 @@
 {
   "Medium": "Portfolio of seven offset lithographs", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "Dietrich Sayler", 
   "URL": "http://www.moma.org/collection/works/60893", 
   "CuratorApproved": "Y", 
-  "Title": "Variation", 
-  "DateAcquired": "1977-02-10", 
+  "CreditLine": "Jeanne C. Thayer Fund", 
   "Date": "1975", 
   "ArtistID": 5190, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "48.1977.1-7", 
-  "ArtistBio": "Romanian", 
-  "CreditLine": "Jeanne C. Thayer Fund", 
+  "ArtistBio": "(Romanian)", 
+  "DateAcquired": "1977-02-10", 
+  "\ufeffTitle": "Variation", 
   "ObjectID": "60893"
 }

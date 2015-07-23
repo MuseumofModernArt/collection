@@ -5,8 +5,7 @@
   "Artist": "William James Stillman", 
   "URL": "http://www.moma.org/collection/works/51103", 
   "CuratorApproved": "Y", 
-  "Title": "Interior of the Parthenon, From the Eastern End: At the Left, In the Distance, Is Seen the Island of Aegina", 
-  "DateAcquired": "NULL", 
+  "CreditLine": "Gift of Miss Frances Stillman", 
   "Date": "1869", 
   "ArtistID": 5667, 
   "Keywords": [
@@ -20,7 +19,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "336.1975.14", 
-  "ArtistBio": "American, 1828\u20131901", 
-  "CreditLine": "Gift of Miss Frances Stillman", 
+  "ArtistBio": "(American, 1828\u20131901)", 
+  "DateAcquired": "", 
+  "\ufeffTitle": "Interior of the Parthenon, From the Eastern End: At the Left, In the Distance, Is Seen the Island of Aegina", 
   "ObjectID": "51103"
 }

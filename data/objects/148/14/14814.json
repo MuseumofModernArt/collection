@@ -1,12 +1,11 @@
 {
   "Medium": "Illustrated book with one etching", 
-  "Dimensions": "Plate: 4 3/4 x 3 9/16\" (12 x 9 cm)  Page (irreg.): 6 5/16 x 4 15/16\" (16 x 12.6 cm)", 
+  "Dimensions": "Plate: 4 3/4 x 3 9/16\" (12 x 9 cm)\r\nPage (irreg.): 6 5/16 x 4 15/16\" (16 x 12.6 cm)", 
   "Classification": "Illustrated Book", 
   "Artist": "Brassa\u00ef (Gyula Hal\u00e1sz)", 
   "URL": "http://www.moma.org/collection/works/14814", 
   "CuratorApproved": "Y", 
-  "Title": "Histoire de Marie", 
-  "DateAcquired": "1989-10-12", 
+  "CreditLine": "William K. Simpson Fund (in memory of Abby Aldrich Rockefeller)", 
   "Date": "1949", 
   "ArtistID": 745, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "297.1989", 
-  "ArtistBio": "French, born Transylvania. 1899\u20131984", 
-  "CreditLine": "William K. Simpson Fund (in memory of Abby Aldrich Rockefeller)", 
+  "ArtistBio": "(French, born Transylvania. 1899\u20131984)", 
+  "DateAcquired": "1989-10-12", 
+  "\ufeffTitle": "Histoire de Marie", 
   "ObjectID": "14814"
 }

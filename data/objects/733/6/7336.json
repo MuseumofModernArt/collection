@@ -5,8 +5,7 @@
   "Artist": "Unknown Artist", 
   "URL": "http://www.moma.org/collection/works/7336", 
   "CuratorApproved": "Y", 
-  "Title": "U.S.S.R. Tenth Anniversary, Our Good Wishes", 
-  "DateAcquired": "1987-11-18", 
+  "CreditLine": "Given anonymously", 
   "Date": "1927", 
   "ArtistID": 6026, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "512.1987", 
-  "ArtistBio": "Nationality Unknown", 
-  "CreditLine": "Given anonymously", 
+  "ArtistBio": "(Nationality Unknown)", 
+  "DateAcquired": "1987-11-18", 
+  "\ufeffTitle": "U.S.S.R. Tenth Anniversary, Our Good Wishes", 
   "ObjectID": "7336"
 }

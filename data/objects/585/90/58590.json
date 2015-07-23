@@ -5,8 +5,7 @@
   "Artist": "Berlin Foto Senneke", 
   "URL": "http://www.moma.org/collection/works/58590", 
   "CuratorApproved": "Y", 
-  "Title": "Girl Giving Hitler Flowers", 
-  "DateAcquired": "2001-06-14", 
+  "CreditLine": "The New York Times Collection", 
   "Date": "1933-45", 
   "ArtistID": 8539, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "1997.2001", 
-  "ArtistBio": "NULL", 
-  "CreditLine": "The New York Times Collection", 
+  "ArtistBio": "", 
+  "DateAcquired": "2001-06-14", 
+  "\ufeffTitle": "Girl Giving Hitler Flowers", 
   "ObjectID": "58590"
 }

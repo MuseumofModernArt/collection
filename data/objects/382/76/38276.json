@@ -5,8 +5,7 @@
   "Artist": "Brice Marden", 
   "URL": "http://www.moma.org/collection/works/38276", 
   "CuratorApproved": "Y", 
-  "Title": "Annunciation Study I", 
-  "DateAcquired": "1985-09-10", 
+  "CreditLine": "The Riklis Collection of McCrory Corporation", 
   "Date": "1978", 
   "ArtistID": 3758, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "925.1983", 
-  "ArtistBio": "American, born 1938", 
-  "CreditLine": "The Riklis Collection of McCrory Corporation", 
+  "ArtistBio": "(American, born 1938)", 
+  "DateAcquired": "1985-09-10", 
+  "\ufeffTitle": "Annunciation Study I", 
   "ObjectID": "38276"
 }

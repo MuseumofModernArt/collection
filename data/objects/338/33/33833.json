@@ -5,8 +5,7 @@
   "Artist": "Pablo Picasso", 
   "URL": "http://www.moma.org/collection/works/33833", 
   "CuratorApproved": "Y", 
-  "Title": "Nude Woman, Standing", 
-  "DateAcquired": "1996-03-14", 
+  "CreditLine": "Louise Reinhardt Smith Bequest", 
   "Date": "(1912)", 
   "ArtistID": 4609, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "91.1996", 
-  "ArtistBio": "Spanish, 1881\u20131973", 
-  "CreditLine": "Louise Reinhardt Smith Bequest", 
+  "ArtistBio": "(Spanish, 1881\u20131973)", 
+  "DateAcquired": "1996-03-14", 
+  "\ufeffTitle": "Nude Woman, Standing", 
   "ObjectID": "33833"
 }

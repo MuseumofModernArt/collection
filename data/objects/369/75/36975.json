@@ -5,8 +5,7 @@
   "Artist": "Terry Winters", 
   "URL": "http://www.moma.org/collection/works/36975", 
   "CuratorApproved": "Y", 
-  "Title": "Dark Plants 12", 
-  "DateAcquired": "1982-11-04", 
+  "CreditLine": "Purchase", 
   "Date": "(1982)", 
   "ArtistID": 6408, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "450.1982", 
-  "ArtistBio": "American, born 1949", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, born 1949)", 
+  "DateAcquired": "1982-11-04", 
+  "\ufeffTitle": "Dark Plants 12", 
   "ObjectID": "36975"
 }

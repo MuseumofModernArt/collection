@@ -5,8 +5,7 @@
   "Artist": "Milton Glaser", 
   "URL": "http://www.moma.org/collection/works/8111", 
   "CuratorApproved": "Y", 
-  "Title": "Lovin' Spoonful", 
-  "DateAcquired": "1983-11-30", 
+  "CreditLine": "Gift of the designer", 
   "Date": "c. 1967", 
   "ArtistID": 2188, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "774.1983", 
-  "ArtistBio": "American, born 1929", 
-  "CreditLine": "Gift of the designer", 
+  "ArtistBio": "(American, born 1929)", 
+  "DateAcquired": "1983-11-30", 
+  "\ufeffTitle": "Lovin' Spoonful", 
   "ObjectID": "8111"
 }

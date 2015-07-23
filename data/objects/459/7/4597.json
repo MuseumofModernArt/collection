@@ -5,8 +5,7 @@
   "Artist": "Pio Manz\u00f9", 
   "URL": "http://www.moma.org/collection/works/4597", 
   "CuratorApproved": "Y", 
-  "Title": "Chronotime Clock", 
-  "DateAcquired": "1969-12-01", 
+  "CreditLine": "Purchase and gift of Mrs. Manzu", 
   "Date": "1968", 
   "ArtistID": 3743, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "1125.1969.1-2", 
-  "ArtistBio": "Italian, 1939\u20131969", 
-  "CreditLine": "Purchase and gift of Mrs. Manzu", 
+  "ArtistBio": "(Italian, 1939\u20131969)", 
+  "DateAcquired": "1969-12-01", 
+  "\ufeffTitle": "Chronotime Clock", 
   "ObjectID": "4597"
 }

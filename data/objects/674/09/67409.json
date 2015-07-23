@@ -5,8 +5,7 @@
   "Artist": "Bill Jensen", 
   "URL": "http://www.moma.org/collection/works/67409", 
   "CuratorApproved": "Y", 
-  "Title": "Etching for Denial", 
-  "DateAcquired": "1988-10-25", 
+  "CreditLine": "Gift of Emily Fisher Landau", 
   "Date": "1986-88", 
   "ArtistID": 2907, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "347.1988", 
-  "ArtistBio": "American, born 1945", 
-  "CreditLine": "Gift of Emily Fisher Landau", 
+  "ArtistBio": "(American, born 1945)", 
+  "DateAcquired": "1988-10-25", 
+  "\ufeffTitle": "Etching for Denial", 
   "ObjectID": "67409"
 }

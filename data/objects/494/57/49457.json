@@ -5,8 +5,7 @@
   "Artist": "Thomas Struth", 
   "URL": "http://www.moma.org/collection/works/49457", 
   "CuratorApproved": "Y", 
-  "Title": "Panorama 1, Paris, Beaugrenelle", 
-  "DateAcquired": "1999-06-10", 
+  "CreditLine": "The Family of Man Fund", 
   "Date": "1979", 
   "ArtistID": 7825, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "244.1999", 
-  "ArtistBio": "German, born 1954", 
-  "CreditLine": "The Family of Man Fund", 
+  "ArtistBio": "(German, born 1954)", 
+  "DateAcquired": "1999-06-10", 
+  "\ufeffTitle": "Panorama 1, Paris, Beaugrenelle", 
   "ObjectID": "49457"
 }

@@ -5,8 +5,7 @@
   "Artist": "Asger Jorn", 
   "URL": "http://www.moma.org/collection/works/65084", 
   "CuratorApproved": "Y", 
-  "Title": "The King of Birds (Le roi d'oiseux)", 
-  "DateAcquired": "1982-10-26", 
+  "CreditLine": "Nelson Blitz, Jr. Fund", 
   "Date": "1953", 
   "ArtistID": 2943, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "243.1982", 
-  "ArtistBio": "Danish, 1914\u20131973", 
-  "CreditLine": "Nelson Blitz, Jr. Fund", 
+  "ArtistBio": "(Danish, 1914\u20131973)", 
+  "DateAcquired": "1982-10-26", 
+  "\ufeffTitle": "The King of Birds (Le roi d'oiseux)", 
   "ObjectID": "65084"
 }

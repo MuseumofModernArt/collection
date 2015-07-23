@@ -5,8 +5,7 @@
   "Artist": "Lester Beall", 
   "URL": "http://www.moma.org/collection/works/8278", 
   "CuratorApproved": "Y", 
-  "Title": "Our Lines, Rural Electrificaton Administration", 
-  "DateAcquired": "1979-05-30", 
+  "CreditLine": "Given anonymously", 
   "Date": "1941", 
   "ArtistID": 409, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "861.1979", 
-  "ArtistBio": "American, 1903\u20131969", 
-  "CreditLine": "Given anonymously", 
+  "ArtistBio": "(American, 1903\u20131969)", 
+  "DateAcquired": "1979-05-30", 
+  "\ufeffTitle": "Our Lines, Rural Electrificaton Administration", 
   "ObjectID": "8278"
 }

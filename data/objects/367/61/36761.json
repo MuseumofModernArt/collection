@@ -5,8 +5,7 @@
   "Artist": "Luc Tuymans", 
   "URL": "http://www.moma.org/collection/works/36761", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1999-10-21", 
+  "CreditLine": "Gift of Sarah-Ann and Werner H. Kramarsky", 
   "Date": "1989", 
   "ArtistID": 7520, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "404.1999", 
-  "ArtistBio": "Belgian, born 1958", 
-  "CreditLine": "Gift of Sarah-Ann and Werner H. Kramarsky", 
+  "ArtistBio": "(Belgian, born 1958)", 
+  "DateAcquired": "1999-10-21", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "36761"
 }

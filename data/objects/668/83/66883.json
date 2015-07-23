@@ -1,12 +1,11 @@
 {
   "Medium": "Etching", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "Lolita Zikmane", 
   "URL": "http://www.moma.org/collection/works/66883", 
   "CuratorApproved": "Y", 
-  "Title": "Woman by the Window", 
-  "DateAcquired": "1985-10-07", 
+  "CreditLine": "Purchase", 
   "Date": "1982", 
   "ArtistID": 6567, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "320.1985", 
-  "ArtistBio": "Russian", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(Russian)", 
+  "DateAcquired": "1985-10-07", 
+  "\ufeffTitle": "Woman by the Window", 
   "ObjectID": "66883"
 }

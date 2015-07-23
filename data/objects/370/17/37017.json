@@ -5,8 +5,7 @@
   "Artist": "Gerhard Richter", 
   "URL": "http://www.moma.org/collection/works/37017", 
   "CuratorApproved": "Y", 
-  "Title": "17.11.82", 
-  "DateAcquired": "1986-12-22", 
+  "CreditLine": "Gift of Constance B. Cartwright", 
   "Date": "1982", 
   "ArtistID": 4907, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "457.1986", 
-  "ArtistBio": "German, born 1932", 
-  "CreditLine": "Gift of Constance B. Cartwright", 
+  "ArtistBio": "(German, born 1932)", 
+  "DateAcquired": "1986-12-22", 
+  "\ufeffTitle": "17.11.82", 
   "ObjectID": "37017"
 }

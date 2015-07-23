@@ -5,8 +5,7 @@
   "Artist": "Unknown photographer", 
   "URL": "http://www.moma.org/collection/works/47436", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1982-05-13", 
+  "CreditLine": "Anonymous gift", 
   "Date": "c. 1870", 
   "ArtistID": 6028, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "177.1982", 
-  "ArtistBio": "NULL", 
-  "CreditLine": "Anonymous gift", 
+  "ArtistBio": "", 
+  "DateAcquired": "1982-05-13", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "47436"
 }

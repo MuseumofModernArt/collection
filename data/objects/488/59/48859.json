@@ -5,8 +5,7 @@
   "Artist": "Bruce Horowitz", 
   "URL": "http://www.moma.org/collection/works/48859", 
   "CuratorApproved": "Y", 
-  "Title": "Regina and Peter, #1", 
-  "DateAcquired": "1970-05-05", 
+  "CreditLine": "Purchase", 
   "Date": "1970", 
   "ArtistID": 2729, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "219.1970", 
-  "ArtistBio": "American, born 1949", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, born 1949)", 
+  "DateAcquired": "1970-05-05", 
+  "\ufeffTitle": "Regina and Peter, #1", 
   "ObjectID": "48859"
 }

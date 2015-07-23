@@ -5,8 +5,7 @@
   "Artist": "Olof Backstrom", 
   "URL": "http://www.moma.org/collection/works/3250", 
   "CuratorApproved": "Y", 
-  "Title": "Scissors", 
-  "DateAcquired": "1977-06-01", 
+  "CreditLine": "Greta Daniel Fund", 
   "Date": "1960", 
   "ArtistID": 271, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "306.1977", 
-  "ArtistBio": "Finnish, born 1922", 
-  "CreditLine": "Greta Daniel Fund", 
+  "ArtistBio": "(Finnish, born 1922)", 
+  "DateAcquired": "1977-06-01", 
+  "\ufeffTitle": "Scissors", 
   "ObjectID": "3250"
 }

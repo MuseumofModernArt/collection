@@ -5,8 +5,7 @@
   "Artist": "Timo Sarpaneva", 
   "URL": "http://www.moma.org/collection/works/3935", 
   "CuratorApproved": "Y", 
-  "Title": "Plate", 
-  "DateAcquired": "1997-10-17", 
+  "CreditLine": "Gift of the Contemporary Arts Council of The Museum of Modern Art in memory of Hedi Kravis Ruger", 
   "Date": "1960s", 
   "ArtistID": 5168, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "468.1997", 
-  "ArtistBio": "Finnish, 1926\u20132006", 
-  "CreditLine": "Gift of the Contemporary Arts Council of The Museum of Modern Art in memory of Hedi Kravis Ruger", 
+  "ArtistBio": "(Finnish, 1926\u20132006)", 
+  "DateAcquired": "1997-10-17", 
+  "\ufeffTitle": "Plate", 
   "ObjectID": "3935"
 }

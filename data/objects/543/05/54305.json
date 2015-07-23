@@ -5,8 +5,7 @@
   "Artist": "Joel Sternfeld", 
   "URL": "http://www.moma.org/collection/works/54305", 
   "CuratorApproved": "Y", 
-  "Title": "Lake Oswego, Oregon", 
-  "DateAcquired": "1984-12-05", 
+  "CreditLine": "Gift of the photographer", 
   "Date": "1979", 
   "ArtistID": 5656, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "491.1984", 
-  "ArtistBio": "American, born 1944", 
-  "CreditLine": "Gift of the photographer", 
+  "ArtistBio": "(American, born 1944)", 
+  "DateAcquired": "1984-12-05", 
+  "\ufeffTitle": "Lake Oswego, Oregon", 
   "ObjectID": "54305"
 }

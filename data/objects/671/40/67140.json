@@ -5,8 +5,7 @@
   "Artist": "Ida Applebroog", 
   "URL": "http://www.moma.org/collection/works/67140", 
   "CuratorApproved": "Y", 
-  "Title": "So?", 
-  "DateAcquired": "1998-05-14", 
+  "CreditLine": "John B. Turner Fund", 
   "Date": "1983", 
   "ArtistID": 205, 
   "Keywords": [
@@ -16,7 +15,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "334.1998", 
-  "ArtistBio": "American, born 1929", 
-  "CreditLine": "John B. Turner Fund", 
+  "ArtistBio": "(American, born 1929)", 
+  "DateAcquired": "1998-05-14", 
+  "\ufeffTitle": "So?", 
   "ObjectID": "67140"
 }

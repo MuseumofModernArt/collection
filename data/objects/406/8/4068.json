@@ -5,8 +5,7 @@
   "Artist": "Frank O. Gehry", 
   "URL": "http://www.moma.org/collection/works/4068", 
   "CuratorApproved": "Y", 
-  "Title": "Sketch for Bubbles Lounge Chair", 
-  "DateAcquired": "1990-10-24", 
+  "CreditLine": "Gift of Barbara Pine in Memory of Morris Goldman", 
   "Date": "1987", 
   "ArtistID": 2108, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "493.1990", 
-  "ArtistBio": "American, born Canada 1929", 
-  "CreditLine": "Gift of Barbara Pine in Memory of Morris Goldman", 
+  "ArtistBio": "(American, born Canada 1929)", 
+  "DateAcquired": "1990-10-24", 
+  "\ufeffTitle": "Sketch for Bubbles Lounge Chair", 
   "ObjectID": "4068"
 }

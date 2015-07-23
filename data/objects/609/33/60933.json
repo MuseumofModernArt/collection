@@ -1,12 +1,11 @@
 {
   "Medium": "Lithograph", 
-  "Dimensions": "Composition (irreg.): 21 5/8 x 17 5/8\" (55 x 44.7 cm)  Sheet: 30 1/8 x 26 1/4\" (76.5 x 66.6 cm)", 
+  "Dimensions": "Composition (irreg.): 21 5/8 x 17 5/8\" (55 x 44.7 cm)\r\nSheet: 30 1/8 x 26 1/4\" (76.5 x 66.6 cm)", 
   "Classification": "Print", 
   "Artist": "Agnes Denes", 
   "URL": "http://www.moma.org/collection/works/60933", 
   "CuratorApproved": "Y", 
-  "Title": "The Reflection", 
-  "DateAcquired": "1984-02-01", 
+  "CreditLine": "John B. Turner Fund", 
   "Date": "1981", 
   "ArtistID": 1491, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "50.1984", 
-  "ArtistBio": "American, born 1931", 
-  "CreditLine": "John B. Turner Fund", 
+  "ArtistBio": "(American, born 1931)", 
+  "DateAcquired": "1984-02-01", 
+  "\ufeffTitle": "The Reflection", 
   "ObjectID": "60933"
 }

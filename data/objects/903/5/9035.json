@@ -5,8 +5,7 @@
   "Artist": "Adolf Ferdinand Schinnerer", 
   "URL": "http://www.moma.org/collection/works/9035", 
   "CuratorApproved": "Y", 
-  "Title": "The Banquet (plate 28) from the illustrated book Deutsche Graphiker der Gegenwart (German Printmakers of Our Time)", 
-  "DateAcquired": "NULL", 
+  "CreditLine": "Purchase", 
   "Date": "1920", 
   "ArtistID": 5218, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "2.1942.21", 
-  "ArtistBio": "German, 1876\u20131949", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(German, 1876\u20131949)", 
+  "DateAcquired": "", 
+  "\ufeffTitle": "The Banquet (Das Gastmahl) (plate 28) from the illustrated book Deutsche Graphiker der Gegenwart (German Printmakers of Our Time)", 
   "ObjectID": "9035"
 }

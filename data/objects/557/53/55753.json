@@ -5,8 +5,7 @@
   "Artist": "James Wallace Black", 
   "URL": "http://www.moma.org/collection/works/55753", 
   "CuratorApproved": "Y", 
-  "Title": "The Ledges, North Conway", 
-  "DateAcquired": "1977-12-15", 
+  "CreditLine": "Gift of Warner Communications, Inc.", 
   "Date": "1854", 
   "ArtistID": 582, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "638.1977", 
-  "ArtistBio": "American, 1825\u20131896", 
-  "CreditLine": "Gift of Warner Communications, Inc.", 
+  "ArtistBio": "(American, 1825\u20131896)", 
+  "DateAcquired": "1977-12-15", 
+  "\ufeffTitle": "The Ledges, North Conway", 
   "ObjectID": "55753"
 }

@@ -5,8 +5,7 @@
   "Artist": "Moshe Zabari", 
   "URL": "http://www.moma.org/collection/works/2895", 
   "CuratorApproved": "Y", 
-  "Title": "Alms Box", 
-  "DateAcquired": "1965-04-06", 
+  "CreditLine": "Gift of Dr. and Mrs. Abram Kanof", 
   "Date": "1962", 
   "ArtistID": 7153, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "233.1965", 
-  "ArtistBio": "American, born 1935", 
-  "CreditLine": "Gift of Dr. and Mrs. Abram Kanof", 
+  "ArtistBio": "(American, born 1935)", 
+  "DateAcquired": "1965-04-06", 
+  "\ufeffTitle": "Alms Box", 
   "ObjectID": "2895"
 }

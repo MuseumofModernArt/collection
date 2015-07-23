@@ -5,8 +5,7 @@
   "Artist": "Lois Conner", 
   "URL": "http://www.moma.org/collection/works/45597", 
   "CuratorApproved": "Y", 
-  "Title": "Yangshuo, China", 
-  "DateAcquired": "1986-01-15", 
+  "CreditLine": "Gift of the photographer", 
   "Date": "1984", 
   "ArtistID": 6616, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "71.1986", 
-  "ArtistBio": "American, born 1951", 
-  "CreditLine": "Gift of the photographer", 
+  "ArtistBio": "(American, born 1951)", 
+  "DateAcquired": "1986-01-15", 
+  "\ufeffTitle": "Yangshuo, China", 
   "ObjectID": "45597"
 }

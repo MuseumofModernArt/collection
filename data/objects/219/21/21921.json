@@ -1,12 +1,11 @@
 {
   "Medium": "Illustrated Book with 5 etchings and 6 woodcuts", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Illustrated Book", 
   "Artist": "Jim Dine", 
   "URL": "http://www.moma.org/collection/works/21921", 
   "CuratorApproved": "Y", 
-  "Title": "The Case of the Wolf-man by Sigmund Freud", 
-  "DateAcquired": "1993-11-17", 
+  "CreditLine": "John B. Turner Fund", 
   "Date": "1993", 
   "ArtistID": 1547, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "699.1993.1-11", 
-  "ArtistBio": "American, born 1935", 
-  "CreditLine": "John B. Turner Fund", 
+  "ArtistBio": "(American, born 1935)", 
+  "DateAcquired": "1993-11-17", 
+  "\ufeffTitle": "The Case of the Wolf-man", 
   "ObjectID": "21921"
 }

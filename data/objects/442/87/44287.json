@@ -5,8 +5,7 @@
   "Artist": "Walker Evans", 
   "URL": "http://www.moma.org/collection/works/44287", 
   "CuratorApproved": "Y", 
-  "Title": "American Legionnaire", 
-  "DateAcquired": "1941-01-16", 
+  "CreditLine": "Gift of the Farm Security Administration", 
   "Date": "1936", 
   "ArtistID": 1777, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "32.1941", 
-  "ArtistBio": "American, 1903\u20131975", 
-  "CreditLine": "Gift of the Farm Security Administration", 
+  "ArtistBio": "(American, 1903\u20131975)", 
+  "DateAcquired": "1941-01-16", 
+  "\ufeffTitle": "American Legionnaire", 
   "ObjectID": "44287"
 }

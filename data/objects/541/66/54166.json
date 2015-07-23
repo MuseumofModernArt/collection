@@ -5,8 +5,7 @@
   "Artist": "Regina Maria De Luise", 
   "URL": "http://www.moma.org/collection/works/54166", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1981-12-17", 
+  "CreditLine": "Gift of the photographer", 
   "Date": "March 1981", 
   "ArtistID": 1432, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "482.1981", 
-  "ArtistBio": "American, born 1959", 
-  "CreditLine": "Gift of the photographer", 
+  "ArtistBio": "(American, born 1959)", 
+  "DateAcquired": "1981-12-17", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "54166"
 }

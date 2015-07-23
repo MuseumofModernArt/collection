@@ -5,8 +5,7 @@
   "Artist": "Andy Warhol", 
   "URL": "http://www.moma.org/collection/works/52411", 
   "CuratorApproved": "Y", 
-  "Title": "Holly Solomon", 
-  "DateAcquired": "1998-06-11", 
+  "CreditLine": "Gift of Holly Solomon", 
   "Date": "c. 1965", 
   "ArtistID": 6246, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "391.1998", 
-  "ArtistBio": "American, 1928\u20131987", 
-  "CreditLine": "Gift of Holly Solomon", 
+  "ArtistBio": "(American, 1928\u20131987)", 
+  "DateAcquired": "1998-06-11", 
+  "\ufeffTitle": "Holly Solomon", 
   "ObjectID": "52411"
 }

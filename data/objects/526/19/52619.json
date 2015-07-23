@@ -5,8 +5,7 @@
   "Artist": "August Sander", 
   "URL": "http://www.moma.org/collection/works/52619", 
   "CuratorApproved": "Y", 
-  "Title": "Viennese Jockey", 
-  "DateAcquired": "1953-04-07", 
+  "CreditLine": "Gift of the photographer", 
   "Date": "1929", 
   "ArtistID": 5145, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "401.1953", 
-  "ArtistBio": "German, 1876\u20131964", 
-  "CreditLine": "Gift of the photographer", 
+  "ArtistBio": "(German, 1876\u20131964)", 
+  "DateAcquired": "1953-04-07", 
+  "\ufeffTitle": "Viennese Jockey", 
   "ObjectID": "52619"
 }

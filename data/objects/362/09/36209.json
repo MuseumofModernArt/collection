@@ -5,8 +5,7 @@
   "Artist": "Alex Katz", 
   "URL": "http://www.moma.org/collection/works/36209", 
   "CuratorApproved": "Y", 
-  "Title": "Ada", 
-  "DateAcquired": "1980-01-15", 
+  "CreditLine": "Gift of Edgar B. Howard", 
   "Date": "1973", 
   "ArtistID": 3016, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "312.1980", 
-  "ArtistBio": "American, born 1927", 
-  "CreditLine": "Gift of Edgar B. Howard", 
+  "ArtistBio": "(American, born 1927)", 
+  "DateAcquired": "1980-01-15", 
+  "\ufeffTitle": "Ada", 
   "ObjectID": "36209"
 }

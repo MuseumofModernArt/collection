@@ -1,12 +1,11 @@
 {
   "Medium": "Etching, aquatint, and drypoint", 
-  "Dimensions": "plate  35 5/8 x 23 9/16\" (90.5 x 59.8 cm)  sheet  41 7/8 x 29 7/16\" (106 x 74.8 cm)", 
+  "Dimensions": "plate  35 5/8 x 23 9/16\" (90.5 x 59.8 cm)\r\nsheet  41 7/8 x 29 7/16\" (106 x 74.8 cm)", 
   "Classification": "Print", 
   "Artist": "Jim Dine", 
   "URL": "http://www.moma.org/collection/works/68970", 
   "CuratorApproved": "Y", 
-  "Title": "The Brown Coat", 
-  "DateAcquired": "1977-11-10", 
+  "CreditLine": "Gift of the artist", 
   "Date": "1977", 
   "ArtistID": 1547, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "428.1977", 
-  "ArtistBio": "American, born 1935", 
-  "CreditLine": "Gift of the artist", 
+  "ArtistBio": "(American, born 1935)", 
+  "DateAcquired": "1977-11-10", 
+  "\ufeffTitle": "The Brown Coat", 
   "ObjectID": "68970"
 }

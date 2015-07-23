@@ -5,8 +5,7 @@
   "Artist": "Larry Fink", 
   "URL": "http://www.moma.org/collection/works/53461", 
   "CuratorApproved": "Y", 
-  "Title": "Molly at Three Months", 
-  "DateAcquired": "1980-05-21", 
+  "CreditLine": "Gift of the photographer", 
   "Date": "1979", 
   "ArtistID": 1877, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "444.1980", 
-  "ArtistBio": "American, born 1941", 
-  "CreditLine": "Gift of the photographer", 
+  "ArtistBio": "(American, born 1941)", 
+  "DateAcquired": "1980-05-21", 
+  "\ufeffTitle": "Molly at Three Months", 
   "ObjectID": "53461"
 }

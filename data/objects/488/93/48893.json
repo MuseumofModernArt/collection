@@ -5,8 +5,7 @@
   "Artist": "Ken Heyman", 
   "URL": "http://www.moma.org/collection/works/48893", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1962-05-08", 
+  "CreditLine": "Purchase", 
   "Date": "1961", 
   "ArtistID": 2628, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "221.1962", 
-  "ArtistBio": "American, born 1930", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, born 1930)", 
+  "DateAcquired": "1962-05-08", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "48893"
 }

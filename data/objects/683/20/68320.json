@@ -5,8 +5,7 @@
   "Artist": "Brice Marden", 
   "URL": "http://www.moma.org/collection/works/68320", 
   "CuratorApproved": "Y", 
-  "Title": "Grid I", 
-  "DateAcquired": "1981-10-22", 
+  "CreditLine": "Gift of Edgar B. Howard", 
   "Date": "1971", 
   "ArtistID": 3758, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "391.1981", 
-  "ArtistBio": "American, born 1938", 
-  "CreditLine": "Gift of Edgar B. Howard", 
+  "ArtistBio": "(American, born 1938)", 
+  "DateAcquired": "1981-10-22", 
+  "\ufeffTitle": "Grid I", 
   "ObjectID": "68320"
 }

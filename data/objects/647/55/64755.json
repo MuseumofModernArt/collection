@@ -1,12 +1,11 @@
 {
   "Medium": "Etching and aquatint", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "Joe Andoe", 
   "URL": "http://www.moma.org/collection/works/64755", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled from an untitled portfolio", 
-  "DateAcquired": "1992-05-20", 
+  "CreditLine": "Gift of Pace Prints and the artist", 
   "Date": "1990", 
   "ArtistID": 172, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "226.1992", 
-  "ArtistBio": "American, born 1955", 
-  "CreditLine": "Gift of Pace Prints and the artist", 
+  "ArtistBio": "(American, born 1955)", 
+  "DateAcquired": "1992-05-20", 
+  "\ufeffTitle": "Untitled from an untitled portfolio", 
   "ObjectID": "64755"
 }

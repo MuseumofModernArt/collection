@@ -1,12 +1,11 @@
 {
   "Medium": "Portfolio of 3 photolithographs", 
-  "Dimensions": "each composition  32 x 24\" (81.3 x 61 cm)  each sheet  32 x 24\" (81 x 61 cm)", 
+  "Dimensions": "each composition  32 x 24\" (81.3 x 61 cm)\r\neach sheet  32 x 24\" (81 x 61 cm)", 
   "Classification": "Print", 
   "Artist": "Sarah Charlesworth", 
   "URL": "http://www.moma.org/collection/works/59640", 
   "CuratorApproved": "Y", 
-  "Title": "Tartan Sets", 
-  "DateAcquired": "1989-01-18", 
+  "CreditLine": "Gift of Ilene Kurtz", 
   "Date": "1986", 
   "ArtistID": 1073, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "4.1989.1-3", 
-  "ArtistBio": "American, 1947\u20132013", 
-  "CreditLine": "Gift of Ilene Kurtz", 
+  "ArtistBio": "(American, 1947\u20132013)", 
+  "DateAcquired": "1989-01-18", 
+  "\ufeffTitle": "Tartan Sets", 
   "ObjectID": "59640"
 }

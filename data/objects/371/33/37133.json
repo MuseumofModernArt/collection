@@ -5,8 +5,7 @@
   "Artist": "Jacob Epstein", 
   "URL": "http://www.moma.org/collection/works/37133", 
   "CuratorApproved": "Y", 
-  "Title": "Study for The Rock Drill", 
-  "DateAcquired": "1976-10-28", 
+  "CreditLine": "Gift of Constance B. Cartwright", 
   "Date": "(c. 1913)", 
   "ArtistID": 1741, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "485.1976", 
-  "ArtistBio": "British, born U.S.A. 1880\u20131959", 
-  "CreditLine": "Gift of Constance B. Cartwright", 
+  "ArtistBio": "(British, born U.S.A. 1880\u20131959)", 
+  "DateAcquired": "1976-10-28", 
+  "\ufeffTitle": "Study for The Rock Drill", 
   "ObjectID": "37133"
 }

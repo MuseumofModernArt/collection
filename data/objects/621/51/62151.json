@@ -5,8 +5,7 @@
   "Artist": "Emil Nolde", 
   "URL": "http://www.moma.org/collection/works/62151", 
   "CuratorApproved": "Y", 
-  "Title": "Prophet", 
-  "DateAcquired": "1956-03-19", 
+  "CreditLine": "Given anonymously (by exchange)", 
   "Date": "(1912)", 
   "ArtistID": 4327, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "119.1956", 
-  "ArtistBio": "German, 1867\u20131956", 
-  "CreditLine": "Given anonymously (by exchange)", 
+  "ArtistBio": "(German, 1867\u20131956)", 
+  "DateAcquired": "1956-03-19", 
+  "\ufeffTitle": "Prophet", 
   "ObjectID": "62151"
 }

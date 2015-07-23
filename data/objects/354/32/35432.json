@@ -5,8 +5,7 @@
   "Artist": "Terry Winters", 
   "URL": "http://www.moma.org/collection/works/35432", 
   "CuratorApproved": "Y", 
-  "Title": "Schema (65)", 
-  "DateAcquired": "1988-05-05", 
+  "CreditLine": "Gift of Lily Auchincloss (by exchange) and of Richard E. Salomon", 
   "Date": "(1985-86)", 
   "ArtistID": 6408, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "232.1988", 
-  "ArtistBio": "American, born 1949", 
-  "CreditLine": "Gift of Lily Auchincloss (by exchange) and of Richard E. Salomon", 
+  "ArtistBio": "(American, born 1949)", 
+  "DateAcquired": "1988-05-05", 
+  "\ufeffTitle": "Schema (65)", 
   "ObjectID": "35432"
 }

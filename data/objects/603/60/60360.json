@@ -5,8 +5,7 @@
   "Artist": "Larry Rivers", 
   "URL": "http://www.moma.org/collection/works/60360", 
   "CuratorApproved": "Y", 
-  "Title": "Diane Raised III", 
-  "DateAcquired": "1972-02-07", 
+  "CreditLine": "Gift of Celeste Bartos", 
   "Date": "1970-71", 
   "ArtistID": 4945, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "26.1972", 
-  "ArtistBio": "American, 1923\u20132002", 
-  "CreditLine": "Gift of Celeste Bartos", 
+  "ArtistBio": "(American, 1923\u20132002)", 
+  "DateAcquired": "1972-02-07", 
+  "\ufeffTitle": "Diane Raised III", 
   "ObjectID": "60360"
 }

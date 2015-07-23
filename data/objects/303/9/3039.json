@@ -5,8 +5,7 @@
   "Artist": "Stig Lindberg", 
   "URL": "http://www.moma.org/collection/works/3039", 
   "CuratorApproved": "Y", 
-  "Title": "Covered Container", 
-  "DateAcquired": "1958-12-04", 
+  "CreditLine": "Gift of the manufacturer", 
   "Date": "1957", 
   "ArtistID": 3555, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "247.1958.a-b", 
-  "ArtistBio": "Swedish, 1916\u20131982", 
-  "CreditLine": "Gift of the manufacturer", 
+  "ArtistBio": "(Swedish, 1916\u20131982)", 
+  "DateAcquired": "1958-12-04", 
+  "\ufeffTitle": "Covered Container", 
   "ObjectID": "3039"
 }

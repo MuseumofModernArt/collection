@@ -5,8 +5,7 @@
   "Artist": "Richard Paul Lohse", 
   "URL": "http://www.moma.org/collection/works/6052", 
   "CuratorApproved": "Y", 
-  "Title": "Ausstellung Musikinstrumente Kunstgewerbemuseum Z\u00fcrich", 
-  "DateAcquired": "1962-11-07", 
+  "CreditLine": "Gift of the Kunstgewerbe Museum, Z\u00fcrich", 
   "Date": "1962", 
   "ArtistID": 3587, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "281.1962", 
-  "ArtistBio": "Swiss, 1902\u20131988", 
-  "CreditLine": "Gift of the Kunstgewerbe Museum, Z\u00fcrich", 
+  "ArtistBio": "(Swiss, 1902\u20131988)", 
+  "DateAcquired": "1962-11-07", 
+  "\ufeffTitle": "Ausstellung Musikinstrumente Kunstgewerbemuseum Z\u00fcrich", 
   "ObjectID": "6052"
 }

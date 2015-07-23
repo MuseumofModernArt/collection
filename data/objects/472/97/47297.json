@@ -5,8 +5,7 @@
   "Artist": "Gertrude K\u00e4sebier", 
   "URL": "http://www.moma.org/collection/works/47297", 
   "CuratorApproved": "Y", 
-  "Title": "Mrs. R", 
-  "DateAcquired": "1963-02-13", 
+  "CreditLine": "Gift of Mrs. Hermine M. Turner", 
   "Date": "1905", 
   "ArtistID": 3008, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "170.1963", 
-  "ArtistBio": "American, 1852\u20131934", 
-  "CreditLine": "Gift of Mrs. Hermine M. Turner", 
+  "ArtistBio": "(American, 1852\u20131934)", 
+  "DateAcquired": "1963-02-13", 
+  "\ufeffTitle": "Mrs. R", 
   "ObjectID": "47297"
 }

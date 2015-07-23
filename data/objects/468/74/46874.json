@@ -5,8 +5,7 @@
   "Artist": "Albert Renger-Patzsch", 
   "URL": "http://www.moma.org/collection/works/46874", 
   "CuratorApproved": "Y", 
-  "Title": "Echeveria", 
-  "DateAcquired": "1967-03-07", 
+  "CreditLine": "Gift of the photographer", 
   "Date": "1922", 
   "ArtistID": 4866, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "146.1967", 
-  "ArtistBio": "German, 1897\u20131966", 
-  "CreditLine": "Gift of the photographer", 
+  "ArtistBio": "(German, 1897\u20131966)", 
+  "DateAcquired": "1967-03-07", 
+  "\ufeffTitle": "Echeveria", 
   "ObjectID": "46874"
 }

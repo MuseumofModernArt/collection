@@ -5,8 +5,7 @@
   "Artist": "Ernst Haas", 
   "URL": "http://www.moma.org/collection/works/53177", 
   "CuratorApproved": "Y", 
-  "Title": "New York", 
-  "DateAcquired": "1959-04-22", 
+  "CreditLine": "Gift of Leo Pavelle", 
   "Date": "1949-53", 
   "ArtistID": 2431, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "423.1959", 
-  "ArtistBio": "American, born Austria. 1921\u20131986", 
-  "CreditLine": "Gift of Leo Pavelle", 
+  "ArtistBio": "(American, born Austria. 1921\u20131986)", 
+  "DateAcquired": "1959-04-22", 
+  "\ufeffTitle": "New York", 
   "ObjectID": "53177"
 }

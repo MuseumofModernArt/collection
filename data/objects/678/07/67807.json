@@ -5,8 +5,7 @@
   "Artist": "Paul Signac", 
   "URL": "http://www.moma.org/collection/works/67807", 
   "CuratorApproved": "Y", 
-  "Title": "The Boats", 
-  "DateAcquired": "1948-10-06", 
+  "CreditLine": "Gift of Victor S. Riesenfeld", 
   "Date": "(1895)", 
   "ArtistID": 5421, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "365.1948", 
-  "ArtistBio": "French, 1863\u20131935", 
-  "CreditLine": "Gift of Victor S. Riesenfeld", 
+  "ArtistBio": "(French, 1863\u20131935)", 
+  "DateAcquired": "1948-10-06", 
+  "\ufeffTitle": "The Boats", 
   "ObjectID": "67807"
 }

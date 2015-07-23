@@ -1,12 +1,11 @@
 {
   "Medium": "Screenprint", 
-  "Dimensions": "composition  35 1/16 x 7 15/16\" (89.1 x 20.3 cm)  sheet  35 1/16 x 7 15/16\" (89.1 x 20.3 cm)", 
+  "Dimensions": "composition  35 1/16 x 7 15/16\" (89.1 x 20.3 cm)\r\nsheet  35 1/16 x 7 15/16\" (89.1 x 20.3 cm)", 
   "Classification": "Print", 
   "Artist": "Keith Sonnier", 
   "URL": "http://www.moma.org/collection/works/66085", 
   "CuratorApproved": "Y", 
-  "Title": "Control Scene", 
-  "DateAcquired": "1975-10-07", 
+  "CreditLine": "John B. Turner Fund", 
   "Date": "1975", 
   "ArtistID": 5526, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "287.1975", 
-  "ArtistBio": "American, born 1941", 
-  "CreditLine": "John B. Turner Fund", 
+  "ArtistBio": "(American, born 1941)", 
+  "DateAcquired": "1975-10-07", 
+  "\ufeffTitle": "Control Scene", 
   "ObjectID": "66085"
 }

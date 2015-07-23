@@ -1,12 +1,11 @@
 {
   "Medium": "Screenprint", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "Raul Meel", 
   "URL": "http://www.moma.org/collection/works/66704", 
   "CuratorApproved": "Y", 
-  "Title": "Under the Sky-FSO", 
-  "DateAcquired": "1985-10-07", 
+  "CreditLine": "Purchase", 
   "Date": "1973-78", 
   "ArtistID": 3906, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "313.1985", 
-  "ArtistBio": "Estonian", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(Estonian)", 
+  "DateAcquired": "1985-10-07", 
+  "\ufeffTitle": "Under the Sky-FSO", 
   "ObjectID": "66704"
 }

@@ -1,12 +1,11 @@
 {
   "Medium": "Etching and aquatint", 
-  "Dimensions": "plate  3 1/4 x 3 1/4\" (8.3 x 8.2 cm)  sheet  13 x 10 1/16\" (33 x 25.6 cm)", 
+  "Dimensions": "plate  3 1/4 x 3 1/4\" (8.3 x 8.2 cm)\r\nsheet  13 x 10 1/16\" (33 x 25.6 cm)", 
   "Classification": "Print", 
   "Artist": "Nono Reinhold", 
   "URL": "http://www.moma.org/collection/works/59979", 
   "CuratorApproved": "Y", 
-  "Title": "Aquatique I", 
-  "DateAcquired": "1988-01-19", 
+  "CreditLine": "Blanchette Hooker Rockefeller Fund", 
   "Date": "1981", 
   "ArtistID": 4857, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "15.1988", 
-  "ArtistBio": "Dutch, born 1929", 
-  "CreditLine": "Blanchette Hooker Rockefeller Fund", 
+  "ArtistBio": "(Dutch, born 1929)", 
+  "DateAcquired": "1988-01-19", 
+  "\ufeffTitle": "Aquatique I", 
   "ObjectID": "59979"
 }

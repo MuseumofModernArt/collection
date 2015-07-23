@@ -5,8 +5,7 @@
   "Artist": "Marli Ehrman", 
   "URL": "http://www.moma.org/collection/works/4506", 
   "CuratorApproved": "Y", 
-  "Title": "Upholstery Fabric Sample (no. 13304)", 
-  "DateAcquired": "1942-01-01", 
+  "CreditLine": "Purchase Fund", 
   "Date": "1941", 
   "ArtistID": 1694, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "880.1942", 
-  "ArtistBio": "American, born Germany. 1904\u20131982", 
-  "CreditLine": "Purchase Fund", 
+  "ArtistBio": "(American, born Germany. 1904\u20131982)", 
+  "DateAcquired": "1942-01-01", 
+  "\ufeffTitle": "Upholstery Fabric Sample (no. 13304)", 
   "ObjectID": "4506"
 }

@@ -1,12 +1,11 @@
 {
   "Medium": "Photogravure", 
-  "Dimensions": "6 1/4 x 4 7/16\" (15.9 x 11.2 cm)  ", 
+  "Dimensions": "6 1/4 x 4 7/16\" (15.9 x 11.2 cm)\r\n", 
   "Classification": "Photograph", 
   "Artist": "Frank Eugene", 
   "URL": "http://www.moma.org/collection/works/57840", 
   "CuratorApproved": "Y", 
-  "Title": "Alfred Stieglitz", 
-  "DateAcquired": "1964-11-10", 
+  "CreditLine": "Gift of Edward Steichen", 
   "Date": "1900", 
   "ArtistID": 1770, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "1191.1964", 
-  "ArtistBio": "American, 1865\u20131936", 
-  "CreditLine": "Gift of Edward Steichen", 
+  "ArtistBio": "(American, 1865\u20131936)", 
+  "DateAcquired": "1964-11-10", 
+  "\ufeffTitle": "Alfred Stieglitz", 
   "ObjectID": "57840"
 }

@@ -5,8 +5,7 @@
   "Artist": "Davis J. Pratt", 
   "URL": "http://www.moma.org/collection/works/3396", 
   "CuratorApproved": "Y", 
-  "Title": "Chair", 
-  "DateAcquired": "1950-11-15", 
+  "CreditLine": "Gift of the designer", 
   "Date": "1948", 
   "ArtistID": 4723, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "354.1950", 
-  "ArtistBio": "American, 1917\u20131987", 
-  "CreditLine": "Gift of the designer", 
+  "ArtistBio": "(American, 1917\u20131987)", 
+  "DateAcquired": "1950-11-15", 
+  "\ufeffTitle": "Chair", 
   "ObjectID": "3396"
 }

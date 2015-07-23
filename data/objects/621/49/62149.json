@@ -5,8 +5,7 @@
   "Artist": "Max Liebermann", 
   "URL": "http://www.moma.org/collection/works/62149", 
   "CuratorApproved": "Y", 
-  "Title": "Self-Portrait", 
-  "DateAcquired": "1954-04-06", 
+  "CreditLine": "Gift of Mrs. Bertha M. Slattery", 
   "Date": "(after 1923)", 
   "ArtistID": 3546, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "119.1954", 
-  "ArtistBio": "German, 1847\u20131935", 
-  "CreditLine": "Gift of Mrs. Bertha M. Slattery", 
+  "ArtistBio": "(German, 1847\u20131935)", 
+  "DateAcquired": "1954-04-06", 
+  "\ufeffTitle": "Self-Portrait (Selbstbildnis)", 
   "ObjectID": "62149"
 }

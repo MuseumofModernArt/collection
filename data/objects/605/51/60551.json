@@ -5,8 +5,7 @@
   "Artist": "Massimo Campigli", 
   "URL": "http://www.moma.org/collection/works/60551", 
   "CuratorApproved": "Y", 
-  "Title": "Bathers", 
-  "DateAcquired": "1957-05-15", 
+  "CreditLine": "Larry Aldrich Fund", 
   "Date": "1952", 
   "ArtistID": 942, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "34.1957", 
-  "ArtistBio": "Italian, 1895\u20131971", 
-  "CreditLine": "Larry Aldrich Fund", 
+  "ArtistBio": "(Italian, 1895\u20131971)", 
+  "DateAcquired": "1957-05-15", 
+  "\ufeffTitle": "Bathers", 
   "ObjectID": "60551"
 }

@@ -5,8 +5,7 @@
   "Artist": "Hector Guimard", 
   "URL": "http://www.moma.org/collection/works/3913", 
   "CuratorApproved": "Y", 
-  "Title": "Letter Seal", 
-  "DateAcquired": "1970-11-05", 
+  "CreditLine": "Gift of Laurent Oppenheim, Jr.", 
   "Date": "c. 1908", 
   "ArtistID": 2407, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "465.1970", 
-  "ArtistBio": "French, 1867\u20131942", 
-  "CreditLine": "Gift of Laurent Oppenheim, Jr.", 
+  "ArtistBio": "(French, 1867\u20131942)", 
+  "DateAcquired": "1970-11-05", 
+  "\ufeffTitle": "Letter Seal", 
   "ObjectID": "3913"
 }

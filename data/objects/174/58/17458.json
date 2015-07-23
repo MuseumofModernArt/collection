@@ -1,12 +1,11 @@
 {
   "Medium": "Artist's book", 
-  "Dimensions": "irreg. composition  7 11/16 x 5 5/16\" (19.6 x 13.5 cm)  page  8 7/16 x 13 15/16\" (21 x 35.5 cm)", 
+  "Dimensions": "irreg. composition  7 11/16 x 5 5/16\" (19.6 x 13.5 cm)\r\npage  8 7/16 x 13 15/16\" (21 x 35.5 cm)", 
   "Classification": "Illustrated Book", 
   "Artist": "Ivor Abrahams", 
   "URL": "http://www.moma.org/collection/works/17458", 
   "CuratorApproved": "Y", 
-  "Title": "Oxford Gardens a Sketchbook", 
-  "DateAcquired": "1977-11-10", 
+  "CreditLine": "John R. Jakobson Foundation Fund", 
   "Date": "1977", 
   "ArtistID": 49, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "459.1977", 
-  "ArtistBio": "British, born 1935", 
-  "CreditLine": "John R. Jakobson Foundation Fund", 
+  "ArtistBio": "(British, born 1935)", 
+  "DateAcquired": "1977-11-10", 
+  "\ufeffTitle": "Oxford Gardens a Sketchbook", 
   "ObjectID": "17458"
 }

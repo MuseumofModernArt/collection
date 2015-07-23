@@ -5,8 +5,7 @@
   "Artist": "Topical Press Agency", 
   "URL": "http://www.moma.org/collection/works/58787", 
   "CuratorApproved": "Y", 
-  "Title": "15,000 in Dublin Election Rioting", 
-  "DateAcquired": "2001-06-14", 
+  "CreditLine": "The New York Times Collection", 
   "Date": "January 9, 1933", 
   "ArtistID": 8637, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "2194.2001", 
-  "ArtistBio": "NULL", 
-  "CreditLine": "The New York Times Collection", 
+  "ArtistBio": "", 
+  "DateAcquired": "2001-06-14", 
+  "\ufeffTitle": "\"15,000 in Dublin Election Rioting\"", 
   "ObjectID": "58787"
 }

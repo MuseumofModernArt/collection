@@ -5,8 +5,7 @@
   "Artist": "Eileen Gray", 
   "URL": "http://www.moma.org/collection/works/4153", 
   "CuratorApproved": "Y", 
-  "Title": "Tube Lamp", 
-  "DateAcquired": "1980-10-30", 
+  "CreditLine": "Est\u00e9e and Joseph Lauder Design Fund", 
   "Date": "c. 1930s", 
   "ArtistID": 2313, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "637.1980", 
-  "ArtistBio": "Anglo-Irish, 1879\u20131976", 
-  "CreditLine": "Est\u00e9e and Joseph Lauder Design Fund", 
+  "ArtistBio": "(Anglo-Irish, 1879\u20131976)", 
+  "DateAcquired": "1980-10-30", 
+  "\ufeffTitle": "Tube Lamp", 
   "ObjectID": "4153"
 }

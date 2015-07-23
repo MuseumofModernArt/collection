@@ -5,8 +5,7 @@
   "Artist": "Henry Hamilton Bennett", 
   "URL": "http://www.moma.org/collection/works/54252", 
   "CuratorApproved": "Y", 
-  "Title": "Layton Art Gallery, Milwaukee, Wisconsin", 
-  "DateAcquired": "1965-05-11", 
+  "CreditLine": "Gift of H. H. Bennett Studios", 
   "Date": "c. 1890", 
   "ArtistID": 476, 
   "Keywords": [
@@ -20,7 +19,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "488.1965", 
-  "ArtistBio": "American, born Canada. 1843\u20131908", 
-  "CreditLine": "Gift of H. H. Bennett Studios", 
+  "ArtistBio": "(American, born Canada. 1843\u20131908)", 
+  "DateAcquired": "1965-05-11", 
+  "\ufeffTitle": "Layton Art Gallery, Milwaukee, Wisconsin", 
   "ObjectID": "54252"
 }

@@ -5,8 +5,7 @@
   "Artist": "Philip Guston", 
   "URL": "http://www.moma.org/collection/works/34526", 
   "CuratorApproved": "Y", 
-  "Title": "Head -- Double View", 
-  "DateAcquired": "1984-04-17", 
+  "CreditLine": "Purchase", 
   "Date": "1958", 
   "ArtistID": 2419, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "130.1984", 
-  "ArtistBio": "American, born Canada. 1913\u20131980", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, born Canada. 1913\u20131980)", 
+  "DateAcquired": "1984-04-17", 
+  "\ufeffTitle": "Head -- Double View", 
   "ObjectID": "34526"
 }

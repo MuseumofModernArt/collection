@@ -5,8 +5,7 @@
   "Artist": "Max Bill", 
   "URL": "http://www.moma.org/collection/works/5121", 
   "CuratorApproved": "Y", 
-  "Title": "Negerkunst, Pr\u00e4historische Felsbilder Sudafrikas", 
-  "DateAcquired": "1968-03-07", 
+  "CreditLine": "Gift of the designer", 
   "Date": "1931", 
   "ArtistID": 559, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "114.1968", 
-  "ArtistBio": "Swiss, 1908\u20131994", 
-  "CreditLine": "Gift of the designer", 
+  "ArtistBio": "(Swiss, 1908\u20131994)", 
+  "DateAcquired": "1968-03-07", 
+  "\ufeffTitle": "Negerkunst, Pr\u00e4historische Felsbilder Sudafrikas", 
   "ObjectID": "5121"
 }

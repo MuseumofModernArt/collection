@@ -1,12 +1,11 @@
 {
   "Medium": "Photolithograph", 
-  "Dimensions": "composition  9 1/16 x 12 1/2\" (23 x 31.8 cm)  sheet  14 1/16 x 19 1/4\" (35 x 48.9 cm)  Comp.: 9 1/16 x 12 1/2\" (23.0 x 31.8  cm) Sheet: 13 11/16 x 19 1/4\" (35.8 x 48.9 cm)", 
+  "Dimensions": "composition  9 1/16 x 12 1/2\" (23 x 31.8 cm)\r\nsheet  14 1/16 x 19 1/4\" (35 x 48.9 cm)\r\nComp.: 9 1/16 x 12 1/2\" (23.0 x 31.8  cm) Sheet: 13 11/16 x 19 1/4\" (35.8 x 48.9 cm)", 
   "Classification": "Print", 
   "Artist": "Gerhard Richter", 
   "URL": "http://www.moma.org/collection/works/69289", 
   "CuratorApproved": "Y", 
-  "Title": "Studio (Atelier)", 
-  "DateAcquired": "1978-05-22", 
+  "CreditLine": "Gift of Cosmopolitan Arts Foundation", 
   "Date": "1968", 
   "ArtistID": 4907, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "447.1978", 
-  "ArtistBio": "German, born 1932", 
-  "CreditLine": "Gift of Cosmopolitan Arts Foundation", 
+  "ArtistBio": "(German, born 1932)", 
+  "DateAcquired": "1978-05-22", 
+  "\ufeffTitle": "Studio (Atelier)", 
   "ObjectID": "69289"
 }

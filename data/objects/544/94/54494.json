@@ -5,8 +5,7 @@
   "Artist": "Jerome Liebling", 
   "URL": "http://www.moma.org/collection/works/54494", 
   "CuratorApproved": "Y", 
-  "Title": "Red Lake, Minnesota", 
-  "DateAcquired": "1996-10-08", 
+  "CreditLine": "Gift of John Szarkowski", 
   "Date": "c. 1953", 
   "ArtistID": 3549, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "505.1996", 
-  "ArtistBio": "American, 1924\u20132011", 
-  "CreditLine": "Gift of John Szarkowski", 
+  "ArtistBio": "(American, 1924\u20132011)", 
+  "DateAcquired": "1996-10-08", 
+  "\ufeffTitle": "Red Lake, Minnesota", 
   "ObjectID": "54494"
 }

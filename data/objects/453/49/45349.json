@@ -5,8 +5,7 @@
   "Artist": "Aleksandr Rodchenko", 
   "URL": "http://www.moma.org/collection/works/45349", 
   "CuratorApproved": "Y", 
-  "Title": "An Oath", 
-  "DateAcquired": "1997-03-06", 
+  "CreditLine": "Gift of the Rodchenko family", 
   "Date": "1935", 
   "ArtistID": 4975, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "63.1997", 
-  "ArtistBio": "Russian, 1891\u20131956", 
-  "CreditLine": "Gift of the Rodchenko family", 
+  "ArtistBio": "(Russian, 1891\u20131956)", 
+  "DateAcquired": "1997-03-06", 
+  "\ufeffTitle": "An Oath", 
   "ObjectID": "45349"
 }

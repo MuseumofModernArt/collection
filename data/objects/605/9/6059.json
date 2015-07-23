@@ -5,8 +5,7 @@
   "Artist": "Herman Landshoff", 
   "URL": "http://www.moma.org/collection/works/6059", 
   "CuratorApproved": "Y", 
-  "Title": "Visit Wonderland USA", 
-  "DateAcquired": "1962-11-07", 
+  "CreditLine": "Gift of the U. S. Government Printing Office", 
   "Date": "1960", 
   "ArtistID": 3366, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "282.1962", 
-  "ArtistBio": "American, born Germany. 1905\u20131986", 
-  "CreditLine": "Gift of the U. S. Government Printing Office", 
+  "ArtistBio": "(American, born Germany. 1905\u20131986)", 
+  "DateAcquired": "1962-11-07", 
+  "\ufeffTitle": "Visit Wonderland USA", 
   "ObjectID": "6059"
 }

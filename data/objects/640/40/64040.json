@@ -1,12 +1,11 @@
 {
   "Medium": "Lithograph and offset lithograph", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "Robert Longo", 
   "URL": "http://www.moma.org/collection/works/64040", 
   "CuratorApproved": "Y", 
-  "Title": "Arena Brains", 
-  "DateAcquired": "1986-05-20", 
+  "CreditLine": "Gift of Emily Fisher Landau", 
   "Date": "1986", 
   "ArtistID": 3592, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "188.1986", 
-  "ArtistBio": "American, born 1953", 
-  "CreditLine": "Gift of Emily Fisher Landau", 
+  "ArtistBio": "(American, born 1953)", 
+  "DateAcquired": "1986-05-20", 
+  "\ufeffTitle": "Arena Brains", 
   "ObjectID": "64040"
 }

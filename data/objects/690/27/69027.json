@@ -5,8 +5,7 @@
   "Artist": "Henri Matisse", 
   "URL": "http://www.moma.org/collection/works/69027", 
   "CuratorApproved": "Y", 
-  "Title": "Young Woman Sitting with Bouquet of Flowers (Jeune fille assise au bouquet de fleurs)", 
-  "DateAcquired": "1940-04-05", 
+  "CreditLine": "Gift of Abby Aldrich Rockefeller", 
   "Date": "1922-24", 
   "ArtistID": 3832, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "432.1940", 
-  "ArtistBio": "French, 1869\u20131954", 
-  "CreditLine": "Gift of Abby Aldrich Rockefeller", 
+  "ArtistBio": "(French, 1869\u20131954)", 
+  "DateAcquired": "1940-04-05", 
+  "\ufeffTitle": "Young Woman Sitting with Bouquet of Flowers (Jeune fille assise au bouquet de fleurs)", 
   "ObjectID": "69027"
 }

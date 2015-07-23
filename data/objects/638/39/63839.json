@@ -1,12 +1,11 @@
 {
   "Medium": "One from a portfolio of thirteen rubber stamps", 
-  "Dimensions": "composition and sheet: 8 x 8\" (20.3 x 20.3 cm)  ", 
+  "Dimensions": "composition and sheet: 8 x 8\" (20.3 x 20.3 cm)\r\n", 
   "Classification": "Print", 
   "Artist": "Daniel Buren", 
   "URL": "http://www.moma.org/collection/works/63839", 
   "CuratorApproved": "Y", 
-  "Title": "1000 Placements from the Rubber Stamp Portfolio", 
-  "DateAcquired": "1977-05-03", 
+  "CreditLine": "Gift of Parasol Press, Ltd. and the Publications Department of The Museum of Modern Art", 
   "Date": "1977", 
   "ArtistID": 873, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "181.1977.3", 
-  "ArtistBio": "French, born 1938", 
-  "CreditLine": "Gift of Parasol Press, Ltd. and the Publications Department of The Museum of Modern Art", 
+  "ArtistBio": "(French, born 1938)", 
+  "DateAcquired": "1977-05-03", 
+  "\ufeffTitle": "1000 Placements from the Rubber Stamp Portfolio", 
   "ObjectID": "63839"
 }

@@ -5,8 +5,7 @@
   "Artist": "Ernst Barlach", 
   "URL": "http://www.moma.org/collection/works/18474", 
   "CuratorApproved": "Y", 
-  "Title": "The Mole (in-text plate, page 73) from Der Findling (The Foundling)", 
-  "DateAcquired": "1949-09-29", 
+  "CreditLine": "Transferred from the Museum Library", 
   "Date": "1922 (executed 1921)", 
   "ArtistID": 335, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "564.1949.18", 
-  "ArtistBio": "German, 1870\u20131938", 
-  "CreditLine": "Transferred from the Museum Library", 
+  "ArtistBio": "(German, 1870\u20131938)", 
+  "DateAcquired": "1949-09-29", 
+  "\ufeffTitle": "The Mole (Der Maulwurf) (in-text plate, page 73) from Der Findling (The Foundling)", 
   "ObjectID": "18474"
 }

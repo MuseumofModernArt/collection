@@ -5,8 +5,7 @@
   "Artist": "A. Gisiger", 
   "URL": "http://www.moma.org/collection/works/6852", 
   "CuratorApproved": "Y", 
-  "Title": "15 Young Swiss Painters", 
-  "DateAcquired": "1960-11-16", 
+  "CreditLine": "Gift of Ch\u00e2teau de la Sarraz", 
   "Date": "1960", 
   "ArtistID": 2179, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "399.1960", 
-  "ArtistBio": "Swiss", 
-  "CreditLine": "Gift of Ch\u00e2teau de la Sarraz", 
+  "ArtistBio": "(Swiss)", 
+  "DateAcquired": "1960-11-16", 
+  "\ufeffTitle": "15 Young Swiss Painters", 
   "ObjectID": "6852"
 }

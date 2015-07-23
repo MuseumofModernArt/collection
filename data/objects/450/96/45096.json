@@ -5,8 +5,7 @@
   "Artist": "Manuel \u00c1lvarez Bravo", 
   "URL": "http://www.moma.org/collection/works/45096", 
   "CuratorApproved": "Y", 
-  "Title": "Coyoacan, Mexico, D.F", 
-  "DateAcquired": "1977-03-10", 
+  "CreditLine": "Partial gift of Shirley C. Burden, by exchange", 
   "Date": "1975", 
   "ArtistID": 135, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "55.1977", 
-  "ArtistBio": "Mexican, 1902\u20132002", 
-  "CreditLine": "Partial gift of Shirley C. Burden, by exchange", 
+  "ArtistBio": "(Mexican, 1902\u20132002)", 
+  "DateAcquired": "1977-03-10", 
+  "\ufeffTitle": "Coyoacan, Mexico, D.F", 
   "ObjectID": "45096"
 }

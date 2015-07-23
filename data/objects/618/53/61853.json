@@ -1,12 +1,11 @@
 {
   "Medium": "Etching, soft ground etching, lift ground aquatint and engraving", 
-  "Dimensions": "plate  20 7/8 x 17 1/4\" (53 x 43.8 cm)  sheet  29 7/8 x 22 3/16\" (75 x 56.3 cm)", 
+  "Dimensions": "plate  20 7/8 x 17 1/4\" (53 x 43.8 cm)\r\nsheet  29 7/8 x 22 3/16\" (75 x 56.3 cm)", 
   "Classification": "Print", 
   "Artist": "Richard Hamilton", 
   "URL": "http://www.moma.org/collection/works/61853", 
   "CuratorApproved": "Y", 
-  "Title": "In Horne's House", 
-  "DateAcquired": "1991-05-22", 
+  "CreditLine": "Riva Castleman Fund", 
   "Date": "1981-82", 
   "ArtistID": 2481, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "104.1991", 
-  "ArtistBio": "British, 1922\u20132011", 
-  "CreditLine": "Riva Castleman Fund", 
+  "ArtistBio": "(British, 1922\u20132011)", 
+  "DateAcquired": "1991-05-22", 
+  "\ufeffTitle": "In Horne's House", 
   "ObjectID": "61853"
 }

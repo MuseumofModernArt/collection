@@ -5,8 +5,7 @@
   "Artist": "Gustave Le Gray", 
   "URL": "http://www.moma.org/collection/works/51486", 
   "CuratorApproved": "Y", 
-  "Title": "The Great Wave, S\u00e8te", 
-  "DateAcquired": "NULL", 
+  "CreditLine": "Gift of Paul F. Walter", 
   "Date": "1856", 
   "ArtistID": 3429, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "350.1989", 
-  "ArtistBio": "French, 1820\u20131884", 
-  "CreditLine": "Gift of Paul F. Walter", 
+  "ArtistBio": "(French, 1820\u20131884)", 
+  "DateAcquired": "", 
+  "\ufeffTitle": "The Great Wave, S\u00e8te", 
   "ObjectID": "51486"
 }

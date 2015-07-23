@@ -5,8 +5,7 @@
   "Artist": "Jenny Holzer", 
   "URL": "http://www.moma.org/collection/works/63755", 
   "CuratorApproved": "Y", 
-  "Title": "Truisms", 
-  "DateAcquired": "1988-05-04", 
+  "CreditLine": "Gift of the artist", 
   "Date": "1978-87", 
   "ArtistID": 2714, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "177.1988", 
-  "ArtistBio": "American, born 1950", 
-  "CreditLine": "Gift of the artist", 
+  "ArtistBio": "(American, born 1950)", 
+  "DateAcquired": "1988-05-04", 
+  "\ufeffTitle": "Truisms", 
   "ObjectID": "63755"
 }

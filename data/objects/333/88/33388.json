@@ -5,8 +5,7 @@
   "Artist": "John Paul Jones", 
   "URL": "http://www.moma.org/collection/works/33388", 
   "CuratorApproved": "Y", 
-  "Title": "Head", 
-  "DateAcquired": "1960-04-06", 
+  "CreditLine": "Mr. and Mrs. Donald B. Straus Fund", 
   "Date": "1960", 
   "ArtistID": 2935, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "30.1960", 
-  "ArtistBio": "American, 1924\u20131999", 
-  "CreditLine": "Mr. and Mrs. Donald B. Straus Fund", 
+  "ArtistBio": "(American, 1924\u20131999)", 
+  "DateAcquired": "1960-04-06", 
+  "\ufeffTitle": "Head", 
   "ObjectID": "33388"
 }

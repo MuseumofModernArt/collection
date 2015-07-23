@@ -5,8 +5,7 @@
   "Artist": "Robert Adams", 
   "URL": "http://www.moma.org/collection/works/50345", 
   "CuratorApproved": "Y", 
-  "Title": "Recess at a School in a Commercial Zone, the North Edge of Denver, Colorado", 
-  "DateAcquired": "1975-10-23", 
+  "CreditLine": "Gift of the photographer", 
   "Date": "1973", 
   "ArtistID": 66, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "307.1975", 
-  "ArtistBio": "American, born 1937", 
-  "CreditLine": "Gift of the photographer", 
+  "ArtistBio": "(American, born 1937)", 
+  "DateAcquired": "1975-10-23", 
+  "\ufeffTitle": "Recess at a School in a Commercial Zone, the North Edge of Denver, Colorado", 
   "ObjectID": "50345"
 }

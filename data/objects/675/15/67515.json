@@ -1,12 +1,11 @@
 {
   "Medium": "Lithograph", 
-  "Dimensions": "irreg. composition  28 1/8 x 38 3/4\" (71.5 x 98.5 cm)  sheet  31 15/16 x 42 7/16\" (81 x 107.8 cm)", 
+  "Dimensions": "irreg. composition  28 1/8 x 38 3/4\" (71.5 x 98.5 cm)\r\nsheet  31 15/16 x 42 7/16\" (81 x 107.8 cm)", 
   "Classification": "Print", 
   "Artist": "Philip Guston", 
   "URL": "http://www.moma.org/collection/works/67515", 
   "CuratorApproved": "Y", 
-  "Title": "Gulf", 
-  "DateAcquired": "1987-10-20", 
+  "CreditLine": "Jeanne C. Thayer Fund", 
   "Date": "(1983)", 
   "ArtistID": 2419, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "352.1987", 
-  "ArtistBio": "American, born Canada. 1913\u20131980", 
-  "CreditLine": "Jeanne C. Thayer Fund", 
+  "ArtistBio": "(American, born Canada. 1913\u20131980)", 
+  "DateAcquired": "1987-10-20", 
+  "\ufeffTitle": "Gulf", 
   "ObjectID": "67515"
 }

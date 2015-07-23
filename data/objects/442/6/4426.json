@@ -5,8 +5,7 @@
   "Artist": "J.A. Henckels, Solingen, Germany", 
   "URL": "http://www.moma.org/collection/works/4426", 
   "CuratorApproved": "Y", 
-  "Title": "Welkut Poultry Shears", 
-  "DateAcquired": "1943-11-04", 
+  "CreditLine": "Gift of Fifth Avenue Cutlery Shop, Inc.", 
   "Date": "1909-1943", 
   "ArtistID": 2589, 
   "Keywords": [
@@ -20,7 +19,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "736.1943", 
-  "ArtistBio": "est. 1731", 
-  "CreditLine": "Gift of Fifth Avenue Cutlery Shop, Inc.", 
+  "ArtistBio": "(est. 1731)", 
+  "DateAcquired": "1943-11-04", 
+  "\ufeffTitle": "Welkut Poultry Shears", 
   "ObjectID": "4426"
 }

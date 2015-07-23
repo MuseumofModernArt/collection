@@ -5,8 +5,7 @@
   "Artist": "Chuck Close", 
   "URL": "http://www.moma.org/collection/works/67192", 
   "CuratorApproved": "Y", 
-  "Title": "Lucas/Woodcut", 
-  "DateAcquired": "1998-05-14", 
+  "CreditLine": "Gift of Anna Marie and Robert F. Shapiro in honor of Robert Storr and Deborah Wye", 
   "Date": "1993", 
   "ArtistID": 1156, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "337.1998", 
-  "ArtistBio": "American, born 1940", 
-  "CreditLine": "Gift of Anna Marie and Robert F. Shapiro in honor of Robert Storr and Deborah Wye", 
+  "ArtistBio": "(American, born 1940)", 
+  "DateAcquired": "1998-05-14", 
+  "\ufeffTitle": "Lucas/Woodcut", 
   "ObjectID": "67192"
 }

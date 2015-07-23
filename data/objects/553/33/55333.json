@@ -5,8 +5,7 @@
   "Artist": "Tom Arndt", 
   "URL": "http://www.moma.org/collection/works/55333", 
   "CuratorApproved": "Y", 
-  "Title": "Durand, Wisconsin", 
-  "DateAcquired": "1983-05-26", 
+  "CreditLine": "Gift of the photographer", 
   "Date": "Winter 1981-82", 
   "Keywords": [
     "online art collection", 
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "579.1983", 
-  "ArtistBio": "American, born 1944", 
-  "CreditLine": "Gift of the photographer", 
+  "ArtistBio": "(American, born 1944)", 
+  "DateAcquired": "1983-05-26", 
+  "\ufeffTitle": "Durand, Wisconsin", 
   "ObjectID": "55333"
 }

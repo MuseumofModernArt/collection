@@ -5,8 +5,7 @@
   "Artist": "Ed E. Langbein", 
   "URL": "http://www.moma.org/collection/works/3942", 
   "CuratorApproved": "Y", 
-  "Title": "Hamper", 
-  "DateAcquired": "1951-05-24", 
+  "CreditLine": "Gift of the manufacturer", 
   "Date": "1940s", 
   "ArtistID": 3372, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "470.1951", 
-  "ArtistBio": "American", 
-  "CreditLine": "Gift of the manufacturer", 
+  "ArtistBio": "(American)", 
+  "DateAcquired": "1951-05-24", 
+  "\ufeffTitle": "Hamper", 
   "ObjectID": "3942"
 }

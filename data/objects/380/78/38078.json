@@ -5,8 +5,7 @@
   "Artist": "Richard Lippold", 
   "URL": "http://www.moma.org/collection/works/38078", 
   "CuratorApproved": "Y", 
-  "Title": "The Four Seasons", 
-  "DateAcquired": "1969-12-04", 
+  "CreditLine": "Gift of Philip Johnson", 
   "Date": "1958", 
   "ArtistID": 3566, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "788.1969", 
-  "ArtistBio": "American, 1915\u20132002", 
-  "CreditLine": "Gift of Philip Johnson", 
+  "ArtistBio": "(American, 1915\u20132002)", 
+  "DateAcquired": "1969-12-04", 
+  "\ufeffTitle": "The Four Seasons", 
   "ObjectID": "38078"
 }

@@ -5,8 +5,7 @@
   "Artist": "Ernest J. Bellocq", 
   "URL": "http://www.moma.org/collection/works/44059", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1974-01-29", 
+  "CreditLine": "Gift of Lee Friedlander", 
   "Date": "c. 1912", 
   "ArtistID": 453, 
   "Keywords": [
@@ -20,7 +19,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "20.1974", 
-  "ArtistBio": "American, 1873\u20131949", 
-  "CreditLine": "Gift of Lee Friedlander", 
+  "ArtistBio": "(American, 1873\u20131949)", 
+  "DateAcquired": "1974-01-29", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "44059"
 }

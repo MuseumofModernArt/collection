@@ -5,8 +5,7 @@
   "Artist": "Robert Morris", 
   "URL": "http://www.moma.org/collection/works/60009", 
   "CuratorApproved": "Y", 
-  "Title": "Continuities", 
-  "DateAcquired": "1989-01-18", 
+  "CreditLine": "Riva Castleman Fund", 
   "Date": "1988", 
   "ArtistID": 4108, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "16.1989.1-5", 
-  "ArtistBio": "American, born 1931", 
-  "CreditLine": "Riva Castleman Fund", 
+  "ArtistBio": "(American, born 1931)", 
+  "DateAcquired": "1989-01-18", 
+  "\ufeffTitle": "Continuities", 
   "ObjectID": "60009"
 }

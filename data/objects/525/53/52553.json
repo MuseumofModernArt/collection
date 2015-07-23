@@ -5,8 +5,7 @@
   "Artist": "Bruce Davidson", 
   "URL": "http://www.moma.org/collection/works/52553", 
   "CuratorApproved": "Y", 
-  "Title": "Sicily", 
-  "DateAcquired": "1974-10-01", 
+  "CreditLine": "Gift of the photographer", 
   "Date": "1961", 
   "ArtistID": 1398, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "397.1974", 
-  "ArtistBio": "American, born 1933", 
-  "CreditLine": "Gift of the photographer", 
+  "ArtistBio": "(American, born 1933)", 
+  "DateAcquired": "1974-10-01", 
+  "\ufeffTitle": "Sicily", 
   "ObjectID": "52553"
 }

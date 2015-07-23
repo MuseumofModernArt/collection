@@ -5,8 +5,7 @@
   "Artist": "Charles Burchfield", 
   "URL": "http://www.moma.org/collection/works/32971", 
   "CuratorApproved": "Y", 
-  "Title": "Railroad Gantry", 
-  "DateAcquired": "1930-01-12", 
+  "CreditLine": "Given anonymously", 
   "Date": "(1920)", 
   "ArtistID": 870, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "2.1930", 
-  "ArtistBio": "American, 1893\u20131967", 
-  "CreditLine": "Given anonymously", 
+  "ArtistBio": "(American, 1893\u20131967)", 
+  "DateAcquired": "1930-01-12", 
+  "\ufeffTitle": "Railroad Gantry", 
   "ObjectID": "32971"
 }

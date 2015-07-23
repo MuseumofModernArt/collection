@@ -5,8 +5,7 @@
   "Artist": "Georg Trump", 
   "URL": "http://www.moma.org/collection/works/8495", 
   "CuratorApproved": "Y", 
-  "Title": "Modehaus Adolf Hess, Stuttgart", 
-  "DateAcquired": "1999-12-10", 
+  "CreditLine": "Jan Tschichold Collection, Gift of Philip Johnson", 
   "Date": "c. 1931", 
   "ArtistID": 5947, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "1021.1999", 
-  "ArtistBio": "German, 1896\u20131985", 
-  "CreditLine": "Jan Tschichold Collection, Gift of Philip Johnson", 
+  "ArtistBio": "(German, 1896\u20131985)", 
+  "DateAcquired": "1999-12-10", 
+  "\ufeffTitle": "Modehaus Adolf Hess, Stuttgart", 
   "ObjectID": "8495"
 }

@@ -5,8 +5,7 @@
   "Artist": "Weegee (Arthur Fellig)", 
   "URL": "http://www.moma.org/collection/works/56179", 
   "CuratorApproved": "Y", 
-  "Title": "Saloon Brawl", 
-  "DateAcquired": "1943-11-04", 
+  "CreditLine": "Gift of the photographer", 
   "Date": "1942", 
   "ArtistID": 1842, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "697.1943", 
-  "ArtistBio": "American, born Austria. 1899\u20131968", 
-  "CreditLine": "Gift of the photographer", 
+  "ArtistBio": "(American, born Austria. 1899\u20131968)", 
+  "DateAcquired": "1943-11-04", 
+  "\ufeffTitle": "Saloon Brawl", 
   "ObjectID": "56179"
 }

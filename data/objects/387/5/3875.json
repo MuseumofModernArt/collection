@@ -1,12 +1,11 @@
 {
   "Medium": "Porcelain", 
-  "Dimensions": ".1: 4 1/4 x 6 1/8\" (10.8 x 15.6 cm)  .2: 3 1/2 x 5\" (8.9 x 12.7 cm)  .3: 2 7/8 x 4 1/8\" (7.3 x 10.5 cm)  .4: 2 1/4 x 3 1/4\" (5.7 x 8.3 cm)", 
+  "Dimensions": ".1: 4 1/4 x 6 1/8\" (10.8 x 15.6 cm)\r\n.2: 3 1/2 x 5\" (8.9 x 12.7 cm)\r\n.3: 2 7/8 x 4 1/8\" (7.3 x 10.5 cm)\r\n.4: 2 1/4 x 3 1/4\" (5.7 x 8.3 cm)", 
   "Classification": "A&D Design", 
   "Artist": "Arabia, W\u00e4rtsil\u00e4 Ab, Helsinki, Finland", 
   "URL": "http://www.moma.org/collection/works/3875", 
   "CuratorApproved": "Y", 
-  "Title": "Covered Nesting Storage Bowls", 
-  "DateAcquired": "1951-05-24", 
+  "CreditLine": "Gift of Finland Ceramics and Glass", 
   "Date": "Unknown", 
   "Keywords": [
     "online art collection", 
@@ -19,7 +18,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "460.1951.1-4", 
-  "ArtistBio": "Finnish, est. 1874", 
-  "CreditLine": "Gift of Finland Ceramics and Glass", 
+  "ArtistBio": "(Finnish, est. 1874)", 
+  "DateAcquired": "1951-05-24", 
+  "\ufeffTitle": "Covered Nesting Storage Bowls", 
   "ObjectID": "3875"
 }

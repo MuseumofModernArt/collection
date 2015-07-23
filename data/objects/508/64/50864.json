@@ -5,8 +5,7 @@
   "Artist": "Margrethe Mather", 
   "URL": "http://www.moma.org/collection/works/50864", 
   "CuratorApproved": "Y", 
-  "Title": "Portrait of Edward Weston", 
-  "DateAcquired": "1975-10-23", 
+  "CreditLine": "Gift of Mildred Constantine", 
   "Date": "1920's", 
   "ArtistID": 3827, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "326.1975", 
-  "ArtistBio": "American, 1885\u20131952", 
-  "CreditLine": "Gift of Mildred Constantine", 
+  "ArtistBio": "(American, 1885\u20131952)", 
+  "DateAcquired": "1975-10-23", 
+  "\ufeffTitle": "Portrait of Edward Weston", 
   "ObjectID": "50864"
 }

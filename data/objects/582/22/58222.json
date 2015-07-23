@@ -5,8 +5,7 @@
   "Artist": "August Sander", 
   "URL": "http://www.moma.org/collection/works/58222", 
   "CuratorApproved": "Y", 
-  "Title": "Mother and Daughter", 
-  "DateAcquired": "1968-11-06", 
+  "CreditLine": "Gift of the photographer", 
   "Date": "1912", 
   "ArtistID": 5145, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "1499.1968", 
-  "ArtistBio": "German, 1876\u20131964", 
-  "CreditLine": "Gift of the photographer", 
+  "ArtistBio": "(German, 1876\u20131964)", 
+  "DateAcquired": "1968-11-06", 
+  "\ufeffTitle": "Mother and Daughter", 
   "ObjectID": "58222"
 }

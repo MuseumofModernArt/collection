@@ -1,12 +1,11 @@
 {
   "Medium": "Screenprint", 
-  "Dimensions": "composition  15 5/16 x 13 13/16\" (38.9 x 35.1 cm)  sheet  22 x 17 15/16\" (55.9 x 45.7 cm)", 
+  "Dimensions": "composition  15 5/16 x 13 13/16\" (38.9 x 35.1 cm)\r\nsheet  22 x 17 15/16\" (55.9 x 45.7 cm)", 
   "Classification": "Print", 
   "Artist": "Paul Spina", 
   "URL": "http://www.moma.org/collection/works/64227", 
   "CuratorApproved": "Y", 
-  "Title": "Which Side Are You On?", 
-  "DateAcquired": "1970-05-12", 
+  "CreditLine": "John B. Turner Fund", 
   "Date": "1970", 
   "ArtistID": 5567, 
   "Keywords": [
@@ -16,7 +15,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "197.1970", 
-  "ArtistBio": "American, born 1937", 
-  "CreditLine": "John B. Turner Fund", 
+  "ArtistBio": "(American, born 1937)", 
+  "DateAcquired": "1970-05-12", 
+  "\ufeffTitle": "Which Side Are You On?", 
   "ObjectID": "64227"
 }

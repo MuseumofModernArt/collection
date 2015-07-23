@@ -5,8 +5,7 @@
   "Artist": "William Lescaze", 
   "URL": "http://www.moma.org/collection/works/2159", 
   "CuratorApproved": "Y", 
-  "Title": "Coat Hook", 
-  "DateAcquired": "1996-04-09", 
+  "CreditLine": "Gift of Frank Stanton", 
   "Date": "Before 1946", 
   "ArtistID": 7425, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "110.1996", 
-  "ArtistBio": "American, born Switzerland. 1896\u20131969", 
-  "CreditLine": "Gift of Frank Stanton", 
+  "ArtistBio": "(American, born Switzerland. 1896\u20131969)", 
+  "DateAcquired": "1996-04-09", 
+  "\ufeffTitle": "Coat Hook", 
   "ObjectID": "2159"
 }

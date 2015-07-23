@@ -5,8 +5,7 @@
   "Artist": "Otto Dix", 
   "URL": "http://www.moma.org/collection/works/34237", 
   "CuratorApproved": "Y", 
-  "Title": "Caf\u00e9 Couple", 
-  "DateAcquired": "1945-03-07", 
+  "CreditLine": "Purchase", 
   "Date": "1921", 
   "ArtistID": 1559, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "124.1945", 
-  "ArtistBio": "German, 1891\u20131969", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(German, 1891\u20131969)", 
+  "DateAcquired": "1945-03-07", 
+  "\ufeffTitle": "Caf\u00e9 Couple (Paar im Caf\u00e9)", 
   "ObjectID": "34237"
 }

@@ -5,8 +5,7 @@
   "Artist": "David Klein", 
   "URL": "http://www.moma.org/collection/works/6291", 
   "CuratorApproved": "Y", 
-  "Title": "New York Fly TWA", 
-  "DateAcquired": "1957-12-04", 
+  "CreditLine": "Gift of TWA", 
   "Date": "1956", 
   "ArtistID": 3134, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "329.1957", 
-  "ArtistBio": "American, 1918\u20132005", 
-  "CreditLine": "Gift of TWA", 
+  "ArtistBio": "(American, 1918\u20132005)", 
+  "DateAcquired": "1957-12-04", 
+  "\ufeffTitle": "New York Fly TWA", 
   "ObjectID": "6291"
 }

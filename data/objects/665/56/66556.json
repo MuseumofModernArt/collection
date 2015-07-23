@@ -5,8 +5,7 @@
   "Artist": "Edvard Munch", 
   "URL": "http://www.moma.org/collection/works/66556", 
   "CuratorApproved": "Y", 
-  "Title": "Jealousy II (Sjalusi II)", 
-  "DateAcquired": "1950-10-11", 
+  "CreditLine": "The William B. and Evelyn A. Jaffe Collection", 
   "Date": "1896", 
   "ArtistID": 4164, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "307.1950", 
-  "ArtistBio": "Norwegian, 1863\u20131944", 
-  "CreditLine": "The William B. and Evelyn A. Jaffe Collection", 
+  "ArtistBio": "(Norwegian, 1863\u20131944)", 
+  "DateAcquired": "1950-10-11", 
+  "\ufeffTitle": "Jealousy II (Sjalusi II)", 
   "ObjectID": "66556"
 }

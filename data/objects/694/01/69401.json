@@ -5,8 +5,7 @@
   "Artist": "Aristide Maillol", 
   "URL": "http://www.moma.org/collection/works/69401", 
   "CuratorApproved": "Y", 
-  "Title": "Music (Concert Champetre)", 
-  "DateAcquired": "1953-06-22", 
+  "CreditLine": "Purchase", 
   "Date": "(1895)", 
   "ArtistID": 3697, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "456.1953", 
-  "ArtistBio": "French, 1861\u20131944", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(French, 1861\u20131944)", 
+  "DateAcquired": "1953-06-22", 
+  "\ufeffTitle": "Music (Concert Champetre)", 
   "ObjectID": "69401"
 }

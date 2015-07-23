@@ -5,8 +5,7 @@
   "Artist": "Mario Carrieri", 
   "URL": "http://www.moma.org/collection/works/48598", 
   "CuratorApproved": "Y", 
-  "Title": "Milan, Italy", 
-  "DateAcquired": "1966-04-12", 
+  "CreditLine": "Gift of the photographer", 
   "Date": "1958", 
   "ArtistID": 991, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "212.1966", 
-  "ArtistBio": "Italian, born 1932", 
-  "CreditLine": "Gift of the photographer", 
+  "ArtistBio": "(Italian, born 1932)", 
+  "DateAcquired": "1966-04-12", 
+  "\ufeffTitle": "Milan, Italy", 
   "ObjectID": "48598"
 }

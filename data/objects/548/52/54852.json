@@ -5,8 +5,7 @@
   "Artist": "Henri Cartier-Bresson", 
   "URL": "http://www.moma.org/collection/works/54852", 
   "CuratorApproved": "Y", 
-  "Title": "Berlin", 
-  "DateAcquired": "1987-12-10", 
+  "CreditLine": "Gift of the photographer", 
   "Date": "1931", 
   "ArtistID": 1000, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "537.1987", 
-  "ArtistBio": "French, 1908\u20132004", 
-  "CreditLine": "Gift of the photographer", 
+  "ArtistBio": "(French, 1908\u20132004)", 
+  "DateAcquired": "1987-12-10", 
+  "\ufeffTitle": "Berlin", 
   "ObjectID": "54852"
 }

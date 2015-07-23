@@ -1,12 +1,11 @@
 {
   "Medium": "Etching and aquatint", 
-  "Dimensions": "plate  12 15/16 x 17 3/4\" (32.9 x 45 cm)  sheet  19 9/16 x 22 5/16\" (49.7 x 56.7 cm)", 
+  "Dimensions": "plate  12 15/16 x 17 3/4\" (32.9 x 45 cm)\r\nsheet  19 9/16 x 22 5/16\" (49.7 x 56.7 cm)", 
   "Classification": "Print", 
   "Artist": "Angela Jansen", 
   "URL": "http://www.moma.org/collection/works/67062", 
   "CuratorApproved": "Y", 
-  "Title": "From the Bridge", 
-  "DateAcquired": "1971-03-30", 
+  "CreditLine": "Walter Bareiss Fund", 
   "Date": "1970", 
   "ArtistID": 2885, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "330.1971", 
-  "ArtistBio": "American, born 1929", 
-  "CreditLine": "Walter Bareiss Fund", 
+  "ArtistBio": "(American, born 1929)", 
+  "DateAcquired": "1971-03-30", 
+  "\ufeffTitle": "From the Bridge", 
   "ObjectID": "67062"
 }

@@ -5,8 +5,7 @@
   "Artist": "Hans Richter", 
   "URL": "http://www.moma.org/collection/works/35596", 
   "CuratorApproved": "Y", 
-  "Title": "Raoul Hausmann", 
-  "DateAcquired": "1976-06-02", 
+  "CreditLine": "Gift of Celeste G. Bartos", 
   "Date": "1915", 
   "ArtistID": 4908, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "250.1976", 
-  "ArtistBio": "American, born Germany. 1888\u20131976", 
-  "CreditLine": "Gift of Celeste G. Bartos", 
+  "ArtistBio": "(American, born Germany. 1888\u20131976)", 
+  "DateAcquired": "1976-06-02", 
+  "\ufeffTitle": "Raoul Hausmann", 
   "ObjectID": "35596"
 }

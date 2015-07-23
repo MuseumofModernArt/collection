@@ -5,8 +5,7 @@
   "Artist": "Ernst Ludwig Kirchner", 
   "URL": "http://www.moma.org/collection/works/64901", 
   "CuratorApproved": "Y", 
-  "Title": "Father M\u00fcller", 
-  "DateAcquired": "1955-10-10", 
+  "CreditLine": "Gift of Victor S. Riesenfeld", 
   "Date": "(1918)", 
   "ArtistID": 3115, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "234.1955", 
-  "ArtistBio": "German, 1880\u20131938", 
-  "CreditLine": "Gift of Victor S. Riesenfeld", 
+  "ArtistBio": "(German, 1880\u20131938)", 
+  "DateAcquired": "1955-10-10", 
+  "\ufeffTitle": "Father M\u00fcller (Vater M\u00fcller)", 
   "ObjectID": "64901"
 }

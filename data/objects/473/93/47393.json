@@ -5,8 +5,7 @@
   "Artist": "Unknown photographer", 
   "URL": "http://www.moma.org/collection/works/47393", 
   "CuratorApproved": "Y", 
-  "Title": "Stockholm", 
-  "DateAcquired": "1982-05-13", 
+  "CreditLine": "Anonymous gift", 
   "Date": "c. 1870", 
   "ArtistID": 6028, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "175.1982", 
-  "ArtistBio": "NULL", 
-  "CreditLine": "Anonymous gift", 
+  "ArtistBio": "", 
+  "DateAcquired": "1982-05-13", 
+  "\ufeffTitle": "Stockholm", 
   "ObjectID": "47393"
 }

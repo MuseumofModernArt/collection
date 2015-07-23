@@ -1,12 +1,11 @@
 {
   "Medium": "Lithograph", 
-  "Dimensions": "composition and sheet 15 7/8 x 12\" (40.3 x 30.5 cm)  ", 
+  "Dimensions": "composition and sheet 15 7/8 x 12\" (40.3 x 30.5 cm)\r\n", 
   "Classification": "Print", 
   "Artist": "Maurice Denis", 
   "URL": "http://www.moma.org/collection/works/60755", 
   "CuratorApproved": "Y", 
-  "Title": "Dusk has the Sweetness of an Old Painting (Les Cr\u00e9puscules ont une douceur d'ancienne peinture)", 
-  "DateAcquired": "1934-09-23", 
+  "CreditLine": "Lillie P. Bliss Collection", 
   "Date": "1898, published 1911", 
   "ArtistID": 1492, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "42.1934", 
-  "ArtistBio": "French, 1870\u20131943", 
-  "CreditLine": "Lillie P. Bliss Collection", 
+  "ArtistBio": "(French, 1870\u20131943)", 
+  "DateAcquired": "1934-09-23", 
+  "\ufeffTitle": "Dusk has the Sweetness of an Old Painting (Les Cr\u00e9puscules ont une douceur d'ancienne peinture)", 
   "ObjectID": "60755"
 }

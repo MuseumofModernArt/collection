@@ -5,8 +5,7 @@
   "Artist": "Chris Ofili", 
   "URL": "http://www.moma.org/collection/works/69055", 
   "CuratorApproved": "Y", 
-  "Title": "North Wales", 
-  "DateAcquired": "1999-11-18", 
+  "CreditLine": "Gift of the Young Print Collectors of the Department of Prints and Illustrated Books", 
   "Date": "1996", 
   "ArtistID": 7967, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "433.1999.1-10", 
-  "ArtistBio": "British, born 1968", 
-  "CreditLine": "Gift of the Young Print Collectors of the Department of Prints and Illustrated Books", 
+  "ArtistBio": "(British, born 1968)", 
+  "DateAcquired": "1999-11-18", 
+  "\ufeffTitle": "North Wales", 
   "ObjectID": "69055"
 }

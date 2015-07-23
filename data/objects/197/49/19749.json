@@ -1,12 +1,11 @@
 {
   "Medium": "Illustrated book with 29 lithographs; and 3 lithographed ornaments (1 repeated 30 times)", 
-  "Dimensions": "page  9 3/4 x 6 7/8\" (24 x 17.4 cm)  Prints:  various dimensions.", 
+  "Dimensions": "page  9 3/4 x 6 7/8\" (24 x 17.4 cm)\r\nPrints:  various dimensions.", 
   "Classification": "Illustrated Book", 
   "Artist": "Troels W\u00f6rsel", 
   "URL": "http://www.moma.org/collection/works/19749", 
   "CuratorApproved": "Y", 
-  "Title": "Tegninger i Morket", 
-  "DateAcquired": "1980-10-28", 
+  "CreditLine": "Jeanne C. Thayer Fund", 
   "Date": "1977", 
   "ArtistID": 6453, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "623.1980.1-29", 
-  "ArtistBio": "Danish, born 1950", 
-  "CreditLine": "Jeanne C. Thayer Fund", 
+  "ArtistBio": "(Danish, born 1950)", 
+  "DateAcquired": "1980-10-28", 
+  "\ufeffTitle": "Tegninger i Morket", 
   "ObjectID": "19749"
 }

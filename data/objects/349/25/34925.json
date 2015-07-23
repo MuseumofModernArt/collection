@@ -5,8 +5,7 @@
   "Artist": "Vasily Kandinsky", 
   "URL": "http://www.moma.org/collection/works/34925", 
   "CuratorApproved": "Y", 
-  "Title": "Blue", 
-  "DateAcquired": "1953-04-07", 
+  "CreditLine": "Katherine S. Dreier Bequest", 
   "Date": "1927", 
   "ArtistID": 2981, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "160.1953", 
-  "ArtistBio": "French, born Russia. 1866\u20131944", 
-  "CreditLine": "Katherine S. Dreier Bequest", 
+  "ArtistBio": "(French, born Russia. 1866\u20131944)", 
+  "DateAcquired": "1953-04-07", 
+  "\ufeffTitle": "Blue (Blau)", 
   "ObjectID": "34925"
 }

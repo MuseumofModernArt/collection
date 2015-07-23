@@ -5,8 +5,7 @@
   "Artist": "Nicholas Nixon", 
   "URL": "http://www.moma.org/collection/works/50939", 
   "CuratorApproved": "Y", 
-  "Title": "The Brown Sisters, Woodstock, Vermont", 
-  "DateAcquired": "1991-10-25", 
+  "CreditLine": "Gift of the artist", 
   "Date": "1990", 
   "ArtistID": 4315, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "329.1991", 
-  "ArtistBio": "American, born 1947", 
-  "CreditLine": "Gift of the artist", 
+  "ArtistBio": "(American, born 1947)", 
+  "DateAcquired": "1991-10-25", 
+  "\ufeffTitle": "The Brown Sisters, Woodstock, Vermont", 
   "ObjectID": "50939"
 }

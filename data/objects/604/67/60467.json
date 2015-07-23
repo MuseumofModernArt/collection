@@ -1,12 +1,11 @@
 {
   "Medium": "Lithograph", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "Afro (Afro Basaldella)", 
   "URL": "http://www.moma.org/collection/works/60467", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1995-01-24", 
+  "CreditLine": "Gift of Emmit Noland", 
   "Date": "1956", 
   "ArtistID": 77, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "30.1995", 
-  "ArtistBio": "Italian, 1912\u20131976", 
-  "CreditLine": "Gift of Emmit Noland", 
+  "ArtistBio": "(Italian, 1912\u20131976)", 
+  "DateAcquired": "1995-01-24", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "60467"
 }

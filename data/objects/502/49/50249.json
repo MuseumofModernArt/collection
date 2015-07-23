@@ -5,8 +5,7 @@
   "Artist": "Andreas Feininger", 
   "URL": "http://www.moma.org/collection/works/50249", 
   "CuratorApproved": "Y", 
-  "Title": "Times Square at Night", 
-  "DateAcquired": "1965-04-06", 
+  "CreditLine": "Gift of the photographer", 
   "Date": "c. 1946", 
   "ArtistID": 1831, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "302.1965", 
-  "ArtistBio": "American, born France. 1906\u20131999", 
-  "CreditLine": "Gift of the photographer", 
+  "ArtistBio": "(American, born France. 1906\u20131999)", 
+  "DateAcquired": "1965-04-06", 
+  "\ufeffTitle": "Times Square at Night", 
   "ObjectID": "50249"
 }

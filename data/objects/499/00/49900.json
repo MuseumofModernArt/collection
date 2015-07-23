@@ -5,8 +5,7 @@
   "Artist": "Larry Fink", 
   "URL": "http://www.moma.org/collection/works/49900", 
   "CuratorApproved": "Y", 
-  "Title": "Blue Horizon, Philadelphia, PA", 
-  "DateAcquired": "1996-06-13", 
+  "CreditLine": "Gift of Pauline Marks", 
   "Date": "1991", 
   "ArtistID": 1877, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "278.1996", 
-  "ArtistBio": "American, born 1941", 
-  "CreditLine": "Gift of Pauline Marks", 
+  "ArtistBio": "(American, born 1941)", 
+  "DateAcquired": "1996-06-13", 
+  "\ufeffTitle": "Blue Horizon, Philadelphia, PA", 
   "ObjectID": "49900"
 }

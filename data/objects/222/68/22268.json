@@ -5,8 +5,7 @@
   "Artist": "Marc Chagall", 
   "URL": "http://www.moma.org/collection/works/22268", 
   "CuratorApproved": "Y", 
-  "Title": "Self Portrait, plate 17 from Mein Leben (My Life)", 
-  "DateAcquired": "1964-10-06", 
+  "CreditLine": "The Louis E. Stern Collection", 
   "Date": "1923", 
   "ArtistID": 1055, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "726.1964.17", 
-  "ArtistBio": "French, born Belarus. 1887\u20131985", 
-  "CreditLine": "The Louis E. Stern Collection", 
+  "ArtistBio": "(French, born Belarus. 1887\u20131985)", 
+  "DateAcquired": "1964-10-06", 
+  "\ufeffTitle": "Self Portrait from Mein Leben (My Life)", 
   "ObjectID": "22268"
 }

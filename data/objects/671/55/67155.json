@@ -1,12 +1,11 @@
 {
   "Medium": "Woodcut", 
-  "Dimensions": "composition  39 3/8 x 37 7/8\" (100 x 96.2 cm)  irreg. sheet  65 1/8 x 43 5/16\" (165 x 110 cm)", 
+  "Dimensions": "composition  39 3/8 x 37 7/8\" (100 x 96.2 cm)\r\nirreg. sheet  65 1/8 x 43 5/16\" (165 x 110 cm)", 
   "Classification": "Print", 
   "Artist": "Susan Rothenberg", 
   "URL": "http://www.moma.org/collection/works/67155", 
   "CuratorApproved": "Y", 
-  "Title": "Blue Violin", 
-  "DateAcquired": "1986-10-15", 
+  "CreditLine": "Gift of Emily Fisher Landau", 
   "Date": "1986", 
   "ArtistID": 5044, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "335.1986", 
-  "ArtistBio": "American, born 1945", 
-  "CreditLine": "Gift of Emily Fisher Landau", 
+  "ArtistBio": "(American, born 1945)", 
+  "DateAcquired": "1986-10-15", 
+  "\ufeffTitle": "Blue Violin", 
   "ObjectID": "67155"
 }

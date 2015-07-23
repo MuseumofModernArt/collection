@@ -1,12 +1,11 @@
 {
   "Medium": "Photolithograph,", 
-  "Dimensions": "composition  18 13/16 x 22 15/16\" (47.8 x 58.4 cm)  sheet  22 7/8 x 27 1/8\" (58 x 68.9 cm)", 
+  "Dimensions": "composition  18 13/16 x 22 15/16\" (47.8 x 58.4 cm)\r\nsheet  22 7/8 x 27 1/8\" (58 x 68.9 cm)", 
   "Classification": "Print", 
   "Artist": "Gerhard Richter", 
   "URL": "http://www.moma.org/collection/works/69277", 
   "CuratorApproved": "Y", 
-  "Title": "Railroad Station (Bahnhof)", 
-  "DateAcquired": "1978-05-22", 
+  "CreditLine": "Gift of Cosmopolitan Arts Foundation", 
   "Date": "1967", 
   "ArtistID": 4907, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "446.1978", 
-  "ArtistBio": "German, born 1932", 
-  "CreditLine": "Gift of Cosmopolitan Arts Foundation", 
+  "ArtistBio": "(German, born 1932)", 
+  "DateAcquired": "1978-05-22", 
+  "\ufeffTitle": "Railroad Station (Bahnhof)", 
   "ObjectID": "69277"
 }

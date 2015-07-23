@@ -5,8 +5,7 @@
   "Artist": "Friedrich Seidenst\u00fccker", 
   "URL": "http://www.moma.org/collection/works/53114", 
   "CuratorApproved": "Y", 
-  "Title": "Coal Porter, Berlin", 
-  "DateAcquired": "1980-03-13", 
+  "CreditLine": "Purchase", 
   "Date": "1930", 
   "ArtistID": 5323, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "418.1980", 
-  "ArtistBio": "German, 1882\u20131966", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(German, 1882\u20131966)", 
+  "DateAcquired": "1980-03-13", 
+  "\ufeffTitle": "Coal Porter, Berlin", 
   "ObjectID": "53114"
 }

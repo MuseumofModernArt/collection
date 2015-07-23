@@ -5,8 +5,7 @@
   "Artist": "Jacques Villon", 
   "URL": "http://www.moma.org/collection/works/69455", 
   "CuratorApproved": "Y", 
-  "Title": "Yvonne D. in Profile (Yvonne D. de Profil)", 
-  "DateAcquired": "1971-05-18", 
+  "CreditLine": "Given in memory of Peter H. Deitsch", 
   "Date": "1913", 
   "ArtistID": 6165, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "459.1971", 
-  "ArtistBio": "French, 1875\u20131963", 
-  "CreditLine": "Given in memory of Peter H. Deitsch", 
+  "ArtistBio": "(French, 1875\u20131963)", 
+  "DateAcquired": "1971-05-18", 
+  "\ufeffTitle": "Yvonne D. in Profile (Yvonne D. de Profil)", 
   "ObjectID": "69455"
 }

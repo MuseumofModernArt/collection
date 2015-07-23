@@ -1,12 +1,11 @@
 {
   "Medium": "Illustrated book with forty-two photogravure and drypoints after celluloid engravings", 
-  "Dimensions": "page: 12 13/16 x 10\" (32 x 25.5 cm)  Prints: various dimensions", 
+  "Dimensions": "page: 12 13/16 x 10\" (32 x 25.5 cm)\r\nPrints: various dimensions", 
   "Classification": "Illustrated Book", 
   "Artist": "Salvador Dal\u00ed", 
   "URL": "http://www.moma.org/collection/works/23590", 
   "CuratorApproved": "Y", 
-  "Title": "Les Chants de Maldoror", 
-  "DateAcquired": "1964-10-06", 
+  "CreditLine": "The Louis E. Stern Collection", 
   "Date": "1934", 
   "ArtistID": 1364, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "771.1964.1-42", 
-  "ArtistBio": "Spanish, 1904\u20131989", 
-  "CreditLine": "The Louis E. Stern Collection", 
+  "ArtistBio": "(Spanish, 1904\u20131989)", 
+  "DateAcquired": "1964-10-06", 
+  "\ufeffTitle": "Les Chants de Maldoror", 
   "ObjectID": "23590"
 }

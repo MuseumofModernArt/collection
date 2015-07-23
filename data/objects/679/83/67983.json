@@ -5,8 +5,7 @@
   "Artist": "Susan Rothenberg", 
   "URL": "http://www.moma.org/collection/works/67983", 
   "CuratorApproved": "Y", 
-  "Title": "Three Parts", 
-  "DateAcquired": "1988-10-25", 
+  "CreditLine": "Gift of Emily Fisher Landau", 
   "Date": "1987-88", 
   "ArtistID": 5044, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "372.1988", 
-  "ArtistBio": "American, born 1945", 
-  "CreditLine": "Gift of Emily Fisher Landau", 
+  "ArtistBio": "(American, born 1945)", 
+  "DateAcquired": "1988-10-25", 
+  "\ufeffTitle": "Three Parts", 
   "ObjectID": "67983"
 }

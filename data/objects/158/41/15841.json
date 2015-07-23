@@ -1,12 +1,11 @@
 {
   "Medium": "Twelve drawings and thirteen photographs", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Illustrated Book", 
   "Artist": "Bryan Hunt", 
   "URL": "http://www.moma.org/collection/works/15841", 
   "CuratorApproved": "Y", 
-  "Title": "Maquette for Conversations with Nature", 
-  "DateAcquired": "1985-10-07", 
+  "CreditLine": "Gift of the artist", 
   "Date": "(1981)", 
   "ArtistID": 2767, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "329.1985.1-25", 
-  "ArtistBio": "American, born 1947", 
-  "CreditLine": "Gift of the artist", 
+  "ArtistBio": "(American, born 1947)", 
+  "DateAcquired": "1985-10-07", 
+  "\ufeffTitle": "Maquette for Conversations with Nature", 
   "ObjectID": "15841"
 }

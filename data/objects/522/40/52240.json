@@ -5,8 +5,7 @@
   "Artist": "Charles N\u00e8gre", 
   "URL": "http://www.moma.org/collection/works/52240", 
   "CuratorApproved": "Y", 
-  "Title": "The Lumberjack", 
-  "DateAcquired": "1983-03-24", 
+  "CreditLine": "Purchase", 
   "Date": "1853", 
   "ArtistID": 4254, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "383.1983.10", 
-  "ArtistBio": "French, 1820\u20131880", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(French, 1820\u20131880)", 
+  "DateAcquired": "1983-03-24", 
+  "\ufeffTitle": "The Lumberjack", 
   "ObjectID": "52240"
 }

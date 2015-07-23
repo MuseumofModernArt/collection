@@ -5,8 +5,7 @@
   "Artist": "Marc Chagall", 
   "URL": "http://www.moma.org/collection/works/5263", 
   "CuratorApproved": "Y", 
-  "Title": "Chagall, Kunsthaus Z\u00fcrich, Dezember 1950-Januar 1951", 
-  "DateAcquired": "1952-05-20", 
+  "CreditLine": "Gift of Kunsthaus Z\u00fcrich", 
   "Date": "1950", 
   "ArtistID": 1055, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "147.1952", 
-  "ArtistBio": "French, born Belarus. 1887\u20131985", 
-  "CreditLine": "Gift of Kunsthaus Z\u00fcrich", 
+  "ArtistBio": "(French, born Belarus. 1887\u20131985)", 
+  "DateAcquired": "1952-05-20", 
+  "\ufeffTitle": "Chagall, Kunsthaus Z\u00fcrich, Dezember 1950-Januar 1951", 
   "ObjectID": "5263"
 }

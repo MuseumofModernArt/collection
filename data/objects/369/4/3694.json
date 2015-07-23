@@ -5,8 +5,7 @@
   "Artist": "Ursula Morley Price", 
   "URL": "http://www.moma.org/collection/works/3694", 
   "CuratorApproved": "Y", 
-  "Title": "Vase", 
-  "DateAcquired": "1982-10-27", 
+  "CreditLine": "Mrs. John D. Rockefeller 3rd Purchase Fund", 
   "Date": "1981", 
   "ArtistID": 4735, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "374.1982", 
-  "ArtistBio": "British, born 1936", 
-  "CreditLine": "Mrs. John D. Rockefeller 3rd Purchase Fund", 
+  "ArtistBio": "(British, born 1936)", 
+  "DateAcquired": "1982-10-27", 
+  "\ufeffTitle": "Vase", 
   "ObjectID": "3694"
 }

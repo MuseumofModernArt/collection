@@ -5,8 +5,7 @@
   "Artist": "Henri Matisse", 
   "URL": "http://www.moma.org/collection/works/33226", 
   "CuratorApproved": "Y", 
-  "Title": "Portrait of Mme Manguin", 
-  "DateAcquired": "1968-02-05", 
+  "CreditLine": "Purchase", 
   "Date": "(1905-06)", 
   "ArtistID": 3832, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "17.1968", 
-  "ArtistBio": "French, 1869\u20131954", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(French, 1869\u20131954)", 
+  "DateAcquired": "1968-02-05", 
+  "\ufeffTitle": "Portrait of Mme Manguin", 
   "ObjectID": "33226"
 }

@@ -5,8 +5,7 @@
   "Artist": "Takahisa Kamijyo", 
   "URL": "http://www.moma.org/collection/works/7791", 
   "CuratorApproved": "Y", 
-  "Title": "Gagaku", 
-  "DateAcquired": "1981-12-10", 
+  "CreditLine": "Gift of the College of Fine Arts, UCLA", 
   "Date": "1981", 
   "ArtistID": 2975, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "626.1981", 
-  "ArtistBio": "Japanese, born 1940", 
-  "CreditLine": "Gift of the College of Fine Arts, UCLA", 
+  "ArtistBio": "(Japanese, born 1940)", 
+  "DateAcquired": "1981-12-10", 
+  "\ufeffTitle": "Gagaku", 
   "ObjectID": "7791"
 }

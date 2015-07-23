@@ -5,8 +5,7 @@
   "Artist": "Raymond Savignac", 
   "URL": "http://www.moma.org/collection/works/7842", 
   "CuratorApproved": "Y", 
-  "Title": "Cinzano", 
-  "DateAcquired": "1981-12-10", 
+  "CreditLine": "Gift of the designer", 
   "Date": "1951", 
   "ArtistID": 5185, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "646.1981", 
-  "ArtistBio": "French, 1907\u20132002", 
-  "CreditLine": "Gift of the designer", 
+  "ArtistBio": "(French, 1907\u20132002)", 
+  "DateAcquired": "1981-12-10", 
+  "\ufeffTitle": "Cinzano", 
   "ObjectID": "7842"
 }

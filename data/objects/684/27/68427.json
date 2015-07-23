@@ -1,12 +1,11 @@
 {
   "Medium": "Etching", 
-  "Dimensions": "Plate: 20 9/16 x 27 3/8\" (52.3 x 69.5 cm)  Sheet: 29 1/2 x 35 1/2\" (75 x 90.1 cm)", 
+  "Dimensions": "Plate: 20 9/16 x 27 3/8\" (52.3 x 69.5 cm)\r\nSheet: 29 1/2 x 35 1/2\" (75 x 90.1 cm)", 
   "Classification": "Print", 
   "Artist": "Jim Dine", 
   "URL": "http://www.moma.org/collection/works/68427", 
   "CuratorApproved": "Y", 
-  "Title": "Five Paintbrushes (third state)", 
-  "DateAcquired": "1990-10-23", 
+  "CreditLine": "Gift of the artist", 
   "Date": "1973", 
   "ArtistID": 1547, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "398.1990", 
-  "ArtistBio": "American, born 1935", 
-  "CreditLine": "Gift of the artist", 
+  "ArtistBio": "(American, born 1935)", 
+  "DateAcquired": "1990-10-23", 
+  "\ufeffTitle": "Five Paintbrushes", 
   "ObjectID": "68427"
 }

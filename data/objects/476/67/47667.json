@@ -5,8 +5,7 @@
   "Artist": "Harry Callahan", 
   "URL": "http://www.moma.org/collection/works/47667", 
   "CuratorApproved": "Y", 
-  "Title": "Eleanor, Chicago", 
-  "DateAcquired": "1991-06-20", 
+  "CreditLine": "Purchase", 
   "Date": "1949", 
   "ArtistID": 924, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "179.1991", 
-  "ArtistBio": "American, 1912\u20131999", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, 1912\u20131999)", 
+  "DateAcquired": "1991-06-20", 
+  "\ufeffTitle": "Eleanor, Chicago", 
   "ObjectID": "47667"
 }

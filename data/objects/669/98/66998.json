@@ -5,8 +5,7 @@
   "Artist": "Jasper Johns", 
   "URL": "http://www.moma.org/collection/works/66998", 
   "CuratorApproved": "Y", 
-  "Title": "Cup 2 Picasso", 
-  "DateAcquired": "1973-10-24", 
+  "CreditLine": "Gift of Celeste Bartos", 
   "Date": "1973", 
   "ArtistID": 2923, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "326.1973", 
-  "ArtistBio": "American, born 1930", 
-  "CreditLine": "Gift of Celeste Bartos", 
+  "ArtistBio": "(American, born 1930)", 
+  "DateAcquired": "1973-10-24", 
+  "\ufeffTitle": "Cup 2 Picasso", 
   "ObjectID": "66998"
 }

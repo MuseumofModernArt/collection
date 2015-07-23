@@ -1,12 +1,11 @@
 {
   "Medium": "Linoleum cut", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "Stanislaw Fijalkowski", 
   "URL": "http://www.moma.org/collection/works/65626", 
   "CuratorApproved": "Y", 
-  "Title": "Talmud Highway - In Commemoration of the Death of Tadeusz Brzozwski", 
-  "DateAcquired": "1992-05-20", 
+  "CreditLine": "Gift of the Kosciuszko Foundation", 
   "Date": "1987", 
   "ArtistID": 6857, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "267.1992", 
-  "ArtistBio": "Polish, born 1922", 
-  "CreditLine": "Gift of the Kosciuszko Foundation", 
+  "ArtistBio": "(Polish, born 1922)", 
+  "DateAcquired": "1992-05-20", 
+  "\ufeffTitle": "Talmud Highway - In Commemoration of the Death of Tadeusz Brzozwski", 
   "ObjectID": "65626"
 }

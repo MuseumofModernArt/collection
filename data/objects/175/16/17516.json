@@ -1,12 +1,11 @@
 {
   "Medium": "Illustrated book with fifty-four lithographs", 
-  "Dimensions": "irreg. page  17 1/2 x 21 1/4\" (44 x 54 cm)  Prints:  various dimensions.", 
+  "Dimensions": "irreg. page  17 1/2 x 21 1/4\" (44 x 54 cm)\r\nPrints:  various dimensions.", 
   "Classification": "Illustrated Book", 
   "Artist": "Larry Rivers", 
   "URL": "http://www.moma.org/collection/works/17516", 
   "CuratorApproved": "Y", 
-  "Title": "The Donkey and the Darling", 
-  "DateAcquired": "1977-11-10", 
+  "CreditLine": "Gift of Celeste Bartos", 
   "Date": "1977", 
   "ArtistID": 4945, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "467.1977.1-53", 
-  "ArtistBio": "American, 1923\u20132002", 
-  "CreditLine": "Gift of Celeste Bartos", 
+  "ArtistBio": "(American, 1923\u20132002)", 
+  "DateAcquired": "1977-11-10", 
+  "\ufeffTitle": "The Donkey and the Darling", 
   "ObjectID": "17516"
 }

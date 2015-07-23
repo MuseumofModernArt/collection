@@ -5,8 +5,7 @@
   "Artist": "Unknown Designer", 
   "URL": "http://www.moma.org/collection/works/4363", 
   "CuratorApproved": "Y", 
-  "Title": "Blanket Pin", 
-  "DateAcquired": "1956-10-25", 
+  "CreditLine": "Department Purchase", 
   "Date": "Before 1956", 
   "ArtistID": 6011, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "549.1956", 
-  "ArtistBio": "American", 
-  "CreditLine": "Department Purchase", 
+  "ArtistBio": "(American)", 
+  "DateAcquired": "1956-10-25", 
+  "\ufeffTitle": "Blanket Pin", 
   "ObjectID": "4363"
 }

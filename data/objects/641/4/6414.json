@@ -5,8 +5,7 @@
   "Artist": "Almir Mavignier", 
   "URL": "http://www.moma.org/collection/works/6414", 
   "CuratorApproved": "Y", 
-  "Title": "Mavignier, Bilder + Serigraphien, (Op) Art Galerie", 
-  "DateAcquired": "1967-04-11", 
+  "CreditLine": "Gift of the artist", 
   "Date": "1966", 
   "ArtistID": 3858, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "346.1967", 
-  "ArtistBio": "Brazilian, born 1925", 
-  "CreditLine": "Gift of the artist", 
+  "ArtistBio": "(Brazilian, born 1925)", 
+  "DateAcquired": "1967-04-11", 
+  "\ufeffTitle": "Mavignier, Bilder + Serigraphien, (Op) Art Galerie", 
   "ObjectID": "6414"
 }

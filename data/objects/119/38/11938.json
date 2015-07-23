@@ -1,12 +1,11 @@
 {
   "Medium": "Illustrated Book with 11 etchings and/or photogravure", 
-  "Dimensions": "page  17 1/2 x 13 3/4\" (44 x 35 cm)  Prints:  various dimensions.", 
+  "Dimensions": "page  17 1/2 x 13 3/4\" (44 x 35 cm)\r\nPrints:  various dimensions.", 
   "Classification": "Illustrated Book", 
   "Artist": "Rafael Alberti", 
   "URL": "http://www.moma.org/collection/works/11938", 
   "CuratorApproved": "Y", 
-  "Title": "X Sonetos Romanos", 
-  "DateAcquired": "1991-01-22", 
+  "CreditLine": "Mary Ellen Meehan Fund", 
   "Date": "(1964)", 
   "ArtistID": 6643, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "149.1992.1-11", 
-  "ArtistBio": "Spanish, 1902\u20131999", 
-  "CreditLine": "Mary Ellen Meehan Fund", 
+  "ArtistBio": "(Spanish, 1902\u20131999)", 
+  "DateAcquired": "1991-01-22", 
+  "\ufeffTitle": "X Sonetos Romanos", 
   "ObjectID": "11938"
 }

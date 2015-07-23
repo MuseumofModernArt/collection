@@ -5,8 +5,7 @@
   "Artist": "Edward Ruscha", 
   "URL": "http://www.moma.org/collection/works/64573", 
   "CuratorApproved": "Y", 
-  "Title": "Certain from That Is Right And Other Similarities", 
-  "DateAcquired": "1990-01-01", 
+  "CreditLine": "", 
   "Date": "1989", 
   "ArtistID": 5086, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "216.1990.1", 
-  "ArtistBio": "American, born 1937", 
-  "CreditLine": "NULL", 
+  "ArtistBio": "(American, born 1937)", 
+  "DateAcquired": "1990-01-01", 
+  "\ufeffTitle": "Certain from That Is Right And Other Similarities", 
   "ObjectID": "64573"
 }

@@ -5,8 +5,7 @@
   "Artist": "Lewis W. Hine", 
   "URL": "http://www.moma.org/collection/works/50433", 
   "CuratorApproved": "Y", 
-  "Title": "Stevedore, New York Waterfront", 
-  "DateAcquired": "1965-04-06", 
+  "CreditLine": "Purchase", 
   "Date": "c. 1920", 
   "ArtistID": 2657, 
   "Keywords": [
@@ -20,7 +19,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "309.1965", 
-  "ArtistBio": "American, 1874\u20131940", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, 1874\u20131940)", 
+  "DateAcquired": "1965-04-06", 
+  "\ufeffTitle": "Stevedore, New York Waterfront", 
   "ObjectID": "50433"
 }

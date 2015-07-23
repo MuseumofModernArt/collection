@@ -5,8 +5,7 @@
   "Artist": "Lois Conner", 
   "URL": "http://www.moma.org/collection/works/50312", 
   "CuratorApproved": "Y", 
-  "Title": "Sahinefendi, Goreme, Turkey", 
-  "DateAcquired": "1991-10-25", 
+  "CreditLine": "E.T. Harmax Foundation Fund", 
   "Date": "1989", 
   "ArtistID": 6616, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "305.1991", 
-  "ArtistBio": "American, born 1951", 
-  "CreditLine": "E.T. Harmax Foundation Fund", 
+  "ArtistBio": "(American, born 1951)", 
+  "DateAcquired": "1991-10-25", 
+  "\ufeffTitle": "Sahinefendi, Goreme, Turkey", 
   "ObjectID": "50312"
 }

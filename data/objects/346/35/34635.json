@@ -5,8 +5,7 @@
   "Artist": "Diego Rivera", 
   "URL": "http://www.moma.org/collection/works/34635", 
   "CuratorApproved": "Y", 
-  "Title": "Man at the Crossroads", 
-  "DateAcquired": "1935-02-27", 
+  "CreditLine": "Given anonymously", 
   "Date": "1932", 
   "ArtistID": 4942, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "138.1935", 
-  "ArtistBio": "Mexican, 1886\u20131957", 
-  "CreditLine": "Given anonymously", 
+  "ArtistBio": "(Mexican, 1886\u20131957)", 
+  "DateAcquired": "1935-02-27", 
+  "\ufeffTitle": "Man at the Crossroads", 
   "ObjectID": "34635"
 }

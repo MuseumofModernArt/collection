@@ -5,8 +5,7 @@
   "Artist": "Lester Beall", 
   "URL": "http://www.moma.org/collection/works/8047", 
   "CuratorApproved": "Y", 
-  "Title": "Light - Rural Electrification Administration", 
-  "DateAcquired": "1983-11-30", 
+  "CreditLine": "Gift of the designer", 
   "Date": "1937", 
   "ArtistID": 409, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "753.1983", 
-  "ArtistBio": "American, 1903\u20131969", 
-  "CreditLine": "Gift of the designer", 
+  "ArtistBio": "(American, 1903\u20131969)", 
+  "DateAcquired": "1983-11-30", 
+  "\ufeffTitle": "Light - Rural Electrification Administration", 
   "ObjectID": "8047"
 }

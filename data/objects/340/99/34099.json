@@ -1,12 +1,11 @@
 {
-  "Medium": "Synthetic polymer paint, watercolor, cut-and- pasted paper, and printing ink  ", 
+  "Medium": "Synthetic polymer paint, watercolor, cut-and- pasted paper, and printing ink\r\n", 
   "Dimensions": "22 1/4 x 29 7/8\" (56.3 x 75.8 cm)", 
   "Classification": "Drawing", 
   "Artist": "Jean Cortot", 
   "URL": "http://www.moma.org/collection/works/34099", 
   "CuratorApproved": "Y", 
-  "Title": "Homage \u00e0 William Blake", 
-  "DateAcquired": "1986-02-27", 
+  "CreditLine": "Gift of Constance B. Cartwright", 
   "Date": "1985", 
   "ArtistID": 1257, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "114.1986", 
-  "ArtistBio": "French, born 1925", 
-  "CreditLine": "Gift of Constance B. Cartwright", 
+  "ArtistBio": "(French, born 1925)", 
+  "DateAcquired": "1986-02-27", 
+  "\ufeffTitle": "Homage \u00e0 William Blake", 
   "ObjectID": "34099"
 }

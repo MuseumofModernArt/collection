@@ -5,8 +5,7 @@
   "Artist": "Minor White", 
   "URL": "http://www.moma.org/collection/works/46713", 
   "CuratorApproved": "Y", 
-  "Title": "Frost Forms: Galaxy", 
-  "DateAcquired": "1967-03-07", 
+  "CreditLine": "Purchase", 
   "Date": "1959", 
   "ArtistID": 6342, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "129.1967", 
-  "ArtistBio": "American, 1908\u20131976", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, 1908\u20131976)", 
+  "DateAcquired": "1967-03-07", 
+  "\ufeffTitle": "Frost Forms: Galaxy", 
   "ObjectID": "46713"
 }

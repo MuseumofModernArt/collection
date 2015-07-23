@@ -5,8 +5,7 @@
   "Artist": "Andries Dirk Copier", 
   "URL": "http://www.moma.org/collection/works/2249", 
   "CuratorApproved": "Y", 
-  "Title": "Ashtray", 
-  "DateAcquired": "1948-03-17", 
+  "CreditLine": "Purchase", 
   "Date": "c. 1946", 
   "ArtistID": 1236, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "130.1948", 
-  "ArtistBio": "Dutch, 1901\u20131991", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(Dutch, 1901\u20131991)", 
+  "DateAcquired": "1948-03-17", 
+  "\ufeffTitle": "Ashtray", 
   "ObjectID": "2249"
 }

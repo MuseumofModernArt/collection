@@ -5,8 +5,7 @@
   "Artist": "Aleksandr Rodchenko", 
   "URL": "http://www.moma.org/collection/works/65539", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1974-04-23", 
+  "CreditLine": "Gift of Nikita D. Lobanov", 
   "Date": "(1919)", 
   "ArtistID": 4975, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "264.1974", 
-  "ArtistBio": "Russian, 1891\u20131956", 
-  "CreditLine": "Gift of Nikita D. Lobanov", 
+  "ArtistBio": "(Russian, 1891\u20131956)", 
+  "DateAcquired": "1974-04-23", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "65539"
 }

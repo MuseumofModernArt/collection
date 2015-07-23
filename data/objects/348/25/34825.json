@@ -5,8 +5,7 @@
   "Artist": "Mario Sironi", 
   "URL": "http://www.moma.org/collection/works/34825", 
   "CuratorApproved": "Y", 
-  "Title": "Soldier", 
-  "DateAcquired": "1962-05-08", 
+  "CreditLine": "John S. Newberry Collection", 
   "Date": "(1914-15)", 
   "ArtistID": 5455, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "152.1962", 
-  "ArtistBio": "Italian, 1885\u20131961", 
-  "CreditLine": "John S. Newberry Collection", 
+  "ArtistBio": "(Italian, 1885\u20131961)", 
+  "DateAcquired": "1962-05-08", 
+  "\ufeffTitle": "Soldier", 
   "ObjectID": "34825"
 }

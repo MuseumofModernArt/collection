@@ -1,12 +1,11 @@
 {
   "Medium": "Screenprint with wood block", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "Tetsuya Noda", 
   "URL": "http://www.moma.org/collection/works/69394", 
   "CuratorApproved": "Y", 
-  "Title": "May 31st '70 in New York", 
-  "DateAcquired": "1971-05-18", 
+  "CreditLine": "Alva Gimbel Fund", 
   "Date": "(1970)", 
   "ArtistID": 4318, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "455.1971", 
-  "ArtistBio": "Japanese, born 1940", 
-  "CreditLine": "Alva Gimbel Fund", 
+  "ArtistBio": "(Japanese, born 1940)", 
+  "DateAcquired": "1971-05-18", 
+  "\ufeffTitle": "May 31st '70 in New York", 
   "ObjectID": "69394"
 }

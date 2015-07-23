@@ -5,8 +5,7 @@
   "Artist": "Max Beckmann", 
   "URL": "http://www.moma.org/collection/works/59794", 
   "CuratorApproved": "Y", 
-  "Title": "Portrait of Mr. Loeb", 
-  "DateAcquired": "1932-05-03", 
+  "CreditLine": "Gift of J. B. Neumann", 
   "Date": "(1922)", 
   "ArtistID": 429, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "10.1932", 
-  "ArtistBio": "German, 1884\u20131950", 
-  "CreditLine": "Gift of J. B. Neumann", 
+  "ArtistBio": "(German, 1884\u20131950)", 
+  "DateAcquired": "1932-05-03", 
+  "\ufeffTitle": "Portrait of Mr. Loeb (Bildnis Herr Loeb)", 
   "ObjectID": "59794"
 }

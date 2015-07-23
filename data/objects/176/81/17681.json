@@ -5,8 +5,7 @@
   "Artist": "Gerhard Marcks", 
   "URL": "http://www.moma.org/collection/works/17681", 
   "CuratorApproved": "Y", 
-  "Title": "The Tower of Babel", 
-  "DateAcquired": "1990-10-23", 
+  "CreditLine": "Gift of Mrs. Donald B. Straus", 
   "Date": "1957 (prints executed 1956-1957)", 
   "ArtistID": 3756, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "475.1990.1-4", 
-  "ArtistBio": "German, 1889\u20131981", 
-  "CreditLine": "Gift of Mrs. Donald B. Straus", 
+  "ArtistBio": "(German, 1889\u20131981)", 
+  "DateAcquired": "1990-10-23", 
+  "\ufeffTitle": "The Tower of Babel", 
   "ObjectID": "17681"
 }

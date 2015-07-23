@@ -5,8 +5,7 @@
   "Artist": "Ellsworth Kelly", 
   "URL": "http://www.moma.org/collection/works/60744", 
   "CuratorApproved": "Y", 
-  "Title": "Colored Paper Image V (Blue Curves) from Colored Paper Images", 
-  "DateAcquired": "1977-02-10", 
+  "CreditLine": "Gift of the artist", 
   "Date": "1976", 
   "ArtistID": 3048, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "41.1977.5", 
-  "ArtistBio": "American, born 1923", 
-  "CreditLine": "Gift of the artist", 
+  "ArtistBio": "(American, born 1923)", 
+  "DateAcquired": "1977-02-10", 
+  "\ufeffTitle": "Colored Paper Image V (Blue Curves) from Colored Paper Images", 
   "ObjectID": "60744"
 }

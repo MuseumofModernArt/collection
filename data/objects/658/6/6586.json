@@ -5,8 +5,7 @@
   "Artist": "Walter Ballmer", 
   "URL": "http://www.moma.org/collection/works/6586", 
   "CuratorApproved": "Y", 
-  "Title": "Stile Olivetti", 
-  "DateAcquired": "1994-09-21", 
+  "CreditLine": "Gift of Leonard A. Lauder", 
   "Date": "1961", 
   "ArtistID": 7403, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "406.1994", 
-  "ArtistBio": "Swiss, born 1923", 
-  "CreditLine": "Gift of Leonard A. Lauder", 
+  "ArtistBio": "(Swiss, born 1923)", 
+  "DateAcquired": "1994-09-21", 
+  "\ufeffTitle": "Stile Olivetti", 
   "ObjectID": "6586"
 }

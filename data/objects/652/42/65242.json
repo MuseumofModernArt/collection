@@ -5,8 +5,7 @@
   "Artist": "Henri Matisse", 
   "URL": "http://www.moma.org/collection/works/65242", 
   "CuratorApproved": "Y", 
-  "Title": "The Idol (L'Idole)", 
-  "DateAcquired": "1950-10-11", 
+  "CreditLine": "Given in memory of Leo and Nina Stein", 
   "Date": "(1906)", 
   "ArtistID": 3832, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "251.1950", 
-  "ArtistBio": "French, 1869\u20131954", 
-  "CreditLine": "Given in memory of Leo and Nina Stein", 
+  "ArtistBio": "(French, 1869\u20131954)", 
+  "DateAcquired": "1950-10-11", 
+  "\ufeffTitle": "The Idol (L'Idole)", 
   "ObjectID": "65242"
 }

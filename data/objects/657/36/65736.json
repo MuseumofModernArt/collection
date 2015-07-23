@@ -1,12 +1,11 @@
 {
   "Medium": "Screenprint with watercolor additions", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "Martin Walde", 
   "URL": "http://www.moma.org/collection/works/65736", 
   "CuratorApproved": "Y", 
-  "Title": "SWSSSSSSHH", 
-  "DateAcquired": "1997-05-28", 
+  "CreditLine": "Monroe Wheeler Fund", 
   "Date": "1994", 
   "ArtistID": 7678, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "271.1997", 
-  "ArtistBio": "Austrian, born 1957", 
-  "CreditLine": "Monroe Wheeler Fund", 
+  "ArtistBio": "(Austrian, born 1957)", 
+  "DateAcquired": "1997-05-28", 
+  "\ufeffTitle": "SWSSSSSSHH", 
   "ObjectID": "65736"
 }

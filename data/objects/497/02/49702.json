@@ -5,8 +5,7 @@
   "Artist": "Leon Levinstein", 
   "URL": "http://www.moma.org/collection/works/49702", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1959-04-22", 
+  "CreditLine": "Purchase", 
   "Date": "c. 1955", 
   "ArtistID": 3518, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "262.1959", 
-  "ArtistBio": "American, 1910\u20131988", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, 1910\u20131988)", 
+  "DateAcquired": "1959-04-22", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "49702"
 }

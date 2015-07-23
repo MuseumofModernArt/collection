@@ -5,8 +5,7 @@
   "Artist": "George H. Hake", 
   "URL": "http://www.moma.org/collection/works/3027", 
   "CuratorApproved": "Y", 
-  "Title": "Boxes", 
-  "DateAcquired": "1953-04-07", 
+  "CreditLine": "Gift of Greta Daniel", 
   "Date": "1947", 
   "ArtistID": 2460, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "246.1953.1-5", 
-  "ArtistBio": "American", 
-  "CreditLine": "Gift of Greta Daniel", 
+  "ArtistBio": "(American)", 
+  "DateAcquired": "1953-04-07", 
+  "\ufeffTitle": "Boxes", 
   "ObjectID": "3027"
 }

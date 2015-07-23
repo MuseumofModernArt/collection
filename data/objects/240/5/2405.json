@@ -5,8 +5,7 @@
   "Artist": "Andries Dirk Copier", 
   "URL": "http://www.moma.org/collection/works/2405", 
   "CuratorApproved": "Y", 
-  "Title": "Bowl", 
-  "DateAcquired": "1947-06-17", 
+  "CreditLine": "Gift of Philip Johnson", 
   "Date": "c. 1920-30", 
   "ArtistID": 1236, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "182.1947", 
-  "ArtistBio": "Dutch, 1901\u20131991", 
-  "CreditLine": "Gift of Philip Johnson", 
+  "ArtistBio": "(Dutch, 1901\u20131991)", 
+  "DateAcquired": "1947-06-17", 
+  "\ufeffTitle": "Bowl", 
   "ObjectID": "2405"
 }

@@ -5,8 +5,7 @@
   "Artist": "Max Ernst", 
   "URL": "http://www.moma.org/collection/works/60476", 
   "CuratorApproved": "Y", 
-  "Title": "Owl", 
-  "DateAcquired": "1958-02-19", 
+  "CreditLine": "James Thrall Soby Fund", 
   "Date": "1955", 
   "ArtistID": 1752, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "31.1958", 
-  "ArtistBio": "French, born Germany. 1891\u20131976", 
-  "CreditLine": "James Thrall Soby Fund", 
+  "ArtistBio": "(French, born Germany. 1891\u20131976)", 
+  "DateAcquired": "1958-02-19", 
+  "\ufeffTitle": "Owl", 
   "ObjectID": "60476"
 }

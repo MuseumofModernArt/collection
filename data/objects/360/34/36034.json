@@ -5,8 +5,7 @@
   "Artist": "Jacques Pr\u00e9vert", 
   "URL": "http://www.moma.org/collection/works/36034", 
   "CuratorApproved": "Y", 
-  "Title": "The Window of Isis", 
-  "DateAcquired": "1961-10-10", 
+  "CreditLine": "Gift of James Thrall Soby", 
   "Date": "(1957)", 
   "ArtistID": 4731, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "291.1961", 
-  "ArtistBio": "French, 1900\u20131977", 
-  "CreditLine": "Gift of James Thrall Soby", 
+  "ArtistBio": "(French, 1900\u20131977)", 
+  "DateAcquired": "1961-10-10", 
+  "\ufeffTitle": "The Window of Isis", 
   "ObjectID": "36034"
 }

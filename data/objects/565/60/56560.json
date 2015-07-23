@@ -5,8 +5,7 @@
   "Artist": "Cindy Sherman", 
   "URL": "http://www.moma.org/collection/works/56560", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled Film Still #11", 
-  "DateAcquired": "1995-12-14", 
+  "CreditLine": "Acquired through the generosity of Sid R. Bass", 
   "Date": "1978", 
   "ArtistID": 5392, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "820.1995", 
-  "ArtistBio": "American, born 1954", 
-  "CreditLine": "Acquired through the generosity of Sid R. Bass", 
+  "ArtistBio": "(American, born 1954)", 
+  "DateAcquired": "1995-12-14", 
+  "\ufeffTitle": "Untitled Film Still #11", 
   "ObjectID": "56560"
 }

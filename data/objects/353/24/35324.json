@@ -5,8 +5,7 @@
   "Artist": "Arnulf Rainer", 
   "URL": "http://www.moma.org/collection/works/35324", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1988-05-05", 
+  "CreditLine": "Gift of Joachim Aberbach (by exchange)", 
   "Date": "(1969-74)", 
   "ArtistID": 4792, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "216.1988", 
-  "ArtistBio": "Austrian, born 1929", 
-  "CreditLine": "Gift of Joachim Aberbach (by exchange)", 
+  "ArtistBio": "(Austrian, born 1929)", 
+  "DateAcquired": "1988-05-05", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "35324"
 }

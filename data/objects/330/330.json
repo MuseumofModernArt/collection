@@ -5,8 +5,7 @@
   "Artist": "Richard Meier", 
   "URL": "http://www.moma.org/collection/works/330", 
   "CuratorApproved": "Y", 
-  "Title": "The Atheneum, New Harmony, Indiana  Site plan, study", 
-  "DateAcquired": "1984-10-30", 
+  "CreditLine": "Gift of the architect", 
   "Date": "1975-79", 
   "ArtistID": 3910, 
   "Keywords": [
@@ -21,7 +20,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "319.1984", 
-  "ArtistBio": "American, born 1934", 
-  "CreditLine": "Gift of the architect", 
+  "ArtistBio": "(American, born 1934)", 
+  "DateAcquired": "1984-10-30", 
+  "\ufeffTitle": "The Atheneum, New Harmony, Indiana, Site plan, study", 
   "ObjectID": "330"
 }

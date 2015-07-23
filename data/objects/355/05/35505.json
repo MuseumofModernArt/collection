@@ -5,8 +5,7 @@
   "Artist": "Shalom Of Safed (Shalom Moskowitz)", 
   "URL": "http://www.moma.org/collection/works/35505", 
   "CuratorApproved": "Y", 
-  "Title": "Noah's Ark", 
-  "DateAcquired": "1966-04-12", 
+  "CreditLine": "Gift of the Jerome L. and Jane Stern Foundation", 
   "Date": "(1965)", 
   "ArtistID": 5370, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "202.1966", 
-  "ArtistBio": "Israeli, 1895\u20131980", 
-  "CreditLine": "Gift of the Jerome L. and Jane Stern Foundation", 
+  "ArtistBio": "(Israeli, 1895\u20131980)", 
+  "DateAcquired": "1966-04-12", 
+  "\ufeffTitle": "Noah's Ark", 
   "ObjectID": "35505"
 }

@@ -1,12 +1,11 @@
 {
   "Medium": "Van Dyke brown print, on four sheets", 
-  "Dimensions": "Composition (each approx.): 23 13/16 x 24\" (60.5 x 61 cm)  Sheet (each approx.): 23 5/8 x 24\" (60 x 61 cm)", 
+  "Dimensions": "Composition (each approx.): 23 13/16 x 24\" (60.5 x 61 cm)\r\nSheet (each approx.): 23 5/8 x 24\" (60 x 61 cm)", 
   "Classification": "Print", 
   "Artist": "Clarissa Sligh", 
   "URL": "http://www.moma.org/collection/works/69409", 
   "CuratorApproved": "Y", 
-  "Title": "Reframing the Past", 
-  "DateAcquired": "1990-10-23", 
+  "CreditLine": "Gift of Linda Barth Goldstein", 
   "Date": "1988", 
   "ArtistID": 5470, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "456.1990.a-d", 
-  "ArtistBio": "American, born 1939", 
-  "CreditLine": "Gift of Linda Barth Goldstein", 
+  "ArtistBio": "(American, born 1939)", 
+  "DateAcquired": "1990-10-23", 
+  "\ufeffTitle": "Reframing the Past", 
   "ObjectID": "69409"
 }

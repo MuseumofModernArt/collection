@@ -5,8 +5,7 @@
   "Artist": "Paul Klee", 
   "URL": "http://www.moma.org/collection/works/63950", 
   "CuratorApproved": "Y", 
-  "Title": "Queen of Hearts", 
-  "DateAcquired": "1942-05-07", 
+  "CreditLine": "Purchase", 
   "Date": "1921", 
   "ArtistID": 3130, 
   "Keywords": [
@@ -22,7 +21,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "184.1942", 
-  "ArtistBio": "German, born Switzerland. 1879\u20131940", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(German, born Switzerland. 1879\u20131940)", 
+  "DateAcquired": "1942-05-07", 
+  "\ufeffTitle": "Queen of Hearts (Herzdame) from the periodical Der Ararat. Glossen, Skizzen und Notizen zur Neuen Kunst vol. 2, no. 4 (April 1921)", 
   "ObjectID": "63950"
 }

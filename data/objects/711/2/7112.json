@@ -5,8 +5,7 @@
   "Artist": "Otto Baumberger", 
   "URL": "http://www.moma.org/collection/works/7112", 
   "CuratorApproved": "Y", 
-  "Title": "Baumann", 
-  "DateAcquired": "1987-11-18", 
+  "CreditLine": "Purchase", 
   "Date": "1922", 
   "ArtistID": 391, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "462.1987", 
-  "ArtistBio": "Swiss, 1889\u20131961", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(Swiss, 1889\u20131961)", 
+  "DateAcquired": "1987-11-18", 
+  "\ufeffTitle": "Baumann", 
   "ObjectID": "7112"
 }

@@ -5,8 +5,7 @@
   "Artist": "Lyonel Feininger", 
   "URL": "http://www.moma.org/collection/works/68497", 
   "CuratorApproved": "Y", 
-  "Title": "Ships and Stars", 
-  "DateAcquired": "1956-03-19", 
+  "CreditLine": "Gift of Mrs. Julia Feininger", 
   "Date": "1919", 
   "ArtistID": 1832, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "403.1955", 
-  "ArtistBio": "American, 1871\u20131956", 
-  "CreditLine": "Gift of Mrs. Julia Feininger", 
+  "ArtistBio": "(American, 1871\u20131956)", 
+  "DateAcquired": "1956-03-19", 
+  "\ufeffTitle": "Ships and Stars (Schiffe und Sterne)", 
   "ObjectID": "68497"
 }

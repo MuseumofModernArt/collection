@@ -1,12 +1,11 @@
 {
   "Medium": "Drypoint", 
-  "Dimensions": "plate  12 3/4 x 9 1/2\" (32.4 x 24.2 cm)  sheet  18 13/16 x 14 7/8\" (47 x 37.8 cm)", 
+  "Dimensions": "plate  12 3/4 x 9 1/2\" (32.4 x 24.2 cm)\r\nsheet  18 13/16 x 14 7/8\" (47 x 37.8 cm)", 
   "Classification": "Print", 
   "Artist": "Berndt Kerkin", 
   "URL": "http://www.moma.org/collection/works/61923", 
   "CuratorApproved": "Y", 
-  "Title": "Ravensbr\u00fccke IX", 
-  "DateAcquired": "1991-05-22", 
+  "CreditLine": "Elinor and Edmund Grasheim Annual Fund", 
   "Date": "1987", 
   "ArtistID": 6600, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "109.1991", 
-  "ArtistBio": "German, born 1951", 
-  "CreditLine": "Elinor and Edmund Grasheim Annual Fund", 
+  "ArtistBio": "(German, born 1951)", 
+  "DateAcquired": "1991-05-22", 
+  "\ufeffTitle": "Ravensbr\u00fccke IX", 
   "ObjectID": "61923"
 }

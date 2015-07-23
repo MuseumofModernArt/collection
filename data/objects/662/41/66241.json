@@ -1,12 +1,11 @@
 {
   "Medium": "Woodcut", 
-  "Dimensions": "irreg. composition  28 1/8 x 19 1/2\" (71.5 x 49.6 cm)  sheet  30 5/8 x 20 3/8\" (77 x 51.7 cm)", 
+  "Dimensions": "irreg. composition  28 1/8 x 19 1/2\" (71.5 x 49.6 cm)\r\nsheet  30 5/8 x 20 3/8\" (77 x 51.7 cm)", 
   "Classification": "Print", 
   "Artist": "Felix Droese", 
   "URL": "http://www.moma.org/collection/works/66241", 
   "CuratorApproved": "Y", 
-  "Title": "Dresden Yellow I", 
-  "DateAcquired": "1994-05-26", 
+  "CreditLine": "The Philip and Lynn Straus Foundation Fund", 
   "Date": "1993", 
   "ArtistID": 1620, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "292.1994", 
-  "ArtistBio": "German, born 1950", 
-  "CreditLine": "The Philip and Lynn Straus Foundation Fund", 
+  "ArtistBio": "(German, born 1950)", 
+  "DateAcquired": "1994-05-26", 
+  "\ufeffTitle": "Dresden Yellow I", 
   "ObjectID": "66241"
 }

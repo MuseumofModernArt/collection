@@ -5,8 +5,7 @@
   "Artist": "Larry Rivers", 
   "URL": "http://www.moma.org/collection/works/61154", 
   "CuratorApproved": "Y", 
-  "Title": "Don't Fall", 
-  "DateAcquired": "1967-02-09", 
+  "CreditLine": "Gift of Joseph I. Singer", 
   "Date": "1966", 
   "ArtistID": 4945, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "66.1967", 
-  "ArtistBio": "American, 1923\u20132002", 
-  "CreditLine": "Gift of Joseph I. Singer", 
+  "ArtistBio": "(American, 1923\u20132002)", 
+  "DateAcquired": "1967-02-09", 
+  "\ufeffTitle": "Don't Fall", 
   "ObjectID": "61154"
 }

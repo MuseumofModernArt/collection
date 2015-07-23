@@ -5,8 +5,7 @@
   "Artist": "Piet Zwart", 
   "URL": "http://www.moma.org/collection/works/7729", 
   "CuratorApproved": "Y", 
-  "Title": "Wij Nu Experimenteel Toneel", 
-  "DateAcquired": "1977-11-28", 
+  "CreditLine": "Jan Tschichold Collection, Gift of Philip Johnson", 
   "Date": "1925", 
   "ArtistID": 6592, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "609.1977", 
-  "ArtistBio": "Dutch, 1885\u20131977", 
-  "CreditLine": "Jan Tschichold Collection, Gift of Philip Johnson", 
+  "ArtistBio": "(Dutch, 1885\u20131977)", 
+  "DateAcquired": "1977-11-28", 
+  "\ufeffTitle": "Wij Nu Experimenteel Toneel", 
   "ObjectID": "7729"
 }

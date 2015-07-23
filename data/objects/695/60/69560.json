@@ -5,8 +5,7 @@
   "Artist": "Emil Nolde", 
   "URL": "http://www.moma.org/collection/works/69560", 
   "CuratorApproved": "Y", 
-  "Title": "The Animal Lover", 
-  "DateAcquired": "1940-04-05", 
+  "CreditLine": "Gift of Abby Aldrich Rockefeller", 
   "Date": "(1918)", 
   "ArtistID": 4327, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "461.1940", 
-  "ArtistBio": "German, 1867\u20131956", 
-  "CreditLine": "Gift of Abby Aldrich Rockefeller", 
+  "ArtistBio": "(German, 1867\u20131956)", 
+  "DateAcquired": "1940-04-05", 
+  "\ufeffTitle": "The Animal Lover (Der Tierfreund)", 
   "ObjectID": "69560"
 }

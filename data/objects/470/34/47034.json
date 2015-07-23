@@ -5,8 +5,7 @@
   "Artist": "Imogen Cunningham", 
   "URL": "http://www.moma.org/collection/works/47034", 
   "CuratorApproved": "Y", 
-  "Title": "Marian Simpson", 
-  "DateAcquired": "1964-02-11", 
+  "CreditLine": "Gift of the photographer", 
   "Date": "1934", 
   "ArtistID": 1332, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "159.1964", 
-  "ArtistBio": "American, 1883\u20131976", 
-  "CreditLine": "Gift of the photographer", 
+  "ArtistBio": "(American, 1883\u20131976)", 
+  "DateAcquired": "1964-02-11", 
+  "\ufeffTitle": "Marian Simpson", 
   "ObjectID": "47034"
 }

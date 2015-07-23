@@ -1,16 +1,16 @@
 {
   "Medium": "Artist's book", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Illustrated Book", 
   "Artist": "Ian Hamilton Finlay", 
   "URL": "", 
   "CuratorApproved": "N", 
-  "Title": "A Litany, A Requiem", 
-  "DateAcquired": "1997-11-11", 
+  "CreditLine": "Gift of Gabriella De Ferrari", 
   "Date": "1981", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "547.1997", 
-  "ArtistBio": "British, 1925\u20132006", 
-  "CreditLine": "Gift of Gabriella De Ferrari", 
+  "ArtistBio": "(British, 1925\u20132006)", 
+  "DateAcquired": "1997-11-11", 
+  "\ufeffTitle": "A Litany, A Requiem", 
   "ObjectID": "18351"
 }

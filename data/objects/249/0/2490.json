@@ -5,8 +5,7 @@
   "Artist": "Eero Aarnio", 
   "URL": "http://www.moma.org/collection/works/2490", 
   "CuratorApproved": "Y", 
-  "Title": "Gyro Chair", 
-  "DateAcquired": "1987-05-27", 
+  "CreditLine": "Joy E. Feinberg Fund and Friends of the Department Fund", 
   "Date": "1968", 
   "ArtistID": 36, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "196.1987", 
-  "ArtistBio": "Finnish, born 1932", 
-  "CreditLine": "Joy E. Feinberg Fund and Friends of the Department Fund", 
+  "ArtistBio": "(Finnish, born 1932)", 
+  "DateAcquired": "1987-05-27", 
+  "\ufeffTitle": "Gyro Chair", 
   "ObjectID": "2490"
 }

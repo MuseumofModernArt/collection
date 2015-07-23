@@ -5,8 +5,7 @@
   "Artist": "Christian Rohlfs", 
   "URL": "http://www.moma.org/collection/works/65959", 
   "CuratorApproved": "Y", 
-  "Title": "Animals in the Pasture", 
-  "DateAcquired": "1955-10-10", 
+  "CreditLine": "George F. Bauerdorf Fund", 
   "Date": "(1921)", 
   "ArtistID": 5000, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "282.1955", 
-  "ArtistBio": "German, 1849\u20131938", 
-  "CreditLine": "George F. Bauerdorf Fund", 
+  "ArtistBio": "(German, 1849\u20131938)", 
+  "DateAcquired": "1955-10-10", 
+  "\ufeffTitle": "Animals in the Pasture (Tiere auf der Weide)", 
   "ObjectID": "65959"
 }

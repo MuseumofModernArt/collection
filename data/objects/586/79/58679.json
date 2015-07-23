@@ -5,8 +5,7 @@
   "Artist": "Red Cross Institute for Crippled and Disabled Men", 
   "URL": "http://www.moma.org/collection/works/58679", 
   "CuratorApproved": "Y", 
-  "Title": "French War Veteran", 
-  "DateAcquired": "2001-06-14", 
+  "CreditLine": "The New York Times Collection", 
   "Date": "c. 1919", 
   "ArtistID": 8606, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "2086.2001", 
-  "ArtistBio": "NULL", 
-  "CreditLine": "The New York Times Collection", 
+  "ArtistBio": "", 
+  "DateAcquired": "2001-06-14", 
+  "\ufeffTitle": "French War Veteran", 
   "ObjectID": "58679"
 }

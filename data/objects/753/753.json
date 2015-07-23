@@ -5,8 +5,7 @@
   "Artist": "Ludwig Mies van der Rohe", 
   "URL": "http://www.moma.org/collection/works/753", 
   "CuratorApproved": "Y", 
-  "Title": "IIT Master Plan, Chicago, Illinois  Campus, perspective, first version", 
-  "DateAcquired": "1963-12-10", 
+  "CreditLine": "Mies van der Rohe Archive, gift of the architect", 
   "Date": "c. 1939-40", 
   "ArtistID": 7166, 
   "Keywords": [
@@ -23,7 +22,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "720.1963", 
-  "ArtistBio": "American, born Germany. 1886\u20131969", 
-  "CreditLine": "Mies van der Rohe Archive, gift of the architect", 
+  "ArtistBio": "(American, born Germany. 1886\u20131969)", 
+  "DateAcquired": "1963-12-10", 
+  "\ufeffTitle": "IIT Master Plan, Chicago, Illinois, Campus, perspective, first version", 
   "ObjectID": "753"
 }

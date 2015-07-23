@@ -5,8 +5,7 @@
   "Artist": "Mitsubishi Electric Corp.", 
   "URL": "http://www.moma.org/collection/works/2897", 
   "CuratorApproved": "Y", 
-  "Title": "Electric Micro-Shaver", 
-  "DateAcquired": "1981-04-30", 
+  "CreditLine": "Gift of the manufacturer", 
   "Date": "1980", 
   "Keywords": [
     "online art collection", 
@@ -16,7 +15,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "233.1981.a-c", 
-  "ArtistBio": "Japanese, est. 1921", 
-  "CreditLine": "Gift of the manufacturer", 
+  "ArtistBio": "(Japanese, est. 1921)", 
+  "DateAcquired": "1981-04-30", 
+  "\ufeffTitle": "Electric Micro-Shaver", 
   "ObjectID": "2897"
 }

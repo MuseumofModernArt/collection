@@ -5,8 +5,7 @@
   "Artist": "Agatha Wojciechowsky", 
   "URL": "http://www.moma.org/collection/works/37069", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1963-10-08", 
+  "CreditLine": "Gift of the Cordier and Ekstrom Gallery", 
   "Date": "1956", 
   "ArtistID": 6423, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "471.1963", 
-  "ArtistBio": "American, 1893\u20131986", 
-  "CreditLine": "Gift of the Cordier and Ekstrom Gallery", 
+  "ArtistBio": "(American, 1893\u20131986)", 
+  "DateAcquired": "1963-10-08", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "37069"
 }

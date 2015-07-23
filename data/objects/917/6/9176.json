@@ -5,8 +5,7 @@
   "Artist": "Alberto Magnelli", 
   "URL": "http://www.moma.org/collection/works/9176", 
   "CuratorApproved": "Y", 
-  "Title": "Plate 14 (folio 31) from 23 Gravures", 
-  "DateAcquired": "1945-01-03", 
+  "CreditLine": "Purchase Fund", 
   "Date": "(1935)", 
   "ArtistID": 3690, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "14.1945.14", 
-  "ArtistBio": "Italian, 1888\u20131971", 
-  "CreditLine": "Purchase Fund", 
+  "ArtistBio": "(Italian, 1888\u20131971)", 
+  "DateAcquired": "1945-01-03", 
+  "\ufeffTitle": "Plate 14 from 23 Gravures", 
   "ObjectID": "9176"
 }

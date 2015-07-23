@@ -5,8 +5,7 @@
   "Artist": "Eliot Elisofon", 
   "URL": "http://www.moma.org/collection/works/46969", 
   "CuratorApproved": "Y", 
-  "Title": "Roddy MacDowell as \"Ariel\"", 
-  "DateAcquired": "1959-04-22", 
+  "CreditLine": "Gift of the photographer", 
   "Date": "1957", 
   "ArtistID": 1717, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "155.1959", 
-  "ArtistBio": "American, 1911\u20131973", 
-  "CreditLine": "Gift of the photographer", 
+  "ArtistBio": "(American, 1911\u20131973)", 
+  "DateAcquired": "1959-04-22", 
+  "\ufeffTitle": "Roddy MacDowell as \"Ariel\"", 
   "ObjectID": "46969"
 }

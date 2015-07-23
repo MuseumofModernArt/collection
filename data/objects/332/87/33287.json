@@ -5,8 +5,7 @@
   "Artist": "Paul Cadmus", 
   "URL": "http://www.moma.org/collection/works/33287", 
   "CuratorApproved": "Y", 
-  "Title": "Katherine Anne Porter", 
-  "DateAcquired": "1960-04-06", 
+  "CreditLine": "Gift of Monroe Wheeler", 
   "Date": "1942", 
   "ArtistID": 909, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "21.1960", 
-  "ArtistBio": "American, 1904\u20131999", 
-  "CreditLine": "Gift of Monroe Wheeler", 
+  "ArtistBio": "(American, 1904\u20131999)", 
+  "DateAcquired": "1960-04-06", 
+  "\ufeffTitle": "Katherine Anne Porter", 
   "ObjectID": "33287"
 }

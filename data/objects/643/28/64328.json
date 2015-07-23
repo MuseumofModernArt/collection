@@ -1,12 +1,11 @@
 {
   "Medium": "Portfolio of twelve screenprints", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "Richard Deacon", 
   "URL": "http://www.moma.org/collection/works/64328", 
   "CuratorApproved": "Y", 
-  "Title": "Show and Tell", 
-  "DateAcquired": "1997-05-28", 
+  "CreditLine": "Mrs. Akio Morita Fund", 
   "Date": "1997", 
   "ArtistID": 1456, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "201.1997.1-12", 
-  "ArtistBio": "British, born 1949", 
-  "CreditLine": "Mrs. Akio Morita Fund", 
+  "ArtistBio": "(British, born 1949)", 
+  "DateAcquired": "1997-05-28", 
+  "\ufeffTitle": "Show and Tell", 
   "ObjectID": "64328"
 }

@@ -1,12 +1,11 @@
 {
   "Medium": "Illustrated book with seven etchings and one etching and engraving", 
-  "Dimensions": "page  10 1/4 x 6 3/4\" (26 x 17.1 cm)  Prints: various dimensions.", 
+  "Dimensions": "page  10 1/4 x 6 3/4\" (26 x 17.1 cm)\r\nPrints: various dimensions.", 
   "Classification": "Illustrated Book", 
   "Artist": "Libero Badii", 
   "URL": "http://www.moma.org/collection/works/15648", 
   "CuratorApproved": "Y", 
-  "Title": "Voces", 
-  "DateAcquired": "1969-04-16", 
+  "CreditLine": "Inter-American Fund", 
   "Date": "1964", 
   "ArtistID": 278, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "323.1969.1-8", 
-  "ArtistBio": "Argentine, 1916\u20132001", 
-  "CreditLine": "Inter-American Fund", 
+  "ArtistBio": "(Argentine, 1916\u20132001)", 
+  "DateAcquired": "1969-04-16", 
+  "\ufeffTitle": "Voces", 
   "ObjectID": "15648"
 }

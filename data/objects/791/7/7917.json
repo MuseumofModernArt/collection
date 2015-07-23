@@ -5,8 +5,7 @@
   "Artist": "John (born Helmut Herzfelde) Heartfield", 
   "URL": "http://www.moma.org/collection/works/7917", 
   "CuratorApproved": "Y", 
-  "Title": "150 Millionen by Wladimir Majakowsky", 
-  "DateAcquired": "1999-12-10", 
+  "CreditLine": "Jan Tschichold Collection, Gift of Philip Johnson", 
   "Date": "1924", 
   "ArtistID": 8233, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "679.1999", 
-  "ArtistBio": "German, 1891\u20131968", 
-  "CreditLine": "Jan Tschichold Collection, Gift of Philip Johnson", 
+  "ArtistBio": "(German, 1891\u20131968)", 
+  "DateAcquired": "1999-12-10", 
+  "\ufeffTitle": "\"150 Millionen\" by Wladimir Majakowsky", 
   "ObjectID": "7917"
 }

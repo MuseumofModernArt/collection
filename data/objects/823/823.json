@@ -5,8 +5,7 @@
   "Artist": "Leon Krier", 
   "URL": "http://www.moma.org/collection/works/823", 
   "CuratorApproved": "Y", 
-  "Title": "House for Rita, project   Elevation", 
-  "DateAcquired": "2000-10-31", 
+  "CreditLine": "Gift of The Howard Gilman Foundation", 
   "Date": "1974", 
   "ArtistID": 3250, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "1212.2000", 
-  "ArtistBio": "Luxembourgish, born 1946", 
-  "CreditLine": "Gift of The Howard Gilman Foundation", 
+  "ArtistBio": "(Luxembourgish, born 1946)", 
+  "DateAcquired": "2000-10-31", 
+  "\ufeffTitle": "House for Rita, project , Elevation", 
   "ObjectID": "823"
 }

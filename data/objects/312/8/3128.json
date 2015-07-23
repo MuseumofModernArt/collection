@@ -5,8 +5,7 @@
   "Artist": "Gino Sarfatti", 
   "URL": "http://www.moma.org/collection/works/3128", 
   "CuratorApproved": "Y", 
-  "Title": "Floor Lamp (model 1063)", 
-  "DateAcquired": "1958-12-04", 
+  "CreditLine": "Phyllis B. Lambert Fund", 
   "Date": "1954", 
   "ArtistID": 5164, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "264.1958", 
-  "ArtistBio": "Italian, 1912\u20131985", 
-  "CreditLine": "Phyllis B. Lambert Fund", 
+  "ArtistBio": "(Italian, 1912\u20131985)", 
+  "DateAcquired": "1958-12-04", 
+  "\ufeffTitle": "Floor Lamp (model 1063)", 
   "ObjectID": "3128"
 }

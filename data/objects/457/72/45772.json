@@ -5,8 +5,7 @@
   "Artist": "Imogen Cunningham", 
   "URL": "http://www.moma.org/collection/works/45772", 
   "CuratorApproved": "Y", 
-  "Title": "Mr. and Mrs. Ozenfant", 
-  "DateAcquired": "1940-04-05", 
+  "CreditLine": "Gift of Albert M. Bender", 
   "Date": "1938", 
   "ArtistID": 1332, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "78.1940", 
-  "ArtistBio": "American, 1883\u20131976", 
-  "CreditLine": "Gift of Albert M. Bender", 
+  "ArtistBio": "(American, 1883\u20131976)", 
+  "DateAcquired": "1940-04-05", 
+  "\ufeffTitle": "Mr. and Mrs. Ozenfant", 
   "ObjectID": "45772"
 }

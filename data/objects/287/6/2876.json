@@ -1,12 +1,11 @@
 {
   "Medium": "Stainless steel", 
-  "Dimensions": ".1 (pen): (closed) 5 1/8 x 5/16\" (13 x w. 0.8 cm); (open) 5 11/16 x 5/16\" (14.4 x 0.8 cm)  .2 (pencil): (closed) 5 1/8 x 5/16\" (13 x 0.8 cm); (open) 5 9/16 x 5/16\"  (14.1 x 0.8 cm)", 
+  "Dimensions": ".1 (pen): (closed) 5 1/8 x 5/16\" (13 x w. 0.8 cm); (open) 5 11/16 x 5/16\" (14.4 x 0.8 cm)\r\n.2 (pencil): (closed) 5 1/8 x 5/16\" (13 x 0.8 cm); (open) 5 9/16 x 5/16\"  (14.1 x 0.8 cm)", 
   "Classification": "A&D Design", 
-  "Artist": "Mitsuo Maki", 
+  "Artist": "Mitsuo Maki, Hosowo Tomohiro, Kikukawa Katsuyoshi, M. Katsuyoshi", 
   "URL": "http://www.moma.org/collection/works/2876", 
   "CuratorApproved": "Y", 
-  "Title": "Mechanical Pencil and Ball Point Pen", 
-  "DateAcquired": "1981-04-30", 
+  "CreditLine": "Gift of Platinum Pen Company of America, Inc.", 
   "Date": "1980", 
   "ArtistID": 3704, 
   "Keywords": [
@@ -20,7 +19,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "231.1981.1-2", 
-  "ArtistBio": "Japanese, born 1948", 
-  "CreditLine": "Gift of Platinum Pen Company of America, Inc.", 
+  "ArtistBio": "(Japanese, born 1948) (Japanese, born 1953) (Japanese, born 1935)", 
+  "DateAcquired": "1981-04-30", 
+  "\ufeffTitle": "Mechanical Pencil and Ball Point Pen", 
   "ObjectID": "2876"
 }

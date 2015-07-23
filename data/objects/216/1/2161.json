@@ -5,8 +5,7 @@
   "Artist": "Jacob Jensen", 
   "URL": "http://www.moma.org/collection/works/2161", 
   "CuratorApproved": "Y", 
-  "Title": "Beogram 6000 Turntable", 
-  "DateAcquired": "1976-03-22", 
+  "CreditLine": "Gift of the manufacturer", 
   "Date": "1974", 
   "ArtistID": 2909, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "111.1976", 
-  "ArtistBio": "Danish, 1926\u20132015", 
-  "CreditLine": "Gift of the manufacturer", 
+  "ArtistBio": "(Danish, 1926\u20132015)", 
+  "DateAcquired": "1976-03-22", 
+  "\ufeffTitle": "Beogram 6000 Turntable", 
   "ObjectID": "2161"
 }

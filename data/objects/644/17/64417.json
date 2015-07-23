@@ -5,8 +5,7 @@
   "Artist": "Max Beckmann", 
   "URL": "http://www.moma.org/collection/works/64417", 
   "CuratorApproved": "Y", 
-  "Title": "Illustration for Chapter Two", 
-  "DateAcquired": "1952-11-07", 
+  "CreditLine": "Gift of Mrs. Bertha M. Slattery", 
   "Date": "(1917, published 1918)", 
   "ArtistID": 429, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "209.1952", 
-  "ArtistBio": "German, 1884\u20131950", 
-  "CreditLine": "Gift of Mrs. Bertha M. Slattery", 
+  "ArtistBio": "(German, 1884\u20131950)", 
+  "DateAcquired": "1952-11-07", 
+  "\ufeffTitle": "Illustration for Chapter Two (Illustration zu Kapitel Zwei) from Die F\u00fcrstin (The Duchess)", 
   "ObjectID": "64417"
 }

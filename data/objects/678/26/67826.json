@@ -1,12 +1,11 @@
 {
-  "Medium": "Transfer lithograph    Transfer lithograph, printed in black", 
+  "Medium": "Transfer lithograph\r\n\r\nTransfer lithograph, printed in black", 
   "Dimensions": "composition: 8 1/8 x 5 9/16\" (20.7 x 14.2 cm)", 
   "Classification": "Print", 
   "Artist": "Marie Laurencin", 
   "URL": "http://www.moma.org/collection/works/67826", 
   "CuratorApproved": "Y", 
-  "Title": "Self Portrait", 
-  "DateAcquired": "1940-04-05", 
+  "CreditLine": "Gift of Abby Aldrich Rockefeller", 
   "Date": "(1920)", 
   "ArtistID": 3408, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "366.1940", 
-  "ArtistBio": "French, 1883\u20131956", 
-  "CreditLine": "Gift of Abby Aldrich Rockefeller", 
+  "ArtistBio": "(French, 1883\u20131956)", 
+  "DateAcquired": "1940-04-05", 
+  "\ufeffTitle": "Self Portrait", 
   "ObjectID": "67826"
 }

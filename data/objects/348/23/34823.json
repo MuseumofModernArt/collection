@@ -5,8 +5,7 @@
   "Artist": "Marcel Duchamp", 
   "URL": "http://www.moma.org/collection/works/34823", 
   "CuratorApproved": "Y", 
-  "Title": "Handmade Stereopticon Slide", 
-  "DateAcquired": "1953-04-07", 
+  "CreditLine": "Katherine S. Dreier Bequest", 
   "Date": "(c. 1918-19)", 
   "ArtistID": 1634, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "152.1953", 
-  "ArtistBio": "American, born France. 1887\u20131968", 
-  "CreditLine": "Katherine S. Dreier Bequest", 
+  "ArtistBio": "(American, born France. 1887\u20131968)", 
+  "DateAcquired": "1953-04-07", 
+  "\ufeffTitle": "Handmade Stereopticon Slide", 
   "ObjectID": "34823"
 }

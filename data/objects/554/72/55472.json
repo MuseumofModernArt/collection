@@ -5,8 +5,7 @@
   "Artist": "Jerome Liebling", 
   "URL": "http://www.moma.org/collection/works/55472", 
   "CuratorApproved": "Y", 
-  "Title": "Bronx", 
-  "DateAcquired": "1983-05-26", 
+  "CreditLine": "The Family of Man Fund", 
   "Date": "1980", 
   "ArtistID": 3549, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "596.1983", 
-  "ArtistBio": "American, 1924\u20132011", 
-  "CreditLine": "The Family of Man Fund", 
+  "ArtistBio": "(American, 1924\u20132011)", 
+  "DateAcquired": "1983-05-26", 
+  "\ufeffTitle": "Bronx", 
   "ObjectID": "55472"
 }

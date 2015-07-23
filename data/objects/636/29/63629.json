@@ -1,12 +1,11 @@
 {
   "Medium": "Etching", 
-  "Dimensions": "plate  12 x 5 1/2\" (30.5 x 14 cm)  sheet  14 5/8 x 10 3/4\" (37 x 27.3 cm)", 
+  "Dimensions": "plate  12 x 5 1/2\" (30.5 x 14 cm)\r\nsheet  14 5/8 x 10 3/4\" (37 x 27.3 cm)", 
   "Classification": "Print", 
   "Artist": "Ernst Fuchs", 
   "URL": "http://www.moma.org/collection/works/63629", 
   "CuratorApproved": "Y", 
-  "Title": "Hermit", 
-  "DateAcquired": "1986-05-20", 
+  "CreditLine": "Gift of William S. Lieberman", 
   "Date": "1949", 
   "ArtistID": 2021, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "174.1986", 
-  "ArtistBio": "Austrian, born 1930", 
-  "CreditLine": "Gift of William S. Lieberman", 
+  "ArtistBio": "(Austrian, born 1930)", 
+  "DateAcquired": "1986-05-20", 
+  "\ufeffTitle": "Hermit", 
   "ObjectID": "63629"
 }

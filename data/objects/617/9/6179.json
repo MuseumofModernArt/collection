@@ -5,8 +5,7 @@
   "Artist": "Peter Hatch", 
   "URL": "http://www.moma.org/collection/works/6179", 
   "CuratorApproved": "Y", 
-  "Title": "Come to the Design Fair", 
-  "DateAcquired": "1953-04-07", 
+  "CreditLine": "Gift of the artist", 
   "Date": "1949", 
   "ArtistID": 2536, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "308.1953", 
-  "ArtistBio": "British", 
-  "CreditLine": "Gift of the artist", 
+  "ArtistBio": "(British)", 
+  "DateAcquired": "1953-04-07", 
+  "\ufeffTitle": "Come to the Design Fair", 
   "ObjectID": "6179"
 }

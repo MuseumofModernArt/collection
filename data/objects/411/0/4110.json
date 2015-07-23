@@ -5,8 +5,7 @@
   "Artist": "Otto Prutscher", 
   "URL": "http://www.moma.org/collection/works/4110", 
   "CuratorApproved": "Y", 
-  "Title": "Goblet", 
-  "DateAcquired": "1981-12-10", 
+  "CreditLine": "Est\u00e9e and Joseph Lauder Design Fund", 
   "Date": "c. 1905", 
   "ArtistID": 4749, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "570.1981", 
-  "ArtistBio": "Austrian, 1880\u20131949", 
-  "CreditLine": "Est\u00e9e and Joseph Lauder Design Fund", 
+  "ArtistBio": "(Austrian, 1880\u20131949)", 
+  "DateAcquired": "1981-12-10", 
+  "\ufeffTitle": "Goblet", 
   "ObjectID": "4110"
 }

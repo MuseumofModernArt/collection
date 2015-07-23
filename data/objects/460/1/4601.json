@@ -1,12 +1,11 @@
 {
   "Medium": "Glass", 
-  "Dimensions": ".1: 4 11/16 x 2 7/8\" (11.9 x 7.3 cm)  .2: 3 1/8 x 2 11/16\" (7.9 x 6.8 cm)  .3: 3 1/2 x 3 1/4\" (8.9 x 8.3 cm)", 
+  "Dimensions": ".1: 4 11/16 x 2 7/8\" (11.9 x 7.3 cm)\r\n.2: 3 1/8 x 2 11/16\" (7.9 x 6.8 cm)\r\n.3: 3 1/2 x 3 1/4\" (8.9 x 8.3 cm)", 
   "Classification": "A&D Design", 
   "Artist": "Timo Sarpaneva", 
   "URL": "http://www.moma.org/collection/works/4601", 
   "CuratorApproved": "Y", 
-  "Title": "Pisaranrengas Glasses", 
-  "DateAcquired": "1969-12-01", 
+  "CreditLine": "Gift of Emilio Ambasz", 
   "Date": "1963", 
   "ArtistID": 5168, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "1134.1969.1-3", 
-  "ArtistBio": "Finnish, 1926\u20132006", 
-  "CreditLine": "Gift of Emilio Ambasz", 
+  "ArtistBio": "(Finnish, 1926\u20132006)", 
+  "DateAcquired": "1969-12-01", 
+  "\ufeffTitle": "Pisaranrengas Glasses", 
   "ObjectID": "4601"
 }

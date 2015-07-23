@@ -1,12 +1,11 @@
 {
   "Medium": "Woodcut", 
-  "Dimensions": "Composition (irreg.): 39 3/8 x 27 1/2\" (100 x 69.8 cm)  Sheet (irreg.): 40 7/8 x 29 7/8\" (103.8 x 75.9 cm)", 
+  "Dimensions": "Composition (irreg.): 39 3/8 x 27 1/2\" (100 x 69.8 cm)\r\nSheet (irreg.): 40 7/8 x 29 7/8\" (103.8 x 75.9 cm)", 
   "Classification": "Print", 
   "Artist": "Georg Baselitz", 
   "URL": "http://www.moma.org/collection/works/61737", 
   "CuratorApproved": "Y", 
-  "Title": "Six Stones (Sechs Steine)", 
-  "DateAcquired": "1995-05-03", 
+  "CreditLine": "Gift of Mrs. Donald B. Straus in honor of Riva Castleman", 
   "Date": "1991 (published 1992).", 
   "ArtistID": 366, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "95.1995", 
-  "ArtistBio": "German, born 1938", 
-  "CreditLine": "Gift of Mrs. Donald B. Straus in honor of Riva Castleman", 
+  "ArtistBio": "(German, born 1938)", 
+  "DateAcquired": "1995-05-03", 
+  "\ufeffTitle": "Six Stones (Sechs Steine)", 
   "ObjectID": "61737"
 }

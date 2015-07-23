@@ -1,12 +1,11 @@
 {
   "Medium": "Screenprint on aluminum", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "Marilyn Minter", 
   "URL": "http://www.moma.org/collection/works/64835", 
   "CuratorApproved": "Y", 
-  "Title": "Hands Folding", 
-  "DateAcquired": "1997-05-28", 
+  "CreditLine": "Gift of Landfall Press", 
   "Date": "1989", 
   "ArtistID": 4008, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "230.1997", 
-  "ArtistBio": "American, born 1948", 
-  "CreditLine": "Gift of Landfall Press", 
+  "ArtistBio": "(American, born 1948)", 
+  "DateAcquired": "1997-05-28", 
+  "\ufeffTitle": "Hands Folding", 
   "ObjectID": "64835"
 }

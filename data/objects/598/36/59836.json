@@ -1,12 +1,11 @@
 {
   "Medium": "Lithograph with die-cut", 
-  "Dimensions": "composition and sheet: 41 9/16 x 29 5/8\" (105.6 x 75.3 cm)  ", 
+  "Dimensions": "composition and sheet: 41 9/16 x 29 5/8\" (105.6 x 75.3 cm)\r\n", 
   "Classification": "Print", 
   "Artist": "Jasper Johns", 
   "URL": "http://www.moma.org/collection/works/59836", 
   "CuratorApproved": "Y", 
-  "Title": "Decoy", 
-  "DateAcquired": "1972-02-07", 
+  "CreditLine": "Gift of Celeste Bartos", 
   "Date": "1971", 
   "ArtistID": 2923, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "11.1972", 
-  "ArtistBio": "American, born 1930", 
-  "CreditLine": "Gift of Celeste Bartos", 
+  "ArtistBio": "(American, born 1930)", 
+  "DateAcquired": "1972-02-07", 
+  "\ufeffTitle": "Decoy", 
   "ObjectID": "59836"
 }

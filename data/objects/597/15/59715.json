@@ -5,8 +5,7 @@
   "Artist": "Steve Barraclough", 
   "URL": "http://www.moma.org/collection/works/59715", 
   "CuratorApproved": "Y", 
-  "Title": "Viaduct II", 
-  "DateAcquired": "1979-01-23", 
+  "CreditLine": "Larry Aldrich Fund", 
   "Date": "(1977)", 
   "ArtistID": 347, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "7.1979", 
-  "ArtistBio": "British", 
-  "CreditLine": "Larry Aldrich Fund", 
+  "ArtistBio": "(British)", 
+  "DateAcquired": "1979-01-23", 
+  "\ufeffTitle": "Viaduct II", 
   "ObjectID": "59715"
 }

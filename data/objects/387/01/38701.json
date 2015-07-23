@@ -5,8 +5,7 @@
   "Artist": "Vito Acconci", 
   "URL": "http://www.moma.org/collection/works/38701", 
   "CuratorApproved": "Y", 
-  "Title": "Throw", 
-  "DateAcquired": "2000-12-12", 
+  "CreditLine": "Gift of Thea Westreich and Ethan Wagner in honor of Gary Garrels", 
   "Date": "(1969)", 
   "ArtistID": 53, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "1604.2000.a-c", 
-  "ArtistBio": "American, born 1940", 
-  "CreditLine": "Gift of Thea Westreich and Ethan Wagner in honor of Gary Garrels", 
+  "ArtistBio": "(American, born 1940)", 
+  "DateAcquired": "2000-12-12", 
+  "\ufeffTitle": "Throw", 
   "ObjectID": "38701"
 }

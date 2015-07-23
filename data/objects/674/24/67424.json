@@ -1,12 +1,11 @@
 {
   "Medium": "Lithograph", 
-  "Dimensions": "composition  41 5/8 x 27\" (105.7 x 68.6 cm)  sheet  48 1/2 x 32 1/2\" (123.2 x 82.5 cm)", 
+  "Dimensions": "composition  41 5/8 x 27\" (105.7 x 68.6 cm)\r\nsheet  48 1/2 x 32 1/2\" (123.2 x 82.5 cm)", 
   "Classification": "Print", 
   "Artist": "Roy Lichtenstein", 
   "URL": "http://www.moma.org/collection/works/67424", 
   "CuratorApproved": "Y", 
-  "Title": "Cathedral #5 from the Cathedral Series", 
-  "DateAcquired": "1971-03-30", 
+  "CreditLine": "Gift of Mr. and Mrs. David Gensburg", 
   "Date": "1969", 
   "ArtistID": 3542, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "348.1971", 
-  "ArtistBio": "American, 1923\u20131997", 
-  "CreditLine": "Gift of Mr. and Mrs. David Gensburg", 
+  "ArtistBio": "(American, 1923\u20131997)", 
+  "DateAcquired": "1971-03-30", 
+  "\ufeffTitle": "Cathedral #5 from the Cathedral Series", 
   "ObjectID": "67424"
 }

@@ -5,8 +5,7 @@
   "Artist": "Grete Jalk", 
   "URL": "http://www.moma.org/collection/works/4721", 
   "CuratorApproved": "Y", 
-  "Title": "Lounge Chair", 
-  "DateAcquired": "2000-12-11", 
+  "CreditLine": "Gift of Jo Carole and Ronald S. Lauder", 
   "Date": "1963", 
   "ArtistID": 8433, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "1427.2000", 
-  "ArtistBio": "Danish, 1920\u20132006", 
-  "CreditLine": "Gift of Jo Carole and Ronald S. Lauder", 
+  "ArtistBio": "(Danish, 1920\u20132006)", 
+  "DateAcquired": "2000-12-11", 
+  "\ufeffTitle": "Lounge Chair", 
   "ObjectID": "4721"
 }

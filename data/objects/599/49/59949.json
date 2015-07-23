@@ -1,12 +1,11 @@
 {
   "Medium": "Screenprint", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "Michel Seuphor", 
   "URL": "http://www.moma.org/collection/works/59949", 
   "CuratorApproved": "Y", 
-  "Title": "Circle and Cross (Cercle et croix)", 
-  "DateAcquired": "1976-01-08", 
+  "CreditLine": "Purchase", 
   "Date": "(n.d.)", 
   "Keywords": [
     "online art collection", 
@@ -16,7 +15,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "14.1976", 
-  "ArtistBio": "French, born Belgium. 1901\u20131999", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(French, born Belgium. 1901\u20131999)", 
+  "DateAcquired": "1976-01-08", 
+  "\ufeffTitle": "Circle and Cross (Cercle et croix)", 
   "ObjectID": "59949"
 }

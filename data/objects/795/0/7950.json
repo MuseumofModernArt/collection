@@ -5,8 +5,7 @@
   "Artist": "Frantisek Kalivoda", 
   "URL": "http://www.moma.org/collection/works/7950", 
   "CuratorApproved": "Y", 
-  "Title": "Ekran, no. 1", 
-  "DateAcquired": "1999-12-10", 
+  "CreditLine": "Jan Tschichold Collection, Gift of Philip Johnson", 
   "Date": "1934", 
   "ArtistID": 8251, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "694.1999", 
-  "ArtistBio": "Czech, 1913\u20131971", 
-  "CreditLine": "Jan Tschichold Collection, Gift of Philip Johnson", 
+  "ArtistBio": "(Czech, 1913\u20131971)", 
+  "DateAcquired": "1999-12-10", 
+  "\ufeffTitle": "Ekran, no. 1", 
   "ObjectID": "7950"
 }

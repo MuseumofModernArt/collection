@@ -5,8 +5,7 @@
   "Artist": "Dorothy Hood", 
   "URL": "http://www.moma.org/collection/works/33049", 
   "CuratorApproved": "Y", 
-  "Title": "The Seeming Beginning", 
-  "DateAcquired": "1944-03-14", 
+  "CreditLine": "James Thrall Soby Fund", 
   "Date": "1943", 
   "ArtistID": 2722, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "7.1944", 
-  "ArtistBio": "American, 1919\u20132000", 
-  "CreditLine": "James Thrall Soby Fund", 
+  "ArtistBio": "(American, 1919\u20132000)", 
+  "DateAcquired": "1944-03-14", 
+  "\ufeffTitle": "The Seeming Beginning", 
   "ObjectID": "33049"
 }

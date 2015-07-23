@@ -5,8 +5,7 @@
   "Artist": "Red Grooms", 
   "URL": "http://www.moma.org/collection/works/35520", 
   "CuratorApproved": "Y", 
-  "Title": "Moon-o-nauts", 
-  "DateAcquired": "1966-04-12", 
+  "CreditLine": "Gift of Constance B. Cartwright", 
   "Date": "1962", 
   "ArtistID": 2357, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "204.1966", 
-  "ArtistBio": "American, born 1937", 
-  "CreditLine": "Gift of Constance B. Cartwright", 
+  "ArtistBio": "(American, born 1937)", 
+  "DateAcquired": "1966-04-12", 
+  "\ufeffTitle": "Moon-o-nauts", 
   "ObjectID": "35520"
 }

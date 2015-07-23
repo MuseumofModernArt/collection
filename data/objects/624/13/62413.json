@@ -5,8 +5,7 @@
   "Artist": "Oskar Kokoschka", 
   "URL": "http://www.moma.org/collection/works/62413", 
   "CuratorApproved": "Y", 
-  "Title": "Recha", 
-  "DateAcquired": "1945-03-07", 
+  "CreditLine": "Purchase", 
   "Date": "(1921)", 
   "ArtistID": 3197, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "130.1945", 
-  "ArtistBio": "Austrian, 1886\u20131980", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(Austrian, 1886\u20131980)", 
+  "DateAcquired": "1945-03-07", 
+  "\ufeffTitle": "Recha", 
   "ObjectID": "62413"
 }

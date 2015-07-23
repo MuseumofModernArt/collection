@@ -5,8 +5,7 @@
   "Artist": "Umbo (Otto Umbehr)", 
   "URL": "http://www.moma.org/collection/works/49819", 
   "CuratorApproved": "Y", 
-  "Title": "At the Beach", 
-  "DateAcquired": "1993-06-01", 
+  "CreditLine": "Purchase", 
   "Date": "1930", 
   "ArtistID": 6006, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "271.1993", 
-  "ArtistBio": "German, 1902\u20131980", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(German, 1902\u20131980)", 
+  "DateAcquired": "1993-06-01", 
+  "\ufeffTitle": "At the Beach", 
   "ObjectID": "49819"
 }

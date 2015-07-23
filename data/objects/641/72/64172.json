@@ -5,8 +5,7 @@
   "Artist": "Jacques Villon", 
   "URL": "http://www.moma.org/collection/works/64172", 
   "CuratorApproved": "Y", 
-  "Title": "Seated Nude", 
-  "DateAcquired": "1954-04-06", 
+  "CreditLine": "Larry Aldrich Fund", 
   "Date": "(1910)", 
   "ArtistID": 6165, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "195.1954", 
-  "ArtistBio": "French, 1875\u20131963", 
-  "CreditLine": "Larry Aldrich Fund", 
+  "ArtistBio": "(French, 1875\u20131963)", 
+  "DateAcquired": "1954-04-06", 
+  "\ufeffTitle": "Seated Nude", 
   "ObjectID": "64172"
 }

@@ -5,8 +5,7 @@
   "Artist": "Robert Adams", 
   "URL": "http://www.moma.org/collection/works/56975", 
   "CuratorApproved": "Y", 
-  "Title": "Longmont, Colorado", 
-  "DateAcquired": "1996-12-10", 
+  "CreditLine": "Gift of the photographer", 
   "Date": "1979", 
   "ArtistID": 66, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "854.1996", 
-  "ArtistBio": "American, born 1937", 
-  "CreditLine": "Gift of the photographer", 
+  "ArtistBio": "(American, born 1937)", 
+  "DateAcquired": "1996-12-10", 
+  "\ufeffTitle": "Longmont, Colorado", 
   "ObjectID": "56975"
 }

@@ -5,8 +5,7 @@
   "Artist": "\u00c9douard Pignon", 
   "URL": "http://www.moma.org/collection/works/67948", 
   "CuratorApproved": "Y", 
-  "Title": "Cock", 
-  "DateAcquired": "1958-12-19", 
+  "CreditLine": "Gift of Galerie de France, Paris", 
   "Date": "(1958)", 
   "ArtistID": 4620, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "371.1958", 
-  "ArtistBio": "French, 1905\u20131993", 
-  "CreditLine": "Gift of Galerie de France, Paris", 
+  "ArtistBio": "(French, 1905\u20131993)", 
+  "DateAcquired": "1958-12-19", 
+  "\ufeffTitle": "Cock", 
   "ObjectID": "67948"
 }

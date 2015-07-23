@@ -5,8 +5,7 @@
   "Artist": "William Wegman", 
   "URL": "http://www.moma.org/collection/works/48905", 
   "CuratorApproved": "Y", 
-  "Title": "Family Combinations", 
-  "DateAcquired": "1994-03-10", 
+  "CreditLine": "Acquired through the generosity of Robert and Gayle Greenhill", 
   "Date": "1972", 
   "ArtistID": 6281, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "221.1994.a-f", 
-  "ArtistBio": "American, born 1943", 
-  "CreditLine": "Acquired through the generosity of Robert and Gayle Greenhill", 
+  "ArtistBio": "(American, born 1943)", 
+  "DateAcquired": "1994-03-10", 
+  "\ufeffTitle": "Family Combinations", 
   "ObjectID": "48905"
 }

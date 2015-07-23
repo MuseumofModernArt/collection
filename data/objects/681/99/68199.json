@@ -1,12 +1,11 @@
 {
   "Medium": "Lithograph", 
-  "Dimensions": "composition  8 15/16 x 22 7/16\" (22.8 x 57 cm)  sheet  15 7/16 x 22 11/16\" (39.2 x 57.6 cm)", 
+  "Dimensions": "composition  8 15/16 x 22 7/16\" (22.8 x 57 cm)\r\nsheet  15 7/16 x 22 11/16\" (39.2 x 57.6 cm)", 
   "Classification": "Print", 
   "Artist": "Edwin Schlossberg", 
   "URL": "http://www.moma.org/collection/works/68199", 
   "CuratorApproved": "Y", 
-  "Title": "Fragments from a Place", 
-  "DateAcquired": "1974-09-11", 
+  "CreditLine": "Gift of Celeste Bartos", 
   "Date": "1974", 
   "ArtistID": 5223, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "384.1974", 
-  "ArtistBio": "American, born 1945", 
-  "CreditLine": "Gift of Celeste Bartos", 
+  "ArtistBio": "(American, born 1945)", 
+  "DateAcquired": "1974-09-11", 
+  "\ufeffTitle": "Fragments from a Place", 
   "ObjectID": "68199"
 }

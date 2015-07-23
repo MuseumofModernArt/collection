@@ -1,12 +1,11 @@
 {
   "Medium": "Pastel and charcoal on cut-and-pasted paper", 
-  "Dimensions": "76 1/4 x 37 5/8\" (193.8 x 95.8 cm)  ", 
+  "Dimensions": "76 1/4 x 37 5/8\" (193.8 x 95.8 cm)\r\n", 
   "Classification": "Drawing", 
   "Artist": "Elizabeth Murray", 
   "URL": "http://www.moma.org/collection/works/36630", 
   "CuratorApproved": "Y", 
-  "Title": "Popeye", 
-  "DateAcquired": "1984-11-29", 
+  "CreditLine": "Gift of Abby Aldrich Rockefeller (by exchange)", 
   "Date": "(1982)", 
   "ArtistID": 4185, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "389.1984", 
-  "ArtistBio": "American, 1940\u20132007", 
-  "CreditLine": "Gift of Abby Aldrich Rockefeller (by exchange)", 
+  "ArtistBio": "(American, 1940\u20132007)", 
+  "DateAcquired": "1984-11-29", 
+  "\ufeffTitle": "Popeye", 
   "ObjectID": "36630"
 }

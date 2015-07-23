@@ -5,8 +5,7 @@
   "Artist": "Francesco Clemente", 
   "URL": "http://www.moma.org/collection/works/68160", 
   "CuratorApproved": "Y", 
-  "Title": "Tondo", 
-  "DateAcquired": "1981-10-22", 
+  "CreditLine": "J. Henry Schroder Bank and Trust Company Fund", 
   "Date": "(1981)", 
   "ArtistID": 1145, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "382.1981", 
-  "ArtistBio": "Italian, born 1952", 
-  "CreditLine": "J. Henry Schroder Bank and Trust Company Fund", 
+  "ArtistBio": "(Italian, born 1952)", 
+  "DateAcquired": "1981-10-22", 
+  "\ufeffTitle": "Tondo", 
   "ObjectID": "68160"
 }

@@ -5,8 +5,7 @@
   "Artist": "Jim Dine", 
   "URL": "http://www.moma.org/collection/works/64596", 
   "CuratorApproved": "Y", 
-  "Title": "Rancho Woodcut Heart", 
-  "DateAcquired": "1983-01-18", 
+  "CreditLine": "Gift of the artist", 
   "Date": "1982", 
   "ArtistID": 1547, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "217.1983", 
-  "ArtistBio": "American, born 1935", 
-  "CreditLine": "Gift of the artist", 
+  "ArtistBio": "(American, born 1935)", 
+  "DateAcquired": "1983-01-18", 
+  "\ufeffTitle": "Rancho Woodcut Heart", 
   "ObjectID": "64596"
 }

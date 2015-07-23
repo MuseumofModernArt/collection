@@ -5,8 +5,7 @@
   "Artist": "Tokiyoshi Tsubouchi", 
   "URL": "http://www.moma.org/collection/works/6034", 
   "CuratorApproved": "Y", 
-  "Title": "Katsuobushi no Jidainabida", 
-  "DateAcquired": "1986-10-07", 
+  "CreditLine": "Gift of the designer", 
   "Date": "1982", 
   "ArtistID": 5955, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "278.1986", 
-  "ArtistBio": "Japanese, born 1946", 
-  "CreditLine": "Gift of the designer", 
+  "ArtistBio": "(Japanese, born 1946)", 
+  "DateAcquired": "1986-10-07", 
+  "\ufeffTitle": "Katsuobushi no Jidainabida", 
   "ObjectID": "6034"
 }

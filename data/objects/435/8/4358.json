@@ -1,12 +1,11 @@
 {
   "Medium": "Opaque white plastic", 
-  "Dimensions": ".1: 3 3/4 x 2 3/4\" (9.5 x 7 cm)  .2: 3 1/4 x 2 1/2\" (8.3 x 6.4 cm)", 
+  "Dimensions": ".1: 3 3/4 x 2 3/4\" (9.5 x 7 cm)\r\n.2: 3 1/4 x 2 1/2\" (8.3 x 6.4 cm)", 
   "Classification": "A&D Design", 
   "Artist": "Owo", 
   "URL": "http://www.moma.org/collection/works/4358", 
   "CuratorApproved": "Y", 
-  "Title": "Water Tumblers", 
-  "DateAcquired": "1956-10-25", 
+  "CreditLine": "Gift of Philip Johnson Fund", 
   "Date": "c. 1954", 
   "ArtistID": 4456, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "544.1956.1-2", 
-  "ArtistBio": "German", 
-  "CreditLine": "Gift of Philip Johnson Fund", 
+  "ArtistBio": "(German)", 
+  "DateAcquired": "1956-10-25", 
+  "\ufeffTitle": "Water Tumblers", 
   "ObjectID": "4358"
 }

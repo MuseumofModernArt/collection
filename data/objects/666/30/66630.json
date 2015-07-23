@@ -1,12 +1,11 @@
 {
   "Medium": "Lithograph and embossing on four sheets", 
-  "Dimensions": "Composition (.a, irreg.): 38 1/8 x 26\" (96.8 x 66.1 cm)  Sheet (.a, slightly irreg.): 40 11/16 x 28 9/16\" (103.3 x 72.5 cm)  Composition (.b, irreg.): 38 1/4 x 25 1/2\" (97.2 x 64.8 cm)  Sheet (.b): 40 1/4 x 28 1/4\" (102.3 x 71.8 cm)  Composition (.c, irreg): 38 11/16 x 27 3/16\" (98.3 x 69 cm)  Sheet (.c): 40 9/16 x 28 3/8\" (103 x 72.1 cm)  Composition (.d, irreg.): 39 7/8 x 26 7/8\" (101.3 x 68.2 cm)  Sheet (.d): 40 3/8 x 28 1/4\" (102.5 x 71.7 cm)", 
+  "Dimensions": "Composition (.a, irreg.): 38 1/8 x 26\" (96.8 x 66.1 cm)\r\nSheet (.a, slightly irreg.): 40 11/16 x 28 9/16\" (103.3 x 72.5 cm)\r\nComposition (.b, irreg.): 38 1/4 x 25 1/2\" (97.2 x 64.8 cm)\r\nSheet (.b): 40 1/4 x 28 1/4\" (102.3 x 71.8 cm)\r\nComposition (.c, irreg): 38 11/16 x 27 3/16\" (98.3 x 69 cm)\r\nSheet (.c): 40 9/16 x 28 3/8\" (103 x 72.1 cm)\r\nComposition (.d, irreg.): 39 7/8 x 26 7/8\" (101.3 x 68.2 cm)\r\nSheet (.d): 40 3/8 x 28 1/4\" (102.5 x 71.7 cm)", 
   "Classification": "Print", 
   "Artist": "Jasper Johns", 
   "URL": "http://www.moma.org/collection/works/66630", 
   "CuratorApproved": "Y", 
-  "Title": "Four Panels from Untitled 1972", 
-  "DateAcquired": "1985-10-07", 
+  "CreditLine": "Jeanne C. Thayer Fund and Purchase", 
   "Date": "1973-74", 
   "ArtistID": 2923, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "309.1985.a-d", 
-  "ArtistBio": "American, born 1930", 
-  "CreditLine": "Jeanne C. Thayer Fund and Purchase", 
+  "ArtistBio": "(American, born 1930)", 
+  "DateAcquired": "1985-10-07", 
+  "\ufeffTitle": "Four Panels from Untitled 1972", 
   "ObjectID": "66630"
 }

@@ -5,8 +5,7 @@
   "Artist": "Paul Signac", 
   "URL": "http://www.moma.org/collection/works/33324", 
   "CuratorApproved": "Y", 
-  "Title": "Les Alyscamps, Arles", 
-  "DateAcquired": "1951-01-30", 
+  "CreditLine": "Acquired through the Lillie P. Bliss Bequest", 
   "Date": "(1904)", 
   "ArtistID": 5421, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "24.1951", 
-  "ArtistBio": "French, 1863\u20131935", 
-  "CreditLine": "Acquired through the Lillie P. Bliss Bequest", 
+  "ArtistBio": "(French, 1863\u20131935)", 
+  "DateAcquired": "1951-01-30", 
+  "\ufeffTitle": "Les Alyscamps, Arles", 
   "ObjectID": "33324"
 }

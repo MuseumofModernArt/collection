@@ -5,8 +5,7 @@
   "Artist": "Frank Stella", 
   "URL": "http://www.moma.org/collection/works/69759", 
   "CuratorApproved": "Y", 
-  "Title": "Pergusa Three", 
-  "DateAcquired": "1986-01-09", 
+  "CreditLine": "Gift of John Wagner", 
   "Date": "1983", 
   "ArtistID": 5640, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "476.1985", 
-  "ArtistBio": "American, born 1936", 
-  "CreditLine": "Gift of John Wagner", 
+  "ArtistBio": "(American, born 1936)", 
+  "DateAcquired": "1986-01-09", 
+  "\ufeffTitle": "Pergusa Three from Circuits", 
   "ObjectID": "69759"
 }

@@ -5,8 +5,7 @@
   "Artist": "Alfred Kubin", 
   "URL": "http://www.moma.org/collection/works/9042", 
   "CuratorApproved": "Y", 
-  "Title": "In Flight (plate 8) from the illustrated book Deutsche Graphiker der Gegenwart (German Printmakers of Our Time)", 
-  "DateAcquired": "NULL", 
+  "CreditLine": "Purchase", 
   "Date": "1920", 
   "ArtistID": 3276, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "2.1942.6", 
-  "ArtistBio": "Austrian, 1877\u20131959", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(Austrian, 1877\u20131959)", 
+  "DateAcquired": "", 
+  "\ufeffTitle": "In Flight (Auf der Flucht) from the illustrated book Deutsche Graphiker der Gegenwart (German Printmakers of Our Time)", 
   "ObjectID": "9042"
 }

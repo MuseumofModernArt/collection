@@ -5,8 +5,7 @@
   "Artist": "Marlene Dumas", 
   "URL": "http://www.moma.org/collection/works/36055", 
   "CuratorApproved": "Y", 
-  "Title": "Magdalena", 
-  "DateAcquired": "2000-10-10", 
+  "CreditLine": "Gift of Patricia and Morris Orden, New York", 
   "Date": "(1996)", 
   "ArtistID": 7521, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "295.2000", 
-  "ArtistBio": "South African, born 1953", 
-  "CreditLine": "Gift of Patricia and Morris Orden, New York", 
+  "ArtistBio": "(South African, born 1953)", 
+  "DateAcquired": "2000-10-10", 
+  "\ufeffTitle": "Magdalena", 
   "ObjectID": "36055"
 }

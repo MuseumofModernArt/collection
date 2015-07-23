@@ -5,8 +5,7 @@
   "Artist": "John Hejduk", 
   "URL": "http://www.moma.org/collection/works/812", 
   "CuratorApproved": "Y", 
-  "Title": "Wall House 2 (A. E. Bye House) Project, Ridgefield, Connecticut   Combined elevation and plan", 
-  "DateAcquired": "2000-10-31", 
+  "CreditLine": "Gift of The Howard Gilman Foundation", 
   "Date": "1973", 
   "ArtistID": 2581, 
   "Keywords": [
@@ -22,7 +21,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "1201.2000", 
-  "ArtistBio": "American, 1929\u20132000", 
-  "CreditLine": "Gift of The Howard Gilman Foundation", 
+  "ArtistBio": "(American, 1929\u20132000)", 
+  "DateAcquired": "2000-10-31", 
+  "\ufeffTitle": "Wall House 2 (A. E. Bye House) Project, Ridgefield, Connecticut , Combined elevation and plan", 
   "ObjectID": "812"
 }

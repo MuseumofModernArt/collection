@@ -5,8 +5,7 @@
   "Artist": "Amedeo Modigliani", 
   "URL": "http://www.moma.org/collection/works/34582", 
   "CuratorApproved": "Y", 
-  "Title": "Woman in Profile", 
-  "DateAcquired": "1978-04-04", 
+  "CreditLine": "The Joan and Lester Avnet Collection", 
   "Date": "(1910-11)", 
   "ArtistID": 4038, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "134.1978", 
-  "ArtistBio": "Italian, 1884\u20131920", 
-  "CreditLine": "The Joan and Lester Avnet Collection", 
+  "ArtistBio": "(Italian, 1884\u20131920)", 
+  "DateAcquired": "1978-04-04", 
+  "\ufeffTitle": "Woman in Profile", 
   "ObjectID": "34582"
 }

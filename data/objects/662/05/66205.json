@@ -1,12 +1,11 @@
 {
   "Medium": "Photolithograph on two sheets with scotch tape, collaged onto glossy white paper printed with red border", 
-  "Dimensions": "Composition: 19 11/16 x 19 11/16\" (50 x 50 cm)  Sheet: 19 11/16 x 19 11/16\" (50 x 50 cm)", 
+  "Dimensions": "Composition: 19 11/16 x 19 11/16\" (50 x 50 cm)\r\nSheet: 19 11/16 x 19 11/16\" (50 x 50 cm)", 
   "Classification": "Print", 
   "Artist": "Jacques de la Villegl\u00e9", 
   "URL": "http://www.moma.org/collection/works/66205", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled from the portfolio The New Realists (Les Nouveaux R\u00e9alistes)", 
-  "DateAcquired": "1989-10-12", 
+  "CreditLine": "Walter Thayer Bequest", 
   "Date": "Published in 1973.", 
   "ArtistID": 6163, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "291.1989.12", 
-  "ArtistBio": "French, born 1926", 
-  "CreditLine": "Walter Thayer Bequest", 
+  "ArtistBio": "(French, born 1926)", 
+  "DateAcquired": "1989-10-12", 
+  "\ufeffTitle": "Untitled from the portfolio The New Realists (Les Nouveaux R\u00e9alistes)", 
   "ObjectID": "66205"
 }

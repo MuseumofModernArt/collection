@@ -1,12 +1,11 @@
 {
   "Medium": "Screenprint", 
-  "Dimensions": "irreg composition  40 11/16 x 51 1/4\" (103.3 x 130.2 cm)  sheet  43 x 56 1/16\" (109.2 x 142.4 cm)", 
+  "Dimensions": "irreg composition  40 11/16 x 51 1/4\" (103.3 x 130.2 cm)\r\nsheet  43 x 56 1/16\" (109.2 x 142.4 cm)", 
   "Classification": "Print", 
   "Artist": "Jasper Johns", 
   "URL": "http://www.moma.org/collection/works/59662", 
   "CuratorApproved": "Y", 
-  "Title": "The Dutch Wives", 
-  "DateAcquired": "1982-01-21", 
+  "CreditLine": "Gift of Mr. and Mrs. Harry Kahn", 
   "Date": "1978", 
   "ArtistID": 2923, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "5.1982", 
-  "ArtistBio": "American, born 1930", 
-  "CreditLine": "Gift of Mr. and Mrs. Harry Kahn", 
+  "ArtistBio": "(American, born 1930)", 
+  "DateAcquired": "1982-01-21", 
+  "\ufeffTitle": "The Dutch Wives", 
   "ObjectID": "59662"
 }

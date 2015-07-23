@@ -5,8 +5,7 @@
   "Artist": "Christian Rohlfs", 
   "URL": "http://www.moma.org/collection/works/59831", 
   "CuratorApproved": "Y", 
-  "Title": "Prisoner", 
-  "DateAcquired": "1945-01-03", 
+  "CreditLine": "Purchase", 
   "Date": "(1918)", 
   "ArtistID": 5000, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "11.1945", 
-  "ArtistBio": "German, 1849\u20131938", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(German, 1849\u20131938)", 
+  "DateAcquired": "1945-01-03", 
+  "\ufeffTitle": "Prisoner (Der Gefangene)", 
   "ObjectID": "59831"
 }

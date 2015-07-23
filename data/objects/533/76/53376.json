@@ -5,8 +5,7 @@
   "Artist": "Andreas Feininger", 
   "URL": "http://www.moma.org/collection/works/53376", 
   "CuratorApproved": "Y", 
-  "Title": "A City on a Rock", 
-  "DateAcquired": "1941-06-10", 
+  "CreditLine": "Anonymous gift", 
   "Date": "1937", 
   "ArtistID": 1831, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "438.1941", 
-  "ArtistBio": "American, born France. 1906\u20131999", 
-  "CreditLine": "Anonymous gift", 
+  "ArtistBio": "(American, born France. 1906\u20131999)", 
+  "DateAcquired": "1941-06-10", 
+  "\ufeffTitle": "A City on a Rock", 
   "ObjectID": "53376"
 }

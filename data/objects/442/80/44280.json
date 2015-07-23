@@ -5,8 +5,7 @@
   "Artist": "Berenice Abbott", 
   "URL": "http://www.moma.org/collection/works/44280", 
   "CuratorApproved": "Y", 
-  "Title": "Downtown Skyport, Pier Eleven, East River, Manhattan", 
-  "DateAcquired": "1987-02-19", 
+  "CreditLine": "Gift of the Robert and Joyce Menschel Foundation", 
   "Date": "August 12, 1936", 
   "ArtistID": 41, 
   "Keywords": [
@@ -21,7 +20,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "31.1987", 
-  "ArtistBio": "American, 1898\u20131991", 
-  "CreditLine": "Gift of the Robert and Joyce Menschel Foundation", 
+  "ArtistBio": "(American, 1898\u20131991)", 
+  "DateAcquired": "1987-02-19", 
+  "\ufeffTitle": "Downtown Skyport, Pier Eleven, East River, Manhattan", 
   "ObjectID": "44280"
 }

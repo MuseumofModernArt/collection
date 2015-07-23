@@ -5,8 +5,7 @@
   "Artist": "Sergio Asti", 
   "URL": "http://www.moma.org/collection/works/4129", 
   "CuratorApproved": "Y", 
-  "Title": "Marco Vase", 
-  "DateAcquired": "1963-11-12", 
+  "CreditLine": "Gift of the manufacturer", 
   "Date": "1961", 
   "ArtistID": 30, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "584.1963", 
-  "ArtistBio": "Italian, born 1926", 
-  "CreditLine": "Gift of the manufacturer", 
+  "ArtistBio": "(Italian, born 1926)", 
+  "DateAcquired": "1963-11-12", 
+  "\ufeffTitle": "Marco Vase", 
   "ObjectID": "4129"
 }

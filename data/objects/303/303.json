@@ -5,8 +5,7 @@
   "Artist": "Joel Sanders", 
   "URL": "http://www.moma.org/collection/works/303", 
   "CuratorApproved": "Y", 
-  "Title": "Kyle Residence   Houston, Texas   Plan", 
-  "DateAcquired": "1999-06-30", 
+  "CreditLine": "Gift of the Peter Norton Family Foundation", 
   "Date": "1995", 
   "ArtistID": 7566, 
   "Keywords": [
@@ -20,7 +19,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "276.1999", 
-  "ArtistBio": "American, born 1956", 
-  "CreditLine": "Gift of the Peter Norton Family Foundation", 
+  "ArtistBio": "(American, born 1956)", 
+  "DateAcquired": "1999-06-30", 
+  "\ufeffTitle": "Kyle Residence , Houston, Texas , Plan", 
   "ObjectID": "303"
 }

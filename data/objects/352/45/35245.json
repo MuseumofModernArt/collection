@@ -5,8 +5,7 @@
   "Artist": "Georgia O'Keeffe", 
   "URL": "http://www.moma.org/collection/works/35245", 
   "CuratorApproved": "Y", 
-  "Title": "Special No. 39", 
-  "DateAcquired": "1995-06-14", 
+  "CreditLine": "Gift of The Georgia O'Keeffe Foundation", 
   "Date": "(1919)", 
   "ArtistID": 4360, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "199.1995", 
-  "ArtistBio": "American, 1887\u20131986", 
-  "CreditLine": "Gift of The Georgia O'Keeffe Foundation", 
+  "ArtistBio": "(American, 1887\u20131986)", 
+  "DateAcquired": "1995-06-14", 
+  "\ufeffTitle": "Special No. 39", 
   "ObjectID": "35245"
 }

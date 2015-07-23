@@ -5,8 +5,7 @@
   "Artist": "Henri Dumont", 
   "URL": "http://www.moma.org/collection/works/7637", 
   "CuratorApproved": "Y", 
-  "Title": "Tous les Soirs aux Ambassadeurs, Yvette Guilbert", 
-  "DateAcquired": "1954-12-16", 
+  "CreditLine": "", 
   "Date": "c. 1900", 
   "ArtistID": 1650, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "588.1954", 
-  "ArtistBio": "Nationality unknown, born 1859", 
-  "CreditLine": "NULL", 
+  "ArtistBio": "(Nationality unknown, born 1859)", 
+  "DateAcquired": "1954-12-16", 
+  "\ufeffTitle": "Tous les Soirs aux Ambassadeurs, Yvette Guilbert", 
   "ObjectID": "7637"
 }

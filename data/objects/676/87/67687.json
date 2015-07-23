@@ -1,12 +1,11 @@
 {
   "Medium": "Etching and aquatint", 
-  "Dimensions": "plate  21 1/2 x 17 3/16\" (54.7 x 43.6 cm)  sheet  41 3/16 x 27 1/2\" (104.6 x 69.9 cm)", 
+  "Dimensions": "plate  21 1/2 x 17 3/16\" (54.7 x 43.6 cm)\r\nsheet  41 3/16 x 27 1/2\" (104.6 x 69.9 cm)", 
   "Classification": "Print", 
   "Artist": "Marisol (Marisol Escobar)", 
   "URL": "http://www.moma.org/collection/works/67687", 
   "CuratorApproved": "Y", 
-  "Title": "The Spoon", 
-  "DateAcquired": "1973-10-24", 
+  "CreditLine": "Gift of Celeste Bartos", 
   "Date": "1970, printed and dated 1973", 
   "ArtistID": 3774, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "360.1973", 
-  "ArtistBio": "Venezuelan, born France 1930", 
-  "CreditLine": "Gift of Celeste Bartos", 
+  "ArtistBio": "(Venezuelan, born France 1930)", 
+  "DateAcquired": "1973-10-24", 
+  "\ufeffTitle": "The Spoon", 
   "ObjectID": "67687"
 }

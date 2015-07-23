@@ -5,8 +5,7 @@
   "Artist": "Barbara Morgan", 
   "URL": "http://www.moma.org/collection/works/48227", 
   "CuratorApproved": "Y", 
-  "Title": "Martha Graham, \"Letter to the World\"", 
-  "DateAcquired": "1972-05-02", 
+  "CreditLine": "John Spencer Fund", 
   "Date": "1940", 
   "ArtistID": 4089, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "195.1972", 
-  "ArtistBio": "American, 1900\u20131992", 
-  "CreditLine": "John Spencer Fund", 
+  "ArtistBio": "(American, 1900\u20131992)", 
+  "DateAcquired": "1972-05-02", 
+  "\ufeffTitle": "Martha Graham, \"Letter to the World\"", 
   "ObjectID": "48227"
 }

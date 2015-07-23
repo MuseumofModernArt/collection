@@ -5,8 +5,7 @@
   "Artist": "Wifredo Lam", 
   "URL": "http://www.moma.org/collection/works/69263", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1977-11-10", 
+  "CreditLine": "Gift of Mr. and Mrs. Samuel Rosenfeld (through the Associates of the Department of Prints and Illustrated Books)", 
   "Date": "1953", 
   "ArtistID": 3349, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "445.1977", 
-  "ArtistBio": "Cuban, 1902\u20131982", 
-  "CreditLine": "Gift of Mr. and Mrs. Samuel Rosenfeld (through the Associates of the Department of Prints and Illustrated Books)", 
+  "ArtistBio": "(Cuban, 1902\u20131982)", 
+  "DateAcquired": "1977-11-10", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "69263"
 }

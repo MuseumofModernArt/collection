@@ -5,8 +5,7 @@
   "Artist": "Harry Callahan", 
   "URL": "http://www.moma.org/collection/works/54229", 
   "CuratorApproved": "Y", 
-  "Title": "Atlanta", 
-  "DateAcquired": "1996-10-08", 
+  "CreditLine": "Gift of The Foundation-To-Life, Inc., in memory of Eugene M. Schwartz", 
   "Date": "1984", 
   "ArtistID": 924, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "486.1996", 
-  "ArtistBio": "American, 1912\u20131999", 
-  "CreditLine": "Gift of The Foundation-To-Life, Inc., in memory of Eugene M. Schwartz", 
+  "ArtistBio": "(American, 1912\u20131999)", 
+  "DateAcquired": "1996-10-08", 
+  "\ufeffTitle": "Atlanta", 
   "ObjectID": "54229"
 }

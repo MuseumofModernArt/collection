@@ -5,8 +5,7 @@
   "Artist": "Berenice Abbott", 
   "URL": "http://www.moma.org/collection/works/43866", 
   "CuratorApproved": "Y", 
-  "Title": "Exchange Place, New York", 
-  "DateAcquired": "1941-01-16", 
+  "CreditLine": "Given anonymously", 
   "Date": "1933", 
   "ArtistID": 41, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "1.1941", 
-  "ArtistBio": "American, 1898\u20131991", 
-  "CreditLine": "Given anonymously", 
+  "ArtistBio": "(American, 1898\u20131991)", 
+  "DateAcquired": "1941-01-16", 
+  "\ufeffTitle": "Exchange Place, New York", 
   "ObjectID": "43866"
 }

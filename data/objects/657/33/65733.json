@@ -1,12 +1,11 @@
 {
   "Medium": "Screenprint", 
-  "Dimensions": "Composition: 29 15/16 x 29 15/16\" (76 x 76.1 cm)  Sheet: 29 15/16 x 29 15/16\" (76 x 76.1 cm)", 
+  "Dimensions": "Composition: 29 15/16 x 29 15/16\" (76 x 76.1 cm)\r\nSheet: 29 15/16 x 29 15/16\" (76 x 76.1 cm)", 
   "Classification": "Print", 
   "Artist": "Sol LeWitt", 
   "URL": "http://www.moma.org/collection/works/65733", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled from the series A Circle Divided into Eight Equal Parts, with Colors Superimposed in Each Part", 
-  "DateAcquired": "1989-10-12", 
+  "CreditLine": "Gift of Edition Schellmann, Munich and New York", 
   "Date": "1989", 
   "ArtistID": 3528, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "271.1989", 
-  "ArtistBio": "American, 1928\u20132007", 
-  "CreditLine": "Gift of Edition Schellmann, Munich and New York", 
+  "ArtistBio": "(American, 1928\u20132007)", 
+  "DateAcquired": "1989-10-12", 
+  "\ufeffTitle": "Untitled from the series A Circle Divided into Eight Equal Parts, with Colors Superimposed in Each Part", 
   "ObjectID": "65733"
 }

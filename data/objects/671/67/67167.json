@@ -5,8 +5,7 @@
   "Artist": "Henri Matisse", 
   "URL": "http://www.moma.org/collection/works/67167", 
   "CuratorApproved": "Y", 
-  "Title": "Young Woman on Balcony, Looking at Parakeets (Jeune femme au balcon, observant des perruches)", 
-  "DateAcquired": "1958-12-19", 
+  "CreditLine": "Gift of Mr. and Mrs. E. Powis Jones", 
   "Date": "(1929)", 
   "ArtistID": 3832, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "336.1958", 
-  "ArtistBio": "French, 1869\u20131954", 
-  "CreditLine": "Gift of Mr. and Mrs. E. Powis Jones", 
+  "ArtistBio": "(French, 1869\u20131954)", 
+  "DateAcquired": "1958-12-19", 
+  "\ufeffTitle": "Young Woman on Balcony, Looking at Parakeets (Jeune femme au balcon, observant des perruches)", 
   "ObjectID": "67167"
 }

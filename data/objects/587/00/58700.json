@@ -5,8 +5,7 @@
   "Artist": "J.C.P. Skottowe/Times Wide World Photos", 
   "URL": "http://www.moma.org/collection/works/58700", 
   "CuratorApproved": "Y", 
-  "Title": "The Shortest Day of the Year in the Far North", 
-  "DateAcquired": "2001-06-14", 
+  "CreditLine": "The New York Times Collection", 
   "Date": "December 22, 1935", 
   "ArtistID": 8621, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "2107.2001", 
-  "ArtistBio": "American", 
-  "CreditLine": "The New York Times Collection", 
+  "ArtistBio": "(American)", 
+  "DateAcquired": "2001-06-14", 
+  "\ufeffTitle": "\"The Shortest Day of the Year in the Far North\"", 
   "ObjectID": "58700"
 }

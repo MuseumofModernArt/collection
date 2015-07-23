@@ -5,8 +5,7 @@
   "Artist": "E. McKnight Kauffer", 
   "URL": "http://www.moma.org/collection/works/7005", 
   "CuratorApproved": "Y", 
-  "Title": "Gilbey's Castle Port", 
-  "DateAcquired": "1939-05-22", 
+  "CreditLine": "Gift of the designer", 
   "Date": "1933", 
   "ArtistID": 3020, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "447.1939", 
-  "ArtistBio": "American, 1890\u20131954", 
-  "CreditLine": "Gift of the designer", 
+  "ArtistBio": "(American, 1890\u20131954)", 
+  "DateAcquired": "1939-05-22", 
+  "\ufeffTitle": "Gilbey's Castle Port", 
   "ObjectID": "7005"
 }

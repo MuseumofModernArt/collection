@@ -5,8 +5,7 @@
   "Artist": "Max Ernst", 
   "URL": "http://www.moma.org/collection/works/61670", 
   "CuratorApproved": "Y", 
-  "Title": "Forest at Dawn", 
-  "DateAcquired": "1965-03-09", 
+  "CreditLine": "Gift of Mrs. Donald B. Straus", 
   "Date": "1958", 
   "ArtistID": 1752, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "90.1965", 
-  "ArtistBio": "French, born Germany. 1891\u20131976", 
-  "CreditLine": "Gift of Mrs. Donald B. Straus", 
+  "ArtistBio": "(French, born Germany. 1891\u20131976)", 
+  "DateAcquired": "1965-03-09", 
+  "\ufeffTitle": "Forest at Dawn", 
   "ObjectID": "61670"
 }

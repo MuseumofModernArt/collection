@@ -1,12 +1,11 @@
 {
   "Medium": "Lithograph", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "Edward Paschke", 
   "URL": "http://www.moma.org/collection/works/64928", 
   "CuratorApproved": "Y", 
-  "Title": "Fem-Verde", 
-  "DateAcquired": "1997-05-28", 
+  "CreditLine": "Gift of Landfall Press", 
   "Date": "1987", 
   "ArtistID": 4513, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "235.1997", 
-  "ArtistBio": "American, 1939\u20132004", 
-  "CreditLine": "Gift of Landfall Press", 
+  "ArtistBio": "(American, 1939\u20132004)", 
+  "DateAcquired": "1997-05-28", 
+  "\ufeffTitle": "Fem-Verde", 
   "ObjectID": "64928"
 }

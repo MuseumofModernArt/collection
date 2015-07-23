@@ -5,8 +5,7 @@
   "Artist": "Paul Klee", 
   "URL": "http://www.moma.org/collection/works/59796", 
   "CuratorApproved": "Y", 
-  "Title": "Never Ending", 
-  "DateAcquired": "1944-03-14", 
+  "CreditLine": "Purchase", 
   "Date": "1930 (published 1933)", 
   "ArtistID": 3130, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "10.1944", 
-  "ArtistBio": "German, born Switzerland. 1879\u20131940", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(German, born Switzerland. 1879\u20131940)", 
+  "DateAcquired": "1944-03-14", 
+  "\ufeffTitle": "Never Ending (Nicht endend) from the deluxe edition of the book Paul Klee by Will Grohmann", 
   "ObjectID": "59796"
 }

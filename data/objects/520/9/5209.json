@@ -5,8 +5,7 @@
   "Artist": "Giovanni Pintori", 
   "URL": "http://www.moma.org/collection/works/5209", 
   "CuratorApproved": "Y", 
-  "Title": "Olivetti Elettrosumma 22", 
-  "DateAcquired": "1963-03-13", 
+  "CreditLine": "Gift of the artist", 
   "Date": "1962", 
   "ArtistID": 4629, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "141.1963", 
-  "ArtistBio": "Italian, 1912\u20131999", 
-  "CreditLine": "Gift of the artist", 
+  "ArtistBio": "(Italian, 1912\u20131999)", 
+  "DateAcquired": "1963-03-13", 
+  "\ufeffTitle": "Olivetti Elettrosumma 22", 
   "ObjectID": "5209"
 }

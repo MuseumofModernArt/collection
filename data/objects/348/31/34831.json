@@ -5,8 +5,7 @@
   "Artist": "Robert Wilson", 
   "URL": "http://www.moma.org/collection/works/34831", 
   "CuratorApproved": "Y", 
-  "Title": "Design for the play The Golden Windows", 
-  "DateAcquired": "1984-04-17", 
+  "CreditLine": "Gift of R.L.B. Tobin", 
   "Date": "(1982)", 
   "ArtistID": 6390, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "152.1984.1", 
-  "ArtistBio": "American, born 1941", 
-  "CreditLine": "Gift of R.L.B. Tobin", 
+  "ArtistBio": "(American, born 1941)", 
+  "DateAcquired": "1984-04-17", 
+  "\ufeffTitle": "Design for the play The Golden Windows", 
   "ObjectID": "34831"
 }

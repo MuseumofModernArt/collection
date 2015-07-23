@@ -5,8 +5,7 @@
   "Artist": "Jennifer Bartlett", 
   "URL": "http://www.moma.org/collection/works/64640", 
   "CuratorApproved": "Y", 
-  "Title": "IN THE GARDEN #190", 
-  "DateAcquired": "1982-10-26", 
+  "CreditLine": "Gift of Barbara G. Pine", 
   "Date": "1982", 
   "ArtistID": 357, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "220.1982.a-b", 
-  "ArtistBio": "American, born 1941", 
-  "CreditLine": "Gift of Barbara G. Pine", 
+  "ArtistBio": "(American, born 1941)", 
+  "DateAcquired": "1982-10-26", 
+  "\ufeffTitle": "IN THE GARDEN #190", 
   "ObjectID": "64640"
 }

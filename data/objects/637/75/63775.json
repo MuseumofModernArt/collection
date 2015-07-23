@@ -1,12 +1,11 @@
 {
   "Medium": "Multiple of plastic, rubber, foam, paper, nylon, and motor", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
-  "Artist": "Various Artists", 
+  "Artist": "Various Artists, Hans Weigand, Raymond Pettibon, Jason Rhoades", 
   "URL": "http://www.moma.org/collection/works/63775", 
   "CuratorApproved": "Y", 
-  "Title": "Assaver", 
-  "DateAcquired": "2000-03-02", 
+  "CreditLine": "Linda Barth Goldstein Fund", 
   "Date": "1999", 
   "ArtistID": 6104, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "179.2000", 
-  "ArtistBio": "Various", 
-  "CreditLine": "Linda Barth Goldstein Fund", 
+  "ArtistBio": "(Various) (Austrian, born 1954) (American, born 1957) (American, 1965\u20132006)", 
+  "DateAcquired": "2000-03-02", 
+  "\ufeffTitle": "Assaver", 
   "ObjectID": "63775"
 }

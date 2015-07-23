@@ -5,8 +5,7 @@
   "Artist": "Koloman Moser", 
   "URL": "http://www.moma.org/collection/works/3872", 
   "CuratorApproved": "Y", 
-  "Title": "Vase", 
-  "DateAcquired": "1983-05-17", 
+  "CreditLine": "Est\u00e9e and Joseph Lauder Design Fund", 
   "Date": "1902", 
   "ArtistID": 4119, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "459.1983", 
-  "ArtistBio": "Austrian, 1868\u20131918", 
-  "CreditLine": "Est\u00e9e and Joseph Lauder Design Fund", 
+  "ArtistBio": "(Austrian, 1868\u20131918)", 
+  "DateAcquired": "1983-05-17", 
+  "\ufeffTitle": "Vase", 
   "ObjectID": "3872"
 }

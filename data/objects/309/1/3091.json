@@ -5,8 +5,7 @@
   "Artist": "Masayuki Kurokawa", 
   "URL": "http://www.moma.org/collection/works/3091", 
   "CuratorApproved": "Y", 
-  "Title": "Gom Ashtray", 
-  "DateAcquired": "1979-05-30", 
+  "CreditLine": "Gift of the designer", 
   "Date": "1975", 
   "ArtistID": 3308, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "256.1979", 
-  "ArtistBio": "Japanese, born 1937", 
-  "CreditLine": "Gift of the designer", 
+  "ArtistBio": "(Japanese, born 1937)", 
+  "DateAcquired": "1979-05-30", 
+  "\ufeffTitle": "Gom Ashtray", 
   "ObjectID": "3091"
 }

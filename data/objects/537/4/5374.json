@@ -5,8 +5,7 @@
   "Artist": "David Lance Goines", 
   "URL": "http://www.moma.org/collection/works/5374", 
   "CuratorApproved": "Y", 
-  "Title": "Der Blaue Engel", 
-  "DateAcquired": "1977-03-21", 
+  "CreditLine": "Gift of Thackrey & Robertson, San Francisco, and the designer", 
   "Date": "1973", 
   "ArtistID": 2208, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "158.1977", 
-  "ArtistBio": "American, born 1945", 
-  "CreditLine": "Gift of Thackrey & Robertson, San Francisco, and the designer", 
+  "ArtistBio": "(American, born 1945)", 
+  "DateAcquired": "1977-03-21", 
+  "\ufeffTitle": "Der Blaue Engel", 
   "ObjectID": "5374"
 }

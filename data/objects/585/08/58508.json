@@ -5,8 +5,7 @@
   "Artist": "Alex Anderson/The New York Times", 
   "URL": "http://www.moma.org/collection/works/58508", 
   "CuratorApproved": "Y", 
-  "Title": "Mayor Inspects Home-made Bucket Pumps for Bomb Fires", 
-  "DateAcquired": "2001-06-14", 
+  "CreditLine": "The New York Times Collection", 
   "Date": "September 2, 1942", 
   "ArtistID": 8503, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "1923.2001", 
-  "ArtistBio": "Nationality unknown", 
-  "CreditLine": "The New York Times Collection", 
+  "ArtistBio": "(Nationality unknown)", 
+  "DateAcquired": "2001-06-14", 
+  "\ufeffTitle": "Mayor Inspects Home-made Bucket Pumps for Bomb Fires", 
   "ObjectID": "58508"
 }

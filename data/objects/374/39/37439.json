@@ -5,8 +5,7 @@
   "Artist": "Juan Downey", 
   "URL": "http://www.moma.org/collection/works/37439", 
   "CuratorApproved": "Y", 
-  "Title": "A Clean New Race", 
-  "DateAcquired": "1970-12-15", 
+  "CreditLine": "David Rockefeller Latin American Fund", 
   "Date": "(1970)", 
   "ArtistID": 1606, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "587.1970", 
-  "ArtistBio": "Chilean, 1940\u20131993", 
-  "CreditLine": "David Rockefeller Latin American Fund", 
+  "ArtistBio": "(Chilean, 1940\u20131993)", 
+  "DateAcquired": "1970-12-15", 
+  "\ufeffTitle": "A Clean New Race", 
   "ObjectID": "37439"
 }

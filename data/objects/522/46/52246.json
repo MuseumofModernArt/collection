@@ -5,8 +5,7 @@
   "Artist": "Charles N\u00e8gre", 
   "URL": "http://www.moma.org/collection/works/52246", 
   "CuratorApproved": "Y", 
-  "Title": "Horloge Pavilion, Louvre", 
-  "DateAcquired": "1983-03-24", 
+  "CreditLine": "Purchase", 
   "Date": "1855", 
   "ArtistID": 4254, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "383.1983.4", 
-  "ArtistBio": "French, 1820\u20131880", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(French, 1820\u20131880)", 
+  "DateAcquired": "1983-03-24", 
+  "\ufeffTitle": "Horloge Pavilion, Louvre", 
   "ObjectID": "52246"
 }

@@ -1,12 +1,11 @@
 {
   "Medium": "Color etching and aquatint", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "Stojan Celic", 
   "URL": "http://www.moma.org/collection/works/69217", 
   "CuratorApproved": "Y", 
-  "Title": "Space", 
-  "DateAcquired": "1971-05-18", 
+  "CreditLine": "Walter Bareiss Fund", 
   "Date": "(1967)", 
   "ArtistID": 1046, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "443.1971", 
-  "ArtistBio": "Nationality unknown", 
-  "CreditLine": "Walter Bareiss Fund", 
+  "ArtistBio": "(Nationality unknown)", 
+  "DateAcquired": "1971-05-18", 
+  "\ufeffTitle": "Space", 
   "ObjectID": "69217"
 }

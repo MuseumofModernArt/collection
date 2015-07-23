@@ -5,8 +5,7 @@
   "Artist": "Burgoyne Diller", 
   "URL": "http://www.moma.org/collection/works/38205", 
   "CuratorApproved": "Y", 
-  "Title": "Composition", 
-  "DateAcquired": "1985-09-10", 
+  "CreditLine": "The Riklis Collection of McCrory Corporation", 
   "Date": "1962", 
   "ArtistID": 1546, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "875.1983", 
-  "ArtistBio": "American, 1906\u20131965", 
-  "CreditLine": "The Riklis Collection of McCrory Corporation", 
+  "ArtistBio": "(American, 1906\u20131965)", 
+  "DateAcquired": "1985-09-10", 
+  "\ufeffTitle": "Composition", 
   "ObjectID": "38205"
 }

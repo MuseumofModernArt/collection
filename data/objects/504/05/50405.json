@@ -5,8 +5,7 @@
   "Artist": "Thomas Annan", 
   "URL": "http://www.moma.org/collection/works/50405", 
   "CuratorApproved": "Y", 
-  "Title": "St. Margaret's Place", 
-  "DateAcquired": "NULL", 
+  "CreditLine": "Purchase", 
   "Date": "1897", 
   "ArtistID": 190, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "308.1975.45", 
-  "ArtistBio": "British, 1829\u20131887", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(British, 1829\u20131887)", 
+  "DateAcquired": "", 
+  "\ufeffTitle": "St. Margaret's Place", 
   "ObjectID": "50405"
 }

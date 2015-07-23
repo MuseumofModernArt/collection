@@ -5,8 +5,7 @@
   "Artist": "Georg Trump", 
   "URL": "http://www.moma.org/collection/works/8484", 
   "CuratorApproved": "Y", 
-  "Title": "City: Eine Neue Schrift der H. Berthold A.G., Berlin, Probe 266", 
-  "DateAcquired": "1999-12-10", 
+  "CreditLine": "Jan Tschichold Collection, Gift of Philip Johnson", 
   "Date": "c. 1931", 
   "ArtistID": 5947, 
   "Keywords": [
@@ -21,7 +20,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "1010.1999", 
-  "ArtistBio": "German, 1896\u20131985", 
-  "CreditLine": "Jan Tschichold Collection, Gift of Philip Johnson", 
+  "ArtistBio": "(German, 1896\u20131985)", 
+  "DateAcquired": "1999-12-10", 
+  "\ufeffTitle": "City: Eine Neue Schrift der H. Berthold A.G., Berlin, Probe 266", 
   "ObjectID": "8484"
 }

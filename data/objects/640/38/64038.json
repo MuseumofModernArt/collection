@@ -5,8 +5,7 @@
   "Artist": "Michael Heizer", 
   "URL": "http://www.moma.org/collection/works/64038", 
   "CuratorApproved": "Y", 
-  "Title": "Circle III", 
-  "DateAcquired": "1977-05-03", 
+  "CreditLine": "John B. Turner Fund", 
   "Date": "1977", 
   "ArtistID": 2580, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "188.1977", 
-  "ArtistBio": "American, born 1944", 
-  "CreditLine": "John B. Turner Fund", 
+  "ArtistBio": "(American, born 1944)", 
+  "DateAcquired": "1977-05-03", 
+  "\ufeffTitle": "Circle III", 
   "ObjectID": "64038"
 }

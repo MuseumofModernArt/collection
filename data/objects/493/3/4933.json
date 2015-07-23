@@ -2,11 +2,10 @@
   "Medium": "Offset lithograph", 
   "Dimensions": "30 x 20\" (76.2 x 50.8 cm)", 
   "Classification": "A&D Graphic Design", 
-  "Artist": "Frieder Grindler", 
+  "Artist": "Frieder Grindler, Renata Grindler", 
   "URL": "http://www.moma.org/collection/works/4933", 
   "CuratorApproved": "Y", 
-  "Title": "Kaspar", 
-  "DateAcquired": "1972-04-11", 
+  "CreditLine": "Gift of the designers", 
   "Date": "1969", 
   "ArtistID": 2345, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "71.1972", 
-  "ArtistBio": "German, born 1941", 
-  "CreditLine": "Gift of the designers", 
+  "ArtistBio": "(German, born 1941) (German, born 1940)", 
+  "DateAcquired": "1972-04-11", 
+  "\ufeffTitle": "Kaspar", 
   "ObjectID": "4933"
 }

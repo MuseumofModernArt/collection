@@ -5,8 +5,7 @@
   "Artist": "Marco Zanuso", 
   "URL": "http://www.moma.org/collection/works/4731", 
   "CuratorApproved": "Y", 
-  "Title": "Lady Chair", 
-  "DateAcquired": "2000-12-11", 
+  "CreditLine": "Gift of Rob Beyer", 
   "Date": "1951", 
   "ArtistID": 6544, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "1436.2000", 
-  "ArtistBio": "Italian, 1916\u20132001", 
-  "CreditLine": "Gift of Rob Beyer", 
+  "ArtistBio": "(Italian, 1916\u20132001)", 
+  "DateAcquired": "2000-12-11", 
+  "\ufeffTitle": "Lady Chair", 
   "ObjectID": "4731"
 }

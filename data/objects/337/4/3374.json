@@ -5,8 +5,7 @@
   "Artist": "Roberto Menghi", 
   "URL": "http://www.moma.org/collection/works/3374", 
   "CuratorApproved": "Y", 
-  "Title": "Container for Liquids", 
-  "DateAcquired": "1960-11-16", 
+  "CreditLine": "Gift of the manufacturer", 
   "Date": "1958", 
   "ArtistID": 3930, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "350.1960", 
-  "ArtistBio": "Italian, born 1920", 
-  "CreditLine": "Gift of the manufacturer", 
+  "ArtistBio": "(Italian, born 1920)", 
+  "DateAcquired": "1960-11-16", 
+  "\ufeffTitle": "Container for Liquids", 
   "ObjectID": "3374"
 }

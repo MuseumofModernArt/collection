@@ -5,8 +5,7 @@
   "Artist": "Ludwig Mies van der Rohe", 
   "URL": "http://www.moma.org/collection/works/1005", 
   "CuratorApproved": "Y", 
-  "Title": "Friedrichstrasse Skyscraper Project, Berlin-Mitte, Germany", 
-  "DateAcquired": "1986-10-07", 
+  "CreditLine": "Purchase", 
   "Date": "1921", 
   "ArtistID": 7166, 
   "Keywords": [
@@ -21,7 +20,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "260.1986", 
-  "ArtistBio": "American, born Germany. 1886\u20131969", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, born Germany. 1886\u20131969)", 
+  "DateAcquired": "1986-10-07", 
+  "\ufeffTitle": "Friedrichstrasse Skyscraper Project, Berlin-Mitte, Germany", 
   "ObjectID": "1005"
 }

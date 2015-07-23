@@ -1,12 +1,11 @@
 {
   "Medium": "Illustrated Book with 15 etchings with watercolor additions and 1 etching (frontispiece)", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Illustrated Book", 
   "Artist": "Mimmo Paladino", 
   "URL": "http://www.moma.org/collection/works/19430", 
   "CuratorApproved": "Y", 
-  "Title": "Flores Seraphici by Giuseppe Conte", 
-  "DateAcquired": "1994-11-08", 
+  "CreditLine": "Gift of the artist", 
   "Date": "1993", 
   "ArtistID": 4472, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "598.1994.1-15", 
-  "ArtistBio": "Italian, born 1948", 
-  "CreditLine": "Gift of the artist", 
+  "ArtistBio": "(Italian, born 1948)", 
+  "DateAcquired": "1994-11-08", 
+  "\ufeffTitle": "Flores Seraphici", 
   "ObjectID": "19430"
 }

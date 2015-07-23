@@ -5,8 +5,7 @@
   "Artist": "Xirinin", 
   "URL": "http://www.moma.org/collection/works/5719", 
   "CuratorApproved": "Y", 
-  "Title": "El Pillatje deshonra el Triomf, U.G.T, Eviteu-lo!", 
-  "DateAcquired": "1936-01-01", 
+  "CreditLine": "Gift of Christian Zervos", 
   "Date": "c.1936", 
   "ArtistID": 6473, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "217.1936", 
-  "ArtistBio": "Spanish", 
-  "CreditLine": "Gift of Christian Zervos", 
+  "ArtistBio": "(Spanish)", 
+  "DateAcquired": "1936-01-01", 
+  "\ufeffTitle": "El Pillatje deshonra el Triomf, U.G.T, Eviteu-lo!", 
   "ObjectID": "5719"
 }

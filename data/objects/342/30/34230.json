@@ -5,8 +5,7 @@
   "Artist": "William Copley", 
   "URL": "http://www.moma.org/collection/works/34230", 
   "CuratorApproved": "Y", 
-  "Title": "Study for Thimble", 
-  "DateAcquired": "1976-03-23", 
+  "CreditLine": "Acquired with matching funds from Dorothy B. Edinburg and the National Endowment for the Arts", 
   "Date": "1971", 
   "ArtistID": 1238, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "123.1976", 
-  "ArtistBio": "American, 1919\u20131996", 
-  "CreditLine": "Acquired with matching funds from Dorothy B. Edinburg and the National Endowment for the Arts", 
+  "ArtistBio": "(American, 1919\u20131996)", 
+  "DateAcquired": "1976-03-23", 
+  "\ufeffTitle": "Study for Thimble", 
   "ObjectID": "34230"
 }

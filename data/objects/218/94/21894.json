@@ -1,12 +1,11 @@
 {
   "Medium": "Illustrated Book with 25 offset lithographs", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Illustrated Book", 
   "Artist": "Bruce Conner", 
   "URL": "http://www.moma.org/collection/works/21894", 
   "CuratorApproved": "Y", 
-  "Title": "Cards", 
-  "DateAcquired": "1993-11-17", 
+  "CreditLine": "John B. Turner Fund", 
   "Date": "1970", 
   "ArtistID": 1215, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "698.1993.1-25", 
-  "ArtistBio": "American, 1933\u20132008", 
-  "CreditLine": "John B. Turner Fund", 
+  "ArtistBio": "(American, 1933\u20132008)", 
+  "DateAcquired": "1993-11-17", 
+  "\ufeffTitle": "Cards", 
   "ObjectID": "21894"
 }

@@ -5,8 +5,7 @@
   "Artist": "Ernst Ludwig Kirchner", 
   "URL": "http://www.moma.org/collection/works/61669", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled (Cover from exhibition catalogue Grafik E.L. Kirchner)", 
-  "DateAcquired": "1956-03-19", 
+  "CreditLine": "Transferred from the Museum Library", 
   "Date": "(1919, published 1920)", 
   "ArtistID": 3115, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "90.1956", 
-  "ArtistBio": "German, 1880\u20131938", 
-  "CreditLine": "Transferred from the Museum Library", 
+  "ArtistBio": "(German, 1880\u20131938)", 
+  "DateAcquired": "1956-03-19", 
+  "\ufeffTitle": "Cover from the exhibition catalogue (Titelblatt des Ausstellungskatalogs) Grafik E.L. Kirchner", 
   "ObjectID": "61669"
 }

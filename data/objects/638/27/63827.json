@@ -5,8 +5,7 @@
   "Artist": "Alfred Manessier", 
   "URL": "http://www.moma.org/collection/works/63827", 
   "CuratorApproved": "Y", 
-  "Title": "Living Flame", 
-  "DateAcquired": "1957-10-09", 
+  "CreditLine": "Mrs. Bertram Smith Fund", 
   "Date": "(1954)", 
   "ArtistID": 3720, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "181.1957", 
-  "ArtistBio": "French, 1911\u20131993", 
-  "CreditLine": "Mrs. Bertram Smith Fund", 
+  "ArtistBio": "(French, 1911\u20131993)", 
+  "DateAcquired": "1957-10-09", 
+  "\ufeffTitle": "Living Flame", 
   "ObjectID": "63827"
 }

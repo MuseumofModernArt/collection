@@ -5,8 +5,7 @@
   "Artist": "Edward Wormley", 
   "URL": "http://www.moma.org/collection/works/2226", 
   "CuratorApproved": "Y", 
-  "Title": "Armchair", 
-  "DateAcquired": "1952-05-20", 
+  "CreditLine": "Gift of the manufacturer", 
   "Date": "1946", 
   "ArtistID": 6452, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "125.1952", 
-  "ArtistBio": "American, 1907\u20131995", 
-  "CreditLine": "Gift of the manufacturer", 
+  "ArtistBio": "(American, 1907\u20131995)", 
+  "DateAcquired": "1952-05-20", 
+  "\ufeffTitle": "Armchair", 
   "ObjectID": "2226"
 }

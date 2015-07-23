@@ -1,12 +1,11 @@
 {
   "Medium": "Crystal", 
-  "Dimensions": ".1 (champagne glass): 7 3/4 x 2 1/4\" (19.7 x 5.7 cm)  .2-.4 (wine glasses): 5 5/8 x 2 3/4\" (14.3 x 7 cm)", 
+  "Dimensions": ".1 (champagne glass): 7 3/4 x 2 1/4\" (19.7 x 5.7 cm)\r\n.2-.4 (wine glasses): 5 5/8 x 2 3/4\" (14.3 x 7 cm)", 
   "Classification": "A&D Design", 
   "Artist": "Richard S\u00fcssmuth", 
   "URL": "http://www.moma.org/collection/works/2854", 
   "CuratorApproved": "Y", 
-  "Title": "Champagne and Wine Glasses", 
-  "DateAcquired": "1958-12-04", 
+  "CreditLine": "Gift of the manufacturer", 
   "Date": "1956", 
   "ArtistID": 5736, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "229.1958.1-4", 
-  "ArtistBio": "German, 1900\u20131974", 
-  "CreditLine": "Gift of the manufacturer", 
+  "ArtistBio": "(German, 1900\u20131974)", 
+  "DateAcquired": "1958-12-04", 
+  "\ufeffTitle": "Champagne and Wine Glasses", 
   "ObjectID": "2854"
 }

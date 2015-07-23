@@ -5,8 +5,7 @@
   "Artist": "Gerhard Richter", 
   "URL": "http://www.moma.org/collection/works/36341", 
   "CuratorApproved": "Y", 
-  "Title": "23.3.88", 
-  "DateAcquired": "1989-11-21", 
+  "CreditLine": "Gift of the International Council in honor of H.R.H. Prinz Franz von Bayern", 
   "Date": "1988", 
   "ArtistID": 4907, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "329.1989", 
-  "ArtistBio": "German, born 1932", 
-  "CreditLine": "Gift of the International Council in honor of H.R.H. Prinz Franz von Bayern", 
+  "ArtistBio": "(German, born 1932)", 
+  "DateAcquired": "1989-11-21", 
+  "\ufeffTitle": "23.3.88", 
   "ObjectID": "36341"
 }

@@ -5,8 +5,7 @@
   "Artist": "Kiki Smith", 
   "URL": "http://www.moma.org/collection/works/65332", 
   "CuratorApproved": "Y", 
-  "Title": "Silent Work", 
-  "DateAcquired": "1997-05-28", 
+  "CreditLine": "Richard A. Epstein Fund", 
   "Date": "(1992)", 
   "ArtistID": 5486, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "254.1997.a-b", 
-  "ArtistBio": "American, born Germany 1954", 
-  "CreditLine": "Richard A. Epstein Fund", 
+  "ArtistBio": "(American, born Germany 1954)", 
+  "DateAcquired": "1997-05-28", 
+  "\ufeffTitle": "Silent Work", 
   "ObjectID": "65332"
 }

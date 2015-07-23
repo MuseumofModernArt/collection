@@ -5,8 +5,7 @@
   "Artist": "Paul Martin", 
   "URL": "http://www.moma.org/collection/works/52413", 
   "CuratorApproved": "Y", 
-  "Title": "The Alhambra, London, by Night", 
-  "DateAcquired": "1938-10-20", 
+  "CreditLine": "Gift of the photographer", 
   "Date": "1895", 
   "ArtistID": 3795, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "392.1938", 
-  "ArtistBio": "British, 1864\u20131944", 
-  "CreditLine": "Gift of the photographer", 
+  "ArtistBio": "(British, 1864\u20131944)", 
+  "DateAcquired": "1938-10-20", 
+  "\ufeffTitle": "The Alhambra, London, by Night", 
   "ObjectID": "52413"
 }

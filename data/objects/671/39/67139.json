@@ -1,12 +1,11 @@
 {
   "Medium": "Lithograph and serigraph", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "Robert Cumming", 
   "URL": "http://www.moma.org/collection/works/67139", 
   "CuratorApproved": "Y", 
-  "Title": "Berlin Brazil", 
-  "DateAcquired": "1988-10-25", 
+  "CreditLine": "Toiny Castelli Fund", 
   "Date": "1987", 
   "ArtistID": 1330, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "334.1988", 
-  "ArtistBio": "American, born 1943", 
-  "CreditLine": "Toiny Castelli Fund", 
+  "ArtistBio": "(American, born 1943)", 
+  "DateAcquired": "1988-10-25", 
+  "\ufeffTitle": "Berlin Brazil", 
   "ObjectID": "67139"
 }

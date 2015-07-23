@@ -5,8 +5,7 @@
   "Artist": "Robert Rauschenberg", 
   "URL": "http://www.moma.org/collection/works/66224", 
   "CuratorApproved": "Y", 
-  "Title": "Rival", 
-  "DateAcquired": "1964-04-14", 
+  "CreditLine": "Gift of the Jewish Museum, New York", 
   "Date": "1963", 
   "ArtistID": 4823, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "292.1964", 
-  "ArtistBio": "American, 1925\u20132008", 
-  "CreditLine": "Gift of the Jewish Museum, New York", 
+  "ArtistBio": "(American, 1925\u20132008)", 
+  "DateAcquired": "1964-04-14", 
+  "\ufeffTitle": "Rival", 
   "ObjectID": "66224"
 }

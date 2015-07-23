@@ -1,12 +1,11 @@
 {
   "Medium": "Lithograph", 
-  "Dimensions": "composition  32 1/8 x 23 3/8\" (81.6 x 59.4 cm)  sheet  41 3/8 x 29 5/8\" (105.1 x 75.2 cm)", 
+  "Dimensions": "composition  32 1/8 x 23 3/8\" (81.6 x 59.4 cm)\r\nsheet  41 3/8 x 29 5/8\" (105.1 x 75.2 cm)", 
   "Classification": "Print", 
   "Artist": "Robert Motherwell", 
   "URL": "http://www.moma.org/collection/works/67639", 
   "CuratorApproved": "Y", 
-  "Title": "Celtic Stone", 
-  "DateAcquired": "1971-03-30", 
+  "CreditLine": "Gift of Celeste Bartos", 
   "Date": "1970-71", 
   "ArtistID": 4126, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "358.1971", 
-  "ArtistBio": "American, 1915\u20131991", 
-  "CreditLine": "Gift of Celeste Bartos", 
+  "ArtistBio": "(American, 1915\u20131991)", 
+  "DateAcquired": "1971-03-30", 
+  "\ufeffTitle": "Celtic Stone", 
   "ObjectID": "67639"
 }

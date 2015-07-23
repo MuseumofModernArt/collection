@@ -5,8 +5,7 @@
   "Artist": "Tod Papageorge", 
   "URL": "http://www.moma.org/collection/works/45492", 
   "CuratorApproved": "Y", 
-  "Title": "Los Angeles", 
-  "DateAcquired": "1976-02-24", 
+  "CreditLine": "Gift of the photographer", 
   "Date": "1973", 
   "ArtistID": 4490, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "67.1976", 
-  "ArtistBio": "American, born 1940", 
-  "CreditLine": "Gift of the photographer", 
+  "ArtistBio": "(American, born 1940)", 
+  "DateAcquired": "1976-02-24", 
+  "\ufeffTitle": "Los Angeles", 
   "ObjectID": "45492"
 }

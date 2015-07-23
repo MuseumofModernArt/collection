@@ -1,12 +1,11 @@
 {
-  "Medium": "Illustrated book with five line block reproductions after pen and ink drawings, four with gouache additions    ", 
+  "Medium": "Illustrated book with five line block reproductions after pen and ink drawings, four with gouache additions\r\n\r\n", 
   "Dimensions": "page: 13 7/16 x 9 3/4\" (34.1 x 24.8 cm); overall: 13 9/16 x 10 1/16 x 1/4\" (34.5 x 25.5 x 0.7 cm)", 
   "Classification": "Illustrated Book", 
   "Artist": "Oskar Kokoschka", 
   "URL": "http://www.moma.org/collection/works/18934", 
   "CuratorApproved": "Y", 
-  "Title": "M\u00f6rder, Hoffnung der Frauen (Murderer, Hope of Women)", 
-  "DateAcquired": "1949-09-29", 
+  "CreditLine": "Transferred from the Museum Library", 
   "Date": "(1916, drawings executed 1910)", 
   "ArtistID": 3197, 
   "Keywords": [
@@ -20,7 +19,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "580.1949.1-4", 
-  "ArtistBio": "Austrian, 1886\u20131980", 
-  "CreditLine": "Transferred from the Museum Library", 
+  "ArtistBio": "(Austrian, 1886\u20131980)", 
+  "DateAcquired": "1949-09-29", 
+  "\ufeffTitle": "M\u00f6rder, Hoffnung der Frauen (Murderer, Hope of Women)", 
   "ObjectID": "18934"
 }

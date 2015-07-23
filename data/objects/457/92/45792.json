@@ -5,8 +5,7 @@
   "Artist": "An-My L\u00ea", 
   "URL": "http://www.moma.org/collection/works/45792", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled, Mekong Delta", 
-  "DateAcquired": "1995-03-09", 
+  "CreditLine": "Gift of Pierre N. Leval", 
   "Date": "1994", 
   "ArtistID": 7901, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "78.1995", 
-  "ArtistBio": "American, born Vietnam 1960", 
-  "CreditLine": "Gift of Pierre N. Leval", 
+  "ArtistBio": "(American, born Vietnam 1960)", 
+  "DateAcquired": "1995-03-09", 
+  "\ufeffTitle": "Untitled, Mekong Delta", 
   "ObjectID": "45792"
 }

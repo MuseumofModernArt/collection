@@ -5,8 +5,7 @@
   "Artist": "Winfred Gaul", 
   "URL": "http://www.moma.org/collection/works/5178", 
   "CuratorApproved": "Y", 
-  "Title": "Ausstellung Galerie St. Stephen Wien, Images Meditatives", 
-  "DateAcquired": "1968-03-07", 
+  "CreditLine": "Gift of the designer", 
   "Date": "1960", 
   "ArtistID": 2100, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "135.1968", 
-  "ArtistBio": "German, born 1928", 
-  "CreditLine": "Gift of the designer", 
+  "ArtistBio": "(German, born 1928)", 
+  "DateAcquired": "1968-03-07", 
+  "\ufeffTitle": "Ausstellung Galerie St. Stephen Wien, Images Meditatives", 
   "ObjectID": "5178"
 }

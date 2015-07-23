@@ -5,8 +5,7 @@
   "Artist": "Fernand L\u00e9ger", 
   "URL": "http://www.moma.org/collection/works/34690", 
   "CuratorApproved": "Y", 
-  "Title": "Verdun, The Trench Diggers", 
-  "DateAcquired": "1944-09-27", 
+  "CreditLine": "Frank Crowninshield Fund", 
   "Date": "1916", 
   "ArtistID": 6624, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "142.1944", 
-  "ArtistBio": "French, 1881\u20131955", 
-  "CreditLine": "Frank Crowninshield Fund", 
+  "ArtistBio": "(French, 1881\u20131955)", 
+  "DateAcquired": "1944-09-27", 
+  "\ufeffTitle": "Verdun, The Trench Diggers", 
   "ObjectID": "34690"
 }

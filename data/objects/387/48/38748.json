@@ -5,8 +5,7 @@
   "Artist": "Richard Hamilton", 
   "URL": "http://www.moma.org/collection/works/38748", 
   "CuratorApproved": "Y", 
-  "Title": "The Solomon R. Guggenheim -- Architect's visual", 
-  "DateAcquired": "1967-10-18", 
+  "CreditLine": "Gift of Charles B. Benenson", 
   "Date": "1965", 
   "ArtistID": 2481, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "2114.1967", 
-  "ArtistBio": "British, 1922\u20132011", 
-  "CreditLine": "Gift of Charles B. Benenson", 
+  "ArtistBio": "(British, 1922\u20132011)", 
+  "DateAcquired": "1967-10-18", 
+  "\ufeffTitle": "The Solomon R. Guggenheim -- Architect's visual", 
   "ObjectID": "38748"
 }

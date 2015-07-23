@@ -5,8 +5,7 @@
   "Artist": "Charles H. McCrea", 
   "URL": "http://www.moma.org/collection/works/4349", 
   "CuratorApproved": "Y", 
-  "Title": "Salad Bowl", 
-  "DateAcquired": "1956-10-25", 
+  "CreditLine": "Gift of the manufacturer", 
   "Date": "1950-1953", 
   "ArtistID": 3877, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "538.1956", 
-  "ArtistBio": "American", 
-  "CreditLine": "Gift of the manufacturer", 
+  "ArtistBio": "(American)", 
+  "DateAcquired": "1956-10-25", 
+  "\ufeffTitle": "Salad Bowl", 
   "ObjectID": "4349"
 }

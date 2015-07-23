@@ -5,8 +5,7 @@
   "Artist": "Charles B. Kaufmann", 
   "URL": "http://www.moma.org/collection/works/4223", 
   "CuratorApproved": "Y", 
-  "Title": "Bird Control Strips", 
-  "DateAcquired": "1995-09-20", 
+  "CreditLine": "Gift of the manufacturer", 
   "Date": "1949", 
   "ArtistID": 7468, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "686.1995.1-5", 
-  "ArtistBio": "American, 1890\u20131957", 
-  "CreditLine": "Gift of the manufacturer", 
+  "ArtistBio": "(American, 1890\u20131957)", 
+  "DateAcquired": "1995-09-20", 
+  "\ufeffTitle": "Bird Control Strips", 
   "ObjectID": "4223"
 }

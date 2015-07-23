@@ -1,12 +1,11 @@
 {
   "Medium": "Lithograph", 
-  "Dimensions": "Composition (irreg.) and sheet: 30 1/8 x 22 1/4\" (76.5 x 56.5 cm)  ", 
+  "Dimensions": "Composition (irreg.) and sheet: 30 1/8 x 22 1/4\" (76.5 x 56.5 cm)\r\n", 
   "Classification": "Print", 
   "Artist": "Susan Rothenberg", 
   "URL": "http://www.moma.org/collection/works/61121", 
   "CuratorApproved": "Y", 
-  "Title": "Plug", 
-  "DateAcquired": "1984-02-01", 
+  "CreditLine": "Gift of Celeste Bartos", 
   "Date": "1983", 
   "ArtistID": 5044, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "60.1984", 
-  "ArtistBio": "American, born 1945", 
-  "CreditLine": "Gift of Celeste Bartos", 
+  "ArtistBio": "(American, born 1945)", 
+  "DateAcquired": "1984-02-01", 
+  "\ufeffTitle": "Plug", 
   "ObjectID": "61121"
 }

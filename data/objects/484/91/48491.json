@@ -5,8 +5,7 @@
   "Artist": "Tod Papageorge", 
   "URL": "http://www.moma.org/collection/works/48491", 
   "CuratorApproved": "Y", 
-  "Title": "Central Park", 
-  "DateAcquired": "1979-05-10", 
+  "CreditLine": "Purchase", 
   "Date": "Spring 1978", 
   "ArtistID": 4490, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "207.1979", 
-  "ArtistBio": "American, born 1940", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, born 1940)", 
+  "DateAcquired": "1979-05-10", 
+  "\ufeffTitle": "Central Park", 
   "ObjectID": "48491"
 }

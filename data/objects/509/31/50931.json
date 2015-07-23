@@ -5,8 +5,7 @@
   "Artist": "Francis Bedford", 
   "URL": "http://www.moma.org/collection/works/50931", 
   "CuratorApproved": "Y", 
-  "Title": "Chettenham, The Promenade (No. 659)", 
-  "DateAcquired": "1974-06-04", 
+  "CreditLine": "Purchase", 
   "Date": "c. 1860", 
   "ArtistID": 430, 
   "Keywords": [
@@ -20,7 +19,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "329.1974", 
-  "ArtistBio": "British, 1816\u20131894", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(British, 1816\u20131894)", 
+  "DateAcquired": "1974-06-04", 
+  "\ufeffTitle": "Chettenham, The Promenade (No. 659)", 
   "ObjectID": "50931"
 }

@@ -5,8 +5,7 @@
   "Artist": "Alfred Kubin", 
   "URL": "http://www.moma.org/collection/works/38685", 
   "CuratorApproved": "Y", 
-  "Title": "The Reciter", 
-  "DateAcquired": "1968-12-11", 
+  "CreditLine": "Gift of Mr. and Mrs. W. Dieter Zander", 
   "Date": "(c. 1923)", 
   "ArtistID": 3276, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "1572.1968", 
-  "ArtistBio": "Austrian, 1877\u20131959", 
-  "CreditLine": "Gift of Mr. and Mrs. W. Dieter Zander", 
+  "ArtistBio": "(Austrian, 1877\u20131959)", 
+  "DateAcquired": "1968-12-11", 
+  "\ufeffTitle": "The Reciter (Der Rezitator)", 
   "ObjectID": "38685"
 }

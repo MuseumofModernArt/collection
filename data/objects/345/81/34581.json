@@ -5,8 +5,7 @@
   "Artist": "Lee Krasner", 
   "URL": "http://www.moma.org/collection/works/34581", 
   "CuratorApproved": "Y", 
-  "Title": "Seated Nude", 
-  "DateAcquired": "1976-03-23", 
+  "CreditLine": "Gift of Constance B. Cartwright", 
   "Date": "1940", 
   "ArtistID": 3240, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "134.1976", 
-  "ArtistBio": "American, 1908\u20131984", 
-  "CreditLine": "Gift of Constance B. Cartwright", 
+  "ArtistBio": "(American, 1908\u20131984)", 
+  "DateAcquired": "1976-03-23", 
+  "\ufeffTitle": "Seated Nude", 
   "ObjectID": "34581"
 }

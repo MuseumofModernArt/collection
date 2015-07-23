@@ -5,8 +5,7 @@
   "Artist": "Manfred Schwartz", 
   "URL": "http://www.moma.org/collection/works/35519", 
   "CuratorApproved": "Y", 
-  "Title": "The Ring", 
-  "DateAcquired": "1963-04-09", 
+  "CreditLine": "Gift of Mrs. H. Harris Jonas", 
   "Date": "1962", 
   "ArtistID": 5286, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "204.1963", 
-  "ArtistBio": "American, 1909\u20131970", 
-  "CreditLine": "Gift of Mrs. H. Harris Jonas", 
+  "ArtistBio": "(American, 1909\u20131970)", 
+  "DateAcquired": "1963-04-09", 
+  "\ufeffTitle": "The Ring", 
   "ObjectID": "35519"
 }

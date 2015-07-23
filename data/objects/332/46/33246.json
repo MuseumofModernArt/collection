@@ -5,8 +5,7 @@
   "Artist": "Lee Krasner", 
   "URL": "http://www.moma.org/collection/works/33246", 
   "CuratorApproved": "Y", 
-  "Title": "Still Life", 
-  "DateAcquired": "1977-02-02", 
+  "CreditLine": "Acquired with matching funds from The Edward John Noble Foundation and the National Endowment for the Arts", 
   "Date": "1938", 
   "ArtistID": 3240, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "18.1977", 
-  "ArtistBio": "American, 1908\u20131984", 
-  "CreditLine": "Acquired with matching funds from The Edward John Noble Foundation and the National Endowment for the Arts", 
+  "ArtistBio": "(American, 1908\u20131984)", 
+  "DateAcquired": "1977-02-02", 
+  "\ufeffTitle": "Still Life", 
   "ObjectID": "33246"
 }

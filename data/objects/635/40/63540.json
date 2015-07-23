@@ -5,8 +5,7 @@
   "Artist": "Paul Signac", 
   "URL": "http://www.moma.org/collection/works/63540", 
   "CuratorApproved": "Y", 
-  "Title": "The Organ (L'Orgue)", 
-  "DateAcquired": "1954-04-06", 
+  "CreditLine": "Gift of John Rewald", 
   "Date": "1893", 
   "ArtistID": 5421, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "171.1954.a-b", 
-  "ArtistBio": "French, 1863\u20131935", 
-  "CreditLine": "Gift of John Rewald", 
+  "ArtistBio": "(French, 1863\u20131935)", 
+  "DateAcquired": "1954-04-06", 
+  "\ufeffTitle": "The Organ (L'Orgue)", 
   "ObjectID": "63540"
 }

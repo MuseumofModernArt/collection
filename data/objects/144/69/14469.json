@@ -1,12 +1,11 @@
 {
   "Medium": "Artist's book", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Illustrated Book", 
   "Artist": "Lawrence Weiner", 
   "URL": "http://www.moma.org/collection/works/14469", 
   "CuratorApproved": "Y", 
-  "Title": "A Tale of a Maiden or Two", 
-  "DateAcquired": "1997-05-28", 
+  "CreditLine": "Purchase", 
   "Date": "1996", 
   "ArtistID": 6288, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "278.1997", 
-  "ArtistBio": "American, born 1942", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, born 1942)", 
+  "DateAcquired": "1997-05-28", 
+  "\ufeffTitle": "A Tale of a Maiden or Two", 
   "ObjectID": "14469"
 }

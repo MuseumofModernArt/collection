@@ -5,8 +5,7 @@
   "Artist": "Abelardo Morell", 
   "URL": "http://www.moma.org/collection/works/57783", 
   "CuratorApproved": "Y", 
-  "Title": "Camera Obscura Image of the Pantheon in the Hotel des Grandes Hommes", 
-  "DateAcquired": "2000-10-12", 
+  "CreditLine": "Gift of the photographer", 
   "Date": "1990", 
   "ArtistID": 6917, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "1173.2000", 
-  "ArtistBio": "American, born Cuba 1948", 
-  "CreditLine": "Gift of the photographer", 
+  "ArtistBio": "(American, born Cuba 1948)", 
+  "DateAcquired": "2000-10-12", 
+  "\ufeffTitle": "Camera Obscura Image of the Pantheon in the Hotel des Grandes Hommes", 
   "ObjectID": "57783"
 }

@@ -5,8 +5,7 @@
   "Artist": "Wojciech Zamecznik", 
   "URL": "http://www.moma.org/collection/works/8364", 
   "CuratorApproved": "Y", 
-  "Title": "Wilcze Doly", 
-  "DateAcquired": "1979-05-30", 
+  "CreditLine": "Given anonymously", 
   "Date": "1949", 
   "ArtistID": 6539, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "904.1979", 
-  "ArtistBio": "Polish, 1923\u20131967", 
-  "CreditLine": "Given anonymously", 
+  "ArtistBio": "(Polish, 1923\u20131967)", 
+  "DateAcquired": "1979-05-30", 
+  "\ufeffTitle": "Wilcze Doly", 
   "ObjectID": "8364"
 }

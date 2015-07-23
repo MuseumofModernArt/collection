@@ -5,8 +5,7 @@
   "Artist": "Ad Reinhardt", 
   "URL": "http://www.moma.org/collection/works/37889", 
   "CuratorApproved": "Y", 
-  "Title": "Abstract Painting", 
-  "DateAcquired": "1993-12-17", 
+  "CreditLine": "Gift of Agnes Gund", 
   "Date": "1966", 
   "ArtistID": 4856, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "728.1993", 
-  "ArtistBio": "American, 1913\u20131967", 
-  "CreditLine": "Gift of Agnes Gund", 
+  "ArtistBio": "(American, 1913\u20131967)", 
+  "DateAcquired": "1993-12-17", 
+  "\ufeffTitle": "Abstract Painting", 
   "ObjectID": "37889"
 }

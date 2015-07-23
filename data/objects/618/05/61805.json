@@ -5,8 +5,7 @@
   "Artist": "Pierre Bonnard", 
   "URL": "http://www.moma.org/collection/works/61805", 
   "CuratorApproved": "Y", 
-  "Title": "Family Scene (Sc\u00e8ne de famille) from the portfolio The Original Print (L'Estampe originale), no. III", 
-  "DateAcquired": "1949-04-13", 
+  "CreditLine": "Purchase", 
   "Date": "1893", 
   "ArtistID": 665, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "102.1949", 
-  "ArtistBio": "French, 1867\u20131947", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(French, 1867\u20131947)", 
+  "DateAcquired": "1949-04-13", 
+  "\ufeffTitle": "Family Scene (Sc\u00e8ne de famille) from the portfolio The Original Print (L'Estampe originale), no. III", 
   "ObjectID": "61805"
 }

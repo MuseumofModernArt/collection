@@ -5,8 +5,7 @@
   "Artist": "Roberto Matta", 
   "URL": "http://www.moma.org/collection/works/35068", 
   "CuratorApproved": "Y", 
-  "Title": "Endless Nude", 
-  "DateAcquired": "1953-04-07", 
+  "CreditLine": "Katherine S. Dreier Bequest", 
   "Date": "1938", 
   "ArtistID": 3842, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "177.1953", 
-  "ArtistBio": "Chilean, 1911\u20132002", 
-  "CreditLine": "Katherine S. Dreier Bequest", 
+  "ArtistBio": "(Chilean, 1911\u20132002)", 
+  "DateAcquired": "1953-04-07", 
+  "\ufeffTitle": "Endless Nude", 
   "ObjectID": "35068"
 }

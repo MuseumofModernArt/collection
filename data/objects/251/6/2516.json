@@ -5,8 +5,7 @@
   "Artist": "Alejandro Ruiz", 
   "URL": "http://www.moma.org/collection/works/2516", 
   "CuratorApproved": "Y", 
-  "Title": "Cheese Grater", 
-  "DateAcquired": "1995-05-09", 
+  "CreditLine": "Gift of the manufacturer", 
   "Date": "1994", 
   "Keywords": [
     "online art collection", 
@@ -16,7 +15,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "138.1995", 
-  "ArtistBio": "Argentine, born 1958", 
-  "CreditLine": "Gift of the manufacturer", 
+  "ArtistBio": "(Argentine, born 1958)", 
+  "DateAcquired": "1995-05-09", 
+  "\ufeffTitle": "Cheese Grater", 
   "ObjectID": "2516"
 }

@@ -5,8 +5,7 @@
   "Artist": "Pierre Soulages", 
   "URL": "http://www.moma.org/collection/works/63954", 
   "CuratorApproved": "Y", 
-  "Title": "Abstraction", 
-  "DateAcquired": "1954-04-06", 
+  "CreditLine": "Larry Aldrich Fund", 
   "Date": "(1953)", 
   "ArtistID": 5538, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "184.1954", 
-  "ArtistBio": "French, born 1919", 
-  "CreditLine": "Larry Aldrich Fund", 
+  "ArtistBio": "(French, born 1919)", 
+  "DateAcquired": "1954-04-06", 
+  "\ufeffTitle": "Abstraction", 
   "ObjectID": "63954"
 }

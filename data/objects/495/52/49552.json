@@ -5,8 +5,7 @@
   "Artist": "Thomas Struth", 
   "URL": "http://www.moma.org/collection/works/49552", 
   "CuratorApproved": "Y", 
-  "Title": "South Lake Apartments 4, Chicago", 
-  "DateAcquired": "1999-06-10", 
+  "CreditLine": "Horace W. Goldsmith Fund through Robert B. Menschel", 
   "Date": "1990", 
   "ArtistID": 7825, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "251.1999", 
-  "ArtistBio": "German, born 1954", 
-  "CreditLine": "Horace W. Goldsmith Fund through Robert B. Menschel", 
+  "ArtistBio": "(German, born 1954)", 
+  "DateAcquired": "1999-06-10", 
+  "\ufeffTitle": "South Lake Apartments 4, Chicago", 
   "ObjectID": "49552"
 }

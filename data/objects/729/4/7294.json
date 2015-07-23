@@ -5,8 +5,7 @@
   "Artist": "Carlos Schwabe", 
   "URL": "http://www.moma.org/collection/works/7294", 
   "CuratorApproved": "Y", 
-  "Title": "Salon Rose Croix", 
-  "DateAcquired": "1987-11-18", 
+  "CreditLine": "Given anonymously", 
   "Date": "1892", 
   "ArtistID": 5283, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "502.1987", 
-  "ArtistBio": "Swiss, 1866\u20131926", 
-  "CreditLine": "Given anonymously", 
+  "ArtistBio": "(Swiss, 1866\u20131926)", 
+  "DateAcquired": "1987-11-18", 
+  "\ufeffTitle": "Salon Rose Croix", 
   "ObjectID": "7294"
 }

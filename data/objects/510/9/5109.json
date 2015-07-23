@@ -5,8 +5,7 @@
   "Artist": "Otto Soglow", 
   "URL": "http://www.moma.org/collection/works/5109", 
   "CuratorApproved": "Y", 
-  "Title": "Wanted! for Sabotage, Sloppy Louie", 
-  "DateAcquired": "1944-05-02", 
+  "CreditLine": "Gift of the War Department", 
   "Date": "1942", 
   "ArtistID": 5507, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "111.1944", 
-  "ArtistBio": "American, 1900\u20131975", 
-  "CreditLine": "Gift of the War Department", 
+  "ArtistBio": "(American, 1900\u20131975)", 
+  "DateAcquired": "1944-05-02", 
+  "\ufeffTitle": "Wanted! for Sabotage, Sloppy Louie", 
   "ObjectID": "5109"
 }

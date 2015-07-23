@@ -1,12 +1,11 @@
 {
   "Medium": "Etching, lift ground aquatint, and lithograph", 
-  "Dimensions": "irreg. composition  29 5/8 x 22 15/16\" (75.2 x 58.4 cm)  irreg. sheet  29 5/8 x 22 15/16\" (75 x 58.4 cm)", 
+  "Dimensions": "irreg. composition  29 5/8 x 22 15/16\" (75.2 x 58.4 cm)\r\nirreg. sheet  29 5/8 x 22 15/16\" (75 x 58.4 cm)", 
   "Classification": "Print", 
   "Artist": "Elizabeth Murray", 
   "URL": "http://www.moma.org/collection/works/62166", 
   "CuratorApproved": "Y", 
-  "Title": "Undoing", 
-  "DateAcquired": "1991-05-22", 
+  "CreditLine": "Gift of Emily Fisher Landau", 
   "Date": "1989-90", 
   "ArtistID": 4185, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "119.1991", 
-  "ArtistBio": "American, 1940\u20132007", 
-  "CreditLine": "Gift of Emily Fisher Landau", 
+  "ArtistBio": "(American, 1940\u20132007)", 
+  "DateAcquired": "1991-05-22", 
+  "\ufeffTitle": "Undoing", 
   "ObjectID": "62166"
 }

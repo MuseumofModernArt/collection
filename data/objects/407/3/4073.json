@@ -5,8 +5,7 @@
   "Artist": "Jim Gentes", 
   "URL": "http://www.moma.org/collection/works/4073", 
   "CuratorApproved": "Y", 
-  "Title": "Aerohead Bicycle Racing Helmet", 
-  "DateAcquired": "1990-10-24", 
+  "CreditLine": "Gift of the manufacturer", 
   "Date": "1988", 
   "ArtistID": 6611, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "494.1990", 
-  "ArtistBio": "American, born 1957", 
-  "CreditLine": "Gift of the manufacturer", 
+  "ArtistBio": "(American, born 1957)", 
+  "DateAcquired": "1990-10-24", 
+  "\ufeffTitle": "Aerohead Bicycle Racing Helmet", 
   "ObjectID": "4073"
 }

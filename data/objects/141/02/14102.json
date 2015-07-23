@@ -1,12 +1,11 @@
 {
   "Medium": "Illustrated book with 17 etchings", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Illustrated Book", 
   "Artist": "Edward Paschke", 
   "URL": "http://www.moma.org/collection/works/14102", 
   "CuratorApproved": "Y", 
-  "Title": "Genghis Chan: Private Eye", 
-  "DateAcquired": "1997-05-28", 
+  "CreditLine": "Gift of Landfall Press", 
   "Date": "1997", 
   "ArtistID": 4513, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "237.1997.1-17", 
-  "ArtistBio": "American, 1939\u20132004", 
-  "CreditLine": "Gift of Landfall Press", 
+  "ArtistBio": "(American, 1939\u20132004)", 
+  "DateAcquired": "1997-05-28", 
+  "\ufeffTitle": "Genghis Chan: Private Eye", 
   "ObjectID": "14102"
 }

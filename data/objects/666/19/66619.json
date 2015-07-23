@@ -5,8 +5,7 @@
   "Artist": "Emil Nolde", 
   "URL": "http://www.moma.org/collection/works/66619", 
   "CuratorApproved": "Y", 
-  "Title": "Couple", 
-  "DateAcquired": "1950-10-11", 
+  "CreditLine": "Purchase", 
   "Date": "(1911)", 
   "ArtistID": 4327, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "309.1950", 
-  "ArtistBio": "German, 1867\u20131956", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(German, 1867\u20131956)", 
+  "DateAcquired": "1950-10-11", 
+  "\ufeffTitle": "Couple (Paar)", 
   "ObjectID": "66619"
 }

@@ -5,8 +5,7 @@
   "Artist": "Anna Ticho", 
   "URL": "http://www.moma.org/collection/works/33714", 
   "CuratorApproved": "Y", 
-  "Title": "Jerusalem", 
-  "DateAcquired": "1970-03-05", 
+  "CreditLine": "Given anonymously", 
   "Date": "1969", 
   "ArtistID": 5874, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "81.1970", 
-  "ArtistBio": "Israeli, 1894\u20131981", 
-  "CreditLine": "Given anonymously", 
+  "ArtistBio": "(Israeli, 1894\u20131981)", 
+  "DateAcquired": "1970-03-05", 
+  "\ufeffTitle": "Jerusalem", 
   "ObjectID": "33714"
 }

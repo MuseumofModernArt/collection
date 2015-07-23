@@ -5,8 +5,7 @@
   "Artist": "Takako Saito", 
   "URL": "http://www.moma.org/collection/works/3399", 
   "CuratorApproved": "Y", 
-  "Title": "Object", 
-  "DateAcquired": "1966-05-10", 
+  "CreditLine": "Greta Daniel Design Fund", 
   "Date": "1965", 
   "ArtistID": 5117, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "354.1966", 
-  "ArtistBio": "Japanese, born 1929", 
-  "CreditLine": "Greta Daniel Design Fund", 
+  "ArtistBio": "(Japanese, born 1929)", 
+  "DateAcquired": "1966-05-10", 
+  "\ufeffTitle": "Object", 
   "ObjectID": "3399"
 }

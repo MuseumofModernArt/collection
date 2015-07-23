@@ -5,8 +5,7 @@
   "Artist": "Dieter Rams", 
   "URL": "http://www.moma.org/collection/works/4084", 
   "CuratorApproved": "Y", 
-  "Title": "Transistor Radio (model T 580)", 
-  "DateAcquired": "1964-06-15", 
+  "CreditLine": "Gift of the manufacturer", 
   "Date": "1961", 
   "ArtistID": 8451, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "557.1964", 
-  "ArtistBio": "German, born 1932", 
-  "CreditLine": "Gift of the manufacturer", 
+  "ArtistBio": "(German, born 1932)", 
+  "DateAcquired": "1964-06-15", 
+  "\ufeffTitle": "Transistor Radio (model T 580)", 
   "ObjectID": "4084"
 }

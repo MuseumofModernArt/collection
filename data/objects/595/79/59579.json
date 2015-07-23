@@ -5,8 +5,7 @@
   "Artist": "Georg Baselitz", 
   "URL": "http://www.moma.org/collection/works/59579", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1988-01-19", 
+  "CreditLine": "Gift of The Lauder Foundation", 
   "Date": "1967", 
   "ArtistID": 366, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "1.1988", 
-  "ArtistBio": "German, born 1938", 
-  "CreditLine": "Gift of The Lauder Foundation", 
+  "ArtistBio": "(German, born 1938)", 
+  "DateAcquired": "1988-01-19", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "59579"
 }

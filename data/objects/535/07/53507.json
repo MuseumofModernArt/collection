@@ -5,8 +5,7 @@
   "Artist": "Bruce Davidson", 
   "URL": "http://www.moma.org/collection/works/53507", 
   "CuratorApproved": "Y", 
-  "Title": "South Wales", 
-  "DateAcquired": "1966-10-11", 
+  "CreditLine": "Gift of the photographer", 
   "Date": "1965", 
   "ArtistID": 1398, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "448.1966", 
-  "ArtistBio": "American, born 1933", 
-  "CreditLine": "Gift of the photographer", 
+  "ArtistBio": "(American, born 1933)", 
+  "DateAcquired": "1966-10-11", 
+  "\ufeffTitle": "South Wales", 
   "ObjectID": "53507"
 }

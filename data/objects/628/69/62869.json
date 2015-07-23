@@ -1,12 +1,11 @@
 {
   "Medium": "Screenprint", 
-  "Dimensions": "composition  39 3/8 x 28 3/4\" (100 x 73 cm)  sheet  39 3/8 x 28 3/4\" (100 x 73 cm)", 
+  "Dimensions": "composition  39 3/8 x 28 3/4\" (100 x 73 cm)\r\nsheet  39 3/8 x 28 3/4\" (100 x 73 cm)", 
   "Classification": "Print", 
   "Artist": "Imi Knoebel", 
   "URL": "http://www.moma.org/collection/works/62869", 
   "CuratorApproved": "Y", 
-  "Title": "YELLOW FLAG from the portfolio ART", 
-  "DateAcquired": "2000-03-02", 
+  "CreditLine": "Walter Bareiss Fund", 
   "Date": "1999", 
   "ArtistID": 7808, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "142.2000", 
-  "ArtistBio": "German, born 1940", 
-  "CreditLine": "Walter Bareiss Fund", 
+  "ArtistBio": "(German, born 1940)", 
+  "DateAcquired": "2000-03-02", 
+  "\ufeffTitle": "Yellow Flag from the portfolio ART", 
   "ObjectID": "62869"
 }

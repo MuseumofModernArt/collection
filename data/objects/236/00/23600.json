@@ -5,8 +5,7 @@
   "Artist": "Salvador Dal\u00ed", 
   "URL": "http://www.moma.org/collection/works/23600", 
   "CuratorApproved": "Y", 
-  "Title": "Plate (facing page 92) from Les Chants de Maldoror", 
-  "DateAcquired": "1964-10-06", 
+  "CreditLine": "The Louis E. Stern Collection", 
   "Date": "1934", 
   "ArtistID": 1364, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "771.1964.19", 
-  "ArtistBio": "Spanish, 1904\u20131989", 
-  "CreditLine": "The Louis E. Stern Collection", 
+  "ArtistBio": "(Spanish, 1904\u20131989)", 
+  "DateAcquired": "1964-10-06", 
+  "\ufeffTitle": "Plate (facing page 92) from Les Chants de Maldoror", 
   "ObjectID": "23600"
 }

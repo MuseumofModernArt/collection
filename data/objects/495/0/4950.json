@@ -5,8 +5,7 @@
   "Artist": "Pieter Brattinga", 
   "URL": "http://www.moma.org/collection/works/4950", 
   "CuratorApproved": "Y", 
-  "Title": "Strijbosch '59", 
-  "DateAcquired": "1960-04-06", 
+  "CreditLine": "Gift of Steendrukkerij de Jong and Company", 
   "Date": "1959", 
   "ArtistID": 747, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "75.1960", 
-  "ArtistBio": "Dutch, born 1931", 
-  "CreditLine": "Gift of Steendrukkerij de Jong and Company", 
+  "ArtistBio": "(Dutch, born 1931)", 
+  "DateAcquired": "1960-04-06", 
+  "\ufeffTitle": "Strijbosch '59", 
   "ObjectID": "4950"
 }

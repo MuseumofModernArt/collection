@@ -5,8 +5,7 @@
   "Artist": "Eileen Gray", 
   "URL": "http://www.moma.org/collection/works/4152", 
   "CuratorApproved": "Y", 
-  "Title": "Rug", 
-  "DateAcquired": "1980-10-30", 
+  "CreditLine": "Gift of Prunella Clough", 
   "Date": "c. 1928", 
   "ArtistID": 2313, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "636.1980", 
-  "ArtistBio": "Anglo-Irish, 1879\u20131976", 
-  "CreditLine": "Gift of Prunella Clough", 
+  "ArtistBio": "(Anglo-Irish, 1879\u20131976)", 
+  "DateAcquired": "1980-10-30", 
+  "\ufeffTitle": "Rug", 
   "ObjectID": "4152"
 }

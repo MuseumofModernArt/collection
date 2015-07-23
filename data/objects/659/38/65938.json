@@ -1,12 +1,11 @@
 {
   "Medium": "Lithograph", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "William T. Wiley", 
   "URL": "http://www.moma.org/collection/works/65938", 
   "CuratorApproved": "Y", 
-  "Title": "Ecnud", 
-  "DateAcquired": "1997-05-28", 
+  "CreditLine": "Gift of Landfall Press", 
   "Date": "1975", 
   "ArtistID": 6370, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "280.1997", 
-  "ArtistBio": "American, born 1937", 
-  "CreditLine": "Gift of Landfall Press", 
+  "ArtistBio": "(American, born 1937)", 
+  "DateAcquired": "1997-05-28", 
+  "\ufeffTitle": "Ecnud", 
   "ObjectID": "65938"
 }

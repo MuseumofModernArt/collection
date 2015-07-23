@@ -5,8 +5,7 @@
   "Artist": "Christian Rohlfs", 
   "URL": "http://www.moma.org/collection/works/35384", 
   "CuratorApproved": "Y", 
-  "Title": "The Soldier", 
-  "DateAcquired": "1985-09-10", 
+  "CreditLine": "Gift of R.L.B. Tobin", 
   "Date": "(c. 1914)", 
   "ArtistID": 5000, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "224.1985", 
-  "ArtistBio": "German, 1849\u20131938", 
-  "CreditLine": "Gift of R.L.B. Tobin", 
+  "ArtistBio": "(German, 1849\u20131938)", 
+  "DateAcquired": "1985-09-10", 
+  "\ufeffTitle": "The Soldier (Der Soldat)", 
   "ObjectID": "35384"
 }

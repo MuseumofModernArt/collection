@@ -5,8 +5,7 @@
   "Artist": "Lovis Corinth", 
   "URL": "http://www.moma.org/collection/works/23543", 
   "CuratorApproved": "Y", 
-  "Title": "Judith Leaves the Tent (in-text plate, folio 26) from Das Buch Judith (The Book of Judith)", 
-  "DateAcquired": "1964-10-06", 
+  "CreditLine": "", 
   "Date": "1910", 
   "ArtistID": 1243, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "766.1964.15", 
-  "ArtistBio": "German, 1858\u20131925", 
-  "CreditLine": "NULL", 
+  "ArtistBio": "(German, 1858\u20131925)", 
+  "DateAcquired": "1964-10-06", 
+  "\ufeffTitle": "Judith Leaves the Tent (Judith verl\u00e4sst das Zelt) (in-text plate, folio 26) from Das Buch Judith (The Book of Judith)", 
   "ObjectID": "23543"
 }

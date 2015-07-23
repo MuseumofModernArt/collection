@@ -5,8 +5,7 @@
   "Artist": "Jasper Johns", 
   "URL": "http://www.moma.org/collection/works/63500", 
   "CuratorApproved": "Y", 
-  "Title": "Working proof for FLAGS II", 
-  "DateAcquired": "1999-05-20", 
+  "CreditLine": "Acquired through the generosity of Agnes Gund and Daniel Shapiro in honor of Gabriella De Ferrari and Sally Ganz, and their friendships with the artist", 
   "Date": "1967-70", 
   "ArtistID": 2923, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "169.1999", 
-  "ArtistBio": "American, born 1930", 
-  "CreditLine": "Acquired through the generosity of Agnes Gund and Daniel Shapiro in honor of Gabriella De Ferrari and Sally Ganz, and their friendships with the artist", 
+  "ArtistBio": "(American, born 1930)", 
+  "DateAcquired": "1999-05-20", 
+  "\ufeffTitle": "Working proof for Flags II", 
   "ObjectID": "63500"
 }

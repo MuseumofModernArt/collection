@@ -5,8 +5,7 @@
   "Artist": "Alfred Stieglitz", 
   "URL": "http://www.moma.org/collection/works/52572", 
   "CuratorApproved": "Y", 
-  "Title": "Going to the Post, Morris Park", 
-  "DateAcquired": "1976-10-13", 
+  "CreditLine": "Purchase", 
   "Date": "1904", 
   "ArtistID": 5664, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "398.1976", 
-  "ArtistBio": "American, 1864\u20131946", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, 1864\u20131946)", 
+  "DateAcquired": "1976-10-13", 
+  "\ufeffTitle": "Going to the Post, Morris Park", 
   "ObjectID": "52572"
 }

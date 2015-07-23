@@ -5,8 +5,7 @@
   "Artist": "Francisco Copello", 
   "URL": "http://www.moma.org/collection/works/61812", 
   "CuratorApproved": "Y", 
-  "Title": "Sunset", 
-  "DateAcquired": "1970-03-05", 
+  "CreditLine": "Inter-American Fund", 
   "Date": "(1970)", 
   "ArtistID": 1234, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "102.1970", 
-  "ArtistBio": "Chilean, born 1938", 
-  "CreditLine": "Inter-American Fund", 
+  "ArtistBio": "(Chilean, born 1938)", 
+  "DateAcquired": "1970-03-05", 
+  "\ufeffTitle": "Sunset", 
   "ObjectID": "61812"
 }

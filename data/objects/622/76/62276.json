@@ -5,8 +5,7 @@
   "Artist": "Otto Dix", 
   "URL": "http://www.moma.org/collection/works/62276", 
   "CuratorApproved": "Y", 
-  "Title": "Mediterranean Sailor", 
-  "DateAcquired": "1945-03-07", 
+  "CreditLine": "Purchase Fund", 
   "Date": "1923", 
   "ArtistID": 1559, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "125.1945", 
-  "ArtistBio": "German, 1891\u20131969", 
-  "CreditLine": "Purchase Fund", 
+  "ArtistBio": "(German, 1891\u20131969)", 
+  "DateAcquired": "1945-03-07", 
+  "\ufeffTitle": "Mediterranean Sailor (S\u00fcdlicher Matrose)", 
   "ObjectID": "62276"
 }

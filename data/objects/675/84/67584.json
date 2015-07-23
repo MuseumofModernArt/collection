@@ -5,8 +5,7 @@
   "Artist": "Pablo Picasso", 
   "URL": "http://www.moma.org/collection/works/67584", 
   "CuratorApproved": "Y", 
-  "Title": "Young Pigeon in its Nest (Pigeonneau dans son nid)", 
-  "DateAcquired": "1948-10-06", 
+  "CreditLine": "Gift of Victor S. Riesenfeld", 
   "Date": "(March 11, 1947)", 
   "ArtistID": 4609, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "356.1948", 
-  "ArtistBio": "Spanish, 1881\u20131973", 
-  "CreditLine": "Gift of Victor S. Riesenfeld", 
+  "ArtistBio": "(Spanish, 1881\u20131973)", 
+  "DateAcquired": "1948-10-06", 
+  "\ufeffTitle": "Young Pigeon in its Nest (Pigeonneau dans son nid)", 
   "ObjectID": "67584"
 }

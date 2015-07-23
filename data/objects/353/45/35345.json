@@ -5,8 +5,7 @@
   "Artist": "Glenn Ligon", 
   "URL": "http://www.moma.org/collection/works/35345", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled (I am an invisible man)", 
-  "DateAcquired": "1992-05-13", 
+  "CreditLine": "Gift of The Bohen Foundation", 
   "Date": "(1991)", 
   "ArtistID": 6902, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "218.1992", 
-  "ArtistBio": "American, born 1960", 
-  "CreditLine": "Gift of The Bohen Foundation", 
+  "ArtistBio": "(American, born 1960)", 
+  "DateAcquired": "1992-05-13", 
+  "\ufeffTitle": "Untitled (I am an invisible man)", 
   "ObjectID": "35345"
 }

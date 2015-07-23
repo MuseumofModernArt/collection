@@ -5,8 +5,7 @@
   "Artist": "Kiki Smith", 
   "URL": "http://www.moma.org/collection/works/19092", 
   "CuratorApproved": "Y", 
-  "Title": "The Fourth Day: Destruction of Birds", 
-  "DateAcquired": "1997-11-11", 
+  "CreditLine": "Given anonymously", 
   "Date": "1997", 
   "ArtistID": 5486, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "585.1997", 
-  "ArtistBio": "American, born Germany 1954", 
-  "CreditLine": "Given anonymously", 
+  "ArtistBio": "(American, born Germany 1954)", 
+  "DateAcquired": "1997-11-11", 
+  "\ufeffTitle": "The Fourth Day: Destruction of Birds", 
   "ObjectID": "19092"
 }

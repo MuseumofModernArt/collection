@@ -1,12 +1,11 @@
 {
   "Medium": "Drypoint and monotype", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "Nachume Miller", 
   "URL": "http://www.moma.org/collection/works/59896", 
   "CuratorApproved": "Y", 
-  "Title": "Light Etching", 
-  "DateAcquired": "1981-01-15", 
+  "CreditLine": "Lydia K. and Harry L. Winston Fund", 
   "Date": "February 28, 1979.", 
   "ArtistID": 3987, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "12.1981", 
-  "ArtistBio": "Israeli, 1949\u20131998", 
-  "CreditLine": "Lydia K. and Harry L. Winston Fund", 
+  "ArtistBio": "(Israeli, 1949\u20131998)", 
+  "DateAcquired": "1981-01-15", 
+  "\ufeffTitle": "Light Etching", 
   "ObjectID": "59896"
 }

@@ -5,8 +5,7 @@
   "Artist": "Jean Dubuffet", 
   "URL": "http://www.moma.org/collection/works/37464", 
   "CuratorApproved": "Y", 
-  "Title": "Gaston Chaissac", 
-  "DateAcquired": "1964-10-06", 
+  "CreditLine": "Gift of Mr. and Mrs. Maxime L. Hermanos", 
   "Date": "1947", 
   "ArtistID": 1633, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "591.1964", 
-  "ArtistBio": "French, 1901\u20131985", 
-  "CreditLine": "Gift of Mr. and Mrs. Maxime L. Hermanos", 
+  "ArtistBio": "(French, 1901\u20131985)", 
+  "DateAcquired": "1964-10-06", 
+  "\ufeffTitle": "Gaston Chaissac", 
   "ObjectID": "37464"
 }

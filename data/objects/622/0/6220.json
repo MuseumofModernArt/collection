@@ -5,8 +5,7 @@
   "Artist": "Jules Ch\u00e9ret", 
   "URL": "http://www.moma.org/collection/works/6220", 
   "CuratorApproved": "Y", 
-  "Title": "Cascabel", 
-  "DateAcquired": "1957-12-04", 
+  "CreditLine": "Phyllis B. Lambert Fund", 
   "Date": "1877-79", 
   "ArtistID": 1089, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "317.1957", 
-  "ArtistBio": "French, 1836\u20131932", 
-  "CreditLine": "Phyllis B. Lambert Fund", 
+  "ArtistBio": "(French, 1836\u20131932)", 
+  "DateAcquired": "1957-12-04", 
+  "\ufeffTitle": "Cascabel", 
   "ObjectID": "6220"
 }

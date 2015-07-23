@@ -5,8 +5,7 @@
   "Artist": "Frank Lloyd Wright", 
   "URL": "http://www.moma.org/collection/works/998", 
   "CuratorApproved": "Y", 
-  "Title": "Midway Gardens, Chicago, IL", 
-  "DateAcquired": "1994-05-03", 
+  "CreditLine": "Purchase", 
   "Date": "1913-14", 
   "ArtistID": 6459, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "226.1994", 
-  "ArtistBio": "American, 1867\u20131959", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, 1867\u20131959)", 
+  "DateAcquired": "1994-05-03", 
+  "\ufeffTitle": "Midway Gardens, Chicago, IL", 
   "ObjectID": "998"
 }

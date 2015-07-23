@@ -1,12 +1,11 @@
 {
   "Medium": "Clear and opaque yellow plastic", 
-  "Dimensions": "overall: 6 1/4 x 5 3/8\" (15.9 x 13.7 cm)  ", 
+  "Dimensions": "overall: 6 1/4 x 5 3/8\" (15.9 x 13.7 cm)\r\n", 
   "Classification": "A&D Design", 
   "Artist": "Tri-State Plastic Molding Co., Henderson, KY", 
   "URL": "http://www.moma.org/collection/works/4331", 
   "CuratorApproved": "Y", 
-  "Title": "Canister with Cover", 
-  "DateAcquired": "1956-10-25", 
+  "CreditLine": "Purchase", 
   "Date": "c. 1953", 
   "Keywords": [
     "online art collection", 
@@ -19,7 +18,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "530.1956.a-b", 
-  "ArtistBio": "American", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American)", 
+  "DateAcquired": "1956-10-25", 
+  "\ufeffTitle": "Canister with Cover", 
   "ObjectID": "4331"
 }

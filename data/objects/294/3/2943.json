@@ -1,12 +1,11 @@
 {
   "Medium": "Clear handblown glass", 
-  "Dimensions": "Overall: 3 3/4 x 2 5/8\" (9.5 x 6.7 cm)  .a: 3 1/2 x 2 1/2\" (8.9 x 6.4 cm)  .b: 1 5/8 x 2 5/8\" (4.1 x 6.7 cm)", 
+  "Dimensions": "Overall: 3 3/4 x 2 5/8\" (9.5 x 6.7 cm)\r\n.a: 3 1/2 x 2 1/2\" (8.9 x 6.4 cm)\r\n.b: 1 5/8 x 2 5/8\" (4.1 x 6.7 cm)", 
   "Classification": "A&D Design", 
   "Artist": "Oskar Strnad", 
   "URL": "http://www.moma.org/collection/works/2943", 
   "CuratorApproved": "Y", 
-  "Title": "Cigarette Box (model US 5084)", 
-  "DateAcquired": "1981-04-30", 
+  "CreditLine": "Gift of the manufacturer", 
   "Date": "1916", 
   "ArtistID": 5693, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "237.1981.a-b", 
-  "ArtistBio": "Austrian, 1879\u20131935", 
-  "CreditLine": "Gift of the manufacturer", 
+  "ArtistBio": "(Austrian, 1879\u20131935)", 
+  "DateAcquired": "1981-04-30", 
+  "\ufeffTitle": "Cigarette Box (model US 5084)", 
   "ObjectID": "2943"
 }

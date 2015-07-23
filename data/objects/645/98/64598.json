@@ -5,8 +5,7 @@
   "Artist": "Betye Saar", 
   "URL": "http://www.moma.org/collection/works/64598", 
   "CuratorApproved": "Y", 
-  "Title": "Fragments", 
-  "DateAcquired": "1990-05-02", 
+  "CreditLine": "John B. Turner Fund", 
   "Date": "1976", 
   "ArtistID": 5102, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "217.1990", 
-  "ArtistBio": "American, born 1926", 
-  "CreditLine": "John B. Turner Fund", 
+  "ArtistBio": "(American, born 1926)", 
+  "DateAcquired": "1990-05-02", 
+  "\ufeffTitle": "Fragments", 
   "ObjectID": "64598"
 }

@@ -5,8 +5,7 @@
   "Artist": "Solomon Telingater", 
   "URL": "http://www.moma.org/collection/works/8466", 
   "CuratorApproved": "Y", 
-  "Title": "Olimpiada teatra isskustva narodov SSSR", 
-  "DateAcquired": "1999-12-10", 
+  "CreditLine": "Jan Tschichold Collection, Gift of Philip Johnson", 
   "Date": "1930", 
   "ArtistID": 8255, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "992.1999", 
-  "ArtistBio": "Russian, 1903\u20131969", 
-  "CreditLine": "Jan Tschichold Collection, Gift of Philip Johnson", 
+  "ArtistBio": "(Russian, 1903\u20131969)", 
+  "DateAcquired": "1999-12-10", 
+  "\ufeffTitle": "Olimpiada teatra isskustva narodov SSSR", 
   "ObjectID": "8466"
 }

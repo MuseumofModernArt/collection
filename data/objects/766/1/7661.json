@@ -1,12 +1,11 @@
 {
   "Medium": "Photolithograph", 
-  "Dimensions": "16 1/4 x 16 5/16\" (41.3 x 41.4 cm)  ", 
+  "Dimensions": "16 1/4 x 16 5/16\" (41.3 x 41.4 cm)\r\n", 
   "Classification": "A&D Graphic Design", 
   "Artist": "Otl Aicher (also known as Otto Aicher)", 
   "URL": "http://www.moma.org/collection/works/7661", 
   "CuratorApproved": "Y", 
-  "Title": "Musik des Barock", 
-  "DateAcquired": "1951-11-21", 
+  "CreditLine": "Gift of the artist", 
   "Date": "1949-51", 
   "ArtistID": 86, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "594.1951", 
-  "ArtistBio": "German, 1922\u20131991", 
-  "CreditLine": "Gift of the artist", 
+  "ArtistBio": "(German, 1922\u20131991)", 
+  "DateAcquired": "1951-11-21", 
+  "\ufeffTitle": "Musik des Barock", 
   "ObjectID": "7661"
 }

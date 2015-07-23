@@ -1,12 +1,11 @@
 {
   "Medium": "Etching", 
-  "Dimensions": "plate  23 11/16 x 17 7/8\" (60.1 x 45.4 cm)  sheet  40 x 27 1/2\" (101.6 x 69.9 cm)", 
+  "Dimensions": "plate  23 11/16 x 17 7/8\" (60.1 x 45.4 cm)\r\nsheet  40 x 27 1/2\" (101.6 x 69.9 cm)", 
   "Classification": "Print", 
   "Artist": "Marisol (Marisol Escobar)", 
   "URL": "http://www.moma.org/collection/works/68907", 
   "CuratorApproved": "Y", 
-  "Title": "Pnom Penh, Two", 
-  "DateAcquired": "1970-10-22", 
+  "CreditLine": "Gift of the Celeste and Armand Bartos Foundation", 
   "Date": "1970", 
   "ArtistID": 3774, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "425.1970", 
-  "ArtistBio": "Venezuelan, born France 1930", 
-  "CreditLine": "Gift of the Celeste and Armand Bartos Foundation", 
+  "ArtistBio": "(Venezuelan, born France 1930)", 
+  "DateAcquired": "1970-10-22", 
+  "\ufeffTitle": "Pnom Penh, Two", 
   "ObjectID": "68907"
 }

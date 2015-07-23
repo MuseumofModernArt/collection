@@ -1,12 +1,11 @@
 {
   "Medium": "Glazed earthenware", 
-  "Dimensions": ".1: 4 x 8 3/4\" (10.2 x 22.2 cm)  .2: 3 3/8 x 7 3/8\" (8.6 x 18.7 cm)  .3: 2 5/8 x 5 3/4\" (6.7 x 14.6 cm)  .4: 1 7/8 x 6 1/8\" (4.8 x 15.6 cm)  .5: 3 3/4 x 9\" (9.5 x 22.9 cm)  .6: 8 1/2\" (21.6 cm)  .7: 7 3/4\" (19.7 cm)  .8: 5 3/4\" (14.6 cm)  .9: 4 3/8 x 9 3/8\" (11.1 x 23.8 cm)  .10: 6 1/2\" (16.5 cm)", 
+  "Dimensions": ".1: 4 x 8 3/4\" (10.2 x 22.2 cm)\r\n.2: 3 3/8 x 7 3/8\" (8.6 x 18.7 cm)\r\n.3: 2 5/8 x 5 3/4\" (6.7 x 14.6 cm)\r\n.4: 1 7/8 x 6 1/8\" (4.8 x 15.6 cm)\r\n.5: 3 3/4 x 9\" (9.5 x 22.9 cm)\r\n.6: 8 1/2\" (21.6 cm)\r\n.7: 7 3/4\" (19.7 cm)\r\n.8: 5 3/4\" (14.6 cm)\r\n.9: 4 3/8 x 9 3/8\" (11.1 x 23.8 cm)\r\n.10: 6 1/2\" (16.5 cm)", 
   "Classification": "A&D Design", 
   "Artist": "Kaj Franck", 
   "URL": "http://www.moma.org/collection/works/2540", 
   "CuratorApproved": "Y", 
-  "Title": "Kilta Tableware", 
-  "DateAcquired": "1955-04-06", 
+  "CreditLine": "Gift of Waertsila Corporation, New York", 
   "Date": "1948", 
   "ArtistID": 1968, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "144.1955.1-10", 
-  "ArtistBio": "Finnish, 1911\u20131989", 
-  "CreditLine": "Gift of Waertsila Corporation, New York", 
+  "ArtistBio": "(Finnish, 1911\u20131989)", 
+  "DateAcquired": "1955-04-06", 
+  "\ufeffTitle": "Kilta Tableware", 
   "ObjectID": "2540"
 }

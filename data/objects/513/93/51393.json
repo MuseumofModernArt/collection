@@ -5,8 +5,7 @@
   "Artist": "Jerome Liebling", 
   "URL": "http://www.moma.org/collection/works/51393", 
   "CuratorApproved": "Y", 
-  "Title": "Eugene McCarthy and Hubert Humphrey, Minneapolis", 
-  "DateAcquired": "1994-06-09", 
+  "CreditLine": "David H. McAlpin Fund", 
   "Date": "1958", 
   "ArtistID": 3549, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "346.1994", 
-  "ArtistBio": "American, 1924\u20132011", 
-  "CreditLine": "David H. McAlpin Fund", 
+  "ArtistBio": "(American, 1924\u20132011)", 
+  "DateAcquired": "1994-06-09", 
+  "\ufeffTitle": "Eugene McCarthy and Hubert Humphrey, Minneapolis", 
   "ObjectID": "51393"
 }

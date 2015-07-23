@@ -5,8 +5,7 @@
   "Artist": "Gene Vass", 
   "URL": "http://www.moma.org/collection/works/36285", 
   "CuratorApproved": "Y", 
-  "Title": "XXVII", 
-  "DateAcquired": "1961-11-08", 
+  "CreditLine": "Gift of Victor S. Riesenfeld", 
   "Date": "1960", 
   "ArtistID": 6113, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "321.1961", 
-  "ArtistBio": "American, 1922\u20131996", 
-  "CreditLine": "Gift of Victor S. Riesenfeld", 
+  "ArtistBio": "(American, 1922\u20131996)", 
+  "DateAcquired": "1961-11-08", 
+  "\ufeffTitle": "XXVII", 
   "ObjectID": "36285"
 }

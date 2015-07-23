@@ -5,8 +5,7 @@
   "Artist": "Ludwig Hohlwein", 
   "URL": "http://www.moma.org/collection/works/7186", 
   "CuratorApproved": "Y", 
-  "Title": "Starnberger-See", 
-  "DateAcquired": "1987-11-18", 
+  "CreditLine": "Marshall Cogan Purchase Fund and Exchange", 
   "Date": "1910", 
   "ArtistID": 2700, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "480.1987", 
-  "ArtistBio": "German, 1874\u20131949", 
-  "CreditLine": "Marshall Cogan Purchase Fund and Exchange", 
+  "ArtistBio": "(German, 1874\u20131949)", 
+  "DateAcquired": "1987-11-18", 
+  "\ufeffTitle": "Starnberger-See", 
   "ObjectID": "7186"
 }

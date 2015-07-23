@@ -5,8 +5,7 @@
   "Artist": "Ward Bennett", 
   "URL": "http://www.moma.org/collection/works/3334", 
   "CuratorApproved": "Y", 
-  "Title": "Vase", 
-  "DateAcquired": "1960-11-16", 
+  "CreditLine": "Gift of the Chase Manhattan Bank", 
   "Date": "1960", 
   "ArtistID": 478, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "340.1960", 
-  "ArtistBio": "American, 1917\u20132003", 
-  "CreditLine": "Gift of the Chase Manhattan Bank", 
+  "ArtistBio": "(American, 1917\u20132003)", 
+  "DateAcquired": "1960-11-16", 
+  "\ufeffTitle": "Vase", 
   "ObjectID": "3334"
 }

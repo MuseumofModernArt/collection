@@ -5,8 +5,7 @@
   "Artist": "Robert Adams", 
   "URL": "http://www.moma.org/collection/works/56955", 
   "CuratorApproved": "Y", 
-  "Title": "Alkali Lake, Albany County, Wyoming", 
-  "DateAcquired": "1996-12-10", 
+  "CreditLine": "Bequest of Arthur M. Bullowa", 
   "Date": "1978", 
   "ArtistID": 66, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "850.1996", 
-  "ArtistBio": "American, born 1937", 
-  "CreditLine": "Bequest of Arthur M. Bullowa", 
+  "ArtistBio": "(American, born 1937)", 
+  "DateAcquired": "1996-12-10", 
+  "\ufeffTitle": "Alkali Lake, Albany County, Wyoming", 
   "ObjectID": "56955"
 }

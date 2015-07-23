@@ -5,8 +5,7 @@
   "Artist": "Douglas C. Pizac/Associated Press", 
   "URL": "http://www.moma.org/collection/works/58669", 
   "CuratorApproved": "Y", 
-  "Title": "Deliverance", 
-  "DateAcquired": "2001-06-14", 
+  "CreditLine": "The New York Times Collection", 
   "Date": "November 22, 1986", 
   "ArtistID": 8601, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "2076.2001", 
-  "ArtistBio": "American, born 1954", 
-  "CreditLine": "The New York Times Collection", 
+  "ArtistBio": "(American, born 1954)", 
+  "DateAcquired": "2001-06-14", 
+  "\ufeffTitle": "\"Deliverance\"", 
   "ObjectID": "58669"
 }

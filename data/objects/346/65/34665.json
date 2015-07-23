@@ -5,8 +5,7 @@
   "Artist": "Amedeo Modigliani", 
   "URL": "http://www.moma.org/collection/works/34665", 
   "CuratorApproved": "Y", 
-  "Title": "Portrait of a Woman", 
-  "DateAcquired": "1940-04-05", 
+  "CreditLine": "Given anonymously", 
   "Date": "(c. 1919-20)", 
   "ArtistID": 4038, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "140.1940", 
-  "ArtistBio": "Italian, 1884\u20131920", 
-  "CreditLine": "Given anonymously", 
+  "ArtistBio": "(Italian, 1884\u20131920)", 
+  "DateAcquired": "1940-04-05", 
+  "\ufeffTitle": "Portrait of a Woman", 
   "ObjectID": "34665"
 }

@@ -5,8 +5,7 @@
   "Artist": "Jacques Villon", 
   "URL": "http://www.moma.org/collection/works/62169", 
   "CuratorApproved": "Y", 
-  "Title": "Portrait of My Father (Portrait de mon p\u00e8re)", 
-  "DateAcquired": "1995-05-03", 
+  "CreditLine": "Gift of William S. Lieberman in honor of Louise Reinhardt Smith", 
   "Date": "1891", 
   "ArtistID": 6165, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "119.1995", 
-  "ArtistBio": "French, 1875\u20131963", 
-  "CreditLine": "Gift of William S. Lieberman in honor of Louise Reinhardt Smith", 
+  "ArtistBio": "(French, 1875\u20131963)", 
+  "DateAcquired": "1995-05-03", 
+  "\ufeffTitle": "Portrait of My Father (Portrait de mon p\u00e8re)", 
   "ObjectID": "62169"
 }

@@ -5,8 +5,7 @@
   "Artist": "Jacob Epstein", 
   "URL": "http://www.moma.org/collection/works/37200", 
   "CuratorApproved": "Y", 
-  "Title": "Birth", 
-  "DateAcquired": "1977-11-02", 
+  "CreditLine": "Gift of Mr. and Mrs. Richard Deutsch", 
   "Date": "1913", 
   "ArtistID": 1741, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "500.1977", 
-  "ArtistBio": "British, born U.S.A. 1880\u20131959", 
-  "CreditLine": "Gift of Mr. and Mrs. Richard Deutsch", 
+  "ArtistBio": "(British, born U.S.A. 1880\u20131959)", 
+  "DateAcquired": "1977-11-02", 
+  "\ufeffTitle": "Birth", 
   "ObjectID": "37200"
 }

@@ -1,12 +1,11 @@
 {
   "Medium": "Lithograph", 
-  "Dimensions": "composition  9 1/2 x 12 13/16\" (24.2 x 32.5 cm)  plate  11 7/16 x 14 11/16\" (29 x 37.3 cm)", 
+  "Dimensions": "composition  9 1/2 x 12 13/16\" (24.2 x 32.5 cm)\r\nplate  11 7/16 x 14 11/16\" (29 x 37.3 cm)", 
   "Classification": "Print", 
   "Artist": "Thomas Hart Benton", 
   "URL": "http://www.moma.org/collection/works/59617", 
   "CuratorApproved": "Y", 
-  "Title": "Loading Corn", 
-  "DateAcquired": "1988-01-19", 
+  "CreditLine": "Gift of W. J. Cole", 
   "Date": "(1945)", 
   "ArtistID": 483, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "3.1988", 
-  "ArtistBio": "American, 1889\u20131975", 
-  "CreditLine": "Gift of W. J. Cole", 
+  "ArtistBio": "(American, 1889\u20131975)", 
+  "DateAcquired": "1988-01-19", 
+  "\ufeffTitle": "Loading Corn", 
   "ObjectID": "59617"
 }

@@ -5,8 +5,7 @@
   "Artist": "Unknown Designer", 
   "URL": "http://www.moma.org/collection/works/3956", 
   "CuratorApproved": "Y", 
-  "Title": "Vase", 
-  "DateAcquired": "1974-11-06", 
+  "CreditLine": "Joseph H. Heil Bequest", 
   "Date": "c. 1900", 
   "ArtistID": 6011, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "472.1974", 
-  "ArtistBio": "Nationality unknown", 
-  "CreditLine": "Joseph H. Heil Bequest", 
+  "ArtistBio": "(Nationality unknown)", 
+  "DateAcquired": "1974-11-06", 
+  "\ufeffTitle": "Vase", 
   "ObjectID": "3956"
 }

@@ -5,8 +5,7 @@
   "Artist": "Pat Keely", 
   "URL": "http://www.moma.org/collection/works/5768", 
   "CuratorApproved": "Y", 
-  "Title": "Join Your Savings Group Now!", 
-  "DateAcquired": "1943-05-12", 
+  "CreditLine": "Gift of Mrs. John Carter", 
   "Date": "1940", 
   "ArtistID": 3037, 
   "Keywords": [
@@ -16,7 +15,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "230.1943", 
-  "ArtistBio": "British", 
-  "CreditLine": "Gift of Mrs. John Carter", 
+  "ArtistBio": "(British)", 
+  "DateAcquired": "1943-05-12", 
+  "\ufeffTitle": "Join Your Savings Group Now!", 
   "ObjectID": "5768"
 }

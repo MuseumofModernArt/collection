@@ -5,8 +5,7 @@
   "Artist": "Burkhard", 
   "URL": "http://www.moma.org/collection/works/7232", 
   "CuratorApproved": "Y", 
-  "Title": "Grafa", 
-  "DateAcquired": "1983-05-17", 
+  "CreditLine": "Acquired by exchange", 
   "Date": "1933", 
   "ArtistID": 875, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "491.1983", 
-  "ArtistBio": "Swiss", 
-  "CreditLine": "Acquired by exchange", 
+  "ArtistBio": "(Swiss)", 
+  "DateAcquired": "1983-05-17", 
+  "\ufeffTitle": "Grafa", 
   "ObjectID": "7232"
 }

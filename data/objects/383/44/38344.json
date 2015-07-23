@@ -5,8 +5,7 @@
   "Artist": "Gino Severini", 
   "URL": "http://www.moma.org/collection/works/38344", 
   "CuratorApproved": "Y", 
-  "Title": "Dancer", 
-  "DateAcquired": "1985-09-10", 
+  "CreditLine": "The Riklis Collection of McCrory Corporation", 
   "Date": "(1912)", 
   "ArtistID": 5360, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "954.1983", 
-  "ArtistBio": "Italian, 1883\u20131966", 
-  "CreditLine": "The Riklis Collection of McCrory Corporation", 
+  "ArtistBio": "(Italian, 1883\u20131966)", 
+  "DateAcquired": "1985-09-10", 
+  "\ufeffTitle": "Dancer", 
   "ObjectID": "38344"
 }

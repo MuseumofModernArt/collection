@@ -5,8 +5,7 @@
   "Artist": "Unknown Designer", 
   "URL": "http://www.moma.org/collection/works/3699", 
   "CuratorApproved": "Y", 
-  "Title": "Bath Mitts", 
-  "DateAcquired": "NULL", 
+  "CreditLine": "Purchase", 
   "Date": "Before 1942", 
   "ArtistID": 6011, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "376.1942.1-2", 
-  "ArtistBio": "Nationality unknown", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(Nationality unknown)", 
+  "DateAcquired": "", 
+  "\ufeffTitle": "Bath Mitts", 
   "ObjectID": "3699"
 }

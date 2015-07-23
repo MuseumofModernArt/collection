@@ -5,8 +5,7 @@
   "Artist": "Jouineau Bourduge", 
   "URL": "http://www.moma.org/collection/works/4969", 
   "CuratorApproved": "Y", 
-  "Title": "Le Trou", 
-  "DateAcquired": "1961-02-07", 
+  "CreditLine": "Gift of Uni-France Films, Paris", 
   "Date": "1959", 
   "ArtistID": 709, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "79.1961", 
-  "ArtistBio": "French", 
-  "CreditLine": "Gift of Uni-France Films, Paris", 
+  "ArtistBio": "(French)", 
+  "DateAcquired": "1961-02-07", 
+  "\ufeffTitle": "Le Trou", 
   "ObjectID": "4969"
 }

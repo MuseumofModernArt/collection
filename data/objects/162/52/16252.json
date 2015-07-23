@@ -1,12 +1,11 @@
 {
   "Medium": "Illustrated book with twenty-five photogravures; and one cancelled copper plate", 
-  "Dimensions": "irreg. page  22 13/16 x 15 9/16\" (58 x 39.5 cm)  Prints:  various dimensions.", 
+  "Dimensions": "irreg. page  22 13/16 x 15 9/16\" (58 x 39.5 cm)\r\nPrints:  various dimensions.", 
   "Classification": "Illustrated Book", 
   "Artist": "Eduardo Paolozzi", 
   "URL": "http://www.moma.org/collection/works/16252", 
   "CuratorApproved": "Y", 
-  "Title": "The Conditional Probability Machine", 
-  "DateAcquired": "1971-03-30", 
+  "CreditLine": "Donald H. Karshan Fund", 
   "Date": "1970", 
   "ArtistID": 4488, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "361.1971.1-26", 
-  "ArtistBio": "British, 1924\u20132005", 
-  "CreditLine": "Donald H. Karshan Fund", 
+  "ArtistBio": "(British, 1924\u20132005)", 
+  "DateAcquired": "1971-03-30", 
+  "\ufeffTitle": "The Conditional Probability Machine", 
   "ObjectID": "16252"
 }

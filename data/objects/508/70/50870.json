@@ -5,8 +5,7 @@
   "Artist": "Thomas Ruff", 
   "URL": "http://www.moma.org/collection/works/50870", 
   "CuratorApproved": "Y", 
-  "Title": "Portrait", 
-  "DateAcquired": "1990-06-07", 
+  "CreditLine": "The Fellows of Photography Fund", 
   "Date": "1989", 
   "ArtistID": 6982, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "326.1990", 
-  "ArtistBio": "German, born 1958", 
-  "CreditLine": "The Fellows of Photography Fund", 
+  "ArtistBio": "(German, born 1958)", 
+  "DateAcquired": "1990-06-07", 
+  "\ufeffTitle": "Portrait", 
   "ObjectID": "50870"
 }

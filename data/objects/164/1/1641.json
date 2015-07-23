@@ -5,8 +5,7 @@
   "Artist": "Ren\u00e9 Herbst", 
   "URL": "http://www.moma.org/collection/works/1641", 
   "CuratorApproved": "Y", 
-  "Title": "Sandows Chair", 
-  "DateAcquired": "2000-01-19", 
+  "CreditLine": "Gift of Marshall S. Cogan in honor of Barbara Jakobson", 
   "Date": "1928", 
   "ArtistID": 7467, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "28.2000", 
-  "ArtistBio": "French, 1891\u20131982", 
-  "CreditLine": "Gift of Marshall S. Cogan in honor of Barbara Jakobson", 
+  "ArtistBio": "(French, 1891\u20131982)", 
+  "DateAcquired": "2000-01-19", 
+  "\ufeffTitle": "Sandows Chair", 
   "ObjectID": "1641"
 }

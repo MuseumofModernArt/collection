@@ -1,12 +1,11 @@
 {
   "Medium": "Screenprint", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "Jan Senbergs", 
   "URL": "http://www.moma.org/collection/works/68346", 
   "CuratorApproved": "Y", 
-  "Title": "Fort", 
-  "DateAcquired": "1973-10-24", 
+  "CreditLine": "Purchase", 
   "Date": "(1973)", 
   "ArtistID": 5341, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "392.1973", 
-  "ArtistBio": "Australian, born Latvia 1939", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(Australian, born Latvia 1939)", 
+  "DateAcquired": "1973-10-24", 
+  "\ufeffTitle": "Fort", 
   "ObjectID": "68346"
 }

@@ -5,8 +5,7 @@
   "Artist": "Victor Delhez", 
   "URL": "http://www.moma.org/collection/works/60689", 
   "CuratorApproved": "Y", 
-  "Title": "The Sea Became Blood (El Mar Se Hizo Sangre)", 
-  "DateAcquired": "1968-02-05", 
+  "CreditLine": "Inter-American Fund", 
   "Date": "(1958)", 
   "ArtistID": 1483, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "40.1968", 
-  "ArtistBio": "Belgian", 
-  "CreditLine": "Inter-American Fund", 
+  "ArtistBio": "(Belgian)", 
+  "DateAcquired": "1968-02-05", 
+  "\ufeffTitle": "The Sea Became Blood (El Mar Se Hizo Sangre)", 
   "ObjectID": "60689"
 }

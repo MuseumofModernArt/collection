@@ -5,8 +5,7 @@
   "Artist": "Lewis W. Hine", 
   "URL": "http://www.moma.org/collection/works/48241", 
   "CuratorApproved": "Y", 
-  "Title": "Italian Woman, Hull House, Chicago", 
-  "DateAcquired": "1944-11-08", 
+  "CreditLine": "Purchase", 
   "Date": "1910", 
   "ArtistID": 2657, 
   "Keywords": [
@@ -20,7 +19,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "196.1944", 
-  "ArtistBio": "American, 1874\u20131940", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, 1874\u20131940)", 
+  "DateAcquired": "1944-11-08", 
+  "\ufeffTitle": "Italian Woman, Hull House, Chicago", 
   "ObjectID": "48241"
 }

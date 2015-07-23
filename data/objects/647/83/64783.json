@@ -1,12 +1,11 @@
 {
   "Medium": "Etching, aquatint", 
-  "Dimensions": "plate  23 3/4 x 32 13/16\" (60.3 x 83.4 cm)  sl. irreg. sheet  29 15/16 x 44 1/2\" (76 x 113 cm)", 
+  "Dimensions": "plate  23 3/4 x 32 13/16\" (60.3 x 83.4 cm)\r\nsl. irreg. sheet  29 15/16 x 44 1/2\" (76 x 113 cm)", 
   "Classification": "Print", 
   "Artist": "Roberto Turnbull Buenrostro", 
   "URL": "http://www.moma.org/collection/works/64783", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled I", 
-  "DateAcquired": "1990-05-02", 
+  "CreditLine": "Riva Castelmann Fund", 
   "Date": "(1989)", 
   "ArtistID": 5976, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "228.1990", 
-  "ArtistBio": "Mexican, born 1959", 
-  "CreditLine": "Riva Castelmann Fund", 
+  "ArtistBio": "(Mexican, born 1959)", 
+  "DateAcquired": "1990-05-02", 
+  "\ufeffTitle": "Untitled I", 
   "ObjectID": "64783"
 }

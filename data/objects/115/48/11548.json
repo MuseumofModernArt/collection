@@ -5,8 +5,7 @@
   "Artist": "Kara Walker", 
   "URL": "http://www.moma.org/collection/works/11548", 
   "CuratorApproved": "Y", 
-  "Title": "Freedom: A Fable", 
-  "DateAcquired": "1998-03-05", 
+  "CreditLine": "Anonymous Gift", 
   "Date": "1997", 
   "ArtistID": 7679, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "136.1998", 
-  "ArtistBio": "American, born 1969", 
-  "CreditLine": "Anonymous Gift", 
+  "ArtistBio": "(American, born 1969)", 
+  "DateAcquired": "1998-03-05", 
+  "\ufeffTitle": "Freedom: A Fable", 
   "ObjectID": "11548"
 }

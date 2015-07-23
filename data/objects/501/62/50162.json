@@ -5,8 +5,7 @@
   "Artist": "Tina Barney", 
   "URL": "http://www.moma.org/collection/works/50162", 
   "CuratorApproved": "Y", 
-  "Title": "Sheila and Moya", 
-  "DateAcquired": "1993-10-14", 
+  "CreditLine": "Gift of Tina Barney and Janet Borden Gallery", 
   "Date": "1987", 
   "ArtistID": 343, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "297.1993", 
-  "ArtistBio": "American, born 1945", 
-  "CreditLine": "Gift of Tina Barney and Janet Borden Gallery", 
+  "ArtistBio": "(American, born 1945)", 
+  "DateAcquired": "1993-10-14", 
+  "\ufeffTitle": "Sheila and Moya", 
   "ObjectID": "50162"
 }

@@ -5,8 +5,7 @@
   "Artist": "Radio Corporation of America", 
   "URL": "http://www.moma.org/collection/works/58678", 
   "CuratorApproved": "Y", 
-  "Title": "North Pole", 
-  "DateAcquired": "2001-06-14", 
+  "CreditLine": "The New York Times Collection", 
   "Date": "May 29, 1926", 
   "ArtistID": 8649, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "2085.2001", 
-  "ArtistBio": "American", 
-  "CreditLine": "The New York Times Collection", 
+  "ArtistBio": "(American)", 
+  "DateAcquired": "2001-06-14", 
+  "\ufeffTitle": "North Pole", 
   "ObjectID": "58678"
 }

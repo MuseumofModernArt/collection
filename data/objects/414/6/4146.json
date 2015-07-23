@@ -5,8 +5,7 @@
   "Artist": "Chunghi Choo", 
   "URL": "http://www.moma.org/collection/works/4146", 
   "CuratorApproved": "Y", 
-  "Title": "Decanter", 
-  "DateAcquired": "1980-10-30", 
+  "CreditLine": "Mrs. John D. Rockefeller 3rd Purchase Fund", 
   "Date": "1980", 
   "ArtistID": 1110, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "630.1980.a-b", 
-  "ArtistBio": "American, born Korea 1938", 
-  "CreditLine": "Mrs. John D. Rockefeller 3rd Purchase Fund", 
+  "ArtistBio": "(American, born Korea 1938)", 
+  "DateAcquired": "1980-10-30", 
+  "\ufeffTitle": "Decanter", 
   "ObjectID": "4146"
 }

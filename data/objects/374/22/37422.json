@@ -5,8 +5,7 @@
   "Artist": "Lee Bontecou", 
   "URL": "http://www.moma.org/collection/works/37422", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1970-12-15", 
+  "CreditLine": "Gift of Wilder Green", 
   "Date": "(1967)", 
   "ArtistID": 670, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "583.1970", 
-  "ArtistBio": "American, born 1931", 
-  "CreditLine": "Gift of Wilder Green", 
+  "ArtistBio": "(American, born 1931)", 
+  "DateAcquired": "1970-12-15", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "37422"
 }

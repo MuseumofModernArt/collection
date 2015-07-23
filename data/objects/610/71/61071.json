@@ -1,12 +1,11 @@
 {
   "Medium": "Sulfur print with oil additions", 
-  "Dimensions": "plate  63 3/8 x 38 3/4\" (161 x 98.4 cm)  sheet  65 3/16 x 42 3/8\" (165 x 108 cm)", 
+  "Dimensions": "plate  63 3/8 x 38 3/4\" (161 x 98.4 cm)\r\nsheet  65 3/16 x 42 3/8\" (165 x 108 cm)", 
   "Classification": "Print", 
   "Artist": "Jean-Michel Othoniel", 
   "URL": "http://www.moma.org/collection/works/61071", 
   "CuratorApproved": "Y", 
-  "Title": "The Forbidden (L'Interdit)", 
-  "DateAcquired": "1999-03-04", 
+  "CreditLine": "Joanne M. Stern Fund", 
   "Date": "1991", 
   "ArtistID": 7959, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "57.1999", 
-  "ArtistBio": "French, born 1964", 
-  "CreditLine": "Joanne M. Stern Fund", 
+  "ArtistBio": "(French, born 1964)", 
+  "DateAcquired": "1999-03-04", 
+  "\ufeffTitle": "The Forbidden (L'interdit)", 
   "ObjectID": "61071"
 }

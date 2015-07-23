@@ -1,12 +1,11 @@
 {
-  "Medium": "Illustrated book with 66 photolithographic reproductions of woodcuts  ", 
-  "Dimensions": "Page: 8 11/16 x 6 5/16\" (22 x 16 cm)  Composition (ink embellishment, irreg.): 8 9/16 x 12\" (21.7 x 30.5 cm)", 
+  "Medium": "Illustrated book with 66 photolithographic reproductions of woodcuts\r\n", 
+  "Dimensions": "Page: 8 11/16 x 6 5/16\" (22 x 16 cm)\r\nComposition (ink embellishment, irreg.): 8 9/16 x 12\" (21.7 x 30.5 cm)", 
   "Classification": "Illustrated Book", 
   "Artist": "Shiko Munakata", 
   "URL": "http://www.moma.org/collection/works/13485", 
   "CuratorApproved": "Y", 
-  "Title": "Viigorous Women are Carried of Ripe-Force", 
-  "DateAcquired": "1984-05-23", 
+  "CreditLine": "Gift of Professor Hugo Munsterberg", 
   "Date": "(1956?)", 
   "ArtistID": 4162, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "204.1984", 
-  "ArtistBio": "Japanese, 1903\u20131975", 
-  "CreditLine": "Gift of Professor Hugo Munsterberg", 
+  "ArtistBio": "(Japanese, 1903\u20131975)", 
+  "DateAcquired": "1984-05-23", 
+  "\ufeffTitle": "Viigorous Women are Carried of Ripe-Force", 
   "ObjectID": "13485"
 }

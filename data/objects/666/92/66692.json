@@ -5,8 +5,7 @@
   "Artist": "Max Beckmann", 
   "URL": "http://www.moma.org/collection/works/66692", 
   "CuratorApproved": "Y", 
-  "Title": "Self-Portrait in Bowler Hat", 
-  "DateAcquired": "1941-01-16", 
+  "CreditLine": "Gift of Edward M. M. Warburg", 
   "Date": "(1921, published not before 1922)", 
   "ArtistID": 429, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "313.1941", 
-  "ArtistBio": "German, 1884\u20131950", 
-  "CreditLine": "Gift of Edward M. M. Warburg", 
+  "ArtistBio": "(German, 1884\u20131950)", 
+  "DateAcquired": "1941-01-16", 
+  "\ufeffTitle": "Self-Portrait in Bowler Hat (Selbstbildnis mit steifem Hut)", 
   "ObjectID": "66692"
 }

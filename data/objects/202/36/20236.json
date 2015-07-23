@@ -5,8 +5,7 @@
   "Artist": "Alfred Kubin", 
   "URL": "http://www.moma.org/collection/works/20236", 
   "CuratorApproved": "Y", 
-  "Title": "Caliban", 
-  "DateAcquired": "1943-11-04", 
+  "CreditLine": "Given anonymously", 
   "Date": "(1918)", 
   "ArtistID": 3276, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "670.1943", 
-  "ArtistBio": "Austrian, 1877\u20131959", 
-  "CreditLine": "Given anonymously", 
+  "ArtistBio": "(Austrian, 1877\u20131959)", 
+  "DateAcquired": "1943-11-04", 
+  "\ufeffTitle": "Caliban from the portfolio Visions of Shakespeare (Shakespeare Visionen)", 
   "ObjectID": "20236"
 }

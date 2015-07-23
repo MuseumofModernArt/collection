@@ -5,8 +5,7 @@
   "Artist": "Enzo Mari", 
   "URL": "http://www.moma.org/collection/works/3041", 
   "CuratorApproved": "Y", 
-  "Title": "Delos Ashtray", 
-  "DateAcquired": "1986-10-07", 
+  "CreditLine": "Gift of the manufacturer", 
   "Date": "1980", 
   "ArtistID": 3766, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "247.1986", 
-  "ArtistBio": "Italian, born 1932", 
-  "CreditLine": "Gift of the manufacturer", 
+  "ArtistBio": "(Italian, born 1932)", 
+  "DateAcquired": "1986-10-07", 
+  "\ufeffTitle": "Delos Ashtray", 
   "ObjectID": "3041"
 }

@@ -1,12 +1,11 @@
 {
   "Medium": "Etching", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "Pablo Picasso", 
   "URL": "http://www.moma.org/collection/works/67499", 
   "CuratorApproved": "Y", 
-  "Title": "Table of Illustrations to Balzac's The Unknown Masterpiece", 
-  "DateAcquired": "1948-10-06", 
+  "CreditLine": "Gift of Victor S. Riesenfeld", 
   "Date": "(1931)", 
   "ArtistID": 4609, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "352.1948", 
-  "ArtistBio": "Spanish, 1881\u20131973", 
-  "CreditLine": "Gift of Victor S. Riesenfeld", 
+  "ArtistBio": "(Spanish, 1881\u20131973)", 
+  "DateAcquired": "1948-10-06", 
+  "\ufeffTitle": "Table of Illustrations to Balzac's The Unknown Masterpiece", 
   "ObjectID": "67499"
 }

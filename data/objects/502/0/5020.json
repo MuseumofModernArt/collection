@@ -5,8 +5,7 @@
   "Artist": "Lester Beall", 
   "URL": "http://www.moma.org/collection/works/5020", 
   "CuratorApproved": "Y", 
-  "Title": "Power on the Farm, Rural Electrification Administration", 
-  "DateAcquired": "1944-05-02", 
+  "CreditLine": "Gift of the Department of Agriculture", 
   "Date": "1941", 
   "ArtistID": 409, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "90.1944", 
-  "ArtistBio": "American, 1903\u20131969", 
-  "CreditLine": "Gift of the Department of Agriculture", 
+  "ArtistBio": "(American, 1903\u20131969)", 
+  "DateAcquired": "1944-05-02", 
+  "\ufeffTitle": "Power on the Farm, Rural Electrification Administration", 
   "ObjectID": "5020"
 }

@@ -5,8 +5,7 @@
   "Artist": "Unknown Designer", 
   "URL": "http://www.moma.org/collection/works/4206", 
   "CuratorApproved": "Y", 
-  "Title": "Laboratory Dish", 
-  "DateAcquired": "NULL", 
+  "CreditLine": "Gift of Eimer & Amend", 
   "Date": "Before 1939", 
   "ArtistID": 6011, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "672.1939", 
-  "ArtistBio": "Nationality unknown", 
-  "CreditLine": "Gift of Eimer & Amend", 
+  "ArtistBio": "(Nationality unknown)", 
+  "DateAcquired": "", 
+  "\ufeffTitle": "Laboratory Dish", 
   "ObjectID": "4206"
 }

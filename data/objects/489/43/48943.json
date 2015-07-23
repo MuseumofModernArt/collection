@@ -5,8 +5,7 @@
   "Artist": "El Lissitzky", 
   "URL": "http://www.moma.org/collection/works/48943", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1986-05-22", 
+  "CreditLine": "Gift of Shirley C. Burden and David H. McAlpin, by exchange", 
   "Date": "1924-30", 
   "ArtistID": 3569, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "222.1986", 
-  "ArtistBio": "Russian, 1890\u20131941", 
-  "CreditLine": "Gift of Shirley C. Burden and David H. McAlpin, by exchange", 
+  "ArtistBio": "(Russian, 1890\u20131941)", 
+  "DateAcquired": "1986-05-22", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "48943"
 }

@@ -5,8 +5,7 @@
   "Artist": "Leo Manso", 
   "URL": "http://www.moma.org/collection/works/33140", 
   "CuratorApproved": "Y", 
-  "Title": "Ascent 3", 
-  "DateAcquired": "1963-01-08", 
+  "CreditLine": "Gift of Mr. and Mrs. Sidney Elliott Cohn", 
   "Date": "(1962)", 
   "ArtistID": 3739, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "12.1963", 
-  "ArtistBio": "American, 1914\u20131993", 
-  "CreditLine": "Gift of Mr. and Mrs. Sidney Elliott Cohn", 
+  "ArtistBio": "(American, 1914\u20131993)", 
+  "DateAcquired": "1963-01-08", 
+  "\ufeffTitle": "Ascent 3", 
   "ObjectID": "33140"
 }

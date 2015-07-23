@@ -5,8 +5,7 @@
   "Artist": "Rolf Iseli", 
   "URL": "http://www.moma.org/collection/works/67122", 
   "CuratorApproved": "Y", 
-  "Title": "Geneva Forms (Figuren Genf)", 
-  "DateAcquired": "1980-02-25", 
+  "CreditLine": "Gift of Dr. Jack Chachkes", 
   "Date": "1979", 
   "ArtistID": 2829, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "333.1980", 
-  "ArtistBio": "Swiss", 
-  "CreditLine": "Gift of Dr. Jack Chachkes", 
+  "ArtistBio": "(Swiss)", 
+  "DateAcquired": "1980-02-25", 
+  "\ufeffTitle": "Geneva Forms (Figuren Genf)", 
   "ObjectID": "67122"
 }

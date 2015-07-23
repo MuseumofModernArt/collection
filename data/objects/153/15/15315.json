@@ -5,8 +5,7 @@
   "Artist": "Henri Matisse", 
   "URL": "http://www.moma.org/collection/works/15315", 
   "CuratorApproved": "Y", 
-  "Title": "Les Miroirs Profonds", 
-  "DateAcquired": "1994-05-26", 
+  "CreditLine": "Gift of the International Council in honor of Jeanne C. Thayer", 
   "Date": "1947", 
   "ArtistID": 3832, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "311.1994.1-16", 
-  "ArtistBio": "French, 1869\u20131954", 
-  "CreditLine": "Gift of the International Council in honor of Jeanne C. Thayer", 
+  "ArtistBio": "(French, 1869\u20131954)", 
+  "DateAcquired": "1994-05-26", 
+  "\ufeffTitle": "Les Miroirs Profonds", 
   "ObjectID": "15315"
 }

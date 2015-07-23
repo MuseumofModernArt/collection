@@ -5,8 +5,7 @@
   "Artist": "Nicholas Nixon", 
   "URL": "http://www.moma.org/collection/works/50142", 
   "CuratorApproved": "Y", 
-  "Title": "Cambridge", 
-  "DateAcquired": "1988-10-13", 
+  "CreditLine": "Gift of the artist", 
   "Date": "1986", 
   "ArtistID": 4315, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "296.1988", 
-  "ArtistBio": "American, born 1947", 
-  "CreditLine": "Gift of the artist", 
+  "ArtistBio": "(American, born 1947)", 
+  "DateAcquired": "1988-10-13", 
+  "\ufeffTitle": "Cambridge", 
   "ObjectID": "50142"
 }

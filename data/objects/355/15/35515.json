@@ -5,8 +5,7 @@
   "Artist": "Gerhard Richter", 
   "URL": "http://www.moma.org/collection/works/35515", 
   "CuratorApproved": "Y", 
-  "Title": "18.4.90", 
-  "DateAcquired": "1993-05-05", 
+  "CreditLine": "Gift of Mrs. June Noble Larkin", 
   "Date": "1990", 
   "ArtistID": 4907, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "203.1993", 
-  "ArtistBio": "German, born 1932", 
-  "CreditLine": "Gift of Mrs. June Noble Larkin", 
+  "ArtistBio": "(German, born 1932)", 
+  "DateAcquired": "1993-05-05", 
+  "\ufeffTitle": "18.4.90", 
   "ObjectID": "35515"
 }

@@ -5,8 +5,7 @@
   "Artist": "Hans Erni", 
   "URL": "http://www.moma.org/collection/works/5161", 
   "CuratorApproved": "Y", 
-  "Title": "Atomkrieg Nein", 
-  "DateAcquired": "1968-03-07", 
+  "CreditLine": "Gift of the designer", 
   "Date": "1954", 
   "ArtistID": 1750, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "129.1968", 
-  "ArtistBio": "Swiss, born 1909", 
-  "CreditLine": "Gift of the designer", 
+  "ArtistBio": "(Swiss, born 1909)", 
+  "DateAcquired": "1968-03-07", 
+  "\ufeffTitle": "Atomkrieg Nein", 
   "ObjectID": "5161"
 }

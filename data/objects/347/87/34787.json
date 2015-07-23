@@ -5,8 +5,7 @@
   "Artist": "Charles Demuth", 
   "URL": "http://www.moma.org/collection/works/34787", 
   "CuratorApproved": "Y", 
-  "Title": "Vaudeville Dancers", 
-  "DateAcquired": "1945-06-13", 
+  "CreditLine": "Purchase", 
   "Date": "1918", 
   "ArtistID": 1490, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "149.1945", 
-  "ArtistBio": "American, 1883\u20131935", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, 1883\u20131935)", 
+  "DateAcquired": "1945-06-13", 
+  "\ufeffTitle": "Vaudeville Dancers", 
   "ObjectID": "34787"
 }

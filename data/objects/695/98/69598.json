@@ -1,12 +1,11 @@
 {
   "Medium": "Screenprint", 
-  "Dimensions": "Composition (irreg.): 30 5/8 x 23 1/8\" (77.8 x 58.7 cm)  Sheet: 30 11/16 x 23 1/8\" (77.9 x 58.7 cm)", 
+  "Dimensions": "Composition (irreg.): 30 5/8 x 23 1/8\" (77.8 x 58.7 cm)\r\nSheet: 30 11/16 x 23 1/8\" (77.9 x 58.7 cm)", 
   "Classification": "Print", 
   "Artist": "Robert Rauschenberg", 
   "URL": "http://www.moma.org/collection/works/69598", 
   "CuratorApproved": "Y", 
-  "Title": "Back Out", 
-  "DateAcquired": "1983-01-18", 
+  "CreditLine": "Gift of Mr. and Mrs. Harry Kahn", 
   "Date": "1979", 
   "ArtistID": 4823, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "463.1982", 
-  "ArtistBio": "American, 1925\u20132008", 
-  "CreditLine": "Gift of Mr. and Mrs. Harry Kahn", 
+  "ArtistBio": "(American, 1925\u20132008)", 
+  "DateAcquired": "1983-01-18", 
+  "\ufeffTitle": "Back Out", 
   "ObjectID": "69598"
 }

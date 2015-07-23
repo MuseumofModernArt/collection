@@ -5,8 +5,7 @@
   "Artist": "Vic Delucia/The New York Times", 
   "URL": "http://www.moma.org/collection/works/58580", 
   "CuratorApproved": "Y", 
-  "Title": "A City Firefighter's Funeral in Agonzing Replay", 
-  "DateAcquired": "2001-06-14", 
+  "CreditLine": "The New York Times Collection", 
   "Date": "January 10, 1996", 
   "ArtistID": 8531, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "1987.2001", 
-  "ArtistBio": "American, born 1933", 
-  "CreditLine": "The New York Times Collection", 
+  "ArtistBio": "(American, born 1933)", 
+  "DateAcquired": "2001-06-14", 
+  "\ufeffTitle": "A City Firefighter's Funeral in Agonzing Replay", 
   "ObjectID": "58580"
 }

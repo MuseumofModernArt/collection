@@ -5,8 +5,7 @@
   "Artist": "Claes Oldenburg", 
   "URL": "http://www.moma.org/collection/works/69331", 
   "CuratorApproved": "Y", 
-  "Title": "Table Top with Objects", 
-  "DateAcquired": "1977-11-10", 
+  "CreditLine": "Jeanne C. Thayer Fund", 
   "Date": "1961", 
   "ArtistID": 4397, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "450.1977", 
-  "ArtistBio": "American, born Sweden 1929", 
-  "CreditLine": "Jeanne C. Thayer Fund", 
+  "ArtistBio": "(American, born Sweden 1929)", 
+  "DateAcquired": "1977-11-10", 
+  "\ufeffTitle": "Table Top with Objects", 
   "ObjectID": "69331"
 }

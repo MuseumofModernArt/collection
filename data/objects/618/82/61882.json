@@ -1,12 +1,11 @@
 {
   "Medium": "Etching", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "Prunella Clough", 
   "URL": "http://www.moma.org/collection/works/61882", 
   "CuratorApproved": "Y", 
-  "Title": "Shadow Play 7 from the series Shadow Play", 
-  "DateAcquired": "1993-05-03", 
+  "CreditLine": "Purchase", 
   "Date": "(1991)", 
   "ArtistID": 1159, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "106.1993", 
-  "ArtistBio": "British", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(British)", 
+  "DateAcquired": "1993-05-03", 
+  "\ufeffTitle": "Shadow Play 7 from the series Shadow Play", 
   "ObjectID": "61882"
 }

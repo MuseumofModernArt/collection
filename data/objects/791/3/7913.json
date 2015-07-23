@@ -5,8 +5,7 @@
   "Artist": "Alfredo Rostgaard", 
   "URL": "http://www.moma.org/collection/works/7913", 
   "CuratorApproved": "Y", 
-  "Title": "Cancion Protesta", 
-  "DateAcquired": "1980-10-30", 
+  "CreditLine": "Gift of the International Council and Library - Latin American Archive of The Museum of Modern Art", 
   "Date": "1967", 
   "ArtistID": 5037, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "678.1980", 
-  "ArtistBio": "Cuban, born 1943", 
-  "CreditLine": "Gift of the International Council and Library - Latin American Archive of The Museum of Modern Art", 
+  "ArtistBio": "(Cuban, born 1943)", 
+  "DateAcquired": "1980-10-30", 
+  "\ufeffTitle": "Cancion Protesta", 
   "ObjectID": "7913"
 }

@@ -5,8 +5,7 @@
   "Artist": "Ellsworth Kelly", 
   "URL": "http://www.moma.org/collection/works/61968", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1995-05-03", 
+  "CreditLine": "Gift of the artist", 
   "Date": "1949", 
   "ArtistID": 3048, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "111.1995", 
-  "ArtistBio": "American, born 1923", 
-  "CreditLine": "Gift of the artist", 
+  "ArtistBio": "(American, born 1923)", 
+  "DateAcquired": "1995-05-03", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "61968"
 }

@@ -1,12 +1,11 @@
 {
   "Medium": "Lithograph", 
-  "Dimensions": "sl irreg. composition  22 1/2 x 28 5/16\" (57.2 x 72 cm)  sl irreg. sheet  22 1/2 x 28 5/16\" (57 x 72 cm)", 
+  "Dimensions": "sl irreg. composition  22 1/2 x 28 5/16\" (57.2 x 72 cm)\r\nsl irreg. sheet  22 1/2 x 28 5/16\" (57 x 72 cm)", 
   "Classification": "Print", 
   "Artist": "Bruce Nauman", 
   "URL": "http://www.moma.org/collection/works/64151", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1986-05-20", 
+  "CreditLine": "John B. Turner Fund", 
   "Date": "1971", 
   "ArtistID": 4243, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "193.1986", 
-  "ArtistBio": "American, born 1941", 
-  "CreditLine": "John B. Turner Fund", 
+  "ArtistBio": "(American, born 1941)", 
+  "DateAcquired": "1986-05-20", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "64151"
 }

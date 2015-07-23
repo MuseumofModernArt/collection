@@ -5,8 +5,7 @@
   "Artist": "Mario Botta", 
   "URL": "http://www.moma.org/collection/works/265", 
   "CuratorApproved": "Y", 
-  "Title": "Cultural Center, Chamb\u00e9ry, France  East elevation", 
-  "DateAcquired": "1987-05-27", 
+  "CreditLine": "Gift of the architect", 
   "Date": "Unknown", 
   "ArtistID": 696, 
   "Keywords": [
@@ -20,7 +19,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "212.1987", 
-  "ArtistBio": "Swiss, born 1943", 
-  "CreditLine": "Gift of the architect", 
+  "ArtistBio": "(Swiss, born 1943)", 
+  "DateAcquired": "1987-05-27", 
+  "\ufeffTitle": "Cultural Center, Chamb\u00e9ry, France, East elevation", 
   "ObjectID": "265"
 }

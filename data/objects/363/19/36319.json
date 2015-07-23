@@ -5,8 +5,7 @@
   "Artist": "Ossip Zadkine", 
   "URL": "http://www.moma.org/collection/works/36319", 
   "CuratorApproved": "Y", 
-  "Title": "Figural Composition", 
-  "DateAcquired": "1988-10-19", 
+  "CreditLine": "Gift of Mrs. Donald B. Straus", 
   "Date": "1921", 
   "ArtistID": 6533, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "325.1988", 
-  "ArtistBio": "French, 1890\u20131967", 
-  "CreditLine": "Gift of Mrs. Donald B. Straus", 
+  "ArtistBio": "(French, 1890\u20131967)", 
+  "DateAcquired": "1988-10-19", 
+  "\ufeffTitle": "Figural Composition", 
   "ObjectID": "36319"
 }

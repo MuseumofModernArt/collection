@@ -5,8 +5,7 @@
   "Artist": "Inka Essenhigh", 
   "URL": "http://www.moma.org/collection/works/62782", 
   "CuratorApproved": "Y", 
-  "Title": "Western Print", 
-  "DateAcquired": "2000-03-02", 
+  "CreditLine": "Joanne M. Stern Fund", 
   "Date": "1999", 
   "ArtistID": 8191, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "139.2000", 
-  "ArtistBio": "American, born 1969", 
-  "CreditLine": "Joanne M. Stern Fund", 
+  "ArtistBio": "(American, born 1969)", 
+  "DateAcquired": "2000-03-02", 
+  "\ufeffTitle": "Western Print", 
   "ObjectID": "62782"
 }

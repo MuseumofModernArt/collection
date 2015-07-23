@@ -5,8 +5,7 @@
   "Artist": "T. H. Robsjohn-Gibbings", 
   "URL": "http://www.moma.org/collection/works/2242", 
   "CuratorApproved": "Y", 
-  "Title": "Table Lamp (model 170)", 
-  "DateAcquired": "1952-05-20", 
+  "CreditLine": "Gift of the manufacturer", 
   "Date": "1950", 
   "ArtistID": 4967, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "128.1952", 
-  "ArtistBio": "American, born England. 1905\u20131976", 
-  "CreditLine": "Gift of the manufacturer", 
+  "ArtistBio": "(American, born England. 1905\u20131976)", 
+  "DateAcquired": "1952-05-20", 
+  "\ufeffTitle": "Table Lamp (model 170)", 
   "ObjectID": "2242"
 }

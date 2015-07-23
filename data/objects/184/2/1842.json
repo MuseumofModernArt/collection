@@ -5,8 +5,7 @@
   "Artist": "Jacob Jensen", 
   "URL": "http://www.moma.org/collection/works/1842", 
   "CuratorApproved": "Y", 
-  "Title": "Beomaster 3000-2 Tuner Amplifier", 
-  "DateAcquired": "1972-04-11", 
+  "CreditLine": "Gift of the manufacturer", 
   "Date": "1969", 
   "ArtistID": 2909, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "50.1972", 
-  "ArtistBio": "Danish, 1926\u20132015", 
-  "CreditLine": "Gift of the manufacturer", 
+  "ArtistBio": "(Danish, 1926\u20132015)", 
+  "DateAcquired": "1972-04-11", 
+  "\ufeffTitle": "Beomaster 3000-2 Tuner Amplifier", 
   "ObjectID": "1842"
 }

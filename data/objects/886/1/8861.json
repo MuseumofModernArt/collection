@@ -5,8 +5,7 @@
   "Artist": "Joseph Binder", 
   "URL": "http://www.moma.org/collection/works/8861", 
   "CuratorApproved": "Y", 
-  "Title": "\u00d6sterreichs Wiederaufbau Ausstellung Salzburg", 
-  "DateAcquired": "2000-12-11", 
+  "CreditLine": "Gift of the designer", 
   "Date": "1933", 
   "ArtistID": 560, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "1565.2000", 
-  "ArtistBio": "American, 1898\u20131972", 
-  "CreditLine": "Gift of the designer", 
+  "ArtistBio": "(American, 1898\u20131972)", 
+  "DateAcquired": "2000-12-11", 
+  "\ufeffTitle": "\u00d6sterreichs Wiederaufbau Ausstellung Salzburg", 
   "ObjectID": "8861"
 }

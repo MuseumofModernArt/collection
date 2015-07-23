@@ -5,8 +5,7 @@
   "Artist": "J. Van Der Wal", 
   "URL": "http://www.moma.org/collection/works/6878", 
   "CuratorApproved": "Y", 
-  "Title": "Exposition 150 Anniversaire de la Creation des Postes Genevoises 1830-1980", 
-  "DateAcquired": "1994-09-21", 
+  "CreditLine": "Gift of Leonard A. Lauder", 
   "Date": "1980", 
   "ArtistID": 7433, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "428.1994", 
-  "ArtistBio": "Nationality unknown", 
-  "CreditLine": "Gift of Leonard A. Lauder", 
+  "ArtistBio": "(Nationality unknown)", 
+  "DateAcquired": "1994-09-21", 
+  "\ufeffTitle": "Exposition 150 Anniversaire de la Creation des Postes Genevoises 1830-1980", 
   "ObjectID": "6878"
 }

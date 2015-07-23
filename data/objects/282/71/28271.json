@@ -5,8 +5,7 @@
   "Artist": "Henri Matisse", 
   "URL": "http://www.moma.org/collection/works/28271", 
   "CuratorApproved": "Y", 
-  "Title": "Headpiece (page 9) from PO\u00c9SIES", 
-  "DateAcquired": "1964-10-06", 
+  "CreditLine": "", 
   "Date": "1930-1932", 
   "ArtistID": 3832, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "923.1964.2", 
-  "ArtistBio": "French, 1869\u20131954", 
-  "CreditLine": "NULL", 
+  "ArtistBio": "(French, 1869\u20131954)", 
+  "DateAcquired": "1964-10-06", 
+  "\ufeffTitle": "Le GuignonfromPo\u00e9sies", 
   "ObjectID": "28271"
 }

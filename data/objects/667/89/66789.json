@@ -1,12 +1,11 @@
 {
   "Medium": "Lithograph", 
-  "Dimensions": "irreg composition  36 13/16 x 24 3/4\" (93.5 x 62.9 cm)  irreg sheet  41 5/8 x 29 5/16\" (105 x 74.5 cm)", 
+  "Dimensions": "irreg composition  36 13/16 x 24 3/4\" (93.5 x 62.9 cm)\r\nirreg sheet  41 5/8 x 29 5/16\" (105 x 74.5 cm)", 
   "Classification": "Print", 
   "Artist": "Jasper Johns", 
   "URL": "http://www.moma.org/collection/works/66789", 
   "CuratorApproved": "Y", 
-  "Title": "Ventriloquist", 
-  "DateAcquired": "1986-10-15", 
+  "CreditLine": "Gift of Emily Fisher Landau", 
   "Date": "1986", 
   "ArtistID": 2923, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "316.1986", 
-  "ArtistBio": "American, born 1930", 
-  "CreditLine": "Gift of Emily Fisher Landau", 
+  "ArtistBio": "(American, born 1930)", 
+  "DateAcquired": "1986-10-15", 
+  "\ufeffTitle": "Ventriloquist", 
   "ObjectID": "66789"
 }

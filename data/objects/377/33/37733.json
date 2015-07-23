@@ -5,8 +5,7 @@
   "Artist": "Jim Dine", 
   "URL": "http://www.moma.org/collection/works/37733", 
   "CuratorApproved": "Y", 
-  "Title": "Cold Key West Winter", 
-  "DateAcquired": "1983-11-04", 
+  "CreditLine": "Gift of the artist in memory of Myron Orlofsky", 
   "Date": "(1981-83)", 
   "ArtistID": 1547, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "655.1983.6", 
-  "ArtistBio": "American, born 1935", 
-  "CreditLine": "Gift of the artist in memory of Myron Orlofsky", 
+  "ArtistBio": "(American, born 1935)", 
+  "DateAcquired": "1983-11-04", 
+  "\ufeffTitle": "Cold Key West Winter", 
   "ObjectID": "37733"
 }

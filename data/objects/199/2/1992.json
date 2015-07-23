@@ -5,8 +5,7 @@
   "Artist": "Kensington, Inc., New Kensington, PA", 
   "URL": "http://www.moma.org/collection/works/1992", 
   "CuratorApproved": "Y", 
-  "Title": "Platters", 
-  "DateAcquired": "NULL", 
+  "CreditLine": "Gift of the manufacturer", 
   "Date": "Before 1946", 
   "Keywords": [
     "online art collection", 
@@ -19,7 +18,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "74.1946.1-2", 
-  "ArtistBio": "NULL", 
-  "CreditLine": "Gift of the manufacturer", 
+  "ArtistBio": "", 
+  "DateAcquired": "", 
+  "\ufeffTitle": "Platters", 
   "ObjectID": "1992"
 }

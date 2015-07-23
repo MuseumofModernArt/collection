@@ -5,8 +5,7 @@
   "Artist": "Enzo Mari", 
   "URL": "http://www.moma.org/collection/works/2983", 
   "CuratorApproved": "Y", 
-  "Title": "Flores Box", 
-  "DateAcquired": "1998-04-22", 
+  "CreditLine": "Gift of the manufacturer", 
   "Date": "1991", 
   "ArtistID": 3766, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "241.1998", 
-  "ArtistBio": "Italian, born 1932", 
-  "CreditLine": "Gift of the manufacturer", 
+  "ArtistBio": "(Italian, born 1932)", 
+  "DateAcquired": "1998-04-22", 
+  "\ufeffTitle": "Flores Box", 
   "ObjectID": "2983"
 }

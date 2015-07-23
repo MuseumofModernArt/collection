@@ -5,8 +5,7 @@
   "Artist": "Carroll Dunham", 
   "URL": "http://www.moma.org/collection/works/67233", 
   "CuratorApproved": "Y", 
-  "Title": "Undone", 
-  "DateAcquired": "1998-05-14", 
+  "CreditLine": "Gift of Emily Fisher Landau", 
   "Date": "1994-96", 
   "ArtistID": 1652, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "339.1998", 
-  "ArtistBio": "American, born 1949", 
-  "CreditLine": "Gift of Emily Fisher Landau", 
+  "ArtistBio": "(American, born 1949)", 
+  "DateAcquired": "1998-05-14", 
+  "\ufeffTitle": "Undone", 
   "ObjectID": "67233"
 }

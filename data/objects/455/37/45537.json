@@ -5,8 +5,7 @@
   "Artist": "William Henry Jackson", 
   "URL": "http://www.moma.org/collection/works/45537", 
   "CuratorApproved": "Y", 
-  "Title": "Upper Twin Lake, Colorado", 
-  "DateAcquired": "1970-03-04", 
+  "CreditLine": "David H. McAlpin Fund", 
   "Date": "1875", 
   "ArtistID": 2863, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "69.1970", 
-  "ArtistBio": "American, 1843\u20131942", 
-  "CreditLine": "David H. McAlpin Fund", 
+  "ArtistBio": "(American, 1843\u20131942)", 
+  "DateAcquired": "1970-03-04", 
+  "\ufeffTitle": "Upper Twin Lake, Colorado", 
   "ObjectID": "45537"
 }

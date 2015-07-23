@@ -5,8 +5,7 @@
   "Artist": "Alfred Kubin", 
   "URL": "http://www.moma.org/collection/works/10060", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled (plate, folio 7) from Immer und Immer (Again and Again)", 
-  "DateAcquired": "1966-01-11", 
+  "CreditLine": "Gift of the Author", 
   "Date": "1937", 
   "ArtistID": 3276, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "29.1966.3", 
-  "ArtistBio": "Austrian, 1877\u20131959", 
-  "CreditLine": "Gift of the Author", 
+  "ArtistBio": "(Austrian, 1877\u20131959)", 
+  "DateAcquired": "1966-01-11", 
+  "\ufeffTitle": "Untitled (plate, folio 7) from Immer und Immer (Again and Again)", 
   "ObjectID": "10060"
 }

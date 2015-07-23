@@ -5,8 +5,7 @@
   "Artist": "Eug\u00e8ne Atget", 
   "URL": "http://www.moma.org/collection/works/46720", 
   "CuratorApproved": "Y", 
-  "Title": "Shoelace Vendor", 
-  "DateAcquired": "1950-04-24", 
+  "CreditLine": "Given anonymously", 
   "Date": "c. 1898", 
   "ArtistID": 229, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "130.1950", 
-  "ArtistBio": "French, 1857\u20131927", 
-  "CreditLine": "Given anonymously", 
+  "ArtistBio": "(French, 1857\u20131927)", 
+  "DateAcquired": "1950-04-24", 
+  "\ufeffTitle": "Shoelace Vendor", 
   "ObjectID": "46720"
 }

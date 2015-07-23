@@ -5,8 +5,7 @@
   "Artist": "Maurice de Vlaminck", 
   "URL": "http://www.moma.org/collection/works/68873", 
   "CuratorApproved": "Y", 
-  "Title": "At the Brothel", 
-  "DateAcquired": "1987-10-20", 
+  "CreditLine": "Gift of Mrs. Melville Wakeman Hall", 
   "Date": "(c. 1906)", 
   "ArtistID": 6177, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "423.1987", 
-  "ArtistBio": "French, 1876\u20131958", 
-  "CreditLine": "Gift of Mrs. Melville Wakeman Hall", 
+  "ArtistBio": "(French, 1876\u20131958)", 
+  "DateAcquired": "1987-10-20", 
+  "\ufeffTitle": "At the Brothel", 
   "ObjectID": "68873"
 }

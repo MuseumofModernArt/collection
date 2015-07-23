@@ -5,8 +5,7 @@
   "Artist": "Gino Colombini", 
   "URL": "http://www.moma.org/collection/works/4281", 
   "CuratorApproved": "Y", 
-  "Title": "Covered Pail Model No. KS 1146", 
-  "DateAcquired": "1956-10-25", 
+  "CreditLine": "Gift of Philip Johnson", 
   "Date": "1954", 
   "ArtistID": 1194, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "514.1956.a-b", 
-  "ArtistBio": "Italian, born 1915", 
-  "CreditLine": "Gift of Philip Johnson", 
+  "ArtistBio": "(Italian, born 1915)", 
+  "DateAcquired": "1956-10-25", 
+  "\ufeffTitle": "Covered Pail Model No. KS 1146", 
   "ObjectID": "4281"
 }

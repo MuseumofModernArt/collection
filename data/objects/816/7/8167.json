@@ -5,8 +5,7 @@
   "Artist": "Johannes Molzahn", 
   "URL": "http://www.moma.org/collection/works/8167", 
   "CuratorApproved": "Y", 
-  "Title": "Postanschrift: Johs. Molzahn Magdeburg Sternstr. 24", 
-  "DateAcquired": "1999-12-10", 
+  "CreditLine": "Jan Tschichold Collection, Gift of Philip Johnson", 
   "Date": "c. 1930", 
   "ArtistID": 4054, 
   "Keywords": [
@@ -20,7 +19,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "799.1999", 
-  "ArtistBio": "German, 1892\u20131965", 
-  "CreditLine": "Jan Tschichold Collection, Gift of Philip Johnson", 
+  "ArtistBio": "(German, 1892\u20131965)", 
+  "DateAcquired": "1999-12-10", 
+  "\ufeffTitle": "Postanschrift: Johs. Molzahn Magdeburg Sternstr. 24", 
   "ObjectID": "8167"
 }

@@ -1,12 +1,11 @@
 {
   "Medium": "Three aquatints", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "Donald Sultan", 
   "URL": "http://www.moma.org/collection/works/64768", 
   "CuratorApproved": "Y", 
-  "Title": "Black Roses", 
-  "DateAcquired": "1990-05-02", 
+  "CreditLine": "Gift of the artist", 
   "Date": "October-December 1989.", 
   "ArtistID": 5726, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "227.1990.1-3", 
-  "ArtistBio": "American, born 1951", 
-  "CreditLine": "Gift of the artist", 
+  "ArtistBio": "(American, born 1951)", 
+  "DateAcquired": "1990-05-02", 
+  "\ufeffTitle": "Black Roses", 
   "ObjectID": "64768"
 }

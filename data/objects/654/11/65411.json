@@ -5,8 +5,7 @@
   "Artist": "Pablo Picasso", 
   "URL": "http://www.moma.org/collection/works/65411", 
   "CuratorApproved": "Y", 
-  "Title": "The Circus (Le Cirque)", 
-  "DateAcquired": "1947-10-16", 
+  "CreditLine": "Acquired through the Lillie P. Bliss Bequest", 
   "Date": "(December 23, 1945)", 
   "ArtistID": 4609, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "259.1947", 
-  "ArtistBio": "Spanish, 1881\u20131973", 
-  "CreditLine": "Acquired through the Lillie P. Bliss Bequest", 
+  "ArtistBio": "(Spanish, 1881\u20131973)", 
+  "DateAcquired": "1947-10-16", 
+  "\ufeffTitle": "The Circus (Le Cirque)", 
   "ObjectID": "65411"
 }

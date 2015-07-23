@@ -5,8 +5,7 @@
   "Artist": "Max Beckmann", 
   "URL": "http://www.moma.org/collection/works/66418", 
   "CuratorApproved": "Y", 
-  "Title": "The Caf\u00e9 Admiral", 
-  "DateAcquired": "1954-09-30", 
+  "CreditLine": "Gift of Samuel A. Berger", 
   "Date": "(1911, dated 1912, published c. 1917)", 
   "ArtistID": 429, 
   "Keywords": [
@@ -20,7 +19,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "300.1954", 
-  "ArtistBio": "German, 1884\u20131950", 
-  "CreditLine": "Gift of Samuel A. Berger", 
+  "ArtistBio": "(German, 1884\u20131950)", 
+  "DateAcquired": "1954-09-30", 
+  "\ufeffTitle": "The Caf\u00e9 Admiral (Admiralscaf\u00e9)", 
   "ObjectID": "66418"
 }

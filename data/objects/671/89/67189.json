@@ -1,12 +1,11 @@
 {
   "Medium": "Lift ground aquatint, aquatint, and soft ground etching", 
-  "Dimensions": "plate  47 15/16 x 37 11/16\" (121.7 x 95.8 cm)  sheet  60 13/16 x 48 5/16\" (154 x 122.8 cm)", 
+  "Dimensions": "plate  47 15/16 x 37 11/16\" (121.7 x 95.8 cm)\r\nsheet  60 13/16 x 48 5/16\" (154 x 122.8 cm)", 
   "Classification": "Print", 
   "Artist": "David Salle", 
   "URL": "http://www.moma.org/collection/works/67189", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled from the series Grandiose Synonym for Church", 
-  "DateAcquired": "1986-10-15", 
+  "CreditLine": "John B. Turner Fund", 
   "Date": "1985", 
   "ArtistID": 5124, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "337.1986", 
-  "ArtistBio": "American, born 1952", 
-  "CreditLine": "John B. Turner Fund", 
+  "ArtistBio": "(American, born 1952)", 
+  "DateAcquired": "1986-10-15", 
+  "\ufeffTitle": "Untitled from the series Grandiose Synonym for Church", 
   "ObjectID": "67189"
 }

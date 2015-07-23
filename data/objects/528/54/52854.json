@@ -5,8 +5,7 @@
   "Artist": "Josef Koudelka", 
   "URL": "http://www.moma.org/collection/works/52854", 
   "CuratorApproved": "Y", 
-  "Title": "Kadan", 
-  "DateAcquired": "1971-05-04", 
+  "CreditLine": "David H. McAlpin Fund", 
   "Date": "1963", 
   "ArtistID": 3229, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "409.1971", 
-  "ArtistBio": "Czech, born 1938", 
-  "CreditLine": "David H. McAlpin Fund", 
+  "ArtistBio": "(Czech, born 1938)", 
+  "DateAcquired": "1971-05-04", 
+  "\ufeffTitle": "Kadan", 
   "ObjectID": "52854"
 }

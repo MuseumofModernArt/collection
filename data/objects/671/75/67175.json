@@ -1,12 +1,11 @@
 {
   "Medium": "Lithograph, offset printed", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "Lothar Baumgarten", 
   "URL": "http://www.moma.org/collection/works/67175", 
   "CuratorApproved": "Y", 
-  "Title": "Land of the Spotted Eagle", 
-  "DateAcquired": "1998-05-14", 
+  "CreditLine": "Walter Bareiss Fund", 
   "Date": "1983", 
   "ArtistID": 393, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "336.1998", 
-  "ArtistBio": "German, born 1944", 
-  "CreditLine": "Walter Bareiss Fund", 
+  "ArtistBio": "(German, born 1944)", 
+  "DateAcquired": "1998-05-14", 
+  "\ufeffTitle": "Land of the Spotted Eagle", 
   "ObjectID": "67175"
 }

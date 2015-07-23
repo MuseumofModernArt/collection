@@ -5,8 +5,7 @@
   "Artist": "Louis Danziger", 
   "URL": "http://www.moma.org/collection/works/8082", 
   "CuratorApproved": "Y", 
-  "Title": "New York School, The First Generation", 
-  "DateAcquired": "1983-11-30", 
+  "CreditLine": "Gift of the designer", 
   "Date": "1965", 
   "ArtistID": 1384, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "765.1983", 
-  "ArtistBio": "American, born 1923", 
-  "CreditLine": "Gift of the designer", 
+  "ArtistBio": "(American, born 1923)", 
+  "DateAcquired": "1983-11-30", 
+  "\ufeffTitle": "New York School, The First Generation", 
   "ObjectID": "8082"
 }

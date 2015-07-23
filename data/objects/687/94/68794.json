@@ -5,8 +5,7 @@
   "Artist": "Jasper Johns", 
   "URL": "http://www.moma.org/collection/works/68794", 
   "CuratorApproved": "Y", 
-  "Title": "Savarin 5 (Corpse and Mirror)", 
-  "DateAcquired": "1978-05-22", 
+  "CreditLine": "Gift of Celeste Bartos", 
   "Date": "1978", 
   "ArtistID": 2923, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "420.1978", 
-  "ArtistBio": "American, born 1930", 
-  "CreditLine": "Gift of Celeste Bartos", 
+  "ArtistBio": "(American, born 1930)", 
+  "DateAcquired": "1978-05-22", 
+  "\ufeffTitle": "Savarin 5 (Corpse and Mirror)", 
   "ObjectID": "68794"
 }

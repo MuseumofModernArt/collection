@@ -1,12 +1,11 @@
 {
   "Medium": "Etching and aquatint", 
-  "Dimensions": "plate  7 1/2 x 9 15/16\" (19.1 x 25.2 cm)  sheet  11 7/16 x 13 13/16\" (29 x 35.1 cm)", 
+  "Dimensions": "plate  7 1/2 x 9 15/16\" (19.1 x 25.2 cm)\r\nsheet  11 7/16 x 13 13/16\" (29 x 35.1 cm)", 
   "Classification": "Print", 
   "Artist": "Helen Frankenthaler", 
   "URL": "http://www.moma.org/collection/works/59594", 
   "CuratorApproved": "Y", 
-  "Title": "Message from Degas", 
-  "DateAcquired": "1987-01-15", 
+  "CreditLine": "Gift of Barbara Pine", 
   "Date": "1972-74", 
   "ArtistID": 1974, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "2.1987", 
-  "ArtistBio": "American, 1928\u20132011", 
-  "CreditLine": "Gift of Barbara Pine", 
+  "ArtistBio": "(American, 1928\u20132011)", 
+  "DateAcquired": "1987-01-15", 
+  "\ufeffTitle": "Message from Degas", 
   "ObjectID": "59594"
 }

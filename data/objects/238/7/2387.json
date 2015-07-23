@@ -5,8 +5,7 @@
   "Artist": "Louis Comfort Tiffany", 
   "URL": "http://www.moma.org/collection/works/2387", 
   "CuratorApproved": "Y", 
-  "Title": "Vase with Base", 
-  "DateAcquired": "1958-12-04", 
+  "CreditLine": "Phyllis B. Lambert Fund", 
   "Date": "1910", 
   "ArtistID": 5876, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "175.1958.a-b", 
-  "ArtistBio": "American, 1848\u20131933", 
-  "CreditLine": "Phyllis B. Lambert Fund", 
+  "ArtistBio": "(American, 1848\u20131933)", 
+  "DateAcquired": "1958-12-04", 
+  "\ufeffTitle": "Vase with Base", 
   "ObjectID": "2387"
 }

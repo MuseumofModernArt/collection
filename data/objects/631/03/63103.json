@@ -5,8 +5,7 @@
   "Artist": "Henri de Toulouse-Lautrec", 
   "URL": "http://www.moma.org/collection/works/63103", 
   "CuratorApproved": "Y", 
-  "Title": "Cover for La Tribu d'Isidore", 
-  "DateAcquired": "1946-07-11", 
+  "CreditLine": "Gift of Abby Aldrich Rockefeller", 
   "Date": "1897", 
   "ArtistID": 5910, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "158.1946", 
-  "ArtistBio": "French, 1864\u20131901", 
-  "CreditLine": "Gift of Abby Aldrich Rockefeller", 
+  "ArtistBio": "(French, 1864\u20131901)", 
+  "DateAcquired": "1946-07-11", 
+  "\ufeffTitle": "Cover for La Tribu d'Isidore", 
   "ObjectID": "63103"
 }

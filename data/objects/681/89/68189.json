@@ -5,8 +5,7 @@
   "Artist": "Louise Bourgeois", 
   "URL": "http://www.moma.org/collection/works/68189", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled, plate 2, first version, state I, from He Disappeared into Complete Silence", 
-  "DateAcquired": "1993-11-17", 
+  "CreditLine": "Gift of the artist", 
   "Date": "(1946-1947)", 
   "ArtistID": 710, 
   "Keywords": [
@@ -21,7 +20,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "383.1993", 
-  "ArtistBio": "American, born France. 1911\u20132010", 
-  "CreditLine": "Gift of the artist", 
+  "ArtistBio": "(American, born France. 1911\u20132010)", 
+  "DateAcquired": "1993-11-17", 
+  "\ufeffTitle": "Untitled, plate 2, first version, state I, from He Disappeared into Complete Silence", 
   "ObjectID": "68189"
 }

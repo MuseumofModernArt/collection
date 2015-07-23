@@ -5,8 +5,7 @@
   "Artist": "Eduardo Paolozzi", 
   "URL": "http://www.moma.org/collection/works/5466", 
   "CuratorApproved": "Y", 
-  "Title": "Universal Electronic Vacuum 1967", 
-  "DateAcquired": "1968-03-07", 
+  "CreditLine": "Gift of the Pace Gallery", 
   "Date": "1967", 
   "ArtistID": 4488, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "170.1968", 
-  "ArtistBio": "British, 1924\u20132005", 
-  "CreditLine": "Gift of the Pace Gallery", 
+  "ArtistBio": "(British, 1924\u20132005)", 
+  "DateAcquired": "1968-03-07", 
+  "\ufeffTitle": "Universal Electronic Vacuum 1967", 
   "ObjectID": "5466"
 }

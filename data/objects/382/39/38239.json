@@ -5,8 +5,7 @@
   "Artist": "Giorgio de Chirico", 
   "URL": "http://www.moma.org/collection/works/38239", 
   "CuratorApproved": "Y", 
-  "Title": "The Condottiere", 
-  "DateAcquired": "1979-05-07", 
+  "CreditLine": "James Thrall Soby Bequest", 
   "Date": "(1917)", 
   "ArtistID": 1106, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "907.1979", 
-  "ArtistBio": "Italian, born Greece. 1888\u20131978", 
-  "CreditLine": "James Thrall Soby Bequest", 
+  "ArtistBio": "(Italian, born Greece. 1888\u20131978)", 
+  "DateAcquired": "1979-05-07", 
+  "\ufeffTitle": "The Condottiere", 
   "ObjectID": "38239"
 }

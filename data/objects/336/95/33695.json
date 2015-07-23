@@ -5,8 +5,7 @@
   "Artist": "Marie Laurencin", 
   "URL": "http://www.moma.org/collection/works/33695", 
   "CuratorApproved": "Y", 
-  "Title": "Girl's Head", 
-  "DateAcquired": "1934-09-23", 
+  "CreditLine": "Lillie P. Bliss Collection", 
   "Date": "(1916-18)", 
   "ArtistID": 3408, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "80.1934", 
-  "ArtistBio": "French, 1883\u20131956", 
-  "CreditLine": "Lillie P. Bliss Collection", 
+  "ArtistBio": "(French, 1883\u20131956)", 
+  "DateAcquired": "1934-09-23", 
+  "\ufeffTitle": "Girl's Head", 
   "ObjectID": "33695"
 }

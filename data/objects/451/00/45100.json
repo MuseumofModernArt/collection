@@ -5,8 +5,7 @@
   "Artist": "Charles H. Breed", 
   "URL": "http://www.moma.org/collection/works/45100", 
   "CuratorApproved": "Y", 
-  "Title": "Anne and Elizabeth Breed", 
-  "DateAcquired": "1986-01-15", 
+  "CreditLine": "Purchase", 
   "Date": "c. 1919", 
   "ArtistID": 757, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "55.1986", 
-  "ArtistBio": "American, 1876\u20131950", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, 1876\u20131950)", 
+  "DateAcquired": "1986-01-15", 
+  "\ufeffTitle": "Anne and Elizabeth Breed", 
   "ObjectID": "45100"
 }

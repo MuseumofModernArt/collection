@@ -5,8 +5,7 @@
   "Artist": "Julio Augusto Zachrisson", 
   "URL": "http://www.moma.org/collection/works/63211", 
   "CuratorApproved": "Y", 
-  "Title": "Icarus", 
-  "DateAcquired": "1970-03-05", 
+  "CreditLine": "Inter-American Fund", 
   "Date": "(1969)", 
   "ArtistID": 6531, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "147.1970", 
-  "ArtistBio": "Panamanian, born 1930", 
-  "CreditLine": "Inter-American Fund", 
+  "ArtistBio": "(Panamanian, born 1930)", 
+  "DateAcquired": "1970-03-05", 
+  "\ufeffTitle": "Icarus", 
   "ObjectID": "63211"
 }

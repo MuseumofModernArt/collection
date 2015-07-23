@@ -5,8 +5,7 @@
   "Artist": "Johannes Theodor Baargeld (Alfred Emanuel Ferdinand Gruenwald)", 
   "URL": "http://www.moma.org/collection/works/35978", 
   "CuratorApproved": "Y", 
-  "Title": "The Red King", 
-  "DateAcquired": "1937-12-03", 
+  "CreditLine": "Purchase", 
   "Date": "1920", 
   "ArtistID": 263, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "283.1937", 
-  "ArtistBio": "German, 1892\u20131927", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(German, 1892\u20131927)", 
+  "DateAcquired": "1937-12-03", 
+  "\ufeffTitle": "The Red King", 
   "ObjectID": "35978"
 }

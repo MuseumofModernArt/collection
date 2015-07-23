@@ -1,12 +1,11 @@
 {
   "Medium": "Lithograph", 
-  "Dimensions": "irreg. composition  13 3/4 x 9 15/16\" (35 x 25.3 cm)  sheet  15 7/8 x 11 15/16\" (40 x 30.4 cm)", 
+  "Dimensions": "irreg. composition  13 3/4 x 9 15/16\" (35 x 25.3 cm)\r\nsheet  15 7/8 x 11 15/16\" (40 x 30.4 cm)", 
   "Classification": "Print", 
   "Artist": "Charles Burchfield", 
   "URL": "http://www.moma.org/collection/works/67066", 
   "CuratorApproved": "Y", 
-  "Title": "Crows in March", 
-  "DateAcquired": "1988-10-25", 
+  "CreditLine": "Purchase", 
   "Date": "1951, printed 1952", 
   "ArtistID": 870, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "330.1988", 
-  "ArtistBio": "American, 1893\u20131967", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, 1893\u20131967)", 
+  "DateAcquired": "1988-10-25", 
+  "\ufeffTitle": "Crows in March", 
   "ObjectID": "67066"
 }

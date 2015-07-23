@@ -5,8 +5,7 @@
   "Artist": "Alfred Stieglitz", 
   "URL": "http://www.moma.org/collection/works/53358", 
   "CuratorApproved": "Y", 
-  "Title": "The Steerage", 
-  "DateAcquired": "1986-12-18", 
+  "CreditLine": "Purchase", 
   "Date": "1907", 
   "ArtistID": 5664, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "436.1986", 
-  "ArtistBio": "American, 1864\u20131946", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, 1864\u20131946)", 
+  "DateAcquired": "1986-12-18", 
+  "\ufeffTitle": "The Steerage", 
   "ObjectID": "53358"
 }

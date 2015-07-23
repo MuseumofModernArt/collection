@@ -5,8 +5,7 @@
   "Artist": "Carlo Moretti", 
   "URL": "http://www.moma.org/collection/works/4161", 
   "CuratorApproved": "Y", 
-  "Title": "Oval Drinking Glass", 
-  "DateAcquired": "1980-10-30", 
+  "CreditLine": "Greta Daniel Fund", 
   "Date": "c. 1954-80", 
   "ArtistID": 4088, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "643.1980", 
-  "ArtistBio": "Italian, born 1934", 
-  "CreditLine": "Greta Daniel Fund", 
+  "ArtistBio": "(Italian, born 1934)", 
+  "DateAcquired": "1980-10-30", 
+  "\ufeffTitle": "Oval Drinking Glass", 
   "ObjectID": "4161"
 }

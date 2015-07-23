@@ -5,8 +5,7 @@
   "Artist": "Frances Felten", 
   "URL": "http://www.moma.org/collection/works/2066", 
   "CuratorApproved": "Y", 
-  "Title": "Dish", 
-  "DateAcquired": "1948-03-17", 
+  "CreditLine": "Gift of Rena Rosenthal, Inc.", 
   "Date": "c. 1939", 
   "ArtistID": 1844, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "88.1948", 
-  "ArtistBio": "American, 1905\u20131976", 
-  "CreditLine": "Gift of Rena Rosenthal, Inc.", 
+  "ArtistBio": "(American, 1905\u20131976)", 
+  "DateAcquired": "1948-03-17", 
+  "\ufeffTitle": "Dish", 
   "ObjectID": "2066"
 }

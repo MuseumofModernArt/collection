@@ -5,8 +5,7 @@
   "Artist": "Otto Dix", 
   "URL": "http://www.moma.org/collection/works/35853", 
   "CuratorApproved": "Y", 
-  "Title": "A Soldier Writing", 
-  "DateAcquired": "1978-04-04", 
+  "CreditLine": "Gift in honor of Myron Orlofsky", 
   "Date": "1916", 
   "ArtistID": 1559, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "272.1978", 
-  "ArtistBio": "German, 1891\u20131969", 
-  "CreditLine": "Gift in honor of Myron Orlofsky", 
+  "ArtistBio": "(German, 1891\u20131969)", 
+  "DateAcquired": "1978-04-04", 
+  "\ufeffTitle": "A Soldier Writing (Schreibender Soldat)", 
   "ObjectID": "35853"
 }

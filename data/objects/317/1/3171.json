@@ -5,8 +5,7 @@
   "Artist": "Alvar Aalto", 
   "URL": "http://www.moma.org/collection/works/3171", 
   "CuratorApproved": "Y", 
-  "Title": "Cantilevered Stacking Side Chair", 
-  "DateAcquired": "1984-10-30", 
+  "CreditLine": "Lord & Taylor Fund", 
   "Date": "1930", 
   "ArtistID": 34, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "276.1984", 
-  "ArtistBio": "Finnish, 1898\u20131976", 
-  "CreditLine": "Lord & Taylor Fund", 
+  "ArtistBio": "(Finnish, 1898\u20131976)", 
+  "DateAcquired": "1984-10-30", 
+  "\ufeffTitle": "Cantilevered Stacking Side Chair", 
   "ObjectID": "3171"
 }

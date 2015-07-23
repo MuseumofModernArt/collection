@@ -5,8 +5,7 @@
   "Artist": "Eugenio Dittborn", 
   "URL": "http://www.moma.org/collection/works/66602", 
   "CuratorApproved": "Y", 
-  "Title": "8 Sobrevivientes (8 Survivors)", 
-  "DateAcquired": "1986-10-15", 
+  "CreditLine": "Purchase", 
   "Date": "1986", 
   "ArtistID": 1557, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "308.1986.a-b", 
-  "ArtistBio": "Chilean, born 1943", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(Chilean, born 1943)", 
+  "DateAcquired": "1986-10-15", 
+  "\ufeffTitle": "8 Sobrevivientes (8 Survivors)", 
   "ObjectID": "66602"
 }

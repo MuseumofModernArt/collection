@@ -5,8 +5,7 @@
   "Artist": "Rachel Whiteread", 
   "URL": "http://www.moma.org/collection/works/38722", 
   "CuratorApproved": "Y", 
-  "Title": "Drawing for Water Tower, III", 
-  "DateAcquired": "2000-12-12", 
+  "CreditLine": "Purchase", 
   "Date": "(1997)", 
   "ArtistID": 6910, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "1625.2000", 
-  "ArtistBio": "British, born 1963", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(British, born 1963)", 
+  "DateAcquired": "2000-12-12", 
+  "\ufeffTitle": "Drawing for Water Tower, III", 
   "ObjectID": "38722"
 }

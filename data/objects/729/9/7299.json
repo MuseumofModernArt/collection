@@ -5,8 +5,7 @@
   "Artist": "Elena Serrano", 
   "URL": "http://www.moma.org/collection/works/7299", 
   "CuratorApproved": "Y", 
-  "Title": "Day of the Heroic Guerrilla", 
-  "DateAcquired": "1987-11-18", 
+  "CreditLine": "Gift of OSPAAAL", 
   "Date": "1968", 
   "ArtistID": 5351, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "503.1987", 
-  "ArtistBio": "Cuban", 
-  "CreditLine": "Gift of OSPAAAL", 
+  "ArtistBio": "(Cuban)", 
+  "DateAcquired": "1987-11-18", 
+  "\ufeffTitle": "Day of the Heroic Guerrilla", 
   "ObjectID": "7299"
 }

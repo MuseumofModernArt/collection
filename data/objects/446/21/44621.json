@@ -5,8 +5,7 @@
   "Artist": "Lewis W. Hine", 
   "URL": "http://www.moma.org/collection/works/44621", 
   "CuratorApproved": "Y", 
-  "Title": "American Locomotice Engineer", 
-  "DateAcquired": "1974-01-29", 
+  "CreditLine": "Stephen R. Currier Memorial Fund", 
   "Date": "1930", 
   "ArtistID": 2657, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "43.1974", 
-  "ArtistBio": "American, 1874\u20131940", 
-  "CreditLine": "Stephen R. Currier Memorial Fund", 
+  "ArtistBio": "(American, 1874\u20131940)", 
+  "DateAcquired": "1974-01-29", 
+  "\ufeffTitle": "American Locomotice Engineer", 
   "ObjectID": "44621"
 }

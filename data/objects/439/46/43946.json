@@ -5,8 +5,7 @@
   "Artist": "Rogi Andr\u00e9 (Rozsa Klein)", 
   "URL": "http://www.moma.org/collection/works/43946", 
   "CuratorApproved": "Y", 
-  "Title": "Jacques Lipchitz", 
-  "DateAcquired": "1940-04-05", 
+  "CreditLine": "Gift of Frank Crowninshield", 
   "Date": "1935", 
   "ArtistID": 4996, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "10.1940", 
-  "ArtistBio": "Hungarian, 1905\u20131970", 
-  "CreditLine": "Gift of Frank Crowninshield", 
+  "ArtistBio": "(Hungarian, 1905\u20131970)", 
+  "DateAcquired": "1940-04-05", 
+  "\ufeffTitle": "Jacques Lipchitz", 
   "ObjectID": "43946"
 }

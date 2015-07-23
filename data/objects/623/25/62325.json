@@ -5,8 +5,7 @@
   "Artist": "Keith Milow", 
   "URL": "http://www.moma.org/collection/works/62325", 
   "CuratorApproved": "Y", 
-  "Title": "Pr3nt A", 
-  "DateAcquired": "1970-03-05", 
+  "CreditLine": "Given anonymously", 
   "Date": "1969", 
   "ArtistID": 3995, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "126.1970", 
-  "ArtistBio": "British, born 1945", 
-  "CreditLine": "Given anonymously", 
+  "ArtistBio": "(British, born 1945)", 
+  "DateAcquired": "1970-03-05", 
+  "\ufeffTitle": "Pr3nt A", 
   "ObjectID": "62325"
 }

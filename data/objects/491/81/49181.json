@@ -5,8 +5,7 @@
   "Artist": "Ilse Bing", 
   "URL": "http://www.moma.org/collection/works/49181", 
   "CuratorApproved": "Y", 
-  "Title": "French Cancan, Moulin Rouge, Paris", 
-  "DateAcquired": "1985-10-02", 
+  "CreditLine": "Gift of the photographer", 
   "Date": "1931", 
   "ArtistID": 561, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "229.1985", 
-  "ArtistBio": "American, born Germany. 1899\u20131998", 
-  "CreditLine": "Gift of the photographer", 
+  "ArtistBio": "(American, born Germany. 1899\u20131998)", 
+  "DateAcquired": "1985-10-02", 
+  "\ufeffTitle": "French Cancan, Moulin Rouge, Paris", 
   "ObjectID": "49181"
 }

@@ -5,8 +5,7 @@
   "Artist": "G\u00fcnter Grass", 
   "URL": "http://www.moma.org/collection/works/68583", 
   "CuratorApproved": "Y", 
-  "Title": "Golda", 
-  "DateAcquired": "1978-05-22", 
+  "CreditLine": "Gift of Howard Zuker", 
   "Date": "1973", 
   "ArtistID": 2300, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "407.1978", 
-  "ArtistBio": "German", 
-  "CreditLine": "Gift of Howard Zuker", 
+  "ArtistBio": "(German)", 
+  "DateAcquired": "1978-05-22", 
+  "\ufeffTitle": "Golda", 
   "ObjectID": "68583"
 }

@@ -5,8 +5,7 @@
   "Artist": "Antonio Segui", 
   "URL": "http://www.moma.org/collection/works/38164", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1969-10-28", 
+  "CreditLine": "Inter-American Fund", 
   "Date": "1967", 
   "ArtistID": 5319, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "843.1969", 
-  "ArtistBio": "Argentine, born 1934", 
-  "CreditLine": "Inter-American Fund", 
+  "ArtistBio": "(Argentine, born 1934)", 
+  "DateAcquired": "1969-10-28", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "38164"
 }

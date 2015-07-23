@@ -5,8 +5,7 @@
   "Artist": "Lee Conklin", 
   "URL": "http://www.moma.org/collection/works/8074", 
   "CuratorApproved": "Y", 
-  "Title": "Procol Harum", 
-  "DateAcquired": "1983-11-30", 
+  "CreditLine": "Gift of the designer", 
   "Date": "1969", 
   "ArtistID": 1213, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "762.1983", 
-  "ArtistBio": "American, born 1941", 
-  "CreditLine": "Gift of the designer", 
+  "ArtistBio": "(American, born 1941)", 
+  "DateAcquired": "1983-11-30", 
+  "\ufeffTitle": "Procol Harum", 
   "ObjectID": "8074"
 }

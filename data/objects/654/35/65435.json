@@ -5,8 +5,7 @@
   "Artist": "Louise Bourgeois", 
   "URL": "http://www.moma.org/collection/works/65435", 
   "CuratorApproved": "Y", 
-  "Title": "Bosom Lady, plate 9 of 9, state V of V, from the portfolio, Quarantania", 
-  "DateAcquired": "1992-05-20", 
+  "CreditLine": "Gift of the artist", 
   "Date": "1948, reprinted 1990", 
   "ArtistID": 710, 
   "Keywords": [
@@ -21,7 +20,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "259.1992.9", 
-  "ArtistBio": "American, born France. 1911\u20132010", 
-  "CreditLine": "Gift of the artist", 
+  "ArtistBio": "(American, born France. 1911\u20132010)", 
+  "DateAcquired": "1992-05-20", 
+  "\ufeffTitle": "Bosom Lady, plate 9 of 9, from the portfolio, Quarantania", 
   "ObjectID": "65435"
 }

@@ -5,8 +5,7 @@
   "Artist": "Georges Braque", 
   "URL": "http://www.moma.org/collection/works/66824", 
   "CuratorApproved": "Y", 
-  "Title": "Helios", 
-  "DateAcquired": "1948-10-06", 
+  "CreditLine": "Gift of Victor S. Riesenfeld", 
   "Date": "(1946)", 
   "ArtistID": 744, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "318.1948", 
-  "ArtistBio": "French, 1882\u20131963", 
-  "CreditLine": "Gift of Victor S. Riesenfeld", 
+  "ArtistBio": "(French, 1882\u20131963)", 
+  "DateAcquired": "1948-10-06", 
+  "\ufeffTitle": "Helios", 
   "ObjectID": "66824"
 }

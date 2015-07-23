@@ -5,8 +5,7 @@
   "Artist": "Pablo Picasso", 
   "URL": "http://www.moma.org/collection/works/29306", 
   "CuratorApproved": "Y", 
-  "Title": "Painter Working, Observed by Nude Model, plate VIII (facing page 6) from Le Chef-d'oeuvre inconnu", 
-  "DateAcquired": "1964-10-06", 
+  "CreditLine": "The Louis E. Stern Collection", 
   "Date": "(Print executed 1927-1928)", 
   "ArtistID": 4609, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "967.1964.2", 
-  "ArtistBio": "Spanish, 1881\u20131973", 
-  "CreditLine": "The Louis E. Stern Collection", 
+  "ArtistBio": "(Spanish, 1881\u20131973)", 
+  "DateAcquired": "1964-10-06", 
+  "\ufeffTitle": "Painter Working, Observed by Nude Model, plate VIII from the illustrated book Le Chef-d'oeuvre inconnu", 
   "ObjectID": "29306"
 }

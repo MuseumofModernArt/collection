@@ -5,8 +5,7 @@
   "Artist": "John Walker", 
   "URL": "http://www.moma.org/collection/works/68215", 
   "CuratorApproved": "Y", 
-  "Title": "Blackboard Series", 
-  "DateAcquired": "1974-09-11", 
+  "CreditLine": "Abby Aldrich Rockefeller Fund", 
   "Date": "1973", 
   "ArtistID": 6220, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "385.1974.1-12", 
-  "ArtistBio": "British, born 1939", 
-  "CreditLine": "Abby Aldrich Rockefeller Fund", 
+  "ArtistBio": "(British, born 1939)", 
+  "DateAcquired": "1974-09-11", 
+  "\ufeffTitle": "Blackboard Series", 
   "ObjectID": "68215"
 }

@@ -1,12 +1,11 @@
 {
   "Medium": "Illustrated book with fifty lithographs and one supplementary crayon drawing", 
-  "Dimensions": "page  12 3/16 x 9 7/16\" (31 x 24 cm)  Prints:  various dimensions.", 
+  "Dimensions": "page  12 3/16 x 9 7/16\" (31 x 24 cm)\r\nPrints:  various dimensions.", 
   "Classification": "Illustrated Book", 
   "Artist": "Sidney Nolan", 
   "URL": "http://www.moma.org/collection/works/9247", 
   "CuratorApproved": "Y", 
-  "Title": "Paradise Garden", 
-  "DateAcquired": "1972-02-07", 
+  "CreditLine": "Gift of the artist", 
   "Date": "1971", 
   "ArtistID": 4325, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "17.1972.1-52", 
-  "ArtistBio": "Australian, 1917\u20131992", 
-  "CreditLine": "Gift of the artist", 
+  "ArtistBio": "(Australian, 1917\u20131992)", 
+  "DateAcquired": "1972-02-07", 
+  "\ufeffTitle": "Paradise Garden", 
   "ObjectID": "9247"
 }

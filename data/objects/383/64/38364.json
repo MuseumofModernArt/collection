@@ -5,8 +5,7 @@
   "Artist": "L\u00e9on H. Tutundjian", 
   "URL": "http://www.moma.org/collection/works/38364", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1985-09-10", 
+  "CreditLine": "The Riklis Collection of McCrory Corporation", 
   "Date": "1928", 
   "ArtistID": 5984, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "971.1983", 
-  "ArtistBio": "Russian, 1905\u20131968", 
-  "CreditLine": "The Riklis Collection of McCrory Corporation", 
+  "ArtistBio": "(Russian, 1905\u20131968)", 
+  "DateAcquired": "1985-09-10", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "38364"
 }

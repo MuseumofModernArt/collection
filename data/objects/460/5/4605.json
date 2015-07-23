@@ -5,8 +5,7 @@
   "Artist": "Vico Magistretti", 
   "URL": "http://www.moma.org/collection/works/4605", 
   "CuratorApproved": "Y", 
-  "Title": "Eclisse Table Lamp", 
-  "DateAcquired": "1968-10-07", 
+  "CreditLine": "Gift of Scarabaeus Ltd. and Moroddi, Inc.", 
   "Date": "1966", 
   "ArtistID": 3688, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "1223.1968", 
-  "ArtistBio": "Italian, 1920\u20132006", 
-  "CreditLine": "Gift of Scarabaeus Ltd. and Moroddi, Inc.", 
+  "ArtistBio": "(Italian, 1920\u20132006)", 
+  "DateAcquired": "1968-10-07", 
+  "\ufeffTitle": "Eclisse Table Lamp", 
   "ObjectID": "4605"
 }

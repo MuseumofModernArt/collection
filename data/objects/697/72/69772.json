@@ -1,12 +1,11 @@
 {
   "Medium": "Screenprint with varnish additions from a portfolio of ten screenprints and one embossing", 
-  "Dimensions": "composition and sheet: 33 3/4 x 26 3/4\" (85.8 x 67.9 cm)  ", 
+  "Dimensions": "composition and sheet: 33 3/4 x 26 3/4\" (85.8 x 67.9 cm)\r\n", 
   "Classification": "Print", 
   "Artist": "Marc Quinn", 
   "URL": "http://www.moma.org/collection/works/69772", 
   "CuratorApproved": "Y", 
-  "Title": "Template For My Future Plastic Surgery from London", 
-  "DateAcquired": "1992-11-04", 
+  "CreditLine": "Purchase", 
   "Date": "(1992)", 
   "ArtistID": 6908, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "477.1992", 
-  "ArtistBio": "British, born 1964", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(British, born 1964)", 
+  "DateAcquired": "1992-11-04", 
+  "\ufeffTitle": "Template For My Future Plastic Surgery from London", 
   "ObjectID": "69772"
 }

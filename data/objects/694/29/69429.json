@@ -5,8 +5,7 @@
   "Artist": "Jacques Villon", 
   "URL": "http://www.moma.org/collection/works/69429", 
   "CuratorApproved": "Y", 
-  "Title": "The Game of Backgammon", 
-  "DateAcquired": "1954-09-30", 
+  "CreditLine": "Larry Aldrich Fund", 
   "Date": "(1903)", 
   "ArtistID": 6165, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "458.1954", 
-  "ArtistBio": "French, 1875\u20131963", 
-  "CreditLine": "Larry Aldrich Fund", 
+  "ArtistBio": "(French, 1875\u20131963)", 
+  "DateAcquired": "1954-09-30", 
+  "\ufeffTitle": "The Game of Backgammon", 
   "ObjectID": "69429"
 }

@@ -5,8 +5,7 @@
   "Artist": "Bill Cunningham/The New York Times", 
   "URL": "http://www.moma.org/collection/works/58575", 
   "CuratorApproved": "Y", 
-  "Title": "At the Save the Children Party", 
-  "DateAcquired": "2001-06-14", 
+  "CreditLine": "The New York Times Collection", 
   "Date": "November 1981", 
   "ArtistID": 8526, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "1982.2001", 
-  "ArtistBio": "American, born 1929", 
-  "CreditLine": "The New York Times Collection", 
+  "ArtistBio": "(American, born 1929)", 
+  "DateAcquired": "2001-06-14", 
+  "\ufeffTitle": "At the Save the Children Party", 
   "ObjectID": "58575"
 }

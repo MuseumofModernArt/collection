@@ -5,8 +5,7 @@
   "Artist": "Amedeo Modigliani", 
   "URL": "http://www.moma.org/collection/works/36596", 
   "CuratorApproved": "Y", 
-  "Title": "Motherhood", 
-  "DateAcquired": "1960-11-16", 
+  "CreditLine": "John S. Newberry Collection", 
   "Date": "(1916)", 
   "ArtistID": 4038, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "380.1960", 
-  "ArtistBio": "Italian, 1884\u20131920", 
-  "CreditLine": "John S. Newberry Collection", 
+  "ArtistBio": "(Italian, 1884\u20131920)", 
+  "DateAcquired": "1960-11-16", 
+  "\ufeffTitle": "Motherhood", 
   "ObjectID": "36596"
 }

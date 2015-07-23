@@ -5,8 +5,7 @@
   "Artist": "Richard Deacon", 
   "URL": "http://www.moma.org/collection/works/67316", 
   "CuratorApproved": "Y", 
-  "Title": "Muzot", 
-  "DateAcquired": "1987-10-20", 
+  "CreditLine": "Contemporary Arts Council Fund", 
   "Date": "1987", 
   "ArtistID": 1456, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "343.1987.1-4", 
-  "ArtistBio": "British, born 1949", 
-  "CreditLine": "Contemporary Arts Council Fund", 
+  "ArtistBio": "(British, born 1949)", 
+  "DateAcquired": "1987-10-20", 
+  "\ufeffTitle": "Muzot", 
   "ObjectID": "67316"
 }

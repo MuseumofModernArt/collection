@@ -1,12 +1,11 @@
 {
   "Medium": "Two screenprints", 
-  "Dimensions": "composition  22 13/16 x 60 9/16\" (58 x 153.8 cm)  sheet  25 1/8 x 62 3/16\" (63.8 x 158 cm)", 
+  "Dimensions": "composition  22 13/16 x 60 9/16\" (58 x 153.8 cm)\r\nsheet  25 1/8 x 62 3/16\" (63.8 x 158 cm)", 
   "Classification": "Print", 
   "Artist": "Carlos Irizarry", 
   "URL": "http://www.moma.org/collection/works/63680", 
   "CuratorApproved": "Y", 
-  "Title": "My Son, the Soldier (Parts I-II)", 
-  "DateAcquired": "1970-05-12", 
+  "CreditLine": "San Juan Racing Association Fund", 
   "Date": "1970", 
   "ArtistID": 2825, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "176.1970.1-2", 
-  "ArtistBio": "American, born Puerto Rico 1938", 
-  "CreditLine": "San Juan Racing Association Fund", 
+  "ArtistBio": "(American, born Puerto Rico 1938)", 
+  "DateAcquired": "1970-05-12", 
+  "\ufeffTitle": "My Son, the Soldier (Parts I-II)", 
   "ObjectID": "63680"
 }

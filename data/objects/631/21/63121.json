@@ -5,8 +5,7 @@
   "Artist": "Vik Muniz", 
   "URL": "http://www.moma.org/collection/works/63121", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "2000-03-02", 
+  "CreditLine": "Anonymously given", 
   "Date": "1999", 
   "ArtistID": 7818, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "145.2000", 
-  "ArtistBio": "Brazilian, born 1961", 
-  "CreditLine": "Anonymously given", 
+  "ArtistBio": "(Brazilian, born 1961)", 
+  "DateAcquired": "2000-03-02", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "63121"
 }

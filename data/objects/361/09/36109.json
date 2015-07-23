@@ -1,12 +1,11 @@
 {
   "Medium": "Cont\u00e9 crayon on paper", 
-  "Dimensions": "26 1/2 x 37 5/8\" (66.5 x 95.5 cm)  ", 
+  "Dimensions": "26 1/2 x 37 5/8\" (66.5 x 95.5 cm)\r\n", 
   "Classification": "Drawing", 
   "Artist": "Le Corbusier (Charles-\u00c9douard Jeanneret)", 
   "URL": "http://www.moma.org/collection/works/36109", 
   "CuratorApproved": "Y", 
-  "Title": "Still Life with Objects", 
-  "DateAcquired": "1989-11-21", 
+  "CreditLine": "Gift of Lily Auchincloss", 
   "Date": "1923", 
   "ArtistID": 3426, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "303.1989", 
-  "ArtistBio": "French, born Switzerland. 1887\u20131965", 
-  "CreditLine": "Gift of Lily Auchincloss", 
+  "ArtistBio": "(French, born Switzerland. 1887\u20131965)", 
+  "DateAcquired": "1989-11-21", 
+  "\ufeffTitle": "Still Life with Objects", 
   "ObjectID": "36109"
 }

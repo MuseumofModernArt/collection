@@ -5,8 +5,7 @@
   "Artist": "Marion Post Wolcott", 
   "URL": "http://www.moma.org/collection/works/55048", 
   "CuratorApproved": "Y", 
-  "Title": "Post Office, Aspen, Colorado", 
-  "DateAcquired": "1981-12-17", 
+  "CreditLine": "Gift of Arthur Rothstein", 
   "Date": "1941", 
   "ArtistID": 6426, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "552.1981", 
-  "ArtistBio": "American, 1910\u20131990", 
-  "CreditLine": "Gift of Arthur Rothstein", 
+  "ArtistBio": "(American, 1910\u20131990)", 
+  "DateAcquired": "1981-12-17", 
+  "\ufeffTitle": "Post Office, Aspen, Colorado", 
   "ObjectID": "55048"
 }

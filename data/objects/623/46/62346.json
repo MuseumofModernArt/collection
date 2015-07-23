@@ -5,8 +5,7 @@
   "Artist": "Maurice Denis", 
   "URL": "http://www.moma.org/collection/works/62346", 
   "CuratorApproved": "Y", 
-  "Title": "Mother and Child", 
-  "DateAcquired": "1947-06-17", 
+  "CreditLine": "Gift of Abby Aldrich Rockefeller", 
   "Date": "(1897)", 
   "ArtistID": 1492, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "127.1947", 
-  "ArtistBio": "French, 1870\u20131943", 
-  "CreditLine": "Gift of Abby Aldrich Rockefeller", 
+  "ArtistBio": "(French, 1870\u20131943)", 
+  "DateAcquired": "1947-06-17", 
+  "\ufeffTitle": "Mother and Child", 
   "ObjectID": "62346"
 }

@@ -5,8 +5,7 @@
   "Artist": "Trude Fleischmann", 
   "URL": "http://www.moma.org/collection/works/52613", 
   "CuratorApproved": "Y", 
-  "Title": "Campground, Istria, Italy", 
-  "DateAcquired": "1992-10-15", 
+  "CreditLine": "Robert and Joyce Menschel Fund", 
   "Date": "1931", 
   "ArtistID": 1914, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "400.1992", 
-  "ArtistBio": "American, born Austria. 1895\u20131990", 
-  "CreditLine": "Robert and Joyce Menschel Fund", 
+  "ArtistBio": "(American, born Austria. 1895\u20131990)", 
+  "DateAcquired": "1992-10-15", 
+  "\ufeffTitle": "Campground, Istria, Italy", 
   "ObjectID": "52613"
 }

@@ -5,8 +5,7 @@
   "Artist": "J. De Praetre", 
   "URL": "http://www.moma.org/collection/works/6898", 
   "CuratorApproved": "Y", 
-  "Title": "Ausstellung von Schulbildern", 
-  "DateAcquired": "1985-11-18", 
+  "CreditLine": "Leonard and Evelyn Lauder Fund", 
   "Date": "1901", 
   "ArtistID": 1442, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "431.1985", 
-  "ArtistBio": "German, 1879\u20131947", 
-  "CreditLine": "Leonard and Evelyn Lauder Fund", 
+  "ArtistBio": "(German, 1879\u20131947)", 
+  "DateAcquired": "1985-11-18", 
+  "\ufeffTitle": "Ausstellung von Schulbildern", 
   "ObjectID": "6898"
 }

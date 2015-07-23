@@ -1,12 +1,11 @@
 {
-  "Medium": "Illustrated book with twenty photolithographs", 
+  "Medium": "Artist's book, offset printed", 
   "Dimensions": "page (each): 12 13/16 x 9 3/4\" (32.5 x 24.7 cm); overall (closed): 12 13/16 x 9 13/16 x 1/8\" (32.5 x 25 x 0.3 cm)", 
   "Classification": "Illustrated Book", 
   "Artist": "Marcel Broodthaers", 
   "URL": "http://www.moma.org/collection/works/12805", 
   "CuratorApproved": "Y", 
-  "Title": "Un Coup de d\u00e9s jamais n'abolira le hasard", 
-  "DateAcquired": "1994-01-25", 
+  "CreditLine": "Acquired through the generosity of Howard B. Johnson in honor of Riva Castleman", 
   "Date": "1969", 
   "ArtistID": 795, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "178.1994.1-20", 
-  "ArtistBio": "Belgian, 1924\u20131976", 
-  "CreditLine": "Acquired through the generosity of Howard B. Johnson in honor of Riva Castleman", 
+  "ArtistBio": "(Belgian, 1924\u20131976)", 
+  "DateAcquired": "1994-01-25", 
+  "\ufeffTitle": "Un Coup de d\u00e9s jamais n'abolira le hasard", 
   "ObjectID": "12805"
 }

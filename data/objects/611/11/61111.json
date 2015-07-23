@@ -5,8 +5,7 @@
   "Artist": "Lovis Corinth", 
   "URL": "http://www.moma.org/collection/works/61111", 
   "CuratorApproved": "Y", 
-  "Title": "Self-Portrait", 
-  "DateAcquired": "1954-04-06", 
+  "CreditLine": "Given anonymously", 
   "Date": "(1923)", 
   "ArtistID": 1243, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "60.1954", 
-  "ArtistBio": "German, 1858\u20131925", 
-  "CreditLine": "Given anonymously", 
+  "ArtistBio": "(German, 1858\u20131925)", 
+  "DateAcquired": "1954-04-06", 
+  "\ufeffTitle": "Self-Portrait (Selbstbildnis)", 
   "ObjectID": "61111"
 }

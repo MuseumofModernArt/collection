@@ -5,8 +5,7 @@
   "Artist": "Pablo Picasso", 
   "URL": "http://www.moma.org/collection/works/29304", 
   "CuratorApproved": "Y", 
-  "Title": "Painter and Model Knitting (Peintre et mod\u00e8le tricotant), plate IV (facing page 90) from Le Chef-d'oeuvre inconnu", 
-  "DateAcquired": "1964-10-06", 
+  "CreditLine": "The Louis E. Stern Collection", 
   "Date": "Beginning of 1927", 
   "ArtistID": 4609, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "967.1964.12", 
-  "ArtistBio": "Spanish, 1881\u20131973", 
-  "CreditLine": "The Louis E. Stern Collection", 
+  "ArtistBio": "(Spanish, 1881\u20131973)", 
+  "DateAcquired": "1964-10-06", 
+  "\ufeffTitle": "Painter and Model Knitting, plate IV from the illustrated book Le Chef-d'oeuvre inconnu", 
   "ObjectID": "29304"
 }

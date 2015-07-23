@@ -5,8 +5,7 @@
   "Artist": "Bruno Mathsson", 
   "URL": "http://www.moma.org/collection/works/4458", 
   "CuratorApproved": "Y", 
-  "Title": "Eva Side Chair (T101)", 
-  "DateAcquired": "1942-01-01", 
+  "CreditLine": "Purchase", 
   "Date": "1934", 
   "ArtistID": 3830, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "831.1942", 
-  "ArtistBio": "Swedish, 1907\u20131988", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(Swedish, 1907\u20131988)", 
+  "DateAcquired": "1942-01-01", 
+  "\ufeffTitle": "Eva Side Chair (T101)", 
   "ObjectID": "4458"
 }

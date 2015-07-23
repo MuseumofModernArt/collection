@@ -5,8 +5,7 @@
   "Artist": "Joe Rosenthal/Times World Wide Photos", 
   "URL": "http://www.moma.org/collection/works/58685", 
   "CuratorApproved": "Y", 
-  "Title": "F.D.R. Reviewing Fleet off San Francisco", 
-  "DateAcquired": "2001-06-14", 
+  "CreditLine": "The New York Times Collection", 
   "Date": "July 6, 1938", 
   "ArtistID": 8612, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "2092.2001", 
-  "ArtistBio": "American, born 1911", 
-  "CreditLine": "The New York Times Collection", 
+  "ArtistBio": "(American, born 1911)", 
+  "DateAcquired": "2001-06-14", 
+  "\ufeffTitle": "\"F.D.R. Reviewing Fleet off San Francisco\"", 
   "ObjectID": "58685"
 }

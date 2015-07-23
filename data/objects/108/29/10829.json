@@ -5,8 +5,7 @@
   "Artist": "Olga Rozanova", 
   "URL": "http://www.moma.org/collection/works/10829", 
   "CuratorApproved": "Y", 
-  "Title": "Chort i rechetvortsy", 
-  "DateAcquired": "2001-01-24", 
+  "CreditLine": "Gift of The Judith Rothschild Foundation", 
   "Date": "1913", 
   "ArtistID": 5066, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "56.2001", 
-  "ArtistBio": "Russian, 1886\u20131918", 
-  "CreditLine": "Gift of The Judith Rothschild Foundation", 
+  "ArtistBio": "(Russian, 1886\u20131918)", 
+  "DateAcquired": "2001-01-24", 
+  "\ufeffTitle": "Chort i rechetvortsy", 
   "ObjectID": "10829"
 }

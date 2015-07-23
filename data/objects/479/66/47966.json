@@ -5,8 +5,7 @@
   "Artist": "Gene Kennedy", 
   "URL": "http://www.moma.org/collection/works/47966", 
   "CuratorApproved": "Y", 
-  "Title": "Sonata Development, San Pasqual, San Diego County, California", 
-  "DateAcquired": "1983-01-13", 
+  "CreditLine": "The Family of Man Fund", 
   "Date": "1982", 
   "ArtistID": 3061, 
   "Keywords": [
@@ -20,7 +19,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "185.1983", 
-  "ArtistBio": "American, born 1946", 
-  "CreditLine": "The Family of Man Fund", 
+  "ArtistBio": "(American, born 1946)", 
+  "DateAcquired": "1983-01-13", 
+  "\ufeffTitle": "\"Sonata\" Development, San Pasqual, San Diego County, California", 
   "ObjectID": "47966"
 }

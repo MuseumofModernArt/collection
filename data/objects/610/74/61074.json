@@ -5,8 +5,7 @@
   "Artist": "Giorgio de Chirico", 
   "URL": "http://www.moma.org/collection/works/61074", 
   "CuratorApproved": "Y", 
-  "Title": "The Archeologists IV from the portfolio Metamorphosis", 
-  "DateAcquired": "1954-04-06", 
+  "CreditLine": "Gift of Mrs. Stanley Resor", 
   "Date": "(1931)", 
   "ArtistID": 1106, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "58.1954", 
-  "ArtistBio": "Italian, born Greece. 1888\u20131978", 
-  "CreditLine": "Gift of Mrs. Stanley Resor", 
+  "ArtistBio": "(Italian, born Greece. 1888\u20131978)", 
+  "DateAcquired": "1954-04-06", 
+  "\ufeffTitle": "The Archeologists IV from the portfolio Metamorphosis", 
   "ObjectID": "61074"
 }

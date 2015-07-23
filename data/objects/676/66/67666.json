@@ -1,12 +1,11 @@
 {
   "Medium": "Etching", 
-  "Dimensions": "plate  23 9/16 x 17 11/16\" (59.8 x 44.9 cm)  sheet  41 1/16 x 27 7/16\" (104.3 x 69.7 cm)", 
+  "Dimensions": "plate  23 9/16 x 17 11/16\" (59.8 x 44.9 cm)\r\nsheet  41 1/16 x 27 7/16\" (104.3 x 69.7 cm)", 
   "Classification": "Print", 
   "Artist": "Marisol (Marisol Escobar)", 
   "URL": "http://www.moma.org/collection/works/67666", 
   "CuratorApproved": "Y", 
-  "Title": "Self Portrait", 
-  "DateAcquired": "1973-10-24", 
+  "CreditLine": "Gift of Celeste Bartos", 
   "Date": "1970, printed and dated 1973", 
   "ArtistID": 3774, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "359.1973", 
-  "ArtistBio": "Venezuelan, born France 1930", 
-  "CreditLine": "Gift of Celeste Bartos", 
+  "ArtistBio": "(Venezuelan, born France 1930)", 
+  "DateAcquired": "1973-10-24", 
+  "\ufeffTitle": "Self Portrait", 
   "ObjectID": "67666"
 }

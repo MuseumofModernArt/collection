@@ -5,8 +5,7 @@
   "Artist": "Georgia O'Keeffe", 
   "URL": "http://www.moma.org/collection/works/37328", 
   "CuratorApproved": "Y", 
-  "Title": "An Orchid", 
-  "DateAcquired": "1990-10-25", 
+  "CreditLine": "Bequest of Georgia O'Keeffe", 
   "Date": "(1941)", 
   "ArtistID": 4360, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "556.1990", 
-  "ArtistBio": "American, 1887\u20131986", 
-  "CreditLine": "Bequest of Georgia O'Keeffe", 
+  "ArtistBio": "(American, 1887\u20131986)", 
+  "DateAcquired": "1990-10-25", 
+  "\ufeffTitle": "An Orchid", 
   "ObjectID": "37328"
 }

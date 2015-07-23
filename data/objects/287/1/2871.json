@@ -5,8 +5,7 @@
   "Artist": "Vera Liskov\u00e1", 
   "URL": "http://www.moma.org/collection/works/2871", 
   "CuratorApproved": "Y", 
-  "Title": "Tumbler", 
-  "DateAcquired": "1953-04-07", 
+  "CreditLine": "Gift of A. J. Van Dugteren & Sons, Inc.", 
   "Date": "1948", 
   "ArtistID": 3568, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "231.1953", 
-  "ArtistBio": "Czech, 1924\u20131979", 
-  "CreditLine": "Gift of A. J. Van Dugteren & Sons, Inc.", 
+  "ArtistBio": "(Czech, 1924\u20131979)", 
+  "DateAcquired": "1953-04-07", 
+  "\ufeffTitle": "Tumbler", 
   "ObjectID": "2871"
 }

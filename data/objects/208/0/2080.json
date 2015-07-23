@@ -5,8 +5,7 @@
   "Artist": "Karl Hagenauer", 
   "URL": "http://www.moma.org/collection/works/2080", 
   "CuratorApproved": "Y", 
-  "Title": "Ashtray", 
-  "DateAcquired": "1948-03-17", 
+  "CreditLine": "Gift of Rena Rosenthal, Inc.", 
   "Date": "1946", 
   "ArtistID": 2448, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "93.1948.a-b", 
-  "ArtistBio": "Austrian, 1898\u20131956", 
-  "CreditLine": "Gift of Rena Rosenthal, Inc.", 
+  "ArtistBio": "(Austrian, 1898\u20131956)", 
+  "DateAcquired": "1948-03-17", 
+  "\ufeffTitle": "Ashtray", 
   "ObjectID": "2080"
 }

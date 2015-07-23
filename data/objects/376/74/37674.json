@@ -5,8 +5,7 @@
   "Artist": "Arthur Dove", 
   "URL": "http://www.moma.org/collection/works/37674", 
   "CuratorApproved": "Y", 
-  "Title": "Grandmother", 
-  "DateAcquired": "1939-12-08", 
+  "CreditLine": "Gift of Philip L. Goodwin (by exchange)", 
   "Date": "1925", 
   "ArtistID": 1602, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "636.1939", 
-  "ArtistBio": "American, 1880\u20131946", 
-  "CreditLine": "Gift of Philip L. Goodwin (by exchange)", 
+  "ArtistBio": "(American, 1880\u20131946)", 
+  "DateAcquired": "1939-12-08", 
+  "\ufeffTitle": "Grandmother", 
   "ObjectID": "37674"
 }

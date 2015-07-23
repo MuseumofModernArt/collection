@@ -5,8 +5,7 @@
   "Artist": "George Morris", 
   "URL": "http://www.moma.org/collection/works/5132", 
   "CuratorApproved": "Y", 
-  "Title": "Protect Your Eyes", 
-  "DateAcquired": "1945-01-03", 
+  "CreditLine": "Gift of the Royal Society for the Prevention of Accidents, England", 
   "Date": "1940s", 
   "ArtistID": 4102, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "118.1945", 
-  "ArtistBio": "British, active 1940s", 
-  "CreditLine": "Gift of the Royal Society for the Prevention of Accidents, England", 
+  "ArtistBio": "(British, active 1940s)", 
+  "DateAcquired": "1945-01-03", 
+  "\ufeffTitle": "Protect Your Eyes", 
   "ObjectID": "5132"
 }

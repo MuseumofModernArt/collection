@@ -1,12 +1,11 @@
 {
   "Medium": "Ink, and colored pencil on gray paper", 
-  "Dimensions": "33 1/8 x 41 1/2\" (84.2 x 105.5 cm)  ", 
+  "Dimensions": "33 1/8 x 41 1/2\" (84.2 x 105.5 cm)\r\n", 
   "Classification": "Drawing", 
   "Artist": "Barry Le Va", 
   "URL": "http://www.moma.org/collection/works/33497", 
   "CuratorApproved": "Y", 
-  "Title": "Study for Equal Wall Base Divisions Crossed", 
-  "DateAcquired": "1985-03-08", 
+  "CreditLine": "Gift of Malcolm Goldstein", 
   "Date": "1973", 
   "ArtistID": 3435, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "45.1985", 
-  "ArtistBio": "American, born 1941", 
-  "CreditLine": "Gift of Malcolm Goldstein", 
+  "ArtistBio": "(American, born 1941)", 
+  "DateAcquired": "1985-03-08", 
+  "\ufeffTitle": "Study for Equal Wall Base Divisions Crossed", 
   "ObjectID": "33497"
 }

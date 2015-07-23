@@ -5,8 +5,7 @@
   "Artist": "Peter Pelzel", 
   "URL": "http://www.moma.org/collection/works/4680", 
   "CuratorApproved": "Y", 
-  "Title": "Bottiglia Vase", 
-  "DateAcquired": "2001-04-30", 
+  "CreditLine": "Given anonymously", 
   "Date": "1962", 
   "ArtistID": 8578, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "1317.2001", 
-  "ArtistBio": "Italian, born 1937", 
-  "CreditLine": "Given anonymously", 
+  "ArtistBio": "(Italian, born 1937)", 
+  "DateAcquired": "2001-04-30", 
+  "\ufeffTitle": "Bottiglia Vase", 
   "ObjectID": "4680"
 }

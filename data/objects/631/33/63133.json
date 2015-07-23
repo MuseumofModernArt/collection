@@ -1,12 +1,11 @@
 {
   "Medium": "Etching", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "Albin Brunovsky", 
   "URL": "http://www.moma.org/collection/works/63133", 
   "CuratorApproved": "Y", 
-  "Title": "On the First, Second and Third Floor", 
-  "DateAcquired": "1981-05-06", 
+  "CreditLine": "Purchase", 
   "Date": "(1979)", 
   "ArtistID": 831, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "145.1981", 
-  "ArtistBio": "Slovak", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(Slovak)", 
+  "DateAcquired": "1981-05-06", 
+  "\ufeffTitle": "On the First, Second and Third Floor", 
   "ObjectID": "63133"
 }

@@ -5,8 +5,7 @@
   "Artist": "Johannes Molzahn", 
   "URL": "http://www.moma.org/collection/works/8147", 
   "CuratorApproved": "Y", 
-  "Title": "\u00dcberreicht: Franz Kopp", 
-  "DateAcquired": "1999-12-10", 
+  "CreditLine": "Jan Tschichold Collection, Gift of Philip Johnson", 
   "Date": "1922", 
   "ArtistID": 4054, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "789.1999", 
-  "ArtistBio": "German, 1892\u20131965", 
-  "CreditLine": "Jan Tschichold Collection, Gift of Philip Johnson", 
+  "ArtistBio": "(German, 1892\u20131965)", 
+  "DateAcquired": "1999-12-10", 
+  "\ufeffTitle": "\u00dcberreicht: Franz Kopp", 
   "ObjectID": "8147"
 }

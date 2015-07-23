@@ -1,12 +1,11 @@
 {
   "Medium": "Bakelite resin", 
-  "Dimensions": "h. 8 1/4\" (21 cm), diam. 6 1/2\" (16.5 cm)  ", 
+  "Dimensions": "h. 8 1/4\" (21 cm), diam. 6 1/2\" (16.5 cm)\r\n", 
   "Classification": "A&D Design", 
   "Artist": "Isamu Noguchi", 
   "URL": "http://www.moma.org/collection/works/4341", 
   "CuratorApproved": "Y", 
-  "Title": "Radio Nurse Speaker", 
-  "DateAcquired": "1977-11-28", 
+  "CreditLine": "Gift of the designer", 
   "Date": "1937", 
   "ArtistID": 4324, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "534.1977", 
-  "ArtistBio": "American, 1904\u20131988", 
-  "CreditLine": "Gift of the designer", 
+  "ArtistBio": "(American, 1904\u20131988)", 
+  "DateAcquired": "1977-11-28", 
+  "\ufeffTitle": "Radio Nurse Speaker", 
   "ObjectID": "4341"
 }

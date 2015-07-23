@@ -5,8 +5,7 @@
   "Artist": "Wallace Berman", 
   "URL": "http://www.moma.org/collection/works/9068", 
   "CuratorApproved": "Y", 
-  "Title": "Semina", 
-  "DateAcquired": "1999-11-18", 
+  "CreditLine": "Gift of Peter Norton", 
   "Date": "1988-1992", 
   "ArtistID": 505, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "3.2000.1-9", 
-  "ArtistBio": "American, 1926\u20131976", 
-  "CreditLine": "Gift of Peter Norton", 
+  "ArtistBio": "(American, 1926\u20131976)", 
+  "DateAcquired": "1999-11-18", 
+  "\ufeffTitle": "Semina", 
   "ObjectID": "9068"
 }

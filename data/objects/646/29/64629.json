@@ -1,12 +1,11 @@
 {
   "Medium": "Woodcut", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "Ronald Jones", 
   "URL": "http://www.moma.org/collection/works/64629", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled (This \"collapse board\" was used during executions at the Walla Walla Prison, Washington)", 
-  "DateAcquired": "1997-05-28", 
+  "CreditLine": "Gift of Landfall Press", 
   "Date": "1990", 
   "ArtistID": 6977, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "219.1997", 
-  "ArtistBio": "American, born 1952", 
-  "CreditLine": "Gift of Landfall Press", 
+  "ArtistBio": "(American, born 1952)", 
+  "DateAcquired": "1997-05-28", 
+  "\ufeffTitle": "Untitled (This \"collapse board\" was used during executions at the Walla Walla Prison, Washington)", 
   "ObjectID": "64629"
 }

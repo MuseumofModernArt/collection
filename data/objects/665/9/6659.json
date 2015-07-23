@@ -5,8 +5,7 @@
   "Artist": "Kit Hinrichs", 
   "URL": "http://www.moma.org/collection/works/6659", 
   "CuratorApproved": "Y", 
-  "Title": "AIGA California Design", 
-  "DateAcquired": "1982-10-27", 
+  "CreditLine": "Gift of the designer", 
   "Date": "1982", 
   "ArtistID": 2659, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "416.1982", 
-  "ArtistBio": "American, born 1941", 
-  "CreditLine": "Gift of the designer", 
+  "ArtistBio": "(American, born 1941)", 
+  "DateAcquired": "1982-10-27", 
+  "\ufeffTitle": "AIGA California Design", 
   "ObjectID": "6659"
 }

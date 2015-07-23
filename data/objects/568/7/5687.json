@@ -5,8 +5,7 @@
   "Artist": "Frank Brangwyn", 
   "URL": "http://www.moma.org/collection/works/5687", 
   "CuratorApproved": "Y", 
-  "Title": "L'Art Nouveau, Grafton Galleries", 
-  "DateAcquired": "1968-03-07", 
+  "CreditLine": "Gift of Erwin Swann", 
   "Date": "1898", 
   "ArtistID": 743, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "208.1968", 
-  "ArtistBio": "British, born Belgium. 1867\u20131956", 
-  "CreditLine": "Gift of Erwin Swann", 
+  "ArtistBio": "(British, born Belgium. 1867\u20131956)", 
+  "DateAcquired": "1968-03-07", 
+  "\ufeffTitle": "L'Art Nouveau, Grafton Galleries", 
   "ObjectID": "5687"
 }

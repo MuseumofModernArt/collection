@@ -5,8 +5,7 @@
   "Artist": "Richard Hamilton", 
   "URL": "http://www.moma.org/collection/works/64890", 
   "CuratorApproved": "Y", 
-  "Title": "I'm dreaming of a black Christmas", 
-  "DateAcquired": "1972-05-08", 
+  "CreditLine": "Leo Castelli Fund", 
   "Date": "1971", 
   "ArtistID": 2481, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "233.1972", 
-  "ArtistBio": "British, 1922\u20132011", 
-  "CreditLine": "Leo Castelli Fund", 
+  "ArtistBio": "(British, 1922\u20132011)", 
+  "DateAcquired": "1972-05-08", 
+  "\ufeffTitle": "I'm dreaming of a black Christmas", 
   "ObjectID": "64890"
 }

@@ -5,8 +5,7 @@
   "Artist": "Robert Rauschenberg", 
   "URL": "http://www.moma.org/collection/works/69357", 
   "CuratorApproved": "Y", 
-  "Title": "Preview from the series Hoarfrost Editions", 
-  "DateAcquired": "1977-11-10", 
+  "CreditLine": "Purchase", 
   "Date": "1974", 
   "ArtistID": 4823, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "452.1977", 
-  "ArtistBio": "American, 1925\u20132008", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, 1925\u20132008)", 
+  "DateAcquired": "1977-11-10", 
+  "\ufeffTitle": "Preview from the series Hoarfrost Editions", 
   "ObjectID": "69357"
 }

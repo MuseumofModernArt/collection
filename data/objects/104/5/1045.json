@@ -5,8 +5,7 @@
   "Artist": "Mehrdad Yazdani", 
   "URL": "http://www.moma.org/collection/works/1045", 
   "CuratorApproved": "Y", 
-  "Title": "Oxnard House, project  Oxnard, California", 
-  "DateAcquired": "1996-09-25", 
+  "CreditLine": "Gift of the architect in honor of Philip Johnson", 
   "Date": "1992", 
   "ArtistID": 7530, 
   "Keywords": [
@@ -20,7 +19,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "424.1996", 
-  "ArtistBio": "Iranian, born 1959", 
-  "CreditLine": "Gift of the architect in honor of Philip Johnson", 
+  "ArtistBio": "(Iranian, born 1959)", 
+  "DateAcquired": "1996-09-25", 
+  "\ufeffTitle": "Oxnard House, project, Oxnard, California", 
   "ObjectID": "1045"
 }

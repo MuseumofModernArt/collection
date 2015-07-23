@@ -5,8 +5,7 @@
   "Artist": "Claus Joseph Riedel", 
   "URL": "http://www.moma.org/collection/works/4684", 
   "CuratorApproved": "Y", 
-  "Title": "Exquisit Beer Glasses", 
-  "DateAcquired": "2001-04-30", 
+  "CreditLine": "Given anonymously", 
   "Date": "1958", 
   "ArtistID": 4917, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "1321.2001.1-2", 
-  "ArtistBio": "Austrian, born 1925", 
-  "CreditLine": "Given anonymously", 
+  "ArtistBio": "(Austrian, born 1925)", 
+  "DateAcquired": "2001-04-30", 
+  "\ufeffTitle": "Exquisit Beer Glasses", 
   "ObjectID": "4684"
 }

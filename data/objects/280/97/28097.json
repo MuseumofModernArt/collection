@@ -5,8 +5,7 @@
   "Artist": "Gerhard Marcks", 
   "URL": "http://www.moma.org/collection/works/28097", 
   "CuratorApproved": "Y", 
-  "Title": "Title page from Jonah", 
-  "DateAcquired": "1964-10-06", 
+  "CreditLine": "The Louis E. Stern Collection", 
   "Date": "(1950)", 
   "ArtistID": 3756, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "913.1964.1", 
-  "ArtistBio": "German, 1889\u20131981", 
-  "CreditLine": "The Louis E. Stern Collection", 
+  "ArtistBio": "(German, 1889\u20131981)", 
+  "DateAcquired": "1964-10-06", 
+  "\ufeffTitle": "Title page from Jonah (Jona)", 
   "ObjectID": "28097"
 }

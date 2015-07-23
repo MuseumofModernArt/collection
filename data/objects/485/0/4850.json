@@ -5,8 +5,7 @@
   "Artist": "Karl Gerstner", 
   "URL": "http://www.moma.org/collection/works/4850", 
   "CuratorApproved": "Y", 
-  "Title": "3 Liberale Partei: Liste 3", 
-  "DateAcquired": "1960-04-06", 
+  "CreditLine": "Gift of the artist", 
   "Date": "1959", 
   "ArtistID": 2136, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "49.1960", 
-  "ArtistBio": "Swiss, born 1930", 
-  "CreditLine": "Gift of the artist", 
+  "ArtistBio": "(Swiss, born 1930)", 
+  "DateAcquired": "1960-04-06", 
+  "\ufeffTitle": "3 Liberale Partei: Liste 3", 
   "ObjectID": "4850"
 }

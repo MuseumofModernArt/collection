@@ -5,8 +5,7 @@
   "Artist": "Harry Callahan", 
   "URL": "http://www.moma.org/collection/works/55179", 
   "CuratorApproved": "Y", 
-  "Title": "Eleanor", 
-  "DateAcquired": "1971-11-10", 
+  "CreditLine": "Stephen R. Currier Memorial Fund", 
   "Date": "1953", 
   "ArtistID": 924, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "564.1971", 
-  "ArtistBio": "American, 1912\u20131999", 
-  "CreditLine": "Stephen R. Currier Memorial Fund", 
+  "ArtistBio": "(American, 1912\u20131999)", 
+  "DateAcquired": "1971-11-10", 
+  "\ufeffTitle": "Eleanor", 
   "ObjectID": "55179"
 }

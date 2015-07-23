@@ -5,8 +5,7 @@
   "Artist": "Jasper Johns", 
   "URL": "http://www.moma.org/collection/works/33957", 
   "CuratorApproved": "Y", 
-  "Title": "Savarin", 
-  "DateAcquired": "1979-05-07", 
+  "CreditLine": "Gift of The Lauder Foundation", 
   "Date": "1977", 
   "ArtistID": 2923, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "103.1979", 
-  "ArtistBio": "American, born 1930", 
-  "CreditLine": "Gift of The Lauder Foundation", 
+  "ArtistBio": "(American, born 1930)", 
+  "DateAcquired": "1979-05-07", 
+  "\ufeffTitle": "Savarin", 
   "ObjectID": "33957"
 }

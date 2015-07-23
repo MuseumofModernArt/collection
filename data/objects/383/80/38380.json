@@ -5,8 +5,7 @@
   "Artist": "Eva Hesse", 
   "URL": "http://www.moma.org/collection/works/38380", 
   "CuratorApproved": "Y", 
-  "Title": "No title", 
-  "DateAcquired": "1969-12-04", 
+  "CreditLine": "Gift of Mr. and Mrs. Herbert Fischbach", 
   "Date": "1966", 
   "ArtistID": 2623, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "1016.1969", 
-  "ArtistBio": "American, born Germany. 1936\u20131970", 
-  "CreditLine": "Gift of Mr. and Mrs. Herbert Fischbach", 
+  "ArtistBio": "(American, born Germany. 1936\u20131970)", 
+  "DateAcquired": "1969-12-04", 
+  "\ufeffTitle": "No title", 
   "ObjectID": "38380"
 }

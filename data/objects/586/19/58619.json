@@ -5,8 +5,7 @@
   "Artist": "International News Photo", 
   "URL": "http://www.moma.org/collection/works/58619", 
   "CuratorApproved": "Y", 
-  "Title": "Wendel Wilkie, Campaigning in the Midwest", 
-  "DateAcquired": "2001-06-14", 
+  "CreditLine": "The New York Times Collection", 
   "Date": "October 27, 1940", 
   "ArtistID": 8560, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "2026.2001", 
-  "ArtistBio": "NULL", 
-  "CreditLine": "The New York Times Collection", 
+  "ArtistBio": "", 
+  "DateAcquired": "2001-06-14", 
+  "\ufeffTitle": "\"Wendel Wilkie, Campaigning in the Midwest\"", 
   "ObjectID": "58619"
 }

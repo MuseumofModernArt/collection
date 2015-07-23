@@ -5,8 +5,7 @@
   "Artist": "Barnett Newman", 
   "URL": "http://www.moma.org/collection/works/37298", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1994-10-20", 
+  "CreditLine": "Gift of the Committee on Drawings in honor of Richard E. Oldenburg", 
   "Date": "(1946)", 
   "ArtistID": 4285, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "530.1994", 
-  "ArtistBio": "American, 1905\u20131970", 
-  "CreditLine": "Gift of the Committee on Drawings in honor of Richard E. Oldenburg", 
+  "ArtistBio": "(American, 1905\u20131970)", 
+  "DateAcquired": "1994-10-20", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "37298"
 }

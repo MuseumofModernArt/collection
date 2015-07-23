@@ -5,8 +5,7 @@
   "Artist": "Arnulf Rainer", 
   "URL": "http://www.moma.org/collection/works/37008", 
   "CuratorApproved": "Y", 
-  "Title": "Bird Scratches", 
-  "DateAcquired": "1986-12-22", 
+  "CreditLine": "Gift of The Edward John Noble Foundation", 
   "Date": "1968", 
   "ArtistID": 4792, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "455.1986", 
-  "ArtistBio": "Austrian, born 1929", 
-  "CreditLine": "Gift of The Edward John Noble Foundation", 
+  "ArtistBio": "(Austrian, born 1929)", 
+  "DateAcquired": "1986-12-22", 
+  "\ufeffTitle": "Bird Scratches", 
   "ObjectID": "37008"
 }

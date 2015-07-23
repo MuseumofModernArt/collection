@@ -5,8 +5,7 @@
   "Artist": "Studio Tetrarc", 
   "URL": "http://www.moma.org/collection/works/1700", 
   "CuratorApproved": "Y", 
-  "Title": "Tovaglia Coffee Table", 
-  "DateAcquired": "1997-01-15", 
+  "CreditLine": "Barbara Jakobson Purchase Fund", 
   "Date": "1969", 
   "ArtistID": 7590, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "32.1997", 
-  "ArtistBio": "Italian, established 1969", 
-  "CreditLine": "Barbara Jakobson Purchase Fund", 
+  "ArtistBio": "(Italian, established 1969)", 
+  "DateAcquired": "1997-01-15", 
+  "\ufeffTitle": "Tovaglia Coffee Table", 
   "ObjectID": "1700"
 }

@@ -5,8 +5,7 @@
   "Artist": "Richard Artschwager", 
   "URL": "http://www.moma.org/collection/works/62932", 
   "CuratorApproved": "Y", 
-  "Title": "Book", 
-  "DateAcquired": "1997-03-06", 
+  "CreditLine": "Virginia Cowles Schroth Fund", 
   "Date": "1987", 
   "Keywords": [
     "online art collection", 
@@ -16,7 +15,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "143.1997", 
-  "ArtistBio": "American, 1923\u20132013", 
-  "CreditLine": "Virginia Cowles Schroth Fund", 
+  "ArtistBio": "(American, 1923\u20132013)", 
+  "DateAcquired": "1997-03-06", 
+  "\ufeffTitle": "Book", 
   "ObjectID": "62932"
 }

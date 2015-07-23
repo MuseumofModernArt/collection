@@ -5,8 +5,7 @@
   "Artist": "Milton Glaser", 
   "URL": "http://www.moma.org/collection/works/7973", 
   "CuratorApproved": "Y", 
-  "Title": "The Sound is WOR-FM 98.7", 
-  "DateAcquired": "1966-12-06", 
+  "CreditLine": "Gift of Station WOR-FM", 
   "Date": "1966", 
   "ArtistID": 2188, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "705.1966", 
-  "ArtistBio": "American, born 1929", 
-  "CreditLine": "Gift of Station WOR-FM", 
+  "ArtistBio": "(American, born 1929)", 
+  "DateAcquired": "1966-12-06", 
+  "\ufeffTitle": "The Sound is WOR-FM 98.7", 
   "ObjectID": "7973"
 }

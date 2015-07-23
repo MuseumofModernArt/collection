@@ -5,8 +5,7 @@
   "Artist": "Armin Landeck", 
   "URL": "http://www.moma.org/collection/works/61638", 
   "CuratorApproved": "Y", 
-  "Title": "Alleyway", 
-  "DateAcquired": "1949-03-24", 
+  "CreditLine": "Purchase", 
   "Date": "1948", 
   "ArtistID": 3359, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "88.1949", 
-  "ArtistBio": "American, 1905\u20131984", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, 1905\u20131984)", 
+  "DateAcquired": "1949-03-24", 
+  "\ufeffTitle": "Alleyway", 
   "ObjectID": "61638"
 }

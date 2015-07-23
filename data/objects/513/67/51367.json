@@ -5,8 +5,7 @@
   "Artist": "Lucia Moholy", 
   "URL": "http://www.moma.org/collection/works/51367", 
   "CuratorApproved": "Y", 
-  "Title": "Edith Tschichold", 
-  "DateAcquired": "1989-12-14", 
+  "CreditLine": "Horace W. Goldsmith Fund through Robert B. Menschel", 
   "Date": "1926", 
   "ArtistID": 6922, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "345.1989", 
-  "ArtistBio": "British, born Czechoslovakia (now Czech Republic). 1894\u20131989", 
-  "CreditLine": "Horace W. Goldsmith Fund through Robert B. Menschel", 
+  "ArtistBio": "(British, born Czechoslovakia (now Czech Republic). 1894\u20131989)", 
+  "DateAcquired": "1989-12-14", 
+  "\ufeffTitle": "Edith Tschichold", 
   "ObjectID": "51367"
 }

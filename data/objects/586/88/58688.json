@@ -5,8 +5,7 @@
   "Artist": "Henry Ruschin", 
   "URL": "http://www.moma.org/collection/works/58688", 
   "CuratorApproved": "Y", 
-  "Title": "Russian Captives in German Barracks", 
-  "DateAcquired": "2001-06-14", 
+  "CreditLine": "The New York Times Collection", 
   "Date": "1915", 
   "ArtistID": 8615, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "2095.2001", 
-  "ArtistBio": "NULL", 
-  "CreditLine": "The New York Times Collection", 
+  "ArtistBio": "", 
+  "DateAcquired": "2001-06-14", 
+  "\ufeffTitle": "Russian Captives in German Barracks", 
   "ObjectID": "58688"
 }

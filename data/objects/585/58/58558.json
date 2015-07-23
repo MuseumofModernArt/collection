@@ -5,8 +5,7 @@
   "Artist": "Brown Brothers", 
   "URL": "http://www.moma.org/collection/works/58558", 
   "CuratorApproved": "Y", 
-  "Title": "Christmas Party Given by Jim Sullivan's Political Club, New York", 
-  "DateAcquired": "2001-06-14", 
+  "CreditLine": "The New York Times Collection", 
   "Date": "c. 1905", 
   "ArtistID": 8517, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "1965.2001", 
-  "ArtistBio": "American, active 1904\u2013present", 
-  "CreditLine": "The New York Times Collection", 
+  "ArtistBio": "(American, active 1904\u2013present)", 
+  "DateAcquired": "2001-06-14", 
+  "\ufeffTitle": "Christmas Party Given by Jim Sullivan's Political Club, New York", 
   "ObjectID": "58558"
 }

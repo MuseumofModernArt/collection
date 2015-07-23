@@ -5,8 +5,7 @@
   "Artist": "Sheila Hicks", 
   "URL": "http://www.moma.org/collection/works/3569", 
   "CuratorApproved": "Y", 
-  "Title": "White Letter", 
-  "DateAcquired": "1964-04-14", 
+  "CreditLine": "Gift of Knoll Associates", 
   "Date": "1962", 
   "ArtistID": 2631, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "430.1964", 
-  "ArtistBio": "American, born 1934", 
-  "CreditLine": "Gift of Knoll Associates", 
+  "ArtistBio": "(American, born 1934)", 
+  "DateAcquired": "1964-04-14", 
+  "\ufeffTitle": "White Letter", 
   "ObjectID": "3569"
 }

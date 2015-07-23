@@ -5,8 +5,7 @@
   "Artist": "Hans Erni", 
   "URL": "http://www.moma.org/collection/works/7213", 
   "CuratorApproved": "Y", 
-  "Title": "Ja", 
-  "DateAcquired": "1951-05-24", 
+  "CreditLine": "Gift of the Swiss Government", 
   "Date": "1947", 
   "ArtistID": 1750, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "488.1951", 
-  "ArtistBio": "Swiss, born 1909", 
-  "CreditLine": "Gift of the Swiss Government", 
+  "ArtistBio": "(Swiss, born 1909)", 
+  "DateAcquired": "1951-05-24", 
+  "\ufeffTitle": "Ja", 
   "ObjectID": "7213"
 }

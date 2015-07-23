@@ -5,8 +5,7 @@
   "Artist": "D. Constantin", 
   "URL": "http://www.moma.org/collection/works/44858", 
   "CuratorApproved": "Y", 
-  "Title": "Erechtheion, the Acropolis, Athens", 
-  "DateAcquired": "1982-03-11", 
+  "CreditLine": "Acquired through the generosity of Lois and Bruce Zenkel", 
   "Date": "1860-69", 
   "ArtistID": 1226, 
   "Keywords": [
@@ -20,7 +19,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "50.1982", 
-  "ArtistBio": "Greek", 
-  "CreditLine": "Acquired through the generosity of Lois and Bruce Zenkel", 
+  "ArtistBio": "(Greek)", 
+  "DateAcquired": "1982-03-11", 
+  "\ufeffTitle": "Erechtheion, the Acropolis, Athens", 
   "ObjectID": "44858"
 }

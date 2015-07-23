@@ -1,12 +1,11 @@
 {
   "Medium": "Artist's book of twelve photolithographs", 
-  "Dimensions": "page  16 1/2 x 11 5/8\" (42 x 29.5 cm)  Prints:  various dimensions.", 
+  "Dimensions": "page  16 1/2 x 11 5/8\" (42 x 29.5 cm)\r\nPrints:  various dimensions.", 
   "Classification": "Illustrated Book", 
   "Artist": "Markus L\u00fcpertz", 
   "URL": "http://www.moma.org/collection/works/9563", 
   "CuratorApproved": "Y", 
-  "Title": "Und ich, ich spiele...", 
-  "DateAcquired": "1982-01-21", 
+  "CreditLine": "Purchase", 
   "Date": "1981", 
   "ArtistID": 3640, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "22.1982.1-12", 
-  "ArtistBio": "German, born 1941", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(German, born 1941)", 
+  "DateAcquired": "1982-01-21", 
+  "\ufeffTitle": "\"Und ich, ich spiele...\"", 
   "ObjectID": "9563"
 }

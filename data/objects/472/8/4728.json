@@ -5,8 +5,7 @@
   "Artist": "Philippe Starck", 
   "URL": "http://www.moma.org/collection/works/4728", 
   "CuratorApproved": "Y", 
-  "Title": "Hudson Chair", 
-  "DateAcquired": "2000-12-11", 
+  "CreditLine": "Gift of the manufacturer", 
   "Date": "2000", 
   "ArtistID": 8418, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "1433.2000", 
-  "ArtistBio": "French, born 1949", 
-  "CreditLine": "Gift of the manufacturer", 
+  "ArtistBio": "(French, born 1949)", 
+  "DateAcquired": "2000-12-11", 
+  "\ufeffTitle": "Hudson Chair", 
   "ObjectID": "4728"
 }

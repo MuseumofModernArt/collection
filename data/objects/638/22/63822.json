@@ -5,8 +5,7 @@
   "Artist": "Andy Warhol", 
   "URL": "http://www.moma.org/collection/works/63822", 
   "CuratorApproved": "Y", 
-  "Title": "Camouflage", 
-  "DateAcquired": "2000-03-02", 
+  "CreditLine": "John B. Turner Fund", 
   "Date": "1987", 
   "ArtistID": 6246, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "181.2000.1-8", 
-  "ArtistBio": "American, 1928\u20131987", 
-  "CreditLine": "John B. Turner Fund", 
+  "ArtistBio": "(American, 1928\u20131987)", 
+  "DateAcquired": "2000-03-02", 
+  "\ufeffTitle": "Camouflage", 
   "ObjectID": "63822"
 }

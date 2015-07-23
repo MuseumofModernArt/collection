@@ -5,8 +5,7 @@
   "Artist": "Ivo Pannaggi", 
   "URL": "http://www.moma.org/collection/works/6276", 
   "CuratorApproved": "Y", 
-  "Title": "F. Zampini & C", 
-  "DateAcquired": "1953-04-07", 
+  "CreditLine": "Katherine S. Dreier Bequest", 
   "Date": "1924", 
   "ArtistID": 4484, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "327.1953", 
-  "ArtistBio": "Italian, 1901\u20131981", 
-  "CreditLine": "Katherine S. Dreier Bequest", 
+  "ArtistBio": "(Italian, 1901\u20131981)", 
+  "DateAcquired": "1953-04-07", 
+  "\ufeffTitle": "F. Zampini & C", 
   "ObjectID": "6276"
 }

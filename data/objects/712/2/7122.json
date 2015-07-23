@@ -5,8 +5,7 @@
   "Artist": "Herbert Bayer", 
   "URL": "http://www.moma.org/collection/works/7122", 
   "CuratorApproved": "Y", 
-  "Title": "IBA", 
-  "DateAcquired": "1987-11-18", 
+  "CreditLine": "Anonymous gift", 
   "Date": "1934", 
   "ArtistID": 399, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "464.1987", 
-  "ArtistBio": "American, born Austria. 1900\u20131985", 
-  "CreditLine": "Anonymous gift", 
+  "ArtistBio": "(American, born Austria. 1900\u20131985)", 
+  "DateAcquired": "1987-11-18", 
+  "\ufeffTitle": "IBA", 
   "ObjectID": "7122"
 }

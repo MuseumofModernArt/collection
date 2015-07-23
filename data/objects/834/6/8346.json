@@ -5,8 +5,7 @@
   "Artist": "Jan Sawka", 
   "URL": "http://www.moma.org/collection/works/8346", 
   "CuratorApproved": "Y", 
-  "Title": "Teatr Powszechny, Arthur Kopit, Buffalo Bill", 
-  "DateAcquired": "1979-05-30", 
+  "CreditLine": "Gift of the artist", 
   "Date": "1975", 
   "ArtistID": 5189, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "895.1979", 
-  "ArtistBio": "Polish, 1946\u20132012", 
-  "CreditLine": "Gift of the artist", 
+  "ArtistBio": "(Polish, 1946\u20132012)", 
+  "DateAcquired": "1979-05-30", 
+  "\ufeffTitle": "Teatr Powszechny, Arthur Kopit, Buffalo Bill", 
   "ObjectID": "8346"
 }

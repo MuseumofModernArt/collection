@@ -5,8 +5,7 @@
   "Artist": "Pierre Bonnard", 
   "URL": "http://www.moma.org/collection/works/69704", 
   "CuratorApproved": "Y", 
-  "Title": "The Print and the Poster (L'Estampe et l'affiche)", 
-  "DateAcquired": "1949-09-29", 
+  "CreditLine": "Purchase", 
   "Date": "1897", 
   "ArtistID": 665, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "472.1949", 
-  "ArtistBio": "French, 1867\u20131947", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(French, 1867\u20131947)", 
+  "DateAcquired": "1949-09-29", 
+  "\ufeffTitle": "The Print and the Poster (L'Estampe et l'affiche)", 
   "ObjectID": "69704"
 }

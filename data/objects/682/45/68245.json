@@ -5,8 +5,7 @@
   "Artist": "Wilhelm Lehmbruck", 
   "URL": "http://www.moma.org/collection/works/68245", 
   "CuratorApproved": "Y", 
-  "Title": "Flood", 
-  "DateAcquired": "1954-09-30", 
+  "CreditLine": "Gift of Samuel A. Berger", 
   "Date": "(1914)", 
   "ArtistID": 3464, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "386.1954", 
-  "ArtistBio": "German, 1881\u20131919", 
-  "CreditLine": "Gift of Samuel A. Berger", 
+  "ArtistBio": "(German, 1881\u20131919)", 
+  "DateAcquired": "1954-09-30", 
+  "\ufeffTitle": "Flood (\u00dcberschwemmung)", 
   "ObjectID": "68245"
 }

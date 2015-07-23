@@ -1,12 +1,11 @@
 {
   "Medium": "Illustrated book with twelve woodcuts", 
-  "Dimensions": "irreg. page  16 15/16 x 12 1/2\" (43 x 31.8 cm)  Prints: various dimensions.", 
+  "Dimensions": "irreg. page  16 15/16 x 12 1/2\" (43 x 31.8 cm)\r\nPrints: various dimensions.", 
   "Classification": "Illustrated Book", 
   "Artist": "Antonio Martorell", 
   "URL": "http://www.moma.org/collection/works/14531", 
   "CuratorApproved": "Y", 
-  "Title": "Oda a la Lagartija", 
-  "DateAcquired": "1974-04-23", 
+  "CreditLine": "Given anonymously", 
   "Date": "(1973)", 
   "ArtistID": 3808, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "281.1974.1-12", 
-  "ArtistBio": "American, born Puerto Rico 1939", 
-  "CreditLine": "Given anonymously", 
+  "ArtistBio": "(American, born Puerto Rico 1939)", 
+  "DateAcquired": "1974-04-23", 
+  "\ufeffTitle": "Oda a la Lagartija", 
   "ObjectID": "14531"
 }

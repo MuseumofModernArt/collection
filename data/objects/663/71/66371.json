@@ -1,12 +1,11 @@
 {
   "Medium": "Lithograph with chine coll\u00e9", 
-  "Dimensions": "composition  12 3/16 x 11 3/8\" (31 x 28.9 cm)  sheet  16 3/8 x 15 7/16\" (41 x 39.2 cm)", 
+  "Dimensions": "composition  12 3/16 x 11 3/8\" (31 x 28.9 cm)\r\nsheet  16 3/8 x 15 7/16\" (41 x 39.2 cm)", 
   "Classification": "Print", 
   "Artist": "Julian Lethbridge", 
   "URL": "http://www.moma.org/collection/works/66371", 
   "CuratorApproved": "Y", 
-  "Title": "Penrose", 
-  "DateAcquired": "1994-05-26", 
+  "CreditLine": "Gift of Emily Fisher Landau", 
   "Date": "1993", 
   "ArtistID": 3500, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "297.1994", 
-  "ArtistBio": "British, born 1947", 
-  "CreditLine": "Gift of Emily Fisher Landau", 
+  "ArtistBio": "(British, born 1947)", 
+  "DateAcquired": "1994-05-26", 
+  "\ufeffTitle": "Penrose", 
   "ObjectID": "66371"
 }

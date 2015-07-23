@@ -5,8 +5,7 @@
   "Artist": "Horst Janssen", 
   "URL": "http://www.moma.org/collection/works/33209", 
   "CuratorApproved": "Y", 
-  "Title": "Girl", 
-  "DateAcquired": "1969-02-10", 
+  "CreditLine": "Joseph M. and Dorothy B. Edinburg Charitable Trust", 
   "Date": "1967", 
   "ArtistID": 2887, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "16.1969", 
-  "ArtistBio": "German, 1929\u20131995", 
-  "CreditLine": "Joseph M. and Dorothy B. Edinburg Charitable Trust", 
+  "ArtistBio": "(German, 1929\u20131995)", 
+  "DateAcquired": "1969-02-10", 
+  "\ufeffTitle": "Girl", 
   "ObjectID": "33209"
 }

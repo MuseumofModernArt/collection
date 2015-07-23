@@ -5,8 +5,7 @@
   "Artist": "Emil Hoppe", 
   "URL": "http://www.moma.org/collection/works/4", 
   "CuratorApproved": "Y", 
-  "Title": "Villa near Vienna Project, Outside Vienna, Austria  Elevation", 
-  "DateAcquired": "1997-01-15", 
+  "CreditLine": "Gift of Jo Carole and Ronald S. Lauder", 
   "Date": "1903", 
   "ArtistID": 7605, 
   "Keywords": [
@@ -20,7 +19,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "1.1997", 
-  "ArtistBio": "Austrian, 1876\u20131957", 
-  "CreditLine": "Gift of Jo Carole and Ronald S. Lauder", 
+  "ArtistBio": "(Austrian, 1876\u20131957)", 
+  "DateAcquired": "1997-01-15", 
+  "\ufeffTitle": "Villa near Vienna Project, Outside Vienna, Austria, Elevation", 
   "ObjectID": "4"
 }

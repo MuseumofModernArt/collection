@@ -5,8 +5,7 @@
   "Artist": "John Baldessari", 
   "URL": "http://www.moma.org/collection/works/66238", 
   "CuratorApproved": "Y", 
-  "Title": "Two Figures (With One Shadow) from the portfolio Hegel's Cellar", 
-  "DateAcquired": "1986-10-15", 
+  "CreditLine": "Purchase", 
   "Date": "(1986)", 
   "ArtistID": 304, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "292.1986", 
-  "ArtistBio": "American, born 1931", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, born 1931)", 
+  "DateAcquired": "1986-10-15", 
+  "\ufeffTitle": "Two Figures (With One Shadow) from the portfolio Hegel's Cellar", 
   "ObjectID": "66238"
 }

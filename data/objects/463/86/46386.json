@@ -5,8 +5,7 @@
   "Artist": "Anne Noggle", 
   "URL": "http://www.moma.org/collection/works/46386", 
   "CuratorApproved": "Y", 
-  "Title": "Stellar by Starlight # 2", 
-  "DateAcquired": "1987-04-16", 
+  "CreditLine": "John Parkinson III Fund", 
   "Date": "1985", 
   "ArtistID": 4323, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "108.1987", 
-  "ArtistBio": "American, 1922\u20132005", 
-  "CreditLine": "John Parkinson III Fund", 
+  "ArtistBio": "(American, 1922\u20132005)", 
+  "DateAcquired": "1987-04-16", 
+  "\ufeffTitle": "Stellar by Starlight # 2", 
   "ObjectID": "46386"
 }

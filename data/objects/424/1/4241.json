@@ -1,12 +1,11 @@
 {
   "Medium": "Stainless steel with copper-clad bottom", 
-  "Dimensions": ".1a: 6 3/4 x 9 5/8\" (17.1 x 24.4 cm)  .1b: 10\" (25.4 cm)  .2: 5 1/8 x 9 11/16\" (13 x 24.6 cm)", 
+  "Dimensions": ".1a: 6 3/4 x 9 5/8\" (17.1 x 24.4 cm)\r\n.1b: 10\" (25.4 cm)\r\n.2: 5 1/8 x 9 11/16\" (13 x 24.6 cm)", 
   "Classification": "A&D Design", 
   "Artist": "W. Archibald Welden", 
   "URL": "http://www.moma.org/collection/works/4241", 
   "CuratorApproved": "Y", 
-  "Title": "Saucepan and Stockpot", 
-  "DateAcquired": "1956-10-25", 
+  "CreditLine": "Gift of the manufacturer", 
   "Date": "1954", 
   "ArtistID": 6304, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "497.1956.1-2", 
-  "ArtistBio": "American, 1900\u20131970", 
-  "CreditLine": "Gift of the manufacturer", 
+  "ArtistBio": "(American, 1900\u20131970)", 
+  "DateAcquired": "1956-10-25", 
+  "\ufeffTitle": "Saucepan and Stockpot", 
   "ObjectID": "4241"
 }

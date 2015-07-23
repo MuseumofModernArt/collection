@@ -1,12 +1,11 @@
 {
   "Medium": "Lithograph", 
-  "Dimensions": "composition  24 15/16 x 17 13/16\" (63.3 x 45.3 cm)  plate  24 15/16 x 17 13/16\" (63.3 x 45.3 cm)", 
+  "Dimensions": "composition  24 15/16 x 17 13/16\" (63.3 x 45.3 cm)\r\nplate  24 15/16 x 17 13/16\" (63.3 x 45.3 cm)", 
   "Classification": "Print", 
   "Artist": "Sam Gilliam", 
   "URL": "http://www.moma.org/collection/works/66820", 
   "CuratorApproved": "Y", 
-  "Title": "Nile", 
-  "DateAcquired": "1973-10-24", 
+  "CreditLine": "Purchase", 
   "Date": "1972", 
   "ArtistID": 2161, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "317.1973", 
-  "ArtistBio": "American, born 1933", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, born 1933)", 
+  "DateAcquired": "1973-10-24", 
+  "\ufeffTitle": "Nile", 
   "ObjectID": "66820"
 }

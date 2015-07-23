@@ -1,12 +1,11 @@
 {
   "Medium": "Lithograph", 
-  "Dimensions": "18 1/2 x 11 3/4\" (47.1 x 29.8 cm)  ", 
+  "Dimensions": "18 1/2 x 11 3/4\" (47.1 x 29.8 cm)\r\n", 
   "Classification": "A&D Graphic Design", 
   "Artist": "Unknown Artist", 
   "URL": "http://www.moma.org/collection/works/7426", 
   "CuratorApproved": "Y", 
-  "Title": "J. Manz & Co", 
-  "DateAcquired": "1983-05-17", 
+  "CreditLine": "Acquired by exchange", 
   "Date": "c. 1896", 
   "ArtistID": 6026, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "531.1983", 
-  "ArtistBio": "Nationality Unknown", 
-  "CreditLine": "Acquired by exchange", 
+  "ArtistBio": "(Nationality Unknown)", 
+  "DateAcquired": "1983-05-17", 
+  "\ufeffTitle": "J. Manz & Co", 
   "ObjectID": "7426"
 }

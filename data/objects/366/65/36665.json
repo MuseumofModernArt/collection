@@ -5,8 +5,7 @@
   "Artist": "Karin Sander", 
   "URL": "http://www.moma.org/collection/works/36665", 
   "CuratorApproved": "Y", 
-  "Title": "KS 1993/52", 
-  "DateAcquired": "1999-10-21", 
+  "CreditLine": "Gift of Sarah-Ann and Werner H. Kramarsky", 
   "Date": "1993", 
   "ArtistID": 7130, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "399.1999", 
-  "ArtistBio": "German, born 1957", 
-  "CreditLine": "Gift of Sarah-Ann and Werner H. Kramarsky", 
+  "ArtistBio": "(German, born 1957)", 
+  "DateAcquired": "1999-10-21", 
+  "\ufeffTitle": "KS 1993/52", 
   "ObjectID": "36665"
 }

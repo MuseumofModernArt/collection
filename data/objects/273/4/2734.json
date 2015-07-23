@@ -5,8 +5,7 @@
   "Artist": "Lucie Rie", 
   "URL": "http://www.moma.org/collection/works/2734", 
   "CuratorApproved": "Y", 
-  "Title": "Footed Bowl", 
-  "DateAcquired": "1954-04-06", 
+  "CreditLine": "Department Purchase", 
   "Date": "c. 1951", 
   "ArtistID": 4915, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "217.1954", 
-  "ArtistBio": "British, born Austria. 1902\u20131995", 
-  "CreditLine": "Department Purchase", 
+  "ArtistBio": "(British, born Austria. 1902\u20131995)", 
+  "DateAcquired": "1954-04-06", 
+  "\ufeffTitle": "Footed Bowl", 
   "ObjectID": "2734"
 }

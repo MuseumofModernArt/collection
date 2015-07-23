@@ -5,8 +5,7 @@
   "Artist": "Gilberto Zorio", 
   "URL": "http://www.moma.org/collection/works/35220", 
   "CuratorApproved": "Y", 
-  "Title": "Per Purificare le Parole, \"Pyrex\"", 
-  "DateAcquired": "1982-06-01", 
+  "CreditLine": "Friends of Contemporary Art", 
   "Date": "1981", 
   "ArtistID": 6583, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "196.1982", 
-  "ArtistBio": "Italian, born 1944", 
-  "CreditLine": "Friends of Contemporary Art", 
+  "ArtistBio": "(Italian, born 1944)", 
+  "DateAcquired": "1982-06-01", 
+  "\ufeffTitle": "Per Purificare le Parole, \"Pyrex\"", 
   "ObjectID": "35220"
 }

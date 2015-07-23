@@ -5,8 +5,7 @@
   "Artist": "John A. Davies", 
   "URL": "http://www.moma.org/collection/works/47378", 
   "CuratorApproved": "Y", 
-  "Title": "Northwest Highlands, Scotland", 
-  "DateAcquired": "1983-01-13", 
+  "CreditLine": "Purchase", 
   "Date": "1981", 
   "ArtistID": 1403, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "174.1983", 
-  "ArtistBio": "British, born 1949", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(British, born 1949)", 
+  "DateAcquired": "1983-01-13", 
+  "\ufeffTitle": "Northwest Highlands, Scotland", 
   "ObjectID": "47378"
 }

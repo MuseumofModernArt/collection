@@ -5,8 +5,7 @@
   "Artist": "Joe Tilson", 
   "URL": "http://www.moma.org/collection/works/66784", 
   "CuratorApproved": "Y", 
-  "Title": "Sky 3", 
-  "DateAcquired": "1969-04-16", 
+  "CreditLine": "D.S. and R.H. Gottesman Foundation Fund", 
   "Date": "(1967)", 
   "ArtistID": 5879, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "316.1969.a-b", 
-  "ArtistBio": "British, born 1928", 
-  "CreditLine": "D.S. and R.H. Gottesman Foundation Fund", 
+  "ArtistBio": "(British, born 1928)", 
+  "DateAcquired": "1969-04-16", 
+  "\ufeffTitle": "Sky 3", 
   "ObjectID": "66784"
 }

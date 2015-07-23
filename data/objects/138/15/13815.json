@@ -5,8 +5,7 @@
   "Artist": "Max Beckmann", 
   "URL": "http://www.moma.org/collection/works/13815", 
   "CuratorApproved": "Y", 
-  "Title": "Plate (facing page 36) from Ebbi", 
-  "DateAcquired": "1952-11-07", 
+  "CreditLine": "Abby Aldrich Rockefeller Fund", 
   "Date": "1924", 
   "ArtistID": 429, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "214.1952.5", 
-  "ArtistBio": "German, 1884\u20131950", 
-  "CreditLine": "Abby Aldrich Rockefeller Fund", 
+  "ArtistBio": "(German, 1884\u20131950)", 
+  "DateAcquired": "1952-11-07", 
+  "\ufeffTitle": "Plate (facing page 36) fromEbbi", 
   "ObjectID": "13815"
 }

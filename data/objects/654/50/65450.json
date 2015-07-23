@@ -1,12 +1,11 @@
 {
   "Medium": "Portfolio of four photoetchings", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "Georg Herold", 
   "URL": "http://www.moma.org/collection/works/65450", 
   "CuratorApproved": "Y", 
-  "Title": "The Transformation of Porcelain into Gold (Die Verwandlung von Porzellan in Gold)", 
-  "DateAcquired": "1989-10-12", 
+  "CreditLine": "Purchase", 
   "Date": "1988", 
   "ArtistID": 2615, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "260.1989.1-4", 
-  "ArtistBio": "German, born 1947", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(German, born 1947)", 
+  "DateAcquired": "1989-10-12", 
+  "\ufeffTitle": "The Transformation of Porcelain into Gold (Die Verwandlung von Porzellan in Gold)", 
   "ObjectID": "65450"
 }

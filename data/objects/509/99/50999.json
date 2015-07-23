@@ -5,8 +5,7 @@
   "Artist": "Nathan George Horwitt", 
   "URL": "http://www.moma.org/collection/works/50999", 
   "CuratorApproved": "Y", 
-  "Title": "The Eiffel Tower", 
-  "DateAcquired": "1968-01-10", 
+  "CreditLine": "Purchase", 
   "Date": "1964", 
   "ArtistID": 2730, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "332.1968", 
-  "ArtistBio": "American, 1898\u20131990", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, 1898\u20131990)", 
+  "DateAcquired": "1968-01-10", 
+  "\ufeffTitle": "The Eiffel Tower", 
   "ObjectID": "50999"
 }

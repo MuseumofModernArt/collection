@@ -1,12 +1,11 @@
 {
   "Medium": "Woodcut", 
-  "Dimensions": "composition  40 1/16 x 24\" (101.8 x 61 cm)  sheet  47 9/16 x 30 3/8\" (120.9 x 77.1 cm)", 
+  "Dimensions": "composition  40 1/16 x 24\" (101.8 x 61 cm)\r\nsheet  47 9/16 x 30 3/8\" (120.9 x 77.1 cm)", 
   "Classification": "Print", 
   "Artist": "Richard Bosman", 
   "URL": "http://www.moma.org/collection/works/62903", 
   "CuratorApproved": "Y", 
-  "Title": "Drowning Man", 
-  "DateAcquired": "1981-05-06", 
+  "CreditLine": "Nelson Blitz, Jr. Fund", 
   "Date": "(1981)", 
   "ArtistID": 689, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "143.1981", 
-  "ArtistBio": "Australian, born 1944", 
-  "CreditLine": "Nelson Blitz, Jr. Fund", 
+  "ArtistBio": "(Australian, born 1944)", 
+  "DateAcquired": "1981-05-06", 
+  "\ufeffTitle": "Drowning Man", 
   "ObjectID": "62903"
 }

@@ -5,8 +5,7 @@
   "Artist": "Jan Toorop", 
   "URL": "http://www.moma.org/collection/works/7319", 
   "CuratorApproved": "Y", 
-  "Title": "Het Hoogeland, Beekbergen", 
-  "DateAcquired": "1987-11-18", 
+  "CreditLine": "Given anonymously", 
   "Date": "1896", 
   "ArtistID": 5901, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "508.1987", 
-  "ArtistBio": "Dutch, 1858\u20131928", 
-  "CreditLine": "Given anonymously", 
+  "ArtistBio": "(Dutch, 1858\u20131928)", 
+  "DateAcquired": "1987-11-18", 
+  "\ufeffTitle": "Het Hoogeland, Beekbergen (Poster for a rural social rehabilitation institution in Beekbergen)", 
   "ObjectID": "7319"
 }

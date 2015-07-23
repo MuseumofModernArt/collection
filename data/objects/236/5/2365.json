@@ -5,8 +5,7 @@
   "Artist": "Gustav Stickley", 
   "URL": "http://www.moma.org/collection/works/2365", 
   "CuratorApproved": "Y", 
-  "Title": "Armchair", 
-  "DateAcquired": "1993-05-04", 
+  "CreditLine": "Gift of John C. Waddell", 
   "Date": "c. 1907", 
   "ArtistID": 7077, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "169.1993", 
-  "ArtistBio": "American, 1858\u20131942", 
-  "CreditLine": "Gift of John C. Waddell", 
+  "ArtistBio": "(American, 1858\u20131942)", 
+  "DateAcquired": "1993-05-04", 
+  "\ufeffTitle": "Armchair", 
   "ObjectID": "2365"
 }

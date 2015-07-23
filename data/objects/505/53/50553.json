@@ -5,8 +5,7 @@
   "Artist": "\u00c9douard Boubat", 
   "URL": "http://www.moma.org/collection/works/50553", 
   "CuratorApproved": "Y", 
-  "Title": "Cahors, France", 
-  "DateAcquired": "1976-10-13", 
+  "CreditLine": "Gift of the photographer", 
   "Date": "1969", 
   "ArtistID": 698, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "314.1976", 
-  "ArtistBio": "French, 1923\u20131999", 
-  "CreditLine": "Gift of the photographer", 
+  "ArtistBio": "(French, 1923\u20131999)", 
+  "DateAcquired": "1976-10-13", 
+  "\ufeffTitle": "Cahors, France", 
   "ObjectID": "50553"
 }

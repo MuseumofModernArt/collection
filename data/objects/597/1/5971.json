@@ -5,8 +5,7 @@
   "Artist": "Antoni Kowalski", 
   "URL": "http://www.moma.org/collection/works/5971", 
   "CuratorApproved": "Y", 
-  "Title": "Boom, Jazz '82", 
-  "DateAcquired": "1986-10-07", 
+  "CreditLine": "Gift of the designer", 
   "Date": "1982", 
   "ArtistID": 3233, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "270.1986", 
-  "ArtistBio": "Polish, born 1957", 
-  "CreditLine": "Gift of the designer", 
+  "ArtistBio": "(Polish, born 1957)", 
+  "DateAcquired": "1986-10-07", 
+  "\ufeffTitle": "Boom, Jazz '82", 
   "ObjectID": "5971"
 }

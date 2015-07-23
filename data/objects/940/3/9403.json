@@ -5,8 +5,7 @@
   "Artist": "Ray Johnson", 
   "URL": "http://www.moma.org/collection/works/9403", 
   "CuratorApproved": "Y", 
-  "Title": "The Paper Snake", 
-  "DateAcquired": "1982-01-21", 
+  "CreditLine": "Joanne M. Stern Fund", 
   "Date": "1965.  (Work executed 1964-1965).", 
   "ArtistID": 2928, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "20.1982", 
-  "ArtistBio": "American, 1927\u20131995", 
-  "CreditLine": "Joanne M. Stern Fund", 
+  "ArtistBio": "(American, 1927\u20131995)", 
+  "DateAcquired": "1982-01-21", 
+  "\ufeffTitle": "The Paper Snake", 
   "ObjectID": "9403"
 }

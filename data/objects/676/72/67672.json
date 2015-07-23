@@ -5,8 +5,7 @@
   "Artist": "\u00c9douard Pignon", 
   "URL": "http://www.moma.org/collection/works/67672", 
   "CuratorApproved": "Y", 
-  "Title": "Three Mothers", 
-  "DateAcquired": "1948-10-06", 
+  "CreditLine": "Gift of Victor S. Riesenfeld", 
   "Date": "(1945)", 
   "ArtistID": 4620, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "360.1948", 
-  "ArtistBio": "French, 1905\u20131993", 
-  "CreditLine": "Gift of Victor S. Riesenfeld", 
+  "ArtistBio": "(French, 1905\u20131993)", 
+  "DateAcquired": "1948-10-06", 
+  "\ufeffTitle": "Three Mothers", 
   "ObjectID": "67672"
 }

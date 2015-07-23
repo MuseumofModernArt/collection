@@ -5,8 +5,7 @@
   "Artist": "Ludwig Mies van der Rohe", 
   "URL": "http://www.moma.org/collection/works/728", 
   "CuratorApproved": "Y", 
-  "Title": "Gericke House Project, Wannsee-Berlin, Germany  Main floor plan", 
-  "DateAcquired": "1963-12-10", 
+  "CreditLine": "Mies van der Rohe Archive, gift of the architect", 
   "Date": "1932", 
   "ArtistID": 7166, 
   "Keywords": [
@@ -20,7 +19,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "695.1963", 
-  "ArtistBio": "American, born Germany. 1886\u20131969", 
-  "CreditLine": "Mies van der Rohe Archive, gift of the architect", 
+  "ArtistBio": "(American, born Germany. 1886\u20131969)", 
+  "DateAcquired": "1963-12-10", 
+  "\ufeffTitle": "Gericke House Project, Wannsee-Berlin, Germany, Main floor plan", 
   "ObjectID": "728"
 }

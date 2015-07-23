@@ -5,8 +5,7 @@
   "Artist": "Gaston Chaissac", 
   "URL": "http://www.moma.org/collection/works/34433", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1999-05-06", 
+  "CreditLine": "Gift of Sarah-Ann and Werner H. Kramarsky", 
   "Date": "1945-46", 
   "ArtistID": 1057, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "125.1999", 
-  "ArtistBio": "French, 1910\u20131964", 
-  "CreditLine": "Gift of Sarah-Ann and Werner H. Kramarsky", 
+  "ArtistBio": "(French, 1910\u20131964)", 
+  "DateAcquired": "1999-05-06", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "34433"
 }

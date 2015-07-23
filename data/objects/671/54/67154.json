@@ -1,12 +1,11 @@
 {
   "Medium": "Lithograph", 
-  "Dimensions": "irreg composition  21 7/8 x 19 11/16\" (55.6 x 50 cm)  sheet  31 3/4 x 23 3/8\" (80.6 x 59.4 cm)", 
+  "Dimensions": "irreg composition  21 7/8 x 19 11/16\" (55.6 x 50 cm)\r\nsheet  31 3/4 x 23 3/8\" (80.6 x 59.4 cm)", 
   "Classification": "Print", 
   "Artist": "Alexander Liberman", 
   "URL": "http://www.moma.org/collection/works/67154", 
   "CuratorApproved": "Y", 
-  "Title": "Vortex I", 
-  "DateAcquired": "1980-02-25", 
+  "CreditLine": "Gift of Celeste Bartos", 
   "Date": "1980", 
   "ArtistID": 3537, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "335.1980", 
-  "ArtistBio": "American, born Russia. 1912\u20131999", 
-  "CreditLine": "Gift of Celeste Bartos", 
+  "ArtistBio": "(American, born Russia. 1912\u20131999)", 
+  "DateAcquired": "1980-02-25", 
+  "\ufeffTitle": "Vortex I", 
   "ObjectID": "67154"
 }

@@ -1,12 +1,11 @@
 {
   "Medium": "Series of 4 Iris prints", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Print", 
   "Artist": "Peter Halley", 
   "URL": "http://www.moma.org/collection/works/61253", 
   "CuratorApproved": "Y", 
-  "Title": "Cartoon Views #1-4", 
-  "DateAcquired": "1998-03-05", 
+  "CreditLine": "Gift of Muse X Editions", 
   "Date": "1997", 
   "ArtistID": 2467, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "70.1998.1-4", 
-  "ArtistBio": "American, born 1953", 
-  "CreditLine": "Gift of Muse X Editions", 
+  "ArtistBio": "(American, born 1953)", 
+  "DateAcquired": "1998-03-05", 
+  "\ufeffTitle": "Cartoon Views #1-4", 
   "ObjectID": "61253"
 }

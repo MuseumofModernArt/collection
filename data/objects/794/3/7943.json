@@ -5,8 +5,7 @@
   "Artist": "Robert M. Jones", 
   "URL": "http://www.moma.org/collection/works/7943", 
   "CuratorApproved": "Y", 
-  "Title": "Design and Paper, number thirty-two", 
-  "DateAcquired": "1999-12-10", 
+  "CreditLine": "Jan Tschichold Collection, Gift of Philip Johnson", 
   "Date": "Unknown", 
   "ArtistID": 8234, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "691.1999", 
-  "ArtistBio": "Nationality unknown", 
-  "CreditLine": "Jan Tschichold Collection, Gift of Philip Johnson", 
+  "ArtistBio": "(Nationality unknown)", 
+  "DateAcquired": "1999-12-10", 
+  "\ufeffTitle": "Design and Paper, number thirty-two", 
   "ObjectID": "7943"
 }

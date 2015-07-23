@@ -5,8 +5,7 @@
   "Artist": "Nicholas Nixon", 
   "URL": "http://www.moma.org/collection/works/49919", 
   "CuratorApproved": "Y", 
-  "Title": "Sharon, Pennsylvania", 
-  "DateAcquired": "1988-10-13", 
+  "CreditLine": "Gift of the artist", 
   "Date": "1980", 
   "ArtistID": 4315, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "280.1988", 
-  "ArtistBio": "American, born 1947", 
-  "CreditLine": "Gift of the artist", 
+  "ArtistBio": "(American, born 1947)", 
+  "DateAcquired": "1988-10-13", 
+  "\ufeffTitle": "Sharon, Pennsylvania", 
   "ObjectID": "49919"
 }

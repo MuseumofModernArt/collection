@@ -5,8 +5,7 @@
   "Artist": "Bruno Munari", 
   "URL": "http://www.moma.org/collection/works/2970", 
   "CuratorApproved": "Y", 
-  "Title": "Fork", 
-  "DateAcquired": "1965-04-06", 
+  "CreditLine": "Greta Daniel Design Fund", 
   "Date": "1958", 
   "ArtistID": 4163, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "240.1965", 
-  "ArtistBio": "Italian, 1907\u20131998", 
-  "CreditLine": "Greta Daniel Design Fund", 
+  "ArtistBio": "(Italian, 1907\u20131998)", 
+  "DateAcquired": "1965-04-06", 
+  "\ufeffTitle": "Fork", 
   "ObjectID": "2970"
 }

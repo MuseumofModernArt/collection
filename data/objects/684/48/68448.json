@@ -5,8 +5,7 @@
   "Artist": "Jim Dine", 
   "URL": "http://www.moma.org/collection/works/68448", 
   "CuratorApproved": "Y", 
-  "Title": "Braid (second state)", 
-  "DateAcquired": "1990-10-23", 
+  "CreditLine": "Gift of the artist", 
   "Date": "1973", 
   "ArtistID": 1547, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "399.1990", 
-  "ArtistBio": "American, born 1935", 
-  "CreditLine": "Gift of the artist", 
+  "ArtistBio": "(American, born 1935)", 
+  "DateAcquired": "1990-10-23", 
+  "\ufeffTitle": "Braid", 
   "ObjectID": "68448"
 }

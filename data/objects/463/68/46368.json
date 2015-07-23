@@ -5,8 +5,7 @@
   "Artist": "Alfred Stieglitz", 
   "URL": "http://www.moma.org/collection/works/46368", 
   "CuratorApproved": "Y", 
-  "Title": "Georgia O'Keeffe - Hands", 
-  "DateAcquired": "1984-03-15", 
+  "CreditLine": "Alfred Stieglitz Collection. Gift of Georgia O'Keeffe", 
   "Date": "1919", 
   "ArtistID": 5664, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "107.1984", 
-  "ArtistBio": "American, 1864\u20131946", 
-  "CreditLine": "Alfred Stieglitz Collection. Gift of Georgia O'Keeffe", 
+  "ArtistBio": "(American, 1864\u20131946)", 
+  "DateAcquired": "1984-03-15", 
+  "\ufeffTitle": "Georgia O'Keeffe - Hands", 
   "ObjectID": "46368"
 }

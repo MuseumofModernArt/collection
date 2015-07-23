@@ -5,8 +5,7 @@
   "Artist": "Jim Dine", 
   "URL": "http://www.moma.org/collection/works/36906", 
   "CuratorApproved": "Y", 
-  "Title": "A Tree that Shatters the Dancing", 
-  "DateAcquired": "1982-11-04", 
+  "CreditLine": "Gift of Nancy and Jim Dine in memory of Myron Orlofsky", 
   "Date": "1980", 
   "ArtistID": 1547, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "439.1982", 
-  "ArtistBio": "American, born 1935", 
-  "CreditLine": "Gift of Nancy and Jim Dine in memory of Myron Orlofsky", 
+  "ArtistBio": "(American, born 1935)", 
+  "DateAcquired": "1982-11-04", 
+  "\ufeffTitle": "A Tree that Shatters the Dancing", 
   "ObjectID": "36906"
 }

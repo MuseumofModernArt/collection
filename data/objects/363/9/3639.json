@@ -5,8 +5,7 @@
   "Artist": "Eero Saarinen", 
   "URL": "http://www.moma.org/collection/works/3639", 
   "CuratorApproved": "Y", 
-  "Title": "Womb Chair", 
-  "DateAcquired": "1956-10-25", 
+  "CreditLine": "Gift of the manufacturer", 
   "Date": "1946", 
   "ArtistID": 5103, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "447.1956.a-c", 
-  "ArtistBio": "American, born Finland. 1910\u20131961", 
-  "CreditLine": "Gift of the manufacturer", 
+  "ArtistBio": "(American, born Finland. 1910\u20131961)", 
+  "DateAcquired": "1956-10-25", 
+  "\ufeffTitle": "Womb Chair", 
   "ObjectID": "3639"
 }

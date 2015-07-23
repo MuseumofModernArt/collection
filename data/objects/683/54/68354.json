@@ -5,8 +5,7 @@
   "Artist": "Edvard Munch", 
   "URL": "http://www.moma.org/collection/works/68354", 
   "CuratorApproved": "Y", 
-  "Title": "Four Studies (Portrait of Goldstein, Gorilla, Family of Monkeys and Tiger's Head)", 
-  "DateAcquired": "1954-09-30", 
+  "CreditLine": "Gift of Samuel A. Berger", 
   "Date": "1908-09", 
   "ArtistID": 4164, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "393.1954", 
-  "ArtistBio": "Norwegian, 1863\u20131944", 
-  "CreditLine": "Gift of Samuel A. Berger", 
+  "ArtistBio": "(Norwegian, 1863\u20131944)", 
+  "DateAcquired": "1954-09-30", 
+  "\ufeffTitle": "Four Studies (Portrait of Goldstein, Gorilla, Family of Monkeys and Tiger's Head)", 
   "ObjectID": "68354"
 }

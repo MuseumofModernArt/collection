@@ -5,8 +5,7 @@
   "Artist": "Francisco Toledo", 
   "URL": "http://www.moma.org/collection/works/62942", 
   "CuratorApproved": "Y", 
-  "Title": "Elephants (Elefantes)", 
-  "DateAcquired": "1970-03-05", 
+  "CreditLine": "Inter-American Fund", 
   "Date": "(1969)", 
   "ArtistID": 5892, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "144.1970", 
-  "ArtistBio": "Mexican, born 1940", 
-  "CreditLine": "Inter-American Fund", 
+  "ArtistBio": "(Mexican, born 1940)", 
+  "DateAcquired": "1970-03-05", 
+  "\ufeffTitle": "Elephants (Elefantes)", 
   "ObjectID": "62942"
 }

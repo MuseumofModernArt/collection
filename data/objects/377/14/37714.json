@@ -5,8 +5,7 @@
   "Artist": "Joseph Beuys", 
   "URL": "http://www.moma.org/collection/works/37714", 
   "CuratorApproved": "Y", 
-  "Title": "Dynamis 3, Dynamis", 
-  "DateAcquired": "1983-11-04", 
+  "CreditLine": "Purchase", 
   "Date": "1960", 
   "ArtistID": 540, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "652.1983", 
-  "ArtistBio": "German, 1921\u20131986", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(German, 1921\u20131986)", 
+  "DateAcquired": "1983-11-04", 
+  "\ufeffTitle": "Dynamis 3, Dynamis", 
   "ObjectID": "37714"
 }

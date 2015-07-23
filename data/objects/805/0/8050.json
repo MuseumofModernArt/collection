@@ -5,8 +5,7 @@
   "Artist": "Joseph Binder", 
   "URL": "http://www.moma.org/collection/works/8050", 
   "CuratorApproved": "Y", 
-  "Title": "Air Corps U.S. Army", 
-  "DateAcquired": "1983-11-30", 
+  "CreditLine": "Gift of the designer", 
   "Date": "1941", 
   "ArtistID": 560, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "754.1983", 
-  "ArtistBio": "American, 1898\u20131972", 
-  "CreditLine": "Gift of the designer", 
+  "ArtistBio": "(American, 1898\u20131972)", 
+  "DateAcquired": "1983-11-30", 
+  "\ufeffTitle": "Air Corps U.S. Army", 
   "ObjectID": "8050"
 }

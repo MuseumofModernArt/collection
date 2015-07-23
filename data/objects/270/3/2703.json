@@ -5,8 +5,7 @@
   "Artist": "Jhoon Rhee", 
   "URL": "http://www.moma.org/collection/works/2703", 
   "CuratorApproved": "Y", 
-  "Title": "Jhoon Rhee Safety Face Mask", 
-  "DateAcquired": "1999-04-22", 
+  "CreditLine": "Purchase", 
   "Date": "1976", 
   "ArtistID": 8001, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "213.1998", 
-  "ArtistBio": "American, born 1932", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, born 1932)", 
+  "DateAcquired": "1999-04-22", 
+  "\ufeffTitle": "Jhoon Rhee Safety Face Mask", 
   "ObjectID": "2703"
 }

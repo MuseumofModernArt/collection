@@ -5,8 +5,7 @@
   "Artist": "Pieter Brattinga", 
   "URL": "http://www.moma.org/collection/works/7889", 
   "CuratorApproved": "Y", 
-  "Title": "Architektuur L. Mies van der Rohe", 
-  "DateAcquired": "1980-10-30", 
+  "CreditLine": "Bequest of Ludwig Mies van der Rohe", 
   "Date": "Unknown", 
   "ArtistID": 747, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "671.1980", 
-  "ArtistBio": "Dutch, born 1931", 
-  "CreditLine": "Bequest of Ludwig Mies van der Rohe", 
+  "ArtistBio": "(Dutch, born 1931)", 
+  "DateAcquired": "1980-10-30", 
+  "\ufeffTitle": "Architektuur L. Mies van der Rohe", 
   "ObjectID": "7889"
 }

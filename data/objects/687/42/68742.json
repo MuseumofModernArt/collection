@@ -1,12 +1,11 @@
 {
   "Medium": "One lithograph from a portfolio of six lithographs, five screenprints and one aquatint", 
-  "Dimensions": "composition  27 7/8 x 21 1/2\" (70.8 x 54.6 cm)  sheet  27 7/8 x 21 1/2\" (70.8 x 54.6 cm)", 
+  "Dimensions": "composition  27 7/8 x 21 1/2\" (70.8 x 54.6 cm)\r\nsheet  27 7/8 x 21 1/2\" (70.8 x 54.6 cm)", 
   "Classification": "Print", 
   "Artist": "Romare Bearden", 
   "URL": "http://www.moma.org/collection/works/68742", 
   "CuratorApproved": "Y", 
-  "Title": "Come Sunday from 1776 USA 1976 Bicentennial Prints", 
-  "DateAcquired": "1977-11-10", 
+  "CreditLine": "Gift of Special Projects Group", 
   "Date": "1975 (Published 1976).", 
   "ArtistID": 412, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "416.1977.4", 
-  "ArtistBio": "American, 1911\u20131988", 
-  "CreditLine": "Gift of Special Projects Group", 
+  "ArtistBio": "(American, 1911\u20131988)", 
+  "DateAcquired": "1977-11-10", 
+  "\ufeffTitle": "Come Sunday from 1776 USA 1976 Bicentennial Prints", 
   "ObjectID": "68742"
 }

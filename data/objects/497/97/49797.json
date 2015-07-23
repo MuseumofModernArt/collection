@@ -5,8 +5,7 @@
   "Artist": "George Woodman", 
   "URL": "http://www.moma.org/collection/works/49797", 
   "CuratorApproved": "Y", 
-  "Title": "Vatican Afternoon", 
-  "DateAcquired": "1999-06-10", 
+  "CreditLine": "Geraldine J. Murphy Fund", 
   "Date": "1996", 
   "ArtistID": 6445, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "269.1999", 
-  "ArtistBio": "American, born 1932", 
-  "CreditLine": "Geraldine J. Murphy Fund", 
+  "ArtistBio": "(American, born 1932)", 
+  "DateAcquired": "1999-06-10", 
+  "\ufeffTitle": "Vatican Afternoon", 
   "ObjectID": "49797"
 }

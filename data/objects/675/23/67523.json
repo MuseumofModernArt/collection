@@ -5,8 +5,7 @@
   "Artist": "Henri Matisse", 
   "URL": "http://www.moma.org/collection/works/67523", 
   "CuratorApproved": "Y", 
-  "Title": "Nadia with Sharp Profile (Nadia au profil aigu)", 
-  "DateAcquired": "1955-11-23", 
+  "CreditLine": "Curt Valentin Bequest", 
   "Date": "1948", 
   "ArtistID": 3832, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "353.1955", 
-  "ArtistBio": "French, 1869\u20131954", 
-  "CreditLine": "Curt Valentin Bequest", 
+  "ArtistBio": "(French, 1869\u20131954)", 
+  "DateAcquired": "1955-11-23", 
+  "\ufeffTitle": "Nadia with Sharp Profile (Nadia au profil aigu)", 
   "ObjectID": "67523"
 }

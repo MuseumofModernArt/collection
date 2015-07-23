@@ -5,8 +5,7 @@
   "Artist": "Alvin Langdon Coburn", 
   "URL": "http://www.moma.org/collection/works/57915", 
   "CuratorApproved": "Y", 
-  "Title": "Self-Portrait", 
-  "DateAcquired": "1969-01-08", 
+  "CreditLine": "Gift of Miss Mina Turner", 
   "Date": "1905", 
   "ArtistID": 1164, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "1216.1969", 
-  "ArtistBio": "American, 1882\u20131966", 
-  "CreditLine": "Gift of Miss Mina Turner", 
+  "ArtistBio": "(American, 1882\u20131966)", 
+  "DateAcquired": "1969-01-08", 
+  "\ufeffTitle": "Self-Portrait", 
   "ObjectID": "57915"
 }

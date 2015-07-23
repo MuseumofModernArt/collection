@@ -5,8 +5,7 @@
   "Artist": "Henri Matisse", 
   "URL": "http://www.moma.org/collection/works/34539", 
   "CuratorApproved": "Y", 
-  "Title": "The Necklace", 
-  "DateAcquired": "1978-04-04", 
+  "CreditLine": "The Joan and Lester Avnet Collection", 
   "Date": "May 1950", 
   "ArtistID": 3832, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "131.1978", 
-  "ArtistBio": "French, 1869\u20131954", 
-  "CreditLine": "The Joan and Lester Avnet Collection", 
+  "ArtistBio": "(French, 1869\u20131954)", 
+  "DateAcquired": "1978-04-04", 
+  "\ufeffTitle": "The Necklace", 
   "ObjectID": "34539"
 }

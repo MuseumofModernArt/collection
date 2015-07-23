@@ -1,12 +1,11 @@
 {
   "Medium": "Lithograph", 
-  "Dimensions": "composition  31 x 23\" (78.7 x 58.4 cm)  sheet  31 x 23\" (78.7 x 58.4 cm)", 
+  "Dimensions": "composition  31 x 23\" (78.7 x 58.4 cm)\r\nsheet  31 x 23\" (78.7 x 58.4 cm)", 
   "Classification": "Print", 
   "Artist": "Charles Christopher Hill", 
   "URL": "http://www.moma.org/collection/works/63252", 
   "CuratorApproved": "Y", 
-  "Title": "Socony", 
-  "DateAcquired": "1981-05-06", 
+  "CreditLine": "John B. Turner Fund", 
   "Date": "1980", 
   "ArtistID": 2646, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "158.1981", 
-  "ArtistBio": "American, born 1948", 
-  "CreditLine": "John B. Turner Fund", 
+  "ArtistBio": "(American, born 1948)", 
+  "DateAcquired": "1981-05-06", 
+  "\ufeffTitle": "Socony", 
   "ObjectID": "63252"
 }

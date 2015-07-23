@@ -5,8 +5,7 @@
   "Artist": "Vera Ermolaeva", 
   "URL": "http://www.moma.org/collection/works/69021", 
   "CuratorApproved": "Y", 
-  "Title": "Design for Victory Over the Sun", 
-  "DateAcquired": "1977-11-10", 
+  "CreditLine": "Larry Aldrich Fund", 
   "Date": "(1920)", 
   "ArtistID": 1749, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "431.1977", 
-  "ArtistBio": "Russian", 
-  "CreditLine": "Larry Aldrich Fund", 
+  "ArtistBio": "(Russian)", 
+  "DateAcquired": "1977-11-10", 
+  "\ufeffTitle": "Design for Victory Over the Sun", 
   "ObjectID": "69021"
 }

@@ -5,8 +5,7 @@
   "Artist": "Hendrikus Th. Wijdeveld", 
   "URL": "http://www.moma.org/collection/works/6113", 
   "CuratorApproved": "Y", 
-  "Title": "Architectuur, Frank Lloyd Wright, Tentoonstellung", 
-  "DateAcquired": "1980-01-08", 
+  "CreditLine": "By Exchange", 
   "Date": "1931", 
   "ArtistID": 6363, 
   "Keywords": [
@@ -20,7 +19,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "291.1980", 
-  "ArtistBio": "Dutch, 1885\u20131987", 
-  "CreditLine": "By Exchange", 
+  "ArtistBio": "(Dutch, 1885\u20131987)", 
+  "DateAcquired": "1980-01-08", 
+  "\ufeffTitle": "Architectuur, Frank Lloyd Wright, Tentoonstellung", 
   "ObjectID": "6113"
 }

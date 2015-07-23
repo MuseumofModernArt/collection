@@ -5,8 +5,7 @@
   "Artist": "William Bradley", 
   "URL": "http://www.moma.org/collection/works/5797", 
   "CuratorApproved": "Y", 
-  "Title": "Victor Bicycles, Overman Wheel Co", 
-  "DateAcquired": "1987-05-27", 
+  "CreditLine": "Gift of The Metropolitan Museum of Art in honor of Leonard A. Lauder", 
   "Date": "c. 1895", 
   "ArtistID": 732, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "239.1987", 
-  "ArtistBio": "American, 1868\u20131962", 
-  "CreditLine": "Gift of The Metropolitan Museum of Art in honor of Leonard A. Lauder", 
+  "ArtistBio": "(American, 1868\u20131962)", 
+  "DateAcquired": "1987-05-27", 
+  "\ufeffTitle": "Victor Bicycles, Overman Wheel Co", 
   "ObjectID": "5797"
 }

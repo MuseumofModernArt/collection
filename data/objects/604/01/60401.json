@@ -5,8 +5,7 @@
   "Artist": "Lyonel Feininger", 
   "URL": "http://www.moma.org/collection/works/60401", 
   "CuratorApproved": "Y", 
-  "Title": "Zirchow", 
-  "DateAcquired": "1996-03-12", 
+  "CreditLine": "Gift of William S. Lieberman in honor of Louise Reinhardt Smith", 
   "Date": "1920", 
   "ArtistID": 1832, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "27.1996", 
-  "ArtistBio": "American, 1871\u20131956", 
-  "CreditLine": "Gift of William S. Lieberman in honor of Louise Reinhardt Smith", 
+  "ArtistBio": "(American, 1871\u20131956)", 
+  "DateAcquired": "1996-03-12", 
+  "\ufeffTitle": "Zirchow", 
   "ObjectID": "60401"
 }

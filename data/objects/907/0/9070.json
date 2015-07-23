@@ -5,8 +5,7 @@
   "Artist": "Kirill Zdanevich", 
   "URL": "http://www.moma.org/collection/works/9070", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "2001-01-24", 
+  "CreditLine": "Gift of The Judith Rothschild Foundation", 
   "Date": "1919", 
   "Keywords": [
     "online art collection", 
@@ -16,7 +15,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "4.2001", 
-  "ArtistBio": "Russian, 1892\u20131969", 
-  "CreditLine": "Gift of The Judith Rothschild Foundation", 
+  "ArtistBio": "(Russian, 1892\u20131969)", 
+  "DateAcquired": "2001-01-24", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "9070"
 }

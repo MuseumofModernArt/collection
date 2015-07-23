@@ -1,12 +1,11 @@
 {
-  "Medium": "Aquatint and engraving  ", 
+  "Medium": "Aquatint and engraving\r\n", 
   "Dimensions": "plate: 13 5/8 x 9 3/4\" (34.6 x 24.8 cm); sheet: 17 1/2 x 13 5/16\" (44.5 x 33.8 cm)", 
   "Classification": "Print", 
   "Artist": "Pablo Picasso", 
   "URL": "http://www.moma.org/collection/works/64796", 
   "CuratorApproved": "Y", 
-  "Title": "Vollard. I from the Vollard Suite", 
-  "DateAcquired": "1983-01-18", 
+  "CreditLine": "Gift of Klaus G. Perls, in memory of Frank Perls, Art Dealer (by exchange)", 
   "Date": "March 4, 1937, printed 1939", 
   "ArtistID": 4609, 
   "Keywords": [
@@ -20,7 +19,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "229.1983", 
-  "ArtistBio": "Spanish, 1881\u20131973", 
-  "CreditLine": "Gift of Klaus G. Perls, in memory of Frank Perls, Art Dealer (by exchange)", 
+  "ArtistBio": "(Spanish, 1881\u20131973)", 
+  "DateAcquired": "1983-01-18", 
+  "\ufeffTitle": "Vollard. I from the Vollard Suite", 
   "ObjectID": "64796"
 }

@@ -5,8 +5,7 @@
   "Artist": "Louise Bourgeois", 
   "URL": "http://www.moma.org/collection/works/68798", 
   "CuratorApproved": "Y", 
-  "Title": "Please Hang in There, state II", 
-  "DateAcquired": "1999-11-18", 
+  "CreditLine": "Gift of the artist", 
   "Date": "2000", 
   "ArtistID": 710, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "420.1999", 
-  "ArtistBio": "American, born France. 1911\u20132010", 
-  "CreditLine": "Gift of the artist", 
+  "ArtistBio": "(American, born France. 1911\u20132010)", 
+  "DateAcquired": "1999-11-18", 
+  "\ufeffTitle": "Please Hang in There", 
   "ObjectID": "68798"
 }

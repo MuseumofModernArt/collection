@@ -1,12 +1,11 @@
 {
-  "Medium": ".a: Pen and ink  .b: Collage", 
-  "Dimensions": ".a:  5 5/8 x 7\" (14.3 x 17.8 cm)  .b: 4 1/2 x 7\" (11.4 x 17.8 cm)", 
+  "Medium": ".a: Pen and ink\r\n.b: Collage", 
+  "Dimensions": ".a:  5 5/8 x 7\" (14.3 x 17.8 cm)\r\n.b: 4 1/2 x 7\" (11.4 x 17.8 cm)", 
   "Classification": "A&D Architectural Drawing", 
   "Artist": "Raimund Abraham", 
   "URL": "http://www.moma.org/collection/works/307", 
   "CuratorApproved": "Y", 
-  "Title": "Transplantation I  Perspective and plan", 
-  "DateAcquired": "1965-04-06", 
+  "CreditLine": "Philip Johnson Fund", 
   "Date": "1964", 
   "ArtistID": 47, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "281.1965.a-b", 
-  "ArtistBio": "American, born Austria. 1933\u20132010", 
-  "CreditLine": "Philip Johnson Fund", 
+  "ArtistBio": "(American, born Austria. 1933\u20132010)", 
+  "DateAcquired": "1965-04-06", 
+  "\ufeffTitle": "Transplantation I, Perspective and plan", 
   "ObjectID": "307"
 }

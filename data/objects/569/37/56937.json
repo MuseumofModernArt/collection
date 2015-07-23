@@ -5,8 +5,7 @@
   "Artist": "Manuel \u00c1lvarez Bravo", 
   "URL": "http://www.moma.org/collection/works/56937", 
   "CuratorApproved": "Y", 
-  "Title": "Kiln", 
-  "DateAcquired": "NULL", 
+  "CreditLine": "Gift of N. Carol Lipis", 
   "Date": "1957", 
   "ArtistID": 135, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "848.1978.4", 
-  "ArtistBio": "Mexican, 1902\u20132002", 
-  "CreditLine": "Gift of N. Carol Lipis", 
+  "ArtistBio": "(Mexican, 1902\u20132002)", 
+  "DateAcquired": "", 
+  "\ufeffTitle": "Kiln", 
   "ObjectID": "56937"
 }

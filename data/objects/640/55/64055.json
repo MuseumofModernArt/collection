@@ -5,8 +5,7 @@
   "Artist": "David Hockney", 
   "URL": "http://www.moma.org/collection/works/64055", 
   "CuratorApproved": "Y", 
-  "Title": "Jungle Boy", 
-  "DateAcquired": "1977-05-03", 
+  "CreditLine": "Gift of John A. Torson, in memory of Charles Alan", 
   "Date": "1964", 
   "ArtistID": 2678, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "189.1977", 
-  "ArtistBio": "British, born 1937", 
-  "CreditLine": "Gift of John A. Torson, in memory of Charles Alan", 
+  "ArtistBio": "(British, born 1937)", 
+  "DateAcquired": "1977-05-03", 
+  "\ufeffTitle": "Jungle Boy", 
   "ObjectID": "64055"
 }

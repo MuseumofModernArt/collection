@@ -1,12 +1,11 @@
 {
   "Medium": "Chrome-plated brass", 
-  "Dimensions": ".1 (bowl): 1 1/4 x 11 1/4\" (3.1 x 28.6 cm)  .2 (dish): 15/16 x 8 3/8\" (2.4 x 21.2 cm)", 
+  "Dimensions": ".1 (bowl): 1 1/4 x 11 1/4\" (3.1 x 28.6 cm)\r\n.2 (dish): 15/16 x 8 3/8\" (2.4 x 21.2 cm)", 
   "Classification": "A&D Design", 
   "Artist": "Marianne Brandt", 
   "URL": "http://www.moma.org/collection/works/2445", 
   "CuratorApproved": "Y", 
-  "Title": "Fruit Bowl and Fruit Dish", 
-  "DateAcquired": "1958-12-04", 
+  "CreditLine": "Phyllis B. Lambert Fund", 
   "Date": "1929", 
   "ArtistID": 741, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "187.1958.1-2", 
-  "ArtistBio": "German, 1893\u20131983", 
-  "CreditLine": "Phyllis B. Lambert Fund", 
+  "ArtistBio": "(German, 1893\u20131983)", 
+  "DateAcquired": "1958-12-04", 
+  "\ufeffTitle": "Fruit Bowl and Fruit Dish", 
   "ObjectID": "2445"
 }

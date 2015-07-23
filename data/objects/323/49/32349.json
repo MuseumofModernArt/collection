@@ -1,12 +1,11 @@
 {
   "Medium": "Illustrated book with ten screenprints", 
-  "Dimensions": "ea. composition  23 7/16 x 19 5/8\" (59.6 x 49.8 cm)  page  25 9/16 x 19 11/16\" (65 x 50 cm)", 
+  "Dimensions": "ea. composition  23 7/16 x 19 5/8\" (59.6 x 49.8 cm)\r\npage  25 9/16 x 19 11/16\" (65 x 50 cm)", 
   "Classification": "Illustrated Book", 
   "Artist": "Robert Indiana", 
   "URL": "http://www.moma.org/collection/works/32349", 
   "CuratorApproved": "Y", 
-  "Title": "Numbers", 
-  "DateAcquired": "1968-12-11", 
+  "CreditLine": "The Celeste and Armand Bartos Foundation Fund", 
   "Date": "1968", 
   "ArtistID": 2812, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "1644.1968.1-10", 
-  "ArtistBio": "American, born 1928", 
-  "CreditLine": "The Celeste and Armand Bartos Foundation Fund", 
+  "ArtistBio": "(American, born 1928)", 
+  "DateAcquired": "1968-12-11", 
+  "\ufeffTitle": "Numbers", 
   "ObjectID": "32349"
 }

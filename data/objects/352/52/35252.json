@@ -5,8 +5,7 @@
   "Artist": "Diego Rivera", 
   "URL": "http://www.moma.org/collection/works/35252", 
   "CuratorApproved": "Y", 
-  "Title": "Woman with Two Children", 
-  "DateAcquired": "1940-04-05", 
+  "CreditLine": "Given anonymously", 
   "Date": "(c. 1925)", 
   "ArtistID": 4942, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "201.1940", 
-  "ArtistBio": "Mexican, 1886\u20131957", 
-  "CreditLine": "Given anonymously", 
+  "ArtistBio": "(Mexican, 1886\u20131957)", 
+  "DateAcquired": "1940-04-05", 
+  "\ufeffTitle": "Woman with Two Children", 
   "ObjectID": "35252"
 }

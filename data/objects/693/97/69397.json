@@ -5,8 +5,7 @@
   "Artist": "Joel Shapiro", 
   "URL": "http://www.moma.org/collection/works/69397", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1990-10-23", 
+  "CreditLine": "Acquired in memory of Monroe Wheeler", 
   "Date": "1989", 
   "ArtistID": 5373, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "455.1990", 
-  "ArtistBio": "American, born 1941", 
-  "CreditLine": "Acquired in memory of Monroe Wheeler", 
+  "ArtistBio": "(American, born 1941)", 
+  "DateAcquired": "1990-10-23", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "69397"
 }

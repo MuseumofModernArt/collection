@@ -5,8 +5,7 @@
   "Artist": "Max Beckmann", 
   "URL": "http://www.moma.org/collection/works/66635", 
   "CuratorApproved": "Y", 
-  "Title": "Street II", 
-  "DateAcquired": "1948-10-06", 
+  "CreditLine": "Gift of Victor S. Riesenfeld", 
   "Date": "(1916-17), dated 1917", 
   "ArtistID": 429, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "310.1948", 
-  "ArtistBio": "German, 1884\u20131950", 
-  "CreditLine": "Gift of Victor S. Riesenfeld", 
+  "ArtistBio": "(German, 1884\u20131950)", 
+  "DateAcquired": "1948-10-06", 
+  "\ufeffTitle": "Street II (Strasse II)", 
   "ObjectID": "66635"
 }

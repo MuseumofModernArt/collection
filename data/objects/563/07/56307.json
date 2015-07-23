@@ -5,8 +5,7 @@
   "Artist": "Lee Friedlander", 
   "URL": "http://www.moma.org/collection/works/56307", 
   "CuratorApproved": "Y", 
-  "Title": "Theodore Roosevelt. Roosevelt Island, Washington, D.C.", 
-  "DateAcquired": "2000-10-12", 
+  "CreditLine": "Purchase", 
   "Date": "1972", 
   "ArtistID": 2002, 
   "Keywords": [
@@ -20,7 +19,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "740.2000", 
-  "ArtistBio": "American, born 1934", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(American, born 1934)", 
+  "DateAcquired": "2000-10-12", 
+  "\ufeffTitle": "Theodore Roosevelt. Roosevelt Island, Washington, D.C.", 
   "ObjectID": "56307"
 }

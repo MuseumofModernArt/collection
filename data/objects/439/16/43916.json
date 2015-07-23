@@ -5,8 +5,7 @@
   "Artist": "Edward Cheney", 
   "URL": "http://www.moma.org/collection/works/43916", 
   "CuratorApproved": "Y", 
-  "Title": "Ludlow Castle", 
-  "DateAcquired": "1992-01-09", 
+  "CreditLine": "Gift of David Garfinkel", 
   "Date": "1858", 
   "ArtistID": 6896, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "6.1992", 
-  "ArtistBio": "British, 1800\u20131866", 
-  "CreditLine": "Gift of David Garfinkel", 
+  "ArtistBio": "(British, 1800\u20131866)", 
+  "DateAcquired": "1992-01-09", 
+  "\ufeffTitle": "Ludlow Castle", 
   "ObjectID": "43916"
 }

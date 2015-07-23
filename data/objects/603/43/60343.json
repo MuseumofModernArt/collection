@@ -5,8 +5,7 @@
   "Artist": "\u00c9mile Bernard", 
   "URL": "http://www.moma.org/collection/works/60343", 
   "CuratorApproved": "Y", 
-  "Title": "Death of the Knight (La Mort du cavalier)", 
-  "DateAcquired": "1961-01-10", 
+  "CreditLine": "Gift of Michael Benisovich", 
   "Date": "(1892)", 
   "ArtistID": 511, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "25.1961", 
-  "ArtistBio": "French, 1868\u20131941", 
-  "CreditLine": "Gift of Michael Benisovich", 
+  "ArtistBio": "(French, 1868\u20131941)", 
+  "DateAcquired": "1961-01-10", 
+  "\ufeffTitle": "Death of the Knight (La Mort du cavalier)", 
   "ObjectID": "60343"
 }

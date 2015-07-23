@@ -5,8 +5,7 @@
   "Artist": "Gilles Peress", 
   "URL": "http://www.moma.org/collection/works/54693", 
   "CuratorApproved": "Y", 
-  "Title": "Tabriz - Followers of Ayatollah Shariot Madari", 
-  "DateAcquired": "1980-10-23", 
+  "CreditLine": "Purchase", 
   "Date": "1980", 
   "ArtistID": 4554, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "523.1980", 
-  "ArtistBio": "French, born 1946", 
-  "CreditLine": "Purchase", 
+  "ArtistBio": "(French, born 1946)", 
+  "DateAcquired": "1980-10-23", 
+  "\ufeffTitle": "Tabriz - Followers of Ayatollah Shariot Madari", 
   "ObjectID": "54693"
 }

@@ -5,8 +5,7 @@
   "Artist": "Alexander Bally", 
   "URL": "http://www.moma.org/collection/works/2909", 
   "CuratorApproved": "Y", 
-  "Title": "Brigade Firefighter Helmet", 
-  "DateAcquired": "1986-10-07", 
+  "CreditLine": "Gift of the designer", 
   "Date": "1984", 
   "ArtistID": 315, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "234.1986", 
-  "ArtistBio": "American, born 1938", 
-  "CreditLine": "Gift of the designer", 
+  "ArtistBio": "(American, born 1938)", 
+  "DateAcquired": "1986-10-07", 
+  "\ufeffTitle": "Brigade Firefighter Helmet", 
   "ObjectID": "2909"
 }

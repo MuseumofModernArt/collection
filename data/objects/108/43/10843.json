@@ -1,12 +1,11 @@
 {
   "Medium": "Illustrated Book with 9 lithographs and 200 reproductions of drawings", 
-  "Dimensions": "NULL", 
+  "Dimensions": "", 
   "Classification": "Illustrated Book", 
   "Artist": "Wayne Thiebaud", 
   "URL": "http://www.moma.org/collection/works/10843", 
   "CuratorApproved": "Y", 
-  "Title": "The Physiology of Taste by Jean Anthelme Brillat- Savarin", 
-  "DateAcquired": "1995-01-24", 
+  "CreditLine": "Gift of Albert Carman (by exchange)", 
   "Date": "1994", 
   "ArtistID": 5849, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "58.1995.1-9", 
-  "ArtistBio": "American, born 1920", 
-  "CreditLine": "Gift of Albert Carman (by exchange)", 
+  "ArtistBio": "(American, born 1920)", 
+  "DateAcquired": "1995-01-24", 
+  "\ufeffTitle": "The Physiology of Taste", 
   "ObjectID": "10843"
 }

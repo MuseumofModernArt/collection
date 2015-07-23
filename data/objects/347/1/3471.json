@@ -5,8 +5,7 @@
   "Artist": "Wilfred Pezold", 
   "URL": "http://www.moma.org/collection/works/3471", 
   "CuratorApproved": "Y", 
-  "Title": "Inclinat Level (model 682)", 
-  "DateAcquired": "1982-10-27", 
+  "CreditLine": "Gift of the manufacturer", 
   "Date": "1980", 
   "ArtistID": 4593, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "372.1982", 
-  "ArtistBio": "German, born 1934", 
-  "CreditLine": "Gift of the manufacturer", 
+  "ArtistBio": "(German, born 1934)", 
+  "DateAcquired": "1982-10-27", 
+  "\ufeffTitle": "Inclinat Level (model 682)", 
   "ObjectID": "3471"
 }

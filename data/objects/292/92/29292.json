@@ -1,12 +1,11 @@
 {
   "Medium": "Monograph with reproductions and one etching and drypoint (\"Woman in Armchair\"; unbound frontispiece)", 
-  "Dimensions": "plate: 4 5/8 x 3 1/16\" (11.7 x 7.7 cm); page (irreg.): 11 x 8 7/8\" (28 x 22.5 cm)  ", 
+  "Dimensions": "plate: 4 5/8 x 3 1/16\" (11.7 x 7.7 cm); page (irreg.): 11 x 8 7/8\" (28 x 22.5 cm)\r\n", 
   "Classification": "Illustrated Book", 
   "Artist": "Pablo Picasso", 
   "URL": "http://www.moma.org/collection/works/29292", 
   "CuratorApproved": "Y", 
-  "Title": "Picasso: Oeuvres 1920-1926", 
-  "DateAcquired": "1964-10-06", 
+  "CreditLine": "The Louis E. Stern Collection", 
   "Date": "1926.  (Print executed 1925).", 
   "ArtistID": 4609, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "963.1964", 
-  "ArtistBio": "Spanish, 1881\u20131973", 
-  "CreditLine": "The Louis E. Stern Collection", 
+  "ArtistBio": "(Spanish, 1881\u20131973)", 
+  "DateAcquired": "1964-10-06", 
+  "\ufeffTitle": "Picasso: Oeuvres 1920-1926", 
   "ObjectID": "29292"
 }

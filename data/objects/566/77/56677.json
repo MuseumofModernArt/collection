@@ -5,8 +5,7 @@
   "Artist": "Andreas Feininger", 
   "URL": "http://www.moma.org/collection/works/56677", 
   "CuratorApproved": "Y", 
-  "Title": "The RCA Buildnig on a Rainy Day", 
-  "DateAcquired": "1965-11-09", 
+  "CreditLine": "Gift of the photographer", 
   "Date": "1941", 
   "ArtistID": 1831, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "839.1965", 
-  "ArtistBio": "American, born France. 1906\u20131999", 
-  "CreditLine": "Gift of the photographer", 
+  "ArtistBio": "(American, born France. 1906\u20131999)", 
+  "DateAcquired": "1965-11-09", 
+  "\ufeffTitle": "The RCA Buildnig on a Rainy Day", 
   "ObjectID": "56677"
 }

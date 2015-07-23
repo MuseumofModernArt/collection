@@ -5,8 +5,7 @@
   "Artist": "Frederick Kiesler", 
   "URL": "http://www.moma.org/collection/works/399", 
   "CuratorApproved": "Y", 
-  "Title": "Endless Theater Project  Section", 
-  "DateAcquired": "1966-05-10", 
+  "CreditLine": "Gift of the architect", 
   "Date": "1924", 
   "ArtistID": 3091, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "364.1966", 
-  "ArtistBio": "American, born Austria-Hungary. 1890\u20131965", 
-  "CreditLine": "Gift of the architect", 
+  "ArtistBio": "(American, born Austria-Hungary. 1890\u20131965)", 
+  "DateAcquired": "1966-05-10", 
+  "\ufeffTitle": "Endless Theater Project, Section", 
   "ObjectID": "399"
 }

@@ -5,8 +5,7 @@
   "Artist": "Tomoyuki Sugiyama", 
   "URL": "http://www.moma.org/collection/works/2240", 
   "CuratorApproved": "Y", 
-  "Title": "Bubble Boy Speakers", 
-  "DateAcquired": "1996-04-09", 
+  "CreditLine": "Gift of the manufacturer", 
   "Date": "1986", 
   "ArtistID": 7514, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "127.1996.1-2", 
-  "ArtistBio": "Japanese, born 1954", 
-  "CreditLine": "Gift of the manufacturer", 
+  "ArtistBio": "(Japanese, born 1954)", 
+  "DateAcquired": "1996-04-09", 
+  "\ufeffTitle": "Bubble Boy Speakers", 
   "ObjectID": "2240"
 }

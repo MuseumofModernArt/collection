@@ -5,8 +5,7 @@
   "Artist": "Frank Lloyd Wright", 
   "URL": "http://www.moma.org/collection/works/3336", 
   "CuratorApproved": "Y", 
-  "Title": "Desk", 
-  "DateAcquired": "1969-04-24", 
+  "CreditLine": "Purchase. Lily Auchincloss Fund", 
   "Date": "1936-39", 
   "ArtistID": 6459, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "341.1969", 
-  "ArtistBio": "American, 1867\u20131959", 
-  "CreditLine": "Purchase. Lily Auchincloss Fund", 
+  "ArtistBio": "(American, 1867\u20131959)", 
+  "DateAcquired": "1969-04-24", 
+  "\ufeffTitle": "Desk", 
   "ObjectID": "3336"
 }

@@ -5,8 +5,7 @@
   "Artist": "James Rosenquist", 
   "URL": "http://www.moma.org/collection/works/36333", 
   "CuratorApproved": "Y", 
-  "Title": "Fahrenheit 1982\u00b0", 
-  "DateAcquired": "1983-03-15", 
+  "CreditLine": "Gift of The Lauder Foundation", 
   "Date": "1982", 
   "ArtistID": 5021, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "328.1983", 
-  "ArtistBio": "American, born 1933", 
-  "CreditLine": "Gift of The Lauder Foundation", 
+  "ArtistBio": "(American, born 1933)", 
+  "DateAcquired": "1983-03-15", 
+  "\ufeffTitle": "Fahrenheit 1982\u00b0", 
   "ObjectID": "36333"
 }

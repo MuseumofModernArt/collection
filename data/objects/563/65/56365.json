@@ -5,8 +5,7 @@
   "Artist": "Philippe Halsman", 
   "URL": "http://www.moma.org/collection/works/56365", 
   "CuratorApproved": "Y", 
-  "Title": "Marilyn as Mao", 
-  "DateAcquired": "1998-12-10", 
+  "CreditLine": "Gift of Jane Halsman Bello", 
   "Date": "1967", 
   "ArtistID": 2470, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "772.1998", 
-  "ArtistBio": "American, born Latvia. 1906\u20131979", 
-  "CreditLine": "Gift of Jane Halsman Bello", 
+  "ArtistBio": "(American, born Latvia. 1906\u20131979)", 
+  "DateAcquired": "1998-12-10", 
+  "\ufeffTitle": "Marilyn as Mao", 
   "ObjectID": "56365"
 }

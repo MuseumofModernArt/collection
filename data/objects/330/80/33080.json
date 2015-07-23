@@ -5,8 +5,7 @@
   "Artist": "George Grosz", 
   "URL": "http://www.moma.org/collection/works/33080", 
   "CuratorApproved": "Y", 
-  "Title": "The End of the Day", 
-  "DateAcquired": "1947-03-13", 
+  "CreditLine": "A. Conger Goodyear Fund", 
   "Date": "(c. 1919)", 
   "ArtistID": 2374, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "9.1947", 
-  "ArtistBio": "American, born Germany. 1893\u20131959", 
-  "CreditLine": "A. Conger Goodyear Fund", 
+  "ArtistBio": "(American, born Germany. 1893\u20131959)", 
+  "DateAcquired": "1947-03-13", 
+  "\ufeffTitle": "The End of the Day", 
   "ObjectID": "33080"
 }

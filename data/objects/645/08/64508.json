@@ -5,8 +5,7 @@
   "Artist": "Otto Dix", 
   "URL": "http://www.moma.org/collection/works/64508", 
   "CuratorApproved": "Y", 
-  "Title": "Nelly II", 
-  "DateAcquired": "1955-10-10", 
+  "CreditLine": "Purchase Fund", 
   "Date": "(1923-1924, published 1924)", 
   "ArtistID": 1559, 
   "Keywords": [
@@ -18,7 +17,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "213.1955", 
-  "ArtistBio": "German, 1891\u20131969", 
-  "CreditLine": "Purchase Fund", 
+  "ArtistBio": "(German, 1891\u20131969)", 
+  "DateAcquired": "1955-10-10", 
+  "\ufeffTitle": "Nelly II", 
   "ObjectID": "64508"
 }

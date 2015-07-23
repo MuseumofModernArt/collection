@@ -5,8 +5,7 @@
   "Artist": "Antonio Dias", 
   "URL": "http://www.moma.org/collection/works/38128", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1969-10-28", 
+  "CreditLine": "Inter-American Fund", 
   "Date": "1967", 
   "ArtistID": 1529, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Drawings", 
   "MoMANumber": "817.1969", 
-  "ArtistBio": "Brazilian, born 1944", 
-  "CreditLine": "Inter-American Fund", 
+  "ArtistBio": "(Brazilian, born 1944)", 
+  "DateAcquired": "1969-10-28", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "38128"
 }

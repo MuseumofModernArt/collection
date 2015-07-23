@@ -5,8 +5,7 @@
   "Artist": "Emil Nolde", 
   "URL": "http://www.moma.org/collection/works/65461", 
   "CuratorApproved": "Y", 
-  "Title": "Spectators", 
-  "DateAcquired": "1955-10-10", 
+  "CreditLine": "Given anonymously", 
   "Date": "(1911)", 
   "ArtistID": 4327, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "261.1955", 
-  "ArtistBio": "German, 1867\u20131956", 
-  "CreditLine": "Given anonymously", 
+  "ArtistBio": "(German, 1867\u20131956)", 
+  "DateAcquired": "1955-10-10", 
+  "\ufeffTitle": "Spectators (Zuschauer)", 
   "ObjectID": "65461"
 }

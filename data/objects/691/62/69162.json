@@ -5,8 +5,7 @@
   "Artist": "Norman Ackroyd", 
   "URL": "http://www.moma.org/collection/works/69162", 
   "CuratorApproved": "Y", 
-  "Title": "Noon and Night", 
-  "DateAcquired": "1971-05-18", 
+  "CreditLine": "Reiss-Cohen Fund", 
   "Date": "1970", 
   "ArtistID": 55, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "440.1971", 
-  "ArtistBio": "British", 
-  "CreditLine": "Reiss-Cohen Fund", 
+  "ArtistBio": "(British)", 
+  "DateAcquired": "1971-05-18", 
+  "\ufeffTitle": "Noon and Night", 
   "ObjectID": "69162"
 }

@@ -5,8 +5,7 @@
   "Artist": "Ruodi Barth", 
   "URL": "http://www.moma.org/collection/works/7194", 
   "CuratorApproved": "Y", 
-  "Title": "Zoologischer Garten Basel", 
-  "DateAcquired": "1951-05-24", 
+  "CreditLine": "Gift of the Swiss Government", 
   "Date": "1947", 
   "ArtistID": 355, 
   "Keywords": [
@@ -17,7 +16,8 @@
   ], 
   "Department": "Architecture & Design", 
   "MoMANumber": "483.1951", 
-  "ArtistBio": "Swiss, 1921\u20131999", 
-  "CreditLine": "Gift of the Swiss Government", 
+  "ArtistBio": "(Swiss, 1921\u20131999)", 
+  "DateAcquired": "1951-05-24", 
+  "\ufeffTitle": "Zoologischer Garten Basel", 
   "ObjectID": "7194"
 }

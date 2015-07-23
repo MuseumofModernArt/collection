@@ -5,8 +5,7 @@
   "Artist": "William Christenberry", 
   "URL": "http://www.moma.org/collection/works/47417", 
   "CuratorApproved": "Y", 
-  "Title": "Window, Uniontown, Alabama", 
-  "DateAcquired": "1975-05-14", 
+  "CreditLine": "David H. McAlpin Fund", 
   "Date": "1974", 
   "ArtistID": 1112, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "176.1975", 
-  "ArtistBio": "American, born 1936", 
-  "CreditLine": "David H. McAlpin Fund", 
+  "ArtistBio": "(American, born 1936)", 
+  "DateAcquired": "1975-05-14", 
+  "\ufeffTitle": "Window, Uniontown, Alabama", 
   "ObjectID": "47417"
 }

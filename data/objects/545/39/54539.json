@@ -5,8 +5,7 @@
   "Artist": "Nancy Hellebrand", 
   "URL": "http://www.moma.org/collection/works/54539", 
   "CuratorApproved": "Y", 
-  "Title": "Untitled", 
-  "DateAcquired": "1981-12-17", 
+  "CreditLine": "Acquired with matching funds from Shirley C. Burden and the National Endowment for the Arts", 
   "Date": "May 1981", 
   "ArtistID": 2587, 
   "Keywords": [
@@ -19,7 +18,8 @@
   ], 
   "Department": "Photography", 
   "MoMANumber": "509.1981", 
-  "ArtistBio": "American, born 1944", 
-  "CreditLine": "Acquired with matching funds from Shirley C. Burden and the National Endowment for the Arts", 
+  "ArtistBio": "(American, born 1944)", 
+  "DateAcquired": "1981-12-17", 
+  "\ufeffTitle": "Untitled", 
   "ObjectID": "54539"
 }
