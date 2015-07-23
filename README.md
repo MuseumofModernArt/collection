@@ -5,7 +5,7 @@ The Museum of Modern Art (MoMA) acquired its first artworks in 1929, the year it
 
 MoMA is committed to helping everyone understand, enjoy, and use our collection. The Museum’s [website](http://www.moma.org/collection) features almost 60,000 artworks from nearly 10,000 artists. This research dataset contains more than 120,000 records, representing all of the works that have been accessioned into MoMA’s collection and cataloged in our database. It includes basic metadata for each work, including title, artist, date made, medium, dimensions, and date acquired by the Museum. Some of these records have incomplete information and are noted as “not Curator Approved.” 
 
-At this time, the data is only available in CSV format.
+At this time, the data is available in CSV format, encoded in UTF-8. While UTF-8 is the standard for multilingual character encodings, it is not correctly interpreted by Excel on a Mac. Users of Excel on a Mac can convert the UTF-8 to UTF-16 so the file can be imported correctly.
 
 This dataset is placed in the public domain using a [CC0 License](https://creativecommons.org/publicdomain/zero/1.0/).
 
