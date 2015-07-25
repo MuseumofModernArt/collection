@@ -4,21 +4,20 @@
   "Classification": "Painting", 
   "Artist": "Clyfford Still", 
   "URL": "http://www.moma.org/collection/works/79371", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Blanchette Hooker Rockefeller Fund", 
-  "Date": "1951", 
-  "ArtistID": 5665, 
+  "DateAcquired": "1954-09-30", 
   "Keywords": [
-    "online art collection", 
     "Clyfford Still", 
     "1951-T No", 
     "3", 
     "1951"
   ], 
+  "ArtistID": 5665, 
+  "Title": "1951-T No. 3", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "277.1954", 
+  "Date": "1951", 
   "ArtistBio": "(American, 1904\u20131980)", 
-  "DateAcquired": "1954-09-30", 
-  "\ufeffTitle": "1951-T No. 3", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79371"
 }

@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Mary Frank", 
   "URL": "http://www.moma.org/collection/works/64023", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Mrs. E. B. Parkinson Fund", 
-  "Date": "1977", 
-  "ArtistID": 1972, 
+  "DateAcquired": "1977-05-03", 
   "Keywords": [
-    "online art collection", 
     "Mary Frank", 
     "Untitled", 
     "1977"
   ], 
+  "ArtistID": 1972, 
+  "Title": "Untitled", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "187.1977.a-b", 
+  "Date": "1977", 
   "ArtistBio": "(American, born 1933)", 
-  "DateAcquired": "1977-05-03", 
-  "\ufeffTitle": "Untitled", 
+  "CuratorApproved": "Y", 
   "ObjectID": "64023"
 }

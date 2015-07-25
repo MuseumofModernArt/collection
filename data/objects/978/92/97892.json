@@ -4,12 +4,9 @@
   "Classification": "Drawing", 
   "Artist": "Allen Ruppersberg", 
   "URL": "http://www.moma.org/collection/works/97892", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The Judith Rothschild Foundation Contemporary Drawings Collection Gift", 
-  "Date": "2000", 
-  "ArtistID": 5084, 
+  "DateAcquired": "2005-05-10", 
   "Keywords": [
-    "online art collection", 
     "Allen Ruppersberg", 
     "Honey", 
     "I rearranged the collection because I miss NY", 
@@ -20,10 +17,12 @@
     "Milan and the Cape", 
     "2000"
   ], 
+  "ArtistID": 5084, 
+  "Title": "Honey, I rearranged the collection because I miss NY, Paris, Rome, Berlin, London, Milan and the Cape.", 
   "Department": "Drawings", 
   "MoMANumber": "2926.2005.10", 
+  "Date": "2000", 
   "ArtistBio": "(American, born 1944)", 
-  "DateAcquired": "2005-05-10", 
-  "\ufeffTitle": "Honey, I rearranged the collection because I miss NY, Paris, Rome, Berlin, London, Milan and the Cape.", 
+  "CuratorApproved": "Y", 
   "ObjectID": "97892"
 }

@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Christian Rohlfs", 
   "URL": "http://www.moma.org/collection/works/60344", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Matthew T. Mellon Foundation Fund", 
-  "Date": "1910", 
-  "ArtistID": 5000, 
+  "DateAcquired": "1962-01-09", 
   "Keywords": [
-    "online art collection", 
     "Christian Rohlfs", 
     "Nomads (Wanderer)", 
     "1910"
   ], 
+  "ArtistID": 5000, 
+  "Title": "Nomads (Wanderer)", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "25.1962", 
+  "Date": "1910", 
   "ArtistBio": "(German, 1849\u20131938)", 
-  "DateAcquired": "1962-01-09", 
-  "\ufeffTitle": "Nomads (Wanderer)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "60344"
 }

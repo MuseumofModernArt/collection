@@ -4,12 +4,9 @@
   "Classification": "A&D Design", 
   "Artist": "Louis Majorelle, Daum Fr\u00e8res, Nancy, France", 
   "URL": "http://www.moma.org/collection/works/2170", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Joseph H. Heil Bequest (by exchange)", 
-  "Date": "c. 1900", 
-  "ArtistID": 3701, 
+  "DateAcquired": "1976-03-22", 
   "Keywords": [
-    "online art collection", 
     "Louis Majorelle", 
     "Daum Fr&egrave;res", 
     "Nancy and France", 
@@ -17,10 +14,12 @@
     "c", 
     "1900"
   ], 
+  "ArtistID": 3701, 
+  "Title": "Table Lamp", 
   "Department": "Architecture & Design", 
   "MoMANumber": "113.1976.a-b", 
+  "Date": "c. 1900", 
   "ArtistBio": "(French, 1859\u20131926) (French, established 1875)", 
-  "DateAcquired": "1976-03-22", 
-  "\ufeffTitle": "Table Lamp", 
+  "CuratorApproved": "Y", 
   "ObjectID": "2170"
 }

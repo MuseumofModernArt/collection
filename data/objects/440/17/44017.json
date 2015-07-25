@@ -4,12 +4,9 @@
   "Classification": "Photograph", 
   "Artist": "Berenice Abbott", 
   "URL": "http://www.moma.org/collection/works/44017", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "May 14, 1936", 
-  "ArtistID": 41, 
+  "DateAcquired": "1971-01-05", 
   "Keywords": [
-    "online art collection", 
     "Berenice Abbott", 
     "Willow Place", 
     "nos", 
@@ -18,10 +15,12 @@
     "May 14", 
     "1936"
   ], 
+  "ArtistID": 41, 
+  "Title": "Willow Place, nos. 43-49, Brooklyn", 
   "Department": "Photography", 
   "MoMANumber": "17.1971", 
+  "Date": "May 14, 1936", 
   "ArtistBio": "(American, 1898\u20131991)", 
-  "DateAcquired": "1971-01-05", 
-  "\ufeffTitle": "Willow Place, nos. 43-49, Brooklyn", 
+  "CuratorApproved": "Y", 
   "ObjectID": "44017"
 }

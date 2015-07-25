@@ -4,20 +4,19 @@
   "Classification": "Photograph", 
   "Artist": "Tina Barney", 
   "URL": "http://www.moma.org/collection/works/49142", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Anonymous gift", 
-  "Date": "1982", 
-  "ArtistID": 343, 
+  "DateAcquired": "1985-10-02", 
   "Keywords": [
-    "online art collection", 
     "Tina Barney", 
     "Sunday New York Times", 
     "1982"
   ], 
+  "ArtistID": 343, 
+  "Title": "Sunday New York Times", 
   "Department": "Photography", 
   "MoMANumber": "227.1985.x1-x2", 
+  "Date": "1982", 
   "ArtistBio": "(American, born 1945)", 
-  "DateAcquired": "1985-10-02", 
-  "\ufeffTitle": "Sunday New York Times", 
+  "CuratorApproved": "Y", 
   "ObjectID": "49142"
 }

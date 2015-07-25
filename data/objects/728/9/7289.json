@@ -4,20 +4,19 @@
   "Classification": "A&D Graphic Design", 
   "Artist": "Bob Schnepf", 
   "URL": "http://www.moma.org/collection/works/7289", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Given anonymously", 
-  "Date": "1967", 
-  "ArtistID": 5252, 
+  "DateAcquired": "1987-11-18", 
   "Keywords": [
-    "online art collection", 
     "Bob Schnepf", 
     "Avalon Ballroom", 
     "1967"
   ], 
+  "ArtistID": 5252, 
+  "Title": "Avalon Ballroom", 
   "Department": "Architecture & Design", 
   "MoMANumber": "501.1987", 
+  "Date": "1967", 
   "ArtistBio": "(American, born 1937)", 
-  "DateAcquired": "1987-11-18", 
-  "\ufeffTitle": "Avalon Ballroom", 
+  "CuratorApproved": "Y", 
   "ObjectID": "7289"
 }

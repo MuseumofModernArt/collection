@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Max Ernst", 
   "URL": "http://www.moma.org/collection/works/78730", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1928", 
-  "ArtistID": 1752, 
+  "DateAcquired": "1936-12-17", 
   "Keywords": [
-    "online art collection", 
     "Max Ernst", 
     "The Sea", 
     "1928"
   ], 
+  "ArtistID": 1752, 
+  "Title": "The Sea", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "85.1936", 
+  "Date": "1928", 
   "ArtistBio": "(French, born Germany. 1891\u20131976)", 
-  "DateAcquired": "1936-12-17", 
-  "\ufeffTitle": "The Sea", 
+  "CuratorApproved": "Y", 
   "ObjectID": "78730"
 }

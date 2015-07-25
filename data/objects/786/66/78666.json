@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Cundo Berm\u00fadez", 
   "URL": "http://www.moma.org/collection/works/78666", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Inter-American Fund", 
-  "Date": "1942", 
-  "ArtistID": 507, 
+  "DateAcquired": "1944-05-02", 
   "Keywords": [
-    "online art collection", 
     "Cundo Berm&uacute;dez", 
     "Barber Shop", 
     "1942"
   ], 
+  "ArtistID": 507, 
+  "Title": "Barber Shop", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "68.1944", 
+  "Date": "1942", 
   "ArtistBio": "(Cuban, 1914\u20132008)", 
-  "DateAcquired": "1944-05-02", 
-  "\ufeffTitle": "Barber Shop", 
+  "CuratorApproved": "Y", 
   "ObjectID": "78666"
 }

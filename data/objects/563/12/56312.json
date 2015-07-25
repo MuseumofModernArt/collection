@@ -4,12 +4,9 @@
   "Classification": "Photograph", 
   "Artist": "Lee Friedlander", 
   "URL": "http://www.moma.org/collection/works/56312", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1973", 
-  "ArtistID": 2002, 
+  "DateAcquired": "2000-10-12", 
   "Keywords": [
-    "online art collection", 
     "Lee Friedlander", 
     "Order of Elks Cemetery", 
     "Greenwood Cemetery", 
@@ -17,10 +14,12 @@
     "Louisiana", 
     "1973"
   ], 
+  "ArtistID": 2002, 
+  "Title": "Order of Elks Cemetery, Greenwood Cemetery. New Orleans, Louisiana", 
   "Department": "Photography", 
   "MoMANumber": "745.2000", 
+  "Date": "1973", 
   "ArtistBio": "(American, born 1934)", 
-  "DateAcquired": "2000-10-12", 
-  "\ufeffTitle": "Order of Elks Cemetery, Greenwood Cemetery. New Orleans, Louisiana", 
+  "CuratorApproved": "Y", 
   "ObjectID": "56312"
 }

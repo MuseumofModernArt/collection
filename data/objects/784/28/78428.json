@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Lucian Freud", 
   "URL": "http://www.moma.org/collection/works/78428", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "summer 1945", 
-  "ArtistID": 1993, 
+  "DateAcquired": "1953-01-30", 
   "Keywords": [
-    "online art collection", 
     "Lucian Freud", 
     "Woman with a Daffodil", 
     "summer 1945"
   ], 
+  "ArtistID": 1993, 
+  "Title": "Woman with a Daffodil", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "12.1953", 
+  "Date": "summer 1945", 
   "ArtistBio": "(British, born Germany. 1922\u20132011)", 
-  "DateAcquired": "1953-01-30", 
-  "\ufeffTitle": "Woman with a Daffodil", 
+  "CuratorApproved": "Y", 
   "ObjectID": "78428"
 }

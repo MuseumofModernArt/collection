@@ -4,22 +4,21 @@
   "Classification": "Print", 
   "Artist": "Pablo Picasso", 
   "URL": "http://www.moma.org/collection/works/60754", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Mrs. Saidie A. May", 
-  "Date": "March 7, 1921, published 1923-28", 
-  "ArtistID": 4609, 
+  "DateAcquired": "1934-03-17", 
   "Keywords": [
-    "online art collection", 
     "Pablo Picasso", 
     "The Horseman from Four Lithographs", 
     "March 7", 
     "1921", 
     "published 1923-28"
   ], 
+  "ArtistID": 4609, 
+  "Title": "The Horseman from Four Lithographs", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "42.1932", 
+  "Date": "March 7, 1921, published 1923-28", 
   "ArtistBio": "(Spanish, 1881\u20131973)", 
-  "DateAcquired": "1934-03-17", 
-  "\ufeffTitle": "The Horseman from Four Lithographs", 
+  "CuratorApproved": "Y", 
   "ObjectID": "60754"
 }

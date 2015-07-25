@@ -4,20 +4,19 @@
   "Classification": "Drawing", 
   "Artist": "Luc Tuymans", 
   "URL": "http://www.moma.org/collection/works/37545", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Linda and Howard Karshan", 
-  "Date": "1998", 
-  "ArtistID": 7520, 
+  "DateAcquired": "1998-10-29", 
   "Keywords": [
-    "online art collection", 
     "Luc Tuymans", 
     "The Blue Oak", 
     "1998"
   ], 
+  "ArtistID": 7520, 
+  "Title": "The Blue Oak", 
   "Department": "Drawings", 
   "MoMANumber": "603.1998", 
+  "Date": "1998", 
   "ArtistBio": "(Belgian, born 1958)", 
-  "DateAcquired": "1998-10-29", 
-  "\ufeffTitle": "The Blue Oak", 
+  "CuratorApproved": "Y", 
   "ObjectID": "37545"
 }

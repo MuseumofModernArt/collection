@@ -4,20 +4,19 @@
   "Classification": "Photograph", 
   "Artist": "Times Wide World Photos", 
   "URL": "http://www.moma.org/collection/works/58767", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The New York Times Collection", 
-  "Date": "March 1935", 
-  "ArtistID": 8632, 
+  "DateAcquired": "2001-06-14", 
   "Keywords": [
-    "online art collection", 
     "Times Wide World Photos", 
     "\"Mayor La Guardia Climbs a Fence\"", 
     "March 1935"
   ], 
+  "ArtistID": 8632, 
+  "Title": "\"Mayor La Guardia Climbs a Fence\"", 
   "Department": "Photography", 
   "MoMANumber": "2174.2001", 
+  "Date": "March 1935", 
   "ArtistBio": "(American, active 1919\u20131941)", 
-  "DateAcquired": "2001-06-14", 
-  "\ufeffTitle": "\"Mayor La Guardia Climbs a Fence\"", 
+  "CuratorApproved": "Y", 
   "ObjectID": "58767"
 }

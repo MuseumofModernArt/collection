@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Jennifer Bartlett", 
   "URL": "http://www.moma.org/collection/works/100190", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Edward R. Broida", 
-  "Date": "1975-76", 
-  "ArtistID": 357, 
+  "DateAcquired": "2005-10-06", 
   "Keywords": [
-    "online art collection", 
     "Jennifer Bartlett", 
     "Rhapsody", 
     "1975-76"
   ], 
+  "ArtistID": 357, 
+  "Title": "Rhapsody", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "650.2005", 
+  "Date": "1975-76", 
   "ArtistBio": "(American, born 1941)", 
-  "DateAcquired": "2005-10-06", 
-  "\ufeffTitle": "Rhapsody", 
+  "CuratorApproved": "Y", 
   "ObjectID": "100190"
 }

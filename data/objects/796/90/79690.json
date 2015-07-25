@@ -4,21 +4,20 @@
   "Classification": "Painting", 
   "Artist": "Jackson Pollock", 
   "URL": "http://www.moma.org/collection/works/79690", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Mr. and Mrs. Walter Bareiss Fund and purchase", 
-  "Date": "c. 1945", 
-  "ArtistID": 4675, 
+  "DateAcquired": "1980-04-09", 
   "Keywords": [
-    "online art collection", 
     "Jackson Pollock", 
     "There Were Seven in Eight", 
     "c", 
     "1945"
   ], 
+  "ArtistID": 4675, 
+  "Title": "There Were Seven in Eight", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "429.1980", 
+  "Date": "c. 1945", 
   "ArtistBio": "(American, 1912\u20131956)", 
-  "DateAcquired": "1980-04-09", 
-  "\ufeffTitle": "There Were Seven in Eight", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79690"
 }

@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Carl Andre", 
   "URL": "http://www.moma.org/collection/works/88948", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Agnes Gund", 
-  "Date": "2002", 
-  "ArtistID": 174, 
+  "DateAcquired": "2002-05-13", 
   "Keywords": [
-    "online art collection", 
     "Carl Andre", 
     "AL Ravine", 
     "2002"
   ], 
+  "ArtistID": 174, 
+  "Title": "AL Ravine", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "447.2002", 
+  "Date": "2002", 
   "ArtistBio": "(American, born 1935)", 
-  "DateAcquired": "2002-05-13", 
-  "\ufeffTitle": "AL Ravine", 
+  "CuratorApproved": "Y", 
   "ObjectID": "88948"
 }

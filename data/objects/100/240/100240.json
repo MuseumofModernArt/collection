@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Robert Grosvenor", 
   "URL": "http://www.moma.org/collection/works/100240", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Edward R. Broida", 
-  "Date": "1981-83", 
-  "ArtistID": 2373, 
+  "DateAcquired": "2005-10-06", 
   "Keywords": [
-    "online art collection", 
     "Robert Grosvenor", 
     "Untitled", 
     "1981-83"
   ], 
+  "ArtistID": 2373, 
+  "Title": "Untitled", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "700.2005", 
+  "Date": "1981-83", 
   "ArtistBio": "(American, born 1937)", 
-  "DateAcquired": "2005-10-06", 
-  "\ufeffTitle": "Untitled", 
+  "CuratorApproved": "Y", 
   "ObjectID": "100240"
 }

@@ -4,21 +4,20 @@
   "Classification": "A&D Architectural Drawing", 
   "Artist": "Daniel Libeskind", 
   "URL": "http://www.moma.org/collection/works/295", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Robert K. and Barbara J. Straus Family Foundation, Inc.", 
-  "Date": "1979", 
-  "ArtistID": 7527, 
+  "DateAcquired": "1999-06-30", 
   "Keywords": [
-    "online art collection", 
     "Daniel Libeskind", 
     "Micromegas Project", 
     "Time Sections", 
     "1979"
   ], 
+  "ArtistID": 7527, 
+  "Title": "Micromegas Project, Time Sections", 
   "Department": "Architecture & Design", 
   "MoMANumber": "271.1999", 
+  "Date": "1979", 
   "ArtistBio": "(American, born Poland 1946)", 
-  "DateAcquired": "1999-06-30", 
-  "\ufeffTitle": "Micromegas Project, Time Sections", 
+  "CuratorApproved": "Y", 
   "ObjectID": "295"
 }

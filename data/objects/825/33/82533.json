@@ -4,21 +4,20 @@
   "Classification": "Sculpture", 
   "Artist": "Louise Bourgeois", 
   "URL": "http://www.moma.org/collection/works/82533", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the artist", 
-  "Date": "1949-50 (cast 2001)", 
-  "ArtistID": 710, 
+  "DateAcquired": "2002-02-11", 
   "Keywords": [
-    "online art collection", 
     "Louise Bourgeois", 
     "Quarantania", 
     "III", 
     "1949-50 (cast 2001)"
   ], 
+  "ArtistID": 710, 
+  "Title": "Quarantania, III", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "2.2002", 
+  "Date": "1949-50 (cast 2001)", 
   "ArtistBio": "(American, born France. 1911\u20132010)", 
-  "DateAcquired": "2002-02-11", 
-  "\ufeffTitle": "Quarantania, III", 
+  "CuratorApproved": "Y", 
   "ObjectID": "82533"
 }

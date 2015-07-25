@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Josef Albers", 
   "URL": "http://www.moma.org/collection/works/80447", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The Riklis Collection of McCrory Corporation", 
-  "Date": "1954", 
-  "ArtistID": 97, 
+  "DateAcquired": "1985-10-25", 
   "Keywords": [
-    "online art collection", 
     "Josef Albers", 
     "Structural Constellation \"To Ferdinand Hodler\"", 
     "1954"
   ], 
+  "ArtistID": 97, 
+  "Title": "Structural Constellation \"To Ferdinand Hodler\"", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "985.1983", 
+  "Date": "1954", 
   "ArtistBio": "(American, born Germany. 1888\u20131976)", 
-  "DateAcquired": "1985-10-25", 
-  "\ufeffTitle": "Structural Constellation \"To Ferdinand Hodler\"", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80447"
 }

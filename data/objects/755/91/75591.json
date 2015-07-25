@@ -4,12 +4,9 @@
   "Classification": "Print", 
   "Artist": "L\u00e1szl\u00f3 Moholy-Nagy", 
   "URL": "http://www.moma.org/collection/works/75591", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of The Riklis Collection of McCrory Corporation", 
-  "Date": "1923", 
-  "ArtistID": 4048, 
+  "DateAcquired": "1985-10-25", 
   "Keywords": [
-    "online art collection", 
     "L&aacute;szl&oacute; Moholy-Nagy", 
     "Untitled (Composition) (ohne Titel (Komposition)) from the periodical Der Sturm", 
     "vol", 
@@ -18,10 +15,12 @@
     "1 (Jan 1923)", 
     "(1923)"
   ], 
+  "ArtistID": 4048, 
+  "Title": "Untitled (Composition) (ohne Titel (Komposition)) from the periodical Der Sturm, vol. 13, no. 1 (Jan 1923)", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "1085.1983", 
+  "Date": "1923", 
   "ArtistBio": "(American, born Hungary. 1895\u20131946)", 
-  "DateAcquired": "1985-10-25", 
-  "\ufeffTitle": "Untitled (Composition) (ohne Titel (Komposition)) from the periodical Der Sturm, vol. 13, no. 1 (Jan 1923)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "75591"
 }

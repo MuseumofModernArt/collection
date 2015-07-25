@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Jasper Johns", 
   "URL": "http://www.moma.org/collection/works/71052", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Emily Fisher Landau", 
-  "Date": "1994", 
-  "ArtistID": 2923, 
+  "DateAcquired": "1994-11-08", 
   "Keywords": [
-    "online art collection", 
     "Jasper Johns", 
     "After Holbein", 
     "1994"
   ], 
+  "ArtistID": 2923, 
+  "Title": "After Holbein", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "555.1994", 
+  "Date": "1994", 
   "ArtistBio": "(American, born 1930)", 
-  "DateAcquired": "1994-11-08", 
-  "\ufeffTitle": "After Holbein", 
+  "CuratorApproved": "Y", 
   "ObjectID": "71052"
 }

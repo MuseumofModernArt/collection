@@ -4,12 +4,9 @@
   "Classification": "Photograph", 
   "Artist": "Clarence H. White", 
   "URL": "http://www.moma.org/collection/works/46078", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Mr. and Mrs. Clarence H. White, Jr.", 
-  "Date": "1903", 
-  "ArtistID": 6338, 
+  "DateAcquired": "1976-02-24", 
   "Keywords": [
-    "online art collection", 
     "Clarence H", 
     "White", 
     "Edward and Clara Steichen on the Honeymoon", 
@@ -17,10 +14,12 @@
     "Ohio", 
     "1903"
   ], 
+  "ArtistID": 6338, 
+  "Title": "Edward and Clara Steichen on the Honeymoon, Newark, Ohio", 
   "Department": "Photography", 
   "MoMANumber": "91.1976", 
+  "Date": "1903", 
   "ArtistBio": "(American, 1871\u20131925)", 
-  "DateAcquired": "1976-02-24", 
-  "\ufeffTitle": "Edward and Clara Steichen on the Honeymoon, Newark, Ohio", 
+  "CuratorApproved": "Y", 
   "ObjectID": "46078"
 }

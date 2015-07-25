@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Jane Hammond", 
   "URL": "http://www.moma.org/collection/works/89123", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Emily Fisher Landau", 
-  "Date": "2003", 
-  "ArtistID": 6640, 
+  "DateAcquired": "2003-11-20", 
   "Keywords": [
-    "online art collection", 
     "Jane Hammond", 
     "Scrapbook", 
     "2003"
   ], 
+  "ArtistID": 6640, 
+  "Title": "Scrapbook", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "344.2003", 
+  "Date": "2003", 
   "ArtistBio": "(American, born 1950)", 
-  "DateAcquired": "2003-11-20", 
-  "\ufeffTitle": "Scrapbook", 
+  "CuratorApproved": "Y", 
   "ObjectID": "89123"
 }

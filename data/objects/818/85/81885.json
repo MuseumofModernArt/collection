@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Alberto Giacometti", 
   "URL": "http://www.moma.org/collection/works/81885", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Florene May Schoenborn Bequest", 
-  "Date": "1928-29", 
-  "ArtistID": 2141, 
+  "DateAcquired": "1996-12-09", 
   "Keywords": [
-    "online art collection", 
     "Alberto Giacometti", 
     "Gazing Head", 
     "1928-29"
   ], 
+  "ArtistID": 2141, 
+  "Title": "Gazing Head", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "817.1996", 
+  "Date": "1928-29", 
   "ArtistBio": "(Swiss, 1901\u20131966)", 
-  "DateAcquired": "1996-12-09", 
-  "\ufeffTitle": "Gazing Head", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81885"
 }

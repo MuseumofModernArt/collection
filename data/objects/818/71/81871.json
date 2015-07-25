@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Claes Oldenburg", 
   "URL": "http://www.moma.org/collection/works/81871", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the artist", 
-  "Date": "1959", 
-  "ArtistID": 4397, 
+  "DateAcquired": "1969-10-07", 
   "Keywords": [
-    "online art collection", 
     "Claes Oldenburg", 
     "\"Empire\" (\"Papa\") Ray Gun", 
     "1959"
   ], 
+  "ArtistID": 4397, 
+  "Title": "\"Empire\" (\"Papa\") Ray Gun", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "791.1969", 
+  "Date": "1959", 
   "ArtistBio": "(American, born Sweden 1929)", 
-  "DateAcquired": "1969-10-07", 
-  "\ufeffTitle": "\"Empire\" (\"Papa\") Ray Gun", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81871"
 }

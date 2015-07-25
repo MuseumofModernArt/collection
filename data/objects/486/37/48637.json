@@ -4,21 +4,20 @@
   "Classification": "Photograph", 
   "Artist": "Mark Cohen", 
   "URL": "http://www.moma.org/collection/works/48637", 
-  "CuratorApproved": "Y", 
   "CreditLine": "David H. McAlpin Fund", 
-  "Date": "February 1973", 
-  "ArtistID": 1175, 
+  "DateAcquired": "1973-05-10", 
   "Keywords": [
-    "online art collection", 
     "Mark Cohen", 
     "Untitled (Wilkes-Barre", 
     "Pennsylvania)", 
     "February 1973"
   ], 
+  "ArtistID": 1175, 
+  "Title": "Untitled (Wilkes-Barre, Pennsylvania)", 
   "Department": "Photography", 
   "MoMANumber": "214.1973", 
+  "Date": "February 1973", 
   "ArtistBio": "(American, born 1943)", 
-  "DateAcquired": "1973-05-10", 
-  "\ufeffTitle": "Untitled (Wilkes-Barre, Pennsylvania)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "48637"
 }

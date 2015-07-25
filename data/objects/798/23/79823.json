@@ -4,21 +4,20 @@
   "Classification": "Painting", 
   "Artist": "Arshile Gorky", 
   "URL": "http://www.moma.org/collection/works/79823", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Acquired through the Lillie P. Bliss Bequest", 
-  "Date": "c. 1943", 
-  "ArtistID": 2252, 
+  "DateAcquired": "1969-05-20", 
   "Keywords": [
-    "online art collection", 
     "Arshile Gorky", 
     "Garden in Sochi", 
     "c", 
     "1943"
   ], 
+  "ArtistID": 2252, 
+  "Title": "Garden in Sochi", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "492.1969", 
+  "Date": "c. 1943", 
   "ArtistBio": "(American, born Armenia. 1904\u20131948)", 
-  "DateAcquired": "1969-05-20", 
-  "\ufeffTitle": "Garden in Sochi", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79823"
 }

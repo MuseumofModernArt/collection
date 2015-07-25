@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "George Segal", 
   "URL": "http://www.moma.org/collection/works/81374", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Philip Johnson Fund", 
-  "Date": "1962", 
-  "ArtistID": 5316, 
+  "DateAcquired": "1963-06-12", 
   "Keywords": [
-    "online art collection", 
     "George Segal", 
     "The Bus Driver", 
     "1962"
   ], 
+  "ArtistID": 5316, 
+  "Title": "The Bus Driver", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "337.1963.a-u", 
+  "Date": "1962", 
   "ArtistBio": "(American, 1924\u20132000)", 
-  "DateAcquired": "1963-06-12", 
-  "\ufeffTitle": "The Bus Driver", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81374"
 }

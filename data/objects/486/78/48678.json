@@ -4,20 +4,19 @@
   "Classification": "Photograph", 
   "Artist": "Nicholas Nixon", 
   "URL": "http://www.moma.org/collection/works/48678", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The Family of Man Fund", 
-  "Date": "1989", 
-  "ArtistID": 4315, 
+  "DateAcquired": "1989-10-12", 
   "Keywords": [
-    "online art collection", 
     "Nicholas Nixon", 
     "The Brown Sisters", 
     "1989"
   ], 
+  "ArtistID": 4315, 
+  "Title": "The Brown Sisters, Cambridge, Massachusetts", 
   "Department": "Photography", 
   "MoMANumber": "216.1989", 
+  "Date": "1989", 
   "ArtistBio": "(American, born 1947)", 
-  "DateAcquired": "1989-10-12", 
-  "\ufeffTitle": "The Brown Sisters, Cambridge, Massachusetts", 
+  "CuratorApproved": "Y", 
   "ObjectID": "48678"
 }

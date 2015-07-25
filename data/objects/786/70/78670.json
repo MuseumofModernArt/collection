@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Paul C\u00e9zanne", 
   "URL": "http://www.moma.org/collection/works/78670", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Fractional gift of Mr. and Mrs. David Rockefeller", 
-  "Date": "1879-80", 
-  "ArtistID": 1053, 
+  "DateAcquired": "1991-04-08", 
   "Keywords": [
-    "online art collection", 
     "Paul C&eacute;zanne", 
     "Still Life with Fruit Dish", 
     "1879-80"
   ], 
+  "ArtistID": 1053, 
+  "Title": "Still Life with Fruit Dish", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "69.1991", 
+  "Date": "1879-80", 
   "ArtistBio": "(French, 1839\u20131906)", 
-  "DateAcquired": "1991-04-08", 
-  "\ufeffTitle": "Still Life with Fruit Dish", 
+  "CuratorApproved": "Y", 
   "ObjectID": "78670"
 }

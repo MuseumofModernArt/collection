@@ -4,22 +4,21 @@
   "Classification": "Photograph", 
   "Artist": "Dorothea Lange", 
   "URL": "http://www.moma.org/collection/works/50989", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1936", 
-  "ArtistID": 3373, 
+  "DateAcquired": "1995-06-15", 
   "Keywords": [
-    "online art collection", 
     "Dorothea Lange", 
     "Migrant Mother", 
     "Nipomo", 
     "California", 
     "1936"
   ], 
+  "ArtistID": 3373, 
+  "Title": "Migrant Mother, Nipomo, California", 
   "Department": "Photography", 
   "MoMANumber": "331.1995", 
+  "Date": "1936", 
   "ArtistBio": "(American, 1895\u20131965)", 
-  "DateAcquired": "1995-06-15", 
-  "\ufeffTitle": "Migrant Mother, Nipomo, California", 
+  "CuratorApproved": "Y", 
   "ObjectID": "50989"
 }

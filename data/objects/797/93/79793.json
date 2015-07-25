@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Ellsworth Kelly", 
   "URL": "http://www.moma.org/collection/works/79793", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Fractional and promised gift of Emily Rauh Pulitzer; Vincent D' Aquila and Harry Soviak Bequest Fund, and Enid A. Haupt Fund", 
-  "Date": "1952-55", 
-  "ArtistID": 3048, 
+  "DateAcquired": "1996-10-07", 
   "Keywords": [
-    "online art collection", 
     "Ellsworth Kelly", 
     "White Plaque: Bridge Arch and Reflection", 
     "1952-55"
   ], 
+  "ArtistID": 3048, 
+  "Title": "White Plaque: Bridge Arch and Reflection", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "468.1996", 
+  "Date": "1952-55", 
   "ArtistBio": "(American, born 1923)", 
-  "DateAcquired": "1996-10-07", 
-  "\ufeffTitle": "White Plaque: Bridge Arch and Reflection", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79793"
 }

@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Richard Serra", 
   "URL": "http://www.moma.org/collection/works/81294", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the Grinstein Family", 
-  "Date": "1969 (refabricated 1986)", 
-  "ArtistID": 5349, 
+  "DateAcquired": "1986-10-14", 
   "Keywords": [
-    "online art collection", 
     "Richard Serra", 
     "One Ton Prop (House of Cards)", 
     "1969 (refabricated 1986)"
   ], 
+  "ArtistID": 5349, 
+  "Title": "One Ton Prop (House of Cards)", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "286.1986.a-d", 
+  "Date": "1969 (refabricated 1986)", 
   "ArtistBio": "(American, born 1939)", 
-  "DateAcquired": "1986-10-14", 
-  "\ufeffTitle": "One Ton Prop (House of Cards)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81294"
 }

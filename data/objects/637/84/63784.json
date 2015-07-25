@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Jasper Johns", 
   "URL": "http://www.moma.org/collection/works/63784", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the Celeste and Armand Bartos Foundation", 
-  "Date": "1970", 
-  "ArtistID": 2923, 
+  "DateAcquired": "1970-05-12", 
   "Keywords": [
-    "online art collection", 
     "Jasper Johns", 
     "Light Bulb", 
     "1970"
   ], 
+  "ArtistID": 2923, 
+  "Title": "Light Bulb", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "179.1970", 
+  "Date": "1970", 
   "ArtistBio": "(American, born 1930)", 
-  "DateAcquired": "1970-05-12", 
-  "\ufeffTitle": "Light Bulb", 
+  "CuratorApproved": "Y", 
   "ObjectID": "63784"
 }

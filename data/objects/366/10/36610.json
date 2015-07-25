@@ -4,20 +4,19 @@
   "Classification": "Drawing", 
   "Artist": "Pablo Picasso", 
   "URL": "http://www.moma.org/collection/works/36610", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The John S. Newberry Collection", 
-  "Date": "(1906)", 
-  "ArtistID": 4609, 
+  "DateAcquired": "1960-11-16", 
   "Keywords": [
-    "online art collection", 
     "Pablo Picasso", 
     "Head (Study for Les Demoiselles d'Avignon)", 
     "(1906)"
   ], 
+  "ArtistID": 4609, 
+  "Title": "Head (Study for Les Demoiselles d'Avignon)", 
   "Department": "Drawings", 
   "MoMANumber": "383.1960", 
+  "Date": "(1906)", 
   "ArtistBio": "(Spanish, 1881\u20131973)", 
-  "DateAcquired": "1960-11-16", 
-  "\ufeffTitle": "Head (Study for Les Demoiselles d'Avignon)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "36610"
 }

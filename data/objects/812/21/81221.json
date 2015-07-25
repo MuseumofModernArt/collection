@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Gaston Lachaise", 
   "URL": "http://www.moma.org/collection/works/81221", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Given anonymously (by exchange)", 
-  "Date": "1910-12 (cast 1963)", 
-  "ArtistID": 3332, 
+  "DateAcquired": "1966-05-10", 
   "Keywords": [
-    "online art collection", 
     "Gaston Lachaise", 
     "Woman Arranging Her Hair", 
     "1910-12 (cast 1963)"
   ], 
+  "ArtistID": 3332, 
+  "Title": "Woman Arranging Her Hair", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "253.1966", 
+  "Date": "1910-12 (cast 1963)", 
   "ArtistBio": "(American, born France. 1882\u20131935)", 
-  "DateAcquired": "1966-05-10", 
-  "\ufeffTitle": "Woman Arranging Her Hair", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81221"
 }

@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Al Held", 
   "URL": "http://www.moma.org/collection/works/80487", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The Riklis Collection of McCrory Corporation", 
-  "Date": "1978", 
-  "ArtistID": 2583, 
+  "DateAcquired": "1985-10-25", 
   "Keywords": [
-    "online art collection", 
     "Al Held", 
     "C-B-1", 
     "1978"
   ], 
+  "ArtistID": 2583, 
+  "Title": "C-B-1", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "1022.1983", 
+  "Date": "1978", 
   "ArtistBio": "(American, 1928\u20132005)", 
-  "DateAcquired": "1985-10-25", 
-  "\ufeffTitle": "C-B-1", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80487"
 }

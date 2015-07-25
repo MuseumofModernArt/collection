@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Jeff Koons", 
   "URL": "http://www.moma.org/collection/works/81091", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Werner and Elaine Dannheisser", 
-  "Date": "1986", 
-  "ArtistID": 6622, 
+  "DateAcquired": "1996-04-09", 
   "Keywords": [
-    "online art collection", 
     "Jeff Koons", 
     "Baccarat Crystal Set", 
     "1986"
   ], 
+  "ArtistID": 6622, 
+  "Title": "Baccarat Crystal Set", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "186.1996.a-i", 
+  "Date": "1986", 
   "ArtistBio": "(American, born 1955)", 
-  "DateAcquired": "1996-04-09", 
-  "\ufeffTitle": "Baccarat Crystal Set", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81091"
 }

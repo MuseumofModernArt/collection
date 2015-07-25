@@ -4,20 +4,19 @@
   "Classification": "A&D Graphic Design", 
   "Artist": "Richard Harlfinger", 
   "URL": "http://www.moma.org/collection/works/7306", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Acquired by exchange", 
-  "Date": "1913", 
-  "ArtistID": 2507, 
+  "DateAcquired": "1983-05-17", 
   "Keywords": [
-    "online art collection", 
     "Richard Harlfinger", 
     "Secession Plakat Ausstellung", 
     "1913"
   ], 
+  "ArtistID": 2507, 
+  "Title": "Secession Plakat Ausstellung", 
   "Department": "Architecture & Design", 
   "MoMANumber": "505.1983", 
+  "Date": "1913", 
   "ArtistBio": "(Austrian, 1873\u20131948)", 
-  "DateAcquired": "1983-05-17", 
-  "\ufeffTitle": "Secession Plakat Ausstellung", 
+  "CuratorApproved": "Y", 
   "ObjectID": "7306"
 }

@@ -4,21 +4,20 @@
   "Classification": "Painting", 
   "Artist": "Georges Vantongerloo", 
   "URL": "http://www.moma.org/collection/works/80540", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The Riklis Collection of McCrory Corporation", 
-  "Date": "Menton 1921", 
-  "ArtistID": 6091, 
+  "DateAcquired": "1985-10-25", 
   "Keywords": [
-    "online art collection", 
     "Georges Vantongerloo", 
     "Composition II", 
     "Indigo Violet Derived from Equilateral Triangle", 
     "Menton 1921"
   ], 
+  "ArtistID": 6091, 
+  "Title": "Composition II, Indigo Violet Derived from Equilateral Triangle", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "1078.1983", 
+  "Date": "Menton 1921", 
   "ArtistBio": "(Belgian, 1886\u20131965)", 
-  "DateAcquired": "1985-10-25", 
-  "\ufeffTitle": "Composition II, Indigo Violet Derived from Equilateral Triangle", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80540"
 }

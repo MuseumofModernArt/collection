@@ -4,21 +4,20 @@
   "Classification": "Illustrated Book", 
   "Artist": "Pablo Picasso", 
   "URL": "http://www.moma.org/collection/works/29847", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The Louis E. Stern Collection", 
-  "Date": "1949, published 1950", 
-  "ArtistID": 4609, 
+  "DateAcquired": "1964-10-06", 
   "Keywords": [
-    "online art collection", 
     "Pablo Picasso", 
     "Face in Profil from Corps perdu", 
     "1949", 
     "published 1950"
   ], 
+  "ArtistID": 4609, 
+  "Title": "Face in Profil from Corps perdu", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "995.1964.8", 
+  "Date": "1949, published 1950", 
   "ArtistBio": "(Spanish, 1881\u20131973)", 
-  "DateAcquired": "1964-10-06", 
-  "\ufeffTitle": "Face in Profil from Corps perdu", 
+  "CuratorApproved": "Y", 
   "ObjectID": "29847"
 }

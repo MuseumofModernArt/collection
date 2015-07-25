@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Joan Mir\u00f3", 
   "URL": "http://www.moma.org/collection/works/79341", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1926", 
-  "ArtistID": 4016, 
+  "DateAcquired": "1937-12-03", 
   "Keywords": [
-    "online art collection", 
     "Joan Mir&oacute;", 
     "Person Throwing a Stone at a Bird", 
     "1926"
   ], 
+  "ArtistID": 4016, 
+  "Title": "Person Throwing a Stone at a Bird", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "271.1937", 
+  "Date": "1926", 
   "ArtistBio": "(Spanish, 1893\u20131983)", 
-  "DateAcquired": "1937-12-03", 
-  "\ufeffTitle": "Person Throwing a Stone at a Bird", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79341"
 }

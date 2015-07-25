@@ -4,21 +4,20 @@
   "Classification": "Photograph", 
   "Artist": "Lee Friedlander", 
   "URL": "http://www.moma.org/collection/works/52468", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1969", 
-  "ArtistID": 2002, 
+  "DateAcquired": "2000-10-12", 
   "Keywords": [
-    "online art collection", 
     "Lee Friedlander", 
     "Princeton", 
     "New Jersey", 
     "1969"
   ], 
+  "ArtistID": 2002, 
+  "Title": "Princeton, New Jersey", 
   "Department": "Photography", 
   "MoMANumber": "394.2000", 
+  "Date": "1969", 
   "ArtistBio": "(American, born 1934)", 
-  "DateAcquired": "2000-10-12", 
-  "\ufeffTitle": "Princeton, New Jersey", 
+  "CuratorApproved": "Y", 
   "ObjectID": "52468"
 }

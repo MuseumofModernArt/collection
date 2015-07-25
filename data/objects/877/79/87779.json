@@ -4,12 +4,9 @@
   "Classification": "Print", 
   "Artist": "Richard Tuttle", 
   "URL": "http://www.moma.org/collection/works/87779", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Carol and Morton H. Rapp Fund", 
-  "Date": "2001-03", 
-  "ArtistID": 5983, 
+  "DateAcquired": "2003-03-11", 
   "Keywords": [
-    "online art collection", 
     "Richard Tuttle", 
     "Dawn", 
     "Noon", 
@@ -18,10 +15,12 @@
     "Paper (3)", 
     "2001-03"
   ], 
+  "ArtistID": 5983, 
+  "Title": "Dawn, Noon, Dusk: Paper (1), Paper (2), Paper (3)", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "41.2003.a-c", 
+  "Date": "2001-03", 
   "ArtistBio": "(American, born 1941)", 
-  "DateAcquired": "2003-03-11", 
-  "\ufeffTitle": "Dawn, Noon, Dusk: Paper (1), Paper (2), Paper (3)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "87779"
 }

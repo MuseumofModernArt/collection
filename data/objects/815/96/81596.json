@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "David Hammons", 
   "URL": "http://www.moma.org/collection/works/81596", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Robert and Meryl Meltzer Fund and purchase", 
-  "Date": "1990", 
-  "ArtistID": 2486, 
+  "DateAcquired": "1990-12-10", 
   "Keywords": [
-    "online art collection", 
     "David Hammons", 
     "High Falutin'", 
     "1990"
   ], 
+  "ArtistID": 2486, 
+  "Title": "High Falutin'", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "563.1990.a-c", 
+  "Date": "1990", 
   "ArtistBio": "(American, born 1943)", 
-  "DateAcquired": "1990-12-10", 
-  "\ufeffTitle": "High Falutin'", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81596"
 }

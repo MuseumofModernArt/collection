@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Josef Albers", 
   "URL": "http://www.moma.org/collection/works/79367", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Mrs. Bliss Parkinson", 
-  "Date": "1961", 
-  "ArtistID": 97, 
+  "DateAcquired": "1961-10-10", 
   "Keywords": [
-    "online art collection", 
     "Josef Albers", 
     "Study for Homage to the Square: Early Rising A", 
     "1961"
   ], 
+  "ArtistID": 97, 
+  "Title": "Study for Homage to the Square: Early Rising A", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "276.1961", 
+  "Date": "1961", 
   "ArtistBio": "(American, born Germany. 1888\u20131976)", 
-  "DateAcquired": "1961-10-10", 
-  "\ufeffTitle": "Study for Homage to the Square: Early Rising A", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79367"
 }

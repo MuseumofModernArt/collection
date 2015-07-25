@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Roger de La Fresnaye", 
   "URL": "http://www.moma.org/collection/works/79181", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Mrs. Simon Guggenheim Fund", 
-  "Date": "1913", 
-  "ArtistID": 3325, 
+  "DateAcquired": "1947-10-16", 
   "Keywords": [
-    "online art collection", 
     "Roger de La Fresnaye", 
     "The Conquest of the Air", 
     "1913"
   ], 
+  "ArtistID": 3325, 
+  "Title": "The Conquest of the Air", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "222.1947", 
+  "Date": "1913", 
   "ArtistBio": "(French, 1885\u20131925)", 
-  "DateAcquired": "1947-10-16", 
-  "\ufeffTitle": "The Conquest of the Air", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79181"
 }

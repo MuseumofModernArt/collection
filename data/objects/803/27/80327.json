@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Juan O'Gorman", 
   "URL": "http://www.moma.org/collection/works/80327", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Edgar Kaufmann, Jr.", 
-  "Date": "1942", 
-  "ArtistID": 4356, 
+  "DateAcquired": "1942-12-29", 
   "Keywords": [
-    "online art collection", 
     "Juan O'Gorman", 
     "The Sand Mines of Tetelpa", 
     "1942"
   ], 
+  "ArtistID": 4356, 
+  "Title": "The Sand Mines of Tetelpa", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "751.1942", 
+  "Date": "1942", 
   "ArtistBio": "(Mexican, 1905\u20131982)", 
-  "DateAcquired": "1942-12-29", 
-  "\ufeffTitle": "The Sand Mines of Tetelpa", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80327"
 }

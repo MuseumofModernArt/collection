@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Edvard Munch", 
   "URL": "http://www.moma.org/collection/works/75912", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1896", 
-  "ArtistID": 4164, 
+  "DateAcquired": "1968-10-10", 
   "Keywords": [
-    "online art collection", 
     "Edvard Munch", 
     "Det syke barn I (The Sick Child I)", 
     "1896"
   ], 
+  "ArtistID": 4164, 
+  "Title": "The Sick Child I (Det syke barn I)", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "1173.1968", 
+  "Date": "1896", 
   "ArtistBio": "(Norwegian, 1863\u20131944)", 
-  "DateAcquired": "1968-10-10", 
-  "\ufeffTitle": "The Sick Child I (Det syke barn I)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "75912"
 }

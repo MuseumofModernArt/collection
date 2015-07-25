@@ -4,12 +4,9 @@
   "Classification": "Photograph", 
   "Artist": "Lewis W. Hine", 
   "URL": "http://www.moma.org/collection/works/85933", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1905", 
-  "ArtistID": 2657, 
+  "DateAcquired": "1942-12-29", 
   "Keywords": [
-    "online art collection", 
     "Lewis W", 
     "Hine", 
     "Italian Family Looking for Lost Baggage", 
@@ -17,10 +14,12 @@
     "New York", 
     "1905"
   ], 
+  "ArtistID": 2657, 
+  "Title": "Italian Family Looking for Lost Baggage, Ellis Island, New York", 
   "Department": "Photography", 
   "MoMANumber": "394.1942.2", 
+  "Date": "1905", 
   "ArtistBio": "(American, 1874\u20131940)", 
-  "DateAcquired": "1942-12-29", 
-  "\ufeffTitle": "Italian Family Looking for Lost Baggage, Ellis Island, New York", 
+  "CuratorApproved": "Y", 
   "ObjectID": "85933"
 }

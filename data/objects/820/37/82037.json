@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "J\u00f6rg Immendorff", 
   "URL": "http://www.moma.org/collection/works/82037", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1967", 
-  "ArtistID": 2807, 
+  "DateAcquired": "2001-05-07", 
   "Keywords": [
-    "online art collection", 
     "J&ouml;rg Immendorff", 
     "Lidl-Block", 
     "1967"
   ], 
+  "ArtistID": 2807, 
+  "Title": "Lidl-Block", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "1348.2001", 
+  "Date": "1967", 
   "ArtistBio": "(German, 1945\u20132007)", 
-  "DateAcquired": "2001-05-07", 
-  "\ufeffTitle": "Lidl-Block", 
+  "CuratorApproved": "Y", 
   "ObjectID": "82037"
 }

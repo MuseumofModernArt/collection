@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Emil Nolde", 
   "URL": "http://www.moma.org/collection/works/73900", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Abby Aldrich Rockefeller Fund", 
-  "Date": "(1918)", 
-  "ArtistID": 4327, 
+  "DateAcquired": "1956-12-19", 
   "Keywords": [
-    "online art collection", 
     "Emil Nolde", 
     "Rich Farmers (Grossbauern)", 
     "(1918)"
   ], 
+  "ArtistID": 4327, 
+  "Title": "Rich Farmers (Grossbauern)", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "764.1956", 
+  "Date": "(1918)", 
   "ArtistBio": "(German, 1867\u20131956)", 
-  "DateAcquired": "1956-12-19", 
-  "\ufeffTitle": "Rich Farmers (Grossbauern)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "73900"
 }

@@ -4,12 +4,9 @@
   "Classification": "A&D Architectural Drawing", 
   "Artist": "Michael Webb", 
   "URL": "http://www.moma.org/collection/works/941", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of The Howard Gilman Foundation", 
-  "Date": "1957-58", 
-  "ArtistID": 7987, 
+  "DateAcquired": "1998-11-12", 
   "Keywords": [
-    "online art collection", 
     "Michael Webb", 
     "Furniture Manufacturers Association Headquarters", 
     "project", 
@@ -18,10 +15,12 @@
     "Side elevation", 
     "1957-58"
   ], 
+  "ArtistID": 7987, 
+  "Title": "Furniture Manufacturers Association Headquarters, project, High Wycombe, England, Side elevation", 
   "Department": "Architecture & Design", 
   "MoMANumber": "1316.2000", 
+  "Date": "1957-58", 
   "ArtistBio": "(British, born 1937)", 
-  "DateAcquired": "1998-11-12", 
-  "\ufeffTitle": "Furniture Manufacturers Association Headquarters, project, High Wycombe, England, Side elevation", 
+  "CuratorApproved": "Y", 
   "ObjectID": "941"
 }

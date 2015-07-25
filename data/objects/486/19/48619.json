@@ -4,21 +4,20 @@
   "Classification": "Photograph", 
   "Artist": "Mark Cohen", 
   "URL": "http://www.moma.org/collection/works/48619", 
-  "CuratorApproved": "Y", 
   "CreditLine": "David H. McAlpin Fund", 
-  "Date": "January 1973", 
-  "ArtistID": 1175, 
+  "DateAcquired": "1973-05-10", 
   "Keywords": [
-    "online art collection", 
     "Mark Cohen", 
     "Untitled (Ashley", 
     "Pennsylvania)", 
     "January 1973"
   ], 
+  "ArtistID": 1175, 
+  "Title": "Untitled (Ashley, Pennsylvania)", 
   "Department": "Photography", 
   "MoMANumber": "213.1973", 
+  "Date": "January 1973", 
   "ArtistBio": "(American, born 1943)", 
-  "DateAcquired": "1973-05-10", 
-  "\ufeffTitle": "Untitled (Ashley, Pennsylvania)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "48619"
 }

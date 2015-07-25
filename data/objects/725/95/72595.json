@@ -4,21 +4,20 @@
   "Classification": "Print", 
   "Artist": "Ellsworth Kelly", 
   "URL": "http://www.moma.org/collection/works/72595", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Given anonymously", 
-  "Date": "1964-65", 
-  "ArtistID": 3048, 
+  "DateAcquired": "1965-10-07", 
   "Keywords": [
-    "online art collection", 
     "Ellsworth Kelly", 
     "Blue and Orange  from Suite of Twenty-Seven Color Lithographs", 
     "1964", 
     "published 1965"
   ], 
+  "ArtistID": 3048, 
+  "Title": "Blue and Orange (Bleu et orange) from Suite of Twenty-Seven Color Lithographs", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "652.1965", 
+  "Date": "1964-65", 
   "ArtistBio": "(American, born 1923)", 
-  "DateAcquired": "1965-10-07", 
-  "\ufeffTitle": "Blue and Orange (Bleu et orange) from Suite of Twenty-Seven Color Lithographs", 
+  "CuratorApproved": "Y", 
   "ObjectID": "72595"
 }

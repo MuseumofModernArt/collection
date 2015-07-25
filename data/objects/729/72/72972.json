@@ -4,21 +4,20 @@
   "Classification": "Print", 
   "Artist": "Mary Cassatt", 
   "URL": "http://www.moma.org/collection/works/72972", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Abby Aldrich Rockefeller", 
-  "Date": "c. 1898", 
-  "ArtistID": 1016, 
+  "DateAcquired": "1940-04-05", 
   "Keywords": [
-    "online art collection", 
     "Mary Cassatt", 
     "By the Pond", 
     "c", 
     "1898"
   ], 
+  "ArtistID": 1016, 
+  "Title": "By the Pond", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "673.1940", 
+  "Date": "c. 1898", 
   "ArtistBio": "(American, 1844\u20131926)", 
-  "DateAcquired": "1940-04-05", 
-  "\ufeffTitle": "By the Pond", 
+  "CuratorApproved": "Y", 
   "ObjectID": "72972"
 }

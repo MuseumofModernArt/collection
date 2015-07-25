@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Robert Rauschenberg", 
   "URL": "http://www.moma.org/collection/works/68484", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Celeste Bartos", 
-  "Date": "1981", 
-  "ArtistID": 4823, 
+  "DateAcquired": "1981-10-22", 
   "Keywords": [
-    "online art collection", 
     "Robert Rauschenberg", 
     "5:29 Bay Shore", 
     "1981"
   ], 
+  "ArtistID": 4823, 
+  "Title": "5:29 Bay Shore", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "402.1981", 
+  "Date": "1981", 
   "ArtistBio": "(American, 1925\u20132008)", 
-  "DateAcquired": "1981-10-22", 
-  "\ufeffTitle": "5:29 Bay Shore", 
+  "CuratorApproved": "Y", 
   "ObjectID": "68484"
 }

@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Craig Kauffman", 
   "URL": "http://www.moma.org/collection/works/81523", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Given anonymously", 
-  "Date": "1968", 
-  "ArtistID": 3021, 
+  "DateAcquired": "1969-06-10", 
   "Keywords": [
-    "online art collection", 
     "Craig Kauffman", 
     "Untitled", 
     "1968"
   ], 
+  "ArtistID": 3021, 
+  "Title": "Untitled", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "508.1969", 
+  "Date": "1968", 
   "ArtistBio": "(American, 1932\u20132010)", 
-  "DateAcquired": "1969-06-10", 
-  "\ufeffTitle": "Untitled", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81523"
 }

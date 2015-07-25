@@ -4,12 +4,9 @@
   "Classification": "A&D Graphic Design", 
   "Artist": "G. A. Beneker", 
   "URL": "http://www.moma.org/collection/works/8868", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Abby Aldrich Rockefeller", 
-  "Date": "1918", 
-  "ArtistID": 470, 
+  "DateAcquired": "1940-04-05", 
   "Keywords": [
-    "online art collection", 
     "G", 
     "A", 
     "Beneker", 
@@ -17,10 +14,12 @@
     "Victory Liberty Loan", 
     "1918"
   ], 
+  "ArtistID": 470, 
+  "Title": "Sure We'll Finish the Job, Victory Liberty Loan", 
   "Department": "Architecture & Design", 
   "MoMANumber": "1569.1940", 
+  "Date": "1918", 
   "ArtistBio": "(American, 1882\u20131934)", 
-  "DateAcquired": "1940-04-05", 
-  "\ufeffTitle": "Sure We'll Finish the Job, Victory Liberty Loan", 
+  "CuratorApproved": "Y", 
   "ObjectID": "8868"
 }

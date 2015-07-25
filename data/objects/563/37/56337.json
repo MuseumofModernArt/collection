@@ -4,21 +4,20 @@
   "Classification": "Photograph", 
   "Artist": "Adam Bartos", 
   "URL": "http://www.moma.org/collection/works/56337", 
-  "CuratorApproved": "Y", 
   "CreditLine": "E.T. Harmax Foundation Fund", 
-  "Date": "1997", 
-  "ArtistID": 7688, 
+  "DateAcquired": "1998-12-10", 
   "Keywords": [
-    "online art collection", 
     "Adam Bartos", 
     "Spacecraft Mock-up", 
     "Institute for Bio-Medical Problems", 
     "1997"
   ], 
+  "ArtistID": 7688, 
+  "Title": "Spacecraft Mock-up, Institute for Bio-Medical Problems", 
   "Department": "Photography", 
   "MoMANumber": "758.1998.x1-x2", 
+  "Date": "1997", 
   "ArtistBio": "(American, born 1953)", 
-  "DateAcquired": "1998-12-10", 
-  "\ufeffTitle": "Spacecraft Mock-up, Institute for Bio-Medical Problems", 
+  "CuratorApproved": "Y", 
   "ObjectID": "56337"
 }

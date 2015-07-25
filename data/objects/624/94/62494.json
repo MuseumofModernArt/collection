@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Jennifer Bartlett", 
   "URL": "http://www.moma.org/collection/works/62494", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Acquired with matching funds from James R. Epstein and the National Endowment for the Arts", 
-  "Date": "1979", 
-  "ArtistID": 357, 
+  "DateAcquired": "1979-05-01", 
   "Keywords": [
-    "online art collection", 
     "Jennifer Bartlett", 
     "Graceland Mansion", 
     "1979"
   ], 
+  "ArtistID": 357, 
+  "Title": "Graceland Mansion", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "133.1979.a-e", 
+  "Date": "1979", 
   "ArtistBio": "(American, born 1941)", 
-  "DateAcquired": "1979-05-01", 
-  "\ufeffTitle": "Graceland Mansion", 
+  "CuratorApproved": "Y", 
   "ObjectID": "62494"
 }

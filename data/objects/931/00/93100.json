@@ -4,12 +4,9 @@
   "Classification": "Photograph", 
   "Artist": "Rineke Dijkstra", 
   "URL": "http://www.moma.org/collection/works/93100", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Fractional and promised gift of Jeanne Greenberg Rohatyn", 
-  "Date": "May 16, 1994", 
-  "ArtistID": 8139, 
+  "DateAcquired": "2004-05-13", 
   "Keywords": [
-    "online art collection", 
     "Rineke Dijkstra", 
     "Tecla", 
     "Amsterdam", 
@@ -17,10 +14,12 @@
     "May 16", 
     "1994"
   ], 
+  "ArtistID": 8139, 
+  "Title": "Tecla, Amsterdam, Netherlands", 
   "Department": "Photography", 
   "MoMANumber": "239.2004", 
+  "Date": "May 16, 1994", 
   "ArtistBio": "(Dutch, born 1959)", 
-  "DateAcquired": "2004-05-13", 
-  "\ufeffTitle": "Tecla, Amsterdam, Netherlands", 
+  "CuratorApproved": "Y", 
   "ObjectID": "93100"
 }

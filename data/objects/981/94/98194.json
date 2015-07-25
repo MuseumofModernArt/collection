@@ -4,21 +4,20 @@
   "Classification": "Photograph", 
   "Artist": "Unknown photographer", 
   "URL": "http://www.moma.org/collection/works/98194", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of The New York Times", 
-  "Date": "February 20, 1954", 
-  "ArtistID": 6028, 
+  "DateAcquired": "2005-05-11", 
   "Keywords": [
-    "online art collection", 
     "Unknown Photographer", 
     "Mayor Wagner's Sons in Canoe", 
     "February 20", 
     "1954"
   ], 
+  "ArtistID": 6028, 
+  "Title": "Mayor Wagner's Sons in Canoe", 
   "Department": "Photography", 
   "MoMANumber": "403.2005", 
+  "Date": "February 20, 1954", 
   "ArtistBio": "", 
-  "DateAcquired": "2005-05-11", 
-  "\ufeffTitle": "Mayor Wagner's Sons in Canoe", 
+  "CuratorApproved": "Y", 
   "ObjectID": "98194"
 }

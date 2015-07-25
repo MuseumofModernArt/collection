@@ -4,12 +4,9 @@
   "Classification": "A&D Architectural Drawing", 
   "Artist": "Rem Koolhaas, Zoe Zenghelis, Elia Zenghelis, Madelon Vriesendorp", 
   "URL": "http://www.moma.org/collection/works/204", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Kenneth Walker", 
-  "Date": "1975", 
-  "ArtistID": 6955, 
+  "DateAcquired": "1992-01-15", 
   "Keywords": [
-    "online art collection", 
     "O,M,A", 
     "(Office for Metropolitan Architecture)", 
     "Rem Koolhaas", 
@@ -18,14 +15,15 @@
     "Egg of Columbus Circle", 
     "project", 
     "New York", 
-    "New York", 
     "Axonometric", 
     "1975"
   ], 
+  "ArtistID": 6955, 
+  "Title": "Egg of Columbus Circle, project, New York, New York, Axonometric", 
   "Department": "Architecture & Design", 
   "MoMANumber": "110.1992", 
+  "Date": "1975", 
   "ArtistBio": "(Dutch, born 1944) (British, born Greece 1937) (British, born Greece 1937) (Dutch, born 1945)", 
-  "DateAcquired": "1992-01-15", 
-  "\ufeffTitle": "Egg of Columbus Circle, project, New York, New York, Axonometric", 
+  "CuratorApproved": "Y", 
   "ObjectID": "204"
 }

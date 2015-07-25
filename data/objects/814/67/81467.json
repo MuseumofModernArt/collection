@@ -4,21 +4,20 @@
   "Classification": "Sculpture", 
   "Artist": "Auguste Rodin", 
   "URL": "http://www.moma.org/collection/works/81467", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of The Cantor, Fitzgerald Collection", 
-  "Date": "c. 1893 (cast 1971)", 
-  "ArtistID": 4978, 
+  "DateAcquired": "1976-10-12", 
   "Keywords": [
-    "online art collection", 
     "Auguste Rodin", 
     "Study for the Naked Balzac", 
     "c", 
     "1893 (cast 1971)"
   ], 
+  "ArtistID": 4978, 
+  "Title": "Study for the Naked Balzac", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "433.1975", 
+  "Date": "c. 1893 (cast 1971)", 
   "ArtistBio": "(French, 1840\u20131917)", 
-  "DateAcquired": "1976-10-12", 
-  "\ufeffTitle": "Study for the Naked Balzac", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81467"
 }

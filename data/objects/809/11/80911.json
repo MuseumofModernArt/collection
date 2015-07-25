@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Jannis Kounellis", 
   "URL": "http://www.moma.org/collection/works/80911", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Sid R. Bass, Blanchette Hooker Rockefeller, The Norman and Rosita Winston Foundation, Inc. Funds, and purchase", 
-  "Date": "1983", 
-  "ArtistID": 3230, 
+  "DateAcquired": "1989-05-08", 
   "Keywords": [
-    "online art collection", 
     "Jannis Kounellis", 
     "Untitled", 
     "1983"
   ], 
+  "ArtistID": 3230, 
+  "Title": "Untitled", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "78.1989.a-j", 
+  "Date": "1983", 
   "ArtistBio": "(Greek, born 1936)", 
-  "DateAcquired": "1989-05-08", 
-  "\ufeffTitle": "Untitled", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80911"
 }

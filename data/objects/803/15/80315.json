@@ -4,21 +4,20 @@
   "Classification": "Painting", 
   "Artist": "Joan Mir\u00f3", 
   "URL": "http://www.moma.org/collection/works/80315", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Nelson A. Rockefeller", 
-  "Date": "Barcelona, late fall 1933-winter 1934", 
-  "ArtistID": 4016, 
+  "DateAcquired": "1977-03-08", 
   "Keywords": [
-    "online art collection", 
     "Joan Mir&oacute;", 
     "\"Hirondelle Amour\"", 
     "Barcelona", 
     "late fall 1933-winter 1934"
   ], 
+  "ArtistID": 4016, 
+  "Title": "\"Hirondelle Amour\"", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "723.1976", 
+  "Date": "Barcelona, late fall 1933-winter 1934", 
   "ArtistBio": "(Spanish, 1893\u20131983)", 
-  "DateAcquired": "1977-03-08", 
-  "\ufeffTitle": "\"Hirondelle Amour\"", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80315"
 }

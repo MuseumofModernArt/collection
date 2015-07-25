@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Robert Motherwell", 
   "URL": "http://www.moma.org/collection/works/80635", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of S. I. Newhouse, Jr.", 
-  "Date": "September 1965-February 1966", 
-  "ArtistID": 4126, 
+  "DateAcquired": "1968-10-08", 
   "Keywords": [
-    "online art collection", 
     "Robert Motherwell", 
     "New England Elegy 2", 
     "September 1965-February 1966"
   ], 
+  "ArtistID": 4126, 
+  "Title": "New England Elegy 2", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "1308.1968", 
+  "Date": "September 1965-February 1966", 
   "ArtistBio": "(American, 1915\u20131991)", 
-  "DateAcquired": "1968-10-08", 
-  "\ufeffTitle": "New England Elegy 2", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80635"
 }

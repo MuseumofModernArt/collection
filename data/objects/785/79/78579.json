@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Roberto Matta", 
   "URL": "http://www.moma.org/collection/works/78579", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Inter-American Fund", 
-  "Date": "1941", 
-  "ArtistID": 3842, 
+  "DateAcquired": "1942-01-27", 
   "Keywords": [
-    "online art collection", 
     "Roberto Matta", 
     "Listen to Living", 
     "1941"
   ], 
+  "ArtistID": 3842, 
+  "Title": "Listen to Living", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "33.1942", 
+  "Date": "1941", 
   "ArtistBio": "(Chilean, 1911\u20132002)", 
-  "DateAcquired": "1942-01-27", 
-  "\ufeffTitle": "Listen to Living", 
+  "CuratorApproved": "Y", 
   "ObjectID": "78579"
 }

@@ -4,21 +4,20 @@
   "Classification": "Photograph", 
   "Artist": "Underwood and Underwood", 
   "URL": "http://www.moma.org/collection/works/58795", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The New York Times Collection", 
-  "Date": "November 3, 1916", 
-  "ArtistID": 6008, 
+  "DateAcquired": "2001-06-14", 
   "Keywords": [
-    "online art collection", 
     "Underwood and Underwood", 
     "Victor Carlstrom's Record Breaking Flight", 
     "November 3", 
     "1916"
   ], 
+  "ArtistID": 6008, 
+  "Title": "Victor Carlstrom's Record Breaking Flight", 
   "Department": "Photography", 
   "MoMANumber": "2202.2001", 
+  "Date": "November 3, 1916", 
   "ArtistBio": "(American, active 1880\u20131934)", 
-  "DateAcquired": "2001-06-14", 
-  "\ufeffTitle": "Victor Carlstrom's Record Breaking Flight", 
+  "CuratorApproved": "Y", 
   "ObjectID": "58795"
 }

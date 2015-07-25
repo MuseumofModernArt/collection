@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Francisco Toledo", 
   "URL": "http://www.moma.org/collection/works/62876", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Inter-American Fund", 
-  "Date": "(1969)", 
-  "ArtistID": 5892, 
+  "DateAcquired": "1970-03-05", 
   "Keywords": [
-    "online art collection", 
     "Francisco Toledo", 
     "The Nap (La Siesta)", 
     "(1969)"
   ], 
+  "ArtistID": 5892, 
+  "Title": "The Nap (La Siesta)", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "142.1970", 
+  "Date": "(1969)", 
   "ArtistBio": "(Mexican, born 1940)", 
-  "DateAcquired": "1970-03-05", 
-  "\ufeffTitle": "The Nap (La Siesta)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "62876"
 }

@@ -4,21 +4,20 @@
   "Classification": "Photograph", 
   "Artist": "Nicholas Nixon", 
   "URL": "http://www.moma.org/collection/works/57549", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the artist", 
-  "Date": "1979", 
-  "ArtistID": 4315, 
+  "DateAcquired": "1979-10-11", 
   "Keywords": [
-    "online art collection", 
     "Nicholas Nixon", 
     "Chelsea Street", 
     "East Boston", 
     "1979"
   ], 
+  "ArtistID": 4315, 
+  "Title": "Chelsea Street, East Boston", 
   "Department": "Photography", 
   "MoMANumber": "1024.1979", 
+  "Date": "1979", 
   "ArtistBio": "(American, born 1947)", 
-  "DateAcquired": "1979-10-11", 
-  "\ufeffTitle": "Chelsea Street, East Boston", 
+  "CuratorApproved": "Y", 
   "ObjectID": "57549"
 }

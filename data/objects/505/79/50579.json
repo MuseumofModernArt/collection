@@ -4,21 +4,20 @@
   "Classification": "Photograph", 
   "Artist": "JoAnn Verburg", 
   "URL": "http://www.moma.org/collection/works/50579", 
-  "CuratorApproved": "Y", 
   "CreditLine": "E.T. Harmax Foundation Fund", 
-  "Date": "1988", 
-  "ArtistID": 6134, 
+  "DateAcquired": "1988-10-13", 
   "Keywords": [
-    "online art collection", 
     "JoAnn Verburg", 
     "Untitled (Jim Sleeping", 
     "Spoleto)", 
     "1988"
   ], 
+  "ArtistID": 6134, 
+  "Title": "Untitled (Jim Sleeping, Spoleto)", 
   "Department": "Photography", 
   "MoMANumber": "315.1988.x1-x2", 
+  "Date": "1988", 
   "ArtistBio": "(American, born 1950)", 
-  "DateAcquired": "1988-10-13", 
-  "\ufeffTitle": "Untitled (Jim Sleeping, Spoleto)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "50579"
 }

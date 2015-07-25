@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "George Grosz", 
   "URL": "http://www.moma.org/collection/works/78619", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1927", 
-  "ArtistID": 2374, 
+  "DateAcquired": "1952-05-20", 
   "Keywords": [
-    "online art collection", 
     "George Grosz", 
     "The Poet Max Herrmann-Neisse", 
     "1927"
   ], 
+  "ArtistID": 2374, 
+  "Title": "The Poet Max Herrmann-Neisse", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "49.1952", 
+  "Date": "1927", 
   "ArtistBio": "(American, born Germany. 1893\u20131959)", 
-  "DateAcquired": "1952-05-20", 
-  "\ufeffTitle": "The Poet Max Herrmann-Neisse", 
+  "CuratorApproved": "Y", 
   "ObjectID": "78619"
 }

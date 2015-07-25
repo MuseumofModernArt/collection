@@ -4,12 +4,9 @@
   "Classification": "Painting", 
   "Artist": "Cy Twombly", 
   "URL": "http://www.moma.org/collection/works/80085", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the artist", 
-  "Date": "1993-94", 
-  "ArtistID": 5988, 
+  "DateAcquired": "1994-12-08", 
   "Keywords": [
-    "online art collection", 
     "Cy Twombly", 
     "The Four Seasons: Spring", 
     "Summer", 
@@ -17,10 +14,12 @@
     "and Winter", 
     "1993-94"
   ], 
+  "ArtistID": 5988, 
+  "Title": "The Four Seasons: Spring, Summer, Autumn, and Winter", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "613.1994.a-d", 
+  "Date": "1993-94", 
   "ArtistBio": "(American, 1928\u20132011)", 
-  "DateAcquired": "1994-12-08", 
-  "\ufeffTitle": "The Four Seasons: Spring, Summer, Autumn, and Winter", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80085"
 }

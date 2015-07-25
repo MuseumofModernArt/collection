@@ -4,21 +4,20 @@
   "Classification": "Print", 
   "Artist": "Pablo Picasso", 
   "URL": "http://www.moma.org/collection/works/64246", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Homer Kripke", 
-  "Date": "(June 10, 1959)", 
-  "ArtistID": 4609, 
+  "DateAcquired": "1965-04-06", 
   "Keywords": [
-    "online art collection", 
     "Pablo Picasso", 
     "Original Posters (Affiches Originales)", 
     "(June 10", 
     "1959)"
   ], 
+  "ArtistID": 4609, 
+  "Title": "Original Posters (Affiches Originales)", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "198.1965", 
+  "Date": "(June 10, 1959)", 
   "ArtistBio": "(Spanish, 1881\u20131973)", 
-  "DateAcquired": "1965-04-06", 
-  "\ufeffTitle": "Original Posters (Affiches Originales)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "64246"
 }

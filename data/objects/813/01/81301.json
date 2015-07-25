@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Gilberto Zorio", 
   "URL": "http://www.moma.org/collection/works/81301", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Anne and Sid Bass Fund", 
-  "Date": "1977", 
-  "ArtistID": 6583, 
+  "DateAcquired": "1986-10-14", 
   "Keywords": [
-    "online art collection", 
     "Gilberto Zorio", 
     "Crystal Star with Javelins", 
     "1977"
   ], 
+  "ArtistID": 6583, 
+  "Title": "Crystal Star with Javelins", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "289.1986.a-c", 
+  "Date": "1977", 
   "ArtistBio": "(Italian, born 1944)", 
-  "DateAcquired": "1986-10-14", 
-  "\ufeffTitle": "Crystal Star with Javelins", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81301"
 }

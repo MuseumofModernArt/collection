@@ -4,12 +4,9 @@
   "Classification": "A&D Mies van der Rohe Archive", 
   "Artist": "Ludwig Mies van der Rohe", 
   "URL": "http://www.moma.org/collection/works/87657", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Mies van der Rohe Archive, gift of the architect\r\n", 
-  "Date": "1935", 
-  "ArtistID": 7166, 
+  "DateAcquired": "", 
   "Keywords": [
-    "online art collection", 
     "Ludwig Mies van der Rohe", 
     "Ulrich Lange House Project", 
     "Krefeld", 
@@ -17,10 +14,12 @@
     "Perspective sketch", 
     "1935"
   ], 
+  "ArtistID": 7166, 
+  "Title": "Ulrich Lange House Project, Krefeld, Germany, Perspective sketch", 
   "Department": "Architecture & Design", 
   "MoMANumber": "MR7.6", 
+  "Date": "1935", 
   "ArtistBio": "(American, born Germany. 1886\u20131969)", 
-  "DateAcquired": "", 
-  "\ufeffTitle": "Ulrich Lange House Project, Krefeld, Germany, Perspective sketch", 
+  "CuratorApproved": "Y", 
   "ObjectID": "87657"
 }

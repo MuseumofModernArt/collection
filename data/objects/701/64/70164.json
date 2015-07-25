@@ -4,21 +4,20 @@
   "Classification": "Print", 
   "Artist": "Gerhard Marcks", 
   "URL": "http://www.moma.org/collection/works/70164", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1921, printed 1922", 
-  "ArtistID": 3756, 
+  "DateAcquired": "1949-09-29", 
   "Keywords": [
-    "online art collection", 
     "Gerhard Marcks", 
     "Ox Drivers (Ochsentreiber)", 
     "1921", 
     "printed 1922"
   ], 
+  "ArtistID": 3756, 
+  "Title": "Ox Drivers (Ochsentreiber)", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "500.1949", 
+  "Date": "1921, printed 1922", 
   "ArtistBio": "(German, 1889\u20131981)", 
-  "DateAcquired": "1949-09-29", 
-  "\ufeffTitle": "Ox Drivers (Ochsentreiber)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "70164"
 }

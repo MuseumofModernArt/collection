@@ -4,12 +4,9 @@
   "Classification": "Photograph", 
   "Artist": "Lee Friedlander", 
   "URL": "http://www.moma.org/collection/works/56292", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1975", 
-  "ArtistID": 2002, 
+  "DateAcquired": "2000-10-12", 
   "Keywords": [
-    "online art collection", 
     "Lee Friedlander", 
     "General Andrew Jackson", 
     "Lafayette Park", 
@@ -17,10 +14,12 @@
     "D,C", 
     "1975"
   ], 
+  "ArtistID": 2002, 
+  "Title": "General Andrew Jackson. Lafayette Park, Washington, D.C.", 
   "Department": "Photography", 
   "MoMANumber": "728.2000", 
+  "Date": "1975", 
   "ArtistBio": "(American, born 1934)", 
-  "DateAcquired": "2000-10-12", 
-  "\ufeffTitle": "General Andrew Jackson. Lafayette Park, Washington, D.C.", 
+  "CuratorApproved": "Y", 
   "ObjectID": "56292"
 }

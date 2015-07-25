@@ -4,20 +4,19 @@
   "Classification": "Photograph", 
   "Artist": "Nicolas Faure", 
   "URL": "http://www.moma.org/collection/works/48087", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "February 1981", 
-  "ArtistID": 1810, 
+  "DateAcquired": "1981-05-14", 
   "Keywords": [
-    "online art collection", 
     "Nicolas Faure", 
     "Untitled", 
     "February 1981"
   ], 
+  "ArtistID": 1810, 
+  "Title": "Untitled", 
   "Department": "Photography", 
   "MoMANumber": "190.1981.x1-x2", 
+  "Date": "February 1981", 
   "ArtistBio": "(Swiss, born 1949)", 
-  "DateAcquired": "1981-05-14", 
-  "\ufeffTitle": "Untitled", 
+  "CuratorApproved": "Y", 
   "ObjectID": "48087"
 }

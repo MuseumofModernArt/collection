@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Andy Warhol", 
   "URL": "http://www.moma.org/collection/works/80705", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The Sidney and Harriet Janis Collection", 
-  "Date": "1967", 
-  "ArtistID": 6246, 
+  "DateAcquired": "1967-10-18", 
   "Keywords": [
-    "online art collection", 
     "Andy Warhol", 
     "Silkscreen for Portrait of Sidney Janis", 
     "1967"
   ], 
+  "ArtistID": 6246, 
+  "Title": "Silkscreen for Portrait of Sidney Janis", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "2354.1967", 
+  "Date": "1967", 
   "ArtistBio": "(American, 1928\u20131987)", 
-  "DateAcquired": "1967-10-18", 
-  "\ufeffTitle": "Silkscreen for Portrait of Sidney Janis", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80705"
 }

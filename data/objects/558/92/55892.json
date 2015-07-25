@@ -4,12 +4,9 @@
   "Classification": "Photograph", 
   "Artist": "Nicholas Nixon", 
   "URL": "http://www.moma.org/collection/works/55892", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the artist", 
-  "Date": "August 1988", 
-  "ArtistID": 4315, 
+  "DateAcquired": "1995-06-15", 
   "Keywords": [
-    "online art collection", 
     "Nicholas Nixon", 
     "Bob", 
     "Dr", 
@@ -18,10 +15,12 @@
     "Massachusetts", 
     "August 1988"
   ], 
+  "ArtistID": 4315, 
+  "Title": "Bob, Dr. Robert Sappenfield, Dorchester, Massachusetts", 
   "Department": "Photography", 
   "MoMANumber": "660.1995", 
+  "Date": "August 1988", 
   "ArtistBio": "(American, born 1947)", 
-  "DateAcquired": "1995-06-15", 
-  "\ufeffTitle": "Bob, Dr. Robert Sappenfield, Dorchester, Massachusetts", 
+  "CuratorApproved": "Y", 
   "ObjectID": "55892"
 }

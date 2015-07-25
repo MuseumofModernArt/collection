@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Ellsworth Kelly", 
   "URL": "http://www.moma.org/collection/works/81557", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Jo Carole and Ronald S. Lauder", 
-  "Date": "1956-57", 
-  "ArtistID": 3048, 
+  "DateAcquired": "1998-10-13", 
   "Keywords": [
-    "online art collection", 
     "Ellsworth Kelly", 
     "Sculpture for a Large Wall", 
     "1957"
   ], 
+  "ArtistID": 3048, 
+  "Title": "Sculpture for a Large Wall", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "526.1998", 
+  "Date": "1956-57", 
   "ArtistBio": "(American, born 1923)", 
-  "DateAcquired": "1998-10-13", 
-  "\ufeffTitle": "Sculpture for a Large Wall", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81557"
 }

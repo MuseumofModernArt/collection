@@ -4,12 +4,9 @@
   "Classification": "Photograph", 
   "Artist": "Frederick H. Evans", 
   "URL": "http://www.moma.org/collection/works/53606", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "c. 1901", 
-  "ArtistID": 1774, 
+  "DateAcquired": "1966-10-11", 
   "Keywords": [
-    "online art collection", 
     "Frederick H", 
     "Evans", 
     "Across Nave", 
@@ -17,10 +14,12 @@
     "c", 
     "1901"
   ], 
+  "ArtistID": 1774, 
+  "Title": "Across Nave, York Minster", 
   "Department": "Photography", 
   "MoMANumber": "456.1966", 
+  "Date": "c. 1901", 
   "ArtistBio": "(British, 1853\u20131943)", 
-  "DateAcquired": "1966-10-11", 
-  "\ufeffTitle": "Across Nave, York Minster", 
+  "CuratorApproved": "Y", 
   "ObjectID": "53606"
 }

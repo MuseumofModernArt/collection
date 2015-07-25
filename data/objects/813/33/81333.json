@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Henri Laurens", 
   "URL": "http://www.moma.org/collection/works/81333", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Curt Valentin", 
-  "Date": "1920", 
-  "ArtistID": 3409, 
+  "DateAcquired": "1947-12-19", 
   "Keywords": [
-    "online art collection", 
     "Henri Laurens", 
     "Guitar", 
     "1920"
   ], 
+  "ArtistID": 3409, 
+  "Title": "Guitar", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "303.1947", 
+  "Date": "1920", 
   "ArtistBio": "(French, 1885\u20131954)", 
-  "DateAcquired": "1947-12-19", 
-  "\ufeffTitle": "Guitar", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81333"
 }

@@ -4,20 +4,19 @@
   "Classification": "A&D Graphic Design", 
   "Artist": "Hans Fabigan", 
   "URL": "http://www.moma.org/collection/works/8044", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the artist", 
-  "Date": "1963", 
-  "ArtistID": 1787, 
+  "DateAcquired": "1963-12-10", 
   "Keywords": [
-    "online art collection", 
     "Hans Fabigan", 
     "Phantastische Aquarelle", 
     "1963"
   ], 
+  "ArtistID": 1787, 
+  "Title": "Phantastische Aquarelle", 
   "Department": "Architecture & Design", 
   "MoMANumber": "752.1963", 
+  "Date": "1963", 
   "ArtistBio": "(Austrian, born 1901)", 
-  "DateAcquired": "1963-12-10", 
-  "\ufeffTitle": "Phantastische Aquarelle", 
+  "CuratorApproved": "Y", 
   "ObjectID": "8044"
 }

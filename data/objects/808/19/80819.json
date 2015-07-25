@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Henry Moore", 
   "URL": "http://www.moma.org/collection/works/80819", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Acquired through the Lillie P. Bliss Bequest", 
-  "Date": "1939-40", 
-  "ArtistID": 4071, 
+  "DateAcquired": "1947-03-13", 
   "Keywords": [
-    "online art collection", 
     "Henry Moore", 
     "The Bride", 
     "1939-40"
   ], 
+  "ArtistID": 4071, 
+  "Title": "The Bride", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "15.1947", 
+  "Date": "1939-40", 
   "ArtistBio": "(British, 1898\u20131986)", 
-  "DateAcquired": "1947-03-13", 
-  "\ufeffTitle": "The Bride", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80819"
 }

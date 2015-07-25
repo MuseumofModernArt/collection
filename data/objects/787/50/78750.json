@@ -4,21 +4,20 @@
   "Classification": "Painting", 
   "Artist": "Chaim Soutine", 
   "URL": "http://www.moma.org/collection/works/78750", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Mr. and Mrs. Justin K. Thannhauser", 
-  "Date": "c. 1924", 
-  "ArtistID": 5543, 
+  "DateAcquired": "1958-04-22", 
   "Keywords": [
-    "online art collection", 
     "Chaim Soutine", 
     "Dead Fowl", 
     "c", 
     "1924"
   ], 
+  "ArtistID": 5543, 
+  "Title": "Dead Fowl", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "93.1958", 
+  "Date": "c. 1924", 
   "ArtistBio": "(French, 1893\u20131943)", 
-  "DateAcquired": "1958-04-22", 
-  "\ufeffTitle": "Dead Fowl", 
+  "CuratorApproved": "Y", 
   "ObjectID": "78750"
 }

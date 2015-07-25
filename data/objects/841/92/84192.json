@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Edward Ruscha", 
   "URL": "http://www.moma.org/collection/works/84192", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Partial and promised gift of UBS", 
-  "Date": "1991", 
-  "ArtistID": 5086, 
+  "DateAcquired": "2002-04-08", 
   "Keywords": [
-    "online art collection", 
     "Edward Ruscha", 
     "The End", 
     "1991"
   ], 
+  "ArtistID": 5086, 
+  "Title": "The End", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "109.2002", 
+  "Date": "1991", 
   "ArtistBio": "(American, born 1937)", 
-  "DateAcquired": "2002-04-08", 
-  "\ufeffTitle": "The End", 
+  "CuratorApproved": "Y", 
   "ObjectID": "84192"
 }

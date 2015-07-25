@@ -4,20 +4,19 @@
   "Classification": "Multiple", 
   "Artist": "John Bock", 
   "URL": "http://www.moma.org/collection/works/76842", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchased with proceeds from the 2000 \"Clue\" event sponsored by The Junior Associates of The Museum of Modern Art", 
-  "Date": "1998", 
-  "ArtistID": 8470, 
+  "DateAcquired": "2001-05-24", 
   "Keywords": [
-    "online art collection", 
     "John Bock", 
     "Untitled", 
     "1998"
   ], 
+  "ArtistID": 8470, 
+  "Title": "Untitled", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "1451.2001.A-C", 
+  "Date": "1998", 
   "ArtistBio": "(German, born 1965)", 
-  "DateAcquired": "2001-05-24", 
-  "\ufeffTitle": "Untitled", 
+  "CuratorApproved": "Y", 
   "ObjectID": "76842"
 }

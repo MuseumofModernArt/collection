@@ -4,12 +4,9 @@
   "Classification": "Drawing", 
   "Artist": "Glenn Ligon", 
   "URL": "http://www.moma.org/collection/works/96514", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The Judith Rothschild Foundation Contemporary Drawings Collection Gift", 
-  "Date": "(2001)", 
-  "ArtistID": 6902, 
+  "DateAcquired": "2005-05-10", 
   "Keywords": [
-    "online art collection", 
     "Glenn Ligon", 
     "Boy on Tire", 
     "Letter C", 
@@ -17,10 +14,12 @@
     "Letter M #4", 
     "(2001)"
   ], 
+  "ArtistID": 6902, 
+  "Title": "Boy on Tire, Letter C, Zululand, Letter M #4", 
   "Department": "Drawings", 
   "MoMANumber": "2225.2005", 
+  "Date": "(2001)", 
   "ArtistBio": "(American, born 1960)", 
-  "DateAcquired": "2005-05-10", 
-  "\ufeffTitle": "Boy on Tire, Letter C, Zululand, Letter M #4", 
+  "CuratorApproved": "Y", 
   "ObjectID": "96514"
 }

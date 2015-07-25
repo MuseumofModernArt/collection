@@ -4,22 +4,21 @@
   "Classification": "Photograph", 
   "Artist": "Charles Marville", 
   "URL": "http://www.moma.org/collection/works/55314", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "c. 1853", 
-  "ArtistID": 3810, 
+  "DateAcquired": "1987-12-10", 
   "Keywords": [
-    "online art collection", 
     "Charles Marville", 
     "The Pantheon", 
     "Paris", 
     "c", 
     "1853"
   ], 
+  "ArtistID": 3810, 
+  "Title": "The Pantheon, Paris", 
   "Department": "Photography", 
   "MoMANumber": "577.1987", 
+  "Date": "c. 1853", 
   "ArtistBio": "(French, 1816\u20131879)", 
-  "DateAcquired": "1987-12-10", 
-  "\ufeffTitle": "The Pantheon, Paris", 
+  "CuratorApproved": "Y", 
   "ObjectID": "55314"
 }

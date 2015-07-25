@@ -4,12 +4,9 @@
   "Classification": "A&D Architectural Drawing", 
   "Artist": "Michael Graves", 
   "URL": "http://www.moma.org/collection/works/94", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Philip Johnson", 
-  "Date": "1978", 
-  "ArtistID": 2308, 
+  "DateAcquired": "1980-01-08", 
   "Keywords": [
-    "online art collection", 
     "Michael Graves", 
     "Vacation House Project", 
     "Aspen", 
@@ -18,10 +15,12 @@
     "interior and exterior perspectives and plan", 
     "1978"
   ], 
+  "ArtistID": 2308, 
+  "Title": "Vacation House Project, Aspen, Colorado, Elevations, interior and exterior perspectives and plan", 
   "Department": "Architecture & Design", 
   "MoMANumber": "25.1980", 
+  "Date": "1978", 
   "ArtistBio": "(American, 1934\u20132015)", 
-  "DateAcquired": "1980-01-08", 
-  "\ufeffTitle": "Vacation House Project, Aspen, Colorado, Elevations, interior and exterior perspectives and plan", 
+  "CuratorApproved": "Y", 
   "ObjectID": "94"
 }

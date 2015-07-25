@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Andy Warhol", 
   "URL": "http://www.moma.org/collection/works/79737", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Philip Johnson", 
-  "Date": "1962", 
-  "ArtistID": 6246, 
+  "DateAcquired": "1962-12-11", 
   "Keywords": [
-    "online art collection", 
     "Andy Warhol", 
     "Gold Marilyn Monroe", 
     "1962"
   ], 
+  "ArtistID": 6246, 
+  "Title": "Gold Marilyn Monroe", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "316.1962", 
+  "Date": "1962", 
   "ArtistBio": "(American, 1928\u20131987)", 
-  "DateAcquired": "1962-12-11", 
-  "\ufeffTitle": "Gold Marilyn Monroe", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79737"
 }

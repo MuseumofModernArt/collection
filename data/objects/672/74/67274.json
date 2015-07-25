@@ -4,12 +4,9 @@
   "Classification": "Print", 
   "Artist": "Max Ernst", 
   "URL": "http://www.moma.org/collection/works/67274", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase Fund", 
-  "Date": "1947", 
-  "ArtistID": 1752, 
+  "DateAcquired": "1947-12-19", 
   "Keywords": [
-    "online art collection", 
     "Max Ernst", 
     "Les Correspondances dangeureuses", 
     "plate II from the Brunidor Portfolio", 
@@ -17,10 +14,12 @@
     "1", 
     "1947"
   ], 
+  "ArtistID": 1752, 
+  "Title": "Les Correspondances dangeureuses, plate II from the Brunidor Portfolio, No. 1", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "342.1947.2", 
+  "Date": "1947", 
   "ArtistBio": "(French, born Germany. 1891\u20131976)", 
-  "DateAcquired": "1947-12-19", 
-  "\ufeffTitle": "Les Correspondances dangeureuses, plate II from the Brunidor Portfolio, No. 1", 
+  "CuratorApproved": "Y", 
   "ObjectID": "67274"
 }

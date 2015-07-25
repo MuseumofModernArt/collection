@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Carl Andre", 
   "URL": "http://www.moma.org/collection/works/81312", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Mr. and Mrs. Michael Chapman", 
-  "Date": "1964", 
-  "ArtistID": 174, 
+  "DateAcquired": "1975-10-07", 
   "Keywords": [
-    "online art collection", 
     "Carl Andre", 
     "Timber Spindle Exercise", 
     "1964"
   ], 
+  "ArtistID": 174, 
+  "Title": "Timber Spindle Exercise", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "295.1975", 
+  "Date": "1964", 
   "ArtistBio": "(American, born 1935)", 
-  "DateAcquired": "1975-10-07", 
-  "\ufeffTitle": "Timber Spindle Exercise", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81312"
 }

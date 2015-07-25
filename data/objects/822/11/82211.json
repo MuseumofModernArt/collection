@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Ellsworth Kelly", 
   "URL": "http://www.moma.org/collection/works/82211", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Fractional and promised gift of Donald L. Bryant, Jr. in honor of Kirk Varnedoe", 
-  "Date": "1950", 
-  "ArtistID": 3048, 
+  "DateAcquired": "2001-11-12", 
   "Keywords": [
-    "online art collection", 
     "Ellsworth Kelly", 
     "Relief with Blue", 
     "1950"
   ], 
+  "ArtistID": 3048, 
+  "Title": "Relief with Blue", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "2470.2001", 
+  "Date": "1950", 
   "ArtistBio": "(American, born 1923)", 
-  "DateAcquired": "2001-11-12", 
-  "\ufeffTitle": "Relief with Blue", 
+  "CuratorApproved": "Y", 
   "ObjectID": "82211"
 }

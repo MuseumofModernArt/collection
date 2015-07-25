@@ -4,12 +4,9 @@
   "Classification": "A&D Mies van der Rohe Archive", 
   "Artist": "Ludwig Mies van der Rohe", 
   "URL": "http://www.moma.org/collection/works/761", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Mies van der Rohe Archive, gift of the architect\r\n", 
-  "Date": "c. 1944-45", 
-  "ArtistID": 7166, 
+  "DateAcquired": "1963-12-10", 
   "Keywords": [
-    "online art collection", 
     "Ludwig Mies van der Rohe", 
     "IIT Library and Administration Building", 
     "Chicago", 
@@ -20,10 +17,12 @@
     "c", 
     "1944-45"
   ], 
+  "ArtistID": 7166, 
+  "Title": "IIT Library and Administration Building, Chicago, Illinois, South, north, and west elevations", 
   "Department": "Architecture & Design", 
   "MoMANumber": "728.1963", 
+  "Date": "c. 1944-45", 
   "ArtistBio": "(American, born Germany. 1886\u20131969)", 
-  "DateAcquired": "1963-12-10", 
-  "\ufeffTitle": "IIT Library and Administration Building, Chicago, Illinois, South, north, and west elevations", 
+  "CuratorApproved": "Y", 
   "ObjectID": "761"
 }

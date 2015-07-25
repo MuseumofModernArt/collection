@@ -4,12 +4,9 @@
   "Classification": "A&D Design", 
   "Artist": "Adolph Loos, J. & J. Kohn, Vienna", 
   "URL": "http://www.moma.org/collection/works/4156", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Est\u00e9e and Joseph Lauder Design Fund", 
-  "Date": "c. 1898", 
-  "ArtistID": 3595, 
+  "DateAcquired": "1980-10-30", 
   "Keywords": [
-    "online art collection", 
     "Adolph Loos", 
     "J", 
     "& J", 
@@ -18,10 +15,12 @@
     "c", 
     "1898"
   ], 
+  "ArtistID": 3595, 
+  "Title": "Side Chair", 
   "Department": "Architecture & Design", 
   "MoMANumber": "640.1980", 
+  "Date": "c. 1898", 
   "ArtistBio": "(Austrian, 1870\u20131933)", 
-  "DateAcquired": "1980-10-30", 
-  "\ufeffTitle": "Side Chair", 
+  "CuratorApproved": "Y", 
   "ObjectID": "4156"
 }

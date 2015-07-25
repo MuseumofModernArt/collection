@@ -4,21 +4,20 @@
   "Classification": "Sculpture", 
   "Artist": "Constantin Brancusi", 
   "URL": "http://www.moma.org/collection/works/80936", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The Philip L. Goodwin Collection", 
-  "Date": "Paris 1933 (after a marble of 1928)", 
-  "ArtistID": 738, 
+  "DateAcquired": "1958-10-29", 
   "Keywords": [
-    "online art collection", 
     "Constantin Brancusi", 
     "Blond Negress", 
     "II", 
     "Paris 1933 (after a marble of 1928)"
   ], 
+  "ArtistID": 738, 
+  "Title": "Blond Negress, II", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "97.1958.a-e", 
+  "Date": "Paris 1933 (after a marble of 1928)", 
   "ArtistBio": "(French, born Romania. 1876\u20131957)", 
-  "DateAcquired": "1958-10-29", 
-  "\ufeffTitle": "Blond Negress, II", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80936"
 }

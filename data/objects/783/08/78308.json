@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Barnett Newman", 
   "URL": "http://www.moma.org/collection/works/78308", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The Sidney and Harriet Janis Collection", 
-  "Date": "1950", 
-  "ArtistID": 4285, 
+  "DateAcquired": "1968-01-10", 
   "Keywords": [
-    "online art collection", 
     "Barnett Newman", 
     "The Voice", 
     "1950"
   ], 
+  "ArtistID": 4285, 
+  "Title": "The Voice", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "1.1968", 
+  "Date": "1950", 
   "ArtistBio": "(American, 1905\u20131970)", 
-  "DateAcquired": "1968-01-10", 
-  "\ufeffTitle": "The Voice", 
+  "CuratorApproved": "Y", 
   "ObjectID": "78308"
 }

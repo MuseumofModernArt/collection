@@ -4,21 +4,20 @@
   "Classification": "Drawing", 
   "Artist": "Andy Warhol", 
   "URL": "http://www.moma.org/collection/works/34808", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase through the Vincent D'Aquila and Harry Soviak Bequest Fund", 
-  "Date": "(c. 1957)", 
-  "ArtistID": 6246, 
+  "DateAcquired": "1999-05-06", 
   "Keywords": [
-    "online art collection", 
     "Andy Warhol", 
     "Untitled (Unknown Male)", 
     "c", 
     "1957"
   ], 
+  "ArtistID": 6246, 
+  "Title": "Untitled (Unknown Male)", 
   "Department": "Drawings", 
   "MoMANumber": "150.1999", 
+  "Date": "(c. 1957)", 
   "ArtistBio": "(American, 1928\u20131987)", 
-  "DateAcquired": "1999-05-06", 
-  "\ufeffTitle": "Untitled (Unknown Male)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "34808"
 }

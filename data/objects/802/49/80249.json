@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Roy Lichtenstein", 
   "URL": "http://www.moma.org/collection/works/80249", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Philip Johnson Fund (by exchange) and gift of Mr. and Mrs. Bagley Wright", 
-  "Date": "1963", 
-  "ArtistID": 3542, 
+  "DateAcquired": "1971-12-07", 
   "Keywords": [
-    "online art collection", 
     "Roy Lichtenstein", 
     "Drowning Girl", 
     "1963"
   ], 
+  "ArtistID": 3542, 
+  "Title": "Drowning Girl", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "685.1971", 
+  "Date": "1963", 
   "ArtistBio": "(American, 1923\u20131997)", 
-  "DateAcquired": "1971-12-07", 
-  "\ufeffTitle": "Drowning Girl", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80249"
 }

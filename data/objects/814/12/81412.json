@@ -4,21 +4,20 @@
   "Classification": "Sculpture", 
   "Artist": "Henri Matisse", 
   "URL": "http://www.moma.org/collection/works/81412", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Sidney Janis", 
-  "Date": "Issy-les-Moulineaux, January - March (?) 1910", 
-  "ArtistID": 3832, 
+  "DateAcquired": "1955-12-10", 
   "Keywords": [
-    "online art collection", 
     "Henri Matisse", 
     "Jeannette (II)", 
     "Issy-les-Moulineaux", 
     "January - March (?) 1910"
   ], 
+  "ArtistID": 3832, 
+  "Title": "Jeannette (II)", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "383.1955", 
+  "Date": "Issy-les-Moulineaux, January - March (?) 1910", 
   "ArtistBio": "(French, 1869\u20131954)", 
-  "DateAcquired": "1955-12-10", 
-  "\ufeffTitle": "Jeannette (II)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81412"
 }

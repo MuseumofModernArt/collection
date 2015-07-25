@@ -4,12 +4,9 @@
   "Classification": "Photograph", 
   "Artist": "Berenice Abbott", 
   "URL": "http://www.moma.org/collection/works/44149", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the Robert and Joyce Menschel Foundation", 
-  "Date": "October 29, 1936", 
-  "ArtistID": 41, 
+  "DateAcquired": "1987-02-19", 
   "Keywords": [
-    "online art collection", 
     "Berenice Abbott", 
     "Cropsey Avenue", 
     "no", 
@@ -19,10 +16,12 @@
     "October 29", 
     "1936"
   ], 
+  "ArtistID": 41, 
+  "Title": "Cropsey Avenue, no. 1736, Bath Beach, Brooklyn", 
   "Department": "Photography", 
   "MoMANumber": "25.1987", 
+  "Date": "October 29, 1936", 
   "ArtistBio": "(American, 1898\u20131991)", 
-  "DateAcquired": "1987-02-19", 
-  "\ufeffTitle": "Cropsey Avenue, no. 1736, Bath Beach, Brooklyn", 
+  "CuratorApproved": "Y", 
   "ObjectID": "44149"
 }

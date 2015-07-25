@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Frederick Kiesler", 
   "URL": "http://www.moma.org/collection/works/80877", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Mr. and Mrs. Armand P. Bartos", 
-  "Date": "1947", 
-  "ArtistID": 3091, 
+  "DateAcquired": "1971-02-09", 
   "Keywords": [
-    "online art collection", 
     "Frederick Kiesler", 
     "Totem for All Religions", 
     "1947"
   ], 
+  "ArtistID": 3091, 
+  "Title": "Totem for All Religions", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "45.1971.a-b", 
+  "Date": "1947", 
   "ArtistBio": "(American, born Austria-Hungary. 1890\u20131965)", 
-  "DateAcquired": "1971-02-09", 
-  "\ufeffTitle": "Totem for All Religions", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80877"
 }

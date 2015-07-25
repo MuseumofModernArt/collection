@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Antonio L\u00f3pez Garc\u00eda", 
   "URL": "http://www.moma.org/collection/works/81303", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the Staempfli Gallery", 
-  "Date": "1963", 
-  "ArtistID": 3600, 
+  "DateAcquired": "1965-05-11", 
   "Keywords": [
-    "online art collection", 
     "Antonio L&oacute;pez Garc&iacute;a", 
     "The Apparition", 
     "1963"
   ], 
+  "ArtistID": 3600, 
+  "Title": "The Apparition", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "290.1965", 
+  "Date": "1963", 
   "ArtistBio": "(Spanish, born 1936)", 
-  "DateAcquired": "1965-05-11", 
-  "\ufeffTitle": "The Apparition", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81303"
 }

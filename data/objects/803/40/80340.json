@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Chuck Close", 
   "URL": "http://www.moma.org/collection/works/80340", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Anna Marie and Robert F. Shapiro; Enid A. Haupt Fund, Vassilis Cromwell Voglis Bequest (by exchange), and The Lauder Foundation Fund", 
-  "Date": "1995", 
-  "ArtistID": 1156, 
+  "DateAcquired": "1995-12-12", 
   "Keywords": [
-    "online art collection", 
     "Chuck Close", 
     "Dorothea", 
     "1995"
   ], 
+  "ArtistID": 1156, 
+  "Title": "Dorothea", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "773.1995", 
+  "Date": "1995", 
   "ArtistBio": "(American, born 1940)", 
-  "DateAcquired": "1995-12-12", 
-  "\ufeffTitle": "Dorothea", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80340"
 }

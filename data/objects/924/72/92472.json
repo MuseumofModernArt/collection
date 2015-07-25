@@ -4,12 +4,9 @@
   "Classification": "Photograph", 
   "Artist": "Timothy O'Sullivan", 
   "URL": "http://www.moma.org/collection/works/92472", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Ansel Adams in memory of Albert M. Bender", 
-  "Date": "Seasons of 1871, 1872 and 1873", 
-  "ArtistID": 4363, 
+  "DateAcquired": "1941-01-16", 
   "Keywords": [
-    "online art collection", 
     "Timothy O'Sullivan", 
     "Water Rhyolites", 
     "Near Logan Springs", 
@@ -17,10 +14,12 @@
     "Seasons of 1871", 
     "1872 and 1873"
   ], 
+  "ArtistID": 4363, 
+  "Title": "Water Rhyolites, Near Logan Springs, Nevada", 
   "Department": "Photography", 
   "MoMANumber": "87.1941.13", 
+  "Date": "Seasons of 1871, 1872 and 1873", 
   "ArtistBio": "(American, born Ireland. 1840\u20131882)", 
-  "DateAcquired": "1941-01-16", 
-  "\ufeffTitle": "Water Rhyolites, Near Logan Springs, Nevada", 
+  "CuratorApproved": "Y", 
   "ObjectID": "92472"
 }

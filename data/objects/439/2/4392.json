@@ -4,12 +4,9 @@
   "Classification": "A&D Design", 
   "Artist": "W. D. Randall", 
   "URL": "http://www.moma.org/collection/works/4392", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the designer", 
-  "Date": "c. 1947", 
-  "ArtistID": 4811, 
+  "DateAcquired": "1966-12-06", 
   "Keywords": [
-    "online art collection", 
     "W", 
     "D", 
     "Randall", 
@@ -17,10 +14,12 @@
     "c", 
     "1947"
   ], 
+  "ArtistID": 4811, 
+  "Title": "Throwing Knife (model 9)", 
   "Department": "Architecture & Design", 
   "MoMANumber": "714.1966", 
+  "Date": "c. 1947", 
   "ArtistBio": "(American, 1908\u20131989)", 
-  "DateAcquired": "1966-12-06", 
-  "\ufeffTitle": "Throwing Knife (model 9)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "4392"
 }

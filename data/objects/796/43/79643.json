@@ -4,21 +4,20 @@
   "Classification": "Painting", 
   "Artist": "Alexei Jawlensky", 
   "URL": "http://www.moma.org/collection/works/79643", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Acquired through the Lillie P. Bliss Bequest", 
-  "Date": "c. 1910?", 
-  "ArtistID": 2896, 
+  "DateAcquired": "1953-06-22", 
   "Keywords": [
-    "online art collection", 
     "Alexei Jawlensky", 
     "Head", 
     "c", 
     "1910?"
   ], 
+  "ArtistID": 2896, 
+  "Title": "Head", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "415.1953", 
+  "Date": "c. 1910?", 
   "ArtistBio": "(Russian, 1864\u20131941)", 
-  "DateAcquired": "1953-06-22", 
-  "\ufeffTitle": "Head", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79643"
 }

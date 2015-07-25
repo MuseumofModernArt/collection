@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Richard Deacon", 
   "URL": "http://www.moma.org/collection/works/81378", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Bernhill, Barbara Jakobson, Mr. and Mrs. Joseph Pulitzer, Jr., and Mr. and Mrs. Gerrit Lansing Funds", 
-  "Date": "1984", 
-  "ArtistID": 1456, 
+  "DateAcquired": "1985-10-25", 
   "Keywords": [
-    "online art collection", 
     "Richard Deacon", 
     "Falling on Deaf Ears Number 1", 
     "1984"
   ], 
+  "ArtistID": 1456, 
+  "Title": "Falling on Deaf Ears Number 1", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "338.1985", 
+  "Date": "1984", 
   "ArtistBio": "(British, born 1949)", 
-  "DateAcquired": "1985-10-25", 
-  "\ufeffTitle": "Falling on Deaf Ears Number 1", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81378"
 }

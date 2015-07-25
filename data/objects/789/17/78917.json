@@ -4,21 +4,20 @@
   "Classification": "Painting", 
   "Artist": "Andr\u00e9 Derain", 
   "URL": "http://www.moma.org/collection/works/78917", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Bequest of Anna Erickson Levene in memory of her husband, Dr. Phoebus Aaron Theodor Levene", 
-  "Date": "c. 1900", 
-  "ArtistID": 1500, 
+  "DateAcquired": "1947-06-17", 
   "Keywords": [
-    "online art collection", 
     "Andr&eacute; Derain", 
     "Poplars", 
     "c", 
     "1900"
   ], 
+  "ArtistID": 1500, 
+  "Title": "Poplars", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "128.1947", 
+  "Date": "c. 1900", 
   "ArtistBio": "(French, 1880\u20131954)", 
-  "DateAcquired": "1947-06-17", 
-  "\ufeffTitle": "Poplars", 
+  "CuratorApproved": "Y", 
   "ObjectID": "78917"
 }

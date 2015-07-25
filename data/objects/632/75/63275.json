@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Howard Hodgkin", 
   "URL": "http://www.moma.org/collection/works/63275", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1980", 
-  "ArtistID": 2679, 
+  "DateAcquired": "1981-05-06", 
   "Keywords": [
-    "online art collection", 
     "Howard Hodgkin", 
     "After Lunch", 
     "1980"
   ], 
+  "ArtistID": 2679, 
+  "Title": "After Lunch", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "159.1981", 
+  "Date": "1980", 
   "ArtistBio": "(British, born 1932)", 
-  "DateAcquired": "1981-05-06", 
-  "\ufeffTitle": "After Lunch", 
+  "CuratorApproved": "Y", 
   "ObjectID": "63275"
 }

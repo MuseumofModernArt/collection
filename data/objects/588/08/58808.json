@@ -4,12 +4,9 @@
   "Classification": "Photograph", 
   "Artist": "Unknown photographer", 
   "URL": "http://www.moma.org/collection/works/58808", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The New York Times Collection", 
-  "Date": "c. 1910", 
-  "ArtistID": 6028, 
+  "DateAcquired": "2001-06-14", 
   "Keywords": [
-    "online art collection", 
     "Unknown Photographer", 
     "L,S", 
     "Chandler", 
@@ -17,10 +14,12 @@
     "c", 
     "1910"
   ], 
+  "ArtistID": 6028, 
+  "Title": "L.S. Chandler, Suffragette", 
   "Department": "Photography", 
   "MoMANumber": "2215.2001", 
+  "Date": "c. 1910", 
   "ArtistBio": "", 
-  "DateAcquired": "2001-06-14", 
-  "\ufeffTitle": "L.S. Chandler, Suffragette", 
+  "CuratorApproved": "Y", 
   "ObjectID": "58808"
 }

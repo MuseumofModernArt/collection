@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Michael Goldberg", 
   "URL": "http://www.moma.org/collection/works/64767", 
-  "CuratorApproved": "Y", 
   "CreditLine": "John B. Turner Fund", 
-  "Date": "1984", 
-  "ArtistID": 2213, 
+  "DateAcquired": "1984-10-02", 
   "Keywords": [
-    "online art collection", 
     "Michael Goldberg", 
     "Untitled", 
     "1984"
   ], 
+  "ArtistID": 2213, 
+  "Title": "Untitled", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "227.1984", 
+  "Date": "1984", 
   "ArtistBio": "(American, 1924-2007)", 
-  "DateAcquired": "1984-10-02", 
-  "\ufeffTitle": "Untitled", 
+  "CuratorApproved": "Y", 
   "ObjectID": "64767"
 }

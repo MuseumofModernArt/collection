@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Lee Krasner", 
   "URL": "http://www.moma.org/collection/works/79162", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Kay Sage Tanguy Fund", 
-  "Date": "1966", 
-  "ArtistID": 3240, 
+  "DateAcquired": "1977-05-10", 
   "Keywords": [
-    "online art collection", 
     "Lee Krasner", 
     "Gaea", 
     "1966"
   ], 
+  "ArtistID": 3240, 
+  "Title": "Gaea", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "212.1977", 
+  "Date": "1966", 
   "ArtistBio": "(American, 1908\u20131984)", 
-  "DateAcquired": "1977-05-10", 
-  "\ufeffTitle": "Gaea", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79162"
 }

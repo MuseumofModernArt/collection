@@ -4,19 +4,18 @@
   "Classification": "Print", 
   "Artist": "Joe Tilson", 
   "URL": "http://www.moma.org/collection/works/74812", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Donald Karshan Fund", 
-  "Date": "1969", 
-  "ArtistID": 5879, 
+  "DateAcquired": "1969-10-28", 
   "Keywords": [
-    "online art collection", 
     "Joe Tilson", 
     "Is This Che Guevara? 1969"
   ], 
+  "ArtistID": 5879, 
+  "Title": "Is This Che Guevara?", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "922.1969", 
+  "Date": "1969", 
   "ArtistBio": "(British, born 1928)", 
-  "DateAcquired": "1969-10-28", 
-  "\ufeffTitle": "Is This Che Guevara?", 
+  "CuratorApproved": "Y", 
   "ObjectID": "74812"
 }

@@ -4,21 +4,20 @@
   "Classification": "Painting", 
   "Artist": "Georges-Pierre Seurat", 
   "URL": "http://www.moma.org/collection/works/80354", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Mr. and Mrs. William A. M. Burden", 
-  "Date": "summer 1890", 
-  "ArtistID": 5358, 
+  "DateAcquired": "1963-12-18", 
   "Keywords": [
-    "online art collection", 
     "Georges-Pierre Seurat", 
     "The Channel at Gravelines", 
     "Evening", 
     "summer 1890"
   ], 
+  "ArtistID": 5358, 
+  "Title": "The Channel at Gravelines, Evening, Marine avec des ancres", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "785.1963", 
+  "Date": "summer 1890", 
   "ArtistBio": "(French, 1859\u20131891)", 
-  "DateAcquired": "1963-12-18", 
-  "\ufeffTitle": "The Channel at Gravelines, Evening, Marine avec des ancres", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80354"
 }

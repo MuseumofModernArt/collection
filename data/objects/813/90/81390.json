@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Joel Shapiro", 
   "URL": "http://www.moma.org/collection/works/81390", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Sid R. Bass Fund; gift of Jeanne C. Thayer, Anna Marie and Robert F. Shapiro, Agnes Gund, and William L. Bernhard; President's Fund Purchase (1990), Donald B. Marron, President; Jerry I. Speyer Fund; Emily and Jerry Spiegel Fund", 
-  "Date": "1989-90", 
-  "ArtistID": 5373, 
+  "DateAcquired": "1990-10-09", 
   "Keywords": [
-    "online art collection", 
     "Joel Shapiro", 
     "Untitled", 
     "1989-90"
   ], 
+  "ArtistID": 5373, 
+  "Title": "Untitled", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "366.1990", 
+  "Date": "1989-90", 
   "ArtistBio": "(American, born 1941)", 
-  "DateAcquired": "1990-10-09", 
-  "\ufeffTitle": "Untitled", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81390"
 }

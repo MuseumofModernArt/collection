@@ -4,21 +4,20 @@
   "Classification": "A&D Graphic Design", 
   "Artist": "Ben Nason", 
   "URL": "http://www.moma.org/collection/works/5069", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of E. McKnight Kauffer", 
-  "Date": "1942", 
-  "ArtistID": 4230, 
+  "DateAcquired": "1944-05-02", 
   "Keywords": [
-    "online art collection", 
     "Ben Nason", 
     "The Berkshires", 
     "The New Haven Railroad", 
     "1942"
   ], 
+  "ArtistID": 4230, 
+  "Title": "The Berkshires, The New Haven Railroad", 
   "Department": "Architecture & Design", 
   "MoMANumber": "100.1944", 
+  "Date": "1942", 
   "ArtistBio": "(American, born 1915)", 
-  "DateAcquired": "1944-05-02", 
-  "\ufeffTitle": "The Berkshires, The New Haven Railroad", 
+  "CuratorApproved": "Y", 
   "ObjectID": "5069"
 }

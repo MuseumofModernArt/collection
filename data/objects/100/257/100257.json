@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Philip Guston", 
   "URL": "http://www.moma.org/collection/works/100257", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Edward R. Broida in honor of Uncle Sidney Feldman", 
-  "Date": "1976", 
-  "ArtistID": 2419, 
+  "DateAcquired": "2005-10-06", 
   "Keywords": [
-    "online art collection", 
     "Philip Guston", 
     "Source", 
     "1976"
   ], 
+  "ArtistID": 2419, 
+  "Title": "Source", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "726.2005", 
+  "Date": "1976", 
   "ArtistBio": "(American, born Canada. 1913\u20131980)", 
-  "DateAcquired": "2005-10-06", 
-  "\ufeffTitle": "Source", 
+  "CuratorApproved": "Y", 
   "ObjectID": "100257"
 }

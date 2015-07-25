@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Doris Salcedo", 
   "URL": "http://www.moma.org/collection/works/80767", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The Norman and Rosita Winston Foundation, Inc. Fund", 
-  "Date": "1995", 
-  "ArtistID": 7488, 
+  "DateAcquired": "1996-03-11", 
   "Keywords": [
-    "online art collection", 
     "Doris Salcedo", 
     "Untitled", 
     "1995"
   ], 
+  "ArtistID": 7488, 
+  "Title": "Untitled", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "4.1996", 
+  "Date": "1995", 
   "ArtistBio": "(Colombian, born 1958)", 
-  "DateAcquired": "1996-03-11", 
-  "\ufeffTitle": "Untitled", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80767"
 }

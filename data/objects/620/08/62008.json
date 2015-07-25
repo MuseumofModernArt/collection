@@ -4,21 +4,20 @@
   "Classification": "Print", 
   "Artist": "Henri Matisse", 
   "URL": "http://www.moma.org/collection/works/62008", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchased with funds given by Harry Kahn, Susan and Arthur L. Fleischer, Jr., Carol and Bert Freidus, Johanna and Leslie J. Garfield, Linda and Bill Goldstein, Francine E. Lembo, Barbara and Max Pine, and Susan and Peter A. Ralston in honor of Riva Castleman", 
-  "Date": "(1949/50, printed 1966)", 
-  "ArtistID": 3832, 
+  "DateAcquired": "1995-05-03", 
   "Keywords": [
-    "online art collection", 
     "Henri Matisse", 
     "White Mask on Black Background (Masque blanc sur fond noir)", 
     "(1949/50", 
     "printed 1966)"
   ], 
+  "ArtistID": 3832, 
+  "Title": "White Mask on Black Background (Masque blanc sur fond noir)", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "113.1995", 
+  "Date": "(1949/50, printed 1966)", 
   "ArtistBio": "(French, 1869\u20131954)", 
-  "DateAcquired": "1995-05-03", 
-  "\ufeffTitle": "White Mask on Black Background (Masque blanc sur fond noir)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "62008"
 }

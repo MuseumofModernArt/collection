@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Sophie Taeuber-Arp", 
   "URL": "http://www.moma.org/collection/works/88254", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Mrs. John Hay Whitney Bequest (by exchange) and Committee on Painting and Sculpture Funds", 
-  "Date": "1920", 
-  "ArtistID": 5777, 
+  "DateAcquired": "2003-10-07", 
   "Keywords": [
-    "online art collection", 
     "Sophie Taeuber-Arp", 
     "Dada Head", 
     "1920"
   ], 
+  "ArtistID": 5777, 
+  "Title": "Dada Head", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "253.2003", 
+  "Date": "1920", 
   "ArtistBio": "(Swiss, 1889\u20131943)", 
-  "DateAcquired": "2003-10-07", 
-  "\ufeffTitle": "Dada Head", 
+  "CuratorApproved": "Y", 
   "ObjectID": "88254"
 }

@@ -4,12 +4,9 @@
   "Classification": "A&D Architectural Drawing", 
   "Artist": "Arata Isozaki", 
   "URL": "http://www.moma.org/collection/works/226", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the architect", 
-  "Date": "1992", 
-  "ArtistID": 2837, 
+  "DateAcquired": "1993-05-04", 
   "Keywords": [
-    "online art collection", 
     "Arata Isozaki", 
     "Nara Convention Hall", 
     "Nara", 
@@ -17,10 +14,12 @@
     "South elevation", 
     "1992"
   ], 
+  "ArtistID": 2837, 
+  "Title": "Nara Convention Hall, Nara, Japan, South elevation", 
   "Department": "Architecture & Design", 
   "MoMANumber": "143.1993", 
+  "Date": "1992", 
   "ArtistBio": "(Japanese, born 1931)", 
-  "DateAcquired": "1993-05-04", 
-  "\ufeffTitle": "Nara Convention Hall, Nara, Japan, South elevation", 
+  "CuratorApproved": "Y", 
   "ObjectID": "226"
 }

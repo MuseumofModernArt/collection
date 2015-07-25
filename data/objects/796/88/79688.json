@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Morris Louis", 
   "URL": "http://www.moma.org/collection/works/79688", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Mrs. Abner Brenner", 
-  "Date": "1961", 
-  "ArtistID": 3607, 
+  "DateAcquired": "1983-04-12", 
   "Keywords": [
-    "online art collection", 
     "Morris Louis", 
     "Beta Lambda", 
     "1961"
   ], 
+  "ArtistID": 3607, 
+  "Title": "Beta Lambda", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "428.1983", 
+  "Date": "1961", 
   "ArtistBio": "(American, 1912\u20131962)", 
-  "DateAcquired": "1983-04-12", 
-  "\ufeffTitle": "Beta Lambda", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79688"
 }

@@ -4,20 +4,19 @@
   "Classification": "Drawing", 
   "Artist": "Odilon Redon", 
   "URL": "http://www.moma.org/collection/works/35239", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Acquired through the Lillie P. Bliss Bequest", 
-  "Date": "1881", 
-  "ArtistID": 4840, 
+  "DateAcquired": "1952-11-07", 
   "Keywords": [
-    "online art collection", 
     "Odilon Redon", 
     "The Convict", 
     "1881"
   ], 
+  "ArtistID": 4840, 
+  "Title": "The Convict", 
   "Department": "Drawings", 
   "MoMANumber": "199.1952", 
+  "Date": "1881", 
   "ArtistBio": "(French, 1840\u20131916)", 
-  "DateAcquired": "1952-11-07", 
-  "\ufeffTitle": "The Convict", 
+  "CuratorApproved": "Y", 
   "ObjectID": "35239"
 }

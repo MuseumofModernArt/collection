@@ -4,21 +4,20 @@
   "Classification": "Sculpture", 
   "Artist": "Louise Bourgeois", 
   "URL": "http://www.moma.org/collection/works/81955", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Ruth Stephan Franklin", 
-  "Date": "1947-53; reassembled by the artist 1981", 
-  "ArtistID": 710, 
+  "DateAcquired": "1970-02-10", 
   "Keywords": [
-    "online art collection", 
     "Louise Bourgeois", 
     "Quarantania", 
     "I", 
     "1947-53; reassembled by the artist 1981"
   ], 
+  "ArtistID": 710, 
+  "Title": "Quarantania, I", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "1076.1969", 
+  "Date": "1947-53; reassembled by the artist 1981", 
   "ArtistBio": "(American, born France. 1911\u20132010)", 
-  "DateAcquired": "1970-02-10", 
-  "\ufeffTitle": "Quarantania, I", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81955"
 }

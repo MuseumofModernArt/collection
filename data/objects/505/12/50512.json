@@ -4,20 +4,19 @@
   "Classification": "Photograph", 
   "Artist": "Harry Callahan", 
   "URL": "http://www.moma.org/collection/works/50512", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Joseph G. Mayer Fund", 
-  "Date": "1965", 
-  "ArtistID": 924, 
+  "DateAcquired": "1975-10-23", 
   "Keywords": [
-    "online art collection", 
     "Harry Callahan", 
     "Multiple Exposure", 
     "1965"
   ], 
+  "ArtistID": 924, 
+  "Title": "Multiple Exposure", 
   "Department": "Photography", 
   "MoMANumber": "312.1975", 
+  "Date": "1965", 
   "ArtistBio": "(American, 1912\u20131999)", 
-  "DateAcquired": "1975-10-23", 
-  "\ufeffTitle": "Multiple Exposure", 
+  "CuratorApproved": "Y", 
   "ObjectID": "50512"
 }

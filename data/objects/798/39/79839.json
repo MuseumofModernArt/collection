@@ -4,21 +4,20 @@
   "Classification": "Painting", 
   "Artist": "Juan Gris", 
   "URL": "http://www.moma.org/collection/works/79839", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Acquired through the Lillie P. Bliss Bequest", 
-  "Date": "1911", 
-  "ArtistID": 2349, 
+  "DateAcquired": "1941-06-10", 
   "Keywords": [
-    "online art collection", 
     "Juan Gris", 
     "Jar", 
     "Bottle and Glass", 
     "1911"
   ], 
+  "ArtistID": 2349, 
+  "Title": "Jar, Bottle and Glass", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "502.1941", 
+  "Date": "1911", 
   "ArtistBio": "(Spanish, 1887\u20131927)", 
-  "DateAcquired": "1941-06-10", 
-  "\ufeffTitle": "Jar, Bottle and Glass", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79839"
 }

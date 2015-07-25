@@ -4,12 +4,9 @@
   "Classification": "Photograph", 
   "Artist": "Lee Friedlander", 
   "URL": "http://www.moma.org/collection/works/56311", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1972", 
-  "ArtistID": 2002, 
+  "DateAcquired": "2000-10-12", 
   "Keywords": [
-    "online art collection", 
     "Lee Friedlander", 
     "To Michigan Soldiers and Sailors", 
     "Campus Martius", 
@@ -17,10 +14,12 @@
     "Michigan", 
     "1972"
   ], 
+  "ArtistID": 2002, 
+  "Title": "To Michigan Soldiers and Sailors. Campus Martius, Detroit, Michigan", 
   "Department": "Photography", 
   "MoMANumber": "744.2000", 
+  "Date": "1972", 
   "ArtistBio": "(American, born 1934)", 
-  "DateAcquired": "2000-10-12", 
-  "\ufeffTitle": "To Michigan Soldiers and Sailors. Campus Martius, Detroit, Michigan", 
+  "CuratorApproved": "Y", 
   "ObjectID": "56311"
 }

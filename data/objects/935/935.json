@@ -4,12 +4,9 @@
   "Classification": "A&D Architectural Drawing", 
   "Artist": "Superstudio, Gian Piero Frassinelli, Alessandro Magris, Roberto Magris, Adolfo Natalini, Cristiano Toraldo di Francia", 
   "URL": "http://www.moma.org/collection/works/935", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of The Howard Gilman Foundation", 
-  "Date": "1969", 
-  "ArtistID": 5733, 
+  "DateAcquired": "2000-10-31", 
   "Keywords": [
-    "online art collection", 
     "Superstudio", 
     "Gian Piero Frassinelli", 
     "Alessandro Magris", 
@@ -21,10 +18,12 @@
     "Perspective", 
     "1969"
   ], 
+  "ArtistID": 5733, 
+  "Title": "The Continuous Monument: St. Moritz Revisited, project, Perspective", 
   "Department": "Architecture & Design", 
   "MoMANumber": "1310.2000", 
+  "Date": "1969", 
   "ArtistBio": "(Italian, est. 1966\u20131982) (Italian, born 1939) (Italian, born 1941) (Italian, born 1935) (Italian, born 1941) (Italian, born 1941)", 
-  "DateAcquired": "2000-10-31", 
-  "\ufeffTitle": "The Continuous Monument: St. Moritz Revisited, project, Perspective", 
+  "CuratorApproved": "Y", 
   "ObjectID": "935"
 }

@@ -4,12 +4,9 @@
   "Classification": "A&D Architectural Drawing", 
   "Artist": "Frank Lloyd Wright", 
   "URL": "http://www.moma.org/collection/works/306", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Patricia Phelps de Cisneros, The Lauder Foundation, Leonard and Evelyn Lauder Fund, and Victoria Newhouse Purchase Fund", 
-  "Date": "c. 1929-30", 
-  "ArtistID": 6459, 
+  "DateAcquired": "1999-06-30", 
   "Keywords": [
-    "online art collection", 
     "Frank Lloyd Wright", 
     "Unity Temple", 
     "Oak Park", 
@@ -18,10 +15,12 @@
     "c", 
     "1929-30"
   ], 
+  "ArtistID": 6459, 
+  "Title": "Unity Temple, Oak Park, Illinois , Exterior perspective and partial plan", 
   "Department": "Architecture & Design", 
   "MoMANumber": "279.1999", 
+  "Date": "c. 1929-30", 
   "ArtistBio": "(American, 1867\u20131959)", 
-  "DateAcquired": "1999-06-30", 
-  "\ufeffTitle": "Unity Temple, Oak Park, Illinois , Exterior perspective and partial plan", 
+  "CuratorApproved": "Y", 
   "ObjectID": "306"
 }

@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Sean Scully", 
   "URL": "http://www.moma.org/collection/works/64374", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Associate Council Fund", 
-  "Date": "(1986)", 
-  "ArtistID": 5305, 
+  "DateAcquired": "1986-05-20", 
   "Keywords": [
-    "online art collection", 
     "Sean Scully", 
     "Conversation", 
     "(1986)"
   ], 
+  "ArtistID": 5305, 
+  "Title": "Conversation", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "205.1986", 
+  "Date": "(1986)", 
   "ArtistBio": "(American, born Ireland 1945)", 
-  "DateAcquired": "1986-05-20", 
-  "\ufeffTitle": "Conversation", 
+  "CuratorApproved": "Y", 
   "ObjectID": "64374"
 }

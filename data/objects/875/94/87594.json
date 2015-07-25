@@ -4,12 +4,9 @@
   "Classification": "A&D Mies van der Rohe Archive", 
   "Artist": "Ludwig Mies van der Rohe", 
   "URL": "http://www.moma.org/collection/works/87594", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Mies van der Rohe Archive, gift of the architect\r\n", 
-  "Date": "1930-1931", 
-  "ArtistID": 7166, 
+  "DateAcquired": "", 
   "Keywords": [
-    "online art collection", 
     "Ludwig Mies van der Rohe", 
     "Exhibition House", 
     "German Building Exhibition", 
@@ -18,10 +15,12 @@
     "Exterior perspective", 
     "1930-1931"
   ], 
+  "ArtistID": 7166, 
+  "Title": "Exhibition House, German Building Exhibition, Berlin, Germany, Exterior perspective", 
   "Department": "Architecture & Design", 
   "MoMANumber": "MR25.5", 
+  "Date": "1930-1931", 
   "ArtistBio": "(American, born Germany. 1886\u20131969)", 
-  "DateAcquired": "", 
-  "\ufeffTitle": "Exhibition House, German Building Exhibition, Berlin, Germany, Exterior perspective", 
+  "CuratorApproved": "Y", 
   "ObjectID": "87594"
 }

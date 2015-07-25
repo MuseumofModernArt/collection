@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Edward Hopper", 
   "URL": "http://www.moma.org/collection/works/71990", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Mr. and Mrs. E. Powis Jones Fund", 
-  "Date": "1923", 
-  "ArtistID": 2726, 
+  "DateAcquired": "1959-04-22", 
   "Keywords": [
-    "online art collection", 
     "Edward Hopper", 
     "Aux Fortifications", 
     "1923"
   ], 
+  "ArtistID": 2726, 
+  "Title": "Aux Fortifications", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "622.1959", 
+  "Date": "1923", 
   "ArtistBio": "(American, 1882\u20131967)", 
-  "DateAcquired": "1959-04-22", 
-  "\ufeffTitle": "Aux Fortifications", 
+  "CuratorApproved": "Y", 
   "ObjectID": "71990"
 }

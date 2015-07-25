@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Kiki Smith", 
   "URL": "http://www.moma.org/collection/works/81598", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Louis and Bessie Adler Foundation, Inc.", 
-  "Date": "1987-90", 
-  "ArtistID": 5486, 
+  "DateAcquired": "1990-12-10", 
   "Keywords": [
-    "online art collection", 
     "Kiki Smith", 
     "Untitled", 
     "1987-90"
   ], 
+  "ArtistID": 5486, 
+  "Title": "Untitled", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "565.1990.a-l", 
+  "Date": "1987-90", 
   "ArtistBio": "(American, born Germany 1954)", 
-  "DateAcquired": "1990-12-10", 
-  "\ufeffTitle": "Untitled", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81598"
 }

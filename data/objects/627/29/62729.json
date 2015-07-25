@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "John Pearson", 
   "URL": "http://www.moma.org/collection/works/62729", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Agnes Gund", 
-  "Date": "1989", 
-  "ArtistID": 4531, 
+  "DateAcquired": "1989-05-30", 
   "Keywords": [
-    "online art collection", 
     "John Pearson", 
     "Unfolding 3rd: P from the Unfolding/Fragment Suite", 
     "1989"
   ], 
+  "ArtistID": 4531, 
+  "Title": "Unfolding 3rd: P from the Unfolding/Fragment Suite", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "137.1989", 
+  "Date": "1989", 
   "ArtistBio": "(American, born 1940)", 
-  "DateAcquired": "1989-05-30", 
-  "\ufeffTitle": "Unfolding 3rd: P from the Unfolding/Fragment Suite", 
+  "CuratorApproved": "Y", 
   "ObjectID": "62729"
 }

@@ -4,21 +4,20 @@
   "Classification": "Sculpture", 
   "Artist": "Bruce Nauman", 
   "URL": "http://www.moma.org/collection/works/81489", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Acquisition from the Werner Dannheisser Testamentary Trust", 
-  "Date": "1989", 
-  "ArtistID": 4243, 
+  "DateAcquired": "1996-10-07", 
   "Keywords": [
-    "online art collection", 
     "Bruce Nauman", 
     "Hanging Heads #2 (Blue Andrew with Plug/White Julie", 
     "Mouth Closed)", 
     "1989"
   ], 
+  "ArtistID": 4243, 
+  "Title": "Hanging Heads #2 (Blue Andrew with Plug/White Julie, Mouth Closed)", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "470.1996.a-b", 
+  "Date": "1989", 
   "ArtistBio": "(American, born 1941)", 
-  "DateAcquired": "1996-10-07", 
-  "\ufeffTitle": "Hanging Heads #2 (Blue Andrew with Plug/White Julie, Mouth Closed)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81489"
 }

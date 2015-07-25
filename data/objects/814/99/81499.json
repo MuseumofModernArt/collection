@@ -4,19 +4,18 @@
   "Classification": "Sculpture", 
   "Artist": "Arman", 
   "URL": "http://www.moma.org/collection/works/81499", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Philip Johnson", 
-  "Date": "1960", 
-  "ArtistID": 220, 
+  "DateAcquired": "1970-11-10", 
   "Keywords": [
-    "online art collection", 
     "Arman", 
     "Boom! Boom! 1960"
   ], 
+  "ArtistID": 220, 
+  "Title": "Boom! Boom!", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "495.1970", 
+  "Date": "1960", 
   "ArtistBio": "(American, born France. 1928\u20132005)", 
-  "DateAcquired": "1970-11-10", 
-  "\ufeffTitle": "Boom! Boom!", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81499"
 }

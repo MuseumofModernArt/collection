@@ -4,21 +4,20 @@
   "Classification": "Sculpture", 
   "Artist": "Henri Matisse", 
   "URL": "http://www.moma.org/collection/works/81037", 
-  "CuratorApproved": "Y", 
   "CreditLine": "A. Conger Goodyear Fund", 
-  "Date": "Nice, summer 1930", 
-  "ArtistID": 3832, 
+  "DateAcquired": "1955-06-16", 
   "Keywords": [
-    "online art collection", 
     "Henri Matisse", 
     "Tiari", 
     "Nice", 
     "summer 1930"
   ], 
+  "ArtistID": 3832, 
+  "Title": "Tiari", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "154.1955", 
+  "Date": "Nice, summer 1930", 
   "ArtistBio": "(French, 1869\u20131954)", 
-  "DateAcquired": "1955-06-16", 
-  "\ufeffTitle": "Tiari", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81037"
 }

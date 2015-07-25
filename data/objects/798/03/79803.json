@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Hermann Nitsch", 
   "URL": "http://www.moma.org/collection/works/79803", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Gregor and Beatrix Medinger", 
-  "Date": "1990", 
-  "ArtistID": 4310, 
+  "DateAcquired": "1996-10-07", 
   "Keywords": [
-    "online art collection", 
     "Hermann Nitsch", 
     "Painted Shirt", 
     "1990"
   ], 
+  "ArtistID": 4310, 
+  "Title": "Painted Shirt", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "472.1996", 
+  "Date": "1990", 
   "ArtistBio": "(Austrian, born 1938)", 
-  "DateAcquired": "1996-10-07", 
-  "\ufeffTitle": "Painted Shirt", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79803"
 }

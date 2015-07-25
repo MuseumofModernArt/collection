@@ -4,20 +4,19 @@
   "Classification": "Drawing", 
   "Artist": "Christian Rohlfs", 
   "URL": "http://www.moma.org/collection/works/37582", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The John S. Newberry Collection", 
-  "Date": "1935", 
-  "ArtistID": 5000, 
+  "DateAcquired": "1963-12-10", 
   "Keywords": [
-    "online art collection", 
     "Christian Rohlfs", 
     "Man in a Top Hat (Mann im Zylinder)", 
     "1935"
   ], 
+  "ArtistID": 5000, 
+  "Title": "Man in a Top Hat (Mann im Zylinder)", 
   "Department": "Drawings", 
   "MoMANumber": "611.1963", 
+  "Date": "1935", 
   "ArtistBio": "(German, 1849\u20131938)", 
-  "DateAcquired": "1963-12-10", 
-  "\ufeffTitle": "Man in a Top Hat (Mann im Zylinder)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "37582"
 }

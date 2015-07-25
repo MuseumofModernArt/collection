@@ -4,20 +4,19 @@
   "Classification": "Photograph", 
   "Artist": "Alfred Stieglitz", 
   "URL": "http://www.moma.org/collection/works/51884", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Transferred from the Museum Library", 
-  "Date": "1904", 
-  "ArtistID": 5664, 
+  "DateAcquired": "1976-10-13", 
   "Keywords": [
-    "online art collection", 
     "Alfred Stieglitz", 
     "Portrait of Miss S,R", 
     "1904"
   ], 
+  "ArtistID": 5664, 
+  "Title": "Portrait of Miss S.R.", 
   "Department": "Photography", 
   "MoMANumber": "367.1976", 
+  "Date": "1904", 
   "ArtistBio": "(American, 1864\u20131946)", 
-  "DateAcquired": "1976-10-13", 
-  "\ufeffTitle": "Portrait of Miss S.R.", 
+  "CuratorApproved": "Y", 
   "ObjectID": "51884"
 }

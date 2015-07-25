@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Henri Matisse", 
   "URL": "http://www.moma.org/collection/works/79556", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Mrs. Charles Suydam Cutting", 
-  "Date": "1950-52 (manufactured 1955)", 
-  "ArtistID": 3832, 
+  "DateAcquired": "1955-11-23", 
   "Keywords": [
-    "online art collection", 
     "Henri Matisse", 
     "Chasuble", 
     "1950-52 (manufactured 1955)"
   ], 
+  "ArtistID": 3832, 
+  "Title": "Chasuble", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "374.1955", 
+  "Date": "1950-52 (manufactured 1955)", 
   "ArtistBio": "(French, 1869\u20131954)", 
-  "DateAcquired": "1955-11-23", 
-  "\ufeffTitle": "Chasuble", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79556"
 }

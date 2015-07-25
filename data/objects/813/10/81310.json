@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "David Smith", 
   "URL": "http://www.moma.org/collection/works/81310", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Blanchette Hooker Rockefeller Fund", 
-  "Date": "1950", 
-  "ArtistID": 5480, 
+  "DateAcquired": "1956-10-25", 
   "Keywords": [
-    "online art collection", 
     "David Smith", 
     "Twenty-Four Greek Y's", 
     "1950"
   ], 
+  "ArtistID": 5480, 
+  "Title": "Twenty-Four Greek Y's", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "294.1956", 
+  "Date": "1950", 
   "ArtistBio": "(American, 1906\u20131965)", 
-  "DateAcquired": "1956-10-25", 
-  "\ufeffTitle": "Twenty-Four Greek Y's", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81310"
 }

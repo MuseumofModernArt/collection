@@ -4,12 +4,9 @@
   "Classification": "A&D Graphic Design", 
   "Artist": "Francisco Dosamentes", 
   "URL": "http://www.moma.org/collection/works/7938", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Inter-American Fund", 
-  "Date": "c. 1941", 
-  "ArtistID": 1596, 
+  "DateAcquired": "1942-12-29", 
   "Keywords": [
-    "online art collection", 
     "Francisco Dosamentes", 
     "Exposicion Litografias", 
     "Taller de Gr&aacute;fica Popular", 
@@ -17,10 +14,12 @@
     "c", 
     "1941"
   ], 
+  "ArtistID": 1596, 
+  "Title": "Exposicion Litografias, Taller de Gr\u00e1fica Popular, Galeria de Arte de la Universidad Nacional", 
   "Department": "Architecture & Design", 
   "MoMANumber": "690.1942", 
+  "Date": "c. 1941", 
   "ArtistBio": "(Mexican)", 
-  "DateAcquired": "1942-12-29", 
-  "\ufeffTitle": "Exposicion Litografias, Taller de Gr\u00e1fica Popular, Galeria de Arte de la Universidad Nacional", 
+  "CuratorApproved": "Y", 
   "ObjectID": "7938"
 }

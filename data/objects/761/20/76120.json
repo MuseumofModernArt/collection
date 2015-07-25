@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "John Marin", 
   "URL": "http://www.moma.org/collection/works/76120", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Abby Aldrich Rockefeller", 
-  "Date": "1913", 
-  "ArtistID": 3770, 
+  "DateAcquired": "1940-04-05", 
   "Keywords": [
-    "online art collection", 
     "John Marin", 
     "Brooklyn Bridge (Mosaic) from Six New York Etchings", 
     "1913"
   ], 
+  "ArtistID": 3770, 
+  "Title": "Brooklyn Bridge (Mosaic)", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "1231.1940", 
+  "Date": "1913", 
   "ArtistBio": "(American, 1870\u20131953)", 
-  "DateAcquired": "1940-04-05", 
-  "\ufeffTitle": "Brooklyn Bridge (Mosaic)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "76120"
 }

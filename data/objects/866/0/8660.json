@@ -4,20 +4,19 @@
   "Classification": "A&D Graphic Design", 
   "Artist": "Kurt Schwitters", 
   "URL": "http://www.moma.org/collection/works/8660", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Jan Tschichold Collection, Gift of Philip Johnson", 
-  "Date": "1923", 
-  "ArtistID": 5293, 
+  "DateAcquired": "1999-12-10", 
   "Keywords": [
-    "online art collection", 
     "Kurt Schwitters", 
     "Merzmatinee", 
     "1923"
   ], 
+  "ArtistID": 5293, 
+  "Title": "Merzmatinee", 
   "Department": "Architecture & Design", 
   "MoMANumber": "911.1999", 
+  "Date": "1923", 
   "ArtistBio": "(German, 1887\u20131948)", 
-  "DateAcquired": "1999-12-10", 
-  "\ufeffTitle": "Merzmatinee", 
+  "CuratorApproved": "Y", 
   "ObjectID": "8660"
 }

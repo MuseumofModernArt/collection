@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Rachel Whiteread", 
   "URL": "http://www.moma.org/collection/works/73313", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1996", 
-  "ArtistID": 6910, 
+  "DateAcquired": "1996-11-12", 
   "Keywords": [
-    "online art collection", 
     "Rachel Whiteread", 
     "Demolished", 
     "1996"
   ], 
+  "ArtistID": 6910, 
+  "Title": "Demolished", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "705.1996.1-12", 
+  "Date": "1996", 
   "ArtistBio": "(British, born 1963)", 
-  "DateAcquired": "1996-11-12", 
-  "\ufeffTitle": "Demolished", 
+  "CuratorApproved": "Y", 
   "ObjectID": "73313"
 }

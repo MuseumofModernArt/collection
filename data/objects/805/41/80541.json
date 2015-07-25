@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Georges Vantongerloo", 
   "URL": "http://www.moma.org/collection/works/80541", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The Riklis Collection of McCrory Corporation", 
-  "Date": "Paris 1939", 
-  "ArtistID": 6091, 
+  "DateAcquired": "1985-10-25", 
   "Keywords": [
-    "online art collection", 
     "Georges Vantongerloo", 
     "Relation of Lines and Colors", 
     "Paris 1939"
   ], 
+  "ArtistID": 6091, 
+  "Title": "Relation of Lines and Colors", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "1079.1983", 
+  "Date": "Paris 1939", 
   "ArtistBio": "(Belgian, 1886\u20131965)", 
-  "DateAcquired": "1985-10-25", 
-  "\ufeffTitle": "Relation of Lines and Colors", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80541"
 }

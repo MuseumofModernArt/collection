@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Will Barnet", 
   "URL": "http://www.moma.org/collection/works/78491", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Dr. Jack M. Greenbaum", 
-  "Date": "1959-60", 
-  "ArtistID": 342, 
+  "DateAcquired": "1960-04-06", 
   "Keywords": [
-    "online art collection", 
     "Will Barnet", 
     "Golden Tension", 
     "1959-60"
   ], 
+  "ArtistID": 342, 
+  "Title": "Golden Tension", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "22.1960", 
+  "Date": "1959-60", 
   "ArtistBio": "(American, 1911\u20132012)", 
-  "DateAcquired": "1960-04-06", 
-  "\ufeffTitle": "Golden Tension", 
+  "CuratorApproved": "Y", 
   "ObjectID": "78491"
 }

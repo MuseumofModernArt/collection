@@ -4,21 +4,20 @@
   "Classification": "Drawing", 
   "Artist": "Andy Warhol", 
   "URL": "http://www.moma.org/collection/works/34820", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchased with funds provided by the Vincent D'Acquila Drawings Fund", 
-  "Date": "(c. 1958)", 
-  "ArtistID": 6246, 
+  "DateAcquired": "2013-10-23", 
   "Keywords": [
-    "online art collection", 
     "Andy Warhol", 
     "Untitled (Feet)", 
     "c", 
     "1958"
   ], 
+  "ArtistID": 6246, 
+  "Title": "Untitled (Feet)", 
   "Department": "Drawings", 
   "MoMANumber": "151.1999", 
+  "Date": "(c. 1958)", 
   "ArtistBio": "(American, 1928\u20131987)", 
-  "DateAcquired": "2013-10-23", 
-  "\ufeffTitle": "Untitled (Feet)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "34820"
 }

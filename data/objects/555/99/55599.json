@@ -4,21 +4,20 @@
   "Classification": "Photograph", 
   "Artist": "Unknown photographer", 
   "URL": "http://www.moma.org/collection/works/55599", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "c. 1880", 
-  "ArtistID": 7022, 
+  "DateAcquired": "1990-12-13", 
   "Keywords": [
-    "online art collection", 
     "Unknown Maker", 
     "Phares de la Heve: Salle des Machines", 
     "c", 
     "1880"
   ], 
+  "ArtistID": 7022, 
+  "Title": "Phares de la Heve: Salle des Machines", 
   "Department": "Photography", 
   "MoMANumber": "614.1990", 
+  "Date": "c. 1880", 
   "ArtistBio": "", 
-  "DateAcquired": "1990-12-13", 
-  "\ufeffTitle": "Phares de la Heve: Salle des Machines", 
+  "CuratorApproved": "Y", 
   "ObjectID": "55599"
 }

@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Edward Hopper", 
   "URL": "http://www.moma.org/collection/works/74954", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Abby Aldrich Rockefeller", 
-  "Date": "1920", 
-  "ArtistID": 2726, 
+  "DateAcquired": "1940-04-05", 
   "Keywords": [
-    "online art collection", 
     "Edward Hopper", 
     "American Landscape", 
     "1920"
   ], 
+  "ArtistID": 2726, 
+  "Title": "American Landscape", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "963.1940", 
+  "Date": "1920", 
   "ArtistBio": "(American, 1882\u20131967)", 
-  "DateAcquired": "1940-04-05", 
-  "\ufeffTitle": "American Landscape", 
+  "CuratorApproved": "Y", 
   "ObjectID": "74954"
 }

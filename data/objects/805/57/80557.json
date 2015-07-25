@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Richard Pousette-Dart", 
   "URL": "http://www.moma.org/collection/works/80557", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Given anonymously", 
-  "Date": "1940", 
-  "ArtistID": 4716, 
+  "DateAcquired": "1970-02-10", 
   "Keywords": [
-    "online art collection", 
     "Richard Pousette-Dart", 
     "Desert", 
     "1940"
   ], 
+  "ArtistID": 4716, 
+  "Title": "Desert", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "1099.1969", 
+  "Date": "1940", 
   "ArtistBio": "(American, 1916\u20131992)", 
-  "DateAcquired": "1970-02-10", 
-  "\ufeffTitle": "Desert", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80557"
 }

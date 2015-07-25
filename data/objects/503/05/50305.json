@@ -4,22 +4,21 @@
   "Classification": "Photograph", 
   "Artist": "Robert Adams", 
   "URL": "http://www.moma.org/collection/works/50305", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1973", 
-  "ArtistID": 66, 
+  "DateAcquired": "1975-10-23", 
   "Keywords": [
-    "online art collection", 
     "Robert Adams", 
     "Tract Housing", 
     "the North Edge of Denver", 
     "Colorado", 
     "1973"
   ], 
+  "ArtistID": 66, 
+  "Title": "Tract Housing, the North Edge of Denver, Colorado", 
   "Department": "Photography", 
   "MoMANumber": "305.1975", 
+  "Date": "1973", 
   "ArtistBio": "(American, born 1937)", 
-  "DateAcquired": "1975-10-23", 
-  "\ufeffTitle": "Tract Housing, the North Edge of Denver, Colorado", 
+  "CuratorApproved": "Y", 
   "ObjectID": "50305"
 }

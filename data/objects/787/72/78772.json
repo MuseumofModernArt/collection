@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Richard Pousette-Dart", 
   "URL": "http://www.moma.org/collection/works/78772", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Katharine Cornell Fund", 
-  "Date": "1949", 
-  "ArtistID": 4716, 
+  "DateAcquired": "1950-04-24", 
   "Keywords": [
-    "online art collection", 
     "Richard Pousette-Dart", 
     "Number 11: A Presence", 
     "1949"
   ], 
+  "ArtistID": 4716, 
+  "Title": "Number 11: A Presence", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "100.1950", 
+  "Date": "1949", 
   "ArtistBio": "(American, 1916\u20131992)", 
-  "DateAcquired": "1950-04-24", 
-  "\ufeffTitle": "Number 11: A Presence", 
+  "CuratorApproved": "Y", 
   "ObjectID": "78772"
 }

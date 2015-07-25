@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Ossip Zadkine", 
   "URL": "http://www.moma.org/collection/works/80829", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Mrs. Maurice J. Speiser in memory of her husband", 
-  "Date": "1928", 
-  "ArtistID": 6533, 
+  "DateAcquired": "1949-02-03", 
   "Keywords": [
-    "online art collection", 
     "Ossip Zadkine", 
     "Torso", 
     "1928"
   ], 
+  "ArtistID": 6533, 
+  "Title": "Torso", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "17.1949", 
+  "Date": "1928", 
   "ArtistBio": "(French, 1890\u20131967)", 
-  "DateAcquired": "1949-02-03", 
-  "\ufeffTitle": "Torso", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80829"
 }

@@ -4,22 +4,21 @@
   "Classification": "A&D Mies van der Rohe Archive", 
   "Artist": "Ludwig Mies van der Rohe", 
   "URL": "http://www.moma.org/collection/works/750", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Mies van der Rohe Archive, gift of the architect", 
-  "Date": "1947", 
-  "ArtistID": 7166, 
+  "DateAcquired": "1963-12-10", 
   "Keywords": [
-    "online art collection", 
     "Ludwig Mies van der Rohe", 
     "Theater", 
     "project", 
     "Combined elevation and section", 
     "1947"
   ], 
+  "ArtistID": 7166, 
+  "Title": "Theater project (Combined elevation and section)", 
   "Department": "Architecture & Design", 
   "MoMANumber": "717.1963", 
+  "Date": "1947", 
   "ArtistBio": "(American, born Germany. 1886\u20131969)", 
-  "DateAcquired": "1963-12-10", 
-  "\ufeffTitle": "Theater project (Combined elevation and section)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "750"
 }

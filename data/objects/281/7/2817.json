@@ -4,20 +4,19 @@
   "Classification": "A&D Design", 
   "Artist": "Emilio Cerri", 
   "URL": "http://www.moma.org/collection/works/2817", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Necchi Sewing Machine Sales Corp.", 
-  "Date": "1934", 
-  "ArtistID": 1051, 
+  "DateAcquired": "1950-06-08", 
   "Keywords": [
-    "online art collection", 
     "Emilio Cerri", 
     "BF Sewing Machine (model 562457)", 
     "1934"
   ], 
+  "ArtistID": 1051, 
+  "Title": "BF Sewing Machine (model 562457)", 
   "Department": "Architecture & Design", 
   "MoMANumber": "225.1950", 
+  "Date": "1934", 
   "ArtistBio": "(Italian, died 1947)", 
-  "DateAcquired": "1950-06-08", 
-  "\ufeffTitle": "BF Sewing Machine (model 562457)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "2817"
 }

@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Matthew Barney", 
   "URL": "http://www.moma.org/collection/works/81153", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Committee on Painting and Sculpture Funds", 
-  "Date": "2000", 
-  "ArtistID": 7005, 
+  "DateAcquired": "2000-04-10", 
   "Keywords": [
-    "online art collection", 
     "Matthew Barney", 
     "The Cabinet of Baby Fay La Foe", 
     "2000"
   ], 
+  "ArtistID": 7005, 
+  "Title": "The Cabinet of Baby Fay La Foe", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "212.2000.a-l", 
+  "Date": "2000", 
   "ArtistBio": "(American, born 1967)", 
-  "DateAcquired": "2000-04-10", 
-  "\ufeffTitle": "The Cabinet of Baby Fay La Foe", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81153"
 }

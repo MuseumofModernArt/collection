@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Andy Warhol", 
   "URL": "http://www.moma.org/collection/works/78739", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Lita Hornick", 
-  "Date": "1968", 
-  "ArtistID": 6246, 
+  "DateAcquired": "1991-04-08", 
   "Keywords": [
-    "online art collection", 
     "Andy Warhol", 
     "Lita Curtain Star [Lita Hornick]", 
     "1968"
   ], 
+  "ArtistID": 6246, 
+  "Title": "Lita Curtain Star [Lita Hornick]", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "87.1991.a-h", 
+  "Date": "1968", 
   "ArtistBio": "(American, 1928\u20131987)", 
-  "DateAcquired": "1991-04-08", 
-  "\ufeffTitle": "Lita Curtain Star [Lita Hornick]", 
+  "CuratorApproved": "Y", 
   "ObjectID": "78739"
 }

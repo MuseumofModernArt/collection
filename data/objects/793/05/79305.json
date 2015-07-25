@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Lyonel Feininger", 
   "URL": "http://www.moma.org/collection/works/79305", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Acquired through the Lillie P. Bliss Bequest", 
-  "Date": "1920", 
-  "ArtistID": 1832, 
+  "DateAcquired": "1944-11-08", 
   "Keywords": [
-    "online art collection", 
     "Lyonel Feininger", 
     "Viaduct", 
     "1920"
   ], 
+  "ArtistID": 1832, 
+  "Title": "Viaduct", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "259.1944", 
+  "Date": "1920", 
   "ArtistBio": "(American, 1871\u20131956)", 
-  "DateAcquired": "1944-11-08", 
-  "\ufeffTitle": "Viaduct", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79305"
 }

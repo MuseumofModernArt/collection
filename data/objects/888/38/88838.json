@@ -4,20 +4,19 @@
   "Classification": "Video", 
   "Artist": "Tony Oursler", 
   "URL": "http://www.moma.org/collection/works/88838", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1980", 
-  "ArtistID": 7489, 
+  "DateAcquired": "1981-11-16", 
   "Keywords": [
-    "online art collection", 
     "Tony Oursler", 
     "The Loner", 
     "1980"
   ], 
+  "ArtistID": 7489, 
+  "Title": "The Loner", 
   "Department": "Media and Performance Art", 
   "MoMANumber": "714.1981", 
+  "Date": "1980", 
   "ArtistBio": "(American, born 1957)", 
-  "DateAcquired": "1981-11-16", 
-  "\ufeffTitle": "The Loner", 
+  "CuratorApproved": "Y", 
   "ObjectID": "88838"
 }

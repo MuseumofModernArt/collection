@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Andy Warhol", 
   "URL": "http://www.moma.org/collection/works/91995", 
-  "CuratorApproved": "Y", 
   "CreditLine": "John B. Turner Fund", 
-  "Date": "1987", 
-  "ArtistID": 6246, 
+  "DateAcquired": "", 
   "Keywords": [
-    "online art collection", 
     "Andy Warhol", 
     "Untitled from Camouflage", 
     "1987"
   ], 
+  "ArtistID": 6246, 
+  "Title": "Untitled from Camouflage", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "181.2000.2", 
+  "Date": "1987", 
   "ArtistBio": "(American, 1928\u20131987)", 
-  "DateAcquired": "", 
-  "\ufeffTitle": "Untitled from Camouflage", 
+  "CuratorApproved": "Y", 
   "ObjectID": "91995"
 }

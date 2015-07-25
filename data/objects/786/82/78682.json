@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Piet Mondrian", 
   "URL": "http://www.moma.org/collection/works/78682", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Given anonymously", 
-  "Date": "1942-43", 
-  "ArtistID": 4057, 
+  "DateAcquired": "1943-05-12", 
   "Keywords": [
-    "online art collection", 
     "Piet Mondrian", 
     "Broadway Boogie Woogie", 
     "1942-43"
   ], 
+  "ArtistID": 4057, 
+  "Title": "Broadway Boogie Woogie", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "73.1943", 
+  "Date": "1942-43", 
   "ArtistBio": "(Dutch, 1872\u20131944)", 
-  "DateAcquired": "1943-05-12", 
-  "\ufeffTitle": "Broadway Boogie Woogie", 
+  "CuratorApproved": "Y", 
   "ObjectID": "78682"
 }

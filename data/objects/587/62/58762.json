@@ -4,21 +4,20 @@
   "Classification": "Photograph", 
   "Artist": "Times Wide World Photos", 
   "URL": "http://www.moma.org/collection/works/58762", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The New York Times Collection", 
-  "Date": "April 20, 1934", 
-  "ArtistID": 8632, 
+  "DateAcquired": "2001-06-14", 
   "Keywords": [
-    "online art collection", 
     "Times Wide World Photos", 
     "\"The Poor Children of Berlin Share in Hitler's Birthday Party\"", 
     "April 20", 
     "1934"
   ], 
+  "ArtistID": 8632, 
+  "Title": "\"The Poor Children of Berlin Share in Hitler's Birthday Party\"", 
   "Department": "Photography", 
   "MoMANumber": "2169.2001", 
+  "Date": "April 20, 1934", 
   "ArtistBio": "(American, active 1919\u20131941)", 
-  "DateAcquired": "2001-06-14", 
-  "\ufeffTitle": "\"The Poor Children of Berlin Share in Hitler's Birthday Party\"", 
+  "CuratorApproved": "Y", 
   "ObjectID": "58762"
 }

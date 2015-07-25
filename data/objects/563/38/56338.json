@@ -4,12 +4,9 @@
   "Classification": "Photograph", 
   "Artist": "Lee Friedlander", 
   "URL": "http://www.moma.org/collection/works/56338", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1975", 
-  "ArtistID": 2002, 
+  "DateAcquired": "2000-10-12", 
   "Keywords": [
-    "online art collection", 
     "Lee Friedlander", 
     "Faith", 
     "Hope and Charity", 
@@ -17,10 +14,12 @@
     "Vermont", 
     "1975"
   ], 
+  "ArtistID": 2002, 
+  "Title": "Faith, Hope and Charity. Bennington, Vermont", 
   "Department": "Photography", 
   "MoMANumber": "759.2000", 
+  "Date": "1975", 
   "ArtistBio": "(American, born 1934)", 
-  "DateAcquired": "2000-10-12", 
-  "\ufeffTitle": "Faith, Hope and Charity. Bennington, Vermont", 
+  "CuratorApproved": "Y", 
   "ObjectID": "56338"
 }

@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Vasily Kandinsky", 
   "URL": "http://www.moma.org/collection/works/80104", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift and bequest of Louise Reinhardt Smith", 
-  "Date": "1909", 
-  "ArtistID": 2981, 
+  "DateAcquired": "1959-04-22", 
   "Keywords": [
-    "online art collection", 
     "Vasily Kandinsky", 
     "Picture with an Archer", 
     "1909"
   ], 
+  "ArtistID": 2981, 
+  "Title": "Picture with an Archer", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "619.1959", 
+  "Date": "1909", 
   "ArtistBio": "(French, born Russia. 1866\u20131944)", 
-  "DateAcquired": "1959-04-22", 
-  "\ufeffTitle": "Picture with an Archer", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80104"
 }

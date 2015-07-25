@@ -4,20 +4,19 @@
   "Classification": "Photograph", 
   "Artist": "Jan Groover", 
   "URL": "http://www.moma.org/collection/works/57711", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Acquired through the generosity of Celeste Bartos", 
-  "Date": "1979", 
-  "ArtistID": 2358, 
+  "DateAcquired": "1979-12-13", 
   "Keywords": [
-    "online art collection", 
     "Jan Groover", 
     "Untitled", 
     "1979"
   ], 
+  "ArtistID": 2358, 
+  "Title": "Untitled", 
   "Department": "Photography", 
   "MoMANumber": "1140.1979", 
+  "Date": "1979", 
   "ArtistBio": "(American, 1943\u20132012)", 
-  "DateAcquired": "1979-12-13", 
-  "\ufeffTitle": "Untitled", 
+  "CuratorApproved": "Y", 
   "ObjectID": "57711"
 }

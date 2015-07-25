@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Max Pechstein", 
   "URL": "http://www.moma.org/collection/works/73019", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Given anonymously", 
-  "Date": "1912", 
-  "ArtistID": 4533, 
+  "DateAcquired": "1943-11-04", 
   "Keywords": [
-    "online art collection", 
     "Max Pechstein", 
     "Drunken Fisherman II (Betrunkener Fischer II)", 
     "1912"
   ], 
+  "ArtistID": 4533, 
+  "Title": "Drunken Fisherman II (Betrunkener Fischer II)", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "676.1943", 
+  "Date": "1912", 
   "ArtistBio": "(German, 1881\u20131955)", 
-  "DateAcquired": "1943-11-04", 
-  "\ufeffTitle": "Drunken Fisherman II (Betrunkener Fischer II)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "73019"
 }

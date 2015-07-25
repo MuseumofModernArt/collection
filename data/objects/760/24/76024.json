@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Edvard Munch", 
   "URL": "http://www.moma.org/collection/works/76024", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The William B. Jaffe and Evelyn A.J. Hall Collection", 
-  "Date": "1901\u201302", 
-  "ArtistID": 4164, 
+  "DateAcquired": "1968-10-10", 
   "Keywords": [
-    "online art collection", 
     "Edvard Munch", 
     "Melankoli III (Melancholy III)", 
     "1901-02"
   ], 
+  "ArtistID": 4164, 
+  "Title": "Melancholy III (Melankoli III)", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "1197.1968", 
+  "Date": "1901\u201302", 
   "ArtistBio": "(Norwegian, 1863\u20131944)", 
-  "DateAcquired": "1968-10-10", 
-  "\ufeffTitle": "Melancholy III (Melankoli III)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "76024"
 }

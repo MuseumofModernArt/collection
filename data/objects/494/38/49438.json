@@ -4,21 +4,20 @@
   "Classification": "Photograph", 
   "Artist": "Henri Cartier-Bresson", 
   "URL": "http://www.moma.org/collection/works/49438", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the photographer", 
-  "Date": "1932", 
-  "ArtistID": 1000, 
+  "DateAcquired": "1985-10-02", 
   "Keywords": [
-    "online art collection", 
     "Henri Cartier-Bresson", 
     "Alicante", 
     "Spain", 
     "1932"
   ], 
+  "ArtistID": 1000, 
+  "Title": "Alicante, Spain", 
   "Department": "Photography", 
   "MoMANumber": "243.1985", 
+  "Date": "1932", 
   "ArtistBio": "(French, 1908\u20132004)", 
-  "DateAcquired": "1985-10-02", 
-  "\ufeffTitle": "Alicante, Spain", 
+  "CuratorApproved": "Y", 
   "ObjectID": "49438"
 }

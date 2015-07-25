@@ -4,12 +4,9 @@
   "Classification": "A&D Architectural Drawing", 
   "Artist": "Bernard Tschumi", 
   "URL": "http://www.moma.org/collection/works/88", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Takeo Ohbayashi Purchase Fund", 
-  "Date": "1986", 
-  "ArtistID": 7056, 
+  "DateAcquired": "2000-01-19", 
   "Keywords": [
-    "online art collection", 
     "Bernard Tschumi", 
     "Parc de la Villette", 
     "Paris", 
@@ -17,10 +14,12 @@
     "Aerial perspective of follies", 
     "1986"
   ], 
+  "ArtistID": 7056, 
+  "Title": "Parc de la Villette, Paris, France , Aerial perspective of follies", 
   "Department": "Architecture & Design", 
   "MoMANumber": "23.2000", 
+  "Date": "1986", 
   "ArtistBio": "(French and Swiss, born Switzerland 1944)", 
-  "DateAcquired": "2000-01-19", 
-  "\ufeffTitle": "Parc de la Villette, Paris, France , Aerial perspective of follies", 
+  "CuratorApproved": "Y", 
   "ObjectID": "88"
 }

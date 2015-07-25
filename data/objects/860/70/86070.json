@@ -4,12 +4,9 @@
   "Classification": "Photograph", 
   "Artist": "Marion Post Wolcott", 
   "URL": "http://www.moma.org/collection/works/86070", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1941", 
-  "ArtistID": 6426, 
+  "DateAcquired": "2002-06-13", 
   "Keywords": [
-    "online art collection", 
     "Marion Post Wolcott", 
     "Service Station", 
     "Used Cars for Sale", 
@@ -17,10 +14,12 @@
     "Louisiana", 
     "1941"
   ], 
+  "ArtistID": 6426, 
+  "Title": "Service Station, Used Cars for Sale, Alexandria, Louisiana", 
   "Department": "Photography", 
   "MoMANumber": "217.2002", 
+  "Date": "1941", 
   "ArtistBio": "(American, 1910\u20131990)", 
-  "DateAcquired": "2002-06-13", 
-  "\ufeffTitle": "Service Station, Used Cars for Sale, Alexandria, Louisiana", 
+  "CuratorApproved": "Y", 
   "ObjectID": "86070"
 }

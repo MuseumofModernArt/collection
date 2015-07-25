@@ -4,12 +4,9 @@
   "Classification": "Photograph", 
   "Artist": "A. F. Sherman", 
   "URL": "http://www.moma.org/collection/works/46346", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Acquired through the courtesy of Marshall B. Davidson", 
-  "Date": "c. 1900", 
-  "ArtistID": 5391, 
+  "DateAcquired": "1964-01-07", 
   "Keywords": [
-    "online art collection", 
     "A", 
     "F", 
     "Sherman", 
@@ -17,10 +14,12 @@
     "c", 
     "1900"
   ], 
+  "ArtistID": 5391, 
+  "Title": "Ellis Island Immigrants", 
   "Department": "Photography", 
   "MoMANumber": "106.1964", 
+  "Date": "c. 1900", 
   "ArtistBio": "(American)", 
-  "DateAcquired": "1964-01-07", 
-  "\ufeffTitle": "Ellis Island Immigrants", 
+  "CuratorApproved": "Y", 
   "ObjectID": "46346"
 }

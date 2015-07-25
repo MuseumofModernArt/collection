@@ -4,12 +4,9 @@
   "Classification": "Photograph", 
   "Artist": "Maurice Loewy, Pierre Henri Puiseux", 
   "URL": "http://www.moma.org/collection/works/49872", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1899", 
-  "ArtistID": 3584, 
+  "DateAcquired": "1985-10-02", 
   "Keywords": [
-    "online art collection", 
     "Maurice Loewy and Pierre Henri Puiseux", 
     "The Moon (Boussingault", 
     "Vlacq", 
@@ -17,10 +14,12 @@
     " (1903)", 
     "1899"
   ], 
+  "ArtistID": 3584, 
+  "Title": "The Moon (Boussingault, Vlacq, Maurolycus) from Atlas Photographique de la lune.  (1903)", 
   "Department": "Photography", 
   "MoMANumber": "276.1985", 
+  "Date": "1899", 
   "ArtistBio": "(French, 1833\u20131907) (French, 1855\u20131928)", 
-  "DateAcquired": "1985-10-02", 
-  "\ufeffTitle": "The Moon (Boussingault, Vlacq, Maurolycus) from Atlas Photographique de la lune.  (1903)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "49872"
 }

@@ -4,12 +4,9 @@
   "Classification": "Print", 
   "Artist": "Pablo Picasso", 
   "URL": "http://www.moma.org/collection/works/64401", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Transferred from the Museum Library", 
-  "Date": "April 22, 1947, published 1950", 
-  "ArtistID": 4609, 
+  "DateAcquired": "1951-05-24", 
   "Keywords": [
-    "online art collection", 
     "Pablo Picasso", 
     "Flowers in Glass", 
     "No", 
@@ -17,10 +14,12 @@
     "April 22", 
     "1947,"
   ], 
+  "ArtistID": 4609, 
+  "Title": "Flowers in Glass, No. 6 (frontispiece) from Picasso Lithographe, Volume II", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "208.1951.2", 
+  "Date": "April 22, 1947, published 1950", 
   "ArtistBio": "(Spanish, 1881\u20131973)", 
-  "DateAcquired": "1951-05-24", 
-  "\ufeffTitle": "Flowers in Glass, No. 6 (frontispiece) from Picasso Lithographe, Volume II", 
+  "CuratorApproved": "Y", 
   "ObjectID": "64401"
 }

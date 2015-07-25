@@ -4,12 +4,9 @@
   "Classification": "A&D Architectural Drawing", 
   "Artist": "Mario Botta", 
   "URL": "http://www.moma.org/collection/works/271", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the architect", 
-  "Date": "1985", 
-  "ArtistID": 696, 
+  "DateAcquired": "1987-05-27", 
   "Keywords": [
-    "online art collection", 
     "Mario Botta", 
     "Row Housing", 
     "Pregassona", 
@@ -17,10 +14,12 @@
     "Elevation", 
     "1985"
   ], 
+  "ArtistID": 696, 
+  "Title": "Row Housing, Pregassona, Switzerland, Elevation", 
   "Department": "Architecture & Design", 
   "MoMANumber": "217.1987", 
+  "Date": "1985", 
   "ArtistBio": "(Swiss, born 1943)", 
-  "DateAcquired": "1987-05-27", 
-  "\ufeffTitle": "Row Housing, Pregassona, Switzerland, Elevation", 
+  "CuratorApproved": "Y", 
   "ObjectID": "271"
 }

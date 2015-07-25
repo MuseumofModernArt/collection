@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Auguste Rodin", 
   "URL": "http://www.moma.org/collection/works/81464", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of The Cantor, Fitzgerald Collection", 
-  "Date": "1891 (cast 1970)", 
-  "ArtistID": 4978, 
+  "DateAcquired": "1976-10-12", 
   "Keywords": [
-    "online art collection", 
     "Auguste Rodin", 
     "Mask of Balzac Smiling", 
     "1891 (cast 1970)"
   ], 
+  "ArtistID": 4978, 
+  "Title": "Mask of Balzac Smiling", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "431.1975", 
+  "Date": "1891 (cast 1970)", 
   "ArtistBio": "(French, 1840\u20131917)", 
-  "DateAcquired": "1976-10-12", 
-  "\ufeffTitle": "Mask of Balzac Smiling", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81464"
 }

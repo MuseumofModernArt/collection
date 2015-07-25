@@ -4,21 +4,20 @@
   "Classification": "Photograph", 
   "Artist": "Lee Friedlander", 
   "URL": "http://www.moma.org/collection/works/55990", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1967", 
-  "ArtistID": 2002, 
+  "DateAcquired": "2000-10-12", 
   "Keywords": [
-    "online art collection", 
     "Lee Friedlander", 
     "Albany", 
     "New York", 
     "1967"
   ], 
+  "ArtistID": 2002, 
+  "Title": "Albany, New York", 
   "Department": "Photography", 
   "MoMANumber": "676.2000", 
+  "Date": "1967", 
   "ArtistBio": "(American, born 1934)", 
-  "DateAcquired": "2000-10-12", 
-  "\ufeffTitle": "Albany, New York", 
+  "CuratorApproved": "Y", 
   "ObjectID": "55990"
 }

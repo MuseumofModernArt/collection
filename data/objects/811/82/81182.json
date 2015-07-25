@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "George Minne", 
   "URL": "http://www.moma.org/collection/works/81182", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Mr. and Mrs. Samuel Josefowitz", 
-  "Date": "1898", 
-  "ArtistID": 4007, 
+  "DateAcquired": "1962-10-09", 
   "Keywords": [
-    "online art collection", 
     "George Minne", 
     "Kneeling Youth", 
     "1898"
   ], 
+  "ArtistID": 4007, 
+  "Title": "Kneeling Youth", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "232.1962", 
+  "Date": "1898", 
   "ArtistBio": "(Belgian, 1867\u20131941)", 
-  "DateAcquired": "1962-10-09", 
-  "\ufeffTitle": "Kneeling Youth", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81182"
 }

@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Kazuo Yagi", 
   "URL": "http://www.moma.org/collection/works/81675", 
-  "CuratorApproved": "Y", 
   "CreditLine": "John G. Powers Fund", 
-  "Date": "1959", 
-  "ArtistID": 6478, 
+  "DateAcquired": "1965-06-08", 
   "Keywords": [
-    "online art collection", 
     "Kazuo Yagi", 
     "A Cloud Remembered", 
     "1959"
   ], 
+  "ArtistID": 6478, 
+  "Title": "A Cloud Remembered", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "613.1965", 
+  "Date": "1959", 
   "ArtistBio": "(Japanese, 1918\u20131979)", 
-  "DateAcquired": "1965-06-08", 
-  "\ufeffTitle": "A Cloud Remembered", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81675"
 }

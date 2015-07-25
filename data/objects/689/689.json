@@ -4,12 +4,9 @@
   "Classification": "A&D Architectural Drawing", 
   "Artist": "Emilio Ambasz", 
   "URL": "http://www.moma.org/collection/works/689", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the architect", 
-  "Date": "1979", 
-  "ArtistID": 141, 
+  "DateAcquired": "1990-10-24", 
   "Keywords": [
-    "online art collection", 
     "Emilio Ambasz", 
     "Casa de Retiro Espiritual", 
     "C&oacute;rdoba", 
@@ -17,10 +14,12 @@
     "Plan", 
     "1979"
   ], 
+  "ArtistID": 141, 
+  "Title": "Casa de Retiro Espiritual, C\u00f3rdoba, Spain, Plan", 
   "Department": "Architecture & Design", 
   "MoMANumber": "483.1990", 
+  "Date": "1979", 
   "ArtistBio": "(Argentine, born 1943)", 
-  "DateAcquired": "1990-10-24", 
-  "\ufeffTitle": "Casa de Retiro Espiritual, C\u00f3rdoba, Spain, Plan", 
+  "CuratorApproved": "Y", 
   "ObjectID": "689"
 }

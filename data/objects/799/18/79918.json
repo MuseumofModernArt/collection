@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Per Kirkeby", 
   "URL": "http://www.moma.org/collection/works/79918", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of The Harriet Ames Charitable Trust", 
-  "Date": "1989", 
-  "ArtistID": 3118, 
+  "DateAcquired": "1992-12-07", 
   "Keywords": [
-    "online art collection", 
     "Per Kirkeby", 
     "Wald-Variation III", 
     "1989"
   ], 
+  "ArtistID": 3118, 
+  "Title": "Wald-Variation III", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "526.1992", 
+  "Date": "1989", 
   "ArtistBio": "(Danish, born 1938)", 
-  "DateAcquired": "1992-12-07", 
-  "\ufeffTitle": "Wald-Variation III", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79918"
 }

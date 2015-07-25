@@ -4,20 +4,19 @@
   "Classification": "Photograph", 
   "Artist": "Reagan Louie", 
   "URL": "http://www.moma.org/collection/works/50737", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1987", 
-  "ArtistID": 3606, 
+  "DateAcquired": "1987-10-15", 
   "Keywords": [
-    "online art collection", 
     "Reagan Louie", 
     "Untitled", 
     "1987"
   ], 
+  "ArtistID": 3606, 
+  "Title": "Untitled", 
   "Department": "Photography", 
   "MoMANumber": "322.1987.x1-x2", 
+  "Date": "1987", 
   "ArtistBio": "(American, born 1951)", 
-  "DateAcquired": "1987-10-15", 
-  "\ufeffTitle": "Untitled", 
+  "CuratorApproved": "Y", 
   "ObjectID": "50737"
 }

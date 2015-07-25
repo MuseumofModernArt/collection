@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "John McCracken", 
   "URL": "http://www.moma.org/collection/works/80766", 
-  "CuratorApproved": "Y", 
   "CreditLine": "D. and J. de Menil Fund", 
-  "Date": "1967", 
-  "ArtistID": 3876, 
+  "DateAcquired": "1969-01-07", 
   "Keywords": [
-    "online art collection", 
     "John McCracken", 
     "The Absolutely Naked Fragrance", 
     "1967"
   ], 
+  "ArtistID": 3876, 
+  "Title": "The Absolutely Naked Fragrance", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "4.1969", 
+  "Date": "1967", 
   "ArtistBio": "(American, 1934\u20132011)", 
-  "DateAcquired": "1969-01-07", 
-  "\ufeffTitle": "The Absolutely Naked Fragrance", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80766"
 }

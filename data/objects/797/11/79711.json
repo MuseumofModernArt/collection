@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Joan Mitchell", 
   "URL": "http://www.moma.org/collection/works/79711", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of The Estate of Joan Mitchell", 
-  "Date": "1976", 
-  "ArtistID": 4026, 
+  "DateAcquired": "1994-10-11", 
   "Keywords": [
-    "online art collection", 
     "Joan Mitchell", 
     "No Rain", 
     "1976"
   ], 
+  "ArtistID": 4026, 
+  "Title": "No Rain", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "444.1994.a-b", 
+  "Date": "1976", 
   "ArtistBio": "(American, 1925\u20131992)", 
-  "DateAcquired": "1994-10-11", 
-  "\ufeffTitle": "No Rain", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79711"
 }

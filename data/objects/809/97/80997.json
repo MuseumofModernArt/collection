@@ -4,21 +4,20 @@
   "Classification": "Sculpture", 
   "Artist": "Meret Oppenheim", 
   "URL": "http://www.moma.org/collection/works/80997", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "Paris, 1936", 
-  "ArtistID": 4416, 
+  "DateAcquired": "1946-05-07", 
   "Keywords": [
-    "online art collection", 
     "Meret Oppenheim", 
     "Object", 
     "Paris", 
     "1936"
   ], 
+  "ArtistID": 4416, 
+  "Title": "Object", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "130.1946.a-c", 
+  "Date": "Paris, 1936", 
   "ArtistBio": "(Swiss, 1913\u20131985)", 
-  "DateAcquired": "1946-05-07", 
-  "\ufeffTitle": "Object", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80997"
 }

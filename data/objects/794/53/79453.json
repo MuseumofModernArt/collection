@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Martin Kippenberger", 
   "URL": "http://www.moma.org/collection/works/79453", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Emily and Jerry Spiegel", 
-  "Date": "1985", 
-  "ArtistID": 3111, 
+  "DateAcquired": "1997-06-02", 
   "Keywords": [
-    "online art collection", 
     "Martin Kippenberger", 
     "War is no Nice", 
     "1985"
   ], 
+  "ArtistID": 3111, 
+  "Title": "War is No Nice", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "299.1997", 
+  "Date": "1985", 
   "ArtistBio": "(German, 1953\u20131997)", 
-  "DateAcquired": "1997-06-02", 
-  "\ufeffTitle": "War is No Nice", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79453"
 }

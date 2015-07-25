@@ -4,21 +4,20 @@
   "Classification": "Photograph", 
   "Artist": "Lee Friedlander", 
   "URL": "http://www.moma.org/collection/works/57742", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1977", 
-  "ArtistID": 2002, 
+  "DateAcquired": "2000-10-12", 
   "Keywords": [
-    "online art collection", 
     "Lee Friedlander", 
     "Pomona", 
     "New York", 
     "1977"
   ], 
+  "ArtistID": 2002, 
+  "Title": "Pomona, New York", 
   "Department": "Photography", 
   "MoMANumber": "1156.2000", 
+  "Date": "1977", 
   "ArtistBio": "(American, born 1934)", 
-  "DateAcquired": "2000-10-12", 
-  "\ufeffTitle": "Pomona, New York", 
+  "CuratorApproved": "Y", 
   "ObjectID": "57742"
 }

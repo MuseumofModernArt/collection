@@ -4,20 +4,19 @@
   "Classification": "Multiple", 
   "Artist": "John Armleder", 
   "URL": "http://www.moma.org/collection/works/68665", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Dan Redmon", 
-  "Date": "1993", 
-  "ArtistID": 6621, 
+  "DateAcquired": "1999-11-18", 
   "Keywords": [
-    "online art collection", 
     "John Armleder", 
     "Philosophie und Jurisprudenz", 
     "1993"
   ], 
+  "ArtistID": 6621, 
+  "Title": "Philosophie und Jurisprudenz", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "412.1999", 
+  "Date": "1993", 
   "ArtistBio": "(Swiss, born 1948)", 
-  "DateAcquired": "1999-11-18", 
-  "\ufeffTitle": "Philosophie und Jurisprudenz", 
+  "CuratorApproved": "Y", 
   "ObjectID": "68665"
 }

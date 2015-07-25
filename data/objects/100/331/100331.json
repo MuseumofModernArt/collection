@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Susana Solano", 
   "URL": "http://www.moma.org/collection/works/100331", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Edward R. Broida", 
-  "Date": "March 1998", 
-  "ArtistID": 5511, 
+  "DateAcquired": "2005-10-06", 
   "Keywords": [
-    "online art collection", 
     "Susana Solano", 
     "Please Don't Touch the Flowers", 
     "March 1998"
   ], 
+  "ArtistID": 5511, 
+  "Title": "Please Don't Touch the Flowers", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "793.2005", 
+  "Date": "March 1998", 
   "ArtistBio": "(Spanish, born 1946)", 
-  "DateAcquired": "2005-10-06", 
-  "\ufeffTitle": "Please Don't Touch the Flowers", 
+  "CuratorApproved": "Y", 
   "ObjectID": "100331"
 }

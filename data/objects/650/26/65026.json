@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Jasper Johns", 
   "URL": "http://www.moma.org/collection/works/65026", 
-  "CuratorApproved": "Y", 
   "CreditLine": "John B. Turner Fund", 
-  "Date": "1972", 
-  "ArtistID": 2923, 
+  "DateAcquired": "1972-05-08", 
   "Keywords": [
-    "online art collection", 
     "Jasper Johns", 
     "Fool's House", 
     "1972"
   ], 
+  "ArtistID": 2923, 
+  "Title": "Fool's House", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "240.1972", 
+  "Date": "1972", 
   "ArtistBio": "(American, born 1930)", 
-  "DateAcquired": "1972-05-08", 
-  "\ufeffTitle": "Fool's House", 
+  "CuratorApproved": "Y", 
   "ObjectID": "65026"
 }

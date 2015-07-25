@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Helen Frankenthaler", 
   "URL": "http://www.moma.org/collection/works/74530", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the Celeste and Armand Bartos Foundation", 
-  "Date": "1969", 
-  "ArtistID": 1974, 
+  "DateAcquired": "1969-10-28", 
   "Keywords": [
-    "online art collection", 
     "Helen Frankenthaler", 
     "A Slice of the Stone Itself", 
     "1969"
   ], 
+  "ArtistID": 1974, 
+  "Title": "A Slice of the Stone Itself", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "870.1969", 
+  "Date": "1969", 
   "ArtistBio": "(American, 1928\u20132011)", 
-  "DateAcquired": "1969-10-28", 
-  "\ufeffTitle": "A Slice of the Stone Itself", 
+  "CuratorApproved": "Y", 
   "ObjectID": "74530"
 }

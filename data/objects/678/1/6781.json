@@ -4,12 +4,9 @@
   "Classification": "A&D Graphic Design", 
   "Artist": "E. McKnight Kauffer", 
   "URL": "http://www.moma.org/collection/works/6781", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the designer", 
-  "Date": "1924", 
-  "ArtistID": 3020, 
+  "DateAcquired": "1939-05-22", 
   "Keywords": [
-    "online art collection", 
     "E", 
     "McKnight Kauffer", 
     "\"first thing every morning\"", 
@@ -17,10 +14,12 @@
     "The World-Famed Effervescent Saline", 
     "1924"
   ], 
+  "ArtistID": 3020, 
+  "Title": "\"first thing every morning\", Eno's \"Fruit Salt\", The World-Famed Effervescent Saline", 
   "Department": "Architecture & Design", 
   "MoMANumber": "382.1939", 
+  "Date": "1924", 
   "ArtistBio": "(American, 1890\u20131954)", 
-  "DateAcquired": "1939-05-22", 
-  "\ufeffTitle": "\"first thing every morning\", Eno's \"Fruit Salt\", The World-Famed Effervescent Saline", 
+  "CuratorApproved": "Y", 
   "ObjectID": "6781"
 }

@@ -4,12 +4,9 @@
   "Classification": "Print", 
   "Artist": "Paul Klee", 
   "URL": "http://www.moma.org/collection/works/63760", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Mrs. Bertha M. Slattery", 
-  "Date": "1919", 
-  "ArtistID": 3130, 
+  "DateAcquired": "1951-05-24", 
   "Keywords": [
-    "online art collection", 
     "Paul Klee", 
     "Forest (Wald) from the deluxe periodical M&uuml;nchner Bl&auml;tter f&uuml;r Dichtung und Graphikvol", 
     "1", 
@@ -17,10 +14,12 @@
     "9", 
     "1919"
   ], 
+  "ArtistID": 3130, 
+  "Title": "Forest (Wald) from the deluxe periodical M\u00fcnchner Bl\u00e4tter f\u00fcr Dichtung und Graphikvol. 1, no. 9", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "178.1951", 
+  "Date": "1919", 
   "ArtistBio": "(German, born Switzerland. 1879\u20131940)", 
-  "DateAcquired": "1951-05-24", 
-  "\ufeffTitle": "Forest (Wald) from the deluxe periodical M\u00fcnchner Bl\u00e4tter f\u00fcr Dichtung und Graphikvol. 1, no. 9", 
+  "CuratorApproved": "Y", 
   "ObjectID": "63760"
 }

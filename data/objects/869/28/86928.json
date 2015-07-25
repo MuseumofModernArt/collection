@@ -4,20 +4,19 @@
   "Classification": "Drawing", 
   "Artist": "Agnes Denes", 
   "URL": "http://www.moma.org/collection/works/86928", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1973", 
-  "ArtistID": 1491, 
+  "DateAcquired": "2002-12-10", 
   "Keywords": [
-    "online art collection", 
     "Agnes Denes", 
     "Pascal's Triangle", 
     "1973"
   ], 
+  "ArtistID": 1491, 
+  "Title": "Pascal's Triangle", 
   "Department": "Drawings", 
   "MoMANumber": "394.2002", 
+  "Date": "1973", 
   "ArtistBio": "(American, born 1931)", 
-  "DateAcquired": "2002-12-10", 
-  "\ufeffTitle": "Pascal's Triangle", 
+  "CuratorApproved": "Y", 
   "ObjectID": "86928"
 }

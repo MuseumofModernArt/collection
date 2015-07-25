@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Bruce Conner", 
   "URL": "http://www.moma.org/collection/works/80959", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Larry Aldrich Foundation Fund", 
-  "Date": "1960", 
-  "ArtistID": 1215, 
+  "DateAcquired": "1961-04-11", 
   "Keywords": [
-    "online art collection", 
     "Bruce Conner", 
     "The Box", 
     "1960"
   ], 
+  "ArtistID": 1215, 
+  "Title": "The Box", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "112.1961", 
+  "Date": "1960", 
   "ArtistBio": "(American, 1933\u20132008)", 
-  "DateAcquired": "1961-04-11", 
-  "\ufeffTitle": "The Box", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80959"
 }

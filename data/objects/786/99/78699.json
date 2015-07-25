@@ -4,21 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Jackson Pollock", 
   "URL": "http://www.moma.org/collection/works/78699", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1948", 
-  "ArtistID": 4675, 
+  "DateAcquired": "1950-01-27", 
   "Keywords": [
-    "online art collection", 
     "Jackson Pollock", 
     "Number 1A", 
-    "1948", 
     "1948"
   ], 
+  "ArtistID": 4675, 
+  "Title": "Number 1A, 1948", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "77.1950", 
+  "Date": "1948", 
   "ArtistBio": "(American, 1912\u20131956)", 
-  "DateAcquired": "1950-01-27", 
-  "\ufeffTitle": "Number 1A, 1948", 
+  "CuratorApproved": "Y", 
   "ObjectID": "78699"
 }

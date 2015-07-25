@@ -4,22 +4,21 @@
   "Classification": "Installation", 
   "Artist": "Robert Overby", 
   "URL": "http://www.moma.org/collection/works/81978", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Anonymous fund, Doris and Donald Fisher, Mimi and Peter Haas, and Emily Fisher Landau Funds", 
-  "Date": "August 4, 1971", 
-  "ArtistID": 8333, 
+  "DateAcquired": "2001-02-12", 
   "Keywords": [
-    "online art collection", 
     "Robert Overby", 
     "North Hall Wall", 
     "Second Floor", 
     "August 4", 
     "1971"
   ], 
+  "ArtistID": 8333, 
+  "Title": "North Hall Wall, Second Floor", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "1148.2001", 
+  "Date": "August 4, 1971", 
   "ArtistBio": "(American, 1935\u20131993)", 
-  "DateAcquired": "2001-02-12", 
-  "\ufeffTitle": "North Hall Wall, Second Floor", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81978"
 }

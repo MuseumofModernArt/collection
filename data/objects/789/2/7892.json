@@ -4,21 +4,20 @@
   "Classification": "A&D Graphic Design", 
   "Artist": "Carol", 
   "URL": "http://www.moma.org/collection/works/7892", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the International Council and Library - Latin American Archive of the Museum of Modern Art", 
-  "Date": "1978", 
-  "ArtistID": 983, 
+  "DateAcquired": "1980-10-30", 
   "Keywords": [
-    "online art collection", 
     "Carol", 
     "Che", 
     "Grupo Teatro Escambray", 
     "1978"
   ], 
+  "ArtistID": 983, 
+  "Title": "Che, Grupo Teatro Escambray", 
   "Department": "Architecture & Design", 
   "MoMANumber": "672.1980", 
+  "Date": "1978", 
   "ArtistBio": "(Cuban)", 
-  "DateAcquired": "1980-10-30", 
-  "\ufeffTitle": "Che, Grupo Teatro Escambray", 
+  "CuratorApproved": "Y", 
   "ObjectID": "7892"
 }

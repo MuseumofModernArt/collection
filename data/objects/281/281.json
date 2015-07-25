@@ -4,12 +4,9 @@
   "Classification": "A&D Architectural Drawing", 
   "Artist": "Mario Botta", 
   "URL": "http://www.moma.org/collection/works/281", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the architect", 
-  "Date": "1984", 
-  "ArtistID": 696, 
+  "DateAcquired": "1987-05-27", 
   "Keywords": [
-    "online art collection", 
     "Mario Botta", 
     "Library", 
     "Villeurbanne", 
@@ -17,10 +14,12 @@
     "Interior rear elevation", 
     "1984"
   ], 
+  "ArtistID": 696, 
+  "Title": "Library, Villeurbanne, France, Interior rear elevation", 
   "Department": "Architecture & Design", 
   "MoMANumber": "227.1987", 
+  "Date": "1984", 
   "ArtistBio": "(Swiss, born 1943)", 
-  "DateAcquired": "1987-05-27", 
-  "\ufeffTitle": "Library, Villeurbanne, France, Interior rear elevation", 
+  "CuratorApproved": "Y", 
   "ObjectID": "281"
 }

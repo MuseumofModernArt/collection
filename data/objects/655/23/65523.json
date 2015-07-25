@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Bill Jensen", 
   "URL": "http://www.moma.org/collection/works/65523", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Emily Fisher Landau", 
-  "Date": "1989", 
-  "ArtistID": 2907, 
+  "DateAcquired": "1989-10-12", 
   "Keywords": [
-    "online art collection", 
     "Bill Jensen", 
     "Guy and the Loon", 
     "1989"
   ], 
+  "ArtistID": 2907, 
+  "Title": "Guy and the Loon", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "263.1989", 
+  "Date": "1989", 
   "ArtistBio": "(American, born 1945)", 
-  "DateAcquired": "1989-10-12", 
-  "\ufeffTitle": "Guy and the Loon", 
+  "CuratorApproved": "Y", 
   "ObjectID": "65523"
 }

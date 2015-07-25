@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Henri Laurens", 
   "URL": "http://www.moma.org/collection/works/81189", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Mrs. Marie L. Feldhaeusser", 
-  "Date": "1920", 
-  "ArtistID": 3409, 
+  "DateAcquired": "1950-10-11", 
   "Keywords": [
-    "online art collection", 
     "Henri Laurens", 
     "Head of a Boxer", 
     "1920"
   ], 
+  "ArtistID": 3409, 
+  "Title": "Head of a Boxer", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "240.1950", 
+  "Date": "1920", 
   "ArtistBio": "(French, 1885\u20131954)", 
-  "DateAcquired": "1950-10-11", 
-  "\ufeffTitle": "Head of a Boxer", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81189"
 }

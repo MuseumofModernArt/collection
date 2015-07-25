@@ -4,20 +4,19 @@
   "Classification": "Drawing", 
   "Artist": "Andy Warhol", 
   "URL": "http://www.moma.org/collection/works/84128", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Partial and promised gift of UBS", 
-  "Date": "1973", 
-  "ArtistID": 6246, 
+  "DateAcquired": "2002-04-09", 
   "Keywords": [
-    "online art collection", 
     "Andy Warhol", 
     "Mao", 
     "1973"
   ], 
+  "ArtistID": 6246, 
+  "Title": "Mao", 
   "Department": "Drawings", 
   "MoMANumber": "128.2002", 
+  "Date": "1973", 
   "ArtistBio": "(American, 1928\u20131987)", 
-  "DateAcquired": "2002-04-09", 
-  "\ufeffTitle": "Mao", 
+  "CuratorApproved": "Y", 
   "ObjectID": "84128"
 }

@@ -4,20 +4,19 @@
   "Classification": "Drawing", 
   "Artist": "Henri Matisse", 
   "URL": "http://www.moma.org/collection/works/34713", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of John Rewald in memory of Frances Weitzenhoffer", 
-  "Date": "1942", 
-  "ArtistID": 3832, 
+  "DateAcquired": "1991-05-23", 
   "Keywords": [
-    "online art collection", 
     "Henri Matisse", 
     "Branch of a Judas Tree", 
     "1942"
   ], 
+  "ArtistID": 3832, 
+  "Title": "Branch of a Judas Tree", 
   "Department": "Drawings", 
   "MoMANumber": "143.1991", 
+  "Date": "1942", 
   "ArtistBio": "(French, 1869\u20131954)", 
-  "DateAcquired": "1991-05-23", 
-  "\ufeffTitle": "Branch of a Judas Tree", 
+  "CuratorApproved": "Y", 
   "ObjectID": "34713"
 }

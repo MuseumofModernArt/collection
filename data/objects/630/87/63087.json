@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Andr\u00e9 Masson", 
   "URL": "http://www.moma.org/collection/works/63087", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Curt Valentin", 
-  "Date": "1942", 
-  "ArtistID": 3821, 
+  "DateAcquired": "1942-03-18", 
   "Keywords": [
-    "online art collection", 
     "Andr&eacute; Masson", 
     "The Sand Crab (Le crabe de terre)", 
     "1942"
   ], 
+  "ArtistID": 3821, 
+  "Title": "The Sand Crab (Le crabe de terre)", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "157.1942", 
+  "Date": "1942", 
   "ArtistBio": "(French, 1896\u20131987)", 
-  "DateAcquired": "1942-03-18", 
-  "\ufeffTitle": "The Sand Crab (Le crabe de terre)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "63087"
 }

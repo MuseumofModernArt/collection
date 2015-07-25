@@ -4,22 +4,21 @@
   "Classification": "Sculpture", 
   "Artist": "Marcel Duchamp", 
   "URL": "http://www.moma.org/collection/works/78993", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Katherine S. Dreier Bequest", 
-  "Date": "Buenos Aires 1918", 
-  "ArtistID": 1634, 
+  "DateAcquired": "1953-04-07", 
   "Keywords": [
-    "online art collection", 
     "Marcel Duchamp", 
     "To Be Looked at (from the Other Side of the Glass) with One Eye", 
     "Close to", 
     "for Almost an Hour", 
     "Buenos Aires 1918"
   ], 
+  "ArtistID": 1634, 
+  "Title": "To Be Looked at (from the Other Side of the Glass) with One Eye, Close to, for Almost an Hour", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "150.1953", 
+  "Date": "Buenos Aires 1918", 
   "ArtistBio": "(American, born France. 1887\u20131968)", 
-  "DateAcquired": "1953-04-07", 
-  "\ufeffTitle": "To Be Looked at (from the Other Side of the Glass) with One Eye, Close to, for Almost an Hour", 
+  "CuratorApproved": "Y", 
   "ObjectID": "78993"
 }

@@ -4,20 +4,19 @@
   "Classification": "Drawing", 
   "Artist": "Peter Blake", 
   "URL": "http://www.moma.org/collection/works/33177", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The Joan and Lester Avnet Collection", 
-  "Date": "1969", 
-  "ArtistID": 592, 
+  "DateAcquired": "1978-04-04", 
   "Keywords": [
-    "online art collection", 
     "Peter Blake", 
     "Little Sonny Summer", 
     "1969"
   ], 
+  "ArtistID": 592, 
+  "Title": "Little Sonny Summer", 
   "Department": "Drawings", 
   "MoMANumber": "14.1978", 
+  "Date": "1969", 
   "ArtistBio": "(British, born 1932)", 
-  "DateAcquired": "1978-04-04", 
-  "\ufeffTitle": "Little Sonny Summer", 
+  "CuratorApproved": "Y", 
   "ObjectID": "33177"
 }

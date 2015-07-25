@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Theodore Roszak", 
   "URL": "http://www.moma.org/collection/works/81946", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The Riklis Collection of McCrory Corporation", 
-  "Date": "1939", 
-  "ArtistID": 5039, 
+  "DateAcquired": "1985-10-25", 
   "Keywords": [
-    "online art collection", 
     "Theodore Roszak", 
     "Pierced Circle", 
     "1939"
   ], 
+  "ArtistID": 5039, 
+  "Title": "Pierced Circle", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "1063.1983", 
+  "Date": "1939", 
   "ArtistBio": "(American, born Poland. 1907\u20131981)", 
-  "DateAcquired": "1985-10-25", 
-  "\ufeffTitle": "Pierced Circle", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81946"
 }

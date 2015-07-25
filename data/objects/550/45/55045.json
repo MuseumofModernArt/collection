@@ -4,21 +4,20 @@
   "Classification": "Photograph", 
   "Artist": "Harry Callahan", 
   "URL": "http://www.moma.org/collection/works/55045", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Stephen R. Currier Memorial Fund", 
-  "Date": "1958", 
-  "ArtistID": 924, 
+  "DateAcquired": "1971-11-10", 
   "Keywords": [
-    "online art collection", 
     "Harry Callahan", 
     "Eleanor", 
     "Aix-en-Provence", 
     "1958"
   ], 
+  "ArtistID": 924, 
+  "Title": "Eleanor, Aix-en-Provence", 
   "Department": "Photography", 
   "MoMANumber": "552.1971", 
+  "Date": "1958", 
   "ArtistBio": "(American, 1912\u20131999)", 
-  "DateAcquired": "1971-11-10", 
-  "\ufeffTitle": "Eleanor, Aix-en-Provence", 
+  "CuratorApproved": "Y", 
   "ObjectID": "55045"
 }

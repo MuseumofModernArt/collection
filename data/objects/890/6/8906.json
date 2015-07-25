@@ -4,12 +4,9 @@
   "Classification": "A&D Graphic Design", 
   "Artist": "Charles Dana Gibson", 
   "URL": "http://www.moma.org/collection/works/8906", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Abby Aldrich Rockefeller", 
-  "Date": "1917", 
-  "ArtistID": 2145, 
+  "DateAcquired": "1940-04-05", 
   "Keywords": [
-    "online art collection", 
     "Charles Dana Gibson", 
     "U,S", 
     "Navy", 
@@ -18,10 +15,12 @@
     "Navy Recruiting Station", 
     "1917"
   ], 
+  "ArtistID": 2145, 
+  "Title": "U.S. Navy, \"Here he is, Sir.\" We Need Him and You Too!, Navy Recruiting Station", 
   "Department": "Architecture & Design", 
   "MoMANumber": "1589.1940", 
+  "Date": "1917", 
   "ArtistBio": "(American, 1867\u20131944)", 
-  "DateAcquired": "1940-04-05", 
-  "\ufeffTitle": "U.S. Navy, \"Here he is, Sir.\" We Need Him and You Too!, Navy Recruiting Station", 
+  "CuratorApproved": "Y", 
   "ObjectID": "8906"
 }

@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Lynda Benglis", 
   "URL": "http://www.moma.org/collection/works/81400", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchased with the aid of funds from the National Endowment for the Arts and an anonymous donor", 
-  "Date": "1974", 
-  "ArtistID": 471, 
+  "DateAcquired": "1975-12-09", 
   "Keywords": [
-    "online art collection", 
     "Lynda Benglis", 
     "Victor", 
     "1974"
   ], 
+  "ArtistID": 471, 
+  "Title": "Victor", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "372.1975", 
+  "Date": "1974", 
   "ArtistBio": "(American, born 1941)", 
-  "DateAcquired": "1975-12-09", 
-  "\ufeffTitle": "Victor", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81400"
 }

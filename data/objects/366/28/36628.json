@@ -4,21 +4,20 @@
   "Classification": "Drawing", 
   "Artist": "Yayoi Kusama", 
   "URL": "http://www.moma.org/collection/works/36628", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Sarah-Ann and Werner H. Kramarsky", 
-  "Date": "1956", 
-  "ArtistID": 3315, 
+  "DateAcquired": "1999-10-21", 
   "Keywords": [
-    "online art collection", 
     "Yayoi Kusama", 
     "No", 
     "19 H,S,W", 
     "1956"
   ], 
+  "ArtistID": 3315, 
+  "Title": "No. 19 H.S.W.", 
   "Department": "Drawings", 
   "MoMANumber": "388.1999", 
+  "Date": "1956", 
   "ArtistBio": "(Japanese, born 1929)", 
-  "DateAcquired": "1999-10-21", 
-  "\ufeffTitle": "No. 19 H.S.W.", 
+  "CuratorApproved": "Y", 
   "ObjectID": "36628"
 }

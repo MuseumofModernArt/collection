@@ -4,22 +4,21 @@
   "Classification": "Photograph", 
   "Artist": "Neal Boenzi/The New York Times", 
   "URL": "http://www.moma.org/collection/works/58549", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The New York Times Collection", 
-  "Date": "March 30, 1956", 
-  "ArtistID": 8512, 
+  "DateAcquired": "2001-06-14", 
   "Keywords": [
-    "online art collection", 
     "Neal Boenzi/The New York Times", 
     "U,S", 
     "Removes Worker Files", 
     "March 30", 
     "1956"
   ], 
+  "ArtistID": 8512, 
+  "Title": "U.S. Removes Worker Files", 
   "Department": "Photography", 
   "MoMANumber": "1956.2001", 
+  "Date": "March 30, 1956", 
   "ArtistBio": "(American, born 1925)", 
-  "DateAcquired": "2001-06-14", 
-  "\ufeffTitle": "U.S. Removes Worker Files", 
+  "CuratorApproved": "Y", 
   "ObjectID": "58549"
 }

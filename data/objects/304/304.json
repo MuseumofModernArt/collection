@@ -4,12 +4,9 @@
   "Classification": "A&D Architectural Drawing", 
   "Artist": "Massimo Scolari", 
   "URL": "http://www.moma.org/collection/works/304", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Robert K. and Barbara J. Straus Family Foundation", 
-  "Date": "1975", 
-  "ArtistID": 8125, 
+  "DateAcquired": "1999-06-30", 
   "Keywords": [
-    "online art collection", 
     "Massimo Scolari", 
     "American Gas Station Project", 
     "Ithaca", 
@@ -17,10 +14,12 @@
     "Perspective", 
     "1975"
   ], 
+  "ArtistID": 8125, 
+  "Title": "American Gas Station Project, Ithaca, New York, Perspective", 
   "Department": "Architecture & Design", 
   "MoMANumber": "277.1999", 
+  "Date": "1975", 
   "ArtistBio": "(Italian, born 1943)", 
-  "DateAcquired": "1999-06-30", 
-  "\ufeffTitle": "American Gas Station Project, Ithaca, New York, Perspective", 
+  "CuratorApproved": "Y", 
   "ObjectID": "304"
 }

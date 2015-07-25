@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Louise Nevelson", 
   "URL": "http://www.moma.org/collection/works/80822", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Blanchette Hooker Rockefeller Fund", 
-  "Date": "1959", 
-  "ArtistID": 4278, 
+  "DateAcquired": "1960-02-10", 
   "Keywords": [
-    "online art collection", 
     "Louise Nevelson", 
     "Hanging Column (from Dawn's Wedding Feast)", 
     "1959"
   ], 
+  "ArtistID": 4278, 
+  "Title": "Hanging Column (from Dawn's Wedding Feast)", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "15.1960", 
+  "Date": "1959", 
   "ArtistBio": "(American, born Ukraine. 1899\u20131988)", 
-  "DateAcquired": "1960-02-10", 
-  "\ufeffTitle": "Hanging Column (from Dawn's Wedding Feast)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80822"
 }

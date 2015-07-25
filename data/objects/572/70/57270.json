@@ -4,20 +4,19 @@
   "Classification": "Photograph", 
   "Artist": "Aaron Siskind", 
   "URL": "http://www.moma.org/collection/works/57270", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1961", 
-  "ArtistID": 5456, 
+  "DateAcquired": "1965-11-09", 
   "Keywords": [
-    "online art collection", 
     "Aaron Siskind", 
     "Chicago 6", 
     "1961"
   ], 
+  "ArtistID": 5456, 
+  "Title": "Chicago 6", 
   "Department": "Photography", 
   "MoMANumber": "890.1965", 
+  "Date": "1961", 
   "ArtistBio": "(American, 1903\u20131991)", 
-  "DateAcquired": "1965-11-09", 
-  "\ufeffTitle": "Chicago 6", 
+  "CuratorApproved": "Y", 
   "ObjectID": "57270"
 }

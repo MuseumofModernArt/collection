@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Piero Manzoni", 
   "URL": "http://www.moma.org/collection/works/78364", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Committee on Painting and Sculpture Funds", 
-  "Date": "1960", 
-  "ArtistID": 3741, 
+  "DateAcquired": "1999-02-08", 
   "Keywords": [
-    "online art collection", 
     "Piero Manzoni", 
     "Achrome", 
     "1960"
   ], 
+  "ArtistID": 3741, 
+  "Title": "Achrome", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "5.1999", 
+  "Date": "1960", 
   "ArtistBio": "(Italian, 1933\u20131963)", 
-  "DateAcquired": "1999-02-08", 
-  "\ufeffTitle": "Achrome", 
+  "CuratorApproved": "Y", 
   "ObjectID": "78364"
 }

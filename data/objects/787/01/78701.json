@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Yves Tanguy", 
   "URL": "http://www.moma.org/collection/works/78701", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1927", 
-  "ArtistID": 5804, 
+  "DateAcquired": "1936-10-22", 
   "Keywords": [
-    "online art collection", 
     "Yves Tanguy", 
     "Mama", 
     "Papa Is Wounded! 1927"
   ], 
+  "ArtistID": 5804, 
+  "Title": "Mama, Papa Is Wounded!", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "78.1936", 
+  "Date": "1927", 
   "ArtistBio": "(American, born France. 1900\u20131955)", 
-  "DateAcquired": "1936-10-22", 
-  "\ufeffTitle": "Mama, Papa Is Wounded!", 
+  "CuratorApproved": "Y", 
   "ObjectID": "78701"
 }

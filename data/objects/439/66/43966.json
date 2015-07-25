@@ -4,12 +4,9 @@
   "Classification": "Photograph", 
   "Artist": "Berenice Abbott", 
   "URL": "http://www.moma.org/collection/works/43966", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "November 11, 1937", 
-  "ArtistID": 41, 
+  "DateAcquired": "1971-01-05", 
   "Keywords": [
-    "online art collection", 
     "Berenice Abbott", 
     "Wheelock House", 
     "661 West 158th Street", 
@@ -17,10 +14,12 @@
     "November 11", 
     "1937"
   ], 
+  "ArtistID": 41, 
+  "Title": "Wheelock House, 661 West 158th Street, Manhattan", 
   "Department": "Photography", 
   "MoMANumber": "12.1971", 
+  "Date": "November 11, 1937", 
   "ArtistBio": "(American, 1898\u20131991)", 
-  "DateAcquired": "1971-01-05", 
-  "\ufeffTitle": "Wheelock House, 661 West 158th Street, Manhattan", 
+  "CuratorApproved": "Y", 
   "ObjectID": "43966"
 }

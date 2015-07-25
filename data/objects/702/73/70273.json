@@ -4,21 +4,20 @@
   "Classification": "Print", 
   "Artist": "Friedrich Feigl", 
   "URL": "http://www.moma.org/collection/works/70273", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Given anonymously", 
-  "Date": "(c. 1912)", 
-  "ArtistID": 1827, 
+  "DateAcquired": "1942-11-19", 
   "Keywords": [
-    "online art collection", 
     "Friedrich Feigl", 
     "In the Cafe (Im Caf&eacute;)", 
     "(c", 
     "1912)"
   ], 
+  "ArtistID": 1827, 
+  "Title": "In the Cafe (Im Caf\u00e9)", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "509.1942", 
+  "Date": "(c. 1912)", 
   "ArtistBio": "(Czech,1884\u20131965)", 
-  "DateAcquired": "1942-11-19", 
-  "\ufeffTitle": "In the Cafe (Im Caf\u00e9)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "70273"
 }

@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Mokuma Kikuhata", 
   "URL": "http://www.moma.org/collection/works/81661", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Daphne Hellman Shih Fund", 
-  "Date": "1964", 
-  "ArtistID": 3093, 
+  "DateAcquired": "1965-06-08", 
   "Keywords": [
-    "online art collection", 
     "Mokuma Kikuhata", 
     "Roulette: Number Five", 
     "1964"
   ], 
+  "ArtistID": 3093, 
+  "Title": "Roulette: Number Five", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "606.1965", 
+  "Date": "1964", 
   "ArtistBio": "(Japanese, born 1935)", 
-  "DateAcquired": "1965-06-08", 
-  "\ufeffTitle": "Roulette: Number Five", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81661"
 }

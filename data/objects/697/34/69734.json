@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Pierre Alechinsky", 
   "URL": "http://www.moma.org/collection/works/69734", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of John Lefebre", 
-  "Date": "1963", 
-  "ArtistID": 107, 
+  "DateAcquired": "1963-10-08", 
   "Keywords": [
-    "online art collection", 
     "Pierre Alechinsky", 
     "Mangeur d'&eacute;pluchures", 
     "1963"
   ], 
+  "ArtistID": 107, 
+  "Title": "Mangeur d'\u00e9pluchures", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "474.1963", 
+  "Date": "1963", 
   "ArtistBio": "(Belgian, born 1927)", 
-  "DateAcquired": "1963-10-08", 
-  "\ufeffTitle": "Mangeur d'\u00e9pluchures", 
+  "CuratorApproved": "Y", 
   "ObjectID": "69734"
 }

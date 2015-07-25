@@ -4,12 +4,9 @@
   "Classification": "Sculpture", 
   "Artist": "Bruce Nauman", 
   "URL": "http://www.moma.org/collection/works/80958", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Werner and Elaine Dannheisser", 
-  "Date": "1984", 
-  "ArtistID": 4243, 
+  "DateAcquired": "1990-03-12", 
   "Keywords": [
-    "online art collection", 
     "Bruce Nauman", 
     "White Anger", 
     "Red Danger", 
@@ -17,10 +14,12 @@
     "Black Death", 
     "1984"
   ], 
+  "ArtistID": 4243, 
+  "Title": "White Anger, Red Danger, Yellow Peril, Black Death", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "111.1990.a-f", 
+  "Date": "1984", 
   "ArtistBio": "(American, born 1941)", 
-  "DateAcquired": "1990-03-12", 
-  "\ufeffTitle": "White Anger, Red Danger, Yellow Peril, Black Death", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80958"
 }

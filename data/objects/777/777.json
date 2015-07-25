@@ -4,21 +4,20 @@
   "Classification": "A&D Mies van der Rohe Archive", 
   "Artist": "Ludwig Mies van der Rohe", 
   "URL": "http://www.moma.org/collection/works/777", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Mies van der Rohe Archive, gift of the architect", 
-  "Date": "1941-43", 
-  "ArtistID": 7166, 
+  "DateAcquired": "1966-01-11", 
   "Keywords": [
-    "online art collection", 
     "Ludwig Mies van der Rohe", 
     "Museum for a Small City Project", 
     "Interior perspective", 
     "1941-43"
   ], 
+  "ArtistID": 7166, 
+  "Title": "Museum for a Small City Project, Interior perspective", 
   "Department": "Architecture & Design", 
   "MoMANumber": "995.1965", 
+  "Date": "1941-43", 
   "ArtistBio": "(American, born Germany. 1886\u20131969)", 
-  "DateAcquired": "1966-01-11", 
-  "\ufeffTitle": "Museum for a Small City Project, Interior perspective", 
+  "CuratorApproved": "Y", 
   "ObjectID": "777"
 }

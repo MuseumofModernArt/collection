@@ -4,20 +4,19 @@
   "Classification": "Photograph", 
   "Artist": "Unknown photographer", 
   "URL": "http://www.moma.org/collection/works/47913", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1859", 
-  "ArtistID": 6028, 
+  "DateAcquired": "1989-06-08", 
   "Keywords": [
-    "online art collection", 
     "Unknown Photographer", 
     "Untitled", 
     "1859"
   ], 
+  "ArtistID": 6028, 
+  "Title": "Untitled", 
   "Department": "Photography", 
   "MoMANumber": "182.1989", 
+  "Date": "1859", 
   "ArtistBio": "", 
-  "DateAcquired": "1989-06-08", 
-  "\ufeffTitle": "Untitled", 
+  "CuratorApproved": "Y", 
   "ObjectID": "47913"
 }

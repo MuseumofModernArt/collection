@@ -4,20 +4,19 @@
   "Classification": "Photograph", 
   "Artist": "Maxime Du Camp", 
   "URL": "http://www.moma.org/collection/works/54225", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Warner Communications, Inc.", 
-  "Date": "1849", 
-  "ArtistID": 1629, 
+  "DateAcquired": "1981-12-17", 
   "Keywords": [
-    "online art collection", 
     "Maxime Du Camp", 
     "Village de Hamameh", 
     "1849"
   ], 
+  "ArtistID": 1629, 
+  "Title": "Village de Hamameh", 
   "Department": "Photography", 
   "MoMANumber": "486.1981", 
+  "Date": "1849", 
   "ArtistBio": "(French, 1822\u20131894)", 
-  "DateAcquired": "1981-12-17", 
-  "\ufeffTitle": "Village de Hamameh", 
+  "CuratorApproved": "Y", 
   "ObjectID": "54225"
 }

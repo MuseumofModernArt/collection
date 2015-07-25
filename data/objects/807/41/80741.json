@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Tom Friedman", 
   "URL": "http://www.moma.org/collection/works/80741", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Given anonymously", 
-  "Date": "1995", 
-  "ArtistID": 7487, 
+  "DateAcquired": "1996-03-11", 
   "Keywords": [
-    "online art collection", 
     "Tom Friedman", 
     "Untitled", 
     "1995"
   ], 
+  "ArtistID": 7487, 
+  "Title": "Untitled", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "1.1996", 
+  "Date": "1995", 
   "ArtistBio": "(American, born 1965)", 
-  "DateAcquired": "1996-03-11", 
-  "\ufeffTitle": "Untitled", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80741"
 }

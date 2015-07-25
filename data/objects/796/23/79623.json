@@ -4,21 +4,20 @@
   "Classification": "Painting", 
   "Artist": "John Kane", 
   "URL": "http://www.moma.org/collection/works/79623", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Given anonymously", 
-  "Date": "c. 1928", 
-  "ArtistID": 2982, 
+  "DateAcquired": "1941-03-20", 
   "Keywords": [
-    "online art collection", 
     "John Kane", 
     "Through Coleman Hollow up the Allegheny Valley", 
     "c", 
     "1928"
   ], 
+  "ArtistID": 2982, 
+  "Title": "Through Coleman Hollow up the Allegheny Valley", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "400.1941", 
+  "Date": "c. 1928", 
   "ArtistBio": "(American, born Scotland. 1860\u20131934)", 
-  "DateAcquired": "1941-03-20", 
-  "\ufeffTitle": "Through Coleman Hollow up the Allegheny Valley", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79623"
 }

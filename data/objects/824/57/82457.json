@@ -4,22 +4,21 @@
   "Classification": "Photograph", 
   "Artist": "Joel Sternfeld", 
   "URL": "http://www.moma.org/collection/works/82457", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Beth Goldberg Nash and Joshua Nash", 
-  "Date": "July 1984", 
-  "ArtistID": 5656, 
+  "DateAcquired": "2001-04-12", 
   "Keywords": [
-    "online art collection", 
     "Joel Sternfeld", 
     "Matanuska Glacier", 
     "Matanuska Valley", 
     "Alaska", 
     "July 1984"
   ], 
+  "ArtistID": 5656, 
+  "Title": "Matanuska Glacier, Matanuska Valley, Alaska", 
   "Department": "Photography", 
   "MoMANumber": "1281.2001.x1-x2", 
+  "Date": "July 1984", 
   "ArtistBio": "(American, born 1944)", 
-  "DateAcquired": "2001-04-12", 
-  "\ufeffTitle": "Matanuska Glacier, Matanuska Valley, Alaska", 
+  "CuratorApproved": "Y", 
   "ObjectID": "82457"
 }

@@ -4,21 +4,20 @@
   "Classification": "Sculpture", 
   "Artist": "Claes Oldenburg", 
   "URL": "http://www.moma.org/collection/works/81721", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The Sidney and Harriet Janis Collection", 
-  "Date": "1961-62", 
-  "ArtistID": 4397, 
+  "DateAcquired": "1967-10-18", 
   "Keywords": [
-    "online art collection", 
     "Claes Oldenburg", 
     "Pastry Case", 
     "I", 
     "1961-62"
   ], 
+  "ArtistID": 4397, 
+  "Title": "Pastry Case, I", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "639.1967.a-dd", 
+  "Date": "1961-62", 
   "ArtistBio": "(American, born Sweden 1929)", 
-  "DateAcquired": "1967-10-18", 
-  "\ufeffTitle": "Pastry Case, I", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81721"
 }

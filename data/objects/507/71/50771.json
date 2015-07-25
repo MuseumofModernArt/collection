@@ -4,22 +4,21 @@
   "Classification": "Photograph", 
   "Artist": "Alfred Stieglitz", 
   "URL": "http://www.moma.org/collection/works/50771", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Given anonymously", 
-  "Date": "1889", 
-  "ArtistID": 5664, 
+  "DateAcquired": "1942-12-29", 
   "Keywords": [
-    "online art collection", 
     "Alfred Stieglitz", 
     "Sun Rays", 
     "Paula", 
     "Berlin", 
     "1889"
   ], 
+  "ArtistID": 5664, 
+  "Title": "Sun Rays, Paula, Berlin", 
   "Department": "Photography", 
   "MoMANumber": "324.1942", 
+  "Date": "1889", 
   "ArtistBio": "(American, 1864\u20131946)", 
-  "DateAcquired": "1942-12-29", 
-  "\ufeffTitle": "Sun Rays, Paula, Berlin", 
+  "CuratorApproved": "Y", 
   "ObjectID": "50771"
 }

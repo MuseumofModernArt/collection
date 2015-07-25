@@ -4,20 +4,19 @@
   "Classification": "A&D Graphic Design", 
   "Artist": "Otl Aicher (also known as Otto Aicher)", 
   "URL": "http://www.moma.org/collection/works/7645", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the artist", 
-  "Date": "1949-51", 
-  "ArtistID": 86, 
+  "DateAcquired": "1951-11-21", 
   "Keywords": [
-    "online art collection", 
     "Otl Aicher (also known as Otto Aicher)", 
     "Realistische Weltliteratur der Gegenwart", 
     "1949-51"
   ], 
+  "ArtistID": 86, 
+  "Title": "Realistische Weltliteratur der Gegenwart", 
   "Department": "Architecture & Design", 
   "MoMANumber": "590.1951", 
+  "Date": "1949-51", 
   "ArtistBio": "(German, 1922\u20131991)", 
-  "DateAcquired": "1951-11-21", 
-  "\ufeffTitle": "Realistische Weltliteratur der Gegenwart", 
+  "CuratorApproved": "Y", 
   "ObjectID": "7645"
 }

@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Max Ernst", 
   "URL": "http://www.moma.org/collection/works/81448", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Mrs. Dallas Ernst", 
-  "Date": "1950", 
-  "ArtistID": 1752, 
+  "DateAcquired": "1999-10-12", 
   "Keywords": [
-    "online art collection", 
     "Max Ernst", 
     "The Parisian", 
     "1950"
   ], 
+  "ArtistID": 1752, 
+  "Title": "The Parisian", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "409.1999", 
+  "Date": "1950", 
   "ArtistBio": "(French, born Germany. 1891\u20131976)", 
-  "DateAcquired": "1999-10-12", 
-  "\ufeffTitle": "The Parisian", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81448"
 }

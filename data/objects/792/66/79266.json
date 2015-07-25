@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "James Brooks", 
   "URL": "http://www.moma.org/collection/works/79266", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Mrs. Bliss Parkinson", 
-  "Date": "1954", 
-  "ArtistID": 798, 
+  "DateAcquired": "1956-06-06", 
   "Keywords": [
-    "online art collection", 
     "James Brooks", 
     "Qualm", 
     "1954"
   ], 
+  "ArtistID": 798, 
+  "Title": "Qualm", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "247.1956", 
+  "Date": "1954", 
   "ArtistBio": "(American, 1906\u20131992)", 
-  "DateAcquired": "1956-06-06", 
-  "\ufeffTitle": "Qualm", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79266"
 }

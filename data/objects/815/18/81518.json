@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "George Rickey", 
   "URL": "http://www.moma.org/collection/works/81518", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Mrs. Simon Guggenheim Fund", 
-  "Date": "1964", 
-  "ArtistID": 4912, 
+  "DateAcquired": "1965-06-08", 
   "Keywords": [
-    "online art collection", 
     "George Rickey", 
     "Two Lines -- Temporal I", 
     "1964"
   ], 
+  "ArtistID": 4912, 
+  "Title": "Two Lines -- Temporal I", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "506.1965.a-c", 
+  "Date": "1964", 
   "ArtistBio": "(American, 1907\u20132002)", 
-  "DateAcquired": "1965-06-08", 
-  "\ufeffTitle": "Two Lines -- Temporal I", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81518"
 }

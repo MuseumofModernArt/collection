@@ -4,21 +4,20 @@
   "Classification": "Sculpture", 
   "Artist": "Alberto Giacometti", 
   "URL": "http://www.moma.org/collection/works/81849", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Louise Reinhardt Smith Bequest", 
-  "Date": "1934 (cast c. 1954-55)", 
-  "ArtistID": 2141, 
+  "DateAcquired": "1995-12-12", 
   "Keywords": [
-    "online art collection", 
     "Alberto Giacometti", 
     "Hands Holding the Void (Invisible Object)", 
     "1934 (cast c", 
     "1954-55)"
   ], 
+  "ArtistID": 2141, 
+  "Title": "Hands Holding the Void (Invisible Object)", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "775.1995", 
+  "Date": "1934 (cast c. 1954-55)", 
   "ArtistBio": "(Swiss, 1901\u20131966)", 
-  "DateAcquired": "1995-12-12", 
-  "\ufeffTitle": "Hands Holding the Void (Invisible Object)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81849"
 }

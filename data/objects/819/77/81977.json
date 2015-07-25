@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Gabriel Orozco", 
   "URL": "http://www.moma.org/collection/works/81977", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Agnes Gund and Lewis B. Cullman in honor of Chess in the Schools", 
-  "Date": "1995", 
-  "ArtistID": 7461, 
+  "DateAcquired": "2001-02-12", 
   "Keywords": [
-    "online art collection", 
     "Gabriel Orozco", 
     "Horses Running Endlessly", 
     "1995"
   ], 
+  "ArtistID": 7461, 
+  "Title": "Horses Running Endlessly", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "1147.2001", 
+  "Date": "1995", 
   "ArtistBio": "(Mexican, born 1962)", 
-  "DateAcquired": "2001-02-12", 
-  "\ufeffTitle": "Horses Running Endlessly", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81977"
 }

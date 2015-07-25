@@ -4,21 +4,20 @@
   "Classification": "Photograph", 
   "Artist": "Lucas Samaras", 
   "URL": "http://www.moma.org/collection/works/45409", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Robert and Gayle Greenhill", 
-  "Date": "August 17, 1976", 
-  "ArtistID": 5134, 
+  "DateAcquired": "1992-01-09", 
   "Keywords": [
-    "online art collection", 
     "Lucas Samaras", 
     "Photo-Transformation", 
     "August 17", 
     "1976"
   ], 
+  "ArtistID": 5134, 
+  "Title": "Photo-Transformation", 
   "Department": "Photography", 
   "MoMANumber": "65.1992", 
+  "Date": "August 17, 1976", 
   "ArtistBio": "(American, born Greece 1936)", 
-  "DateAcquired": "1992-01-09", 
-  "\ufeffTitle": "Photo-Transformation", 
+  "CuratorApproved": "Y", 
   "ObjectID": "45409"
 }

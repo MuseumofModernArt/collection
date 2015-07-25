@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Marino Marini", 
   "URL": "http://www.moma.org/collection/works/73163", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Given anonymously (by exchange)", 
-  "Date": "(1956)", 
-  "ArtistID": 3772, 
+  "DateAcquired": "1956-12-19", 
   "Keywords": [
-    "online art collection", 
     "Marino Marini", 
     "Horseman", 
     "(1956)"
   ], 
+  "ArtistID": 3772, 
+  "Title": "Horseman", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "689.1956", 
+  "Date": "(1956)", 
   "ArtistBio": "(Italian, 1901\u20131980)", 
-  "DateAcquired": "1956-12-19", 
-  "\ufeffTitle": "Horseman", 
+  "CuratorApproved": "Y", 
   "ObjectID": "73163"
 }

@@ -4,12 +4,9 @@
   "Classification": "A&D Architectural Drawing", 
   "Artist": "Jason Crum", 
   "URL": "http://www.moma.org/collection/works/421", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1969", 
-  "ArtistID": 1318, 
+  "DateAcquired": "1969-04-24", 
   "Keywords": [
-    "online art collection", 
     "Jason Crum", 
     "Project for a Painted Wall", 
     "New York City", 
@@ -17,10 +14,12 @@
     "Perspective", 
     "1969"
   ], 
+  "ArtistID": 1318, 
+  "Title": "Project for a Painted Wall, New York City, New York, Perspective", 
   "Department": "Architecture & Design", 
   "MoMANumber": "372.1969", 
+  "Date": "1969", 
   "ArtistBio": "(American, 1935\u20132004)", 
-  "DateAcquired": "1969-04-24", 
-  "\ufeffTitle": "Project for a Painted Wall, New York City, New York, Perspective", 
+  "CuratorApproved": "Y", 
   "ObjectID": "421"
 }

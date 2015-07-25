@@ -4,21 +4,20 @@
   "Classification": "Drawing", 
   "Artist": "Marc Chagall", 
   "URL": "http://www.moma.org/collection/works/33623", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Acquired through the Lillie P. Bliss Bequest", 
-  "Date": "1917", 
-  "ArtistID": 1055, 
+  "DateAcquired": "1944-05-02", 
   "Keywords": [
-    "online art collection", 
     "Marc Chagall", 
     "Homage to Gogol", 
     "Design for curtain for Gogol festival", 
     "1917"
   ], 
+  "ArtistID": 1055, 
+  "Title": "Homage to Gogol. Design for curtain for Gogol festival", 
   "Department": "Drawings", 
   "MoMANumber": "71.1944", 
+  "Date": "1917", 
   "ArtistBio": "(French, born Belarus. 1887\u20131985)", 
-  "DateAcquired": "1944-05-02", 
-  "\ufeffTitle": "Homage to Gogol. Design for curtain for Gogol festival", 
+  "CuratorApproved": "Y", 
   "ObjectID": "33623"
 }

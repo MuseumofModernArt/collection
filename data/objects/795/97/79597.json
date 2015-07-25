@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Mark Innerst", 
   "URL": "http://www.moma.org/collection/works/79597", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Given anonymously", 
-  "Date": "1986", 
-  "ArtistID": 2815, 
+  "DateAcquired": "1986-12-08", 
   "Keywords": [
-    "online art collection", 
     "Mark Innerst", 
     "Coastal Inlet", 
     "1986"
   ], 
+  "ArtistID": 2815, 
+  "Title": "Coastal Inlet", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "389.1986", 
+  "Date": "1986", 
   "ArtistBio": "(American, born 1957)", 
-  "DateAcquired": "1986-12-08", 
-  "\ufeffTitle": "Coastal Inlet", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79597"
 }

@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Alberto Giacometti", 
   "URL": "http://www.moma.org/collection/works/80928", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1932", 
-  "ArtistID": 2141, 
+  "DateAcquired": "1936-12-17", 
   "Keywords": [
-    "online art collection", 
     "Alberto Giacometti", 
     "The Palace at 4 a,m", 
     "1932"
   ], 
+  "ArtistID": 2141, 
+  "Title": "The Palace at 4 a.m.", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "90.1936", 
+  "Date": "1932", 
   "ArtistBio": "(Swiss, 1901\u20131966)", 
-  "DateAcquired": "1936-12-17", 
-  "\ufeffTitle": "The Palace at 4 a.m.", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80928"
 }

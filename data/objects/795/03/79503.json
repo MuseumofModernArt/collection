@@ -4,21 +4,20 @@
   "Classification": "Painting", 
   "Artist": "Pablo Picasso", 
   "URL": "http://www.moma.org/collection/works/79503", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Jacqueline Picasso in honor of the Museum's continuous commitment to Pablo Picasso's art", 
-  "Date": "August 15, 1971", 
-  "ArtistID": 4609, 
+  "DateAcquired": "1985-10-25", 
   "Keywords": [
-    "online art collection", 
     "Pablo Picasso", 
     "At Work", 
     "August 15", 
     "1971"
   ], 
+  "ArtistID": 4609, 
+  "Title": "At Work", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "344.1985", 
+  "Date": "August 15, 1971", 
   "ArtistBio": "(Spanish, 1881\u20131973)", 
-  "DateAcquired": "1985-10-25", 
-  "\ufeffTitle": "At Work", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79503"
 }

@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Elizabeth Peyton", 
   "URL": "http://www.moma.org/collection/works/76480", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Acquired through the generosity of Marian and James H. Cohen in memory of Andrew Golkin", 
-  "Date": "2000", 
-  "ArtistID": 8042, 
+  "DateAcquired": "2000-11-09", 
   "Keywords": [
-    "online art collection", 
     "Elizabeth Peyton", 
     "John & Jackie", 
     "2000"
   ], 
+  "ArtistID": 8042, 
+  "Title": "John & Jackie", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "1356.2000", 
+  "Date": "2000", 
   "ArtistBio": "(American, born 1965)", 
-  "DateAcquired": "2000-11-09", 
-  "\ufeffTitle": "John & Jackie", 
+  "CuratorApproved": "Y", 
   "ObjectID": "76480"
 }

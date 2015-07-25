@@ -4,20 +4,19 @@
   "Classification": "Photograph", 
   "Artist": "Todd Walker", 
   "URL": "http://www.moma.org/collection/works/55207", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1970", 
-  "ArtistID": 6222, 
+  "DateAcquired": "1970-10-27", 
   "Keywords": [
-    "online art collection", 
     "Todd Walker", 
     "Untitled", 
     "1970"
   ], 
+  "ArtistID": 6222, 
+  "Title": "Untitled", 
   "Department": "Photography", 
   "MoMANumber": "567.1970", 
+  "Date": "1970", 
   "ArtistBio": "(American, 1917\u20131998)", 
-  "DateAcquired": "1970-10-27", 
-  "\ufeffTitle": "Untitled", 
+  "CuratorApproved": "Y", 
   "ObjectID": "55207"
 }

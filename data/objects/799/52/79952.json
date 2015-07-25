@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Stuart Davis", 
   "URL": "http://www.moma.org/collection/works/79952", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Edith Gregor Halpert", 
-  "Date": "1931", 
-  "ArtistID": 1412, 
+  "DateAcquired": "1954-12-16", 
   "Keywords": [
-    "online art collection", 
     "Stuart Davis", 
     "Salt Shaker", 
     "1931"
   ], 
+  "ArtistID": 1412, 
+  "Title": "Salt Shaker", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "543.1954", 
+  "Date": "1931", 
   "ArtistBio": "(American, 1892\u20131964)", 
-  "DateAcquired": "1954-12-16", 
-  "\ufeffTitle": "Salt Shaker", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79952"
 }

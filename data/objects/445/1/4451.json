@@ -4,21 +4,20 @@
   "Classification": "A&D Design", 
   "Artist": "Simon Gate", 
   "URL": "http://www.moma.org/collection/works/4451", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Orrefors Galleries", 
-  "Date": "c. 1941", 
-  "ArtistID": 2093, 
+  "DateAcquired": "1941-12-01", 
   "Keywords": [
-    "online art collection", 
     "Simon Gate", 
     "Beer Mug", 
     "c", 
     "1941"
   ], 
+  "ArtistID": 2093, 
+  "Title": "Beer Mug", 
   "Department": "Architecture & Design", 
   "MoMANumber": "794.1941", 
+  "Date": "c. 1941", 
   "ArtistBio": "(Swedish, 1883\u20131945)", 
-  "DateAcquired": "1941-12-01", 
-  "\ufeffTitle": "Beer Mug", 
+  "CuratorApproved": "Y", 
   "ObjectID": "4451"
 }

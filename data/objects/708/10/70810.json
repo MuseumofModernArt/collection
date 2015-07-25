@@ -4,21 +4,20 @@
   "Classification": "Print", 
   "Artist": "Louise Bourgeois", 
   "URL": "http://www.moma.org/collection/works/70810", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the artist", 
-  "Date": "(1997)", 
-  "ArtistID": 710, 
+  "DateAcquired": "1997-11-11", 
   "Keywords": [
-    "online art collection", 
     "Louise Bourgeois", 
     "Hamlet and Ophelia for BAM", 
     "working proof", 
     "(1997)"
   ], 
+  "ArtistID": 710, 
+  "Title": "Hamlet and Ophelia for BAM, working proof", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "539.1997", 
+  "Date": "(1997)", 
   "ArtistBio": "(American, born France. 1911\u20132010)", 
-  "DateAcquired": "1997-11-11", 
-  "\ufeffTitle": "Hamlet and Ophelia for BAM, working proof", 
+  "CuratorApproved": "Y", 
   "ObjectID": "70810"
 }

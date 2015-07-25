@@ -4,20 +4,19 @@
   "Classification": "Photograph", 
   "Artist": "William Henry Fox Talbot", 
   "URL": "http://www.moma.org/collection/works/46340", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Acquired through the generosity of Dr. Stefan Stein", 
-  "Date": "1845", 
-  "ArtistID": 5791, 
+  "DateAcquired": "1992-01-09", 
   "Keywords": [
-    "online art collection", 
     "William Henry Fox Talbot", 
     "Lace", 
     "1845"
   ], 
+  "ArtistID": 5791, 
+  "Title": "Lace", 
   "Department": "Photography", 
   "MoMANumber": "105.1992", 
+  "Date": "1845", 
   "ArtistBio": "(British, 1800\u20131877)", 
-  "DateAcquired": "1992-01-09", 
-  "\ufeffTitle": "Lace", 
+  "CuratorApproved": "Y", 
   "ObjectID": "46340"
 }

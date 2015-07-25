@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Robert Rauschenberg", 
   "URL": "http://www.moma.org/collection/works/68195", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the Celeste and Armand Bartos Foundation", 
-  "Date": "1962", 
-  "ArtistID": 4823, 
+  "DateAcquired": "1962-12-11", 
   "Keywords": [
-    "online art collection", 
     "Robert Rauschenberg", 
     "Stunt Man III", 
     "1962"
   ], 
+  "ArtistID": 4823, 
+  "Title": "Stunt Man III", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "384.1962", 
+  "Date": "1962", 
   "ArtistBio": "(American, 1925\u20132008)", 
-  "DateAcquired": "1962-12-11", 
-  "\ufeffTitle": "Stunt Man III", 
+  "CuratorApproved": "Y", 
   "ObjectID": "68195"
 }

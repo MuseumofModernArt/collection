@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Max Ernst", 
   "URL": "http://www.moma.org/collection/works/79200", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Mrs. Pierre Matisse and the Helena Rubenstein Fund", 
-  "Date": "1934", 
-  "ArtistID": 1752, 
+  "DateAcquired": "1968-04-08", 
   "Keywords": [
-    "online art collection", 
     "Max Ernst", 
     "The Blind Swimmer", 
     "1934"
   ], 
+  "ArtistID": 1752, 
+  "Title": "The Blind Swimmer", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "228.1968", 
+  "Date": "1934", 
   "ArtistBio": "(French, born Germany. 1891\u20131976)", 
-  "DateAcquired": "1968-04-08", 
-  "\ufeffTitle": "The Blind Swimmer", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79200"
 }

@@ -4,22 +4,21 @@
   "Classification": "Illustrated Book", 
   "Artist": "Pablo Picasso", 
   "URL": "http://www.moma.org/collection/works/29826", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The Louis E. Stern Collection", 
-  "Date": "1949, published 1950", 
-  "ArtistID": 4609, 
+  "DateAcquired": "1964-10-06", 
   "Keywords": [
-    "online art collection", 
     "Pablo Picasso", 
     "\"Births\" (chapter title", 
     "page 61) from Corps Perdu", 
     "1949", 
     "published 1950"
   ], 
+  "ArtistID": 4609, 
+  "Title": "\"Births\" (chapter title, page 61) from Corps Perdu", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "995.1964.18", 
+  "Date": "1949, published 1950", 
   "ArtistBio": "(Spanish, 1881\u20131973)", 
-  "DateAcquired": "1964-10-06", 
-  "\ufeffTitle": "\"Births\" (chapter title, page 61) from Corps Perdu", 
+  "CuratorApproved": "Y", 
   "ObjectID": "29826"
 }

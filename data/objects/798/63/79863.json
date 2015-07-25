@@ -4,22 +4,21 @@
   "Classification": "Painting", 
   "Artist": "Henri Matisse", 
   "URL": "http://www.moma.org/collection/works/79863", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift and bequest of Florene M. Schoenborn and Samuel A. Marx", 
-  "Date": "Paris, quai Saint-Michel, early 1914", 
-  "ArtistID": 3832, 
+  "DateAcquired": "1964-06-15", 
   "Keywords": [
-    "online art collection", 
     "Henri Matisse", 
     "Woman on a High Stool (Germaine Raynal)", 
     "Paris", 
     "quai Saint-Michel", 
     "early 1914"
   ], 
+  "ArtistID": 3832, 
+  "Title": "Woman on a High Stool (Germaine Raynal)", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "506.1964", 
+  "Date": "Paris, quai Saint-Michel, early 1914", 
   "ArtistBio": "(French, 1869\u20131954)", 
-  "DateAcquired": "1964-06-15", 
-  "\ufeffTitle": "Woman on a High Stool (Germaine Raynal)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79863"
 }

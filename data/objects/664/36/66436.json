@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Max Beckmann", 
   "URL": "http://www.moma.org/collection/works/66436", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Abby Aldrich Rockefeller Fund", 
-  "Date": "1911", 
-  "ArtistID": 429, 
+  "DateAcquired": "1951-05-24", 
   "Keywords": [
-    "online art collection", 
     "Max Beckmann", 
     "Samson and Delilah (Simson und Delila)", 
     "1911"
   ], 
+  "ArtistID": 429, 
+  "Title": "Samson and Delilah (Simson und Delila)", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "301.1951", 
+  "Date": "1911", 
   "ArtistBio": "(German, 1884\u20131950)", 
-  "DateAcquired": "1951-05-24", 
-  "\ufeffTitle": "Samson and Delilah (Simson und Delila)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "66436"
 }

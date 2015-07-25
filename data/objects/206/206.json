@@ -4,12 +4,9 @@
   "Classification": "A&D Architectural Drawing", 
   "Artist": "Frank Lloyd Wright", 
   "URL": "http://www.moma.org/collection/works/206", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Arthur Drexler Fund", 
-  "Date": "1941", 
-  "ArtistID": 6459, 
+  "DateAcquired": "1992-01-15", 
   "Keywords": [
-    "online art collection", 
     "Frank Lloyd Wright", 
     "Arch Oboler Guest House (Eleanor's Retreat)", 
     "project", 
@@ -18,10 +15,12 @@
     "Plan and elevation", 
     "1941"
   ], 
+  "ArtistID": 6459, 
+  "Title": "Arch Oboler Guest House (Eleanor's Retreat), project, Malibu, California, Plan and elevation", 
   "Department": "Architecture & Design", 
   "MoMANumber": "112.1992", 
+  "Date": "1941", 
   "ArtistBio": "(American, 1867\u20131959)", 
-  "DateAcquired": "1992-01-15", 
-  "\ufeffTitle": "Arch Oboler Guest House (Eleanor's Retreat), project, Malibu, California, Plan and elevation", 
+  "CuratorApproved": "Y", 
   "ObjectID": "206"
 }

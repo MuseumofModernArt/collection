@@ -4,20 +4,19 @@
   "Classification": "Drawing", 
   "Artist": "Henry Moore", 
   "URL": "http://www.moma.org/collection/works/34646", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The Joan and Lester Avnet Collection", 
-  "Date": "1947", 
-  "ArtistID": 4071, 
+  "DateAcquired": "1978-04-04", 
   "Keywords": [
-    "online art collection", 
     "Henry Moore", 
     "Girl Reading", 
     "1947"
   ], 
+  "ArtistID": 4071, 
+  "Title": "Girl Reading", 
   "Department": "Drawings", 
   "MoMANumber": "138.1978", 
+  "Date": "1947", 
   "ArtistBio": "(British, 1898\u20131986)", 
-  "DateAcquired": "1978-04-04", 
-  "\ufeffTitle": "Girl Reading", 
+  "CuratorApproved": "Y", 
   "ObjectID": "34646"
 }

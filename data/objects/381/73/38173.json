@@ -4,20 +4,19 @@
   "Classification": "Drawing", 
   "Artist": "Willi Baumeister", 
   "URL": "http://www.moma.org/collection/works/38173", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The Riklis Collection of McCrory Corporation", 
-  "Date": "(1923/24)", 
-  "ArtistID": 392, 
+  "DateAcquired": "1985-09-10", 
   "Keywords": [
-    "online art collection", 
     "Willi Baumeister", 
     "The Painter", 
     "(1923/24)"
   ], 
+  "ArtistID": 392, 
+  "Title": "The Painter", 
   "Department": "Drawings", 
   "MoMANumber": "848.1983", 
+  "Date": "(1923/24)", 
   "ArtistBio": "(German, 1889\u20131955)", 
-  "DateAcquired": "1985-09-10", 
-  "\ufeffTitle": "The Painter", 
+  "CuratorApproved": "Y", 
   "ObjectID": "38173"
 }

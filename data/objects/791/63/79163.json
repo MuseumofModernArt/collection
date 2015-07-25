@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Frank Stella", 
   "URL": "http://www.moma.org/collection/works/79163", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Donald B. Marron", 
-  "Date": "1982", 
-  "ArtistID": 5640, 
+  "DateAcquired": "1982-10-12", 
   "Keywords": [
-    "online art collection", 
     "Frank Stella", 
     "Welkom", 
     "1982"
   ], 
+  "ArtistID": 5640, 
+  "Title": "Welkom", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "212.1982", 
+  "Date": "1982", 
   "ArtistBio": "(American, born 1936)", 
-  "DateAcquired": "1982-10-12", 
-  "\ufeffTitle": "Welkom", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79163"
 }

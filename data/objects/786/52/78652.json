@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Richard Lindner", 
   "URL": "http://www.moma.org/collection/works/78652", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Given in memory of Dr. Hermann Vollmer", 
-  "Date": "1958", 
-  "ArtistID": 3559, 
+  "DateAcquired": "1961-02-07", 
   "Keywords": [
-    "online art collection", 
     "Richard Lindner", 
     "The Mirror", 
     "1958"
   ], 
+  "ArtistID": 3559, 
+  "Title": "The Mirror", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "65.1961", 
+  "Date": "1958", 
   "ArtistBio": "(American, 1901\u20131978)", 
-  "DateAcquired": "1961-02-07", 
-  "\ufeffTitle": "The Mirror", 
+  "CuratorApproved": "Y", 
   "ObjectID": "78652"
 }

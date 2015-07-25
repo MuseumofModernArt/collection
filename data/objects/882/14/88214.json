@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "John Currin", 
   "URL": "http://www.moma.org/collection/works/88214", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the Young Print Collectors of The Museum of Modern Art", 
-  "Date": "2003", 
-  "ArtistID": 8444, 
+  "DateAcquired": "2003-06-05", 
   "Keywords": [
-    "online art collection", 
     "John Currin", 
     "Untitled (The Cuddler)", 
     "2003"
   ], 
+  "ArtistID": 8444, 
+  "Title": "Untitled (The Cuddler)", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "164.2003", 
+  "Date": "2003", 
   "ArtistBio": "(American, born 1962)", 
-  "DateAcquired": "2003-06-05", 
-  "\ufeffTitle": "Untitled (The Cuddler)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "88214"
 }

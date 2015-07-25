@@ -4,21 +4,20 @@
   "Classification": "Photograph", 
   "Artist": "Barbara Morgan", 
   "URL": "http://www.moma.org/collection/works/48124", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1935", 
-  "ArtistID": 4089, 
+  "DateAcquired": "1972-05-02", 
   "Keywords": [
-    "online art collection", 
     "Barbara Morgan", 
     "Martha Graham", 
     "Extasis", 
     "1935"
   ], 
+  "ArtistID": 4089, 
+  "Title": "Martha Graham, Extasis", 
   "Department": "Photography", 
   "MoMANumber": "192.1972", 
+  "Date": "1935", 
   "ArtistBio": "(American, 1900\u20131992)", 
-  "DateAcquired": "1972-05-02", 
-  "\ufeffTitle": "Martha Graham, Extasis", 
+  "CuratorApproved": "Y", 
   "ObjectID": "48124"
 }

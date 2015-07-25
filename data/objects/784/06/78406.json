@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Fletcher Martin", 
   "URL": "http://www.moma.org/collection/works/78406", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Abby Aldrich Rockefeller Fund", 
-  "Date": "1938", 
-  "ArtistID": 3790, 
+  "DateAcquired": "1939-01-06", 
   "Keywords": [
-    "online art collection", 
     "Fletcher Martin", 
     "Trouble in Frisco", 
     "1938"
   ], 
+  "ArtistID": 3790, 
+  "Title": "Trouble in Frisco", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "10.1939", 
+  "Date": "1938", 
   "ArtistBio": "(American, 1904\u20131979)", 
-  "DateAcquired": "1939-01-06", 
-  "\ufeffTitle": "Trouble in Frisco", 
+  "CuratorApproved": "Y", 
   "ObjectID": "78406"
 }

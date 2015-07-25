@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Lisa Yuskavage", 
   "URL": "http://www.moma.org/collection/works/91784", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Fractional and promised gift of David Teiger", 
-  "Date": "1996", 
-  "ArtistID": 7965, 
+  "DateAcquired": "2004-06-08", 
   "Keywords": [
-    "online art collection", 
     "Lisa Yuskavage", 
     "Wrist Corsage", 
     "1996"
   ], 
+  "ArtistID": 7965, 
+  "Title": "Wrist Corsage", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "332.2004", 
+  "Date": "1996", 
   "ArtistBio": "(American, born 1962)", 
-  "DateAcquired": "2004-06-08", 
-  "\ufeffTitle": "Wrist Corsage", 
+  "CuratorApproved": "Y", 
   "ObjectID": "91784"
 }

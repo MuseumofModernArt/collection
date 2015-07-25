@@ -4,20 +4,19 @@
   "Classification": "Photograph", 
   "Artist": "James Alinder", 
   "URL": "http://www.moma.org/collection/works/54741", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1969", 
-  "ArtistID": 114, 
+  "DateAcquired": "1970-10-27", 
   "Keywords": [
-    "online art collection", 
     "James Alinder", 
     "Birth of Jasmine", 
     "1969"
   ], 
+  "ArtistID": 114, 
+  "Title": "Birth of Jasmine", 
   "Department": "Photography", 
   "MoMANumber": "528.1970", 
+  "Date": "1969", 
   "ArtistBio": "(American, born 1941)", 
-  "DateAcquired": "1970-10-27", 
-  "\ufeffTitle": "Birth of Jasmine", 
+  "CuratorApproved": "Y", 
   "ObjectID": "54741"
 }

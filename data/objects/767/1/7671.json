@@ -4,21 +4,20 @@
   "Classification": "A&D Graphic Design", 
   "Artist": "Kurt Schwitters", 
   "URL": "http://www.moma.org/collection/works/7671", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Jan Tschichold Collection, Gift of Philip Johnson", 
-  "Date": "c. 1925", 
-  "ArtistID": 5293, 
+  "DateAcquired": "1977-11-28", 
   "Keywords": [
-    "online art collection", 
     "Kurt Schwitters", 
     "Merz-Werbe Drucksache", 
     "c", 
     "1925"
   ], 
+  "ArtistID": 5293, 
+  "Title": "Merz-Werbe Drucksache", 
   "Department": "Architecture & Design", 
   "MoMANumber": "596.1977", 
+  "Date": "c. 1925", 
   "ArtistBio": "(German, 1887\u20131948)", 
-  "DateAcquired": "1977-11-28", 
-  "\ufeffTitle": "Merz-Werbe Drucksache", 
+  "CuratorApproved": "Y", 
   "ObjectID": "7671"
 }

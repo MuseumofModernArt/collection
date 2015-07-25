@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Robert Ryman", 
   "URL": "http://www.moma.org/collection/works/79128", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Werner and Elaine Dannheisser", 
-  "Date": "1988", 
-  "ArtistID": 5098, 
+  "DateAcquired": "1996-04-09", 
   "Keywords": [
-    "online art collection", 
     "Robert Ryman", 
     "Convert", 
     "1988"
   ], 
+  "ArtistID": 5098, 
+  "Title": "Convert", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "202.1996", 
+  "Date": "1988", 
   "ArtistBio": "(American, born 1930)", 
-  "DateAcquired": "1996-04-09", 
-  "\ufeffTitle": "Convert", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79128"
 }

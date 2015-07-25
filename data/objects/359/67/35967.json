@@ -4,20 +4,19 @@
   "Classification": "Drawing", 
   "Artist": "Antonio Segui", 
   "URL": "http://www.moma.org/collection/works/35967", 
-  "CuratorApproved": "Y", 
   "CreditLine": "David Rockefeller Latin American Fund", 
-  "Date": "1970", 
-  "ArtistID": 5319, 
+  "DateAcquired": "1972-10-05", 
   "Keywords": [
-    "online art collection", 
     "Antonio Segui", 
     "Portrait", 
     "1970"
   ], 
+  "ArtistID": 5319, 
+  "Title": "Portrait", 
   "Department": "Drawings", 
   "MoMANumber": "281.1972", 
+  "Date": "1970", 
   "ArtistBio": "(Argentine, born 1934)", 
-  "DateAcquired": "1972-10-05", 
-  "\ufeffTitle": "Portrait", 
+  "CuratorApproved": "Y", 
   "ObjectID": "35967"
 }

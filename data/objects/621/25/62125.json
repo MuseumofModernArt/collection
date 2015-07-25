@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Kiki Smith", 
   "URL": "http://www.moma.org/collection/works/62125", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Emily Fisher Landau", 
-  "Date": "1995", 
-  "ArtistID": 5486, 
+  "DateAcquired": "1995-05-03", 
   "Keywords": [
-    "online art collection", 
     "Kiki Smith", 
     "My Blue Lake", 
     "1995"
   ], 
+  "ArtistID": 5486, 
+  "Title": "My Blue Lake", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "117.1995", 
+  "Date": "1995", 
   "ArtistBio": "(American, born Germany 1954)", 
-  "DateAcquired": "1995-05-03", 
-  "\ufeffTitle": "My Blue Lake", 
+  "CuratorApproved": "Y", 
   "ObjectID": "62125"
 }

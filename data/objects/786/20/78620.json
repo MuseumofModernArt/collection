@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Fernand L\u00e9ger", 
   "URL": "http://www.moma.org/collection/works/78620", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Given anonymously", 
-  "Date": "1924", 
-  "ArtistID": 6624, 
+  "DateAcquired": "1965-02-09", 
   "Keywords": [
-    "online art collection", 
     "Fernand L&eacute;ger", 
     "Mural Painting", 
     "1924"
   ], 
+  "ArtistID": 6624, 
+  "Title": "Mural Painting", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "49.1965", 
+  "Date": "1924", 
   "ArtistBio": "(French, 1881\u20131955)", 
-  "DateAcquired": "1965-02-09", 
-  "\ufeffTitle": "Mural Painting", 
+  "CuratorApproved": "Y", 
   "ObjectID": "78620"
 }

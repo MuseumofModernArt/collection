@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Sean Scully", 
   "URL": "http://www.moma.org/collection/works/78729", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Fractional and promised gift of Agnes Gund", 
-  "Date": "1988", 
-  "ArtistID": 5305, 
+  "DateAcquired": "1991-04-08", 
   "Keywords": [
-    "online art collection", 
     "Sean Scully", 
     "A Bedroom in Venice", 
     "1988"
   ], 
+  "ArtistID": 5305, 
+  "Title": "A Bedroom in Venice", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "84.1991", 
+  "Date": "1988", 
   "ArtistBio": "(American, born Ireland 1945)", 
-  "DateAcquired": "1991-04-08", 
-  "\ufeffTitle": "A Bedroom in Venice", 
+  "CuratorApproved": "Y", 
   "ObjectID": "78729"
 }

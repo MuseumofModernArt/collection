@@ -4,12 +4,9 @@
   "Classification": "Print", 
   "Artist": "Paul Adolf Seehaus", 
   "URL": "http://www.moma.org/collection/works/73108", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Transferred from the Museum Library", 
-  "Date": "1918 (executed 1917)", 
-  "ArtistID": 5313, 
+  "DateAcquired": "1949-09-29", 
   "Keywords": [
-    "online art collection", 
     "Paul Adolf Seehaus", 
     "Bridge (Br&uuml;cke) (plate", 
     "loose leaf) from the periodical Das Kunstblatt", 
@@ -19,10 +16,12 @@
     "10 (Oct 1918)", 
     "1918 (executed 1917)"
   ], 
+  "ArtistID": 5313, 
+  "Title": "Bridge (Br\u00fccke) (plate, loose leaf) from the periodical Das Kunstblatt, vol. 2, no. 10 (Oct 1918)", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "683.1949", 
+  "Date": "1918 (executed 1917)", 
   "ArtistBio": "(German, 1891\u20131919)", 
-  "DateAcquired": "1949-09-29", 
-  "\ufeffTitle": "Bridge (Br\u00fccke) (plate, loose leaf) from the periodical Das Kunstblatt, vol. 2, no. 10 (Oct 1918)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "73108"
 }

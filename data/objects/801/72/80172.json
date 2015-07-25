@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Henri Rousseau", 
   "URL": "http://www.moma.org/collection/works/80172", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Mrs. Simon Guggenheim", 
-  "Date": "1897", 
-  "ArtistID": 5056, 
+  "DateAcquired": "1939-12-08", 
   "Keywords": [
-    "online art collection", 
     "Henri Rousseau", 
     "The Sleeping Gypsy", 
     "1897"
   ], 
+  "ArtistID": 5056, 
+  "Title": "The Sleeping Gypsy", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "646.1939", 
+  "Date": "1897", 
   "ArtistBio": "(French, 1844\u20131910)", 
-  "DateAcquired": "1939-12-08", 
-  "\ufeffTitle": "The Sleeping Gypsy", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80172"
 }

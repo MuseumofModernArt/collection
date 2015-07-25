@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Philip Pearlstein", 
   "URL": "http://www.moma.org/collection/works/80150", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Mr. and Mrs. Stephen B. Booke", 
-  "Date": "1967", 
-  "ArtistID": 4529, 
+  "DateAcquired": "1973-12-31", 
   "Keywords": [
-    "online art collection", 
     "Philip Pearlstein", 
     "Two Female Models in the Studio", 
     "1967"
   ], 
+  "ArtistID": 4529, 
+  "Title": "Two Female Models in the Studio", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "634.1973", 
+  "Date": "1967", 
   "ArtistBio": "(American, born 1924)", 
-  "DateAcquired": "1973-12-31", 
-  "\ufeffTitle": "Two Female Models in the Studio", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80150"
 }

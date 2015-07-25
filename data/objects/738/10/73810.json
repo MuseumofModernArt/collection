@@ -4,12 +4,9 @@
   "Classification": "Print", 
   "Artist": "Emil Nolde", 
   "URL": "http://www.moma.org/collection/works/73810", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Mr. and Mrs. Carroll Cartwright", 
-  "Date": "(1907)", 
-  "ArtistID": 4327, 
+  "DateAcquired": "1956-12-19", 
   "Keywords": [
-    "online art collection", 
     "Emil Nolde", 
     "Head with Pipe", 
     "E,N", 
@@ -17,10 +14,12 @@
     "E,N,)", 
     "(1907)"
   ], 
+  "ArtistID": 4327, 
+  "Title": "Head with Pipe, E.N. (Kopf mit Pfeife, E.N.)", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "754.1956", 
+  "Date": "(1907)", 
   "ArtistBio": "(German, 1867\u20131956)", 
-  "DateAcquired": "1956-12-19", 
-  "\ufeffTitle": "Head with Pipe, E.N. (Kopf mit Pfeife, E.N.)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "73810"
 }

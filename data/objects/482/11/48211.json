@@ -4,21 +4,20 @@
   "Classification": "Photograph", 
   "Artist": "Achille Quinet", 
   "URL": "http://www.moma.org/collection/works/48211", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Benjamin Zeller Memorial Fund", 
-  "Date": "1875", 
-  "ArtistID": 4772, 
+  "DateAcquired": "1983-01-13", 
   "Keywords": [
-    "online art collection", 
     "Achille Quinet", 
     "Cascades de St", 
     "Cloud", 
     "1875"
   ], 
+  "ArtistID": 4772, 
+  "Title": "Cascades de St. Cloud", 
   "Department": "Photography", 
   "MoMANumber": "194.1983", 
+  "Date": "1875", 
   "ArtistBio": "(French, died 1900)", 
-  "DateAcquired": "1983-01-13", 
-  "\ufeffTitle": "Cascades de St. Cloud", 
+  "CuratorApproved": "Y", 
   "ObjectID": "48211"
 }

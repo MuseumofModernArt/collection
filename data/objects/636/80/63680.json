@@ -4,21 +4,20 @@
   "Classification": "Print", 
   "Artist": "Carlos Irizarry", 
   "URL": "http://www.moma.org/collection/works/63680", 
-  "CuratorApproved": "Y", 
   "CreditLine": "San Juan Racing Association Fund", 
-  "Date": "1970", 
-  "ArtistID": 2825, 
+  "DateAcquired": "1970-05-12", 
   "Keywords": [
-    "online art collection", 
     "Carlos Irizarry", 
     "My Son", 
     "the Soldier (Parts I-II)", 
     "1970"
   ], 
+  "ArtistID": 2825, 
+  "Title": "My Son, the Soldier (Parts I-II)", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "176.1970.1-2", 
+  "Date": "1970", 
   "ArtistBio": "(American, born Puerto Rico 1938)", 
-  "DateAcquired": "1970-05-12", 
-  "\ufeffTitle": "My Son, the Soldier (Parts I-II)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "63680"
 }

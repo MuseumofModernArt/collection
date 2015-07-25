@@ -4,12 +4,9 @@
   "Classification": "A&D Mies van der Rohe Archive", 
   "Artist": "Ludwig Mies van der Rohe", 
   "URL": "http://www.moma.org/collection/works/87314", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Mies van der Rohe Archive, gift of the architect\r\n", 
-  "Date": "c. 1942-46", 
-  "ArtistID": 7166, 
+  "DateAcquired": "", 
   "Keywords": [
-    "online art collection", 
     "Ludwig Mies van der Rohe", 
     "IIT Master Plan", 
     "Chicago", 
@@ -18,10 +15,12 @@
     "c", 
     "1942-46"
   ], 
+  "ArtistID": 7166, 
+  "Title": "IIT Master Plan, Chicago, Illinois, \"Technology Center.\"  Site plan", 
   "Department": "Architecture & Design", 
   "MoMANumber": "MR4000.254", 
+  "Date": "c. 1942-46", 
   "ArtistBio": "(American, born Germany. 1886\u20131969)", 
-  "DateAcquired": "", 
-  "\ufeffTitle": "IIT Master Plan, Chicago, Illinois, \"Technology Center.\"  Site plan", 
+  "CuratorApproved": "Y", 
   "ObjectID": "87314"
 }

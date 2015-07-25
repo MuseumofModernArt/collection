@@ -4,21 +4,20 @@
   "Classification": "Painting", 
   "Artist": "Henri Matisse", 
   "URL": "http://www.moma.org/collection/works/79588", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Mr. and Mrs. Samuel A. Marx", 
-  "Date": "Issy-les-Moulineaux, late 1915 and fall 1916", 
-  "ArtistID": 3832, 
+  "DateAcquired": "1955-06-19", 
   "Keywords": [
-    "online art collection", 
     "Henri Matisse", 
     "The Moroccans", 
     "Issy-les-Moulineaux", 
     "late 1915 and fall 1916"
   ], 
+  "ArtistID": 3832, 
+  "Title": "The Moroccans", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "386.1955", 
+  "Date": "Issy-les-Moulineaux, late 1915 and fall 1916", 
   "ArtistBio": "(French, 1869\u20131954)", 
-  "DateAcquired": "1955-06-19", 
-  "\ufeffTitle": "The Moroccans", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79588"
 }

@@ -4,20 +4,19 @@
   "Classification": "A&D Design", 
   "Artist": "Marcel Breuer", 
   "URL": "http://www.moma.org/collection/works/4464", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1936", 
-  "ArtistID": 769, 
+  "DateAcquired": "1942-01-01", 
   "Keywords": [
-    "online art collection", 
     "Marcel Breuer", 
     "Stacking Tables", 
     "1936"
   ], 
+  "ArtistID": 769, 
+  "Title": "Stacking Tables", 
   "Department": "Architecture & Design", 
   "MoMANumber": "837.1942.1-3", 
+  "Date": "1936", 
   "ArtistBio": "(American, born Hungary. 1902\u20131981)", 
-  "DateAcquired": "1942-01-01", 
-  "\ufeffTitle": "Stacking Tables", 
+  "CuratorApproved": "Y", 
   "ObjectID": "4464"
 }

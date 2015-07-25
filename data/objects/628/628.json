@@ -4,12 +4,9 @@
   "Classification": "A&D Architectural Drawing", 
   "Artist": "Louis I. Kahn", 
   "URL": "http://www.moma.org/collection/works/628", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the architect", 
-  "Date": "1965", 
-  "ArtistID": 2964, 
+  "DateAcquired": "1967-04-11", 
   "Keywords": [
-    "online art collection", 
     "Louis I", 
     "Kahn", 
     "Philadelphia College of Art", 
@@ -19,10 +16,12 @@
     "Elevation sketches of library tower", 
     "1965"
   ], 
+  "ArtistID": 2964, 
+  "Title": "Philadelphia College of Art, project, Philadelphia, Pennsylvania, Elevation sketches of library tower", 
   "Department": "Architecture & Design", 
   "MoMANumber": "431.1967", 
+  "Date": "1965", 
   "ArtistBio": "(American, born Estonia. 1901\u20131974)", 
-  "DateAcquired": "1967-04-11", 
-  "\ufeffTitle": "Philadelphia College of Art, project, Philadelphia, Pennsylvania, Elevation sketches of library tower", 
+  "CuratorApproved": "Y", 
   "ObjectID": "628"
 }

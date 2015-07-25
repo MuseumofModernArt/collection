@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Roni Horn", 
   "URL": "http://www.moma.org/collection/works/100280", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Edward R. Broida", 
-  "Date": "1991", 
-  "ArtistID": 7503, 
+  "DateAcquired": "2005-10-06", 
   "Keywords": [
-    "online art collection", 
     "Roni Horn", 
     "Stevens' Bouquet", 
     "1991"
   ], 
+  "ArtistID": 7503, 
+  "Title": "Stevens' Bouquet", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "740.2005.a-f", 
+  "Date": "1991", 
   "ArtistBio": "(American, born 1955)", 
-  "DateAcquired": "2005-10-06", 
-  "\ufeffTitle": "Stevens' Bouquet", 
+  "CuratorApproved": "Y", 
   "ObjectID": "100280"
 }

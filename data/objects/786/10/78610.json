@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Richard Tuttle", 
   "URL": "http://www.moma.org/collection/works/78610", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Marcia Riklis Fund", 
-  "Date": "1994", 
-  "ArtistID": 5983, 
+  "DateAcquired": "1997-02-10", 
   "Keywords": [
-    "online art collection", 
     "Richard Tuttle", 
     "Whiteness 6", 
     "1994"
   ], 
+  "ArtistID": 5983, 
+  "Title": "Whiteness 6", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "45.1997.a-u", 
+  "Date": "1994", 
   "ArtistBio": "(American, born 1941)", 
-  "DateAcquired": "1997-02-10", 
-  "\ufeffTitle": "Whiteness 6", 
+  "CuratorApproved": "Y", 
   "ObjectID": "78610"
 }

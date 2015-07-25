@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Robert Motherwell", 
   "URL": "http://www.moma.org/collection/works/79500", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Renate Ponsold Motherwell", 
-  "Date": "1941-44", 
-  "ArtistID": 4126, 
+  "DateAcquired": "1985-10-25", 
   "Keywords": [
-    "online art collection", 
     "Robert Motherwell", 
     "The Little Spanish Prison", 
     "1941-44"
   ], 
+  "ArtistID": 4126, 
+  "Title": "The Little Spanish Prison", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "343.1985", 
+  "Date": "1941-44", 
   "ArtistBio": "(American, 1915\u20131991)", 
-  "DateAcquired": "1985-10-25", 
-  "\ufeffTitle": "The Little Spanish Prison", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79500"
 }

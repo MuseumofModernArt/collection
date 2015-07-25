@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Agnes Martin", 
   "URL": "http://www.moma.org/collection/works/79892", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Fractional and promised gift of Michael and Judy Ovitz", 
-  "Date": "1997", 
-  "ArtistID": 3787, 
+  "DateAcquired": "1998-07-01", 
   "Keywords": [
-    "online art collection", 
     "Agnes Martin", 
     "With My Back to the World", 
     "1997"
   ], 
+  "ArtistID": 3787, 
+  "Title": "With My Back to the World", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "514.1998.a-f", 
+  "Date": "1997", 
   "ArtistBio": "(American, born Canada. 1912\u20132004)", 
-  "DateAcquired": "1998-07-01", 
-  "\ufeffTitle": "With My Back to the World", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79892"
 }

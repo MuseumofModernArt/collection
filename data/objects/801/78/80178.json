@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Frank Stella", 
   "URL": "http://www.moma.org/collection/works/80178", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Lita Hornick", 
-  "Date": "1964", 
-  "ArtistID": 5640, 
+  "DateAcquired": "1997-12-16", 
   "Keywords": [
-    "online art collection", 
     "Frank Stella", 
     "Fez (2)", 
     "1964"
   ], 
+  "ArtistID": 5640, 
+  "Title": "Fez (2)", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "647.1997", 
+  "Date": "1964", 
   "ArtistBio": "(American, born 1936)", 
-  "DateAcquired": "1997-12-16", 
-  "\ufeffTitle": "Fez (2)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80178"
 }

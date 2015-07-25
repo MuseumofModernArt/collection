@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "James Rosenquist", 
   "URL": "http://www.moma.org/collection/works/79880", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Philip Johnson", 
-  "Date": "1985", 
-  "ArtistID": 5021, 
+  "DateAcquired": "1998-06-11", 
   "Keywords": [
-    "online art collection", 
     "James Rosenquist", 
     "Lady Dog Lizard", 
     "1985"
   ], 
+  "ArtistID": 5021, 
+  "Title": "Lady Dog Lizard", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "510.1998.a-b", 
+  "Date": "1985", 
   "ArtistBio": "(American, born 1933)", 
-  "DateAcquired": "1998-06-11", 
-  "\ufeffTitle": "Lady Dog Lizard", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79880"
 }

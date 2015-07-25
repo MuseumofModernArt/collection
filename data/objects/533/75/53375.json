@@ -4,21 +4,20 @@
   "Classification": "Photograph", 
   "Artist": "Lee Friedlander", 
   "URL": "http://www.moma.org/collection/works/53375", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1974", 
-  "ArtistID": 2002, 
+  "DateAcquired": "2000-10-12", 
   "Keywords": [
-    "online art collection", 
     "Lee Friedlander", 
     "Taos", 
     "New Mexico", 
     "1974"
   ], 
+  "ArtistID": 2002, 
+  "Title": "Taos, New Mexico", 
   "Department": "Photography", 
   "MoMANumber": "438.2000", 
+  "Date": "1974", 
   "ArtistBio": "(American, born 1934)", 
-  "DateAcquired": "2000-10-12", 
-  "\ufeffTitle": "Taos, New Mexico", 
+  "CuratorApproved": "Y", 
   "ObjectID": "53375"
 }

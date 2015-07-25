@@ -4,12 +4,9 @@
   "Classification": "Print", 
   "Artist": "Various Artists, Sol LeWitt, Mel Bochner, Dan Graham, Richard Long, Christo (Christo Javacheff), Jan Dibbets, Tom Gormley, Douglas Huebler, Allan Kaprow, Joseph Kosuth, Andy Warhol, Robert Morris, Bruce Nauman, Dennis Oppenheim, Robert Rauschenberg, Edward Ruscha, Robert Smithson, Bernar Venet, Michael Kirby", 
   "URL": "http://www.moma.org/collection/works/65469", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Kynaston McShine", 
-  "Date": "1970", 
-  "ArtistID": 6104, 
+  "DateAcquired": "1984-10-02", 
   "Keywords": [
-    "online art collection", 
     "Various Artists with Sol LeWitt", 
     "Mel Bochner", 
     "Dan Graham", 
@@ -31,10 +28,12 @@
     "Artists & Photographs", 
     "Published 1970"
   ], 
+  "ArtistID": 6104, 
+  "Title": "Artists & Photographs", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "261.1984.1-19", 
+  "Date": "1970", 
   "ArtistBio": "(Various) (American, 1928\u20132007) (American, born 1940) (American, born 1942) (British, born 1945) (American, born Bulgaria 1935) (Dutch, born 1941) (American, born 1937) (American, 1924\u20131997) (American, 1927\u20132006) (American, born 1945) (American, 1928\u20131987) (American, born 1931) (American, born 1941) (American, 1938\u20132011) (American, 1925\u20132008) (American, born 1937) (American, 1938\u20131973) (French, born 1941) (American, born 1931)", 
-  "DateAcquired": "1984-10-02", 
-  "\ufeffTitle": "Artists & Photographs", 
+  "CuratorApproved": "Y", 
   "ObjectID": "65469"
 }

@@ -4,12 +4,9 @@
   "Classification": "Print", 
   "Artist": "Various Artists, Andy Warhol, Claes Oldenburg, David Novros, Forrest Myers, Robert Rauschenberg, John Chamberlain", 
   "URL": "http://www.moma.org/collection/works/62272", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Ruth Waldhauer", 
-  "Date": "1969", 
-  "ArtistID": 6104, 
+  "DateAcquired": "1993-05-03", 
   "Keywords": [
-    "online art collection", 
     "Various Artists with Andy Warhol", 
     "Claes Oldenburg", 
     "David Novros", 
@@ -18,10 +15,12 @@
     "The Moon Museum", 
     "1969"
   ], 
+  "ArtistID": 6104, 
+  "Title": "The Moon Museum", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "124.1993", 
+  "Date": "1969", 
   "ArtistBio": "(Various) (American, 1928\u20131987) (American, born Sweden 1929) (American, born 1941) (American, born 1941) (American, 1925\u20132008) (American, 1927\u20132011)", 
-  "DateAcquired": "1993-05-03", 
-  "\ufeffTitle": "The Moon Museum", 
+  "CuratorApproved": "Y", 
   "ObjectID": "62272"
 }

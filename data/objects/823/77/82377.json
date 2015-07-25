@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Roy Lichtenstein", 
   "URL": "http://www.moma.org/collection/works/82377", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Fractional gift of Mr. and Mrs. Donald G. Fisher in honor of Kirk Varnedoe", 
-  "Date": "1962", 
-  "ArtistID": 3542, 
+  "DateAcquired": "2001-11-12", 
   "Keywords": [
-    "online art collection", 
     "Roy Lichtenstein", 
     "Tire", 
     "1962"
   ], 
+  "ArtistID": 3542, 
+  "Title": "Tire", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "2471.2001", 
+  "Date": "1962", 
   "ArtistBio": "(American, 1923\u20131997)", 
-  "DateAcquired": "2001-11-12", 
-  "\ufeffTitle": "Tire", 
+  "CuratorApproved": "Y", 
   "ObjectID": "82377"
 }

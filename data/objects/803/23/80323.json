@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Al Held", 
   "URL": "http://www.moma.org/collection/works/80323", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The Sidney and Harriet Janis Collection (by exchange)", 
-  "Date": "1967", 
-  "ArtistID": 2583, 
+  "DateAcquired": "1998-12-07", 
   "Keywords": [
-    "online art collection", 
     "Al Held", 
     "Mao", 
     "1967"
   ], 
+  "ArtistID": 2583, 
+  "Title": "Mao", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "741.1998", 
+  "Date": "1967", 
   "ArtistBio": "(American, 1928\u20132005)", 
-  "DateAcquired": "1998-12-07", 
-  "\ufeffTitle": "Mao", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80323"
 }

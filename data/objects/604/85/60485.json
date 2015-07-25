@@ -4,21 +4,20 @@
   "Classification": "Print", 
   "Artist": "Andy Warhol", 
   "URL": "http://www.moma.org/collection/works/60485", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Mr. and Mrs. Arnold Smoller in memory of Esta Josephs", 
-  "Date": "1980\u201383", 
-  "ArtistID": 6246, 
+  "DateAcquired": "1985-01-30", 
   "Keywords": [
-    "online art collection", 
     "Andy Warhol", 
     "Joseph Beuys", 
     "State II", 
     "(1980-83)"
   ], 
+  "ArtistID": 6246, 
+  "Title": "Joseph Beuys, State II", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "31.1985", 
+  "Date": "1980\u201383", 
   "ArtistBio": "(American, 1928\u20131987)", 
-  "DateAcquired": "1985-01-30", 
-  "\ufeffTitle": "Joseph Beuys, State II", 
+  "CuratorApproved": "Y", 
   "ObjectID": "60485"
 }

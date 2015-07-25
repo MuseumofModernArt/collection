@@ -4,12 +4,9 @@
   "Classification": "A&D Graphic Design", 
   "Artist": "Roman Cieslewicz", 
   "URL": "http://www.moma.org/collection/works/7655", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the designer", 
-  "Date": "1980", 
-  "ArtistID": 1125, 
+  "DateAcquired": "1981-12-10", 
   "Keywords": [
-    "online art collection", 
     "Roman Cieslewicz", 
     "J,M,K", 
     "Wscieklica", 
@@ -18,10 +15,12 @@
     "Teatr Maty", 
     "1980"
   ], 
+  "ArtistID": 1125, 
+  "Title": "J.M.K. Wscieklica, St.I. Witkiewica, Teatr Maty", 
   "Department": "Architecture & Design", 
   "MoMANumber": "592.1981", 
+  "Date": "1980", 
   "ArtistBio": "(French, born Poland. 1930\u20131996)", 
-  "DateAcquired": "1981-12-10", 
-  "\ufeffTitle": "J.M.K. Wscieklica, St.I. Witkiewica, Teatr Maty", 
+  "CuratorApproved": "Y", 
   "ObjectID": "7655"
 }

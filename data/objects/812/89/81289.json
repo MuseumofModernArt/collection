@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Laura Ziegler", 
   "URL": "http://www.moma.org/collection/works/81289", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Blanchette Hooker Rockefeller Fund", 
-  "Date": "1954", 
-  "ArtistID": 6566, 
+  "DateAcquired": "1956-10-09", 
   "Keywords": [
-    "online art collection", 
     "Laura Ziegler", 
     "Man with a Pickax", 
     "1954"
   ], 
+  "ArtistID": 6566, 
+  "Title": "Man with a Pickax", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "285.1956", 
+  "Date": "1954", 
   "ArtistBio": "(American, born 1927)", 
-  "DateAcquired": "1956-10-09", 
-  "\ufeffTitle": "Man with a Pickax", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81289"
 }

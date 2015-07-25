@@ -4,21 +4,20 @@
   "Classification": "Print", 
   "Artist": "Christian Rohlfs", 
   "URL": "http://www.moma.org/collection/works/60555", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Matthew T. Mellon Foundation Fund", 
-  "Date": "(c. 1912)", 
-  "ArtistID": 5000, 
+  "DateAcquired": "1962-01-09", 
   "Keywords": [
-    "online art collection", 
     "Christian Rohlfs", 
     "Three Heads (Drei K&ouml;pfe)", 
     "(c", 
     "1912)"
   ], 
+  "ArtistID": 5000, 
+  "Title": "Three Heads (Drei K\u00f6pfe)", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "34.1962", 
+  "Date": "(c. 1912)", 
   "ArtistBio": "(German, 1849\u20131938)", 
-  "DateAcquired": "1962-01-09", 
-  "\ufeffTitle": "Three Heads (Drei K\u00f6pfe)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "60555"
 }

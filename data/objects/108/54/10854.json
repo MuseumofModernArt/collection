@@ -4,12 +4,9 @@
   "Classification": "Illustrated Book", 
   "Artist": "Various Artists, Willem de Kooning, Elaine de Kooning, Alex Katz, Jane Freilicher, Jim Dine, Larry Rivers, R. B. Kitaj, Richard Avedon", 
   "URL": "http://www.moma.org/collection/works/10854", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Given anonymously in memory of Arnold and Miriam Elkind", 
-  "Date": "1984", 
-  "ArtistID": 6104, 
+  "DateAcquired": "1995-01-24", 
   "Keywords": [
-    "online art collection", 
     "Various Artists with Willem de Kooning", 
     "Elaine De Kooning", 
     "Alex Katz", 
@@ -22,10 +19,12 @@
     "Self-Portrait in a Convex Mirror", 
     "1984"
   ], 
+  "ArtistID": 6104, 
+  "Title": "Self-Portrait in a Convex Mirror", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "59.1995.1-8", 
+  "Date": "1984", 
   "ArtistBio": "(American) (American, born the Netherlands. 1904\u20131997) (American, 1920\u20131989) (American, born 1927) (American, born 1924) (American, born 1935) (American, 1923\u20132002) (American, 1932\u20132007) (American, 1923\u20132004)", 
-  "DateAcquired": "1995-01-24", 
-  "\ufeffTitle": "Self-Portrait in a Convex Mirror", 
+  "CuratorApproved": "Y", 
   "ObjectID": "10854"
 }

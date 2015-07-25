@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Lovis Corinth", 
   "URL": "http://www.moma.org/collection/works/64885", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Given anonymously", 
-  "Date": "(1908)", 
-  "ArtistID": 1243, 
+  "DateAcquired": "1952-11-07", 
   "Keywords": [
-    "online art collection", 
     "Lovis Corinth", 
     "Headpiece for Elektra: Sheet of Music (Elektra: Notenblatt)", 
     "(1908)"
   ], 
+  "ArtistID": 1243, 
+  "Title": "Headpiece for Elektra: Sheet of Music (Elektra: Notenblatt)", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "233.1952", 
+  "Date": "(1908)", 
   "ArtistBio": "(German, 1858\u20131925)", 
-  "DateAcquired": "1952-11-07", 
-  "\ufeffTitle": "Headpiece for Elektra: Sheet of Music (Elektra: Notenblatt)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "64885"
 }

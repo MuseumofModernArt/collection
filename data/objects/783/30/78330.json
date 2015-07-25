@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Edward Hopper", 
   "URL": "http://www.moma.org/collection/works/78330", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Given anonymously", 
-  "Date": "1925", 
-  "ArtistID": 2726, 
+  "DateAcquired": "1930-01-12", 
   "Keywords": [
-    "online art collection", 
     "Edward Hopper", 
     "House by the Railroad", 
     "1925"
   ], 
+  "ArtistID": 2726, 
+  "Title": "House by the Railroad", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "3.1930", 
+  "Date": "1925", 
   "ArtistBio": "(American, 1882\u20131967)", 
-  "DateAcquired": "1930-01-12", 
-  "\ufeffTitle": "House by the Railroad", 
+  "CuratorApproved": "Y", 
   "ObjectID": "78330"
 }

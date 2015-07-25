@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "George Segal", 
   "URL": "http://www.moma.org/collection/works/81741", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The Sidney and Harriet Janis Collection", 
-  "Date": "1967", 
-  "ArtistID": 5316, 
+  "DateAcquired": "1967-10-18", 
   "Keywords": [
-    "online art collection", 
     "George Segal", 
     "Portrait of Sidney Janis with Mondrian Painting", 
     "1967"
   ], 
+  "ArtistID": 5316, 
+  "Title": "Portrait of Sidney Janis with Mondrian Painting", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "653.1967.a-b", 
+  "Date": "1967", 
   "ArtistBio": "(American, 1924\u20132000)", 
-  "DateAcquired": "1967-10-18", 
-  "\ufeffTitle": "Portrait of Sidney Janis with Mondrian Painting", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81741"
 }

@@ -4,12 +4,9 @@
   "Classification": "Photograph", 
   "Artist": "P. H. Caswell", 
   "URL": "http://www.moma.org/collection/works/54784", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "c. 1894", 
-  "ArtistID": 1035, 
+  "DateAcquired": "1970-10-27", 
   "Keywords": [
-    "online art collection", 
     "P", 
     "H", 
     "Caswell", 
@@ -19,10 +16,12 @@
     "c", 
     "1894"
   ], 
+  "ArtistID": 1035, 
+  "Title": "Kinsley Building, Newport, Rhode Island", 
   "Department": "Photography", 
   "MoMANumber": "532.1970", 
+  "Date": "c. 1894", 
   "ArtistBio": "(American)", 
-  "DateAcquired": "1970-10-27", 
-  "\ufeffTitle": "Kinsley Building, Newport, Rhode Island", 
+  "CuratorApproved": "Y", 
   "ObjectID": "54784"
 }

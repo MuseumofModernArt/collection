@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Fernand L\u00e9ger", 
   "URL": "http://www.moma.org/collection/works/79039", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Katherine S. Dreier Bequest", 
-  "Date": "1918", 
-  "ArtistID": 6624, 
+  "DateAcquired": "1953-04-07", 
   "Keywords": [
-    "online art collection", 
     "Fernand L&eacute;ger", 
     "Propellers", 
     "1918"
   ], 
+  "ArtistID": 6624, 
+  "Title": "Propellers", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "171.1953", 
+  "Date": "1918", 
   "ArtistBio": "(French, 1881\u20131955)", 
-  "DateAcquired": "1953-04-07", 
-  "\ufeffTitle": "Propellers", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79039"
 }

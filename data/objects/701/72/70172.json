@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Max Beckmann", 
   "URL": "http://www.moma.org/collection/works/70172", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Given anonymously", 
-  "Date": "(1922)", 
-  "ArtistID": 429, 
+  "DateAcquired": "1942-11-19", 
   "Keywords": [
-    "online art collection", 
     "Max Beckmann", 
     "Self-Portrait (Selbstbildnis)", 
     "(1922)"
   ], 
+  "ArtistID": 429, 
+  "Title": "Self-Portrait (Selbstbildnis)", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "501.1942", 
+  "Date": "(1922)", 
   "ArtistBio": "(German, 1884\u20131950)", 
-  "DateAcquired": "1942-11-19", 
-  "\ufeffTitle": "Self-Portrait (Selbstbildnis)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "70172"
 }

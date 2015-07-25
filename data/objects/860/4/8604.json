@@ -4,21 +4,20 @@
   "Classification": "A&D Graphic Design", 
   "Artist": "Wim Crouwel", 
   "URL": "http://www.moma.org/collection/works/8604", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the designer", 
-  "Date": "1969", 
-  "ArtistID": 1314, 
+  "DateAcquired": "1969-12-01", 
   "Keywords": [
-    "online art collection", 
     "Wim Crouwel", 
     "Visuele Communicatie Nederland", 
     "Stedelijk Museum Amsterdam", 
     "1969"
   ], 
+  "ArtistID": 1314, 
+  "Title": "Visuele Communicatie Nederland, Stedelijk Museum Amsterdam", 
   "Department": "Architecture & Design", 
   "MoMANumber": "1128.1969", 
+  "Date": "1969", 
   "ArtistBio": "(Dutch, born 1928)", 
-  "DateAcquired": "1969-12-01", 
-  "\ufeffTitle": "Visuele Communicatie Nederland, Stedelijk Museum Amsterdam", 
+  "CuratorApproved": "Y", 
   "ObjectID": "8604"
 }

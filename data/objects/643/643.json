@@ -4,12 +4,9 @@
   "Classification": "A&D Architectural Drawing", 
   "Artist": "Louis I. Kahn", 
   "URL": "http://www.moma.org/collection/works/643", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1958", 
-  "ArtistID": 2964, 
+  "DateAcquired": "1987-11-18", 
   "Keywords": [
-    "online art collection", 
     "Louis I", 
     "Kahn", 
     "Mr", 
@@ -20,10 +17,12 @@
     "Perspective", 
     "1958"
   ], 
+  "ArtistID": 2964, 
+  "Title": "Mr. and Mrs. Lawrence Morris House, Mount Kisco, New York, Perspective", 
   "Department": "Architecture & Design", 
   "MoMANumber": "438.1987", 
+  "Date": "1958", 
   "ArtistBio": "(American, born Estonia. 1901\u20131974)", 
-  "DateAcquired": "1987-11-18", 
-  "\ufeffTitle": "Mr. and Mrs. Lawrence Morris House, Mount Kisco, New York, Perspective", 
+  "CuratorApproved": "Y", 
   "ObjectID": "643"
 }

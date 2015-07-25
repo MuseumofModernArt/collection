@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Roy Lichtenstein", 
   "URL": "http://www.moma.org/collection/works/81637", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Mr. and Mrs. Richard L. Selle", 
-  "Date": "1967", 
-  "ArtistID": 3542, 
+  "DateAcquired": "1976-12-07", 
   "Keywords": [
-    "online art collection", 
     "Roy Lichtenstein", 
     "Modern Sculpture with Glass Wave", 
     "1967"
   ], 
+  "ArtistID": 3542, 
+  "Title": "Modern Sculpture with Glass Wave", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "597.1976.a-k", 
+  "Date": "1967", 
   "ArtistBio": "(American, 1923\u20131997)", 
-  "DateAcquired": "1976-12-07", 
-  "\ufeffTitle": "Modern Sculpture with Glass Wave", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81637"
 }

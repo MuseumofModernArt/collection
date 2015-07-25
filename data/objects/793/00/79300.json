@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Piet Mondrian", 
   "URL": "http://www.moma.org/collection/works/79300", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Acquired through the Lillie P. Bliss Bequest", 
-  "Date": "1920", 
-  "ArtistID": 4057, 
+  "DateAcquired": "1948-10-06", 
   "Keywords": [
-    "online art collection", 
     "Piet Mondrian", 
     "Composition C", 
     "1920"
   ], 
+  "ArtistID": 4057, 
+  "Title": "Composition C", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "257.1948", 
+  "Date": "1920", 
   "ArtistBio": "(Dutch, 1872\u20131944)", 
-  "DateAcquired": "1948-10-06", 
-  "\ufeffTitle": "Composition C", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79300"
 }

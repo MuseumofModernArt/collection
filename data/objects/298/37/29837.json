@@ -4,22 +4,21 @@
   "Classification": "Illustrated Book", 
   "Artist": "Pablo Picasso", 
   "URL": "http://www.moma.org/collection/works/29837", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The Louis E. Stern Collection", 
-  "Date": "1949, published 1950", 
-  "ArtistID": 4609, 
+  "DateAcquired": "1964-10-06", 
   "Keywords": [
-    "online art collection", 
     "Pablo Picasso", 
     "Face (plate", 
     "page 101) from Corps Perdu", 
     "1949", 
     "published 1950"
   ], 
+  "ArtistID": 4609, 
+  "Title": "Face (plate, page 101) from Corps Perdu", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "995.1964.28", 
+  "Date": "1949, published 1950", 
   "ArtistBio": "(Spanish, 1881\u20131973)", 
-  "DateAcquired": "1964-10-06", 
-  "\ufeffTitle": "Face (plate, page 101) from Corps Perdu", 
+  "CuratorApproved": "Y", 
   "ObjectID": "29837"
 }

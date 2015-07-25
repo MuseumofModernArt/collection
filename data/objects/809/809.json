@@ -4,12 +4,9 @@
   "Classification": "A&D Architectural Drawing", 
   "Artist": "R. Buckminster Fuller", 
   "URL": "http://www.moma.org/collection/works/809", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of The Howard Gilman Foundation", 
-  "Date": "c. 1930", 
-  "ArtistID": 2030, 
+  "DateAcquired": "2000-10-31", 
   "Keywords": [
-    "online art collection", 
     "R", 
     "Buckminster Fuller", 
     "A Dymaxion Home", 
@@ -20,10 +17,12 @@
     "c", 
     "1930"
   ], 
+  "ArtistID": 2030, 
+  "Title": "A Dymaxion Home, project , Elevation, axonometric, and plan", 
   "Department": "Architecture & Design", 
   "MoMANumber": "1198.2000", 
+  "Date": "c. 1930", 
   "ArtistBio": "(American, 1895\u20131983)", 
-  "DateAcquired": "2000-10-31", 
-  "\ufeffTitle": "A Dymaxion Home, project , Elevation, axonometric, and plan", 
+  "CuratorApproved": "Y", 
   "ObjectID": "809"
 }

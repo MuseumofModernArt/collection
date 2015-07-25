@@ -4,12 +4,9 @@
   "Classification": "A&D Architectural Drawing", 
   "Artist": "Diller + Scofidio, Elizabeth Diller, Ricardo Scofidio", 
   "URL": "http://www.moma.org/collection/works/201", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Marshall Cogan Purchase Fund and Jeffrey P. Klein Purchase Fund", 
-  "Date": "1989", 
-  "ArtistID": 8707, 
+  "DateAcquired": "1992-01-15", 
   "Keywords": [
-    "online art collection", 
     "Diller + Scofidio", 
     "Elizabeth Diller and Ricardo Scofidio", 
     "Slow House Project", 
@@ -18,10 +15,12 @@
     "Plan of lower-level and sections", 
     "1989"
   ], 
+  "ArtistID": 8707, 
+  "Title": "Slow House Project, North Haven, New York, Plan of lower-level and sections", 
   "Department": "Architecture & Design", 
   "MoMANumber": "107.1992", 
+  "Date": "1989", 
   "ArtistBio": "(American, established 1979) (American, born Poland 1954) (American, born 1935)", 
-  "DateAcquired": "1992-01-15", 
-  "\ufeffTitle": "Slow House Project, North Haven, New York, Plan of lower-level and sections", 
+  "CuratorApproved": "Y", 
   "ObjectID": "201"
 }

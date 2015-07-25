@@ -4,12 +4,9 @@
   "Classification": "A&D Architectural Drawing", 
   "Artist": "Louis I. Kahn", 
   "URL": "http://www.moma.org/collection/works/585", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the architect", 
-  "Date": "1961", 
-  "ArtistID": 2964, 
+  "DateAcquired": "1964-04-14", 
   "Keywords": [
-    "online art collection", 
     "Louis I", 
     "Kahn", 
     "General Motors Exhibit", 
@@ -20,10 +17,12 @@
     "Elevation and plans", 
     "1961"
   ], 
+  "ArtistID": 2964, 
+  "Title": "General Motors Exhibit, 1964 World's Fair, project, New York (Queens), New York, Elevation and plans", 
   "Department": "Architecture & Design", 
   "MoMANumber": "416.1964", 
+  "Date": "1961", 
   "ArtistBio": "(American, born Estonia. 1901\u20131974)", 
-  "DateAcquired": "1964-04-14", 
-  "\ufeffTitle": "General Motors Exhibit, 1964 World's Fair, project, New York (Queens), New York, Elevation and plans", 
+  "CuratorApproved": "Y", 
   "ObjectID": "585"
 }

@@ -4,21 +4,20 @@
   "Classification": "Painting", 
   "Artist": "Piet Mondrian", 
   "URL": "http://www.moma.org/collection/works/79812", 
-  "CuratorApproved": "Y", 
   "CreditLine": "A. Conger Goodyear Fund", 
-  "Date": "1909", 
-  "ArtistID": 4057, 
+  "DateAcquired": "1986-01-13", 
   "Keywords": [
-    "online art collection", 
     "Piet Mondrian", 
     "View from the Dunes with Beach and Piers", 
     "Domburg", 
     "1909"
   ], 
+  "ArtistID": 4057, 
+  "Title": "View from the Dunes with Beach and Piers, Domburg", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "479.1985", 
+  "Date": "1909", 
   "ArtistBio": "(Dutch, 1872\u20131944)", 
-  "DateAcquired": "1986-01-13", 
-  "\ufeffTitle": "View from the Dunes with Beach and Piers, Domburg", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79812"
 }

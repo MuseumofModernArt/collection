@@ -4,12 +4,9 @@
   "Classification": "A&D Architectural Model", 
   "Artist": "Rem Koolhaas, Gro Bonesmo, Jeroen Thomas", 
   "URL": "http://www.moma.org/collection/works/975", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Given anonymously", 
-  "Date": "1993", 
-  "ArtistID": 6955, 
+  "DateAcquired": "1996-04-09", 
   "Keywords": [
-    "online art collection", 
     "O,M,A", 
     "(Office for Metropolitan Architecture)", 
     "Principal architects: Rem Koolhaas", 
@@ -19,10 +16,12 @@
     "The Netherlands", 
     "1993"
   ], 
+  "ArtistID": 6955, 
+  "Title": "A Dutch House, Holten, The Netherlands", 
   "Department": "Architecture & Design", 
   "MoMANumber": "102.1996", 
+  "Date": "1993", 
   "ArtistBio": "(Dutch, born 1944) (Norwegian, born 1963) (Dutch, born 1952)", 
-  "DateAcquired": "1996-04-09", 
-  "\ufeffTitle": "A Dutch House, Holten, The Netherlands", 
+  "CuratorApproved": "Y", 
   "ObjectID": "975"
 }

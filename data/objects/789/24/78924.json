@@ -4,21 +4,20 @@
   "Classification": "Painting", 
   "Artist": "Jean Dubuffet", 
   "URL": "http://www.moma.org/collection/works/78924", 
-  "CuratorApproved": "Y", 
   "CreditLine": "William H. Weintraub Fund", 
-  "Date": "November 1946", 
-  "ArtistID": 1633, 
+  "DateAcquired": "1985-04-08", 
   "Keywords": [
-    "online art collection", 
     "Jean Dubuffet", 
     "L&eacute;autaud", 
     "Redskin-Sorcerer", 
     "November 1946"
   ], 
+  "ArtistID": 1633, 
+  "Title": "L\u00e9autaud, Redskin-Sorcerer", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "129.1985", 
+  "Date": "November 1946", 
   "ArtistBio": "(French, 1901\u20131985)", 
-  "DateAcquired": "1985-04-08", 
-  "\ufeffTitle": "L\u00e9autaud, Redskin-Sorcerer", 
+  "CuratorApproved": "Y", 
   "ObjectID": "78924"
 }

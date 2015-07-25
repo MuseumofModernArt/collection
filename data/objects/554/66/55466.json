@@ -4,22 +4,21 @@
   "Classification": "Photograph", 
   "Artist": "Judith Joy Ross", 
   "URL": "http://www.moma.org/collection/works/55466", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Acquired through the generosity of Shirley C. Burden", 
-  "Date": "1987", 
-  "ArtistID": 5030, 
+  "DateAcquired": "1987-12-10", 
   "Keywords": [
-    "online art collection", 
     "Judith Joy Ross", 
     "Senator Strom Thurmond", 
     "Republican", 
     "South Carolina", 
     "1987"
   ], 
+  "ArtistID": 5030, 
+  "Title": "Senator Strom Thurmond, Republican, South Carolina", 
   "Department": "Photography", 
   "MoMANumber": "595.1987", 
+  "Date": "1987", 
   "ArtistBio": "(American, born 1946)", 
-  "DateAcquired": "1987-12-10", 
-  "\ufeffTitle": "Senator Strom Thurmond, Republican, South Carolina", 
+  "CuratorApproved": "Y", 
   "ObjectID": "55466"
 }

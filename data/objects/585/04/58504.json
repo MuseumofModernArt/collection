@@ -4,20 +4,19 @@
   "Classification": "Photograph", 
   "Artist": "Acme News Pictures", 
   "URL": "http://www.moma.org/collection/works/58504", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The New York Times Collection", 
-  "Date": "1931", 
-  "ArtistID": 8504, 
+  "DateAcquired": "2001-06-14", 
   "Keywords": [
-    "online art collection", 
     "Acme News Pictures", 
     "Scottsboro Boys", 
     "1931"
   ], 
+  "ArtistID": 8504, 
+  "Title": "Scottsboro Boys", 
   "Department": "Photography", 
   "MoMANumber": "1921.2001", 
+  "Date": "1931", 
   "ArtistBio": "", 
-  "DateAcquired": "2001-06-14", 
-  "\ufeffTitle": "Scottsboro Boys", 
+  "CuratorApproved": "Y", 
   "ObjectID": "58504"
 }

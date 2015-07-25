@@ -4,22 +4,21 @@
   "Classification": "A&D Graphic Design", 
   "Artist": "Unknown Artist", 
   "URL": "http://www.moma.org/collection/works/7915", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Galerie Friederich & Dahlem, Munich", 
-  "Date": "1966", 
-  "ArtistID": 6026, 
+  "DateAcquired": "1966-12-06", 
   "Keywords": [
-    "online art collection", 
     "Unknown Artist", 
     "Sequenzen", 
     "Wolfram Erber", 
     "Lenz Geiger", 
     "1966"
   ], 
+  "ArtistID": 6026, 
+  "Title": "Sequenzen, Wolfram Erber, Lenz Geiger", 
   "Department": "Architecture & Design", 
   "MoMANumber": "679.1966", 
+  "Date": "1966", 
   "ArtistBio": "(Nationality Unknown)", 
-  "DateAcquired": "1966-12-06", 
-  "\ufeffTitle": "Sequenzen, Wolfram Erber, Lenz Geiger", 
+  "CuratorApproved": "Y", 
   "ObjectID": "7915"
 }

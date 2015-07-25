@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Susan Rothenberg", 
   "URL": "http://www.moma.org/collection/works/78514", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of UBS", 
-  "Date": "1985", 
-  "ArtistID": 5044, 
+  "DateAcquired": "1986-01-13", 
   "Keywords": [
-    "online art collection", 
     "Susan Rothenberg", 
     "Biker", 
     "1985"
   ], 
+  "ArtistID": 5044, 
+  "Title": "Biker", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "26.1986", 
+  "Date": "1985", 
   "ArtistBio": "(American, born 1945)", 
-  "DateAcquired": "1986-01-13", 
-  "\ufeffTitle": "Biker", 
+  "CuratorApproved": "Y", 
   "ObjectID": "78514"
 }

@@ -4,21 +4,20 @@
   "Classification": "Painting", 
   "Artist": "Henri Matisse", 
   "URL": "http://www.moma.org/collection/works/80350", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Louise Reinhardt Smith Bequest", 
-  "Date": "Collioure, summer 1911", 
-  "ArtistID": 3832, 
+  "DateAcquired": "1995-12-12", 
   "Keywords": [
-    "online art collection", 
     "Henri Matisse", 
     "Still Life with Aubergines", 
     "Collioure", 
     "summer 1911"
   ], 
+  "ArtistID": 3832, 
+  "Title": "Still Life with Aubergines", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "782.1995", 
+  "Date": "Collioure, summer 1911", 
   "ArtistBio": "(French, 1869\u20131954)", 
-  "DateAcquired": "1995-12-12", 
-  "\ufeffTitle": "Still Life with Aubergines", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80350"
 }

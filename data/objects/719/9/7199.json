@@ -4,20 +4,19 @@
   "Classification": "A&D Graphic Design", 
   "Artist": "Charles Kuhn", 
   "URL": "http://www.moma.org/collection/works/7199", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Given anonymously", 
-  "Date": "1944", 
-  "ArtistID": 3285, 
+  "DateAcquired": "1987-11-18", 
   "Keywords": [
-    "online art collection", 
     "Charles Kuhn", 
     "Labyrinthe", 
     "1944"
   ], 
+  "ArtistID": 3285, 
+  "Title": "Labyrinthe", 
   "Department": "Architecture & Design", 
   "MoMANumber": "484.1987", 
+  "Date": "1944", 
   "ArtistBio": "(Swiss, born 1903)", 
-  "DateAcquired": "1987-11-18", 
-  "\ufeffTitle": "Labyrinthe", 
+  "CuratorApproved": "Y", 
   "ObjectID": "7199"
 }

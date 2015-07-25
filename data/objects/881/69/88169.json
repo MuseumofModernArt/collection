@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Felix Gonzalez-Torres", 
   "URL": "http://www.moma.org/collection/works/88169", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Carolyn Alexander", 
-  "Date": "1987", 
-  "ArtistID": 2233, 
+  "DateAcquired": "2003-05-12", 
   "Keywords": [
-    "online art collection", 
     "Felix Gonzalez-Torres", 
     "\"Untitled\"", 
     "1987"
   ], 
+  "ArtistID": 2233, 
+  "Title": "\"Untitled\"", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "75.2003", 
+  "Date": "1987", 
   "ArtistBio": "(American, born Cuba. 1957\u20131996)", 
-  "DateAcquired": "2003-05-12", 
-  "\ufeffTitle": "\"Untitled\"", 
+  "CuratorApproved": "Y", 
   "ObjectID": "88169"
 }

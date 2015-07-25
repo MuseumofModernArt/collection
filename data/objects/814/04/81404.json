@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Paul Thek", 
   "URL": "http://www.moma.org/collection/works/81404", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Neil Jenney in honor of Ann Wilson", 
-  "Date": "1965", 
-  "ArtistID": 6637, 
+  "DateAcquired": "1991-12-09", 
   "Keywords": [
-    "online art collection", 
     "Paul Thek", 
     "Hippopotamus Poison", 
     "1965"
   ], 
+  "ArtistID": 6637, 
+  "Title": "Hippopotamus Poison", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "375.1991", 
+  "Date": "1965", 
   "ArtistBio": "(American, 1933\u20131988)", 
-  "DateAcquired": "1991-12-09", 
-  "\ufeffTitle": "Hippopotamus Poison", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81404"
 }

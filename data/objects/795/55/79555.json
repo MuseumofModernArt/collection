@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "David Salle", 
   "URL": "http://www.moma.org/collection/works/79555", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Douglas S. Cramer Foundation", 
-  "Date": "1985", 
-  "ArtistID": 5124, 
+  "DateAcquired": "1991-12-09", 
   "Keywords": [
-    "online art collection", 
     "David Salle", 
     "Muscular Paper", 
     "1985"
   ], 
+  "ArtistID": 5124, 
+  "Title": "Muscular Paper", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "373.1991.a-c", 
+  "Date": "1985", 
   "ArtistBio": "(American, born 1952)", 
-  "DateAcquired": "1991-12-09", 
-  "\ufeffTitle": "Muscular Paper", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79555"
 }

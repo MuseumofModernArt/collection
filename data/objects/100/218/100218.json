@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Vija Celmins", 
   "URL": "http://www.moma.org/collection/works/100218", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Edward R. Broida", 
-  "Date": "1965", 
-  "ArtistID": 1048, 
+  "DateAcquired": "2005-10-06", 
   "Keywords": [
-    "online art collection", 
     "Vija Celmins", 
     "House #1", 
     "1965"
   ], 
+  "ArtistID": 1048, 
+  "Title": "House #1", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "670.2005.a-b", 
+  "Date": "1965", 
   "ArtistBio": "(American, born Latvia 1938)", 
-  "DateAcquired": "2005-10-06", 
-  "\ufeffTitle": "House #1", 
+  "CuratorApproved": "Y", 
   "ObjectID": "100218"
 }

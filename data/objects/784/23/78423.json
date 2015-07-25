@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Max Ernst", 
   "URL": "http://www.moma.org/collection/works/78423", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase and exchange", 
-  "Date": "1941", 
-  "ArtistID": 1752, 
+  "DateAcquired": "1942-01-27", 
   "Keywords": [
-    "online art collection", 
     "Max Ernst", 
     "Napoleon in the Wilderness", 
     "1941"
   ], 
+  "ArtistID": 1752, 
+  "Title": "Napoleon in the Wilderness", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "12.1942", 
+  "Date": "1941", 
   "ArtistBio": "(French, born Germany. 1891\u20131976)", 
-  "DateAcquired": "1942-01-27", 
-  "\ufeffTitle": "Napoleon in the Wilderness", 
+  "CuratorApproved": "Y", 
   "ObjectID": "78423"
 }

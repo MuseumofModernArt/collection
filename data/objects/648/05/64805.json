@@ -4,12 +4,9 @@
   "Classification": "Print", 
   "Artist": "Lovis Corinth", 
   "URL": "http://www.moma.org/collection/works/64805", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Given anonymously", 
-  "Date": "(1916)", 
-  "ArtistID": 1243, 
+  "DateAcquired": "1952-11-07", 
   "Keywords": [
-    "online art collection", 
     "Lovis Corinth", 
     "Untitled (plate 3", 
     "chapter IV", 
@@ -17,10 +14,12 @@
     "John (Die Offenbarung Johannis)", 
     "(1916)"
   ], 
+  "ArtistID": 1243, 
+  "Title": "Untitled (plate 3, chapter IV, verses 1-10) for the portfolio The Revelation of St. John (Die Offenbarung Johannis)", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "230.1952", 
+  "Date": "(1916)", 
   "ArtistBio": "(German, 1858\u20131925)", 
-  "DateAcquired": "1952-11-07", 
-  "\ufeffTitle": "Untitled (plate 3, chapter IV, verses 1-10) for the portfolio The Revelation of St. John (Die Offenbarung Johannis)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "64805"
 }

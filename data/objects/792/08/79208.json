@@ -4,21 +4,20 @@
   "Classification": "Painting", 
   "Artist": "Patrick Henry Bruce", 
   "URL": "http://www.moma.org/collection/works/79208", 
-  "CuratorApproved": "Y", 
   "CreditLine": "G. David Thompson, Mrs. Herbert M. Dreyfus, Harry J. Rudick, Willi Baumeister, Edward James, and Mr. and Mrs. Gerald Murphy Funds", 
-  "Date": "c. 1929-30", 
-  "ArtistID": 821, 
+  "DateAcquired": "1978-03-09", 
   "Keywords": [
-    "online art collection", 
     "Patrick Henry Bruce", 
     "Painting", 
     "c", 
     "1929-30"
   ], 
+  "ArtistID": 821, 
+  "Title": "Painting", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "230.1978", 
+  "Date": "c. 1929-30", 
   "ArtistBio": "(American, 1881\u20131936)", 
-  "DateAcquired": "1978-03-09", 
-  "\ufeffTitle": "Painting", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79208"
 }

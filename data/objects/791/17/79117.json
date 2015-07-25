@@ -4,21 +4,20 @@
   "Classification": "Painting", 
   "Artist": "Henri Matisse", 
   "URL": "http://www.moma.org/collection/works/79117", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Mr. and Mrs. John Hay Whitney", 
-  "Date": "Issy-les-Moulineaux, spring-summer 1912", 
-  "ArtistID": 3832, 
+  "DateAcquired": "1955-10-10", 
   "Keywords": [
-    "online art collection", 
     "Henri Matisse", 
     "Goldfish and Sculpture", 
     "Issy-les-Moulineaux", 
     "spring-summer 1912"
   ], 
+  "ArtistID": 3832, 
+  "Title": "Goldfish and Sculpture", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "199.1955", 
+  "Date": "Issy-les-Moulineaux, spring-summer 1912", 
   "ArtistBio": "(French, 1869\u20131954)", 
-  "DateAcquired": "1955-10-10", 
-  "\ufeffTitle": "Goldfish and Sculpture", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79117"
 }

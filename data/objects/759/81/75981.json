@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Edvard Munch", 
   "URL": "http://www.moma.org/collection/works/75981", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The William B. Jaffe and Evelyn A.J. Hall Collection", 
-  "Date": "1899", 
-  "ArtistID": 4164, 
+  "DateAcquired": "1968-10-10", 
   "Keywords": [
-    "online art collection", 
     "Edvard Munch", 
     "Aske II (Ashes II)", 
     "1899"
   ], 
+  "ArtistID": 4164, 
+  "Title": "Ashes II (Aske II)", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "1191.1968", 
+  "Date": "1899", 
   "ArtistBio": "(Norwegian, 1863\u20131944)", 
-  "DateAcquired": "1968-10-10", 
-  "\ufeffTitle": "Ashes II (Aske II)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "75981"
 }

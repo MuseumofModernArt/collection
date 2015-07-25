@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Eva Hesse", 
   "URL": "http://www.moma.org/collection/works/81402", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The Gilman Foundation Fund", 
-  "Date": "1969", 
-  "ArtistID": 2623, 
+  "DateAcquired": "1975-12-09", 
   "Keywords": [
-    "online art collection", 
     "Eva Hesse", 
     "Vinculum II", 
     "1969"
   ], 
+  "ArtistID": 2623, 
+  "Title": "Vinculum II", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "374.1975", 
+  "Date": "1969", 
   "ArtistBio": "(American, born Germany. 1936\u20131970)", 
-  "DateAcquired": "1975-12-09", 
-  "\ufeffTitle": "Vinculum II", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81402"
 }

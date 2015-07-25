@@ -4,20 +4,19 @@
   "Classification": "A&D Design", 
   "Artist": "Neal Small", 
   "URL": "http://www.moma.org/collection/works/4616", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Lily Auchincloss Fund", 
-  "Date": "1968", 
-  "ArtistID": 5475, 
+  "DateAcquired": "1968-10-07", 
   "Keywords": [
-    "online art collection", 
     "Neal Small", 
     "Cocktail Table (model 5031)", 
     "1968"
   ], 
+  "ArtistID": 5475, 
+  "Title": "Cocktail Table (model 5031)", 
   "Department": "Architecture & Design", 
   "MoMANumber": "1234.1968", 
+  "Date": "1968", 
   "ArtistBio": "(American, born 1937)", 
-  "DateAcquired": "1968-10-07", 
-  "\ufeffTitle": "Cocktail Table (model 5031)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "4616"
 }

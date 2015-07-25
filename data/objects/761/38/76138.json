@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "John Marin", 
   "URL": "http://www.moma.org/collection/works/76138", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Abby Aldrich Rockefeller", 
-  "Date": "1931", 
-  "ArtistID": 3770, 
+  "DateAcquired": "1940-04-05", 
   "Keywords": [
-    "online art collection", 
     "John Marin", 
     "Approach to the Bridge", 
     "1931"
   ], 
+  "ArtistID": 3770, 
+  "Title": "Approach to the Bridge", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "1236.1940", 
+  "Date": "1931", 
   "ArtistBio": "(American, 1870\u20131953)", 
-  "DateAcquired": "1940-04-05", 
-  "\ufeffTitle": "Approach to the Bridge", 
+  "CuratorApproved": "Y", 
   "ObjectID": "76138"
 }

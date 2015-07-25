@@ -4,12 +4,9 @@
   "Classification": "Photograph", 
   "Artist": "David Goldblatt", 
   "URL": "http://www.moma.org/collection/works/55089", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "8 July 1990", 
-  "ArtistID": 2214, 
+  "DateAcquired": "1998-10-15", 
   "Keywords": [
-    "online art collection", 
     "David Goldblatt", 
     "A Man Building His House on His Own Plot of Ground", 
     "Marselle Township", 
@@ -17,10 +14,12 @@
     "Eastern Cape", 
     "8 July 1990"
   ], 
+  "ArtistID": 2214, 
+  "Title": "A Man Building His House on His Own Plot of Ground, Marselle Township, Kenton-on-Sea, Eastern Cape", 
   "Department": "Photography", 
   "MoMANumber": "555.1998", 
+  "Date": "8 July 1990", 
   "ArtistBio": "(South African, born 1930)", 
-  "DateAcquired": "1998-10-15", 
-  "\ufeffTitle": "A Man Building His House on His Own Plot of Ground, Marselle Township, Kenton-on-Sea, Eastern Cape", 
+  "CuratorApproved": "Y", 
   "ObjectID": "55089"
 }

@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Bob Kane", 
   "URL": "http://www.moma.org/collection/works/100284", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Edward R. Broida", 
-  "Date": "1983", 
-  "ArtistID": 2983, 
+  "DateAcquired": "2005-10-06", 
   "Keywords": [
-    "online art collection", 
     "Bob Kane", 
     "Terrace Positano", 
     "1983"
   ], 
+  "ArtistID": 2983, 
+  "Title": "Terrace Positano", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "744.2005", 
+  "Date": "1983", 
   "ArtistBio": "(American, 1937\u20132013)", 
-  "DateAcquired": "2005-10-06", 
-  "\ufeffTitle": "Terrace Positano", 
+  "CuratorApproved": "Y", 
   "ObjectID": "100284"
 }

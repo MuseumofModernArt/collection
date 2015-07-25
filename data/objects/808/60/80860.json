@@ -4,21 +4,20 @@
   "Classification": "Sculpture", 
   "Artist": "Auguste Rodin", 
   "URL": "http://www.moma.org/collection/works/80860", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Mrs. Simon Guggenheim Fund", 
-  "Date": "1878-80 (cast 1921)", 
-  "ArtistID": 4978, 
+  "DateAcquired": "1955-04-06", 
   "Keywords": [
-    "online art collection", 
     "Auguste Rodin", 
     "St", 
     "John the Baptist Preaching", 
     "1878-80 (cast 1921)"
   ], 
+  "ArtistID": 4978, 
+  "Title": "St. John the Baptist Preaching", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "27.1955", 
+  "Date": "1878-80 (cast 1921)", 
   "ArtistBio": "(French, 1840\u20131917)", 
-  "DateAcquired": "1955-04-06", 
-  "\ufeffTitle": "St. John the Baptist Preaching", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80860"
 }

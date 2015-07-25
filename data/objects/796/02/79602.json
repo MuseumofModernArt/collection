@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Peter Blume", 
   "URL": "http://www.moma.org/collection/works/79602", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Abby Aldrich Rockefeller", 
-  "Date": "1939", 
-  "ArtistID": 617, 
+  "DateAcquired": "1941-03-20", 
   "Keywords": [
-    "online art collection", 
     "Peter Blume", 
     "Landscape with Poppies", 
     "1939"
   ], 
+  "ArtistID": 617, 
+  "Title": "Landscape with Poppies", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "391.1941", 
+  "Date": "1939", 
   "ArtistBio": "(American, 1906\u20131992)", 
-  "DateAcquired": "1941-03-20", 
-  "\ufeffTitle": "Landscape with Poppies", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79602"
 }

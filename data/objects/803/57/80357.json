@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Pablo Picasso", 
   "URL": "http://www.moma.org/collection/works/80357", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Louise Reinhardt Smith Bequest", 
-  "Date": "winter 1908-09", 
-  "ArtistID": 4609, 
+  "DateAcquired": "1995-12-12", 
   "Keywords": [
-    "online art collection", 
     "Pablo Picasso", 
     "Bather", 
     "winter 1908-09"
   ], 
+  "ArtistID": 4609, 
+  "Title": "Bather", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "786.1995", 
+  "Date": "winter 1908-09", 
   "ArtistBio": "(Spanish, 1881\u20131973)", 
-  "DateAcquired": "1995-12-12", 
-  "\ufeffTitle": "Bather", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80357"
 }

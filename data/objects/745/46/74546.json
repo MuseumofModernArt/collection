@@ -4,12 +4,9 @@
   "Classification": "Print", 
   "Artist": "Various Artists, Robert Stanley, Philip Pearlstein, Malcolm Morley, Alex Katz, John Clem Clarke, Jack Beal", 
   "URL": "http://www.moma.org/collection/works/74546", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Carolyn and Brooke Alexander", 
-  "Date": "(1969)", 
-  "ArtistID": 6104, 
+  "DateAcquired": "1979-01-23", 
   "Keywords": [
-    "online art collection", 
     "Various Artists with Robert Stanley", 
     "Philip Pearlstein", 
     "Malcolm Morley", 
@@ -18,10 +15,12 @@
     "Six New York Artists", 
     "(1969)"
   ], 
+  "ArtistID": 6104, 
+  "Title": "Six New York Artists", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "871.1978.1-6", 
+  "Date": "(1969)", 
   "ArtistBio": "(Various) (American, 1932\u20131997) (American, born 1924) (American, born Great Britain 1931) (American, born 1927) (American, born 1937) (American,1931\u20132013)", 
-  "DateAcquired": "1979-01-23", 
-  "\ufeffTitle": "Six New York Artists", 
+  "CuratorApproved": "Y", 
   "ObjectID": "74546"
 }

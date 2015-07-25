@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Pierre Soulages", 
   "URL": "http://www.moma.org/collection/works/78892", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Acquired through the Lillie P. Bliss Bequest", 
-  "Date": "1948-49", 
-  "ArtistID": 5538, 
+  "DateAcquired": "1984-03-20", 
   "Keywords": [
-    "online art collection", 
     "Pierre Soulages", 
     "Painting", 
     "1948-49"
   ], 
+  "ArtistID": 5538, 
+  "Title": "Painting", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "120.1984", 
+  "Date": "1948-49", 
   "ArtistBio": "(French, born 1919)", 
-  "DateAcquired": "1984-03-20", 
-  "\ufeffTitle": "Painting", 
+  "CuratorApproved": "Y", 
   "ObjectID": "78892"
 }

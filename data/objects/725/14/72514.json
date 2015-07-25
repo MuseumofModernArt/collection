@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Robert Rauschenberg", 
   "URL": "http://www.moma.org/collection/works/72514", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Emily Fisher Landau", 
-  "Date": "1990", 
-  "ArtistID": 4823, 
+  "DateAcquired": "1990-12-31", 
   "Keywords": [
-    "online art collection", 
     "Robert Rauschenberg", 
     "Soviet/American Array IV", 
     "1990"
   ], 
+  "ArtistID": 4823, 
+  "Title": "Soviet/American Array IV", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "647.1990", 
+  "Date": "1990", 
   "ArtistBio": "(American, 1925\u20132008)", 
-  "DateAcquired": "1990-12-31", 
-  "\ufeffTitle": "Soviet/American Array IV", 
+  "CuratorApproved": "Y", 
   "ObjectID": "72514"
 }

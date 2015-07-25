@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Andy Warhol", 
   "URL": "http://www.moma.org/collection/works/81045", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Douglas S. Cramer Foundation", 
-  "Date": "1964", 
-  "ArtistID": 6246, 
+  "DateAcquired": "1997-04-07", 
   "Keywords": [
-    "online art collection", 
     "Andy Warhol", 
     "Campbell's Tomato Juice Box", 
     "1964"
   ], 
+  "ArtistID": 6246, 
+  "Title": "Campbell's Tomato Juice Box", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "157.1997", 
+  "Date": "1964", 
   "ArtistBio": "(American, 1928\u20131987)", 
-  "DateAcquired": "1997-04-07", 
-  "\ufeffTitle": "Campbell's Tomato Juice Box", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81045"
 }

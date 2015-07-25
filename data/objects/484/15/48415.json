@@ -4,20 +4,19 @@
   "Classification": "Photograph", 
   "Artist": "Michael Mandel", 
   "URL": "http://www.moma.org/collection/works/48415", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The Family of Man Fund", 
-  "Date": "1984", 
-  "ArtistID": 3719, 
+  "DateAcquired": "1985-05-29", 
   "Keywords": [
-    "online art collection", 
     "Michael Mandel", 
     "Emptying the Fridge", 
     "1984"
   ], 
+  "ArtistID": 3719, 
+  "Title": "Emptying the Fridge", 
   "Department": "Photography", 
   "MoMANumber": "203.1985", 
+  "Date": "1984", 
   "ArtistBio": "(American, born 1950)", 
-  "DateAcquired": "1985-05-29", 
-  "\ufeffTitle": "Emptying the Fridge", 
+  "CuratorApproved": "Y", 
   "ObjectID": "48415"
 }

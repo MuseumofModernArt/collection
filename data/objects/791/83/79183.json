@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "L\u00e1szl\u00f3 Moholy-Nagy", 
   "URL": "http://www.moma.org/collection/works/79183", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1936", 
-  "ArtistID": 4048, 
+  "DateAcquired": "1947-10-16", 
   "Keywords": [
-    "online art collection", 
     "L&aacute;szl&oacute; Moholy-Nagy", 
     "Space Modulator L3", 
     "1936"
   ], 
+  "ArtistID": 4048, 
+  "Title": "Space Modulator L3", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "223.1947", 
+  "Date": "1936", 
   "ArtistBio": "(American, born Hungary. 1895\u20131946)", 
-  "DateAcquired": "1947-10-16", 
-  "\ufeffTitle": "Space Modulator L3", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79183"
 }

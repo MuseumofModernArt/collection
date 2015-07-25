@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Justen Ladda", 
   "URL": "http://www.moma.org/collection/works/80851", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Given anonymously", 
-  "Date": "1985", 
-  "ArtistID": 3338, 
+  "DateAcquired": "1986-01-13", 
   "Keywords": [
-    "online art collection", 
     "Justen Ladda", 
     "Tide", 
     "1985"
   ], 
+  "ArtistID": 3338, 
+  "Title": "Tide", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "24.1986", 
+  "Date": "1985", 
   "ArtistBio": "(German, born 1953)", 
-  "DateAcquired": "1986-01-13", 
-  "\ufeffTitle": "Tide", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80851"
 }

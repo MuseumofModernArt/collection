@@ -4,21 +4,20 @@
   "Classification": "Print", 
   "Artist": "Max Beckmann", 
   "URL": "http://www.moma.org/collection/works/70148", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Given anonymously", 
-  "Date": "(1919, published 1920)", 
-  "ArtistID": 429, 
+  "DateAcquired": "1942-11-30", 
   "Keywords": [
-    "online art collection", 
     "Max Beckmann", 
     "Large Self-Portrait (Grosses Selbstbildnis)", 
     "(1919", 
     "published 1920)"
   ], 
+  "ArtistID": 429, 
+  "Title": "Large Self-Portrait (Grosses Selbstbildnis)", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "498.1942", 
+  "Date": "(1919, published 1920)", 
   "ArtistBio": "(German, 1884\u20131950)", 
-  "DateAcquired": "1942-11-30", 
-  "\ufeffTitle": "Large Self-Portrait (Grosses Selbstbildnis)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "70148"
 }

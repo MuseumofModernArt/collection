@@ -4,12 +4,9 @@
   "Classification": "A&D Architectural Drawing", 
   "Artist": "Steven Holl", 
   "URL": "http://www.moma.org/collection/works/169", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Edward Larrabee Barnes Purchase Fund", 
-  "Date": "1980", 
-  "ArtistID": 2702, 
+  "DateAcquired": "1989-05-16", 
   "Keywords": [
-    "online art collection", 
     "Steven Holl", 
     "Autonomous Artisans' House", 
     "project", 
@@ -18,10 +15,12 @@
     "Perspective", 
     "1980"
   ], 
+  "ArtistID": 2702, 
+  "Title": "Autonomous Artisans' House, project, Staten Island, New York, Perspective", 
   "Department": "Architecture & Design", 
   "MoMANumber": "86.1989", 
+  "Date": "1980", 
   "ArtistBio": "(American, born 1947)", 
-  "DateAcquired": "1989-05-16", 
-  "\ufeffTitle": "Autonomous Artisans' House, project, Staten Island, New York, Perspective", 
+  "CuratorApproved": "Y", 
   "ObjectID": "169"
 }

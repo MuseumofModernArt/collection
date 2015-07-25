@@ -4,20 +4,19 @@
   "Classification": "A&D Design", 
   "Artist": "Corning Glass Works", 
   "URL": "http://www.moma.org/collection/works/4448", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the manufacturer", 
-  "Date": "Before 1941", 
-  "ArtistID": 1249, 
+  "DateAcquired": "1941-12-01", 
   "Keywords": [
-    "online art collection", 
     "Corning Glass Works", 
     "Boiling Flask", 
     "Before 1941"
   ], 
+  "ArtistID": 1249, 
+  "Title": "Boiling Flask", 
   "Department": "Architecture & Design", 
   "MoMANumber": "791.1941", 
+  "Date": "Before 1941", 
   "ArtistBio": "(American, est. 1851)", 
-  "DateAcquired": "1941-12-01", 
-  "\ufeffTitle": "Boiling Flask", 
+  "CuratorApproved": "Y", 
   "ObjectID": "4448"
 }

@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "William Kurelek", 
   "URL": "http://www.moma.org/collection/works/79564", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the Women's Committee of the Art Gallery of Toronto", 
-  "Date": "1961", 
-  "ArtistID": 3305, 
+  "DateAcquired": "1961-12-13", 
   "Keywords": [
-    "online art collection", 
     "William Kurelek", 
     "Hailstorm in Alberta", 
     "1961"
   ], 
+  "ArtistID": 3305, 
+  "Title": "Hailstorm in Alberta", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "380.1961", 
+  "Date": "1961", 
   "ArtistBio": "(Canadian, 1927\u20131977)", 
-  "DateAcquired": "1961-12-13", 
-  "\ufeffTitle": "Hailstorm in Alberta", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79564"
 }

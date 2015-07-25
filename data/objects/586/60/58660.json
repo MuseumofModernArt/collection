@@ -4,21 +4,20 @@
   "Classification": "Photograph", 
   "Artist": "Cal Osbon", 
   "URL": "http://www.moma.org/collection/works/58660", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The New York Times Collection", 
-  "Date": "c. 1906", 
-  "ArtistID": 8592, 
+  "DateAcquired": "2001-06-14", 
   "Keywords": [
-    "online art collection", 
     "Cal Osbon", 
     "San Francisco After the Earthquake", 
     "c", 
     "1906"
   ], 
+  "ArtistID": 8592, 
+  "Title": "San Francisco After the Earthquake", 
   "Department": "Photography", 
   "MoMANumber": "2067.2001", 
+  "Date": "c. 1906", 
   "ArtistBio": "(American)", 
-  "DateAcquired": "2001-06-14", 
-  "\ufeffTitle": "San Francisco After the Earthquake", 
+  "CuratorApproved": "Y", 
   "ObjectID": "58660"
 }

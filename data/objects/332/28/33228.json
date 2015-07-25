@@ -4,20 +4,19 @@
   "Classification": "Drawing", 
   "Artist": "Alex Katz", 
   "URL": "http://www.moma.org/collection/works/33228", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Acquired with matching funds from The Lily Auchincloss Foundation, Inc. and the National Endowment for the Arts", 
-  "Date": "1974", 
-  "ArtistID": 3016, 
+  "DateAcquired": "1977-02-02", 
   "Keywords": [
-    "online art collection", 
     "Alex Katz", 
     "Boy with a Hat", 
     "1974"
   ], 
+  "ArtistID": 3016, 
+  "Title": "Boy with a Hat", 
   "Department": "Drawings", 
   "MoMANumber": "17.1977", 
+  "Date": "1974", 
   "ArtistBio": "(American, born 1927)", 
-  "DateAcquired": "1977-02-02", 
-  "\ufeffTitle": "Boy with a Hat", 
+  "CuratorApproved": "Y", 
   "ObjectID": "33228"
 }

@@ -4,12 +4,9 @@
   "Classification": "A&D Architectural Drawing", 
   "Artist": "Zaha Hadid", 
   "URL": "http://www.moma.org/collection/works/202", 
-  "CuratorApproved": "Y", 
   "CreditLine": "David Rockefeller, Jr. Fund", 
-  "Date": "1991", 
-  "ArtistID": 6953, 
+  "DateAcquired": "1992-01-15", 
   "Keywords": [
-    "online art collection", 
     "Zaha Hadid", 
     "The Peak Project", 
     "Kowloon", 
@@ -18,10 +15,12 @@
     "Exterior perspective", 
     "1991"
   ], 
+  "ArtistID": 6953, 
+  "Title": "The Peak Project, Kowloon, Hong Kong, China, Exterior perspective", 
   "Department": "Architecture & Design", 
   "MoMANumber": "108.1992", 
+  "Date": "1991", 
   "ArtistBio": "(British, born Iraq 1950)", 
-  "DateAcquired": "1992-01-15", 
-  "\ufeffTitle": "The Peak Project, Kowloon, Hong Kong, China, Exterior perspective", 
+  "CuratorApproved": "Y", 
   "ObjectID": "202"
 }

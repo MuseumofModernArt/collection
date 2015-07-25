@@ -4,12 +4,9 @@
   "Classification": "A&D Architectural Model", 
   "Artist": "Simon Ungers, Thomas Kinslow", 
   "URL": "http://www.moma.org/collection/works/997", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Agnes Gund Purchase Fund and David Childs Purchase Fund", 
-  "Date": "1988\u20131995", 
-  "ArtistID": 7992, 
+  "DateAcquired": "1998-04-22", 
   "Keywords": [
-    "online art collection", 
     "Simon Ungers with Thomas Kinslow", 
     "T-House", 
     "Wilton", 
@@ -17,10 +14,12 @@
     "Scale model", 
     "1988-92"
   ], 
+  "ArtistID": 7992, 
+  "Title": "T-House, Wilton, New York (Scale model)", 
   "Department": "Architecture & Design", 
   "MoMANumber": "193.1998", 
+  "Date": "1988\u20131995", 
   "ArtistBio": "(German, 1957\u20132006)", 
-  "DateAcquired": "1998-04-22", 
-  "\ufeffTitle": "T-House, Wilton, New York (Scale model)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "997"
 }

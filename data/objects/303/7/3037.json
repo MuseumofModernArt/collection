@@ -4,12 +4,9 @@
   "Classification": "A&D Design", 
   "Artist": "J.A. Henckels, Solingen, Germany", 
   "URL": "http://www.moma.org/collection/works/3037", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Edgar Kaufmann, Jr. Fund", 
-  "Date": "c. 1900", 
-  "ArtistID": 2589, 
+  "DateAcquired": "1944-11-08", 
   "Keywords": [
-    "online art collection", 
     "J,A", 
     "Henckels", 
     "Solingen", 
@@ -18,10 +15,12 @@
     "c", 
     "1900"
   ], 
+  "ArtistID": 2589, 
+  "Title": "Tailor Shears", 
   "Department": "Architecture & Design", 
   "MoMANumber": "247.1944", 
+  "Date": "c. 1900", 
   "ArtistBio": "(est. 1731)", 
-  "DateAcquired": "1944-11-08", 
-  "\ufeffTitle": "Tailor Shears", 
+  "CuratorApproved": "Y", 
   "ObjectID": "3037"
 }

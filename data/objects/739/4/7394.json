@@ -4,21 +4,20 @@
   "Classification": "A&D Graphic Design", 
   "Artist": "Leo Lionni", 
   "URL": "http://www.moma.org/collection/works/7394", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the Olivetti Corporation", 
-  "Date": "c. 1954", 
-  "ArtistID": 3562, 
+  "DateAcquired": "1954-09-30", 
   "Keywords": [
-    "online art collection", 
     "Leo Lionni", 
     "Olivetti Lettera 22", 
     "c", 
     "1954"
   ], 
+  "ArtistID": 3562, 
+  "Title": "Olivetti Lettera 22", 
   "Department": "Architecture & Design", 
   "MoMANumber": "524.1954.1-4", 
+  "Date": "c. 1954", 
   "ArtistBio": "(American, born Amsterdam. 1910\u20131999)", 
-  "DateAcquired": "1954-09-30", 
-  "\ufeffTitle": "Olivetti Lettera 22", 
+  "CuratorApproved": "Y", 
   "ObjectID": "7394"
 }

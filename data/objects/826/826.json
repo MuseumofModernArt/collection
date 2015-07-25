@@ -4,22 +4,21 @@
   "Classification": "A&D Architectural Drawing", 
   "Artist": "Leon Krier", 
   "URL": "http://www.moma.org/collection/works/826", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of The Howard Gilman Foundation", 
-  "Date": "1975", 
-  "ArtistID": 3250, 
+  "DateAcquired": "2000-10-31", 
   "Keywords": [
-    "online art collection", 
     "Leon Krier", 
     "House for Colin Rowe", 
     "project", 
     "Aerial axonometric", 
     "1975"
   ], 
+  "ArtistID": 3250, 
+  "Title": "House for Colin Rowe Project (Aerial axonometric view)", 
   "Department": "Architecture & Design", 
   "MoMANumber": "1215.2000", 
+  "Date": "1975", 
   "ArtistBio": "(Luxembourgish, born 1946)", 
-  "DateAcquired": "2000-10-31", 
-  "\ufeffTitle": "House for Colin Rowe Project (Aerial axonometric view)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "826"
 }

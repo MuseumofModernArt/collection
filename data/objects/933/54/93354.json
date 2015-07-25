@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Elizabeth Murray", 
   "URL": "http://www.moma.org/collection/works/93354", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Edward R. Broida", 
-  "Date": "1983", 
-  "ArtistID": 4185, 
+  "DateAcquired": "2005-10-06", 
   "Keywords": [
-    "online art collection", 
     "Elizabeth Murray", 
     "More than You Know", 
     "1983"
   ], 
+  "ArtistID": 4185, 
+  "Title": "More than You Know", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "749.2005", 
+  "Date": "1983", 
   "ArtistBio": "(American, 1940\u20132007)", 
-  "DateAcquired": "2005-10-06", 
-  "\ufeffTitle": "More than You Know", 
+  "CuratorApproved": "Y", 
   "ObjectID": "93354"
 }

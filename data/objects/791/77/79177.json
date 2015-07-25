@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Odilon Redon", 
   "URL": "http://www.moma.org/collection/works/79177", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of The Ian Woodner Family Collection", 
-  "Date": "after 1900", 
-  "ArtistID": 4840, 
+  "DateAcquired": "2000-04-10", 
   "Keywords": [
-    "online art collection", 
     "Odilon Redon", 
     "Trees in Bi&egrave;vres", 
     "after 1900"
   ], 
+  "ArtistID": 4840, 
+  "Title": "Trees in Bi\u00e8vres", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "220.2000", 
+  "Date": "after 1900", 
   "ArtistBio": "(French, 1840\u20131916)", 
-  "DateAcquired": "2000-04-10", 
-  "\ufeffTitle": "Trees in Bi\u00e8vres", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79177"
 }

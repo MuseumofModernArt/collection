@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Bill Woodrow", 
   "URL": "http://www.moma.org/collection/works/81127", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Jeanne C. Thayer, The Millstream, and Mrs. Frank Y. Larkin Funds and purchase", 
-  "Date": "1981", 
-  "ArtistID": 6446, 
+  "DateAcquired": "1989-10-10", 
   "Keywords": [
-    "online art collection", 
     "Bill Woodrow", 
     "Twin Tub with Chainsaw", 
     "1981"
   ], 
+  "ArtistID": 6446, 
+  "Title": "Twin Tub with Chainsaw", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "199.1989", 
+  "Date": "1981", 
   "ArtistBio": "(British, born 1948)", 
-  "DateAcquired": "1989-10-10", 
-  "\ufeffTitle": "Twin Tub with Chainsaw", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81127"
 }

@@ -4,20 +4,19 @@
   "Classification": "Photograph", 
   "Artist": "Abigail Perlmutter", 
   "URL": "http://www.moma.org/collection/works/51694", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1974", 
-  "ArtistID": 4562, 
+  "DateAcquired": "1974-06-04", 
   "Keywords": [
-    "online art collection", 
     "Abigail Perlmutter", 
     "Untitled", 
     "1974"
   ], 
+  "ArtistID": 4562, 
+  "Title": "Untitled", 
   "Department": "Photography", 
   "MoMANumber": "358.1974", 
+  "Date": "1974", 
   "ArtistBio": "(American, born 1950)", 
-  "DateAcquired": "1974-06-04", 
-  "\ufeffTitle": "Untitled", 
+  "CuratorApproved": "Y", 
   "ObjectID": "51694"
 }

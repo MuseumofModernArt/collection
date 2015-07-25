@@ -4,21 +4,20 @@
   "Classification": "Painting", 
   "Artist": "Francis Picabia", 
   "URL": "http://www.moma.org/collection/works/80659", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the Eugene and Agnes E. Meyer Collection, given by their family", 
-  "Date": "c. June-September 1912", 
-  "ArtistID": 4607, 
+  "DateAcquired": "1975-02-11", 
   "Keywords": [
-    "online art collection", 
     "Francis Picabia", 
     "Dances at the Spring", 
     "c", 
     "June-September 1912"
   ], 
+  "ArtistID": 4607, 
+  "Title": "Dances at the Spring", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "1412.1974", 
+  "Date": "c. June-September 1912", 
   "ArtistBio": "(French, 1879\u20131953)", 
-  "DateAcquired": "1975-02-11", 
-  "\ufeffTitle": "Dances at the Spring", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80659"
 }

@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Leonardo Cremonini", 
   "URL": "http://www.moma.org/collection/works/78358", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1952", 
-  "ArtistID": 1303, 
+  "DateAcquired": "1955-04-06", 
   "Keywords": [
-    "online art collection", 
     "Leonardo Cremonini", 
     "Enamored Tomcat", 
     "1952"
   ], 
+  "ArtistID": 1303, 
+  "Title": "Enamored Tomcat", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "5.1955", 
+  "Date": "1952", 
   "ArtistBio": "(Italian, 1925\u20132010)", 
-  "DateAcquired": "1955-04-06", 
-  "\ufeffTitle": "Enamored Tomcat", 
+  "CuratorApproved": "Y", 
   "ObjectID": "78358"
 }

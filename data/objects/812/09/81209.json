@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Man Ray (Emmanuel Radnitzky)", 
   "URL": "http://www.moma.org/collection/works/81209", 
-  "CuratorApproved": "Y", 
   "CreditLine": "James Thrall Soby Fund", 
-  "Date": "1964 (replica of 1923 original)", 
-  "ArtistID": 3716, 
+  "DateAcquired": "1966-04-12", 
   "Keywords": [
-    "online art collection", 
     "Man Ray", 
     "Indestructible Object (or Object to Be Destroyed)", 
     "1964 (replica of 1923 original)"
   ], 
+  "ArtistID": 3716, 
+  "Title": "Indestructible Object (or Object to Be Destroyed)", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "248.1966.a-e", 
+  "Date": "1964 (replica of 1923 original)", 
   "ArtistBio": "(American, 1890\u20131976)", 
-  "DateAcquired": "1966-04-12", 
-  "\ufeffTitle": "Indestructible Object (or Object to Be Destroyed)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81209"
 }

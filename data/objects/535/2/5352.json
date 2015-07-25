@@ -4,20 +4,19 @@
   "Classification": "A&D Graphic Design", 
   "Artist": "Robert Hardmeyer", 
   "URL": "http://www.moma.org/collection/works/5352", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Arthur Cohen Purchase Fund, the Edgar and Theresa Hyman Foundation Fund, and the Lord and Taylor Fund", 
-  "Date": "1904", 
-  "ArtistID": 2501, 
+  "DateAcquired": "1988-04-27", 
   "Keywords": [
-    "online art collection", 
     "Robert Hardmeyer", 
     "Waschanstalt Zurich AG", 
     "1904"
   ], 
+  "ArtistID": 2501, 
+  "Title": "Waschanstalt Zurich AG", 
   "Department": "Architecture & Design", 
   "MoMANumber": "156.1988", 
+  "Date": "1904", 
   "ArtistBio": "(Swiss, 1876\u20131919)", 
-  "DateAcquired": "1988-04-27", 
-  "\ufeffTitle": "Waschanstalt Zurich AG", 
+  "CuratorApproved": "Y", 
   "ObjectID": "5352"
 }

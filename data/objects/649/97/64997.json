@@ -4,21 +4,20 @@
   "Classification": "Print", 
   "Artist": "Vincent van Gogh", 
   "URL": "http://www.moma.org/collection/works/64997", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Mr. and Mrs. A. A. Rosen", 
-  "Date": "(April, 1885)", 
-  "ArtistID": 2206, 
+  "DateAcquired": "1963-04-09", 
   "Keywords": [
-    "online art collection", 
     "Vincent van Gogh", 
     "The Potato Eaters", 
     "(April", 
     "1885)"
   ], 
+  "ArtistID": 2206, 
+  "Title": "The Potato Eaters", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "239.1963", 
+  "Date": "(April, 1885)", 
   "ArtistBio": "(Dutch, 1853\u20131890)", 
-  "DateAcquired": "1963-04-09", 
-  "\ufeffTitle": "The Potato Eaters", 
+  "CuratorApproved": "Y", 
   "ObjectID": "64997"
 }

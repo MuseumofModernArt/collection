@@ -4,12 +4,9 @@
   "Classification": "A&D Architectural Drawing", 
   "Artist": "Peter Eisenman", 
   "URL": "http://www.moma.org/collection/works/799", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of The Howard Gilman Foundation", 
-  "Date": "1975", 
-  "ArtistID": 6969, 
+  "DateAcquired": "2000-10-31", 
   "Keywords": [
-    "online art collection", 
     "Peter Eisenman", 
     "House IV Project", 
     "Falls Village", 
@@ -17,10 +14,12 @@
     "Axonometrics", 
     "1975"
   ], 
+  "ArtistID": 6969, 
+  "Title": "House IV Project, Falls Village, Connecticut, Axonometrics", 
   "Department": "Architecture & Design", 
   "MoMANumber": "1188.2000", 
+  "Date": "1975", 
   "ArtistBio": "(American, born 1932)", 
-  "DateAcquired": "2000-10-31", 
-  "\ufeffTitle": "House IV Project, Falls Village, Connecticut, Axonometrics", 
+  "CuratorApproved": "Y", 
   "ObjectID": "799"
 }

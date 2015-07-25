@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Andy Warhol", 
   "URL": "http://www.moma.org/collection/works/82343", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the Jerry and Emily Spiegel Family Foundation in honor of Kirk Varnedoe", 
-  "Date": "1963", 
-  "ArtistID": 6246, 
+  "DateAcquired": "2001-11-12", 
   "Keywords": [
-    "online art collection", 
     "Andy Warhol", 
     "Double Elvis", 
     "1963"
   ], 
+  "ArtistID": 6246, 
+  "Title": "Double Elvis", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "2480.2001", 
+  "Date": "1963", 
   "ArtistBio": "(American, 1928\u20131987)", 
-  "DateAcquired": "2001-11-12", 
-  "\ufeffTitle": "Double Elvis", 
+  "CuratorApproved": "Y", 
   "ObjectID": "82343"
 }

@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Jean Dubuffet", 
   "URL": "http://www.moma.org/collection/works/79383", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Mrs. Sadie A. May", 
-  "Date": "1945", 
-  "ArtistID": 1633, 
+  "DateAcquired": "1949-05-26", 
   "Keywords": [
-    "online art collection", 
     "Jean Dubuffet", 
     "Snack for Two", 
     "1945"
   ], 
+  "ArtistID": 1633, 
+  "Title": "Snack for Two", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "280.1949", 
+  "Date": "1945", 
   "ArtistBio": "(French, 1901\u20131985)", 
-  "DateAcquired": "1949-05-26", 
-  "\ufeffTitle": "Snack for Two", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79383"
 }

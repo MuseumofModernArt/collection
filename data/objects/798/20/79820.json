@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "David Alfaro Siqueiros", 
   "URL": "http://www.moma.org/collection/works/79820", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Given anonymously", 
-  "Date": "1939", 
-  "ArtistID": 5454, 
+  "DateAcquired": "1941-06-10", 
   "Keywords": [
-    "online art collection", 
     "David Alfaro Siqueiros", 
     "The Sob", 
     "1939"
   ], 
+  "ArtistID": 5454, 
+  "Title": "The Sob", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "490.1941", 
+  "Date": "1939", 
   "ArtistBio": "(Mexican, 1896\u20131974)", 
-  "DateAcquired": "1941-06-10", 
-  "\ufeffTitle": "The Sob", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79820"
 }

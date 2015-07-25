@@ -4,12 +4,9 @@
   "Classification": "Photograph", 
   "Artist": "Rudy Burckhardt", 
   "URL": "http://www.moma.org/collection/works/45318", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Christopher Sweet", 
-  "Date": "1942-43", 
-  "ArtistID": 7653, 
+  "DateAcquired": "1993-03-11", 
   "Keywords": [
-    "online art collection", 
     "Rudy Burckhardt", 
     "Port of Spain", 
     "Trinidad", 
@@ -17,10 +14,12 @@
     "fruit in wooden boxes)", 
     "1942-43"
   ], 
+  "ArtistID": 7653, 
+  "Title": "Port of Spain, Trinidad. (basket, fruit in wooden boxes)", 
   "Department": "Photography", 
   "MoMANumber": "62.1993", 
+  "Date": "1942-43", 
   "ArtistBio": "(American, born Switzerland. 1914\u20131999)", 
-  "DateAcquired": "1993-03-11", 
-  "\ufeffTitle": "Port of Spain, Trinidad. (basket, fruit in wooden boxes)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "45318"
 }

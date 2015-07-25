@@ -4,12 +4,9 @@
   "Classification": "A&D Architectural Drawing", 
   "Artist": "Rodolfo Machado, Jorge Silvetti", 
   "URL": "http://www.moma.org/collection/works/828", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of The Howard Gilman Foundation", 
-  "Date": "1975", 
-  "ArtistID": 8114, 
+  "DateAcquired": "2000-10-31", 
   "Keywords": [
-    "online art collection", 
     "Rodolfo Machado and Jorge Silvetti", 
     "Fountain House", 
     "Generative Geometries", 
@@ -17,10 +14,12 @@
     "Plan", 
     "1975"
   ], 
+  "ArtistID": 8114, 
+  "Title": "Fountain House, Generative Geometries, project , Plan", 
   "Department": "Architecture & Design", 
   "MoMANumber": "1217.2000", 
+  "Date": "1975", 
   "ArtistBio": "(American, born Argentina 1942) (American, born Argentina 1942)", 
-  "DateAcquired": "2000-10-31", 
-  "\ufeffTitle": "Fountain House, Generative Geometries, project , Plan", 
+  "CuratorApproved": "Y", 
   "ObjectID": "828"
 }

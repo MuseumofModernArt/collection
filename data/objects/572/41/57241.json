@@ -4,20 +4,19 @@
   "Classification": "Photograph", 
   "Artist": "Sylvia Plachy", 
   "URL": "http://www.moma.org/collection/works/57241", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Benjamin Zeller Memorial Fund", 
-  "Date": "1965", 
-  "ArtistID": 4647, 
+  "DateAcquired": "1965-11-09", 
   "Keywords": [
-    "online art collection", 
     "Sylvia Plachy", 
     "The Confrontation", 
     "1965"
   ], 
+  "ArtistID": 4647, 
+  "Title": "The Confrontation", 
   "Department": "Photography", 
   "MoMANumber": "880.1965", 
+  "Date": "1965", 
   "ArtistBio": "(American, born Hungary 1943)", 
-  "DateAcquired": "1965-11-09", 
-  "\ufeffTitle": "The Confrontation", 
+  "CuratorApproved": "Y", 
   "ObjectID": "57241"
 }

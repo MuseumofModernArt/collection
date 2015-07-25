@@ -4,12 +4,9 @@
   "Classification": "A&D Graphic Design", 
   "Artist": "Ben Shahn", 
   "URL": "http://www.moma.org/collection/works/5262", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the designer", 
-  "Date": "1937", 
-  "ArtistID": 5366, 
+  "DateAcquired": "1947-06-17", 
   "Keywords": [
-    "online art collection", 
     "Ben Shahn", 
     "Years of Dust", 
     "Resettlement Administration", 
@@ -17,10 +14,12 @@
     "Restores Land to Proper Use", 
     "1937"
   ], 
+  "ArtistID": 5366, 
+  "Title": "Years of Dust, Resettlement Administration, Rescues Victims, Restores Land to Proper Use", 
   "Department": "Architecture & Design", 
   "MoMANumber": "147.1947", 
+  "Date": "1937", 
   "ArtistBio": "(American, born Lithuania. 1898\u20131969)", 
-  "DateAcquired": "1947-06-17", 
-  "\ufeffTitle": "Years of Dust, Resettlement Administration, Rescues Victims, Restores Land to Proper Use", 
+  "CuratorApproved": "Y", 
   "ObjectID": "5262"
 }

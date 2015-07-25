@@ -4,12 +4,9 @@
   "Classification": "Drawing", 
   "Artist": "Odilon Redon", 
   "URL": "http://www.moma.org/collection/works/35950", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of The Ian Woodner Family Collection", 
-  "Date": "a) (c. 1877)  b) (c. 1876)", 
-  "ArtistID": 4840, 
+  "DateAcquired": "2000-05-17", 
   "Keywords": [
-    "online art collection", 
     "Odilon Redon", 
     "a) Mephistopheles", 
     "also known as Harlequin (recto)  b) Winged Figure with Serpent (verso)", 
@@ -17,10 +14,12 @@
     "1877)  b) (c", 
     "1876)"
   ], 
+  "ArtistID": 4840, 
+  "Title": "a) Mephistopheles, also known as Harlequin (recto)  b) Winged Figure with Serpent (verso)", 
   "Department": "Drawings", 
   "MoMANumber": "280.2000.a-b", 
+  "Date": "a) (c. 1877)  b) (c. 1876)", 
   "ArtistBio": "(French, 1840\u20131916)", 
-  "DateAcquired": "2000-05-17", 
-  "\ufeffTitle": "a) Mephistopheles, also known as Harlequin (recto)  b) Winged Figure with Serpent (verso)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "35950"
 }

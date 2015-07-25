@@ -4,12 +4,9 @@
   "Classification": "Photograph", 
   "Artist": "John G. Bullock", 
   "URL": "http://www.moma.org/collection/works/51197", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the John Emlen Bullock Estate", 
-  "Date": "1885", 
-  "ArtistID": 860, 
+  "DateAcquired": "1972-11-21", 
   "Keywords": [
-    "online art collection", 
     "John G", 
     "Bullock", 
     "Beech Trees near Pebble Beach", 
@@ -18,10 +15,12 @@
     "Maine", 
     "1885"
   ], 
+  "ArtistID": 860, 
+  "Title": "Beech Trees near Pebble Beach, Mt. Kineo, Maine", 
   "Department": "Photography", 
   "MoMANumber": "338.1972", 
+  "Date": "1885", 
   "ArtistBio": "(American, 1854\u20131939)", 
-  "DateAcquired": "1972-11-21", 
-  "\ufeffTitle": "Beech Trees near Pebble Beach, Mt. Kineo, Maine", 
+  "CuratorApproved": "Y", 
   "ObjectID": "51197"
 }

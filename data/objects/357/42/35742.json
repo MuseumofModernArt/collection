@@ -4,21 +4,20 @@
   "Classification": "Drawing", 
   "Artist": "Max Beckmann", 
   "URL": "http://www.moma.org/collection/works/35742", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "(c. 1918)", 
-  "ArtistID": 429, 
+  "DateAcquired": "1939-04-13", 
   "Keywords": [
-    "online art collection", 
     "Max Beckmann", 
     "The Mocking of the Prodigal Son (Der Verlorene Sohn wird verspottet)", 
     "(c", 
     "1918)"
   ], 
+  "ArtistID": 429, 
+  "Title": "The Mocking of the Prodigal Son (Der Verlorene Sohn wird verspottet)", 
   "Department": "Drawings", 
   "MoMANumber": "264.1939", 
+  "Date": "(c. 1918)", 
   "ArtistBio": "(German, 1884\u20131950)", 
-  "DateAcquired": "1939-04-13", 
-  "\ufeffTitle": "The Mocking of the Prodigal Son (Der Verlorene Sohn wird verspottet)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "35742"
 }

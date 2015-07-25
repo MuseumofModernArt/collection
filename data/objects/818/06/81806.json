@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Hans Bellmer", 
   "URL": "http://www.moma.org/collection/works/81806", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Advisory Committee Fund", 
-  "Date": "1937", 
-  "ArtistID": 452, 
+  "DateAcquired": "1968-05-07", 
   "Keywords": [
-    "online art collection", 
     "Hans Bellmer", 
     "The Machine-Gunneress in a State of Grace", 
     "1937"
   ], 
+  "ArtistID": 452, 
+  "Title": "The Machine-Gunneress in a State of Grace", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "713.1968", 
+  "Date": "1937", 
   "ArtistBio": "(German, 1902\u20131975)", 
-  "DateAcquired": "1968-05-07", 
-  "\ufeffTitle": "The Machine-Gunneress in a State of Grace", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81806"
 }

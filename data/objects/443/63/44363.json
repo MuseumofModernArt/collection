@@ -4,12 +4,9 @@
   "Classification": "Photograph", 
   "Artist": "Berenice Abbott", 
   "URL": "http://www.moma.org/collection/works/44363", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the Robert and Joyce Menschel Foundation", 
-  "Date": "May 5, 1937", 
-  "ArtistID": 41, 
+  "DateAcquired": "1987-02-19", 
   "Keywords": [
-    "online art collection", 
     "Berenice Abbott", 
     "Doorway", 
     "204 West 13th Street", 
@@ -17,10 +14,12 @@
     "May 5", 
     "1937"
   ], 
+  "ArtistID": 41, 
+  "Title": "Doorway, 204 West 13th Street, Manhattan", 
   "Department": "Photography", 
   "MoMANumber": "34.1987", 
+  "Date": "May 5, 1937", 
   "ArtistBio": "(American, 1898\u20131991)", 
-  "DateAcquired": "1987-02-19", 
-  "\ufeffTitle": "Doorway, 204 West 13th Street, Manhattan", 
+  "CuratorApproved": "Y", 
   "ObjectID": "44363"
 }

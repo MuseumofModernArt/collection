@@ -4,22 +4,21 @@
   "Classification": "Drawing", 
   "Artist": "Diego Rivera", 
   "URL": "http://www.moma.org/collection/works/85379", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Abby Aldrich Rockefeller", 
-  "Date": "1931", 
-  "ArtistID": 4942, 
+  "DateAcquired": "1941-12-10", 
   "Keywords": [
-    "online art collection", 
     "Diego Rivera", 
     "Stage Set - Scene 3", 
     "design for H,P", 
     "(Horsepower)", 
     "1931"
   ], 
+  "ArtistID": 4942, 
+  "Title": "Stage Set - Scene 3, design for H.P. (Horsepower)", 
   "Department": "Drawings", 
   "MoMANumber": "505.1941.24", 
+  "Date": "1931", 
   "ArtistBio": "(Mexican, 1886\u20131957)", 
-  "DateAcquired": "1941-12-10", 
-  "\ufeffTitle": "Stage Set - Scene 3, design for H.P. (Horsepower)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "85379"
 }

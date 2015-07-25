@@ -4,21 +4,20 @@
   "Classification": "Photograph", 
   "Artist": "Unknown photographer", 
   "URL": "http://www.moma.org/collection/works/54890", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Acquired through the generosity of David H. McAlpin", 
-  "Date": "c. 1881-1900", 
-  "ArtistID": 6028, 
+  "DateAcquired": "1981-12-17", 
   "Keywords": [
-    "online art collection", 
     "Unknown Photographer", 
     "Rouen Cathedral", 
     "c", 
     "1881-1900"
   ], 
+  "ArtistID": 6028, 
+  "Title": "Rouen Cathedral", 
   "Department": "Photography", 
   "MoMANumber": "540.1981", 
+  "Date": "c. 1881-1900", 
   "ArtistBio": "", 
-  "DateAcquired": "1981-12-17", 
-  "\ufeffTitle": "Rouen Cathedral", 
+  "CuratorApproved": "Y", 
   "ObjectID": "54890"
 }

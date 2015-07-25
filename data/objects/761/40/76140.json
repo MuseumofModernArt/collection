@@ -4,21 +4,20 @@
   "Classification": "Print", 
   "Artist": "John Marin", 
   "URL": "http://www.moma.org/collection/works/76140", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Abby Aldrich Rockefeller", 
-  "Date": "1913", 
-  "ArtistID": 3770, 
+  "DateAcquired": "1940-04-05", 
   "Keywords": [
-    "online art collection", 
     "John Marin", 
     "Woolworth Building No", 
     "2", 
     "1913"
   ], 
+  "ArtistID": 3770, 
+  "Title": "Woolworth Building No. 2", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "1237.1940", 
+  "Date": "1913", 
   "ArtistBio": "(American, 1870\u20131953)", 
-  "DateAcquired": "1940-04-05", 
-  "\ufeffTitle": "Woolworth Building No. 2", 
+  "CuratorApproved": "Y", 
   "ObjectID": "76140"
 }

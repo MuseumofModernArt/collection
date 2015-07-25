@@ -4,21 +4,20 @@
   "Classification": "Painting", 
   "Artist": "Gustav Klimt", 
   "URL": "http://www.moma.org/collection/works/79792", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Jo Carole and Ronald S. Lauder and Helen Acheson Funds, and Serge Sabarsky", 
-  "Date": "1907-08", 
-  "ArtistID": 3147, 
+  "DateAcquired": "1978-06-13", 
   "Keywords": [
-    "online art collection", 
     "Gustav Klimt", 
     "Hope", 
     "II", 
     "1907-08"
   ], 
+  "ArtistID": 3147, 
+  "Title": "Hope, II", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "468.1978", 
+  "Date": "1907-08", 
   "ArtistBio": "(Austrian, 1862\u20131918)", 
-  "DateAcquired": "1978-06-13", 
-  "\ufeffTitle": "Hope, II", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79792"
 }

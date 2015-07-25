@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Andr\u00e9 Masson", 
   "URL": "http://www.moma.org/collection/works/79340", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Mr. and Mrs. Allan D. Emil", 
-  "Date": "1956", 
-  "ArtistID": 3821, 
+  "DateAcquired": "1963-05-07", 
   "Keywords": [
-    "online art collection", 
     "Andr&eacute; Masson", 
     "Attacked by Birds", 
     "1956"
   ], 
+  "ArtistID": 3821, 
+  "Title": "Attacked by Birds", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "270.1963", 
+  "Date": "1956", 
   "ArtistBio": "(French, 1896\u20131987)", 
-  "DateAcquired": "1963-05-07", 
-  "\ufeffTitle": "Attacked by Birds", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79340"
 }

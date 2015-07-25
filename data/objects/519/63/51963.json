@@ -4,21 +4,20 @@
   "Classification": "Photograph", 
   "Artist": "Lee Friedlander", 
   "URL": "http://www.moma.org/collection/works/51963", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1966", 
-  "ArtistID": 2002, 
+  "DateAcquired": "2000-10-12", 
   "Keywords": [
-    "online art collection", 
     "Lee Friedlander", 
     "Stony Point", 
     "New York", 
     "1966"
   ], 
+  "ArtistID": 2002, 
+  "Title": "Stony Point, New York", 
   "Department": "Photography", 
   "MoMANumber": "371.2000", 
+  "Date": "1966", 
   "ArtistBio": "(American, born 1934)", 
-  "DateAcquired": "2000-10-12", 
-  "\ufeffTitle": "Stony Point, New York", 
+  "CuratorApproved": "Y", 
   "ObjectID": "51963"
 }

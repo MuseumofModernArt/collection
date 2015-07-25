@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Menashe Kadishman", 
   "URL": "http://www.moma.org/collection/works/71839", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Alva Gimbel Fund", 
-  "Date": "1970", 
-  "ArtistID": 2961, 
+  "DateAcquired": "1970-12-15", 
   "Keywords": [
-    "online art collection", 
     "Menashe Kadishman", 
     "The Forest", 
     "1970"
   ], 
+  "ArtistID": 2961, 
+  "Title": "The Forest", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "612.1970", 
+  "Date": "1970", 
   "ArtistBio": "(Israeli, born 1932)", 
-  "DateAcquired": "1970-12-15", 
-  "\ufeffTitle": "The Forest", 
+  "CuratorApproved": "Y", 
   "ObjectID": "71839"
 }

@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Damien Hirst", 
   "URL": "http://www.moma.org/collection/works/69646", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "(1992)", 
-  "ArtistID": 6905, 
+  "DateAcquired": "1992-11-04", 
   "Keywords": [
-    "online art collection", 
     "Damien Hirst", 
     "Untitled from London", 
     "(1992)"
   ], 
+  "ArtistID": 6905, 
+  "Title": "Untitled from London", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "467.1992", 
+  "Date": "(1992)", 
   "ArtistBio": "(British, born 1965)", 
-  "DateAcquired": "1992-11-04", 
-  "\ufeffTitle": "Untitled from London", 
+  "CuratorApproved": "Y", 
   "ObjectID": "69646"
 }

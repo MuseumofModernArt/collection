@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Richard Deacon", 
   "URL": "http://www.moma.org/collection/works/67317", 
-  "CuratorApproved": "Y", 
   "CreditLine": "", 
-  "Date": "1987", 
-  "ArtistID": 1456, 
+  "DateAcquired": "1987-10-20", 
   "Keywords": [
-    "online art collection", 
     "Richard Deacon", 
     "Untitled from the portfolio Muzot", 
     "1987"
   ], 
+  "ArtistID": 1456, 
+  "Title": "Untitled from the portfolio Muzot", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "343.1987.2", 
+  "Date": "1987", 
   "ArtistBio": "(British, born 1949)", 
-  "DateAcquired": "1987-10-20", 
-  "\ufeffTitle": "Untitled from the portfolio Muzot", 
+  "CuratorApproved": "Y", 
   "ObjectID": "67317"
 }

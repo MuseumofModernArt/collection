@@ -4,20 +4,19 @@
   "Classification": "Drawing", 
   "Artist": "Richard Long", 
   "URL": "http://www.moma.org/collection/works/37189", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Hans Mautner and Agnes Gund", 
-  "Date": "1992", 
-  "ArtistID": 3591, 
+  "DateAcquired": "1992-11-05", 
   "Keywords": [
-    "online art collection", 
     "Richard Long", 
     "Untitled", 
     "1992"
   ], 
+  "ArtistID": 3591, 
+  "Title": "Untitled", 
   "Department": "Drawings", 
   "MoMANumber": "498.1992", 
+  "Date": "1992", 
   "ArtistBio": "(British, born 1945)", 
-  "DateAcquired": "1992-11-05", 
-  "\ufeffTitle": "Untitled", 
+  "CuratorApproved": "Y", 
   "ObjectID": "37189"
 }

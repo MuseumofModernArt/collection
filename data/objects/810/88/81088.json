@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Antoine Pevsner", 
   "URL": "http://www.moma.org/collection/works/81088", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Katherine S. Dreier Bequest", 
-  "Date": "1924-26", 
-  "ArtistID": 4591, 
+  "DateAcquired": "1953-04-07", 
   "Keywords": [
-    "online art collection", 
     "Antoine Pevsner", 
     "Torso", 
     "1924-26"
   ], 
+  "ArtistID": 4591, 
+  "Title": "Torso", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "185.1953", 
+  "Date": "1924-26", 
   "ArtistBio": "(French, 1886\u20131962)", 
-  "DateAcquired": "1953-04-07", 
-  "\ufeffTitle": "Torso", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81088"
 }

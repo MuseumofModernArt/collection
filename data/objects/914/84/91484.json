@@ -4,21 +4,20 @@
   "Classification": "Film", 
   "Artist": "Fernand L\u00e9ger", 
   "URL": "http://www.moma.org/collection/works/91484", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Film in the permanent collection of The Museum of Modern Art, New York", 
-  "Date": "1924", 
-  "ArtistID": 6624, 
+  "DateAcquired": "", 
   "Keywords": [
-    "online art collection", 
     "Fernand L&eacute;ger", 
     "Ballet m&eacute;canique", 
     "France", 
     "1924"
   ], 
+  "ArtistID": 6624, 
+  "Title": "Ballet m\u00e9canique", 
   "Department": "Film", 
   "MoMANumber": "38724", 
+  "Date": "1924", 
   "ArtistBio": "(French, 1881\u20131955)", 
-  "DateAcquired": "", 
-  "\ufeffTitle": "Ballet m\u00e9canique", 
+  "CuratorApproved": "Y", 
   "ObjectID": "91484"
 }

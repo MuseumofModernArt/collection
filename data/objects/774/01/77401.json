@@ -4,22 +4,21 @@
   "Classification": "Print", 
   "Artist": "Anton Heyboer", 
   "URL": "http://www.moma.org/collection/works/77401", 
-  "CuratorApproved": "Y", 
   "CreditLine": "John S. Newberry Fund", 
-  "Date": "1964", 
-  "ArtistID": 2627, 
+  "DateAcquired": "1968-12-11", 
   "Keywords": [
-    "online art collection", 
     "Anton Heyboer", 
     "Way of Enlightenment", 
     "Way of Separation", 
     "Way of Darkness", 
     "1964"
   ], 
+  "ArtistID": 2627, 
+  "Title": "Way of Enlightenment, Way of Separation, Way of Darkness", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "1635.1968", 
+  "Date": "1964", 
   "ArtistBio": "(Dutch, born 1924)", 
-  "DateAcquired": "1968-12-11", 
-  "\ufeffTitle": "Way of Enlightenment, Way of Separation, Way of Darkness", 
+  "CuratorApproved": "Y", 
   "ObjectID": "77401"
 }

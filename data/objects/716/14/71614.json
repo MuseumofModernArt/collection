@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Max Beckmann", 
   "URL": "http://www.moma.org/collection/works/71614", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "(1922)", 
-  "ArtistID": 429, 
+  "DateAcquired": "1956-12-19", 
   "Keywords": [
-    "online art collection", 
     "Max Beckmann", 
     "Dancing Couple (Tanzendes Paar)", 
     "(1922)"
   ], 
+  "ArtistID": 429, 
+  "Title": "Dancing Couple (Tanzendes Paar)", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "593.1956", 
+  "Date": "(1922)", 
   "ArtistBio": "(German, 1884\u20131950)", 
-  "DateAcquired": "1956-12-19", 
-  "\ufeffTitle": "Dancing Couple (Tanzendes Paar)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "71614"
 }

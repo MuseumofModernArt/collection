@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Fernand L\u00e9ger", 
   "URL": "http://www.moma.org/collection/works/79472", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Mrs. Simon Guggenheim Fund", 
-  "Date": "1944 (after a drawing of 1924-25; dated on painting 1924-44)", 
-  "ArtistID": 6624, 
+  "DateAcquired": "1955-11-23", 
   "Keywords": [
-    "online art collection", 
     "Fernand L&eacute;ger", 
     "The Three Musicians", 
     "1944 (after a drawing of 1924-25; dated on painting 1924-44)"
   ], 
+  "ArtistID": 6624, 
+  "Title": "The Three Musicians", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "334.1955", 
+  "Date": "1944 (after a drawing of 1924-25; dated on painting 1924-44)", 
   "ArtistBio": "(French, 1881\u20131955)", 
-  "DateAcquired": "1955-11-23", 
-  "\ufeffTitle": "The Three Musicians", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79472"
 }

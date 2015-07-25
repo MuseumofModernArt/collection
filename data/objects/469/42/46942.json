@@ -4,22 +4,21 @@
   "Classification": "Photograph", 
   "Artist": "Robert Adams", 
   "URL": "http://www.moma.org/collection/works/46942", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1978", 
-  "ArtistID": 66, 
+  "DateAcquired": "1982-05-13", 
   "Keywords": [
-    "online art collection", 
     "Robert Adams", 
     "Edge of San Timoteo Canyon", 
     "San Bernadino County", 
     "California", 
     "1978"
   ], 
+  "ArtistID": 66, 
+  "Title": "Edge of San Timoteo Canyon, San Bernadino County, California", 
   "Department": "Photography", 
   "MoMANumber": "152.1982", 
+  "Date": "1978", 
   "ArtistBio": "(American, born 1937)", 
-  "DateAcquired": "1982-05-13", 
-  "\ufeffTitle": "Edge of San Timoteo Canyon, San Bernadino County, California", 
+  "CuratorApproved": "Y", 
   "ObjectID": "46942"
 }

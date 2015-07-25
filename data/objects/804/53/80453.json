@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Giacomo Balla", 
   "URL": "http://www.moma.org/collection/works/80453", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The Riklis Collection of McCrory Corporation", 
-  "Date": "1924", 
-  "ArtistID": 311, 
+  "DateAcquired": "1985-10-25", 
   "Keywords": [
-    "online art collection", 
     "Giacomo Balla", 
     "Circular Planes", 
     "1924"
   ], 
+  "ArtistID": 311, 
+  "Title": "Circular Planes", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "989.1983", 
+  "Date": "1924", 
   "ArtistBio": "(Italian, 1871\u20131958)", 
-  "DateAcquired": "1985-10-25", 
-  "\ufeffTitle": "Circular Planes", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80453"
 }

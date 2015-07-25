@@ -4,22 +4,21 @@
   "Classification": "A&D Design", 
   "Artist": "IMEC", 
   "URL": "http://www.moma.org/collection/works/4293", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of University of Pennsylvania", 
-  "Date": "1989", 
-  "ArtistID": 6881, 
+  "DateAcquired": "1990-10-24", 
   "Keywords": [
-    "online art collection", 
     "IMEC", 
     "Diagram of Neural Net: Foveated", 
     "Retina-like Sensor", 
     "Corresponding Silicon Microchip", 
     "1989"
   ], 
+  "ArtistID": 6881, 
+  "Title": "Diagram of Neural Net: Foveated, Retina-like Sensor", 
   "Department": "Architecture & Design", 
   "MoMANumber": "519.1990.1", 
+  "Date": "1989", 
   "ArtistBio": "(American)", 
-  "DateAcquired": "1990-10-24", 
-  "\ufeffTitle": "Diagram of Neural Net: Foveated, Retina-like Sensor", 
+  "CuratorApproved": "Y", 
   "ObjectID": "4293"
 }

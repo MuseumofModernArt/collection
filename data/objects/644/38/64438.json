@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Pol Bury", 
   "URL": "http://www.moma.org/collection/works/64438", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Abby Aldrich Rockefeller Fund", 
-  "Date": "1976", 
-  "ArtistID": 890, 
+  "DateAcquired": "1976-05-11", 
   "Keywords": [
-    "online art collection", 
     "Pol Bury", 
     "Circle and Ten Triangles", 
     "1976"
   ], 
+  "ArtistID": 890, 
+  "Title": "Circle and Ten Triangles", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "209.1976", 
+  "Date": "1976", 
   "ArtistBio": "(Belgian, 1922\u20132005)", 
-  "DateAcquired": "1976-05-11", 
-  "\ufeffTitle": "Circle and Ten Triangles", 
+  "CuratorApproved": "Y", 
   "ObjectID": "64438"
 }

@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Ernst Ludwig Kirchner", 
   "URL": "http://www.moma.org/collection/works/79386", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Margot Gottlieb Bequest", 
-  "Date": "1906", 
-  "ArtistID": 3115, 
+  "DateAcquired": "1993-10-12", 
   "Keywords": [
-    "online art collection", 
     "Ernst Ludwig Kirchner", 
     "Girl on a Divan", 
     "1906"
   ], 
+  "ArtistID": 3115, 
+  "Title": "Girl on a Divan", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "280.1993", 
+  "Date": "1906", 
   "ArtistBio": "(German, 1880\u20131938)", 
-  "DateAcquired": "1993-10-12", 
-  "\ufeffTitle": "Girl on a Divan", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79386"
 }

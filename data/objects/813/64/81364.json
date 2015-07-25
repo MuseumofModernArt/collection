@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Tony Smith", 
   "URL": "http://www.moma.org/collection/works/81364", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Jane Smith in honor of Agnes Gund", 
-  "Date": "1962 (fabricated 1998)", 
-  "ArtistID": 5494, 
+  "DateAcquired": "1998-05-11", 
   "Keywords": [
-    "online art collection", 
     "Tony Smith", 
     "Die", 
     "1962 (fabricated 1998)"
   ], 
+  "ArtistID": 5494, 
+  "Title": "Die", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "333.1998", 
+  "Date": "1962 (fabricated 1998)", 
   "ArtistBio": "(American, 1912\u20131980)", 
-  "DateAcquired": "1998-05-11", 
-  "\ufeffTitle": "Die", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81364"
 }

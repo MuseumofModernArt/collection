@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Henri Laurens", 
   "URL": "http://www.moma.org/collection/works/80151", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Dr. and Mrs. Arthur Luce Klein", 
-  "Date": "1922", 
-  "ArtistID": 3409, 
+  "DateAcquired": "1977-12-13", 
   "Keywords": [
-    "online art collection", 
     "Henri Laurens", 
     "Bowl of Fruit", 
     "1922"
   ], 
+  "ArtistID": 3409, 
+  "Title": "Bowl of Fruit", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "634.1977", 
+  "Date": "1922", 
   "ArtistBio": "(French, 1885\u20131954)", 
-  "DateAcquired": "1977-12-13", 
-  "\ufeffTitle": "Bowl of Fruit", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80151"
 }

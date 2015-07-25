@@ -4,12 +4,9 @@
   "Classification": "Print", 
   "Artist": "Jackson Pollock, The Museum of Modern Art, New York", 
   "URL": "http://www.moma.org/collection/works/69229", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Lee Krasner Pollock", 
-  "Date": "c. 1944-45, printed in 1967", 
-  "ArtistID": 4675, 
+  "DateAcquired": "1969-05-22", 
   "Keywords": [
-    "online art collection", 
     "Jackson Pollock", 
     "The Museum of Modern Art and New York", 
     "Untitled (5)", 
@@ -17,10 +14,12 @@
     "1944-45", 
     "printed in 1967"
   ], 
+  "ArtistID": 4675, 
+  "Title": "Untitled (5)", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "444.1969", 
+  "Date": "c. 1944-45, printed in 1967", 
   "ArtistBio": "(American, 1912\u20131956)", 
-  "DateAcquired": "1969-05-22", 
-  "\ufeffTitle": "Untitled (5)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "69229"
 }

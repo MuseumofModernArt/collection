@@ -4,21 +4,20 @@
   "Classification": "Print", 
   "Artist": "Joe Tilson", 
   "URL": "http://www.moma.org/collection/works/66300", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the Marlborough-Gerson Gallery, N.Y", 
-  "Date": "1967", 
-  "ArtistID": 5879, 
+  "DateAcquired": "1968-04-23", 
   "Keywords": [
-    "online art collection", 
     "Joe Tilson", 
     "Diapositive", 
     "Empire State Building", 
     "1967"
   ], 
+  "ArtistID": 5879, 
+  "Title": "Diapositive, Empire State Building", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "294.1968", 
+  "Date": "1967", 
   "ArtistBio": "(British, born 1928)", 
-  "DateAcquired": "1968-04-23", 
-  "\ufeffTitle": "Diapositive, Empire State Building", 
+  "CuratorApproved": "Y", 
   "ObjectID": "66300"
 }

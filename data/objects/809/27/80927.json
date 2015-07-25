@@ -4,22 +4,21 @@
   "Classification": "Sculpture", 
   "Artist": "H. C. Westermann", 
   "URL": "http://www.moma.org/collection/works/80927", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Anna Marie and Robert F. Shapiro, Barbara Jakobson, and The Norman and Rosita Winston Foundation Inc. Funds", 
-  "Date": "1964", 
-  "ArtistID": 6322, 
+  "DateAcquired": "1991-04-08", 
   "Keywords": [
-    "online art collection", 
     "H", 
     "C", 
     "Westermann", 
     "Social Problems", 
     "1964"
   ], 
+  "ArtistID": 6322, 
+  "Title": "Social Problems", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "89.1991", 
+  "Date": "1964", 
   "ArtistBio": "(American, 1922\u20131981)", 
-  "DateAcquired": "1991-04-08", 
-  "\ufeffTitle": "Social Problems", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80927"
 }

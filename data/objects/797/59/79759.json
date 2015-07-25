@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Max Beckmann", 
   "URL": "http://www.moma.org/collection/works/79759", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Curt Valentin Bequest", 
-  "Date": "1917", 
-  "ArtistID": 429, 
+  "DateAcquired": "1955-11-23", 
   "Keywords": [
-    "online art collection", 
     "Max Beckmann", 
     "Descent from the Cross", 
     "1917"
   ], 
+  "ArtistID": 429, 
+  "Title": "Descent from the Cross", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "328.1955", 
+  "Date": "1917", 
   "ArtistBio": "(German, 1884\u20131950)", 
-  "DateAcquired": "1955-11-23", 
-  "\ufeffTitle": "Descent from the Cross", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79759"
 }

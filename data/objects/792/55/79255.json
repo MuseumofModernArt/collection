@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Ron Davis", 
   "URL": "http://www.moma.org/collection/works/79255", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Mr. and Mrs. Samuel C. Dretzin Fund", 
-  "Date": "1968", 
-  "ArtistID": 1411, 
+  "DateAcquired": "1969-04-08", 
   "Keywords": [
-    "online art collection", 
     "Ron Davis", 
     "Ring", 
     "1968"
   ], 
+  "ArtistID": 1411, 
+  "Title": "Ring", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "242.1969", 
+  "Date": "1968", 
   "ArtistBio": "(American, born 1937)", 
-  "DateAcquired": "1969-04-08", 
-  "\ufeffTitle": "Ring", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79255"
 }

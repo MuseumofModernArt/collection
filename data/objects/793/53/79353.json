@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Llyn Foulkes", 
   "URL": "http://www.moma.org/collection/works/79353", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Alicia Legg", 
-  "Date": "1973", 
-  "ArtistID": 1958, 
+  "DateAcquired": "1987-10-13", 
   "Keywords": [
-    "online art collection", 
     "Llyn Foulkes", 
     "For Father Berrigan", 
     "1973"
   ], 
+  "ArtistID": 1958, 
+  "Title": "For Father Berrigan", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "273.1987", 
+  "Date": "1973", 
   "ArtistBio": "(American, born 1934)", 
-  "DateAcquired": "1987-10-13", 
-  "\ufeffTitle": "For Father Berrigan", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79353"
 }

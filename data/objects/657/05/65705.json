@@ -4,22 +4,21 @@
   "Classification": "Print", 
   "Artist": "Emil Nolde", 
   "URL": "http://www.moma.org/collection/works/65705", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Abby Aldrich Rockefeller Fund", 
-  "Date": "1898, printed c. 1907", 
-  "ArtistID": 4327, 
+  "DateAcquired": "1955-10-10", 
   "Keywords": [
-    "online art collection", 
     "Emil Nolde", 
     "Scoundrels (Lumpen)", 
     "1898", 
     "printed c", 
     "1907"
   ], 
+  "ArtistID": 4327, 
+  "Title": "Scoundrels (Lumpen)", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "270.1955", 
+  "Date": "1898, printed c. 1907", 
   "ArtistBio": "(German, 1867\u20131956)", 
-  "DateAcquired": "1955-10-10", 
-  "\ufeffTitle": "Scoundrels (Lumpen)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "65705"
 }

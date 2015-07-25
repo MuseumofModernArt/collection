@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Tony Smith", 
   "URL": "http://www.moma.org/collection/works/81267", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Agnes Gund and purchase", 
-  "Date": "1962 (fabricated 1981)", 
-  "ArtistID": 5494, 
+  "DateAcquired": "1984-10-09", 
   "Keywords": [
-    "online art collection", 
     "Tony Smith", 
     "Free Ride", 
     "1962 (fabricated 1981)"
   ], 
+  "ArtistID": 5494, 
+  "Title": "Free Ride", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "271.1984", 
+  "Date": "1962 (fabricated 1981)", 
   "ArtistBio": "(American, 1912\u20131980)", 
-  "DateAcquired": "1984-10-09", 
-  "\ufeffTitle": "Free Ride", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81267"
 }

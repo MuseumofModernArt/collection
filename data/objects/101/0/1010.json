@@ -4,12 +4,9 @@
   "Classification": "A&D Architectural Model", 
   "Artist": "Alvar Aalto", 
   "URL": "http://www.moma.org/collection/works/1010", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Elise Jaffe + Jeffrey Brown", 
-  "Date": "1927-35", 
-  "ArtistID": 34, 
+  "DateAcquired": "2000-06-30", 
   "Keywords": [
-    "online art collection", 
     "Alvar Aalto", 
     "Viipuri City Library", 
     "Viipuri", 
@@ -17,10 +14,12 @@
     "Russia)", 
     "1927-35"
   ], 
+  "ArtistID": 34, 
+  "Title": "Viipuri City Library, Viipuri, Finland (now Vyborg, Russia)", 
   "Department": "Architecture & Design", 
   "MoMANumber": "281.1999", 
+  "Date": "1927-35", 
   "ArtistBio": "(Finnish, 1898\u20131976)", 
-  "DateAcquired": "2000-06-30", 
-  "\ufeffTitle": "Viipuri City Library, Viipuri, Finland (now Vyborg, Russia)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "1010"
 }

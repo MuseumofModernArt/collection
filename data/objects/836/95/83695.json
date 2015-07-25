@@ -4,12 +4,9 @@
   "Classification": "Photograph", 
   "Artist": "Berenice Abbott", 
   "URL": "http://www.moma.org/collection/works/83695", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Thomas Walther Collection. Abbott-Levy Collection funds, by exchange", 
-  "Date": "November 21, 1935", 
-  "ArtistID": 41, 
+  "DateAcquired": "2001-12-13", 
   "Keywords": [
-    "online art collection", 
     "Berenice Abbott", 
     "\"Daily News\" Building", 
     "220 East 42nd Street", 
@@ -17,10 +14,12 @@
     "November 21", 
     "1935"
   ], 
+  "ArtistID": 41, 
+  "Title": "Daily News Building, 220 East 42nd Street, Manhattan", 
   "Department": "Photography", 
   "MoMANumber": "1599.2001", 
+  "Date": "November 21, 1935", 
   "ArtistBio": "(American, 1898\u20131991)", 
-  "DateAcquired": "2001-12-13", 
-  "\ufeffTitle": "Daily News Building, 220 East 42nd Street, Manhattan", 
+  "CuratorApproved": "Y", 
   "ObjectID": "83695"
 }

@@ -4,22 +4,21 @@
   "Classification": "Painting", 
   "Artist": "Mark Rothko", 
   "URL": "http://www.moma.org/collection/works/80177", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The Sidney and Harriet Janis Collection", 
-  "Date": "1961", 
-  "ArtistID": 5047, 
+  "DateAcquired": "1967-10-18", 
   "Keywords": [
-    "online art collection", 
     "Mark Rothko", 
     "No", 
     "14 (Horizontals", 
     "White over Darks)", 
     "1961"
   ], 
+  "ArtistID": 5047, 
+  "Title": "No. 14 (Horizontals, White over Darks)", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "647.1967", 
+  "Date": "1961", 
   "ArtistBio": "(American, born Russia (now Latvia). 1903\u20131970)", 
-  "DateAcquired": "1967-10-18", 
-  "\ufeffTitle": "No. 14 (Horizontals, White over Darks)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80177"
 }

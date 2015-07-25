@@ -4,21 +4,20 @@
   "Classification": "Photograph", 
   "Artist": "Associated Press", 
   "URL": "http://www.moma.org/collection/works/58518", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The New York Times Collection", 
-  "Date": "July 5, 1937", 
-  "ArtistID": 8501, 
+  "DateAcquired": "2001-06-14", 
   "Keywords": [
-    "online art collection", 
     "Associated Press", 
     "\"Amelia Earhart and Navigator Fred Noonan\" (sent via radio)", 
     "July 5", 
     "1937"
   ], 
+  "ArtistID": 8501, 
+  "Title": "\"Amelia Earhart and Navigator Fred Noonan\" (sent via radio)", 
   "Department": "Photography", 
   "MoMANumber": "1928.2001", 
+  "Date": "July 5, 1937", 
   "ArtistBio": "", 
-  "DateAcquired": "2001-06-14", 
-  "\ufeffTitle": "\"Amelia Earhart and Navigator Fred Noonan\" (sent via radio)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "58518"
 }

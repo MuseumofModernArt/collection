@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Lyonel Feininger", 
   "URL": "http://www.moma.org/collection/works/80044", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchased with funds provided by Mrs. Julia Feininger, Mr. and Mrs. Richard K. Weil and Mr. and Mrs. Ralph F. Colin", 
-  "Date": "1930", 
-  "ArtistID": 1832, 
+  "DateAcquired": "1966-12-06", 
   "Keywords": [
-    "online art collection", 
     "Lyonel Feininger", 
     "Ruin by the Sea", 
     "1930"
   ], 
+  "ArtistID": 1832, 
+  "Title": "Ruin by the Sea", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "593.1966", 
+  "Date": "1930", 
   "ArtistBio": "(American, 1871\u20131956)", 
-  "DateAcquired": "1966-12-06", 
-  "\ufeffTitle": "Ruin by the Sea", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80044"
 }

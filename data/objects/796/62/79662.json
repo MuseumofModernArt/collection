@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Howard Hodgkin", 
   "URL": "http://www.moma.org/collection/works/79662", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Mr. and Mrs. Gerrit Lansing", 
-  "Date": "1978-80", 
-  "ArtistID": 2679, 
+  "DateAcquired": "1981-11-17", 
   "Keywords": [
-    "online art collection", 
     "Howard Hodgkin", 
     "Red Bermudas", 
     "1978-80"
   ], 
+  "ArtistID": 2679, 
+  "Title": "Red Bermudas", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "420.1981", 
+  "Date": "1978-80", 
   "ArtistBio": "(British, born 1932)", 
-  "DateAcquired": "1981-11-17", 
-  "\ufeffTitle": "Red Bermudas", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79662"
 }

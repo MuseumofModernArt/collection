@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Medardo Rosso", 
   "URL": "http://www.moma.org/collection/works/81772", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Acquired through the Lillie P. Bliss Bequest", 
-  "Date": "1894", 
-  "ArtistID": 5036, 
+  "DateAcquired": "1959-10-15", 
   "Keywords": [
-    "online art collection", 
     "Medardo Rosso", 
     "The Bookmaker", 
     "1894"
   ], 
+  "ArtistID": 5036, 
+  "Title": "The Bookmaker", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "673.1959", 
+  "Date": "1894", 
   "ArtistBio": "(Italian, 1858\u20131928)", 
-  "DateAcquired": "1959-10-15", 
-  "\ufeffTitle": "The Bookmaker", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81772"
 }

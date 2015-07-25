@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Sue Coe", 
   "URL": "http://www.moma.org/collection/works/100228", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Edward R. Broida", 
-  "Date": "1984", 
-  "ArtistID": 1170, 
+  "DateAcquired": "2005-10-06", 
   "Keywords": [
-    "online art collection", 
     "Sue Coe", 
     "Breaking", 
     "1984"
   ], 
+  "ArtistID": 1170, 
+  "Title": "Breaking", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "688.2005", 
+  "Date": "1984", 
   "ArtistBio": "(British, born 1951)", 
-  "DateAcquired": "2005-10-06", 
-  "\ufeffTitle": "Breaking", 
+  "CuratorApproved": "Y", 
   "ObjectID": "100228"
 }

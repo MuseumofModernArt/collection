@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Julius Bissier", 
   "URL": "http://www.moma.org/collection/works/100205", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Edward R. Broida", 
-  "Date": "1959", 
-  "ArtistID": 573, 
+  "DateAcquired": "2005-10-06", 
   "Keywords": [
-    "online art collection", 
     "Julius Bissier", 
     "April '59 Ronco", 
     "1959"
   ], 
+  "ArtistID": 573, 
+  "Title": "April '59 Ronco", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "668.2005", 
+  "Date": "1959", 
   "ArtistBio": "(German, 1893\u20131965)", 
-  "DateAcquired": "2005-10-06", 
-  "\ufeffTitle": "April '59 Ronco", 
+  "CuratorApproved": "Y", 
   "ObjectID": "100205"
 }

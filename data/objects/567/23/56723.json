@@ -4,12 +4,9 @@
   "Classification": "Photograph", 
   "Artist": "Robert Adams", 
   "URL": "http://www.moma.org/collection/works/56723", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The Fellows of Photography Fund", 
-  "Date": "1986", 
-  "ArtistID": 66, 
+  "DateAcquired": "1996-12-10", 
   "Keywords": [
-    "online art collection", 
     "Robert Adams", 
     "Along St", 
     "Vrain Creek", 
@@ -17,10 +14,12 @@
     "Colorado", 
     "1986"
   ], 
+  "ArtistID": 66, 
+  "Title": "Along St. Vrain Creek, West of Longmont, Colorado", 
   "Department": "Photography", 
   "MoMANumber": "845.1996.a-e", 
+  "Date": "1986", 
   "ArtistBio": "(American, born 1937)", 
-  "DateAcquired": "1996-12-10", 
-  "\ufeffTitle": "Along St. Vrain Creek, West of Longmont, Colorado", 
+  "CuratorApproved": "Y", 
   "ObjectID": "56723"
 }

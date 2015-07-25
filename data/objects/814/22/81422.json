@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Marcel Broodthaers", 
   "URL": "http://www.moma.org/collection/works/81422", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Fractional and promised gift of Jo Carole and Ronald S. Lauder", 
-  "Date": "1965", 
-  "ArtistID": 795, 
+  "DateAcquired": "1992-01-05", 
   "Keywords": [
-    "online art collection", 
     "Marcel Broodthaers", 
     "White Cabinet and White Table", 
     "1965"
   ], 
+  "ArtistID": 795, 
+  "Title": "White Cabinet and White Table", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "387.1992.a-b", 
+  "Date": "1965", 
   "ArtistBio": "(Belgian, 1924\u20131976)", 
-  "DateAcquired": "1992-01-05", 
-  "\ufeffTitle": "White Cabinet and White Table", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81422"
 }

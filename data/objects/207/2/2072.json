@@ -4,12 +4,9 @@
   "Classification": "A&D Design", 
   "Artist": "Louis Comfort Tiffany, Tiffany Studios, New York, NY", 
   "URL": "http://www.moma.org/collection/works/2072", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Phyllis B. Lambert Fund", 
-  "Date": "c. 1900", 
-  "ArtistID": 5876, 
+  "DateAcquired": "1957-05-15", 
   "Keywords": [
-    "online art collection", 
     "Louis Comfort Tiffany", 
     "Tiffany Studios", 
     "New York and NY", 
@@ -17,10 +14,12 @@
     "c", 
     "1900"
   ], 
+  "ArtistID": 5876, 
+  "Title": "Vase", 
   "Department": "Architecture & Design", 
   "MoMANumber": "90.1957", 
+  "Date": "c. 1900", 
   "ArtistBio": "(American, 1848\u20131933)", 
-  "DateAcquired": "1957-05-15", 
-  "\ufeffTitle": "Vase", 
+  "CuratorApproved": "Y", 
   "ObjectID": "2072"
 }

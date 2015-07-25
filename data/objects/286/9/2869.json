@@ -4,20 +4,19 @@
   "Classification": "A&D Design", 
   "Artist": "Corning Glass Works", 
   "URL": "http://www.moma.org/collection/works/2869", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the manufacturer", 
-  "Date": "1944", 
-  "ArtistID": 1249, 
+  "DateAcquired": "1944-11-08", 
   "Keywords": [
-    "online art collection", 
     "Corning Glass Works", 
     "Army Messware", 
     "1944"
   ], 
+  "ArtistID": 1249, 
+  "Title": "Army Messware", 
   "Department": "Architecture & Design", 
   "MoMANumber": "231.1944.1-4", 
+  "Date": "1944", 
   "ArtistBio": "(American, est. 1851)", 
-  "DateAcquired": "1944-11-08", 
-  "\ufeffTitle": "Army Messware", 
+  "CuratorApproved": "Y", 
   "ObjectID": "2869"
 }

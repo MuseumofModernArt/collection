@@ -4,22 +4,21 @@
   "Classification": "Painting", 
   "Artist": "Tom Wesselmann", 
   "URL": "http://www.moma.org/collection/works/79193", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Susan Morse Hilles Fund", 
-  "Date": "1967", 
-  "ArtistID": 6318, 
+  "DateAcquired": "1968-03-12", 
   "Keywords": [
-    "online art collection", 
     "Tom Wesselmann", 
     "Smoker", 
     "1 (Mouth", 
     "12)", 
     "1967"
   ], 
+  "ArtistID": 6318, 
+  "Title": "Smoker, 1 (Mouth, 12)", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "226.1968", 
+  "Date": "1967", 
   "ArtistBio": "(American, 1931\u20132004)", 
-  "DateAcquired": "1968-03-12", 
-  "\ufeffTitle": "Smoker, 1 (Mouth, 12)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79193"
 }

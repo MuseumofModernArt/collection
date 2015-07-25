@@ -4,22 +4,21 @@
   "Classification": "Photograph", 
   "Artist": "Anne W. Brigman", 
   "URL": "http://www.moma.org/collection/works/83687", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Thomas Walther Collection. Gift of Mrs. B. S. Sexton and Mina Turner, by exchange", 
-  "Date": "1924", 
-  "ArtistID": 777, 
+  "DateAcquired": "2001-12-13", 
   "Keywords": [
-    "online art collection", 
     "Anne W", 
     "Brigman", 
     "Study in Radiation", 
     "c", 
     "1924"
   ], 
+  "ArtistID": 777, 
+  "Title": "A Study in Radiation", 
   "Department": "Photography", 
   "MoMANumber": "1639.2001", 
+  "Date": "1924", 
   "ArtistBio": "(American, born Hawaii. 1869\u20131950)", 
-  "DateAcquired": "2001-12-13", 
-  "\ufeffTitle": "A Study in Radiation", 
+  "CuratorApproved": "Y", 
   "ObjectID": "83687"
 }

@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Charmion von Wiegand", 
   "URL": "http://www.moma.org/collection/works/80548", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The Riklis Collection of McCrory Corporation", 
-  "Date": "1959-60", 
-  "ArtistID": 6188, 
+  "DateAcquired": "1985-10-25", 
   "Keywords": [
-    "online art collection", 
     "Charmion von Wiegand", 
     "Sanctuary of the Four Directions", 
     "1959-60"
   ], 
+  "ArtistID": 6188, 
+  "Title": "Sanctuary of the Four Directions", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "1084.1983", 
+  "Date": "1959-60", 
   "ArtistBio": "(American, 1899\u20131983)", 
-  "DateAcquired": "1985-10-25", 
-  "\ufeffTitle": "Sanctuary of the Four Directions", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80548"
 }

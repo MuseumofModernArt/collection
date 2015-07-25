@@ -4,21 +4,20 @@
   "Classification": "Print", 
   "Artist": "Matthias Mansen", 
   "URL": "http://www.moma.org/collection/works/63791", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1988", 
-  "ArtistID": 3738, 
+  "DateAcquired": "1988-05-04", 
   "Keywords": [
-    "online art collection", 
     "Matthias Mansen", 
     "Man", 
     "Getting Up From a Chair", 
     "1988"
   ], 
+  "ArtistID": 3738, 
+  "Title": "Man, Getting Up From a Chair", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "179.1988.1-5", 
+  "Date": "1988", 
   "ArtistBio": "(German, born 1958)", 
-  "DateAcquired": "1988-05-04", 
-  "\ufeffTitle": "Man, Getting Up From a Chair", 
+  "CuratorApproved": "Y", 
   "ObjectID": "63791"
 }

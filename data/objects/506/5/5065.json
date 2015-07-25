@@ -4,21 +4,20 @@
   "Classification": "A&D Graphic Design", 
   "Artist": "M. H", 
   "URL": "http://www.moma.org/collection/works/5065", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the Netherlands Information Bureau", 
-  "Date": "c.1944", 
-  "ArtistID": 3655, 
+  "DateAcquired": "1944-05-02", 
   "Keywords": [
-    "online art collection", 
     "M", 
     "H", 
     "Helpt Deze Vlek Verwuderen Steunt Het Prins Bernhard Comite", 
     "1900-1944"
   ], 
+  "ArtistID": 3655, 
+  "Title": "Helpt Deze Vlek Verwuderen Steunt Het Prins Bernhard Comite", 
   "Department": "Architecture & Design", 
   "MoMANumber": "99.1944", 
+  "Date": "c.1944", 
   "ArtistBio": "(Nationality unknown)", 
-  "DateAcquired": "1944-05-02", 
-  "\ufeffTitle": "Helpt Deze Vlek Verwuderen Steunt Het Prins Bernhard Comite", 
+  "CuratorApproved": "Y", 
   "ObjectID": "5065"
 }

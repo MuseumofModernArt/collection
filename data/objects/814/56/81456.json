@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Anthony Caro", 
   "URL": "http://www.moma.org/collection/works/81456", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Mr. and Mrs. Arthur Wiesenberger Fund", 
-  "Date": "1960", 
-  "ArtistID": 982, 
+  "DateAcquired": "1974-10-08", 
   "Keywords": [
-    "online art collection", 
     "Anthony Caro", 
     "Midday", 
     "1960"
   ], 
+  "ArtistID": 982, 
+  "Title": "Midday", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "419.1974", 
+  "Date": "1960", 
   "ArtistBio": "(British, 1924\u20132013)", 
-  "DateAcquired": "1974-10-08", 
-  "\ufeffTitle": "Midday", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81456"
 }

@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Nassos Daphnis", 
   "URL": "http://www.moma.org/collection/works/78349", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Blanchette Hooker Rockefeller Fund", 
-  "Date": "1958", 
-  "ArtistID": 1385, 
+  "DateAcquired": "1959-03-02", 
   "Keywords": [
-    "online art collection", 
     "Nassos Daphnis", 
     "Number 5-58", 
     "1958"
   ], 
+  "ArtistID": 1385, 
+  "Title": "Number 5-58", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "4.1959", 
+  "Date": "1958", 
   "ArtistBio": "(American, born Greece. 1914\u20132010)", 
-  "DateAcquired": "1959-03-02", 
-  "\ufeffTitle": "Number 5-58", 
+  "CuratorApproved": "Y", 
   "ObjectID": "78349"
 }

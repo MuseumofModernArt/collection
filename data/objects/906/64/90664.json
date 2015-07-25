@@ -4,21 +4,20 @@
   "Classification": "Drawing", 
   "Artist": "Alice Aycock", 
   "URL": "http://www.moma.org/collection/works/90664", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Sarah-Ann and Werner H. Kramarsky", 
-  "Date": "1984", 
-  "ArtistID": 256, 
+  "DateAcquired": "2004-05-11", 
   "Keywords": [
-    "online art collection", 
     "Alice Aycock", 
     "The New China Drawing: The World Above", 
     "The World Below", 
     "1984"
   ], 
+  "ArtistID": 256, 
+  "Title": "The New China Drawing: The World Above, The World Below", 
   "Department": "Drawings", 
   "MoMANumber": "79.2004.a-b", 
+  "Date": "1984", 
   "ArtistBio": "(American, born 1946)", 
-  "DateAcquired": "2004-05-11", 
-  "\ufeffTitle": "The New China Drawing: The World Above, The World Below", 
+  "CuratorApproved": "Y", 
   "ObjectID": "90664"
 }

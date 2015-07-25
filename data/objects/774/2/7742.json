@@ -4,12 +4,9 @@
   "Classification": "A&D Graphic Design", 
   "Artist": "Armin Hofmann", 
   "URL": "http://www.moma.org/collection/works/7742", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the artist", 
-  "Date": "1961", 
-  "ArtistID": 2697, 
+  "DateAcquired": "1981-12-10", 
   "Keywords": [
-    "online art collection", 
     "Armin Hofmann", 
     "Kunsthalle Basel", 
     "Maurice Esteve", 
@@ -21,10 +18,12 @@
     "Juli", 
     "1961"
   ], 
+  "ArtistID": 2697, 
+  "Title": "Kunsthalle Basel, Maurice Esteve, Malerie, Berto Lardera, Skulptur, 10. Juni bis 16. Juli", 
   "Department": "Architecture & Design", 
   "MoMANumber": "612.1981", 
+  "Date": "1961", 
   "ArtistBio": "(Swiss, born 1920)", 
-  "DateAcquired": "1981-12-10", 
-  "\ufeffTitle": "Kunsthalle Basel, Maurice Esteve, Malerie, Berto Lardera, Skulptur, 10. Juni bis 16. Juli", 
+  "CuratorApproved": "Y", 
   "ObjectID": "7742"
 }

@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "John Marin", 
   "URL": "http://www.moma.org/collection/works/67059", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Mrs. Bertram Smith Fund", 
-  "Date": "1924", 
-  "ArtistID": 3770, 
+  "DateAcquired": "1958-12-19", 
   "Keywords": [
-    "online art collection", 
     "John Marin", 
     "Nassau Street Looking South", 
     "(1924)"
   ], 
+  "ArtistID": 3770, 
+  "Title": "Nassau Street, Looking South", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "330.1958", 
+  "Date": "1924", 
   "ArtistBio": "(American, 1870\u20131953)", 
-  "DateAcquired": "1958-12-19", 
-  "\ufeffTitle": "Nassau Street, Looking South", 
+  "CuratorApproved": "Y", 
   "ObjectID": "67059"
 }

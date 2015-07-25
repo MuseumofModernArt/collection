@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Robert Mangold", 
   "URL": "http://www.moma.org/collection/works/79248", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Larry Aldrich Foundation Fund", 
-  "Date": "1968", 
-  "ArtistID": 3723, 
+  "DateAcquired": "1969-03-11", 
   "Keywords": [
-    "online art collection", 
     "Robert Mangold", 
     "1/2 W Series", 
     "1968"
   ], 
+  "ArtistID": 3723, 
+  "Title": "1/2 W Series", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "239.1969.a-b", 
+  "Date": "1968", 
   "ArtistBio": "(American, born 1937)", 
-  "DateAcquired": "1969-03-11", 
-  "\ufeffTitle": "1/2 W Series", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79248"
 }

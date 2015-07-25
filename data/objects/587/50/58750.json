@@ -4,21 +4,20 @@
   "Classification": "Photograph", 
   "Artist": "Times Wide World Photos", 
   "URL": "http://www.moma.org/collection/works/58750", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The New York Times Collection", 
-  "Date": "October 2, 1932", 
-  "ArtistID": 8632, 
+  "DateAcquired": "2001-06-14", 
   "Keywords": [
-    "online art collection", 
     "Times Wide World Photos", 
     "\"Hitler Takes Another Leaf from Mussolini Book: Boy Nazis\"", 
     "October 2", 
     "1932"
   ], 
+  "ArtistID": 8632, 
+  "Title": "\"Hitler Takes Another Leaf from Mussolini Book: Boy Nazis\"", 
   "Department": "Photography", 
   "MoMANumber": "2157.2001", 
+  "Date": "October 2, 1932", 
   "ArtistBio": "(American, active 1919\u20131941)", 
-  "DateAcquired": "2001-06-14", 
-  "\ufeffTitle": "\"Hitler Takes Another Leaf from Mussolini Book: Boy Nazis\"", 
+  "CuratorApproved": "Y", 
   "ObjectID": "58750"
 }

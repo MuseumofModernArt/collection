@@ -4,21 +4,20 @@
   "Classification": "A&D Architectural Model", 
   "Artist": "Robert Venturi", 
   "URL": "http://www.moma.org/collection/works/982", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Venturi, Rauch, and Scott Brown, Inc.", 
-  "Date": "c. 1959", 
-  "ArtistID": 6132, 
+  "DateAcquired": "1988-04-27", 
   "Keywords": [
-    "online art collection", 
     "Robert Venturi", 
     "Beach House Project", 
     "c", 
     "1959"
   ], 
+  "ArtistID": 6132, 
+  "Title": "Beach House Project", 
   "Department": "Architecture & Design", 
   "MoMANumber": "126.1988", 
+  "Date": "c. 1959", 
   "ArtistBio": "(American, born 1925)", 
-  "DateAcquired": "1988-04-27", 
-  "\ufeffTitle": "Beach House Project", 
+  "CuratorApproved": "Y", 
   "ObjectID": "982"
 }

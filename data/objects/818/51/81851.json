@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Marisol (Marisol Escobar)", 
   "URL": "http://www.moma.org/collection/works/81851", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Mr. and Mrs. Lester Avnet", 
-  "Date": "1967", 
-  "ArtistID": 3774, 
+  "DateAcquired": "1968-05-07", 
   "Keywords": [
-    "online art collection", 
     "Marisol (Marisol Escobar)", 
     "LBJ", 
     "1967"
   ], 
+  "ArtistID": 3774, 
+  "Title": "LBJ", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "776.1968.a-c", 
+  "Date": "1967", 
   "ArtistBio": "(Venezuelan, born France 1930)", 
-  "DateAcquired": "1968-05-07", 
-  "\ufeffTitle": "LBJ", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81851"
 }

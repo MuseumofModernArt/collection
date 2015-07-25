@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Frank Moore", 
   "URL": "http://www.moma.org/collection/works/63719", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Jacqueline Brody Fund", 
-  "Date": "1999", 
-  "ArtistID": 4070, 
+  "DateAcquired": "1999-05-20", 
   "Keywords": [
-    "online art collection", 
     "Frank Moore", 
     "Praire from the portfolio 3 Landscapes", 
     "1999"
   ], 
+  "ArtistID": 4070, 
+  "Title": "Praire from the portfolio 3 Landscapes", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "176.1999", 
+  "Date": "1999", 
   "ArtistBio": "(American, 1953\u20132002)", 
-  "DateAcquired": "1999-05-20", 
-  "\ufeffTitle": "Praire from the portfolio 3 Landscapes", 
+  "CuratorApproved": "Y", 
   "ObjectID": "63719"
 }

@@ -4,21 +4,20 @@
   "Classification": "Painting", 
   "Artist": "Stuart Davis", 
   "URL": "http://www.moma.org/collection/works/78895", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Abby Aldrich Rockefeller Fund", 
-  "Date": "1930", 
-  "ArtistID": 1412, 
+  "DateAcquired": "1945-03-07", 
   "Keywords": [
-    "online art collection", 
     "Stuart Davis", 
     "Egg Beater", 
     "V", 
     "1930"
   ], 
+  "ArtistID": 1412, 
+  "Title": "Egg Beater, V", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "122.1945", 
+  "Date": "1930", 
   "ArtistBio": "(American, 1892\u20131964)", 
-  "DateAcquired": "1945-03-07", 
-  "\ufeffTitle": "Egg Beater, V", 
+  "CuratorApproved": "Y", 
   "ObjectID": "78895"
 }

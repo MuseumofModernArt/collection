@@ -4,20 +4,19 @@
   "Classification": "Photograph", 
   "Artist": "Josef Koudelka", 
   "URL": "http://www.moma.org/collection/works/52741", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Stephen R. Currier Memorial Fund", 
-  "Date": "1966", 
-  "ArtistID": 3229, 
+  "DateAcquired": "1971-05-04", 
   "Keywords": [
-    "online art collection", 
     "Josef Koudelka", 
     "Velka Lomnica", 
     "1966"
   ], 
+  "ArtistID": 3229, 
+  "Title": "Velka Lomnica", 
   "Department": "Photography", 
   "MoMANumber": "406.1971", 
+  "Date": "1966", 
   "ArtistBio": "(Czech, born 1938)", 
-  "DateAcquired": "1971-05-04", 
-  "\ufeffTitle": "Velka Lomnica", 
+  "CuratorApproved": "Y", 
   "ObjectID": "52741"
 }

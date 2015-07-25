@@ -4,20 +4,19 @@
   "Classification": "Drawing", 
   "Artist": "Henri Matisse", 
   "URL": "http://www.moma.org/collection/works/36802", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Transferred from The Museum of Modern Art Publications Department", 
-  "Date": "(1951)", 
-  "ArtistID": 3832, 
+  "DateAcquired": "1953-06-22", 
   "Keywords": [
-    "online art collection", 
     "Henri Matisse", 
     "Design for cover of \"Matisse: His Art and His Public\"", 
     "(1951)"
   ], 
+  "ArtistID": 3832, 
+  "Title": "Design for cover of \"Matisse: His Art and His Public\"", 
   "Department": "Drawings", 
   "MoMANumber": "418.1953", 
+  "Date": "(1951)", 
   "ArtistBio": "(French, 1869\u20131954)", 
-  "DateAcquired": "1953-06-22", 
-  "\ufeffTitle": "Design for cover of \"Matisse: His Art and His Public\"", 
+  "CuratorApproved": "Y", 
   "ObjectID": "36802"
 }

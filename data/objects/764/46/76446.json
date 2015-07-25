@@ -4,20 +4,19 @@
   "Classification": "Multiple", 
   "Artist": "Michael Joo", 
   "URL": "http://www.moma.org/collection/works/76446", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Agnes Gund and Daniel Shapiro", 
-  "Date": "2000", 
-  "ArtistID": 8278, 
+  "DateAcquired": "2000-11-09", 
   "Keywords": [
-    "online art collection", 
     "Michael Joo", 
     "Small Vitrine", 
     "2000"
   ], 
+  "ArtistID": 8278, 
+  "Title": "Small Vitrine", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "1349.2000", 
+  "Date": "2000", 
   "ArtistBio": "(American, born 1966)", 
-  "DateAcquired": "2000-11-09", 
-  "\ufeffTitle": "Small Vitrine", 
+  "CuratorApproved": "Y", 
   "ObjectID": "76446"
 }

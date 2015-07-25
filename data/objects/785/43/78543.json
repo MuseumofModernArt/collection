@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Jacob Lawrence", 
   "URL": "http://www.moma.org/collection/works/78543", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Mrs. David M. Levy", 
-  "Date": "1940-41", 
-  "ArtistID": 3418, 
+  "DateAcquired": "1942-01-27", 
   "Keywords": [
-    "online art collection", 
     "Jacob Lawrence", 
     "Housing for the Negroes was a very difficult problem", 
     "1940-41"
   ], 
+  "ArtistID": 3418, 
+  "Title": "Housing for the Negroes was a very difficult problem", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "28.1942.24", 
+  "Date": "1940-41", 
   "ArtistBio": "(American, 1917\u20132000)", 
-  "DateAcquired": "1942-01-27", 
-  "\ufeffTitle": "Housing for the Negroes was a very difficult problem", 
+  "CuratorApproved": "Y", 
   "ObjectID": "78543"
 }

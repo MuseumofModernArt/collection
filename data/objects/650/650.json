@@ -4,12 +4,9 @@
   "Classification": "A&D Architectural Drawing", 
   "Artist": "Frank Lloyd Wright", 
   "URL": "http://www.moma.org/collection/works/650", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Edgar Kaufmann, Jr.", 
-  "Date": "1940", 
-  "ArtistID": 6459, 
+  "DateAcquired": "1972-12-21", 
   "Keywords": [
-    "online art collection", 
     "Frank Lloyd Wright", 
     "Mr", 
     "and Mrs", 
@@ -19,10 +16,12 @@
     "Exterior perspective from east", 
     "1940"
   ], 
+  "ArtistID": 6459, 
+  "Title": "Mr. and Mrs. James Bryan Christie House , Bernardsville, New Jersey , Exterior perspective from east", 
   "Department": "Architecture & Design", 
   "MoMANumber": "456.1972", 
+  "Date": "1940", 
   "ArtistBio": "(American, 1867\u20131959)", 
-  "DateAcquired": "1972-12-21", 
-  "\ufeffTitle": "Mr. and Mrs. James Bryan Christie House , Bernardsville, New Jersey , Exterior perspective from east", 
+  "CuratorApproved": "Y", 
   "ObjectID": "650"
 }

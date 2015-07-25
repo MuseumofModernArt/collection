@@ -4,22 +4,21 @@
   "Classification": "A&D Graphic Design", 
   "Artist": "Jes\u00fas Lozano", 
   "URL": "http://www.moma.org/collection/works/5792", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1937", 
-  "ArtistID": 3614, 
+  "DateAcquired": "1937-12-03", 
   "Keywords": [
-    "online art collection", 
     "Jes&uacute;s Lozano", 
     "&iexcl;Campesino! Tus Enemigos Te Hicieron Trabajar de Sol a Sol para Alimentarlos", 
     "Ahora", 
     "que la Tierra es Tuya Trabajar de Sol a Sol para Aniquilarlos", 
     "1937"
   ], 
+  "ArtistID": 3614, 
+  "Title": "\u00a1Campesino! Tus Enemigos Te Hicieron Trabajar de Sol a Sol para Alimentarlos. Ahora, que la Tierra es Tuya Trabajar de Sol a Sol para Aniquilarlos", 
   "Department": "Architecture & Design", 
   "MoMANumber": "238.1937", 
+  "Date": "1937", 
   "ArtistBio": "(Spanish)", 
-  "DateAcquired": "1937-12-03", 
-  "\ufeffTitle": "\u00a1Campesino! Tus Enemigos Te Hicieron Trabajar de Sol a Sol para Alimentarlos. Ahora, que la Tierra es Tuya Trabajar de Sol a Sol para Aniquilarlos", 
+  "CuratorApproved": "Y", 
   "ObjectID": "5792"
 }

@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Jackson Pollock", 
   "URL": "http://www.moma.org/collection/works/61658", 
-  "CuratorApproved": "Y", 
   "CreditLine": "John B. Turner Fund", 
-  "Date": "1937", 
-  "ArtistID": 4675, 
+  "DateAcquired": "1969-02-10", 
   "Keywords": [
-    "online art collection", 
     "Jackson Pollock", 
     "Figures in a Landscape", 
     "1937"
   ], 
+  "ArtistID": 4675, 
+  "Title": "Figures in a Landscape", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "89.1969", 
+  "Date": "1937", 
   "ArtistBio": "(American, 1912\u20131956)", 
-  "DateAcquired": "1969-02-10", 
-  "\ufeffTitle": "Figures in a Landscape", 
+  "CuratorApproved": "Y", 
   "ObjectID": "61658"
 }

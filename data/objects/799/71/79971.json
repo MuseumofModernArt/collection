@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Franti\u0161ek Kupka", 
   "URL": "http://www.moma.org/collection/works/79971", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Hillman Periodicals Fund", 
-  "Date": "1910-11", 
-  "ArtistID": 3302, 
+  "DateAcquired": "1956-12-19", 
   "Keywords": [
-    "online art collection", 
     "Franti&scaron;ek Kupka", 
     "Mme Kupka among Verticals", 
     "1910-11"
   ], 
+  "ArtistID": 3302, 
+  "Title": "Mme Kupka among Verticals", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "563.1956", 
+  "Date": "1910-11", 
   "ArtistBio": "(Czech, 1871\u20131957)", 
-  "DateAcquired": "1956-12-19", 
-  "\ufeffTitle": "Mme Kupka among Verticals", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79971"
 }

@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "John Baldessari", 
   "URL": "http://www.moma.org/collection/works/79531", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Sid R. Bass Fund", 
-  "Date": "1986", 
-  "ArtistID": 304, 
+  "DateAcquired": "1990-10-09", 
   "Keywords": [
-    "online art collection", 
     "John Baldessari", 
     "High Flight", 
     "1986"
   ], 
+  "ArtistID": 304, 
+  "Title": "High Flight", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "359.1990.a-d", 
+  "Date": "1986", 
   "ArtistBio": "(American, born 1931)", 
-  "DateAcquired": "1990-10-09", 
-  "\ufeffTitle": "High Flight", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79531"
 }

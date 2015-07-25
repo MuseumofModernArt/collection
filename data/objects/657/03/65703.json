@@ -4,12 +4,9 @@
   "Classification": "Print", 
   "Artist": "Max Klinger", 
   "URL": "http://www.moma.org/collection/works/65703", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Given anonymously", 
-  "Date": "(1883, published 1897)", 
-  "ArtistID": 3149, 
+  "DateAcquired": "1952-11-07", 
   "Keywords": [
-    "online art collection", 
     "Max Klinger", 
     "On the Tracks (Auf den Schienen) (plate 8) from the portfolio On Death", 
     "Part I", 
@@ -19,10 +16,12 @@
     "(1883", 
     "published 1897)"
   ], 
+  "ArtistID": 3149, 
+  "Title": "On the Tracks (Auf den Schienen) (plate 8) from the portfolio On Death, Part I, Opus XI (Vom Tode, Erster Teil, Opus XI)", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "270.1952", 
+  "Date": "(1883, published 1897)", 
   "ArtistBio": "(German, 1857\u20131920)", 
-  "DateAcquired": "1952-11-07", 
-  "\ufeffTitle": "On the Tracks (Auf den Schienen) (plate 8) from the portfolio On Death, Part I, Opus XI (Vom Tode, Erster Teil, Opus XI)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "65703"
 }

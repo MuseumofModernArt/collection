@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Isamu Noguchi", 
   "URL": "http://www.moma.org/collection/works/81197", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Edward M. M. Warburg", 
-  "Date": "1931", 
-  "ArtistID": 4324, 
+  "DateAcquired": "1950-10-11", 
   "Keywords": [
-    "online art collection", 
     "Isamu Noguchi", 
     "Portrait of my Uncle", 
     "1931"
   ], 
+  "ArtistID": 4324, 
+  "Title": "Portrait of My Uncle", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "244.1950", 
+  "Date": "1931", 
   "ArtistBio": "(American, 1904\u20131988)", 
-  "DateAcquired": "1950-10-11", 
-  "\ufeffTitle": "Portrait of My Uncle", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81197"
 }

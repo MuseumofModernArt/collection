@@ -4,20 +4,19 @@
   "Classification": "Photograph", 
   "Artist": "Henri Cartier-Bresson", 
   "URL": "http://www.moma.org/collection/works/50149", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the photographer", 
-  "Date": "1938", 
-  "ArtistID": 1000, 
+  "DateAcquired": "1947-10-16", 
   "Keywords": [
-    "online art collection", 
     "Henri Cartier-Bresson", 
     "London", 
     "1938"
   ], 
+  "ArtistID": 1000, 
+  "Title": "London", 
   "Department": "Photography", 
   "MoMANumber": "297.1947", 
+  "Date": "1938", 
   "ArtistBio": "(French, 1908\u20132004)", 
-  "DateAcquired": "1947-10-16", 
-  "\ufeffTitle": "London", 
+  "CuratorApproved": "Y", 
   "ObjectID": "50149"
 }

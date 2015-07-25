@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Friedrich Vordemberge-Gildewart", 
   "URL": "http://www.moma.org/collection/works/80546", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The Riklis Collection of McCrory Corporation", 
-  "Date": "1927", 
-  "ArtistID": 6189, 
+  "DateAcquired": "1985-10-25", 
   "Keywords": [
-    "online art collection", 
     "Friedrich Vordemberge-Gildewart", 
     "Composition Number 37", 
     "1927"
   ], 
+  "ArtistID": 6189, 
+  "Title": "Composition Number 37", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "1083.1983", 
+  "Date": "1927", 
   "ArtistBio": "(Dutch, born Germany. 1899\u20131962)", 
-  "DateAcquired": "1985-10-25", 
-  "\ufeffTitle": "Composition Number 37", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80546"
 }

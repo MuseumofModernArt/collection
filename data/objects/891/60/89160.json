@@ -4,12 +4,9 @@
   "Classification": "Print", 
   "Artist": "Various Artists, Alexander Calder, Marc Chagall, Maria Helena Vieira da Silva, Adolph Gottlieb, Wifredo Lam, Jacques Lipchitz, Andr\u00e9 Masson, Joan Mir\u00f3, Robert Motherwell, Fritz Wotruba, \u00c9douard Pignon", 
   "URL": "http://www.moma.org/collection/works/89160", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Jerry I. Speyer and Katherine Farley", 
-  "Date": "1971", 
-  "ArtistID": 6104, 
+  "DateAcquired": "2003-11-20", 
   "Keywords": [
-    "online art collection", 
     "Various Artists with Alexander Calder", 
     "Marc Chagall", 
     "Maria Helena Vieira da Silva", 
@@ -23,10 +20,12 @@
     "Flight", 
     "1971"
   ], 
+  "ArtistID": 6104, 
+  "Title": "Flight", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "367.2003.1-12", 
+  "Date": "1971", 
   "ArtistBio": "(American, 1898\u20131976) (French, born Belarus. 1887\u20131985) (French, born Portugal. 1908\u20131992) (American, 1903\u20131974) (Cuban, 1902\u20131982) (American, born Lithuania. 1891\u20131973) (French, 1896\u20131987) (Spanish, 1893\u20131983) (American, 1915\u20131991) (Austrian, 1907\u20131975) (French, 1905\u20131993)", 
-  "DateAcquired": "2003-11-20", 
-  "\ufeffTitle": "Flight", 
+  "CuratorApproved": "Y", 
   "ObjectID": "89160"
 }

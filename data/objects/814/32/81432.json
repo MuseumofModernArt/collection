@@ -4,21 +4,20 @@
   "Classification": "Sculpture", 
   "Artist": "Marcel Duchamp", 
   "URL": "http://www.moma.org/collection/works/81432", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Mrs. William Sisler and Edward James Fund", 
-  "Date": "Paris, 1925", 
-  "ArtistID": 1634, 
+  "DateAcquired": "1970-10-14", 
   "Keywords": [
-    "online art collection", 
     "Marcel Duchamp", 
     "Rotary Demisphere (Precision Optics)", 
     "Paris", 
     "1925"
   ], 
+  "ArtistID": 1634, 
+  "Title": "Rotary Demisphere (Precision Optics)", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "391.1970.a-c", 
+  "Date": "Paris, 1925", 
   "ArtistBio": "(American, born France. 1887\u20131968)", 
-  "DateAcquired": "1970-10-14", 
-  "\ufeffTitle": "Rotary Demisphere (Precision Optics)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81432"
 }

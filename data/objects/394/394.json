@@ -4,12 +4,9 @@
   "Classification": "A&D Architectural Drawing", 
   "Artist": "Louis I. Kahn", 
   "URL": "http://www.moma.org/collection/works/394", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the architect", 
-  "Date": "1962", 
-  "ArtistID": 2964, 
+  "DateAcquired": "1967-04-11", 
   "Keywords": [
-    "online art collection", 
     "Louis I", 
     "Kahn", 
     "Market Street East Studies", 
@@ -19,10 +16,12 @@
     "Perspective", 
     "1962"
   ], 
+  "ArtistID": 2964, 
+  "Title": "Market Street East Studies, project, Philadelphia, Pennsylvania, Perspective", 
   "Department": "Architecture & Design", 
   "MoMANumber": "362.1967", 
+  "Date": "1962", 
   "ArtistBio": "(American, born Estonia. 1901\u20131974)", 
-  "DateAcquired": "1967-04-11", 
-  "\ufeffTitle": "Market Street East Studies, project, Philadelphia, Pennsylvania, Perspective", 
+  "CuratorApproved": "Y", 
   "ObjectID": "394"
 }

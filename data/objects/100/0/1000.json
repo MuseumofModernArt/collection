@@ -4,22 +4,21 @@
   "Classification": "A&D Architectural Model", 
   "Artist": "Mario Botta", 
   "URL": "http://www.moma.org/collection/works/1000", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Marshall Cogan Purchase Fund", 
-  "Date": "1984", 
-  "ArtistID": 696, 
+  "DateAcquired": "1987-05-27", 
   "Keywords": [
-    "online art collection", 
     "Mario Botta", 
     "House", 
     "Breganoza", 
     "Switzerland", 
     "1984"
   ], 
+  "ArtistID": 696, 
+  "Title": "House, Breganoza, Switzerland", 
   "Department": "Architecture & Design", 
   "MoMANumber": "228.1987", 
+  "Date": "1984", 
   "ArtistBio": "(Swiss, born 1943)", 
-  "DateAcquired": "1987-05-27", 
-  "\ufeffTitle": "House, Breganoza, Switzerland", 
+  "CuratorApproved": "Y", 
   "ObjectID": "1000"
 }

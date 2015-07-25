@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "John Baldessari", 
   "URL": "http://www.moma.org/collection/works/79910", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Donald L. Bryant, Jr.", 
-  "Date": "1966-68", 
-  "ArtistID": 304, 
+  "DateAcquired": "1998-10-13", 
   "Keywords": [
-    "online art collection", 
     "John Baldessari", 
     "What Is Painting", 
     "1966-68"
   ], 
+  "ArtistID": 304, 
+  "Title": "What Is Painting", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "522.1998", 
+  "Date": "1966-68", 
   "ArtistBio": "(American, born 1931)", 
-  "DateAcquired": "1998-10-13", 
-  "\ufeffTitle": "What Is Painting", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79910"
 }

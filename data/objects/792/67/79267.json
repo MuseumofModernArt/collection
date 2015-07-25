@@ -4,21 +4,20 @@
   "Classification": "Painting", 
   "Artist": "Ren\u00e9 Magritte", 
   "URL": "http://www.moma.org/collection/works/79267", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Kay Sage Tanguy Fund", 
-  "Date": "Brussels, 1927", 
-  "ArtistID": 3692, 
+  "DateAcquired": "1966-04-12", 
   "Keywords": [
-    "online art collection", 
     "Ren&eacute; Magritte", 
     "The Menaced Assassin", 
     "Brussels", 
     "1927"
   ], 
+  "ArtistID": 3692, 
+  "Title": "The Menaced Assassin", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "247.1966", 
+  "Date": "Brussels, 1927", 
   "ArtistBio": "(Belgian, 1898\u20131967)", 
-  "DateAcquired": "1966-04-12", 
-  "\ufeffTitle": "The Menaced Assassin", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79267"
 }

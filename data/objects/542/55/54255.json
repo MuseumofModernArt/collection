@@ -4,12 +4,9 @@
   "Classification": "Photograph", 
   "Artist": "Eug\u00e8ne Atget", 
   "URL": "http://www.moma.org/collection/works/54255", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Modern print by Chicago Albumen Works from the original negative in the Abbott-Levy Collection, The Museum of Modern Art", 
-  "Date": "1925", 
-  "ArtistID": 229, 
+  "DateAcquired": "1980-08-07", 
   "Keywords": [
-    "online art collection", 
     "Eug&egrave;ne Atget", 
     "Coin de la rue Valette et Panth&eacute;on", 
     "5e arrondissement", 
@@ -17,10 +14,12 @@
     "matin", 
     "1925"
   ], 
+  "ArtistID": 229, 
+  "Title": "Coin de la rue Valette et Panth\u00e9on", 
   "Department": "Photography", 
   "MoMANumber": "488.1980", 
+  "Date": "1925", 
   "ArtistBio": "(French, 1857\u20131927)", 
-  "DateAcquired": "1980-08-07", 
-  "\ufeffTitle": "Coin de la rue Valette et Panth\u00e9on", 
+  "CuratorApproved": "Y", 
   "ObjectID": "54255"
 }

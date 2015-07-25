@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Barbara Hepworth", 
   "URL": "http://www.moma.org/collection/works/80913", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of W. B. Bennet", 
-  "Date": "1935", 
-  "ArtistID": 2600, 
+  "DateAcquired": "1936-12-17", 
   "Keywords": [
-    "online art collection", 
     "Barbara Hepworth", 
     "Disks in Echelon", 
     "1935"
   ], 
+  "ArtistID": 2600, 
+  "Title": "Disks in Echelon", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "80.1936", 
+  "Date": "1935", 
   "ArtistBio": "(British, 1903\u20131975)", 
-  "DateAcquired": "1936-12-17", 
-  "\ufeffTitle": "Disks in Echelon", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80913"
 }

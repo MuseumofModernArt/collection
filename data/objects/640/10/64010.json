@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Jane Dickson", 
   "URL": "http://www.moma.org/collection/works/64010", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Richard A. Epstein Fund", 
-  "Date": "1984", 
-  "ArtistID": 1538, 
+  "DateAcquired": "1984-05-23", 
   "Keywords": [
-    "online art collection", 
     "Jane Dickson", 
     "Woman on Balcony", 
     "1984"
   ], 
+  "ArtistID": 1538, 
+  "Title": "Woman on Balcony", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "186.1984", 
+  "Date": "1984", 
   "ArtistBio": "(American, born 1952)", 
-  "DateAcquired": "1984-05-23", 
-  "\ufeffTitle": "Woman on Balcony", 
+  "CuratorApproved": "Y", 
   "ObjectID": "64010"
 }

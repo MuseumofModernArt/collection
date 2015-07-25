@@ -4,12 +4,9 @@
   "Classification": "A&D Design", 
   "Artist": "O. J. Kuker, Seattle, WA", 
   "URL": "http://www.moma.org/collection/works/2786", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Arthur Brown, Inc.", 
-  "Date": "c. 1948", 
-  "ArtistID": 3289, 
+  "DateAcquired": "1950-06-08", 
   "Keywords": [
-    "online art collection", 
     "O", 
     "J", 
     "Kuker", 
@@ -19,10 +16,12 @@
     "c", 
     "1948"
   ], 
+  "ArtistID": 3289, 
+  "Title": "Plumb Bob", 
   "Department": "Architecture & Design", 
   "MoMANumber": "222.1950", 
+  "Date": "c. 1948", 
   "ArtistBio": "(American)", 
-  "DateAcquired": "1950-06-08", 
-  "\ufeffTitle": "Plumb Bob", 
+  "CuratorApproved": "Y", 
   "ObjectID": "2786"
 }

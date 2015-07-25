@@ -4,12 +4,9 @@
   "Classification": "A&D Architectural Drawing", 
   "Artist": "Mario Botta", 
   "URL": "http://www.moma.org/collection/works/276", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the architect", 
-  "Date": "1986", 
-  "ArtistID": 696, 
+  "DateAcquired": "1987-05-27", 
   "Keywords": [
-    "online art collection", 
     "Mario Botta", 
     "Thyssen-Bornemisza Gallery", 
     "Lugano", 
@@ -17,10 +14,12 @@
     "Elevation", 
     "1986"
   ], 
+  "ArtistID": 696, 
+  "Title": "Thyssen-Bornemisza Gallery, Lugano, Switzerland, Elevation", 
   "Department": "Architecture & Design", 
   "MoMANumber": "222.1987", 
+  "Date": "1986", 
   "ArtistBio": "(Swiss, born 1943)", 
-  "DateAcquired": "1987-05-27", 
-  "\ufeffTitle": "Thyssen-Bornemisza Gallery, Lugano, Switzerland, Elevation", 
+  "CuratorApproved": "Y", 
   "ObjectID": "276"
 }

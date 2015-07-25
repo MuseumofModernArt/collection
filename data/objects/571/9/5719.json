@@ -4,21 +4,20 @@
   "Classification": "A&D Graphic Design", 
   "Artist": "Xirinin", 
   "URL": "http://www.moma.org/collection/works/5719", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Christian Zervos", 
-  "Date": "c.1936", 
-  "ArtistID": 6473, 
+  "DateAcquired": "1936-01-01", 
   "Keywords": [
-    "online art collection", 
     "Xirinin", 
     "El Pillatje deshonra el Triomf", 
     "U,G,T", 
     "Eviteu-lo! 1900-1936"
   ], 
+  "ArtistID": 6473, 
+  "Title": "El Pillatje deshonra el Triomf, U.G.T, Eviteu-lo!", 
   "Department": "Architecture & Design", 
   "MoMANumber": "217.1936", 
+  "Date": "c.1936", 
   "ArtistBio": "(Spanish)", 
-  "DateAcquired": "1936-01-01", 
-  "\ufeffTitle": "El Pillatje deshonra el Triomf, U.G.T, Eviteu-lo!", 
+  "CuratorApproved": "Y", 
   "ObjectID": "5719"
 }

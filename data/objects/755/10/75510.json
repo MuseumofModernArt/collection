@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Jannis Kounellis", 
   "URL": "http://www.moma.org/collection/works/75510", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Blanchette Hooker Rockefeller Fund", 
-  "Date": "(1979)", 
-  "ArtistID": 3230, 
+  "DateAcquired": "1979-12-04", 
   "Keywords": [
-    "online art collection", 
     "Jannis Kounellis", 
     "Untitled", 
     "(1979)"
   ], 
+  "ArtistID": 3230, 
+  "Title": "Untitled", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "1076.1979", 
+  "Date": "(1979)", 
   "ArtistBio": "(Greek, born 1936)", 
-  "DateAcquired": "1979-12-04", 
-  "\ufeffTitle": "Untitled", 
+  "CuratorApproved": "Y", 
   "ObjectID": "75510"
 }

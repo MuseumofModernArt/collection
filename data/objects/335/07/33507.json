@@ -4,21 +4,20 @@
   "Classification": "Drawing", 
   "Artist": "Jean Dubuffet", 
   "URL": "http://www.moma.org/collection/works/33507", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The Joan and Lester Avnet Collection", 
-  "Date": "June 3, 1944", 
-  "ArtistID": 1633, 
+  "DateAcquired": "1978-04-04", 
   "Keywords": [
-    "online art collection", 
     "Jean Dubuffet", 
     "Shadows Cast in the Pine Forest", 
     "June 3", 
     "1944"
   ], 
+  "ArtistID": 1633, 
+  "Title": "Shadows Cast in the Pine Forest", 
   "Department": "Drawings", 
   "MoMANumber": "48.1978", 
+  "Date": "June 3, 1944", 
   "ArtistBio": "(French, 1901\u20131985)", 
-  "DateAcquired": "1978-04-04", 
-  "\ufeffTitle": "Shadows Cast in the Pine Forest", 
+  "CuratorApproved": "Y", 
   "ObjectID": "33507"
 }

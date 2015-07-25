@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Pablo Picasso", 
   "URL": "http://www.moma.org/collection/works/68016", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Frank Perls", 
-  "Date": "1961", 
-  "ArtistID": 4609, 
+  "DateAcquired": "1962-12-11", 
   "Keywords": [
-    "online art collection", 
     "Pablo Picasso", 
     "Flowers (for U,C,L,A,)", 
     "1961"
   ], 
+  "ArtistID": 4609, 
+  "Title": "Flowers (for U.C.L.A.) (Fleurs [for U.C.L.A.])", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "374.1962", 
+  "Date": "1961", 
   "ArtistBio": "(Spanish, 1881\u20131973)", 
-  "DateAcquired": "1962-12-11", 
-  "\ufeffTitle": "Flowers (for U.C.L.A.) (Fleurs [for U.C.L.A.])", 
+  "CuratorApproved": "Y", 
   "ObjectID": "68016"
 }

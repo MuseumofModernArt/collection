@@ -4,21 +4,20 @@
   "Classification": "Photograph", 
   "Artist": "Dorothea Lange", 
   "URL": "http://www.moma.org/collection/works/57163", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1942", 
-  "ArtistID": 3373, 
+  "DateAcquired": "", 
   "Keywords": [
-    "online art collection", 
     "Dorothea Lange", 
     "Richmond", 
     "California", 
     "1942"
   ], 
+  "ArtistID": 3373, 
+  "Title": "Richmond, California", 
   "Department": "Photography", 
   "MoMANumber": "861.1968", 
+  "Date": "1942", 
   "ArtistBio": "(American, 1895\u20131965)", 
-  "DateAcquired": "", 
-  "\ufeffTitle": "Richmond, California", 
+  "CuratorApproved": "Y", 
   "ObjectID": "57163"
 }

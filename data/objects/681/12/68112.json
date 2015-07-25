@@ -4,21 +4,20 @@
   "Classification": "Print", 
   "Artist": "Christian Rohlfs", 
   "URL": "http://www.moma.org/collection/works/68112", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Frau Christian Rohlfs", 
-  "Date": "(c. 1912)", 
-  "ArtistID": 5000, 
+  "DateAcquired": "1958-12-19", 
   "Keywords": [
-    "online art collection", 
     "Christian Rohlfs", 
     "Benediction (Segen)", 
     "(c", 
     "1912)"
   ], 
+  "ArtistID": 5000, 
+  "Title": "Benediction (Segen)", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "380.1958", 
+  "Date": "(c. 1912)", 
   "ArtistBio": "(German, 1849\u20131938)", 
-  "DateAcquired": "1958-12-19", 
-  "\ufeffTitle": "Benediction (Segen)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "68112"
 }

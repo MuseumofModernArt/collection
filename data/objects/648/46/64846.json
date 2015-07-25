@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Robert Rauschenberg", 
   "URL": "http://www.moma.org/collection/works/64846", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Celeste Bartos", 
-  "Date": "1983", 
-  "ArtistID": 4823, 
+  "DateAcquired": "1983-01-18", 
   "Keywords": [
-    "online art collection", 
     "Robert Rauschenberg", 
     "The Razorback Bunch (Etching VII)", 
     "1983"
   ], 
+  "ArtistID": 4823, 
+  "Title": "The Razorback Bunch (Etching VII)", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "231.1983", 
+  "Date": "1983", 
   "ArtistBio": "(American, 1925\u20132008)", 
-  "DateAcquired": "1983-01-18", 
-  "\ufeffTitle": "The Razorback Bunch (Etching VII)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "64846"
 }

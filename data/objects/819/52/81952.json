@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Vladimir Stenberg", 
   "URL": "http://www.moma.org/collection/works/81952", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The Riklis Collection of McCrory Corporation", 
-  "Date": "1919", 
-  "ArtistID": 5642, 
+  "DateAcquired": "1985-10-25", 
   "Keywords": [
-    "online art collection", 
     "Vladimir Stenberg", 
     "Structure in Space KPs6", 
     "1919"
   ], 
+  "ArtistID": 5642, 
+  "Title": "Structure in Space KPs6", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "1073.1983.a-b", 
+  "Date": "1919", 
   "ArtistBio": "(Russian, 1899\u20131982)", 
-  "DateAcquired": "1985-10-25", 
-  "\ufeffTitle": "Structure in Space KPs6", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81952"
 }

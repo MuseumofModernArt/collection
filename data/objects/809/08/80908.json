@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Peter Fischli, David Weiss", 
   "URL": "http://www.moma.org/collection/works/80908", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1987", 
-  "ArtistID": 1891, 
+  "DateAcquired": "1989-05-08", 
   "Keywords": [
-    "online art collection", 
     "Peter Fischli and David Weiss", 
     "The Way Things Go", 
     "1987"
   ], 
+  "ArtistID": 1891, 
+  "Title": "The Way Things Go", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "77.1989", 
+  "Date": "1987", 
   "ArtistBio": "(Swiss, born 1952) (Swiss, 1946\u20132012)", 
-  "DateAcquired": "1989-05-08", 
-  "\ufeffTitle": "The Way Things Go", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80908"
 }

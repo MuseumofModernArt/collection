@@ -4,20 +4,19 @@
   "Classification": "Photograph", 
   "Artist": "Roger Fenton", 
   "URL": "http://www.moma.org/collection/works/55584", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1857", 
-  "ArtistID": 1847, 
+  "DateAcquired": "1941-12-10", 
   "Keywords": [
-    "online art collection", 
     "Roger Fenton", 
     "Kirham Abbey", 
     "1857"
   ], 
+  "ArtistID": 1847, 
+  "Title": "Kirham Abbey", 
   "Department": "Photography", 
   "MoMANumber": "612.1941", 
+  "Date": "1857", 
   "ArtistBio": "(British, 1819\u20131869)", 
-  "DateAcquired": "1941-12-10", 
-  "\ufeffTitle": "Kirham Abbey", 
+  "CuratorApproved": "Y", 
   "ObjectID": "55584"
 }

@@ -4,12 +4,9 @@
   "Classification": "Photograph", 
   "Artist": "Clarence H. White", 
   "URL": "http://www.moma.org/collection/works/53443", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Jane Felix White", 
-  "Date": "1902", 
-  "ArtistID": 6338, 
+  "DateAcquired": "1941-06-10", 
   "Keywords": [
-    "online art collection", 
     "Clarence H", 
     "White", 
     "In the Orchard", 
@@ -17,10 +14,12 @@
     "Ohio", 
     "1902"
   ], 
+  "ArtistID": 6338, 
+  "Title": "In the Orchard, Newark, Ohio", 
   "Department": "Photography", 
   "MoMANumber": "443.1941", 
+  "Date": "1902", 
   "ArtistBio": "(American, 1871\u20131925)", 
-  "DateAcquired": "1941-06-10", 
-  "\ufeffTitle": "In the Orchard, Newark, Ohio", 
+  "CuratorApproved": "Y", 
   "ObjectID": "53443"
 }

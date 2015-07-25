@@ -4,21 +4,20 @@
   "Classification": "Photograph", 
   "Artist": "Bruce Hoertel/The New York Times", 
   "URL": "http://www.moma.org/collection/works/58609", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The New York Times Collection", 
-  "Date": "November 1, 1950", 
-  "ArtistID": 8553, 
+  "DateAcquired": "2001-06-14", 
   "Keywords": [
-    "online art collection", 
     "Bruce Hoertel/The New York Times", 
     "Attempted Assassin of President Shot Down", 
     "November 1", 
     "1950"
   ], 
+  "ArtistID": 8553, 
+  "Title": "Attempted Assassin of President Shot Down", 
   "Department": "Photography", 
   "MoMANumber": "2016.2001", 
+  "Date": "November 1, 1950", 
   "ArtistBio": "(American, born 1923)", 
-  "DateAcquired": "2001-06-14", 
-  "\ufeffTitle": "Attempted Assassin of President Shot Down", 
+  "CuratorApproved": "Y", 
   "ObjectID": "58609"
 }

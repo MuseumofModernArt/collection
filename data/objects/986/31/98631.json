@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Alberto Giacometti", 
   "URL": "http://www.moma.org/collection/works/98631", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Fractional and promised gift of Marie-Jos\u00e9e and Henry R. Kravis", 
-  "Date": "1933-34", 
-  "ArtistID": 2141, 
+  "DateAcquired": "2005-05-09", 
   "Keywords": [
-    "online art collection", 
     "Alberto Giacometti", 
     "Head-Skull", 
     "1933-34"
   ], 
+  "ArtistID": 2141, 
+  "Title": "Head-Skull", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "237.2005", 
+  "Date": "1933-34", 
   "ArtistBio": "(Swiss, 1901\u20131966)", 
-  "DateAcquired": "2005-05-09", 
-  "\ufeffTitle": "Head-Skull", 
+  "CuratorApproved": "Y", 
   "ObjectID": "98631"
 }

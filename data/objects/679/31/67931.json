@@ -4,22 +4,21 @@
   "Classification": "Print", 
   "Artist": "Pablo Picasso", 
   "URL": "http://www.moma.org/collection/works/67931", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Curt Valentin Bequest", 
-  "Date": "(Feb. 16, 1954)", 
-  "ArtistID": 4609, 
+  "DateAcquired": "1955-11-23", 
   "Keywords": [
-    "online art collection", 
     "Pablo Picasso", 
     "Saltimbanque's Family (La Famille du Saltimbanque)", 
     "(Feb", 
     "16", 
     "1954)"
   ], 
+  "ArtistID": 4609, 
+  "Title": "Saltimbanque's Family (La Famille du Saltimbanque)", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "370.1955", 
+  "Date": "(Feb. 16, 1954)", 
   "ArtistBio": "(Spanish, 1881\u20131973)", 
-  "DateAcquired": "1955-11-23", 
-  "\ufeffTitle": "Saltimbanque's Family (La Famille du Saltimbanque)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "67931"
 }

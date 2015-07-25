@@ -4,12 +4,9 @@
   "Classification": "Drawing", 
   "Artist": "Paul McCarthy", 
   "URL": "http://www.moma.org/collection/works/88077", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Ninah and Michael Lynne", 
-  "Date": "2000", 
-  "ArtistID": 7637, 
+  "DateAcquired": "2003-05-13", 
   "Keywords": [
-    "online art collection", 
     "Paul McCarthy", 
     "Dancer", 
     "Kristen", 
@@ -17,10 +14,12 @@
     "Paul", 
     "2000"
   ], 
+  "ArtistID": 7637, 
+  "Title": "Dancer, Kristen, Jeffrey, Paul", 
   "Department": "Drawings", 
   "MoMANumber": "146.2003.3", 
+  "Date": "2000", 
   "ArtistBio": "(American, born 1945)", 
-  "DateAcquired": "2003-05-13", 
-  "\ufeffTitle": "Dancer, Kristen, Jeffrey, Paul", 
+  "CuratorApproved": "Y", 
   "ObjectID": "88077"
 }

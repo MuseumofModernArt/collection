@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Ross Bleckner", 
   "URL": "http://www.moma.org/collection/works/79377", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Agnes Gund in memory of Thomas Ammann", 
-  "Date": "1994", 
-  "ArtistID": 597, 
+  "DateAcquired": "1994-05-09", 
   "Keywords": [
-    "online art collection", 
     "Ross Bleckner", 
     "Memorial II", 
     "1994"
   ], 
+  "ArtistID": 597, 
+  "Title": "Memorial II", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "278.1994", 
+  "Date": "1994", 
   "ArtistBio": "(American, born 1949)", 
-  "DateAcquired": "1994-05-09", 
-  "\ufeffTitle": "Memorial II", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79377"
 }

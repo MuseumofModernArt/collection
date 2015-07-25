@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Richard Tuttle", 
   "URL": "http://www.moma.org/collection/works/86630", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Nina and Gordon Bunshaft Bequest (by exchange)", 
-  "Date": "1966", 
-  "ArtistID": 5983, 
+  "DateAcquired": "2002-10-07", 
   "Keywords": [
-    "online art collection", 
     "Richard Tuttle", 
     "Letters (The Twenty-Six Series)", 
     "1966"
   ], 
+  "ArtistID": 5983, 
+  "Title": "Letters (The Twenty-Six Series)", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "273.2002.a-z", 
+  "Date": "1966", 
   "ArtistBio": "(American, born 1941)", 
-  "DateAcquired": "2002-10-07", 
-  "\ufeffTitle": "Letters (The Twenty-Six Series)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "86630"
 }

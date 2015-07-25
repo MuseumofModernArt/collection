@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Franz Kline", 
   "URL": "http://www.moma.org/collection/works/78319", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Mr. and Mrs. David M. Solinger", 
-  "Date": "1950", 
-  "ArtistID": 3148, 
+  "DateAcquired": "1951-01-22", 
   "Keywords": [
-    "online art collection", 
     "Franz Kline", 
     "Chief", 
     "1950"
   ], 
+  "ArtistID": 3148, 
+  "Title": "Chief", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "2.1952", 
+  "Date": "1950", 
   "ArtistBio": "(American, 1910\u20131962)", 
-  "DateAcquired": "1951-01-22", 
-  "\ufeffTitle": "Chief", 
+  "CuratorApproved": "Y", 
   "ObjectID": "78319"
 }

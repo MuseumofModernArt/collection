@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Robert Delaunay", 
   "URL": "http://www.moma.org/collection/works/80024", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The Sidney and Harriet Janis Collection", 
-  "Date": "Paris 1912", 
-  "ArtistID": 1479, 
+  "DateAcquired": "1967-10-18", 
   "Keywords": [
-    "online art collection", 
     "Robert Delaunay", 
     "Windows", 
     "Paris 1912"
   ], 
+  "ArtistID": 1479, 
+  "Title": "Windows", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "586.1967", 
+  "Date": "Paris 1912", 
   "ArtistBio": "(French, 1885\u20131941)", 
-  "DateAcquired": "1967-10-18", 
-  "\ufeffTitle": "Windows", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80024"
 }

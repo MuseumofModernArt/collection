@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Jasper Johns", 
   "URL": "http://www.moma.org/collection/works/68748", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Celeste Bartos", 
-  "Date": "1978", 
-  "ArtistID": 2923, 
+  "DateAcquired": "1978-05-22", 
   "Keywords": [
-    "online art collection", 
     "Jasper Johns", 
     "Savarin 1 (Cookie)", 
     "1978"
   ], 
+  "ArtistID": 2923, 
+  "Title": "Savarin 1 (Cookie)", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "416.1978", 
+  "Date": "1978", 
   "ArtistBio": "(American, born 1930)", 
-  "DateAcquired": "1978-05-22", 
-  "\ufeffTitle": "Savarin 1 (Cookie)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "68748"
 }

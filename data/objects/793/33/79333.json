@@ -4,21 +4,20 @@
   "Classification": "Painting", 
   "Artist": "Georges-Pierre Seurat", 
   "URL": "http://www.moma.org/collection/works/79333", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Mrs. David M. Levy", 
-  "Date": "1886", 
-  "ArtistID": 5358, 
+  "DateAcquired": "1957-12-04", 
   "Keywords": [
-    "online art collection", 
     "Georges-Pierre Seurat", 
     "Evening", 
     "Honfleur", 
     "1886"
   ], 
+  "ArtistID": 5358, 
+  "Title": "Evening, Honfleur", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "266.1957", 
+  "Date": "1886", 
   "ArtistBio": "(French, 1859\u20131891)", 
-  "DateAcquired": "1957-12-04", 
-  "\ufeffTitle": "Evening, Honfleur", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79333"
 }

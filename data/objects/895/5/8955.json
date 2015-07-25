@@ -4,20 +4,19 @@
   "Classification": "A&D Graphic Design", 
   "Artist": "Roy Lichtenstein", 
   "URL": "http://www.moma.org/collection/works/8955", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Mr. and Mrs. Armand P. Bartos", 
-  "Date": "1967", 
-  "ArtistID": 3542, 
+  "DateAcquired": "1967-10-18", 
   "Keywords": [
-    "online art collection", 
     "Roy Lichtenstein", 
     "Aspen Winter Jazz", 
     "1967"
   ], 
+  "ArtistID": 3542, 
+  "Title": "Aspen Winter Jazz", 
   "Department": "Architecture & Design", 
   "MoMANumber": "2252.1967", 
+  "Date": "1967", 
   "ArtistBio": "(American, 1923\u20131997)", 
-  "DateAcquired": "1967-10-18", 
-  "\ufeffTitle": "Aspen Winter Jazz", 
+  "CuratorApproved": "Y", 
   "ObjectID": "8955"
 }

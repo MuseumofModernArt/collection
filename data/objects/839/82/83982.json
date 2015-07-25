@@ -4,21 +4,20 @@
   "Classification": "Photograph", 
   "Artist": "Henri Cartier-Bresson", 
   "URL": "http://www.moma.org/collection/works/83982", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Thomas Walther Collection. Gift of Thomas Walther", 
-  "Date": "1933", 
-  "ArtistID": 1000, 
+  "DateAcquired": "2001-12-13", 
   "Keywords": [
-    "online art collection", 
     "Henri Cartier-Bresson", 
     "Alicante", 
     "Spain", 
     "1933"
   ], 
+  "ArtistID": 1000, 
+  "Title": "Alicante, Spain", 
   "Department": "Photography", 
   "MoMANumber": "1650.2001", 
+  "Date": "1933", 
   "ArtistBio": "(French, 1908\u20132004)", 
-  "DateAcquired": "2001-12-13", 
-  "\ufeffTitle": "Alicante, Spain", 
+  "CuratorApproved": "Y", 
   "ObjectID": "83982"
 }

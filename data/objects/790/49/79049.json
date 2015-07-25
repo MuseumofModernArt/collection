@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Adolph Gottlieb", 
   "URL": "http://www.moma.org/collection/works/79049", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Mr. and Mrs. Roy R. Neuberger", 
-  "Date": "1946", 
-  "ArtistID": 2268, 
+  "DateAcquired": "1946-11-14", 
   "Keywords": [
-    "online art collection", 
     "Adolph Gottlieb", 
     "Voyager's Return", 
     "1946"
   ], 
+  "ArtistID": 2268, 
+  "Title": "Voyager's Return", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "175.1946", 
+  "Date": "1946", 
   "ArtistBio": "(American, 1903\u20131974)", 
-  "DateAcquired": "1946-11-14", 
-  "\ufeffTitle": "Voyager's Return", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79049"
 }

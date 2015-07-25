@@ -4,21 +4,20 @@
   "Classification": "Painting", 
   "Artist": "Henri Matisse", 
   "URL": "http://www.moma.org/collection/works/80016", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Mrs. John Hay Whitney Bequest", 
-  "Date": "1904", 
-  "ArtistID": 3832, 
+  "DateAcquired": "1998-09-22", 
   "Keywords": [
-    "online art collection", 
     "Henri Matisse", 
     "Study for \"Luxe", 
     "calme et volupt&eacute;\"", 
     "1904"
   ], 
+  "ArtistID": 3832, 
+  "Title": "Study for \"Luxe, calme et volupt\u00e9\"", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "582.1998", 
+  "Date": "1904", 
   "ArtistBio": "(French, 1869\u20131954)", 
-  "DateAcquired": "1998-09-22", 
-  "\ufeffTitle": "Study for \"Luxe, calme et volupt\u00e9\"", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80016"
 }

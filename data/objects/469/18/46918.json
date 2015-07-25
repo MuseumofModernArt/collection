@@ -4,12 +4,9 @@
   "Classification": "Photograph", 
   "Artist": "Margaret Bourke-White", 
   "URL": "http://www.moma.org/collection/works/46918", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the photographer", 
-  "Date": "c. 1930", 
-  "ArtistID": 712, 
+  "DateAcquired": "1974-04-02", 
   "Keywords": [
-    "online art collection", 
     "Margaret Bourke-White", 
     "Electric Furnace", 
     "Ludlum Steel Co,", 
@@ -18,10 +15,12 @@
     "c", 
     "1930"
   ], 
+  "ArtistID": 712, 
+  "Title": "Electric Furnace, Ludlum Steel Co., Dunkirk, New York", 
   "Department": "Photography", 
   "MoMANumber": "150.1974", 
+  "Date": "c. 1930", 
   "ArtistBio": "(American, 1904\u20131971)", 
-  "DateAcquired": "1974-04-02", 
-  "\ufeffTitle": "Electric Furnace, Ludlum Steel Co., Dunkirk, New York", 
+  "CuratorApproved": "Y", 
   "ObjectID": "46918"
 }

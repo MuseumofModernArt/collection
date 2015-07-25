@@ -4,21 +4,20 @@
   "Classification": "Print", 
   "Artist": "John Walker", 
   "URL": "http://www.moma.org/collection/works/69433", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Dorothy B. and Joseph M. Edinburg Fund", 
-  "Date": "1977", 
-  "ArtistID": 6220, 
+  "DateAcquired": "1977-11-10", 
   "Keywords": [
-    "online art collection", 
     "John Walker", 
     "Untitled No", 
     "16", 
     "1977"
   ], 
+  "ArtistID": 6220, 
+  "Title": "Untitled No. 16", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "458.1977", 
+  "Date": "1977", 
   "ArtistBio": "(British, born 1939)", 
-  "DateAcquired": "1977-11-10", 
-  "\ufeffTitle": "Untitled No. 16", 
+  "CuratorApproved": "Y", 
   "ObjectID": "69433"
 }

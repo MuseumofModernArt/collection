@@ -4,21 +4,20 @@
   "Classification": "Sculpture", 
   "Artist": "Piero Manzoni", 
   "URL": "http://www.moma.org/collection/works/80955", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Fratelli Fabbri Editori and purchase", 
-  "Date": "July 24, 1961", 
-  "ArtistID": 3741, 
+  "DateAcquired": "1973-02-13", 
   "Keywords": [
-    "online art collection", 
     "Piero Manzoni", 
     "Line 1000 Meters Long", 
     "July 24", 
     "1961"
   ], 
+  "ArtistID": 3741, 
+  "Title": "Line 1000 Meters Long", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "110.1973", 
+  "Date": "July 24, 1961", 
   "ArtistBio": "(Italian, 1933\u20131963)", 
-  "DateAcquired": "1973-02-13", 
-  "\ufeffTitle": "Line 1000 Meters Long", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80955"
 }

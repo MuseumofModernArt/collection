@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Paul Kleinschmidt", 
   "URL": "http://www.moma.org/collection/works/72788", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Given anonymously", 
-  "Date": "1920", 
-  "ArtistID": 3140, 
+  "DateAcquired": "1943-11-04", 
   "Keywords": [
-    "online art collection", 
     "Paul Kleinschmidt", 
     "Before the Mirror (Vor dem Spiegel)", 
     "1920"
   ], 
+  "ArtistID": 3140, 
+  "Title": "Before the Mirror (Vor dem Spiegel)", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "662.1943", 
+  "Date": "1920", 
   "ArtistBio": "(German, 1883\u20131949)", 
-  "DateAcquired": "1943-11-04", 
-  "\ufeffTitle": "Before the Mirror (Vor dem Spiegel)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "72788"
 }

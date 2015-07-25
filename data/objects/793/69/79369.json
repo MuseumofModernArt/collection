@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Shirley Jaffe", 
   "URL": "http://www.moma.org/collection/works/79369", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Blanchette Hooker Rockefeller Fund and gift of an anonymous donor", 
-  "Date": "1987", 
-  "ArtistID": 2879, 
+  "DateAcquired": "1987-10-13", 
   "Keywords": [
-    "online art collection", 
     "Shirley Jaffe", 
     "Hop and Skip", 
     "1987"
   ], 
+  "ArtistID": 2879, 
+  "Title": "Hop and Skip", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "276.1987", 
+  "Date": "1987", 
   "ArtistBio": "(American, born 1923)", 
-  "DateAcquired": "1987-10-13", 
-  "\ufeffTitle": "Hop and Skip", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79369"
 }

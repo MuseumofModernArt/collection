@@ -4,12 +4,9 @@
   "Classification": "Photograph", 
   "Artist": "Ming Smith", 
   "URL": "http://www.moma.org/collection/works/55307", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Agnes Gund", 
-  "Date": "1979", 
-  "ArtistID": 7906, 
+  "DateAcquired": "1998-10-15", 
   "Keywords": [
-    "online art collection", 
     "Ming Smith", 
     "Ooloong's Nightmare", 
     "Save the Children (for Marvin Gaye)", 
@@ -17,10 +14,12 @@
     "NY", 
     "1979"
   ], 
+  "ArtistID": 7906, 
+  "Title": "Ooloong's Nightmare, Save the Children (for Marvin Gaye), New York City, NY", 
   "Department": "Photography", 
   "MoMANumber": "576.1998", 
+  "Date": "1979", 
   "ArtistBio": "(American)", 
-  "DateAcquired": "1998-10-15", 
-  "\ufeffTitle": "Ooloong's Nightmare, Save the Children (for Marvin Gaye), New York City, NY", 
+  "CuratorApproved": "Y", 
   "ObjectID": "55307"
 }

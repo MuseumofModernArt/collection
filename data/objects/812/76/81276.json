@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Bryan Hunt", 
   "URL": "http://www.moma.org/collection/works/81276", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Revlon", 
-  "Date": "1983", 
-  "ArtistID": 2767, 
+  "DateAcquired": "1987-10-13", 
   "Keywords": [
-    "online art collection", 
     "Bryan Hunt", 
     "Night Landing", 
     "1983"
   ], 
+  "ArtistID": 2767, 
+  "Title": "Night Landing", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "275.1987", 
+  "Date": "1983", 
   "ArtistBio": "(American, born 1947)", 
-  "DateAcquired": "1987-10-13", 
-  "\ufeffTitle": "Night Landing", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81276"
 }

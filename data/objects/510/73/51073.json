@@ -4,21 +4,20 @@
   "Classification": "Photograph", 
   "Artist": "Bruce Horowitz", 
   "URL": "http://www.moma.org/collection/works/51073", 
-  "CuratorApproved": "Y", 
   "CreditLine": "John Parkinson III Fund", 
-  "Date": "1974", 
-  "ArtistID": 2729, 
+  "DateAcquired": "1974-06-04", 
   "Keywords": [
-    "online art collection", 
     "Bruce Horowitz", 
     "Brenda B", 
     "in Front of Her House", 
     "1974"
   ], 
+  "ArtistID": 2729, 
+  "Title": "Brenda B. in Front of Her House", 
   "Department": "Photography", 
   "MoMANumber": "335.1974", 
+  "Date": "1974", 
   "ArtistBio": "(American, born 1949)", 
-  "DateAcquired": "1974-06-04", 
-  "\ufeffTitle": "Brenda B. in Front of Her House", 
+  "CuratorApproved": "Y", 
   "ObjectID": "51073"
 }

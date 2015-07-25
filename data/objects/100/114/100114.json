@@ -4,12 +4,9 @@
   "Classification": "A&D Mies van der Rohe Archive", 
   "Artist": "Ludwig Mies van der Rohe", 
   "URL": "http://www.moma.org/collection/works/100114", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Mies van der Rohe Archive, gift of the architect", 
-  "Date": "1954", 
-  "ArtistID": 7166, 
+  "DateAcquired": "", 
   "Keywords": [
-    "online art collection", 
     "Ludwig Mies van der Rohe", 
     "Cullinan Wing Addition", 
     "The Museum of Fine Arts", 
@@ -18,10 +15,12 @@
     "Perpective of terrace and sculpture garden", 
     "1954"
   ], 
+  "ArtistID": 7166, 
+  "Title": "Cullinan Wing Addition, The Museum of Fine Arts, Houston, Texas, Perpective of terrace and sculpture garden", 
   "Department": "Architecture & Design", 
   "MoMANumber": "MR5405B.87", 
+  "Date": "1954", 
   "ArtistBio": "(American, born Germany. 1886\u20131969)", 
-  "DateAcquired": "", 
-  "\ufeffTitle": "Cullinan Wing Addition, The Museum of Fine Arts, Houston, Texas, Perpective of terrace and sculpture garden", 
+  "CuratorApproved": "Y", 
   "ObjectID": "100114"
 }

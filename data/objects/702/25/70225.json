@@ -4,21 +4,20 @@
   "Classification": "Print", 
   "Artist": "James Ensor", 
   "URL": "http://www.moma.org/collection/works/70225", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Given anonymously", 
-  "Date": "1890", 
-  "ArtistID": 1739, 
+  "DateAcquired": "1942-11-19", 
   "Keywords": [
-    "online art collection", 
     "James Ensor", 
     "The Music in the Rue de Flandre", 
     "Ostend", 
     "1890"
   ], 
+  "ArtistID": 1739, 
+  "Title": "The Music in the Rue de Flandre, Ostend", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "504.1942", 
+  "Date": "1890", 
   "ArtistBio": "(Belgian, 1860\u20131949)", 
-  "DateAcquired": "1942-11-19", 
-  "\ufeffTitle": "The Music in the Rue de Flandre, Ostend", 
+  "CuratorApproved": "Y", 
   "ObjectID": "70225"
 }

@@ -4,12 +4,9 @@
   "Classification": "A&D Architectural Drawing", 
   "Artist": "Arata Isozaki", 
   "URL": "http://www.moma.org/collection/works/237", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the architect", 
-  "Date": "1992", 
-  "ArtistID": 2837, 
+  "DateAcquired": "1993-05-04", 
   "Keywords": [
-    "online art collection", 
     "Arata Isozaki", 
     "Nara Convention Hall", 
     "Nara", 
@@ -17,10 +14,12 @@
     "Site-plan sketch", 
     "1992"
   ], 
+  "ArtistID": 2837, 
+  "Title": "Nara Convention Hall, Nara, Japan, Site-plan sketch", 
   "Department": "Architecture & Design", 
   "MoMANumber": "151.1993", 
+  "Date": "1992", 
   "ArtistBio": "(Japanese, born 1931)", 
-  "DateAcquired": "1993-05-04", 
-  "\ufeffTitle": "Nara Convention Hall, Nara, Japan, Site-plan sketch", 
+  "CuratorApproved": "Y", 
   "ObjectID": "237"
 }

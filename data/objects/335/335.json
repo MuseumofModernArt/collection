@@ -4,12 +4,9 @@
   "Classification": "A&D Architectural Drawing", 
   "Artist": "Raimund Abraham", 
   "URL": "http://www.moma.org/collection/works/335", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the architect in honor of Philip Johnson", 
-  "Date": "1992", 
-  "ArtistID": 47, 
+  "DateAcquired": "1996-09-25", 
   "Keywords": [
-    "online art collection", 
     "Raimund Abraham", 
     "Jewish Museum Project", 
     "Judenplatz", 
@@ -18,10 +15,12 @@
     "Exterior perspective", 
     "1992"
   ], 
+  "ArtistID": 47, 
+  "Title": "Jewish Museum Project, Judenplatz, Vienna, Austria  Project, Exterior perspective", 
   "Department": "Architecture & Design", 
   "MoMANumber": "343.1996", 
+  "Date": "1992", 
   "ArtistBio": "(American, born Austria. 1933\u20132010)", 
-  "DateAcquired": "1996-09-25", 
-  "\ufeffTitle": "Jewish Museum Project, Judenplatz, Vienna, Austria  Project, Exterior perspective", 
+  "CuratorApproved": "Y", 
   "ObjectID": "335"
 }

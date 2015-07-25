@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Neil Jenney", 
   "URL": "http://www.moma.org/collection/works/87285", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Committee on Painting and Sculpture Funds", 
-  "Date": "1968", 
-  "ArtistID": 2904, 
+  "DateAcquired": "2003-02-10", 
   "Keywords": [
-    "online art collection", 
     "Neil Jenney", 
     "The Joanne Duffy Piece", 
     "1968"
   ], 
+  "ArtistID": 2904, 
+  "Title": "The Joanne Duffy Piece", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "1.2003.a-h", 
+  "Date": "1968", 
   "ArtistBio": "(American, born 1945)", 
-  "DateAcquired": "2003-02-10", 
-  "\ufeffTitle": "The Joanne Duffy Piece", 
+  "CuratorApproved": "Y", 
   "ObjectID": "87285"
 }

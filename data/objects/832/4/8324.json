@@ -4,12 +4,9 @@
   "Classification": "A&D Graphic Design", 
   "Artist": "Erik Nitsche", 
   "URL": "http://www.moma.org/collection/works/8324", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Given anonymously", 
-  "Date": "c.1958", 
-  "ArtistID": 4311, 
+  "DateAcquired": "1979-05-30", 
   "Keywords": [
-    "online art collection", 
     "Erik Nitsche", 
     "Exploring the Universe", 
     "First Step Into Space", 
@@ -17,10 +14,12 @@
     "Unknown  c", 
     "1955"
   ], 
+  "ArtistID": 4311, 
+  "Title": "Exploring the Universe, First Step Into Space, General Dynamics", 
   "Department": "Architecture & Design", 
   "MoMANumber": "884.1979", 
+  "Date": "c.1958", 
   "ArtistBio": "(Swiss, 1908\u20131998)", 
-  "DateAcquired": "1979-05-30", 
-  "\ufeffTitle": "Exploring the Universe, First Step Into Space, General Dynamics", 
+  "CuratorApproved": "Y", 
   "ObjectID": "8324"
 }

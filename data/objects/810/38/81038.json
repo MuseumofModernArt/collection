@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Marcel Duchamp", 
   "URL": "http://www.moma.org/collection/works/81038", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Mr. and Mrs. Solomon Ethe", 
-  "Date": "New York 1954", 
-  "ArtistID": 1634, 
+  "DateAcquired": "1962-05-08", 
   "Keywords": [
-    "online art collection", 
     "Marcel Duchamp", 
     "Wedge of Chastity", 
     "New York 1954"
   ], 
+  "ArtistID": 1634, 
+  "Title": "Wedge of Chastity", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "154.1962.a-b", 
+  "Date": "New York 1954", 
   "ArtistBio": "(American, born France. 1887\u20131968)", 
-  "DateAcquired": "1962-05-08", 
-  "\ufeffTitle": "Wedge of Chastity", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81038"
 }

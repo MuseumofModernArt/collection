@@ -4,21 +4,20 @@
   "Classification": "Painting", 
   "Artist": "Pierre Bonnard", 
   "URL": "http://www.moma.org/collection/works/79325", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Mr. and Mrs. David Rockefeller", 
-  "Date": "c. 1944-46", 
-  "ArtistID": 665, 
+  "DateAcquired": "1984-10-09", 
   "Keywords": [
-    "online art collection", 
     "Pierre Bonnard", 
     "Basket of Fruit Reflected in a Mirror", 
     "c", 
     "1944-46"
   ], 
+  "ArtistID": 665, 
+  "Title": "Basket of Fruit Reflected in a Mirror", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "263.1984", 
+  "Date": "c. 1944-46", 
   "ArtistBio": "(French, 1867\u20131947)", 
-  "DateAcquired": "1984-10-09", 
-  "\ufeffTitle": "Basket of Fruit Reflected in a Mirror", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79325"
 }

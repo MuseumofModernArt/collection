@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Martin Disler", 
   "URL": "http://www.moma.org/collection/works/66587", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The Margery and Harry Kahn Fund", 
-  "Date": "1986", 
-  "ArtistID": 1553, 
+  "DateAcquired": "1986-10-15", 
   "Keywords": [
-    "online art collection", 
     "Martin Disler", 
     "Gravure W", 
     "1986"
   ], 
+  "ArtistID": 1553, 
+  "Title": "Gravure W", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "307.1986.a-c", 
+  "Date": "1986", 
   "ArtistBio": "(Swiss, 1949\u20131996)", 
-  "DateAcquired": "1986-10-15", 
-  "\ufeffTitle": "Gravure W", 
+  "CuratorApproved": "Y", 
   "ObjectID": "66587"
 }

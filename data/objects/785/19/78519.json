@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Theodoros Stamos", 
   "URL": "http://www.moma.org/collection/works/78519", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Edward W. Root", 
-  "Date": "1946", 
-  "ArtistID": 5597, 
+  "DateAcquired": "1947-03-13", 
   "Keywords": [
-    "online art collection", 
     "Theodoros Stamos", 
     "Sounds in the Rock", 
     "1946"
   ], 
+  "ArtistID": 5597, 
+  "Title": "Sounds in the Rock", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "27.1947", 
+  "Date": "1946", 
   "ArtistBio": "(American, 1922\u20131997)", 
-  "DateAcquired": "1947-03-13", 
-  "\ufeffTitle": "Sounds in the Rock", 
+  "CuratorApproved": "Y", 
   "ObjectID": "78519"
 }

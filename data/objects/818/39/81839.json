@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Alexander Calder", 
   "URL": "http://www.moma.org/collection/works/81839", 
-  "CuratorApproved": "Y", 
   "CreditLine": "James Thrall Soby Fund", 
-  "Date": "1941", 
-  "ArtistID": 922, 
+  "DateAcquired": "1943-12-02", 
   "Keywords": [
-    "online art collection", 
     "Alexander Calder", 
     "Necklace", 
     "1941"
   ], 
+  "ArtistID": 922, 
+  "Title": "Necklace", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "748.1943", 
+  "Date": "1941", 
   "ArtistBio": "(American, 1898\u20131976)", 
-  "DateAcquired": "1943-12-02", 
-  "\ufeffTitle": "Necklace", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81839"
 }

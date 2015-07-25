@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Alexander Calder", 
   "URL": "http://www.moma.org/collection/works/81903", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the artist", 
-  "Date": "1943", 
-  "ArtistID": 922, 
+  "DateAcquired": "1966-10-11", 
   "Keywords": [
-    "online art collection", 
     "Alexander Calder", 
     "Morning Star", 
     "1943"
   ], 
+  "ArtistID": 922, 
+  "Title": "Morning Star", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "848.1966", 
+  "Date": "1943", 
   "ArtistBio": "(American, 1898\u20131976)", 
-  "DateAcquired": "1966-10-11", 
-  "\ufeffTitle": "Morning Star", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81903"
 }

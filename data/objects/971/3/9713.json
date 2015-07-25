@@ -4,12 +4,9 @@
   "Classification": "Illustrated Book", 
   "Artist": "Eric Fischl", 
   "URL": "http://www.moma.org/collection/works/9713", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Mr. and Mrs. Constantine Sidamon-Eristoff Fund", 
-  "Date": "1986", 
-  "ArtistID": 1889, 
+  "DateAcquired": "1987-01-15", 
   "Keywords": [
-    "online art collection", 
     "Eric Fischl", 
     "Annie", 
     "Gwen", 
@@ -17,10 +14,12 @@
     "Pam and Tulip", 
     "1986"
   ], 
+  "ArtistID": 1889, 
+  "Title": "Annie, Gwen, Lilly, Pam and Tulip", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "23.1987.1-9", 
+  "Date": "1986", 
   "ArtistBio": "(American, born 1948)", 
-  "DateAcquired": "1987-01-15", 
-  "\ufeffTitle": "Annie, Gwen, Lilly, Pam and Tulip", 
+  "CuratorApproved": "Y", 
   "ObjectID": "9713"
 }

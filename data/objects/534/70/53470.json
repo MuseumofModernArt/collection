@@ -4,21 +4,20 @@
   "Classification": "Photograph", 
   "Artist": "Harry Callahan", 
   "URL": "http://www.moma.org/collection/works/53470", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1959", 
-  "ArtistID": 924, 
+  "DateAcquired": "1960-11-30", 
   "Keywords": [
-    "online art collection", 
     "Harry Callahan", 
     "Rocks and Grasses", 
     "Wisconsin", 
     "1959"
   ], 
+  "ArtistID": 924, 
+  "Title": "Rocks and Grasses, Wisconsin", 
   "Department": "Photography", 
   "MoMANumber": "445.1960", 
+  "Date": "1959", 
   "ArtistBio": "(American, 1912\u20131999)", 
-  "DateAcquired": "1960-11-30", 
-  "\ufeffTitle": "Rocks and Grasses, Wisconsin", 
+  "CuratorApproved": "Y", 
   "ObjectID": "53470"
 }

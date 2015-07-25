@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Lucio Fontana", 
   "URL": "http://www.moma.org/collection/works/81368", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1948", 
-  "ArtistID": 1930, 
+  "DateAcquired": "1949-09-29", 
   "Keywords": [
-    "online art collection", 
     "Lucio Fontana", 
     "Crucifixion", 
     "1948"
   ], 
+  "ArtistID": 1930, 
+  "Title": "Crucifixion", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "335.1949", 
+  "Date": "1948", 
   "ArtistBio": "(Italian, born Argentina. 1899\u20131968)", 
-  "DateAcquired": "1949-09-29", 
-  "\ufeffTitle": "Crucifixion", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81368"
 }

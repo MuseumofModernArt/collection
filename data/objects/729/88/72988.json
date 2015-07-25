@@ -4,12 +4,9 @@
   "Classification": "Print", 
   "Artist": "Christian Rohlfs", 
   "URL": "http://www.moma.org/collection/works/72988", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Transferred from the Museum Library", 
-  "Date": "1918 (executed c. 1917)", 
-  "ArtistID": 5000, 
+  "DateAcquired": "1949-09-29", 
   "Keywords": [
-    "online art collection", 
     "Christian Rohlfs", 
     "Death with a Coffin (Tod mit Sarg) (plate", 
     "preceding p", 
@@ -21,10 +18,12 @@
     "1918 (executed c", 
     "1917)"
   ], 
+  "ArtistID": 5000, 
+  "Title": "Death with a Coffin (Tod mit Sarg) (plate, preceding p. 265) from the periodical Das Kunstblatt, vol. 2, no. 9 (Sep 1918)", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "674.1949", 
+  "Date": "1918 (executed c. 1917)", 
   "ArtistBio": "(German, 1849\u20131938)", 
-  "DateAcquired": "1949-09-29", 
-  "\ufeffTitle": "Death with a Coffin (Tod mit Sarg) (plate, preceding p. 265) from the periodical Das Kunstblatt, vol. 2, no. 9 (Sep 1918)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "72988"
 }

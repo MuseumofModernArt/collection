@@ -4,12 +4,9 @@
   "Classification": "A&D Design", 
   "Artist": "Russel Wright, Chase Brass & Copper Co., Waterbury, CT", 
   "URL": "http://www.moma.org/collection/works/4456", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Edgar Kaufmann, Jr.", 
-  "Date": "c. 1927-41", 
-  "ArtistID": 6460, 
+  "DateAcquired": "1941-12-01", 
   "Keywords": [
-    "online art collection", 
     "Russel Wright", 
     "Chase Brass & Copper Co,", 
     "Waterbury and CT", 
@@ -17,10 +14,12 @@
     "c", 
     "1927-41"
   ], 
+  "ArtistID": 6460, 
+  "Title": "Pitcher", 
   "Department": "Architecture & Design", 
   "MoMANumber": "800.1941", 
+  "Date": "c. 1927-41", 
   "ArtistBio": "(American, 1904\u20131976) (American, founded 1876)", 
-  "DateAcquired": "1941-12-01", 
-  "\ufeffTitle": "Pitcher", 
+  "CuratorApproved": "Y", 
   "ObjectID": "4456"
 }

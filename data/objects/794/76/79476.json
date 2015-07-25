@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Sidney Laufman", 
   "URL": "http://www.moma.org/collection/works/79476", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Given anonymously", 
-  "Date": "1932", 
-  "ArtistID": 3405, 
+  "DateAcquired": "1941-01-16", 
   "Keywords": [
-    "online art collection", 
     "Sidney Laufman", 
     "The Woodyard", 
     "1932"
   ], 
+  "ArtistID": 3405, 
+  "Title": "The Woodyard", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "336.1941", 
+  "Date": "1932", 
   "ArtistBio": "(American, 1891\u20131985)", 
-  "DateAcquired": "1941-01-16", 
-  "\ufeffTitle": "The Woodyard", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79476"
 }

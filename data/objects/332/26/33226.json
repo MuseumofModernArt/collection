@@ -4,20 +4,19 @@
   "Classification": "Drawing", 
   "Artist": "Henri Matisse", 
   "URL": "http://www.moma.org/collection/works/33226", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "(1905-06)", 
-  "ArtistID": 3832, 
+  "DateAcquired": "1968-02-05", 
   "Keywords": [
-    "online art collection", 
     "Henri Matisse", 
     "Portrait of Mme Manguin", 
     "(1905-06)"
   ], 
+  "ArtistID": 3832, 
+  "Title": "Portrait of Mme Manguin", 
   "Department": "Drawings", 
   "MoMANumber": "17.1968", 
+  "Date": "(1905-06)", 
   "ArtistBio": "(French, 1869\u20131954)", 
-  "DateAcquired": "1968-02-05", 
-  "\ufeffTitle": "Portrait of Mme Manguin", 
+  "CuratorApproved": "Y", 
   "ObjectID": "33226"
 }

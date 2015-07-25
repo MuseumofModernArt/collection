@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Takis", 
   "URL": "http://www.moma.org/collection/works/81774", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Mrs. Charles V. Hickox Fund", 
-  "Date": "1955", 
-  "ArtistID": 5789, 
+  "DateAcquired": "1959-10-15", 
   "Keywords": [
-    "online art collection", 
     "Takis (Takis Vassilakis)", 
     "Signal Rocket", 
     "1955"
   ], 
+  "ArtistID": 5789, 
+  "Title": "Signal Rocket", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "675.1959", 
+  "Date": "1955", 
   "ArtistBio": "(French, born Greece 1925)", 
-  "DateAcquired": "1959-10-15", 
-  "\ufeffTitle": "Signal Rocket", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81774"
 }

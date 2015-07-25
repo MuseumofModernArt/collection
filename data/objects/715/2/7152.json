@@ -4,22 +4,21 @@
   "Classification": "A&D Graphic Design", 
   "Artist": "A. M. Cassandre", 
   "URL": "http://www.moma.org/collection/works/7152", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Given anonymously", 
-  "Date": "1928", 
-  "ArtistID": 1015, 
+  "DateAcquired": "1987-11-18", 
   "Keywords": [
-    "online art collection", 
     "A", 
     "M", 
     "Cassandre", 
     "NEderlandsche NYverheidsten TOonstelling", 
     "1928"
   ], 
+  "ArtistID": 1015, 
+  "Title": "NEderlandsche NYverheidsten TOonstelling", 
   "Department": "Architecture & Design", 
   "MoMANumber": "471.1987", 
+  "Date": "1928", 
   "ArtistBio": "(French, 1901\u20131968)", 
-  "DateAcquired": "1987-11-18", 
-  "\ufeffTitle": "NEderlandsche NYverheidsten TOonstelling", 
+  "CuratorApproved": "Y", 
   "ObjectID": "7152"
 }

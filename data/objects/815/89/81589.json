@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Maria Martins", 
   "URL": "http://www.moma.org/collection/works/81589", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Nelson A. Rockefeller", 
-  "Date": "1941", 
-  "ArtistID": 3767, 
+  "DateAcquired": "1941-12-10", 
   "Keywords": [
-    "online art collection", 
     "Maria Martins", 
     "Christ", 
     "1941"
   ], 
+  "ArtistID": 3767, 
+  "Title": "Christ", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "558.1941", 
+  "Date": "1941", 
   "ArtistBio": "(Brazilian, 1894\u20131973)", 
-  "DateAcquired": "1941-12-10", 
-  "\ufeffTitle": "Christ", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81589"
 }

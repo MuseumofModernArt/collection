@@ -4,12 +4,9 @@
   "Classification": "A&D Architectural Model", 
   "Artist": "Robert Venturi", 
   "URL": "http://www.moma.org/collection/works/984", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Venturi, Rauch, and Scott Brown, Inc.", 
-  "Date": "1959-64", 
-  "ArtistID": 6132, 
+  "DateAcquired": "1988-04-27", 
   "Keywords": [
-    "online art collection", 
     "Robert Venturi", 
     "Vanna Venturi House", 
     "Chestnut Hill", 
@@ -17,10 +14,12 @@
     "Scheme III B", 
     "1959-64"
   ], 
+  "ArtistID": 6132, 
+  "Title": "Vanna Venturi House, Chestnut Hill, Pennsylvania, Scheme III B", 
   "Department": "Architecture & Design", 
   "MoMANumber": "128.1988", 
+  "Date": "1959-64", 
   "ArtistBio": "(American, born 1925)", 
-  "DateAcquired": "1988-04-27", 
-  "\ufeffTitle": "Vanna Venturi House, Chestnut Hill, Pennsylvania, Scheme III B", 
+  "CuratorApproved": "Y", 
   "ObjectID": "984"
 }

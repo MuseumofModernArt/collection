@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Henri Matisse", 
   "URL": "http://www.moma.org/collection/works/71867", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Abby Aldrich Rockefeller Fund", 
-  "Date": "(1906)", 
-  "ArtistID": 3832, 
+  "DateAcquired": "1954-12-16", 
   "Keywords": [
-    "online art collection", 
     "Henri Matisse", 
     "Pensive Woman", 
     "(1906)"
   ], 
+  "ArtistID": 3832, 
+  "Title": "Pensive Woman", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "614.1954", 
+  "Date": "(1906)", 
   "ArtistBio": "(French, 1869\u20131954)", 
-  "DateAcquired": "1954-12-16", 
-  "\ufeffTitle": "Pensive Woman", 
+  "CuratorApproved": "Y", 
   "ObjectID": "71867"
 }

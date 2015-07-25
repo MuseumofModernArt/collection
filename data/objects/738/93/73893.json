@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Emil Nolde", 
   "URL": "http://www.moma.org/collection/works/73893", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": ".a (1907) .b (1908)", 
-  "ArtistID": 4327, 
+  "DateAcquired": "1956-12-19", 
   "Keywords": [
-    "online art collection", 
     "Emil Nolde", 
     ",a Alice ,b Nude with Thick Hair (,a Alice ,b Akt mit starkem Haar)", 
     ",a (1907) ,b (1908)"
   ], 
+  "ArtistID": 4327, 
+  "Title": ".a Alice .b Nude with Thick Hair (.a Alice .b Akt mit starkem Haar)", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "763.1956.a-b", 
+  "Date": ".a (1907) .b (1908)", 
   "ArtistBio": "(German, 1867\u20131956)", 
-  "DateAcquired": "1956-12-19", 
-  "\ufeffTitle": ".a Alice .b Nude with Thick Hair (.a Alice .b Akt mit starkem Haar)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "73893"
 }

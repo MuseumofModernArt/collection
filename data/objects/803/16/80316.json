@@ -4,21 +4,20 @@
   "Classification": "Painting", 
   "Artist": "Frank Stella", 
   "URL": "http://www.moma.org/collection/works/80316", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Larry Aldrich Foundation Fund", 
-  "Date": "1959", 
-  "ArtistID": 5640, 
+  "DateAcquired": "1959-12-30", 
   "Keywords": [
-    "online art collection", 
     "Frank Stella", 
     "The Marriage of Reason and Squalor", 
     "II", 
     "1959"
   ], 
+  "ArtistID": 5640, 
+  "Title": "The Marriage of Reason and Squalor, II", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "725.1959", 
+  "Date": "1959", 
   "ArtistBio": "(American, born 1936)", 
-  "DateAcquired": "1959-12-30", 
-  "\ufeffTitle": "The Marriage of Reason and Squalor, II", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80316"
 }

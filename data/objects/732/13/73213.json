@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Richard Tuttle", 
   "URL": "http://www.moma.org/collection/works/73213", 
-  "CuratorApproved": "Y", 
   "CreditLine": "John B. Turner Fund", 
-  "Date": "1993", 
-  "ArtistID": 5983, 
+  "DateAcquired": "1993-11-17", 
   "Keywords": [
-    "online art collection", 
     "Richard Tuttle", 
     "Galisteo Paintings", 
     "1993"
   ], 
+  "ArtistID": 5983, 
+  "Title": "Galisteo Paintings", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "695.1993.1-7", 
+  "Date": "1993", 
   "ArtistBio": "(American, born 1941)", 
-  "DateAcquired": "1993-11-17", 
-  "\ufeffTitle": "Galisteo Paintings", 
+  "CuratorApproved": "Y", 
   "ObjectID": "73213"
 }

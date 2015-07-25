@@ -4,20 +4,19 @@
   "Classification": "Photograph", 
   "Artist": "Martine Franck", 
   "URL": "http://www.moma.org/collection/works/58104", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the photographer", 
-  "Date": "1972", 
-  "ArtistID": 1969, 
+  "DateAcquired": "1974-12-04", 
   "Keywords": [
-    "online art collection", 
     "Martine Franck", 
     "Portrait of Paul Strand", 
     "1972"
   ], 
+  "ArtistID": 1969, 
+  "Title": "Portrait of Paul Strand", 
   "Department": "Photography", 
   "MoMANumber": "1341.1974", 
+  "Date": "1972", 
   "ArtistBio": "(Belgian, 1938\u20132012)", 
-  "DateAcquired": "1974-12-04", 
-  "\ufeffTitle": "Portrait of Paul Strand", 
+  "CuratorApproved": "Y", 
   "ObjectID": "58104"
 }

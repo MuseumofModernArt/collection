@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Claes Oldenburg", 
   "URL": "http://www.moma.org/collection/works/81450", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Philip Johnson", 
-  "Date": "1962", 
-  "ArtistID": 4397, 
+  "DateAcquired": "1976-12-30", 
   "Keywords": [
-    "online art collection", 
     "Claes Oldenburg", 
     "Floor Cake", 
     "1962"
   ], 
+  "ArtistID": 4397, 
+  "Title": "Floor Cake", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "414.1975", 
+  "Date": "1962", 
   "ArtistBio": "(American, born Sweden 1929)", 
-  "DateAcquired": "1976-12-30", 
-  "\ufeffTitle": "Floor Cake", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81450"
 }

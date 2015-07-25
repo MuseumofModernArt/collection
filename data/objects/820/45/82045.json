@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Ellsworth Kelly", 
   "URL": "http://www.moma.org/collection/works/82045", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Susan Morse Hilles Fund", 
-  "Date": "1968", 
-  "ArtistID": 3048, 
+  "DateAcquired": "1968-11-12", 
   "Keywords": [
-    "online art collection", 
     "Ellsworth Kelly", 
     "Green Blue", 
     "1968"
   ], 
+  "ArtistID": 3048, 
+  "Title": "Green Blue", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "1513.1968", 
+  "Date": "1968", 
   "ArtistBio": "(American, born 1923)", 
-  "DateAcquired": "1968-11-12", 
-  "\ufeffTitle": "Green Blue", 
+  "CuratorApproved": "Y", 
   "ObjectID": "82045"
 }

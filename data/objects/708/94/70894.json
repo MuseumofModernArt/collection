@@ -4,12 +4,9 @@
   "Classification": "Print", 
   "Artist": "Louise Bourgeois", 
   "URL": "http://www.moma.org/collection/works/70894", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the artist", 
-  "Date": "c. 1984", 
-  "ArtistID": 710, 
+  "DateAcquired": "1994-11-08", 
   "Keywords": [
-    "online art collection", 
     "Louise Bourgeois", 
     "Untitled (Spiral with Heads)", 
     "first version", 
@@ -17,10 +14,12 @@
     "(c", 
     "1984)"
   ], 
+  "ArtistID": 710, 
+  "Title": "Untitled", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "544.1994", 
+  "Date": "c. 1984", 
   "ArtistBio": "(American, born France. 1911\u20132010)", 
-  "DateAcquired": "1994-11-08", 
-  "\ufeffTitle": "Untitled", 
+  "CuratorApproved": "Y", 
   "ObjectID": "70894"
 }

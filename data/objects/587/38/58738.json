@@ -4,20 +4,19 @@
   "Classification": "Photograph", 
   "Artist": "Times Wide World Photos", 
   "URL": "http://www.moma.org/collection/works/58738", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The New York Times Collection", 
-  "Date": "1929", 
-  "ArtistID": 8632, 
+  "DateAcquired": "2001-06-14", 
   "Keywords": [
-    "online art collection", 
     "Times Wide World Photos", 
     "\"Heroes of the World Series\"", 
     "1929"
   ], 
+  "ArtistID": 8632, 
+  "Title": "\"Heroes of the World Series\"", 
   "Department": "Photography", 
   "MoMANumber": "2145.2001", 
+  "Date": "1929", 
   "ArtistBio": "(American, active 1919\u20131941)", 
-  "DateAcquired": "2001-06-14", 
-  "\ufeffTitle": "\"Heroes of the World Series\"", 
+  "CuratorApproved": "Y", 
   "ObjectID": "58738"
 }

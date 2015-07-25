@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Morris Hirshfield", 
   "URL": "http://www.moma.org/collection/works/80068", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The Sidney and Harriet Janis Collection", 
-  "Date": "1939", 
-  "ArtistID": 2671, 
+  "DateAcquired": "1969-07-22", 
   "Keywords": [
-    "online art collection", 
     "Morris Hirshfield", 
     "Lion", 
     "1939"
   ], 
+  "ArtistID": 2671, 
+  "Title": "Lion", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "608.1967", 
+  "Date": "1939", 
   "ArtistBio": "(American, born Poland. 1872\u20131946)", 
-  "DateAcquired": "1969-07-22", 
-  "\ufeffTitle": "Lion", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80068"
 }

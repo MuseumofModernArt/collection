@@ -4,20 +4,19 @@
   "Classification": "Video", 
   "Artist": "Bill Viola", 
   "URL": "http://www.moma.org/collection/works/89506", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Acquired through the generosity of Catherine V. Meacham", 
-  "Date": "1979", 
-  "ArtistID": 7898, 
+  "DateAcquired": "1981-03-04", 
   "Keywords": [
-    "online art collection", 
     "Bill Viola", 
     "Chott el-Djerid (A Portrait in Light and Heat)", 
     "1979"
   ], 
+  "ArtistID": 7898, 
+  "Title": "Chott el-Djerid (A Portrait in Light and Heat)", 
   "Department": "Media and Performance Art", 
   "MoMANumber": "723.1981", 
+  "Date": "1979", 
   "ArtistBio": "(American, born 1951)", 
-  "DateAcquired": "1981-03-04", 
-  "\ufeffTitle": "Chott el-Djerid (A Portrait in Light and Heat)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "89506"
 }

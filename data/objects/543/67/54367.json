@@ -4,20 +4,19 @@
   "Classification": "Photograph", 
   "Artist": "Jack Smith", 
   "URL": "http://www.moma.org/collection/works/54367", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "December 1958", 
-  "ArtistID": 5483, 
+  "DateAcquired": "1960-11-30", 
   "Keywords": [
-    "online art collection", 
     "Jack Smith", 
     "Head", 
     "December 1958"
   ], 
+  "ArtistID": 5483, 
+  "Title": "Head", 
   "Department": "Photography", 
   "MoMANumber": "495.1960", 
+  "Date": "December 1958", 
   "ArtistBio": "(American, 1932\u20131989)", 
-  "DateAcquired": "1960-11-30", 
-  "\ufeffTitle": "Head", 
+  "CuratorApproved": "Y", 
   "ObjectID": "54367"
 }

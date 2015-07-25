@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "John Walker", 
   "URL": "http://www.moma.org/collection/works/100339", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Edward R. Broida", 
-  "Date": "1976-77", 
-  "ArtistID": 6220, 
+  "DateAcquired": "2005-10-06", 
   "Keywords": [
-    "online art collection", 
     "John Walker", 
     "Untitled", 
     "1976-77"
   ], 
+  "ArtistID": 6220, 
+  "Title": "Untitled", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "802.2005", 
+  "Date": "1976-77", 
   "ArtistBio": "(British, born 1939)", 
-  "DateAcquired": "2005-10-06", 
-  "\ufeffTitle": "Untitled", 
+  "CuratorApproved": "Y", 
   "ObjectID": "100339"
 }

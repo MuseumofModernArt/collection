@@ -4,22 +4,21 @@
   "Classification": "Painting", 
   "Artist": "Piet Mondrian", 
   "URL": "http://www.moma.org/collection/works/79816", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Philip Johnson", 
-  "Date": "1929 (original date partly obliterated; mistakenly repainted 1925 by Mondrian)", 
-  "ArtistID": 4057, 
+  "DateAcquired": "1941-06-10", 
   "Keywords": [
-    "online art collection", 
     "Piet Mondrian", 
     "Composition No", 
     "II", 
     "with Red and Blue", 
     "1929 (original date partly obliterated; mistakenly repainted 1925 by Mondrian)"
   ], 
+  "ArtistID": 4057, 
+  "Title": "Composition No. II, with Red and Blue", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "486.1941", 
+  "Date": "1929 (original date partly obliterated; mistakenly repainted 1925 by Mondrian)", 
   "ArtistBio": "(Dutch, 1872\u20131944)", 
-  "DateAcquired": "1941-06-10", 
-  "\ufeffTitle": "Composition No. II, with Red and Blue", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79816"
 }

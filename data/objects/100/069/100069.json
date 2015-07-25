@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Carl Andre", 
   "URL": "http://www.moma.org/collection/works/100069", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Fractional and promised gift of Irving Stenn and purchase", 
-  "Date": "1959", 
-  "ArtistID": 174, 
+  "DateAcquired": "2005-09-07", 
   "Keywords": [
-    "online art collection", 
     "Carl Andre", 
     "Hour Rose", 
     "1959"
   ], 
+  "ArtistID": 174, 
+  "Title": "Hour Rose", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "638.2005", 
+  "Date": "1959", 
   "ArtistBio": "(American, born 1935)", 
-  "DateAcquired": "2005-09-07", 
-  "\ufeffTitle": "Hour Rose", 
+  "CuratorApproved": "Y", 
   "ObjectID": "100069"
 }

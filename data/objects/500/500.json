@@ -4,12 +4,9 @@
   "Classification": "A&D Architectural Drawing", 
   "Artist": "Ricardo Bofill", 
   "URL": "http://www.moma.org/collection/works/500", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the architect", 
-  "Date": "c. 1978-84", 
-  "ArtistID": 632, 
+  "DateAcquired": "1985-11-18", 
   "Keywords": [
-    "online art collection", 
     "Ricardo Bofill", 
     "La Place du Nombre d'Or", 
     "Antigone", 
@@ -19,10 +16,12 @@
     "c", 
     "1978-84"
   ], 
+  "ArtistID": 632, 
+  "Title": "La Place du Nombre d'Or, Antigone, Montpellier, France, Aerial perspective", 
   "Department": "Architecture & Design", 
   "MoMANumber": "391.1985", 
+  "Date": "c. 1978-84", 
   "ArtistBio": "(Spanish, born 1939)", 
-  "DateAcquired": "1985-11-18", 
-  "\ufeffTitle": "La Place du Nombre d'Or, Antigone, Montpellier, France, Aerial perspective", 
+  "CuratorApproved": "Y", 
   "ObjectID": "500"
 }

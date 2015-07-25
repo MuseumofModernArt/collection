@@ -4,12 +4,9 @@
   "Classification": "A&D Architectural Drawing", 
   "Artist": "Rem Koolhaas, Madelon Vriesendorp", 
   "URL": "http://www.moma.org/collection/works/82", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Max Underwood", 
-  "Date": "1987", 
-  "ArtistID": 6955, 
+  "DateAcquired": "2000-01-19", 
   "Keywords": [
-    "online art collection", 
     "O,M,A", 
     "(Office for Metropolitan Architecture)", 
     "Rem Koolhaas and Madelon Vriesendorp", 
@@ -19,10 +16,12 @@
     "Exterior perspective", 
     "1987"
   ], 
+  "ArtistID": 6955, 
+  "Title": "Villa dall'Ava, Paris (Saint-Cloud), France , Exterior perspective", 
   "Department": "Architecture & Design", 
   "MoMANumber": "21.2000", 
+  "Date": "1987", 
   "ArtistBio": "(Dutch, born 1944) (Dutch, born 1945)", 
-  "DateAcquired": "2000-01-19", 
-  "\ufeffTitle": "Villa dall'Ava, Paris (Saint-Cloud), France , Exterior perspective", 
+  "CuratorApproved": "Y", 
   "ObjectID": "82"
 }

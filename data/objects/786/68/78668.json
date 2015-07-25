@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Georges Braque", 
   "URL": "http://www.moma.org/collection/works/78668", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Fractional gift of Mr. and Mrs. David Rockefeller", 
-  "Date": "L'Estaque 1906-07", 
-  "ArtistID": 744, 
+  "DateAcquired": "1991-04-08", 
   "Keywords": [
-    "online art collection", 
     "Georges Braque", 
     "The Large Trees", 
     "L'Estaque 1906-07"
   ], 
+  "ArtistID": 744, 
+  "Title": "The Large Trees", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "68.1991", 
+  "Date": "L'Estaque 1906-07", 
   "ArtistBio": "(French, 1882\u20131963)", 
-  "DateAcquired": "1991-04-08", 
-  "\ufeffTitle": "The Large Trees", 
+  "CuratorApproved": "Y", 
   "ObjectID": "78668"
 }

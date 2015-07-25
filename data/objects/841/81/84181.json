@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Willem de Kooning", 
   "URL": "http://www.moma.org/collection/works/84181", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Partial and promised gift of UBS", 
-  "Date": "1982", 
-  "ArtistID": 3213, 
+  "DateAcquired": "2002-04-08", 
   "Keywords": [
-    "online art collection", 
     "Willem de Kooning", 
     "Untitled III", 
     "1982"
   ], 
+  "ArtistID": 3213, 
+  "Title": "Untitled III", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "98.2002", 
+  "Date": "1982", 
   "ArtistBio": "(American, born the Netherlands. 1904\u20131997)", 
-  "DateAcquired": "2002-04-08", 
-  "\ufeffTitle": "Untitled III", 
+  "CuratorApproved": "Y", 
   "ObjectID": "84181"
 }

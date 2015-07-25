@@ -4,12 +4,9 @@
   "Classification": "Photograph", 
   "Artist": "Lee Friedlander", 
   "URL": "http://www.moma.org/collection/works/56301", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1974", 
-  "ArtistID": 2002, 
+  "DateAcquired": "2000-10-12", 
   "Keywords": [
-    "online art collection", 
     "Lee Friedlander", 
     "Frank Luke", 
     "Jr", 
@@ -18,10 +15,12 @@
     "Arizona", 
     "1974"
   ], 
+  "ArtistID": 2002, 
+  "Title": "Frank Luke, Jr. Capitol Grounds, Phoenix, Arizona", 
   "Department": "Photography", 
   "MoMANumber": "734.2000", 
+  "Date": "1974", 
   "ArtistBio": "(American, born 1934)", 
-  "DateAcquired": "2000-10-12", 
-  "\ufeffTitle": "Frank Luke, Jr. Capitol Grounds, Phoenix, Arizona", 
+  "CuratorApproved": "Y", 
   "ObjectID": "56301"
 }

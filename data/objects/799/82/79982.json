@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Ad Reinhardt", 
   "URL": "http://www.moma.org/collection/works/79982", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase (by exchange)", 
-  "Date": "1960-61", 
-  "ArtistID": 4856, 
+  "DateAcquired": "1963-11-12", 
   "Keywords": [
-    "online art collection", 
     "Ad Reinhardt", 
     "Abstract Painting", 
     "1960-61"
   ], 
+  "ArtistID": 4856, 
+  "Title": "Abstract Painting", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "570.1963", 
+  "Date": "1960-61", 
   "ArtistBio": "(American, 1913\u20131967)", 
-  "DateAcquired": "1963-11-12", 
-  "\ufeffTitle": "Abstract Painting", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79982"
 }

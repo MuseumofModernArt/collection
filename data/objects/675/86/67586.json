@@ -4,21 +4,20 @@
   "Classification": "Print", 
   "Artist": "Pablo Picasso", 
   "URL": "http://www.moma.org/collection/works/67586", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "(1905, printed 1913)", 
-  "ArtistID": 4609, 
+  "DateAcquired": "1951-05-24", 
   "Keywords": [
-    "online art collection", 
     "Pablo Picasso", 
     "Family of Acrobats with Macaque (La Famille de Saltimbanques au macaque)", 
     "(1905", 
     "printed 1913)"
   ], 
+  "ArtistID": 4609, 
+  "Title": "Family of Acrobats with Macaque (La Famille de Saltimbanques au macaque)", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "356.1951", 
+  "Date": "(1905, printed 1913)", 
   "ArtistBio": "(Spanish, 1881\u20131973)", 
-  "DateAcquired": "1951-05-24", 
-  "\ufeffTitle": "Family of Acrobats with Macaque (La Famille de Saltimbanques au macaque)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "67586"
 }

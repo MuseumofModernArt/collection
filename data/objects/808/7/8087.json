@@ -4,12 +4,9 @@
   "Classification": "A&D Graphic Design", 
   "Artist": "Dennis Wheeler", 
   "URL": "http://www.moma.org/collection/works/8087", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Time, Inc.", 
-  "Date": "1963", 
-  "ArtistID": 6333, 
+  "DateAcquired": "1963-12-10", 
   "Keywords": [
-    "online art collection", 
     "Dennis Wheeler", 
     "Life", 
     "Adventurous", 
@@ -17,10 +14,12 @@
     "Every Week", 
     "1963"
   ], 
+  "ArtistID": 6333, 
+  "Title": "Life, Adventurous. Unpredictable. Every Week.", 
   "Department": "Architecture & Design", 
   "MoMANumber": "767.1963", 
+  "Date": "1963", 
   "ArtistBio": "(American, born 1935)", 
-  "DateAcquired": "1963-12-10", 
-  "\ufeffTitle": "Life, Adventurous. Unpredictable. Every Week.", 
+  "CuratorApproved": "Y", 
   "ObjectID": "8087"
 }

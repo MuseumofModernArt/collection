@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Barry Le Va", 
   "URL": "http://www.moma.org/collection/works/69712", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Given anonymously in honor of Andrea's birthday", 
-  "Date": "1990", 
-  "ArtistID": 3435, 
+  "DateAcquired": "1990-10-23", 
   "Keywords": [
-    "online art collection", 
     "Barry Le Va", 
     "Untitled from the series 4 x 4 x 4", 
     "1990"
   ], 
+  "ArtistID": 3435, 
+  "Title": "Untitled from the series 4 x 4 x 4", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "472.1990.2", 
+  "Date": "1990", 
   "ArtistBio": "(American, born 1941)", 
-  "DateAcquired": "1990-10-23", 
-  "\ufeffTitle": "Untitled from the series 4 x 4 x 4", 
+  "CuratorApproved": "Y", 
   "ObjectID": "69712"
 }

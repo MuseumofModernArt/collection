@@ -4,12 +4,9 @@
   "Classification": "Drawing", 
   "Artist": "Dieter Roth, Richard Hamilton", 
   "URL": "http://www.moma.org/collection/works/97209", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The Judith Rothschild Foundation Contemporary Drawings Collection Gift", 
-  "Date": "1976", 
-  "ArtistID": 5042, 
+  "DateAcquired": "2005-05-10", 
   "Keywords": [
-    "online art collection", 
     "Dieter Roth and Richard Hamilton", 
     "Portrait of the Artist by Fr", 
     "B", 
@@ -19,10 +16,12 @@
     "H", 
     "1976"
   ], 
+  "ArtistID": 5042, 
+  "Title": "Portrait of the Artist by Fr. B. by D. R. by R. H.", 
   "Department": "Drawings", 
   "MoMANumber": "2918.2005.1", 
+  "Date": "1976", 
   "ArtistBio": "(Swiss, born Germany. 1930\u20131998) (British, 1922\u20132011)", 
-  "DateAcquired": "2005-05-10", 
-  "\ufeffTitle": "Portrait of the Artist by Fr. B. by D. R. by R. H.", 
+  "CuratorApproved": "Y", 
   "ObjectID": "97209"
 }

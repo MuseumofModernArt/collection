@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Enrico Prampolini", 
   "URL": "http://www.moma.org/collection/works/78299", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Dr. Julius Spitzer", 
-  "Date": "before 1930", 
-  "ArtistID": 4720, 
+  "DateAcquired": "1941-12-10", 
   "Keywords": [
-    "online art collection", 
     "Enrico Prampolini", 
     "Syntheses of Naples", 
     "before 1930"
   ], 
+  "ArtistID": 4720, 
+  "Title": "Syntheses of Naples", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "1.1942", 
+  "Date": "before 1930", 
   "ArtistBio": "(Italian, 1894\u20131956)", 
-  "DateAcquired": "1941-12-10", 
-  "\ufeffTitle": "Syntheses of Naples", 
+  "CuratorApproved": "Y", 
   "ObjectID": "78299"
 }

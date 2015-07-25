@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Sean Scully", 
   "URL": "http://www.moma.org/collection/works/100312", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Edward R. Broida", 
-  "Date": "2002", 
-  "ArtistID": 5305, 
+  "DateAcquired": "2005-10-06", 
   "Keywords": [
-    "online art collection", 
     "Sean Scully", 
     "Big Grey Robe", 
     "2002"
   ], 
+  "ArtistID": 5305, 
+  "Title": "Big Grey Robe", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "774.2005", 
+  "Date": "2002", 
   "ArtistBio": "(American, born Ireland 1945)", 
-  "DateAcquired": "2005-10-06", 
-  "\ufeffTitle": "Big Grey Robe", 
+  "CuratorApproved": "Y", 
   "ObjectID": "100312"
 }

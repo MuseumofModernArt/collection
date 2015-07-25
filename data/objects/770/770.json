@@ -4,12 +4,9 @@
   "Classification": "A&D Mies van der Rohe Archive", 
   "Artist": "Ludwig Mies van der Rohe", 
   "URL": "http://www.moma.org/collection/works/770", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Mies van der Rohe Archive, gift of the architect", 
-  "Date": "1945-46", 
-  "ArtistID": 7166, 
+  "DateAcquired": "1963-12-10", 
   "Keywords": [
-    "online art collection", 
     "Ludwig Mies van der Rohe", 
     "Illinois Institute of Technology", 
     "Metallurgy and Chemical Engineering Building (Perlstein Hall)", 
@@ -18,10 +15,12 @@
     "Exterior perspective", 
     "1945-46"
   ], 
+  "ArtistID": 7166, 
+  "Title": "Illinois Institute of Technology, Metallurgy and Chemical Engineering Building (Perlstein Hall), Chicago, Illinois, Exterior perspective", 
   "Department": "Architecture & Design", 
   "MoMANumber": "735.1963", 
+  "Date": "1945-46", 
   "ArtistBio": "(American, born Germany. 1886\u20131969)", 
-  "DateAcquired": "1963-12-10", 
-  "\ufeffTitle": "Illinois Institute of Technology, Metallurgy and Chemical Engineering Building (Perlstein Hall), Chicago, Illinois, Exterior perspective", 
+  "CuratorApproved": "Y", 
   "ObjectID": "770"
 }

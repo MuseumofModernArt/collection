@@ -4,22 +4,21 @@
   "Classification": "Photograph", 
   "Artist": "William H. Rau", 
   "URL": "http://www.moma.org/collection/works/55403", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Lois and Bruce Zenkel Fund", 
-  "Date": "1895", 
-  "ArtistID": 4822, 
+  "DateAcquired": "1987-12-10", 
   "Keywords": [
-    "online art collection", 
     "William H", 
     "Rau", 
     "Bluff on Cayuga Lake", 
     "L,V,R,R", 
     "1895"
   ], 
+  "ArtistID": 4822, 
+  "Title": "Bluff on Cayuga Lake, L.V.R.R", 
   "Department": "Photography", 
   "MoMANumber": "587.1987", 
+  "Date": "1895", 
   "ArtistBio": "(American, 1855\u20131920)", 
-  "DateAcquired": "1987-12-10", 
-  "\ufeffTitle": "Bluff on Cayuga Lake, L.V.R.R", 
+  "CuratorApproved": "Y", 
   "ObjectID": "55403"
 }

@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Mel Bochner", 
   "URL": "http://www.moma.org/collection/works/63431", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1988", 
-  "ArtistID": 625, 
+  "DateAcquired": "1988-05-04", 
   "Keywords": [
-    "online art collection", 
     "Mel Bochner", 
     "First Quartet", 
     "1988"
   ], 
+  "ArtistID": 625, 
+  "Title": "First Quartet", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "166.1988.a-d", 
+  "Date": "1988", 
   "ArtistBio": "(American, born 1940)", 
-  "DateAcquired": "1988-05-04", 
-  "\ufeffTitle": "First Quartet", 
+  "CuratorApproved": "Y", 
   "ObjectID": "63431"
 }

@@ -4,12 +4,9 @@
   "Classification": "A&D Architectural Drawing", 
   "Artist": "Frank O. Gehry", 
   "URL": "http://www.moma.org/collection/works/693", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Barbara Pine in Memory of Morris Goldman", 
-  "Date": "1986-87", 
-  "ArtistID": 2108, 
+  "DateAcquired": "1990-10-24", 
   "Keywords": [
-    "online art collection", 
     "Frank O", 
     "Gehry", 
     "Sketch for Fishdance Restaurant", 
@@ -18,10 +15,12 @@
     "Exterior perspective", 
     "1986-87"
   ], 
+  "ArtistID": 2108, 
+  "Title": "Sketch for Fishdance Restaurant, Kobe, Japan, Exterior perspective", 
   "Department": "Architecture & Design", 
   "MoMANumber": "485.1990", 
+  "Date": "1986-87", 
   "ArtistBio": "(American, born Canada 1929)", 
-  "DateAcquired": "1990-10-24", 
-  "\ufeffTitle": "Sketch for Fishdance Restaurant, Kobe, Japan, Exterior perspective", 
+  "CuratorApproved": "Y", 
   "ObjectID": "693"
 }

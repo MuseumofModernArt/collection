@@ -4,20 +4,19 @@
   "Classification": "Drawing", 
   "Artist": "Max Beckmann", 
   "URL": "http://www.moma.org/collection/works/36770", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of John S. Newberry", 
-  "Date": "(1944)", 
-  "ArtistID": 429, 
+  "DateAcquired": "1963-10-08", 
   "Keywords": [
-    "online art collection", 
     "Max Beckmann", 
     "The Iceman (Der Eismann)", 
     "(1944)"
   ], 
+  "ArtistID": 429, 
+  "Title": "The Iceman (Der Eismann)", 
   "Department": "Drawings", 
   "MoMANumber": "409.1963", 
+  "Date": "(1944)", 
   "ArtistBio": "(German, 1884\u20131950)", 
-  "DateAcquired": "1963-10-08", 
-  "\ufeffTitle": "The Iceman (Der Eismann)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "36770"
 }

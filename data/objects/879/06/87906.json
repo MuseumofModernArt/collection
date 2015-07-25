@@ -4,19 +4,18 @@
   "Classification": "Drawing", 
   "Artist": "Andy Warhol", 
   "URL": "http://www.moma.org/collection/works/87906", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "(1962)", 
-  "ArtistID": 6246, 
+  "DateAcquired": "2004-02-10", 
   "Keywords": [
-    "online art collection", 
     "Andy Warhol", 
     "Soup n' sandwich! (1962)"
   ], 
+  "ArtistID": 6246, 
+  "Title": "Soup 'n sandwich!", 
   "Department": "Drawings", 
   "MoMANumber": "19.2004", 
+  "Date": "(1962)", 
   "ArtistBio": "(American, 1928\u20131987)", 
-  "DateAcquired": "2004-02-10", 
-  "\ufeffTitle": "Soup 'n sandwich!", 
+  "CuratorApproved": "Y", 
   "ObjectID": "87906"
 }

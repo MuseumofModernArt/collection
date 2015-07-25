@@ -4,21 +4,20 @@
   "Classification": "Photograph", 
   "Artist": "Harry Callahan", 
   "URL": "http://www.moma.org/collection/works/89245", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Susan and Peter MacGill", 
-  "Date": "1954", 
-  "ArtistID": 924, 
+  "DateAcquired": "2007-02-15", 
   "Keywords": [
-    "online art collection", 
     "Harry Callahan", 
     "Eleanor and Barbara", 
     "Chicago", 
     "1954"
   ], 
+  "ArtistID": 924, 
+  "Title": "Eleanor and Barbara, Chicago", 
   "Department": "Photography", 
   "MoMANumber": "20.2007", 
+  "Date": "1954", 
   "ArtistBio": "(American, 1912\u20131999)", 
-  "DateAcquired": "2007-02-15", 
-  "\ufeffTitle": "Eleanor and Barbara, Chicago", 
+  "CuratorApproved": "Y", 
   "ObjectID": "89245"
 }

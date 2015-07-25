@@ -4,12 +4,9 @@
   "Classification": "A&D Architectural Model", 
   "Artist": "Alvar Aalto", 
   "URL": "http://www.moma.org/collection/works/1009", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1955-58", 
-  "ArtistID": 34, 
+  "DateAcquired": "2000-06-30", 
   "Keywords": [
-    "online art collection", 
     "Alvar Aalto", 
     "Church of the Three Crosses", 
     "Vuoksenniska", 
@@ -17,10 +14,12 @@
     "Finland", 
     "1955-58"
   ], 
+  "ArtistID": 34, 
+  "Title": "Church of the Three Crosses, Vuoksenniska, Imatra, Finland", 
   "Department": "Architecture & Design", 
   "MoMANumber": "280.1999", 
+  "Date": "1955-58", 
   "ArtistBio": "(Finnish, 1898\u20131976)", 
-  "DateAcquired": "2000-06-30", 
-  "\ufeffTitle": "Church of the Three Crosses, Vuoksenniska, Imatra, Finland", 
+  "CuratorApproved": "Y", 
   "ObjectID": "1009"
 }

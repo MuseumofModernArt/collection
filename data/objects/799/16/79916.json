@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Annette Lemieux", 
   "URL": "http://www.moma.org/collection/works/79916", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The Millstream Fund", 
-  "Date": "1987", 
-  "ArtistID": 3474, 
+  "DateAcquired": "1987-12-07", 
   "Keywords": [
-    "online art collection", 
     "Annette Lemieux", 
     "Keeper", 
     "1987"
   ], 
+  "ArtistID": 3474, 
+  "Title": "Keeper", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "525.1987", 
+  "Date": "1987", 
   "ArtistBio": "(American, born 1957)", 
-  "DateAcquired": "1987-12-07", 
-  "\ufeffTitle": "Keeper", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79916"
 }

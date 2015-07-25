@@ -4,20 +4,19 @@
   "Classification": "Photograph", 
   "Artist": "The New York Times Studio", 
   "URL": "http://www.moma.org/collection/works/58658", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The New York Times Collection", 
-  "Date": "1932", 
-  "ArtistID": 8591, 
+  "DateAcquired": "2001-06-14", 
   "Keywords": [
-    "online art collection", 
     "The New York Times Studio", 
     "A Recent Portrait of Miss Earhart", 
     "1932"
   ], 
+  "ArtistID": 8591, 
+  "Title": "A Recent Portrait of Miss Earhart", 
   "Department": "Photography", 
   "MoMANumber": "2065.2001", 
+  "Date": "1932", 
   "ArtistBio": "", 
-  "DateAcquired": "2001-06-14", 
-  "\ufeffTitle": "A Recent Portrait of Miss Earhart", 
+  "CuratorApproved": "Y", 
   "ObjectID": "58658"
 }

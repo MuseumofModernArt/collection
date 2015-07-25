@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Christo (Christo Javacheff)", 
   "URL": "http://www.moma.org/collection/works/81908", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Blanchette Hooker Rockefeller Fund", 
-  "Date": "1963", 
-  "ArtistID": 1114, 
+  "DateAcquired": "1968-06-12", 
   "Keywords": [
-    "online art collection", 
     "Christo (Christo Javacheff)", 
     "Package on Wheelbarrow", 
     "1963"
   ], 
+  "ArtistID": 1114, 
+  "Title": "Package on Wheelbarrow", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "867.1968", 
+  "Date": "1963", 
   "ArtistBio": "(American, born Bulgaria 1935)", 
-  "DateAcquired": "1968-06-12", 
-  "\ufeffTitle": "Package on Wheelbarrow", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81908"
 }

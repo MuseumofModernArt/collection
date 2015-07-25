@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Mark Tansey", 
   "URL": "http://www.moma.org/collection/works/79167", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Mr. and Mrs. Warren Brandt", 
-  "Date": "1981", 
-  "ArtistID": 5807, 
+  "DateAcquired": "1982-10-12", 
   "Keywords": [
-    "online art collection", 
     "Mark Tansey", 
     "Robbe-Grillet Cleansing Every Object in Sight", 
     "1981"
   ], 
+  "ArtistID": 5807, 
+  "Title": "Robbe-Grillet Cleansing Every Object in Sight", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "213.1982", 
+  "Date": "1981", 
   "ArtistBio": "(American, born 1949)", 
-  "DateAcquired": "1982-10-12", 
-  "\ufeffTitle": "Robbe-Grillet Cleansing Every Object in Sight", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79167"
 }

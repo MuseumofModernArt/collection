@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Paul Klee", 
   "URL": "http://www.moma.org/collection/works/64002", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1919", 
-  "ArtistID": 3130, 
+  "DateAcquired": "1942-05-07", 
   "Keywords": [
-    "online art collection", 
     "Paul Klee", 
     "Three Heads (Drei K&ouml;pfe)", 
     "1919"
   ], 
+  "ArtistID": 3130, 
+  "Title": "Three Heads (Drei K\u00f6pfe)", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "186.1942", 
+  "Date": "1919", 
   "ArtistBio": "(German, born Switzerland. 1879\u20131940)", 
-  "DateAcquired": "1942-05-07", 
-  "\ufeffTitle": "Three Heads (Drei K\u00f6pfe)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "64002"
 }

@@ -4,20 +4,19 @@
   "Classification": "A&D Design", 
   "Artist": "Unknown Designer", 
   "URL": "http://www.moma.org/collection/works/3448", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Le Petit Mouchoir", 
-  "Date": "Before 1942", 
-  "ArtistID": 6011, 
+  "DateAcquired": "1942-01-01", 
   "Keywords": [
-    "online art collection", 
     "Unknown Designer", 
     "Ashtray", 
     "Before 1942"
   ], 
+  "ArtistID": 6011, 
+  "Title": "Ashtray", 
   "Department": "Architecture & Design", 
   "MoMANumber": "366.1942", 
+  "Date": "Before 1942", 
   "ArtistBio": "(Nationality unknown)", 
-  "DateAcquired": "1942-01-01", 
-  "\ufeffTitle": "Ashtray", 
+  "CuratorApproved": "Y", 
   "ObjectID": "3448"
 }

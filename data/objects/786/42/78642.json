@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Preston Dickinson", 
   "URL": "http://www.moma.org/collection/works/78642", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Abby Aldrich Rockefeller", 
-  "Date": "before 1928", 
-  "ArtistID": 1537, 
+  "DateAcquired": "1935-06-13", 
   "Keywords": [
-    "online art collection", 
     "Preston Dickinson", 
     "Harlem River", 
     "before 1928"
   ], 
+  "ArtistID": 1537, 
+  "Title": "Harlem River", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "62.1935", 
+  "Date": "before 1928", 
   "ArtistBio": "(American, 1889\u20131930)", 
-  "DateAcquired": "1935-06-13", 
-  "\ufeffTitle": "Harlem River", 
+  "CuratorApproved": "Y", 
   "ObjectID": "78642"
 }

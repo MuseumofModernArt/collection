@@ -4,22 +4,21 @@
   "Classification": "Painting", 
   "Artist": "Henri Matisse", 
   "URL": "http://www.moma.org/collection/works/79187", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Mrs. Simon Guggenheim Fund", 
-  "Date": "Nice-Cimiez, H\u00f4tel R\u00e9gina, summer 1952-early 1953", 
-  "ArtistID": 3832, 
+  "DateAcquired": "1968-03-12", 
   "Keywords": [
-    "online art collection", 
     "Henri Matisse", 
     "Memory of Oceania", 
     "Nice-Cimiez", 
     "H&ocirc;tel R&eacute;gina", 
     "summer 1952-early 1953"
   ], 
+  "ArtistID": 3832, 
+  "Title": "Memory of Oceania", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "224.1968", 
+  "Date": "Nice-Cimiez, H\u00f4tel R\u00e9gina, summer 1952-early 1953", 
   "ArtistBio": "(French, 1869\u20131954)", 
-  "DateAcquired": "1968-03-12", 
-  "\ufeffTitle": "Memory of Oceania", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79187"
 }

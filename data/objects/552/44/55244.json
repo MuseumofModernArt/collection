@@ -4,22 +4,21 @@
   "Classification": "Photograph", 
   "Artist": "Paul Graham", 
   "URL": "http://www.moma.org/collection/works/55244", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Acquired through the generosity of Shirley C. Burden", 
-  "Date": "1985", 
-  "ArtistID": 2286, 
+  "DateAcquired": "1987-12-10", 
   "Keywords": [
-    "online art collection", 
     "Paul Graham", 
     "Waiting Room", 
     "Poplar DHSS", 
     "East London", 
     "1985"
   ], 
+  "ArtistID": 2286, 
+  "Title": "Waiting Room, Poplar DHSS, East London", 
   "Department": "Photography", 
   "MoMANumber": "570.1987.x1-x2", 
+  "Date": "1985", 
   "ArtistBio": "(British, born 1956)", 
-  "DateAcquired": "1987-12-10", 
-  "\ufeffTitle": "Waiting Room, Poplar DHSS, East London", 
+  "CuratorApproved": "Y", 
   "ObjectID": "55244"
 }

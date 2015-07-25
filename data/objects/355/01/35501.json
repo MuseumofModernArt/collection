@@ -4,20 +4,19 @@
   "Classification": "Drawing", 
   "Artist": "Pablo Picasso", 
   "URL": "http://www.moma.org/collection/works/35501", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Blanchette Hooker Rockefeller Bequest", 
-  "Date": "1910", 
-  "ArtistID": 4609, 
+  "DateAcquired": "1993-05-05", 
   "Keywords": [
-    "online art collection", 
     "Pablo Picasso", 
     "Still Life with Fan", 
     "1910"
   ], 
+  "ArtistID": 4609, 
+  "Title": "Still Life with Fan", 
   "Department": "Drawings", 
   "MoMANumber": "201.1993", 
+  "Date": "1910", 
   "ArtistBio": "(Spanish, 1881\u20131973)", 
-  "DateAcquired": "1993-05-05", 
-  "\ufeffTitle": "Still Life with Fan", 
+  "CuratorApproved": "Y", 
   "ObjectID": "35501"
 }

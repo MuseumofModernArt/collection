@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Andy Warhol", 
   "URL": "http://www.moma.org/collection/works/79746", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1976", 
-  "ArtistID": 6246, 
+  "DateAcquired": "1999-10-12", 
   "Keywords": [
-    "online art collection", 
     "Andy Warhol", 
     "Hammer and Sickle", 
     "1976"
   ], 
+  "ArtistID": 6246, 
+  "Title": "Hammer and Sickle", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "322.1999", 
+  "Date": "1976", 
   "ArtistBio": "(American, 1928\u20131987)", 
-  "DateAcquired": "1999-10-12", 
-  "\ufeffTitle": "Hammer and Sickle", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79746"
 }

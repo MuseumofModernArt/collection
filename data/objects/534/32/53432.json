@@ -4,21 +4,20 @@
   "Classification": "Photograph", 
   "Artist": "Clarence H. White", 
   "URL": "http://www.moma.org/collection/works/53432", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "Between 1917-24", 
-  "ArtistID": 6338, 
+  "DateAcquired": "1942-12-29", 
   "Keywords": [
-    "online art collection", 
     "Clarence H", 
     "White", 
     "The Studio Window", 
     "Between 1917-24"
   ], 
+  "ArtistID": 6338, 
+  "Title": "The Studio Window", 
   "Department": "Photography", 
   "MoMANumber": "442.1942", 
+  "Date": "Between 1917-24", 
   "ArtistBio": "(American, 1871\u20131925)", 
-  "DateAcquired": "1942-12-29", 
-  "\ufeffTitle": "The Studio Window", 
+  "CuratorApproved": "Y", 
   "ObjectID": "53432"
 }

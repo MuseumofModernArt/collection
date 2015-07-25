@@ -4,12 +4,9 @@
   "Classification": "Photograph", 
   "Artist": "Mathew B. Brady (studio of)", 
   "URL": "http://www.moma.org/collection/works/57864", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1865", 
-  "ArtistID": 734, 
+  "DateAcquired": "1969-01-08", 
   "Keywords": [
-    "online art collection", 
     "Mathew B", 
     "Brady (studio of)", 
     "Ruins of the Gallego Flour Mills", 
@@ -17,10 +14,12 @@
     "Virginia", 
     "1865"
   ], 
+  "ArtistID": 734, 
+  "Title": "Ruins of the Gallego Flour Mills, Richmond, Virginia", 
   "Department": "Photography", 
   "MoMANumber": "1199.1969", 
+  "Date": "1865", 
   "ArtistBio": "(American, 1823\u20131896)", 
-  "DateAcquired": "1969-01-08", 
-  "\ufeffTitle": "Ruins of the Gallego Flour Mills, Richmond, Virginia", 
+  "CuratorApproved": "Y", 
   "ObjectID": "57864"
 }

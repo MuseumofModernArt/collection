@@ -4,21 +4,20 @@
   "Classification": "Print", 
   "Artist": "Christian Rohlfs", 
   "URL": "http://www.moma.org/collection/works/74130", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase Fund", 
-  "Date": "(c. 1912)", 
-  "ArtistID": 5000, 
+  "DateAcquired": "1956-12-19", 
   "Keywords": [
-    "online art collection", 
     "Christian Rohlfs", 
     "Song Bird (Singvogel)", 
     "(c", 
     "1912)"
   ], 
+  "ArtistID": 5000, 
+  "Title": "Song Bird (Singvogel)", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "795.1956", 
+  "Date": "(c. 1912)", 
   "ArtistBio": "(German, 1849\u20131938)", 
-  "DateAcquired": "1956-12-19", 
-  "\ufeffTitle": "Song Bird (Singvogel)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "74130"
 }

@@ -4,12 +4,9 @@
   "Classification": "A&D Architectural Drawing", 
   "Artist": "Louis I. Kahn", 
   "URL": "http://www.moma.org/collection/works/90014", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Elise Jaffe + Jeffrey Brown", 
-  "Date": "1972", 
-  "ArtistID": 2964, 
+  "DateAcquired": "2004-04-22", 
   "Keywords": [
-    "online art collection", 
     "Louis I", 
     "Kahn", 
     "Kansas City Office Building", 
@@ -19,10 +16,12 @@
     "Perspective", 
     "1972"
   ], 
+  "ArtistID": 2964, 
+  "Title": "Kansas City Office Building, project, Kansas City, Missouri, Perspective", 
   "Department": "Architecture & Design", 
   "MoMANumber": "334.2004", 
+  "Date": "1972", 
   "ArtistBio": "(American, born Estonia. 1901\u20131974)", 
-  "DateAcquired": "2004-04-22", 
-  "\ufeffTitle": "Kansas City Office Building, project, Kansas City, Missouri, Perspective", 
+  "CuratorApproved": "Y", 
   "ObjectID": "90014"
 }

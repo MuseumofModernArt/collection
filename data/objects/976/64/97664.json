@@ -4,20 +4,19 @@
   "Classification": "Drawing", 
   "Artist": "John Walker", 
   "URL": "http://www.moma.org/collection/works/97664", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The Judith Rothschild Foundation Contemporary Drawings Collection Gift", 
-  "Date": "1970", 
-  "ArtistID": 6220, 
+  "DateAcquired": "2005-05-10", 
   "Keywords": [
-    "online art collection", 
     "John Walker", 
     "Untitled", 
     "1970"
   ], 
+  "ArtistID": 6220, 
+  "Title": "Untitled", 
   "Department": "Drawings", 
   "MoMANumber": "3344.2005", 
+  "Date": "1970", 
   "ArtistBio": "(British, born 1939)", 
-  "DateAcquired": "2005-05-10", 
-  "\ufeffTitle": "Untitled", 
+  "CuratorApproved": "Y", 
   "ObjectID": "97664"
 }

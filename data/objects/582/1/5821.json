@@ -4,12 +4,9 @@
   "Classification": "A&D Graphic Design", 
   "Artist": "Ferdinand Hodler", 
   "URL": "http://www.moma.org/collection/works/5821", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase Fund", 
-  "Date": "1915", 
-  "ArtistID": 2681, 
+  "DateAcquired": "1987-05-27", 
   "Keywords": [
-    "online art collection", 
     "Ferdinand Hodler", 
     "Sechste Ausstellung der Gesellschaft Schweizer", 
     "Maler", 
@@ -18,10 +15,12 @@
     "Architekten", 
     "1915"
   ], 
+  "ArtistID": 2681, 
+  "Title": "Sechste Ausstellung der Gesellschaft Schweizer. Maler, Bildhauer, u. Architekten", 
   "Department": "Architecture & Design", 
   "MoMANumber": "245.1987", 
+  "Date": "1915", 
   "ArtistBio": "(Swiss, 1853\u20131918)", 
-  "DateAcquired": "1987-05-27", 
-  "\ufeffTitle": "Sechste Ausstellung der Gesellschaft Schweizer. Maler, Bildhauer, u. Architekten", 
+  "CuratorApproved": "Y", 
   "ObjectID": "5821"
 }

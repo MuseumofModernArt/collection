@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Matthew Barney", 
   "URL": "http://www.moma.org/collection/works/86808", 
-  "CuratorApproved": "Y", 
   "CreditLine": "John B. Turner Fund", 
-  "Date": "2002", 
-  "ArtistID": 7005, 
+  "DateAcquired": "2002-11-20", 
   "Keywords": [
-    "online art collection", 
     "Matthew Barney", 
     "Cremaster Field Suite", 
     "2002"
   ], 
+  "ArtistID": 7005, 
+  "Title": "Cremaster Field Suite", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "320.2002.1-5", 
+  "Date": "2002", 
   "ArtistBio": "(American, born 1967)", 
-  "DateAcquired": "2002-11-20", 
-  "\ufeffTitle": "Cremaster Field Suite", 
+  "CuratorApproved": "Y", 
   "ObjectID": "86808"
 }

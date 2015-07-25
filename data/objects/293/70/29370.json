@@ -4,21 +4,20 @@
   "Classification": "Illustrated Book", 
   "Artist": "Pablo Picasso", 
   "URL": "http://www.moma.org/collection/works/29370", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The Louis E. Stern Collection", 
-  "Date": "1940.  (Prints executed 1938-1939).", 
-  "ArtistID": 4609, 
+  "DateAcquired": "1964-10-06", 
   "Keywords": [
-    "online art collection", 
     "Pablo Picasso", 
     "Afat", 
     "1940", 
     " (Prints executed 1938-1939),"
   ], 
+  "ArtistID": 4609, 
+  "Title": "Afat", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "974.1964.1-6", 
+  "Date": "1940.  (Prints executed 1938-1939).", 
   "ArtistBio": "(Spanish, 1881\u20131973)", 
-  "DateAcquired": "1964-10-06", 
-  "\ufeffTitle": "Afat", 
+  "CuratorApproved": "Y", 
   "ObjectID": "29370"
 }

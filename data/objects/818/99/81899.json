@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Alexander Calder", 
   "URL": "http://www.moma.org/collection/works/81899", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the artist", 
-  "Date": "1928", 
-  "ArtistID": 922, 
+  "DateAcquired": "1966-10-11", 
   "Keywords": [
-    "online art collection", 
     "Alexander Calder", 
     "Soda Fountain", 
     "1928"
   ], 
+  "ArtistID": 922, 
+  "Title": "Soda Fountain", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "844.1966", 
+  "Date": "1928", 
   "ArtistBio": "(American, 1898\u20131976)", 
-  "DateAcquired": "1966-10-11", 
-  "\ufeffTitle": "Soda Fountain", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81899"
 }

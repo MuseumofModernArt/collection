@@ -4,21 +4,20 @@
   "Classification": "Photograph", 
   "Artist": "Times Wide World Photos", 
   "URL": "http://www.moma.org/collection/works/58763", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The New York Times Collection", 
-  "Date": "August 19, 1934", 
-  "ArtistID": 8632, 
+  "DateAcquired": "2001-06-14", 
   "Keywords": [
-    "online art collection", 
     "Times Wide World Photos", 
     "\"A Unanimous 'Ja' for the Leader\"", 
     "August 19", 
     "1934"
   ], 
+  "ArtistID": 8632, 
+  "Title": "\"A Unanimous 'Ja' for the Leader\"", 
   "Department": "Photography", 
   "MoMANumber": "2170.2001", 
+  "Date": "August 19, 1934", 
   "ArtistBio": "(American, active 1919\u20131941)", 
-  "DateAcquired": "2001-06-14", 
-  "\ufeffTitle": "\"A Unanimous 'Ja' for the Leader\"", 
+  "CuratorApproved": "Y", 
   "ObjectID": "58763"
 }

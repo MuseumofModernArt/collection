@@ -4,20 +4,19 @@
   "Classification": "Photograph", 
   "Artist": "Times Wide World Photos", 
   "URL": "http://www.moma.org/collection/works/58779", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The New York Times Collection", 
-  "Date": "1939", 
-  "ArtistID": 8632, 
+  "DateAcquired": "2001-06-14", 
   "Keywords": [
-    "online art collection", 
     "Times Wide World Photos", 
     "\"The Dionne Years\"", 
     "1939"
   ], 
+  "ArtistID": 8632, 
+  "Title": "\"The Dionne Years\"", 
   "Department": "Photography", 
   "MoMANumber": "2186.2001", 
+  "Date": "1939", 
   "ArtistBio": "(American, active 1919\u20131941)", 
-  "DateAcquired": "2001-06-14", 
-  "\ufeffTitle": "\"The Dionne Years\"", 
+  "CuratorApproved": "Y", 
   "ObjectID": "58779"
 }

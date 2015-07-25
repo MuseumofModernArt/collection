@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Piet Mondrian", 
   "URL": "http://www.moma.org/collection/works/80692", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The Sidney and Harriet Janis Collection", 
-  "Date": "1917", 
-  "ArtistID": 4057, 
+  "DateAcquired": "1967-10-18", 
   "Keywords": [
-    "online art collection", 
     "Piet Mondrian", 
     "Composition with Color Planes 5", 
     "1917"
   ], 
+  "ArtistID": 4057, 
+  "Title": "Composition with Color Planes 5", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "1774.1967", 
+  "Date": "1917", 
   "ArtistBio": "(Dutch, 1872\u20131944)", 
-  "DateAcquired": "1967-10-18", 
-  "\ufeffTitle": "Composition with Color Planes 5", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80692"
 }

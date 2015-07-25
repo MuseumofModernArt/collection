@@ -4,21 +4,20 @@
   "Classification": "Painting", 
   "Artist": "Robert Indiana", 
   "URL": "http://www.moma.org/collection/works/79415", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Larry Aldrich Foundation Fund", 
-  "Date": "1961", 
-  "ArtistID": 2812, 
+  "DateAcquired": "1961-10-10", 
   "Keywords": [
-    "online art collection", 
     "Robert Indiana", 
     "The American Dream", 
     "I", 
     "1961"
   ], 
+  "ArtistID": 2812, 
+  "Title": "The American Dream, I", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "287.1961", 
+  "Date": "1961", 
   "ArtistBio": "(American, born 1928)", 
-  "DateAcquired": "1961-10-10", 
-  "\ufeffTitle": "The American Dream, I", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79415"
 }

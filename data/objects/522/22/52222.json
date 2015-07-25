@@ -4,12 +4,9 @@
   "Classification": "Photograph", 
   "Artist": "Emmet Gowin", 
   "URL": "http://www.moma.org/collection/works/52222", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the photographer and PaceWildensteinMacGill, New York", 
-  "Date": "1996", 
-  "ArtistID": 2273, 
+  "DateAcquired": "1997-10-09", 
   "Keywords": [
-    "online art collection", 
     "Emmet Gowin", 
     "Nuclear Test Area", 
     "Northern End of Yucca Flat", 
@@ -17,10 +14,12 @@
     "Nevada", 
     "1996"
   ], 
+  "ArtistID": 2273, 
+  "Title": "Nuclear Test Area, Northern End of Yucca Flat, Nevada Test Site, Nevada", 
   "Department": "Photography", 
   "MoMANumber": "382.1997", 
+  "Date": "1996", 
   "ArtistBio": "(American, born 1941)", 
-  "DateAcquired": "1997-10-09", 
-  "\ufeffTitle": "Nuclear Test Area, Northern End of Yucca Flat, Nevada Test Site, Nevada", 
+  "CuratorApproved": "Y", 
   "ObjectID": "52222"
 }

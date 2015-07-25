@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Paul Klee", 
   "URL": "http://www.moma.org/collection/works/64399", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Curt Valentin", 
-  "Date": "1910", 
-  "ArtistID": 3130, 
+  "DateAcquired": "1942-05-07", 
   "Keywords": [
-    "online art collection", 
     "Paul Klee", 
     "Garden (Garten)", 
     "1910"
   ], 
+  "ArtistID": 3130, 
+  "Title": "Garden (Garten)", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "208.1942", 
+  "Date": "1910", 
   "ArtistBio": "(German, born Switzerland. 1879\u20131940)", 
-  "DateAcquired": "1942-05-07", 
-  "\ufeffTitle": "Garden (Garten)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "64399"
 }

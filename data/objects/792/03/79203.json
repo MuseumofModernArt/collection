@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "William Baziotes", 
   "URL": "http://www.moma.org/collection/works/79203", 
-  "CuratorApproved": "Y", 
   "CreditLine": "A. Conger Goodyear Fund", 
-  "Date": "1947", 
-  "ArtistID": 406, 
+  "DateAcquired": "1947-10-16", 
   "Keywords": [
-    "online art collection", 
     "William Baziotes", 
     "Dwarf", 
     "1947"
   ], 
+  "ArtistID": 406, 
+  "Title": "Dwarf", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "229.1947", 
+  "Date": "1947", 
   "ArtistBio": "(American, 1912\u20131963)", 
-  "DateAcquired": "1947-10-16", 
-  "\ufeffTitle": "Dwarf", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79203"
 }

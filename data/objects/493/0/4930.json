@@ -4,12 +4,9 @@
   "Classification": "A&D Graphic Design", 
   "Artist": "Frederick H. K. Henrion", 
   "URL": "http://www.moma.org/collection/works/4930", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the artist", 
-  "Date": "1939-45", 
-  "ArtistID": 2596, 
+  "DateAcquired": "1945-01-03", 
   "Keywords": [
-    "online art collection", 
     "Frederick H", 
     "K", 
     "Henrion", 
@@ -17,10 +14,12 @@
     "Saving is Everybody's War Job", 
     "1939-45"
   ], 
+  "ArtistID": 2596, 
+  "Title": "Action Stations, Saving is Everybody's War Job", 
   "Department": "Architecture & Design", 
   "MoMANumber": "71.1945", 
+  "Date": "1939-45", 
   "ArtistBio": "(British, 1914\u20131990)", 
-  "DateAcquired": "1945-01-03", 
-  "\ufeffTitle": "Action Stations, Saving is Everybody's War Job", 
+  "CuratorApproved": "Y", 
   "ObjectID": "4930"
 }

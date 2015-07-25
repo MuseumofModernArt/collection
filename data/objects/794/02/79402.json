@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Karl Hofer", 
   "URL": "http://www.moma.org/collection/works/79402", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "Berlin 1926", 
-  "ArtistID": 2686, 
+  "DateAcquired": "1949-05-26", 
   "Keywords": [
-    "online art collection", 
     "Karl Hofer", 
     "Man with a Melon", 
     "Berlin 1926"
   ], 
+  "ArtistID": 2686, 
+  "Title": "Man with a Melon", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "284.1949", 
+  "Date": "Berlin 1926", 
   "ArtistBio": "(German, 1878\u20131955)", 
-  "DateAcquired": "1949-05-26", 
-  "\ufeffTitle": "Man with a Melon", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79402"
 }

@@ -4,21 +4,20 @@
   "Classification": "Sculpture", 
   "Artist": "Anish Kapoor", 
   "URL": "http://www.moma.org/collection/works/81545", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Sid R. Bass Fund", 
-  "Date": "1986", 
-  "ArtistID": 2995, 
+  "DateAcquired": "1987-12-07", 
   "Keywords": [
-    "online art collection", 
     "Anish Kapoor", 
     "A Flower", 
     "A Drama Like Death", 
     "1986"
   ], 
+  "ArtistID": 2995, 
+  "Title": "A Flower, A Drama Like Death", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "523.1987.a-c", 
+  "Date": "1986", 
   "ArtistBio": "(British, born India 1954)", 
-  "DateAcquired": "1987-12-07", 
-  "\ufeffTitle": "A Flower, A Drama Like Death", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81545"
 }

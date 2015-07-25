@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Arman", 
   "URL": "http://www.moma.org/collection/works/95061", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Bequest of Richard S. Zeisler", 
-  "Date": "1969", 
-  "ArtistID": 220, 
+  "DateAcquired": "2008-03-10", 
   "Keywords": [
-    "online art collection", 
     "Arman", 
     "I Still Use Brushes", 
     "1969"
   ], 
+  "ArtistID": 220, 
+  "Title": "I Still Use Brushes", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "202.2008", 
+  "Date": "1969", 
   "ArtistBio": "(American, born France. 1928\u20132005)", 
-  "DateAcquired": "2008-03-10", 
-  "\ufeffTitle": "I Still Use Brushes", 
+  "CuratorApproved": "Y", 
   "ObjectID": "95061"
 }

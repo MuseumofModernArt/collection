@@ -4,12 +4,9 @@
   "Classification": "Drawing", 
   "Artist": "Glenn Ligon", 
   "URL": "http://www.moma.org/collection/works/97844", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The Judith Rothschild Foundation Contemporary Drawings Collection Gift", 
-  "Date": "2001", 
-  "ArtistID": 6902, 
+  "DateAcquired": "2005-05-10", 
   "Keywords": [
-    "online art collection", 
     "Glenn Ligon", 
     "Boys with Basketball", 
     "Harriet Tubman", 
@@ -17,10 +14,12 @@
     "Letter B #3", 
     "2001"
   ], 
+  "ArtistID": 6902, 
+  "Title": "Boys with Basketball, Harriet Tubman, Salimu, Letter B #3", 
   "Department": "Drawings", 
   "MoMANumber": "2226.2005", 
+  "Date": "2001", 
   "ArtistBio": "(American, born 1960)", 
-  "DateAcquired": "2005-05-10", 
-  "\ufeffTitle": "Boys with Basketball, Harriet Tubman, Salimu, Letter B #3", 
+  "CuratorApproved": "Y", 
   "ObjectID": "97844"
 }

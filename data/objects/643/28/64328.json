@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Richard Deacon", 
   "URL": "http://www.moma.org/collection/works/64328", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Mrs. Akio Morita Fund", 
-  "Date": "1997", 
-  "ArtistID": 1456, 
+  "DateAcquired": "1997-05-28", 
   "Keywords": [
-    "online art collection", 
     "Richard Deacon", 
     "Show and Tell", 
     "1997"
   ], 
+  "ArtistID": 1456, 
+  "Title": "Show and Tell", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "201.1997.1-12", 
+  "Date": "1997", 
   "ArtistBio": "(British, born 1949)", 
-  "DateAcquired": "1997-05-28", 
-  "\ufeffTitle": "Show and Tell", 
+  "CuratorApproved": "Y", 
   "ObjectID": "64328"
 }

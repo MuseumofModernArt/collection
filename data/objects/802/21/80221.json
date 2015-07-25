@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Roy Lichtenstein", 
   "URL": "http://www.moma.org/collection/works/80221", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The Sidney and Harriet Janis Collection", 
-  "Date": "1967", 
-  "ArtistID": 3542, 
+  "DateAcquired": "1967-10-18", 
   "Keywords": [
-    "online art collection", 
     "Roy Lichtenstein", 
     "Modern Painting with Bolt", 
     "1967"
   ], 
+  "ArtistID": 3542, 
+  "Title": "Modern Painting with Bolt", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "666.1967", 
+  "Date": "1967", 
   "ArtistBio": "(American, 1923\u20131997)", 
-  "DateAcquired": "1967-10-18", 
-  "\ufeffTitle": "Modern Painting with Bolt", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80221"
 }

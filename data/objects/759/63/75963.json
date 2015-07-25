@@ -4,12 +4,9 @@
   "Classification": "Print", 
   "Artist": "Jackson Pollock", 
   "URL": "http://www.moma.org/collection/works/75963", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Lee Krasner Pollock", 
-  "Date": "1951, signed 1954", 
-  "ArtistID": 4675, 
+  "DateAcquired": "1970-03-05", 
   "Keywords": [
-    "online art collection", 
     "Jackson Pollock", 
     "Exhibition Announcement", 
     "Betty Parsons Gallery", 
@@ -19,10 +16,12 @@
     "1951", 
     "(1951; signed 1954)"
   ], 
+  "ArtistID": 4675, 
+  "Title": "Exhibition Announcement, Betty Parsons Gallery, Nov. 26-Dec. 15, 1951", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "1187.1969", 
+  "Date": "1951, signed 1954", 
   "ArtistBio": "(American, 1912\u20131956)", 
-  "DateAcquired": "1970-03-05", 
-  "\ufeffTitle": "Exhibition Announcement, Betty Parsons Gallery, Nov. 26-Dec. 15, 1951", 
+  "CuratorApproved": "Y", 
   "ObjectID": "75963"
 }

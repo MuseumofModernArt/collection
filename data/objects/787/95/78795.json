@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Al Held", 
   "URL": "http://www.moma.org/collection/works/78795", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Mrs. Armand P. Bartos Fund", 
-  "Date": "1964", 
-  "ArtistID": 2583, 
+  "DateAcquired": "1973-02-13", 
   "Keywords": [
-    "online art collection", 
     "Al Held", 
     "The Big N", 
     "1964"
   ], 
+  "ArtistID": 2583, 
+  "Title": "The Big N", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "104.1973", 
+  "Date": "1964", 
   "ArtistBio": "(American, 1928\u20132005)", 
-  "DateAcquired": "1973-02-13", 
-  "\ufeffTitle": "The Big N", 
+  "CuratorApproved": "Y", 
   "ObjectID": "78795"
 }

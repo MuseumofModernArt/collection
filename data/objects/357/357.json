@@ -4,12 +4,9 @@
   "Classification": "A&D Architectural Drawing", 
   "Artist": "Santiago Calatrava", 
   "URL": "http://www.moma.org/collection/works/357", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the architect", 
-  "Date": "1988", 
-  "ArtistID": 6968, 
+  "DateAcquired": "1996-09-25", 
   "Keywords": [
-    "online art collection", 
     "Santiago Calatrava", 
     "Alamillo Bridge and Cartuga Viaduct", 
     "Seville", 
@@ -17,10 +14,12 @@
     "Elevations", 
     "1988"
   ], 
+  "ArtistID": 6968, 
+  "Title": "Alamillo Bridge and Cartuga Viaduct, Seville, Spain, Elevations", 
   "Department": "Architecture & Design", 
   "MoMANumber": "354.1996", 
+  "Date": "1988", 
   "ArtistBio": "(Spanish, born 1951)", 
-  "DateAcquired": "1996-09-25", 
-  "\ufeffTitle": "Alamillo Bridge and Cartuga Viaduct, Seville, Spain, Elevations", 
+  "CuratorApproved": "Y", 
   "ObjectID": "357"
 }

@@ -4,12 +4,9 @@
   "Classification": "Print", 
   "Artist": "Pablo Picasso", 
   "URL": "http://www.moma.org/collection/works/89132", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The Marnie Pillsbury Fund", 
-  "Date": "March 4, 1937, printed 1939", 
-  "ArtistID": 4609, 
+  "DateAcquired": "2004-03-11", 
   "Keywords": [
-    "online art collection", 
     "Pablo Picasso", 
     "Portrait of Vollard", 
     "III (Portrait de Vollard", 
@@ -18,10 +15,12 @@
     "1937", 
     "printed 1939"
   ], 
+  "ArtistID": 4609, 
+  "Title": "Portrait of Vollard, III (Portrait de Vollard, III)", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "46.2004", 
+  "Date": "March 4, 1937, printed 1939", 
   "ArtistBio": "(Spanish, 1881\u20131973)", 
-  "DateAcquired": "2004-03-11", 
-  "\ufeffTitle": "Portrait of Vollard, III (Portrait de Vollard, III)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "89132"
 }

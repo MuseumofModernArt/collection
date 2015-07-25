@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Gustavo Monroy", 
   "URL": "http://www.moma.org/collection/works/64362", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Riva Castleman Fund", 
-  "Date": "1989", 
-  "ArtistID": 4061, 
+  "DateAcquired": "1990-05-02", 
   "Keywords": [
-    "online art collection", 
     "Gustavo Monroy", 
     "The Last Supper", 
     "1989"
   ], 
+  "ArtistID": 4061, 
+  "Title": "The Last Supper", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "204.1990.1-4", 
+  "Date": "1989", 
   "ArtistBio": "(Mexican, born 1959)", 
-  "DateAcquired": "1990-05-02", 
-  "\ufeffTitle": "The Last Supper", 
+  "CuratorApproved": "Y", 
   "ObjectID": "64362"
 }

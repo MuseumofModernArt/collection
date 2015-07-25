@@ -4,12 +4,9 @@
   "Classification": "A&D Architectural Drawing", 
   "Artist": "Rem Koolhaas, Elia Zenghelis, Zoe Zenghelis, Madelon Vriesendorp", 
   "URL": "http://www.moma.org/collection/works/300", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Andrew Cogan Purchase Fund", 
-  "Date": "1981", 
-  "ArtistID": 6955, 
+  "DateAcquired": "1999-06-30", 
   "Keywords": [
-    "online art collection", 
     "O,M,A", 
     "(Office for Metropolitan Architecture)", 
     "Rem Koolhaas", 
@@ -21,10 +18,12 @@
     "Perspective", 
     "1981"
   ], 
+  "ArtistID": 6955, 
+  "Title": "Boompjes Tower Slab, project , Rotterdam, The Netherlands , Perspective", 
   "Department": "Architecture & Design", 
   "MoMANumber": "273.1999", 
+  "Date": "1981", 
   "ArtistBio": "(Dutch, born 1944) (British, born Greece 1937) (British, born Greece 1937) (Dutch, born 1945)", 
-  "DateAcquired": "1999-06-30", 
-  "\ufeffTitle": "Boompjes Tower Slab, project , Rotterdam, The Netherlands , Perspective", 
+  "CuratorApproved": "Y", 
   "ObjectID": "300"
 }

@@ -4,21 +4,20 @@
   "Classification": "Sculpture", 
   "Artist": "Louise Bourgeois", 
   "URL": "http://www.moma.org/collection/works/81213", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Mr. and Mrs. Joseph Slifka Fund", 
-  "Date": "c. 1963-64", 
-  "ArtistID": 710, 
+  "DateAcquired": "1983-02-14", 
   "Keywords": [
-    "online art collection", 
     "Louise Bourgeois", 
     "Torso: Self-Portrait", 
     "c", 
     "1963-64"
   ], 
+  "ArtistID": 710, 
+  "Title": "Torso: Self-Portrait", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "249.1983", 
+  "Date": "c. 1963-64", 
   "ArtistBio": "(American, born France. 1911\u20132010)", 
-  "DateAcquired": "1983-02-14", 
-  "\ufeffTitle": "Torso: Self-Portrait", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81213"
 }

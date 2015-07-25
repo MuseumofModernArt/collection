@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Robert Kobayashi", 
   "URL": "http://www.moma.org/collection/works/81512", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of General Felt Industries, Knoll", 
-  "Date": "1984", 
-  "ArtistID": 3176, 
+  "DateAcquired": "1984-12-11", 
   "Keywords": [
-    "online art collection", 
     "Robert Kobayashi", 
     "Three Plums", 
     "1984"
   ], 
+  "ArtistID": 3176, 
+  "Title": "Three Plums", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "501.1984", 
+  "Date": "1984", 
   "ArtistBio": "(American, born 1925)", 
-  "DateAcquired": "1984-12-11", 
-  "\ufeffTitle": "Three Plums", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81512"
 }

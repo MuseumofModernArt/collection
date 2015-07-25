@@ -4,12 +4,9 @@
   "Classification": "A&D Architectural Drawing", 
   "Artist": "Cedric Price", 
   "URL": "http://www.moma.org/collection/works/889", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of The Howard Gilman Foundation", 
-  "Date": "1978-80", 
-  "ArtistID": 7986, 
+  "DateAcquired": "", 
   "Keywords": [
-    "online art collection", 
     "Cedric Price", 
     "Generator Project", 
     "White Oak", 
@@ -17,10 +14,12 @@
     "Trees natural and man-made; site totems", 
     "1978-80"
   ], 
+  "ArtistID": 7986, 
+  "Title": "Generator Project, White Oak, Florida, Trees natural and man-made; site totems", 
   "Department": "Architecture & Design", 
   "MoMANumber": "1273.2000.a-i", 
+  "Date": "1978-80", 
   "ArtistBio": "(British, 1934\u20132003)", 
-  "DateAcquired": "", 
-  "\ufeffTitle": "Generator Project, White Oak, Florida, Trees natural and man-made; site totems", 
+  "CuratorApproved": "Y", 
   "ObjectID": "889"
 }

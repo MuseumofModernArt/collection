@@ -4,20 +4,19 @@
   "Classification": "Photograph", 
   "Artist": "Nicholas Nixon", 
   "URL": "http://www.moma.org/collection/works/82611", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the artist", 
-  "Date": "2001", 
-  "ArtistID": 4315, 
+  "DateAcquired": "2001-10-11", 
   "Keywords": [
-    "online art collection", 
     "Nicholas Nixon", 
     "The Brown Sisters", 
     "2001"
   ], 
+  "ArtistID": 4315, 
+  "Title": "The Brown Sisters, Brewster, Massachusetts", 
   "Department": "Photography", 
   "MoMANumber": "2464.2001", 
+  "Date": "2001", 
   "ArtistBio": "(American, born 1947)", 
-  "DateAcquired": "2001-10-11", 
-  "\ufeffTitle": "The Brown Sisters, Brewster, Massachusetts", 
+  "CuratorApproved": "Y", 
   "ObjectID": "82611"
 }

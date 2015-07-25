@@ -4,21 +4,20 @@
   "Classification": "Drawing", 
   "Artist": "Henri Matisse", 
   "URL": "http://www.moma.org/collection/works/38686", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Mr. and Mrs. Pierre Matisse in honor and memory of Victor Leventritt", 
-  "Date": "(c. 1901)", 
-  "ArtistID": 3832, 
+  "DateAcquired": "1968-12-11", 
   "Keywords": [
-    "online art collection", 
     "Henri Matisse", 
     "Study for Madeleine", 
     "(c", 
     "1901)"
   ], 
+  "ArtistID": 3832, 
+  "Title": "Study for Madeleine", 
   "Department": "Drawings", 
   "MoMANumber": "1573.1968", 
+  "Date": "(c. 1901)", 
   "ArtistBio": "(French, 1869\u20131954)", 
-  "DateAcquired": "1968-12-11", 
-  "\ufeffTitle": "Study for Madeleine", 
+  "CuratorApproved": "Y", 
   "ObjectID": "38686"
 }

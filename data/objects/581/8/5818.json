@@ -4,20 +4,19 @@
   "Classification": "A&D Graphic Design", 
   "Artist": "Josep Subirats Samora", 
   "URL": "http://www.moma.org/collection/works/5818", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1937", 
-  "ArtistID": 8388, 
+  "DateAcquired": "1937-12-03", 
   "Keywords": [
-    "online art collection", 
     "Josep Subirats Samora", 
     "Socors Roig Internacional", 
     "Ajudeu els Caiguts! 1937"
   ], 
+  "ArtistID": 8388, 
+  "Title": "Socors Roig Internacional, Ajudeu els Caiguts!", 
   "Department": "Architecture & Design", 
   "MoMANumber": "245.1937", 
+  "Date": "1937", 
   "ArtistBio": "(Spanish, 1914\u20131997)", 
-  "DateAcquired": "1937-12-03", 
-  "\ufeffTitle": "Socors Roig Internacional, Ajudeu els Caiguts!", 
+  "CuratorApproved": "Y", 
   "ObjectID": "5818"
 }

@@ -4,12 +4,9 @@
   "Classification": "Print", 
   "Artist": "Lovis Corinth", 
   "URL": "http://www.moma.org/collection/works/64995", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Given anonymously", 
-  "Date": "(1922)", 
-  "ArtistID": 1243, 
+  "DateAcquired": "1952-11-07", 
   "Keywords": [
-    "online art collection", 
     "Lovis Corinth", 
     "Father", 
     "this won't turn out well", 
@@ -18,10 +15,12 @@
     "bleiben wir von dem Soldatenhaufen) for the illustrated book Wallensteins Lager (Wallenstein's Camp)", 
     "(1922)"
   ], 
+  "ArtistID": 1243, 
+  "Title": "Father, this won't turn out well. We should stay away from the gang of soldiers (Vater, es wird nicht gut ablaufen, bleiben wir von dem Soldatenhaufen) for the illustrated book Wallensteins Lager (Wallenstein's Camp)", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "239.1952", 
+  "Date": "(1922)", 
   "ArtistBio": "(German, 1858\u20131925)", 
-  "DateAcquired": "1952-11-07", 
-  "\ufeffTitle": "Father, this won't turn out well. We should stay away from the gang of soldiers (Vater, es wird nicht gut ablaufen, bleiben wir von dem Soldatenhaufen) for the illustrated book Wallensteins Lager (Wallenstein's Camp)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "64995"
 }

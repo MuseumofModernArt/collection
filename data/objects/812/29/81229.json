@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Raymond Duchamp-Villon", 
   "URL": "http://www.moma.org/collection/works/81229", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1913", 
-  "ArtistID": 1635, 
+  "DateAcquired": "1939-03-03", 
   "Keywords": [
-    "online art collection", 
     "Raymond Duchamp-Villon", 
     "The Lovers", 
     "1913"
   ], 
+  "ArtistID": 1635, 
+  "Title": "The Lovers", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "258.1939", 
+  "Date": "1913", 
   "ArtistBio": "(French, 1876\u20131918)", 
-  "DateAcquired": "1939-03-03", 
-  "\ufeffTitle": "The Lovers", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81229"
 }

@@ -4,22 +4,21 @@
   "Classification": "Print", 
   "Artist": "Georges Rouault", 
   "URL": "http://www.moma.org/collection/works/21924", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Given anonymously", 
-  "Date": "c. 1922-1927.", 
-  "ArtistID": 5053, 
+  "DateAcquired": "1971-12-31", 
   "Keywords": [
-    "online art collection", 
     "Georges Rouault", 
     "Trial proof for Old Mother", 
     "Now Cries Alone", 
     "c", 
     "1922-1927,"
   ], 
+  "ArtistID": 5053, 
+  "Title": "Trial proof for Old Mother, Now Cries Alone", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "700.1971", 
+  "Date": "c. 1922-1927.", 
   "ArtistBio": "(French, 1871\u20131958)", 
-  "DateAcquired": "1971-12-31", 
-  "\ufeffTitle": "Trial proof for Old Mother, Now Cries Alone", 
+  "CuratorApproved": "Y", 
   "ObjectID": "21924"
 }

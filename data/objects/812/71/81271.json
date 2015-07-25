@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Max Ernst", 
   "URL": "http://www.moma.org/collection/works/81271", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1935", 
-  "ArtistID": 1752, 
+  "DateAcquired": "1937-12-03", 
   "Keywords": [
-    "online art collection", 
     "Max Ernst", 
     "Lunar Asparagus", 
     "1935"
   ], 
+  "ArtistID": 1752, 
+  "Title": "Lunar Asparagus", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "273.1937", 
+  "Date": "1935", 
   "ArtistBio": "(French, born Germany. 1891\u20131976)", 
-  "DateAcquired": "1937-12-03", 
-  "\ufeffTitle": "Lunar Asparagus", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81271"
 }

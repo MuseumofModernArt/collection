@@ -4,20 +4,19 @@
   "Classification": "Photograph", 
   "Artist": "William England", 
   "URL": "http://www.moma.org/collection/works/44911", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1859", 
-  "ArtistID": 1734, 
+  "DateAcquired": "1966-01-11", 
   "Keywords": [
-    "online art collection", 
     "William England", 
     "Niagara Suspension Bridge", 
     "1859"
   ], 
+  "ArtistID": 1734, 
+  "Title": "Niagara Suspension Bridge", 
   "Department": "Photography", 
   "MoMANumber": "51.1966", 
+  "Date": "1859", 
   "ArtistBio": "(British, 1816\u20131896)", 
-  "DateAcquired": "1966-01-11", 
-  "\ufeffTitle": "Niagara Suspension Bridge", 
+  "CuratorApproved": "Y", 
   "ObjectID": "44911"
 }

@@ -4,20 +4,19 @@
   "Classification": "Photograph", 
   "Artist": "Peter Henry Emerson", 
   "URL": "http://www.moma.org/collection/works/82845", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1888", 
-  "ArtistID": 1724, 
+  "DateAcquired": "1989-03-09", 
   "Keywords": [
-    "online art collection", 
     "Peter Henry Emerson", 
     "In the Barley Harvest", 
     "1888"
   ], 
+  "ArtistID": 1724, 
+  "Title": "In the Barley Harvest", 
   "Department": "Photography", 
   "MoMANumber": "39.1989.7", 
+  "Date": "1888", 
   "ArtistBio": "(British, 1856\u20131936)", 
-  "DateAcquired": "1989-03-09", 
-  "\ufeffTitle": "In the Barley Harvest", 
+  "CuratorApproved": "Y", 
   "ObjectID": "82845"
 }

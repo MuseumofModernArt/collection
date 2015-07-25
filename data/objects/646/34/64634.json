@@ -4,21 +4,20 @@
   "Classification": "Print", 
   "Artist": "Lyonel Feininger", 
   "URL": "http://www.moma.org/collection/works/64634", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Abby Aldrich Rockefeller Fund", 
-  "Date": "(c. 1910)", 
-  "ArtistID": 1832, 
+  "DateAcquired": "1955-10-10", 
   "Keywords": [
-    "online art collection", 
     "Lyonel Feininger", 
     "Tramps (Die Landstreicher)", 
     "(c", 
     "1910)"
   ], 
+  "ArtistID": 1832, 
+  "Title": "Tramps (Die Landstreicher)", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "220.1955", 
+  "Date": "(c. 1910)", 
   "ArtistBio": "(American, 1871\u20131956)", 
-  "DateAcquired": "1955-10-10", 
-  "\ufeffTitle": "Tramps (Die Landstreicher)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "64634"
 }

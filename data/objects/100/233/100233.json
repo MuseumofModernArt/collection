@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Mark di Suvero", 
   "URL": "http://www.moma.org/collection/works/100233", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Edward R. Broida", 
-  "Date": "1961", 
-  "ArtistID": 5743, 
+  "DateAcquired": "2005-10-06", 
   "Keywords": [
-    "online art collection", 
     "Mark di Suvero", 
     "Eatherly's Lamp", 
     "1961"
   ], 
+  "ArtistID": 5743, 
+  "Title": "Eatherly's Lamp", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "689.2005.a-d", 
+  "Date": "1961", 
   "ArtistBio": "(American, born 1933)", 
-  "DateAcquired": "2005-10-06", 
-  "\ufeffTitle": "Eatherly's Lamp", 
+  "CuratorApproved": "Y", 
   "ObjectID": "100233"
 }

@@ -4,12 +4,9 @@
   "Classification": "Photograph", 
   "Artist": "Weegee (Arthur Fellig)", 
   "URL": "http://www.moma.org/collection/works/83939", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Thomas Walther Collection. Gift of Max Yavno and Nihon Keizai Shimbun, by exchange", 
-  "Date": "November 10, 1944", 
-  "ArtistID": 1842, 
+  "DateAcquired": "2001-12-13", 
   "Keywords": [
-    "online art collection", 
     "Weegee (Arthur Fellig)", 
     "Frank Pape", 
     "Arrested for Homicide", 
@@ -17,10 +14,12 @@
     "1944", 
     "November 1944"
   ], 
+  "ArtistID": 1842, 
+  "Title": "Frank Pape, Arrested for Homicide, November 10, 1944", 
   "Department": "Photography", 
   "MoMANumber": "1898.2001", 
+  "Date": "November 10, 1944", 
   "ArtistBio": "(American, born Austria. 1899\u20131968)", 
-  "DateAcquired": "2001-12-13", 
-  "\ufeffTitle": "Frank Pape, Arrested for Homicide, November 10, 1944", 
+  "CuratorApproved": "Y", 
   "ObjectID": "83939"
 }

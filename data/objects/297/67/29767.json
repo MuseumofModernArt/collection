@@ -4,21 +4,20 @@
   "Classification": "Illustrated Book", 
   "Artist": "Pablo Picasso", 
   "URL": "http://www.moma.org/collection/works/29767", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The Louis E. Stern Collection", 
-  "Date": "1949.  (Prints executed 1948-1949).", 
-  "ArtistID": 4609, 
+  "DateAcquired": "1964-10-06", 
   "Keywords": [
-    "online art collection", 
     "Pablo Picasso", 
     "Carmen", 
     "1949", 
     " (Prints executed 1948-1949),"
   ], 
+  "ArtistID": 4609, 
+  "Title": "Carmen", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "993.1964.1-38", 
+  "Date": "1949.  (Prints executed 1948-1949).", 
   "ArtistBio": "(Spanish, 1881\u20131973)", 
-  "DateAcquired": "1964-10-06", 
-  "\ufeffTitle": "Carmen", 
+  "CuratorApproved": "Y", 
   "ObjectID": "29767"
 }

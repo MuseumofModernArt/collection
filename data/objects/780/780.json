@@ -4,12 +4,9 @@
   "Classification": "A&D Mies van der Rohe Archive", 
   "Artist": "Ludwig Mies van der Rohe", 
   "URL": "http://www.moma.org/collection/works/780", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Mies van der Rohe Archive, gift of the architect", 
-  "Date": "1964", 
-  "ArtistID": 7166, 
+  "DateAcquired": "1966-01-11", 
   "Keywords": [
-    "online art collection", 
     "Ludwig Mies van der Rohe", 
     "Brick Country House", 
     "project", 
@@ -17,10 +14,12 @@
     "Plan", 
     "1964"
   ], 
+  "ArtistID": 7166, 
+  "Title": "Brick Country House, project, Potsdam-Neubabelsberg, Plan", 
   "Department": "Architecture & Design", 
   "MoMANumber": "998.1965", 
+  "Date": "1964", 
   "ArtistBio": "(American, born Germany. 1886\u20131969)", 
-  "DateAcquired": "1966-01-11", 
-  "\ufeffTitle": "Brick Country House, project, Potsdam-Neubabelsberg, Plan", 
+  "CuratorApproved": "Y", 
   "ObjectID": "780"
 }

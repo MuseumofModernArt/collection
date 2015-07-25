@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Willy Heeks", 
   "URL": "http://www.moma.org/collection/works/67351", 
-  "CuratorApproved": "Y", 
   "CreditLine": "John B. Turner Fund", 
-  "Date": "1988", 
-  "ArtistID": 2572, 
+  "DateAcquired": "1988-10-25", 
   "Keywords": [
-    "online art collection", 
     "Willy Heeks", 
     "Untitled", 
     "1988"
   ], 
+  "ArtistID": 2572, 
+  "Title": "Untitled", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "344.1988", 
+  "Date": "1988", 
   "ArtistBio": "(American, born 1951)", 
-  "DateAcquired": "1988-10-25", 
-  "\ufeffTitle": "Untitled", 
+  "CuratorApproved": "Y", 
   "ObjectID": "67351"
 }

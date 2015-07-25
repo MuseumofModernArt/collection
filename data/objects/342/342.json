@@ -4,23 +4,21 @@
   "Classification": "A&D Architectural Drawing", 
   "Artist": "Raimund Abraham", 
   "URL": "http://www.moma.org/collection/works/342", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the architect", 
-  "Date": "1993", 
-  "ArtistID": 47, 
+  "DateAcquired": "1993-01-14", 
   "Keywords": [
-    "online art collection", 
     "Raimund Abraham", 
     "Austrian Cultural Institute", 
-    "New York", 
     "New York", 
     "Exterior perspective", 
     "1993"
   ], 
+  "ArtistID": 47, 
+  "Title": "Austrian Cultural Institute, New York, New York, Exterior perspective", 
   "Department": "Architecture & Design", 
   "MoMANumber": "350.1993", 
+  "Date": "1993", 
   "ArtistBio": "(American, born Austria. 1933\u20132010)", 
-  "DateAcquired": "1993-01-14", 
-  "\ufeffTitle": "Austrian Cultural Institute, New York, New York, Exterior perspective", 
+  "CuratorApproved": "Y", 
   "ObjectID": "342"
 }

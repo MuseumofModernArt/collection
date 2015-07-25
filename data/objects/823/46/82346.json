@@ -4,12 +4,9 @@
   "Classification": "A&D Architectural Model", 
   "Artist": "Louis I. Kahn", 
   "URL": "http://www.moma.org/collection/works/82346", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the architect", 
-  "Date": "1957-65", 
-  "ArtistID": 2964, 
+  "DateAcquired": "1962-01-01", 
   "Keywords": [
-    "online art collection", 
     "Louis I", 
     "Kahn", 
     "Alfred Newton Richards Medical Research Building", 
@@ -19,10 +16,12 @@
     "Overall building complex (final version)", 
     "1957-65"
   ], 
+  "ArtistID": 2964, 
+  "Title": "Alfred Newton Richards Medical Research Building, University of Pennsylvania, Philadelphia, Pennsylvania (Overall building complex [final version])", 
   "Department": "Architecture & Design", 
   "MoMANumber": "MC 31", 
+  "Date": "1957-65", 
   "ArtistBio": "(American, born Estonia. 1901\u20131974)", 
-  "DateAcquired": "1962-01-01", 
-  "\ufeffTitle": "Alfred Newton Richards Medical Research Building, University of Pennsylvania, Philadelphia, Pennsylvania (Overall building complex [final version])", 
+  "CuratorApproved": "Y", 
   "ObjectID": "82346"
 }

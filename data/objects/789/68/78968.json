@@ -4,21 +4,20 @@
   "Classification": "Painting", 
   "Artist": "\u00c9douard Vuillard", 
   "URL": "http://www.moma.org/collection/works/78968", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Mrs. Saidie A. May", 
-  "Date": "1893", 
-  "ArtistID": 6194, 
+  "DateAcquired": "1934-04-04", 
   "Keywords": [
-    "online art collection", 
     "&Eacute;douard Vuillard", 
     "Interior", 
     "Mother and Sister of the Artist", 
     "1893"
   ], 
+  "ArtistID": 6194, 
+  "Title": "Interior, Mother and Sister of the Artist", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "141.1934", 
+  "Date": "1893", 
   "ArtistBio": "(French, 1868\u20131940)", 
-  "DateAcquired": "1934-04-04", 
-  "\ufeffTitle": "Interior, Mother and Sister of the Artist", 
+  "CuratorApproved": "Y", 
   "ObjectID": "78968"
 }

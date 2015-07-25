@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Paul Klee", 
   "URL": "http://www.moma.org/collection/works/35209", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Mrs. Simon Guggenheim Fund", 
-  "Date": "1927", 
-  "ArtistID": 3130, 
+  "DateAcquired": "1966-04-12", 
   "Keywords": [
-    "online art collection", 
     "Paul Klee", 
     "Portrait of an Equilibrist", 
     "1927"
   ], 
+  "ArtistID": 3130, 
+  "Title": "Portrait of an Equilibrist", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "195.1966", 
+  "Date": "1927", 
   "ArtistBio": "(German, born Switzerland. 1879\u20131940)", 
-  "DateAcquired": "1966-04-12", 
-  "\ufeffTitle": "Portrait of an Equilibrist", 
+  "CuratorApproved": "Y", 
   "ObjectID": "35209"
 }

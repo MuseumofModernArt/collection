@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Mark di Suvero", 
   "URL": "http://www.moma.org/collection/works/71265", 
-  "CuratorApproved": "Y", 
   "CreditLine": "John B. Turner Fund", 
-  "Date": "1976", 
-  "ArtistID": 5743, 
+  "DateAcquired": "1976-11-10", 
   "Keywords": [
-    "online art collection", 
     "Mark di Suvero", 
     "For Rilke", 
     "(1976)"
   ], 
+  "ArtistID": 5743, 
+  "Title": "For Rilke", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "568.1976", 
+  "Date": "1976", 
   "ArtistBio": "(American, born 1933)", 
-  "DateAcquired": "1976-11-10", 
-  "\ufeffTitle": "For Rilke", 
+  "CuratorApproved": "Y", 
   "ObjectID": "71265"
 }

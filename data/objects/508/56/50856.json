@@ -4,20 +4,19 @@
   "Classification": "Photograph", 
   "Artist": "Lee Friedlander", 
   "URL": "http://www.moma.org/collection/works/50856", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1965", 
-  "ArtistID": 2002, 
+  "DateAcquired": "2000-10-12", 
   "Keywords": [
-    "online art collection", 
     "Lee Friedlander", 
     "New York State", 
     "1965"
   ], 
+  "ArtistID": 2002, 
+  "Title": "New York State", 
   "Department": "Photography", 
   "MoMANumber": "326.2000", 
+  "Date": "1965", 
   "ArtistBio": "(American, born 1934)", 
-  "DateAcquired": "2000-10-12", 
-  "\ufeffTitle": "New York State", 
+  "CuratorApproved": "Y", 
   "ObjectID": "50856"
 }

@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Giorgio Morandi", 
   "URL": "http://www.moma.org/collection/works/80256", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1938", 
-  "ArtistID": 4079, 
+  "DateAcquired": "1949-09-29", 
   "Keywords": [
-    "online art collection", 
     "Giorgio Morandi", 
     "Still Life", 
     "1938"
   ], 
+  "ArtistID": 4079, 
+  "Title": "Still Life", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "688.1949", 
+  "Date": "1938", 
   "ArtistBio": "(Italian, 1890\u20131964)", 
-  "DateAcquired": "1949-09-29", 
-  "\ufeffTitle": "Still Life", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80256"
 }

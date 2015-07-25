@@ -4,20 +4,19 @@
   "Classification": "Photograph", 
   "Artist": "Manuel \u00c1lvarez Bravo", 
   "URL": "http://www.moma.org/collection/works/52717", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1935", 
-  "ArtistID": 135, 
+  "DateAcquired": "1942-12-29", 
   "Keywords": [
-    "online art collection", 
     "Manuel Alvarez Bravo", 
     "Portrait of the Eternal", 
     "1935"
   ], 
+  "ArtistID": 135, 
+  "Title": "Portrait of the Eternal", 
   "Department": "Photography", 
   "MoMANumber": "405.1942", 
+  "Date": "1935", 
   "ArtistBio": "(Mexican, 1902\u20132002)", 
-  "DateAcquired": "1942-12-29", 
-  "\ufeffTitle": "Portrait of the Eternal", 
+  "CuratorApproved": "Y", 
   "ObjectID": "52717"
 }

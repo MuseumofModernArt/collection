@@ -4,22 +4,21 @@
   "Classification": "A&D Architectural Model", 
   "Artist": "SITE (Sculpture in the Environment), James Wines", 
   "URL": "http://www.moma.org/collection/works/1070", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Best Products Company Inc. Architecture Fund", 
-  "Date": "1978-80", 
-  "ArtistID": 5457, 
+  "DateAcquired": "1981-12-10", 
   "Keywords": [
-    "online art collection", 
     "SITE (Sculpture in the Environment) and James Wines", 
     "Forest Building", 
     "Henrico", 
     "Virginia", 
     "1978-80"
   ], 
+  "ArtistID": 5457, 
+  "Title": "Forest Building, Henrico, Virginia", 
   "Department": "Architecture & Design", 
   "MoMANumber": "584.1981", 
+  "Date": "1978-80", 
   "ArtistBio": "(American, founded 1970) (American, born 1932)", 
-  "DateAcquired": "1981-12-10", 
-  "\ufeffTitle": "Forest Building, Henrico, Virginia", 
+  "CuratorApproved": "Y", 
   "ObjectID": "1070"
 }

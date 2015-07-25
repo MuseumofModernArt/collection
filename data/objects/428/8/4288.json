@@ -4,20 +4,19 @@
   "Classification": "A&D Design", 
   "Artist": "IBM, East Fishkill, NY", 
   "URL": "http://www.moma.org/collection/works/4288", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the manufacturer", 
-  "Date": "1984", 
-  "ArtistID": 6612, 
+  "DateAcquired": "1990-10-24", 
   "Keywords": [
-    "online art collection", 
     "Sam Lucente", 
     "Diagram of Dynamic Random-Access Memory Chip (DRAM)", 
     "1984"
   ], 
+  "ArtistID": 6612, 
+  "Title": "Diagram of Dynamic Random-Access Memory Chip (DRAM)", 
   "Department": "Architecture & Design", 
   "MoMANumber": "517.1990", 
+  "Date": "1984", 
   "ArtistBio": "", 
-  "DateAcquired": "1990-10-24", 
-  "\ufeffTitle": "Diagram of Dynamic Random-Access Memory Chip (DRAM)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "4288"
 }

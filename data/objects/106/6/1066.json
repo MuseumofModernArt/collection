@@ -4,22 +4,21 @@
   "Classification": "A&D Architectural Model", 
   "Artist": "Alvar Aalto", 
   "URL": "http://www.moma.org/collection/works/1066", 
-  "CuratorApproved": "Y", 
   "CreditLine": "David Rockefeller Jr. Fund, gift of Alvar Aalto Architects Ltd. and Department Purchase Fund", 
-  "Date": "1958-87", 
-  "ArtistID": 34, 
+  "DateAcquired": "1990-10-24", 
   "Keywords": [
-    "online art collection", 
     "Alvar Aalto", 
     "Town Center", 
     "Seinajoki", 
     "Finland", 
     "1958-87"
   ], 
+  "ArtistID": 34, 
+  "Title": "Town Center, Seinajoki, Finland", 
   "Department": "Architecture & Design", 
   "MoMANumber": "488.1990", 
+  "Date": "1958-87", 
   "ArtistBio": "(Finnish, 1898\u20131976)", 
-  "DateAcquired": "1990-10-24", 
-  "\ufeffTitle": "Town Center, Seinajoki, Finland", 
+  "CuratorApproved": "Y", 
   "ObjectID": "1066"
 }

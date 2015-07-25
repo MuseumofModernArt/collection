@@ -4,21 +4,20 @@
   "Classification": "Sculpture", 
   "Artist": "David Smith", 
   "URL": "http://www.moma.org/collection/works/81566", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Fractional and promised gift of Leon and Debra Black", 
-  "Date": "December 7, 1961", 
-  "ArtistID": 5480, 
+  "DateAcquired": "1998-10-13", 
   "Keywords": [
-    "online art collection", 
     "David Smith", 
     "Sentinel", 
     "December 7", 
     "1961"
   ], 
+  "ArtistID": 5480, 
+  "Title": "Sentinel", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "531.1998", 
+  "Date": "December 7, 1961", 
   "ArtistBio": "(American, 1906\u20131965)", 
-  "DateAcquired": "1998-10-13", 
-  "\ufeffTitle": "Sentinel", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81566"
 }

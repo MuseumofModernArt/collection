@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Franz West", 
   "URL": "http://www.moma.org/collection/works/81047", 
-  "CuratorApproved": "Y", 
   "CreditLine": "An anonymous fund, Emily Fisher Landau, Frances R. Dittmer, and Patricia Phelps de Cisneros Funds", 
-  "Date": "1996", 
-  "ArtistID": 7557, 
+  "DateAcquired": "1997-04-07", 
   "Keywords": [
-    "online art collection", 
     "Franz West", 
     "Spoonerism", 
     "1996"
   ], 
+  "ArtistID": 7557, 
+  "Title": "Spoonerism", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "158.1997.a-c", 
+  "Date": "1996", 
   "ArtistBio": "(Austrian, 1947\u20132012)", 
-  "DateAcquired": "1997-04-07", 
-  "\ufeffTitle": "Spoonerism", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81047"
 }

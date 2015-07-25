@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Chuck Close", 
   "URL": "http://www.moma.org/collection/works/78811", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Anna Marie and Robert F. Shapiro", 
-  "Date": "1989", 
-  "ArtistID": 1156, 
+  "DateAcquired": "1990-03-12", 
   "Keywords": [
-    "online art collection", 
     "Chuck Close", 
     "Elizabeth", 
     "1989"
   ], 
+  "ArtistID": 1156, 
+  "Title": "Elizabeth", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "107.1990", 
+  "Date": "1989", 
   "ArtistBio": "(American, born 1940)", 
-  "DateAcquired": "1990-03-12", 
-  "\ufeffTitle": "Elizabeth", 
+  "CuratorApproved": "Y", 
   "ObjectID": "78811"
 }

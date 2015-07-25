@@ -4,22 +4,21 @@
   "Classification": "Print", 
   "Artist": "Pablo Picasso", 
   "URL": "http://www.moma.org/collection/works/63679", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Mr. and Mrs. Eugene Victor Thaw", 
-  "Date": "(May 23, 1965) Val", 
-  "ArtistID": 4609, 
+  "DateAcquired": "1966-02-08", 
   "Keywords": [
-    "online art collection", 
     "Pablo Picasso", 
     "Picasso and the Theatre", 
     "poster", 
     "(May 23", 
     "1965) Val"
   ], 
+  "ArtistID": 4609, 
+  "Title": "Picasso and the Theatre, poster", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "176.1966", 
+  "Date": "(May 23, 1965) Val", 
   "ArtistBio": "(Spanish, 1881\u20131973)", 
-  "DateAcquired": "1966-02-08", 
-  "\ufeffTitle": "Picasso and the Theatre, poster", 
+  "CuratorApproved": "Y", 
   "ObjectID": "63679"
 }

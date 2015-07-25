@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Reuven Rubin", 
   "URL": "http://www.moma.org/collection/works/79276", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Mrs. Felix M. Warburg", 
-  "Date": "1938", 
-  "ArtistID": 5070, 
+  "DateAcquired": "1940-05-28", 
   "Keywords": [
-    "online art collection", 
     "Reuven Rubin", 
     "Flute Player", 
     "1938"
   ], 
+  "ArtistID": 5070, 
+  "Title": "Flute Player", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "252.1940", 
+  "Date": "1938", 
   "ArtistBio": "(Israeli, born Romania. 1893\u20131974)", 
-  "DateAcquired": "1940-05-28", 
-  "\ufeffTitle": "Flute Player", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79276"
 }

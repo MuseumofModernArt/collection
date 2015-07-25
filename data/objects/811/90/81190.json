@@ -4,21 +4,20 @@
   "Classification": "Sculpture", 
   "Artist": "Henri Matisse", 
   "URL": "http://www.moma.org/collection/works/81190", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Mrs. Simon Guggenheim Fund", 
-  "Date": "Issy-les-Moulineaux, 1911 (?) - early March or April 1913", 
-  "ArtistID": 3832, 
+  "DateAcquired": "1956-05-08", 
   "Keywords": [
-    "online art collection", 
     "Henri Matisse", 
     "The Back (II)", 
     "Issy-les-Moulineaux", 
     "1911 (?) - early March or April 1913"
   ], 
+  "ArtistID": 3832, 
+  "Title": "The Back (II)", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "240.1956", 
+  "Date": "Issy-les-Moulineaux, 1911 (?) - early March or April 1913", 
   "ArtistBio": "(French, 1869\u20131954)", 
-  "DateAcquired": "1956-05-08", 
-  "\ufeffTitle": "The Back (II)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81190"
 }

@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Francis Bacon", 
   "URL": "http://www.moma.org/collection/works/88170", 
-  "CuratorApproved": "Y", 
   "CreditLine": "William A. M. Burden Fund and Nelson A. Rockefeller Bequest Fund (both by exchange)", 
-  "Date": "1991", 
-  "ArtistID": 272, 
+  "DateAcquired": "2003-05-12", 
   "Keywords": [
-    "online art collection", 
     "Francis Bacon", 
     "Triptych", 
     "1991"
   ], 
+  "ArtistID": 272, 
+  "Title": "Triptych", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "74.2003.a-c", 
+  "Date": "1991", 
   "ArtistBio": "(British, born Ireland. 1909\u20131992)", 
-  "DateAcquired": "2003-05-12", 
-  "\ufeffTitle": "Triptych", 
+  "CuratorApproved": "Y", 
   "ObjectID": "88170"
 }

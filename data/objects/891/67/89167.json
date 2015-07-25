@@ -4,12 +4,9 @@
   "Classification": "Multiple", 
   "Artist": "John Bock", 
   "URL": "http://www.moma.org/collection/works/89167", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "2003", 
-  "ArtistID": 8470, 
+  "DateAcquired": "2003-11-20", 
   "Keywords": [
-    "online art collection", 
     "John Bock", 
     "Geometrischer Ort der 2 Mio", 
     "$ Kn&ouml;del-knickerbockermigr&auml;nehitshitbitssouffl&eacute;visage", 
@@ -17,10 +14,12 @@
     "67)", 
     "2003"
   ], 
+  "ArtistID": 8470, 
+  "Title": "Geometrischer Ort der 2 Mio. $ Kn\u00f6del-knickerbockermigr\u00e4nehitshitbitssouffl\u00e9visage, drin strohmulmige Isoquante touchiert goldene Bilanzregel + Insolvenzsnob (for Parkett no. 67)", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "337.2003", 
+  "Date": "2003", 
   "ArtistBio": "(German, born 1965)", 
-  "DateAcquired": "2003-11-20", 
-  "\ufeffTitle": "Geometrischer Ort der 2 Mio. $ Kn\u00f6del-knickerbockermigr\u00e4nehitshitbitssouffl\u00e9visage, drin strohmulmige Isoquante touchiert goldene Bilanzregel + Insolvenzsnob (for Parkett no. 67)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "89167"
 }

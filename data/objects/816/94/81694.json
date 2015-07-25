@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Joseph Cornell", 
   "URL": "http://www.moma.org/collection/works/81694", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Mr. and Mrs. Gerald Murphy Fund", 
-  "Date": "1942-53", 
-  "ArtistID": 1247, 
+  "DateAcquired": "1973-12-11", 
   "Keywords": [
-    "online art collection", 
     "Joseph Cornell", 
     "Object (Roses des vents)", 
     "1942-53"
   ], 
+  "ArtistID": 1247, 
+  "Title": "Object (Roses des vents)", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "621.1973", 
+  "Date": "1942-53", 
   "ArtistBio": "(American, 1903\u20131972)", 
-  "DateAcquired": "1973-12-11", 
-  "\ufeffTitle": "Object (Roses des vents)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81694"
 }

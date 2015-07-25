@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Lois Lane", 
   "URL": "http://www.moma.org/collection/works/75520", 
-  "CuratorApproved": "Y", 
   "CreditLine": "John B. Turner Fund", 
-  "Date": "1979", 
-  "ArtistID": 3369, 
+  "DateAcquired": "1979-12-04", 
   "Keywords": [
-    "online art collection", 
     "Lois Lane", 
     "Untitled from the portfolio Six Aquatints", 
     "1979"
   ], 
+  "ArtistID": 3369, 
+  "Title": "Untitled from the portfolio Six Aquatints", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "1077.1979.6", 
+  "Date": "1979", 
   "ArtistBio": "(American, born 1948)", 
-  "DateAcquired": "1979-12-04", 
-  "\ufeffTitle": "Untitled from the portfolio Six Aquatints", 
+  "CuratorApproved": "Y", 
   "ObjectID": "75520"
 }

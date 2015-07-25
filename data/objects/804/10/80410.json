@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Paul Klee", 
   "URL": "http://www.moma.org/collection/works/80410", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Nelson A. Rockefeller Fund", 
-  "Date": "1932", 
-  "ArtistID": 3130, 
+  "DateAcquired": "1978-12-12", 
   "Keywords": [
-    "online art collection", 
     "Paul Klee", 
     "Mask of Fear", 
     "1932"
   ], 
+  "ArtistID": 3130, 
+  "Title": "Mask of Fear", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "854.1978", 
+  "Date": "1932", 
   "ArtistBio": "(German, born Switzerland. 1879\u20131940)", 
-  "DateAcquired": "1978-12-12", 
-  "\ufeffTitle": "Mask of Fear", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80410"
 }

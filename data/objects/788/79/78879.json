@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Franz Marc", 
   "URL": "http://www.moma.org/collection/works/78879", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Mr. and Mrs. Morton D. May, and Mr. and Mrs. Arnold H. Maremont (both by exchange)", 
-  "Date": "1913", 
-  "ArtistID": 3748, 
+  "DateAcquired": "1988-04-11", 
   "Keywords": [
-    "online art collection", 
     "Franz Marc", 
     "The World Cow", 
     "1913"
   ], 
+  "ArtistID": 3748, 
+  "Title": "The World Cow", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "118.1988", 
+  "Date": "1913", 
   "ArtistBio": "(German, 1880\u20131916)", 
-  "DateAcquired": "1988-04-11", 
-  "\ufeffTitle": "The World Cow", 
+  "CuratorApproved": "Y", 
   "ObjectID": "78879"
 }

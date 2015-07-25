@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Maximilian Luce", 
   "URL": "http://www.moma.org/collection/works/66454", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Abby Aldrich Rockefeller Fund", 
-  "Date": "(1898)", 
-  "ArtistID": 3621, 
+  "DateAcquired": "1950-10-11", 
   "Keywords": [
-    "online art collection", 
     "Maximilian Luce", 
     "Factories (Usines)", 
     "(1898)"
   ], 
+  "ArtistID": 3621, 
+  "Title": "Factories (Usines)", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "302.1950", 
+  "Date": "(1898)", 
   "ArtistBio": "(French)", 
-  "DateAcquired": "1950-10-11", 
-  "\ufeffTitle": "Factories (Usines)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "66454"
 }

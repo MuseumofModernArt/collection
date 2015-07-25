@@ -4,12 +4,9 @@
   "Classification": "Print", 
   "Artist": "Sol LeWitt", 
   "URL": "http://www.moma.org/collection/works/65196", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Ruth Vollmer Bequest", 
-  "Date": "(1970)", 
-  "ArtistID": 3528, 
+  "DateAcquired": "1982-10-26", 
   "Keywords": [
-    "online art collection", 
     "Sol LeWitt", 
     "Lines", 
     "not long", 
@@ -18,10 +15,12 @@
     "drawn at random (circle)", 
     "(1970)"
   ], 
+  "ArtistID": 3528, 
+  "Title": "Lines, Not Long, Not Heavy, Not Touching, Drawn at Random (Circle)", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "248.1982", 
+  "Date": "(1970)", 
   "ArtistBio": "(American, 1928\u20132007)", 
-  "DateAcquired": "1982-10-26", 
-  "\ufeffTitle": "Lines, Not Long, Not Heavy, Not Touching, Drawn at Random (Circle)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "65196"
 }

@@ -4,12 +4,9 @@
   "Classification": "Photograph", 
   "Artist": "Eug\u00e8ne Atget", 
   "URL": "http://www.moma.org/collection/works/46421", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Given anonymously", 
-  "Date": "Juin, 7 h. matin, 1925", 
-  "ArtistID": 229, 
+  "DateAcquired": "1950-04-24", 
   "Keywords": [
-    "online art collection", 
     "Eug&egrave;ne Atget", 
     "Parc de Sceaux", 
     "juin", 
@@ -17,10 +14,12 @@
     "matin", 
     "1925"
   ], 
+  "ArtistID": 229, 
+  "Title": "Parc de Sceaux", 
   "Department": "Photography", 
   "MoMANumber": "111.1950", 
+  "Date": "Juin, 7 h. matin, 1925", 
   "ArtistBio": "(French, 1857\u20131927)", 
-  "DateAcquired": "1950-04-24", 
-  "\ufeffTitle": "Parc de Sceaux", 
+  "CuratorApproved": "Y", 
   "ObjectID": "46421"
 }

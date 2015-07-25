@@ -4,12 +4,9 @@
   "Classification": "A&D Graphic Design", 
   "Artist": "Milton Glaser", 
   "URL": "http://www.moma.org/collection/works/5977", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the designer", 
-  "Date": "1976", 
-  "ArtistID": 2188, 
+  "DateAcquired": "1980-01-08", 
   "Keywords": [
-    "online art collection", 
     "Milton Glaser", 
     "Milton Glaser Exhibition", 
     "Mus&eacute;es Royaux des Beaux-Arts de Belgique Arts Moderne", 
@@ -18,13 +15,14 @@
     "Oct", 
     "15 to Nov", 
     "21", 
-    "1976", 
     "1976"
   ], 
+  "ArtistID": 2188, 
+  "Title": "Milton Glaser Exhibition, Mus\u00e9es Royaux des Beaux-Arts de Belgique Arts Moderne, Place Royal, 1/1000 Bruxelles, Oct. 15 to Nov. 21, 1976", 
   "Department": "Architecture & Design", 
   "MoMANumber": "271.1980", 
+  "Date": "1976", 
   "ArtistBio": "(American, born 1929)", 
-  "DateAcquired": "1980-01-08", 
-  "\ufeffTitle": "Milton Glaser Exhibition, Mus\u00e9es Royaux des Beaux-Arts de Belgique Arts Moderne, Place Royal, 1/1000 Bruxelles, Oct. 15 to Nov. 21, 1976", 
+  "CuratorApproved": "Y", 
   "ObjectID": "5977"
 }

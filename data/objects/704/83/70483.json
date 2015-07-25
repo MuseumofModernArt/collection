@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Pierre Bonnard", 
   "URL": "http://www.moma.org/collection/works/70483", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Abby Aldrich Rockefeller Fund", 
-  "Date": "1894", 
-  "ArtistID": 665, 
+  "DateAcquired": "1949-09-29", 
   "Keywords": [
-    "online art collection", 
     "Pierre Bonnard", 
     "La Revue blanche (The White Review)", 
     "1894"
   ], 
+  "ArtistID": 665, 
+  "Title": "The White Review (La Revue blanche)", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "523.1949", 
+  "Date": "1894", 
   "ArtistBio": "(French, 1867\u20131947)", 
-  "DateAcquired": "1949-09-29", 
-  "\ufeffTitle": "The White Review (La Revue blanche)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "70483"
 }

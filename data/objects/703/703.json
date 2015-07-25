@@ -4,12 +4,9 @@
   "Classification": "A&D Mies van der Rohe Archive", 
   "Artist": "Ludwig Mies van der Rohe", 
   "URL": "http://www.moma.org/collection/works/703", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Mies van der Rohe Archive, gift of the architect", 
-  "Date": "1954", 
-  "ArtistID": 7166, 
+  "DateAcquired": "1963-11-12", 
   "Keywords": [
-    "online art collection", 
     "Ludwig Mies van der Rohe", 
     "Convention Hall Project", 
     "Chicago", 
@@ -17,10 +14,12 @@
     "Preliminary version: interior perspective", 
     "1954"
   ], 
+  "ArtistID": 7166, 
+  "Title": "Convention Hall Project, Chicago, Illinois , Preliminary version: interior perspective", 
   "Department": "Architecture & Design", 
   "MoMANumber": "572.1963", 
+  "Date": "1954", 
   "ArtistBio": "(American, born Germany. 1886\u20131969)", 
-  "DateAcquired": "1963-11-12", 
-  "\ufeffTitle": "Convention Hall Project, Chicago, Illinois , Preliminary version: interior perspective", 
+  "CuratorApproved": "Y", 
   "ObjectID": "703"
 }

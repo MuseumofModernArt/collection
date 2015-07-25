@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Fernando Botero", 
   "URL": "http://www.moma.org/collection/works/80711", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Warren D. Benedek", 
-  "Date": "1967", 
-  "ArtistID": 693, 
+  "DateAcquired": "1967-12-28", 
   "Keywords": [
-    "online art collection", 
     "Fernando Botero", 
     "The Presidential Family", 
     "1967"
   ], 
+  "ArtistID": 693, 
+  "Title": "The Presidential Family", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "2667.1967", 
+  "Date": "1967", 
   "ArtistBio": "(Colombian, born 1932)", 
-  "DateAcquired": "1967-12-28", 
-  "\ufeffTitle": "The Presidential Family", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80711"
 }

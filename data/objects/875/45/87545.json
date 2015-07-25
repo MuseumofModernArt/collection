@@ -4,12 +4,9 @@
   "Classification": "A&D Mies van der Rohe Archive", 
   "Artist": "Ludwig Mies van der Rohe", 
   "URL": "http://www.moma.org/collection/works/87545", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Mies van der Rohe Archive, gift of the architect\r\n", 
-  "Date": "1928-1930", 
-  "ArtistID": 7166, 
+  "DateAcquired": "", 
   "Keywords": [
-    "online art collection", 
     "Ludwig Mies van der Rohe", 
     "Tugendhat House", 
     "Brno", 
@@ -17,10 +14,12 @@
     "Perspective sketch", 
     "1928-1930"
   ], 
+  "ArtistID": 7166, 
+  "Title": "Tugendhat House, Brno, Czech Republic, Perspective sketch", 
   "Department": "Architecture & Design", 
   "MoMANumber": "MR2.387", 
+  "Date": "1928-1930", 
   "ArtistBio": "(American, born Germany. 1886\u20131969)", 
-  "DateAcquired": "", 
-  "\ufeffTitle": "Tugendhat House, Brno, Czech Republic, Perspective sketch", 
+  "CuratorApproved": "Y", 
   "ObjectID": "87545"
 }

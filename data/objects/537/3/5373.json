@@ -4,12 +4,9 @@
   "Classification": "A&D Graphic Design", 
   "Artist": "Joan Mir\u00f3", 
   "URL": "http://www.moma.org/collection/works/5373", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Anonymous gift", 
-  "Date": "1961", 
-  "ArtistID": 4016, 
+  "DateAcquired": "1968-03-07", 
   "Keywords": [
-    "online art collection", 
     "Joan Mir&oacute;", 
     "Galerie Maeght", 
     "Peintures", 
@@ -17,10 +14,12 @@
     "Mir&oacute;", 
     "1961"
   ], 
+  "ArtistID": 4016, 
+  "Title": "Galerie Maeght, Peintures, Murales, Mir\u00f3", 
   "Department": "Architecture & Design", 
   "MoMANumber": "158.1968", 
+  "Date": "1961", 
   "ArtistBio": "(Spanish, 1893\u20131983)", 
-  "DateAcquired": "1968-03-07", 
-  "\ufeffTitle": "Galerie Maeght, Peintures, Murales, Mir\u00f3", 
+  "CuratorApproved": "Y", 
   "ObjectID": "5373"
 }

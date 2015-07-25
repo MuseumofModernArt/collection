@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Jacques Lipchitz", 
   "URL": "http://www.moma.org/collection/works/81524", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Mrs. Simon Guggenheim Fund (by exchange)", 
-  "Date": "1915", 
-  "ArtistID": 3563, 
+  "DateAcquired": "1951-11-21", 
   "Keywords": [
-    "online art collection", 
     "Jacques Lipchitz", 
     "Man with a Guitar", 
     "1915"
   ], 
+  "ArtistID": 3563, 
+  "Title": "Man with a Guitar", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "509.1951", 
+  "Date": "1915", 
   "ArtistBio": "(American, born Lithuania. 1891\u20131973)", 
-  "DateAcquired": "1951-11-21", 
-  "\ufeffTitle": "Man with a Guitar", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81524"
 }

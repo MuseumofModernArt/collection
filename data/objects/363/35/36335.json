@@ -4,21 +4,20 @@
   "Classification": "Drawing", 
   "Artist": "Andy Warhol", 
   "URL": "http://www.moma.org/collection/works/36335", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Sarah-Ann and Werner H. Kramarsky", 
-  "Date": "(c. 1957)", 
-  "ArtistID": 6246, 
+  "DateAcquired": "1998-04-23", 
   "Keywords": [
-    "online art collection", 
     "Andy Warhol", 
     "Unknown Female", 
     "(c", 
     "1957)"
   ], 
+  "ArtistID": 6246, 
+  "Title": "Unknown Female", 
   "Department": "Drawings", 
   "MoMANumber": "328.1998", 
+  "Date": "(c. 1957)", 
   "ArtistBio": "(American, 1928\u20131987)", 
-  "DateAcquired": "1998-04-23", 
-  "\ufeffTitle": "Unknown Female", 
+  "CuratorApproved": "Y", 
   "ObjectID": "36335"
 }

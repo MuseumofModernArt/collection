@@ -4,11 +4,9 @@
   "Classification": "A&D Design", 
   "Artist": "LSI Logic Corporation, Milpitas, CA", 
   "URL": "http://www.moma.org/collection/works/4302", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the manufacturer", 
-  "Date": "1988", 
+  "DateAcquired": "1990-10-24", 
   "Keywords": [
-    "online art collection", 
     "LSI Logic Corporation", 
     "Milpitas", 
     "CA", 
@@ -16,10 +14,11 @@
     "and corresponding microchip", 
     "1988"
   ], 
+  "Title": "Diagram of application-specific integrated circuit (ASIC), and corresponding microchip", 
   "Department": "Architecture & Design", 
   "MoMANumber": "522.1990.1a-b", 
+  "Date": "1988", 
   "ArtistBio": "(American, established 1981)", 
-  "DateAcquired": "1990-10-24", 
-  "\ufeffTitle": "Diagram of application-specific integrated circuit (ASIC), and corresponding microchip", 
+  "CuratorApproved": "Y", 
   "ObjectID": "4302"
 }

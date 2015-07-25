@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Christo (Christo Javacheff)", 
   "URL": "http://www.moma.org/collection/works/81909", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of D. and J. de Menil", 
-  "Date": "1968", 
-  "ArtistID": 1114, 
+  "DateAcquired": "1968-06-12", 
   "Keywords": [
-    "online art collection", 
     "Christo (Christo Javacheff)", 
     "The Museum of Modern Art Packaged", 
     "1968"
   ], 
+  "ArtistID": 1114, 
+  "Title": "The Museum of Modern Art Packaged", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "868.1968", 
+  "Date": "1968", 
   "ArtistBio": "(American, born Bulgaria 1935)", 
-  "DateAcquired": "1968-06-12", 
-  "\ufeffTitle": "The Museum of Modern Art Packaged", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81909"
 }

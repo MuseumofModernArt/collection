@@ -4,22 +4,21 @@
   "Classification": "Sculpture", 
   "Artist": "Alexander Calder", 
   "URL": "http://www.moma.org/collection/works/81621", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Commissioned by the Advisory Committee for the stairwell of the Museum", 
-  "Date": "Roxbury, Connecticut, 1939", 
-  "ArtistID": 922, 
+  "DateAcquired": "1939-12-08", 
   "Keywords": [
-    "online art collection", 
     "Alexander Calder", 
     "Lobster Trap and Fish Tail", 
     "Roxbury", 
     "Connecticut", 
     "1939"
   ], 
+  "ArtistID": 922, 
+  "Title": "Lobster Trap and Fish Tail", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "590.1939.a-d", 
+  "Date": "Roxbury, Connecticut, 1939", 
   "ArtistBio": "(American, 1898\u20131976)", 
-  "DateAcquired": "1939-12-08", 
-  "\ufeffTitle": "Lobster Trap and Fish Tail", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81621"
 }

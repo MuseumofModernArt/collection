@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Anthony Caro", 
   "URL": "http://www.moma.org/collection/works/80940", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Blanchette Hooker Rockefeller Fund (by exchange)", 
-  "Date": "1967", 
-  "ArtistID": 982, 
+  "DateAcquired": "1976-03-09", 
   "Keywords": [
-    "online art collection", 
     "Anthony Caro", 
     "Source", 
     "1967"
   ], 
+  "ArtistID": 982, 
+  "Title": "Source", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "99.1976", 
+  "Date": "1967", 
   "ArtistBio": "(British, 1924\u20132013)", 
-  "DateAcquired": "1976-03-09", 
-  "\ufeffTitle": "Source", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80940"
 }

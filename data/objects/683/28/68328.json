@@ -4,12 +4,9 @@
   "Classification": "Periodical", 
   "Artist": "Various Artists, Karl Schmidt-Rottluff, Gerhardt von Ruckteschell, Karl Opfermann, Heinrich Stegemann, Lasar Segall, Robert Koepke, Willi Titze, Siegfried Schott, Franz Radziwill", 
   "URL": "http://www.moma.org/collection/works/68328", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Given anonymously", 
-  "Date": "1921", 
-  "ArtistID": 6104, 
+  "DateAcquired": "1956-10-25", 
   "Keywords": [
-    "online art collection", 
     "Various Artists with Karl Schmidt-Rottluff", 
     "Gerhardt von Ruckteschell", 
     "Karl Opfermann", 
@@ -22,10 +19,12 @@
     "Eine Zeitschrift f&uuml;r Kunst", 
     "1921"
   ], 
+  "ArtistID": 6104, 
+  "Title": "K\u00fcndung. Eine Zeitschrift f\u00fcr Kunst", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "392.1956.1-41", 
+  "Date": "1921", 
   "ArtistBio": "(German, 1884\u20131976) (German, 1882\u20131941) (German, 1891\u20131960) (German, 1888\u20131945) (Brazilian, born Russia, 1891\u20131957) (German, 1893\u20131968) (German, 1890\u20131979) (German, 1897\u20131971) (German, 1895\u20131983)", 
-  "DateAcquired": "1956-10-25", 
-  "\ufeffTitle": "K\u00fcndung. Eine Zeitschrift f\u00fcr Kunst", 
+  "CuratorApproved": "Y", 
   "ObjectID": "68328"
 }

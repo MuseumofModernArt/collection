@@ -4,21 +4,20 @@
   "Classification": "Photograph", 
   "Artist": "Lee Friedlander", 
   "URL": "http://www.moma.org/collection/works/55523", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1991", 
-  "ArtistID": 2002, 
+  "DateAcquired": "2000-10-12", 
   "Keywords": [
-    "online art collection", 
     "Lee Friedlander", 
     "Memphis", 
     "Tennessee", 
     "1991"
   ], 
+  "ArtistID": 2002, 
+  "Title": "Memphis, Tennessee", 
   "Department": "Photography", 
   "MoMANumber": "603.2000", 
+  "Date": "1991", 
   "ArtistBio": "(American, born 1934)", 
-  "DateAcquired": "2000-10-12", 
-  "\ufeffTitle": "Memphis, Tennessee", 
+  "CuratorApproved": "Y", 
   "ObjectID": "55523"
 }

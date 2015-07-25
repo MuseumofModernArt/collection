@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Robert Morris", 
   "URL": "http://www.moma.org/collection/works/81536", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Philip Johnson", 
-  "Date": "1963", 
-  "ArtistID": 4108, 
+  "DateAcquired": "1970-11-10", 
   "Keywords": [
-    "online art collection", 
     "Robert Morris", 
     "Magnified and Reduced Inches", 
     "1963"
   ], 
+  "ArtistID": 4108, 
+  "Title": "Magnified and Reduced Inches", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "518.1970", 
+  "Date": "1963", 
   "ArtistBio": "(American, born 1931)", 
-  "DateAcquired": "1970-11-10", 
-  "\ufeffTitle": "Magnified and Reduced Inches", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81536"
 }

@@ -4,12 +4,9 @@
   "Classification": "Print", 
   "Artist": "Oskar Kokoschka", 
   "URL": "http://www.moma.org/collection/works/70814", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "(1918, published 1919)", 
-  "ArtistID": 3197, 
+  "DateAcquired": "1949-09-29", 
   "Keywords": [
-    "online art collection", 
     "Oskar Kokoschka", 
     "The Principle (Das Prinzip) from the periodical in portfolio form Die Schaffenden", 
     "vol", 
@@ -19,10 +16,12 @@
     "(1918", 
     "published 1919)"
   ], 
+  "ArtistID": 3197, 
+  "Title": "The Principle (Das Prinzip) from the periodical in portfolio form Die Schaffenden, vol. 1, no. 3 (1919)", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "540.1949", 
+  "Date": "(1918, published 1919)", 
   "ArtistBio": "(Austrian, 1886\u20131980)", 
-  "DateAcquired": "1949-09-29", 
-  "\ufeffTitle": "The Principle (Das Prinzip) from the periodical in portfolio form Die Schaffenden, vol. 1, no. 3 (1919)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "70814"
 }

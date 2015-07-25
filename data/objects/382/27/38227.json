@@ -4,21 +4,20 @@
   "Classification": "Drawing", 
   "Artist": "Auguste Herbin", 
   "URL": "http://www.moma.org/collection/works/38227", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The Riklis Collection of McCrory Corporation", 
-  "Date": "c. 1955", 
-  "ArtistID": 2602, 
+  "DateAcquired": "1985-09-10", 
   "Keywords": [
-    "online art collection", 
     "Auguste Herbin", 
     "Project for a Painting", 
     "c", 
     "1955"
   ], 
+  "ArtistID": 2602, 
+  "Title": "Project for a Painting", 
   "Department": "Drawings", 
   "MoMANumber": "897.1983.a-b", 
+  "Date": "c. 1955", 
   "ArtistBio": "(French, 1882\u20131960)", 
-  "DateAcquired": "1985-09-10", 
-  "\ufeffTitle": "Project for a Painting", 
+  "CuratorApproved": "Y", 
   "ObjectID": "38227"
 }

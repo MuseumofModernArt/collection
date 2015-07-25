@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Keith Sonnier", 
   "URL": "http://www.moma.org/collection/works/81297", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Murray Brant", 
-  "Date": "1969 (fabricated 1986)", 
-  "ArtistID": 5526, 
+  "DateAcquired": "1986-10-14", 
   "Keywords": [
-    "online art collection", 
     "Keith Sonnier", 
     "Lit Circle", 
     "1969 (fabricated 1986)"
   ], 
+  "ArtistID": 5526, 
+  "Title": "Lit Circle", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "288.1986.a-c", 
+  "Date": "1969 (fabricated 1986)", 
   "ArtistBio": "(American, born 1941)", 
-  "DateAcquired": "1986-10-14", 
-  "\ufeffTitle": "Lit Circle", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81297"
 }

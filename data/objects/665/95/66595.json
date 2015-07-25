@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Pierre Bonnard", 
   "URL": "http://www.moma.org/collection/works/66595", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Larry Aldrich Fund (by exchange)", 
-  "Date": "1899", 
-  "ArtistID": 665, 
+  "DateAcquired": "1958-12-19", 
   "Keywords": [
-    "online art collection", 
     "Pierre Bonnard", 
     "House in a Courtyard (Maison dans la cour)", 
     "1899"
   ], 
+  "ArtistID": 665, 
+  "Title": "House in a Courtyard (Maison dans la cour)", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "308.1958", 
+  "Date": "1899", 
   "ArtistBio": "(French, 1867\u20131947)", 
-  "DateAcquired": "1958-12-19", 
-  "\ufeffTitle": "House in a Courtyard (Maison dans la cour)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "66595"
 }

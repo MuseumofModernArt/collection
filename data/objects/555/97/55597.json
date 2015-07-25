@@ -4,20 +4,19 @@
   "Classification": "Photograph", 
   "Artist": "Roger Fenton", 
   "URL": "http://www.moma.org/collection/works/55597", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1857", 
-  "ArtistID": 1847, 
+  "DateAcquired": "1941-12-10", 
   "Keywords": [
-    "online art collection", 
     "Roger Fenton", 
     "Penshurst Castle", 
     "1857"
   ], 
+  "ArtistID": 1847, 
+  "Title": "Penshurst Castle", 
   "Department": "Photography", 
   "MoMANumber": "614.1941", 
+  "Date": "1857", 
   "ArtistBio": "(British, 1819\u20131869)", 
-  "DateAcquired": "1941-12-10", 
-  "\ufeffTitle": "Penshurst Castle", 
+  "CuratorApproved": "Y", 
   "ObjectID": "55597"
 }

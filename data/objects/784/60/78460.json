@@ -4,21 +4,20 @@
   "Classification": "Painting", 
   "Artist": "Jan M\u00fcller", 
   "URL": "http://www.moma.org/collection/works/78460", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1956", 
-  "ArtistID": 4150, 
+  "DateAcquired": "1957-02-27", 
   "Keywords": [
-    "online art collection", 
     "Jan M&uuml;ller", 
     "Faust", 
     "I", 
     "1956"
   ], 
+  "ArtistID": 4150, 
+  "Title": "Faust, I", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "16.1957", 
+  "Date": "1956", 
   "ArtistBio": "(American, 1922\u20131958)", 
-  "DateAcquired": "1957-02-27", 
-  "\ufeffTitle": "Faust, I", 
+  "CuratorApproved": "Y", 
   "ObjectID": "78460"
 }

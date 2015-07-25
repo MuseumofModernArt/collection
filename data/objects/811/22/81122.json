@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Tom Otterness", 
   "URL": "http://www.moma.org/collection/works/81122", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Acquired with matching funds from the Louis and Bessie Adler Foundation, Inc. and the National Endowment for the Arts, and purchase", 
-  "Date": "1988-89", 
-  "ArtistID": 4448, 
+  "DateAcquired": "1989-10-10", 
   "Keywords": [
-    "online art collection", 
     "Tom Otterness", 
     "Head", 
     "1988-89"
   ], 
+  "ArtistID": 4448, 
+  "Title": "Head", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "197.1989", 
+  "Date": "1988-89", 
   "ArtistBio": "(American, born 1952)", 
-  "DateAcquired": "1989-10-10", 
-  "\ufeffTitle": "Head", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81122"
 }

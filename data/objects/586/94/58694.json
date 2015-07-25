@@ -4,21 +4,20 @@
   "Classification": "Photograph", 
   "Artist": "Barton Silverman/The New York Times", 
   "URL": "http://www.moma.org/collection/works/58694", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The New York Times Collection", 
-  "Date": "March 10, 1992", 
-  "ArtistID": 8619, 
+  "DateAcquired": "2001-06-14", 
   "Keywords": [
-    "online art collection", 
     "Barton Silverman/The New York Times", 
     "Lakers at the Knicks", 
     "March 10", 
     "1992"
   ], 
+  "ArtistID": 8619, 
+  "Title": "Lakers at the Knicks", 
   "Department": "Photography", 
   "MoMANumber": "2101.2001", 
+  "Date": "March 10, 1992", 
   "ArtistBio": "(American, born 1942)", 
-  "DateAcquired": "2001-06-14", 
-  "\ufeffTitle": "Lakers at the Knicks", 
+  "CuratorApproved": "Y", 
   "ObjectID": "58694"
 }

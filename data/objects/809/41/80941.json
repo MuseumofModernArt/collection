@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Alexander Calder", 
   "URL": "http://www.moma.org/collection/works/80941", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Pierre Matisse in memory of Patricia Kane Matisse", 
-  "Date": "1943", 
-  "ArtistID": 922, 
+  "DateAcquired": "1982-04-06", 
   "Keywords": [
-    "online art collection", 
     "Alexander Calder", 
     "Untitled", 
     "1943"
   ], 
+  "ArtistID": 922, 
+  "Title": "Untitled", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "100.1982", 
+  "Date": "1943", 
   "ArtistBio": "(American, 1898\u20131976)", 
-  "DateAcquired": "1982-04-06", 
-  "\ufeffTitle": "Untitled", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80941"
 }

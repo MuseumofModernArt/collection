@@ -4,21 +4,20 @@
   "Classification": "Photograph", 
   "Artist": "Henri Cartier-Bresson", 
   "URL": "http://www.moma.org/collection/works/56129", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of James Thrall Soby", 
-  "Date": "1933", 
-  "ArtistID": 1000, 
+  "DateAcquired": "1943-11-04", 
   "Keywords": [
-    "online art collection", 
     "Henri Cartier-Bresson", 
     "Seville", 
     "Spain", 
     "1933"
   ], 
+  "ArtistID": 1000, 
+  "Title": "Seville, Spain", 
   "Department": "Photography", 
   "MoMANumber": "692.1943", 
+  "Date": "1933", 
   "ArtistBio": "(French, 1908\u20132004)", 
-  "DateAcquired": "1943-11-04", 
-  "\ufeffTitle": "Seville, Spain", 
+  "CuratorApproved": "Y", 
   "ObjectID": "56129"
 }

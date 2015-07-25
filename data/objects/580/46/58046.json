@@ -4,20 +4,19 @@
   "Classification": "Photograph", 
   "Artist": "Unknown photographer", 
   "URL": "http://www.moma.org/collection/works/58046", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Marvin Heiferman", 
-  "Date": "1957", 
-  "ArtistID": 6028, 
+  "DateAcquired": "2001-04-12", 
   "Keywords": [
-    "online art collection", 
     "Unknown Photographer", 
     "The Fuzzy Pink Nightgown", 
     "1957"
   ], 
+  "ArtistID": 6028, 
+  "Title": "The Fuzzy Pink Nightgown", 
   "Department": "Photography", 
   "MoMANumber": "1289.2001", 
+  "Date": "1957", 
   "ArtistBio": "", 
-  "DateAcquired": "2001-04-12", 
-  "\ufeffTitle": "The Fuzzy Pink Nightgown", 
+  "CuratorApproved": "Y", 
   "ObjectID": "58046"
 }

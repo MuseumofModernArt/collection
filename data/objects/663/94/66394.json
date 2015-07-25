@@ -4,21 +4,20 @@
   "Classification": "Print", 
   "Artist": "Max Beckmann", 
   "URL": "http://www.moma.org/collection/works/66394", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Samuel A. Berger", 
-  "Date": "1911 (published c. 1917)", 
-  "ArtistID": 429, 
+  "DateAcquired": "1954-09-30", 
   "Keywords": [
-    "online art collection", 
     "Max Beckmann", 
     "Model (Modell)", 
     "1911 (published c", 
     "1917)"
   ], 
+  "ArtistID": 429, 
+  "Title": "Model (Modell)", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "299.1954", 
+  "Date": "1911 (published c. 1917)", 
   "ArtistBio": "(German, 1884\u20131950)", 
-  "DateAcquired": "1954-09-30", 
-  "\ufeffTitle": "Model (Modell)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "66394"
 }

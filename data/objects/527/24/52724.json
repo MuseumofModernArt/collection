@@ -4,12 +4,9 @@
   "Classification": "Photograph", 
   "Artist": "Stephen Shore", 
   "URL": "http://www.moma.org/collection/works/52724", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1973", 
-  "ArtistID": 5409, 
+  "DateAcquired": "1974-10-01", 
   "Keywords": [
-    "online art collection", 
     "Stephen Shore", 
     "Breakfast", 
     "Trail's End Restaurant", 
@@ -17,10 +14,12 @@
     "Utah", 
     "1973"
   ], 
+  "ArtistID": 5409, 
+  "Title": "Breakfast, Trail's End Restaurant, Kanab, Utah", 
   "Department": "Photography", 
   "MoMANumber": "405.1974", 
+  "Date": "1973", 
   "ArtistBio": "(American, born 1947)", 
-  "DateAcquired": "1974-10-01", 
-  "\ufeffTitle": "Breakfast, Trail's End Restaurant, Kanab, Utah", 
+  "CuratorApproved": "Y", 
   "ObjectID": "52724"
 }

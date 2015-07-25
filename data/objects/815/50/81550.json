@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Martin Kippenberger", 
   "URL": "http://www.moma.org/collection/works/81550", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Blanchette Hooker Rockefeller Fund Bequest, Anna Marie and Robert F. Shapiro, Jerry I. Speyer, and Michael and Judy Ovitz Funds", 
-  "Date": "1989", 
-  "ArtistID": 3111, 
+  "DateAcquired": "1992-12-07", 
   "Keywords": [
-    "online art collection", 
     "Martin Kippenberger", 
     "Untitled", 
     "1989"
   ], 
+  "ArtistID": 3111, 
+  "Title": "Untitled", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "524.1992.a-b", 
+  "Date": "1989", 
   "ArtistBio": "(German, 1953\u20131997)", 
-  "DateAcquired": "1992-12-07", 
-  "\ufeffTitle": "Untitled", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81550"
 }

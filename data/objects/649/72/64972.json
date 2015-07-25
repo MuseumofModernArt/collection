@@ -4,12 +4,9 @@
   "Classification": "Print", 
   "Artist": "Pablo Picasso", 
   "URL": "http://www.moma.org/collection/works/64972", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Abby Aldrich Rockefeller Fund", 
-  "Date": "(November 7, 1933, printed 1939)", 
-  "ArtistID": 4609, 
+  "DateAcquired": "1949-03-24", 
   "Keywords": [
-    "online art collection", 
     "Pablo Picasso", 
     "Bullfight", 
     "Wounded Torero (Corrida", 
@@ -18,10 +15,12 @@
     "1933", 
     "printed 1939)"
   ], 
+  "ArtistID": 4609, 
+  "Title": "Bullfight. Wounded Torero (Corrida. Torero bless\u00e9) from the Vollard Suite (Suite Vollard)", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "238.1949", 
+  "Date": "(November 7, 1933, printed 1939)", 
   "ArtistBio": "(Spanish, 1881\u20131973)", 
-  "DateAcquired": "1949-03-24", 
-  "\ufeffTitle": "Bullfight. Wounded Torero (Corrida. Torero bless\u00e9) from the Vollard Suite (Suite Vollard)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "64972"
 }

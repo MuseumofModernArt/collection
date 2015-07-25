@@ -4,21 +4,20 @@
   "Classification": "Photograph", 
   "Artist": "Dorothea Lange", 
   "URL": "http://www.moma.org/collection/works/46373", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Albert M. Bender", 
-  "Date": "1933", 
-  "ArtistID": 3373, 
+  "DateAcquired": "1940-04-05", 
   "Keywords": [
-    "online art collection", 
     "Dorothea Lange", 
     "White Angel Bread Line", 
     "San Francisco", 
     "1933"
   ], 
+  "ArtistID": 3373, 
+  "Title": "White Angel Bread Line, San Francisco", 
   "Department": "Photography", 
   "MoMANumber": "108.1940", 
+  "Date": "1933", 
   "ArtistBio": "(American, 1895\u20131965)", 
-  "DateAcquired": "1940-04-05", 
-  "\ufeffTitle": "White Angel Bread Line, San Francisco", 
+  "CuratorApproved": "Y", 
   "ObjectID": "46373"
 }

@@ -4,12 +4,9 @@
   "Classification": "Photograph", 
   "Artist": "Lewis Baltz", 
   "URL": "http://www.moma.org/collection/works/47340", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Joseph G. Mayer Fund", 
-  "Date": "1974", 
-  "ArtistID": 318, 
+  "DateAcquired": "1975-05-14", 
   "Keywords": [
-    "online art collection", 
     "Lewis Baltz", 
     "West Wall", 
     "R-Ohm Corporation", 
@@ -17,10 +14,12 @@
     "Irvine", 
     "1974"
   ], 
+  "ArtistID": 318, 
+  "Title": "West Wall, R-Ohm Corporation, 16931 Milliken, Irvine", 
   "Department": "Photography", 
   "MoMANumber": "172.1975", 
+  "Date": "1974", 
   "ArtistBio": "(American, 1945\u20132014)", 
-  "DateAcquired": "1975-05-14", 
-  "\ufeffTitle": "West Wall, R-Ohm Corporation, 16931 Milliken, Irvine", 
+  "CuratorApproved": "Y", 
   "ObjectID": "47340"
 }

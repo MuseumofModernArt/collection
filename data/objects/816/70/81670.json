@@ -4,21 +4,20 @@
   "Classification": "Sculpture", 
   "Artist": "Pablo Picasso", 
   "URL": "http://www.moma.org/collection/works/81670", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Mrs. Simon Guggenheim Fund", 
-  "Date": "Vallauris, 1950 (cast 1952)", 
-  "ArtistID": 4609, 
+  "DateAcquired": "1959-04-22", 
   "Keywords": [
-    "online art collection", 
     "Pablo Picasso", 
     "She-Goat", 
     "Vallauris", 
     "1950 (cast 1952)"
   ], 
+  "ArtistID": 4609, 
+  "Title": "She-Goat", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "611.1959", 
+  "Date": "Vallauris, 1950 (cast 1952)", 
   "ArtistBio": "(Spanish, 1881\u20131973)", 
-  "DateAcquired": "1959-04-22", 
-  "\ufeffTitle": "She-Goat", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81670"
 }

@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Marc Chagall", 
   "URL": "http://www.moma.org/collection/works/64743", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Larry Aldrich Fund", 
-  "Date": "1922-23", 
-  "ArtistID": 1055, 
+  "DateAcquired": "1952-11-07", 
   "Keywords": [
-    "online art collection", 
     "Marc Chagall", 
     "Self-portrait with goat (Auto-portrait avec ch&egrave;vre)", 
     "1922-23"
   ], 
+  "ArtistID": 1055, 
+  "Title": "Self-portrait with goat (Auto-portrait avec ch\u00e8vre)", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "226.1952", 
+  "Date": "1922-23", 
   "ArtistBio": "(French, born Belarus. 1887\u20131985)", 
-  "DateAcquired": "1952-11-07", 
-  "\ufeffTitle": "Self-portrait with goat (Auto-portrait avec ch\u00e8vre)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "64743"
 }

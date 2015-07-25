@@ -4,21 +4,20 @@
   "Classification": "A&D Graphic Design", 
   "Artist": "Ludwig Hohlwein", 
   "URL": "http://www.moma.org/collection/works/5210", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Peter M\u00fcller-Munk", 
-  "Date": "1908", 
-  "ArtistID": 2700, 
+  "DateAcquired": "1968-03-07", 
   "Keywords": [
-    "online art collection", 
     "Ludwig Hohlwein", 
     "Kunstgewerbehaus", 
     "Gebrueder Wollweber", 
     "1908"
   ], 
+  "ArtistID": 2700, 
+  "Title": "Kunstgewerbehaus, Gebrueder Wollweber", 
   "Department": "Architecture & Design", 
   "MoMANumber": "141.1968", 
+  "Date": "1908", 
   "ArtistBio": "(German, 1874\u20131949)", 
-  "DateAcquired": "1968-03-07", 
-  "\ufeffTitle": "Kunstgewerbehaus, Gebrueder Wollweber", 
+  "CuratorApproved": "Y", 
   "ObjectID": "5210"
 }

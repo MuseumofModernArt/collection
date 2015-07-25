@@ -4,11 +4,9 @@
   "Classification": "A&D Architectural Model", 
   "Artist": "Paul Schweiker, Winston Elting", 
   "URL": "http://www.moma.org/collection/works/82489", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the architects", 
-  "Date": "1950", 
+  "DateAcquired": "1953-01-01", 
   "Keywords": [
-    "online art collection", 
     "Paul Schweiker and Winston Elting", 
     "House for Louis C", 
     "Upton", 
@@ -16,10 +14,11 @@
     "Arizona", 
     "1950"
   ], 
+  "Title": "House for Louis C. Upton, Paradise Valley, Arizona", 
   "Department": "Architecture & Design", 
   "MoMANumber": "ASC 7", 
+  "Date": "1950", 
   "ArtistBio": "(American, born 1916)", 
-  "DateAcquired": "1953-01-01", 
-  "\ufeffTitle": "House for Louis C. Upton, Paradise Valley, Arizona", 
+  "CuratorApproved": "Y", 
   "ObjectID": "82489"
 }

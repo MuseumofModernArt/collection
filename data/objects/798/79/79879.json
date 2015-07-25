@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Piet Mondrian", 
   "URL": "http://www.moma.org/collection/works/79879", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Mr. and Mrs. William A. M. Burden", 
-  "Date": "1939-43", 
-  "ArtistID": 4057, 
+  "DateAcquired": "1964-06-15", 
   "Keywords": [
-    "online art collection", 
     "Piet Mondrian", 
     "Trafalgar Square", 
     "1939-43"
   ], 
+  "ArtistID": 4057, 
+  "Title": "Trafalgar Square", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "510.1964", 
+  "Date": "1939-43", 
   "ArtistBio": "(Dutch, 1872\u20131944)", 
-  "DateAcquired": "1964-06-15", 
-  "\ufeffTitle": "Trafalgar Square", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79879"
 }

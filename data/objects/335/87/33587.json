@@ -4,20 +4,19 @@
   "Classification": "Drawing", 
   "Artist": "Paul Klee", 
   "URL": "http://www.moma.org/collection/works/33587", 
-  "CuratorApproved": "Y", 
   "CreditLine": "John S. Newberry Collection", 
-  "Date": "1921", 
-  "ArtistID": 3130, 
+  "DateAcquired": "1961-02-07", 
   "Keywords": [
-    "online art collection", 
     "Paul Klee", 
     "The Angler (Der Angler)", 
     "1921"
   ], 
+  "ArtistID": 3130, 
+  "Title": "The Angler (Der Angler)", 
   "Department": "Drawings", 
   "MoMANumber": "64.1961", 
+  "Date": "1921", 
   "ArtistBio": "(German, born Switzerland. 1879\u20131940)", 
-  "DateAcquired": "1961-02-07", 
-  "\ufeffTitle": "The Angler (Der Angler)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "33587"
 }

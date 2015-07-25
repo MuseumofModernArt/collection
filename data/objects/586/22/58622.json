@@ -4,12 +4,9 @@
   "Classification": "Photograph", 
   "Artist": "Norman M. Jeannero/Times World Wide Photos", 
   "URL": "http://www.moma.org/collection/works/58622", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The New York Times Collection", 
-  "Date": "1921", 
-  "ArtistID": 8564, 
+  "DateAcquired": "2001-06-14", 
   "Keywords": [
-    "online art collection", 
     "Norman M", 
     "Jeannero/Times World Wide Photos", 
     "\"Madame Marie Curie", 
@@ -17,10 +14,12 @@
     "at the Radium Center of the World\"", 
     "1921"
   ], 
+  "ArtistID": 8564, 
+  "Title": "\"Madame Marie Curie, Co-discoverer of Radium, at the Radium Center of the World\"", 
   "Department": "Photography", 
   "MoMANumber": "2029.2001", 
+  "Date": "1921", 
   "ArtistBio": "(American, 1889\u20131954)", 
-  "DateAcquired": "2001-06-14", 
-  "\ufeffTitle": "\"Madame Marie Curie, Co-discoverer of Radium, at the Radium Center of the World\"", 
+  "CuratorApproved": "Y", 
   "ObjectID": "58622"
 }

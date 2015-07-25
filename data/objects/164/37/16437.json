@@ -4,12 +4,9 @@
   "Classification": "Illustrated Book", 
   "Artist": "El Lissitzky", 
   "URL": "http://www.moma.org/collection/works/16437", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of The Judith Rothschild Foundation", 
-  "Date": "1921", 
-  "ArtistID": 3569, 
+  "DateAcquired": "2001-01-24", 
   "Keywords": [
-    "online art collection", 
     "El Lissitzky", 
     "Wendingen", 
     "vol", 
@@ -18,10 +15,12 @@
     "11", 
     "1921"
   ], 
+  "ArtistID": 3569, 
+  "Title": "Wendingen, vol. 4, no. 11", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "376.2001", 
+  "Date": "1921", 
   "ArtistBio": "(Russian, 1890\u20131941)", 
-  "DateAcquired": "2001-01-24", 
-  "\ufeffTitle": "Wendingen, vol. 4, no. 11", 
+  "CuratorApproved": "Y", 
   "ObjectID": "16437"
 }

@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Stuart Davis", 
   "URL": "http://www.moma.org/collection/works/78934", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of The American Tobacco Company, Inc.", 
-  "Date": "1921", 
-  "ArtistID": 1412, 
+  "DateAcquired": "1951-05-24", 
   "Keywords": [
-    "online art collection", 
     "Stuart Davis", 
     "Lucky Strike", 
     "1921"
   ], 
+  "ArtistID": 1412, 
+  "Title": "Lucky Strike", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "132.1951", 
+  "Date": "1921", 
   "ArtistBio": "(American, 1892\u20131964)", 
-  "DateAcquired": "1951-05-24", 
-  "\ufeffTitle": "Lucky Strike", 
+  "CuratorApproved": "Y", 
   "ObjectID": "78934"
 }

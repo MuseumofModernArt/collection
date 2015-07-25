@@ -4,21 +4,20 @@
   "Classification": "Print", 
   "Artist": "Wilhelm Lehmbruck", 
   "URL": "http://www.moma.org/collection/works/68298", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Abby Aldrich Rockefeller", 
-  "Date": "(1915, printed 1920)", 
-  "ArtistID": 3464, 
+  "DateAcquired": "1940-04-05", 
   "Keywords": [
-    "online art collection", 
     "Wilhelm Lehmbruck", 
     "Woman Knitting (Strickende Frau)", 
     "(1915", 
     "printed 1920)"
   ], 
+  "ArtistID": 3464, 
+  "Title": "Woman Knitting (Strickende Frau)", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "390.1940", 
+  "Date": "(1915, printed 1920)", 
   "ArtistBio": "(German, 1881\u20131919)", 
-  "DateAcquired": "1940-04-05", 
-  "\ufeffTitle": "Woman Knitting (Strickende Frau)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "68298"
 }

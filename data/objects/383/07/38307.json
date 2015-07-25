@@ -4,20 +4,19 @@
   "Classification": "Drawing", 
   "Artist": "Amedeo Modigliani", 
   "URL": "http://www.moma.org/collection/works/38307", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Mr. and Mrs. Richard Rodgers", 
-  "Date": "1916", 
-  "ArtistID": 4038, 
+  "DateAcquired": "1979-10-04", 
   "Keywords": [
-    "online art collection", 
     "Amedeo Modigliani", 
     "Paul Guillaume", 
     "1916"
   ], 
+  "ArtistID": 4038, 
+  "Title": "Paul Guillaume", 
   "Department": "Drawings", 
   "MoMANumber": "940.1979", 
+  "Date": "1916", 
   "ArtistBio": "(Italian, 1884\u20131920)", 
-  "DateAcquired": "1979-10-04", 
-  "\ufeffTitle": "Paul Guillaume", 
+  "CuratorApproved": "Y", 
   "ObjectID": "38307"
 }

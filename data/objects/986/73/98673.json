@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Robert Rauschenberg", 
   "URL": "http://www.moma.org/collection/works/98673", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Partial and promised gift of Jo Carole and Ronald S. Lauder and bequest of Virginia C. Field, gift of Mr. and Mrs. Peter A. R\u00fcbel, and gift of Jay R. Braus (all by exchange)", 
-  "Date": "1955", 
-  "ArtistID": 4823, 
+  "DateAcquired": "2005-05-09", 
   "Keywords": [
-    "online art collection", 
     "Robert Rauschenberg", 
     "Rebus", 
     "1955"
   ], 
+  "ArtistID": 4823, 
+  "Title": "Rebus", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "243.2005.a-c", 
+  "Date": "1955", 
   "ArtistBio": "(American, 1925\u20132008)", 
-  "DateAcquired": "2005-05-09", 
-  "\ufeffTitle": "Rebus", 
+  "CuratorApproved": "Y", 
   "ObjectID": "98673"
 }

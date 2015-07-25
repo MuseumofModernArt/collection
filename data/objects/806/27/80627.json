@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Chris Ofili", 
   "URL": "http://www.moma.org/collection/works/80627", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Mimi and Peter Haas Fund", 
-  "Date": "1999", 
-  "ArtistID": 7967, 
+  "DateAcquired": "1999-12-06", 
   "Keywords": [
-    "online art collection", 
     "Chris Ofili", 
     "Prince amongst Thieves", 
     "1999"
   ], 
+  "ArtistID": 7967, 
+  "Title": "Prince amongst Thieves", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "1259.1999.a-c", 
+  "Date": "1999", 
   "ArtistBio": "(British, born 1968)", 
-  "DateAcquired": "1999-12-06", 
-  "\ufeffTitle": "Prince amongst Thieves", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80627"
 }

@@ -4,21 +4,20 @@
   "Classification": "Drawing", 
   "Artist": "Marc Chagall", 
   "URL": "http://www.moma.org/collection/works/85051", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Acquired through the Lillie P. Bliss Bequest", 
-  "Date": "(1942)", 
-  "ArtistID": 1055, 
+  "DateAcquired": "1945-04-26", 
   "Keywords": [
-    "online art collection", 
     "Marc Chagall", 
     "Gypsies", 
     "costume design for Aleko (Scene IV)", 
     "(1942)"
   ], 
+  "ArtistID": 1055, 
+  "Title": "Gypsies, costume design for Aleko (Scene IV)", 
   "Department": "Drawings", 
   "MoMANumber": "137.1945.51", 
+  "Date": "(1942)", 
   "ArtistBio": "(French, born Belarus. 1887\u20131985)", 
-  "DateAcquired": "1945-04-26", 
-  "\ufeffTitle": "Gypsies, costume design for Aleko (Scene IV)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "85051"
 }

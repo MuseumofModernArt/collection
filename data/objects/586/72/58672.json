@@ -4,21 +4,20 @@
   "Classification": "Photograph", 
   "Artist": "Presse Bild Zentrale", 
   "URL": "http://www.moma.org/collection/works/58672", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The New York Times Collection", 
-  "Date": "September 15, 1935", 
-  "ArtistID": 8604, 
+  "DateAcquired": "2001-06-14", 
   "Keywords": [
-    "online art collection", 
     "Presse Bild Zentrale", 
     "Adolf Hitler Saluting Soldiers of the S,S", 
     "September 15", 
     "1935"
   ], 
+  "ArtistID": 8604, 
+  "Title": "Adolf Hitler Saluting Soldiers of the S.S", 
   "Department": "Photography", 
   "MoMANumber": "2079.2001", 
+  "Date": "September 15, 1935", 
   "ArtistBio": "", 
-  "DateAcquired": "2001-06-14", 
-  "\ufeffTitle": "Adolf Hitler Saluting Soldiers of the S.S", 
+  "CuratorApproved": "Y", 
   "ObjectID": "58672"
 }

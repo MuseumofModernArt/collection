@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Felix Meseck", 
   "URL": "http://www.moma.org/collection/works/70555", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Given anonymously", 
-  "Date": "(1922)", 
-  "ArtistID": 3942, 
+  "DateAcquired": "1942-11-19", 
   "Keywords": [
-    "online art collection", 
     "Felix Meseck", 
     "Illustration for Act IV from Shakespeare's The Tempest (Der Sturm)", 
     "(1922)"
   ], 
+  "ArtistID": 3942, 
+  "Title": "Illustration for Act IV from Shakespeare's The Tempest (Der Sturm)", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "526.1942", 
+  "Date": "(1922)", 
   "ArtistBio": "(German, 1883\u20131955)", 
-  "DateAcquired": "1942-11-19", 
-  "\ufeffTitle": "Illustration for Act IV from Shakespeare's The Tempest (Der Sturm)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "70555"
 }

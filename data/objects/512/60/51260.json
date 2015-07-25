@@ -4,22 +4,21 @@
   "Classification": "Photograph", 
   "Artist": "Mark Steinmetz", 
   "URL": "http://www.moma.org/collection/works/51260", 
-  "CuratorApproved": "Y", 
   "CreditLine": "E.T. Harmax Foundation Fund", 
-  "Date": "1997", 
-  "ArtistID": 5636, 
+  "DateAcquired": "1997-06-12", 
   "Keywords": [
-    "online art collection", 
     "Mark Steinmetz", 
     "J&J Flea Market", 
     "Athens", 
     "Georgia", 
     "1997"
   ], 
+  "ArtistID": 5636, 
+  "Title": "J&J Flea Market, Athens, Georgia", 
   "Department": "Photography", 
   "MoMANumber": "340.1997", 
+  "Date": "1997", 
   "ArtistBio": "(American, born 1961)", 
-  "DateAcquired": "1997-06-12", 
-  "\ufeffTitle": "J&J Flea Market, Athens, Georgia", 
+  "CuratorApproved": "Y", 
   "ObjectID": "51260"
 }

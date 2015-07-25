@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Joan Mir\u00f3", 
   "URL": "http://www.moma.org/collection/works/79846", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Celeste and Armand P. Bartos", 
-  "Date": "October 1932", 
-  "ArtistID": 4016, 
+  "DateAcquired": "1984-12-11", 
   "Keywords": [
-    "online art collection", 
     "Joan Mir&oacute;", 
     "Bather", 
     "October 1932"
   ], 
+  "ArtistID": 4016, 
+  "Title": "Bather", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "503.1984", 
+  "Date": "October 1932", 
   "ArtistBio": "(Spanish, 1893\u20131983)", 
-  "DateAcquired": "1984-12-11", 
-  "\ufeffTitle": "Bather", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79846"
 }

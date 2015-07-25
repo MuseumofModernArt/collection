@@ -4,21 +4,20 @@
   "Classification": "Photograph", 
   "Artist": "Associated Press", 
   "URL": "http://www.moma.org/collection/works/58537", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The New York Times Collection", 
-  "Date": "December 5, 1962", 
-  "ArtistID": 8501, 
+  "DateAcquired": "2001-06-14", 
   "Keywords": [
-    "online art collection", 
     "Associated Press", 
     "\"Tells How He Killed Girl\"", 
     "December 5", 
     "1962"
   ], 
+  "ArtistID": 8501, 
+  "Title": "\"Tells How He Killed Girl\"", 
   "Department": "Photography", 
   "MoMANumber": "1944.2001", 
+  "Date": "December 5, 1962", 
   "ArtistBio": "", 
-  "DateAcquired": "2001-06-14", 
-  "\ufeffTitle": "\"Tells How He Killed Girl\"", 
+  "CuratorApproved": "Y", 
   "ObjectID": "58537"
 }

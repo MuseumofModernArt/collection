@@ -4,12 +4,9 @@
   "Classification": "Print", 
   "Artist": "Louise Bourgeois", 
   "URL": "http://www.moma.org/collection/works/68618", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the artist", 
-  "Date": "1946-47", 
-  "ArtistID": 710, 
+  "DateAcquired": "1993-11-17", 
   "Keywords": [
-    "online art collection", 
     "Louise Bourgeois", 
     "Untitled", 
     "plate 5", 
@@ -17,10 +14,12 @@
     "from He Disappeared into Complete Silence", 
     "(1946-47)"
   ], 
+  "ArtistID": 710, 
+  "Title": "Untitled, plate 5, state III, from He Disappeared into Complete Silence", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "409.1993", 
+  "Date": "1946-47", 
   "ArtistBio": "(American, born France. 1911\u20132010)", 
-  "DateAcquired": "1993-11-17", 
-  "\ufeffTitle": "Untitled, plate 5, state III, from He Disappeared into Complete Silence", 
+  "CuratorApproved": "Y", 
   "ObjectID": "68618"
 }

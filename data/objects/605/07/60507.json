@@ -4,21 +4,20 @@
   "Classification": "Print", 
   "Artist": "Pablo Picasso", 
   "URL": "http://www.moma.org/collection/works/60507", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Acquired through the Lillie P. Bliss Bequest", 
-  "Date": "June 1936, published 1936", 
-  "ArtistID": 4609, 
+  "DateAcquired": "1948-03-17", 
   "Keywords": [
-    "online art collection", 
     "Pablo Picasso", 
     "Marie-Th&eacute;r&egrave;se Asleep by the Sea from La barre d'appui", 
     "June 1936", 
     "published 1936"
   ], 
+  "ArtistID": 4609, 
+  "Title": "Marie-Th\u00e9r\u00e8se Asleep by the Sea from La barre d'appui", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "33.1948", 
+  "Date": "June 1936, published 1936", 
   "ArtistBio": "(Spanish, 1881\u20131973)", 
-  "DateAcquired": "1948-03-17", 
-  "\ufeffTitle": "Marie-Th\u00e9r\u00e8se Asleep by the Sea from La barre d'appui", 
+  "CuratorApproved": "Y", 
   "ObjectID": "60507"
 }

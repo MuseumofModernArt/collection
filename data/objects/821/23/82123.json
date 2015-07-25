@@ -4,21 +4,20 @@
   "Classification": "A&D Architectural Drawing", 
   "Artist": "Aldo Rossi", 
   "URL": "http://www.moma.org/collection/works/82123", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the Architecture and Design Committee in honor of Marshall Cogan", 
-  "Date": "1978", 
-  "ArtistID": 7661, 
+  "DateAcquired": "2001-05-11", 
   "Keywords": [
-    "online art collection", 
     "Aldo Rossi", 
     "Constructing the City", 
     "project", 
     "1978"
   ], 
+  "ArtistID": 7661, 
+  "Title": "Constructing the City, project", 
   "Department": "Architecture & Design", 
   "MoMANumber": "1391.2001", 
+  "Date": "1978", 
   "ArtistBio": "(Italian, 1931\u20131997)", 
-  "DateAcquired": "2001-05-11", 
-  "\ufeffTitle": "Constructing the City, project", 
+  "CuratorApproved": "Y", 
   "ObjectID": "82123"
 }

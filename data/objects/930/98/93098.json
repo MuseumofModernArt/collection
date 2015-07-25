@@ -4,12 +4,9 @@
   "Classification": "Photograph", 
   "Artist": "Rineke Dijkstra", 
   "URL": "http://www.moma.org/collection/works/93098", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Fractional and promised gift of Jeanne Greenberg Rohatyn", 
-  "Date": "February 29, 1994", 
-  "ArtistID": 8139, 
+  "DateAcquired": "2004-05-13", 
   "Keywords": [
-    "online art collection", 
     "Rineke Dijkstra", 
     "Julie", 
     "Den Haag", 
@@ -17,10 +14,12 @@
     "February 29", 
     "1994"
   ], 
+  "ArtistID": 8139, 
+  "Title": "Julie, Den Haag, Netherlands", 
   "Department": "Photography", 
   "MoMANumber": "237.2004", 
+  "Date": "February 29, 1994", 
   "ArtistBio": "(Dutch, born 1959)", 
-  "DateAcquired": "2004-05-13", 
-  "\ufeffTitle": "Julie, Den Haag, Netherlands", 
+  "CuratorApproved": "Y", 
   "ObjectID": "93098"
 }

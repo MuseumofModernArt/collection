@@ -4,21 +4,20 @@
   "Classification": "Painting", 
   "Artist": "Jean Dubuffet", 
   "URL": "http://www.moma.org/collection/works/80225", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Mary Sisler Bequest", 
-  "Date": "Vence, December 1959", 
-  "ArtistID": 1633, 
+  "DateAcquired": "1990-12-10", 
   "Keywords": [
-    "online art collection", 
     "Jean Dubuffet", 
     "Soul of the Underground", 
     "Vence", 
     "December 1959"
   ], 
+  "ArtistID": 1633, 
+  "Title": "Soul of the Underground", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "668.1990", 
+  "Date": "Vence, December 1959", 
   "ArtistBio": "(French, 1901\u20131985)", 
-  "DateAcquired": "1990-12-10", 
-  "\ufeffTitle": "Soul of the Underground", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80225"
 }

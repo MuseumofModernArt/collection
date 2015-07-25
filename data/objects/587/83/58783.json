@@ -4,21 +4,20 @@
   "Classification": "Photograph", 
   "Artist": "Times Wide World Photos", 
   "URL": "http://www.moma.org/collection/works/58783", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The New York Times Collection", 
-  "Date": "February 26, 1941", 
-  "ArtistID": 8632, 
+  "DateAcquired": "2001-06-14", 
   "Keywords": [
-    "online art collection", 
     "Times Wide World Photos", 
     "\"Mayor La Guardia Giving a Few Pointers\"", 
     "February 26", 
     "1941"
   ], 
+  "ArtistID": 8632, 
+  "Title": "\"Mayor La Guardia Giving a Few Pointers\"", 
   "Department": "Photography", 
   "MoMANumber": "2190.2001", 
+  "Date": "February 26, 1941", 
   "ArtistBio": "(American, active 1919\u20131941)", 
-  "DateAcquired": "2001-06-14", 
-  "\ufeffTitle": "\"Mayor La Guardia Giving a Few Pointers\"", 
+  "CuratorApproved": "Y", 
   "ObjectID": "58783"
 }

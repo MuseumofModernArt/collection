@@ -4,12 +4,9 @@
   "Classification": "Drawing", 
   "Artist": "Fran\u00e7ois Morellet", 
   "URL": "http://www.moma.org/collection/works/96722", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The Judith Rothschild Foundation Contemporary Drawings Collection Gift (purchase, and gift, in part, of The Eileen and Michael Cohen Collection)", 
-  "Date": "1976", 
-  "ArtistID": 4083, 
+  "DateAcquired": "2005-05-10", 
   "Keywords": [
-    "online art collection", 
     "Fran&ccedil;ois Morellet", 
     "1&ordm;) 1,1,1 vertical", 
     "1,1,1 horizontal", 
@@ -19,10 +16,12 @@
     "9,9,9 horizontal", 
     "1976"
   ], 
+  "ArtistID": 4083, 
+  "Title": "1\u00ba) 1.1.1 vertical, 1.1.1 horizontal, 2\u00ba) 1.1.1 vertical, 2.2.2 horizontal, 9\u00ba) 1.1.1 vertical, 9.9.9 horizontal", 
   "Department": "Drawings", 
   "MoMANumber": "2446.2005", 
+  "Date": "1976", 
   "ArtistBio": "(French, born 1926)", 
-  "DateAcquired": "2005-05-10", 
-  "\ufeffTitle": "1\u00ba) 1.1.1 vertical, 1.1.1 horizontal, 2\u00ba) 1.1.1 vertical, 2.2.2 horizontal, 9\u00ba) 1.1.1 vertical, 9.9.9 horizontal", 
+  "CuratorApproved": "Y", 
   "ObjectID": "96722"
 }

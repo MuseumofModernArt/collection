@@ -4,20 +4,19 @@
   "Classification": "Photograph", 
   "Artist": "Rosalind Fox Solomon", 
   "URL": "http://www.moma.org/collection/works/56090", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The Family of Man Fund", 
-  "Date": "February 1978", 
-  "ArtistID": 5517, 
+  "DateAcquired": "1978-10-12", 
   "Keywords": [
-    "online art collection", 
     "Rosalind Solomon", 
     "Outside the Gate", 
     "February 1978"
   ], 
+  "ArtistID": 5517, 
+  "Title": "Outside the Gate", 
   "Department": "Photography", 
   "MoMANumber": "691.1978", 
+  "Date": "February 1978", 
   "ArtistBio": "(American, born 1930)", 
-  "DateAcquired": "1978-10-12", 
-  "\ufeffTitle": "Outside the Gate", 
+  "CuratorApproved": "Y", 
   "ObjectID": "56090"
 }

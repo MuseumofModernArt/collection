@@ -4,20 +4,19 @@
   "Classification": "Drawing", 
   "Artist": "Arthur Dove", 
   "URL": "http://www.moma.org/collection/works/37061", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Given anonymously (by exchange)", 
-  "Date": "(1939)", 
-  "ArtistID": 1602, 
+  "DateAcquired": "1980-05-13", 
   "Keywords": [
-    "online art collection", 
     "Arthur Dove", 
     "War", 
     "(1939)"
   ], 
+  "ArtistID": 1602, 
+  "Title": "War", 
   "Department": "Drawings", 
   "MoMANumber": "468.1980", 
+  "Date": "(1939)", 
   "ArtistBio": "(American, 1880\u20131946)", 
-  "DateAcquired": "1980-05-13", 
-  "\ufeffTitle": "War", 
+  "CuratorApproved": "Y", 
   "ObjectID": "37061"
 }

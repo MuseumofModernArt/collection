@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Henri Laurens", 
   "URL": "http://www.moma.org/collection/works/81890", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Florene May Schoenborn Bequest", 
-  "Date": "1928", 
-  "ArtistID": 3409, 
+  "DateAcquired": "1996-12-09", 
   "Keywords": [
-    "online art collection", 
     "Henri Laurens", 
     "Woman with Drapery", 
     "1928"
   ], 
+  "ArtistID": 3409, 
+  "Title": "Woman with Drapery", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "820.1996", 
+  "Date": "1928", 
   "ArtistBio": "(French, 1885\u20131954)", 
-  "DateAcquired": "1996-12-09", 
-  "\ufeffTitle": "Woman with Drapery", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81890"
 }

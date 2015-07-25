@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Kiki Smith", 
   "URL": "http://www.moma.org/collection/works/69837", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Emily Fisher Landau", 
-  "Date": "1992", 
-  "ArtistID": 5486, 
+  "DateAcquired": "1992-11-04", 
   "Keywords": [
-    "online art collection", 
     "Kiki Smith", 
     "Worm", 
     "1992"
   ], 
+  "ArtistID": 5486, 
+  "Title": "Worm", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "480.1992", 
+  "Date": "1992", 
   "ArtistBio": "(American, born Germany 1954)", 
-  "DateAcquired": "1992-11-04", 
-  "\ufeffTitle": "Worm", 
+  "CuratorApproved": "Y", 
   "ObjectID": "69837"
 }

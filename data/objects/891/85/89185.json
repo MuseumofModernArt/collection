@@ -4,12 +4,9 @@
   "Classification": "A&D Mies van der Rohe Archive", 
   "Artist": "Ludwig Mies van der Rohe", 
   "URL": "http://www.moma.org/collection/works/89185", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Mies van der Rohe Archive, gift of the architect", 
-  "Date": "1935", 
-  "ArtistID": 7166, 
+  "DateAcquired": "1968-01-01", 
   "Keywords": [
-    "online art collection", 
     "Ludwig Mies van der Rohe", 
     "Ulrich Lange House Project II", 
     "Krefeld", 
@@ -17,10 +14,12 @@
     "Plan with furniture layout and sculpture sketches", 
     "1935"
   ], 
+  "ArtistID": 7166, 
+  "Title": "Ulrich Lange House Project II, Krefeld, Germany, Plan with furniture layout and sculpture sketches", 
   "Department": "Architecture & Design", 
   "MoMANumber": "MR7.56", 
+  "Date": "1935", 
   "ArtistBio": "(American, born Germany. 1886\u20131969)", 
-  "DateAcquired": "1968-01-01", 
-  "\ufeffTitle": "Ulrich Lange House Project II, Krefeld, Germany, Plan with furniture layout and sculpture sketches", 
+  "CuratorApproved": "Y", 
   "ObjectID": "89185"
 }

@@ -4,20 +4,19 @@
   "Classification": "Installation", 
   "Artist": "James Turrell", 
   "URL": "http://www.moma.org/collection/works/81089", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Douglas S. Cramer, David Geffen, Robert and Meryl Meltzer, Michael and Judy Ovitz, and Mr. and Mrs. Gifford Phillips Funds", 
-  "Date": "1994", 
-  "ArtistID": 5981, 
+  "DateAcquired": "1994-03-07", 
   "Keywords": [
-    "online art collection", 
     "James Turrell", 
     "A Frontal Passage", 
     "1994"
   ], 
+  "ArtistID": 5981, 
+  "Title": "A Frontal Passage", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "185.1994", 
+  "Date": "1994", 
   "ArtistBio": "(American, born 1943)", 
-  "DateAcquired": "1994-03-07", 
-  "\ufeffTitle": "A Frontal Passage", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81089"
 }

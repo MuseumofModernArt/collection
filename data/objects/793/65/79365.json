@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Marc Chagall", 
   "URL": "http://www.moma.org/collection/works/79365", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Acquired through the Lillie P. Bliss Bequest", 
-  "Date": "1912", 
-  "ArtistID": 1055, 
+  "DateAcquired": "1949-05-26", 
   "Keywords": [
-    "online art collection", 
     "Marc Chagall", 
     "Calvary", 
     "1912"
   ], 
+  "ArtistID": 1055, 
+  "Title": "Calvary", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "276.1949", 
+  "Date": "1912", 
   "ArtistBio": "(French, born Belarus. 1887\u20131985)", 
-  "DateAcquired": "1949-05-26", 
-  "\ufeffTitle": "Calvary", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79365"
 }

@@ -4,12 +4,9 @@
   "Classification": "A&D Mies van der Rohe Archive", 
   "Artist": "Ludwig Mies van der Rohe", 
   "URL": "http://www.moma.org/collection/works/87609", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Mies van der Rohe Archive, gift of the architect\r\n", 
-  "Date": "1932-1933", 
-  "ArtistID": 7166, 
+  "DateAcquired": "", 
   "Keywords": [
-    "online art collection", 
     "Ludwig Mies van der Rohe", 
     "Lemke House", 
     "Berlin", 
@@ -19,10 +16,12 @@
     "section", 
     "1932-1933"
   ], 
+  "ArtistID": 7166, 
+  "Title": "Lemke House, Berlin, Germany, Aerial perspective, elevations, section", 
   "Department": "Architecture & Design", 
   "MoMANumber": "MR8.54", 
+  "Date": "1932-1933", 
   "ArtistBio": "(American, born Germany. 1886\u20131969)", 
-  "DateAcquired": "", 
-  "\ufeffTitle": "Lemke House, Berlin, Germany, Aerial perspective, elevations, section", 
+  "CuratorApproved": "Y", 
   "ObjectID": "87609"
 }

@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Llyn Foulkes", 
   "URL": "http://www.moma.org/collection/works/79696", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Fractional gift of Charles Cowles", 
-  "Date": "1964", 
-  "ArtistID": 1958, 
+  "DateAcquired": "1972-12-22", 
   "Keywords": [
-    "online art collection", 
     "Llyn Foulkes", 
     "Postcard", 
     "1964"
   ], 
+  "ArtistID": 1958, 
+  "Title": "Postcard", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "431.1972", 
+  "Date": "1964", 
   "ArtistBio": "(American, born 1934)", 
-  "DateAcquired": "1972-12-22", 
-  "\ufeffTitle": "Postcard", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79696"
 }

@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Mark di Suvero", 
   "URL": "http://www.moma.org/collection/works/100235", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Edward R. Broida", 
-  "Date": "1997", 
-  "ArtistID": 5743, 
+  "DateAcquired": "2005-10-06", 
   "Keywords": [
-    "online art collection", 
     "Mark di Suvero", 
     "Cubo Arcane", 
     "1997"
   ], 
+  "ArtistID": 5743, 
+  "Title": "Cubo Arcane", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "695.2005", 
+  "Date": "1997", 
   "ArtistBio": "(American, born 1933)", 
-  "DateAcquired": "2005-10-06", 
-  "\ufeffTitle": "Cubo Arcane", 
+  "CuratorApproved": "Y", 
   "ObjectID": "100235"
 }

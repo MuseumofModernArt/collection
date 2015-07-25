@@ -4,20 +4,19 @@
   "Classification": "Photograph", 
   "Artist": "Lee Friedlander", 
   "URL": "http://www.moma.org/collection/works/52716", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1970", 
-  "ArtistID": 2002, 
+  "DateAcquired": "2000-10-12", 
   "Keywords": [
-    "online art collection", 
     "Lee Friedlander", 
     "Washington State", 
     "1970"
   ], 
+  "ArtistID": 2002, 
+  "Title": "Washington State", 
   "Department": "Photography", 
   "MoMANumber": "405.2000", 
+  "Date": "1970", 
   "ArtistBio": "(American, born 1934)", 
-  "DateAcquired": "2000-10-12", 
-  "\ufeffTitle": "Washington State", 
+  "CuratorApproved": "Y", 
   "ObjectID": "52716"
 }

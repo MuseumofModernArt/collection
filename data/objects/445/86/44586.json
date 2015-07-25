@@ -4,21 +4,20 @@
   "Classification": "Photograph", 
   "Artist": "Henri Cartier-Bresson", 
   "URL": "http://www.moma.org/collection/works/44586", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1932", 
-  "ArtistID": 1000, 
+  "DateAcquired": "1942-01-27", 
   "Keywords": [
-    "online art collection", 
     "Henri Cartier-Bresson", 
     "Hy&egrave;res", 
     "France", 
     "1932"
   ], 
+  "ArtistID": 1000, 
+  "Title": "Hy\u00e8res, France", 
   "Department": "Photography", 
   "MoMANumber": "42.1942", 
+  "Date": "1932", 
   "ArtistBio": "(French, 1908\u20132004)", 
-  "DateAcquired": "1942-01-27", 
-  "\ufeffTitle": "Hy\u00e8res, France", 
+  "CuratorApproved": "Y", 
   "ObjectID": "44586"
 }

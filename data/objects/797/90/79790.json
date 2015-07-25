@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Jos\u00e9 Clemente Orozco", 
   "URL": "http://www.moma.org/collection/works/79790", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Given anonymously", 
-  "Date": "1931", 
-  "ArtistID": 4430, 
+  "DateAcquired": "1937-12-28", 
   "Keywords": [
-    "online art collection", 
     "Jos&eacute; Clemente Orozco", 
     "Barricade", 
     "1931"
   ], 
+  "ArtistID": 4430, 
+  "Title": "Barricade", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "468.1937", 
+  "Date": "1931", 
   "ArtistBio": "(Mexican, 1883\u20131949)", 
-  "DateAcquired": "1937-12-28", 
-  "\ufeffTitle": "Barricade", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79790"
 }

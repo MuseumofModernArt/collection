@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Afro (Afro Basaldella)", 
   "URL": "http://www.moma.org/collection/works/79743", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Nina and Gordon Bunshaft", 
-  "Date": "1954", 
-  "ArtistID": 77, 
+  "DateAcquired": "1960-11-16", 
   "Keywords": [
-    "online art collection", 
     "Afro (Afro Basaldella)", 
     "Boy with Turkey", 
     "1954"
   ], 
+  "ArtistID": 77, 
+  "Title": "Boy with Turkey", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "321.1960", 
+  "Date": "1954", 
   "ArtistBio": "(Italian, 1912\u20131976)", 
-  "DateAcquired": "1960-11-16", 
-  "\ufeffTitle": "Boy with Turkey", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79743"
 }

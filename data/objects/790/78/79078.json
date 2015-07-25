@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Fernand L\u00e9ger", 
   "URL": "http://www.moma.org/collection/works/79078", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Mrs. Simon Guggenheim Fund", 
-  "Date": "1921-22", 
-  "ArtistID": 6624, 
+  "DateAcquired": "1942-03-18", 
   "Keywords": [
-    "online art collection", 
     "Fernand L&eacute;ger", 
     "Three Women", 
     "1921-22"
   ], 
+  "ArtistID": 6624, 
+  "Title": "Three Women", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "189.1942", 
+  "Date": "1921-22", 
   "ArtistBio": "(French, 1881\u20131955)", 
-  "DateAcquired": "1942-03-18", 
-  "\ufeffTitle": "Three Women", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79078"
 }

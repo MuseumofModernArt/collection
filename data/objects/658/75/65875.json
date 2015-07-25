@@ -4,22 +4,21 @@
   "Classification": "Print", 
   "Artist": "Max Beckmann", 
   "URL": "http://www.moma.org/collection/works/65875", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Curt Valentin Fund", 
-  "Date": "(1921)", 
-  "ArtistID": 429, 
+  "DateAcquired": "1966-05-10", 
   "Keywords": [
-    "online art collection", 
     "Max Beckmann", 
     "Portrait of Dr", 
     "Weidner (Bildnis Dr", 
     "Weidner)", 
     "(1921)"
   ], 
+  "ArtistID": 429, 
+  "Title": "Portrait of Dr. Weidner (Bildnis Dr. Weidner)", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "278.1966", 
+  "Date": "(1921)", 
   "ArtistBio": "(German, 1884\u20131950)", 
-  "DateAcquired": "1966-05-10", 
-  "\ufeffTitle": "Portrait of Dr. Weidner (Bildnis Dr. Weidner)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "65875"
 }

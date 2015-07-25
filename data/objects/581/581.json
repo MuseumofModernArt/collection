@@ -4,12 +4,9 @@
   "Classification": "A&D Architectural Drawing", 
   "Artist": "Louis I. Kahn", 
   "URL": "http://www.moma.org/collection/works/581", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the architect", 
-  "Date": "Unknown", 
-  "ArtistID": 2964, 
+  "DateAcquired": "1964-04-14", 
   "Keywords": [
-    "online art collection", 
     "Louis I", 
     "Kahn", 
     "Civic Center Studies", 
@@ -19,10 +16,12 @@
     "Perspective of promenade", 
     "Unknown"
   ], 
+  "ArtistID": 2964, 
+  "Title": "Civic Center Studies, project, Philadelphia, Pennsylvania, Perspective of promenade", 
   "Department": "Architecture & Design", 
   "MoMANumber": "414.1964", 
+  "Date": "Unknown", 
   "ArtistBio": "(American, born Estonia. 1901\u20131974)", 
-  "DateAcquired": "1964-04-14", 
-  "\ufeffTitle": "Civic Center Studies, project, Philadelphia, Pennsylvania, Perspective of promenade", 
+  "CuratorApproved": "Y", 
   "ObjectID": "581"
 }

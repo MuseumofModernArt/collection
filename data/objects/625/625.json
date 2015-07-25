@@ -4,12 +4,9 @@
   "Classification": "A&D Architectural Drawing", 
   "Artist": "Bernard Tschumi", 
   "URL": "http://www.moma.org/collection/works/625", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1986", 
-  "ArtistID": 7056, 
+  "DateAcquired": "1992-10-21", 
   "Keywords": [
-    "online art collection", 
     "Bernard Tschumi", 
     "Parc de la Villette", 
     "Paris", 
@@ -18,10 +15,12 @@
     "Isometrics", 
     "1986"
   ], 
+  "ArtistID": 7056, 
+  "Title": "Parc de la Villette, Paris, France, Follies and Galleries, Isometrics", 
   "Department": "Architecture & Design", 
   "MoMANumber": "429.1992", 
+  "Date": "1986", 
   "ArtistBio": "(French and Swiss, born Switzerland 1944)", 
-  "DateAcquired": "1992-10-21", 
-  "\ufeffTitle": "Parc de la Villette, Paris, France, Follies and Galleries, Isometrics", 
+  "CuratorApproved": "Y", 
   "ObjectID": "625"
 }

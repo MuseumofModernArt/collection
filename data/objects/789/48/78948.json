@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Theo van Doesburg (Christian Emil Marie K\u00fcpper)", 
   "URL": "http://www.moma.org/collection/works/78948", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Acquired through the Lillie P. Bliss Bequest", 
-  "Date": "June 1918", 
-  "ArtistID": 6076, 
+  "DateAcquired": "1946-05-27", 
   "Keywords": [
-    "online art collection", 
     "Theo van Doesburg (Christian Emil Marie K&uuml;pper)", 
     "Rhythm of a Russian Dance", 
     "June 1918"
   ], 
+  "ArtistID": 6076, 
+  "Title": "Rhythm of a Russian Dance", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "135.1946", 
+  "Date": "June 1918", 
   "ArtistBio": "(Dutch, 1883\u20131931)", 
-  "DateAcquired": "1946-05-27", 
-  "\ufeffTitle": "Rhythm of a Russian Dance", 
+  "CuratorApproved": "Y", 
   "ObjectID": "78948"
 }

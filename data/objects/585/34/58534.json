@@ -4,21 +4,20 @@
   "Classification": "Photograph", 
   "Artist": "Associated Press", 
   "URL": "http://www.moma.org/collection/works/58534", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The New York Times Collection", 
-  "Date": "January 29, 1958", 
-  "ArtistID": 8501, 
+  "DateAcquired": "2001-06-14", 
   "Keywords": [
-    "online art collection", 
     "Associated Press", 
     "\"Accused Murderer in Wyoming Jail Cell\"", 
     "January 29", 
     "1958"
   ], 
+  "ArtistID": 8501, 
+  "Title": "\"Accused Murderer in Wyoming Jail Cell\"", 
   "Department": "Photography", 
   "MoMANumber": "1941.2001", 
+  "Date": "January 29, 1958", 
   "ArtistBio": "", 
-  "DateAcquired": "2001-06-14", 
-  "\ufeffTitle": "\"Accused Murderer in Wyoming Jail Cell\"", 
+  "CuratorApproved": "Y", 
   "ObjectID": "58534"
 }

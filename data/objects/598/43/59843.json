@@ -4,21 +4,20 @@
   "Classification": "Print", 
   "Artist": "Jackson Pollock", 
   "URL": "http://www.moma.org/collection/works/59843", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "c. 1938-41", 
-  "ArtistID": 4675, 
+  "DateAcquired": "1982-01-21", 
   "Keywords": [
-    "online art collection", 
     "Jackson Pollock", 
     "Untitled", 
     "c", 
     "1938-41"
   ], 
+  "ArtistID": 4675, 
+  "Title": "Untitled", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "11.1982", 
+  "Date": "c. 1938-41", 
   "ArtistBio": "(American, 1912\u20131956)", 
-  "DateAcquired": "1982-01-21", 
-  "\ufeffTitle": "Untitled", 
+  "CuratorApproved": "Y", 
   "ObjectID": "59843"
 }

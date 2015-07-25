@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Richard Pousette-Dart", 
   "URL": "http://www.moma.org/collection/works/80558", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Given anonymously", 
-  "Date": "1943", 
-  "ArtistID": 4716, 
+  "DateAcquired": "1970-02-10", 
   "Keywords": [
-    "online art collection", 
     "Richard Pousette-Dart", 
     "Fugue Number 2", 
     "1943"
   ], 
+  "ArtistID": 4716, 
+  "Title": "Fugue Number 2", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "1100.1969", 
+  "Date": "1943", 
   "ArtistBio": "(American, 1916\u20131992)", 
-  "DateAcquired": "1970-02-10", 
-  "\ufeffTitle": "Fugue Number 2", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80558"
 }

@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Helen Frankenthaler", 
   "URL": "http://www.moma.org/collection/works/80712", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Mrs. Donald B. Straus Fund", 
-  "Date": "1966", 
-  "ArtistID": 1974, 
+  "DateAcquired": "1968-03-12", 
   "Keywords": [
-    "online art collection", 
     "Helen Frankenthaler", 
     "Mauve District", 
     "1966"
   ], 
+  "ArtistID": 1974, 
+  "Title": "Mauve District", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "2668.1967", 
+  "Date": "1966", 
   "ArtistBio": "(American, 1928\u20132011)", 
-  "DateAcquired": "1968-03-12", 
-  "\ufeffTitle": "Mauve District", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80712"
 }

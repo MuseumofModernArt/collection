@@ -4,12 +4,9 @@
   "Classification": "A&D Design", 
   "Artist": "J. & J. Kohn, Josef Kohn, Jacob Kohn", 
   "URL": "http://www.moma.org/collection/works/2334", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Barry Friedman", 
-  "Date": "c. 1895", 
-  "ArtistID": 7063, 
+  "DateAcquired": "1993-05-04", 
   "Keywords": [
-    "online art collection", 
     "J", 
     "& J", 
     "Kohn", 
@@ -18,10 +15,12 @@
     "c", 
     "1895"
   ], 
+  "ArtistID": 7063, 
+  "Title": "Child's Cradle", 
   "Department": "Architecture & Design", 
   "MoMANumber": "163.1993", 
+  "Date": "c. 1895", 
   "ArtistBio": "(Austrian, established 1867) (Austrian, 1817\u20131884) (Austrian, 1791\u20131868)", 
-  "DateAcquired": "1993-05-04", 
-  "\ufeffTitle": "Child's Cradle", 
+  "CuratorApproved": "Y", 
   "ObjectID": "2334"
 }

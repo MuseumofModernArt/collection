@@ -4,21 +4,20 @@
   "Classification": "A&D Graphic Design", 
   "Artist": "Franciszek Starowieyski", 
   "URL": "http://www.moma.org/collection/works/7039", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1985", 
-  "ArtistID": 5607, 
+  "DateAcquired": "1985-11-18", 
   "Keywords": [
-    "online art collection", 
     "Franciszek Starowieyski", 
     "Starowieyski Posters", 
     "The Museum of Modern Art", 
     "1985"
   ], 
+  "ArtistID": 5607, 
+  "Title": "Starowieyski Posters, The Museum of Modern Art", 
   "Department": "Architecture & Design", 
   "MoMANumber": "450.1985", 
+  "Date": "1985", 
   "ArtistBio": "(Polish, 1930\u20132009)", 
-  "DateAcquired": "1985-11-18", 
-  "\ufeffTitle": "Starowieyski Posters, The Museum of Modern Art", 
+  "CuratorApproved": "Y", 
   "ObjectID": "7039"
 }

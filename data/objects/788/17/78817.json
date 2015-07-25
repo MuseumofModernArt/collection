@@ -4,21 +4,20 @@
   "Classification": "Painting", 
   "Artist": "Henri Matisse", 
   "URL": "http://www.moma.org/collection/works/78817", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Mrs. Simon Guggenheim Fund", 
-  "Date": "Issy-les-Moulineaux, 1915-16 (dated on painting 1916)", 
-  "ArtistID": 3832, 
+  "DateAcquired": "1935-06-13", 
   "Keywords": [
-    "online art collection", 
     "Henri Matisse", 
     "Gourds", 
     "Issy-les-Moulineaux", 
     "1915-16 (dated on painting 1916)"
   ], 
+  "ArtistID": 3832, 
+  "Title": "Gourds", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "109.1935", 
+  "Date": "Issy-les-Moulineaux, 1915-16 (dated on painting 1916)", 
   "ArtistBio": "(French, 1869\u20131954)", 
-  "DateAcquired": "1935-06-13", 
-  "\ufeffTitle": "Gourds", 
+  "CuratorApproved": "Y", 
   "ObjectID": "78817"
 }

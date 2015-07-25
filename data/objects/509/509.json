@@ -4,12 +4,9 @@
   "Classification": "A&D Architectural Drawing", 
   "Artist": "James Stirling", 
   "URL": "http://www.moma.org/collection/works/509", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the architect", 
-  "Date": "1978", 
-  "ArtistID": 5668, 
+  "DateAcquired": "1982-10-27", 
   "Keywords": [
-    "online art collection", 
     "James Stirling", 
     "Staatsgalerie Stuttgart", 
     "Stuttgart", 
@@ -17,10 +14,12 @@
     "Elevation of gallery entrance and perspective of canopy from below", 
     "1978"
   ], 
+  "ArtistID": 5668, 
+  "Title": "Staatsgalerie Stuttgart , Stuttgart, Germany , Elevation of gallery entrance and perspective of canopy from below", 
   "Department": "Architecture & Design", 
   "MoMANumber": "393.1982", 
+  "Date": "1978", 
   "ArtistBio": "(British, born Scotland 1926\u20131992)", 
-  "DateAcquired": "1982-10-27", 
-  "\ufeffTitle": "Staatsgalerie Stuttgart , Stuttgart, Germany , Elevation of gallery entrance and perspective of canopy from below", 
+  "CuratorApproved": "Y", 
   "ObjectID": "509"
 }

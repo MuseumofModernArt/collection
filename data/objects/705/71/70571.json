@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Max Beckmann", 
   "URL": "http://www.moma.org/collection/works/70571", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "(1922)", 
-  "ArtistID": 429, 
+  "DateAcquired": "1949-09-29", 
   "Keywords": [
-    "online art collection", 
     "Max Beckmann", 
     "Beach (Strand)", 
     "(1922)"
   ], 
+  "ArtistID": 429, 
+  "Title": "Beach (Strand)", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "527.1949", 
+  "Date": "(1922)", 
   "ArtistBio": "(German, 1884\u20131950)", 
-  "DateAcquired": "1949-09-29", 
-  "\ufeffTitle": "Beach (Strand)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "70571"
 }

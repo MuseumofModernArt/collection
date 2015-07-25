@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Jim Dine", 
   "URL": "http://www.moma.org/collection/works/81620", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The Sidney and Harriet Janis Collection", 
-  "Date": "1962", 
-  "ArtistID": 1547, 
+  "DateAcquired": "1967-10-18", 
   "Keywords": [
-    "online art collection", 
     "Jim Dine", 
     "Five Feet of Colorful Tools", 
     "1962"
   ], 
+  "ArtistID": 1547, 
+  "Title": "Five Feet of Colorful Tools", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "587.1967.a-gg", 
+  "Date": "1962", 
   "ArtistBio": "(American, born 1935)", 
-  "DateAcquired": "1967-10-18", 
-  "\ufeffTitle": "Five Feet of Colorful Tools", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81620"
 }

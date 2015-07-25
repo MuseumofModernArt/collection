@@ -4,12 +4,9 @@
   "Classification": "A&D Graphic Design", 
   "Artist": "Hendrikus Th. Wijdeveld", 
   "URL": "http://www.moma.org/collection/works/6054", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Leonard and Evelyn Lauder Fund", 
-  "Date": "1929", 
-  "ArtistID": 6363, 
+  "DateAcquired": "1986-10-07", 
   "Keywords": [
-    "online art collection", 
     "Hendrikus Th", 
     "Wijdeveld", 
     "Internationale", 
@@ -17,10 +14,12 @@
     "Tentoonstelling", 
     "1929"
   ], 
+  "ArtistID": 6363, 
+  "Title": "Internationale, Economisch-Historische, Tentoonstelling", 
   "Department": "Architecture & Design", 
   "MoMANumber": "281.1986", 
+  "Date": "1929", 
   "ArtistBio": "(Dutch, 1885\u20131987)", 
-  "DateAcquired": "1986-10-07", 
-  "\ufeffTitle": "Internationale, Economisch-Historische, Tentoonstelling", 
+  "CuratorApproved": "Y", 
   "ObjectID": "6054"
 }

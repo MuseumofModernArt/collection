@@ -4,20 +4,19 @@
   "Classification": "Drawing", 
   "Artist": "Agnes Martin", 
   "URL": "http://www.moma.org/collection/works/37559", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Eugene and Clare Thaw Fund", 
-  "Date": "(1964)", 
-  "ArtistID": 3787, 
+  "DateAcquired": "1964-10-06", 
   "Keywords": [
-    "online art collection", 
     "Agnes Martin", 
     "Stone", 
     "(1964)"
   ], 
+  "ArtistID": 3787, 
+  "Title": "Stone", 
   "Department": "Drawings", 
   "MoMANumber": "606.1964", 
+  "Date": "(1964)", 
   "ArtistBio": "(American, born Canada. 1912\u20132004)", 
-  "DateAcquired": "1964-10-06", 
-  "\ufeffTitle": "Stone", 
+  "CuratorApproved": "Y", 
   "ObjectID": "37559"
 }

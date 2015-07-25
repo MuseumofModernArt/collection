@@ -4,21 +4,20 @@
   "Classification": "Photograph", 
   "Artist": "Manuel \u00c1lvarez Bravo", 
   "URL": "http://www.moma.org/collection/works/56074", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1934", 
-  "ArtistID": 135, 
+  "DateAcquired": "1943-11-04", 
   "Keywords": [
-    "online art collection", 
     "Manuel Alvarez Bravo", 
     "Striking Worker", 
     "Assassinated", 
     "1934"
   ], 
+  "ArtistID": 135, 
+  "Title": "Striking Worker, Assassinated", 
   "Department": "Photography", 
   "MoMANumber": "689.1943", 
+  "Date": "1934", 
   "ArtistBio": "(Mexican, 1902\u20132002)", 
-  "DateAcquired": "1943-11-04", 
-  "\ufeffTitle": "Striking Worker, Assassinated", 
+  "CuratorApproved": "Y", 
   "ObjectID": "56074"
 }

@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Alexander Calder", 
   "URL": "http://www.moma.org/collection/works/81989", 
-  "CuratorApproved": "Y", 
   "CreditLine": "James Thrall Soby Bequest", 
-  "Date": "1936", 
-  "ArtistID": 922, 
+  "DateAcquired": "1979-12-11", 
   "Keywords": [
-    "online art collection", 
     "Alexander Calder", 
     "Cutlery", 
     "1936"
   ], 
+  "ArtistID": 922, 
+  "Title": "Cutlery", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "1207.1979.a-c", 
+  "Date": "1936", 
   "ArtistBio": "(American, 1898\u20131976)", 
-  "DateAcquired": "1979-12-11", 
-  "\ufeffTitle": "Cutlery", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81989"
 }

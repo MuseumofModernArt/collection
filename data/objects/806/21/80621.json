@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Robert Motherwell", 
   "URL": "http://www.moma.org/collection/works/80621", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the artist", 
-  "Date": "1968", 
-  "ArtistID": 4126, 
+  "DateAcquired": "1969-12-31", 
   "Keywords": [
-    "online art collection", 
     "Robert Motherwell", 
     "Open Number 17 (in ultramarine with charcoal line)", 
     "1968"
   ], 
+  "ArtistID": 4126, 
+  "Title": "Open Number 17 (in ultramarine with charcoal line)", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "1254.1969", 
+  "Date": "1968", 
   "ArtistBio": "(American, 1915\u20131991)", 
-  "DateAcquired": "1969-12-31", 
-  "\ufeffTitle": "Open Number 17 (in ultramarine with charcoal line)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80621"
 }

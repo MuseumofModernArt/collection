@@ -4,21 +4,20 @@
   "Classification": "Photograph", 
   "Artist": "Henri Cartier-Bresson", 
   "URL": "http://www.moma.org/collection/works/57963", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the photographer", 
-  "Date": "1947", 
-  "ArtistID": 1000, 
+  "DateAcquired": "1969-01-08", 
   "Keywords": [
-    "online art collection", 
     "Henri Cartier-Bresson", 
     "Easter Sunday in Harlem", 
     "New York", 
     "1947"
   ], 
+  "ArtistID": 1000, 
+  "Title": "Easter Sunday in Harlem, New York", 
   "Department": "Photography", 
   "MoMANumber": "1240.1969", 
+  "Date": "1947", 
   "ArtistBio": "(French, 1908\u20132004)", 
-  "DateAcquired": "1969-01-08", 
-  "\ufeffTitle": "Easter Sunday in Harlem, New York", 
+  "CuratorApproved": "Y", 
   "ObjectID": "57963"
 }

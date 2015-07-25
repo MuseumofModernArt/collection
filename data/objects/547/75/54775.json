@@ -4,12 +4,9 @@
   "Classification": "Photograph", 
   "Artist": "William Henry Fox Talbot", 
   "URL": "http://www.moma.org/collection/works/54775", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Warner Communications, Inc.", 
-  "Date": "c. 1844", 
-  "ArtistID": 5791, 
+  "DateAcquired": "1981-12-17", 
   "Keywords": [
-    "online art collection", 
     "William Henry Fox Talbot", 
     "Trafalgar Square", 
     "London", 
@@ -17,10 +14,12 @@
     "c", 
     "1844"
   ], 
+  "ArtistID": 5791, 
+  "Title": "Trafalgar Square, London, during the Erection of the Nelson Column", 
   "Department": "Photography", 
   "MoMANumber": "531.1981", 
+  "Date": "c. 1844", 
   "ArtistBio": "(British, 1800\u20131877)", 
-  "DateAcquired": "1981-12-17", 
-  "\ufeffTitle": "Trafalgar Square, London, during the Erection of the Nelson Column", 
+  "CuratorApproved": "Y", 
   "ObjectID": "54775"
 }

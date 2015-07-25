@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Vasily Ermilov", 
   "URL": "http://www.moma.org/collection/works/81931", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The Riklis Collection of McCrory Corporation", 
-  "Date": "1923", 
-  "ArtistID": 1747, 
+  "DateAcquired": "1983-10-25", 
   "Keywords": [
-    "online art collection", 
     "Vasily Ermilov", 
     "Composition Number 3", 
     "1923"
   ], 
+  "ArtistID": 1747, 
+  "Title": "Composition Number 3", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "1005.1983", 
+  "Date": "1923", 
   "ArtistBio": "(Russian, 1894\u20131968)", 
-  "DateAcquired": "1983-10-25", 
-  "\ufeffTitle": "Composition Number 3", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81931"
 }

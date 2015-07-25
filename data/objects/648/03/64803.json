@@ -4,12 +4,9 @@
   "Classification": "Print", 
   "Artist": "Pablo Picasso", 
   "URL": "http://www.moma.org/collection/works/64803", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Abby Aldrich Rockefeller Fund", 
-  "Date": "May 23, 1933, printed 1939", 
-  "ArtistID": 4609, 
+  "DateAcquired": "1949-03-24", 
   "Keywords": [
-    "online art collection", 
     "Pablo Picasso", 
     "Amorous Minotaur with a Female Centaur (Minotaure amoureux d'une femme-centaure)", 
     "state III", 
@@ -17,10 +14,12 @@
     "1933", 
     "printed 1939"
   ], 
+  "ArtistID": 4609, 
+  "Title": "Amorous Minotaur with a Female Centaur (Minotaure amoureux d'une femme-centaure), state III", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "230.1949", 
+  "Date": "May 23, 1933, printed 1939", 
   "ArtistBio": "(Spanish, 1881\u20131973)", 
-  "DateAcquired": "1949-03-24", 
-  "\ufeffTitle": "Amorous Minotaur with a Female Centaur (Minotaure amoureux d'une femme-centaure), state III", 
+  "CuratorApproved": "Y", 
   "ObjectID": "64803"
 }

@@ -4,12 +4,9 @@
   "Classification": "A&D Architectural Drawing", 
   "Artist": "Venturi and Rauch, Robert Venturi, John Rauch, Denise Scott Brown", 
   "URL": "http://www.moma.org/collection/works/211", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Venturi, Rauch and Scott Brown, Inc.", 
-  "Date": "1978", 
-  "ArtistID": 8213, 
+  "DateAcquired": "1988-04-27", 
   "Keywords": [
-    "online art collection", 
     "Venturi and Rauch", 
     "Robert Venturi", 
     "John Rauch and Denise Scott Brown", 
@@ -18,10 +15,12 @@
     "Preliminary study of west elevation", 
     "1978"
   ], 
+  "ArtistID": 8213, 
+  "Title": "House, Northern Delaware, Preliminary study of west elevation", 
   "Department": "Architecture & Design", 
   "MoMANumber": "121.1988", 
+  "Date": "1978", 
   "ArtistBio": "(American, est. 1964\u20131979) (American, born 1925) (American, born 1930) (American, born Zambia, 1931)", 
-  "DateAcquired": "1988-04-27", 
-  "\ufeffTitle": "House, Northern Delaware, Preliminary study of west elevation", 
+  "CuratorApproved": "Y", 
   "ObjectID": "211"
 }

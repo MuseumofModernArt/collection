@@ -4,21 +4,20 @@
   "Classification": "Print", 
   "Artist": "Max Beckmann", 
   "URL": "http://www.moma.org/collection/works/66037", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Abby Aldrich Rockefeller Fund", 
-  "Date": "(1918, published 1919)", 
-  "ArtistID": 429, 
+  "DateAcquired": "1951-05-24", 
   "Keywords": [
-    "online art collection", 
     "Max Beckmann", 
     "Family Scene (Beckmann Family) [Familienszene (Familie Beckmann)] from Faces (Gesichter)", 
     "(1918", 
     "published 1919)"
   ], 
+  "ArtistID": 429, 
+  "Title": "Family Scene (Beckmann Family) [Familienszene (Familie Beckmann)] from Faces (Gesichter)", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "286.1951", 
+  "Date": "(1918, published 1919)", 
   "ArtistBio": "(German, 1884\u20131950)", 
-  "DateAcquired": "1951-05-24", 
-  "\ufeffTitle": "Family Scene (Beckmann Family) [Familienszene (Familie Beckmann)] from Faces (Gesichter)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "66037"
 }

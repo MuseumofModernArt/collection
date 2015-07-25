@@ -4,12 +4,9 @@
   "Classification": "A&D Architectural Drawing", 
   "Artist": "Ricardo Bofill", 
   "URL": "http://www.moma.org/collection/works/510", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Ricardo Bofill Taller de Arquitectura", 
-  "Date": "1987", 
-  "ArtistID": 632, 
+  "DateAcquired": "1985-11-18", 
   "Keywords": [
-    "online art collection", 
     "Ricardo Bofill", 
     "Les Eschelles du Baroque Apartment Building", 
     "Paris", 
@@ -17,10 +14,12 @@
     "Facade detail with column", 
     "1987"
   ], 
+  "ArtistID": 632, 
+  "Title": "Les Eschelles du Baroque Apartment Building, Paris, France, Facade detail with column", 
   "Department": "Architecture & Design", 
   "MoMANumber": "393.1985", 
+  "Date": "1987", 
   "ArtistBio": "(Spanish, born 1939)", 
-  "DateAcquired": "1985-11-18", 
-  "\ufeffTitle": "Les Eschelles du Baroque Apartment Building, Paris, France, Facade detail with column", 
+  "CuratorApproved": "Y", 
   "ObjectID": "510"
 }

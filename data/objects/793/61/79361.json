@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Chaim Soutine", 
   "URL": "http://www.moma.org/collection/works/79361", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Mrs. Sam A. Lewisohn Bequest", 
-  "Date": "1929", 
-  "ArtistID": 5543, 
+  "DateAcquired": "1954-09-30", 
   "Keywords": [
-    "online art collection", 
     "Chaim Soutine", 
     "Portrait of Maria Lani", 
     "1929"
   ], 
+  "ArtistID": 5543, 
+  "Title": "Portrait of Maria Lani", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "275.1954", 
+  "Date": "1929", 
   "ArtistBio": "(French, 1893\u20131943)", 
-  "DateAcquired": "1954-09-30", 
-  "\ufeffTitle": "Portrait of Maria Lani", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79361"
 }

@@ -4,21 +4,20 @@
   "Classification": "Photograph", 
   "Artist": "Dorothea Lange", 
   "URL": "http://www.moma.org/collection/works/56508", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1937", 
-  "ArtistID": 3373, 
+  "DateAcquired": "1967-11-21", 
   "Keywords": [
-    "online art collection", 
     "Dorothea Lange", 
     "Ex-Slave with Long Memory", 
     "Alabama", 
     "1937"
   ], 
+  "ArtistID": 3373, 
+  "Title": "Ex-Slave with Long Memory, Alabama", 
   "Department": "Photography", 
   "MoMANumber": "810.1968", 
+  "Date": "1937", 
   "ArtistBio": "(American, 1895\u20131965)", 
-  "DateAcquired": "1967-11-21", 
-  "\ufeffTitle": "Ex-Slave with Long Memory, Alabama", 
+  "CuratorApproved": "Y", 
   "ObjectID": "56508"
 }

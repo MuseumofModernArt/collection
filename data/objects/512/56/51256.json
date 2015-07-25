@@ -4,12 +4,9 @@
   "Classification": "Photograph", 
   "Artist": "Judith Joy Ross", 
   "URL": "http://www.moma.org/collection/works/51256", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the photographer", 
-  "Date": "1993", 
-  "ArtistID": 5030, 
+  "DateAcquired": "1993-10-14", 
   "Keywords": [
-    "online art collection", 
     "Judith Joy Ross", 
     "Jackie Cieniawa", 
     "A,D", 
@@ -18,10 +15,12 @@
     "Pennsylvania", 
     "1993"
   ], 
+  "ArtistID": 5030, 
+  "Title": "Jackie Cieniawa, A.D. Thomas Elementary School, Hazleton, Pennsylvania", 
   "Department": "Photography", 
   "MoMANumber": "340.1993", 
+  "Date": "1993", 
   "ArtistBio": "(American, born 1946)", 
-  "DateAcquired": "1993-10-14", 
-  "\ufeffTitle": "Jackie Cieniawa, A.D. Thomas Elementary School, Hazleton, Pennsylvania", 
+  "CuratorApproved": "Y", 
   "ObjectID": "51256"
 }

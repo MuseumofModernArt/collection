@@ -4,22 +4,21 @@
   "Classification": "A&D Architectural Model", 
   "Artist": "Ludwig Mies van der Rohe", 
   "URL": "http://www.moma.org/collection/works/82406", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Mrs. Stanley Resor", 
-  "Date": "1937-38", 
-  "ArtistID": 7166, 
+  "DateAcquired": "1947-01-01", 
   "Keywords": [
-    "online art collection", 
     "Ludwig Mies van der Rohe", 
     "Resor House Project", 
     "Jackson Hole", 
     "Wyoming", 
     "1937-38"
   ], 
+  "ArtistID": 7166, 
+  "Title": "Resor House Project, Jackson Hole, Wyoming", 
   "Department": "Architecture & Design", 
   "MoMANumber": "MC 21", 
+  "Date": "1937-38", 
   "ArtistBio": "(American, born Germany. 1886\u20131969)", 
-  "DateAcquired": "1947-01-01", 
-  "\ufeffTitle": "Resor House Project, Jackson Hole, Wyoming", 
+  "CuratorApproved": "Y", 
   "ObjectID": "82406"
 }

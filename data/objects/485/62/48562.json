@@ -4,21 +4,20 @@
   "Classification": "Photograph", 
   "Artist": "Harry Callahan", 
   "URL": "http://www.moma.org/collection/works/48562", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "c. 1950", 
-  "ArtistID": 924, 
+  "DateAcquired": "1962-05-08", 
   "Keywords": [
-    "online art collection", 
     "Harry Callahan", 
     "Chicago", 
     "c", 
     "1950"
   ], 
+  "ArtistID": 924, 
+  "Title": "Chicago", 
   "Department": "Photography", 
   "MoMANumber": "210.1962", 
+  "Date": "c. 1950", 
   "ArtistBio": "(American, 1912\u20131999)", 
-  "DateAcquired": "1962-05-08", 
-  "\ufeffTitle": "Chicago", 
+  "CuratorApproved": "Y", 
   "ObjectID": "48562"
 }

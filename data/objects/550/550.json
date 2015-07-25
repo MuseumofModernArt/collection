@@ -4,12 +4,9 @@
   "Classification": "A&D Architectural Drawing", 
   "Artist": "Louis I. Kahn", 
   "URL": "http://www.moma.org/collection/works/550", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the architect", 
-  "Date": "1963", 
-  "ArtistID": 2964, 
+  "DateAcquired": "1964-04-14", 
   "Keywords": [
-    "online art collection", 
     "Louis I", 
     "Kahn", 
     "Mikveh Israel Synagogue", 
@@ -19,10 +16,12 @@
     "Perspective", 
     "1963"
   ], 
+  "ArtistID": 2964, 
+  "Title": "Mikveh Israel Synagogue, project, Philadelphia, Pennsylvania, Perspective", 
   "Department": "Architecture & Design", 
   "MoMANumber": "402.1964", 
+  "Date": "1963", 
   "ArtistBio": "(American, born Estonia. 1901\u20131974)", 
-  "DateAcquired": "1964-04-14", 
-  "\ufeffTitle": "Mikveh Israel Synagogue, project, Philadelphia, Pennsylvania, Perspective", 
+  "CuratorApproved": "Y", 
   "ObjectID": "550"
 }

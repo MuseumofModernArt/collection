@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Seiji Chokai", 
   "URL": "http://www.moma.org/collection/works/78823", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Blanchette Hooker Rockefeller Fund", 
-  "Date": "1950", 
-  "ArtistID": 1109, 
+  "DateAcquired": "1958-10-29", 
   "Keywords": [
-    "online art collection", 
     "Seiji Chokai", 
     "Gourds", 
     "1950"
   ], 
+  "ArtistID": 1109, 
+  "Title": "Gourds", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "110.1958", 
+  "Date": "1950", 
   "ArtistBio": "(Japanese, 1902\u20131972)", 
-  "DateAcquired": "1958-10-29", 
-  "\ufeffTitle": "Gourds", 
+  "CuratorApproved": "Y", 
   "ObjectID": "78823"
 }

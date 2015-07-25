@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Elizabeth Peyton", 
   "URL": "http://www.moma.org/collection/works/76485", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Howard B. Johnson Fund", 
-  "Date": "2000", 
-  "ArtistID": 8042, 
+  "DateAcquired": "2000-11-09", 
   "Keywords": [
-    "online art collection", 
     "Elizabeth Peyton", 
     "Prince Harry and Prince William", 
     "2000"
   ], 
+  "ArtistID": 8042, 
+  "Title": "Prince Harry and Prince William", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "1357.2000", 
+  "Date": "2000", 
   "ArtistBio": "(American, born 1965)", 
-  "DateAcquired": "2000-11-09", 
-  "\ufeffTitle": "Prince Harry and Prince William", 
+  "CuratorApproved": "Y", 
   "ObjectID": "76485"
 }

@@ -4,12 +4,9 @@
   "Classification": "A&D Architectural Drawing", 
   "Artist": "Friedrich St. Florian", 
   "URL": "http://www.moma.org/collection/works/916", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of The Howard Gilman Foundation", 
-  "Date": "1974", 
-  "ArtistID": 5580, 
+  "DateAcquired": "2000-10-31", 
   "Keywords": [
-    "online art collection", 
     "Friedrich St", 
     "Florian", 
     "Himmelbelt", 
@@ -17,10 +14,12 @@
     "Perspective", 
     "1974"
   ], 
+  "ArtistID": 5580, 
+  "Title": "Himmelbelt, project, Perspective", 
   "Department": "Architecture & Design", 
   "MoMANumber": "1292.2000", 
+  "Date": "1974", 
   "ArtistBio": "(American, born Austria 1932)", 
-  "DateAcquired": "2000-10-31", 
-  "\ufeffTitle": "Himmelbelt, project, Perspective", 
+  "CuratorApproved": "Y", 
   "ObjectID": "916"
 }

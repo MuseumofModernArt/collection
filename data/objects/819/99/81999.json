@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Aristide Maillol", 
   "URL": "http://www.moma.org/collection/works/81999", 
-  "CuratorApproved": "Y", 
   "CreditLine": "James Thrall Soby Bequest", 
-  "Date": "1902", 
-  "ArtistID": 3697, 
+  "DateAcquired": "1979-12-11", 
   "Keywords": [
-    "online art collection", 
     "Aristide Maillol", 
     "Leda", 
     "1902"
   ], 
+  "ArtistID": 3697, 
+  "Title": "Leda", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "1233.1979", 
+  "Date": "1902", 
   "ArtistBio": "(French, 1861\u20131944)", 
-  "DateAcquired": "1979-12-11", 
-  "\ufeffTitle": "Leda", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81999"
 }

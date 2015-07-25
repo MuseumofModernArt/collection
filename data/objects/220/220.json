@@ -4,12 +4,9 @@
   "Classification": "A&D Architectural Drawing", 
   "Artist": "Raimund Abraham", 
   "URL": "http://www.moma.org/collection/works/220", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Dorothy and Leroy Lavine", 
-  "Date": "1979", 
-  "ArtistID": 47, 
+  "DateAcquired": "1995-05-09", 
   "Keywords": [
-    "online art collection", 
     "Raimund Abraham", 
     "Hospital: House of Hope", 
     "Houses of Birth", 
@@ -20,10 +17,12 @@
     "Sectional perspective", 
     "1979"
   ], 
+  "ArtistID": 47, 
+  "Title": "Hospital: House of Hope, Houses of Birth, Houses of No Return, project, Venice, Italy, Sectional perspective", 
   "Department": "Architecture & Design", 
   "MoMANumber": "131.1995", 
+  "Date": "1979", 
   "ArtistBio": "(American, born Austria. 1933\u20132010)", 
-  "DateAcquired": "1995-05-09", 
-  "\ufeffTitle": "Hospital: House of Hope, Houses of Birth, Houses of No Return, project, Venice, Italy, Sectional perspective", 
+  "CuratorApproved": "Y", 
   "ObjectID": "220"
 }

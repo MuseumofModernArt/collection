@@ -4,21 +4,20 @@
   "Classification": "Print", 
   "Artist": "Pablo Picasso", 
   "URL": "http://www.moma.org/collection/works/67946", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Curt Valentin Bequest", 
-  "Date": "(March 14, 1954)", 
-  "ArtistID": 4609, 
+  "DateAcquired": "1955-11-23", 
   "Keywords": [
-    "online art collection", 
     "Pablo Picasso", 
     "Old Painter's Studio (L'Atelier du vieux peintre)", 
     "(March 14", 
     "1954)"
   ], 
+  "ArtistID": 4609, 
+  "Title": "Old Painter's Studio (L'Atelier du vieux peintre)", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "371.1955", 
+  "Date": "(March 14, 1954)", 
   "ArtistBio": "(Spanish, 1881\u20131973)", 
-  "DateAcquired": "1955-11-23", 
-  "\ufeffTitle": "Old Painter's Studio (L'Atelier du vieux peintre)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "67946"
 }

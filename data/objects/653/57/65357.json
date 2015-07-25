@@ -4,22 +4,21 @@
   "Classification": "Print", 
   "Artist": "Pablo Picasso", 
   "URL": "http://www.moma.org/collection/works/65357", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Abby Aldrich Rockefeller Fund", 
-  "Date": "October 23, 1934, printed 1939", 
-  "ArtistID": 4609, 
+  "DateAcquired": "1949-03-24", 
   "Keywords": [
-    "online art collection", 
     "Pablo Picasso", 
     "Blind Minotaur Guided in the Night by a Little Girl with a Pigeon (Minotaure aveugle guid&eacute; dans la nuit par une petite fille au pigeon)", 
     "October 23", 
     "1934", 
     "printed 1939"
   ], 
+  "ArtistID": 4609, 
+  "Title": "Blind Minotaur Guided in the Night by a Little Girl with a Pigeon (Minotaure aveugle guid\u00e9 dans la nuit par une petite fille au pigeon)", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "256.1949", 
+  "Date": "October 23, 1934, printed 1939", 
   "ArtistBio": "(Spanish, 1881\u20131973)", 
-  "DateAcquired": "1949-03-24", 
-  "\ufeffTitle": "Blind Minotaur Guided in the Night by a Little Girl with a Pigeon (Minotaure aveugle guid\u00e9 dans la nuit par une petite fille au pigeon)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "65357"
 }

@@ -4,21 +4,20 @@
   "Classification": "A&D Graphic Design", 
   "Artist": "E. McKnight Kauffer", 
   "URL": "http://www.moma.org/collection/works/6765", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the artist", 
-  "Date": "1922", 
-  "ArtistID": 3020, 
+  "DateAcquired": "1939-05-22", 
   "Keywords": [
-    "online art collection", 
     "E", 
     "McKnight Kauffer", 
     "London History at the London Museum", 
     "1922"
   ], 
+  "ArtistID": 3020, 
+  "Title": "London History at the London Museum", 
   "Department": "Architecture & Design", 
   "MoMANumber": "378.1939", 
+  "Date": "1922", 
   "ArtistBio": "(American, 1890\u20131954)", 
-  "DateAcquired": "1939-05-22", 
-  "\ufeffTitle": "London History at the London Museum", 
+  "CuratorApproved": "Y", 
   "ObjectID": "6765"
 }

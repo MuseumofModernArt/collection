@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Arshile Gorky", 
   "URL": "http://www.moma.org/collection/works/79474", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase Fund and gift of Mr. and Mrs. Wolfgang S. Schwabacher (by exchange)", 
-  "Date": "1941", 
-  "ArtistID": 2252, 
+  "DateAcquired": "1942-07-01", 
   "Keywords": [
-    "online art collection", 
     "Arshile Gorky", 
     "Garden in Sochi", 
     "1941"
   ], 
+  "ArtistID": 2252, 
+  "Title": "Garden in Sochi", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "335.1942", 
+  "Date": "1941", 
   "ArtistBio": "(American, born Armenia. 1904\u20131948)", 
-  "DateAcquired": "1942-07-01", 
-  "\ufeffTitle": "Garden in Sochi", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79474"
 }

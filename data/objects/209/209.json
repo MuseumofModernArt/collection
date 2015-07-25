@@ -4,24 +4,22 @@
   "Classification": "A&D Architectural Drawing", 
   "Artist": "Mario Bellini", 
   "URL": "http://www.moma.org/collection/works/209", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the designer", 
-  "Date": "1987", 
-  "ArtistID": 451, 
+  "DateAcquired": "1988-04-27", 
   "Keywords": [
-    "online art collection", 
     "Mario Bellini", 
     "Exhibition \"Mario Bellini: Designer,\"", 
     "The Museum of Modern Art", 
     "New York", 
     "1987", 
-    "Installation plan", 
-    "1987"
+    "Installation plan"
   ], 
+  "ArtistID": 451, 
+  "Title": "Exhibition \"Mario Bellini: Designer.\", The Museum of Modern Art, New York, 1987, Installation plan", 
   "Department": "Architecture & Design", 
   "MoMANumber": "119.1988", 
+  "Date": "1987", 
   "ArtistBio": "(Italian, born 1935)", 
-  "DateAcquired": "1988-04-27", 
-  "\ufeffTitle": "Exhibition \"Mario Bellini: Designer.\", The Museum of Modern Art, New York, 1987, Installation plan", 
+  "CuratorApproved": "Y", 
   "ObjectID": "209"
 }

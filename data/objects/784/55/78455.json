@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Andrew Wyeth", 
   "URL": "http://www.moma.org/collection/works/78455", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1948", 
-  "ArtistID": 6464, 
+  "DateAcquired": "1949-02-03", 
   "Keywords": [
-    "online art collection", 
     "Andrew Wyeth", 
     "Christina's World", 
     "1948"
   ], 
+  "ArtistID": 6464, 
+  "Title": "Christina's World", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "16.1949", 
+  "Date": "1948", 
   "ArtistBio": "(American, 1917\u20132009)", 
-  "DateAcquired": "1949-02-03", 
-  "\ufeffTitle": "Christina's World", 
+  "CuratorApproved": "Y", 
   "ObjectID": "78455"
 }

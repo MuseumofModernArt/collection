@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Ellsworth Kelly", 
   "URL": "http://www.moma.org/collection/works/81508", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Philip Johnson", 
-  "Date": "1973", 
-  "ArtistID": 3048, 
+  "DateAcquired": "1984-12-11", 
   "Keywords": [
-    "online art collection", 
     "Ellsworth Kelly", 
     "Curve II", 
     "1973"
   ], 
+  "ArtistID": 3048, 
+  "Title": "Curve II", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "500.1984", 
+  "Date": "1973", 
   "ArtistBio": "(American, born 1923)", 
-  "DateAcquired": "1984-12-11", 
-  "\ufeffTitle": "Curve II", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81508"
 }

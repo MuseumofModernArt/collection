@@ -4,20 +4,19 @@
   "Classification": "Photograph", 
   "Artist": "William Henry Fox Talbot", 
   "URL": "http://www.moma.org/collection/works/49240", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The Family of Man Fund", 
-  "Date": "1844", 
-  "ArtistID": 5791, 
+  "DateAcquired": "1989-10-12", 
   "Keywords": [
-    "online art collection", 
     "William Henry Fox Talbot", 
     "Loch Katrine", 
     "1844"
   ], 
+  "ArtistID": 5791, 
+  "Title": "Loch Katrine", 
   "Department": "Photography", 
   "MoMANumber": "231.1989", 
+  "Date": "1844", 
   "ArtistBio": "(British, 1800\u20131877)", 
-  "DateAcquired": "1989-10-12", 
-  "\ufeffTitle": "Loch Katrine", 
+  "CuratorApproved": "Y", 
   "ObjectID": "49240"
 }

@@ -4,22 +4,21 @@
   "Classification": "Painting", 
   "Artist": "Henri Matisse", 
   "URL": "http://www.moma.org/collection/works/79562", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Kay Sage Tanguy and Abby Aldrich Rockefeller Funds", 
-  "Date": "Paris, c. 1900", 
-  "ArtistID": 3832, 
+  "DateAcquired": "1975-12-09", 
   "Keywords": [
-    "online art collection", 
     "Henri Matisse", 
     "Male Model", 
     "Paris", 
     "c", 
     "1900"
   ], 
+  "ArtistID": 3832, 
+  "Title": "Male Model", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "377.1975", 
+  "Date": "Paris, c. 1900", 
   "ArtistBio": "(French, 1869\u20131954)", 
-  "DateAcquired": "1975-12-09", 
-  "\ufeffTitle": "Male Model", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79562"
 }

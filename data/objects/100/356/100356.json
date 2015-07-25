@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Christopher Wilmarth", 
   "URL": "http://www.moma.org/collection/works/100356", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Edward R. Broida", 
-  "Date": "1977", 
-  "ArtistID": 6386, 
+  "DateAcquired": "2005-10-06", 
   "Keywords": [
-    "online art collection", 
     "Christopher Wilmarth", 
     "Tilting Ardor", 
     "1977"
   ], 
+  "ArtistID": 6386, 
+  "Title": "Tilting Ardor", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "814.2005", 
+  "Date": "1977", 
   "ArtistBio": "(American, 1943\u20131987)", 
-  "DateAcquired": "2005-10-06", 
-  "\ufeffTitle": "Tilting Ardor", 
+  "CuratorApproved": "Y", 
   "ObjectID": "100356"
 }

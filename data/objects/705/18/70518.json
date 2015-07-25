@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Pierre Bonnard", 
   "URL": "http://www.moma.org/collection/works/70518", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1896", 
-  "ArtistID": 665, 
+  "DateAcquired": "1949-09-29", 
   "Keywords": [
-    "online art collection", 
     "Pierre Bonnard", 
     "Exhibition poster for Les Peintres-Graveurs (The Painter-Printmakers)", 
     "1896"
   ], 
+  "ArtistID": 665, 
+  "Title": "Exhibition poster for Les peintres-graveurs (The Painter-Printmakers)", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "524.1949", 
+  "Date": "1896", 
   "ArtistBio": "(French, 1867\u20131947)", 
-  "DateAcquired": "1949-09-29", 
-  "\ufeffTitle": "Exhibition poster for Les peintres-graveurs (The Painter-Printmakers)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "70518"
 }

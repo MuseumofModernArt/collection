@@ -4,21 +4,20 @@
   "Classification": "Print", 
   "Artist": "Max Beckmann", 
   "URL": "http://www.moma.org/collection/works/65436", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Abby Aldrich Rockefeller", 
-  "Date": "(1918, published 1919)", 
-  "ArtistID": 429, 
+  "DateAcquired": "1940-04-05", 
   "Keywords": [
-    "online art collection", 
     "Max Beckmann", 
     "Self-Portrait (Selbstbildnis) from Faces (Gesichter)", 
     "(1918", 
     "published 1919)"
   ], 
+  "ArtistID": 429, 
+  "Title": "Self-Portrait (Selbstbildnis) from Faces (Gesichter)", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "260.1940", 
+  "Date": "(1918, published 1919)", 
   "ArtistBio": "(German, 1884\u20131950)", 
-  "DateAcquired": "1940-04-05", 
-  "\ufeffTitle": "Self-Portrait (Selbstbildnis) from Faces (Gesichter)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "65436"
 }

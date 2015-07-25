@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Edvard Munch", 
   "URL": "http://www.moma.org/collection/works/66322", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1919\u201320", 
-  "ArtistID": 4164, 
+  "DateAcquired": "1969-04-16", 
   "Keywords": [
-    "online art collection", 
     "Edvard Munch", 
     "Pikene p&aring; broen (The Girls on the Bridge)", 
     "1919-20"
   ], 
+  "ArtistID": 4164, 
+  "Title": "The Girls on the Bridge (Pikene p\u00e5 broen)", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "295.1969", 
+  "Date": "1919\u201320", 
   "ArtistBio": "(Norwegian, 1863\u20131944)", 
-  "DateAcquired": "1969-04-16", 
-  "\ufeffTitle": "The Girls on the Bridge (Pikene p\u00e5 broen)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "66322"
 }

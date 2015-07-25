@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Claude Flight", 
   "URL": "http://www.moma.org/collection/works/62987", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Mrs. John D. Rockefeller 3rd Fund", 
-  "Date": "1923", 
-  "ArtistID": 1916, 
+  "DateAcquired": "1981-05-06", 
   "Keywords": [
-    "online art collection", 
     "Claude Flight", 
     "Paris Omnibus", 
     "1923"
   ], 
+  "ArtistID": 1916, 
+  "Title": "Paris Omnibus", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "151.1981", 
+  "Date": "1923", 
   "ArtistBio": "(British, 1881\u20131955)", 
-  "DateAcquired": "1981-05-06", 
-  "\ufeffTitle": "Paris Omnibus", 
+  "CuratorApproved": "Y", 
   "ObjectID": "62987"
 }

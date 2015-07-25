@@ -4,21 +4,20 @@
   "Classification": "Painting", 
   "Artist": "Fritz Glarner", 
   "URL": "http://www.moma.org/collection/works/80320", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Given anonymously", 
-  "Date": "1957", 
-  "ArtistID": 2186, 
+  "DateAcquired": "1966-12-29", 
   "Keywords": [
-    "online art collection", 
     "Fritz Glarner", 
     "Relational Painting", 
     "Number 85", 
     "1957"
   ], 
+  "ArtistID": 2186, 
+  "Title": "Relational Painting, Number 85", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "736.1966", 
+  "Date": "1957", 
   "ArtistBio": "(American, born Switzerland. 1899\u20131972)", 
-  "DateAcquired": "1966-12-29", 
-  "\ufeffTitle": "Relational Painting, Number 85", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80320"
 }

@@ -4,22 +4,21 @@
   "Classification": "Print", 
   "Artist": "John Marin", 
   "URL": "http://www.moma.org/collection/works/76124", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Abby Aldrich Rockefeller", 
-  "Date": "1930", 
-  "ArtistID": 3770, 
+  "DateAcquired": "1940-04-05", 
   "Keywords": [
-    "online art collection", 
     "John Marin", 
     "St", 
     "Paul's", 
     "Against the El", 
     "1930"
   ], 
+  "ArtistID": 3770, 
+  "Title": "St. Paul's Against the El", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "1233.1940", 
+  "Date": "1930", 
   "ArtistBio": "(American, 1870\u20131953)", 
-  "DateAcquired": "1940-04-05", 
-  "\ufeffTitle": "St. Paul's Against the El", 
+  "CuratorApproved": "Y", 
   "ObjectID": "76124"
 }

@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Bridget Riley", 
   "URL": "http://www.moma.org/collection/works/98633", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Sid and Mercedes Bass", 
-  "Date": "1983/2002", 
-  "ArtistID": 4929, 
+  "DateAcquired": "2005-05-09", 
   "Keywords": [
-    "online art collection", 
     "Bridget Riley", 
     "Blue About", 
     "1983/2002"
   ], 
+  "ArtistID": 4929, 
+  "Title": "Blue About", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "244.2005", 
+  "Date": "1983/2002", 
   "ArtistBio": "(British, born 1931)", 
-  "DateAcquired": "2005-05-09", 
-  "\ufeffTitle": "Blue About", 
+  "CuratorApproved": "Y", 
   "ObjectID": "98633"
 }

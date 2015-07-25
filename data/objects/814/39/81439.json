@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Antoine Pevsner", 
   "URL": "http://www.moma.org/collection/works/81439", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1923-24", 
-  "ArtistID": 4591, 
+  "DateAcquired": "1938-10-20", 
   "Keywords": [
-    "online art collection", 
     "Antoine Pevsner", 
     "Bust", 
     "1923-24"
   ], 
+  "ArtistID": 4591, 
+  "Title": "Bust", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "396.1938", 
+  "Date": "1923-24", 
   "ArtistBio": "(French, 1886\u20131962)", 
-  "DateAcquired": "1938-10-20", 
-  "\ufeffTitle": "Bust", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81439"
 }

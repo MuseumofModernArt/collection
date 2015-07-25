@@ -4,12 +4,9 @@
   "Classification": "Photograph", 
   "Artist": "Lee Friedlander", 
   "URL": "http://www.moma.org/collection/works/56297", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1975", 
-  "ArtistID": 2002, 
+  "DateAcquired": "2000-10-12", 
   "Keywords": [
-    "online art collection", 
     "Lee Friedlander", 
     "Base of the Concord Monument Obelisk", 
     "North Bridge Battleground", 
@@ -17,10 +14,12 @@
     "Massachusetts", 
     "1975"
   ], 
+  "ArtistID": 2002, 
+  "Title": "Base of the Concord Monument Obelisk. North Bridge Battleground, Concord, Massachusetts", 
   "Department": "Photography", 
   "MoMANumber": "730.2000", 
+  "Date": "1975", 
   "ArtistBio": "(American, born 1934)", 
-  "DateAcquired": "2000-10-12", 
-  "\ufeffTitle": "Base of the Concord Monument Obelisk. North Bridge Battleground, Concord, Massachusetts", 
+  "CuratorApproved": "Y", 
   "ObjectID": "56297"
 }

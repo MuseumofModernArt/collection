@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Chuck Close", 
   "URL": "http://www.moma.org/collection/works/76402", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the artist", 
-  "Date": "2000", 
-  "ArtistID": 1156, 
+  "DateAcquired": "2000-11-09", 
   "Keywords": [
-    "online art collection", 
     "Chuck Close", 
     "Self-Portrait/Scribble/Etching", 
     "2000"
   ], 
+  "ArtistID": 1156, 
+  "Title": "Self-Portrait/Scribble/Etching", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "1339.2000", 
+  "Date": "2000", 
   "ArtistBio": "(American, born 1940)", 
-  "DateAcquired": "2000-11-09", 
-  "\ufeffTitle": "Self-Portrait/Scribble/Etching", 
+  "CuratorApproved": "Y", 
   "ObjectID": "76402"
 }

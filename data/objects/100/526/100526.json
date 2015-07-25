@@ -4,12 +4,9 @@
   "Classification": "Photograph", 
   "Artist": "Rineke Dijkstra", 
   "URL": "http://www.moma.org/collection/works/100526", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Horace W. Goldsmith Fund through Robert B. Menschel", 
-  "Date": "March 14, 1994", 
-  "ArtistID": 8139, 
+  "DateAcquired": "2005-10-20", 
   "Keywords": [
-    "online art collection", 
     "Rineke Dijkstra", 
     "Almerisa", 
     "Asylum Center", 
@@ -18,10 +15,12 @@
     "March 14", 
     "1994"
   ], 
+  "ArtistID": 8139, 
+  "Title": "Almerisa,  Asylum Center, Leiden, The Netherlands", 
   "Department": "Photography", 
   "MoMANumber": "851.2005.x1-x2", 
+  "Date": "March 14, 1994", 
   "ArtistBio": "(Dutch, born 1959)", 
-  "DateAcquired": "2005-10-20", 
-  "\ufeffTitle": "Almerisa,  Asylum Center, Leiden, The Netherlands", 
+  "CuratorApproved": "Y", 
   "ObjectID": "100526"
 }

@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Nam June Paik, Otto Piene", 
   "URL": "http://www.moma.org/collection/works/80987", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of The Junior Associates of The Museum of Modern Art, New York, The Greenwich Collection Ltd. Fund, and gift of Margot Ernst", 
-  "Date": "1968", 
-  "ArtistID": 4469, 
+  "DateAcquired": "2000-02-07", 
   "Keywords": [
-    "online art collection", 
     "Nam June Paik and Otto Piene", 
     "Untitled", 
     "1968"
   ], 
+  "ArtistID": 4469, 
+  "Title": "Untitled", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "124.2000", 
+  "Date": "1968", 
   "ArtistBio": "(American, born Korea. 1932\u20132006) (German, 1928\u20132014)", 
-  "DateAcquired": "2000-02-07", 
-  "\ufeffTitle": "Untitled", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80987"
 }

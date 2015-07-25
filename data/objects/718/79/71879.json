@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Henri Matisse", 
   "URL": "http://www.moma.org/collection/works/71879", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Abby Aldrich Rockefeller Fund", 
-  "Date": "1914-15", 
-  "ArtistID": 3832, 
+  "DateAcquired": "1954-12-16", 
   "Keywords": [
-    "online art collection", 
     "Henri Matisse", 
     "Fruits on a Moroccan Plate (Fruits sur plat marocain)", 
     "(1914-15)"
   ], 
+  "ArtistID": 3832, 
+  "Title": "Fruits on a Moroccan Plate (Fruits sur plat marocain)", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "615.1954", 
+  "Date": "1914-15", 
   "ArtistBio": "(French, 1869\u20131954)", 
-  "DateAcquired": "1954-12-16", 
-  "\ufeffTitle": "Fruits on a Moroccan Plate (Fruits sur plat marocain)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "71879"
 }

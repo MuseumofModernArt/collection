@@ -4,22 +4,21 @@
   "Classification": "Sculpture", 
   "Artist": "Alexander Calder", 
   "URL": "http://www.moma.org/collection/works/81834", 
-  "CuratorApproved": "Y", 
   "CreditLine": "James Thrall Soby Fund", 
-  "Date": "Roxbury, Connecticut, 1943", 
-  "ArtistID": 922, 
+  "DateAcquired": "1943-11-04", 
   "Keywords": [
-    "online art collection", 
     "Alexander Calder", 
     "Constellation with Red Object", 
     "Roxbury", 
     "Connecticut", 
     "1943"
   ], 
+  "ArtistID": 922, 
+  "Title": "Constellation with Red Object", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "746.1943", 
+  "Date": "Roxbury, Connecticut, 1943", 
   "ArtistBio": "(American, 1898\u20131976)", 
-  "DateAcquired": "1943-11-04", 
-  "\ufeffTitle": "Constellation with Red Object", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81834"
 }

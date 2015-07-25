@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Pierre-Auguste Renoir", 
   "URL": "http://www.moma.org/collection/works/62107", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Lillie P. Bliss Collection", 
-  "Date": "1897", 
-  "ArtistID": 4869, 
+  "DateAcquired": "1934-09-23", 
   "Keywords": [
-    "online art collection", 
     "Pierre-Auguste Renoir", 
     "Pinning the Hat (Le Chapeau &eacute;pingl&eacute;)", 
     "1897"
   ], 
+  "ArtistID": 4869, 
+  "Title": "Pinning the Hat (Le Chapeau \u00e9pingl\u00e9)", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "117.1934", 
+  "Date": "1897", 
   "ArtistBio": "(French, 1841\u20131919)", 
-  "DateAcquired": "1934-09-23", 
-  "\ufeffTitle": "Pinning the Hat (Le Chapeau \u00e9pingl\u00e9)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "62107"
 }

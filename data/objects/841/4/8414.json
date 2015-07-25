@@ -4,12 +4,9 @@
   "Classification": "A&D Graphic Design", 
   "Artist": "Franz Wilhelm Seiwert", 
   "URL": "http://www.moma.org/collection/works/8414", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Jan Tschichold Collection, Gift of Philip Johnson", 
-  "Date": "c. 1925", 
-  "ArtistID": 8238, 
+  "DateAcquired": "1999-12-10", 
   "Keywords": [
-    "online art collection", 
     "Franz Wilhelm Seiwert", 
     "Der neue Buchladen", 
     "Literature", 
@@ -19,10 +16,12 @@
     "c", 
     "1925"
   ], 
+  "ArtistID": 8238, 
+  "Title": "Der neue Buchladen, Literature, Politik, Kunst, Rechnung", 
   "Department": "Architecture & Design", 
   "MoMANumber": "943.1999", 
+  "Date": "c. 1925", 
   "ArtistBio": "(German, 1894\u20131933)", 
-  "DateAcquired": "1999-12-10", 
-  "\ufeffTitle": "Der neue Buchladen, Literature, Politik, Kunst, Rechnung", 
+  "CuratorApproved": "Y", 
   "ObjectID": "8414"
 }

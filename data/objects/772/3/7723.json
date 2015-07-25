@@ -4,21 +4,20 @@
   "Classification": "A&D Graphic Design", 
   "Artist": "Max Burchartz, Peter Wollbrandt, Wilhelm Heuschen", 
   "URL": "http://www.moma.org/collection/works/7723", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Jan Tschichold Collection, Gift of Philip Johnson", 
-  "Date": "1926", 
-  "ArtistID": 869, 
+  "DateAcquired": "1999-12-10", 
   "Keywords": [
-    "online art collection", 
     "Max Burchartz", 
     "Peter Wollbrandt and Wilhelm Heuschen", 
     "Rheinlandfahrt des BDG", 
     "1926"
   ], 
+  "ArtistID": 869, 
+  "Title": "Rheinlandfahrt des BDG", 
   "Department": "Architecture & Design", 
   "MoMANumber": "607.1999", 
+  "Date": "1926", 
   "ArtistBio": "(German, 1887\u20131961)", 
-  "DateAcquired": "1999-12-10", 
-  "\ufeffTitle": "Rheinlandfahrt des BDG", 
+  "CuratorApproved": "Y", 
   "ObjectID": "7723"
 }

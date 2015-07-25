@@ -4,12 +4,9 @@
   "Classification": "Print", 
   "Artist": "Yves Tanguy", 
   "URL": "http://www.moma.org/collection/works/67272", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase Fund", 
-  "Date": "1947", 
-  "ArtistID": 5804, 
+  "DateAcquired": "1947-12-19", 
   "Keywords": [
-    "online art collection", 
     "Yves Tanguy", 
     "Rhabdomancie", 
     "plate I from the Brunidor Portfolio", 
@@ -17,10 +14,12 @@
     "1", 
     "1947"
   ], 
+  "ArtistID": 5804, 
+  "Title": "Rhabdomancie, plate I from the Brunidor Portfolio, No. 1", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "342.1947.1", 
+  "Date": "1947", 
   "ArtistBio": "(American, born France. 1900\u20131955)", 
-  "DateAcquired": "1947-12-19", 
-  "\ufeffTitle": "Rhabdomancie, plate I from the Brunidor Portfolio, No. 1", 
+  "CuratorApproved": "Y", 
   "ObjectID": "67272"
 }

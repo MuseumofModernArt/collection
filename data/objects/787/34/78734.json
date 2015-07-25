@@ -4,12 +4,9 @@
   "Classification": "Painting", 
   "Artist": "Paul Signac", 
   "URL": "http://www.moma.org/collection/works/78734", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Fractional gift of Mr. and Mrs. David Rockefeller", 
-  "Date": "1890", 
-  "ArtistID": 5421, 
+  "DateAcquired": "1991-04-08", 
   "Keywords": [
-    "online art collection", 
     "Paul Signac", 
     "Opus 217", 
     "Against the Enamel of a Background Rhythmic with Beats and Angles", 
@@ -19,10 +16,12 @@
     "F&eacute;lix F&eacute;n&eacute;on in 1890", 
     "1890"
   ], 
+  "ArtistID": 5421, 
+  "Title": "Opus 217. Against the Enamel of a Background Rhythmic with Beats and Angles, Tones, and Tints, Portrait of M. F\u00e9lix F\u00e9n\u00e9on in 1890", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "85.1991", 
+  "Date": "1890", 
   "ArtistBio": "(French, 1863\u20131935)", 
-  "DateAcquired": "1991-04-08", 
-  "\ufeffTitle": "Opus 217. Against the Enamel of a Background Rhythmic with Beats and Angles, Tones, and Tints, Portrait of M. F\u00e9lix F\u00e9n\u00e9on in 1890", 
+  "CuratorApproved": "Y", 
   "ObjectID": "78734"
 }

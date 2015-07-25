@@ -4,20 +4,19 @@
   "Classification": "Photograph", 
   "Artist": "Weegee (Arthur Fellig)", 
   "URL": "http://www.moma.org/collection/works/46176", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1941", 
-  "ArtistID": 1842, 
+  "DateAcquired": "1943-05-12", 
   "Keywords": [
-    "online art collection", 
     "Weegee (Arthur Fellig)", 
     "My Man", 
     "1941"
   ], 
+  "ArtistID": 1842, 
+  "Title": "My Man", 
   "Department": "Photography", 
   "MoMANumber": "95.1943", 
+  "Date": "1941", 
   "ArtistBio": "(American, born Austria. 1899\u20131968)", 
-  "DateAcquired": "1943-05-12", 
-  "\ufeffTitle": "My Man", 
+  "CuratorApproved": "Y", 
   "ObjectID": "46176"
 }

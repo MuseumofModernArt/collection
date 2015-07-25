@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Constantin Brancusi", 
   "URL": "http://www.moma.org/collection/works/81795", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Acquired through the Lillie P. Bliss Bequest", 
-  "Date": "Paris 1930", 
-  "ArtistID": 738, 
+  "DateAcquired": "1948-10-06", 
   "Keywords": [
-    "online art collection", 
     "Constantin Brancusi", 
     "Fish", 
     "Paris 1930"
   ], 
+  "ArtistID": 738, 
+  "Title": "Fish", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "695.1949.a-d", 
+  "Date": "Paris 1930", 
   "ArtistBio": "(French, born Romania. 1876\u20131957)", 
-  "DateAcquired": "1948-10-06", 
-  "\ufeffTitle": "Fish", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81795"
 }

@@ -4,21 +4,20 @@
   "Classification": "Print", 
   "Artist": "Pablo Picasso", 
   "URL": "http://www.moma.org/collection/works/73981", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Mrs. Bertram Smith Fund", 
-  "Date": "(October 5, 1945)", 
-  "ArtistID": 4609, 
+  "DateAcquired": "1956-12-19", 
   "Keywords": [
-    "online art collection", 
     "Pablo Picasso", 
     "Fauness and Woman (Faunesse et femme)", 
     "(October 5", 
     "1945)"
   ], 
+  "ArtistID": 4609, 
+  "Title": "Fauness and Woman (Faunesse et femme)", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "772.1956", 
+  "Date": "(October 5, 1945)", 
   "ArtistBio": "(Spanish, 1881\u20131973)", 
-  "DateAcquired": "1956-12-19", 
-  "\ufeffTitle": "Fauness and Woman (Faunesse et femme)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "73981"
 }

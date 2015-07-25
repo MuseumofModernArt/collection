@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Will Barnet", 
   "URL": "http://www.moma.org/collection/works/100369", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Agnes Gund", 
-  "Date": "2005", 
-  "ArtistID": 342, 
+  "DateAcquired": "2005-10-25", 
   "Keywords": [
-    "online art collection", 
     "Will Barnet", 
     "Bob", 
     "2005"
   ], 
+  "ArtistID": 342, 
+  "Title": "Bob", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "910.2005", 
+  "Date": "2005", 
   "ArtistBio": "(American, 1911\u20132012)", 
-  "DateAcquired": "2005-10-25", 
-  "\ufeffTitle": "Bob", 
+  "CuratorApproved": "Y", 
   "ObjectID": "100369"
 }

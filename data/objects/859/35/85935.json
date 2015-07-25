@@ -4,12 +4,9 @@
   "Classification": "Photograph", 
   "Artist": "Lewis W. Hine", 
   "URL": "http://www.moma.org/collection/works/85935", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1926", 
-  "ArtistID": 2657, 
+  "DateAcquired": "1942-12-29", 
   "Keywords": [
-    "online art collection", 
     "Lewis W", 
     "Hine", 
     "Czecho-Slovak Grandmother", 
@@ -17,10 +14,12 @@
     "New York", 
     "1926"
   ], 
+  "ArtistID": 2657, 
+  "Title": "Czecho-Slovak Grandmother, Ellis Island, New York", 
   "Department": "Photography", 
   "MoMANumber": "394.1942.4", 
+  "Date": "1926", 
   "ArtistBio": "(American, 1874\u20131940)", 
-  "DateAcquired": "1942-12-29", 
-  "\ufeffTitle": "Czecho-Slovak Grandmother, Ellis Island, New York", 
+  "CuratorApproved": "Y", 
   "ObjectID": "85935"
 }

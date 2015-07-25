@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Georges Liautaud", 
   "URL": "http://www.moma.org/collection/works/80905", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Inter-American Fund", 
-  "Date": "1961", 
-  "ArtistID": 3535, 
+  "DateAcquired": "1962-02-06", 
   "Keywords": [
-    "online art collection", 
     "Georges Liautaud", 
     "The Goat with Two Heads", 
     "1961"
   ], 
+  "ArtistID": 3535, 
+  "Title": "The Goat with Two Heads", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "76.1962", 
+  "Date": "1961", 
   "ArtistBio": "(Haitian, 1899\u20131991)", 
-  "DateAcquired": "1962-02-06", 
-  "\ufeffTitle": "The Goat with Two Heads", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80905"
 }

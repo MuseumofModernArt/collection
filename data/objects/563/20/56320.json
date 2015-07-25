@@ -4,12 +4,9 @@
   "Classification": "Photograph", 
   "Artist": "Lee Friedlander", 
   "URL": "http://www.moma.org/collection/works/56320", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1973", 
-  "ArtistID": 2002, 
+  "DateAcquired": "2000-10-12", 
   "Keywords": [
-    "online art collection", 
     "Lee Friedlander", 
     "Commodore John Paul Jones", 
     "West Potomac Park", 
@@ -17,10 +14,12 @@
     "D,C", 
     "1973"
   ], 
+  "ArtistID": 2002, 
+  "Title": "Commodore John Paul Jones. West Potomac Park, Washington, D.C.", 
   "Department": "Photography", 
   "MoMANumber": "750.2000", 
+  "Date": "1973", 
   "ArtistBio": "(American, born 1934)", 
-  "DateAcquired": "2000-10-12", 
-  "\ufeffTitle": "Commodore John Paul Jones. West Potomac Park, Washington, D.C.", 
+  "CuratorApproved": "Y", 
   "ObjectID": "56320"
 }

@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Wayne Thiebaud", 
   "URL": "http://www.moma.org/collection/works/78898", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Larry Aldrich Foundation Fund", 
-  "Date": "1961", 
-  "ArtistID": 5849, 
+  "DateAcquired": "1962-04-10", 
   "Keywords": [
-    "online art collection", 
     "Wayne Thiebaud", 
     "Cut Meringues", 
     "1961"
   ], 
+  "ArtistID": 5849, 
+  "Title": "Cut Meringues", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "122.1962", 
+  "Date": "1961", 
   "ArtistBio": "(American, born 1920)", 
-  "DateAcquired": "1962-04-10", 
-  "\ufeffTitle": "Cut Meringues", 
+  "CuratorApproved": "Y", 
   "ObjectID": "78898"
 }

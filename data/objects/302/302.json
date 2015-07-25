@@ -4,12 +4,9 @@
   "Classification": "A&D Architectural Drawing", 
   "Artist": "Joel Sanders", 
   "URL": "http://www.moma.org/collection/works/302", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the Peter Norton Family Foundation", 
-  "Date": "1995", 
-  "ArtistID": 7566, 
+  "DateAcquired": "1999-06-30", 
   "Keywords": [
-    "online art collection", 
     "Joel Sanders", 
     "Kyle Residence", 
     "Houston", 
@@ -17,10 +14,12 @@
     "Plan and perspective", 
     "1995"
   ], 
+  "ArtistID": 7566, 
+  "Title": "Kyle Residence , Houston, Texas , Plan and perspective", 
   "Department": "Architecture & Design", 
   "MoMANumber": "275.1999", 
+  "Date": "1995", 
   "ArtistBio": "(American, born 1956)", 
-  "DateAcquired": "1999-06-30", 
-  "\ufeffTitle": "Kyle Residence , Houston, Texas , Plan and perspective", 
+  "CuratorApproved": "Y", 
   "ObjectID": "302"
 }

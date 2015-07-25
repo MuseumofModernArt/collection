@@ -4,12 +4,9 @@
   "Classification": "Periodical", 
   "Artist": "Lasar Segall", 
   "URL": "http://www.moma.org/collection/works/68341", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Given anonymously", 
-  "Date": "1921 (executed 1920)", 
-  "ArtistID": 5317, 
+  "DateAcquired": "1956-10-25", 
   "Keywords": [
-    "online art collection", 
     "Lasar Segall", 
     "Young Beggar (Junge Bettlerin) from the periodical K&uuml;ndung", 
     "vol", 
@@ -18,10 +15,12 @@
     "2 (February 1921)", 
     "1921 (executed 1920)"
   ], 
+  "ArtistID": 5317, 
+  "Title": "Young Beggar (Junge Bettlerin) from the periodical K\u00fcndung, vol. 1, no. 2 (February 1921)", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "392.1956.7", 
+  "Date": "1921 (executed 1920)", 
   "ArtistBio": "(Brazilian, born Russia, 1891\u20131957)", 
-  "DateAcquired": "1956-10-25", 
-  "\ufeffTitle": "Young Beggar (Junge Bettlerin) from the periodical K\u00fcndung, vol. 1, no. 2 (February 1921)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "68341"
 }

@@ -4,21 +4,20 @@
   "Classification": "Drawing", 
   "Artist": "Georges-Pierre Seurat", 
   "URL": "http://www.moma.org/collection/works/33895", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Louise Reinhardt Smith Bequest", 
-  "Date": "c. 1882-84", 
-  "ArtistID": 5358, 
+  "DateAcquired": "1996-03-14", 
   "Keywords": [
-    "online art collection", 
     "Georges-Pierre Seurat", 
     "Carriage and Dog (La Carriole et le chien)", 
     "c", 
     "1882-84"
   ], 
+  "ArtistID": 5358, 
+  "Title": "Carriage and Dog (La Carriole et le chien)", 
   "Department": "Drawings", 
   "MoMANumber": "97.1996", 
+  "Date": "c. 1882-84", 
   "ArtistBio": "(French, 1859\u20131891)", 
-  "DateAcquired": "1996-03-14", 
-  "\ufeffTitle": "Carriage and Dog (La Carriole et le chien)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "33895"
 }

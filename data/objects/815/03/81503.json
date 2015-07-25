@@ -4,21 +4,20 @@
   "Classification": "Sculpture", 
   "Artist": "Constantin Brancusi", 
   "URL": "http://www.moma.org/collection/works/81503", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Mr. and Mrs. William A. M. Burden", 
-  "Date": "c. 1941", 
-  "ArtistID": 738, 
+  "DateAcquired": "1964-06-15", 
   "Keywords": [
-    "online art collection", 
     "Constantin Brancusi", 
     "Bird in Space", 
     "c", 
     "1941"
   ], 
+  "ArtistID": 738, 
+  "Title": "Bird in Space", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "497.1964", 
+  "Date": "c. 1941", 
   "ArtistBio": "(French, born Romania. 1876\u20131957)", 
-  "DateAcquired": "1964-06-15", 
-  "\ufeffTitle": "Bird in Space", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81503"
 }

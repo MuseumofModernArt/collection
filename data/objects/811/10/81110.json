@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Bruce Nauman", 
   "URL": "http://www.moma.org/collection/works/81110", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Werner and Elaine Dannheisser", 
-  "Date": "1977", 
-  "ArtistID": 4243, 
+  "DateAcquired": "1996-04-09", 
   "Keywords": [
-    "online art collection", 
     "Bruce Nauman", 
     "Model for Triangular Depression", 
     "1977"
   ], 
+  "ArtistID": 4243, 
+  "Title": "Model for Triangular Depression", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "192.1996.a-c", 
+  "Date": "1977", 
   "ArtistBio": "(American, born 1941)", 
-  "DateAcquired": "1996-04-09", 
-  "\ufeffTitle": "Model for Triangular Depression", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81110"
 }

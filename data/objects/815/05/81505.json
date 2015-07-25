@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Constantin Brancusi", 
   "URL": "http://www.moma.org/collection/works/81505", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Mr. and Mrs. William A. M. Burden", 
-  "Date": "Paris 1928", 
-  "ArtistID": 738, 
+  "DateAcquired": "1985-10-25", 
   "Keywords": [
-    "online art collection", 
     "Constantin Brancusi", 
     "Young Bird", 
     "Paris 1928"
   ], 
+  "ArtistID": 738, 
+  "Title": "Young Bird", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "498.1964", 
+  "Date": "Paris 1928", 
   "ArtistBio": "(French, born Romania. 1876\u20131957)", 
-  "DateAcquired": "1985-10-25", 
-  "\ufeffTitle": "Young Bird", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81505"
 }

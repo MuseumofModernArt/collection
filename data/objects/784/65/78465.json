@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Honor\u00e9 Sharrer", 
   "URL": "http://www.moma.org/collection/works/78465", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Lincoln Kirstein", 
-  "Date": "1943", 
-  "ArtistID": 5374, 
+  "DateAcquired": "1944-03-14", 
   "Keywords": [
-    "online art collection", 
     "Honor&eacute; Sharrer", 
     "Workers and Paintings", 
     "1943"
   ], 
+  "ArtistID": 5374, 
+  "Title": "Workers and Paintings", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "17.1944", 
+  "Date": "1943", 
   "ArtistBio": "(American, 1920\u20132009)", 
-  "DateAcquired": "1944-03-14", 
-  "\ufeffTitle": "Workers and Paintings", 
+  "CuratorApproved": "Y", 
   "ObjectID": "78465"
 }

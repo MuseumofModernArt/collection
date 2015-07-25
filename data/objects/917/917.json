@@ -4,12 +4,9 @@
   "Classification": "A&D Architectural Drawing", 
   "Artist": "Raimund Abraham", 
   "URL": "http://www.moma.org/collection/works/917", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1966", 
-  "ArtistID": 47, 
+  "DateAcquired": "1968-10-07", 
   "Keywords": [
-    "online art collection", 
     "Raimund Abraham", 
     "Universal City", 
     "from the Linear City Series", 
@@ -17,10 +14,12 @@
     "Aerial perspective of Earth's horizon", 
     "1966"
   ], 
+  "ArtistID": 47, 
+  "Title": "Universal City, from the Linear City Series, project, Aerial perspective of Earth's horizon", 
   "Department": "Architecture & Design", 
   "MoMANumber": "1292.1968", 
+  "Date": "1966", 
   "ArtistBio": "(American, born Austria. 1933\u20132010)", 
-  "DateAcquired": "1968-10-07", 
-  "\ufeffTitle": "Universal City, from the Linear City Series, project, Aerial perspective of Earth's horizon", 
+  "CuratorApproved": "Y", 
   "ObjectID": "917"
 }

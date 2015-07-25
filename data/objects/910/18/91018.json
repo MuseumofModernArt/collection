@@ -4,22 +4,21 @@
   "Classification": "Photograph", 
   "Artist": "Abelardo Morell", 
   "URL": "http://www.moma.org/collection/works/91018", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the photographer", 
-  "Date": "2004", 
-  "ArtistID": 6917, 
+  "DateAcquired": "2004-05-13", 
   "Keywords": [
-    "online art collection", 
     "Abelardo Morell", 
     "Mirror", 
     "Glass", 
     "Water and Wine", 
     "2004"
   ], 
+  "ArtistID": 6917, 
+  "Title": "Mirror, Glass, Water and Wine", 
   "Department": "Photography", 
   "MoMANumber": "245.2004", 
+  "Date": "2004", 
   "ArtistBio": "(American, born Cuba 1948)", 
-  "DateAcquired": "2004-05-13", 
-  "\ufeffTitle": "Mirror, Glass, Water and Wine", 
+  "CuratorApproved": "Y", 
   "ObjectID": "91018"
 }

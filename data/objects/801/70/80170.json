@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Jackson Pollock", 
   "URL": "http://www.moma.org/collection/works/80170", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The Sidney and Harriet Janis Collection", 
-  "Date": "1946", 
-  "ArtistID": 4675, 
+  "DateAcquired": "1967-10-18", 
   "Keywords": [
-    "online art collection", 
     "Jackson Pollock", 
     "Free Form", 
     "1946"
   ], 
+  "ArtistID": 4675, 
+  "Title": "Free Form", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "645.1967", 
+  "Date": "1946", 
   "ArtistBio": "(American, 1912\u20131956)", 
-  "DateAcquired": "1967-10-18", 
-  "\ufeffTitle": "Free Form", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80170"
 }

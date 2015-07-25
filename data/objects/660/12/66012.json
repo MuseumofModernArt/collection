@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "James Rosenquist", 
   "URL": "http://www.moma.org/collection/works/66012", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Celeste Bartos", 
-  "Date": "1975", 
-  "ArtistID": 5021, 
+  "DateAcquired": "1975-10-07", 
   "Keywords": [
-    "online art collection", 
     "James Rosenquist", 
     "Slip Stream", 
     "1975"
   ], 
+  "ArtistID": 5021, 
+  "Title": "Slip Stream", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "284.1975", 
+  "Date": "1975", 
   "ArtistBio": "(American, born 1933)", 
-  "DateAcquired": "1975-10-07", 
-  "\ufeffTitle": "Slip Stream", 
+  "CuratorApproved": "Y", 
   "ObjectID": "66012"
 }

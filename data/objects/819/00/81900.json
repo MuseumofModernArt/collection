@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Alexander Calder", 
   "URL": "http://www.moma.org/collection/works/81900", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the artist", 
-  "Date": "1928", 
-  "ArtistID": 922, 
+  "DateAcquired": "1966-10-11", 
   "Keywords": [
-    "online art collection", 
     "Alexander Calder", 
     "Elephant Chair with Lamp", 
     "1928"
   ], 
+  "ArtistID": 922, 
+  "Title": "Elephant Chair with Lamp", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "845.1966", 
+  "Date": "1928", 
   "ArtistBio": "(American, 1898\u20131976)", 
-  "DateAcquired": "1966-10-11", 
-  "\ufeffTitle": "Elephant Chair with Lamp", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81900"
 }

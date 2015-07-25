@@ -4,12 +4,9 @@
   "Classification": "Photograph", 
   "Artist": "H. Y. S\u00fcmmons", 
   "URL": "http://www.moma.org/collection/works/45780", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Mrs. Raymond C. Collins", 
-  "Date": "c. 1919", 
-  "ArtistID": 5731, 
+  "DateAcquired": "1976-02-24", 
   "Keywords": [
-    "online art collection", 
     "H", 
     "Y", 
     "S&uuml;mmons", 
@@ -17,10 +14,12 @@
     "c", 
     "1919"
   ], 
+  "ArtistID": 5731, 
+  "Title": "Untitled", 
   "Department": "Photography", 
   "MoMANumber": "78.1976", 
+  "Date": "c. 1919", 
   "ArtistBio": "(American)", 
-  "DateAcquired": "1976-02-24", 
-  "\ufeffTitle": "Untitled", 
+  "CuratorApproved": "Y", 
   "ObjectID": "45780"
 }

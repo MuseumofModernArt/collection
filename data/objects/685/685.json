@@ -4,12 +4,9 @@
   "Classification": "A&D Architectural Drawing", 
   "Artist": "Skidmore Owings & Merrill, Gordon Bunshaft", 
   "URL": "http://www.moma.org/collection/works/685", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Skidmore, Owings and Merrill", 
-  "Date": "1978", 
-  "ArtistID": 5518, 
+  "DateAcquired": "1983-05-17", 
   "Keywords": [
-    "online art collection", 
     "Skidmore Owings & Merrill and Gordon Bunshaft with Gordon Bunshaft", 
     "National Commercial Bank", 
     "Jeddah", 
@@ -17,10 +14,12 @@
     "Elevation", 
     "1978"
   ], 
+  "ArtistID": 5518, 
+  "Title": "National Commercial Bank, Jeddah, Saudi Arabia, Elevation", 
   "Department": "Architecture & Design", 
   "MoMANumber": "482.1983", 
+  "Date": "1978", 
   "ArtistBio": "(American, founded 1936) (American, 1909\u20131990)", 
-  "DateAcquired": "1983-05-17", 
-  "\ufeffTitle": "National Commercial Bank, Jeddah, Saudi Arabia, Elevation", 
+  "CuratorApproved": "Y", 
   "ObjectID": "685"
 }

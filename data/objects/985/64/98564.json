@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Elizabeth Murray", 
   "URL": "http://www.moma.org/collection/works/98564", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Jo Carole and Ronald S. Lauder, Agnes Gund, and Arne Glimcher", 
-  "Date": "2005", 
-  "ArtistID": 4185, 
+  "DateAcquired": "2006-02-13", 
   "Keywords": [
-    "online art collection", 
     "Elizabeth Murray", 
     "Do the Dance", 
     "2005"
   ], 
+  "ArtistID": 4185, 
+  "Title": "Do the Dance", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "212.2006.a-e", 
+  "Date": "2005", 
   "ArtistBio": "(American, 1940\u20132007)", 
-  "DateAcquired": "2006-02-13", 
-  "\ufeffTitle": "Do the Dance", 
+  "CuratorApproved": "Y", 
   "ObjectID": "98564"
 }

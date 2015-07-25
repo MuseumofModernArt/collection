@@ -4,20 +4,19 @@
   "Classification": "Photograph", 
   "Artist": "Unknown photographer", 
   "URL": "http://www.moma.org/collection/works/44798", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1905", 
-  "ArtistID": 6028, 
+  "DateAcquired": "1992-01-09", 
   "Keywords": [
-    "online art collection", 
     "Unknown Photographer", 
     "Souvenir of Service in the Second Municipal Balloon Battalion", 
     "1905"
   ], 
+  "ArtistID": 6028, 
+  "Title": "Souvenir of Service in the Second Municipal Balloon Battalion", 
   "Department": "Photography", 
   "MoMANumber": "48.1992", 
+  "Date": "1905", 
   "ArtistBio": "", 
-  "DateAcquired": "1992-01-09", 
-  "\ufeffTitle": "Souvenir of Service in the Second Municipal Balloon Battalion", 
+  "CuratorApproved": "Y", 
   "ObjectID": "44798"
 }

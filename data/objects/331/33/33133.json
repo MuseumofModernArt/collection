@@ -4,20 +4,19 @@
   "Classification": "Drawing", 
   "Artist": "Henri Matisse", 
   "URL": "http://www.moma.org/collection/works/33133", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Abby Aldrich Rockefeller Fund", 
-  "Date": "1947", 
-  "ArtistID": 3832, 
+  "DateAcquired": "1950-01-06", 
   "Keywords": [
-    "online art collection", 
     "Henri Matisse", 
     "Dahlias and Pomegranates", 
     "1947"
   ], 
+  "ArtistID": 3832, 
+  "Title": "Dahlias and Pomegranates", 
   "Department": "Drawings", 
   "MoMANumber": "12.1950", 
+  "Date": "1947", 
   "ArtistBio": "(French, 1869\u20131954)", 
-  "DateAcquired": "1950-01-06", 
-  "\ufeffTitle": "Dahlias and Pomegranates", 
+  "CuratorApproved": "Y", 
   "ObjectID": "33133"
 }

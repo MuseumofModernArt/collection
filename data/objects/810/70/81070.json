@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Robert Gober", 
   "URL": "http://www.moma.org/collection/works/81070", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Werner and Elaine Dannheisser", 
-  "Date": "1992", 
-  "ArtistID": 2199, 
+  "DateAcquired": "1996-04-09", 
   "Keywords": [
-    "online art collection", 
     "Robert Gober", 
     "Untitled", 
     "1992"
   ], 
+  "ArtistID": 2199, 
+  "Title": "Untitled", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "174.1996", 
+  "Date": "1992", 
   "ArtistBio": "(American, born 1954)", 
-  "DateAcquired": "1996-04-09", 
-  "\ufeffTitle": "Untitled", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81070"
 }

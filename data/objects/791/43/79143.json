@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Ralph Humphrey", 
   "URL": "http://www.moma.org/collection/works/79143", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Acquired through anonymous funds, the Sumner Foundation for the Arts Fund, and purchase", 
-  "Date": "1981-82", 
-  "ArtistID": 2765, 
+  "DateAcquired": "1982-10-12", 
   "Keywords": [
-    "online art collection", 
     "Ralph Humphrey", 
     "South Orange", 
     "1981-82"
   ], 
+  "ArtistID": 2765, 
+  "Title": "South Orange", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "207.1982", 
+  "Date": "1981-82", 
   "ArtistBio": "(American, 1932\u20131990)", 
-  "DateAcquired": "1982-10-12", 
-  "\ufeffTitle": "South Orange", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79143"
 }

@@ -4,12 +4,9 @@
   "Classification": "A&D Architectural Drawing", 
   "Artist": "Erich Mendelsohn", 
   "URL": "http://www.moma.org/collection/works/165", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Milton Sheingarten", 
-  "Date": "1935", 
-  "ArtistID": 8219, 
+  "DateAcquired": "2000-01-19", 
   "Keywords": [
-    "online art collection", 
     "Erich Mendelsohn", 
     "Library and Office Building of Salman Schocken", 
     "Jerusalem", 
@@ -17,10 +14,12 @@
     "Interior perspectives", 
     "1935"
   ], 
+  "ArtistID": 8219, 
+  "Title": "Library and Office Building of Salman Schocken , Jerusalem, Israel , Interior perspectives", 
   "Department": "Architecture & Design", 
   "MoMANumber": "85.2000", 
+  "Date": "1935", 
   "ArtistBio": "(American, born Germany (now Poland). 1887\u20131953)", 
-  "DateAcquired": "2000-01-19", 
-  "\ufeffTitle": "Library and Office Building of Salman Schocken , Jerusalem, Israel , Interior perspectives", 
+  "CuratorApproved": "Y", 
   "ObjectID": "165"
 }

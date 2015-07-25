@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Andy Warhol", 
   "URL": "http://www.moma.org/collection/works/76517", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Peter M. Brant", 
-  "Date": "1972", 
-  "ArtistID": 6246, 
+  "DateAcquired": "1975-01-07", 
   "Keywords": [
-    "online art collection", 
     "Andy Warhol", 
     "Mao", 
     "1972"
   ], 
+  "ArtistID": 6246, 
+  "Title": "Mao", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "1360.1974.1-10", 
+  "Date": "1972", 
   "ArtistBio": "(American, 1928\u20131987)", 
-  "DateAcquired": "1975-01-07", 
-  "\ufeffTitle": "Mao", 
+  "CuratorApproved": "Y", 
   "ObjectID": "76517"
 }

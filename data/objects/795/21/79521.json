@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Ellen Gallagher", 
   "URL": "http://www.moma.org/collection/works/79521", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Fractional and promised gift of Michael and Judy Ovitz", 
-  "Date": "1995", 
-  "ArtistID": 7639, 
+  "DateAcquired": "1997-10-06", 
   "Keywords": [
-    "online art collection", 
     "Ellen Gallagher", 
     "Oh! Susanna", 
     "1995"
   ], 
+  "ArtistID": 7639, 
+  "Title": "Oh! Susanna", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "354.1997", 
+  "Date": "1995", 
   "ArtistBio": "(American, born 1965)", 
-  "DateAcquired": "1997-10-06", 
-  "\ufeffTitle": "Oh! Susanna", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79521"
 }

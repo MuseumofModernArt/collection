@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Giovanni Anselmo", 
   "URL": "http://www.moma.org/collection/works/81150", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Jo Carole and Ronald S. Lauder", 
-  "Date": "1968", 
-  "ArtistID": 8211, 
+  "DateAcquired": "2000-04-10", 
   "Keywords": [
-    "online art collection", 
     "Giovanni Anselmo", 
     "Torsion", 
     "1968"
   ], 
+  "ArtistID": 8211, 
+  "Title": "Torsion", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "211.2000.a-b", 
+  "Date": "1968", 
   "ArtistBio": "(Italian, born 1934)", 
-  "DateAcquired": "2000-04-10", 
-  "\ufeffTitle": "Torsion", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81150"
 }

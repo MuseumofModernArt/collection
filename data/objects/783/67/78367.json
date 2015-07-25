@@ -4,21 +4,20 @@
   "Classification": "Painting", 
   "Artist": "Max Beckmann", 
   "URL": "http://www.moma.org/collection/works/78367", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Given anonymously (by exchange)", 
-  "Date": "Frankfurt 1932, Berlin 1933-35", 
-  "ArtistID": 429, 
+  "DateAcquired": "1942-01-27", 
   "Keywords": [
-    "online art collection", 
     "Max Beckmann", 
     "Departure", 
     "Frankfurt 1932", 
     "Berlin 1933-35"
   ], 
+  "ArtistID": 429, 
+  "Title": "Departure", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "6.1942.a-c", 
+  "Date": "Frankfurt 1932, Berlin 1933-35", 
   "ArtistBio": "(German, 1884\u20131950)", 
-  "DateAcquired": "1942-01-27", 
-  "\ufeffTitle": "Departure", 
+  "CuratorApproved": "Y", 
   "ObjectID": "78367"
 }

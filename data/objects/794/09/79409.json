@@ -4,12 +4,9 @@
   "Classification": "Painting", 
   "Artist": "Georges-Pierre Seurat", 
   "URL": "http://www.moma.org/collection/works/79409", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Estate of John Hay Whitney", 
-  "Date": "1885, painted border c. 1888-89", 
-  "ArtistID": 5358, 
+  "DateAcquired": "1983-02-14", 
   "Keywords": [
-    "online art collection", 
     "Georges-Pierre Seurat", 
     "Grandcamp", 
     "Evening", 
@@ -17,10 +14,12 @@
     "painted border c", 
     "1888-89"
   ], 
+  "ArtistID": 5358, 
+  "Title": "Grandcamp, Evening", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "285.1983", 
+  "Date": "1885, painted border c. 1888-89", 
   "ArtistBio": "(French, 1859\u20131891)", 
-  "DateAcquired": "1983-02-14", 
-  "\ufeffTitle": "Grandcamp, Evening", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79409"
 }

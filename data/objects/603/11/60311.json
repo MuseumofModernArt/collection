@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "F\u00e9lix Vallotton", 
   "URL": "http://www.moma.org/collection/works/60311", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Abby Aldrich Rockefeller Fund", 
-  "Date": "1915-16", 
-  "ArtistID": 6064, 
+  "DateAcquired": "1975-01-07", 
   "Keywords": [
-    "online art collection", 
     "F&eacute;lix Vallotton", 
     "This is War (C'est la Guerre)", 
     "1915-16"
   ], 
+  "ArtistID": 6064, 
+  "Title": "This is War (C'est la Guerre)", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "23.1975.1-6", 
+  "Date": "1915-16", 
   "ArtistBio": "(French, 1865\u20131925)", 
-  "DateAcquired": "1975-01-07", 
-  "\ufeffTitle": "This is War (C'est la Guerre)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "60311"
 }

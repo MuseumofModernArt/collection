@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "David Hockney", 
   "URL": "http://www.moma.org/collection/works/67667", 
-  "CuratorApproved": "Y", 
   "CreditLine": "President's Fund Purchase, 1987, Donald B. Marron, President", 
-  "Date": "1976", 
-  "ArtistID": 2678, 
+  "DateAcquired": "1987-10-20", 
   "Keywords": [
-    "online art collection", 
     "David Hockney", 
     "Henry at the Table from the series Friends", 
     "1976"
   ], 
+  "ArtistID": 2678, 
+  "Title": "Henry at the Table from the series Friends", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "359.1987", 
+  "Date": "1976", 
   "ArtistBio": "(British, born 1937)", 
-  "DateAcquired": "1987-10-20", 
-  "\ufeffTitle": "Henry at the Table from the series Friends", 
+  "CuratorApproved": "Y", 
   "ObjectID": "67667"
 }

@@ -4,21 +4,20 @@
   "Classification": "Painting", 
   "Artist": "Lyonel Feininger", 
   "URL": "http://www.moma.org/collection/works/80328", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Acquired through the Lillie P. Bliss Bequest", 
-  "Date": "1927", 
-  "ArtistID": 1832, 
+  "DateAcquired": "1943-12-02", 
   "Keywords": [
-    "online art collection", 
     "Lyonel Feininger", 
     "The Steamer Odin", 
     "II", 
     "1927"
   ], 
+  "ArtistID": 1832, 
+  "Title": "The Steamer Odin, II", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "751.1943", 
+  "Date": "1927", 
   "ArtistBio": "(American, 1871\u20131956)", 
-  "DateAcquired": "1943-12-02", 
-  "\ufeffTitle": "The Steamer Odin, II", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80328"
 }

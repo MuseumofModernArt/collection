@@ -4,12 +4,9 @@
   "Classification": "A&D Architectural Drawing", 
   "Artist": "Andrea Branzi", 
   "URL": "http://www.moma.org/collection/works/794", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of The Howard Gilman Foundation", 
-  "Date": "1969", 
-  "ArtistID": 8108, 
+  "DateAcquired": "2000-10-31", 
   "Keywords": [
-    "online art collection", 
     "Andrea Branzi", 
     "Residential Park", 
     "No-Stop City", 
@@ -17,10 +14,12 @@
     "Plan", 
     "1969"
   ], 
+  "ArtistID": 8108, 
+  "Title": "Residential Park, No-Stop City, project, Plan", 
   "Department": "Architecture & Design", 
   "MoMANumber": "1183.2000", 
+  "Date": "1969", 
   "ArtistBio": "(Italian, born 1938)", 
-  "DateAcquired": "2000-10-31", 
-  "\ufeffTitle": "Residential Park, No-Stop City, project, Plan", 
+  "CuratorApproved": "Y", 
   "ObjectID": "794"
 }

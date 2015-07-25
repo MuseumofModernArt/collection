@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Willem de Kooning", 
   "URL": "http://www.moma.org/collection/works/78810", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Sidney and Harriet Janis Collection Fund", 
-  "Date": "1981", 
-  "ArtistID": 3213, 
+  "DateAcquired": "1982-04-06", 
   "Keywords": [
-    "online art collection", 
     "Willem de Kooning", 
     "Pirate (Untitled II)", 
     "1981"
   ], 
+  "ArtistID": 3213, 
+  "Title": "Pirate (Untitled II)", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "107.1982", 
+  "Date": "1981", 
   "ArtistBio": "(American, born the Netherlands. 1904\u20131997)", 
-  "DateAcquired": "1982-04-06", 
-  "\ufeffTitle": "Pirate (Untitled II)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "78810"
 }

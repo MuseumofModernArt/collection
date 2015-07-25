@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Alex Katz", 
   "URL": "http://www.moma.org/collection/works/71965", 
-  "CuratorApproved": "Y", 
   "CreditLine": "John B. Turner Fund", 
-  "Date": "1983", 
-  "ArtistID": 3016, 
+  "DateAcquired": "1983-09-21", 
   "Keywords": [
-    "online art collection", 
     "Alex Katz", 
     "Red Coat", 
     "1983"
   ], 
+  "ArtistID": 3016, 
+  "Title": "Red Coat", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "620.1983", 
+  "Date": "1983", 
   "ArtistBio": "(American, born 1927)", 
-  "DateAcquired": "1983-09-21", 
-  "\ufeffTitle": "Red Coat", 
+  "CuratorApproved": "Y", 
   "ObjectID": "71965"
 }

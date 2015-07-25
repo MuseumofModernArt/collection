@@ -4,21 +4,20 @@
   "Classification": "Print", 
   "Artist": "Claes Oldenburg", 
   "URL": "http://www.moma.org/collection/works/71714", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Klaus G. Perls and Heinz Berggruen in memory of Frank Perls, Art Dealer (by exchange)", 
-  "Date": "1980", 
-  "ArtistID": 4397, 
+  "DateAcquired": "1980-10-28", 
   "Keywords": [
-    "online art collection", 
     "Claes Oldenburg", 
     "Screwarch Bridge", 
     "state II", 
     "1980"
   ], 
+  "ArtistID": 4397, 
+  "Title": "Screwarch Bridge, state II", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "602.1980", 
+  "Date": "1980", 
   "ArtistBio": "(American, born Sweden 1929)", 
-  "DateAcquired": "1980-10-28", 
-  "\ufeffTitle": "Screwarch Bridge, state II", 
+  "CuratorApproved": "Y", 
   "ObjectID": "71714"
 }

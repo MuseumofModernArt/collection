@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Pablo Picasso", 
   "URL": "http://www.moma.org/collection/works/65951", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Mrs. Gilbert W. Chapman", 
-  "Date": "(1945; Printed: 1950)", 
-  "ArtistID": 4609, 
+  "DateAcquired": "1975-10-07", 
   "Keywords": [
-    "online art collection", 
     "Pablo Picasso", 
     "To Pablo Picasso (Paul Eluard)", 
     "(1945; Printed: 1950)"
   ], 
+  "ArtistID": 4609, 
+  "Title": "To Pablo Picasso (Paul Eluard)", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "281.1975", 
+  "Date": "(1945; Printed: 1950)", 
   "ArtistBio": "(Spanish, 1881\u20131973)", 
-  "DateAcquired": "1975-10-07", 
-  "\ufeffTitle": "To Pablo Picasso (Paul Eluard)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "65951"
 }

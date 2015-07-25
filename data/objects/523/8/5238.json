@@ -4,20 +4,19 @@
   "Classification": "A&D Graphic Design", 
   "Artist": "Otis Shepard", 
   "URL": "http://www.moma.org/collection/works/5238", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the William Wrigley, Jr. Company", 
-  "Date": "1936", 
-  "ArtistID": 5390, 
+  "DateAcquired": "1937-01-01", 
   "Keywords": [
-    "online art collection", 
     "Otis Shepard", 
     "Wrigley's Spearmint Gum", 
     "1936"
   ], 
+  "ArtistID": 5390, 
+  "Title": "Wrigley's Spearmint Gum", 
   "Department": "Architecture & Design", 
   "MoMANumber": "145.1937", 
+  "Date": "1936", 
   "ArtistBio": "(American, 1894\u20131969)", 
-  "DateAcquired": "1937-01-01", 
-  "\ufeffTitle": "Wrigley's Spearmint Gum", 
+  "CuratorApproved": "Y", 
   "ObjectID": "5238"
 }

@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "J\u00f3hannes Sveinsson Kjarval", 
   "URL": "http://www.moma.org/collection/works/79425", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Given in memory of Holger Cahill", 
-  "Date": "1947-54", 
-  "ArtistID": 3124, 
+  "DateAcquired": "1961-10-10", 
   "Keywords": [
-    "online art collection", 
     "J&oacute;hannes Sveinsson Kjarval", 
     "Lava at Bessastadir", 
     "1947-54"
   ], 
+  "ArtistID": 3124, 
+  "Title": "Lava at Bessastadir", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "289.1961", 
+  "Date": "1947-54", 
   "ArtistBio": "(Icelandic, 1885\u20131972)", 
-  "DateAcquired": "1961-10-10", 
-  "\ufeffTitle": "Lava at Bessastadir", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79425"
 }

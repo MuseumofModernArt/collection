@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Marcel Duchamp", 
   "URL": "http://www.moma.org/collection/works/80237", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Mary Sisler Bequest", 
-  "Date": "1910", 
-  "ArtistID": 1634, 
+  "DateAcquired": "1990-12-10", 
   "Keywords": [
-    "online art collection", 
     "Marcel Duchamp", 
     "Two Nudes", 
     "1910"
   ], 
+  "ArtistID": 1634, 
+  "Title": "Two Nudes", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "678.1990", 
+  "Date": "1910", 
   "ArtistBio": "(American, born France. 1887\u20131968)", 
-  "DateAcquired": "1990-12-10", 
-  "\ufeffTitle": "Two Nudes", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80237"
 }

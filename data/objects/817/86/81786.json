@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Claes Oldenburg", 
   "URL": "http://www.moma.org/collection/works/81786", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Mary Sisler Bequest", 
-  "Date": "1961", 
-  "ArtistID": 4397, 
+  "DateAcquired": "1990-12-10", 
   "Keywords": [
-    "online art collection", 
     "Claes Oldenburg", 
     "Pastry Case", 
     "1961"
   ], 
+  "ArtistID": 4397, 
+  "Title": "Pastry Case", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "686.1990.a-g", 
+  "Date": "1961", 
   "ArtistBio": "(American, born Sweden 1929)", 
-  "DateAcquired": "1990-12-10", 
-  "\ufeffTitle": "Pastry Case", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81786"
 }

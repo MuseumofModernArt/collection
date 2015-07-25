@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Robert Cumming", 
   "URL": "http://www.moma.org/collection/works/67157", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1988", 
-  "ArtistID": 1330, 
+  "DateAcquired": "1988-10-25", 
   "Keywords": [
-    "online art collection", 
     "Robert Cumming", 
     "Adirondack Chair", 
     "1988"
   ], 
+  "ArtistID": 1330, 
+  "Title": "Adirondack Chair", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "335.1988", 
+  "Date": "1988", 
   "ArtistBio": "(American, born 1943)", 
-  "DateAcquired": "1988-10-25", 
-  "\ufeffTitle": "Adirondack Chair", 
+  "CuratorApproved": "Y", 
   "ObjectID": "67157"
 }

@@ -4,12 +4,9 @@
   "Classification": "A&D Architectural Drawing", 
   "Artist": "Yoshito Takahashi", 
   "URL": "http://www.moma.org/collection/works/472", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the architect in honor of Lily Auchincloss", 
-  "Date": "1992", 
-  "ArtistID": 7420, 
+  "DateAcquired": "1994-09-21", 
   "Keywords": [
-    "online art collection", 
     "Yoshito Takahashi", 
     "Nara Convention Hall Project", 
     "Nara", 
@@ -17,10 +14,12 @@
     "Perspective", 
     "1992"
   ], 
+  "ArtistID": 7420, 
+  "Title": "Nara Convention Hall Project, Nara, Japan , Perspective", 
   "Department": "Architecture & Design", 
   "MoMANumber": "385.1994", 
+  "Date": "1992", 
   "ArtistBio": "(Japanese, born 1962)", 
-  "DateAcquired": "1994-09-21", 
-  "\ufeffTitle": "Nara Convention Hall Project, Nara, Japan , Perspective", 
+  "CuratorApproved": "Y", 
   "ObjectID": "472"
 }

@@ -4,12 +4,9 @@
   "Classification": "A&D Architectural Drawing", 
   "Artist": "Frank Lloyd Wright", 
   "URL": "http://www.moma.org/collection/works/652", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Edgar Kaufmann, Jr.", 
-  "Date": "1946", 
-  "ArtistID": 6459, 
+  "DateAcquired": "1972-12-21", 
   "Keywords": [
-    "online art collection", 
     "Frank Lloyd Wright", 
     "Mr", 
     "and Mrs", 
@@ -20,10 +17,12 @@
     "Plan of upper level", 
     "1946"
   ], 
+  "ArtistID": 6459, 
+  "Title": "Mr. and Mrs. Stuart Wells House, project , Long Lake, Minnesota , Plan of upper level", 
   "Department": "Architecture & Design", 
   "MoMANumber": "457.1972", 
+  "Date": "1946", 
   "ArtistBio": "(American, 1867\u20131959)", 
-  "DateAcquired": "1972-12-21", 
-  "\ufeffTitle": "Mr. and Mrs. Stuart Wells House, project , Long Lake, Minnesota , Plan of upper level", 
+  "CuratorApproved": "Y", 
   "ObjectID": "652"
 }

@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Oskar Kokoschka", 
   "URL": "http://www.moma.org/collection/works/80707", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Mr. and Mrs. William Mazer", 
-  "Date": "1909", 
-  "ArtistID": 3197, 
+  "DateAcquired": "1967-12-13", 
   "Keywords": [
-    "online art collection", 
     "Oskar Kokoschka", 
     "Doctor Emma Veronika Sanders", 
     "1909"
   ], 
+  "ArtistID": 3197, 
+  "Title": "Doctor Emma Veronika Sanders", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "2414.1967", 
+  "Date": "1909", 
   "ArtistBio": "(Austrian, 1886\u20131980)", 
-  "DateAcquired": "1967-12-13", 
-  "\ufeffTitle": "Doctor Emma Veronika Sanders", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80707"
 }

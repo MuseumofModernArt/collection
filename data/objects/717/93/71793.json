@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Jasper Johns", 
   "URL": "http://www.moma.org/collection/works/71793", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the Celeste and Armand Bartos Foundation", 
-  "Date": "1970", 
-  "ArtistID": 2923, 
+  "DateAcquired": "1970-12-15", 
   "Keywords": [
-    "online art collection", 
     "Jasper Johns", 
     "Flags II", 
     "1970"
   ], 
+  "ArtistID": 2923, 
+  "Title": "Flags II", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "609.1970", 
+  "Date": "1970", 
   "ArtistBio": "(American, born 1930)", 
-  "DateAcquired": "1970-12-15", 
-  "\ufeffTitle": "Flags II", 
+  "CuratorApproved": "Y", 
   "ObjectID": "71793"
 }

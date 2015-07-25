@@ -4,21 +4,20 @@
   "Classification": "Illustrated Book", 
   "Artist": "Howard Hodgkin", 
   "URL": "http://www.moma.org/collection/works/11535", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchased in part with funds from Mrs. Donald B. Straus", 
-  "Date": "1991.  (Prints executed 1990).", 
-  "ArtistID": 2679, 
+  "DateAcquired": "1991-05-22", 
   "Keywords": [
-    "online art collection", 
     "Howard Hodgkin", 
     "The Way We Live Now", 
     "1991", 
     " (Prints executed 1990),"
   ], 
+  "ArtistID": 2679, 
+  "Title": "The Way We Live Now", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "134.1991.A-B", 
+  "Date": "1991.  (Prints executed 1990).", 
   "ArtistBio": "(British, born 1932)", 
-  "DateAcquired": "1991-05-22", 
-  "\ufeffTitle": "The Way We Live Now", 
+  "CuratorApproved": "Y", 
   "ObjectID": "11535"
 }

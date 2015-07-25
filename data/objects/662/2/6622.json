@@ -4,12 +4,9 @@
   "Classification": "A&D Graphic Design", 
   "Artist": "E. McKnight Kauffer", 
   "URL": "http://www.moma.org/collection/works/6622", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the designer", 
-  "Date": "1925", 
-  "ArtistID": 3020, 
+  "DateAcquired": "1939-05-22", 
   "Keywords": [
-    "online art collection", 
     "E", 
     "McKnight Kauffer", 
     "The Indian Museum", 
@@ -17,10 +14,12 @@
     "Open Daily", 
     "1925"
   ], 
+  "ArtistID": 3020, 
+  "Title": "The Indian Museum, Book to South Kensington, Open Daily", 
   "Department": "Architecture & Design", 
   "MoMANumber": "411.1939", 
+  "Date": "1925", 
   "ArtistBio": "(American, 1890\u20131954)", 
-  "DateAcquired": "1939-05-22", 
-  "\ufeffTitle": "The Indian Museum, Book to South Kensington, Open Daily", 
+  "CuratorApproved": "Y", 
   "ObjectID": "6622"
 }

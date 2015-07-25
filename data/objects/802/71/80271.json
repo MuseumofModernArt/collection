@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Roy Lichtenstein", 
   "URL": "http://www.moma.org/collection/works/80271", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Dorothy and Roy Lichtenstein", 
-  "Date": "1988", 
-  "ArtistID": 3542, 
+  "DateAcquired": "1990-12-10", 
   "Keywords": [
-    "online art collection", 
     "Roy Lichtenstein", 
     "Bauhaus Stairway", 
     "1988"
   ], 
+  "ArtistID": 3542, 
+  "Title": "Bauhaus Stairway", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "694.1990", 
+  "Date": "1988", 
   "ArtistBio": "(American, 1923\u20131997)", 
-  "DateAcquired": "1990-12-10", 
-  "\ufeffTitle": "Bauhaus Stairway", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80271"
 }

@@ -4,12 +4,9 @@
   "Classification": "Photograph", 
   "Artist": "Russell Lee", 
   "URL": "http://www.moma.org/collection/works/47288", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Courtesy of the Library of Congress", 
-  "Date": "August 1936", 
-  "ArtistID": 3455, 
+  "DateAcquired": "1984-05-17", 
   "Keywords": [
-    "online art collection", 
     "Russell Lee", 
     "Mother and Daughter in Saloon Restaurant", 
     "Gemmel", 
@@ -17,10 +14,12 @@
     " The Mother is Proprietor", 
     "August 1936"
   ], 
+  "ArtistID": 3455, 
+  "Title": "Mother and Daughter in Saloon Restaurant, Gemmel, Minnesota.  The Mother is Proprietor", 
   "Department": "Photography", 
   "MoMANumber": "169.1984", 
+  "Date": "August 1936", 
   "ArtistBio": "(American, 1903\u20131986)", 
-  "DateAcquired": "1984-05-17", 
-  "\ufeffTitle": "Mother and Daughter in Saloon Restaurant, Gemmel, Minnesota.  The Mother is Proprietor", 
+  "CuratorApproved": "Y", 
   "ObjectID": "47288"
 }

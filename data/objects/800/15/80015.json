@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Victor Brauner", 
   "URL": "http://www.moma.org/collection/works/80015", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The Sidney and Harriet Janis Collection", 
-  "Date": "1943", 
-  "ArtistID": 751, 
+  "DateAcquired": "1967-10-18", 
   "Keywords": [
-    "online art collection", 
     "Victor Brauner", 
     "Talisman", 
     "1943"
   ], 
+  "ArtistID": 751, 
+  "Title": "Talisman", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "582.1967", 
+  "Date": "1943", 
   "ArtistBio": "(Romanian, 1903\u20131966)", 
-  "DateAcquired": "1967-10-18", 
-  "\ufeffTitle": "Talisman", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80015"
 }

@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Robert Irwin", 
   "URL": "http://www.moma.org/collection/works/79227", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Mrs. Sam A. Lewisohn Fund", 
-  "Date": "1968", 
-  "ArtistID": 2828, 
+  "DateAcquired": "1969-03-11", 
   "Keywords": [
-    "online art collection", 
     "Robert Irwin", 
     "Untitled", 
     "1968"
   ], 
+  "ArtistID": 2828, 
+  "Title": "Untitled", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "235.1969", 
+  "Date": "1968", 
   "ArtistBio": "(American, born 1928)", 
-  "DateAcquired": "1969-03-11", 
-  "\ufeffTitle": "Untitled", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79227"
 }

@@ -4,12 +4,9 @@
   "Classification": "Illustrated Book", 
   "Artist": "David Burliuk, Vladimir Burliuk, Nikolai Kul'bin, Aristarkh Lentulov, Aleksei Remizov, Olga Rozanova, Mariia Siniakova", 
   "URL": "http://www.moma.org/collection/works/9798", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of The Judith Rothschild Foundation", 
-  "Date": "1915", 
-  "ArtistID": 877, 
+  "DateAcquired": "2001-01-24", 
   "Keywords": [
-    "online art collection", 
     "David Burliuk", 
     "Vladimir Burliuk", 
     "Nikolai Kul'bin", 
@@ -21,10 +18,12 @@
     "1", 
     "1915"
   ], 
+  "ArtistID": 877, 
+  "Title": "Strelets, vol. 1", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "24.2001", 
+  "Date": "1915", 
   "ArtistBio": "(Ukrainian, 1882\u20131967) (1886\u20131917) (Russian, 1868\u20131917) (Russian, 1882\u20131943) (Russian, 1886\u20131918)", 
-  "DateAcquired": "2001-01-24", 
-  "\ufeffTitle": "Strelets, vol. 1", 
+  "CuratorApproved": "Y", 
   "ObjectID": "9798"
 }

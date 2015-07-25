@@ -4,12 +4,9 @@
   "Classification": "A&D Graphic Design", 
   "Artist": "Albert Fuss", 
   "URL": "http://www.moma.org/collection/works/5169", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Anonymous gift", 
-  "Date": "1928", 
-  "ArtistID": 2038, 
+  "DateAcquired": "1968-03-07", 
   "Keywords": [
-    "online art collection", 
     "Albert Fuss", 
     "Messe", 
     "F,I,M,", 
@@ -17,10 +14,12 @@
     "22 - 25 April 1928", 
     "1928"
   ], 
+  "ArtistID": 2038, 
+  "Title": "Messe, F.I.M., Frankfurt A.M., 22 - 25 April 1928", 
   "Department": "Architecture & Design", 
   "MoMANumber": "132.1968", 
+  "Date": "1928", 
   "ArtistBio": "(German, 1889\u20131969)", 
-  "DateAcquired": "1968-03-07", 
-  "\ufeffTitle": "Messe, F.I.M., Frankfurt A.M., 22 - 25 April 1928", 
+  "CuratorApproved": "Y", 
   "ObjectID": "5169"
 }

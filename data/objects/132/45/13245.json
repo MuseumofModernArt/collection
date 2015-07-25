@@ -4,12 +4,9 @@
   "Classification": "Periodical", 
   "Artist": "Karl Caspar", 
   "URL": "http://www.moma.org/collection/works/13245", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Curt Valentin", 
-  "Date": "1919 (print executed in 1917)", 
-  "ArtistID": 1014, 
+  "DateAcquired": "1973-05-07", 
   "Keywords": [
-    "online art collection", 
     "Karl Caspar", 
     "Untitled (plate", 
     "page 7) from the periodical M&uuml;nchner Bl&auml;tter f&uuml;r Dichtung und Graphik", 
@@ -19,10 +16,12 @@
     "1 (January 1919)", 
     "1919 (print executed in 1917)"
   ], 
+  "ArtistID": 1014, 
+  "Title": "Untitled (plate, page 7) from the periodical M\u00fcnchner Bl\u00e4tter f\u00fcr Dichtung und Graphik, vol. 1, no. 1 (January 1919)", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "187.1973.3", 
+  "Date": "1919 (print executed in 1917)", 
   "ArtistBio": "(German, 1879\u20131956)", 
-  "DateAcquired": "1973-05-07", 
-  "\ufeffTitle": "Untitled (plate, page 7) from the periodical M\u00fcnchner Bl\u00e4tter f\u00fcr Dichtung und Graphik, vol. 1, no. 1 (January 1919)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "13245"
 }

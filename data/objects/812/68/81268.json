@@ -4,21 +4,20 @@
   "Classification": "Sculpture", 
   "Artist": "Pablo Picasso", 
   "URL": "http://www.moma.org/collection/works/81268", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Mrs. Simon Guggenheim Fund", 
-  "Date": "Vallauris, 1951 (cast 1954)", 
-  "ArtistID": 4609, 
+  "DateAcquired": "1956-10-09", 
   "Keywords": [
-    "online art collection", 
     "Pablo Picasso", 
     "Goat Skull and Bottle", 
     "Vallauris", 
     "1951 (cast 1954)"
   ], 
+  "ArtistID": 4609, 
+  "Title": "Goat Skull and Bottle", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "272.1956", 
+  "Date": "Vallauris, 1951 (cast 1954)", 
   "ArtistBio": "(Spanish, 1881\u20131973)", 
-  "DateAcquired": "1956-10-09", 
-  "\ufeffTitle": "Goat Skull and Bottle", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81268"
 }

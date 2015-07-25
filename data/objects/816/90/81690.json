@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Jacques Lipchitz", 
   "URL": "http://www.moma.org/collection/works/81690", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Given anonymously", 
-  "Date": "1941-42", 
-  "ArtistID": 3563, 
+  "DateAcquired": "1943-11-04", 
   "Keywords": [
-    "online art collection", 
     "Jacques Lipchitz", 
     "Blossoming", 
     "1941-42"
   ], 
+  "ArtistID": 3563, 
+  "Title": "Blossoming", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "619.1943", 
+  "Date": "1941-42", 
   "ArtistBio": "(American, born Lithuania. 1891\u20131973)", 
-  "DateAcquired": "1943-11-04", 
-  "\ufeffTitle": "Blossoming", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81690"
 }

@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Gerhard Richter", 
   "URL": "http://www.moma.org/collection/works/79517", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Acquired through the James Thrall Soby Bequest and purchase", 
-  "Date": "1982", 
-  "ArtistID": 4907, 
+  "DateAcquired": "1985-10-25", 
   "Keywords": [
-    "online art collection", 
     "Gerhard Richter", 
     "Clouds", 
     "1982"
   ], 
+  "ArtistID": 4907, 
+  "Title": "Clouds", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "351.1985", 
+  "Date": "1982", 
   "ArtistBio": "(German, born 1932)", 
-  "DateAcquired": "1985-10-25", 
-  "\ufeffTitle": "Clouds", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79517"
 }

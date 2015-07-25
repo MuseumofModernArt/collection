@@ -4,12 +4,9 @@
   "Classification": "Photograph", 
   "Artist": "Thomas Struth", 
   "URL": "http://www.moma.org/collection/works/49565", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Robert and Sylvie Liska in honor of Ronald and Jo Carole Lauder", 
-  "Date": "1985", 
-  "ArtistID": 7825, 
+  "DateAcquired": "1999-06-10", 
   "Keywords": [
-    "online art collection", 
     "Thomas Struth", 
     "University Dormitories", 
     "Dortmund", 
@@ -17,10 +14,12 @@
     "Dortmund)", 
     "1985"
   ], 
+  "ArtistID": 7825, 
+  "Title": "University Dormitories, Dortmund. (Studentendorf an der Universit\u00e4t, Dortmund)", 
   "Department": "Photography", 
   "MoMANumber": "252.1999", 
+  "Date": "1985", 
   "ArtistBio": "(German, born 1954)", 
-  "DateAcquired": "1999-06-10", 
-  "\ufeffTitle": "University Dormitories, Dortmund. (Studentendorf an der Universit\u00e4t, Dortmund)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "49565"
 }

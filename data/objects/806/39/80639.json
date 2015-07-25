@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Robert Ryman", 
   "URL": "http://www.moma.org/collection/works/80639", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Fractional and promised gift of Jo Carole and Ronald S. Lauder", 
-  "Date": "1983", 
-  "ArtistID": 5098, 
+  "DateAcquired": "2000-11-06", 
   "Keywords": [
-    "online art collection", 
     "Robert Ryman", 
     "Record", 
     "1983"
   ], 
+  "ArtistID": 5098, 
+  "Title": "Record", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "1330.2000", 
+  "Date": "1983", 
   "ArtistBio": "(American, born 1930)", 
-  "DateAcquired": "2000-11-06", 
-  "\ufeffTitle": "Record", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80639"
 }

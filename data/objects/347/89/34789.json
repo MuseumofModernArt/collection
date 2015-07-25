@@ -4,20 +4,19 @@
   "Classification": "Drawing", 
   "Artist": "Henri Matisse", 
   "URL": "http://www.moma.org/collection/works/34789", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Pierre Matisse", 
-  "Date": "1930", 
-  "ArtistID": 3832, 
+  "DateAcquired": "1962-05-08", 
   "Keywords": [
-    "online art collection", 
     "Henri Matisse", 
     "John Dewey", 
     "1930"
   ], 
+  "ArtistID": 3832, 
+  "Title": "John Dewey", 
   "Department": "Drawings", 
   "MoMANumber": "149.1962", 
+  "Date": "1930", 
   "ArtistBio": "(French, 1869\u20131954)", 
-  "DateAcquired": "1962-05-08", 
-  "\ufeffTitle": "John Dewey", 
+  "CuratorApproved": "Y", 
   "ObjectID": "34789"
 }

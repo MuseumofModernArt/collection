@@ -4,21 +4,20 @@
   "Classification": "Sculpture", 
   "Artist": "Pablo Picasso", 
   "URL": "http://www.moma.org/collection/works/81260", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Jacqueline Picasso in honor of the Museum's continuous commitment to Pablo Picasso's art", 
-  "Date": "Boisgeloup, 1933", 
-  "ArtistID": 4609, 
+  "DateAcquired": "1984-10-09", 
   "Keywords": [
-    "online art collection", 
     "Pablo Picasso", 
     "Head of a Warrior", 
     "Boisgeloup", 
     "1933"
   ], 
+  "ArtistID": 4609, 
+  "Title": "Head of a Warrior", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "268.1984", 
+  "Date": "Boisgeloup, 1933", 
   "ArtistBio": "(Spanish, 1881\u20131973)", 
-  "DateAcquired": "1984-10-09", 
-  "\ufeffTitle": "Head of a Warrior", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81260"
 }

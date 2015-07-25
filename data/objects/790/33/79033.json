@@ -4,22 +4,21 @@
   "Classification": "Painting", 
   "Artist": "Thomas Wilfred", 
   "URL": "http://www.moma.org/collection/works/79033", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1941", 
-  "ArtistID": 6371, 
+  "DateAcquired": "1942-03-18", 
   "Keywords": [
-    "online art collection", 
     "Thomas Wilfred", 
     "Vertical Sequence", 
     "Op", 
     "137", 
     "1941"
   ], 
+  "ArtistID": 6371, 
+  "Title": "Vertical Sequence, Op. 137", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "166.1942", 
+  "Date": "1941", 
   "ArtistBio": "(American, born Denmark. 1889\u20131968)", 
-  "DateAcquired": "1942-03-18", 
-  "\ufeffTitle": "Vertical Sequence, Op. 137", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79033"
 }

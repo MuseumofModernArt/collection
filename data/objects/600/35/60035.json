@@ -4,22 +4,21 @@
   "Classification": "Print", 
   "Artist": "Emil Nolde", 
   "URL": "http://www.moma.org/collection/works/60035", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "(1911, printed c. 1919)", 
-  "ArtistID": 4327, 
+  "DateAcquired": "1947-03-13", 
   "Keywords": [
-    "online art collection", 
     "Emil Nolde", 
     "Scribes (Schriftgelehrte)", 
     "(1911", 
     "printed c", 
     "1919)"
   ], 
+  "ArtistID": 4327, 
+  "Title": "Scribes (Schriftgelehrte)", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "18.1947", 
+  "Date": "(1911, printed c. 1919)", 
   "ArtistBio": "(German, 1867\u20131956)", 
-  "DateAcquired": "1947-03-13", 
-  "\ufeffTitle": "Scribes (Schriftgelehrte)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "60035"
 }

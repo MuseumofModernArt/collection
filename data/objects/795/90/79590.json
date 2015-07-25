@@ -4,21 +4,20 @@
   "Classification": "Painting", 
   "Artist": "Malcolm Bailey", 
   "URL": "http://www.moma.org/collection/works/79590", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Barbara Jakobson and John R. Jakobson", 
-  "Date": "1969", 
-  "ArtistID": 287, 
+  "DateAcquired": "1970-10-14", 
   "Keywords": [
-    "online art collection", 
     "Malcolm Bailey", 
     "Hold", 
     "Separate but Equal", 
     "1969"
   ], 
+  "ArtistID": 287, 
+  "Title": "Hold, Separate but Equal", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "386.1970", 
+  "Date": "1969", 
   "ArtistBio": "(American, 1947\u20132011)", 
-  "DateAcquired": "1970-10-14", 
-  "\ufeffTitle": "Hold, Separate but Equal", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79590"
 }

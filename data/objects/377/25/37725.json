@@ -4,20 +4,19 @@
   "Classification": "Drawing", 
   "Artist": "Pablo Picasso", 
   "URL": "http://www.moma.org/collection/works/37725", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1933", 
-  "ArtistID": 4609, 
+  "DateAcquired": "1939-12-08", 
   "Keywords": [
-    "online art collection", 
     "Pablo Picasso", 
     "Two Figures on a Beach", 
     "1933"
   ], 
+  "ArtistID": 4609, 
+  "Title": "Two Figures on a Beach", 
   "Department": "Drawings", 
   "MoMANumber": "655.1939", 
+  "Date": "1933", 
   "ArtistBio": "(Spanish, 1881\u20131973)", 
-  "DateAcquired": "1939-12-08", 
-  "\ufeffTitle": "Two Figures on a Beach", 
+  "CuratorApproved": "Y", 
   "ObjectID": "37725"
 }

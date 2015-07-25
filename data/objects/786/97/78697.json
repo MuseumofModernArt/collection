@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Ida Applebroog", 
   "URL": "http://www.moma.org/collection/works/78697", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Acquired with matching funds from The Millstream Fund and the National Endowment for the Arts, and purchase", 
-  "Date": "1989", 
-  "ArtistID": 205, 
+  "DateAcquired": "1989-05-08", 
   "Keywords": [
-    "online art collection", 
     "Ida Applebroog", 
     "Chronic Hollow", 
     "1989"
   ], 
+  "ArtistID": 205, 
+  "Title": "Chronic Hollow", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "76.1989.a-f", 
+  "Date": "1989", 
   "ArtistBio": "(American, born 1929)", 
-  "DateAcquired": "1989-05-08", 
-  "\ufeffTitle": "Chronic Hollow", 
+  "CuratorApproved": "Y", 
   "ObjectID": "78697"
 }

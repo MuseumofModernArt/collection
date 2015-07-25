@@ -4,20 +4,19 @@
   "Classification": "A&D Graphic Design", 
   "Artist": "Firmin Bouisset", 
   "URL": "http://www.moma.org/collection/works/7545", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Given anonymously", 
-  "Date": "1893", 
-  "ArtistID": 703, 
+  "DateAcquired": "1954-12-16", 
   "Keywords": [
-    "online art collection", 
     "Firmin Bouisset", 
     "Chocolat Menier", 
     "1893"
   ], 
+  "ArtistID": 703, 
+  "Title": "Chocolat Menier", 
   "Department": "Architecture & Design", 
   "MoMANumber": "564.1954", 
+  "Date": "1893", 
   "ArtistBio": "(French, 1859\u20131925)", 
-  "DateAcquired": "1954-12-16", 
-  "\ufeffTitle": "Chocolat Menier", 
+  "CuratorApproved": "Y", 
   "ObjectID": "7545"
 }

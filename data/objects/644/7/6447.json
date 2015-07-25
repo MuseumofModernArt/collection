@@ -4,21 +4,20 @@
   "Classification": "A&D Graphic Design", 
   "Artist": "Thomas Geismar, Ivan Chermayeff, Bruce Blackburn", 
   "URL": "http://www.moma.org/collection/works/6447", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Acquired by exchange", 
-  "Date": "1964", 
-  "ArtistID": 1091, 
+  "DateAcquired": "1967-04-11", 
   "Keywords": [
-    "online art collection", 
     "Ivan Chermayeff", 
     "Thomas Geismar and Bruce Blackburn", 
     "American Graphics", 
     "1964"
   ], 
+  "ArtistID": 1091, 
+  "Title": "American Graphics", 
   "Department": "Architecture & Design", 
   "MoMANumber": "351.1967", 
+  "Date": "1964", 
   "ArtistBio": "(American, born 1931) (American, born England 1932) (American, born 1938)", 
-  "DateAcquired": "1967-04-11", 
-  "\ufeffTitle": "American Graphics", 
+  "CuratorApproved": "Y", 
   "ObjectID": "6447"
 }

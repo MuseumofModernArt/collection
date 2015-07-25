@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Fernand L\u00e9ger", 
   "URL": "http://www.moma.org/collection/works/80186", 
-  "CuratorApproved": "Y", 
   "CreditLine": "A. Conger Goodyear Fund", 
-  "Date": "1926", 
-  "ArtistID": 6624, 
+  "DateAcquired": "1959-06-11", 
   "Keywords": [
-    "online art collection", 
     "Fernand L&eacute;ger", 
     "Umbrella and Bowler", 
     "1926"
   ], 
+  "ArtistID": 6624, 
+  "Title": "Umbrella and Bowler", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "650.1959", 
+  "Date": "1926", 
   "ArtistBio": "(French, 1881\u20131955)", 
-  "DateAcquired": "1959-06-11", 
-  "\ufeffTitle": "Umbrella and Bowler", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80186"
 }

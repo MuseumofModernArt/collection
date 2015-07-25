@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Julius Bissier", 
   "URL": "http://www.moma.org/collection/works/100206", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Edward R. Broida", 
-  "Date": "1957", 
-  "ArtistID": 573, 
+  "DateAcquired": "2005-10-06", 
   "Keywords": [
-    "online art collection", 
     "Julius Bissier", 
     "7,XI,57", 
     "1957"
   ], 
+  "ArtistID": 573, 
+  "Title": "7.XI.57", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "666.2005", 
+  "Date": "1957", 
   "ArtistBio": "(German, 1893\u20131965)", 
-  "DateAcquired": "2005-10-06", 
-  "\ufeffTitle": "7.XI.57", 
+  "CuratorApproved": "Y", 
   "ObjectID": "100206"
 }

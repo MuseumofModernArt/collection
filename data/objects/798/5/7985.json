@@ -4,12 +4,9 @@
   "Classification": "A&D Graphic Design", 
   "Artist": "Frederick Kiesler", 
   "URL": "http://www.moma.org/collection/works/7985", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Jan Tschichold Collection, Gift of Philip Johnson", 
-  "Date": "1924", 
-  "ArtistID": 3091, 
+  "DateAcquired": "1999-12-10", 
   "Keywords": [
-    "online art collection", 
     "Frederick Kiesler", 
     "Internationale Ausstellung neuer Theatertechnik", 
     "Katalog", 
@@ -17,10 +14,12 @@
     "Almanach", 
     "1924"
   ], 
+  "ArtistID": 3091, 
+  "Title": "Internationale Ausstellung neuer Theatertechnik, Katalog, Programm, Almanach", 
   "Department": "Architecture & Design", 
   "MoMANumber": "710.1999.2", 
+  "Date": "1924", 
   "ArtistBio": "(American, born Austria-Hungary. 1890\u20131965)", 
-  "DateAcquired": "1999-12-10", 
-  "\ufeffTitle": "Internationale Ausstellung neuer Theatertechnik, Katalog, Programm, Almanach", 
+  "CuratorApproved": "Y", 
   "ObjectID": "7985"
 }

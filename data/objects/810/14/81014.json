@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Emma Lu Davis", 
   "URL": "http://www.moma.org/collection/works/81014", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Abby Aldrich Rockefeller Fund", 
-  "Date": "1936", 
-  "ArtistID": 1405, 
+  "DateAcquired": "1942-03-18", 
   "Keywords": [
-    "online art collection", 
     "Emma Lu Davis", 
     "Chinese Red Army Soldier", 
     "1936"
   ], 
+  "ArtistID": 1405, 
+  "Title": "Chinese Red Army Soldier", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "142.1942", 
+  "Date": "1936", 
   "ArtistBio": "(American, 1905\u20131964)", 
-  "DateAcquired": "1942-03-18", 
-  "\ufeffTitle": "Chinese Red Army Soldier", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81014"
 }

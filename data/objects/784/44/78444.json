@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Lyubov Popova", 
   "URL": "http://www.moma.org/collection/works/78444", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Philip Johnson Fund", 
-  "Date": "1917", 
-  "ArtistID": 4694, 
+  "DateAcquired": "1958-02-19", 
   "Keywords": [
-    "online art collection", 
     "Lyubov Popova", 
     "Painterly Architectonic", 
     "1917"
   ], 
+  "ArtistID": 4694, 
+  "Title": "Painterly Architectonic", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "14.1958", 
+  "Date": "1917", 
   "ArtistBio": "(Russian, 1889\u20131924)", 
-  "DateAcquired": "1958-02-19", 
-  "\ufeffTitle": "Painterly Architectonic", 
+  "CuratorApproved": "Y", 
   "ObjectID": "78444"
 }

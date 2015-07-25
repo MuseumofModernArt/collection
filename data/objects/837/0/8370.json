@@ -4,12 +4,9 @@
   "Classification": "A&D Graphic Design", 
   "Artist": "Kurt Schwitters", 
   "URL": "http://www.moma.org/collection/works/8370", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Jan Tschichold Collection, Gift of Philip Johnson", 
-  "Date": "c. 1927", 
-  "ArtistID": 5293, 
+  "DateAcquired": "1999-12-10", 
   "Keywords": [
-    "online art collection", 
     "Kurt Schwitters", 
     "Neue Reklame", 
     "Merz Werbe", 
@@ -17,10 +14,12 @@
     "c", 
     "1927"
   ], 
+  "ArtistID": 5293, 
+  "Title": "Neue Reklame, Merz Werbe, Rechnung", 
   "Department": "Architecture & Design", 
   "MoMANumber": "919.1999", 
+  "Date": "c. 1927", 
   "ArtistBio": "(German, 1887\u20131948)", 
-  "DateAcquired": "1999-12-10", 
-  "\ufeffTitle": "Neue Reklame, Merz Werbe, Rechnung", 
+  "CuratorApproved": "Y", 
   "ObjectID": "8370"
 }

@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Jasper Johns", 
   "URL": "http://www.moma.org/collection/works/81676", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The Sidney and Harriet Janis Collection", 
-  "Date": "1961 (cast 1966)", 
-  "ArtistID": 2923, 
+  "DateAcquired": "1969-07-22", 
   "Keywords": [
-    "online art collection", 
     "Jasper Johns", 
     "0 through 9", 
     "1961 (cast 1966)"
   ], 
+  "ArtistID": 2923, 
+  "Title": "0 through 9", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "613.1967", 
+  "Date": "1961 (cast 1966)", 
   "ArtistBio": "(American, born 1930)", 
-  "DateAcquired": "1969-07-22", 
-  "\ufeffTitle": "0 through 9", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81676"
 }

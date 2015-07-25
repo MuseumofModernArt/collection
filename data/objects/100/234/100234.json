@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Mark di Suvero", 
   "URL": "http://www.moma.org/collection/works/100234", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Edward R. Broida", 
-  "Date": "1980-81", 
-  "ArtistID": 5743, 
+  "DateAcquired": "2005-10-06", 
   "Keywords": [
-    "online art collection", 
     "Mark di Suvero", 
     "Exclamation", 
     "1980-81"
   ], 
+  "ArtistID": 5743, 
+  "Title": "Exclamation", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "694.2005", 
+  "Date": "1980-81", 
   "ArtistBio": "(American, born 1933)", 
-  "DateAcquired": "2005-10-06", 
-  "\ufeffTitle": "Exclamation", 
+  "CuratorApproved": "Y", 
   "ObjectID": "100234"
 }

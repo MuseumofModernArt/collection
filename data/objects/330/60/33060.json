@@ -4,20 +4,19 @@
   "Classification": "Drawing", 
   "Artist": "Ernst Barlach", 
   "URL": "http://www.moma.org/collection/works/33060", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The Joan and Lester Avnet Collection", 
-  "Date": "1922", 
-  "ArtistID": 335, 
+  "DateAcquired": "1978-04-04", 
   "Keywords": [
-    "online art collection", 
     "Ernst Barlach", 
     "The Miser (Der Geizige)", 
     "1922"
   ], 
+  "ArtistID": 335, 
+  "Title": "The Miser (Der Geizige)", 
   "Department": "Drawings", 
   "MoMANumber": "7.1978", 
+  "Date": "1922", 
   "ArtistBio": "(German, 1870\u20131938)", 
-  "DateAcquired": "1978-04-04", 
-  "\ufeffTitle": "The Miser (Der Geizige)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "33060"
 }

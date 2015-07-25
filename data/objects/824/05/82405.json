@@ -4,20 +4,19 @@
   "Classification": "A&D Architectural Model", 
   "Artist": "Frederick Kiesler", 
   "URL": "http://www.moma.org/collection/works/82405", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1950\u20131960", 
-  "ArtistID": 3091, 
+  "DateAcquired": "1952-01-01", 
   "Keywords": [
-    "online art collection", 
     "Frederick Kiesler", 
     "Endless House Project", 
     "1950-60"
   ], 
+  "ArtistID": 3091, 
+  "Title": "Endless House Project", 
   "Department": "Architecture & Design", 
   "MoMANumber": "MC 25", 
+  "Date": "1950\u20131960", 
   "ArtistBio": "(American, born Austria-Hungary. 1890\u20131965)", 
-  "DateAcquired": "1952-01-01", 
-  "\ufeffTitle": "Endless House Project", 
+  "CuratorApproved": "Y", 
   "ObjectID": "82405"
 }

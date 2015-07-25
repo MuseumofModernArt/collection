@@ -4,12 +4,9 @@
   "Classification": "Print", 
   "Artist": "Pablo Picasso", 
   "URL": "http://www.moma.org/collection/works/65493", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Abby Aldrich Rockefeller Fund", 
-  "Date": "(November 29, 1934, printed 1939)", 
-  "ArtistID": 4609, 
+  "DateAcquired": "1949-03-24", 
   "Keywords": [
-    "online art collection", 
     "Pablo Picasso", 
     "The Tavern", 
     "Young Catalan Fisherman Recounts his Life to an Old Bearded Fisherman (La taberna", 
@@ -18,10 +15,12 @@
     "1934", 
     "printed 1939)"
   ], 
+  "ArtistID": 4609, 
+  "Title": "The Tavern. Young Catalan Fisherman Recounts his Life to an Old Bearded Fisherman (La taberna. Jeune p\u00eacheur catalan racontant sa vie \u00e0 un vieux p\u00eacheur barbu) from the Vollard Suite (Suite Vollard)", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "262.1949", 
+  "Date": "(November 29, 1934, printed 1939)", 
   "ArtistBio": "(Spanish, 1881\u20131973)", 
-  "DateAcquired": "1949-03-24", 
-  "\ufeffTitle": "The Tavern. Young Catalan Fisherman Recounts his Life to an Old Bearded Fisherman (La taberna. Jeune p\u00eacheur catalan racontant sa vie \u00e0 un vieux p\u00eacheur barbu) from the Vollard Suite (Suite Vollard)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "65493"
 }

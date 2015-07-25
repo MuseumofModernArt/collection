@@ -4,12 +4,9 @@
   "Classification": "A&D Design", 
   "Artist": "Gebr\u00fcder Thonet, company design", 
   "URL": "http://www.moma.org/collection/works/4199", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Philip Johnson Fund", 
-  "Date": "c. 1904", 
-  "ArtistID": 5865, 
+  "DateAcquired": "1980-10-30", 
   "Keywords": [
-    "online art collection", 
     "Gebr&uuml;der Thonet", 
     "company design", 
     "Armchair Model No", 
@@ -17,10 +14,12 @@
     "c", 
     "1904"
   ], 
+  "ArtistID": 5865, 
+  "Title": "Armchair Model No. 6009 later B9", 
   "Department": "Architecture & Design", 
   "MoMANumber": "667.1980", 
+  "Date": "c. 1904", 
   "ArtistBio": "(Austrian, established 1853)", 
-  "DateAcquired": "1980-10-30", 
-  "\ufeffTitle": "Armchair Model No. 6009 later B9", 
+  "CuratorApproved": "Y", 
   "ObjectID": "4199"
 }

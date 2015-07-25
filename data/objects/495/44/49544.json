@@ -4,20 +4,19 @@
   "Classification": "Photograph", 
   "Artist": "Tod Papageorge", 
   "URL": "http://www.moma.org/collection/works/49544", 
-  "CuratorApproved": "Y", 
   "CreditLine": "John Parkinson III Fund", 
-  "Date": "1970", 
-  "ArtistID": 4490, 
+  "DateAcquired": "1973-05-10", 
   "Keywords": [
-    "online art collection", 
     "Tod Papageorge", 
     "Little League World Series", 
     "1970"
   ], 
+  "ArtistID": 4490, 
+  "Title": "Little League World Series", 
   "Department": "Photography", 
   "MoMANumber": "251.1973", 
+  "Date": "1970", 
   "ArtistBio": "(American, born 1940)", 
-  "DateAcquired": "1973-05-10", 
-  "\ufeffTitle": "Little League World Series", 
+  "CuratorApproved": "Y", 
   "ObjectID": "49544"
 }

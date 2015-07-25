@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Paul Klee", 
   "URL": "http://www.moma.org/collection/works/79614", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Allan Roos, M. D., and B. Mathieu Roos", 
-  "Date": "1916", 
-  "ArtistID": 3130, 
+  "DateAcquired": "1962-12-31", 
   "Keywords": [
-    "online art collection", 
     "Paul Klee", 
     "Introducing the Miracle", 
     "1916"
   ], 
+  "ArtistID": 3130, 
+  "Title": "Introducing the Miracle", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "395.1962", 
+  "Date": "1916", 
   "ArtistBio": "(German, born Switzerland. 1879\u20131940)", 
-  "DateAcquired": "1962-12-31", 
-  "\ufeffTitle": "Introducing the Miracle", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79614"
 }

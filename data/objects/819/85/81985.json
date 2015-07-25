@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Jackie Ferrara", 
   "URL": "http://www.moma.org/collection/works/81985", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Amicus Foundation Inc. Fund", 
-  "Date": "1979", 
-  "ArtistID": 1857, 
+  "DateAcquired": "1979-12-11", 
   "Keywords": [
-    "online art collection", 
     "Jackie Ferrara", 
     "A200 AJUT", 
     "1979"
   ], 
+  "ArtistID": 1857, 
+  "Title": "A200 AJUT", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "1196.1979.a-g", 
+  "Date": "1979", 
   "ArtistBio": "(American, born 1929)", 
-  "DateAcquired": "1979-12-11", 
-  "\ufeffTitle": "A200 AJUT", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81985"
 }

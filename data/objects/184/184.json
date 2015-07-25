@@ -4,12 +4,9 @@
   "Classification": "A&D Architectural Drawing", 
   "Artist": "Erich Mendelsohn", 
   "URL": "http://www.moma.org/collection/works/184", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Milton Scheingarten", 
-  "Date": "Unknown", 
-  "ArtistID": 8219, 
+  "DateAcquired": "2000-01-19", 
   "Keywords": [
-    "online art collection", 
     "Erich Mendelsohn", 
     "Residence of Salman Schocken", 
     "Jerusalem", 
@@ -17,10 +14,12 @@
     "Perspective and elevation", 
     "Unknown"
   ], 
+  "ArtistID": 8219, 
+  "Title": "Residence of Salman Schocken , Jerusalem, Israel , Perspective and elevation", 
   "Department": "Architecture & Design", 
   "MoMANumber": "94.2000", 
+  "Date": "Unknown", 
   "ArtistBio": "(American, born Germany (now Poland). 1887\u20131953)", 
-  "DateAcquired": "2000-01-19", 
-  "\ufeffTitle": "Residence of Salman Schocken , Jerusalem, Israel , Perspective and elevation", 
+  "CuratorApproved": "Y", 
   "ObjectID": "184"
 }

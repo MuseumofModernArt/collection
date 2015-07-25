@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Julio Castellanos", 
   "URL": "http://www.moma.org/collection/works/78369", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Inter-American Fund", 
-  "Date": "1943", 
-  "ArtistID": 1026, 
+  "DateAcquired": "1944-03-14", 
   "Keywords": [
-    "online art collection", 
     "Julio Castellanos", 
     "The Angel Kidnappers", 
     "1943"
   ], 
+  "ArtistID": 1026, 
+  "Title": "The Angel Kidnappers", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "6.1944", 
+  "Date": "1943", 
   "ArtistBio": "(Mexican, 1905\u20131947)", 
-  "DateAcquired": "1944-03-14", 
-  "\ufeffTitle": "The Angel Kidnappers", 
+  "CuratorApproved": "Y", 
   "ObjectID": "78369"
 }

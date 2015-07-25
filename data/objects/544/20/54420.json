@@ -4,21 +4,20 @@
   "Classification": "Photograph", 
   "Artist": "Bruce Horowitz", 
   "URL": "http://www.moma.org/collection/works/54420", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the photographer", 
-  "Date": "1973", 
-  "ArtistID": 2729, 
+  "DateAcquired": "1973-11-13", 
   "Keywords": [
-    "online art collection", 
     "Bruce Horowitz", 
     "Rutgers Street", 
     "Woman Pruning the Shrubs", 
     "1973"
   ], 
+  "ArtistID": 2729, 
+  "Title": "Rutgers Street, Woman Pruning the Shrubs", 
   "Department": "Photography", 
   "MoMANumber": "499.1973", 
+  "Date": "1973", 
   "ArtistBio": "(American, born 1949)", 
-  "DateAcquired": "1973-11-13", 
-  "\ufeffTitle": "Rutgers Street, Woman Pruning the Shrubs", 
+  "CuratorApproved": "Y", 
   "ObjectID": "54420"
 }

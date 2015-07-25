@@ -4,21 +4,20 @@
   "Classification": "Photograph", 
   "Artist": "Unknown photographer", 
   "URL": "http://www.moma.org/collection/works/45114", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Jacques Henri Lartigue", 
-  "Date": "1909", 
-  "ArtistID": 6028, 
+  "DateAcquired": "1963-01-08", 
   "Keywords": [
-    "online art collection", 
     "Unknown Photographer", 
     "Nice", 
     "Bataille de Fleurs", 
     "1909"
   ], 
+  "ArtistID": 6028, 
+  "Title": "Nice, Bataille de Fleurs", 
   "Department": "Photography", 
   "MoMANumber": "56.1963", 
+  "Date": "1909", 
   "ArtistBio": "", 
-  "DateAcquired": "1963-01-08", 
-  "\ufeffTitle": "Nice, Bataille de Fleurs", 
+  "CuratorApproved": "Y", 
   "ObjectID": "45114"
 }

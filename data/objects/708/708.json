@@ -4,22 +4,21 @@
   "Classification": "A&D Architectural Drawing", 
   "Artist": "SITE (Sculpture in the Environment), James Wines", 
   "URL": "http://www.moma.org/collection/works/708", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Best Products Company Inc. Architecture Fund", 
-  "Date": "1981", 
-  "ArtistID": 5457, 
+  "DateAcquired": "1981-12-10", 
   "Keywords": [
-    "online art collection", 
     "SITE (Sculpture in the Environment) and James Wines", 
     "Highrise of Homes", 
     "project", 
     "Aerial perspective and plan", 
     "1981"
   ], 
+  "ArtistID": 5457, 
+  "Title": "Highrise of Homes, project, Aerial perspective and plan", 
   "Department": "Architecture & Design", 
   "MoMANumber": "580.1981", 
+  "Date": "1981", 
   "ArtistBio": "(American, founded 1970) (American, born 1932)", 
-  "DateAcquired": "1981-12-10", 
-  "\ufeffTitle": "Highrise of Homes, project, Aerial perspective and plan", 
+  "CuratorApproved": "Y", 
   "ObjectID": "708"
 }

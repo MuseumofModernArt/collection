@@ -4,12 +4,9 @@
   "Classification": "A&D Graphic Design", 
   "Artist": "Francis Bernard", 
   "URL": "http://www.moma.org/collection/works/5785", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Department Purchase Funds", 
-  "Date": "1928", 
-  "ArtistID": 512, 
+  "DateAcquired": "1987-05-27", 
   "Keywords": [
-    "online art collection", 
     "Francis Bernard", 
     "Gaz Cuit-Chauffe-Glace (Gas", 
     "It Cooks", 
@@ -17,10 +14,12 @@
     "Cools)", 
     "1928"
   ], 
+  "ArtistID": 512, 
+  "Title": "Gaz Cuit-Chauffe-Glace (Gas, It Cooks, Heats, Cools)", 
   "Department": "Architecture & Design", 
   "MoMANumber": "235.1987", 
+  "Date": "1928", 
   "ArtistBio": "(French, 1900\u20131979)", 
-  "DateAcquired": "1987-05-27", 
-  "\ufeffTitle": "Gaz Cuit-Chauffe-Glace (Gas, It Cooks, Heats, Cools)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "5785"
 }

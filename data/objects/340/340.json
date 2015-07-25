@@ -4,12 +4,9 @@
   "Classification": "A&D Architectural Drawing", 
   "Artist": "Tadao Ando", 
   "URL": "http://www.moma.org/collection/works/340", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the architect in honor of Philip Johnson", 
-  "Date": "1989", 
-  "ArtistID": 7055, 
+  "DateAcquired": "1996-09-25", 
   "Keywords": [
-    "online art collection", 
     "Tadao Ando", 
     "Church of the Light", 
     "Ibaraki", 
@@ -18,10 +15,12 @@
     "Plan", 
     "1989"
   ], 
+  "ArtistID": 7055, 
+  "Title": "Church of the Light, Ibaraki, Osaka, Japan, Plan", 
   "Department": "Architecture & Design", 
   "MoMANumber": "348.1996", 
+  "Date": "1989", 
   "ArtistBio": "(Japanese, born 1941)", 
-  "DateAcquired": "1996-09-25", 
-  "\ufeffTitle": "Church of the Light, Ibaraki, Osaka, Japan, Plan", 
+  "CuratorApproved": "Y", 
   "ObjectID": "340"
 }

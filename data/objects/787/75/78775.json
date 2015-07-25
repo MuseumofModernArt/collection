@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Eugene Fernandez Granell", 
   "URL": "http://www.moma.org/collection/works/78775", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Mr. and Mrs. Raymond J. Braun", 
-  "Date": "1960", 
-  "ArtistID": 2291, 
+  "DateAcquired": "1962-03-06", 
   "Keywords": [
-    "online art collection", 
     "Eugene Fernandez Granell", 
     "The Last Haitian Night of King Christophe", 
     "1960"
   ], 
+  "ArtistID": 2291, 
+  "Title": "The Last Haitian Night of King Christophe", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "100.1962", 
+  "Date": "1960", 
   "ArtistBio": "(Spanish, 1912\u20132001)", 
-  "DateAcquired": "1962-03-06", 
-  "\ufeffTitle": "The Last Haitian Night of King Christophe", 
+  "CuratorApproved": "Y", 
   "ObjectID": "78775"
 }

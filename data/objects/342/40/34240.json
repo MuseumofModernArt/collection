@@ -4,20 +4,19 @@
   "Classification": "Drawing", 
   "Artist": "Lyonel Feininger", 
   "URL": "http://www.moma.org/collection/works/34240", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Julia Feininger", 
-  "Date": "1910", 
-  "ArtistID": 1832, 
+  "DateAcquired": "1966-02-08", 
   "Keywords": [
-    "online art collection", 
     "Lyonel Feininger", 
     "The Unemployed (Arbeitslose)", 
     "1910"
   ], 
+  "ArtistID": 1832, 
+  "Title": "The Unemployed (Arbeitslose)", 
   "Department": "Drawings", 
   "MoMANumber": "124.1966", 
+  "Date": "1910", 
   "ArtistBio": "(American, 1871\u20131956)", 
-  "DateAcquired": "1966-02-08", 
-  "\ufeffTitle": "The Unemployed (Arbeitslose)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "34240"
 }

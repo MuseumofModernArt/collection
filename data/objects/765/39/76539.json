@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Robert Rauschenberg", 
   "URL": "http://www.moma.org/collection/works/76539", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Emily Fisher Landau", 
-  "Date": "2000", 
-  "ArtistID": 4823, 
+  "DateAcquired": "2000-11-09", 
   "Keywords": [
-    "online art collection", 
     "Robert Rauschenberg", 
     "Democratic Presidential Campaign Print", 
     "2000"
   ], 
+  "ArtistID": 4823, 
+  "Title": "Democratic Presidential Campaign Print", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "1364.2000", 
+  "Date": "2000", 
   "ArtistBio": "(American, 1925\u20132008)", 
-  "DateAcquired": "2000-11-09", 
-  "\ufeffTitle": "Democratic Presidential Campaign Print", 
+  "CuratorApproved": "Y", 
   "ObjectID": "76539"
 }

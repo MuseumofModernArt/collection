@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Gerhard Richter", 
   "URL": "http://www.moma.org/collection/works/84187", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Partial and promised gift of UBS", 
-  "Date": "1986", 
-  "ArtistID": 4907, 
+  "DateAcquired": "2002-04-08", 
   "Keywords": [
-    "online art collection", 
     "Gerhard Richter", 
     "Confus", 
     "1986"
   ], 
+  "ArtistID": 4907, 
+  "Title": "Confus", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "104.2002", 
+  "Date": "1986", 
   "ArtistBio": "(German, born 1932)", 
-  "DateAcquired": "2002-04-08", 
-  "\ufeffTitle": "Confus", 
+  "CuratorApproved": "Y", 
   "ObjectID": "84187"
 }

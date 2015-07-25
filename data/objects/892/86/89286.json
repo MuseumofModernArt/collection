@@ -4,20 +4,19 @@
   "Classification": "Film", 
   "Artist": "Sergei Eisenstein", 
   "URL": "http://www.moma.org/collection/works/89286", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Acquired from Reichsfilmarchiv", 
-  "Date": "1925", 
-  "ArtistID": 1708, 
+  "DateAcquired": "1938-01-01", 
   "Keywords": [
-    "online art collection", 
     "Sergei Eisenstein", 
     "Potemkin (Bronenosets Potemkin)", 
     "1925"
   ], 
+  "ArtistID": 1708, 
+  "Title": "Potemkin (Bronenosets Potemkin)", 
   "Department": "Film", 
   "MoMANumber": "933", 
+  "Date": "1925", 
   "ArtistBio": "(Russian, 1898\u20131948)", 
-  "DateAcquired": "1938-01-01", 
-  "\ufeffTitle": "Potemkin (Bronenosets Potemkin)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "89286"
 }

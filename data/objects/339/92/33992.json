@@ -4,20 +4,19 @@
   "Classification": "Drawing", 
   "Artist": "Vasily Kandinsky", 
   "URL": "http://www.moma.org/collection/works/33992", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The Joan and Lester Avnet Collection", 
-  "Date": "1916", 
-  "ArtistID": 2981, 
+  "DateAcquired": "1978-04-04", 
   "Keywords": [
-    "online art collection", 
     "Vasily Kandinsky", 
     "The Horseman (Reiter)", 
     "1916"
   ], 
+  "ArtistID": 2981, 
+  "Title": "The Horseman (Reiter)", 
   "Department": "Drawings", 
   "MoMANumber": "106.1978", 
+  "Date": "1916", 
   "ArtistBio": "(French, born Russia. 1866\u20131944)", 
-  "DateAcquired": "1978-04-04", 
-  "\ufeffTitle": "The Horseman (Reiter)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "33992"
 }

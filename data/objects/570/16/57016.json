@@ -4,12 +4,9 @@
   "Classification": "Photograph", 
   "Artist": "Frances Benjamin Johnston", 
   "URL": "http://www.moma.org/collection/works/57016", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Lincoln Kirstein", 
-  "Date": "1899-1900", 
-  "ArtistID": 7851, 
+  "DateAcquired": "1965-11-09", 
   "Keywords": [
-    "online art collection", 
     "Frances Benjamin Johnston", 
     "Agriculture", 
     "Mixing Fertilizer", 
@@ -18,10 +15,12 @@
     "Virginia", 
     "1899-1900"
   ], 
+  "ArtistID": 7851, 
+  "Title": "Agriculture, Mixing Fertilizer, The Hampton Institute, Hampton, Virginia", 
   "Department": "Photography", 
   "MoMANumber": "859.1965.116", 
+  "Date": "1899-1900", 
   "ArtistBio": "(American, 1864\u20131952)", 
-  "DateAcquired": "1965-11-09", 
-  "\ufeffTitle": "Agriculture, Mixing Fertilizer, The Hampton Institute, Hampton, Virginia", 
+  "CuratorApproved": "Y", 
   "ObjectID": "57016"
 }

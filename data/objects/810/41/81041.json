@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Jacob Epstein", 
   "URL": "http://www.moma.org/collection/works/81041", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Mrs. Simon Guggenheim Fund", 
-  "Date": "1913-14 (cast 1962)", 
-  "ArtistID": 1741, 
+  "DateAcquired": "1962-05-08", 
   "Keywords": [
-    "online art collection", 
     "Jacob Epstein", 
     "The Rock Drill", 
     "1913-14 (cast 1962)"
   ], 
+  "ArtistID": 1741, 
+  "Title": "The Rock Drill", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "155.1962", 
+  "Date": "1913-14 (cast 1962)", 
   "ArtistBio": "(British, born U.S.A. 1880\u20131959)", 
-  "DateAcquired": "1962-05-08", 
-  "\ufeffTitle": "The Rock Drill", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81041"
 }

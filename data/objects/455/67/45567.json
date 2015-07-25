@@ -4,21 +4,20 @@
   "Classification": "Photograph", 
   "Artist": "Auguste Salzmann", 
   "URL": "http://www.moma.org/collection/works/45567", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1854", 
-  "ArtistID": 5132, 
+  "DateAcquired": "1976-02-24", 
   "Keywords": [
-    "online art collection", 
     "Auguste Salzmann", 
     "Champ du Sang", 
     "Jerusalem", 
     "1854"
   ], 
+  "ArtistID": 5132, 
+  "Title": "Champ du Sang, Jerusalem", 
   "Department": "Photography", 
   "MoMANumber": "70.1976", 
+  "Date": "1854", 
   "ArtistBio": "(French, 1824\u20131872)", 
-  "DateAcquired": "1976-02-24", 
-  "\ufeffTitle": "Champ du Sang, Jerusalem", 
+  "CuratorApproved": "Y", 
   "ObjectID": "45567"
 }

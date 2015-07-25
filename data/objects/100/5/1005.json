@@ -4,12 +4,9 @@
   "Classification": "A&D Architectural Model", 
   "Artist": "Ludwig Mies van der Rohe", 
   "URL": "http://www.moma.org/collection/works/1005", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1921", 
-  "ArtistID": 7166, 
+  "DateAcquired": "1986-10-07", 
   "Keywords": [
-    "online art collection", 
     "Ludwig Mies van der Rohe", 
     "Friedrichstrasse Skyscraper", 
     "project", 
@@ -18,10 +15,12 @@
     "Model", 
     "1921"
   ], 
+  "ArtistID": 7166, 
+  "Title": "Friedrichstrasse Skyscraper Project, Berlin-Mitte, Germany", 
   "Department": "Architecture & Design", 
   "MoMANumber": "260.1986", 
+  "Date": "1921", 
   "ArtistBio": "(American, born Germany. 1886\u20131969)", 
-  "DateAcquired": "1986-10-07", 
-  "\ufeffTitle": "Friedrichstrasse Skyscraper Project, Berlin-Mitte, Germany", 
+  "CuratorApproved": "Y", 
   "ObjectID": "1005"
 }

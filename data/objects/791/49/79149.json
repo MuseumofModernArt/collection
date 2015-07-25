@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Eugene Berman", 
   "URL": "http://www.moma.org/collection/works/79149", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Richard Blow", 
-  "Date": "Paris 1929", 
-  "ArtistID": 502, 
+  "DateAcquired": "1937-05-11", 
   "Keywords": [
-    "online art collection", 
     "Eugene Berman", 
     "Winter", 
     "Paris 1929"
   ], 
+  "ArtistID": 502, 
+  "Title": "Winter", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "209.1937", 
+  "Date": "Paris 1929", 
   "ArtistBio": "(American, born Russia. 1899\u20131972)", 
-  "DateAcquired": "1937-05-11", 
-  "\ufeffTitle": "Winter", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79149"
 }

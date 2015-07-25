@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "El Lissitzky", 
   "URL": "http://www.moma.org/collection/works/80502", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The Riklis Collection of McCrory Corporation", 
-  "Date": "1922", 
-  "ArtistID": 3569, 
+  "DateAcquired": "1985-10-25", 
   "Keywords": [
-    "online art collection", 
     "El Lissitzky", 
     "Composition", 
     "1922"
   ], 
+  "ArtistID": 3569, 
+  "Title": "Composition", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "1039.1983", 
+  "Date": "1922", 
   "ArtistBio": "(Russian, 1890\u20131941)", 
-  "DateAcquired": "1985-10-25", 
-  "\ufeffTitle": "Composition", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80502"
 }

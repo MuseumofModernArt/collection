@@ -4,21 +4,20 @@
   "Classification": "Sculpture", 
   "Artist": "Claes Oldenburg", 
   "URL": "http://www.moma.org/collection/works/81183", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Philip Johnson Fund", 
-  "Date": "1962", 
-  "ArtistID": 4397, 
+  "DateAcquired": "1962-10-09", 
   "Keywords": [
-    "online art collection", 
     "Claes Oldenburg", 
     "Two Cheeseburgers", 
     "with Everything (Dual Hamburgers)", 
     "1962"
   ], 
+  "ArtistID": 4397, 
+  "Title": "Two Cheeseburgers, with Everything (Dual Hamburgers)", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "233.1962", 
+  "Date": "1962", 
   "ArtistBio": "(American, born Sweden 1929)", 
-  "DateAcquired": "1962-10-09", 
-  "\ufeffTitle": "Two Cheeseburgers, with Everything (Dual Hamburgers)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81183"
 }

@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Ellsworth Kelly", 
   "URL": "http://www.moma.org/collection/works/80300", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the Committee on Painting and Sculpture in honor of Richard E. Oldenburg", 
-  "Date": "1993", 
-  "ArtistID": 3048, 
+  "DateAcquired": "1993-12-06", 
   "Keywords": [
-    "online art collection", 
     "Ellsworth Kelly", 
     "Red-Orange Panel with Curve", 
     "1993"
   ], 
+  "ArtistID": 3048, 
+  "Title": "Red-Orange Panel with Curve", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "715.1993", 
+  "Date": "1993", 
   "ArtistBio": "(American, born 1923)", 
-  "DateAcquired": "1993-12-06", 
-  "\ufeffTitle": "Red-Orange Panel with Curve", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80300"
 }

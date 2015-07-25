@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Henry Moore", 
   "URL": "http://www.moma.org/collection/works/81704", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1938", 
-  "ArtistID": 4071, 
+  "DateAcquired": "1939-12-08", 
   "Keywords": [
-    "online art collection", 
     "Henry Moore", 
     "Reclining Figure", 
     "1938"
   ], 
+  "ArtistID": 4071, 
+  "Title": "Reclining Figure", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "630.1939", 
+  "Date": "1938", 
   "ArtistBio": "(British, 1898\u20131986)", 
-  "DateAcquired": "1939-12-08", 
-  "\ufeffTitle": "Reclining Figure", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81704"
 }

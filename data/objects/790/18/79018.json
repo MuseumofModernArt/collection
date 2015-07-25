@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Salvador Dal\u00ed", 
   "URL": "http://www.moma.org/collection/works/79018", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Given anonymously", 
-  "Date": "1931", 
-  "ArtistID": 1364, 
+  "DateAcquired": "1934-12-20", 
   "Keywords": [
-    "online art collection", 
     "Salvador Dal&iacute;", 
     "The Persistence of Memory", 
     "1931"
   ], 
+  "ArtistID": 1364, 
+  "Title": "The Persistence of Memory", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "162.1934", 
+  "Date": "1931", 
   "ArtistBio": "(Spanish, 1904\u20131989)", 
-  "DateAcquired": "1934-12-20", 
-  "\ufeffTitle": "The Persistence of Memory", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79018"
 }

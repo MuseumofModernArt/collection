@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Rackstraw Downes", 
   "URL": "http://www.moma.org/collection/works/79382", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Lily Auchincloss", 
-  "Date": "1993", 
-  "ArtistID": 1605, 
+  "DateAcquired": "1994-05-09", 
   "Keywords": [
-    "online art collection", 
     "Rackstraw Downes", 
     "Canal Homes at Bayou Vista", 
     "1993"
   ], 
+  "ArtistID": 1605, 
+  "Title": "Canal Homes at Bayou Vista", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "279.1994", 
+  "Date": "1993", 
   "ArtistBio": "(American, born England 1939)", 
-  "DateAcquired": "1994-05-09", 
-  "\ufeffTitle": "Canal Homes at Bayou Vista", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79382"
 }

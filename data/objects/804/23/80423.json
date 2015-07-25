@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Juan Gris", 
   "URL": "http://www.moma.org/collection/works/80423", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Nelson A. Rockefeller Bequest", 
-  "Date": "1914", 
-  "ArtistID": 2349, 
+  "DateAcquired": "1979-10-09", 
   "Keywords": [
-    "online art collection", 
     "Juan Gris", 
     "Guitar and Glasses", 
     "1914"
   ], 
+  "ArtistID": 2349, 
+  "Title": "Guitar and Glasses", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "956.1979", 
+  "Date": "1914", 
   "ArtistBio": "(Spanish, 1887\u20131927)", 
-  "DateAcquired": "1979-10-09", 
-  "\ufeffTitle": "Guitar and Glasses", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80423"
 }

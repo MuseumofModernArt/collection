@@ -4,22 +4,21 @@
   "Classification": "A&D Graphic Design", 
   "Artist": "Alphonse Mucha", 
   "URL": "http://www.moma.org/collection/works/6306", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Phyllis B. Lambert Fund", 
-  "Date": "1897", 
-  "ArtistID": 4136, 
+  "DateAcquired": "1957-12-04", 
   "Keywords": [
-    "online art collection", 
     "Alphonse Mucha", 
     "Theatre de la Renaissance", 
     "Sarah Bernhardt", 
     "La Samaritaine", 
     "1897"
   ], 
+  "ArtistID": 4136, 
+  "Title": "Theatre de la Renaissance, Sarah Bernhardt, La Samaritaine", 
   "Department": "Architecture & Design", 
   "MoMANumber": "331.1957", 
+  "Date": "1897", 
   "ArtistBio": "(Czech, born Moravia (then Austria). 1860\u20131939)", 
-  "DateAcquired": "1957-12-04", 
-  "\ufeffTitle": "Theatre de la Renaissance, Sarah Bernhardt, La Samaritaine", 
+  "CuratorApproved": "Y", 
   "ObjectID": "6306"
 }

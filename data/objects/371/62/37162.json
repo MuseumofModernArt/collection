@@ -4,20 +4,19 @@
   "Classification": "Drawing", 
   "Artist": "Keith Haring", 
   "URL": "http://www.moma.org/collection/works/37162", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the Estate of Keith Haring, Inc.", 
-  "Date": "1982", 
-  "ArtistID": 2505, 
+  "DateAcquired": "1992-11-05", 
   "Keywords": [
-    "online art collection", 
     "Keith Haring", 
     "Untitled", 
     "1982"
   ], 
+  "ArtistID": 2505, 
+  "Title": "Untitled", 
   "Department": "Drawings", 
   "MoMANumber": "495.1992.a-b", 
+  "Date": "1982", 
   "ArtistBio": "(American, 1958\u20131990)", 
-  "DateAcquired": "1992-11-05", 
-  "\ufeffTitle": "Untitled", 
+  "CuratorApproved": "Y", 
   "ObjectID": "37162"
 }

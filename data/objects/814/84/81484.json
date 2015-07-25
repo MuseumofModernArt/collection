@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Alberto Giacometti", 
   "URL": "http://www.moma.org/collection/works/81484", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Pierre Matisse in memory of Patricia Kane Matisse", 
-  "Date": "1933", 
-  "ArtistID": 2141, 
+  "DateAcquired": "1978-06-13", 
   "Keywords": [
-    "online art collection", 
     "Alberto Giacometti", 
     "No More Play", 
     "1933"
   ], 
+  "ArtistID": 2141, 
+  "Title": "No More Play", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "465.1978", 
+  "Date": "1933", 
   "ArtistBio": "(Swiss, 1901\u20131966)", 
-  "DateAcquired": "1978-06-13", 
-  "\ufeffTitle": "No More Play", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81484"
 }

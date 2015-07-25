@@ -4,22 +4,21 @@
   "Classification": "Photograph", 
   "Artist": "Braun et Compagnie", 
   "URL": "http://www.moma.org/collection/works/44792", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1876-89", 
-  "ArtistID": 750, 
+  "DateAcquired": "1982-03-11", 
   "Keywords": [
-    "online art collection", 
     "Braun et Compagnie", 
     "Eglise St", 
     "Etienne", 
     "Caen", 
     "1876-89"
   ], 
+  "ArtistID": 750, 
+  "Title": "Eglise St. Etienne, Caen", 
   "Department": "Photography", 
   "MoMANumber": "48.1982", 
+  "Date": "1876-89", 
   "ArtistBio": "(French)", 
-  "DateAcquired": "1982-03-11", 
-  "\ufeffTitle": "Eglise St. Etienne, Caen", 
+  "CuratorApproved": "Y", 
   "ObjectID": "44792"
 }

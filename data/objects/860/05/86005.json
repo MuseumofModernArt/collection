@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Ellen Phelan", 
   "URL": "http://www.moma.org/collection/works/86005", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Agnes Gund", 
-  "Date": "2001", 
-  "ArtistID": 4598, 
+  "DateAcquired": "2002-05-13", 
   "Keywords": [
-    "online art collection", 
     "Ellen Phelan", 
     "Light in Far Field", 
     "2001"
   ], 
+  "ArtistID": 4598, 
+  "Title": "Light in Far Field", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "162.2002", 
+  "Date": "2001", 
   "ArtistBio": "(American, born 1943)", 
-  "DateAcquired": "2002-05-13", 
-  "\ufeffTitle": "Light in Far Field", 
+  "CuratorApproved": "Y", 
   "ObjectID": "86005"
 }

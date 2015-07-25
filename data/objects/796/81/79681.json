@@ -4,21 +4,20 @@
   "Classification": "Painting", 
   "Artist": "A.R. Penck (Ralf Winkler)", 
   "URL": "http://www.moma.org/collection/works/79681", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Anne and Sid Bass Fund", 
-  "Date": "1975", 
-  "ArtistID": 4546, 
+  "DateAcquired": "1981-11-17", 
   "Keywords": [
-    "online art collection", 
     "A,R", 
     "Penck (Ralf Winkler)", 
     "Eau de Cologne", 
     "1975"
   ], 
+  "ArtistID": 4546, 
+  "Title": "Eau de Cologne", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "426.1981", 
+  "Date": "1975", 
   "ArtistBio": "(German, born 1939)", 
-  "DateAcquired": "1981-11-17", 
-  "\ufeffTitle": "Eau de Cologne", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79681"
 }

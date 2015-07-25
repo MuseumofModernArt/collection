@@ -4,20 +4,19 @@
   "Classification": "Drawing", 
   "Artist": "Charles Sheeler", 
   "URL": "http://www.moma.org/collection/works/38348", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The Riklis Collection of McCrory Corporation", 
-  "Date": "1949", 
-  "ArtistID": 5383, 
+  "DateAcquired": "1985-09-10", 
   "Keywords": [
-    "online art collection", 
     "Charles Sheeler", 
     "Industrial Architecture", 
     "1949"
   ], 
+  "ArtistID": 5383, 
+  "Title": "Industrial Architecture", 
   "Department": "Drawings", 
   "MoMANumber": "957.1983", 
+  "Date": "1949", 
   "ArtistBio": "(American, 1883\u20131965)", 
-  "DateAcquired": "1985-09-10", 
-  "\ufeffTitle": "Industrial Architecture", 
+  "CuratorApproved": "Y", 
   "ObjectID": "38348"
 }

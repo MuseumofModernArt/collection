@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Lee Bontecou", 
   "URL": "http://www.moma.org/collection/works/81442", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Kay Sage Tanguy Fund", 
-  "Date": "1961", 
-  "ArtistID": 670, 
+  "DateAcquired": "1963-10-08", 
   "Keywords": [
-    "online art collection", 
     "Lee Bontecou", 
     "Untitled", 
     "1961"
   ], 
+  "ArtistID": 670, 
+  "Title": "Untitled", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "398.1963", 
+  "Date": "1961", 
   "ArtistBio": "(American, born 1931)", 
-  "DateAcquired": "1963-10-08", 
-  "\ufeffTitle": "Untitled", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81442"
 }

@@ -4,21 +4,20 @@
   "Classification": "Painting", 
   "Artist": "Maurice de Vlaminck", 
   "URL": "http://www.moma.org/collection/works/78715", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Nate B. and Frances Spingold", 
-  "Date": "c. 1905", 
-  "ArtistID": 6177, 
+  "DateAcquired": "1973-10-09", 
   "Keywords": [
-    "online art collection", 
     "Maurice de Vlaminck", 
     "Autumn Landscape", 
     "c", 
     "1905"
   ], 
+  "ArtistID": 6177, 
+  "Title": "Autumn Landscape", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "80.1958", 
+  "Date": "c. 1905", 
   "ArtistBio": "(French, 1876\u20131958)", 
-  "DateAcquired": "1973-10-09", 
-  "\ufeffTitle": "Autumn Landscape", 
+  "CuratorApproved": "Y", 
   "ObjectID": "78715"
 }

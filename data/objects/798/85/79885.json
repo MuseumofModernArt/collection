@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Andy Warhol", 
   "URL": "http://www.moma.org/collection/works/79885", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Philip Johnson", 
-  "Date": "1962", 
-  "ArtistID": 6246, 
+  "DateAcquired": "1998-06-11", 
   "Keywords": [
-    "online art collection", 
     "Andy Warhol", 
     "S&H Green Stamps", 
     "1962"
   ], 
+  "ArtistID": 6246, 
+  "Title": "S&H Green Stamps", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "512.1998", 
+  "Date": "1962", 
   "ArtistBio": "(American, 1928\u20131987)", 
-  "DateAcquired": "1998-06-11", 
-  "\ufeffTitle": "S&H Green Stamps", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79885"
 }

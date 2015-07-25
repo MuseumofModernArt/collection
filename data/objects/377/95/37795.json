@@ -4,21 +4,20 @@
   "Classification": "Drawing", 
   "Artist": "Pablo Picasso", 
   "URL": "http://www.moma.org/collection/works/37795", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Justin K. Thannhauser", 
-  "Date": "(Winter 1909)", 
-  "ArtistID": 4609, 
+  "DateAcquired": "1949-11-22", 
   "Keywords": [
-    "online art collection", 
     "Pablo Picasso", 
     "Casket", 
     "Cup and Apple", 
     "(Winter 1909)"
   ], 
+  "ArtistID": 4609, 
+  "Title": "Casket, Cup and Apple", 
   "Department": "Drawings", 
   "MoMANumber": "691.1949", 
+  "Date": "(Winter 1909)", 
   "ArtistBio": "(Spanish, 1881\u20131973)", 
-  "DateAcquired": "1949-11-22", 
-  "\ufeffTitle": "Casket, Cup and Apple", 
+  "CuratorApproved": "Y", 
   "ObjectID": "37795"
 }

@@ -4,21 +4,20 @@
   "Classification": "Film", 
   "Artist": "Hans Richter", 
   "URL": "http://www.moma.org/collection/works/91477", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Film in the permanent collection of The Museum of Modern Art, New York", 
-  "Date": "1921", 
-  "ArtistID": 4908, 
+  "DateAcquired": "", 
   "Keywords": [
-    "online art collection", 
     "Hans Richter", 
     "Rhythmus 21", 
     "Germany", 
     "1921"
   ], 
+  "ArtistID": 4908, 
+  "Title": "Rhythmus 21", 
   "Department": "Film", 
   "MoMANumber": "2532", 
+  "Date": "1921", 
   "ArtistBio": "(American, born Germany. 1888\u20131976)", 
-  "DateAcquired": "", 
-  "\ufeffTitle": "Rhythmus 21", 
+  "CuratorApproved": "Y", 
   "ObjectID": "91477"
 }

@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Richard Janthur", 
   "URL": "http://www.moma.org/collection/works/72730", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Given anonymously", 
-  "Date": "1913", 
-  "ArtistID": 2888, 
+  "DateAcquired": "1943-11-04", 
   "Keywords": [
-    "online art collection", 
     "Richard Janthur", 
     "The Storm (Der Sturm)", 
     "1913"
   ], 
+  "ArtistID": 2888, 
+  "Title": "The Storm (Der Sturm)", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "659.1943", 
+  "Date": "1913", 
   "ArtistBio": "(German, 1883\u20131956)", 
-  "DateAcquired": "1943-11-04", 
-  "\ufeffTitle": "The Storm (Der Sturm)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "72730"
 }

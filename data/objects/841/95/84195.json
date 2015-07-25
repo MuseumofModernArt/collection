@@ -4,21 +4,20 @@
   "Classification": "Sculpture", 
   "Artist": "Frank Stella", 
   "URL": "http://www.moma.org/collection/works/84195", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Partial and promised gift of UBS", 
-  "Date": "1988", 
-  "ArtistID": 5640, 
+  "DateAcquired": "2002-04-08", 
   "Keywords": [
-    "online art collection", 
     "Frank Stella", 
     "The Wheelbarrow (B #3", 
     "2X)", 
     "1988"
   ], 
+  "ArtistID": 5640, 
+  "Title": "The Wheelbarrow (B #3, 2X)", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "111.2002.a-c", 
+  "Date": "1988", 
   "ArtistBio": "(American, born 1936)", 
-  "DateAcquired": "2002-04-08", 
-  "\ufeffTitle": "The Wheelbarrow (B #3, 2X)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "84195"
 }

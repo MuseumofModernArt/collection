@@ -4,21 +4,20 @@
   "Classification": "Photograph", 
   "Artist": "Nicholas Nixon", 
   "URL": "http://www.moma.org/collection/works/57543", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Joseph G. Mayer Fund", 
-  "Date": "1979", 
-  "ArtistID": 4315, 
+  "DateAcquired": "1979-10-11", 
   "Keywords": [
-    "online art collection", 
     "Nicholas Nixon", 
     "West Roxbury", 
     "Massachusetts", 
     "1979"
   ], 
+  "ArtistID": 4315, 
+  "Title": "West Roxbury, Massachusetts", 
   "Department": "Photography", 
   "MoMANumber": "1021.1979", 
+  "Date": "1979", 
   "ArtistBio": "(American, born 1947)", 
-  "DateAcquired": "1979-10-11", 
-  "\ufeffTitle": "West Roxbury, Massachusetts", 
+  "CuratorApproved": "Y", 
   "ObjectID": "57543"
 }

@@ -4,21 +4,20 @@
   "Classification": "Drawing", 
   "Artist": "Marc Chagall", 
   "URL": "http://www.moma.org/collection/works/85024", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Acquired through the Lillie P. Bliss Bequest", 
-  "Date": "(1942)", 
-  "ArtistID": 1055, 
+  "DateAcquired": "1945-04-26", 
   "Keywords": [
-    "online art collection", 
     "Marc Chagall", 
     "A Peasant", 
     "costume design for Aleko (Scene III)", 
     "(1942)"
   ], 
+  "ArtistID": 1055, 
+  "Title": "A Peasant, costume design for Aleko (Scene III)", 
   "Department": "Drawings", 
   "MoMANumber": "137.1945.24", 
+  "Date": "(1942)", 
   "ArtistBio": "(French, born Belarus. 1887\u20131985)", 
-  "DateAcquired": "1945-04-26", 
-  "\ufeffTitle": "A Peasant, costume design for Aleko (Scene III)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "85024"
 }

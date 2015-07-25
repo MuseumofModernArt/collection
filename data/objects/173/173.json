@@ -4,12 +4,9 @@
   "Classification": "A&D Architectural Drawing", 
   "Artist": "Steven Holl", 
   "URL": "http://www.moma.org/collection/works/173", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Kenneth Walker Fund", 
-  "Date": "1985", 
-  "ArtistID": 2702, 
+  "DateAcquired": "1989-05-16", 
   "Keywords": [
-    "online art collection", 
     "Steven Holl", 
     "Berkowitz House", 
     "Martha's Vineyard", 
@@ -17,10 +14,12 @@
     "Exterior perspective", 
     "1985"
   ], 
+  "ArtistID": 2702, 
+  "Title": "Berkowitz House, Martha's Vineyard, Massachusetts, Exterior perspective", 
   "Department": "Architecture & Design", 
   "MoMANumber": "88.1989", 
+  "Date": "1985", 
   "ArtistBio": "(American, born 1947)", 
-  "DateAcquired": "1989-05-16", 
-  "\ufeffTitle": "Berkowitz House, Martha's Vineyard, Massachusetts, Exterior perspective", 
+  "CuratorApproved": "Y", 
   "ObjectID": "173"
 }

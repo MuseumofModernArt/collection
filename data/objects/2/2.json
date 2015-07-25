@@ -4,12 +4,9 @@
   "Classification": "A&D Architectural Drawing", 
   "Artist": "Otto Wagner", 
   "URL": "http://www.moma.org/collection/works/2", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Fractional and promised gift of Jo Carole and Ronald S. Lauder", 
-  "Date": "1896", 
-  "ArtistID": 6210, 
+  "DateAcquired": "1996-04-09", 
   "Keywords": [
-    "online art collection", 
     "Otto Wagner", 
     "Ferdinandsbr&uuml;cke Project", 
     "Vienna", 
@@ -18,10 +15,12 @@
     "preliminary version", 
     "1896"
   ], 
+  "ArtistID": 6210, 
+  "Title": "Ferdinandsbr\u00fccke Project, Vienna, Austria , Elevation, preliminary version", 
   "Department": "Architecture & Design", 
   "MoMANumber": "885.1996", 
+  "Date": "1896", 
   "ArtistBio": "(Austrian, 1841\u20131918)", 
-  "DateAcquired": "1996-04-09", 
-  "\ufeffTitle": "Ferdinandsbr\u00fccke Project, Vienna, Austria , Elevation, preliminary version", 
+  "CuratorApproved": "Y", 
   "ObjectID": "2"
 }

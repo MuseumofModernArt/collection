@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Wilhelm Lehmbruck", 
   "URL": "http://www.moma.org/collection/works/81919", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Nelson A. Rockefeller Bequest", 
-  "Date": "Paris 1913", 
-  "ArtistID": 3464, 
+  "DateAcquired": "1979-10-09", 
   "Keywords": [
-    "online art collection", 
     "Wilhelm Lehmbruck", 
     "Dancer", 
     "Paris 1913"
   ], 
+  "ArtistID": 3464, 
+  "Title": "Dancer", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "960.1979", 
+  "Date": "Paris 1913", 
   "ArtistBio": "(German, 1881\u20131919)", 
-  "DateAcquired": "1979-10-09", 
-  "\ufeffTitle": "Dancer", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81919"
 }

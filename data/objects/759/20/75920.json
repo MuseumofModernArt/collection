@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Edvard Munch", 
   "URL": "http://www.moma.org/collection/works/75920", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1896", 
-  "ArtistID": 4164, 
+  "DateAcquired": "1968-10-10", 
   "Keywords": [
-    "online art collection", 
     "Edvard Munch", 
     "The Urn", 
     "(1896)"
   ], 
+  "ArtistID": 4164, 
+  "Title": "The Urn (Urnen)", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "1175.1968", 
+  "Date": "1896", 
   "ArtistBio": "(Norwegian, 1863\u20131944)", 
-  "DateAcquired": "1968-10-10", 
-  "\ufeffTitle": "The Urn (Urnen)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "75920"
 }

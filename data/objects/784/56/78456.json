@@ -4,21 +4,20 @@
   "Classification": "Painting", 
   "Artist": "Ren\u00e9 Magritte", 
   "URL": "http://www.moma.org/collection/works/78456", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of D. and J. de Menil", 
-  "Date": "1950", 
-  "ArtistID": 3692, 
+  "DateAcquired": "1951-01-30", 
   "Keywords": [
-    "online art collection", 
     "Ren&eacute; Magritte", 
     "The Empire of Light", 
     "II", 
     "1950"
   ], 
+  "ArtistID": 3692, 
+  "Title": "The Empire of Light, II", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "16.1951", 
+  "Date": "1950", 
   "ArtistBio": "(Belgian, 1898\u20131967)", 
-  "DateAcquired": "1951-01-30", 
-  "\ufeffTitle": "The Empire of Light, II", 
+  "CuratorApproved": "Y", 
   "ObjectID": "78456"
 }

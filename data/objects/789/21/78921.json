@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Andy Warhol", 
   "URL": "http://www.moma.org/collection/works/78921", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of David Geffen", 
-  "Date": "1961", 
-  "ArtistID": 6246, 
+  "DateAcquired": "1995-05-08", 
   "Keywords": [
-    "online art collection", 
     "Andy Warhol", 
     "Before and After", 
     "1961"
   ], 
+  "ArtistID": 6246, 
+  "Title": "Before and After", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "128.1995", 
+  "Date": "1961", 
   "ArtistBio": "(American, 1928\u20131987)", 
-  "DateAcquired": "1995-05-08", 
-  "\ufeffTitle": "Before and After", 
+  "CuratorApproved": "Y", 
   "ObjectID": "78921"
 }

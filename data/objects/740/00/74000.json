@@ -4,22 +4,21 @@
   "Classification": "Print", 
   "Artist": "Pablo Picasso", 
   "URL": "http://www.moma.org/collection/works/74000", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Mrs. Bertram Smith Fund", 
-  "Date": "March 30, 1947", 
-  "ArtistID": 4609, 
+  "DateAcquired": "1956-12-19", 
   "Keywords": [
-    "online art collection", 
     "Pablo Picasso", 
     "David and Bathsheba (After Lucas Cranach)", 
     "state I", 
     "March 30", 
     "1947"
   ], 
+  "ArtistID": 4609, 
+  "Title": "David and Bathsheba (After Lucas Cranach), state I", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "776.1956", 
+  "Date": "March 30, 1947", 
   "ArtistBio": "(Spanish, 1881\u20131973)", 
-  "DateAcquired": "1956-12-19", 
-  "\ufeffTitle": "David and Bathsheba (After Lucas Cranach), state I", 
+  "CuratorApproved": "Y", 
   "ObjectID": "74000"
 }

@@ -4,22 +4,21 @@
   "Classification": "A&D Graphic Design", 
   "Artist": "A. M. Cassandre", 
   "URL": "http://www.moma.org/collection/works/6091", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Given anonymously", 
-  "Date": "1935", 
-  "ArtistID": 1015, 
+  "DateAcquired": "1935-11-12", 
   "Keywords": [
-    "online art collection", 
     "A", 
     "M", 
     "Cassandre", 
     "Normandie", 
     "1935"
   ], 
+  "ArtistID": 1015, 
+  "Title": "Normandie", 
   "Department": "Architecture & Design", 
   "MoMANumber": "288.1935", 
+  "Date": "1935", 
   "ArtistBio": "(French, 1901\u20131968)", 
-  "DateAcquired": "1935-11-12", 
-  "\ufeffTitle": "Normandie", 
+  "CuratorApproved": "Y", 
   "ObjectID": "6091"
 }

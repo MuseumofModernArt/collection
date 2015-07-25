@@ -4,22 +4,21 @@
   "Classification": "Painting", 
   "Artist": "Vasily Kandinsky", 
   "URL": "http://www.moma.org/collection/works/79450", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Nelson A. Rockefeller Fund (by exchange)", 
-  "Date": "1914", 
-  "ArtistID": 2981, 
+  "DateAcquired": "1983-02-14", 
   "Keywords": [
-    "online art collection", 
     "Vasily Kandinsky", 
     "Panel for Edwin R", 
     "Campbell No", 
     "2", 
     "1914"
   ], 
+  "ArtistID": 2981, 
+  "Title": "Panel for Edwin R. Campbell No. 2", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "298.1983", 
+  "Date": "1914", 
   "ArtistBio": "(French, born Russia. 1866\u20131944)", 
-  "DateAcquired": "1983-02-14", 
-  "\ufeffTitle": "Panel for Edwin R. Campbell No. 2", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79450"
 }

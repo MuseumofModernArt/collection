@@ -4,20 +4,19 @@
   "Classification": "Drawing", 
   "Artist": "Lyonel Feininger", 
   "URL": "http://www.moma.org/collection/works/34488", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Julia Feininger", 
-  "Date": "1918", 
-  "ArtistID": 1832, 
+  "DateAcquired": "1966-02-08", 
   "Keywords": [
-    "online art collection", 
     "Lyonel Feininger", 
     "The Rainbow (Der Regenbogen)", 
     "1918"
   ], 
+  "ArtistID": 1832, 
+  "Title": "The Rainbow (Der Regenbogen)", 
   "Department": "Drawings", 
   "MoMANumber": "128.1966", 
+  "Date": "1918", 
   "ArtistBio": "(American, 1871\u20131956)", 
-  "DateAcquired": "1966-02-08", 
-  "\ufeffTitle": "The Rainbow (Der Regenbogen)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "34488"
 }

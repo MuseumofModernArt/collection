@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Henri de Toulouse-Lautrec", 
   "URL": "http://www.moma.org/collection/works/63040", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Abby Aldrich Rockefeller", 
-  "Date": "1896", 
-  "ArtistID": 5910, 
+  "DateAcquired": "1946-07-11", 
   "Keywords": [
-    "online art collection", 
     "Henri de Toulouse-Lautrec", 
     "Dinner in London (Souper &agrave; Londres)", 
     "1896"
   ], 
+  "ArtistID": 5910, 
+  "Title": "Supper in London (Souper \u00e0 Londres)", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "154.1946", 
+  "Date": "1896", 
   "ArtistBio": "(French, 1864\u20131901)", 
-  "DateAcquired": "1946-07-11", 
-  "\ufeffTitle": "Supper in London (Souper \u00e0 Londres)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "63040"
 }

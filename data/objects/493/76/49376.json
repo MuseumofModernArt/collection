@@ -4,21 +4,20 @@
   "Classification": "Photograph", 
   "Artist": "Harry Callahan", 
   "URL": "http://www.moma.org/collection/works/49376", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Acquired with matching funds from Shirley C. Burden and the National Endowment for the Arts", 
-  "Date": "1957", 
-  "ArtistID": 924, 
+  "DateAcquired": "1977-06-09", 
   "Keywords": [
-    "online art collection", 
     "Harry Callahan", 
     "Collage", 
     "Chicago", 
     "1957"
   ], 
+  "ArtistID": 924, 
+  "Title": "Collage, Chicago", 
   "Department": "Photography", 
   "MoMANumber": "239.1977", 
+  "Date": "1957", 
   "ArtistBio": "(American, 1912\u20131999)", 
-  "DateAcquired": "1977-06-09", 
-  "\ufeffTitle": "Collage, Chicago", 
+  "CuratorApproved": "Y", 
   "ObjectID": "49376"
 }

@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Melvin Edwards", 
   "URL": "http://www.moma.org/collection/works/81194", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1986", 
-  "ArtistID": 1685, 
+  "DateAcquired": "1990-05-07", 
   "Keywords": [
-    "online art collection", 
     "Melvin Edwards", 
     "Katutura from the Lynch Fragment series", 
     "1986"
   ], 
+  "ArtistID": 1685, 
+  "Title": "Katutura from the Lynch Fragment series", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "242.1990", 
+  "Date": "1986", 
   "ArtistBio": "(American, born 1937)", 
-  "DateAcquired": "1990-05-07", 
-  "\ufeffTitle": "Katutura from the Lynch Fragment series", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81194"
 }

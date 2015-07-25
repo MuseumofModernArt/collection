@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Josef Albers", 
   "URL": "http://www.moma.org/collection/works/80192", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Mary Sisler Bequest", 
-  "Date": "1958", 
-  "ArtistID": 97, 
+  "DateAcquired": "1990-12-10", 
   "Keywords": [
-    "online art collection", 
     "Josef Albers", 
     "Homage to the Square: Two Whites Between Two Yellows", 
     "1958"
   ], 
+  "ArtistID": 97, 
+  "Title": "Homage to the Square: Two Whites Between Two Yellows", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "651.1990", 
+  "Date": "1958", 
   "ArtistBio": "(American, born Germany. 1888\u20131976)", 
-  "DateAcquired": "1990-12-10", 
-  "\ufeffTitle": "Homage to the Square: Two Whites Between Two Yellows", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80192"
 }

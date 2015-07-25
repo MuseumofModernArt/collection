@@ -4,22 +4,21 @@
   "Classification": "Photograph", 
   "Artist": "Lee Friedlander", 
   "URL": "http://www.moma.org/collection/works/56305", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1975", 
-  "ArtistID": 2002, 
+  "DateAcquired": "2000-10-12", 
   "Keywords": [
-    "online art collection", 
     "Lee Friedlander", 
     "In Memory of Tom Mix", 
     "Near Florence", 
     "Arizona", 
     "1975"
   ], 
+  "ArtistID": 2002, 
+  "Title": "In Memory of Tom Mix. Near Florence, Arizona", 
   "Department": "Photography", 
   "MoMANumber": "738.2000", 
+  "Date": "1975", 
   "ArtistBio": "(American, born 1934)", 
-  "DateAcquired": "2000-10-12", 
-  "\ufeffTitle": "In Memory of Tom Mix. Near Florence, Arizona", 
+  "CuratorApproved": "Y", 
   "ObjectID": "56305"
 }

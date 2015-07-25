@@ -4,12 +4,9 @@
   "Classification": "A&D Architectural Drawing", 
   "Artist": "Michael Graves", 
   "URL": "http://www.moma.org/collection/works/92", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Lily Auchincloss Fund", 
-  "Date": "1978", 
-  "ArtistID": 2308, 
+  "DateAcquired": "1980-01-08", 
   "Keywords": [
-    "online art collection", 
     "Michael Graves", 
     "Fargo-Moorhead Cultural Center Bridge", 
     "project", 
@@ -19,10 +16,12 @@
     "South elevation", 
     "1978"
   ], 
+  "ArtistID": 2308, 
+  "Title": "Fargo-Moorhead Cultural Center Bridge, project, Fargo, North Dakota and Moorhead, Minnesota, South elevation", 
   "Department": "Architecture & Design", 
   "MoMANumber": "24.1980", 
+  "Date": "1978", 
   "ArtistBio": "(American, 1934\u20132015)", 
-  "DateAcquired": "1980-01-08", 
-  "\ufeffTitle": "Fargo-Moorhead Cultural Center Bridge, project, Fargo, North Dakota and Moorhead, Minnesota, South elevation", 
+  "CuratorApproved": "Y", 
   "ObjectID": "92"
 }

@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Sigmar Polke", 
   "URL": "http://www.moma.org/collection/works/79123", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Werner and Elaine Dannheisser", 
-  "Date": "1992", 
-  "ArtistID": 4671, 
+  "DateAcquired": "1996-04-09", 
   "Keywords": [
-    "online art collection", 
     "Sigmar Polke", 
     "The Goat Wagon", 
     "1992"
   ], 
+  "ArtistID": 4671, 
+  "Title": "The Goat Wagon", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "200.1996", 
+  "Date": "1992", 
   "ArtistBio": "(German, 1941\u20132010)", 
-  "DateAcquired": "1996-04-09", 
-  "\ufeffTitle": "The Goat Wagon", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79123"
 }

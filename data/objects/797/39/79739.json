@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Ellsworth Kelly", 
   "URL": "http://www.moma.org/collection/works/79739", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Mrs. John Hay Whitney Bequest and The Sidney and Harriet Janis Collection (both by exchange), and gift of Irving Blum", 
-  "Date": "1967", 
-  "ArtistID": 3048, 
+  "DateAcquired": "1999-10-12", 
   "Keywords": [
-    "online art collection", 
     "Ellsworth Kelly", 
     "Spectrum IV", 
     "1967"
   ], 
+  "ArtistID": 3048, 
+  "Title": "Spectrum IV", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "319.1999.a-m", 
+  "Date": "1967", 
   "ArtistBio": "(American, born 1923)", 
-  "DateAcquired": "1999-10-12", 
-  "\ufeffTitle": "Spectrum IV", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79739"
 }

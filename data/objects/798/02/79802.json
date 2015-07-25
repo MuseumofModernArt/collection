@@ -4,21 +4,20 @@
   "Classification": "Painting", 
   "Artist": "Vincent van Gogh", 
   "URL": "http://www.moma.org/collection/works/79802", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Acquired through the Lillie P. Bliss Bequest", 
-  "Date": "Saint R\u00e9my, June 1889", 
-  "ArtistID": 2206, 
+  "DateAcquired": "1941-06-10", 
   "Keywords": [
-    "online art collection", 
     "Vincent van Gogh", 
     "The Starry Night", 
     "Saint R&eacute;my", 
     "June 1889"
   ], 
+  "ArtistID": 2206, 
+  "Title": "The Starry Night", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "472.1941", 
+  "Date": "Saint R\u00e9my, June 1889", 
   "ArtistBio": "(Dutch, 1853\u20131890)", 
-  "DateAcquired": "1941-06-10", 
-  "\ufeffTitle": "The Starry Night", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79802"
 }

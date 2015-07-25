@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Billy Al Bengston", 
   "URL": "http://www.moma.org/collection/works/80129", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Larry Aldrich Foundation Fund", 
-  "Date": "1961", 
-  "ArtistID": 472, 
+  "DateAcquired": "1965-10-07", 
   "Keywords": [
-    "online art collection", 
     "Billy Al Bengston", 
     "Gregory", 
     "1961"
   ], 
+  "ArtistID": 472, 
+  "Title": "Gregory", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "628.1965", 
+  "Date": "1961", 
   "ArtistBio": "(American, born 1934)", 
-  "DateAcquired": "1965-10-07", 
-  "\ufeffTitle": "Gregory", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80129"
 }

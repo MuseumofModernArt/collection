@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Josef Albers", 
   "URL": "http://www.moma.org/collection/works/80216", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The Sidney and Harriet Janis Collection", 
-  "Date": "fall 1967", 
-  "ArtistID": 97, 
+  "DateAcquired": "1967-10-18", 
   "Keywords": [
-    "online art collection", 
     "Josef Albers", 
     "Homage to the Square: Broad Call", 
     "fall 1967"
   ], 
+  "ArtistID": 97, 
+  "Title": "Homage to the Square: Broad Call", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "664.1967", 
+  "Date": "fall 1967", 
   "ArtistBio": "(American, born Germany. 1888\u20131976)", 
-  "DateAcquired": "1967-10-18", 
-  "\ufeffTitle": "Homage to the Square: Broad Call", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80216"
 }

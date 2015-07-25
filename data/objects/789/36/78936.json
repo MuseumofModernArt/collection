@@ -4,21 +4,20 @@
   "Classification": "Painting", 
   "Artist": "Robert Motherwell", 
   "URL": "http://www.moma.org/collection/works/78936", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Given anonymously", 
-  "Date": "1957-61", 
-  "ArtistID": 4126, 
+  "DateAcquired": "1961-05-16", 
   "Keywords": [
-    "online art collection", 
     "Robert Motherwell", 
     "Elegy to the Spanish Republic", 
     "54", 
     "1957-61"
   ], 
+  "ArtistID": 4126, 
+  "Title": "Elegy to the Spanish Republic, 54", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "132.1961", 
+  "Date": "1957-61", 
   "ArtistBio": "(American, 1915\u20131991)", 
-  "DateAcquired": "1961-05-16", 
-  "\ufeffTitle": "Elegy to the Spanish Republic, 54", 
+  "CuratorApproved": "Y", 
   "ObjectID": "78936"
 }

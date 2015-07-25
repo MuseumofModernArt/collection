@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Max Beckmann", 
   "URL": "http://www.moma.org/collection/works/70149", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Given anonymously (by exchange)", 
-  "Date": "(1914)", 
-  "ArtistID": 429, 
+  "DateAcquired": "1954-09-30", 
   "Keywords": [
-    "online art collection", 
     "Max Beckmann", 
     "Fallen Soldiers (Gefallene Soldaten)", 
     "(1914)"
   ], 
+  "ArtistID": 429, 
+  "Title": "Fallen Soldiers (Gefallene Soldaten)", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "498.1954", 
+  "Date": "(1914)", 
   "ArtistBio": "(German, 1884\u20131950)", 
-  "DateAcquired": "1954-09-30", 
-  "\ufeffTitle": "Fallen Soldiers (Gefallene Soldaten)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "70149"
 }

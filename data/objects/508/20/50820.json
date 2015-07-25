@@ -4,21 +4,20 @@
   "Classification": "Photograph", 
   "Artist": "Unknown photographer", 
   "URL": "http://www.moma.org/collection/works/50820", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of David Garfinkel", 
-  "Date": "c. 1910", 
-  "ArtistID": 6028, 
+  "DateAcquired": "1990-06-07", 
   "Keywords": [
-    "online art collection", 
     "Unknown Photographer", 
     "Wall Back of Upshaw Road", 
     "c", 
     "1910"
   ], 
+  "ArtistID": 6028, 
+  "Title": "Wall Back of Upshaw Road", 
   "Department": "Photography", 
   "MoMANumber": "325.1990", 
+  "Date": "c. 1910", 
   "ArtistBio": "", 
-  "DateAcquired": "1990-06-07", 
-  "\ufeffTitle": "Wall Back of Upshaw Road", 
+  "CuratorApproved": "Y", 
   "ObjectID": "50820"
 }

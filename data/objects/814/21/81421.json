@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Jenny Holzer", 
   "URL": "http://www.moma.org/collection/works/81421", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Given anonymously", 
-  "Date": "1986", 
-  "ArtistID": 2714, 
+  "DateAcquired": "1986-12-08", 
   "Keywords": [
-    "online art collection", 
     "Jenny Holzer", 
     "Electric Sign", 
     "1986"
   ], 
+  "ArtistID": 2714, 
+  "Title": "Electric Sign", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "387.1986", 
+  "Date": "1986", 
   "ArtistBio": "(American, born 1950)", 
-  "DateAcquired": "1986-12-08", 
-  "\ufeffTitle": "Electric Sign", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81421"
 }

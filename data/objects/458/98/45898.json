@@ -4,21 +4,20 @@
   "Classification": "Photograph", 
   "Artist": "Unknown photographer", 
   "URL": "http://www.moma.org/collection/works/45898", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the Times Wide World Photos", 
-  "Date": "1936", 
-  "ArtistID": 6028, 
+  "DateAcquired": "1941-01-16", 
   "Keywords": [
-    "online art collection", 
     "Unknown Photographer", 
     "Construction of the Triborough Bridge", 
     "N,Y", 
     "1936"
   ], 
+  "ArtistID": 6028, 
+  "Title": "Construction of the Triborough Bridge, N.Y.", 
   "Department": "Photography", 
   "MoMANumber": "84.1941", 
+  "Date": "1936", 
   "ArtistBio": "", 
-  "DateAcquired": "1941-01-16", 
-  "\ufeffTitle": "Construction of the Triborough Bridge, N.Y.", 
+  "CuratorApproved": "Y", 
   "ObjectID": "45898"
 }

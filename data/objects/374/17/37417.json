@@ -4,20 +4,19 @@
   "Classification": "Drawing", 
   "Artist": "Christian Rohlfs", 
   "URL": "http://www.moma.org/collection/works/37417", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Mr. and Mrs. Eugene Victor Thaw", 
-  "Date": "1916", 
-  "ArtistID": 5000, 
+  "DateAcquired": "1956-12-19", 
   "Keywords": [
-    "online art collection", 
     "Christian Rohlfs", 
     "Blue Fan Dancer", 
     "1916"
   ], 
+  "ArtistID": 5000, 
+  "Title": "Blue Fan Dancer", 
   "Department": "Drawings", 
   "MoMANumber": "582.1956", 
+  "Date": "1916", 
   "ArtistBio": "(German, 1849\u20131938)", 
-  "DateAcquired": "1956-12-19", 
-  "\ufeffTitle": "Blue Fan Dancer", 
+  "CuratorApproved": "Y", 
   "ObjectID": "37417"
 }

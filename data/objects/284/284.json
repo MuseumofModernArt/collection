@@ -4,12 +4,9 @@
   "Classification": "A&D Architectural Drawing", 
   "Artist": "Frank Lloyd Wright", 
   "URL": "http://www.moma.org/collection/works/284", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Mr. and Mrs. Walter Hochschild", 
-  "Date": "1923", 
-  "ArtistID": 6459, 
+  "DateAcquired": "1981-04-30", 
   "Keywords": [
-    "online art collection", 
     "Frank Lloyd Wright", 
     "La Miniatura", 
     "Mrs", 
@@ -19,10 +16,12 @@
     "Plan of first floor", 
     "1923"
   ], 
+  "ArtistID": 6459, 
+  "Title": "La Miniatura, Mrs. George Madison Millard House , Pasadena, California , Plan of first floor", 
   "Department": "Architecture & Design", 
   "MoMANumber": "241.1981", 
+  "Date": "1923", 
   "ArtistBio": "(American, 1867\u20131959)", 
-  "DateAcquired": "1981-04-30", 
-  "\ufeffTitle": "La Miniatura, Mrs. George Madison Millard House , Pasadena, California , Plan of first floor", 
+  "CuratorApproved": "Y", 
   "ObjectID": "284"
 }

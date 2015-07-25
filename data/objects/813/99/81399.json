@@ -4,21 +4,20 @@
   "Classification": "Sculpture", 
   "Artist": "Victor Brauner", 
   "URL": "http://www.moma.org/collection/works/81399", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Mrs. Katharine Kuh", 
-  "Date": "August 29, 1947", 
-  "ArtistID": 751, 
+  "DateAcquired": "1961-12-13", 
   "Keywords": [
-    "online art collection", 
     "Victor Brauner", 
     "\"Roy = Les contraires trouve l'homme = Lire - M&eacute;lancholie du Bien\"", 
     "August 29", 
     "1947"
   ], 
+  "ArtistID": 751, 
+  "Title": "\"Roy = Les contraires trouve l'homme = Lire - M\u00e9lancholie du Bien\"", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "372.1961", 
+  "Date": "August 29, 1947", 
   "ArtistBio": "(Romanian, 1903\u20131966)", 
-  "DateAcquired": "1961-12-13", 
-  "\ufeffTitle": "\"Roy = Les contraires trouve l'homme = Lire - M\u00e9lancholie du Bien\"", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81399"
 }

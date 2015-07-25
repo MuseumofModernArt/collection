@@ -4,12 +4,9 @@
   "Classification": "A&D Architectural Drawing", 
   "Artist": "Zaha Hadid", 
   "URL": "http://www.moma.org/collection/works/374", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the architect in honor of Philip Johnson", 
-  "Date": "1982-83", 
-  "ArtistID": 6953, 
+  "DateAcquired": "1996-09-25", 
   "Keywords": [
-    "online art collection", 
     "Zaha Hadid", 
     "Parc de la Villette Project", 
     "Paris", 
@@ -17,10 +14,12 @@
     "Exercise Strip", 
     "1982-83"
   ], 
+  "ArtistID": 6953, 
+  "Title": "Parc de la Villette Project, Paris, France, Exercise Strip", 
   "Department": "Architecture & Design", 
   "MoMANumber": "357.1996.18", 
+  "Date": "1982-83", 
   "ArtistBio": "(British, born Iraq 1950)", 
-  "DateAcquired": "1996-09-25", 
-  "\ufeffTitle": "Parc de la Villette Project, Paris, France, Exercise Strip", 
+  "CuratorApproved": "Y", 
   "ObjectID": "374"
 }

@@ -4,21 +4,20 @@
   "Classification": "Photograph", 
   "Artist": "Associated Press", 
   "URL": "http://www.moma.org/collection/works/58529", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The New York Times Collection", 
-  "Date": "July 26, 1947", 
-  "ArtistID": 8501, 
+  "DateAcquired": "2001-06-14", 
   "Keywords": [
-    "online art collection", 
     "Associated Press", 
     "\"Dejection\"", 
     "July 26", 
     "1947"
   ], 
+  "ArtistID": 8501, 
+  "Title": "\"Dejection\"", 
   "Department": "Photography", 
   "MoMANumber": "1936.2001", 
+  "Date": "July 26, 1947", 
   "ArtistBio": "", 
-  "DateAcquired": "2001-06-14", 
-  "\ufeffTitle": "\"Dejection\"", 
+  "CuratorApproved": "Y", 
   "ObjectID": "58529"
 }

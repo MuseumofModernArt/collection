@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Wolfgang Laib", 
   "URL": "http://www.moma.org/collection/works/100286", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Edward R. Broida", 
-  "Date": "1988", 
-  "ArtistID": 3342, 
+  "DateAcquired": "2005-10-06", 
   "Keywords": [
-    "online art collection", 
     "Wolfgang Laib", 
     "Rice House", 
     "1988"
   ], 
+  "ArtistID": 3342, 
+  "Title": "Rice House", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "747.2005", 
+  "Date": "1988", 
   "ArtistBio": "(German, born 1950)", 
-  "DateAcquired": "2005-10-06", 
-  "\ufeffTitle": "Rice House", 
+  "CuratorApproved": "Y", 
   "ObjectID": "100286"
 }

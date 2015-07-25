@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Antoine Pevsner", 
   "URL": "http://www.moma.org/collection/works/80820", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1942", 
-  "ArtistID": 4591, 
+  "DateAcquired": "1950-01-06", 
   "Keywords": [
-    "online art collection", 
     "Antoine Pevsner", 
     "Developable Column", 
     "1942"
   ], 
+  "ArtistID": 4591, 
+  "Title": "Developable Column", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "15.1950", 
+  "Date": "1942", 
   "ArtistBio": "(French, 1886\u20131962)", 
-  "DateAcquired": "1950-01-06", 
-  "\ufeffTitle": "Developable Column", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80820"
 }

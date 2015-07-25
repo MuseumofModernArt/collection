@@ -4,12 +4,9 @@
   "Classification": "Photograph", 
   "Artist": "Judith Joy Ross", 
   "URL": "http://www.moma.org/collection/works/51155", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Patricia Lawrence", 
-  "Date": "1993", 
-  "ArtistID": 5030, 
+  "DateAcquired": "1993-10-14", 
   "Keywords": [
-    "online art collection", 
     "Judith Joy Ross", 
     "Student", 
     "Second Grade", 
@@ -20,10 +17,12 @@
     "Ohio", 
     "1993"
   ], 
+  "ArtistID": 5030, 
+  "Title": "Student, Second Grade, Mrs. Gray's Class, Almira Elementary School, Cleveland, Ohio", 
   "Department": "Photography", 
   "MoMANumber": "337.1993", 
+  "Date": "1993", 
   "ArtistBio": "(American, born 1946)", 
-  "DateAcquired": "1993-10-14", 
-  "\ufeffTitle": "Student, Second Grade, Mrs. Gray's Class, Almira Elementary School, Cleveland, Ohio", 
+  "CuratorApproved": "Y", 
   "ObjectID": "51155"
 }

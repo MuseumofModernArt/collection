@@ -4,21 +4,20 @@
   "Classification": "Photograph", 
   "Artist": "Edme Quenedey", 
   "URL": "http://www.moma.org/collection/works/50818", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Acquired through the generosity of John Parkinson III", 
-  "Date": "1809", 
-  "ArtistID": 4768, 
+  "DateAcquired": "1982-10-28", 
   "Keywords": [
-    "online art collection", 
     "Edme Quenedey", 
     "H", 
     "Berton", 
     "1809"
   ], 
+  "ArtistID": 4768, 
+  "Title": "H. Berton", 
   "Department": "Photography", 
   "MoMANumber": "325.1982", 
+  "Date": "1809", 
   "ArtistBio": "(French)", 
-  "DateAcquired": "1982-10-28", 
-  "\ufeffTitle": "H. Berton", 
+  "CuratorApproved": "Y", 
   "ObjectID": "50818"
 }

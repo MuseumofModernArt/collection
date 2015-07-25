@@ -4,21 +4,20 @@
   "Classification": "Sculpture", 
   "Artist": "Chris Burden", 
   "URL": "http://www.moma.org/collection/works/81807", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Emily and Jerry Spiegel", 
-  "Date": "April 13, 1973", 
-  "ArtistID": 871, 
+  "DateAcquired": "1994-12-06", 
   "Keywords": [
-    "online art collection", 
     "Chris Burden", 
     "Relic from \"Icarus\"", 
     "April 13", 
     "1973"
   ], 
+  "ArtistID": 871, 
+  "Title": "Relic from \"Icarus\"", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "713.1993.a-d", 
+  "Date": "April 13, 1973", 
   "ArtistBio": "(American,1946\u20132015)", 
-  "DateAcquired": "1994-12-06", 
-  "\ufeffTitle": "Relic from \"Icarus\"", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81807"
 }

@@ -4,22 +4,21 @@
   "Classification": "Print", 
   "Artist": "Pablo Picasso", 
   "URL": "http://www.moma.org/collection/works/61594", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Abby Aldrich Rockefeller (by exchange)", 
-  "Date": "September 24, 1945", 
-  "ArtistID": 4609, 
+  "DateAcquired": "1952-05-20", 
   "Keywords": [
-    "online art collection", 
     "Pablo Picasso", 
     "Faun with Flute and Dancer with Maraca and Tambourine (Faune fl&ucirc;tiste et danseuse &agrave; la maraca et au tambourin)", 
     "second state", 
     "September 24", 
     "1945"
   ], 
+  "ArtistID": 4609, 
+  "Title": "Faun with Flute and Dancer with Maraca and Tambourine (Faune fl\u00fbtiste et danseuse \u00e0 la maraca et au tambourin), second state", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "85.1952", 
+  "Date": "September 24, 1945", 
   "ArtistBio": "(Spanish, 1881\u20131973)", 
-  "DateAcquired": "1952-05-20", 
-  "\ufeffTitle": "Faun with Flute and Dancer with Maraca and Tambourine (Faune fl\u00fbtiste et danseuse \u00e0 la maraca et au tambourin), second state", 
+  "CuratorApproved": "Y", 
   "ObjectID": "61594"
 }

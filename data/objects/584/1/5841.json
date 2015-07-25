@@ -4,20 +4,19 @@
   "Classification": "A&D Graphic Design", 
   "Artist": "Pedrero", 
   "URL": "http://www.moma.org/collection/works/5841", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1937", 
-  "ArtistID": 4536, 
+  "DateAcquired": "1937-12-03", 
   "Keywords": [
-    "online art collection", 
     "Pedrero", 
     "El Generalisimo", 
     "1937"
   ], 
+  "ArtistID": 4536, 
+  "Title": "El Generalisimo", 
   "Department": "Architecture & Design", 
   "MoMANumber": "250.1937", 
+  "Date": "1937", 
   "ArtistBio": "(Spanish)", 
-  "DateAcquired": "1937-12-03", 
-  "\ufeffTitle": "El Generalisimo", 
+  "CuratorApproved": "Y", 
   "ObjectID": "5841"
 }

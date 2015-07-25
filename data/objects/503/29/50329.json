@@ -4,21 +4,20 @@
   "Classification": "Photograph", 
   "Artist": "Nicholas Nixon", 
   "URL": "http://www.moma.org/collection/works/50329", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the artist", 
-  "Date": "January 1988", 
-  "ArtistID": 4315, 
+  "DateAcquired": "1988-10-13", 
   "Keywords": [
-    "online art collection", 
     "Nicholas Nixon", 
     "Tom Moran", 
     "Boston", 
     "January 1988"
   ], 
+  "ArtistID": 4315, 
+  "Title": "Tom Moran, Boston", 
   "Department": "Photography", 
   "MoMANumber": "306.1988", 
+  "Date": "January 1988", 
   "ArtistBio": "(American, born 1947)", 
-  "DateAcquired": "1988-10-13", 
-  "\ufeffTitle": "Tom Moran, Boston", 
+  "CuratorApproved": "Y", 
   "ObjectID": "50329"
 }

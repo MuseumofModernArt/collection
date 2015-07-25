@@ -4,22 +4,21 @@
   "Classification": "Painting", 
   "Artist": "Joan Mir\u00f3", 
   "URL": "http://www.moma.org/collection/works/80555", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of James Thrall Soby", 
-  "Date": "Paris, January 24-May 29, 1937", 
-  "ArtistID": 4016, 
+  "DateAcquired": "1970-02-10", 
   "Keywords": [
-    "online art collection", 
     "Joan Mir&oacute;", 
     "Still Life with Old Shoe", 
     "Paris", 
     "January 24-May 29", 
     "1937"
   ], 
+  "ArtistID": 4016, 
+  "Title": "Still Life with Old Shoe", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "1094.1969", 
+  "Date": "Paris, January 24-May 29, 1937", 
   "ArtistBio": "(Spanish, 1893\u20131983)", 
-  "DateAcquired": "1970-02-10", 
-  "\ufeffTitle": "Still Life with Old Shoe", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80555"
 }

@@ -4,12 +4,9 @@
   "Classification": "A&D Architectural Model", 
   "Artist": "Frank Lloyd Wright", 
   "URL": "http://www.moma.org/collection/works/82481", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1906-09", 
-  "ArtistID": 6459, 
+  "DateAcquired": "1938-01-01", 
   "Keywords": [
-    "online art collection", 
     "Frank Lloyd Wright", 
     "Frederick C", 
     "Robie House", 
@@ -17,10 +14,12 @@
     "Illinois", 
     "1906-09"
   ], 
+  "ArtistID": 6459, 
+  "Title": "Frederick C. Robie House, Chicago, Illinois", 
   "Department": "Architecture & Design", 
   "MoMANumber": "MC 10", 
+  "Date": "1906-09", 
   "ArtistBio": "(American, 1867\u20131959)", 
-  "DateAcquired": "1938-01-01", 
-  "\ufeffTitle": "Frederick C. Robie House, Chicago, Illinois", 
+  "CuratorApproved": "Y", 
   "ObjectID": "82481"
 }

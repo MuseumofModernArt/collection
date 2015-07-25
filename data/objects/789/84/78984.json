@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Marc Chagall", 
   "URL": "http://www.moma.org/collection/works/78984", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Mrs. Simon Guggenheim Fund", 
-  "Date": "1911", 
-  "ArtistID": 1055, 
+  "DateAcquired": "1945-06-13", 
   "Keywords": [
-    "online art collection", 
     "Marc Chagall", 
     "I and the Village", 
     "1911"
   ], 
+  "ArtistID": 1055, 
+  "Title": "I and the Village", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "146.1945", 
+  "Date": "1911", 
   "ArtistBio": "(French, born Belarus. 1887\u20131985)", 
-  "DateAcquired": "1945-06-13", 
-  "\ufeffTitle": "I and the Village", 
+  "CuratorApproved": "Y", 
   "ObjectID": "78984"
 }

@@ -4,21 +4,20 @@
   "Classification": "Print", 
   "Artist": "Pablo Picasso", 
   "URL": "http://www.moma.org/collection/works/65512", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of School Prints Ltd., London", 
-  "Date": "(October 7, 1948)", 
-  "ArtistID": 4609, 
+  "DateAcquired": "1950-10-11", 
   "Keywords": [
-    "online art collection", 
     "Pablo Picasso", 
     "Composition", 
     "(October 7", 
     "1948)"
   ], 
+  "ArtistID": 4609, 
+  "Title": "Composition", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "263.1950", 
+  "Date": "(October 7, 1948)", 
   "ArtistBio": "(Spanish, 1881\u20131973)", 
-  "DateAcquired": "1950-10-11", 
-  "\ufeffTitle": "Composition", 
+  "CuratorApproved": "Y", 
   "ObjectID": "65512"
 }

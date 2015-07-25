@@ -4,21 +4,20 @@
   "Classification": "Print", 
   "Artist": "Pablo Picasso", 
   "URL": "http://www.moma.org/collection/works/71194", 
-  "CuratorApproved": "Y", 
   "CreditLine": "A. Conger Goodyear Fund (by exchange)", 
-  "Date": "October 18, 1938", 
-  "ArtistID": 4609, 
+  "DateAcquired": "1983-05-25", 
   "Keywords": [
-    "online art collection", 
     "Pablo Picasso", 
     "Bust of a Seated Woman", 
     "October 18", 
     "1938"
   ], 
+  "ArtistID": 4609, 
+  "Title": "Bust of a Seated Woman", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "564.1983", 
+  "Date": "October 18, 1938", 
   "ArtistBio": "(Spanish, 1881\u20131973)", 
-  "DateAcquired": "1983-05-25", 
-  "\ufeffTitle": "Bust of a Seated Woman", 
+  "CuratorApproved": "Y", 
   "ObjectID": "71194"
 }

@@ -4,12 +4,9 @@
   "Classification": "A&D Graphic Design", 
   "Artist": "Armin Hofmann", 
   "URL": "http://www.moma.org/collection/works/7730", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the artist", 
-  "Date": "1957", 
-  "ArtistID": 2697, 
+  "DateAcquired": "1981-12-10", 
   "Keywords": [
-    "online art collection", 
     "Armin Hofmann", 
     "La Suisse a L'Epoque Romaine", 
     "Exposition", 
@@ -18,10 +15,12 @@
     "Mustermesse Baslerhalle", 
     "1957"
   ], 
+  "ArtistID": 2697, 
+  "Title": "La Suisse a L'Epoque Romaine, Exposition, Les tresors des musees suisses et des collections privees, Bale, Mustermesse Baslerhalle", 
   "Department": "Architecture & Design", 
   "MoMANumber": "609.1981", 
+  "Date": "1957", 
   "ArtistBio": "(Swiss, born 1920)", 
-  "DateAcquired": "1981-12-10", 
-  "\ufeffTitle": "La Suisse a L'Epoque Romaine, Exposition, Les tresors des musees suisses et des collections privees, Bale, Mustermesse Baslerhalle", 
+  "CuratorApproved": "Y", 
   "ObjectID": "7730"
 }

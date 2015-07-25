@@ -4,12 +4,9 @@
   "Classification": "Print", 
   "Artist": "William Scott", 
   "URL": "http://www.moma.org/collection/works/71178", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of The Institute of Contemporary Prints (through Marvin Small, by exchange)", 
-  "Date": "1970", 
-  "ArtistID": 5303, 
+  "DateAcquired": "1976-11-10", 
   "Keywords": [
-    "online art collection", 
     "William Scott", 
     "Cup", 
     "Bowl", 
@@ -17,10 +14,12 @@
     "Browns and Ochres", 
     "1970"
   ], 
+  "ArtistID": 5303, 
+  "Title": "Cup, Bowl, Pan, Browns and Ochres", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "563.1976", 
+  "Date": "1970", 
   "ArtistBio": "(British, 1913\u20131989)", 
-  "DateAcquired": "1976-11-10", 
-  "\ufeffTitle": "Cup, Bowl, Pan, Browns and Ochres", 
+  "CuratorApproved": "Y", 
   "ObjectID": "71178"
 }

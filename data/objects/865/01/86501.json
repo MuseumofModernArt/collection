@@ -4,12 +4,9 @@
   "Classification": "A&D Architectural Drawing", 
   "Artist": "Marcel Breuer", 
   "URL": "http://www.moma.org/collection/works/86501", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Elise Jaffe + Jeffrey Brown", 
-  "Date": "1929", 
-  "ArtistID": 769, 
+  "DateAcquired": "2002-09-17", 
   "Keywords": [
-    "online art collection", 
     "Marcel Breuer", 
     "Potsdamer Platz Project", 
     "Berlin", 
@@ -17,10 +14,12 @@
     "Axonometric", 
     "1929"
   ], 
+  "ArtistID": 769, 
+  "Title": "Potsdamer Platz Project, Berlin, Germany, Axonometric", 
   "Department": "Architecture & Design", 
   "MoMANumber": "246.2002", 
+  "Date": "1929", 
   "ArtistBio": "(American, born Hungary. 1902\u20131981)", 
-  "DateAcquired": "2002-09-17", 
-  "\ufeffTitle": "Potsdamer Platz Project, Berlin, Germany, Axonometric", 
+  "CuratorApproved": "Y", 
   "ObjectID": "86501"
 }

@@ -4,12 +4,9 @@
   "Classification": "A&D Architectural Model", 
   "Artist": "Hans Hollein", 
   "URL": "http://www.moma.org/collection/works/1032", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the architect in honor of Philip Johnson", 
-  "Date": "1994-2002", 
-  "ArtistID": 2705, 
+  "DateAcquired": "1996-09-25", 
   "Keywords": [
-    "online art collection", 
     "Hans Hollein", 
     "Vulcania", 
     "St", 
@@ -18,10 +15,12 @@
     "France", 
     "1994-2002"
   ], 
+  "ArtistID": 2705, 
+  "Title": "Vulcania, St. Ours-les-Roches, Auvergne, France", 
   "Department": "Architecture & Design", 
   "MoMANumber": "411.1996", 
+  "Date": "1994-2002", 
   "ArtistBio": "(Austrian, 1934\u20132014)", 
-  "DateAcquired": "1996-09-25", 
-  "\ufeffTitle": "Vulcania, St. Ours-les-Roches, Auvergne, France", 
+  "CuratorApproved": "Y", 
   "ObjectID": "1032"
 }

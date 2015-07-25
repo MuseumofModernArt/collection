@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Ernst Barlach", 
   "URL": "http://www.moma.org/collection/works/71172", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Transferred from the Museum Library", 
-  "Date": "1912 (prints executed 1910-11)", 
-  "ArtistID": 335, 
+  "DateAcquired": "1949-09-29", 
   "Keywords": [
-    "online art collection", 
     "Ernst Barlach", 
     "The Dead Day (Der tote Tag)", 
     "1912 (prints executed 1910-11)"
   ], 
+  "ArtistID": 335, 
+  "Title": "The Dead Day (Der tote Tag)", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "563.1949.1-26", 
+  "Date": "1912 (prints executed 1910-11)", 
   "ArtistBio": "(German, 1870\u20131938)", 
-  "DateAcquired": "1949-09-29", 
-  "\ufeffTitle": "The Dead Day (Der tote Tag)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "71172"
 }

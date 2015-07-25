@@ -4,12 +4,9 @@
   "Classification": "A&D Architectural Drawing", 
   "Artist": "Ludwig Mies van der Rohe", 
   "URL": "http://www.moma.org/collection/works/256", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Rob Beyer Purchase Fund, Edward Larrabee Barnes Purchase Fund, Marcel Breuer Purchase Fund, and Philip Johnson Purchase Fund", 
-  "Date": "1910", 
-  "ArtistID": 7166, 
+  "DateAcquired": "1998-04-22", 
   "Keywords": [
-    "online art collection", 
     "Ludwig Mies van der Rohe", 
     "Bismarck Monument", 
     "project", 
@@ -18,10 +15,12 @@
     "Perspective view of courtyard", 
     "1910"
   ], 
+  "ArtistID": 7166, 
+  "Title": "Bismarck Monument, project , Bingen, Germany , Perspective view of courtyard", 
   "Department": "Architecture & Design", 
   "MoMANumber": "192.1998", 
+  "Date": "1910", 
   "ArtistBio": "(American, born Germany. 1886\u20131969)", 
-  "DateAcquired": "1998-04-22", 
-  "\ufeffTitle": "Bismarck Monument, project , Bingen, Germany , Perspective view of courtyard", 
+  "CuratorApproved": "Y", 
   "ObjectID": "256"
 }

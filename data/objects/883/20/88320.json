@@ -4,12 +4,9 @@
   "Classification": "A&D Architectural Drawing", 
   "Artist": "Le Corbusier (Charles-\u00c9douard Jeanneret), Pierre Jeanneret", 
   "URL": "http://www.moma.org/collection/works/88320", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Artur Walther Purchase Fund", 
-  "Date": "1929", 
-  "ArtistID": 3426, 
+  "DateAcquired": "2003-10-02", 
   "Keywords": [
-    "online art collection", 
     "Le Corbusier (Charles-&Eacute;douard Jeanneret) and Pierre Jeanneret", 
     "Palace of the League of Nations", 
     "project", 
@@ -19,10 +16,12 @@
     "second scheme", 
     "1929"
   ], 
+  "ArtistID": 3426, 
+  "Title": "Palace of the League of Nations, project, Geneva, Switzerland, Ground floor and site plan, second scheme", 
   "Department": "Architecture & Design", 
   "MoMANumber": "208.2003", 
+  "Date": "1929", 
   "ArtistBio": "(French, born Switzerland. 1887\u20131965) (Swiss, 1896\u20131967)", 
-  "DateAcquired": "2003-10-02", 
-  "\ufeffTitle": "Palace of the League of Nations, project, Geneva, Switzerland, Ground floor and site plan, second scheme", 
+  "CuratorApproved": "Y", 
   "ObjectID": "88320"
 }

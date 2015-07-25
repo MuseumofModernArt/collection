@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Gwen John", 
   "URL": "http://www.moma.org/collection/works/78904", 
-  "CuratorApproved": "Y", 
   "CreditLine": "A. Conger Goodyear Fund", 
-  "Date": "1909-10?", 
-  "ArtistID": 2921, 
+  "DateAcquired": "1958-10-29", 
   "Keywords": [
-    "online art collection", 
     "Gwen John", 
     "Girl with Bare Shoulders", 
     "1909-10?"
   ], 
+  "ArtistID": 2921, 
+  "Title": "Girl with Bare Shoulders", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "124.1958", 
+  "Date": "1909-10?", 
   "ArtistBio": "(British, 1876\u20131939)", 
-  "DateAcquired": "1958-10-29", 
-  "\ufeffTitle": "Girl with Bare Shoulders", 
+  "CuratorApproved": "Y", 
   "ObjectID": "78904"
 }

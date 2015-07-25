@@ -4,12 +4,9 @@
   "Classification": "A&D Architectural Model", 
   "Artist": "Cedric Price", 
   "URL": "http://www.moma.org/collection/works/1076", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of The Howard Gilman Foundation", 
-  "Date": "1978-80", 
-  "ArtistID": 7986, 
+  "DateAcquired": "2000-10-31", 
   "Keywords": [
-    "online art collection", 
     "Cedric Price", 
     "Generator", 
     "project", 
@@ -17,10 +14,12 @@
     "Florida", 
     "1978-80"
   ], 
+  "ArtistID": 7986, 
+  "Title": "Generator, project, White Oak, Florida", 
   "Department": "Architecture & Design", 
   "MoMANumber": "1319.2000", 
+  "Date": "1978-80", 
   "ArtistBio": "(British, 1934\u20132003)", 
-  "DateAcquired": "2000-10-31", 
-  "\ufeffTitle": "Generator, project, White Oak, Florida", 
+  "CuratorApproved": "Y", 
   "ObjectID": "1076"
 }

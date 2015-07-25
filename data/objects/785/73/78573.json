@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Jack Tworkov", 
   "URL": "http://www.moma.org/collection/works/78573", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the Gramercy Park Foundation, Inc.", 
-  "Date": "1953", 
-  "ArtistID": 5989, 
+  "DateAcquired": "1954-04-06", 
   "Keywords": [
-    "online art collection", 
     "Jack Tworkov", 
     "The Wheel", 
     "1953"
   ], 
+  "ArtistID": 5989, 
+  "Title": "The Wheel", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "31.1954", 
+  "Date": "1953", 
   "ArtistBio": "(American, born Poland. 1900\u20131982)", 
-  "DateAcquired": "1954-04-06", 
-  "\ufeffTitle": "The Wheel", 
+  "CuratorApproved": "Y", 
   "ObjectID": "78573"
 }

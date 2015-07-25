@@ -4,12 +4,9 @@
   "Classification": "Photograph", 
   "Artist": "Judith Joy Ross", 
   "URL": "http://www.moma.org/collection/works/93591", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Richard O. Rieger", 
-  "Date": "1987", 
-  "ArtistID": 5030, 
+  "DateAcquired": "2008-11-12", 
   "Keywords": [
-    "online art collection", 
     "Judith Joy Ross", 
     "Congressman Robert S", 
     "Walker", 
@@ -17,10 +14,12 @@
     "Pennsylvania", 
     "1987"
   ], 
+  "ArtistID": 5030, 
+  "Title": "Congressman Robert S. Walker, Republican, Pennsylvania", 
   "Department": "Photography", 
   "MoMANumber": "1957.2008", 
+  "Date": "1987", 
   "ArtistBio": "(American, born 1946)", 
-  "DateAcquired": "2008-11-12", 
-  "\ufeffTitle": "Congressman Robert S. Walker, Republican, Pennsylvania", 
+  "CuratorApproved": "Y", 
   "ObjectID": "93591"
 }

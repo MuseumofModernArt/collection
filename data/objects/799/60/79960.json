@@ -4,21 +4,20 @@
   "Classification": "Painting", 
   "Artist": "Chaim Soutine", 
   "URL": "http://www.moma.org/collection/works/79960", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Vladimir Horowitz and Bernard Davis Funds", 
-  "Date": "c. 1922-23", 
-  "ArtistID": 5543, 
+  "DateAcquired": "1954-12-16", 
   "Keywords": [
-    "online art collection", 
     "Chaim Soutine", 
     "The Old Mill", 
     "c", 
     "1922-23"
   ], 
+  "ArtistID": 5543, 
+  "Title": "The Old Mill", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "557.1954", 
+  "Date": "c. 1922-23", 
   "ArtistBio": "(French, 1893\u20131943)", 
-  "DateAcquired": "1954-12-16", 
-  "\ufeffTitle": "The Old Mill", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79960"
 }

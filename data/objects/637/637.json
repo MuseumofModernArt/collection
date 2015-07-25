@@ -4,12 +4,9 @@
   "Classification": "A&D Architectural Drawing", 
   "Artist": "Mario Botta", 
   "URL": "http://www.moma.org/collection/works/637", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the architect", 
-  "Date": "1986", 
-  "ArtistID": 696, 
+  "DateAcquired": "1987-11-18", 
   "Keywords": [
-    "online art collection", 
     "Mario Botta", 
     "Thyssen-Bornemisza Gallery", 
     "Lugano", 
@@ -17,10 +14,12 @@
     "Perspective", 
     "1986"
   ], 
+  "ArtistID": 696, 
+  "Title": "Thyssen-Bornemisza Gallery, Lugano, Switzerland, Perspective", 
   "Department": "Architecture & Design", 
   "MoMANumber": "435.1987", 
+  "Date": "1986", 
   "ArtistBio": "(Swiss, born 1943)", 
-  "DateAcquired": "1987-11-18", 
-  "\ufeffTitle": "Thyssen-Bornemisza Gallery, Lugano, Switzerland, Perspective", 
+  "CuratorApproved": "Y", 
   "ObjectID": "637"
 }

@@ -4,12 +4,9 @@
   "Classification": "A&D Graphic Design", 
   "Artist": "Emile Clouet", 
   "URL": "http://www.moma.org/collection/works/7617", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase Fund", 
-  "Date": "c. 1900", 
-  "ArtistID": 1158, 
+  "DateAcquired": "1954-12-16", 
   "Keywords": [
-    "online art collection", 
     "Emile Clouet", 
     "Cycles Clesse", 
     "Bureaux & Magasins", 
@@ -19,10 +16,12 @@
     "c", 
     "1900"
   ], 
+  "ArtistID": 1158, 
+  "Title": "Cycles Clesse, Bureaux & Magasins, 21 Rue N. D. de Nazareth", 
   "Department": "Architecture & Design", 
   "MoMANumber": "583.1954", 
+  "Date": "c. 1900", 
   "ArtistBio": "(French)", 
-  "DateAcquired": "1954-12-16", 
-  "\ufeffTitle": "Cycles Clesse, Bureaux & Magasins, 21 Rue N. D. de Nazareth", 
+  "CuratorApproved": "Y", 
   "ObjectID": "7617"
 }

@@ -4,20 +4,19 @@
   "Classification": "Drawing", 
   "Artist": "Pablo Picasso", 
   "URL": "http://www.moma.org/collection/works/33305", 
-  "CuratorApproved": "Y", 
   "CreditLine": "A. Conger Goodyear Fund", 
-  "Date": "(1908)", 
-  "ArtistID": 4609, 
+  "DateAcquired": "1968-02-05", 
   "Keywords": [
-    "online art collection", 
     "Pablo Picasso", 
     "Sheet of Studies", 
     "(1908)"
   ], 
+  "ArtistID": 4609, 
+  "Title": "Sheet of Studies", 
   "Department": "Drawings", 
   "MoMANumber": "22.1968", 
+  "Date": "(1908)", 
   "ArtistBio": "(Spanish, 1881\u20131973)", 
-  "DateAcquired": "1968-02-05", 
-  "\ufeffTitle": "Sheet of Studies", 
+  "CuratorApproved": "Y", 
   "ObjectID": "33305"
 }

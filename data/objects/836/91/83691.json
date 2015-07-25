@@ -4,21 +4,20 @@
   "Classification": "Photograph", 
   "Artist": "Max Burchartz", 
   "URL": "http://www.moma.org/collection/works/83691", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Thomas Walther Collection. Acquired through the generosity of Peter Norton", 
-  "Date": "1928", 
-  "ArtistID": 869, 
+  "DateAcquired": "2001-01-01", 
   "Keywords": [
-    "online art collection", 
     "Max Burchartz", 
     "Lotte (eye)", 
     "c", 
     "1928"
   ], 
+  "ArtistID": 869, 
+  "Title": "Lotte (Eye)", 
   "Department": "Photography", 
   "MoMANumber": "1646.2001", 
+  "Date": "1928", 
   "ArtistBio": "(German, 1887\u20131961)", 
-  "DateAcquired": "2001-01-01", 
-  "\ufeffTitle": "Lotte (Eye)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "83691"
 }

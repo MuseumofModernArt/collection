@@ -4,21 +4,20 @@
   "Classification": "Painting", 
   "Artist": "Ronald Bladen", 
   "URL": "http://www.moma.org/collection/works/79429", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Connie Reyes", 
-  "Date": "c. 1956-59", 
-  "ArtistID": 588, 
+  "DateAcquired": "1997-06-02", 
   "Keywords": [
-    "online art collection", 
     "Ronald Bladen", 
     "Untitled Number 3", 
     "c", 
     "1956-59"
   ], 
+  "ArtistID": 588, 
+  "Title": "Untitled Number 3", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "290.1997", 
+  "Date": "c. 1956-59", 
   "ArtistBio": "(American, 1918\u20131988)", 
-  "DateAcquired": "1997-06-02", 
-  "\ufeffTitle": "Untitled Number 3", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79429"
 }

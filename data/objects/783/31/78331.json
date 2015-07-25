@@ -4,21 +4,20 @@
   "Classification": "Painting", 
   "Artist": "Otto Dix", 
   "URL": "http://www.moma.org/collection/works/78331", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Philip Johnson", 
-  "Date": "Berlin 1926", 
-  "ArtistID": 1559, 
+  "DateAcquired": "1932-06-08", 
   "Keywords": [
-    "online art collection", 
     "Otto Dix", 
     "Dr", 
     "Mayer-Hermann", 
     "Berlin 1926"
   ], 
+  "ArtistID": 1559, 
+  "Title": "Dr. Mayer-Hermann", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "3.1932", 
+  "Date": "Berlin 1926", 
   "ArtistBio": "(German, 1891\u20131969)", 
-  "DateAcquired": "1932-06-08", 
-  "\ufeffTitle": "Dr. Mayer-Hermann", 
+  "CuratorApproved": "Y", 
   "ObjectID": "78331"
 }

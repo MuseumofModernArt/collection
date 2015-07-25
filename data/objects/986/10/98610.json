@@ -4,21 +4,20 @@
   "Classification": "Photograph", 
   "Artist": "Unknown photographer", 
   "URL": "http://www.moma.org/collection/works/98610", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of The New York Times", 
-  "Date": "November 24, 1953", 
-  "ArtistID": 6028, 
+  "DateAcquired": "2005-05-11", 
   "Keywords": [
-    "online art collection", 
     "Unknown Photographer", 
     "Joseph McCarthy and Roy Cohn", 
     "November 24", 
     "1953"
   ], 
+  "ArtistID": 6028, 
+  "Title": "Joseph McCarthy and Roy Cohn", 
   "Department": "Photography", 
   "MoMANumber": "405.2005", 
+  "Date": "November 24, 1953", 
   "ArtistBio": "", 
-  "DateAcquired": "2005-05-11", 
-  "\ufeffTitle": "Joseph McCarthy and Roy Cohn", 
+  "CuratorApproved": "Y", 
   "ObjectID": "98610"
 }

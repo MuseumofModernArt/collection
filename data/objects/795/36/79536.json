@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Frank Stella", 
   "URL": "http://www.moma.org/collection/works/79536", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Acquired through the Mr. and Mrs. Victor Ganz, Mr. and Mrs. Donald H. Peters, and Mr. and Mrs. Charles Zadok Funds", 
-  "Date": "1979", 
-  "ArtistID": 5640, 
+  "DateAcquired": "1980-03-11", 
   "Keywords": [
-    "online art collection", 
     "Frank Stella", 
     "Kastura", 
     "1979"
   ], 
+  "ArtistID": 5640, 
+  "Title": "Kastura", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "361.1980", 
+  "Date": "1979", 
   "ArtistBio": "(American, born 1936)", 
-  "DateAcquired": "1980-03-11", 
-  "\ufeffTitle": "Kastura", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79536"
 }

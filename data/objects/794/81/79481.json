@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Jackson Pollock", 
   "URL": "http://www.moma.org/collection/works/79481", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The Sidney and Harriet Janis Collection", 
-  "Date": "1954", 
-  "ArtistID": 4675, 
+  "DateAcquired": "1967-10-18", 
   "Keywords": [
-    "online art collection", 
     "Jackson Pollock", 
     "White Light", 
     "1954"
   ], 
+  "ArtistID": 4675, 
+  "Title": "White Light", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "337.1967", 
+  "Date": "1954", 
   "ArtistBio": "(American, 1912\u20131956)", 
-  "DateAcquired": "1967-10-18", 
-  "\ufeffTitle": "White Light", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79481"
 }

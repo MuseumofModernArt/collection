@@ -4,21 +4,20 @@
   "Classification": "A&D Graphic Design", 
   "Artist": "Pieter Brattinga", 
   "URL": "http://www.moma.org/collection/works/7889", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Bequest of Ludwig Mies van der Rohe", 
-  "Date": "Unknown", 
-  "ArtistID": 747, 
+  "DateAcquired": "1980-10-30", 
   "Keywords": [
-    "online art collection", 
     "Pieter Brattinga", 
     "Architektuur L", 
     "Mies van der Rohe", 
     "Unknown"
   ], 
+  "ArtistID": 747, 
+  "Title": "Architektuur L. Mies van der Rohe", 
   "Department": "Architecture & Design", 
   "MoMANumber": "671.1980", 
+  "Date": "Unknown", 
   "ArtistBio": "(Dutch, born 1931)", 
-  "DateAcquired": "1980-10-30", 
-  "\ufeffTitle": "Architektuur L. Mies van der Rohe", 
+  "CuratorApproved": "Y", 
   "ObjectID": "7889"
 }

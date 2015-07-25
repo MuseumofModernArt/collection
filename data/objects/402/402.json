@@ -4,12 +4,9 @@
   "Classification": "A&D Architectural Drawing", 
   "Artist": "Frederick Kiesler", 
   "URL": "http://www.moma.org/collection/works/402", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the architect", 
-  "Date": "1925", 
-  "ArtistID": 3091, 
+  "DateAcquired": "1966-05-10", 
   "Keywords": [
-    "online art collection", 
     "Frederick Kiesler", 
     "Place de la Concorde Project", 
     "Paris", 
@@ -17,10 +14,12 @@
     "Elevation", 
     "1925"
   ], 
+  "ArtistID": 3091, 
+  "Title": "Place de la Concorde Project, Paris, France, Elevation", 
   "Department": "Architecture & Design", 
   "MoMANumber": "365.1966", 
+  "Date": "1925", 
   "ArtistBio": "(American, born Austria-Hungary. 1890\u20131965)", 
-  "DateAcquired": "1966-05-10", 
-  "\ufeffTitle": "Place de la Concorde Project, Paris, France, Elevation", 
+  "CuratorApproved": "Y", 
   "ObjectID": "402"
 }

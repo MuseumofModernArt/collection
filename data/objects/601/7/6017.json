@@ -4,12 +4,9 @@
   "Classification": "A&D Graphic Design", 
   "Artist": "A. M. Cassandre", 
   "URL": "http://www.moma.org/collection/works/6017", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Given anonymously", 
-  "Date": "1932", 
-  "ArtistID": 1015, 
+  "DateAcquired": "1935-11-12", 
   "Keywords": [
-    "online art collection", 
     "A", 
     "M", 
     "Cassandre", 
@@ -17,10 +14,12 @@
     "Vin Tonique au Quinquina", 
     "1932"
   ], 
+  "ArtistID": 1015, 
+  "Title": "Dubonnet, Vin Tonique au Quinquina", 
   "Department": "Architecture & Design", 
   "MoMANumber": "277.1935", 
+  "Date": "1932", 
   "ArtistBio": "(French, 1901\u20131968)", 
-  "DateAcquired": "1935-11-12", 
-  "\ufeffTitle": "Dubonnet, Vin Tonique au Quinquina", 
+  "CuratorApproved": "Y", 
   "ObjectID": "6017"
 }

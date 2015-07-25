@@ -4,22 +4,21 @@
   "Classification": "Photograph", 
   "Artist": "Bertien van Manen", 
   "URL": "http://www.moma.org/collection/works/82819", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Acquired through the generosity of Howard Stein", 
-  "Date": "2000", 
-  "ArtistID": 7867, 
+  "DateAcquired": "2001-12-13", 
   "Keywords": [
-    "online art collection", 
     "Bertien van Manen", 
     "From a Taxi", 
     "Shapingba", 
     "Chongqing", 
     "2000"
   ], 
+  "ArtistID": 7867, 
+  "Title": "From a Taxi, Shapingba, Chongqing", 
   "Department": "Photography", 
   "MoMANumber": "2617.2001.x1-x2", 
+  "Date": "2000", 
   "ArtistBio": "(Dutch, born 1942)", 
-  "DateAcquired": "2001-12-13", 
-  "\ufeffTitle": "From a Taxi, Shapingba, Chongqing", 
+  "CuratorApproved": "Y", 
   "ObjectID": "82819"
 }

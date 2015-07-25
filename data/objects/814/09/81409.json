@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Joel Shapiro", 
   "URL": "http://www.moma.org/collection/works/81409", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchased with the aid of funds from the National Endowment for the Arts and an anonymous donor", 
-  "Date": "1974", 
-  "ArtistID": 5373, 
+  "DateAcquired": "1975-12-09", 
   "Keywords": [
-    "online art collection", 
     "Joel Shapiro", 
     "Untitled (house on shelf)", 
     "1974"
   ], 
+  "ArtistID": 5373, 
+  "Title": "Untitled (house on shelf)", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "379.1975", 
+  "Date": "1974", 
   "ArtistBio": "(American, born 1941)", 
-  "DateAcquired": "1975-12-09", 
-  "\ufeffTitle": "Untitled (house on shelf)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81409"
 }

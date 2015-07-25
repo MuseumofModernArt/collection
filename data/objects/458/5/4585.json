@@ -4,12 +4,9 @@
   "Classification": "A&D Design", 
   "Artist": "Richard Lowrie, Concept Inc., St. Petersburg, FL", 
   "URL": "http://www.moma.org/collection/works/4585", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the manufacturer", 
-  "Date": "1965", 
-  "ArtistID": 7162, 
+  "DateAcquired": "1969-12-01", 
   "Keywords": [
-    "online art collection", 
     "Richard Lowrie", 
     "Concept Inc,", 
     "St", 
@@ -17,10 +14,12 @@
     "Disposable Penlight", 
     "1965"
   ], 
+  "ArtistID": 7162, 
+  "Title": "Disposable Penlight", 
   "Department": "Architecture & Design", 
   "MoMANumber": "1121.1969.1-3", 
+  "Date": "1965", 
   "ArtistBio": "(American)", 
-  "DateAcquired": "1969-12-01", 
-  "\ufeffTitle": "Disposable Penlight", 
+  "CuratorApproved": "Y", 
   "ObjectID": "4585"
 }

@@ -4,12 +4,9 @@
   "Classification": "Sculpture", 
   "Artist": "Charles Simonds", 
   "URL": "http://www.moma.org/collection/works/81184", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Kay Sage Tanguy Fund", 
-  "Date": "1972", 
-  "ArtistID": 5441, 
+  "DateAcquired": "1978-03-09", 
   "Keywords": [
-    "online art collection", 
     "Charles Simonds", 
     "People Who Live in a Circle", 
     " They Excavate Their Past and Rebuild It into Their Present", 
@@ -19,10 +16,12 @@
     "Obsessive", 
     "1972"
   ], 
+  "ArtistID": 5441, 
+  "Title": "People Who Live in a Circle.  They Excavate Their Past and Rebuild It into Their Present.  Their Dwelling Functions as a Personal and Cosmological Clock, Seasonal, Harmonic, Obsessive", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "234.1978", 
+  "Date": "1972", 
   "ArtistBio": "(American, born 1945)", 
-  "DateAcquired": "1978-03-09", 
-  "\ufeffTitle": "People Who Live in a Circle.  They Excavate Their Past and Rebuild It into Their Present.  Their Dwelling Functions as a Personal and Cosmological Clock, Seasonal, Harmonic, Obsessive", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81184"
 }

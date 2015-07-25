@@ -4,12 +4,9 @@
   "Classification": "A&D Architectural Drawing", 
   "Artist": "Ernesto Bruno La Padula, Giovanni Guerrini, Mario Romano", 
   "URL": "http://www.moma.org/collection/works/332", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1938", 
-  "ArtistID": 3381, 
+  "DateAcquired": "1984-10-30", 
   "Keywords": [
-    "online art collection", 
     "Ernesto Bruno La Padula", 
     "Giovanni Guerrini and Mario Romano", 
     "Il Palazzo della Civilt&agrave; Italiana", 
@@ -18,10 +15,12 @@
     "Italy", 
     "1938"
   ], 
+  "ArtistID": 3381, 
+  "Title": "Il Palazzo della Civilt\u00e0 Italiana, Cit\u00e9 EUR, Rome, Italy", 
   "Department": "Architecture & Design", 
   "MoMANumber": "321.1984", 
+  "Date": "1938", 
   "ArtistBio": "(Italian, 1902\u20131968) (Italian, 1887\u20131972) (Italian)", 
-  "DateAcquired": "1984-10-30", 
-  "\ufeffTitle": "Il Palazzo della Civilt\u00e0 Italiana, Cit\u00e9 EUR, Rome, Italy", 
+  "CuratorApproved": "Y", 
   "ObjectID": "332"
 }

@@ -4,12 +4,9 @@
   "Classification": "A&D Architectural Drawing", 
   "Artist": "Kisho Kurokawa", 
   "URL": "http://www.moma.org/collection/works/623", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the architect", 
-  "Date": "1961", 
-  "ArtistID": 6967, 
+  "DateAcquired": "1992-10-21", 
   "Keywords": [
-    "online art collection", 
     "Kisho Kurokawa", 
     "Floating City", 
     "project", 
@@ -18,10 +15,12 @@
     "Plan", 
     "1961"
   ], 
+  "ArtistID": 6967, 
+  "Title": "Floating City, project, Kasumigaura, Japan, Plan", 
   "Department": "Architecture & Design", 
   "MoMANumber": "428.1992", 
+  "Date": "1961", 
   "ArtistBio": "(Japanese, 1934\u20132007)", 
-  "DateAcquired": "1992-10-21", 
-  "\ufeffTitle": "Floating City, project, Kasumigaura, Japan, Plan", 
+  "CuratorApproved": "Y", 
   "ObjectID": "623"
 }

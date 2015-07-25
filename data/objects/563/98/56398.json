@@ -4,12 +4,9 @@
   "Classification": "Photograph", 
   "Artist": "Lee Friedlander", 
   "URL": "http://www.moma.org/collection/works/56398", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1974", 
-  "ArtistID": 2002, 
+  "DateAcquired": "2000-10-12", 
   "Keywords": [
-    "online art collection", 
     "Lee Friedlander", 
     "Brigadier General Lloyd Tilghman", 
     "Louisiana State Memorial", 
@@ -18,10 +15,12 @@
     "Mississippi", 
     "1974"
   ], 
+  "ArtistID": 2002, 
+  "Title": "Brigadier General Lloyd Tilghman, Louisiana State Memorial, and Brigadier General Daniel Adams. Vicksburg National Military Park, Mississippi", 
   "Department": "Photography", 
   "MoMANumber": "785.2000", 
+  "Date": "1974", 
   "ArtistBio": "(American, born 1934)", 
-  "DateAcquired": "2000-10-12", 
-  "\ufeffTitle": "Brigadier General Lloyd Tilghman, Louisiana State Memorial, and Brigadier General Daniel Adams. Vicksburg National Military Park, Mississippi", 
+  "CuratorApproved": "Y", 
   "ObjectID": "56398"
 }

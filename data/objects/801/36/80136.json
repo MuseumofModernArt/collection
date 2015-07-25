@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Andr\u00e9 Derain", 
   "URL": "http://www.moma.org/collection/works/80136", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Abby Aldrich Rockefeller Fund, purchased in memory of Mrs. Cornelius J. Sullivan", 
-  "Date": "1912", 
-  "ArtistID": 1500, 
+  "DateAcquired": "1939-12-08", 
   "Keywords": [
-    "online art collection", 
     "Andr&eacute; Derain", 
     "Window at Vers", 
     "1912"
   ], 
+  "ArtistID": 1500, 
+  "Title": "Window at Vers", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "631.1939", 
+  "Date": "1912", 
   "ArtistBio": "(French, 1880\u20131954)", 
-  "DateAcquired": "1939-12-08", 
-  "\ufeffTitle": "Window at Vers", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80136"
 }

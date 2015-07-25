@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Thomas Chimes", 
   "URL": "http://www.moma.org/collection/works/79399", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Larry Aldrich Foundation Fund", 
-  "Date": "1961", 
-  "ArtistID": 1105, 
+  "DateAcquired": "1961-10-10", 
   "Keywords": [
-    "online art collection", 
     "Thomas Chimes", 
     "Study for The Inner World", 
     "1961"
   ], 
+  "ArtistID": 1105, 
+  "Title": "Study for The Inner World", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "283.1961", 
+  "Date": "1961", 
   "ArtistBio": "(American, 1921\u20132009)", 
-  "DateAcquired": "1961-10-10", 
-  "\ufeffTitle": "Study for The Inner World", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79399"
 }

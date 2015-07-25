@@ -4,21 +4,20 @@
   "Classification": "Photograph", 
   "Artist": "Robert Levin", 
   "URL": "http://www.moma.org/collection/works/55999", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1974", 
-  "ArtistID": 3510, 
+  "DateAcquired": "1976-12-08", 
   "Keywords": [
-    "online art collection", 
     "Robert Levin", 
     "Furman Street", 
     "Brooklyn", 
     "1974"
   ], 
+  "ArtistID": 3510, 
+  "Title": "Furman Street, Brooklyn", 
   "Department": "Photography", 
   "MoMANumber": "677.1976", 
+  "Date": "1974", 
   "ArtistBio": "(American, born 1948)", 
-  "DateAcquired": "1976-12-08", 
-  "\ufeffTitle": "Furman Street, Brooklyn", 
+  "CuratorApproved": "Y", 
   "ObjectID": "55999"
 }

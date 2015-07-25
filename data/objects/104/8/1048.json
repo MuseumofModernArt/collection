@@ -4,12 +4,9 @@
   "Classification": "A&D Architectural Model", 
   "Artist": "Bernard Tschumi", 
   "URL": "http://www.moma.org/collection/works/1048", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the architect", 
-  "Date": "1982-98", 
-  "ArtistID": 7056, 
+  "DateAcquired": "1992-10-21", 
   "Keywords": [
-    "online art collection", 
     "Bernard Tschumi", 
     "Parc de la Villette", 
     "Paris", 
@@ -17,10 +14,12 @@
     "Four Follies intersecting North-South Gallery", 
     "1982-98"
   ], 
+  "ArtistID": 7056, 
+  "Title": "Parc de la Villette, Paris, France, Four Follies intersecting North-South Gallery", 
   "Department": "Architecture & Design", 
   "MoMANumber": "433.1992", 
+  "Date": "1982-98", 
   "ArtistBio": "(French and Swiss, born Switzerland 1944)", 
-  "DateAcquired": "1992-10-21", 
-  "\ufeffTitle": "Parc de la Villette, Paris, France, Four Follies intersecting North-South Gallery", 
+  "CuratorApproved": "Y", 
   "ObjectID": "1048"
 }

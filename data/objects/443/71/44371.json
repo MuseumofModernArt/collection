@@ -4,21 +4,20 @@
   "Classification": "Photograph", 
   "Artist": "Lisette Model", 
   "URL": "http://www.moma.org/collection/works/44371", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1938", 
-  "ArtistID": 4036, 
+  "DateAcquired": "1943-02-17", 
   "Keywords": [
-    "online art collection", 
     "Lisette Model", 
     "Gambler Type", 
     "French Riviera", 
     "1938"
   ], 
+  "ArtistID": 4036, 
+  "Title": "Gambler Type, French Riviera", 
   "Department": "Photography", 
   "MoMANumber": "35.1943", 
+  "Date": "1938", 
   "ArtistBio": "(American, born Austria. 1901\u20131983)", 
-  "DateAcquired": "1943-02-17", 
-  "\ufeffTitle": "Gambler Type, French Riviera", 
+  "CuratorApproved": "Y", 
   "ObjectID": "44371"
 }

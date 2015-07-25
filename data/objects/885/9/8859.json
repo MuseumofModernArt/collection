@@ -4,12 +4,9 @@
   "Classification": "A&D Graphic Design", 
   "Artist": "John H. Myers", 
   "URL": "http://www.moma.org/collection/works/8859", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the designer", 
-  "Date": "1967", 
-  "ArtistID": 8396, 
+  "DateAcquired": "2000-12-11", 
   "Keywords": [
-    "online art collection", 
     "John H", 
     "Myers", 
     "The Blues Project", 
@@ -17,10 +14,12 @@
     "John Lee Hooker and the Stu Gardner Trio", 
     "1967"
   ], 
+  "ArtistID": 8396, 
+  "Title": "The Blues Project, Jimmy Reed, John Lee Hooker and the Stu Gardner Trio", 
   "Department": "Architecture & Design", 
   "MoMANumber": "1563.2000", 
+  "Date": "1967", 
   "ArtistBio": "(American)", 
-  "DateAcquired": "2000-12-11", 
-  "\ufeffTitle": "The Blues Project, Jimmy Reed, John Lee Hooker and the Stu Gardner Trio", 
+  "CuratorApproved": "Y", 
   "ObjectID": "8859"
 }

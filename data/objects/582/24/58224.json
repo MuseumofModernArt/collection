@@ -4,12 +4,9 @@
   "Classification": "Photograph", 
   "Artist": "Ralph Steiner", 
   "URL": "http://www.moma.org/collection/works/58224", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Willard Van Dyke", 
-  "Date": "c. 1933", 
-  "ArtistID": 5631, 
+  "DateAcquired": "1968-11-06", 
   "Keywords": [
-    "online art collection", 
     "Ralph Steiner", 
     "S", 
     "J", 
@@ -17,10 +14,12 @@
     "c", 
     "1933"
   ], 
+  "ArtistID": 5631, 
+  "Title": "S. J. Perlman", 
   "Department": "Photography", 
   "MoMANumber": "1501.1968", 
+  "Date": "c. 1933", 
   "ArtistBio": "(American, 1899\u20131986)", 
-  "DateAcquired": "1968-11-06", 
-  "\ufeffTitle": "S. J. Perlman", 
+  "CuratorApproved": "Y", 
   "ObjectID": "58224"
 }

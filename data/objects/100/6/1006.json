@@ -4,22 +4,21 @@
   "Classification": "A&D Architectural Model", 
   "Artist": "Ludwig Mies van der Rohe", 
   "URL": "http://www.moma.org/collection/works/1006", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1945-51", 
-  "ArtistID": 7166, 
+  "DateAcquired": "1986-10-07", 
   "Keywords": [
-    "online art collection", 
     "Ludwig Mies van der Rohe", 
     "Farnsworth House", 
     "Plano", 
     "Illinois", 
     "1945-51"
   ], 
+  "ArtistID": 7166, 
+  "Title": "Farnsworth House, Plano, Illinois", 
   "Department": "Architecture & Design", 
   "MoMANumber": "261.1986", 
+  "Date": "1945-51", 
   "ArtistBio": "(American, born Germany. 1886\u20131969)", 
-  "DateAcquired": "1986-10-07", 
-  "\ufeffTitle": "Farnsworth House, Plano, Illinois", 
+  "CuratorApproved": "Y", 
   "ObjectID": "1006"
 }

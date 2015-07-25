@@ -4,20 +4,19 @@
   "Classification": "Drawing", 
   "Artist": "Jake Berthot", 
   "URL": "http://www.moma.org/collection/works/37804", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Louis and Bessie Adler Foundation Fund, Seymour M. Klein, President", 
-  "Date": "1980", 
-  "ArtistID": 529, 
+  "DateAcquired": "1980-12-18", 
   "Keywords": [
-    "online art collection", 
     "Jake Berthot", 
     "Untitled (Skull)", 
     "1980"
   ], 
+  "ArtistID": 529, 
+  "Title": "Untitled (Skull)", 
   "Department": "Drawings", 
   "MoMANumber": "698.1980", 
+  "Date": "1980", 
   "ArtistBio": "(American, born 1939)", 
-  "DateAcquired": "1980-12-18", 
-  "\ufeffTitle": "Untitled (Skull)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "37804"
 }

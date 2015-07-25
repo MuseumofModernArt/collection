@@ -4,20 +4,19 @@
   "Classification": "Drawing", 
   "Artist": "Diego Rivera", 
   "URL": "http://www.moma.org/collection/works/35547", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Given anonymously", 
-  "Date": "1925", 
-  "ArtistID": 4942, 
+  "DateAcquired": "1940-04-05", 
   "Keywords": [
-    "online art collection", 
     "Diego Rivera", 
     "Day of the Dead in the Country", 
     "1925"
   ], 
+  "ArtistID": 4942, 
+  "Title": "Day of the Dead in the Country", 
   "Department": "Drawings", 
   "MoMANumber": "208.1940", 
+  "Date": "1925", 
   "ArtistBio": "(Mexican, 1886\u20131957)", 
-  "DateAcquired": "1940-04-05", 
-  "\ufeffTitle": "Day of the Dead in the Country", 
+  "CuratorApproved": "Y", 
   "ObjectID": "35547"
 }

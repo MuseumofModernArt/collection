@@ -4,12 +4,9 @@
   "Classification": "A&D Architectural Drawing", 
   "Artist": "Frank Lloyd Wright", 
   "URL": "http://www.moma.org/collection/works/244", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of David Rockefeller, Jr. Fund, Ira Howard Levy Fund, and Jeffrey P. Klein Purchase Fund", 
-  "Date": "c. 1915-17", 
-  "ArtistID": 6459, 
+  "DateAcquired": "1993-05-04", 
   "Keywords": [
-    "online art collection", 
     "Frank Lloyd Wright", 
     "American System-Built Houses for The Richards Company", 
     "project", 
@@ -19,10 +16,12 @@
     "c", 
     "1915-17"
   ], 
+  "ArtistID": 6459, 
+  "Title": "American System-Built Houses for The Richards Company, project, Milwaukee, Wisconsin, Isometric plan of model J400", 
   "Department": "Architecture & Design", 
   "MoMANumber": "155.1993.15", 
+  "Date": "c. 1915-17", 
   "ArtistBio": "(American, 1867\u20131959)", 
-  "DateAcquired": "1993-05-04", 
-  "\ufeffTitle": "American System-Built Houses for The Richards Company, project, Milwaukee, Wisconsin, Isometric plan of model J400", 
+  "CuratorApproved": "Y", 
   "ObjectID": "244"
 }

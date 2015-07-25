@@ -4,12 +4,9 @@
   "Classification": "A&D Architectural Drawing", 
   "Artist": "Louis I. Kahn", 
   "URL": "http://www.moma.org/collection/works/591", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the architect", 
-  "Date": "1960", 
-  "ArtistID": 2964, 
+  "DateAcquired": "1964-04-14", 
   "Keywords": [
-    "online art collection", 
     "Louis I", 
     "Kahn", 
     "Salk Institute for Biological Studies (laboratory", 
@@ -20,10 +17,12 @@
     "Two elevations of meeting house", 
     "1960"
   ], 
+  "ArtistID": 2964, 
+  "Title": "Salk Institute for Biological Studies (laboratory, meeting house, and housing), La Jolla, California, Two elevations of meeting house", 
   "Department": "Architecture & Design", 
   "MoMANumber": "419.1964", 
+  "Date": "1960", 
   "ArtistBio": "(American, born Estonia. 1901\u20131974)", 
-  "DateAcquired": "1964-04-14", 
-  "\ufeffTitle": "Salk Institute for Biological Studies (laboratory, meeting house, and housing), La Jolla, California, Two elevations of meeting house", 
+  "CuratorApproved": "Y", 
   "ObjectID": "591"
 }

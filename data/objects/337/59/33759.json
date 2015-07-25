@@ -4,20 +4,19 @@
   "Classification": "Drawing", 
   "Artist": "Mark Tobey", 
   "URL": "http://www.moma.org/collection/works/33759", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1942", 
-  "ArtistID": 5889, 
+  "DateAcquired": "1944-05-02", 
   "Keywords": [
-    "online art collection", 
     "Mark Tobey", 
     "Threading Light", 
     "1942"
   ], 
+  "ArtistID": 5889, 
+  "Title": "Threading Light", 
   "Department": "Drawings", 
   "MoMANumber": "86.1944", 
+  "Date": "1942", 
   "ArtistBio": "(American, 1890\u20131976)", 
-  "DateAcquired": "1944-05-02", 
-  "\ufeffTitle": "Threading Light", 
+  "CuratorApproved": "Y", 
   "ObjectID": "33759"
 }

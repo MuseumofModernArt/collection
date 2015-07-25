@@ -4,20 +4,19 @@
   "Classification": "Illustrated Book", 
   "Artist": "Jim Dine", 
   "URL": "http://www.moma.org/collection/works/21921", 
-  "CuratorApproved": "Y", 
   "CreditLine": "John B. Turner Fund", 
-  "Date": "1993", 
-  "ArtistID": 1547, 
+  "DateAcquired": "1993-11-17", 
   "Keywords": [
-    "online art collection", 
     "Jim Dine", 
     "The Case of the Wolf-man", 
     "1993"
   ], 
+  "ArtistID": 1547, 
+  "Title": "The Case of the Wolf-man", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "699.1993.1-11", 
+  "Date": "1993", 
   "ArtistBio": "(American, born 1935)", 
-  "DateAcquired": "1993-11-17", 
-  "\ufeffTitle": "The Case of the Wolf-man", 
+  "CuratorApproved": "Y", 
   "ObjectID": "21921"
 }

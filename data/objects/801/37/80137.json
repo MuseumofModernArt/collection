@@ -4,22 +4,21 @@
   "Classification": "Painting", 
   "Artist": "Ren\u00e9 Magritte", 
   "URL": "http://www.moma.org/collection/works/80137", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The Sidney and Harriet Janis Collection", 
-  "Date": "Le Perreux-sur-Marne, 1928-29", 
-  "ArtistID": 3692, 
+  "DateAcquired": "1967-10-18", 
   "Keywords": [
-    "online art collection", 
     "Ren&eacute; Magritte", 
     "The Palace of Curtains", 
     "III", 
     "Le Perreux-sur-Marne", 
     "1928-29"
   ], 
+  "ArtistID": 3692, 
+  "Title": "The Palace of Curtains, III", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "631.1967", 
+  "Date": "Le Perreux-sur-Marne, 1928-29", 
   "ArtistBio": "(Belgian, 1898\u20131967)", 
-  "DateAcquired": "1967-10-18", 
-  "\ufeffTitle": "The Palace of Curtains, III", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80137"
 }

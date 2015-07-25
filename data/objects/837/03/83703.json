@@ -4,20 +4,19 @@
   "Classification": "Photograph", 
   "Artist": "Herbert Bayer", 
   "URL": "http://www.moma.org/collection/works/83703", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Thomas Walther Collection. Acquired through the generosity of Howard Stein", 
-  "Date": "1932", 
-  "ArtistID": 399, 
+  "DateAcquired": "2001-12-13", 
   "Keywords": [
-    "online art collection", 
     "Herbert Bayer", 
     "Humanly impossible", 
     "1932"
   ], 
+  "ArtistID": 399, 
+  "Title": "Humanly Impossible", 
   "Department": "Photography", 
   "MoMANumber": "1611.2001", 
+  "Date": "1932", 
   "ArtistBio": "(American, born Austria. 1900\u20131985)", 
-  "DateAcquired": "2001-12-13", 
-  "\ufeffTitle": "Humanly Impossible", 
+  "CuratorApproved": "Y", 
   "ObjectID": "83703"
 }

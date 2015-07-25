@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Rufino Tamayo", 
   "URL": "http://www.moma.org/collection/works/79119", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Mr. and Mrs. Charles Zadok", 
-  "Date": "1947", 
-  "ArtistID": 5795, 
+  "DateAcquired": "1955-10-10", 
   "Keywords": [
-    "online art collection", 
     "Rufino Tamayo", 
     "Girl Attacked by a Strange Bird", 
     "1947"
   ], 
+  "ArtistID": 5795, 
+  "Title": "Girl Attacked by a Strange Bird", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "200.1955", 
+  "Date": "1947", 
   "ArtistBio": "(Mexican, 1899\u20131991)", 
-  "DateAcquired": "1955-10-10", 
-  "\ufeffTitle": "Girl Attacked by a Strange Bird", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79119"
 }

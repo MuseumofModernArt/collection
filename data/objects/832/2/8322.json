@@ -4,22 +4,21 @@
   "Classification": "A&D Graphic Design", 
   "Artist": "Erik Nitsche", 
   "URL": "http://www.moma.org/collection/works/8322", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Given anonymously", 
-  "Date": "c.1958", 
-  "ArtistID": 4311, 
+  "DateAcquired": "1979-05-30", 
   "Keywords": [
-    "online art collection", 
     "Erik Nitsche", 
     "Exploring the Universe", 
     "Sub-Atomic worlds", 
     "General Dynamics", 
     "Unknown"
   ], 
+  "ArtistID": 4311, 
+  "Title": "Exploring the Universe, Sub-Atomic worlds, General Dynamics", 
   "Department": "Architecture & Design", 
   "MoMANumber": "883.1979", 
+  "Date": "c.1958", 
   "ArtistBio": "(Swiss, 1908\u20131998)", 
-  "DateAcquired": "1979-05-30", 
-  "\ufeffTitle": "Exploring the Universe, Sub-Atomic worlds, General Dynamics", 
+  "CuratorApproved": "Y", 
   "ObjectID": "8322"
 }

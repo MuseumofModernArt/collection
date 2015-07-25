@@ -4,21 +4,20 @@
   "Classification": "A&D Design", 
   "Artist": "Koloman Moser", 
   "URL": "http://www.moma.org/collection/works/3879", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Emilio Ambasz Fund", 
-  "Date": "c. 1900", 
-  "ArtistID": 4119, 
+  "DateAcquired": "1983-05-17", 
   "Keywords": [
-    "online art collection", 
     "Koloman Moser", 
     "Beer Glass", 
     "c", 
     "1900"
   ], 
+  "ArtistID": 4119, 
+  "Title": "Beer Glass", 
   "Department": "Architecture & Design", 
   "MoMANumber": "460.1983", 
+  "Date": "c. 1900", 
   "ArtistBio": "(Austrian, 1868\u20131918)", 
-  "DateAcquired": "1983-05-17", 
-  "\ufeffTitle": "Beer Glass", 
+  "CuratorApproved": "Y", 
   "ObjectID": "3879"
 }

@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Willi Baumeister", 
   "URL": "http://www.moma.org/collection/works/78399", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Given anonymously", 
-  "Date": "1955", 
-  "ArtistID": 392, 
+  "DateAcquired": "1956-03-19", 
   "Keywords": [
-    "online art collection", 
     "Willi Baumeister", 
     "Aru 6", 
     "1955"
   ], 
+  "ArtistID": 392, 
+  "Title": "Aru 6", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "9.1956", 
+  "Date": "1955", 
   "ArtistBio": "(German, 1889\u20131955)", 
-  "DateAcquired": "1956-03-19", 
-  "\ufeffTitle": "Aru 6", 
+  "CuratorApproved": "Y", 
   "ObjectID": "78399"
 }

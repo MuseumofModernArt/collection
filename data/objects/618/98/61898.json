@@ -4,12 +4,9 @@
   "Classification": "Print", 
   "Artist": "Louise Bourgeois", 
   "URL": "http://www.moma.org/collection/works/61898", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the artist", 
-  "Date": "1993", 
-  "ArtistID": 710, 
+  "DateAcquired": "1994-01-25", 
   "Keywords": [
-    "online art collection", 
     "Louise Bourgeois", 
     "Untitled", 
     "plate 9 (Spying)", 
@@ -17,10 +14,12 @@
     "from Autobiographical Series", 
     "(1993)"
   ], 
+  "ArtistID": 710, 
+  "Title": "Untitled, plate 9 of 14, from the portfolio, Autobiographical Series", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "107.1994", 
+  "Date": "1993", 
   "ArtistBio": "(American, born France. 1911\u20132010)", 
-  "DateAcquired": "1994-01-25", 
-  "\ufeffTitle": "Untitled, plate 9 of 14, from the portfolio, Autobiographical Series", 
+  "CuratorApproved": "Y", 
   "ObjectID": "61898"
 }

@@ -4,12 +4,9 @@
   "Classification": "Drawing", 
   "Artist": "Robert Mangold", 
   "URL": "http://www.moma.org/collection/works/96595", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The Judith Rothschild Foundation Contemporary Drawings Collection Gift. Given in honor of Mrs. June Noble Larkin", 
-  "Date": "1979", 
-  "ArtistID": 3723, 
+  "DateAcquired": "2005-05-10", 
   "Keywords": [
-    "online art collection", 
     "Robert Mangold", 
     "Four Distorted Rectangles with Line Division (Green", 
     "Blue", 
@@ -17,10 +14,12 @@
     "Ocher)", 
     "1979"
   ], 
+  "ArtistID": 3723, 
+  "Title": "Four Distorted Rectangles with Line Division (Green, Blue, Sand, Ocher)", 
   "Department": "Drawings", 
   "MoMANumber": "2314.2005.a-d", 
+  "Date": "1979", 
   "ArtistBio": "(American, born 1937)", 
-  "DateAcquired": "2005-05-10", 
-  "\ufeffTitle": "Four Distorted Rectangles with Line Division (Green, Blue, Sand, Ocher)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "96595"
 }

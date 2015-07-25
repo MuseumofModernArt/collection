@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Neil Jenney", 
   "URL": "http://www.moma.org/collection/works/100282", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Edward R. Broida", 
-  "Date": "1970", 
-  "ArtistID": 2904, 
+  "DateAcquired": "2005-10-06", 
   "Keywords": [
-    "online art collection", 
     "Neil Jenney", 
     "Beasts and Burdens", 
     "1970"
   ], 
+  "ArtistID": 2904, 
+  "Title": "Beasts and Burdens", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "742.2005", 
+  "Date": "1970", 
   "ArtistBio": "(American, born 1945)", 
-  "DateAcquired": "2005-10-06", 
-  "\ufeffTitle": "Beasts and Burdens", 
+  "CuratorApproved": "Y", 
   "ObjectID": "100282"
 }

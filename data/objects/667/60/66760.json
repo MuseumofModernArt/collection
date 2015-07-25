@@ -4,21 +4,20 @@
   "Classification": "Print", 
   "Artist": "Georges Braque", 
   "URL": "http://www.moma.org/collection/works/66760", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Victor S. Riesenfeld", 
-  "Date": "1911, published 1912", 
-  "ArtistID": 744, 
+  "DateAcquired": "1948-10-06", 
   "Keywords": [
-    "online art collection", 
     "Georges Braque", 
     "Job", 
     "1911", 
     "published 1912"
   ], 
+  "ArtistID": 744, 
+  "Title": "Job", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "316.1948", 
+  "Date": "1911, published 1912", 
   "ArtistBio": "(French, 1882\u20131963)", 
-  "DateAcquired": "1948-10-06", 
-  "\ufeffTitle": "Job", 
+  "CuratorApproved": "Y", 
   "ObjectID": "66760"
 }

@@ -4,21 +4,20 @@
   "Classification": "Painting", 
   "Artist": "Burgoyne Diller", 
   "URL": "http://www.moma.org/collection/works/80466", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The Riklis Collection of McCrory Corporation", 
-  "Date": "c. 1944", 
-  "ArtistID": 1546, 
+  "DateAcquired": "1985-10-25", 
   "Keywords": [
-    "online art collection", 
     "Burgoyne Diller", 
     "Untitled", 
     "c", 
     "1944"
   ], 
+  "ArtistID": 1546, 
+  "Title": "Untitled", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "1001.1983", 
+  "Date": "c. 1944", 
   "ArtistBio": "(American, 1906\u20131965)", 
-  "DateAcquired": "1985-10-25", 
-  "\ufeffTitle": "Untitled", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80466"
 }

@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Marisa Merz", 
   "URL": "http://www.moma.org/collection/works/81478", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Marcia Riklis Fund", 
-  "Date": "1993", 
-  "ArtistID": 7391, 
+  "DateAcquired": "1994-10-11", 
   "Keywords": [
-    "online art collection", 
     "Marisa Merz", 
     "Untitled (Stave)", 
     "1993"
   ], 
+  "ArtistID": 7391, 
+  "Title": "Untitled (Stave)", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "442.1994.a-b", 
+  "Date": "1993", 
   "ArtistBio": "(Italian, born 1931)", 
-  "DateAcquired": "1994-10-11", 
-  "\ufeffTitle": "Untitled (Stave)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81478"
 }

@@ -4,21 +4,20 @@
   "Classification": "Photograph", 
   "Artist": "John B. Greene", 
   "URL": "http://www.moma.org/collection/works/47733", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Jerome Powell", 
-  "Date": "1855-56", 
-  "ArtistID": 2323, 
+  "DateAcquired": "1983-01-13", 
   "Keywords": [
-    "online art collection", 
     "John B", 
     "Greene", 
     "Encampment by the Tomb of the Christian", 
     "1855-56"
   ], 
+  "ArtistID": 2323, 
+  "Title": "Encampment by the Tomb of the Christian", 
   "Department": "Photography", 
   "MoMANumber": "180.1983", 
+  "Date": "1855-56", 
   "ArtistBio": "(American, born France. 1832\u20131856)", 
-  "DateAcquired": "1983-01-13", 
-  "\ufeffTitle": "Encampment by the Tomb of the Christian", 
+  "CuratorApproved": "Y", 
   "ObjectID": "47733"
 }

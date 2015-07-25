@@ -4,12 +4,9 @@
   "Classification": "A&D Graphic Design", 
   "Artist": "Armin Hofmann", 
   "URL": "http://www.moma.org/collection/works/6803", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the artist", 
-  "Date": "c. 1950-63", 
-  "ArtistID": 2697, 
+  "DateAcquired": "1963-06-12", 
   "Keywords": [
-    "online art collection", 
     "Armin Hofmann", 
     "R", 
     "Adams", 
@@ -18,10 +15,12 @@
     "c", 
     "1950-63"
   ], 
+  "ArtistID": 2697, 
+  "Title": "R. Adams, Skulptur, 7 Junge Englische Maler", 
   "Department": "Architecture & Design", 
   "MoMANumber": "387.1963", 
+  "Date": "c. 1950-63", 
   "ArtistBio": "(Swiss, born 1920)", 
-  "DateAcquired": "1963-06-12", 
-  "\ufeffTitle": "R. Adams, Skulptur, 7 Junge Englische Maler", 
+  "CuratorApproved": "Y", 
   "ObjectID": "6803"
 }

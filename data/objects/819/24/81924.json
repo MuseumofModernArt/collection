@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Etienne (Istvan) B\u00e9othy", 
   "URL": "http://www.moma.org/collection/works/81924", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The Riklis Collection of McCrory Corporation", 
-  "Date": "1919", 
-  "ArtistID": 485, 
+  "DateAcquired": "1985-10-25", 
   "Keywords": [
-    "online art collection", 
     "Etienne (Istvan) B&eacute;othy", 
     "Project for a Monument \"Aranysor\" (Golden Row)", 
     "1919"
   ], 
+  "ArtistID": 485, 
+  "Title": "Project for a Monument \"Aranysor\" (Golden Row)", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "991.1983", 
+  "Date": "1919", 
   "ArtistBio": "(Hungarian, 1897\u20131962)", 
-  "DateAcquired": "1985-10-25", 
-  "\ufeffTitle": "Project for a Monument \"Aranysor\" (Golden Row)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81924"
 }

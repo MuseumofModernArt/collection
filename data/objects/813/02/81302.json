@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Magdalena Abakanowicz", 
   "URL": "http://www.moma.org/collection/works/81302", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Agnes Gund", 
-  "Date": "1989", 
-  "ArtistID": 38, 
+  "DateAcquired": "1997-06-02", 
   "Keywords": [
-    "online art collection", 
     "Magdalena Abakanowicz", 
     "Winged Trunk", 
     "1989"
   ], 
+  "ArtistID": 38, 
+  "Title": "Winged Trunk", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "289.1997", 
+  "Date": "1989", 
   "ArtistBio": "(Polish, born 1930)", 
-  "DateAcquired": "1997-06-02", 
-  "\ufeffTitle": "Winged Trunk", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81302"
 }

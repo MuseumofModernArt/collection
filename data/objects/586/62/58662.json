@@ -4,21 +4,20 @@
   "Classification": "Photograph", 
   "Artist": "Pacific & Atlantic Photos", 
   "URL": "http://www.moma.org/collection/works/58662", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The New York Times Collection", 
-  "Date": "June 2, 1924", 
-  "ArtistID": 8593, 
+  "DateAcquired": "2001-06-14", 
   "Keywords": [
-    "online art collection", 
     "Pacific & Atlantic Photos", 
     "\"Klan Wins in Bitterest of Fights\"", 
     "June 2", 
     "1924"
   ], 
+  "ArtistID": 8593, 
+  "Title": "\"Klan Wins in Bitterest of Fights\"", 
   "Department": "Photography", 
   "MoMANumber": "2069.2001", 
+  "Date": "June 2, 1924", 
   "ArtistBio": "(Active 1921\u20131932)", 
-  "DateAcquired": "2001-06-14", 
-  "\ufeffTitle": "\"Klan Wins in Bitterest of Fights\"", 
+  "CuratorApproved": "Y", 
   "ObjectID": "58662"
 }

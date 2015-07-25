@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Umberto Boccioni", 
   "URL": "http://www.moma.org/collection/works/80199", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Herbert and Nannette Rothschild", 
-  "Date": "1911", 
-  "ArtistID": 624, 
+  "DateAcquired": "1959-09-15", 
   "Keywords": [
-    "online art collection", 
     "Umberto Boccioni", 
     "The Laugh", 
     "1911"
   ], 
+  "ArtistID": 624, 
+  "Title": "The Laugh", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "656.1959", 
+  "Date": "1911", 
   "ArtistBio": "(Italian, 1882\u20131916)", 
-  "DateAcquired": "1959-09-15", 
-  "\ufeffTitle": "The Laugh", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80199"
 }

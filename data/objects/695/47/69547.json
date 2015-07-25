@@ -4,12 +4,9 @@
   "Classification": "Print", 
   "Artist": "Various Artists, Fairfield Porter, Philip Pearlstein, Robert Andrew Parker, Richard Lindner, Alex Katz, Philip Guston, Chaim Gross, Red Grooms, James Brooks, Jack Beal", 
   "URL": "http://www.moma.org/collection/works/69547", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Given anonymously", 
-  "Date": "1971", 
-  "ArtistID": 6104, 
+  "DateAcquired": "1989-01-18", 
   "Keywords": [
-    "online art collection", 
     "Various Artists with Fairfield Porter", 
     "Philip Pearlstein", 
     "Robert Andrew Parker", 
@@ -22,10 +19,12 @@
     "Ten Lithographs by Ten Artists", 
     "(1971)"
   ], 
+  "ArtistID": 6104, 
+  "Title": "Ten Lithographs by Ten Artists", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "460.1988.1-10", 
+  "Date": "1971", 
   "ArtistBio": "(American) (American, 1907\u20131975) (American, born 1924) (American, born 1927) (American, 1901\u20131978) (American, born 1927) (American, born Canada. 1913\u20131980) (American, born Austria. 1904\u20131991) (American, born 1937) (American, 1906\u20131992) (American,1931\u20132013)", 
-  "DateAcquired": "1989-01-18", 
-  "\ufeffTitle": "Ten Lithographs by Ten Artists", 
+  "CuratorApproved": "Y", 
   "ObjectID": "69547"
 }

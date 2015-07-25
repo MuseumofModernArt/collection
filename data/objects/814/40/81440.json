@@ -4,21 +4,20 @@
   "Classification": "Sculpture", 
   "Artist": "Naum Gabo", 
   "URL": "http://www.moma.org/collection/works/81440", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "c. 1917-20 (after a work of 1916)", 
-  "ArtistID": 2043, 
+  "DateAcquired": "1938-10-20", 
   "Keywords": [
-    "online art collection", 
     "Naum Gabo", 
     "Head of a Woman", 
     "c", 
     "1917-20 (after a work of 1916)"
   ], 
+  "ArtistID": 2043, 
+  "Title": "Head of a Woman", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "397.1938", 
+  "Date": "c. 1917-20 (after a work of 1916)", 
   "ArtistBio": "(American, born Russia. 1890\u20131977)", 
-  "DateAcquired": "1938-10-20", 
-  "\ufeffTitle": "Head of a Woman", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81440"
 }

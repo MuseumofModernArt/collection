@@ -4,22 +4,21 @@
   "Classification": "Photograph", 
   "Artist": "U.S. Coast Guard", 
   "URL": "http://www.moma.org/collection/works/58822", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The New York Times Collection", 
-  "Date": "June 6, 1944", 
-  "ArtistID": 8640, 
+  "DateAcquired": "2001-06-14", 
   "Keywords": [
-    "online art collection", 
     "U,S", 
     "Coast Guard", 
     "\"Into the Jaws of Death\"", 
     "June 6", 
     "1944"
   ], 
+  "ArtistID": 8640, 
+  "Title": "\"Into the Jaws of Death\"", 
   "Department": "Photography", 
   "MoMANumber": "2229.2001", 
+  "Date": "June 6, 1944", 
   "ArtistBio": "(American)", 
-  "DateAcquired": "2001-06-14", 
-  "\ufeffTitle": "\"Into the Jaws of Death\"", 
+  "CuratorApproved": "Y", 
   "ObjectID": "58822"
 }

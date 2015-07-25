@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Al Held", 
   "URL": "http://www.moma.org/collection/works/80637", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Lita Hornick Bequest", 
-  "Date": "1964", 
-  "ArtistID": 2583, 
+  "DateAcquired": "2000-11-06", 
   "Keywords": [
-    "online art collection", 
     "Al Held", 
     "Maltese Cross", 
     "1964"
   ], 
+  "ArtistID": 2583, 
+  "Title": "Maltese Cross", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "1326.2000", 
+  "Date": "1964", 
   "ArtistBio": "(American, 1928\u20132005)", 
-  "DateAcquired": "2000-11-06", 
-  "\ufeffTitle": "Maltese Cross", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80637"
 }

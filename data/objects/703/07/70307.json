@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Richard Smith", 
   "URL": "http://www.moma.org/collection/works/70307", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Reiss-Cohen Fund", 
-  "Date": "1971", 
-  "ArtistID": 5493, 
+  "DateAcquired": "1971-10-07", 
   "Keywords": [
-    "online art collection", 
     "Richard Smith", 
     "Proscenium I", 
     "1971"
   ], 
+  "ArtistID": 5493, 
+  "Title": "Proscenium I", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "511.1971", 
+  "Date": "1971", 
   "ArtistBio": "(British, born 1931)", 
-  "DateAcquired": "1971-10-07", 
-  "\ufeffTitle": "Proscenium I", 
+  "CuratorApproved": "Y", 
   "ObjectID": "70307"
 }

@@ -4,12 +4,9 @@
   "Classification": "Painting", 
   "Artist": "Paul Signac", 
   "URL": "http://www.moma.org/collection/works/80023", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Mrs. John Hay Whitney Bequest", 
-  "Date": "1891", 
-  "ArtistID": 5421, 
+  "DateAcquired": "1998-09-22", 
   "Keywords": [
-    "online art collection", 
     "Paul Signac", 
     "Setting Sun", 
     "Sardine Fishing", 
@@ -19,10 +16,12 @@
     "Concarneau", 
     "1891"
   ], 
+  "ArtistID": 5421, 
+  "Title": "Setting Sun. Sardine Fishing. Adagio. Opus 221 from the series The Sea, The Boats, Concarneau", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "585.1998", 
+  "Date": "1891", 
   "ArtistBio": "(French, 1863\u20131935)", 
-  "DateAcquired": "1998-09-22", 
-  "\ufeffTitle": "Setting Sun. Sardine Fishing. Adagio. Opus 221 from the series The Sea, The Boats, Concarneau", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80023"
 }

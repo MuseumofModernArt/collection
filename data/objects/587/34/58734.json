@@ -4,20 +4,19 @@
   "Classification": "Photograph", 
   "Artist": "Times Wide World Photos", 
   "URL": "http://www.moma.org/collection/works/58734", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The New York Times Collection", 
-  "Date": "June 1928", 
-  "ArtistID": 8632, 
+  "DateAcquired": "2001-06-14", 
   "Keywords": [
-    "online art collection", 
     "Times Wide World Photos", 
     "After the Wedding in Albany", 
     "June 1928"
   ], 
+  "ArtistID": 8632, 
+  "Title": "After the Wedding in Albany", 
   "Department": "Photography", 
   "MoMANumber": "2141.2001", 
+  "Date": "June 1928", 
   "ArtistBio": "(American, active 1919\u20131941)", 
-  "DateAcquired": "2001-06-14", 
-  "\ufeffTitle": "After the Wedding in Albany", 
+  "CuratorApproved": "Y", 
   "ObjectID": "58734"
 }

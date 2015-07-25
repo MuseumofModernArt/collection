@@ -4,21 +4,20 @@
   "Classification": "Painting", 
   "Artist": "Sigmar Polke", 
   "URL": "http://www.moma.org/collection/works/79118", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Werner and Elaine Dannheisser", 
-  "Date": "1988", 
-  "ArtistID": 4671, 
+  "DateAcquired": "1996-04-09", 
   "Keywords": [
-    "online art collection", 
     "Sigmar Polke", 
     "Untitled", 
     "Number 5", 
     "1988"
   ], 
+  "ArtistID": 4671, 
+  "Title": "Untitled, Number 5", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "199.1996", 
+  "Date": "1988", 
   "ArtistBio": "(German, 1941\u20132010)", 
-  "DateAcquired": "1996-04-09", 
-  "\ufeffTitle": "Untitled, Number 5", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79118"
 }

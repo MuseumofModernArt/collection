@@ -4,12 +4,9 @@
   "Classification": "A&D Graphic Design", 
   "Artist": "Frantisek Kalivoda", 
   "URL": "http://www.moma.org/collection/works/7966", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Jan Tschichold Collection, Gift of Philip Johnson", 
-  "Date": "Unknown", 
-  "ArtistID": 8251, 
+  "DateAcquired": "1999-12-10", 
   "Keywords": [
-    "online art collection", 
     "Frantisek Kalivoda", 
     "Arch", 
     "Frantisek Kalivoda vystavuje nejnovejsi typy finskeho sedaciho nabytku podle navrhu arch", 
@@ -17,10 +14,12 @@
     "Helsingfors", 
     "Unknown"
   ], 
+  "ArtistID": 8251, 
+  "Title": "Arch. Frantisek Kalivoda vystavuje nejnovejsi typy finskeho sedaciho nabytku podle navrhu arch. Alvara Aalto, Helsingfors", 
   "Department": "Architecture & Design", 
   "MoMANumber": "702.1999", 
+  "Date": "Unknown", 
   "ArtistBio": "(Czech, 1913\u20131971)", 
-  "DateAcquired": "1999-12-10", 
-  "\ufeffTitle": "Arch. Frantisek Kalivoda vystavuje nejnovejsi typy finskeho sedaciho nabytku podle navrhu arch. Alvara Aalto, Helsingfors", 
+  "CuratorApproved": "Y", 
   "ObjectID": "7966"
 }

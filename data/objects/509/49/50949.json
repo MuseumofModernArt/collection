@@ -4,12 +4,9 @@
   "Classification": "Photograph", 
   "Artist": "Arthur Rothstein", 
   "URL": "http://www.moma.org/collection/works/50949", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the photographer", 
-  "Date": "April 1936", 
-  "ArtistID": 5050, 
+  "DateAcquired": "1959-04-22", 
   "Keywords": [
-    "online art collection", 
     "Arthur Rothstein", 
     "Farmer and Sons Walking in Dust Storm", 
     "Cimaroon County", 
@@ -17,10 +14,12 @@
     "April 1936", 
     "1936"
   ], 
+  "ArtistID": 5050, 
+  "Title": "Farmer and Sons Walking in Dust Storm, Cimaroon County, Oklahoma", 
   "Department": "Photography", 
   "MoMANumber": "330.1959", 
+  "Date": "April 1936", 
   "ArtistBio": "(American, 1915\u20131985)", 
-  "DateAcquired": "1959-04-22", 
-  "\ufeffTitle": "Farmer and Sons Walking in Dust Storm, Cimaroon County, Oklahoma", 
+  "CuratorApproved": "Y", 
   "ObjectID": "50949"
 }

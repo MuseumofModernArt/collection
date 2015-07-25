@@ -4,20 +4,19 @@
   "Classification": "Illustrated Book", 
   "Artist": "Kazimir Malevich", 
   "URL": "http://www.moma.org/collection/works/13647", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Abby Aldrich Rockefeller Fund (by exchange)", 
-  "Date": "1913", 
-  "ArtistID": 3710, 
+  "DateAcquired": "1977-05-03", 
   "Keywords": [
-    "online art collection", 
     "Kazimir Malevich", 
     "Troe (The Three)", 
     "1913"
   ], 
+  "ArtistID": 3710, 
+  "Title": "Troe (The Three)", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "208.1977.1-2", 
+  "Date": "1913", 
   "ArtistBio": "(Russian, born Ukraine. 1878\u20131935)", 
-  "DateAcquired": "1977-05-03", 
-  "\ufeffTitle": "Troe (The Three)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "13647"
 }

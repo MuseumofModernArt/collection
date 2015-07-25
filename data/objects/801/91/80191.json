@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Barnett Newman", 
   "URL": "http://www.moma.org/collection/works/80191", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Philip Johnson Fund", 
-  "Date": "1949", 
-  "ArtistID": 4285, 
+  "DateAcquired": "1959-06-11", 
   "Keywords": [
-    "online art collection", 
     "Barnett Newman", 
     "Abraham", 
     "1949"
   ], 
+  "ArtistID": 4285, 
+  "Title": "Abraham", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "651.1959", 
+  "Date": "1949", 
   "ArtistBio": "(American, 1905\u20131970)", 
-  "DateAcquired": "1959-06-11", 
-  "\ufeffTitle": "Abraham", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80191"
 }

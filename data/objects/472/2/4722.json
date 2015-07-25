@@ -4,12 +4,9 @@
   "Classification": "A&D Design", 
   "Artist": "Pentagram, Bob Olodort, John Tang, Peter Cazalet, Robert Brunner, Benjamin Chia", 
   "URL": "http://www.moma.org/collection/works/4722", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the designer", 
-  "Date": "1999", 
-  "ArtistID": 8434, 
+  "DateAcquired": "2000-12-11", 
   "Keywords": [
-    "online art collection", 
     "Pentagram", 
     "Bob Olodort", 
     "John Tang", 
@@ -18,10 +15,12 @@
     "Stowaway Portable Keyboard", 
     "1999"
   ], 
+  "ArtistID": 8434, 
+  "Title": "Stowaway Portable Keyboard", 
   "Department": "Architecture & Design", 
   "MoMANumber": "1428.2000", 
+  "Date": "1999", 
   "ArtistBio": "(UK and USA, est. 1972) (American, born 1946) (American, born 1959) (American, born 1969) (American, born 1958)", 
-  "DateAcquired": "2000-12-11", 
-  "\ufeffTitle": "Stowaway Portable Keyboard", 
+  "CuratorApproved": "Y", 
   "ObjectID": "4722"
 }

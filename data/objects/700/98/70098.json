@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Pablo Picasso", 
   "URL": "http://www.moma.org/collection/works/70098", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Abby Aldrich Rockefeller", 
-  "Date": "(1923-24)", 
-  "ArtistID": 4609, 
+  "DateAcquired": "1940-04-05", 
   "Keywords": [
-    "online art collection", 
     "Pablo Picasso", 
     "Woman Seated (Femme assise)", 
     "(1923-24)"
   ], 
+  "ArtistID": 4609, 
+  "Title": "Woman Seated (Femme assise)", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "493.1940", 
+  "Date": "(1923-24)", 
   "ArtistBio": "(Spanish, 1881\u20131973)", 
-  "DateAcquired": "1940-04-05", 
-  "\ufeffTitle": "Woman Seated (Femme assise)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "70098"
 }

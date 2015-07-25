@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Romare Bearden", 
   "URL": "http://www.moma.org/collection/works/79986", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Blanchette Hooker Rockefeller Fund", 
-  "Date": "1970", 
-  "ArtistID": 412, 
+  "DateAcquired": "1970-12-08", 
   "Keywords": [
-    "online art collection", 
     "Romare Bearden", 
     "Patchwork Quilt", 
     "1970"
   ], 
+  "ArtistID": 412, 
+  "Title": "Patchwork Quilt", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "573.1970", 
+  "Date": "1970", 
   "ArtistBio": "(American, 1911\u20131988)", 
-  "DateAcquired": "1970-12-08", 
-  "\ufeffTitle": "Patchwork Quilt", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79986"
 }

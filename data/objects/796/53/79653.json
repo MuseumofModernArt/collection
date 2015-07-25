@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Allan McCollum", 
   "URL": "http://www.moma.org/collection/works/79653", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Robert and Meryl Meltzer and Robert F. and Anna Marie Shapiro Funds", 
-  "Date": "1982 (cast and painted in 1984)", 
-  "ArtistID": 3872, 
+  "DateAcquired": "1988-12-12", 
   "Keywords": [
-    "online art collection", 
     "Allan McCollum", 
     "Collection of Forty Plaster Surrogates", 
     "1982 (cast and painted in 1984)"
   ], 
+  "ArtistID": 3872, 
+  "Title": "Collection of Forty Plaster Surrogates", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "417.1988.a-nn", 
+  "Date": "1982 (cast and painted in 1984)", 
   "ArtistBio": "(American, born 1944)", 
-  "DateAcquired": "1988-12-12", 
-  "\ufeffTitle": "Collection of Forty Plaster Surrogates", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79653"
 }

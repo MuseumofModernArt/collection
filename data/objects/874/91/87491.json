@@ -4,12 +4,9 @@
   "Classification": "A&D Mies van der Rohe Archive", 
   "Artist": "Ludwig Mies van der Rohe, Philip Johnson, Kahn & Jacobs", 
   "URL": "http://www.moma.org/collection/works/87491", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Mies van der Rohe Archive, gift of the architect\r\n", 
-  "Date": "1957", 
-  "ArtistID": 7166, 
+  "DateAcquired": "", 
   "Keywords": [
-    "online art collection", 
     "Ludwig Mies van der Rohe with Philip Johnson and Kahn & Jacobs", 
     "Seagram Building", 
     "New York City", 
@@ -17,10 +14,12 @@
     "North and west elevations", 
     "1957"
   ], 
+  "ArtistID": 7166, 
+  "Title": "Seagram Building, New York City, New York, North and west elevations", 
   "Department": "Architecture & Design", 
   "MoMANumber": "MRJB54.51", 
+  "Date": "1957", 
   "ArtistBio": "(American, born Germany. 1886\u20131969) (American, 1906\u20132005)", 
-  "DateAcquired": "", 
-  "\ufeffTitle": "Seagram Building, New York City, New York, North and west elevations", 
+  "CuratorApproved": "Y", 
   "ObjectID": "87491"
 }

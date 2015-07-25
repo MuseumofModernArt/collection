@@ -4,21 +4,20 @@
   "Classification": "Print", 
   "Artist": "Andy Warhol", 
   "URL": "http://www.moma.org/collection/works/66286", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Edition Schellmann, Munich and New York", 
-  "Date": "1984", 
-  "ArtistID": 6246, 
+  "DateAcquired": "1989-10-12", 
   "Keywords": [
-    "online art collection", 
     "Andy Warhol", 
     "Leonardo da Vinci", 
     "The Annunciation 1473 from the series Details of Renaissance Paintings", 
     "1984"
   ], 
+  "ArtistID": 6246, 
+  "Title": "Leonardo da Vinci, The Annunciation 1473 from the series Details of Renaissance Paintings", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "293.1989", 
+  "Date": "1984", 
   "ArtistBio": "(American, 1928\u20131987)", 
-  "DateAcquired": "1989-10-12", 
-  "\ufeffTitle": "Leonardo da Vinci, The Annunciation 1473 from the series Details of Renaissance Paintings", 
+  "CuratorApproved": "Y", 
   "ObjectID": "66286"
 }

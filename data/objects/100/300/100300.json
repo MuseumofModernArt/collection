@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Ken Price", 
   "URL": "http://www.moma.org/collection/works/100300", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Edward R. Broida", 
-  "Date": "2000", 
-  "ArtistID": 4734, 
+  "DateAcquired": "2005-10-06", 
   "Keywords": [
-    "online art collection", 
     "Ken Price", 
     "Pacific", 
     "2000"
   ], 
+  "ArtistID": 4734, 
+  "Title": "Pacific", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "759.2005", 
+  "Date": "2000", 
   "ArtistBio": "(American, 1935\u20132012)", 
-  "DateAcquired": "2005-10-06", 
-  "\ufeffTitle": "Pacific", 
+  "CuratorApproved": "Y", 
   "ObjectID": "100300"
 }

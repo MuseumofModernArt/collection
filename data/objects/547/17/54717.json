@@ -4,21 +4,20 @@
   "Classification": "Photograph", 
   "Artist": "Gilles Peress", 
   "URL": "http://www.moma.org/collection/works/54717", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1980", 
-  "ArtistID": 4554, 
+  "DateAcquired": "1980-10-23", 
   "Keywords": [
-    "online art collection", 
     "Gilles Peress", 
     "Ex-Savak Agent", 
     "Tehran", 
     "1980"
   ], 
+  "ArtistID": 4554, 
+  "Title": "Ex-Savak Agent, Tehran", 
   "Department": "Photography", 
   "MoMANumber": "526.1980", 
+  "Date": "1980", 
   "ArtistBio": "(French, born 1946)", 
-  "DateAcquired": "1980-10-23", 
-  "\ufeffTitle": "Ex-Savak Agent, Tehran", 
+  "CuratorApproved": "Y", 
   "ObjectID": "54717"
 }

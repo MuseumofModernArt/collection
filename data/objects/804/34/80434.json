@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Pablo Picasso", 
   "URL": "http://www.moma.org/collection/works/80434", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Nelson A. Rockefeller Bequest", 
-  "Date": "Paris 1916", 
-  "ArtistID": 4609, 
+  "DateAcquired": "1979-10-09", 
   "Keywords": [
-    "online art collection", 
     "Pablo Picasso", 
     "Still Life: \"Job\"", 
     "Paris 1916"
   ], 
+  "ArtistID": 4609, 
+  "Title": "Still Life: \"Job\"", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "971.1979", 
+  "Date": "Paris 1916", 
   "ArtistBio": "(Spanish, 1881\u20131973)", 
-  "DateAcquired": "1979-10-09", 
-  "\ufeffTitle": "Still Life: \"Job\"", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80434"
 }

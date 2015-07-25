@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Shuji Mukai", 
   "URL": "http://www.moma.org/collection/works/80071", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1963", 
-  "ArtistID": 4143, 
+  "DateAcquired": "1965-06-08", 
   "Keywords": [
-    "online art collection", 
     "Shuji Mukai", 
     "Untitled", 
     "1963"
   ], 
+  "ArtistID": 4143, 
+  "Title": "Untitled", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "609.1965", 
+  "Date": "1963", 
   "ArtistBio": "(Japanese, born 1939)", 
-  "DateAcquired": "1965-06-08", 
-  "\ufeffTitle": "Untitled", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80071"
 }

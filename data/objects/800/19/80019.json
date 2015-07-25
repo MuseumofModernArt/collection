@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Richard Eurich", 
   "URL": "http://www.moma.org/collection/works/80019", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the American Academy and National Institute of Arts and Letters Fund, through the American British Art Center", 
-  "Date": "1939", 
-  "ArtistID": 1771, 
+  "DateAcquired": "1942-12-29", 
   "Keywords": [
-    "online art collection", 
     "Richard Eurich", 
     "The New Forest", 
     "1939"
   ], 
+  "ArtistID": 1771, 
+  "Title": "The New Forest", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "584.1942", 
+  "Date": "1939", 
   "ArtistBio": "(British, 1903\u20131992)", 
-  "DateAcquired": "1942-12-29", 
-  "\ufeffTitle": "The New Forest", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80019"
 }

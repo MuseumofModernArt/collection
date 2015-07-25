@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Max Ernst", 
   "URL": "http://www.moma.org/collection/works/79293", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1924", 
-  "ArtistID": 1752, 
+  "DateAcquired": "1937-12-03", 
   "Keywords": [
-    "online art collection", 
     "Max Ernst", 
     "Two Children Are Threatened by a Nightingale", 
     "1924"
   ], 
+  "ArtistID": 1752, 
+  "Title": "Two Children Are Threatened by a Nightingale", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "256.1937", 
+  "Date": "1924", 
   "ArtistBio": "(French, born Germany. 1891\u20131976)", 
-  "DateAcquired": "1937-12-03", 
-  "\ufeffTitle": "Two Children Are Threatened by a Nightingale", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79293"
 }

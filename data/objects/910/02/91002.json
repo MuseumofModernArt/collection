@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Sherrie Levine", 
   "URL": "http://www.moma.org/collection/works/91002", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1987", 
-  "ArtistID": 3515, 
+  "DateAcquired": "2004-03-09", 
   "Keywords": [
-    "online art collection", 
     "Sherrie Levine", 
     "Large Check: 1", 
     "1987"
   ], 
+  "ArtistID": 3515, 
+  "Title": "Large Check: 1", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "28.2004.1", 
+  "Date": "1987", 
   "ArtistBio": "(American, born 1947)", 
-  "DateAcquired": "2004-03-09", 
-  "\ufeffTitle": "Large Check: 1", 
+  "CuratorApproved": "Y", 
   "ObjectID": "91002"
 }

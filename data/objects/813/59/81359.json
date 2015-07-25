@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Max Ernst", 
   "URL": "http://www.moma.org/collection/works/81359", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of D. and J. de Menil", 
-  "Date": "1944 (cast 1954)", 
-  "ArtistID": 1752, 
+  "DateAcquired": "1955-11-23", 
   "Keywords": [
-    "online art collection", 
     "Max Ernst", 
     "The King Playing with the Queen", 
     "1944 (cast 1954)"
   ], 
+  "ArtistID": 1752, 
+  "Title": "The King Playing with the Queen", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "330.1955", 
+  "Date": "1944 (cast 1954)", 
   "ArtistBio": "(French, born Germany. 1891\u20131976)", 
-  "DateAcquired": "1955-11-23", 
-  "\ufeffTitle": "The King Playing with the Queen", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81359"
 }

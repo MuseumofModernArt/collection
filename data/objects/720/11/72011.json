@@ -4,12 +4,9 @@
   "Classification": "Print", 
   "Artist": "Louise Bourgeois", 
   "URL": "http://www.moma.org/collection/works/72011", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the artist", 
-  "Date": "(1992)", 
-  "ArtistID": 710, 
+  "DateAcquired": "1993-11-17", 
   "Keywords": [
-    "online art collection", 
     "Louise Bourgeois", 
     "We Love You", 
     "second version", 
@@ -17,10 +14,12 @@
     "variant", 
     "(1992)"
   ], 
+  "ArtistID": 710, 
+  "Title": "We Love You, second version, only state, variant", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "623.1993", 
+  "Date": "(1992)", 
   "ArtistBio": "(American, born France. 1911\u20132010)", 
-  "DateAcquired": "1993-11-17", 
-  "\ufeffTitle": "We Love You, second version, only state, variant", 
+  "CuratorApproved": "Y", 
   "ObjectID": "72011"
 }

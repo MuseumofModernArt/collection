@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Minna Citron", 
   "URL": "http://www.moma.org/collection/works/63313", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1973", 
-  "ArtistID": 1130, 
+  "DateAcquired": "1973-05-07", 
   "Keywords": [
-    "online art collection", 
     "Minna Citron", 
     "Encasement", 
     "1973"
   ], 
+  "ArtistID": 1130, 
+  "Title": "Encasement", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "161.1973", 
+  "Date": "1973", 
   "ArtistBio": "(American, 1896\u20131991)", 
-  "DateAcquired": "1973-05-07", 
-  "\ufeffTitle": "Encasement", 
+  "CuratorApproved": "Y", 
   "ObjectID": "63313"
 }

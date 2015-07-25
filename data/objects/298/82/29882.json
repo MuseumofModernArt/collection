@@ -4,20 +4,19 @@
   "Classification": "Illustrated Book", 
   "Artist": "Pablo Picasso", 
   "URL": "http://www.moma.org/collection/works/29882", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The Louis E. Stern Collection", 
-  "Date": "1952", 
-  "ArtistID": 4609, 
+  "DateAcquired": "1964-10-06", 
   "Keywords": [
-    "online art collection", 
     "Pablo Picasso", 
     "La Ch&egrave;vre", 
     "1952"
   ], 
+  "ArtistID": 4609, 
+  "Title": "La Ch\u00e8vre", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "1001.1964", 
+  "Date": "1952", 
   "ArtistBio": "(Spanish, 1881\u20131973)", 
-  "DateAcquired": "1964-10-06", 
-  "\ufeffTitle": "La Ch\u00e8vre", 
+  "CuratorApproved": "Y", 
   "ObjectID": "29882"
 }

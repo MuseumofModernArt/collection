@@ -4,22 +4,21 @@
   "Classification": "A&D Graphic Design", 
   "Artist": "E. McKnight Kauffer", 
   "URL": "http://www.moma.org/collection/works/6565", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of G. E. Kidder Smith", 
-  "Date": "1923", 
-  "ArtistID": 3020, 
+  "DateAcquired": "1943-05-12", 
   "Keywords": [
-    "online art collection", 
     "E", 
     "McKnight Kauffer", 
     "Museum of Natural History", 
     "South Kensington", 
     "1923"
   ], 
+  "ArtistID": 3020, 
+  "Title": "Museum of Natural History, South Kensington (Poster for London Transport)", 
   "Department": "Architecture & Design", 
   "MoMANumber": "369.1943", 
+  "Date": "1923", 
   "ArtistBio": "(American, 1890\u20131954)", 
-  "DateAcquired": "1943-05-12", 
-  "\ufeffTitle": "Museum of Natural History, South Kensington (Poster for London Transport)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "6565"
 }

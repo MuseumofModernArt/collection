@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Henry Moore", 
   "URL": "http://www.moma.org/collection/works/80846", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Acquired through the Lillie P. Bliss Bequest", 
-  "Date": "1938", 
-  "ArtistID": 4071, 
+  "DateAcquired": "1953-01-30", 
   "Keywords": [
-    "online art collection", 
     "Henry Moore", 
     "Mother and Child", 
     "1938"
   ], 
+  "ArtistID": 4071, 
+  "Title": "Mother and Child", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "21.1953", 
+  "Date": "1938", 
   "ArtistBio": "(British, 1898\u20131986)", 
-  "DateAcquired": "1953-01-30", 
-  "\ufeffTitle": "Mother and Child", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80846"
 }

@@ -4,21 +4,20 @@
   "Classification": "Photograph", 
   "Artist": "Henri Cartier-Bresson", 
   "URL": "http://www.moma.org/collection/works/49958", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the photographer", 
-  "Date": "1934-35 (printed 1947 by LECO Photo Services)", 
-  "ArtistID": 1000, 
+  "DateAcquired": "1947-10-16", 
   "Keywords": [
-    "online art collection", 
     "Henri Cartier-Bresson", 
     "Calle Cuauhtemoctzin", 
     "Mexico City", 
     "1934-35 (printed 1947 by LECO Photo Services)"
   ], 
+  "ArtistID": 1000, 
+  "Title": "Calle Cuauhtemoctzin, Mexico City", 
   "Department": "Photography", 
   "MoMANumber": "284.1947", 
+  "Date": "1934-35 (printed 1947 by LECO Photo Services)", 
   "ArtistBio": "(French, 1908\u20132004)", 
-  "DateAcquired": "1947-10-16", 
-  "\ufeffTitle": "Calle Cuauhtemoctzin, Mexico City", 
+  "CuratorApproved": "Y", 
   "ObjectID": "49958"
 }

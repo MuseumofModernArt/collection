@@ -4,20 +4,19 @@
   "Classification": "Drawing", 
   "Artist": "John Marin", 
   "URL": "http://www.moma.org/collection/works/34702", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Acquired through the Lillie P. Bliss Bequest", 
-  "Date": "1922", 
-  "ArtistID": 3770, 
+  "DateAcquired": "1945-04-26", 
   "Keywords": [
-    "online art collection", 
     "John Marin", 
     "Lower Manhattan (Composing Derived from Top of Woolworth)", 
     "1922"
   ], 
+  "ArtistID": 3770, 
+  "Title": "Lower Manhattan (Composing Derived from Top of Woolworth)", 
   "Department": "Drawings", 
   "MoMANumber": "143.1945", 
+  "Date": "1922", 
   "ArtistBio": "(American, 1870\u20131953)", 
-  "DateAcquired": "1945-04-26", 
-  "\ufeffTitle": "Lower Manhattan (Composing Derived from Top of Woolworth)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "34702"
 }

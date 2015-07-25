@@ -4,21 +4,20 @@
   "Classification": "Sculpture", 
   "Artist": "Yvaral (Jean Pierre Vasarely)", 
   "URL": "http://www.moma.org/collection/works/80845", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Philip Johnson", 
-  "Date": "1962", 
-  "ArtistID": 6527, 
+  "DateAcquired": "1963-01-08", 
   "Keywords": [
-    "online art collection", 
     "Yvaral (Jean Pierre Vasarely)", 
     "Acceleration 19", 
     "Series B", 
     "1962"
   ], 
+  "ArtistID": 6527, 
+  "Title": "Acceleration 19, Series B", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "20.1963", 
+  "Date": "1962", 
   "ArtistBio": "(French, 1934\u20132002)", 
-  "DateAcquired": "1963-01-08", 
-  "\ufeffTitle": "Acceleration 19, Series B", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80845"
 }

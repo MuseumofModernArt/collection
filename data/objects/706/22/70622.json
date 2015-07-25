@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Max Oppenheimer (MOPP)", 
   "URL": "http://www.moma.org/collection/works/70622", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Given anonymously", 
-  "Date": "(1912)", 
-  "ArtistID": 4073, 
+  "DateAcquired": "1942-11-19", 
   "Keywords": [
-    "online art collection", 
     "Max Oppenheimer (MOPP)", 
     "Manfred Gurlitt", 
     "(1912)"
   ], 
+  "ArtistID": 4073, 
+  "Title": "Manfred Gurlitt", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "529.1942", 
+  "Date": "(1912)", 
   "ArtistBio": "(American, born Austria. 1885\u20131954)", 
-  "DateAcquired": "1942-11-19", 
-  "\ufeffTitle": "Manfred Gurlitt", 
+  "CuratorApproved": "Y", 
   "ObjectID": "70622"
 }

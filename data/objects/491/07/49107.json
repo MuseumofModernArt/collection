@@ -4,20 +4,19 @@
   "Classification": "Photograph", 
   "Artist": "William Wegman", 
   "URL": "http://www.moma.org/collection/works/49107", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Robert and Gayle Greenhill", 
-  "Date": "1979", 
-  "ArtistID": 6281, 
+  "DateAcquired": "1994-03-10", 
   "Keywords": [
-    "online art collection", 
     "William Wegman", 
     "Untitled Salesman (man in the sky)", 
     "1979"
   ], 
+  "ArtistID": 6281, 
+  "Title": "Untitled Salesman (man in the sky)", 
   "Department": "Photography", 
   "MoMANumber": "225.1994", 
+  "Date": "1979", 
   "ArtistBio": "(American, born 1943)", 
-  "DateAcquired": "1994-03-10", 
-  "\ufeffTitle": "Untitled Salesman (man in the sky)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "49107"
 }

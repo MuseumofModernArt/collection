@@ -4,12 +4,9 @@
   "Classification": "Print", 
   "Artist": "Karl Schmidt-Rottluff", 
   "URL": "http://www.moma.org/collection/works/73064", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Transferred from the Museum Library", 
-  "Date": "1918 (executed 1917)", 
-  "ArtistID": 5242, 
+  "DateAcquired": "1949-09-29", 
   "Keywords": [
-    "online art collection", 
     "Karl Schmidt-Rottluff", 
     "Girl with Braids (M&auml;dchen mit Z&ouml;pfen) (plate", 
     "loose leaf) from the periodical Das Kunstblatt", 
@@ -19,10 +16,12 @@
     "2 (Feb 1918)", 
     "1918 (executed 1917)"
   ], 
+  "ArtistID": 5242, 
+  "Title": "Girl with Braids (M\u00e4dchen mit Z\u00f6pfen) (plate, loose leaf) from the periodical Das Kunstblatt, vol. 2, no. 2 (Feb 1918)", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "679.1949", 
+  "Date": "1918 (executed 1917)", 
   "ArtistBio": "(German, 1884\u20131976)", 
-  "DateAcquired": "1949-09-29", 
-  "\ufeffTitle": "Girl with Braids (M\u00e4dchen mit Z\u00f6pfen) (plate, loose leaf) from the periodical Das Kunstblatt, vol. 2, no. 2 (Feb 1918)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "73064"
 }

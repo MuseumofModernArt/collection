@@ -4,12 +4,9 @@
   "Classification": "A&D Architectural Drawing", 
   "Artist": "Oscar Nitzchke", 
   "URL": "http://www.moma.org/collection/works/612", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Lily Auchincloss, Barbara Jakobson, and Walter Randel", 
-  "Date": "1936", 
-  "ArtistID": 4312, 
+  "DateAcquired": "1976-10-22", 
   "Keywords": [
-    "online art collection", 
     "Oscar Nitzchke", 
     "Maison de la Publicit&eacute; Project", 
     "Paris", 
@@ -17,10 +14,12 @@
     "Plan of entrance level with bar and exhibition space", 
     "1936"
   ], 
+  "ArtistID": 4312, 
+  "Title": "Maison de la Publicit\u00e9 Project, Paris, France, Plan of entrance level with bar and exhibition space", 
   "Department": "Architecture & Design", 
   "MoMANumber": "424.1976.6", 
+  "Date": "1936", 
   "ArtistBio": "(American, born Germany. 1900\u20131991)", 
-  "DateAcquired": "1976-10-22", 
-  "\ufeffTitle": "Maison de la Publicit\u00e9 Project, Paris, France, Plan of entrance level with bar and exhibition space", 
+  "CuratorApproved": "Y", 
   "ObjectID": "612"
 }

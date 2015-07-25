@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Lajos D'Ebneth", 
   "URL": "http://www.moma.org/collection/works/80469", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The Riklis Collection of McCrory Corporation", 
-  "Date": "1926", 
-  "ArtistID": 1350, 
+  "DateAcquired": "1983-10-25", 
   "Keywords": [
-    "online art collection", 
     "Lajos D'Ebneth", 
     "Composition", 
     "1926"
   ], 
+  "ArtistID": 1350, 
+  "Title": "Composition", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "1004.1983", 
+  "Date": "1926", 
   "ArtistBio": "(Hungarian, 1902\u20131982)", 
-  "DateAcquired": "1983-10-25", 
-  "\ufeffTitle": "Composition", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80469"
 }

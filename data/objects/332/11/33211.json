@@ -4,20 +4,19 @@
   "Classification": "Drawing", 
   "Artist": "David Bomberg", 
   "URL": "http://www.moma.org/collection/works/33211", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The Joan and Lester Avnet Collection", 
-  "Date": "1913", 
-  "ArtistID": 651, 
+  "DateAcquired": "1978-04-04", 
   "Keywords": [
-    "online art collection", 
     "David Bomberg", 
     "The Return of Ulysses", 
     "1913"
   ], 
+  "ArtistID": 651, 
+  "Title": "The Return of Ulysses", 
   "Department": "Drawings", 
   "MoMANumber": "16.1978", 
+  "Date": "1913", 
   "ArtistBio": "(British, 1890\u20131957)", 
-  "DateAcquired": "1978-04-04", 
-  "\ufeffTitle": "The Return of Ulysses", 
+  "CuratorApproved": "Y", 
   "ObjectID": "33211"
 }

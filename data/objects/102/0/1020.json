@@ -4,12 +4,9 @@
   "Classification": "A&D Architectural Model", 
   "Artist": "Frank O. Gehry", 
   "URL": "http://www.moma.org/collection/works/1020", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the architect", 
-  "Date": "1977-78", 
-  "ArtistID": 2108, 
+  "DateAcquired": "1988-11-22", 
   "Keywords": [
-    "online art collection", 
     "Frank O", 
     "Gehry", 
     "Familian House Project", 
@@ -17,10 +14,12 @@
     "California", 
     "1977-78"
   ], 
+  "ArtistID": 2108, 
+  "Title": "Familian House Project, Santa Monica, California", 
   "Department": "Architecture & Design", 
   "MoMANumber": "393.1988", 
+  "Date": "1977-78", 
   "ArtistBio": "(American, born Canada 1929)", 
-  "DateAcquired": "1988-11-22", 
-  "\ufeffTitle": "Familian House Project, Santa Monica, California", 
+  "CuratorApproved": "Y", 
   "ObjectID": "1020"
 }

@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Dennis Kardon", 
   "URL": "http://www.moma.org/collection/works/66659", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Elinor and Edmund Grasheim (through the Associates of the Department of Prints and Illustrated Books)", 
-  "Date": "1985", 
-  "ArtistID": 3000, 
+  "DateAcquired": "1985-10-07", 
   "Keywords": [
-    "online art collection", 
     "Dennis Kardon", 
     "Charlotte's Gaze", 
     "1985"
   ], 
+  "ArtistID": 3000, 
+  "Title": "Charlotte's Gaze", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "310.1985", 
+  "Date": "1985", 
   "ArtistBio": "(American, born 1950)", 
-  "DateAcquired": "1985-10-07", 
-  "\ufeffTitle": "Charlotte's Gaze", 
+  "CuratorApproved": "Y", 
   "ObjectID": "66659"
 }

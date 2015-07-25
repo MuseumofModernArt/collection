@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Matthew Barney", 
   "URL": "http://www.moma.org/collection/works/81911", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Acquisition from Werner and Elaine Dannheisser", 
-  "Date": "1991", 
-  "ArtistID": 7005, 
+  "DateAcquired": "1996-12-19", 
   "Keywords": [
-    "online art collection", 
     "Matthew Barney", 
     "Pace Car for the Hubris Pill", 
     "1991"
   ], 
+  "ArtistID": 7005, 
+  "Title": "Pace Car for the Hubris Pill", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "878.1996.a-d", 
+  "Date": "1991", 
   "ArtistBio": "(American, born 1967)", 
-  "DateAcquired": "1996-12-19", 
-  "\ufeffTitle": "Pace Car for the Hubris Pill", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81911"
 }

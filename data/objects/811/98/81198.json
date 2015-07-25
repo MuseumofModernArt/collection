@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "David Hare", 
   "URL": "http://www.moma.org/collection/works/81198", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Given anonymously", 
-  "Date": "1944 (cast 1946)", 
-  "ArtistID": 2504, 
+  "DateAcquired": "1969-04-08", 
   "Keywords": [
-    "online art collection", 
     "David Hare", 
     "Magician's Game", 
     "1944 (cast 1946)"
   ], 
+  "ArtistID": 2504, 
+  "Title": "Magician's Game", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "244.1969", 
+  "Date": "1944 (cast 1946)", 
   "ArtistBio": "(American, 1917\u20131992)", 
-  "DateAcquired": "1969-04-08", 
-  "\ufeffTitle": "Magician's Game", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81198"
 }

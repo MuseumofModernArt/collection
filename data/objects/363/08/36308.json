@@ -4,20 +4,19 @@
   "Classification": "Drawing", 
   "Artist": "Arshile Gorky", 
   "URL": "http://www.moma.org/collection/works/36308", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Van Gogh Purchase Fund", 
-  "Date": "1932", 
-  "ArtistID": 2252, 
+  "DateAcquired": "1941-01-16", 
   "Keywords": [
-    "online art collection", 
     "Arshile Gorky", 
     "Objects", 
     "1932"
   ], 
+  "ArtistID": 2252, 
+  "Title": "Objects", 
   "Department": "Drawings", 
   "MoMANumber": "324.1941", 
+  "Date": "1932", 
   "ArtistBio": "(American, born Armenia. 1904\u20131948)", 
-  "DateAcquired": "1941-01-16", 
-  "\ufeffTitle": "Objects", 
+  "CuratorApproved": "Y", 
   "ObjectID": "36308"
 }

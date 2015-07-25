@@ -4,20 +4,19 @@
   "Classification": "Drawing", 
   "Artist": "Jean Crotti", 
   "URL": "http://www.moma.org/collection/works/38193", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The Riklis Collection of McCrory Corporation", 
-  "Date": "1920", 
-  "ArtistID": 8301, 
+  "DateAcquired": "1985-09-10", 
   "Keywords": [
-    "online art collection", 
     "Jean Crotti", 
     "The Infinite Staircase", 
     "1920"
   ], 
+  "ArtistID": 8301, 
+  "Title": "The Infinite Staircase", 
   "Department": "Drawings", 
   "MoMANumber": "867.1983", 
+  "Date": "1920", 
   "ArtistBio": "(French, 1878\u20131958)", 
-  "DateAcquired": "1985-09-10", 
-  "\ufeffTitle": "The Infinite Staircase", 
+  "CuratorApproved": "Y", 
   "ObjectID": "38193"
 }

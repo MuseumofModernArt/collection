@@ -4,12 +4,9 @@
   "Classification": "A&D Architectural Drawing", 
   "Artist": "Otto Sch\u00f6nthal", 
   "URL": "http://www.moma.org/collection/works/36", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Jo Carole and Ronald S. Lauder", 
-  "Date": "1905", 
-  "ArtistID": 7608, 
+  "DateAcquired": "1997-01-15", 
   "Keywords": [
-    "online art collection", 
     "Otto Sch&ouml;nthal", 
     "House in Krems", 
     "project", 
@@ -18,10 +15,12 @@
     "Elevation", 
     "1905"
   ], 
+  "ArtistID": 7608, 
+  "Title": "House in Krems, project, Krems, Austria, Elevation", 
   "Department": "Architecture & Design", 
   "MoMANumber": "5.1997", 
+  "Date": "1905", 
   "ArtistBio": "(Austrian, 1878\u20131961)", 
-  "DateAcquired": "1997-01-15", 
-  "\ufeffTitle": "House in Krems, project, Krems, Austria, Elevation", 
+  "CuratorApproved": "Y", 
   "ObjectID": "36"
 }

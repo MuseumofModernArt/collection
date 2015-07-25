@@ -4,12 +4,9 @@
   "Classification": "A&D Architectural Drawing", 
   "Artist": "Le Corbusier (Charles-\u00c9douard Jeanneret)", 
   "URL": "http://www.moma.org/collection/works/93640", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Don Goeman Purchase Fund, Phyllis Lambert Purchase Fund, and Michael Maharam Purchase Fund", 
-  "Date": "1967", 
-  "ArtistID": 3426, 
+  "DateAcquired": "2004-10-14", 
   "Keywords": [
-    "online art collection", 
     "Le Corbusier (Charles-&Eacute;douard Jeanneret) and Guillaume Jullian de la Fuente", 
     "Venice Hospital Project", 
     "Venice", 
@@ -17,10 +14,12 @@
     "Elevation", 
     "1967"
   ], 
+  "ArtistID": 3426, 
+  "Title": "Hospital, Venice 1962\u201365. Elevation", 
   "Department": "Architecture & Design", 
   "MoMANumber": "483.2004", 
+  "Date": "1967", 
   "ArtistBio": "(French, born Switzerland. 1887\u20131965)", 
-  "DateAcquired": "2004-10-14", 
-  "\ufeffTitle": "Hospital, Venice 1962\u201365. Elevation", 
+  "CuratorApproved": "Y", 
   "ObjectID": "93640"
 }

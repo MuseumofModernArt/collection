@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Robert Rauschenberg", 
   "URL": "http://www.moma.org/collection/works/77335", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the Celeste and Armand Bartos Foundation", 
-  "Date": "1968", 
-  "ArtistID": 4823, 
+  "DateAcquired": "1968-12-11", 
   "Keywords": [
-    "online art collection", 
     "Robert Rauschenberg", 
     "Guardian", 
     "1968"
   ], 
+  "ArtistID": 4823, 
+  "Title": "Guardian", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "1614.1968", 
+  "Date": "1968", 
   "ArtistBio": "(American, 1925\u20132008)", 
-  "DateAcquired": "1968-12-11", 
-  "\ufeffTitle": "Guardian", 
+  "CuratorApproved": "Y", 
   "ObjectID": "77335"
 }

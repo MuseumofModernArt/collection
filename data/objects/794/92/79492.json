@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Arshile Gorky", 
   "URL": "http://www.moma.org/collection/works/79492", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Mr. and Mrs. William A. M. Burden", 
-  "Date": "1945", 
-  "ArtistID": 2252, 
+  "DateAcquired": "1985-10-25", 
   "Keywords": [
-    "online art collection", 
     "Arshile Gorky", 
     "Diary of a Seducer", 
     "1945"
   ], 
+  "ArtistID": 2252, 
+  "Title": "Diary of a Seducer", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "340.1985", 
+  "Date": "1945", 
   "ArtistBio": "(American, born Armenia. 1904\u20131948)", 
-  "DateAcquired": "1985-10-25", 
-  "\ufeffTitle": "Diary of a Seducer", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79492"
 }

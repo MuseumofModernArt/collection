@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Jake Berthot", 
   "URL": "http://www.moma.org/collection/works/100199", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Edward R. Broida", 
-  "Date": "1979", 
-  "ArtistID": 529, 
+  "DateAcquired": "2005-10-06", 
   "Keywords": [
-    "online art collection", 
     "Jake Berthot", 
     "Room", 
     "1979"
   ], 
+  "ArtistID": 529, 
+  "Title": "Room", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "652.2005", 
+  "Date": "1979", 
   "ArtistBio": "(American, born 1939)", 
-  "DateAcquired": "2005-10-06", 
-  "\ufeffTitle": "Room", 
+  "CuratorApproved": "Y", 
   "ObjectID": "100199"
 }

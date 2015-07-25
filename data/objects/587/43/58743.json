@@ -4,21 +4,20 @@
   "Classification": "Photograph", 
   "Artist": "Times Wide World Photos", 
   "URL": "http://www.moma.org/collection/works/58743", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The New York Times Collection", 
-  "Date": "c. 1931", 
-  "ArtistID": 8632, 
+  "DateAcquired": "2001-06-14", 
   "Keywords": [
-    "online art collection", 
     "Times Wide World Photos", 
     "\"The Legions of the Nazis of Germany Salute Their Leader\"", 
     "c", 
     "1931"
   ], 
+  "ArtistID": 8632, 
+  "Title": "\"The Legions of the Nazis of Germany Salute Their Leader\"", 
   "Department": "Photography", 
   "MoMANumber": "2150.2001", 
+  "Date": "c. 1931", 
   "ArtistBio": "(American, active 1919\u20131941)", 
-  "DateAcquired": "2001-06-14", 
-  "\ufeffTitle": "\"The Legions of the Nazis of Germany Salute Their Leader\"", 
+  "CuratorApproved": "Y", 
   "ObjectID": "58743"
 }

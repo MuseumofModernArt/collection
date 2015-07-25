@@ -4,21 +4,20 @@
   "Classification": "Painting", 
   "Artist": "Odilon Redon", 
   "URL": "http://www.moma.org/collection/works/79173", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of The Ian Woodner Family Collection", 
-  "Date": "c. 1875", 
-  "ArtistID": 4840, 
+  "DateAcquired": "2000-04-10", 
   "Keywords": [
-    "online art collection", 
     "Odilon Redon", 
     "Apache (Man on Horseback)", 
     "c", 
     "1875"
   ], 
+  "ArtistID": 4840, 
+  "Title": "Apache (Man on Horseback)", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "217.2000", 
+  "Date": "c. 1875", 
   "ArtistBio": "(French, 1840\u20131916)", 
-  "DateAcquired": "2000-04-10", 
-  "\ufeffTitle": "Apache (Man on Horseback)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79173"
 }

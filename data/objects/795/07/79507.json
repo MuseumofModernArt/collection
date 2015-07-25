@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Pablo Picasso", 
   "URL": "http://www.moma.org/collection/works/79507", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Jacqueline Picasso in honor of the Museum's continuous commitment to Pablo Picasso's art", 
-  "Date": "1938", 
-  "ArtistID": 4609, 
+  "DateAcquired": "1985-10-25", 
   "Keywords": [
-    "online art collection", 
     "Pablo Picasso", 
     "Maya in a Sailor Suit", 
     "1938"
   ], 
+  "ArtistID": 4609, 
+  "Title": "Maya in a Sailor Suit", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "346.1985", 
+  "Date": "1938", 
   "ArtistBio": "(Spanish, 1881\u20131973)", 
-  "DateAcquired": "1985-10-25", 
-  "\ufeffTitle": "Maya in a Sailor Suit", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79507"
 }

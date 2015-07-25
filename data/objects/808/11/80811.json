@@ -4,21 +4,20 @@
   "Classification": "Sculpture", 
   "Artist": "Hermann Haller", 
   "URL": "http://www.moma.org/collection/works/80811", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Mrs. Sadie A. May", 
-  "Date": "c. 1926", 
-  "ArtistID": 2466, 
+  "DateAcquired": "1930-10-23", 
   "Keywords": [
-    "online art collection", 
     "Hermann Haller", 
     "Standing Girl", 
     "c", 
     "1926"
   ], 
+  "ArtistID": 2466, 
+  "Title": "Standing Girl", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "13.1930", 
+  "Date": "c. 1926", 
   "ArtistBio": "(Swiss, 1880\u20131950)", 
-  "DateAcquired": "1930-10-23", 
-  "\ufeffTitle": "Standing Girl", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80811"
 }

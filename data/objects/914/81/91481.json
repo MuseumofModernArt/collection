@@ -4,21 +4,20 @@
   "Classification": "Film", 
   "Artist": "Man Ray (Emmanuel Radnitzky)", 
   "URL": "http://www.moma.org/collection/works/91481", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Film in the permanent collection of The Museum of Modern Art, New York", 
-  "Date": "1923", 
-  "ArtistID": 3716, 
+  "DateAcquired": "", 
   "Keywords": [
-    "online art collection", 
     "Man Ray", 
     "Le Retour &agrave; la raison", 
     "France", 
     "1923"
   ], 
+  "ArtistID": 3716, 
+  "Title": "Le Retour \u00e0 la raison", 
   "Department": "Film", 
   "MoMANumber": "38722", 
+  "Date": "1923", 
   "ArtistBio": "(American, 1890\u20131976)", 
-  "DateAcquired": "", 
-  "\ufeffTitle": "Le Retour \u00e0 la raison", 
+  "CuratorApproved": "Y", 
   "ObjectID": "91481"
 }

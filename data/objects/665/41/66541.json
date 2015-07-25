@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Max Beckmann", 
   "URL": "http://www.moma.org/collection/works/66541", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Abby Aldrich Rockefeller Fund", 
-  "Date": "1921", 
-  "ArtistID": 429, 
+  "DateAcquired": "1951-05-24", 
   "Keywords": [
-    "online art collection", 
     "Max Beckmann", 
     "Portrait of Reinhard Piper (Bildnis Reinhard Piper)", 
     "1921"
   ], 
+  "ArtistID": 429, 
+  "Title": "Portrait of Reinhard Piper (Bildnis Reinhard Piper)", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "306.1951", 
+  "Date": "1921", 
   "ArtistBio": "(German, 1884\u20131950)", 
-  "DateAcquired": "1951-05-24", 
-  "\ufeffTitle": "Portrait of Reinhard Piper (Bildnis Reinhard Piper)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "66541"
 }

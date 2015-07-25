@@ -4,12 +4,9 @@
   "Classification": "A&D Architectural Model", 
   "Artist": "Ludwig Mies van der Rohe", 
   "URL": "http://www.moma.org/collection/works/88158", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Mies van der Rohe Archive, Mies in Berlin Exhibition Fund", 
-  "Date": "1937-38", 
-  "ArtistID": 7166, 
+  "DateAcquired": "2003-05-13", 
   "Keywords": [
-    "online art collection", 
     "Ludwig Mies van der Rohe", 
     "Resor House Project", 
     "Jackson Hole", 
@@ -17,10 +14,12 @@
     "Landscape model", 
     "1937-38"
   ], 
+  "ArtistID": 7166, 
+  "Title": "Resor House Project, Jackson Hole, Wyoming, Landscape model", 
   "Department": "Architecture & Design", 
   "MoMANumber": "104.2003", 
+  "Date": "1937-38", 
   "ArtistBio": "(American, born Germany. 1886\u20131969)", 
-  "DateAcquired": "2003-05-13", 
-  "\ufeffTitle": "Resor House Project, Jackson Hole, Wyoming, Landscape model", 
+  "CuratorApproved": "Y", 
   "ObjectID": "88158"
 }

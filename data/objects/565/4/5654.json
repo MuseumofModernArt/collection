@@ -4,22 +4,21 @@
   "Classification": "A&D Graphic Design", 
   "Artist": "L. (Alfred Lewin Copley) Alcopley", 
   "URL": "http://www.moma.org/collection/works/5654", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Given anonymously", 
-  "Date": "1956", 
-  "ArtistID": 104, 
+  "DateAcquired": "1956-04-04", 
   "Keywords": [
-    "online art collection", 
     "L", 
     "(Alfred Lewin Copley) Alcopley", 
     "Alcopley", 
     "Galerie Bing", 
     "1956"
   ], 
+  "ArtistID": 104, 
+  "Title": "Alcopley, Galerie Bing", 
   "Department": "Architecture & Design", 
   "MoMANumber": "200.1956", 
+  "Date": "1956", 
   "ArtistBio": "(American, born Germany. 1910\u20131992)", 
-  "DateAcquired": "1956-04-04", 
-  "\ufeffTitle": "Alcopley, Galerie Bing", 
+  "CuratorApproved": "Y", 
   "ObjectID": "5654"
 }

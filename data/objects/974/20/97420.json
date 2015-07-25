@@ -4,20 +4,19 @@
   "Classification": "Drawing", 
   "Artist": "Jack Smith", 
   "URL": "http://www.moma.org/collection/works/97420", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The Judith Rothschild Foundation Contemporary Drawings Collection Gift", 
-  "Date": "(1969)", 
-  "ArtistID": 5483, 
+  "DateAcquired": "2005-05-10", 
   "Keywords": [
-    "online art collection", 
     "Jack Smith", 
     "Abstract Collage", 
     "(1969)"
   ], 
+  "ArtistID": 5483, 
+  "Title": "Abstract Collage", 
   "Department": "Drawings", 
   "MoMANumber": "3120.2005", 
+  "Date": "(1969)", 
   "ArtistBio": "(American, 1932\u20131989)", 
-  "DateAcquired": "2005-05-10", 
-  "\ufeffTitle": "Abstract Collage", 
+  "CuratorApproved": "Y", 
   "ObjectID": "97420"
 }

@@ -4,12 +4,9 @@
   "Classification": "Photograph", 
   "Artist": "Berenice Abbott", 
   "URL": "http://www.moma.org/collection/works/50088", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Connecticut Valley Boys School", 
-  "Date": "November 19, 1935", 
-  "ArtistID": 41, 
+  "DateAcquired": "1937-12-03", 
   "Keywords": [
-    "online art collection", 
     "Berenice Abbott", 
     "Newsstand", 
     "East 32nd Street and Third Avenue", 
@@ -17,10 +14,12 @@
     "November 19", 
     "1935"
   ], 
+  "ArtistID": 41, 
+  "Title": "Newsstand, East 32nd Street and Third Avenue, Manhattan", 
   "Department": "Photography", 
   "MoMANumber": "294.1937", 
+  "Date": "November 19, 1935", 
   "ArtistBio": "(American, 1898\u20131991)", 
-  "DateAcquired": "1937-12-03", 
-  "\ufeffTitle": "Newsstand, East 32nd Street and Third Avenue, Manhattan", 
+  "CuratorApproved": "Y", 
   "ObjectID": "50088"
 }

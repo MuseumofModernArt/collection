@@ -4,20 +4,19 @@
   "Classification": "Drawing", 
   "Artist": "Kurt Schwitters", 
   "URL": "http://www.moma.org/collection/works/38342", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The Riklis Collection of McCrory Corporation", 
-  "Date": "1929", 
-  "ArtistID": 5293, 
+  "DateAcquired": "1985-09-10", 
   "Keywords": [
-    "online art collection", 
     "Kurt Schwitters", 
     "Karlsruhe", 
     "1929"
   ], 
+  "ArtistID": 5293, 
+  "Title": "Karlsruhe", 
   "Department": "Drawings", 
   "MoMANumber": "953.1983", 
+  "Date": "1929", 
   "ArtistBio": "(German, 1887\u20131948)", 
-  "DateAcquired": "1985-09-10", 
-  "\ufeffTitle": "Karlsruhe", 
+  "CuratorApproved": "Y", 
   "ObjectID": "38342"
 }

@@ -4,20 +4,19 @@
   "Classification": "A&D Graphic Design", 
   "Artist": "John Melin, Anders Osterlin", 
   "URL": "http://www.moma.org/collection/works/6358", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the Moderna Museet, Stockholm", 
-  "Date": "1965", 
-  "ArtistID": 3919, 
+  "DateAcquired": "1966-05-10", 
   "Keywords": [
-    "online art collection", 
     "John Melin and Anders Osterlin", 
     "Den Inre Och Den Yttre Rymden", 
     "1965"
   ], 
+  "ArtistID": 3919, 
+  "Title": "Den Inre Och Den Yttre Rymden", 
   "Department": "Architecture & Design", 
   "MoMANumber": "338.1966", 
+  "Date": "1965", 
   "ArtistBio": "(Swedish, born 1921) (Swedish, born 1926)", 
-  "DateAcquired": "1966-05-10", 
-  "\ufeffTitle": "Den Inre Och Den Yttre Rymden", 
+  "CuratorApproved": "Y", 
   "ObjectID": "6358"
 }

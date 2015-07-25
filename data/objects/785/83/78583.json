@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Antoine Pevsner", 
   "URL": "http://www.moma.org/collection/works/78583", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the artist", 
-  "Date": "1913? (1923?)", 
-  "ArtistID": 4591, 
+  "DateAcquired": "1936-02-08", 
   "Keywords": [
-    "online art collection", 
     "Antoine Pevsner", 
     "Abstract Forms", 
     "1913? (1923?)"
   ], 
+  "ArtistID": 4591, 
+  "Title": "Abstract Forms", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "35.1936", 
+  "Date": "1913? (1923?)", 
   "ArtistBio": "(French, 1886\u20131962)", 
-  "DateAcquired": "1936-02-08", 
-  "\ufeffTitle": "Abstract Forms", 
+  "CuratorApproved": "Y", 
   "ObjectID": "78583"
 }

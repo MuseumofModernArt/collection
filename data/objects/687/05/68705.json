@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Andy Warhol", 
   "URL": "http://www.moma.org/collection/works/68705", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Philip Johnson", 
-  "Date": "1972", 
-  "ArtistID": 6246, 
+  "DateAcquired": "1973-10-24", 
   "Keywords": [
-    "online art collection", 
     "Andy Warhol", 
     "Vote McGovern", 
     "(1972)"
   ], 
+  "ArtistID": 6246, 
+  "Title": "Vote McGovern", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "415.1973", 
+  "Date": "1972", 
   "ArtistBio": "(American, 1928\u20131987)", 
-  "DateAcquired": "1973-10-24", 
-  "\ufeffTitle": "Vote McGovern", 
+  "CuratorApproved": "Y", 
   "ObjectID": "68705"
 }

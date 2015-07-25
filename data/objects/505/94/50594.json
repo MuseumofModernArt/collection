@@ -4,12 +4,9 @@
   "Classification": "Photograph", 
   "Artist": "Berenice Abbott", 
   "URL": "http://www.moma.org/collection/works/50594", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Given anonymously", 
-  "Date": "May 22, 1936", 
-  "ArtistID": 41, 
+  "DateAcquired": "1974-06-04", 
   "Keywords": [
-    "online art collection", 
     "Berenice Abbott", 
     "Warehouse", 
     "Water and Dock Streets", 
@@ -17,10 +14,12 @@
     "May 22", 
     "1936"
   ], 
+  "ArtistID": 41, 
+  "Title": "Warehouse, Water and Dock Streets, Brooklyn", 
   "Department": "Photography", 
   "MoMANumber": "316.1974", 
+  "Date": "May 22, 1936", 
   "ArtistBio": "(American, 1898\u20131991)", 
-  "DateAcquired": "1974-06-04", 
-  "\ufeffTitle": "Warehouse, Water and Dock Streets, Brooklyn", 
+  "CuratorApproved": "Y", 
   "ObjectID": "50594"
 }

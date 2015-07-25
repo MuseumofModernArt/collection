@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Seymour Lipton", 
   "URL": "http://www.moma.org/collection/works/81521", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the artist", 
-  "Date": "1948", 
-  "ArtistID": 3567, 
+  "DateAcquired": "1969-06-10", 
   "Keywords": [
-    "online art collection", 
     "Seymour Lipton", 
     "Imprisoned Figure", 
     "1948"
   ], 
+  "ArtistID": 3567, 
+  "Title": "Imprisoned Figure", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "507.1969", 
+  "Date": "1948", 
   "ArtistBio": "(American, 1903\u20131986)", 
-  "DateAcquired": "1969-06-10", 
-  "\ufeffTitle": "Imprisoned Figure", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81521"
 }

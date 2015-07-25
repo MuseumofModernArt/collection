@@ -4,21 +4,20 @@
   "Classification": "Painting", 
   "Artist": "Odilon Redon", 
   "URL": "http://www.moma.org/collection/works/79219", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of The Ian Woodner Family Collection", 
-  "Date": "c. 1875", 
-  "ArtistID": 4840, 
+  "DateAcquired": "2000-04-10", 
   "Keywords": [
-    "online art collection", 
     "Odilon Redon", 
     "The Rocky Slope", 
     "c", 
     "1875"
   ], 
+  "ArtistID": 4840, 
+  "Title": "The Rocky Slope", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "234.2000", 
+  "Date": "c. 1875", 
   "ArtistBio": "(French, 1840\u20131916)", 
-  "DateAcquired": "2000-04-10", 
-  "\ufeffTitle": "The Rocky Slope", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79219"
 }

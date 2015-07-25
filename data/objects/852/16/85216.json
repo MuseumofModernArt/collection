@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Beatriz Milhazes", 
   "URL": "http://www.moma.org/collection/works/85216", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Agnes Gund and Nina and Gordon Bunshaft Bequest Fund", 
-  "Date": "1996", 
-  "ArtistID": 8479, 
+  "DateAcquired": "2002-05-13", 
   "Keywords": [
-    "online art collection", 
     "Beatriz Milhazes", 
     "Succulent Eggplants", 
     "1996"
   ], 
+  "ArtistID": 8479, 
+  "Title": "Succulent Eggplants", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "161.2002", 
+  "Date": "1996", 
   "ArtistBio": "(Brazilian, born 1960)", 
-  "DateAcquired": "2002-05-13", 
-  "\ufeffTitle": "Succulent Eggplants", 
+  "CuratorApproved": "Y", 
   "ObjectID": "85216"
 }

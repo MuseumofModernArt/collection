@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Walter Quirt", 
   "URL": "http://www.moma.org/collection/works/79022", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1941", 
-  "ArtistID": 4775, 
+  "DateAcquired": "1942-03-18", 
   "Keywords": [
-    "online art collection", 
     "Walter Quirt", 
     "The Tranquility of Previous Existence", 
     "1941"
   ], 
+  "ArtistID": 4775, 
+  "Title": "The Tranquility of Previous Existence", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "163.1942", 
+  "Date": "1941", 
   "ArtistBio": "(American, 1902\u20131968)", 
-  "DateAcquired": "1942-03-18", 
-  "\ufeffTitle": "The Tranquility of Previous Existence", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79022"
 }

@@ -4,12 +4,9 @@
   "Classification": "Photograph", 
   "Artist": "Charles H. Breed", 
   "URL": "http://www.moma.org/collection/works/45044", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "c. 1915", 
-  "ArtistID": 757, 
+  "DateAcquired": "1986-01-15", 
   "Keywords": [
-    "online art collection", 
     "Charles H", 
     "Breed", 
     "Anne", 
@@ -18,10 +15,12 @@
     "c", 
     "1915"
   ], 
+  "ArtistID": 757, 
+  "Title": "Anne, Elizabeth and Henry Breed, children of Charles Breed", 
   "Department": "Photography", 
   "MoMANumber": "53.1986", 
+  "Date": "c. 1915", 
   "ArtistBio": "(American, 1876\u20131950)", 
-  "DateAcquired": "1986-01-15", 
-  "\ufeffTitle": "Anne, Elizabeth and Henry Breed, children of Charles Breed", 
+  "CuratorApproved": "Y", 
   "ObjectID": "45044"
 }

@@ -4,20 +4,19 @@
   "Classification": "Drawing", 
   "Artist": "Kazimir Malevich", 
   "URL": "http://www.moma.org/collection/works/35590", 
-  "CuratorApproved": "Y", 
   "CreditLine": "1935 Acquisition confirmed in 1999 by agreement with the Estate of Kazimir Malevich and made possible with funds from the Mrs. John Hay Whitney Bequest (by exchange)", 
-  "Date": "1924", 
-  "ArtistID": 3710, 
+  "DateAcquired": "1935-11-12", 
   "Keywords": [
-    "online art collection", 
     "Kazimir Malevich", 
     "Houses of the Future Leningrad: Pilot's House", 
     "1924"
   ], 
+  "ArtistID": 3710, 
+  "Title": "Houses of the Future Leningrad: Pilot's House", 
   "Department": "Drawings", 
   "MoMANumber": "250.1935", 
+  "Date": "1924", 
   "ArtistBio": "(Russian, born Ukraine. 1878\u20131935)", 
-  "DateAcquired": "1935-11-12", 
-  "\ufeffTitle": "Houses of the Future Leningrad: Pilot's House", 
+  "CuratorApproved": "Y", 
   "ObjectID": "35590"
 }

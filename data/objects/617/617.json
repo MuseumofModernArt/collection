@@ -4,12 +4,9 @@
   "Classification": "A&D Architectural Drawing", 
   "Artist": "Edward Larrabee Barnes", 
   "URL": "http://www.moma.org/collection/works/617", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the architect", 
-  "Date": "1962", 
-  "ArtistID": 6966, 
+  "DateAcquired": "1992-10-21", 
   "Keywords": [
-    "online art collection", 
     "Edward Larrabee Barnes", 
     "Haystack Mountain School of Crafts", 
     "Deer Isle", 
@@ -17,10 +14,12 @@
     "Oblique elevation", 
     "1962"
   ], 
+  "ArtistID": 6966, 
+  "Title": "Haystack Mountain School of Crafts, Deer Isle, Maine, Oblique elevation", 
   "Department": "Architecture & Design", 
   "MoMANumber": "425.1992", 
+  "Date": "1962", 
   "ArtistBio": "(American, 1915\u20132004)", 
-  "DateAcquired": "1992-10-21", 
-  "\ufeffTitle": "Haystack Mountain School of Crafts, Deer Isle, Maine, Oblique elevation", 
+  "CuratorApproved": "Y", 
   "ObjectID": "617"
 }

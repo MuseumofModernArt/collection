@@ -4,21 +4,20 @@
   "Classification": "Photograph", 
   "Artist": "Ernie Sisto/The New York Times", 
   "URL": "http://www.moma.org/collection/works/58695", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The New York Times Collection", 
-  "Date": "July 28, 1945", 
-  "ArtistID": 8620, 
+  "DateAcquired": "2001-06-14", 
   "Keywords": [
-    "online art collection", 
     "Ernie Sisto/The New York Times", 
     "Where Bomber Crashed into the Empire State Building", 
     "July 28", 
     "1945"
   ], 
+  "ArtistID": 8620, 
+  "Title": "Where Bomber Crashed into the Empire State Building", 
   "Department": "Photography", 
   "MoMANumber": "2102.2001", 
+  "Date": "July 28, 1945", 
   "ArtistBio": "(American, 1904\u20131989)", 
-  "DateAcquired": "2001-06-14", 
-  "\ufeffTitle": "Where Bomber Crashed into the Empire State Building", 
+  "CuratorApproved": "Y", 
   "ObjectID": "58695"
 }

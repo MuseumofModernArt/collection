@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Alexander Calder", 
   "URL": "http://www.moma.org/collection/works/81965", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Kay Sage Tanguy Bequest", 
-  "Date": "1939", 
-  "ArtistID": 922, 
+  "DateAcquired": "1964-11-10", 
   "Keywords": [
-    "online art collection", 
     "Alexander Calder", 
     "Untitled", 
     "1939"
   ], 
+  "ArtistID": 922, 
+  "Title": "Untitled", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "1122.1964", 
+  "Date": "1939", 
   "ArtistBio": "(American, 1898\u20131976)", 
-  "DateAcquired": "1964-11-10", 
-  "\ufeffTitle": "Untitled", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81965"
 }

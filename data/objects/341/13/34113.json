@@ -4,20 +4,19 @@
   "Classification": "Drawing", 
   "Artist": "Amedeo Modigliani", 
   "URL": "http://www.moma.org/collection/works/34113", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Abby Aldrich Rockefeller", 
-  "Date": "(1920)", 
-  "ArtistID": 4038, 
+  "DateAcquired": "1935-06-13", 
   "Keywords": [
-    "online art collection", 
     "Amedeo Modigliani", 
     "Mario the Musician", 
     "(1920)"
   ], 
+  "ArtistID": 4038, 
+  "Title": "Mario the Musician", 
   "Department": "Drawings", 
   "MoMANumber": "116.1935", 
+  "Date": "(1920)", 
   "ArtistBio": "(Italian, 1884\u20131920)", 
-  "DateAcquired": "1935-06-13", 
-  "\ufeffTitle": "Mario the Musician", 
+  "CuratorApproved": "Y", 
   "ObjectID": "34113"
 }

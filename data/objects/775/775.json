@@ -4,12 +4,9 @@
   "Classification": "A&D Mies van der Rohe Archive", 
   "Artist": "Ludwig Mies van der Rohe", 
   "URL": "http://www.moma.org/collection/works/775", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Mies van der Rohe Archive, gift of the architect", 
-  "Date": "1923", 
-  "ArtistID": 7166, 
+  "DateAcquired": "1968-03-07", 
   "Keywords": [
-    "online art collection", 
     "Ludwig Mies van der Rohe", 
     "Concrete Office Building", 
     "project", 
@@ -18,10 +15,12 @@
     "Perspective View", 
     "1923"
   ], 
+  "ArtistID": 7166, 
+  "Title": "Concrete Office Building Project, Berlin, Germany (Exterior perspective)", 
   "Department": "Architecture & Design", 
   "MoMANumber": "866.1968", 
+  "Date": "1923", 
   "ArtistBio": "(American, born Germany. 1886\u20131969)", 
-  "DateAcquired": "1968-03-07", 
-  "\ufeffTitle": "Concrete Office Building Project, Berlin, Germany (Exterior perspective)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "775"
 }

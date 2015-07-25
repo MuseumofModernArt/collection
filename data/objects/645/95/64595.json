@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Peter Alexander", 
   "URL": "http://www.moma.org/collection/works/64595", 
-  "CuratorApproved": "Y", 
   "CreditLine": "John B. Turner Fund", 
-  "Date": "1982", 
-  "ArtistID": 108, 
+  "DateAcquired": "1982-10-26", 
   "Keywords": [
-    "online art collection", 
     "Peter Alexander", 
     "Chula Vista Cirrus", 
     "1982"
   ], 
+  "ArtistID": 108, 
+  "Title": "Chula Vista Cirrus", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "217.1982", 
+  "Date": "1982", 
   "ArtistBio": "(American, born 1939)", 
-  "DateAcquired": "1982-10-26", 
-  "\ufeffTitle": "Chula Vista Cirrus", 
+  "CuratorApproved": "Y", 
   "ObjectID": "64595"
 }

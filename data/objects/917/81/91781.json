@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Alex Katz", 
   "URL": "http://www.moma.org/collection/works/91781", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Fractional and promised gift of the Ovitz Family Collection", 
-  "Date": "1965", 
-  "ArtistID": 3016, 
+  "DateAcquired": "2004-06-08", 
   "Keywords": [
-    "online art collection", 
     "Alex Katz", 
     "Lawn Party", 
     "1965"
   ], 
+  "ArtistID": 3016, 
+  "Title": "Lawn Party", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "320.2004", 
+  "Date": "1965", 
   "ArtistBio": "(American, born 1927)", 
-  "DateAcquired": "2004-06-08", 
-  "\ufeffTitle": "Lawn Party", 
+  "CuratorApproved": "Y", 
   "ObjectID": "91781"
 }

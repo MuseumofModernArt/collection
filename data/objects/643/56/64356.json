@@ -4,21 +4,20 @@
   "Classification": "Print", 
   "Artist": "Max Beckmann", 
   "URL": "http://www.moma.org/collection/works/64356", 
-  "CuratorApproved": "Y", 
   "CreditLine": "James Thrall Soby Fund", 
-  "Date": "1911 (published c. 1917)", 
-  "ArtistID": 429, 
+  "DateAcquired": "1955-10-10", 
   "Keywords": [
-    "online art collection", 
     "Max Beckmann", 
     "David and Bathsheba (David und Bathseba)", 
     "1911 (published c", 
     "1917)"
   ], 
+  "ArtistID": 429, 
+  "Title": "David and Bathsheba (David und Bathseba)", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "204.1955", 
+  "Date": "1911 (published c. 1917)", 
   "ArtistBio": "(German, 1884\u20131950)", 
-  "DateAcquired": "1955-10-10", 
-  "\ufeffTitle": "David and Bathsheba (David und Bathseba)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "64356"
 }

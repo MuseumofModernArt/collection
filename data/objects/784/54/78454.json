@@ -4,21 +4,20 @@
   "Classification": "Painting", 
   "Artist": "Paul C\u00e9zanne", 
   "URL": "http://www.moma.org/collection/works/78454", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Lillie P. Bliss Collection", 
-  "Date": "c. 1897", 
-  "ArtistID": 1053, 
+  "DateAcquired": "1934-09-23", 
   "Keywords": [
-    "online art collection", 
     "Paul C&eacute;zanne", 
     "Pines and Rocks (Fontainebleau?)", 
     "c", 
     "1897"
   ], 
+  "ArtistID": 1053, 
+  "Title": "Pines and Rocks (Fontainebleau?)", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "16.1934", 
+  "Date": "c. 1897", 
   "ArtistBio": "(French, 1839\u20131906)", 
-  "DateAcquired": "1934-09-23", 
-  "\ufeffTitle": "Pines and Rocks (Fontainebleau?)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "78454"
 }

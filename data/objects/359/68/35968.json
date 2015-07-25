@@ -4,21 +4,20 @@
   "Classification": "Drawing", 
   "Artist": "William T. Wiley", 
   "URL": "http://www.moma.org/collection/works/35968", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Acquired with matching funds from the Joseph G. Mayer Foundation and the National Endowment for the Arts", 
-  "Date": "1973", 
-  "ArtistID": 6370, 
+  "DateAcquired": "1973-05-24", 
   "Keywords": [
-    "online art collection", 
     "William T", 
     "Wiley", 
     "Victory Guardians", 
     "1973"
   ], 
+  "ArtistID": 6370, 
+  "Title": "Victory Guardians", 
   "Department": "Drawings", 
   "MoMANumber": "281.1973", 
+  "Date": "1973", 
   "ArtistBio": "(American, born 1937)", 
-  "DateAcquired": "1973-05-24", 
-  "\ufeffTitle": "Victory Guardians", 
+  "CuratorApproved": "Y", 
   "ObjectID": "35968"
 }

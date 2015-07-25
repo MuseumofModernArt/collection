@@ -4,22 +4,21 @@
   "Classification": "Photograph", 
   "Artist": "Lee Friedlander", 
   "URL": "http://www.moma.org/collection/works/56278", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1972", 
-  "ArtistID": 2002, 
+  "DateAcquired": "2000-10-12", 
   "Keywords": [
-    "online art collection", 
     "Lee Friedlander", 
     "Volunteer Firemen", 
     "Walden", 
     "New York", 
     "1972"
   ], 
+  "ArtistID": 2002, 
+  "Title": "Volunteer Firemen. Walden, New York", 
   "Department": "Photography", 
   "MoMANumber": "722.2000", 
+  "Date": "1972", 
   "ArtistBio": "(American, born 1934)", 
-  "DateAcquired": "2000-10-12", 
-  "\ufeffTitle": "Volunteer Firemen. Walden, New York", 
+  "CuratorApproved": "Y", 
   "ObjectID": "56278"
 }

@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Charles Ray", 
   "URL": "http://www.moma.org/collection/works/82370", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Hudson, Feature Inc., New York", 
-  "Date": "1974", 
-  "ArtistID": 7049, 
+  "DateAcquired": "2001-11-12", 
   "Keywords": [
-    "online art collection", 
     "Charles Ray", 
     "Bench", 
     "1974"
   ], 
+  "ArtistID": 7049, 
+  "Title": "Bench", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "2477.2001", 
+  "Date": "1974", 
   "ArtistBio": "(American, born 1953)", 
-  "DateAcquired": "2001-11-12", 
-  "\ufeffTitle": "Bench", 
+  "CuratorApproved": "Y", 
   "ObjectID": "82370"
 }

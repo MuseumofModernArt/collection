@@ -4,20 +4,19 @@
   "Classification": "A&D Design", 
   "Artist": "Unknown Designer", 
   "URL": "http://www.moma.org/collection/works/2065", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "Before 1946", 
-  "ArtistID": 6011, 
+  "DateAcquired": "1946-05-07", 
   "Keywords": [
-    "online art collection", 
     "Unknown Designer", 
     "Beer Glasses", 
     "Before 1946"
   ], 
+  "ArtistID": 6011, 
+  "Title": "Beer Glasses", 
   "Department": "Architecture & Design", 
   "MoMANumber": "88.1946.1-3", 
+  "Date": "Before 1946", 
   "ArtistBio": "(Nationality unknown)", 
-  "DateAcquired": "1946-05-07", 
-  "\ufeffTitle": "Beer Glasses", 
+  "CuratorApproved": "Y", 
   "ObjectID": "2065"
 }

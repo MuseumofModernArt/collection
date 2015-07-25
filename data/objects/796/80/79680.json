@@ -4,21 +4,20 @@
   "Classification": "Painting", 
   "Artist": "Jackson Pollock", 
   "URL": "http://www.moma.org/collection/works/79680", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Enid A. Haupt Fund", 
-  "Date": "c. 1934-38", 
-  "ArtistID": 4675, 
+  "DateAcquired": "1980-04-09", 
   "Keywords": [
-    "online art collection", 
     "Jackson Pollock", 
     "The Flame", 
     "c", 
     "1934-38"
   ], 
+  "ArtistID": 4675, 
+  "Title": "The Flame", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "426.1980", 
+  "Date": "c. 1934-38", 
   "ArtistBio": "(American, 1912\u20131956)", 
-  "DateAcquired": "1980-04-09", 
-  "\ufeffTitle": "The Flame", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79680"
 }

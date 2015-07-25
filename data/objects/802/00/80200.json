@@ -4,21 +4,20 @@
   "Classification": "Painting", 
   "Artist": "Patrick J. Sullivan", 
   "URL": "http://www.moma.org/collection/works/80200", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The Sidney and Harriet Janis Collection", 
-  "Date": "1938", 
-  "ArtistID": 5724, 
+  "DateAcquired": "1967-10-18", 
   "Keywords": [
-    "online art collection", 
     "Patrick J", 
     "Sullivan", 
     "The Fourth Dimension", 
     "1938"
   ], 
+  "ArtistID": 5724, 
+  "Title": "The Fourth Dimension", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "656.1967", 
+  "Date": "1938", 
   "ArtistBio": "(American, 1894\u20131967)", 
-  "DateAcquired": "1967-10-18", 
-  "\ufeffTitle": "The Fourth Dimension", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80200"
 }

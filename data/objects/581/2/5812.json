@@ -4,12 +4,9 @@
   "Classification": "A&D Graphic Design", 
   "Artist": "A. M. Cassandre", 
   "URL": "http://www.moma.org/collection/works/5812", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Leonard and Evelyn Lauder", 
-  "Date": "1928", 
-  "ArtistID": 1015, 
+  "DateAcquired": "1987-05-27", 
   "Keywords": [
-    "online art collection", 
     "A", 
     "M", 
     "Cassandre", 
@@ -17,10 +14,12 @@
     "London Midland and Scottish Ry", 
     "1928"
   ], 
+  "ArtistID": 1015, 
+  "Title": "LMS The Best Way, London Midland and Scottish Ry", 
   "Department": "Architecture & Design", 
   "MoMANumber": "243.1987", 
+  "Date": "1928", 
   "ArtistBio": "(French, 1901\u20131968)", 
-  "DateAcquired": "1987-05-27", 
-  "\ufeffTitle": "LMS The Best Way, London Midland and Scottish Ry", 
+  "CuratorApproved": "Y", 
   "ObjectID": "5812"
 }

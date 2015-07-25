@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Louise Bourgeois", 
   "URL": "http://www.moma.org/collection/works/81941", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Henriette Bonnotte in memory of Georges Bonnotte", 
-  "Date": "1964-65", 
-  "ArtistID": 710, 
+  "DateAcquired": "1968-11-12", 
   "Keywords": [
-    "online art collection", 
     "Louise Bourgeois", 
     "The Quartered One", 
     "1964-65"
   ], 
+  "ArtistID": 710, 
+  "Title": "The Quartered One", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "1047.1969", 
+  "Date": "1964-65", 
   "ArtistBio": "(American, born France. 1911\u20132010)", 
-  "DateAcquired": "1968-11-12", 
-  "\ufeffTitle": "The Quartered One", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81941"
 }

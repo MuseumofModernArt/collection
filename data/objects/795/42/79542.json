@@ -4,21 +4,20 @@
   "Classification": "Painting", 
   "Artist": "Henri Matisse", 
   "URL": "http://www.moma.org/collection/works/79542", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift and bequest of Louise Reinhardt Smith", 
-  "Date": "Collioure, summer 1905", 
-  "ArtistID": 3832, 
+  "DateAcquired": "1990-10-09", 
   "Keywords": [
-    "online art collection", 
     "Henri Matisse", 
     "Landscape at Collioure", 
     "Collioure", 
     "summer 1905"
   ], 
+  "ArtistID": 3832, 
+  "Title": "Landscape at Collioure", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "364.1990", 
+  "Date": "Collioure, summer 1905", 
   "ArtistBio": "(French, 1869\u20131954)", 
-  "DateAcquired": "1990-10-09", 
-  "\ufeffTitle": "Landscape at Collioure", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79542"
 }

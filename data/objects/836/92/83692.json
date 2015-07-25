@@ -4,21 +4,20 @@
   "Classification": "Photograph", 
   "Artist": "Claude Cahun (Lucy Schwob), Marcel Moore (Suzanne Malherbe)", 
   "URL": "http://www.moma.org/collection/works/83692", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Thomas Walther Collection. Gift of Mrs. Leon Dabo, by exchange", 
-  "Date": "1921\u201322", 
-  "ArtistID": 8195, 
+  "DateAcquired": "2001-12-13", 
   "Keywords": [
-    "online art collection", 
     "Claude Cahun (Lucy Schwob)", 
     "Untitled", 
     "c", 
     "1921"
   ], 
+  "ArtistID": 8195, 
+  "Title": "Untitled", 
   "Department": "Photography", 
   "MoMANumber": "1648.2001", 
+  "Date": "1921\u201322", 
   "ArtistBio": "(French, 1894\u20131954) (French, 1892\u20131972)", 
-  "DateAcquired": "2001-12-13", 
-  "\ufeffTitle": "Untitled", 
+  "CuratorApproved": "Y", 
   "ObjectID": "83692"
 }

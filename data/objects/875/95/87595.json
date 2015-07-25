@@ -4,12 +4,9 @@
   "Classification": "A&D Mies van der Rohe Archive", 
   "Artist": "Ludwig Mies van der Rohe", 
   "URL": "http://www.moma.org/collection/works/87595", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Mies van der Rohe Archive, gift of the architect\r\n", 
-  "Date": "1930-31", 
-  "ArtistID": 7166, 
+  "DateAcquired": "", 
   "Keywords": [
-    "online art collection", 
     "Ludwig Mies van der Rohe", 
     "Exhibition House", 
     "German Building Exhibition", 
@@ -18,10 +15,12 @@
     "Ground-floor plan with furniture layout", 
     "1930-31"
   ], 
+  "ArtistID": 7166, 
+  "Title": "Exhibition House, German Building Exhibition, Berlin, Germany, Ground-floor plan with furniture layout", 
   "Department": "Architecture & Design", 
   "MoMANumber": "MR25.10", 
+  "Date": "1930-31", 
   "ArtistBio": "(American, born Germany. 1886\u20131969)", 
-  "DateAcquired": "", 
-  "\ufeffTitle": "Exhibition House, German Building Exhibition, Berlin, Germany, Ground-floor plan with furniture layout", 
+  "CuratorApproved": "Y", 
   "ObjectID": "87595"
 }

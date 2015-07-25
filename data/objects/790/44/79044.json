@@ -4,21 +4,20 @@
   "Classification": "Painting", 
   "Artist": "Marcel Duchamp", 
   "URL": "http://www.moma.org/collection/works/79044", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "Munich, July-August 1912", 
-  "ArtistID": 1634, 
+  "DateAcquired": "1945-12-17", 
   "Keywords": [
-    "online art collection", 
     "Marcel Duchamp", 
     "The Passage from Virgin to Bride", 
     "Munich", 
     "July-August 1912"
   ], 
+  "ArtistID": 1634, 
+  "Title": "The Passage from Virgin to Bride", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "174.1945", 
+  "Date": "Munich, July-August 1912", 
   "ArtistBio": "(American, born France. 1887\u20131968)", 
-  "DateAcquired": "1945-12-17", 
-  "\ufeffTitle": "The Passage from Virgin to Bride", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79044"
 }

@@ -4,20 +4,19 @@
   "Classification": "Photograph", 
   "Artist": "Nicholas Nixon", 
   "URL": "http://www.moma.org/collection/works/56061", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1976", 
-  "ArtistID": 4315, 
+  "DateAcquired": "1976-12-08", 
   "Keywords": [
-    "online art collection", 
     "Nicholas Nixon", 
     "The Brown Sisters", 
     "1976"
   ], 
+  "ArtistID": 4315, 
+  "Title": "The Brown Sisters, Hartford, Connecticut", 
   "Department": "Photography", 
   "MoMANumber": "687.1976", 
+  "Date": "1976", 
   "ArtistBio": "(American, born 1947)", 
-  "DateAcquired": "1976-12-08", 
-  "\ufeffTitle": "The Brown Sisters, Hartford, Connecticut", 
+  "CuratorApproved": "Y", 
   "ObjectID": "56061"
 }

@@ -4,12 +4,9 @@
   "Classification": "Print", 
   "Artist": "Jakob (Jack) Friedrich Bollschweiler", 
   "URL": "http://www.moma.org/collection/works/72429", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Transferred from the Museum Library", 
-  "Date": "1917", 
-  "ArtistID": 645, 
+  "DateAcquired": "1949-09-29", 
   "Keywords": [
-    "online art collection", 
     "Jakob (Jack) Friedrich Bollschweiler", 
     "Kneeling Girl (Knieendes M&auml;dchen)  (plate", 
     "loose leaf) from the periodical Das Kunstblatt", 
@@ -19,10 +16,12 @@
     "12 (Dec 1917)", 
     "1917"
   ], 
+  "ArtistID": 645, 
+  "Title": "Kneeling Girl (Knieendes M\u00e4dchen)  (plate, loose leaf) from the periodical Das Kunstblatt, vol. 1, no. 12 (Dec 1917)", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "643.1949", 
+  "Date": "1917", 
   "ArtistBio": "(German, 1888\u20131938)", 
-  "DateAcquired": "1949-09-29", 
-  "\ufeffTitle": "Kneeling Girl (Knieendes M\u00e4dchen)  (plate, loose leaf) from the periodical Das Kunstblatt, vol. 1, no. 12 (Dec 1917)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "72429"
 }

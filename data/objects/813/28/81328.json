@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Lucas Samaras", 
   "URL": "http://www.moma.org/collection/works/81328", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Larry Aldrich Foundation Fund", 
-  "Date": "1960-61", 
-  "ArtistID": 5134, 
+  "DateAcquired": "1961-11-08", 
   "Keywords": [
-    "online art collection", 
     "Lucas Samaras", 
     "Untitled", 
     "1960-61"
   ], 
+  "ArtistID": 5134, 
+  "Title": "Untitled", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "301.1961", 
+  "Date": "1960-61", 
   "ArtistBio": "(American, born Greece 1936)", 
-  "DateAcquired": "1961-11-08", 
-  "\ufeffTitle": "Untitled", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81328"
 }

@@ -4,12 +4,9 @@
   "Classification": "Photograph", 
   "Artist": "Judith Joy Ross", 
   "URL": "http://www.moma.org/collection/works/51209", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the photographer", 
-  "Date": "1993", 
-  "ArtistID": 5030, 
+  "DateAcquired": "1993-10-14", 
   "Keywords": [
-    "online art collection", 
     "Judith Joy Ross", 
     "Le Shaun Franklin", 
     "Gallagher Junior High School", 
@@ -17,10 +14,12 @@
     "Ohio", 
     "1993"
   ], 
+  "ArtistID": 5030, 
+  "Title": "Le Shaun Franklin, Gallagher Junior High School, Cleveland, Ohio", 
   "Department": "Photography", 
   "MoMANumber": "338.1993", 
+  "Date": "1993", 
   "ArtistBio": "(American, born 1946)", 
-  "DateAcquired": "1993-10-14", 
-  "\ufeffTitle": "Le Shaun Franklin, Gallagher Junior High School, Cleveland, Ohio", 
+  "CuratorApproved": "Y", 
   "ObjectID": "51209"
 }

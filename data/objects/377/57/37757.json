@@ -4,20 +4,19 @@
   "Classification": "Drawing", 
   "Artist": "John Cage", 
   "URL": "http://www.moma.org/collection/works/37757", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Mary Sisler Bequest", 
-  "Date": "1975", 
-  "ArtistID": 912, 
+  "DateAcquired": "1990-12-10", 
   "Keywords": [
-    "online art collection", 
     "John Cage", 
     "Untitled (letter/drawing)", 
     "1975"
   ], 
+  "ArtistID": 912, 
+  "Title": "Untitled (letter/drawing)", 
   "Department": "Drawings", 
   "MoMANumber": "662.1990", 
+  "Date": "1975", 
   "ArtistBio": "(American, 1912\u20131992)", 
-  "DateAcquired": "1990-12-10", 
-  "\ufeffTitle": "Untitled (letter/drawing)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "37757"
 }

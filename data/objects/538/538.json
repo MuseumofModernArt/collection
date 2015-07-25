@@ -4,12 +4,9 @@
   "Classification": "A&D Architectural Drawing", 
   "Artist": "Louis I. Kahn", 
   "URL": "http://www.moma.org/collection/works/538", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the architect", 
-  "Date": "1963", 
-  "ArtistID": 2964, 
+  "DateAcquired": "1964-04-14", 
   "Keywords": [
-    "online art collection", 
     "Louis I", 
     "Kahn", 
     "Fine Arts Center", 
@@ -20,10 +17,12 @@
     "Plan sketches", 
     "1963"
   ], 
+  "ArtistID": 2964, 
+  "Title": "Fine Arts Center, School, and Performing Arts Theater, Fort Wayne, Indiana, Plan sketches", 
   "Department": "Architecture & Design", 
   "MoMANumber": "399.1964", 
+  "Date": "1963", 
   "ArtistBio": "(American, born Estonia. 1901\u20131974)", 
-  "DateAcquired": "1964-04-14", 
-  "\ufeffTitle": "Fine Arts Center, School, and Performing Arts Theater, Fort Wayne, Indiana, Plan sketches", 
+  "CuratorApproved": "Y", 
   "ObjectID": "538"
 }

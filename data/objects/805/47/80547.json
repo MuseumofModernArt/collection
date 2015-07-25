@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Robert Goodnough", 
   "URL": "http://www.moma.org/collection/works/80547", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Given anonymously", 
-  "Date": "1967", 
-  "ArtistID": 2242, 
+  "DateAcquired": "1970-02-10", 
   "Keywords": [
-    "online art collection", 
     "Robert Goodnough", 
     "Struggle", 
     "1967"
   ], 
+  "ArtistID": 2242, 
+  "Title": "Struggle", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "1084.1969", 
+  "Date": "1967", 
   "ArtistBio": "(American, 1917\u20132010)", 
-  "DateAcquired": "1970-02-10", 
-  "\ufeffTitle": "Struggle", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80547"
 }

@@ -4,20 +4,19 @@
   "Classification": "Drawing", 
   "Artist": "Lee Mullican", 
   "URL": "http://www.moma.org/collection/works/82276", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1950", 
-  "ArtistID": 4159, 
+  "DateAcquired": "2001-10-11", 
   "Keywords": [
-    "online art collection", 
     "Lee Mullican", 
     "Happily I am Singing", 
     "1950"
   ], 
+  "ArtistID": 4159, 
+  "Title": "Happily I am Singing", 
   "Department": "Drawings", 
   "MoMANumber": "2430.2001", 
+  "Date": "1950", 
   "ArtistBio": "(American, 1919\u20131998)", 
-  "DateAcquired": "2001-10-11", 
-  "\ufeffTitle": "Happily I am Singing", 
+  "CuratorApproved": "Y", 
   "ObjectID": "82276"
 }

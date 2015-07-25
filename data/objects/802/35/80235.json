@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Marcel Duchamp", 
   "URL": "http://www.moma.org/collection/works/80235", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Mary Sisler Bequest", 
-  "Date": "1907 or 1909", 
-  "ArtistID": 1634, 
+  "DateAcquired": "1990-12-10", 
   "Keywords": [
-    "online art collection", 
     "Marcel Duchamp", 
     "Portrait of Yvonne Duchamp", 
     "1907 or 1909"
   ], 
+  "ArtistID": 1634, 
+  "Title": "Portrait of Yvonne Duchamp", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "676.1990", 
+  "Date": "1907 or 1909", 
   "ArtistBio": "(American, born France. 1887\u20131968)", 
-  "DateAcquired": "1990-12-10", 
-  "\ufeffTitle": "Portrait of Yvonne Duchamp", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80235"
 }

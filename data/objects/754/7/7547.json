@@ -4,12 +4,9 @@
   "Classification": "A&D Graphic Design", 
   "Artist": "Herbert Bayer", 
   "URL": "http://www.moma.org/collection/works/7547", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Jan Tschichold Collection, Gift of Philip Johnson", 
-  "Date": "Unknown", 
-  "ArtistID": 399, 
+  "DateAcquired": "1999-12-10", 
   "Keywords": [
-    "online art collection", 
     "Herbert Bayer", 
     "Anbau M&ouml;bel", 
     "Entwurf: Walter Gropius", 
@@ -18,10 +15,12 @@
     "e,H", 
     "Unknown"
   ], 
+  "ArtistID": 399, 
+  "Title": "Anbau M\u00f6bel, Entwurf: Walter Gropius, Prof. Dr. e.H", 
   "Department": "Architecture & Design", 
   "MoMANumber": "564.1999", 
+  "Date": "Unknown", 
   "ArtistBio": "(American, born Austria. 1900\u20131985)", 
-  "DateAcquired": "1999-12-10", 
-  "\ufeffTitle": "Anbau M\u00f6bel, Entwurf: Walter Gropius, Prof. Dr. e.H", 
+  "CuratorApproved": "Y", 
   "ObjectID": "7547"
 }

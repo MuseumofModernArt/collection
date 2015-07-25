@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "David Hockney", 
   "URL": "http://www.moma.org/collection/works/66911", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Seiden and de Cuevas Foundation Fund", 
-  "Date": "1973", 
-  "ArtistID": 2678, 
+  "DateAcquired": "1973-10-24", 
   "Keywords": [
-    "online art collection", 
     "David Hockney", 
     "Celia Smoking", 
     "1973"
   ], 
+  "ArtistID": 2678, 
+  "Title": "Celia Smoking", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "322.1973", 
+  "Date": "1973", 
   "ArtistBio": "(British, born 1937)", 
-  "DateAcquired": "1973-10-24", 
-  "\ufeffTitle": "Celia Smoking", 
+  "CuratorApproved": "Y", 
   "ObjectID": "66911"
 }

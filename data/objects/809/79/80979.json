@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Alberto Giacometti", 
   "URL": "http://www.moma.org/collection/works/80979", 
-  "CuratorApproved": "Y", 
   "CreditLine": "A. Conger Goodyear Fund", 
-  "Date": "1951 (cast 1957)", 
-  "ArtistID": 2141, 
+  "DateAcquired": "1958-10-29", 
   "Keywords": [
-    "online art collection", 
     "Alberto Giacometti", 
     "Dog", 
     "1951 (cast 1957)"
   ], 
+  "ArtistID": 2141, 
+  "Title": "Dog", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "120.1958", 
+  "Date": "1951 (cast 1957)", 
   "ArtistBio": "(Swiss, 1901\u20131966)", 
-  "DateAcquired": "1958-10-29", 
-  "\ufeffTitle": "Dog", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80979"
 }

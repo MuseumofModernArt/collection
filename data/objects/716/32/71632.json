@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Max Beckmann", 
   "URL": "http://www.moma.org/collection/works/71632", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "(1920)", 
-  "ArtistID": 429, 
+  "DateAcquired": "1956-12-19", 
   "Keywords": [
-    "online art collection", 
     "Max Beckmann", 
     "Portrait of Fridel Battenberg (Bildnis Fridel Battenberg)", 
     "(1920)"
   ], 
+  "ArtistID": 429, 
+  "Title": "Portrait of Fridel Battenberg (Bildnis Fridel Battenberg)", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "595.1956", 
+  "Date": "(1920)", 
   "ArtistBio": "(German, 1884\u20131950)", 
-  "DateAcquired": "1956-12-19", 
-  "\ufeffTitle": "Portrait of Fridel Battenberg (Bildnis Fridel Battenberg)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "71632"
 }

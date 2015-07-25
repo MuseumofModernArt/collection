@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Alex Katz", 
   "URL": "http://www.moma.org/collection/works/64059", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Mrs. Henry I. Cobb and Purchase", 
-  "Date": "1980", 
-  "ArtistID": 3016, 
+  "DateAcquired": "1990-05-02", 
   "Keywords": [
-    "online art collection", 
     "Alex Katz", 
     "Boy with Striped Shirt", 
     "1980"
   ], 
+  "ArtistID": 3016, 
+  "Title": "The Striped Shirt", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "189.1990", 
+  "Date": "1980", 
   "ArtistBio": "(American, born 1927)", 
-  "DateAcquired": "1990-05-02", 
-  "\ufeffTitle": "The Striped Shirt", 
+  "CuratorApproved": "Y", 
   "ObjectID": "64059"
 }

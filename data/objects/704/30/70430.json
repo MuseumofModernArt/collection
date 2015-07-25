@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Jacques Villon", 
   "URL": "http://www.moma.org/collection/works/70430", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Abby Aldrich Rockefeller Fund", 
-  "Date": "1902", 
-  "ArtistID": 6165, 
+  "DateAcquired": "1949-09-29", 
   "Keywords": [
-    "online art collection", 
     "Jacques Villon", 
     "The Parisian", 
     "1902"
   ], 
+  "ArtistID": 6165, 
+  "Title": "The Parisian", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "520.1949", 
+  "Date": "1902", 
   "ArtistBio": "(French, 1875\u20131963)", 
-  "DateAcquired": "1949-09-29", 
-  "\ufeffTitle": "The Parisian", 
+  "CuratorApproved": "Y", 
   "ObjectID": "70430"
 }

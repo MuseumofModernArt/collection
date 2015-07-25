@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Francesco Clemente", 
   "URL": "http://www.moma.org/collection/works/84178", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Partial and promised gift of UBS", 
-  "Date": "1981", 
-  "ArtistID": 1145, 
+  "DateAcquired": "2002-04-08", 
   "Keywords": [
-    "online art collection", 
     "Francesco Clemente", 
     "Perseverance", 
     "1981"
   ], 
+  "ArtistID": 1145, 
+  "Title": "Perseverance", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "95.2002", 
+  "Date": "1981", 
   "ArtistBio": "(Italian, born 1952)", 
-  "DateAcquired": "2002-04-08", 
-  "\ufeffTitle": "Perseverance", 
+  "CuratorApproved": "Y", 
   "ObjectID": "84178"
 }

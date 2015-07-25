@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Raymond Duchamp-Villon", 
   "URL": "http://www.moma.org/collection/works/80775", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Alexander M. Bing Bequest", 
-  "Date": "1911", 
-  "ArtistID": 1635, 
+  "DateAcquired": "1960-02-10", 
   "Keywords": [
-    "online art collection", 
     "Raymond Duchamp-Villon", 
     "Baudelaire", 
     "1911"
   ], 
+  "ArtistID": 1635, 
+  "Title": "Baudelaire", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "5.1960", 
+  "Date": "1911", 
   "ArtistBio": "(French, 1876\u20131918)", 
-  "DateAcquired": "1960-02-10", 
-  "\ufeffTitle": "Baudelaire", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80775"
 }

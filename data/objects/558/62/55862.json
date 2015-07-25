@@ -4,22 +4,21 @@
   "Classification": "Photograph", 
   "Artist": "Garry Winogrand", 
   "URL": "http://www.moma.org/collection/works/55862", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1969", 
-  "ArtistID": 6399, 
+  "DateAcquired": "1977-12-15", 
   "Keywords": [
-    "online art collection", 
     "Garry Winogrand", 
     "Apollo 11 Moon Shot", 
     "Cape Kennedy", 
     "Florida", 
     "1969"
   ], 
+  "ArtistID": 6399, 
+  "Title": "Apollo 11 Moon Shot, Cape Kennedy, Florida", 
   "Department": "Photography", 
   "MoMANumber": "655.1977", 
+  "Date": "1969", 
   "ArtistBio": "(American, 1928\u20131984)", 
-  "DateAcquired": "1977-12-15", 
-  "\ufeffTitle": "Apollo 11 Moon Shot, Cape Kennedy, Florida", 
+  "CuratorApproved": "Y", 
   "ObjectID": "55862"
 }

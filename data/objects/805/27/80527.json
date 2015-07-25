@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Ludwig Sander", 
   "URL": "http://www.moma.org/collection/works/80527", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The Riklis Collection of McCrory Corporation", 
-  "Date": "1969", 
-  "ArtistID": 5146, 
+  "DateAcquired": "1985-10-25", 
   "Keywords": [
-    "online art collection", 
     "Ludwig Sander", 
     "Tioga II", 
     "1969"
   ], 
+  "ArtistID": 5146, 
+  "Title": "Tioga II", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "1065.1983", 
+  "Date": "1969", 
   "ArtistBio": "(American, 1906\u20131975)", 
-  "DateAcquired": "1985-10-25", 
-  "\ufeffTitle": "Tioga II", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80527"
 }

@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Peter Paul", 
   "URL": "http://www.moma.org/collection/works/68968", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Mrs. E. B. Parkinson Fund", 
-  "Date": "1970", 
-  "ArtistID": 4522, 
+  "DateAcquired": "1970-10-22", 
   "Keywords": [
-    "online art collection", 
     "Peter Paul", 
     "20", 
     "1970"
   ], 
+  "ArtistID": 4522, 
+  "Title": "20", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "428.1970", 
+  "Date": "1970", 
   "ArtistBio": "(German)", 
-  "DateAcquired": "1970-10-22", 
-  "\ufeffTitle": "20", 
+  "CuratorApproved": "Y", 
   "ObjectID": "68968"
 }

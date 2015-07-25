@@ -4,20 +4,19 @@
   "Classification": "Drawing", 
   "Artist": "Norman Lundin", 
   "URL": "http://www.moma.org/collection/works/36031", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Acquired with matching funds from Charles B. Benenson and the National Endowment for the Arts", 
-  "Date": "(1978)", 
-  "ArtistID": 3636, 
+  "DateAcquired": "1978-04-04", 
   "Keywords": [
-    "online art collection", 
     "Norman Lundin", 
     "Blackboard and Light Switch", 
     "(1978)"
   ], 
+  "ArtistID": 3636, 
+  "Title": "Blackboard and Light Switch", 
   "Department": "Drawings", 
   "MoMANumber": "290.1978", 
+  "Date": "(1978)", 
   "ArtistBio": "(American, born 1938)", 
-  "DateAcquired": "1978-04-04", 
-  "\ufeffTitle": "Blackboard and Light Switch", 
+  "CuratorApproved": "Y", 
   "ObjectID": "36031"
 }

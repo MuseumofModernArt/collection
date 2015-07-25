@@ -4,12 +4,9 @@
   "Classification": "A&D Design", 
   "Artist": "Dieter Rams", 
   "URL": "http://www.moma.org/collection/works/2662", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the manufacturer", 
-  "Date": "1956", 
-  "ArtistID": 8451, 
+  "DateAcquired": "1958-12-04", 
   "Keywords": [
-    "online art collection", 
     "Dieter Rams", 
     "Braun AG", 
     "Frankfurt", 
@@ -18,10 +15,12 @@
     "Automatic Slide Projector (model PA 2)", 
     "1956"
   ], 
+  "ArtistID": 8451, 
+  "Title": "Automatic Slide Projector (model PA 2)", 
   "Department": "Architecture & Design", 
   "MoMANumber": "207.1958", 
+  "Date": "1956", 
   "ArtistBio": "(German, born 1932)", 
-  "DateAcquired": "1958-12-04", 
-  "\ufeffTitle": "Automatic Slide Projector (model PA 2)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "2662"
 }

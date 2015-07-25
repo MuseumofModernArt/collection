@@ -4,12 +4,9 @@
   "Classification": "A&D Architectural Drawing", 
   "Artist": "Mario Bellini", 
   "URL": "http://www.moma.org/collection/works/430", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the architect in honor of Lily Auchincloss", 
-  "Date": "1989", 
-  "ArtistID": 451, 
+  "DateAcquired": "1994-09-21", 
   "Keywords": [
-    "online art collection", 
     "Mario Bellini", 
     "The Tokyo Design Center", 
     "Tokyo", 
@@ -17,10 +14,12 @@
     "Perspective", 
     "1989"
   ], 
+  "ArtistID": 451, 
+  "Title": "The Tokyo Design Center, Tokyo, Japan, Perspective", 
   "Department": "Architecture & Design", 
   "MoMANumber": "374.1994", 
+  "Date": "1989", 
   "ArtistBio": "(Italian, born 1935)", 
-  "DateAcquired": "1994-09-21", 
-  "\ufeffTitle": "The Tokyo Design Center, Tokyo, Japan, Perspective", 
+  "CuratorApproved": "Y", 
   "ObjectID": "430"
 }

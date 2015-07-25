@@ -4,21 +4,20 @@
   "Classification": "Print", 
   "Artist": "Jackson Pollock", 
   "URL": "http://www.moma.org/collection/works/64149", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Lee Krasner Pollock", 
-  "Date": "c. 1944-45", 
-  "ArtistID": 4675, 
+  "DateAcquired": "1977-05-03", 
   "Keywords": [
-    "online art collection", 
     "Jackson Pollock", 
     "Untitled (11)", 
     "c", 
     "1944-45"
   ], 
+  "ArtistID": 4675, 
+  "Title": "Untitled (11)", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "193.1977", 
+  "Date": "c. 1944-45", 
   "ArtistBio": "(American, 1912\u20131956)", 
-  "DateAcquired": "1977-05-03", 
-  "\ufeffTitle": "Untitled (11)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "64149"
 }

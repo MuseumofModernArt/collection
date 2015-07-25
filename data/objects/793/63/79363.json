@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Josef Albers", 
   "URL": "http://www.moma.org/collection/works/79363", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Mrs. Bliss Parkinson", 
-  "Date": "1956", 
-  "ArtistID": 97, 
+  "DateAcquired": "1961-10-10", 
   "Keywords": [
-    "online art collection", 
     "Josef Albers", 
     "Study for Homage to the Square: Night Shades", 
     "1956"
   ], 
+  "ArtistID": 97, 
+  "Title": "Study for Homage to the Square: Night Shades", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "275.1961", 
+  "Date": "1956", 
   "ArtistBio": "(American, born Germany. 1888\u20131976)", 
-  "DateAcquired": "1961-10-10", 
-  "\ufeffTitle": "Study for Homage to the Square: Night Shades", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79363"
 }

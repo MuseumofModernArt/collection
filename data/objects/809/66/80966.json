@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Dan Flavin", 
   "URL": "http://www.moma.org/collection/works/80966", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Philip Johnson", 
-  "Date": "1969", 
-  "ArtistID": 1911, 
+  "DateAcquired": "1975-04-01", 
   "Keywords": [
-    "online art collection", 
     "Dan Flavin", 
     "untitled", 
     "1969"
   ], 
+  "ArtistID": 1911, 
+  "Title": "untitled", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "114.1975", 
+  "Date": "1969", 
   "ArtistBio": "(American, 1933\u20131996)", 
-  "DateAcquired": "1975-04-01", 
-  "\ufeffTitle": "untitled", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80966"
 }

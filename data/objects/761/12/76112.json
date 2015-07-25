@@ -4,21 +4,20 @@
   "Classification": "Print", 
   "Artist": "John Marin", 
   "URL": "http://www.moma.org/collection/works/76112", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Abby Aldrich Rockefeller", 
-  "Date": "1906", 
-  "ArtistID": 3770, 
+  "DateAcquired": "1940-04-05", 
   "Keywords": [
-    "online art collection", 
     "John Marin", 
     "Canal", 
     "Amsterdam", 
     "1906"
   ], 
+  "ArtistID": 3770, 
+  "Title": "Canal, Amsterdam", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "1227.1940", 
+  "Date": "1906", 
   "ArtistBio": "(American, 1870\u20131953)", 
-  "DateAcquired": "1940-04-05", 
-  "\ufeffTitle": "Canal, Amsterdam", 
+  "CuratorApproved": "Y", 
   "ObjectID": "76112"
 }

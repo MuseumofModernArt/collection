@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Jasper Johns", 
   "URL": "http://www.moma.org/collection/works/65059", 
-  "CuratorApproved": "Y", 
   "CreditLine": "John B. Turner Fund", 
-  "Date": "1972", 
-  "ArtistID": 2923, 
+  "DateAcquired": "1972-05-08", 
   "Keywords": [
-    "online art collection", 
     "Jasper Johns", 
     "Viola", 
     "1972"
   ], 
+  "ArtistID": 2923, 
+  "Title": "Viola", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "242.1972", 
+  "Date": "1972", 
   "ArtistBio": "(American, born 1930)", 
-  "DateAcquired": "1972-05-08", 
-  "\ufeffTitle": "Viola", 
+  "CuratorApproved": "Y", 
   "ObjectID": "65059"
 }

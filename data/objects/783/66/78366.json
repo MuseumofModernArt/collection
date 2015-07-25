@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "John Kane", 
   "URL": "http://www.moma.org/collection/works/78366", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Abby Aldrich Rockefeller Fund", 
-  "Date": "1929", 
-  "ArtistID": 2982, 
+  "DateAcquired": "1939-01-06", 
   "Keywords": [
-    "online art collection", 
     "John Kane", 
     "Self-Portrait", 
     "1929"
   ], 
+  "ArtistID": 2982, 
+  "Title": "Self-Portrait", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "6.1939", 
+  "Date": "1929", 
   "ArtistBio": "(American, born Scotland. 1860\u20131934)", 
-  "DateAcquired": "1939-01-06", 
-  "\ufeffTitle": "Self-Portrait", 
+  "CuratorApproved": "Y", 
   "ObjectID": "78366"
 }

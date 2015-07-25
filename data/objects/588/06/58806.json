@@ -4,21 +4,20 @@
   "Classification": "Photograph", 
   "Artist": "United Press International", 
   "URL": "http://www.moma.org/collection/works/58806", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The New York Times Collection", 
-  "Date": "February 14, 1964", 
-  "ArtistID": 8638, 
+  "DateAcquired": "2001-06-14", 
   "Keywords": [
-    "online art collection", 
     "United Press International", 
     "\"Target of Bombing\"", 
     "February 14", 
     "1964"
   ], 
+  "ArtistID": 8638, 
+  "Title": "\"Target of Bombing\"", 
   "Department": "Photography", 
   "MoMANumber": "2213.2001", 
+  "Date": "February 14, 1964", 
   "ArtistBio": "", 
-  "DateAcquired": "2001-06-14", 
-  "\ufeffTitle": "\"Target of Bombing\"", 
+  "CuratorApproved": "Y", 
   "ObjectID": "58806"
 }

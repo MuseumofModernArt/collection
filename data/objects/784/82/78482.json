@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Jeanne Reynal", 
   "URL": "http://www.moma.org/collection/works/78482", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Katharine Cornell Fund", 
-  "Date": "1948-50", 
-  "ArtistID": 4884, 
+  "DateAcquired": "1951-01-30", 
   "Keywords": [
-    "online art collection", 
     "Jeanne Reynal", 
     "A Good Circular God", 
     "1948-50"
   ], 
+  "ArtistID": 4884, 
+  "Title": "A Good Circular God", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "20.1951", 
+  "Date": "1948-50", 
   "ArtistBio": "(American, 1903\u20131983)", 
-  "DateAcquired": "1951-01-30", 
-  "\ufeffTitle": "A Good Circular God", 
+  "CuratorApproved": "Y", 
   "ObjectID": "78482"
 }

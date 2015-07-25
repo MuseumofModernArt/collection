@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Paul Kleinschmidt", 
   "URL": "http://www.moma.org/collection/works/72800", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Given anonymously", 
-  "Date": "1913", 
-  "ArtistID": 3140, 
+  "DateAcquired": "1943-11-04", 
   "Keywords": [
-    "online art collection", 
     "Paul Kleinschmidt", 
     "Don Quixote III", 
     "1913"
   ], 
+  "ArtistID": 3140, 
+  "Title": "Don Quixote III", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "663.1943", 
+  "Date": "1913", 
   "ArtistBio": "(German, 1883\u20131949)", 
-  "DateAcquired": "1943-11-04", 
-  "\ufeffTitle": "Don Quixote III", 
+  "CuratorApproved": "Y", 
   "ObjectID": "72800"
 }

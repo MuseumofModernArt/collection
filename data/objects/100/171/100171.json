@@ -4,20 +4,19 @@
   "Classification": "Photograph", 
   "Artist": "Alfred Stieglitz", 
   "URL": "http://www.moma.org/collection/works/100171", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Carla Emil and Richard Silverstein", 
-  "Date": "1922", 
-  "ArtistID": 5664, 
+  "DateAcquired": "2005-10-20", 
   "Keywords": [
-    "online art collection", 
     "Alfred Stieglitz", 
     "Portrait of Georgia Engelhard", 
     "1922"
   ], 
+  "ArtistID": 5664, 
+  "Title": "Portrait of Georgia Engelhard", 
   "Department": "Photography", 
   "MoMANumber": "892.2005", 
+  "Date": "1922", 
   "ArtistBio": "(American, 1864\u20131946)", 
-  "DateAcquired": "2005-10-20", 
-  "\ufeffTitle": "Portrait of Georgia Engelhard", 
+  "CuratorApproved": "Y", 
   "ObjectID": "100171"
 }

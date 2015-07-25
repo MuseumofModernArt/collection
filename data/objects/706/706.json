@@ -4,12 +4,9 @@
   "Classification": "A&D Architectural Drawing", 
   "Artist": "SITE (Sculpture in the Environment), James Wines", 
   "URL": "http://www.moma.org/collection/works/706", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Best Products Company Inc. Architecture Fund", 
-  "Date": "1978", 
-  "ArtistID": 5457, 
+  "DateAcquired": "1981-12-10", 
   "Keywords": [
-    "online art collection", 
     "SITE (Sculpture in the Environment) and James Wines", 
     "Forest Building", 
     "Richmond", 
@@ -17,10 +14,12 @@
     "Perspective", 
     "1978"
   ], 
+  "ArtistID": 5457, 
+  "Title": "Forest Building, Richmond, Virginia, Perspective", 
   "Department": "Architecture & Design", 
   "MoMANumber": "578.1981", 
+  "Date": "1978", 
   "ArtistBio": "(American, founded 1970) (American, born 1932)", 
-  "DateAcquired": "1981-12-10", 
-  "\ufeffTitle": "Forest Building, Richmond, Virginia, Perspective", 
+  "CuratorApproved": "Y", 
   "ObjectID": "706"
 }

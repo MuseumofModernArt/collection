@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Sigmar Polke", 
   "URL": "http://www.moma.org/collection/works/79110", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Werner and Elaine Dannheisser", 
-  "Date": "1969", 
-  "ArtistID": 4671, 
+  "DateAcquired": "1996-04-09", 
   "Keywords": [
-    "online art collection", 
     "Sigmar Polke", 
     "Untitled", 
     "1969"
   ], 
+  "ArtistID": 4671, 
+  "Title": "Untitled", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "197.1996", 
+  "Date": "1969", 
   "ArtistBio": "(German, 1941\u20132010)", 
-  "DateAcquired": "1996-04-09", 
-  "\ufeffTitle": "Untitled", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79110"
 }

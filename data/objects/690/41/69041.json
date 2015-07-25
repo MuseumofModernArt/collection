@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Henri Matisse", 
   "URL": "http://www.moma.org/collection/works/69041", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Abby Aldrich Rockefeller", 
-  "Date": "1922", 
-  "ArtistID": 3832, 
+  "DateAcquired": "1940-04-05", 
   "Keywords": [
-    "online art collection", 
     "Henri Matisse", 
     "The Organdy Dress (La robe d'organdi)", 
     "1922"
   ], 
+  "ArtistID": 3832, 
+  "Title": "The Organdy Dress (La robe d'organdi)", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "433.1940", 
+  "Date": "1922", 
   "ArtistBio": "(French, 1869\u20131954)", 
-  "DateAcquired": "1940-04-05", 
-  "\ufeffTitle": "The Organdy Dress (La robe d'organdi)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "69041"
 }

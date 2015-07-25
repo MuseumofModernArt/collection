@@ -4,12 +4,9 @@
   "Classification": "Print", 
   "Artist": "Paul Adolf Seehaus", 
   "URL": "http://www.moma.org/collection/works/71217", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Given anonymously", 
-  "Date": "1917 (executed 1916, published 1919)", 
-  "ArtistID": 5313, 
+  "DateAcquired": "1942-11-19", 
   "Keywords": [
-    "online art collection", 
     "Paul Adolf Seehaus", 
     "Pilgrimage (Wallfahrt) from the periodical in portfolio form Die Schaffenden", 
     "vol", 
@@ -19,10 +16,12 @@
     "1917 (executed 1916", 
     "published 1919)"
   ], 
+  "ArtistID": 5313, 
+  "Title": "Pilgrimage (Wallfahrt) from the periodical in portfolio form Die Schaffenden, vol. 1, no. 2", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "566.1942", 
+  "Date": "1917 (executed 1916, published 1919)", 
   "ArtistBio": "(German, 1891\u20131919)", 
-  "DateAcquired": "1942-11-19", 
-  "\ufeffTitle": "Pilgrimage (Wallfahrt) from the periodical in portfolio form Die Schaffenden, vol. 1, no. 2", 
+  "CuratorApproved": "Y", 
   "ObjectID": "71217"
 }

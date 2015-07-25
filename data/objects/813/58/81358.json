@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "James Lee Byars", 
   "URL": "http://www.moma.org/collection/works/81358", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Committee on Painting and Sculpture Funds", 
-  "Date": "1989", 
-  "ArtistID": 902, 
+  "DateAcquired": "1998-05-11", 
   "Keywords": [
-    "online art collection", 
     "James Lee Byars", 
     "The Table of Perfect", 
     "1989"
   ], 
+  "ArtistID": 902, 
+  "Title": "The Table of Perfect", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "329.1998", 
+  "Date": "1989", 
   "ArtistBio": "(American, 1932\u20131997)", 
-  "DateAcquired": "1998-05-11", 
-  "\ufeffTitle": "The Table of Perfect", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81358"
 }

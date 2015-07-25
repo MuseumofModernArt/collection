@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "L\u00e1szl\u00f3 Moholy-Nagy", 
   "URL": "http://www.moma.org/collection/works/80513", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The Riklis Collection of McCrory Corporation", 
-  "Date": "1921", 
-  "ArtistID": 4048, 
+  "DateAcquired": "1985-10-25", 
   "Keywords": [
-    "online art collection", 
     "L&aacute;szl&oacute; Moholy-Nagy", 
     "Yellow Circle", 
     "1921"
   ], 
+  "ArtistID": 4048, 
+  "Title": "Yellow Circle", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "1050.1983", 
+  "Date": "1921", 
   "ArtistBio": "(American, born Hungary. 1895\u20131946)", 
-  "DateAcquired": "1985-10-25", 
-  "\ufeffTitle": "Yellow Circle", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80513"
 }

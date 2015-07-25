@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Marc Chagall", 
   "URL": "http://www.moma.org/collection/works/66857", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1922", 
-  "ArtistID": 1055, 
+  "DateAcquired": "1947-12-19", 
   "Keywords": [
-    "online art collection", 
     "Marc Chagall", 
     "Man with hen (L'Homme &agrave; la poule)", 
     "1922"
   ], 
+  "ArtistID": 1055, 
+  "Title": "Man with hen (L'Homme \u00e0 la poule)", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "319.1947", 
+  "Date": "1922", 
   "ArtistBio": "(French, born Belarus. 1887\u20131985)", 
-  "DateAcquired": "1947-12-19", 
-  "\ufeffTitle": "Man with hen (L'Homme \u00e0 la poule)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "66857"
 }

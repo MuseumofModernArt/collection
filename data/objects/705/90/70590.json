@@ -4,21 +4,20 @@
   "Classification": "Print", 
   "Artist": "Max Beckmann", 
   "URL": "http://www.moma.org/collection/works/70590", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "(1921, published 1922)", 
-  "ArtistID": 429, 
+  "DateAcquired": "1949-09-29", 
   "Keywords": [
-    "online art collection", 
     "Max Beckmann", 
     "Dressing Room (Garderobe) from Annual Fair (Jahrmarkt)", 
     "(1921", 
     "published 1922)"
   ], 
+  "ArtistID": 429, 
+  "Title": "Dressing Room (Garderobe) from Annual Fair (Jahrmarkt)", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "528.1949.2", 
+  "Date": "(1921, published 1922)", 
   "ArtistBio": "(German, 1884\u20131950)", 
-  "DateAcquired": "1949-09-29", 
-  "\ufeffTitle": "Dressing Room (Garderobe) from Annual Fair (Jahrmarkt)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "70590"
 }

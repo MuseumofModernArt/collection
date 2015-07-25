@@ -4,12 +4,9 @@
   "Classification": "A&D Graphic Design", 
   "Artist": "A. M. Cassandre", 
   "URL": "http://www.moma.org/collection/works/5996", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Mr. and Mrs. Stanley Resor", 
-  "Date": "1931", 
-  "ArtistID": 1015, 
+  "DateAcquired": "1935-11-12", 
   "Keywords": [
-    "online art collection", 
     "A", 
     "M", 
     "Cassandre", 
@@ -17,10 +14,12 @@
     "\"C&ocirc;te D'Azur\"", 
     "1931"
   ], 
+  "ArtistID": 1015, 
+  "Title": "SS. \"C\u00f4te D'Azur\" (Poster for Chemin de Fer du Nord)", 
   "Department": "Architecture & Design", 
   "MoMANumber": "274.1935", 
+  "Date": "1931", 
   "ArtistBio": "(French, 1901\u20131968)", 
-  "DateAcquired": "1935-11-12", 
-  "\ufeffTitle": "SS. \"C\u00f4te D'Azur\" (Poster for Chemin de Fer du Nord)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "5996"
 }

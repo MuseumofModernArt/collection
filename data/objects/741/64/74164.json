@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Georges Rouault", 
   "URL": "http://www.moma.org/collection/works/74164", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Abby Aldrich Rockefeller Fund", 
-  "Date": "1934", 
-  "ArtistID": 5053, 
+  "DateAcquired": "1956-12-19", 
   "Keywords": [
-    "online art collection", 
     "Georges Rouault", 
     "Master Arthur", 
     "1934"
   ], 
+  "ArtistID": 5053, 
+  "Title": "Master Arthur", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "799.1956", 
+  "Date": "1934", 
   "ArtistBio": "(French, 1871\u20131958)", 
-  "DateAcquired": "1956-12-19", 
-  "\ufeffTitle": "Master Arthur", 
+  "CuratorApproved": "Y", 
   "ObjectID": "74164"
 }

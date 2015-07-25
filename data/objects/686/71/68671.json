@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Andy Warhol", 
   "URL": "http://www.moma.org/collection/works/68671", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Philip Johnson", 
-  "Date": "1966", 
-  "ArtistID": 6246, 
+  "DateAcquired": "1973-10-24", 
   "Keywords": [
-    "online art collection", 
     "Andy Warhol", 
     "Self-Portrait", 
     "1966"
   ], 
+  "ArtistID": 6246, 
+  "Title": "Self-Portrait", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "413.1973", 
+  "Date": "1966", 
   "ArtistBio": "(American, 1928\u20131987)", 
-  "DateAcquired": "1973-10-24", 
-  "\ufeffTitle": "Self-Portrait", 
+  "CuratorApproved": "Y", 
   "ObjectID": "68671"
 }

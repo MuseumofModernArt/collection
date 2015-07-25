@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Helen Frankenthaler", 
   "URL": "http://www.moma.org/collection/works/79081", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Mr. and Mrs. Allan D. Emil", 
-  "Date": "1955", 
-  "ArtistID": 1974, 
+  "DateAcquired": "1956-04-04", 
   "Keywords": [
-    "online art collection", 
     "Helen Frankenthaler", 
     "Trojan Gates", 
     "1955"
   ], 
+  "ArtistID": 1974, 
+  "Title": "Trojan Gates", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "189.1956", 
+  "Date": "1955", 
   "ArtistBio": "(American, 1928\u20132011)", 
-  "DateAcquired": "1956-04-04", 
-  "\ufeffTitle": "Trojan Gates", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79081"
 }

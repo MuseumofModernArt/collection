@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Francis Bacon", 
   "URL": "http://www.moma.org/collection/works/79285", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Mr. and Mrs. William A. M. Burden", 
-  "Date": "1953", 
-  "ArtistID": 272, 
+  "DateAcquired": "1956-10-09", 
   "Keywords": [
-    "online art collection", 
     "Francis Bacon", 
     "Number VII from Eight Studies for a Portrait", 
     "1953"
   ], 
+  "ArtistID": 272, 
+  "Title": "Study for Portrait VII", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "254.1956", 
+  "Date": "1953", 
   "ArtistBio": "(British, born Ireland. 1909\u20131992)", 
-  "DateAcquired": "1956-10-09", 
-  "\ufeffTitle": "Study for Portrait VII", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79285"
 }

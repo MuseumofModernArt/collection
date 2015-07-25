@@ -4,12 +4,9 @@
   "Classification": "Print", 
   "Artist": "Oskar Kokoschka", 
   "URL": "http://www.moma.org/collection/works/68068", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Larry Aldrich Fund", 
-  "Date": "(1911-12, published 1912)", 
-  "ArtistID": 3197, 
+  "DateAcquired": "1954-09-30", 
   "Keywords": [
-    "online art collection", 
     "Oskar Kokoschka", 
     "Self-Portrait", 
     "Hand on Chest (Selbstbildnis", 
@@ -17,10 +14,12 @@
     "(1911-12", 
     "published 1912)"
   ], 
+  "ArtistID": 3197, 
+  "Title": "Self-Portrait, Hand on Chest (Selbstbildnis, Hand auf der Brust)", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "378.1954", 
+  "Date": "(1911-12, published 1912)", 
   "ArtistBio": "(Austrian, 1886\u20131980)", 
-  "DateAcquired": "1954-09-30", 
-  "\ufeffTitle": "Self-Portrait, Hand on Chest (Selbstbildnis, Hand auf der Brust)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "68068"
 }

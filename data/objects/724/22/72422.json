@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "John Newman", 
   "URL": "http://www.moma.org/collection/works/72422", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Tyler Graphics Ltd.", 
-  "Date": "1990", 
-  "ArtistID": 4286, 
+  "DateAcquired": "1990-12-31", 
   "Keywords": [
-    "online art collection", 
     "John Newman", 
     "Twist in Time", 
     "1990"
   ], 
+  "ArtistID": 4286, 
+  "Title": "Twist in Time", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "642.1990", 
+  "Date": "1990", 
   "ArtistBio": "(American, born 1952)", 
-  "DateAcquired": "1990-12-31", 
-  "\ufeffTitle": "Twist in Time", 
+  "CuratorApproved": "Y", 
   "ObjectID": "72422"
 }

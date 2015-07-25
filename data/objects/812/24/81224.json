@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Max Ernst", 
   "URL": "http://www.moma.org/collection/works/81224", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Acquired through the James Thrall Soby Bequest", 
-  "Date": "1934-35", 
-  "ArtistID": 1752, 
+  "DateAcquired": "1983-02-14", 
   "Keywords": [
-    "online art collection", 
     "Max Ernst", 
     "Bird-Head", 
     "1934-35"
   ], 
+  "ArtistID": 1752, 
+  "Title": "Bird-Head", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "255.1983", 
+  "Date": "1934-35", 
   "ArtistBio": "(French, born Germany. 1891\u20131976)", 
-  "DateAcquired": "1983-02-14", 
-  "\ufeffTitle": "Bird-Head", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81224"
 }

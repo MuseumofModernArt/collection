@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Jean Tinguely", 
   "URL": "http://www.moma.org/collection/works/81174", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the artist", 
-  "Date": "1960", 
-  "ArtistID": 5882, 
+  "DateAcquired": "1968-03-12", 
   "Keywords": [
-    "online art collection", 
     "Jean Tinguely", 
     "Fragment from Homage to New York", 
     "1960"
   ], 
+  "ArtistID": 5882, 
+  "Title": "Fragment from Homage to New York", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "227.1968", 
+  "Date": "1960", 
   "ArtistBio": "(Swiss, 1925\u20131991)", 
-  "DateAcquired": "1968-03-12", 
-  "\ufeffTitle": "Fragment from Homage to New York", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81174"
 }

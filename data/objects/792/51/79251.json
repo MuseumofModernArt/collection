@@ -4,21 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Jackson Pollock", 
   "URL": "http://www.moma.org/collection/works/79251", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Acquired through the Lillie P. Bliss Bequest and the Mr. and Mrs. David Rockefeller Fund", 
-  "Date": "1951", 
-  "ArtistID": 4675, 
+  "DateAcquired": "1969-03-11", 
   "Keywords": [
-    "online art collection", 
     "Jackson Pollock", 
     "Echo: Number 25", 
-    "1951", 
     "1951"
   ], 
+  "ArtistID": 4675, 
+  "Title": "Echo: Number 25, 1951", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "241.1969", 
+  "Date": "1951", 
   "ArtistBio": "(American, 1912\u20131956)", 
-  "DateAcquired": "1969-03-11", 
-  "\ufeffTitle": "Echo: Number 25, 1951", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79251"
 }

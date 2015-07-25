@@ -4,20 +4,19 @@
   "Classification": "Photograph", 
   "Artist": "Unknown photographer", 
   "URL": "http://www.moma.org/collection/works/44601", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1919", 
-  "ArtistID": 6028, 
+  "DateAcquired": "1984-01-12", 
   "Keywords": [
-    "online art collection", 
     "Unknown Photographer", 
     "Prince Albert at North British Locomotive Company", 
     "1919"
   ], 
+  "ArtistID": 6028, 
+  "Title": "Prince Albert at North British Locomotive Company", 
   "Department": "Photography", 
   "MoMANumber": "42.1984", 
+  "Date": "1919", 
   "ArtistBio": "", 
-  "DateAcquired": "1984-01-12", 
-  "\ufeffTitle": "Prince Albert at North British Locomotive Company", 
+  "CuratorApproved": "Y", 
   "ObjectID": "44601"
 }

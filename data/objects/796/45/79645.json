@@ -4,21 +4,20 @@
   "Classification": "Painting", 
   "Artist": "Adolph Gottlieb", 
   "URL": "http://www.moma.org/collection/works/79645", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Given anonymously", 
-  "Date": "1954-56", 
-  "ArtistID": 2268, 
+  "DateAcquired": "1960-11-30", 
   "Keywords": [
-    "online art collection", 
     "Adolph Gottlieb", 
     "Unstill Life", 
     "III", 
     "1954-56"
   ], 
+  "ArtistID": 2268, 
+  "Title": "Unstill Life, III", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "415.1960", 
+  "Date": "1954-56", 
   "ArtistBio": "(American, 1903\u20131974)", 
-  "DateAcquired": "1960-11-30", 
-  "\ufeffTitle": "Unstill Life, III", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79645"
 }

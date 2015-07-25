@@ -4,20 +4,19 @@
   "Classification": "Photograph", 
   "Artist": "Zeke Berman", 
   "URL": "http://www.moma.org/collection/works/55325", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The Fellows of Photography Fund", 
-  "Date": "1990", 
-  "ArtistID": 506, 
+  "DateAcquired": "1990-12-13", 
   "Keywords": [
-    "online art collection", 
     "Zeke Berman", 
     "To and From", 
     "1990"
   ], 
+  "ArtistID": 506, 
+  "Title": "To and From", 
   "Department": "Photography", 
   "MoMANumber": "578.1990", 
+  "Date": "1990", 
   "ArtistBio": "(American, born 1951)", 
-  "DateAcquired": "1990-12-13", 
-  "\ufeffTitle": "To and From", 
+  "CuratorApproved": "Y", 
   "ObjectID": "55325"
 }

@@ -4,21 +4,20 @@
   "Classification": "Painting", 
   "Artist": "Roberto Matta", 
   "URL": "http://www.moma.org/collection/works/80602", 
-  "CuratorApproved": "Y", 
   "CreditLine": "James Thrall Soby Bequest", 
-  "Date": "1942", 
-  "ArtistID": 3842, 
+  "DateAcquired": "1979-12-11", 
   "Keywords": [
-    "online art collection", 
     "Roberto Matta", 
     "Here", 
     "Sir Fire", 
     "Eat! 1942"
   ], 
+  "ArtistID": 3842, 
+  "Title": "Here, Sir Fire, Eat!", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "1235.1979", 
+  "Date": "1942", 
   "ArtistBio": "(Chilean, 1911\u20132002)", 
-  "DateAcquired": "1979-12-11", 
-  "\ufeffTitle": "Here, Sir Fire, Eat!", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80602"
 }

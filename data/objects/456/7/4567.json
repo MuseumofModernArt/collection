@@ -4,20 +4,19 @@
   "Classification": "A&D Design", 
   "Artist": "Unknown Designer", 
   "URL": "http://www.moma.org/collection/works/4567", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Transferred from Department of Architecture", 
-  "Date": "Before 1942", 
-  "ArtistID": 6011, 
+  "DateAcquired": "1942-01-01", 
   "Keywords": [
-    "online art collection", 
     "Unknown Designer", 
     "Door Handle (Automobile Type)", 
     "Before 1942"
   ], 
+  "ArtistID": 6011, 
+  "Title": "Door Handle (Automobile Type)", 
   "Department": "Architecture & Design", 
   "MoMANumber": "936.1942", 
+  "Date": "Before 1942", 
   "ArtistBio": "(Nationality unknown)", 
-  "DateAcquired": "1942-01-01", 
-  "\ufeffTitle": "Door Handle (Automobile Type)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "4567"
 }

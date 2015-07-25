@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Elizabeth Peyton", 
   "URL": "http://www.moma.org/collection/works/91766", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Fractional and promised gift of David Teiger", 
-  "Date": "1997", 
-  "ArtistID": 8042, 
+  "DateAcquired": "2004-06-08", 
   "Keywords": [
-    "online art collection", 
     "Elizabeth Peyton", 
     "Craig", 
     "1997"
   ], 
+  "ArtistID": 8042, 
+  "Title": "Craig", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "328.2004", 
+  "Date": "1997", 
   "ArtistBio": "(American, born 1965)", 
-  "DateAcquired": "2004-06-08", 
-  "\ufeffTitle": "Craig", 
+  "CuratorApproved": "Y", 
   "ObjectID": "91766"
 }

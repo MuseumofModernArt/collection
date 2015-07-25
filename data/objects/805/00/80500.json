@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Franti\u0161ek Kupka", 
   "URL": "http://www.moma.org/collection/works/80500", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The Riklis Collection of McCrory Corporation", 
-  "Date": "1913-14", 
-  "ArtistID": 3302, 
+  "DateAcquired": "1985-10-25", 
   "Keywords": [
-    "online art collection", 
     "Franti&scaron;ek Kupka", 
     "Vertical and Diagonal Planes", 
     "1913-14"
   ], 
+  "ArtistID": 3302, 
+  "Title": "Vertical and Diagonal Planes", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "1036.1983", 
+  "Date": "1913-14", 
   "ArtistBio": "(Czech, 1871\u20131957)", 
-  "DateAcquired": "1985-10-25", 
-  "\ufeffTitle": "Vertical and Diagonal Planes", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80500"
 }

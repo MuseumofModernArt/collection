@@ -4,20 +4,19 @@
   "Classification": "Drawing", 
   "Artist": "Charles Demuth", 
   "URL": "http://www.moma.org/collection/works/34760", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Abby Aldrich Rockefeller Fund", 
-  "Date": "1918", 
-  "ArtistID": 1490, 
+  "DateAcquired": "1945-06-13", 
   "Keywords": [
-    "online art collection", 
     "Charles Demuth", 
     "Dancing Sailors", 
     "1918"
   ], 
+  "ArtistID": 1490, 
+  "Title": "Dancing Sailors", 
   "Department": "Drawings", 
   "MoMANumber": "147.1945", 
+  "Date": "1918", 
   "ArtistBio": "(American, 1883\u20131935)", 
-  "DateAcquired": "1945-06-13", 
-  "\ufeffTitle": "Dancing Sailors", 
+  "CuratorApproved": "Y", 
   "ObjectID": "34760"
 }

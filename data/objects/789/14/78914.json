@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Gregory Amenoff", 
   "URL": "http://www.moma.org/collection/works/78914", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Mr. and Mrs. Michael M. Rea Fund and purchase", 
-  "Date": "January 1985", 
-  "ArtistID": 145, 
+  "DateAcquired": "1985-04-08", 
   "Keywords": [
-    "online art collection", 
     "Gregory Amenoff", 
     "Celadon", 
     "January 1985"
   ], 
+  "ArtistID": 145, 
+  "Title": "Celadon", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "127.1985", 
+  "Date": "January 1985", 
   "ArtistBio": "(American, born 1948)", 
-  "DateAcquired": "1985-04-08", 
-  "\ufeffTitle": "Celadon", 
+  "CuratorApproved": "Y", 
   "ObjectID": "78914"
 }

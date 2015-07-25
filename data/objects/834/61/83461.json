@@ -4,12 +4,9 @@
   "Classification": "Photograph", 
   "Artist": "Unknown photographer", 
   "URL": "http://www.moma.org/collection/works/83461", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "March 17, 1916", 
-  "ArtistID": 6028, 
+  "DateAcquired": "1971-11-10", 
   "Keywords": [
-    "online art collection", 
     "Unknown Photographer", 
     "Balboa Terminals", 
     "Dry Dock #1", 
@@ -17,10 +14,12 @@
     "March 17", 
     "1916"
   ], 
+  "ArtistID": 6028, 
+  "Title": "Balboa Terminals. Dry Dock #1. Putting Greenheart in Mitre Gate", 
   "Department": "Photography", 
   "MoMANumber": "570.1971.66", 
+  "Date": "March 17, 1916", 
   "ArtistBio": "", 
-  "DateAcquired": "1971-11-10", 
-  "\ufeffTitle": "Balboa Terminals. Dry Dock #1. Putting Greenheart in Mitre Gate", 
+  "CuratorApproved": "Y", 
   "ObjectID": "83461"
 }

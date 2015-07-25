@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Constantin Brancusi", 
   "URL": "http://www.moma.org/collection/works/81093", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Mrs. Simon Guggenheim Fund", 
-  "Date": "1922", 
-  "ArtistID": 738, 
+  "DateAcquired": "1956-04-04", 
   "Keywords": [
-    "online art collection", 
     "Constantin Brancusi", 
     "Socrates", 
     "1922"
   ], 
+  "ArtistID": 738, 
+  "Title": "Socrates", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "187.1956", 
+  "Date": "1922", 
   "ArtistBio": "(French, born Romania. 1876\u20131957)", 
-  "DateAcquired": "1956-04-04", 
-  "\ufeffTitle": "Socrates", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81093"
 }

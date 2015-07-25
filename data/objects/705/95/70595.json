@@ -4,21 +4,20 @@
   "Classification": "Print", 
   "Artist": "Max Beckmann", 
   "URL": "http://www.moma.org/collection/works/70595", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "(1921, published 1922)", 
-  "ArtistID": 429, 
+  "DateAcquired": "1949-09-29", 
   "Keywords": [
-    "online art collection", 
     "Max Beckmann", 
     "Merry-Go-Round (Das Karussell)  from Annual Fair (Jahrmarkt)", 
     "(1921", 
     "published 1922)"
   ], 
+  "ArtistID": 429, 
+  "Title": "Merry-Go-Round (Das Karussell)  from Annual Fair (Jahrmarkt)", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "528.1949.7", 
+  "Date": "(1921, published 1922)", 
   "ArtistBio": "(German, 1884\u20131950)", 
-  "DateAcquired": "1949-09-29", 
-  "\ufeffTitle": "Merry-Go-Round (Das Karussell)  from Annual Fair (Jahrmarkt)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "70595"
 }

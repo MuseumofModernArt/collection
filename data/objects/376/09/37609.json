@@ -4,21 +4,20 @@
   "Classification": "Drawing", 
   "Artist": "Roger de La Fresnaye", 
   "URL": "http://www.moma.org/collection/works/37609", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The Joseph G. Mayer Fund in memory of Ren\u00e9 d'Harnoncourt", 
-  "Date": "(c. 1913)", 
-  "ArtistID": 3325, 
+  "DateAcquired": "1973-10-26", 
   "Keywords": [
-    "online art collection", 
     "Roger de La Fresnaye", 
     "Study for Couple with Greyhound", 
     "(c", 
     "1913)"
   ], 
+  "ArtistID": 3325, 
+  "Title": "Study for Couple with Greyhound", 
   "Department": "Drawings", 
   "MoMANumber": "617.1973", 
+  "Date": "(c. 1913)", 
   "ArtistBio": "(French, 1885\u20131925)", 
-  "DateAcquired": "1973-10-26", 
-  "\ufeffTitle": "Study for Couple with Greyhound", 
+  "CuratorApproved": "Y", 
   "ObjectID": "37609"
 }

@@ -4,21 +4,20 @@
   "Classification": "Photograph", 
   "Artist": "Larry Fink", 
   "URL": "http://www.moma.org/collection/works/50083", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Acquired with matching funds from the Frank Strick Foundation and the National Endowment for the Arts", 
-  "Date": "February 1978", 
-  "ArtistID": 1877, 
+  "DateAcquired": "1990-06-07", 
   "Keywords": [
-    "online art collection", 
     "Larry Fink", 
     "Hungarian Debutante Ball", 
     "New York City", 
     "February 1978"
   ], 
+  "ArtistID": 1877, 
+  "Title": "Hungarian Debutante Ball, New York City", 
   "Department": "Photography", 
   "MoMANumber": "293.1990", 
+  "Date": "February 1978", 
   "ArtistBio": "(American, born 1941)", 
-  "DateAcquired": "1990-06-07", 
-  "\ufeffTitle": "Hungarian Debutante Ball, New York City", 
+  "CuratorApproved": "Y", 
   "ObjectID": "50083"
 }

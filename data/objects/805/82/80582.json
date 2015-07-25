@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Balthus (Baltusz Klossowski de Rola)", 
   "URL": "http://www.moma.org/collection/works/80582", 
-  "CuratorApproved": "Y", 
   "CreditLine": "James Thrall Soby Bequest", 
-  "Date": "1933", 
-  "ArtistID": 317, 
+  "DateAcquired": "1979-12-11", 
   "Keywords": [
-    "online art collection", 
     "Balthus (Baltusz Klossowski de Rola)", 
     "The Street", 
     "1933"
   ], 
+  "ArtistID": 317, 
+  "Title": "The Street", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "1200.1979", 
+  "Date": "1933", 
   "ArtistBio": "(French, 1908\u20132001)", 
-  "DateAcquired": "1979-12-11", 
-  "\ufeffTitle": "The Street", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80582"
 }

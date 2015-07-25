@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Anne Truitt", 
   "URL": "http://www.moma.org/collection/works/80969", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Given anonymously", 
-  "Date": "1962", 
-  "ArtistID": 5945, 
+  "DateAcquired": "1973-02-13", 
   "Keywords": [
-    "online art collection", 
     "Anne Truitt", 
     "Catawba", 
     "1962"
   ], 
+  "ArtistID": 5945, 
+  "Title": "Catawba", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "115.1973", 
+  "Date": "1962", 
   "ArtistBio": "(American, 1921\u20132004)", 
-  "DateAcquired": "1973-02-13", 
-  "\ufeffTitle": "Catawba", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80969"
 }

@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Jimmy Ernst", 
   "URL": "http://www.moma.org/collection/works/78683", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Katharine Cornell Fund", 
-  "Date": "1949", 
-  "ArtistID": 1751, 
+  "DateAcquired": "1950-01-27", 
   "Keywords": [
-    "online art collection", 
     "Jimmy Ernst", 
     "A Time for Fear", 
     "1949"
   ], 
+  "ArtistID": 1751, 
+  "Title": "A Time for Fear", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "73.1950", 
+  "Date": "1949", 
   "ArtistBio": "(American, 1920\u20131984)", 
-  "DateAcquired": "1950-01-27", 
-  "\ufeffTitle": "A Time for Fear", 
+  "CuratorApproved": "Y", 
   "ObjectID": "78683"
 }

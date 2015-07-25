@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Jake Berthot", 
   "URL": "http://www.moma.org/collection/works/100197", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Edward R. Broida", 
-  "Date": "1981", 
-  "ArtistID": 529, 
+  "DateAcquired": "2005-10-06", 
   "Keywords": [
-    "online art collection", 
     "Jake Berthot", 
     "Belfast", 
     "1981"
   ], 
+  "ArtistID": 529, 
+  "Title": "Belfast", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "658.2005", 
+  "Date": "1981", 
   "ArtistBio": "(American, born 1939)", 
-  "DateAcquired": "2005-10-06", 
-  "\ufeffTitle": "Belfast", 
+  "CuratorApproved": "Y", 
   "ObjectID": "100197"
 }

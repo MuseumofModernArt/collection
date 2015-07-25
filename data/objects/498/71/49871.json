@@ -4,20 +4,19 @@
   "Classification": "Photograph", 
   "Artist": "Zeke Berman", 
   "URL": "http://www.moma.org/collection/works/49871", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1982", 
-  "ArtistID": 506, 
+  "DateAcquired": "1982-10-28", 
   "Keywords": [
-    "online art collection", 
     "Zeke Berman", 
     "Current Events Series #6", 
     "1982"
   ], 
+  "ArtistID": 506, 
+  "Title": "Current Events Series #6", 
   "Department": "Photography", 
   "MoMANumber": "276.1982", 
+  "Date": "1982", 
   "ArtistBio": "(American, born 1951)", 
-  "DateAcquired": "1982-10-28", 
-  "\ufeffTitle": "Current Events Series #6", 
+  "CuratorApproved": "Y", 
   "ObjectID": "49871"
 }

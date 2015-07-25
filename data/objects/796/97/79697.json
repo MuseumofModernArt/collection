@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Frank Stella", 
   "URL": "http://www.moma.org/collection/works/79697", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Philip Johnson", 
-  "Date": "1958", 
-  "ArtistID": 5640, 
+  "DateAcquired": "1981-11-17", 
   "Keywords": [
-    "online art collection", 
     "Frank Stella", 
     "Astoria", 
     "1958"
   ], 
+  "ArtistID": 5640, 
+  "Title": "Astoria", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "431.1981", 
+  "Date": "1958", 
   "ArtistBio": "(American, born 1936)", 
-  "DateAcquired": "1981-11-17", 
-  "\ufeffTitle": "Astoria", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79697"
 }

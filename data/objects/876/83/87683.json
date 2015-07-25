@@ -4,12 +4,9 @@
   "Classification": "A&D Mies van der Rohe Archive", 
   "Artist": "Ludwig Mies van der Rohe", 
   "URL": "http://www.moma.org/collection/works/87683", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Mies van der Rohe Archive, gift of the architect\r\n", 
-  "Date": "1928", 
-  "ArtistID": 7166, 
+  "DateAcquired": "", 
   "Keywords": [
-    "online art collection", 
     "Ludwig Mies van der Rohe", 
     "Fuchs Addition to Perls House", 
     "Berlin-Zehlendorf", 
@@ -17,10 +14,12 @@
     "Three elevations", 
     "1928"
   ], 
+  "ArtistID": 7166, 
+  "Title": "Fuchs Addition to Perls House, Berlin-Zehlendorf, Germany, Three elevations", 
   "Department": "Architecture & Design", 
   "MoMANumber": "MR26.13", 
+  "Date": "1928", 
   "ArtistBio": "(American, born Germany. 1886\u20131969)", 
-  "DateAcquired": "", 
-  "\ufeffTitle": "Fuchs Addition to Perls House, Berlin-Zehlendorf, Germany, Three elevations", 
+  "CuratorApproved": "Y", 
   "ObjectID": "87683"
 }

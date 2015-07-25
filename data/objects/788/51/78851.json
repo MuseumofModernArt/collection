@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Jean Dubuffet", 
   "URL": "http://www.moma.org/collection/works/78851", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Mrs. Simon Guggenheim Fund", 
-  "Date": "January 1947", 
-  "ArtistID": 1633, 
+  "DateAcquired": "1961-04-11", 
   "Keywords": [
-    "online art collection", 
     "Jean Dubuffet", 
     "Jo&euml; Bousquet in Bed", 
     "January 1947"
   ], 
+  "ArtistID": 1633, 
+  "Title": "Jo\u00eb Bousquet in Bed", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "114.1961", 
+  "Date": "January 1947", 
   "ArtistBio": "(French, 1901\u20131985)", 
-  "DateAcquired": "1961-04-11", 
-  "\ufeffTitle": "Jo\u00eb Bousquet in Bed", 
+  "CuratorApproved": "Y", 
   "ObjectID": "78851"
 }

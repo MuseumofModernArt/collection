@@ -4,21 +4,20 @@
   "Classification": "Print", 
   "Artist": "Max Beckmann", 
   "URL": "http://www.moma.org/collection/works/66620", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Abby Aldrich Rockefeller Fund", 
-  "Date": "(published c. 1923)", 
-  "ArtistID": 429, 
+  "DateAcquired": "1951-05-24", 
   "Keywords": [
-    "online art collection", 
     "Max Beckmann", 
     "At the Hotel (The Dollar) (Im Hotel [Der Dollar])", 
     "(published c", 
     "1923)"
   ], 
+  "ArtistID": 429, 
+  "Title": "At the Hotel (The Dollar) (Im Hotel [Der Dollar])", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "309.1951", 
+  "Date": "(published c. 1923)", 
   "ArtistBio": "(German, 1884\u20131950)", 
-  "DateAcquired": "1951-05-24", 
-  "\ufeffTitle": "At the Hotel (The Dollar) (Im Hotel [Der Dollar])", 
+  "CuratorApproved": "Y", 
   "ObjectID": "66620"
 }

@@ -4,21 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Jackson Pollock", 
   "URL": "http://www.moma.org/collection/works/78386", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Sidney and Harriet Janis Collection Fund (by exchange)", 
-  "Date": "1950", 
-  "ArtistID": 4675, 
+  "DateAcquired": "1968-01-10", 
   "Keywords": [
-    "online art collection", 
     "Jackson Pollock", 
     "One: Number 31", 
-    "1950", 
     "1950"
   ], 
+  "ArtistID": 4675, 
+  "Title": "One: Number 31, 1950", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "7.1968", 
+  "Date": "1950", 
   "ArtistBio": "(American, 1912\u20131956)", 
-  "DateAcquired": "1968-01-10", 
-  "\ufeffTitle": "One: Number 31, 1950", 
+  "CuratorApproved": "Y", 
   "ObjectID": "78386"
 }

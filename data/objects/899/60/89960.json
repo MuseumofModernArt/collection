@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Lee Lozano", 
   "URL": "http://www.moma.org/collection/works/89960", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Jo Carole and Ronald S. Lauder", 
-  "Date": "1963", 
-  "ArtistID": 3615, 
+  "DateAcquired": "2004-03-09", 
   "Keywords": [
-    "online art collection", 
     "Lee Lozano", 
     "Untitled", 
     "1963"
   ], 
+  "ArtistID": 3615, 
+  "Title": "Untitled", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "26.2004.a-b", 
+  "Date": "1963", 
   "ArtistBio": "(American, 1930\u20131999)", 
-  "DateAcquired": "2004-03-09", 
-  "\ufeffTitle": "Untitled", 
+  "CuratorApproved": "Y", 
   "ObjectID": "89960"
 }

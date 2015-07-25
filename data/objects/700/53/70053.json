@@ -4,12 +4,9 @@
   "Classification": "Print", 
   "Artist": "Sol LeWitt", 
   "URL": "http://www.moma.org/collection/works/70053", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the artist, Parasol Press and The Wadsworth Atheneum", 
-  "Date": "1971", 
-  "ArtistID": 3528, 
+  "DateAcquired": "1971-10-07", 
   "Keywords": [
-    "online art collection", 
     "Sol LeWitt", 
     "Lines", 
     "Not Straight", 
@@ -17,10 +14,12 @@
     "Four Colours", 
     "(1971)"
   ], 
+  "ArtistID": 3528, 
+  "Title": "Lines, Not Straight, Not Touching, Four Colours", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "491.1971", 
+  "Date": "1971", 
   "ArtistBio": "(American, 1928\u20132007)", 
-  "DateAcquired": "1971-10-07", 
-  "\ufeffTitle": "Lines, Not Straight, Not Touching, Four Colours", 
+  "CuratorApproved": "Y", 
   "ObjectID": "70053"
 }

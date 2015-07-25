@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Vija Celmins", 
   "URL": "http://www.moma.org/collection/works/84177", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Partial and promised gift of UBS", 
-  "Date": "1992", 
-  "ArtistID": 1048, 
+  "DateAcquired": "2002-04-08", 
   "Keywords": [
-    "online art collection", 
     "Vija Celmins", 
     "Night Sky #5", 
     "1992"
   ], 
+  "ArtistID": 1048, 
+  "Title": "Night Sky #5", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "94.2002", 
+  "Date": "1992", 
   "ArtistBio": "(American, born Latvia 1938)", 
-  "DateAcquired": "2002-04-08", 
-  "\ufeffTitle": "Night Sky #5", 
+  "CuratorApproved": "Y", 
   "ObjectID": "84177"
 }

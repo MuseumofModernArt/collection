@@ -4,22 +4,21 @@
   "Classification": "Sculpture", 
   "Artist": "Gaston Lachaise", 
   "URL": "http://www.moma.org/collection/works/81188", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Edward M. M. Warburg", 
-  "Date": "1933", 
-  "ArtistID": 3332, 
+  "DateAcquired": "1950-10-11", 
   "Keywords": [
-    "online art collection", 
     "Gaston Lachaise", 
     "Edward M", 
     "M", 
     "Warburg", 
     "1933"
   ], 
+  "ArtistID": 3332, 
+  "Title": "Edward M. M. Warburg", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "239.1950", 
+  "Date": "1933", 
   "ArtistBio": "(American, born France. 1882\u20131935)", 
-  "DateAcquired": "1950-10-11", 
-  "\ufeffTitle": "Edward M. M. Warburg", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81188"
 }

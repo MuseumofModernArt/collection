@@ -4,12 +4,9 @@
   "Classification": "Print", 
   "Artist": "H. C. Westermann", 
   "URL": "http://www.moma.org/collection/works/69501", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Carol O. Selle", 
-  "Date": "June 1968", 
-  "ArtistID": 6322, 
+  "DateAcquired": "1977-11-10", 
   "Keywords": [
-    "online art collection", 
     "H", 
     "C", 
     "Westermann", 
@@ -18,10 +15,12 @@
     "3", 
     "June 1968"
   ], 
+  "ArtistID": 6322, 
+  "Title": "Correspondence from S.M.S. No. 3", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "460.1977.3j", 
+  "Date": "June 1968", 
   "ArtistBio": "(American, 1922\u20131981)", 
-  "DateAcquired": "1977-11-10", 
-  "\ufeffTitle": "Correspondence from S.M.S. No. 3", 
+  "CuratorApproved": "Y", 
   "ObjectID": "69501"
 }

@@ -4,20 +4,19 @@
   "Classification": "Drawing", 
   "Artist": "George Grosz", 
   "URL": "http://www.moma.org/collection/works/33643", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Mr. and Mrs. Walter Bareiss and an anonymous donor (by exchange)", 
-  "Date": "1927", 
-  "ArtistID": 2374, 
+  "DateAcquired": "1981-04-28", 
   "Keywords": [
-    "online art collection", 
     "George Grosz", 
     ",a (recto): Circe ,b (verso): Untitled", 
     "1927"
   ], 
+  "ArtistID": 2374, 
+  "Title": ".a (recto): Circe .b (verso): Untitled", 
   "Department": "Drawings", 
   "MoMANumber": "73.1981.a-b", 
+  "Date": "1927", 
   "ArtistBio": "(American, born Germany. 1893\u20131959)", 
-  "DateAcquired": "1981-04-28", 
-  "\ufeffTitle": ".a (recto): Circe .b (verso): Untitled", 
+  "CuratorApproved": "Y", 
   "ObjectID": "33643"
 }

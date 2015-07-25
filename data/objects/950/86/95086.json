@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Yves Tanguy", 
   "URL": "http://www.moma.org/collection/works/95086", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Bequest of Richard S. Zeisler", 
-  "Date": "1927", 
-  "ArtistID": 5804, 
+  "DateAcquired": "2008-03-10", 
   "Keywords": [
-    "online art collection", 
     "Yves Tanguy", 
     "He Did What He Wanted", 
     "1927"
   ], 
+  "ArtistID": 5804, 
+  "Title": "He Did What He Wanted", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "206.2008", 
+  "Date": "1927", 
   "ArtistBio": "(American, born France. 1900\u20131955)", 
-  "DateAcquired": "2008-03-10", 
-  "\ufeffTitle": "He Did What He Wanted", 
+  "CuratorApproved": "Y", 
   "ObjectID": "95086"
 }

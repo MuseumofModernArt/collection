@@ -4,21 +4,20 @@
   "Classification": "Photograph", 
   "Artist": "Lee Friedlander", 
   "URL": "http://www.moma.org/collection/works/55934", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1969", 
-  "ArtistID": 2002, 
+  "DateAcquired": "2000-10-12", 
   "Keywords": [
-    "online art collection", 
     "Lee Friedlander", 
     "Tallahassee", 
     "Florida", 
     "1969"
   ], 
+  "ArtistID": 2002, 
+  "Title": "Tallahassee, Florida", 
   "Department": "Photography", 
   "MoMANumber": "668.2000", 
+  "Date": "1969", 
   "ArtistBio": "(American, born 1934)", 
-  "DateAcquired": "2000-10-12", 
-  "\ufeffTitle": "Tallahassee, Florida", 
+  "CuratorApproved": "Y", 
   "ObjectID": "55934"
 }

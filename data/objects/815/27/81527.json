@@ -4,22 +4,21 @@
   "Classification": "Sculpture", 
   "Artist": "Frank Stella", 
   "URL": "http://www.moma.org/collection/works/81527", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Acquired through the James Thrall Soby Bequest", 
-  "Date": "1984", 
-  "ArtistID": 5640, 
+  "DateAcquired": "1984-12-11", 
   "Keywords": [
-    "online art collection", 
     "Frank Stella", 
     "Giuf&agrave;", 
     "la luna", 
     "i ladri e le guardie", 
     "1984"
   ], 
+  "ArtistID": 5640, 
+  "Title": "Giuf\u00e0, la luna, i ladri e le guardie", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "509.1984", 
+  "Date": "1984", 
   "ArtistBio": "(American, born 1936)", 
-  "DateAcquired": "1984-12-11", 
-  "\ufeffTitle": "Giuf\u00e0, la luna, i ladri e le guardie", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81527"
 }

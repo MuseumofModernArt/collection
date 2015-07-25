@@ -4,12 +4,9 @@
   "Classification": "A&D Graphic Design", 
   "Artist": "Piet Zwart", 
   "URL": "http://www.moma.org/collection/works/7778", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Jan Tschichold Collection, Gift of Philip Johnson", 
-  "Date": "c. 1923", 
-  "ArtistID": 6592, 
+  "DateAcquired": "1977-11-28", 
   "Keywords": [
-    "online art collection", 
     "Piet Zwart", 
     "Hoog en laagspanningskabels", 
     "kopperkabel", 
@@ -17,10 +14,12 @@
     "c", 
     "1923"
   ], 
+  "ArtistID": 6592, 
+  "Title": "Hoog en laagspanningskabels, kopperkabel, koperdraad", 
   "Department": "Architecture & Design", 
   "MoMANumber": "623.1977", 
+  "Date": "c. 1923", 
   "ArtistBio": "(Dutch, 1885\u20131977)", 
-  "DateAcquired": "1977-11-28", 
-  "\ufeffTitle": "Hoog en laagspanningskabels, kopperkabel, koperdraad", 
+  "CuratorApproved": "Y", 
   "ObjectID": "7778"
 }

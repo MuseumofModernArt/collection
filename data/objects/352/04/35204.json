@@ -4,20 +4,19 @@
   "Classification": "Drawing", 
   "Artist": "Jean-Michel Basquiat", 
   "URL": "http://www.moma.org/collection/works/35204", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Acquired in memory of Kevin W. Robbins through funds provided by his family and friends and by the Committee on Drawings", 
-  "Date": "(1985)", 
-  "ArtistID": 370, 
+  "DateAcquired": "1993-05-05", 
   "Keywords": [
-    "online art collection", 
     "Jean-Michel Basquiat", 
     "Untitled", 
     "(1985)"
   ], 
+  "ArtistID": 370, 
+  "Title": "Untitled", 
   "Department": "Drawings", 
   "MoMANumber": "194.1993", 
+  "Date": "(1985)", 
   "ArtistBio": "(American, 1960\u20131988)", 
-  "DateAcquired": "1993-05-05", 
-  "\ufeffTitle": "Untitled", 
+  "CuratorApproved": "Y", 
   "ObjectID": "35204"
 }

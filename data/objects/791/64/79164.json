@@ -4,21 +4,20 @@
   "Classification": "Painting", 
   "Artist": "Pablo Picasso", 
   "URL": "http://www.moma.org/collection/works/79164", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Walter P. Chrysler, Jr.", 
-  "Date": "Paris, winter 1927-28", 
-  "ArtistID": 4609, 
+  "DateAcquired": "1935-11-12", 
   "Keywords": [
-    "online art collection", 
     "Pablo Picasso", 
     "The Studio", 
     "Paris", 
     "winter 1927-28"
   ], 
+  "ArtistID": 4609, 
+  "Title": "The Studio", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "213.1935", 
+  "Date": "Paris, winter 1927-28", 
   "ArtistBio": "(Spanish, 1881\u20131973)", 
-  "DateAcquired": "1935-11-12", 
-  "\ufeffTitle": "The Studio", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79164"
 }

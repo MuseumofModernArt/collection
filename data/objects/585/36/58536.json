@@ -4,21 +4,20 @@
   "Classification": "Photograph", 
   "Artist": "Associated Press", 
   "URL": "http://www.moma.org/collection/works/58536", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The New York Times Collection", 
-  "Date": "July 24, 1959", 
-  "ArtistID": 8501, 
+  "DateAcquired": "2001-06-14", 
   "Keywords": [
-    "online art collection", 
     "Associated Press", 
     "\"Exhibition Conversation\"", 
     "July 24", 
     "1959"
   ], 
+  "ArtistID": 8501, 
+  "Title": "\"Exhibition Conversation\"", 
   "Department": "Photography", 
   "MoMANumber": "1943.2001", 
+  "Date": "July 24, 1959", 
   "ArtistBio": "", 
-  "DateAcquired": "2001-06-14", 
-  "\ufeffTitle": "\"Exhibition Conversation\"", 
+  "CuratorApproved": "Y", 
   "ObjectID": "58536"
 }

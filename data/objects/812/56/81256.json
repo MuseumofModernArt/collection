@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Wilhelm Lehmbruck", 
   "URL": "http://www.moma.org/collection/works/81256", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Abby Aldrich Rockefeller Fund", 
-  "Date": "1911", 
-  "ArtistID": 3464, 
+  "DateAcquired": "1938-11-17", 
   "Keywords": [
-    "online art collection", 
     "Wilhelm Lehmbruck", 
     "Kneeling Woman", 
     "1911"
   ], 
+  "ArtistID": 3464, 
+  "Title": "Kneeling Woman", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "268.1939", 
+  "Date": "1911", 
   "ArtistBio": "(German, 1881\u20131919)", 
-  "DateAcquired": "1938-11-17", 
-  "\ufeffTitle": "Kneeling Woman", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81256"
 }

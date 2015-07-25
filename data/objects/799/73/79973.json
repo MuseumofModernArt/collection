@@ -4,21 +4,20 @@
   "Classification": "Painting", 
   "Artist": "Jules Pascin", 
   "URL": "http://www.moma.org/collection/works/79973", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of A. Conger Goodyear", 
-  "Date": "c. 1925", 
-  "ArtistID": 4514, 
+  "DateAcquired": "1941-12-10", 
   "Keywords": [
-    "online art collection", 
     "Jules Pascin", 
     "Reclining Model", 
     "c", 
     "1925"
   ], 
+  "ArtistID": 4514, 
+  "Title": "Reclining Model", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "564.1941", 
+  "Date": "c. 1925", 
   "ArtistBio": "(American, born Bulgaria. 1885\u20131930)", 
-  "DateAcquired": "1941-12-10", 
-  "\ufeffTitle": "Reclining Model", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79973"
 }

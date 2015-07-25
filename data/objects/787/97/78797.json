@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Jasper Johns", 
   "URL": "http://www.moma.org/collection/works/78797", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Agnes Gund", 
-  "Date": "1981", 
-  "ArtistID": 2923, 
+  "DateAcquired": "1981-11-17", 
   "Keywords": [
-    "online art collection", 
     "Jasper Johns", 
     "Between the Clock and the Bed", 
     "1981"
   ], 
+  "ArtistID": 2923, 
+  "Title": "Between the Clock and the Bed", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "104.1982.a-c", 
+  "Date": "1981", 
   "ArtistBio": "(American, born 1930)", 
-  "DateAcquired": "1981-11-17", 
-  "\ufeffTitle": "Between the Clock and the Bed", 
+  "CuratorApproved": "Y", 
   "ObjectID": "78797"
 }

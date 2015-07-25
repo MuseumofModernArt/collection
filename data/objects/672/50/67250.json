@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Emil Nolde", 
   "URL": "http://www.moma.org/collection/works/67250", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "(1913)", 
-  "ArtistID": 4327, 
+  "DateAcquired": "1941-01-16", 
   "Keywords": [
-    "online art collection", 
     "Emil Nolde", 
     "Discussion (Diskussion)", 
     "(1913)"
   ], 
+  "ArtistID": 4327, 
+  "Title": "Discussion (Diskussion)", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "341.1941", 
+  "Date": "(1913)", 
   "ArtistBio": "(German, 1867\u20131956)", 
-  "DateAcquired": "1941-01-16", 
-  "\ufeffTitle": "Discussion (Diskussion)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "67250"
 }

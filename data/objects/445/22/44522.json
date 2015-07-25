@@ -4,21 +4,20 @@
   "Classification": "Photograph", 
   "Artist": "Henri Cartier-Bresson", 
   "URL": "http://www.moma.org/collection/works/44522", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1932", 
-  "ArtistID": 1000, 
+  "DateAcquired": "1942-01-10", 
   "Keywords": [
-    "online art collection", 
     "Henri Cartier-Bresson", 
     "All&eacute;e du Prado", 
     "Marseille", 
     "1932"
   ], 
+  "ArtistID": 1000, 
+  "Title": "All\u00e9e du Prado, Marseille", 
   "Department": "Photography", 
   "MoMANumber": "41.1942", 
+  "Date": "1932", 
   "ArtistBio": "(French, 1908\u20132004)", 
-  "DateAcquired": "1942-01-10", 
-  "\ufeffTitle": "All\u00e9e du Prado, Marseille", 
+  "CuratorApproved": "Y", 
   "ObjectID": "44522"
 }

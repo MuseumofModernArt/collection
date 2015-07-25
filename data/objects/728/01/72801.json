@@ -4,12 +4,9 @@
   "Classification": "Print", 
   "Artist": "Oskar Kokoschka", 
   "URL": "http://www.moma.org/collection/works/72801", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Transferred from the Museum Library", 
-  "Date": "1917", 
-  "ArtistID": 3197, 
+  "DateAcquired": "", 
   "Keywords": [
-    "online art collection", 
     "Oskar Kokoschka", 
     "K&auml;the Richter (Head", 
     "Slightly Tilted Back) [K&auml;the Richter (Kopf", 
@@ -22,10 +19,12 @@
     "10 (Oct 1917)", 
     "1917"
   ], 
+  "ArtistID": 3197, 
+  "Title": "K\u00e4the Richter (Head, Slightly Tilted Back) [K\u00e4the Richter (Kopf, leicht zur\u00fcckgeneigt)] (plate, preceding p. 289) from the periodical Das Kunstblatt, vol. 1, no. 10 (Oct 1917)", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "663.1949", 
+  "Date": "1917", 
   "ArtistBio": "(Austrian, 1886\u20131980)", 
-  "DateAcquired": "", 
-  "\ufeffTitle": "K\u00e4the Richter (Head, Slightly Tilted Back) [K\u00e4the Richter (Kopf, leicht zur\u00fcckgeneigt)] (plate, preceding p. 289) from the periodical Das Kunstblatt, vol. 1, no. 10 (Oct 1917)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "72801"
 }

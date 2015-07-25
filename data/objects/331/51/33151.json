@@ -4,20 +4,19 @@
   "Classification": "Drawing", 
   "Artist": "Paul Klee", 
   "URL": "http://www.moma.org/collection/works/33151", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1923", 
-  "ArtistID": 3130, 
+  "DateAcquired": "1951-01-30", 
   "Keywords": [
-    "online art collection", 
     "Paul Klee", 
     "Girl with Doll Carriage (M&auml;dchen mit Puppenwagen)", 
     "1923"
   ], 
+  "ArtistID": 3130, 
+  "Title": "Girl with Doll Carriage (M\u00e4dchen mit Puppenwagen)", 
   "Department": "Drawings", 
   "MoMANumber": "13.1951", 
+  "Date": "1923", 
   "ArtistBio": "(German, born Switzerland. 1879\u20131940)", 
-  "DateAcquired": "1951-01-30", 
-  "\ufeffTitle": "Girl with Doll Carriage (M\u00e4dchen mit Puppenwagen)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "33151"
 }

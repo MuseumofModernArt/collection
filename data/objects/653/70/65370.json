@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Jasper Johns", 
   "URL": "http://www.moma.org/collection/works/65370", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Emily Fisher Landau", 
-  "Date": "1991", 
-  "ArtistID": 2923, 
+  "DateAcquired": "1991-10-16", 
   "Keywords": [
-    "online art collection", 
     "Jasper Johns", 
     "Green Angel", 
     "1991"
   ], 
+  "ArtistID": 2923, 
+  "Title": "Green Angel", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "256.1991", 
+  "Date": "1991", 
   "ArtistBio": "(American, born 1930)", 
-  "DateAcquired": "1991-10-16", 
-  "\ufeffTitle": "Green Angel", 
+  "CuratorApproved": "Y", 
   "ObjectID": "65370"
 }

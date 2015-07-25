@@ -4,22 +4,21 @@
   "Classification": "Photograph", 
   "Artist": "Lee Friedlander", 
   "URL": "http://www.moma.org/collection/works/57466", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1969", 
-  "ArtistID": 2002, 
+  "DateAcquired": "2000-10-12", 
   "Keywords": [
-    "online art collection", 
     "Lee Friedlander", 
     "Nathan and Joan Lyons", 
     "Rochester", 
     "New York", 
     "1969"
   ], 
+  "ArtistID": 2002, 
+  "Title": "Nathan and Joan Lyons. Rochester, New York", 
   "Department": "Photography", 
   "MoMANumber": "1003.2000", 
+  "Date": "1969", 
   "ArtistBio": "(American, born 1934)", 
-  "DateAcquired": "2000-10-12", 
-  "\ufeffTitle": "Nathan and Joan Lyons. Rochester, New York", 
+  "CuratorApproved": "Y", 
   "ObjectID": "57466"
 }

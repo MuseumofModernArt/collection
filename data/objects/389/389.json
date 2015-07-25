@@ -4,12 +4,9 @@
   "Classification": "A&D Architectural Drawing", 
   "Artist": "Louis I. Kahn", 
   "URL": "http://www.moma.org/collection/works/389", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the architect", 
-  "Date": "1957", 
-  "ArtistID": 2964, 
+  "DateAcquired": "1967-04-11", 
   "Keywords": [
-    "online art collection", 
     "Louis I", 
     "Kahn", 
     "Civic Center Studies", 
@@ -19,10 +16,12 @@
     "Aerial perspective sketch", 
     "1957"
   ], 
+  "ArtistID": 2964, 
+  "Title": "Civic Center Studies, project, Philadelphia, Pennsylvania, Aerial perspective sketch", 
   "Department": "Architecture & Design", 
   "MoMANumber": "360.1967", 
+  "Date": "1957", 
   "ArtistBio": "(American, born Estonia. 1901\u20131974)", 
-  "DateAcquired": "1967-04-11", 
-  "\ufeffTitle": "Civic Center Studies, project, Philadelphia, Pennsylvania, Aerial perspective sketch", 
+  "CuratorApproved": "Y", 
   "ObjectID": "389"
 }

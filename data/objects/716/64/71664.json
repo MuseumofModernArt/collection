@@ -4,21 +4,20 @@
   "Classification": "Print", 
   "Artist": "Max Beckmann", 
   "URL": "http://www.moma.org/collection/works/71664", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "(1913, published not before 1917)", 
-  "ArtistID": 429, 
+  "DateAcquired": "1956-12-19", 
   "Keywords": [
-    "online art collection", 
     "Max Beckmann", 
     "Moribund Old Man (Sterbender Greis)", 
     "(1913", 
     "published not before 1917)"
   ], 
+  "ArtistID": 429, 
+  "Title": "Moribund Old Man (Sterbender Greis)", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "598.1956", 
+  "Date": "(1913, published not before 1917)", 
   "ArtistBio": "(German, 1884\u20131950)", 
-  "DateAcquired": "1956-12-19", 
-  "\ufeffTitle": "Moribund Old Man (Sterbender Greis)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "71664"
 }

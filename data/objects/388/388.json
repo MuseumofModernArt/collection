@@ -4,12 +4,9 @@
   "Classification": "A&D Mies van der Rohe Archive", 
   "Artist": "Ludwig Mies van der Rohe", 
   "URL": "http://www.moma.org/collection/works/388", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Mies van der Rohe Archive, gift of Mary Callery", 
-  "Date": "1921", 
-  "ArtistID": 7166, 
+  "DateAcquired": "1966-05-10", 
   "Keywords": [
-    "online art collection", 
     "Ludwig Mies van der Rohe", 
     "Friedrichstrasse Skyscraper", 
     "project", 
@@ -18,10 +15,12 @@
     "Elevation study", 
     "1921"
   ], 
+  "ArtistID": 7166, 
+  "Title": "Friedrichstrasse Skyscraper, project , Berlin-Mitte, Germany , Elevation study", 
   "Department": "Architecture & Design", 
   "MoMANumber": "360.1966", 
+  "Date": "1921", 
   "ArtistBio": "(American, born Germany. 1886\u20131969)", 
-  "DateAcquired": "1966-05-10", 
-  "\ufeffTitle": "Friedrichstrasse Skyscraper, project , Berlin-Mitte, Germany , Elevation study", 
+  "CuratorApproved": "Y", 
   "ObjectID": "388"
 }

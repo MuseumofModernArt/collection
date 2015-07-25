@@ -4,12 +4,9 @@
   "Classification": "A&D Architectural Drawing", 
   "Artist": "Arata Isozaki", 
   "URL": "http://www.moma.org/collection/works/815", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of The Howard Gilman Foundation", 
-  "Date": "1960", 
-  "ArtistID": 2837, 
+  "DateAcquired": "2000-10-31", 
   "Keywords": [
-    "online art collection", 
     "Arata Isozaki", 
     "Joint Core System", 
     "project", 
@@ -19,10 +16,12 @@
     "Elevation", 
     "1960"
   ], 
+  "ArtistID": 2837, 
+  "Title": "Joint Core System, project, Shinjuku, Tokyo, Japan , Elevation", 
   "Department": "Architecture & Design", 
   "MoMANumber": "1204.2000", 
+  "Date": "1960", 
   "ArtistBio": "(Japanese, born 1931)", 
-  "DateAcquired": "2000-10-31", 
-  "\ufeffTitle": "Joint Core System, project, Shinjuku, Tokyo, Japan , Elevation", 
+  "CuratorApproved": "Y", 
   "ObjectID": "815"
 }

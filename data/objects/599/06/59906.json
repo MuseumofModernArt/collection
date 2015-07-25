@@ -4,21 +4,20 @@
   "Classification": "Print", 
   "Artist": "Max Beckmann", 
   "URL": "http://www.moma.org/collection/works/59906", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Mary Ellen Meehan Fund, Johanna and Leslie J. Garfield Fund, and Frances Keech Fund", 
-  "Date": "(1915, published 1918)", 
-  "ArtistID": 429, 
+  "DateAcquired": "1996-03-12", 
   "Keywords": [
-    "online art collection", 
     "Max Beckmann", 
     "The Grenade (Die Granate)", 
     "(1915", 
     "published 1918)"
   ], 
+  "ArtistID": 429, 
+  "Title": "The Grenade (Die Granate)", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "12.1996", 
+  "Date": "(1915, published 1918)", 
   "ArtistBio": "(German, 1884\u20131950)", 
-  "DateAcquired": "1996-03-12", 
-  "\ufeffTitle": "The Grenade (Die Granate)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "59906"
 }

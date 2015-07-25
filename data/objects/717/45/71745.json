@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Robert Rauschenberg", 
   "URL": "http://www.moma.org/collection/works/71745", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Celeste Bartos", 
-  "Date": "1980", 
-  "ArtistID": 4823, 
+  "DateAcquired": "1980-10-28", 
   "Keywords": [
-    "online art collection", 
     "Robert Rauschenberg", 
     "Glacial Decoy Series (Lithograph III)", 
     "1980"
   ], 
+  "ArtistID": 4823, 
+  "Title": "Glacial Decoy Series (Lithograph III)", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "605.1980", 
+  "Date": "1980", 
   "ArtistBio": "(American, 1925\u20132008)", 
-  "DateAcquired": "1980-10-28", 
-  "\ufeffTitle": "Glacial Decoy Series (Lithograph III)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "71745"
 }

@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Roberto Matta", 
   "URL": "http://www.moma.org/collection/works/80428", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Anonymous fund", 
-  "Date": "1944", 
-  "ArtistID": 3842, 
+  "DateAcquired": "1979-10-09", 
   "Keywords": [
-    "online art collection", 
     "Roberto Matta", 
     "The Onyx of Electra", 
     "1944"
   ], 
+  "ArtistID": 3842, 
+  "Title": "The Onyx of Electra", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "963.1979", 
+  "Date": "1944", 
   "ArtistBio": "(Chilean, 1911\u20132002)", 
-  "DateAcquired": "1979-10-09", 
-  "\ufeffTitle": "The Onyx of Electra", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80428"
 }

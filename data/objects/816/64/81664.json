@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Tomio Miki", 
   "URL": "http://www.moma.org/collection/works/81664", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Philip Johnson Fund", 
-  "Date": "1964", 
-  "ArtistID": 3973, 
+  "DateAcquired": "1965-06-08", 
   "Keywords": [
-    "online art collection", 
     "Tomio Miki", 
     "Untitled (Ears)", 
     "1964"
   ], 
+  "ArtistID": 3973, 
+  "Title": "Untitled (Ears)", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "607.1965", 
+  "Date": "1964", 
   "ArtistBio": "(Japanese, 1937\u20131978)", 
-  "DateAcquired": "1965-06-08", 
-  "\ufeffTitle": "Untitled (Ears)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81664"
 }

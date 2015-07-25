@@ -4,12 +4,9 @@
   "Classification": "Illustrated Book", 
   "Artist": "Various Artists, Yves Tanguy, Pablo Picasso, Joan Mir\u00f3, Andr\u00e9 Masson, Dalla Husband, Stanley William Hayter, John Buckland-Wright", 
   "URL": "http://www.moma.org/collection/works/31653", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The Louis E. Stern Collection", 
-  "Date": "1938", 
-  "ArtistID": 6104, 
+  "DateAcquired": "1964-10-06", 
   "Keywords": [
-    "online art collection", 
     "Various Artists with Yves Tanguy", 
     "Pablo Picasso", 
     "Joan Mir&oacute;", 
@@ -19,10 +16,12 @@
     "Solidarit&eacute;", 
     "1938"
   ], 
+  "ArtistID": 6104, 
+  "Title": "Solidarit\u00e9", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "1099.1964.1-7", 
+  "Date": "1938", 
   "ArtistBio": "(Various) (American, born France. 1900\u20131955) (Spanish, 1881\u20131973) (Spanish, 1893\u20131983) (French, 1896\u20131987) (Canadian, 1899\u20131945) (British, 1901\u20131988) (British, 1897\u20131954)", 
-  "DateAcquired": "1964-10-06", 
-  "\ufeffTitle": "Solidarit\u00e9", 
+  "CuratorApproved": "Y", 
   "ObjectID": "31653"
 }

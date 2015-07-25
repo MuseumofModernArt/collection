@@ -4,20 +4,19 @@
   "Classification": "Photograph", 
   "Artist": "The New York Times Studio", 
   "URL": "http://www.moma.org/collection/works/58657", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The New York Times Collection", 
-  "Date": "1930", 
-  "ArtistID": 8591, 
+  "DateAcquired": "2001-06-14", 
   "Keywords": [
-    "online art collection", 
     "The New York Times Studio", 
     "\"An Authority on Matters of Aviation Speaks to the World: Colonel Lindbergh\"", 
     "1930"
   ], 
+  "ArtistID": 8591, 
+  "Title": "\"An Authority on Matters of Aviation Speaks to the World: Colonel Lindbergh\"", 
   "Department": "Photography", 
   "MoMANumber": "2064.2001", 
+  "Date": "1930", 
   "ArtistBio": "", 
-  "DateAcquired": "2001-06-14", 
-  "\ufeffTitle": "\"An Authority on Matters of Aviation Speaks to the World: Colonel Lindbergh\"", 
+  "CuratorApproved": "Y", 
   "ObjectID": "58657"
 }

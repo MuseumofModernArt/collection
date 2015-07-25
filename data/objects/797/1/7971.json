@@ -4,20 +4,19 @@
   "Classification": "A&D Graphic Design", 
   "Artist": "John Massey", 
   "URL": "http://www.moma.org/collection/works/7971", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the artist", 
-  "Date": "1965-66", 
-  "ArtistID": 3819, 
+  "DateAcquired": "1966-12-06", 
   "Keywords": [
-    "online art collection", 
     "John Massey", 
     "Adler Planetarium", 
     "1965-66"
   ], 
+  "ArtistID": 3819, 
+  "Title": "Adler Planetarium", 
   "Department": "Architecture & Design", 
   "MoMANumber": "704.1966", 
+  "Date": "1965-66", 
   "ArtistBio": "(American, born 1931)", 
-  "DateAcquired": "1966-12-06", 
-  "\ufeffTitle": "Adler Planetarium", 
+  "CuratorApproved": "Y", 
   "ObjectID": "7971"
 }

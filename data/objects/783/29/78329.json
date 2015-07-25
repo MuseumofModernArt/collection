@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Glenn Ligon", 
   "URL": "http://www.moma.org/collection/works/78329", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Committee on Painting and Sculpture Funds", 
-  "Date": "1994", 
-  "ArtistID": 6902, 
+  "DateAcquired": "1996-03-11", 
   "Keywords": [
-    "online art collection", 
     "Glenn Ligon", 
     "White #19", 
     "1994"
   ], 
+  "ArtistID": 6902, 
+  "Title": "White #19", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "2.1996", 
+  "Date": "1994", 
   "ArtistBio": "(American, born 1960)", 
-  "DateAcquired": "1996-03-11", 
-  "\ufeffTitle": "White #19", 
+  "CuratorApproved": "Y", 
   "ObjectID": "78329"
 }

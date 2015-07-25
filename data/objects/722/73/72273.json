@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "John Paul Jones", 
   "URL": "http://www.moma.org/collection/works/72273", 
-  "CuratorApproved": "Y", 
   "CreditLine": "John B. Turner Fund", 
-  "Date": "(1971)", 
-  "ArtistID": 2935, 
+  "DateAcquired": "1971-12-06", 
   "Keywords": [
-    "online art collection", 
     "John Paul Jones", 
     "Blue Man", 
     "(1971)"
   ], 
+  "ArtistID": 2935, 
+  "Title": "Blue Man", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "636.1971", 
+  "Date": "(1971)", 
   "ArtistBio": "(American, 1924\u20131999)", 
-  "DateAcquired": "1971-12-06", 
-  "\ufeffTitle": "Blue Man", 
+  "CuratorApproved": "Y", 
   "ObjectID": "72273"
 }

@@ -4,12 +4,9 @@
   "Classification": "A&D Graphic Design", 
   "Artist": "Gary Essert", 
   "URL": "http://www.moma.org/collection/works/5555", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the artist", 
-  "Date": "1967", 
-  "ArtistID": 7071, 
+  "DateAcquired": "1993-05-04", 
   "Keywords": [
-    "online art collection", 
     "Gary Essert", 
     "Jefferson Airplane", 
     "Grateful Dead", 
@@ -17,10 +14,12 @@
     "April 14-16", 
     "1967"
   ], 
+  "ArtistID": 7071, 
+  "Title": "Jefferson Airplane, Grateful Dead, Canned Heat, April 14-16", 
   "Department": "Architecture & Design", 
   "MoMANumber": "180.1993", 
+  "Date": "1967", 
   "ArtistBio": "(American, 1938\u20131992)", 
-  "DateAcquired": "1993-05-04", 
-  "\ufeffTitle": "Jefferson Airplane, Grateful Dead, Canned Heat, April 14-16", 
+  "CuratorApproved": "Y", 
   "ObjectID": "5555"
 }

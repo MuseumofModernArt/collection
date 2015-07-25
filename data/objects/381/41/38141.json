@@ -4,21 +4,20 @@
   "Classification": "Drawing", 
   "Artist": "Kazimir Malevich", 
   "URL": "http://www.moma.org/collection/works/38141", 
-  "CuratorApproved": "Y", 
   "CreditLine": "1935 Acquisition confirmed in 1999 by agreement with the Estate of Kazimir Malevich and made possible with funds from the Mrs. John Hay Whitney Bequest (by exchange)", 
-  "Date": "1924-1927", 
-  "ArtistID": 3710, 
+  "DateAcquired": "1935-11-12", 
   "Keywords": [
-    "online art collection", 
     "Kazimir Malevich", 
     "Analytical Chart", 
     "(c", 
     "1925)"
   ], 
+  "ArtistID": 3710, 
+  "Title": "Analytical Chart", 
   "Department": "Drawings", 
   "MoMANumber": "823.1935", 
+  "Date": "1924-1927", 
   "ArtistBio": "(Russian, born Ukraine. 1878\u20131935)", 
-  "DateAcquired": "1935-11-12", 
-  "\ufeffTitle": "Analytical Chart", 
+  "CuratorApproved": "Y", 
   "ObjectID": "38141"
 }

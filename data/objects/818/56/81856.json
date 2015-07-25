@@ -4,21 +4,20 @@
   "Classification": "Sculpture", 
   "Artist": "Mathias Goeritz", 
   "URL": "http://www.moma.org/collection/works/81856", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Philip Johnson", 
-  "Date": "1959", 
-  "ArtistID": 2203, 
+  "DateAcquired": "1969-10-07", 
   "Keywords": [
-    "online art collection", 
     "Mathias Goeritz", 
     "Message Number 7B", 
     "Ecclesiastes VII: 6", 
     "1959"
   ], 
+  "ArtistID": 2203, 
+  "Title": "Message Number 7B, Ecclesiastes VII: 6", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "779.1969", 
+  "Date": "1959", 
   "ArtistBio": "(German, 1915\u20131990)", 
-  "DateAcquired": "1969-10-07", 
-  "\ufeffTitle": "Message Number 7B, Ecclesiastes VII: 6", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81856"
 }

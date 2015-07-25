@@ -4,12 +4,9 @@
   "Classification": "Photograph", 
   "Artist": "Jerome Liebling", 
   "URL": "http://www.moma.org/collection/works/54585", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The Family of Man Fund", 
-  "Date": "June, 1978", 
-  "ArtistID": 3549, 
+  "DateAcquired": "1980-10-23", 
   "Keywords": [
-    "online art collection", 
     "Jerome Liebling", 
     "Atkins Orchard", 
     "Amherst", 
@@ -17,10 +14,12 @@
     "June", 
     "1978"
   ], 
+  "ArtistID": 3549, 
+  "Title": "Atkins Orchard, Amherst, Massachusetts", 
   "Department": "Photography", 
   "MoMANumber": "513.1980", 
+  "Date": "June, 1978", 
   "ArtistBio": "(American, 1924\u20132011)", 
-  "DateAcquired": "1980-10-23", 
-  "\ufeffTitle": "Atkins Orchard, Amherst, Massachusetts", 
+  "CuratorApproved": "Y", 
   "ObjectID": "54585"
 }

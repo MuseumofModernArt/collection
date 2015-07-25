@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Ellsworth Kelly", 
   "URL": "http://www.moma.org/collection/works/78403", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1959", 
-  "ArtistID": 3048, 
+  "DateAcquired": "1960-02-10", 
   "Keywords": [
-    "online art collection", 
     "Ellsworth Kelly", 
     "Running White", 
     "1959"
   ], 
+  "ArtistID": 3048, 
+  "Title": "Running White", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "9.1960", 
+  "Date": "1959", 
   "ArtistBio": "(American, born 1923)", 
-  "DateAcquired": "1960-02-10", 
-  "\ufeffTitle": "Running White", 
+  "CuratorApproved": "Y", 
   "ObjectID": "78403"
 }

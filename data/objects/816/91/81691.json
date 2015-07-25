@@ -4,19 +4,18 @@
   "Classification": "Sculpture", 
   "Artist": "Charles Despiau", 
   "URL": "http://www.moma.org/collection/works/81691", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Abby Aldrich Rockefeller", 
-  "Date": "c. 1929", 
-  "ArtistID": 1511, 
+  "DateAcquired": "1939-12-08", 
   "Keywords": [
-    "online art collection", 
     "Charles Despiau", 
     "Portrait Bust"
   ], 
+  "ArtistID": 1511, 
+  "Title": "Portrait Bust", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "620.1939", 
+  "Date": "c. 1929", 
   "ArtistBio": "(French, 1874\u20131946)", 
-  "DateAcquired": "1939-12-08", 
-  "\ufeffTitle": "Portrait Bust", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81691"
 }

@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Jean Dubuffet", 
   "URL": "http://www.moma.org/collection/works/80130", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Nina and Gordon Bunshaft Bequest", 
-  "Date": "July 1946", 
-  "ArtistID": 1633, 
+  "DateAcquired": "1994-12-08", 
   "Keywords": [
-    "online art collection", 
     "Jean Dubuffet", 
     "Building Facades", 
     "July 1946"
   ], 
+  "ArtistID": 1633, 
+  "Title": "Building Facades", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "628.1994", 
+  "Date": "July 1946", 
   "ArtistBio": "(French, 1901\u20131985)", 
-  "DateAcquired": "1994-12-08", 
-  "\ufeffTitle": "Building Facades", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80130"
 }

@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Merle Spandorfer", 
   "URL": "http://www.moma.org/collection/works/74792", 
-  "CuratorApproved": "Y", 
   "CreditLine": "John B. Turner Fund", 
-  "Date": "1969", 
-  "ArtistID": 5554, 
+  "DateAcquired": "1969-10-28", 
   "Keywords": [
-    "online art collection", 
     "Merle Spandorfer", 
     "Algol Translator", 
     "1969"
   ], 
+  "ArtistID": 5554, 
+  "Title": "Algol Translator", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "919.1969", 
+  "Date": "1969", 
   "ArtistBio": "(American, born 1934)", 
-  "DateAcquired": "1969-10-28", 
-  "\ufeffTitle": "Algol Translator", 
+  "CuratorApproved": "Y", 
   "ObjectID": "74792"
 }

@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Jon Kessler", 
   "URL": "http://www.moma.org/collection/works/81549", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Fractional and promised gift of Agnes Gund", 
-  "Date": "1987", 
-  "ArtistID": 3074, 
+  "DateAcquired": "1987-12-07", 
   "Keywords": [
-    "online art collection", 
     "Jon Kessler", 
     "The Suit of Light", 
     "1987"
   ], 
+  "ArtistID": 3074, 
+  "Title": "The Suit of Light", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "524.1987", 
+  "Date": "1987", 
   "ArtistBio": "(American, born 1957)", 
-  "DateAcquired": "1987-12-07", 
-  "\ufeffTitle": "The Suit of Light", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81549"
 }

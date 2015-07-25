@@ -4,21 +4,20 @@
   "Classification": "Photograph", 
   "Artist": "NASA", 
   "URL": "http://www.moma.org/collection/works/58643", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The New York Times Collection", 
-  "Date": "July 20, 1969", 
-  "ArtistID": 8583, 
+  "DateAcquired": "2001-06-14", 
   "Keywords": [
-    "online art collection", 
     "NASA", 
     "\"View of Astronaut Footprint in Lunar Soil\"", 
     "July 20", 
     "1969"
   ], 
+  "ArtistID": 8583, 
+  "Title": "\"View of Astronaut Footprint in Lunar Soil\"", 
   "Department": "Photography", 
   "MoMANumber": "2050.2001", 
+  "Date": "July 20, 1969", 
   "ArtistBio": "(American)", 
-  "DateAcquired": "2001-06-14", 
-  "\ufeffTitle": "\"View of Astronaut Footprint in Lunar Soil\"", 
+  "CuratorApproved": "Y", 
   "ObjectID": "58643"
 }

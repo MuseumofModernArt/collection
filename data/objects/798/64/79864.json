@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Jasper Johns", 
   "URL": "http://www.moma.org/collection/works/79864", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Philip Johnson", 
-  "Date": "1985", 
-  "ArtistID": 2923, 
+  "DateAcquired": "1998-06-11", 
   "Keywords": [
-    "online art collection", 
     "Jasper Johns", 
     "Summer", 
     "1985"
   ], 
+  "ArtistID": 2923, 
+  "Title": "Summer", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "506.1998", 
+  "Date": "1985", 
   "ArtistBio": "(American, born 1930)", 
-  "DateAcquired": "1998-06-11", 
-  "\ufeffTitle": "Summer", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79864"
 }

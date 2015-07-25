@@ -4,20 +4,19 @@
   "Classification": "Drawing", 
   "Artist": "Georges Braque", 
   "URL": "http://www.moma.org/collection/works/33278", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The Joan and Lester Avnet Collection", 
-  "Date": "(1914)", 
-  "ArtistID": 744, 
+  "DateAcquired": "1978-04-04", 
   "Keywords": [
-    "online art collection", 
     "Georges Braque", 
     "Still Life with Glass and Letters", 
     "(1914)"
   ], 
+  "ArtistID": 744, 
+  "Title": "Still Life with Glass and Letters", 
   "Department": "Drawings", 
   "MoMANumber": "20.1978", 
+  "Date": "(1914)", 
   "ArtistBio": "(French, 1882\u20131963)", 
-  "DateAcquired": "1978-04-04", 
-  "\ufeffTitle": "Still Life with Glass and Letters", 
+  "CuratorApproved": "Y", 
   "ObjectID": "33278"
 }

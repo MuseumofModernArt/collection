@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Edward Ruscha", 
   "URL": "http://www.moma.org/collection/works/79298", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Agnes Gund, the Louis and Bessie Adler Foundation, Inc., Robert and Meryl Meltzer, Jerry I. Speyer, Anna Marie and Robert F. Shapiro, Emily and Jerry Spiegel, an anonymous donor, and purchase", 
-  "Date": "1962 (reworked 1963)", 
-  "ArtistID": 5086, 
+  "DateAcquired": "1988-10-11", 
   "Keywords": [
-    "online art collection", 
     "Edward Ruscha", 
     "OOF", 
     "1962 (reworked 1963)"
   ], 
+  "ArtistID": 5086, 
+  "Title": "OOF", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "256.1988", 
+  "Date": "1962 (reworked 1963)", 
   "ArtistBio": "(American, born 1937)", 
-  "DateAcquired": "1988-10-11", 
-  "\ufeffTitle": "OOF", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79298"
 }

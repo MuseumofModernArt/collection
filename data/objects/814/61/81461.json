@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Claes Oldenburg", 
   "URL": "http://www.moma.org/collection/works/81461", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Philip Johnson", 
-  "Date": "1962", 
-  "ArtistID": 4397, 
+  "DateAcquired": "1981-11-17", 
   "Keywords": [
-    "online art collection", 
     "Claes Oldenburg", 
     "Floor Cone", 
     "1962"
   ], 
+  "ArtistID": 4397, 
+  "Title": "Floor Cone", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "425.1981", 
+  "Date": "1962", 
   "ArtistBio": "(American, born Sweden 1929)", 
-  "DateAcquired": "1981-11-17", 
-  "\ufeffTitle": "Floor Cone", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81461"
 }

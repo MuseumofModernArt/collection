@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Jack Tworkov", 
   "URL": "http://www.moma.org/collection/works/79358", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1963", 
-  "ArtistID": 5989, 
+  "DateAcquired": "1963-05-07", 
   "Keywords": [
-    "online art collection", 
     "Jack Tworkov", 
     "West 23rd", 
     "1963"
   ], 
+  "ArtistID": 5989, 
+  "Title": "West 23rd", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "274.1963", 
+  "Date": "1963", 
   "ArtistBio": "(American, born Poland. 1900\u20131982)", 
-  "DateAcquired": "1963-05-07", 
-  "\ufeffTitle": "West 23rd", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79358"
 }

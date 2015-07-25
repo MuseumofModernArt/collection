@@ -4,21 +4,20 @@
   "Classification": "Photograph", 
   "Artist": "Erich Hartmann", 
   "URL": "http://www.moma.org/collection/works/53939", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1957", 
-  "ArtistID": 2524, 
+  "DateAcquired": "1960-11-30", 
   "Keywords": [
-    "online art collection", 
     "Erich Hartmann", 
     "Willi the Clown", 
     "Tel Aviv", 
     "1957"
   ], 
+  "ArtistID": 2524, 
+  "Title": "Willi the Clown, Tel Aviv", 
   "Department": "Photography", 
   "MoMANumber": "470.1960", 
+  "Date": "1957", 
   "ArtistBio": "(American, 1922\u20131999)", 
-  "DateAcquired": "1960-11-30", 
-  "\ufeffTitle": "Willi the Clown, Tel Aviv", 
+  "CuratorApproved": "Y", 
   "ObjectID": "53939"
 }

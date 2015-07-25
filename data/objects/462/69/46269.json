@@ -4,12 +4,9 @@
   "Classification": "Photograph", 
   "Artist": "Clarence H. White", 
   "URL": "http://www.moma.org/collection/works/46269", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Mr. and Mrs. Clarence H. White, Jr.", 
-  "Date": "1922", 
-  "ArtistID": 6338, 
+  "DateAcquired": "1975-02-12", 
   "Keywords": [
-    "online art collection", 
     "Clarence H", 
     "White", 
     "The Dancers", 
@@ -17,10 +14,12 @@
     "New York", 
     "1922"
   ], 
+  "ArtistID": 6338, 
+  "Title": "The Dancers. The Greek Games and Barnard College, New York", 
   "Department": "Photography", 
   "MoMANumber": "102.1975", 
+  "Date": "1922", 
   "ArtistBio": "(American, 1871\u20131925)", 
-  "DateAcquired": "1975-02-12", 
-  "\ufeffTitle": "The Dancers. The Greek Games and Barnard College, New York", 
+  "CuratorApproved": "Y", 
   "ObjectID": "46269"
 }

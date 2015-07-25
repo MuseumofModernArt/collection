@@ -4,20 +4,19 @@
   "Classification": "Photograph", 
   "Artist": "Andreas Gursky", 
   "URL": "http://www.moma.org/collection/works/48381", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Acquired through the generosity of Jo Carole and Ronald S. Lauder", 
-  "Date": "1999", 
-  "ArtistID": 7806, 
+  "DateAcquired": "2000-03-23", 
   "Keywords": [
-    "online art collection", 
     "Andreas Gursky", 
     "Toys \"R\" Us", 
     "1999"
   ], 
+  "ArtistID": 7806, 
+  "Title": "Toys \"R\" Us", 
   "Department": "Photography", 
   "MoMANumber": "202.2000", 
+  "Date": "1999", 
   "ArtistBio": "(German, born 1955)", 
-  "DateAcquired": "2000-03-23", 
-  "\ufeffTitle": "Toys \"R\" Us", 
+  "CuratorApproved": "Y", 
   "ObjectID": "48381"
 }

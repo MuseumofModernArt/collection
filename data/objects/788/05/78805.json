@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Jasper Johns", 
   "URL": "http://www.moma.org/collection/works/78805", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Philip Johnson in honor of Alfred H. Barr, Jr.", 
-  "Date": "1954-55  (dated on reverse 1954)", 
-  "ArtistID": 2923, 
+  "DateAcquired": "1973-02-13", 
   "Keywords": [
-    "online art collection", 
     "Jasper Johns", 
     "Flag", 
     "1954-55  (dated on reverse 1954)"
   ], 
+  "ArtistID": 2923, 
+  "Title": "Flag", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "106.1973", 
+  "Date": "1954-55  (dated on reverse 1954)", 
   "ArtistBio": "(American, born 1930)", 
-  "DateAcquired": "1973-02-13", 
-  "\ufeffTitle": "Flag", 
+  "CuratorApproved": "Y", 
   "ObjectID": "78805"
 }

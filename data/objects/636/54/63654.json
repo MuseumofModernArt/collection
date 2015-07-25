@@ -4,21 +4,20 @@
   "Classification": "Print", 
   "Artist": "Albert Marquet", 
   "URL": "http://www.moma.org/collection/works/63654", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Abby Aldrich Rockefeller Fund", 
-  "Date": "(1924)", 
-  "ArtistID": 3782, 
+  "DateAcquired": "1949-03-24", 
   "Keywords": [
-    "online art collection", 
     "Albert Marquet", 
     "The Port of Naples", 
     "plate VI from L'Album de lithographies originals", 
     "(1924)"
   ], 
+  "ArtistID": 3782, 
+  "Title": "The Port of Naples, plate VI from L'Album de lithographies originals", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "175.1949.7", 
+  "Date": "(1924)", 
   "ArtistBio": "(French, 1875\u20131947)", 
-  "DateAcquired": "1949-03-24", 
-  "\ufeffTitle": "The Port of Naples, plate VI from L'Album de lithographies originals", 
+  "CuratorApproved": "Y", 
   "ObjectID": "63654"
 }

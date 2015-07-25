@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Alberto Giacometti", 
   "URL": "http://www.moma.org/collection/works/81710", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Nina and Gordon Bunshaft Bequest", 
-  "Date": "1949", 
-  "ArtistID": 2141, 
+  "DateAcquired": "1994-12-08", 
   "Keywords": [
-    "online art collection", 
     "Alberto Giacometti", 
     "Walking Quickly Under the Rain", 
     "1949"
   ], 
+  "ArtistID": 2141, 
+  "Title": "Walking Quickly Under the Rain", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "632.1994", 
+  "Date": "1949", 
   "ArtistBio": "(Swiss, 1901\u20131966)", 
-  "DateAcquired": "1994-12-08", 
-  "\ufeffTitle": "Walking Quickly Under the Rain", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81710"
 }

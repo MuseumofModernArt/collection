@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "David Smith", 
   "URL": "http://www.moma.org/collection/works/67245", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Mr. and Mrs. Constantine Sidamon-Eristoff Fund", 
-  "Date": "1941", 
-  "ArtistID": 5480, 
+  "DateAcquired": "1986-10-15", 
   "Keywords": [
-    "online art collection", 
     "David Smith", 
     "Horse and Rider", 
     "1941"
   ], 
+  "ArtistID": 5480, 
+  "Title": "Horse and Rider", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "340.1986", 
+  "Date": "1941", 
   "ArtistBio": "(American, 1906\u20131965)", 
-  "DateAcquired": "1986-10-15", 
-  "\ufeffTitle": "Horse and Rider", 
+  "CuratorApproved": "Y", 
   "ObjectID": "67245"
 }

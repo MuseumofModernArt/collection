@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Charles Ray", 
   "URL": "http://www.moma.org/collection/works/81284", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the Peter Norton Family Foundation", 
-  "Date": "1993", 
-  "ArtistID": 7049, 
+  "DateAcquired": "1993-10-13", 
   "Keywords": [
-    "online art collection", 
     "Charles Ray", 
     "Family Romance", 
     "1993"
   ], 
+  "ArtistID": 7049, 
+  "Title": "Family Romance", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "281.1993", 
+  "Date": "1993", 
   "ArtistBio": "(American, born 1953)", 
-  "DateAcquired": "1993-10-13", 
-  "\ufeffTitle": "Family Romance", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81284"
 }

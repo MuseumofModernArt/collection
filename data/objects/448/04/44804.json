@@ -4,20 +4,19 @@
   "Classification": "Photograph", 
   "Artist": "Helen Levitt", 
   "URL": "http://www.moma.org/collection/works/44804", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1941", 
-  "ArtistID": 3520, 
+  "DateAcquired": "1942-01-27", 
   "Keywords": [
-    "online art collection", 
     "Helen Levitt", 
     "Mexico", 
     "1941"
   ], 
+  "ArtistID": 3520, 
+  "Title": "Mexico", 
   "Department": "Photography", 
   "MoMANumber": "49.1942", 
+  "Date": "1941", 
   "ArtistBio": "(American, 1913\u20132009)", 
-  "DateAcquired": "1942-01-27", 
-  "\ufeffTitle": "Mexico", 
+  "CuratorApproved": "Y", 
   "ObjectID": "44804"
 }

@@ -4,21 +4,20 @@
   "Classification": "Print", 
   "Artist": "Christian Rohlfs", 
   "URL": "http://www.moma.org/collection/works/60358", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Matthew T. Mellon Foundation Fund", 
-  "Date": "(c. 1910)", 
-  "ArtistID": 5000, 
+  "DateAcquired": "1962-01-09", 
   "Keywords": [
-    "online art collection", 
     "Christian Rohlfs", 
     "Sorceress (Hexe)", 
     "(c", 
     "1910)"
   ], 
+  "ArtistID": 5000, 
+  "Title": "Sorceress (Hexe)", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "26.1962", 
+  "Date": "(c. 1910)", 
   "ArtistBio": "(German, 1849\u20131938)", 
-  "DateAcquired": "1962-01-09", 
-  "\ufeffTitle": "Sorceress (Hexe)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "60358"
 }

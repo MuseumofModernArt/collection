@@ -4,12 +4,9 @@
   "Classification": "Print", 
   "Artist": "Paul Klee", 
   "URL": "http://www.moma.org/collection/works/62547", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1925", 
-  "ArtistID": 3130, 
+  "DateAcquired": "1942-05-07", 
   "Keywords": [
-    "online art collection", 
     "Paul Klee", 
     "Ass (Esel) for the deluxe edition of the periodical Monatshefte f&uuml;r B&uuml;cherfreunde und Graphiksammler vol", 
     "1", 
@@ -17,10 +14,12 @@
     "5 (1925)", 
     "1925"
   ], 
+  "ArtistID": 3130, 
+  "Title": "Ass (Esel) for the deluxe edition of the periodical Monatshefte f\u00fcr B\u00fccherfreunde und Graphiksammler vol. 1, no. 5 (1925)", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "135.1942", 
+  "Date": "1925", 
   "ArtistBio": "(German, born Switzerland. 1879\u20131940)", 
-  "DateAcquired": "1942-05-07", 
-  "\ufeffTitle": "Ass (Esel) for the deluxe edition of the periodical Monatshefte f\u00fcr B\u00fccherfreunde und Graphiksammler vol. 1, no. 5 (1925)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "62547"
 }

@@ -4,19 +4,18 @@
   "Classification": "A&D Graphic Design", 
   "Artist": "Jaume SOL\u00c1 Terrades", 
   "URL": "http://www.moma.org/collection/works/5708", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Christian Zervos", 
-  "Date": "1936", 
-  "ArtistID": 5510, 
+  "DateAcquired": "1936-01-01", 
   "Keywords": [
-    "online art collection", 
     "Jaume SOL&Aacute; Terrades", 
     "Mes Homes! Mes Armes! Mes Municions! 1936"
   ], 
+  "ArtistID": 5510, 
+  "Title": "Mes Homes! Mes Armes! Mes Municions!", 
   "Department": "Architecture & Design", 
   "MoMANumber": "214.1936", 
+  "Date": "1936", 
   "ArtistBio": "(Spanish)", 
-  "DateAcquired": "1936-01-01", 
-  "\ufeffTitle": "Mes Homes! Mes Armes! Mes Municions!", 
+  "CuratorApproved": "Y", 
   "ObjectID": "5708"
 }

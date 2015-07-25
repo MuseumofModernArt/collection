@@ -4,21 +4,20 @@
   "Classification": "Painting", 
   "Artist": "Paul C\u00e9zanne", 
   "URL": "http://www.moma.org/collection/works/78296", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Lillie P. Bliss Collection", 
-  "Date": "c. 1885", 
-  "ArtistID": 1053, 
+  "DateAcquired": "1934-09-23", 
   "Keywords": [
-    "online art collection", 
     "Paul C&eacute;zanne", 
     "The Bather", 
     "c", 
     "1885"
   ], 
+  "ArtistID": 1053, 
+  "Title": "The Bather", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "1.1934", 
+  "Date": "c. 1885", 
   "ArtistBio": "(French, 1839\u20131906)", 
-  "DateAcquired": "1934-09-23", 
-  "\ufeffTitle": "The Bather", 
+  "CuratorApproved": "Y", 
   "ObjectID": "78296"
 }

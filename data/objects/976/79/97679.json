@@ -4,20 +4,19 @@
   "Classification": "Drawing", 
   "Artist": "Andy Warhol", 
   "URL": "http://www.moma.org/collection/works/97679", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The Judith Rothschild Foundation Contemporary Drawings Collection Gift", 
-  "Date": "1982", 
-  "ArtistID": 6246, 
+  "DateAcquired": "2005-05-10", 
   "Keywords": [
-    "online art collection", 
     "Andy Warhol", 
     "Querelle", 
     "1982"
   ], 
+  "ArtistID": 6246, 
+  "Title": "Querelle", 
   "Department": "Drawings", 
   "MoMANumber": "3360.2005", 
+  "Date": "1982", 
   "ArtistBio": "(American, 1928\u20131987)", 
-  "DateAcquired": "2005-05-10", 
-  "\ufeffTitle": "Querelle", 
+  "CuratorApproved": "Y", 
   "ObjectID": "97679"
 }

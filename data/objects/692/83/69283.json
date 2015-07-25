@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Auguste Rodin", 
   "URL": "http://www.moma.org/collection/works/69283", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Samuel A. Berger", 
-  "Date": "1855", 
-  "ArtistID": 4978, 
+  "DateAcquired": "1954-09-30", 
   "Keywords": [
-    "online art collection", 
     "Auguste Rodin", 
     "Creation", 
     "1855"
   ], 
+  "ArtistID": 4978, 
+  "Title": "Creation", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "447.1954", 
+  "Date": "1855", 
   "ArtistBio": "(French, 1840\u20131917)", 
-  "DateAcquired": "1954-09-30", 
-  "\ufeffTitle": "Creation", 
+  "CuratorApproved": "Y", 
   "ObjectID": "69283"
 }

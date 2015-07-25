@@ -4,12 +4,9 @@
   "Classification": "A&D Architectural Drawing", 
   "Artist": "Steven Holl", 
   "URL": "http://www.moma.org/collection/works/456", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the architect in honor of Lily Auchincloss", 
-  "Date": "1989", 
-  "ArtistID": 2702, 
+  "DateAcquired": "1994-09-21", 
   "Keywords": [
-    "online art collection", 
     "Steven Holl", 
     "Void Space/Hinge Space Housing", 
     "Fukuoka", 
@@ -17,10 +14,12 @@
     "Exterior perspective", 
     "1989"
   ], 
+  "ArtistID": 2702, 
+  "Title": "Void Space/Hinge Space Housing, Fukuoka, Japan, Exterior perspective", 
   "Department": "Architecture & Design", 
   "MoMANumber": "381.1994", 
+  "Date": "1989", 
   "ArtistBio": "(American, born 1947)", 
-  "DateAcquired": "1994-09-21", 
-  "\ufeffTitle": "Void Space/Hinge Space Housing, Fukuoka, Japan, Exterior perspective", 
+  "CuratorApproved": "Y", 
   "ObjectID": "456"
 }

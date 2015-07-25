@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Bruce Nauman", 
   "URL": "http://www.moma.org/collection/works/81175", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Emily and Jerry Spiegel", 
-  "Date": "1983", 
-  "ArtistID": 4243, 
+  "DateAcquired": "1991-10-07", 
   "Keywords": [
-    "online art collection", 
     "Bruce Nauman", 
     "Human/Need/Desire", 
     "1983"
   ], 
+  "ArtistID": 4243, 
+  "Title": "Human/Need/Desire", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "228.1991.a-g", 
+  "Date": "1983", 
   "ArtistBio": "(American, born 1941)", 
-  "DateAcquired": "1991-10-07", 
-  "\ufeffTitle": "Human/Need/Desire", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81175"
 }

@@ -4,21 +4,20 @@
   "Classification": "Print", 
   "Artist": "Christian Rohlfs", 
   "URL": "http://www.moma.org/collection/works/62057", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Mr. and Mrs. Carroll Cartwright", 
-  "Date": "(c. 1912/13)", 
-  "ArtistID": 5000, 
+  "DateAcquired": "1955-04-06", 
   "Keywords": [
-    "online art collection", 
     "Christian Rohlfs", 
     "Cat and Mouse (Katze und Maus)", 
     "(c", 
     "1912/13)"
   ], 
+  "ArtistID": 5000, 
+  "Title": "Cat and Mouse (Katze und Maus)", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "115.1955", 
+  "Date": "(c. 1912/13)", 
   "ArtistBio": "(German, 1849\u20131938)", 
-  "DateAcquired": "1955-04-06", 
-  "\ufeffTitle": "Cat and Mouse (Katze und Maus)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "62057"
 }

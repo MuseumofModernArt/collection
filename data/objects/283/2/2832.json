@@ -4,11 +4,9 @@
   "Classification": "A&D Design", 
   "Artist": "Lenox, Inc., Trenton, NJ", 
   "URL": "http://www.moma.org/collection/works/2832", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the manufacturer", 
-  "Date": "Before 1934", 
+  "DateAcquired": "1934-01-01", 
   "Keywords": [
-    "online art collection", 
     "Lenox", 
     "Inc,", 
     "Trenton", 
@@ -16,10 +14,11 @@
     "Plates", 
     "Before 1934"
   ], 
+  "Title": "Plates", 
   "Department": "Architecture & Design", 
   "MoMANumber": "227.1934.1-4", 
+  "Date": "Before 1934", 
   "ArtistBio": "(established 1889)", 
-  "DateAcquired": "1934-01-01", 
-  "\ufeffTitle": "Plates", 
+  "CuratorApproved": "Y", 
   "ObjectID": "2832"
 }

@@ -4,20 +4,19 @@
   "Classification": "Drawing", 
   "Artist": "Sam Szafran", 
   "URL": "http://www.moma.org/collection/works/35024", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The Joan and Lester Avnet Collection", 
-  "Date": "1966", 
-  "ArtistID": 5761, 
+  "DateAcquired": "1978-04-04", 
   "Keywords": [
-    "online art collection", 
     "Sam Szafran", 
     "Man Asleep", 
     "1966"
   ], 
+  "ArtistID": 5761, 
+  "Title": "Man Asleep", 
   "Department": "Drawings", 
   "MoMANumber": "171.1978", 
+  "Date": "1966", 
   "ArtistBio": "(French, born 1934)", 
-  "DateAcquired": "1978-04-04", 
-  "\ufeffTitle": "Man Asleep", 
+  "CuratorApproved": "Y", 
   "ObjectID": "35024"
 }

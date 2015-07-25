@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "John Covert", 
   "URL": "http://www.moma.org/collection/works/78987", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Katherine S. Dreier Bequest", 
-  "Date": "1919", 
-  "ArtistID": 1280, 
+  "DateAcquired": "1953-04-07", 
   "Keywords": [
-    "online art collection", 
     "John Covert", 
     "\"Ex Act\"", 
     "1919"
   ], 
+  "ArtistID": 1280, 
+  "Title": "\"Ex Act\"", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "147.1953", 
+  "Date": "1919", 
   "ArtistBio": "(American, 1882\u20131960)", 
-  "DateAcquired": "1953-04-07", 
-  "\ufeffTitle": "\"Ex Act\"", 
+  "CuratorApproved": "Y", 
   "ObjectID": "78987"
 }

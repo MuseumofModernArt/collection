@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Agnes Martin", 
   "URL": "http://www.moma.org/collection/works/79842", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Celeste and Armand P. Bartos", 
-  "Date": "1963", 
-  "ArtistID": 3787, 
+  "DateAcquired": "1984-12-11", 
   "Keywords": [
-    "online art collection", 
     "Agnes Martin", 
     "Friendship", 
     "1963"
   ], 
+  "ArtistID": 3787, 
+  "Title": "Friendship", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "502.1984", 
+  "Date": "1963", 
   "ArtistBio": "(American, born Canada. 1912\u20132004)", 
-  "DateAcquired": "1984-12-11", 
-  "\ufeffTitle": "Friendship", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79842"
 }

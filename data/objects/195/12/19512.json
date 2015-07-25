@@ -4,21 +4,20 @@
   "Classification": "Print", 
   "Artist": "Lasar Segall", 
   "URL": "http://www.moma.org/collection/works/19512", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1943, prints executed 1941", 
-  "ArtistID": 5317, 
+  "DateAcquired": "1949-09-29", 
   "Keywords": [
-    "online art collection", 
     "Lasar Segall", 
     "Mangue", 
     "1943", 
     "prints executed 1941"
   ], 
+  "ArtistID": 5317, 
+  "Title": "Mangue", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "607.1949.1-4", 
+  "Date": "1943, prints executed 1941", 
   "ArtistBio": "(Brazilian, born Russia, 1891\u20131957)", 
-  "DateAcquired": "1949-09-29", 
-  "\ufeffTitle": "Mangue", 
+  "CuratorApproved": "Y", 
   "ObjectID": "19512"
 }

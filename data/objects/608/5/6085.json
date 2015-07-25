@@ -4,22 +4,21 @@
   "Classification": "A&D Graphic Design", 
   "Artist": "A. M. Cassandre", 
   "URL": "http://www.moma.org/collection/works/6085", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Mr. and Mrs. Stanley Resor", 
-  "Date": "1935", 
-  "ArtistID": 1015, 
+  "DateAcquired": "1935-11-12", 
   "Keywords": [
-    "online art collection", 
     "A", 
     "M", 
     "Cassandre", 
     "Nicolas", 
     "1935"
   ], 
+  "ArtistID": 1015, 
+  "Title": "Nicolas", 
   "Department": "Architecture & Design", 
   "MoMANumber": "287.1935", 
+  "Date": "1935", 
   "ArtistBio": "(French, 1901\u20131968)", 
-  "DateAcquired": "1935-11-12", 
-  "\ufeffTitle": "Nicolas", 
+  "CuratorApproved": "Y", 
   "ObjectID": "6085"
 }

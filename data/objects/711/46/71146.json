@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Robert Longo", 
   "URL": "http://www.moma.org/collection/works/71146", 
-  "CuratorApproved": "Y", 
   "CreditLine": "John B. Turner Fund", 
-  "Date": "1983", 
-  "ArtistID": 3592, 
+  "DateAcquired": "1983-05-25", 
   "Keywords": [
-    "online art collection", 
     "Robert Longo", 
     "Mark", 
     "1983"
   ], 
+  "ArtistID": 3592, 
+  "Title": "Mark", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "561.1983", 
+  "Date": "1983", 
   "ArtistBio": "(American, born 1953)", 
-  "DateAcquired": "1983-05-25", 
-  "\ufeffTitle": "Mark", 
+  "CuratorApproved": "Y", 
   "ObjectID": "71146"
 }

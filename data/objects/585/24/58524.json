@@ -4,20 +4,19 @@
   "Classification": "Photograph", 
   "Artist": "Associated Press", 
   "URL": "http://www.moma.org/collection/works/58524", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The New York Times Collection", 
-  "Date": "1943", 
-  "ArtistID": 8501, 
+  "DateAcquired": "2001-06-14", 
   "Keywords": [
-    "online art collection", 
     "Associated Press", 
     "\"The Warsaw Ghetto\"", 
     "1943"
   ], 
+  "ArtistID": 8501, 
+  "Title": "\"The Warsaw Ghetto\"", 
   "Department": "Photography", 
   "MoMANumber": "1931.2001", 
+  "Date": "1943", 
   "ArtistBio": "", 
-  "DateAcquired": "2001-06-14", 
-  "\ufeffTitle": "\"The Warsaw Ghetto\"", 
+  "CuratorApproved": "Y", 
   "ObjectID": "58524"
 }

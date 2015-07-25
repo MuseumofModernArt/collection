@@ -4,21 +4,20 @@
   "Classification": "Print", 
   "Artist": "Christian Rohlfs", 
   "URL": "http://www.moma.org/collection/works/61022", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Matthew T. Mellon Foundation Fund", 
-  "Date": "(c. 1917)", 
-  "ArtistID": 5000, 
+  "DateAcquired": "1962-01-09", 
   "Keywords": [
-    "online art collection", 
     "Christian Rohlfs", 
     "Resurrection (Auferstehung)", 
     "(c", 
     "1917)"
   ], 
+  "ArtistID": 5000, 
+  "Title": "Resurrection (Auferstehung)", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "55.1962", 
+  "Date": "(c. 1917)", 
   "ArtistBio": "(German, 1849\u20131938)", 
-  "DateAcquired": "1962-01-09", 
-  "\ufeffTitle": "Resurrection (Auferstehung)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "61022"
 }

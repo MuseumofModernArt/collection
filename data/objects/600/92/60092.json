@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Pablo Picasso", 
   "URL": "http://www.moma.org/collection/works/60092", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Bequest of Eve Clendenin", 
-  "Date": "(1932)", 
-  "ArtistID": 4609, 
+  "DateAcquired": "1975-01-07", 
   "Keywords": [
-    "online art collection", 
     "Pablo Picasso", 
     "The Diver (La Plongeuse)", 
     "(1932)"
   ], 
+  "ArtistID": 4609, 
+  "Title": "The Diver (La Plongeuse)", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "19.1975", 
+  "Date": "(1932)", 
   "ArtistBio": "(Spanish, 1881\u20131973)", 
-  "DateAcquired": "1975-01-07", 
-  "\ufeffTitle": "The Diver (La Plongeuse)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "60092"
 }

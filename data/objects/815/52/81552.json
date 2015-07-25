@@ -4,22 +4,21 @@
   "Classification": "Sculpture", 
   "Artist": "Martin Kippenberger", 
   "URL": "http://www.moma.org/collection/works/81552", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Blanchette Hooker Rockefeller Fund Bequest, Anna Marie and Robert F. Shapiro, Jerry I. Speyer, and Michael and Judy Ovitz Funds", 
-  "Date": "1992", 
-  "ArtistID": 3111, 
+  "DateAcquired": "1992-12-07", 
   "Keywords": [
-    "online art collection", 
     "Martin Kippenberger", 
     "Martin", 
     "Into the Corner", 
     "You Should Be Ashamed of Yourself", 
     "1992"
   ], 
+  "ArtistID": 3111, 
+  "Title": "Martin, Into the Corner, You Should Be Ashamed of Yourself", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "525.1992", 
+  "Date": "1992", 
   "ArtistBio": "(German, 1953\u20131997)", 
-  "DateAcquired": "1992-12-07", 
-  "\ufeffTitle": "Martin, Into the Corner, You Should Be Ashamed of Yourself", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81552"
 }

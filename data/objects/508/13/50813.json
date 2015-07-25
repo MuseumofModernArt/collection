@@ -4,12 +4,9 @@
   "Classification": "Photograph", 
   "Artist": "Francis Bedford", 
   "URL": "http://www.moma.org/collection/works/50813", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "c. 1860", 
-  "ArtistID": 430, 
+  "DateAcquired": "1974-06-04", 
   "Keywords": [
-    "online art collection", 
     "Francis Bedford", 
     "Rhyl", 
     "The Pavilion and Pier (No", 
@@ -17,10 +14,12 @@
     "c", 
     "1860"
   ], 
+  "ArtistID": 430, 
+  "Title": "Rhyl, The Pavilion and Pier (No. 759)", 
   "Department": "Photography", 
   "MoMANumber": "325.1974", 
+  "Date": "c. 1860", 
   "ArtistBio": "(British, 1816\u20131894)", 
-  "DateAcquired": "1974-06-04", 
-  "\ufeffTitle": "Rhyl, The Pavilion and Pier (No. 759)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "50813"
 }

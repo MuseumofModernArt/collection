@@ -4,21 +4,20 @@
   "Classification": "Photograph", 
   "Artist": "Charles Marville", 
   "URL": "http://www.moma.org/collection/works/100524", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Christie Calder Salomon Fund", 
-  "Date": "1865-69", 
-  "ArtistID": 3810, 
+  "DateAcquired": "2005-10-20", 
   "Keywords": [
-    "online art collection", 
     "Charles Marville", 
     "Rue de Reims", 
     "from Rue des Sept -Voies", 
     "1865-69"
   ], 
+  "ArtistID": 3810, 
+  "Title": "Rue de Reims, from Rue des Sept -Voies", 
   "Department": "Photography", 
   "MoMANumber": "871.2005", 
+  "Date": "1865-69", 
   "ArtistBio": "(French, 1816\u20131879)", 
-  "DateAcquired": "2005-10-20", 
-  "\ufeffTitle": "Rue de Reims, from Rue des Sept -Voies", 
+  "CuratorApproved": "Y", 
   "ObjectID": "100524"
 }

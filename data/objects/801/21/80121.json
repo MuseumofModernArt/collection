@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Fernand L\u00e9ger", 
   "URL": "http://www.moma.org/collection/works/80121", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The Sidney and Harriet Janis Collection", 
-  "Date": "1908?", 
-  "ArtistID": 6624, 
+  "DateAcquired": "1967-10-18", 
   "Keywords": [
-    "online art collection", 
     "Fernand L&eacute;ger", 
     "Bridge", 
     "1908?"
   ], 
+  "ArtistID": 6624, 
+  "Title": "Bridge", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "624.1967", 
+  "Date": "1908?", 
   "ArtistBio": "(French, 1881\u20131955)", 
-  "DateAcquired": "1967-10-18", 
-  "\ufeffTitle": "Bridge", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80121"
 }

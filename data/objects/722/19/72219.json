@@ -4,21 +4,20 @@
   "Classification": "Print", 
   "Artist": "Paul Gauguin", 
   "URL": "http://www.moma.org/collection/works/72219", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Given anonymously", 
-  "Date": "1889", 
-  "ArtistID": 2098, 
+  "DateAcquired": "1971-12-06", 
   "Keywords": [
-    "online art collection", 
     "Paul Gauguin", 
     "The Tragedies of the Sea", 
     "Brittany", 
     "(1889)"
   ], 
+  "ArtistID": 2098, 
+  "Title": "The Tragedies of the Sea, Brittany (Les Drames de la mer Bretagne)", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "633.1971", 
+  "Date": "1889", 
   "ArtistBio": "(French, 1848\u20131903)", 
-  "DateAcquired": "1971-12-06", 
-  "\ufeffTitle": "The Tragedies of the Sea, Brittany (Les Drames de la mer Bretagne)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "72219"
 }

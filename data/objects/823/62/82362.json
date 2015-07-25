@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Thomas Nozkowski", 
   "URL": "http://www.moma.org/collection/works/82362", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "2001", 
-  "ArtistID": 4344, 
+  "DateAcquired": "2001-11-12", 
   "Keywords": [
-    "online art collection", 
     "Thomas Nozkowski", 
     "Untitled 8-17", 
     "2001"
   ], 
+  "ArtistID": 4344, 
+  "Title": "Untitled 8-17", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "2475.2001", 
+  "Date": "2001", 
   "ArtistBio": "(American, born 1944)", 
-  "DateAcquired": "2001-11-12", 
-  "\ufeffTitle": "Untitled 8-17", 
+  "CuratorApproved": "Y", 
   "ObjectID": "82362"
 }

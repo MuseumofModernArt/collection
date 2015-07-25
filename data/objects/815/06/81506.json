@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Joseph Beuys", 
   "URL": "http://www.moma.org/collection/works/81506", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gertrud A. Mellon Fund", 
-  "Date": "1969", 
-  "ArtistID": 540, 
+  "DateAcquired": "1970-11-10", 
   "Keywords": [
-    "online art collection", 
     "Joseph Beuys", 
     "The Sled", 
     "1969"
   ], 
+  "ArtistID": 540, 
+  "Title": "The Sled", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "498.1970", 
+  "Date": "1969", 
   "ArtistBio": "(German, 1921\u20131986)", 
-  "DateAcquired": "1970-11-10", 
-  "\ufeffTitle": "The Sled", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81506"
 }

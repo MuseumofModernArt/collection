@@ -4,21 +4,20 @@
   "Classification": "Painting", 
   "Artist": "Georges Braque", 
   "URL": "http://www.moma.org/collection/works/79554", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Acquired through the Katherine S. Dreier and Adele R. Levy Bequests", 
-  "Date": "La Ciotat, summer 1907", 
-  "ArtistID": 744, 
+  "DateAcquired": "1975-12-09", 
   "Keywords": [
-    "online art collection", 
     "Georges Braque", 
     "Landscape at La Ciotat", 
     "La Ciotat", 
     "summer 1907"
   ], 
+  "ArtistID": 744, 
+  "Title": "Landscape at La Ciotat", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "373.1975", 
+  "Date": "La Ciotat, summer 1907", 
   "ArtistBio": "(French, 1882\u20131963)", 
-  "DateAcquired": "1975-12-09", 
-  "\ufeffTitle": "Landscape at La Ciotat", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79554"
 }

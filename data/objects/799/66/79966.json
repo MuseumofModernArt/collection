@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Roberto Montenegro", 
   "URL": "http://www.moma.org/collection/works/79966", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Nelson A. Rockefeller", 
-  "Date": "1926", 
-  "ArtistID": 4063, 
+  "DateAcquired": "1941-12-10", 
   "Keywords": [
-    "online art collection", 
     "Roberto Montenegro", 
     "Maya Women", 
     "1926"
   ], 
+  "ArtistID": 4063, 
+  "Title": "Maya Women", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "560.1941", 
+  "Date": "1926", 
   "ArtistBio": "(Mexican, 1885\u20131968)", 
-  "DateAcquired": "1941-12-10", 
-  "\ufeffTitle": "Maya Women", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79966"
 }

@@ -4,12 +4,9 @@
   "Classification": "A&D Mies van der Rohe Archive", 
   "Artist": "Ludwig Mies van der Rohe", 
   "URL": "http://www.moma.org/collection/works/734", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Mies van der Rohe Archive, gift of the architect", 
-  "Date": "1932", 
-  "ArtistID": 7166, 
+  "DateAcquired": "1963-12-10", 
   "Keywords": [
-    "online art collection", 
     "Ludwig Mies van der Rohe", 
     "Gericke House Project", 
     "Wannsee-Berlin", 
@@ -18,10 +15,12 @@
     "view from the water", 
     "1932"
   ], 
+  "ArtistID": 7166, 
+  "Title": "Gericke House Project, Wannsee-Berlin, Germany, Elevation sketch, view from the water", 
   "Department": "Architecture & Design", 
   "MoMANumber": "701.1963", 
+  "Date": "1932", 
   "ArtistBio": "(American, born Germany. 1886\u20131969)", 
-  "DateAcquired": "1963-12-10", 
-  "\ufeffTitle": "Gericke House Project, Wannsee-Berlin, Germany, Elevation sketch, view from the water", 
+  "CuratorApproved": "Y", 
   "ObjectID": "734"
 }

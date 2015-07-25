@@ -4,12 +4,9 @@
   "Classification": "Print", 
   "Artist": "Stanley William Hayter", 
   "URL": "http://www.moma.org/collection/works/67276", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase Fund", 
-  "Date": "1947", 
-  "ArtistID": 2558, 
+  "DateAcquired": "1947-12-19", 
   "Keywords": [
-    "online art collection", 
     "Stanley William Hayter", 
     "Personnage virtuelle", 
     "plate IV from the Brunidor Portfolio", 
@@ -17,10 +14,12 @@
     "1", 
     "1947"
   ], 
+  "ArtistID": 2558, 
+  "Title": "Personnage virtuelle, plate IV from the Brunidor Portfolio, No. 1", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "342.1947.4", 
+  "Date": "1947", 
   "ArtistBio": "(British, 1901\u20131988)", 
-  "DateAcquired": "1947-12-19", 
-  "\ufeffTitle": "Personnage virtuelle, plate IV from the Brunidor Portfolio, No. 1", 
+  "CuratorApproved": "Y", 
   "ObjectID": "67276"
 }

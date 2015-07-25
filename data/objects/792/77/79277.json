@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Henri Rousseau", 
   "URL": "http://www.moma.org/collection/works/79277", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Nelson A. Rockefeller", 
-  "Date": "1910", 
-  "ArtistID": 5056, 
+  "DateAcquired": "1954-06-16", 
   "Keywords": [
-    "online art collection", 
     "Henri Rousseau", 
     "The Dream", 
     "1910"
   ], 
+  "ArtistID": 5056, 
+  "Title": "The Dream", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "252.1954", 
+  "Date": "1910", 
   "ArtistBio": "(French, 1844\u20131910)", 
-  "DateAcquired": "1954-06-16", 
-  "\ufeffTitle": "The Dream", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79277"
 }

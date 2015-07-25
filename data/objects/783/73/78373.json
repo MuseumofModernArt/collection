@@ -4,21 +4,20 @@
   "Classification": "Painting", 
   "Artist": "Adolph Gottlieb", 
   "URL": "http://www.moma.org/collection/works/78373", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Philip Johnson Fund", 
-  "Date": "1957", 
-  "ArtistID": 2268, 
+  "DateAcquired": "1958-02-19", 
   "Keywords": [
-    "online art collection", 
     "Adolph Gottlieb", 
     "Blast", 
     "I", 
     "1957"
   ], 
+  "ArtistID": 2268, 
+  "Title": "Blast, I", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "6.1958", 
+  "Date": "1957", 
   "ArtistBio": "(American, 1903\u20131974)", 
-  "DateAcquired": "1958-02-19", 
-  "\ufeffTitle": "Blast, I", 
+  "CuratorApproved": "Y", 
   "ObjectID": "78373"
 }

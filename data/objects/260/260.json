@@ -4,12 +4,9 @@
   "Classification": "A&D Architectural Drawing", 
   "Artist": "Mario Botta", 
   "URL": "http://www.moma.org/collection/works/260", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Banca del Gottardo", 
-  "Date": "1985", 
-  "ArtistID": 696, 
+  "DateAcquired": "1987-05-27", 
   "Keywords": [
-    "online art collection", 
     "Mario Botta", 
     "Gotthard Bank", 
     "Lugano", 
@@ -17,10 +14,12 @@
     "West elevation", 
     "1985"
   ], 
+  "ArtistID": 696, 
+  "Title": "Gotthard Bank, Lugano, Switzerland, West elevation", 
   "Department": "Architecture & Design", 
   "MoMANumber": "208.1987", 
+  "Date": "1985", 
   "ArtistBio": "(Swiss, born 1943)", 
-  "DateAcquired": "1987-05-27", 
-  "\ufeffTitle": "Gotthard Bank, Lugano, Switzerland, West elevation", 
+  "CuratorApproved": "Y", 
   "ObjectID": "260"
 }

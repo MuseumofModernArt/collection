@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Andy Warhol", 
   "URL": "http://www.moma.org/collection/works/80290", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Roy Lichtenstein", 
-  "Date": "1961", 
-  "ArtistID": 6246, 
+  "DateAcquired": "1971-12-13", 
   "Keywords": [
-    "online art collection", 
     "Andy Warhol", 
     "Water Heater", 
     "1961"
   ], 
+  "ArtistID": 6246, 
+  "Title": "Water Heater", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "706.1971", 
+  "Date": "1961", 
   "ArtistBio": "(American, 1928\u20131987)", 
-  "DateAcquired": "1971-12-13", 
-  "\ufeffTitle": "Water Heater", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80290"
 }

@@ -4,21 +4,20 @@
   "Classification": "A&D Mies van der Rohe Archive", 
   "Artist": "Ludwig Mies van der Rohe", 
   "URL": "http://www.moma.org/collection/works/702", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Mies van der Rohe Archive, gift of Mrs. Mary Callery", 
-  "Date": "1942", 
-  "ArtistID": 7166, 
+  "DateAcquired": "1963-11-12", 
   "Keywords": [
-    "online art collection", 
     "Ludwig Mies van der Rohe", 
     "Concert Hall Project", 
     "Interior perspective", 
     "1942"
   ], 
+  "ArtistID": 7166, 
+  "Title": "Concert Hall Project, Interior perspective", 
   "Department": "Architecture & Design", 
   "MoMANumber": "571.1963", 
+  "Date": "1942", 
   "ArtistBio": "(American, born Germany. 1886\u20131969)", 
-  "DateAcquired": "1963-11-12", 
-  "\ufeffTitle": "Concert Hall Project, Interior perspective", 
+  "CuratorApproved": "Y", 
   "ObjectID": "702"
 }

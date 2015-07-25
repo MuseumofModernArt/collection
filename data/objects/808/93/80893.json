@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Wilhelm Lehmbruck", 
   "URL": "http://www.moma.org/collection/works/80893", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Abby Aldrich Rockefeller", 
-  "Date": "1913", 
-  "ArtistID": 3464, 
+  "DateAcquired": "1937-05-11", 
   "Keywords": [
-    "online art collection", 
     "Wilhelm Lehmbruck", 
     "Standing Youth", 
     "1913"
   ], 
+  "ArtistID": 3464, 
+  "Title": "Standing Youth", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "68.1936", 
+  "Date": "1913", 
   "ArtistBio": "(German, 1881\u20131919)", 
-  "DateAcquired": "1937-05-11", 
-  "\ufeffTitle": "Standing Youth", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80893"
 }

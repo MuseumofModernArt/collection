@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Umberto Boccioni", 
   "URL": "http://www.moma.org/collection/works/80009", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The Sidney and Harriet Janis Collection", 
-  "Date": "1913", 
-  "ArtistID": 624, 
+  "DateAcquired": "1967-10-18", 
   "Keywords": [
-    "online art collection", 
     "Umberto Boccioni", 
     "Dynamism of a Soccer Player", 
     "1913"
   ], 
+  "ArtistID": 624, 
+  "Title": "Dynamism of a Soccer Player", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "580.1967", 
+  "Date": "1913", 
   "ArtistBio": "(Italian, 1882\u20131916)", 
-  "DateAcquired": "1967-10-18", 
-  "\ufeffTitle": "Dynamism of a Soccer Player", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80009"
 }

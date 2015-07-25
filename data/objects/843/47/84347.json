@@ -4,12 +4,9 @@
   "Classification": "Print", 
   "Artist": "Louise Bourgeois", 
   "URL": "http://www.moma.org/collection/works/84347", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the artist", 
-  "Date": "1997", 
-  "ArtistID": 710, 
+  "DateAcquired": "2008-06-18", 
   "Keywords": [
-    "online art collection", 
     "Louise Bourgeois", 
     "Untitled", 
     "supplementary plate (Couple in Bed I)", 
@@ -17,10 +14,12 @@
     "from Metamorfosis", 
     "1997"
   ], 
+  "ArtistID": 710, 
+  "Title": "Untitled, plate 6 of 7, from the portfolio, Metamorfosis", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "728.2008", 
+  "Date": "1997", 
   "ArtistBio": "(American, born France. 1911\u20132010)", 
-  "DateAcquired": "2008-06-18", 
-  "\ufeffTitle": "Untitled, plate 6 of 7, from the portfolio, Metamorfosis", 
+  "CuratorApproved": "Y", 
   "ObjectID": "84347"
 }

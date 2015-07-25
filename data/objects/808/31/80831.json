@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Marino Marini", 
   "URL": "http://www.moma.org/collection/works/80831", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the artist", 
-  "Date": "1954", 
-  "ArtistID": 3772, 
+  "DateAcquired": "1955-04-06", 
   "Keywords": [
-    "online art collection", 
     "Marino Marini", 
     "Curt Valentin", 
     "1954"
   ], 
+  "ArtistID": 3772, 
+  "Title": "Curt Valentin", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "17.1955", 
+  "Date": "1954", 
   "ArtistBio": "(Italian, 1901\u20131980)", 
-  "DateAcquired": "1955-04-06", 
-  "\ufeffTitle": "Curt Valentin", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80831"
 }

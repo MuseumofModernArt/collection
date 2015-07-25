@@ -4,22 +4,21 @@
   "Classification": "A&D Architectural Model", 
   "Artist": "Louis Sullivan", 
   "URL": "http://www.moma.org/collection/works/87770", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Patricia Bonfield Endowed Acquisition Fund", 
-  "Date": "1893", 
-  "ArtistID": 5723, 
+  "DateAcquired": "2003-05-13", 
   "Keywords": [
-    "online art collection", 
     "Louis Sullivan", 
     "Elevator Grille from the Chicago Stock Exchange", 
     "Chicago", 
     "Illinois", 
     "1893"
   ], 
+  "ArtistID": 5723, 
+  "Title": "Elevator Grille from the Chicago Stock Exchange, Chicago, Illinois", 
   "Department": "Architecture & Design", 
   "MoMANumber": "107.2003", 
+  "Date": "1893", 
   "ArtistBio": "(American, 1856\u20131924)", 
-  "DateAcquired": "2003-05-13", 
-  "\ufeffTitle": "Elevator Grille from the Chicago Stock Exchange, Chicago, Illinois", 
+  "CuratorApproved": "Y", 
   "ObjectID": "87770"
 }

@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Henri Matisse", 
   "URL": "http://www.moma.org/collection/works/62130", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Stephen C. Clark Fund", 
-  "Date": "(1929)", 
-  "ArtistID": 3832, 
+  "DateAcquired": "1951-01-30", 
   "Keywords": [
-    "online art collection", 
     "Henri Matisse", 
     "Figure Reading (Figure lisant)", 
     "(1929)"
   ], 
+  "ArtistID": 3832, 
+  "Title": "Figure Reading (Figure lisant)", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "118.1951", 
+  "Date": "(1929)", 
   "ArtistBio": "(French, 1869\u20131954)", 
-  "DateAcquired": "1951-01-30", 
-  "\ufeffTitle": "Figure Reading (Figure lisant)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "62130"
 }

@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Emil Nolde", 
   "URL": "http://www.moma.org/collection/works/79494", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Dr. W. R. Valentiner", 
-  "Date": "1910", 
-  "ArtistID": 4327, 
+  "DateAcquired": "1955-11-23", 
   "Keywords": [
-    "online art collection", 
     "Emil Nolde", 
     "Christ and the Children", 
     "1910"
   ], 
+  "ArtistID": 4327, 
+  "Title": "Christ and the Children", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "341.1955", 
+  "Date": "1910", 
   "ArtistBio": "(German, 1867\u20131956)", 
-  "DateAcquired": "1955-11-23", 
-  "\ufeffTitle": "Christ and the Children", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79494"
 }

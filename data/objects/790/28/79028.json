@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Am\u00e9d\u00e9e Ozenfant", 
   "URL": "http://www.moma.org/collection/works/79028", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Acquired through the Lillie P. Bliss Bequest", 
-  "Date": "1925", 
-  "ArtistID": 4458, 
+  "DateAcquired": "1945-12-17", 
   "Keywords": [
-    "online art collection", 
     "Am&eacute;d&eacute;e Ozenfant", 
     "The Vases", 
     "1925"
   ], 
+  "ArtistID": 4458, 
+  "Title": "The Vases", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "164.1945", 
+  "Date": "1925", 
   "ArtistBio": "(French, 1886\u20131966)", 
-  "DateAcquired": "1945-12-17", 
-  "\ufeffTitle": "The Vases", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79028"
 }

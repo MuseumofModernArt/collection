@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Jim Dine", 
   "URL": "http://www.moma.org/collection/works/70478", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the artist and Aldo Crommelynck", 
-  "Date": "1976", 
-  "ArtistID": 1547, 
+  "DateAcquired": "1976-11-10", 
   "Keywords": [
-    "online art collection", 
     "Jim Dine", 
     "Paris Smiles", 
     "1976"
   ], 
+  "ArtistID": 1547, 
+  "Title": "Paris Smiles", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "522.1976", 
+  "Date": "1976", 
   "ArtistBio": "(American, born 1935)", 
-  "DateAcquired": "1976-11-10", 
-  "\ufeffTitle": "Paris Smiles", 
+  "CuratorApproved": "Y", 
   "ObjectID": "70478"
 }

@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Frida Kahlo", 
   "URL": "http://www.moma.org/collection/works/79374", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Mary Sklar Bequest", 
-  "Date": "1937 (assembled after 1939)", 
-  "ArtistID": 2963, 
+  "DateAcquired": "1987-10-13", 
   "Keywords": [
-    "online art collection", 
     "Frida Kahlo", 
     "Fulang-Chang and I", 
     "1937 (assembled after 1939)"
   ], 
+  "ArtistID": 2963, 
+  "Title": "Fulang-Chang and I", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "277.1987.a-c", 
+  "Date": "1937 (assembled after 1939)", 
   "ArtistBio": "(Mexican, 1907\u20131954)", 
-  "DateAcquired": "1987-10-13", 
-  "\ufeffTitle": "Fulang-Chang and I", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79374"
 }

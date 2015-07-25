@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Frank Stella", 
   "URL": "http://www.moma.org/collection/works/68784", 
-  "CuratorApproved": "Y", 
   "CreditLine": "President's Fund Purchase, 1987, Donald B. Marron, President", 
-  "Date": "1974", 
-  "ArtistID": 5640, 
+  "DateAcquired": "1987-10-20", 
   "Keywords": [
-    "online art collection", 
     "Frank Stella", 
     "York Factory II", 
     "1974"
   ], 
+  "ArtistID": 5640, 
+  "Title": "York Factory II", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "419.1987", 
+  "Date": "1974", 
   "ArtistBio": "(American, born 1936)", 
-  "DateAcquired": "1987-10-20", 
-  "\ufeffTitle": "York Factory II", 
+  "CuratorApproved": "Y", 
   "ObjectID": "68784"
 }

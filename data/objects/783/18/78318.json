@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Wilson Bigaud", 
   "URL": "http://www.moma.org/collection/works/78318", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Inter-American Fund", 
-  "Date": "1950", 
-  "ArtistID": 557, 
+  "DateAcquired": "1951-01-30", 
   "Keywords": [
-    "online art collection", 
     "Wilson Bigaud", 
     "Murder in the Jungle", 
     "1950"
   ], 
+  "ArtistID": 557, 
+  "Title": "Murder in the Jungle", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "2.1951", 
+  "Date": "1950", 
   "ArtistBio": "(Haitian, 1931\u20132010)", 
-  "DateAcquired": "1951-01-30", 
-  "\ufeffTitle": "Murder in the Jungle", 
+  "CuratorApproved": "Y", 
   "ObjectID": "78318"
 }

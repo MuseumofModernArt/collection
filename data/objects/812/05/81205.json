@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "David Ireland", 
   "URL": "http://www.moma.org/collection/works/81205", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Emily and Jerry Spiegel", 
-  "Date": "1987", 
-  "ArtistID": 2823, 
+  "DateAcquired": "1990-05-07", 
   "Keywords": [
-    "online art collection", 
     "David Ireland", 
     "New Shoes", 
     "1987"
   ], 
+  "ArtistID": 2823, 
+  "Title": "New Shoes", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "246.1990.a-d", 
+  "Date": "1987", 
   "ArtistBio": "(American, born 1930)", 
-  "DateAcquired": "1990-05-07", 
-  "\ufeffTitle": "New Shoes", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81205"
 }

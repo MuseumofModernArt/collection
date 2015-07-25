@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Robert Morris", 
   "URL": "http://www.moma.org/collection/works/80888", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Philip Johnson", 
-  "Date": "1967", 
-  "ArtistID": 4108, 
+  "DateAcquired": "1995-02-06", 
   "Keywords": [
-    "online art collection", 
     "Robert Morris", 
     "Untitled (Tangle)", 
     "1967"
   ], 
+  "ArtistID": 4108, 
+  "Title": "Untitled (Tangle)", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "64.1995", 
+  "Date": "1967", 
   "ArtistBio": "(American, born 1931)", 
-  "DateAcquired": "1995-02-06", 
-  "\ufeffTitle": "Untitled (Tangle)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80888"
 }

@@ -4,12 +4,9 @@
   "Classification": "Print", 
   "Artist": "Horst Janssen", 
   "URL": "http://www.moma.org/collection/works/74604", 
-  "CuratorApproved": "Y", 
   "CreditLine": "John S. Newberry Fund", 
-  "Date": "(November 11, 1967)", 
-  "ArtistID": 2887, 
+  "DateAcquired": "1969-10-28", 
   "Keywords": [
-    "online art collection", 
     "Horst Janssen", 
     "Laatzen's Bilderbogen", 
     "5", 
@@ -17,10 +14,12 @@
     "(November 11", 
     "1967)"
   ], 
+  "ArtistID": 2887, 
+  "Title": "Laatzen's Bilderbogen, 5, poster", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "879.1969", 
+  "Date": "(November 11, 1967)", 
   "ArtistBio": "(German, 1929\u20131995)", 
-  "DateAcquired": "1969-10-28", 
-  "\ufeffTitle": "Laatzen's Bilderbogen, 5, poster", 
+  "CuratorApproved": "Y", 
   "ObjectID": "74604"
 }

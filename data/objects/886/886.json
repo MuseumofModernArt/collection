@@ -4,12 +4,9 @@
   "Classification": "A&D Architectural Drawing", 
   "Artist": "Cedric Price", 
   "URL": "http://www.moma.org/collection/works/886", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of The Howard Gilman Foundation", 
-  "Date": "1978-80", 
-  "ArtistID": 7986, 
+  "DateAcquired": "", 
   "Keywords": [
-    "online art collection", 
     "Cedric Price", 
     "Generator Project", 
     "White Oak", 
@@ -17,10 +14,12 @@
     "Site and Size Comparison", 
     "1978-80"
   ], 
+  "ArtistID": 7986, 
+  "Title": "Generator Project, White Oak, Florida, Site and Size Comparison", 
   "Department": "Architecture & Design", 
   "MoMANumber": "1270.2000.a-b", 
+  "Date": "1978-80", 
   "ArtistBio": "(British, 1934\u20132003)", 
-  "DateAcquired": "", 
-  "\ufeffTitle": "Generator Project, White Oak, Florida, Site and Size Comparison", 
+  "CuratorApproved": "Y", 
   "ObjectID": "886"
 }

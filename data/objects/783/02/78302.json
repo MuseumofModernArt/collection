@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Robert Delaunay", 
   "URL": "http://www.moma.org/collection/works/78302", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Mrs. Simon Guggenheim Fund", 
-  "Date": "Paris 1913 (dated on painting 1912)", 
-  "ArtistID": 1479, 
+  "DateAcquired": "1954-01-12", 
   "Keywords": [
-    "online art collection", 
     "Robert Delaunay", 
     "Simultaneous Contrasts: Sun and Moon", 
     "Paris 1913 (dated on painting 1912)"
   ], 
+  "ArtistID": 1479, 
+  "Title": "Simultaneous Contrasts: Sun and Moon", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "1.1954", 
+  "Date": "Paris 1913 (dated on painting 1912)", 
   "ArtistBio": "(French, 1885\u20131941)", 
-  "DateAcquired": "1954-01-12", 
-  "\ufeffTitle": "Simultaneous Contrasts: Sun and Moon", 
+  "CuratorApproved": "Y", 
   "ObjectID": "78302"
 }

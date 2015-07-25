@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Gino Severini", 
   "URL": "http://www.moma.org/collection/works/79418", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Richard S. Zeisler", 
-  "Date": "1915", 
-  "ArtistID": 5360, 
+  "DateAcquired": "1986-10-14", 
   "Keywords": [
-    "online art collection", 
     "Gino Severini", 
     "Armored Train in Action", 
     "1915"
   ], 
+  "ArtistID": 5360, 
+  "Title": "Armored Train in Action", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "287.1986", 
+  "Date": "1915", 
   "ArtistBio": "(Italian, 1883\u20131966)", 
-  "DateAcquired": "1986-10-14", 
-  "\ufeffTitle": "Armored Train in Action", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79418"
 }

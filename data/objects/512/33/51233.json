@@ -4,12 +4,9 @@
   "Classification": "Photograph", 
   "Artist": "Judith Joy Ross", 
   "URL": "http://www.moma.org/collection/works/51233", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Patricia Lawrence", 
-  "Date": "1992", 
-  "ArtistID": 5030, 
+  "DateAcquired": "1993-10-14", 
   "Keywords": [
-    "online art collection", 
     "Judith Joy Ross", 
     "The Stewart Sisters", 
     "H,F", 
@@ -18,10 +15,12 @@
     "Pennsylvania", 
     "1992"
   ], 
+  "ArtistID": 5030, 
+  "Title": "The Stewart Sisters, H.F. Grebey Junior High School, Hazleton, Pennsylvania", 
   "Department": "Photography", 
   "MoMANumber": "339.1993", 
+  "Date": "1992", 
   "ArtistBio": "(American, born 1946)", 
-  "DateAcquired": "1993-10-14", 
-  "\ufeffTitle": "The Stewart Sisters, H.F. Grebey Junior High School, Hazleton, Pennsylvania", 
+  "CuratorApproved": "Y", 
   "ObjectID": "51233"
 }

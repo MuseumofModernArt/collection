@@ -4,12 +4,9 @@
   "Classification": "A&D Architectural Model", 
   "Artist": "Ludwig Mies van der Rohe", 
   "URL": "http://www.moma.org/collection/works/84200", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Exhibition Fund, 1932", 
-  "Date": "1928-1930", 
-  "ArtistID": 7166, 
+  "DateAcquired": "1932-01-01", 
   "Keywords": [
-    "online art collection", 
     "Ludwig Mies van der Rohe", 
     "Tugendhat House", 
     "Brno", 
@@ -17,10 +14,12 @@
     "Model of final version", 
     "1928-1930"
   ], 
+  "ArtistID": 7166, 
+  "Title": "Tugendhat House, Brno, Czechoslovakia (Model of final version)", 
   "Department": "Architecture & Design", 
   "MoMANumber": "MC 3", 
+  "Date": "1928-1930", 
   "ArtistBio": "(American, born Germany. 1886\u20131969)", 
-  "DateAcquired": "1932-01-01", 
-  "\ufeffTitle": "Tugendhat House, Brno, Czechoslovakia (Model of final version)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "84200"
 }

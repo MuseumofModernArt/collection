@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Barnett Newman", 
   "URL": "http://www.moma.org/collection/works/79250", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Mr. and Mrs. Ben Heller", 
-  "Date": "1950-51", 
-  "ArtistID": 4285, 
+  "DateAcquired": "1971-12-10", 
   "Keywords": [
-    "online art collection", 
     "Barnett Newman", 
     "Vir Heroicus Sublimis", 
     "1950-51"
   ], 
+  "ArtistID": 4285, 
+  "Title": "Vir Heroicus Sublimis", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "240.1969", 
+  "Date": "1950-51", 
   "ArtistBio": "(American, 1905\u20131970)", 
-  "DateAcquired": "1971-12-10", 
-  "\ufeffTitle": "Vir Heroicus Sublimis", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79250"
 }

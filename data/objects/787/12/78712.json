@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Robert Rauschenberg", 
   "URL": "http://www.moma.org/collection/works/78712", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Leo Castelli in honor of Alfred H. Barr, Jr.", 
-  "Date": "1955", 
-  "ArtistID": 4823, 
+  "DateAcquired": "1989-05-08", 
   "Keywords": [
-    "online art collection", 
     "Robert Rauschenberg", 
     "Bed", 
     "1955"
   ], 
+  "ArtistID": 4823, 
+  "Title": "Bed", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "79.1989", 
+  "Date": "1955", 
   "ArtistBio": "(American, 1925\u20132008)", 
-  "DateAcquired": "1989-05-08", 
-  "\ufeffTitle": "Bed", 
+  "CuratorApproved": "Y", 
   "ObjectID": "78712"
 }

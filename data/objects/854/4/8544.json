@@ -4,12 +4,9 @@
   "Classification": "A&D Graphic Design", 
   "Artist": "Augustin Tschinkel", 
   "URL": "http://www.moma.org/collection/works/8544", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Jan Tschichold Collection, Gift of Philip Johnson", 
-  "Date": "1932", 
-  "ArtistID": 5952, 
+  "DateAcquired": "1999-12-10", 
   "Keywords": [
-    "online art collection", 
     "Augustin Tschinkel", 
     "G", 
     "V", 
@@ -19,10 +16,12 @@
     "Hegelvoi", 
     "1932"
   ], 
+  "ArtistID": 5952, 
+  "Title": "G. V. Plechanov: o G. W. F. Hegelvoi", 
   "Department": "Architecture & Design", 
   "MoMANumber": "1068.1999", 
+  "Date": "1932", 
   "ArtistBio": "(Czech, born 1905)", 
-  "DateAcquired": "1999-12-10", 
-  "\ufeffTitle": "G. V. Plechanov: o G. W. F. Hegelvoi", 
+  "CuratorApproved": "Y", 
   "ObjectID": "8544"
 }

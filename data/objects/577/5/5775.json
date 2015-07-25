@@ -4,12 +4,9 @@
   "Classification": "A&D Graphic Design", 
   "Artist": "Beggarstaffs (James Pryde, Scottish 1866-1941 & William Nicholson, British 1872-1949)", 
   "URL": "http://www.moma.org/collection/works/5775", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Don Page Fund", 
-  "Date": "c. 1901", 
-  "ArtistID": 437, 
+  "DateAcquired": "1987-05-27", 
   "Keywords": [
-    "online art collection", 
     "Beggarstaffs (James Pryde", 
     "Scottish 1866-1941 & William Nicholson", 
     "British 1872-1949)", 
@@ -18,10 +15,12 @@
     "c", 
     "1901"
   ], 
+  "ArtistID": 437, 
+  "Title": "The Black and White Gallery, Louis Meyer", 
   "Department": "Architecture & Design", 
   "MoMANumber": "232.1987", 
+  "Date": "c. 1901", 
   "ArtistBio": "", 
-  "DateAcquired": "1987-05-27", 
-  "\ufeffTitle": "The Black and White Gallery, Louis Meyer", 
+  "CuratorApproved": "Y", 
   "ObjectID": "5775"
 }

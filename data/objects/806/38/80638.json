@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Francis Picabia", 
   "URL": "http://www.moma.org/collection/works/80638", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1942-43", 
-  "ArtistID": 4607, 
+  "DateAcquired": "2000-11-06", 
   "Keywords": [
-    "online art collection", 
     "Francis Picabia", 
     "Portrait of a Couple", 
     "1942-43"
   ], 
+  "ArtistID": 4607, 
+  "Title": "Portrait of a Couple", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "1329.2000", 
+  "Date": "1942-43", 
   "ArtistBio": "(French, 1879\u20131953)", 
-  "DateAcquired": "2000-11-06", 
-  "\ufeffTitle": "Portrait of a Couple", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80638"
 }

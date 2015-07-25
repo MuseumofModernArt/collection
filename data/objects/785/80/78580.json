@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Man Ray (Emmanuel Radnitzky)", 
   "URL": "http://www.moma.org/collection/works/78580", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of G. David Thompson", 
-  "Date": "1916", 
-  "ArtistID": 3716, 
+  "DateAcquired": "1954-01-12", 
   "Keywords": [
-    "online art collection", 
     "Man Ray", 
     "The Rope Dancer Accompanies Herself with Her Shadows", 
     "1916"
   ], 
+  "ArtistID": 3716, 
+  "Title": "The Rope Dancer Accompanies Herself with Her Shadows", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "33.1954", 
+  "Date": "1916", 
   "ArtistBio": "(American, 1890\u20131976)", 
-  "DateAcquired": "1954-01-12", 
-  "\ufeffTitle": "The Rope Dancer Accompanies Herself with Her Shadows", 
+  "CuratorApproved": "Y", 
   "ObjectID": "78580"
 }

@@ -4,22 +4,21 @@
   "Classification": "Photograph", 
   "Artist": "Times Wide World Photos", 
   "URL": "http://www.moma.org/collection/works/58777", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The New York Times Collection", 
-  "Date": "July, 19, 1938", 
-  "ArtistID": 8632, 
+  "DateAcquired": "2001-06-14", 
   "Keywords": [
-    "online art collection", 
     "Times Wide World Photos", 
     "\"Breaking Ground for New Housing Project in Brooklyn\"", 
     "July", 
     "19", 
     "1938"
   ], 
+  "ArtistID": 8632, 
+  "Title": "\"Breaking Ground for New Housing Project in Brooklyn\"", 
   "Department": "Photography", 
   "MoMANumber": "2184.2001", 
+  "Date": "July, 19, 1938", 
   "ArtistBio": "(American, active 1919\u20131941)", 
-  "DateAcquired": "2001-06-14", 
-  "\ufeffTitle": "\"Breaking Ground for New Housing Project in Brooklyn\"", 
+  "CuratorApproved": "Y", 
   "ObjectID": "58777"
 }

@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Kiki Smith", 
   "URL": "http://www.moma.org/collection/works/86903", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Emily Fisher Landau", 
-  "Date": "2002", 
-  "ArtistID": 5486, 
+  "DateAcquired": "2002-11-20", 
   "Keywords": [
-    "online art collection", 
     "Kiki Smith", 
     "Out of the Woods", 
     "2002"
   ], 
+  "ArtistID": 5486, 
+  "Title": "Out of the Woods", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "371.2002.1-5", 
+  "Date": "2002", 
   "ArtistBio": "(American, born Germany 1954)", 
-  "DateAcquired": "2002-11-20", 
-  "\ufeffTitle": "Out of the Woods", 
+  "CuratorApproved": "Y", 
   "ObjectID": "86903"
 }

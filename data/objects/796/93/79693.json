@@ -4,21 +4,20 @@
   "Classification": "Painting", 
   "Artist": "Hisao Domoto", 
   "URL": "http://www.moma.org/collection/works/79693", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Mr. and Mrs. Eliot C. Clarke", 
-  "Date": "1966", 
-  "ArtistID": 1582, 
+  "DateAcquired": "1972-12-29", 
   "Keywords": [
-    "online art collection", 
     "Hisao Domoto", 
     "Solution of Continuity", 
     "Number 22", 
     "1966"
   ], 
+  "ArtistID": 1582, 
+  "Title": "Solution of Continuity, Number 22", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "430.1972", 
+  "Date": "1966", 
   "ArtistBio": "(Japanese, 1928\u20132013)", 
-  "DateAcquired": "1972-12-29", 
-  "\ufeffTitle": "Solution of Continuity, Number 22", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79693"
 }

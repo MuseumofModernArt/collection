@@ -4,21 +4,20 @@
   "Classification": "Painting", 
   "Artist": "Jack Whitten", 
   "URL": "http://www.moma.org/collection/works/79913", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Mr. and Mrs. Lawrence Levine", 
-  "Date": "1976", 
-  "ArtistID": 6351, 
+  "DateAcquired": "1978-10-10", 
   "Keywords": [
-    "online art collection", 
     "Jack Whitten", 
     "Kappa", 
     "I", 
     "1976"
   ], 
+  "ArtistID": 6351, 
+  "Title": "Kappa, I", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "523.1978", 
+  "Date": "1976", 
   "ArtistBio": "(American, born 1939)", 
-  "DateAcquired": "1978-10-10", 
-  "\ufeffTitle": "Kappa, I", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79913"
 }

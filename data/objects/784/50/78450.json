@@ -4,21 +4,20 @@
   "Classification": "Painting", 
   "Artist": "Robert Motherwell", 
   "URL": "http://www.moma.org/collection/works/78450", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Mr. and Mrs. Samuel M. Kootz", 
-  "Date": "1947", 
-  "ArtistID": 4126, 
+  "DateAcquired": "1957-02-27", 
   "Keywords": [
-    "online art collection", 
     "Robert Motherwell", 
     "Personage", 
     "with Yellow Ochre and White", 
     "1947"
   ], 
+  "ArtistID": 4126, 
+  "Title": "Personage, with Yellow Ochre and White", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "15.1957", 
+  "Date": "1947", 
   "ArtistBio": "(American, 1915\u20131991)", 
-  "DateAcquired": "1957-02-27", 
-  "\ufeffTitle": "Personage, with Yellow Ochre and White", 
+  "CuratorApproved": "Y", 
   "ObjectID": "78450"
 }

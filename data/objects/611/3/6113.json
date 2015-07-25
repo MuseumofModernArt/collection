@@ -4,12 +4,9 @@
   "Classification": "A&D Graphic Design", 
   "Artist": "Hendrikus Th. Wijdeveld", 
   "URL": "http://www.moma.org/collection/works/6113", 
-  "CuratorApproved": "Y", 
   "CreditLine": "By Exchange", 
-  "Date": "1931", 
-  "ArtistID": 6363, 
+  "DateAcquired": "1980-01-08", 
   "Keywords": [
-    "online art collection", 
     "Hendrikus Th", 
     "Wijdeveld", 
     "Architectuur", 
@@ -17,10 +14,12 @@
     "Tentoonstellund", 
     "1931"
   ], 
+  "ArtistID": 6363, 
+  "Title": "Architectuur, Frank Lloyd Wright, Tentoonstellung", 
   "Department": "Architecture & Design", 
   "MoMANumber": "291.1980", 
+  "Date": "1931", 
   "ArtistBio": "(Dutch, 1885\u20131987)", 
-  "DateAcquired": "1980-01-08", 
-  "\ufeffTitle": "Architectuur, Frank Lloyd Wright, Tentoonstellung", 
+  "CuratorApproved": "Y", 
   "ObjectID": "6113"
 }

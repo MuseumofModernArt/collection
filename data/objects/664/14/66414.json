@@ -4,21 +4,20 @@
   "Classification": "Print", 
   "Artist": "Giorgio Morandi", 
   "URL": "http://www.moma.org/collection/works/66414", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1928, probably printed in the early 1940s", 
-  "ArtistID": 4079, 
+  "DateAcquired": "1949-05-26", 
   "Keywords": [
-    "online art collection", 
     "Giorgio Morandi", 
     "II Poggio al mattino (Hillside in the Morning)", 
     "1928", 
     "probably printed in the early 1940s"
   ], 
+  "ArtistID": 4079, 
+  "Title": "II Poggio al mattino (Hillside in the Morning)", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "300.1949", 
+  "Date": "1928, probably printed in the early 1940s", 
   "ArtistBio": "(Italian, 1890\u20131964)", 
-  "DateAcquired": "1949-05-26", 
-  "\ufeffTitle": "II Poggio al mattino (Hillside in the Morning)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "66414"
 }

@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Walter De Maria", 
   "URL": "http://www.moma.org/collection/works/80870", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1966", 
-  "ArtistID": 1433, 
+  "DateAcquired": "1972-02-08", 
   "Keywords": [
-    "online art collection", 
     "Walter De Maria", 
     "High Energy Bar and Certificate", 
     "1966"
   ], 
+  "ArtistID": 1433, 
+  "Title": "High Energy Bar and Certificate", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "38.1972.a-b", 
+  "Date": "1966", 
   "ArtistBio": "(American, 1935\u20132013)", 
-  "DateAcquired": "1972-02-08", 
-  "\ufeffTitle": "High Energy Bar and Certificate", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80870"
 }

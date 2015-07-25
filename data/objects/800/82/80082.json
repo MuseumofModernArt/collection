@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Atsuko Tanaka", 
   "URL": "http://www.moma.org/collection/works/80082", 
-  "CuratorApproved": "Y", 
   "CreditLine": "John G. Powers Fund", 
-  "Date": "1964", 
-  "ArtistID": 5799, 
+  "DateAcquired": "1965-06-08", 
   "Keywords": [
-    "online art collection", 
     "Atsuko Tanaka", 
     "Untitled", 
     "1964"
   ], 
+  "ArtistID": 5799, 
+  "Title": "Untitled", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "612.1965", 
+  "Date": "1964", 
   "ArtistBio": "(Japanese, 1932\u20132005)", 
-  "DateAcquired": "1965-06-08", 
-  "\ufeffTitle": "Untitled", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80082"
 }

@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Jack Youngerman", 
   "URL": "http://www.moma.org/collection/works/79751", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Ellsworth Kelly", 
-  "Date": "1959", 
-  "ArtistID": 6524, 
+  "DateAcquired": "1999-10-12", 
   "Keywords": [
-    "online art collection", 
     "Jack Youngerman", 
     "Ram", 
     "1959"
   ], 
+  "ArtistID": 6524, 
+  "Title": "Ram", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "324.1999", 
+  "Date": "1959", 
   "ArtistBio": "(American, born 1926)", 
-  "DateAcquired": "1999-10-12", 
-  "\ufeffTitle": "Ram", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79751"
 }

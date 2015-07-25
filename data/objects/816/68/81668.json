@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Alex Katz", 
   "URL": "http://www.moma.org/collection/works/81668", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Betsy Wittenborn Miller and Robert Miller", 
-  "Date": "1977", 
-  "ArtistID": 3016, 
+  "DateAcquired": "1994-12-08", 
   "Keywords": [
-    "online art collection", 
     "Alex Katz", 
     "Face of the Poet", 
     "1977"
   ], 
+  "ArtistID": 3016, 
+  "Title": "Face of the Poet", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "609.1994.a-n", 
+  "Date": "1977", 
   "ArtistBio": "(American, born 1927)", 
-  "DateAcquired": "1994-12-08", 
-  "\ufeffTitle": "Face of the Poet", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81668"
 }

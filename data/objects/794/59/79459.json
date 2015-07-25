@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Ronnie Landfield", 
   "URL": "http://www.moma.org/collection/works/79459", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Philip Johnson", 
-  "Date": "1969", 
-  "ArtistID": 3361, 
+  "DateAcquired": "1975-10-07", 
   "Keywords": [
-    "online art collection", 
     "Ronnie Landfield", 
     "Diamond Lake", 
     "1969"
   ], 
+  "ArtistID": 3361, 
+  "Title": "Diamond Lake", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "301.1975", 
+  "Date": "1969", 
   "ArtistBio": "(American, born 1947)", 
-  "DateAcquired": "1975-10-07", 
-  "\ufeffTitle": "Diamond Lake", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79459"
 }

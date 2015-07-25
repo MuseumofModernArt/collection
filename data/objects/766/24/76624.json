@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Robert Rauschenberg", 
   "URL": "http://www.moma.org/collection/works/76624", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the Celeste and Armand Bartos Foundation", 
-  "Date": "1968", 
-  "ArtistID": 4823, 
+  "DateAcquired": "1968-10-10", 
   "Keywords": [
-    "online art collection", 
     "Robert Rauschenberg", 
     "Water Stop", 
     "1968"
   ], 
+  "ArtistID": 4823, 
+  "Title": "Water Stop", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "1382.1968", 
+  "Date": "1968", 
   "ArtistBio": "(American, 1925\u20132008)", 
-  "DateAcquired": "1968-10-10", 
-  "\ufeffTitle": "Water Stop", 
+  "CuratorApproved": "Y", 
   "ObjectID": "76624"
 }

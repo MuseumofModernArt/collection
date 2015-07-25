@@ -4,12 +4,9 @@
   "Classification": "A&D Graphic Design", 
   "Artist": "E. McKnight Kauffer", 
   "URL": "http://www.moma.org/collection/works/6769", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the designer", 
-  "Date": "1922", 
-  "ArtistID": 3020, 
+  "DateAcquired": "1939-05-22", 
   "Keywords": [
-    "online art collection", 
     "E", 
     "McKnight Kauffer", 
     "The \"Rocket\" of Mr", 
@@ -19,10 +16,12 @@
     "South Kensington", 
     "1922"
   ], 
+  "ArtistID": 3020, 
+  "Title": "The \"Rocket\" of Mr. Stephenson of Newcastle, 1829, at the Museum of Science, South Kensington", 
   "Department": "Architecture & Design", 
   "MoMANumber": "379.1939", 
+  "Date": "1922", 
   "ArtistBio": "(American, 1890\u20131954)", 
-  "DateAcquired": "1939-05-22", 
-  "\ufeffTitle": "The \"Rocket\" of Mr. Stephenson of Newcastle, 1829, at the Museum of Science, South Kensington", 
+  "CuratorApproved": "Y", 
   "ObjectID": "6769"
 }

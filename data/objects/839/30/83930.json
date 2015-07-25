@@ -4,20 +4,19 @@
   "Classification": "Photograph", 
   "Artist": "Raoul Ubac", 
   "URL": "http://www.moma.org/collection/works/83930", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Thomas Walther Collection. Abbott-Levy Collection funds, by exchange", 
-  "Date": "1938", 
-  "ArtistID": 5997, 
+  "DateAcquired": "2001-12-13", 
   "Keywords": [
-    "online art collection", 
     "Raoul Ubac", 
     "The Secret Gathering", 
     "1938"
   ], 
+  "ArtistID": 5997, 
+  "Title": "The Secret Gathering", 
   "Department": "Photography", 
   "MoMANumber": "1884.2001", 
+  "Date": "1938", 
   "ArtistBio": "(Belgian, 1911\u20131985)", 
-  "DateAcquired": "2001-12-13", 
-  "\ufeffTitle": "The Secret Gathering", 
+  "CuratorApproved": "Y", 
   "ObjectID": "83930"
 }

@@ -4,21 +4,20 @@
   "Classification": "Photograph", 
   "Artist": "A. Le Blondel", 
   "URL": "http://www.moma.org/collection/works/49873", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The Family of Man Fund", 
-  "Date": "1857", 
-  "ArtistID": 3425, 
+  "DateAcquired": "1988-10-13", 
   "Keywords": [
-    "online art collection", 
     "A", 
     "Le Blondel", 
     "Portrait of a Woman and Child", 
     "1857"
   ], 
+  "ArtistID": 3425, 
+  "Title": "Portrait of a Woman and Child", 
   "Department": "Photography", 
   "MoMANumber": "276.1988", 
+  "Date": "1857", 
   "ArtistBio": "(French)", 
-  "DateAcquired": "1988-10-13", 
-  "\ufeffTitle": "Portrait of a Woman and Child", 
+  "CuratorApproved": "Y", 
   "ObjectID": "49873"
 }

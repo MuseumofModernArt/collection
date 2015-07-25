@@ -4,12 +4,9 @@
   "Classification": "A&D Architectural Drawing", 
   "Artist": "Friedrich St. Florian", 
   "URL": "http://www.moma.org/collection/works/914", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of The Howard Gilman Foundation", 
-  "Date": "1966", 
-  "ArtistID": 5580, 
+  "DateAcquired": "2000-10-31", 
   "Keywords": [
-    "online art collection", 
     "Friedrich St", 
     "Florian", 
     "Elements of the Vertical City", 
@@ -19,10 +16,12 @@
     "Axonometric of crown", 
     "1966"
   ], 
+  "ArtistID": 5580, 
+  "Title": "Elements of the Vertical City, project, Rome, Italy, Axonometric of crown", 
   "Department": "Architecture & Design", 
   "MoMANumber": "1291.2000.c", 
+  "Date": "1966", 
   "ArtistBio": "(American, born Austria 1932)", 
-  "DateAcquired": "2000-10-31", 
-  "\ufeffTitle": "Elements of the Vertical City, project, Rome, Italy, Axonometric of crown", 
+  "CuratorApproved": "Y", 
   "ObjectID": "914"
 }

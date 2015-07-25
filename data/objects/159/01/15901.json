@@ -4,12 +4,9 @@
   "Classification": "Periodical", 
   "Artist": "August Gaul", 
   "URL": "http://www.moma.org/collection/works/15901", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Mrs. Bertha M. Slattery", 
-  "Date": "1916", 
-  "ArtistID": 2099, 
+  "DateAcquired": "1952-05-07", 
   "Keywords": [
-    "online art collection", 
     "August Gaul", 
     "The Eagle (Der Adler) (front cover", 
     "folio 32) from the periodical Der Bildermann", 
@@ -19,10 +16,12 @@
     "16 (Nov 1916)", 
     "1916"
   ], 
+  "ArtistID": 2099, 
+  "Title": "The Eagle (Der Adler) (front cover, folio 32) from the periodical Der Bildermann, vol. 1, no. 16 (Nov 1916)", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "330.1952.61", 
+  "Date": "1916", 
   "ArtistBio": "(German, 1869\u20131921)", 
-  "DateAcquired": "1952-05-07", 
-  "\ufeffTitle": "The Eagle (Der Adler) (front cover, folio 32) from the periodical Der Bildermann, vol. 1, no. 16 (Nov 1916)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "15901"
 }

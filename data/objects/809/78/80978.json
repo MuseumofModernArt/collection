@@ -4,21 +4,20 @@
   "Classification": "Sculpture", 
   "Artist": "David Smith", 
   "URL": "http://www.moma.org/collection/works/80978", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Mrs. Simon Guggenheim Fund (by exchange) and gift of Candida and Rebecca Smith", 
-  "Date": "July 22, 1963", 
-  "ArtistID": 5480, 
+  "DateAcquired": "1984-03-20", 
   "Keywords": [
-    "online art collection", 
     "David Smith", 
     "Zig VII", 
     "July 22", 
     "1963"
   ], 
+  "ArtistID": 5480, 
+  "Title": "Zig VII", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "119.1984", 
+  "Date": "July 22, 1963", 
   "ArtistBio": "(American, 1906\u20131965)", 
-  "DateAcquired": "1984-03-20", 
-  "\ufeffTitle": "Zig VII", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80978"
 }

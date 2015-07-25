@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Morris Louis", 
   "URL": "http://www.moma.org/collection/works/78705", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Mr. and Mrs. Donald B. Straus", 
-  "Date": "1962", 
-  "ArtistID": 3607, 
+  "DateAcquired": "1991-04-08", 
   "Keywords": [
-    "online art collection", 
     "Morris Louis", 
     "Purple Fill", 
     "1962"
   ], 
+  "ArtistID": 3607, 
+  "Title": "Purple Fill", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "78.1991", 
+  "Date": "1962", 
   "ArtistBio": "(American, 1912\u20131962)", 
-  "DateAcquired": "1991-04-08", 
-  "\ufeffTitle": "Purple Fill", 
+  "CuratorApproved": "Y", 
   "ObjectID": "78705"
 }

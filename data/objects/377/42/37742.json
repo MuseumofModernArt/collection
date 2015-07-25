@@ -4,20 +4,19 @@
   "Classification": "Drawing", 
   "Artist": "Mark Tobey", 
   "URL": "http://www.moma.org/collection/works/37742", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The Sidney and Harriet Janis Collection", 
-  "Date": "1944", 
-  "ArtistID": 5889, 
+  "DateAcquired": "1967-10-18", 
   "Keywords": [
-    "online art collection", 
     "Mark Tobey", 
     "Fata Morgana", 
     "1944"
   ], 
+  "ArtistID": 5889, 
+  "Title": "Fata Morgana", 
   "Department": "Drawings", 
   "MoMANumber": "657.1967", 
+  "Date": "1944", 
   "ArtistBio": "(American, 1890\u20131976)", 
-  "DateAcquired": "1967-10-18", 
-  "\ufeffTitle": "Fata Morgana", 
+  "CuratorApproved": "Y", 
   "ObjectID": "37742"
 }

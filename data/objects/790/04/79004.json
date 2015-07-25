@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Max Weber", 
   "URL": "http://www.moma.org/collection/works/79004", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Abby Aldrich Rockefeller", 
-  "Date": "1925", 
-  "ArtistID": 6275, 
+  "DateAcquired": "1935-06-13", 
   "Keywords": [
-    "online art collection", 
     "Max Weber", 
     "Still Life with Chinese Tea Pot", 
     "1925"
   ], 
+  "ArtistID": 6275, 
+  "Title": "Still Life with Chinese Tea Pot", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "155.1935", 
+  "Date": "1925", 
   "ArtistBio": "(American, born Russia. 1881\u20131961)", 
-  "DateAcquired": "1935-06-13", 
-  "\ufeffTitle": "Still Life with Chinese Tea Pot", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79004"
 }

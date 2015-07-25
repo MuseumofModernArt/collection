@@ -4,20 +4,19 @@
   "Classification": "Drawing", 
   "Artist": "John Marin", 
   "URL": "http://www.moma.org/collection/works/33200", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Abby Aldrich Rockefeller (by exchange)", 
-  "Date": "1922", 
-  "ArtistID": 3770, 
+  "DateAcquired": "1936-01-14", 
   "Keywords": [
-    "online art collection", 
     "John Marin", 
     "Camden Mountain across the Bay", 
     "1922"
   ], 
+  "ArtistID": 3770, 
+  "Title": "Camden Mountain across the Bay", 
   "Department": "Drawings", 
   "MoMANumber": "16.1936", 
+  "Date": "1922", 
   "ArtistBio": "(American, 1870\u20131953)", 
-  "DateAcquired": "1936-01-14", 
-  "\ufeffTitle": "Camden Mountain across the Bay", 
+  "CuratorApproved": "Y", 
   "ObjectID": "33200"
 }

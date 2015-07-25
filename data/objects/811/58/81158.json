@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Jacques Lipchitz", 
   "URL": "http://www.moma.org/collection/works/81158", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Van Gogh Purchase Fund", 
-  "Date": "1926-30 (cast 1937)", 
-  "ArtistID": 3563, 
+  "DateAcquired": "1937-12-03", 
   "Keywords": [
-    "online art collection", 
     "Jacques Lipchitz", 
     "Figure", 
     "1926-30 (cast 1937)"
   ], 
+  "ArtistID": 3563, 
+  "Title": "Figure", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "214.1937", 
+  "Date": "1926-30 (cast 1937)", 
   "ArtistBio": "(American, born Lithuania. 1891\u20131973)", 
-  "DateAcquired": "1937-12-03", 
-  "\ufeffTitle": "Figure", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81158"
 }

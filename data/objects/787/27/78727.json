@@ -4,21 +4,20 @@
   "Classification": "Painting", 
   "Artist": "Natalia Goncharova", 
   "URL": "http://www.moma.org/collection/works/78727", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the artist", 
-  "Date": "1912", 
-  "ArtistID": 2229, 
+  "DateAcquired": "1937-05-11", 
   "Keywords": [
-    "online art collection", 
     "Natalia Goncharova", 
     "Landscape", 
     "47", 
     "1912"
   ], 
+  "ArtistID": 2229, 
+  "Title": "Landscape, 47", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "84.1936", 
+  "Date": "1912", 
   "ArtistBio": "(Russian, 1881\u20131962)", 
-  "DateAcquired": "1937-05-11", 
-  "\ufeffTitle": "Landscape, 47", 
+  "CuratorApproved": "Y", 
   "ObjectID": "78727"
 }

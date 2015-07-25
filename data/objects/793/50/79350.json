@@ -4,21 +4,20 @@
   "Classification": "Painting", 
   "Artist": "Henri Matisse", 
   "URL": "http://www.moma.org/collection/works/79350", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Abby Aldrich Rockefeller Fund", 
-  "Date": "Issy-les-Moulineaux, summer 1913", 
-  "ArtistID": 3832, 
+  "DateAcquired": "1939-04-13", 
   "Keywords": [
-    "online art collection", 
     "Henri Matisse", 
     "The Blue Window", 
     "Issy-les-Moulineaux", 
     "summer 1913"
   ], 
+  "ArtistID": 3832, 
+  "Title": "The Blue Window", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "273.1939", 
+  "Date": "Issy-les-Moulineaux, summer 1913", 
   "ArtistBio": "(French, 1869\u20131954)", 
-  "DateAcquired": "1939-04-13", 
-  "\ufeffTitle": "The Blue Window", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79350"
 }

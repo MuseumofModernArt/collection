@@ -4,12 +4,9 @@
   "Classification": "A&D Architectural Drawing", 
   "Artist": "Arata Isozaki", 
   "URL": "http://www.moma.org/collection/works/816", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of The Howard Gilman Foundation", 
-  "Date": "1968", 
-  "ArtistID": 2837, 
+  "DateAcquired": "2000-10-31", 
   "Keywords": [
-    "online art collection", 
     "Arata Isozaki", 
     "Re-ruined Hiroshima", 
     "project", 
@@ -18,10 +15,12 @@
     "Perspective", 
     "1968"
   ], 
+  "ArtistID": 2837, 
+  "Title": "Re-ruined Hiroshima, project , Hiroshima, Japan , Perspective", 
   "Department": "Architecture & Design", 
   "MoMANumber": "1205.2000", 
+  "Date": "1968", 
   "ArtistBio": "(Japanese, born 1931)", 
-  "DateAcquired": "2000-10-31", 
-  "\ufeffTitle": "Re-ruined Hiroshima, project , Hiroshima, Japan , Perspective", 
+  "CuratorApproved": "Y", 
   "ObjectID": "816"
 }

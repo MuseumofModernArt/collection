@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Pierre Alechinsky", 
   "URL": "http://www.moma.org/collection/works/76417", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Mr. and Mrs. E. Powis Jones Fund", 
-  "Date": "1966", 
-  "ArtistID": 107, 
+  "DateAcquired": "1968-10-10", 
   "Keywords": [
-    "online art collection", 
     "Pierre Alechinsky", 
     "Untitled from The Test of the Title (Le Test du titre)", 
     "1966"
   ], 
+  "ArtistID": 107, 
+  "Title": "Untitled from The Test of the Title (Le Test du titre)", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "1342.1968.2", 
+  "Date": "1966", 
   "ArtistBio": "(Belgian, born 1927)", 
-  "DateAcquired": "1968-10-10", 
-  "\ufeffTitle": "Untitled from The Test of the Title (Le Test du titre)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "76417"
 }

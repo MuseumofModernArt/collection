@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Umberto Boccioni", 
   "URL": "http://www.moma.org/collection/works/78653", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Nelson A. Rockefeller", 
-  "Date": "1911", 
-  "ArtistID": 624, 
+  "DateAcquired": "1979-03-13", 
   "Keywords": [
-    "online art collection", 
     "Umberto Boccioni", 
     "States of Mind II: Those Who Go", 
     "1911"
   ], 
+  "ArtistID": 624, 
+  "Title": "States of Mind II: Those Who Go", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "65.1979", 
+  "Date": "1911", 
   "ArtistBio": "(Italian, 1882\u20131916)", 
-  "DateAcquired": "1979-03-13", 
-  "\ufeffTitle": "States of Mind II: Those Who Go", 
+  "CuratorApproved": "Y", 
   "ObjectID": "78653"
 }

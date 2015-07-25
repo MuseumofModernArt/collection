@@ -4,12 +4,9 @@
   "Classification": "Photograph", 
   "Artist": "Charles H. Breed", 
   "URL": "http://www.moma.org/collection/works/45157", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "c. 1911", 
-  "ArtistID": 757, 
+  "DateAcquired": "1986-01-15", 
   "Keywords": [
-    "online art collection", 
     "Charles H", 
     "Breed", 
     "Mrs", 
@@ -18,10 +15,12 @@
     "c", 
     "1911"
   ], 
+  "ArtistID": 757, 
+  "Title": "Mrs. Frances Breed with her two children, Anne and Henry", 
   "Department": "Photography", 
   "MoMANumber": "57.1986", 
+  "Date": "c. 1911", 
   "ArtistBio": "(American, 1876\u20131950)", 
-  "DateAcquired": "1986-01-15", 
-  "\ufeffTitle": "Mrs. Frances Breed with her two children, Anne and Henry", 
+  "CuratorApproved": "Y", 
   "ObjectID": "45157"
 }

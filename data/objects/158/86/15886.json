@@ -4,12 +4,9 @@
   "Classification": "Periodical", 
   "Artist": "Oskar Kokoschka", 
   "URL": "http://www.moma.org/collection/works/15886", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Mrs. Bertha M. Slattery", 
-  "Date": "1916", 
-  "ArtistID": 3197, 
+  "DateAcquired": "1952-05-07", 
   "Keywords": [
-    "online art collection", 
     "Oskar Kokoschka", 
     "The Crucifixion (Der Gekreuzigte) (plate", 
     "foilo 25 verso) from the periodical Der Bildermann", 
@@ -19,10 +16,12 @@
     "12 (Sept 1916)", 
     "1916"
   ], 
+  "ArtistID": 3197, 
+  "Title": "The Crucifixion (Der Gekreuzigte) (plate, foilo 25 verso) from the periodical Der Bildermann, vol. 1, no. 12 (Sept 1916)", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "330.1952.48", 
+  "Date": "1916", 
   "ArtistBio": "(Austrian, 1886\u20131980)", 
-  "DateAcquired": "1952-05-07", 
-  "\ufeffTitle": "The Crucifixion (Der Gekreuzigte) (plate, foilo 25 verso) from the periodical Der Bildermann, vol. 1, no. 12 (Sept 1916)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "15886"
 }

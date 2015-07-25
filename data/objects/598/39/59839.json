@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Alex Katz", 
   "URL": "http://www.moma.org/collection/works/59839", 
-  "CuratorApproved": "Y", 
   "CreditLine": "John R. Jakobson Foundation Fund", 
-  "Date": "1974", 
-  "ArtistID": 3016, 
+  "DateAcquired": "1975-01-07", 
   "Keywords": [
-    "online art collection", 
     "Alex Katz", 
     "The Swimmer", 
     "1974"
   ], 
+  "ArtistID": 3016, 
+  "Title": "The Swimmer", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "11.1975", 
+  "Date": "1974", 
   "ArtistBio": "(American, born 1927)", 
-  "DateAcquired": "1975-01-07", 
-  "\ufeffTitle": "The Swimmer", 
+  "CuratorApproved": "Y", 
   "ObjectID": "59839"
 }

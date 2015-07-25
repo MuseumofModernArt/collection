@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Paul Klee", 
   "URL": "http://www.moma.org/collection/works/78806", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Sidney and Harriet Janis Collection Fund", 
-  "Date": "1931", 
-  "ArtistID": 3130, 
+  "DateAcquired": "1982-04-06", 
   "Keywords": [
-    "online art collection", 
     "Paul Klee", 
     "Castle Garden", 
     "1931"
   ], 
+  "ArtistID": 3130, 
+  "Title": "Castle Garden", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "106.1982", 
+  "Date": "1931", 
   "ArtistBio": "(German, born Switzerland. 1879\u20131940)", 
-  "DateAcquired": "1982-04-06", 
-  "\ufeffTitle": "Castle Garden", 
+  "CuratorApproved": "Y", 
   "ObjectID": "78806"
 }

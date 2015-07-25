@@ -4,21 +4,20 @@
   "Classification": "Print", 
   "Artist": "Jackson Pollock", 
   "URL": "http://www.moma.org/collection/works/60976", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Acquired through the generosity of Agnes Gund and Daniel Shapiro, in honor of Lily Auchincloss", 
-  "Date": "c. 1943-44", 
-  "ArtistID": 4675, 
+  "DateAcquired": "1996-03-12", 
   "Keywords": [
-    "online art collection", 
     "Jackson Pollock", 
     "Untitled", 
     "(c", 
     "1943-44)"
   ], 
+  "ArtistID": 4675, 
+  "Title": "Untitled", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "52.1996", 
+  "Date": "c. 1943-44", 
   "ArtistBio": "(American, 1912\u20131956)", 
-  "DateAcquired": "1996-03-12", 
-  "\ufeffTitle": "Untitled", 
+  "CuratorApproved": "Y", 
   "ObjectID": "60976"
 }

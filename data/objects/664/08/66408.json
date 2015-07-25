@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "George Barker", 
   "URL": "http://www.moma.org/collection/works/66408", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1972", 
-  "ArtistID": 333, 
+  "DateAcquired": "1973-10-24", 
   "Keywords": [
-    "online art collection", 
     "George Barker", 
     "Two Slightly Different Views", 
     "1972"
   ], 
+  "ArtistID": 333, 
+  "Title": "Two Slightly Different Views", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "299.1973", 
+  "Date": "1972", 
   "ArtistBio": "(Australian, born 1942)", 
-  "DateAcquired": "1973-10-24", 
-  "\ufeffTitle": "Two Slightly Different Views", 
+  "CuratorApproved": "Y", 
   "ObjectID": "66408"
 }

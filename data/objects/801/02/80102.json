@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Manoucher Yektai", 
   "URL": "http://www.moma.org/collection/works/80102", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Mr. and Mrs. Bernard J. Reis", 
-  "Date": "February 1959", 
-  "ArtistID": 6497, 
+  "DateAcquired": "1959-04-22", 
   "Keywords": [
-    "online art collection", 
     "Manoucher Yektai", 
     "Still Life D", 
     "February 1959"
   ], 
+  "ArtistID": 6497, 
+  "Title": "Still Life D", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "618.1959", 
+  "Date": "February 1959", 
   "ArtistBio": "(American, born 1921)", 
-  "DateAcquired": "1959-04-22", 
-  "\ufeffTitle": "Still Life D", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80102"
 }

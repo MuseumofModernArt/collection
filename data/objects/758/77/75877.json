@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Edvard Munch", 
   "URL": "http://www.moma.org/collection/works/75877", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The William B. Jaffe and Evelyn A.J. Hall Collection", 
-  "Date": "1895", 
-  "ArtistID": 4164, 
+  "DateAcquired": "1968-10-10", 
   "Keywords": [
-    "online art collection", 
     "Edvard Munch", 
     "Kyss (The Kiss)", 
     "1895"
   ], 
+  "ArtistID": 4164, 
+  "Title": "The Kiss (Kyss)", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "1163.1968", 
+  "Date": "1895", 
   "ArtistBio": "(Norwegian, 1863\u20131944)", 
-  "DateAcquired": "1968-10-10", 
-  "\ufeffTitle": "The Kiss (Kyss)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "75877"
 }

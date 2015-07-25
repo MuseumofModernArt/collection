@@ -4,21 +4,20 @@
   "Classification": "Painting", 
   "Artist": "Georges-Pierre Seurat", 
   "URL": "http://www.moma.org/collection/works/78912", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Lillie P. Bliss Collection", 
-  "Date": "1888", 
-  "ArtistID": 5358, 
+  "DateAcquired": "1934-09-23", 
   "Keywords": [
-    "online art collection", 
     "Georges-Pierre Seurat", 
     "Port-en-Bessin", 
     "Entrance to the Harbor", 
     "1888"
   ], 
+  "ArtistID": 5358, 
+  "Title": "Port-en-Bessin, Entrance to the Harbor", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "126.1934", 
+  "Date": "1888", 
   "ArtistBio": "(French, 1859\u20131891)", 
-  "DateAcquired": "1934-09-23", 
-  "\ufeffTitle": "Port-en-Bessin, Entrance to the Harbor", 
+  "CuratorApproved": "Y", 
   "ObjectID": "78912"
 }

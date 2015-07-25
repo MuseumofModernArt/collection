@@ -4,20 +4,19 @@
   "Classification": "Drawing", 
   "Artist": "Andr\u00e9 Masson", 
   "URL": "http://www.moma.org/collection/works/34438", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Acquired through the Lillie P. Bliss Bequest", 
-  "Date": "(1944)", 
-  "ArtistID": 3821, 
+  "DateAcquired": "1944-06-08", 
   "Keywords": [
-    "online art collection", 
     "Andr&eacute; Masson", 
     "Werewolf", 
     "(1944)"
   ], 
+  "ArtistID": 3821, 
+  "Title": "Werewolf", 
   "Department": "Drawings", 
   "MoMANumber": "126.1944", 
+  "Date": "(1944)", 
   "ArtistBio": "(French, 1896\u20131987)", 
-  "DateAcquired": "1944-06-08", 
-  "\ufeffTitle": "Werewolf", 
+  "CuratorApproved": "Y", 
   "ObjectID": "34438"
 }

@@ -4,21 +4,20 @@
   "Classification": "Print", 
   "Artist": "Wilhelm Lehmbruck", 
   "URL": "http://www.moma.org/collection/works/68323", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Abby Aldrich Rockefeller", 
-  "Date": "(1911, printed  1920)", 
-  "ArtistID": 3464, 
+  "DateAcquired": "1940-04-05", 
   "Keywords": [
-    "online art collection", 
     "Wilhelm Lehmbruck", 
     "John the Baptist (Johannes)", 
     "(1911", 
     "printed  1920)"
   ], 
+  "ArtistID": 3464, 
+  "Title": "John the Baptist (Johannes)", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "392.1940", 
+  "Date": "(1911, printed  1920)", 
   "ArtistBio": "(German, 1881\u20131919)", 
-  "DateAcquired": "1940-04-05", 
-  "\ufeffTitle": "John the Baptist (Johannes)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "68323"
 }

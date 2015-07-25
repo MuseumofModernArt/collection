@@ -4,12 +4,9 @@
   "Classification": "A&D Architectural Model", 
   "Artist": "R. Buckminster Fuller", 
   "URL": "http://www.moma.org/collection/works/82394", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the architect", 
-  "Date": "1944-46", 
-  "ArtistID": 2030, 
+  "DateAcquired": "1947-01-01", 
   "Keywords": [
-    "online art collection", 
     "R", 
     "Buckminster Fuller", 
     "Dymaxion Dwelling Machine", 
@@ -17,10 +14,12 @@
     "Kansas", 
     "1944-46"
   ], 
+  "ArtistID": 2030, 
+  "Title": "Dymaxion Dwelling Machine, Wichita, Kansas", 
   "Department": "Architecture & Design", 
   "MoMANumber": "MC 22", 
+  "Date": "1944-46", 
   "ArtistBio": "(American, 1895\u20131983)", 
-  "DateAcquired": "1947-01-01", 
-  "\ufeffTitle": "Dymaxion Dwelling Machine, Wichita, Kansas", 
+  "CuratorApproved": "Y", 
   "ObjectID": "82394"
 }

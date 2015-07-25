@@ -4,20 +4,19 @@
   "Classification": "Drawing", 
   "Artist": "Aleksandr Rodchenko", 
   "URL": "http://www.moma.org/collection/works/33112", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Given anonymously", 
-  "Date": "1920", 
-  "ArtistID": 4975, 
+  "DateAcquired": "1940-04-05", 
   "Keywords": [
-    "online art collection", 
     "Aleksandr Rodchenko", 
     "Construction", 
     "1920"
   ], 
+  "ArtistID": 4975, 
+  "Title": "Construction", 
   "Department": "Drawings", 
   "MoMANumber": "11.1940", 
+  "Date": "1920", 
   "ArtistBio": "(Russian, 1891\u20131956)", 
-  "DateAcquired": "1940-04-05", 
-  "\ufeffTitle": "Construction", 
+  "CuratorApproved": "Y", 
   "ObjectID": "33112"
 }

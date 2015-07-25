@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Adolph Gottlieb", 
   "URL": "http://www.moma.org/collection/works/80552", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the artist", 
-  "Date": "1956", 
-  "ArtistID": 2268, 
+  "DateAcquired": "1970-02-10", 
   "Keywords": [
-    "online art collection", 
     "Adolph Gottlieb", 
     "Descending Arrow", 
     "1956"
   ], 
+  "ArtistID": 2268, 
+  "Title": "Descending Arrow", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "1087.1969", 
+  "Date": "1956", 
   "ArtistBio": "(American, 1903\u20131974)", 
-  "DateAcquired": "1970-02-10", 
-  "\ufeffTitle": "Descending Arrow", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80552"
 }

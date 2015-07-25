@@ -4,21 +4,20 @@
   "Classification": "Sculpture", 
   "Artist": "William Tucker", 
   "URL": "http://www.moma.org/collection/works/81049", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Anne and Sid Bass and Blanchette Hooker Rockefeller Funds", 
-  "Date": "1984 (cast 1985)", 
-  "ArtistID": 5963, 
+  "DateAcquired": "1986-04-07", 
   "Keywords": [
-    "online art collection", 
     "William Tucker", 
     "Gymnast", 
     "II", 
     "1984 (cast 1985)"
   ], 
+  "ArtistID": 5963, 
+  "Title": "Gymnast, II", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "159.1986", 
+  "Date": "1984 (cast 1985)", 
   "ArtistBio": "(American, born Egypt 1935)", 
-  "DateAcquired": "1986-04-07", 
-  "\ufeffTitle": "Gymnast, II", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81049"
 }

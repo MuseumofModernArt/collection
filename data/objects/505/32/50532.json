@@ -4,21 +4,20 @@
   "Classification": "Photograph", 
   "Artist": "Henri Cartier-Bresson", 
   "URL": "http://www.moma.org/collection/works/50532", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Willard Van Dyke", 
-  "Date": "1934-35", 
-  "ArtistID": 1000, 
+  "DateAcquired": "1975-10-23", 
   "Keywords": [
-    "online art collection", 
     "Henri Cartier-Bresson", 
     "Santa Clara", 
     "Mexico", 
     "1934-35"
   ], 
+  "ArtistID": 1000, 
+  "Title": "Santa Clara, Mexico", 
   "Department": "Photography", 
   "MoMANumber": "313.1975", 
+  "Date": "1934-35", 
   "ArtistBio": "(French, 1908\u20132004)", 
-  "DateAcquired": "1975-10-23", 
-  "\ufeffTitle": "Santa Clara, Mexico", 
+  "CuratorApproved": "Y", 
   "ObjectID": "50532"
 }

@@ -4,11 +4,9 @@
   "Classification": "A&D Architectural Model", 
   "Artist": "Tom Wiscombe", 
   "URL": "http://www.moma.org/collection/works/98824", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the architect", 
-  "Date": "2003", 
+  "DateAcquired": "2005-10-18", 
   "Keywords": [
-    "online art collection", 
     "Tom Wiscombe", 
     "Light-Wing", 
     "Long Island City", 
@@ -16,10 +14,11 @@
     "Scale model 1:25", 
     "2003"
   ], 
+  "Title": "Light-Wing, Long Island City, New York, Scale model 1:25", 
   "Department": "Architecture & Design", 
   "MoMANumber": "830.2005", 
+  "Date": "2003", 
   "ArtistBio": "(American, born 1970)", 
-  "DateAcquired": "2005-10-18", 
-  "\ufeffTitle": "Light-Wing, Long Island City, New York, Scale model 1:25", 
+  "CuratorApproved": "Y", 
   "ObjectID": "98824"
 }

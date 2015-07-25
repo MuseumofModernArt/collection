@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Roy Lichtenstein", 
   "URL": "http://www.moma.org/collection/works/68161", 
-  "CuratorApproved": "Y", 
   "CreditLine": "President's Fund Purchase, 1987, Donald B. Marron, President", 
-  "Date": "1972", 
-  "ArtistID": 3542, 
+  "DateAcquired": "1987-10-20", 
   "Keywords": [
-    "online art collection", 
     "Roy Lichtenstein", 
     "Mirror #8 from the Mirror Series", 
     "1972"
   ], 
+  "ArtistID": 3542, 
+  "Title": "Mirror #8 from the Mirror Series", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "382.1987", 
+  "Date": "1972", 
   "ArtistBio": "(American, 1923\u20131997)", 
-  "DateAcquired": "1987-10-20", 
-  "\ufeffTitle": "Mirror #8 from the Mirror Series", 
+  "CuratorApproved": "Y", 
   "ObjectID": "68161"
 }

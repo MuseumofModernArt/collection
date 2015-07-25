@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Medardo Rosso", 
   "URL": "http://www.moma.org/collection/works/81460", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Harriet H. Jonas Bequest", 
-  "Date": "1892", 
-  "ArtistID": 5036, 
+  "DateAcquired": "1974-10-08", 
   "Keywords": [
-    "online art collection", 
     "Medardo Rosso", 
     "Jewish Boy", 
     "1892"
   ], 
+  "ArtistID": 5036, 
+  "Title": "Jewish Boy", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "425.1974", 
+  "Date": "1892", 
   "ArtistBio": "(Italian, 1858\u20131928)", 
-  "DateAcquired": "1974-10-08", 
-  "\ufeffTitle": "Jewish Boy", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81460"
 }

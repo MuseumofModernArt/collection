@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Alberto Giacometti", 
   "URL": "http://www.moma.org/collection/works/78448", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Acquired through the Lillie P. Bliss Bequest", 
-  "Date": "1950", 
-  "ArtistID": 2141, 
+  "DateAcquired": "1953-01-30", 
   "Keywords": [
-    "online art collection", 
     "Alberto Giacometti", 
     "The Artist's Mother", 
     "1950"
   ], 
+  "ArtistID": 2141, 
+  "Title": "The Artist's Mother", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "15.1953", 
+  "Date": "1950", 
   "ArtistBio": "(Swiss, 1901\u20131966)", 
-  "DateAcquired": "1953-01-30", 
-  "\ufeffTitle": "The Artist's Mother", 
+  "CuratorApproved": "Y", 
   "ObjectID": "78448"
 }

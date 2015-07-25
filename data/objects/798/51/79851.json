@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Agust\u00edn Fern\u00e1ndez", 
   "URL": "http://www.moma.org/collection/works/79851", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Inter-American Fund", 
-  "Date": "1964", 
-  "ArtistID": 1854, 
+  "DateAcquired": "1965-06-08", 
   "Keywords": [
-    "online art collection", 
     "Agust&iacute;n Fern&aacute;ndez", 
     "Untitled", 
     "1964"
   ], 
+  "ArtistID": 1854, 
+  "Title": "Untitled", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "504.1965", 
+  "Date": "1964", 
   "ArtistBio": "(Cuban, 1928\u20132006)", 
-  "DateAcquired": "1965-06-08", 
-  "\ufeffTitle": "Untitled", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79851"
 }

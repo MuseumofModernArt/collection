@@ -4,21 +4,20 @@
   "Classification": "Print", 
   "Artist": "Various Artists", 
   "URL": "http://www.moma.org/collection/works/72039", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Andrew and Mary Stasik", 
-  "Date": "(1966-70, published 1970)", 
-  "ArtistID": 6104, 
+  "DateAcquired": "1970-12-15", 
   "Keywords": [
-    "online art collection", 
     "Various Artists", 
     "Eastern European Prints", 
     "(1966-70", 
     "published 1970)"
   ], 
+  "ArtistID": 6104, 
+  "Title": "Eastern European Prints", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "625.1970.1-10", 
+  "Date": "(1966-70, published 1970)", 
   "ArtistBio": "(Various)", 
-  "DateAcquired": "1970-12-15", 
-  "\ufeffTitle": "Eastern European Prints", 
+  "CuratorApproved": "Y", 
   "ObjectID": "72039"
 }

@@ -4,21 +4,20 @@
   "Classification": "Print", 
   "Artist": "John Marin", 
   "URL": "http://www.moma.org/collection/works/61561", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1913", 
-  "ArtistID": 3770, 
+  "DateAcquired": "1955-04-06", 
   "Keywords": [
-    "online art collection", 
     "John Marin", 
     "Brooklyn Bridge No", 
     "2", 
     "1913"
   ], 
+  "ArtistID": 3770, 
+  "Title": "Brooklyn Bridge No. 2", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "83.1955", 
+  "Date": "1913", 
   "ArtistBio": "(American, 1870\u20131953)", 
-  "DateAcquired": "1955-04-06", 
-  "\ufeffTitle": "Brooklyn Bridge No. 2", 
+  "CuratorApproved": "Y", 
   "ObjectID": "61561"
 }

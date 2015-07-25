@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Jackson Pollock", 
   "URL": "http://www.moma.org/collection/works/79683", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Enid A. Haupt Fund", 
-  "Date": "1941", 
-  "ArtistID": 4675, 
+  "DateAcquired": "1980-04-09", 
   "Keywords": [
-    "online art collection", 
     "Jackson Pollock", 
     "Mask", 
     "1941"
   ], 
+  "ArtistID": 4675, 
+  "Title": "Mask", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "427.1980", 
+  "Date": "1941", 
   "ArtistBio": "(American, 1912\u20131956)", 
-  "DateAcquired": "1980-04-09", 
-  "\ufeffTitle": "Mask", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79683"
 }

@@ -4,12 +4,9 @@
   "Classification": "A&D Architectural Drawing", 
   "Artist": "Paul Rudolph", 
   "URL": "http://www.moma.org/collection/works/191", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the architect", 
-  "Date": "1949", 
-  "ArtistID": 5076, 
+  "DateAcquired": "1989-05-16", 
   "Keywords": [
-    "online art collection", 
     "Paul Rudolph", 
     "Finney Guest House Project", 
     "Siesta Key", 
@@ -17,10 +14,12 @@
     "Aerial perspective", 
     "1949"
   ], 
+  "ArtistID": 5076, 
+  "Title": "Finney Guest House Project, Siesta Key, Florida, Aerial perspective", 
   "Department": "Architecture & Design", 
   "MoMANumber": "97.1989", 
+  "Date": "1949", 
   "ArtistBio": "(American, 1918\u20131997)", 
-  "DateAcquired": "1989-05-16", 
-  "\ufeffTitle": "Finney Guest House Project, Siesta Key, Florida, Aerial perspective", 
+  "CuratorApproved": "Y", 
   "ObjectID": "191"
 }

@@ -4,22 +4,21 @@
   "Classification": "Print", 
   "Artist": "Max Beckmann", 
   "URL": "http://www.moma.org/collection/works/78151", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "(1922)", 
-  "ArtistID": 429, 
+  "DateAcquired": "1967-12-13", 
   "Keywords": [
-    "online art collection", 
     "Max Beckmann", 
     "Portrait of Dr", 
     "Heinrich Simon (Bildnis Dr", 
     "Heinrich Simon)", 
     "(1922)"
   ], 
+  "ArtistID": 429, 
+  "Title": "Portrait of Dr. Heinrich Simon (Bildnis Dr. Heinrich Simon)", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "2422.1967", 
+  "Date": "(1922)", 
   "ArtistBio": "(German, 1884\u20131950)", 
-  "DateAcquired": "1967-12-13", 
-  "\ufeffTitle": "Portrait of Dr. Heinrich Simon (Bildnis Dr. Heinrich Simon)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "78151"
 }

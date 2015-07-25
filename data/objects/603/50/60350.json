@@ -4,12 +4,9 @@
   "Classification": "Print", 
   "Artist": "Various Artists, Carolee Schneemann, Kay Rosen, Davi Det Hompson, Ann Fessler, Charles Brohawn, Chris Mason, Cliff Baldwin", 
   "URL": "http://www.moma.org/collection/works/60350", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1991", 
-  "ArtistID": 6104, 
+  "DateAcquired": "1993-01-18", 
   "Keywords": [
-    "online art collection", 
     "Various Artists with Carolee Schneemann", 
     "Kay Rosen", 
     "Davi Det Hompson", 
@@ -19,10 +16,12 @@
     "Nine is a Four Letter Word", 
     "1991"
   ], 
+  "ArtistID": 6104, 
+  "Title": "Nine is a Four Letter Word", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "25.1993.1-9", 
+  "Date": "1991", 
   "ArtistBio": "(Various) (American, born 1939) (American, born 1947)", 
-  "DateAcquired": "1993-01-18", 
-  "\ufeffTitle": "Nine is a Four Letter Word", 
+  "CuratorApproved": "Y", 
   "ObjectID": "60350"
 }

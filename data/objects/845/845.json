@@ -4,12 +4,9 @@
   "Classification": "A&D Architectural Drawing", 
   "Artist": "Cedric Price", 
   "URL": "http://www.moma.org/collection/works/845", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of The Howard Gilman Foundation", 
-  "Date": "1959-61", 
-  "ArtistID": 7986, 
+  "DateAcquired": "2000-10-31", 
   "Keywords": [
-    "online art collection", 
     "Cedric Price", 
     "Fun Palace for Joan Littlewood Project", 
     "Stratford East", 
@@ -18,10 +15,12 @@
     "Perspective", 
     "1959-61"
   ], 
+  "ArtistID": 7986, 
+  "Title": "Fun Palace for Joan Littlewood Project, Stratford East, London, England, Perspective", 
   "Department": "Architecture & Design", 
   "MoMANumber": "1234.2000", 
+  "Date": "1959-61", 
   "ArtistBio": "(British, 1934\u20132003)", 
-  "DateAcquired": "2000-10-31", 
-  "\ufeffTitle": "Fun Palace for Joan Littlewood Project, Stratford East, London, England, Perspective", 
+  "CuratorApproved": "Y", 
   "ObjectID": "845"
 }

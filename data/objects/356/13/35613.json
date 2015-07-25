@@ -4,20 +4,19 @@
   "Classification": "Drawing", 
   "Artist": "Auguste Rodin", 
   "URL": "http://www.moma.org/collection/works/35613", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Bequest of Mina Turner", 
-  "Date": "(1900-06)", 
-  "ArtistID": 4978, 
+  "DateAcquired": "1976-06-02", 
   "Keywords": [
-    "online art collection", 
     "Auguste Rodin", 
     "Kneeling Woman", 
     "(1900-06)"
   ], 
+  "ArtistID": 4978, 
+  "Title": "Kneeling Woman", 
   "Department": "Drawings", 
   "MoMANumber": "252.1976", 
+  "Date": "(1900-06)", 
   "ArtistBio": "(French, 1840\u20131917)", 
-  "DateAcquired": "1976-06-02", 
-  "\ufeffTitle": "Kneeling Woman", 
+  "CuratorApproved": "Y", 
   "ObjectID": "35613"
 }

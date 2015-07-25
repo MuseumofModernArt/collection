@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Al Held", 
   "URL": "http://www.moma.org/collection/works/68697", 
-  "CuratorApproved": "Y", 
   "CreditLine": "John B. Turner Fund", 
-  "Date": "1990", 
-  "ArtistID": 2583, 
+  "DateAcquired": "1990-10-23", 
   "Keywords": [
-    "online art collection", 
     "Al Held", 
     "Mark's Maze", 
     "1990"
   ], 
+  "ArtistID": 2583, 
+  "Title": "Mark's Maze", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "414.1990.a-b", 
+  "Date": "1990", 
   "ArtistBio": "(American, 1928\u20132005)", 
-  "DateAcquired": "1990-10-23", 
-  "\ufeffTitle": "Mark's Maze", 
+  "CuratorApproved": "Y", 
   "ObjectID": "68697"
 }

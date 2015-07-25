@@ -4,20 +4,19 @@
   "Classification": "A&D Graphic Design", 
   "Artist": "Emile Preetorius", 
   "URL": "http://www.moma.org/collection/works/6000", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of The Lauder Foundation, Leonard and Evelyn Lauder Fund", 
-  "Date": "1910", 
-  "ArtistID": 4725, 
+  "DateAcquired": "1986-10-07", 
   "Keywords": [
-    "online art collection", 
     "Emile Preetorius", 
     "Licht und Schatten (Light and Shadow)", 
     "1910"
   ], 
+  "ArtistID": 4725, 
+  "Title": "Licht und Schatten (Light and Shadow)", 
   "Department": "Architecture & Design", 
   "MoMANumber": "274.1986", 
+  "Date": "1910", 
   "ArtistBio": "(German, 1883\u20131973)", 
-  "DateAcquired": "1986-10-07", 
-  "\ufeffTitle": "Licht und Schatten (Light and Shadow)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "6000"
 }

@@ -4,20 +4,19 @@
   "Classification": "Photograph", 
   "Artist": "Underwood and Underwood", 
   "URL": "http://www.moma.org/collection/works/58798", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The New York Times Collection", 
-  "Date": "1918", 
-  "ArtistID": 6008, 
+  "DateAcquired": "2001-06-14", 
   "Keywords": [
-    "online art collection", 
     "Underwood and Underwood", 
     "French Machine Gunners Firing at Retreating Germans", 
     "1918"
   ], 
+  "ArtistID": 6008, 
+  "Title": "French Machine Gunners Firing at Retreating Germans", 
   "Department": "Photography", 
   "MoMANumber": "2205.2001", 
+  "Date": "1918", 
   "ArtistBio": "(American, active 1880\u20131934)", 
-  "DateAcquired": "2001-06-14", 
-  "\ufeffTitle": "French Machine Gunners Firing at Retreating Germans", 
+  "CuratorApproved": "Y", 
   "ObjectID": "58798"
 }

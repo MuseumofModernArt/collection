@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Paul Klee", 
   "URL": "http://www.moma.org/collection/works/80094", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The Sidney and Harriet Janis Collection", 
-  "Date": "1924", 
-  "ArtistID": 3130, 
+  "DateAcquired": "1969-07-22", 
   "Keywords": [
-    "online art collection", 
     "Paul Klee", 
     "Actor's Mask", 
     "1924"
   ], 
+  "ArtistID": 3130, 
+  "Title": "Actor's Mask", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "616.1967", 
+  "Date": "1924", 
   "ArtistBio": "(German, born Switzerland. 1879\u20131940)", 
-  "DateAcquired": "1969-07-22", 
-  "\ufeffTitle": "Actor's Mask", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80094"
 }

@@ -4,20 +4,19 @@
   "Classification": "Drawing", 
   "Artist": "Georges Rouault", 
   "URL": "http://www.moma.org/collection/works/33219", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Sam A. Lewisohn Bequest", 
-  "Date": "1913", 
-  "ArtistID": 5053, 
+  "DateAcquired": "1952-01-22", 
   "Keywords": [
-    "online art collection", 
     "Georges Rouault", 
     "The Three Judges", 
     "1913"
   ], 
+  "ArtistID": 5053, 
+  "Title": "The Three Judges", 
   "Department": "Drawings", 
   "MoMANumber": "17.1952", 
+  "Date": "1913", 
   "ArtistBio": "(French, 1871\u20131958)", 
-  "DateAcquired": "1952-01-22", 
-  "\ufeffTitle": "The Three Judges", 
+  "CuratorApproved": "Y", 
   "ObjectID": "33219"
 }

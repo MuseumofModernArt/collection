@@ -4,12 +4,9 @@
   "Classification": "Photograph", 
   "Artist": "Unknown photographer", 
   "URL": "http://www.moma.org/collection/works/83353", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "November 29, 1915", 
-  "ArtistID": 6028, 
+  "DateAcquired": "1971-11-10", 
   "Keywords": [
-    "online art collection", 
     "Unknown Photographer", 
     "Balboa Terminals", 
     "Reloader Wharf", 
@@ -18,10 +15,12 @@
     "November 29", 
     "1915"
   ], 
+  "ArtistID": 6028, 
+  "Title": "Balboa Terminals. Reloader Wharf, Coaling Plant. Foundations and excavation for Anchor Wall at rear of dock", 
   "Department": "Photography", 
   "MoMANumber": "570.1971.39", 
+  "Date": "November 29, 1915", 
   "ArtistBio": "", 
-  "DateAcquired": "1971-11-10", 
-  "\ufeffTitle": "Balboa Terminals. Reloader Wharf, Coaling Plant. Foundations and excavation for Anchor Wall at rear of dock", 
+  "CuratorApproved": "Y", 
   "ObjectID": "83353"
 }

@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Auguste Rodin", 
   "URL": "http://www.moma.org/collection/works/81472", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of The Cantor, Fitzgerald Collection", 
-  "Date": "1896 (cast 1970)", 
-  "ArtistID": 4978, 
+  "DateAcquired": "1976-10-12", 
   "Keywords": [
-    "online art collection", 
     "Auguste Rodin", 
     "Headless Naked Figure Study for Balzac", 
     "1896 (cast 1970)"
   ], 
+  "ArtistID": 4978, 
+  "Title": "Headless Naked Figure Study for Balzac", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "436.1975", 
+  "Date": "1896 (cast 1970)", 
   "ArtistBio": "(French, 1840\u20131917)", 
-  "DateAcquired": "1976-10-12", 
-  "\ufeffTitle": "Headless Naked Figure Study for Balzac", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81472"
 }

@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Jim Dine", 
   "URL": "http://www.moma.org/collection/works/65282", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Celeste Bartos", 
-  "Date": "1975", 
-  "ArtistID": 1547, 
+  "DateAcquired": "1975-10-07", 
   "Keywords": [
-    "online art collection", 
     "Jim Dine", 
     "A Hand Painted Self Portrait", 
     "1975"
   ], 
+  "ArtistID": 1547, 
+  "Title": "A Hand Painted Self Portrait", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "252.1975", 
+  "Date": "1975", 
   "ArtistBio": "(American, born 1935)", 
-  "DateAcquired": "1975-10-07", 
-  "\ufeffTitle": "A Hand Painted Self Portrait", 
+  "CuratorApproved": "Y", 
   "ObjectID": "65282"
 }

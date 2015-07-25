@@ -4,12 +4,9 @@
   "Classification": "Print", 
   "Artist": "Pablo Picasso", 
   "URL": "http://www.moma.org/collection/works/71392", 
-  "CuratorApproved": "Y", 
   "CreditLine": "James Thrall Soby Fund", 
-  "Date": "(september 8, 1964)", 
-  "ArtistID": 4609, 
+  "DateAcquired": "1965-06-08", 
   "Keywords": [
-    "online art collection", 
     "Pablo Picasso", 
     "The Smoker", 
     "V (Fumeur", 
@@ -17,10 +14,12 @@
     "(september 8", 
     "1964)"
   ], 
+  "ArtistID": 4609, 
+  "Title": "The Smoker. V (Fumeur. V)", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "577.1965", 
+  "Date": "(september 8, 1964)", 
   "ArtistBio": "(Spanish, 1881\u20131973)", 
-  "DateAcquired": "1965-06-08", 
-  "\ufeffTitle": "The Smoker. V (Fumeur. V)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "71392"
 }

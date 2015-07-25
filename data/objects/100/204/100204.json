@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Jake Berthot", 
   "URL": "http://www.moma.org/collection/works/100204", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Edward R. Broida", 
-  "Date": "1985", 
-  "ArtistID": 529, 
+  "DateAcquired": "2005-10-06", 
   "Keywords": [
-    "online art collection", 
     "Jake Berthot", 
     "Anawanda", 
     "1985"
   ], 
+  "ArtistID": 529, 
+  "Title": "Anawanda", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "663.2005", 
+  "Date": "1985", 
   "ArtistBio": "(American, born 1939)", 
-  "DateAcquired": "2005-10-06", 
-  "\ufeffTitle": "Anawanda", 
+  "CuratorApproved": "Y", 
   "ObjectID": "100204"
 }

@@ -4,20 +4,19 @@
   "Classification": "Photograph", 
   "Artist": "Paul Martin", 
   "URL": "http://www.moma.org/collection/works/52205", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the photographer", 
-  "Date": "1902", 
-  "ArtistID": 3795, 
+  "DateAcquired": "1938-10-20", 
   "Keywords": [
-    "online art collection", 
     "Paul Martin", 
     "State Opening of Parliament by King Edward VII", 
     "1902"
   ], 
+  "ArtistID": 3795, 
+  "Title": "State Opening of Parliament by King Edward VII", 
   "Department": "Photography", 
   "MoMANumber": "382.1938", 
+  "Date": "1902", 
   "ArtistBio": "(British, 1864\u20131944)", 
-  "DateAcquired": "1938-10-20", 
-  "\ufeffTitle": "State Opening of Parliament by King Edward VII", 
+  "CuratorApproved": "Y", 
   "ObjectID": "52205"
 }

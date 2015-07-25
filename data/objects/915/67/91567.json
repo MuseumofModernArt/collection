@@ -4,12 +4,9 @@
   "Classification": "A&D Architectural Model", 
   "Artist": "Arata Isozaki", 
   "URL": "http://www.moma.org/collection/works/91567", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the architect", 
-  "Date": "1988-95", 
-  "ArtistID": 2837, 
+  "DateAcquired": "2004-10-14", 
   "Keywords": [
-    "online art collection", 
     "Arata Isozaki", 
     "JR Ueno Railway Station Redevelopment", 
     "project", 
@@ -17,10 +14,12 @@
     "Japan", 
     "1988-95"
   ], 
+  "ArtistID": 2837, 
+  "Title": "JR Ueno Railway Station Redevelopment, project, Tokyo, Japan", 
   "Department": "Architecture & Design", 
   "MoMANumber": "487.2004", 
+  "Date": "1988-95", 
   "ArtistBio": "(Japanese, born 1931)", 
-  "DateAcquired": "2004-10-14", 
-  "\ufeffTitle": "JR Ueno Railway Station Redevelopment, project, Tokyo, Japan", 
+  "CuratorApproved": "Y", 
   "ObjectID": "91567"
 }

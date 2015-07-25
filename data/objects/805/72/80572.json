@@ -4,19 +4,18 @@
   "Classification": "Painting", 
   "Artist": "Yves Tanguy", 
   "URL": "http://www.moma.org/collection/works/80572", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Kay Sage Tanguy Bequest", 
-  "Date": "1926", 
-  "ArtistID": 5804, 
+  "DateAcquired": "", 
   "Keywords": [
-    "online art collection", 
     "Yves Tanguy", 
     "Vite! Vite! 1924"
   ], 
+  "ArtistID": 5804, 
+  "Title": "Vite! Vite!", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "1133.1964", 
+  "Date": "1926", 
   "ArtistBio": "(American, born France. 1900\u20131955)", 
-  "DateAcquired": "", 
-  "\ufeffTitle": "Vite! Vite!", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80572"
 }

@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Marko Spalatin", 
   "URL": "http://www.moma.org/collection/works/64210", 
-  "CuratorApproved": "Y", 
   "CreditLine": "John B. Turner Fund", 
-  "Date": "1970", 
-  "ArtistID": 5553, 
+  "DateAcquired": "1970-05-12", 
   "Keywords": [
-    "online art collection", 
     "Marko Spalatin", 
     "Float from Lumen Series", 
     "1970"
   ], 
+  "ArtistID": 5553, 
+  "Title": "Float from Lumen Series", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "196.1970.4", 
+  "Date": "1970", 
   "ArtistBio": "(American, born 1945)", 
-  "DateAcquired": "1970-05-12", 
-  "\ufeffTitle": "Float from Lumen Series", 
+  "CuratorApproved": "Y", 
   "ObjectID": "64210"
 }

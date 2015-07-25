@@ -4,22 +4,21 @@
   "Classification": "A&D Architectural Model", 
   "Artist": "Frank Lloyd Wright", 
   "URL": "http://www.moma.org/collection/works/1536", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Joseph H. Heil Fund", 
-  "Date": "1912", 
-  "ArtistID": 6459, 
+  "DateAcquired": "1980-01-08", 
   "Keywords": [
-    "online art collection", 
     "Frank Lloyd Wright", 
     "Clerestory Windows from Avery Coonley Playhouse", 
     "Riverside", 
     "Illinois", 
     "1912"
   ], 
+  "ArtistID": 6459, 
+  "Title": "Clerestory Windows from Avery Coonley Playhouse, Riverside, Illinois", 
   "Department": "Architecture & Design", 
   "MoMANumber": "17.1980.1-2", 
+  "Date": "1912", 
   "ArtistBio": "(American, 1867\u20131959)", 
-  "DateAcquired": "1980-01-08", 
-  "\ufeffTitle": "Clerestory Windows from Avery Coonley Playhouse, Riverside, Illinois", 
+  "CuratorApproved": "Y", 
   "ObjectID": "1536"
 }

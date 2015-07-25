@@ -4,22 +4,21 @@
   "Classification": "Photograph", 
   "Artist": "Emmet Gowin", 
   "URL": "http://www.moma.org/collection/works/45357", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "August 1966", 
-  "ArtistID": 2273, 
+  "DateAcquired": "1970-03-04", 
   "Keywords": [
-    "online art collection", 
     "Emmet Gowin", 
     "Edith", 
     "Chincoteague", 
     "Virgina", 
     "August 1966"
   ], 
+  "ArtistID": 2273, 
+  "Title": "Edith, Chincoteague, Virgina", 
   "Department": "Photography", 
   "MoMANumber": "64.1970", 
+  "Date": "August 1966", 
   "ArtistBio": "(American, born 1941)", 
-  "DateAcquired": "1970-03-04", 
-  "\ufeffTitle": "Edith, Chincoteague, Virgina", 
+  "CuratorApproved": "Y", 
   "ObjectID": "45357"
 }

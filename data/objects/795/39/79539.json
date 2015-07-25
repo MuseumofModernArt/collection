@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Philip Guston", 
   "URL": "http://www.moma.org/collection/works/79539", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Musa Guston", 
-  "Date": "1978", 
-  "ArtistID": 2419, 
+  "DateAcquired": "1991-12-09", 
   "Keywords": [
-    "online art collection", 
     "Philip Guston", 
     "Box and Shadow", 
     "1978"
   ], 
+  "ArtistID": 2419, 
+  "Title": "Box and Shadow", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "362.1991", 
+  "Date": "1978", 
   "ArtistBio": "(American, born Canada. 1913\u20131980)", 
-  "DateAcquired": "1991-12-09", 
-  "\ufeffTitle": "Box and Shadow", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79539"
 }

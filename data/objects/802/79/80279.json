@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Raquel Forner", 
   "URL": "http://www.moma.org/collection/works/80279", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Inter-American Fund", 
-  "Date": "1942", 
-  "ArtistID": 1943, 
+  "DateAcquired": "1942-12-29", 
   "Keywords": [
-    "online art collection", 
     "Raquel Forner", 
     "Desolation", 
     "1942"
   ], 
+  "ArtistID": 1943, 
+  "Title": "Desolation", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "697.1942", 
+  "Date": "1942", 
   "ArtistBio": "(Argentine, 1902\u20131988)", 
-  "DateAcquired": "1942-12-29", 
-  "\ufeffTitle": "Desolation", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80279"
 }

@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Grace Hartigan", 
   "URL": "http://www.moma.org/collection/works/78419", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Given anonymously", 
-  "Date": "1953", 
-  "ArtistID": 2520, 
+  "DateAcquired": "1954-04-06", 
   "Keywords": [
-    "online art collection", 
     "Grace Hartigan", 
     "River Bathers", 
     "1953"
   ], 
+  "ArtistID": 2520, 
+  "Title": "River Bathers", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "11.1954", 
+  "Date": "1953", 
   "ArtistBio": "(American, 1922\u20132008)", 
-  "DateAcquired": "1954-04-06", 
-  "\ufeffTitle": "River Bathers", 
+  "CuratorApproved": "Y", 
   "ObjectID": "78419"
 }

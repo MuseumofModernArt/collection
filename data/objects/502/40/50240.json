@@ -4,21 +4,20 @@
   "Classification": "Photograph", 
   "Artist": "Larry Fink", 
   "URL": "http://www.moma.org/collection/works/50240", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the photographer", 
-  "Date": "October 1978", 
-  "ArtistID": 1877, 
+  "DateAcquired": "1990-06-07", 
   "Keywords": [
-    "online art collection", 
     "Larry Fink", 
     "Wedding", 
     "Count Oslin", 
     "October 1978"
   ], 
+  "ArtistID": 1877, 
+  "Title": "Wedding, Count Oslin", 
   "Department": "Photography", 
   "MoMANumber": "301.1990", 
+  "Date": "October 1978", 
   "ArtistBio": "(American, born 1941)", 
-  "DateAcquired": "1990-06-07", 
-  "\ufeffTitle": "Wedding, Count Oslin", 
+  "CuratorApproved": "Y", 
   "ObjectID": "50240"
 }

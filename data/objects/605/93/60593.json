@@ -4,21 +4,20 @@
   "Classification": "Print", 
   "Artist": "Christian Rohlfs", 
   "URL": "http://www.moma.org/collection/works/60593", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Matthew T. Mellon Foundation Fund", 
-  "Date": "(c. 1912)", 
-  "ArtistID": 5000, 
+  "DateAcquired": "1962-01-09", 
   "Keywords": [
-    "online art collection", 
     "Christian Rohlfs", 
     "In Love (Verliebt)", 
     "(c", 
     "1912)"
   ], 
+  "ArtistID": 5000, 
+  "Title": "In Love (Verliebt)", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "36.1962", 
+  "Date": "(c. 1912)", 
   "ArtistBio": "(German, 1849\u20131938)", 
-  "DateAcquired": "1962-01-09", 
-  "\ufeffTitle": "In Love (Verliebt)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "60593"
 }

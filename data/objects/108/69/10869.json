@@ -4,12 +4,9 @@
   "Classification": "Illustrated Book", 
   "Artist": "Various Artists, Niele Toroni, Liz Larner, Thomas Ruff, Franz Gertsch", 
   "URL": "http://www.moma.org/collection/works/10869", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Riva Castleman Endowment Fund, Lily Auchincloss Fund, and Gift of Parkett", 
-  "Date": "1991", 
-  "ArtistID": 6104, 
+  "DateAcquired": "1998-03-05", 
   "Keywords": [
-    "online art collection", 
     "Various Artists with Spine Niele Toroni", 
     "Insert Liz Larner", 
     "Special Edition Thomas Ruff and Special Edition Franz Gertsch", 
@@ -17,10 +14,12 @@
     "28", 
     "1991"
   ], 
+  "ArtistID": 6104, 
+  "Title": "Parkett no. 28", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "64.1998.1-2", 
+  "Date": "1991", 
   "ArtistBio": "(Various) (Swiss, born 1937) (American, born 1960) (German, born 1958) (Swiss, born 1930)", 
-  "DateAcquired": "1998-03-05", 
-  "\ufeffTitle": "Parkett no. 28", 
+  "CuratorApproved": "Y", 
   "ObjectID": "10869"
 }

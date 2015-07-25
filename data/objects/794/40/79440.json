@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Maurice Utrillo", 
   "URL": "http://www.moma.org/collection/works/79440", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Estate of John Hay Whitney", 
-  "Date": "1910", 
-  "ArtistID": 6046, 
+  "DateAcquired": "1983-02-14", 
   "Keywords": [
-    "online art collection", 
     "Maurice Utrillo", 
     "La Rue des Abbesses", 
     "1910"
   ], 
+  "ArtistID": 6046, 
+  "Title": "La Rue des Abbesses", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "293.1983", 
+  "Date": "1910", 
   "ArtistBio": "(French, 1883\u20131955)", 
-  "DateAcquired": "1983-02-14", 
-  "\ufeffTitle": "La Rue des Abbesses", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79440"
 }

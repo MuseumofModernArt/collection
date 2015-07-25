@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Henri de Toulouse-Lautrec", 
   "URL": "http://www.moma.org/collection/works/64444", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Eastman Kodak Company", 
-  "Date": "1894, published 1895", 
-  "ArtistID": 5910, 
+  "DateAcquired": "1951-05-24", 
   "Keywords": [
-    "online art collection", 
     "Henri de Toulouse-Lautrec", 
     "La Revue Blanche", 
     "1894"
   ], 
+  "ArtistID": 5910, 
+  "Title": "Nib, supplement to La Revue Blanche", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "210.1951.a-c", 
+  "Date": "1894, published 1895", 
   "ArtistBio": "(French, 1864\u20131901)", 
-  "DateAcquired": "1951-05-24", 
-  "\ufeffTitle": "Nib, supplement to La Revue Blanche", 
+  "CuratorApproved": "Y", 
   "ObjectID": "64444"
 }

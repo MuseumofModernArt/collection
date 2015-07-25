@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Ashley Bickerton", 
   "URL": "http://www.moma.org/collection/works/80974", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1987-88", 
-  "ArtistID": 551, 
+  "DateAcquired": "1988-04-11", 
   "Keywords": [
-    "online art collection", 
     "Ashley Bickerton", 
     "Tormented Self-Portrait (Susie at Arles)", 
     "1987-88"
   ], 
+  "ArtistID": 551, 
+  "Title": "Tormented Self-Portrait (Susie at Arles)", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "116.1988", 
+  "Date": "1987-88", 
   "ArtistBio": "(British, born 1959)", 
-  "DateAcquired": "1988-04-11", 
-  "\ufeffTitle": "Tormented Self-Portrait (Susie at Arles)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80974"
 }

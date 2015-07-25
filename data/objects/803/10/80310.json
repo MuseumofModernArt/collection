@@ -4,21 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Jackson Pollock", 
   "URL": "http://www.moma.org/collection/works/80310", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Sylvia Slifka in honor of William Rubin", 
-  "Date": "1950", 
-  "ArtistID": 4675, 
+  "DateAcquired": "1993-12-06", 
   "Keywords": [
-    "online art collection", 
     "Jackson Pollock", 
     "Number 7", 
-    "1950", 
     "1950"
   ], 
+  "ArtistID": 4675, 
+  "Title": "Number 7, 1950", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "719.1993", 
+  "Date": "1950", 
   "ArtistBio": "(American, 1912\u20131956)", 
-  "DateAcquired": "1993-12-06", 
-  "\ufeffTitle": "Number 7, 1950", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80310"
 }

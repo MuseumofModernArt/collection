@@ -4,12 +4,9 @@
   "Classification": "Photograph", 
   "Artist": "Lee Friedlander", 
   "URL": "http://www.moma.org/collection/works/57734", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1972", 
-  "ArtistID": 2002, 
+  "DateAcquired": "2000-10-12", 
   "Keywords": [
-    "online art collection", 
     "Lee Friedlander", 
     "Kiener Memorial Fountain and Runner Statue", 
     "Gateway Mall", 
@@ -17,10 +14,12 @@
     "Missouri", 
     "1972"
   ], 
+  "ArtistID": 2002, 
+  "Title": "Kiener Memorial Fountain and Runner Statue. Gateway Mall, Saint Louis, Missouri", 
   "Department": "Photography", 
   "MoMANumber": "1152.2000", 
+  "Date": "1972", 
   "ArtistBio": "(American, born 1934)", 
-  "DateAcquired": "2000-10-12", 
-  "\ufeffTitle": "Kiener Memorial Fountain and Runner Statue. Gateway Mall, Saint Louis, Missouri", 
+  "CuratorApproved": "Y", 
   "ObjectID": "57734"
 }

@@ -4,12 +4,9 @@
   "Classification": "Print", 
   "Artist": "Ludwig Meidner", 
   "URL": "http://www.moma.org/collection/works/72849", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Transferred from the Museum Library", 
-  "Date": "1917", 
-  "ArtistID": 3909, 
+  "DateAcquired": "1949-09-29", 
   "Keywords": [
-    "online art collection", 
     "Ludwig Meidner", 
     "Portrait of Paul Westheim (I) (Bildnis Paul Westheim [I]) (plate", 
     "preceding p", 
@@ -20,10 +17,12 @@
     "6 (Jun 1917)", 
     "1917"
   ], 
+  "ArtistID": 3909, 
+  "Title": "Portrait of Paul Westheim (I) (Bildnis Paul Westheim [I]) (plate, preceding p. 161) from the periodical Das Kunstblatt, vol. 1, no. 6 (Jun 1917)", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "667.1949", 
+  "Date": "1917", 
   "ArtistBio": "(German, 1884\u20131966)", 
-  "DateAcquired": "1949-09-29", 
-  "\ufeffTitle": "Portrait of Paul Westheim (I) (Bildnis Paul Westheim [I]) (plate, preceding p. 161) from the periodical Das Kunstblatt, vol. 1, no. 6 (Jun 1917)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "72849"
 }

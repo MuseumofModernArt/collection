@@ -4,21 +4,20 @@
   "Classification": "Photograph", 
   "Artist": "Henri Cartier-Bresson", 
   "URL": "http://www.moma.org/collection/works/49983", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the photographer", 
-  "Date": "1938", 
-  "ArtistID": 1000, 
+  "DateAcquired": "1947-10-16", 
   "Keywords": [
-    "online art collection", 
     "Henri Cartier-Bresson", 
     "Juvisy", 
     "France", 
     "1938"
   ], 
+  "ArtistID": 1000, 
+  "Title": "Juvisy, France", 
   "Department": "Photography", 
   "MoMANumber": "286.1947", 
+  "Date": "1938", 
   "ArtistBio": "(French, 1908\u20132004)", 
-  "DateAcquired": "1947-10-16", 
-  "\ufeffTitle": "Juvisy, France", 
+  "CuratorApproved": "Y", 
   "ObjectID": "49983"
 }

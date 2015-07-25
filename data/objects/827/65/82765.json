@@ -4,12 +4,9 @@
   "Classification": "A&D Architectural Model", 
   "Artist": "Ben van Berkel, Caroline Bos", 
   "URL": "http://www.moma.org/collection/works/82765", 
-  "CuratorApproved": "Y", 
   "CreditLine": "David Childs Purchase Fund", 
-  "Date": "1993\u20131999", 
-  "ArtistID": 7529, 
+  "DateAcquired": "2001-10-09", 
   "Keywords": [
-    "online art collection", 
     "Ben van Berkel and Caroline Bos", 
     "Moebius House", 
     "Het Gooi", 
@@ -17,10 +14,12 @@
     "Scale model", 
     "1998-99"
   ], 
+  "ArtistID": 7529, 
+  "Title": "Moebius House, Het Gooi, The Netherlands (Scale model)", 
   "Department": "Architecture & Design", 
   "MoMANumber": "2383.2001", 
+  "Date": "1993\u20131999", 
   "ArtistBio": "(Dutch, born 1957) (Dutch, born 1959)", 
-  "DateAcquired": "2001-10-09", 
-  "\ufeffTitle": "Moebius House, Het Gooi, The Netherlands (Scale model)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "82765"
 }

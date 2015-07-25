@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Oskar Kokoschka", 
   "URL": "http://www.moma.org/collection/works/72745", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "(1916)", 
-  "ArtistID": 3197, 
+  "DateAcquired": "1956-12-19", 
   "Keywords": [
-    "online art collection", 
     "Oskar Kokoschka", 
     "The Resurrection (Auferstehung) from the series The Passion (Die Passion)", 
     "(1916)"
   ], 
+  "ArtistID": 3197, 
+  "Title": "The Resurrection (Auferstehung) from the series The Passion (Die Passion)", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "660.1956", 
+  "Date": "(1916)", 
   "ArtistBio": "(Austrian, 1886\u20131980)", 
-  "DateAcquired": "1956-12-19", 
-  "\ufeffTitle": "The Resurrection (Auferstehung) from the series The Passion (Die Passion)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "72745"
 }

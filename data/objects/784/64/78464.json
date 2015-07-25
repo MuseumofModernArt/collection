@@ -4,21 +4,20 @@
   "Classification": "Painting", 
   "Artist": "Henri Matisse", 
   "URL": "http://www.moma.org/collection/works/78464", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Abby Aldrich Rockefeller", 
-  "Date": "Cavali\u00e8re, summer 1909", 
-  "ArtistID": 3832, 
+  "DateAcquired": "1936-01-14", 
   "Keywords": [
-    "online art collection", 
     "Henri Matisse", 
     "Bather", 
     "Cavali&egrave;re", 
     "summer 1909"
   ], 
+  "ArtistID": 3832, 
+  "Title": "Bather", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "17.1936", 
+  "Date": "Cavali\u00e8re, summer 1909", 
   "ArtistBio": "(French, 1869\u20131954)", 
-  "DateAcquired": "1936-01-14", 
-  "\ufeffTitle": "Bather", 
+  "CuratorApproved": "Y", 
   "ObjectID": "78464"
 }

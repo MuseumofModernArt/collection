@@ -4,21 +4,20 @@
   "Classification": "Photograph", 
   "Artist": "Lee Friedlander", 
   "URL": "http://www.moma.org/collection/works/53442", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1972", 
-  "ArtistID": 2002, 
+  "DateAcquired": "2000-10-12", 
   "Keywords": [
-    "online art collection", 
     "Lee Friedlander", 
     "Minot", 
     "North Dakota", 
     "1972"
   ], 
+  "ArtistID": 2002, 
+  "Title": "Minot, North Dakota", 
   "Department": "Photography", 
   "MoMANumber": "443.2000", 
+  "Date": "1972", 
   "ArtistBio": "(American, born 1934)", 
-  "DateAcquired": "2000-10-12", 
-  "\ufeffTitle": "Minot, North Dakota", 
+  "CuratorApproved": "Y", 
   "ObjectID": "53442"
 }

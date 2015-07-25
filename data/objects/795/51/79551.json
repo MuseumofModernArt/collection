@@ -4,21 +4,20 @@
   "Classification": "Painting", 
   "Artist": "Pablo Picasso", 
   "URL": "http://www.moma.org/collection/works/79551", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Acquired through the Lillie P. Bliss Bequest", 
-  "Date": "Paris, early 1907", 
-  "ArtistID": 4609, 
+  "DateAcquired": "1991-12-09", 
   "Keywords": [
-    "online art collection", 
     "Pablo Picasso", 
     "Study for Les Demoiselles D'Avignon", 
     "Paris", 
     "early 1907"
   ], 
+  "ArtistID": 4609, 
+  "Title": "Study for Les Demoiselles D'Avignon", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "372.1991", 
+  "Date": "Paris, early 1907", 
   "ArtistBio": "(Spanish, 1881\u20131973)", 
-  "DateAcquired": "1991-12-09", 
-  "\ufeffTitle": "Study for Les Demoiselles D'Avignon", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79551"
 }

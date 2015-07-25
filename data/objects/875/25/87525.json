@@ -4,12 +4,9 @@
   "Classification": "A&D Mies van der Rohe Archive", 
   "Artist": "Ludwig Mies van der Rohe", 
   "URL": "http://www.moma.org/collection/works/87525", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Mies van der Rohe Archive, gift of the architect\r\n", 
-  "Date": "c. 1927-30", 
-  "ArtistID": 7166, 
+  "DateAcquired": "", 
   "Keywords": [
-    "online art collection", 
     "Ludwig Mies van der Rohe", 
     "Josef Esters House", 
     "Krefeld", 
@@ -18,10 +15,12 @@
     "c", 
     "1927-30"
   ], 
+  "ArtistID": 7166, 
+  "Title": "Josef Esters House, Krefeld, Germany, Perspective study of street facade", 
   "Department": "Architecture & Design", 
   "MoMANumber": "MR3.286", 
+  "Date": "c. 1927-30", 
   "ArtistBio": "(American, born Germany. 1886\u20131969)", 
-  "DateAcquired": "", 
-  "\ufeffTitle": "Josef Esters House, Krefeld, Germany, Perspective study of street facade", 
+  "CuratorApproved": "Y", 
   "ObjectID": "87525"
 }

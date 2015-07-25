@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Joseph Cornell", 
   "URL": "http://www.moma.org/collection/works/81492", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of James Thrall Soby", 
-  "Date": "1934", 
-  "ArtistID": 1247, 
+  "DateAcquired": "1953-11-04", 
   "Keywords": [
-    "online art collection", 
     "Joseph Cornell", 
     "Object \"Beehive\"", 
     "1934"
   ], 
+  "ArtistID": 1247, 
+  "Title": "Object \"Beehive\"", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "473.1953.a-b", 
+  "Date": "1934", 
   "ArtistBio": "(American, 1903\u20131972)", 
-  "DateAcquired": "1953-11-04", 
-  "\ufeffTitle": "Object \"Beehive\"", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81492"
 }

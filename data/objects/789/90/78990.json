@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Marcel Duchamp", 
   "URL": "http://www.moma.org/collection/works/78990", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Katherine S. Dreier Bequest", 
-  "Date": "Paris 1913-14", 
-  "ArtistID": 1634, 
+  "DateAcquired": "1953-04-07", 
   "Keywords": [
-    "online art collection", 
     "Marcel Duchamp", 
     "3 Standard Stoppages", 
     "Paris 1913-14"
   ], 
+  "ArtistID": 1634, 
+  "Title": "3 Standard Stoppages", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "149.1953.a-i", 
+  "Date": "Paris 1913-14", 
   "ArtistBio": "(American, born France. 1887\u20131968)", 
-  "DateAcquired": "1953-04-07", 
-  "\ufeffTitle": "3 Standard Stoppages", 
+  "CuratorApproved": "Y", 
   "ObjectID": "78990"
 }

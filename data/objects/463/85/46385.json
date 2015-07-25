@@ -4,21 +4,20 @@
   "Classification": "Photograph", 
   "Artist": "Unknown photographer", 
   "URL": "http://www.moma.org/collection/works/46385", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Acquired through the generosity of Paul F. Walter", 
-  "Date": "c. 1875", 
-  "ArtistID": 6028, 
+  "DateAcquired": "1986-01-15", 
   "Keywords": [
-    "online art collection", 
     "Unknown Photographer", 
     "Untitled", 
     "c", 
     "1875"
   ], 
+  "ArtistID": 6028, 
+  "Title": "Untitled", 
   "Department": "Photography", 
   "MoMANumber": "108.1986", 
+  "Date": "c. 1875", 
   "ArtistBio": "", 
-  "DateAcquired": "1986-01-15", 
-  "\ufeffTitle": "Untitled", 
+  "CuratorApproved": "Y", 
   "ObjectID": "46385"
 }

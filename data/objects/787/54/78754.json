@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Gene Davis", 
   "URL": "http://www.moma.org/collection/works/78754", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Larry Aldrich Foundation Fund and purchase", 
-  "Date": "1966", 
-  "ArtistID": 1407, 
+  "DateAcquired": "1967-03-07", 
   "Keywords": [
-    "online art collection", 
     "Gene Davis", 
     "Anthracite Minuet", 
     "1966"
   ], 
+  "ArtistID": 1407, 
+  "Title": "Anthracite Minuet", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "94.1967", 
+  "Date": "1966", 
   "ArtistBio": "(American, 1920\u20131985)", 
-  "DateAcquired": "1967-03-07", 
-  "\ufeffTitle": "Anthracite Minuet", 
+  "CuratorApproved": "Y", 
   "ObjectID": "78754"
 }

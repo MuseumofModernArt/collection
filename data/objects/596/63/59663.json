@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Jane Dickson", 
   "URL": "http://www.moma.org/collection/works/59663", 
-  "CuratorApproved": "Y", 
   "CreditLine": "David B. Epstein Fund", 
-  "Date": "1984", 
-  "ArtistID": 1538, 
+  "DateAcquired": "1985-01-30", 
   "Keywords": [
-    "online art collection", 
     "Jane Dickson", 
     "Mother and Child", 
     "1984"
   ], 
+  "ArtistID": 1538, 
+  "Title": "Mother and Child", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "5.1985", 
+  "Date": "1984", 
   "ArtistBio": "(American, born 1952)", 
-  "DateAcquired": "1985-01-30", 
-  "\ufeffTitle": "Mother and Child", 
+  "CuratorApproved": "Y", 
   "ObjectID": "59663"
 }

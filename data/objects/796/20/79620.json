@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Loren MacIver", 
   "URL": "http://www.moma.org/collection/works/79620", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Abby Aldrich Rockefeller", 
-  "Date": "1934", 
-  "ArtistID": 3668, 
+  "DateAcquired": "1938-10-20", 
   "Keywords": [
-    "online art collection", 
     "Loren MacIver", 
     "Shack", 
     "1934"
   ], 
+  "ArtistID": 3668, 
+  "Title": "Shack", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "399.1938", 
+  "Date": "1934", 
   "ArtistBio": "(American, 1909\u20131998)", 
-  "DateAcquired": "1938-10-20", 
-  "\ufeffTitle": "Shack", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79620"
 }

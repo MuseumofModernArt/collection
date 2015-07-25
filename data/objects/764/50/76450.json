@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Ilya Kabakov", 
   "URL": "http://www.moma.org/collection/works/76450", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Agnes Gund and Daniel Shapiro", 
-  "Date": "2000", 
-  "ArtistID": 6633, 
+  "DateAcquired": "2000-11-09", 
   "Keywords": [
-    "online art collection", 
     "Ilya Kabakov", 
     "Encounter with an Angel", 
     "2000"
   ], 
+  "ArtistID": 6633, 
+  "Title": "Encounter with an Angel", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "1350.2000", 
+  "Date": "2000", 
   "ArtistBio": "(American, born Russia 1933)", 
-  "DateAcquired": "2000-11-09", 
-  "\ufeffTitle": "Encounter with an Angel", 
+  "CuratorApproved": "Y", 
   "ObjectID": "76450"
 }

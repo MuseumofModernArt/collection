@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Lucio Fontana", 
   "URL": "http://www.moma.org/collection/works/79637", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Philip Johnson Fund", 
-  "Date": "1959", 
-  "ArtistID": 1930, 
+  "DateAcquired": "1960-11-30", 
   "Keywords": [
-    "online art collection", 
     "Lucio Fontana", 
     "Spatial Concept: Expectations", 
     "1959"
   ], 
+  "ArtistID": 1930, 
+  "Title": "Spatial Concept: Expectations", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "413.1960", 
+  "Date": "1959", 
   "ArtistBio": "(Italian, born Argentina. 1899\u20131968)", 
-  "DateAcquired": "1960-11-30", 
-  "\ufeffTitle": "Spatial Concept: Expectations", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79637"
 }

@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Bruce Nauman", 
   "URL": "http://www.moma.org/collection/works/81534", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Joseph Helman", 
-  "Date": "1965", 
-  "ArtistID": 4243, 
+  "DateAcquired": "1978-10-10", 
   "Keywords": [
-    "online art collection", 
     "Bruce Nauman", 
     "Untitled", 
     "1965"
   ], 
+  "ArtistID": 4243, 
+  "Title": "Untitled", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "516.1978", 
+  "Date": "1965", 
   "ArtistBio": "(American, born 1941)", 
-  "DateAcquired": "1978-10-10", 
-  "\ufeffTitle": "Untitled", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81534"
 }

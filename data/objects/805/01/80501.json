@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Bart Van Der Leck", 
   "URL": "http://www.moma.org/collection/works/80501", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The Riklis Collection of McCrory Corporation", 
-  "Date": "1927", 
-  "ArtistID": 6072, 
+  "DateAcquired": "1985-10-25", 
   "Keywords": [
-    "online art collection", 
     "Bart Van Der Leck", 
     "Abstract Composition", 
     "1927"
   ], 
+  "ArtistID": 6072, 
+  "Title": "Abstract Composition", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "1037.1983", 
+  "Date": "1927", 
   "ArtistBio": "(Dutch, 1876\u20131958)", 
-  "DateAcquired": "1985-10-25", 
-  "\ufeffTitle": "Abstract Composition", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80501"
 }

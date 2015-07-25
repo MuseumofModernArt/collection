@@ -4,12 +4,9 @@
   "Classification": "Photograph", 
   "Artist": "Sage Sohier", 
   "URL": "http://www.moma.org/collection/works/45132", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The Family of Man Fund", 
-  "Date": "1987", 
-  "ArtistID": 5508, 
+  "DateAcquired": "1991-03-14", 
   "Keywords": [
-    "online art collection", 
     "Sage Sohier", 
     "Gordon and Jim", 
     "with Gordon's Mother Margot", 
@@ -17,10 +14,12 @@
     "California", 
     "1987"
   ], 
+  "ArtistID": 5508, 
+  "Title": "Gordon and Jim, with Gordon's Mother Margot, San Diego, California", 
   "Department": "Photography", 
   "MoMANumber": "56.1991", 
+  "Date": "1987", 
   "ArtistBio": "(American, born 1954)", 
-  "DateAcquired": "1991-03-14", 
-  "\ufeffTitle": "Gordon and Jim, with Gordon's Mother Margot, San Diego, California", 
+  "CuratorApproved": "Y", 
   "ObjectID": "45132"
 }

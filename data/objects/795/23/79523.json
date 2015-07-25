@@ -4,21 +4,20 @@
   "Classification": "Painting", 
   "Artist": "Henri Matisse", 
   "URL": "http://www.moma.org/collection/works/79523", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Jo Carole and Ronald S. Lauder; Nelson A. Rockefeller Bequest, gift of Mr. and Mrs. William H. Weintraub, and Mary Sisler Bequest (all by exchange)", 
-  "Date": "Issy-les-Moulineaux, 1915", 
-  "ArtistID": 3832, 
+  "DateAcquired": "1997-10-06", 
   "Keywords": [
-    "online art collection", 
     "Henri Matisse", 
     "Composition", 
     "Issy-les-Moulineaux", 
     "1915"
   ], 
+  "ArtistID": 3832, 
+  "Title": "Composition", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "355.1997", 
+  "Date": "Issy-les-Moulineaux, 1915", 
   "ArtistBio": "(French, 1869\u20131954)", 
-  "DateAcquired": "1997-10-06", 
-  "\ufeffTitle": "Composition", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79523"
 }

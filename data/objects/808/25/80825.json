@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Theodore Roszak", 
   "URL": "http://www.moma.org/collection/works/80825", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1946-47", 
-  "ArtistID": 5039, 
+  "DateAcquired": "1950-01-06", 
   "Keywords": [
-    "online art collection", 
     "Theodore Roszak", 
     "Spectre of Kitty Hawk", 
     "1946-47"
   ], 
+  "ArtistID": 5039, 
+  "Title": "Spectre of Kitty Hawk", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "16.1950", 
+  "Date": "1946-47", 
   "ArtistBio": "(American, born Poland. 1907\u20131981)", 
-  "DateAcquired": "1950-01-06", 
-  "\ufeffTitle": "Spectre of Kitty Hawk", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80825"
 }

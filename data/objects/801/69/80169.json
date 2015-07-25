@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Antonio Berni", 
   "URL": "http://www.moma.org/collection/works/80169", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Inter-American Fund", 
-  "Date": "1937", 
-  "ArtistID": 517, 
+  "DateAcquired": "1942-12-29", 
   "Keywords": [
-    "online art collection", 
     "Antonio Berni", 
     "New Chicago Athletic Club", 
     "1937"
   ], 
+  "ArtistID": 517, 
+  "Title": "New Chicago Athletic Club", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "645.1942", 
+  "Date": "1937", 
   "ArtistBio": "(Argentine, 1905\u20131981)", 
-  "DateAcquired": "1942-12-29", 
-  "\ufeffTitle": "New Chicago Athletic Club", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80169"
 }

@@ -4,21 +4,20 @@
   "Classification": "Photograph", 
   "Artist": "David Octavius Hill, Robert Adamson", 
   "URL": "http://www.moma.org/collection/works/51263", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of John McAndrew", 
-  "Date": "April 9, 1846", 
-  "ArtistID": 2648, 
+  "DateAcquired": "1938-10-20", 
   "Keywords": [
-    "online art collection", 
     "David Octavius Hill with Robert Adamson", 
     "Gordon Highlanders at Edinburgh Castle", 
     "April 9", 
     "1846"
   ], 
+  "ArtistID": 2648, 
+  "Title": "Gordon Highlanders at Edinburgh Castle", 
   "Department": "Photography", 
   "MoMANumber": "341.1938", 
+  "Date": "April 9, 1846", 
   "ArtistBio": "(British, 1802\u20131870) (British, 1821\u20131848)", 
-  "DateAcquired": "1938-10-20", 
-  "\ufeffTitle": "Gordon Highlanders at Edinburgh Castle", 
+  "CuratorApproved": "Y", 
   "ObjectID": "51263"
 }

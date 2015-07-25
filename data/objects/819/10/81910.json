@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Jean Dubuffet", 
   "URL": "http://www.moma.org/collection/works/81910", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Mr. and Mrs. N. Richard Miller and Mr. and Mrs. Alex L. Hillman and Samuel Girard Funds", 
-  "Date": "September 1954", 
-  "ArtistID": 1633, 
+  "DateAcquired": "1968-06-12", 
   "Keywords": [
-    "online art collection", 
     "Jean Dubuffet", 
     "The Magician", 
     "September 1954"
   ], 
+  "ArtistID": 1633, 
+  "Title": "The Magician", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "871.1968", 
+  "Date": "September 1954", 
   "ArtistBio": "(French, 1901\u20131985)", 
-  "DateAcquired": "1968-06-12", 
-  "\ufeffTitle": "The Magician", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81910"
 }

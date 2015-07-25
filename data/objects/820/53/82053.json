@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Claes Oldenburg", 
   "URL": "http://www.moma.org/collection/works/82053", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The Sidney and Harriet Janis Collection", 
-  "Date": "1966-67", 
-  "ArtistID": 4397, 
+  "DateAcquired": "1967-10-18", 
   "Keywords": [
-    "online art collection", 
     "Claes Oldenburg", 
     "Giant Soft Fan", 
     "1966-67"
   ], 
+  "ArtistID": 4397, 
+  "Title": "Giant Soft Fan", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "2098.1967", 
+  "Date": "1966-67", 
   "ArtistBio": "(American, born Sweden 1929)", 
-  "DateAcquired": "1967-10-18", 
-  "\ufeffTitle": "Giant Soft Fan", 
+  "CuratorApproved": "Y", 
   "ObjectID": "82053"
 }

@@ -4,21 +4,20 @@
   "Classification": "Painting", 
   "Artist": "Bernard Buffet", 
   "URL": "http://www.moma.org/collection/works/78731", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Mrs. Cornelius J. Sullivan Fund", 
-  "Date": "1949", 
-  "ArtistID": 855, 
+  "DateAcquired": "1950-04-24", 
   "Keywords": [
-    "online art collection", 
     "Bernard Buffet", 
     "Still Life with Fish", 
     "II", 
     "1949"
   ], 
+  "ArtistID": 855, 
+  "Title": "Still Life with Fish, II", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "85.1950", 
+  "Date": "1949", 
   "ArtistBio": "(French, 1928\u20131999)", 
-  "DateAcquired": "1950-04-24", 
-  "\ufeffTitle": "Still Life with Fish, II", 
+  "CuratorApproved": "Y", 
   "ObjectID": "78731"
 }

@@ -4,21 +4,20 @@
   "Classification": "Photograph", 
   "Artist": "Dorothea Lange", 
   "URL": "http://www.moma.org/collection/works/54373", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1938", 
-  "ArtistID": 3373, 
+  "DateAcquired": "", 
   "Keywords": [
-    "online art collection", 
     "Dorothea Lange", 
     "The Road West", 
     "New Mexico", 
     "1938"
   ], 
+  "ArtistID": 3373, 
+  "Title": "The Road West, New Mexico", 
   "Department": "Photography", 
   "MoMANumber": "495.1994", 
+  "Date": "1938", 
   "ArtistBio": "(American, 1895\u20131965)", 
-  "DateAcquired": "", 
-  "\ufeffTitle": "The Road West, New Mexico", 
+  "CuratorApproved": "Y", 
   "ObjectID": "54373"
 }

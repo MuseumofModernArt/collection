@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Al Held", 
   "URL": "http://www.moma.org/collection/works/80486", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The Riklis Collection of McCrory Corporation", 
-  "Date": "1973", 
-  "ArtistID": 2583, 
+  "DateAcquired": "1985-10-25", 
   "Keywords": [
-    "online art collection", 
     "Al Held", 
     "Flemish VII", 
     "1973"
   ], 
+  "ArtistID": 2583, 
+  "Title": "Flemish VII", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "1021.1983", 
+  "Date": "1973", 
   "ArtistBio": "(American, 1928\u20132005)", 
-  "DateAcquired": "1985-10-25", 
-  "\ufeffTitle": "Flemish VII", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80486"
 }

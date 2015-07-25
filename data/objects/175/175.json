@@ -4,12 +4,9 @@
   "Classification": "A&D Architectural Drawing", 
   "Artist": "Steven Holl", 
   "URL": "http://www.moma.org/collection/works/175", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Pritzker Foundation Fund and Architecture & Design Purchase Fund", 
-  "Date": "1986", 
-  "ArtistID": 2702, 
+  "DateAcquired": "1989-05-16", 
   "Keywords": [
-    "online art collection", 
     "Steven Holl", 
     "Porta Vittoria", 
     "project", 
@@ -20,10 +17,12 @@
     "site plan", 
     "1986"
   ], 
+  "ArtistID": 2702, 
+  "Title": "Porta Vittoria, project, Milan, Italy, View from court of four-sided pentagon, perspective, site plan", 
   "Department": "Architecture & Design", 
   "MoMANumber": "89.1989", 
+  "Date": "1986", 
   "ArtistBio": "(American, born 1947)", 
-  "DateAcquired": "1989-05-16", 
-  "\ufeffTitle": "Porta Vittoria, project, Milan, Italy, View from court of four-sided pentagon, perspective, site plan", 
+  "CuratorApproved": "Y", 
   "ObjectID": "175"
 }

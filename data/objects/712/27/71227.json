@@ -4,12 +4,9 @@
   "Classification": "Print", 
   "Artist": "Louise Bourgeois", 
   "URL": "http://www.moma.org/collection/works/71227", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the artist", 
-  "Date": "(c. 1989)", 
-  "ArtistID": 710, 
+  "DateAcquired": "1993-11-17", 
   "Keywords": [
-    "online art collection", 
     "Louise Bourgeois", 
     "Portrait", 
     "second version", 
@@ -18,10 +15,12 @@
     "(c", 
     "1989)"
   ], 
+  "ArtistID": 710, 
+  "Title": "Portrait, second version, only state, variant", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "566.1993", 
+  "Date": "(c. 1989)", 
   "ArtistBio": "(American, born France. 1911\u20132010)", 
-  "DateAcquired": "1993-11-17", 
-  "\ufeffTitle": "Portrait, second version, only state, variant", 
+  "CuratorApproved": "Y", 
   "ObjectID": "71227"
 }

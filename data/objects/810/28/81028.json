@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Marcel Duchamp", 
   "URL": "http://www.moma.org/collection/works/81028", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Katherine S. Dreier Bequest", 
-  "Date": "New York 1920", 
-  "ArtistID": 1634, 
+  "DateAcquired": "1953-04-07", 
   "Keywords": [
-    "online art collection", 
     "Marcel Duchamp", 
     "Fresh Widow", 
     "New York 1920"
   ], 
+  "ArtistID": 1634, 
+  "Title": "Fresh Widow", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "151.1953", 
+  "Date": "New York 1920", 
   "ArtistBio": "(American, born France. 1887\u20131968)", 
-  "DateAcquired": "1953-04-07", 
-  "\ufeffTitle": "Fresh Widow", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81028"
 }

@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Richard Hamilton", 
   "URL": "http://www.moma.org/collection/works/82826", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Donald L. Bryant, Jr., Douglas S. Cramer, Ronald S. Lauder, and John Angelo Funds", 
-  "Date": "1968-69", 
-  "ArtistID": 2481, 
+  "DateAcquired": "2002-02-11", 
   "Keywords": [
-    "online art collection", 
     "Richard Hamilton", 
     "Swingeing London 67 (c)", 
     "1968-69"
   ], 
+  "ArtistID": 2481, 
+  "Title": "Swingeing London 67 (c)", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "4.2002", 
+  "Date": "1968-69", 
   "ArtistBio": "(British, 1922\u20132011)", 
-  "DateAcquired": "2002-02-11", 
-  "\ufeffTitle": "Swingeing London 67 (c)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "82826"
 }

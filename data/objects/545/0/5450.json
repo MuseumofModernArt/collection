@@ -4,20 +4,19 @@
   "Classification": "A&D Graphic Design", 
   "Artist": "Ernst Keller", 
   "URL": "http://www.moma.org/collection/works/5450", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Walter A. Allner", 
-  "Date": "1955", 
-  "ArtistID": 3041, 
+  "DateAcquired": "1955-06-16", 
   "Keywords": [
-    "online art collection", 
     "Ernst Keller", 
     "Museum Rietberg Zurich", 
     "1955"
   ], 
+  "ArtistID": 3041, 
+  "Title": "Museum Rietberg Zurich", 
   "Department": "Architecture & Design", 
   "MoMANumber": "168.1955", 
+  "Date": "1955", 
   "ArtistBio": "(Swiss, 1891\u20131968)", 
-  "DateAcquired": "1955-06-16", 
-  "\ufeffTitle": "Museum Rietberg Zurich", 
+  "CuratorApproved": "Y", 
   "ObjectID": "5450"
 }

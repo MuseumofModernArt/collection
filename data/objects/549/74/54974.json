@@ -4,12 +4,9 @@
   "Classification": "Photograph", 
   "Artist": "Julia Margaret Cameron", 
   "URL": "http://www.moma.org/collection/works/54974", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Edward Steichen", 
-  "Date": "c. 1865", 
-  "ArtistID": 932, 
+  "DateAcquired": "1961-01-10", 
   "Keywords": [
-    "online art collection", 
     "Julia Margaret Cameron", 
     "Portrait of G", 
     "F", 
@@ -19,10 +16,12 @@
     "c", 
     "1865"
   ], 
+  "ArtistID": 932, 
+  "Title": "Portrait of G. F. Watts, R. A", 
   "Department": "Photography", 
   "MoMANumber": "547.1960", 
+  "Date": "c. 1865", 
   "ArtistBio": "(British, 1815\u20131879)", 
-  "DateAcquired": "1961-01-10", 
-  "\ufeffTitle": "Portrait of G. F. Watts, R. A", 
+  "CuratorApproved": "Y", 
   "ObjectID": "54974"
 }

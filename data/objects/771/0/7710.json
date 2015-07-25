@@ -4,20 +4,19 @@
   "Classification": "A&D Graphic Design", 
   "Artist": "Grapus", 
   "URL": "http://www.moma.org/collection/works/7710", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Grapus", 
-  "Date": "1981", 
-  "ArtistID": 2297, 
+  "DateAcquired": "1981-12-10", 
   "Keywords": [
-    "online art collection", 
     "Grapus", 
     "Alain / le Quernec", 
     "1981"
   ], 
+  "ArtistID": 2297, 
+  "Title": "Alain / le Quernec", 
   "Department": "Architecture & Design", 
   "MoMANumber": "604.1981", 
+  "Date": "1981", 
   "ArtistBio": "(French, 1970\u20131991)", 
-  "DateAcquired": "1981-12-10", 
-  "\ufeffTitle": "Alain / le Quernec", 
+  "CuratorApproved": "Y", 
   "ObjectID": "7710"
 }

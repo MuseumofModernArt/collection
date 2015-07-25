@@ -4,20 +4,19 @@
   "Classification": "Photograph", 
   "Artist": "Alice Boughton", 
   "URL": "http://www.moma.org/collection/works/53056", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1906", 
-  "ArtistID": 701, 
+  "DateAcquired": "1942-12-29", 
   "Keywords": [
-    "online art collection", 
     "Alice Boughton", 
     "Henry James", 
     "1906"
   ], 
+  "ArtistID": 701, 
+  "Title": "Henry James", 
   "Department": "Photography", 
   "MoMANumber": "414.1942", 
+  "Date": "1906", 
   "ArtistBio": "(American, 1865\u20131943)", 
-  "DateAcquired": "1942-12-29", 
-  "\ufeffTitle": "Henry James", 
+  "CuratorApproved": "Y", 
   "ObjectID": "53056"
 }

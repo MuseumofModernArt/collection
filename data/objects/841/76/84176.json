@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Georg Baselitz", 
   "URL": "http://www.moma.org/collection/works/84176", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Partial and promised gift of UBS", 
-  "Date": "1988-89", 
-  "ArtistID": 366, 
+  "DateAcquired": "2002-04-08", 
   "Keywords": [
-    "online art collection", 
     "Georg Baselitz", 
     "Five Times Titmouse", 
     "1988-89"
   ], 
+  "ArtistID": 366, 
+  "Title": "Five Times Titmouse", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "93.2002", 
+  "Date": "1988-89", 
   "ArtistBio": "(German, born 1938)", 
-  "DateAcquired": "2002-04-08", 
-  "\ufeffTitle": "Five Times Titmouse", 
+  "CuratorApproved": "Y", 
   "ObjectID": "84176"
 }

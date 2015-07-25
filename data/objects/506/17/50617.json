@@ -4,12 +4,9 @@
   "Classification": "Photograph", 
   "Artist": "Berenice Abbott", 
   "URL": "http://www.moma.org/collection/works/50617", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Given anonymously", 
-  "Date": "August 12, 1936", 
-  "ArtistID": 41, 
+  "DateAcquired": "1974-06-04", 
   "Keywords": [
-    "online art collection", 
     "Berenice Abbott", 
     "Waterfront from Pier 19", 
     "East River", 
@@ -17,10 +14,12 @@
     "August 12", 
     "1936"
   ], 
+  "ArtistID": 41, 
+  "Title": "Waterfront from Pier 19, East River, Manhattan", 
   "Department": "Photography", 
   "MoMANumber": "317.1974", 
+  "Date": "August 12, 1936", 
   "ArtistBio": "(American, 1898\u20131991)", 
-  "DateAcquired": "1974-06-04", 
-  "\ufeffTitle": "Waterfront from Pier 19, East River, Manhattan", 
+  "CuratorApproved": "Y", 
   "ObjectID": "50617"
 }

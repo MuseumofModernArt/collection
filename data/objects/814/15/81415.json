@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Louise Bourgeois", 
   "URL": "http://www.moma.org/collection/works/81415", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Arthur Drexler", 
-  "Date": "1963", 
-  "ArtistID": 710, 
+  "DateAcquired": "1986-12-08", 
   "Keywords": [
-    "online art collection", 
     "Louise Bourgeois", 
     "Portrait", 
     "1963"
   ], 
+  "ArtistID": 710, 
+  "Title": "Portrait", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "385.1986", 
+  "Date": "1963", 
   "ArtistBio": "(American, born France. 1911\u20132010)", 
-  "DateAcquired": "1986-12-08", 
-  "\ufeffTitle": "Portrait", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81415"
 }

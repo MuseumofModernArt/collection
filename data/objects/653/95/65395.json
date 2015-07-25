@@ -4,22 +4,21 @@
   "Classification": "Print", 
   "Artist": "Pablo Picasso", 
   "URL": "http://www.moma.org/collection/works/65395", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Abby Aldrich Rockefeller Fund", 
-  "Date": "March 17, 1933, published 1939", 
-  "ArtistID": 4609, 
+  "DateAcquired": "1949-03-24", 
   "Keywords": [
-    "online art collection", 
     "Pablo Picasso and Paris", 
     "Model and Sculptor with His Sculpture (Mod&egrave;le et sculpteur avec sa sculpture)", 
     "March 17", 
     "1933", 
     "published 1939"
   ], 
+  "ArtistID": 4609, 
+  "Title": "Model and Sculptor with His Sculpture (Mod\u00e8le et sculpteur avec sa sculpture)", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "258.1949", 
+  "Date": "March 17, 1933, published 1939", 
   "ArtistBio": "(Spanish, 1881\u20131973)", 
-  "DateAcquired": "1949-03-24", 
-  "\ufeffTitle": "Model and Sculptor with His Sculpture (Mod\u00e8le et sculpteur avec sa sculpture)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "65395"
 }

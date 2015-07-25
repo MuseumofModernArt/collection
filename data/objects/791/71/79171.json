@@ -4,21 +4,20 @@
   "Classification": "Painting", 
   "Artist": "Tom Wesselmann", 
   "URL": "http://www.moma.org/collection/works/79171", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Lita Hornick", 
-  "Date": "1963", 
-  "ArtistID": 6318, 
+  "DateAcquired": "1982-10-12", 
   "Keywords": [
-    "online art collection", 
     "Tom Wesselmann", 
     "Great American Nude", 
     "47", 
     "1963"
   ], 
+  "ArtistID": 6318, 
+  "Title": "Great American Nude, 47", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "215.1982", 
+  "Date": "1963", 
   "ArtistBio": "(American, 1931\u20132004)", 
-  "DateAcquired": "1982-10-12", 
-  "\ufeffTitle": "Great American Nude, 47", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79171"
 }

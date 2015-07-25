@@ -4,20 +4,19 @@
   "Classification": "Drawing", 
   "Artist": "Kurt Schwitters", 
   "URL": "http://www.moma.org/collection/works/33874", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1918", 
-  "ArtistID": 5293, 
+  "DateAcquired": "1936-10-09", 
   "Keywords": [
-    "online art collection", 
     "Kurt Schwitters", 
     "Drawing A2: Hansi", 
     "1918"
   ], 
+  "ArtistID": 5293, 
+  "Title": "Drawing A2: Hansi", 
   "Department": "Drawings", 
   "MoMANumber": "96.1936", 
+  "Date": "1918", 
   "ArtistBio": "(German, 1887\u20131948)", 
-  "DateAcquired": "1936-10-09", 
-  "\ufeffTitle": "Drawing A2: Hansi", 
+  "CuratorApproved": "Y", 
   "ObjectID": "33874"
 }

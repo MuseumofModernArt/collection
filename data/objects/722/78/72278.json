@@ -4,12 +4,9 @@
   "Classification": "Print", 
   "Artist": "Louise Bourgeois", 
   "URL": "http://www.moma.org/collection/works/72278", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the artist", 
-  "Date": "1993", 
-  "ArtistID": 710, 
+  "DateAcquired": "1996-11-12", 
   "Keywords": [
-    "online art collection", 
     "Louise Bourgeois", 
     "Ste Sebastienne", 
     "first version", 
@@ -17,10 +14,12 @@
     "variant", 
     "(1993)"
   ], 
+  "ArtistID": 710, 
+  "Title": "Ste Sebastienne", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "636.1996", 
+  "Date": "1993", 
   "ArtistBio": "(American, born France. 1911\u20132010)", 
-  "DateAcquired": "1996-11-12", 
-  "\ufeffTitle": "Ste Sebastienne", 
+  "CuratorApproved": "Y", 
   "ObjectID": "72278"
 }

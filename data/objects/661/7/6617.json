@@ -4,12 +4,9 @@
   "Classification": "A&D Graphic Design", 
   "Artist": "A. M. Cassandre", 
   "URL": "http://www.moma.org/collection/works/6617", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of The Lauder Foundation, Leonard and Evelyn Lauder Fund", 
-  "Date": "1928", 
-  "ArtistID": 1015, 
+  "DateAcquired": "1982-10-27", 
   "Keywords": [
-    "online art collection", 
     "A", 
     "M", 
     "Cassandre", 
@@ -17,10 +14,12 @@
     "Bestway", 
     "1928"
   ], 
+  "ArtistID": 1015, 
+  "Title": "L.M.S. Bestway", 
   "Department": "Architecture & Design", 
   "MoMANumber": "410.1982", 
+  "Date": "1928", 
   "ArtistBio": "(French, 1901\u20131968)", 
-  "DateAcquired": "1982-10-27", 
-  "\ufeffTitle": "L.M.S. Bestway", 
+  "CuratorApproved": "Y", 
   "ObjectID": "6617"
 }

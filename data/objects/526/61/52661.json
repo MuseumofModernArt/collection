@@ -4,21 +4,20 @@
   "Classification": "Photograph", 
   "Artist": "Stephen Shore", 
   "URL": "http://www.moma.org/collection/works/52661", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1974", 
-  "ArtistID": 5409, 
+  "DateAcquired": "1974-10-01", 
   "Keywords": [
-    "online art collection", 
     "Stephen Shore", 
     "Castine", 
     "Maine", 
     "1974"
   ], 
+  "ArtistID": 5409, 
+  "Title": "Castine, Maine", 
   "Department": "Photography", 
   "MoMANumber": "403.1974", 
+  "Date": "1974", 
   "ArtistBio": "(American, born 1947)", 
-  "DateAcquired": "1974-10-01", 
-  "\ufeffTitle": "Castine, Maine", 
+  "CuratorApproved": "Y", 
   "ObjectID": "52661"
 }

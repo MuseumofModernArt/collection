@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Paul Signac", 
   "URL": "http://www.moma.org/collection/works/71013", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Abby Aldrich Rockefeller Fund", 
-  "Date": "(1895)", 
-  "ArtistID": 5421, 
+  "DateAcquired": "1949-09-29", 
   "Keywords": [
-    "online art collection", 
     "Paul Signac", 
     "The Andelys", 
     "(1895)"
   ], 
+  "ArtistID": 5421, 
+  "Title": "The Andelys", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "553.1949", 
+  "Date": "(1895)", 
   "ArtistBio": "(French, 1863\u20131935)", 
-  "DateAcquired": "1949-09-29", 
-  "\ufeffTitle": "The Andelys", 
+  "CuratorApproved": "Y", 
   "ObjectID": "71013"
 }

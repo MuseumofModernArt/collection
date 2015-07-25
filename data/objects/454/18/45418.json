@@ -4,20 +4,19 @@
   "Classification": "Photograph", 
   "Artist": "Arnold Genthe", 
   "URL": "http://www.moma.org/collection/works/45418", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the photographer", 
-  "Date": "1906", 
-  "ArtistID": 2119, 
+  "DateAcquired": "1964-01-07", 
   "Keywords": [
-    "online art collection", 
     "Arnold Genthe", 
     "The San Francisco Fire", 
     "1906"
   ], 
+  "ArtistID": 2119, 
+  "Title": "The San Francisco Fire", 
   "Department": "Photography", 
   "MoMANumber": "66.1964", 
+  "Date": "1906", 
   "ArtistBio": "(American, born Germany. 1869\u20131942)", 
-  "DateAcquired": "1964-01-07", 
-  "\ufeffTitle": "The San Francisco Fire", 
+  "CuratorApproved": "Y", 
   "ObjectID": "45418"
 }

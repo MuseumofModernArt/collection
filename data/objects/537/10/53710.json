@@ -4,21 +4,20 @@
   "Classification": "Photograph", 
   "Artist": "Lee Friedlander", 
   "URL": "http://www.moma.org/collection/works/53710", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1973", 
-  "ArtistID": 2002, 
+  "DateAcquired": "2000-10-12", 
   "Keywords": [
-    "online art collection", 
     "Lee Friedlander", 
     "George Washington Bridge", 
     "New Jersey", 
     "1973"
   ], 
+  "ArtistID": 2002, 
+  "Title": "George Washington Bridge, New Jersey", 
   "Department": "Photography", 
   "MoMANumber": "463.2000", 
+  "Date": "1973", 
   "ArtistBio": "(American, born 1934)", 
-  "DateAcquired": "2000-10-12", 
-  "\ufeffTitle": "George Washington Bridge, New Jersey", 
+  "CuratorApproved": "Y", 
   "ObjectID": "53710"
 }

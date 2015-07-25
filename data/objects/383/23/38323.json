@@ -4,20 +4,19 @@
   "Classification": "Drawing", 
   "Artist": "Edda Renouf", 
   "URL": "http://www.moma.org/collection/works/38323", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The Riklis Collection of McCrory Corporation", 
-  "Date": "1973", 
-  "ArtistID": 4870, 
+  "DateAcquired": "1985-09-10", 
   "Keywords": [
-    "online art collection", 
     "Edda Renouf", 
     "Structure Change III", 
     "1973"
   ], 
+  "ArtistID": 4870, 
+  "Title": "Structure Change III", 
   "Department": "Drawings", 
   "MoMANumber": "944.1983.3", 
+  "Date": "1973", 
   "ArtistBio": "(American, born Mexico 1943)", 
-  "DateAcquired": "1985-09-10", 
-  "\ufeffTitle": "Structure Change III", 
+  "CuratorApproved": "Y", 
   "ObjectID": "38323"
 }

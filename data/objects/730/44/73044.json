@@ -4,12 +4,9 @@
   "Classification": "Print", 
   "Artist": "Wilhelm Schmid", 
   "URL": "http://www.moma.org/collection/works/73044", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Transferred from the Museum Library", 
-  "Date": "1917", 
-  "ArtistID": 5229, 
+  "DateAcquired": "1949-09-29", 
   "Keywords": [
-    "online art collection", 
     "Wilhelm Schmid", 
     "Singer (S&auml;ngerin) (plate", 
     "preceding p", 
@@ -20,10 +17,12 @@
     "3 (Mar 1917)", 
     "1917"
   ], 
+  "ArtistID": 5229, 
+  "Title": "Singer (S\u00e4ngerin) (plate, preceding p. 65) from the periodical Das Kunstblatt, vol. 1, no. 3 (Mar 1917)", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "678.1949", 
+  "Date": "1917", 
   "ArtistBio": "(Swiss, 1892\u20131971)", 
-  "DateAcquired": "1949-09-29", 
-  "\ufeffTitle": "Singer (S\u00e4ngerin) (plate, preceding p. 65) from the periodical Das Kunstblatt, vol. 1, no. 3 (Mar 1917)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "73044"
 }

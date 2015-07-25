@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Joseph Cornell", 
   "URL": "http://www.moma.org/collection/works/81784", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Acquired through the Lillie P. Bliss Bequest", 
-  "Date": "early 1940s", 
-  "ArtistID": 1247, 
+  "DateAcquired": "1980-12-09", 
   "Keywords": [
-    "online art collection", 
     "Joseph Cornell", 
     "Untitled (B&eacute;b&eacute; Marie)", 
     "early 1940s"
   ], 
+  "ArtistID": 1247, 
+  "Title": "Untitled (B\u00e9b\u00e9 Marie)", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "682.1980", 
+  "Date": "early 1940s", 
   "ArtistBio": "(American, 1903\u20131972)", 
-  "DateAcquired": "1980-12-09", 
-  "\ufeffTitle": "Untitled (B\u00e9b\u00e9 Marie)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81784"
 }

@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Melvin Edwards", 
   "URL": "http://www.moma.org/collection/works/81199", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1988", 
-  "ArtistID": 1685, 
+  "DateAcquired": "1990-05-07", 
   "Keywords": [
-    "online art collection", 
     "Melvin Edwards", 
     "Sekuru Knows from the Lynch Fragment series", 
     "1988"
   ], 
+  "ArtistID": 1685, 
+  "Title": "Sekuru Knows from the Lynch Fragment series", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "244.1990", 
+  "Date": "1988", 
   "ArtistBio": "(American, born 1937)", 
-  "DateAcquired": "1990-05-07", 
-  "\ufeffTitle": "Sekuru Knows from the Lynch Fragment series", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81199"
 }

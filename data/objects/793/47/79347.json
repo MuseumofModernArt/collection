@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Giacomo Balla", 
   "URL": "http://www.moma.org/collection/works/79347", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1913", 
-  "ArtistID": 311, 
+  "DateAcquired": "1949-05-26", 
   "Keywords": [
-    "online art collection", 
     "Giacomo Balla", 
     "Swifts: Paths of Movement + Dynamic Sequences", 
     "1913"
   ], 
+  "ArtistID": 311, 
+  "Title": "Swifts: Paths of Movement + Dynamic Sequences", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "272.1949", 
+  "Date": "1913", 
   "ArtistBio": "(Italian, 1871\u20131958)", 
-  "DateAcquired": "1949-05-26", 
-  "\ufeffTitle": "Swifts: Paths of Movement + Dynamic Sequences", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79347"
 }

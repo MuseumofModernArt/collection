@@ -4,22 +4,21 @@
   "Classification": "Painting", 
   "Artist": "Paul C\u00e9zanne", 
   "URL": "http://www.moma.org/collection/works/78469", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Lillie P. Bliss Collection", 
-  "Date": "1902-06", 
-  "ArtistID": 1053, 
+  "DateAcquired": "1934-09-23", 
   "Keywords": [
-    "online art collection", 
     "Paul C&eacute;zanne", 
     "Still Life with Ginger Jar", 
     "Sugar Bowl", 
     "and Oranges", 
     "1902-06"
   ], 
+  "ArtistID": 1053, 
+  "Title": "Still Life with Ginger Jar, Sugar Bowl, and Oranges", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "18.1934", 
+  "Date": "1902-06", 
   "ArtistBio": "(French, 1839\u20131906)", 
-  "DateAcquired": "1934-09-23", 
-  "\ufeffTitle": "Still Life with Ginger Jar, Sugar Bowl, and Oranges", 
+  "CuratorApproved": "Y", 
   "ObjectID": "78469"
 }

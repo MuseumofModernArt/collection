@@ -4,20 +4,19 @@
   "Classification": "Drawing", 
   "Artist": "Marc Chagall", 
   "URL": "http://www.moma.org/collection/works/37234", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Edward M. M. Warburg", 
-  "Date": "(1911)", 
-  "ArtistID": 1055, 
+  "DateAcquired": "1941-01-01", 
   "Keywords": [
-    "online art collection", 
     "Marc Chagall", 
     "Vaslaw Nijinsky", 
     "(1911)"
   ], 
+  "ArtistID": 1055, 
+  "Title": "Vaslaw Nijinsky", 
   "Department": "Drawings", 
   "MoMANumber": "507.1941", 
+  "Date": "(1911)", 
   "ArtistBio": "(French, born Belarus. 1887\u20131985)", 
-  "DateAcquired": "1941-01-01", 
-  "\ufeffTitle": "Vaslaw Nijinsky", 
+  "CuratorApproved": "Y", 
   "ObjectID": "37234"
 }

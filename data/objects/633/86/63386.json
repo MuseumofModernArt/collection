@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Donald Baechler", 
   "URL": "http://www.moma.org/collection/works/63386", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Elinor and Edmund Grasheim Annual Fund", 
-  "Date": "1986", 
-  "ArtistID": 280, 
+  "DateAcquired": "1986-05-20", 
   "Keywords": [
-    "online art collection", 
     "Donald Baechler", 
     "Objects", 
     "1986"
   ], 
+  "ArtistID": 280, 
+  "Title": "Objects", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "164.1986.1-8", 
+  "Date": "1986", 
   "ArtistBio": "(American, born 1956)", 
-  "DateAcquired": "1986-05-20", 
-  "\ufeffTitle": "Objects", 
+  "CuratorApproved": "Y", 
   "ObjectID": "63386"
 }

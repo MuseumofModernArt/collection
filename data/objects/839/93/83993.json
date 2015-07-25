@@ -4,21 +4,20 @@
   "Classification": "Photograph", 
   "Artist": "Lyonel Feininger", 
   "URL": "http://www.moma.org/collection/works/83993", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Thomas Walther Collection. Gift of Thomas Walther", 
-  "Date": "February 26, 1929", 
-  "ArtistID": 1832, 
+  "DateAcquired": "2001-06-14", 
   "Keywords": [
-    "online art collection", 
     "Lyonel Feininger", 
     "Bauhaus", 
     "November 26", 
     "1929"
   ], 
+  "ArtistID": 1832, 
+  "Title": "Bauhaus", 
   "Department": "Photography", 
   "MoMANumber": "1669.2001", 
+  "Date": "February 26, 1929", 
   "ArtistBio": "(American, 1871\u20131956)", 
-  "DateAcquired": "2001-06-14", 
-  "\ufeffTitle": "Bauhaus", 
+  "CuratorApproved": "Y", 
   "ObjectID": "83993"
 }

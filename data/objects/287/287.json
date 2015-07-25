@@ -4,12 +4,9 @@
   "Classification": "A&D Architectural Drawing", 
   "Artist": "Herbert Bayer", 
   "URL": "http://www.moma.org/collection/works/287", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1938", 
-  "ArtistID": 399, 
+  "DateAcquired": "1986-10-07", 
   "Keywords": [
-    "online art collection", 
     "Herbert Bayer", 
     "\"Bauhaus 1919-1928,\" The Museum of Modern Art", 
     "New York", 
@@ -19,10 +16,12 @@
     "Exhibition floor plan", 
     "1938"
   ], 
+  "ArtistID": 399, 
+  "Title": "\"Bauhaus 1919-1928,\" The Museum of Modern Art, New York, December 7, 1938-January 30, 1939, Exhibition floor plan", 
   "Department": "Architecture & Design", 
   "MoMANumber": "252.1986", 
+  "Date": "1938", 
   "ArtistBio": "(American, born Austria. 1900\u20131985)", 
-  "DateAcquired": "1986-10-07", 
-  "\ufeffTitle": "\"Bauhaus 1919-1928,\" The Museum of Modern Art, New York, December 7, 1938-January 30, 1939, Exhibition floor plan", 
+  "CuratorApproved": "Y", 
   "ObjectID": "287"
 }

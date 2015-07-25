@@ -4,12 +4,9 @@
   "Classification": "Multiple", 
   "Artist": "Various Artists, Lorna Simpson, Simon Leung, Nancy Spero, Mike Kelley, Louise Bourgeois, Ross Bleckner, Kiki Smith", 
   "URL": "http://www.moma.org/collection/works/66791", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Agnes Gund", 
-  "Date": "(1993-1994)", 
-  "ArtistID": 6104, 
+  "DateAcquired": "1994-05-26", 
   "Keywords": [
-    "online art collection", 
     "Various Artists with Lorna Simpson", 
     "Simon Leung", 
     "Nancy Spero", 
@@ -19,10 +16,12 @@
     "Act Up Art Box", 
     "(1993-1994)"
   ], 
+  "ArtistID": 6104, 
+  "Title": "Act Up Art Box", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "316.1994.1-7", 
+  "Date": "(1993-1994)", 
   "ArtistBio": "(American) (American, born 1960) (American, born 1964) (American, 1926\u20132009) (American, 1954\u20132012) (American, born France. 1911\u20132010) (American, born 1949) (American, born Germany 1954)", 
-  "DateAcquired": "1994-05-26", 
-  "\ufeffTitle": "Act Up Art Box", 
+  "CuratorApproved": "Y", 
   "ObjectID": "66791"
 }

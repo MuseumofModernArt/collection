@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Edward Ruscha", 
   "URL": "http://www.moma.org/collection/works/84191", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Partial and promised gift of UBS", 
-  "Date": "1973", 
-  "ArtistID": 5086, 
+  "DateAcquired": "2002-04-08", 
   "Keywords": [
-    "online art collection", 
     "Edward Ruscha", 
     "Now Then As I Was About to Say", 
     "1973"
   ], 
+  "ArtistID": 5086, 
+  "Title": "Now Then As I Was About to Say", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "108.2002", 
+  "Date": "1973", 
   "ArtistBio": "(American, born 1937)", 
-  "DateAcquired": "2002-04-08", 
-  "\ufeffTitle": "Now Then As I Was About to Say", 
+  "CuratorApproved": "Y", 
   "ObjectID": "84191"
 }

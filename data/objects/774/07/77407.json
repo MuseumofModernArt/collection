@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Anton Heyboer", 
   "URL": "http://www.moma.org/collection/works/77407", 
-  "CuratorApproved": "Y", 
   "CreditLine": "John S. Newberry Fund", 
-  "Date": "1968", 
-  "ArtistID": 2627, 
+  "DateAcquired": "1968-12-11", 
   "Keywords": [
-    "online art collection", 
     "Anton Heyboer", 
     "Red is the Life of my Life", 
     "1968"
   ], 
+  "ArtistID": 2627, 
+  "Title": "Red is the Life of my Life", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "1638.1968", 
+  "Date": "1968", 
   "ArtistBio": "(Dutch, born 1924)", 
-  "DateAcquired": "1968-12-11", 
-  "\ufeffTitle": "Red is the Life of my Life", 
+  "CuratorApproved": "Y", 
   "ObjectID": "77407"
 }

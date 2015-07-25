@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Leonid (Leonid Berman)", 
   "URL": "http://www.moma.org/collection/works/80002", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of James Thrall Soby", 
-  "Date": "1937", 
-  "ArtistID": 3487, 
+  "DateAcquired": "1943-07-06", 
   "Keywords": [
-    "online art collection", 
     "Leonid (Leonid Berman)", 
     "Shrimp Fishermen", 
     "1937"
   ], 
+  "ArtistID": 3487, 
+  "Title": "Shrimp Fishermen", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "578.1943", 
+  "Date": "1937", 
   "ArtistBio": "(American, born Russia. 1896\u20131976)", 
-  "DateAcquired": "1943-07-06", 
-  "\ufeffTitle": "Shrimp Fishermen", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80002"
 }

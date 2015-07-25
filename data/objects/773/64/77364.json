@@ -4,21 +4,20 @@
   "Classification": "Print", 
   "Artist": "Georges Braque", 
   "URL": "http://www.moma.org/collection/works/77364", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Abby Aldrich Rockefeller", 
-  "Date": "1911, published 1912", 
-  "ArtistID": 744, 
+  "DateAcquired": "1940-06-17", 
   "Keywords": [
-    "online art collection", 
     "Georges Braque", 
     "Fox", 
     "1911", 
     "published 1912"
   ], 
+  "ArtistID": 744, 
+  "Title": "Fox", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "1629.1940", 
+  "Date": "1911, published 1912", 
   "ArtistBio": "(French, 1882\u20131963)", 
-  "DateAcquired": "1940-06-17", 
-  "\ufeffTitle": "Fox", 
+  "CuratorApproved": "Y", 
   "ObjectID": "77364"
 }

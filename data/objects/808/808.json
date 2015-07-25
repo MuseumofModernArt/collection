@@ -4,12 +4,9 @@
   "Classification": "A&D Architectural Drawing", 
   "Artist": "R. Buckminster Fuller", 
   "URL": "http://www.moma.org/collection/works/808", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of The Howard Gilman Foundation", 
-  "Date": "1930", 
-  "ArtistID": 2030, 
+  "DateAcquired": "2000-10-31", 
   "Keywords": [
-    "online art collection", 
     "R", 
     "Buckminster Fuller", 
     "Dymaxion House", 
@@ -17,10 +14,12 @@
     "Perspective", 
     "1930"
   ], 
+  "ArtistID": 2030, 
+  "Title": "Dymaxion House, project , Perspective", 
   "Department": "Architecture & Design", 
   "MoMANumber": "1197.2000", 
+  "Date": "1930", 
   "ArtistBio": "(American, 1895\u20131983)", 
-  "DateAcquired": "2000-10-31", 
-  "\ufeffTitle": "Dymaxion House, project , Perspective", 
+  "CuratorApproved": "Y", 
   "ObjectID": "808"
 }

@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Pablo Picasso", 
   "URL": "http://www.moma.org/collection/works/69983", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Abby Aldrich Rockefeller", 
-  "Date": "(March 1926)", 
-  "ArtistID": 4609, 
+  "DateAcquired": "1940-04-05", 
   "Keywords": [
-    "online art collection", 
     "Pablo Picasso", 
     "Interior Scene (Sc&egrave;ne d'int&eacute;rieur)", 
     "(March 1926)"
   ], 
+  "ArtistID": 4609, 
+  "Title": "Interior Scene (Sc\u00e8ne d'int\u00e9rieur)", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "487.1940", 
+  "Date": "(March 1926)", 
   "ArtistBio": "(Spanish, 1881\u20131973)", 
-  "DateAcquired": "1940-04-05", 
-  "\ufeffTitle": "Interior Scene (Sc\u00e8ne d'int\u00e9rieur)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "69983"
 }

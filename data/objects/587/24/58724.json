@@ -4,21 +4,20 @@
   "Classification": "Photograph", 
   "Artist": "Times Wide World Photos", 
   "URL": "http://www.moma.org/collection/works/58724", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The New York Times Collection", 
-  "Date": "February 3, 1925", 
-  "ArtistID": 8632, 
+  "DateAcquired": "2001-06-14", 
   "Keywords": [
-    "online art collection", 
     "Times Wide World Photos", 
     "\"Houdini Exposes Spirit Trickery to New York Clergymen\"", 
     "February 3", 
     "1925"
   ], 
+  "ArtistID": 8632, 
+  "Title": "\"Houdini Exposes Spirit Trickery to New York Clergymen\"", 
   "Department": "Photography", 
   "MoMANumber": "2131.2001", 
+  "Date": "February 3, 1925", 
   "ArtistBio": "(American, active 1919\u20131941)", 
-  "DateAcquired": "2001-06-14", 
-  "\ufeffTitle": "\"Houdini Exposes Spirit Trickery to New York Clergymen\"", 
+  "CuratorApproved": "Y", 
   "ObjectID": "58724"
 }

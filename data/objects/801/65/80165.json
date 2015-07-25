@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Cundo Berm\u00fadez", 
   "URL": "http://www.moma.org/collection/works/80165", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Edgar Kaufmann, Jr.", 
-  "Date": "1941", 
-  "ArtistID": 507, 
+  "DateAcquired": "1942-12-29", 
   "Keywords": [
-    "online art collection", 
     "Cundo Berm&uacute;dez", 
     "The Balcony", 
     "1941"
   ], 
+  "ArtistID": 507, 
+  "Title": "The Balcony", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "644.1942", 
+  "Date": "1941", 
   "ArtistBio": "(Cuban, 1914\u20132008)", 
-  "DateAcquired": "1942-12-29", 
-  "\ufeffTitle": "The Balcony", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80165"
 }

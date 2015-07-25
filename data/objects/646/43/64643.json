@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Kiki Smith", 
   "URL": "http://www.moma.org/collection/works/64643", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Emily Fisher Landau", 
-  "Date": "1990", 
-  "ArtistID": 5486, 
+  "DateAcquired": "1990-05-02", 
   "Keywords": [
-    "online art collection", 
     "Kiki Smith", 
     "Untitled", 
     "1990"
   ], 
+  "ArtistID": 5486, 
+  "Title": "Untitled", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "220.1990", 
+  "Date": "1990", 
   "ArtistBio": "(American, born Germany 1954)", 
-  "DateAcquired": "1990-05-02", 
-  "\ufeffTitle": "Untitled", 
+  "CuratorApproved": "Y", 
   "ObjectID": "64643"
 }

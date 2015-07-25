@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Sue Coe", 
   "URL": "http://www.moma.org/collection/works/80414", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Acquisition from Werner and Elaine Dannheisser", 
-  "Date": "1983", 
-  "ArtistID": 1170, 
+  "DateAcquired": "1996-12-19", 
   "Keywords": [
-    "online art collection", 
     "Sue Coe", 
     "Woman Walks into Bar - Is Raped by Four Men on the Pool Table - While 20 Watch", 
     "1983"
   ], 
+  "ArtistID": 1170, 
+  "Title": "Woman Walks into Bar - Is Raped by Four Men on the Pool Table - While 20 Watch", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "880.1996", 
+  "Date": "1983", 
   "ArtistBio": "(British, born 1951)", 
-  "DateAcquired": "1996-12-19", 
-  "\ufeffTitle": "Woman Walks into Bar - Is Raped by Four Men on the Pool Table - While 20 Watch", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80414"
 }

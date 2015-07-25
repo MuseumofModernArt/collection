@@ -4,20 +4,19 @@
   "Classification": "Photograph", 
   "Artist": "John Brook", 
   "URL": "http://www.moma.org/collection/works/53295", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1960", 
-  "ArtistID": 797, 
+  "DateAcquired": "1960-11-30", 
   "Keywords": [
-    "online art collection", 
     "John Brook", 
     "Untitled", 
     "1960"
   ], 
+  "ArtistID": 797, 
+  "Title": "Untitled", 
   "Department": "Photography", 
   "MoMANumber": "432.1960", 
+  "Date": "1960", 
   "ArtistBio": "(American, born 1924)", 
-  "DateAcquired": "1960-11-30", 
-  "\ufeffTitle": "Untitled", 
+  "CuratorApproved": "Y", 
   "ObjectID": "53295"
 }

@@ -4,20 +4,19 @@
   "Classification": "Photograph", 
   "Artist": "John Adams Whipple", 
   "URL": "http://www.moma.org/collection/works/57853", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Warner Communications, Inc.", 
-  "Date": "1853-54", 
-  "ArtistID": 6335, 
+  "DateAcquired": "1979-12-13", 
   "Keywords": [
-    "online art collection", 
     "John Adams Whipple", 
     "The Moon", 
     "1853-54"
   ], 
+  "ArtistID": 6335, 
+  "Title": "The Moon", 
   "Department": "Photography", 
   "MoMANumber": "1195.1979", 
+  "Date": "1853-54", 
   "ArtistBio": "(American, 1822\u20131891)", 
-  "DateAcquired": "1979-12-13", 
-  "\ufeffTitle": "The Moon", 
+  "CuratorApproved": "Y", 
   "ObjectID": "57853"
 }

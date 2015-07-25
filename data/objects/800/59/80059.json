@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Alberto Giacometti", 
   "URL": "http://www.moma.org/collection/works/80059", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The Sidney and Harriet Janis Collection", 
-  "Date": "1962", 
-  "ArtistID": 2141, 
+  "DateAcquired": "1967-10-18", 
   "Keywords": [
-    "online art collection", 
     "Alberto Giacometti", 
     "Annette", 
     "1962"
   ], 
+  "ArtistID": 2141, 
+  "Title": "Annette", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "603.1967", 
+  "Date": "1962", 
   "ArtistBio": "(Swiss, 1901\u20131966)", 
-  "DateAcquired": "1967-10-18", 
-  "\ufeffTitle": "Annette", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80059"
 }

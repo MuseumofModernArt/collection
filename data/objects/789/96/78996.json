@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Brice Marden", 
   "URL": "http://www.moma.org/collection/works/78996", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Treadwell Corporation Fund", 
-  "Date": "1972-73", 
-  "ArtistID": 3758, 
+  "DateAcquired": "1973-03-13", 
   "Keywords": [
-    "online art collection", 
     "Brice Marden", 
     "Grove Group I", 
     "1972-73"
   ], 
+  "ArtistID": 3758, 
+  "Title": "Grove Group I", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "151.1973", 
+  "Date": "1972-73", 
   "ArtistBio": "(American, born 1938)", 
-  "DateAcquired": "1973-03-13", 
-  "\ufeffTitle": "Grove Group I", 
+  "CuratorApproved": "Y", 
   "ObjectID": "78996"
 }

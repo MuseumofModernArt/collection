@@ -4,12 +4,9 @@
   "Classification": "A&D Design", 
   "Artist": "Wilfred O. Langille, Frederik Ljungstr\u00f6m", 
   "URL": "http://www.moma.org/collection/works/3444", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Singer Sewing Machine Co.", 
-  "Date": "c. 1935", 
-  "ArtistID": 3375, 
+  "DateAcquired": "1942-01-01", 
   "Keywords": [
-    "online art collection", 
     "W", 
     "O", 
     "Langille", 
@@ -17,10 +14,12 @@
     "c", 
     "1935"
   ], 
+  "ArtistID": 3375, 
+  "Title": "Ribbonaire Fan", 
   "Department": "Architecture & Design", 
   "MoMANumber": "365.1942", 
+  "Date": "c. 1935", 
   "ArtistBio": "(American, 1895\u20131996) (Swedish, 1875\u20131964)", 
-  "DateAcquired": "1942-01-01", 
-  "\ufeffTitle": "Ribbonaire Fan", 
+  "CuratorApproved": "Y", 
   "ObjectID": "3444"
 }

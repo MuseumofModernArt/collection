@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Robert Indiana", 
   "URL": "http://www.moma.org/collection/works/81968", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Arne Ekstrom", 
-  "Date": "1959-60", 
-  "ArtistID": 2812, 
+  "DateAcquired": "1964-11-10", 
   "Keywords": [
-    "online art collection", 
     "Robert Indiana", 
     "French Atomic Bomb", 
     "1959-60"
   ], 
+  "ArtistID": 2812, 
+  "Title": "French Atomic Bomb", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "1127.1964", 
+  "Date": "1959-60", 
   "ArtistBio": "(American, born 1928)", 
-  "DateAcquired": "1964-11-10", 
-  "\ufeffTitle": "French Atomic Bomb", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81968"
 }

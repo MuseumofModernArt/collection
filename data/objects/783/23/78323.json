@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Paul Gauguin", 
   "URL": "http://www.moma.org/collection/works/78323", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Fractional gift of Mr. and Mrs. David Rockefeller", 
-  "Date": "1889", 
-  "ArtistID": 2098, 
+  "DateAcquired": "1958-02-19", 
   "Keywords": [
-    "online art collection", 
     "Paul Gauguin", 
     "Portrait of Jacob Meyer de Haan", 
     "1889"
   ], 
+  "ArtistID": 2098, 
+  "Title": "Portrait of Jacob Meyer de Haan", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "2.1958", 
+  "Date": "1889", 
   "ArtistBio": "(French, 1848\u20131903)", 
-  "DateAcquired": "1958-02-19", 
-  "\ufeffTitle": "Portrait of Jacob Meyer de Haan", 
+  "CuratorApproved": "Y", 
   "ObjectID": "78323"
 }

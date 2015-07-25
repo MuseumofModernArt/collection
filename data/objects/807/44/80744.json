@@ -4,21 +4,20 @@
   "Classification": "Sculpture", 
   "Artist": "Constantin Brancusi", 
   "URL": "http://www.moma.org/collection/works/80744", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Acquired through the Lillie P. Bliss Bequest", 
-  "Date": "version I, 1913 (after a marble of 1912)", 
-  "ArtistID": 738, 
+  "DateAcquired": "1953-01-30", 
   "Keywords": [
-    "online art collection", 
     "Constantin Brancusi", 
     "Mlle Pogany", 
     "version I", 
     "1913 (after a marble of 1912)"
   ], 
+  "ArtistID": 738, 
+  "Title": "Mlle Pogany", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "2.1953", 
+  "Date": "version I, 1913 (after a marble of 1912)", 
   "ArtistBio": "(French, born Romania. 1876\u20131957)", 
-  "DateAcquired": "1953-01-30", 
-  "\ufeffTitle": "Mlle Pogany", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80744"
 }

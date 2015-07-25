@@ -4,12 +4,9 @@
   "Classification": "Photograph", 
   "Artist": "Berenice Abbott", 
   "URL": "http://www.moma.org/collection/works/44303", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the Robert and Joyce Menschel Foundation", 
-  "Date": "December 19, 1935", 
-  "ArtistID": 41, 
+  "DateAcquired": "1987-02-19", 
   "Keywords": [
-    "online art collection", 
     "Berenice Abbott", 
     "Firehouse", 
     "Park Avenue", 
@@ -18,10 +15,12 @@
     "December 19", 
     "1935"
   ], 
+  "ArtistID": 41, 
+  "Title": "Firehouse, Park Avenue, East 135th Street, Manhattan", 
   "Department": "Photography", 
   "MoMANumber": "32.1987", 
+  "Date": "December 19, 1935", 
   "ArtistBio": "(American, 1898\u20131991)", 
-  "DateAcquired": "1987-02-19", 
-  "\ufeffTitle": "Firehouse, Park Avenue, East 135th Street, Manhattan", 
+  "CuratorApproved": "Y", 
   "ObjectID": "44303"
 }

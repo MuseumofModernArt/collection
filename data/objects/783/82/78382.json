@@ -4,21 +4,20 @@
   "Classification": "Painting", 
   "Artist": "Giacomo Balla", 
   "URL": "http://www.moma.org/collection/works/78382", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Hillman Periodicals Fund", 
-  "Date": "c. 1910-11 (dated on painting 1909)", 
-  "ArtistID": 311, 
+  "DateAcquired": "1954-04-06", 
   "Keywords": [
-    "online art collection", 
     "Giacomo Balla", 
     "Street Light", 
     "c", 
     "1910-11 (dated on painting 1909)"
   ], 
+  "ArtistID": 311, 
+  "Title": "Street Light", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "7.1954", 
+  "Date": "c. 1910-11 (dated on painting 1909)", 
   "ArtistBio": "(Italian, 1871\u20131958)", 
-  "DateAcquired": "1954-04-06", 
-  "\ufeffTitle": "Street Light", 
+  "CuratorApproved": "Y", 
   "ObjectID": "78382"
 }

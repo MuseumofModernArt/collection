@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Max Beckmann", 
   "URL": "http://www.moma.org/collection/works/78507", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Abby Aldrich Rockefeller", 
-  "Date": "Frankfurt 1920", 
-  "ArtistID": 429, 
+  "DateAcquired": "1935-06-04", 
   "Keywords": [
-    "online art collection", 
     "Max Beckmann", 
     "Family Picture", 
     "Frankfurt 1920"
   ], 
+  "ArtistID": 429, 
+  "Title": "Family Picture", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "26.1935", 
+  "Date": "Frankfurt 1920", 
   "ArtistBio": "(German, 1884\u20131950)", 
-  "DateAcquired": "1935-06-04", 
-  "\ufeffTitle": "Family Picture", 
+  "CuratorApproved": "Y", 
   "ObjectID": "78507"
 }

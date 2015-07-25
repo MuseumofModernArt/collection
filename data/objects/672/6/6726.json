@@ -4,12 +4,9 @@
   "Classification": "A&D Graphic Design", 
   "Artist": "E. McKnight Kauffer", 
   "URL": "http://www.moma.org/collection/works/6726", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the designer", 
-  "Date": "1929", 
-  "ArtistID": 3020, 
+  "DateAcquired": "1939-05-22", 
   "Keywords": [
-    "online art collection", 
     "E", 
     "McKnight Kauffer", 
     "International Aero Exhibition 1929", 
@@ -18,10 +15,12 @@
     "Section C", 
     "1929"
   ], 
+  "ArtistID": 3020, 
+  "Title": "International Aero Exhibition 1929, Shell, Visit Stand No 10, Section C", 
   "Department": "Architecture & Design", 
   "MoMANumber": "427.1939", 
+  "Date": "1929", 
   "ArtistBio": "(American, 1890\u20131954)", 
-  "DateAcquired": "1939-05-22", 
-  "\ufeffTitle": "International Aero Exhibition 1929, Shell, Visit Stand No 10, Section C", 
+  "CuratorApproved": "Y", 
   "ObjectID": "6726"
 }

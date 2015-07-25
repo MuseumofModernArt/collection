@@ -4,20 +4,19 @@
   "Classification": "Photograph", 
   "Artist": "Unknown photographer", 
   "URL": "http://www.moma.org/collection/works/49143", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1866-69", 
-  "ArtistID": 6028, 
+  "DateAcquired": "1986-05-22", 
   "Keywords": [
-    "online art collection", 
     "Unknown Photographer", 
     "Tunnel de Bonvoyage", 
     "1866-1869"
   ], 
+  "ArtistID": 6028, 
+  "Title": "Tunnel de Bonvoyage", 
   "Department": "Photography", 
   "MoMANumber": "227.1986", 
+  "Date": "1866-69", 
   "ArtistBio": "", 
-  "DateAcquired": "1986-05-22", 
-  "\ufeffTitle": "Tunnel de Bonvoyage", 
+  "CuratorApproved": "Y", 
   "ObjectID": "49143"
 }

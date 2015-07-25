@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Theo van Doesburg (Christian Emil Marie K\u00fcpper)", 
   "URL": "http://www.moma.org/collection/works/80467", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The Riklis Collection of McCrory Corporation", 
-  "Date": "1929-30", 
-  "ArtistID": 6076, 
+  "DateAcquired": "1985-10-25", 
   "Keywords": [
-    "online art collection", 
     "Theo van Doesburg (Christian Emil Marie K&uuml;pper)", 
     "Simultaneous Counter-Composition", 
     "1929-30"
   ], 
+  "ArtistID": 6076, 
+  "Title": "Simultaneous Counter-Composition", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "1002.1983", 
+  "Date": "1929-30", 
   "ArtistBio": "(Dutch, 1883\u20131931)", 
-  "DateAcquired": "1985-10-25", 
-  "\ufeffTitle": "Simultaneous Counter-Composition", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80467"
 }

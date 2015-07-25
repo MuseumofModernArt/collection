@@ -4,21 +4,20 @@
   "Classification": "A&D Graphic Design", 
   "Artist": "J. De Praetre", 
   "URL": "http://www.moma.org/collection/works/6898", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Leonard and Evelyn Lauder Fund", 
-  "Date": "1901", 
-  "ArtistID": 1442, 
+  "DateAcquired": "1985-11-18", 
   "Keywords": [
-    "online art collection", 
     "J", 
     "De Praetre", 
     "Ausstellung von Schulbildern", 
     "1901"
   ], 
+  "ArtistID": 1442, 
+  "Title": "Ausstellung von Schulbildern", 
   "Department": "Architecture & Design", 
   "MoMANumber": "431.1985", 
+  "Date": "1901", 
   "ArtistBio": "(German, 1879\u20131947)", 
-  "DateAcquired": "1985-11-18", 
-  "\ufeffTitle": "Ausstellung von Schulbildern", 
+  "CuratorApproved": "Y", 
   "ObjectID": "6898"
 }

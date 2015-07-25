@@ -4,21 +4,20 @@
   "Classification": "Print", 
   "Artist": "Giorgio Morandi", 
   "URL": "http://www.moma.org/collection/works/66453", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1933, printed 1939-49", 
-  "ArtistID": 4079, 
+  "DateAcquired": "1949-05-26", 
   "Keywords": [
-    "online art collection", 
     "Giorgio Morandi", 
     "Still Life", 
     "1933", 
     "printed 1939-49"
   ], 
+  "ArtistID": 4079, 
+  "Title": "Still Life", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "302.1949", 
+  "Date": "1933, printed 1939-49", 
   "ArtistBio": "(Italian, 1890\u20131964)", 
-  "DateAcquired": "1949-05-26", 
-  "\ufeffTitle": "Still Life", 
+  "CuratorApproved": "Y", 
   "ObjectID": "66453"
 }

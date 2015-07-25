@@ -4,21 +4,20 @@
   "Classification": "A&D Graphic Design", 
   "Artist": "Jan Tschichold", 
   "URL": "http://www.moma.org/collection/works/6104", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the artist", 
-  "Date": "1938", 
-  "ArtistID": 5951, 
+  "DateAcquired": "1938-01-01", 
   "Keywords": [
-    "online art collection", 
     "Jan Tschichold", 
     "Der Berufsphotograph", 
     "Sein Werkzeug-Seine Arbeiten", 
     "1938"
   ], 
+  "ArtistID": 5951, 
+  "Title": "Der Berufsphotograph, Sein Werkzeug-Seine Arbeiten", 
   "Department": "Architecture & Design", 
   "MoMANumber": "290.1938", 
+  "Date": "1938", 
   "ArtistBio": "(Swiss, born Germany. 1902\u20131974)", 
-  "DateAcquired": "1938-01-01", 
-  "\ufeffTitle": "Der Berufsphotograph, Sein Werkzeug-Seine Arbeiten", 
+  "CuratorApproved": "Y", 
   "ObjectID": "6104"
 }

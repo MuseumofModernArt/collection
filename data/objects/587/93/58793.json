@@ -4,20 +4,19 @@
   "Classification": "Photograph", 
   "Artist": "Underwood and Underwood", 
   "URL": "http://www.moma.org/collection/works/58793", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The New York Times Collection", 
-  "Date": "1915", 
-  "ArtistID": 6008, 
+  "DateAcquired": "2001-06-14", 
   "Keywords": [
-    "online art collection", 
     "Underwood and Underwood", 
     "Prisoners Killed by the Germans at Hill Sixty", 
     "1915"
   ], 
+  "ArtistID": 6008, 
+  "Title": "Prisoners Killed by the Germans at Hill Sixty", 
   "Department": "Photography", 
   "MoMANumber": "2200.2001", 
+  "Date": "1915", 
   "ArtistBio": "(American, active 1880\u20131934)", 
-  "DateAcquired": "2001-06-14", 
-  "\ufeffTitle": "Prisoners Killed by the Germans at Hill Sixty", 
+  "CuratorApproved": "Y", 
   "ObjectID": "58793"
 }

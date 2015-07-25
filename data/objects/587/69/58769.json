@@ -4,12 +4,9 @@
   "Classification": "Photograph", 
   "Artist": "Times Wide World Photos", 
   "URL": "http://www.moma.org/collection/works/58769", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The New York Times Collection", 
-  "Date": "September 25, 1935", 
-  "ArtistID": 8632, 
+  "DateAcquired": "2001-06-14", 
   "Keywords": [
-    "online art collection", 
     "Times Wide World Photos", 
     "Mr", 
     "and Mrs", 
@@ -17,10 +14,12 @@
     "September 25", 
     "1935"
   ], 
+  "ArtistID": 8632, 
+  "Title": "Mr. and Mrs. Joe Louis Out for a Stroll", 
   "Department": "Photography", 
   "MoMANumber": "2176.2001", 
+  "Date": "September 25, 1935", 
   "ArtistBio": "(American, active 1919\u20131941)", 
-  "DateAcquired": "2001-06-14", 
-  "\ufeffTitle": "Mr. and Mrs. Joe Louis Out for a Stroll", 
+  "CuratorApproved": "Y", 
   "ObjectID": "58769"
 }

@@ -4,12 +4,9 @@
   "Classification": "A&D Mies van der Rohe Archive", 
   "Artist": "Ludwig Mies van der Rohe", 
   "URL": "http://www.moma.org/collection/works/88275", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Mies van der Rohe Archive, gift of the architect\r\n", 
-  "Date": "1945-1946", 
-  "ArtistID": 7166, 
+  "DateAcquired": "", 
   "Keywords": [
-    "online art collection", 
     "Ludwig Mies van der Rohe", 
     "IIT Metallurgical and Chemical Engineering Building (Perlstein Hall) Chicago", 
     "Illinois", 
@@ -17,10 +14,12 @@
     "structural detail", 
     "1945-1946"
   ], 
+  "ArtistID": 7166, 
+  "Title": "IIT Metallurgical and Chemical Engineering Building (Perlstein Hall) Chicago, Illinois, Section, structural detail", 
   "Department": "Architecture & Design", 
   "MoMANumber": "MR4512.640", 
+  "Date": "1945-1946", 
   "ArtistBio": "(American, born Germany. 1886\u20131969)", 
-  "DateAcquired": "", 
-  "\ufeffTitle": "IIT Metallurgical and Chemical Engineering Building (Perlstein Hall) Chicago, Illinois, Section, structural detail", 
+  "CuratorApproved": "Y", 
   "ObjectID": "88275"
 }

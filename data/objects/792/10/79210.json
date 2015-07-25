@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Odilon Redon", 
   "URL": "http://www.moma.org/collection/works/79210", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of The Ian Woodner Family Collection", 
-  "Date": "after 1900", 
-  "ArtistID": 4840, 
+  "DateAcquired": "2000-04-10", 
   "Keywords": [
-    "online art collection", 
     "Odilon Redon", 
     "Landscape", 
     "after 1900"
   ], 
+  "ArtistID": 4840, 
+  "Title": "Landscape", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "231.2000", 
+  "Date": "after 1900", 
   "ArtistBio": "(French, 1840\u20131916)", 
-  "DateAcquired": "2000-04-10", 
-  "\ufeffTitle": "Landscape", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79210"
 }

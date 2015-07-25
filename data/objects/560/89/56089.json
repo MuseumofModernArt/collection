@@ -4,20 +4,19 @@
   "Classification": "Photograph", 
   "Artist": "Nicholas Nixon", 
   "URL": "http://www.moma.org/collection/works/56089", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1975", 
-  "ArtistID": 4315, 
+  "DateAcquired": "1976-12-08", 
   "Keywords": [
-    "online art collection", 
     "Nicholas Nixon", 
     "View of Boston from Pier 4", 
     "1975"
   ], 
+  "ArtistID": 4315, 
+  "Title": "View of Boston from Pier 4", 
   "Department": "Photography", 
   "MoMANumber": "691.1976", 
+  "Date": "1975", 
   "ArtistBio": "(American, born 1947)", 
-  "DateAcquired": "1976-12-08", 
-  "\ufeffTitle": "View of Boston from Pier 4", 
+  "CuratorApproved": "Y", 
   "ObjectID": "56089"
 }

@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "George Brecht", 
   "URL": "http://www.moma.org/collection/works/81283", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Larry Aldrich Foundation Fund", 
-  "Date": "1961", 
-  "ArtistID": 756, 
+  "DateAcquired": "1961-10-10", 
   "Keywords": [
-    "online art collection", 
     "George Brecht", 
     "Repository", 
     "1961"
   ], 
+  "ArtistID": 756, 
+  "Title": "Repository", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "281.1961", 
+  "Date": "1961", 
   "ArtistBio": "(American, 1926\u20132008)", 
-  "DateAcquired": "1961-10-10", 
-  "\ufeffTitle": "Repository", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81283"
 }

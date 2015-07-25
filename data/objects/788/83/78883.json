@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Arnold Friedman", 
   "URL": "http://www.moma.org/collection/works/78883", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase Fund and gift of Nathaniel S. Wollf (by exchange)", 
-  "Date": "1945", 
-  "ArtistID": 2003, 
+  "DateAcquired": "1946-05-07", 
   "Keywords": [
-    "online art collection", 
     "Arnold Friedman", 
     "Sawtooth Falls", 
     "1945"
   ], 
+  "ArtistID": 2003, 
+  "Title": "Sawtooth Falls", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "119.1946", 
+  "Date": "1945", 
   "ArtistBio": "(American, 1879\u20131946)", 
-  "DateAcquired": "1946-05-07", 
-  "\ufeffTitle": "Sawtooth Falls", 
+  "CuratorApproved": "Y", 
   "ObjectID": "78883"
 }

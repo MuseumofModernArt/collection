@@ -4,22 +4,21 @@
   "Classification": "Painting", 
   "Artist": "Piet Mondrian", 
   "URL": "http://www.moma.org/collection/works/78310", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the Advisory Committee", 
-  "Date": "Paris 1936", 
-  "ArtistID": 4057, 
+  "DateAcquired": "1937-01-15", 
   "Keywords": [
-    "online art collection", 
     "Piet Mondrian", 
     "Composition in White", 
     "Black", 
     "and Red", 
     "Paris 1936"
   ], 
+  "ArtistID": 4057, 
+  "Title": "Composition in White, Black, and Red", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "2.1937", 
+  "Date": "Paris 1936", 
   "ArtistBio": "(Dutch, 1872\u20131944)", 
-  "DateAcquired": "1937-01-15", 
-  "\ufeffTitle": "Composition in White, Black, and Red", 
+  "CuratorApproved": "Y", 
   "ObjectID": "78310"
 }

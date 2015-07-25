@@ -4,12 +4,9 @@
   "Classification": "Print", 
   "Artist": "Louise Bourgeois", 
   "URL": "http://www.moma.org/collection/works/71053", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the artist", 
-  "Date": "1995", 
-  "ArtistID": 710, 
+  "DateAcquired": "1996-11-12", 
   "Keywords": [
-    "online art collection", 
     "Louise Bourgeois", 
     "Plate 3", 
     "state I", 
@@ -17,10 +14,12 @@
     "from The View from the Bottom of the Well", 
     "(1995)"
   ], 
+  "ArtistID": 710, 
+  "Title": "Untitled, plate 3 of 9, from the portfolio, The View from the Bottom of the Well", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "555.1996", 
+  "Date": "1995", 
   "ArtistBio": "(American, born France. 1911\u20132010)", 
-  "DateAcquired": "1996-11-12", 
-  "\ufeffTitle": "Untitled, plate 3 of 9, from the portfolio, The View from the Bottom of the Well", 
+  "CuratorApproved": "Y", 
   "ObjectID": "71053"
 }

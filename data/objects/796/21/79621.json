@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Hans Hofmann", 
   "URL": "http://www.moma.org/collection/works/79621", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the artist", 
-  "Date": "1962", 
-  "ArtistID": 2698, 
+  "DateAcquired": "1963-10-08", 
   "Keywords": [
-    "online art collection", 
     "Hans Hofmann", 
     "Memoria in Aeternum", 
     "1962"
   ], 
+  "ArtistID": 2698, 
+  "Title": "Memoria in Aeternum", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "399.1963", 
+  "Date": "1962", 
   "ArtistBio": "(American, born Germany. 1880\u20131966)", 
-  "DateAcquired": "1963-10-08", 
-  "\ufeffTitle": "Memoria in Aeternum", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79621"
 }

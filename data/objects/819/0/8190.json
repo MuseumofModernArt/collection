@@ -4,20 +4,19 @@
   "Classification": "A&D Graphic Design", 
   "Artist": "John Rieben", 
   "URL": "http://www.moma.org/collection/works/8190", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the Container Corporation of America", 
-  "Date": "1966", 
-  "ArtistID": 4916, 
+  "DateAcquired": "1983-11-30", 
   "Keywords": [
-    "online art collection", 
     "John Rieben", 
     "Chicago the Town That Van der Rohe Built", 
     "1966"
   ], 
+  "ArtistID": 4916, 
+  "Title": "Chicago the Town That Van der Rohe Built", 
   "Department": "Architecture & Design", 
   "MoMANumber": "811.1983", 
+  "Date": "1966", 
   "ArtistBio": "(American, born 1935)", 
-  "DateAcquired": "1983-11-30", 
-  "\ufeffTitle": "Chicago the Town That Van der Rohe Built", 
+  "CuratorApproved": "Y", 
   "ObjectID": "8190"
 }

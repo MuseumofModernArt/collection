@@ -4,21 +4,20 @@
   "Classification": "Sculpture", 
   "Artist": "Alberto Giacometti", 
   "URL": "http://www.moma.org/collection/works/81887", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Florene May Schoenborn Bequest", 
-  "Date": "1947", 
-  "ArtistID": 2141, 
+  "DateAcquired": "1997-12-09", 
   "Keywords": [
-    "online art collection", 
     "Alberto Giacometti", 
     "Tall Figure", 
     "Half-Size", 
     "1947"
   ], 
+  "ArtistID": 2141, 
+  "Title": "Tall Figure, Half-Size", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "818.1996", 
+  "Date": "1947", 
   "ArtistBio": "(Swiss, 1901\u20131966)", 
-  "DateAcquired": "1997-12-09", 
-  "\ufeffTitle": "Tall Figure, Half-Size", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81887"
 }

@@ -4,21 +4,20 @@
   "Classification": "A&D Design", 
   "Artist": "Olivier", 
   "URL": "http://www.moma.org/collection/works/3552", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "c. 1900", 
-  "ArtistID": 7183, 
+  "DateAcquired": "1972-12-05", 
   "Keywords": [
-    "online art collection", 
     "Olivier", 
     "Hand Mirror", 
     "c", 
     "1900"
   ], 
+  "ArtistID": 7183, 
+  "Title": "Hand Mirror", 
   "Department": "Architecture & Design", 
   "MoMANumber": "425.1972", 
+  "Date": "c. 1900", 
   "ArtistBio": "(French)", 
-  "DateAcquired": "1972-12-05", 
-  "\ufeffTitle": "Hand Mirror", 
+  "CuratorApproved": "Y", 
   "ObjectID": "3552"
 }

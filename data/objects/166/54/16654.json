@@ -4,20 +4,19 @@
   "Classification": "Illustrated Book", 
   "Artist": "Jacques Villon", 
   "URL": "http://www.moma.org/collection/works/16654", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Mr. and Mrs. Donald B. Straus in memory of Monroe Wheeler", 
-  "Date": "1960", 
-  "ArtistID": 6165, 
+  "DateAcquired": "1988-10-25", 
   "Keywords": [
-    "online art collection", 
     "Jacques Villon", 
     "&Agrave; Po&egrave;mes Rompus", 
     "1960"
   ], 
+  "ArtistID": 6165, 
+  "Title": "\u00c0 Po\u00e8mes Rompus", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "392.1988.1-6", 
+  "Date": "1960", 
   "ArtistBio": "(French, 1875\u20131963)", 
-  "DateAcquired": "1988-10-25", 
-  "\ufeffTitle": "\u00c0 Po\u00e8mes Rompus", 
+  "CuratorApproved": "Y", 
   "ObjectID": "16654"
 }

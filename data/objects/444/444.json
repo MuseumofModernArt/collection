@@ -4,12 +4,9 @@
   "Classification": "A&D Architectural Drawing", 
   "Artist": "Frank O. Gehry", 
   "URL": "http://www.moma.org/collection/works/444", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the architect in honor of Lily Auchincloss", 
-  "Date": "1990", 
-  "ArtistID": 2108, 
+  "DateAcquired": "1994-09-21", 
   "Keywords": [
-    "online art collection", 
     "Frank O", 
     "Gehry", 
     "University of Toledo Center for the Visual Arts", 
@@ -18,10 +15,12 @@
     "Exterior perspective", 
     "1990"
   ], 
+  "ArtistID": 2108, 
+  "Title": "University of Toledo Center for the Visual Arts, Toledo, Ohio, Exterior perspective", 
   "Department": "Architecture & Design", 
   "MoMANumber": "378.1994", 
+  "Date": "1990", 
   "ArtistBio": "(American, born Canada 1929)", 
-  "DateAcquired": "1994-09-21", 
-  "\ufeffTitle": "University of Toledo Center for the Visual Arts, Toledo, Ohio, Exterior perspective", 
+  "CuratorApproved": "Y", 
   "ObjectID": "444"
 }

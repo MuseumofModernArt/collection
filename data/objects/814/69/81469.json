@@ -4,21 +4,20 @@
   "Classification": "Sculpture", 
   "Artist": "Auguste Rodin", 
   "URL": "http://www.moma.org/collection/works/81469", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of The Cantor, Fitzgerald Collection", 
-  "Date": "c. 1894 (cast 1971)", 
-  "ArtistID": 4978, 
+  "DateAcquired": "1976-10-12", 
   "Keywords": [
-    "online art collection", 
     "Auguste Rodin", 
     "Bust", 
     "c", 
     "1894 (cast 1971)"
   ], 
+  "ArtistID": 4978, 
+  "Title": "Bust", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "434.1975", 
+  "Date": "c. 1894 (cast 1971)", 
   "ArtistBio": "(French, 1840\u20131917)", 
-  "DateAcquired": "1976-10-12", 
-  "\ufeffTitle": "Bust", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81469"
 }

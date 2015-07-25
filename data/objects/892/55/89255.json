@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Anne Truitt", 
   "URL": "http://www.moma.org/collection/works/89255", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Agnes Gund", 
-  "Date": "2001", 
-  "ArtistID": 5945, 
+  "DateAcquired": "2003-12-08", 
   "Keywords": [
-    "online art collection", 
     "Anne Truitt", 
     "Twining Court I", 
     "2001"
   ], 
+  "ArtistID": 5945, 
+  "Title": "Twining Court I", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "375.2003", 
+  "Date": "2001", 
   "ArtistBio": "(American, 1921\u20132004)", 
-  "DateAcquired": "2003-12-08", 
-  "\ufeffTitle": "Twining Court I", 
+  "CuratorApproved": "Y", 
   "ObjectID": "89255"
 }

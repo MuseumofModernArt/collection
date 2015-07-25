@@ -4,12 +4,9 @@
   "Classification": "Photograph", 
   "Artist": "Felice Beato", 
   "URL": "http://www.moma.org/collection/works/57982", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Acquired through the generosity of Shirley C. Burden and the Estate of Vera Louise Fraser", 
-  "Date": "1860", 
-  "ArtistID": 416, 
+  "DateAcquired": "1974-12-04", 
   "Keywords": [
-    "online art collection", 
     "Felice Beato", 
     "Head Quarter House", 
     "1st Division", 
@@ -17,10 +14,12 @@
     "China", 
     "1860"
   ], 
+  "ArtistID": 416, 
+  "Title": "Head Quarter House, 1st Division, Pehtang, China", 
   "Department": "Photography", 
   "MoMANumber": "1274.1974", 
+  "Date": "1860", 
   "ArtistBio": "(Italian, 1825\u20131903)", 
-  "DateAcquired": "1974-12-04", 
-  "\ufeffTitle": "Head Quarter House, 1st Division, Pehtang, China", 
+  "CuratorApproved": "Y", 
   "ObjectID": "57982"
 }

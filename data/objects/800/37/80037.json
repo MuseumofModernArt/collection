@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Jean Dubuffet", 
   "URL": "http://www.moma.org/collection/works/80037", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The Sidney and Harriet Janis Collection", 
-  "Date": "January 1947", 
-  "ArtistID": 1633, 
+  "DateAcquired": "1967-10-18", 
   "Keywords": [
-    "online art collection", 
     "Jean Dubuffet", 
     "Portrait of Henri Michaux", 
     "January 1947"
   ], 
+  "ArtistID": 1633, 
+  "Title": "Portrait of Henri Michaux", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "591.1967", 
+  "Date": "January 1947", 
   "ArtistBio": "(French, 1901\u20131985)", 
-  "DateAcquired": "1967-10-18", 
-  "\ufeffTitle": "Portrait of Henri Michaux", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80037"
 }

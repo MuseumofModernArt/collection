@@ -4,21 +4,20 @@
   "Classification": "Photograph", 
   "Artist": "Lee Friedlander", 
   "URL": "http://www.moma.org/collection/works/53912", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1973", 
-  "ArtistID": 2002, 
+  "DateAcquired": "2000-10-12", 
   "Keywords": [
-    "online art collection", 
     "Lee Friedlander", 
     "Houston", 
     "Texas", 
     "1973"
   ], 
+  "ArtistID": 2002, 
+  "Title": "Houston, Texas", 
   "Department": "Photography", 
   "MoMANumber": "468.2000", 
+  "Date": "1973", 
   "ArtistBio": "(American, born 1934)", 
-  "DateAcquired": "2000-10-12", 
-  "\ufeffTitle": "Houston, Texas", 
+  "CuratorApproved": "Y", 
   "ObjectID": "53912"
 }

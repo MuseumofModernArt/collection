@@ -4,12 +4,9 @@
   "Classification": "A&D Architectural Drawing", 
   "Artist": "Mario Botta", 
   "URL": "http://www.moma.org/collection/works/258", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Banca del Gottardo", 
-  "Date": "1986", 
-  "ArtistID": 696, 
+  "DateAcquired": "1987-05-27", 
   "Keywords": [
-    "online art collection", 
     "Mario Botta", 
     "Gotthard Bank", 
     "Lugano", 
@@ -17,10 +14,12 @@
     "Perspective", 
     "1986"
   ], 
+  "ArtistID": 696, 
+  "Title": "Gotthard Bank, Lugano, Switzerland, Perspective", 
   "Department": "Architecture & Design", 
   "MoMANumber": "206.1987", 
+  "Date": "1986", 
   "ArtistBio": "(Swiss, born 1943)", 
-  "DateAcquired": "1987-05-27", 
-  "\ufeffTitle": "Gotthard Bank, Lugano, Switzerland, Perspective", 
+  "CuratorApproved": "Y", 
   "ObjectID": "258"
 }

@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Mike Mosco", 
   "URL": "http://www.moma.org/collection/works/80948", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of A. Conger Goodyear", 
-  "Date": "1936", 
-  "ArtistID": 4116, 
+  "DateAcquired": "1936-12-17", 
   "Keywords": [
-    "online art collection", 
     "Mike Mosco", 
     "Miner's Head", 
     "1936"
   ], 
+  "ArtistID": 4116, 
+  "Title": "Miner's Head", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "106.1936", 
+  "Date": "1936", 
   "ArtistBio": "(American, born 1921)", 
-  "DateAcquired": "1936-12-17", 
-  "\ufeffTitle": "Miner's Head", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80948"
 }

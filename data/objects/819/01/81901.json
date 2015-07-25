@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Alexander Calder", 
   "URL": "http://www.moma.org/collection/works/81901", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the artist", 
-  "Date": "1928", 
-  "ArtistID": 922, 
+  "DateAcquired": "1966-10-11", 
   "Keywords": [
-    "online art collection", 
     "Alexander Calder", 
     "Cat Lamp", 
     "1928"
   ], 
+  "ArtistID": 922, 
+  "Title": "Cat Lamp", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "846.1966", 
+  "Date": "1928", 
   "ArtistBio": "(American, 1898\u20131976)", 
-  "DateAcquired": "1966-10-11", 
-  "\ufeffTitle": "Cat Lamp", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81901"
 }

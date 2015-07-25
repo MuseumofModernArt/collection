@@ -4,12 +4,9 @@
   "Classification": "A&D Graphic Design", 
   "Artist": "Armin Hofmann", 
   "URL": "http://www.moma.org/collection/works/6986", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the Kunsthalle, Basel", 
-  "Date": "1963", 
-  "ArtistID": 2697, 
+  "DateAcquired": "1964-04-14", 
   "Keywords": [
-    "online art collection", 
     "Armin Hofmann", 
     "BN", 
     "Kunsthalle Basel", 
@@ -17,10 +14,12 @@
     "Ernst Wilhelm Nay", 
     "1963"
   ], 
+  "ArtistID": 2697, 
+  "Title": "BN, Kunsthalle Basel, Willi Baumester, Ernst Wilhelm Nay", 
   "Department": "Architecture & Design", 
   "MoMANumber": "444.1964", 
+  "Date": "1963", 
   "ArtistBio": "(Swiss, born 1920)", 
-  "DateAcquired": "1964-04-14", 
-  "\ufeffTitle": "BN, Kunsthalle Basel, Willi Baumester, Ernst Wilhelm Nay", 
+  "CuratorApproved": "Y", 
   "ObjectID": "6986"
 }

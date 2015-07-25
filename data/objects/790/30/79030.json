@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Rufino Tamayo", 
   "URL": "http://www.moma.org/collection/works/79030", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Inter-American Fund", 
-  "Date": "1941", 
-  "ArtistID": 5795, 
+  "DateAcquired": "1942-03-18", 
   "Keywords": [
-    "online art collection", 
     "Rufino Tamayo", 
     "Animals", 
     "1941"
   ], 
+  "ArtistID": 5795, 
+  "Title": "Animals", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "165.1942", 
+  "Date": "1941", 
   "ArtistBio": "(Mexican, 1899\u20131991)", 
-  "DateAcquired": "1942-03-18", 
-  "\ufeffTitle": "Animals", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79030"
 }

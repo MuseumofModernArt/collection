@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Jacob Lawrence", 
   "URL": "http://www.moma.org/collection/works/78538", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Mrs. David M. Levy", 
-  "Date": "1940-41", 
-  "ArtistID": 3418, 
+  "DateAcquired": "1942-01-27", 
   "Keywords": [
-    "online art collection", 
     "Jacob Lawrence", 
     "The Negro was the largest source of labor to be found after all others had been exhausted", 
     "1940-41"
   ], 
+  "ArtistID": 3418, 
+  "Title": "The Negro was the largest source of labor to be found after all others had been exhausted", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "28.1942.2", 
+  "Date": "1940-41", 
   "ArtistBio": "(American, 1917\u20132000)", 
-  "DateAcquired": "1942-01-27", 
-  "\ufeffTitle": "The Negro was the largest source of labor to be found after all others had been exhausted", 
+  "CuratorApproved": "Y", 
   "ObjectID": "78538"
 }

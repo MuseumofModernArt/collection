@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Andy Warhol", 
   "URL": "http://www.moma.org/collection/works/61245", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Mr. David Whitney", 
-  "Date": "1967", 
-  "ArtistID": 6246, 
+  "DateAcquired": "1968-02-05", 
   "Keywords": [
-    "online art collection", 
     "Andy Warhol", 
     "Untitled from Marilyn Monroe (Marilyn)", 
     "1967"
   ], 
+  "ArtistID": 6246, 
+  "Title": "Untitled from Marilyn Monroe", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "70.1968.5", 
+  "Date": "1967", 
   "ArtistBio": "(American, 1928\u20131987)", 
-  "DateAcquired": "1968-02-05", 
-  "\ufeffTitle": "Untitled from Marilyn Monroe", 
+  "CuratorApproved": "Y", 
   "ObjectID": "61245"
 }

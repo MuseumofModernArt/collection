@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Franz Marc", 
   "URL": "http://www.moma.org/collection/works/65534", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Katherine S. Dreier Bequest", 
-  "Date": "(1913)", 
-  "ArtistID": 3748, 
+  "DateAcquired": "1953-04-07", 
   "Keywords": [
-    "online art collection", 
     "Franz Marc", 
     "Birth of the Wolves (Geburt der W&ouml;lfe)", 
     "(1913)"
   ], 
+  "ArtistID": 3748, 
+  "Title": "Birth of the Wolves (Geburt der W\u00f6lfe)", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "264.1953", 
+  "Date": "(1913)", 
   "ArtistBio": "(German, 1880\u20131916)", 
-  "DateAcquired": "1953-04-07", 
-  "\ufeffTitle": "Birth of the Wolves (Geburt der W\u00f6lfe)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "65534"
 }

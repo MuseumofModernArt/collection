@@ -4,12 +4,9 @@
   "Classification": "A&D Graphic Design", 
   "Artist": "Herbert Bayer", 
   "URL": "http://www.moma.org/collection/works/7447", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Jan Tschichold Collection, Gift of Philip Johnson", 
-  "Date": "1929", 
-  "ArtistID": 399, 
+  "DateAcquired": "1999-12-10", 
   "Keywords": [
-    "online art collection", 
     "Herbert Bayer", 
     "Signal", 
     "H", 
@@ -18,10 +15,12 @@
     "276", 
     "1929"
   ], 
+  "ArtistID": 399, 
+  "Title": "Signal, H. Berthold AG Berlin, Probe Nr. 276", 
   "Department": "Architecture & Design", 
   "MoMANumber": "535.1999", 
+  "Date": "1929", 
   "ArtistBio": "(American, born Austria. 1900\u20131985)", 
-  "DateAcquired": "1999-12-10", 
-  "\ufeffTitle": "Signal, H. Berthold AG Berlin, Probe Nr. 276", 
+  "CuratorApproved": "Y", 
   "ObjectID": "7447"
 }

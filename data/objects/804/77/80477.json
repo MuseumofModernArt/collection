@@ -4,22 +4,21 @@
   "Classification": "Painting", 
   "Artist": "William T. Williams", 
   "URL": "http://www.moma.org/collection/works/80477", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Carter Burden, Mr. and Mrs. John R. Jakobson and purchase", 
-  "Date": "1969", 
-  "ArtistID": 6382, 
+  "DateAcquired": "1969-11-12", 
   "Keywords": [
-    "online art collection", 
     "William T", 
     "Williams", 
     "Elbert Jackson L,A,M,F", 
     "Part II", 
     "1969"
   ], 
+  "ArtistID": 6382, 
+  "Title": "Elbert Jackson L.A.M.F. Part II", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "1009.1969", 
+  "Date": "1969", 
   "ArtistBio": "(American, born 1942)", 
-  "DateAcquired": "1969-11-12", 
-  "\ufeffTitle": "Elbert Jackson L.A.M.F. Part II", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80477"
 }

@@ -4,21 +4,20 @@
   "Classification": "A&D Graphic Design", 
   "Artist": "Otis Shepard", 
   "URL": "http://www.moma.org/collection/works/4880", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the William Wrigley, Jr. Company", 
-  "Date": "1932-36", 
-  "ArtistID": 5390, 
+  "DateAcquired": "1936-05-20", 
   "Keywords": [
-    "online art collection", 
     "Otis Shepard", 
     "Flavor", 
     "Wrigley's Spearmint", 
     "1932-36"
   ], 
+  "ArtistID": 5390, 
+  "Title": "Flavor, Wrigley's Spearmint", 
   "Department": "Architecture & Design", 
   "MoMANumber": "57.1936", 
+  "Date": "1932-36", 
   "ArtistBio": "(American, 1894\u20131969)", 
-  "DateAcquired": "1936-05-20", 
-  "\ufeffTitle": "Flavor, Wrigley's Spearmint", 
+  "CuratorApproved": "Y", 
   "ObjectID": "4880"
 }

@@ -4,12 +4,9 @@
   "Classification": "Photograph", 
   "Artist": "Dorothea Lange", 
   "URL": "http://www.moma.org/collection/works/44611", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the Farm Security Administration", 
-  "Date": "c. 1938", 
-  "ArtistID": 3373, 
+  "DateAcquired": "1941-01-16", 
   "Keywords": [
-    "online art collection", 
     "Dorothea Lange", 
     "Political Signs", 
     "Waco", 
@@ -17,10 +14,12 @@
     "c", 
     "1938"
   ], 
+  "ArtistID": 3373, 
+  "Title": "Political Signs, Waco, Texas", 
   "Department": "Photography", 
   "MoMANumber": "43.1941", 
+  "Date": "c. 1938", 
   "ArtistBio": "(American, 1895\u20131965)", 
-  "DateAcquired": "1941-01-16", 
-  "\ufeffTitle": "Political Signs, Waco, Texas", 
+  "CuratorApproved": "Y", 
   "ObjectID": "44611"
 }

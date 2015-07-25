@@ -4,22 +4,21 @@
   "Classification": "A&D Architectural Drawing", 
   "Artist": "Yona Friedman", 
   "URL": "http://www.moma.org/collection/works/800", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of The Howard Gilman Foundation", 
-  "Date": "1958", 
-  "ArtistID": 8109, 
+  "DateAcquired": "2000-10-31", 
   "Keywords": [
-    "online art collection", 
     "Yona Friedman", 
     "Spatial City", 
     "project", 
     "Aerial perspective", 
     "1958"
   ], 
+  "ArtistID": 8109, 
+  "Title": "Spatial City, project, Aerial perspective", 
   "Department": "Architecture & Design", 
   "MoMANumber": "1189.2000", 
+  "Date": "1958", 
   "ArtistBio": "(French, born Hungary 1923)", 
-  "DateAcquired": "2000-10-31", 
-  "\ufeffTitle": "Spatial City, project, Aerial perspective", 
+  "CuratorApproved": "Y", 
   "ObjectID": "800"
 }

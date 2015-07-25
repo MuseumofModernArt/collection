@@ -4,21 +4,20 @@
   "Classification": "Photograph", 
   "Artist": "Henri Cartier-Bresson", 
   "URL": "http://www.moma.org/collection/works/45983", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Acquired through the generosity of Shirley C. Burden", 
-  "Date": "1933", 
-  "ArtistID": 1000, 
+  "DateAcquired": "1987-04-16", 
   "Keywords": [
-    "online art collection", 
     "Henri Cartier-Bresson", 
     "Alicante", 
     "Spain", 
     "1933"
   ], 
+  "ArtistID": 1000, 
+  "Title": "Alicante, Spain", 
   "Department": "Photography", 
   "MoMANumber": "87.1987", 
+  "Date": "1933", 
   "ArtistBio": "(French, 1908\u20132004)", 
-  "DateAcquired": "1987-04-16", 
-  "\ufeffTitle": "Alicante, Spain", 
+  "CuratorApproved": "Y", 
   "ObjectID": "45983"
 }

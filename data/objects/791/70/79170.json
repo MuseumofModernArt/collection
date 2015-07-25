@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Chuck Close", 
   "URL": "http://www.moma.org/collection/works/79170", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Agnes Gund, Jo Carole and Ronald S. Lauder, Donald L. Bryant, Jr., Leon Black, Michael and Judy Ovitz, Anna Marie and Robert F. Shapiro, Leila and Melville Straus, Doris and Donald Fisher, and purchase", 
-  "Date": "1997", 
-  "ArtistID": 1156, 
+  "DateAcquired": "2000-04-10", 
   "Keywords": [
-    "online art collection", 
     "Chuck Close", 
     "Self-Portrait", 
     "1997"
   ], 
+  "ArtistID": 1156, 
+  "Title": "Self-Portrait", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "215.2000", 
+  "Date": "1997", 
   "ArtistBio": "(American, born 1940)", 
-  "DateAcquired": "2000-04-10", 
-  "\ufeffTitle": "Self-Portrait", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79170"
 }

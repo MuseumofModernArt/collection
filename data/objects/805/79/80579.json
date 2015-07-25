@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Billy Sullivan", 
   "URL": "http://www.moma.org/collection/works/80579", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Jan Cowles", 
-  "Date": "2001", 
-  "ArtistID": 8377, 
+  "DateAcquired": "2001-04-09", 
   "Keywords": [
-    "online art collection", 
     "Billy Sullivan", 
     "Kynaston", 
     "2001"
   ], 
+  "ArtistID": 8377, 
+  "Title": "Kynaston", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "1177.2001", 
+  "Date": "2001", 
   "ArtistBio": "(American, born 1946)", 
-  "DateAcquired": "2001-04-09", 
-  "\ufeffTitle": "Kynaston", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80579"
 }

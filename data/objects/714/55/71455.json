@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Max Beckmann", 
   "URL": "http://www.moma.org/collection/works/71455", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of J. B. Neumann", 
-  "Date": "(1922)", 
-  "ArtistID": 429, 
+  "DateAcquired": "1939-12-08", 
   "Keywords": [
-    "online art collection", 
     "Max Beckmann", 
     "Children at a Window (Kinder am Fenster)", 
     "(1922)"
   ], 
+  "ArtistID": 429, 
+  "Title": "Children at a Window (Kinder am Fenster)", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "581.1939", 
+  "Date": "(1922)", 
   "ArtistBio": "(German, 1884\u20131950)", 
-  "DateAcquired": "1939-12-08", 
-  "\ufeffTitle": "Children at a Window (Kinder am Fenster)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "71455"
 }

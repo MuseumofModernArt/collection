@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Alberto Giacometti", 
   "URL": "http://www.moma.org/collection/works/81453", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1928", 
-  "ArtistID": 2141, 
+  "DateAcquired": "1971-05-11", 
   "Keywords": [
-    "online art collection", 
     "Alberto Giacometti", 
     "Woman", 
     "1928"
   ], 
+  "ArtistID": 2141, 
+  "Title": "Woman", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "418.1971", 
+  "Date": "1928", 
   "ArtistBio": "(Swiss, 1901\u20131966)", 
-  "DateAcquired": "1971-05-11", 
-  "\ufeffTitle": "Woman", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81453"
 }

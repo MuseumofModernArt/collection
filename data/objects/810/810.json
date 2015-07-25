@@ -4,12 +4,9 @@
   "Classification": "A&D Architectural Drawing", 
   "Artist": "John Hejduk", 
   "URL": "http://www.moma.org/collection/works/810", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of The Howard Gilman Foundation", 
-  "Date": "1973", 
-  "ArtistID": 2581, 
+  "DateAcquired": "2000-10-31", 
   "Keywords": [
-    "online art collection", 
     "John Hejduk", 
     "Wall House 2 (A", 
     "E", 
@@ -19,10 +16,12 @@
     "Isometric", 
     "1973"
   ], 
+  "ArtistID": 2581, 
+  "Title": "Wall House 2 (A. E. Bye House) Project , Ridgefield, Connecticut , Isometric", 
   "Department": "Architecture & Design", 
   "MoMANumber": "1199.2000", 
+  "Date": "1973", 
   "ArtistBio": "(American, 1929\u20132000)", 
-  "DateAcquired": "2000-10-31", 
-  "\ufeffTitle": "Wall House 2 (A. E. Bye House) Project , Ridgefield, Connecticut , Isometric", 
+  "CuratorApproved": "Y", 
   "ObjectID": "810"
 }

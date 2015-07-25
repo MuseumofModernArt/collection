@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Ellsworth Kelly", 
   "URL": "http://www.moma.org/collection/works/80258", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Solomon Byron Smith", 
-  "Date": "1962", 
-  "ArtistID": 3048, 
+  "DateAcquired": "1980-12-09", 
   "Keywords": [
-    "online art collection", 
     "Ellsworth Kelly", 
     "Brooklyn Bridge VII", 
     "1962"
   ], 
+  "ArtistID": 3048, 
+  "Title": "Brooklyn Bridge VII", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "688.1980", 
+  "Date": "1962", 
   "ArtistBio": "(American, born 1923)", 
-  "DateAcquired": "1980-12-09", 
-  "\ufeffTitle": "Brooklyn Bridge VII", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80258"
 }

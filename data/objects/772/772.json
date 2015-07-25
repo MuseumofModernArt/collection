@@ -4,12 +4,9 @@
   "Classification": "A&D Mies van der Rohe Archive", 
   "Artist": "Ludwig Mies van der Rohe", 
   "URL": "http://www.moma.org/collection/works/772", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Mies van der Rohe Archive, gift of the architect", 
-  "Date": "1945-51", 
-  "ArtistID": 7166, 
+  "DateAcquired": "1963-12-10", 
   "Keywords": [
-    "online art collection", 
     "Ludwig Mies van der Rohe", 
     "Farnsworth House", 
     "Plano", 
@@ -17,10 +14,12 @@
     "Preliminary version: plan", 
     "1945-51"
   ], 
+  "ArtistID": 7166, 
+  "Title": "Farnsworth House, Plano, Illinois, Preliminary version: plan", 
   "Department": "Architecture & Design", 
   "MoMANumber": "737.1963", 
+  "Date": "1945-51", 
   "ArtistBio": "(American, born Germany. 1886\u20131969)", 
-  "DateAcquired": "1963-12-10", 
-  "\ufeffTitle": "Farnsworth House, Plano, Illinois, Preliminary version: plan", 
+  "CuratorApproved": "Y", 
   "ObjectID": "772"
 }

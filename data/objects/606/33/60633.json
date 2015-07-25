@@ -4,21 +4,20 @@
   "Classification": "Print", 
   "Artist": "Pablo Picasso", 
   "URL": "http://www.moma.org/collection/works/60633", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the Estate of Mrs. George Acheson", 
-  "Date": "January 9, 1949", 
-  "ArtistID": 4609, 
+  "DateAcquired": "1979-01-23", 
   "Keywords": [
-    "online art collection", 
     "Pablo Picasso", 
     "The Dove (La Colombe)", 
     "January 9", 
     "1949"
   ], 
+  "ArtistID": 4609, 
+  "Title": "The Dove (La Colombe)", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "37.1979", 
+  "Date": "January 9, 1949", 
   "ArtistBio": "(Spanish, 1881\u20131973)", 
-  "DateAcquired": "1979-01-23", 
-  "\ufeffTitle": "The Dove (La Colombe)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "60633"
 }

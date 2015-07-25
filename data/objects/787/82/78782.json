@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Jean Dubuffet", 
   "URL": "http://www.moma.org/collection/works/78782", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Pierre Matisse in memory of Patricia Kane Matisse", 
-  "Date": "March 1944", 
-  "ArtistID": 1633, 
+  "DateAcquired": "1982-04-06", 
   "Keywords": [
-    "online art collection", 
     "Jean Dubuffet", 
     "Childbirth", 
     "March 1944"
   ], 
+  "ArtistID": 1633, 
+  "Title": "Childbirth", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "101.1982", 
+  "Date": "March 1944", 
   "ArtistBio": "(French, 1901\u20131985)", 
-  "DateAcquired": "1982-04-06", 
-  "\ufeffTitle": "Childbirth", 
+  "CuratorApproved": "Y", 
   "ObjectID": "78782"
 }

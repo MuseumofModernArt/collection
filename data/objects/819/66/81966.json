@@ -4,19 +4,18 @@
   "Classification": "Sculpture", 
   "Artist": "Marcel Duchamp", 
   "URL": "http://www.moma.org/collection/works/81966", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Galleria Schwarz", 
-  "Date": "1964 (replica of 1921 original)", 
-  "ArtistID": 1634, 
+  "DateAcquired": "1964-11-10", 
   "Keywords": [
-    "online art collection", 
     "Marcel Duchamp", 
     "Why Not Sneeze Rose S&eacute;lavy? 1964 (replica of 1921 original)"
   ], 
+  "ArtistID": 1634, 
+  "Title": "Why Not Sneeze Rose S\u00e9lavy?", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "1123.1964.a-e", 
+  "Date": "1964 (replica of 1921 original)", 
   "ArtistBio": "(American, born France. 1887\u20131968)", 
-  "DateAcquired": "1964-11-10", 
-  "\ufeffTitle": "Why Not Sneeze Rose S\u00e9lavy?", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81966"
 }

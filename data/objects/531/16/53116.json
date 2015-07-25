@@ -4,12 +4,9 @@
   "Classification": "Photograph", 
   "Artist": "Charles M. Bell", 
   "URL": "http://www.moma.org/collection/works/53116", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Joseph G. Mayer Fund", 
-  "Date": "1880", 
-  "ArtistID": 443, 
+  "DateAcquired": "1984-12-05", 
   "Keywords": [
-    "online art collection", 
     "Charles M", 
     "Bell", 
     "Indian Delegation", 
@@ -17,10 +14,12 @@
     "D,C", 
     "1880"
   ], 
+  "ArtistID": 443, 
+  "Title": "Indian Delegation, Washington, D.C.", 
   "Department": "Photography", 
   "MoMANumber": "418.1984", 
+  "Date": "1880", 
   "ArtistBio": "(American, 1848\u20131893)", 
-  "DateAcquired": "1984-12-05", 
-  "\ufeffTitle": "Indian Delegation, Washington, D.C.", 
+  "CuratorApproved": "Y", 
   "ObjectID": "53116"
 }

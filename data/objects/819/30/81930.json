@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Eva Hesse", 
   "URL": "http://www.moma.org/collection/works/81930", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Charles and Anita Blatt", 
-  "Date": "1968", 
-  "ArtistID": 2623, 
+  "DateAcquired": "1969-11-12", 
   "Keywords": [
-    "online art collection", 
     "Eva Hesse", 
     "Repetition Nineteen III", 
     "1968"
   ], 
+  "ArtistID": 2623, 
+  "Title": "Repetition Nineteen III", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "1004.1969.a-s", 
+  "Date": "1968", 
   "ArtistBio": "(American, born Germany. 1936\u20131970)", 
-  "DateAcquired": "1969-11-12", 
-  "\ufeffTitle": "Repetition Nineteen III", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81930"
 }

@@ -4,21 +4,20 @@
   "Classification": "Photograph", 
   "Artist": "John Adams Whipple", 
   "URL": "http://www.moma.org/collection/works/55423", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of A. Conger Goodyear", 
-  "Date": "c. 1850", 
-  "ArtistID": 6335, 
+  "DateAcquired": "1954-01-12", 
   "Keywords": [
-    "online art collection", 
     "John Adams Whipple", 
     "Henry Wadsworth Longfellow", 
     "c", 
     "1850"
   ], 
+  "ArtistID": 6335, 
+  "Title": "Henry Wadsworth Longfellow", 
   "Department": "Photography", 
   "MoMANumber": "590.1953", 
+  "Date": "c. 1850", 
   "ArtistBio": "(American, 1822\u20131891)", 
-  "DateAcquired": "1954-01-12", 
-  "\ufeffTitle": "Henry Wadsworth Longfellow", 
+  "CuratorApproved": "Y", 
   "ObjectID": "55423"
 }

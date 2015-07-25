@@ -4,20 +4,19 @@
   "Classification": "A&D Graphic Design", 
   "Artist": "Johannes Molzahn", 
   "URL": "http://www.moma.org/collection/works/8173", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Jan Tschichold Collection, Gift of Philip Johnson", 
-  "Date": "1925", 
-  "ArtistID": 4054, 
+  "DateAcquired": "1999-12-10", 
   "Keywords": [
-    "online art collection", 
     "Johannes Molzahn", 
     "Mitteldeutsche Handwerks Ausstellung", 
     "1925"
   ], 
+  "ArtistID": 4054, 
+  "Title": "Mitteldeutsche Handwerks Ausstellung", 
   "Department": "Architecture & Design", 
   "MoMANumber": "802.1999", 
+  "Date": "1925", 
   "ArtistBio": "(German, 1892\u20131965)", 
-  "DateAcquired": "1999-12-10", 
-  "\ufeffTitle": "Mitteldeutsche Handwerks Ausstellung", 
+  "CuratorApproved": "Y", 
   "ObjectID": "8173"
 }

@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Andy Warhol", 
   "URL": "http://www.moma.org/collection/works/79749", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1984", 
-  "ArtistID": 6246, 
+  "DateAcquired": "1999-10-12", 
   "Keywords": [
-    "online art collection", 
     "Andy Warhol", 
     "Rorschach", 
     "1984"
   ], 
+  "ArtistID": 6246, 
+  "Title": "Rorschach", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "323.1999", 
+  "Date": "1984", 
   "ArtistBio": "(American, 1928\u20131987)", 
-  "DateAcquired": "1999-10-12", 
-  "\ufeffTitle": "Rorschach", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79749"
 }

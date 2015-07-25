@@ -4,21 +4,20 @@
   "Classification": "Print", 
   "Artist": "Max Beckmann", 
   "URL": "http://www.moma.org/collection/works/64485", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Larry Aldrich Fund", 
-  "Date": "(1923, published 1924)", 
-  "ArtistID": 429, 
+  "DateAcquired": "1952-11-07", 
   "Keywords": [
-    "online art collection", 
     "Max Beckmann", 
     "Tamerlan", 
     "(1923", 
     "published 1924)"
   ], 
+  "ArtistID": 429, 
+  "Title": "Tamerlan", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "212.1952", 
+  "Date": "(1923, published 1924)", 
   "ArtistBio": "(German, 1884\u20131950)", 
-  "DateAcquired": "1952-11-07", 
-  "\ufeffTitle": "Tamerlan", 
+  "CuratorApproved": "Y", 
   "ObjectID": "64485"
 }

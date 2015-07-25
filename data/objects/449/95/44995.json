@@ -4,12 +4,9 @@
   "Classification": "Photograph", 
   "Artist": "Walter Rosenblum", 
   "URL": "http://www.moma.org/collection/works/44995", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Photography Purchase Fund", 
-  "Date": "1934-44", 
-  "ArtistID": 5020, 
+  "DateAcquired": "1944-03-13", 
   "Keywords": [
-    "online art collection", 
     "Walter Rosenblum", 
     "Four Women on a Sidewalk", 
     "Pitt St,", 
@@ -17,10 +14,12 @@
     "1941", 
     "1934-44"
   ], 
+  "ArtistID": 5020, 
+  "Title": "Four Women on a Sidewalk, Pitt St., New York, 1941", 
   "Department": "Photography", 
   "MoMANumber": "52.1944", 
+  "Date": "1934-44", 
   "ArtistBio": "(American, 1919\u20132006)", 
-  "DateAcquired": "1944-03-13", 
-  "\ufeffTitle": "Four Women on a Sidewalk, Pitt St., New York, 1941", 
+  "CuratorApproved": "Y", 
   "ObjectID": "44995"
 }

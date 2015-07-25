@@ -4,21 +4,20 @@
   "Classification": "Print", 
   "Artist": "Max Beckmann", 
   "URL": "http://www.moma.org/collection/works/66376", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Samuel A. Berger", 
-  "Date": "(c. 1921)", 
-  "ArtistID": 429, 
+  "DateAcquired": "1954-09-30", 
   "Keywords": [
-    "online art collection", 
     "Max Beckmann", 
     "Portrait of Fridel Battenberg (Bildnis Fridel Battenberg)", 
     "(c", 
     "1921)"
   ], 
+  "ArtistID": 429, 
+  "Title": "Portrait of Fridel Battenberg (Bildnis Fridel Battenberg)", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "298.1954", 
+  "Date": "(c. 1921)", 
   "ArtistBio": "(German, 1884\u20131950)", 
-  "DateAcquired": "1954-09-30", 
-  "\ufeffTitle": "Portrait of Fridel Battenberg (Bildnis Fridel Battenberg)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "66376"
 }

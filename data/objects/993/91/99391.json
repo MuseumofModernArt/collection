@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "David Hockney", 
   "URL": "http://www.moma.org/collection/works/99391", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Donald L. Bryant, Jr. and bequest of Richard S. Zeisler (by exchange)", 
-  "Date": "1963", 
-  "ArtistID": 2678, 
+  "DateAcquired": "2005-09-07", 
   "Keywords": [
-    "online art collection", 
     "David Hockney", 
     "Seated Woman Being Served Tea by Standing Companion", 
     "1963"
   ], 
+  "ArtistID": 2678, 
+  "Title": "Seated Woman Being Served Tea by Standing Companion", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "639.2005", 
+  "Date": "1963", 
   "ArtistBio": "(British, born 1937)", 
-  "DateAcquired": "2005-09-07", 
-  "\ufeffTitle": "Seated Woman Being Served Tea by Standing Companion", 
+  "CuratorApproved": "Y", 
   "ObjectID": "99391"
 }

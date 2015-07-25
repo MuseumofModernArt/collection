@@ -4,20 +4,19 @@
   "Classification": "Photograph", 
   "Artist": "Harry Callahan", 
   "URL": "http://www.moma.org/collection/works/48099", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1943", 
-  "ArtistID": 924, 
+  "DateAcquired": "1962-05-08", 
   "Keywords": [
-    "online art collection", 
     "Harry Callahan", 
     "Detroit", 
     "1943"
   ], 
+  "ArtistID": 924, 
+  "Title": "Detroit", 
   "Department": "Photography", 
   "MoMANumber": "191.1962", 
+  "Date": "1943", 
   "ArtistBio": "(American, 1912\u20131999)", 
-  "DateAcquired": "1962-05-08", 
-  "\ufeffTitle": "Detroit", 
+  "CuratorApproved": "Y", 
   "ObjectID": "48099"
 }

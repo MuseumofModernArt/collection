@@ -4,12 +4,9 @@
   "Classification": "Illustrated Book", 
   "Artist": "Alexandra Exter, Lyubov Popova, Aleksandr Rodchenko, Varvara Stepanova, Aleksandr Vesnin", 
   "URL": "http://www.moma.org/collection/works/11128", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of The Judith Rothschild Foundation (Anonymous donation)", 
-  "Date": "1921", 
-  "ArtistID": 1784, 
+  "DateAcquired": "2001-01-24", 
   "Keywords": [
-    "online art collection", 
     "Alexandra Exter", 
     "Lyubov Popova", 
     "Aleksandr Rodchenko", 
@@ -17,10 +14,12 @@
     "\"5 x 5 = 25: Vystavka zhivopisi\"", 
     "1921"
   ], 
+  "ArtistID": 1784, 
+  "Title": "\"5 x 5 = 25: Vystavka zhivopisi\"", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "90.2001.1-6", 
+  "Date": "1921", 
   "ArtistBio": "(Russian, 1882\u20131949) (Russian, 1889\u20131924) (Russian, 1891\u20131956) (Russian, 1894\u20131958) (Russian, 1883\u20131959)", 
-  "DateAcquired": "2001-01-24", 
-  "\ufeffTitle": "\"5 x 5 = 25: Vystavka zhivopisi\"", 
+  "CuratorApproved": "Y", 
   "ObjectID": "11128"
 }

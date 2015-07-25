@@ -4,21 +4,20 @@
   "Classification": "A&D Graphic Design", 
   "Artist": "E. McKnight Kauffer", 
   "URL": "http://www.moma.org/collection/works/5639", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the London Passenger Transport Board", 
-  "Date": "1936", 
-  "ArtistID": 3020, 
+  "DateAcquired": "1936-10-01", 
   "Keywords": [
-    "online art collection", 
     "E", 
     "McKnight Kauffer", 
     "See the Model of the New Building - Earl's Court", 
     "1936"
   ], 
+  "ArtistID": 3020, 
+  "Title": "See the Model of the New Building - Earl's Court", 
   "Department": "Architecture & Design", 
   "MoMANumber": "196.1936", 
+  "Date": "1936", 
   "ArtistBio": "(American, 1890\u20131954)", 
-  "DateAcquired": "1936-10-01", 
-  "\ufeffTitle": "See the Model of the New Building - Earl's Court", 
+  "CuratorApproved": "Y", 
   "ObjectID": "5639"
 }

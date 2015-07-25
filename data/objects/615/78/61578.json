@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "John Marin", 
   "URL": "http://www.moma.org/collection/works/61578", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1913", 
-  "ArtistID": 3770, 
+  "DateAcquired": "1955-04-06", 
   "Keywords": [
-    "online art collection", 
     "John Marin", 
     "Woolworth Building (The Dance) from Six New York Etchings", 
     "1913"
   ], 
+  "ArtistID": 3770, 
+  "Title": "Woolworth Building (The Dance)", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "84.1955", 
+  "Date": "1913", 
   "ArtistBio": "(American, 1870\u20131953)", 
-  "DateAcquired": "1955-04-06", 
-  "\ufeffTitle": "Woolworth Building (The Dance)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "61578"
 }

@@ -4,12 +4,9 @@
   "Classification": "A&D Mies van der Rohe Archive", 
   "Artist": "Ludwig Mies van der Rohe", 
   "URL": "http://www.moma.org/collection/works/87640", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Mies van der Rohe Archive, gift of the architect\r\n", 
-  "Date": "1934-1935", 
-  "ArtistID": 7166, 
+  "DateAcquired": "", 
   "Keywords": [
-    "online art collection", 
     "Ludwig Mies van der Rohe", 
     "Hubbe House Project", 
     "Magdeburg", 
@@ -17,10 +14,12 @@
     "Plot plan", 
     "1934-1935"
   ], 
+  "ArtistID": 7166, 
+  "Title": "Hubbe House Project, Magdeburg, Germany, Plot plan", 
   "Department": "Architecture & Design", 
   "MoMANumber": "MR22.48", 
+  "Date": "1934-1935", 
   "ArtistBio": "(American, born Germany. 1886\u20131969)", 
-  "DateAcquired": "", 
-  "\ufeffTitle": "Hubbe House Project, Magdeburg, Germany, Plot plan", 
+  "CuratorApproved": "Y", 
   "ObjectID": "87640"
 }

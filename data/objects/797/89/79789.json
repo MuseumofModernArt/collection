@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Richard Hamilton", 
   "URL": "http://www.moma.org/collection/works/79789", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Enid A. Haupt Fund and an anonymous fund", 
-  "Date": "1961", 
-  "ArtistID": 2481, 
+  "DateAcquired": "1996-10-07", 
   "Keywords": [
-    "online art collection", 
     "Richard Hamilton", 
     "Pin-up", 
     "1961"
   ], 
+  "ArtistID": 2481, 
+  "Title": "Pin-up", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "467.1996", 
+  "Date": "1961", 
   "ArtistBio": "(British, 1922\u20132011)", 
-  "DateAcquired": "1996-10-07", 
-  "\ufeffTitle": "Pin-up", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79789"
 }

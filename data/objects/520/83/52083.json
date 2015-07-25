@@ -4,20 +4,19 @@
   "Classification": "Photograph", 
   "Artist": "Lee Friedlander", 
   "URL": "http://www.moma.org/collection/works/52083", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1967", 
-  "ArtistID": 2002, 
+  "DateAcquired": "2000-10-12", 
   "Keywords": [
-    "online art collection", 
     "Lee Friedlander", 
     "Philadelphia", 
     "1967"
   ], 
+  "ArtistID": 2002, 
+  "Title": "Philadelphia", 
   "Department": "Photography", 
   "MoMANumber": "376.2000", 
+  "Date": "1967", 
   "ArtistBio": "(American, born 1934)", 
-  "DateAcquired": "2000-10-12", 
-  "\ufeffTitle": "Philadelphia", 
+  "CuratorApproved": "Y", 
   "ObjectID": "52083"
 }

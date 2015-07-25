@@ -4,21 +4,20 @@
   "Classification": "Photograph", 
   "Artist": "Joel Sternfeld", 
   "URL": "http://www.moma.org/collection/works/54289", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Acquired through the generosity of the Joel W. Solomon Estate", 
-  "Date": "1983", 
-  "ArtistID": 5656, 
+  "DateAcquired": "1984-12-05", 
   "Keywords": [
-    "online art collection", 
     "Joel Sternfeld", 
     "Houston", 
     "Texas", 
     "1983"
   ], 
+  "ArtistID": 5656, 
+  "Title": "Houston, Texas", 
   "Department": "Photography", 
   "MoMANumber": "490.1984", 
+  "Date": "1983", 
   "ArtistBio": "(American, born 1944)", 
-  "DateAcquired": "1984-12-05", 
-  "\ufeffTitle": "Houston, Texas", 
+  "CuratorApproved": "Y", 
   "ObjectID": "54289"
 }

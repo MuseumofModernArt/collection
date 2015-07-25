@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "David Alfaro Siqueiros", 
   "URL": "http://www.moma.org/collection/works/79146", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Dr. Gregory Zilboorg", 
-  "Date": "1936", 
-  "ArtistID": 5454, 
+  "DateAcquired": "1937-05-11", 
   "Keywords": [
-    "online art collection", 
     "David Alfaro Siqueiros", 
     "Collective Suicide", 
     "1936"
   ], 
+  "ArtistID": 5454, 
+  "Title": "Collective Suicide", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "208.1937", 
+  "Date": "1936", 
   "ArtistBio": "(Mexican, 1896\u20131974)", 
-  "DateAcquired": "1937-05-11", 
-  "\ufeffTitle": "Collective Suicide", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79146"
 }

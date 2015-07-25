@@ -4,20 +4,19 @@
   "Classification": "Drawing", 
   "Artist": "Henri Matisse", 
   "URL": "http://www.moma.org/collection/works/34863", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Acquired through the Lillie P. Bliss Bequest", 
-  "Date": "(1910)", 
-  "ArtistID": 3832, 
+  "DateAcquired": "1970-04-08", 
   "Keywords": [
-    "online art collection", 
     "Henri Matisse", 
     "Girl with Tulips (Jeanne Vaderin)", 
     "(1910)"
   ], 
+  "ArtistID": 3832, 
+  "Title": "Girl with Tulips (Jeanne Vaderin)", 
   "Department": "Drawings", 
   "MoMANumber": "154.1970", 
+  "Date": "(1910)", 
   "ArtistBio": "(French, 1869\u20131954)", 
-  "DateAcquired": "1970-04-08", 
-  "\ufeffTitle": "Girl with Tulips (Jeanne Vaderin)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "34863"
 }

@@ -4,21 +4,20 @@
   "Classification": "Drawing", 
   "Artist": "Andy Warhol", 
   "URL": "http://www.moma.org/collection/works/97682", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The Judith Rothschild Foundation Contemporary Drawings Collection Gift", 
-  "Date": "(c. 1954)", 
-  "ArtistID": 6246, 
+  "DateAcquired": "2005-05-10", 
   "Keywords": [
-    "online art collection", 
     "Andy Warhol", 
     "Untitled (Unidentified Male)", 
     "c", 
     "1954"
   ], 
+  "ArtistID": 6246, 
+  "Title": "Untitled (Unidentified Male)", 
   "Department": "Drawings", 
   "MoMANumber": "3358.2005", 
+  "Date": "(c. 1954)", 
   "ArtistBio": "(American, 1928\u20131987)", 
-  "DateAcquired": "2005-05-10", 
-  "\ufeffTitle": "Untitled (Unidentified Male)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "97682"
 }

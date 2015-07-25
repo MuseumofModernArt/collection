@@ -4,21 +4,20 @@
   "Classification": "Drawing", 
   "Artist": "Pablo Picasso", 
   "URL": "http://www.moma.org/collection/works/36622", 
-  "CuratorApproved": "Y", 
   "CreditLine": "John S. Newberry Collection", 
-  "Date": "July 8, 1921", 
-  "ArtistID": 4609, 
+  "DateAcquired": "1960-11-16", 
   "Keywords": [
-    "online art collection", 
     "Pablo Picasso", 
     "La Source", 
     "July 8", 
     "1921"
   ], 
+  "ArtistID": 4609, 
+  "Title": "La Source", 
   "Department": "Drawings", 
   "MoMANumber": "386.1960", 
+  "Date": "July 8, 1921", 
   "ArtistBio": "(Spanish, 1881\u20131973)", 
-  "DateAcquired": "1960-11-16", 
-  "\ufeffTitle": "La Source", 
+  "CuratorApproved": "Y", 
   "ObjectID": "36622"
 }

@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Jacques Villon", 
   "URL": "http://www.moma.org/collection/works/69432", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Given in memory of Peter H. Deitsch", 
-  "Date": "(1913)", 
-  "ArtistID": 6165, 
+  "DateAcquired": "1971-05-18", 
   "Keywords": [
-    "online art collection", 
     "Jacques Villon", 
     "Portrait de Jeune Femme", 
     "(1913)"
   ], 
+  "ArtistID": 6165, 
+  "Title": "Portrait de Jeune Femme", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "458.1971", 
+  "Date": "(1913)", 
   "ArtistBio": "(French, 1875\u20131963)", 
-  "DateAcquired": "1971-05-18", 
-  "\ufeffTitle": "Portrait de Jeune Femme", 
+  "CuratorApproved": "Y", 
   "ObjectID": "69432"
 }

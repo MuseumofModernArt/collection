@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Christian B\u00e9rard", 
   "URL": "http://www.moma.org/collection/works/78503", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Abby Aldrich Rockefeller Fund", 
-  "Date": "1928", 
-  "ArtistID": 486, 
+  "DateAcquired": "1940-04-05", 
   "Keywords": [
-    "online art collection", 
     "Christian B&eacute;rard", 
     "Jean Cocteau", 
     "1928"
   ], 
+  "ArtistID": 486, 
+  "Title": "Jean Cocteau", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "25.1940", 
+  "Date": "1928", 
   "ArtistBio": "(French, 1902\u20131949)", 
-  "DateAcquired": "1940-04-05", 
-  "\ufeffTitle": "Jean Cocteau", 
+  "CuratorApproved": "Y", 
   "ObjectID": "78503"
 }

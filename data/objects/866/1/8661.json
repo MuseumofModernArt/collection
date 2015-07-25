@@ -4,21 +4,20 @@
   "Classification": "A&D Graphic Design", 
   "Artist": "Kurt Schwitters", 
   "URL": "http://www.moma.org/collection/works/8661", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Jan Tschichold Collection, Gift of Philip Johnson", 
-  "Date": "1924", 
-  "ArtistID": 5293, 
+  "DateAcquired": "1999-12-10", 
   "Keywords": [
-    "online art collection", 
     "Kurt Schwitters", 
     "Merz 11", 
     "Typoreklame", 
     "1924"
   ], 
+  "ArtistID": 5293, 
+  "Title": "Merz 11, Typoreklame", 
   "Department": "Architecture & Design", 
   "MoMANumber": "912.1999", 
+  "Date": "1924", 
   "ArtistBio": "(German, 1887\u20131948)", 
-  "DateAcquired": "1999-12-10", 
-  "\ufeffTitle": "Merz 11, Typoreklame", 
+  "CuratorApproved": "Y", 
   "ObjectID": "8661"
 }

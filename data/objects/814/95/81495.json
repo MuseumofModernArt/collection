@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Christopher Wilmarth", 
   "URL": "http://www.moma.org/collection/works/81495", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Susan Wilmarth", 
-  "Date": "1987", 
-  "ArtistID": 6386, 
+  "DateAcquired": "1996-10-07", 
   "Keywords": [
-    "online art collection", 
     "Christopher Wilmarth", 
     "Self-Portrait with Sliding Light", 
     "1987"
   ], 
+  "ArtistID": 6386, 
+  "Title": "Self-Portrait with Sliding Light", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "477.1996", 
+  "Date": "1987", 
   "ArtistBio": "(American, 1943\u20131987)", 
-  "DateAcquired": "1996-10-07", 
-  "\ufeffTitle": "Self-Portrait with Sliding Light", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81495"
 }

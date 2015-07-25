@@ -4,22 +4,21 @@
   "Classification": "Painting", 
   "Artist": "Henri Matisse", 
   "URL": "http://www.moma.org/collection/works/79866", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift and bequest of Florene M. Schoenborn and Samuel A. Marx", 
-  "Date": "Paris, quai Saint-Michel, fall 1914", 
-  "ArtistID": 3832, 
+  "DateAcquired": "1964-06-15", 
   "Keywords": [
-    "online art collection", 
     "Henri Matisse", 
     "Goldfish and Palette", 
     "Paris", 
     "quai Saint-Michel", 
     "fall 1914"
   ], 
+  "ArtistID": 3832, 
+  "Title": "Goldfish and Palette", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "507.1964", 
+  "Date": "Paris, quai Saint-Michel, fall 1914", 
   "ArtistBio": "(French, 1869\u20131954)", 
-  "DateAcquired": "1964-06-15", 
-  "\ufeffTitle": "Goldfish and Palette", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79866"
 }

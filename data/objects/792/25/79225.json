@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Carlo Carr\u00e0", 
   "URL": "http://www.moma.org/collection/works/79225", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Acquired through the Lillie P. Bliss Bequest", 
-  "Date": "1910-11", 
-  "ArtistID": 987, 
+  "DateAcquired": "1948-10-06", 
   "Keywords": [
-    "online art collection", 
     "Carlo Carr&agrave;", 
     "Funeral of the Anarchist Galli", 
     "1910-11"
   ], 
+  "ArtistID": 987, 
+  "Title": "Funeral of the Anarchist Galli", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "235.1948", 
+  "Date": "1910-11", 
   "ArtistBio": "(Italian, 1881\u20131966)", 
-  "DateAcquired": "1948-10-06", 
-  "\ufeffTitle": "Funeral of the Anarchist Galli", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79225"
 }

@@ -4,12 +4,9 @@
   "Classification": "Photograph", 
   "Artist": "Judith Joy Ross", 
   "URL": "http://www.moma.org/collection/works/93550", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Richard O. Rieger", 
-  "Date": "1993", 
-  "ArtistID": 5030, 
+  "DateAcquired": "2008-11-12", 
   "Keywords": [
-    "online art collection", 
     "Judith Joy Ross", 
     "Graduation", 
     "Hazleton High School Stadium", 
@@ -17,10 +14,12 @@
     "Pennsylvania", 
     "1993"
   ], 
+  "ArtistID": 5030, 
+  "Title": "Graduation, Hazleton High School Stadium, Hazleton, Pennsylvania", 
   "Department": "Photography", 
   "MoMANumber": "1958.2008", 
+  "Date": "1993", 
   "ArtistBio": "(American, born 1946)", 
-  "DateAcquired": "2008-11-12", 
-  "\ufeffTitle": "Graduation, Hazleton High School Stadium, Hazleton, Pennsylvania", 
+  "CuratorApproved": "Y", 
   "ObjectID": "93550"
 }

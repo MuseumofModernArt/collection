@@ -4,12 +4,9 @@
   "Classification": "Photograph", 
   "Artist": "Nicholas Nixon", 
   "URL": "http://www.moma.org/collection/works/50175", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the artist", 
-  "Date": "August 1987", 
-  "ArtistID": 4315, 
+  "DateAcquired": "1988-10-13", 
   "Keywords": [
-    "online art collection", 
     "Nicholas Nixon", 
     "Tom Moran and his Mother", 
     "Catherine Moran", 
@@ -17,10 +14,12 @@
     "Massachusetts", 
     "August 1987"
   ], 
+  "ArtistID": 4315, 
+  "Title": "Catherine and Tom Moran, East Braintree, Massachusetts", 
   "Department": "Photography", 
   "MoMANumber": "298.1988", 
+  "Date": "August 1987", 
   "ArtistBio": "(American, born 1947)", 
-  "DateAcquired": "1988-10-13", 
-  "\ufeffTitle": "Catherine and Tom Moran, East Braintree, Massachusetts", 
+  "CuratorApproved": "Y", 
   "ObjectID": "50175"
 }

@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Georg Herold", 
   "URL": "http://www.moma.org/collection/works/81081", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Werner and Elaine Dannheisser", 
-  "Date": "1985", 
-  "ArtistID": 2615, 
+  "DateAcquired": "1996-04-09", 
   "Keywords": [
-    "online art collection", 
     "Georg Herold", 
     "Muttler", 
     "1985"
   ], 
+  "ArtistID": 2615, 
+  "Title": "Muttler", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "181.1996.a-b", 
+  "Date": "1985", 
   "ArtistBio": "(German, born 1947)", 
-  "DateAcquired": "1996-04-09", 
-  "\ufeffTitle": "Muttler", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81081"
 }

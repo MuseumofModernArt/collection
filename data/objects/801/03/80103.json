@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Yves Klein", 
   "URL": "http://www.moma.org/collection/works/80103", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The Sidney and Harriet Janis Collection", 
-  "Date": "1961", 
-  "ArtistID": 3137, 
+  "DateAcquired": "1969-07-22", 
   "Keywords": [
-    "online art collection", 
     "Yves Klein", 
     "Blue Monochrome", 
     "1961"
   ], 
+  "ArtistID": 3137, 
+  "Title": "Blue Monochrome", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "618.1967", 
+  "Date": "1961", 
   "ArtistBio": "(French, 1928\u20131962)", 
-  "DateAcquired": "1969-07-22", 
-  "\ufeffTitle": "Blue Monochrome", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80103"
 }

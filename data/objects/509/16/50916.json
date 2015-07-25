@@ -4,20 +4,19 @@
   "Classification": "Photograph", 
   "Artist": "Nicholas Nixon", 
   "URL": "http://www.moma.org/collection/works/50916", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1991", 
-  "ArtistID": 4315, 
+  "DateAcquired": "1991-10-25", 
   "Keywords": [
-    "online art collection", 
     "Nicholas Nixon", 
     "The Brown Sisters", 
     "1991"
   ], 
+  "ArtistID": 4315, 
+  "Title": "The Brown Sisters, Watertown, Massachusetts", 
   "Department": "Photography", 
   "MoMANumber": "328.1991", 
+  "Date": "1991", 
   "ArtistBio": "(American, born 1947)", 
-  "DateAcquired": "1991-10-25", 
-  "\ufeffTitle": "The Brown Sisters, Watertown, Massachusetts", 
+  "CuratorApproved": "Y", 
   "ObjectID": "50916"
 }

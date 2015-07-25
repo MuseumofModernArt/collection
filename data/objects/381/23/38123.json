@@ -4,20 +4,19 @@
   "Classification": "Drawing", 
   "Artist": "Jorge de la Vega", 
   "URL": "http://www.moma.org/collection/works/38123", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Given anonymously", 
-  "Date": "1966", 
-  "ArtistID": 6120, 
+  "DateAcquired": "1969-10-28", 
   "Keywords": [
-    "online art collection", 
     "Jorge de la Vega", 
     "Documentary", 
     "1966"
   ], 
+  "ArtistID": 6120, 
+  "Title": "Documentary", 
   "Department": "Drawings", 
   "MoMANumber": "814.1969", 
+  "Date": "1966", 
   "ArtistBio": "(Argentine, 1930\u20131971)", 
-  "DateAcquired": "1969-10-28", 
-  "\ufeffTitle": "Documentary", 
+  "CuratorApproved": "Y", 
   "ObjectID": "38123"
 }

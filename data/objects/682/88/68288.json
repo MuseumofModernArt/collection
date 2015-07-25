@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Henri Matisse", 
   "URL": "http://www.moma.org/collection/works/68288", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Larry Aldrich Fund", 
-  "Date": "(1923)", 
-  "ArtistID": 3832, 
+  "DateAcquired": "1954-09-30", 
   "Keywords": [
-    "online art collection", 
     "Henri Matisse", 
     "Reclining Odalisque (Odalisque couch&eacute;e)", 
     "(1923)"
   ], 
+  "ArtistID": 3832, 
+  "Title": "Reclining Odalisque (Odalisque couch\u00e9e)", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "389.1954", 
+  "Date": "(1923)", 
   "ArtistBio": "(French, 1869\u20131954)", 
-  "DateAcquired": "1954-09-30", 
-  "\ufeffTitle": "Reclining Odalisque (Odalisque couch\u00e9e)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "68288"
 }

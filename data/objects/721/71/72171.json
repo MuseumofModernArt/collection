@@ -4,12 +4,9 @@
   "Classification": "Print", 
   "Artist": "Pablo Picasso", 
   "URL": "http://www.moma.org/collection/works/72171", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Mr. and Mrs. Daniel Saidenberg", 
-  "Date": "July 4, 1958", 
-  "ArtistID": 4609, 
+  "DateAcquired": "1959-04-22", 
   "Keywords": [
-    "online art collection", 
     "Pablo Picasso", 
     "Portrait of a Young Girl", 
     "after Cranach the Younger", 
@@ -19,10 +16,12 @@
     "July 4", 
     "1958"
   ], 
+  "ArtistID": 4609, 
+  "Title": "Portrait of a Young Girl, after Cranach the Younger, II (Portrait de jeune fille, d'apr\u00e8s Cranach Le Jeune, II)", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "631.1959", 
+  "Date": "July 4, 1958", 
   "ArtistBio": "(Spanish, 1881\u20131973)", 
-  "DateAcquired": "1959-04-22", 
-  "\ufeffTitle": "Portrait of a Young Girl, after Cranach the Younger, II (Portrait de jeune fille, d'apr\u00e8s Cranach Le Jeune, II)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "72171"
 }

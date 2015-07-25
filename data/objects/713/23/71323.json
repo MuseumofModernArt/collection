@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Karl Walser", 
   "URL": "http://www.moma.org/collection/works/71323", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Given anonymously", 
-  "Date": "1902", 
-  "ArtistID": 6232, 
+  "DateAcquired": "1942-11-19", 
   "Keywords": [
-    "online art collection", 
     "Karl Walser", 
     "In the Park (Im Park)", 
     "1902"
   ], 
+  "ArtistID": 6232, 
+  "Title": "In the Park (Im Park)", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "572.1942", 
+  "Date": "1902", 
   "ArtistBio": "(Swiss, 1877\u20131943)", 
-  "DateAcquired": "1942-11-19", 
-  "\ufeffTitle": "In the Park (Im Park)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "71323"
 }

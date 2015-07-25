@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Jackson Pollock", 
   "URL": "http://www.moma.org/collection/works/78376", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Mr. and Mrs. Albert Lewin and Mrs. Sam A. Lewisohn Funds", 
-  "Date": "1946", 
-  "ArtistID": 4675, 
+  "DateAcquired": "1968-01-10", 
   "Keywords": [
-    "online art collection", 
     "Jackson Pollock", 
     "Shimmering Substance", 
     "1946"
   ], 
+  "ArtistID": 4675, 
+  "Title": "Shimmering Substance", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "6.1968", 
+  "Date": "1946", 
   "ArtistBio": "(American, 1912\u20131956)", 
-  "DateAcquired": "1968-01-10", 
-  "\ufeffTitle": "Shimmering Substance", 
+  "CuratorApproved": "Y", 
   "ObjectID": "78376"
 }

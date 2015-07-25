@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Carroll Dunham", 
   "URL": "http://www.moma.org/collection/works/72276", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Emily Fisher Landau", 
-  "Date": "1990", 
-  "ArtistID": 1652, 
+  "DateAcquired": "1990-12-31", 
   "Keywords": [
-    "online art collection", 
     "Carroll Dunham", 
     "Pumping Shape", 
     "1990"
   ], 
+  "ArtistID": 1652, 
+  "Title": "Pumping Shape", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "636.1990", 
+  "Date": "1990", 
   "ArtistBio": "(American, born 1949)", 
-  "DateAcquired": "1990-12-31", 
-  "\ufeffTitle": "Pumping Shape", 
+  "CuratorApproved": "Y", 
   "ObjectID": "72276"
 }

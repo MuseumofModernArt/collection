@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Lorna Simpson", 
   "URL": "http://www.moma.org/collection/works/69794", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1992", 
-  "ArtistID": 6602, 
+  "DateAcquired": "1992-11-04", 
   "Keywords": [
-    "online art collection", 
     "Lorna Simpson", 
     "Untitled", 
     "1992"
   ], 
+  "ArtistID": 6602, 
+  "Title": "Untitled", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "479.1992", 
+  "Date": "1992", 
   "ArtistBio": "(American, born 1960)", 
-  "DateAcquired": "1992-11-04", 
-  "\ufeffTitle": "Untitled", 
+  "CuratorApproved": "Y", 
   "ObjectID": "69794"
 }

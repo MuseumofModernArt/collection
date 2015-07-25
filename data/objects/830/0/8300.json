@@ -4,21 +4,20 @@
   "Classification": "A&D Graphic Design", 
   "Artist": "Roy Grace", 
   "URL": "http://www.moma.org/collection/works/8300", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Anonymous gift", 
-  "Date": "1962", 
-  "ArtistID": 2275, 
+  "DateAcquired": "1979-05-30", 
   "Keywords": [
-    "online art collection", 
     "Roy Grace", 
     "103,Cooper Union Exhibition", 
     "School of Art and Architecture", 
     "1962"
   ], 
+  "ArtistID": 2275, 
+  "Title": "103,Cooper Union Exhibition, School of Art and Architecture", 
   "Department": "Architecture & Design", 
   "MoMANumber": "872.1979", 
+  "Date": "1962", 
   "ArtistBio": "(American, born 1936)", 
-  "DateAcquired": "1979-05-30", 
-  "\ufeffTitle": "103,Cooper Union Exhibition, School of Art and Architecture", 
+  "CuratorApproved": "Y", 
   "ObjectID": "8300"
 }

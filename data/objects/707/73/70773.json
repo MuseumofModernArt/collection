@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Georges Braque", 
   "URL": "http://www.moma.org/collection/works/70773", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1949", 
-  "ArtistID": 744, 
+  "DateAcquired": "1949-09-29", 
   "Keywords": [
-    "online art collection", 
     "Georges Braque", 
     "Black Teapot and Lemons (Th&eacute;i&egrave;re et citrons)", 
     "1949"
   ], 
+  "ArtistID": 744, 
+  "Title": "Black Teapot and Lemons (Th\u00e9i\u00e8re et citrons)", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "538.1949", 
+  "Date": "1949", 
   "ArtistBio": "(French, 1882\u20131963)", 
-  "DateAcquired": "1949-09-29", 
-  "\ufeffTitle": "Black Teapot and Lemons (Th\u00e9i\u00e8re et citrons)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "70773"
 }

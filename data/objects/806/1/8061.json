@@ -4,21 +4,20 @@
   "Classification": "A&D Graphic Design", 
   "Artist": "William L. Carqueville", 
   "URL": "http://www.moma.org/collection/works/8061", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Acquired by exchange", 
-  "Date": "1895", 
-  "ArtistID": 986, 
+  "DateAcquired": "1983-11-30", 
   "Keywords": [
-    "online art collection", 
     "William L", 
     "Carqueville", 
     "Lippincott's August", 
     "1895"
   ], 
+  "ArtistID": 986, 
+  "Title": "Lippincott's August", 
   "Department": "Architecture & Design", 
   "MoMANumber": "757.1983", 
+  "Date": "1895", 
   "ArtistBio": "(American, 1871\u20131946)", 
-  "DateAcquired": "1983-11-30", 
-  "\ufeffTitle": "Lippincott's August", 
+  "CuratorApproved": "Y", 
   "ObjectID": "8061"
 }

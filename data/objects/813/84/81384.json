@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Andy Warhol", 
   "URL": "http://www.moma.org/collection/works/81384", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Doris and Donald Fisher", 
-  "Date": "1964", 
-  "ArtistID": 6246, 
+  "DateAcquired": "1997-10-06", 
   "Keywords": [
-    "online art collection", 
     "Andy Warhol", 
     "Brillo Box (Soap Pads)", 
     "1964"
   ], 
+  "ArtistID": 6246, 
+  "Title": "Brillo Box (Soap Pads)", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "358.1997", 
+  "Date": "1964", 
   "ArtistBio": "(American, 1928\u20131987)", 
-  "DateAcquired": "1997-10-06", 
-  "\ufeffTitle": "Brillo Box (Soap Pads)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81384"
 }

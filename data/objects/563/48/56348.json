@@ -4,21 +4,20 @@
   "Classification": "Photograph", 
   "Artist": "Lee Friedlander", 
   "URL": "http://www.moma.org/collection/works/56348", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1981", 
-  "ArtistID": 2002, 
+  "DateAcquired": "2000-10-12", 
   "Keywords": [
-    "online art collection", 
     "Lee Friedlander", 
     "Boston", 
     "Massachusetts", 
     "1981"
   ], 
+  "ArtistID": 2002, 
+  "Title": "Boston, Massachusetts", 
   "Department": "Photography", 
   "MoMANumber": "764.2000", 
+  "Date": "1981", 
   "ArtistBio": "(American, born 1934)", 
-  "DateAcquired": "2000-10-12", 
-  "\ufeffTitle": "Boston, Massachusetts", 
+  "CuratorApproved": "Y", 
   "ObjectID": "56348"
 }

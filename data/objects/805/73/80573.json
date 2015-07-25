@@ -4,22 +4,21 @@
   "Classification": "Painting", 
   "Artist": "Jack Youngerman", 
   "URL": "http://www.moma.org/collection/works/80573", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Larry Aldrich Foundation Fund (by exchange)", 
-  "Date": "1962", 
-  "ArtistID": 6524, 
+  "DateAcquired": "1964-11-10", 
   "Keywords": [
-    "online art collection", 
     "Jack Youngerman", 
     "Black", 
     "Red", 
     "and White", 
     "1962"
   ], 
+  "ArtistID": 6524, 
+  "Title": "Black, Red, and White", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "1134.1964", 
+  "Date": "1962", 
   "ArtistBio": "(American, born 1926)", 
-  "DateAcquired": "1964-11-10", 
-  "\ufeffTitle": "Black, Red, and White", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80573"
 }

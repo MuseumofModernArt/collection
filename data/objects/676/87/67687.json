@@ -4,21 +4,20 @@
   "Classification": "Print", 
   "Artist": "Marisol (Marisol Escobar)", 
   "URL": "http://www.moma.org/collection/works/67687", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Celeste Bartos", 
-  "Date": "1970, printed and dated 1973", 
-  "ArtistID": 3774, 
+  "DateAcquired": "1973-10-24", 
   "Keywords": [
-    "online art collection", 
     "Marisol (Marisol Escobar)", 
     "The Spoon", 
     "1970", 
     "printed and dated 1973"
   ], 
+  "ArtistID": 3774, 
+  "Title": "The Spoon", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "360.1973", 
+  "Date": "1970, printed and dated 1973", 
   "ArtistBio": "(Venezuelan, born France 1930)", 
-  "DateAcquired": "1973-10-24", 
-  "\ufeffTitle": "The Spoon", 
+  "CuratorApproved": "Y", 
   "ObjectID": "67687"
 }

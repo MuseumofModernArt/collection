@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "John Storrs", 
   "URL": "http://www.moma.org/collection/works/81639", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Walter J. Reinemann Fund", 
-  "Date": "1920-21", 
-  "ArtistID": 5681, 
+  "DateAcquired": "1976-12-07", 
   "Keywords": [
-    "online art collection", 
     "John Storrs", 
     "Stone Panel with Black Marble Inlay", 
     "1920-21"
   ], 
+  "ArtistID": 5681, 
+  "Title": "Stone Panel with Black Marble Inlay", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "599.1976", 
+  "Date": "1920-21", 
   "ArtistBio": "(American, 1885\u20131956)", 
-  "DateAcquired": "1976-12-07", 
-  "\ufeffTitle": "Stone Panel with Black Marble Inlay", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81639"
 }

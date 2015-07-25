@@ -4,21 +4,20 @@
   "Classification": "Photograph", 
   "Artist": "Gilles Peress", 
   "URL": "http://www.moma.org/collection/works/54701", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1980", 
-  "ArtistID": 4554, 
+  "DateAcquired": "1980-10-23", 
   "Keywords": [
-    "online art collection", 
     "Gilles Peress", 
     "Heroin Smokers", 
     "Teheran", 
     "1980"
   ], 
+  "ArtistID": 4554, 
+  "Title": "Heroin Smokers, Teheran", 
   "Department": "Photography", 
   "MoMANumber": "524.1980", 
+  "Date": "1980", 
   "ArtistBio": "(French, born 1946)", 
-  "DateAcquired": "1980-10-23", 
-  "\ufeffTitle": "Heroin Smokers, Teheran", 
+  "CuratorApproved": "Y", 
   "ObjectID": "54701"
 }

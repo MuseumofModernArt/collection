@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Jean Follett", 
   "URL": "http://www.moma.org/collection/works/81315", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Larry Aldrich Foundation Fund", 
-  "Date": "1958", 
-  "ArtistID": 1926, 
+  "DateAcquired": "1961-11-08", 
   "Keywords": [
-    "online art collection", 
     "Jean Follett", 
     "Many-Headed Creature", 
     "1958"
   ], 
+  "ArtistID": 1926, 
+  "Title": "Many-Headed Creature", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "296.1961", 
+  "Date": "1958", 
   "ArtistBio": "(American, 1917\u20131991)", 
-  "DateAcquired": "1961-11-08", 
-  "\ufeffTitle": "Many-Headed Creature", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81315"
 }

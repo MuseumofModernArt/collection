@@ -4,12 +4,9 @@
   "Classification": "Photograph", 
   "Artist": "Larry Fink", 
   "URL": "http://www.moma.org/collection/works/49991", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the photographer", 
-  "Date": "1977", 
-  "ArtistID": 1877, 
+  "DateAcquired": "1990-06-07", 
   "Keywords": [
-    "online art collection", 
     "Larry Fink", 
     "Benefit", 
     "The Museum of Modern Art", 
@@ -17,10 +14,12 @@
     "New York City", 
     "1977"
   ], 
+  "ArtistID": 1877, 
+  "Title": "Benefit, The Museum of Modern Art, June, New York City", 
   "Department": "Photography", 
   "MoMANumber": "286.1990", 
+  "Date": "1977", 
   "ArtistBio": "(American, born 1941)", 
-  "DateAcquired": "1990-06-07", 
-  "\ufeffTitle": "Benefit, The Museum of Modern Art, June, New York City", 
+  "CuratorApproved": "Y", 
   "ObjectID": "49991"
 }

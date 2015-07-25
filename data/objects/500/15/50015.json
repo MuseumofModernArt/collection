@@ -4,12 +4,9 @@
   "Classification": "Photograph", 
   "Artist": "Larry Fink", 
   "URL": "http://www.moma.org/collection/works/50015", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the photographer", 
-  "Date": "1979", 
-  "ArtistID": 1877, 
+  "DateAcquired": "1990-06-07", 
   "Keywords": [
-    "online art collection", 
     "Larry Fink", 
     "Dance", 
     "American Legion", 
@@ -18,10 +15,12 @@
     "March 1979", 
     "1979"
   ], 
+  "ArtistID": 1877, 
+  "Title": "Dance, American Legion, Bangor, Pennsylvania, March 1979", 
   "Department": "Photography", 
   "MoMANumber": "288.1990", 
+  "Date": "1979", 
   "ArtistBio": "(American, born 1941)", 
-  "DateAcquired": "1990-06-07", 
-  "\ufeffTitle": "Dance, American Legion, Bangor, Pennsylvania, March 1979", 
+  "CuratorApproved": "Y", 
   "ObjectID": "50015"
 }

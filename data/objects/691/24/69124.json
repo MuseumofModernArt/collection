@@ -4,22 +4,21 @@
   "Classification": "Print", 
   "Artist": "John J. A. Murphy", 
   "URL": "http://www.moma.org/collection/works/69124", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Abby Aldrich Rockefeller Fund", 
-  "Date": "1924", 
-  "ArtistID": 4182, 
+  "DateAcquired": "1990-10-23", 
   "Keywords": [
-    "online art collection", 
     "John J", 
     "A", 
     "Murphy", 
     "Shadow Boxing", 
     "1924"
   ], 
+  "ArtistID": 4182, 
+  "Title": "Shadow Boxing", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "437.1990", 
+  "Date": "1924", 
   "ArtistBio": "(American, 1888\u20131967)", 
-  "DateAcquired": "1990-10-23", 
-  "\ufeffTitle": "Shadow Boxing", 
+  "CuratorApproved": "Y", 
   "ObjectID": "69124"
 }

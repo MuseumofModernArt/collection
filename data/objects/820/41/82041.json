@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Marisol (Marisol Escobar)", 
   "URL": "http://www.moma.org/collection/works/82041", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Claire and Tom Wesselmann", 
-  "Date": "1962", 
-  "ArtistID": 3774, 
+  "DateAcquired": "1974-02-11", 
   "Keywords": [
-    "online art collection", 
     "Marisol (Marisol Escobar)", 
     "Love", 
     "1962"
   ], 
+  "ArtistID": 3774, 
+  "Title": "Love", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "1405.1974", 
+  "Date": "1962", 
   "ArtistBio": "(Venezuelan, born France 1930)", 
-  "DateAcquired": "1974-02-11", 
-  "\ufeffTitle": "Love", 
+  "CuratorApproved": "Y", 
   "ObjectID": "82041"
 }

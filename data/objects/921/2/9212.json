@@ -4,12 +4,9 @@
   "Classification": "Illustrated Book", 
   "Artist": "Various Artists, L\u00e9opold Survage, Jules Pascin, Joan Mir\u00f3, Andr\u00e9 Masson, Alberto Magnelli, Alberto Giacometti, Andr\u00e9 Dunoyer de Segonzac, Andr\u00e9 Derain, Pablo Picasso, Camille Bryen, Louis Marcoussis, Max Ernst, Andr\u00e9 Beaudin", 
   "URL": "http://www.moma.org/collection/works/9212", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Mrs. Stanley Resor Fund (by exchange)", 
-  "Date": "1968", 
-  "ArtistID": 6104, 
+  "DateAcquired": "1976-01-08", 
   "Keywords": [
-    "online art collection", 
     "Various Artists with L&eacute;opold Survage", 
     "Jules Pascin", 
     "Joan Mir&oacute;", 
@@ -25,10 +22,12 @@
     "Hommage &Agrave; Roger Lacouri&egrave;re", 
     "1968"
   ], 
+  "ArtistID": 6104, 
+  "Title": "Hommage \u00c0 Roger Lacouri\u00e8re", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "15.1976.1-13", 
+  "Date": "1968", 
   "ArtistBio": "(Various) (French, 1879\u20131968) (American, born Bulgaria. 1885\u20131930) (Spanish, 1893\u20131983) (French, 1896\u20131987) (Italian, 1888\u20131971) (Swiss, 1901\u20131966) (French, 1884\u20131974) (French, 1880\u20131954) (Spanish, 1881\u20131973) (French, 1907\u20131976) (Polish, 1883\u20131941) (French, born Germany. 1891\u20131976) (French, 1895\u20131975)", 
-  "DateAcquired": "1976-01-08", 
-  "\ufeffTitle": "Hommage \u00c0 Roger Lacouri\u00e8re", 
+  "CuratorApproved": "Y", 
   "ObjectID": "9212"
 }

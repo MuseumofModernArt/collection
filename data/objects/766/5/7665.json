@@ -4,12 +4,9 @@
   "Classification": "A&D Graphic Design", 
   "Artist": "K. Hinterberger", 
   "URL": "http://www.moma.org/collection/works/7665", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the artist", 
-  "Date": "1951", 
-  "ArtistID": 2660, 
+  "DateAcquired": "1951-11-21", 
   "Keywords": [
-    "online art collection", 
     "K", 
     "Hinterberger", 
     "Constructa", 
@@ -17,10 +14,12 @@
     "Hanover Jul 3-Aug 8", 
     "1951"
   ], 
+  "ArtistID": 2660, 
+  "Title": "Constructa, Bauausstellung 1951, Hanover Jul 3-Aug 8", 
   "Department": "Architecture & Design", 
   "MoMANumber": "595.1951", 
+  "Date": "1951", 
   "ArtistBio": "(German)", 
-  "DateAcquired": "1951-11-21", 
-  "\ufeffTitle": "Constructa, Bauausstellung 1951, Hanover Jul 3-Aug 8", 
+  "CuratorApproved": "Y", 
   "ObjectID": "7665"
 }

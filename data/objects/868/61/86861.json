@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Elizabeth Peyton", 
   "URL": "http://www.moma.org/collection/works/86861", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Donald B. Marron Fund", 
-  "Date": "2002", 
-  "ArtistID": 8042, 
+  "DateAcquired": "2002-11-20", 
   "Keywords": [
-    "online art collection", 
     "Elizabeth Peyton", 
     "Gavin", 
     "2002"
   ], 
+  "ArtistID": 8042, 
+  "Title": "Gavin", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "362.2002", 
+  "Date": "2002", 
   "ArtistBio": "(American, born 1965)", 
-  "DateAcquired": "2002-11-20", 
-  "\ufeffTitle": "Gavin", 
+  "CuratorApproved": "Y", 
   "ObjectID": "86861"
 }

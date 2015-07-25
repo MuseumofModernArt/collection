@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Pablo Gargallo", 
   "URL": "http://www.moma.org/collection/works/81027", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of A. Conger Goodyear", 
-  "Date": "1928", 
-  "ArtistID": 2084, 
+  "DateAcquired": "1934-05-10", 
   "Keywords": [
-    "online art collection", 
     "Pablo Gargallo", 
     "Picador", 
     "1928"
   ], 
+  "ArtistID": 2084, 
+  "Title": "Picador", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "151.1934", 
+  "Date": "1928", 
   "ArtistBio": "(Spanish, 1881\u20131934)", 
-  "DateAcquired": "1934-05-10", 
-  "\ufeffTitle": "Picador", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81027"
 }

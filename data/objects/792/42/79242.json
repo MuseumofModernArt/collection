@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Willem de Kooning", 
   "URL": "http://www.moma.org/collection/works/79242", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1948", 
-  "ArtistID": 3213, 
+  "DateAcquired": "1948-10-06", 
   "Keywords": [
-    "online art collection", 
     "Willem de Kooning", 
     "Painting", 
     "1948"
   ], 
+  "ArtistID": 3213, 
+  "Title": "Painting", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "238.1948", 
+  "Date": "1948", 
   "ArtistBio": "(American, born the Netherlands. 1904\u20131997)", 
-  "DateAcquired": "1948-10-06", 
-  "\ufeffTitle": "Painting", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79242"
 }

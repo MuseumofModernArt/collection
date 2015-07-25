@@ -4,12 +4,9 @@
   "Classification": "Print", 
   "Artist": "Louise Bourgeois", 
   "URL": "http://www.moma.org/collection/works/62384", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the artist", 
-  "Date": "c. 1946", 
-  "ArtistID": 710, 
+  "DateAcquired": "1990-05-02", 
   "Keywords": [
-    "online art collection", 
     "Louise Bourgeois", 
     "Thompson Street", 
     "state I", 
@@ -17,10 +14,12 @@
     "(c", 
     "1946)"
   ], 
+  "ArtistID": 710, 
+  "Title": "Thompson Street", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "128.1990.2", 
+  "Date": "c. 1946", 
   "ArtistBio": "(American, born France. 1911\u20132010)", 
-  "DateAcquired": "1990-05-02", 
-  "\ufeffTitle": "Thompson Street", 
+  "CuratorApproved": "Y", 
   "ObjectID": "62384"
 }

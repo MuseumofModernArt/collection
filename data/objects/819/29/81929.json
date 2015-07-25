@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Alexander Calder", 
   "URL": "http://www.moma.org/collection/works/81929", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the artist", 
-  "Date": "1968", 
-  "ArtistID": 922, 
+  "DateAcquired": "1969-11-12", 
   "Keywords": [
-    "online art collection", 
     "Alexander Calder", 
     "The Bicycle", 
     "1968"
   ], 
+  "ArtistID": 922, 
+  "Title": "The Bicycle", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "1002.1969", 
+  "Date": "1968", 
   "ArtistBio": "(American, 1898\u20131976)", 
-  "DateAcquired": "1969-11-12", 
-  "\ufeffTitle": "The Bicycle", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81929"
 }

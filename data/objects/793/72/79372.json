@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Jasper Johns", 
   "URL": "http://www.moma.org/collection/works/79372", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Mr. and Mrs. Robert C. Scull", 
-  "Date": "1961", 
-  "ArtistID": 2923, 
+  "DateAcquired": "1963-05-07", 
   "Keywords": [
-    "online art collection", 
     "Jasper Johns", 
     "Map", 
     "1961"
   ], 
+  "ArtistID": 2923, 
+  "Title": "Map", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "277.1963", 
+  "Date": "1961", 
   "ArtistBio": "(American, born 1930)", 
-  "DateAcquired": "1963-05-07", 
-  "\ufeffTitle": "Map", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79372"
 }

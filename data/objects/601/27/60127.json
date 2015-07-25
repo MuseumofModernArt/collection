@@ -4,21 +4,20 @@
   "Classification": "Print", 
   "Artist": "Pablo Picasso", 
   "URL": "http://www.moma.org/collection/works/60127", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Acquired through the Lillie P. Bliss Bequest", 
-  "Date": "1911, published 1912", 
-  "ArtistID": 4609, 
+  "DateAcquired": "1947-03-13", 
   "Keywords": [
-    "online art collection", 
     "Pablo Picasso", 
     "Still Life with Bottle of Marc", 
     "1911", 
     "published 1912"
   ], 
+  "ArtistID": 4609, 
+  "Title": "Still Life with Bottle of Marc", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "21.1947", 
+  "Date": "1911, published 1912", 
   "ArtistBio": "(Spanish, 1881\u20131973)", 
-  "DateAcquired": "1947-03-13", 
-  "\ufeffTitle": "Still Life with Bottle of Marc", 
+  "CuratorApproved": "Y", 
   "ObjectID": "60127"
 }

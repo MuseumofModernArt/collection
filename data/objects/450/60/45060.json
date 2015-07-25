@@ -4,21 +4,20 @@
   "Classification": "Photograph", 
   "Artist": "Hein Gravenhorst", 
   "URL": "http://www.moma.org/collection/works/45060", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Benjamin Zeller Memorial Fund", 
-  "Date": "c. 1966", 
-  "ArtistID": 2305, 
+  "DateAcquired": "1966-01-11", 
   "Keywords": [
-    "online art collection", 
     "Hein Gravenhorst", 
     "Untitled", 
     "c", 
     "1966"
   ], 
+  "ArtistID": 2305, 
+  "Title": "Untitled", 
   "Department": "Photography", 
   "MoMANumber": "54.1966", 
+  "Date": "c. 1966", 
   "ArtistBio": "(German)", 
-  "DateAcquired": "1966-01-11", 
-  "\ufeffTitle": "Untitled", 
+  "CuratorApproved": "Y", 
   "ObjectID": "45060"
 }

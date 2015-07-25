@@ -4,20 +4,19 @@
   "Classification": "Illustrated Book", 
   "Artist": "Oskar Kokoschka", 
   "URL": "http://www.moma.org/collection/works/15971", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase Fund", 
-  "Date": "1914 (prints executed 1913)", 
-  "ArtistID": 3197, 
+  "DateAcquired": "1947-12-19", 
   "Keywords": [
-    "online art collection", 
     "Oskar Kokoschka", 
     "Die Chinesische Mauer (The Great Wall of China)", 
     "1914 (prints executed 1913)"
   ], 
+  "ArtistID": 3197, 
+  "Title": "Die Chinesische Mauer (The Great Wall of China)", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "334.1947.1-8", 
+  "Date": "1914 (prints executed 1913)", 
   "ArtistBio": "(Austrian, 1886\u20131980)", 
-  "DateAcquired": "1947-12-19", 
-  "\ufeffTitle": "Die Chinesische Mauer (The Great Wall of China)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "15971"
 }

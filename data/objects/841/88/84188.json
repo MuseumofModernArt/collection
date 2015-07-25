@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Gerhard Richter", 
   "URL": "http://www.moma.org/collection/works/84188", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Partial and promised gift of UBS", 
-  "Date": "1963", 
-  "ArtistID": 4907, 
+  "DateAcquired": "2002-04-08", 
   "Keywords": [
-    "online art collection", 
     "Gerhard Richter", 
     "Helen", 
     "1963"
   ], 
+  "ArtistID": 4907, 
+  "Title": "Helen", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "105.2002", 
+  "Date": "1963", 
   "ArtistBio": "(German, born 1932)", 
-  "DateAcquired": "2002-04-08", 
-  "\ufeffTitle": "Helen", 
+  "CuratorApproved": "Y", 
   "ObjectID": "84188"
 }

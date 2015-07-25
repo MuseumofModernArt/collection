@@ -4,20 +4,19 @@
   "Classification": "Photograph", 
   "Artist": "Aaron Siskind", 
   "URL": "http://www.moma.org/collection/works/45222", 
-  "CuratorApproved": "Y", 
   "CreditLine": "John Parkinson III Fund", 
-  "Date": "1980", 
-  "ArtistID": 5456, 
+  "DateAcquired": "1989-03-09", 
   "Keywords": [
-    "online art collection", 
     "Aaron Siskind", 
     "Volcano 103", 
     "1980"
   ], 
+  "ArtistID": 5456, 
+  "Title": "Volcano 103", 
   "Department": "Photography", 
   "MoMANumber": "59.1989.2", 
+  "Date": "1980", 
   "ArtistBio": "(American, 1903\u20131991)", 
-  "DateAcquired": "1989-03-09", 
-  "\ufeffTitle": "Volcano 103", 
+  "CuratorApproved": "Y", 
   "ObjectID": "45222"
 }

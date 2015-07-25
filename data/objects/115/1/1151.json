@@ -4,12 +4,9 @@
   "Classification": "A&D Design", 
   "Artist": "L.M. Ericsson Telephone Company, company design, Hugo Blomberg, Ralph Lysell, Hans G\u00f6sta Thames", 
   "URL": "http://www.moma.org/collection/works/1151", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Given anonymously", 
-  "Date": "1949-54", 
-  "ArtistID": 8675, 
+  "DateAcquired": "2001-09-24", 
   "Keywords": [
-    "online art collection", 
     "L,M", 
     "Ericsson Telephone Company", 
     "company design", 
@@ -18,10 +15,12 @@
     "Ericofon Telephone", 
     "1949-54"
   ], 
+  "ArtistID": 8675, 
+  "Title": "Ericofon Telephone", 
   "Department": "Architecture & Design", 
   "MoMANumber": "2265.2001.1-2", 
+  "Date": "1949-54", 
   "ArtistBio": "(Swedish, established 1876) (Swedish, born 1897) (Swedish, born 1907) (Swedish, born 1916)", 
-  "DateAcquired": "2001-09-24", 
-  "\ufeffTitle": "Ericofon Telephone", 
+  "CuratorApproved": "Y", 
   "ObjectID": "1151"
 }

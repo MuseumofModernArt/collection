@@ -4,20 +4,19 @@
   "Classification": "Multiple", 
   "Artist": "Jeff Koons", 
   "URL": "http://www.moma.org/collection/works/71901", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Mary Ellen Meehan Fund", 
-  "Date": "1998", 
-  "ArtistID": 6622, 
+  "DateAcquired": "1998-11-12", 
   "Keywords": [
-    "online art collection", 
     "Jeff Koons", 
     "Puppy", 
     "1998"
   ], 
+  "ArtistID": 6622, 
+  "Title": "Puppy", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "616.1998", 
+  "Date": "1998", 
   "ArtistBio": "(American, born 1955)", 
-  "DateAcquired": "1998-11-12", 
-  "\ufeffTitle": "Puppy", 
+  "CuratorApproved": "Y", 
   "ObjectID": "71901"
 }

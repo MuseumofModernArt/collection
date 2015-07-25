@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Gaston Lachaise", 
   "URL": "http://www.moma.org/collection/works/81446", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Edward M. M. Warburg", 
-  "Date": "1933", 
-  "ArtistID": 3332, 
+  "DateAcquired": "1941-03-20", 
   "Keywords": [
-    "online art collection", 
     "Gaston Lachaise", 
     "Dynamo Mother", 
     "1933"
   ], 
+  "ArtistID": 3332, 
+  "Title": "Dynamo Mother", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "406.1941", 
+  "Date": "1933", 
   "ArtistBio": "(American, born France. 1882\u20131935)", 
-  "DateAcquired": "1941-03-20", 
-  "\ufeffTitle": "Dynamo Mother", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81446"
 }

@@ -4,20 +4,19 @@
   "Classification": "Drawing", 
   "Artist": "Henri Matisse", 
   "URL": "http://www.moma.org/collection/works/33693", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "July 1938", 
-  "ArtistID": 3832, 
+  "DateAcquired": "1981-04-28", 
   "Keywords": [
-    "online art collection", 
     "Henri Matisse", 
     "Reclining Nude", 
     "July 1938"
   ], 
+  "ArtistID": 3832, 
+  "Title": "Reclining Nude", 
   "Department": "Drawings", 
   "MoMANumber": "79.1981", 
+  "Date": "July 1938", 
   "ArtistBio": "(French, 1869\u20131954)", 
-  "DateAcquired": "1981-04-28", 
-  "\ufeffTitle": "Reclining Nude", 
+  "CuratorApproved": "Y", 
   "ObjectID": "33693"
 }

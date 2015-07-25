@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Helen Frankenthaler", 
   "URL": "http://www.moma.org/collection/works/80139", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Nina and Gordon Bunshaft Bequest", 
-  "Date": "1971", 
-  "ArtistID": 1974, 
+  "DateAcquired": "1994-12-08", 
   "Keywords": [
-    "online art collection", 
     "Helen Frankenthaler", 
     "Chairman of the Board", 
     "1971"
   ], 
+  "ArtistID": 1974, 
+  "Title": "Chairman of the Board", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "631.1994", 
+  "Date": "1971", 
   "ArtistBio": "(American, 1928\u20132011)", 
-  "DateAcquired": "1994-12-08", 
-  "\ufeffTitle": "Chairman of the Board", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80139"
 }

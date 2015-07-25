@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Robert Ryman", 
   "URL": "http://www.moma.org/collection/works/79732", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of UBS", 
-  "Date": "1976", 
-  "ArtistID": 5098, 
+  "DateAcquired": "1992-06-08", 
   "Keywords": [
-    "online art collection", 
     "Robert Ryman", 
     "Untitled", 
     "1976"
   ], 
+  "ArtistID": 5098, 
+  "Title": "Untitled", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "311.1992", 
+  "Date": "1976", 
   "ArtistBio": "(American, born 1930)", 
-  "DateAcquired": "1992-06-08", 
-  "\ufeffTitle": "Untitled", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79732"
 }

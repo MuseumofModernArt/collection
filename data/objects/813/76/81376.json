@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Gerhard Marcks", 
   "URL": "http://www.moma.org/collection/works/81376", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Mrs. John D. Rockefeller, 3rd", 
-  "Date": "1948", 
-  "ArtistID": 3756, 
+  "DateAcquired": "1955-11-23", 
   "Keywords": [
-    "online art collection", 
     "Gerhard Marcks", 
     "Crucifix", 
     "1948"
   ], 
+  "ArtistID": 3756, 
+  "Title": "Crucifix", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "338.1955", 
+  "Date": "1948", 
   "ArtistBio": "(German, 1889\u20131981)", 
-  "DateAcquired": "1955-11-23", 
-  "\ufeffTitle": "Crucifix", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81376"
 }

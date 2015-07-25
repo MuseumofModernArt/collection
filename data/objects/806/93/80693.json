@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Morris Hirshfield", 
   "URL": "http://www.moma.org/collection/works/80693", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The Sidney and Harriet Janis Collection", 
-  "Date": "1937-39 (dated on painting 1937)", 
-  "ArtistID": 2671, 
+  "DateAcquired": "1967-10-18", 
   "Keywords": [
-    "online art collection", 
     "Morris Hirshfield", 
     "Beach Girl", 
     "1937-39 (dated on painting 1937)"
   ], 
+  "ArtistID": 2671, 
+  "Title": "Beach Girl", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "2097.1967", 
+  "Date": "1937-39 (dated on painting 1937)", 
   "ArtistBio": "(American, born Poland. 1872\u20131946)", 
-  "DateAcquired": "1967-10-18", 
-  "\ufeffTitle": "Beach Girl", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80693"
 }

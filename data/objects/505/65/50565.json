@@ -4,21 +4,20 @@
   "Classification": "Photograph", 
   "Artist": "Lee Friedlander", 
   "URL": "http://www.moma.org/collection/works/50565", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1963", 
-  "ArtistID": 2002, 
+  "DateAcquired": "2000-10-12", 
   "Keywords": [
-    "online art collection", 
     "Lee Friedlander", 
     "Monsey", 
     "New York", 
     "1963"
   ], 
+  "ArtistID": 2002, 
+  "Title": "Monsey, New York", 
   "Department": "Photography", 
   "MoMANumber": "315.2000", 
+  "Date": "1963", 
   "ArtistBio": "(American, born 1934)", 
-  "DateAcquired": "2000-10-12", 
-  "\ufeffTitle": "Monsey, New York", 
+  "CuratorApproved": "Y", 
   "ObjectID": "50565"
 }

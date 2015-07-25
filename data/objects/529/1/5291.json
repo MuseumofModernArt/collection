@@ -4,21 +4,20 @@
   "Classification": "A&D Graphic Design", 
   "Artist": "Marcel Duchamp", 
   "URL": "http://www.moma.org/collection/works/5291", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1925", 
-  "ArtistID": 1634, 
+  "DateAcquired": "1952-05-20", 
   "Keywords": [
-    "online art collection", 
     "Marcel Duchamp", 
     "Echecs", 
     "Championnat de France 1925", 
     "1925"
   ], 
+  "ArtistID": 1634, 
+  "Title": "Echecs, Championnat de France 1925", 
   "Department": "Architecture & Design", 
   "MoMANumber": "150.1952", 
+  "Date": "1925", 
   "ArtistBio": "(American, born France. 1887\u20131968)", 
-  "DateAcquired": "1952-05-20", 
-  "\ufeffTitle": "Echecs, Championnat de France 1925", 
+  "CuratorApproved": "Y", 
   "ObjectID": "5291"
 }

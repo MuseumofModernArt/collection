@@ -4,22 +4,21 @@
   "Classification": "Drawing", 
   "Artist": "John Cage", 
   "URL": "http://www.moma.org/collection/works/33028", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Acquired with matching funds from Gertrud A. Mellon and the National Endowment for the Arts", 
-  "Date": "1961", 
-  "ArtistID": 912, 
+  "DateAcquired": "1977-02-02", 
   "Keywords": [
-    "online art collection", 
     "John Cage", 
     "Music for Carillon", 
     "# 4", 
     "Page 3", 
     "1961"
   ], 
+  "ArtistID": 912, 
+  "Title": "Music for Carillon, # 4, Page 3", 
   "Department": "Drawings", 
   "MoMANumber": "5.1977", 
+  "Date": "1961", 
   "ArtistBio": "(American, 1912\u20131992)", 
-  "DateAcquired": "1977-02-02", 
-  "\ufeffTitle": "Music for Carillon, # 4, Page 3", 
+  "CuratorApproved": "Y", 
   "ObjectID": "33028"
 }

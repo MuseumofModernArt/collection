@@ -4,12 +4,9 @@
   "Classification": "A&D Architectural Drawing", 
   "Artist": "Michael Graves", 
   "URL": "http://www.moma.org/collection/works/96", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Philip Johnson", 
-  "Date": "1978", 
-  "ArtistID": 2308, 
+  "DateAcquired": "1980-01-08", 
   "Keywords": [
-    "online art collection", 
     "Michael Graves", 
     "French & Company", 
     "project", 
@@ -18,10 +15,12 @@
     "Facade study", 
     "1978"
   ], 
+  "ArtistID": 2308, 
+  "Title": "French & Company, project, New York (Manhattan), New York, Facade study", 
   "Department": "Architecture & Design", 
   "MoMANumber": "26.1980", 
+  "Date": "1978", 
   "ArtistBio": "(American, 1934\u20132015)", 
-  "DateAcquired": "1980-01-08", 
-  "\ufeffTitle": "French & Company, project, New York (Manhattan), New York, Facade study", 
+  "CuratorApproved": "Y", 
   "ObjectID": "96"
 }

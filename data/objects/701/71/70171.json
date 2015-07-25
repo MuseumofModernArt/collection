@@ -4,21 +4,20 @@
   "Classification": "Print", 
   "Artist": "Pablo Picasso", 
   "URL": "http://www.moma.org/collection/works/70171", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Abby Aldrich Rockefeller", 
-  "Date": "1905-06, published 1913", 
-  "ArtistID": 4609, 
+  "DateAcquired": "1940-04-05", 
   "Keywords": [
-    "online art collection", 
     "Pablo Picasso", 
     "At the Circus (Au Cirque)", 
     "1905-06", 
     "published 1913"
   ], 
+  "ArtistID": 4609, 
+  "Title": "At the Circus (Au Cirque)", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "501.1940", 
+  "Date": "1905-06, published 1913", 
   "ArtistBio": "(Spanish, 1881\u20131973)", 
-  "DateAcquired": "1940-04-05", 
-  "\ufeffTitle": "At the Circus (Au Cirque)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "70171"
 }

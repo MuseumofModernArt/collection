@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Jane Hammond", 
   "URL": "http://www.moma.org/collection/works/86840", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Emily Fisher Landau", 
-  "Date": "2001", 
-  "ArtistID": 6640, 
+  "DateAcquired": "2002-11-20", 
   "Keywords": [
-    "online art collection", 
     "Jane Hammond", 
     "Tabula Rosa", 
     "2001"
   ], 
+  "ArtistID": 6640, 
+  "Title": "Tabula Rosa", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "331.2002", 
+  "Date": "2001", 
   "ArtistBio": "(American, born 1950)", 
-  "DateAcquired": "2002-11-20", 
-  "\ufeffTitle": "Tabula Rosa", 
+  "CuratorApproved": "Y", 
   "ObjectID": "86840"
 }

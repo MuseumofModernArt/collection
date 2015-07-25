@@ -4,20 +4,19 @@
   "Classification": "Drawing", 
   "Artist": "Enrique Chagoya", 
   "URL": "http://www.moma.org/collection/works/86811", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "2002", 
-  "ArtistID": 7480, 
+  "DateAcquired": "2002-10-15", 
   "Keywords": [
-    "online art collection", 
     "Enrique Chagoya", 
     "The Illuminated Cannibal / El Cannibal Illuminado", 
     "2002"
   ], 
+  "ArtistID": 7480, 
+  "Title": "The Illuminated Cannibal / El Cannibal Illuminado", 
   "Department": "Drawings", 
   "MoMANumber": "299.2002", 
+  "Date": "2002", 
   "ArtistBio": "(American, born Mexico 1953)", 
-  "DateAcquired": "2002-10-15", 
-  "\ufeffTitle": "The Illuminated Cannibal / El Cannibal Illuminado", 
+  "CuratorApproved": "Y", 
   "ObjectID": "86811"
 }

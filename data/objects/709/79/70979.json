@@ -4,12 +4,9 @@
   "Classification": "Print", 
   "Artist": "Louise Bourgeois", 
   "URL": "http://www.moma.org/collection/works/70979", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the artist", 
-  "Date": "(1989)", 
-  "ArtistID": 710, 
+  "DateAcquired": "1993-11-17", 
   "Keywords": [
-    "online art collection", 
     "Louise Bourgeois", 
     "Untitled", 
     "plate 5", 
@@ -17,10 +14,12 @@
     "from Anatomy", 
     "(1989)"
   ], 
+  "ArtistID": 710, 
+  "Title": "Untitled, plate 5, state I, from Anatomy", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "550.1993", 
+  "Date": "(1989)", 
   "ArtistBio": "(American, born France. 1911\u20132010)", 
-  "DateAcquired": "1993-11-17", 
-  "\ufeffTitle": "Untitled, plate 5, state I, from Anatomy", 
+  "CuratorApproved": "Y", 
   "ObjectID": "70979"
 }

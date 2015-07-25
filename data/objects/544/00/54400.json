@@ -4,12 +4,9 @@
   "Classification": "Photograph", 
   "Artist": "Dorothea Lange", 
   "URL": "http://www.moma.org/collection/works/54400", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1939", 
-  "ArtistID": 3373, 
+  "DateAcquired": "1995-06-15", 
   "Keywords": [
-    "online art collection", 
     "Dorothea Lange", 
     "Child and Her Mother", 
     "Wapato", 
@@ -17,10 +14,12 @@
     "Washington", 
     "1939"
   ], 
+  "ArtistID": 3373, 
+  "Title": "Child and Her Mother, Wapato, Yakima Valley, Washington", 
   "Department": "Photography", 
   "MoMANumber": "497.1995", 
+  "Date": "1939", 
   "ArtistBio": "(American, 1895\u20131965)", 
-  "DateAcquired": "1995-06-15", 
-  "\ufeffTitle": "Child and Her Mother, Wapato, Yakima Valley, Washington", 
+  "CuratorApproved": "Y", 
   "ObjectID": "54400"
 }

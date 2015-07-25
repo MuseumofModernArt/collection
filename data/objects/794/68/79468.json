@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Agnes Martin", 
   "URL": "http://www.moma.org/collection/works/79468", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Laura-Lee and Robert Woods", 
-  "Date": "1966", 
-  "ArtistID": 3787, 
+  "DateAcquired": "1992-06-08", 
   "Keywords": [
-    "online art collection", 
     "Agnes Martin", 
     "Mountain 1", 
     "1966"
   ], 
+  "ArtistID": 3787, 
+  "Title": "Mountain I", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "307.1992", 
+  "Date": "1966", 
   "ArtistBio": "(American, born Canada. 1912\u20132004)", 
-  "DateAcquired": "1992-06-08", 
-  "\ufeffTitle": "Mountain I", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79468"
 }

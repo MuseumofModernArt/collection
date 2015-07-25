@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Aleksandr Archipenko", 
   "URL": "http://www.moma.org/collection/works/81951", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Frances Archipenko Gray and Perls Galleries", 
-  "Date": "1912", 
-  "ArtistID": 209, 
+  "DateAcquired": "1970-02-10", 
   "Keywords": [
-    "online art collection", 
     "Aleksandr Archipenko", 
     "Madonna of the Rocks", 
     "1912"
   ], 
+  "ArtistID": 209, 
+  "Title": "Madonna of the Rocks", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "1073.1969", 
+  "Date": "1912", 
   "ArtistBio": "(American, 1887\u20131964)", 
-  "DateAcquired": "1970-02-10", 
-  "\ufeffTitle": "Madonna of the Rocks", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81951"
 }

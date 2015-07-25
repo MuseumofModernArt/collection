@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Pierre Alechinsky", 
   "URL": "http://www.moma.org/collection/works/75316", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the artist", 
-  "Date": "1979", 
-  "ArtistID": 107, 
+  "DateAcquired": "1979-12-04", 
   "Keywords": [
-    "online art collection", 
     "Pierre Alechinsky", 
     "Union House", 
     "1979"
   ], 
+  "ArtistID": 107, 
+  "Title": "Union House", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "1038.1979", 
+  "Date": "1979", 
   "ArtistBio": "(Belgian, born 1927)", 
-  "DateAcquired": "1979-12-04", 
-  "\ufeffTitle": "Union House", 
+  "CuratorApproved": "Y", 
   "ObjectID": "75316"
 }

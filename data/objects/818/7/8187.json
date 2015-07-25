@@ -4,12 +4,9 @@
   "Classification": "A&D Graphic Design", 
   "Artist": "Johannes Molzahn", 
   "URL": "http://www.moma.org/collection/works/8187", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Jan Tschichold Collection, Gift of Philip Johnson", 
-  "Date": "c. 1925-30", 
-  "ArtistID": 4054, 
+  "DateAcquired": "1999-12-10", 
   "Keywords": [
-    "online art collection", 
     "Johannes Molzahn", 
     "Carl Petrie", 
     "Alfeld/Leine", 
@@ -17,10 +14,12 @@
     "c", 
     "1925-30"
   ], 
+  "ArtistID": 4054, 
+  "Title": "Carl Petrie, Alfeld/Leine, Wettertuche", 
   "Department": "Architecture & Design", 
   "MoMANumber": "809.1999", 
+  "Date": "c. 1925-30", 
   "ArtistBio": "(German, 1892\u20131965)", 
-  "DateAcquired": "1999-12-10", 
-  "\ufeffTitle": "Carl Petrie, Alfeld/Leine, Wettertuche", 
+  "CuratorApproved": "Y", 
   "ObjectID": "8187"
 }

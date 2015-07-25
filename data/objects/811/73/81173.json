@@ -4,12 +4,9 @@
   "Classification": "Sculpture", 
   "Artist": "Jeff Koons", 
   "URL": "http://www.moma.org/collection/works/81173", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Werner and Elaine Dannheisser", 
-  "Date": "1985", 
-  "ArtistID": 6622, 
+  "DateAcquired": "1991-10-07", 
   "Keywords": [
-    "online art collection", 
     "Jeff Koons", 
     "Three Ball 50/50 Tank (Two Dr", 
     "J", 
@@ -17,10 +14,12 @@
     "One Wilson Supershot)", 
     "1985"
   ], 
+  "ArtistID": 6622, 
+  "Title": "Three Ball 50/50 Tank (Two Dr. J. Silver Series, One Wilson Supershot)", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "226.1991.a-f", 
+  "Date": "1985", 
   "ArtistBio": "(American, born 1955)", 
-  "DateAcquired": "1991-10-07", 
-  "\ufeffTitle": "Three Ball 50/50 Tank (Two Dr. J. Silver Series, One Wilson Supershot)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81173"
 }

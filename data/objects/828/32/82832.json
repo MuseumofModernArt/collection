@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Luc Tuymans", 
   "URL": "http://www.moma.org/collection/works/82832", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Fractional and promised gift of Donald L. Bryant, Jr.", 
-  "Date": "2000", 
-  "ArtistID": 7520, 
+  "DateAcquired": "2002-02-11", 
   "Keywords": [
-    "online art collection", 
     "Luc Tuymans", 
     "Lumumba", 
     "2000"
   ], 
+  "ArtistID": 7520, 
+  "Title": "Lumumba", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "6.2002", 
+  "Date": "2000", 
   "ArtistBio": "(Belgian, born 1958)", 
-  "DateAcquired": "2002-02-11", 
-  "\ufeffTitle": "Lumumba", 
+  "CuratorApproved": "Y", 
   "ObjectID": "82832"
 }

@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Arshile Gorky", 
   "URL": "http://www.moma.org/collection/works/79222", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Nina and Gordon Bunshaft Fund", 
-  "Date": "1947", 
-  "ArtistID": 2252, 
+  "DateAcquired": "1969-03-11", 
   "Keywords": [
-    "online art collection", 
     "Arshile Gorky", 
     "Summation", 
     "1947"
   ], 
+  "ArtistID": 2252, 
+  "Title": "Summation", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "234.1969", 
+  "Date": "1947", 
   "ArtistBio": "(American, born Armenia. 1904\u20131948)", 
-  "DateAcquired": "1969-03-11", 
-  "\ufeffTitle": "Summation", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79222"
 }

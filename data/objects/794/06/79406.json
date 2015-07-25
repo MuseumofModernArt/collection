@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Karin Sander", 
   "URL": "http://www.moma.org/collection/works/79406", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The Herbert and Nannett Rothschild Memorial Fund in memory of Judith Rothschild", 
-  "Date": "1994", 
-  "ArtistID": 7130, 
+  "DateAcquired": "1994-05-09", 
   "Keywords": [
-    "online art collection", 
     "Karin Sander", 
     "Wallpiece 24 x 18\"", 
     "1994"
   ], 
+  "ArtistID": 7130, 
+  "Title": "Wallpiece 24 x 18\"", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "284.1994", 
+  "Date": "1994", 
   "ArtistBio": "(German, born 1957)", 
-  "DateAcquired": "1994-05-09", 
-  "\ufeffTitle": "Wallpiece 24 x 18\"", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79406"
 }

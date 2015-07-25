@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Claes Oldenburg", 
   "URL": "http://www.moma.org/collection/works/65845", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Celeste Bartos", 
-  "Date": "1975", 
-  "ArtistID": 4397, 
+  "DateAcquired": "1975-10-07", 
   "Keywords": [
-    "online art collection", 
     "Claes Oldenburg", 
     "Tea Pot", 
     "1975"
   ], 
+  "ArtistID": 4397, 
+  "Title": "Tea Pot", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "276.1975", 
+  "Date": "1975", 
   "ArtistBio": "(American, born Sweden 1929)", 
-  "DateAcquired": "1975-10-07", 
-  "\ufeffTitle": "Tea Pot", 
+  "CuratorApproved": "Y", 
   "ObjectID": "65845"
 }

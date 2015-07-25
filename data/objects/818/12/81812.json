@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "David Smith", 
   "URL": "http://www.moma.org/collection/works/81812", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Robert O. Lord Fund", 
-  "Date": "1963", 
-  "ArtistID": 5480, 
+  "DateAcquired": "1968-05-07", 
   "Keywords": [
-    "online art collection", 
     "David Smith", 
     "Cubi X", 
     "1963"
   ], 
+  "ArtistID": 5480, 
+  "Title": "Cubi X", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "717.1968", 
+  "Date": "1963", 
   "ArtistBio": "(American, 1906\u20131965)", 
-  "DateAcquired": "1968-05-07", 
-  "\ufeffTitle": "Cubi X", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81812"
 }

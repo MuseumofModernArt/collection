@@ -4,21 +4,20 @@
   "Classification": "Painting", 
   "Artist": "Tom Wesselmann", 
   "URL": "http://www.moma.org/collection/works/78711", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Larry Aldrich Foundation Fund", 
-  "Date": "1961", 
-  "ArtistID": 6318, 
+  "DateAcquired": "1963-02-13", 
   "Keywords": [
-    "online art collection", 
     "Tom Wesselmann", 
     "Great American Nude", 
     "2", 
     "1961"
   ], 
+  "ArtistID": 6318, 
+  "Title": "Great American Nude, 2", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "79.1963", 
+  "Date": "1961", 
   "ArtistBio": "(American, 1931\u20132004)", 
-  "DateAcquired": "1963-02-13", 
-  "\ufeffTitle": "Great American Nude, 2", 
+  "CuratorApproved": "Y", 
   "ObjectID": "78711"
 }

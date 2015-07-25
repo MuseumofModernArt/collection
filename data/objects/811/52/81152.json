@@ -4,20 +4,19 @@
   "Classification": "Media", 
   "Artist": "Nam June Paik", 
   "URL": "http://www.moma.org/collection/works/81152", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Bernhill Fund, Gerald S. Elliot Fund, gift of Margot Paul Ernst, and purchase", 
-  "Date": "1993", 
-  "ArtistID": 4469, 
+  "DateAcquired": "1993-05-10", 
   "Keywords": [
-    "online art collection", 
     "Nam June Paik", 
     "Untitled", 
     "1993"
   ], 
+  "ArtistID": 4469, 
+  "Title": "Untitled", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "211.1993", 
+  "Date": "1993", 
   "ArtistBio": "(American, born Korea. 1932\u20132006)", 
-  "DateAcquired": "1993-05-10", 
-  "\ufeffTitle": "Untitled", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81152"
 }

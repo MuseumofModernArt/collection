@@ -4,12 +4,9 @@
   "Classification": "A&D Graphic Design", 
   "Artist": "Heinz Fuchs", 
   "URL": "http://www.moma.org/collection/works/7522", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Peter M\u00fcller-Munk", 
-  "Date": "1919", 
-  "ArtistID": 8400, 
+  "DateAcquired": "1943-05-12", 
   "Keywords": [
-    "online art collection", 
     "Heinz Fuchs", 
     "Workers", 
     "Famine", 
@@ -26,10 +23,12 @@
     "Arbeitet)", 
     "1919"
   ], 
+  "ArtistID": 8400, 
+  "Title": "Workers. Famine. Death Is Approaching. Strike Destroys. Work Nourishes. Do Your Duty. Work (Arbeiter. Hunger. Tod naht. Streik zerst\u00f6rt, Arbeit ern\u00e4hrt. Tut eure Pflicht. Arbeitet)", 
   "Department": "Architecture & Design", 
   "MoMANumber": "557.1943", 
+  "Date": "1919", 
   "ArtistBio": "(German, 1886\u20131961)", 
-  "DateAcquired": "1943-05-12", 
-  "\ufeffTitle": "Workers. Famine. Death Is Approaching. Strike Destroys. Work Nourishes. Do Your Duty. Work (Arbeiter. Hunger. Tod naht. Streik zerst\u00f6rt, Arbeit ern\u00e4hrt. Tut eure Pflicht. Arbeitet)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "7522"
 }

@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Richard Haas", 
   "URL": "http://www.moma.org/collection/works/65231", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Walter Bareiss Fund", 
-  "Date": "(1973)", 
-  "ArtistID": 2433, 
+  "DateAcquired": "1974-04-23", 
   "Keywords": [
-    "online art collection", 
     "Richard Haas", 
     "The Flatiron Building", 
     "(1973)"
   ], 
+  "ArtistID": 2433, 
+  "Title": "The Flatiron Building", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "250.1974", 
+  "Date": "(1973)", 
   "ArtistBio": "(American, born 1936)", 
-  "DateAcquired": "1974-04-23", 
-  "\ufeffTitle": "The Flatiron Building", 
+  "CuratorApproved": "Y", 
   "ObjectID": "65231"
 }

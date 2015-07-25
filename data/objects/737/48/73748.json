@@ -4,21 +4,20 @@
   "Classification": "Print", 
   "Artist": "Giorgio Morandi", 
   "URL": "http://www.moma.org/collection/works/73748", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Abby Aldrich Rockefeller Fund", 
-  "Date": "1912", 
-  "ArtistID": 4079, 
+  "DateAcquired": "1956-12-19", 
   "Keywords": [
-    "online art collection", 
     "Giorgio Morandi", 
     "Bridge over the Savera", 
     "Bologna", 
     "1912"
   ], 
+  "ArtistID": 4079, 
+  "Title": "Bridge over the Savena, Bologna", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "746.1956", 
+  "Date": "1912", 
   "ArtistBio": "(Italian, 1890\u20131964)", 
-  "DateAcquired": "1956-12-19", 
-  "\ufeffTitle": "Bridge over the Savena, Bologna", 
+  "CuratorApproved": "Y", 
   "ObjectID": "73748"
 }

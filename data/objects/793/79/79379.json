@@ -4,21 +4,20 @@
   "Classification": "Painting", 
   "Artist": "Fernando Botero", 
   "URL": "http://www.moma.org/collection/works/79379", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Inter-American Fund", 
-  "Date": "1959", 
-  "ArtistID": 693, 
+  "DateAcquired": "1961-10-10", 
   "Keywords": [
-    "online art collection", 
     "Fernando Botero", 
     "Mona Lisa", 
     "Age Twelve", 
     "1959"
   ], 
+  "ArtistID": 693, 
+  "Title": "Mona Lisa, Age Twelve", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "279.1961", 
+  "Date": "1959", 
   "ArtistBio": "(Colombian, born 1932)", 
-  "DateAcquired": "1961-10-10", 
-  "\ufeffTitle": "Mona Lisa, Age Twelve", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79379"
 }

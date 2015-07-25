@@ -4,21 +4,20 @@
   "Classification": "Painting", 
   "Artist": "Kees van Dongen", 
   "URL": "http://www.moma.org/collection/works/79095", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Mr. and Mrs. Peter A. R\u00fcbel", 
-  "Date": "1908", 
-  "ArtistID": 6077, 
+  "DateAcquired": "1955-10-10", 
   "Keywords": [
-    "online art collection", 
     "Kees van Dongen", 
     "Modjesko", 
     "Soprano Singer", 
     "1908"
   ], 
+  "ArtistID": 6077, 
+  "Title": "Modjesko, Soprano Singer", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "192.1955", 
+  "Date": "1908", 
   "ArtistBio": "(French, 1877\u20131968)", 
-  "DateAcquired": "1955-10-10", 
-  "\ufeffTitle": "Modjesko, Soprano Singer", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79095"
 }

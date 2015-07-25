@@ -4,12 +4,9 @@
   "Classification": "Photograph", 
   "Artist": "Robert Adams", 
   "URL": "http://www.moma.org/collection/works/56646", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Acquired through the generosity of Susan G. Jacoby in honor of Edward Goldberger", 
-  "Date": "1969", 
-  "ArtistID": 66, 
+  "DateAcquired": "1996-12-10", 
   "Keywords": [
-    "online art collection", 
     "Robert Adams", 
     "Sunday School", 
     "A Church in a New Tract", 
@@ -17,10 +14,12 @@
     "Colorado", 
     "1969"
   ], 
+  "ArtistID": 66, 
+  "Title": "Sunday School. A Church in a New Tract, Colorado Springs, Colorado", 
   "Department": "Photography", 
   "MoMANumber": "834.1996", 
+  "Date": "1969", 
   "ArtistBio": "(American, born 1937)", 
-  "DateAcquired": "1996-12-10", 
-  "\ufeffTitle": "Sunday School. A Church in a New Tract, Colorado Springs, Colorado", 
+  "CuratorApproved": "Y", 
   "ObjectID": "56646"
 }

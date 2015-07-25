@@ -4,21 +4,20 @@
   "Classification": "Painting", 
   "Artist": "Henri Matisse", 
   "URL": "http://www.moma.org/collection/works/79495", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Florene M. Schoenborn", 
-  "Date": "Tangier, winter-spring 1912", 
-  "ArtistID": 3832, 
+  "DateAcquired": "1985-10-25", 
   "Keywords": [
-    "online art collection", 
     "Henri Matisse", 
     "Periwinkles / Moroccan Garden", 
     "Tangier", 
     "winter-spring 1912"
   ], 
+  "ArtistID": 3832, 
+  "Title": "Periwinkles / Moroccan Garden", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "341.1985", 
+  "Date": "Tangier, winter-spring 1912", 
   "ArtistBio": "(French, 1869\u20131954)", 
-  "DateAcquired": "1985-10-25", 
-  "\ufeffTitle": "Periwinkles / Moroccan Garden", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79495"
 }

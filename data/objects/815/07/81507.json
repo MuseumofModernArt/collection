@@ -4,21 +4,20 @@
   "Classification": "Sculpture", 
   "Artist": "Alexander Calder", 
   "URL": "http://www.moma.org/collection/works/81507", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Edward M. M. Warburg", 
-  "Date": "c. 1926", 
-  "ArtistID": 922, 
+  "DateAcquired": "1941-10-21", 
   "Keywords": [
-    "online art collection", 
     "Alexander Calder", 
     "Cow", 
     "c", 
     "1926"
   ], 
+  "ArtistID": 922, 
+  "Title": "Cow", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "499.1941", 
+  "Date": "c. 1926", 
   "ArtistBio": "(American, 1898\u20131976)", 
-  "DateAcquired": "1941-10-21", 
-  "\ufeffTitle": "Cow", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81507"
 }

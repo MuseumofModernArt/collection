@@ -4,20 +4,19 @@
   "Classification": "Photograph", 
   "Artist": "Larry Fink", 
   "URL": "http://www.moma.org/collection/works/55979", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Acquired with matching funds from David H. McAlpin and the National Endowment for the Arts, 1978", 
-  "Date": "1977", 
-  "ArtistID": 1877, 
+  "DateAcquired": "1978-10-12", 
   "Keywords": [
-    "online art collection", 
     "Larry Fink", 
     "Pat Sabatine's Eighth Birthday Party", 
     "1977"
   ], 
+  "ArtistID": 1877, 
+  "Title": "Pat Sabatine's Eighth Birthday Party", 
   "Department": "Photography", 
   "MoMANumber": "674.1978", 
+  "Date": "1977", 
   "ArtistBio": "(American, born 1941)", 
-  "DateAcquired": "1978-10-12", 
-  "\ufeffTitle": "Pat Sabatine's Eighth Birthday Party", 
+  "CuratorApproved": "Y", 
   "ObjectID": "55979"
 }

@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Francis Bacon", 
   "URL": "http://www.moma.org/collection/works/79204", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1946", 
-  "ArtistID": 272, 
+  "DateAcquired": "1948-10-06", 
   "Keywords": [
-    "online art collection", 
     "Francis Bacon", 
     "Painting", 
     "1946"
   ], 
+  "ArtistID": 272, 
+  "Title": "Painting", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "229.1948", 
+  "Date": "1946", 
   "ArtistBio": "(British, born Ireland. 1909\u20131992)", 
-  "DateAcquired": "1948-10-06", 
-  "\ufeffTitle": "Painting", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79204"
 }

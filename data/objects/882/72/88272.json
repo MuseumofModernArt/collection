@@ -4,12 +4,9 @@
   "Classification": "A&D Mies van der Rohe Archive", 
   "Artist": "Ludwig Mies van der Rohe", 
   "URL": "http://www.moma.org/collection/works/88272", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Mies van der Rohe Archive, gift of the architect\r\n", 
-  "Date": "1944-1945", 
-  "ArtistID": 7166, 
+  "DateAcquired": "", 
   "Keywords": [
-    "online art collection", 
     "Ludwig Mies van der Rohe", 
     "IIT Library and Administration Building", 
     "Chicago", 
@@ -19,10 +16,12 @@
     "sketch", 
     "1944-1945"
   ], 
+  "ArtistID": 7166, 
+  "Title": "IIT Library and Administration Building, Chicago, Illinois, Two perspectives, ceiling and coffer detail, sketch", 
   "Department": "Architecture & Design", 
   "MoMANumber": "MR4404.85", 
+  "Date": "1944-1945", 
   "ArtistBio": "(American, born Germany. 1886\u20131969)", 
-  "DateAcquired": "", 
-  "\ufeffTitle": "IIT Library and Administration Building, Chicago, Illinois, Two perspectives, ceiling and coffer detail, sketch", 
+  "CuratorApproved": "Y", 
   "ObjectID": "88272"
 }

@@ -4,21 +4,20 @@
   "Classification": "Sculpture", 
   "Artist": "David Smith", 
   "URL": "http://www.moma.org/collection/works/81048", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Mrs. Simon Guggenheim Fund", 
-  "Date": "February 17, 1956", 
-  "ArtistID": 5480, 
+  "DateAcquired": "1957-10-09", 
   "Keywords": [
-    "online art collection", 
     "David Smith", 
     "History of LeRoy Borton", 
     "February 17", 
     "1956"
   ], 
+  "ArtistID": 5480, 
+  "Title": "History of LeRoy Borton", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "159.1957", 
+  "Date": "February 17, 1956", 
   "ArtistBio": "(American, 1906\u20131965)", 
-  "DateAcquired": "1957-10-09", 
-  "\ufeffTitle": "History of LeRoy Borton", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81048"
 }

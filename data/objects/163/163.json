@@ -4,12 +4,9 @@
   "Classification": "A&D Architectural Drawing", 
   "Artist": "Steven Holl", 
   "URL": "http://www.moma.org/collection/works/163", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Roblee McCarthy Fund", 
-  "Date": "1977", 
-  "ArtistID": 2702, 
+  "DateAcquired": "1989-05-16", 
   "Keywords": [
-    "online art collection", 
     "Steven Holl", 
     "Gymnasium-Bridge", 
     "project", 
@@ -18,10 +15,12 @@
     "Perspective", 
     "1977"
   ], 
+  "ArtistID": 2702, 
+  "Title": "Gymnasium-Bridge, project, New York City, New York, Perspective", 
   "Department": "Architecture & Design", 
   "MoMANumber": "83.1989", 
+  "Date": "1977", 
   "ArtistBio": "(American, born 1947)", 
-  "DateAcquired": "1989-05-16", 
-  "\ufeffTitle": "Gymnasium-Bridge, project, New York City, New York, Perspective", 
+  "CuratorApproved": "Y", 
   "ObjectID": "163"
 }

@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Barnett Newman", 
   "URL": "http://www.moma.org/collection/works/79268", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Annalee Newman (by exchange)", 
-  "Date": "1948", 
-  "ArtistID": 4285, 
+  "DateAcquired": "1990-05-07", 
   "Keywords": [
-    "online art collection", 
     "Barnett Newman", 
     "Two Edges", 
     "1948"
   ], 
+  "ArtistID": 4285, 
+  "Title": "Two Edges", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "247.1990", 
+  "Date": "1948", 
   "ArtistBio": "(American, 1905\u20131970)", 
-  "DateAcquired": "1990-05-07", 
-  "\ufeffTitle": "Two Edges", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79268"
 }

@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Lucas Samaras", 
   "URL": "http://www.moma.org/collection/works/81551", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Philip Johnson", 
-  "Date": "1962", 
-  "ArtistID": 5134, 
+  "DateAcquired": "1970-11-10", 
   "Keywords": [
-    "online art collection", 
     "Lucas Samaras", 
     "Book 4", 
     "1962"
   ], 
+  "ArtistID": 5134, 
+  "Title": "Book 4", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "525.1970", 
+  "Date": "1962", 
   "ArtistBio": "(American, born Greece 1936)", 
-  "DateAcquired": "1970-11-10", 
-  "\ufeffTitle": "Book 4", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81551"
 }

@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Dorothea Rockburne", 
   "URL": "http://www.moma.org/collection/works/79730", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Jo Carole and Ronald S. Lauder and Est\u00e9e Lauder, Inc. in honor of J. Frederic Byers III", 
-  "Date": "1971", 
-  "ArtistID": 4972, 
+  "DateAcquired": "1992-06-08", 
   "Keywords": [
-    "online art collection", 
     "Dorothea Rockburne", 
     "Scalar", 
     "1971"
   ], 
+  "ArtistID": 4972, 
+  "Title": "Scalar", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "310.1992.a-k", 
+  "Date": "1971", 
   "ArtistBio": "(American, born Canada 1932)", 
-  "DateAcquired": "1992-06-08", 
-  "\ufeffTitle": "Scalar", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79730"
 }

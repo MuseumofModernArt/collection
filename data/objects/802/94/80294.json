@@ -4,21 +4,20 @@
   "Classification": "Painting", 
   "Artist": "Henri Matisse", 
   "URL": "http://www.moma.org/collection/works/80294", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase and anonymous gift", 
-  "Date": "Collioure, summer 1905", 
-  "ArtistID": 3832, 
+  "DateAcquired": "1983-12-14", 
   "Keywords": [
-    "online art collection", 
     "Henri Matisse", 
     "La Japonaise: Woman beside the Water", 
     "Collioure", 
     "summer 1905"
   ], 
+  "ArtistID": 3832, 
+  "Title": "La Japonaise: Woman beside the Water", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "709.1983", 
+  "Date": "Collioure, summer 1905", 
   "ArtistBio": "(French, 1869\u20131954)", 
-  "DateAcquired": "1983-12-14", 
-  "\ufeffTitle": "La Japonaise: Woman beside the Water", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80294"
 }

@@ -4,21 +4,20 @@
   "Classification": "Photograph", 
   "Artist": "Diane Arbus", 
   "URL": "http://www.moma.org/collection/works/89211", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Acquired through the generosity of the International Program of The Museum of Modern Art", 
-  "Date": "1964", 
-  "ArtistID": 208, 
+  "DateAcquired": "2004-05-13", 
   "Keywords": [
-    "online art collection", 
     "Diane Arbus", 
     "Lady Bartender at Home with a Souvenir Dog", 
     "New Orleans", 
     "1964"
   ], 
+  "ArtistID": 208, 
+  "Title": "Lady Bartender at Home with a Souvenir Dog, New Orleans", 
   "Department": "Photography", 
   "MoMANumber": "194.2004", 
+  "Date": "1964", 
   "ArtistBio": "(American, 1923\u20131971)", 
-  "DateAcquired": "2004-05-13", 
-  "\ufeffTitle": "Lady Bartender at Home with a Souvenir Dog, New Orleans", 
+  "CuratorApproved": "Y", 
   "ObjectID": "89211"
 }

@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Paul Feeley", 
   "URL": "http://www.moma.org/collection/works/79868", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Philip Johnson", 
-  "Date": "1964", 
-  "ArtistID": 1825, 
+  "DateAcquired": "1970-11-10", 
   "Keywords": [
-    "online art collection", 
     "Paul Feeley", 
     "Alniam", 
     "1964"
   ], 
+  "ArtistID": 1825, 
+  "Title": "Alniam", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "507.1970", 
+  "Date": "1964", 
   "ArtistBio": "(American, 1910\u20131966)", 
-  "DateAcquired": "1970-11-10", 
-  "\ufeffTitle": "Alniam", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79868"
 }

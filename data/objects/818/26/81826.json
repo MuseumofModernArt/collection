@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Lynda Benglis", 
   "URL": "http://www.moma.org/collection/works/81826", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Agnes Gund", 
-  "Date": "1998", 
-  "ArtistID": 471, 
+  "DateAcquired": "1998-12-07", 
   "Keywords": [
-    "online art collection", 
     "Lynda Benglis", 
     "Ghost Dance/Pedmarks", 
     "1998"
   ], 
+  "ArtistID": 471, 
+  "Title": "Ghost Dance/Pedmarks", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "737.1998", 
+  "Date": "1998", 
   "ArtistBio": "(American, born 1941)", 
-  "DateAcquired": "1998-12-07", 
-  "\ufeffTitle": "Ghost Dance/Pedmarks", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81826"
 }

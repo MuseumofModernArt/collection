@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Allen Ruppersberg", 
   "URL": "http://www.moma.org/collection/works/67999", 
-  "CuratorApproved": "Y", 
   "CreditLine": "John B. Turner Fund", 
-  "Date": "1988", 
-  "ArtistID": 5084, 
+  "DateAcquired": "1988-10-25", 
   "Keywords": [
-    "online art collection", 
     "Allen Ruppersberg", 
     "Preview", 
     "1988"
   ], 
+  "ArtistID": 5084, 
+  "Title": "Preview", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "373.1988.a-j", 
+  "Date": "1988", 
   "ArtistBio": "(American, born 1944)", 
-  "DateAcquired": "1988-10-25", 
-  "\ufeffTitle": "Preview", 
+  "CuratorApproved": "Y", 
   "ObjectID": "67999"
 }

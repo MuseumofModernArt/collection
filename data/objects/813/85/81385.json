@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Mike Kelley", 
   "URL": "http://www.moma.org/collection/works/81385", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the Louis and Bessie Adler Foundation and purchase", 
-  "Date": "1990", 
-  "ArtistID": 3045, 
+  "DateAcquired": "1990-10-09", 
   "Keywords": [
-    "online art collection", 
     "Mike Kelley", 
     "Untitled", 
     "1990"
   ], 
+  "ArtistID": 3045, 
+  "Title": "Untitled", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "360.1990.a-e", 
+  "Date": "1990", 
   "ArtistBio": "(American, 1954\u20132012)", 
-  "DateAcquired": "1990-10-09", 
-  "\ufeffTitle": "Untitled", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81385"
 }

@@ -4,21 +4,20 @@
   "Classification": "Photograph", 
   "Artist": "Times Wide World Photos", 
   "URL": "http://www.moma.org/collection/works/58725", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The New York Times Collection", 
-  "Date": "c. 1926", 
-  "ArtistID": 8632, 
+  "DateAcquired": "2001-06-14", 
   "Keywords": [
-    "online art collection", 
     "Times Wide World Photos", 
     "\"The Babe Down but Not Out\"", 
     "c", 
     "1926"
   ], 
+  "ArtistID": 8632, 
+  "Title": "\"The Babe Down but Not Out\"", 
   "Department": "Photography", 
   "MoMANumber": "2132.2001", 
+  "Date": "c. 1926", 
   "ArtistBio": "(American, active 1919\u20131941)", 
-  "DateAcquired": "2001-06-14", 
-  "\ufeffTitle": "\"The Babe Down but Not Out\"", 
+  "CuratorApproved": "Y", 
   "ObjectID": "58725"
 }

@@ -4,22 +4,21 @@
   "Classification": "A&D Architectural Model", 
   "Artist": "Frank Lloyd Wright", 
   "URL": "http://www.moma.org/collection/works/998", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1913-14", 
-  "ArtistID": 6459, 
+  "DateAcquired": "1994-05-03", 
   "Keywords": [
-    "online art collection", 
     "Frank Lloyd Wright", 
     "Midway Gardens", 
     "Chicago", 
     "Illinois", 
     "1913-14"
   ], 
+  "ArtistID": 6459, 
+  "Title": "Midway Gardens, Chicago, IL", 
   "Department": "Architecture & Design", 
   "MoMANumber": "226.1994", 
+  "Date": "1913-14", 
   "ArtistBio": "(American, 1867\u20131959)", 
-  "DateAcquired": "1994-05-03", 
-  "\ufeffTitle": "Midway Gardens, Chicago, IL", 
+  "CuratorApproved": "Y", 
   "ObjectID": "998"
 }

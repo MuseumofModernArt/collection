@@ -4,12 +4,9 @@
   "Classification": "A&D Architectural Model", 
   "Artist": "Jean Nouvel", 
   "URL": "http://www.moma.org/collection/works/1039", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the architect in honor of Philip Johnson", 
-  "Date": "1992-93", 
-  "ArtistID": 7450, 
+  "DateAcquired": "1996-09-25", 
   "Keywords": [
-    "online art collection", 
     "Jean Nouvel", 
     "Cartier Foundation for Contemporary Art", 
     "Paris", 
@@ -17,10 +14,12 @@
     "Elevation", 
     "1992-93"
   ], 
+  "ArtistID": 7450, 
+  "Title": "Cartier Foundation for Contemporary Art, Paris, France, Elevation", 
   "Department": "Architecture & Design", 
   "MoMANumber": "418.1996.a-h", 
+  "Date": "1992-93", 
   "ArtistBio": "(French, born 1945)", 
-  "DateAcquired": "1996-09-25", 
-  "\ufeffTitle": "Cartier Foundation for Contemporary Art, Paris, France, Elevation", 
+  "CuratorApproved": "Y", 
   "ObjectID": "1039"
 }

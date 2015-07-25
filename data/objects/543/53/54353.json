@@ -4,20 +4,19 @@
   "Classification": "Photograph", 
   "Artist": "Bruce Horowitz", 
   "URL": "http://www.moma.org/collection/works/54353", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the photographer", 
-  "Date": "1973", 
-  "ArtistID": 2729, 
+  "DateAcquired": "1973-11-13", 
   "Keywords": [
-    "online art collection", 
     "Bruce Horowitz", 
     "Albert With His Ski Mask On", 
     "1973"
   ], 
+  "ArtistID": 2729, 
+  "Title": "Albert With His Ski Mask On", 
   "Department": "Photography", 
   "MoMANumber": "494.1973", 
+  "Date": "1973", 
   "ArtistBio": "(American, born 1949)", 
-  "DateAcquired": "1973-11-13", 
-  "\ufeffTitle": "Albert With His Ski Mask On", 
+  "CuratorApproved": "Y", 
   "ObjectID": "54353"
 }

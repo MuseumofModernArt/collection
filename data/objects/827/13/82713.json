@@ -4,12 +4,9 @@
   "Classification": "A&D Architectural Model", 
   "Artist": "Louis I. Kahn", 
   "URL": "http://www.moma.org/collection/works/82713", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the architect", 
-  "Date": "1959-73", 
-  "ArtistID": 2964, 
+  "DateAcquired": "1967-01-01", 
   "Keywords": [
-    "online art collection", 
     "Louis I", 
     "Kahn", 
     "Fine Arts Center", 
@@ -20,10 +17,12 @@
     "Wall relief", 
     "1959-73"
   ], 
+  "ArtistID": 2964, 
+  "Title": "Fine Arts Center, School, and Performing Arts Theater, Fort Wayne, Indiana (Wall relief)", 
   "Department": "Architecture & Design", 
   "MoMANumber": "MC 44", 
+  "Date": "1959-73", 
   "ArtistBio": "(American, born Estonia. 1901\u20131974)", 
-  "DateAcquired": "1967-01-01", 
-  "\ufeffTitle": "Fine Arts Center, School, and Performing Arts Theater, Fort Wayne, Indiana (Wall relief)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "82713"
 }

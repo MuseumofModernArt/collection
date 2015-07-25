@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Paul C\u00e9zanne", 
   "URL": "http://www.moma.org/collection/works/80025", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Mrs. John Hay Whitney Bequest", 
-  "Date": "1898", 
-  "ArtistID": 1053, 
+  "DateAcquired": "1998-09-22", 
   "Keywords": [
-    "online art collection", 
     "Paul C&eacute;zanne", 
     "Turning Road at Montgeroult", 
     "1898"
   ], 
+  "ArtistID": 1053, 
+  "Title": "Turning Road at Montgeroult", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "586.1998", 
+  "Date": "1898", 
   "ArtistBio": "(French, 1839\u20131906)", 
-  "DateAcquired": "1998-09-22", 
-  "\ufeffTitle": "Turning Road at Montgeroult", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80025"
 }

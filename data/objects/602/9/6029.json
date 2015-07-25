@@ -4,22 +4,21 @@
   "Classification": "A&D Graphic Design", 
   "Artist": "A. M. Cassandre", 
   "URL": "http://www.moma.org/collection/works/6029", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Given anonymously", 
-  "Date": "1932", 
-  "ArtistID": 1015, 
+  "DateAcquired": "1935-11-12", 
   "Keywords": [
-    "online art collection", 
     "A", 
     "M", 
     "Cassandre", 
     "Grande Quinzaine Internationale de Lawn-Tennis", 
     "1932"
   ], 
+  "ArtistID": 1015, 
+  "Title": "Grande Quinzaine Internationale de Lawn-Tennis", 
   "Department": "Architecture & Design", 
   "MoMANumber": "278.1935", 
+  "Date": "1932", 
   "ArtistBio": "(French, 1901\u20131968)", 
-  "DateAcquired": "1935-11-12", 
-  "\ufeffTitle": "Grande Quinzaine Internationale de Lawn-Tennis", 
+  "CuratorApproved": "Y", 
   "ObjectID": "6029"
 }

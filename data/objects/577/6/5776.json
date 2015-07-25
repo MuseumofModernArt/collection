@@ -4,20 +4,19 @@
   "Classification": "A&D Graphic Design", 
   "Artist": "Melendreras", 
   "URL": "http://www.moma.org/collection/works/5776", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1937", 
-  "ArtistID": 3916, 
+  "DateAcquired": "1937-12-03", 
   "Keywords": [
-    "online art collection", 
     "Melendreras", 
     "Todas las Milicias Fundidas en el Ejercito Popular", 
     "1937"
   ], 
+  "ArtistID": 3916, 
+  "Title": "Todas las Milicias Fundidas en el Ejercito Popular", 
   "Department": "Architecture & Design", 
   "MoMANumber": "233.1937", 
+  "Date": "1937", 
   "ArtistBio": "(Spanish)", 
-  "DateAcquired": "1937-12-03", 
-  "\ufeffTitle": "Todas las Milicias Fundidas en el Ejercito Popular", 
+  "CuratorApproved": "Y", 
   "ObjectID": "5776"
 }

@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Steve Wolfe", 
   "URL": "http://www.moma.org/collection/works/81386", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Given anonymously", 
-  "Date": "1997", 
-  "ArtistID": 7640, 
+  "DateAcquired": "1997-10-06", 
   "Keywords": [
-    "online art collection", 
     "Steve Wolfe", 
     "Untitled (Cubism and Abstract Art)", 
     "1997"
   ], 
+  "ArtistID": 7640, 
+  "Title": "Untitled (Cubism and Abstract Art)", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "360.1997", 
+  "Date": "1997", 
   "ArtistBio": "(American, born 1955)", 
-  "DateAcquired": "1997-10-06", 
-  "\ufeffTitle": "Untitled (Cubism and Abstract Art)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81386"
 }

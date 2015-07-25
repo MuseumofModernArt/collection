@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Arshile Gorky", 
   "URL": "http://www.moma.org/collection/works/79748", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Bernard Davis", 
-  "Date": "1938", 
-  "ArtistID": 2252, 
+  "DateAcquired": "1941-01-16", 
   "Keywords": [
-    "online art collection", 
     "Arshile Gorky", 
     "Argula", 
     "1938"
   ], 
+  "ArtistID": 2252, 
+  "Title": "Argula", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "323.1941", 
+  "Date": "1938", 
   "ArtistBio": "(American, born Armenia. 1904\u20131948)", 
-  "DateAcquired": "1941-01-16", 
-  "\ufeffTitle": "Argula", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79748"
 }

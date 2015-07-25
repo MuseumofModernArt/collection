@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Robert Mangold", 
   "URL": "http://www.moma.org/collection/works/69714", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Given anonymously in honor of Andrea's birthday", 
-  "Date": "1990", 
-  "ArtistID": 3723, 
+  "DateAcquired": "1990-10-23", 
   "Keywords": [
-    "online art collection", 
     "Robert Mangold", 
     "Untitled from the series 4 x 4 x 4", 
     "1990"
   ], 
+  "ArtistID": 3723, 
+  "Title": "Untitled from the series 4 x 4 x 4", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "472.1990.4", 
+  "Date": "1990", 
   "ArtistBio": "(American, born 1937)", 
-  "DateAcquired": "1990-10-23", 
-  "\ufeffTitle": "Untitled from the series 4 x 4 x 4", 
+  "CuratorApproved": "Y", 
   "ObjectID": "69714"
 }

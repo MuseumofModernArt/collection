@@ -4,22 +4,21 @@
   "Classification": "A&D Graphic Design", 
   "Artist": "Art Chantry", 
   "URL": "http://www.moma.org/collection/works/5307", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the designer", 
-  "Date": "1988", 
-  "ArtistID": 7456, 
+  "DateAcquired": "1995-05-09", 
   "Keywords": [
-    "online art collection", 
     "Art Chantry", 
     "Give Peace a Dance", 
     "A 24-Hour Dance Marathon", 
     "Seattle Center House", 
     "1988"
   ], 
+  "ArtistID": 7456, 
+  "Title": "Give Peace a Dance, A 24-Hour Dance Marathon, Seattle Center House", 
   "Department": "Architecture & Design", 
   "MoMANumber": "151.1995", 
+  "Date": "1988", 
   "ArtistBio": "(American, born 1954)", 
-  "DateAcquired": "1995-05-09", 
-  "\ufeffTitle": "Give Peace a Dance, A 24-Hour Dance Marathon, Seattle Center House", 
+  "CuratorApproved": "Y", 
   "ObjectID": "5307"
 }

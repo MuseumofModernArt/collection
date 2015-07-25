@@ -4,20 +4,19 @@
   "Classification": "Illustrated Book", 
   "Artist": "Vincente Rojo", 
   "URL": "http://www.moma.org/collection/works/12345", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1979", 
-  "ArtistID": 6646, 
+  "DateAcquired": "1992-01-22", 
   "Keywords": [
-    "online art collection", 
     "Vincente Rojo", 
     "Acorde", 
     "1979"
   ], 
+  "ArtistID": 6646, 
+  "Title": "Acorde", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "158.1992.1-12", 
+  "Date": "1979", 
   "ArtistBio": "(Spanish, born 1932)", 
-  "DateAcquired": "1992-01-22", 
-  "\ufeffTitle": "Acorde", 
+  "CuratorApproved": "Y", 
   "ObjectID": "12345"
 }

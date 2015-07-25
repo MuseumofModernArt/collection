@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Diego Rivera", 
   "URL": "http://www.moma.org/collection/works/79633", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of T. Catesby Jones", 
-  "Date": "Paris 1914", 
-  "ArtistID": 4942, 
+  "DateAcquired": "1941-03-20", 
   "Keywords": [
-    "online art collection", 
     "Diego Rivera", 
     "Young Man in a Gray Sweater (Jacques Lipchitz)", 
     "Paris 1914"
   ], 
+  "ArtistID": 4942, 
+  "Title": "Young Man in a Gray Sweater (Jacques Lipchitz)", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "412.1941", 
+  "Date": "Paris 1914", 
   "ArtistBio": "(Mexican, 1886\u20131957)", 
-  "DateAcquired": "1941-03-20", 
-  "\ufeffTitle": "Young Man in a Gray Sweater (Jacques Lipchitz)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79633"
 }

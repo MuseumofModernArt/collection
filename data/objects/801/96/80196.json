@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Jack Youngerman", 
   "URL": "http://www.moma.org/collection/works/80196", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Nina and Gordon Bunshaft Bequest", 
-  "Date": "1958", 
-  "ArtistID": 6524, 
+  "DateAcquired": "1994-12-08", 
   "Keywords": [
-    "online art collection", 
     "Jack Youngerman", 
     "Naxos", 
     "1958"
   ], 
+  "ArtistID": 6524, 
+  "Title": "Naxos", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "654.1994", 
+  "Date": "1958", 
   "ArtistBio": "(American, born 1926)", 
-  "DateAcquired": "1994-12-08", 
-  "\ufeffTitle": "Naxos", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80196"
 }

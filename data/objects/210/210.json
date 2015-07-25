@@ -4,12 +4,9 @@
   "Classification": "A&D Architectural Drawing", 
   "Artist": "Venturi and Rauch, Robert Venturi, John Rauch", 
   "URL": "http://www.moma.org/collection/works/210", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Venturi, Rauch and Scott Brown, Inc.", 
-  "Date": "1965", 
-  "ArtistID": 8213, 
+  "DateAcquired": "1988-04-27", 
   "Keywords": [
-    "online art collection", 
     "Venturi and Rauch", 
     "Robert Venturi and John Rauch", 
     "City Hall", 
@@ -19,10 +16,12 @@
     "Perspective sketch", 
     "1965"
   ], 
+  "ArtistID": 8213, 
+  "Title": "City Hall, project , North Canton, Ohio, Perspective sketch", 
   "Department": "Architecture & Design", 
   "MoMANumber": "120.1988", 
+  "Date": "1965", 
   "ArtistBio": "(American, est. 1964\u20131979) (American, born 1925) (American, born 1930)", 
-  "DateAcquired": "1988-04-27", 
-  "\ufeffTitle": "City Hall, project , North Canton, Ohio, Perspective sketch", 
+  "CuratorApproved": "Y", 
   "ObjectID": "210"
 }

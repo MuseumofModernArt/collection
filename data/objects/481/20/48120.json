@@ -4,21 +4,20 @@
   "Classification": "Photograph", 
   "Artist": "Harry Callahan", 
   "URL": "http://www.moma.org/collection/works/48120", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1949", 
-  "ArtistID": 924, 
+  "DateAcquired": "1962-05-08", 
   "Keywords": [
-    "online art collection", 
     "Harry Callahan", 
     "Wells Street", 
     "Chicago", 
     "1949"
   ], 
+  "ArtistID": 924, 
+  "Title": "Wells Street, Chicago", 
   "Department": "Photography", 
   "MoMANumber": "192.1962", 
+  "Date": "1949", 
   "ArtistBio": "(American, 1912\u20131999)", 
-  "DateAcquired": "1962-05-08", 
-  "\ufeffTitle": "Wells Street, Chicago", 
+  "CuratorApproved": "Y", 
   "ObjectID": "48120"
 }

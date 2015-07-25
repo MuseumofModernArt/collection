@@ -4,21 +4,20 @@
   "Classification": "Painting", 
   "Artist": "Richard Tuttle", 
   "URL": "http://www.moma.org/collection/works/78942", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Mrs. Armand P. Bartos Fund", 
-  "Date": "1967", 
-  "ArtistID": 5983, 
+  "DateAcquired": "1974-03-12", 
   "Keywords": [
-    "online art collection", 
     "Richard Tuttle", 
     "Cloth Octagonal", 
     "2", 
     "1967"
   ], 
+  "ArtistID": 5983, 
+  "Title": "Cloth Octagonal, 2", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "133.1974", 
+  "Date": "1967", 
   "ArtistBio": "(American, born 1941)", 
-  "DateAcquired": "1974-03-12", 
-  "\ufeffTitle": "Cloth Octagonal, 2", 
+  "CuratorApproved": "Y", 
   "ObjectID": "78942"
 }

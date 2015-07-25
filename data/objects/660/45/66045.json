@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Robert Rauschenberg", 
   "URL": "http://www.moma.org/collection/works/66045", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the Celeste and Armand Bartos Foundation", 
-  "Date": "1968", 
-  "ArtistID": 4823, 
+  "DateAcquired": "1968-04-23", 
   "Keywords": [
-    "online art collection", 
     "Robert Rauschenberg", 
     "Gamble", 
     "1968"
   ], 
+  "ArtistID": 4823, 
+  "Title": "Gamble", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "286.1968", 
+  "Date": "1968", 
   "ArtistBio": "(American, 1925\u20132008)", 
-  "DateAcquired": "1968-04-23", 
-  "\ufeffTitle": "Gamble", 
+  "CuratorApproved": "Y", 
   "ObjectID": "66045"
 }

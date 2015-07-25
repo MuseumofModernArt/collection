@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Carl Andre", 
   "URL": "http://www.moma.org/collection/works/81497", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Advisory Committee Fund", 
-  "Date": "1969", 
-  "ArtistID": 174, 
+  "DateAcquired": "1969-05-20", 
   "Keywords": [
-    "online art collection", 
     "Carl Andre", 
     "144 Lead Square", 
     "1969"
   ], 
+  "ArtistID": 174, 
+  "Title": "144 Lead Square", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "494.1969", 
+  "Date": "1969", 
   "ArtistBio": "(American, born 1935)", 
-  "DateAcquired": "1969-05-20", 
-  "\ufeffTitle": "144 Lead Square", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81497"
 }

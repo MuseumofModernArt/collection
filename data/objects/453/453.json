@@ -4,12 +4,9 @@
   "Classification": "A&D Architectural Drawing", 
   "Artist": "Cesar Pelli", 
   "URL": "http://www.moma.org/collection/works/453", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the architect in honor of Philip Johnson", 
-  "Date": "1976", 
-  "ArtistID": 7528, 
+  "DateAcquired": "1996-09-25", 
   "Keywords": [
-    "online art collection", 
     "Cesar Pelli", 
     "House for Venice Biennale", 
     "project", 
@@ -18,10 +15,12 @@
     "Axonometric", 
     "1976"
   ], 
+  "ArtistID": 7528, 
+  "Title": "House for Venice Biennale, project, Venice, Italy, Axonometric", 
   "Department": "Architecture & Design", 
   "MoMANumber": "380.1996", 
+  "Date": "1976", 
   "ArtistBio": "(American, born Argentina 1926)", 
-  "DateAcquired": "1996-09-25", 
-  "\ufeffTitle": "House for Venice Biennale, project, Venice, Italy, Axonometric", 
+  "CuratorApproved": "Y", 
   "ObjectID": "453"
 }

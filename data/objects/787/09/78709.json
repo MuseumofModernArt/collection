@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Georges Rouault", 
   "URL": "http://www.moma.org/collection/works/78709", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Nate B. and Frances Spingold", 
-  "Date": "1912", 
-  "ArtistID": 5053, 
+  "DateAcquired": "1973-10-09", 
   "Keywords": [
-    "online art collection", 
     "Georges Rouault", 
     "Clown", 
     "1912"
   ], 
+  "ArtistID": 5053, 
+  "Title": "Clown", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "79.1958", 
+  "Date": "1912", 
   "ArtistBio": "(French, 1871\u20131958)", 
-  "DateAcquired": "1973-10-09", 
-  "\ufeffTitle": "Clown", 
+  "CuratorApproved": "Y", 
   "ObjectID": "78709"
 }

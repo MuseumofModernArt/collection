@@ -4,20 +4,19 @@
   "Classification": "Photograph", 
   "Artist": "Alfred Stieglitz", 
   "URL": "http://www.moma.org/collection/works/50925", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Given anonymously", 
-  "Date": "1932", 
-  "ArtistID": 5664, 
+  "DateAcquired": "1942-12-29", 
   "Keywords": [
-    "online art collection", 
     "Alfred Stieglitz", 
     "Georgia O'Keeffe", 
     "1932"
   ], 
+  "ArtistID": 5664, 
+  "Title": "Georgia O'Keeffe", 
   "Department": "Photography", 
   "MoMANumber": "329.1942", 
+  "Date": "1932", 
   "ArtistBio": "(American, 1864\u20131946)", 
-  "DateAcquired": "1942-12-29", 
-  "\ufeffTitle": "Georgia O'Keeffe", 
+  "CuratorApproved": "Y", 
   "ObjectID": "50925"
 }

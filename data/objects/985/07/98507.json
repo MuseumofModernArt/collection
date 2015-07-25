@@ -4,21 +4,20 @@
   "Classification": "Photograph", 
   "Artist": "Michael Wesely", 
   "URL": "http://www.moma.org/collection/works/98507", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "2001-03", 
-  "ArtistID": 8194, 
+  "DateAcquired": "2005-05-11", 
   "Keywords": [
-    "online art collection", 
     "Michael Wesely", 
     "9 August 2001 - 2 May 2003 The Museum of Modern Art", 
     "New York", 
     "2001-03"
   ], 
+  "ArtistID": 8194, 
+  "Title": "9 August 2001 - 2 May 2003 The Museum of Modern Art, New York", 
   "Department": "Photography", 
   "MoMANumber": "469.2005.x1-x2", 
+  "Date": "2001-03", 
   "ArtistBio": "(German, born 1963)", 
-  "DateAcquired": "2005-05-11", 
-  "\ufeffTitle": "9 August 2001 - 2 May 2003 The Museum of Modern Art, New York", 
+  "CuratorApproved": "Y", 
   "ObjectID": "98507"
 }

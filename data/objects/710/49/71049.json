@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Pierre Alechinsky", 
   "URL": "http://www.moma.org/collection/works/71049", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the artist", 
-  "Date": "1967", 
-  "ArtistID": 107, 
+  "DateAcquired": "1978-10-17", 
   "Keywords": [
-    "online art collection", 
     "Pierre Alechinsky", 
     "Mirror and Memory I-IV (Miroir et m&eacute;moire I-IV)", 
     "1967"
   ], 
+  "ArtistID": 107, 
+  "Title": "Mirror and Memory I-IV (Miroir et m\u00e9moire I-IV)", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "555.1978.1-4", 
+  "Date": "1967", 
   "ArtistBio": "(Belgian, born 1927)", 
-  "DateAcquired": "1978-10-17", 
-  "\ufeffTitle": "Mirror and Memory I-IV (Miroir et m\u00e9moire I-IV)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "71049"
 }

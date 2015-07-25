@@ -4,21 +4,20 @@
   "Classification": "Print", 
   "Artist": "Max Beckmann", 
   "URL": "http://www.moma.org/collection/works/64589", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Larry Aldrich Fund", 
-  "Date": "(1917, published 1918)", 
-  "ArtistID": 429, 
+  "DateAcquired": "1952-11-07", 
   "Keywords": [
-    "online art collection", 
     "Max Beckmann", 
     "Adam and Eve (Adam und Eva)", 
     "(1917", 
     "published 1918)"
   ], 
+  "ArtistID": 429, 
+  "Title": "Adam and Eve (Adam und Eva)", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "217.1952", 
+  "Date": "(1917, published 1918)", 
   "ArtistBio": "(German, 1884\u20131950)", 
-  "DateAcquired": "1952-11-07", 
-  "\ufeffTitle": "Adam and Eve (Adam und Eva)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "64589"
 }

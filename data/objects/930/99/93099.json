@@ -4,12 +4,9 @@
   "Classification": "Photograph", 
   "Artist": "Rineke Dijkstra", 
   "URL": "http://www.moma.org/collection/works/93099", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Fractional and promised gift of Jeanne Greenberg Rohatyn", 
-  "Date": "March 16, 1994", 
-  "ArtistID": 8139, 
+  "DateAcquired": "2004-05-13", 
   "Keywords": [
-    "online art collection", 
     "Rineke Dijkstra", 
     "Saskia", 
     "Harderwijk", 
@@ -17,10 +14,12 @@
     "March 16", 
     "1994"
   ], 
+  "ArtistID": 8139, 
+  "Title": "Saskia, Harderwijk, Netherlands", 
   "Department": "Photography", 
   "MoMANumber": "238.2004", 
+  "Date": "March 16, 1994", 
   "ArtistBio": "(Dutch, born 1959)", 
-  "DateAcquired": "2004-05-13", 
-  "\ufeffTitle": "Saskia, Harderwijk, Netherlands", 
+  "CuratorApproved": "Y", 
   "ObjectID": "93099"
 }

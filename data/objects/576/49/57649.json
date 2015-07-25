@@ -4,20 +4,19 @@
   "Classification": "Photograph", 
   "Artist": "Zeke Berman", 
   "URL": "http://www.moma.org/collection/works/57649", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Acquired through the generosity of the Vera Louise Fraser Estate", 
-  "Date": "1979", 
-  "ArtistID": 506, 
+  "DateAcquired": "1979-12-13", 
   "Keywords": [
-    "online art collection", 
     "Zeke Berman", 
     "Still Life with Necker Cube", 
     "1979"
   ], 
+  "ArtistID": 506, 
+  "Title": "Still Life with Necker Cube", 
   "Department": "Photography", 
   "MoMANumber": "1109.1979", 
+  "Date": "1979", 
   "ArtistBio": "(American, born 1951)", 
-  "DateAcquired": "1979-12-13", 
-  "\ufeffTitle": "Still Life with Necker Cube", 
+  "CuratorApproved": "Y", 
   "ObjectID": "57649"
 }

@@ -4,21 +4,20 @@
   "Classification": "Painting", 
   "Artist": "Piero Manzoni", 
   "URL": "http://www.moma.org/collection/works/80507", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The Riklis Collection of McCrory Corporation", 
-  "Date": "c. 1960", 
-  "ArtistID": 3741, 
+  "DateAcquired": "1985-10-25", 
   "Keywords": [
-    "online art collection", 
     "Piero Manzoni", 
     "Achrome", 
     "c", 
     "1960"
   ], 
+  "ArtistID": 3741, 
+  "Title": "Achrome", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "1044.1983", 
+  "Date": "c. 1960", 
   "ArtistBio": "(Italian, 1933\u20131963)", 
-  "DateAcquired": "1985-10-25", 
-  "\ufeffTitle": "Achrome", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80507"
 }

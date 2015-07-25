@@ -4,12 +4,9 @@
   "Classification": "Print", 
   "Artist": "Pablo Picasso", 
   "URL": "http://www.moma.org/collection/works/60676", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Mrs. Saidie A. May", 
-  "Date": "(March 8, 1921, published 1928)", 
-  "ArtistID": 4609, 
+  "DateAcquired": "1934-03-17", 
   "Keywords": [
-    "online art collection", 
     "Pablo Picasso", 
     "On the Beach", 
     "II (Three Nudes) [Sur la plage", 
@@ -18,10 +15,12 @@
     "1921", 
     "published 1928)"
   ], 
+  "ArtistID": 4609, 
+  "Title": "On the Beach, II (Three Nudes) [Sur la plage. II (Trois nus)] from the series Four Lithographs (Quatre Lithographies)", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "40.1932", 
+  "Date": "(March 8, 1921, published 1928)", 
   "ArtistBio": "(Spanish, 1881\u20131973)", 
-  "DateAcquired": "1934-03-17", 
-  "\ufeffTitle": "On the Beach, II (Three Nudes) [Sur la plage. II (Trois nus)] from the series Four Lithographs (Quatre Lithographies)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "60676"
 }

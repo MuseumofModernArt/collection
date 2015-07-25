@@ -4,12 +4,9 @@
   "Classification": "Print", 
   "Artist": "Louise Bourgeois", 
   "URL": "http://www.moma.org/collection/works/70633", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the artist", 
-  "Date": "1989", 
-  "ArtistID": 710, 
+  "DateAcquired": "1993-11-17", 
   "Keywords": [
-    "online art collection", 
     "Louise Bourgeois", 
     "Institution", 
     "first version", 
@@ -17,10 +14,12 @@
     "variant", 
     "1989"
   ], 
+  "ArtistID": 710, 
+  "Title": "Institution, first version, only state, variant", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "529.1993", 
+  "Date": "1989", 
   "ArtistBio": "(American, born France. 1911\u20132010)", 
-  "DateAcquired": "1993-11-17", 
-  "\ufeffTitle": "Institution, first version, only state, variant", 
+  "CuratorApproved": "Y", 
   "ObjectID": "70633"
 }

@@ -4,21 +4,20 @@
   "Classification": "Sculpture", 
   "Artist": "Henry Moore", 
   "URL": "http://www.moma.org/collection/works/80999", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Given in memory of G. David Thompson, Jr., by his father", 
-  "Date": "1960", 
-  "ArtistID": 4071, 
+  "DateAcquired": "1961-05-16", 
   "Keywords": [
-    "online art collection", 
     "Henry Moore", 
     "Reclining Figure", 
     "II", 
     "1960"
   ], 
+  "ArtistID": 4071, 
+  "Title": "Reclining Figure, II", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "131.1961.a-c", 
+  "Date": "1960", 
   "ArtistBio": "(British, 1898\u20131986)", 
-  "DateAcquired": "1961-05-16", 
-  "\ufeffTitle": "Reclining Figure, II", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80999"
 }

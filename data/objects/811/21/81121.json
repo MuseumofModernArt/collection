@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Andr\u00e9 Breton", 
   "URL": "http://www.moma.org/collection/works/81121", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Kay Sage Tanguy Bequest", 
-  "Date": "December 1941", 
-  "ArtistID": 768, 
+  "DateAcquired": "1963-04-09", 
   "Keywords": [
-    "online art collection", 
     "Andr&eacute; Breton", 
     "Poem-Object", 
     "December 1941"
   ], 
+  "ArtistID": 768, 
+  "Title": "Poem-Object", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "197.1963", 
+  "Date": "December 1941", 
   "ArtistBio": "(French, 1896\u20131966)", 
-  "DateAcquired": "1963-04-09", 
-  "\ufeffTitle": "Poem-Object", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81121"
 }

@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Andy Warhol", 
   "URL": "http://www.moma.org/collection/works/71542", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Monroe Wheeler Memorial Fund", 
-  "Date": "1981", 
-  "ArtistID": 6246, 
+  "DateAcquired": "1994-11-08", 
   "Keywords": [
-    "online art collection", 
     "Andy Warhol", 
     "The Shadow", 
     "(1981)"
   ], 
+  "ArtistID": 6246, 
+  "Title": "The Shadow", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "587.1994", 
+  "Date": "1981", 
   "ArtistBio": "(American, 1928\u20131987)", 
-  "DateAcquired": "1994-11-08", 
-  "\ufeffTitle": "The Shadow", 
+  "CuratorApproved": "Y", 
   "ObjectID": "71542"
 }

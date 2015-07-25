@@ -4,21 +4,20 @@
   "Classification": "Photograph", 
   "Artist": "Robert Riger", 
   "URL": "http://www.moma.org/collection/works/58682", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The New York Times Collection", 
-  "Date": "1964", 
-  "ArtistID": 8607, 
+  "DateAcquired": "2001-06-14", 
   "Keywords": [
-    "online art collection", 
     "Robert Riger", 
     "\"Y,A", 
     "Title # 14\"", 
     "1964"
   ], 
+  "ArtistID": 8607, 
+  "Title": "\"Y.A. Tittle # 14\"", 
   "Department": "Photography", 
   "MoMANumber": "2089.2001", 
+  "Date": "1964", 
   "ArtistBio": "(American, 1924\u20131995)", 
-  "DateAcquired": "2001-06-14", 
-  "\ufeffTitle": "\"Y.A. Tittle # 14\"", 
+  "CuratorApproved": "Y", 
   "ObjectID": "58682"
 }

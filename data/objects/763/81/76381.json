@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Matthew Barney", 
   "URL": "http://www.moma.org/collection/works/76381", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Monroe Wheeler Fund", 
-  "Date": "2000", 
-  "ArtistID": 7005, 
+  "DateAcquired": "2000-11-09", 
   "Keywords": [
-    "online art collection", 
     "Matthew Barney", 
     "The Man in Black/Drone Harness", 
     "2000"
   ], 
+  "ArtistID": 7005, 
+  "Title": "The Man in Black/Drone Harness", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "1332.2000.1-2", 
+  "Date": "2000", 
   "ArtistBio": "(American, born 1967)", 
-  "DateAcquired": "2000-11-09", 
-  "\ufeffTitle": "The Man in Black/Drone Harness", 
+  "CuratorApproved": "Y", 
   "ObjectID": "76381"
 }

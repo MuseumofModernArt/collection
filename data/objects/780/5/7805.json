@@ -4,20 +4,19 @@
   "Classification": "A&D Graphic Design", 
   "Artist": "G\u00fcnther Kieser", 
   "URL": "http://www.moma.org/collection/works/7805", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Hessischer Rundfunk", 
-  "Date": "1981", 
-  "ArtistID": 3090, 
+  "DateAcquired": "1981-12-10", 
   "Keywords": [
-    "online art collection", 
     "G&uuml;nther Kieser", 
     "Der stillgelegte Mensch", 
     "1981"
   ], 
+  "ArtistID": 3090, 
+  "Title": "Der stillgelegte Mensch", 
   "Department": "Architecture & Design", 
   "MoMANumber": "630.1981", 
+  "Date": "1981", 
   "ArtistBio": "(German, born 1930)", 
-  "DateAcquired": "1981-12-10", 
-  "\ufeffTitle": "Der stillgelegte Mensch", 
+  "CuratorApproved": "Y", 
   "ObjectID": "7805"
 }

@@ -4,21 +4,20 @@
   "Classification": "Painting", 
   "Artist": "Andr\u00e9 Derain", 
   "URL": "http://www.moma.org/collection/works/78773", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The Philip L. Goodwin Collection", 
-  "Date": "1905", 
-  "ArtistID": 1500, 
+  "DateAcquired": "1958-10-29", 
   "Keywords": [
-    "online art collection", 
     "Andr&eacute; Derain", 
     "Fishing Boats", 
     "Collioure", 
     "1905"
   ], 
+  "ArtistID": 1500, 
+  "Title": "Fishing Boats, Collioure", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "100.1958", 
+  "Date": "1905", 
   "ArtistBio": "(French, 1880\u20131954)", 
-  "DateAcquired": "1958-10-29", 
-  "\ufeffTitle": "Fishing Boats, Collioure", 
+  "CuratorApproved": "Y", 
   "ObjectID": "78773"
 }

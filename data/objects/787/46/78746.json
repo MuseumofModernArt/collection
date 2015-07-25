@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Kurt Seligmann", 
   "URL": "http://www.moma.org/collection/works/78746", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Stamo Papadaki (by exchange)", 
-  "Date": "1960", 
-  "ArtistID": 5337, 
+  "DateAcquired": "1960-05-02", 
   "Keywords": [
-    "online art collection", 
     "Kurt Seligmann", 
     "The King", 
     "1960"
   ], 
+  "ArtistID": 5337, 
+  "Title": "The King", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "91.1960", 
+  "Date": "1960", 
   "ArtistBio": "(American, 1900\u20131962)", 
-  "DateAcquired": "1960-05-02", 
-  "\ufeffTitle": "The King", 
+  "CuratorApproved": "Y", 
   "ObjectID": "78746"
 }

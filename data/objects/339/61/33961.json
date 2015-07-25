@@ -4,20 +4,19 @@
   "Classification": "Drawing", 
   "Artist": "John Marin", 
   "URL": "http://www.moma.org/collection/works/33961", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The Philip L. Goodwin Collection", 
-  "Date": "1920", 
-  "ArtistID": 3770, 
+  "DateAcquired": "1958-10-29", 
   "Keywords": [
-    "online art collection", 
     "John Marin", 
     "Lower Manhattan", 
     "1920"
   ], 
+  "ArtistID": 3770, 
+  "Title": "Lower Manhattan", 
   "Department": "Drawings", 
   "MoMANumber": "104.1958", 
+  "Date": "1920", 
   "ArtistBio": "(American, 1870\u20131953)", 
-  "DateAcquired": "1958-10-29", 
-  "\ufeffTitle": "Lower Manhattan", 
+  "CuratorApproved": "Y", 
   "ObjectID": "33961"
 }

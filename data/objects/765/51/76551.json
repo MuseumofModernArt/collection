@@ -4,12 +4,9 @@
   "Classification": "Print", 
   "Artist": "Bridget Riley", 
   "URL": "http://www.moma.org/collection/works/76551", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Karsten Schubert", 
-  "Date": "1981", 
-  "ArtistID": 4929, 
+  "DateAcquired": "2000-11-09", 
   "Keywords": [
-    "online art collection", 
     "Bridget Riley", 
     "Silvered 2 (21 Reds", 
     "21 Blues", 
@@ -19,10 +16,12 @@
     "8 Whites)", 
     "1981"
   ], 
+  "ArtistID": 4929, 
+  "Title": "Silvered 2 (21 Reds, 21 Blues, 24 Turquoises, 24 Yellows, 9 Blacks, 8 Whites)", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "1367.2000", 
+  "Date": "1981", 
   "ArtistBio": "(British, born 1931)", 
-  "DateAcquired": "2000-11-09", 
-  "\ufeffTitle": "Silvered 2 (21 Reds, 21 Blues, 24 Turquoises, 24 Yellows, 9 Blacks, 8 Whites)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "76551"
 }

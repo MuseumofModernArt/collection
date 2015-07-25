@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Jasper Johns", 
   "URL": "http://www.moma.org/collection/works/61926", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Emily Fisher Landau", 
-  "Date": "1995", 
-  "ArtistID": 2923, 
+  "DateAcquired": "1995-05-03", 
   "Keywords": [
-    "online art collection", 
     "Jasper Johns", 
     "Untitled", 
     "1995"
   ], 
+  "ArtistID": 2923, 
+  "Title": "Untitled", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "109.1995", 
+  "Date": "1995", 
   "ArtistBio": "(American, born 1930)", 
-  "DateAcquired": "1995-05-03", 
-  "\ufeffTitle": "Untitled", 
+  "CuratorApproved": "Y", 
   "ObjectID": "61926"
 }

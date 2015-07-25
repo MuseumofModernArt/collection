@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Carlos Granada", 
   "URL": "http://www.moma.org/collection/works/61963", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Inter-American Fund", 
-  "Date": "(1969)", 
-  "ArtistID": 2289, 
+  "DateAcquired": "1970-03-05", 
   "Keywords": [
-    "online art collection", 
     "Carlos Granada", 
     "Execution (Fusilamiento)", 
     "(1969)"
   ], 
+  "ArtistID": 2289, 
+  "Title": "Execution (Fusilamiento)", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "111.1970", 
+  "Date": "(1969)", 
   "ArtistBio": "(Colombian, born 1933)", 
-  "DateAcquired": "1970-03-05", 
-  "\ufeffTitle": "Execution (Fusilamiento)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "61963"
 }

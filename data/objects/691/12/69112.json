@@ -4,21 +4,20 @@
   "Classification": "Multiple", 
   "Artist": "Jorge Pardo", 
   "URL": "http://www.moma.org/collection/works/69112", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Linda Barth Goldstein Fund", 
-  "Date": "1999", 
-  "ArtistID": 8132, 
+  "DateAcquired": "1999-11-18", 
   "Keywords": [
-    "online art collection", 
     "Jorge Pardo", 
     "Untitled (for Parkett No", 
     "56)", 
     "1999"
   ], 
+  "ArtistID": 8132, 
+  "Title": "Untitled (for Parkett no. 56)", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "436.1999", 
+  "Date": "1999", 
   "ArtistBio": "(American, born 1963)", 
-  "DateAcquired": "1999-11-18", 
-  "\ufeffTitle": "Untitled (for Parkett no. 56)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "69112"
 }

@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Mario Sironi", 
   "URL": "http://www.moma.org/collection/works/80268", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the Mr. and Mrs. Stanley Marcus Foundation", 
-  "Date": "1935", 
-  "ArtistID": 5455, 
+  "DateAcquired": "1971-12-07", 
   "Keywords": [
-    "online art collection", 
     "Mario Sironi", 
     "Susanna and the Elders", 
     "1935"
   ], 
+  "ArtistID": 5455, 
+  "Title": "Susanna and the Elders", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "693.1971", 
+  "Date": "1935", 
   "ArtistBio": "(Italian, 1885\u20131961)", 
-  "DateAcquired": "1971-12-07", 
-  "\ufeffTitle": "Susanna and the Elders", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80268"
 }

@@ -4,21 +4,20 @@
   "Classification": "Print", 
   "Artist": "Pablo Picasso", 
   "URL": "http://www.moma.org/collection/works/71218", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Abby Aldrich Rockefeller Fund", 
-  "Date": "(April 3, 1949)", 
-  "ArtistID": 4609, 
+  "DateAcquired": "1951-11-21", 
   "Keywords": [
-    "online art collection", 
     "Pablo Picasso", 
     "Figure with Striped Bodice (Figure au Corsage ray&eacute;)", 
     "(April 3", 
     "1949)"
   ], 
+  "ArtistID": 4609, 
+  "Title": "Figure with Striped Bodice (Figure au Corsage ray\u00e9)", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "566.1951", 
+  "Date": "(April 3, 1949)", 
   "ArtistBio": "(Spanish, 1881\u20131973)", 
-  "DateAcquired": "1951-11-21", 
-  "\ufeffTitle": "Figure with Striped Bodice (Figure au Corsage ray\u00e9)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "71218"
 }

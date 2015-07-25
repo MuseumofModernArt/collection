@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Oskar Schlemmer", 
   "URL": "http://www.moma.org/collection/works/80049", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Philip Johnson", 
-  "Date": "1932", 
-  "ArtistID": 5219, 
+  "DateAcquired": "1942-12-29", 
   "Keywords": [
-    "online art collection", 
     "Oskar Schlemmer", 
     "Bauhaus Stairway", 
     "1932"
   ], 
+  "ArtistID": 5219, 
+  "Title": "Bauhaus Stairway", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "597.1942", 
+  "Date": "1932", 
   "ArtistBio": "(German, 1888\u20131943)", 
-  "DateAcquired": "1942-12-29", 
-  "\ufeffTitle": "Bauhaus Stairway", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80049"
 }

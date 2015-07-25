@@ -4,12 +4,9 @@
   "Classification": "Print", 
   "Artist": "Louise Bourgeois", 
   "URL": "http://www.moma.org/collection/works/69980", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the artist", 
-  "Date": "(1990).  (Prints executed 1989-1990; gouache additions 1993).", 
-  "ArtistID": 710, 
+  "DateAcquired": "1993-11-17", 
   "Keywords": [
-    "online art collection", 
     "Louise Bourgeois", 
     "Untitled", 
     "plate 7", 
@@ -19,10 +16,12 @@
     "(1990)", 
     " (Prints executed 1989-1990; gouache additions 1993),"
   ], 
+  "ArtistID": 710, 
+  "Title": "Untitled, plate 7, only state, variant, from The Puritan", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "486.1993.7", 
+  "Date": "(1990).  (Prints executed 1989-1990; gouache additions 1993).", 
   "ArtistBio": "(American, born France. 1911\u20132010)", 
-  "DateAcquired": "1993-11-17", 
-  "\ufeffTitle": "Untitled, plate 7, only state, variant, from The Puritan", 
+  "CuratorApproved": "Y", 
   "ObjectID": "69980"
 }

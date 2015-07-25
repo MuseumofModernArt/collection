@@ -4,20 +4,19 @@
   "Classification": "Drawing", 
   "Artist": "Miguel Conde", 
   "URL": "http://www.moma.org/collection/works/38692", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1964", 
-  "ArtistID": 1208, 
+  "DateAcquired": "1968-12-11", 
   "Keywords": [
-    "online art collection", 
     "Miguel Conde", 
     "Estudio de Paris", 
     "1964"
   ], 
+  "ArtistID": 1208, 
+  "Title": "Estudio de Paris", 
   "Department": "Drawings", 
   "MoMANumber": "1579.1968", 
+  "Date": "1964", 
   "ArtistBio": "(Mexican, born 1939)", 
-  "DateAcquired": "1968-12-11", 
-  "\ufeffTitle": "Estudio de Paris", 
+  "CuratorApproved": "Y", 
   "ObjectID": "38692"
 }

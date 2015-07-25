@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Sigmar Polke", 
   "URL": "http://www.moma.org/collection/works/78821", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Kay Sage Tanguy Fund", 
-  "Date": "1972", 
-  "ArtistID": 4671, 
+  "DateAcquired": "1982-04-06", 
   "Keywords": [
-    "online art collection", 
     "Sigmar Polke", 
     "Mao", 
     "1972"
   ], 
+  "ArtistID": 4671, 
+  "Title": "Mao", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "109.1982.a-b", 
+  "Date": "1972", 
   "ArtistBio": "(German, 1941\u20132010)", 
-  "DateAcquired": "1982-04-06", 
-  "\ufeffTitle": "Mao", 
+  "CuratorApproved": "Y", 
   "ObjectID": "78821"
 }

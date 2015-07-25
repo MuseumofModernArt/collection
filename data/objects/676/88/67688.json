@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "David Hockney", 
   "URL": "http://www.moma.org/collection/works/67688", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1980", 
-  "ArtistID": 2678, 
+  "DateAcquired": "1987-10-20", 
   "Keywords": [
-    "online art collection", 
     "David Hockney", 
     "John Hockney", 
     "1980"
   ], 
+  "ArtistID": 2678, 
+  "Title": "John Hockney", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "360.1987", 
+  "Date": "1980", 
   "ArtistBio": "(British, born 1937)", 
-  "DateAcquired": "1987-10-20", 
-  "\ufeffTitle": "John Hockney", 
+  "CuratorApproved": "Y", 
   "ObjectID": "67688"
 }

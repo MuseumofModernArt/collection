@@ -4,12 +4,9 @@
   "Classification": "A&D Architectural Drawing", 
   "Artist": "Erik Gunnar Asplund", 
   "URL": "http://www.moma.org/collection/works/692", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Celeste and Armand P. Bartos, Mrs. S. I. Newhouse, Jr., and purchase", 
-  "Date": "Unknown", 
-  "ArtistID": 27, 
+  "DateAcquired": "1990-10-24", 
   "Keywords": [
-    "online art collection", 
     "Erik Gunnar Asplund", 
     "Woodland Crematorium", 
     "Stockholm", 
@@ -17,10 +14,12 @@
     "Exterior elevation", 
     "Unknown"
   ], 
+  "ArtistID": 27, 
+  "Title": "Woodland Crematorium, Stockholm, Sweden, Exterior elevation", 
   "Department": "Architecture & Design", 
   "MoMANumber": "484.1990", 
+  "Date": "Unknown", 
   "ArtistBio": "(Swedish, 1885\u20131940)", 
-  "DateAcquired": "1990-10-24", 
-  "\ufeffTitle": "Woodland Crematorium, Stockholm, Sweden, Exterior elevation", 
+  "CuratorApproved": "Y", 
   "ObjectID": "692"
 }

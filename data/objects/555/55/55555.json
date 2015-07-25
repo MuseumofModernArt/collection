@@ -4,12 +4,9 @@
   "Classification": "Photograph", 
   "Artist": "Clarence H. White", 
   "URL": "http://www.moma.org/collection/works/55555", 
-  "CuratorApproved": "Y", 
   "CreditLine": "John Parkinson III Fund", 
-  "Date": "c. 1902", 
-  "ArtistID": 6338, 
+  "DateAcquired": "1971-11-10", 
   "Keywords": [
-    "online art collection", 
     "Clarence H", 
     "White", 
     "F", 
@@ -17,10 +14,12 @@
     "c", 
     "1902"
   ], 
+  "ArtistID": 6338, 
+  "Title": "F. Holland Day", 
   "Department": "Photography", 
   "MoMANumber": "607.1971", 
+  "Date": "c. 1902", 
   "ArtistBio": "(American, 1871\u20131925)", 
-  "DateAcquired": "1971-11-10", 
-  "\ufeffTitle": "F. Holland Day", 
+  "CuratorApproved": "Y", 
   "ObjectID": "55555"
 }

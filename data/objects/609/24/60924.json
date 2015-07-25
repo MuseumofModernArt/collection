@@ -4,12 +4,9 @@
   "Classification": "Print", 
   "Artist": "Max Beckmann", 
   "URL": "http://www.moma.org/collection/works/60924", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Curt Valentin Bequest", 
-  "Date": "(1948, published 1949)", 
-  "ArtistID": 429, 
+  "DateAcquired": "1956-03-19", 
   "Keywords": [
-    "online art collection", 
     "Max Beckmann", 
     "1", 
     "Woman with Fish (Frau mit Fisch) 2", 
@@ -17,10 +14,12 @@
     "(1948", 
     "published 1949)"
   ], 
+  "ArtistID": 429, 
+  "Title": "1. Woman with Fish (Frau mit Fisch) 2. Composition (Komposition) from the illustrated book Max Beckmann", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "50.1956.1-2", 
+  "Date": "(1948, published 1949)", 
   "ArtistBio": "(German, 1884\u20131950)", 
-  "DateAcquired": "1956-03-19", 
-  "\ufeffTitle": "1. Woman with Fish (Frau mit Fisch) 2. Composition (Komposition) from the illustrated book Max Beckmann", 
+  "CuratorApproved": "Y", 
   "ObjectID": "60924"
 }

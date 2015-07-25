@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Michelangelo Pistoletto", 
   "URL": "http://www.moma.org/collection/works/79435", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Blanchette Hooker Rockefeller Fund", 
-  "Date": "1964", 
-  "ArtistID": 4641, 
+  "DateAcquired": "1965-05-11", 
   "Keywords": [
-    "online art collection", 
     "Michelangelo Pistoletto", 
     "Man with Yellow Pants", 
     "1964"
   ], 
+  "ArtistID": 4641, 
+  "Title": "Man with Yellow Pants", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "292.1965", 
+  "Date": "1964", 
   "ArtistBio": "(Italian, born 1933)", 
-  "DateAcquired": "1965-05-11", 
-  "\ufeffTitle": "Man with Yellow Pants", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79435"
 }

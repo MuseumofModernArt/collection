@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Eva Hesse", 
   "URL": "http://www.moma.org/collection/works/81245", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Ruth Vollmer Bequest", 
-  "Date": "1968", 
-  "ArtistID": 2623, 
+  "DateAcquired": "1983-02-14", 
   "Keywords": [
-    "online art collection", 
     "Eva Hesse", 
     "Untitled", 
     "1968"
   ], 
+  "ArtistID": 2623, 
+  "Title": "Untitled", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "263.1983", 
+  "Date": "1968", 
   "ArtistBio": "(American, born Germany. 1936\u20131970)", 
-  "DateAcquired": "1983-02-14", 
-  "\ufeffTitle": "Untitled", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81245"
 }

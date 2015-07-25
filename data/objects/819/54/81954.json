@@ -4,21 +4,20 @@
   "Classification": "Sculpture", 
   "Artist": "John Storrs", 
   "URL": "http://www.moma.org/collection/works/81954", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The Riklis Collection of McCrory Corporation", 
-  "Date": "c. 1924", 
-  "ArtistID": 5681, 
+  "DateAcquired": "1985-10-25", 
   "Keywords": [
-    "online art collection", 
     "John Storrs", 
     "Forms in Space", 
     "c", 
     "1924"
   ], 
+  "ArtistID": 5681, 
+  "Title": "Forms in Space", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "1074.1983", 
+  "Date": "c. 1924", 
   "ArtistBio": "(American, 1885\u20131956)", 
-  "DateAcquired": "1985-10-25", 
-  "\ufeffTitle": "Forms in Space", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81954"
 }

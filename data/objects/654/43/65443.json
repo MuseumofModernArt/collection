@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Emil Nolde", 
   "URL": "http://www.moma.org/collection/works/65443", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Given anonymously", 
-  "Date": "1906", 
-  "ArtistID": 4327, 
+  "DateAcquired": "1955-10-10", 
   "Keywords": [
-    "online art collection", 
     "Emil Nolde", 
     "In the Rocking Chair (Im Schaukelstuhl)", 
     "1906"
   ], 
+  "ArtistID": 4327, 
+  "Title": "In the Rocking Chair (Im Schaukelstuhl)", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "260.1955", 
+  "Date": "1906", 
   "ArtistBio": "(German, 1867\u20131956)", 
-  "DateAcquired": "1955-10-10", 
-  "\ufeffTitle": "In the Rocking Chair (Im Schaukelstuhl)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "65443"
 }

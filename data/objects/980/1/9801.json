@@ -4,12 +4,9 @@
   "Classification": "Illustrated Book", 
   "Artist": "Various Artists, Rimma Gerlovina, Valery Gerlovin, Michael Chernyshov, Henry Khudyakov, Vagrich Bakhchanyan", 
   "URL": "http://www.moma.org/collection/works/9801", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1986", 
-  "ArtistID": 6104, 
+  "DateAcquired": "1987-01-15", 
   "Keywords": [
-    "online art collection", 
     "Various Artists with Rimma Gerlovina", 
     "Valery Gerlovin", 
     "Michael Chernyshov", 
@@ -17,10 +14,12 @@
     "Russian Samizdat Art", 
     "1986"
   ], 
+  "ArtistID": 6104, 
+  "Title": "Russian Samizdat Art", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "24.1987.A-B", 
+  "Date": "1986", 
   "ArtistBio": "(Various) (Russian, born 1951) (Russian, born 1945) (Russian, born 1945) (Russian, born 1930) (Russian, 1938\u20132009)", 
-  "DateAcquired": "1987-01-15", 
-  "\ufeffTitle": "Russian Samizdat Art", 
+  "CuratorApproved": "Y", 
   "ObjectID": "9801"
 }

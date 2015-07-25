@@ -4,12 +4,9 @@
   "Classification": "A&D Architectural Model", 
   "Artist": "Steven Holl Architects, Steven Holl, Mark Janson, Joseph Fenton, Suzanne Powadiuk, James Rosen", 
   "URL": "http://www.moma.org/collection/works/968", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Given anonymously and David Rockefeller, Jr. Purchase Fund", 
-  "Date": "1979-82", 
-  "ArtistID": 7609, 
+  "DateAcquired": "1997-01-15", 
   "Keywords": [
-    "online art collection", 
     "Steven Holl Architects and Steven Holl with Mark Janson", 
     "Joseph Fenton", 
     "Suzanne Powadiuk and James Rosen", 
@@ -19,10 +16,12 @@
     "Scale model 1/16\" = 1'0\"", 
     "1979-82"
   ], 
+  "ArtistID": 7609, 
+  "Title": "Bridge of Houses Project, Melbourne, Australia, Scale model 1/16\" = 1'0\"", 
   "Department": "Architecture & Design", 
   "MoMANumber": "10.1997", 
+  "Date": "1979-82", 
   "ArtistBio": "(American, founded 1976) (American, born 1947)", 
-  "DateAcquired": "1997-01-15", 
-  "\ufeffTitle": "Bridge of Houses Project, Melbourne, Australia, Scale model 1/16\" = 1'0\"", 
+  "CuratorApproved": "Y", 
   "ObjectID": "968"
 }

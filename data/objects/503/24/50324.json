@@ -4,22 +4,21 @@
   "Classification": "Photograph", 
   "Artist": "Robert Adams", 
   "URL": "http://www.moma.org/collection/works/50324", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1973", 
-  "ArtistID": 66, 
+  "DateAcquired": "1975-10-23", 
   "Keywords": [
-    "online art collection", 
     "Robert Adams", 
     "Tract House", 
     "Longmont", 
     "Colorado", 
     "1973"
   ], 
+  "ArtistID": 66, 
+  "Title": "Tract House, Longmont, Colorado", 
   "Department": "Photography", 
   "MoMANumber": "306.1975", 
+  "Date": "1973", 
   "ArtistBio": "(American, born 1937)", 
-  "DateAcquired": "1975-10-23", 
-  "\ufeffTitle": "Tract House, Longmont, Colorado", 
+  "CuratorApproved": "Y", 
   "ObjectID": "50324"
 }

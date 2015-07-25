@@ -4,21 +4,20 @@
   "Classification": "Photograph", 
   "Artist": "Lee Friedlander", 
   "URL": "http://www.moma.org/collection/works/50245", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1962", 
-  "ArtistID": 2002, 
+  "DateAcquired": "2000-10-12", 
   "Keywords": [
-    "online art collection", 
     "Lee Friedlander", 
     "Baltimore", 
     "Maryland", 
     "1962"
   ], 
+  "ArtistID": 2002, 
+  "Title": "Baltimore, Maryland", 
   "Department": "Photography", 
   "MoMANumber": "302.2000", 
+  "Date": "1962", 
   "ArtistBio": "(American, born 1934)", 
-  "DateAcquired": "2000-10-12", 
-  "\ufeffTitle": "Baltimore, Maryland", 
+  "CuratorApproved": "Y", 
   "ObjectID": "50245"
 }

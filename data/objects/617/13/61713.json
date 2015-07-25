@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Paul Signac", 
   "URL": "http://www.moma.org/collection/works/61713", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Abby Aldrich Rockefeller Fund", 
-  "Date": "1894", 
-  "ArtistID": 5421, 
+  "DateAcquired": "1949-03-24", 
   "Keywords": [
-    "online art collection", 
     "Paul Signac", 
     "The Buoy (Saint Tropez Harbor)", 
     "(1894)"
   ], 
+  "ArtistID": 5421, 
+  "Title": "The Buoy (Saint Tropez Harbor)", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "94.1949", 
+  "Date": "1894", 
   "ArtistBio": "(French, 1863\u20131935)", 
-  "DateAcquired": "1949-03-24", 
-  "\ufeffTitle": "The Buoy (Saint Tropez Harbor)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "61713"
 }

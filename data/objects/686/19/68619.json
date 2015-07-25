@@ -4,21 +4,20 @@
   "Classification": "Print", 
   "Artist": "Pablo Picasso", 
   "URL": "http://www.moma.org/collection/works/68619", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Larry Aldrich Fund", 
-  "Date": "(February 14, 1954)", 
-  "ArtistID": 4609, 
+  "DateAcquired": "1954-09-30", 
   "Keywords": [
-    "online art collection", 
     "Pablo Picasso", 
     "Dance of the Banderillas (La Danse des Banderilles)", 
     "(February 14", 
     "1954)"
   ], 
+  "ArtistID": 4609, 
+  "Title": "Dance of the Banderillas (La Danse des Banderilles)", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "410.1954", 
+  "Date": "(February 14, 1954)", 
   "ArtistBio": "(Spanish, 1881\u20131973)", 
-  "DateAcquired": "1954-09-30", 
-  "\ufeffTitle": "Dance of the Banderillas (La Danse des Banderilles)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "68619"
 }

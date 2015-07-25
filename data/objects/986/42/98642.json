@@ -4,21 +4,20 @@
   "Classification": "Photograph", 
   "Artist": "Unknown photographer", 
   "URL": "http://www.moma.org/collection/works/98642", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of The New York Times", 
-  "Date": "February 21, 1957", 
-  "ArtistID": 6028, 
+  "DateAcquired": "2005-05-11", 
   "Keywords": [
-    "online art collection", 
     "Unknown Photographer", 
     "Five Alarm Fire at Spring and Greene Streets", 
     "February 21", 
     "1957"
   ], 
+  "ArtistID": 6028, 
+  "Title": "Five Alarm Fire at Spring and Greene Streets", 
   "Department": "Photography", 
   "MoMANumber": "404.2005", 
+  "Date": "February 21, 1957", 
   "ArtistBio": "", 
-  "DateAcquired": "2005-05-11", 
-  "\ufeffTitle": "Five Alarm Fire at Spring and Greene Streets", 
+  "CuratorApproved": "Y", 
   "ObjectID": "98642"
 }

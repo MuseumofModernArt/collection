@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Alice Neel", 
   "URL": "http://www.moma.org/collection/works/78559", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Hartley S. Neel and Richard Neel", 
-  "Date": "1935", 
-  "ArtistID": 4253, 
+  "DateAcquired": "1988-02-07", 
   "Keywords": [
-    "online art collection", 
     "Alice Neel", 
     "Kenneth Fearing", 
     "1935"
   ], 
+  "ArtistID": 4253, 
+  "Title": "Kenneth Fearing", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "28.1988", 
+  "Date": "1935", 
   "ArtistBio": "(American, 1900\u20131984)", 
-  "DateAcquired": "1988-02-07", 
-  "\ufeffTitle": "Kenneth Fearing", 
+  "CuratorApproved": "Y", 
   "ObjectID": "78559"
 }

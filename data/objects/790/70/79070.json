@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Jackson Pollock", 
   "URL": "http://www.moma.org/collection/works/79070", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Peggy Guggenheim", 
-  "Date": "1947", 
-  "ArtistID": 4675, 
+  "DateAcquired": "1952-10-21", 
   "Keywords": [
-    "online art collection", 
     "Jackson Pollock", 
     "Full Fathom Five", 
     "1947"
   ], 
+  "ArtistID": 4675, 
+  "Title": "Full Fathom Five", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "186.1952", 
+  "Date": "1947", 
   "ArtistBio": "(American, 1912\u20131956)", 
-  "DateAcquired": "1952-10-21", 
-  "\ufeffTitle": "Full Fathom Five", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79070"
 }

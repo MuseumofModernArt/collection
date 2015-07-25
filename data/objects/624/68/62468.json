@@ -4,21 +4,20 @@
   "Classification": "Print", 
   "Artist": "Max Beckmann", 
   "URL": "http://www.moma.org/collection/works/62468", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "(1920, published 1921)", 
-  "ArtistID": 429, 
+  "DateAcquired": "1946-05-26", 
   "Keywords": [
-    "online art collection", 
     "Max Beckmann", 
     "Old Woman with Bonnet (Alte Frau mit Kapothut)", 
     "(1920", 
     "published 1921)"
   ], 
+  "ArtistID": 429, 
+  "Title": "Old Woman with Bonnet (Alte Frau mit Kapothut)", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "132.1946", 
+  "Date": "(1920, published 1921)", 
   "ArtistBio": "(German, 1884\u20131950)", 
-  "DateAcquired": "1946-05-26", 
-  "\ufeffTitle": "Old Woman with Bonnet (Alte Frau mit Kapothut)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "62468"
 }

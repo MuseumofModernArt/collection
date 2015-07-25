@@ -4,22 +4,21 @@
   "Classification": "Sculpture", 
   "Artist": "Alexander Calder", 
   "URL": "http://www.moma.org/collection/works/81898", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the artist", 
-  "Date": "New York, c. 1928", 
-  "ArtistID": 922, 
+  "DateAcquired": "1966-10-11", 
   "Keywords": [
-    "online art collection", 
     "Alexander Calder", 
     "Portrait of a Man", 
     "New York", 
     "c", 
     "1928"
   ], 
+  "ArtistID": 922, 
+  "Title": "Portrait of a Man", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "843.1966", 
+  "Date": "New York, c. 1928", 
   "ArtistBio": "(American, 1898\u20131976)", 
-  "DateAcquired": "1966-10-11", 
-  "\ufeffTitle": "Portrait of a Man", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81898"
 }

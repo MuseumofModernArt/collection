@@ -4,22 +4,21 @@
   "Classification": "Photograph", 
   "Artist": "Paul Graham", 
   "URL": "http://www.moma.org/collection/works/55222", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Acquired through the generosity of Shirley C. Burden", 
-  "Date": "1984", 
-  "ArtistID": 2286, 
+  "DateAcquired": "1987-12-10", 
   "Keywords": [
-    "online art collection", 
     "Paul Graham", 
     "Crouched Man", 
     "DHSS Waiting Room", 
     "Bristol", 
     "1984"
   ], 
+  "ArtistID": 2286, 
+  "Title": "Crouched Man, DHSS Waiting Room, Bristol", 
   "Department": "Photography", 
   "MoMANumber": "568.1987.x1-x2", 
+  "Date": "1984", 
   "ArtistBio": "(British, born 1956)", 
-  "DateAcquired": "1987-12-10", 
-  "\ufeffTitle": "Crouched Man, DHSS Waiting Room, Bristol", 
+  "CuratorApproved": "Y", 
   "ObjectID": "55222"
 }

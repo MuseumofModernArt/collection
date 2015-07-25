@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Bob Kane", 
   "URL": "http://www.moma.org/collection/works/100285", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Edward R. Broida", 
-  "Date": "1985", 
-  "ArtistID": 2983, 
+  "DateAcquired": "2005-10-06", 
   "Keywords": [
-    "online art collection", 
     "Bob Kane", 
     "Untitled", 
     "1985"
   ], 
+  "ArtistID": 2983, 
+  "Title": "Untitled", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "745.2005", 
+  "Date": "1985", 
   "ArtistBio": "(American, 1937\u20132013)", 
-  "DateAcquired": "2005-10-06", 
-  "\ufeffTitle": "Untitled", 
+  "CuratorApproved": "Y", 
   "ObjectID": "100285"
 }

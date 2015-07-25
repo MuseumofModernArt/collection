@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Jacques Villon", 
   "URL": "http://www.moma.org/collection/works/79997", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Mrs. Arthur L. Strasser", 
-  "Date": "1932", 
-  "ArtistID": 6165, 
+  "DateAcquired": "1939-12-08", 
   "Keywords": [
-    "online art collection", 
     "Jacques Villon", 
     "Dance", 
     "1932"
   ], 
+  "ArtistID": 6165, 
+  "Title": "Dance", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "576.1939", 
+  "Date": "1932", 
   "ArtistBio": "(French, 1875\u20131963)", 
-  "DateAcquired": "1939-12-08", 
-  "\ufeffTitle": "Dance", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79997"
 }

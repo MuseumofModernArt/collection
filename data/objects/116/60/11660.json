@@ -4,12 +4,9 @@
   "Classification": "Illustrated Book", 
   "Artist": "Various Artists, William Wegman, Glenn Ligon, Justen Ladda, Jane Hammond, Philip Taaffe, Vija Celmins", 
   "URL": "http://www.moma.org/collection/works/11660", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Linda Barth Goldstein and Julie B. Janovic in honor of Riva Castleman", 
-  "Date": "1994", 
-  "ArtistID": 6104, 
+  "DateAcquired": "1995-05-03", 
   "Keywords": [
-    "online art collection", 
     "Various Artists with William Wegman", 
     "Glenn Ligon", 
     "Justen Ladda", 
@@ -18,10 +15,12 @@
     "The Magic Magic Book", 
     "1994"
   ], 
+  "ArtistID": 6104, 
+  "Title": "The Magic Magic Book", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "124.1995.A-C", 
+  "Date": "1994", 
   "ArtistBio": "(Various) (American, born 1943) (American, born 1960) (German, born 1953) (American, born 1950) (American, born 1955) (American, born Latvia 1938)", 
-  "DateAcquired": "1995-05-03", 
-  "\ufeffTitle": "The Magic Magic Book", 
+  "CuratorApproved": "Y", 
   "ObjectID": "11660"
 }

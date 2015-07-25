@@ -4,21 +4,20 @@
   "Classification": "Sculpture", 
   "Artist": "Pablo Picasso", 
   "URL": "http://www.moma.org/collection/works/81119", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Mrs. Simon Guggenheim Fund", 
-  "Date": "Vallauris, October 1951 (cast 1955)", 
-  "ArtistID": 4609, 
+  "DateAcquired": "1956-04-04", 
   "Keywords": [
-    "online art collection", 
     "Pablo Picasso", 
     "Baboon and Young", 
     "Vallauris", 
     "October 1951 (cast 1955)"
   ], 
+  "ArtistID": 4609, 
+  "Title": "Baboon and Young", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "196.1956", 
+  "Date": "Vallauris, October 1951 (cast 1955)", 
   "ArtistBio": "(Spanish, 1881\u20131973)", 
-  "DateAcquired": "1956-04-04", 
-  "\ufeffTitle": "Baboon and Young", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81119"
 }

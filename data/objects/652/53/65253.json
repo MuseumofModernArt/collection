@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Chuck Close", 
   "URL": "http://www.moma.org/collection/works/65253", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Given in memory of Beth Lisa Feldman", 
-  "Date": "1975", 
-  "ArtistID": 1156, 
+  "DateAcquired": "1975-10-07", 
   "Keywords": [
-    "online art collection", 
     "Chuck Close", 
     "Keith/Four Times", 
     "1975"
   ], 
+  "ArtistID": 1156, 
+  "Title": "Keith/Four Times", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "251.1975", 
+  "Date": "1975", 
   "ArtistBio": "(American, born 1940)", 
-  "DateAcquired": "1975-10-07", 
-  "\ufeffTitle": "Keith/Four Times", 
+  "CuratorApproved": "Y", 
   "ObjectID": "65253"
 }

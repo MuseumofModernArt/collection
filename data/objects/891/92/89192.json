@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Kiki Smith", 
   "URL": "http://www.moma.org/collection/works/89192", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Thomas Jones in memory of Joe Fawbush", 
-  "Date": "(1990)", 
-  "ArtistID": 5486, 
+  "DateAcquired": "2003-11-20", 
   "Keywords": [
-    "online art collection", 
     "Kiki Smith", 
     "'Cause I'm on My Time (inserts for Fawbush Gallery invitations)", 
     "(1990)"
   ], 
+  "ArtistID": 5486, 
+  "Title": "'Cause I'm on My Time (inserts for Fawbush Gallery invitations)", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "360.2003.a-e", 
+  "Date": "(1990)", 
   "ArtistBio": "(American, born Germany 1954)", 
-  "DateAcquired": "2003-11-20", 
-  "\ufeffTitle": "'Cause I'm on My Time (inserts for Fawbush Gallery invitations)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "89192"
 }

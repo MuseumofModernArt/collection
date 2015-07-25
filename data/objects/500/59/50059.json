@@ -4,21 +4,20 @@
   "Classification": "Photograph", 
   "Artist": "Henri Cartier-Bresson", 
   "URL": "http://www.moma.org/collection/works/50059", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the photographer", 
-  "Date": "1933", 
-  "ArtistID": 1000, 
+  "DateAcquired": "1947-10-16", 
   "Keywords": [
-    "online art collection", 
     "Henri Cartier-Bresson", 
     "Salerno", 
     "Italy", 
     "1933"
   ], 
+  "ArtistID": 1000, 
+  "Title": "Salerno, Italy", 
   "Department": "Photography", 
   "MoMANumber": "292.1947", 
+  "Date": "1933", 
   "ArtistBio": "(French, 1908\u20132004)", 
-  "DateAcquired": "1947-10-16", 
-  "\ufeffTitle": "Salerno, Italy", 
+  "CuratorApproved": "Y", 
   "ObjectID": "50059"
 }

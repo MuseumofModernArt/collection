@@ -4,12 +4,9 @@
   "Classification": "Photograph", 
   "Artist": "Judith Joy Ross", 
   "URL": "http://www.moma.org/collection/works/49697", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Patricia Lawrence", 
-  "Date": "1982", 
-  "ArtistID": 5030, 
+  "DateAcquired": "1993-06-01", 
   "Keywords": [
-    "online art collection", 
     "Judith Joy Ross", 
     "Untitled", 
     "from Eurana Park", 
@@ -17,10 +14,12 @@
     "Pennsylvania", 
     "1982"
   ], 
+  "ArtistID": 5030, 
+  "Title": "Untitled, from Eurana Park, Weatherly, Pennsylvania", 
   "Department": "Photography", 
   "MoMANumber": "261.1993", 
+  "Date": "1982", 
   "ArtistBio": "(American, born 1946)", 
-  "DateAcquired": "1993-06-01", 
-  "\ufeffTitle": "Untitled, from Eurana Park, Weatherly, Pennsylvania", 
+  "CuratorApproved": "Y", 
   "ObjectID": "49697"
 }

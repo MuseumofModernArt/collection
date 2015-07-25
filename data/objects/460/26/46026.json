@@ -4,12 +4,9 @@
   "Classification": "Photograph", 
   "Artist": "Clarence H. White", 
   "URL": "http://www.moma.org/collection/works/46026", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Mr. and Mrs. Clarence H. White, Jr., 1971", 
-  "Date": "c. 1900", 
-  "ArtistID": 6338, 
+  "DateAcquired": "1975-02-12", 
   "Keywords": [
-    "online art collection", 
     "Clarence H", 
     "White", 
     "Winter Landscape", 
@@ -18,10 +15,12 @@
     "c", 
     "1900"
   ], 
+  "ArtistID": 6338, 
+  "Title": "Winter Landscape, Newark, Ohio", 
   "Department": "Photography", 
   "MoMANumber": "89.1975", 
+  "Date": "c. 1900", 
   "ArtistBio": "(American, 1871\u20131925)", 
-  "DateAcquired": "1975-02-12", 
-  "\ufeffTitle": "Winter Landscape, Newark, Ohio", 
+  "CuratorApproved": "Y", 
   "ObjectID": "46026"
 }

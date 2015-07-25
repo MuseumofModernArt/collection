@@ -4,12 +4,9 @@
   "Classification": "A&D Design", 
   "Artist": "Sam Lucente, John Karidis, Robert P. Tennant, Richard Sapper, IBM Corporation", 
   "URL": "http://www.moma.org/collection/works/2168", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the manufacturer", 
-  "Date": "1995", 
-  "ArtistID": 6612, 
+  "DateAcquired": "1996-04-09", 
   "Keywords": [
-    "online art collection", 
     "Sam Lucente", 
     "Richard Sapper", 
     "Robert P", 
@@ -17,10 +14,12 @@
     "Think Pad 701 Portable Computer", 
     "1995"
   ], 
+  "ArtistID": 6612, 
+  "Title": "ThinkPad 701 Portable Computer", 
   "Department": "Architecture & Design", 
   "MoMANumber": "112.1996", 
+  "Date": "1995", 
   "ArtistBio": "(American, born 1958) (American, 1958\u20132012) (American, born 1948) (German, born 1932) (American, founded 1911)", 
-  "DateAcquired": "1996-04-09", 
-  "\ufeffTitle": "ThinkPad 701 Portable Computer", 
+  "CuratorApproved": "Y", 
   "ObjectID": "2168"
 }

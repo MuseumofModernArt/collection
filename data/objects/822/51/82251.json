@@ -4,20 +4,19 @@
   "Classification": "Drawing", 
   "Artist": "John Currin", 
   "URL": "http://www.moma.org/collection/works/82251", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Sam Schwartz", 
-  "Date": "2001", 
-  "ArtistID": 8444, 
+  "DateAcquired": "2001-10-11", 
   "Keywords": [
-    "online art collection", 
     "John Currin", 
     "Hobo", 
     "2001"
   ], 
+  "ArtistID": 8444, 
+  "Title": "Hobo", 
   "Department": "Drawings", 
   "MoMANumber": "2405.2001", 
+  "Date": "2001", 
   "ArtistBio": "(American, born 1962)", 
-  "DateAcquired": "2001-10-11", 
-  "\ufeffTitle": "Hobo", 
+  "CuratorApproved": "Y", 
   "ObjectID": "82251"
 }

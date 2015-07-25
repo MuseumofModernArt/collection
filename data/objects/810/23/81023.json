@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Henry Moore", 
   "URL": "http://www.moma.org/collection/works/81023", 
-  "CuratorApproved": "Y", 
   "CreditLine": "A. Conger Goodyear Fund", 
-  "Date": "1948-49 (cast 1950)", 
-  "ArtistID": 4071, 
+  "DateAcquired": "1951-05-24", 
   "Keywords": [
-    "online art collection", 
     "Henry Moore", 
     "Family Group", 
     "1948-49 (cast 1950)"
   ], 
+  "ArtistID": 4071, 
+  "Title": "Family Group", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "146.1951", 
+  "Date": "1948-49 (cast 1950)", 
   "ArtistBio": "(British, 1898\u20131986)", 
-  "DateAcquired": "1951-05-24", 
-  "\ufeffTitle": "Family Group", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81023"
 }

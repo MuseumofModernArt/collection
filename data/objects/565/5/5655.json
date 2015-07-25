@@ -4,22 +4,21 @@
   "Classification": "A&D Graphic Design", 
   "Artist": "Erik Nitsche", 
   "URL": "http://www.moma.org/collection/works/5655", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the General Dynamics Corporation", 
-  "Date": "1958", 
-  "ArtistID": 4311, 
+  "DateAcquired": "1968-03-07", 
   "Keywords": [
-    "online art collection", 
     "Erik Nitsche", 
     "Exploring the Universe", 
     "Nuclear Fusion", 
     "General Dynamics", 
     "1958"
   ], 
+  "ArtistID": 4311, 
+  "Title": "Exploring the Universe, Nuclear Fusion, General Dynamics", 
   "Department": "Architecture & Design", 
   "MoMANumber": "200.1968", 
+  "Date": "1958", 
   "ArtistBio": "(Swiss, 1908\u20131998)", 
-  "DateAcquired": "1968-03-07", 
-  "\ufeffTitle": "Exploring the Universe, Nuclear Fusion, General Dynamics", 
+  "CuratorApproved": "Y", 
   "ObjectID": "5655"
 }

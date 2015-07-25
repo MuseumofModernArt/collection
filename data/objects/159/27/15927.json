@@ -4,12 +4,9 @@
   "Classification": "Periodical", 
   "Artist": "Max Slevogt", 
   "URL": "http://www.moma.org/collection/works/15927", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Mrs. Bertha M. Slattery", 
-  "Date": "1916", 
-  "ArtistID": 5469, 
+  "DateAcquired": "1952-11-07", 
   "Keywords": [
-    "online art collection", 
     "Max Slevogt", 
     "Untitled: Fear of the Average German [O(hne) T(itel)", 
     "(Furcht vor dem deutschen Michel)] (folio 6) from the periodical Der Bildermann", 
@@ -19,10 +16,12 @@
     "3 (May 1916)", 
     "1916"
   ], 
+  "ArtistID": 5469, 
+  "Title": "Untitled: Fear of the Average German [O(hne) T(itel). (Furcht vor dem deutschen Michel)] (folio 6) from the periodical Der Bildermann, vol. 1, no. 3 (May 1916)", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "330.1952.9", 
+  "Date": "1916", 
   "ArtistBio": "(German, 1868\u20131932)", 
-  "DateAcquired": "1952-11-07", 
-  "\ufeffTitle": "Untitled: Fear of the Average German [O(hne) T(itel). (Furcht vor dem deutschen Michel)] (folio 6) from the periodical Der Bildermann, vol. 1, no. 3 (May 1916)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "15927"
 }

@@ -4,12 +4,9 @@
   "Classification": "A&D Graphic Design", 
   "Artist": "Franz Wilhelm Seiwert", 
   "URL": "http://www.moma.org/collection/works/8416", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Jan Tschichold Collection, Gift of Philip Johnson", 
-  "Date": "1929", 
-  "ArtistID": 8238, 
+  "DateAcquired": "1999-12-10", 
   "Keywords": [
-    "online art collection", 
     "Franz Wilhelm Seiwert", 
     "Ausstellung F", 
     "W", 
@@ -19,10 +16,12 @@
     "Becker-Newman", 
     "1929"
   ], 
+  "ArtistID": 8238, 
+  "Title": "Ausstellung F. W. Seiwert, September-Oktober, Galerie Dr. Becker-Newman", 
   "Department": "Architecture & Design", 
   "MoMANumber": "945.1999", 
+  "Date": "1929", 
   "ArtistBio": "(German, 1894\u20131933)", 
-  "DateAcquired": "1999-12-10", 
-  "\ufeffTitle": "Ausstellung F. W. Seiwert, September-Oktober, Galerie Dr. Becker-Newman", 
+  "CuratorApproved": "Y", 
   "ObjectID": "8416"
 }

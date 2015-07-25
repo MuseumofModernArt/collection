@@ -4,21 +4,20 @@
   "Classification": "Illustrated Book", 
   "Artist": "Pablo Picasso", 
   "URL": "http://www.moma.org/collection/works/29413", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The Louis E. Stern Collection", 
-  "Date": "(1936, published 1942)", 
-  "ArtistID": 4609, 
+  "DateAcquired": "1964-10-06", 
   "Keywords": [
-    "online art collection", 
     "Pablo Picasso", 
     "Eaux-Fortes originales pour textes de Buffon", 
     "(1936", 
     "published 1942)"
   ], 
+  "ArtistID": 4609, 
+  "Title": "Eaux-Fortes originales pour textes de Buffon", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "976.1964.1-31", 
+  "Date": "(1936, published 1942)", 
   "ArtistBio": "(Spanish, 1881\u20131973)", 
-  "DateAcquired": "1964-10-06", 
-  "\ufeffTitle": "Eaux-Fortes originales pour textes de Buffon", 
+  "CuratorApproved": "Y", 
   "ObjectID": "29413"
 }

@@ -4,20 +4,19 @@
   "Classification": "Illustrated Book", 
   "Artist": "Kiki Smith", 
   "URL": "http://www.moma.org/collection/works/10090", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Abby Aldrich Rockefeller Fund", 
-  "Date": "1990", 
-  "ArtistID": 5486, 
+  "DateAcquired": "1991-01-23", 
   "Keywords": [
-    "online art collection", 
     "Kiki Smith", 
     "Anemone  from A Bestiary", 
     "1990"
   ], 
+  "ArtistID": 5486, 
+  "Title": "Anemone  from A Bestiary", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "29.1991.20", 
+  "Date": "1990", 
   "ArtistBio": "(American, born Germany 1954)", 
-  "DateAcquired": "1991-01-23", 
-  "\ufeffTitle": "Anemone  from A Bestiary", 
+  "CuratorApproved": "Y", 
   "ObjectID": "10090"
 }

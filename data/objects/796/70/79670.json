@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Bradley Walker Tomlin", 
   "URL": "http://www.moma.org/collection/works/79670", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of John E. Hutchins in memory of Frances E. Marder Hutchins", 
-  "Date": "1948", 
-  "ArtistID": 5896, 
+  "DateAcquired": "1960-11-30", 
   "Keywords": [
-    "online art collection", 
     "Bradley Walker Tomlin", 
     "Number 3", 
     "1948"
   ], 
+  "ArtistID": 5896, 
+  "Title": "Number 3", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "423.1960", 
+  "Date": "1948", 
   "ArtistBio": "(American, 1899\u20131953)", 
-  "DateAcquired": "1960-11-30", 
-  "\ufeffTitle": "Number 3", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79670"
 }

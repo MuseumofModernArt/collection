@@ -4,21 +4,20 @@
   "Classification": "Sculpture", 
   "Artist": "Barbara Hepworth", 
   "URL": "http://www.moma.org/collection/works/89276", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Bequest of Virginia C. Field", 
-  "Date": "1937", 
-  "ArtistID": 2600, 
+  "DateAcquired": "2004-03-09", 
   "Keywords": [
-    "online art collection", 
     "Barbara Hepworth", 
     "Conoid", 
     "Sphere and Hollow", 
     "1937"
   ], 
+  "ArtistID": 2600, 
+  "Title": "Conoid, Sphere and Hollow", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "22.2004", 
+  "Date": "1937", 
   "ArtistBio": "(British, 1903\u20131975)", 
-  "DateAcquired": "2004-03-09", 
-  "\ufeffTitle": "Conoid, Sphere and Hollow", 
+  "CuratorApproved": "Y", 
   "ObjectID": "89276"
 }

@@ -4,21 +4,20 @@
   "Classification": "Painting", 
   "Artist": "Pablo Picasso", 
   "URL": "http://www.moma.org/collection/works/78311", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Mrs. Simon Guggenheim", 
-  "Date": "Boisgeloup, March 1932", 
-  "ArtistID": 4609, 
+  "DateAcquired": "1937-12-17", 
   "Keywords": [
-    "online art collection", 
     "Pablo Picasso", 
     "Girl before a Mirror", 
     "Boisgeloup", 
     "March 1932"
   ], 
+  "ArtistID": 4609, 
+  "Title": "Girl before a Mirror", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "2.1938", 
+  "Date": "Boisgeloup, March 1932", 
   "ArtistBio": "(Spanish, 1881\u20131973)", 
-  "DateAcquired": "1937-12-17", 
-  "\ufeffTitle": "Girl before a Mirror", 
+  "CuratorApproved": "Y", 
   "ObjectID": "78311"
 }

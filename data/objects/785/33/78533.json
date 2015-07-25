@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Jacob Lawrence", 
   "URL": "http://www.moma.org/collection/works/78533", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Mrs. David M. Levy", 
-  "Date": "1940-41", 
-  "ArtistID": 3418, 
+  "DateAcquired": "1942-01-27", 
   "Keywords": [
-    "online art collection", 
     "Jacob Lawrence", 
     "In every home people who had not gone North met and tried to decide if they should go North or not", 
     "1940-41"
   ], 
+  "ArtistID": 3418, 
+  "Title": "In every home people who had not gone North met and tried to decide if they should go North or not", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "28.1942.15", 
+  "Date": "1940-41", 
   "ArtistBio": "(American, 1917\u20132000)", 
-  "DateAcquired": "1942-01-27", 
-  "\ufeffTitle": "In every home people who had not gone North met and tried to decide if they should go North or not", 
+  "CuratorApproved": "Y", 
   "ObjectID": "78533"
 }

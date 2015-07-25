@@ -4,21 +4,20 @@
   "Classification": "Photograph", 
   "Artist": "Larry Fink", 
   "URL": "http://www.moma.org/collection/works/50028", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the photographer", 
-  "Date": "December 1978", 
-  "ArtistID": 1877, 
+  "DateAcquired": "1990-06-07", 
   "Keywords": [
-    "online art collection", 
     "Larry Fink", 
     "Deer Slaying", 
     "Martin's Creek", 
     "December 1978"
   ], 
+  "ArtistID": 1877, 
+  "Title": "Deer Slaying, Martin's Creek", 
   "Department": "Photography", 
   "MoMANumber": "289.1990", 
+  "Date": "December 1978", 
   "ArtistBio": "(American, born 1941)", 
-  "DateAcquired": "1990-06-07", 
-  "\ufeffTitle": "Deer Slaying, Martin's Creek", 
+  "CuratorApproved": "Y", 
   "ObjectID": "50028"
 }

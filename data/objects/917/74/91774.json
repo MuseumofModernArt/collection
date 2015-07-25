@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Joaqu\u00edn Torres-Garc\u00eda", 
   "URL": "http://www.moma.org/collection/works/91774", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Patricia Phelps de Cisneros in honor of David Rockefeller", 
-  "Date": "1938", 
-  "ArtistID": 5907, 
+  "DateAcquired": "2004-06-08", 
   "Keywords": [
-    "online art collection", 
     "Joaqu&iacute;n Torres-Garc&iacute;a", 
     "Construction in White and Black", 
     "1938"
   ], 
+  "ArtistID": 5907, 
+  "Title": "Construction in White and Black", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "331.2004", 
+  "Date": "1938", 
   "ArtistBio": "(Uruguayan, 1874\u20131949)", 
-  "DateAcquired": "2004-06-08", 
-  "\ufeffTitle": "Construction in White and Black", 
+  "CuratorApproved": "Y", 
   "ObjectID": "91774"
 }

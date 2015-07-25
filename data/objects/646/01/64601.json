@@ -4,12 +4,9 @@
   "Classification": "Print", 
   "Artist": "Pablo Picasso", 
   "URL": "http://www.moma.org/collection/works/64601", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Abby Aldrich Rockefeller Fund", 
-  "Date": "April 23, 1933, printed 1939", 
-  "ArtistID": 4609, 
+  "DateAcquired": "1949-03-24", 
   "Keywords": [
-    "online art collection", 
     "Pablo Picasso", 
     "The Embrace", 
     "III from the Vollard Suite", 
@@ -17,10 +14,12 @@
     "1933", 
     "printed 1939"
   ], 
+  "ArtistID": 4609, 
+  "Title": "The Embrace. III from the Vollard Suite", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "218.1949", 
+  "Date": "April 23, 1933, printed 1939", 
   "ArtistBio": "(Spanish, 1881\u20131973)", 
-  "DateAcquired": "1949-03-24", 
-  "\ufeffTitle": "The Embrace. III from the Vollard Suite", 
+  "CuratorApproved": "Y", 
   "ObjectID": "64601"
 }

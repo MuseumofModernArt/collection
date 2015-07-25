@@ -4,20 +4,19 @@
   "Classification": "Drawing", 
   "Artist": "Andy Warhol", 
   "URL": "http://www.moma.org/collection/works/87904", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "(1962)", 
-  "ArtistID": 6246, 
+  "DateAcquired": "2004-02-10", 
   "Keywords": [
-    "online art collection", 
     "Andy Warhol", 
     "Savings Maytag", 
     "(1962)"
   ], 
+  "ArtistID": 6246, 
+  "Title": "Saving Maytag", 
   "Department": "Drawings", 
   "MoMANumber": "18.2004", 
+  "Date": "(1962)", 
   "ArtistBio": "(American, 1928\u20131987)", 
-  "DateAcquired": "2004-02-10", 
-  "\ufeffTitle": "Saving Maytag", 
+  "CuratorApproved": "Y", 
   "ObjectID": "87904"
 }

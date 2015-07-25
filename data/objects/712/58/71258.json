@@ -4,22 +4,21 @@
   "Classification": "Print", 
   "Artist": "Pablo Picasso", 
   "URL": "http://www.moma.org/collection/works/71258", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Riva Castleman Endowment Fund", 
-  "Date": "February 6, 1946", 
-  "ArtistID": 4609, 
+  "DateAcquired": "1997-11-11", 
   "Keywords": [
-    "online art collection", 
     "Pablo Picasso", 
     "Two Nude Women", 
     "state XIX", 
     "February 6", 
     "1946"
   ], 
+  "ArtistID": 4609, 
+  "Title": "Two Nude Women, state XIX", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "567.1997", 
+  "Date": "February 6, 1946", 
   "ArtistBio": "(Spanish, 1881\u20131973)", 
-  "DateAcquired": "1997-11-11", 
-  "\ufeffTitle": "Two Nude Women, state XIX", 
+  "CuratorApproved": "Y", 
   "ObjectID": "71258"
 }

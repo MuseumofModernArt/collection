@@ -4,12 +4,9 @@
   "Classification": "A&D Graphic Design", 
   "Artist": "Cyan, Sophie Alex, Wilhelm Ebentreich, Detlef Fiedler, Daniela Haufe, Siegfried Jablonsky", 
   "URL": "http://www.moma.org/collection/works/8748", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the designer", 
-  "Date": "1996", 
-  "ArtistID": 7517, 
+  "DateAcquired": "2000-12-11", 
   "Keywords": [
-    "online art collection", 
     "Cyan", 
     "Sophie Alex", 
     "Wilhelm Ebentreich", 
@@ -18,10 +15,12 @@
     "Stiftung Bauhaus Dessau Mai 1996", 
     "1996"
   ], 
+  "ArtistID": 7517, 
+  "Title": "Stiftung Bauhaus Dessau Mai 1996", 
   "Department": "Architecture & Design", 
   "MoMANumber": "1449.2000", 
+  "Date": "1996", 
   "ArtistBio": "(German, established 1992) (German, born 1967) (German, born 1952) (German, born 1955) (German, born 1966) (German, born 1950)", 
-  "DateAcquired": "2000-12-11", 
-  "\ufeffTitle": "Stiftung Bauhaus Dessau Mai 1996", 
+  "CuratorApproved": "Y", 
   "ObjectID": "8748"
 }

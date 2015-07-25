@@ -4,20 +4,19 @@
   "Classification": "Photograph", 
   "Artist": "Unknown photographer", 
   "URL": "http://www.moma.org/collection/works/58812", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The New York Times Collection", 
-  "Date": "1934", 
-  "ArtistID": 6028, 
+  "DateAcquired": "2001-06-14", 
   "Keywords": [
-    "online art collection", 
     "Unknown Photographer", 
     "\"Car in which Clyde Burrows and Bonnie Parker Were Riddled with Bullets\"", 
     "1934"
   ], 
+  "ArtistID": 6028, 
+  "Title": "\"Car in which Clyde Burrows and Bonnie Parker Were Riddled with Bullets\"", 
   "Department": "Photography", 
   "MoMANumber": "2219.2001", 
+  "Date": "1934", 
   "ArtistBio": "", 
-  "DateAcquired": "2001-06-14", 
-  "\ufeffTitle": "\"Car in which Clyde Burrows and Bonnie Parker Were Riddled with Bullets\"", 
+  "CuratorApproved": "Y", 
   "ObjectID": "58812"
 }

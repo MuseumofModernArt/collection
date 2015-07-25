@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Karl Schmidt-Rottluff", 
   "URL": "http://www.moma.org/collection/works/79016", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gertrud A. Mellon Fund", 
-  "Date": "1912", 
-  "ArtistID": 5242, 
+  "DateAcquired": "1955-06-16", 
   "Keywords": [
-    "online art collection", 
     "Karl Schmidt-Rottluff", 
     "Pharisees", 
     "1912"
   ], 
+  "ArtistID": 5242, 
+  "Title": "Pharisees", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "160.1955", 
+  "Date": "1912", 
   "ArtistBio": "(German, 1884\u20131976)", 
-  "DateAcquired": "1955-06-16", 
-  "\ufeffTitle": "Pharisees", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79016"
 }

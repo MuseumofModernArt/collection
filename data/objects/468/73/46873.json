@@ -4,20 +4,19 @@
   "Classification": "Photograph", 
   "Artist": "Edward Steichen", 
   "URL": "http://www.moma.org/collection/works/46873", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the photographer", 
-  "Date": "1900", 
-  "ArtistID": 5623, 
+  "DateAcquired": "1961-05-16", 
   "Keywords": [
-    "online art collection", 
     "Edward Steichen", 
     "Self-Portrait with Sister", 
     "1900"
   ], 
+  "ArtistID": 5623, 
+  "Title": "Self-Portrait with Sister", 
   "Department": "Photography", 
   "MoMANumber": "146.1961", 
+  "Date": "1900", 
   "ArtistBio": "(American, born Luxembourg. 1879\u20131973)", 
-  "DateAcquired": "1961-05-16", 
-  "\ufeffTitle": "Self-Portrait with Sister", 
+  "CuratorApproved": "Y", 
   "ObjectID": "46873"
 }

@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Roderic O'Conor", 
   "URL": "http://www.moma.org/collection/works/79339", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Acquired through the Lillie P. Bliss Bequest", 
-  "Date": "1892", 
-  "ArtistID": 4354, 
+  "DateAcquired": "1956-10-09", 
   "Keywords": [
-    "online art collection", 
     "Roderic O'Conor", 
     "The Glade", 
     "1892"
   ], 
+  "ArtistID": 4354, 
+  "Title": "The Glade", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "270.1956", 
+  "Date": "1892", 
   "ArtistBio": "(Irish, 1860\u20131940)", 
-  "DateAcquired": "1956-10-09", 
-  "\ufeffTitle": "The Glade", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79339"
 }

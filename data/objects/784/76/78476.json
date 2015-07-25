@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Max Weber", 
   "URL": "http://www.moma.org/collection/works/78476", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Acquired through the Richard D. Brixey Bequest", 
-  "Date": "1917", 
-  "ArtistID": 6275, 
+  "DateAcquired": "1944-03-14", 
   "Keywords": [
-    "online art collection", 
     "Max Weber", 
     "The Two Musicians", 
     "1917"
   ], 
+  "ArtistID": 6275, 
+  "Title": "The Two Musicians", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "19.1944", 
+  "Date": "1917", 
   "ArtistBio": "(American, born Russia. 1881\u20131961)", 
-  "DateAcquired": "1944-03-14", 
-  "\ufeffTitle": "The Two Musicians", 
+  "CuratorApproved": "Y", 
   "ObjectID": "78476"
 }

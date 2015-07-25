@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Mel Bochner", 
   "URL": "http://www.moma.org/collection/works/68373", 
-  "CuratorApproved": "Y", 
   "CreditLine": "John B. Turner Fund", 
-  "Date": "1990", 
-  "ArtistID": 625, 
+  "DateAcquired": "1990-10-23", 
   "Keywords": [
-    "online art collection", 
     "Mel Bochner", 
     "Untitled from the portfolio Floating World", 
     "1990"
   ], 
+  "ArtistID": 625, 
+  "Title": "Untitled from the portfolio Floating World", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "394.1990", 
+  "Date": "1990", 
   "ArtistBio": "(American, born 1940)", 
-  "DateAcquired": "1990-10-23", 
-  "\ufeffTitle": "Untitled from the portfolio Floating World", 
+  "CuratorApproved": "Y", 
   "ObjectID": "68373"
 }

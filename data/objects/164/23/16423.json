@@ -4,12 +4,9 @@
   "Classification": "Illustrated Book", 
   "Artist": "Vasily Kandinsky", 
   "URL": "http://www.moma.org/collection/works/16423", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase Fund", 
-  "Date": "1949 (executed 1908-1909, reprinted posthumously).", 
-  "ArtistID": 2981, 
+  "DateAcquired": "1951-05-24", 
   "Keywords": [
-    "online art collection", 
     "Vasily Kandinsky", 
     "The Archer (Bogensch&uuml;tze) (plate facing page 14) from Onze Peintres (Eleven Painters): Taeuber", 
     "Kandinsky", 
@@ -25,10 +22,12 @@
     "1949 (executed 1908-1909", 
     "reprinted posthumously),"
   ], 
+  "ArtistID": 2981, 
+  "Title": "The Archer (Bogensch\u00fctze) (plate facing page 14) from Onze Peintres (Eleven Painters): Taeuber, Kandinsky, Leuppi, Vordemberge, Arp, Delaunay, Schwitters, Kiesler, Morris, Magnelli, Ernst", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "375.1951.2", 
+  "Date": "1949 (executed 1908-1909, reprinted posthumously).", 
   "ArtistBio": "(French, born Russia. 1866\u20131944)", 
-  "DateAcquired": "1951-05-24", 
-  "\ufeffTitle": "The Archer (Bogensch\u00fctze) (plate facing page 14) from Onze Peintres (Eleven Painters): Taeuber, Kandinsky, Leuppi, Vordemberge, Arp, Delaunay, Schwitters, Kiesler, Morris, Magnelli, Ernst", 
+  "CuratorApproved": "Y", 
   "ObjectID": "16423"
 }

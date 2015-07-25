@@ -4,21 +4,20 @@
   "Classification": "Painting", 
   "Artist": "Richard Pettibone", 
   "URL": "http://www.moma.org/collection/works/79576", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Laura-Lee and Robert Woods", 
-  "Date": "1968", 
-  "ArtistID": 4587, 
+  "DateAcquired": "1992-06-08", 
   "Keywords": [
-    "online art collection", 
     "Richard Pettibone", 
     "Frank Stella", 
     "\"Darabjerd II,\" 1967", 
     "1968"
   ], 
+  "ArtistID": 4587, 
+  "Title": "Frank Stella, \"Darabjerd II,\" 1967", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "384.1992.10", 
+  "Date": "1968", 
   "ArtistBio": "(American, born 1938)", 
-  "DateAcquired": "1992-06-08", 
-  "\ufeffTitle": "Frank Stella, \"Darabjerd II,\" 1967", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79576"
 }

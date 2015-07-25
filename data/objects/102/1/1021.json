@@ -4,12 +4,9 @@
   "Classification": "A&D Architectural Model", 
   "Artist": "Michael Graves, Timothy Wood, Peter Waldman, Peter Carl, Robert White, Christopher Chimera", 
   "URL": "http://www.moma.org/collection/works/1021", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Mr. and Mrs. Robert M. Meltzer", 
-  "Date": "1967\u20131968", 
-  "ArtistID": 2308, 
+  "DateAcquired": "1982-10-27", 
   "Keywords": [
-    "online art collection", 
     "Michael Graves with Assistants: Timothy Wood", 
     "Peter Waldman", 
     "Peter Carl", 
@@ -19,10 +16,12 @@
     "Indiana", 
     "1967-68"
   ], 
+  "ArtistID": 2308, 
+  "Title": "Hanselmann House, Fort Wayne, Indiana", 
   "Department": "Architecture & Design", 
   "MoMANumber": "398.1982", 
+  "Date": "1967\u20131968", 
   "ArtistBio": "(American, 1934\u20132015)", 
-  "DateAcquired": "1982-10-27", 
-  "\ufeffTitle": "Hanselmann House, Fort Wayne, Indiana", 
+  "CuratorApproved": "Y", 
   "ObjectID": "1021"
 }

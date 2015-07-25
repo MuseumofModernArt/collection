@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Neil Jenney", 
   "URL": "http://www.moma.org/collection/works/100283", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Edward R. Broida", 
-  "Date": "1971-76", 
-  "ArtistID": 2904, 
+  "DateAcquired": "2005-10-06", 
   "Keywords": [
-    "online art collection", 
     "Neil Jenney", 
     "Biosphere #4", 
     "1971-76"
   ], 
+  "ArtistID": 2904, 
+  "Title": "Biosphere #4", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "743.2005.a-b", 
+  "Date": "1971-76", 
   "ArtistBio": "(American, born 1945)", 
-  "DateAcquired": "2005-10-06", 
-  "\ufeffTitle": "Biosphere #4", 
+  "CuratorApproved": "Y", 
   "ObjectID": "100283"
 }

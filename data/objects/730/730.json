@@ -4,12 +4,9 @@
   "Classification": "A&D Mies van der Rohe Archive", 
   "Artist": "Ludwig Mies van der Rohe", 
   "URL": "http://www.moma.org/collection/works/730", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Mies van der Rohe Archive, gift of the architect", 
-  "Date": "1932", 
-  "ArtistID": 7166, 
+  "DateAcquired": "1963-12-10", 
   "Keywords": [
-    "online art collection", 
     "Ludwig Mies van der Rohe", 
     "Gericke House Project", 
     "Berlin-Wannsee", 
@@ -17,10 +14,12 @@
     "Perspective of garden", 
     "1932"
   ], 
+  "ArtistID": 7166, 
+  "Title": "Gericke House Project, Berlin-Wannsee, Germany, Perspective of garden", 
   "Department": "Architecture & Design", 
   "MoMANumber": "697.1963", 
+  "Date": "1932", 
   "ArtistBio": "(American, born Germany. 1886\u20131969)", 
-  "DateAcquired": "1963-12-10", 
-  "\ufeffTitle": "Gericke House Project, Berlin-Wannsee, Germany, Perspective of garden", 
+  "CuratorApproved": "Y", 
   "ObjectID": "730"
 }

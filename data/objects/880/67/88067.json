@@ -4,20 +4,19 @@
   "Classification": "Photograph", 
   "Artist": "Andreas Gursky", 
   "URL": "http://www.moma.org/collection/works/88067", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Thomas W. Weisel", 
-  "Date": "1999", 
-  "ArtistID": 7806, 
+  "DateAcquired": "2002-12-12", 
   "Keywords": [
-    "online art collection", 
     "Andreas Gursky", 
     "Rhine II", 
     "1999"
   ], 
+  "ArtistID": 7806, 
+  "Title": "Rhine II", 
   "Department": "Photography", 
   "MoMANumber": "416.2002", 
+  "Date": "1999", 
   "ArtistBio": "(German, born 1955)", 
-  "DateAcquired": "2002-12-12", 
-  "\ufeffTitle": "Rhine II", 
+  "CuratorApproved": "Y", 
   "ObjectID": "88067"
 }

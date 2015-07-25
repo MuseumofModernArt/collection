@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Augusto Giacometti", 
   "URL": "http://www.moma.org/collection/works/80708", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Louise Reinhardt Smith Fund", 
-  "Date": "1917", 
-  "ArtistID": 2142, 
+  "DateAcquired": "1967-12-13", 
   "Keywords": [
-    "online art collection", 
     "Augusto Giacometti", 
     "Summer Night", 
     "1917"
   ], 
+  "ArtistID": 2142, 
+  "Title": "Summer Night", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "2518.1967", 
+  "Date": "1917", 
   "ArtistBio": "(Swiss, 1877\u20131947)", 
-  "DateAcquired": "1967-12-13", 
-  "\ufeffTitle": "Summer Night", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80708"
 }

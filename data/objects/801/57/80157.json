@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Paul Klee", 
   "URL": "http://www.moma.org/collection/works/80157", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of J. B. Neumann", 
-  "Date": "1930", 
-  "ArtistID": 3130, 
+  "DateAcquired": "1939-12-08", 
   "Keywords": [
-    "online art collection", 
     "Paul Klee", 
     "\"Or The Mocked Mocker\"", 
     "1930"
   ], 
+  "ArtistID": 3130, 
+  "Title": "\"Or The Mocked Mocker\"", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "637.1939", 
+  "Date": "1930", 
   "ArtistBio": "(German, born Switzerland. 1879\u20131940)", 
-  "DateAcquired": "1939-12-08", 
-  "\ufeffTitle": "\"Or The Mocked Mocker\"", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80157"
 }

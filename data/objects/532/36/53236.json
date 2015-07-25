@@ -4,21 +4,20 @@
   "Classification": "Photograph", 
   "Artist": "Lee Friedlander", 
   "URL": "http://www.moma.org/collection/works/53236", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1970", 
-  "ArtistID": 2002, 
+  "DateAcquired": "2000-10-12", 
   "Keywords": [
-    "online art collection", 
     "Lee Friedlander", 
     "San Francisco", 
     "California", 
     "1970"
   ], 
+  "ArtistID": 2002, 
+  "Title": "San Francisco, California", 
   "Department": "Photography", 
   "MoMANumber": "427.2000", 
+  "Date": "1970", 
   "ArtistBio": "(American, born 1934)", 
-  "DateAcquired": "2000-10-12", 
-  "\ufeffTitle": "San Francisco, California", 
+  "CuratorApproved": "Y", 
   "ObjectID": "53236"
 }

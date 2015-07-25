@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Alexander Olbricht", 
   "URL": "http://www.moma.org/collection/works/70846", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Given anonymously", 
-  "Date": "unknown", 
-  "ArtistID": 4395, 
+  "DateAcquired": "1942-11-19", 
   "Keywords": [
-    "online art collection", 
     "Alexander Olbricht", 
     "Ornamental Composition (Dekorative Komposition)", 
     "unknown"
   ], 
+  "ArtistID": 4395, 
+  "Title": "Ornamental Composition (Dekorative Komposition)", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "542.1942", 
+  "Date": "unknown", 
   "ArtistBio": "(German, 1876\u20131942)", 
-  "DateAcquired": "1942-11-19", 
-  "\ufeffTitle": "Ornamental Composition (Dekorative Komposition)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "70846"
 }

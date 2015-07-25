@@ -4,20 +4,19 @@
   "Classification": "A&D Graphic Design", 
   "Artist": "Walter Dexel", 
   "URL": "http://www.moma.org/collection/works/7861", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Jan Tschichold Collection, Gift of Philip Johnson", 
-  "Date": "1925", 
-  "ArtistID": 1520, 
+  "DateAcquired": "1999-12-10", 
   "Keywords": [
-    "online art collection", 
     "Walter Dexel", 
     "Ausstellung Kandinsky", 
     "1925"
   ], 
+  "ArtistID": 1520, 
+  "Title": "Ausstellung Kandinsky", 
   "Department": "Architecture & Design", 
   "MoMANumber": "655.1999", 
+  "Date": "1925", 
   "ArtistBio": "(German, 1890\u20131973)", 
-  "DateAcquired": "1999-12-10", 
-  "\ufeffTitle": "Ausstellung Kandinsky", 
+  "CuratorApproved": "Y", 
   "ObjectID": "7861"
 }

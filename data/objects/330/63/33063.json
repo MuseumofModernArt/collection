@@ -4,20 +4,19 @@
   "Classification": "Drawing", 
   "Artist": "Paul Klee", 
   "URL": "http://www.moma.org/collection/works/33063", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "(1937)", 
-  "ArtistID": 3130, 
+  "DateAcquired": "1939-01-06", 
   "Keywords": [
-    "online art collection", 
     "Paul Klee", 
     "Letter Ghost (Geist eines Briefes)", 
     "(1937)"
   ], 
+  "ArtistID": 3130, 
+  "Title": "Letter Ghost (Geist eines Briefes)", 
   "Department": "Drawings", 
   "MoMANumber": "8.1939", 
+  "Date": "(1937)", 
   "ArtistBio": "(German, born Switzerland. 1879\u20131940)", 
-  "DateAcquired": "1939-01-06", 
-  "\ufeffTitle": "Letter Ghost (Geist eines Briefes)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "33063"
 }

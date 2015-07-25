@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Robert Rauschenberg", 
   "URL": "http://www.moma.org/collection/works/62104", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Emily Fisher Landau", 
-  "Date": "1995", 
-  "ArtistID": 4823, 
+  "DateAcquired": "1995-05-03", 
   "Keywords": [
-    "online art collection", 
     "Robert Rauschenberg", 
     "Street Sounds East", 
     "1995"
   ], 
+  "ArtistID": 4823, 
+  "Title": "Street Sounds East", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "116.1995", 
+  "Date": "1995", 
   "ArtistBio": "(American, 1925\u20132008)", 
-  "DateAcquired": "1995-05-03", 
-  "\ufeffTitle": "Street Sounds East", 
+  "CuratorApproved": "Y", 
   "ObjectID": "62104"
 }

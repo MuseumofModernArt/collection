@@ -4,12 +4,9 @@
   "Classification": "Photograph", 
   "Artist": "William H. Bell", 
   "URL": "http://www.moma.org/collection/works/51053", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1872", 
-  "ArtistID": 446, 
+  "DateAcquired": "1981-10-15", 
   "Keywords": [
-    "online art collection", 
     "William H", 
     "Bell", 
     "Perched Rock", 
@@ -17,10 +14,12 @@
     "Arizona", 
     "1872"
   ], 
+  "ArtistID": 446, 
+  "Title": "Perched Rock, Rocker Creek, Arizona", 
   "Department": "Photography", 
   "MoMANumber": "334.1981", 
+  "Date": "1872", 
   "ArtistBio": "(American, 1830\u20131910)", 
-  "DateAcquired": "1981-10-15", 
-  "\ufeffTitle": "Perched Rock, Rocker Creek, Arizona", 
+  "CuratorApproved": "Y", 
   "ObjectID": "51053"
 }

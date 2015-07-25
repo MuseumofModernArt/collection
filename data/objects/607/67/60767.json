@@ -4,12 +4,9 @@
   "Classification": "Print", 
   "Artist": "Christian Rohlfs", 
   "URL": "http://www.moma.org/collection/works/60767", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Matthew T. Mellon Foundation Fund", 
-  "Date": ".a (c. 1913) .b (c. 1913) .c (c. 1913)", 
-  "ArtistID": 5000, 
+  "DateAcquired": "1962-01-09", 
   "Keywords": [
-    "online art collection", 
     "Christian Rohlfs", 
     ",a Two Dancers (Zwei Tanzende) ,b Conversation (Unterredung) ,c Conversation", 
     "(Unterredung) [partial stencil]", 
@@ -18,10 +15,12 @@
     "1913) ,c (c", 
     "1913)"
   ], 
+  "ArtistID": 5000, 
+  "Title": ".a Two Dancers (Zwei Tanzende) .b Conversation (Unterredung) .c Conversation,  (Unterredung) [partial stencil]", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "42.1962.a-c", 
+  "Date": ".a (c. 1913) .b (c. 1913) .c (c. 1913)", 
   "ArtistBio": "(German, 1849\u20131938)", 
-  "DateAcquired": "1962-01-09", 
-  "\ufeffTitle": ".a Two Dancers (Zwei Tanzende) .b Conversation (Unterredung) .c Conversation,  (Unterredung) [partial stencil]", 
+  "CuratorApproved": "Y", 
   "ObjectID": "60767"
 }

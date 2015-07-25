@@ -4,12 +4,9 @@
   "Classification": "Print", 
   "Artist": "Christian Rohlfs", 
   "URL": "http://www.moma.org/collection/works/60711", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Matthew T. Mellon Foundation Fund", 
-  "Date": "(c. 1913, published 1923)", 
-  "ArtistID": 5000, 
+  "DateAcquired": "1962-01-09", 
   "Keywords": [
-    "online art collection", 
     "Christian Rohlfs", 
     "Two Dancers (Zwei Tanzende) from the portfolio New European Graphics", 
     "5th Portfolio: German Artists", 
@@ -21,10 +18,12 @@
     "1913", 
     "published 1923)"
   ], 
+  "ArtistID": 5000, 
+  "Title": "Two Dancers (Zwei Tanzende) from the portfolio New European Graphics, 5th Portfolio: German Artists, 1921 (Neue Europ\u00e4ische Graphik, 5. Mappe: Deutsche K\u00fcnstler, 1921)", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "41.1962", 
+  "Date": "(c. 1913, published 1923)", 
   "ArtistBio": "(German, 1849\u20131938)", 
-  "DateAcquired": "1962-01-09", 
-  "\ufeffTitle": "Two Dancers (Zwei Tanzende) from the portfolio New European Graphics, 5th Portfolio: German Artists, 1921 (Neue Europ\u00e4ische Graphik, 5. Mappe: Deutsche K\u00fcnstler, 1921)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "60711"
 }

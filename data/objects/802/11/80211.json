@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "C\u00e2ndido Portinari", 
   "URL": "http://www.moma.org/collection/works/80211", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Abby Aldrich Rockefeller Fund", 
-  "Date": "1933", 
-  "ArtistID": 4705, 
+  "DateAcquired": "1939-12-08", 
   "Keywords": [
-    "online art collection", 
     "C&acirc;ndido Portinari", 
     "Hill", 
     "1933"
   ], 
+  "ArtistID": 4705, 
+  "Title": "Hill", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "663.1939", 
+  "Date": "1933", 
   "ArtistBio": "(Brazilian, 1903\u20131962)", 
-  "DateAcquired": "1939-12-08", 
-  "\ufeffTitle": "Hill", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80211"
 }

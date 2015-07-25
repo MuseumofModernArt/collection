@@ -4,21 +4,20 @@
   "Classification": "Drawing", 
   "Artist": "John Marin", 
   "URL": "http://www.moma.org/collection/works/35010", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Philip L. Goodwin", 
-  "Date": "1931", 
-  "ArtistID": 3770, 
+  "DateAcquired": "1934-12-20", 
   "Keywords": [
-    "online art collection", 
     "John Marin", 
     "Buoy", 
     "Maine", 
     "1931"
   ], 
+  "ArtistID": 3770, 
+  "Title": "Buoy, Maine", 
   "Department": "Drawings", 
   "MoMANumber": "170.1934", 
+  "Date": "1931", 
   "ArtistBio": "(American, 1870\u20131953)", 
-  "DateAcquired": "1934-12-20", 
-  "\ufeffTitle": "Buoy, Maine", 
+  "CuratorApproved": "Y", 
   "ObjectID": "35010"
 }

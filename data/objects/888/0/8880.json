@@ -4,21 +4,20 @@
   "Classification": "A&D Graphic Design", 
   "Artist": "Howard Chandler Christy", 
   "URL": "http://www.moma.org/collection/works/8880", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Abby Aldrich Rockefeller", 
-  "Date": "1919", 
-  "ArtistID": 1116, 
+  "DateAcquired": "1940-04-05", 
   "Keywords": [
-    "online art collection", 
     "Howard Chandler Christy", 
     "Americans All!", 
     "Victory Liberty Loan", 
     "1919"
   ], 
+  "ArtistID": 1116, 
+  "Title": "Americans All!", 
   "Department": "Architecture & Design", 
   "MoMANumber": "1575.1940", 
+  "Date": "1919", 
   "ArtistBio": "(American, 1872\u20131952)", 
-  "DateAcquired": "1940-04-05", 
-  "\ufeffTitle": "Americans All!", 
+  "CuratorApproved": "Y", 
   "ObjectID": "8880"
 }

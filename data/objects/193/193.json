@@ -4,12 +4,9 @@
   "Classification": "A&D Architectural Drawing", 
   "Artist": "Paul Rudolph", 
   "URL": "http://www.moma.org/collection/works/193", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the architect", 
-  "Date": "1958-64", 
-  "ArtistID": 5076, 
+  "DateAcquired": "1989-05-16", 
   "Keywords": [
-    "online art collection", 
     "Paul Rudolph", 
     "Yale University", 
     "Art and Architecture Building", 
@@ -18,10 +15,12 @@
     "Elevation", 
     "1958-64"
   ], 
+  "ArtistID": 5076, 
+  "Title": "Yale University, Art and Architecture Building, New Haven, Connecticut, Elevation", 
   "Department": "Architecture & Design", 
   "MoMANumber": "98.1989", 
+  "Date": "1958-64", 
   "ArtistBio": "(American, 1918\u20131997)", 
-  "DateAcquired": "1989-05-16", 
-  "\ufeffTitle": "Yale University, Art and Architecture Building, New Haven, Connecticut, Elevation", 
+  "CuratorApproved": "Y", 
   "ObjectID": "193"
 }

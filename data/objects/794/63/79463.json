@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Andr\u00e9 Derain", 
   "URL": "http://www.moma.org/collection/works/79463", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Fractional gift of Mr. and Mrs. David Rockefeller", 
-  "Date": "London 1905-06", 
-  "ArtistID": 1500, 
+  "DateAcquired": "1992-06-08", 
   "Keywords": [
-    "online art collection", 
     "Andr&eacute; Derain", 
     "Charing Cross Bridge", 
     "London 1905-06"
   ], 
+  "ArtistID": 1500, 
+  "Title": "Charing Cross Bridge", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "302.1992", 
+  "Date": "London 1905-06", 
   "ArtistBio": "(French, 1880\u20131954)", 
-  "DateAcquired": "1992-06-08", 
-  "\ufeffTitle": "Charing Cross Bridge", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79463"
 }

@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Katharina Fritsch", 
   "URL": "http://www.moma.org/collection/works/81913", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Acquisition from Werner and Elaine Dannheisser", 
-  "Date": "1985", 
-  "ArtistID": 2016, 
+  "DateAcquired": "1996-12-19", 
   "Keywords": [
-    "online art collection", 
     "Katharina Fritsch", 
     "Black Table with Table Ware", 
     "1985"
   ], 
+  "ArtistID": 2016, 
+  "Title": "Black Table with Table Ware", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "881.1996.a-q", 
+  "Date": "1985", 
   "ArtistBio": "(German, born 1956)", 
-  "DateAcquired": "1996-12-19", 
-  "\ufeffTitle": "Black Table with Table Ware", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81913"
 }

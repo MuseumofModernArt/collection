@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "John McLaughlin", 
   "URL": "http://www.moma.org/collection/works/80510", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The Riklis Collection of McCrory Corporation", 
-  "Date": "1951", 
-  "ArtistID": 3888, 
+  "DateAcquired": "1985-10-25", 
   "Keywords": [
-    "online art collection", 
     "John McLaughlin", 
     "Untitled", 
     "1951"
   ], 
+  "ArtistID": 3888, 
+  "Title": "Untitled", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "1048.1983", 
+  "Date": "1951", 
   "ArtistBio": "(American, 1898\u20131976)", 
-  "DateAcquired": "1985-10-25", 
-  "\ufeffTitle": "Untitled", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80510"
 }

@@ -4,21 +4,20 @@
   "Classification": "Print", 
   "Artist": "John Paul Jones", 
   "URL": "http://www.moma.org/collection/works/75177", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Kleiner, Bell & Co.", 
-  "Date": "(December 11-19, 1962)", 
-  "ArtistID": 2935, 
+  "DateAcquired": "1969-12-04", 
   "Keywords": [
-    "online art collection", 
     "John Paul Jones", 
     "Brown Knight", 
     "(December 11-19", 
     "1962)"
   ], 
+  "ArtistID": 2935, 
+  "Title": "Brown Knight", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "1009.1967", 
+  "Date": "(December 11-19, 1962)", 
   "ArtistBio": "(American, 1924\u20131999)", 
-  "DateAcquired": "1969-12-04", 
-  "\ufeffTitle": "Brown Knight", 
+  "CuratorApproved": "Y", 
   "ObjectID": "75177"
 }

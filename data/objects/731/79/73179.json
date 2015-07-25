@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Karl Schrag", 
   "URL": "http://www.moma.org/collection/works/73179", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Dan Redmon", 
-  "Date": "1993", 
-  "ArtistID": 5268, 
+  "DateAcquired": "1993-11-17", 
   "Keywords": [
-    "online art collection", 
     "Karl Schrag", 
     "My Room-Bright Night", 
     "1993"
   ], 
+  "ArtistID": 5268, 
+  "Title": "My Room-Bright Night", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "691.1993", 
+  "Date": "1993", 
   "ArtistBio": "(American, born 1912)", 
-  "DateAcquired": "1993-11-17", 
-  "\ufeffTitle": "My Room-Bright Night", 
+  "CuratorApproved": "Y", 
   "ObjectID": "73179"
 }

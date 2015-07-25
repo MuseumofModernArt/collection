@@ -4,12 +4,9 @@
   "Classification": "A&D Architectural Drawing", 
   "Artist": "Mario Botta", 
   "URL": "http://www.moma.org/collection/works/635", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the architect", 
-  "Date": "1985", 
-  "ArtistID": 696, 
+  "DateAcquired": "1987-11-18", 
   "Keywords": [
-    "online art collection", 
     "Mario Botta", 
     "Urban Housing", 
     "Turin", 
@@ -17,10 +14,12 @@
     "Aerial perspective", 
     "1985"
   ], 
+  "ArtistID": 696, 
+  "Title": "Urban Housing, Turin, Italy, Aerial perspective", 
   "Department": "Architecture & Design", 
   "MoMANumber": "434.1987", 
+  "Date": "1985", 
   "ArtistBio": "(Swiss, born 1943)", 
-  "DateAcquired": "1987-11-18", 
-  "\ufeffTitle": "Urban Housing, Turin, Italy, Aerial perspective", 
+  "CuratorApproved": "Y", 
   "ObjectID": "635"
 }

@@ -4,12 +4,9 @@
   "Classification": "A&D Architectural Drawing", 
   "Artist": "Leon Krier", 
   "URL": "http://www.moma.org/collection/works/544", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1985", 
-  "ArtistID": 3250, 
+  "DateAcquired": "1985-11-18", 
   "Keywords": [
-    "online art collection", 
     "Leon Krier", 
     "The Completion of Washington", 
     "D,C,", 
@@ -20,10 +17,12 @@
     "Perspective", 
     "1985"
   ], 
+  "ArtistID": 3250, 
+  "Title": "The Completion of Washington, D.C., project, Corrections to the Capitol Buildings, The Grand Perron, The New Constitution Square, Perspective", 
   "Department": "Architecture & Design", 
   "MoMANumber": "400.1985", 
+  "Date": "1985", 
   "ArtistBio": "(Luxembourgish, born 1946)", 
-  "DateAcquired": "1985-11-18", 
-  "\ufeffTitle": "The Completion of Washington, D.C., project, Corrections to the Capitol Buildings, The Grand Perron, The New Constitution Square, Perspective", 
+  "CuratorApproved": "Y", 
   "ObjectID": "544"
 }

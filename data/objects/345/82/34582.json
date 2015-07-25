@@ -4,20 +4,19 @@
   "Classification": "Drawing", 
   "Artist": "Amedeo Modigliani", 
   "URL": "http://www.moma.org/collection/works/34582", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The Joan and Lester Avnet Collection", 
-  "Date": "(1910-11)", 
-  "ArtistID": 4038, 
+  "DateAcquired": "1978-04-04", 
   "Keywords": [
-    "online art collection", 
     "Amedeo Modigliani", 
     "Woman in Profile", 
     "(1910-11)"
   ], 
+  "ArtistID": 4038, 
+  "Title": "Woman in Profile", 
   "Department": "Drawings", 
   "MoMANumber": "134.1978", 
+  "Date": "(1910-11)", 
   "ArtistBio": "(Italian, 1884\u20131920)", 
-  "DateAcquired": "1978-04-04", 
-  "\ufeffTitle": "Woman in Profile", 
+  "CuratorApproved": "Y", 
   "ObjectID": "34582"
 }

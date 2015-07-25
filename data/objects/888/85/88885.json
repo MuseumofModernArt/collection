@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Ellsworth Kelly", 
   "URL": "http://www.moma.org/collection/works/88885", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Kathy and Richard S. Fuld, Jr.", 
-  "Date": "2003", 
-  "ArtistID": 3048, 
+  "DateAcquired": "2003-10-07", 
   "Keywords": [
-    "online art collection", 
     "Ellsworth Kelly", 
     "White Relief over White", 
     "2003"
   ], 
+  "ArtistID": 3048, 
+  "Title": "White Relief over White", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "250.2003", 
+  "Date": "2003", 
   "ArtistBio": "(American, born 1923)", 
-  "DateAcquired": "2003-10-07", 
-  "\ufeffTitle": "White Relief over White", 
+  "CuratorApproved": "Y", 
   "ObjectID": "88885"
 }

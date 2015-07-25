@@ -4,12 +4,9 @@
   "Classification": "A&D Architectural Model", 
   "Artist": "Kazuyo Sejima & Associates", 
   "URL": "http://www.moma.org/collection/works/1043", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the architect in honor of Philip Johnson", 
-  "Date": "1992-94", 
-  "ArtistID": 7563, 
+  "DateAcquired": "1996-09-25", 
   "Keywords": [
-    "online art collection", 
     "Kazuyo Sejima & Associates", 
     "Villa in the Forest", 
     "Chino", 
@@ -17,10 +14,12 @@
     "Japan", 
     "1992-94"
   ], 
+  "ArtistID": 7563, 
+  "Title": "Villa in the Forest, Chino, Nagano, Japan", 
   "Department": "Architecture & Design", 
   "MoMANumber": "422.1996", 
+  "Date": "1992-94", 
   "ArtistBio": "(Japanese, established 1987)", 
-  "DateAcquired": "1996-09-25", 
-  "\ufeffTitle": "Villa in the Forest, Chino, Nagano, Japan", 
+  "CuratorApproved": "Y", 
   "ObjectID": "1043"
 }

@@ -4,12 +4,9 @@
   "Classification": "A&D Mies van der Rohe Archive", 
   "Artist": "Ludwig Mies van der Rohe", 
   "URL": "http://www.moma.org/collection/works/87612", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Mies van der Rohe Archive, gift of the architect\r\n", 
-  "Date": "1933", 
-  "ArtistID": 7166, 
+  "DateAcquired": "", 
   "Keywords": [
-    "online art collection", 
     "Ludwig Mies van der Rohe", 
     "Reichsbank Project", 
     "Berlin-Mitte", 
@@ -17,10 +14,12 @@
     "Perspective view study of rear facade", 
     "1933"
   ], 
+  "ArtistID": 7166, 
+  "Title": "Reichsbank Project, Berlin-Mitte, Germany, Perspective view study of rear facade", 
   "Department": "Architecture & Design", 
   "MoMANumber": "MR5.4", 
+  "Date": "1933", 
   "ArtistBio": "(American, born Germany. 1886\u20131969)", 
-  "DateAcquired": "", 
-  "\ufeffTitle": "Reichsbank Project, Berlin-Mitte, Germany, Perspective view study of rear facade", 
+  "CuratorApproved": "Y", 
   "ObjectID": "87612"
 }

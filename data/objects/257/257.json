@@ -4,21 +4,20 @@
   "Classification": "A&D Architectural Model", 
   "Artist": "David Jacob", 
   "URL": "http://www.moma.org/collection/works/257", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Est\u00e9e and Joseph Lauder Design Fund", 
-  "Date": "1970", 
-  "ArtistID": 2864, 
+  "DateAcquired": "1973-05-08", 
   "Keywords": [
-    "online art collection", 
     "David Jacob", 
     "Simulated Dwelling for a Family of Five", 
     "project", 
     "1970"
   ], 
+  "ArtistID": 2864, 
+  "Title": "Simulated Dwelling for a Family of Five Project", 
   "Department": "Architecture & Design", 
   "MoMANumber": "194.1973", 
+  "Date": "1970", 
   "ArtistBio": "(American, born 1928)", 
-  "DateAcquired": "1973-05-08", 
-  "\ufeffTitle": "Simulated Dwelling for a Family of Five Project", 
+  "CuratorApproved": "Y", 
   "ObjectID": "257"
 }

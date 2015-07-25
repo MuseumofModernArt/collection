@@ -4,21 +4,20 @@
   "Classification": "Photograph", 
   "Artist": "Unknown photographer", 
   "URL": "http://www.moma.org/collection/works/98643", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of The New York Times", 
-  "Date": "September 25, 1953", 
-  "ArtistID": 6028, 
+  "DateAcquired": "2005-05-11", 
   "Keywords": [
-    "online art collection", 
     "Unknown Photographer", 
     "Rocky Marciano", 
     "September 25", 
     "1953"
   ], 
+  "ArtistID": 6028, 
+  "Title": "Rocky Marciano", 
   "Department": "Photography", 
   "MoMANumber": "406.2005", 
+  "Date": "September 25, 1953", 
   "ArtistBio": "", 
-  "DateAcquired": "2005-05-11", 
-  "\ufeffTitle": "Rocky Marciano", 
+  "CuratorApproved": "Y", 
   "ObjectID": "98643"
 }

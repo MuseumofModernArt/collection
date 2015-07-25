@@ -4,12 +4,9 @@
   "Classification": "Photograph", 
   "Artist": "Joel Sternfeld", 
   "URL": "http://www.moma.org/collection/works/82418", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Beth Goldberg Nash and Joshua Nash", 
-  "Date": "June 1980", 
-  "ArtistID": 5656, 
+  "DateAcquired": "2001-04-12", 
   "Keywords": [
-    "online art collection", 
     "Joel Sternfeld", 
     "After an Eruption of Mount St", 
     "Helens", 
@@ -17,10 +14,12 @@
     "Washington", 
     "June 1980"
   ], 
+  "ArtistID": 5656, 
+  "Title": "After an Eruption of Mount St. Helens, Vancouver, Washington", 
   "Department": "Photography", 
   "MoMANumber": "1246.2001.x1-x2", 
+  "Date": "June 1980", 
   "ArtistBio": "(American, born 1944)", 
-  "DateAcquired": "2001-04-12", 
-  "\ufeffTitle": "After an Eruption of Mount St. Helens, Vancouver, Washington", 
+  "CuratorApproved": "Y", 
   "ObjectID": "82418"
 }

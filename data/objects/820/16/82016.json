@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Rachel Whiteread", 
   "URL": "http://www.moma.org/collection/works/82016", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the Freedman Family in memory of Doris C. and Alan J. Freedman", 
-  "Date": "1998", 
-  "ArtistID": 6910, 
+  "DateAcquired": "1999-12-06", 
   "Keywords": [
-    "online art collection", 
     "Rachel Whiteread", 
     "Water Tower", 
     "1998"
   ], 
+  "ArtistID": 6910, 
+  "Title": "Water Tower", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "1260.1999.a-b", 
+  "Date": "1998", 
   "ArtistBio": "(British, born 1963)", 
-  "DateAcquired": "1999-12-06", 
-  "\ufeffTitle": "Water Tower", 
+  "CuratorApproved": "Y", 
   "ObjectID": "82016"
 }

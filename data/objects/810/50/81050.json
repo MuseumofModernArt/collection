@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Gaston Lachaise", 
   "URL": "http://www.moma.org/collection/works/81050", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Edward M. M. Warburg", 
-  "Date": "1934", 
-  "ArtistID": 3332, 
+  "DateAcquired": "1934-07-02", 
   "Keywords": [
-    "online art collection", 
     "Gaston Lachaise", 
     "Torso", 
     "1934"
   ], 
+  "ArtistID": 3332, 
+  "Title": "Torso", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "160.1934", 
+  "Date": "1934", 
   "ArtistBio": "(American, born France. 1882\u20131935)", 
-  "DateAcquired": "1934-07-02", 
-  "\ufeffTitle": "Torso", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81050"
 }

@@ -4,21 +4,20 @@
   "Classification": "Photograph", 
   "Artist": "Unknown photographer", 
   "URL": "http://www.moma.org/collection/works/98183", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Thomas Walther", 
-  "Date": "February 12, 1934", 
-  "ArtistID": 6028, 
+  "DateAcquired": "2005-05-11", 
   "Keywords": [
-    "online art collection", 
     "Unknown Photographer", 
     "This is how it looks from the top of the hill", 
     "February 12", 
     "1934"
   ], 
+  "ArtistID": 6028, 
+  "Title": "This is how it looks from the top of the hill", 
   "Department": "Photography", 
   "MoMANumber": "462.2005", 
+  "Date": "February 12, 1934", 
   "ArtistBio": "", 
-  "DateAcquired": "2005-05-11", 
-  "\ufeffTitle": "This is how it looks from the top of the hill", 
+  "CuratorApproved": "Y", 
   "ObjectID": "98183"
 }

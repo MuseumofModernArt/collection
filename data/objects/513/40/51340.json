@@ -4,12 +4,9 @@
   "Classification": "Photograph", 
   "Artist": "William Eggleston", 
   "URL": "http://www.moma.org/collection/works/51340", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "c. 1969", 
-  "ArtistID": 1690, 
+  "DateAcquired": "1978-05-11", 
   "Keywords": [
-    "online art collection", 
     "William Eggleston", 
     "Sumner", 
     "Mississippi", 
@@ -17,10 +14,12 @@
     "c", 
     "1969"
   ], 
+  "ArtistID": 1690, 
+  "Title": "Sumner, Mississippi, Cassidy Bayou in Background", 
   "Department": "Photography", 
   "MoMANumber": "344.1978", 
+  "Date": "c. 1969", 
   "ArtistBio": "(American, born 1939)", 
-  "DateAcquired": "1978-05-11", 
-  "\ufeffTitle": "Sumner, Mississippi, Cassidy Bayou in Background", 
+  "CuratorApproved": "Y", 
   "ObjectID": "51340"
 }

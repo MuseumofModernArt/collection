@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "George Sugarman", 
   "URL": "http://www.moma.org/collection/works/81827", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Betsy Wittenborn Miller and Robert Miller in honor of Carolyn Lanchner", 
-  "Date": "1963", 
-  "ArtistID": 5720, 
+  "DateAcquired": "1998-12-07", 
   "Keywords": [
-    "online art collection", 
     "George Sugarman", 
     "Ramdam", 
     "1963"
   ], 
+  "ArtistID": 5720, 
+  "Title": "Ramdam", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "739.1998", 
+  "Date": "1963", 
   "ArtistBio": "(American, 1912\u20131999)", 
-  "DateAcquired": "1998-12-07", 
-  "\ufeffTitle": "Ramdam", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81827"
 }

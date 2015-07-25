@@ -4,21 +4,20 @@
   "Classification": "Photograph", 
   "Artist": "Melissa Shook", 
   "URL": "http://www.moma.org/collection/works/48828", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the photographer", 
-  "Date": "January 22, 1974", 
-  "ArtistID": 5407, 
+  "DateAcquired": "1974-04-02", 
   "Keywords": [
-    "online art collection", 
     "Melissa Shook", 
     "Krissy's Birthday", 
     "January 22", 
     "1974"
   ], 
+  "ArtistID": 5407, 
+  "Title": "Krissy's Birthday", 
   "Department": "Photography", 
   "MoMANumber": "218.1974", 
+  "Date": "January 22, 1974", 
   "ArtistBio": "(American, born 1939)", 
-  "DateAcquired": "1974-04-02", 
-  "\ufeffTitle": "Krissy's Birthday", 
+  "CuratorApproved": "Y", 
   "ObjectID": "48828"
 }

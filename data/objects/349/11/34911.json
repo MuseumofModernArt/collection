@@ -4,20 +4,19 @@
   "Classification": "Drawing", 
   "Artist": "Georges Rouault", 
   "URL": "http://www.moma.org/collection/works/34911", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The Joan and Lester Avnet Collection", 
-  "Date": "1905", 
-  "ArtistID": 5053, 
+  "DateAcquired": "1978-04-04", 
   "Keywords": [
-    "online art collection", 
     "Georges Rouault", 
     "Circus Act", 
     "1905"
   ], 
+  "ArtistID": 5053, 
+  "Title": "Circus Act", 
   "Department": "Drawings", 
   "MoMANumber": "158.1978", 
+  "Date": "1905", 
   "ArtistBio": "(French, 1871\u20131958)", 
-  "DateAcquired": "1978-04-04", 
-  "\ufeffTitle": "Circus Act", 
+  "CuratorApproved": "Y", 
   "ObjectID": "34911"
 }

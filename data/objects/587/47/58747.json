@@ -4,20 +4,19 @@
   "Classification": "Photograph", 
   "Artist": "Times Wide World Photos", 
   "URL": "http://www.moma.org/collection/works/58747", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The New York Times Collection", 
-  "Date": "1932", 
-  "ArtistID": 8632, 
+  "DateAcquired": "2001-06-14", 
   "Keywords": [
-    "online art collection", 
     "Times Wide World Photos", 
     "\"A Famous Fisherman in Action\"", 
     "1932"
   ], 
+  "ArtistID": 8632, 
+  "Title": "\"A Famous Fisherman in Action\"", 
   "Department": "Photography", 
   "MoMANumber": "2154.2001", 
+  "Date": "1932", 
   "ArtistBio": "(American, active 1919\u20131941)", 
-  "DateAcquired": "2001-06-14", 
-  "\ufeffTitle": "\"A Famous Fisherman in Action\"", 
+  "CuratorApproved": "Y", 
   "ObjectID": "58747"
 }

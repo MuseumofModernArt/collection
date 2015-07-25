@@ -4,21 +4,20 @@
   "Classification": "Sculpture", 
   "Artist": "Reg Butler", 
   "URL": "http://www.moma.org/collection/works/81449", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Mrs. Sadie A. May Fund", 
-  "Date": "1951-53, remade by the artist after lost original", 
-  "ArtistID": 900, 
+  "DateAcquired": "1953-06-22", 
   "Keywords": [
-    "online art collection", 
     "Reg Butler", 
     "The Unknown Political Prisoner (Project for a Monument)", 
     "1951-53", 
     "remade by the artist after lost original"
   ], 
+  "ArtistID": 900, 
+  "Title": "The Unknown Political Prisoner (Project for a Monument)", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "410.1953", 
+  "Date": "1951-53, remade by the artist after lost original", 
   "ArtistBio": "(British, 1913\u20131983)", 
-  "DateAcquired": "1953-06-22", 
-  "\ufeffTitle": "The Unknown Political Prisoner (Project for a Monument)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81449"
 }

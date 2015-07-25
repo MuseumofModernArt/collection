@@ -4,21 +4,20 @@
   "Classification": "Illustrated Book", 
   "Artist": "Ben Vautier", 
   "URL": "http://www.moma.org/collection/works/12362", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Joanne M. Stern Fund", 
-  "Date": "1975  (First edition 1962-63)", 
-  "ArtistID": 6115, 
+  "DateAcquired": "1975-05-09", 
   "Keywords": [
-    "online art collection", 
     "Ben Vautier", 
     "Moi", 
     "Ben je signe", 
     "1975  (First edition 1962-63)"
   ], 
+  "ArtistID": 6115, 
+  "Title": "Moi, Ben je signe", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "159.1975.1-22", 
+  "Date": "1975  (First edition 1962-63)", 
   "ArtistBio": "(French, born Italy 1935)", 
-  "DateAcquired": "1975-05-09", 
-  "\ufeffTitle": "Moi, Ben je signe", 
+  "CuratorApproved": "Y", 
   "ObjectID": "12362"
 }

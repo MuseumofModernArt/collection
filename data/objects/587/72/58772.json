@@ -4,21 +4,20 @@
   "Classification": "Photograph", 
   "Artist": "Times Wide World Photos", 
   "URL": "http://www.moma.org/collection/works/58772", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The New York Times Collection", 
-  "Date": "July 2, 1936", 
-  "ArtistID": 8632, 
+  "DateAcquired": "2001-06-14", 
   "Keywords": [
-    "online art collection", 
     "Times Wide World Photos", 
     "\"The Mayor in the Motorman's Cab of the First Official Train\"", 
     "July 2", 
     "1936"
   ], 
+  "ArtistID": 8632, 
+  "Title": "\"The Mayor in the Motorman's Cab of the First Official Train\"", 
   "Department": "Photography", 
   "MoMANumber": "2179.2001", 
+  "Date": "July 2, 1936", 
   "ArtistBio": "(American, active 1919\u20131941)", 
-  "DateAcquired": "2001-06-14", 
-  "\ufeffTitle": "\"The Mayor in the Motorman's Cab of the First Official Train\"", 
+  "CuratorApproved": "Y", 
   "ObjectID": "58772"
 }

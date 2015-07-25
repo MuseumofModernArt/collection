@@ -4,22 +4,21 @@
   "Classification": "Photograph", 
   "Artist": "Paul Graham", 
   "URL": "http://www.moma.org/collection/works/46829", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The Family of Man Fund", 
-  "Date": "1984", 
-  "ArtistID": 2286, 
+  "DateAcquired": "1986-03-20", 
   "Keywords": [
-    "online art collection", 
     "Paul Graham", 
     "Waiting Room", 
     "Southwark Department of Health and Social Security", 
     "South London", 
     "1984"
   ], 
+  "ArtistID": 2286, 
+  "Title": "Waiting Room, Southwark Department of Health and Social Security, South London", 
   "Department": "Photography", 
   "MoMANumber": "140.1986.x1-x2", 
+  "Date": "1984", 
   "ArtistBio": "(British, born 1956)", 
-  "DateAcquired": "1986-03-20", 
-  "\ufeffTitle": "Waiting Room, Southwark Department of Health and Social Security, South London", 
+  "CuratorApproved": "Y", 
   "ObjectID": "46829"
 }

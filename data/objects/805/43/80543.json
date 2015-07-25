@@ -4,21 +4,20 @@
   "Classification": "Painting", 
   "Artist": "Helen Frankenthaler", 
   "URL": "http://www.moma.org/collection/works/80543", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the artist", 
-  "Date": "August 9, 1969", 
-  "ArtistID": 1974, 
+  "DateAcquired": "1970-02-10", 
   "Keywords": [
-    "online art collection", 
     "Helen Frankenthaler", 
     "Commune", 
     "August 9", 
     "1969"
   ], 
+  "ArtistID": 1974, 
+  "Title": "Commune", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "1081.1969", 
+  "Date": "August 9, 1969", 
   "ArtistBio": "(American, 1928\u20132011)", 
-  "DateAcquired": "1970-02-10", 
-  "\ufeffTitle": "Commune", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80543"
 }

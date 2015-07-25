@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Conrad Atkinson", 
   "URL": "http://www.moma.org/collection/works/66369", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1985", 
-  "ArtistID": 232, 
+  "DateAcquired": "1985-10-07", 
   "Keywords": [
-    "online art collection", 
     "Conrad Atkinson", 
     "Wall Street Journal", 
     "1985"
   ], 
+  "ArtistID": 232, 
+  "Title": "Wall Street Journal", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "297.1985", 
+  "Date": "1985", 
   "ArtistBio": "(British, born 1940)", 
-  "DateAcquired": "1985-10-07", 
-  "\ufeffTitle": "Wall Street Journal", 
+  "CuratorApproved": "Y", 
   "ObjectID": "66369"
 }

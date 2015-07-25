@@ -4,21 +4,20 @@
   "Classification": "Print", 
   "Artist": "John Cage", 
   "URL": "http://www.moma.org/collection/works/71800", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Mrs. Constantine Sidamon-Eristoff", 
-  "Date": "1983", 
-  "ArtistID": 912, 
+  "DateAcquired": "1983-09-21", 
   "Keywords": [
-    "online art collection", 
     "John Cage", 
     "R(superscript 2", 
     "subscript 1) from the series Where R=Ryoanji", 
     "1983"
   ], 
+  "ArtistID": 912, 
+  "Title": "R(superscript 2, subscript 1) from the series Where R=Ryoanji", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "609.1983.4", 
+  "Date": "1983", 
   "ArtistBio": "(American, 1912\u20131992)", 
-  "DateAcquired": "1983-09-21", 
-  "\ufeffTitle": "R(superscript 2, subscript 1) from the series Where R=Ryoanji", 
+  "CuratorApproved": "Y", 
   "ObjectID": "71800"
 }

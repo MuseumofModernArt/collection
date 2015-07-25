@@ -4,12 +4,9 @@
   "Classification": "A&D Architectural Drawing", 
   "Artist": "Louis I. Kahn", 
   "URL": "http://www.moma.org/collection/works/420", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the architect", 
-  "Date": "1958", 
-  "ArtistID": 2964, 
+  "DateAcquired": "1967-04-11", 
   "Keywords": [
-    "online art collection", 
     "Louis I", 
     "Kahn", 
     "Tribune Review Publishing Company Building", 
@@ -18,10 +15,12 @@
     "Entrance elevation sketch", 
     "1958"
   ], 
+  "ArtistID": 2964, 
+  "Title": "Tribune Review Publishing Company Building, Greensburg, Pennsylvania, Entrance elevation sketch", 
   "Department": "Architecture & Design", 
   "MoMANumber": "372.1967", 
+  "Date": "1958", 
   "ArtistBio": "(American, born Estonia. 1901\u20131974)", 
-  "DateAcquired": "1967-04-11", 
-  "\ufeffTitle": "Tribune Review Publishing Company Building, Greensburg, Pennsylvania, Entrance elevation sketch", 
+  "CuratorApproved": "Y", 
   "ObjectID": "420"
 }

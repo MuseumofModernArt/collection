@@ -4,12 +4,9 @@
   "Classification": "A&D Architectural Model", 
   "Artist": "Rem Koolhaas", 
   "URL": "http://www.moma.org/collection/works/91578", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Donald B. Marron", 
-  "Date": "1999", 
-  "ArtistID": 6956, 
+  "DateAcquired": "2004-10-14", 
   "Keywords": [
-    "online art collection", 
     "Rem Koolhaas", 
     "Togok (XL) Towers Project", 
     "Seoul", 
@@ -17,10 +14,12 @@
     "Scale model 1:100", 
     "1999"
   ], 
+  "ArtistID": 6956, 
+  "Title": "Togok (XL) Towers Project, Seoul, Korea, Scale model 1:100", 
   "Department": "Architecture & Design", 
   "MoMANumber": "489.2004", 
+  "Date": "1999", 
   "ArtistBio": "(Dutch, born 1944)", 
-  "DateAcquired": "2004-10-14", 
-  "\ufeffTitle": "Togok (XL) Towers Project, Seoul, Korea, Scale model 1:100", 
+  "CuratorApproved": "Y", 
   "ObjectID": "91578"
 }

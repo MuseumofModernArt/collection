@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Jakob Steinhardt", 
   "URL": "http://www.moma.org/collection/works/71232", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Given anonymously", 
-  "Date": "(1913)", 
-  "ArtistID": 5633, 
+  "DateAcquired": "1942-11-19", 
   "Keywords": [
-    "online art collection", 
     "Jakob Steinhardt", 
     "Synagogue (Bethaus)", 
     "(1913)"
   ], 
+  "ArtistID": 5633, 
+  "Title": "Synagogue (Bethaus)", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "567.1942", 
+  "Date": "(1913)", 
   "ArtistBio": "(Israeli, 1887\u20131968)", 
-  "DateAcquired": "1942-11-19", 
-  "\ufeffTitle": "Synagogue (Bethaus)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "71232"
 }

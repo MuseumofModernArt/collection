@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Salvador Dal\u00ed", 
   "URL": "http://www.moma.org/collection/works/80884", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Acquired through the James Thrall Soby Bequest, and the Abby Aldrich Rockefeller, Loula D. Lasker, and William S. Paley Funds", 
-  "Date": "1934", 
-  "ArtistID": 1364, 
+  "DateAcquired": "1981-04-07", 
   "Keywords": [
-    "online art collection", 
     "Salvador Dal&iacute;", 
     "The Little Theater", 
     "1934"
   ], 
+  "ArtistID": 1364, 
+  "Title": "The Little Theater", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "57.1981", 
+  "Date": "1934", 
   "ArtistBio": "(Spanish, 1904\u20131989)", 
-  "DateAcquired": "1981-04-07", 
-  "\ufeffTitle": "The Little Theater", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80884"
 }

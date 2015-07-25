@@ -4,21 +4,20 @@
   "Classification": "Drawing", 
   "Artist": "Andy Warhol", 
   "URL": "http://www.moma.org/collection/works/34797", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Chief Curator Discretionary Fund", 
-  "Date": "(c. 1948)", 
-  "ArtistID": 6246, 
+  "DateAcquired": "2013-10-23", 
   "Keywords": [
-    "online art collection", 
     "Andy Warhol", 
     "Untitled (Roy Rogers)", 
     "c", 
     "1948"
   ], 
+  "ArtistID": 6246, 
+  "Title": "Untitled (Roy Rogers)", 
   "Department": "Drawings", 
   "MoMANumber": "149.1999", 
+  "Date": "(c. 1948)", 
   "ArtistBio": "(American, 1928\u20131987)", 
-  "DateAcquired": "2013-10-23", 
-  "\ufeffTitle": "Untitled (Roy Rogers)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "34797"
 }

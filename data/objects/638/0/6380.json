@@ -4,21 +4,20 @@
   "Classification": "A&D Graphic Design", 
   "Artist": "Walter Ballmer", 
   "URL": "http://www.moma.org/collection/works/6380", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the Kunstgewerbe Museum, Z\u00fcrich", 
-  "Date": "1961", 
-  "ArtistID": 7403, 
+  "DateAcquired": "1961-11-08", 
   "Keywords": [
-    "online art collection", 
     "Walter Ballmer", 
     "Stile Olivetti", 
     "Kunstgewerbemuseum Z&uuml;rich", 
     "1961"
   ], 
+  "ArtistID": 7403, 
+  "Title": "Stile Olivetti, Kunstgewerbemuseum Z\u00fcrich", 
   "Department": "Architecture & Design", 
   "MoMANumber": "341.1961", 
+  "Date": "1961", 
   "ArtistBio": "(Swiss, born 1923)", 
-  "DateAcquired": "1961-11-08", 
-  "\ufeffTitle": "Stile Olivetti, Kunstgewerbemuseum Z\u00fcrich", 
+  "CuratorApproved": "Y", 
   "ObjectID": "6380"
 }

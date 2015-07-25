@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Marcel Duchamp", 
   "URL": "http://www.moma.org/collection/works/59578", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Dorothy Miller (by exchange)", 
-  "Date": "(1966)", 
-  "ArtistID": 1634, 
+  "DateAcquired": "1987-01-15", 
   "Keywords": [
-    "online art collection", 
     "Marcel Duchamp", 
     "The Chess Players", 
     "(1966)"
   ], 
+  "ArtistID": 1634, 
+  "Title": "The Chess Players", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "1.1987", 
+  "Date": "(1966)", 
   "ArtistBio": "(American, born France. 1887\u20131968)", 
-  "DateAcquired": "1987-01-15", 
-  "\ufeffTitle": "The Chess Players", 
+  "CuratorApproved": "Y", 
   "ObjectID": "59578"
 }

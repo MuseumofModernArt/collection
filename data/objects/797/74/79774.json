@@ -4,22 +4,21 @@
   "Classification": "Painting", 
   "Artist": "Andr\u00e9 Derain", 
   "URL": "http://www.moma.org/collection/works/79774", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Given anonymously", 
-  "Date": "c. 1925", 
-  "ArtistID": 1500, 
+  "DateAcquired": "1937-12-03", 
   "Keywords": [
-    "online art collection", 
     "Andr&eacute; Derain", 
     "Landscape", 
     "Provence", 
     "c", 
     "1925"
   ], 
+  "ArtistID": 1500, 
+  "Title": "Landscape, Provence", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "454.1937", 
+  "Date": "c. 1925", 
   "ArtistBio": "(French, 1880\u20131954)", 
-  "DateAcquired": "1937-12-03", 
-  "\ufeffTitle": "Landscape, Provence", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79774"
 }

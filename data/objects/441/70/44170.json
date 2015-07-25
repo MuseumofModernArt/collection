@@ -4,12 +4,9 @@
   "Classification": "Photograph", 
   "Artist": "Berenice Abbott", 
   "URL": "http://www.moma.org/collection/works/44170", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the Robert and Joyce Menschel Foundation", 
-  "Date": "February 3, 1937", 
-  "ArtistID": 41, 
+  "DateAcquired": "1987-02-19", 
   "Keywords": [
-    "online art collection", 
     "Berenice Abbott", 
     "Three-decker Houses", 
     "West 11th Street between Sixth and Seventh Avenues", 
@@ -17,10 +14,12 @@
     "February 3", 
     "1937"
   ], 
+  "ArtistID": 41, 
+  "Title": "Three-decker Houses, West 11th Street between Sixth and Seventh Avenues, Manhattan", 
   "Department": "Photography", 
   "MoMANumber": "26.1987", 
+  "Date": "February 3, 1937", 
   "ArtistBio": "(American, 1898\u20131991)", 
-  "DateAcquired": "1987-02-19", 
-  "\ufeffTitle": "Three-decker Houses, West 11th Street between Sixth and Seventh Avenues, Manhattan", 
+  "CuratorApproved": "Y", 
   "ObjectID": "44170"
 }

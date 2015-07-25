@@ -4,22 +4,21 @@
   "Classification": "Print", 
   "Artist": "Max Beckmann", 
   "URL": "http://www.moma.org/collection/works/71574", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "(1915, published c. 1920)", 
-  "ArtistID": 429, 
+  "DateAcquired": "1956-12-19", 
   "Keywords": [
-    "online art collection", 
     "Max Beckmann", 
     "Society 1915 (Gesellschaft 1915)", 
     "(1915", 
     "published c", 
     "1920)"
   ], 
+  "ArtistID": 429, 
+  "Title": "Society 1915 (Gesellschaft 1915)", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "590.1956", 
+  "Date": "(1915, published c. 1920)", 
   "ArtistBio": "(German, 1884\u20131950)", 
-  "DateAcquired": "1956-12-19", 
-  "\ufeffTitle": "Society 1915 (Gesellschaft 1915)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "71574"
 }

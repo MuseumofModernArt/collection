@@ -4,12 +4,9 @@
   "Classification": "Print", 
   "Artist": "Pablo Picasso", 
   "URL": "http://www.moma.org/collection/works/67676", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Curt Valentin Bequest", 
-  "Date": "(January 20, 1947)", 
-  "ArtistID": 4609, 
+  "DateAcquired": "1955-11-23", 
   "Keywords": [
-    "online art collection", 
     "Pablo Picasso", 
     "Owl with Chair", 
     "Ochre Background (Hibou &agrave; la chaise", 
@@ -17,10 +14,12 @@
     "(January 20", 
     "1947)"
   ], 
+  "ArtistID": 4609, 
+  "Title": "Owl with Chair, Ochre Background (Hibou \u00e0 la chaise, fond ochr\u00e9)", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "360.1955", 
+  "Date": "(January 20, 1947)", 
   "ArtistBio": "(Spanish, 1881\u20131973)", 
-  "DateAcquired": "1955-11-23", 
-  "\ufeffTitle": "Owl with Chair, Ochre Background (Hibou \u00e0 la chaise, fond ochr\u00e9)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "67676"
 }

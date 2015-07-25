@@ -4,12 +4,9 @@
   "Classification": "A&D Graphic Design", 
   "Artist": "L. N. Britton", 
   "URL": "http://www.moma.org/collection/works/8020", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of John D. Rockefeller, 3rd", 
-  "Date": "1917", 
-  "ArtistID": 782, 
+  "DateAcquired": "1963-12-10", 
   "Keywords": [
-    "online art collection", 
     "L", 
     "N", 
     "Britton", 
@@ -17,10 +14,12 @@
     "Eat Less", 
     "1917"
   ], 
+  "ArtistID": 782, 
+  "Title": "Eat More, Eat Less", 
   "Department": "Architecture & Design", 
   "MoMANumber": "741.1963", 
+  "Date": "1917", 
   "ArtistBio": "(American, 1858\u20131934)", 
-  "DateAcquired": "1963-12-10", 
-  "\ufeffTitle": "Eat More, Eat Less", 
+  "CuratorApproved": "Y", 
   "ObjectID": "8020"
 }

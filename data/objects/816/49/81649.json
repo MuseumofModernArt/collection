@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Craig Kauffman", 
   "URL": "http://www.moma.org/collection/works/81649", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Larry Aldrich Foundation Fund", 
-  "Date": "1964", 
-  "ArtistID": 3021, 
+  "DateAcquired": "1965-06-08", 
   "Keywords": [
-    "online art collection", 
     "Craig Kauffman", 
     "Red-Blue", 
     "1964"
   ], 
+  "ArtistID": 3021, 
+  "Title": "Red-Blue", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "603.1965", 
+  "Date": "1964", 
   "ArtistBio": "(American, 1932\u20132010)", 
-  "DateAcquired": "1965-06-08", 
-  "\ufeffTitle": "Red-Blue", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81649"
 }

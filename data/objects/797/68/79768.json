@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Fernand L\u00e9ger", 
   "URL": "http://www.moma.org/collection/works/79768", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Mrs. Simon Guggenheim Fund", 
-  "Date": "1941-42", 
-  "ArtistID": 6624, 
+  "DateAcquired": "1955-11-23", 
   "Keywords": [
-    "online art collection", 
     "Fernand L&eacute;ger", 
     "The Divers", 
     "1941-42"
   ], 
+  "ArtistID": 6624, 
+  "Title": "The Divers", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "333.1955", 
+  "Date": "1941-42", 
   "ArtistBio": "(French, 1881\u20131955)", 
-  "DateAcquired": "1955-11-23", 
-  "\ufeffTitle": "The Divers", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79768"
 }

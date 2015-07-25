@@ -4,12 +4,9 @@
   "Classification": "A&D Architectural Model", 
   "Artist": "Ludwig Mies van der Rohe", 
   "URL": "http://www.moma.org/collection/works/88159", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Mies van der Rohe Archive, Mies in Berlin Exhibition Fund", 
-  "Date": "1921-23", 
-  "ArtistID": 7166, 
+  "DateAcquired": "2003-05-13", 
   "Keywords": [
-    "online art collection", 
     "Ludwig Mies van der Rohe", 
     "Eichstaedt House", 
     "Berlin-Nikolassee", 
@@ -17,10 +14,12 @@
     "Landscape model", 
     "1921-23"
   ], 
+  "ArtistID": 7166, 
+  "Title": "Eichstaedt House, Berlin-Nikolassee, Germany, Landscape model", 
   "Department": "Architecture & Design", 
   "MoMANumber": "105.2003", 
+  "Date": "1921-23", 
   "ArtistBio": "(American, born Germany. 1886\u20131969)", 
-  "DateAcquired": "2003-05-13", 
-  "\ufeffTitle": "Eichstaedt House, Berlin-Nikolassee, Germany, Landscape model", 
+  "CuratorApproved": "Y", 
   "ObjectID": "88159"
 }

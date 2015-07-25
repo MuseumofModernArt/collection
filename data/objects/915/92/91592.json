@@ -4,12 +4,9 @@
   "Classification": "A&D Architectural Model", 
   "Artist": "Peter Eisenman", 
   "URL": "http://www.moma.org/collection/works/91592", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Elise Jaffe + Jeffrey Brown and the architect", 
-  "Date": "1992-93", 
-  "ArtistID": 6969, 
+  "DateAcquired": "2004-10-14", 
   "Keywords": [
-    "online art collection", 
     "Peter Eisenman", 
     "Max Reinhardt Haus Project", 
     "Berlin", 
@@ -17,10 +14,12 @@
     "Scale model 1:100", 
     "1992-93"
   ], 
+  "ArtistID": 6969, 
+  "Title": "Max Reinhardt Haus Project, Berlin, Germany, Scale model 1:100", 
   "Department": "Architecture & Design", 
   "MoMANumber": "416.2004", 
+  "Date": "1992-93", 
   "ArtistBio": "(American, born 1932)", 
-  "DateAcquired": "2004-10-14", 
-  "\ufeffTitle": "Max Reinhardt Haus Project, Berlin, Germany, Scale model 1:100", 
+  "CuratorApproved": "Y", 
   "ObjectID": "91592"
 }

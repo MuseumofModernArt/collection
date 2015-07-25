@@ -4,20 +4,19 @@
   "Classification": "Photograph", 
   "Artist": "Bill Owens", 
   "URL": "http://www.moma.org/collection/works/51442", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1972", 
-  "ArtistID": 4454, 
+  "DateAcquired": "1976-10-13", 
   "Keywords": [
-    "online art collection", 
     "Bill Owens", 
     "Untitled (Ronald Regan)", 
     "1972"
   ], 
+  "ArtistID": 4454, 
+  "Title": "Ronald Regan", 
   "Department": "Photography", 
   "MoMANumber": "348.1976", 
+  "Date": "1972", 
   "ArtistBio": "(American, born 1938)", 
-  "DateAcquired": "1976-10-13", 
-  "\ufeffTitle": "Ronald Regan", 
+  "CuratorApproved": "Y", 
   "ObjectID": "51442"
 }

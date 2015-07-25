@@ -4,12 +4,9 @@
   "Classification": "A&D Architectural Drawing", 
   "Artist": "Santiago Calatrava", 
   "URL": "http://www.moma.org/collection/works/359", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the architect", 
-  "Date": "1992", 
-  "ArtistID": 6968, 
+  "DateAcquired": "1996-09-25", 
   "Keywords": [
-    "online art collection", 
     "Santiago Calatrava", 
     "Lyons Airport Railroad Station", 
     "Lyons-Satolas", 
@@ -17,10 +14,12 @@
     "Plan and elevation", 
     "1992"
   ], 
+  "ArtistID": 6968, 
+  "Title": "Lyons Airport Railroad Station, Lyons-Satolas, France, Plan and elevation", 
   "Department": "Architecture & Design", 
   "MoMANumber": "355.1996", 
+  "Date": "1992", 
   "ArtistBio": "(Spanish, born 1951)", 
-  "DateAcquired": "1996-09-25", 
-  "\ufeffTitle": "Lyons Airport Railroad Station, Lyons-Satolas, France, Plan and elevation", 
+  "CuratorApproved": "Y", 
   "ObjectID": "359"
 }

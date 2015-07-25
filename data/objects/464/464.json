@@ -4,12 +4,9 @@
   "Classification": "A&D Architectural Drawing", 
   "Artist": "Leon Krier", 
   "URL": "http://www.moma.org/collection/works/464", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the architect in honor of Lily Auchincloss", 
-  "Date": "1984", 
-  "ArtistID": 3250, 
+  "DateAcquired": "1994-09-21", 
   "Keywords": [
-    "online art collection", 
     "Leon Krier", 
     "The Completion of Washington", 
     "D,C", 
@@ -19,10 +16,12 @@
     "Perspective", 
     "1984"
   ], 
+  "ArtistID": 3250, 
+  "Title": "The Completion of Washington, D.C. Project, Washington, D.C. , Perspective", 
   "Department": "Architecture & Design", 
   "MoMANumber": "383.1994", 
+  "Date": "1984", 
   "ArtistBio": "(Luxembourgish, born 1946)", 
-  "DateAcquired": "1994-09-21", 
-  "\ufeffTitle": "The Completion of Washington, D.C. Project, Washington, D.C. , Perspective", 
+  "CuratorApproved": "Y", 
   "ObjectID": "464"
 }

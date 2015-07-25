@@ -4,20 +4,19 @@
   "Classification": "Photograph", 
   "Artist": "August Sander", 
   "URL": "http://www.moma.org/collection/works/84065", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Thomas Walther Collection. Gift of Thomas Walther", 
-  "Date": "1928", 
-  "ArtistID": 5145, 
+  "DateAcquired": "2001-12-13", 
   "Keywords": [
-    "online art collection", 
     "August Sander", 
     "Art Dealer", 
     "1928"
   ], 
+  "ArtistID": 5145, 
+  "Title": "Art Dealer", 
   "Department": "Photography", 
   "MoMANumber": "1853.2001", 
+  "Date": "1928", 
   "ArtistBio": "(German, 1876\u20131964)", 
-  "DateAcquired": "2001-12-13", 
-  "\ufeffTitle": "Art Dealer", 
+  "CuratorApproved": "Y", 
   "ObjectID": "84065"
 }

@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Richard Hamilton", 
   "URL": "http://www.moma.org/collection/works/71782", 
-  "CuratorApproved": "Y", 
   "CreditLine": "John R. Jakobson Foundation Fund", 
-  "Date": "1970", 
-  "ArtistID": 2481, 
+  "DateAcquired": "1970-12-15", 
   "Keywords": [
-    "online art collection", 
     "Richard Hamilton", 
     "Kent State", 
     "1970"
   ], 
+  "ArtistID": 2481, 
+  "Title": "Kent State", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "608.1970", 
+  "Date": "1970", 
   "ArtistBio": "(British, 1922\u20132011)", 
-  "DateAcquired": "1970-12-15", 
-  "\ufeffTitle": "Kent State", 
+  "CuratorApproved": "Y", 
   "ObjectID": "71782"
 }

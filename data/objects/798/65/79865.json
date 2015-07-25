@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Umberto Boccioni", 
   "URL": "http://www.moma.org/collection/works/79865", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Mrs. Simon Guggenheim Fund", 
-  "Date": "1910", 
-  "ArtistID": 624, 
+  "DateAcquired": "1951-11-21", 
   "Keywords": [
-    "online art collection", 
     "Umberto Boccioni", 
     "The City Rises", 
     "1910"
   ], 
+  "ArtistID": 624, 
+  "Title": "The City Rises", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "507.1951", 
+  "Date": "1910", 
   "ArtistBio": "(Italian, 1882\u20131916)", 
-  "DateAcquired": "1951-11-21", 
-  "\ufeffTitle": "The City Rises", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79865"
 }

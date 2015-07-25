@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Kurt Schwitters", 
   "URL": "http://www.moma.org/collection/works/80532", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The Riklis Collection of McCrory Corporation", 
-  "Date": "1938", 
-  "ArtistID": 5293, 
+  "DateAcquired": "1985-10-25", 
   "Keywords": [
-    "online art collection", 
     "Kurt Schwitters", 
     "Untitled (Picture with Basket Ring)", 
     "1938"
   ], 
+  "ArtistID": 5293, 
+  "Title": "Untitled (Picture with Basket Ring)", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "1070.1983", 
+  "Date": "1938", 
   "ArtistBio": "(German, 1887\u20131948)", 
-  "DateAcquired": "1985-10-25", 
-  "\ufeffTitle": "Untitled (Picture with Basket Ring)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80532"
 }

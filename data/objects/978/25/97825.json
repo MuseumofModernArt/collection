@@ -4,20 +4,19 @@
   "Classification": "Drawing", 
   "Artist": "Joe Zucker", 
   "URL": "http://www.moma.org/collection/works/97825", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The Judith Rothschild Foundation Contemporary Drawings Collection Gift", 
-  "Date": "2003", 
-  "ArtistID": 6588, 
+  "DateAcquired": "2005-05-10", 
   "Keywords": [
-    "online art collection", 
     "Joe Zucker", 
     "Robocrate Storage", 
     "2003"
   ], 
+  "ArtistID": 6588, 
+  "Title": "Robocrate Storage", 
   "Department": "Drawings", 
   "MoMANumber": "3488.2005", 
+  "Date": "2003", 
   "ArtistBio": "(American, born 1941)", 
-  "DateAcquired": "2005-05-10", 
-  "\ufeffTitle": "Robocrate Storage", 
+  "CuratorApproved": "Y", 
   "ObjectID": "97825"
 }

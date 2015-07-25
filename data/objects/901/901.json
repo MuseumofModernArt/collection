@@ -4,12 +4,9 @@
   "Classification": "A&D Architectural Drawing", 
   "Artist": "Aldo Rossi, J. da Nobrega, J. Charters", 
   "URL": "http://www.moma.org/collection/works/901", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of The Howard Gilman Foundation", 
-  "Date": "1976", 
-  "ArtistID": 7661, 
+  "DateAcquired": "2000-10-31", 
   "Keywords": [
-    "online art collection", 
     "Aldo Rossi", 
     "J", 
     "da Nobrega and J", 
@@ -21,10 +18,12 @@
     "Elevation", 
     "1976"
   ], 
+  "ArtistID": 7661, 
+  "Title": "Housing, project, Setubal, Portugal, Elevation", 
   "Department": "Architecture & Design", 
   "MoMANumber": "1286.2000", 
+  "Date": "1976", 
   "ArtistBio": "(Italian, 1931\u20131997) (Italian, born 1945) (Italian, born 1945)", 
-  "DateAcquired": "2000-10-31", 
-  "\ufeffTitle": "Housing, project, Setubal, Portugal, Elevation", 
+  "CuratorApproved": "Y", 
   "ObjectID": "901"
 }

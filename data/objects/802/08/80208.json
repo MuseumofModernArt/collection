@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Camille Bombois", 
   "URL": "http://www.moma.org/collection/works/80208", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Abby Aldrich Rockefeller Fund", 
-  "Date": "1930-35", 
-  "ArtistID": 652, 
+  "DateAcquired": "1939-12-08", 
   "Keywords": [
-    "online art collection", 
     "Camille Bombois", 
     "Before Entering the Ring", 
     "1930-35"
   ], 
+  "ArtistID": 652, 
+  "Title": "Before Entering the Ring", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "662.1939", 
+  "Date": "1930-35", 
   "ArtistBio": "(French, 1883\u20131970)", 
-  "DateAcquired": "1939-12-08", 
-  "\ufeffTitle": "Before Entering the Ring", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80208"
 }

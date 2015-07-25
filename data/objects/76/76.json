@@ -4,12 +4,9 @@
   "Classification": "A&D Architectural Drawing", 
   "Artist": "Hans Poelzig", 
   "URL": "http://www.moma.org/collection/works/76", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Henry G. Proskauer", 
-  "Date": "1918", 
-  "ArtistID": 8100, 
+  "DateAcquired": "1966-01-11", 
   "Keywords": [
-    "online art collection", 
     "Hans Poelzig", 
     "Concert Hall Project", 
     "Dresden", 
@@ -17,10 +14,12 @@
     "Interior perspective of preliminary scheme", 
     "1918"
   ], 
+  "ArtistID": 8100, 
+  "Title": "Concert Hall Project, Dresden, Germany (Interior perspective of preliminary scheme)", 
   "Department": "Architecture & Design", 
   "MoMANumber": "1087.2009", 
+  "Date": "1918", 
   "ArtistBio": "(German, 1869\u20131936)", 
-  "DateAcquired": "1966-01-11", 
-  "\ufeffTitle": "Concert Hall Project, Dresden, Germany (Interior perspective of preliminary scheme)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "76"
 }

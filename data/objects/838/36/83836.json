@@ -4,20 +4,19 @@
   "Classification": "Photograph", 
   "Artist": "El Lissitzky", 
   "URL": "http://www.moma.org/collection/works/83836", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Thomas Walther Collection. Gift of Shirley C. Burden, by exchange", 
-  "Date": "1924", 
-  "ArtistID": 3569, 
+  "DateAcquired": "2001-12-13", 
   "Keywords": [
-    "online art collection", 
     "El Lissitzky", 
     "Self-Portrait", 
     "1924"
   ], 
+  "ArtistID": 3569, 
+  "Title": "Self-Portrait", 
   "Department": "Photography", 
   "MoMANumber": "1764.2001", 
+  "Date": "1924", 
   "ArtistBio": "(Russian, 1890\u20131941)", 
-  "DateAcquired": "2001-12-13", 
-  "\ufeffTitle": "Self-Portrait", 
+  "CuratorApproved": "Y", 
   "ObjectID": "83836"
 }

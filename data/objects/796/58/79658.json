@@ -4,21 +4,20 @@
   "Classification": "Painting", 
   "Artist": "Henri Matisse", 
   "URL": "http://www.moma.org/collection/works/79658", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Time, Inc.", 
-  "Date": "Paris, summer-fall 1952", 
-  "ArtistID": 3832, 
+  "DateAcquired": "1953-06-22", 
   "Keywords": [
-    "online art collection", 
     "Henri Matisse", 
     "Nuit de No&euml;l", 
     "Paris", 
     "summer-fall 1952"
   ], 
+  "ArtistID": 3832, 
+  "Title": "Nuit de No\u00ebl", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "420.1953.a-d", 
+  "Date": "Paris, summer-fall 1952", 
   "ArtistBio": "(French, 1869\u20131954)", 
-  "DateAcquired": "1953-06-22", 
-  "\ufeffTitle": "Nuit de No\u00ebl", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79658"
 }

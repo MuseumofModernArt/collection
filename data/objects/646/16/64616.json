@@ -4,22 +4,21 @@
   "Classification": "Print", 
   "Artist": "Pierre Bonnard", 
   "URL": "http://www.moma.org/collection/works/64616", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "(c. 1914)  (c. 1916)", 
-  "ArtistID": 665, 
+  "DateAcquired": "1951-05-24", 
   "Keywords": [
-    "online art collection", 
     "Pierre Bonnard", 
     "Portrait of Auguste Renoir (Portrait de Renoir)", 
     "(c", 
     "1914)  (c", 
     "1916)"
   ], 
+  "ArtistID": 665, 
+  "Title": "Portrait of Auguste Renoir (Portrait de Renoir)", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "219.1951", 
+  "Date": "(c. 1914)  (c. 1916)", 
   "ArtistBio": "(French, 1867\u20131947)", 
-  "DateAcquired": "1951-05-24", 
-  "\ufeffTitle": "Portrait of Auguste Renoir (Portrait de Renoir)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "64616"
 }

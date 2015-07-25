@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Claes Oldenburg", 
   "URL": "http://www.moma.org/collection/works/81419", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of G. David Thompson", 
-  "Date": "April 1961", 
-  "ArtistID": 4397, 
+  "DateAcquired": "1961-12-13", 
   "Keywords": [
-    "online art collection", 
     "Claes Oldenburg", 
     "Red Tights with Fragment 9", 
     "April 1961"
   ], 
+  "ArtistID": 4397, 
+  "Title": "Red Tights with Fragment 9", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "387.1961", 
+  "Date": "April 1961", 
   "ArtistBio": "(American, born Sweden 1929)", 
-  "DateAcquired": "1961-12-13", 
-  "\ufeffTitle": "Red Tights with Fragment 9", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81419"
 }

@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Albert Oehlen", 
   "URL": "http://www.moma.org/collection/works/65935", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Miles O.Epstein and Richard A. Epstein Funds", 
-  "Date": "1987", 
-  "ArtistID": 4375, 
+  "DateAcquired": "1989-10-12", 
   "Keywords": [
-    "online art collection", 
     "Albert Oehlen", 
     "Object (Dinge)", 
     "1987"
   ], 
+  "ArtistID": 4375, 
+  "Title": "Object (Dinge)", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "280.1989.a-b", 
+  "Date": "1987", 
   "ArtistBio": "(German, born 1954)", 
-  "DateAcquired": "1989-10-12", 
-  "\ufeffTitle": "Object (Dinge)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "65935"
 }

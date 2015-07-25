@@ -4,12 +4,9 @@
   "Classification": "A&D Mies van der Rohe Archive", 
   "Artist": "Ludwig Mies van der Rohe", 
   "URL": "http://www.moma.org/collection/works/87434", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Mies van der Rohe Archive, gift of the architect\r\n", 
-  "Date": "1959", 
-  "ArtistID": 7166, 
+  "DateAcquired": "", 
   "Keywords": [
-    "online art collection", 
     "Ludwig Mies van der Rohe", 
     "Federal Center", 
     "Chicago", 
@@ -17,10 +14,12 @@
     "Exterior elevation and floor plan", 
     "1959"
   ], 
+  "ArtistID": 7166, 
+  "Title": "Federal Center, Chicago, Illinois, Exterior elevation and floor plan", 
   "Department": "Architecture & Design", 
   "MoMANumber": "MR5904.40", 
+  "Date": "1959", 
   "ArtistBio": "(American, born Germany. 1886\u20131969)", 
-  "DateAcquired": "", 
-  "\ufeffTitle": "Federal Center, Chicago, Illinois, Exterior elevation and floor plan", 
+  "CuratorApproved": "Y", 
   "ObjectID": "87434"
 }

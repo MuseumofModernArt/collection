@@ -4,20 +4,19 @@
   "Classification": "Drawing", 
   "Artist": "Oskar Schlemmer", 
   "URL": "http://www.moma.org/collection/works/38339", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The Riklis Collection of McCrory Corporation", 
-  "Date": "(1936)", 
-  "ArtistID": 5219, 
+  "DateAcquired": "1985-09-10", 
   "Keywords": [
-    "online art collection", 
     "Oskar Schlemmer", 
     "Figures in a Room (Figuren im Raum)", 
     "(1936)"
   ], 
+  "ArtistID": 5219, 
+  "Title": "Figures in a Room (Figuren im Raum)", 
   "Department": "Drawings", 
   "MoMANumber": "951.1983", 
+  "Date": "(1936)", 
   "ArtistBio": "(German, 1888\u20131943)", 
-  "DateAcquired": "1985-09-10", 
-  "\ufeffTitle": "Figures in a Room (Figuren im Raum)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "38339"
 }

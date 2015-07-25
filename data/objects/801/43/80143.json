@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Arshile Gorky", 
   "URL": "http://www.moma.org/collection/works/80143", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Sidney and Harriet Janis Collection Fund", 
-  "Date": "1944", 
-  "ArtistID": 2252, 
+  "DateAcquired": "1977-12-13", 
   "Keywords": [
-    "online art collection", 
     "Arshile Gorky", 
     "The Leaf of the Artichoke Is an Owl", 
     "1944"
   ], 
+  "ArtistID": 2252, 
+  "Title": "The Leaf of the Artichoke Is an Owl", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "632.1977", 
+  "Date": "1944", 
   "ArtistBio": "(American, born Armenia. 1904\u20131948)", 
-  "DateAcquired": "1977-12-13", 
-  "\ufeffTitle": "The Leaf of the Artichoke Is an Owl", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80143"
 }

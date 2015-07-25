@@ -4,12 +4,9 @@
   "Classification": "A&D Architectural Model", 
   "Artist": "Frank Lloyd Wright", 
   "URL": "http://www.moma.org/collection/works/980", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Best Products Company Architecture Fund", 
-  "Date": "1934-37", 
-  "ArtistID": 6459, 
+  "DateAcquired": "1984-10-30", 
   "Keywords": [
-    "online art collection", 
     "Frank Lloyd Wright", 
     "Fallingwater", 
     "Edgar J", 
@@ -18,10 +15,12 @@
     "Pennsylvania", 
     "1934-37"
   ], 
+  "ArtistID": 6459, 
+  "Title": "Fallingwater, Edgar J. Kaufmann House, Mill Run, Pennsylvania", 
   "Department": "Architecture & Design", 
   "MoMANumber": "125.1984", 
+  "Date": "1934-37", 
   "ArtistBio": "(American, 1867\u20131959)", 
-  "DateAcquired": "1984-10-30", 
-  "\ufeffTitle": "Fallingwater, Edgar J. Kaufmann House, Mill Run, Pennsylvania", 
+  "CuratorApproved": "Y", 
   "ObjectID": "980"
 }

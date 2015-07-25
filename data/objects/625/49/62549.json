@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Paul Klee", 
   "URL": "http://www.moma.org/collection/works/62549", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1928", 
-  "ArtistID": 3130, 
+  "DateAcquired": "1949-03-24", 
   "Keywords": [
-    "online art collection", 
     "Paul Klee", 
     "Underbrush (Gestr&uuml;pp)", 
     "1928"
   ], 
+  "ArtistID": 3130, 
+  "Title": "Underbrush (Gestr\u00fcpp)", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "135.1949", 
+  "Date": "1928", 
   "ArtistBio": "(German, born Switzerland. 1879\u20131940)", 
-  "DateAcquired": "1949-03-24", 
-  "\ufeffTitle": "Underbrush (Gestr\u00fcpp)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "62549"
 }

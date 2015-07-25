@@ -4,12 +4,9 @@
   "Classification": "Print", 
   "Artist": "Carl (Carlo) Mense", 
   "URL": "http://www.moma.org/collection/works/70540", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Given anonymously", 
-  "Date": "(1919)", 
-  "ArtistID": 3932, 
+  "DateAcquired": "1942-11-19", 
   "Keywords": [
-    "online art collection", 
     "Carl (Carlo) Mense", 
     "Good Friday (Karfreitag) from the periodical in portfolio form Die Schaffenden", 
     "vol", 
@@ -18,10 +15,12 @@
     "4", 
     "(1919)"
   ], 
+  "ArtistID": 3932, 
+  "Title": "Good Friday (Karfreitag) from the periodical in portfolio form Die Schaffenden, vol. 1, no. 4", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "525.1942", 
+  "Date": "(1919)", 
   "ArtistBio": "(German, 1886\u20131965)", 
-  "DateAcquired": "1942-11-19", 
-  "\ufeffTitle": "Good Friday (Karfreitag) from the periodical in portfolio form Die Schaffenden, vol. 1, no. 4", 
+  "CuratorApproved": "Y", 
   "ObjectID": "70540"
 }

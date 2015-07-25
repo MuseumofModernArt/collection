@@ -4,12 +4,9 @@
   "Classification": "Print", 
   "Artist": "Oskar Kokoschka", 
   "URL": "http://www.moma.org/collection/works/72789", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Transferred from the Museum Library", 
-  "Date": "1917", 
-  "ArtistID": 3197, 
+  "DateAcquired": "1949-09-29", 
   "Keywords": [
-    "online art collection", 
     "Oskar Kokoschka", 
     "K&auml;the Richter (plate", 
     "loose leaf) from the periodical Das Kunstblatt", 
@@ -19,10 +16,12 @@
     "10 (Oct 1917)", 
     "1917"
   ], 
+  "ArtistID": 3197, 
+  "Title": "K\u00e4the Richter (plate, loose leaf) from the periodical Das Kunstblatt, vol. 1, no. 10 (Oct 1917)", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "662.1949", 
+  "Date": "1917", 
   "ArtistBio": "(Austrian, 1886\u20131980)", 
-  "DateAcquired": "1949-09-29", 
-  "\ufeffTitle": "K\u00e4the Richter (plate, loose leaf) from the periodical Das Kunstblatt, vol. 1, no. 10 (Oct 1917)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "72789"
 }

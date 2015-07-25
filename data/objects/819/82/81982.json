@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Louise Bourgeois", 
   "URL": "http://www.moma.org/collection/works/81982", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the artist (by exchange)", 
-  "Date": "1954", 
-  "ArtistID": 710, 
+  "DateAcquired": "2001-04-09", 
   "Keywords": [
-    "online art collection", 
     "Louise Bourgeois", 
     "Figure", 
     "1954"
   ], 
+  "ArtistID": 710, 
+  "Title": "Figure", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "1172.2001", 
+  "Date": "1954", 
   "ArtistBio": "(American, born France. 1911\u20132010)", 
-  "DateAcquired": "2001-04-09", 
-  "\ufeffTitle": "Figure", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81982"
 }

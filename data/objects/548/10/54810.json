@@ -4,12 +4,9 @@
   "Classification": "Photograph", 
   "Artist": "Rosalind Fox Solomon", 
   "URL": "http://www.moma.org/collection/works/54810", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the photographer", 
-  "Date": "1975", 
-  "ArtistID": 5517, 
+  "DateAcquired": "1980-10-23", 
   "Keywords": [
-    "online art collection", 
     "Rosalind Solomon", 
     "Waiting Room", 
     "Baroness Erlanger Hospital", 
@@ -17,10 +14,12 @@
     "Tennessee", 
     "1975"
   ], 
+  "ArtistID": 5517, 
+  "Title": "Waiting Room, Baroness Erlanger Hospital, Chattanooga, Tennessee", 
   "Department": "Photography", 
   "MoMANumber": "534.1980", 
+  "Date": "1975", 
   "ArtistBio": "(American, born 1930)", 
-  "DateAcquired": "1980-10-23", 
-  "\ufeffTitle": "Waiting Room, Baroness Erlanger Hospital, Chattanooga, Tennessee", 
+  "CuratorApproved": "Y", 
   "ObjectID": "54810"
 }

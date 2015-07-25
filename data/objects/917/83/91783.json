@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "John Currin", 
   "URL": "http://www.moma.org/collection/works/91783", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Fractional and promised gift of David Teiger", 
-  "Date": "2001", 
-  "ArtistID": 8444, 
+  "DateAcquired": "2004-06-08", 
   "Keywords": [
-    "online art collection", 
     "John Currin", 
     "The Gardeners", 
     "2001"
   ], 
+  "ArtistID": 8444, 
+  "Title": "The Gardeners", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "314.2004", 
+  "Date": "2001", 
   "ArtistBio": "(American, born 1962)", 
-  "DateAcquired": "2004-06-08", 
-  "\ufeffTitle": "The Gardeners", 
+  "CuratorApproved": "Y", 
   "ObjectID": "91783"
 }

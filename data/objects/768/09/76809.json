@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Max Beckmann", 
   "URL": "http://www.moma.org/collection/works/76809", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Johanna and Leslie J. Garfield Fund and The Philip and Lynn Straus Foundation Fund", 
-  "Date": "1923 (published 1924)", 
-  "ArtistID": 429, 
+  "DateAcquired": "2001-05-24", 
   "Keywords": [
-    "online art collection", 
     "Max Beckmann", 
     "At the Toilette (Bei der Toilette)", 
     "1923 (published 1924)"
   ], 
+  "ArtistID": 429, 
+  "Title": "At the Toilette (Bei der Toilette)", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "1440.2001", 
+  "Date": "1923 (published 1924)", 
   "ArtistBio": "(German, 1884\u20131950)", 
-  "DateAcquired": "2001-05-24", 
-  "\ufeffTitle": "At the Toilette (Bei der Toilette)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "76809"
 }

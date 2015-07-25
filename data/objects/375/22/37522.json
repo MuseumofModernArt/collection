@@ -4,20 +4,19 @@
   "Classification": "Drawing", 
   "Artist": "Alfred Kubin", 
   "URL": "http://www.moma.org/collection/works/37522", 
-  "CuratorApproved": "Y", 
   "CreditLine": "John S. Newberry Fund", 
-  "Date": "(1923)", 
-  "ArtistID": 3276, 
+  "DateAcquired": "1964-10-06", 
   "Keywords": [
-    "online art collection", 
     "Alfred Kubin", 
     "Christ's Entry into Jerusalem (Der Einzug in Jerusalem)", 
     "(1923)"
   ], 
+  "ArtistID": 3276, 
+  "Title": "Christ's Entry into Jerusalem (Der Einzug in Jerusalem)", 
   "Department": "Drawings", 
   "MoMANumber": "600.1964", 
+  "Date": "(1923)", 
   "ArtistBio": "(Austrian, 1877\u20131959)", 
-  "DateAcquired": "1964-10-06", 
-  "\ufeffTitle": "Christ's Entry into Jerusalem (Der Einzug in Jerusalem)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "37522"
 }

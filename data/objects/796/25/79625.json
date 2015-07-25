@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Walter Quirt", 
   "URL": "http://www.moma.org/collection/works/79625", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Given anonymously", 
-  "Date": "1934", 
-  "ArtistID": 4775, 
+  "DateAcquired": "1938-10-20", 
   "Keywords": [
-    "online art collection", 
     "Walter Quirt", 
     "Burial", 
     "1934"
   ], 
+  "ArtistID": 4775, 
+  "Title": "Burial", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "401.1938", 
+  "Date": "1934", 
   "ArtistBio": "(American, 1902\u20131968)", 
-  "DateAcquired": "1938-10-20", 
-  "\ufeffTitle": "Burial", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79625"
 }

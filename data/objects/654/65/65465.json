@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Robert Rauschenberg", 
   "URL": "http://www.moma.org/collection/works/65465", 
-  "CuratorApproved": "Y", 
   "CreditLine": "John B. Turner Fund", 
-  "Date": "1974", 
-  "ArtistID": 4823, 
+  "DateAcquired": "1974-04-23", 
   "Keywords": [
-    "online art collection", 
     "Robert Rauschenberg", 
     "Roan fromFuses", 
     "1974"
   ], 
+  "ArtistID": 4823, 
+  "Title": "Roan fromFuses", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "261.1974", 
+  "Date": "1974", 
   "ArtistBio": "(American, 1925\u20132008)", 
-  "DateAcquired": "1974-04-23", 
-  "\ufeffTitle": "Roan fromFuses", 
+  "CuratorApproved": "Y", 
   "ObjectID": "65465"
 }

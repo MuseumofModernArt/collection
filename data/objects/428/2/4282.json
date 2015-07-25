@@ -4,11 +4,9 @@
   "Classification": "A&D Design", 
   "Artist": "Hewlett-Packard Company, Santa Clara, CA", 
   "URL": "http://www.moma.org/collection/works/4282", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the manufacturer", 
-  "Date": "1987", 
+  "DateAcquired": "1990-10-24", 
   "Keywords": [
-    "online art collection", 
     "Hewlett-Packard Company", 
     "Santa Clara", 
     "CA", 
@@ -16,10 +14,11 @@
     "Corresponding Microchip", 
     "1987"
   ], 
+  "Title": "Diagram of Central Processing Unit Chip (Microprocessor), Corresponding Microchip", 
   "Department": "Architecture & Design", 
   "MoMANumber": "514.1990.1-2", 
+  "Date": "1987", 
   "ArtistBio": "(American, established 1939)", 
-  "DateAcquired": "1990-10-24", 
-  "\ufeffTitle": "Diagram of Central Processing Unit Chip (Microprocessor), Corresponding Microchip", 
+  "CuratorApproved": "Y", 
   "ObjectID": "4282"
 }

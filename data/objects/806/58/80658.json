@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Francis Picabia", 
   "URL": "http://www.moma.org/collection/works/80658", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Eugene and Agnes E. Meyer Collection, given by their family", 
-  "Date": "June-September 1912", 
-  "ArtistID": 4607, 
+  "DateAcquired": "1975-02-11", 
   "Keywords": [
-    "online art collection", 
     "Francis Picabia", 
     "The Spring", 
     "June-September 1912"
   ], 
+  "ArtistID": 4607, 
+  "Title": "The Spring", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "1411.1974", 
+  "Date": "June-September 1912", 
   "ArtistBio": "(French, 1879\u20131953)", 
-  "DateAcquired": "1975-02-11", 
-  "\ufeffTitle": "The Spring", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80658"
 }

@@ -4,20 +4,19 @@
   "Classification": "A&D Design", 
   "Artist": "Alvar Aalto", 
   "URL": "http://www.moma.org/collection/works/4460", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1931-32", 
-  "ArtistID": 34, 
+  "DateAcquired": "1942-01-01", 
   "Keywords": [
-    "online art collection", 
     "Alvar Aalto", 
     "Stacking Armchair (model 403)", 
     "1931-32"
   ], 
+  "ArtistID": 34, 
+  "Title": "Stacking Armchair (model 403)", 
   "Department": "Architecture & Design", 
   "MoMANumber": "833.1942", 
+  "Date": "1931-32", 
   "ArtistBio": "(Finnish, 1898\u20131976)", 
-  "DateAcquired": "1942-01-01", 
-  "\ufeffTitle": "Stacking Armchair (model 403)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "4460"
 }

@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Jane Dickson", 
   "URL": "http://www.moma.org/collection/works/66552", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Nelson Blitz, Jr.", 
-  "Date": "1986", 
-  "ArtistID": 1538, 
+  "DateAcquired": "1986-10-15", 
   "Keywords": [
-    "online art collection", 
     "Jane Dickson", 
     "Yoyo Ride", 
     "1986"
   ], 
+  "ArtistID": 1538, 
+  "Title": "Yoyo Ride", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "306.1986", 
+  "Date": "1986", 
   "ArtistBio": "(American, born 1952)", 
-  "DateAcquired": "1986-10-15", 
-  "\ufeffTitle": "Yoyo Ride", 
+  "CuratorApproved": "Y", 
   "ObjectID": "66552"
 }

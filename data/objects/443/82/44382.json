@@ -4,12 +4,9 @@
   "Classification": "Photograph", 
   "Artist": "Alfred A. Hart", 
   "URL": "http://www.moma.org/collection/works/44382", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "c. 1869", 
-  "ArtistID": 2517, 
+  "DateAcquired": "1981-02-26", 
   "Keywords": [
-    "online art collection", 
     "Alfred A", 
     "Hart", 
     "Rounding Cape Horn", 
@@ -18,10 +15,12 @@
     "c", 
     "1869"
   ], 
+  "ArtistID": 2517, 
+  "Title": "Rounding Cape Horn. Road to Iowa Hill from the River, in the Distance", 
   "Department": "Photography", 
   "MoMANumber": "35.1981", 
+  "Date": "c. 1869", 
   "ArtistBio": "(American, 1816\u20131908)", 
-  "DateAcquired": "1981-02-26", 
-  "\ufeffTitle": "Rounding Cape Horn. Road to Iowa Hill from the River, in the Distance", 
+  "CuratorApproved": "Y", 
   "ObjectID": "44382"
 }

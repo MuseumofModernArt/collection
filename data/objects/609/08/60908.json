@@ -4,21 +4,20 @@
   "Classification": "Print", 
   "Artist": "Christian Rohlfs", 
   "URL": "http://www.moma.org/collection/works/60908", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Matthew T. Mellon Foundation Fund", 
-  "Date": "(c. 1915)", 
-  "ArtistID": 5000, 
+  "DateAcquired": "1962-01-09", 
   "Keywords": [
-    "online art collection", 
     "Christian Rohlfs", 
     "Children (Kinder)", 
     "(c", 
     "1915)"
   ], 
+  "ArtistID": 5000, 
+  "Title": "Children (Kinder)", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "49.1962", 
+  "Date": "(c. 1915)", 
   "ArtistBio": "(German, 1849\u20131938)", 
-  "DateAcquired": "1962-01-09", 
-  "\ufeffTitle": "Children (Kinder)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "60908"
 }

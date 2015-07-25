@@ -4,21 +4,20 @@
   "Classification": "Sculpture", 
   "Artist": "Henri Matisse", 
   "URL": "http://www.moma.org/collection/works/81582", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Mr. and Mrs. Sam Salz Fund", 
-  "Date": "Paris, 1900-1904", 
-  "ArtistID": 3832, 
+  "DateAcquired": "1956-11-08", 
   "Keywords": [
-    "online art collection", 
     "Henri Matisse", 
     "The Serf", 
     "Paris", 
     "1900-1904"
   ], 
+  "ArtistID": 3832, 
+  "Title": "The Serf", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "553.1956", 
+  "Date": "Paris, 1900-1904", 
   "ArtistBio": "(French, 1869\u20131954)", 
-  "DateAcquired": "1956-11-08", 
-  "\ufeffTitle": "The Serf", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81582"
 }

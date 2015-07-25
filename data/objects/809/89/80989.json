@@ -4,21 +4,20 @@
   "Classification": "Sculpture", 
   "Artist": "Robert Rauschenberg", 
   "URL": "http://www.moma.org/collection/works/80989", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "c. 1953", 
-  "ArtistID": 4823, 
+  "DateAcquired": "1999-05-11", 
   "Keywords": [
-    "online art collection", 
     "Robert Rauschenberg", 
     "Untitled", 
     "c", 
     "1953"
   ], 
+  "ArtistID": 4823, 
+  "Title": "Untitled", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "124.1999", 
+  "Date": "c. 1953", 
   "ArtistBio": "(American, 1925\u20132008)", 
-  "DateAcquired": "1999-05-11", 
-  "\ufeffTitle": "Untitled", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80989"
 }

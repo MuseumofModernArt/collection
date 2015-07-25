@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Thomas Nozkowski", 
   "URL": "http://www.moma.org/collection/works/69749", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1992", 
-  "ArtistID": 4344, 
+  "DateAcquired": "1992-11-04", 
   "Keywords": [
-    "online art collection", 
     "Thomas Nozkowski", 
     "Untitled", 
     "1992"
   ], 
+  "ArtistID": 4344, 
+  "Title": "Untitled", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "475.1992", 
+  "Date": "1992", 
   "ArtistBio": "(American, born 1944)", 
-  "DateAcquired": "1992-11-04", 
-  "\ufeffTitle": "Untitled", 
+  "CuratorApproved": "Y", 
   "ObjectID": "69749"
 }

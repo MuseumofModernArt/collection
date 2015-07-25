@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Juan Gris", 
   "URL": "http://www.moma.org/collection/works/78933", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Bequest of Anna Erickson Levene in memory of her husband, Dr. Phoebus Aaron Theodor Levene", 
-  "Date": "October 1913", 
-  "ArtistID": 2349, 
+  "DateAcquired": "1947-06-17", 
   "Keywords": [
-    "online art collection", 
     "Juan Gris", 
     "Grapes", 
     "October 1913"
   ], 
+  "ArtistID": 2349, 
+  "Title": "Grapes", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "132.1947", 
+  "Date": "October 1913", 
   "ArtistBio": "(Spanish, 1887\u20131927)", 
-  "DateAcquired": "1947-06-17", 
-  "\ufeffTitle": "Grapes", 
+  "CuratorApproved": "Y", 
   "ObjectID": "78933"
 }

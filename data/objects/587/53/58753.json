@@ -4,22 +4,21 @@
   "Classification": "Photograph", 
   "Artist": "Times Wide World Photos", 
   "URL": "http://www.moma.org/collection/works/58753", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The New York Times Collection", 
-  "Date": "November 21, 1932", 
-  "ArtistID": 8632, 
+  "DateAcquired": "2001-06-14", 
   "Keywords": [
-    "online art collection", 
     "Times Wide World Photos", 
     "\"Mrs", 
     "Cornelius Vanderbilt\"", 
     "November 21", 
     "1932"
   ], 
+  "ArtistID": 8632, 
+  "Title": "\"Mrs. Cornelius Vanderbilt\"", 
   "Department": "Photography", 
   "MoMANumber": "2160.2001", 
+  "Date": "November 21, 1932", 
   "ArtistBio": "(American, active 1919\u20131941)", 
-  "DateAcquired": "2001-06-14", 
-  "\ufeffTitle": "\"Mrs. Cornelius Vanderbilt\"", 
+  "CuratorApproved": "Y", 
   "ObjectID": "58753"
 }

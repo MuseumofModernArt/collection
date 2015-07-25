@@ -4,21 +4,20 @@
   "Classification": "Print", 
   "Artist": "Marc Chagall", 
   "URL": "http://www.moma.org/collection/works/67711", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the artist", 
-  "Date": "c. 1924-25", 
-  "ArtistID": 1055, 
+  "DateAcquired": "1949-09-29", 
   "Keywords": [
-    "online art collection", 
     "Marc Chagall", 
     "Self Portrait with Grimace", 
     "c", 
     "1924-25"
   ], 
+  "ArtistID": 1055, 
+  "Title": "Self Portrait with Grimace", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "362.1949", 
+  "Date": "c. 1924-25", 
   "ArtistBio": "(French, born Belarus. 1887\u20131985)", 
-  "DateAcquired": "1949-09-29", 
-  "\ufeffTitle": "Self Portrait with Grimace", 
+  "CuratorApproved": "Y", 
   "ObjectID": "67711"
 }

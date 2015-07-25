@@ -4,21 +4,20 @@
   "Classification": "Photograph", 
   "Artist": "Lee Friedlander", 
   "URL": "http://www.moma.org/collection/works/53669", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1973", 
-  "ArtistID": 2002, 
+  "DateAcquired": "2000-10-12", 
   "Keywords": [
-    "online art collection", 
     "Lee Friedlander", 
     "Saint-Cloud", 
     "France", 
     "1973"
   ], 
+  "ArtistID": 2002, 
+  "Title": "Saint-Cloud, France", 
   "Department": "Photography", 
   "MoMANumber": "461.2000", 
+  "Date": "1973", 
   "ArtistBio": "(American, born 1934)", 
-  "DateAcquired": "2000-10-12", 
-  "\ufeffTitle": "Saint-Cloud, France", 
+  "CuratorApproved": "Y", 
   "ObjectID": "53669"
 }

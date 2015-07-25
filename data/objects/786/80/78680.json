@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "James Francis Gill", 
   "URL": "http://www.moma.org/collection/works/78680", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of D. and J. de Menil", 
-  "Date": "1962", 
-  "ArtistID": 2159, 
+  "DateAcquired": "1963-02-13", 
   "Keywords": [
-    "online art collection", 
     "James Francis Gill", 
     "Marilyn", 
     "1962"
   ], 
+  "ArtistID": 2159, 
+  "Title": "Marilyn", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "72.1963.a-c", 
+  "Date": "1962", 
   "ArtistBio": "(American, born 1934)", 
-  "DateAcquired": "1963-02-13", 
-  "\ufeffTitle": "Marilyn", 
+  "CuratorApproved": "Y", 
   "ObjectID": "78680"
 }

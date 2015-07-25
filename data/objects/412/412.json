@@ -4,12 +4,9 @@
   "Classification": "A&D Architectural Drawing", 
   "Artist": "Raimund Abraham", 
   "URL": "http://www.moma.org/collection/works/412", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the architect in honor of Lily Auchincloss", 
-  "Date": "1984", 
-  "ArtistID": 47, 
+  "DateAcquired": "1994-09-21", 
   "Keywords": [
-    "online art collection", 
     "Raimund Abraham", 
     "Times Square Tower Project", 
     "New York", 
@@ -17,10 +14,12 @@
     "Exterior perspective", 
     "1984"
   ], 
+  "ArtistID": 47, 
+  "Title": "Times Square Tower Project, New York, NY, Exterior perspective", 
   "Department": "Architecture & Design", 
   "MoMANumber": "369.1994", 
+  "Date": "1984", 
   "ArtistBio": "(American, born Austria. 1933\u20132010)", 
-  "DateAcquired": "1994-09-21", 
-  "\ufeffTitle": "Times Square Tower Project, New York, NY, Exterior perspective", 
+  "CuratorApproved": "Y", 
   "ObjectID": "412"
 }

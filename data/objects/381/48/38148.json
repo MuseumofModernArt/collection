@@ -4,20 +4,19 @@
   "Classification": "Drawing", 
   "Artist": "Paul Klee", 
   "URL": "http://www.moma.org/collection/works/38148", 
-  "CuratorApproved": "Y", 
   "CreditLine": "L-B Foundation Fund", 
-  "Date": "1913", 
-  "ArtistID": 3130, 
+  "DateAcquired": "1969-10-28", 
   "Keywords": [
-    "online art collection", 
     "Paul Klee", 
     "The Hanged Ones (Die Geh&auml;ngten)", 
     "1913"
   ], 
+  "ArtistID": 3130, 
+  "Title": "The Hanged Ones (Die Geh\u00e4ngten)", 
   "Department": "Drawings", 
   "MoMANumber": "827.1969", 
+  "Date": "1913", 
   "ArtistBio": "(German, born Switzerland. 1879\u20131940)", 
-  "DateAcquired": "1969-10-28", 
-  "\ufeffTitle": "The Hanged Ones (Die Geh\u00e4ngten)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "38148"
 }

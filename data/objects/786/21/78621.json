@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Paul Gauguin", 
   "URL": "http://www.moma.org/collection/works/78621", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Lillie P. Bliss Collection", 
-  "Date": "1893", 
-  "ArtistID": 2098, 
+  "DateAcquired": "1934-09-23", 
   "Keywords": [
-    "online art collection", 
     "Paul Gauguin", 
     "The Moon and the Earth", 
     "1893"
   ], 
+  "ArtistID": 2098, 
+  "Title": "The Moon and the Earth", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "50.1934", 
+  "Date": "1893", 
   "ArtistBio": "(French, 1848\u20131903)", 
-  "DateAcquired": "1934-09-23", 
-  "\ufeffTitle": "The Moon and the Earth", 
+  "CuratorApproved": "Y", 
   "ObjectID": "78621"
 }

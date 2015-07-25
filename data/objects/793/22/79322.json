@@ -4,21 +4,20 @@
   "Classification": "Painting", 
   "Artist": "Pablo Picasso", 
   "URL": "http://www.moma.org/collection/works/79322", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Acquired through the Lillie P. Bliss Bequest", 
-  "Date": "Paris, winter 1908-09", 
-  "ArtistID": 4609, 
+  "DateAcquired": "1944-11-08", 
   "Keywords": [
-    "online art collection", 
     "Pablo Picasso", 
     "Fruit Dish", 
     "Paris", 
     "winter 1908-09"
   ], 
+  "ArtistID": 4609, 
+  "Title": "Fruit Dish", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "263.1944", 
+  "Date": "Paris, winter 1908-09", 
   "ArtistBio": "(Spanish, 1881\u20131973)", 
-  "DateAcquired": "1944-11-08", 
-  "\ufeffTitle": "Fruit Dish", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79322"
 }

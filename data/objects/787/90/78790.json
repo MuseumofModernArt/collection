@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Andr\u00e9 Masson", 
   "URL": "http://www.moma.org/collection/works/78790", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the artist", 
-  "Date": "1944", 
-  "ArtistID": 3821, 
+  "DateAcquired": "1976-03-09", 
   "Keywords": [
-    "online art collection", 
     "Andr&eacute; Masson", 
     "The Kill", 
     "1944"
   ], 
+  "ArtistID": 3821, 
+  "Title": "The Kill", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "103.1976", 
+  "Date": "1944", 
   "ArtistBio": "(French, 1896\u20131987)", 
-  "DateAcquired": "1976-03-09", 
-  "\ufeffTitle": "The Kill", 
+  "CuratorApproved": "Y", 
   "ObjectID": "78790"
 }

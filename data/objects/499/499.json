@@ -4,12 +4,9 @@
   "Classification": "A&D Architectural Drawing", 
   "Artist": "Theo van Doesburg (Christian Emil Marie K\u00fcpper)", 
   "URL": "http://www.moma.org/collection/works/499", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Lily Auchincloss, Celeste Bartos, and Marshall Cogan", 
-  "Date": "1927", 
-  "ArtistID": 6076, 
+  "DateAcquired": "1982-10-27", 
   "Keywords": [
-    "online art collection", 
     "Theo van Doesburg (Christian Emil Marie K&uuml;pper)", 
     "Caf&eacute; Aubette", 
     "Strasbourg", 
@@ -18,10 +15,12 @@
     "preliminary version", 
     "1927"
   ], 
+  "ArtistID": 6076, 
+  "Title": "Caf\u00e9 Aubette, Strasbourg, France , Color scheme for floor and long walls of ballroom, preliminary version", 
   "Department": "Architecture & Design", 
   "MoMANumber": "391.1982", 
+  "Date": "1927", 
   "ArtistBio": "(Dutch, 1883\u20131931)", 
-  "DateAcquired": "1982-10-27", 
-  "\ufeffTitle": "Caf\u00e9 Aubette, Strasbourg, France , Color scheme for floor and long walls of ballroom, preliminary version", 
+  "CuratorApproved": "Y", 
   "ObjectID": "499"
 }

@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Georgia O'Keeffe", 
   "URL": "http://www.moma.org/collection/works/78677", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Acquired through the Helen Acheson Bequest", 
-  "Date": "1927", 
-  "ArtistID": 4360, 
+  "DateAcquired": "1979-03-13", 
   "Keywords": [
-    "online art collection", 
     "Georgia O'Keeffe", 
     "Abstraction Blue", 
     "1927"
   ], 
+  "ArtistID": 4360, 
+  "Title": "Abstraction Blue", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "71.1979", 
+  "Date": "1927", 
   "ArtistBio": "(American, 1887\u20131986)", 
-  "DateAcquired": "1979-03-13", 
-  "\ufeffTitle": "Abstraction Blue", 
+  "CuratorApproved": "Y", 
   "ObjectID": "78677"
 }

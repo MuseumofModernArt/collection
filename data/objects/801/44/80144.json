@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "David Alfaro Siqueiros", 
   "URL": "http://www.moma.org/collection/works/80144", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Edward M. M. Warburg", 
-  "Date": "1937", 
-  "ArtistID": 5454, 
+  "DateAcquired": "1939-12-08", 
   "Keywords": [
-    "online art collection", 
     "David Alfaro Siqueiros", 
     "Echo of a Scream", 
     "1937"
   ], 
+  "ArtistID": 5454, 
+  "Title": "Echo of a Scream", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "633.1939", 
+  "Date": "1937", 
   "ArtistBio": "(Mexican, 1896\u20131974)", 
-  "DateAcquired": "1939-12-08", 
-  "\ufeffTitle": "Echo of a Scream", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80144"
 }

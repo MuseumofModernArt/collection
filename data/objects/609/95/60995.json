@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Roy Lichtenstein", 
   "URL": "http://www.moma.org/collection/works/60995", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Given anonymously in honor of Agnes Gund and Daniel Shapiro", 
-  "Date": "1965", 
-  "ArtistID": 3542, 
+  "DateAcquired": "1999-03-04", 
   "Keywords": [
-    "online art collection", 
     "Roy Lichtenstein", 
     "This Must Be the Place", 
     "1965"
   ], 
+  "ArtistID": 3542, 
+  "Title": "This Must Be the Place", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "53.1999", 
+  "Date": "1965", 
   "ArtistBio": "(American, 1923\u20131997)", 
-  "DateAcquired": "1999-03-04", 
-  "\ufeffTitle": "This Must Be the Place", 
+  "CuratorApproved": "Y", 
   "ObjectID": "60995"
 }

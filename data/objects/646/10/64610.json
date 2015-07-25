@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Jean Dubuffet", 
   "URL": "http://www.moma.org/collection/works/64610", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Klaus G. Perls, in memory of Frank Perls, Art Dealer (by exchange)", 
-  "Date": "1983", 
-  "ArtistID": 1633, 
+  "DateAcquired": "1983-01-18", 
   "Keywords": [
-    "online art collection", 
     "Jean Dubuffet", 
     "Passers-by (Passants)", 
     "1983"
   ], 
+  "ArtistID": 1633, 
+  "Title": "Passers-by (Passants)", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "218.1983", 
+  "Date": "1983", 
   "ArtistBio": "(French, 1901\u20131985)", 
-  "DateAcquired": "1983-01-18", 
-  "\ufeffTitle": "Passers-by (Passants)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "64610"
 }

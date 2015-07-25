@@ -4,21 +4,20 @@
   "Classification": "Photograph", 
   "Artist": "Lee Friedlander", 
   "URL": "http://www.moma.org/collection/works/52788", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1970", 
-  "ArtistID": 2002, 
+  "DateAcquired": "2000-10-12", 
   "Keywords": [
-    "online art collection", 
     "Lee Friedlander", 
     "Tampa", 
     "Florida", 
     "1970"
   ], 
+  "ArtistID": 2002, 
+  "Title": "Tampa, Florida", 
   "Department": "Photography", 
   "MoMANumber": "409.2000", 
+  "Date": "1970", 
   "ArtistBio": "(American, born 1934)", 
-  "DateAcquired": "2000-10-12", 
-  "\ufeffTitle": "Tampa, Florida", 
+  "CuratorApproved": "Y", 
   "ObjectID": "52788"
 }

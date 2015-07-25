@@ -4,20 +4,19 @@
   "Classification": "Drawing", 
   "Artist": "Chuck Close", 
   "URL": "http://www.moma.org/collection/works/36049", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the artist", 
-  "Date": "1997", 
-  "ArtistID": 1156, 
+  "DateAcquired": "2000-10-10", 
   "Keywords": [
-    "online art collection", 
     "Chuck Close", 
     "Self-Portrait", 
     "1997"
   ], 
+  "ArtistID": 1156, 
+  "Title": "Self-Portrait", 
   "Department": "Drawings", 
   "MoMANumber": "294.2000", 
+  "Date": "1997", 
   "ArtistBio": "(American, born 1940)", 
-  "DateAcquired": "2000-10-10", 
-  "\ufeffTitle": "Self-Portrait", 
+  "CuratorApproved": "Y", 
   "ObjectID": "36049"
 }

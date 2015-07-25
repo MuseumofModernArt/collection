@@ -4,12 +4,9 @@
   "Classification": "Painting", 
   "Artist": "Piet Mondrian", 
   "URL": "http://www.moma.org/collection/works/79002", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of John L. Senior, Jr.", 
-  "Date": "1921", 
-  "ArtistID": 4057, 
+  "DateAcquired": "1957-10-09", 
   "Keywords": [
-    "online art collection", 
     "Piet Mondrian", 
     "Composition with Red", 
     "Blue", 
@@ -18,10 +15,12 @@
     "and Gray", 
     "1921"
   ], 
+  "ArtistID": 4057, 
+  "Title": "Composition with Red, Blue, Black, Yellow, and Gray", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "154.1957", 
+  "Date": "1921", 
   "ArtistBio": "(Dutch, 1872\u20131944)", 
-  "DateAcquired": "1957-10-09", 
-  "\ufeffTitle": "Composition with Red, Blue, Black, Yellow, and Gray", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79002"
 }

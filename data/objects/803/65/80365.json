@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Bridget Riley", 
   "URL": "http://www.moma.org/collection/works/80365", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Philip Johnson", 
-  "Date": "1963", 
-  "ArtistID": 4929, 
+  "DateAcquired": "1969-10-07", 
   "Keywords": [
-    "online art collection", 
     "Bridget Riley", 
     "Fission", 
     "1963"
   ], 
+  "ArtistID": 4929, 
+  "Title": "Fission", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "793.1969", 
+  "Date": "1963", 
   "ArtistBio": "(British, born 1931)", 
-  "DateAcquired": "1969-10-07", 
-  "\ufeffTitle": "Fission", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80365"
 }

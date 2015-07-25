@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Henri Matisse", 
   "URL": "http://www.moma.org/collection/works/78713", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Fractional gift of Mr. and Mrs. David Rockefeller", 
-  "Date": "Paris 1905-06", 
-  "ArtistID": 3832, 
+  "DateAcquired": "1991-04-08", 
   "Keywords": [
-    "online art collection", 
     "Henri Matisse", 
     "Interior with a Young Girl (Girl Reading)", 
     "Paris 1905-06"
   ], 
+  "ArtistID": 3832, 
+  "Title": "Interior with a Young Girl (Girl Reading)", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "79.1991", 
+  "Date": "Paris 1905-06", 
   "ArtistBio": "(French, 1869\u20131954)", 
-  "DateAcquired": "1991-04-08", 
-  "\ufeffTitle": "Interior with a Young Girl (Girl Reading)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "78713"
 }

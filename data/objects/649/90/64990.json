@@ -4,12 +4,9 @@
   "Classification": "Print", 
   "Artist": "Louise Bourgeois", 
   "URL": "http://www.moma.org/collection/works/64990", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the artist", 
-  "Date": "1940\u20131944", 
-  "ArtistID": 710, 
+  "DateAcquired": "1992-05-20", 
   "Keywords": [
-    "online art collection", 
     "Louise Bourgeois", 
     "Man Reading", 
     "first version", 
@@ -17,10 +14,12 @@
     "(c", 
     "1942)"
   ], 
+  "ArtistID": 710, 
+  "Title": "Man Reading", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "238.1992.2", 
+  "Date": "1940\u20131944", 
   "ArtistBio": "(American, born France. 1911\u20132010)", 
-  "DateAcquired": "1992-05-20", 
-  "\ufeffTitle": "Man Reading", 
+  "CuratorApproved": "Y", 
   "ObjectID": "64990"
 }

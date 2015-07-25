@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Lawrence Weiner", 
   "URL": "http://www.moma.org/collection/works/80748", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Acquisition from the Werner Dannheisser Testamentary Trust", 
-  "Date": "1988", 
-  "ArtistID": 6288, 
+  "DateAcquired": "1999-02-08", 
   "Keywords": [
-    "online art collection", 
     "Lawrence Weiner", 
     "Rocks Upon the Beach Sand Upon the Rocks", 
     "1988"
   ], 
+  "ArtistID": 6288, 
+  "Title": "Rocks Upon the Beach Sand Upon the Rocks", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "2.1999", 
+  "Date": "1988", 
   "ArtistBio": "(American, born 1942)", 
-  "DateAcquired": "1999-02-08", 
-  "\ufeffTitle": "Rocks Upon the Beach Sand Upon the Rocks", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80748"
 }

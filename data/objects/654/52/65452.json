@@ -4,12 +4,9 @@
   "Classification": "Print", 
   "Artist": "Louise Bourgeois", 
   "URL": "http://www.moma.org/collection/works/65452", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the artist", 
-  "Date": "1984; reprinted 1990", 
-  "ArtistID": 710, 
+  "DateAcquired": "1992-05-20", 
   "Keywords": [
-    "online art collection", 
     "Louise Bourgeois", 
     "Femme Maison (Woman House)", 
     "only state", 
@@ -17,10 +14,12 @@
     "1985", 
     "published 1990)"
   ], 
+  "ArtistID": 710, 
+  "Title": "Femme Maison", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "260.1992", 
+  "Date": "1984; reprinted 1990", 
   "ArtistBio": "(American, born France. 1911\u20132010)", 
-  "DateAcquired": "1992-05-20", 
-  "\ufeffTitle": "Femme Maison", 
+  "CuratorApproved": "Y", 
   "ObjectID": "65452"
 }

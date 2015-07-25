@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Jackson Pollock", 
   "URL": "http://www.moma.org/collection/works/79678", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Lee Krasner in memory of Jackson Pollock", 
-  "Date": "1953", 
-  "ArtistID": 4675, 
+  "DateAcquired": "1980-04-09", 
   "Keywords": [
-    "online art collection", 
     "Jackson Pollock", 
     "Easter and the Totem", 
     "1953"
   ], 
+  "ArtistID": 4675, 
+  "Title": "Easter and the Totem", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "425.1980", 
+  "Date": "1953", 
   "ArtistBio": "(American, 1912\u20131956)", 
-  "DateAcquired": "1980-04-09", 
-  "\ufeffTitle": "Easter and the Totem", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79678"
 }

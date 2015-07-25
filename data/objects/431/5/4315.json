@@ -4,11 +4,9 @@
   "Classification": "A&D Design", 
   "Artist": "Texas Instruments, Inc., Dallas, TX", 
   "URL": "http://www.moma.org/collection/works/4315", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the manufacturer", 
-  "Date": "1985", 
+  "DateAcquired": "1990-10-24", 
   "Keywords": [
-    "online art collection", 
     "Texas Instruments", 
     "Inc,", 
     "Dallas", 
@@ -17,10 +15,11 @@
     "Corresponding Microchip", 
     "1985"
   ], 
+  "Title": "Diagram of a Dynamic Random-Access Memory Chip (DRAM), Corresponding Microchip", 
   "Department": "Architecture & Design", 
   "MoMANumber": "525.1990.a-b", 
+  "Date": "1985", 
   "ArtistBio": "(American, est. 1930)", 
-  "DateAcquired": "1990-10-24", 
-  "\ufeffTitle": "Diagram of a Dynamic Random-Access Memory Chip (DRAM), Corresponding Microchip", 
+  "CuratorApproved": "Y", 
   "ObjectID": "4315"
 }

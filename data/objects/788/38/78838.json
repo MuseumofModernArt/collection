@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Gastone Novelli", 
   "URL": "http://www.moma.org/collection/works/78838", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Sra. Giovanola Ripandelli", 
-  "Date": "1968", 
-  "ArtistID": 4340, 
+  "DateAcquired": "1973-02-13", 
   "Keywords": [
-    "online art collection", 
     "Gastone Novelli", 
     "Cienfuegos", 
     "1968"
   ], 
+  "ArtistID": 4340, 
+  "Title": "Cienfuegos", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "112.1973", 
+  "Date": "1968", 
   "ArtistBio": "(Italian, 1925\u20131968)", 
-  "DateAcquired": "1973-02-13", 
-  "\ufeffTitle": "Cienfuegos", 
+  "CuratorApproved": "Y", 
   "ObjectID": "78838"
 }

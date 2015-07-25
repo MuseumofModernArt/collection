@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Georges Rouault", 
   "URL": "http://www.moma.org/collection/works/79640", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Given anonymously", 
-  "Date": "1932", 
-  "ArtistID": 5053, 
+  "DateAcquired": "1941-03-20", 
   "Keywords": [
-    "online art collection", 
     "Georges Rouault", 
     "Christ Mocked by Soldiers", 
     "1932"
   ], 
+  "ArtistID": 5053, 
+  "Title": "Christ Mocked by Soldiers", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "414.1941", 
+  "Date": "1932", 
   "ArtistBio": "(French, 1871\u20131958)", 
-  "DateAcquired": "1941-03-20", 
-  "\ufeffTitle": "Christ Mocked by Soldiers", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79640"
 }

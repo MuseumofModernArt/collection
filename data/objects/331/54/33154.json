@@ -4,20 +4,19 @@
   "Classification": "Drawing", 
   "Artist": "Jackson Pollock", 
   "URL": "http://www.moma.org/collection/works/33154", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Blanchette Hooker Rockefeller Fund", 
-  "Date": "1945", 
-  "ArtistID": 4675, 
+  "DateAcquired": "1958-02-19", 
   "Keywords": [
-    "online art collection", 
     "Jackson Pollock", 
     "Untitled", 
     "1945"
   ], 
+  "ArtistID": 4675, 
+  "Title": "Untitled", 
   "Department": "Drawings", 
   "MoMANumber": "13.1958", 
+  "Date": "1945", 
   "ArtistBio": "(American, 1912\u20131956)", 
-  "DateAcquired": "1958-02-19", 
-  "\ufeffTitle": "Untitled", 
+  "CuratorApproved": "Y", 
   "ObjectID": "33154"
 }

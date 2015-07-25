@@ -4,12 +4,9 @@
   "Classification": "Painting", 
   "Artist": "Max Ernst", 
   "URL": "http://www.moma.org/collection/works/79326", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "Paris 1923, Eaubonne 1924", 
-  "ArtistID": 1752, 
+  "DateAcquired": "1937-12-03", 
   "Keywords": [
-    "online art collection", 
     "Max Ernst", 
     "Woman", 
     "Old Man", 
@@ -17,10 +14,12 @@
     "Paris 1923", 
     "Eaubonne 1924"
   ], 
+  "ArtistID": 1752, 
+  "Title": "Woman, Old Man, and Flower", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "264.1937", 
+  "Date": "Paris 1923, Eaubonne 1924", 
   "ArtistBio": "(French, born Germany. 1891\u20131976)", 
-  "DateAcquired": "1937-12-03", 
-  "\ufeffTitle": "Woman, Old Man, and Flower", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79326"
 }

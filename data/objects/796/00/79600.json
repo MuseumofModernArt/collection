@@ -4,21 +4,20 @@
   "Classification": "Painting", 
   "Artist": "Marcel Duchamp", 
   "URL": "http://www.moma.org/collection/works/79600", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Abby Aldrich Rockefeller Fund and gift of Mrs. William Sisler", 
-  "Date": "Paris, 1914", 
-  "ArtistID": 1634, 
+  "DateAcquired": "1970-10-14", 
   "Keywords": [
-    "online art collection", 
     "Marcel Duchamp", 
     "Network of Stoppages", 
     "Paris", 
     "1914"
   ], 
+  "ArtistID": 1634, 
+  "Title": "Network of Stoppages", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "390.1970", 
+  "Date": "Paris, 1914", 
   "ArtistBio": "(American, born France. 1887\u20131968)", 
-  "DateAcquired": "1970-10-14", 
-  "\ufeffTitle": "Network of Stoppages", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79600"
 }

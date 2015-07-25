@@ -4,12 +4,9 @@
   "Classification": "Photograph", 
   "Artist": "Lewis W. Hine", 
   "URL": "http://www.moma.org/collection/works/85934", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1909", 
-  "ArtistID": 2657, 
+  "DateAcquired": "1942-12-29", 
   "Keywords": [
-    "online art collection", 
     "Lewis W", 
     "Hine", 
     "Russian Steel Workers", 
@@ -17,10 +14,12 @@
     "Pennsylvania", 
     "1909"
   ], 
+  "ArtistID": 2657, 
+  "Title": "Russian Steel Workers, Homestead, Pennsylvania", 
   "Department": "Photography", 
   "MoMANumber": "394.1942.3", 
+  "Date": "1909", 
   "ArtistBio": "(American, 1874\u20131940)", 
-  "DateAcquired": "1942-12-29", 
-  "\ufeffTitle": "Russian Steel Workers, Homestead, Pennsylvania", 
+  "CuratorApproved": "Y", 
   "ObjectID": "85934"
 }

@@ -4,12 +4,9 @@
   "Classification": "A&D Architectural Drawing", 
   "Artist": "Friedrich St. Florian", 
   "URL": "http://www.moma.org/collection/works/865", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Philip Johnson Fund", 
-  "Date": "1968", 
-  "ArtistID": 5580, 
+  "DateAcquired": "1974-11-06", 
   "Keywords": [
-    "online art collection", 
     "Friedrich St", 
     "Florian", 
     "New York Birdcage-Imaginary Architecture", 
@@ -19,10 +16,12 @@
     "Perspective from above and plan", 
     "1968"
   ], 
+  "ArtistID": 5580, 
+  "Title": "New York Birdcage-Imaginary Architecture, project, New York City, New York, Perspective from above and plan", 
   "Department": "Architecture & Design", 
   "MoMANumber": "1252.1974", 
+  "Date": "1968", 
   "ArtistBio": "(American, born Austria 1932)", 
-  "DateAcquired": "1974-11-06", 
-  "\ufeffTitle": "New York Birdcage-Imaginary Architecture, project, New York City, New York, Perspective from above and plan", 
+  "CuratorApproved": "Y", 
   "ObjectID": "865"
 }

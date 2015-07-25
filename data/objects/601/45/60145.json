@@ -4,21 +4,20 @@
   "Classification": "Print", 
   "Artist": "Pablo Picasso", 
   "URL": "http://www.moma.org/collection/works/60145", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Abby Aldrich Rockefeller Fund", 
-  "Date": "(May 20, 1951)", 
-  "ArtistID": 4609, 
+  "DateAcquired": "1952-01-22", 
   "Keywords": [
-    "online art collection", 
     "Pablo Picasso", 
     "The Departure (Le D&eacute;part)", 
     "(May 20", 
     "1951)"
   ], 
+  "ArtistID": 4609, 
+  "Title": "The Departure (Le D\u00e9part)", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "22.1952", 
+  "Date": "(May 20, 1951)", 
   "ArtistBio": "(Spanish, 1881\u20131973)", 
-  "DateAcquired": "1952-01-22", 
-  "\ufeffTitle": "The Departure (Le D\u00e9part)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "60145"
 }

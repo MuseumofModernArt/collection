@@ -4,22 +4,21 @@
   "Classification": "Photograph", 
   "Artist": "Carl T. Gosset Jr./The New York Times", 
   "URL": "http://www.moma.org/collection/works/58595", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The New York Times Collection", 
-  "Date": "August 28, 1964", 
-  "ArtistID": 8543, 
+  "DateAcquired": "2001-06-14", 
   "Keywords": [
-    "online art collection", 
     "Carl T", 
     "Gosset Jr,/The New York Times", 
     "Beatlemaniacs on the Loose", 
     "August 28", 
     "1964"
   ], 
+  "ArtistID": 8543, 
+  "Title": "Beatlemaniacs on the Loose", 
   "Department": "Photography", 
   "MoMANumber": "2002.2001", 
+  "Date": "August 28, 1964", 
   "ArtistBio": "(American, 1924\u20131985)", 
-  "DateAcquired": "2001-06-14", 
-  "\ufeffTitle": "Beatlemaniacs on the Loose", 
+  "CuratorApproved": "Y", 
   "ObjectID": "58595"
 }

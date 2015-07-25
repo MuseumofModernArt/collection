@@ -4,21 +4,20 @@
   "Classification": "Sculpture", 
   "Artist": "Aristide Maillol", 
   "URL": "http://www.moma.org/collection/works/81068", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Stephen C. Clark", 
-  "Date": "1902-05 (cast c. 1951-53)", 
-  "ArtistID": 3697, 
+  "DateAcquired": "1953-04-07", 
   "Keywords": [
-    "online art collection", 
     "Aristide Maillol", 
     "The Mediterranean", 
     "1902-05 (cast c", 
     "1951-53)"
   ], 
+  "ArtistID": 3697, 
+  "Title": "The Mediterranean", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "173.1953", 
+  "Date": "1902-05 (cast c. 1951-53)", 
   "ArtistBio": "(French, 1861\u20131944)", 
-  "DateAcquired": "1953-04-07", 
-  "\ufeffTitle": "The Mediterranean", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81068"
 }

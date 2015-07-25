@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Daniel Spoerri", 
   "URL": "http://www.moma.org/collection/works/81430", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Philip Johnson Fund", 
-  "Date": "1960", 
-  "ArtistID": 5569, 
+  "DateAcquired": "1961-12-13", 
   "Keywords": [
-    "online art collection", 
     "Daniel Spoerri", 
     "Kichka's Breakfast I", 
     "1960"
   ], 
+  "ArtistID": 5569, 
+  "Title": "Kichka's Breakfast I", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "391.1961", 
+  "Date": "1960", 
   "ArtistBio": "(Swiss, born Romania 1930)", 
-  "DateAcquired": "1961-12-13", 
-  "\ufeffTitle": "Kichka's Breakfast I", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81430"
 }

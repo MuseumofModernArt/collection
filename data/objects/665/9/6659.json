@@ -4,20 +4,19 @@
   "Classification": "A&D Graphic Design", 
   "Artist": "Kit Hinrichs", 
   "URL": "http://www.moma.org/collection/works/6659", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the designer", 
-  "Date": "1982", 
-  "ArtistID": 2659, 
+  "DateAcquired": "1982-10-27", 
   "Keywords": [
-    "online art collection", 
     "Kit Hinrichs", 
     "AIGA California Design", 
     "1982"
   ], 
+  "ArtistID": 2659, 
+  "Title": "AIGA California Design", 
   "Department": "Architecture & Design", 
   "MoMANumber": "416.1982", 
+  "Date": "1982", 
   "ArtistBio": "(American, born 1941)", 
-  "DateAcquired": "1982-10-27", 
-  "\ufeffTitle": "AIGA California Design", 
+  "CuratorApproved": "Y", 
   "ObjectID": "6659"
 }

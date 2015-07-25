@@ -4,20 +4,19 @@
   "Classification": "A&D Design", 
   "Artist": "Unknown Designer", 
   "URL": "http://www.moma.org/collection/works/4204", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "Before 1939", 
-  "ArtistID": 6011, 
+  "DateAcquired": "1939-12-01", 
   "Keywords": [
-    "online art collection", 
     "Unknown Designer", 
     "Jigger", 
     "Before 1939"
   ], 
+  "ArtistID": 6011, 
+  "Title": "Jigger", 
   "Department": "Architecture & Design", 
   "MoMANumber": "671.1939", 
+  "Date": "Before 1939", 
   "ArtistBio": "(Nationality unknown)", 
-  "DateAcquired": "1939-12-01", 
-  "\ufeffTitle": "Jigger", 
+  "CuratorApproved": "Y", 
   "ObjectID": "4204"
 }

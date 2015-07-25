@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Henri Matisse", 
   "URL": "http://www.moma.org/collection/works/62872", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Abby Aldrich Rockefeller Fund", 
-  "Date": "1900-03", 
-  "ArtistID": 3832, 
+  "DateAcquired": "1949-03-24", 
   "Keywords": [
-    "online art collection", 
     "Henri Matisse", 
     "The Weeper (La Pleureuse)", 
     "1900-03"
   ], 
+  "ArtistID": 3832, 
+  "Title": "The Weeper (La Pleureuse)", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "142.1949", 
+  "Date": "1900-03", 
   "ArtistBio": "(French, 1869\u20131954)", 
-  "DateAcquired": "1949-03-24", 
-  "\ufeffTitle": "The Weeper (La Pleureuse)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "62872"
 }

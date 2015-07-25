@@ -4,20 +4,19 @@
   "Classification": "Photograph", 
   "Artist": "Marc Riboud", 
   "URL": "http://www.moma.org/collection/works/58680", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The New York Times Collection", 
-  "Date": "1963", 
-  "ArtistID": 4895, 
+  "DateAcquired": "2001-06-14", 
   "Keywords": [
-    "online art collection", 
     "Marc Riboud", 
     "\"Faces of Britain\"", 
     "1963"
   ], 
+  "ArtistID": 4895, 
+  "Title": "\"Faces of Britain\"", 
   "Department": "Photography", 
   "MoMANumber": "2087.2001", 
+  "Date": "1963", 
   "ArtistBio": "(French, born 1923)", 
-  "DateAcquired": "2001-06-14", 
-  "\ufeffTitle": "\"Faces of Britain\"", 
+  "CuratorApproved": "Y", 
   "ObjectID": "58680"
 }

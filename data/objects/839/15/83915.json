@@ -4,20 +4,19 @@
   "Classification": "Photograph", 
   "Artist": "Alfred Stieglitz", 
   "URL": "http://www.moma.org/collection/works/83915", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Thomas Walther Collection. Grace M. Mayer Fund", 
-  "Date": "1918", 
-  "ArtistID": 5664, 
+  "DateAcquired": "2001-12-13", 
   "Keywords": [
-    "online art collection", 
     "Alfred Stieglitz", 
     "Georgia O'Keeffe: A Portrait", 
     "1918"
   ], 
+  "ArtistID": 5664, 
+  "Title": "Georgia O'Keeffe: A Portrait", 
   "Department": "Photography", 
   "MoMANumber": "1871.2001", 
+  "Date": "1918", 
   "ArtistBio": "(American, 1864\u20131946)", 
-  "DateAcquired": "2001-12-13", 
-  "\ufeffTitle": "Georgia O'Keeffe: A Portrait", 
+  "CuratorApproved": "Y", 
   "ObjectID": "83915"
 }

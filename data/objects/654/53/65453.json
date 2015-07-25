@@ -4,12 +4,9 @@
   "Classification": "Print", 
   "Artist": "Max Beckmann", 
   "URL": "http://www.moma.org/collection/works/65453", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Abby Aldrich Rockefeller", 
-  "Date": "(1918, published c. 1922)", 
-  "ArtistID": 429, 
+  "DateAcquired": "1940-04-05", 
   "Keywords": [
-    "online art collection", 
     "Max Beckmann", 
     "Frontal Self-Portrait with House Gable in Background (Selbstbildnis von vorn", 
     "im Hintergrund Hausgiebel)", 
@@ -17,10 +14,12 @@
     "published c", 
     "1922)"
   ], 
+  "ArtistID": 429, 
+  "Title": "Frontal Self-Portrait with House Gable in Background (Selbstbildnis von vorn, im Hintergrund Hausgiebel)", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "261.1940", 
+  "Date": "(1918, published c. 1922)", 
   "ArtistBio": "(German, 1884\u20131950)", 
-  "DateAcquired": "1940-04-05", 
-  "\ufeffTitle": "Frontal Self-Portrait with House Gable in Background (Selbstbildnis von vorn, im Hintergrund Hausgiebel)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "65453"
 }

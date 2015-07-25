@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Aleksandr Rodchenko", 
   "URL": "http://www.moma.org/collection/works/78840", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the artist, through Jay Leyda", 
-  "Date": "1919", 
-  "ArtistID": 4975, 
+  "DateAcquired": "1936-12-17", 
   "Keywords": [
-    "online art collection", 
     "Aleksandr Rodchenko", 
     "Non-Objective Painting", 
     "1919"
   ], 
+  "ArtistID": 4975, 
+  "Title": "Non-Objective Painting", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "113.1936", 
+  "Date": "1919", 
   "ArtistBio": "(Russian, 1891\u20131956)", 
-  "DateAcquired": "1936-12-17", 
-  "\ufeffTitle": "Non-Objective Painting", 
+  "CuratorApproved": "Y", 
   "ObjectID": "78840"
 }

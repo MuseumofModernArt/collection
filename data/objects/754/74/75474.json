@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Bryan Hunt", 
   "URL": "http://www.moma.org/collection/works/75474", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Acquired with matching funds from Gertrud A. Mellon and the National Endowment for the Arts", 
-  "Date": "1979", 
-  "ArtistID": 2767, 
+  "DateAcquired": "1979-12-04", 
   "Keywords": [
-    "online art collection", 
     "Bryan Hunt", 
     "Fall with a Bend", 
     "1979"
   ], 
+  "ArtistID": 2767, 
+  "Title": "Fall with a Bend", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "1067.1979", 
+  "Date": "1979", 
   "ArtistBio": "(American, born 1947)", 
-  "DateAcquired": "1979-12-04", 
-  "\ufeffTitle": "Fall with a Bend", 
+  "CuratorApproved": "Y", 
   "ObjectID": "75474"
 }

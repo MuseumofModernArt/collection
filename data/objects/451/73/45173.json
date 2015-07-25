@@ -4,21 +4,20 @@
   "Classification": "Photograph", 
   "Artist": "Unknown photographer", 
   "URL": "http://www.moma.org/collection/works/45173", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Jacques Henri Lartigue", 
-  "Date": "1911", 
-  "ArtistID": 6028, 
+  "DateAcquired": "1963-01-08", 
   "Keywords": [
-    "online art collection", 
     "Unknown Photographer", 
     "Monaco", 
     "Bataille de Fleurs on the Water", 
     "1911"
   ], 
+  "ArtistID": 6028, 
+  "Title": "Monaco, Bataille de Fleurs on the Water", 
   "Department": "Photography", 
   "MoMANumber": "58.1963", 
+  "Date": "1911", 
   "ArtistBio": "", 
-  "DateAcquired": "1963-01-08", 
-  "\ufeffTitle": "Monaco, Bataille de Fleurs on the Water", 
+  "CuratorApproved": "Y", 
   "ObjectID": "45173"
 }

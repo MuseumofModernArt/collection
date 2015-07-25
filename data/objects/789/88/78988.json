@@ -4,21 +4,20 @@
   "Classification": "Painting", 
   "Artist": "Marcel Duchamp", 
   "URL": "http://www.moma.org/collection/works/78988", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Katherine S. Dreier Bequest", 
-  "Date": "Neuilly, January-February 1911", 
-  "ArtistID": 1634, 
+  "DateAcquired": "1953-04-07", 
   "Keywords": [
-    "online art collection", 
     "Marcel Duchamp", 
     "Landscape", 
     "Neuilly", 
     "January-February 1911"
   ], 
+  "ArtistID": 1634, 
+  "Title": "Landscape", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "148.1953", 
+  "Date": "Neuilly, January-February 1911", 
   "ArtistBio": "(American, born France. 1887\u20131968)", 
-  "DateAcquired": "1953-04-07", 
-  "\ufeffTitle": "Landscape", 
+  "CuratorApproved": "Y", 
   "ObjectID": "78988"
 }

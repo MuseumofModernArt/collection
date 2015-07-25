@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Barbara Kruger", 
   "URL": "http://www.moma.org/collection/works/79334", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Acquired through an anonymous fund", 
-  "Date": "1982", 
-  "ArtistID": 3266, 
+  "DateAcquired": "1983-02-14", 
   "Keywords": [
-    "online art collection", 
     "Barbara Kruger", 
     "Untitled (You Invest in the Divinity of the Masterpiece)", 
     "1982"
   ], 
+  "ArtistID": 3266, 
+  "Title": "Untitled (You Invest in the Divinity of the Masterpiece)", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "266.1983", 
+  "Date": "1982", 
   "ArtistBio": "(American, born 1945)", 
-  "DateAcquired": "1983-02-14", 
-  "\ufeffTitle": "Untitled (You Invest in the Divinity of the Masterpiece)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79334"
 }

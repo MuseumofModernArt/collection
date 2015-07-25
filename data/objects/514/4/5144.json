@@ -4,20 +4,19 @@
   "Classification": "A&D Graphic Design", 
   "Artist": "Oskar Kokoschka", 
   "URL": "http://www.moma.org/collection/works/5144", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the artist", 
-  "Date": "1945", 
-  "ArtistID": 3197, 
+  "DateAcquired": "1946-05-07", 
   "Keywords": [
-    "online art collection", 
     "Oskar Kokoschka", 
     "Christ Helping the Starving Children (Christus hilft der hungernden Kindern)", 
     "1945"
   ], 
+  "ArtistID": 3197, 
+  "Title": "Christ Helping the Starving Children (Christus hilft der hungernden Kindern)", 
   "Department": "Architecture & Design", 
   "MoMANumber": "123.1946", 
+  "Date": "1945", 
   "ArtistBio": "(Austrian, 1886\u20131980)", 
-  "DateAcquired": "1946-05-07", 
-  "\ufeffTitle": "Christ Helping the Starving Children (Christus hilft der hungernden Kindern)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "5144"
 }

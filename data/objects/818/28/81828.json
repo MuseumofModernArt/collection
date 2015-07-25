@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Joseph Kosuth", 
   "URL": "http://www.moma.org/collection/works/81828", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Richard Rubin", 
-  "Date": "1991", 
-  "ArtistID": 3228, 
+  "DateAcquired": "1998-12-07", 
   "Keywords": [
-    "online art collection", 
     "Joseph Kosuth", 
     "Language Must Speak for Itself", 
     "1991"
   ], 
+  "ArtistID": 3228, 
+  "Title": "Language Must Speak for Itself", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "740.1998", 
+  "Date": "1991", 
   "ArtistBio": "(American, born 1945)", 
-  "DateAcquired": "1998-12-07", 
-  "\ufeffTitle": "Language Must Speak for Itself", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81828"
 }

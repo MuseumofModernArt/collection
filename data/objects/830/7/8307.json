@@ -4,12 +4,9 @@
   "Classification": "A&D Graphic Design", 
   "Artist": "Zdenek Rossmann", 
   "URL": "http://www.moma.org/collection/works/8307", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Jan Tschichold Collection, Gift of Philip Johnson", 
-  "Date": "1934", 
-  "ArtistID": 8254, 
+  "DateAcquired": "1999-12-10", 
   "Keywords": [
-    "online art collection", 
     "Zdenek Rossmann", 
     "SCD", 
     "Diana", 
@@ -19,10 +16,12 @@
     "CSD", 
     "1934"
   ], 
+  "ArtistID": 8254, 
+  "Title": "SCD, Diana, Ex Libris, Druzstveni prace, Odol, CSD", 
   "Department": "Architecture & Design", 
   "MoMANumber": "875.1999", 
+  "Date": "1934", 
   "ArtistBio": "(Czech, 1905\u20131984)", 
-  "DateAcquired": "1999-12-10", 
-  "\ufeffTitle": "SCD, Diana, Ex Libris, Druzstveni prace, Odol, CSD", 
+  "CuratorApproved": "Y", 
   "ObjectID": "8307"
 }

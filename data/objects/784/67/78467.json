@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "George McNeil", 
   "URL": "http://www.moma.org/collection/works/78467", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Larry Aldrich Foundation Fund", 
-  "Date": "1958", 
-  "ArtistID": 3894, 
+  "DateAcquired": "1959-03-02", 
   "Keywords": [
-    "online art collection", 
     "George McNeil", 
     "Constanza", 
     "1958"
   ], 
+  "ArtistID": 3894, 
+  "Title": "Constanza", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "17.1959", 
+  "Date": "1958", 
   "ArtistBio": "(American, 1908\u20131995)", 
-  "DateAcquired": "1959-03-02", 
-  "\ufeffTitle": "Constanza", 
+  "CuratorApproved": "Y", 
   "ObjectID": "78467"
 }

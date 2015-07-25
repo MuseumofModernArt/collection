@@ -4,21 +4,20 @@
   "Classification": "Painting", 
   "Artist": "Arthur B. Davies", 
   "URL": "http://www.moma.org/collection/works/78571", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Lillie P. Bliss Collection", 
-  "Date": "1918", 
-  "ArtistID": 1402, 
+  "DateAcquired": "1934-09-23", 
   "Keywords": [
-    "online art collection", 
     "Arthur B", 
     "Davies", 
     "The Wine Press", 
     "1918"
   ], 
+  "ArtistID": 1402, 
+  "Title": "The Wine Press", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "31.1934", 
+  "Date": "1918", 
   "ArtistBio": "(American, 1862\u20131928)", 
-  "DateAcquired": "1934-09-23", 
-  "\ufeffTitle": "The Wine Press", 
+  "CuratorApproved": "Y", 
   "ObjectID": "78571"
 }

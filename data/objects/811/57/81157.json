@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Chris Burden", 
   "URL": "http://www.moma.org/collection/works/81157", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Sid and Mercedes Bass", 
-  "Date": "1990", 
-  "ArtistID": 871, 
+  "DateAcquired": "2000-04-10", 
   "Keywords": [
-    "online art collection", 
     "Chris Burden", 
     "Medusa's Head", 
     "1990"
   ], 
+  "ArtistID": 871, 
+  "Title": "Medusa's Head", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "214.2000.a-iii", 
+  "Date": "1990", 
   "ArtistBio": "(American,1946\u20132015)", 
-  "DateAcquired": "2000-04-10", 
-  "\ufeffTitle": "Medusa's Head", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81157"
 }

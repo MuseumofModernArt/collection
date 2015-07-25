@@ -4,20 +4,19 @@
   "Classification": "Photograph", 
   "Artist": "Nicholas Nixon", 
   "URL": "http://www.moma.org/collection/works/100098", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the artist", 
-  "Date": "2005", 
-  "ArtistID": 4315, 
+  "DateAcquired": "2005-10-20", 
   "Keywords": [
-    "online art collection", 
     "Nicholas Nixon", 
     "The Brown Sisters", 
     "2005"
   ], 
+  "ArtistID": 4315, 
+  "Title": "The Brown Sisters, Cataumet, Massachusetts", 
   "Department": "Photography", 
   "MoMANumber": "877.2005", 
+  "Date": "2005", 
   "ArtistBio": "(American, born 1947)", 
-  "DateAcquired": "2005-10-20", 
-  "\ufeffTitle": "The Brown Sisters, Cataumet, Massachusetts", 
+  "CuratorApproved": "Y", 
   "ObjectID": "100098"
 }

@@ -4,21 +4,20 @@
   "Classification": "Photograph", 
   "Artist": "Lee Friedlander", 
   "URL": "http://www.moma.org/collection/works/55164", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1983", 
-  "ArtistID": 2002, 
+  "DateAcquired": "2000-10-12", 
   "Keywords": [
-    "online art collection", 
     "Lee Friedlander", 
     "Cairo", 
     "Egypt", 
     "1983"
   ], 
+  "ArtistID": 2002, 
+  "Title": "Cairo, Egypt", 
   "Department": "Photography", 
   "MoMANumber": "563.2000", 
+  "Date": "1983", 
   "ArtistBio": "(American, born 1934)", 
-  "DateAcquired": "2000-10-12", 
-  "\ufeffTitle": "Cairo, Egypt", 
+  "CuratorApproved": "Y", 
   "ObjectID": "55164"
 }

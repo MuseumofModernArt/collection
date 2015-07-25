@@ -4,21 +4,20 @@
   "Classification": "Photograph", 
   "Artist": "Thomas Annan", 
   "URL": "http://www.moma.org/collection/works/50380", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1868", 
-  "ArtistID": 190, 
+  "DateAcquired": "", 
   "Keywords": [
-    "online art collection", 
     "Thomas Annan", 
     "King Street", 
     "City", 
     "1868"
   ], 
+  "ArtistID": 190, 
+  "Title": "King Street, City", 
   "Department": "Photography", 
   "MoMANumber": "308.1975.22", 
+  "Date": "1868", 
   "ArtistBio": "(British, 1829\u20131887)", 
-  "DateAcquired": "", 
-  "\ufeffTitle": "King Street, City", 
+  "CuratorApproved": "Y", 
   "ObjectID": "50380"
 }

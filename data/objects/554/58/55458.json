@@ -4,12 +4,9 @@
   "Classification": "Photograph", 
   "Artist": "Judith Joy Ross", 
   "URL": "http://www.moma.org/collection/works/55458", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Acquired through the generosity of Shirley C. Burden", 
-  "Date": "1987", 
-  "ArtistID": 5030, 
+  "DateAcquired": "1987-12-10", 
   "Keywords": [
-    "online art collection", 
     "Judith Joy Ross", 
     "Senator Robert C", 
     "Byrd", 
@@ -17,10 +14,12 @@
     "West Virginia (Majority Leader)", 
     "1987"
   ], 
+  "ArtistID": 5030, 
+  "Title": "Senator Robert C. Byrd, Democrat, West Virginia (Majority Leader)", 
   "Department": "Photography", 
   "MoMANumber": "594.1987", 
+  "Date": "1987", 
   "ArtistBio": "(American, born 1946)", 
-  "DateAcquired": "1987-12-10", 
-  "\ufeffTitle": "Senator Robert C. Byrd, Democrat, West Virginia (Majority Leader)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "55458"
 }

@@ -4,12 +4,9 @@
   "Classification": "A&D Architectural Drawing", 
   "Artist": "Rem Koolhaas, G\u00f6tz Keller, Willem Jan Neutelings, Brigitte Kochta, Marty Kohn, Luc Reuse, Ron Steiner, Jeroen Thomas, Garciella Torre", 
   "URL": "http://www.moma.org/collection/works/619", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1987", 
-  "ArtistID": 6955, 
+  "DateAcquired": "1992-10-21", 
   "Keywords": [
-    "online art collection", 
     "O,M,A", 
     "(Office for Metropolitan Architecture)", 
     "Rem Koolhaas", 
@@ -27,10 +24,12 @@
     "Exterior perspective", 
     "1987"
   ], 
+  "ArtistID": 6955, 
+  "Title": "The Hague City Hall, project, The Hague, The Netherlands, Exterior perspective", 
   "Department": "Architecture & Design", 
   "MoMANumber": "426.1992", 
+  "Date": "1987", 
   "ArtistBio": "(Dutch, born 1944) (German, born 1958) (Dutch, born 1959) (German, born 1958) (Canadian, born 1953) (Belgian, born 1955) (American, born 1952) (Dutch, born 1952) (Spanish, born 1959)", 
-  "DateAcquired": "1992-10-21", 
-  "\ufeffTitle": "The Hague City Hall, project, The Hague, The Netherlands, Exterior perspective", 
+  "CuratorApproved": "Y", 
   "ObjectID": "619"
 }

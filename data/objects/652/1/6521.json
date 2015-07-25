@@ -4,20 +4,19 @@
   "Classification": "A&D Graphic Design", 
   "Artist": "Johan Thorn Prikker", 
   "URL": "http://www.moma.org/collection/works/6521", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of The Lauder Foundation, Leonard and Evelyn Lauder Fund", 
-  "Date": "1903", 
-  "ArtistID": 4738, 
+  "DateAcquired": "1984-10-30", 
   "Keywords": [
-    "online art collection", 
     "Johan Thorn Prikker", 
     "Holl&auml;ndische Kunstausstellung", 
     "1903"
   ], 
+  "ArtistID": 4738, 
+  "Title": "Holl\u00e4ndische Kunstausstellung", 
   "Department": "Architecture & Design", 
   "MoMANumber": "361.1984", 
+  "Date": "1903", 
   "ArtistBio": "(Dutch, 1932\u20131968)", 
-  "DateAcquired": "1984-10-30", 
-  "\ufeffTitle": "Holl\u00e4ndische Kunstausstellung", 
+  "CuratorApproved": "Y", 
   "ObjectID": "6521"
 }

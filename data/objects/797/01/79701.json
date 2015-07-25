@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Joaqu\u00edn Torres-Garc\u00eda", 
   "URL": "http://www.moma.org/collection/works/79701", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Abby Aldrich Rockefeller Fund", 
-  "Date": "1924", 
-  "ArtistID": 5907, 
+  "DateAcquired": "1981-11-17", 
   "Keywords": [
-    "online art collection", 
     "Joaqu&iacute;n Torres-Garc&iacute;a", 
     "Guitar", 
     "1924"
   ], 
+  "ArtistID": 5907, 
+  "Title": "Guitar", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "433.1981", 
+  "Date": "1924", 
   "ArtistBio": "(Uruguayan, 1874\u20131949)", 
-  "DateAcquired": "1981-11-17", 
-  "\ufeffTitle": "Guitar", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79701"
 }

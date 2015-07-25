@@ -4,22 +4,21 @@
   "Classification": "A&D Graphic Design", 
   "Artist": "E. McKnight Kauffer", 
   "URL": "http://www.moma.org/collection/works/5755", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the designer", 
-  "Date": "1937", 
-  "ArtistID": 3020, 
+  "DateAcquired": "1937-07-01", 
   "Keywords": [
-    "online art collection", 
     "E", 
     "McKnight Kauffer", 
     "Spring In the Country", 
     "Easter", 
     "1937"
   ], 
+  "ArtistID": 3020, 
+  "Title": "Spring In the Country, Easter", 
   "Department": "Architecture & Design", 
   "MoMANumber": "226.1937", 
+  "Date": "1937", 
   "ArtistBio": "(American, 1890\u20131954)", 
-  "DateAcquired": "1937-07-01", 
-  "\ufeffTitle": "Spring In the Country, Easter", 
+  "CuratorApproved": "Y", 
   "ObjectID": "5755"
 }

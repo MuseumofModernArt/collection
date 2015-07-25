@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Jim Dine", 
   "URL": "http://www.moma.org/collection/works/65886", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Barbara Jakobson and John R. Jakobson", 
-  "Date": "1969", 
-  "ArtistID": 1547, 
+  "DateAcquired": "1969-04-16", 
   "Keywords": [
-    "online art collection", 
     "Jim Dine", 
     "The Poets' Twelve Hearts", 
     "1969"
   ], 
+  "ArtistID": 1547, 
+  "Title": "The Poets' Twelve Hearts", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "278.1969", 
+  "Date": "1969", 
   "ArtistBio": "(American, born 1935)", 
-  "DateAcquired": "1969-04-16", 
-  "\ufeffTitle": "The Poets' Twelve Hearts", 
+  "CuratorApproved": "Y", 
   "ObjectID": "65886"
 }

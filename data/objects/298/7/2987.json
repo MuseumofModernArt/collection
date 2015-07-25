@@ -4,12 +4,9 @@
   "Classification": "A&D Design", 
   "Artist": "J.A. Henckels, Solingen, Germany", 
   "URL": "http://www.moma.org/collection/works/2987", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Phyllis B. Lambert Fund", 
-  "Date": "n.d.", 
-  "ArtistID": 2589, 
+  "DateAcquired": "1958-12-04", 
   "Keywords": [
-    "online art collection", 
     "J,A", 
     "Henckels", 
     "Solingen", 
@@ -17,10 +14,12 @@
     "Champagne Bottle Opener", 
     "n,d,"
   ], 
+  "ArtistID": 2589, 
+  "Title": "Champagne Bottle Opener", 
   "Department": "Architecture & Design", 
   "MoMANumber": "242.1958", 
+  "Date": "n.d.", 
   "ArtistBio": "(est. 1731)", 
-  "DateAcquired": "1958-12-04", 
-  "\ufeffTitle": "Champagne Bottle Opener", 
+  "CuratorApproved": "Y", 
   "ObjectID": "2987"
 }

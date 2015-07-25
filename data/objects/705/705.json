@@ -4,12 +4,9 @@
   "Classification": "A&D Architectural Drawing", 
   "Artist": "Louis I. Kahn", 
   "URL": "http://www.moma.org/collection/works/705", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the architect", 
-  "Date": "1968", 
-  "ArtistID": 2964, 
+  "DateAcquired": "1981-12-10", 
   "Keywords": [
-    "online art collection", 
     "Louis I", 
     "Kahn", 
     "Memorial to the Six Million Jewish Martyrs", 
@@ -19,10 +16,12 @@
     "Perspective", 
     "1968"
   ], 
+  "ArtistID": 2964, 
+  "Title": "Memorial to the Six Million Jewish Martyrs, project, New York (Manhattan), New York, Perspective", 
   "Department": "Architecture & Design", 
   "MoMANumber": "577.1981", 
+  "Date": "1968", 
   "ArtistBio": "(American, born Estonia. 1901\u20131974)", 
-  "DateAcquired": "1981-12-10", 
-  "\ufeffTitle": "Memorial to the Six Million Jewish Martyrs, project, New York (Manhattan), New York, Perspective", 
+  "CuratorApproved": "Y", 
   "ObjectID": "705"
 }

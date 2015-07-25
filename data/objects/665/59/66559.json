@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Max Beckmann", 
   "URL": "http://www.moma.org/collection/works/66559", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Larry Aldrich Fund", 
-  "Date": "(1919)", 
-  "ArtistID": 429, 
+  "DateAcquired": "1954-09-30", 
   "Keywords": [
-    "online art collection", 
     "Max Beckmann", 
     "Hunger (plate 5) [Der Hunger (Blatt 5)] from Hell (Die H&ouml;lle)", 
     "(1919)"
   ], 
+  "ArtistID": 429, 
+  "Title": "Hunger (plate 5) [Der Hunger (Blatt 5)] from Hell (Die H\u00f6lle)", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "307.1954", 
+  "Date": "(1919)", 
   "ArtistBio": "(German, 1884\u20131950)", 
-  "DateAcquired": "1954-09-30", 
-  "\ufeffTitle": "Hunger (plate 5) [Der Hunger (Blatt 5)] from Hell (Die H\u00f6lle)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "66559"
 }

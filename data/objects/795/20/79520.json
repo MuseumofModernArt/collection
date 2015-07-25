@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Eric Fischl", 
   "URL": "http://www.moma.org/collection/works/79520", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Douglas S. Cramer Foundation", 
-  "Date": "1986", 
-  "ArtistID": 1889, 
+  "DateAcquired": "1997-10-06", 
   "Keywords": [
-    "online art collection", 
     "Eric Fischl", 
     "Costa del Sol", 
     "1986"
   ], 
+  "ArtistID": 1889, 
+  "Title": "Costa del Sol", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "353.1997.a-b", 
+  "Date": "1986", 
   "ArtistBio": "(American, born 1948)", 
-  "DateAcquired": "1997-10-06", 
-  "\ufeffTitle": "Costa del Sol", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79520"
 }

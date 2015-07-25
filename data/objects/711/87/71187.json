@@ -4,21 +4,20 @@
   "Classification": "Print", 
   "Artist": "Pablo Picasso", 
   "URL": "http://www.moma.org/collection/works/71187", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Abby Aldrich Rockefeller Fund", 
-  "Date": "(November 20, 1948)", 
-  "ArtistID": 4609, 
+  "DateAcquired": "1951-11-21", 
   "Keywords": [
-    "online art collection", 
     "Pablo Picasso", 
     "Black Figure (Figure noire)", 
     "(November 20", 
     "1948)"
   ], 
+  "ArtistID": 4609, 
+  "Title": "Black Figure (Figure noire)", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "564.1951", 
+  "Date": "(November 20, 1948)", 
   "ArtistBio": "(Spanish, 1881\u20131973)", 
-  "DateAcquired": "1951-11-21", 
-  "\ufeffTitle": "Black Figure (Figure noire)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "71187"
 }

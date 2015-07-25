@@ -4,20 +4,19 @@
   "Classification": "Drawing", 
   "Artist": "Gerhard Richter", 
   "URL": "http://www.moma.org/collection/works/82227", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchased with funds provided by The Edward John Noble Foundation", 
-  "Date": "1999", 
-  "ArtistID": 4907, 
+  "DateAcquired": "2001-05-08", 
   "Keywords": [
-    "online art collection", 
     "Gerhard Richter", 
     "10,5,1999 (99/35)", 
     "1999"
   ], 
+  "ArtistID": 4907, 
+  "Title": "10.5.1999 (99/35)", 
   "Department": "Drawings", 
   "MoMANumber": "1375.2001", 
+  "Date": "1999", 
   "ArtistBio": "(German, born 1932)", 
-  "DateAcquired": "2001-05-08", 
-  "\ufeffTitle": "10.5.1999 (99/35)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "82227"
 }

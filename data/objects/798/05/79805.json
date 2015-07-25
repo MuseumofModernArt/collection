@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "James Rosenquist", 
   "URL": "http://www.moma.org/collection/works/79805", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Mr. and Mrs. Alex L. Hillman and Lillie P. Bliss Bequest (both by exchange)", 
-  "Date": "1964-65", 
-  "ArtistID": 5021, 
+  "DateAcquired": "1996-10-07", 
   "Keywords": [
-    "online art collection", 
     "James Rosenquist", 
     "F-111", 
     "1964-65"
   ], 
+  "ArtistID": 5021, 
+  "Title": "F-111", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "473.1996.a-w", 
+  "Date": "1964-65", 
   "ArtistBio": "(American, born 1933)", 
-  "DateAcquired": "1996-10-07", 
-  "\ufeffTitle": "F-111", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79805"
 }

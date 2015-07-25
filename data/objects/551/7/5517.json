@@ -4,12 +4,9 @@
   "Classification": "A&D Graphic Design", 
   "Artist": "Th\u00e9ophile-Alexandre Steinlen", 
   "URL": "http://www.moma.org/collection/works/5517", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Acquired by exchange", 
-  "Date": "1894", 
-  "ArtistID": 5634, 
+  "DateAcquired": "1968-03-07", 
   "Keywords": [
-    "online art collection", 
     "Th&eacute;ophile-Alexandre Steinlen", 
     "A La Bodini&eacute;re", 
     "18 Rue St", 
@@ -18,10 +15,12 @@
     "Steinlen", 
     "1894"
   ], 
+  "ArtistID": 5634, 
+  "Title": "A La Bodini\u00e9re, 18 Rue St. Lazare, Exposition de L'Oeuvre Dessin\u00e9 et Peint de T.A. Steinlen", 
   "Department": "Architecture & Design", 
   "MoMANumber": "176.1968", 
+  "Date": "1894", 
   "ArtistBio": "(French, 1859\u20131923)", 
-  "DateAcquired": "1968-03-07", 
-  "\ufeffTitle": "A La Bodini\u00e9re, 18 Rue St. Lazare, Exposition de L'Oeuvre Dessin\u00e9 et Peint de T.A. Steinlen", 
+  "CuratorApproved": "Y", 
   "ObjectID": "5517"
 }

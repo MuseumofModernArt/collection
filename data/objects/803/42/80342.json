@@ -4,22 +4,21 @@
   "Classification": "Painting", 
   "Artist": "Ellsworth Kelly", 
   "URL": "http://www.moma.org/collection/works/80342", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Douglas S. Cramer Foundation", 
-  "Date": "1986", 
-  "ArtistID": 3048, 
+  "DateAcquired": "1995-12-12", 
   "Keywords": [
-    "online art collection", 
     "Ellsworth Kelly", 
     "Three Panels: Orange", 
     "Dark Gray", 
     "Green", 
     "1986"
   ], 
+  "ArtistID": 3048, 
+  "Title": "Three Panels: Orange, Dark Gray, Green", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "776.1995.a-c", 
+  "Date": "1986", 
   "ArtistBio": "(American, born 1923)", 
-  "DateAcquired": "1995-12-12", 
-  "\ufeffTitle": "Three Panels: Orange, Dark Gray, Green", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80342"
 }

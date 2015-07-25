@@ -4,21 +4,20 @@
   "Classification": "Photograph", 
   "Artist": "Manuel \u00c1lvarez Bravo", 
   "URL": "http://www.moma.org/collection/works/83529", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Thomas Walther Collection. Grace M. Mayer Fund", 
-  "Date": "1931", 
-  "ArtistID": 135, 
+  "DateAcquired": "2001-12-13", 
   "Keywords": [
-    "online art collection", 
     "Manuel Alvarez Bravo", 
     "Ladder of Ladders", 
     "c", 
     "1931"
   ], 
+  "ArtistID": 135, 
+  "Title": "Ladder of Ladders", 
   "Department": "Photography", 
   "MoMANumber": "1602.2001", 
+  "Date": "1931", 
   "ArtistBio": "(Mexican, 1902\u20132002)", 
-  "DateAcquired": "2001-12-13", 
-  "\ufeffTitle": "Ladder of Ladders", 
+  "CuratorApproved": "Y", 
   "ObjectID": "83529"
 }

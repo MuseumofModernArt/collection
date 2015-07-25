@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Richard Tuttle", 
   "URL": "http://www.moma.org/collection/works/82696", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Anna Marie and Robert F. Shapiro Fund", 
-  "Date": "2001", 
-  "ArtistID": 5983, 
+  "DateAcquired": "2001-11-13", 
   "Keywords": [
-    "online art collection", 
     "Richard Tuttle", 
     "Gold", 
     "2001"
   ], 
+  "ArtistID": 5983, 
+  "Title": "Gold", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "2557.2001.1-5", 
+  "Date": "2001", 
   "ArtistBio": "(American, born 1941)", 
-  "DateAcquired": "2001-11-13", 
-  "\ufeffTitle": "Gold", 
+  "CuratorApproved": "Y", 
   "ObjectID": "82696"
 }

@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Joan Mitchell", 
   "URL": "http://www.moma.org/collection/works/79712", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of The Estate of Joan Mitchell", 
-  "Date": "1964", 
-  "ArtistID": 4026, 
+  "DateAcquired": "1994-10-11", 
   "Keywords": [
-    "online art collection", 
     "Joan Mitchell", 
     "Untitled", 
     "1964"
   ], 
+  "ArtistID": 4026, 
+  "Title": "Untitled", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "445.1994.a-c", 
+  "Date": "1964", 
   "ArtistBio": "(American, 1925\u20131992)", 
-  "DateAcquired": "1994-10-11", 
-  "\ufeffTitle": "Untitled", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79712"
 }

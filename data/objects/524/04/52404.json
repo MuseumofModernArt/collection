@@ -4,21 +4,20 @@
   "Classification": "Photograph", 
   "Artist": "Tod Papageorge", 
   "URL": "http://www.moma.org/collection/works/52404", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Acquired with matching funds from the Frank Strick Foundation and the National Endowment for the Arts", 
-  "Date": "July 5, 1976", 
-  "ArtistID": 4490, 
+  "DateAcquired": "1978-05-11", 
   "Keywords": [
-    "online art collection", 
     "Tod Papageorge", 
     "New York Pier", 
     "July 5", 
     "1976"
   ], 
+  "ArtistID": 4490, 
+  "Title": "New York Pier", 
   "Department": "Photography", 
   "MoMANumber": "391.1978", 
+  "Date": "July 5, 1976", 
   "ArtistBio": "(American, born 1940)", 
-  "DateAcquired": "1978-05-11", 
-  "\ufeffTitle": "New York Pier", 
+  "CuratorApproved": "Y", 
   "ObjectID": "52404"
 }

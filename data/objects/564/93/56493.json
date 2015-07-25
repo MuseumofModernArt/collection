@@ -4,12 +4,9 @@
   "Classification": "Photograph", 
   "Artist": "Dorothea Lange", 
   "URL": "http://www.moma.org/collection/works/56493", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1936", 
-  "ArtistID": 3373, 
+  "DateAcquired": "1967-11-21", 
   "Keywords": [
-    "online art collection", 
     "Dorothea Lange", 
     "Damaged Child", 
     "Shacktown", 
@@ -17,10 +14,12 @@
     "Oklahoma", 
     "1936"
   ], 
+  "ArtistID": 3373, 
+  "Title": "Damaged Child, Shacktown, Elm Grove, Oklahoma", 
   "Department": "Photography", 
   "MoMANumber": "807.1968", 
+  "Date": "1936", 
   "ArtistBio": "(American, 1895\u20131965)", 
-  "DateAcquired": "1967-11-21", 
-  "\ufeffTitle": "Damaged Child, Shacktown, Elm Grove, Oklahoma", 
+  "CuratorApproved": "Y", 
   "ObjectID": "56493"
 }

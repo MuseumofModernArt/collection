@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Melvin Edwards", 
   "URL": "http://www.moma.org/collection/works/81200", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1989", 
-  "ArtistID": 1685, 
+  "DateAcquired": "1990-05-07", 
   "Keywords": [
-    "online art collection", 
     "Melvin Edwards", 
     "Chitungwiza from the Lynch Fragment series", 
     "1989"
   ], 
+  "ArtistID": 1685, 
+  "Title": "Chitungwiza from the Lynch Fragment series", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "245.1990", 
+  "Date": "1989", 
   "ArtistBio": "(American, born 1937)", 
-  "DateAcquired": "1990-05-07", 
-  "\ufeffTitle": "Chitungwiza from the Lynch Fragment series", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81200"
 }

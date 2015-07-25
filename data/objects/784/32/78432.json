@@ -4,21 +4,20 @@
   "Classification": "Painting", 
   "Artist": "Amedeo Modigliani", 
   "URL": "http://www.moma.org/collection/works/78432", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Mrs. Simon Guggenheim Fund", 
-  "Date": "c. 1919", 
-  "ArtistID": 4038, 
+  "DateAcquired": "1950-01-06", 
   "Keywords": [
-    "online art collection", 
     "Amedeo Modigliani", 
     "Reclining Nude", 
     "c", 
     "1919"
   ], 
+  "ArtistID": 4038, 
+  "Title": "Reclining Nude", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "13.1950", 
+  "Date": "c. 1919", 
   "ArtistBio": "(Italian, 1884\u20131920)", 
-  "DateAcquired": "1950-01-06", 
-  "\ufeffTitle": "Reclining Nude", 
+  "CuratorApproved": "Y", 
   "ObjectID": "78432"
 }

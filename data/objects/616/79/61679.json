@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Henri Matisse", 
   "URL": "http://www.moma.org/collection/works/61679", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Abby Aldrich Rockefeller (by exchange)", 
-  "Date": "(1906)", 
-  "ArtistID": 3832, 
+  "DateAcquired": "1955-04-06", 
   "Keywords": [
-    "online art collection", 
     "Henri Matisse", 
     "Le Grand Nu (The Large Nude )", 
     "(1906)"
   ], 
+  "ArtistID": 3832, 
+  "Title": "Le Grand Nu (The Large Nude )", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "91.1955", 
+  "Date": "(1906)", 
   "ArtistBio": "(French, 1869\u20131954)", 
-  "DateAcquired": "1955-04-06", 
-  "\ufeffTitle": "Le Grand Nu (The Large Nude )", 
+  "CuratorApproved": "Y", 
   "ObjectID": "61679"
 }

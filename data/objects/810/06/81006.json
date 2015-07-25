@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Louise Nevelson", 
   "URL": "http://www.moma.org/collection/works/81006", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Mr. and Mrs. Ben Mildwoff", 
-  "Date": "1958", 
-  "ArtistID": 4278, 
+  "DateAcquired": "1958-10-29", 
   "Keywords": [
-    "online art collection", 
     "Louise Nevelson", 
     "Sky Cathedral", 
     "1958"
   ], 
+  "ArtistID": 4278, 
+  "Title": "Sky Cathedral", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "136.1958.1-57", 
+  "Date": "1958", 
   "ArtistBio": "(American, born Ukraine. 1899\u20131988)", 
-  "DateAcquired": "1958-10-29", 
-  "\ufeffTitle": "Sky Cathedral", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81006"
 }

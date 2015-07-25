@@ -4,12 +4,9 @@
   "Classification": "Print", 
   "Artist": "Pablo Picasso", 
   "URL": "http://www.moma.org/collection/works/64331", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Abby Aldrich Rockefeller Fund", 
-  "Date": "(March 30, 1933, printed 1939)", 
-  "ArtistID": 4609, 
+  "DateAcquired": "1949-03-24", 
   "Keywords": [
-    "online art collection", 
     "Pablo Picasso", 
     "Sculptor", 
     "Boy and Model with a Sculpted Group Representing the Abduction of Europe (Sculpteur", 
@@ -19,10 +16,12 @@
     "1933", 
     "printed 1939)"
   ], 
+  "ArtistID": 4609, 
+  "Title": "Sculptor, Boy and Model with a Sculpted Group Representing the Abduction of Europe (Sculpteur, gar\u00e7on, et mod\u00e8le avec un groupe sculpt\u00e9 r\u00e9presntant le rapt d'Europe)", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "202.1949", 
+  "Date": "(March 30, 1933, printed 1939)", 
   "ArtistBio": "(Spanish, 1881\u20131973)", 
-  "DateAcquired": "1949-03-24", 
-  "\ufeffTitle": "Sculptor, Boy and Model with a Sculpted Group Representing the Abduction of Europe (Sculpteur, gar\u00e7on, et mod\u00e8le avec un groupe sculpt\u00e9 r\u00e9presntant le rapt d'Europe)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "64331"
 }

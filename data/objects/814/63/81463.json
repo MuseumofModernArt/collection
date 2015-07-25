@@ -4,21 +4,20 @@
   "Classification": "Sculpture", 
   "Artist": "Auguste Rodin", 
   "URL": "http://www.moma.org/collection/works/81463", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of The Cantor, Fitzgerald Collection", 
-  "Date": "1891 (cast c. 1971)", 
-  "ArtistID": 4978, 
+  "DateAcquired": "1976-10-12", 
   "Keywords": [
-    "online art collection", 
     "Auguste Rodin", 
     "Bust of the Young Balzac", 
     "1891 (cast c", 
     "1971)"
   ], 
+  "ArtistID": 4978, 
+  "Title": "Bust of the Young Balzac", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "430.1975", 
+  "Date": "1891 (cast c. 1971)", 
   "ArtistBio": "(French, 1840\u20131917)", 
-  "DateAcquired": "1976-10-12", 
-  "\ufeffTitle": "Bust of the Young Balzac", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81463"
 }

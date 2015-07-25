@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Mark di Suvero", 
   "URL": "http://www.moma.org/collection/works/80867", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Mr. and Mrs. S. I. Newhouse, Jr.", 
-  "Date": "1971", 
-  "ArtistID": 5743, 
+  "DateAcquired": "1991-02-11", 
   "Keywords": [
-    "online art collection", 
     "Mark di Suvero", 
     "For Roebling", 
     "1971"
   ], 
+  "ArtistID": 5743, 
+  "Title": "For Roebling", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "34.1991", 
+  "Date": "1971", 
   "ArtistBio": "(American, born 1933)", 
-  "DateAcquired": "1991-02-11", 
-  "\ufeffTitle": "For Roebling", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80867"
 }

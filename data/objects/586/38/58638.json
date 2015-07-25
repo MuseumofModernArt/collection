@@ -4,20 +4,19 @@
   "Classification": "Photograph", 
   "Artist": "Medem Photo Service", 
   "URL": "http://www.moma.org/collection/works/58638", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The New York Times Collection", 
-  "Date": "1916", 
-  "ArtistID": 8579, 
+  "DateAcquired": "2001-06-14", 
   "Keywords": [
-    "online art collection", 
     "Medem Photo Service", 
     "\"During the Bombardment\"", 
     "1916"
   ], 
+  "ArtistID": 8579, 
+  "Title": "\"During the Bombardment\"", 
   "Department": "Photography", 
   "MoMANumber": "2045.2001", 
+  "Date": "1916", 
   "ArtistBio": "(Nationality unknown)", 
-  "DateAcquired": "2001-06-14", 
-  "\ufeffTitle": "\"During the Bombardment\"", 
+  "CuratorApproved": "Y", 
   "ObjectID": "58638"
 }

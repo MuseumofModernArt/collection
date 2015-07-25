@@ -4,12 +4,9 @@
   "Classification": "Print", 
   "Artist": "Louise Bourgeois", 
   "URL": "http://www.moma.org/collection/works/71951", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the artist", 
-  "Date": "1992", 
-  "ArtistID": 710, 
+  "DateAcquired": "1993-11-17", 
   "Keywords": [
-    "online art collection", 
     "Louise Bourgeois", 
     "Untitled", 
     "plate 6", 
@@ -18,10 +15,12 @@
     "A Life", 
     "1992"
   ], 
+  "ArtistID": 710, 
+  "Title": "Untitled, plate 6 of 10, from Homely Girl, A Life, volume I", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "619.1993.6", 
+  "Date": "1992", 
   "ArtistBio": "(American, born France. 1911\u20132010)", 
-  "DateAcquired": "1993-11-17", 
-  "\ufeffTitle": "Untitled, plate 6 of 10, from Homely Girl, A Life, volume I", 
+  "CuratorApproved": "Y", 
   "ObjectID": "71951"
 }

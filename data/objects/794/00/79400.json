@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Christo (Christo Javacheff)", 
   "URL": "http://www.moma.org/collection/works/79400", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Agnes Gund", 
-  "Date": "1964", 
-  "ArtistID": 1114, 
+  "DateAcquired": "1986-10-14", 
   "Keywords": [
-    "online art collection", 
     "Christo (Christo Javacheff)", 
     "Store Front Project", 
     "1964"
   ], 
+  "ArtistID": 1114, 
+  "Title": "Store Front Project", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "283.1986", 
+  "Date": "1964", 
   "ArtistBio": "(American, born Bulgaria 1935)", 
-  "DateAcquired": "1986-10-14", 
-  "\ufeffTitle": "Store Front Project", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79400"
 }

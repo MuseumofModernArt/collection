@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Peggy Bacon", 
   "URL": "http://www.moma.org/collection/works/71789", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Abby Aldrich Rockefeller", 
-  "Date": "1920", 
-  "ArtistID": 273, 
+  "DateAcquired": "1940-04-05", 
   "Keywords": [
-    "online art collection", 
     "Peggy Bacon", 
     "Moving to 8th Street", 
     "1920"
   ], 
+  "ArtistID": 273, 
+  "Title": "Moving to 8th Street", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "609.1940", 
+  "Date": "1920", 
   "ArtistBio": "(American, 1895\u20131987)", 
-  "DateAcquired": "1940-04-05", 
-  "\ufeffTitle": "Moving to 8th Street", 
+  "CuratorApproved": "Y", 
   "ObjectID": "71789"
 }

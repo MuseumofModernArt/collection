@@ -4,12 +4,9 @@
   "Classification": "A&D Architectural Drawing", 
   "Artist": "Le Corbusier (Charles-\u00c9douard Jeanneret)", 
   "URL": "http://www.moma.org/collection/works/88956", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Takeo Ohbayashi Purchase Fund", 
-  "Date": "1961", 
-  "ArtistID": 3426, 
+  "DateAcquired": "2003-10-02", 
   "Keywords": [
-    "online art collection", 
     "Le Corbusier (Charles-&Eacute;douard Jeanneret)", 
     "Exhibition Pavilion", 
     "Z,H,L,C,", 
@@ -18,10 +15,12 @@
     "West fa&ccedil;ade", 
     "1961"
   ], 
+  "ArtistID": 3426, 
+  "Title": "Exhibition Pavilion, Z.H.L.C., Zurich, Switzerland, West fa\u00e7ade", 
   "Department": "Architecture & Design", 
   "MoMANumber": "209.2003.9", 
+  "Date": "1961", 
   "ArtistBio": "(French, born Switzerland. 1887\u20131965)", 
-  "DateAcquired": "2003-10-02", 
-  "\ufeffTitle": "Exhibition Pavilion, Z.H.L.C., Zurich, Switzerland, West fa\u00e7ade", 
+  "CuratorApproved": "Y", 
   "ObjectID": "88956"
 }

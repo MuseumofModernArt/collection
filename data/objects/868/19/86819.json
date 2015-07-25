@@ -4,20 +4,19 @@
   "Classification": "Drawing", 
   "Artist": "Jim Shaw", 
   "URL": "http://www.moma.org/collection/works/86819", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "2002", 
-  "ArtistID": 7968, 
+  "DateAcquired": "2002-10-15", 
   "Keywords": [
-    "online art collection", 
     "Jim Shaw", 
     "I Dreamt it Was OK to Draw Something I Haven't Dreamt About", 
     "2002"
   ], 
+  "ArtistID": 7968, 
+  "Title": "I Dreamt it Was OK to Draw Something I Haven't Dreamt About", 
   "Department": "Drawings", 
   "MoMANumber": "317.2002", 
+  "Date": "2002", 
   "ArtistBio": "(American, born 1952)", 
-  "DateAcquired": "2002-10-15", 
-  "\ufeffTitle": "I Dreamt it Was OK to Draw Something I Haven't Dreamt About", 
+  "CuratorApproved": "Y", 
   "ObjectID": "86819"
 }

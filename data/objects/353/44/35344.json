@@ -4,20 +4,19 @@
   "Classification": "Drawing", 
   "Artist": "Gerhard Richter", 
   "URL": "http://www.moma.org/collection/works/35344", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1985", 
-  "ArtistID": 4907, 
+  "DateAcquired": "1988-05-05", 
   "Keywords": [
-    "online art collection", 
     "Gerhard Richter", 
     "(1) 20,12,85", 
     "1985"
   ], 
+  "ArtistID": 4907, 
+  "Title": "(1) 20.12.85", 
   "Department": "Drawings", 
   "MoMANumber": "218.1988", 
+  "Date": "1985", 
   "ArtistBio": "(German, born 1932)", 
-  "DateAcquired": "1988-05-05", 
-  "\ufeffTitle": "(1) 20.12.85", 
+  "CuratorApproved": "Y", 
   "ObjectID": "35344"
 }

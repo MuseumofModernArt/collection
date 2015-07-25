@@ -4,20 +4,19 @@
   "Classification": "Photograph", 
   "Artist": "Times Wide World Photos", 
   "URL": "http://www.moma.org/collection/works/58720", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The New York Times Collection", 
-  "Date": "1923", 
-  "ArtistID": 8632, 
+  "DateAcquired": "2001-06-14", 
   "Keywords": [
-    "online art collection", 
     "Times Wide World Photos", 
     "\"Heavyweight of the Universe\"", 
     "1923"
   ], 
+  "ArtistID": 8632, 
+  "Title": "\"Heavyweight of the Universe\"", 
   "Department": "Photography", 
   "MoMANumber": "2127.2001", 
+  "Date": "1923", 
   "ArtistBio": "(American, active 1919\u20131941)", 
-  "DateAcquired": "2001-06-14", 
-  "\ufeffTitle": "\"Heavyweight of the Universe\"", 
+  "CuratorApproved": "Y", 
   "ObjectID": "58720"
 }

@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Robert Rauschenberg", 
   "URL": "http://www.moma.org/collection/works/81468", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Philip Johnson", 
-  "Date": "1961", 
-  "ArtistID": 4823, 
+  "DateAcquired": "1972-12-27", 
   "Keywords": [
-    "online art collection", 
     "Robert Rauschenberg", 
     "First Landing Jump", 
     "1961"
   ], 
+  "ArtistID": 4823, 
+  "Title": "First Landing Jump", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "434.1972", 
+  "Date": "1961", 
   "ArtistBio": "(American, 1925\u20132008)", 
-  "DateAcquired": "1972-12-27", 
-  "\ufeffTitle": "First Landing Jump", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81468"
 }

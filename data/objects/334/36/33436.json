@@ -4,20 +4,19 @@
   "Classification": "Drawing", 
   "Artist": "Andy Warhol", 
   "URL": "http://www.moma.org/collection/works/33436", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchased with funds given by Marie-Jos\u00e9e and Henry R. Kravis", 
-  "Date": "(1976)", 
-  "ArtistID": 6246, 
+  "DateAcquired": "1999-02-25", 
   "Keywords": [
-    "online art collection", 
     "Andy Warhol", 
     "Untitled (Skull)", 
     "(1976)"
   ], 
+  "ArtistID": 6246, 
+  "Title": "Untitled (Skull)", 
   "Department": "Drawings", 
   "MoMANumber": "36.1999", 
+  "Date": "(1976)", 
   "ArtistBio": "(American, 1928\u20131987)", 
-  "DateAcquired": "1999-02-25", 
-  "\ufeffTitle": "Untitled (Skull)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "33436"
 }

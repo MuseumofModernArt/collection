@@ -4,21 +4,20 @@
   "Classification": "Painting", 
   "Artist": "Tony Smith", 
   "URL": "http://www.moma.org/collection/works/79482", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Agnes Gund", 
-  "Date": "1962, 1980", 
-  "ArtistID": 5494, 
+  "DateAcquired": "1989-12-11", 
   "Keywords": [
-    "online art collection", 
     "Tony Smith", 
     "Untitled", 
     "1962", 
     "1980"
   ], 
+  "ArtistID": 5494, 
+  "Title": "Untitled", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "337.1989", 
+  "Date": "1962, 1980", 
   "ArtistBio": "(American, 1912\u20131980)", 
-  "DateAcquired": "1989-12-11", 
-  "\ufeffTitle": "Untitled", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79482"
 }

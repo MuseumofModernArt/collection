@@ -4,22 +4,21 @@
   "Classification": "Illustrated Book", 
   "Artist": "Pablo Picasso", 
   "URL": "http://www.moma.org/collection/works/29795", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The Louis E. Stern Collection", 
-  "Date": "May 30, 1948, published 1949", 
-  "ArtistID": 4609, 
+  "DateAcquired": "1964-10-06", 
   "Keywords": [
-    "online art collection", 
     "Pablo Picasso", 
     "Planche XXXV from Carmen", 
     "May 30", 
     "1948", 
     "published 1949"
   ], 
+  "ArtistID": 4609, 
+  "Title": "Planche XXXV from Carmen", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "993.1964.35", 
+  "Date": "May 30, 1948, published 1949", 
   "ArtistBio": "(Spanish, 1881\u20131973)", 
-  "DateAcquired": "1964-10-06", 
-  "\ufeffTitle": "Planche XXXV from Carmen", 
+  "CuratorApproved": "Y", 
   "ObjectID": "29795"
 }

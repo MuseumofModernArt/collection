@@ -4,21 +4,20 @@
   "Classification": "Painting", 
   "Artist": "Ad Reinhardt", 
   "URL": "http://www.moma.org/collection/works/80559", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Given anonymously", 
-  "Date": "1947", 
-  "ArtistID": 4856, 
+  "DateAcquired": "1970-02-10", 
   "Keywords": [
-    "online art collection", 
     "Ad Reinhardt", 
     "Number 43 (Abstract Painting", 
     "Yellow)", 
     "1947"
   ], 
+  "ArtistID": 4856, 
+  "Title": "Number 43 (Abstract Painting, Yellow)", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "1101.1969", 
+  "Date": "1947", 
   "ArtistBio": "(American, 1913\u20131967)", 
-  "DateAcquired": "1970-02-10", 
-  "\ufeffTitle": "Number 43 (Abstract Painting, Yellow)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80559"
 }

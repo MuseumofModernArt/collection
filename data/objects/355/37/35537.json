@@ -4,21 +4,20 @@
   "Classification": "Drawing", 
   "Artist": "Georges-Pierre Seurat", 
   "URL": "http://www.moma.org/collection/works/35537", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Blanchette Hooker Rockefeller Bequest", 
-  "Date": "c. 1882-83", 
-  "ArtistID": 5358, 
+  "DateAcquired": "1993-05-05", 
   "Keywords": [
-    "online art collection", 
     "Georges-Pierre Seurat", 
     "Woman with a Dog (Femme avec chien)", 
     "c", 
     "1882-83"
   ], 
+  "ArtistID": 5358, 
+  "Title": "Woman with a Dog (Femme avec chien)", 
   "Department": "Drawings", 
   "MoMANumber": "206.1993", 
+  "Date": "c. 1882-83", 
   "ArtistBio": "(French, 1859\u20131891)", 
-  "DateAcquired": "1993-05-05", 
-  "\ufeffTitle": "Woman with a Dog (Femme avec chien)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "35537"
 }

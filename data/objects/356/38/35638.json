@@ -4,20 +4,19 @@
   "Classification": "Drawing", 
   "Artist": "Alfred Manessier", 
   "URL": "http://www.moma.org/collection/works/35638", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Mrs. Cornelius J. Sullivan Fund", 
-  "Date": "1948", 
-  "ArtistID": 3720, 
+  "DateAcquired": "1948-10-06", 
   "Keywords": [
-    "online art collection", 
     "Alfred Manessier", 
     "Evocation of the Entombment", 
     "1948"
   ], 
+  "ArtistID": 3720, 
+  "Title": "Evocation of the Entombment", 
   "Department": "Drawings", 
   "MoMANumber": "255.1948", 
+  "Date": "1948", 
   "ArtistBio": "(French, 1911\u20131993)", 
-  "DateAcquired": "1948-10-06", 
-  "\ufeffTitle": "Evocation of the Entombment", 
+  "CuratorApproved": "Y", 
   "ObjectID": "35638"
 }

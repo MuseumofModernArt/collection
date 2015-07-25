@@ -4,12 +4,9 @@
   "Classification": "Photograph", 
   "Artist": "Arthur S. Mole, John D. Thomas", 
   "URL": "http://www.moma.org/collection/works/51508", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Ronald A. Kurtz", 
-  "Date": "1918", 
-  "ArtistID": 8447, 
+  "DateAcquired": "1994-06-09", 
   "Keywords": [
-    "online art collection", 
     "Arthur S", 
     "Mole and John D", 
     "Thomas", 
@@ -17,10 +14,12 @@
     "Shield", 
     "1918"
   ], 
+  "ArtistID": 8447, 
+  "Title": "The Human U.S. Shield", 
   "Department": "Photography", 
   "MoMANumber": "351.1994", 
+  "Date": "1918", 
   "ArtistBio": "(American, born England. 1889\u20131983) (American, died 1947)", 
-  "DateAcquired": "1994-06-09", 
-  "\ufeffTitle": "The Human U.S. Shield", 
+  "CuratorApproved": "Y", 
   "ObjectID": "51508"
 }

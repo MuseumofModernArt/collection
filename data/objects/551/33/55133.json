@@ -4,21 +4,20 @@
   "Classification": "Photograph", 
   "Artist": "Lee Friedlander", 
   "URL": "http://www.moma.org/collection/works/55133", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1978", 
-  "ArtistID": 2002, 
+  "DateAcquired": "2000-10-12", 
   "Keywords": [
-    "online art collection", 
     "Lee Friedlander", 
     "Paris", 
     "France", 
     "1978"
   ], 
+  "ArtistID": 2002, 
+  "Title": "Paris, France", 
   "Department": "Photography", 
   "MoMANumber": "560.2000", 
+  "Date": "1978", 
   "ArtistBio": "(American, born 1934)", 
-  "DateAcquired": "2000-10-12", 
-  "\ufeffTitle": "Paris, France", 
+  "CuratorApproved": "Y", 
   "ObjectID": "55133"
 }

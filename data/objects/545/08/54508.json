@@ -4,20 +4,19 @@
   "Classification": "Photograph", 
   "Artist": "Lee Friedlander", 
   "URL": "http://www.moma.org/collection/works/54508", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1975", 
-  "ArtistID": 2002, 
+  "DateAcquired": "2000-10-12", 
   "Keywords": [
-    "online art collection", 
     "Lee Friedlander", 
     "Western United States", 
     "1975"
   ], 
+  "ArtistID": 2002, 
+  "Title": "Western United States", 
   "Department": "Photography", 
   "MoMANumber": "507.2000", 
+  "Date": "1975", 
   "ArtistBio": "(American, born 1934)", 
-  "DateAcquired": "2000-10-12", 
-  "\ufeffTitle": "Western United States", 
+  "CuratorApproved": "Y", 
   "ObjectID": "54508"
 }

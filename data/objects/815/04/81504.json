@@ -4,21 +4,20 @@
   "Classification": "Sculpture", 
   "Artist": "Louise Bourgeois", 
   "URL": "http://www.moma.org/collection/works/81504", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Mr. and Mrs. Cuthbert Daniel", 
-  "Date": "1949-50", 
-  "ArtistID": 710, 
+  "DateAcquired": "1969-06-10", 
   "Keywords": [
-    "online art collection", 
     "Louise Bourgeois", 
     "Quarantania", 
     "III", 
     "1949-50"
   ], 
+  "ArtistID": 710, 
+  "Title": "Quarantania, III", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "497.1969", 
+  "Date": "1949-50", 
   "ArtistBio": "(American, born France. 1911\u20132010)", 
-  "DateAcquired": "1969-06-10", 
-  "\ufeffTitle": "Quarantania, III", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81504"
 }

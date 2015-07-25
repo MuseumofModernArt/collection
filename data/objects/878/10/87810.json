@@ -4,20 +4,19 @@
   "Classification": "Drawing", 
   "Artist": "Guillermo Kuitca", 
   "URL": "http://www.moma.org/collection/works/87810", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "2002", 
-  "ArtistID": 7122, 
+  "DateAcquired": "2003-02-13", 
   "Keywords": [
-    "online art collection", 
     "Guillermo Kuitca", 
     "Lincoln Center Triptych", 
     "2002"
   ], 
+  "ArtistID": 7122, 
+  "Title": "Lincoln Center Triptych", 
   "Department": "Drawings", 
   "MoMANumber": "7.2003.a-c", 
+  "Date": "2002", 
   "ArtistBio": "(Argentine, born 1961)", 
-  "DateAcquired": "2003-02-13", 
-  "\ufeffTitle": "Lincoln Center Triptych", 
+  "CuratorApproved": "Y", 
   "ObjectID": "87810"
 }

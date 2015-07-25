@@ -4,21 +4,20 @@
   "Classification": "Drawing", 
   "Artist": "Andy Warhol", 
   "URL": "http://www.moma.org/collection/works/33425", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchased with funds provided by The Edward John Noble Foundation and Purchase Fund", 
-  "Date": "(c. 1962)", 
-  "ArtistID": 6246, 
+  "DateAcquired": "1999-02-25", 
   "Keywords": [
-    "online art collection", 
     "Andy Warhol", 
     "Untitled (City Text)", 
     "(c", 
     "1962)"
   ], 
+  "ArtistID": 6246, 
+  "Title": "Untitled (City Text)", 
   "Department": "Drawings", 
   "MoMANumber": "34.1999", 
+  "Date": "(c. 1962)", 
   "ArtistBio": "(American, 1928\u20131987)", 
-  "DateAcquired": "1999-02-25", 
-  "\ufeffTitle": "Untitled (City Text)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "33425"
 }

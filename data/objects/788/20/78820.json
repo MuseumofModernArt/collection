@@ -4,22 +4,21 @@
   "Classification": "Painting", 
   "Artist": "R. B. Kitaj", 
   "URL": "http://www.moma.org/collection/works/78820", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Philip Johnson Fund", 
-  "Date": "1964", 
-  "ArtistID": 3121, 
+  "DateAcquired": "1965-03-09", 
   "Keywords": [
-    "online art collection", 
     "R", 
     "B", 
     "Kitaj", 
     "The Ohio Gang", 
     "1964"
   ], 
+  "ArtistID": 3121, 
+  "Title": "The Ohio Gang", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "109.1965", 
+  "Date": "1964", 
   "ArtistBio": "(American, 1932\u20132007)", 
-  "DateAcquired": "1965-03-09", 
-  "\ufeffTitle": "The Ohio Gang", 
+  "CuratorApproved": "Y", 
   "ObjectID": "78820"
 }

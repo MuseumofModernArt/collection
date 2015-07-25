@@ -4,21 +4,20 @@
   "Classification": "Drawing", 
   "Artist": "Jackson Pollock", 
   "URL": "http://www.moma.org/collection/works/34857", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The Joan and Lester Avnet Collection", 
-  "Date": "(c. 1951)", 
-  "ArtistID": 4675, 
+  "DateAcquired": "1978-04-04", 
   "Keywords": [
-    "online art collection", 
     "Jackson Pollock", 
     "Untitled", 
     "(c", 
     "1951)"
   ], 
+  "ArtistID": 4675, 
+  "Title": "Untitled", 
   "Department": "Drawings", 
   "MoMANumber": "153.1978", 
+  "Date": "(c. 1951)", 
   "ArtistBio": "(American, 1912\u20131956)", 
-  "DateAcquired": "1978-04-04", 
-  "\ufeffTitle": "Untitled", 
+  "CuratorApproved": "Y", 
   "ObjectID": "34857"
 }

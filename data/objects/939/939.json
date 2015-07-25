@@ -4,12 +4,9 @@
   "Classification": "A&D Architectural Drawing", 
   "Artist": "Mathias Ungers, G. Geist, J. Sawade", 
   "URL": "http://www.moma.org/collection/works/939", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of The Howard Gilman Foundation", 
-  "Date": "1964", 
-  "ArtistID": 7988, 
+  "DateAcquired": "1998-11-12", 
   "Keywords": [
-    "online art collection", 
     "Mathias Ungers", 
     "G", 
     "Geist and J", 
@@ -20,10 +17,12 @@
     "Isometric", 
     "1964"
   ], 
+  "ArtistID": 7988, 
+  "Title": "Student Housing Project, Enschede, The Netherlands, Isometric", 
   "Department": "Architecture & Design", 
   "MoMANumber": "1314.2000.a-b", 
+  "Date": "1964", 
   "ArtistBio": "(German, 1926\u20132007)", 
-  "DateAcquired": "1998-11-12", 
-  "\ufeffTitle": "Student Housing Project, Enschede, The Netherlands, Isometric", 
+  "CuratorApproved": "Y", 
   "ObjectID": "939"
 }

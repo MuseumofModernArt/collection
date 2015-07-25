@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Marcel Duchamp", 
   "URL": "http://www.moma.org/collection/works/80234", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Mary Sisler Bequest", 
-  "Date": "1907", 
-  "ArtistID": 1634, 
+  "DateAcquired": "1990-12-10", 
   "Keywords": [
-    "online art collection", 
     "Marcel Duchamp", 
     "Man Seated by a Window", 
     "1907"
   ], 
+  "ArtistID": 1634, 
+  "Title": "Man Seated by a Window", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "675.1990", 
+  "Date": "1907", 
   "ArtistBio": "(American, born France. 1887\u20131968)", 
-  "DateAcquired": "1990-12-10", 
-  "\ufeffTitle": "Man Seated by a Window", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80234"
 }

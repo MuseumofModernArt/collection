@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Erol (Erol Akyavas)", 
   "URL": "http://www.moma.org/collection/works/78928", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Mr. and Mrs. L. M. Angeleski", 
-  "Date": "1959?", 
-  "ArtistID": 1753, 
+  "DateAcquired": "1961-05-16", 
   "Keywords": [
-    "online art collection", 
     "Erol (Erol Akyavas)", 
     "The Glory of the Kings", 
     "1959?"
   ], 
+  "ArtistID": 1753, 
+  "Title": "The Glory of the Kings", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "130.1961", 
+  "Date": "1959?", 
   "ArtistBio": "(Turkish, 1932\u20131999)", 
-  "DateAcquired": "1961-05-16", 
-  "\ufeffTitle": "The Glory of the Kings", 
+  "CuratorApproved": "Y", 
   "ObjectID": "78928"
 }

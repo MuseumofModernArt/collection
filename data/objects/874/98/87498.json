@@ -4,21 +4,20 @@
   "Classification": "A&D Mies van der Rohe Archive", 
   "Artist": "Ludwig Mies van der Rohe", 
   "URL": "http://www.moma.org/collection/works/87498", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Mies van der Rohe Archive, gift of the architect\r\n", 
-  "Date": "1923", 
-  "ArtistID": 7166, 
+  "DateAcquired": "1968-01-01", 
   "Keywords": [
-    "online art collection", 
     "Ludwig Mies van der Rohe", 
     "Concrete Country House Project", 
     "Perspective", 
     "1923"
   ], 
+  "ArtistID": 7166, 
+  "Title": "Concrete Country House Project, Perspective", 
   "Department": "Architecture & Design", 
   "MoMANumber": "MR12.4", 
+  "Date": "1923", 
   "ArtistBio": "(American, born Germany. 1886\u20131969)", 
-  "DateAcquired": "1968-01-01", 
-  "\ufeffTitle": "Concrete Country House Project, Perspective", 
+  "CuratorApproved": "Y", 
   "ObjectID": "87498"
 }

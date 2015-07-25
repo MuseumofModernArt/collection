@@ -4,21 +4,20 @@
   "Classification": "Photograph", 
   "Artist": "Lee Friedlander", 
   "URL": "http://www.moma.org/collection/works/52163", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1968", 
-  "ArtistID": 2002, 
+  "DateAcquired": "2000-10-12", 
   "Keywords": [
-    "online art collection", 
     "Lee Friedlander", 
     "Chicago", 
     "Illinois", 
     "1968"
   ], 
+  "ArtistID": 2002, 
+  "Title": "Chicago, Illinois", 
   "Department": "Photography", 
   "MoMANumber": "380.2000", 
+  "Date": "1968", 
   "ArtistBio": "(American, born 1934)", 
-  "DateAcquired": "2000-10-12", 
-  "\ufeffTitle": "Chicago, Illinois", 
+  "CuratorApproved": "Y", 
   "ObjectID": "52163"
 }

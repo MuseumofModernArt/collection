@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Kenneth Noland", 
   "URL": "http://www.moma.org/collection/works/78362", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Blanchette Hooker Rockefeller Fund", 
-  "Date": "1961", 
-  "ArtistID": 4326, 
+  "DateAcquired": "1968-01-10", 
   "Keywords": [
-    "online art collection", 
     "Kenneth Noland", 
     "Turnsole", 
     "1961"
   ], 
+  "ArtistID": 4326, 
+  "Title": "Turnsole", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "5.1968", 
+  "Date": "1961", 
   "ArtistBio": "(American, 1924\u20132010)", 
-  "DateAcquired": "1968-01-10", 
-  "\ufeffTitle": "Turnsole", 
+  "CuratorApproved": "Y", 
   "ObjectID": "78362"
 }

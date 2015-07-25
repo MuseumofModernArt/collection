@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "John Latham", 
   "URL": "http://www.moma.org/collection/works/81322", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Philip Johnson Fund", 
-  "Date": "1958", 
-  "ArtistID": 3404, 
+  "DateAcquired": "1961-11-08", 
   "Keywords": [
-    "online art collection", 
     "John Latham", 
     "Shem", 
     "1958"
   ], 
+  "ArtistID": 3404, 
+  "Title": "Shem", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "298.1961", 
+  "Date": "1958", 
   "ArtistBio": "(British, 1921\u20132006)", 
-  "DateAcquired": "1961-11-08", 
-  "\ufeffTitle": "Shem", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81322"
 }

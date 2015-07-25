@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Vija Celmins", 
   "URL": "http://www.moma.org/collection/works/100210", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Edward R. Broida in honor of David and Renee McKee", 
-  "Date": "1977-82", 
-  "ArtistID": 1048, 
+  "DateAcquired": "2005-10-06", 
   "Keywords": [
-    "online art collection", 
     "Vija Celmins", 
     "To Fix the Image in Memory", 
     "1977-82"
   ], 
+  "ArtistID": 1048, 
+  "Title": "To Fix the Image in Memory", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "679.2005", 
+  "Date": "1977-82", 
   "ArtistBio": "(American, born Latvia 1938)", 
-  "DateAcquired": "2005-10-06", 
-  "\ufeffTitle": "To Fix the Image in Memory", 
+  "CuratorApproved": "Y", 
   "ObjectID": "100210"
 }

@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Balthus (Baltusz Klossowski de Rola)", 
   "URL": "http://www.moma.org/collection/works/79263", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Estate of John Hay Whitney", 
-  "Date": "1942", 
-  "ArtistID": 317, 
+  "DateAcquired": "1983-02-14", 
   "Keywords": [
-    "online art collection", 
     "Balthus (Baltusz Klossowski de Rola)", 
     "The Living Room", 
     "1942"
   ], 
+  "ArtistID": 317, 
+  "Title": "The Living Room", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "245.1983", 
+  "Date": "1942", 
   "ArtistBio": "(French, 1908\u20132001)", 
-  "DateAcquired": "1983-02-14", 
-  "\ufeffTitle": "The Living Room", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79263"
 }

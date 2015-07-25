@@ -4,12 +4,9 @@
   "Classification": "A&D Graphic Design", 
   "Artist": "A. Andreas", 
   "URL": "http://www.moma.org/collection/works/5215", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Ludwig Charell", 
-  "Date": "c. 1895", 
-  "ArtistID": 176, 
+  "DateAcquired": "1956-03-19", 
   "Keywords": [
-    "online art collection", 
     "A", 
     "Andreas", 
     "Exposition des Pastels de E", 
@@ -20,10 +17,12 @@
     "c", 
     "1895"
   ], 
+  "ArtistID": 176, 
+  "Title": "Exposition des Pastels de E. M\u00fcrer., Nov. 23 - Dec. 13", 
   "Department": "Architecture & Design", 
   "MoMANumber": "142.1956", 
+  "Date": "c. 1895", 
   "ArtistBio": "(French)", 
-  "DateAcquired": "1956-03-19", 
-  "\ufeffTitle": "Exposition des Pastels de E. M\u00fcrer., Nov. 23 - Dec. 13", 
+  "CuratorApproved": "Y", 
   "ObjectID": "5215"
 }

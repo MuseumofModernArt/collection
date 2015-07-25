@@ -4,12 +4,9 @@
   "Classification": "Illustrated Book", 
   "Artist": "Various Artists, Adrian Wiszniewski, June Redfern, Jack Knox, Peter Howson, Steven Campbell, Bruce McLean, John Bellany", 
   "URL": "http://www.moma.org/collection/works/13600", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Mary Ellen Meehan Fund and Purchase", 
-  "Date": "1986", 
-  "ArtistID": 6104, 
+  "DateAcquired": "1988-05-04", 
   "Keywords": [
-    "online art collection", 
     "Various Artists with Adrian Wiszniewski", 
     "June Redfern", 
     "Jack Knox", 
@@ -19,10 +16,12 @@
     "The Scottish Bestiary", 
     "1986"
   ], 
+  "ArtistID": 6104, 
+  "Title": "The Scottish Bestiary", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "207.1988.1-20", 
+  "Date": "1986", 
   "ArtistBio": "(Various) (British, born 1958) (British, born 1951) (British, born 1936) (British, born 1958) (British, born 1954) (British, born 1944) (British, 1942\u20132013)", 
-  "DateAcquired": "1988-05-04", 
-  "\ufeffTitle": "The Scottish Bestiary", 
+  "CuratorApproved": "Y", 
   "ObjectID": "13600"
 }

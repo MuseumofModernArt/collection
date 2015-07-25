@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Yves Tanguy", 
   "URL": "http://www.moma.org/collection/works/79799", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Pierre Matisse in memory of Patricia Kane Matisse", 
-  "Date": "1928", 
-  "ArtistID": 5804, 
+  "DateAcquired": "1978-06-13", 
   "Keywords": [
-    "online art collection", 
     "Yves Tanguy", 
     "With My Shadow", 
     "1928"
   ], 
+  "ArtistID": 5804, 
+  "Title": "With My Shadow", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "470.1978", 
+  "Date": "1928", 
   "ArtistBio": "(American, born France. 1900\u20131955)", 
-  "DateAcquired": "1978-06-13", 
-  "\ufeffTitle": "With My Shadow", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79799"
 }

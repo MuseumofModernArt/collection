@@ -4,12 +4,9 @@
   "Classification": "A&D Graphic Design", 
   "Artist": "Unknown Artist", 
   "URL": "http://www.moma.org/collection/works/8035", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Jan Tschichold Collection, Gift of Philip Johnson", 
-  "Date": "1935", 
-  "ArtistID": 6026, 
+  "DateAcquired": "1999-12-10", 
   "Keywords": [
-    "online art collection", 
     "Unknown Artist", 
     "K&uuml;nstlerhaus", 
     "Brno 1935", 
@@ -17,10 +14,12 @@
     "Moholy-Nagy", 
     "1935"
   ], 
+  "ArtistID": 6026, 
+  "Title": "K\u00fcnstlerhaus, Brno 1935, L. Moholy-Nagy", 
   "Department": "Architecture & Design", 
   "MoMANumber": "748.1999", 
+  "Date": "1935", 
   "ArtistBio": "(Nationality Unknown)", 
-  "DateAcquired": "1999-12-10", 
-  "\ufeffTitle": "K\u00fcnstlerhaus, Brno 1935, L. Moholy-Nagy", 
+  "CuratorApproved": "Y", 
   "ObjectID": "8035"
 }

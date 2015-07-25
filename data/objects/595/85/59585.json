@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Max Beckmann", 
   "URL": "http://www.moma.org/collection/works/59585", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Paul J. Sachs", 
-  "Date": "(1923)", 
-  "ArtistID": 429, 
+  "DateAcquired": "1929-11-19", 
   "Keywords": [
-    "online art collection", 
     "Max Beckmann", 
     "Before the Mirror (Vor dem Spiegel)", 
     "(1923)"
   ], 
+  "ArtistID": 429, 
+  "Title": "Before the Mirror (Vor dem Spiegel)", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "2.1929", 
+  "Date": "(1923)", 
   "ArtistBio": "(German, 1884\u20131950)", 
-  "DateAcquired": "1929-11-19", 
-  "\ufeffTitle": "Before the Mirror (Vor dem Spiegel)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "59585"
 }

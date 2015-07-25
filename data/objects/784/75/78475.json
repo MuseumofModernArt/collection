@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "John Tunnard", 
   "URL": "http://www.moma.org/collection/works/78475", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Acquired through the Lillie P. Bliss Bequest", 
-  "Date": "1938", 
-  "ArtistID": 5969, 
+  "DateAcquired": "1943-02-18", 
   "Keywords": [
-    "online art collection", 
     "John Tunnard", 
     "Fugue", 
     "1938"
   ], 
+  "ArtistID": 5969, 
+  "Title": "Fugue", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "19.1943", 
+  "Date": "1938", 
   "ArtistBio": "(British, 1900\u20131971)", 
-  "DateAcquired": "1943-02-18", 
-  "\ufeffTitle": "Fugue", 
+  "CuratorApproved": "Y", 
   "ObjectID": "78475"
 }

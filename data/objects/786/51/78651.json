@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Roberto Matta", 
   "URL": "http://www.moma.org/collection/works/78651", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Given anonymously", 
-  "Date": "1944", 
-  "ArtistID": 3842, 
+  "DateAcquired": "1944-03-14", 
   "Keywords": [
-    "online art collection", 
     "Roberto Matta", 
     "The Vertigo of Eros", 
     "1944"
   ], 
+  "ArtistID": 3842, 
+  "Title": "The Vertigo of Eros", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "65.1944", 
+  "Date": "1944", 
   "ArtistBio": "(Chilean, 1911\u20132002)", 
-  "DateAcquired": "1944-03-14", 
-  "\ufeffTitle": "The Vertigo of Eros", 
+  "CuratorApproved": "Y", 
   "ObjectID": "78651"
 }

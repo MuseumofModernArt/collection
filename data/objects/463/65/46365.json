@@ -4,12 +4,9 @@
   "Classification": "Photograph", 
   "Artist": "Clarence H. White", 
   "URL": "http://www.moma.org/collection/works/46365", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Mr. and Mrs. Clarence H. White, Jr., 1971", 
-  "Date": "1917", 
-  "ArtistID": 6338, 
+  "DateAcquired": "1975-02-12", 
   "Keywords": [
-    "online art collection", 
     "Clarence H", 
     "White", 
     "The Skeleton of the Ship", 
@@ -17,10 +14,12 @@
     "Maine", 
     "1917"
   ], 
+  "ArtistID": 6338, 
+  "Title": "The Skeleton of the Ship, Bath, Maine", 
   "Department": "Photography", 
   "MoMANumber": "107.1975", 
+  "Date": "1917", 
   "ArtistBio": "(American, 1871\u20131925)", 
-  "DateAcquired": "1975-02-12", 
-  "\ufeffTitle": "The Skeleton of the Ship, Bath, Maine", 
+  "CuratorApproved": "Y", 
   "ObjectID": "46365"
 }

@@ -4,12 +4,9 @@
   "Classification": "Print", 
   "Artist": "James Rosenquist", 
   "URL": "http://www.moma.org/collection/works/73082", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Dr. and Mrs. Francis L'Esperance", 
-  "Date": "1974", 
-  "ArtistID": 5021, 
+  "DateAcquired": "1982-01-21", 
   "Keywords": [
-    "online art collection", 
     "James Rosenquist", 
     "F-111 (South", 
     "West", 
@@ -17,10 +14,12 @@
     "East)", 
     "1974"
   ], 
+  "ArtistID": 5021, 
+  "Title": "F-111 (South, West, North, East)", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "680.1981.a-d", 
+  "Date": "1974", 
   "ArtistBio": "(American, born 1933)", 
-  "DateAcquired": "1982-01-21", 
-  "\ufeffTitle": "F-111 (South, West, North, East)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "73082"
 }

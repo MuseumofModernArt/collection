@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Vija Celmins", 
   "URL": "http://www.moma.org/collection/works/100222", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Edward R. Broida in honor of John Elderfield", 
-  "Date": "1964", 
-  "ArtistID": 1048, 
+  "DateAcquired": "2005-10-06", 
   "Keywords": [
-    "online art collection", 
     "Vija Celmins", 
     "Gun with Hand #1", 
     "1964"
   ], 
+  "ArtistID": 1048, 
+  "Title": "Gun with Hand #1", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "669.2005", 
+  "Date": "1964", 
   "ArtistBio": "(American, born Latvia 1938)", 
-  "DateAcquired": "2005-10-06", 
-  "\ufeffTitle": "Gun with Hand #1", 
+  "CuratorApproved": "Y", 
   "ObjectID": "100222"
 }

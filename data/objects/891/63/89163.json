@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Elizabeth Peyton", 
   "URL": "http://www.moma.org/collection/works/89163", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the Young Print Collectors of The Museum of Modern Art", 
-  "Date": "2003", 
-  "ArtistID": 8042, 
+  "DateAcquired": "2003-11-20", 
   "Keywords": [
-    "online art collection", 
     "Elizabeth Peyton", 
     "Marc", 
     "2003"
   ], 
+  "ArtistID": 8042, 
+  "Title": "Marc", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "352.2003", 
+  "Date": "2003", 
   "ArtistBio": "(American, born 1965)", 
-  "DateAcquired": "2003-11-20", 
-  "\ufeffTitle": "Marc", 
+  "CuratorApproved": "Y", 
   "ObjectID": "89163"
 }

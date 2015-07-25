@@ -4,12 +4,9 @@
   "Classification": "Photograph", 
   "Artist": "Berenice Abbott", 
   "URL": "http://www.moma.org/collection/works/44354", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Edward M. M. Warburg", 
-  "Date": "May 4, 1938", 
-  "ArtistID": 41, 
+  "DateAcquired": "1971-01-05", 
   "Keywords": [
-    "online art collection", 
     "Berenice Abbott", 
     "Old Post Office", 
     "Broadway and Park Row", 
@@ -17,10 +14,12 @@
     "May 4", 
     "1938"
   ], 
+  "ArtistID": 41, 
+  "Title": "Old Post Office, Broadway and Park Row, Manhattan", 
   "Department": "Photography", 
   "MoMANumber": "34.1971", 
+  "Date": "May 4, 1938", 
   "ArtistBio": "(American, 1898\u20131991)", 
-  "DateAcquired": "1971-01-05", 
-  "\ufeffTitle": "Old Post Office, Broadway and Park Row, Manhattan", 
+  "CuratorApproved": "Y", 
   "ObjectID": "44354"
 }

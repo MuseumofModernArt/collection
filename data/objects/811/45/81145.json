@@ -4,21 +4,20 @@
   "Classification": "Sculpture", 
   "Artist": "Claes Oldenburg", 
   "URL": "http://www.moma.org/collection/works/81145", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Blanchette Hooker Rockefeller Fund", 
-  "Date": "1975", 
-  "ArtistID": 4397, 
+  "DateAcquired": "1982-05-12", 
   "Keywords": [
-    "online art collection", 
     "Claes Oldenburg", 
     "Geometric Mouse", 
     "Scale A", 
     "1975"
   ], 
+  "ArtistID": 4397, 
+  "Title": "Geometric Mouse, Scale A", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "209.1982.a-d", 
+  "Date": "1975", 
   "ArtistBio": "(American, born Sweden 1929)", 
-  "DateAcquired": "1982-05-12", 
-  "\ufeffTitle": "Geometric Mouse, Scale A", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81145"
 }

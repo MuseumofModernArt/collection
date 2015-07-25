@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Ren\u00e9 Robert Bouch\u00e9", 
   "URL": "http://www.moma.org/collection/works/78638", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Mrs. Albert D. Lasker", 
-  "Date": "1957", 
-  "ArtistID": 699, 
+  "DateAcquired": "1961-02-07", 
   "Keywords": [
-    "online art collection", 
     "Ren&eacute; Robert Bouch&eacute;", 
     "Georges Braque", 
     "1957"
   ], 
+  "ArtistID": 699, 
+  "Title": "Georges Braque", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "60.1961", 
+  "Date": "1957", 
   "ArtistBio": "(American, 1905\u20131963)", 
-  "DateAcquired": "1961-02-07", 
-  "\ufeffTitle": "Georges Braque", 
+  "CuratorApproved": "Y", 
   "ObjectID": "78638"
 }

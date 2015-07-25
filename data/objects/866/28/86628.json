@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Edward Ruscha", 
   "URL": "http://www.moma.org/collection/works/86628", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Jo Carole and Ronald S. Lauder and Committee on Painting and Sculpture Funds", 
-  "Date": "2002", 
-  "ArtistID": 5086, 
+  "DateAcquired": "2002-10-07", 
   "Keywords": [
-    "online art collection", 
     "Edward Ruscha", 
     "Tulsa Slut", 
     "2002"
   ], 
+  "ArtistID": 5086, 
+  "Title": "Tulsa Slut", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "271.2002", 
+  "Date": "2002", 
   "ArtistBio": "(American, born 1937)", 
-  "DateAcquired": "2002-10-07", 
-  "\ufeffTitle": "Tulsa Slut", 
+  "CuratorApproved": "Y", 
   "ObjectID": "86628"
 }

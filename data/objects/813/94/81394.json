@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Jean Tinguely", 
   "URL": "http://www.moma.org/collection/works/81394", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Philip Johnson Fund", 
-  "Date": "1959", 
-  "ArtistID": 5882, 
+  "DateAcquired": "1960-11-16", 
   "Keywords": [
-    "online art collection", 
     "Jean Tinguely", 
     "Puss in Boots", 
     "1959"
   ], 
+  "ArtistID": 5882, 
+  "Title": "Puss in Boots", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "369.1960", 
+  "Date": "1959", 
   "ArtistBio": "(Swiss, 1925\u20131991)", 
-  "DateAcquired": "1960-11-16", 
-  "\ufeffTitle": "Puss in Boots", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81394"
 }

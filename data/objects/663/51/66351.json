@@ -4,21 +4,20 @@
   "Classification": "Print", 
   "Artist": "Ida Applebroog", 
   "URL": "http://www.moma.org/collection/works/66351", 
-  "CuratorApproved": "Y", 
   "CreditLine": "John B. Turner Fund", 
-  "Date": "1985", 
-  "ArtistID": 205, 
+  "DateAcquired": "1985-10-07", 
   "Keywords": [
-    "online art collection", 
     "Ida Applebroog", 
     "American Medical Association", 
     "state II", 
     "1985"
   ], 
+  "ArtistID": 205, 
+  "Title": "American Medical Association, state II", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "296.1985.a-b", 
+  "Date": "1985", 
   "ArtistBio": "(American, born 1929)", 
-  "DateAcquired": "1985-10-07", 
-  "\ufeffTitle": "American Medical Association, state II", 
+  "CuratorApproved": "Y", 
   "ObjectID": "66351"
 }

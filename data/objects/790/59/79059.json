@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Piet Mondrian", 
   "URL": "http://www.moma.org/collection/works/79059", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Katherine S. Dreier Bequest", 
-  "Date": "1926", 
-  "ArtistID": 4057, 
+  "DateAcquired": "1953-04-07", 
   "Keywords": [
-    "online art collection", 
     "Piet Mondrian", 
     "Tableau I: Lozenge with Four Lines and Gray", 
     "1926"
   ], 
+  "ArtistID": 4057, 
+  "Title": "Tableau I: Lozenge with Four Lines and Gray", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "179.1953", 
+  "Date": "1926", 
   "ArtistBio": "(Dutch, 1872\u20131944)", 
-  "DateAcquired": "1953-04-07", 
-  "\ufeffTitle": "Tableau I: Lozenge with Four Lines and Gray", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79059"
 }

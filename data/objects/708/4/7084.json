@@ -4,12 +4,9 @@
   "Classification": "A&D Graphic Design", 
   "Artist": "Joan Mir\u00f3", 
   "URL": "http://www.moma.org/collection/works/7084", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Peter Stone Collection of Posters by Artists", 
-  "Date": "Unknown", 
-  "ArtistID": 4016, 
+  "DateAcquired": "1976-10-22", 
   "Keywords": [
-    "online art collection", 
     "Joan Mir&oacute;", 
     "Galerie Maeght", 
     "13 rue de Teheran", 
@@ -19,10 +16,12 @@
     "&eacute;tincelles", 
     "Unknown"
   ], 
+  "ArtistID": 4016, 
+  "Title": "Galerie Maeght, 13 rue de Teheran, Mir\u00f3, l'oiseau solaire, l'oiseau lunaire, \u00e9tincelles", 
   "Department": "Architecture & Design", 
   "MoMANumber": "457.1976", 
+  "Date": "Unknown", 
   "ArtistBio": "(Spanish, 1893\u20131983)", 
-  "DateAcquired": "1976-10-22", 
-  "\ufeffTitle": "Galerie Maeght, 13 rue de Teheran, Mir\u00f3, l'oiseau solaire, l'oiseau lunaire, \u00e9tincelles", 
+  "CuratorApproved": "Y", 
   "ObjectID": "7084"
 }

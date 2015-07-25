@@ -4,20 +4,19 @@
   "Classification": "Drawing", 
   "Artist": "Georgia O'Keeffe", 
   "URL": "http://www.moma.org/collection/works/34086", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Acquired with matching funds from the Committee on Drawings and the National Endowment for the Arts", 
-  "Date": "(1916)", 
-  "ArtistID": 4360, 
+  "DateAcquired": "1979-05-07", 
   "Keywords": [
-    "online art collection", 
     "Georgia O'Keeffe", 
     "Train at Night in the Desert", 
     "(1916)"
   ], 
+  "ArtistID": 4360, 
+  "Title": "Train at Night in the Desert", 
   "Department": "Drawings", 
   "MoMANumber": "113.1979", 
+  "Date": "(1916)", 
   "ArtistBio": "(American, 1887\u20131986)", 
-  "DateAcquired": "1979-05-07", 
-  "\ufeffTitle": "Train at Night in the Desert", 
+  "CuratorApproved": "Y", 
   "ObjectID": "34086"
 }

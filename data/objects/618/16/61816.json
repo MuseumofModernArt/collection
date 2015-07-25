@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Marcel Duchamp", 
   "URL": "http://www.moma.org/collection/works/61816", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of David Whitney", 
-  "Date": "1963", 
-  "ArtistID": 1634, 
+  "DateAcquired": "1995-05-03", 
   "Keywords": [
-    "online art collection", 
     "Marcel Duchamp", 
     "A Poster Within a Poster", 
     "1963"
   ], 
+  "ArtistID": 1634, 
+  "Title": "A Poster Within a Poster", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "102.1995", 
+  "Date": "1963", 
   "ArtistBio": "(American, born France. 1887\u20131968)", 
-  "DateAcquired": "1995-05-03", 
-  "\ufeffTitle": "A Poster Within a Poster", 
+  "CuratorApproved": "Y", 
   "ObjectID": "61816"
 }

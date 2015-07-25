@@ -4,22 +4,21 @@
   "Classification": "A&D Architectural Model", 
   "Artist": "Charles Gwathmey", 
   "URL": "http://www.moma.org/collection/works/99393", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the architect", 
-  "Date": "1966", 
-  "ArtistID": 2424, 
+  "DateAcquired": "2005-10-18", 
   "Keywords": [
-    "online art collection", 
     "Charles Gwathmey", 
     "Gwathmey Studio", 
     "Amagansett", 
     "NY", 
     "1966"
   ], 
+  "ArtistID": 2424, 
+  "Title": "Gwathmey Studio, Amagansett, NY", 
   "Department": "Architecture & Design", 
   "MoMANumber": "828.2005", 
+  "Date": "1966", 
   "ArtistBio": "(American, 1938\u20132009)", 
-  "DateAcquired": "2005-10-18", 
-  "\ufeffTitle": "Gwathmey Studio, Amagansett, NY", 
+  "CuratorApproved": "Y", 
   "ObjectID": "99393"
 }

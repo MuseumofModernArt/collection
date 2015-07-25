@@ -4,20 +4,19 @@
   "Classification": "Drawing", 
   "Artist": "Pablo Picasso", 
   "URL": "http://www.moma.org/collection/works/34049", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Fractional and promised gift of Marie-Jos\u00e9e and Henry R. Kravis", 
-  "Date": "1908", 
-  "ArtistID": 4609, 
+  "DateAcquired": "2000-02-03", 
   "Keywords": [
-    "online art collection", 
     "Pablo Picasso", 
     "Bather", 
     "1908"
   ], 
+  "ArtistID": 4609, 
+  "Title": "Bather", 
   "Department": "Drawings", 
   "MoMANumber": "111.2000", 
+  "Date": "1908", 
   "ArtistBio": "(Spanish, 1881\u20131973)", 
-  "DateAcquired": "2000-02-03", 
-  "\ufeffTitle": "Bather", 
+  "CuratorApproved": "Y", 
   "ObjectID": "34049"
 }

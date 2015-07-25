@@ -4,21 +4,20 @@
   "Classification": "Photograph", 
   "Artist": "Constantin Brancusi", 
   "URL": "http://www.moma.org/collection/works/83685", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Thomas Walther Collection. The Family of Man Fund and gift of Elizabeth Lorentz, by exchange", 
-  "Date": "1920", 
-  "ArtistID": 738, 
+  "DateAcquired": "2001-12-13", 
   "Keywords": [
-    "online art collection", 
     "Constantin Brancusi", 
     "Golden Bird", 
     "c", 
     "1919"
   ], 
+  "ArtistID": 738, 
+  "Title": "Golden Bird", 
   "Department": "Photography", 
   "MoMANumber": "1636.2001", 
+  "Date": "1920", 
   "ArtistBio": "(French, born Romania. 1876\u20131957)", 
-  "DateAcquired": "2001-12-13", 
-  "\ufeffTitle": "Golden Bird", 
+  "CuratorApproved": "Y", 
   "ObjectID": "83685"
 }

@@ -4,21 +4,20 @@
   "Classification": "A&D Graphic Design", 
   "Artist": "Art Chantry", 
   "URL": "http://www.moma.org/collection/works/5297", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the designer", 
-  "Date": "1985", 
-  "ArtistID": 7456, 
+  "DateAcquired": "1995-05-09", 
   "Keywords": [
-    "online art collection", 
     "Art Chantry", 
     "Give Peace a Dance", 
     "A 24-Hour Dance Marathon", 
     "1985"
   ], 
+  "ArtistID": 7456, 
+  "Title": "Give Peace a Dance, A 24-Hour Dance Marathon", 
   "Department": "Architecture & Design", 
   "MoMANumber": "150.1995", 
+  "Date": "1985", 
   "ArtistBio": "(American, born 1954)", 
-  "DateAcquired": "1995-05-09", 
-  "\ufeffTitle": "Give Peace a Dance, A 24-Hour Dance Marathon", 
+  "CuratorApproved": "Y", 
   "ObjectID": "5297"
 }

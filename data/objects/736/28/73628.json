@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Julian Lethbridge", 
   "URL": "http://www.moma.org/collection/works/73628", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Emily Fisher Landau", 
-  "Date": "1995", 
-  "ArtistID": 3500, 
+  "DateAcquired": "1995-11-13", 
   "Keywords": [
-    "online art collection", 
     "Julian Lethbridge", 
     "Traveling Salesman", 
     "1995"
   ], 
+  "ArtistID": 3500, 
+  "Title": "Traveling Salesman", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "732.1995", 
+  "Date": "1995", 
   "ArtistBio": "(British, born 1947)", 
-  "DateAcquired": "1995-11-13", 
-  "\ufeffTitle": "Traveling Salesman", 
+  "CuratorApproved": "Y", 
   "ObjectID": "73628"
 }

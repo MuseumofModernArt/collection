@@ -4,21 +4,20 @@
   "Classification": "Painting", 
   "Artist": "Emil Nolde", 
   "URL": "http://www.moma.org/collection/works/79958", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Mr. and Mrs. Werner E. Josten", 
-  "Date": "1916", 
-  "ArtistID": 4327, 
+  "DateAcquired": "1956-11-08", 
   "Keywords": [
-    "online art collection", 
     "Emil Nolde", 
     "Blue and Violet Flowers", 
     "c", 
     "1915?"
   ], 
+  "ArtistID": 4327, 
+  "Title": "Blue and Violet Flowers", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "555.1956", 
+  "Date": "1916", 
   "ArtistBio": "(German, 1867\u20131956)", 
-  "DateAcquired": "1956-11-08", 
-  "\ufeffTitle": "Blue and Violet Flowers", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79958"
 }

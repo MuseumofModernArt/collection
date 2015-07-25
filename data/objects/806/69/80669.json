@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Jean Dubuffet", 
   "URL": "http://www.moma.org/collection/works/80669", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Nina and Gordon Bunshaft", 
-  "Date": "December 1944", 
-  "ArtistID": 1633, 
+  "DateAcquired": "1968-12-10", 
   "Keywords": [
-    "online art collection", 
     "Jean Dubuffet", 
     "Grand Jazz Band (New Orleans)", 
     "December 1944"
   ], 
+  "ArtistID": 1633, 
+  "Title": "Grand Jazz Band (New Orleans)", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "1515.1968", 
+  "Date": "December 1944", 
   "ArtistBio": "(French, 1901\u20131985)", 
-  "DateAcquired": "1968-12-10", 
-  "\ufeffTitle": "Grand Jazz Band (New Orleans)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80669"
 }

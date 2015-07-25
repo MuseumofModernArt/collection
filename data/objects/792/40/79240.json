@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Lee Krasner", 
   "URL": "http://www.moma.org/collection/works/79240", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Mrs. Ruth Dunbar Cushing Fund", 
-  "Date": "1951", 
-  "ArtistID": 3240, 
+  "DateAcquired": "1969-03-11", 
   "Keywords": [
-    "online art collection", 
     "Lee Krasner", 
     "Number 3 (Untitled)", 
     "1951"
   ], 
+  "ArtistID": 3240, 
+  "Title": "Number 3 (Untitled)", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "237.1969", 
+  "Date": "1951", 
   "ArtistBio": "(American, 1908\u20131984)", 
-  "DateAcquired": "1969-03-11", 
-  "\ufeffTitle": "Number 3 (Untitled)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79240"
 }

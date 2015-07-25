@@ -4,21 +4,20 @@
   "Classification": "Painting", 
   "Artist": "Jacques Villon", 
   "URL": "http://www.moma.org/collection/works/80412", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Helen Acheson Bequest", 
-  "Date": "c. 1912-14", 
-  "ArtistID": 6165, 
+  "DateAcquired": "1978-12-12", 
   "Keywords": [
-    "online art collection", 
     "Jacques Villon", 
     "Girl at the Piano", 
     "c", 
     "1912-14"
   ], 
+  "ArtistID": 6165, 
+  "Title": "Girl at the Piano", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "858.1978", 
+  "Date": "c. 1912-14", 
   "ArtistBio": "(French, 1875\u20131963)", 
-  "DateAcquired": "1978-12-12", 
-  "\ufeffTitle": "Girl at the Piano", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80412"
 }

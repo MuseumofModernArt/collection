@@ -4,12 +4,9 @@
   "Classification": "Print", 
   "Artist": "Louise Bourgeois", 
   "URL": "http://www.moma.org/collection/works/70620", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the artist", 
-  "Date": "1996-1999", 
-  "ArtistID": 710, 
+  "DateAcquired": "1997-11-11", 
   "Keywords": [
-    "online art collection", 
     "Louise Bourgeois", 
     "Untitled", 
     "unpublished plate (Foot with Face)", 
@@ -18,10 +15,12 @@
     "from Metamorfosis", 
     "(1996)"
   ], 
+  "ArtistID": 710, 
+  "Title": "Untitled", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "528.1997", 
+  "Date": "1996-1999", 
   "ArtistBio": "(American, born France. 1911\u20132010)", 
-  "DateAcquired": "1997-11-11", 
-  "\ufeffTitle": "Untitled", 
+  "CuratorApproved": "Y", 
   "ObjectID": "70620"
 }

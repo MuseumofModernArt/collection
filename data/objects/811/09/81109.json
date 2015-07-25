@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Judy Pfaff", 
   "URL": "http://www.moma.org/collection/works/81109", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Blanchette Hooker Rockefeller Fund and gift of an anonymous donor", 
-  "Date": "1987", 
-  "ArtistID": 4594, 
+  "DateAcquired": "1987-05-18", 
   "Keywords": [
-    "online art collection", 
     "Judy Pfaff", 
     "Blue Vase with Nasturtiums", 
     "1987"
   ], 
+  "ArtistID": 4594, 
+  "Title": "Blue Vase with Nasturtiums", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "192.1987.a-r", 
+  "Date": "1987", 
   "ArtistBio": "(American, born 1946)", 
-  "DateAcquired": "1987-05-18", 
-  "\ufeffTitle": "Blue Vase with Nasturtiums", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81109"
 }

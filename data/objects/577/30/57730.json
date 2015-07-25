@@ -4,12 +4,9 @@
   "Classification": "Photograph", 
   "Artist": "Lee Friedlander", 
   "URL": "http://www.moma.org/collection/works/57730", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1974", 
-  "ArtistID": 2002, 
+  "DateAcquired": "2000-10-12", 
   "Keywords": [
-    "online art collection", 
     "Lee Friedlander", 
     "Major General Harry W", 
     "Slocum", 
@@ -19,10 +16,12 @@
     "Pennsylvania", 
     "1974"
   ], 
+  "ArtistID": 2002, 
+  "Title": "Major General Harry W. Slocum, Napoleon Gun, and Stevens' Fifth Maine Battery Marker. Gettysburg National Military Park, Pennsylvania", 
   "Department": "Photography", 
   "MoMANumber": "1150.2000", 
+  "Date": "1974", 
   "ArtistBio": "(American, born 1934)", 
-  "DateAcquired": "2000-10-12", 
-  "\ufeffTitle": "Major General Harry W. Slocum, Napoleon Gun, and Stevens' Fifth Maine Battery Marker. Gettysburg National Military Park, Pennsylvania", 
+  "CuratorApproved": "Y", 
   "ObjectID": "57730"
 }

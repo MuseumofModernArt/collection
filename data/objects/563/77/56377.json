@@ -4,12 +4,9 @@
   "Classification": "Photograph", 
   "Artist": "Lee Friedlander", 
   "URL": "http://www.moma.org/collection/works/56377", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1974", 
-  "ArtistID": 2002, 
+  "DateAcquired": "2000-10-12", 
   "Keywords": [
-    "online art collection", 
     "Lee Friedlander", 
     "General Gouverneur K", 
     "Warren", 
@@ -17,10 +14,12 @@
     "Pennsylvania", 
     "1974"
   ], 
+  "ArtistID": 2002, 
+  "Title": "General Gouverneur K. Warren. Gettysburg National Military Park, Pennsylvania", 
   "Department": "Photography", 
   "MoMANumber": "778.2000", 
+  "Date": "1974", 
   "ArtistBio": "(American, born 1934)", 
-  "DateAcquired": "2000-10-12", 
-  "\ufeffTitle": "General Gouverneur K. Warren. Gettysburg National Military Park, Pennsylvania", 
+  "CuratorApproved": "Y", 
   "ObjectID": "56377"
 }

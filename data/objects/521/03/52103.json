@@ -4,21 +4,20 @@
   "Classification": "Photograph", 
   "Artist": "Lee Friedlander", 
   "URL": "http://www.moma.org/collection/works/52103", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1966", 
-  "ArtistID": 2002, 
+  "DateAcquired": "2000-10-12", 
   "Keywords": [
-    "online art collection", 
     "Lee Friedlander", 
     "White Plains", 
     "New York", 
     "1966"
   ], 
+  "ArtistID": 2002, 
+  "Title": "White Plains, New York", 
   "Department": "Photography", 
   "MoMANumber": "377.2000", 
+  "Date": "1966", 
   "ArtistBio": "(American, born 1934)", 
-  "DateAcquired": "2000-10-12", 
-  "\ufeffTitle": "White Plains, New York", 
+  "CuratorApproved": "Y", 
   "ObjectID": "52103"
 }

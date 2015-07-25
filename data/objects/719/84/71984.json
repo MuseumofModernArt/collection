@@ -4,12 +4,9 @@
   "Classification": "Print", 
   "Artist": "Louise Bourgeois", 
   "URL": "http://www.moma.org/collection/works/71984", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the artist", 
-  "Date": "1995", 
-  "ArtistID": 710, 
+  "DateAcquired": "1996-11-12", 
   "Keywords": [
-    "online art collection", 
     "Louise Bourgeois", 
     "Untitled", 
     "plate 2", 
@@ -17,10 +14,12 @@
     "from Ode &agrave; ma m&egrave;re", 
     "(1995)"
   ], 
+  "ArtistID": 710, 
+  "Title": "Untitled, plate 2 of 9, from the illustrated book, Ode \u00e0 ma m\u00e8re", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "621.1996", 
+  "Date": "1995", 
   "ArtistBio": "(American, born France. 1911\u20132010)", 
-  "DateAcquired": "1996-11-12", 
-  "\ufeffTitle": "Untitled, plate 2 of 9, from the illustrated book, Ode \u00e0 ma m\u00e8re", 
+  "CuratorApproved": "Y", 
   "ObjectID": "71984"
 }

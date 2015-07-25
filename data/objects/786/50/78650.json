@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Otto Dix", 
   "URL": "http://www.moma.org/collection/works/78650", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Abby Aldrich Rockefeller", 
-  "Date": "1928", 
-  "ArtistID": 1559, 
+  "DateAcquired": "1935-06-13", 
   "Keywords": [
-    "online art collection", 
     "Otto Dix", 
     "Child with Doll", 
     "1928"
   ], 
+  "ArtistID": 1559, 
+  "Title": "Child with Doll", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "65.1935", 
+  "Date": "1928", 
   "ArtistBio": "(German, 1891\u20131969)", 
-  "DateAcquired": "1935-06-13", 
-  "\ufeffTitle": "Child with Doll", 
+  "CuratorApproved": "Y", 
   "ObjectID": "78650"
 }

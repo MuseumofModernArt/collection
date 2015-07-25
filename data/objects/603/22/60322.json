@@ -4,21 +4,20 @@
   "Classification": "Print", 
   "Artist": "Christian Rohlfs", 
   "URL": "http://www.moma.org/collection/works/60322", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "(1916, published 1931)", 
-  "ArtistID": 5000, 
+  "DateAcquired": "1947-03-13", 
   "Keywords": [
-    "online art collection", 
     "Christian Rohlfs", 
     "Return of the Prodigal Son (R&uuml;ckkehr des verlorenen Sohnes) from the annual portfolio of the Alliance for the Advancement of German Art (Verbindung zur F&ouml;rderung deutscher Kunst)", 
     "(1916", 
     "published 1931)"
   ], 
+  "ArtistID": 5000, 
+  "Title": "Return of the Prodigal Son (R\u00fcckkehr des verlorenen Sohnes) from the annual portfolio of the Alliance for the Advancement of German Art (Verbindung zur F\u00f6rderung deutscher Kunst)", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "24.1947", 
+  "Date": "(1916, published 1931)", 
   "ArtistBio": "(German, 1849\u20131938)", 
-  "DateAcquired": "1947-03-13", 
-  "\ufeffTitle": "Return of the Prodigal Son (R\u00fcckkehr des verlorenen Sohnes) from the annual portfolio of the Alliance for the Advancement of German Art (Verbindung zur F\u00f6rderung deutscher Kunst)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "60322"
 }

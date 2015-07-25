@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Robert Barry", 
   "URL": "http://www.moma.org/collection/works/79652", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Amicus Foundation, and Martin S. Ackerman, Frances Keech and Ronald S. Lauder Funds", 
-  "Date": "1981", 
-  "ArtistID": 352, 
+  "DateAcquired": "1981-11-17", 
   "Keywords": [
-    "online art collection", 
     "Robert Barry", 
     "Untitled", 
     "1981"
   ], 
+  "ArtistID": 352, 
+  "Title": "Untitled", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "417.1981", 
+  "Date": "1981", 
   "ArtistBio": "(American, born 1936)", 
-  "DateAcquired": "1981-11-17", 
-  "\ufeffTitle": "Untitled", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79652"
 }

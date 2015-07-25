@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Luc Tuymans", 
   "URL": "http://www.moma.org/collection/works/79807", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Committee on Painting and Sculpture Funds", 
-  "Date": "1996", 
-  "ArtistID": 7520, 
+  "DateAcquired": "1996-10-07", 
   "Keywords": [
-    "online art collection", 
     "Luc Tuymans", 
     "The Heritage IV", 
     "1996"
   ], 
+  "ArtistID": 7520, 
+  "Title": "The Heritage IV", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "475.1996", 
+  "Date": "1996", 
   "ArtistBio": "(Belgian, born 1958)", 
-  "DateAcquired": "1996-10-07", 
-  "\ufeffTitle": "The Heritage IV", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79807"
 }

@@ -4,21 +4,20 @@
   "Classification": "Photograph", 
   "Artist": "Unknown photographer", 
   "URL": "http://www.moma.org/collection/works/45540", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Celeste Bartos", 
-  "Date": "c. 1850", 
-  "ArtistID": 6028, 
+  "DateAcquired": "1974-01-29", 
   "Keywords": [
-    "online art collection", 
     "Unknown Photographer", 
     "Death Portrait of a Woman Lying On a Bed of Patterned Material", 
     "c", 
     "1850"
   ], 
+  "ArtistID": 6028, 
+  "Title": "Death Portrait of a Woman Lying On a Bed of Patterned Material", 
   "Department": "Photography", 
   "MoMANumber": "69.1974", 
+  "Date": "c. 1850", 
   "ArtistBio": "", 
-  "DateAcquired": "1974-01-29", 
-  "\ufeffTitle": "Death Portrait of a Woman Lying On a Bed of Patterned Material", 
+  "CuratorApproved": "Y", 
   "ObjectID": "45540"
 }

@@ -4,12 +4,9 @@
   "Classification": "A&D Architectural Model", 
   "Artist": "Ludwig Mies van der Rohe", 
   "URL": "http://www.moma.org/collection/works/88391", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Mies van der Rohe Archive, Mies in Berlin Exhibition Fund", 
-  "Date": "1932", 
-  "ArtistID": 7166, 
+  "DateAcquired": "2003-10-02", 
   "Keywords": [
-    "online art collection", 
     "Ludwig Mies van der Rohe", 
     "Gericke House", 
     "project", 
@@ -18,10 +15,12 @@
     "Landscape model", 
     "1932"
   ], 
+  "ArtistID": 7166, 
+  "Title": "Gericke House, project, Berlin-Wannsee, Germany, Landscape model", 
   "Department": "Architecture & Design", 
   "MoMANumber": "226.2003", 
+  "Date": "1932", 
   "ArtistBio": "(American, born Germany. 1886\u20131969)", 
-  "DateAcquired": "2003-10-02", 
-  "\ufeffTitle": "Gericke House, project, Berlin-Wannsee, Germany, Landscape model", 
+  "CuratorApproved": "Y", 
   "ObjectID": "88391"
 }

@@ -4,21 +4,20 @@
   "Classification": "A&D Graphic Design", 
   "Artist": "Johannes Canis", 
   "URL": "http://www.moma.org/collection/works/7835", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Jan Tschichold Collection, Gift of Philip Johnson", 
-  "Date": "c. 1930", 
-  "ArtistID": 950, 
+  "DateAcquired": "1999-12-10", 
   "Keywords": [
-    "online art collection", 
     "Johannes Canis", 
     "Fabriken Fortschritt GmbH", 
     "c", 
     "1930"
   ], 
+  "ArtistID": 950, 
+  "Title": "Fabriken Fortschritt GmbH", 
   "Department": "Architecture & Design", 
   "MoMANumber": "642.1999", 
+  "Date": "c. 1930", 
   "ArtistBio": "(German, 1895\u20131977)", 
-  "DateAcquired": "1999-12-10", 
-  "\ufeffTitle": "Fabriken Fortschritt GmbH", 
+  "CuratorApproved": "Y", 
   "ObjectID": "7835"
 }

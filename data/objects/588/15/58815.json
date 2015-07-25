@@ -4,21 +4,20 @@
   "Classification": "Photograph", 
   "Artist": "Unknown photographer", 
   "URL": "http://www.moma.org/collection/works/58815", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The New York Times Collection", 
-  "Date": "1939", 
-  "ArtistID": 6028, 
+  "DateAcquired": "2001-06-14", 
   "Keywords": [
-    "online art collection", 
     "Unknown Photographer", 
     "Nazi Girls Organization in Parade", 
     "Vienna", 
     "1939"
   ], 
+  "ArtistID": 6028, 
+  "Title": "Nazi Girls Organization in Parade, Vienna", 
   "Department": "Photography", 
   "MoMANumber": "2222.2001", 
+  "Date": "1939", 
   "ArtistBio": "", 
-  "DateAcquired": "2001-06-14", 
-  "\ufeffTitle": "Nazi Girls Organization in Parade, Vienna", 
+  "CuratorApproved": "Y", 
   "ObjectID": "58815"
 }

@@ -4,12 +4,9 @@
   "Classification": "Photograph", 
   "Artist": "Judith Joy Ross", 
   "URL": "http://www.moma.org/collection/works/93558", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Richard O. Rieger", 
-  "Date": "1993", 
-  "ArtistID": 5030, 
+  "DateAcquired": "2008-11-12", 
   "Keywords": [
-    "online art collection", 
     "Judith Joy Ross", 
     "Mr", 
     "Robert Shanno", 
@@ -19,10 +16,12 @@
     "Pennsylvania", 
     "1993"
   ], 
+  "ArtistID": 5030, 
+  "Title": "Mr. Robert Shanno, American History Teacher, Hazleton High School, Hazleton, Pennsylvania", 
   "Department": "Photography", 
   "MoMANumber": "1959.2008", 
+  "Date": "1993", 
   "ArtistBio": "(American, born 1946)", 
-  "DateAcquired": "2008-11-12", 
-  "\ufeffTitle": "Mr. Robert Shanno, American History Teacher, Hazleton High School, Hazleton, Pennsylvania", 
+  "CuratorApproved": "Y", 
   "ObjectID": "93558"
 }

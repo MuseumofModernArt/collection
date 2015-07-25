@@ -4,20 +4,19 @@
   "Classification": "Photograph", 
   "Artist": "Times Wide World Photos", 
   "URL": "http://www.moma.org/collection/works/58768", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The New York Times Collection", 
-  "Date": "May 1935", 
-  "ArtistID": 8632, 
+  "DateAcquired": "2001-06-14", 
   "Keywords": [
-    "online art collection", 
     "Times Wide World Photos", 
     "\"The Mayor Becomes a Saint and a Sinner\"", 
     "May 1935"
   ], 
+  "ArtistID": 8632, 
+  "Title": "\"The Mayor Becomes a Saint and a Sinner\"", 
   "Department": "Photography", 
   "MoMANumber": "2175.2001", 
+  "Date": "May 1935", 
   "ArtistBio": "(American, active 1919\u20131941)", 
-  "DateAcquired": "2001-06-14", 
-  "\ufeffTitle": "\"The Mayor Becomes a Saint and a Sinner\"", 
+  "CuratorApproved": "Y", 
   "ObjectID": "58768"
 }

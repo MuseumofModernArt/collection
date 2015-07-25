@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Claude Viallat", 
   "URL": "http://www.moma.org/collection/works/78957", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Blanchette Hooker Rockefeller Fund", 
-  "Date": "1979", 
-  "ArtistID": 6145, 
+  "DateAcquired": "1985-04-08", 
   "Keywords": [
-    "online art collection", 
     "Claude Viallat", 
     "Untitled", 
     "1979"
   ], 
+  "ArtistID": 6145, 
+  "Title": "Untitled", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "138.1985", 
+  "Date": "1979", 
   "ArtistBio": "(French, born 1936)", 
-  "DateAcquired": "1985-04-08", 
-  "\ufeffTitle": "Untitled", 
+  "CuratorApproved": "Y", 
   "ObjectID": "78957"
 }

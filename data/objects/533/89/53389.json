@@ -4,12 +4,9 @@
   "Classification": "Photograph", 
   "Artist": "Clarence H. White", 
   "URL": "http://www.moma.org/collection/works/53389", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "c. 1899", 
-  "ArtistID": 6338, 
+  "DateAcquired": "1942-12-29", 
   "Keywords": [
-    "online art collection", 
     "Clarence H", 
     "White", 
     "The Old Canal", 
@@ -18,10 +15,12 @@
     "c", 
     "1899"
   ], 
+  "ArtistID": 6338, 
+  "Title": "The Old Canal, Newark, Ohio", 
   "Department": "Photography", 
   "MoMANumber": "439.1942", 
+  "Date": "c. 1899", 
   "ArtistBio": "(American, 1871\u20131925)", 
-  "DateAcquired": "1942-12-29", 
-  "\ufeffTitle": "The Old Canal, Newark, Ohio", 
+  "CuratorApproved": "Y", 
   "ObjectID": "53389"
 }

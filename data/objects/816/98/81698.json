@@ -4,21 +4,20 @@
   "Classification": "Sculpture", 
   "Artist": "Henri Matisse", 
   "URL": "http://www.moma.org/collection/works/81698", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Abby Aldrich Rockefeller", 
-  "Date": "Issy-les-Moulineaux, fall 1909", 
-  "ArtistID": 3832, 
+  "DateAcquired": "1939-12-08", 
   "Keywords": [
-    "online art collection", 
     "Henri Matisse", 
     "La Serpentine", 
     "Issy-les-Moulineaux", 
     "fall 1909"
   ], 
+  "ArtistID": 3832, 
+  "Title": "La Serpentine", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "624.1939", 
+  "Date": "Issy-les-Moulineaux, fall 1909", 
   "ArtistBio": "(French, 1869\u20131954)", 
-  "DateAcquired": "1939-12-08", 
-  "\ufeffTitle": "La Serpentine", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81698"
 }

@@ -4,12 +4,9 @@
   "Classification": "A&D Architectural Drawing", 
   "Artist": "Emilio Ambasz", 
   "URL": "http://www.moma.org/collection/works/793", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of The Howard Gilman Foundation", 
-  "Date": "1975", 
-  "ArtistID": 141, 
+  "DateAcquired": "2000-10-31", 
   "Keywords": [
-    "online art collection", 
     "Emilio Ambasz", 
     "Grand Rapids Art Museum", 
     "project", 
@@ -18,10 +15,12 @@
     "Perspective", 
     "1975"
   ], 
+  "ArtistID": 141, 
+  "Title": "Grand Rapids Art Museum, project , Grand Rapids, Michigan, Perspective", 
   "Department": "Architecture & Design", 
   "MoMANumber": "1182.2000", 
+  "Date": "1975", 
   "ArtistBio": "(Argentine, born 1943)", 
-  "DateAcquired": "2000-10-31", 
-  "\ufeffTitle": "Grand Rapids Art Museum, project , Grand Rapids, Michigan, Perspective", 
+  "CuratorApproved": "Y", 
   "ObjectID": "793"
 }

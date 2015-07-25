@@ -4,20 +4,19 @@
   "Classification": "Photograph", 
   "Artist": "Lee Friedlander", 
   "URL": "http://www.moma.org/collection/works/50427", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Carl Jacobs Fund", 
-  "Date": "1962", 
-  "ArtistID": 2002, 
+  "DateAcquired": "2000-10-12", 
   "Keywords": [
-    "online art collection", 
     "Lee Friedlander", 
     "New York City", 
     "1962"
   ], 
+  "ArtistID": 2002, 
+  "Title": "New York City", 
   "Department": "Photography", 
   "MoMANumber": "309.2000", 
+  "Date": "1962", 
   "ArtistBio": "(American, born 1934)", 
-  "DateAcquired": "2000-10-12", 
-  "\ufeffTitle": "New York City", 
+  "CuratorApproved": "Y", 
   "ObjectID": "50427"
 }

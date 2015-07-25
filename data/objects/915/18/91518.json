@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Joaqu\u00edn Torres-Garc\u00eda", 
   "URL": "http://www.moma.org/collection/works/91518", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The Sidney and Harriet Janis Collection (by exchange)", 
-  "Date": "1930", 
-  "ArtistID": 5907, 
+  "DateAcquired": "2004-06-08", 
   "Keywords": [
-    "online art collection", 
     "Joaqu&iacute;n Torres-Garc&iacute;a", 
     "Color Structure", 
     "1930"
   ], 
+  "ArtistID": 5907, 
+  "Title": "Color Structure", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "311.2004", 
+  "Date": "1930", 
   "ArtistBio": "(Uruguayan, 1874\u20131949)", 
-  "DateAcquired": "2004-06-08", 
-  "\ufeffTitle": "Color Structure", 
+  "CuratorApproved": "Y", 
   "ObjectID": "91518"
 }

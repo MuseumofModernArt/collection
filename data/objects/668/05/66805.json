@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Jacques Villon", 
   "URL": "http://www.moma.org/collection/works/66805", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "(1900)", 
-  "ArtistID": 6165, 
+  "DateAcquired": "1952-11-07", 
   "Keywords": [
-    "online art collection", 
     "Jacques Villon", 
     "Little Girl on a Red Staircase", 
     "(1900)"
   ], 
+  "ArtistID": 6165, 
+  "Title": "Little Girl on a Red Staircase", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "317.1952", 
+  "Date": "(1900)", 
   "ArtistBio": "(French, 1875\u20131963)", 
-  "DateAcquired": "1952-11-07", 
-  "\ufeffTitle": "Little Girl on a Red Staircase", 
+  "CuratorApproved": "Y", 
   "ObjectID": "66805"
 }

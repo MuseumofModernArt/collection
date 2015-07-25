@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Egon Schiele", 
   "URL": "http://www.moma.org/collection/works/79721", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase and partial gift of the Lauder family, 1982, and private collection", 
-  "Date": "1909", 
-  "ArtistID": 5215, 
+  "DateAcquired": "1982-11-10", 
   "Keywords": [
-    "online art collection", 
     "Egon Schiele", 
     "Portrait of Gerti Schiele", 
     "1909"
   ], 
+  "ArtistID": 5215, 
+  "Title": "Portrait of Gerti Schiele", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "451.1982", 
+  "Date": "1909", 
   "ArtistBio": "(Austrian, 1890\u20131918)", 
-  "DateAcquired": "1982-11-10", 
-  "\ufeffTitle": "Portrait of Gerti Schiele", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79721"
 }

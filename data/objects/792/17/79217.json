@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Alex Katz", 
   "URL": "http://www.moma.org/collection/works/79217", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the Louis and Bessie Adler Foundation, Inc., Seymour M. Klein, President", 
-  "Date": "1962-63", 
-  "ArtistID": 3016, 
+  "DateAcquired": "1978-03-09", 
   "Keywords": [
-    "online art collection", 
     "Alex Katz", 
     "Passing", 
     "1962-63"
   ], 
+  "ArtistID": 3016, 
+  "Title": "Passing", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "233.1978", 
+  "Date": "1962-63", 
   "ArtistBio": "(American, born 1927)", 
-  "DateAcquired": "1978-03-09", 
-  "\ufeffTitle": "Passing", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79217"
 }

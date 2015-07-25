@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Enzo Cucchi", 
   "URL": "http://www.moma.org/collection/works/79330", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Anne and Sid Bass Fund", 
-  "Date": "1983", 
-  "ArtistID": 1323, 
+  "DateAcquired": "1984-10-09", 
   "Keywords": [
-    "online art collection", 
     "Enzo Cucchi", 
     "The Days Must Be Laid on the Ground", 
     "1983"
   ], 
+  "ArtistID": 1323, 
+  "Title": "The Days Must Be Laid on the Ground", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "264.1984.a-c", 
+  "Date": "1983", 
   "ArtistBio": "(Italian, born 1949)", 
-  "DateAcquired": "1984-10-09", 
-  "\ufeffTitle": "The Days Must Be Laid on the Ground", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79330"
 }

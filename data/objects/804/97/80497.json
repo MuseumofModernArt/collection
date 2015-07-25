@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Vasily Kandinsky", 
   "URL": "http://www.moma.org/collection/works/80497", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The Riklis Collection of McCrory Corporation", 
-  "Date": "March 1932", 
-  "ArtistID": 2981, 
+  "DateAcquired": "1985-10-25", 
   "Keywords": [
-    "online art collection", 
     "Vasily Kandinsky", 
     "White - Soft and Hard", 
     "March 1932"
   ], 
+  "ArtistID": 2981, 
+  "Title": "White - Soft and Hard", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "1033.1983", 
+  "Date": "March 1932", 
   "ArtistBio": "(French, born Russia. 1866\u20131944)", 
-  "DateAcquired": "1985-10-25", 
-  "\ufeffTitle": "White - Soft and Hard", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80497"
 }

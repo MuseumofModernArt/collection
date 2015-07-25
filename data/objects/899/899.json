@@ -4,12 +4,9 @@
   "Classification": "A&D Architectural Drawing", 
   "Artist": "Aldo Rossi, Gianni Braghieri", 
   "URL": "http://www.moma.org/collection/works/899", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of The Howard Gilman Foundation", 
-  "Date": "1972", 
-  "ArtistID": 7661, 
+  "DateAcquired": "2000-10-31", 
   "Keywords": [
-    "online art collection", 
     "Aldo Rossi and Gianni Braghieri", 
     "Cemetery of San Cataldo", 
     "Modena", 
@@ -17,10 +14,12 @@
     "Plan study", 
     "1972"
   ], 
+  "ArtistID": 7661, 
+  "Title": "Cemetery of San Cataldo, Modena, Italy, Plan study", 
   "Department": "Architecture & Design", 
   "MoMANumber": "1284.2000", 
+  "Date": "1972", 
   "ArtistBio": "(Italian, 1931\u20131997) (Italian, born 1945)", 
-  "DateAcquired": "2000-10-31", 
-  "\ufeffTitle": "Cemetery of San Cataldo, Modena, Italy, Plan study", 
+  "CuratorApproved": "Y", 
   "ObjectID": "899"
 }

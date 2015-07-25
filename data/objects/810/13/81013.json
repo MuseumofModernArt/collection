@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Aleksandr Archipenko", 
   "URL": "http://www.moma.org/collection/works/81013", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Katherine S. Dreier Bequest", 
-  "Date": "1920", 
-  "ArtistID": 209, 
+  "DateAcquired": "1953-04-07", 
   "Keywords": [
-    "online art collection", 
     "Aleksandr Archipenko", 
     "Glass on a Table", 
     "1920"
   ], 
+  "ArtistID": 209, 
+  "Title": "Glass on a Table", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "141.1953", 
+  "Date": "1920", 
   "ArtistBio": "(American, 1887\u20131964)", 
-  "DateAcquired": "1953-04-07", 
-  "\ufeffTitle": "Glass on a Table", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81013"
 }

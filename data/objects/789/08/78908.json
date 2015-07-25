@@ -4,21 +4,20 @@
   "Classification": "Painting", 
   "Artist": "Henri Matisse", 
   "URL": "http://www.moma.org/collection/works/78908", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Mrs. Simon Guggenheim Fund", 
-  "Date": "Issy-les-Moulineaux, late summer 1916", 
-  "ArtistID": 3832, 
+  "DateAcquired": "1946-05-07", 
   "Keywords": [
-    "online art collection", 
     "Henri Matisse", 
     "The Piano Lesson", 
     "Issy-les-Moulineaux", 
     "late summer 1916"
   ], 
+  "ArtistID": 3832, 
+  "Title": "The Piano Lesson", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "125.1946", 
+  "Date": "Issy-les-Moulineaux, late summer 1916", 
   "ArtistBio": "(French, 1869\u20131954)", 
-  "DateAcquired": "1946-05-07", 
-  "\ufeffTitle": "The Piano Lesson", 
+  "CuratorApproved": "Y", 
   "ObjectID": "78908"
 }

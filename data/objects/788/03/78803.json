@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Ben Cunningham (Benjamin Frazier Cunningham)", 
   "URL": "http://www.moma.org/collection/works/78803", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Larry Aldrich Foundation Fund", 
-  "Date": "1964", 
-  "ArtistID": 1333, 
+  "DateAcquired": "1965-03-09", 
   "Keywords": [
-    "online art collection", 
     "Ben Cunningham (Benjamin Frazier Cunningham)", 
     "Equivocation", 
     "1964"
   ], 
+  "ArtistID": 1333, 
+  "Title": "Equivocation", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "106.1965", 
+  "Date": "1964", 
   "ArtistBio": "(American, 1904\u20131975)", 
-  "DateAcquired": "1965-03-09", 
-  "\ufeffTitle": "Equivocation", 
+  "CuratorApproved": "Y", 
   "ObjectID": "78803"
 }

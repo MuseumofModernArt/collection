@@ -4,21 +4,20 @@
   "Classification": "Photograph", 
   "Artist": "Lee Friedlander", 
   "URL": "http://www.moma.org/collection/works/57645", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1980", 
-  "ArtistID": 2002, 
+  "DateAcquired": "2000-10-12", 
   "Keywords": [
-    "online art collection", 
     "Lee Friedlander", 
     "Cleveland", 
     "Ohio", 
     "1980"
   ], 
+  "ArtistID": 2002, 
+  "Title": "Cleveland, Ohio", 
   "Department": "Photography", 
   "MoMANumber": "1106.2000", 
+  "Date": "1980", 
   "ArtistBio": "(American, born 1934)", 
-  "DateAcquired": "2000-10-12", 
-  "\ufeffTitle": "Cleveland, Ohio", 
+  "CuratorApproved": "Y", 
   "ObjectID": "57645"
 }

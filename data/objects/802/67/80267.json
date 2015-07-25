@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Antoni T\u00e0pies", 
   "URL": "http://www.moma.org/collection/works/80267", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Mary Sisler Bequest", 
-  "Date": "1961", 
-  "ArtistID": 5809, 
+  "DateAcquired": "1990-12-10", 
   "Keywords": [
-    "online art collection", 
     "Antoni T&agrave;pies", 
     "\"I\"", 
     "1961"
   ], 
+  "ArtistID": 5809, 
+  "Title": "\"I\"", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "691.1990", 
+  "Date": "1961", 
   "ArtistBio": "(Spanish, 1923\u20132012)", 
-  "DateAcquired": "1990-12-10", 
-  "\ufeffTitle": "\"I\"", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80267"
 }

@@ -4,12 +4,9 @@
   "Classification": "Illustrated Book", 
   "Artist": "Various Artists, Antoni T\u00e0pies, Rufino Tamayo, Robert Motherwell, Jos\u00e9 Guerrero, Antoni Clav\u00e9, Eduardo Chillida, Antonio Saura, Julio Le Parc, Rafael Canogar", 
   "URL": "http://www.moma.org/collection/works/13820", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Given anonymously", 
-  "Date": "1984", 
-  "ArtistID": 6104, 
+  "DateAcquired": "1986-05-20", 
   "Keywords": [
-    "online art collection", 
     "Various Artists with Antoni T&agrave;pies", 
     "Rufino Tamayo", 
     "Robert Motherwell", 
@@ -21,10 +18,12 @@
     "Declaracion Universal de Derechos Humanos", 
     "1984"
   ], 
+  "ArtistID": 6104, 
+  "Title": "Declaracion Universal de Derechos Humanos", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "215.1986.1-30", 
+  "Date": "1984", 
   "ArtistBio": "(Various) (Spanish, 1923\u20132012) (Mexican, 1899\u20131991) (American, 1915\u20131991) (American, 1914\u20131991) (Spanish, born 1913) (Spanish, 1924\u20132002) (Spanish, 1930\u20131998) (Argentine, born 1928) (Spanish, born 1935)", 
-  "DateAcquired": "1986-05-20", 
-  "\ufeffTitle": "Declaracion Universal de Derechos Humanos", 
+  "CuratorApproved": "Y", 
   "ObjectID": "13820"
 }

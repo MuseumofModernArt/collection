@@ -4,21 +4,20 @@
   "Classification": "Painting", 
   "Artist": "Natalia Goncharova", 
   "URL": "http://www.moma.org/collection/works/80480", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The Riklis Collection of McCrory Corporation", 
-  "Date": "1913 (dated on reverse 1911)", 
-  "ArtistID": 2229, 
+  "DateAcquired": "1985-10-25", 
   "Keywords": [
-    "online art collection", 
     "Natalia Goncharova", 
     "Rayonism", 
     "Blue-Green Forest", 
     "1913 (dated on reverse 1911)"
   ], 
+  "ArtistID": 2229, 
+  "Title": "Rayonism, Blue-Green Forest", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "1012.1983", 
+  "Date": "1913 (dated on reverse 1911)", 
   "ArtistBio": "(Russian, 1881\u20131962)", 
-  "DateAcquired": "1985-10-25", 
-  "\ufeffTitle": "Rayonism, Blue-Green Forest", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80480"
 }

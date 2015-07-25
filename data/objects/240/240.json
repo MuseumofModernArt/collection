@@ -4,12 +4,9 @@
   "Classification": "A&D Architectural Drawing", 
   "Artist": "Bernard Tschumi", 
   "URL": "http://www.moma.org/collection/works/240", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Barbara Pine", 
-  "Date": "1983", 
-  "ArtistID": 7056, 
+  "DateAcquired": "1993-05-04", 
   "Keywords": [
-    "online art collection", 
     "Bernard Tschumi", 
     "Parc de la Villette", 
     "Paris", 
@@ -18,10 +15,12 @@
     "sketch", 
     "1983"
   ], 
+  "ArtistID": 7056, 
+  "Title": "Parc de la Villette, Paris, France, Exterior perspectives, sketch", 
   "Department": "Architecture & Design", 
   "MoMANumber": "154.1993", 
+  "Date": "1983", 
   "ArtistBio": "(French and Swiss, born Switzerland 1944)", 
-  "DateAcquired": "1993-05-04", 
-  "\ufeffTitle": "Parc de la Villette, Paris, France, Exterior perspectives, sketch", 
+  "CuratorApproved": "Y", 
   "ObjectID": "240"
 }

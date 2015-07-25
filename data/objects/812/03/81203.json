@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Gaston Lachaise", 
   "URL": "http://www.moma.org/collection/works/81203", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Maximilian H. Miltzlaff", 
-  "Date": "1928", 
-  "ArtistID": 3332, 
+  "DateAcquired": "1966-04-12", 
   "Keywords": [
-    "online art collection", 
     "Gaston Lachaise", 
     "Henry McBride", 
     "1928"
   ], 
+  "ArtistID": 3332, 
+  "Title": "Henry McBride", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "246.1966", 
+  "Date": "1928", 
   "ArtistBio": "(American, born France. 1882\u20131935)", 
-  "DateAcquired": "1966-04-12", 
-  "\ufeffTitle": "Henry McBride", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81203"
 }

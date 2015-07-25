@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Robert Morris", 
   "URL": "http://www.moma.org/collection/works/80898", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Philip Johnson", 
-  "Date": "1964", 
-  "ArtistID": 4108, 
+  "DateAcquired": "1979-03-13", 
   "Keywords": [
-    "online art collection", 
     "Robert Morris", 
     "Rope Piece", 
     "1964"
   ], 
+  "ArtistID": 4108, 
+  "Title": "Rope Piece", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "70.1979", 
+  "Date": "1964", 
   "ArtistBio": "(American, born 1931)", 
-  "DateAcquired": "1979-03-13", 
-  "\ufeffTitle": "Rope Piece", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80898"
 }

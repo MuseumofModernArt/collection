@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Jim Dine", 
   "URL": "http://www.moma.org/collection/works/80222", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Mary Sisler Bequest", 
-  "Date": "1961", 
-  "ArtistID": 1547, 
+  "DateAcquired": "1990-12-10", 
   "Keywords": [
-    "online art collection", 
     "Jim Dine", 
     "Tattoo", 
     "1961"
   ], 
+  "ArtistID": 1547, 
+  "Title": "Tattoo", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "666.1990", 
+  "Date": "1961", 
   "ArtistBio": "(American, born 1935)", 
-  "DateAcquired": "1990-12-10", 
-  "\ufeffTitle": "Tattoo", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80222"
 }

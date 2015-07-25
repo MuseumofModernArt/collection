@@ -4,12 +4,9 @@
   "Classification": "Photograph", 
   "Artist": "Rudy Burckhardt", 
   "URL": "http://www.moma.org/collection/works/45289", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the photographer", 
-  "Date": "1942-43", 
-  "ArtistID": 7653, 
+  "DateAcquired": "1993-03-11", 
   "Keywords": [
-    "online art collection", 
     "Rudy Burckhardt", 
     "Laurel Hill", 
     "Queens", 
@@ -17,10 +14,12 @@
     "two buildings)", 
     "1942-43"
   ], 
+  "ArtistID": 7653, 
+  "Title": "Laurel Hill, Queens. (cemetery in background, two buildings)", 
   "Department": "Photography", 
   "MoMANumber": "61.1993", 
+  "Date": "1942-43", 
   "ArtistBio": "(American, born Switzerland. 1914\u20131999)", 
-  "DateAcquired": "1993-03-11", 
-  "\ufeffTitle": "Laurel Hill, Queens. (cemetery in background, two buildings)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "45289"
 }

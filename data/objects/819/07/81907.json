@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Richard Tuttle", 
   "URL": "http://www.moma.org/collection/works/81907", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Renzo Bagnoli", 
-  "Date": "1971", 
-  "ArtistID": 5983, 
+  "DateAcquired": "1978-12-12", 
   "Keywords": [
-    "online art collection", 
     "Richard Tuttle", 
     "12th Wire Octagonal", 
     "1971"
   ], 
+  "ArtistID": 5983, 
+  "Title": "12th Wire Octagonal", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "857.1978", 
+  "Date": "1971", 
   "ArtistBio": "(American, born 1941)", 
-  "DateAcquired": "1978-12-12", 
-  "\ufeffTitle": "12th Wire Octagonal", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81907"
 }

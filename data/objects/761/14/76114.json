@@ -4,22 +4,21 @@
   "Classification": "Print", 
   "Artist": "John Marin", 
   "URL": "http://www.moma.org/collection/works/76114", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Abby Aldrich Rockefeller", 
-  "Date": "1907", 
-  "ArtistID": 3770, 
+  "DateAcquired": "1940-04-05", 
   "Keywords": [
-    "online art collection", 
     "John Marin", 
     "Portal of St", 
     "Mark's", 
     "Venice", 
     "1907"
   ], 
+  "ArtistID": 3770, 
+  "Title": "Portal of St. Mark's, Venice", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "1228.1940", 
+  "Date": "1907", 
   "ArtistBio": "(American, 1870\u20131953)", 
-  "DateAcquired": "1940-04-05", 
-  "\ufeffTitle": "Portal of St. Mark's, Venice", 
+  "CuratorApproved": "Y", 
   "ObjectID": "76114"
 }

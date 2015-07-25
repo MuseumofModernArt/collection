@@ -4,22 +4,21 @@
   "Classification": "Photograph", 
   "Artist": "Nicholas Nixon", 
   "URL": "http://www.moma.org/collection/works/57551", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the artist", 
-  "Date": "1979", 
-  "ArtistID": 4315, 
+  "DateAcquired": "1979-10-11", 
   "Keywords": [
-    "online art collection", 
     "Nicholas Nixon", 
     "Taunton Avenue", 
     "Hyde Park", 
     "Massachusetts", 
     "1979"
   ], 
+  "ArtistID": 4315, 
+  "Title": "Taunton Avenue, Hyde Park, Massachusetts", 
   "Department": "Photography", 
   "MoMANumber": "1025.1979", 
+  "Date": "1979", 
   "ArtistBio": "(American, born 1947)", 
-  "DateAcquired": "1979-10-11", 
-  "\ufeffTitle": "Taunton Avenue, Hyde Park, Massachusetts", 
+  "CuratorApproved": "Y", 
   "ObjectID": "57551"
 }

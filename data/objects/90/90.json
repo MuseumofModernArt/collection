@@ -4,12 +4,9 @@
   "Classification": "A&D Architectural Drawing", 
   "Artist": "Roger C. Ferri", 
   "URL": "http://www.moma.org/collection/works/90", 
-  "CuratorApproved": "Y", 
   "CreditLine": "National Endowment for the Arts Project Funds", 
-  "Date": "1979", 
-  "ArtistID": 1863, 
+  "DateAcquired": "1980-01-08", 
   "Keywords": [
-    "online art collection", 
     "Roger C", 
     "Ferri", 
     "Pedestrian City", 
@@ -18,10 +15,12 @@
     "Perspective", 
     "1979"
   ], 
+  "ArtistID": 1863, 
+  "Title": "Pedestrian City, Hypostyle Courtyard, project, Perspective", 
   "Department": "Architecture & Design", 
   "MoMANumber": "23.1980", 
+  "Date": "1979", 
   "ArtistBio": "(American, 1949\u20131991)", 
-  "DateAcquired": "1980-01-08", 
-  "\ufeffTitle": "Pedestrian City, Hypostyle Courtyard, project, Perspective", 
+  "CuratorApproved": "Y", 
   "ObjectID": "90"
 }

@@ -4,12 +4,9 @@
   "Classification": "A&D Graphic Design", 
   "Artist": "E. McKnight Kauffer", 
   "URL": "http://www.moma.org/collection/works/6739", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Shell - Mex B P", 
-  "Date": "1932", 
-  "ArtistID": 3020, 
+  "DateAcquired": "1937-11-22", 
   "Keywords": [
-    "online art collection", 
     "E", 
     "McKnight Kauffer", 
     "Economize in Time", 
@@ -17,10 +14,12 @@
     "Petrol by Using Winter Shell", 
     "1932"
   ], 
+  "ArtistID": 3020, 
+  "Title": "Economize in Time, Temper, Petrol by Using Winter Shell", 
   "Department": "Architecture & Design", 
   "MoMANumber": "372.1937", 
+  "Date": "1932", 
   "ArtistBio": "(American, 1890\u20131954)", 
-  "DateAcquired": "1937-11-22", 
-  "\ufeffTitle": "Economize in Time, Temper, Petrol by Using Winter Shell", 
+  "CuratorApproved": "Y", 
   "ObjectID": "6739"
 }

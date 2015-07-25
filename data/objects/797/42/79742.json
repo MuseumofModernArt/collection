@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Jim Nutt", 
   "URL": "http://www.moma.org/collection/works/79742", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Fractional and promised gift of Robert H. Bergman and Marie Krane Bergman", 
-  "Date": "1999", 
-  "ArtistID": 4348, 
+  "DateAcquired": "1999-10-12", 
   "Keywords": [
-    "online art collection", 
     "Jim Nutt", 
     "Whisk", 
     "1999"
   ], 
+  "ArtistID": 4348, 
+  "Title": "Whisk", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "320.1999", 
+  "Date": "1999", 
   "ArtistBio": "(American, born 1938)", 
-  "DateAcquired": "1999-10-12", 
-  "\ufeffTitle": "Whisk", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79742"
 }

@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Joyce Kozloff", 
   "URL": "http://www.moma.org/collection/works/69218", 
-  "CuratorApproved": "Y", 
   "CreditLine": "John B. Turner Fund", 
-  "Date": "1977", 
-  "ArtistID": 3235, 
+  "DateAcquired": "1977-11-10", 
   "Keywords": [
-    "online art collection", 
     "Joyce Kozloff", 
     "Pictures and Borders III", 
     "1977"
   ], 
+  "ArtistID": 3235, 
+  "Title": "Pictures and Borders III", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "443.1977", 
+  "Date": "1977", 
   "ArtistBio": "(American, born 1942)", 
-  "DateAcquired": "1977-11-10", 
-  "\ufeffTitle": "Pictures and Borders III", 
+  "CuratorApproved": "Y", 
   "ObjectID": "69218"
 }

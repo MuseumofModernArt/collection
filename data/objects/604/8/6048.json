@@ -4,12 +4,9 @@
   "Classification": "A&D Graphic Design", 
   "Artist": "Hendrikus Th. Wijdeveld", 
   "URL": "http://www.moma.org/collection/works/6048", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Leonard and Evelyn Lauder Fund", 
-  "Date": "1923", 
-  "ArtistID": 6363, 
+  "DateAcquired": "1986-10-07", 
   "Keywords": [
-    "online art collection", 
     "Hendrikus Th", 
     "Wijdeveld", 
     "Eere", 
@@ -17,10 +14,12 @@
     "The Colenbrander", 
     "1923"
   ], 
+  "ArtistID": 6363, 
+  "Title": "Eere Tentoonstelling, The Colenbrander", 
   "Department": "Architecture & Design", 
   "MoMANumber": "280.1986", 
+  "Date": "1923", 
   "ArtistBio": "(Dutch, 1885\u20131987)", 
-  "DateAcquired": "1986-10-07", 
-  "\ufeffTitle": "Eere Tentoonstelling, The Colenbrander", 
+  "CuratorApproved": "Y", 
   "ObjectID": "6048"
 }

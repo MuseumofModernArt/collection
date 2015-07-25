@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Edda Renouf", 
   "URL": "http://www.moma.org/collection/works/80523", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The Riklis Collection of McCrory Corporation", 
-  "Date": "1973", 
-  "ArtistID": 4870, 
+  "DateAcquired": "1983-10-25", 
   "Keywords": [
-    "online art collection", 
     "Edda Renouf", 
     "This I", 
     "1973"
   ], 
+  "ArtistID": 4870, 
+  "Title": "This I", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "1061.1983", 
+  "Date": "1973", 
   "ArtistBio": "(American, born Mexico 1943)", 
-  "DateAcquired": "1983-10-25", 
-  "\ufeffTitle": "This I", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80523"
 }

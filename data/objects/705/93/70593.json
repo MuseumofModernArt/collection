@@ -4,21 +4,20 @@
   "Classification": "Print", 
   "Artist": "Max Beckmann", 
   "URL": "http://www.moma.org/collection/works/70593", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "(1921, published 1922)", 
-  "ArtistID": 429, 
+  "DateAcquired": "1949-09-29", 
   "Keywords": [
-    "online art collection", 
     "Max Beckmann", 
     "The Tall Man (Der grosse Mann) from Annual Fair (Jahrmarkt)", 
     "(1921", 
     "published 1922)"
   ], 
+  "ArtistID": 429, 
+  "Title": "The Tall Man (Der grosse Mann) from Annual Fair (Jahrmarkt)", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "528.1949.5", 
+  "Date": "(1921, published 1922)", 
   "ArtistBio": "(German, 1884\u20131950)", 
-  "DateAcquired": "1949-09-29", 
-  "\ufeffTitle": "The Tall Man (Der grosse Mann) from Annual Fair (Jahrmarkt)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "70593"
 }

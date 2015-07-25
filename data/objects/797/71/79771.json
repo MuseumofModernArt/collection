@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Robert Ryman", 
   "URL": "http://www.moma.org/collection/works/79771", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of anonymous donor and gift of Jo Carole and Ronald S. Lauder", 
-  "Date": "1984", 
-  "ArtistID": 5098, 
+  "DateAcquired": "1994-10-11", 
   "Keywords": [
-    "online art collection", 
     "Robert Ryman", 
     "Pace", 
     "1984"
   ], 
+  "ArtistID": 5098, 
+  "Title": "Pace", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "452.1994", 
+  "Date": "1984", 
   "ArtistBio": "(American, born 1930)", 
-  "DateAcquired": "1994-10-11", 
-  "\ufeffTitle": "Pace", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79771"
 }

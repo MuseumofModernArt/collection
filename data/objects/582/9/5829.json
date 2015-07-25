@@ -4,12 +4,9 @@
   "Classification": "A&D Graphic Design", 
   "Artist": "J. P. Junot", 
   "URL": "http://www.moma.org/collection/works/5829", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Acquired by exchange", 
-  "Date": "1930", 
-  "ArtistID": 2955, 
+  "DateAcquired": "1987-05-27", 
   "Keywords": [
-    "online art collection", 
     "J", 
     "P", 
     "Junot", 
@@ -17,10 +14,12 @@
     "sans Arr&ecirc;t", 
     "1930"
   ], 
+  "ArtistID": 2955, 
+  "Title": "Paris Liege en 4 Heures 367 Kms. sans Arr\u00eat", 
   "Department": "Architecture & Design", 
   "MoMANumber": "247.1987", 
+  "Date": "1930", 
   "ArtistBio": "(French)", 
-  "DateAcquired": "1987-05-27", 
-  "\ufeffTitle": "Paris Liege en 4 Heures 367 Kms. sans Arr\u00eat", 
+  "CuratorApproved": "Y", 
   "ObjectID": "5829"
 }

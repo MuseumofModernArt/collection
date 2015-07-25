@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Marcel Jean", 
   "URL": "http://www.moma.org/collection/works/81176", 
-  "CuratorApproved": "Y", 
   "CreditLine": "D. and J. de Menil Fund", 
-  "Date": "1936", 
-  "ArtistID": 2898, 
+  "DateAcquired": "1968-04-08", 
   "Keywords": [
-    "online art collection", 
     "Marcel Jean", 
     "Specter of the Gardenia", 
     "1936"
   ], 
+  "ArtistID": 2898, 
+  "Title": "Specter of the Gardenia", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "229.1968", 
+  "Date": "1936", 
   "ArtistBio": "(French, 1900\u20131993)", 
-  "DateAcquired": "1968-04-08", 
-  "\ufeffTitle": "Specter of the Gardenia", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81176"
 }

@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Robert Watts", 
   "URL": "http://www.moma.org/collection/works/81980", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Patricia Phelps de Cisneros, Emily Rauh Pulitzer and Richard S. Zeisler Funds", 
-  "Date": "1964", 
-  "ArtistID": 6269, 
+  "DateAcquired": "2001-02-12", 
   "Keywords": [
-    "online art collection", 
     "Robert Watts", 
     "Chrome Cabbage", 
     "1964"
   ], 
+  "ArtistID": 6269, 
+  "Title": "Chrome Cabbage", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "1151.2001", 
+  "Date": "1964", 
   "ArtistBio": "(American, 1923\u20131988)", 
-  "DateAcquired": "2001-02-12", 
-  "\ufeffTitle": "Chrome Cabbage", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81980"
 }

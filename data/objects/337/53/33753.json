@@ -4,20 +4,19 @@
   "Classification": "Drawing", 
   "Artist": "Alberto Giacometti", 
   "URL": "http://www.moma.org/collection/works/33753", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The Joan and Lester Avnet Collection", 
-  "Date": "1955", 
-  "ArtistID": 2141, 
+  "DateAcquired": "1978-04-04", 
   "Keywords": [
-    "online art collection", 
     "Alberto Giacometti", 
     "An Interior", 
     "1955"
   ], 
+  "ArtistID": 2141, 
+  "Title": "An Interior", 
   "Department": "Drawings", 
   "MoMANumber": "85.1978", 
+  "Date": "1955", 
   "ArtistBio": "(Swiss, 1901\u20131966)", 
-  "DateAcquired": "1978-04-04", 
-  "\ufeffTitle": "An Interior", 
+  "CuratorApproved": "Y", 
   "ObjectID": "33753"
 }

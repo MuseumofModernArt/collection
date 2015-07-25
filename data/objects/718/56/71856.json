@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Henri Matisse", 
   "URL": "http://www.moma.org/collection/works/71856", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Abby Aldrich Rockefeller Fund", 
-  "Date": "(1906)", 
-  "ArtistID": 3832, 
+  "DateAcquired": "1954-12-16", 
   "Keywords": [
-    "online art collection", 
     "Henri Matisse", 
     "Small Black Woodcut (Petit Bois noir)", 
     "(1906)"
   ], 
+  "ArtistID": 3832, 
+  "Title": "Small Black Woodcut (Petit Bois noir)", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "613.1954", 
+  "Date": "(1906)", 
   "ArtistBio": "(French, 1869\u20131954)", 
-  "DateAcquired": "1954-12-16", 
-  "\ufeffTitle": "Small Black Woodcut (Petit Bois noir)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "71856"
 }

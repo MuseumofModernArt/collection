@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Christian Eckart", 
   "URL": "http://www.moma.org/collection/works/67211", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Given in memory of Beth Lisa Feldman", 
-  "Date": "(1988)", 
-  "ArtistID": 1675, 
+  "DateAcquired": "1988-10-25", 
   "Keywords": [
-    "online art collection", 
     "Christian Eckart", 
     "Cimabue Restoration Project", 
     "(1988)"
   ], 
+  "ArtistID": 1675, 
+  "Title": "Cimabue Restoration Project", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "338.1988.a-bbbb", 
+  "Date": "(1988)", 
   "ArtistBio": "(Canadian, born 1959)", 
-  "DateAcquired": "1988-10-25", 
-  "\ufeffTitle": "Cimabue Restoration Project", 
+  "CuratorApproved": "Y", 
   "ObjectID": "67211"
 }

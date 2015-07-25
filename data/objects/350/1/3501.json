@@ -4,12 +4,9 @@
   "Classification": "A&D Design", 
   "Artist": "Gruppo G14, Gianfranco Facchetti, Umberto Orsoni, Gianni Pareschi, Giuseppe Pensotti, Roberto Ubaldi", 
   "URL": "http://www.moma.org/collection/works/3501", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the manufacturer", 
-  "Date": "1970", 
-  "ArtistID": 7246, 
+  "DateAcquired": "1972-12-05", 
   "Keywords": [
-    "online art collection", 
     "Gruppo G14", 
     "Gianfranco Facchetti", 
     "Umberto Orsoni", 
@@ -18,10 +15,12 @@
     "Fiocco Armchair", 
     "1970"
   ], 
+  "ArtistID": 7246, 
+  "Title": "Fiocco Armchair", 
   "Department": "Architecture & Design", 
   "MoMANumber": "410.1972", 
+  "Date": "1970", 
   "ArtistBio": "(Italian) (Italian, born 1939) (Italian, born 1940) (Italian, born 1940) (Italian, born 1939) (Italian, born 1940)", 
-  "DateAcquired": "1972-12-05", 
-  "\ufeffTitle": "Fiocco Armchair", 
+  "CuratorApproved": "Y", 
   "ObjectID": "3501"
 }

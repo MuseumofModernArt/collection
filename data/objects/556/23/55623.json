@@ -4,20 +4,19 @@
   "Classification": "Photograph", 
   "Artist": "Unknown photographer", 
   "URL": "http://www.moma.org/collection/works/55623", 
-  "CuratorApproved": "Y", 
   "CreditLine": "John Parkinson III Fund", 
-  "Date": "1908", 
-  "ArtistID": 6028, 
+  "DateAcquired": "1990-12-13", 
   "Keywords": [
-    "online art collection", 
     "Unknown Photographer", 
     "Untitled (Mining cart)", 
     "1908"
   ], 
+  "ArtistID": 6028, 
+  "Title": "Untitled (Mining cart)", 
   "Department": "Photography", 
   "MoMANumber": "618.1990", 
+  "Date": "1908", 
   "ArtistBio": "", 
-  "DateAcquired": "1990-12-13", 
-  "\ufeffTitle": "Untitled (Mining cart)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "55623"
 }

@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Sigmar Polke", 
   "URL": "http://www.moma.org/collection/works/79116", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Werner and Elaine Dannheisser", 
-  "Date": "1972", 
-  "ArtistID": 4671, 
+  "DateAcquired": "1996-04-09", 
   "Keywords": [
-    "online art collection", 
     "Sigmar Polke", 
     "Menschkin", 
     "1972"
   ], 
+  "ArtistID": 4671, 
+  "Title": "Menschkin", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "198.1996", 
+  "Date": "1972", 
   "ArtistBio": "(German, 1941\u20132010)", 
-  "DateAcquired": "1996-04-09", 
-  "\ufeffTitle": "Menschkin", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79116"
 }

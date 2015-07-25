@@ -4,21 +4,20 @@
   "Classification": "Drawing", 
   "Artist": "Henri Matisse", 
   "URL": "http://www.moma.org/collection/works/38159", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Philip Johnson (by exchange)", 
-  "Date": "June 11, 1945", 
-  "ArtistID": 3832, 
+  "DateAcquired": "1969-10-28", 
   "Keywords": [
-    "online art collection", 
     "Henri Matisse", 
     "Self-Portrait", 
     "June 11", 
     "1945"
   ], 
+  "ArtistID": 3832, 
+  "Title": "Self-Portrait", 
   "Department": "Drawings", 
   "MoMANumber": "837.1969", 
+  "Date": "June 11, 1945", 
   "ArtistBio": "(French, 1869\u20131954)", 
-  "DateAcquired": "1969-10-28", 
-  "\ufeffTitle": "Self-Portrait", 
+  "CuratorApproved": "Y", 
   "ObjectID": "38159"
 }

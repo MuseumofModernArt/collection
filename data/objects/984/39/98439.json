@@ -4,12 +4,9 @@
   "Classification": "Photograph", 
   "Artist": "Frank Gohlke", 
   "URL": "http://www.moma.org/collection/works/98439", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Acquired through the generosity of David A. Dechman", 
-  "Date": "1983", 
-  "ArtistID": 2207, 
+  "DateAcquired": "2005-05-11", 
   "Keywords": [
-    "online art collection", 
     "Frank Gohlke", 
     "Mount St", 
     "Helens shrouded in its own cloud", 
@@ -17,10 +14,12 @@
     "Helens", 
     "1983"
   ], 
+  "ArtistID": 2207, 
+  "Title": "Mount St. Helens shrouded in its own cloud. From a point six miles northwest of Mount St. Helens", 
   "Department": "Photography", 
   "MoMANumber": "394.2005", 
+  "Date": "1983", 
   "ArtistBio": "(American, born 1942)", 
-  "DateAcquired": "2005-05-11", 
-  "\ufeffTitle": "Mount St. Helens shrouded in its own cloud. From a point six miles northwest of Mount St. Helens", 
+  "CuratorApproved": "Y", 
   "ObjectID": "98439"
 }

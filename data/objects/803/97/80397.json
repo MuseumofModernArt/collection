@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Gerhard Richter", 
   "URL": "http://www.moma.org/collection/works/80397", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Jo Carole and Ronald S. Lauder and Committee on Painting and Sculpture Funds", 
-  "Date": "1996", 
-  "ArtistID": 4907, 
+  "DateAcquired": "1996-12-09", 
   "Keywords": [
-    "online art collection", 
     "Gerhard Richter", 
     "Self-Portrait", 
     "1996"
   ], 
+  "ArtistID": 4907, 
+  "Title": "Self-Portrait", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "829.1996", 
+  "Date": "1996", 
   "ArtistBio": "(German, born 1932)", 
-  "DateAcquired": "1996-12-09", 
-  "\ufeffTitle": "Self-Portrait", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80397"
 }

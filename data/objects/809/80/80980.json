@@ -4,21 +4,20 @@
   "Classification": "Sculpture", 
   "Artist": "Oscar Jespers", 
   "URL": "http://www.moma.org/collection/works/80980", 
-  "CuratorApproved": "Y", 
   "CreditLine": "A. Conger Goodyear Fund", 
-  "Date": "1934", 
-  "ArtistID": 2912, 
+  "DateAcquired": "1946-05-07", 
   "Keywords": [
-    "online art collection", 
     "Oscar Jespers", 
     "Temptation of St", 
     "Anthony", 
     "1934"
   ], 
+  "ArtistID": 2912, 
+  "Title": "Temptation of St. Anthony", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "121.1946", 
+  "Date": "1934", 
   "ArtistBio": "(Belgian, 1887\u20131970)", 
-  "DateAcquired": "1946-05-07", 
-  "\ufeffTitle": "Temptation of St. Anthony", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80980"
 }

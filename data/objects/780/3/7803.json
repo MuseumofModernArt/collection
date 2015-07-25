@@ -4,12 +4,9 @@
   "Classification": "A&D Graphic Design", 
   "Artist": "Ernst Keller", 
   "URL": "http://www.moma.org/collection/works/7803", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Anonymous gift", 
-  "Date": "1946", 
-  "ArtistID": 3041, 
+  "DateAcquired": "1981-12-10", 
   "Keywords": [
-    "online art collection", 
     "Ernst Keller", 
     "Verpfuschter Zahn", 
     "Verpfuschte Gesundheit", 
@@ -17,10 +14,12 @@
     "Nein", 
     "1946"
   ], 
+  "ArtistID": 3041, 
+  "Title": "Verpfuschter Zahn, Verpfuschte Gesundheit, Zahntechniker-Initiative, Nein", 
   "Department": "Architecture & Design", 
   "MoMANumber": "629.1981", 
+  "Date": "1946", 
   "ArtistBio": "(Swiss, 1891\u20131968)", 
-  "DateAcquired": "1981-12-10", 
-  "\ufeffTitle": "Verpfuschter Zahn, Verpfuschte Gesundheit, Zahntechniker-Initiative, Nein", 
+  "CuratorApproved": "Y", 
   "ObjectID": "7803"
 }

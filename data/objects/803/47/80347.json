@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "George Grosz", 
   "URL": "http://www.moma.org/collection/works/80347", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Mr. and Mrs. Irving Moskovitz", 
-  "Date": "1917", 
-  "ArtistID": 2374, 
+  "DateAcquired": "1964-01-07", 
   "Keywords": [
-    "online art collection", 
     "George Grosz", 
     "Explosion", 
     "1917"
   ], 
+  "ArtistID": 2374, 
+  "Title": "Explosion", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "780.1963", 
+  "Date": "1917", 
   "ArtistBio": "(American, born Germany. 1893\u20131959)", 
-  "DateAcquired": "1964-01-07", 
-  "\ufeffTitle": "Explosion", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80347"
 }

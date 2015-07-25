@@ -4,12 +4,9 @@
   "Classification": "Painting", 
   "Artist": "Pablo Picasso", 
   "URL": "http://www.moma.org/collection/works/80162", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The Sidney and Harriet Janis Collection", 
-  "Date": "Paris, early 1913", 
-  "ArtistID": 4609, 
+  "DateAcquired": "1967-10-18", 
   "Keywords": [
-    "online art collection", 
     "Pablo Picasso", 
     "Glass", 
     "Guitar", 
@@ -17,10 +14,12 @@
     "Paris", 
     "early 1913"
   ], 
+  "ArtistID": 4609, 
+  "Title": "Glass, Guitar, and Bottle", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "641.1967", 
+  "Date": "Paris, early 1913", 
   "ArtistBio": "(Spanish, 1881\u20131973)", 
-  "DateAcquired": "1967-10-18", 
-  "\ufeffTitle": "Glass, Guitar, and Bottle", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80162"
 }

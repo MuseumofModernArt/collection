@@ -4,21 +4,20 @@
   "Classification": "Photograph", 
   "Artist": "Times Wide World Photos", 
   "URL": "http://www.moma.org/collection/works/58736", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The New York Times Collection", 
-  "Date": "August 29, 1958", 
-  "ArtistID": 8632, 
+  "DateAcquired": "2001-06-14", 
   "Keywords": [
-    "online art collection", 
     "Times Wide World Photos", 
     "\"A Land Battleship for The Navy: An Armed Car\"", 
     "August 29", 
     "1958"
   ], 
+  "ArtistID": 8632, 
+  "Title": "\"A Land Battleship for The Navy: An Armed Car\"", 
   "Department": "Photography", 
   "MoMANumber": "2143.2001", 
+  "Date": "August 29, 1958", 
   "ArtistBio": "(American, active 1919\u20131941)", 
-  "DateAcquired": "2001-06-14", 
-  "\ufeffTitle": "\"A Land Battleship for The Navy: An Armed Car\"", 
+  "CuratorApproved": "Y", 
   "ObjectID": "58736"
 }

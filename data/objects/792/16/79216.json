@@ -4,21 +4,20 @@
   "Classification": "Painting", 
   "Artist": "Odilon Redon", 
   "URL": "http://www.moma.org/collection/works/79216", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of The Ian Woodner Family Collection", 
-  "Date": "c. 1895", 
-  "ArtistID": 4840, 
+  "DateAcquired": "2000-04-10", 
   "Keywords": [
-    "online art collection", 
     "Odilon Redon", 
     "Profile", 
     "c", 
     "1895"
   ], 
+  "ArtistID": 4840, 
+  "Title": "Profile", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "233.2000", 
+  "Date": "c. 1895", 
   "ArtistBio": "(French, 1840\u20131916)", 
-  "DateAcquired": "2000-04-10", 
-  "\ufeffTitle": "Profile", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79216"
 }

@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Matthew Barney", 
   "URL": "http://www.moma.org/collection/works/94506", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Thea Westreich and Ethan Wagner", 
-  "Date": "1991", 
-  "ArtistID": 7005, 
+  "DateAcquired": "2005-02-07", 
   "Keywords": [
-    "online art collection", 
     "Matthew Barney", 
     "OTTO dolly: SUBLIMATOR (square hip-engorged iris- stroke)", 
     "1991"
   ], 
+  "ArtistID": 7005, 
+  "Title": "OTTO dolly: SUBLIMATOR (square hip-engorged iris- stroke)", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "507.2004.a-d", 
+  "Date": "1991", 
   "ArtistBio": "(American, born 1967)", 
-  "DateAcquired": "2005-02-07", 
-  "\ufeffTitle": "OTTO dolly: SUBLIMATOR (square hip-engorged iris- stroke)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "94506"
 }

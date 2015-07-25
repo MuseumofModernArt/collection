@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Christopher Wilmarth", 
   "URL": "http://www.moma.org/collection/works/100355", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Edward R. Broida", 
-  "Date": "1971", 
-  "ArtistID": 6386, 
+  "DateAcquired": "2005-10-06", 
   "Keywords": [
-    "online art collection", 
     "Christopher Wilmarth", 
     "Fats", 
     "1971"
   ], 
+  "ArtistID": 6386, 
+  "Title": "Fats", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "812.2005", 
+  "Date": "1971", 
   "ArtistBio": "(American, 1943\u20131987)", 
-  "DateAcquired": "2005-10-06", 
-  "\ufeffTitle": "Fats", 
+  "CuratorApproved": "Y", 
   "ObjectID": "100355"
 }

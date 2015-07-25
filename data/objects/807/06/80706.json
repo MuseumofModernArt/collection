@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Andy Warhol", 
   "URL": "http://www.moma.org/collection/works/80706", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The Sidney and Harriet Janis Collection", 
-  "Date": "1967", 
-  "ArtistID": 6246, 
+  "DateAcquired": "1967-10-18", 
   "Keywords": [
-    "online art collection", 
     "Andy Warhol", 
     "Seven Decades of Janis", 
     "1967"
   ], 
+  "ArtistID": 6246, 
+  "Title": "Seven Decades of Janis", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "2355.1967.a-h", 
+  "Date": "1967", 
   "ArtistBio": "(American, 1928\u20131987)", 
-  "DateAcquired": "1967-10-18", 
-  "\ufeffTitle": "Seven Decades of Janis", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80706"
 }

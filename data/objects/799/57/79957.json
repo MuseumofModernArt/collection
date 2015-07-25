@@ -4,21 +4,20 @@
   "Classification": "Painting", 
   "Artist": "Henri Matisse", 
   "URL": "http://www.moma.org/collection/works/79957", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Mrs. Simon Guggenheim Fund", 
-  "Date": "Issy-les-Moulineaux, spring-summer 1917", 
-  "ArtistID": 3832, 
+  "DateAcquired": "1956-11-08", 
   "Keywords": [
-    "online art collection", 
     "Henri Matisse", 
     "The Rose Marble Table", 
     "Issy-les-Moulineaux", 
     "spring-summer 1917"
   ], 
+  "ArtistID": 3832, 
+  "Title": "The Rose Marble Table", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "554.1956", 
+  "Date": "Issy-les-Moulineaux, spring-summer 1917", 
   "ArtistBio": "(French, 1869\u20131954)", 
-  "DateAcquired": "1956-11-08", 
-  "\ufeffTitle": "The Rose Marble Table", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79957"
 }

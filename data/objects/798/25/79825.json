@@ -4,22 +4,21 @@
   "Classification": "Painting", 
   "Artist": "Jo Baer", 
   "URL": "http://www.moma.org/collection/works/79825", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Philip Johnson Fund", 
-  "Date": "1964-65", 
-  "ArtistID": 281, 
+  "DateAcquired": "1969-05-20", 
   "Keywords": [
-    "online art collection", 
     "Jo Baer", 
     "Primary Light Group: Red", 
     "Green", 
     "Blue", 
     "1964-65"
   ], 
+  "ArtistID": 281, 
+  "Title": "Primary Light Group: Red, Green, Blue", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "495.1969.a-c", 
+  "Date": "1964-65", 
   "ArtistBio": "(American, born 1929)", 
-  "DateAcquired": "1969-05-20", 
-  "\ufeffTitle": "Primary Light Group: Red, Green, Blue", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79825"
 }

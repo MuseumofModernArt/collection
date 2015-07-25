@@ -4,21 +4,20 @@
   "Classification": "Print", 
   "Artist": "Georges Braque", 
   "URL": "http://www.moma.org/collection/works/66917", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1912, printed 1953", 
-  "ArtistID": 744, 
+  "DateAcquired": "1951-05-24", 
   "Keywords": [
-    "online art collection", 
     "Georges Braque", 
     "Still Life II (Nature morte II)", 
     "1912", 
     "printed 1953"
   ], 
+  "ArtistID": 744, 
+  "Title": "Still Life II (Nature morte II)", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "323.1951", 
+  "Date": "1912, printed 1953", 
   "ArtistBio": "(French, 1882\u20131963)", 
-  "DateAcquired": "1951-05-24", 
-  "\ufeffTitle": "Still Life II (Nature morte II)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "66917"
 }

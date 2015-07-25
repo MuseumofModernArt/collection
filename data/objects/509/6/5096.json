@@ -4,20 +4,19 @@
   "Classification": "A&D Graphic Design", 
   "Artist": "Ben Shahn", 
   "URL": "http://www.moma.org/collection/works/5096", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the Office of War Information", 
-  "Date": "1943", 
-  "ArtistID": 5366, 
+  "DateAcquired": "1944-05-02", 
   "Keywords": [
-    "online art collection", 
     "Ben Shahn", 
     "This is Nazi Brutality", 
     "1943"
   ], 
+  "ArtistID": 5366, 
+  "Title": "This is Nazi Brutality", 
   "Department": "Architecture & Design", 
   "MoMANumber": "107.1944", 
+  "Date": "1943", 
   "ArtistBio": "(American, born Lithuania. 1898\u20131969)", 
-  "DateAcquired": "1944-05-02", 
-  "\ufeffTitle": "This is Nazi Brutality", 
+  "CuratorApproved": "Y", 
   "ObjectID": "5096"
 }

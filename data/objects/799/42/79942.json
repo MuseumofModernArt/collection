@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Jackson Pollock", 
   "URL": "http://www.moma.org/collection/works/79942", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Bequest of Lee Krasner", 
-  "Date": "1944", 
-  "ArtistID": 4675, 
+  "DateAcquired": "1980-04-09", 
   "Keywords": [
-    "online art collection", 
     "Jackson Pollock", 
     "Gothic", 
     "1944"
   ], 
+  "ArtistID": 4675, 
+  "Title": "Gothic", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "533.1984", 
+  "Date": "1944", 
   "ArtistBio": "(American, 1912\u20131956)", 
-  "DateAcquired": "1980-04-09", 
-  "\ufeffTitle": "Gothic", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79942"
 }

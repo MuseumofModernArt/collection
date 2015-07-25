@@ -4,21 +4,20 @@
   "Classification": "Photograph", 
   "Artist": "Larry Fink", 
   "URL": "http://www.moma.org/collection/works/49877", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Pauline Marks", 
-  "Date": "1986", 
-  "ArtistID": 1877, 
+  "DateAcquired": "1996-06-13", 
   "Keywords": [
-    "online art collection", 
     "Larry Fink", 
     "Pearls", 
     "New York City", 
     "1986"
   ], 
+  "ArtistID": 1877, 
+  "Title": "Pearls, New York City", 
   "Department": "Photography", 
   "MoMANumber": "276.1996", 
+  "Date": "1986", 
   "ArtistBio": "(American, born 1941)", 
-  "DateAcquired": "1996-06-13", 
-  "\ufeffTitle": "Pearls, New York City", 
+  "CuratorApproved": "Y", 
   "ObjectID": "49877"
 }

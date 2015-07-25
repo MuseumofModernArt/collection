@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Robert Rauschenberg", 
   "URL": "http://www.moma.org/collection/works/62856", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Emily Fisher Landau", 
-  "Date": "1989", 
-  "ArtistID": 4823, 
+  "DateAcquired": "1989-05-30", 
   "Keywords": [
-    "online art collection", 
     "Robert Rauschenberg", 
     "Morocco", 
     "1989"
   ], 
+  "ArtistID": 4823, 
+  "Title": "Morocco", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "141.1989", 
+  "Date": "1989", 
   "ArtistBio": "(American, 1925\u20132008)", 
-  "DateAcquired": "1989-05-30", 
-  "\ufeffTitle": "Morocco", 
+  "CuratorApproved": "Y", 
   "ObjectID": "62856"
 }

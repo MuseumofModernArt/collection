@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Ross Bleckner", 
   "URL": "http://www.moma.org/collection/works/79905", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Douglas S. Cramer", 
-  "Date": "1987", 
-  "ArtistID": 597, 
+  "DateAcquired": "1987-12-07", 
   "Keywords": [
-    "online art collection", 
     "Ross Bleckner", 
     "Repetitious Visitation", 
     "1987"
   ], 
+  "ArtistID": 597, 
+  "Title": "Repetitious Visitation", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "520.1987", 
+  "Date": "1987", 
   "ArtistBio": "(American, born 1949)", 
-  "DateAcquired": "1987-12-07", 
-  "\ufeffTitle": "Repetitious Visitation", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79905"
 }

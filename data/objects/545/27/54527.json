@@ -4,20 +4,19 @@
   "Classification": "Photograph", 
   "Artist": "Mac Adams", 
   "URL": "http://www.moma.org/collection/works/54527", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the photographer", 
-  "Date": "1976", 
-  "ArtistID": 8252, 
+  "DateAcquired": "1992-12-03", 
   "Keywords": [
-    "online art collection", 
     "Mac Adams", 
     "The Toaster", 
     "1976"
   ], 
+  "ArtistID": 8252, 
+  "Title": "The Toaster", 
   "Department": "Photography", 
   "MoMANumber": "508.1992.a-b", 
+  "Date": "1976", 
   "ArtistBio": "(American, born 1943)", 
-  "DateAcquired": "1992-12-03", 
-  "\ufeffTitle": "The Toaster", 
+  "CuratorApproved": "Y", 
   "ObjectID": "54527"
 }

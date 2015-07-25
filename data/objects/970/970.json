@@ -4,12 +4,9 @@
   "Classification": "A&D Architectural Model", 
   "Artist": "Richard Neutra", 
   "URL": "http://www.moma.org/collection/works/970", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Best Products Company Inc. Architecture Fund", 
-  "Date": "1927-29", 
-  "ArtistID": 4277, 
+  "DateAcquired": "1981-01-08", 
   "Keywords": [
-    "online art collection", 
     "Richard Neutra", 
     "Dr", 
     "Phillip M", 
@@ -19,10 +16,12 @@
     "Scale model 3/8\"=1'0", 
     "1927-29"
   ], 
+  "ArtistID": 4277, 
+  "Title": "Dr. Phillip M. Lovell House, Los Angeles, California, Scale model 3/8\"=1'0", 
   "Department": "Architecture & Design", 
   "MoMANumber": "18.1980", 
+  "Date": "1927-29", 
   "ArtistBio": "(American, born Austria. 1892\u20131970)", 
-  "DateAcquired": "1981-01-08", 
-  "\ufeffTitle": "Dr. Phillip M. Lovell House, Los Angeles, California, Scale model 3/8\"=1'0", 
+  "CuratorApproved": "Y", 
   "ObjectID": "970"
 }

@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Joe Goode", 
   "URL": "http://www.moma.org/collection/works/72243", 
-  "CuratorApproved": "Y", 
   "CreditLine": "John B. Turner Fund", 
-  "Date": "1971", 
-  "ArtistID": 2236, 
+  "DateAcquired": "1971-12-06", 
   "Keywords": [
-    "online art collection", 
     "Joe Goode", 
     "Untitled", 
     "1971"
   ], 
+  "ArtistID": 2236, 
+  "Title": "Untitled", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "634.1971", 
+  "Date": "1971", 
   "ArtistBio": "(American, born 1937)", 
-  "DateAcquired": "1971-12-06", 
-  "\ufeffTitle": "Untitled", 
+  "CuratorApproved": "Y", 
   "ObjectID": "72243"
 }

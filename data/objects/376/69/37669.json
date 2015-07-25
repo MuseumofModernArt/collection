@@ -4,20 +4,19 @@
   "Classification": "Drawing", 
   "Artist": "Henri Matisse", 
   "URL": "http://www.moma.org/collection/works/37669", 
-  "CuratorApproved": "Y", 
   "CreditLine": "John S. Newberry Fund", 
-  "Date": "1945", 
-  "ArtistID": 3832, 
+  "DateAcquired": "1965-10-07", 
   "Keywords": [
-    "online art collection", 
     "Henri Matisse", 
     "Self-Portrait", 
     "1945"
   ], 
+  "ArtistID": 3832, 
+  "Title": "Self-Portrait", 
   "Department": "Drawings", 
   "MoMANumber": "634.1965", 
+  "Date": "1945", 
   "ArtistBio": "(French, 1869\u20131954)", 
-  "DateAcquired": "1965-10-07", 
-  "\ufeffTitle": "Self-Portrait", 
+  "CuratorApproved": "Y", 
   "ObjectID": "37669"
 }

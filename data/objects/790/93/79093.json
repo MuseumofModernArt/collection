@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Malcolm Morley", 
   "URL": "http://www.moma.org/collection/works/79093", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The Bernhill Fund, Enid A. Haupt and Sid R. Bass Funds", 
-  "Date": "1977", 
-  "ArtistID": 4100, 
+  "DateAcquired": "1987-05-18", 
   "Keywords": [
-    "online art collection", 
     "Malcolm Morley", 
     "The Day of the Locust", 
     "1977"
   ], 
+  "ArtistID": 4100, 
+  "Title": "The Day of the Locust", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "191.1987", 
+  "Date": "1977", 
   "ArtistBio": "(American, born Great Britain 1931)", 
-  "DateAcquired": "1987-05-18", 
-  "\ufeffTitle": "The Day of the Locust", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79093"
 }

@@ -4,20 +4,19 @@
   "Classification": "Drawing", 
   "Artist": "Roy Lichtenstein", 
   "URL": "http://www.moma.org/collection/works/36234", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of The Lauder Foundation", 
-  "Date": "1978", 
-  "ArtistID": 3542, 
+  "DateAcquired": "1983-03-15", 
   "Keywords": [
-    "online art collection", 
     "Roy Lichtenstein", 
     "Study for Cosmology", 
     "1978"
   ], 
+  "ArtistID": 3542, 
+  "Title": "Study for Cosmology", 
   "Department": "Drawings", 
   "MoMANumber": "314.1983", 
+  "Date": "1978", 
   "ArtistBio": "(American, 1923\u20131997)", 
-  "DateAcquired": "1983-03-15", 
-  "\ufeffTitle": "Study for Cosmology", 
+  "CuratorApproved": "Y", 
   "ObjectID": "36234"
 }

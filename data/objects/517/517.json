@@ -4,12 +4,9 @@
   "Classification": "A&D Architectural Drawing", 
   "Artist": "Robert A. M. Stern", 
   "URL": "http://www.moma.org/collection/works/517", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the architect in honor of Philip Johnson", 
-  "Date": "1992", 
-  "ArtistID": 7606, 
+  "DateAcquired": "1996-09-25", 
   "Keywords": [
-    "online art collection", 
     "Robert A", 
     "M", 
     "Stern", 
@@ -21,10 +18,12 @@
     "preliminary study", 
     "1992"
   ], 
+  "ArtistID": 7606, 
+  "Title": "Feature Animation Building, The Walt Disney Company, Burbank, California, South elevation, preliminary study", 
   "Department": "Architecture & Design", 
   "MoMANumber": "394.1996", 
+  "Date": "1992", 
   "ArtistBio": "(American, born 1939)", 
-  "DateAcquired": "1996-09-25", 
-  "\ufeffTitle": "Feature Animation Building, The Walt Disney Company, Burbank, California, South elevation, preliminary study", 
+  "CuratorApproved": "Y", 
   "ObjectID": "517"
 }

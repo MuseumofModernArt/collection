@@ -4,20 +4,19 @@
   "Classification": "Photograph", 
   "Artist": "Harry Callahan", 
   "URL": "http://www.moma.org/collection/works/48223", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1944", 
-  "ArtistID": 924, 
+  "DateAcquired": "1962-05-08", 
   "Keywords": [
-    "online art collection", 
     "Harry Callahan", 
     "Light on trees", 
     "1944"
   ], 
+  "ArtistID": 924, 
+  "Title": "Detroit", 
   "Department": "Photography", 
   "MoMANumber": "195.1962", 
+  "Date": "1944", 
   "ArtistBio": "(American, 1912\u20131999)", 
-  "DateAcquired": "1962-05-08", 
-  "\ufeffTitle": "Detroit", 
+  "CuratorApproved": "Y", 
   "ObjectID": "48223"
 }

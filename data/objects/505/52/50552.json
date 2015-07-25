@@ -4,22 +4,21 @@
   "Classification": "Photograph", 
   "Artist": "William Clift", 
   "URL": "http://www.moma.org/collection/works/50552", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1973", 
-  "ArtistID": 1152, 
+  "DateAcquired": "1975-10-23", 
   "Keywords": [
-    "online art collection", 
     "William Clift", 
     "Road", 
     "La Cienega", 
     "New Mexico", 
     "1973"
   ], 
+  "ArtistID": 1152, 
+  "Title": "Road, La Cienega, New Mexico", 
   "Department": "Photography", 
   "MoMANumber": "314.1975", 
+  "Date": "1973", 
   "ArtistBio": "(American, born 1944)", 
-  "DateAcquired": "1975-10-23", 
-  "\ufeffTitle": "Road, La Cienega, New Mexico", 
+  "CuratorApproved": "Y", 
   "ObjectID": "50552"
 }

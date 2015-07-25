@@ -4,21 +4,20 @@
   "Classification": "A&D Graphic Design", 
   "Artist": "E. McKnight Kauffer", 
   "URL": "http://www.moma.org/collection/works/5493", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the London Passenger Transport Board", 
-  "Date": "1934", 
-  "ArtistID": 3020, 
+  "DateAcquired": "1936-10-01", 
   "Keywords": [
-    "online art collection", 
     "E", 
     "McKnight Kauffer", 
     "Westminster from the Thames", 
     "1934"
   ], 
+  "ArtistID": 3020, 
+  "Title": "Westminster from the Thames", 
   "Department": "Architecture & Design", 
   "MoMANumber": "174.1936", 
+  "Date": "1934", 
   "ArtistBio": "(American, 1890\u20131954)", 
-  "DateAcquired": "1936-10-01", 
-  "\ufeffTitle": "Westminster from the Thames", 
+  "CuratorApproved": "Y", 
   "ObjectID": "5493"
 }

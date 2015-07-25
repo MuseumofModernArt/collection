@@ -4,22 +4,21 @@
   "Classification": "Painting", 
   "Artist": "Pavel Tchelitchew", 
   "URL": "http://www.moma.org/collection/works/79501", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Mrs. Simon Guggenheim Fund", 
-  "Date": "Derby, Vermont and New York, June 1940 - June 1942", 
-  "ArtistID": 5821, 
+  "DateAcquired": "1942-07-01", 
   "Keywords": [
-    "online art collection", 
     "Pavel Tchelitchew", 
     "Hide-and-Seek", 
     "Derby", 
     "Vermont and New York", 
     "June 1940 - June 1942"
   ], 
+  "ArtistID": 5821, 
+  "Title": "Hide-and-Seek", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "344.1942", 
+  "Date": "Derby, Vermont and New York, June 1940 - June 1942", 
   "ArtistBio": "(American, born Russia. 1898\u20131957)", 
-  "DateAcquired": "1942-07-01", 
-  "\ufeffTitle": "Hide-and-Seek", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79501"
 }

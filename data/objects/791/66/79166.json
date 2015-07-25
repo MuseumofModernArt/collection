@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Jacques Villon", 
   "URL": "http://www.moma.org/collection/works/79166", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Katherine S. Dreier Bequest", 
-  "Date": "1922", 
-  "ArtistID": 6165, 
+  "DateAcquired": "1953-04-07", 
   "Keywords": [
-    "online art collection", 
     "Jacques Villon", 
     "Color Perspective", 
     "1922"
   ], 
+  "ArtistID": 6165, 
+  "Title": "Color Perspective", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "213.1953", 
+  "Date": "1922", 
   "ArtistBio": "(French, 1875\u20131963)", 
-  "DateAcquired": "1953-04-07", 
-  "\ufeffTitle": "Color Perspective", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79166"
 }

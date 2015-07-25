@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Jasper Johns", 
   "URL": "http://www.moma.org/collection/works/71054", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Emily Fisher Landau", 
-  "Date": "1997", 
-  "ArtistID": 2923, 
+  "DateAcquired": "1997-11-11", 
   "Keywords": [
-    "online art collection", 
     "Jasper Johns", 
     "Green Angel 2", 
     "1997"
   ], 
+  "ArtistID": 2923, 
+  "Title": "Green Angel 2", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "555.1997", 
+  "Date": "1997", 
   "ArtistBio": "(American, born 1930)", 
-  "DateAcquired": "1997-11-11", 
-  "\ufeffTitle": "Green Angel 2", 
+  "CuratorApproved": "Y", 
   "ObjectID": "71054"
 }

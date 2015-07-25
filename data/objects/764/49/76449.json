@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Luis Camnitzer", 
   "URL": "http://www.moma.org/collection/works/76449", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Inter-American Fund", 
-  "Date": "1968", 
-  "ArtistID": 934, 
+  "DateAcquired": "1968-10-10", 
   "Keywords": [
-    "online art collection", 
     "Luis Camnitzer", 
     "The Abolition of Cinema", 
     "1968"
   ], 
+  "ArtistID": 934, 
+  "Title": "The Abolition of Cinema", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "1349.1968", 
+  "Date": "1968", 
   "ArtistBio": "(Uruguayan, born 1937)", 
-  "DateAcquired": "1968-10-10", 
-  "\ufeffTitle": "The Abolition of Cinema", 
+  "CuratorApproved": "Y", 
   "ObjectID": "76449"
 }

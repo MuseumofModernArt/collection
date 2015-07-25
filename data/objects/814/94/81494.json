@@ -4,22 +4,21 @@
   "Classification": "Sculpture", 
   "Artist": "Allen Ruppersberg", 
   "URL": "http://www.moma.org/collection/works/81494", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Given anonymously", 
-  "Date": "1991", 
-  "ArtistID": 5084, 
+  "DateAcquired": "1996-10-07", 
   "Keywords": [
-    "online art collection", 
     "Allen Ruppersberg", 
     "Remainders: Novel", 
     "Sculpture", 
     "Film", 
     "1991"
   ], 
+  "ArtistID": 5084, 
+  "Title": "Remainders: Novel, Sculpture, Film", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "474.1996", 
+  "Date": "1991", 
   "ArtistBio": "(American, born 1944)", 
-  "DateAcquired": "1996-10-07", 
-  "\ufeffTitle": "Remainders: Novel, Sculpture, Film", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81494"
 }

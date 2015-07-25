@@ -4,20 +4,19 @@
   "Classification": "Drawing", 
   "Artist": "Ellsworth Kelly", 
   "URL": "http://www.moma.org/collection/works/34008", 
-  "CuratorApproved": "Y", 
   "CreditLine": "General Drawings Fund", 
-  "Date": "1952", 
-  "ArtistID": 3048, 
+  "DateAcquired": "2000-02-03", 
   "Keywords": [
-    "online art collection", 
     "Ellsworth Kelly", 
     "White and Black", 
     "1952"
   ], 
+  "ArtistID": 3048, 
+  "Title": "White and Black", 
   "Department": "Drawings", 
   "MoMANumber": "108.2000", 
+  "Date": "1952", 
   "ArtistBio": "(American, born 1923)", 
-  "DateAcquired": "2000-02-03", 
-  "\ufeffTitle": "White and Black", 
+  "CuratorApproved": "Y", 
   "ObjectID": "34008"
 }

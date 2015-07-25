@@ -4,12 +4,9 @@
   "Classification": "Print", 
   "Artist": "Aristide Maillol", 
   "URL": "http://www.moma.org/collection/works/68545", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Abby Aldrich Rockefeller", 
-  "Date": "(1926)", 
-  "ArtistID": 3697, 
+  "DateAcquired": "1940-04-05", 
   "Keywords": [
-    "online art collection", 
     "Aristide Maillol", 
     "Seated Figure of a Girl (Femme assise de profile", 
     "a droit", 
@@ -17,10 +14,12 @@
     "un genou releve)", 
     "(1926)"
   ], 
+  "ArtistID": 3697, 
+  "Title": "Seated Figure of a Girl (Femme assise de profile, a droit, un genou plie, un genou releve)", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "406.1940", 
+  "Date": "(1926)", 
   "ArtistBio": "(French, 1861\u20131944)", 
-  "DateAcquired": "1940-04-05", 
-  "\ufeffTitle": "Seated Figure of a Girl (Femme assise de profile, a droit, un genou plie, un genou releve)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "68545"
 }

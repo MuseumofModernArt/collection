@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Agnes Martin", 
   "URL": "http://www.moma.org/collection/works/79416", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of The American Art Foundation", 
-  "Date": "1975", 
-  "ArtistID": 3787, 
+  "DateAcquired": "1976-06-07", 
   "Keywords": [
-    "online art collection", 
     "Agnes Martin", 
     "Untitled Number 5", 
     "1975"
   ], 
+  "ArtistID": 3787, 
+  "Title": "Untitled Number 5", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "287.1976", 
+  "Date": "1975", 
   "ArtistBio": "(American, born Canada. 1912\u20132004)", 
-  "DateAcquired": "1976-06-07", 
-  "\ufeffTitle": "Untitled Number 5", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79416"
 }

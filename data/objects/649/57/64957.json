@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Jacques Villon", 
   "URL": "http://www.moma.org/collection/works/64957", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Acquired through the Helen Acheson Bequest", 
-  "Date": "(1904)", 
-  "ArtistID": 6165, 
+  "DateAcquired": "1983-01-18", 
   "Keywords": [
-    "online art collection", 
     "Jacques Villon", 
     "The Little Model (Le petit mod&egrave;le)", 
     "(1904)"
   ], 
+  "ArtistID": 6165, 
+  "Title": "The Little Model (Le petit mod\u00e8le)", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "237.1983", 
+  "Date": "(1904)", 
   "ArtistBio": "(French, 1875\u20131963)", 
-  "DateAcquired": "1983-01-18", 
-  "\ufeffTitle": "The Little Model (Le petit mod\u00e8le)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "64957"
 }

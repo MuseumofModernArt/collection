@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "John Armleder", 
   "URL": "http://www.moma.org/collection/works/89478", 
-  "CuratorApproved": "Y", 
   "CreditLine": "General Print Fund", 
-  "Date": "2003", 
-  "ArtistID": 6621, 
+  "DateAcquired": "2003-11-20", 
   "Keywords": [
-    "online art collection", 
     "John Armleder", 
     "UntitledfromSupernova", 
     "2003"
   ], 
+  "ArtistID": 6621, 
+  "Title": "UntitledfromSupernova", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "336.2003.10", 
+  "Date": "2003", 
   "ArtistBio": "(Swiss, born 1948)", 
-  "DateAcquired": "2003-11-20", 
-  "\ufeffTitle": "UntitledfromSupernova", 
+  "CuratorApproved": "Y", 
   "ObjectID": "89478"
 }

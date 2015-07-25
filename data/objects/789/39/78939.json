@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Jack Levine", 
   "URL": "http://www.moma.org/collection/works/78939", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1941", 
-  "ArtistID": 3513, 
+  "DateAcquired": "1942-01-27", 
   "Keywords": [
-    "online art collection", 
     "Jack Levine", 
     "The Passing Scene", 
     "1941"
   ], 
+  "ArtistID": 3513, 
+  "Title": "The Passing Scene", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "133.1942", 
+  "Date": "1941", 
   "ArtistBio": "(American, 1915\u20132010)", 
-  "DateAcquired": "1942-01-27", 
-  "\ufeffTitle": "The Passing Scene", 
+  "CuratorApproved": "Y", 
   "ObjectID": "78939"
 }

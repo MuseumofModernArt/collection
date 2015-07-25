@@ -4,20 +4,19 @@
   "Classification": "Illustrated Book", 
   "Artist": "Pablo Picasso", 
   "URL": "http://www.moma.org/collection/works/29853", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The Louis E. Stern Collection", 
-  "Date": "1950", 
-  "ArtistID": 4609, 
+  "DateAcquired": "1964-10-06", 
   "Keywords": [
-    "online art collection", 
     "Pablo Picasso", 
     "De M&eacute;moire d'homme", 
     "1950"
   ], 
+  "ArtistID": 4609, 
+  "Title": "De M\u00e9moire d'homme", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "997.1964.1-9", 
+  "Date": "1950", 
   "ArtistBio": "(Spanish, 1881\u20131973)", 
-  "DateAcquired": "1964-10-06", 
-  "\ufeffTitle": "De M\u00e9moire d'homme", 
+  "CuratorApproved": "Y", 
   "ObjectID": "29853"
 }

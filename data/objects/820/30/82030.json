@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Scott Burton", 
   "URL": "http://www.moma.org/collection/works/82030", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Scott Burton Fund", 
-  "Date": "1978", 
-  "ArtistID": 889, 
+  "DateAcquired": "2000-11-06", 
   "Keywords": [
-    "online art collection", 
     "Scott Burton", 
     "Child's Table and Chair", 
     "1978"
   ], 
+  "ArtistID": 889, 
+  "Title": "Child's Table and Chair", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "1322.2000.a-b", 
+  "Date": "1978", 
   "ArtistBio": "(American, 1939\u20131989)", 
-  "DateAcquired": "2000-11-06", 
-  "\ufeffTitle": "Child's Table and Chair", 
+  "CuratorApproved": "Y", 
   "ObjectID": "82030"
 }

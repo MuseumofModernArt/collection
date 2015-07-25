@@ -4,21 +4,20 @@
   "Classification": "Sculpture", 
   "Artist": "Joseph Cornell", 
   "URL": "http://www.moma.org/collection/works/81768", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Mary Sisler Bequest", 
-  "Date": "c. 1958", 
-  "ArtistID": 1247, 
+  "DateAcquired": "1990-12-10", 
   "Keywords": [
-    "online art collection", 
     "Joseph Cornell", 
     "Untitled (Dieppe)", 
     "c", 
     "1958"
   ], 
+  "ArtistID": 1247, 
+  "Title": "Untitled (Dieppe)", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "664.1990", 
+  "Date": "c. 1958", 
   "ArtistBio": "(American, 1903\u20131972)", 
-  "DateAcquired": "1990-12-10", 
-  "\ufeffTitle": "Untitled (Dieppe)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81768"
 }

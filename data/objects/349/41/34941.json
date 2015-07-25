@@ -4,20 +4,19 @@
   "Classification": "Drawing", 
   "Artist": "Egon Schiele", 
   "URL": "http://www.moma.org/collection/works/34941", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The Joan and Lester Avnet Collection", 
-  "Date": "1911", 
-  "ArtistID": 5215, 
+  "DateAcquired": "1978-04-04", 
   "Keywords": [
-    "online art collection", 
     "Egon Schiele", 
     "Standing Girl Wrapped in Blanket", 
     "1911"
   ], 
+  "ArtistID": 5215, 
+  "Title": "Standing Girl Wrapped in Blanket", 
   "Department": "Drawings", 
   "MoMANumber": "161.1978", 
+  "Date": "1911", 
   "ArtistBio": "(Austrian, 1890\u20131918)", 
-  "DateAcquired": "1978-04-04", 
-  "\ufeffTitle": "Standing Girl Wrapped in Blanket", 
+  "CuratorApproved": "Y", 
   "ObjectID": "34941"
 }

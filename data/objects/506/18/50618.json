@@ -4,21 +4,20 @@
   "Classification": "Photograph", 
   "Artist": "Mark Cohen", 
   "URL": "http://www.moma.org/collection/works/50618", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the photographer", 
-  "Date": "June 1975", 
-  "ArtistID": 1175, 
+  "DateAcquired": "1975-10-23", 
   "Keywords": [
-    "online art collection", 
     "Mark Cohen", 
     "Wilkes-Barre", 
     "Pennsylvania", 
     "June 1975"
   ], 
+  "ArtistID": 1175, 
+  "Title": "Untitled (Wilkes-Barre, Pennsylvania)", 
   "Department": "Photography", 
   "MoMANumber": "317.1975", 
+  "Date": "June 1975", 
   "ArtistBio": "(American, born 1943)", 
-  "DateAcquired": "1975-10-23", 
-  "\ufeffTitle": "Untitled (Wilkes-Barre, Pennsylvania)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "50618"
 }

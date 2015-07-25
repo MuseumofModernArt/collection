@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "John Bellany", 
   "URL": "http://www.moma.org/collection/works/62084", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the artist", 
-  "Date": "1987", 
-  "ArtistID": 449, 
+  "DateAcquired": "1990-05-02", 
   "Keywords": [
-    "online art collection", 
     "John Bellany", 
     "The Old Man and the Sea", 
     "1987"
   ], 
+  "ArtistID": 449, 
+  "Title": "The Old Man and the Sea", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "115.1990.1-14", 
+  "Date": "1987", 
   "ArtistBio": "(British, 1942\u20132013)", 
-  "DateAcquired": "1990-05-02", 
-  "\ufeffTitle": "The Old Man and the Sea", 
+  "CuratorApproved": "Y", 
   "ObjectID": "62084"
 }

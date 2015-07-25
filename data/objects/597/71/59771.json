@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Allen Jones", 
   "URL": "http://www.moma.org/collection/works/59771", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1980", 
-  "ArtistID": 2931, 
+  "DateAcquired": "1981-01-15", 
   "Keywords": [
-    "online art collection", 
     "Allen Jones", 
     "Box", 
     "1980"
   ], 
+  "ArtistID": 2931, 
+  "Title": "Box", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "9.1981", 
+  "Date": "1980", 
   "ArtistBio": "(British, born 1937)", 
-  "DateAcquired": "1981-01-15", 
-  "\ufeffTitle": "Box", 
+  "CuratorApproved": "Y", 
   "ObjectID": "59771"
 }

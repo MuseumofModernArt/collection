@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Auguste Rodin", 
   "URL": "http://www.moma.org/collection/works/81718", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of The B. G. Cantor Art Foundation", 
-  "Date": "1892 (cast 1966)", 
-  "ArtistID": 4978, 
+  "DateAcquired": "1974-03-12", 
   "Keywords": [
-    "online art collection", 
     "Auguste Rodin", 
     "Naked Balzac with Folded Arms", 
     "1892 (cast 1966)"
   ], 
+  "ArtistID": 4978, 
+  "Title": "Naked Balzac with Folded Arms", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "637.1973", 
+  "Date": "1892 (cast 1966)", 
   "ArtistBio": "(French, 1840\u20131917)", 
-  "DateAcquired": "1974-03-12", 
-  "\ufeffTitle": "Naked Balzac with Folded Arms", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81718"
 }

@@ -4,12 +4,9 @@
   "Classification": "Photograph", 
   "Artist": "William Clift", 
   "URL": "http://www.moma.org/collection/works/50595", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1974", 
-  "ArtistID": 1152, 
+  "DateAcquired": "1975-10-23", 
   "Keywords": [
-    "online art collection", 
     "William Clift", 
     "Fence", 
     "Snow", 
@@ -17,10 +14,12 @@
     "New Mexico", 
     "1974"
   ], 
+  "ArtistID": 1152, 
+  "Title": "Fence, Snow, Santa Fe, New Mexico", 
   "Department": "Photography", 
   "MoMANumber": "316.1975", 
+  "Date": "1974", 
   "ArtistBio": "(American, born 1944)", 
-  "DateAcquired": "1975-10-23", 
-  "\ufeffTitle": "Fence, Snow, Santa Fe, New Mexico", 
+  "CuratorApproved": "Y", 
   "ObjectID": "50595"
 }

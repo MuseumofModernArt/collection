@@ -4,12 +4,9 @@
   "Classification": "A&D Graphic Design", 
   "Artist": "Dennis Wheeler", 
   "URL": "http://www.moma.org/collection/works/8093", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Time, Inc.", 
-  "Date": "1963", 
-  "ArtistID": 6333, 
+  "DateAcquired": "1963-12-10", 
   "Keywords": [
-    "online art collection", 
     "Dennis Wheeler", 
     "Life", 
     "News From Anywhere", 
@@ -19,10 +16,12 @@
     "Every Week", 
     "1963"
   ], 
+  "ArtistID": 6333, 
+  "Title": "Life, News From Anywhere. On Earth. Or Off It. This Week. Every Week.", 
   "Department": "Architecture & Design", 
   "MoMANumber": "769.1963", 
+  "Date": "1963", 
   "ArtistBio": "(American, born 1935)", 
-  "DateAcquired": "1963-12-10", 
-  "\ufeffTitle": "Life, News From Anywhere. On Earth. Or Off It. This Week. Every Week.", 
+  "CuratorApproved": "Y", 
   "ObjectID": "8093"
 }

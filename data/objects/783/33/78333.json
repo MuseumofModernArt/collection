@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Frida Kahlo", 
   "URL": "http://www.moma.org/collection/works/78333", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Edgar Kaufmann, Jr.", 
-  "Date": "1940", 
-  "ArtistID": 2963, 
+  "DateAcquired": "1943-02-18", 
   "Keywords": [
-    "online art collection", 
     "Frida Kahlo", 
     "Self-Portrait with Cropped Hair", 
     "1940"
   ], 
+  "ArtistID": 2963, 
+  "Title": "Self-Portrait with Cropped Hair", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "3.1943", 
+  "Date": "1940", 
   "ArtistBio": "(Mexican, 1907\u20131954)", 
-  "DateAcquired": "1943-02-18", 
-  "\ufeffTitle": "Self-Portrait with Cropped Hair", 
+  "CuratorApproved": "Y", 
   "ObjectID": "78333"
 }

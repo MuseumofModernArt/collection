@@ -4,12 +4,9 @@
   "Classification": "Multiple", 
   "Artist": "Louise Bourgeois", 
   "URL": "http://www.moma.org/collection/works/63575", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the artist", 
-  "Date": "1990", 
-  "ArtistID": 710, 
+  "DateAcquired": "1990-05-02", 
   "Keywords": [
-    "online art collection", 
     "Louise Bourgeois", 
     "Untitled", 
     "plate 10", 
@@ -18,10 +15,12 @@
     "(1989", 
     "Published 1990)"
   ], 
+  "ArtistID": 710, 
+  "Title": "Untitled, plate 10 of 12, from the portfolio, Anatomy", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "172.1990.10", 
+  "Date": "1990", 
   "ArtistBio": "(American, born France. 1911\u20132010)", 
-  "DateAcquired": "1990-05-02", 
-  "\ufeffTitle": "Untitled, plate 10 of 12, from the portfolio, Anatomy", 
+  "CuratorApproved": "Y", 
   "ObjectID": "63575"
 }

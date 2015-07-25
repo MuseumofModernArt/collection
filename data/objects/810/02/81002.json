@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Gerhard Marcks", 
   "URL": "http://www.moma.org/collection/works/81002", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1937", 
-  "ArtistID": 3756, 
+  "DateAcquired": "1945-03-07", 
   "Keywords": [
-    "online art collection", 
     "Gerhard Marcks", 
     "Seated Youth", 
     "1937"
   ], 
+  "ArtistID": 3756, 
+  "Title": "Seated Youth", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "132.1945", 
+  "Date": "1937", 
   "ArtistBio": "(German, 1889\u20131981)", 
-  "DateAcquired": "1945-03-07", 
-  "\ufeffTitle": "Seated Youth", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81002"
 }

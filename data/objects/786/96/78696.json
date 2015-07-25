@@ -4,21 +4,20 @@
   "Classification": "Painting", 
   "Artist": "Pablo Picasso", 
   "URL": "http://www.moma.org/collection/works/78696", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Acquired through the Lillie P. Bliss Bequest", 
-  "Date": "Paris, late 1915", 
-  "ArtistID": 4609, 
+  "DateAcquired": "1950-01-27", 
   "Keywords": [
-    "online art collection", 
     "Pablo Picasso", 
     "Harlequin", 
     "Paris", 
     "late 1915"
   ], 
+  "ArtistID": 4609, 
+  "Title": "Harlequin", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "76.1950", 
+  "Date": "Paris, late 1915", 
   "ArtistBio": "(Spanish, 1881\u20131973)", 
-  "DateAcquired": "1950-01-27", 
-  "\ufeffTitle": "Harlequin", 
+  "CuratorApproved": "Y", 
   "ObjectID": "78696"
 }

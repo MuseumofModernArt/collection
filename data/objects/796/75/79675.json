@@ -4,21 +4,20 @@
   "Classification": "Painting", 
   "Artist": "Jackson Pollock", 
   "URL": "http://www.moma.org/collection/works/79675", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Lee Krasner in memory of Jackson Pollock", 
-  "Date": "c. 1938-41", 
-  "ArtistID": 4675, 
+  "DateAcquired": "1980-04-09", 
   "Keywords": [
-    "online art collection", 
     "Jackson Pollock", 
     "Circle", 
     "c", 
     "1938-41"
   ], 
+  "ArtistID": 4675, 
+  "Title": "Circle", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "424.1980", 
+  "Date": "c. 1938-41", 
   "ArtistBio": "(American, 1912\u20131956)", 
-  "DateAcquired": "1980-04-09", 
-  "\ufeffTitle": "Circle", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79675"
 }

@@ -4,22 +4,21 @@
   "Classification": "Print", 
   "Artist": "Pablo Picasso", 
   "URL": "http://www.moma.org/collection/works/65020", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Abby Aldrich Rockefeller Fund", 
-  "Date": "November 15, 1921, printed in 1922", 
-  "ArtistID": 4609, 
+  "DateAcquired": "1951-05-24", 
   "Keywords": [
-    "online art collection", 
     "Pablo Picasso", 
     "Portrait de Pierre Reverdy Lisant Rue La Bo&eacute;tie (frontispiece for Cravates de chanvre)", 
     "November 15", 
     "1921", 
     "printed in 1922"
   ], 
+  "ArtistID": 4609, 
+  "Title": "Portrait de Pierre Reverdy Lisant Rue La Bo\u00e9tie (frontispiece for Cravates de chanvre)", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "240.1951", 
+  "Date": "November 15, 1921, printed in 1922", 
   "ArtistBio": "(Spanish, 1881\u20131973)", 
-  "DateAcquired": "1951-05-24", 
-  "\ufeffTitle": "Portrait de Pierre Reverdy Lisant Rue La Bo\u00e9tie (frontispiece for Cravates de chanvre)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "65020"
 }

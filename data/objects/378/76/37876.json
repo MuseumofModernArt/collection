@@ -4,20 +4,19 @@
   "Classification": "Drawing", 
   "Artist": "Alice Aycock", 
   "URL": "http://www.moma.org/collection/works/37876", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Acquired with matching funds from Dr. Norman Avnet and the National Endowment for the Arts", 
-  "Date": "1978", 
-  "ArtistID": 256, 
+  "DateAcquired": "1978-10-27", 
   "Keywords": [
-    "online art collection", 
     "Alice Aycock", 
     "Study (Incomplete Plan) for Project Entitled \"The City of the Walls\"", 
     "1978"
   ], 
+  "ArtistID": 256, 
+  "Title": "Study (Incomplete Plan) for Project Entitled \"The City of the Walls\"", 
   "Department": "Drawings", 
   "MoMANumber": "725.1978", 
+  "Date": "1978", 
   "ArtistBio": "(American, born 1946)", 
-  "DateAcquired": "1978-10-27", 
-  "\ufeffTitle": "Study (Incomplete Plan) for Project Entitled \"The City of the Walls\"", 
+  "CuratorApproved": "Y", 
   "ObjectID": "37876"
 }

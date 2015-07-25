@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Waltercio Caldas", 
   "URL": "http://www.moma.org/collection/works/81032", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Manuel Francisco do Nascimento Brito, Beatriz Pimenta Camargo, Gilberto Chateaubriand, Joachim Esteve, Jos\u00e9 Mindlin, and Maria de Lourdes Egydio Villela", 
-  "Date": "1974 (fabricated in 1998)", 
-  "ArtistID": 7615, 
+  "DateAcquired": "1998-03-09", 
   "Keywords": [
-    "online art collection", 
     "Waltercio Caldas", 
     "Mirror of Light", 
     "1974 (fabricated in 1998)"
   ], 
+  "ArtistID": 7615, 
+  "Title": "Mirror of Light", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "152.1998", 
+  "Date": "1974 (fabricated in 1998)", 
   "ArtistBio": "(Brazilian, born 1946)", 
-  "DateAcquired": "1998-03-09", 
-  "\ufeffTitle": "Mirror of Light", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81032"
 }

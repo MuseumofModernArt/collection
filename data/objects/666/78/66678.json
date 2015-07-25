@@ -4,22 +4,21 @@
   "Classification": "Print", 
   "Artist": "Max Beckmann", 
   "URL": "http://www.moma.org/collection/works/66678", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Victor S. Riesenfeld", 
-  "Date": "(1919, published 1920, dated 1921)", 
-  "ArtistID": 429, 
+  "DateAcquired": "1948-10-06", 
   "Keywords": [
-    "online art collection", 
     "Max Beckmann", 
     "Kahlbaum", 
     "(1919", 
     "published 1920", 
     "dated 1921)"
   ], 
+  "ArtistID": 429, 
+  "Title": "Kahlbaum", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "312.1948", 
+  "Date": "(1919, published 1920, dated 1921)", 
   "ArtistBio": "(German, 1884\u20131950)", 
-  "DateAcquired": "1948-10-06", 
-  "\ufeffTitle": "Kahlbaum", 
+  "CuratorApproved": "Y", 
   "ObjectID": "66678"
 }

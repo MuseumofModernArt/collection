@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Andy Warhol", 
   "URL": "http://www.moma.org/collection/works/64286", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of David Whitney", 
-  "Date": "1970", 
-  "ArtistID": 6246, 
+  "DateAcquired": "1970-05-12", 
   "Keywords": [
-    "online art collection", 
     "Andy Warhol", 
     "Untitled from Flowers", 
     "1970"
   ], 
+  "ArtistID": 6246, 
+  "Title": "Untitled from Flowers", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "199.1970.7", 
+  "Date": "1970", 
   "ArtistBio": "(American, 1928\u20131987)", 
-  "DateAcquired": "1970-05-12", 
-  "\ufeffTitle": "Untitled from Flowers", 
+  "CuratorApproved": "Y", 
   "ObjectID": "64286"
 }

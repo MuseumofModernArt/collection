@@ -4,20 +4,19 @@
   "Classification": "Photograph", 
   "Artist": "August Sander", 
   "URL": "http://www.moma.org/collection/works/52370", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the photographer", 
-  "Date": "1910", 
-  "ArtistID": 5145, 
+  "DateAcquired": "1953-04-07", 
   "Keywords": [
-    "online art collection", 
     "August Sander", 
     "The Earthbound Farmer", 
     "1910"
   ], 
+  "ArtistID": 5145, 
+  "Title": "The Earthbound Farmer", 
   "Department": "Photography", 
   "MoMANumber": "390.1953", 
+  "Date": "1910", 
   "ArtistBio": "(German, 1876\u20131964)", 
-  "DateAcquired": "1953-04-07", 
-  "\ufeffTitle": "The Earthbound Farmer", 
+  "CuratorApproved": "Y", 
   "ObjectID": "52370"
 }

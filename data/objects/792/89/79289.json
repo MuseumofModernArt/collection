@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Max Beckmann", 
   "URL": "http://www.moma.org/collection/works/79289", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Dr. and Mrs. F. H. Hirschland", 
-  "Date": "Frankfurt 1923", 
-  "ArtistID": 429, 
+  "DateAcquired": "1956-10-09", 
   "Keywords": [
-    "online art collection", 
     "Max Beckmann", 
     "Self-Portrait with a Cigarette", 
     "Frankfurt 1923"
   ], 
+  "ArtistID": 429, 
+  "Title": "Self-Portrait with a Cigarette", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "255.1956", 
+  "Date": "Frankfurt 1923", 
   "ArtistBio": "(German, 1884\u20131950)", 
-  "DateAcquired": "1956-10-09", 
-  "\ufeffTitle": "Self-Portrait with a Cigarette", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79289"
 }

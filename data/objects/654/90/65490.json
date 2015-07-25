@@ -4,12 +4,9 @@
   "Classification": "Print", 
   "Artist": "Louise Bourgeois", 
   "URL": "http://www.moma.org/collection/works/65490", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the artist", 
-  "Date": "c. 1974, reprinted 1990", 
-  "ArtistID": 710, 
+  "DateAcquired": "1992-05-20", 
   "Keywords": [
-    "online art collection", 
     "Louise Bourgeois", 
     "Spirales (Spirals)", 
     "only state", 
@@ -17,10 +14,12 @@
     "1974", 
     "published 1990)"
   ], 
+  "ArtistID": 710, 
+  "Title": "Spirales", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "261.1992", 
+  "Date": "c. 1974, reprinted 1990", 
   "ArtistBio": "(American, born France. 1911\u20132010)", 
-  "DateAcquired": "1992-05-20", 
-  "\ufeffTitle": "Spirales", 
+  "CuratorApproved": "Y", 
   "ObjectID": "65490"
 }

@@ -4,21 +4,20 @@
   "Classification": "Photograph", 
   "Artist": "Unknown photographer", 
   "URL": "http://www.moma.org/collection/works/44697", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Jacques Henri Lartigue", 
-  "Date": "1910", 
-  "ArtistID": 6028, 
+  "DateAcquired": "1963-01-08", 
   "Keywords": [
-    "online art collection", 
     "Unknown Photographer", 
     "Paris", 
     "Avenue du Bois de Boulogne", 
     "1910"
   ], 
+  "ArtistID": 6028, 
+  "Title": "Paris, Avenue du Bois de Boulogne", 
   "Department": "Photography", 
   "MoMANumber": "46.1963", 
+  "Date": "1910", 
   "ArtistBio": "", 
-  "DateAcquired": "1963-01-08", 
-  "\ufeffTitle": "Paris, Avenue du Bois de Boulogne", 
+  "CuratorApproved": "Y", 
   "ObjectID": "44697"
 }

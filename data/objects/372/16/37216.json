@@ -4,20 +4,19 @@
   "Classification": "Drawing", 
   "Artist": "Georges Rouault", 
   "URL": "http://www.moma.org/collection/works/37216", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Acquired through the Lillie P. Bliss Bequest", 
-  "Date": "1906", 
-  "ArtistID": 5053, 
+  "DateAcquired": "1941-06-10", 
   "Keywords": [
-    "online art collection", 
     "Georges Rouault", 
     "Woman at a Table (The Procuress)", 
     "1906"
   ], 
+  "ArtistID": 5053, 
+  "Title": "Woman at a Table (The Procuress)", 
   "Department": "Drawings", 
   "MoMANumber": "503.1941", 
+  "Date": "1906", 
   "ArtistBio": "(French, 1871\u20131958)", 
-  "DateAcquired": "1941-06-10", 
-  "\ufeffTitle": "Woman at a Table (The Procuress)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "37216"
 }

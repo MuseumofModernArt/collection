@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Bob Danner", 
   "URL": "http://www.moma.org/collection/works/66550", 
-  "CuratorApproved": "Y", 
   "CreditLine": "John B. Turner Fund", 
-  "Date": "(1973)", 
-  "ArtistID": 1380, 
+  "DateAcquired": "1973-10-24", 
   "Keywords": [
-    "online art collection", 
     "Bob Danner", 
     "Mask (Who Meeeeee?)", 
     "(1973)"
   ], 
+  "ArtistID": 1380, 
+  "Title": "Mask (Who Meeeeee?)", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "306.1973", 
+  "Date": "(1973)", 
   "ArtistBio": "(American, born 1948)", 
-  "DateAcquired": "1973-10-24", 
-  "\ufeffTitle": "Mask (Who Meeeeee?)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "66550"
 }

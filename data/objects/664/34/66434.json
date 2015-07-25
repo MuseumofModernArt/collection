@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Giorgio Morandi", 
   "URL": "http://www.moma.org/collection/works/66434", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Abby Aldrich Rockefeller Fund", 
-  "Date": "(1933)", 
-  "ArtistID": 4079, 
+  "DateAcquired": "1949-05-26", 
   "Keywords": [
-    "online art collection", 
     "Giorgio Morandi", 
     "Landscape", 
     "(1933)"
   ], 
+  "ArtistID": 4079, 
+  "Title": "Landscape", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "301.1949", 
+  "Date": "(1933)", 
   "ArtistBio": "(Italian, 1890\u20131964)", 
-  "DateAcquired": "1949-05-26", 
-  "\ufeffTitle": "Landscape", 
+  "CuratorApproved": "Y", 
   "ObjectID": "66434"
 }

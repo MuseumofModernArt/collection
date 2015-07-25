@@ -4,21 +4,20 @@
   "Classification": "Photograph", 
   "Artist": "Harry Callahan", 
   "URL": "http://www.moma.org/collection/works/49343", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Acquired with matching funds from Shirley C. Burden and the National Endowment for the Arts", 
-  "Date": "c. 1949", 
-  "ArtistID": 924, 
+  "DateAcquired": "1977-06-09", 
   "Keywords": [
-    "online art collection", 
     "Harry Callahan", 
     "Chicago", 
     "c", 
     "1949"
   ], 
+  "ArtistID": 924, 
+  "Title": "Chicago", 
   "Department": "Photography", 
   "MoMANumber": "237.1977", 
+  "Date": "c. 1949", 
   "ArtistBio": "(American, 1912\u20131999)", 
-  "DateAcquired": "1977-06-09", 
-  "\ufeffTitle": "Chicago", 
+  "CuratorApproved": "Y", 
   "ObjectID": "49343"
 }

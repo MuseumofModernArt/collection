@@ -4,21 +4,20 @@
   "Classification": "Photograph", 
   "Artist": "Lee Friedlander", 
   "URL": "http://www.moma.org/collection/works/52545", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1970", 
-  "ArtistID": 2002, 
+  "DateAcquired": "2000-10-12", 
   "Keywords": [
-    "online art collection", 
     "Lee Friedlander", 
     "San Diego", 
     "California", 
     "1970"
   ], 
+  "ArtistID": 2002, 
+  "Title": "San Diego, California", 
   "Department": "Photography", 
   "MoMANumber": "397.2000", 
+  "Date": "1970", 
   "ArtistBio": "(American, born 1934)", 
-  "DateAcquired": "2000-10-12", 
-  "\ufeffTitle": "San Diego, California", 
+  "CuratorApproved": "Y", 
   "ObjectID": "52545"
 }

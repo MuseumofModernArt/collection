@@ -4,21 +4,20 @@
   "Classification": "Print", 
   "Artist": "Max Beckmann", 
   "URL": "http://www.moma.org/collection/works/66220", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "(1916, published 1919)", 
-  "ArtistID": 429, 
+  "DateAcquired": "1951-05-24", 
   "Keywords": [
-    "online art collection", 
     "Max Beckmann", 
     "Theater from the portfolio Faces (Gesichter)", 
     "(1916", 
     "published 1919)"
   ], 
+  "ArtistID": 429, 
+  "Title": "Theater from the portfolio Faces (Gesichter)", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "292.1951", 
+  "Date": "(1916, published 1919)", 
   "ArtistBio": "(German, 1884\u20131950)", 
-  "DateAcquired": "1951-05-24", 
-  "\ufeffTitle": "Theater from the portfolio Faces (Gesichter)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "66220"
 }

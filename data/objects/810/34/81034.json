@@ -4,21 +4,20 @@
   "Classification": "Sculpture", 
   "Artist": "Louise Bourgeois", 
   "URL": "http://www.moma.org/collection/works/81034", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1959", 
-  "ArtistID": 710, 
+  "DateAcquired": "1962-05-08", 
   "Keywords": [
-    "online art collection", 
     "Louise Bourgeois", 
     "Sleeping Figure", 
     "II", 
     "1959"
   ], 
+  "ArtistID": 710, 
+  "Title": "Sleeping Figure, II", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "153.1962", 
+  "Date": "1959", 
   "ArtistBio": "(American, born France. 1911\u20132010)", 
-  "DateAcquired": "1962-05-08", 
-  "\ufeffTitle": "Sleeping Figure, II", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81034"
 }

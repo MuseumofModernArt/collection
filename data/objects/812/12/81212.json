@@ -4,21 +4,20 @@
   "Classification": "Sculpture", 
   "Artist": "Man Ray (Emmanuel Radnitzky)", 
   "URL": "http://www.moma.org/collection/works/81212", 
-  "CuratorApproved": "Y", 
   "CreditLine": "James Thrall Soby Fund", 
-  "Date": "c. 1958 (replica of 1921 original)", 
-  "ArtistID": 3716, 
+  "DateAcquired": "1966-04-12", 
   "Keywords": [
-    "online art collection", 
     "Man Ray", 
     "Gift", 
     "c", 
     "1958 (replica of 1921 original)"
   ], 
+  "ArtistID": 3716, 
+  "Title": "Gift", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "249.1966", 
+  "Date": "c. 1958 (replica of 1921 original)", 
   "ArtistBio": "(American, 1890\u20131976)", 
-  "DateAcquired": "1966-04-12", 
-  "\ufeffTitle": "Gift", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81212"
 }

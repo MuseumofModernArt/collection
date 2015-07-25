@@ -4,20 +4,19 @@
   "Classification": "Drawing", 
   "Artist": "John Paul Jones", 
   "URL": "http://www.moma.org/collection/works/33388", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Mr. and Mrs. Donald B. Straus Fund", 
-  "Date": "1960", 
-  "ArtistID": 2935, 
+  "DateAcquired": "1960-04-06", 
   "Keywords": [
-    "online art collection", 
     "John Paul Jones", 
     "Head", 
     "1960"
   ], 
+  "ArtistID": 2935, 
+  "Title": "Head", 
   "Department": "Drawings", 
   "MoMANumber": "30.1960", 
+  "Date": "1960", 
   "ArtistBio": "(American, 1924\u20131999)", 
-  "DateAcquired": "1960-04-06", 
-  "\ufeffTitle": "Head", 
+  "CuratorApproved": "Y", 
   "ObjectID": "33388"
 }

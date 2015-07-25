@@ -4,12 +4,9 @@
   "Classification": "A&D Architectural Drawing", 
   "Artist": "Toyo Ito", 
   "URL": "http://www.moma.org/collection/works/665", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the architect", 
-  "Date": "1997", 
-  "ArtistID": 7526, 
+  "DateAcquired": "1997-10-17", 
   "Keywords": [
-    "online art collection", 
     "Toyo Ito", 
     "Charrette Submission for The Museum of Modern Art Expansion 1997", 
     "New York (Manhattan)", 
@@ -17,10 +14,12 @@
     "First Phase", 
     "1997"
   ], 
+  "ArtistID": 7526, 
+  "Title": "Charrette Submission for The Museum of Modern Art Expansion 1997 , New York (Manhattan), New York, First Phase", 
   "Department": "Architecture & Design", 
   "MoMANumber": "475.1997.1-4", 
+  "Date": "1997", 
   "ArtistBio": "(Japanese, born 1941)", 
-  "DateAcquired": "1997-10-17", 
-  "\ufeffTitle": "Charrette Submission for The Museum of Modern Art Expansion 1997 , New York (Manhattan), New York, First Phase", 
+  "CuratorApproved": "Y", 
   "ObjectID": "665"
 }

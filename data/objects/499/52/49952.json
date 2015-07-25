@@ -4,12 +4,9 @@
   "Classification": "Photograph", 
   "Artist": "Judith Joy Ross", 
   "URL": "http://www.moma.org/collection/works/49952", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Acquired through the generosity of Scripps Howard Broadcasting Company in honor of Jack R. Howard", 
-  "Date": "1984", 
-  "ArtistID": 5030, 
+  "DateAcquired": "1985-10-02", 
   "Keywords": [
-    "online art collection", 
     "Judith Joy Ross", 
     "Untitled", 
     "from Portraits at the Vietnam Veterans Memorial", 
@@ -17,10 +14,12 @@
     "D,C", 
     "1984"
   ], 
+  "ArtistID": 5030, 
+  "Title": "Untitled, from Portraits at the Vietnam Veterans Memorial, Washington, D.C.", 
   "Department": "Photography", 
   "MoMANumber": "283.1985.a-d", 
+  "Date": "1984", 
   "ArtistBio": "(American, born 1946)", 
-  "DateAcquired": "1985-10-02", 
-  "\ufeffTitle": "Untitled, from Portraits at the Vietnam Veterans Memorial, Washington, D.C.", 
+  "CuratorApproved": "Y", 
   "ObjectID": "49952"
 }

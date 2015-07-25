@@ -4,12 +4,9 @@
   "Classification": "A&D Architectural Drawing", 
   "Artist": "Emilio Ambasz", 
   "URL": "http://www.moma.org/collection/works/219", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the architect", 
-  "Date": "1975", 
-  "ArtistID": 141, 
+  "DateAcquired": "1992-01-15", 
   "Keywords": [
-    "online art collection", 
     "Emilio Ambasz", 
     "Center for Applied Computer Research", 
     "Las Promesas", 
@@ -17,10 +14,12 @@
     "Site plan", 
     "1975"
   ], 
+  "ArtistID": 141, 
+  "Title": "Center for Applied Computer Research, Las Promesas, Mexico, Site plan", 
   "Department": "Architecture & Design", 
   "MoMANumber": "131.1992", 
+  "Date": "1975", 
   "ArtistBio": "(Argentine, born 1943)", 
-  "DateAcquired": "1992-01-15", 
-  "\ufeffTitle": "Center for Applied Computer Research, Las Promesas, Mexico, Site plan", 
+  "CuratorApproved": "Y", 
   "ObjectID": "219"
 }

@@ -4,21 +4,20 @@
   "Classification": "Painting", 
   "Artist": "Dorothea Rockburne", 
   "URL": "http://www.moma.org/collection/works/78588", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Given anonymously", 
-  "Date": "1970", 
-  "ArtistID": 4972, 
+  "DateAcquired": "1971-01-12", 
   "Keywords": [
-    "online art collection", 
     "Dorothea Rockburne", 
     "A", 
     "C And D From Group/And", 
     "1970"
   ], 
+  "ArtistID": 4972, 
+  "Title": "A, C And D From Group/And", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "36.1971", 
+  "Date": "1970", 
   "ArtistBio": "(American, born Canada 1932)", 
-  "DateAcquired": "1971-01-12", 
-  "\ufeffTitle": "A, C And D From Group/And", 
+  "CuratorApproved": "Y", 
   "ObjectID": "78588"
 }

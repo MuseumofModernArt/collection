@@ -4,21 +4,20 @@
   "Classification": "Print", 
   "Artist": "Jim Dine", 
   "URL": "http://www.moma.org/collection/works/66349", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Celeste Bartos", 
-  "Date": "(1970, dated and published 1972)", 
-  "ArtistID": 1547, 
+  "DateAcquired": "1972-10-05", 
   "Keywords": [
-    "online art collection", 
     "Jim Dine", 
     "2 Hearts (The Donut)", 
     "(1970", 
     "dated and published 1972)"
   ], 
+  "ArtistID": 1547, 
+  "Title": "2 Hearts (The Donut)", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "296.1972.a-b", 
+  "Date": "(1970, dated and published 1972)", 
   "ArtistBio": "(American, born 1935)", 
-  "DateAcquired": "1972-10-05", 
-  "\ufeffTitle": "2 Hearts (The Donut)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "66349"
 }

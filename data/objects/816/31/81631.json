@@ -4,22 +4,21 @@
   "Classification": "Sculpture", 
   "Artist": "Marcel Duchamp", 
   "URL": "http://www.moma.org/collection/works/81631", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The Sidney and Harriet Janis Collection", 
-  "Date": "New York, 1951 (third version, after lost original of 1913)", 
-  "ArtistID": 1634, 
+  "DateAcquired": "1967-10-18", 
   "Keywords": [
-    "online art collection", 
     "Marcel Duchamp", 
     "Bicycle Wheel", 
     "New York", 
     "1951 (third version", 
     "after lost original of 1913)"
   ], 
+  "ArtistID": 1634, 
+  "Title": "Bicycle Wheel", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "595.1967.a-b", 
+  "Date": "New York, 1951 (third version, after lost original of 1913)", 
   "ArtistBio": "(American, born France. 1887\u20131968)", 
-  "DateAcquired": "1967-10-18", 
-  "\ufeffTitle": "Bicycle Wheel", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81631"
 }

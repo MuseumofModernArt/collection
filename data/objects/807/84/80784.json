@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Naum Gabo", 
   "URL": "http://www.moma.org/collection/works/80784", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Advisory Committee Fund", 
-  "Date": "1941", 
-  "ArtistID": 2043, 
+  "DateAcquired": "1947-03-13", 
   "Keywords": [
-    "online art collection", 
     "Naum Gabo", 
     "Spiral Theme", 
     "1941"
   ], 
+  "ArtistID": 2043, 
+  "Title": "Spiral Theme", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "7.1947", 
+  "Date": "1941", 
   "ArtistBio": "(American, born Russia. 1890\u20131977)", 
-  "DateAcquired": "1947-03-13", 
-  "\ufeffTitle": "Spiral Theme", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80784"
 }

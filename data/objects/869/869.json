@@ -4,12 +4,9 @@
   "Classification": "A&D Architectural Drawing", 
   "Artist": "Superstudio, Gian Piero Frassinelli, Alessandro Magris, Roberto Magris, Adolfo Natalini, Cristiano Toraldo di Francia, Alessandro Poli", 
   "URL": "http://www.moma.org/collection/works/869", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Given anonymously", 
-  "Date": "1971", 
-  "ArtistID": 5733, 
+  "DateAcquired": "1974-11-06", 
   "Keywords": [
-    "online art collection", 
     "Superstudio", 
     "Gian Piero Frassinelli", 
     "Alessandro Magris", 
@@ -21,10 +18,12 @@
     "project", 
     "1971"
   ], 
+  "ArtistID": 5733, 
+  "Title": "Supersurface, The Happy Island, project", 
   "Department": "Architecture & Design", 
   "MoMANumber": "1254.1974", 
+  "Date": "1971", 
   "ArtistBio": "(Italian, est. 1966\u20131982) (Italian, born 1939) (Italian, born 1941) (Italian, born 1935) (Italian, born 1941) (Italian, born 1941) (Italian)", 
-  "DateAcquired": "1974-11-06", 
-  "\ufeffTitle": "Supersurface, The Happy Island, project", 
+  "CuratorApproved": "Y", 
   "ObjectID": "869"
 }

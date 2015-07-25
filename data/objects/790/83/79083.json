@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Brice Marden", 
   "URL": "http://www.moma.org/collection/works/79083", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Werner and Elaine Dannheisser", 
-  "Date": "1971", 
-  "ArtistID": 3758, 
+  "DateAcquired": "1996-04-09", 
   "Keywords": [
-    "online art collection", 
     "Brice Marden", 
     "Avrutun", 
     "1971"
   ], 
+  "ArtistID": 3758, 
+  "Title": "Avrutun", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "189.1996", 
+  "Date": "1971", 
   "ArtistBio": "(American, born 1938)", 
-  "DateAcquired": "1996-04-09", 
-  "\ufeffTitle": "Avrutun", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79083"
 }

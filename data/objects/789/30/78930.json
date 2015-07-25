@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Juan Gris", 
   "URL": "http://www.moma.org/collection/works/78930", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Bequest of Anna Erickson Levene in memory of her husband, Dr. Phoebus Aaron Theodor Levene", 
-  "Date": "1912", 
-  "ArtistID": 2349, 
+  "DateAcquired": "1947-06-17", 
   "Keywords": [
-    "online art collection", 
     "Juan Gris", 
     "Still Life with Flowers", 
     "1912"
   ], 
+  "ArtistID": 2349, 
+  "Title": "Still Life with Flowers", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "131.1947", 
+  "Date": "1912", 
   "ArtistBio": "(Spanish, 1887\u20131927)", 
-  "DateAcquired": "1947-06-17", 
-  "\ufeffTitle": "Still Life with Flowers", 
+  "CuratorApproved": "Y", 
   "ObjectID": "78930"
 }

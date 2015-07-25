@@ -4,12 +4,9 @@
   "Classification": "Print", 
   "Artist": "Louise Bourgeois", 
   "URL": "http://www.moma.org/collection/works/69838", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the artist", 
-  "Date": "c. 1989", 
-  "ArtistID": 710, 
+  "DateAcquired": "1993-11-17", 
   "Keywords": [
-    "online art collection", 
     "Louise Bourgeois", 
     "Ambition with Shadows", 
     "only state", 
@@ -17,10 +14,12 @@
     "(c", 
     "1989)"
   ], 
+  "ArtistID": 710, 
+  "Title": "Ambition with Shadows", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "480.1993", 
+  "Date": "c. 1989", 
   "ArtistBio": "(American, born France. 1911\u20132010)", 
-  "DateAcquired": "1993-11-17", 
-  "\ufeffTitle": "Ambition with Shadows", 
+  "CuratorApproved": "Y", 
   "ObjectID": "69838"
 }

@@ -4,21 +4,20 @@
   "Classification": "Drawing", 
   "Artist": "Max Beckmann", 
   "URL": "http://www.moma.org/collection/works/33072", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The Joan and Lester Avnet Collection", 
-  "Date": "October 13, 1945", 
-  "ArtistID": 429, 
+  "DateAcquired": "1978-04-04", 
   "Keywords": [
-    "online art collection", 
     "Max Beckmann", 
     "Woman Reading (Lesende Frau)", 
     "October 13", 
     "1945"
   ], 
+  "ArtistID": 429, 
+  "Title": "Woman Reading (Lesende Frau)", 
   "Department": "Drawings", 
   "MoMANumber": "8.1978", 
+  "Date": "October 13, 1945", 
   "ArtistBio": "(German, 1884\u20131950)", 
-  "DateAcquired": "1978-04-04", 
-  "\ufeffTitle": "Woman Reading (Lesende Frau)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "33072"
 }

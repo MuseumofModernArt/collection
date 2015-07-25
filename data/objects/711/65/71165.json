@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Henri Matisse", 
   "URL": "http://www.moma.org/collection/works/71165", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The Associates Fund", 
-  "Date": "(1929)", 
-  "ArtistID": 3832, 
+  "DateAcquired": "1983-05-25", 
   "Keywords": [
-    "online art collection", 
     "Henri Matisse", 
     "The White Fox (Le renard blanc)", 
     "(1929)"
   ], 
+  "ArtistID": 3832, 
+  "Title": "The White Fox (Le renard blanc)", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "562.1983", 
+  "Date": "(1929)", 
   "ArtistBio": "(French, 1869\u20131954)", 
-  "DateAcquired": "1983-05-25", 
-  "\ufeffTitle": "The White Fox (Le renard blanc)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "71165"
 }

@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Kazimir Malevich", 
   "URL": "http://www.moma.org/collection/works/80383", 
-  "CuratorApproved": "Y", 
   "CreditLine": "1935 Acquisition confirmed in 1999 by agreement with the Estate of Kazimir Malevich and made possible with funds from the Mrs. John Hay Whitney Bequest (by exchange)", 
-  "Date": "1915", 
-  "ArtistID": 3710, 
+  "DateAcquired": "1935-09-07", 
   "Keywords": [
-    "online art collection", 
     "Kazimir Malevich", 
     "Painterly Realism of a Boy with a Knapsack - Color Masses in the Fourth Dimension", 
     "1915"
   ], 
+  "ArtistID": 3710, 
+  "Title": "Painterly Realism of a Boy with a Knapsack - Color Masses in the Fourth Dimension", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "816.1935", 
+  "Date": "1915", 
   "ArtistBio": "(Russian, born Ukraine. 1878\u20131935)", 
-  "DateAcquired": "1935-09-07", 
-  "\ufeffTitle": "Painterly Realism of a Boy with a Knapsack - Color Masses in the Fourth Dimension", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80383"
 }

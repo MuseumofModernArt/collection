@@ -4,21 +4,20 @@
   "Classification": "Painting", 
   "Artist": "Mikhail Larionov", 
   "URL": "http://www.moma.org/collection/works/79196", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Mr. and Mrs. Marvin Sackner", 
-  "Date": "c. 1912-13", 
-  "ArtistID": 3389, 
+  "DateAcquired": "1991-10-07", 
   "Keywords": [
-    "online art collection", 
     "Mikhail Larionov", 
     "Rayonist Composition", 
     "c", 
     "1912-13"
   ], 
+  "ArtistID": 3389, 
+  "Title": "Rayonist Composition", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "227.1991", 
+  "Date": "c. 1912-13", 
   "ArtistBio": "(Russian, 1881\u20131964)", 
-  "DateAcquired": "1991-10-07", 
-  "\ufeffTitle": "Rayonist Composition", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79196"
 }

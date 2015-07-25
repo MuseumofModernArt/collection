@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "William Copley", 
   "URL": "http://www.moma.org/collection/works/80600", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Miss Jeanne Reynal", 
-  "Date": "1964", 
-  "ArtistID": 1238, 
+  "DateAcquired": "1964-12-08", 
   "Keywords": [
-    "online art collection", 
     "William Copley", 
     "Think", 
     "1964"
   ], 
+  "ArtistID": 1238, 
+  "Title": "Think", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "1233.1964", 
+  "Date": "1964", 
   "ArtistBio": "(American, 1919\u20131996)", 
-  "DateAcquired": "1964-12-08", 
-  "\ufeffTitle": "Think", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80600"
 }

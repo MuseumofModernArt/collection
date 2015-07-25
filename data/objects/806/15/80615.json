@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Augustus Vincent Tack", 
   "URL": "http://www.moma.org/collection/works/80615", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Enid A. Haupt Fund", 
-  "Date": "1935", 
-  "ArtistID": 5774, 
+  "DateAcquired": "1979-12-11", 
   "Keywords": [
-    "online art collection", 
     "Augustus Vincent Tack", 
     "Dunes", 
     "1935"
   ], 
+  "ArtistID": 5774, 
+  "Title": "Dunes", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "1250.1979", 
+  "Date": "1935", 
   "ArtistBio": "(American, 1870\u20131949)", 
-  "DateAcquired": "1979-12-11", 
-  "\ufeffTitle": "Dunes", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80615"
 }

@@ -4,12 +4,9 @@
   "Classification": "A&D Architectural Drawing", 
   "Artist": "Leon Krier", 
   "URL": "http://www.moma.org/collection/works/445", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the architect in honor of Philip Johnson", 
-  "Date": "1969", 
-  "ArtistID": 3250, 
+  "DateAcquired": "1996-09-25", 
   "Keywords": [
-    "online art collection", 
     "Leon Krier", 
     "Building over Motorway Project", 
     "London", 
@@ -17,10 +14,12 @@
     "Perspectives", 
     "1969"
   ], 
+  "ArtistID": 3250, 
+  "Title": "Building over Motorway Project, London, England, Perspectives", 
   "Department": "Architecture & Design", 
   "MoMANumber": "378.1996", 
+  "Date": "1969", 
   "ArtistBio": "(Luxembourgish, born 1946)", 
-  "DateAcquired": "1996-09-25", 
-  "\ufeffTitle": "Building over Motorway Project, London, England, Perspectives", 
+  "CuratorApproved": "Y", 
   "ObjectID": "445"
 }

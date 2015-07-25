@@ -4,21 +4,20 @@
   "Classification": "Drawing", 
   "Artist": "Kurt Schwitters", 
   "URL": "http://www.moma.org/collection/works/37701", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The Sidney and Harriet Janis Collection", 
-  "Date": "1920", 
-  "ArtistID": 5293, 
+  "DateAcquired": "1967-10-18", 
   "Keywords": [
-    "online art collection", 
     "Kurt Schwitters", 
     "Merz 88", 
     "Red Stroke", 
     "1920"
   ], 
+  "ArtistID": 5293, 
+  "Title": "Merz 88. Red Stroke", 
   "Department": "Drawings", 
   "MoMANumber": "648.1967", 
+  "Date": "1920", 
   "ArtistBio": "(German, 1887\u20131948)", 
-  "DateAcquired": "1967-10-18", 
-  "\ufeffTitle": "Merz 88. Red Stroke", 
+  "CuratorApproved": "Y", 
   "ObjectID": "37701"
 }

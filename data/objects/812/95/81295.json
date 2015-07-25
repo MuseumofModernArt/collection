@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Robert Indiana", 
   "URL": "http://www.moma.org/collection/works/81295", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Philip Johnson Fund", 
-  "Date": "1960", 
-  "ArtistID": 2812, 
+  "DateAcquired": "1961-10-10", 
   "Keywords": [
-    "online art collection", 
     "Robert Indiana", 
     "Moon", 
     "1960"
   ], 
+  "ArtistID": 2812, 
+  "Title": "Moon", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "288.1961", 
+  "Date": "1960", 
   "ArtistBio": "(American, born 1928)", 
-  "DateAcquired": "1961-10-10", 
-  "\ufeffTitle": "Moon", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81295"
 }

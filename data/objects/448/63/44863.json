@@ -4,21 +4,20 @@
   "Classification": "Photograph", 
   "Artist": "Unknown photographer", 
   "URL": "http://www.moma.org/collection/works/44863", 
-  "CuratorApproved": "Y", 
   "CreditLine": "John Parkinson III Fund", 
-  "Date": "c. 1890", 
-  "ArtistID": 6028, 
+  "DateAcquired": "1991-03-14", 
   "Keywords": [
-    "online art collection", 
     "Unknown Photographer", 
     "Untitled (Shaker Building)", 
     "c", 
     "1890"
   ], 
+  "ArtistID": 6028, 
+  "Title": "Untitled (Shaker Building)", 
   "Department": "Photography", 
   "MoMANumber": "50.1991", 
+  "Date": "c. 1890", 
   "ArtistBio": "", 
-  "DateAcquired": "1991-03-14", 
-  "\ufeffTitle": "Untitled (Shaker Building)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "44863"
 }

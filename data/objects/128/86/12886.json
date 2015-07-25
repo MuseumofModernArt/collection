@@ -4,20 +4,19 @@
   "Classification": "Illustrated Book", 
   "Artist": "Alex Katz", 
   "URL": "http://www.moma.org/collection/works/12886", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Acquired with matching funds from James R. Epstein and the National Endowment for the Arts", 
-  "Date": "1978", 
-  "ArtistID": 3016, 
+  "DateAcquired": "1979-05-01", 
   "Keywords": [
-    "online art collection", 
     "Alex Katz", 
     "Ann Lauterbach from Face of the Poet", 
     "1978"
   ], 
+  "ArtistID": 3016, 
+  "Title": "Ann Lauterbach from Face of the Poet", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "180.1979.6", 
+  "Date": "1978", 
   "ArtistBio": "(American, born 1927)", 
-  "DateAcquired": "1979-05-01", 
-  "\ufeffTitle": "Ann Lauterbach from Face of the Poet", 
+  "CuratorApproved": "Y", 
   "ObjectID": "12886"
 }

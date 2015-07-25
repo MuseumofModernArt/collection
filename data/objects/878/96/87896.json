@@ -4,12 +4,9 @@
   "Classification": "A&D Mies van der Rohe Archive", 
   "Artist": "Lilly Reich", 
   "URL": "http://www.moma.org/collection/works/87896", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Lilly Reich Collection, Mies van der Rohe Archive", 
-  "Date": "1931", 
-  "ArtistID": 8059, 
+  "DateAcquired": "", 
   "Keywords": [
-    "online art collection", 
     "Lilly Reich", 
     "The Dwelling of Our Time", 
     "German Building Exhibition", 
@@ -17,10 +14,12 @@
     "Germany", 
     "1931"
   ], 
+  "ArtistID": 8059, 
+  "Title": "The Dwelling of Our Time, German Building Exhibition, Berlin, Germany (Plan and elevation of interior-finishing-materials exhibit, gallery of Hall II)", 
   "Department": "Architecture & Design", 
   "MoMANumber": "R9.52", 
+  "Date": "1931", 
   "ArtistBio": "(German, 1885\u20131947)", 
-  "DateAcquired": "", 
-  "\ufeffTitle": "The Dwelling of Our Time, German Building Exhibition, Berlin, Germany (Plan and elevation of interior-finishing-materials exhibit, gallery of Hall II)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "87896"
 }

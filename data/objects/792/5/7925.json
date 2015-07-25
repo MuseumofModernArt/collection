@@ -4,22 +4,21 @@
   "Classification": "A&D Graphic Design", 
   "Artist": "W. van Stek", 
   "URL": "http://www.moma.org/collection/works/7925", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Gemeente-Museum, The Hague", 
-  "Date": "1965", 
-  "ArtistID": 6087, 
+  "DateAcquired": "1966-12-06", 
   "Keywords": [
-    "online art collection", 
     "W", 
     "van Stek", 
     "T + T = Taal & Teken", 
     "Haags Gemeente-Museum", 
     "1965"
   ], 
+  "ArtistID": 6087, 
+  "Title": "T + T = Taal & Teken, Haags Gemeente-Museum", 
   "Department": "Architecture & Design", 
   "MoMANumber": "683.1966", 
+  "Date": "1965", 
   "ArtistBio": "(Dutch)", 
-  "DateAcquired": "1966-12-06", 
-  "\ufeffTitle": "T + T = Taal & Teken, Haags Gemeente-Museum", 
+  "CuratorApproved": "Y", 
   "ObjectID": "7925"
 }

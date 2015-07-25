@@ -4,20 +4,19 @@
   "Classification": "A&D Design", 
   "Artist": "Sydney Cash", 
   "URL": "http://www.moma.org/collection/works/4101", 
-  "CuratorApproved": "Y", 
   "CreditLine": "NEA Architecture and Design Purchase Fund and Joseph H. Heil Fund", 
-  "Date": "1981", 
-  "ArtistID": 1010, 
+  "DateAcquired": "1981-12-10", 
   "Keywords": [
-    "online art collection", 
     "Sydney Cash", 
     "Vase", 
     "1981"
   ], 
+  "ArtistID": 1010, 
+  "Title": "Vase", 
   "Department": "Architecture & Design", 
   "MoMANumber": "561.1981", 
+  "Date": "1981", 
   "ArtistBio": "(American, born 1941)", 
-  "DateAcquired": "1981-12-10", 
-  "\ufeffTitle": "Vase", 
+  "CuratorApproved": "Y", 
   "ObjectID": "4101"
 }

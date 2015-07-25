@@ -4,21 +4,20 @@
   "Classification": "A&D Design", 
   "Artist": "Unknown Designer", 
   "URL": "http://www.moma.org/collection/works/3710", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "c. 1940", 
-  "ArtistID": 6011, 
+  "DateAcquired": "1942-01-01", 
   "Keywords": [
-    "online art collection", 
     "Unknown Designer", 
     "Cigaret Case", 
     "c", 
     "1940"
   ], 
+  "ArtistID": 6011, 
+  "Title": "Cigaret Case", 
   "Department": "Architecture & Design", 
   "MoMANumber": "381.1942", 
+  "Date": "c. 1940", 
   "ArtistBio": "(Nationality unknown)", 
-  "DateAcquired": "1942-01-01", 
-  "\ufeffTitle": "Cigaret Case", 
+  "CuratorApproved": "Y", 
   "ObjectID": "3710"
 }

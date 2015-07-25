@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Benjamin Kopman", 
   "URL": "http://www.moma.org/collection/works/78763", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Given anonymously", 
-  "Date": "1930", 
-  "ArtistID": 3216, 
+  "DateAcquired": "1935-06-13", 
   "Keywords": [
-    "online art collection", 
     "Benjamin Kopman", 
     "The Ruin", 
     "1930"
   ], 
+  "ArtistID": 3216, 
+  "Title": "The Ruin", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "98.1935", 
+  "Date": "1930", 
   "ArtistBio": "(American, born Russia. 1887\u20131965)", 
-  "DateAcquired": "1935-06-13", 
-  "\ufeffTitle": "The Ruin", 
+  "CuratorApproved": "Y", 
   "ObjectID": "78763"
 }

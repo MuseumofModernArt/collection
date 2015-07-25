@@ -4,21 +4,20 @@
   "Classification": "Sculpture", 
   "Artist": "Joseph Cornell", 
   "URL": "http://www.moma.org/collection/works/80771", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Katharine Cornell Fund", 
-  "Date": "1950", 
-  "ArtistID": 1247, 
+  "DateAcquired": "1951-01-30", 
   "Keywords": [
-    "online art collection", 
     "Joseph Cornell", 
     "Central Park Carrousel", 
     "in Memoriam", 
     "1950"
   ], 
+  "ArtistID": 1247, 
+  "Title": "Central Park Carrousel, in Memoriam", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "5.1951", 
+  "Date": "1950", 
   "ArtistBio": "(American, 1903\u20131972)", 
-  "DateAcquired": "1951-01-30", 
-  "\ufeffTitle": "Central Park Carrousel, in Memoriam", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80771"
 }

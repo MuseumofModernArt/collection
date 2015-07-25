@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Henri Matisse", 
   "URL": "http://www.moma.org/collection/works/67440", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Abby Aldrich Rockefeller Fund", 
-  "Date": "(1915)", 
-  "ArtistID": 3832, 
+  "DateAcquired": "1951-05-24", 
   "Keywords": [
-    "online art collection", 
     "Henri Matisse", 
     "Margot in a Kimono (Margot en kimono)", 
     "(1915)"
   ], 
+  "ArtistID": 3832, 
+  "Title": "Margot in a Kimono (Margot en kimono)", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "349.1951", 
+  "Date": "(1915)", 
   "ArtistBio": "(French, 1869\u20131954)", 
-  "DateAcquired": "1951-05-24", 
-  "\ufeffTitle": "Margot in a Kimono (Margot en kimono)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "67440"
 }

@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Jacob Epstein", 
   "URL": "http://www.moma.org/collection/works/80743", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Edward M. M. Warburg", 
-  "Date": "1932", 
-  "ArtistID": 1741, 
+  "DateAcquired": "1933-03-24", 
   "Keywords": [
-    "online art collection", 
     "Jacob Epstein", 
     "Oriel Ross", 
     "1932"
   ], 
+  "ArtistID": 1741, 
+  "Title": "Oriel Ross", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "2.1933", 
+  "Date": "1932", 
   "ArtistBio": "(British, born U.S.A. 1880\u20131959)", 
-  "DateAcquired": "1933-03-24", 
-  "\ufeffTitle": "Oriel Ross", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80743"
 }

@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Kiki Smith", 
   "URL": "http://www.moma.org/collection/works/73753", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchased with funds given by Linda Barth Goldstein", 
-  "Date": "1995", 
-  "ArtistID": 5486, 
+  "DateAcquired": "1995-11-13", 
   "Keywords": [
-    "online art collection", 
     "Kiki Smith", 
     "Tattoo Print", 
     "1995"
   ], 
+  "ArtistID": 5486, 
+  "Title": "Tattoo Print", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "746.1995", 
+  "Date": "1995", 
   "ArtistBio": "(American, born Germany 1954)", 
-  "DateAcquired": "1995-11-13", 
-  "\ufeffTitle": "Tattoo Print", 
+  "CuratorApproved": "Y", 
   "ObjectID": "73753"
 }

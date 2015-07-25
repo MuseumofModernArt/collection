@@ -4,12 +4,9 @@
   "Classification": "Painting", 
   "Artist": "Richard Tuttle", 
   "URL": "http://www.moma.org/collection/works/80324", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Emily and Jerry Spiegel and Emily Rauh Pulitzer Funds", 
-  "Date": "1998", 
-  "ArtistID": 5983, 
+  "DateAcquired": "1998-12-07", 
   "Keywords": [
-    "online art collection", 
     "Richard Tuttle", 
     "New Mexico", 
     "New York", 
@@ -17,10 +14,12 @@
     "#13", 
     "1998"
   ], 
+  "ArtistID": 5983, 
+  "Title": "New Mexico, New York, D, #13", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "744.1998", 
+  "Date": "1998", 
   "ArtistBio": "(American, born 1941)", 
-  "DateAcquired": "1998-12-07", 
-  "\ufeffTitle": "New Mexico, New York, D, #13", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80324"
 }

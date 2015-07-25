@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Jeff Koons", 
   "URL": "http://www.moma.org/collection/works/81095", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Werner and Elaine Dannheisser", 
-  "Date": "1988", 
-  "ArtistID": 6622, 
+  "DateAcquired": "1996-04-09", 
   "Keywords": [
-    "online art collection", 
     "Jeff Koons", 
     "Pink Panther", 
     "1988"
   ], 
+  "ArtistID": 6622, 
+  "Title": "Pink Panther", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "187.1996", 
+  "Date": "1988", 
   "ArtistBio": "(American, born 1955)", 
-  "DateAcquired": "1996-04-09", 
-  "\ufeffTitle": "Pink Panther", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81095"
 }

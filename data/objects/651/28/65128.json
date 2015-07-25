@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Susan Rothenberg", 
   "URL": "http://www.moma.org/collection/works/65128", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Emily Fisher Landau", 
-  "Date": "1984", 
-  "ArtistID": 5044, 
+  "DateAcquired": "1984-10-02", 
   "Keywords": [
-    "online art collection", 
     "Susan Rothenberg", 
     "Monkey in a Tree", 
     "1984"
   ], 
+  "ArtistID": 5044, 
+  "Title": "Monkey in a Tree", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "245.1984", 
+  "Date": "1984", 
   "ArtistBio": "(American, born 1945)", 
-  "DateAcquired": "1984-10-02", 
-  "\ufeffTitle": "Monkey in a Tree", 
+  "CuratorApproved": "Y", 
   "ObjectID": "65128"
 }

@@ -4,20 +4,19 @@
   "Classification": "Drawing", 
   "Artist": "Georges Lemmen", 
   "URL": "http://www.moma.org/collection/works/34891", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Abby Aldrich Rockefeller Fund", 
-  "Date": "1890", 
-  "ArtistID": 3476, 
+  "DateAcquired": "1976-03-23", 
   "Keywords": [
-    "online art collection", 
     "Georges Lemmen", 
     "Farmhouse in Flanders", 
     "1890"
   ], 
+  "ArtistID": 3476, 
+  "Title": "Farmhouse in Flanders", 
   "Department": "Drawings", 
   "MoMANumber": "157.1976.a-b", 
+  "Date": "1890", 
   "ArtistBio": "(Belgian, 1865\u20131916)", 
-  "DateAcquired": "1976-03-23", 
-  "\ufeffTitle": "Farmhouse in Flanders", 
+  "CuratorApproved": "Y", 
   "ObjectID": "34891"
 }

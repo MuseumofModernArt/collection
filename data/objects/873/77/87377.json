@@ -4,12 +4,9 @@
   "Classification": "A&D Mies van der Rohe Archive", 
   "Artist": "Ludwig Mies van der Rohe", 
   "URL": "http://www.moma.org/collection/works/87377", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Mies van der Rohe Archive, gift of the architect\r\n", 
-  "Date": "1947", 
-  "ArtistID": 7166, 
+  "DateAcquired": "", 
   "Keywords": [
-    "online art collection", 
     "Ludwig Mies van der Rohe", 
     "Promontory Apartment Building", 
     "Chicago", 
@@ -17,10 +14,12 @@
     "Exterior perspective sketch", 
     "1947"
   ], 
+  "ArtistID": 7166, 
+  "Title": "Promontory Apartment Building, Chicago, Illinois, Exterior perspective sketch", 
   "Department": "Architecture & Design", 
   "MoMANumber": "MR4604.73", 
+  "Date": "1947", 
   "ArtistBio": "(American, born Germany. 1886\u20131969)", 
-  "DateAcquired": "", 
-  "\ufeffTitle": "Promontory Apartment Building, Chicago, Illinois, Exterior perspective sketch", 
+  "CuratorApproved": "Y", 
   "ObjectID": "87377"
 }

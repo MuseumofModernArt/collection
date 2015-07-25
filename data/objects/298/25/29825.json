@@ -4,12 +4,9 @@
   "Classification": "Illustrated Book", 
   "Artist": "Pablo Picasso", 
   "URL": "http://www.moma.org/collection/works/29825", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The Louis E. Stern Collection", 
-  "Date": "1949, published 1950", 
-  "ArtistID": 4609, 
+  "DateAcquired": "1964-10-06", 
   "Keywords": [
-    "online art collection", 
     "Pablo Picasso", 
     "I Perform", 
     "I Insinuate (plate", 
@@ -17,10 +14,12 @@
     "1949", 
     "published 1950"
   ], 
+  "ArtistID": 4609, 
+  "Title": "I Perform, I Insinuate (plate, page 57) from Corps Perdu", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "995.1964.17", 
+  "Date": "1949, published 1950", 
   "ArtistBio": "(Spanish, 1881\u20131973)", 
-  "DateAcquired": "1964-10-06", 
-  "\ufeffTitle": "I Perform, I Insinuate (plate, page 57) from Corps Perdu", 
+  "CuratorApproved": "Y", 
   "ObjectID": "29825"
 }

@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Jean \u00c8ve", 
   "URL": "http://www.moma.org/collection/works/80090", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Mr. and Mrs. Peter A. R\u00fcbel", 
-  "Date": "1930", 
-  "ArtistID": 1778, 
+  "DateAcquired": "1951-12-14", 
   "Keywords": [
-    "online art collection", 
     "Jean &Egrave;ve", 
     "The Cathedral at Mantes", 
     "1930"
   ], 
+  "ArtistID": 1778, 
+  "Title": "The Cathedral at Mantes", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "615.1951", 
+  "Date": "1930", 
   "ArtistBio": "(French, 1900\u20131968)", 
-  "DateAcquired": "1951-12-14", 
-  "\ufeffTitle": "The Cathedral at Mantes", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80090"
 }

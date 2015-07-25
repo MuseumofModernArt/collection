@@ -4,20 +4,19 @@
   "Classification": "Photograph", 
   "Artist": "William Wegman", 
   "URL": "http://www.moma.org/collection/works/79702", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Given anonymously", 
-  "Date": "1973", 
-  "ArtistID": 6281, 
+  "DateAcquired": "1981-11-17", 
   "Keywords": [
-    "online art collection", 
     "William Wegman", 
     "Ray-o-vac", 
     "1973"
   ], 
+  "ArtistID": 6281, 
+  "Title": "Ray-o-vac", 
   "Department": "Photography", 
   "MoMANumber": "434.1981", 
+  "Date": "1973", 
   "ArtistBio": "(American, born 1943)", 
-  "DateAcquired": "1981-11-17", 
-  "\ufeffTitle": "Ray-o-vac", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79702"
 }

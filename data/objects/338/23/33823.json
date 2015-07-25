@@ -4,20 +4,19 @@
   "Classification": "Drawing", 
   "Artist": "Pablo Picasso", 
   "URL": "http://www.moma.org/collection/works/33823", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Louise Reinhardt Smith Bequest", 
-  "Date": "(late 1904)", 
-  "ArtistID": 4609, 
+  "DateAcquired": "1996-03-14", 
   "Keywords": [
-    "online art collection", 
     "Pablo Picasso", 
     "Meditation (Contemplation)", 
     "(late 1904)"
   ], 
+  "ArtistID": 4609, 
+  "Title": "Meditation (Contemplation)", 
   "Department": "Drawings", 
   "MoMANumber": "90.1996", 
+  "Date": "(late 1904)", 
   "ArtistBio": "(Spanish, 1881\u20131973)", 
-  "DateAcquired": "1996-03-14", 
-  "\ufeffTitle": "Meditation (Contemplation)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "33823"
 }

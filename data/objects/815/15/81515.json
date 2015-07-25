@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Robert Morris", 
   "URL": "http://www.moma.org/collection/works/81515", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Philip Johnson", 
-  "Date": "1968", 
-  "ArtistID": 4108, 
+  "DateAcquired": "1984-12-11", 
   "Keywords": [
-    "online art collection", 
     "Robert Morris", 
     "(Untitled)", 
     "1968"
   ], 
+  "ArtistID": 4108, 
+  "Title": "(Untitled)", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "504.1984", 
+  "Date": "1968", 
   "ArtistBio": "(American, born 1931)", 
-  "DateAcquired": "1984-12-11", 
-  "\ufeffTitle": "(Untitled)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81515"
 }

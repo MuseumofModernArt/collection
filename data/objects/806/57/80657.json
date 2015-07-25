@@ -4,21 +4,20 @@
   "Classification": "Painting", 
   "Artist": "Francis Picabia", 
   "URL": "http://www.moma.org/collection/works/80657", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Eugene and Agnes E. Meyer Collection, given by their family", 
-  "Date": "c. June-July 1914", 
-  "ArtistID": 4607, 
+  "DateAcquired": "1975-02-11", 
   "Keywords": [
-    "online art collection", 
     "Francis Picabia", 
     "This Has to Do with Me", 
     "c", 
     "June-July 1914"
   ], 
+  "ArtistID": 4607, 
+  "Title": "This Has to Do with Me", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "1410.1974", 
+  "Date": "c. June-July 1914", 
   "ArtistBio": "(French, 1879\u20131953)", 
-  "DateAcquired": "1975-02-11", 
-  "\ufeffTitle": "This Has to Do with Me", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80657"
 }

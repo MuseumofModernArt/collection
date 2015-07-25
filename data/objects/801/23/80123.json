@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Fernand L\u00e9ger", 
   "URL": "http://www.moma.org/collection/works/80123", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The Sidney and Harriet Janis Collection", 
-  "Date": "1918", 
-  "ArtistID": 6624, 
+  "DateAcquired": "1967-10-18", 
   "Keywords": [
-    "online art collection", 
     "Fernand L&eacute;ger", 
     "Bargeman", 
     "1918"
   ], 
+  "ArtistID": 6624, 
+  "Title": "Bargeman", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "625.1967", 
+  "Date": "1918", 
   "ArtistBio": "(French, 1881\u20131955)", 
-  "DateAcquired": "1967-10-18", 
-  "\ufeffTitle": "Bargeman", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80123"
 }

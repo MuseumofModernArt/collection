@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Georgia O'Keeffe", 
   "URL": "http://www.moma.org/collection/works/78978", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Acquired through the Richard D. Brixey Bequest", 
-  "Date": "October 1929", 
-  "ArtistID": 4360, 
+  "DateAcquired": "1945-04-26", 
   "Keywords": [
-    "online art collection", 
     "Georgia O'Keeffe", 
     "Farmhouse Window and Door", 
     "October 1929"
   ], 
+  "ArtistID": 4360, 
+  "Title": "Farmhouse Window and Door", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "144.1945", 
+  "Date": "October 1929", 
   "ArtistBio": "(American, 1887\u20131986)", 
-  "DateAcquired": "1945-04-26", 
-  "\ufeffTitle": "Farmhouse Window and Door", 
+  "CuratorApproved": "Y", 
   "ObjectID": "78978"
 }

@@ -4,22 +4,21 @@
   "Classification": "Photograph", 
   "Artist": "Garry Winogrand", 
   "URL": "http://www.moma.org/collection/works/55886", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1970", 
-  "ArtistID": 6399, 
+  "DateAcquired": "1977-12-15", 
   "Keywords": [
-    "online art collection", 
     "Garry Winogrand", 
     "Kent State Demonstration", 
     "Washington", 
     "D,C", 
     "1970"
   ], 
+  "ArtistID": 6399, 
+  "Title": "Kent State Demonstration, Washington, D.C.", 
   "Department": "Photography", 
   "MoMANumber": "659.1977", 
+  "Date": "1970", 
   "ArtistBio": "(American, 1928\u20131984)", 
-  "DateAcquired": "1977-12-15", 
-  "\ufeffTitle": "Kent State Demonstration, Washington, D.C.", 
+  "CuratorApproved": "Y", 
   "ObjectID": "55886"
 }

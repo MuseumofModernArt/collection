@@ -4,12 +4,9 @@
   "Classification": "A&D Architectural Drawing", 
   "Artist": "Erik Gunnar Asplund", 
   "URL": "http://www.moma.org/collection/works/134", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Frederieke Taylor and purchase", 
-  "Date": "1930", 
-  "ArtistID": 27, 
+  "DateAcquired": "1990-01-17", 
   "Keywords": [
-    "online art collection", 
     "Erik Gunnar Asplund", 
     "Stockholm Exhibition", 
     "Stockholm", 
@@ -17,10 +14,12 @@
     "Elevation of advertising tower", 
     "1930"
   ], 
+  "ArtistID": 27, 
+  "Title": "Stockholm Exhibition, Stockholm, Sweden, Elevation of advertising tower", 
   "Department": "Architecture & Design", 
   "MoMANumber": "49.1990", 
+  "Date": "1930", 
   "ArtistBio": "(Swedish, 1885\u20131940)", 
-  "DateAcquired": "1990-01-17", 
-  "\ufeffTitle": "Stockholm Exhibition, Stockholm, Sweden, Elevation of advertising tower", 
+  "CuratorApproved": "Y", 
   "ObjectID": "134"
 }

@@ -4,21 +4,20 @@
   "Classification": "A&D Graphic Design", 
   "Artist": "Dick Elffers", 
   "URL": "http://www.moma.org/collection/works/7762", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Dr. W.J.H.B. Sandberg", 
-  "Date": "1949", 
-  "ArtistID": 1713, 
+  "DateAcquired": "1951-11-21", 
   "Keywords": [
-    "online art collection", 
     "Dick Elffers", 
     "Expressionisme", 
     "van van Gogh tot Picasso", 
     "1949"
   ], 
+  "ArtistID": 1713, 
+  "Title": "Expressionisme, van van Gogh tot Picasso", 
   "Department": "Architecture & Design", 
   "MoMANumber": "618.1951", 
+  "Date": "1949", 
   "ArtistBio": "(Dutch, 1910\u20131990)", 
-  "DateAcquired": "1951-11-21", 
-  "\ufeffTitle": "Expressionisme, van van Gogh tot Picasso", 
+  "CuratorApproved": "Y", 
   "ObjectID": "7762"
 }

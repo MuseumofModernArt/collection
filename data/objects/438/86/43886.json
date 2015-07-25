@@ -4,12 +4,9 @@
   "Classification": "Photograph", 
   "Artist": "Berenice Abbott", 
   "URL": "http://www.moma.org/collection/works/43886", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The Parkinson Fund", 
-  "Date": "October 24, 1935", 
-  "ArtistID": 41, 
+  "DateAcquired": "1971-01-05", 
   "Keywords": [
-    "online art collection", 
     "Berenice Abbott", 
     "Blossom Restaurant", 
     "103 Bowery", 
@@ -17,10 +14,12 @@
     "October 24", 
     "1935"
   ], 
+  "ArtistID": 41, 
+  "Title": "Blossom Restaurant, 103 Bowery, Manhattan", 
   "Department": "Photography", 
   "MoMANumber": "3.1971", 
+  "Date": "October 24, 1935", 
   "ArtistBio": "(American, 1898\u20131991)", 
-  "DateAcquired": "1971-01-05", 
-  "\ufeffTitle": "Blossom Restaurant, 103 Bowery, Manhattan", 
+  "CuratorApproved": "Y", 
   "ObjectID": "43886"
 }

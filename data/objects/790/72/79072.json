@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Andy Warhol", 
   "URL": "http://www.moma.org/collection/works/79072", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the Andy Warhol Foundation for the Visual Arts", 
-  "Date": "1986", 
-  "ArtistID": 6246, 
+  "DateAcquired": "1994-03-07", 
   "Keywords": [
-    "online art collection", 
     "Andy Warhol", 
     "The Last Supper", 
     "1986"
   ], 
+  "ArtistID": 6246, 
+  "Title": "The Last Supper", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "186.1994", 
+  "Date": "1986", 
   "ArtistBio": "(American, 1928\u20131987)", 
-  "DateAcquired": "1994-03-07", 
-  "\ufeffTitle": "The Last Supper", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79072"
 }

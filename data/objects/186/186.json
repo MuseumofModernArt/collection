@@ -4,12 +4,9 @@
   "Classification": "A&D Architectural Drawing", 
   "Artist": "Erich Mendelsohn", 
   "URL": "http://www.moma.org/collection/works/186", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Milton Scheingarten", 
-  "Date": "1936", 
-  "ArtistID": 8219, 
+  "DateAcquired": "2000-01-19", 
   "Keywords": [
-    "online art collection", 
     "Erich Mendelsohn", 
     "Hadassah University Medical Center", 
     "Mount Scopus", 
@@ -18,10 +15,12 @@
     "Perspectives and elevation", 
     "1936"
   ], 
+  "ArtistID": 8219, 
+  "Title": "Hadassah University Medical Center , Mount Scopus, Jerusalem, Israel , Perspectives and elevation", 
   "Department": "Architecture & Design", 
   "MoMANumber": "95.2000", 
+  "Date": "1936", 
   "ArtistBio": "(American, born Germany (now Poland). 1887\u20131953)", 
-  "DateAcquired": "2000-01-19", 
-  "\ufeffTitle": "Hadassah University Medical Center , Mount Scopus, Jerusalem, Israel , Perspectives and elevation", 
+  "CuratorApproved": "Y", 
   "ObjectID": "186"
 }

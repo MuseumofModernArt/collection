@@ -4,20 +4,19 @@
   "Classification": "A&D Graphic Design", 
   "Artist": "Mauricio Amster", 
   "URL": "http://www.moma.org/collection/works/5851", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1937", 
-  "ArtistID": 154, 
+  "DateAcquired": "1937-12-03", 
   "Keywords": [
-    "online art collection", 
     "Mauricio Amster", 
     "Las Milicias de la Cultura Luchan Contra el Fascismo Combatiendo la Ignorancia", 
     "1937"
   ], 
+  "ArtistID": 154, 
+  "Title": "Las Milicias de la Cultura Luchan Contra el Fascismo Combatiendo la Ignorancia", 
   "Department": "Architecture & Design", 
   "MoMANumber": "251.1937", 
+  "Date": "1937", 
   "ArtistBio": "(Spanish)", 
-  "DateAcquired": "1937-12-03", 
-  "\ufeffTitle": "Las Milicias de la Cultura Luchan Contra el Fascismo Combatiendo la Ignorancia", 
+  "CuratorApproved": "Y", 
   "ObjectID": "5851"
 }

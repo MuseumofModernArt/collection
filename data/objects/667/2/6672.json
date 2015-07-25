@@ -4,20 +4,19 @@
   "Classification": "A&D Graphic Design", 
   "Artist": "John Massey", 
   "URL": "http://www.moma.org/collection/works/6672", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the artist", 
-  "Date": "1980", 
-  "ArtistID": 3819, 
+  "DateAcquired": "1982-10-27", 
   "Keywords": [
-    "online art collection", 
     "John Massey", 
     "Boston Waterfront", 
     "1980"
   ], 
+  "ArtistID": 3819, 
+  "Title": "Boston Waterfront", 
   "Department": "Architecture & Design", 
   "MoMANumber": "418.1982", 
+  "Date": "1980", 
   "ArtistBio": "(American, born 1931)", 
-  "DateAcquired": "1982-10-27", 
-  "\ufeffTitle": "Boston Waterfront", 
+  "CuratorApproved": "Y", 
   "ObjectID": "6672"
 }

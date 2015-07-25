@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Lovis Corinth", 
   "URL": "http://www.moma.org/collection/works/64787", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Given anonymously", 
-  "Date": "1895", 
-  "ArtistID": 1243, 
+  "DateAcquired": "1952-11-07", 
   "Keywords": [
-    "online art collection", 
     "Lovis Corinth", 
     "Bacchanal (Bacchantenzug)", 
     "1895"
   ], 
+  "ArtistID": 1243, 
+  "Title": "Bacchanal (Bacchantenzug)", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "229.1952", 
+  "Date": "1895", 
   "ArtistBio": "(German, 1858\u20131925)", 
-  "DateAcquired": "1952-11-07", 
-  "\ufeffTitle": "Bacchanal (Bacchantenzug)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "64787"
 }

@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "C\u00e9sar (C\u00e9sar Baldaccini)", 
   "URL": "http://www.moma.org/collection/works/81311", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Mr. and Mrs. John Rewald", 
-  "Date": "1961", 
-  "ArtistID": 1052, 
+  "DateAcquired": "1961-11-08", 
   "Keywords": [
-    "online art collection", 
     "C&eacute;sar", 
     "The Yellow Buick", 
     "1961"
   ], 
+  "ArtistID": 1052, 
+  "Title": "The Yellow Buick", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "294.1961", 
+  "Date": "1961", 
   "ArtistBio": "(French, 1921\u20131998)", 
-  "DateAcquired": "1961-11-08", 
-  "\ufeffTitle": "The Yellow Buick", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81311"
 }

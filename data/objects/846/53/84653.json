@@ -4,21 +4,20 @@
   "Classification": "Drawing", 
   "Artist": "Marc Chagall", 
   "URL": "http://www.moma.org/collection/works/84653", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Acquired through the Lillie P. Bliss Bequest", 
-  "Date": "(1942)", 
-  "ArtistID": 1055, 
+  "DateAcquired": "1945-04-26", 
   "Keywords": [
-    "online art collection", 
     "Marc Chagall", 
     "Aleko", 
     "costume design for Aleko (Scene I)", 
     "(1942)"
   ], 
+  "ArtistID": 1055, 
+  "Title": "Aleko, costume design for Aleko (Scene I)", 
   "Department": "Drawings", 
   "MoMANumber": "137.1945.7", 
+  "Date": "(1942)", 
   "ArtistBio": "(French, born Belarus. 1887\u20131985)", 
-  "DateAcquired": "1945-04-26", 
-  "\ufeffTitle": "Aleko, costume design for Aleko (Scene I)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "84653"
 }

@@ -4,21 +4,20 @@
   "Classification": "Photograph", 
   "Artist": "Sam Falk/The New York Times", 
   "URL": "http://www.moma.org/collection/works/58586", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The New York Times Collection", 
-  "Date": "June 21, 1942", 
-  "ArtistID": 8536, 
+  "DateAcquired": "2001-06-14", 
   "Keywords": [
-    "online art collection", 
     "Sam Falk/The New York Times", 
     "On the Sidewalks of New York", 
     "June 21", 
     "1942"
   ], 
+  "ArtistID": 8536, 
+  "Title": "On the Sidewalks of New York", 
   "Department": "Photography", 
   "MoMANumber": "1993.2001", 
+  "Date": "June 21, 1942", 
   "ArtistBio": "(American, 1901\u20131991)", 
-  "DateAcquired": "2001-06-14", 
-  "\ufeffTitle": "On the Sidewalks of New York", 
+  "CuratorApproved": "Y", 
   "ObjectID": "58586"
 }

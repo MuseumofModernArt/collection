@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Susan Rothenberg", 
   "URL": "http://www.moma.org/collection/works/100308", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Edward R. Broida", 
-  "Date": "1976", 
-  "ArtistID": 5044, 
+  "DateAcquired": "2005-10-06", 
   "Keywords": [
-    "online art collection", 
     "Susan Rothenberg", 
     "Black in Place", 
     "1976"
   ], 
+  "ArtistID": 5044, 
+  "Title": "Black in Place", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "770.2005", 
+  "Date": "1976", 
   "ArtistBio": "(American, born 1945)", 
-  "DateAcquired": "2005-10-06", 
-  "\ufeffTitle": "Black in Place", 
+  "CuratorApproved": "Y", 
   "ObjectID": "100308"
 }

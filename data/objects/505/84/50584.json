@@ -4,21 +4,20 @@
   "Classification": "Photograph", 
   "Artist": "Brian Rose", 
   "URL": "http://www.moma.org/collection/works/50584", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Leonore K. Scheffer, Mickey Beyer, and Andrew and Elise Jaffe Brownstein in memory of Eugene M. Schwartz", 
-  "Date": "1991", 
-  "ArtistID": 5017, 
+  "DateAcquired": "1996-06-13", 
   "Keywords": [
-    "online art collection", 
     "Brian Rose", 
     "Bernauer Strasse", 
     "Berlin", 
     "1991"
   ], 
+  "ArtistID": 5017, 
+  "Title": "Bernauer Strasse, Berlin", 
   "Department": "Photography", 
   "MoMANumber": "315.1996.x1-x2", 
+  "Date": "1991", 
   "ArtistBio": "(American, born 1954)", 
-  "DateAcquired": "1996-06-13", 
-  "\ufeffTitle": "Bernauer Strasse, Berlin", 
+  "CuratorApproved": "Y", 
   "ObjectID": "50584"
 }

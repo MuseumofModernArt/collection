@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Max Beckmann", 
   "URL": "http://www.moma.org/collection/works/69605", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Abby Aldrich Rockefeller Fund", 
-  "Date": "(1911)", 
-  "ArtistID": 429, 
+  "DateAcquired": "1949-10-13", 
   "Keywords": [
-    "online art collection", 
     "Max Beckmann", 
     "Self-Portrait (Selbstbildnis)", 
     "(1911)"
   ], 
+  "ArtistID": 429, 
+  "Title": "Self-Portrait (Selbstbildnis)", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "464.1949", 
+  "Date": "(1911)", 
   "ArtistBio": "(German, 1884\u20131950)", 
-  "DateAcquired": "1949-10-13", 
-  "\ufeffTitle": "Self-Portrait (Selbstbildnis)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "69605"
 }

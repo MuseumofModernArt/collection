@@ -4,21 +4,20 @@
   "Classification": "Photograph", 
   "Artist": "Jack Manning", 
   "URL": "http://www.moma.org/collection/works/58634", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The New York Times Collection", 
-  "Date": "August 9, 1968", 
-  "ArtistID": 3732, 
+  "DateAcquired": "2001-06-14", 
   "Keywords": [
-    "online art collection", 
     "Jack Manning", 
     "\"Man Leaps from Ships Mast\"", 
     "August 9", 
     "1968"
   ], 
+  "ArtistID": 3732, 
+  "Title": "\"Man Leaps from Ships Mast\"", 
   "Department": "Photography", 
   "MoMANumber": "2041.2001", 
+  "Date": "August 9, 1968", 
   "ArtistBio": "(American, 1920\u20132001)", 
-  "DateAcquired": "2001-06-14", 
-  "\ufeffTitle": "\"Man Leaps from Ships Mast\"", 
+  "CuratorApproved": "Y", 
   "ObjectID": "58634"
 }

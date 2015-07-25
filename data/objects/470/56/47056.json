@@ -4,20 +4,19 @@
   "Classification": "Photograph", 
   "Artist": "Larry Fink", 
   "URL": "http://www.moma.org/collection/works/47056", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1962", 
-  "ArtistID": 1877, 
+  "DateAcquired": "1984-05-17", 
   "Keywords": [
-    "online art collection", 
     "Larry Fink", 
     "Before the Confirmation", 
     "1962"
   ], 
+  "ArtistID": 1877, 
+  "Title": "Before the Confirmation", 
   "Department": "Photography", 
   "MoMANumber": "160.1984", 
+  "Date": "1962", 
   "ArtistBio": "(American, born 1941)", 
-  "DateAcquired": "1984-05-17", 
-  "\ufeffTitle": "Before the Confirmation", 
+  "CuratorApproved": "Y", 
   "ObjectID": "47056"
 }

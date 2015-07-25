@@ -4,21 +4,20 @@
   "Classification": "Print", 
   "Artist": "Pierre Bonnard", 
   "URL": "http://www.moma.org/collection/works/63378", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Mrs. Bliss Parkinson", 
-  "Date": "c. 1897", 
-  "ArtistID": 665, 
+  "DateAcquired": "1957-10-09", 
   "Keywords": [
-    "online art collection", 
     "Pierre Bonnard", 
     "Child with Lamp (L'enfant &agrave; la lampe)", 
     "c", 
     "1897"
   ], 
+  "ArtistID": 665, 
+  "Title": "Child with Lamp (L'enfant \u00e0 la lampe)", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "164.1957", 
+  "Date": "c. 1897", 
   "ArtistBio": "(French, 1867\u20131947)", 
-  "DateAcquired": "1957-10-09", 
-  "\ufeffTitle": "Child with Lamp (L'enfant \u00e0 la lampe)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "63378"
 }

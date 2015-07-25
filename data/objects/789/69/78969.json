@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Fernand L\u00e9ger", 
   "URL": "http://www.moma.org/collection/works/78969", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Acquired through the Lillie P. Bliss Bequest", 
-  "Date": "1945", 
-  "ArtistID": 6624, 
+  "DateAcquired": "1945-04-26", 
   "Keywords": [
-    "online art collection", 
     "Fernand L&eacute;ger", 
     "Big Julie", 
     "1945"
   ], 
+  "ArtistID": 6624, 
+  "Title": "Big Julie", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "141.1945", 
+  "Date": "1945", 
   "ArtistBio": "(French, 1881\u20131955)", 
-  "DateAcquired": "1945-04-26", 
-  "\ufeffTitle": "Big Julie", 
+  "CuratorApproved": "Y", 
   "ObjectID": "78969"
 }

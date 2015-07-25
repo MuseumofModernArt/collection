@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Max Beckmann", 
   "URL": "http://www.moma.org/collection/works/66642", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Abby Aldrich Rockefeller Fund", 
-  "Date": "1922", 
-  "ArtistID": 429, 
+  "DateAcquired": "1951-05-24", 
   "Keywords": [
-    "online art collection", 
     "Max Beckmann", 
     "Tavern (Kaschemme) from Trip to Berlin 1922 (Berliner Reise 1922)", 
     "(1922)"
   ], 
+  "ArtistID": 429, 
+  "Title": "Tavern (Kaschemme) from Trip to Berlin 1922 (Berliner Reise 1922)", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "310.1951.3", 
+  "Date": "1922", 
   "ArtistBio": "(German, 1884\u20131950)", 
-  "DateAcquired": "1951-05-24", 
-  "\ufeffTitle": "Tavern (Kaschemme) from Trip to Berlin 1922 (Berliner Reise 1922)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "66642"
 }

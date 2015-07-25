@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Elizabeth Murray", 
   "URL": "http://www.moma.org/collection/works/79345", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Acquired through the Bernhill Fund and gift of Agnes Gund", 
-  "Date": "spring 1981", 
-  "ArtistID": 4185, 
+  "DateAcquired": "1983-02-14", 
   "Keywords": [
-    "online art collection", 
     "Elizabeth Murray", 
     "Painters Progress", 
     "spring 1981"
   ], 
+  "ArtistID": 4185, 
+  "Title": "Painters Progress", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "271.1983.a-s", 
+  "Date": "spring 1981", 
   "ArtistBio": "(American, 1940\u20132007)", 
-  "DateAcquired": "1983-02-14", 
-  "\ufeffTitle": "Painters Progress", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79345"
 }

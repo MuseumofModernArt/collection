@@ -4,12 +4,9 @@
   "Classification": "Photograph", 
   "Artist": "Robert Adams", 
   "URL": "http://www.moma.org/collection/works/57165", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Bequest of Arthur M. Bullowa", 
-  "Date": "1978", 
-  "ArtistID": 66, 
+  "DateAcquired": "1996-12-10", 
   "Keywords": [
-    "online art collection", 
     "Robert Adams", 
     "Santa Ana Wash", 
     "Next to Norton Air Force Base", 
@@ -17,10 +14,12 @@
     "California", 
     "1978"
   ], 
+  "ArtistID": 66, 
+  "Title": "Santa Ana Wash, Next to Norton Air Force Base. San Bernardino County, California", 
   "Department": "Photography", 
   "MoMANumber": "861.1996", 
+  "Date": "1978", 
   "ArtistBio": "(American, born 1937)", 
-  "DateAcquired": "1996-12-10", 
-  "\ufeffTitle": "Santa Ana Wash, Next to Norton Air Force Base. San Bernardino County, California", 
+  "CuratorApproved": "Y", 
   "ObjectID": "57165"
 }

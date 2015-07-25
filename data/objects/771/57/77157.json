@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Diego Rivera", 
   "URL": "http://www.moma.org/collection/works/77157", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Abby Aldrich Rockefeller", 
-  "Date": "1930", 
-  "ArtistID": 4942, 
+  "DateAcquired": "1940-04-05", 
   "Keywords": [
-    "online art collection", 
     "Diego Rivera", 
     "Market", 
     "1930"
   ], 
+  "ArtistID": 4942, 
+  "Title": "Market", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "1559.1940", 
+  "Date": "1930", 
   "ArtistBio": "(Mexican, 1886\u20131957)", 
-  "DateAcquired": "1940-04-05", 
-  "\ufeffTitle": "Market", 
+  "CuratorApproved": "Y", 
   "ObjectID": "77157"
 }

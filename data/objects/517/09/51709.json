@@ -4,21 +4,20 @@
   "Classification": "Photograph", 
   "Artist": "Anne W. Brigman", 
   "URL": "http://www.moma.org/collection/works/51709", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Mrs. B. S. Sexton in memory of her sister, Margaret DeM. Brown", 
-  "Date": "1912", 
-  "ArtistID": 777, 
+  "DateAcquired": "1961-11-08", 
   "Keywords": [
-    "online art collection", 
     "Anne W", 
     "Brigman", 
     "The Wind Harp", 
     "1912"
   ], 
+  "ArtistID": 777, 
+  "Title": "The Wind Harp", 
   "Department": "Photography", 
   "MoMANumber": "359.1961", 
+  "Date": "1912", 
   "ArtistBio": "(American, born Hawaii. 1869\u20131950)", 
-  "DateAcquired": "1961-11-08", 
-  "\ufeffTitle": "The Wind Harp", 
+  "CuratorApproved": "Y", 
   "ObjectID": "51709"
 }

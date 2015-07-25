@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Gaston Lachaise", 
   "URL": "http://www.moma.org/collection/works/81218", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Given anonymously (by exchange)", 
-  "Date": "1924 (cast 1964)", 
-  "ArtistID": 3332, 
+  "DateAcquired": "1966-05-10", 
   "Keywords": [
-    "online art collection", 
     "Gaston Lachaise", 
     "The Mountain", 
     "1924 (cast 1964)"
   ], 
+  "ArtistID": 3332, 
+  "Title": "The Mountain", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "252.1966", 
+  "Date": "1924 (cast 1964)", 
   "ArtistBio": "(American, born France. 1882\u20131935)", 
-  "DateAcquired": "1966-05-10", 
-  "\ufeffTitle": "The Mountain", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81218"
 }

@@ -4,21 +4,20 @@
   "Classification": "Painting", 
   "Artist": "Francis Picabia", 
   "URL": "http://www.moma.org/collection/works/80656", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Eugene and Agnes E. Meyer Collection, given by their family", 
-  "Date": "c. June-July 1914", 
-  "ArtistID": 4607, 
+  "DateAcquired": "1975-02-11", 
   "Keywords": [
-    "online art collection", 
     "Francis Picabia", 
     "Comic Wedlock", 
     "c", 
     "June-July 1914"
   ], 
+  "ArtistID": 4607, 
+  "Title": "Comic Wedlock", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "1409.1974", 
+  "Date": "c. June-July 1914", 
   "ArtistBio": "(French, 1879\u20131953)", 
-  "DateAcquired": "1975-02-11", 
-  "\ufeffTitle": "Comic Wedlock", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80656"
 }

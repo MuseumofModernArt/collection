@@ -4,22 +4,21 @@
   "Classification": "Painting", 
   "Artist": "Odilon Redon", 
   "URL": "http://www.moma.org/collection/works/79224", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of The Ian Woodner Family Collection", 
-  "Date": "c. 1875", 
-  "ArtistID": 4840, 
+  "DateAcquired": "2000-04-10", 
   "Keywords": [
-    "online art collection", 
     "Odilon Redon", 
     "Landscape with Rocks", 
     "near Royan", 
     "c", 
     "1875"
   ], 
+  "ArtistID": 4840, 
+  "Title": "Landscape with Rocks, near Royan", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "235.2000", 
+  "Date": "c. 1875", 
   "ArtistBio": "(French, 1840\u20131916)", 
-  "DateAcquired": "2000-04-10", 
-  "\ufeffTitle": "Landscape with Rocks, near Royan", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79224"
 }

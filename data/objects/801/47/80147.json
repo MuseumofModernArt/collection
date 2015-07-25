@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Fernand L\u00e9ger", 
   "URL": "http://www.moma.org/collection/works/80147", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Nina and Gordon Bunshaft Bequest", 
-  "Date": "1925", 
-  "ArtistID": 6624, 
+  "DateAcquired": "1994-12-08", 
   "Keywords": [
-    "online art collection", 
     "Fernand L&eacute;ger", 
     "The Mirror", 
     "1925"
   ], 
+  "ArtistID": 6624, 
+  "Title": "The Mirror", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "633.1994", 
+  "Date": "1925", 
   "ArtistBio": "(French, 1881\u20131955)", 
-  "DateAcquired": "1994-12-08", 
-  "\ufeffTitle": "The Mirror", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80147"
 }

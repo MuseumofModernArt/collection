@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Franz Kline", 
   "URL": "http://www.moma.org/collection/works/79234", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Mr. and Mrs. Joseph H. Hazen and Mr. and Mrs. Francis F. Rosenbaum Funds", 
-  "Date": "1954", 
-  "ArtistID": 3148, 
+  "DateAcquired": "1969-03-11", 
   "Keywords": [
-    "online art collection", 
     "Franz Kline", 
     "Painting Number 2", 
     "1954"
   ], 
+  "ArtistID": 3148, 
+  "Title": "Painting Number 2", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "236.1969", 
+  "Date": "1954", 
   "ArtistBio": "(American, 1910\u20131962)", 
-  "DateAcquired": "1969-03-11", 
-  "\ufeffTitle": "Painting Number 2", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79234"
 }

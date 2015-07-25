@@ -4,20 +4,19 @@
   "Classification": "Drawing", 
   "Artist": "Pablo Picasso", 
   "URL": "http://www.moma.org/collection/works/33843", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Louise Reinhardt Smith Bequest", 
-  "Date": "(1933)", 
-  "ArtistID": 4609, 
+  "DateAcquired": "1996-02-14", 
   "Keywords": [
-    "online art collection", 
     "Pablo Picasso", 
     "The Balcony", 
     "(1933)"
   ], 
+  "ArtistID": 4609, 
+  "Title": "The Balcony", 
   "Department": "Drawings", 
   "MoMANumber": "92.1996", 
+  "Date": "(1933)", 
   "ArtistBio": "(Spanish, 1881\u20131973)", 
-  "DateAcquired": "1996-02-14", 
-  "\ufeffTitle": "The Balcony", 
+  "CuratorApproved": "Y", 
   "ObjectID": "33843"
 }

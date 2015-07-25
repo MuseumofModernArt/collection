@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Robert Ryman", 
   "URL": "http://www.moma.org/collection/works/78950", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Mrs. Frank Y. Larkin and Mr. and Mrs. Gerrit Lansing Funds", 
-  "Date": "1961", 
-  "ArtistID": 5098, 
+  "DateAcquired": "1985-04-08", 
   "Keywords": [
-    "online art collection", 
     "Robert Ryman", 
     "Untitled", 
     "1961"
   ], 
+  "ArtistID": 5098, 
+  "Title": "Untitled", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "135.1985", 
+  "Date": "1961", 
   "ArtistBio": "(American, born 1930)", 
-  "DateAcquired": "1985-04-08", 
-  "\ufeffTitle": "Untitled", 
+  "CuratorApproved": "Y", 
   "ObjectID": "78950"
 }

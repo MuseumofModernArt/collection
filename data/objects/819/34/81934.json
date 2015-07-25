@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Jean Gorin", 
   "URL": "http://www.moma.org/collection/works/81934", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The Riklis Collection of McCrory Corporation", 
-  "Date": "1937", 
-  "ArtistID": 2250, 
+  "DateAcquired": "1985-10-25", 
   "Keywords": [
-    "online art collection", 
     "Jean Gorin", 
     "Relief-Composition", 
     "1937"
   ], 
+  "ArtistID": 2250, 
+  "Title": "Relief-Composition", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "1013.1983", 
+  "Date": "1937", 
   "ArtistBio": "(French, 1899\u20131981)", 
-  "DateAcquired": "1985-10-25", 
-  "\ufeffTitle": "Relief-Composition", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81934"
 }

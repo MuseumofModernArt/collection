@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Alexandra Exter", 
   "URL": "http://www.moma.org/collection/works/80470", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The Riklis Collection of McCrory Corporation", 
-  "Date": "1922-23", 
-  "ArtistID": 1784, 
+  "DateAcquired": "1983-10-25", 
   "Keywords": [
-    "online art collection", 
     "Alexandra Exter", 
     "Construction", 
     "1922-23"
   ], 
+  "ArtistID": 1784, 
+  "Title": "Construction", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "1006.1983", 
+  "Date": "1922-23", 
   "ArtistBio": "(Russian, 1882\u20131949)", 
-  "DateAcquired": "1983-10-25", 
-  "\ufeffTitle": "Construction", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80470"
 }

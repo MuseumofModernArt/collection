@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Joseph Kosuth", 
   "URL": "http://www.moma.org/collection/works/81435", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Larry Aldrich Foundation Fund", 
-  "Date": "1965", 
-  "ArtistID": 3228, 
+  "DateAcquired": "1978-03-09", 
   "Keywords": [
-    "online art collection", 
     "Joseph Kosuth", 
     "One and Three Chairs", 
     "1965"
   ], 
+  "ArtistID": 3228, 
+  "Title": "One and Three Chairs", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "393.1970.a-c", 
+  "Date": "1965", 
   "ArtistBio": "(American, born 1945)", 
-  "DateAcquired": "1978-03-09", 
-  "\ufeffTitle": "One and Three Chairs", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81435"
 }

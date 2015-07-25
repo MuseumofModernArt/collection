@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Gwen John", 
   "URL": "http://www.moma.org/collection/works/79663", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Mary Anderson Conroy Bequest in memory of her mother, Julia Quinn Anderson", 
-  "Date": "1911", 
-  "ArtistID": 2921, 
+  "DateAcquired": "1971-05-11", 
   "Keywords": [
-    "online art collection", 
     "Gwen John", 
     "Girl Reading at a Window", 
     "1911"
   ], 
+  "ArtistID": 2921, 
+  "Title": "Girl Reading at a Window", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "421.1971", 
+  "Date": "1911", 
   "ArtistBio": "(British, 1876\u20131939)", 
-  "DateAcquired": "1971-05-11", 
-  "\ufeffTitle": "Girl Reading at a Window", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79663"
 }

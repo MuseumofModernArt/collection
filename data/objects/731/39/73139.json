@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Karl Schmidt-Rottluff", 
   "URL": "http://www.moma.org/collection/works/73139", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Given anonymously", 
-  "Date": "1909", 
-  "ArtistID": 5242, 
+  "DateAcquired": "1943-11-04", 
   "Keywords": [
-    "online art collection", 
     "Karl Schmidt-Rottluff", 
     "The Sound (Das Wattenmeer)", 
     "1909"
   ], 
+  "ArtistID": 5242, 
+  "Title": "The Sound (Das Wattenmeer)", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "686.1943", 
+  "Date": "1909", 
   "ArtistBio": "(German, 1884\u20131976)", 
-  "DateAcquired": "1943-11-04", 
-  "\ufeffTitle": "The Sound (Das Wattenmeer)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "73139"
 }

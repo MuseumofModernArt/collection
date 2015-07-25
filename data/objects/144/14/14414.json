@@ -4,12 +4,9 @@
   "Classification": "Illustrated Book", 
   "Artist": "Oskar Kokoschka", 
   "URL": "http://www.moma.org/collection/works/14414", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Abby Aldrich Rockefeller Fund", 
-  "Date": "1926 (prints executed 1925/26)", 
-  "ArtistID": 3197, 
+  "DateAcquired": "1952-11-07", 
   "Keywords": [
-    "online art collection", 
     "Oskar Kokoschka", 
     "Geh", 
     "mach die T&uuml;r zu", 
@@ -17,10 +14,12 @@
     "There Is a Draft!)", 
     "1926 (prints executed 1925/26)"
   ], 
+  "ArtistID": 3197, 
+  "Title": "Geh, mach die T\u00fcr zu, es zieht! (Close the Door Will You, There Is a Draft!)", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "271.1952.1-2", 
+  "Date": "1926 (prints executed 1925/26)", 
   "ArtistBio": "(Austrian, 1886\u20131980)", 
-  "DateAcquired": "1952-11-07", 
-  "\ufeffTitle": "Geh, mach die T\u00fcr zu, es zieht! (Close the Door Will You, There Is a Draft!)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "14414"
 }

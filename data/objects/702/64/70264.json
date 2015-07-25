@@ -4,21 +4,20 @@
   "Classification": "Print", 
   "Artist": "Friedrich Feigl", 
   "URL": "http://www.moma.org/collection/works/70264", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Given anonymously", 
-  "Date": "(c. 1925)", 
-  "ArtistID": 1827, 
+  "DateAcquired": "1942-11-19", 
   "Keywords": [
-    "online art collection", 
     "Friedrich Feigl", 
     "Motif from the Song of Songs (Das Hohelied)", 
     "(c", 
     "1925)"
   ], 
+  "ArtistID": 1827, 
+  "Title": "Motif from the Song of Songs (Das Hohelied)", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "508.1942", 
+  "Date": "(c. 1925)", 
   "ArtistBio": "(Czech,1884\u20131965)", 
-  "DateAcquired": "1942-11-19", 
-  "\ufeffTitle": "Motif from the Song of Songs (Das Hohelied)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "70264"
 }

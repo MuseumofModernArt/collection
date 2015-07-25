@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Jane Hammond", 
   "URL": "http://www.moma.org/collection/works/72821", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Emily Fisher Landau", 
-  "Date": "1993", 
-  "ArtistID": 6640, 
+  "DateAcquired": "1993-11-17", 
   "Keywords": [
-    "online art collection", 
     "Jane Hammond", 
     "Full House", 
     "1993"
   ], 
+  "ArtistID": 6640, 
+  "Title": "Full House", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "664.1993", 
+  "Date": "1993", 
   "ArtistBio": "(American, born 1950)", 
-  "DateAcquired": "1993-11-17", 
-  "\ufeffTitle": "Full House", 
+  "CuratorApproved": "Y", 
   "ObjectID": "72821"
 }

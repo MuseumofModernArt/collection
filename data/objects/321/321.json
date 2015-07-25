@@ -4,12 +4,9 @@
   "Classification": "A&D Architectural Drawing", 
   "Artist": "Leon Krier", 
   "URL": "http://www.moma.org/collection/works/321", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Marshall Cogan Purchase Fund", 
-  "Date": "1977", 
-  "ArtistID": 3250, 
+  "DateAcquired": "1984-10-30", 
   "Keywords": [
-    "online art collection", 
     "Leon Krier", 
     "Roma Interrota", 
     "project", 
@@ -19,10 +16,12 @@
     "Perspective", 
     "1977"
   ], 
+  "ArtistID": 3250, 
+  "Title": "Roma Interrota, project, Campidoglio, Rome, Italy , Perspective", 
   "Department": "Architecture & Design", 
   "MoMANumber": "310.1984", 
+  "Date": "1977", 
   "ArtistBio": "(Luxembourgish, born 1946)", 
-  "DateAcquired": "1984-10-30", 
-  "\ufeffTitle": "Roma Interrota, project, Campidoglio, Rome, Italy , Perspective", 
+  "CuratorApproved": "Y", 
   "ObjectID": "321"
 }

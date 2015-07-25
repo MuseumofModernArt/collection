@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Max Oppenheimer (MOPP)", 
   "URL": "http://www.moma.org/collection/works/79847", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Given anonymously", 
-  "Date": "1916", 
-  "ArtistID": 4073, 
+  "DateAcquired": "1941-01-16", 
   "Keywords": [
-    "online art collection", 
     "Max Oppenheimer (MOPP)", 
     "The World War", 
     "1916"
   ], 
+  "ArtistID": 4073, 
+  "Title": "The World War", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "504.1941", 
+  "Date": "1916", 
   "ArtistBio": "(American, born Austria. 1885\u20131954)", 
-  "DateAcquired": "1941-01-16", 
-  "\ufeffTitle": "The World War", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79847"
 }

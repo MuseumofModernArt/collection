@@ -4,20 +4,19 @@
   "Classification": "Drawing", 
   "Artist": "Kurt Schwitters", 
   "URL": "http://www.moma.org/collection/works/33235", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1919", 
-  "ArtistID": 5293, 
+  "DateAcquired": "1950-01-06", 
   "Keywords": [
-    "online art collection", 
     "Kurt Schwitters", 
     "Picture with Light Center", 
     "1919"
   ], 
+  "ArtistID": 5293, 
+  "Title": "Picture with Light Center", 
   "Department": "Drawings", 
   "MoMANumber": "18.1950", 
+  "Date": "1919", 
   "ArtistBio": "(German, 1887\u20131948)", 
-  "DateAcquired": "1950-01-06", 
-  "\ufeffTitle": "Picture with Light Center", 
+  "CuratorApproved": "Y", 
   "ObjectID": "33235"
 }

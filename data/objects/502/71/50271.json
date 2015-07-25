@@ -4,21 +4,20 @@
   "Classification": "Photograph", 
   "Artist": "Francis Edmund Currey", 
   "URL": "http://www.moma.org/collection/works/50271", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1867", 
-  "ArtistID": 1337, 
+  "DateAcquired": "1982-10-28", 
   "Keywords": [
-    "online art collection", 
     "Francis Edmund Currey", 
     "Ferns Osmunda Regalis near Enniskeane Co", 
     "Cork", 
     "1867"
   ], 
+  "ArtistID": 1337, 
+  "Title": "Ferns Osmunda Regalis near Enniskeane Co. Cork", 
   "Department": "Photography", 
   "MoMANumber": "303.1982", 
+  "Date": "1867", 
   "ArtistBio": "(British, 1814\u20131896)", 
-  "DateAcquired": "1982-10-28", 
-  "\ufeffTitle": "Ferns Osmunda Regalis near Enniskeane Co. Cork", 
+  "CuratorApproved": "Y", 
   "ObjectID": "50271"
 }

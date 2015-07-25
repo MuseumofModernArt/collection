@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Matthew Barney", 
   "URL": "http://www.moma.org/collection/works/81799", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Blanchette Hooker Rockefeller Fund Bequest", 
-  "Date": "1994-95", 
-  "ArtistID": 7005, 
+  "DateAcquired": "1995-10-10", 
   "Keywords": [
-    "online art collection", 
     "Matthew Barney", 
     "Cremaster 4", 
     "1994-95"
   ], 
+  "ArtistID": 7005, 
+  "Title": "Cremaster 4", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "698.1995.a-d", 
+  "Date": "1994-95", 
   "ArtistBio": "(American, born 1967)", 
-  "DateAcquired": "1995-10-10", 
-  "\ufeffTitle": "Cremaster 4", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81799"
 }

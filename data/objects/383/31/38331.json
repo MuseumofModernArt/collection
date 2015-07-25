@@ -4,20 +4,19 @@
   "Classification": "Drawing", 
   "Artist": "Aleksandr Rodchenko", 
   "URL": "http://www.moma.org/collection/works/38331", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The Riklis Collection of McCrory Corporation", 
-  "Date": "1920", 
-  "ArtistID": 4975, 
+  "DateAcquired": "1985-09-10", 
   "Keywords": [
-    "online art collection", 
     "Aleksandr Rodchenko", 
     "Line Construction", 
     "1920"
   ], 
+  "ArtistID": 4975, 
+  "Title": "Line Construction", 
   "Department": "Drawings", 
   "MoMANumber": "947.1983", 
+  "Date": "1920", 
   "ArtistBio": "(Russian, 1891\u20131956)", 
-  "DateAcquired": "1985-09-10", 
-  "\ufeffTitle": "Line Construction", 
+  "CuratorApproved": "Y", 
   "ObjectID": "38331"
 }

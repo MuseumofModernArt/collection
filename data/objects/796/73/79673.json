@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Mario Merz", 
   "URL": "http://www.moma.org/collection/works/79673", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Anne and Sid Bass Fund", 
-  "Date": "1979", 
-  "ArtistID": 3941, 
+  "DateAcquired": "1981-11-17", 
   "Keywords": [
-    "online art collection", 
     "Mario Merz", 
     "Fall of the House of Usher", 
     "1979"
   ], 
+  "ArtistID": 3941, 
+  "Title": "Fall of the House of Usher", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "423.1981.a-e", 
+  "Date": "1979", 
   "ArtistBio": "(Italian, 1925\u20132003)", 
-  "DateAcquired": "1981-11-17", 
-  "\ufeffTitle": "Fall of the House of Usher", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79673"
 }

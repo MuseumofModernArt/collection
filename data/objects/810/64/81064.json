@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Robert Gober", 
   "URL": "http://www.moma.org/collection/works/81064", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Werner and Elaine Dannheisser", 
-  "Date": "1987", 
-  "ArtistID": 2199, 
+  "DateAcquired": "1996-04-09", 
   "Keywords": [
-    "online art collection", 
     "Robert Gober", 
     "Open Playpen", 
     "1987"
   ], 
+  "ArtistID": 2199, 
+  "Title": "Open Playpen", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "171.1996", 
+  "Date": "1987", 
   "ArtistBio": "(American, born 1954)", 
-  "DateAcquired": "1996-04-09", 
-  "\ufeffTitle": "Open Playpen", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81064"
 }

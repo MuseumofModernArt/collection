@@ -4,20 +4,19 @@
   "Classification": "Film", 
   "Artist": "Georges M\u00e9li\u00e8s", 
   "URL": "http://www.moma.org/collection/works/89492", 
-  "CuratorApproved": "Y", 
   "CreditLine": "", 
-  "Date": "1902", 
-  "ArtistID": 3918, 
+  "DateAcquired": "1935-01-01", 
   "Keywords": [
-    "online art collection", 
     "Georges M&eacute;li&egrave;s", 
     "A Trip to the Moon (Le Voyage dans la lune)", 
     "1902"
   ], 
+  "ArtistID": 3918, 
+  "Title": "A Trip to the Moon (Le Voyage dans la lune)", 
   "Department": "Film", 
   "MoMANumber": "3035", 
+  "Date": "1902", 
   "ArtistBio": "(French, 1861\u20131938)", 
-  "DateAcquired": "1935-01-01", 
-  "\ufeffTitle": "A Trip to the Moon (Le Voyage dans la lune)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "89492"
 }

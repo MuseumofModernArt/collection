@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "William Tucker", 
   "URL": "http://www.moma.org/collection/works/82027", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Charles Henry Coster Fund", 
-  "Date": "1967", 
-  "ArtistID": 5963, 
+  "DateAcquired": "1968-10-08", 
   "Keywords": [
-    "online art collection", 
     "William Tucker", 
     "Untitled", 
     "1967"
   ], 
+  "ArtistID": 5963, 
+  "Title": "Untitled", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "1312.1968.a-b", 
+  "Date": "1967", 
   "ArtistBio": "(American, born Egypt 1935)", 
-  "DateAcquired": "1968-10-08", 
-  "\ufeffTitle": "Untitled", 
+  "CuratorApproved": "Y", 
   "ObjectID": "82027"
 }

@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Oskar Kokoschka", 
   "URL": "http://www.moma.org/collection/works/78508", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1913", 
-  "ArtistID": 3197, 
+  "DateAcquired": "1940-04-05", 
   "Keywords": [
-    "online art collection", 
     "Oskar Kokoschka", 
     "Self-Portrait", 
     "1913"
   ], 
+  "ArtistID": 3197, 
+  "Title": "Self-Portrait", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "26.1940", 
+  "Date": "1913", 
   "ArtistBio": "(Austrian, 1886\u20131980)", 
-  "DateAcquired": "1940-04-05", 
-  "\ufeffTitle": "Self-Portrait", 
+  "CuratorApproved": "Y", 
   "ObjectID": "78508"
 }

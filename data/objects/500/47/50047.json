@@ -4,20 +4,19 @@
   "Classification": "Photograph", 
   "Artist": "Lisette Model", 
   "URL": "http://www.moma.org/collection/works/50047", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1944", 
-  "ArtistID": 4036, 
+  "DateAcquired": "1959-04-22", 
   "Keywords": [
-    "online art collection", 
     "Lisette Model", 
     "East Side", 
     "1944"
   ], 
+  "ArtistID": 4036, 
+  "Title": "East Side", 
   "Department": "Photography", 
   "MoMANumber": "291.1959", 
+  "Date": "1944", 
   "ArtistBio": "(American, born Austria. 1901\u20131983)", 
-  "DateAcquired": "1959-04-22", 
-  "\ufeffTitle": "East Side", 
+  "CuratorApproved": "Y", 
   "ObjectID": "50047"
 }

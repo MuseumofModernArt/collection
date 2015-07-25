@@ -4,12 +4,9 @@
   "Classification": "Print", 
   "Artist": "Pablo Picasso", 
   "URL": "http://www.moma.org/collection/works/60545", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Acquired through the Lillie P. Bliss Bequest", 
-  "Date": "(October 10, 1937, printed 1942)", 
-  "ArtistID": 4609, 
+  "DateAcquired": "1948-03-17", 
   "Keywords": [
-    "online art collection", 
     "Pablo Picasso", 
     "The Fight in the Arena (Le Combat dans l'ar&egrave;ne)", 
     "fourth state", 
@@ -17,10 +14,12 @@
     "1937", 
     "printed 1942)"
   ], 
+  "ArtistID": 4609, 
+  "Title": "The Fight in the Arena (Le Combat dans l'ar\u00e8ne), fourth state", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "34.1948", 
+  "Date": "(October 10, 1937, printed 1942)", 
   "ArtistBio": "(Spanish, 1881\u20131973)", 
-  "DateAcquired": "1948-03-17", 
-  "\ufeffTitle": "The Fight in the Arena (Le Combat dans l'ar\u00e8ne), fourth state", 
+  "CuratorApproved": "Y", 
   "ObjectID": "60545"
 }

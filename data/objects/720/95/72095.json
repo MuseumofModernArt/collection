@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Kathan Brown", 
   "URL": "http://www.moma.org/collection/works/72095", 
-  "CuratorApproved": "Y", 
   "CreditLine": "John B. Turner Fund", 
-  "Date": "1971", 
-  "ArtistID": 808, 
+  "DateAcquired": "1971-12-06", 
   "Keywords": [
-    "online art collection", 
     "Kathan Brown", 
     "Dog Leaping", 
     "1971"
   ], 
+  "ArtistID": 808, 
+  "Title": "Dog Leaping", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "626.1971", 
+  "Date": "1971", 
   "ArtistBio": "(American, born 1935)", 
-  "DateAcquired": "1971-12-06", 
-  "\ufeffTitle": "Dog Leaping", 
+  "CuratorApproved": "Y", 
   "ObjectID": "72095"
 }

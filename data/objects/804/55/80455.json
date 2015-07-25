@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Willi Baumeister", 
   "URL": "http://www.moma.org/collection/works/80455", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The Riklis Collection of McCrory Corporation", 
-  "Date": "1920", 
-  "ArtistID": 392, 
+  "DateAcquired": "1985-10-25", 
   "Keywords": [
-    "online art collection", 
     "Willi Baumeister", 
     "Figurate with Red Ellipse", 
     "1920"
   ], 
+  "ArtistID": 392, 
+  "Title": "Figurate with Red Ellipse", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "990.1983", 
+  "Date": "1920", 
   "ArtistBio": "(German, 1889\u20131955)", 
-  "DateAcquired": "1985-10-25", 
-  "\ufeffTitle": "Figurate with Red Ellipse", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80455"
 }

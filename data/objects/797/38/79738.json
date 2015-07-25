@@ -4,21 +4,20 @@
   "Classification": "Painting", 
   "Artist": "Carroll Dunham", 
   "URL": "http://www.moma.org/collection/works/79738", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Paula Cooper, Donald L. Bryant, Jr., and Andreas C. Dracopoulos Funds", 
-  "Date": "New York, April 1997 - May 1999", 
-  "ArtistID": 1652, 
+  "DateAcquired": "1999-10-12", 
   "Keywords": [
-    "online art collection", 
     "Carroll Dunham", 
     "Ship", 
     "New York", 
     "April 1997 - May 1999"
   ], 
+  "ArtistID": 1652, 
+  "Title": "Ship", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "317.1999", 
+  "Date": "New York, April 1997 - May 1999", 
   "ArtistBio": "(American, born 1949)", 
-  "DateAcquired": "1999-10-12", 
-  "\ufeffTitle": "Ship", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79738"
 }

@@ -4,20 +4,19 @@
   "Classification": "A&D Graphic Design", 
   "Artist": "Andy Warhol", 
   "URL": "http://www.moma.org/collection/works/7353", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Given anonymously", 
-  "Date": "1966", 
-  "ArtistID": 6246, 
+  "DateAcquired": "1987-11-18", 
   "Keywords": [
-    "online art collection", 
     "Andy Warhol", 
     "Campbell's Tomato Soup Shopping Bag", 
     "1966"
   ], 
+  "ArtistID": 6246, 
+  "Title": "Campbell's Tomato Soup Shopping Bag", 
   "Department": "Architecture & Design", 
   "MoMANumber": "516.1987", 
+  "Date": "1966", 
   "ArtistBio": "(American, 1928\u20131987)", 
-  "DateAcquired": "1987-11-18", 
-  "\ufeffTitle": "Campbell's Tomato Soup Shopping Bag", 
+  "CuratorApproved": "Y", 
   "ObjectID": "7353"
 }

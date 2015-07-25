@@ -4,12 +4,9 @@
   "Classification": "Print", 
   "Artist": "Louise Bourgeois", 
   "URL": "http://www.moma.org/collection/works/70170", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the artist", 
-  "Date": "1990", 
-  "ArtistID": 710, 
+  "DateAcquired": "1993-11-17", 
   "Keywords": [
-    "online art collection", 
     "Louise Bourgeois", 
     "Untitled", 
     "plate 4", 
@@ -17,10 +14,12 @@
     "from The Puritan", 
     "1990"
   ], 
+  "ArtistID": 710, 
+  "Title": "Untitled, plate 4, state I, from The Puritan", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "500.1993", 
+  "Date": "1990", 
   "ArtistBio": "(American, born France. 1911\u20132010)", 
-  "DateAcquired": "1993-11-17", 
-  "\ufeffTitle": "Untitled, plate 4, state I, from The Puritan", 
+  "CuratorApproved": "Y", 
   "ObjectID": "70170"
 }

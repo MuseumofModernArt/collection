@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Isamu Noguchi", 
   "URL": "http://www.moma.org/collection/works/81892", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Florene May Schoenborn Bequest", 
-  "Date": "1957", 
-  "ArtistID": 4324, 
+  "DateAcquired": "1996-12-09", 
   "Keywords": [
-    "online art collection", 
     "Isamu Noguchi", 
     "Atomic Head", 
     "1957"
   ], 
+  "ArtistID": 4324, 
+  "Title": "Atomic Head", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "823.1996", 
+  "Date": "1957", 
   "ArtistBio": "(American, 1904\u20131988)", 
-  "DateAcquired": "1996-12-09", 
-  "\ufeffTitle": "Atomic Head", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81892"
 }

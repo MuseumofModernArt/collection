@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Agnes Martin", 
   "URL": "http://www.moma.org/collection/works/79891", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Philip Johnson", 
-  "Date": "1964", 
-  "ArtistID": 3787, 
+  "DateAcquired": "1970-11-10", 
   "Keywords": [
-    "online art collection", 
     "Agnes Martin", 
     "Red Bird", 
     "1964"
   ], 
+  "ArtistID": 3787, 
+  "Title": "Red Bird", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "514.1970", 
+  "Date": "1964", 
   "ArtistBio": "(American, born Canada. 1912\u20132004)", 
-  "DateAcquired": "1970-11-10", 
-  "\ufeffTitle": "Red Bird", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79891"
 }

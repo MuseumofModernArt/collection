@@ -4,22 +4,21 @@
   "Classification": "A&D Architectural Drawing", 
   "Artist": "Ludwig Mies van der Rohe", 
   "URL": "http://www.moma.org/collection/works/88790", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Mies van der Rohe Archive Purchase", 
-  "Date": "1935", 
-  "ArtistID": 7166, 
+  "DateAcquired": "2003-10-02", 
   "Keywords": [
-    "online art collection", 
     "Ludwig Mies van der Rohe", 
     "Court House", 
     "project", 
     "Perspective sketch with garden sculpture", 
     "1935"
   ], 
+  "ArtistID": 7166, 
+  "Title": "Court House, project, Perspective sketch with garden sculpture", 
   "Department": "Architecture & Design", 
   "MoMANumber": "212.2003", 
+  "Date": "1935", 
   "ArtistBio": "(American, born Germany. 1886\u20131969)", 
-  "DateAcquired": "2003-10-02", 
-  "\ufeffTitle": "Court House, project, Perspective sketch with garden sculpture", 
+  "CuratorApproved": "Y", 
   "ObjectID": "88790"
 }

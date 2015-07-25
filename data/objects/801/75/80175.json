@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Francesco Clemente", 
   "URL": "http://www.moma.org/collection/works/80175", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Anne and Sid Bass Fund", 
-  "Date": "1983", 
-  "ArtistID": 1145, 
+  "DateAcquired": "1983-10-11", 
   "Keywords": [
-    "online art collection", 
     "Francesco Clemente", 
     "Conversion to Her", 
     "1983"
   ], 
+  "ArtistID": 1145, 
+  "Title": "Conversion to Her", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "646.1983.a-c", 
+  "Date": "1983", 
   "ArtistBio": "(Italian, born 1952)", 
-  "DateAcquired": "1983-10-11", 
-  "\ufeffTitle": "Conversion to Her", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80175"
 }

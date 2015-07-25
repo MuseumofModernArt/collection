@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Sandra Blow", 
   "URL": "http://www.moma.org/collection/works/79301", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1956", 
-  "ArtistID": 611, 
+  "DateAcquired": "1956-10-09", 
   "Keywords": [
-    "online art collection", 
     "Sandra Blow", 
     "Winter", 
     "1956"
   ], 
+  "ArtistID": 611, 
+  "Title": "Winter", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "257.1956", 
+  "Date": "1956", 
   "ArtistBio": "(British, 1925\u20132006)", 
-  "DateAcquired": "1956-10-09", 
-  "\ufeffTitle": "Winter", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79301"
 }

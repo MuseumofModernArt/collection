@@ -4,12 +4,9 @@
   "Classification": "Print", 
   "Artist": "Max Beckmann", 
   "URL": "http://www.moma.org/collection/works/60903", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase (by exchange)", 
-  "Date": "(1916-17, published c. 1921)", 
-  "ArtistID": 429, 
+  "DateAcquired": "1955-04-06", 
   "Keywords": [
-    "online art collection", 
     "Max Beckmann", 
     "Street II", 
     "Female Head (Strasse II", 
@@ -18,10 +15,12 @@
     "published c", 
     "1921)"
   ], 
+  "ArtistID": 429, 
+  "Title": "Street II, Female Head (Strasse II, Frauenkopf)", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "49.1955", 
+  "Date": "(1916-17, published c. 1921)", 
   "ArtistBio": "(German, 1884\u20131950)", 
-  "DateAcquired": "1955-04-06", 
-  "\ufeffTitle": "Street II, Female Head (Strasse II, Frauenkopf)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "60903"
 }

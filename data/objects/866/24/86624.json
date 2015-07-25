@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Rackstraw Downes", 
   "URL": "http://www.moma.org/collection/works/86624", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Bequest of William Ainsworth", 
-  "Date": "1988", 
-  "ArtistID": 1605, 
+  "DateAcquired": "2002-10-07", 
   "Keywords": [
-    "online art collection", 
     "Rackstraw Downes", 
     "From 75 Varick to the Holland Tunnel Entrance", 
     "1988"
   ], 
+  "ArtistID": 1605, 
+  "Title": "From 75 Varick to the Holland Tunnel Entrance", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "267.2002", 
+  "Date": "1988", 
   "ArtistBio": "(American, born England 1939)", 
-  "DateAcquired": "2002-10-07", 
-  "\ufeffTitle": "From 75 Varick to the Holland Tunnel Entrance", 
+  "CuratorApproved": "Y", 
   "ObjectID": "86624"
 }

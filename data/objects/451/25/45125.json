@@ -4,22 +4,21 @@
   "Classification": "Photograph", 
   "Artist": "D. Constantin", 
   "URL": "http://www.moma.org/collection/works/45125", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Acquired through the generosity of Lois and Bruce Zenkel", 
-  "Date": "1860-69", 
-  "ArtistID": 1226, 
+  "DateAcquired": "1982-03-11", 
   "Keywords": [
-    "online art collection", 
     "D", 
     "Constantin", 
     "Gate of the Agora", 
     "Athens", 
     "1860-69"
   ], 
+  "ArtistID": 1226, 
+  "Title": "Gate of the Agora, Athens", 
   "Department": "Photography", 
   "MoMANumber": "56.1982", 
+  "Date": "1860-69", 
   "ArtistBio": "(Greek)", 
-  "DateAcquired": "1982-03-11", 
-  "\ufeffTitle": "Gate of the Agora, Athens", 
+  "CuratorApproved": "Y", 
   "ObjectID": "45125"
 }

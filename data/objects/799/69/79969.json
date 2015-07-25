@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Franti\u0161ek Kupka", 
   "URL": "http://www.moma.org/collection/works/79969", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Hillman Periodicals Fund", 
-  "Date": "1910-13? (dated on painting 1909)", 
-  "ArtistID": 3302, 
+  "DateAcquired": "1956-12-19", 
   "Keywords": [
-    "online art collection", 
     "Franti&scaron;ek Kupka", 
     "The First Step", 
     "1910-13? (dated on painting 1909)"
   ], 
+  "ArtistID": 3302, 
+  "Title": "The First Step", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "562.1956", 
+  "Date": "1910-13? (dated on painting 1909)", 
   "ArtistBio": "(Czech, 1871\u20131957)", 
-  "DateAcquired": "1956-12-19", 
-  "\ufeffTitle": "The First Step", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79969"
 }

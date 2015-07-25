@@ -4,12 +4,9 @@
   "Classification": "Print", 
   "Artist": "Georg Schrimpf", 
   "URL": "http://www.moma.org/collection/works/73098", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Transferred from the Museum Library", 
-  "Date": "1918 (executed 1916)", 
-  "ArtistID": 5271, 
+  "DateAcquired": "1949-09-29", 
   "Keywords": [
-    "online art collection", 
     "Georg Schrimpf", 
     "Nude IX (Akt IX) (plate", 
     "preceding p", 
@@ -20,10 +17,12 @@
     "3 (Mar 1918)", 
     "1918 (executed 1916)"
   ], 
+  "ArtistID": 5271, 
+  "Title": "Nude IX (Akt IX) (plate, preceding p. 65) from the periodical Das Kunstblatt, vol. 2, no. 3 (Mar 1918)", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "682.1949", 
+  "Date": "1918 (executed 1916)", 
   "ArtistBio": "(German, 1889\u20131938)", 
-  "DateAcquired": "1949-09-29", 
-  "\ufeffTitle": "Nude IX (Akt IX) (plate, preceding p. 65) from the periodical Das Kunstblatt, vol. 2, no. 3 (Mar 1918)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "73098"
 }

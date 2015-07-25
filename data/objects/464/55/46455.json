@@ -4,21 +4,20 @@
   "Classification": "Photograph", 
   "Artist": "Nicholas Nixon", 
   "URL": "http://www.moma.org/collection/works/46455", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Agnes Gund Fund", 
-  "Date": "1985", 
-  "ArtistID": 4315, 
+  "DateAcquired": "1985-03-27", 
   "Keywords": [
-    "online art collection", 
     "Nicholas Nixon", 
     "A,E,", 
     "Boston", 
     "1985"
   ], 
+  "ArtistID": 4315, 
+  "Title": "A.E., Boston", 
   "Department": "Photography", 
   "MoMANumber": "113.1985", 
+  "Date": "1985", 
   "ArtistBio": "(American, born 1947)", 
-  "DateAcquired": "1985-03-27", 
-  "\ufeffTitle": "A.E., Boston", 
+  "CuratorApproved": "Y", 
   "ObjectID": "46455"
 }

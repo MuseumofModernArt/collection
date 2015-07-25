@@ -4,12 +4,9 @@
   "Classification": "Photograph", 
   "Artist": "D. Constantin", 
   "URL": "http://www.moma.org/collection/works/45098", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Acquired through the generosity of Lois and Bruce Zenkel", 
-  "Date": "1860-69", 
-  "ArtistID": 1226, 
+  "DateAcquired": "1982-03-11", 
   "Keywords": [
-    "online art collection", 
     "D", 
     "Constantin", 
     "Temple of Victory", 
@@ -17,10 +14,12 @@
     "Athens", 
     "1860-69"
   ], 
+  "ArtistID": 1226, 
+  "Title": "Temple of Victory, the Acropolis, Athens", 
   "Department": "Photography", 
   "MoMANumber": "55.1982", 
+  "Date": "1860-69", 
   "ArtistBio": "(Greek)", 
-  "DateAcquired": "1982-03-11", 
-  "\ufeffTitle": "Temple of Victory, the Acropolis, Athens", 
+  "CuratorApproved": "Y", 
   "ObjectID": "45098"
 }

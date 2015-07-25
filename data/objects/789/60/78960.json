@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Charles Seliger", 
   "URL": "http://www.moma.org/collection/works/78960", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of August Hanniball, Jr.", 
-  "Date": "1946", 
-  "ArtistID": 5335, 
+  "DateAcquired": "1947-06-17", 
   "Keywords": [
-    "online art collection", 
     "Charles Seliger", 
     "Natural History: Form within Rock", 
     "1946"
   ], 
+  "ArtistID": 5335, 
+  "Title": "Natural History: Form within Rock", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "139.1947", 
+  "Date": "1946", 
   "ArtistBio": "(American, 1926\u20132009)", 
-  "DateAcquired": "1947-06-17", 
-  "\ufeffTitle": "Natural History: Form within Rock", 
+  "CuratorApproved": "Y", 
   "ObjectID": "78960"
 }

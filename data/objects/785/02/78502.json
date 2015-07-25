@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Niles Spencer", 
   "URL": "http://www.moma.org/collection/works/78502", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Given anonymously (by exchange)", 
-  "Date": "1921/22", 
-  "ArtistID": 5561, 
+  "DateAcquired": "1936-01-14", 
   "Keywords": [
-    "online art collection", 
     "Niles Spencer", 
     "City Walls", 
     "1921"
   ], 
+  "ArtistID": 5561, 
+  "Title": "City Walls", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "25.1936", 
+  "Date": "1921/22", 
   "ArtistBio": "(American, 1893\u20131952)", 
-  "DateAcquired": "1936-01-14", 
-  "\ufeffTitle": "City Walls", 
+  "CuratorApproved": "Y", 
   "ObjectID": "78502"
 }

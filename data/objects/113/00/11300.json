@@ -4,20 +4,19 @@
   "Classification": "Illustrated Book", 
   "Artist": "Alice Rahon", 
   "URL": "http://www.moma.org/collection/works/11300", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1944", 
-  "ArtistID": 4461, 
+  "DateAcquired": "1968-02-05", 
   "Keywords": [
-    "online art collection", 
     "Alice Rahon", 
     "Lettre d'Amour", 
     "1944"
   ], 
+  "ArtistID": 4461, 
+  "Title": "Lettre d'Amour", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "100.1968", 
+  "Date": "1944", 
   "ArtistBio": "(French, 1904\u20131987)", 
-  "DateAcquired": "1968-02-05", 
-  "\ufeffTitle": "Lettre d'Amour", 
+  "CuratorApproved": "Y", 
   "ObjectID": "11300"
 }

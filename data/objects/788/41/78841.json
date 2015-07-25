@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Romare Bearden", 
   "URL": "http://www.moma.org/collection/works/78841", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Given anonymously", 
-  "Date": "1959", 
-  "ArtistID": 412, 
+  "DateAcquired": "1960-05-26", 
   "Keywords": [
-    "online art collection", 
     "Romare Bearden", 
     "The Silent Valley of Sunrise", 
     "1959"
   ], 
+  "ArtistID": 412, 
+  "Title": "The Silent Valley of Sunrise", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "113.1960", 
+  "Date": "1959", 
   "ArtistBio": "(American, 1911\u20131988)", 
-  "DateAcquired": "1960-05-26", 
-  "\ufeffTitle": "The Silent Valley of Sunrise", 
+  "CuratorApproved": "Y", 
   "ObjectID": "78841"
 }

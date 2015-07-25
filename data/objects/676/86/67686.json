@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Claes Oldenburg", 
   "URL": "http://www.moma.org/collection/works/67686", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of John and Kimiko Powers", 
-  "Date": "1969", 
-  "ArtistID": 4397, 
+  "DateAcquired": "1971-03-30", 
   "Keywords": [
-    "online art collection", 
     "Claes Oldenburg", 
     "Profile Airflow", 
     "1969"
   ], 
+  "ArtistID": 4397, 
+  "Title": "Profile Airflow", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "360.1971", 
+  "Date": "1969", 
   "ArtistBio": "(American, born Sweden 1929)", 
-  "DateAcquired": "1971-03-30", 
-  "\ufeffTitle": "Profile Airflow", 
+  "CuratorApproved": "Y", 
   "ObjectID": "67686"
 }

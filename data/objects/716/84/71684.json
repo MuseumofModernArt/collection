@@ -4,21 +4,20 @@
   "Classification": "Print", 
   "Artist": "Max Beckmann", 
   "URL": "http://www.moma.org/collection/works/71684", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Mr. and Mrs. Carroll Cartwright", 
-  "Date": "(c. 1917)", 
-  "ArtistID": 429, 
+  "DateAcquired": "1956-12-19", 
   "Keywords": [
-    "online art collection", 
     "Max Beckmann", 
     "Model (Modell)", 
     "(c", 
     "1917)"
   ], 
+  "ArtistID": 429, 
+  "Title": "Model (Modell)", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "599.1956", 
+  "Date": "(c. 1917)", 
   "ArtistBio": "(German, 1884\u20131950)", 
-  "DateAcquired": "1956-12-19", 
-  "\ufeffTitle": "Model (Modell)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "71684"
 }

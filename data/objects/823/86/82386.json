@@ -4,22 +4,21 @@
   "Classification": "Photograph", 
   "Artist": "Joel Sternfeld", 
   "URL": "http://www.moma.org/collection/works/82386", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Beth Goldberg Nash and Joshua Nash", 
-  "Date": "May 1979", 
-  "ArtistID": 5656, 
+  "DateAcquired": "2001-04-12", 
   "Keywords": [
-    "online art collection", 
     "Joel Sternfeld", 
     "Rustic Canyon", 
     "Santa Monica", 
     "California", 
     "May 1979"
   ], 
+  "ArtistID": 5656, 
+  "Title": "Rustic Canyon, Santa Monica, California", 
   "Department": "Photography", 
   "MoMANumber": "1234.2001.x1-x2", 
+  "Date": "May 1979", 
   "ArtistBio": "(American, born 1944)", 
-  "DateAcquired": "2001-04-12", 
-  "\ufeffTitle": "Rustic Canyon, Santa Monica, California", 
+  "CuratorApproved": "Y", 
   "ObjectID": "82386"
 }

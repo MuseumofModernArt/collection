@@ -4,20 +4,19 @@
   "Classification": "Drawing", 
   "Artist": "Willi Baumeister", 
   "URL": "http://www.moma.org/collection/works/38172", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The Riklis Collection of McCrory Corporation", 
-  "Date": "1921", 
-  "ArtistID": 392, 
+  "DateAcquired": "1985-09-10", 
   "Keywords": [
-    "online art collection", 
     "Willi Baumeister", 
     "Constructive Composition", 
     "1921"
   ], 
+  "ArtistID": 392, 
+  "Title": "Constructive Composition", 
   "Department": "Drawings", 
   "MoMANumber": "847.1983", 
+  "Date": "1921", 
   "ArtistBio": "(German, 1889\u20131955)", 
-  "DateAcquired": "1985-09-10", 
-  "\ufeffTitle": "Constructive Composition", 
+  "CuratorApproved": "Y", 
   "ObjectID": "38172"
 }

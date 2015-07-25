@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Andrew Spence", 
   "URL": "http://www.moma.org/collection/works/64676", 
-  "CuratorApproved": "Y", 
   "CreditLine": "John B. Turner Fund", 
-  "Date": "1990", 
-  "ArtistID": 5560, 
+  "DateAcquired": "1990-05-02", 
   "Keywords": [
-    "online art collection", 
     "Andrew Spence", 
     "Untitled (known as racetrack) from an untitled portfolio", 
     "1990"
   ], 
+  "ArtistID": 5560, 
+  "Title": "Untitled (known as racetrack) from an untitled portfolio", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "222.1990", 
+  "Date": "1990", 
   "ArtistBio": "(American, born 1947)", 
-  "DateAcquired": "1990-05-02", 
-  "\ufeffTitle": "Untitled (known as racetrack) from an untitled portfolio", 
+  "CuratorApproved": "Y", 
   "ObjectID": "64676"
 }

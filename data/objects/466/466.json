@@ -4,12 +4,9 @@
   "Classification": "A&D Architectural Drawing", 
   "Artist": "Louis I. Kahn", 
   "URL": "http://www.moma.org/collection/works/466", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the architect", 
-  "Date": "1962", 
-  "ArtistID": 2964, 
+  "DateAcquired": "1967-04-11", 
   "Keywords": [
-    "online art collection", 
     "Louis I", 
     "Kahn", 
     "Salk Institute for Biological Studies (Laboratory", 
@@ -20,10 +17,12 @@
     "Laboratory: perspective", 
     "1962"
   ], 
+  "ArtistID": 2964, 
+  "Title": "Salk Institute for Biological Studies (Laboratory, Meeting House, and Housing), La Jolla, California, Laboratory: perspective", 
   "Department": "Architecture & Design", 
   "MoMANumber": "384.1967", 
+  "Date": "1962", 
   "ArtistBio": "(American, born Estonia. 1901\u20131974)", 
-  "DateAcquired": "1967-04-11", 
-  "\ufeffTitle": "Salk Institute for Biological Studies (Laboratory, Meeting House, and Housing), La Jolla, California, Laboratory: perspective", 
+  "CuratorApproved": "Y", 
   "ObjectID": "466"
 }

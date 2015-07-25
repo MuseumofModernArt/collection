@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Jane Hammond", 
   "URL": "http://www.moma.org/collection/works/73835", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Emily Fisher Landau", 
-  "Date": "1995", 
-  "ArtistID": 6640, 
+  "DateAcquired": "1995-11-13", 
   "Keywords": [
-    "online art collection", 
     "Jane Hammond", 
     "Clown Suit", 
     "1995"
   ], 
+  "ArtistID": 6640, 
+  "Title": "Clown Suit", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "757.1995", 
+  "Date": "1995", 
   "ArtistBio": "(American, born 1950)", 
-  "DateAcquired": "1995-11-13", 
-  "\ufeffTitle": "Clown Suit", 
+  "CuratorApproved": "Y", 
   "ObjectID": "73835"
 }

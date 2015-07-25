@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Sarah Lucas", 
   "URL": "http://www.moma.org/collection/works/98639", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Fractional and promised gift of Lawrence Benenson", 
-  "Date": "2005", 
-  "ArtistID": 7810, 
+  "DateAcquired": "2005-05-09", 
   "Keywords": [
-    "online art collection", 
     "Sarah Lucas", 
     "Oh! Soldier", 
     "2005"
   ], 
+  "ArtistID": 7810, 
+  "Title": "Oh! Soldier", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "241.2005", 
+  "Date": "2005", 
   "ArtistBio": "(British, born 1962)", 
-  "DateAcquired": "2005-05-09", 
-  "\ufeffTitle": "Oh! Soldier", 
+  "CuratorApproved": "Y", 
   "ObjectID": "98639"
 }

@@ -4,20 +4,19 @@
   "Classification": "Illustrated Book", 
   "Artist": "Max Ernst", 
   "URL": "http://www.moma.org/collection/works/19852", 
-  "CuratorApproved": "Y", 
   "CreditLine": "William K. Simpson Fund (in memory of Abby Aldrich Rockefeller)", 
-  "Date": "1939", 
-  "ArtistID": 1752, 
+  "DateAcquired": "1983-09-21", 
   "Keywords": [
-    "online art collection", 
     "Max Ernst", 
     "La Dame Ovale", 
     "1939"
   ], 
+  "ArtistID": 1752, 
+  "Title": "La Dame Ovale", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "641.1983", 
+  "Date": "1939", 
   "ArtistBio": "(French, born Germany. 1891\u20131976)", 
-  "DateAcquired": "1983-09-21", 
-  "\ufeffTitle": "La Dame Ovale", 
+  "CuratorApproved": "Y", 
   "ObjectID": "19852"
 }

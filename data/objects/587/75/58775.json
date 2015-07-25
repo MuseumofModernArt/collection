@@ -4,20 +4,19 @@
   "Classification": "Photograph", 
   "Artist": "Times Wide World Photos", 
   "URL": "http://www.moma.org/collection/works/58775", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The New York Times Collection", 
-  "Date": "May 1937", 
-  "ArtistID": 8632, 
+  "DateAcquired": "2001-06-14", 
   "Keywords": [
-    "online art collection", 
     "Times Wide World Photos", 
     "\"The Tragic End of 13,500 Miles of Air Travel\"", 
     "May 1937"
   ], 
+  "ArtistID": 8632, 
+  "Title": "\"The Tragic End of 13,500 Miles of Air Travel\"", 
   "Department": "Photography", 
   "MoMANumber": "2182.2001", 
+  "Date": "May 1937", 
   "ArtistBio": "(American, active 1919\u20131941)", 
-  "DateAcquired": "2001-06-14", 
-  "\ufeffTitle": "\"The Tragic End of 13,500 Miles of Air Travel\"", 
+  "CuratorApproved": "Y", 
   "ObjectID": "58775"
 }

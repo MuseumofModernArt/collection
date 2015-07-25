@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Gaston Lachaise", 
   "URL": "http://www.moma.org/collection/works/81651", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Abby Aldrich Rockefeller", 
-  "Date": "1932 (cast 1932)", 
-  "ArtistID": 3332, 
+  "DateAcquired": "1939-12-08", 
   "Keywords": [
-    "online art collection", 
     "Gaston Lachaise", 
     "Woman Standing", 
     "1932 (cast 1932)"
   ], 
+  "ArtistID": 3332, 
+  "Title": "Woman Standing", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "604.1939", 
+  "Date": "1932 (cast 1932)", 
   "ArtistBio": "(American, born France. 1882\u20131935)", 
-  "DateAcquired": "1939-12-08", 
-  "\ufeffTitle": "Woman Standing", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81651"
 }

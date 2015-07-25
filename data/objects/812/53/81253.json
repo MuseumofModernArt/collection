@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "David Smith", 
   "URL": "http://www.moma.org/collection/works/81253", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Given anonymously", 
-  "Date": "1939-40", 
-  "ArtistID": 5480, 
+  "DateAcquired": "1957-12-04", 
   "Keywords": [
-    "online art collection", 
     "David Smith", 
     "Medal for Dishonor: Death by Gas", 
     "1939-40"
   ], 
+  "ArtistID": 5480, 
+  "Title": "Medal for Dishonor: Death by Gas", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "267.1957", 
+  "Date": "1939-40", 
   "ArtistBio": "(American, 1906\u20131965)", 
-  "DateAcquired": "1957-12-04", 
-  "\ufeffTitle": "Medal for Dishonor: Death by Gas", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81253"
 }

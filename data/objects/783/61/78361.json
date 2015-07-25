@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Agnes Martin", 
   "URL": "http://www.moma.org/collection/works/78361", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Larry Aldrich Foundation Fund", 
-  "Date": "1964", 
-  "ArtistID": 3787, 
+  "DateAcquired": "1965-01-12", 
   "Keywords": [
-    "online art collection", 
     "Agnes Martin", 
     "The Tree", 
     "1964"
   ], 
+  "ArtistID": 3787, 
+  "Title": "The Tree", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "5.1965", 
+  "Date": "1964", 
   "ArtistBio": "(American, born Canada. 1912\u20132004)", 
-  "DateAcquired": "1965-01-12", 
-  "\ufeffTitle": "The Tree", 
+  "CuratorApproved": "Y", 
   "ObjectID": "78361"
 }

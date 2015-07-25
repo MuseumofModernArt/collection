@@ -4,20 +4,19 @@
   "Classification": "Photograph", 
   "Artist": "Aaron Siskind", 
   "URL": "http://www.moma.org/collection/works/45224", 
-  "CuratorApproved": "Y", 
   "CreditLine": "John Parkinson III Fund", 
-  "Date": "1980", 
-  "ArtistID": 5456, 
+  "DateAcquired": "1989-03-09", 
   "Keywords": [
-    "online art collection", 
     "Aaron Siskind", 
     "Volcano 54", 
     "1980"
   ], 
+  "ArtistID": 5456, 
+  "Title": "Volcano 54", 
   "Department": "Photography", 
   "MoMANumber": "59.1989.4", 
+  "Date": "1980", 
   "ArtistBio": "(American, 1903\u20131991)", 
-  "DateAcquired": "1989-03-09", 
-  "\ufeffTitle": "Volcano 54", 
+  "CuratorApproved": "Y", 
   "ObjectID": "45224"
 }

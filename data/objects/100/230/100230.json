@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Mark di Suvero", 
   "URL": "http://www.moma.org/collection/works/100230", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Edward R. Broida", 
-  "Date": "1962-63", 
-  "ArtistID": 5743, 
+  "DateAcquired": "2005-10-06", 
   "Keywords": [
-    "online art collection", 
     "Mark di Suvero", 
     "Queen's Rook", 
     "1962-63"
   ], 
+  "ArtistID": 5743, 
+  "Title": "Queen's Rook", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "690.2005", 
+  "Date": "1962-63", 
   "ArtistBio": "(American, born 1933)", 
-  "DateAcquired": "2005-10-06", 
-  "\ufeffTitle": "Queen's Rook", 
+  "CuratorApproved": "Y", 
   "ObjectID": "100230"
 }

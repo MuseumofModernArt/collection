@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Ben Shahn", 
   "URL": "http://www.moma.org/collection/works/78971", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Mr. & Mrs. E. Powis Jones", 
-  "Date": "1946", 
-  "ArtistID": 5366, 
+  "DateAcquired": "1958-10-29", 
   "Keywords": [
-    "online art collection", 
     "Ben Shahn", 
     "Man", 
     "1946"
   ], 
+  "ArtistID": 5366, 
+  "Title": "Man", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "141.1958", 
+  "Date": "1946", 
   "ArtistBio": "(American, born Lithuania. 1898\u20131969)", 
-  "DateAcquired": "1958-10-29", 
-  "\ufeffTitle": "Man", 
+  "CuratorApproved": "Y", 
   "ObjectID": "78971"
 }

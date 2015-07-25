@@ -4,12 +4,9 @@
   "Classification": "A&D Architectural Model", 
   "Artist": "Steven Holl Architects, Steven Holl, Peter Lynch, Stephen Cassell, Pier Copat, Bryan Bell, Friederike Gross-Pietsche, Thomas Gardner", 
   "URL": "http://www.moma.org/collection/works/967", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Given anonymously and David Rockefeller, Jr. Purchase Fund", 
-  "Date": "1988", 
-  "ArtistID": 7609, 
+  "DateAcquired": "1997-01-15", 
   "Keywords": [
-    "online art collection", 
     "Steven Holl Architects and Steven Holl with Peter Lynch", 
     "Stephen Cassell", 
     "Pier Copat", 
@@ -21,10 +18,12 @@
     "Germany", 
     "1988"
   ], 
+  "ArtistID": 7609, 
+  "Title": "American Memorial Library, project, Berlin, Germany", 
   "Department": "Architecture & Design", 
   "MoMANumber": "9.1997", 
+  "Date": "1988", 
   "ArtistBio": "(American, founded 1976) (American, born 1947) (American) (American, born 1963) (American) (American)", 
-  "DateAcquired": "1997-01-15", 
-  "\ufeffTitle": "American Memorial Library, project, Berlin, Germany", 
+  "CuratorApproved": "Y", 
   "ObjectID": "967"
 }

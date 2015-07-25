@@ -4,20 +4,19 @@
   "Classification": "Photograph", 
   "Artist": "Harry Callahan", 
   "URL": "http://www.moma.org/collection/works/44455", 
-  "CuratorApproved": "Y", 
   "CreditLine": "John Parkinson III Fund", 
-  "Date": "1972", 
-  "ArtistID": 924, 
+  "DateAcquired": "1973-02-12", 
   "Keywords": [
-    "online art collection", 
     "Harry Callahan", 
     "Provincetown", 
     "1972"
   ], 
+  "ArtistID": 924, 
+  "Title": "Provincetown", 
   "Department": "Photography", 
   "MoMANumber": "38.1973", 
+  "Date": "1972", 
   "ArtistBio": "(American, 1912\u20131999)", 
-  "DateAcquired": "1973-02-12", 
-  "\ufeffTitle": "Provincetown", 
+  "CuratorApproved": "Y", 
   "ObjectID": "44455"
 }

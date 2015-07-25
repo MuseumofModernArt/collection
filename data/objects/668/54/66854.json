@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "James Rosenquist", 
   "URL": "http://www.moma.org/collection/works/66854", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Emily Landau", 
-  "Date": "1985", 
-  "ArtistID": 5021, 
+  "DateAcquired": "1985-10-07", 
   "Keywords": [
-    "online art collection", 
     "James Rosenquist", 
     "Night Transitions", 
     "1985"
   ], 
+  "ArtistID": 5021, 
+  "Title": "Night Transitions", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "318.1985", 
+  "Date": "1985", 
   "ArtistBio": "(American, born 1933)", 
-  "DateAcquired": "1985-10-07", 
-  "\ufeffTitle": "Night Transitions", 
+  "CuratorApproved": "Y", 
   "ObjectID": "66854"
 }

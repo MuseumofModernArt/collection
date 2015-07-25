@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Alexander Calder", 
   "URL": "http://www.moma.org/collection/works/81837", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Acquired through the Lillie P. Bliss Bequest", 
-  "Date": "1928", 
-  "ArtistID": 922, 
+  "DateAcquired": "1943-12-02", 
   "Keywords": [
-    "online art collection", 
     "Alexander Calder", 
     "The Horse", 
     "1928"
   ], 
+  "ArtistID": 922, 
+  "Title": "The Horse", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "747.1943", 
+  "Date": "1928", 
   "ArtistBio": "(American, 1898\u20131976)", 
-  "DateAcquired": "1943-12-02", 
-  "\ufeffTitle": "The Horse", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81837"
 }

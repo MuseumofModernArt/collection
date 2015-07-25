@@ -4,12 +4,9 @@
   "Classification": "A&D Architectural Drawing", 
   "Artist": "Paul Rudolph", 
   "URL": "http://www.moma.org/collection/works/570", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the architect", 
-  "Date": "1983", 
-  "ArtistID": 5076, 
+  "DateAcquired": "1985-11-18", 
   "Keywords": [
-    "online art collection", 
     "Paul Rudolph", 
     "Dharmala Office Building", 
     "Jakarta", 
@@ -17,10 +14,12 @@
     "Entrance perspective", 
     "1983"
   ], 
+  "ArtistID": 5076, 
+  "Title": "Dharmala Office Building, Jakarta, Indonesia, Entrance perspective", 
   "Department": "Architecture & Design", 
   "MoMANumber": "408.1985", 
+  "Date": "1983", 
   "ArtistBio": "(American, 1918\u20131997)", 
-  "DateAcquired": "1985-11-18", 
-  "\ufeffTitle": "Dharmala Office Building, Jakarta, Indonesia, Entrance perspective", 
+  "CuratorApproved": "Y", 
   "ObjectID": "570"
 }

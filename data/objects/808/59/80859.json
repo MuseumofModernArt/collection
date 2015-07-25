@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Mary Miss", 
   "URL": "http://www.moma.org/collection/works/80859", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Blanchette Hooker Rockefeller Fund, Anna Marie and Robert F. Shapiro Fund, and purchase", 
-  "Date": "1986", 
-  "ArtistID": 4023, 
+  "DateAcquired": "1988-02-08", 
   "Keywords": [
-    "online art collection", 
     "Mary Miss", 
     "Arrivals and Departures: 100 Doors", 
     "1986"
   ], 
+  "ArtistID": 4023, 
+  "Title": "Arrivals and Departures: 100 Doors", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "26.1988", 
+  "Date": "1986", 
   "ArtistBio": "(American, born 1944)", 
-  "DateAcquired": "1988-02-08", 
-  "\ufeffTitle": "Arrivals and Departures: 100 Doors", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80859"
 }

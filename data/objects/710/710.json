@@ -4,21 +4,20 @@
   "Classification": "A&D Architectural Drawing", 
   "Artist": "SITE (Sculpture in the Environment), James Wines", 
   "URL": "http://www.moma.org/collection/works/710", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Best Products Company Inc. Architecture Fund", 
-  "Date": "1979", 
-  "ArtistID": 5457, 
+  "DateAcquired": "1981-12-10", 
   "Keywords": [
-    "online art collection", 
     "SITE (Sculpture in the Environment) and James Wines", 
     "Terrarium Showroom", 
     "Elevations", 
     "1979"
   ], 
+  "ArtistID": 5457, 
+  "Title": "Terrarium Showroom, Elevations", 
   "Department": "Architecture & Design", 
   "MoMANumber": "582.1981", 
+  "Date": "1979", 
   "ArtistBio": "(American, founded 1970) (American, born 1932)", 
-  "DateAcquired": "1981-12-10", 
-  "\ufeffTitle": "Terrarium Showroom, Elevations", 
+  "CuratorApproved": "Y", 
   "ObjectID": "710"
 }

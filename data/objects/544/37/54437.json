@@ -4,21 +4,20 @@
   "Classification": "Photograph", 
   "Artist": "Henri Cartier-Bresson", 
   "URL": "http://www.moma.org/collection/works/54437", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of John C. Waddell", 
-  "Date": "1957", 
-  "ArtistID": 1000, 
+  "DateAcquired": "1996-10-08", 
   "Keywords": [
-    "online art collection", 
     "Henri Cartier-Bresson", 
     "Washington", 
     "D,C", 
     "1957"
   ], 
+  "ArtistID": 1000, 
+  "Title": "Washington, D.C.", 
   "Department": "Photography", 
   "MoMANumber": "500.1996", 
+  "Date": "1957", 
   "ArtistBio": "(French, 1908\u20132004)", 
-  "DateAcquired": "1996-10-08", 
-  "\ufeffTitle": "Washington, D.C.", 
+  "CuratorApproved": "Y", 
   "ObjectID": "54437"
 }

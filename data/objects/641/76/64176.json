@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "James Rosenquist", 
   "URL": "http://www.moma.org/collection/works/64176", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Larry Aldrich Fund", 
-  "Date": "1970", 
-  "ArtistID": 5021, 
+  "DateAcquired": "1970-05-12", 
   "Keywords": [
-    "online art collection", 
     "James Rosenquist", 
     "Bunraku", 
     "1970"
   ], 
+  "ArtistID": 5021, 
+  "Title": "Bunraku", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "195.1970", 
+  "Date": "1970", 
   "ArtistBio": "(American, born 1933)", 
-  "DateAcquired": "1970-05-12", 
-  "\ufeffTitle": "Bunraku", 
+  "CuratorApproved": "Y", 
   "ObjectID": "64176"
 }

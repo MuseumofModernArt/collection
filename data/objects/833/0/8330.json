@@ -4,20 +4,19 @@
   "Classification": "A&D Graphic Design", 
   "Artist": "Maxfield Parrish", 
   "URL": "http://www.moma.org/collection/works/8330", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Given anonymously", 
-  "Date": "1897", 
-  "ArtistID": 4507, 
+  "DateAcquired": "1979-05-30", 
   "Keywords": [
-    "online art collection", 
     "Maxfield Parrish", 
     "Scribner's", 
     "1897"
   ], 
+  "ArtistID": 4507, 
+  "Title": "Scribner's", 
   "Department": "Architecture & Design", 
   "MoMANumber": "887.1979", 
+  "Date": "1897", 
   "ArtistBio": "(American, 1870\u20131966)", 
-  "DateAcquired": "1979-05-30", 
-  "\ufeffTitle": "Scribner's", 
+  "CuratorApproved": "Y", 
   "ObjectID": "8330"
 }

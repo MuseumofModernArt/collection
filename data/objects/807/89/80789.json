@@ -4,21 +4,20 @@
   "Classification": "Sculpture", 
   "Artist": "Joan Mir\u00f3", 
   "URL": "http://www.moma.org/collection/works/80789", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Mr. and Mrs. Harold X. Weinstein", 
-  "Date": "Montroig, [mid-July-November] 1931", 
-  "ArtistID": 4016, 
+  "DateAcquired": "1961-01-10", 
   "Keywords": [
-    "online art collection", 
     "Joan Mir&oacute;", 
     "Object", 
     "Montroig", 
     "[mid-July-November] 1931"
   ], 
+  "ArtistID": 4016, 
+  "Title": "Object", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "7.1961", 
+  "Date": "Montroig, [mid-July-November] 1931", 
   "ArtistBio": "(Spanish, 1893\u20131983)", 
-  "DateAcquired": "1961-01-10", 
-  "\ufeffTitle": "Object", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80789"
 }

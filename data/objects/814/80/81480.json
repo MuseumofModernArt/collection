@@ -4,21 +4,20 @@
   "Classification": "Sculpture", 
   "Artist": "Alexander Liberman", 
   "URL": "http://www.moma.org/collection/works/81480", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Given in memory of Fernand Leval by his wife and children", 
-  "Date": "1963-64", 
-  "ArtistID": 3537, 
+  "DateAcquired": "1967-06-06", 
   "Keywords": [
-    "online art collection", 
     "Alexander Liberman", 
     "Temple", 
     "I", 
     "1963-64"
   ], 
+  "ArtistID": 3537, 
+  "Title": "Temple, I", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "449.1967.a-e", 
+  "Date": "1963-64", 
   "ArtistBio": "(American, born Russia. 1912\u20131999)", 
-  "DateAcquired": "1967-06-06", 
-  "\ufeffTitle": "Temple, I", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81480"
 }

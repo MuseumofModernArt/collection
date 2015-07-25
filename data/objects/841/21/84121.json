@@ -4,20 +4,19 @@
   "Classification": "Drawing", 
   "Artist": "Agnes Martin", 
   "URL": "http://www.moma.org/collection/works/84121", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Partial and promised gift of UBS", 
-  "Date": "1966", 
-  "ArtistID": 3787, 
+  "DateAcquired": "2002-04-09", 
   "Keywords": [
-    "online art collection", 
     "Agnes Martin", 
     "The Field", 
     "1966"
   ], 
+  "ArtistID": 3787, 
+  "Title": "The Field", 
   "Department": "Drawings", 
   "MoMANumber": "121.2002", 
+  "Date": "1966", 
   "ArtistBio": "(American, born Canada. 1912\u20132004)", 
-  "DateAcquired": "2002-04-09", 
-  "\ufeffTitle": "The Field", 
+  "CuratorApproved": "Y", 
   "ObjectID": "84121"
 }

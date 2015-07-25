@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Carroll Dunham", 
   "URL": "http://www.moma.org/collection/works/79570", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Emily Fisher Landau", 
-  "Date": "1983-85", 
-  "ArtistID": 1652, 
+  "DateAcquired": "1986-10-14", 
   "Keywords": [
-    "online art collection", 
     "Carroll Dunham", 
     "Age of Rectangles", 
     "1983-85"
   ], 
+  "ArtistID": 1652, 
+  "Title": "Age of Rectangles", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "382.1986.a-c", 
+  "Date": "1983-85", 
   "ArtistBio": "(American, born 1949)", 
-  "DateAcquired": "1986-10-14", 
-  "\ufeffTitle": "Age of Rectangles", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79570"
 }

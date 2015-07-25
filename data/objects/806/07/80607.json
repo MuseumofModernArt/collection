@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Giorgio Morandi", 
   "URL": "http://www.moma.org/collection/works/80607", 
-  "CuratorApproved": "Y", 
   "CreditLine": "James Thrall Soby Bequest", 
-  "Date": "1949", 
-  "ArtistID": 4079, 
+  "DateAcquired": "1979-12-11", 
   "Keywords": [
-    "online art collection", 
     "Giorgio Morandi", 
     "Still Life", 
     "1949"
   ], 
+  "ArtistID": 4079, 
+  "Title": "Still Life", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "1240.1979", 
+  "Date": "1949", 
   "ArtistBio": "(Italian, 1890\u20131964)", 
-  "DateAcquired": "1979-12-11", 
-  "\ufeffTitle": "Still Life", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80607"
 }

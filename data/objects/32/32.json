@@ -4,12 +4,9 @@
   "Classification": "A&D Architectural Drawing", 
   "Artist": "Louis I. Kahn", 
   "URL": "http://www.moma.org/collection/works/32", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1968", 
-  "ArtistID": 2964, 
+  "DateAcquired": "1997-01-15", 
   "Keywords": [
-    "online art collection", 
     "Louis I", 
     "Kahn", 
     "Memorial to the Six Million Jewish Martyrs", 
@@ -19,10 +16,12 @@
     "Perspective of central pier", 
     "1968"
   ], 
+  "ArtistID": 2964, 
+  "Title": "Memorial to the Six Million Jewish Martyrs, project, New York City, New York, Perspective of central pier", 
   "Department": "Architecture & Design", 
   "MoMANumber": "3.1997", 
+  "Date": "1968", 
   "ArtistBio": "(American, born Estonia. 1901\u20131974)", 
-  "DateAcquired": "1997-01-15", 
-  "\ufeffTitle": "Memorial to the Six Million Jewish Martyrs, project, New York City, New York, Perspective of central pier", 
+  "CuratorApproved": "Y", 
   "ObjectID": "32"
 }

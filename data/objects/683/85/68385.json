@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Bruce Nauman", 
   "URL": "http://www.moma.org/collection/works/68385", 
-  "CuratorApproved": "Y", 
   "CreditLine": "President's Fund Purchase, 1987, Donald B. Marron, President", 
-  "Date": "1985", 
-  "ArtistID": 4243, 
+  "DateAcquired": "1987-10-20", 
   "Keywords": [
-    "online art collection", 
     "Bruce Nauman", 
     "Violins/Violence", 
     "1985"
   ], 
+  "ArtistID": 4243, 
+  "Title": "Violins/Violence", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "395.1987", 
+  "Date": "1985", 
   "ArtistBio": "(American, born 1941)", 
-  "DateAcquired": "1987-10-20", 
-  "\ufeffTitle": "Violins/Violence", 
+  "CuratorApproved": "Y", 
   "ObjectID": "68385"
 }

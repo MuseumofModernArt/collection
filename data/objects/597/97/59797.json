@@ -4,21 +4,20 @@
   "Classification": "Print", 
   "Artist": "Pablo Picasso", 
   "URL": "http://www.moma.org/collection/works/59797", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1931", 
-  "ArtistID": 4609, 
+  "DateAcquired": "1945-01-03", 
   "Keywords": [
-    "online art collection", 
     "Pablo Picasso", 
     "Partial Female Figure (Fragment de corps de femme)", 
     "headpiece from the book Les M&eacute;tamorphoses by Ovid", 
     "1931"
   ], 
+  "ArtistID": 4609, 
+  "Title": "Partial Female Figure (Fragment de corps de femme), headpiece from the book Les M\u00e9tamorphoses by Ovid", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "10.1945", 
+  "Date": "1931", 
   "ArtistBio": "(Spanish, 1881\u20131973)", 
-  "DateAcquired": "1945-01-03", 
-  "\ufeffTitle": "Partial Female Figure (Fragment de corps de femme), headpiece from the book Les M\u00e9tamorphoses by Ovid", 
+  "CuratorApproved": "Y", 
   "ObjectID": "59797"
 }

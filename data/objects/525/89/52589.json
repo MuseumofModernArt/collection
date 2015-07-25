@@ -4,22 +4,21 @@
   "Classification": "Photograph", 
   "Artist": "Nicholas Nixon", 
   "URL": "http://www.moma.org/collection/works/52589", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "August, 1973", 
-  "ArtistID": 4315, 
+  "DateAcquired": "1974-10-01", 
   "Keywords": [
-    "online art collection", 
     "Nicholas Nixon", 
     "Northeast Court", 
     "Tennis Club of Albuquerque", 
     "August", 
     "1973"
   ], 
+  "ArtistID": 4315, 
+  "Title": "Northeast Court, Tennis Club of Albuquerque", 
   "Department": "Photography", 
   "MoMANumber": "399.1974", 
+  "Date": "August, 1973", 
   "ArtistBio": "(American, born 1947)", 
-  "DateAcquired": "1974-10-01", 
-  "\ufeffTitle": "Northeast Court, Tennis Club of Albuquerque", 
+  "CuratorApproved": "Y", 
   "ObjectID": "52589"
 }

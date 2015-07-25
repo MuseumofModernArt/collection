@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Richard Serra", 
   "URL": "http://www.moma.org/collection/works/80990", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Emily Carroll and Thomas W. Weisel", 
-  "Date": "1999", 
-  "ArtistID": 5349, 
+  "DateAcquired": "2000-02-07", 
   "Keywords": [
-    "online art collection", 
     "Richard Serra", 
     "Switch", 
     "1999"
   ], 
+  "ArtistID": 5349, 
+  "Title": "Switch", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "125.2000.a-f", 
+  "Date": "1999", 
   "ArtistBio": "(American, born 1939)", 
-  "DateAcquired": "2000-02-07", 
-  "\ufeffTitle": "Switch", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80990"
 }

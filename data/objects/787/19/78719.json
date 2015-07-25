@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Jackson Pollock", 
   "URL": "http://www.moma.org/collection/works/78719", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1943", 
-  "ArtistID": 4675, 
+  "DateAcquired": "1944-05-02", 
   "Keywords": [
-    "online art collection", 
     "Jackson Pollock", 
     "The She-Wolf", 
     "1943"
   ], 
+  "ArtistID": 4675, 
+  "Title": "The She-Wolf", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "82.1944", 
+  "Date": "1943", 
   "ArtistBio": "(American, 1912\u20131956)", 
-  "DateAcquired": "1944-05-02", 
-  "\ufeffTitle": "The She-Wolf", 
+  "CuratorApproved": "Y", 
   "ObjectID": "78719"
 }

@@ -4,21 +4,20 @@
   "Classification": "Photograph", 
   "Artist": "Mitch Epstein", 
   "URL": "http://www.moma.org/collection/works/47394", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1982", 
-  "ArtistID": 1742, 
+  "DateAcquired": "1983-01-13", 
   "Keywords": [
-    "online art collection", 
     "Mitch Epstein", 
     "Hadrian's Villa", 
     "Italy", 
     "1982"
   ], 
+  "ArtistID": 1742, 
+  "Title": "Hadrian's Villa, Italy", 
   "Department": "Photography", 
   "MoMANumber": "175.1983", 
+  "Date": "1982", 
   "ArtistBio": "(American, born 1952)", 
-  "DateAcquired": "1983-01-13", 
-  "\ufeffTitle": "Hadrian's Villa, Italy", 
+  "CuratorApproved": "Y", 
   "ObjectID": "47394"
 }

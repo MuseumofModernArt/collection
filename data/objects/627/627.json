@@ -4,12 +4,9 @@
   "Classification": "A&D Architectural Drawing", 
   "Artist": "Santiago Calatrava", 
   "URL": "http://www.moma.org/collection/works/627", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Lily Auchincloss", 
-  "Date": "1992", 
-  "ArtistID": 6968, 
+  "DateAcquired": "1992-10-21", 
   "Keywords": [
-    "online art collection", 
     "Santiago Calatrava", 
     "Cathedral of St", 
     "John the Divine Project", 
@@ -18,10 +15,12 @@
     "Section", 
     "1992"
   ], 
+  "ArtistID": 6968, 
+  "Title": "Cathedral of St. John the Divine Project, New York City, New York, Section", 
   "Department": "Architecture & Design", 
   "MoMANumber": "430.1992", 
+  "Date": "1992", 
   "ArtistBio": "(Spanish, born 1951)", 
-  "DateAcquired": "1992-10-21", 
-  "\ufeffTitle": "Cathedral of St. John the Divine Project, New York City, New York, Section", 
+  "CuratorApproved": "Y", 
   "ObjectID": "627"
 }

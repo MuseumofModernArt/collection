@@ -4,21 +4,20 @@
   "Classification": "Print", 
   "Artist": "Pablo Picasso", 
   "URL": "http://www.moma.org/collection/works/74264", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Edwin I. Marks", 
-  "Date": "1905, published 1913", 
-  "ArtistID": 4609, 
+  "DateAcquired": "1965-11-09", 
   "Keywords": [
-    "online art collection", 
     "Pablo Picasso and Paris", 
     "Bath from the Saltimbanques series", 
     "1905", 
     "published 1913"
   ], 
+  "ArtistID": 4609, 
+  "Title": "Bath from the Saltimbanques series", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "812.1965", 
+  "Date": "1905, published 1913", 
   "ArtistBio": "(Spanish, 1881\u20131973)", 
-  "DateAcquired": "1965-11-09", 
-  "\ufeffTitle": "Bath from the Saltimbanques series", 
+  "CuratorApproved": "Y", 
   "ObjectID": "74264"
 }

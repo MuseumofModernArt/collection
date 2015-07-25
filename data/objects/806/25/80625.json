@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Yves Tanguy", 
   "URL": "http://www.moma.org/collection/works/80625", 
-  "CuratorApproved": "Y", 
   "CreditLine": "James Thrall Soby Bequest", 
-  "Date": "1939", 
-  "ArtistID": 5804, 
+  "DateAcquired": "1979-12-11", 
   "Keywords": [
-    "online art collection", 
     "Yves Tanguy", 
     "The Furniture of Time", 
     "1939"
   ], 
+  "ArtistID": 5804, 
+  "Title": "The Furniture of Time", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "1256.1979", 
+  "Date": "1939", 
   "ArtistBio": "(American, born France. 1900\u20131955)", 
-  "DateAcquired": "1979-12-11", 
-  "\ufeffTitle": "The Furniture of Time", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80625"
 }

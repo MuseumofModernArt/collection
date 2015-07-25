@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Dennis Kardon", 
   "URL": "http://www.moma.org/collection/works/65127", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Elinor and Edmund Grasheim", 
-  "Date": "1981", 
-  "ArtistID": 3000, 
+  "DateAcquired": "1982-10-26", 
   "Keywords": [
-    "online art collection", 
     "Dennis Kardon", 
     "The Death of Marat", 
     "1981"
   ], 
+  "ArtistID": 3000, 
+  "Title": "The Death of Marat", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "245.1982", 
+  "Date": "1981", 
   "ArtistBio": "(American, born 1950)", 
-  "DateAcquired": "1982-10-26", 
-  "\ufeffTitle": "The Death of Marat", 
+  "CuratorApproved": "Y", 
   "ObjectID": "65127"
 }

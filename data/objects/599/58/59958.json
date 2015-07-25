@@ -4,22 +4,21 @@
   "Classification": "Print", 
   "Artist": "Michael Heizer", 
   "URL": "http://www.moma.org/collection/works/59958", 
-  "CuratorApproved": "Y", 
   "CreditLine": "John B. Turner Fund", 
-  "Date": "1983", 
-  "ArtistID": 2580, 
+  "DateAcquired": "1985-01-30", 
   "Keywords": [
-    "online art collection", 
     "Michael Heizer", 
     "45&deg;", 
     "90&deg;", 
     "180&deg;", 
     "1983"
   ], 
+  "ArtistID": 2580, 
+  "Title": "45\u00b0, 90\u00b0, 180\u00b0", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "14.1985", 
+  "Date": "1983", 
   "ArtistBio": "(American, born 1944)", 
-  "DateAcquired": "1985-01-30", 
-  "\ufeffTitle": "45\u00b0, 90\u00b0, 180\u00b0", 
+  "CuratorApproved": "Y", 
   "ObjectID": "59958"
 }

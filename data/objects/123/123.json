@@ -4,12 +4,9 @@
   "Classification": "A&D Architectural Drawing", 
   "Artist": "Erik Gunnar Asplund", 
   "URL": "http://www.moma.org/collection/works/123", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Ira Levy, Mrs. Donald B. Marron, and purchase", 
-  "Date": "1923", 
-  "ArtistID": 27, 
+  "DateAcquired": "1990-01-17", 
   "Keywords": [
-    "online art collection", 
     "Erik Gunnar Asplund", 
     "Skandia Cinema", 
     "Stockholm", 
@@ -17,10 +14,12 @@
     "Plan of ground floor", 
     "1923"
   ], 
+  "ArtistID": 27, 
+  "Title": "Skandia Cinema, Stockholm, Sweden, Plan of ground floor", 
   "Department": "Architecture & Design", 
   "MoMANumber": "41.1990", 
+  "Date": "1923", 
   "ArtistBio": "(Swedish, 1885\u20131940)", 
-  "DateAcquired": "1990-01-17", 
-  "\ufeffTitle": "Skandia Cinema, Stockholm, Sweden, Plan of ground floor", 
+  "CuratorApproved": "Y", 
   "ObjectID": "123"
 }

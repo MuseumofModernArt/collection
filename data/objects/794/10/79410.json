@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "David Salle", 
   "URL": "http://www.moma.org/collection/works/79410", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the Louis and Bessie Adler Foundation, Inc., Seymour M. Klein, President; Agnes Gund, Jerry I. Speyer Fund, and purchase", 
-  "Date": "1985", 
-  "ArtistID": 5124, 
+  "DateAcquired": "1986-10-14", 
   "Keywords": [
-    "online art collection", 
     "David Salle", 
     "Gericault's Arm", 
     "1985"
   ], 
+  "ArtistID": 5124, 
+  "Title": "Gericault's Arm", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "285.1986", 
+  "Date": "1985", 
   "ArtistBio": "(American, born 1952)", 
-  "DateAcquired": "1986-10-14", 
-  "\ufeffTitle": "Gericault's Arm", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79410"
 }

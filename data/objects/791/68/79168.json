@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Morris Louis", 
   "URL": "http://www.moma.org/collection/works/79168", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Given anonymously", 
-  "Date": "1958", 
-  "ArtistID": 3607, 
+  "DateAcquired": "1977-05-10", 
   "Keywords": [
-    "online art collection", 
     "Morris Louis", 
     "Russet", 
     "1958"
   ], 
+  "ArtistID": 3607, 
+  "Title": "Russet", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "214.1977", 
+  "Date": "1958", 
   "ArtistBio": "(American, 1912\u20131962)", 
-  "DateAcquired": "1977-05-10", 
-  "\ufeffTitle": "Russet", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79168"
 }

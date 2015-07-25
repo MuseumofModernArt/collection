@@ -4,12 +4,9 @@
   "Classification": "A&D Architectural Drawing", 
   "Artist": "Emilio Ambasz", 
   "URL": "http://www.moma.org/collection/works/415", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the architect in honor of Lily Auchincloss", 
-  "Date": "1979", 
-  "ArtistID": 141, 
+  "DateAcquired": "1994-09-21", 
   "Keywords": [
-    "online art collection", 
     "Emilio Ambasz", 
     "Casa de Retiro Espiritual", 
     "C&oacute;rdoba", 
@@ -17,10 +14,12 @@
     "Aerial axonometric", 
     "1979"
   ], 
+  "ArtistID": 141, 
+  "Title": "Casa de Retiro Espiritual, C\u00f3rdoba, Spain, Aerial axonometric", 
   "Department": "Architecture & Design", 
   "MoMANumber": "370.1994", 
+  "Date": "1979", 
   "ArtistBio": "(Argentine, born 1943)", 
-  "DateAcquired": "1994-09-21", 
-  "\ufeffTitle": "Casa de Retiro Espiritual, C\u00f3rdoba, Spain, Aerial axonometric", 
+  "CuratorApproved": "Y", 
   "ObjectID": "415"
 }

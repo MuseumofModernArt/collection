@@ -4,21 +4,20 @@
   "Classification": "Photograph", 
   "Artist": "Roger Fenton", 
   "URL": "http://www.moma.org/collection/works/55591", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1857", 
-  "ArtistID": 1847, 
+  "DateAcquired": "1941-12-10", 
   "Keywords": [
-    "online art collection", 
     "Roger Fenton", 
     "London", 
     "Picadilly", 
     "1857"
   ], 
+  "ArtistID": 1847, 
+  "Title": "London, Picadilly", 
   "Department": "Photography", 
   "MoMANumber": "613.1941", 
+  "Date": "1857", 
   "ArtistBio": "(British, 1819\u20131869)", 
-  "DateAcquired": "1941-12-10", 
-  "\ufeffTitle": "London, Picadilly", 
+  "CuratorApproved": "Y", 
   "ObjectID": "55591"
 }

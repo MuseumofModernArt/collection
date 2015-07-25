@@ -4,20 +4,19 @@
   "Classification": "Drawing", 
   "Artist": "Andr\u00e9 Masson", 
   "URL": "http://www.moma.org/collection/works/34895", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1941", 
-  "ArtistID": 3821, 
+  "DateAcquired": "1942-03-18", 
   "Keywords": [
-    "online art collection", 
     "Andr&eacute; Masson", 
     "Street Singer", 
     "1941"
   ], 
+  "ArtistID": 3821, 
+  "Title": "Street Singer", 
   "Department": "Drawings", 
   "MoMANumber": "158.1942", 
+  "Date": "1941", 
   "ArtistBio": "(French, 1896\u20131987)", 
-  "DateAcquired": "1942-03-18", 
-  "\ufeffTitle": "Street Singer", 
+  "CuratorApproved": "Y", 
   "ObjectID": "34895"
 }

@@ -4,21 +4,20 @@
   "Classification": "Photograph", 
   "Artist": "Lee Friedlander", 
   "URL": "http://www.moma.org/collection/works/87029", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of James Enyeart and Roxanne Malone", 
-  "Date": "1995", 
-  "ArtistID": 2002, 
+  "DateAcquired": "2002-10-10", 
   "Keywords": [
-    "online art collection", 
     "Lee Friedlander", 
     "Santa Fe", 
     "New Mexico", 
     "1995"
   ], 
+  "ArtistID": 2002, 
+  "Title": "Santa Fe, New Mexico", 
   "Department": "Photography", 
   "MoMANumber": "290.2002", 
+  "Date": "1995", 
   "ArtistBio": "(American, born 1934)", 
-  "DateAcquired": "2002-10-10", 
-  "\ufeffTitle": "Santa Fe, New Mexico", 
+  "CuratorApproved": "Y", 
   "ObjectID": "87029"
 }

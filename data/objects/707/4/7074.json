@@ -4,21 +4,20 @@
   "Classification": "A&D Graphic Design", 
   "Artist": "Niklaus Stoecklin", 
   "URL": "http://www.moma.org/collection/works/7074", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of The Lauder Foundation, Leonard and Evelyn Lauder Fund", 
-  "Date": "1922", 
-  "ArtistID": 5671, 
+  "DateAcquired": "1985-11-18", 
   "Keywords": [
-    "online art collection", 
     "Niklaus Stoecklin", 
     "Der Buchdruck", 
     "Gewerbemuseum Basel", 
     "1922"
   ], 
+  "ArtistID": 5671, 
+  "Title": "Der Buchdruck, Gewerbemuseum Basel", 
   "Department": "Architecture & Design", 
   "MoMANumber": "455.1985", 
+  "Date": "1922", 
   "ArtistBio": "(Swiss, 1896\u20131982)", 
-  "DateAcquired": "1985-11-18", 
-  "\ufeffTitle": "Der Buchdruck, Gewerbemuseum Basel", 
+  "CuratorApproved": "Y", 
   "ObjectID": "7074"
 }

@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Jake Berthot", 
   "URL": "http://www.moma.org/collection/works/100203", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Edward R. Broida", 
-  "Date": "1971", 
-  "ArtistID": 529, 
+  "DateAcquired": "2005-10-06", 
   "Keywords": [
-    "online art collection", 
     "Jake Berthot", 
     "Greenpoint", 
     "1971"
   ], 
+  "ArtistID": 529, 
+  "Title": "Greenpoint", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "651.2005", 
+  "Date": "1971", 
   "ArtistBio": "(American, born 1939)", 
-  "DateAcquired": "2005-10-06", 
-  "\ufeffTitle": "Greenpoint", 
+  "CuratorApproved": "Y", 
   "ObjectID": "100203"
 }

@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Eric Fischl", 
   "URL": "http://www.moma.org/collection/works/79088", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the Louis and Bessie Alder Foundation, Inc., Seymour M. Klein, President, Agnes Gund, President's Fund Purchase (1987), Donald B. Marron, President; Jerry I. Speyer; the Douglas S. Cramer Foundation, Philip Johnson, Robert and Jane Meyerhoff, Anna Marie and Robert F. Shapiro, Barbara Jakobson, Gerald S. Elliott, and purchase", 
-  "Date": "1987", 
-  "ArtistID": 1889, 
+  "DateAcquired": "1987-05-18", 
   "Keywords": [
-    "online art collection", 
     "Eric Fischl", 
     "Portrait of a Dog", 
     "1987"
   ], 
+  "ArtistID": 1889, 
+  "Title": "Portrait of a Dog", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "190.1987.a-d", 
+  "Date": "1987", 
   "ArtistBio": "(American, born 1948)", 
-  "DateAcquired": "1987-05-18", 
-  "\ufeffTitle": "Portrait of a Dog", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79088"
 }

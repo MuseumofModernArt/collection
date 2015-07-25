@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Amedeo Modigliani", 
   "URL": "http://www.moma.org/collection/works/81625", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Abby Aldrich Rockefeller in memory of Mrs. Cornelius J. Sullivan", 
-  "Date": "1915?", 
-  "ArtistID": 4038, 
+  "DateAcquired": "1939-12-08", 
   "Keywords": [
-    "online art collection", 
     "Amedeo Modigliani", 
     "Head", 
     "1915?"
   ], 
+  "ArtistID": 4038, 
+  "Title": "Head", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "593.1939", 
+  "Date": "1915?", 
   "ArtistBio": "(Italian, 1884\u20131920)", 
-  "DateAcquired": "1939-12-08", 
-  "\ufeffTitle": "Head", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81625"
 }

@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Martin Puryear", 
   "URL": "http://www.moma.org/collection/works/81264", 
-  "CuratorApproved": "Y", 
   "CreditLine": "David Rockefeller Fund", 
-  "Date": "1984", 
-  "ArtistID": 4758, 
+  "DateAcquired": "1984-10-09", 
   "Keywords": [
-    "online art collection", 
     "Martin Puryear", 
     "Greed's Trophy", 
     "1984"
   ], 
+  "ArtistID": 4758, 
+  "Title": "Greed's Trophy", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "270.1984", 
+  "Date": "1984", 
   "ArtistBio": "(American, born 1941)", 
-  "DateAcquired": "1984-10-09", 
-  "\ufeffTitle": "Greed's Trophy", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81264"
 }

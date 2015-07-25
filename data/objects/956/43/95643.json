@@ -4,20 +4,19 @@
   "Classification": "Drawing", 
   "Artist": "John Cage", 
   "URL": "http://www.moma.org/collection/works/95643", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The Judith Rothschild Foundation Contemporary Drawings Collection Gift (purchase, and gift, in part, of The Eileen and Michael Cohen Collection)", 
-  "Date": "1969", 
-  "ArtistID": 912, 
+  "DateAcquired": "2005-05-10", 
   "Keywords": [
-    "online art collection", 
     "John Cage", 
     "Untitled (640 numbers between 1 and 21)", 
     "1969"
   ], 
+  "ArtistID": 912, 
+  "Title": "Untitled (640 numbers between 1 and 21)", 
   "Department": "Drawings", 
   "MoMANumber": "1391.2005", 
+  "Date": "1969", 
   "ArtistBio": "(American, 1912\u20131992)", 
-  "DateAcquired": "2005-05-10", 
-  "\ufeffTitle": "Untitled (640 numbers between 1 and 21)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "95643"
 }

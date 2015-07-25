@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "John Walker", 
   "URL": "http://www.moma.org/collection/works/100342", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Edward R. Broida", 
-  "Date": "2001", 
-  "ArtistID": 6220, 
+  "DateAcquired": "2005-10-06", 
   "Keywords": [
-    "online art collection", 
     "John Walker", 
     "March Light", 
     "2001"
   ], 
+  "ArtistID": 6220, 
+  "Title": "March Light", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "804.2005", 
+  "Date": "2001", 
   "ArtistBio": "(British, born 1939)", 
-  "DateAcquired": "2005-10-06", 
-  "\ufeffTitle": "March Light", 
+  "CuratorApproved": "Y", 
   "ObjectID": "100342"
 }

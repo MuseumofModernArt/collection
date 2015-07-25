@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Walter De Maria", 
   "URL": "http://www.moma.org/collection/works/81149", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Agnes Gund and Lily Auchincloss", 
-  "Date": "1965", 
-  "ArtistID": 1433, 
+  "DateAcquired": "1993-05-10", 
   "Keywords": [
-    "online art collection", 
     "Walter De Maria", 
     "Cage II", 
     "1965"
   ], 
+  "ArtistID": 1433, 
+  "Title": "Cage II", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "210.1993", 
+  "Date": "1965", 
   "ArtistBio": "(American, 1935\u20132013)", 
-  "DateAcquired": "1993-05-10", 
-  "\ufeffTitle": "Cage II", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81149"
 }

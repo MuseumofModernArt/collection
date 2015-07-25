@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Joan Mitchell", 
   "URL": "http://www.moma.org/collection/works/79586", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1957", 
-  "ArtistID": 4026, 
+  "DateAcquired": "1961-12-13", 
   "Keywords": [
-    "online art collection", 
     "Joan Mitchell", 
     "Ladybug", 
     "1957"
   ], 
+  "ArtistID": 4026, 
+  "Title": "Ladybug", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "385.1961", 
+  "Date": "1957", 
   "ArtistBio": "(American, 1925\u20131992)", 
-  "DateAcquired": "1961-12-13", 
-  "\ufeffTitle": "Ladybug", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79586"
 }

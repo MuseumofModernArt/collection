@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "David Smith", 
   "URL": "http://www.moma.org/collection/works/80953", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Charles E. Merrill", 
-  "Date": "1938", 
-  "ArtistID": 5480, 
+  "DateAcquired": "1943-05-21", 
   "Keywords": [
-    "online art collection", 
     "David Smith", 
     "Head", 
     "1938"
   ], 
+  "ArtistID": 5480, 
+  "Title": "Head", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "110.1943", 
+  "Date": "1938", 
   "ArtistBio": "(American, 1906\u20131965)", 
-  "DateAcquired": "1943-05-21", 
-  "\ufeffTitle": "Head", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80953"
 }

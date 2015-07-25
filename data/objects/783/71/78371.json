@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Andr\u00e9 Derain", 
   "URL": "http://www.moma.org/collection/works/78371", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Acquired through the Lillie P. Bliss Bequest", 
-  "Date": "1906", 
-  "ArtistID": 1500, 
+  "DateAcquired": "1951-01-30", 
   "Keywords": [
-    "online art collection", 
     "Andr&eacute; Derain", 
     "L'Estaque", 
     "1906"
   ], 
+  "ArtistID": 1500, 
+  "Title": "L'Estaque", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "6.1951", 
+  "Date": "1906", 
   "ArtistBio": "(French, 1880\u20131954)", 
-  "DateAcquired": "1951-01-30", 
-  "\ufeffTitle": "L'Estaque", 
+  "CuratorApproved": "Y", 
   "ObjectID": "78371"
 }

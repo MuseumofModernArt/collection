@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Andr\u00e9 Derain", 
   "URL": "http://www.moma.org/collection/works/80246", 
-  "CuratorApproved": "Y", 
   "CreditLine": "William S. Paley and Abby Aldrich Rockefeller Funds", 
-  "Date": "1907", 
-  "ArtistID": 1500, 
+  "DateAcquired": "1980-12-09", 
   "Keywords": [
-    "online art collection", 
     "Andr&eacute; Derain", 
     "Bathers", 
     "1907"
   ], 
+  "ArtistID": 1500, 
+  "Title": "Bathers", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "683.1980", 
+  "Date": "1907", 
   "ArtistBio": "(French, 1880\u20131954)", 
-  "DateAcquired": "1980-12-09", 
-  "\ufeffTitle": "Bathers", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80246"
 }

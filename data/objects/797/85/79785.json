@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Alberto Giacometti", 
   "URL": "http://www.moma.org/collection/works/79785", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Pierre Matisse in memory of Patricia Kane Matisse", 
-  "Date": "1953", 
-  "ArtistID": 2141, 
+  "DateAcquired": "1978-06-13", 
   "Keywords": [
-    "online art collection", 
     "Alberto Giacometti", 
     "Portrait of Peter Watson", 
     "1953"
   ], 
+  "ArtistID": 2141, 
+  "Title": "Portrait of Peter Watson", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "466.1978", 
+  "Date": "1953", 
   "ArtistBio": "(Swiss, 1901\u20131966)", 
-  "DateAcquired": "1978-06-13", 
-  "\ufeffTitle": "Portrait of Peter Watson", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79785"
 }

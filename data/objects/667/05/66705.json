@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Al Held", 
   "URL": "http://www.moma.org/collection/works/66705", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The Margery and Harry Kahn Fund", 
-  "Date": "1986", 
-  "ArtistID": 2583, 
+  "DateAcquired": "1986-10-15", 
   "Keywords": [
-    "online art collection", 
     "Al Held", 
     "Pablo 7", 
     "1986"
   ], 
+  "ArtistID": 2583, 
+  "Title": "Pablo 7", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "313.1986", 
+  "Date": "1986", 
   "ArtistBio": "(American, 1928\u20132005)", 
-  "DateAcquired": "1986-10-15", 
-  "\ufeffTitle": "Pablo 7", 
+  "CuratorApproved": "Y", 
   "ObjectID": "66705"
 }

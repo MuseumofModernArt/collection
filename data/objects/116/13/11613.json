@@ -4,21 +4,20 @@
   "Classification": "Print", 
   "Artist": "Emil Nolde", 
   "URL": "http://www.moma.org/collection/works/11613", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Curt Valentin Bequest", 
-  "Date": "(1926, published 1927)", 
-  "ArtistID": 4327, 
+  "DateAcquired": "1956-03-19", 
   "Keywords": [
-    "online art collection", 
     "Emil Nolde", 
     ",1 Elderly Men ,2 Mythical Creatures", 
     "(1926", 
     "published 1927)"
   ], 
+  "ArtistID": 4327, 
+  "Title": ".1 Elderly Men .2 Mythical Creatures", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "116.1956.1-2", 
+  "Date": "(1926, published 1927)", 
   "ArtistBio": "(German, 1867\u20131956)", 
-  "DateAcquired": "1956-03-19", 
-  "\ufeffTitle": ".1 Elderly Men .2 Mythical Creatures", 
+  "CuratorApproved": "Y", 
   "ObjectID": "11613"
 }

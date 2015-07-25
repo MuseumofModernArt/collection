@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Maurice Sterne", 
   "URL": "http://www.moma.org/collection/works/79457", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Abby Aldrich Rockefeller Fund", 
-  "Date": "1912", 
-  "ArtistID": 5654, 
+  "DateAcquired": "1938-10-20", 
   "Keywords": [
-    "online art collection", 
     "Maurice Sterne", 
     "Resting at the Bazaar", 
     "1912"
   ], 
+  "ArtistID": 5654, 
+  "Title": "Resting at the Bazaar", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "301.1938", 
+  "Date": "1912", 
   "ArtistBio": "(American, born Latvia. 1877\u20131957)", 
-  "DateAcquired": "1938-10-20", 
-  "\ufeffTitle": "Resting at the Bazaar", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79457"
 }

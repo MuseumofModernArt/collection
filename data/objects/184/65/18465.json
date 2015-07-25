@@ -4,20 +4,19 @@
   "Classification": "Illustrated Book", 
   "Artist": "Ernst Barlach", 
   "URL": "http://www.moma.org/collection/works/18465", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Transferred from the Museum Library", 
-  "Date": "1922 (prints executed 1921)", 
-  "ArtistID": 335, 
+  "DateAcquired": "1949-09-29", 
   "Keywords": [
-    "online art collection", 
     "Ernst Barlach", 
     "Der Findling (The Foundling)", 
     "1922 (prints executed 1921)"
   ], 
+  "ArtistID": 335, 
+  "Title": "Der Findling (The Foundling)", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "564.1949.1-20", 
+  "Date": "1922 (prints executed 1921)", 
   "ArtistBio": "(German, 1870\u20131938)", 
-  "DateAcquired": "1949-09-29", 
-  "\ufeffTitle": "Der Findling (The Foundling)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "18465"
 }

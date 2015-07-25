@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Philip Guston", 
   "URL": "http://www.moma.org/collection/works/79541", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Musa Guston", 
-  "Date": "1969", 
-  "ArtistID": 2419, 
+  "DateAcquired": "1991-12-09", 
   "Keywords": [
-    "online art collection", 
     "Philip Guston", 
     "City Limits", 
     "1969"
   ], 
+  "ArtistID": 2419, 
+  "Title": "City Limits", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "363.1991", 
+  "Date": "1969", 
   "ArtistBio": "(American, born Canada. 1913\u20131980)", 
-  "DateAcquired": "1991-12-09", 
-  "\ufeffTitle": "City Limits", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79541"
 }

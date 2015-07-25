@@ -4,20 +4,19 @@
   "Classification": "Drawing", 
   "Artist": "Claes Oldenburg", 
   "URL": "http://www.moma.org/collection/works/36331", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Philip Johnson Fund", 
-  "Date": "1962", 
-  "ArtistID": 4397, 
+  "DateAcquired": "1962-12-11", 
   "Keywords": [
-    "online art collection", 
     "Claes Oldenburg", 
     "Hamburger", 
     "1962"
   ], 
+  "ArtistID": 4397, 
+  "Title": "Hamburger", 
   "Department": "Drawings", 
   "MoMANumber": "328.1962", 
+  "Date": "1962", 
   "ArtistBio": "(American, born Sweden 1929)", 
-  "DateAcquired": "1962-12-11", 
-  "\ufeffTitle": "Hamburger", 
+  "CuratorApproved": "Y", 
   "ObjectID": "36331"
 }

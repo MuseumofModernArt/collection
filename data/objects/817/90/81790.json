@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Fred Sandback", 
   "URL": "http://www.moma.org/collection/works/81790", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Philip Johnson", 
-  "Date": "1967", 
-  "ArtistID": 5143, 
+  "DateAcquired": "1971-12-07", 
   "Keywords": [
-    "online art collection", 
     "Fred Sandback", 
     "Untitled", 
     "1967"
   ], 
+  "ArtistID": 5143, 
+  "Title": "Untitled", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "692.1971", 
+  "Date": "1967", 
   "ArtistBio": "(American, 1943\u20132003)", 
-  "DateAcquired": "1971-12-07", 
-  "\ufeffTitle": "Untitled", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81790"
 }

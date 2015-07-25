@@ -4,21 +4,20 @@
   "Classification": "Painting", 
   "Artist": "Joan Mir\u00f3", 
   "URL": "http://www.moma.org/collection/works/78756", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "Montroig, July 1923-winter 1924", 
-  "ArtistID": 4016, 
+  "DateAcquired": "1936-12-27", 
   "Keywords": [
-    "online art collection", 
     "Joan Mir&oacute;", 
     "The Hunter (Catalan Landscape)", 
     "Montroig", 
     "July 1923-winter 1924"
   ], 
+  "ArtistID": 4016, 
+  "Title": "The Hunter (Catalan Landscape)", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "95.1936", 
+  "Date": "Montroig, July 1923-winter 1924", 
   "ArtistBio": "(Spanish, 1893\u20131983)", 
-  "DateAcquired": "1936-12-27", 
-  "\ufeffTitle": "The Hunter (Catalan Landscape)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "78756"
 }

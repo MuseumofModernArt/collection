@@ -4,21 +4,20 @@
   "Classification": "Photograph", 
   "Artist": "Laura Gilpin", 
   "URL": "http://www.moma.org/collection/works/55788", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Acquired with matching funds from Blanchette Hooker Rockefeller and the National Endowment for the Arts", 
-  "Date": "c. 1930", 
-  "ArtistID": 2163, 
+  "DateAcquired": "1977-12-15", 
   "Keywords": [
-    "online art collection", 
     "Laura Gilpin", 
     "The Great Sand Dunes of Colorado", 
     "c", 
     "1930"
   ], 
+  "ArtistID": 2163, 
+  "Title": "The Great Sand Dunes of Colorado", 
   "Department": "Photography", 
   "MoMANumber": "643.1977", 
+  "Date": "c. 1930", 
   "ArtistBio": "(American, 1881\u20131979)", 
-  "DateAcquired": "1977-12-15", 
-  "\ufeffTitle": "The Great Sand Dunes of Colorado", 
+  "CuratorApproved": "Y", 
   "ObjectID": "55788"
 }

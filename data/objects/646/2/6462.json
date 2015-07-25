@@ -4,12 +4,9 @@
   "Classification": "A&D Graphic Design", 
   "Artist": "Milton Glaser", 
   "URL": "http://www.moma.org/collection/works/6462", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the designer", 
-  "Date": "1967", 
-  "ArtistID": 2188, 
+  "DateAcquired": "1967-04-11", 
   "Keywords": [
-    "online art collection", 
     "Milton Glaser", 
     "Mahalia Jackson", 
     "Easter Sunday", 
@@ -17,10 +14,12 @@
     "Lincoln Center", 
     "1967"
   ], 
+  "ArtistID": 2188, 
+  "Title": "Mahalia Jackson (Poster for an Easter Sunday concert at Lincoln Center, New York)", 
   "Department": "Architecture & Design", 
   "MoMANumber": "353.1967.a-b", 
+  "Date": "1967", 
   "ArtistBio": "(American, born 1929)", 
-  "DateAcquired": "1967-04-11", 
-  "\ufeffTitle": "Mahalia Jackson (Poster for an Easter Sunday concert at Lincoln Center, New York)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "6462"
 }

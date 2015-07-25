@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Lyonel Feininger", 
   "URL": "http://www.moma.org/collection/works/79302", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Julia Feininger", 
-  "Date": "1910", 
-  "ArtistID": 1832, 
+  "DateAcquired": "1964-04-14", 
   "Keywords": [
-    "online art collection", 
     "Lyonel Feininger", 
     "Uprising", 
     "1910"
   ], 
+  "ArtistID": 1832, 
+  "Title": "Uprising", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "257.1964", 
+  "Date": "1910", 
   "ArtistBio": "(American, 1871\u20131956)", 
-  "DateAcquired": "1964-04-14", 
-  "\ufeffTitle": "Uprising", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79302"
 }

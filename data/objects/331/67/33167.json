@@ -4,20 +4,19 @@
   "Classification": "Drawing", 
   "Artist": "Renzo Vespignani", 
   "URL": "http://www.moma.org/collection/works/33167", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1946", 
-  "ArtistID": 6140, 
+  "DateAcquired": "1949-02-03", 
   "Keywords": [
-    "online art collection", 
     "Renzo Vespignani", 
     "Ruined Building", 
     "1946"
   ], 
+  "ArtistID": 6140, 
+  "Title": "Ruined Building", 
   "Department": "Drawings", 
   "MoMANumber": "14.1949", 
+  "Date": "1946", 
   "ArtistBio": "(Italian, 1924\u20132001)", 
-  "DateAcquired": "1949-02-03", 
-  "\ufeffTitle": "Ruined Building", 
+  "CuratorApproved": "Y", 
   "ObjectID": "33167"
 }

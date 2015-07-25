@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Jacques Lipchitz", 
   "URL": "http://www.moma.org/collection/works/81754", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1925", 
-  "ArtistID": 3563, 
+  "DateAcquired": "1939-12-08", 
   "Keywords": [
-    "online art collection", 
     "Jacques Lipchitz", 
     "Seated Man", 
     "1925"
   ], 
+  "ArtistID": 3563, 
+  "Title": "Seated Man", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "658.1939", 
+  "Date": "1925", 
   "ArtistBio": "(American, born Lithuania. 1891\u20131973)", 
-  "DateAcquired": "1939-12-08", 
-  "\ufeffTitle": "Seated Man", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81754"
 }

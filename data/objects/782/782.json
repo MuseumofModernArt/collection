@@ -4,12 +4,9 @@
   "Classification": "A&D Mies van der Rohe Archive", 
   "Artist": "Ludwig Mies van der Rohe", 
   "URL": "http://www.moma.org/collection/works/782", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Mies van der Rohe Archive, gift of the architect", 
-  "Date": "1929", 
-  "ArtistID": 7166, 
+  "DateAcquired": "1966-01-11", 
   "Keywords": [
-    "online art collection", 
     "Ludwig Mies van der Rohe", 
     "German Pavilion", 
     "International Exposition", 
@@ -18,10 +15,12 @@
     "Horizontal column section", 
     "1929"
   ], 
+  "ArtistID": 7166, 
+  "Title": "German Pavilion, International Exposition, Barcelona, Spain, Horizontal column section", 
   "Department": "Architecture & Design", 
   "MoMANumber": "1000.1965", 
+  "Date": "1929", 
   "ArtistBio": "(American, born Germany. 1886\u20131969)", 
-  "DateAcquired": "1966-01-11", 
-  "\ufeffTitle": "German Pavilion, International Exposition, Barcelona, Spain, Horizontal column section", 
+  "CuratorApproved": "Y", 
   "ObjectID": "782"
 }

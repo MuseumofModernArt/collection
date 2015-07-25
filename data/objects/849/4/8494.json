@@ -4,12 +4,9 @@
   "Classification": "A&D Graphic Design", 
   "Artist": "Georg Trump", 
   "URL": "http://www.moma.org/collection/works/8494", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Jan Tschichold Collection, Gift of Philip Johnson", 
-  "Date": "c. 1930", 
-  "ArtistID": 5947, 
+  "DateAcquired": "1999-12-10", 
   "Keywords": [
-    "online art collection", 
     "Georg Trump", 
     "Joh", 
     "Eggers Sohn & Co", 
@@ -18,10 +15,12 @@
     "c", 
     "1930"
   ], 
+  "ArtistID": 5947, 
+  "Title": "Joh. Eggers Sohn & Co. Wein-Import Bremen, Langenstrasse", 
   "Department": "Architecture & Design", 
   "MoMANumber": "1020.1999", 
+  "Date": "c. 1930", 
   "ArtistBio": "(German, 1896\u20131985)", 
-  "DateAcquired": "1999-12-10", 
-  "\ufeffTitle": "Joh. Eggers Sohn & Co. Wein-Import Bremen, Langenstrasse", 
+  "CuratorApproved": "Y", 
   "ObjectID": "8494"
 }

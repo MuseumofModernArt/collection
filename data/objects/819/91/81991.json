@@ -4,21 +4,20 @@
   "Classification": "Sculpture", 
   "Artist": "Alexander Calder", 
   "URL": "http://www.moma.org/collection/works/81991", 
-  "CuratorApproved": "Y", 
   "CreditLine": "James Thrall Soby Bequest", 
-  "Date": "c. 1940", 
-  "ArtistID": 922, 
+  "DateAcquired": "1979-12-11", 
   "Keywords": [
-    "online art collection", 
     "Alexander Calder", 
     "Brooch", 
     "c", 
     "1940"
   ], 
+  "ArtistID": 922, 
+  "Title": "Brooch", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "1209.1979", 
+  "Date": "c. 1940", 
   "ArtistBio": "(American, 1898\u20131976)", 
-  "DateAcquired": "1979-12-11", 
-  "\ufeffTitle": "Brooch", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81991"
 }

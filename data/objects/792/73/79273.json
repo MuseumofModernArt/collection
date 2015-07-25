@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Frederick Papsdorf", 
   "URL": "http://www.moma.org/collection/works/79273", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1940", 
-  "ArtistID": 4493, 
+  "DateAcquired": "1940-05-28", 
   "Keywords": [
-    "online art collection", 
     "Frederick Papsdorf", 
     "Flowers in a Vase", 
     "1940"
   ], 
+  "ArtistID": 4493, 
+  "Title": "Flowers in a Vase", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "249.1940", 
+  "Date": "1940", 
   "ArtistBio": "(American, 1887\u20131978)", 
-  "DateAcquired": "1940-05-28", 
-  "\ufeffTitle": "Flowers in a Vase", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79273"
 }

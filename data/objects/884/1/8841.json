@@ -4,21 +4,20 @@
   "Classification": "A&D Graphic Design", 
   "Artist": "Bob Schnepf", 
   "URL": "http://www.moma.org/collection/works/8841", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the designer", 
-  "Date": "1967", 
-  "ArtistID": 5252, 
+  "DateAcquired": "2000-12-11", 
   "Keywords": [
-    "online art collection", 
     "Bob Schnepf", 
     "Blue Cheer", 
     "Country Joe & The Fish", 
     "1967"
   ], 
+  "ArtistID": 5252, 
+  "Title": "Blue Cheer, Country Joe & The Fish", 
   "Department": "Architecture & Design", 
   "MoMANumber": "1544.2000", 
+  "Date": "1967", 
   "ArtistBio": "(American, born 1937)", 
-  "DateAcquired": "2000-12-11", 
-  "\ufeffTitle": "Blue Cheer, Country Joe & The Fish", 
+  "CuratorApproved": "Y", 
   "ObjectID": "8841"
 }

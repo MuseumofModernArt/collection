@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Edward Ruscha", 
   "URL": "http://www.moma.org/collection/works/79744", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Robert Rauschenberg", 
-  "Date": "1979", 
-  "ArtistID": 5086, 
+  "DateAcquired": "1999-10-12", 
   "Keywords": [
-    "online art collection", 
     "Edward Ruscha", 
     "Boxer", 
     "1979"
   ], 
+  "ArtistID": 5086, 
+  "Title": "Boxer", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "321.1999", 
+  "Date": "1979", 
   "ArtistBio": "(American, born 1937)", 
-  "DateAcquired": "1999-10-12", 
-  "\ufeffTitle": "Boxer", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79744"
 }

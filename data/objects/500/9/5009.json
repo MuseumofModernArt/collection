@@ -4,12 +4,9 @@
   "Classification": "A&D Graphic Design", 
   "Artist": "Herbert Bayer", 
   "URL": "http://www.moma.org/collection/works/5009", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the Coordinator of Inter-American Affairs", 
-  "Date": "1942", 
-  "ArtistID": 399, 
+  "DateAcquired": "1944-05-02", 
   "Keywords": [
-    "online art collection", 
     "Herbert Bayer", 
     "Libertad de Cultos", 
     "Libertad de Palabra", 
@@ -17,10 +14,12 @@
     "Libres de Timor", 
     "1942"
   ], 
+  "ArtistID": 399, 
+  "Title": "Libertad de Cultos, Libertad de Palabra, Libres de Miseria, Libres de Timor", 
   "Department": "Architecture & Design", 
   "MoMANumber": "88.1944", 
+  "Date": "1942", 
   "ArtistBio": "(American, born Austria. 1900\u20131985)", 
-  "DateAcquired": "1944-05-02", 
-  "\ufeffTitle": "Libertad de Cultos, Libertad de Palabra, Libres de Miseria, Libres de Timor", 
+  "CuratorApproved": "Y", 
   "ObjectID": "5009"
 }

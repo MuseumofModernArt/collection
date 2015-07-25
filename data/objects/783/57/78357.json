@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Mark Tobey", 
   "URL": "http://www.moma.org/collection/works/78357", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1953", 
-  "ArtistID": 5889, 
+  "DateAcquired": "1954-01-12", 
   "Keywords": [
-    "online art collection", 
     "Mark Tobey", 
     "Edge of August", 
     "1953"
   ], 
+  "ArtistID": 5889, 
+  "Title": "Edge of August", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "5.1954", 
+  "Date": "1953", 
   "ArtistBio": "(American, 1890\u20131976)", 
-  "DateAcquired": "1954-01-12", 
-  "\ufeffTitle": "Edge of August", 
+  "CuratorApproved": "Y", 
   "ObjectID": "78357"
 }

@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Joseph Mellor Hanson", 
   "URL": "http://www.moma.org/collection/works/78742", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Given anonymously", 
-  "Date": "1949", 
-  "ArtistID": 2494, 
+  "DateAcquired": "1950-04-24", 
   "Keywords": [
-    "online art collection", 
     "Joseph Mellor Hanson", 
     "Nocturnal Encounters", 
     "1949"
   ], 
+  "ArtistID": 2494, 
+  "Title": "Nocturnal Encounters", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "89.1950", 
+  "Date": "1949", 
   "ArtistBio": "(British, 1900\u20131963)", 
-  "DateAcquired": "1950-04-24", 
-  "\ufeffTitle": "Nocturnal Encounters", 
+  "CuratorApproved": "Y", 
   "ObjectID": "78742"
 }

@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Peter Grippe", 
   "URL": "http://www.moma.org/collection/works/80841", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Given anonymously", 
-  "Date": "1942", 
-  "ArtistID": 2347, 
+  "DateAcquired": "1943-02-18", 
   "Keywords": [
-    "online art collection", 
     "Peter Grippe", 
     "The City", 
     "1942"
   ], 
+  "ArtistID": 2347, 
+  "Title": "The City", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "20.1943", 
+  "Date": "1942", 
   "ArtistBio": "(American, 1912\u20132002)", 
-  "DateAcquired": "1943-02-18", 
-  "\ufeffTitle": "The City", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80841"
 }

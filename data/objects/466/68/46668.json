@@ -4,22 +4,21 @@
   "Classification": "Photograph", 
   "Artist": "Chauncey Hare", 
   "URL": "http://www.moma.org/collection/works/46668", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1968", 
-  "ArtistID": 2503, 
+  "DateAcquired": "1969-03-05", 
   "Keywords": [
-    "online art collection", 
     "Chauncey Hare", 
     "Kitchen", 
     "Kensington", 
     "California", 
     "1968"
   ], 
+  "ArtistID": 2503, 
+  "Title": "Kitchen, Kensington, California", 
   "Department": "Photography", 
   "MoMANumber": "124.1969", 
+  "Date": "1968", 
   "ArtistBio": "(American, born 1934)", 
-  "DateAcquired": "1969-03-05", 
-  "\ufeffTitle": "Kitchen, Kensington, California", 
+  "CuratorApproved": "Y", 
   "ObjectID": "46668"
 }

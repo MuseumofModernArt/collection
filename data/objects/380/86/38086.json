@@ -4,20 +4,19 @@
   "Classification": "Drawing", 
   "Artist": "Juan Soriano", 
   "URL": "http://www.moma.org/collection/works/38086", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Inter-American Fund", 
-  "Date": "1941", 
-  "ArtistID": 5530, 
+  "DateAcquired": "1942-12-29", 
   "Keywords": [
-    "online art collection", 
     "Juan Soriano", 
     "Child with Bird", 
     "1941"
   ], 
+  "ArtistID": 5530, 
+  "Title": "Child with Bird", 
   "Department": "Drawings", 
   "MoMANumber": "792.1942", 
+  "Date": "1941", 
   "ArtistBio": "(Mexican, 1920\u20132006)", 
-  "DateAcquired": "1942-12-29", 
-  "\ufeffTitle": "Child with Bird", 
+  "CuratorApproved": "Y", 
   "ObjectID": "38086"
 }

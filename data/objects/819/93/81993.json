@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Alberto Giacometti", 
   "URL": "http://www.moma.org/collection/works/81993", 
-  "CuratorApproved": "Y", 
   "CreditLine": "James Thrall Soby Bequest", 
-  "Date": "1948 (cast 1949)", 
-  "ArtistID": 2141, 
+  "DateAcquired": "1979-12-11", 
   "Keywords": [
-    "online art collection", 
     "Alberto Giacometti", 
     "Standing Woman", 
     "1948 (cast 1949)"
   ], 
+  "ArtistID": 2141, 
+  "Title": "Standing Woman", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "1222.1979", 
+  "Date": "1948 (cast 1949)", 
   "ArtistBio": "(Swiss, 1901\u20131966)", 
-  "DateAcquired": "1979-12-11", 
-  "\ufeffTitle": "Standing Woman", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81993"
 }

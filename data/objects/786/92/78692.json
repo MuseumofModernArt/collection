@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Richard Lindner", 
   "URL": "http://www.moma.org/collection/works/78692", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Given anonymously", 
-  "Date": "1953", 
-  "ArtistID": 3559, 
+  "DateAcquired": "1962-02-06", 
   "Keywords": [
-    "online art collection", 
     "Richard Lindner", 
     "The Meeting", 
     "1953"
   ], 
+  "ArtistID": 3559, 
+  "Title": "The Meeting", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "75.1962", 
+  "Date": "1953", 
   "ArtistBio": "(American, 1901\u20131978)", 
-  "DateAcquired": "1962-02-06", 
-  "\ufeffTitle": "The Meeting", 
+  "CuratorApproved": "Y", 
   "ObjectID": "78692"
 }

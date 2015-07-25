@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Charles Hinman", 
   "URL": "http://www.moma.org/collection/works/78339", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Larry Aldrich Foundation Fund", 
-  "Date": "1964", 
-  "ArtistID": 2658, 
+  "DateAcquired": "1965-01-12", 
   "Keywords": [
-    "online art collection", 
     "Charles Hinman", 
     "Poltergeist", 
     "1964"
   ], 
+  "ArtistID": 2658, 
+  "Title": "Poltergeist", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "3.1965", 
+  "Date": "1964", 
   "ArtistBio": "(American, born 1932)", 
-  "DateAcquired": "1965-01-12", 
-  "\ufeffTitle": "Poltergeist", 
+  "CuratorApproved": "Y", 
   "ObjectID": "78339"
 }

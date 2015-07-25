@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Fernand L\u00e9ger", 
   "URL": "http://www.moma.org/collection/works/79058", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Mrs. Simon Guggenheim Fund", 
-  "Date": "1925", 
-  "ArtistID": 6624, 
+  "DateAcquired": "1952-10-21", 
   "Keywords": [
-    "online art collection", 
     "Fernand L&eacute;ger", 
     "The Baluster", 
     "1925"
   ], 
+  "ArtistID": 6624, 
+  "Title": "The Baluster", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "179.1952", 
+  "Date": "1925", 
   "ArtistBio": "(French, 1881\u20131955)", 
-  "DateAcquired": "1952-10-21", 
-  "\ufeffTitle": "The Baluster", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79058"
 }

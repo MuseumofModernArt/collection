@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Henri Rousseau", 
   "URL": "http://www.moma.org/collection/works/73119", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Given anonymously", 
-  "Date": "published January 1985", 
-  "ArtistID": 5056, 
+  "DateAcquired": "1943-11-04", 
   "Keywords": [
-    "online art collection", 
     "Henri Rousseau", 
     "War", 
     "published January 1985"
   ], 
+  "ArtistID": 5056, 
+  "Title": "War", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "684.1943", 
+  "Date": "published January 1985", 
   "ArtistBio": "(French, 1844\u20131910)", 
-  "DateAcquired": "1943-11-04", 
-  "\ufeffTitle": "War", 
+  "CuratorApproved": "Y", 
   "ObjectID": "73119"
 }

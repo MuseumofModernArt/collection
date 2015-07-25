@@ -4,20 +4,19 @@
   "Classification": "Drawing", 
   "Artist": "Agnes Martin", 
   "URL": "http://www.moma.org/collection/works/34006", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Acquired with matching funds from The Lauder Foundation and the National Endowment for the Arts", 
-  "Date": "1960", 
-  "ArtistID": 3787, 
+  "DateAcquired": "1979-05-07", 
   "Keywords": [
-    "online art collection", 
     "Agnes Martin", 
     "Untitled", 
     "1960"
   ], 
+  "ArtistID": 3787, 
+  "Title": "Untitled", 
   "Department": "Drawings", 
   "MoMANumber": "107.1979", 
+  "Date": "1960", 
   "ArtistBio": "(American, born Canada. 1912\u20132004)", 
-  "DateAcquired": "1979-05-07", 
-  "\ufeffTitle": "Untitled", 
+  "CuratorApproved": "Y", 
   "ObjectID": "34006"
 }

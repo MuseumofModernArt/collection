@@ -4,20 +4,19 @@
   "Classification": "Drawing", 
   "Artist": "Pablo Picasso", 
   "URL": "http://www.moma.org/collection/works/37973", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Pierre Loeb", 
-  "Date": "(1912)", 
-  "ArtistID": 4609, 
+  "DateAcquired": "1943-12-02", 
   "Keywords": [
-    "online art collection", 
     "Pablo Picasso", 
     "Cubist Study", 
     "(1912)"
   ], 
+  "ArtistID": 4609, 
+  "Title": "Cubist Study", 
   "Department": "Drawings", 
   "MoMANumber": "753.1943", 
+  "Date": "(1912)", 
   "ArtistBio": "(Spanish, 1881\u20131973)", 
-  "DateAcquired": "1943-12-02", 
-  "\ufeffTitle": "Cubist Study", 
+  "CuratorApproved": "Y", 
   "ObjectID": "37973"
 }

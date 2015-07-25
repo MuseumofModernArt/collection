@@ -4,20 +4,19 @@
   "Classification": "Drawing", 
   "Artist": "Pablo Picasso", 
   "URL": "http://www.moma.org/collection/works/35584", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Sam Salz", 
-  "Date": "1943", 
-  "ArtistID": 4609, 
+  "DateAcquired": "1954-06-16", 
   "Keywords": [
-    "online art collection", 
     "Pablo Picasso", 
     "Martin Fabiani", 
     "1943"
   ], 
+  "ArtistID": 4609, 
+  "Title": "Martin Fabiani", 
   "Department": "Drawings", 
   "MoMANumber": "249.1954", 
+  "Date": "1943", 
   "ArtistBio": "(Spanish, 1881\u20131973)", 
-  "DateAcquired": "1954-06-16", 
-  "\ufeffTitle": "Martin Fabiani", 
+  "CuratorApproved": "Y", 
   "ObjectID": "35584"
 }

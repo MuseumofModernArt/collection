@@ -4,12 +4,9 @@
   "Classification": "A&D Graphic Design", 
   "Artist": "Kurt Schwitters", 
   "URL": "http://www.moma.org/collection/works/8664", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Jan Tschichold Collection, Gift of Philip Johnson", 
-  "Date": "1924-25", 
-  "ArtistID": 5293, 
+  "DateAcquired": "1999-12-10", 
   "Keywords": [
-    "online art collection", 
     "Kurt Schwitters", 
     "Aposs Verlag", 
     "Hannover", 
@@ -20,10 +17,12 @@
     "Quittung", 
     "1924-25"
   ], 
+  "ArtistID": 5293, 
+  "Title": "Aposs Verlag, Hannover, Georgstr. 34, Mitteilung, Rechnung, Quittung", 
   "Department": "Architecture & Design", 
   "MoMANumber": "915.1999", 
+  "Date": "1924-25", 
   "ArtistBio": "(German, 1887\u20131948)", 
-  "DateAcquired": "1999-12-10", 
-  "\ufeffTitle": "Aposs Verlag, Hannover, Georgstr. 34, Mitteilung, Rechnung, Quittung", 
+  "CuratorApproved": "Y", 
   "ObjectID": "8664"
 }

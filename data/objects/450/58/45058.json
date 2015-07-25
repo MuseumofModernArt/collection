@@ -4,20 +4,19 @@
   "Classification": "Photograph", 
   "Artist": "Unknown photographer", 
   "URL": "http://www.moma.org/collection/works/45058", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Jacques Henri Lartigue", 
-  "Date": "1911", 
-  "ArtistID": 6028, 
+  "DateAcquired": "1963-01-08", 
   "Keywords": [
-    "online art collection", 
     "Unknown Photographer", 
     "Man In Front of the Hotel de Paris In Monte Carlo", 
     "1911"
   ], 
+  "ArtistID": 6028, 
+  "Title": "Man In Front of the Hotel de Paris In Monte Carlo", 
   "Department": "Photography", 
   "MoMANumber": "54.1963", 
+  "Date": "1911", 
   "ArtistBio": "", 
-  "DateAcquired": "1963-01-08", 
-  "\ufeffTitle": "Man In Front of the Hotel de Paris In Monte Carlo", 
+  "CuratorApproved": "Y", 
   "ObjectID": "45058"
 }

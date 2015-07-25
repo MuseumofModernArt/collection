@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Helen Frankenthaler", 
   "URL": "http://www.moma.org/collection/works/78722", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Hyman N. Glickstein", 
-  "Date": "1957", 
-  "ArtistID": 1974, 
+  "DateAcquired": "1960-05-02", 
   "Keywords": [
-    "online art collection", 
     "Helen Frankenthaler", 
     "Jacob's Ladder", 
     "1957"
   ], 
+  "ArtistID": 1974, 
+  "Title": "Jacob's Ladder", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "82.1960", 
+  "Date": "1957", 
   "ArtistBio": "(American, 1928\u20132011)", 
-  "DateAcquired": "1960-05-02", 
-  "\ufeffTitle": "Jacob's Ladder", 
+  "CuratorApproved": "Y", 
   "ObjectID": "78722"
 }

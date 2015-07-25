@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Aristide Maillol", 
   "URL": "http://www.moma.org/collection/works/81638", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Given anonymously", 
-  "Date": "1910-11", 
-  "ArtistID": 3697, 
+  "DateAcquired": "1939-12-08", 
   "Keywords": [
-    "online art collection", 
     "Aristide Maillol", 
     "Head of Flora", 
     "1910-11"
   ], 
+  "ArtistID": 3697, 
+  "Title": "Head of Flora", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "599.1939", 
+  "Date": "1910-11", 
   "ArtistBio": "(French, 1861\u20131944)", 
-  "DateAcquired": "1939-12-08", 
-  "\ufeffTitle": "Head of Flora", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81638"
 }

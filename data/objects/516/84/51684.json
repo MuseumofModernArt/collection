@@ -4,22 +4,21 @@
   "Classification": "Photograph", 
   "Artist": "Dorothea Lange", 
   "URL": "http://www.moma.org/collection/works/51684", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1942", 
-  "ArtistID": 3373, 
+  "DateAcquired": "1995-06-15", 
   "Keywords": [
-    "online art collection", 
     "Dorothea Lange", 
     "Shipyard Worker", 
     "Richmond", 
     "California", 
     "1942"
   ], 
+  "ArtistID": 3373, 
+  "Title": "Shipyard Worker, Richmond, California", 
   "Department": "Photography", 
   "MoMANumber": "357.1995", 
+  "Date": "1942", 
   "ArtistBio": "(American, 1895\u20131965)", 
-  "DateAcquired": "1995-06-15", 
-  "\ufeffTitle": "Shipyard Worker, Richmond, California", 
+  "CuratorApproved": "Y", 
   "ObjectID": "51684"
 }

@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Rachel Whiteread", 
   "URL": "http://www.moma.org/collection/works/82209", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Agnes Gund", 
-  "Date": "1991", 
-  "ArtistID": 6910, 
+  "DateAcquired": "2001-11-12", 
   "Keywords": [
-    "online art collection", 
     "Rachel Whiteread", 
     "Untitled (Mattress)", 
     "1991"
   ], 
+  "ArtistID": 6910, 
+  "Title": "Untitled (Bed)", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "2481.2001.a-b", 
+  "Date": "1991", 
   "ArtistBio": "(British, born 1963)", 
-  "DateAcquired": "2001-11-12", 
-  "\ufeffTitle": "Untitled (Bed)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "82209"
 }

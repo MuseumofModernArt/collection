@@ -4,21 +4,19 @@
   "Classification": "Painting", 
   "Artist": "On Kawara", 
   "URL": "http://www.moma.org/collection/works/79067", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Werner and Elaine Dannheisser", 
-  "Date": "1990", 
-  "ArtistID": 3030, 
+  "DateAcquired": "1996-04-09", 
   "Keywords": [
-    "online art collection", 
     "On Kawara", 
     "April 24", 
-    "1990", 
     "1990"
   ], 
+  "ArtistID": 3030, 
+  "Title": "April 24, 1990", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "183.1996", 
+  "Date": "1990", 
   "ArtistBio": "(Japanese, 1933\u20132014)", 
-  "DateAcquired": "1996-04-09", 
-  "\ufeffTitle": "April 24, 1990", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79067"
 }

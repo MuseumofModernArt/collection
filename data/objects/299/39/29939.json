@@ -4,20 +4,19 @@
   "Classification": "Illustrated Book", 
   "Artist": "Pablo Picasso", 
   "URL": "http://www.moma.org/collection/works/29939", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The Louis E. Stern Collection", 
-  "Date": "(Print executed 1955)", 
-  "ArtistID": 4609, 
+  "DateAcquired": "1964-10-06", 
   "Keywords": [
-    "online art collection", 
     "Pablo Picasso", 
     "Whimsical from the illustrated book Chevaux de Minuit", 
     "(Print executed 1955)"
   ], 
+  "ArtistID": 4609, 
+  "Title": "Whimsical from the illustrated book Chevaux de Minuit", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "1009.1964.5", 
+  "Date": "(Print executed 1955)", 
   "ArtistBio": "(Spanish, 1881\u20131973)", 
-  "DateAcquired": "1964-10-06", 
-  "\ufeffTitle": "Whimsical from the illustrated book Chevaux de Minuit", 
+  "CuratorApproved": "Y", 
   "ObjectID": "29939"
 }

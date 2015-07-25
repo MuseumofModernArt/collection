@@ -4,12 +4,9 @@
   "Classification": "Print", 
   "Artist": "Ana Maria Moncalvo", 
   "URL": "http://www.moma.org/collection/works/74682", 
-  "CuratorApproved": "Y", 
   "CreditLine": "David Rockefeller Latin American Fund", 
-  "Date": "1965", 
-  "ArtistID": 4056, 
+  "DateAcquired": "1969-10-28", 
   "Keywords": [
-    "online art collection", 
     "Ana Maria Moncalvo", 
     "Godparents", 
     "November", 
@@ -17,10 +14,12 @@
     "Noviembre de 1910)", 
     "1965"
   ], 
+  "ArtistID": 4056, 
+  "Title": "Godparents. November, 1910 (Padrinos. Noviembre de 1910)", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "896.1969", 
+  "Date": "1965", 
   "ArtistBio": "(Argentine)", 
-  "DateAcquired": "1969-10-28", 
-  "\ufeffTitle": "Godparents. November, 1910 (Padrinos. Noviembre de 1910)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "74682"
 }

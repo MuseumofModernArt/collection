@@ -4,20 +4,19 @@
   "Classification": "Multiple", 
   "Artist": "Barbara Bloom", 
   "URL": "http://www.moma.org/collection/works/68699", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Anna Marie Shapiro", 
-  "Date": "1999", 
-  "ArtistID": 608, 
+  "DateAcquired": "1999-11-18", 
   "Keywords": [
-    "online art collection", 
     "Barbara Bloom", 
     "A Birthday Party for Everything", 
     "1999"
   ], 
+  "ArtistID": 608, 
+  "Title": "A Birthday Party for Everything", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "414.1999.a-z", 
+  "Date": "1999", 
   "ArtistBio": "(American, born 1951)", 
-  "DateAcquired": "1999-11-18", 
-  "\ufeffTitle": "A Birthday Party for Everything", 
+  "CuratorApproved": "Y", 
   "ObjectID": "68699"
 }

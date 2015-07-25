@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Elizabeth Murray", 
   "URL": "http://www.moma.org/collection/works/67014", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Emily Fisher Landau", 
-  "Date": "1986", 
-  "ArtistID": 4185, 
+  "DateAcquired": "1986-10-15", 
   "Keywords": [
-    "online art collection", 
     "Elizabeth Murray", 
     "#1", 
     "1986"
   ], 
+  "ArtistID": 4185, 
+  "Title": "#1", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "327.1986", 
+  "Date": "1986", 
   "ArtistBio": "(American, 1940\u20132007)", 
-  "DateAcquired": "1986-10-15", 
-  "\ufeffTitle": "#1", 
+  "CuratorApproved": "Y", 
   "ObjectID": "67014"
 }

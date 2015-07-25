@@ -4,12 +4,9 @@
   "Classification": "Print", 
   "Artist": "Louise Bourgeois", 
   "URL": "http://www.moma.org/collection/works/68493", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the artist", 
-  "Date": "1947", 
-  "ArtistID": 710, 
+  "DateAcquired": "1993-11-17", 
   "Keywords": [
-    "online art collection", 
     "Louise Bourgeois", 
     "Untitled", 
     "plate 4", 
@@ -18,10 +15,12 @@
     "from He Disappeared into Complete Silence", 
     "1947"
   ], 
+  "ArtistID": 710, 
+  "Title": "Untitled, plate 4, second version, state I, from He Disappeared into Complete Silence", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "402.1993", 
+  "Date": "1947", 
   "ArtistBio": "(American, born France. 1911\u20132010)", 
-  "DateAcquired": "1993-11-17", 
-  "\ufeffTitle": "Untitled, plate 4, second version, state I, from He Disappeared into Complete Silence", 
+  "CuratorApproved": "Y", 
   "ObjectID": "68493"
 }

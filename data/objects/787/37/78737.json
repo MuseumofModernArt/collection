@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Amedeo Modigliani", 
   "URL": "http://www.moma.org/collection/works/78737", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Lillie P. Bliss Collection", 
-  "Date": "1917", 
-  "ArtistID": 4038, 
+  "DateAcquired": "1934-09-23", 
   "Keywords": [
-    "online art collection", 
     "Amedeo Modigliani", 
     "Anna Zborowska", 
     "1917"
   ], 
+  "ArtistID": 4038, 
+  "Title": "Anna Zborowska", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "87.1934", 
+  "Date": "1917", 
   "ArtistBio": "(Italian, 1884\u20131920)", 
-  "DateAcquired": "1934-09-23", 
-  "\ufeffTitle": "Anna Zborowska", 
+  "CuratorApproved": "Y", 
   "ObjectID": "78737"
 }

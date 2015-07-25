@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Max Ernst", 
   "URL": "http://www.moma.org/collection/works/79316", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "Paris 1936", 
-  "ArtistID": 1752, 
+  "DateAcquired": "1937-12-03", 
   "Keywords": [
-    "online art collection", 
     "Max Ernst", 
     "The Nymph Echo", 
     "Paris 1936"
   ], 
+  "ArtistID": 1752, 
+  "Title": "The Nymph Echo", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "262.1937", 
+  "Date": "Paris 1936", 
   "ArtistBio": "(French, born Germany. 1891\u20131976)", 
-  "DateAcquired": "1937-12-03", 
-  "\ufeffTitle": "The Nymph Echo", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79316"
 }

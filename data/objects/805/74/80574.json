@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Barnett Newman", 
   "URL": "http://www.moma.org/collection/works/80574", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of The Kulicke Family", 
-  "Date": "1950", 
-  "ArtistID": 4285, 
+  "DateAcquired": "1970-02-10", 
   "Keywords": [
-    "online art collection", 
     "Barnett Newman", 
     "The Wild", 
     "1950"
   ], 
+  "ArtistID": 4285, 
+  "Title": "The Wild", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "1139.1969", 
+  "Date": "1950", 
   "ArtistBio": "(American, 1905\u20131970)", 
-  "DateAcquired": "1970-02-10", 
-  "\ufeffTitle": "The Wild", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80574"
 }

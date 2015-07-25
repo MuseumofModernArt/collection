@@ -4,21 +4,20 @@
   "Classification": "Print", 
   "Artist": "Max Beckmann", 
   "URL": "http://www.moma.org/collection/works/70121", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Given anonymously", 
-  "Date": "(1912, published not before 1917)", 
-  "ArtistID": 429, 
+  "DateAcquired": "1942-11-19", 
   "Keywords": [
-    "online art collection", 
     "Max Beckmann", 
     "Evening Party (Abendgesellschaft)", 
     "(1912", 
     "published not before 1917)"
   ], 
+  "ArtistID": 429, 
+  "Title": "Evening Party (Abendgesellschaft)", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "496.1942", 
+  "Date": "(1912, published not before 1917)", 
   "ArtistBio": "(German, 1884\u20131950)", 
-  "DateAcquired": "1942-11-19", 
-  "\ufeffTitle": "Evening Party (Abendgesellschaft)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "70121"
 }

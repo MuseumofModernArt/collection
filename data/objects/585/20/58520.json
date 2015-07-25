@@ -4,21 +4,20 @@
   "Classification": "Photograph", 
   "Artist": "Associated Press", 
   "URL": "http://www.moma.org/collection/works/58520", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The New York Times Collection", 
-  "Date": "December 20, 1940", 
-  "ArtistID": 8501, 
+  "DateAcquired": "2001-06-14", 
   "Keywords": [
-    "online art collection", 
     "Associated Press", 
     "\"A German Officer Lectures Children in the Ghetto in Lublin\"", 
     "December 20", 
     "1940"
   ], 
+  "ArtistID": 8501, 
+  "Title": "\"A German Officer Lectures Children in the Ghetto in Lublin\"", 
   "Department": "Photography", 
   "MoMANumber": "1929.2001", 
+  "Date": "December 20, 1940", 
   "ArtistBio": "", 
-  "DateAcquired": "2001-06-14", 
-  "\ufeffTitle": "\"A German Officer Lectures Children in the Ghetto in Lublin\"", 
+  "CuratorApproved": "Y", 
   "ObjectID": "58520"
 }

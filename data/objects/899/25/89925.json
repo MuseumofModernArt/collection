@@ -4,20 +4,19 @@
   "Classification": "Photograph", 
   "Artist": "Gillian Wearing", 
   "URL": "http://www.moma.org/collection/works/89925", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Acquired through the generosity of The Contemporary Arts Council of The Museum of Modern Art", 
-  "Date": "2003", 
-  "ArtistID": 8485, 
+  "DateAcquired": "2004-05-13", 
   "Keywords": [
-    "online art collection", 
     "Gillian Wearing", 
     "Self-Portrait at 17 Years Old", 
     "2003"
   ], 
+  "ArtistID": 8485, 
+  "Title": "Self-Portrait at 17 Years Old", 
   "Department": "Photography", 
   "MoMANumber": "265.2004.x1-x2", 
+  "Date": "2003", 
   "ArtistBio": "(British, born 1963)", 
-  "DateAcquired": "2004-05-13", 
-  "\ufeffTitle": "Self-Portrait at 17 Years Old", 
+  "CuratorApproved": "Y", 
   "ObjectID": "89925"
 }

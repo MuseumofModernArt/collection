@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Niles Spencer", 
   "URL": "http://www.moma.org/collection/works/78332", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Nelson A. Rockefeller", 
-  "Date": "1933", 
-  "ArtistID": 5561, 
+  "DateAcquired": "1937-12-03", 
   "Keywords": [
-    "online art collection", 
     "Niles Spencer", 
     "Near Avenue A", 
     "1933"
   ], 
+  "ArtistID": 5561, 
+  "Title": "Near Avenue A", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "3.1938", 
+  "Date": "1933", 
   "ArtistBio": "(American, 1893\u20131952)", 
-  "DateAcquired": "1937-12-03", 
-  "\ufeffTitle": "Near Avenue A", 
+  "CuratorApproved": "Y", 
   "ObjectID": "78332"
 }

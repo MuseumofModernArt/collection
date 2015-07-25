@@ -4,23 +4,21 @@
   "Classification": "Painting", 
   "Artist": "On Kawara", 
   "URL": "http://www.moma.org/collection/works/78641", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Blanchette Hooker Rockefeller Fund", 
-  "Date": "1979", 
-  "ArtistID": 3030, 
+  "DateAcquired": "1981-04-07", 
   "Keywords": [
-    "online art collection", 
     "On Kawara", 
     "Wednesday", 
     "Dec", 
     "12", 
-    "1979", 
     "1979"
   ], 
+  "ArtistID": 3030, 
+  "Title": "Wednesday, Dec. 12, 1979", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "61.1981", 
+  "Date": "1979", 
   "ArtistBio": "(Japanese, 1933\u20132014)", 
-  "DateAcquired": "1981-04-07", 
-  "\ufeffTitle": "Wednesday, Dec. 12, 1979", 
+  "CuratorApproved": "Y", 
   "ObjectID": "78641"
 }

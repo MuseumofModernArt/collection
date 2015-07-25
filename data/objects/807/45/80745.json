@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Lee Bontecou", 
   "URL": "http://www.moma.org/collection/works/80745", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Mr. and Mrs. Arnold H. Maremont", 
-  "Date": "1959", 
-  "ArtistID": 670, 
+  "DateAcquired": "1960-02-10", 
   "Keywords": [
-    "online art collection", 
     "Lee Bontecou", 
     "Untitled", 
     "1959"
   ], 
+  "ArtistID": 670, 
+  "Title": "Untitled", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "2.1960", 
+  "Date": "1959", 
   "ArtistBio": "(American, born 1931)", 
-  "DateAcquired": "1960-02-10", 
-  "\ufeffTitle": "Untitled", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80745"
 }

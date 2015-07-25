@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Paul Klee", 
   "URL": "http://www.moma.org/collection/works/80554", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of James Thrall Soby", 
-  "Date": "1928", 
-  "ArtistID": 3130, 
+  "DateAcquired": "1970-02-10", 
   "Keywords": [
-    "online art collection", 
     "Paul Klee", 
     "Gifts for \"J,\"", 
     "1928"
   ], 
+  "ArtistID": 3130, 
+  "Title": "Gifts for \"J.\"", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "1092.1969", 
+  "Date": "1928", 
   "ArtistBio": "(German, born Switzerland. 1879\u20131940)", 
-  "DateAcquired": "1970-02-10", 
-  "\ufeffTitle": "Gifts for \"J.\"", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80554"
 }

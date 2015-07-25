@@ -4,20 +4,19 @@
   "Classification": "Drawing", 
   "Artist": "Jacques Villon", 
   "URL": "http://www.moma.org/collection/works/36350", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Mr. and Mrs. Simon Askin", 
-  "Date": "1922", 
-  "ArtistID": 6165, 
+  "DateAcquired": "1962-12-11", 
   "Keywords": [
-    "online art collection", 
     "Jacques Villon", 
     "Study", 
     "1922"
   ], 
+  "ArtistID": 6165, 
+  "Title": "Study", 
   "Department": "Drawings", 
   "MoMANumber": "331.1962", 
+  "Date": "1922", 
   "ArtistBio": "(French, 1875\u20131963)", 
-  "DateAcquired": "1962-12-11", 
-  "\ufeffTitle": "Study", 
+  "CuratorApproved": "Y", 
   "ObjectID": "36350"
 }

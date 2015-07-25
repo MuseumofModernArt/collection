@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Aristide Maillol", 
   "URL": "http://www.moma.org/collection/works/80783", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the artist", 
-  "Date": "1906-08", 
-  "ArtistID": 3697, 
+  "DateAcquired": "1930-04-02", 
   "Keywords": [
-    "online art collection", 
     "Aristide Maillol", 
     "Desire", 
     "1906-08"
   ], 
+  "ArtistID": 3697, 
+  "Title": "Desire", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "7.1930", 
+  "Date": "1906-08", 
   "ArtistBio": "(French, 1861\u20131944)", 
-  "DateAcquired": "1930-04-02", 
-  "\ufeffTitle": "Desire", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80783"
 }

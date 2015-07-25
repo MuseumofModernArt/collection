@@ -4,20 +4,19 @@
   "Classification": "Drawing", 
   "Artist": "Alberto Giacometti", 
   "URL": "http://www.moma.org/collection/works/38593", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift in memory of Audrey Stern Hess", 
-  "Date": "1948", 
-  "ArtistID": 2141, 
+  "DateAcquired": "1975-01-24", 
   "Keywords": [
-    "online art collection", 
     "Alberto Giacometti", 
     "The Studio (Two Pieces of Sculpture)", 
     "1948"
   ], 
+  "ArtistID": 2141, 
+  "Title": "The Studio (Two Pieces of Sculpture)", 
   "Department": "Drawings", 
   "MoMANumber": "1363.1974", 
+  "Date": "1948", 
   "ArtistBio": "(Swiss, 1901\u20131966)", 
-  "DateAcquired": "1975-01-24", 
-  "\ufeffTitle": "The Studio (Two Pieces of Sculpture)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "38593"
 }

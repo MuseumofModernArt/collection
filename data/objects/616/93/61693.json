@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Henri Matisse", 
   "URL": "http://www.moma.org/collection/works/61693", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Transferred from the Museum Library", 
-  "Date": "(1954)", 
-  "ArtistID": 3832, 
+  "DateAcquired": "1955-04-06", 
   "Keywords": [
-    "online art collection", 
     "Henri Matisse", 
     "Frontispiece from Portraits by Andr&eacute; Saurent", 
     "(1954)"
   ], 
+  "ArtistID": 3832, 
+  "Title": "Frontispiece from Portraits by Andr\u00e9 Saurent", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "92.1955", 
+  "Date": "(1954)", 
   "ArtistBio": "(French, 1869\u20131954)", 
-  "DateAcquired": "1955-04-06", 
-  "\ufeffTitle": "Frontispiece from Portraits by Andr\u00e9 Saurent", 
+  "CuratorApproved": "Y", 
   "ObjectID": "61693"
 }

@@ -4,12 +4,9 @@
   "Classification": "A&D Architectural Drawing", 
   "Artist": "Hans Hollein", 
   "URL": "http://www.moma.org/collection/works/644", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Philip Johnson Fund", 
-  "Date": "1964", 
-  "ArtistID": 2705, 
+  "DateAcquired": "1967-04-11", 
   "Keywords": [
-    "online art collection", 
     "Hans Hollein", 
     "Highrise Building", 
     "Theodolite", 
@@ -17,10 +14,12 @@
     "Perspective", 
     "1964"
   ], 
+  "ArtistID": 2705, 
+  "Title": "Highrise Building, Theodolite, project, Perspective", 
   "Department": "Architecture & Design", 
   "MoMANumber": "439.1967", 
+  "Date": "1964", 
   "ArtistBio": "(Austrian, 1934\u20132014)", 
-  "DateAcquired": "1967-04-11", 
-  "\ufeffTitle": "Highrise Building, Theodolite, project, Perspective", 
+  "CuratorApproved": "Y", 
   "ObjectID": "644"
 }

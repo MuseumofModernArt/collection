@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Alberto Giacometti", 
   "URL": "http://www.moma.org/collection/works/89539", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Bequest of Sylvia Slifka", 
-  "Date": "1927 (cast late 1929 or early 1930)", 
-  "ArtistID": 2141, 
+  "DateAcquired": "2004-03-09", 
   "Keywords": [
-    "online art collection", 
     "Alberto Giacometti", 
     "The Couple", 
     "1927 (cast late 1929 or early 1930)"
   ], 
+  "ArtistID": 2141, 
+  "Title": "The Couple", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "21.2004", 
+  "Date": "1927 (cast late 1929 or early 1930)", 
   "ArtistBio": "(Swiss, 1901\u20131966)", 
-  "DateAcquired": "2004-03-09", 
-  "\ufeffTitle": "The Couple", 
+  "CuratorApproved": "Y", 
   "ObjectID": "89539"
 }

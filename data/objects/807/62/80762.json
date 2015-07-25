@@ -4,12 +4,9 @@
   "Classification": "Sculpture", 
   "Artist": "Henri Matisse", 
   "URL": "http://www.moma.org/collection/works/80762", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Mrs. Simon Guggenheim Fund", 
-  "Date": "Paris, Couvent du Sacr\u00e9 Coeur, and Issy-les-Moulineaux, spring 1908-late 1909", 
-  "ArtistID": 3832, 
+  "DateAcquired": "1952-01-22", 
   "Keywords": [
-    "online art collection", 
     "Henri Matisse", 
     "The Back (I)", 
     "Paris", 
@@ -17,10 +14,12 @@
     "and Issy-les-Moulineaux", 
     "spring 1908-late 1909"
   ], 
+  "ArtistID": 3832, 
+  "Title": "The Back (I)", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "4.1952", 
+  "Date": "Paris, Couvent du Sacr\u00e9 Coeur, and Issy-les-Moulineaux, spring 1908-late 1909", 
   "ArtistBio": "(French, 1869\u20131954)", 
-  "DateAcquired": "1952-01-22", 
-  "\ufeffTitle": "The Back (I)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80762"
 }

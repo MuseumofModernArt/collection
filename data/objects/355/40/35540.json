@@ -4,20 +4,19 @@
   "Classification": "Drawing", 
   "Artist": "Diego Rivera", 
   "URL": "http://www.moma.org/collection/works/35540", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Given anonymously", 
-  "Date": "1930", 
-  "ArtistID": 4942, 
+  "DateAcquired": "1940-04-05", 
   "Keywords": [
-    "online art collection", 
     "Diego Rivera", 
     "Building the Palace Of Cortez", 
     "1930"
   ], 
+  "ArtistID": 4942, 
+  "Title": "Building the Palace Of Cortez", 
   "Department": "Drawings", 
   "MoMANumber": "207.1940", 
+  "Date": "1930", 
   "ArtistBio": "(Mexican, 1886\u20131957)", 
-  "DateAcquired": "1940-04-05", 
-  "\ufeffTitle": "Building the Palace Of Cortez", 
+  "CuratorApproved": "Y", 
   "ObjectID": "35540"
 }

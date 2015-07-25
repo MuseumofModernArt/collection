@@ -4,21 +4,20 @@
   "Classification": "A&D Architectural Model", 
   "Artist": "R. Buckminster Fuller", 
   "URL": "http://www.moma.org/collection/works/82399", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the architect", 
-  "Date": "1953", 
-  "ArtistID": 2030, 
+  "DateAcquired": "1960-01-01", 
   "Keywords": [
-    "online art collection", 
     "R", 
     "Buckminster Fuller", 
     "Octet Truss Project", 
     "1953"
   ], 
+  "ArtistID": 2030, 
+  "Title": "Octet Truss Project", 
   "Department": "Architecture & Design", 
   "MoMANumber": "MC 29", 
+  "Date": "1953", 
   "ArtistBio": "(American, 1895\u20131983)", 
-  "DateAcquired": "1960-01-01", 
-  "\ufeffTitle": "Octet Truss Project", 
+  "CuratorApproved": "Y", 
   "ObjectID": "82399"
 }

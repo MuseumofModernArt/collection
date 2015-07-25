@@ -4,22 +4,21 @@
   "Classification": "Photograph", 
   "Artist": "Paul Graham", 
   "URL": "http://www.moma.org/collection/works/55233", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Acquired through the generosity of Shirley C. Burden", 
-  "Date": "1984", 
-  "ArtistID": 2286, 
+  "DateAcquired": "1987-12-10", 
   "Keywords": [
-    "online art collection", 
     "Paul Graham", 
     "DHSS Emergency Centre", 
     "Elephant and Castle", 
     "South London", 
     "1984"
   ], 
+  "ArtistID": 2286, 
+  "Title": "DHSS Emergency Centre, Elephant and Castle, South London", 
   "Department": "Photography", 
   "MoMANumber": "569.1987.x1-x2", 
+  "Date": "1984", 
   "ArtistBio": "(British, born 1956)", 
-  "DateAcquired": "1987-12-10", 
-  "\ufeffTitle": "DHSS Emergency Centre, Elephant and Castle, South London", 
+  "CuratorApproved": "Y", 
   "ObjectID": "55233"
 }

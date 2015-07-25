@@ -4,12 +4,9 @@
   "Classification": "A&D Architectural Drawing", 
   "Artist": "Louis I. Kahn", 
   "URL": "http://www.moma.org/collection/works/411", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the architect", 
-  "Date": "1960", 
-  "ArtistID": 2964, 
+  "DateAcquired": "1967-04-11", 
   "Keywords": [
-    "online art collection", 
     "Louis I", 
     "Kahn", 
     "Alfred Newton Richards Medical Research Building and Biology Building", 
@@ -20,10 +17,12 @@
     "final version", 
     "1960"
   ], 
+  "ArtistID": 2964, 
+  "Title": "Alfred Newton Richards Medical Research Building and Biology Building, University of Pennsylvania, Philadelphia, Pennsylvania, Exterior perspective, final version", 
   "Department": "Architecture & Design", 
   "MoMANumber": "369.1967", 
+  "Date": "1960", 
   "ArtistBio": "(American, born Estonia. 1901\u20131974)", 
-  "DateAcquired": "1967-04-11", 
-  "\ufeffTitle": "Alfred Newton Richards Medical Research Building and Biology Building, University of Pennsylvania, Philadelphia, Pennsylvania, Exterior perspective, final version", 
+  "CuratorApproved": "Y", 
   "ObjectID": "411"
 }

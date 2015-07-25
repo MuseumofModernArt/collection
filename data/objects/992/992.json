@@ -4,22 +4,21 @@
   "Classification": "A&D Architectural Model", 
   "Artist": "Charles Eames", 
   "URL": "http://www.moma.org/collection/works/992", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Emilio Ambasz Fund", 
-  "Date": "1949", 
-  "ArtistID": 1671, 
+  "DateAcquired": "1984-10-03", 
   "Keywords": [
-    "online art collection", 
     "Charles Eames", 
     "Eames House", 
     "Santa Monica", 
     "California", 
     "1949"
   ], 
+  "ArtistID": 1671, 
+  "Title": "Eames House, Santa Monica, California", 
   "Department": "Architecture & Design", 
   "MoMANumber": "153.1984", 
+  "Date": "1949", 
   "ArtistBio": "(American, 1907\u20131978)", 
-  "DateAcquired": "1984-10-03", 
-  "\ufeffTitle": "Eames House, Santa Monica, California", 
+  "CuratorApproved": "Y", 
   "ObjectID": "992"
 }

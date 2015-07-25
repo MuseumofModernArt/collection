@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Jackson Pollock", 
   "URL": "http://www.moma.org/collection/works/75966", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Lee Krasner Pollock", 
-  "Date": "(1951)", 
-  "ArtistID": 4675, 
+  "DateAcquired": "1970-03-05", 
   "Keywords": [
-    "online art collection", 
     "Jackson Pollock", 
     "Untitled from an untitled portfolio", 
     "(1951)"
   ], 
+  "ArtistID": 4675, 
+  "Title": "Untitled from an untitled portfolio", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "1188.1969.1", 
+  "Date": "(1951)", 
   "ArtistBio": "(American, 1912\u20131956)", 
-  "DateAcquired": "1970-03-05", 
-  "\ufeffTitle": "Untitled from an untitled portfolio", 
+  "CuratorApproved": "Y", 
   "ObjectID": "75966"
 }

@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Edvard Munch", 
   "URL": "http://www.moma.org/collection/works/70709", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Given anonymously", 
-  "Date": "1895", 
-  "ArtistID": 4164, 
+  "DateAcquired": "1942-11-19", 
   "Keywords": [
-    "online art collection", 
     "Edvard Munch", 
     "Tiltrekning II (Attraction II)", 
     "1895"
   ], 
+  "ArtistID": 4164, 
+  "Title": "Attraction II (Tiltrekning II)", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "534.1942", 
+  "Date": "1895", 
   "ArtistBio": "(Norwegian, 1863\u20131944)", 
-  "DateAcquired": "1942-11-19", 
-  "\ufeffTitle": "Attraction II (Tiltrekning II)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "70709"
 }

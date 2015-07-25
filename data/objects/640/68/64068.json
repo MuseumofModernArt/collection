@@ -4,21 +4,20 @@
   "Classification": "Print", 
   "Artist": "Pablo Picasso", 
   "URL": "http://www.moma.org/collection/works/64068", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Mrs. Bertram Smith Fund", 
-  "Date": "(December 22, 1956)", 
-  "ArtistID": 4609, 
+  "DateAcquired": "1957-10-09", 
   "Keywords": [
-    "online art collection", 
     "Pablo Picasso", 
     "Back of a Nude Woman (Femme nue de dos)", 
     "(December 22", 
     "1956)"
   ], 
+  "ArtistID": 4609, 
+  "Title": "Back of a Nude Woman (Femme nue de dos)", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "190.1957", 
+  "Date": "(December 22, 1956)", 
   "ArtistBio": "(Spanish, 1881\u20131973)", 
-  "DateAcquired": "1957-10-09", 
-  "\ufeffTitle": "Back of a Nude Woman (Femme nue de dos)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "64068"
 }

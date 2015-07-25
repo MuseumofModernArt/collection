@@ -4,21 +4,20 @@
   "Classification": "Print", 
   "Artist": "Max Beckmann", 
   "URL": "http://www.moma.org/collection/works/66340", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Abby Aldrich Rockefeller Fund", 
-  "Date": "(1918, published 1919)", 
-  "ArtistID": 429, 
+  "DateAcquired": "1951-05-24", 
   "Keywords": [
-    "online art collection", 
     "Max Beckmann", 
     "Spring (Fr&uuml;hling) from  Faces (Gesichter)", 
     "(1918", 
     "published 1919)"
   ], 
+  "ArtistID": 429, 
+  "Title": "Spring (Fr\u00fchling) from  Faces (Gesichter)", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "296.1951", 
+  "Date": "(1918, published 1919)", 
   "ArtistBio": "(German, 1884\u20131950)", 
-  "DateAcquired": "1951-05-24", 
-  "\ufeffTitle": "Spring (Fr\u00fchling) from  Faces (Gesichter)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "66340"
 }

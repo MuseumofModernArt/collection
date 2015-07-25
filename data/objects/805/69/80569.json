@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Marcel Jean", 
   "URL": "http://www.moma.org/collection/works/80569", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Kay Sage Tanguy Bequest", 
-  "Date": "1946", 
-  "ArtistID": 2898, 
+  "DateAcquired": "1964-11-10", 
   "Keywords": [
-    "online art collection", 
     "Marcel Jean", 
     "Birth of a Sailboat", 
     "1946"
   ], 
+  "ArtistID": 2898, 
+  "Title": "Birth of a Sailboat", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "1128.1964", 
+  "Date": "1946", 
   "ArtistBio": "(French, 1900\u20131993)", 
-  "DateAcquired": "1964-11-10", 
-  "\ufeffTitle": "Birth of a Sailboat", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80569"
 }

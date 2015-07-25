@@ -4,22 +4,21 @@
   "Classification": "Photograph", 
   "Artist": "William H. Rau", 
   "URL": "http://www.moma.org/collection/works/50891", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Lois and Bruce Zenkel Fund", 
-  "Date": "1900", 
-  "ArtistID": 4822, 
+  "DateAcquired": "1987-10-15", 
   "Keywords": [
-    "online art collection", 
     "William H", 
     "Rau", 
     "The New Stone Bridge over the Susquehanna River at Rockville", 
     "Pennsylvania", 
     "1900"
   ], 
+  "ArtistID": 4822, 
+  "Title": "The New Stone Bridge over the Susquehanna River at Rockville, Pennsylvania", 
   "Department": "Photography", 
   "MoMANumber": "327.1987", 
+  "Date": "1900", 
   "ArtistBio": "(American, 1855\u20131920)", 
-  "DateAcquired": "1987-10-15", 
-  "\ufeffTitle": "The New Stone Bridge over the Susquehanna River at Rockville, Pennsylvania", 
+  "CuratorApproved": "Y", 
   "ObjectID": "50891"
 }

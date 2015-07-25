@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Abraham Rattner", 
   "URL": "http://www.moma.org/collection/works/78474", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Given anonymously", 
-  "Date": "1938", 
-  "ArtistID": 4821, 
+  "DateAcquired": "1940-04-05", 
   "Keywords": [
-    "online art collection", 
     "Abraham Rattner", 
     "Mother and Child", 
     "1938"
   ], 
+  "ArtistID": 4821, 
+  "Title": "Mother and Child", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "19.1940", 
+  "Date": "1938", 
   "ArtistBio": "(American, 1893\u20131978)", 
-  "DateAcquired": "1940-04-05", 
-  "\ufeffTitle": "Mother and Child", 
+  "CuratorApproved": "Y", 
   "ObjectID": "78474"
 }

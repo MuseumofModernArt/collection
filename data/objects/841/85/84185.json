@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Elizabeth Murray", 
   "URL": "http://www.moma.org/collection/works/84185", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Partial and promised gift of UBS", 
-  "Date": "1976", 
-  "ArtistID": 4185, 
+  "DateAcquired": "2002-04-08", 
   "Keywords": [
-    "online art collection", 
     "Elizabeth Murray", 
     "Southern California", 
     "1976"
   ], 
+  "ArtistID": 4185, 
+  "Title": "Southern California", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "102.2002", 
+  "Date": "1976", 
   "ArtistBio": "(American, 1940\u20132007)", 
-  "DateAcquired": "2002-04-08", 
-  "\ufeffTitle": "Southern California", 
+  "CuratorApproved": "Y", 
   "ObjectID": "84185"
 }

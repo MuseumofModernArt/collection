@@ -4,12 +4,9 @@
   "Classification": "A&D Architectural Drawing", 
   "Artist": "Tadao Ando", 
   "URL": "http://www.moma.org/collection/works/222", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the architect", 
-  "Date": "Unknown", 
-  "ArtistID": 7055, 
+  "DateAcquired": "1993-05-04", 
   "Keywords": [
-    "online art collection", 
     "Tadao Ando", 
     "Church on the Water", 
     "Tomamu", 
@@ -18,10 +15,12 @@
     "Plan and sketch", 
     "Unknown"
   ], 
+  "ArtistID": 7055, 
+  "Title": "Church on the Water, Tomamu, Hokkaido, Japan, Plan and sketch", 
   "Department": "Architecture & Design", 
   "MoMANumber": "138.1993", 
+  "Date": "Unknown", 
   "ArtistBio": "(Japanese, born 1941)", 
-  "DateAcquired": "1993-05-04", 
-  "\ufeffTitle": "Church on the Water, Tomamu, Hokkaido, Japan, Plan and sketch", 
+  "CuratorApproved": "Y", 
   "ObjectID": "222"
 }

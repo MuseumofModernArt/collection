@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Max Ernst", 
   "URL": "http://www.moma.org/collection/works/81615", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the artist", 
-  "Date": "1944 (cast 1973)", 
-  "ArtistID": 1752, 
+  "DateAcquired": "1973-10-09", 
   "Keywords": [
-    "online art collection", 
     "Max Ernst", 
     "An Anxious Friend", 
     "1944 (cast 1973)"
   ], 
+  "ArtistID": 1752, 
+  "Title": "An Anxious Friend", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "583.1973", 
+  "Date": "1944 (cast 1973)", 
   "ArtistBio": "(French, born Germany. 1891\u20131976)", 
-  "DateAcquired": "1973-10-09", 
-  "\ufeffTitle": "An Anxious Friend", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81615"
 }

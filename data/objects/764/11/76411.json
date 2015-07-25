@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Josef Albers", 
   "URL": "http://www.moma.org/collection/works/76411", 
-  "CuratorApproved": "Y", 
   "CreditLine": "John B. Turner Fund", 
-  "Date": "1968", 
-  "ArtistID": 97, 
+  "DateAcquired": "1968-10-10", 
   "Keywords": [
-    "online art collection", 
     "Josef Albers", 
     "Variant MM", 
     "1968"
   ], 
+  "ArtistID": 97, 
+  "Title": "Variant MM", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "1341.1968", 
+  "Date": "1968", 
   "ArtistBio": "(American, born Germany. 1888\u20131976)", 
-  "DateAcquired": "1968-10-10", 
-  "\ufeffTitle": "Variant MM", 
+  "CuratorApproved": "Y", 
   "ObjectID": "76411"
 }

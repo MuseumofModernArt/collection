@@ -4,21 +4,20 @@
   "Classification": "Photograph", 
   "Artist": "Lee Friedlander", 
   "URL": "http://www.moma.org/collection/works/55948", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1966", 
-  "ArtistID": 2002, 
+  "DateAcquired": "2000-10-12", 
   "Keywords": [
-    "online art collection", 
     "Lee Friedlander", 
     "Madison", 
     "Wisconsin", 
     "1966"
   ], 
+  "ArtistID": 2002, 
+  "Title": "Madison, Wisconsin", 
   "Department": "Photography", 
   "MoMANumber": "670.2000", 
+  "Date": "1966", 
   "ArtistBio": "(American, born 1934)", 
-  "DateAcquired": "2000-10-12", 
-  "\ufeffTitle": "Madison, Wisconsin", 
+  "CuratorApproved": "Y", 
   "ObjectID": "55948"
 }

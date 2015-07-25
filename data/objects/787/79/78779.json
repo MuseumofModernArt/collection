@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Arthur Dove", 
   "URL": "http://www.moma.org/collection/works/78779", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The Philip L. Goodwin Collection", 
-  "Date": "1925", 
-  "ArtistID": 1602, 
+  "DateAcquired": "1958-10-29", 
   "Keywords": [
-    "online art collection", 
     "Arthur Dove", 
     "The Intellectual", 
     "1925"
   ], 
+  "ArtistID": 1602, 
+  "Title": "The Intellectual", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "101.1958", 
+  "Date": "1925", 
   "ArtistBio": "(American, 1880\u20131946)", 
-  "DateAcquired": "1958-10-29", 
-  "\ufeffTitle": "The Intellectual", 
+  "CuratorApproved": "Y", 
   "ObjectID": "78779"
 }

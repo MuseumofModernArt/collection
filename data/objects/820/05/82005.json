@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Heinz Mack", 
   "URL": "http://www.moma.org/collection/works/82005", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Elizabeth Bliss Parkinson Fund", 
-  "Date": "1964", 
-  "ArtistID": 3669, 
+  "DateAcquired": "1964-12-08", 
   "Keywords": [
-    "online art collection", 
     "Heinz Mack", 
     "Silver Dynamo", 
     "1964"
   ], 
+  "ArtistID": 3669, 
+  "Title": "Silver Dynamo", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "1239.1964", 
+  "Date": "1964", 
   "ArtistBio": "(German, born 1931)", 
-  "DateAcquired": "1964-12-08", 
-  "\ufeffTitle": "Silver Dynamo", 
+  "CuratorApproved": "Y", 
   "ObjectID": "82005"
 }

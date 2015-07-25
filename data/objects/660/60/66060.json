@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Pablo Picasso", 
   "URL": "http://www.moma.org/collection/works/66060", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of M. and Mme. Georges Rami\u00e9", 
-  "Date": "(1952)", 
-  "ArtistID": 4609, 
+  "DateAcquired": "1952-11-07", 
   "Keywords": [
-    "online art collection", 
     "Pablo Picasso", 
     "Exposition 1952 Vallauris", 
     "(1952)"
   ], 
+  "ArtistID": 4609, 
+  "Title": "Exposition 1952 Vallauris", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "287.1952", 
+  "Date": "(1952)", 
   "ArtistBio": "(Spanish, 1881\u20131973)", 
-  "DateAcquired": "1952-11-07", 
-  "\ufeffTitle": "Exposition 1952 Vallauris", 
+  "CuratorApproved": "Y", 
   "ObjectID": "66060"
 }

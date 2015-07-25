@@ -4,12 +4,9 @@
   "Classification": "A&D Architectural Model", 
   "Artist": "Rem Koolhaas, Julien Monfort, Jeroen Thomas, Yo Yamagata, Jeanne Gang, Chris Dondorp", 
   "URL": "http://www.moma.org/collection/works/974", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Patricia Phelps de Cisneros in honor of Terence Riley", 
-  "Date": "1994-98", 
-  "ArtistID": 6955, 
+  "DateAcquired": "1996-04-09", 
   "Keywords": [
-    "online art collection", 
     "O,M,A", 
     "(Office for Metropolitan Architecture)", 
     "Rem Koolhaas", 
@@ -23,10 +20,12 @@
     "France", 
     "1994-98"
   ], 
+  "ArtistID": 6955, 
+  "Title": "Lemoine House (Maison \u00e0 Bordeaux), Floirac, Bordeaux, France", 
   "Department": "Architecture & Design", 
   "MoMANumber": "101.1996", 
+  "Date": "1994-98", 
   "ArtistBio": "(Dutch, born 1944) (French, born 1968) (Dutch, born 1952) (Japanese, born 1962) (American, born 1964) (Dutch, born 1970)", 
-  "DateAcquired": "1996-04-09", 
-  "\ufeffTitle": "Lemoine House (Maison \u00e0 Bordeaux), Floirac, Bordeaux, France", 
+  "CuratorApproved": "Y", 
   "ObjectID": "974"
 }

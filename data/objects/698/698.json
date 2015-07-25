@@ -4,22 +4,21 @@
   "Classification": "A&D Architectural Drawing", 
   "Artist": "Walter Pichler", 
   "URL": "http://www.moma.org/collection/works/698", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Philip Johnson Fund", 
-  "Date": "1963", 
-  "ArtistID": 4612, 
+  "DateAcquired": "1963-11-12", 
   "Keywords": [
-    "online art collection", 
     "Walter Pichler", 
     "Underground Building", 
     "project", 
     "Isometric", 
     "1963"
   ], 
+  "ArtistID": 4612, 
+  "Title": "Underground Building, project, Isometric", 
   "Department": "Architecture & Design", 
   "MoMANumber": "566.1963", 
+  "Date": "1963", 
   "ArtistBio": "(Austrian, 1936\u20132012)", 
-  "DateAcquired": "1963-11-12", 
-  "\ufeffTitle": "Underground Building, project, Isometric", 
+  "CuratorApproved": "Y", 
   "ObjectID": "698"
 }

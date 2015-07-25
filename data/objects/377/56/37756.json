@@ -4,21 +4,20 @@
   "Classification": "Drawing", 
   "Artist": "Jackson Pollock", 
   "URL": "http://www.moma.org/collection/works/37756", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Philip Johnson, Abby Aldrich Rockefeller, Curt Valentin and Edward M. M. Warburg (by exchange)", 
-  "Date": "(c. 1945)", 
-  "ArtistID": 4675, 
+  "DateAcquired": "1983-11-04", 
   "Keywords": [
-    "online art collection", 
     "Jackson Pollock", 
     "Untitled", 
     "(c", 
     "1945)"
   ], 
+  "ArtistID": 4675, 
+  "Title": "Untitled", 
   "Department": "Drawings", 
   "MoMANumber": "662.1983", 
+  "Date": "(c. 1945)", 
   "ArtistBio": "(American, 1912\u20131956)", 
-  "DateAcquired": "1983-11-04", 
-  "\ufeffTitle": "Untitled", 
+  "CuratorApproved": "Y", 
   "ObjectID": "37756"
 }

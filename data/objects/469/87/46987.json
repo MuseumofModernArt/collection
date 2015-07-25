@@ -4,21 +4,20 @@
   "Classification": "Photograph", 
   "Artist": "Harry Callahan", 
   "URL": "http://www.moma.org/collection/works/46987", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1956", 
-  "ArtistID": 924, 
+  "DateAcquired": "1964-02-11", 
   "Keywords": [
-    "online art collection", 
     "Harry Callahan", 
     "Tree", 
     "Chicago", 
     "1956"
   ], 
+  "ArtistID": 924, 
+  "Title": "Tree, Chicago", 
   "Department": "Photography", 
   "MoMANumber": "156.1964", 
+  "Date": "1956", 
   "ArtistBio": "(American, 1912\u20131999)", 
-  "DateAcquired": "1964-02-11", 
-  "\ufeffTitle": "Tree, Chicago", 
+  "CuratorApproved": "Y", 
   "ObjectID": "46987"
 }

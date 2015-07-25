@@ -4,20 +4,19 @@
   "Classification": "A&D Graphic Design", 
   "Artist": "John Melin, Anders Osterlin", 
   "URL": "http://www.moma.org/collection/works/8057", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Given anonymously", 
-  "Date": "Unknown", 
-  "ArtistID": 3919, 
+  "DateAcquired": "1963-12-10", 
   "Keywords": [
-    "online art collection", 
     "John Melin and Anders Osterlin", 
     "Lunds Konsthall", 
     "Unknown"
   ], 
+  "ArtistID": 3919, 
+  "Title": "Lunds Konsthall", 
   "Department": "Architecture & Design", 
   "MoMANumber": "756.1963", 
+  "Date": "Unknown", 
   "ArtistBio": "(Swedish, born 1921) (Swedish, born 1926)", 
-  "DateAcquired": "1963-12-10", 
-  "\ufeffTitle": "Lunds Konsthall", 
+  "CuratorApproved": "Y", 
   "ObjectID": "8057"
 }

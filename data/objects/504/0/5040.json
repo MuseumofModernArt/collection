@@ -4,21 +4,20 @@
   "Classification": "A&D Graphic Design", 
   "Artist": "E. McKnight Kauffer", 
   "URL": "http://www.moma.org/collection/works/5040", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the Civil Aeronautics Administration", 
-  "Date": "1943", 
-  "ArtistID": 3020, 
+  "DateAcquired": "1944-05-02", 
   "Keywords": [
-    "online art collection", 
     "E", 
     "McKnight Kauffer", 
     "Civil Aeronautics Administration", 
     "1943"
   ], 
+  "ArtistID": 3020, 
+  "Title": "Civil Aeronautics Administration", 
   "Department": "Architecture & Design", 
   "MoMANumber": "94.1944", 
+  "Date": "1943", 
   "ArtistBio": "(American, 1890\u20131954)", 
-  "DateAcquired": "1944-05-02", 
-  "\ufeffTitle": "Civil Aeronautics Administration", 
+  "CuratorApproved": "Y", 
   "ObjectID": "5040"
 }

@@ -4,20 +4,19 @@
   "Classification": "Drawing", 
   "Artist": "Jackson Pollock", 
   "URL": "http://www.moma.org/collection/works/33138", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Mr. and Mrs. Donald B. Straus Fund", 
-  "Date": "1942", 
-  "ArtistID": 4675, 
+  "DateAcquired": "1958-02-19", 
   "Keywords": [
-    "online art collection", 
     "Jackson Pollock", 
     "Animals and Figures", 
     "1942"
   ], 
+  "ArtistID": 4675, 
+  "Title": "Animals and Figures", 
   "Department": "Drawings", 
   "MoMANumber": "12.1958", 
+  "Date": "1942", 
   "ArtistBio": "(American, 1912\u20131956)", 
-  "DateAcquired": "1958-02-19", 
-  "\ufeffTitle": "Animals and Figures", 
+  "CuratorApproved": "Y", 
   "ObjectID": "33138"
 }

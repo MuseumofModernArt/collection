@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Georges Vantongerloo", 
   "URL": "http://www.moma.org/collection/works/81525", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Silvia Pizitz", 
-  "Date": "1921", 
-  "ArtistID": 6091, 
+  "DateAcquired": "1953-12-29", 
   "Keywords": [
-    "online art collection", 
     "Georges Vantongerloo", 
     "Construction of Volume Relations", 
     "1921"
   ], 
+  "ArtistID": 6091, 
+  "Title": "Construction of Volume Relations", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "509.1953", 
+  "Date": "1921", 
   "ArtistBio": "(Belgian, 1886\u20131965)", 
-  "DateAcquired": "1953-12-29", 
-  "\ufeffTitle": "Construction of Volume Relations", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81525"
 }

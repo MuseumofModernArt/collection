@@ -4,21 +4,20 @@
   "Classification": "Print", 
   "Artist": "Robert Rauschenberg", 
   "URL": "http://www.moma.org/collection/works/65404", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Celeste Bartos", 
-  "Date": "1974", 
-  "ArtistID": 4823, 
+  "DateAcquired": "1974-04-23", 
   "Keywords": [
-    "online art collection", 
     "Robert Rauschenberg", 
     "Veils", 
     "3", 
     "1974"
   ], 
+  "ArtistID": 4823, 
+  "Title": "Veils, 3", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "258.1974", 
+  "Date": "1974", 
   "ArtistBio": "(American, 1925\u20132008)", 
-  "DateAcquired": "1974-04-23", 
-  "\ufeffTitle": "Veils, 3", 
+  "CuratorApproved": "Y", 
   "ObjectID": "65404"
 }

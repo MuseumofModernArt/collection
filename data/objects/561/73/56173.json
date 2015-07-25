@@ -4,21 +4,20 @@
   "Classification": "Photograph", 
   "Artist": "Weegee (Arthur Fellig)", 
   "URL": "http://www.moma.org/collection/works/56173", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1943", 
-  "ArtistID": 1842, 
+  "DateAcquired": "1943-11-04", 
   "Keywords": [
-    "online art collection", 
     "Weegee (Arthur Fellig)", 
     "Woman Shot from Cannon", 
     "New York", 
     "1943"
   ], 
+  "ArtistID": 1842, 
+  "Title": "Woman Shot from Cannon, New York", 
   "Department": "Photography", 
   "MoMANumber": "696.1943", 
+  "Date": "1943", 
   "ArtistBio": "(American, born Austria. 1899\u20131968)", 
-  "DateAcquired": "1943-11-04", 
-  "\ufeffTitle": "Woman Shot from Cannon, New York", 
+  "CuratorApproved": "Y", 
   "ObjectID": "56173"
 }

@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Larry Rivers", 
   "URL": "http://www.moma.org/collection/works/79525", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Committee on Painting and Sculpture Funds", 
-  "Date": "1965", 
-  "ArtistID": 4945, 
+  "DateAcquired": "1997-10-06", 
   "Keywords": [
-    "online art collection", 
     "Larry Rivers", 
     "Jim Dine Storm Window", 
     "1965"
   ], 
+  "ArtistID": 4945, 
+  "Title": "Jim Dine Storm Window", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "356.1997", 
+  "Date": "1965", 
   "ArtistBio": "(American, 1923\u20132002)", 
-  "DateAcquired": "1997-10-06", 
-  "\ufeffTitle": "Jim Dine Storm Window", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79525"
 }

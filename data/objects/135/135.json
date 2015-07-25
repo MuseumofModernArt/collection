@@ -4,12 +4,9 @@
   "Classification": "A&D Architectural Drawing", 
   "Artist": "Erik Gunnar Asplund", 
   "URL": "http://www.moma.org/collection/works/135", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Richard S. Zeisler, Richard Kahan, and purchase", 
-  "Date": "1936", 
-  "ArtistID": 27, 
+  "DateAcquired": "1990-01-17", 
   "Keywords": [
-    "online art collection", 
     "Erik Gunnar Asplund", 
     "Law Courts Annex", 
     "Gothenburg", 
@@ -17,10 +14,12 @@
     "Exterior elevation", 
     "1936"
   ], 
+  "ArtistID": 27, 
+  "Title": "Law Courts Annex, Gothenburg, Sweden , Exterior elevation", 
   "Department": "Architecture & Design", 
   "MoMANumber": "50.1990", 
+  "Date": "1936", 
   "ArtistBio": "(Swedish, 1885\u20131940)", 
-  "DateAcquired": "1990-01-17", 
-  "\ufeffTitle": "Law Courts Annex, Gothenburg, Sweden , Exterior elevation", 
+  "CuratorApproved": "Y", 
   "ObjectID": "135"
 }

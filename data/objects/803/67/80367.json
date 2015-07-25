@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Jacques Villon", 
   "URL": "http://www.moma.org/collection/works/80367", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Louise Reinhardt Smith Bequest", 
-  "Date": "1909", 
-  "ArtistID": 6165, 
+  "DateAcquired": "1995-12-12", 
   "Keywords": [
-    "online art collection", 
     "Jacques Villon", 
     "Portrait of the Artist", 
     "1909"
   ], 
+  "ArtistID": 6165, 
+  "Title": "Portrait of the Artist", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "795.1995", 
+  "Date": "1909", 
   "ArtistBio": "(French, 1875\u20131963)", 
-  "DateAcquired": "1995-12-12", 
-  "\ufeffTitle": "Portrait of the Artist", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80367"
 }

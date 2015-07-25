@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Moira Dryer", 
   "URL": "http://www.moma.org/collection/works/80991", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Jeanne C. Thayer Fund", 
-  "Date": "1989-91", 
-  "ArtistID": 7446, 
+  "DateAcquired": "1995-05-08", 
   "Keywords": [
-    "online art collection", 
     "Moira Dryer", 
     "NBC Nightly News", 
     "1989-91"
   ], 
+  "ArtistID": 7446, 
+  "Title": "NBC Nightly News", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "125.1995.a-c", 
+  "Date": "1989-91", 
   "ArtistBio": "(Canadian, 1957\u20131992)", 
-  "DateAcquired": "1995-05-08", 
-  "\ufeffTitle": "NBC Nightly News", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80991"
 }

@@ -4,22 +4,21 @@
   "Classification": "Print", 
   "Artist": "Anton Heyboer", 
   "URL": "http://www.moma.org/collection/works/76488", 
-  "CuratorApproved": "Y", 
   "CreditLine": "John S. Newberry Fund", 
-  "Date": "1964", 
-  "ArtistID": 2627, 
+  "DateAcquired": "1968-10-10", 
   "Keywords": [
-    "online art collection", 
     "Anton Heyboer", 
     "End of Spirit and Intuition", 
     "Beginning of the Living", 
     "End of the Talking", 
     "1964"
   ], 
+  "ArtistID": 2627, 
+  "Title": "End of Spirit and Intuition, Beginning of the Living, End of the Talking", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "1357.1968", 
+  "Date": "1964", 
   "ArtistBio": "(Dutch, born 1924)", 
-  "DateAcquired": "1968-10-10", 
-  "\ufeffTitle": "End of Spirit and Intuition, Beginning of the Living, End of the Talking", 
+  "CuratorApproved": "Y", 
   "ObjectID": "76488"
 }

@@ -4,21 +4,20 @@
   "Classification": "Painting", 
   "Artist": "Fritz Glarner", 
   "URL": "http://www.moma.org/collection/works/79328", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Mr. and Mrs. Armand P. Bartos", 
-  "Date": "1955", 
-  "ArtistID": 2186, 
+  "DateAcquired": "1956-10-09", 
   "Keywords": [
-    "online art collection", 
     "Fritz Glarner", 
     "Relational Painting", 
     "Tondo 37", 
     "1955"
   ], 
+  "ArtistID": 2186, 
+  "Title": "Relational Painting, Tondo 37", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "264.1956", 
+  "Date": "1955", 
   "ArtistBio": "(American, born Switzerland. 1899\u20131972)", 
-  "DateAcquired": "1956-10-09", 
-  "\ufeffTitle": "Relational Painting, Tondo 37", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79328"
 }

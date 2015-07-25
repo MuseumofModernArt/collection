@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Maria Lassnig", 
   "URL": "http://www.moma.org/collection/works/68886", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1965", 
-  "ArtistID": 3402, 
+  "DateAcquired": "1990-10-23", 
   "Keywords": [
-    "online art collection", 
     "Maria Lassnig", 
     "The Training (Die Dressur)", 
     "1965"
   ], 
+  "ArtistID": 3402, 
+  "Title": "The Training (Die Dressur)", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "424.1990", 
+  "Date": "1965", 
   "ArtistBio": "(Austrian, 1919\u20132014)", 
-  "DateAcquired": "1990-10-23", 
-  "\ufeffTitle": "The Training (Die Dressur)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "68886"
 }

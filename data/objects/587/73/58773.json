@@ -4,21 +4,20 @@
   "Classification": "Photograph", 
   "Artist": "Times Wide World Photos", 
   "URL": "http://www.moma.org/collection/works/58773", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The New York Times Collection", 
-  "Date": "March 7, 1936", 
-  "ArtistID": 8632, 
+  "DateAcquired": "2001-06-14", 
   "Keywords": [
-    "online art collection", 
     "Times Wide World Photos", 
     "Citizens of Berlin Greeting the Reichsf&uuml;hrer", 
     "March 7", 
     "1936"
   ], 
+  "ArtistID": 8632, 
+  "Title": "Citizens of Berlin Greeting the Reichsf\u00fchrer", 
   "Department": "Photography", 
   "MoMANumber": "2180.2001", 
+  "Date": "March 7, 1936", 
   "ArtistBio": "(American, active 1919\u20131941)", 
-  "DateAcquired": "2001-06-14", 
-  "\ufeffTitle": "Citizens of Berlin Greeting the Reichsf\u00fchrer", 
+  "CuratorApproved": "Y", 
   "ObjectID": "58773"
 }

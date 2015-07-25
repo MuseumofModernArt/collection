@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Carl Buchheister", 
   "URL": "http://www.moma.org/collection/works/80462", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The Riklis Collection of McCrory Corporation", 
-  "Date": "1927", 
-  "ArtistID": 843, 
+  "DateAcquired": "1985-10-25", 
   "Keywords": [
-    "online art collection", 
     "Carl Buchheister", 
     "Composition Number 27", 
     "1927"
   ], 
+  "ArtistID": 843, 
+  "Title": "Composition Number 27", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "997.1983", 
+  "Date": "1927", 
   "ArtistBio": "(German, 1890\u20131964)", 
-  "DateAcquired": "1985-10-25", 
-  "\ufeffTitle": "Composition Number 27", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80462"
 }

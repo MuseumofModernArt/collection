@@ -4,21 +4,20 @@
   "Classification": "Photograph", 
   "Artist": "Thomas Struth", 
   "URL": "http://www.moma.org/collection/works/49412", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The Family of Man Fund", 
-  "Date": "1986", 
-  "ArtistID": 7825, 
+  "DateAcquired": "1999-06-10", 
   "Keywords": [
-    "online art collection", 
     "Thomas Struth", 
     "H&ouml;rder Br&uuml;ckenstrasse", 
     "Dortmund", 
     "1986"
   ], 
+  "ArtistID": 7825, 
+  "Title": "H\u00f6rder Br\u00fcckenstrasse, Dortmund", 
   "Department": "Photography", 
   "MoMANumber": "241.1999", 
+  "Date": "1986", 
   "ArtistBio": "(German, born 1954)", 
-  "DateAcquired": "1999-06-10", 
-  "\ufeffTitle": "H\u00f6rder Br\u00fcckenstrasse, Dortmund", 
+  "CuratorApproved": "Y", 
   "ObjectID": "49412"
 }

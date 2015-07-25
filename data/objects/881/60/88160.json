@@ -4,12 +4,9 @@
   "Classification": "A&D Architectural Model", 
   "Artist": "Ludwig Mies van der Rohe", 
   "URL": "http://www.moma.org/collection/works/88160", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Mies van der Rohe Archive, Mies in Berlin Exhibition Fund", 
-  "Date": "1925-27", 
-  "ArtistID": 7166, 
+  "DateAcquired": "2003-05-13", 
   "Keywords": [
-    "online art collection", 
     "Ludwig Mies van der Rohe", 
     "Wolf House", 
     "Gubin", 
@@ -17,10 +14,12 @@
     "Landscape model", 
     "1925-27"
   ], 
+  "ArtistID": 7166, 
+  "Title": "Wolf House, Gubin, Germany, Landscape model", 
   "Department": "Architecture & Design", 
   "MoMANumber": "106.2003", 
+  "Date": "1925-27", 
   "ArtistBio": "(American, born Germany. 1886\u20131969)", 
-  "DateAcquired": "2003-05-13", 
-  "\ufeffTitle": "Wolf House, Gubin, Germany, Landscape model", 
+  "CuratorApproved": "Y", 
   "ObjectID": "88160"
 }

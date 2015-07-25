@@ -4,21 +4,20 @@
   "Classification": "A&D Graphic Design", 
   "Artist": "E. McKnight Kauffer", 
   "URL": "http://www.moma.org/collection/works/6809", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the artist", 
-  "Date": "1926", 
-  "ArtistID": 3020, 
+  "DateAcquired": "1939-05-22", 
   "Keywords": [
-    "online art collection", 
     "E", 
     "McKnight Kauffer", 
     "The Lodger", 
     "1926"
   ], 
+  "ArtistID": 3020, 
+  "Title": "The Lodger", 
   "Department": "Architecture & Design", 
   "MoMANumber": "389.1939", 
+  "Date": "1926", 
   "ArtistBio": "(American, 1890\u20131954)", 
-  "DateAcquired": "1939-05-22", 
-  "\ufeffTitle": "The Lodger", 
+  "CuratorApproved": "Y", 
   "ObjectID": "6809"
 }

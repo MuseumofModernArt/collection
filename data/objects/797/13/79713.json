@@ -4,22 +4,21 @@
   "Classification": "Painting", 
   "Artist": "Joan Mitchell", 
   "URL": "http://www.moma.org/collection/works/79713", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of The Estate of Joan Mitchell", 
-  "Date": "1980", 
-  "ArtistID": 4026, 
+  "DateAcquired": "1994-10-11", 
   "Keywords": [
-    "online art collection", 
     "Joan Mitchell", 
     "Wood", 
     "Wind", 
     "No Tuba", 
     "1980"
   ], 
+  "ArtistID": 4026, 
+  "Title": "Wood, Wind, No Tuba", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "446.1994.a-b", 
+  "Date": "1980", 
   "ArtistBio": "(American, 1925\u20131992)", 
-  "DateAcquired": "1994-10-11", 
-  "\ufeffTitle": "Wood, Wind, No Tuba", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79713"
 }

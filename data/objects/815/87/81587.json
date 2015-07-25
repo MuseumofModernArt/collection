@@ -4,22 +4,21 @@
   "Classification": "Sculpture", 
   "Artist": "Alexander Calder", 
   "URL": "http://www.moma.org/collection/works/81587", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Mrs. Simon Guggenheim Fund", 
-  "Date": "Waterbury, Connecticut, 1959", 
-  "ArtistID": 922, 
+  "DateAcquired": "1963-11-12", 
   "Keywords": [
-    "online art collection", 
     "Alexander Calder", 
     "Black Widow", 
     "Waterbury", 
     "Connecticut", 
     "1959"
   ], 
+  "ArtistID": 922, 
+  "Title": "Black Widow", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "557.1963", 
+  "Date": "Waterbury, Connecticut, 1959", 
   "ArtistBio": "(American, 1898\u20131976)", 
-  "DateAcquired": "1963-11-12", 
-  "\ufeffTitle": "Black Widow", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81587"
 }

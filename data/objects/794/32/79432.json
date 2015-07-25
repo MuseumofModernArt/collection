@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Mel Bochner", 
   "URL": "http://www.moma.org/collection/works/79432", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Committee on Painting and Sculpture Funds", 
-  "Date": "1972-73", 
-  "ArtistID": 625, 
+  "DateAcquired": "1997-06-02", 
   "Keywords": [
-    "online art collection", 
     "Mel Bochner", 
     "Axiom of Indifference", 
     "1972-73"
   ], 
+  "ArtistID": 625, 
+  "Title": "Axiom of Indifference", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "291.1997.1-2", 
+  "Date": "1972-73", 
   "ArtistBio": "(American, born 1940)", 
-  "DateAcquired": "1997-06-02", 
-  "\ufeffTitle": "Axiom of Indifference", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79432"
 }

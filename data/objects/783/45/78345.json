@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "David Alfaro Siqueiros", 
   "URL": "http://www.moma.org/collection/works/78345", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the Estate of George Gershwin", 
-  "Date": "1933", 
-  "ArtistID": 5454, 
+  "DateAcquired": "1938-02-17", 
   "Keywords": [
-    "online art collection", 
     "David Alfaro Siqueiros", 
     "Proletarian Victim", 
     "1933"
   ], 
+  "ArtistID": 5454, 
+  "Title": "Proletarian Victim", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "4.1938", 
+  "Date": "1933", 
   "ArtistBio": "(Mexican, 1896\u20131974)", 
-  "DateAcquired": "1938-02-17", 
-  "\ufeffTitle": "Proletarian Victim", 
+  "CuratorApproved": "Y", 
   "ObjectID": "78345"
 }

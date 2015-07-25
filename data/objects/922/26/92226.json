@@ -4,12 +4,9 @@
   "Classification": "Photograph", 
   "Artist": "Lee Friedlander", 
   "URL": "http://www.moma.org/collection/works/92226", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the photographer", 
-  "Date": "1992", 
-  "ArtistID": 2002, 
+  "DateAcquired": "2005-05-11", 
   "Keywords": [
-    "online art collection", 
     "Lee Friedlander", 
     "Sandra Fisher and R", 
     "B", 
@@ -18,10 +15,12 @@
     "England", 
     "1992"
   ], 
+  "ArtistID": 2002, 
+  "Title": "Sandra Fisher and R. B. Kitaj. London, England", 
   "Department": "Photography", 
   "MoMANumber": "270.2005", 
+  "Date": "1992", 
   "ArtistBio": "(American, born 1934)", 
-  "DateAcquired": "2005-05-11", 
-  "\ufeffTitle": "Sandra Fisher and R. B. Kitaj. London, England", 
+  "CuratorApproved": "Y", 
   "ObjectID": "92226"
 }

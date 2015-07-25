@@ -4,21 +4,20 @@
   "Classification": "Sculpture", 
   "Artist": "Constantin Brancusi", 
   "URL": "http://www.moma.org/collection/works/81729", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Mary Sisler", 
-  "Date": "version I, 1918", 
-  "ArtistID": 738, 
+  "DateAcquired": "1983-10-11", 
   "Keywords": [
-    "online art collection", 
     "Constantin Brancusi", 
     "Endless Column", 
     "version I", 
     "1918"
   ], 
+  "ArtistID": 738, 
+  "Title": "Endless Column", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "645.1983", 
+  "Date": "version I, 1918", 
   "ArtistBio": "(French, born Romania. 1876\u20131957)", 
-  "DateAcquired": "1983-10-11", 
-  "\ufeffTitle": "Endless Column", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81729"
 }

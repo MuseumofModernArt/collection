@@ -4,21 +4,20 @@
   "Classification": "Painting", 
   "Artist": "Henri Matisse", 
   "URL": "http://www.moma.org/collection/works/78389", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Mrs. Simon Guggenheim Fund", 
-  "Date": "Issy-les-Moulineaux, fall 1911", 
-  "ArtistID": 3832, 
+  "DateAcquired": "1949-02-03", 
   "Keywords": [
-    "online art collection", 
     "Henri Matisse", 
     "The Red Studio", 
     "Issy-les-Moulineaux", 
     "fall 1911"
   ], 
+  "ArtistID": 3832, 
+  "Title": "The Red Studio", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "8.1949", 
+  "Date": "Issy-les-Moulineaux, fall 1911", 
   "ArtistBio": "(French, 1869\u20131954)", 
-  "DateAcquired": "1949-02-03", 
-  "\ufeffTitle": "The Red Studio", 
+  "CuratorApproved": "Y", 
   "ObjectID": "78389"
 }

@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Terry Winters", 
   "URL": "http://www.moma.org/collection/works/79352", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the Louis and Bessie Adler Foundation, Inc., Seymour M. Klein, President", 
-  "Date": "1984", 
-  "ArtistID": 6408, 
+  "DateAcquired": "1984-10-09", 
   "Keywords": [
-    "online art collection", 
     "Terry Winters", 
     "Double Gravity", 
     "1984"
   ], 
+  "ArtistID": 6408, 
+  "Title": "Double Gravity", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "273.1984", 
+  "Date": "1984", 
   "ArtistBio": "(American, born 1949)", 
-  "DateAcquired": "1984-10-09", 
-  "\ufeffTitle": "Double Gravity", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79352"
 }

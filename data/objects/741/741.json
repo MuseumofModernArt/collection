@@ -4,12 +4,9 @@
   "Classification": "A&D Mies van der Rohe Archive", 
   "Artist": "Ludwig Mies van der Rohe", 
   "URL": "http://www.moma.org/collection/works/741", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Mies van der Rohe Archive, gift of the architect", 
-  "Date": "1934-35", 
-  "ArtistID": 7166, 
+  "DateAcquired": "1963-12-10", 
   "Keywords": [
-    "online art collection", 
     "Ludwig Mies van der Rohe", 
     "Hubbe House Project", 
     "Magdeburg", 
@@ -17,10 +14,12 @@
     "Floor plan with furniture placement (final version)", 
     "1934-35"
   ], 
+  "ArtistID": 7166, 
+  "Title": "Hubbe House Project, Magdeburg, Germany , Floor plan with furniture placement (final version)", 
   "Department": "Architecture & Design", 
   "MoMANumber": "708.1963", 
+  "Date": "1934-35", 
   "ArtistBio": "(American, born Germany. 1886\u20131969)", 
-  "DateAcquired": "1963-12-10", 
-  "\ufeffTitle": "Hubbe House Project, Magdeburg, Germany , Floor plan with furniture placement (final version)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "741"
 }

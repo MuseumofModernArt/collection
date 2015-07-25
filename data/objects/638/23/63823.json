@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Paul Klee", 
   "URL": "http://www.moma.org/collection/works/63823", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1912", 
-  "ArtistID": 3130, 
+  "DateAcquired": "1942-05-07", 
   "Keywords": [
-    "online art collection", 
     "Paul Klee", 
     "At the Window (Am Fenster)", 
     "1912"
   ], 
+  "ArtistID": 3130, 
+  "Title": "At the Window (Am Fenster)", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "181.1942", 
+  "Date": "1912", 
   "ArtistBio": "(German, born Switzerland. 1879\u20131940)", 
-  "DateAcquired": "1942-05-07", 
-  "\ufeffTitle": "At the Window (Am Fenster)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "63823"
 }

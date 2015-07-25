@@ -4,21 +4,20 @@
   "Classification": "Drawing", 
   "Artist": "Alfred Kubin", 
   "URL": "http://www.moma.org/collection/works/37543", 
-  "CuratorApproved": "Y", 
   "CreditLine": "John S. Newberry Fund", 
-  "Date": "(c. 1900-03)", 
-  "ArtistID": 3276, 
+  "DateAcquired": "1964-10-06", 
   "Keywords": [
-    "online art collection", 
     "Alfred Kubin", 
     "The Last King (Der Letzte K&ouml;nig)", 
     "(c", 
     "1900-03)"
   ], 
+  "ArtistID": 3276, 
+  "Title": "The Last King (Der Letzte K\u00f6nig)", 
   "Department": "Drawings", 
   "MoMANumber": "603.1964", 
+  "Date": "(c. 1900-03)", 
   "ArtistBio": "(Austrian, 1877\u20131959)", 
-  "DateAcquired": "1964-10-06", 
-  "\ufeffTitle": "The Last King (Der Letzte K\u00f6nig)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "37543"
 }

@@ -4,12 +4,9 @@
   "Classification": "A&D Architectural Drawing", 
   "Artist": "Ricardo Bofill", 
   "URL": "http://www.moma.org/collection/works/434", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the architect in honor of Lily Auchincloss", 
-  "Date": "1994", 
-  "ArtistID": 632, 
+  "DateAcquired": "1994-09-21", 
   "Keywords": [
-    "online art collection", 
     "Ricardo Bofill", 
     "Town Plan Project", 
     "Kobe", 
@@ -17,10 +14,12 @@
     "Site plan", 
     "1994"
   ], 
+  "ArtistID": 632, 
+  "Title": "Town Plan Project, Kobe, Japan, Site plan", 
   "Department": "Architecture & Design", 
   "MoMANumber": "375.1994", 
+  "Date": "1994", 
   "ArtistBio": "(Spanish, born 1939)", 
-  "DateAcquired": "1994-09-21", 
-  "\ufeffTitle": "Town Plan Project, Kobe, Japan, Site plan", 
+  "CuratorApproved": "Y", 
   "ObjectID": "434"
 }

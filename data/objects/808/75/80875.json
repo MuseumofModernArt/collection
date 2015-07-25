@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Dieter Roth", 
   "URL": "http://www.moma.org/collection/works/80875", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Barbara Jakobson Fund and Jeanne C. Thayer Fund", 
-  "Date": "1969", 
-  "ArtistID": 5042, 
+  "DateAcquired": "1993-03-08", 
   "Keywords": [
-    "online art collection", 
     "Dieter Roth", 
     "Basel on the Rhine", 
     "1969"
   ], 
+  "ArtistID": 5042, 
+  "Title": "Basel on the Rhine", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "43.1993", 
+  "Date": "1969", 
   "ArtistBio": "(Swiss, born Germany. 1930\u20131998)", 
-  "DateAcquired": "1993-03-08", 
-  "\ufeffTitle": "Basel on the Rhine", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80875"
 }

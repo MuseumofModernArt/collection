@@ -4,22 +4,21 @@
   "Classification": "A&D Architectural Model", 
   "Artist": "R. Buckminster Fuller", 
   "URL": "http://www.moma.org/collection/works/82398", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the architect", 
-  "Date": "1955", 
-  "ArtistID": 2030, 
+  "DateAcquired": "1960-01-01", 
   "Keywords": [
-    "online art collection", 
     "R", 
     "Buckminster Fuller", 
     "Airplane Hangar", 
     "project", 
     "1955"
   ], 
+  "ArtistID": 2030, 
+  "Title": "Airplane Hangar, project", 
   "Department": "Architecture & Design", 
   "MoMANumber": "MC 28", 
+  "Date": "1955", 
   "ArtistBio": "(American, 1895\u20131983)", 
-  "DateAcquired": "1960-01-01", 
-  "\ufeffTitle": "Airplane Hangar, project", 
+  "CuratorApproved": "Y", 
   "ObjectID": "82398"
 }

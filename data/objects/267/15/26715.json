@@ -4,12 +4,9 @@
   "Classification": "Illustrated Book", 
   "Artist": "Oskar Kokoschka", 
   "URL": "http://www.moma.org/collection/works/26715", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The Louis E. Stern Collection", 
-  "Date": "(1916, drawings executed 1910)", 
-  "ArtistID": 3197, 
+  "DateAcquired": "1964-10-06", 
   "Keywords": [
-    "online art collection", 
     "Oskar Kokoschka", 
     "M&ouml;rder", 
     "Hoffnung der Frauen (Murderer", 
@@ -17,10 +14,12 @@
     "(1916", 
     "drawings executed 1910)"
   ], 
+  "ArtistID": 3197, 
+  "Title": "M\u00f6rder, Hoffnung der Frauen (Murderer, Hope of Women)", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "862.1964.1-4", 
+  "Date": "(1916, drawings executed 1910)", 
   "ArtistBio": "(Austrian, 1886\u20131980)", 
-  "DateAcquired": "1964-10-06", 
-  "\ufeffTitle": "M\u00f6rder, Hoffnung der Frauen (Murderer, Hope of Women)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "26715"
 }

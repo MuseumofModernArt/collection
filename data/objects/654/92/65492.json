@@ -4,21 +4,20 @@
   "Classification": "Print", 
   "Artist": "Max Beckmann", 
   "URL": "http://www.moma.org/collection/works/65492", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Abby Aldrich Rockefeller", 
-  "Date": "(1914, published 1918)", 
-  "ArtistID": 429, 
+  "DateAcquired": "1940-04-05", 
   "Keywords": [
-    "online art collection", 
     "Max Beckmann", 
     "Weeping Woman (Weinende Frau)", 
     "(1914", 
     "published 1918)"
   ], 
+  "ArtistID": 429, 
+  "Title": "Weeping Woman (Weinende Frau)", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "262.1940", 
+  "Date": "(1914, published 1918)", 
   "ArtistBio": "(German, 1884\u20131950)", 
-  "DateAcquired": "1940-04-05", 
-  "\ufeffTitle": "Weeping Woman (Weinende Frau)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "65492"
 }

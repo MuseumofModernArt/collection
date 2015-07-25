@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Vasily Kandinsky", 
   "URL": "http://www.moma.org/collection/works/80496", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The Riklis Collection of McCrory Corporation", 
-  "Date": "1931", 
-  "ArtistID": 2981, 
+  "DateAcquired": "1985-10-25", 
   "Keywords": [
-    "online art collection", 
     "Vasily Kandinsky", 
     "Soft Pressure", 
     "1931"
   ], 
+  "ArtistID": 2981, 
+  "Title": "Soft Pressure", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "1032.1983", 
+  "Date": "1931", 
   "ArtistBio": "(French, born Russia. 1866\u20131944)", 
-  "DateAcquired": "1985-10-25", 
-  "\ufeffTitle": "Soft Pressure", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80496"
 }

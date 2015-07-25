@@ -4,20 +4,19 @@
   "Classification": "Photograph", 
   "Artist": "United Press International", 
   "URL": "http://www.moma.org/collection/works/58805", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The New York Times Collection", 
-  "Date": "1910", 
-  "ArtistID": 8638, 
+  "DateAcquired": "2001-06-14", 
   "Keywords": [
-    "online art collection", 
     "United Press International", 
     "Haley's comet as It Looked in 1910", 
     "1910"
   ], 
+  "ArtistID": 8638, 
+  "Title": "Haley's comet as It Looked in 1910", 
   "Department": "Photography", 
   "MoMANumber": "2212.2001", 
+  "Date": "1910", 
   "ArtistBio": "", 
-  "DateAcquired": "2001-06-14", 
-  "\ufeffTitle": "Haley's comet as It Looked in 1910", 
+  "CuratorApproved": "Y", 
   "ObjectID": "58805"
 }

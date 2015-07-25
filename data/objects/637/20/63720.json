@@ -4,22 +4,21 @@
   "Classification": "Print", 
   "Artist": "Pablo Picasso", 
   "URL": "http://www.moma.org/collection/works/63720", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Abby Aldrich Rockefeller Fund", 
-  "Date": "(October 1, 1930, printed 1939)", 
-  "ArtistID": 4609, 
+  "DateAcquired": "1949-03-24", 
   "Keywords": [
-    "online art collection", 
     "Pablo Picasso", 
     "At the Bath (Au Bain)", 
     "(October 1", 
     "1930", 
     "printed 1939)"
   ], 
+  "ArtistID": 4609, 
+  "Title": "At the Bath (Au Bain)", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "177.1949", 
+  "Date": "(October 1, 1930, printed 1939)", 
   "ArtistBio": "(Spanish, 1881\u20131973)", 
-  "DateAcquired": "1949-03-24", 
-  "\ufeffTitle": "At the Bath (Au Bain)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "63720"
 }

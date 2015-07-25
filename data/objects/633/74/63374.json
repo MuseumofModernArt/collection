@@ -4,21 +4,20 @@
   "Classification": "Print", 
   "Artist": "Henri de Toulouse-Lautrec", 
   "URL": "http://www.moma.org/collection/works/63374", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Abby Aldrich Rockefeller", 
-  "Date": "1900", 
-  "ArtistID": 5910, 
+  "DateAcquired": "1946-07-11", 
   "Keywords": [
-    "online art collection", 
     "Henri de Toulouse-Lautrec", 
     "Le Margouin (Mademoiselle Louise Blouet)", 
     "(April 1900)", 
     " (1900),"
   ], 
+  "ArtistID": 5910, 
+  "Title": "Le Margouin (Mademoiselle Louise Blouet)", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "164.1946", 
+  "Date": "1900", 
   "ArtistBio": "(French, 1864\u20131901)", 
-  "DateAcquired": "1946-07-11", 
-  "\ufeffTitle": "Le Margouin (Mademoiselle Louise Blouet)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "63374"
 }

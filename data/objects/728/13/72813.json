@@ -4,12 +4,9 @@
   "Classification": "Print", 
   "Artist": "Otto Lange", 
   "URL": "http://www.moma.org/collection/works/72813", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Transferred from the Museum Library", 
-  "Date": "1917", 
-  "ArtistID": 3374, 
+  "DateAcquired": "1949-09-29", 
   "Keywords": [
-    "online art collection", 
     "Otto Lange", 
     "Foxes (F&uuml;chse) (plate", 
     "loose leaf) from the periodical Das Kunstblatt", 
@@ -19,10 +16,12 @@
     "11 (Nov 1917)", 
     "1917"
   ], 
+  "ArtistID": 3374, 
+  "Title": "Foxes (F\u00fcchse) (plate, loose leaf) from the periodical Das Kunstblatt, vol. 1, no. 11 (Nov 1917)", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "664.1949", 
+  "Date": "1917", 
   "ArtistBio": "(German, 1879\u20131944)", 
-  "DateAcquired": "1949-09-29", 
-  "\ufeffTitle": "Foxes (F\u00fcchse) (plate, loose leaf) from the periodical Das Kunstblatt, vol. 1, no. 11 (Nov 1917)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "72813"
 }

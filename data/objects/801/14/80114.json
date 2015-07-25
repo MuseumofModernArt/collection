@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Ra\u00fal Anguiano", 
   "URL": "http://www.moma.org/collection/works/80114", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Inter-American Fund", 
-  "Date": "1942", 
-  "ArtistID": 186, 
+  "DateAcquired": "1942-12-29", 
   "Keywords": [
-    "online art collection", 
     "Ra&uacute;l Anguiano", 
     "The Weeping Woman", 
     "1942"
   ], 
+  "ArtistID": 186, 
+  "Title": "The Weeping Woman", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "622.1942", 
+  "Date": "1942", 
   "ArtistBio": "(Mexican, 1915\u20132006)", 
-  "DateAcquired": "1942-12-29", 
-  "\ufeffTitle": "The Weeping Woman", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80114"
 }

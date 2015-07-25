@@ -4,21 +4,20 @@
   "Classification": "Print", 
   "Artist": "Bruce Nauman", 
   "URL": "http://www.moma.org/collection/works/67825", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1988", 
-  "ArtistID": 4243, 
+  "DateAcquired": "1988-10-25", 
   "Keywords": [
-    "online art collection", 
     "Bruce Nauman", 
     "Large Carousel", 
     "State I", 
     "1988"
   ], 
+  "ArtistID": 4243, 
+  "Title": "Large Carousel, State I", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "365.1988", 
+  "Date": "1988", 
   "ArtistBio": "(American, born 1941)", 
-  "DateAcquired": "1988-10-25", 
-  "\ufeffTitle": "Large Carousel, State I", 
+  "CuratorApproved": "Y", 
   "ObjectID": "67825"
 }

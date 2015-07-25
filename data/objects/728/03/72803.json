@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Andr\u00e9 Masson", 
   "URL": "http://www.moma.org/collection/works/72803", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of G\u00e9rald Cramer", 
-  "Date": "1963", 
-  "ArtistID": 3821, 
+  "DateAcquired": "1963-12-10", 
   "Keywords": [
-    "online art collection", 
     "Andr&eacute; Masson", 
     "Metamorphosis", 
     "1963"
   ], 
+  "ArtistID": 3821, 
+  "Title": "Metamorphosis", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "663.1963", 
+  "Date": "1963", 
   "ArtistBio": "(French, 1896\u20131987)", 
-  "DateAcquired": "1963-12-10", 
-  "\ufeffTitle": "Metamorphosis", 
+  "CuratorApproved": "Y", 
   "ObjectID": "72803"
 }

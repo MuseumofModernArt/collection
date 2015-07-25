@@ -4,12 +4,9 @@
   "Classification": "Photograph", 
   "Artist": "David Goldblatt", 
   "URL": "http://www.moma.org/collection/works/52022", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the photographer", 
-  "Date": "1965", 
-  "ArtistID": 2214, 
+  "DateAcquired": "1978-05-11", 
   "Keywords": [
-    "online art collection", 
     "David Goldblatt", 
     "Barber's Chair of Mining Timbers", 
     "Luipaardsvlei Gold Mine", 
@@ -17,10 +14,12 @@
     "South Africa", 
     "1965"
   ], 
+  "ArtistID": 2214, 
+  "Title": "Barber's Chair of Mining Timbers, Luipaardsvlei Gold Mine, Krugersdorp, South Africa", 
   "Department": "Photography", 
   "MoMANumber": "373.1978", 
+  "Date": "1965", 
   "ArtistBio": "(South African, born 1930)", 
-  "DateAcquired": "1978-05-11", 
-  "\ufeffTitle": "Barber's Chair of Mining Timbers, Luipaardsvlei Gold Mine, Krugersdorp, South Africa", 
+  "CuratorApproved": "Y", 
   "ObjectID": "52022"
 }

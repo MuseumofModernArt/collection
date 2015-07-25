@@ -4,21 +4,20 @@
   "Classification": "Photograph", 
   "Artist": "Lucas Samaras", 
   "URL": "http://www.moma.org/collection/works/45789", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Robert and Gayle Greenhill", 
-  "Date": "July 13, 1978", 
-  "ArtistID": 5134, 
+  "DateAcquired": "1992-01-09", 
   "Keywords": [
-    "online art collection", 
     "Lucas Samaras", 
     "8 x 10 Sitting", 
     "July 13", 
     "1978"
   ], 
+  "ArtistID": 5134, 
+  "Title": "8 x 10 Sitting", 
   "Department": "Photography", 
   "MoMANumber": "78.1992", 
+  "Date": "July 13, 1978", 
   "ArtistBio": "(American, born Greece 1936)", 
-  "DateAcquired": "1992-01-09", 
-  "\ufeffTitle": "8 x 10 Sitting", 
+  "CuratorApproved": "Y", 
   "ObjectID": "45789"
 }

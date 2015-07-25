@@ -4,21 +4,20 @@
   "Classification": "A&D Graphic Design", 
   "Artist": "A. Gisiger", 
   "URL": "http://www.moma.org/collection/works/6852", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Ch\u00e2teau de la Sarraz", 
-  "Date": "1960", 
-  "ArtistID": 2179, 
+  "DateAcquired": "1960-11-16", 
   "Keywords": [
-    "online art collection", 
     "A", 
     "Gisiger", 
     "15 Young Swiss Painters", 
     "1960"
   ], 
+  "ArtistID": 2179, 
+  "Title": "15 Young Swiss Painters", 
   "Department": "Architecture & Design", 
   "MoMANumber": "399.1960", 
+  "Date": "1960", 
   "ArtistBio": "(Swiss)", 
-  "DateAcquired": "1960-11-16", 
-  "\ufeffTitle": "15 Young Swiss Painters", 
+  "CuratorApproved": "Y", 
   "ObjectID": "6852"
 }

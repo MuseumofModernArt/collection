@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "David Wojnarowicz", 
   "URL": "http://www.moma.org/collection/works/79734", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Agnes Gund and Barbara Jakobson Fund", 
-  "Date": "1987", 
-  "ArtistID": 6623, 
+  "DateAcquired": "1992-06-08", 
   "Keywords": [
-    "online art collection", 
     "David Wojnarowicz", 
     "Fire", 
     "1987"
   ], 
+  "ArtistID": 6623, 
+  "Title": "Fire", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "313.1992.a-b", 
+  "Date": "1987", 
   "ArtistBio": "(American, 1954\u20131992)", 
-  "DateAcquired": "1992-06-08", 
-  "\ufeffTitle": "Fire", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79734"
 }

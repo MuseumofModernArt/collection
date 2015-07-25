@@ -4,20 +4,19 @@
   "Classification": "Photograph", 
   "Artist": "Unknown photographer", 
   "URL": "http://www.moma.org/collection/works/58811", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The New York Times Collection", 
-  "Date": "1928", 
-  "ArtistID": 6028, 
+  "DateAcquired": "2001-06-14", 
   "Keywords": [
-    "online art collection", 
     "Unknown Photographer", 
     "\"The Television Transmitting Apparatus\"", 
     "1928"
   ], 
+  "ArtistID": 6028, 
+  "Title": "\"The Television Transmitting Apparatus\"", 
   "Department": "Photography", 
   "MoMANumber": "2218.2001", 
+  "Date": "1928", 
   "ArtistBio": "", 
-  "DateAcquired": "2001-06-14", 
-  "\ufeffTitle": "\"The Television Transmitting Apparatus\"", 
+  "CuratorApproved": "Y", 
   "ObjectID": "58811"
 }

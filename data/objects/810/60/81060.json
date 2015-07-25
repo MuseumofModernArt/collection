@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Tony Cragg", 
   "URL": "http://www.moma.org/collection/works/81060", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the Dannheisser Foundation", 
-  "Date": "1982", 
-  "ArtistID": 1286, 
+  "DateAcquired": "1996-04-09", 
   "Keywords": [
-    "online art collection", 
     "Tony Cragg", 
     "Bricks and Bottles", 
     "1982"
   ], 
+  "ArtistID": 1286, 
+  "Title": "Bricks and Bottles", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "167.1996", 
+  "Date": "1982", 
   "ArtistBio": "(British, born 1949)", 
-  "DateAcquired": "1996-04-09", 
-  "\ufeffTitle": "Bricks and Bottles", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81060"
 }

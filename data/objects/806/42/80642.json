@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Andr\u00e9 Masson", 
   "URL": "http://www.moma.org/collection/works/80642", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Mr. and Mrs. Archibald MacLeish", 
-  "Date": "1923", 
-  "ArtistID": 3821, 
+  "DateAcquired": "1974-12-07", 
   "Keywords": [
-    "online art collection", 
     "Andr&eacute; Masson", 
     "Card Trick", 
     "1923"
   ], 
+  "ArtistID": 3821, 
+  "Title": "Card Trick", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "1348.1974", 
+  "Date": "1923", 
   "ArtistBio": "(French, 1896\u20131987)", 
-  "DateAcquired": "1974-12-07", 
-  "\ufeffTitle": "Card Trick", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80642"
 }

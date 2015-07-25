@@ -4,21 +4,20 @@
   "Classification": "Print", 
   "Artist": "Pablo Picasso", 
   "URL": "http://www.moma.org/collection/works/73951", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Mrs. Bertram Smith Fund", 
-  "Date": "(October 4, 1945)", 
-  "ArtistID": 4609, 
+  "DateAcquired": "1956-12-19", 
   "Keywords": [
-    "online art collection", 
     "Pablo Picasso", 
     "Faun Flutist and Dancer (Faune fl&ucirc;tiste et danseuse)", 
     "(October 4", 
     "1945)"
   ], 
+  "ArtistID": 4609, 
+  "Title": "Faun Flutist and Dancer (Faune fl\u00fbtiste et danseuse)", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "769.1956", 
+  "Date": "(October 4, 1945)", 
   "ArtistBio": "(Spanish, 1881\u20131973)", 
-  "DateAcquired": "1956-12-19", 
-  "\ufeffTitle": "Faun Flutist and Dancer (Faune fl\u00fbtiste et danseuse)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "73951"
 }

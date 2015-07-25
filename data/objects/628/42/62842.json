@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Henri de Toulouse-Lautrec", 
   "URL": "http://www.moma.org/collection/works/62842", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Abby Aldrich Rockefeller", 
-  "Date": "1893", 
-  "ArtistID": 5910, 
+  "DateAcquired": "1946-07-11", 
   "Keywords": [
-    "online art collection", 
     "Henri de Toulouse-Lautrec", 
     "The Last Ballad (Ultime ballade) from the series Old Stories (Les Vieilles Histoires)", 
     "(1893)"
   ], 
+  "ArtistID": 5910, 
+  "Title": "Last Ballad (Ultime ballade)", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "141.1946", 
+  "Date": "1893", 
   "ArtistBio": "(French, 1864\u20131901)", 
-  "DateAcquired": "1946-07-11", 
-  "\ufeffTitle": "Last Ballad (Ultime ballade)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "62842"
 }

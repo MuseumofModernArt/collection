@@ -4,12 +4,9 @@
   "Classification": "Print", 
   "Artist": "Oskar Schlemmer", 
   "URL": "http://www.moma.org/collection/works/74208", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1922 (executed and published 1921)", 
-  "ArtistID": 5219, 
+  "DateAcquired": "1956-12-19", 
   "Keywords": [
-    "online art collection", 
     "Oskar Schlemmer", 
     "Figure from the Side: Figure H2 Seated (Figur von der Seite: Figur H2 Sitzende) from the portfolio New European Graphics", 
     "1st Portfolio: Masters of the State Bauhaus", 
@@ -19,10 +16,12 @@
     "Bauhauses in Weimar)", 
     "1922 (executed and published 1921)"
   ], 
+  "ArtistID": 5219, 
+  "Title": "Figure from the Side: Figure H2 Seated (Figur von der Seite: Figur H2 Sitzende) from the portfolio New European Graphics, 1st Portfolio: Masters of the State Bauhaus, Weimar (Neue europ\u00e4ische Graphik, 1. Mappe: Meister des Staatl. Bauhauses in Weimar)", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "805.1956", 
+  "Date": "1922 (executed and published 1921)", 
   "ArtistBio": "(German, 1888\u20131943)", 
-  "DateAcquired": "1956-12-19", 
-  "\ufeffTitle": "Figure from the Side: Figure H2 Seated (Figur von der Seite: Figur H2 Sitzende) from the portfolio New European Graphics, 1st Portfolio: Masters of the State Bauhaus, Weimar (Neue europ\u00e4ische Graphik, 1. Mappe: Meister des Staatl. Bauhauses in Weimar)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "74208"
 }

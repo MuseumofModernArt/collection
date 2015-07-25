@@ -4,21 +4,20 @@
   "Classification": "Print", 
   "Artist": "Peter Halley", 
   "URL": "http://www.moma.org/collection/works/65407", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Edition Schellmann, Munich and New York", 
-  "Date": "1989", 
-  "ArtistID": 2467, 
+  "DateAcquired": "1989-10-12", 
   "Keywords": [
-    "online art collection", 
     "Peter Halley", 
     "Untitled from the portfolio A Tour of the Monuments of Passaic", 
     "New Jersey", 
     "1989"
   ], 
+  "ArtistID": 2467, 
+  "Title": "Untitled from the portfolio A Tour of the Monuments of Passaic, New Jersey", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "258.1989", 
+  "Date": "1989", 
   "ArtistBio": "(American, born 1953)", 
-  "DateAcquired": "1989-10-12", 
-  "\ufeffTitle": "Untitled from the portfolio A Tour of the Monuments of Passaic, New Jersey", 
+  "CuratorApproved": "Y", 
   "ObjectID": "65407"
 }

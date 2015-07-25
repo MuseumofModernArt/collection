@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Robert Rauschenberg", 
   "URL": "http://www.moma.org/collection/works/62835", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Emily Fisher Landau", 
-  "Date": "1989", 
-  "ArtistID": 4823, 
+  "DateAcquired": "1989-05-30", 
   "Keywords": [
-    "online art collection", 
     "Robert Rauschenberg", 
     "Bellini #5", 
     "1989"
   ], 
+  "ArtistID": 4823, 
+  "Title": "Bellini #5", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "140.1989", 
+  "Date": "1989", 
   "ArtistBio": "(American, 1925\u20132008)", 
-  "DateAcquired": "1989-05-30", 
-  "\ufeffTitle": "Bellini #5", 
+  "CuratorApproved": "Y", 
   "ObjectID": "62835"
 }

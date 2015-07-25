@@ -4,21 +4,20 @@
   "Classification": "Photograph", 
   "Artist": "Lechner/The New York Times", 
   "URL": "http://www.moma.org/collection/works/58629", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The New York Times Collection", 
-  "Date": "January 16, 1950", 
-  "ArtistID": 8570, 
+  "DateAcquired": "2001-06-14", 
   "Keywords": [
-    "online art collection", 
     "Lechner/The New York Times", 
     "Listening to Some Speeches", 
     "January 16", 
     "1950"
   ], 
+  "ArtistID": 8570, 
+  "Title": "Listening to Some Speeches", 
   "Department": "Photography", 
   "MoMANumber": "2036.2001", 
+  "Date": "January 16, 1950", 
   "ArtistBio": "", 
-  "DateAcquired": "2001-06-14", 
-  "\ufeffTitle": "Listening to Some Speeches", 
+  "CuratorApproved": "Y", 
   "ObjectID": "58629"
 }

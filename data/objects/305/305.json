@@ -4,12 +4,9 @@
   "Classification": "A&D Architectural Drawing", 
   "Artist": "Frank Lloyd Wright", 
   "URL": "http://www.moma.org/collection/works/305", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Jeffrey P. Klein Purchase Fund, Barbara Pine Purchase Fund, and Frederieke Taylor Purchase Fund", 
-  "Date": "1927\u20131931", 
-  "ArtistID": 6459, 
+  "DateAcquired": "1999-06-30", 
   "Keywords": [
-    "online art collection", 
     "Frank Lloyd Wright", 
     "St", 
     "Mark's-in-the-Bouwerie Towers", 
@@ -20,10 +17,12 @@
     "c", 
     "1927-31"
   ], 
+  "ArtistID": 6459, 
+  "Title": "St. Mark's-in-the-Bouwerie Towers, New York Project (Aerial perspective)", 
   "Department": "Architecture & Design", 
   "MoMANumber": "278.1999", 
+  "Date": "1927\u20131931", 
   "ArtistBio": "(American, 1867\u20131959)", 
-  "DateAcquired": "1999-06-30", 
-  "\ufeffTitle": "St. Mark's-in-the-Bouwerie Towers, New York Project (Aerial perspective)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "305"
 }

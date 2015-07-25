@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Tony Smith", 
   "URL": "http://www.moma.org/collection/works/80965", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Mrs. Simon Guggenheim Fund", 
-  "Date": "1961 (fabricated 1971)", 
-  "ArtistID": 5494, 
+  "DateAcquired": "1973-02-13", 
   "Keywords": [
-    "online art collection", 
     "Tony Smith", 
     "Cigarette", 
     "1961 (fabricated 1971)"
   ], 
+  "ArtistID": 5494, 
+  "Title": "Cigarette", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "114.1973", 
+  "Date": "1961 (fabricated 1971)", 
   "ArtistBio": "(American, 1912\u20131980)", 
-  "DateAcquired": "1973-02-13", 
-  "\ufeffTitle": "Cigarette", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80965"
 }

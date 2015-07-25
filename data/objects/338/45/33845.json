@@ -4,20 +4,19 @@
   "Classification": "Drawing", 
   "Artist": "Paul Klee", 
   "URL": "http://www.moma.org/collection/works/33845", 
-  "CuratorApproved": "Y", 
   "CreditLine": "A. Conger Goodyear Fund", 
-  "Date": "1923", 
-  "ArtistID": 3130, 
+  "DateAcquired": "1950-04-24", 
   "Keywords": [
-    "online art collection", 
     "Paul Klee", 
     "A Balance-Capriccio (Ein Gleichgewicht-Capriccio)", 
     "1923"
   ], 
+  "ArtistID": 3130, 
+  "Title": "A Balance-Capriccio (Ein Gleichgewicht-Capriccio)", 
   "Department": "Drawings", 
   "MoMANumber": "93.1950", 
+  "Date": "1923", 
   "ArtistBio": "(German, born Switzerland. 1879\u20131940)", 
-  "DateAcquired": "1950-04-24", 
-  "\ufeffTitle": "A Balance-Capriccio (Ein Gleichgewicht-Capriccio)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "33845"
 }

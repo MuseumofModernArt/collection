@@ -4,21 +4,20 @@
   "Classification": "Painting", 
   "Artist": "Johannes Itten", 
   "URL": "http://www.moma.org/collection/works/80493", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The Riklis Collection of McCrory Corporation", 
-  "Date": "1944", 
-  "ArtistID": 2843, 
+  "DateAcquired": "1985-10-25", 
   "Keywords": [
-    "online art collection", 
     "Johannes Itten", 
     "Space Composition", 
     "I", 
     "1944"
   ], 
+  "ArtistID": 2843, 
+  "Title": "Space Composition, I", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "1028.1983", 
+  "Date": "1944", 
   "ArtistBio": "(Swiss, 1888\u20131967)", 
-  "DateAcquired": "1985-10-25", 
-  "\ufeffTitle": "Space Composition, I", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80493"
 }

@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Jack Levine", 
   "URL": "http://www.moma.org/collection/works/78998", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Joseph H. Hirshhorn", 
-  "Date": "1954", 
-  "ArtistID": 3513, 
+  "DateAcquired": "1955-06-16", 
   "Keywords": [
-    "online art collection", 
     "Jack Levine", 
     "Election Night", 
     "1954"
   ], 
+  "ArtistID": 3513, 
+  "Title": "Election Night", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "153.1955", 
+  "Date": "1954", 
   "ArtistBio": "(American, 1915\u20132010)", 
-  "DateAcquired": "1955-06-16", 
-  "\ufeffTitle": "Election Night", 
+  "CuratorApproved": "Y", 
   "ObjectID": "78998"
 }

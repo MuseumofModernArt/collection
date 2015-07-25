@@ -4,12 +4,9 @@
   "Classification": "Print", 
   "Artist": "Louise Bourgeois", 
   "URL": "http://www.moma.org/collection/works/65429", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the artist", 
-  "Date": "1942, reprinted 1990", 
-  "ArtistID": 710, 
+  "DateAcquired": "1992-05-20", 
   "Keywords": [
-    "online art collection", 
     "Louise Bourgeois", 
     "The Symbols", 
     "plate 3", 
@@ -19,10 +16,12 @@
     "1947", 
     "published 1990)"
   ], 
+  "ArtistID": 710, 
+  "Title": "The Symbols, plate 3 of 9, from the portfolio, Quarantania", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "259.1992.3", 
+  "Date": "1942, reprinted 1990", 
   "ArtistBio": "(American, born France. 1911\u20132010)", 
-  "DateAcquired": "1992-05-20", 
-  "\ufeffTitle": "The Symbols, plate 3 of 9, from the portfolio, Quarantania", 
+  "CuratorApproved": "Y", 
   "ObjectID": "65429"
 }

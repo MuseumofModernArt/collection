@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Alberto Giacometti", 
   "URL": "http://www.moma.org/collection/works/81632", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Mrs. George Acheson", 
-  "Date": "1947", 
-  "ArtistID": 2141, 
+  "DateAcquired": "1976-12-07", 
   "Keywords": [
-    "online art collection", 
     "Alberto Giacometti", 
     "Head of a Man on a Rod", 
     "1947"
   ], 
+  "ArtistID": 2141, 
+  "Title": "Head of a Man on a Rod", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "595.1976", 
+  "Date": "1947", 
   "ArtistBio": "(Swiss, 1901\u20131966)", 
-  "DateAcquired": "1976-12-07", 
-  "\ufeffTitle": "Head of a Man on a Rod", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81632"
 }

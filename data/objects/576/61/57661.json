@@ -4,21 +4,20 @@
   "Classification": "Photograph", 
   "Artist": "Constantin Brancusi", 
   "URL": "http://www.moma.org/collection/works/57661", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Acquired through the generosity of Celeste Bartos", 
-  "Date": "c. 1932", 
-  "ArtistID": 738, 
+  "DateAcquired": "1979-12-13", 
   "Keywords": [
-    "online art collection", 
     "Constantin Brancusi", 
     "The Artist's Studio", 
     "c", 
     "1922"
   ], 
+  "ArtistID": 738, 
+  "Title": "The Artist's Studio", 
   "Department": "Photography", 
   "MoMANumber": "1115.1979", 
+  "Date": "c. 1932", 
   "ArtistBio": "(French, born Romania. 1876\u20131957)", 
-  "DateAcquired": "1979-12-13", 
-  "\ufeffTitle": "The Artist's Studio", 
+  "CuratorApproved": "Y", 
   "ObjectID": "57661"
 }

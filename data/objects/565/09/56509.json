@@ -4,20 +4,19 @@
   "Classification": "Photograph", 
   "Artist": "Nicholas Nixon", 
   "URL": "http://www.moma.org/collection/works/56509", 
-  "CuratorApproved": "Y", 
   "CreditLine": "John Parkinson III Fund", 
-  "Date": "1978", 
-  "ArtistID": 4315, 
+  "DateAcquired": "1978-12-14", 
   "Keywords": [
-    "online art collection", 
     "Nicholas Nixon", 
     "The Brown Sisters", 
     "1978"
   ], 
+  "ArtistID": 4315, 
+  "Title": "The Brown Sisters, Harwich Port, Massachusetts", 
   "Department": "Photography", 
   "MoMANumber": "810.1978", 
+  "Date": "1978", 
   "ArtistBio": "(American, born 1947)", 
-  "DateAcquired": "1978-12-14", 
-  "\ufeffTitle": "The Brown Sisters, Harwich Port, Massachusetts", 
+  "CuratorApproved": "Y", 
   "ObjectID": "56509"
 }

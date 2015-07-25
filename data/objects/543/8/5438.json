@@ -4,20 +4,19 @@
   "Classification": "A&D Graphic Design", 
   "Artist": "Koloman Moser", 
   "URL": "http://www.moma.org/collection/works/5438", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Given anonymously", 
-  "Date": "1903", 
-  "ArtistID": 4119, 
+  "DateAcquired": "1968-03-07", 
   "Keywords": [
-    "online art collection", 
     "Koloman Moser", 
     "Fromme Kalender", 
     "1903"
   ], 
+  "ArtistID": 4119, 
+  "Title": "Fromme Kalender", 
   "Department": "Architecture & Design", 
   "MoMANumber": "166.1968", 
+  "Date": "1903", 
   "ArtistBio": "(Austrian, 1868\u20131918)", 
-  "DateAcquired": "1968-03-07", 
-  "\ufeffTitle": "Fromme Kalender", 
+  "CuratorApproved": "Y", 
   "ObjectID": "5438"
 }

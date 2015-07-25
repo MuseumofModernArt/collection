@@ -4,20 +4,19 @@
   "Classification": "Photograph", 
   "Artist": "Abelardo Morell", 
   "URL": "http://www.moma.org/collection/works/51598", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the photographer in memory of Bill Beckler", 
-  "Date": "1994", 
-  "ArtistID": 6917, 
+  "DateAcquired": "1994-06-09", 
   "Keywords": [
-    "online art collection", 
     "Abelardo Morell", 
     "Camera Obscura Image of the Empire State Building in Bedroom", 
     "1994"
   ], 
+  "ArtistID": 6917, 
+  "Title": "Camera Obscura Image of the Empire State Building in Bedroom", 
   "Department": "Photography", 
   "MoMANumber": "354.1994", 
+  "Date": "1994", 
   "ArtistBio": "(American, born Cuba 1948)", 
-  "DateAcquired": "1994-06-09", 
-  "\ufeffTitle": "Camera Obscura Image of the Empire State Building in Bedroom", 
+  "CuratorApproved": "Y", 
   "ObjectID": "51598"
 }

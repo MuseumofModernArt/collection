@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Peter Saul", 
   "URL": "http://www.moma.org/collection/works/78886", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Fractional and promised gift of Mr. and Mrs. Bill Lenox", 
-  "Date": "1963", 
-  "ArtistID": 5178, 
+  "DateAcquired": "1999-05-11", 
   "Keywords": [
-    "online art collection", 
     "Peter Saul", 
     "Icebox Number 9", 
     "1963"
   ], 
+  "ArtistID": 5178, 
+  "Title": "Icebox Number 9", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "119.1999", 
+  "Date": "1963", 
   "ArtistBio": "(American, born 1934)", 
-  "DateAcquired": "1999-05-11", 
-  "\ufeffTitle": "Icebox Number 9", 
+  "CuratorApproved": "Y", 
   "ObjectID": "78886"
 }

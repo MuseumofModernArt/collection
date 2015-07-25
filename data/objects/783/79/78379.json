@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Hyman Bloom", 
   "URL": "http://www.moma.org/collection/works/78379", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1941", 
-  "ArtistID": 609, 
+  "DateAcquired": "1942-01-27", 
   "Keywords": [
-    "online art collection", 
     "Hyman Bloom", 
     "The Bride", 
     "1941"
   ], 
+  "ArtistID": 609, 
+  "Title": "The Bride", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "7.1942", 
+  "Date": "1941", 
   "ArtistBio": "(American, born Latvia. 1913\u20132009)", 
-  "DateAcquired": "1942-01-27", 
-  "\ufeffTitle": "The Bride", 
+  "CuratorApproved": "Y", 
   "ObjectID": "78379"
 }

@@ -4,21 +4,20 @@
   "Classification": "Print", 
   "Artist": "Roy Lichtenstein", 
   "URL": "http://www.moma.org/collection/works/65784", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Original Editions", 
-  "Date": "1965, published 1966", 
-  "ArtistID": 3542, 
+  "DateAcquired": "1966-05-10", 
   "Keywords": [
-    "online art collection", 
     "Roy Lichtenstein", 
     "Reverie from 11 Pop Artists", 
     "volume II", 
     "1965 (published 1966)"
   ], 
+  "ArtistID": 3542, 
+  "Title": "Reverie from 11 Pop Artists, Volume II", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "274.1966.2d", 
+  "Date": "1965, published 1966", 
   "ArtistBio": "(American, 1923\u20131997)", 
-  "DateAcquired": "1966-05-10", 
-  "\ufeffTitle": "Reverie from 11 Pop Artists, Volume II", 
+  "CuratorApproved": "Y", 
   "ObjectID": "65784"
 }

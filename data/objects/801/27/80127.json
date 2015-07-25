@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Yves Tanguy", 
   "URL": "http://www.moma.org/collection/works/80127", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Philip Johnson", 
-  "Date": "1942", 
-  "ArtistID": 5804, 
+  "DateAcquired": "1943-11-04", 
   "Keywords": [
-    "online art collection", 
     "Yves Tanguy", 
     "Slowly Toward the North", 
     "1942"
   ], 
+  "ArtistID": 5804, 
+  "Title": "Slowly Toward the North", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "627.1943", 
+  "Date": "1942", 
   "ArtistBio": "(American, born France. 1900\u20131955)", 
-  "DateAcquired": "1943-11-04", 
-  "\ufeffTitle": "Slowly Toward the North", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80127"
 }

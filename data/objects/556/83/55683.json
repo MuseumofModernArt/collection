@@ -4,12 +4,9 @@
   "Classification": "Photograph", 
   "Artist": "Francis Frith", 
   "URL": "http://www.moma.org/collection/works/55683", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Anonymous gift", 
-  "Date": "c. 1860", 
-  "ArtistID": 2015, 
+  "DateAcquired": "1976-12-08", 
   "Keywords": [
-    "online art collection", 
     "Francis Frith", 
     "Jerusalem", 
     "from Mount Zion", 
@@ -17,10 +14,12 @@
     "c", 
     "1860"
   ], 
+  "ArtistID": 2015, 
+  "Title": "Jerusalem, from Mount Zion, with Mosque of Omar (#571)", 
   "Department": "Photography", 
   "MoMANumber": "629.1976", 
+  "Date": "c. 1860", 
   "ArtistBio": "(British, 1822\u20131898)", 
-  "DateAcquired": "1976-12-08", 
-  "\ufeffTitle": "Jerusalem, from Mount Zion, with Mosque of Omar (#571)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "55683"
 }

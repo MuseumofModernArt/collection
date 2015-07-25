@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Max Beckmann", 
   "URL": "http://www.moma.org/collection/works/71603", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1916 (published 1919)", 
-  "ArtistID": 429, 
+  "DateAcquired": "1956-12-19", 
   "Keywords": [
-    "online art collection", 
     "Max Beckmann", 
     "Assault (Sturmangriff)", 
     "1916 (published 1919)"
   ], 
+  "ArtistID": 429, 
+  "Title": "Assault (Sturmangriff)", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "592.1956", 
+  "Date": "1916 (published 1919)", 
   "ArtistBio": "(German, 1884\u20131950)", 
-  "DateAcquired": "1956-12-19", 
-  "\ufeffTitle": "Assault (Sturmangriff)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "71603"
 }

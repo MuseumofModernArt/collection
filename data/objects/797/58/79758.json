@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Morris Hirshfield", 
   "URL": "http://www.moma.org/collection/works/79758", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Abby Aldrich Rockefeller Fund", 
-  "Date": "1940", 
-  "ArtistID": 2671, 
+  "DateAcquired": "1941-01-16", 
   "Keywords": [
-    "online art collection", 
     "Morris Hirshfield", 
     "Tiger", 
     "1940"
   ], 
+  "ArtistID": 2671, 
+  "Title": "Tiger", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "328.1941", 
+  "Date": "1940", 
   "ArtistBio": "(American, born Poland. 1872\u20131946)", 
-  "DateAcquired": "1941-01-16", 
-  "\ufeffTitle": "Tiger", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79758"
 }

@@ -4,20 +4,19 @@
   "Classification": "Drawing", 
   "Artist": "Paul Klee", 
   "URL": "http://www.moma.org/collection/works/36564", 
-  "CuratorApproved": "Y", 
   "CreditLine": "John S. Newberry Collection", 
-  "Date": "1921", 
-  "ArtistID": 3130, 
+  "DateAcquired": "1960-11-16", 
   "Keywords": [
-    "online art collection", 
     "Paul Klee", 
     "The Arrow before the Target (Der Pfeil vor dem Ziel)", 
     "1921"
   ], 
+  "ArtistID": 3130, 
+  "Title": "The Arrow before the Target (Der Pfeil vor dem Ziel)", 
   "Department": "Drawings", 
   "MoMANumber": "376.1960", 
+  "Date": "1921", 
   "ArtistBio": "(German, born Switzerland. 1879\u20131940)", 
-  "DateAcquired": "1960-11-16", 
-  "\ufeffTitle": "The Arrow before the Target (Der Pfeil vor dem Ziel)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "36564"
 }

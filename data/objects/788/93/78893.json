@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Richard Hamilton", 
   "URL": "http://www.moma.org/collection/works/78893", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Enid A. Haupt Fund and The Sidney and Harriet Janis Collection (by exchange)", 
-  "Date": "1961-64", 
-  "ArtistID": 2481, 
+  "DateAcquired": "1999-05-11", 
   "Keywords": [
-    "online art collection", 
     "Richard Hamilton", 
     "Glorious Techniculture", 
     "1961-64"
   ], 
+  "ArtistID": 2481, 
+  "Title": "Glorious Techniculture", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "120.1999", 
+  "Date": "1961-64", 
   "ArtistBio": "(British, 1922\u20132011)", 
-  "DateAcquired": "1999-05-11", 
-  "\ufeffTitle": "Glorious Techniculture", 
+  "CuratorApproved": "Y", 
   "ObjectID": "78893"
 }

@@ -4,22 +4,21 @@
   "Classification": "Sculpture", 
   "Artist": "Alberto Giacometti", 
   "URL": "http://www.moma.org/collection/works/81820", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Mr. and Mrs. Thomas B. Hess", 
-  "Date": "c. 1945", 
-  "ArtistID": 2141, 
+  "DateAcquired": "1967-01-10", 
   "Keywords": [
-    "online art collection", 
     "Alberto Giacometti", 
     "Figure", 
     "I", 
     "c", 
     "1945"
   ], 
+  "ArtistID": 2141, 
+  "Title": "Figure, I", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "730.1966", 
+  "Date": "c. 1945", 
   "ArtistBio": "(Swiss, 1901\u20131966)", 
-  "DateAcquired": "1967-01-10", 
-  "\ufeffTitle": "Figure, I", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81820"
 }

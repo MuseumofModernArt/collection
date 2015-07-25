@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Alberto Giacometti", 
   "URL": "http://www.moma.org/collection/works/81601", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of David M. Solinger", 
-  "Date": "1960", 
-  "ArtistID": 2141, 
+  "DateAcquired": "1964-06-26", 
   "Keywords": [
-    "online art collection", 
     "Alberto Giacometti", 
     "Monumental Head", 
     "1960"
   ], 
+  "ArtistID": 2141, 
+  "Title": "Monumental Head", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "568.1964", 
+  "Date": "1960", 
   "ArtistBio": "(Swiss, 1901\u20131966)", 
-  "DateAcquired": "1964-06-26", 
-  "\ufeffTitle": "Monumental Head", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81601"
 }

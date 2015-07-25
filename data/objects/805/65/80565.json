@@ -4,21 +4,20 @@
   "Classification": "Painting", 
   "Artist": "Mark Rothko", 
   "URL": "http://www.moma.org/collection/works/80565", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the artist", 
-  "Date": "1948", 
-  "ArtistID": 5047, 
+  "DateAcquired": "1970-02-10", 
   "Keywords": [
-    "online art collection", 
     "Mark Rothko", 
     "No", 
     "1 (Untitled)", 
     "1948"
   ], 
+  "ArtistID": 5047, 
+  "Title": "No. 1 (Untitled)", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "1107.1969", 
+  "Date": "1948", 
   "ArtistBio": "(American, born Russia (now Latvia). 1903\u20131970)", 
-  "DateAcquired": "1970-02-10", 
-  "\ufeffTitle": "No. 1 (Untitled)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80565"
 }

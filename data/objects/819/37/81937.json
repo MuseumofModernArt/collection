@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Donald Judd", 
   "URL": "http://www.moma.org/collection/works/81937", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The Riklis Collection of McCrory Corporation", 
-  "Date": "1979", 
-  "ArtistID": 2948, 
+  "DateAcquired": "1985-10-25", 
   "Keywords": [
-    "online art collection", 
     "Donald Judd", 
     "Untitled (Progression)", 
     "1979"
   ], 
+  "ArtistID": 2948, 
+  "Title": "Untitled (Progression)", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "1031.1983", 
+  "Date": "1979", 
   "ArtistBio": "(American, 1928\u20131994)", 
-  "DateAcquired": "1985-10-25", 
-  "\ufeffTitle": "Untitled (Progression)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81937"
 }

@@ -4,12 +4,9 @@
   "Classification": "A&D Architectural Model", 
   "Artist": "Venturi and Rauch, Robert Venturi, John Rauch, Denise Scott Brown", 
   "URL": "http://www.moma.org/collection/works/100161", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Carlin McLaughlin, Nalin Patel, Rajnikant Shah and Gregory Zollner", 
-  "Date": "1973-79", 
-  "ArtistID": 8213, 
+  "DateAcquired": "2005-10-18", 
   "Keywords": [
-    "online art collection", 
     "Venturi and Rauch", 
     "Robert Venturi", 
     "John Rauch and Denise Scott Brown", 
@@ -18,10 +15,12 @@
     "Pennsylvania", 
     "1973-79"
   ], 
+  "ArtistID": 8213, 
+  "Title": "Fa\u00e7ade Panels from Best Products Showroom, Langhorne, Pennsylvania", 
   "Department": "Architecture & Design", 
   "MoMANumber": "829.2005.a-h", 
+  "Date": "1973-79", 
   "ArtistBio": "(American, est. 1964\u20131979) (American, born 1925) (American, born 1930) (American, born Zambia, 1931)", 
-  "DateAcquired": "2005-10-18", 
-  "\ufeffTitle": "Fa\u00e7ade Panels from Best Products Showroom, Langhorne, Pennsylvania", 
+  "CuratorApproved": "Y", 
   "ObjectID": "100161"
 }

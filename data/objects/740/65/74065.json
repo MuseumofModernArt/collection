@@ -4,21 +4,20 @@
   "Classification": "Print", 
   "Artist": "Pablo Picasso", 
   "URL": "http://www.moma.org/collection/works/74065", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Mr. and Mrs. E. Powis Jones", 
-  "Date": "May 18, 1954", 
-  "ArtistID": 4609, 
+  "DateAcquired": "1956-12-19", 
   "Keywords": [
-    "online art collection", 
     "Pablo Picasso", 
     "The Little Artist (Le Petit Dessinateur)", 
     "May 18", 
     "1954"
   ], 
+  "ArtistID": 4609, 
+  "Title": "The Little Artist (Le Petit Dessinateur)", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "786.1956", 
+  "Date": "May 18, 1954", 
   "ArtistBio": "(Spanish, 1881\u20131973)", 
-  "DateAcquired": "1956-12-19", 
-  "\ufeffTitle": "The Little Artist (Le Petit Dessinateur)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "74065"
 }

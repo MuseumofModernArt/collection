@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Aleksandr Archipenko", 
   "URL": "http://www.moma.org/collection/works/81613", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Acquired through the Lillie P. Bliss Bequest", 
-  "Date": "1915", 
-  "ArtistID": 209, 
+  "DateAcquired": "1943-05-21", 
   "Keywords": [
-    "online art collection", 
     "Aleksandr Archipenko", 
     "Woman Combing Her Hair", 
     "1915"
   ], 
+  "ArtistID": 209, 
+  "Title": "Woman Combing Her Hair", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "581.1943", 
+  "Date": "1915", 
   "ArtistBio": "(American, 1887\u20131964)", 
-  "DateAcquired": "1943-05-21", 
-  "\ufeffTitle": "Woman Combing Her Hair", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81613"
 }

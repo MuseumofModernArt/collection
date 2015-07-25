@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "John Walker", 
   "URL": "http://www.moma.org/collection/works/100340", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Edward R. Broida", 
-  "Date": "1979-80", 
-  "ArtistID": 6220, 
+  "DateAcquired": "2005-10-06", 
   "Keywords": [
-    "online art collection", 
     "John Walker", 
     "Green Alba-Kingston", 
     "1979-80"
   ], 
+  "ArtistID": 6220, 
+  "Title": "Green Alba-Kingston", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "803.2005", 
+  "Date": "1979-80", 
   "ArtistBio": "(British, born 1939)", 
-  "DateAcquired": "2005-10-06", 
-  "\ufeffTitle": "Green Alba-Kingston", 
+  "CuratorApproved": "Y", 
   "ObjectID": "100340"
 }

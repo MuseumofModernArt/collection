@@ -4,21 +4,20 @@
   "Classification": "Drawing", 
   "Artist": "John Wesley", 
   "URL": "http://www.moma.org/collection/works/97713", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The Judith Rothschild Foundation Contemporary Drawings Collection Gift", 
-  "Date": "1970", 
-  "ArtistID": 6316, 
+  "DateAcquired": "2005-05-10", 
   "Keywords": [
-    "online art collection", 
     "John Wesley", 
     "U,S", 
     "Army Recruiting Poster", 
     "1970"
   ], 
+  "ArtistID": 6316, 
+  "Title": "U.S. Army Recruiting Poster", 
   "Department": "Drawings", 
   "MoMANumber": "3393.2005", 
+  "Date": "1970", 
   "ArtistBio": "(American, born 1928)", 
-  "DateAcquired": "2005-05-10", 
-  "\ufeffTitle": "U.S. Army Recruiting Poster", 
+  "CuratorApproved": "Y", 
   "ObjectID": "97713"
 }

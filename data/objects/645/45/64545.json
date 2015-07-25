@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "John Buck", 
   "URL": "http://www.moma.org/collection/works/64545", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Elinor and Edmund Grasheim Annual Fund", 
-  "Date": "1982", 
-  "ArtistID": 845, 
+  "DateAcquired": "1983-01-18", 
   "Keywords": [
-    "online art collection", 
     "John Buck", 
     "Untitled", 
     "1982"
   ], 
+  "ArtistID": 845, 
+  "Title": "Untitled", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "214.1983", 
+  "Date": "1982", 
   "ArtistBio": "(American, born 1946)", 
-  "DateAcquired": "1983-01-18", 
-  "\ufeffTitle": "Untitled", 
+  "CuratorApproved": "Y", 
   "ObjectID": "64545"
 }

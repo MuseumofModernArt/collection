@@ -4,12 +4,9 @@
   "Classification": "Print", 
   "Artist": "Louise Bourgeois", 
   "URL": "http://www.moma.org/collection/works/70455", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the artist", 
-  "Date": "1990", 
-  "ArtistID": 710, 
+  "DateAcquired": "1993-11-17", 
   "Keywords": [
-    "online art collection", 
     "Louise Bourgeois", 
     "Progression", 
     "first version", 
@@ -17,10 +14,12 @@
     "variant", 
     "(1990)"
   ], 
+  "ArtistID": 710, 
+  "Title": "Progression", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "521.1993", 
+  "Date": "1990", 
   "ArtistBio": "(American, born France. 1911\u20132010)", 
-  "DateAcquired": "1993-11-17", 
-  "\ufeffTitle": "Progression", 
+  "CuratorApproved": "Y", 
   "ObjectID": "70455"
 }

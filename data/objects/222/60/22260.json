@@ -4,21 +4,20 @@
   "Classification": "Illustrated Book", 
   "Artist": "Marc Chagall", 
   "URL": "http://www.moma.org/collection/works/22260", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The Louis E. Stern Collection", 
-  "Date": "1923.  (Prints executed 1922).", 
-  "ArtistID": 1055, 
+  "DateAcquired": "1964-10-06", 
   "Keywords": [
-    "online art collection", 
     "Marc Chagall", 
     "Mein Leben", 
     "1923", 
     " (Prints executed 1922),"
   ], 
+  "ArtistID": 1055, 
+  "Title": "Mein Leben", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "726.1964.1-21", 
+  "Date": "1923.  (Prints executed 1922).", 
   "ArtistBio": "(French, born Belarus. 1887\u20131985)", 
-  "DateAcquired": "1964-10-06", 
-  "\ufeffTitle": "Mein Leben", 
+  "CuratorApproved": "Y", 
   "ObjectID": "22260"
 }

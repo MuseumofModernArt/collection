@@ -4,21 +4,20 @@
   "Classification": "Sculpture", 
   "Artist": "Julio Gonz\u00e1lez", 
   "URL": "http://www.moma.org/collection/works/81251", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "c. 1935", 
-  "ArtistID": 2231, 
+  "DateAcquired": "1937-12-03", 
   "Keywords": [
-    "online art collection", 
     "Julio Gonz&aacute;lez", 
     "Head", 
     "c", 
     "1935"
   ], 
+  "ArtistID": 2231, 
+  "Title": "Head", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "266.1937", 
+  "Date": "c. 1935", 
   "ArtistBio": "(Spanish, 1876\u20131942)", 
-  "DateAcquired": "1937-12-03", 
-  "\ufeffTitle": "Head", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81251"
 }

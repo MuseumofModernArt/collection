@@ -4,20 +4,19 @@
   "Classification": "Photograph", 
   "Artist": "Thomas Demand", 
   "URL": "http://www.moma.org/collection/works/57201", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the Nina W. Werblow Charitable Trust", 
-  "Date": "1996", 
-  "ArtistID": 8611, 
+  "DateAcquired": "1996-12-10", 
   "Keywords": [
-    "online art collection", 
     "Thomas Demand", 
     "Room (Zimmer)", 
     "1996"
   ], 
+  "ArtistID": 8611, 
+  "Title": "Room (Zimmer)", 
   "Department": "Photography", 
   "MoMANumber": "869.1996", 
+  "Date": "1996", 
   "ArtistBio": "(German, born 1964)", 
-  "DateAcquired": "1996-12-10", 
-  "\ufeffTitle": "Room (Zimmer)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "57201"
 }

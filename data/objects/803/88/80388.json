@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Fernand L\u00e9ger", 
   "URL": "http://www.moma.org/collection/works/80388", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Florene May Schoenborn Bequest", 
-  "Date": "1919", 
-  "ArtistID": 6624, 
+  "DateAcquired": "1996-12-09", 
   "Keywords": [
-    "online art collection", 
     "Fernand L&eacute;ger", 
     "The City", 
     "1919"
   ], 
+  "ArtistID": 6624, 
+  "Title": "The City", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "821.1996", 
+  "Date": "1919", 
   "ArtistBio": "(French, 1881\u20131955)", 
-  "DateAcquired": "1996-12-09", 
-  "\ufeffTitle": "The City", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80388"
 }

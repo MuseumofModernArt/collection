@@ -4,20 +4,19 @@
   "Classification": "Drawing", 
   "Artist": "Max Ernst", 
   "URL": "http://www.moma.org/collection/works/35478", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "(1920)", 
-  "ArtistID": 1752, 
+  "DateAcquired": "1935-11-12", 
   "Keywords": [
-    "online art collection", 
     "Max Ernst", 
     "The Hat Makes the Man", 
     "(1920)"
   ], 
+  "ArtistID": 1752, 
+  "Title": "The Hat Makes the Man", 
   "Department": "Drawings", 
   "MoMANumber": "242.1935", 
+  "Date": "(1920)", 
   "ArtistBio": "(French, born Germany. 1891\u20131976)", 
-  "DateAcquired": "1935-11-12", 
-  "\ufeffTitle": "The Hat Makes the Man", 
+  "CuratorApproved": "Y", 
   "ObjectID": "35478"
 }

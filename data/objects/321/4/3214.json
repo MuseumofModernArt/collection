@@ -4,20 +4,19 @@
   "Classification": "A&D Design", 
   "Artist": "Richard Meier", 
   "URL": "http://www.moma.org/collection/works/3214", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Marshall Cogan Purchase Fund", 
-  "Date": "1984", 
-  "ArtistID": 3910, 
+  "DateAcquired": "1984-10-30", 
   "Keywords": [
-    "online art collection", 
     "Richard Meier", 
     "Wine Goblet", 
     "1984"
   ], 
+  "ArtistID": 3910, 
+  "Title": "Wine Goblet", 
   "Department": "Architecture & Design", 
   "MoMANumber": "294.1984", 
+  "Date": "1984", 
   "ArtistBio": "(American, born 1934)", 
-  "DateAcquired": "1984-10-30", 
-  "\ufeffTitle": "Wine Goblet", 
+  "CuratorApproved": "Y", 
   "ObjectID": "3214"
 }

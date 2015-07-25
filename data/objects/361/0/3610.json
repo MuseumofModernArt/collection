@@ -4,22 +4,21 @@
   "Classification": "A&D Architectural Model", 
   "Artist": "Louis Sullivan", 
   "URL": "http://www.moma.org/collection/works/3610", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Dubin & Dubin, Architects, Chicago", 
-  "Date": "1898-99", 
-  "ArtistID": 5723, 
+  "DateAcquired": "1956-10-25", 
   "Keywords": [
-    "online art collection", 
     "Louis Sullivan", 
     "Spandrel from Gage Building", 
     "Chicago", 
     "Illinois", 
     "1898-99"
   ], 
+  "ArtistID": 5723, 
+  "Title": "Spandrel from Gage Building, Chicago, Illinois", 
   "Department": "Architecture & Design", 
   "MoMANumber": "442.1956", 
+  "Date": "1898-99", 
   "ArtistBio": "(American, 1856\u20131924)", 
-  "DateAcquired": "1956-10-25", 
-  "\ufeffTitle": "Spandrel from Gage Building, Chicago, Illinois", 
+  "CuratorApproved": "Y", 
   "ObjectID": "3610"
 }

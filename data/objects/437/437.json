@@ -4,12 +4,9 @@
   "Classification": "A&D Architectural Drawing", 
   "Artist": "Mario Botta", 
   "URL": "http://www.moma.org/collection/works/437", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the architect in honor of Lily Auchincloss", 
-  "Date": "1994", 
-  "ArtistID": 696, 
+  "DateAcquired": "1994-09-21", 
   "Keywords": [
-    "online art collection", 
     "Mario Botta", 
     "San Francisco Museum of Modern Art", 
     "San Francisco", 
@@ -17,10 +14,12 @@
     "Exterior elevation", 
     "1994"
   ], 
+  "ArtistID": 696, 
+  "Title": "San Francisco Museum of Modern Art, San Francisco, California, Exterior elevation", 
   "Department": "Architecture & Design", 
   "MoMANumber": "376.1994", 
+  "Date": "1994", 
   "ArtistBio": "(Swiss, born 1943)", 
-  "DateAcquired": "1994-09-21", 
-  "\ufeffTitle": "San Francisco Museum of Modern Art, San Francisco, California, Exterior elevation", 
+  "CuratorApproved": "Y", 
   "ObjectID": "437"
 }

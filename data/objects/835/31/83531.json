@@ -4,12 +4,9 @@
   "Classification": "Photograph", 
   "Artist": "Unknown photographer", 
   "URL": "http://www.moma.org/collection/works/83531", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "September 3, 1915", 
-  "ArtistID": 6028, 
+  "DateAcquired": "1971-11-10", 
   "Keywords": [
-    "online art collection", 
     "Unknown Photographer", 
     "Balboa Terminals", 
     "Sosa Hill Quarry", 
@@ -17,10 +14,12 @@
     "September 3", 
     "1915"
   ], 
+  "ArtistID": 6028, 
+  "Title": "Balboa Terminals. Sosa Hill Quarry. Steam shovels on upper level casting material", 
   "Department": "Photography", 
   "MoMANumber": "570.1971.118", 
+  "Date": "September 3, 1915", 
   "ArtistBio": "", 
-  "DateAcquired": "1971-11-10", 
-  "\ufeffTitle": "Balboa Terminals. Sosa Hill Quarry. Steam shovels on upper level casting material", 
+  "CuratorApproved": "Y", 
   "ObjectID": "83531"
 }

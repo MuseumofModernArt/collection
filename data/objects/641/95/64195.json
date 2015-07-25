@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Marko Spalatin", 
   "URL": "http://www.moma.org/collection/works/64195", 
-  "CuratorApproved": "Y", 
   "CreditLine": "John B. Turner Fund", 
-  "Date": "1970", 
-  "ArtistID": 5553, 
+  "DateAcquired": "1970-05-12", 
   "Keywords": [
-    "online art collection", 
     "Marko Spalatin", 
     "Bundle from Lumen Series", 
     "1970"
   ], 
+  "ArtistID": 5553, 
+  "Title": "Bundle from Lumen Series", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "196.1970.1", 
+  "Date": "1970", 
   "ArtistBio": "(American, born 1945)", 
-  "DateAcquired": "1970-05-12", 
-  "\ufeffTitle": "Bundle from Lumen Series", 
+  "CuratorApproved": "Y", 
   "ObjectID": "64195"
 }

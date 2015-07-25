@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "James Ensor", 
   "URL": "http://www.moma.org/collection/works/79855", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Mrs. Simon Guggenheim Fund", 
-  "Date": "1888", 
-  "ArtistID": 1739, 
+  "DateAcquired": "1951-09-28", 
   "Keywords": [
-    "online art collection", 
     "James Ensor", 
     "Masks Confronting Death", 
     "1888"
   ], 
+  "ArtistID": 1739, 
+  "Title": "Masks Confronting Death", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "505.1951", 
+  "Date": "1888", 
   "ArtistBio": "(Belgian, 1860\u20131949)", 
-  "DateAcquired": "1951-09-28", 
-  "\ufeffTitle": "Masks Confronting Death", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79855"
 }

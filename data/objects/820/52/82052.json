@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Charles Despiau", 
   "URL": "http://www.moma.org/collection/works/82052", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Colonel and Mrs. Charles A. Lindbergh", 
-  "Date": "1939", 
-  "ArtistID": 1511, 
+  "DateAcquired": "1940-09-30", 
   "Keywords": [
-    "online art collection", 
     "Charles Despiau", 
     "Anne Morrow Lindbergh", 
     "1939"
   ], 
+  "ArtistID": 1511, 
+  "Title": "Anne Morrow Lindbergh", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "1654.1940", 
+  "Date": "1939", 
   "ArtistBio": "(French, 1874\u20131946)", 
-  "DateAcquired": "1940-09-30", 
-  "\ufeffTitle": "Anne Morrow Lindbergh", 
+  "CuratorApproved": "Y", 
   "ObjectID": "82052"
 }

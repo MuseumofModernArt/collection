@@ -4,21 +4,20 @@
   "Classification": "Painting", 
   "Artist": "Odilon Redon", 
   "URL": "http://www.moma.org/collection/works/79185", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of The Ian Woodner Family Collection", 
-  "Date": "c. 1907", 
-  "ArtistID": 4840, 
+  "DateAcquired": "2000-04-10", 
   "Keywords": [
-    "online art collection", 
     "Odilon Redon", 
     "Jacob and the Angel", 
     "c", 
     "1907"
   ], 
+  "ArtistID": 4840, 
+  "Title": "Jacob and the Angel", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "224.2000", 
+  "Date": "c. 1907", 
   "ArtistBio": "(French, 1840\u20131916)", 
-  "DateAcquired": "2000-04-10", 
-  "\ufeffTitle": "Jacob and the Angel", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79185"
 }

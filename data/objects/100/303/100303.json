@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Harvey Quaytman", 
   "URL": "http://www.moma.org/collection/works/100303", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Edward R. Broida", 
-  "Date": "1986", 
-  "ArtistID": 4767, 
+  "DateAcquired": "2005-10-06", 
   "Keywords": [
-    "online art collection", 
     "Harvey Quaytman", 
     "Ivory Sliver", 
     "1986"
   ], 
+  "ArtistID": 4767, 
+  "Title": "Ivory Sliver", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "765.2005", 
+  "Date": "1986", 
   "ArtistBio": "(American, 1937\u20132002)", 
-  "DateAcquired": "2005-10-06", 
-  "\ufeffTitle": "Ivory Sliver", 
+  "CuratorApproved": "Y", 
   "ObjectID": "100303"
 }

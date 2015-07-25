@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "John Latham", 
   "URL": "http://www.moma.org/collection/works/81529", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Blanchette Hooker Rockefeller Fund", 
-  "Date": "1966-69", 
-  "ArtistID": 3404, 
+  "DateAcquired": "1970-11-10", 
   "Keywords": [
-    "online art collection", 
     "John Latham", 
     "Art and Culture", 
     "1966-69"
   ], 
+  "ArtistID": 3404, 
+  "Title": "Art and Culture", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "511.1970.a-t", 
+  "Date": "1966-69", 
   "ArtistBio": "(British, 1921\u20132006)", 
-  "DateAcquired": "1970-11-10", 
-  "\ufeffTitle": "Art and Culture", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81529"
 }

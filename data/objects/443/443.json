@@ -4,12 +4,9 @@
   "Classification": "A&D Architectural Drawing", 
   "Artist": "Ricardo Bofill", 
   "URL": "http://www.moma.org/collection/works/443", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Marshall Cogan Purchase Fund", 
-  "Date": "1979", 
-  "ArtistID": 632, 
+  "DateAcquired": "1985-11-18", 
   "Keywords": [
-    "online art collection", 
     "Ricardo Bofill", 
     "Les Espaces d'Abraxas: Le Palacio", 
     "Le Theatre", 
@@ -19,10 +16,12 @@
     "Le Palacio: elevation", 
     "1979"
   ], 
+  "ArtistID": 632, 
+  "Title": "Les Espaces d'Abraxas: Le Palacio, Le Theatre, L'Arc, Marne-la-Vall\u00e9e, France, Le Palacio: elevation", 
   "Department": "Architecture & Design", 
   "MoMANumber": "378.1985", 
+  "Date": "1979", 
   "ArtistBio": "(Spanish, born 1939)", 
-  "DateAcquired": "1985-11-18", 
-  "\ufeffTitle": "Les Espaces d'Abraxas: Le Palacio, Le Theatre, L'Arc, Marne-la-Vall\u00e9e, France, Le Palacio: elevation", 
+  "CuratorApproved": "Y", 
   "ObjectID": "443"
 }

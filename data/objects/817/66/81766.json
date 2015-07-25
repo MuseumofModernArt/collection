@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Alexander Calder", 
   "URL": "http://www.moma.org/collection/works/81766", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Mary Sisler Bequest", 
-  "Date": "1953", 
-  "ArtistID": 922, 
+  "DateAcquired": "1990-12-10", 
   "Keywords": [
-    "online art collection", 
     "Alexander Calder", 
     "Glassy Insect", 
     "1953"
   ], 
+  "ArtistID": 922, 
+  "Title": "Glassy Insect", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "661.1990.a-c", 
+  "Date": "1953", 
   "ArtistBio": "(American, 1898\u20131976)", 
-  "DateAcquired": "1990-12-10", 
-  "\ufeffTitle": "Glassy Insect", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81766"
 }

@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Max Ernst", 
   "URL": "http://www.moma.org/collection/works/78858", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the artist", 
-  "Date": "Paris 1959", 
-  "ArtistID": 1752, 
+  "DateAcquired": "1961-04-11", 
   "Keywords": [
-    "online art collection", 
     "Max Ernst", 
     "Mundus est Fabula", 
     "Paris 1959"
   ], 
+  "ArtistID": 1752, 
+  "Title": "Mundus est Fabula", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "116.1961", 
+  "Date": "Paris 1959", 
   "ArtistBio": "(French, born Germany. 1891\u20131976)", 
-  "DateAcquired": "1961-04-11", 
-  "\ufeffTitle": "Mundus est Fabula", 
+  "CuratorApproved": "Y", 
   "ObjectID": "78858"
 }

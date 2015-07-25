@@ -4,21 +4,20 @@
   "Classification": "Photograph", 
   "Artist": "Andreas Gursky", 
   "URL": "http://www.moma.org/collection/works/55649", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The Family of Man Fund", 
-  "Date": "1997", 
-  "ArtistID": 7806, 
+  "DateAcquired": "1997-12-11", 
   "Keywords": [
-    "online art collection", 
     "Andreas Gursky", 
     "Times Square", 
     "New York", 
     "1997"
   ], 
+  "ArtistID": 7806, 
+  "Title": "Times Square, New York", 
   "Department": "Photography", 
   "MoMANumber": "622.1997", 
+  "Date": "1997", 
   "ArtistBio": "(German, born 1955)", 
-  "DateAcquired": "1997-12-11", 
-  "\ufeffTitle": "Times Square, New York", 
+  "CuratorApproved": "Y", 
   "ObjectID": "55649"
 }

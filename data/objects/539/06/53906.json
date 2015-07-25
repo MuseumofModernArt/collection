@@ -4,21 +4,20 @@
   "Classification": "Photograph", 
   "Artist": "William Eggleston", 
   "URL": "http://www.moma.org/collection/works/53906", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the photographer", 
-  "Date": "1973", 
-  "ArtistID": 1690, 
+  "DateAcquired": "1973-11-13", 
   "Keywords": [
-    "online art collection", 
     "William Eggleston", 
     "Greenwood", 
     "Mississippi", 
     "1973"
   ], 
+  "ArtistID": 1690, 
+  "Title": "Greenwood, Mississippi", 
   "Department": "Photography", 
   "MoMANumber": "467.1973", 
+  "Date": "1973", 
   "ArtistBio": "(American, born 1939)", 
-  "DateAcquired": "1973-11-13", 
-  "\ufeffTitle": "Greenwood, Mississippi", 
+  "CuratorApproved": "Y", 
   "ObjectID": "53906"
 }

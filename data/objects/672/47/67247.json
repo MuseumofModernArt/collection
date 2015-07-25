@@ -4,21 +4,20 @@
   "Classification": "Print", 
   "Artist": "April Gornik", 
   "URL": "http://www.moma.org/collection/works/67247", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Richard A. Epstein and Miles O. Epstein Funds", 
-  "Date": "1988", 
-  "ArtistID": 2254, 
+  "DateAcquired": "1988-10-25", 
   "Keywords": [
-    "online art collection", 
     "April Gornik", 
     "Light after the Flood", 
     "State II", 
     "1988"
   ], 
+  "ArtistID": 2254, 
+  "Title": "Light after the Flood, State II", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "340.1988", 
+  "Date": "1988", 
   "ArtistBio": "(American, born 1953)", 
-  "DateAcquired": "1988-10-25", 
-  "\ufeffTitle": "Light after the Flood, State II", 
+  "CuratorApproved": "Y", 
   "ObjectID": "67247"
 }

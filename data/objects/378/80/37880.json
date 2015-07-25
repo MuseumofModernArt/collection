@@ -4,20 +4,19 @@
   "Classification": "Drawing", 
   "Artist": "Alice Aycock", 
   "URL": "http://www.moma.org/collection/works/37880", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Acquired with matching funds from Mrs. June Noble Larkin and the National Endowment for the Arts", 
-  "Date": "1978", 
-  "ArtistID": 256, 
+  "DateAcquired": "1978-10-27", 
   "Keywords": [
-    "online art collection", 
     "Alice Aycock", 
     "Study for Project Entitled \"The City of the Walls: A Narrow City: A Thin City\"", 
     "1978"
   ], 
+  "ArtistID": 256, 
+  "Title": "Study for Project Entitled \"The City of the Walls: A Narrow City: A Thin City\"", 
   "Department": "Drawings", 
   "MoMANumber": "726.1978", 
+  "Date": "1978", 
   "ArtistBio": "(American, born 1946)", 
-  "DateAcquired": "1978-10-27", 
-  "\ufeffTitle": "Study for Project Entitled \"The City of the Walls: A Narrow City: A Thin City\"", 
+  "CuratorApproved": "Y", 
   "ObjectID": "37880"
 }

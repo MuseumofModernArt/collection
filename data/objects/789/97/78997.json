@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "John Baldessari", 
   "URL": "http://www.moma.org/collection/works/78997", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Mr. and Mrs. Thomas H. Lee Fund", 
-  "Date": "1997", 
-  "ArtistID": 304, 
+  "DateAcquired": "1998-03-09", 
   "Keywords": [
-    "online art collection", 
     "John Baldessari", 
     "Goya Series: And", 
     "1997"
   ], 
+  "ArtistID": 304, 
+  "Title": "Goya Series: And", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "151.1998", 
+  "Date": "1997", 
   "ArtistBio": "(American, born 1931)", 
-  "DateAcquired": "1998-03-09", 
-  "\ufeffTitle": "Goya Series: And", 
+  "CuratorApproved": "Y", 
   "ObjectID": "78997"
 }

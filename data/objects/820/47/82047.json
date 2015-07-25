@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "David Smith", 
   "URL": "http://www.moma.org/collection/works/82047", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of William Rubin", 
-  "Date": "1951", 
-  "ArtistID": 5480, 
+  "DateAcquired": "1970-12-30", 
   "Keywords": [
-    "online art collection", 
     "David Smith", 
     "Australia", 
     "1951"
   ], 
+  "ArtistID": 5480, 
+  "Title": "Australia", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "1533.1968", 
+  "Date": "1951", 
   "ArtistBio": "(American, 1906\u20131965)", 
-  "DateAcquired": "1970-12-30", 
-  "\ufeffTitle": "Australia", 
+  "CuratorApproved": "Y", 
   "ObjectID": "82047"
 }

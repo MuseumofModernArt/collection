@@ -4,12 +4,9 @@
   "Classification": "Painting", 
   "Artist": "Daniel LaRue Johnson", 
   "URL": "http://www.moma.org/collection/works/80764", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Given anonymously", 
-  "Date": "August 13, 1963 - January 14, 1964", 
-  "ArtistID": 2925, 
+  "DateAcquired": "1965-01-12", 
   "Keywords": [
-    "online art collection", 
     "Daniel LaRue Johnson", 
     "Freedom Now", 
     "Number 1", 
@@ -17,10 +14,12 @@
     "1963 - January 14", 
     "1964"
   ], 
+  "ArtistID": 2925, 
+  "Title": "Freedom Now, Number 1", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "4.1965", 
+  "Date": "August 13, 1963 - January 14, 1964", 
   "ArtistBio": "(American, born 1938)", 
-  "DateAcquired": "1965-01-12", 
-  "\ufeffTitle": "Freedom Now, Number 1", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80764"
 }

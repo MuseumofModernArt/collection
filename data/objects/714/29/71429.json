@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Max Beckmann", 
   "URL": "http://www.moma.org/collection/works/71429", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of J. B. Neumann", 
-  "Date": "(1920)", 
-  "ArtistID": 429, 
+  "DateAcquired": "1939-12-08", 
   "Keywords": [
-    "online art collection", 
     "Max Beckmann", 
     "Woman with Candle (Frau mit Kerze)", 
     "(1920)"
   ], 
+  "ArtistID": 429, 
+  "Title": "Woman with Candle (Frau mit Kerze)", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "580.1939", 
+  "Date": "(1920)", 
   "ArtistBio": "(German, 1884\u20131950)", 
-  "DateAcquired": "1939-12-08", 
-  "\ufeffTitle": "Woman with Candle (Frau mit Kerze)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "71429"
 }

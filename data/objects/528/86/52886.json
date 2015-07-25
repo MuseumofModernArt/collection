@@ -4,12 +4,9 @@
   "Classification": "Photograph", 
   "Artist": "D. B. Woodbury", 
   "URL": "http://www.moma.org/collection/works/52886", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1862", 
-  "ArtistID": 6443, 
+  "DateAcquired": "1977-10-13", 
   "Keywords": [
-    "online art collection", 
     "D", 
     "B", 
     "Woodbury", 
@@ -18,10 +15,12 @@
     "VA", 
     "1862"
   ], 
+  "ArtistID": 6443, 
+  "Title": "Military Bridge, Across the Chickahominy, VA", 
   "Department": "Photography", 
   "MoMANumber": "411.1977", 
+  "Date": "1862", 
   "ArtistBio": "(American, died 1866)", 
-  "DateAcquired": "1977-10-13", 
-  "\ufeffTitle": "Military Bridge, Across the Chickahominy, VA", 
+  "CuratorApproved": "Y", 
   "ObjectID": "52886"
 }

@@ -4,12 +4,9 @@
   "Classification": "A&D Mies van der Rohe Archive", 
   "Artist": "Ludwig Mies van der Rohe", 
   "URL": "http://www.moma.org/collection/works/88268", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Mies van der Rohe Archive, gift of the architect\r\n", 
-  "Date": "1954-1958", 
-  "ArtistID": 7166, 
+  "DateAcquired": "", 
   "Keywords": [
-    "online art collection", 
     "Ludwig Mies van der Rohe", 
     "Seagram Building", 
     "New York City", 
@@ -18,10 +15,12 @@
     "plaza", 
     "1954-1958"
   ], 
+  "ArtistID": 7166, 
+  "Title": "Seagram Building, New York City, New York, Perspective sketch, plaza", 
   "Department": "Architecture & Design", 
   "MoMANumber": "MR5411.2", 
+  "Date": "1954-1958", 
   "ArtistBio": "(American, born Germany. 1886\u20131969)", 
-  "DateAcquired": "", 
-  "\ufeffTitle": "Seagram Building, New York City, New York, Perspective sketch, plaza", 
+  "CuratorApproved": "Y", 
   "ObjectID": "88268"
 }

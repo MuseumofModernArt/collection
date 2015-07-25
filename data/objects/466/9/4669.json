@@ -4,21 +4,20 @@
   "Classification": "A&D Design", 
   "Artist": "Karl Koepping", 
   "URL": "http://www.moma.org/collection/works/4669", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Given anonymously", 
-  "Date": "c. 1900", 
-  "ArtistID": 3186, 
+  "DateAcquired": "2001-04-30", 
   "Keywords": [
-    "online art collection", 
     "Karl Koepping", 
     "Liqueur Glass", 
     "c", 
     "1900"
   ], 
+  "ArtistID": 3186, 
+  "Title": "Liqueur Glass", 
   "Department": "Architecture & Design", 
   "MoMANumber": "1306.2001", 
+  "Date": "c. 1900", 
   "ArtistBio": "(German, 1848\u20131914)", 
-  "DateAcquired": "2001-04-30", 
-  "\ufeffTitle": "Liqueur Glass", 
+  "CuratorApproved": "Y", 
   "ObjectID": "4669"
 }

@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Aristide Maillol", 
   "URL": "http://www.moma.org/collection/works/81855", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Louise Reinhardt Smith Bequest", 
-  "Date": "1930", 
-  "ArtistID": 3697, 
+  "DateAcquired": "1995-12-12", 
   "Keywords": [
-    "online art collection", 
     "Aristide Maillol", 
     "Crouching Woman", 
     "1930"
   ], 
+  "ArtistID": 3697, 
+  "Title": "Crouching Woman", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "778.1995.a-b", 
+  "Date": "1930", 
   "ArtistBio": "(French, 1861\u20131944)", 
-  "DateAcquired": "1995-12-12", 
-  "\ufeffTitle": "Crouching Woman", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81855"
 }

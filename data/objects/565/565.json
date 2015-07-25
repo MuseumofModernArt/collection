@@ -4,12 +4,9 @@
   "Classification": "A&D Architectural Drawing", 
   "Artist": "Louis I. Kahn", 
   "URL": "http://www.moma.org/collection/works/565", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the architect", 
-  "Date": "1961", 
-  "ArtistID": 2964, 
+  "DateAcquired": "1964-04-14", 
   "Keywords": [
-    "online art collection", 
     "Louis I", 
     "Kahn", 
     "First Unitarian Church and School", 
@@ -18,10 +15,12 @@
     "Final version: elevation", 
     "1961"
   ], 
+  "ArtistID": 2964, 
+  "Title": "First Unitarian Church and School, Rochester, New York, Final version: elevation", 
   "Department": "Architecture & Design", 
   "MoMANumber": "407.1964", 
+  "Date": "1961", 
   "ArtistBio": "(American, born Estonia. 1901\u20131974)", 
-  "DateAcquired": "1964-04-14", 
-  "\ufeffTitle": "First Unitarian Church and School, Rochester, New York, Final version: elevation", 
+  "CuratorApproved": "Y", 
   "ObjectID": "565"
 }

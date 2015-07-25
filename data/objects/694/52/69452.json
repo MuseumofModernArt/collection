@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Jacques Villon", 
   "URL": "http://www.moma.org/collection/works/69452", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Larry Aldrich Fund", 
-  "Date": "1907", 
-  "ArtistID": 6165, 
+  "DateAcquired": "1954-09-30", 
   "Keywords": [
-    "online art collection", 
     "Jacques Villon", 
     "Concert on the Beach", 
     "1907"
   ], 
+  "ArtistID": 6165, 
+  "Title": "Concert on the Beach", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "459.1954", 
+  "Date": "1907", 
   "ArtistBio": "(French, 1875\u20131963)", 
-  "DateAcquired": "1954-09-30", 
-  "\ufeffTitle": "Concert on the Beach", 
+  "CuratorApproved": "Y", 
   "ObjectID": "69452"
 }

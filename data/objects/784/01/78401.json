@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Jasper Johns", 
   "URL": "http://www.moma.org/collection/works/78401", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Richard S. Zeisler Fund", 
-  "Date": "1955", 
-  "ArtistID": 2923, 
+  "DateAcquired": "1958-02-19", 
   "Keywords": [
-    "online art collection", 
     "Jasper Johns", 
     "Green Target", 
     "1955"
   ], 
+  "ArtistID": 2923, 
+  "Title": "Green Target", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "9.1958", 
+  "Date": "1955", 
   "ArtistBio": "(American, born 1930)", 
-  "DateAcquired": "1958-02-19", 
-  "\ufeffTitle": "Green Target", 
+  "CuratorApproved": "Y", 
   "ObjectID": "78401"
 }

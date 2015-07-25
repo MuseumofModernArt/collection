@@ -4,12 +4,9 @@
   "Classification": "Print", 
   "Artist": "Various Artists, Andy Warhol, Frank Stella, Bruce Nauman, Robert Morris, Jasper Johns, Robert Rauschenberg, John Cage", 
   "URL": "http://www.moma.org/collection/works/62179", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1974-75, published 1975", 
-  "ArtistID": 6104, 
+  "DateAcquired": "1975-05-09", 
   "Keywords": [
-    "online art collection", 
     "Various Artists with Andy Warhol", 
     "Frank Stella", 
     "Bruce Nauman", 
@@ -20,10 +17,12 @@
     "1974-75", 
     "published 1975"
   ], 
+  "ArtistID": 6104, 
+  "Title": "Merce Cunningham Portfolio", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "120.1975.1-7", 
+  "Date": "1974-75, published 1975", 
   "ArtistBio": "(American) (American, 1928\u20131987) (American, born 1936) (American, born 1941) (American, born 1931) (American, born 1930) (American, 1925\u20132008) (American, 1912\u20131992)", 
-  "DateAcquired": "1975-05-09", 
-  "\ufeffTitle": "Merce Cunningham Portfolio", 
+  "CuratorApproved": "Y", 
   "ObjectID": "62179"
 }

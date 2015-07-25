@@ -4,12 +4,9 @@
   "Classification": "Photograph", 
   "Artist": "Times Wide World Photos", 
   "URL": "http://www.moma.org/collection/works/58782", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The New York Times Collection", 
-  "Date": "October 18, 1940", 
-  "ArtistID": 8632, 
+  "DateAcquired": "2001-06-14", 
   "Keywords": [
-    "online art collection", 
     "Times Wide World Photos", 
     "\"A Showery Reception for Mr", 
     "Willkie in St", 
@@ -17,10 +14,12 @@
     "October 18", 
     "1940"
   ], 
+  "ArtistID": 8632, 
+  "Title": "\"A Showery Reception for Mr. Willkie in St. Louis\"", 
   "Department": "Photography", 
   "MoMANumber": "2189.2001", 
+  "Date": "October 18, 1940", 
   "ArtistBio": "(American, active 1919\u20131941)", 
-  "DateAcquired": "2001-06-14", 
-  "\ufeffTitle": "\"A Showery Reception for Mr. Willkie in St. Louis\"", 
+  "CuratorApproved": "Y", 
   "ObjectID": "58782"
 }

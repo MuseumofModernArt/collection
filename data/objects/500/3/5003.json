@@ -4,20 +4,19 @@
   "Classification": "A&D Graphic Design", 
   "Artist": "John Atherton", 
   "URL": "http://www.moma.org/collection/works/5003", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the Office of War Information", 
-  "Date": "1943", 
-  "ArtistID": 230, 
+  "DateAcquired": "1944-05-02", 
   "Keywords": [
-    "online art collection", 
     "John Atherton", 
     "A Careless Word - Another Cross", 
     "1943"
   ], 
+  "ArtistID": 230, 
+  "Title": "A Careless Word - Another Cross", 
   "Department": "Architecture & Design", 
   "MoMANumber": "87.1944", 
+  "Date": "1943", 
   "ArtistBio": "(American, 1900\u20131952)", 
-  "DateAcquired": "1944-05-02", 
-  "\ufeffTitle": "A Careless Word - Another Cross", 
+  "CuratorApproved": "Y", 
   "ObjectID": "5003"
 }

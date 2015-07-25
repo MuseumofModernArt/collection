@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Arshile Gorky", 
   "URL": "http://www.moma.org/collection/works/79237", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Bernard Davis in memory of the artist", 
-  "Date": "1928", 
-  "ArtistID": 2252, 
+  "DateAcquired": "1950-10-11", 
   "Keywords": [
-    "online art collection", 
     "Arshile Gorky", 
     "Composition: Horse and Figures", 
     "1928"
   ], 
+  "ArtistID": 2252, 
+  "Title": "Composition: Horse and Figures", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "237.1950", 
+  "Date": "1928", 
   "ArtistBio": "(American, born Armenia. 1904\u20131948)", 
-  "DateAcquired": "1950-10-11", 
-  "\ufeffTitle": "Composition: Horse and Figures", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79237"
 }

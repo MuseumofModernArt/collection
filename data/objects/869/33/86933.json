@@ -4,20 +4,19 @@
   "Classification": "Drawing", 
   "Artist": "Mona Hatoum", 
   "URL": "http://www.moma.org/collection/works/86933", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "2002", 
-  "ArtistID": 7447, 
+  "DateAcquired": "2002-12-10", 
   "Keywords": [
-    "online art collection", 
     "Mona Hatoum", 
     "Untitled (grey hair grid with knots 3)", 
     "2002"
   ], 
+  "ArtistID": 7447, 
+  "Title": "Untitled (grey hair grid with knots 3)", 
   "Department": "Drawings", 
   "MoMANumber": "399.2002", 
+  "Date": "2002", 
   "ArtistBio": "(British of Palestinian origin, born in Beirut, Lebanon 1952)", 
-  "DateAcquired": "2002-12-10", 
-  "\ufeffTitle": "Untitled (grey hair grid with knots 3)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "86933"
 }

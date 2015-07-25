@@ -4,12 +4,9 @@
   "Classification": "A&D Graphic Design", 
   "Artist": "A. M. Cassandre", 
   "URL": "http://www.moma.org/collection/works/6010", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Mr. and Mrs. Stanley Resor", 
-  "Date": "1932", 
-  "ArtistID": 1015, 
+  "DateAcquired": "1935-11-12", 
   "Keywords": [
-    "online art collection", 
     "A", 
     "M", 
     "Cassandre", 
@@ -17,10 +14,12 @@
     "Poste A&eacute;rienne", 
     "1932"
   ], 
+  "ArtistID": 1015, 
+  "Title": "Air Orient, Poste A\u00e9rienne", 
   "Department": "Architecture & Design", 
   "MoMANumber": "276.1935", 
+  "Date": "1932", 
   "ArtistBio": "(French, 1901\u20131968)", 
-  "DateAcquired": "1935-11-12", 
-  "\ufeffTitle": "Air Orient, Poste A\u00e9rienne", 
+  "CuratorApproved": "Y", 
   "ObjectID": "6010"
 }

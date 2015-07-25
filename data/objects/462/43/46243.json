@@ -4,12 +4,9 @@
   "Classification": "Photograph", 
   "Artist": "Tina Modotti", 
   "URL": "http://www.moma.org/collection/works/46243", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Anonymous gift", 
-  "Date": "c. 1929", 
-  "ArtistID": 4039, 
+  "DateAcquired": "1964-01-07", 
   "Keywords": [
-    "online art collection", 
     "Tina Modotti", 
     "Mother and Child", 
     "Tehuantepec", 
@@ -18,10 +15,12 @@
     "c", 
     "1929"
   ], 
+  "ArtistID": 4039, 
+  "Title": "Mother and Child, Tehuantepec, Oaxaca, Mexico", 
   "Department": "Photography", 
   "MoMANumber": "98.1964", 
+  "Date": "c. 1929", 
   "ArtistBio": "(Italian, 1896\u20131942)", 
-  "DateAcquired": "1964-01-07", 
-  "\ufeffTitle": "Mother and Child, Tehuantepec, Oaxaca, Mexico", 
+  "CuratorApproved": "Y", 
   "ObjectID": "46243"
 }

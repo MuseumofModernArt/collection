@@ -4,11 +4,9 @@
   "Classification": "A&D Design", 
   "Artist": "Apple, Inc., Stephen Peart, Raymond Riley, David Shen", 
   "URL": "http://www.moma.org/collection/works/3423", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the manufacturer", 
-  "Date": "1993", 
+  "DateAcquired": "1993-11-04", 
   "Keywords": [
-    "online art collection", 
     "Apple", 
     "Inc,", 
     "Stephen Peart", 
@@ -16,10 +14,11 @@
     "Adjustable Keyboard", 
     "1993"
   ], 
+  "Title": "Adjustable Keyboard", 
   "Department": "Architecture & Design", 
   "MoMANumber": "359.1993", 
+  "Date": "1993", 
   "ArtistBio": "(USA, founded 1976) (British, born 1958) (American, born 1958) (American, born 1958)", 
-  "DateAcquired": "1993-11-04", 
-  "\ufeffTitle": "Adjustable Keyboard", 
+  "CuratorApproved": "Y", 
   "ObjectID": "3423"
 }

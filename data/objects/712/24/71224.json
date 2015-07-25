@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "David Smith", 
   "URL": "http://www.moma.org/collection/works/71224", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Blanchette Hooker Rockefeller Fund", 
-  "Date": "1954", 
-  "ArtistID": 5480, 
+  "DateAcquired": "1976-11-10", 
   "Keywords": [
-    "online art collection", 
     "David Smith", 
     "Composition", 
     "1954"
   ], 
+  "ArtistID": 5480, 
+  "Title": "Composition", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "566.1976", 
+  "Date": "1954", 
   "ArtistBio": "(American, 1906\u20131965)", 
-  "DateAcquired": "1976-11-10", 
-  "\ufeffTitle": "Composition", 
+  "CuratorApproved": "Y", 
   "ObjectID": "71224"
 }

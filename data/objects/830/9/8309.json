@@ -4,12 +4,9 @@
   "Classification": "A&D Graphic Design", 
   "Artist": "Zdenek Rossmann", 
   "URL": "http://www.moma.org/collection/works/8309", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Jan Tschichold Collection, Gift of Philip Johnson", 
-  "Date": "1934", 
-  "ArtistID": 8254, 
+  "DateAcquired": "1999-12-10", 
   "Keywords": [
-    "online art collection", 
     "Zdenek Rossmann", 
     "Marie Rossmannova", 
     "Dr", 
@@ -17,10 +14,12 @@
     "Typo", 
     "1934"
   ], 
+  "ArtistID": 8254, 
+  "Title": "Marie Rossmannova, Dr. Zdenek Havlik, Typo", 
   "Department": "Architecture & Design", 
   "MoMANumber": "876.1999", 
+  "Date": "1934", 
   "ArtistBio": "(Czech, 1905\u20131984)", 
-  "DateAcquired": "1999-12-10", 
-  "\ufeffTitle": "Marie Rossmannova, Dr. Zdenek Havlik, Typo", 
+  "CuratorApproved": "Y", 
   "ObjectID": "8309"
 }

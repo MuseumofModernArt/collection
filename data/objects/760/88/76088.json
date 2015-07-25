@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Edvard Munch", 
   "URL": "http://www.moma.org/collection/works/76088", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1930", 
-  "ArtistID": 4164, 
+  "DateAcquired": "1968-10-10", 
   "Keywords": [
-    "online art collection", 
     "Edvard Munch", 
     "Birgitte III (The Gothic Girl)", 
     "(1930)"
   ], 
+  "ArtistID": 4164, 
+  "Title": "The Gothic Girl (Birgitte III)", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "1219.1968", 
+  "Date": "1930", 
   "ArtistBio": "(Norwegian, 1863\u20131944)", 
-  "DateAcquired": "1968-10-10", 
-  "\ufeffTitle": "The Gothic Girl (Birgitte III)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "76088"
 }

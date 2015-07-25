@@ -4,12 +4,9 @@
   "Classification": "A&D Architectural Model", 
   "Artist": "Gerrit Rietveld, Mrs. Truus Schr\u00f6der-Schr\u00e4der", 
   "URL": "http://www.moma.org/collection/works/1015", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Mrs. Phyllis B. Lambert", 
-  "Date": "1924", 
-  "ArtistID": 4922, 
+  "DateAcquired": "1966-05-10", 
   "Keywords": [
-    "online art collection", 
     "Gerrit Rietveld with Mrs", 
     "Truus Schr&ouml;der-Schr&auml;der", 
     "Schr&ouml;der House", 
@@ -17,10 +14,12 @@
     "The Netherlands", 
     "1924"
   ], 
+  "ArtistID": 4922, 
+  "Title": "Schr\u00f6der House, Utrecht, The Netherlands", 
   "Department": "Architecture & Design", 
   "MoMANumber": "361.1966", 
+  "Date": "1924", 
   "ArtistBio": "(Dutch, 1888\u20131964)", 
-  "DateAcquired": "1966-05-10", 
-  "\ufeffTitle": "Schr\u00f6der House, Utrecht, The Netherlands", 
+  "CuratorApproved": "Y", 
   "ObjectID": "1015"
 }

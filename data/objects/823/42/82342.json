@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Piero Manzoni", 
   "URL": "http://www.moma.org/collection/works/82342", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Nina and Gordon Bunshaft Bequest, Mrs. John Hay Whitney Bequest, and Donald B. Marron Funds", 
-  "Date": "1962", 
-  "ArtistID": 3741, 
+  "DateAcquired": "2001-11-12", 
   "Keywords": [
-    "online art collection", 
     "Piero Manzoni", 
     "Achrome", 
     "1962"
   ], 
+  "ArtistID": 3741, 
+  "Title": "Achrome", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "2472.2001", 
+  "Date": "1962", 
   "ArtistBio": "(Italian, 1933\u20131963)", 
-  "DateAcquired": "2001-11-12", 
-  "\ufeffTitle": "Achrome", 
+  "CuratorApproved": "Y", 
   "ObjectID": "82342"
 }

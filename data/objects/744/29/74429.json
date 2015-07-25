@@ -4,12 +4,9 @@
   "Classification": "Print", 
   "Artist": "Various Artists, Peter Young, Lawrence Stafford, Kenneth Showell, William Pettet, Brice Marden, Lee Lozano, Ronnie Landfield, David Diao, Alan Cote, Alan Shields", 
   "URL": "http://www.moma.org/collection/works/74429", 
-  "CuratorApproved": "Y", 
   "CreditLine": "John B. Turner Fund", 
-  "Date": "1968-69, published 1969", 
-  "ArtistID": 6104, 
+  "DateAcquired": "1969-10-28", 
   "Keywords": [
-    "online art collection", 
     "Various Artists with Peter Young", 
     "Lawrence Stafford", 
     "Kenneth Showell", 
@@ -23,10 +20,12 @@
     "1968-69", 
     "published 1969"
   ], 
+  "ArtistID": 6104, 
+  "Title": "New York l0/69", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "847.1969.1-10", 
+  "Date": "1968-69, published 1969", 
   "ArtistBio": "(American) (American, born 1940) (American, born 1938) (American, born 1939) (American, born 1942) (American, born 1938) (American, 1930\u20131999) (American, born 1947) (American, born 1943) (American, born 1937) (American,1944\u20132005)", 
-  "DateAcquired": "1969-10-28", 
-  "\ufeffTitle": "New York l0/69", 
+  "CuratorApproved": "Y", 
   "ObjectID": "74429"
 }

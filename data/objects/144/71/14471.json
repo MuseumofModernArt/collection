@@ -4,12 +4,9 @@
   "Classification": "Illustrated Book", 
   "Artist": "Vito Acconci", 
   "URL": "http://www.moma.org/collection/works/14471", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Mrs. Joanne M. Stern Fund", 
-  "Date": "1973", 
-  "ArtistID": 53, 
+  "DateAcquired": "1974-04-23", 
   "Keywords": [
-    "online art collection", 
     "Vito Acconci", 
     "Behavior Fields - Transaction Arenas - Training Grounds - Maneuver Positions: Notes on the Development of a Show (Sonnabend", 
     "New York; January 15-29", 
@@ -17,10 +14,12 @@
     "Notes Toward Performing a Gallery Space", 
     "1973"
   ], 
+  "ArtistID": 53, 
+  "Title": "Behavior Fields - Transaction Arenas - Training Grounds - Maneuver Positions: Notes on the Development of a Show (Sonnabend, New York; January 15-29, 1972), Notes Toward Performing a Gallery Space", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "279.1974", 
+  "Date": "1973", 
   "ArtistBio": "(American, born 1940)", 
-  "DateAcquired": "1974-04-23", 
-  "\ufeffTitle": "Behavior Fields - Transaction Arenas - Training Grounds - Maneuver Positions: Notes on the Development of a Show (Sonnabend, New York; January 15-29, 1972), Notes Toward Performing a Gallery Space", 
+  "CuratorApproved": "Y", 
   "ObjectID": "14471"
 }

@@ -4,20 +4,19 @@
   "Classification": "Drawing", 
   "Artist": "Giacomo Balla", 
   "URL": "http://www.moma.org/collection/works/37707", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Bequests of Helen Acheson, and Eve Clendenin, gift of A.E. Gallatin (by exchange) and gift of Constance B. Cartwright", 
-  "Date": "(1914)", 
-  "ArtistID": 311, 
+  "DateAcquired": "1983-11-04", 
   "Keywords": [
-    "online art collection", 
     "Giacomo Balla", 
     "Mercury Passing in Front of the Sun", 
     "(1914)"
   ], 
+  "ArtistID": 311, 
+  "Title": "Mercury Passing in Front of the Sun", 
   "Department": "Drawings", 
   "MoMANumber": "650.1983", 
+  "Date": "(1914)", 
   "ArtistBio": "(Italian, 1871\u20131958)", 
-  "DateAcquired": "1983-11-04", 
-  "\ufeffTitle": "Mercury Passing in Front of the Sun", 
+  "CuratorApproved": "Y", 
   "ObjectID": "37707"
 }

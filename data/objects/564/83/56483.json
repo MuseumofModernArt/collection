@@ -4,21 +4,20 @@
   "Classification": "Photograph", 
   "Artist": "Dorothea Lange", 
   "URL": "http://www.moma.org/collection/works/56483", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1938", 
-  "ArtistID": 3373, 
+  "DateAcquired": "1967-11-21", 
   "Keywords": [
-    "online art collection", 
     "Dorothea Lange", 
     "Woman of the High Plains", 
     "Texas Panhandle", 
     "1938"
   ], 
+  "ArtistID": 3373, 
+  "Title": "Woman of the High Plains, Texas Panhandle", 
   "Department": "Photography", 
   "MoMANumber": "805.1968", 
+  "Date": "1938", 
   "ArtistBio": "(American, 1895\u20131965)", 
-  "DateAcquired": "1967-11-21", 
-  "\ufeffTitle": "Woman of the High Plains, Texas Panhandle", 
+  "CuratorApproved": "Y", 
   "ObjectID": "56483"
 }

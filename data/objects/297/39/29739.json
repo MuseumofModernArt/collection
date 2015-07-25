@@ -4,12 +4,9 @@
   "Classification": "Illustrated Book", 
   "Artist": "Various Artists, Fernand L\u00e9ger, Oscar Dom\u00ednguez, Albert Gleizes, Georges Braque, Alberto Magnelli, Camille Bryen, Marc Chagall, Serge (Comte Serge Jastrebzoff) F\u00e9rat, Alberto Giacometti, Jean (Hans) Arp, Henri Laurens, Jacques Villon, Andr\u00e9 Masson, Henri Matisse, Jean Metzinger, Joan Mir\u00f3, Pablo Picasso, L\u00e9opold Survage, Sophie Taeuber-Arp, Edgard Tytgat, Raoul Hausmann", 
   "URL": "http://www.moma.org/collection/works/29739", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The Louis E. Stern Collection", 
-  "Date": "1949", 
-  "ArtistID": 6104, 
+  "DateAcquired": "1964-10-06", 
   "Keywords": [
-    "online art collection", 
     "Various Artists with Fernand L&eacute;ger", 
     "Oscar Dom&iacute;nguez", 
     "Albert Gleizes", 
@@ -33,10 +30,12 @@
     "Po&eacute;sie de Mots Inconnus", 
     "1949"
   ], 
+  "ArtistID": 6104, 
+  "Title": "Po\u00e9sie de Mots Inconnus", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "992.1964.1-26", 
+  "Date": "1949", 
   "ArtistBio": "(Various) (French, 1881\u20131955) (French, born Spain. 1906\u20131957) (French, 1881\u20131953) (French, 1882\u20131963) (Italian, 1888\u20131971) (French, 1907\u20131976) (French, born Belarus. 1887\u20131985) (French, 1881\u20131958) (Swiss, 1901\u20131966) (French, born Germany (Alsace). 1886\u20131966) (French, 1885\u20131954) (French, 1875\u20131963) (French, 1896\u20131987) (French, 1869\u20131954) (French, 1883\u20131956) (Spanish, 1893\u20131983) (Spanish, 1881\u20131973) (French, 1879\u20131968) (Swiss, 1889\u20131943) (Belgian, 1879\u20131957) (German, born Austria. 1886\u20131971)", 
-  "DateAcquired": "1964-10-06", 
-  "\ufeffTitle": "Po\u00e9sie de Mots Inconnus", 
+  "CuratorApproved": "Y", 
   "ObjectID": "29739"
 }

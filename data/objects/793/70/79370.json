@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Marc Chagall", 
   "URL": "http://www.moma.org/collection/works/79370", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Acquired through the Lillie P. Bliss Bequest", 
-  "Date": "1915-20 (after a painting of 1914)", 
-  "ArtistID": 1055, 
+  "DateAcquired": "1949-05-26", 
   "Keywords": [
-    "online art collection", 
     "Marc Chagall", 
     "Over Vitebsk", 
     "1915-20 (after a painting of 1914)"
   ], 
+  "ArtistID": 1055, 
+  "Title": "Over Vitebsk", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "277.1949", 
+  "Date": "1915-20 (after a painting of 1914)", 
   "ArtistBio": "(French, born Belarus. 1887\u20131985)", 
-  "DateAcquired": "1949-05-26", 
-  "\ufeffTitle": "Over Vitebsk", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79370"
 }

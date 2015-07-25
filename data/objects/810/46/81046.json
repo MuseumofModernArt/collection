@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Alberto Giacometti", 
   "URL": "http://www.moma.org/collection/works/81046", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Acquired through the Mrs. Rita Silver Fund in honor of her husband Leo Silver and in memory of her son Stanley R. Silver, and the Mr. and Mrs. Walter Hochschild Fund", 
-  "Date": "1926-27", 
-  "ArtistID": 2141, 
+  "DateAcquired": "1986-04-07", 
   "Keywords": [
-    "online art collection", 
     "Alberto Giacometti", 
     "Spoon Woman", 
     "1926-27"
   ], 
+  "ArtistID": 2141, 
+  "Title": "Spoon Woman", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "158.1986", 
+  "Date": "1926-27", 
   "ArtistBio": "(Swiss, 1901\u20131966)", 
-  "DateAcquired": "1986-04-07", 
-  "\ufeffTitle": "Spoon Woman", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81046"
 }

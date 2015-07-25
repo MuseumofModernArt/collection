@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Christopher Wilmarth", 
   "URL": "http://www.moma.org/collection/works/100351", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Edward R. Broida", 
-  "Date": "1969", 
-  "ArtistID": 6386, 
+  "DateAcquired": "2005-10-06", 
   "Keywords": [
-    "online art collection", 
     "Christopher Wilmarth", 
     "Last Hands", 
     "1969"
   ], 
+  "ArtistID": 6386, 
+  "Title": "Last Hands", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "808.2005.a-d", 
+  "Date": "1969", 
   "ArtistBio": "(American, 1943\u20131987)", 
-  "DateAcquired": "2005-10-06", 
-  "\ufeffTitle": "Last Hands", 
+  "CuratorApproved": "Y", 
   "ObjectID": "100351"
 }

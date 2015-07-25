@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Cy Twombly", 
   "URL": "http://www.moma.org/collection/works/80088", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Acquired through the Lillie P. Bliss Bequest and The Sidney and Harriet Janis Collection (both by exchange)", 
-  "Date": "1970", 
-  "ArtistID": 5988, 
+  "DateAcquired": "1994-12-08", 
   "Keywords": [
-    "online art collection", 
     "Cy Twombly", 
     "Untitled", 
     "1970"
   ], 
+  "ArtistID": 5988, 
+  "Title": "Untitled", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "614.1994", 
+  "Date": "1970", 
   "ArtistBio": "(American, 1928\u20132011)", 
-  "DateAcquired": "1994-12-08", 
-  "\ufeffTitle": "Untitled", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80088"
 }

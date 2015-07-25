@@ -4,20 +4,19 @@
   "Classification": "A&D Graphic Design", 
   "Artist": "Giovanni Pintori", 
   "URL": "http://www.moma.org/collection/works/6356", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the Olivetti Corporation", 
-  "Date": "1957", 
-  "ArtistID": 4629, 
+  "DateAcquired": "1957-12-04", 
   "Keywords": [
-    "online art collection", 
     "Giovanni Pintori", 
     "Olivetti Tetractys", 
     "1957"
   ], 
+  "ArtistID": 4629, 
+  "Title": "Olivetti Tetractys", 
   "Department": "Architecture & Design", 
   "MoMANumber": "338.1957", 
+  "Date": "1957", 
   "ArtistBio": "(Italian, 1912\u20131999)", 
-  "DateAcquired": "1957-12-04", 
-  "\ufeffTitle": "Olivetti Tetractys", 
+  "CuratorApproved": "Y", 
   "ObjectID": "6356"
 }

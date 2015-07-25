@@ -4,21 +4,20 @@
   "Classification": "Sculpture", 
   "Artist": "Georg Kolbe", 
   "URL": "http://www.moma.org/collection/works/81672", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Abby Aldrich Rockefeller", 
-  "Date": "c. 1920", 
-  "ArtistID": 3199, 
+  "DateAcquired": "1939-12-08", 
   "Keywords": [
-    "online art collection", 
     "Georg Kolbe", 
     "Standing Girl", 
     "c", 
     "1920"
   ], 
+  "ArtistID": 3199, 
+  "Title": "Standing Girl", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "612.1939", 
+  "Date": "c. 1920", 
   "ArtistBio": "(German, 1877\u20131947)", 
-  "DateAcquired": "1939-12-08", 
-  "\ufeffTitle": "Standing Girl", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81672"
 }

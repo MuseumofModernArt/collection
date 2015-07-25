@@ -4,12 +4,9 @@
   "Classification": "A&D Architectural Drawing", 
   "Artist": "Mario Botta", 
   "URL": "http://www.moma.org/collection/works/265", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the architect", 
-  "Date": "Unknown", 
-  "ArtistID": 696, 
+  "DateAcquired": "1987-05-27", 
   "Keywords": [
-    "online art collection", 
     "Mario Botta", 
     "Cultural Center", 
     "Chamb&eacute;ry", 
@@ -17,10 +14,12 @@
     "East elevation", 
     "Unknown"
   ], 
+  "ArtistID": 696, 
+  "Title": "Cultural Center, Chamb\u00e9ry, France, East elevation", 
   "Department": "Architecture & Design", 
   "MoMANumber": "212.1987", 
+  "Date": "Unknown", 
   "ArtistBio": "(Swiss, born 1943)", 
-  "DateAcquired": "1987-05-27", 
-  "\ufeffTitle": "Cultural Center, Chamb\u00e9ry, France, East elevation", 
+  "CuratorApproved": "Y", 
   "ObjectID": "265"
 }

@@ -4,12 +4,9 @@
   "Classification": "Photograph", 
   "Artist": "David Goldblatt", 
   "URL": "http://www.moma.org/collection/works/55224", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Wm. Brian Little", 
-  "Date": "24 November 1990", 
-  "ArtistID": 2214, 
+  "DateAcquired": "1998-10-15", 
   "Keywords": [
-    "online art collection", 
     "David Goldblatt", 
     "Stairway", 
     "Meerlust Wine Farm", 
@@ -17,10 +14,12 @@
     "Cape", 
     "24 November 1990"
   ], 
+  "ArtistID": 2214, 
+  "Title": "Stairway, Meerlust Wine Farm, near Stellenbosch, Cape", 
   "Department": "Photography", 
   "MoMANumber": "568.1998", 
+  "Date": "24 November 1990", 
   "ArtistBio": "(South African, born 1930)", 
-  "DateAcquired": "1998-10-15", 
-  "\ufeffTitle": "Stairway, Meerlust Wine Farm, near Stellenbosch, Cape", 
+  "CuratorApproved": "Y", 
   "ObjectID": "55224"
 }

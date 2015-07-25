@@ -4,22 +4,21 @@
   "Classification": "Painting", 
   "Artist": "Piet Mondrian", 
   "URL": "http://www.moma.org/collection/works/79253", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1913", 
-  "ArtistID": 4057, 
+  "DateAcquired": "1950-10-11", 
   "Keywords": [
-    "online art collection", 
     "Piet Mondrian", 
     "Composition in Brown and Gray (Gem&auml;lde no", 
     "II / Composition no", 
     "IX / Compositie 5)", 
     "1913"
   ], 
+  "ArtistID": 4057, 
+  "Title": "Composition in Brown and Gray", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "242.1950", 
+  "Date": "1913", 
   "ArtistBio": "(Dutch, 1872\u20131944)", 
-  "DateAcquired": "1950-10-11", 
-  "\ufeffTitle": "Composition in Brown and Gray", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79253"
 }

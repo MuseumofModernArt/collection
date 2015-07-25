@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Jenny Holzer", 
   "URL": "http://www.moma.org/collection/works/81424", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Given anonymously", 
-  "Date": "1986", 
-  "ArtistID": 2714, 
+  "DateAcquired": "1986-12-08", 
   "Keywords": [
-    "online art collection", 
     "Jenny Holzer", 
     "Granite Bench", 
     "1986"
   ], 
+  "ArtistID": 2714, 
+  "Title": "Granite Bench", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "388.1986.a-c", 
+  "Date": "1986", 
   "ArtistBio": "(American, born 1950)", 
-  "DateAcquired": "1986-12-08", 
-  "\ufeffTitle": "Granite Bench", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81424"
 }

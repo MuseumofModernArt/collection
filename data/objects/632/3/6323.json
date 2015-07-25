@@ -4,12 +4,9 @@
   "Classification": "A&D Graphic Design", 
   "Artist": "Graphicteam BDG, Winfried Holtz, Siegfried Himmer, Hans Buschfeld, Heinz Lippert, Coort von Mannstein", 
   "URL": "http://www.moma.org/collection/works/6323", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the designers", 
-  "Date": "1965", 
-  "ArtistID": 2296, 
+  "DateAcquired": "1966-05-10", 
   "Keywords": [
-    "online art collection", 
     "Graphicteam BDG", 
     "Winfried Holtz", 
     "Siegfried Himmer", 
@@ -19,10 +16,12 @@
     "Schweissen und Schneiden", 
     "1965"
   ], 
+  "ArtistID": 2296, 
+  "Title": "Fachmesse 25.9-3.10.65 Essen, Schweissen und Schneiden", 
   "Department": "Architecture & Design", 
   "MoMANumber": "333.1966", 
+  "Date": "1965", 
   "ArtistBio": "(German) (German, born 1937) (German, born 1935) (German, born 1939) (German, born 1938) (German, born 1937)", 
-  "DateAcquired": "1966-05-10", 
-  "\ufeffTitle": "Fachmesse 25.9-3.10.65 Essen, Schweissen und Schneiden", 
+  "CuratorApproved": "Y", 
   "ObjectID": "6323"
 }

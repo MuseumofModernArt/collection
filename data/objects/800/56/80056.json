@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "\u00c9douard Vuillard", 
   "URL": "http://www.moma.org/collection/works/80056", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The William B. Jaffe and Evelyn A. J. Hall Collection", 
-  "Date": "1894 (reworked in 1908)", 
-  "ArtistID": 6194, 
+  "DateAcquired": "1959-04-22", 
   "Keywords": [
-    "online art collection", 
     "&Eacute;douard Vuillard", 
     "The Park", 
     "1894 (reworked in 1908)"
   ], 
+  "ArtistID": 6194, 
+  "Title": "The Park", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "600.1959", 
+  "Date": "1894 (reworked in 1908)", 
   "ArtistBio": "(French, 1868\u20131940)", 
-  "DateAcquired": "1959-04-22", 
-  "\ufeffTitle": "The Park", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80056"
 }

@@ -4,20 +4,19 @@
   "Classification": "Drawing", 
   "Artist": "Jim Shaw", 
   "URL": "http://www.moma.org/collection/works/86818", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "2002", 
-  "ArtistID": 7968, 
+  "DateAcquired": "2002-10-15", 
   "Keywords": [
-    "online art collection", 
     "Jim Shaw", 
     "Dream Object (I Dreamt I was putting together this piece of abstract drawings)", 
     "2002"
   ], 
+  "ArtistID": 7968, 
+  "Title": "Dream Object (I Dreamt I was putting together this piece of abstract drawings)", 
   "Department": "Drawings", 
   "MoMANumber": "316.2002", 
+  "Date": "2002", 
   "ArtistBio": "(American, born 1952)", 
-  "DateAcquired": "2002-10-15", 
-  "\ufeffTitle": "Dream Object (I Dreamt I was putting together this piece of abstract drawings)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "86818"
 }

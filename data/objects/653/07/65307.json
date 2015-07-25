@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Jim Dine", 
   "URL": "http://www.moma.org/collection/works/65307", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Celeste Bartos", 
-  "Date": "1975", 
-  "ArtistID": 1547, 
+  "DateAcquired": "1975-10-07", 
   "Keywords": [
-    "online art collection", 
     "Jim Dine", 
     "Self Portrait as a Negative", 
     "1975"
   ], 
+  "ArtistID": 1547, 
+  "Title": "Self Portrait as a Negative", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "253.1975", 
+  "Date": "1975", 
   "ArtistBio": "(American, born 1935)", 
-  "DateAcquired": "1975-10-07", 
-  "\ufeffTitle": "Self Portrait as a Negative", 
+  "CuratorApproved": "Y", 
   "ObjectID": "65307"
 }

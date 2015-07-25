@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Paul Klee", 
   "URL": "http://www.moma.org/collection/works/70131", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1912", 
-  "ArtistID": 3130, 
+  "DateAcquired": "1949-09-29", 
   "Keywords": [
-    "online art collection", 
     "Paul Klee", 
     "Street Children (Gassenkinder)", 
     "1912"
   ], 
+  "ArtistID": 3130, 
+  "Title": "Street Children (Gassenkinder)", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "497.1949", 
+  "Date": "1912", 
   "ArtistBio": "(German, born Switzerland. 1879\u20131940)", 
-  "DateAcquired": "1949-09-29", 
-  "\ufeffTitle": "Street Children (Gassenkinder)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "70131"
 }

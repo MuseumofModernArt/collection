@@ -4,21 +4,20 @@
   "Classification": "Photograph", 
   "Artist": "Henri Cartier-Bresson", 
   "URL": "http://www.moma.org/collection/works/50182", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the photographer", 
-  "Date": "1944", 
-  "ArtistID": 1000, 
+  "DateAcquired": "1947-10-16", 
   "Keywords": [
-    "online art collection", 
     "Henri Cartier-Bresson", 
     "Georges Rouault", 
     "Paris", 
     "1944"
   ], 
+  "ArtistID": 1000, 
+  "Title": "Georges Rouault, Paris", 
   "Department": "Photography", 
   "MoMANumber": "299.1947", 
+  "Date": "1944", 
   "ArtistBio": "(French, 1908\u20132004)", 
-  "DateAcquired": "1947-10-16", 
-  "\ufeffTitle": "Georges Rouault, Paris", 
+  "CuratorApproved": "Y", 
   "ObjectID": "50182"
 }

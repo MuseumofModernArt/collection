@@ -4,12 +4,9 @@
   "Classification": "Print", 
   "Artist": "Max Klinger", 
   "URL": "http://www.moma.org/collection/works/78193", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Blanchette Hooker Rockefeller Fund", 
-  "Date": "1884 (executed 1883, first published 1884)", 
-  "ArtistID": 3149, 
+  "DateAcquired": "1967-12-13", 
   "Keywords": [
-    "online art collection", 
     "Max Klinger", 
     "Dreams (Tr&auml;ume) (plate 3) for the portfolio A Life", 
     "Opus VIII (Ein Leben", 
@@ -17,10 +14,12 @@
     "1884 (executed 1883", 
     "first published 1884)"
   ], 
+  "ArtistID": 3149, 
+  "Title": "Dreams (Tr\u00e4ume) (plate 3) for the portfolio A Life, Opus VIII (Ein Leben, Opus VIII)", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "2457.1967", 
+  "Date": "1884 (executed 1883, first published 1884)", 
   "ArtistBio": "(German, 1857\u20131920)", 
-  "DateAcquired": "1967-12-13", 
-  "\ufeffTitle": "Dreams (Tr\u00e4ume) (plate 3) for the portfolio A Life, Opus VIII (Ein Leben, Opus VIII)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "78193"
 }

@@ -4,12 +4,9 @@
   "Classification": "A&D Architectural Drawing", 
   "Artist": "Rem Koolhaas, Elia Zenghelis", 
   "URL": "http://www.moma.org/collection/works/818", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of The Howard Gilman Foundation", 
-  "Date": "1975", 
-  "ArtistID": 6956, 
+  "DateAcquired": "2000-10-31", 
   "Keywords": [
-    "online art collection", 
     "Rem Koolhaas and Elia Zenghelis", 
     "Roosevelt Island Redevelopment Project", 
     "New York City", 
@@ -17,10 +14,12 @@
     "Axonometric", 
     "1975"
   ], 
+  "ArtistID": 6956, 
+  "Title": "Roosevelt Island Redevelopment Project, New York City, New York , Axonometric", 
   "Department": "Architecture & Design", 
   "MoMANumber": "1207.2000", 
+  "Date": "1975", 
   "ArtistBio": "(Dutch, born 1944) (British, born Greece 1937)", 
-  "DateAcquired": "2000-10-31", 
-  "\ufeffTitle": "Roosevelt Island Redevelopment Project, New York City, New York , Axonometric", 
+  "CuratorApproved": "Y", 
   "ObjectID": "818"
 }

@@ -4,21 +4,20 @@
   "Classification": "Painting", 
   "Artist": "Pablo Picasso", 
   "URL": "http://www.moma.org/collection/works/78433", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Mrs. Simon Guggenheim Fund", 
-  "Date": "Antibes, August 1939", 
-  "ArtistID": 4609, 
+  "DateAcquired": "1952-01-22", 
   "Keywords": [
-    "online art collection", 
     "Pablo Picasso", 
     "Night Fishing at Antibes", 
     "Antibes", 
     "August 1939"
   ], 
+  "ArtistID": 4609, 
+  "Title": "Night Fishing at Antibes", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "13.1952", 
+  "Date": "Antibes, August 1939", 
   "ArtistBio": "(Spanish, 1881\u20131973)", 
-  "DateAcquired": "1952-01-22", 
-  "\ufeffTitle": "Night Fishing at Antibes", 
+  "CuratorApproved": "Y", 
   "ObjectID": "78433"
 }

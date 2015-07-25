@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Roy Lichtenstein", 
   "URL": "http://www.moma.org/collection/works/79031", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Enid A. Haupt Fund; gift of Agnes Gund, Jo Carole and Ronald S. Lauder, Michael and Judy Ovitz in honor of Roy and Dorothy Lichtenstein; and Anna Marie and Robert F. Shapiro", 
-  "Date": "1992", 
-  "ArtistID": 3542, 
+  "DateAcquired": "1992-02-10", 
   "Keywords": [
-    "online art collection", 
     "Roy Lichtenstein", 
     "Interior with Mobile", 
     "1992"
   ], 
+  "ArtistID": 3542, 
+  "Title": "Interior with Mobile", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "165.1992", 
+  "Date": "1992", 
   "ArtistBio": "(American, 1923\u20131997)", 
-  "DateAcquired": "1992-02-10", 
-  "\ufeffTitle": "Interior with Mobile", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79031"
 }

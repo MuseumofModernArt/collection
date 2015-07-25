@@ -4,12 +4,9 @@
   "Classification": "A&D Architectural Model", 
   "Artist": "Hector Guimard", 
   "URL": "http://www.moma.org/collection/works/2393", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of R\u00e9gie Autonome des Transports Parisiens", 
-  "Date": "c. 1900", 
-  "ArtistID": 2407, 
+  "DateAcquired": "1958-12-04", 
   "Keywords": [
-    "online art collection", 
     "Hector Guimard", 
     "Entrance Gate to Paris Subway (M&eacute;tropolitain) Station", 
     "Paris", 
@@ -17,10 +14,12 @@
     "c", 
     "1900"
   ], 
+  "ArtistID": 2407, 
+  "Title": "Entrance Gate to Paris Subway (M\u00e9tropolitain) Station, Paris, France", 
   "Department": "Architecture & Design", 
   "MoMANumber": "177.1958.a-f", 
+  "Date": "c. 1900", 
   "ArtistBio": "(French, 1867\u20131942)", 
-  "DateAcquired": "1958-12-04", 
-  "\ufeffTitle": "Entrance Gate to Paris Subway (M\u00e9tropolitain) Station, Paris, France", 
+  "CuratorApproved": "Y", 
   "ObjectID": "2393"
 }

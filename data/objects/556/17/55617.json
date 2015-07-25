@@ -4,20 +4,19 @@
   "Classification": "Photograph", 
   "Artist": "Unknown photographer", 
   "URL": "http://www.moma.org/collection/works/55617", 
-  "CuratorApproved": "Y", 
   "CreditLine": "John Parkinson III Fund", 
-  "Date": "1908", 
-  "ArtistID": 6028, 
+  "DateAcquired": "1990-12-13", 
   "Keywords": [
-    "online art collection", 
     "Unknown Photographer", 
     "Untitled (Entrance to mine)", 
     "1908"
   ], 
+  "ArtistID": 6028, 
+  "Title": "Untitled (Entrance to mine)", 
   "Department": "Photography", 
   "MoMANumber": "617.1990", 
+  "Date": "1908", 
   "ArtistBio": "", 
-  "DateAcquired": "1990-12-13", 
-  "\ufeffTitle": "Untitled (Entrance to mine)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "55617"
 }

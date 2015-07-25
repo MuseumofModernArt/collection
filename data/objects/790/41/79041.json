@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Edwin Dickinson", 
   "URL": "http://www.moma.org/collection/works/79041", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Mr. and Mrs. Ansley W. Sawyer", 
-  "Date": "1933-37", 
-  "ArtistID": 1536, 
+  "DateAcquired": "1952-10-21", 
   "Keywords": [
-    "online art collection", 
     "Edwin Dickinson", 
     "Composition with Still Life", 
     "1933-37"
   ], 
+  "ArtistID": 1536, 
+  "Title": "Composition with Still Life", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "173.1952", 
+  "Date": "1933-37", 
   "ArtistBio": "(American, 1891\u20131978)", 
-  "DateAcquired": "1952-10-21", 
-  "\ufeffTitle": "Composition with Still Life", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79041"
 }

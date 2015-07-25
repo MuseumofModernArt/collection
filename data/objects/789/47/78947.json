@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Robert Ryman", 
   "URL": "http://www.moma.org/collection/works/78947", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Anne and Sid Bass Fund", 
-  "Date": "1984", 
-  "ArtistID": 5098, 
+  "DateAcquired": "1985-04-08", 
   "Keywords": [
-    "online art collection", 
     "Robert Ryman", 
     "Attendant", 
     "1984"
   ], 
+  "ArtistID": 5098, 
+  "Title": "Attendant", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "134.1985.a-b", 
+  "Date": "1984", 
   "ArtistBio": "(American, born 1930)", 
-  "DateAcquired": "1985-04-08", 
-  "\ufeffTitle": "Attendant", 
+  "CuratorApproved": "Y", 
   "ObjectID": "78947"
 }

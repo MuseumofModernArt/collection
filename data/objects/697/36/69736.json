@@ -4,21 +4,20 @@
   "Classification": "Print", 
   "Artist": "Pablo Picasso", 
   "URL": "http://www.moma.org/collection/works/69736", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Mr. Isidore M. Cohen", 
-  "Date": "August 13, 1968", 
-  "ArtistID": 4609, 
+  "DateAcquired": "1986-01-09", 
   "Keywords": [
-    "online art collection", 
     "Pablo Picasso", 
     "Plate 276 from 347 Gravures", 
     "(August 13", 
     "1968)"
   ], 
+  "ArtistID": 4609, 
+  "Title": "No. 276 from Suite 347", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "474.1985", 
+  "Date": "August 13, 1968", 
   "ArtistBio": "(Spanish, 1881\u20131973)", 
-  "DateAcquired": "1986-01-09", 
-  "\ufeffTitle": "No. 276 from Suite 347", 
+  "CuratorApproved": "Y", 
   "ObjectID": "69736"
 }

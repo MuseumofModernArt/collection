@@ -4,12 +4,9 @@
   "Classification": "Photograph", 
   "Artist": "Berenice Abbott", 
   "URL": "http://www.moma.org/collection/works/50531", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Given anonymously", 
-  "Date": "May 25, 1936", 
-  "ArtistID": 41, 
+  "DateAcquired": "1974-06-04", 
   "Keywords": [
-    "online art collection", 
     "Berenice Abbott", 
     "McGraw-Hill Building", 
     "330 West 42nd Street", 
@@ -17,10 +14,12 @@
     "May 25", 
     "1936"
   ], 
+  "ArtistID": 41, 
+  "Title": "McGraw-Hill Building, 330 West 42nd Street, Manhattan", 
   "Department": "Photography", 
   "MoMANumber": "313.1974", 
+  "Date": "May 25, 1936", 
   "ArtistBio": "(American, 1898\u20131991)", 
-  "DateAcquired": "1974-06-04", 
-  "\ufeffTitle": "McGraw-Hill Building, 330 West 42nd Street, Manhattan", 
+  "CuratorApproved": "Y", 
   "ObjectID": "50531"
 }

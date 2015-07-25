@@ -4,20 +4,19 @@
   "Classification": "Print", 
   "Artist": "Odilon Redon", 
   "URL": "http://www.moma.org/collection/works/63101", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of The Ian Woodner Family Collection", 
-  "Date": "1923 (plates executed 1890)", 
-  "ArtistID": 4840, 
+  "DateAcquired": "2000-03-02", 
   "Keywords": [
-    "online art collection", 
     "Odilon Redon", 
     "The Flowers of Evil", 
     "1923 (plates executed 1890)"
   ], 
+  "ArtistID": 4840, 
+  "Title": "The Flowers of Evil", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "158.2000.1-9", 
+  "Date": "1923 (plates executed 1890)", 
   "ArtistBio": "(French, 1840\u20131916)", 
-  "DateAcquired": "2000-03-02", 
-  "\ufeffTitle": "The Flowers of Evil", 
+  "CuratorApproved": "Y", 
   "ObjectID": "63101"
 }

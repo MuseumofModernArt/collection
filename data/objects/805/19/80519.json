@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Kenneth Noland", 
   "URL": "http://www.moma.org/collection/works/80519", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The Riklis Collection of McCrory Corporation", 
-  "Date": "1963", 
-  "ArtistID": 4326, 
+  "DateAcquired": "1985-10-25", 
   "Keywords": [
-    "online art collection", 
     "Kenneth Noland", 
     "Blue Veil", 
     "1963"
   ], 
+  "ArtistID": 4326, 
+  "Title": "Blue Veil", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "1056.1983", 
+  "Date": "1963", 
   "ArtistBio": "(American, 1924\u20132010)", 
-  "DateAcquired": "1985-10-25", 
-  "\ufeffTitle": "Blue Veil", 
+  "CuratorApproved": "Y", 
   "ObjectID": "80519"
 }

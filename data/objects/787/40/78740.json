@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Arshile Gorky", 
   "URL": "http://www.moma.org/collection/works/78740", 
-  "CuratorApproved": "Y", 
   "CreditLine": "A. Conger Goodyear Fund", 
-  "Date": "1947", 
-  "ArtistID": 2252, 
+  "DateAcquired": "1950-04-24", 
   "Keywords": [
-    "online art collection", 
     "Arshile Gorky", 
     "Agony", 
     "1947"
   ], 
+  "ArtistID": 2252, 
+  "Title": "Agony", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "88.1950", 
+  "Date": "1947", 
   "ArtistBio": "(American, born Armenia. 1904\u20131948)", 
-  "DateAcquired": "1950-04-24", 
-  "\ufeffTitle": "Agony", 
+  "CuratorApproved": "Y", 
   "ObjectID": "78740"
 }

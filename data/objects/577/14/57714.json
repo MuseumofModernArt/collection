@@ -4,21 +4,20 @@
   "Classification": "Photograph", 
   "Artist": "Lee Friedlander", 
   "URL": "http://www.moma.org/collection/works/57714", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Purchase", 
-  "Date": "1976", 
-  "ArtistID": 2002, 
+  "DateAcquired": "2000-10-12", 
   "Keywords": [
-    "online art collection", 
     "Lee Friedlander", 
     "Washington", 
     "D,C", 
     "1976"
   ], 
+  "ArtistID": 2002, 
+  "Title": "Washington, D.C.", 
   "Department": "Photography", 
   "MoMANumber": "1142.2000", 
+  "Date": "1976", 
   "ArtistBio": "(American, born 1934)", 
-  "DateAcquired": "2000-10-12", 
-  "\ufeffTitle": "Washington, D.C.", 
+  "CuratorApproved": "Y", 
   "ObjectID": "57714"
 }

@@ -4,21 +4,20 @@
   "Classification": "Photograph", 
   "Artist": "Unknown photographer", 
   "URL": "http://www.moma.org/collection/works/98122", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Thomas Walther", 
-  "Date": "January 12, 1945", 
-  "ArtistID": 6028, 
+  "DateAcquired": "2005-05-11", 
   "Keywords": [
-    "online art collection", 
     "Unknown Photographer", 
     "Untitled", 
     "January 12", 
     "1945"
   ], 
+  "ArtistID": 6028, 
+  "Title": "Untitled", 
   "Department": "Photography", 
   "MoMANumber": "411.2005", 
+  "Date": "January 12, 1945", 
   "ArtistBio": "", 
-  "DateAcquired": "2005-05-11", 
-  "\ufeffTitle": "Untitled", 
+  "CuratorApproved": "Y", 
   "ObjectID": "98122"
 }

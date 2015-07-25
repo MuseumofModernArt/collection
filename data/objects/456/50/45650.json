@@ -4,20 +4,19 @@
   "Classification": "Photograph", 
   "Artist": "John Coplans", 
   "URL": "http://www.moma.org/collection/works/45650", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Robert and Joyce Menschel Fund", 
-  "Date": "1985", 
-  "ArtistID": 1237, 
+  "DateAcquired": "1986-01-15", 
   "Keywords": [
-    "online art collection", 
     "John Coplans", 
     "Self Portrait", 
     "1985"
   ], 
+  "ArtistID": 1237, 
+  "Title": "Self Portrait", 
   "Department": "Photography", 
   "MoMANumber": "72.1986", 
+  "Date": "1985", 
   "ArtistBio": "(British, 1920\u20132003)", 
-  "DateAcquired": "1986-01-15", 
-  "\ufeffTitle": "Self Portrait", 
+  "CuratorApproved": "Y", 
   "ObjectID": "45650"
 }

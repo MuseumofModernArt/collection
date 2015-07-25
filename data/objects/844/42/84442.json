@@ -4,12 +4,9 @@
   "Classification": "Print", 
   "Artist": "Louise Bourgeois", 
   "URL": "http://www.moma.org/collection/works/84442", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the artist", 
-  "Date": "1999", 
-  "ArtistID": 710, 
+  "DateAcquired": "2008-06-18", 
   "Keywords": [
-    "online art collection", 
     "Louise Bourgeois", 
     "When", 
     "What", 
@@ -19,10 +16,12 @@
     "only state", 
     "(1999)"
   ], 
+  "ArtistID": 710, 
+  "Title": "Who, Where, When, Why, What", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "884.2008", 
+  "Date": "1999", 
   "ArtistBio": "(American, born France. 1911\u20132010)", 
-  "DateAcquired": "2008-06-18", 
-  "\ufeffTitle": "Who, Where, When, Why, What", 
+  "CuratorApproved": "Y", 
   "ObjectID": "84442"
 }

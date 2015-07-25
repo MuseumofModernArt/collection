@@ -4,22 +4,21 @@
   "Classification": "A&D Graphic Design", 
   "Artist": "Lorenzo Go\u00f1i", 
   "URL": "http://www.moma.org/collection/works/5688", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Christian Zervos", 
-  "Date": "1936", 
-  "ArtistID": 8381, 
+  "DateAcquired": "1936-01-01", 
   "Keywords": [
-    "online art collection", 
     "Lorenzo Go&ntilde;i", 
     "Mes Homes", 
     "Mes Armes", 
     "Mes Municions per al Front", 
     "1936"
   ], 
+  "ArtistID": 8381, 
+  "Title": "Mes Homes, Mes Armes, Mes Municions per al Front", 
   "Department": "Architecture & Design", 
   "MoMANumber": "209.1936", 
+  "Date": "1936", 
   "ArtistBio": "(Spanish)", 
-  "DateAcquired": "1936-01-01", 
-  "\ufeffTitle": "Mes Homes, Mes Armes, Mes Municions per al Front", 
+  "CuratorApproved": "Y", 
   "ObjectID": "5688"
 }

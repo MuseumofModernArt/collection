@@ -4,21 +4,20 @@
   "Classification": "Painting", 
   "Artist": "Gilbert & George, Gilbert Proesch, George Passmore", 
   "URL": "http://www.moma.org/collection/works/78929", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Given anonymously", 
-  "Date": "1984", 
-  "ArtistID": 7496, 
+  "DateAcquired": "1985-04-08", 
   "Keywords": [
-    "online art collection", 
     "Gilbert & George", 
     "Gilbert Proesch and George Passmore", 
     "Live's", 
     "1984"
   ], 
+  "ArtistID": 7496, 
+  "Title": "Live's", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "130.1985.a-bb", 
+  "Date": "1984", 
   "ArtistBio": "(British) (British, born Italy 1943) (British, born 1942)", 
-  "DateAcquired": "1985-04-08", 
-  "\ufeffTitle": "Live's", 
+  "CuratorApproved": "Y", 
   "ObjectID": "78929"
 }

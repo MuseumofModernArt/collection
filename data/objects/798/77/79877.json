@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "James Rosenquist", 
   "URL": "http://www.moma.org/collection/works/79877", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of Philip Johnson", 
-  "Date": "1980", 
-  "ArtistID": 5021, 
+  "DateAcquired": "1998-06-11", 
   "Keywords": [
-    "online art collection", 
     "James Rosenquist", 
     "Untitled", 
     "1980"
   ], 
+  "ArtistID": 5021, 
+  "Title": "Untitled", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "509.1998", 
+  "Date": "1980", 
   "ArtistBio": "(American, born 1933)", 
-  "DateAcquired": "1998-06-11", 
-  "\ufeffTitle": "Untitled", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79877"
 }

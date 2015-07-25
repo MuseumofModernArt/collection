@@ -4,21 +4,20 @@
   "Classification": "Photograph", 
   "Artist": "Unknown photographer", 
   "URL": "http://www.moma.org/collection/works/58810", 
-  "CuratorApproved": "Y", 
   "CreditLine": "The New York Times Collection", 
-  "Date": "c. 1914", 
-  "ArtistID": 6028, 
+  "DateAcquired": "2001-06-14", 
   "Keywords": [
-    "online art collection", 
     "Unknown Photographer", 
     "Brooklyn Bridge", 
     "c", 
     "1914"
   ], 
+  "ArtistID": 6028, 
+  "Title": "Brooklyn Bridge", 
   "Department": "Photography", 
   "MoMANumber": "2217.2001", 
+  "Date": "c. 1914", 
   "ArtistBio": "", 
-  "DateAcquired": "2001-06-14", 
-  "\ufeffTitle": "Brooklyn Bridge", 
+  "CuratorApproved": "Y", 
   "ObjectID": "58810"
 }

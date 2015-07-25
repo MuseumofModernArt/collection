@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Constantin Brancusi", 
   "URL": "http://www.moma.org/collection/works/81018", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Katherine S. Dreier Bequest", 
-  "Date": "1910-12", 
-  "ArtistID": 738, 
+  "DateAcquired": "1953-04-07", 
   "Keywords": [
-    "online art collection", 
     "Constantin Brancusi", 
     "Maiastra", 
     "1910-12"
   ], 
+  "ArtistID": 738, 
+  "Title": "Maiastra", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "144.1953.a-d", 
+  "Date": "1910-12", 
   "ArtistBio": "(French, born Romania. 1876\u20131957)", 
-  "DateAcquired": "1953-04-07", 
-  "\ufeffTitle": "Maiastra", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81018"
 }

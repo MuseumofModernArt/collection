@@ -4,20 +4,19 @@
   "Classification": "Sculpture", 
   "Artist": "Robert Therrien", 
   "URL": "http://www.moma.org/collection/works/81291", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Ruth and Seymour Klein Foundation, Inc. Fund and Robert B. and Emilie W. Betts Foundation Fund", 
-  "Date": "1993", 
-  "ArtistID": 7080, 
+  "DateAcquired": "1994-05-09", 
   "Keywords": [
-    "online art collection", 
     "Robert Therrien", 
     "No Title", 
     "1993"
   ], 
+  "ArtistID": 7080, 
+  "Title": "No Title", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "285.1994.a-i", 
+  "Date": "1993", 
   "ArtistBio": "(American, born 1947)", 
-  "DateAcquired": "1994-05-09", 
-  "\ufeffTitle": "No Title", 
+  "CuratorApproved": "Y", 
   "ObjectID": "81291"
 }

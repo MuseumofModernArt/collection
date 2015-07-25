@@ -4,12 +4,9 @@
   "Classification": "A&D Graphic Design", 
   "Artist": "Art Workers' Coalition, R. L. Haeberle", 
   "URL": "http://www.moma.org/collection/works/7272", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Gift of the Benefit for Attica Defense Fund", 
-  "Date": "1970", 
-  "ArtistID": 2440, 
+  "DateAcquired": "1978-09-27", 
   "Keywords": [
-    "online art collection", 
     "R", 
     "L", 
     "Haeberle", 
@@ -18,10 +15,12 @@
     "And Babies", 
     "1970"
   ], 
+  "ArtistID": 2440, 
+  "Title": "Q. And babies? A. And babies.", 
   "Department": "Architecture & Design", 
   "MoMANumber": "498.1978", 
+  "Date": "1970", 
   "ArtistBio": "(Nationality unknown, born 1941)", 
-  "DateAcquired": "1978-09-27", 
-  "\ufeffTitle": "Q. And babies? A. And babies.", 
+  "CuratorApproved": "Y", 
   "ObjectID": "7272"
 }

@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Amelia Pel\u00e1ez Del Casal", 
   "URL": "http://www.moma.org/collection/works/78714", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Inter-American Fund", 
-  "Date": "1943", 
-  "ArtistID": 4541, 
+  "DateAcquired": "1944-05-02", 
   "Keywords": [
-    "online art collection", 
     "Amelia Pel&aacute;ez Del Casal", 
     "Fishes", 
     "1943"
   ], 
+  "ArtistID": 4541, 
+  "Title": "Fishes", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "80.1944", 
+  "Date": "1943", 
   "ArtistBio": "(Cuban, 1896\u20131968)", 
-  "DateAcquired": "1944-05-02", 
-  "\ufeffTitle": "Fishes", 
+  "CuratorApproved": "Y", 
   "ObjectID": "78714"
 }

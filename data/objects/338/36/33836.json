@@ -4,12 +4,9 @@
   "Classification": "Drawing", 
   "Artist": "Paul Klee", 
   "URL": "http://www.moma.org/collection/works/33836", 
-  "CuratorApproved": "Y", 
   "CreditLine": "A. Conger Goodyear Fund", 
-  "Date": "1916", 
-  "ArtistID": 3130, 
+  "DateAcquired": "1950-04-24", 
   "Keywords": [
-    "online art collection", 
     "Paul Klee", 
     "Houses Drawn by Oxen", 
     "Ox Speared by a Lantern", 
@@ -18,10 +15,12 @@
     "Strassen&uuml;berf&uuml;hrung)", 
     "1916"
   ], 
+  "ArtistID": 3130, 
+  "Title": "Houses Drawn by Oxen, Ox Speared by a Lantern, Overpass (H\u00e4user von Ochsen gezogen, Ochse laternengespiesst, Strassen\u00fcberf\u00fchrung)", 
   "Department": "Drawings", 
   "MoMANumber": "92.1950", 
+  "Date": "1916", 
   "ArtistBio": "(German, born Switzerland. 1879\u20131940)", 
-  "DateAcquired": "1950-04-24", 
-  "\ufeffTitle": "Houses Drawn by Oxen, Ox Speared by a Lantern, Overpass (H\u00e4user von Ochsen gezogen, Ochse laternengespiesst, Strassen\u00fcberf\u00fchrung)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "33836"
 }

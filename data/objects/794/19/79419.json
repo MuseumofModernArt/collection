@@ -4,20 +4,19 @@
   "Classification": "Painting", 
   "Artist": "Gino Severini", 
   "URL": "http://www.moma.org/collection/works/79419", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Acquired through the Lillie P. Bliss Bequest", 
-  "Date": "1912", 
-  "ArtistID": 5360, 
+  "DateAcquired": "1949-05-26", 
   "Keywords": [
-    "online art collection", 
     "Gino Severini", 
     "Dynamic Hieroglyphic of the Bal Tabarin", 
     "1912"
   ], 
+  "ArtistID": 5360, 
+  "Title": "Dynamic Hieroglyphic of the Bal Tabarin", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "288.1949", 
+  "Date": "1912", 
   "ArtistBio": "(Italian, 1883\u20131966)", 
-  "DateAcquired": "1949-05-26", 
-  "\ufeffTitle": "Dynamic Hieroglyphic of the Bal Tabarin", 
+  "CuratorApproved": "Y", 
   "ObjectID": "79419"
 }

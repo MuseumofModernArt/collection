@@ -4,11 +4,9 @@
   "Classification": "A&D Architectural Model", 
   "Artist": "Philip L. Goodwin, Edward Durell Stone", 
   "URL": "http://www.moma.org/collection/works/82404", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Building Fund", 
-  "Date": "1939", 
+  "DateAcquired": "1939-01-01", 
   "Keywords": [
-    "online art collection", 
     "Philip L", 
     "Goodwin and Edward Durell Stone", 
     "The Museum of Modern Art", 
@@ -16,10 +14,11 @@
     "New York", 
     "1939"
   ], 
+  "Title": "The Museum of Modern Art, New York City, New York", 
   "Department": "Architecture & Design", 
   "MoMANumber": "MC 13", 
+  "Date": "1939", 
   "ArtistBio": "(American, 1885\u20131958) (American, 1902\u20131978)", 
-  "DateAcquired": "1939-01-01", 
-  "\ufeffTitle": "The Museum of Modern Art, New York City, New York", 
+  "CuratorApproved": "Y", 
   "ObjectID": "82404"
 }

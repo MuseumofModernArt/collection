@@ -4,12 +4,9 @@
   "Classification": "A&D Graphic Design", 
   "Artist": "Robert Indiana", 
   "URL": "http://www.moma.org/collection/works/7001", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Peter Stone Collection of Posters by Artists", 
-  "Date": "1968", 
-  "ArtistID": 2812, 
+  "DateAcquired": "1976-10-22", 
   "Keywords": [
-    "online art collection", 
     "Robert Indiana", 
     "Indiana 3", 
     "Philadelphia", 
@@ -17,10 +14,12 @@
     "Indianapolis", 
     "1968"
   ], 
+  "ArtistID": 2812, 
+  "Title": "Indiana 3, Philadelphia, San Antonio, Indianapolis", 
   "Department": "Architecture & Design", 
   "MoMANumber": "446.1976", 
+  "Date": "1968", 
   "ArtistBio": "(American, born 1928)", 
-  "DateAcquired": "1976-10-22", 
-  "\ufeffTitle": "Indiana 3, Philadelphia, San Antonio, Indianapolis", 
+  "CuratorApproved": "Y", 
   "ObjectID": "7001"
 }

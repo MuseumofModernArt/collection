@@ -4,20 +4,19 @@
   "Classification": "Drawing", 
   "Artist": "Paul Klee", 
   "URL": "http://www.moma.org/collection/works/35208", 
-  "CuratorApproved": "Y", 
   "CreditLine": "Mr. and Mrs. Werner E. Josten Fund", 
-  "Date": "1909", 
-  "ArtistID": 3130, 
+  "DateAcquired": "1955-10-10", 
   "Keywords": [
-    "online art collection", 
     "Paul Klee", 
     "Quarry at Ostermundigen (Steinbruch Ostermundigen)", 
     "1909"
   ], 
+  "ArtistID": 3130, 
+  "Title": "Quarry at Ostermundigen (Steinbruch Ostermundigen)", 
   "Department": "Drawings", 
   "MoMANumber": "195.1955", 
+  "Date": "1909", 
   "ArtistBio": "(German, born Switzerland. 1879\u20131940)", 
-  "DateAcquired": "1955-10-10", 
-  "\ufeffTitle": "Quarry at Ostermundigen (Steinbruch Ostermundigen)", 
+  "CuratorApproved": "Y", 
   "ObjectID": "35208"
 }
