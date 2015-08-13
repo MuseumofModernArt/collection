@@ -2,10 +2,11 @@
   "Medium": "Screenprint", 
   "Dimensions": "", 
   "Classification": "Print", 
-  "Artist": "Robert Indiana", 
-  "URL": "http://www.moma.org/collection/works/68750", 
   "CreditLine": "Purchase", 
-  "DateAcquired": "1990-10-23", 
+  "URL": "http://www.moma.org/collection/works/68750", 
+  "ImageURL": null, 
+  "Artist": "Robert Indiana", 
+  "Date": "1990", 
   "Keywords": [
     "Robert Indiana", 
     "KvF III from The Hartley Elegies: The Berlin Series", 
@@ -15,7 +16,7 @@
   "Title": "KvF III from The Hartley Elegies: The Berlin Series", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "416.1990", 
-  "Date": "1990", 
+  "DateAcquired": "1990-10-23", 
   "ArtistBio": "(American, born 1928)", 
   "CuratorApproved": "Y", 
   "ObjectID": "68750"

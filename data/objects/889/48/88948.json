@@ -2,10 +2,11 @@
   "Medium": "Aluminum", 
   "Dimensions": "5\" x 34' 2\" x 10 1/2\" (12.7 x 1041.4 x 26.7 cm)", 
   "Classification": "Sculpture", 
-  "Artist": "Carl Andre", 
-  "URL": "http://www.moma.org/collection/works/88948", 
   "CreditLine": "Gift of Agnes Gund", 
-  "DateAcquired": "2002-05-13", 
+  "URL": "http://www.moma.org/collection/works/88948", 
+  "ImageURL": null, 
+  "Artist": "Carl Andre", 
+  "Date": "2002", 
   "Keywords": [
     "Carl Andre", 
     "AL Ravine", 
@@ -15,7 +16,7 @@
   "Title": "AL Ravine", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "447.2002", 
-  "Date": "2002", 
+  "DateAcquired": "2002-05-13", 
   "ArtistBio": "(American, born 1935)", 
   "CuratorApproved": "Y", 
   "ObjectID": "88948"

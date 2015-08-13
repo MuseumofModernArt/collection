@@ -2,10 +2,11 @@
   "Medium": "Artist's book.", 
   "Dimensions": "", 
   "Classification": "Illustrated Book", 
-  "Artist": "Paul Etienne Lincoln", 
-  "URL": "http://www.moma.org/collection/works/85946", 
   "CreditLine": "Jacqueline Brody Fund and Linda Barth Goldstein Fund", 
-  "DateAcquired": "2002-06-18", 
+  "URL": "http://www.moma.org/collection/works/85946", 
+  "ImageURL": null, 
+  "Artist": "Paul Etienne Lincoln", 
+  "Date": "1990", 
   "Keywords": [
     "Paul Etienne Lincoln", 
     "New York Hot - New York Cold", 
@@ -14,7 +15,7 @@
   "Title": "New York Hot - New York Cold", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "231.2002", 
-  "Date": "1990", 
+  "DateAcquired": "2002-06-18", 
   "ArtistBio": "(British, born 1959)", 
   "CuratorApproved": "Y", 
   "ObjectID": "85946"

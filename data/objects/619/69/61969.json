@@ -2,10 +2,11 @@
   "Medium": "Artist's book", 
   "Dimensions": "", 
   "Classification": "Print", 
-  "Artist": "Ian Hamilton Finlay", 
-  "URL": "http://www.moma.org/collection/works/61969", 
   "CreditLine": "Walter Bareiss Fund", 
-  "DateAcquired": "1997-03-06", 
+  "URL": "http://www.moma.org/collection/works/61969", 
+  "ImageURL": null, 
+  "Artist": "Ian Hamilton Finlay", 
+  "Date": "1995", 
   "Keywords": [
     "Ian Hamilton Finlay", 
     "Picpus", 
@@ -15,7 +16,7 @@
   "Title": "Picpus", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "111.1997", 
-  "Date": "1995", 
+  "DateAcquired": "1997-03-06", 
   "ArtistBio": "(British, 1925\u20132006)", 
   "CuratorApproved": "Y", 
   "ObjectID": "61969"

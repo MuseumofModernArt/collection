@@ -2,10 +2,11 @@
   "Medium": "Artist's book", 
   "Dimensions": "page (each): 7 1/16 x 5 9/16\" (18 x 14.2cm)", 
   "Classification": "Illustrated Book", 
-  "Artist": "Andy Warhol", 
-  "URL": "http://www.moma.org/collection/works/17462", 
   "CreditLine": "John B. Turner Fund", 
-  "DateAcquired": "1999-11-18", 
+  "URL": "http://www.moma.org/collection/works/17462", 
+  "ImageURL": null, 
+  "Artist": "Andy Warhol", 
+  "Date": "1983", 
   "Keywords": [
     "Andy Warhol", 
     "Andy Warhol's Children's Book", 
@@ -15,7 +16,7 @@
   "Title": "Andy Warhol's Children's Book", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "460.1999", 
-  "Date": "1983", 
+  "DateAcquired": "1999-11-18", 
   "ArtistBio": "(American, 1928\u20131987)", 
   "CuratorApproved": "Y", 
   "ObjectID": "17462"

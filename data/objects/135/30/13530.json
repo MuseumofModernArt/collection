@@ -2,10 +2,11 @@
   "Medium": "Artist's book", 
   "Dimensions": "", 
   "Classification": "Illustrated Book", 
-  "Artist": "Yvonne Droge-Wendel", 
-  "URL": "http://www.moma.org/collection/works/13530", 
   "CreditLine": "Gift of Johan Deumens Artist's Books", 
-  "DateAcquired": "1997-05-28", 
+  "URL": "http://www.moma.org/collection/works/13530", 
+  "ImageURL": null, 
+  "Artist": "Yvonne Droge-Wendel", 
+  "Date": "1993", 
   "Keywords": [
     "Yvonne Droge-Wendel", 
     "Objects Make Your World", 
@@ -15,7 +16,7 @@
   "Title": "Objects Make Your World", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "205.1997", 
-  "Date": "1993", 
+  "DateAcquired": "1997-05-28", 
   "ArtistBio": "(German, born 1961)", 
   "CuratorApproved": "Y", 
   "ObjectID": "13530"

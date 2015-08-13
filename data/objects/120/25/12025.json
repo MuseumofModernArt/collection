@@ -2,10 +2,11 @@
   "Medium": "Illustrated book with two lithographs", 
   "Dimensions": "", 
   "Classification": "Illustrated Book", 
-  "Artist": "Jasper Johns", 
-  "URL": "http://www.moma.org/collection/works/12025", 
   "CreditLine": "Gift of the Department of Painting and Sculpture of The Museum of Modern Art", 
-  "DateAcquired": "1997-03-06", 
+  "URL": "http://www.moma.org/collection/works/12025", 
+  "ImageURL": null, 
+  "Artist": "Jasper Johns", 
+  "Date": "1996", 
   "Keywords": [
     "Jasper Johns", 
     "Jasper Johns: A Retrospective", 
@@ -15,7 +16,7 @@
   "Title": "Jasper Johns: A Retrospective", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "151.1997", 
-  "Date": "1996", 
+  "DateAcquired": "1997-03-06", 
   "ArtistBio": "(American, born 1930)", 
   "CuratorApproved": "Y", 
   "ObjectID": "12025"

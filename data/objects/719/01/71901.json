@@ -2,10 +2,11 @@
   "Medium": "Multiple of porcelain vase", 
   "Dimensions": "", 
   "Classification": "Multiple", 
-  "Artist": "Jeff Koons", 
-  "URL": "http://www.moma.org/collection/works/71901", 
   "CreditLine": "Mary Ellen Meehan Fund", 
-  "DateAcquired": "1998-11-12", 
+  "URL": "http://www.moma.org/collection/works/71901", 
+  "ImageURL": null, 
+  "Artist": "Jeff Koons", 
+  "Date": "1998", 
   "Keywords": [
     "Jeff Koons", 
     "Puppy", 
@@ -15,7 +16,7 @@
   "Title": "Puppy", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "616.1998", 
-  "Date": "1998", 
+  "DateAcquired": "1998-11-12", 
   "ArtistBio": "(American, born 1955)", 
   "CuratorApproved": "Y", 
   "ObjectID": "71901"

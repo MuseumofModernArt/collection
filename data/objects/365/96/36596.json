@@ -2,10 +2,11 @@
   "Medium": "Pencil on paper", 
   "Dimensions": "14 1/4 x 10 1/2\" (36.1 x 26.5 cm)", 
   "Classification": "Drawing", 
-  "Artist": "Amedeo Modigliani", 
-  "URL": "http://www.moma.org/collection/works/36596", 
   "CreditLine": "John S. Newberry Collection", 
-  "DateAcquired": "1960-11-16", 
+  "URL": "http://www.moma.org/collection/works/36596", 
+  "ImageURL": null, 
+  "Artist": "Amedeo Modigliani", 
+  "Date": "(1916)", 
   "Keywords": [
     "Amedeo Modigliani", 
     "Motherhood", 
@@ -15,7 +16,7 @@
   "Title": "Motherhood", 
   "Department": "Drawings", 
   "MoMANumber": "380.1960", 
-  "Date": "(1916)", 
+  "DateAcquired": "1960-11-16", 
   "ArtistBio": "(Italian, 1884\u20131920)", 
   "CuratorApproved": "Y", 
   "ObjectID": "36596"

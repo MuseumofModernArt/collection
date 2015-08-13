@@ -2,10 +2,11 @@
   "Medium": "Ink on paper", 
   "Dimensions": "17 5/8 x 11 3/4\" (44.9 x 30 cm)", 
   "Classification": "Drawing", 
-  "Artist": "Pavel Tchelitchew", 
-  "URL": "http://www.moma.org/collection/works/35030", 
   "CreditLine": "The Joan and Lester Avnet Collection", 
-  "DateAcquired": "1978-04-04", 
+  "URL": "http://www.moma.org/collection/works/35030", 
+  "ImageURL": null, 
+  "Artist": "Pavel Tchelitchew", 
+  "Date": "(c. 1927)", 
   "Keywords": [
     "Pavel Tchelitchew", 
     "Gertrude Stein", 
@@ -16,7 +17,7 @@
   "Title": "Gertrude Stein", 
   "Department": "Drawings", 
   "MoMANumber": "172.1978", 
-  "Date": "(c. 1927)", 
+  "DateAcquired": "1978-04-04", 
   "ArtistBio": "(American, born Russia. 1898\u20131957)", 
   "CuratorApproved": "Y", 
   "ObjectID": "35030"

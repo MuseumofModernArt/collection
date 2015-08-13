@@ -2,10 +2,11 @@
   "Medium": "Etching", 
   "Dimensions": "plate  23 13/16 x 20\" (60.5 x 50.8 cm)\r\nsheet  35 3/4 x 24 3/4\" (90.8 x 62.9 cm)", 
   "Classification": "Print", 
-  "Artist": "Jim Dine", 
-  "URL": "http://www.moma.org/collection/works/70548", 
   "CreditLine": "Gift of the artist and Aldo Crommelynck", 
-  "DateAcquired": "1976-11-10", 
+  "URL": "http://www.moma.org/collection/works/70548", 
+  "ImageURL": null, 
+  "Artist": "Jim Dine", 
+  "Date": "1976", 
   "Keywords": [
     "Jim Dine", 
     "Drypoint Eiffel Tower", 
@@ -15,7 +16,7 @@
   "Title": "Drypoint Eiffel Tower", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "525.1976", 
-  "Date": "1976", 
+  "DateAcquired": "1976-11-10", 
   "ArtistBio": "(American, born 1935)", 
   "CuratorApproved": "Y", 
   "ObjectID": "70548"

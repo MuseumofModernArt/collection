@@ -2,10 +2,11 @@
   "Medium": "Pencil on paper", 
   "Dimensions": "19 3/4 x 12 7/8\" (50.0 x 32.6 cm)", 
   "Classification": "Drawing", 
-  "Artist": "Alberto Giacometti", 
-  "URL": "http://www.moma.org/collection/works/33753", 
   "CreditLine": "The Joan and Lester Avnet Collection", 
-  "DateAcquired": "1978-04-04", 
+  "URL": "http://www.moma.org/collection/works/33753", 
+  "ImageURL": null, 
+  "Artist": "Alberto Giacometti", 
+  "Date": "1955", 
   "Keywords": [
     "Alberto Giacometti", 
     "An Interior", 
@@ -15,7 +16,7 @@
   "Title": "An Interior", 
   "Department": "Drawings", 
   "MoMANumber": "85.1978", 
-  "Date": "1955", 
+  "DateAcquired": "1978-04-04", 
   "ArtistBio": "(Swiss, 1901\u20131966)", 
   "CuratorApproved": "Y", 
   "ObjectID": "33753"

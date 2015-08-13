@@ -2,10 +2,11 @@
   "Medium": "Lithograph", 
   "Dimensions": "", 
   "Classification": "Print", 
-  "Artist": "Alex Katz", 
-  "URL": "http://www.moma.org/collection/works/67558", 
   "CreditLine": "Gift of the artist", 
-  "DateAcquired": "1988-10-25", 
+  "URL": "http://www.moma.org/collection/works/67558", 
+  "ImageURL": null, 
+  "Artist": "Alex Katz", 
+  "Date": "1984", 
   "Keywords": [
     "Alex Katz", 
     "Sunset", 
@@ -15,7 +16,7 @@
   "Title": "Sunset", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "354.1988", 
-  "Date": "1984", 
+  "DateAcquired": "1988-10-25", 
   "ArtistBio": "(American, born 1927)", 
   "CuratorApproved": "Y", 
   "ObjectID": "67558"

@@ -2,10 +2,11 @@
   "Medium": "Artist's book", 
   "Dimensions": "", 
   "Classification": "Illustrated Book", 
-  "Artist": "Rona Pondick", 
-  "URL": "http://www.moma.org/collection/works/19820", 
   "CreditLine": "Linda Barth Goldstein Fund", 
-  "DateAcquired": "1998-11-12", 
+  "URL": "http://www.moma.org/collection/works/19820", 
+  "ImageURL": null, 
+  "Artist": "Rona Pondick", 
+  "Date": "1998", 
   "Keywords": [
     "Rona Pondick", 
     "12345", 
@@ -15,7 +16,7 @@
   "Title": "12345", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "628.1998", 
-  "Date": "1998", 
+  "DateAcquired": "1998-11-12", 
   "ArtistBio": "(American, born 1952)", 
   "CuratorApproved": "Y", 
   "ObjectID": "19820"

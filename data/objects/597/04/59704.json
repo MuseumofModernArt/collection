@@ -2,10 +2,11 @@
   "Medium": "Lithograph", 
   "Dimensions": "", 
   "Classification": "Print", 
-  "Artist": "Mark Freeman", 
-  "URL": "http://www.moma.org/collection/works/59704", 
   "CreditLine": "Purchase", 
-  "DateAcquired": "1991-01-23", 
+  "URL": "http://www.moma.org/collection/works/59704", 
+  "ImageURL": null, 
+  "Artist": "Mark Freeman", 
+  "Date": "1936", 
   "Keywords": [
     "Mark Freeman", 
     "Manhattan Construction", 
@@ -15,7 +16,7 @@
   "Title": "Manhattan Construction", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "6.1991", 
-  "Date": "1936", 
+  "DateAcquired": "1991-01-23", 
   "ArtistBio": "(American, born 1908)", 
   "CuratorApproved": "Y", 
   "ObjectID": "59704"

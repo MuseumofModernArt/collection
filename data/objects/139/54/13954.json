@@ -2,10 +2,11 @@
   "Medium": "Artist's book", 
   "Dimensions": "", 
   "Classification": "Illustrated Book", 
-  "Artist": "Paul McCarthy", 
-  "URL": "http://www.moma.org/collection/works/13954", 
   "CreditLine": "Purchase", 
-  "DateAcquired": "1997-05-28", 
+  "URL": "http://www.moma.org/collection/works/13954", 
+  "ImageURL": null, 
+  "Artist": "Paul McCarthy", 
+  "Date": "1994", 
   "Keywords": [
     "Paul McCarthy", 
     "Propo", 
@@ -15,7 +16,7 @@
   "Title": "Propo", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "226.1997", 
-  "Date": "1994", 
+  "DateAcquired": "1997-05-28", 
   "ArtistBio": "(American, born 1945)", 
   "CuratorApproved": "Y", 
   "ObjectID": "13954"

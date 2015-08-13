@@ -2,10 +2,11 @@
   "Medium": "Oil on canvas", 
   "Dimensions": "9 1/4 x 10 5/8\" (23.6 x 26.9 cm)", 
   "Classification": "Painting", 
-  "Artist": "Thomas Chimes", 
-  "URL": "http://www.moma.org/collection/works/79399", 
   "CreditLine": "Larry Aldrich Foundation Fund", 
-  "DateAcquired": "1961-10-10", 
+  "URL": "http://www.moma.org/collection/works/79399", 
+  "ImageURL": null, 
+  "Artist": "Thomas Chimes", 
+  "Date": "1961", 
   "Keywords": [
     "Thomas Chimes", 
     "Study for The Inner World", 
@@ -15,7 +16,7 @@
   "Title": "Study for The Inner World", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "283.1961", 
-  "Date": "1961", 
+  "DateAcquired": "1961-10-10", 
   "ArtistBio": "(American, 1921\u20132009)", 
   "CuratorApproved": "Y", 
   "ObjectID": "79399"

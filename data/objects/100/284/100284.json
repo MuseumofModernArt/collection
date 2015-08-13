@@ -2,10 +2,11 @@
   "Medium": "Oil on canvas", 
   "Dimensions": "43 7/8 x 6' 1/4\" (111.4 x 183.5 cm)", 
   "Classification": "Painting", 
-  "Artist": "Bob Kane", 
-  "URL": "http://www.moma.org/collection/works/100284", 
   "CreditLine": "Gift of Edward R. Broida", 
-  "DateAcquired": "2005-10-06", 
+  "URL": "http://www.moma.org/collection/works/100284", 
+  "ImageURL": null, 
+  "Artist": "Bob Kane", 
+  "Date": "1983", 
   "Keywords": [
     "Bob Kane", 
     "Terrace Positano", 
@@ -15,7 +16,7 @@
   "Title": "Terrace Positano", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "744.2005", 
-  "Date": "1983", 
+  "DateAcquired": "2005-10-06", 
   "ArtistBio": "(American, 1937\u20132013)", 
   "CuratorApproved": "Y", 
   "ObjectID": "100284"
