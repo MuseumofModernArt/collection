@@ -26,7 +26,7 @@ MoMA requests that you actively acknowledge and give attribution to MoMA whereve
 ### Do not misrepresent the dataset
 Do not mislead others or misrepresent the dataset or its source. You must not use MoMA’s trademarks or otherwise claim or imply that MoMA endorses you or your use of the dataset. 
 
-Whenever you transform, translate or otherwise modify the dataset, you must make it clear that the resulting information has been modified by you. If you enrich or otherwise modify the dataset, consider publishing the derived dataset without reuse restrictions.
+Whenever you transform, translate or otherwise modify the dataset, you must make it clear that the resulting information has been modified. If you enrich or otherwise modify the dataset, consider publishing the derived dataset without reuse restrictions.
 
 
 
