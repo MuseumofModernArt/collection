@@ -2,10 +2,11 @@
   "Medium": "Paint on wall", 
   "Dimensions": "Dimensions vary with installation", 
   "Classification": "Installation", 
-  "Artist": "Felix Gonzalez-Torres", 
-  "URL": "http://www.moma.org/collection/works/81075", 
   "CreditLine": "Gift of Werner and Elaine Dannheisser", 
-  "DateAcquired": "1996-04-09", 
+  "URL": "http://www.moma.org/collection/works/81075", 
+  "ImageURL": null, 
+  "Artist": "Felix Gonzalez-Torres", 
+  "Date": "1993", 
   "Keywords": [
     "Felix Gonzalez-Torres", 
     "\"Untitled\" (Portrait of Elaine Dannheisser)", 
@@ -15,7 +16,7 @@
   "Title": "\"Untitled\" (Portrait of Elaine Dannheisser)", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "178.1996", 
-  "Date": "1993", 
+  "DateAcquired": "1996-04-09", 
   "ArtistBio": "(American, born Cuba. 1957\u20131996)", 
   "CuratorApproved": "Y", 
   "ObjectID": "81075"

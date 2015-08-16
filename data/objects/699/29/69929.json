@@ -2,10 +2,11 @@
   "Medium": "Screenprint with varnish", 
   "Dimensions": "", 
   "Classification": "Print", 
-  "Artist": "Gavin Turk", 
-  "URL": "http://www.moma.org/collection/works/69929", 
   "CreditLine": "Purchase", 
-  "DateAcquired": "1992-11-04", 
+  "URL": "http://www.moma.org/collection/works/69929", 
+  "ImageURL": null, 
+  "Artist": "Gavin Turk", 
+  "Date": "1992", 
   "Keywords": [
     "Gavin Turk", 
     "Untitled from the portfolio London", 
@@ -15,7 +16,7 @@
   "Title": "Untitled from the portfolio London", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "483.1992", 
-  "Date": "1992", 
+  "DateAcquired": "1992-11-04", 
   "ArtistBio": "(British, born 1965)", 
   "CuratorApproved": "Y", 
   "ObjectID": "69929"

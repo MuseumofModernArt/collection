@@ -2,10 +2,11 @@
   "Medium": "Lithograph on two sheets", 
   "Dimensions": "Composition (.a, irreg.): 42 13/16 x 28 11/16\" (108.7 x 72.8 cm)\r\nComposition (.b, irreg.): 41 5/16 x 22 1/2\" (104.9 x 57.2 cm)\r\nSheet (each): 47 3/4 x 31 5/8\" (121.3 x 80.4 cm)\r\nSheet (total): 95 1/2 x 63 5/16\" (242.6 x 160.8 cm)", 
   "Classification": "Print", 
-  "Artist": "Marisol (Marisol Escobar)", 
-  "URL": "http://www.moma.org/collection/works/70178", 
   "CreditLine": "Gift of Celeste Bartos", 
-  "DateAcquired": "1971-10-07", 
+  "URL": "http://www.moma.org/collection/works/70178", 
+  "ImageURL": null, 
+  "Artist": "Marisol (Marisol Escobar)", 
+  "Date": "1971", 
   "Keywords": [
     "Marisol (Marisol Escobar)", 
     "Diptych", 
@@ -15,7 +16,7 @@
   "Title": "Diptych", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "501.1971.a-b", 
-  "Date": "1971", 
+  "DateAcquired": "1971-10-07", 
   "ArtistBio": "(Venezuelan, born France 1930)", 
   "CuratorApproved": "Y", 
   "ObjectID": "70178"

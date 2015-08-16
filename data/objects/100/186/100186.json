@@ -2,10 +2,11 @@
   "Medium": "Steel", 
   "Dimensions": "4 1/8 x 41 1/4 x 4 1/8\" (10.5 x 104.8 x 10.5 cm)", 
   "Classification": "Sculpture", 
-  "Artist": "Carl Andre", 
-  "URL": "http://www.moma.org/collection/works/100186", 
   "CreditLine": "Gift of Edward R. Broida", 
-  "DateAcquired": "2005-10-06", 
+  "URL": "http://www.moma.org/collection/works/100186", 
+  "ImageURL": null, 
+  "Artist": "Carl Andre", 
+  "Date": "1978", 
   "Keywords": [
     "Carl Andre", 
     "Pivot", 
@@ -15,7 +16,7 @@
   "Title": "Pivot", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "646.2005", 
-  "Date": "1978", 
+  "DateAcquired": "2005-10-06", 
   "ArtistBio": "(American, born 1935)", 
   "CuratorApproved": "Y", 
   "ObjectID": "100186"

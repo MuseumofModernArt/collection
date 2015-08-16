@@ -2,10 +2,11 @@
   "Medium": "Artist's book", 
   "Dimensions": "", 
   "Classification": "Illustrated Book", 
-  "Artist": "Ben Vautier", 
-  "URL": "http://www.moma.org/collection/works/13294", 
   "CreditLine": "Monroe Wheeler Fund", 
-  "DateAcquired": "1997-05-28", 
+  "URL": "http://www.moma.org/collection/works/13294", 
+  "ImageURL": null, 
+  "Artist": "Ben Vautier", 
+  "Date": "1997", 
   "Keywords": [
     "Ben Vautier", 
     "Manifeste d'Art Total", 
@@ -15,7 +16,7 @@
   "Title": "Manifeste d'Art Total", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "194.1997", 
-  "Date": "1997", 
+  "DateAcquired": "1997-05-28", 
   "ArtistBio": "(French, born Italy 1935)", 
   "CuratorApproved": "Y", 
   "ObjectID": "13294"

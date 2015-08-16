@@ -2,10 +2,11 @@
   "Medium": "Enamel on tile", 
   "Dimensions": "8 x 8\" (20.3 x 20.3 cm)", 
   "Classification": "Painting", 
-  "Artist": "Pablo Picasso", 
-  "URL": "http://www.moma.org/collection/works/79357", 
   "CreditLine": "Philip Johnson Fund", 
-  "DateAcquired": "1956-10-09", 
+  "URL": "http://www.moma.org/collection/works/79357", 
+  "ImageURL": "http://www.moma.org/media/W1siZiIsIjIwODY1NSJdLFsicCIsImNvbnZlcnQiLCItcmVzaXplIDIwMDB4MjAwMD4iXV0?sha=9ce33ed5fc791f17", 
+  "Artist": "Pablo Picasso", 
+  "Date": "February 15, 1956", 
   "Keywords": [
     "Pablo Picasso", 
     "Bearded Faun", 
@@ -16,7 +17,7 @@
   "Title": "Bearded Faun", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "274.1956", 
-  "Date": "February 15, 1956", 
+  "DateAcquired": "1956-10-09", 
   "ArtistBio": "(Spanish, 1881\u20131973)", 
   "CuratorApproved": "Y", 
   "ObjectID": "79357"

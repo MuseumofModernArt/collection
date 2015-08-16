@@ -2,10 +2,11 @@
   "Medium": "Book with1 drypoint on celluloid (\"Rectangular Face\"; plate, folio 4 verso)", 
   "Dimensions": "plate: 1 3/16 x 2 3/16\" (3 x 5.5 cm); page: 2 3/8 x 3 3/8\" (6 x 8.5 cm)", 
   "Classification": "Illustrated Book", 
-  "Artist": "Pablo Picasso", 
-  "URL": "http://www.moma.org/collection/works/29945", 
   "CreditLine": "The Louis E. Stern Collection", 
-  "DateAcquired": "1964-10-06", 
+  "URL": "http://www.moma.org/collection/works/29945", 
+  "ImageURL": "http://www.moma.org/media/W1siZiIsIjE2MTE1MyJdLFsicCIsImNvbnZlcnQiLCItcmVzaXplIDIwMDB4MjAwMD4iXV0?sha=6e62866b615c3cb8", 
+  "Artist": "Pablo Picasso", 
+  "Date": "1956", 
   "Keywords": [
     "Pablo Picasso", 
     "Nuit", 
@@ -15,7 +16,7 @@
   "Title": "Nuit", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "1010.1964", 
-  "Date": "1956", 
+  "DateAcquired": "1964-10-06", 
   "ArtistBio": "(Spanish, 1881\u20131973)", 
   "CuratorApproved": "Y", 
   "ObjectID": "29945"

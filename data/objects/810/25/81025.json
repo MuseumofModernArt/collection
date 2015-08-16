@@ -2,10 +2,11 @@
   "Medium": "Painted steel rods and sheet iron", 
   "Dimensions": "14' (425 cm) x approx. 30' (915 cm) in diameter", 
   "Classification": "Sculpture", 
-  "Artist": "Alexander Calder", 
-  "URL": "http://www.moma.org/collection/works/81025", 
   "CreditLine": "Purchase", 
-  "DateAcquired": "1945-06-13", 
+  "URL": "http://www.moma.org/collection/works/81025", 
+  "ImageURL": null, 
+  "Artist": "Alexander Calder", 
+  "Date": "1945", 
   "Keywords": [
     "Alexander Calder", 
     "Man-Eater with Pennants", 
@@ -15,7 +16,7 @@
   "Title": "Man-Eater with Pennants", 
   "Department": "Painting & Sculpture", 
   "MoMANumber": "150.1945", 
-  "Date": "1945", 
+  "DateAcquired": "1945-06-13", 
   "ArtistBio": "(American, 1898\u20131976)", 
   "CuratorApproved": "Y", 
   "ObjectID": "81025"

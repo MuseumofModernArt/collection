@@ -2,10 +2,11 @@
   "Medium": "Artist's book, printed in color", 
   "Dimensions": "", 
   "Classification": "Illustrated Book", 
-  "Artist": "Jean-Charles Blais", 
-  "URL": "http://www.moma.org/collection/works/22087", 
   "CreditLine": "Given anonymously", 
-  "DateAcquired": "1996-11-12", 
+  "URL": "http://www.moma.org/collection/works/22087", 
+  "ImageURL": null, 
+  "Artist": "Jean-Charles Blais", 
+  "Date": "1992", 
   "Keywords": [
     "Jean-Charles Blais", 
     "Suites", 
@@ -15,7 +16,7 @@
   "Title": "Suites", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "712.1996", 
-  "Date": "1992", 
+  "DateAcquired": "1996-11-12", 
   "ArtistBio": "(French, born 1956)", 
   "CuratorApproved": "Y", 
   "ObjectID": "22087"

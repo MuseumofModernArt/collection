@@ -2,10 +2,11 @@
   "Medium": "Photoetching", 
   "Dimensions": "", 
   "Classification": "Print", 
-  "Artist": "Michael Kidner", 
-  "URL": "http://www.moma.org/collection/works/75498", 
   "CreditLine": "Dorothy Braude Edinburg Fund in memory of John McAndrew", 
-  "DateAcquired": "1979-12-04", 
+  "URL": "http://www.moma.org/collection/works/75498", 
+  "ImageURL": null, 
+  "Artist": "Michael Kidner", 
+  "Date": "1979", 
   "Keywords": [
     "Michael Kidner", 
     "Circle", 
@@ -15,7 +16,7 @@
   "Title": "Circle", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "1073.1979", 
-  "Date": "1979", 
+  "DateAcquired": "1979-12-04", 
   "ArtistBio": "(British, born 1917)", 
   "CuratorApproved": "Y", 
   "ObjectID": "75498"

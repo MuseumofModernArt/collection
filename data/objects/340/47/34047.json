@@ -2,10 +2,11 @@
   "Medium": "Pencil on paper", 
   "Dimensions": "17 1/8 x 10 5/8\" (43.3 x 26.9 cm)", 
   "Classification": "Drawing", 
-  "Artist": "Amedeo Modigliani", 
-  "URL": "http://www.moma.org/collection/works/34047", 
   "CreditLine": "Gift of Mr. and Mrs. Richard Rodgers", 
-  "DateAcquired": "1979-05-07", 
+  "URL": "http://www.moma.org/collection/works/34047", 
+  "ImageURL": null, 
+  "Artist": "Amedeo Modigliani", 
+  "Date": "(1916)", 
   "Keywords": [
     "Amedeo Modigliani", 
     "The Family", 
@@ -15,7 +16,7 @@
   "Title": "The Family", 
   "Department": "Drawings", 
   "MoMANumber": "110.1979", 
-  "Date": "(1916)", 
+  "DateAcquired": "1979-05-07", 
   "ArtistBio": "(Italian, 1884\u20131920)", 
   "CuratorApproved": "Y", 
   "ObjectID": "34047"

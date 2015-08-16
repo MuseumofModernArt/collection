@@ -2,10 +2,11 @@
   "Medium": "Screenprint", 
   "Dimensions": "", 
   "Classification": "Print", 
-  "Artist": "Robert Indiana", 
-  "URL": "http://www.moma.org/collection/works/69299", 
   "CreditLine": "Given anonymously", 
-  "DateAcquired": "1971-05-18", 
+  "URL": "http://www.moma.org/collection/works/69299", 
+  "ImageURL": null, 
+  "Artist": "Robert Indiana", 
+  "Date": "(1971)", 
   "Keywords": [
     "Robert Indiana", 
     "American Dream", 
@@ -15,7 +16,7 @@
   "Title": "American Dream", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "448.1971", 
-  "Date": "(1971)", 
+  "DateAcquired": "1971-05-18", 
   "ArtistBio": "(American, born 1928)", 
   "CuratorApproved": "Y", 
   "ObjectID": "69299"

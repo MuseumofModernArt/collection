@@ -2,10 +2,11 @@
   "Medium": "Artist's book", 
   "Dimensions": "", 
   "Classification": "Illustrated Book", 
-  "Artist": "Felix Droese", 
-  "URL": "http://www.moma.org/collection/works/13496", 
   "CreditLine": "Purchase", 
-  "DateAcquired": "1997-05-28", 
+  "URL": "http://www.moma.org/collection/works/13496", 
+  "ImageURL": null, 
+  "Artist": "Felix Droese", 
+  "Date": "1996", 
   "Keywords": [
     "Felix Droese", 
     "anonymous", 
@@ -15,7 +16,7 @@
   "Title": "anonymous", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "204.1997", 
-  "Date": "1996", 
+  "DateAcquired": "1997-05-28", 
   "ArtistBio": "(German, born 1950)", 
   "CuratorApproved": "Y", 
   "ObjectID": "13496"

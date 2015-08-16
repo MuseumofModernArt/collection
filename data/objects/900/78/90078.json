@@ -2,10 +2,11 @@
   "Medium": "Acetylsalicylic Acid (ASA)", 
   "Dimensions": "1/8 x 1/2\" (0.3 x 1.3 cm)", 
   "Classification": "A&D Design", 
-  "Artist": "Bayer Research Laboratories", 
-  "URL": "http://www.moma.org/collection/works/90078", 
   "CreditLine": "Gift of the manufacturer", 
-  "DateAcquired": "2005-02-15", 
+  "URL": "http://www.moma.org/collection/works/90078", 
+  "ImageURL": null, 
+  "Artist": "Bayer Research Laboratories", 
+  "Date": "1900", 
   "Keywords": [
     "Bayer Research Laboratories", 
     "Aspirin&reg; Tablet", 
@@ -15,7 +16,7 @@
   "Title": "Aspirin\u00ae Tablet, 500 mg.", 
   "Department": "Architecture & Design", 
   "MoMANumber": "136.2005", 
-  "Date": "1900", 
+  "DateAcquired": "2005-02-15", 
   "ArtistBio": "(German, founded 1863)", 
   "CuratorApproved": "Y", 
   "ObjectID": "90078"

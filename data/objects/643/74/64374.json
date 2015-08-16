@@ -2,10 +2,11 @@
   "Medium": "Woodcut", 
   "Dimensions": "", 
   "Classification": "Print", 
-  "Artist": "Sean Scully", 
-  "URL": "http://www.moma.org/collection/works/64374", 
   "CreditLine": "Associate Council Fund", 
-  "DateAcquired": "1986-05-20", 
+  "URL": "http://www.moma.org/collection/works/64374", 
+  "ImageURL": null, 
+  "Artist": "Sean Scully", 
+  "Date": "(1986)", 
   "Keywords": [
     "Sean Scully", 
     "Conversation", 
@@ -15,7 +16,7 @@
   "Title": "Conversation", 
   "Department": "Prints & Illustrated Books", 
   "MoMANumber": "205.1986", 
-  "Date": "(1986)", 
+  "DateAcquired": "1986-05-20", 
   "ArtistBio": "(American, born Ireland 1945)", 
   "CuratorApproved": "Y", 
   "ObjectID": "64374"
