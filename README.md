@@ -9,6 +9,8 @@ At this time, the data is available in CSV format, encoded in UTF-8. While UTF-8
 
 This dataset is placed in the public domain using a [CC0 License](https://creativecommons.org/publicdomain/zero/1.0/).
 
+For a roundup of how people have used our data so far, visit our [Medium post](https://medium.com/@foe/here-s-a-roundup-of-how-people-have-used-our-data-so-far-80862e4ce220#.f6272outn). We love adding to the list, so please email us at collection@moma.org if you'd like to be included. 
+
 ## Additional usage guidelines
 ### Images not included
 Images are not included and are not part of the dataset. To license images of works of art in MoMA’s collection please contact [Art Resource](http://www.artres.com/) (North America) or [Scala Archives](http://www.scalarchives.com/) (outside North America).
