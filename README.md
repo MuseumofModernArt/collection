@@ -25,7 +25,11 @@ We plan to update the datasets with new and revised information on a regular bas
 Because these datasets are generated from our internal database, we do *not* accept pull requests. If you have identified errors or have extra information to share, please email us at [collection@moma.org](mailto:collection@moma.org) and we will forward to the appropriate department for review.
 
 ### Give attribution to MoMA
-MoMA requests that you actively acknowledge and give attribution to MoMA wherever possible. If you use the dataset for a publication, please cite it using the digital object identifier [![DOI](https://zenodo.org/badge/15218/MuseumofModernArt/collection.svg)](https://zenodo.org/badge/latestdoi/15218/MuseumofModernArt/collection). Attribution supports efforts to release other data. It also reduces the amount of “orphaned data,” helping retain links to authoritative sources.
+MoMA requests that you actively acknowledge and give attribution to MoMA wherever possible. If you use the Artworks dataset for a publication, please cite it using the digital object identifier [![DOI](https://zenodo.org/badge/15218/MuseumofModernArt/collection.svg)](https://zenodo.org/badge/latestdoi/15218/MuseumofModernArt/collection). 
+
+If you use the Artists dataset, please cite it using the digital object identifier [![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.46902.svg)](http://dx.doi.org/10.5281/zenodo.46902).
+
+Attribution supports efforts to release other data. It also reduces the amount of “orphaned data,” helping retain links to authoritative sources.
 
 ### Do not misrepresent the datasets
 Do not mislead others or misrepresent the datasets or their source. You must not use MoMA’s trademarks or otherwise claim or imply that MoMA endorses you or your use of the data.
