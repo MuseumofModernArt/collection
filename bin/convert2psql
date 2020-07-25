@@ -1,0 +1,355 @@
+#!/usr/bin/env ruby
+# -----------------------------------------------------------------------------
+# Script to convert the MoMA data dump from JSON to a postgres (psql) script 
+# Author: Urs Roesch <github@bun.ch>
+# -----------------------------------------------------------------------------
+
+# -----------------------------------------------------------------------------
+# Modules
+# -----------------------------------------------------------------------------
+require 'erb'
+require 'json'
+
+# -----------------------------------------------------------------------------
+# Globals
+# -----------------------------------------------------------------------------
+TEMPLATE = DATA.read
+
+# -----------------------------------------------------------------------------
+# Classes
+# -----------------------------------------------------------------------------
+class ConvertToSql
+  DATA_DIR = File.realpath(File.join(File.dirname(__FILE__), '..'))
+  def read_json
+    begin
+      raw   = File.read(json_file)
+      @json = JSON.parse(raw)
+      normalize_keys
+    rescue => e
+      puts e.message
+      exit 123
+    end
+    self
+  end
+
+  def to_table
+    @table = @json.map do |record| 
+      @fields.each.inject([]) do |entry, key|
+        value = record.fetch(key.to_sym, '')
+        entry.push(convert_value(value))
+        entry
+      end
+    end
+    self
+  end
+
+  def data
+    @table.map { |r| r.join("\t") }.join("\n") 
+  end
+
+  def fields
+    @fields.join(', ')
+  end
+
+  private
+
+  def json_file
+    return @json_file if File.exists?(@json_file)
+    json_file = File.join(DATA_DIR, @json_file)
+    return json_file if File.exists?(json_file)
+    ''
+  end
+
+  def normalize_keys
+    remove = [ '(cm)' ]
+    @json = @json.map do |record|
+      record = record.map do |key, value|
+        key = key.gsub(Regexp.union(remove), '').strip
+        key = key.gsub(' ', '_')
+        [ key.downcase.to_sym, value ]
+      end
+      Hash[record]
+    end
+    self
+  end
+
+  def convert_value(value)
+     case value.class.to_s
+     when 'Array'
+       # postgresql array notion
+       '{' + value.join(', ') + '}'
+     when 'String'
+       normalize_string(value)
+     else
+       value
+     end
+  end
+
+  def normalize_string(value)
+    value
+      .strip                   # remove whitespace
+      .gsub('\\', '\\\\\\')    # escape backslashes
+      .gsub(%r{\r}, '')        # remove line feed
+      .gsub(%r{\n}, '\\n')     # escape newlines
+  end
+end
+
+# -----------------------------------------------------------------------------
+
+class Artworks < ConvertToSql
+  JSON_FILE = 'Artworks.json'
+  FIELDS = %w(
+    title
+    constituentid
+    date
+    medium
+    dimensions
+    creditline
+    accessionnumber
+    classification
+    department
+    dateacquired
+    cataloged
+    objectid
+    url
+    thumbnailurl
+    height
+    width
+  )
+
+  def initialize
+    super
+    @json_file = JSON_FILE
+    @fields    = FIELDS
+    read_json
+    filter
+    to_table
+  end
+
+  def filter
+    fields = %w( artist artistbio nationality gender begindate enddate )
+    @json.map! do |record|
+      record.select { |k, v| k !~ Regexp.union(fields) }
+    end
+  end
+end
+
+# -----------------------------------------------------------------------------
+
+class Artists < ConvertToSql
+  JSON_FILE = 'Artists.json'
+  FIELDS = %w(
+    constituentid
+    displayname
+    artistbio
+    nationality
+    gender
+    begindate
+    enddate
+    wiki_qid
+    ulan
+  )
+
+  def initialize
+    super
+    @json_file = JSON_FILE
+    @fields    = FIELDS
+    read_json
+    to_table
+  end
+end
+
+
+# -----------------------------------------------------------------------------
+# Main
+# -----------------------------------------------------------------------------
+artists         = Artists.new
+artists_fields  = artists.fields
+artists_data    = artists.data
+
+artworks        = Artworks.new
+artworks_data   = artworks.data
+artworks_fields = artworks.fields
+
+# table creation for normalization
+tables = {
+  medium:         :artworks,
+  creditline:     :artworks,
+  nationality:    :artists
+}
+
+# enum type creation for better integrity
+enums = {
+  classification: :artworks,
+  department:     :artworks,
+  gender:         :artists
+}
+
+# enum type creation for better integrity
+password = '@Top-Secret!!'
+
+puts ERB.new(TEMPLATE).result
+
+__END__
+/* ----------------------------------------------------------------------------
+  Create moma user and database
+---------------------------------------------------------------------------- */
+CREATE ROLE moma PASSWORD '<%= password %>' LOGIN;
+GRANT moma to postgres;
+CREATE DATABASE moma WITH OWNER moma ENCODING 'UTF-8';
+
+
+/* ----------------------------------------------------------------------------
+  Connect to moma and grant schema permission
+---------------------------------------------------------------------------- */
+\connect moma
+
+-- schema creation
+GRANT USAGE ON SCHEMA public to moma;
+GRANT CREATE ON SCHEMA public to moma;
+
+/* ----------------------------------------------------------------------------
+  Create Static types and domains
+---------------------------------------------------------------------------- */
+CREATE DOMAIN QID AS TEXT
+  DEFAULT ''
+  NULL CHECK (
+      VALUE ~ '^(q|Q)\d+$'
+   OR VALUE ~ '^$'
+  );
+
+/* ----------------------------------------------------------------------------
+  Create Tables
+---------------------------------------------------------------------------- */
+CREATE TABLE Artists (
+  constituentid INTEGER GENERATED ALWAYS AS IDENTITY,
+  displayname TEXT NOT NULL, 
+  artistbio TEXT NULL, 
+  nationality TEXT,
+  gender TEXT,
+  begindate INTEGER DEFAULT NULL,
+  enddate INTEGER DEFAULT NULL,
+  wiki_qid QID,
+  ulan TEXT NULL 
+);
+
+CREATE TABLE Artworks (
+  title TEXT NOT NULL,
+  constituentid INTEGER[] NOT NULL,
+  date TEXT,
+  medium TEXT, 
+  dimensions TEXT,
+  creditLine TEXT, 
+  accessionNumber TEXT,
+  classification TEXT,
+  department TEXT,
+  dateacquired TEXT NULL,
+  cataloged BOOLEAN NULL,
+  objectid INTEGER NOT NULL,
+  url TEXT NULL, 
+  thumbnailurl TEXT NULL,
+  height TEXT NULL,
+  width TEXT NULL
+);
+
+
+/* ----------------------------------------------------------------------------
+  Poupulate Tables
+---------------------------------------------------------------------------- */
+COPY Artists (<%= artists_fields %>) FROM stdin;
+<%= artists_data %>
+\.
+
+COPY Artworks (<%= artworks_fields %>) FROM stdin;
+<%= artworks_data %>
+\.
+
+
+/* ----------------------------------------------------------------------------
+  Data cleanup artists
+---------------------------------------------------------------------------- */
+-- Convert gender to type enum
+<% %w(male female).each do |gender| %>
+UPDATE Artists SET Gender = '<%= gender.capitalize %>'
+  WHERE Gender = LOWER('<%= gender %>');
+<% end %>
+
+<% %w(begindate enddate).each do |column| %>
+-- Convert values 0 to NULL 
+UPDATE Artists SET <%= column %> = NULL WHERE <%= column %> = 0;
+<% end %>
+
+<% %w(wiki_qid ulan).each do |column| %>
+-- Convert empty values to NULL 
+UPDATE Artists SET <%= column %> = NULL 
+  WHERE <%= column %> = '';
+<% end %>
+
+ALTER TABLE Artists 
+  ALTER COLUMN ULAN TYPE INTEGER USING ULAN::integer;
+
+/* ----------------------------------------------------------------------------
+  Data cleanup artworks
+---------------------------------------------------------------------------- */
+<% 
+  columns = %w(date dimensions dateacquired url thumbnailurl height width)
+  columns.each do |column|
+%>
+-- Convert empty values to NULL 
+UPDATE Artworks SET <%= column %> = NULL 
+  WHERE <%= column %> = '';
+<% end %>
+
+<% %w(height width).each do |column| %>
+-- Convert to numeric
+ALTER TABLE Artworks
+  ALTER COLUMN <%= column %> TYPE NUMERIC USING <%= column %>::numeric;
+<% end %>
+
+/* ----------------------------------------------------------------------------
+  Normalize tables
+---------------------------------------------------------------------------- */
+<% tables.each do |name, table| %>
+/* ----------------------------------------------------------------------------
+  Create table <%= name %> and populate it 
+  then delete the original column
+---------------------------------------------------------------------------- */
+CREATE TABLE <%= name %> (
+  <%= name %>id INTEGER GENERATED ALWAYS AS IDENTITY,
+  <%= name %> TEXT UNIQUE
+);
+INSERT INTO <%= name %> (<%= name %>) 
+  SELECT DISTINCT <%= name %> FROM <%= table %>;
+ALTER TABLE <%= table %> ADD COLUMN <%= name %>id INTEGER;
+UPDATE <%= table %> x SET <%= name %>id = y.<%= name %>id
+  FROM <%= name %> y where x.<%= name %> = y.<%= name %>;
+ALTER TABLE <%= table %> DROP COLUMN <%= name %>;
+
+<% end %>
+
+<% enums.each do |name, table| %>
+/* ----------------------------------------------------------------------------
+  Create an ENUM type for <%= name %>
+---------------------------------------------------------------------------- */
+-- Create new type for <%= name %> and convert it
+DO
+$$
+  BEGIN
+    EXECUTE (
+      SELECT format('CREATE TYPE <%= name.upcase %> AS ENUM (%s)',
+        STRING_AGG(DISTINCT QUOTE_LITERAL(<%= name %>), ', '))
+      FROM <%= table %>);
+  END 
+$$;
+ALTER TABLE <%= table %>
+  ALTER COLUMN <%= name %> 
+  TYPE <%= name %> USING <%= name %>::<%= name %>;
+
+<% end %>
+
+/* ----------------------------------------------------------------------------
+  Cleanup table after work is done
+---------------------------------------------------------------------------- */
+<% tables.to_h.flatten.uniq.each do |table| %>
+VACUUM (ANALYZE, FULL) <%= table %>;
+<% end %>
