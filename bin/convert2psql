@@ -32,6 +32,7 @@ class ConvertToSql
   end
 
   def to_table
+    read_json unless @json
     @table = @json.map do |record| 
       @fields.keys.each.inject([]) do |entry, key|
         value = record.fetch(key, '')
@@ -43,6 +44,7 @@ class ConvertToSql
   end
 
   def data
+    to_table unless @json
     @table.map { |r| r.join("\t") }.join("\n") 
   end
 
@@ -124,19 +126,8 @@ class Artworks < ConvertToSql
   }
 
   def initialize
-    super
     @json_file = JSON_FILE
     @fields    = FIELDS
-    read_json
-    filter
-    to_table
-  end
-
-  def filter
-    fields = %w( artist artistbio nationality gender begindate enddate )
-    @json.map! do |record|
-      record.select { |k, v| k !~ Regexp.union(fields) }
-    end
   end
 end
 
@@ -157,11 +148,8 @@ class Artists < ConvertToSql
   }
 
   def initialize
-    super
     @json_file = JSON_FILE
     @fields    = FIELDS
-    read_json
-    to_table
   end
 end
 
