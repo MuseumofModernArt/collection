@@ -1,7 +1,7 @@
 # convert2psql 
 
 Is a script that converts the file `Artists.json` and `Artworks.json` to a
-[PostgreSQL][postgresql] `[psql][psql]` script.
+[PostgreSQL][postgresql] [psql][psql] script.
 
 Besides copying the data into two tables there are a number of operations to
 normalize the data.
