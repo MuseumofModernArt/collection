@@ -23,8 +23,7 @@ class ConvertToSql
   def read_json
     begin
       raw   = File.read(json_file)
-      @json = JSON.parse(raw)
-      normalize_keys
+      @json = JSON.parse(raw, symbolize_names: true)
     rescue => e
       puts e.message
       exit 123
@@ -34,8 +33,8 @@ class ConvertToSql
 
   def to_table
     @table = @json.map do |record| 
-      @fields.each.inject([]) do |entry, key|
-        value = record.fetch(key.to_sym, '')
+      @fields.keys.each.inject([]) do |entry, key|
+        value = record.fetch(key, '')
         entry.push(convert_value(value))
         entry
       end
@@ -47,8 +46,15 @@ class ConvertToSql
     @table.map { |r| r.join("\t") }.join("\n") 
   end
 
+  def ddl_fields
+    ddl = @fields.map do |key, value|
+       "  #{key_to_column(key)} #{value}"
+    end
+    ddl.join(",\n")
+  end 
+
   def fields
-    @fields.join(', ')
+    keys_to_column.join(', ')
   end
 
   private
@@ -60,17 +66,17 @@ class ConvertToSql
     ''
   end
 
-  def normalize_keys
-    remove = [ '(cm)' ]
-    @json = @json.map do |record|
-      record = record.map do |key, value|
-        key = key.gsub(Regexp.union(remove), '').strip
-        key = key.gsub(' ', '_')
-        [ key.downcase.to_sym, value ]
-      end
-      Hash[record]
-    end
-    self
+  def keys_to_column
+    # make keys conform sql naming standard 
+    @fields.keys.map { |key| key_to_column(key) }
+  end
+
+  def key_to_column(key)
+    key
+      .to_s
+      .downcase
+      .gsub(%r{[[:space:]]}, '_')
+      .gsub(%r{[^a-z0-9_]}, '')
   end
 
   def convert_value(value)
@@ -98,24 +104,24 @@ end
 
 class Artworks < ConvertToSql
   JSON_FILE = 'Artworks.json'
-  FIELDS = %w(
-    title
-    constituentid
-    date
-    medium
-    dimensions
-    creditline
-    accessionnumber
-    classification
-    department
-    dateacquired
-    cataloged
-    objectid
-    url
-    thumbnailurl
-    height
-    width
-  )
+  FIELDS = {
+    Title: 'TEXT NOT NULL',          
+    ConstituentID: 'INTEGER[] NOT NULL',
+    Date: 'TEXT',
+    Medium: 'TEXT',
+    Dimensions: 'TEXT',
+    Creditline: 'TEXT',
+    AccessionNumber: 'TEXT',
+    Classification: 'TEXT',
+    Department: 'TEXT',
+    DateAcquired: 'TEXT NULL',
+    Cataloged: 'BOOLEAN NULL',
+    ObjectID: 'TEXT NOT NULL',
+    URL: 'TEXT NULL',
+    ThumbnailURL: 'TEXT NULL',
+    'Height (cm)': 'TEXT NULL',
+    'Width (cm)': 'TEXT NULL',
+  }
 
   def initialize
     super
@@ -138,17 +144,17 @@ end
 
 class Artists < ConvertToSql
   JSON_FILE = 'Artists.json'
-  FIELDS = %w(
-    constituentid
-    displayname
-    artistbio
-    nationality
-    gender
-    begindate
-    enddate
-    wiki_qid
-    ulan
-  )
+  FIELDS = {
+    ConstituentID: 'INTEGER GENERATED ALWAYS AS IDENTITY',
+    DisplayName: 'TEXT NOT NULL', 
+    ArtistBio: 'TEXT NULL', 
+    Nationality: 'TEXT',
+    Gender: 'TEXT',
+    BeginDate: 'INTEGER DEFAULT NULL',
+    EndDate: 'INTEGER DEFAULT NULL',
+    'Wiki QID': 'QID',
+    'ULAN': 'TEXT NULL' 
+  }
 
   def initialize
     super
@@ -166,10 +172,12 @@ end
 artists         = Artists.new
 artists_fields  = artists.fields
 artists_data    = artists.data
+artists_ddl     = artists.ddl_fields
 
 artworks        = Artworks.new
 artworks_data   = artworks.data
 artworks_fields = artworks.fields
+artworks_ddl    = artworks.ddl_fields
 
 # table creation for normalization
 tables = {
@@ -222,34 +230,11 @@ CREATE DOMAIN QID AS TEXT
   Create Tables
 ---------------------------------------------------------------------------- */
 CREATE TABLE Artists (
-  constituentid INTEGER GENERATED ALWAYS AS IDENTITY,
-  displayname TEXT NOT NULL, 
-  artistbio TEXT NULL, 
-  nationality TEXT,
-  gender TEXT,
-  begindate INTEGER DEFAULT NULL,
-  enddate INTEGER DEFAULT NULL,
-  wiki_qid QID,
-  ulan TEXT NULL 
+<%= artists_ddl %>
 );
 
 CREATE TABLE Artworks (
-  title TEXT NOT NULL,
-  constituentid INTEGER[] NOT NULL,
-  date TEXT,
-  medium TEXT, 
-  dimensions TEXT,
-  creditLine TEXT, 
-  accessionNumber TEXT,
-  classification TEXT,
-  department TEXT,
-  dateacquired TEXT NULL,
-  cataloged BOOLEAN NULL,
-  objectid INTEGER NOT NULL,
-  url TEXT NULL, 
-  thumbnailurl TEXT NULL,
-  height TEXT NULL,
-  width TEXT NULL
+<%= artworks_ddl %>
 );
 
 
@@ -292,15 +277,22 @@ ALTER TABLE Artists
   Data cleanup artworks
 ---------------------------------------------------------------------------- */
 <% 
-  columns = %w(date dimensions dateacquired url thumbnailurl height width)
-  columns.each do |column|
+  %w(
+    date
+    dimensions
+    dateacquired
+    url
+    thumbnailurl
+    height_cm
+    width_cm
+  ).each do |column|
 %>
 -- Convert empty values to NULL 
 UPDATE Artworks SET <%= column %> = NULL 
   WHERE <%= column %> = '';
 <% end %>
 
-<% %w(height width).each do |column| %>
+<% %w(height_cm width_cm).each do |column| %>
 -- Convert to numeric
 ALTER TABLE Artworks
   ALTER COLUMN <%= column %> TYPE NUMERIC USING <%= column %>::numeric;
