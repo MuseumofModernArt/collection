@@ -16,7 +16,7 @@ jobs:
       PGPASSWORD: postgres
     services:
       postgres:
-        image: postgres:10
+        image: postgres:${{ matrix.postgres }}
         env:
           POSTGRES_PASSWORD: postgres
         ports:
@@ -41,6 +41,11 @@ jobs:
         - 2.6
         - 2.7
         - jruby
+        postgres: 
+        - 10
+        - 11
+        - 12
+        - 13
     continue-on-error: ${{ endsWith(matrix.ruby, 'head') || matrix.ruby == 'debug' }}
 
     steps:
@@ -55,11 +60,14 @@ jobs:
         ruby-version: ${{ matrix.ruby }}
 
     - name: Check convert2psql
-      run: bin/convert2psql | psql --user postgres --host localhost --port 5432
+      run: >-
+        bin/convert2psql |
+        psql -v ON_ERROR_STOP=ON --user postgres --host localhost --port 5432
 
     - name: Test import with sql query
       run: |
        psql --user postgres --host localhost --port 5432 --dbname moma <<< "
+       \set ON_ERROR_STOP on 
        select 
          m.medium,
          aw.title,
