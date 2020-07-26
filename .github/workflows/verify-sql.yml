@@ -33,18 +33,14 @@ jobs:
       fail-fast: false
       matrix:
         os: 
-        - ubuntu-20.04
-        - ubuntu-18.04
-        - ubuntu-16.04
+        - ubuntu-latest
         ruby: 
         - 2.5
         - 2.6
         - 2.7
-        - jruby
         postgres: 
         - 10
         - 11
-        - 12
         - 13
     continue-on-error: ${{ endsWith(matrix.ruby, 'head') || matrix.ruby == 'debug' }}
 
