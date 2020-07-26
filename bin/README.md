@@ -23,5 +23,13 @@ bin/convert2psql | psql -U postgres
 ```bash
 bin/convert2psql > moma.sql
 ```
+
+## Test Matrix
+
+The script has been tested on:
+* Ubuntu 16.04 against ruby: 2.5, 2.6, 2.7, jruby; postgresql: 10, 11, 12, 13
+* Ubuntu 18.04 against ruby: 2.5, 2.6, 2.7, jruby; postgresql: 10, 11, 12, 13
+* Ubuntu 20.04 against ruby: 2.5, 2.6, 2.7, jruby; postgresql: 10, 11, 12, 13
+
 [postgresql][https://postgresql.org]
 [psql][https://www.postgresql.org/docs/current/app-psql.html]
