@@ -48,14 +48,14 @@ class ConvertToSql
     @table.map { |r| r.join("\t") }.join("\n") 
   end
 
-  def ddl_fields
+  def ddl_columns
     ddl = @fields.map do |key, value|
        "  #{key_to_column(key)} #{value}"
     end
     ddl.join(",\n")
   end 
 
-  def fields
+  def columns
     keys_to_column.join(', ')
   end
 
@@ -157,15 +157,8 @@ end
 # -----------------------------------------------------------------------------
 # Main
 # -----------------------------------------------------------------------------
-artists         = Artists.new
-artists_fields  = artists.fields
-artists_data    = artists.data
-artists_ddl     = artists.ddl_fields
-
-artworks        = Artworks.new
-artworks_data   = artworks.data
-artworks_fields = artworks.fields
-artworks_ddl    = artworks.ddl_fields
+artists  = Artists.new
+artworks = Artworks.new
 
 # table creation for normalization
 tables = {
@@ -218,23 +211,23 @@ CREATE DOMAIN QID AS TEXT
   Create Tables
 ---------------------------------------------------------------------------- */
 CREATE TABLE Artists (
-<%= artists_ddl %>
+<%= artists.ddl_columns %>
 );
 
 CREATE TABLE Artworks (
-<%= artworks_ddl %>
+<%= artworks.ddl_columns %>
 );
 
 
 /* ----------------------------------------------------------------------------
   Poupulate Tables
 ---------------------------------------------------------------------------- */
-COPY Artists (<%= artists_fields %>) FROM stdin;
-<%= artists_data %>
+COPY Artists (<%= artists.columns %>) FROM stdin;
+<%= artists.data %>
 \.
 
-COPY Artworks (<%= artworks_fields %>) FROM stdin;
-<%= artworks_data %>
+COPY Artworks (<%= artworks.columns %>) FROM stdin;
+<%= artworks.data %>
 \.
 
 
