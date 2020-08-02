@@ -11,6 +11,16 @@ Note: While the data is normalized no indexes are created at least for now.
 
 ## Usage
 
+```
+Usage:
+    convert2psql [options]
+
+Options:
+    -o, --output=FILE                Write SQL to ouptut file
+    -p, --password=PW                Use password for moma user
+    -h, --help                       Print this message
+```
+
 ### Create database by piping into `psql`
 
 ```bash
@@ -22,6 +32,15 @@ bin/convert2psql | psql -U postgres
 
 ```bash
 bin/convert2psql > moma.sql
+```
+
+```bash
+bin/convert2psql -o moma.sql
+```
+### Override the default password for the `moma` user
+
+```bash
+bin/convert2psql -p 'Very-Confidential!' -o moma.sql
 ```
 
 ## Test Matrix

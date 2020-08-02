@@ -9,14 +9,45 @@
 # -----------------------------------------------------------------------------
 require 'erb'
 require 'json'
+require 'optparse'
 
 # -----------------------------------------------------------------------------
 # Globals
 # -----------------------------------------------------------------------------
+SCRIPT   = File.basename($PROGRAM_NAME)
 TEMPLATE = DATA.read
+VERSION  = '0.2.0'
+AUTHOR   = 'Urs Roesch <github@bun.ch>'
+LICENSE  = 'MIT'
+PASSWORD = '@Top-Secret!!'
 
 # -----------------------------------------------------------------------------
 # Classes
+# -----------------------------------------------------------------------------
+class Options
+  def self.parse(argv)
+    result = {}
+    option_parser = OptionParser.new do |options|
+      options.banner = "Usage:\n    #{SCRIPT} [options]\n\nOptions:\n"
+
+      options.on("-oFILE", "--output=FILE", "Write SQL to ouptut file") do |f|
+        result[:output] = f
+      end
+
+      options.on("-pPW", "--password=PW", "Use password for moma user") do |p|
+        result[:password] = p
+      end 
+
+      options.on("-h", "--help", "Print this message") do
+        puts options
+        exit 0
+      end
+    end
+    option_parser.parse!(argv)
+    result
+  end
+end
+
 # -----------------------------------------------------------------------------
 class ConvertToSql
   DATA_DIR = File.realpath(File.join(File.dirname(__FILE__), '..'))
@@ -106,7 +137,7 @@ end
 
 class Artworks < ConvertToSql
   JSON_FILE = 'Artworks.json'
-  FIELDS = {
+  FIELDS    = {
     Title: 'TEXT NOT NULL',          
     ConstituentID: 'INTEGER[] NOT NULL',
     Date: 'TEXT',
@@ -135,7 +166,7 @@ end
 
 class Artists < ConvertToSql
   JSON_FILE = 'Artists.json'
-  FIELDS = {
+  FIELDS    = {
     ConstituentID: 'INTEGER GENERATED ALWAYS AS IDENTITY',
     DisplayName: 'TEXT NOT NULL', 
     ArtistBio: 'TEXT NULL', 
@@ -157,6 +188,7 @@ end
 # -----------------------------------------------------------------------------
 # Main
 # -----------------------------------------------------------------------------
+options  = Options.parse(ARGV)
 artists  = Artists.new
 artworks = Artworks.new
 
@@ -175,10 +207,19 @@ enums = {
 }
 
 # enum type creation for better integrity
-password = '@Top-Secret!!'
+password = options.fetch(:password, PASSWORD)
 
-puts ERB.new(TEMPLATE).result
-
+begin
+  sql = ERB.new(TEMPLATE).result
+  File.open(options.fetch(:output, nil), 'w') do |fh|
+    fh.puts sql
+  end
+rescue Errno::ENOENT => e
+  $stderr.puts e.message
+  exit 124
+rescue TypeError
+  $stdout.puts sql
+end
 __END__
 /* ----------------------------------------------------------------------------
   Create moma user and database
