@@ -16,7 +16,7 @@ require 'optparse'
 # -----------------------------------------------------------------------------
 SCRIPT   = File.basename($PROGRAM_NAME)
 TEMPLATE = DATA.read
-VERSION  = '0.2.0'
+VERSION  = '0.2.1'
 AUTHOR   = 'Urs Roesch <github@bun.ch>'
 LICENSE  = 'MIT'
 PASSWORD = '@Top-Secret!!'
@@ -65,7 +65,7 @@ class ConvertToSql
   def to_table
     read_json unless @json
     @table = @json.map do |record| 
-      @fields.keys.each.inject([]) do |entry, key|
+      @fields.keys.inject([]) do |entry, key|
         value = record.fetch(key, '')
         entry.push(convert_value(value))
         entry
