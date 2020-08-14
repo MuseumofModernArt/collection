@@ -1,0 +1,28 @@
+# -----------------------------------------------------------------------------
+# Automerge pull requests for moma-collection
+# Author: Urs Roesch https://github.com/uroesch
+# Version: 0.1.0 
+# -----------------------------------------------------------------------------
+name: automerge
+on:
+  pull_request:
+    branches:
+      - postgresql
+  check_suite:
+    types:
+      - completed
+  status: {}
+jobs:
+  automerge:
+    runs-on: ubuntu-latest
+    steps:
+      - name: automerge pull request
+        uses: "pascalgn/automerge-action@v0.9.0"
+        env:
+          MERGE_FILTER_AUTHOR: uroesch
+          MERGE_FORKS: false
+          MERGE_RETRIES: 20
+          MERGE_RETRY_SLEEP: 60000
+          MERGE_DELETE_BRANCH: true
+          MERGE_LABELS: ""
+          GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"

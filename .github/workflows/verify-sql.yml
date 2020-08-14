@@ -6,7 +6,7 @@
 name: verify-sql
 
 on:
-  push:
+  pull_request:
     branches: 
     - postgresql
 
@@ -41,6 +41,7 @@ jobs:
         postgres: 
         - 10
         - 11
+        - 12
         - 13
     continue-on-error: ${{ endsWith(matrix.ruby, 'head') || matrix.ruby == 'debug' }}
 
