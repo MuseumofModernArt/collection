@@ -1,0 +1,33 @@
+# -----------------------------------------------------------------------------
+# Sync forked master
+# Author: Urs Roesch https://github.com/uroesch
+# Version: 0.1.2 
+# -----------------------------------------------------------------------------
+name: sync-fork
+
+on:
+  schedule:
+    - cron: '0 * 1-3 * *' # Run every hour on 1 to 3 day of month
+  workflow_dispatch:
+
+jobs:
+  sync-fork:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Sync master
+        uses: tgymnich/fork-sync@v1.2.1
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          owner: MuseumofModernArt
+          base: master
+          head: master
+          merge_method: rebase
+
+      - name: Sync postgresql
+        uses: tgymnich/fork-sync@v1.2.1
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          owner: MuseumofModernArt
+          base: postgresql
+          head: master
+          merge_method: rebase
