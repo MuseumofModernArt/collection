@@ -9,8 +9,10 @@ on:
   push:
     branches:
       - workflow/*
-  schedule:
-    - cron: '0 * 1-3 * *' # Run every hour on 1 to 3 day of month
+  # Github prevents scheduled jobs from running in forks
+  # Defies the purpos of this whole workflow but left in for nostalgia. 
+  # schedule:
+  #   - cron: '0 * 1-3 * *' # Run every hour on 1 to 3 day of month
   workflow_dispatch:
 
 jobs:
