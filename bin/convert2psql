@@ -16,7 +16,7 @@ require 'optparse'
 # -----------------------------------------------------------------------------
 SCRIPT   = File.basename($PROGRAM_NAME)
 TEMPLATE = DATA.read
-VERSION  = '0.2.1'
+VERSION  = '0.2.2'
 AUTHOR   = 'Urs Roesch <github@bun.ch>'
 LICENSE  = 'MIT'
 PASSWORD = '@Top-Secret!!'
@@ -90,6 +90,14 @@ class ConvertToSql
     keys_to_column.join(', ')
   end
 
+  def relations
+    normalize_items(@tables)
+  end
+
+  def enums
+    normalize_items(@enums)
+  end
+
   private
 
   def json_file
@@ -131,11 +139,20 @@ class ConvertToSql
       .gsub(%r{\r}, '')        # remove line feed
       .gsub(%r{\n}, '\\n')     # escape newlines
   end
+
+  def normalize_items(names)
+    parent_table = name.downcase.to_sym
+    names.each.inject({}) do |items, name|
+      items.merge({ name.to_sym => parent_table })
+    end
+  end
 end
 
 # -----------------------------------------------------------------------------
 
 class Artworks < ConvertToSql
+  TABLES    = %w( medium creditline )
+  ENUMS     = %w( classification department )
   JSON_FILE = 'Artworks.json'
   FIELDS    = {
     Title: 'TEXT NOT NULL',          
@@ -143,7 +160,7 @@ class Artworks < ConvertToSql
     Date: 'TEXT',
     Medium: 'TEXT',
     Dimensions: 'TEXT',
-    Creditline: 'TEXT',
+    CreditLine: 'TEXT',
     AccessionNumber: 'TEXT',
     Classification: 'TEXT',
     Department: 'TEXT',
@@ -159,12 +176,16 @@ class Artworks < ConvertToSql
   def initialize
     @json_file = JSON_FILE
     @fields    = FIELDS
+    @tables    = TABLES
+    @enums     = ENUMS
   end
 end
 
 # -----------------------------------------------------------------------------
 
 class Artists < ConvertToSql
+  TABLES    = %w( nationality )
+  ENUMS     = %w( gender )
   JSON_FILE = 'Artists.json'
   FIELDS    = {
     ConstituentID: 'INTEGER GENERATED ALWAYS AS IDENTITY',
@@ -181,6 +202,8 @@ class Artists < ConvertToSql
   def initialize
     @json_file = JSON_FILE
     @fields    = FIELDS
+    @tables    = TABLES
+    @enums     = ENUMS
   end
 end
 
