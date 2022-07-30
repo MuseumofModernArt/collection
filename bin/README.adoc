@@ -1,0 +1,107 @@
+= convert2psql
+:author: Urs Roesch
+:no-toc:
+:icons: font
+:hide-uri-scheme:
+:postgresql-url: https://postgresql.org
+:psql-url: https://www.postgresql.org/docs/current/app-psql.html
+ifdef::env-github[]
+:tip-caption: :bulb:
+:note-caption: :information_source:
+:important-caption: :heavy_exclamation_mark:
+:caution-caption: :fire:
+:warning-caption: :warning:
+endif::[]
+
+Is a script that converts the file `Artists.json` and `Artworks.json` from the
+upstream MoMA collection to a {postgresql-url}[PostgreSQL] SQL file usable by
+{psql-url}[psql].
+
+Besides copying the data into two tables there are a number of operations to
+normalize the data.
+
+This script was created to create a somewhat sizeable data set without creating
+you your own dataset.
+
+NOTE: While the data is normalized no indexes are created at least for now.
+
+== Usage
+
+[source,console]
+----
+Usage:
+    convert2psql [options]
+
+Options:
+    -o, --output=FILE                Write SQL to ouptut file
+    -p, --password=PW                Use password for moma user
+    -h, --help                       Print this message
+----
+
+=== Create database by piping into `psql`
+
+[source,console]
+----
+$ bin/convert2psql | psql -U postgres
+----
+
+=== Create SQL file to be used with `psql`
+
+[source,console]
+----
+$ bin/convert2psql > moma.sql
+----
+
+[source,console]
+----
+$ bin/convert2psql -o moma.sql
+----
+
+=== Override the default password for the `moma` user
+
+[source,console]
+----
+$ bin/convert2psql -p 'Very-Confidential!' -o moma.sql
+----
+
+NOTE: The default password is `@Top-Secret!!`.
+
+== Test Matrix
+
+The script has and is being tested against:
+
+[cols="2,>1,>1", options=headers]
+|===
+| OS Version   <| Ruby Version <| PostgreSQL Version
+
+| Ubuntu 20.04 | 2.5 | 10
+| Ubuntu 20.04 | 2.5 | 11
+| Ubuntu 20.04 | 2.5 | 12
+| Ubuntu 20.04 | 2.5 | 13
+| Ubuntu 20.04 | 2.5 | 14
+
+| Ubuntu 20.04 | 2.6 | 10
+| Ubuntu 20.04 | 2.6 | 11
+| Ubuntu 20.04 | 2.6 | 12
+| Ubuntu 20.04 | 2.6 | 13
+| Ubuntu 20.04 | 2.6 | 14
+
+| Ubuntu 20.04 | 2.7 | 10
+| Ubuntu 20.04 | 2.7 | 11
+| Ubuntu 20.04 | 2.7 | 12
+| Ubuntu 20.04 | 2.7 | 13
+| Ubuntu 20.04 | 2.7 | 14
+
+| Ubuntu 20.04 | 3.0 | 10
+| Ubuntu 20.04 | 3.0 | 11
+| Ubuntu 20.04 | 3.0 | 12
+| Ubuntu 20.04 | 3.0 | 13
+| Ubuntu 20.04 | 3.0 | 14
+
+| Ubuntu 20.04 | 3.1 | 10
+| Ubuntu 20.04 | 3.1 | 11
+| Ubuntu 20.04 | 3.1 | 12
+| Ubuntu 20.04 | 3.1 | 13
+| Ubuntu 20.04 | 3.1 | 14
+
+|===
