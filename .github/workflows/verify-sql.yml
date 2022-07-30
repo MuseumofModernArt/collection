@@ -6,9 +6,12 @@
 name: verify-sql
 
 on:
+  push:
+    branches:
+      - workflow/*
   pull_request:
     branches: 
-    - postgresql
+      - postgresql
 
 jobs:
   verify-sql:
@@ -35,14 +38,17 @@ jobs:
         os: 
         - ubuntu-latest
         ruby: 
-        - 2.5
-        - 2.6
-        - 2.7
+        - '2.5'
+        - '2.6'
+        - '2.7'
+        - '3.0'
+        - '3.1'
         postgres: 
         - 10
         - 11
         - 12
         - 13
+        - 14
     continue-on-error: ${{ endsWith(matrix.ruby, 'head') || matrix.ruby == 'debug' }}
 
     steps:
