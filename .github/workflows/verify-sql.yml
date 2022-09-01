@@ -1,7 +1,7 @@
 # -----------------------------------------------------------------------------
 # Test converting json to sql
 # Author: Urs Roesch https://github.com/uroesch
-# Version: 0.2.0 
+# Version: 0.3.0
 # -----------------------------------------------------------------------------
 name: verify-sql
 
@@ -12,6 +12,7 @@ on:
   pull_request:
     branches: 
       - postgresql
+  workflow_dispatch:
 
 jobs:
   verify-sql:
