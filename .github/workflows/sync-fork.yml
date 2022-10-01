@@ -1,7 +1,7 @@
 # -----------------------------------------------------------------------------
 # Sync forked master
 # Author: Urs Roesch https://github.com/uroesch
-# Version: 0.1.3 
+# Version: 0.1.4 
 # -----------------------------------------------------------------------------
 name: sync-fork
 
@@ -22,7 +22,7 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v2
         with:
-          ref: master
+          ref: upstream
  
       - name: Sync with parent
         run: |2+
@@ -39,5 +39,5 @@ jobs:
           if git rebase upstream/master | grep -q "is up to date"; then
             echo "Nothing to do"
           else
-            git push origin master
+            git push origin upstream
           fi
