@@ -1,3 +1,5 @@
 .rake_tasks~
 *.sql
+*.sql.*
+secret.yaml
 !MoMA-collection.*.sql

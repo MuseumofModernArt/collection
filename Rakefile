@@ -1,7 +1,7 @@
-Rake.application.options.trace_rules = true
 # -----------------------------------------------------------------------------
 # Rakefile to help with the maintenance of the forked MoMA collection repo
 # -----------------------------------------------------------------------------
+require 'digest'
 
 # -----------------------------------------------------------------------------
 # Globals
@@ -11,6 +11,12 @@ SQL_FILE_FORMAT = 'MoMA-collection.%s.sql'
 DEFAULT_BRANCH  = 'main'
 UPSTREAM_BRANCH = 'upstream'
 REFERENCE_EXT   = 'json'
+
+# -----------------------------------------------------------------------------
+# Setup
+# -----------------------------------------------------------------------------
+Rake.application.options.trace_rules = true
+Rake::FileList['rake/*.rake'].each { |rake| load rake }
 
 # -----------------------------------------------------------------------------
 # Functions
@@ -50,66 +56,14 @@ rule '.postgresql.sql' => ->(f) { release(f) } do |t|
    touch t.name, :mtime => reference_time(t.source)
 end
 
-# -----------------------------------------------------------------------------
-# Namespaces
-# -----------------------------------------------------------------------------
-namespace :upstream do
-
-  desc 'Setup upstream in git'
-  task :setup do
-    @upstream_url = `git config --get remote.upstream.url`.strip
-    sh %(git remote add upstream #{UPSTREAM_URL}) \
-      if @upstream_url.empty?
-  end
-
-  desc 'Fetch upstream changes from github'
-  task :fetch => :setup do
-    sh %(git fetch upstream --prune)
-  end
-
-  desc 'Create upstream branch if not existing'
-  task :create_branch => :fetch do
-    sh %(git branch | grep #{UPSTREAM_BRANCH} ||) +
-       %(git branch #{UPSTREAM_BRANCH} #{remote_branch})
-    sh %(git branch --set-upstream-to=#{remote_branch} #{UPSTREAM_BRANCH})
-  end
-
-  desc 'Sync upstream changes to local copy of (main|master)'
-  task :sync => :fetch do
-    sh %(git rebase #{remote_branch} #{UPSTREAM_BRANCH})
-  end
-
-  desc 'Rebase with default branch'
-  task :rebase => :sync do
-    sh %(git rebase #{UPSTREAM_BRANCH} #{DEFAULT_BRANCH})
-  end
-
-  task :default => :rebase
+rule '.sql.zip' => '.sql' do |t|
+  sh %(7z a #{t.name} #{t.source} >/dev/null)
 end
 
-# -----------------------------------------------------------------------------
+rule '.sql.gz' => '.sql' do |t|
+  sh %(gzip -c -9 #{t.source} > #{t.name})
+end
 
-namespace :postgresql do
-  file_name      = SQL_FILE_FORMAT % %w( postgresql )
-  timestamp_file = 'Artworks.json'
-
-  desc 'Switch to default branch'
-  task :checkout_default_branch do
-    sh %(git checkout #{DEFAULT_BRANCH})
-  end
-
-  desc 'Create commit with sql file'
-  task :commit => file_name do
-    puts file_name
-    if `git status --short`.length > 0
-      timestamp   = File.stat(file_name).mtime
-      tag_date    = timestamp.strftime('%Y-%m')
-      commit_date = timestamp.strftime('%B %-d. %Y')
-      sh %(git add #{file_name})
-      sh %(git commit -m "SQL: Postgres #{commit_date} updates" #{file_name})
-      sh %(git tag sql-release-#{tag_date})
-    end
-  end
-
-  task :default => [ 'upstream:default', :commit ]
+rule '.sha256' => ->(f) { f.ext } do |t|
+  File.write(t.name, Digest::SHA256.file(t.source).hexdigest + "\n")
 end

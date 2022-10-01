@@ -19,6 +19,11 @@ jobs:
   sync-fork:
     runs-on: ubuntu-latest
     steps:
+      - name: env
+        shell: bash
+        run: |
+          env | grep GITHUB || :
+
       - name: Checkout repo
         uses: actions/checkout@v2
         with:
