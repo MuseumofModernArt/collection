@@ -101,9 +101,9 @@ class ConvertToSql
   private
 
   def json_file
-    return @json_file if File.exists?(@json_file)
+    return @json_file if File.exist?(@json_file)
     json_file = File.join(DATA_DIR, @json_file)
-    return json_file if File.exists?(json_file)
+    return json_file if File.exist?(json_file)
     ''
   end
 
