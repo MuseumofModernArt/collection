@@ -17,7 +17,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: automerge pull request
-        uses: "pascalgn/automerge-action@v0.15.3"
+        uses: "pascalgn/automerge-action@v0.15.6"
         env:
           MERGE_FILTER_AUTHOR: uroesch
           MERGE_FORKS: false
