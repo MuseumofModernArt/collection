@@ -41,8 +41,9 @@ jobs:
           set -x
           git remote add upstream $(upstream_url)
           git fetch upstream
-          if git rebase upstream/master | grep -q "is up to date"; then
+          if git rebase upstream/main | grep -q "is up to date"; then
             echo "Nothing to do"
           else
             git push origin upstream
+            git push --tags
           fi
