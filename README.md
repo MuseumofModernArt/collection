@@ -3,9 +3,9 @@ The Museum of Modern Art (MoMA) Collection
 
 The Museum of Modern Art (MoMA) acquired its first artworks in 1929, the year it was established. Today, the Museum’s evolving collection contains almost 200,000 works from around the world spanning the last 150 years. The collection includes an ever-expanding range of visual expression, including painting, sculpture, printmaking, drawing, photography, architecture, design, film, and media and performance art.
 
-MoMA is committed to helping everyone understand, enjoy, and use our collection. The Museum’s [website](http://www.moma.org/collection) features 106,025 artworks from 28,087 artists. This research dataset contains 160,067 records, representing all of the works that have been accessioned into MoMA’s collection and cataloged in our database. It includes basic metadata for each work, including title, artist, date made, medium, dimensions, and date acquired by the Museum. Some of these records have incomplete information and are noted as “not Curator Approved.”
+MoMA is committed to helping everyone understand, enjoy, and use our collection. The Museum’s [website](http://www.moma.org/collection) features 106,057 artworks from 28,087 artists. This research dataset contains 160,104 records, representing all of the works that have been accessioned into MoMA’s collection and cataloged in our database. It includes basic metadata for each work, including title, artist, date made, medium, dimensions, and date acquired by the Museum. Some of these records have incomplete information and are noted as “not Curator Approved.”
 
-The Artists dataset contains 15,754 records, representing all the artists who have work in MoMA's collection and have been cataloged in our database. It includes basic metadata for each artist, including name, nationality, gender, birth year, death year, Wiki QID, and Getty ULAN ID.
+The Artists dataset contains 15,763 records, representing all the artists who have work in MoMA's collection and have been cataloged in our database. It includes basic metadata for each artist, including name, nationality, gender, birth year, death year, Wiki QID, and Getty ULAN ID.
 
 At this time, both datasets are available in CSV format, encoded in UTF-8. While UTF-8 is the standard for multilingual character encodings, it is not correctly interpreted by Excel on a Mac. Users of Excel on a Mac can convert the UTF-8 to UTF-16 so the file can be imported correctly. The datasets are also available in JSON.
 
@@ -27,7 +27,7 @@ We plan to update the datasets with new and revised information on a regular bas
 Because these datasets are generated from our internal database, we do *not* accept pull requests. If you have identified errors or have extra information to share, please email us at [collection@moma.org](mailto:collection@moma.org) and we will forward to the appropriate department for review.
 
 ### Give attribution to MoMA
-MoMA requests that you actively acknowledge and give attribution to MoMA wherever possible. If you use one or both of the datasets for a publication, please cite it using the digital object identifier [![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.17787071.svg)](http://dx.doi.org/10.5281/zenodo.17787071). Attribution supports efforts to release other data. It also reduces the amount of “orphaned data,” helping retain links to authoritative sources.
+MoMA requests that you actively acknowledge and give attribution to MoMA wherever possible. If you use one or both of the datasets for a publication, please cite it using the digital object identifier [![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.17863921.svg)](http://dx.doi.org/10.5281/zenodo.17863921). Attribution supports efforts to release other data. It also reduces the amount of “orphaned data,” helping retain links to authoritative sources.
 
 ### Do not misrepresent the dataset
 Do not mislead others or misrepresent the datasets or their source. You must not use MoMA’s trademarks or otherwise claim or imply that MoMA endorses you or your use of the dataset.
